@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:00:09.919709+05:30",
+  "generated_at": "2026-08-02T04:25:56.882553+05:30",
   "trending_resources": [
     {
       "id": "hackernews:kaisel-routes-as-values-dart-3-native-router-for-f",
@@ -54,19 +54,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:extensions-for-visual-studio-family-of-products-vi",
-      "title": "Extensions for Visual Studio family of products | Visual Studio Marketplace",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://marketplace.visualstudio.com/vscode",
-      "file_path": "ai/rag/extensions-for-visual-studio-family-of-products-vi.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 5381,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "github:security/advanced-security",
       "title": "GitHub Code Security · GitHub",
       "category": "ai/rag",
@@ -75,7 +62,7 @@
       "file_path": "ai/rag/security-advanced-security.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4510,
+      "rank_change": 4511,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +75,7 @@
       "file_path": "ai/rag/atlassian-community-learn-connect-and-grow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12062,
+      "rank_change": 12063,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,20 +88,7 @@
       "file_path": "ai/resources/atlassian-documentation-atlassian-support-atlassia.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 10973,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:run-llama/llamaindexts",
-      "title": "LlamaIndexTS/CONTRIBUTING.md at main · run-llama/LlamaIndexTS · GitHub",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://github.com/run-llama/llamaindexts",
-      "file_path": "ai/rag/run-llama-llamaindexts.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4515,
+      "rank_change": 10974,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +101,33 @@
       "file_path": "ai/rag/run-llama-llama-parse-cli.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1378,
+      "rank_change": 1380,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:weaviate/weaviate",
+      "title": "Releases · weaviate/weaviate · GitHub",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://github.com/weaviate/weaviate",
+      "file_path": "ai/rag/weaviate-weaviate.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 5,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:getting-started-electron-forge",
+      "title": "Getting Started | Electron Forge",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://electronforge.io",
+      "file_path": "ai/rag/getting-started-electron-forge.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 82,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/atlassian-community-learn-connect-and-grow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12062,
+      "rank_change": 12063,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +155,7 @@
       "file_path": "ai/rag/atlassian-customer-agreement-atlassian.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 11536,
+      "rank_change": 11552,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/rag/machine-learning-in-the-tidyverse-course-datacamp.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 11293,
+      "rank_change": 11306,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,20 +181,7 @@
       "file_path": "ai/rag/expert-services-github-github.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 11260,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:google-product-forums",
-      "title": "Google Product Forums",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://productforums.google.com/forum",
-      "file_path": "ai/resources/google-product-forums.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 11104,
+      "rank_change": 11276,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/resources/atlassian-documentation-atlassian-support-atlassia.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 10973,
+      "rank_change": 10974,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,20 +207,7 @@
       "file_path": "ai/rag/welcome-to-llamaindex-ts-developer-documentation.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 6418,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:extensions-for-visual-studio-family-of-products-vi",
-      "title": "Extensions for Visual Studio family of products | Visual Studio Marketplace",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://marketplace.visualstudio.com/vscode",
-      "file_path": "ai/rag/extensions-for-visual-studio-family-of-products-vi.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 5381,
+      "rank_change": 6434,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +220,7 @@
       "file_path": "ai/rag/scite-ai-for-research.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 5360,
+      "rank_change": 5374,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +233,33 @@
       "file_path": "ai/resources/visual-studio-support-customer-help-faqs.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 5315,
+      "rank_change": 5331,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:ad-settings",
+      "title": "Ad Settings",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://myadcenter.google.com",
+      "file_path": "ai/resources/ad-settings.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 5294,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:gohugoio/hugo-goldmark-extensions",
+      "title": "gohugoio/hugo-goldmark-extensions",
+      "category": "ai/resources",
+      "source_type": "github",
+      "url": "https://github.com/gohugoio/hugo-goldmark-extensions",
+      "file_path": "ai/resources/gohugoio-hugo-goldmark-extensions.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 5256,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -331,51 +331,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:unstructured-data-platform-for-genai-unstructured",
-      "title": "Unstructured Data Platform for GenAI | Unstructured",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://unstructured.io",
-      "file_path": "ai/rag/unstructured-data-platform-for-genai-unstructured.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:unstructured-github",
-      "title": "Unstructured · GitHub",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://github.com/unstructured-io",
-      "file_path": "ai/rag/unstructured-github.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:unstructured-data-ai-engineering-blog-unstructured",
       "title": "Unstructured Data & AI Engineering Blog | Unstructured",
       "category": "ai/rag",
       "source_type": "web",
       "url": "https://unstructured.io/blog",
       "file_path": "ai/rag/unstructured-data-ai-engineering-blog-unstructured.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:sentence-transformers/multi-qa-minilm-l6-cos-v1",
-      "title": "sentence-transformers/multi-qa-MiniLM-L6-cos-v1 · Hugging Face",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://huggingface.co/sentence-transformers/multi-qa-minilm-l6-cos-v1",
-      "file_path": "ai/resources/huggingface-sentence-transformers-multi-qa-minilm-l6-cos-v1.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -396,19 +357,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:speechify-github",
-      "title": "Speechify · GitHub",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://github.com/speechifyinc",
-      "file_path": "ai/agents/speechify-github.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:ads-that-respect-your-privacy-google-safety-center",
       "title": "Ads that Respect Your Privacy - Google Safety Center",
       "category": "ai/resources",
@@ -422,12 +370,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:google-account-help",
-      "title": "Google Account Help",
+      "id": "blog:github-desktop-simple-collaboration-from-your-desk",
+      "title": "GitHub Desktop | Simple collaboration from your desktop · GitHub",
       "category": "ai/rag",
       "source_type": "web",
-      "url": "https://support.google.com/accounts?hl=en-US&p=account_iph",
-      "file_path": "ai/rag/google-account-help.md",
+      "url": "https://desktop.github.com",
+      "file_path": "ai/rag/github-desktop-simple-collaboration-from-your-desk.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -435,12 +383,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:text-to-speech-leaderboard-top-ai-speech-models",
-      "title": "Text to Speech Leaderboard - Top AI Speech Models",
-      "category": "ai/agents",
+      "id": "blog:advancing-the-world-s-knowledge-research-solutions",
+      "title": "Advancing the World's Knowledge | Research Solutions",
+      "category": "ai/rag",
       "source_type": "web",
-      "url": "https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true",
-      "file_path": "ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md",
+      "url": "https://researchsolutions.com",
+      "file_path": "ai/rag/advancing-the-world-s-knowledge-research-solutions.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -448,12 +396,51 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:get-started-datacamp",
-      "title": "Get Started | DataCamp",
+      "id": "blog:home-rdocumentation",
+      "title": "Home - RDocumentation",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://rdocumentation.org",
+      "file_path": "ai/resources/home-rdocumentation.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:control-your-ad-experience-my-ad-center-help",
+      "title": "Control your ad experience - My Ad Center Help",
       "category": "ai/rag",
       "source_type": "web",
-      "url": "https://app.datacamp.com/sandbox/get-started/python-amazon-bedrock",
-      "file_path": "ai/rag/get-started-datacamp.md",
+      "url": "https://support.google.com/accounts?p=privpol_whyad&hl=en_US",
+      "file_path": "ai/rag/control-your-ad-experience-my-ad-center-help.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:back-up-or-import-your-blog-blogger-help",
+      "title": "Back up or import your blog - Blogger Help",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://support.google.com/blogger?p=privpol_blog",
+      "file_path": "ai/resources/back-up-or-import-your-blog-blogger-help.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

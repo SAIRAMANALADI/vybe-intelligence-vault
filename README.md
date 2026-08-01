@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-141%2C450-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-81%2C651-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--02-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **141,450 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **81,651 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,311</p>
-        <p><b>Active:</b> 15,875 | <b>Inactive:</b> 436</p>
+        <p><b>Resources tracked:</b> 15,295</p>
+        <p><b>Active:</b> 14,859 | <b>Inactive:</b> 436</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 60,910</p>
+        <p><b>Archive Files:</b> 2,092</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 141,450 files</p>
-        <p><b>Last Update:</b> 2026-08-02 04:00 IST</p>
+        <p><b>Total Vault Size:</b> 81,651 files</p>
+        <p><b>Last Update:</b> 2026-08-02 04:25 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -214,7 +214,7 @@ score_threshold: 0.65
 - 🔼 **[Explorative modeling: Train on the best of K guesses](ai/community/explorative-modeling-train-on-the-best-of-k-guesse.md)** • <kbd>+12 pts</kbd>
 - 🔼 **[Flint: A Visualization Language for the AI Era](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)** • <kbd>+9 pts</kbd>
 - 🔼 **[Documentation for Visual Studio Code](ai/agents/documentation-for-visual-studio-code.md)** • Rank: <kbd>+1544</kbd>
-- 🔼 **[Extensions for Visual Studio family of products | Visual Studio Marketplace](ai/rag/extensions-for-visual-studio-family-of-products-vi.md)** • Rank: <kbd>+5381</kbd>
+- 🔼 **[GitHub Code Security · GitHub](ai/rag/security-advanced-security.md)** • Rank: <kbd>+4511</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
