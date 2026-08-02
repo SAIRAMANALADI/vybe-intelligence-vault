@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vndee/local-assistant-examples
-collected_at: '2026-08-02T14:09:52.700513+05:30'
+collected_at: '2026-08-02T16:23:32.801174+05:30'
 published_at: '2026-06-05T12:02:48Z'
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-11-30T15:51:33Z'
 pushed_at: '2025-10-20T09:08:40Z'
 resource_id: github:vndee/local-assistant-examples
-first_seen: '2026-08-02T14:09:52.700513+05:30'
-last_seen: '2026-08-02T14:09:52.700513+05:30'
-last_checked: '2026-08-02T14:09:52.700513+05:30'
+first_seen: '2026-08-02T16:23:32.801174+05:30'
+last_seen: '2026-08-02T16:23:32.801174+05:30'
+last_checked: '2026-08-02T16:23:32.801174+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates building a local ChatPDF application using LangChain, LLMs, and RAG with Ollama for offline LLM inference.
-- **Tech Stack**: Python-based, leveraging LangChain for LLM orchestration, RAG for document retrieval, and Ollama for local LLM deployment.
-- **Key Features**: Enables offline document interaction (e.g., PDF Q&A) via a locally hosted assistant, avoiding cloud dependencies.
+- **Purpose**: Provides a Python-based framework to locally deploy a ChatPDF application using LangChain, LLMs, and RAG techniques.
+- **Key Technologies**: Integrates Ollama for LLM inference and leverages LangChain for document processing and retrieval-augmented generation (RAG).
+- **Local Execution**: Enables offline deployment of a ChatPDF system, avoiding cloud dependency while maintaining document privacy.
 
 ## Why It Matters
 

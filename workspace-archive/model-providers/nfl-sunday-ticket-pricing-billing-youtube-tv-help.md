@@ -2,7 +2,7 @@
 title: NFL Sunday Ticket pricing & billing - YouTube TV Help
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://support.google.com/youtubetv/answer/15137773?p=NFL_Sunday_Ticket_Payments&rd=1&visit_id=639003560018834577-2321660432
+source_url: https://support.google.com/youtubetv/answer/15137773
 resource_id: blog:nfl-sunday-ticket-pricing-billing-youtube-tv-help
 local_vault_path: ai/rag/nfl-sunday-ticket-pricing-billing-youtube-tv-help.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Pricing & Plans**: NFL Sunday Ticket is available as a **season pass** (Sept–Jan) or **month-to-month** add-on to YouTube TV ($82.99/month) or as a standalone **YouTube Primetime Channels** purchase, with optional NFL RedZone bundling.
-- **Coverage & Restrictions**: Includes **out-of-market Sunday afternoon games**, preseason/postseason, and local/national broadcasts; **no single-team/weekly plans** offered, and iOS Primetime Channel pricing may vary.
-- **Billing & Cancellation**: **Season p
+- **Pricing & Plans**: NFL Sunday Ticket is available as a season pass (Sept-Jan) or month-to-month add-on to YouTube TV ($82.99/month) or YouTube Primetime Channels, with optional NFL RedZone bundling; iOS device purchases may have different pricing.
+- **Coverage & Restrictions**: Includes out-of-market, local, national, and postseason games (YouTube TV) or out-of-market Sunday afternoon games only (YouTube Primetime Channels); no single-team or weekly plans offered.
+- **Billing & Cancellation*
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/youtubetv/answer/15137773?p=NFL_Sunday_Ticket_Payments&rd=1&visit_id=639003560018834577-2321660432
+Original source URL: https://support.google.com/youtubetv/answer/15137773
 
 ## Local Vault File
 

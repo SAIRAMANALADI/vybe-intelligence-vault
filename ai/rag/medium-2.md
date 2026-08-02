@@ -3,18 +3,20 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
-published_at: '2026-08-02T14:18:14.862498+05:30'
-collected_at: '2026-08-02T14:18:14.862513+05:30'
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+published_at: '2026-08-02T16:29:21.293028+05:30'
+collected_at: '2026-08-02T16:29:21.293040+05:30'
 tags:
 - agents
+- hackernews
 - rag
 - web-crawled
+- youtube
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-02T14:18:14.862513+05:30'
-last_seen: '2026-08-02T14:18:14.862513+05:30'
-last_checked: '2026-08-02T14:18:14.862513+05:30'
+first_seen: '2026-08-02T16:29:21.293040+05:30'
+last_seen: '2026-08-02T16:29:21.293040+05:30'
+last_checked: '2026-08-02T16:29:21.293040+05:30'
 health_score: 100
 ---
 
@@ -22,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **License Grant**: Users retain content ownership but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Medium services, including derivative works (e.g., previews, curated lists) with attribution.
-
-- **Dispute Resolution**: Mandatory **binding arbitration** under JAMS rules replaces litigation, waiving class actions/jury trials; disputes are resolved individually in San Francisco (or user’s county if a consumer) under the Federal Arbitration Act.
-
-- **Liability Limits**: Medium disclaims warranties (e.g., accuracy, fitness) and caps liability at **$50 USD or fees paid**, excluding gross negligence/fraud; users indemnify Medium for legal violations arising from their use.
+- **Data Collection**: Medium collects user-provided data (e.g., name, email, content, payment info via third parties) and automatically gathers activity, device, and usage data (IP, OS, cookies, beacons) for service operation, personalization, and analytics.
+- **Data Sharing & Processing**: Personal data is shared with vendors (hosting, analytics, fraud prevention), disclosed under legal obligations, or merged during corporate transitions; aggregated/de-identified data may also be shared.
+- **User Control & Compliance**: Users can access, correct, or delete account data; opt out of communications; and adjust cookie settings. Data transfers occur globally (e.g., AWS), with steps taken to ensure adequate protection under varying jurisdictions.
 
 ## Why It Matters
 
@@ -36,14 +36,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:18:14.862498+05:30
+- Published: 2026-08-02T16:29:21.293028+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - rag
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9

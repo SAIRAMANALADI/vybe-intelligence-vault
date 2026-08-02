@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/e2b-dev/awesome-ai-agents
-collected_at: '2026-08-02T09:26:15.676399+05:30'
-published_at: '2026-08-02T03:51:39Z'
+collected_at: '2026-08-02T16:25:27.967986+05:30'
+published_at: '2026-08-02T10:54:44Z'
 tags:
 - agents
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-06-19T00:20:06Z'
 pushed_at: '2026-07-09T17:41:48Z'
 resource_id: github:e2b-dev/awesome-ai-agents
-first_seen: '2026-08-02T09:26:15.676399+05:30'
-last_seen: '2026-08-02T09:26:15.676399+05:30'
-last_checked: '2026-08-02T09:26:15.676399+05:30'
+first_seen: '2026-08-02T16:25:27.967986+05:30'
+last_seen: '2026-08-02T16:25:27.967986+05:30'
+last_checked: '2026-08-02T16:25:27.967986+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated collection** of AI autonomous agents, frameworks, and tools including AutoGPT, BabyAGI, GPT-Engineer, and Copilot, with focus on Python-based implementations and OpenAI integrations.
-
-- **Highly active repository** with 29,224 stars and 3,261 forks, last updated in August 2026, indicating sustained community engagement and maintenance.
-
-- **Categorized resource** covering autonomous agents, AI-driven development tools, and GPT-4 integrations, serving as a reference for cutting-edge AI agent research and deployment.
+- **Curated repository** of AI autonomous agents, including **AutoGPT, BabyAGI, GPT-Engineer**, and other cutting-edge frameworks for agentic AI systems.
+- **Multi-language support** with primary focus on **Python**, covering **GPT-4, OpenAI APIs**, and **Copilot**-integrated tools for autonomous task execution.
+- **Actively maintained** (last updated **2026-08-02**), with **29.2K+ stars** and **3.2K+ forks**, indicating strong community adoption and rapid evolution.
 
 ## Why It Matters
 
@@ -44,10 +42,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: e2b-dev
 - Stars: 29224
-- Forks: 3261
+- Forks: 3263
 - Language: Unknown
 - Topics: agent, ai, artificial-intelligence, autogpt, autonomous-agents, awesome, babyagi, copilot, gpt, gpt-4, gpt-engineer, openai, python
-- Last Updated: 2026-08-02T03:51:39Z
+- Last Updated: 2026-08-02T10:54:44Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-06-19T00:20:06Z

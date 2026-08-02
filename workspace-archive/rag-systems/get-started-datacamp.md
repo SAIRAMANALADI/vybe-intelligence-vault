@@ -2,7 +2,7 @@
 title: Get Started | DataCamp
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://app.datacamp.com/sandbox/get-started/python-amazon-bedrock
+source_url: https://app.datacamp.com/sandbox/get-started/tableau
 resource_id: blog:get-started-datacamp
 local_vault_path: ai/rag/get-started-datacamp.md
 quality_score: 70
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- Supports **Single Sign-On (SSO)** via Google, Microsoft, LinkedIn, Facebook, and Apple for authentication.
-- Redirects to `python-amazon-bedrock` sandbox environment post-authentication with `remember_me` parameter control.
-- Compliance requires acceptance of **Terms of Use**, **Privacy Policy**, and data storage in the USA.
+- **Authentication Methods**: Supports email/password login, Single Sign-On (SSO), and OAuth via Google, Microsoft, LinkedIn, Facebook, and Apple.
+- **Data Storage & Compliance**: User data is stored in the USA, with sign-in requiring acceptance of Terms of Use and Privacy Policy.
+- **Redirect Logic**: Post-authentication, users are redirected to `/sandbox/get-started/tableau` via encoded URL parameters (`redirect=http://...`).
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://app.datacamp.com/sandbox/get-started/python-amazon-bedrock
+Original source URL: https://app.datacamp.com/sandbox/get-started/tableau
 
 ## Local Vault File
 

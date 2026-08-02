@@ -4,22 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-08-02T14:15:26.368317+05:30'
-collected_at: '2026-08-02T14:15:26.368327+05:30'
+published_at: '2026-08-02T16:30:16.058829+05:30'
+collected_at: '2026-08-02T16:30:16.058840+05:30'
 tags:
 - agents
 - anthropic
 - producthunt
 - rag
-- reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-08-02T14:15:26.368327+05:30'
-last_seen: '2026-08-02T14:15:26.368327+05:30'
-last_checked: '2026-08-02T14:15:26.368327+05:30'
+first_seen: '2026-08-02T16:30:16.058840+05:30'
+last_seen: '2026-08-02T16:30:16.058840+05:30'
+last_checked: '2026-08-02T16:30:16.058840+05:30'
 health_score: 100
 ---
 
@@ -27,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Agent Framework**: Open-source `dcode` coding agent built on Deep Agents SDK, supporting LLM provider/model switching, persistent memory for cross-session context, and customizable skills/approval controls for secure code execution.
+- **Modular LLM Integration**: `dcode` operates as an open-source coding agent on the Deep Agents SDK, supporting dynamic switching between LLM providers/models while maintaining persistent memory for cross-session context retention.
 
-- **Advanced Execution Features**: Supports remote sandboxes, subagent delegation for parallel tasks, MCP tool integration, and LangSmith tracing for observability; includes context compaction and human-in-the-loop approval for sensitive operations.
+- **Advanced Execution Controls**: Features remote sandboxes, human-in-the-loop approval gates, and configurable skills/MCP tools, enabling secure, parallelized task delegation via subagents and external tool integration.
 
-- **Configurable Workflows**: Enables goal/rubric definition for task validation, persistent memory storage/retrieval, and extensible skills via custom instructions or MCP server-loaded tools.
+- **Observability & Scalability**: Implements LangSmith tracing, context compaction for memory efficiency, and goal/rubric-based task validation, with CLI-based setup (`curl | bash`) for rapid deployment.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:15:26.368317+05:30
+- Published: 2026-08-02T16:30:16.058829+05:30
 
 ## Related Tags
 
@@ -49,9 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - producthunt
 - rag
-- reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - models
-status: active
+status: inactive
 resource_id: hackernews:explorative-modeling-train-on-the-best-of-k-guesse
 first_seen: '2026-08-01T21:43:20.310594+05:30'
 last_seen: '2026-08-02T14:08:19.852195+05:30'
 last_checked: '2026-08-02T14:08:19.852195+05:30'
 health_score: 100
 ---
+
 
 # Explorative modeling: Train on the best of K guesses
 

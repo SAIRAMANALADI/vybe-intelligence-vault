@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-02T14:09:27.675709+05:30'
-published_at: '2026-08-02T07:54:46Z'
+collected_at: '2026-08-02T16:23:07.841326+05:30'
+published_at: '2026-08-02T09:51:12Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
 - rag
-- workflows
 stars: 1679
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-01T20:27:22Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-02T14:09:27.675709+05:30'
-last_seen: '2026-08-02T14:09:27.675709+05:30'
-last_checked: '2026-08-02T14:09:27.675709+05:30'
+first_seen: '2026-08-02T16:23:07.841326+05:30'
+last_seen: '2026-08-02T16:23:07.841326+05:30'
+last_checked: '2026-08-02T16:23:07.841326+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack AI application template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL for data persistence, and Docker for containerization.
+- **Full-stack AI Agent Template**: Pre-configured starter kit for AI applications with FastAPI (backend) and Next.js (frontend), featuring AI Agents, Retrieval-Augmented Generation (RAG), real-time streaming, authentication, and 20+ integrations (e.g., CrewAI, LangChain, LangGraph).
 
-- **AI Capabilities**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for AI agent orchestration, RAG (Retrieval-Augmented Generation) pipelines, real-time streaming via WebSockets, and 20+ third-party integrations.
+- **Tech Stack**: Python-based backend with FastAPI, PostgreSQL for data storage, and TypeScript/React for the frontend; includes Docker for containerization, WebSocket for real-time communication, and Pydantic for data validation.
 
-- **Features**: Built-in authentication, Pydantic models (Deep/VDantic) for data validation, and modular architecture supporting LLM interactions, agent workflows, and scalable deployment.
+- **Key Features**: Out-of-the-box support for AI agent frameworks (CrewAI, LangChain, LangGraph), RAG pipelines, authentication, and integrations; optimized for scalability and rapid deployment.
 
 ## Why It Matters
 
@@ -48,7 +47,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 315
 - Language: Python
 - Topics: agent-framework, ai-agent-template, ai-agents, crewai, docker, fastapi, full-stack, langchain, langgraph, llm, nextjs, postgresql, pydantic-ai, pydantic-deep, python, rag, react, typescript, vstorm, websocket
-- Last Updated: 2026-08-02T07:54:46Z
+- Last Updated: 2026-08-02T09:51:12Z
 - License: MIT
 - Archived: No
 - Created At: 2025-12-19T12:23:15Z

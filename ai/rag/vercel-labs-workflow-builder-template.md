@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-08-02T14:11:17.803324+05:30'
+collected_at: '2026-08-02T16:24:57.957057+05:30'
 published_at: '2026-07-31T17:40:21Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-08-02T14:11:17.803324+05:30'
-last_seen: '2026-08-02T14:11:17.803324+05:30'
-last_checked: '2026-08-02T14:11:17.803324+05:30'
+first_seen: '2026-08-02T16:24:57.957057+05:30'
+last_seen: '2026-08-02T16:24:57.957057+05:30'
+last_checked: '2026-08-02T16:24:57.957057+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform**: Visual AI workflow automation platform enabling drag-and-drop construction of multi-agent systems in TypeScript.
-- **Architecture**: Leverages Vercel’s serverless infrastructure for scalable, event-driven workflow execution with real-time state management.
-- **Integration**: Supports modular agent components (e.g., LLMs, APIs, databases) with TypeScript-based SDK for custom logic and third-party service connectivity.
+- **Visual AI Workflow Automation**: Template for building AI-driven workflow automation platforms with a visual interface, leveraging TypeScript for frontend/backend integration.
+
+- **Agent-Based Architecture**: Implements modular AI agents for task orchestration, enabling dynamic workflow customization and execution.
+
+- **Vercel-Optimized Deployment**: Pre-configured for Vercel hosting, supporting serverless functions and edge runtime for scalable AI workflow execution.
 
 ## Why It Matters
 

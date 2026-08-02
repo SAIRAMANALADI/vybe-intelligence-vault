@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App
-collected_at: '2026-08-02T14:13:12.993774+05:30'
+collected_at: '2026-08-02T16:26:53.070191+05:30'
 published_at: '2026-07-28T07:34:22Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - shell
-- workflows
 stars: 45
 language: Shell
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-06-06T03:06:47Z'
 pushed_at: '2025-12-08T06:12:42Z'
 resource_id: github:the-swarm-corporation/multi-agent-template-app
-first_seen: '2026-08-02T14:13:12.993774+05:30'
-last_seen: '2026-08-02T14:13:12.993774+05:30'
-last_checked: '2026-08-02T14:13:12.993774+05:30'
+first_seen: '2026-08-02T16:26:53.070191+05:30'
+last_seen: '2026-08-02T16:26:53.070191+05:30'
+last_checked: '2026-08-02T16:26:53.070191+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a lightweight, high-performance foundation for building multi-agent applications using frameworks like AutoGen, CrewAI, and LangChain.
-- **Technical Stack**: Shell-based repository integrating LLMs, Transformers models, and tools (e.g., HuggingFace, AgentOps) for agentic workflows.
-- **Features**: Includes testing utilities, multi-agent orchestration, and support for swarm-based architectures, last updated July 2026.
+- **Template Overview**: Provides a minimalist, high-performance foundation for deploying multi-agent systems with support for frameworks like AutoGen, CrewAI, LangChain, and HuggingFace Transformers.
+
+- **Key Features**: Includes pre-configured agent operations (AgentOps), testing utilities, and seamless integration with LLM models and transformers-based architectures.
+
+- **Technical Stack**: Primarily shell-based, optimized for rapid setup and deployment of scalable multi-agent applications with Swarm Corporation's tooling.
 
 ## Why It Matters
 

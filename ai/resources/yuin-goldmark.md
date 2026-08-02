@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yuin/goldmark/
-collected_at: '2026-08-02T14:18:29.390401+05:30'
+collected_at: '2026-08-02T16:30:13.860914+05:30'
 published_at: '2026-08-02T01:36:02Z'
 tags:
 - github-repo
@@ -15,11 +15,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2019-04-26T11:24:21Z'
-pushed_at: '2026-07-29T07:27:59Z'
+pushed_at: '2026-08-02T09:28:32Z'
 resource_id: github:yuin/goldmark
-first_seen: '2026-08-02T14:18:29.390401+05:30'
-last_seen: '2026-08-02T14:18:29.390401+05:30'
-last_checked: '2026-08-02T14:18:29.390401+05:30'
+first_seen: '2026-08-02T16:30:13.860914+05:30'
+last_seen: '2026-08-02T16:30:13.860914+05:30'
+last_checked: '2026-08-02T16:30:13.860914+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Goldmark is a **CommonMark-compliant** Markdown parser written in **Go**, designed for extensibility and clean architecture.
-- **Features**: Supports **standard Markdown syntax** while allowing custom extensions; optimized for performance and maintainability.
-- **Ecosystem**: Actively maintained with **4,922 stars** and **302 forks**, serving as a foundational library for Go-based Markdown processing.
+- **Implementation**: Go-based CommonMark-compliant Markdown parser with modular architecture for extensibility.
+- **Compliance**: Fully adheres to CommonMark specification while maintaining performance and correctness.
+- **Features**: Supports custom extensions, AST-based processing, and efficient parsing with minimal overhead.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2019-04-26T11:24:21Z
-- Pushed At: 2026-07-29T07:27:59Z
+- Pushed At: 2026-08-02T09:28:32Z
 
 ## Possible Use Cases
 

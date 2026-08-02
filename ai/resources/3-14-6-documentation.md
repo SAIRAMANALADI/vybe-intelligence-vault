@@ -3,16 +3,16 @@ title: 3.14.6 Documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.python.org/3/
-published_at: '2026-08-01T21:53:09.632524+05:30'
-collected_at: '2026-08-01T21:53:09.632542+05:30'
+source_url: https://docs.python.org
+published_at: '2026-08-02T16:32:05.650474+05:30'
+collected_at: '2026-08-02T16:32:05.650486+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-08-01T21:53:09.632542+05:30'
-last_seen: '2026-08-01T21:53:09.632542+05:30'
-last_checked: '2026-08-01T21:53:09.632542+05:30'
+first_seen: '2026-08-02T16:32:05.650486+05:30'
+last_seen: '2026-08-02T16:32:05.650486+05:30'
+last_checked: '2026-08-02T16:32:05.650486+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Python 3.14.6** is the latest stable release, with documentation hosted at `docs.python.org/3/`, covering syntax, libraries, and C API references.
-- **Versioning support**: Active versions (3.14–3.12) receive security updates; EOL versions (≤3.9) are archived.
-- **Documentation structure**: Includes tutorials, language/reference manuals, packaging guides, and static typing resources (e.g., `typing.python.org`).
+- **Python 3.14.6** is the latest stable release, with documentation structured into sections covering "What's New," tutorials, library references, language specifications, and setup guides.
+
+- **Deprecated versions** (e.g., Python 3.9–2.6) are archived under EOL status, while **actively maintained versions** (3.10–3.14) receive security updates.
+
+- **Documentation resources** include PEP Index, packaging guides, static typing docs, and Sphinx-generated content with version-specific navigation (e.g., 3.16 in development).
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T21:53:09.632524+05:30
+- Published: 2026-08-02T16:32:05.650474+05:30
 
 ## Related Tags
 
@@ -40,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.python.org/3/
+Original source: https://docs.python.org

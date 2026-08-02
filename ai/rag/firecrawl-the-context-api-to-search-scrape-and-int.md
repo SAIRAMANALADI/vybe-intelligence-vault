@@ -4,9 +4,9 @@ title: Firecrawl - The context API to search, scrape, and interact with the web 
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://firecrawl.dev
-published_at: '2026-08-02T09:29:04.490766+05:30'
-collected_at: '2026-08-02T09:29:04.490781+05:30'
+source_url: https://firecrawl.dev/
+published_at: '2026-08-02T16:27:14.202753+05:30'
+collected_at: '2026-08-02T16:27:14.202763+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
-first_seen: '2026-08-02T09:29:04.490781+05:30'
-last_seen: '2026-08-02T09:29:04.490781+05:30'
-last_checked: '2026-08-02T09:29:04.490781+05:30'
+first_seen: '2026-08-02T16:27:14.202763+05:30'
+last_seen: '2026-08-02T16:27:14.202763+05:30'
+last_checked: '2026-08-02T16:27:14.202763+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Web Data Infrastructure**: Firecrawl provides a context API for scalable web search, scraping, and interaction, supporting output formats like Markdown, JSON, and screenshots, with 96% coverage including JS-heavy pages.
+- **Web Data Infrastructure**: Firecrawl provides a context API for scalable web search, scraping, and interaction, supporting output formats like JSON, Markdown, and screenshots, with 96% web coverage including JS-heavy pages.
 
-- **Performance & Efficiency**: Achieves P95 latency of 3.4s with 93% fewer input tokens by excluding non-essential content (navs, footers, ads), optimized for real-time AI agents and dynamic applications.
+- **Performance Metrics**: Achieves P95 latency of 3.4s for searches/scrapes, outputs token-efficient content (93% fewer tokens vs. raw HTML), and is open-source (159.3K GitHub stars) with active development.
 
-- **Agent Integration & Open Source**: Enables AI agent interaction via Skills/CLI or MCP, with open-source core (159.1K GitHub stars) and transparent development, supporting autonomous data gathering and fair web content access.
+- **Agent Integration**: Enables AI agents to interact with live web pages (click, type, scroll) via SDKs (Python/Node.js) or MCP, with features like smart wait, media parsing (PDF/DOCX), and direct agent onboarding.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T09:29:04.490766+05:30
+- Published: 2026-08-02T16:27:14.202753+05:30
 
 ## Related Tags
 
@@ -63,4 +63,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://firecrawl.dev
+Original source: https://firecrawl.dev/

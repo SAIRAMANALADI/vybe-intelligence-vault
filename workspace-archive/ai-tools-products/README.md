@@ -9,7 +9,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (framework - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
@@ -21,11 +21,11 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Mintlify · GitHub](https://github.com/mintlify)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - [Hugging Face · GitHub](https://github.com/huggingface)
 - [continuedev/continue](https://github.com/continuedev/continue)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-02 14:27 IST*
+*Last updated: 2026-08-02 16:40 IST*

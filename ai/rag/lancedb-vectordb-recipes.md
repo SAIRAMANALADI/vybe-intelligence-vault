@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-02T14:09:22.659777+05:30'
+collected_at: '2026-08-02T16:23:02.796571+05:30'
 published_at: '2026-07-27T01:59:34Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-02T14:09:22.659777+05:30'
-last_seen: '2026-08-02T14:09:22.659777+05:30'
-last_checked: '2026-08-02T14:09:22.659777+05:30'
+first_seen: '2026-08-02T16:23:02.796571+05:30'
+last_seen: '2026-08-02T16:23:02.796571+05:30'
+last_checked: '2026-08-02T16:23:02.796571+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for building multimodal AI systems, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and Large Language Models (LLMs).
-
-- **Tooling & Framework Integration**: Demonstrates integration with key libraries such as LangChain, LlamaIndex, OpenAI (including GPT-4 Vision), and LanceDB for embeddings, fine-tuning, and vector database operations.
-
-- **Technical Focus Areas**: Covers deep learning, embeddings generation, fine-tuning strategies, and multimodal AI techniques, with practical implementations for production-grade AI pipelines.
+- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials and recipes for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and LLMs.
+- **Tooling Integration**: Demonstrates integration with frameworks like LangChain, LlamaIndex, OpenAI (GPT, GPT-4-Vision), and vector databases (LanceDB) for fine-tuning, embeddings, and multimodal workflows.
+- **Technical Focus**: Covers deep learning, machine learning, and vector database operations with a focus on practical implementations for AI agents and multimodal systems.
 
 ## Why It Matters
 

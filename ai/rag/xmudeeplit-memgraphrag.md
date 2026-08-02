@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-02T14:10:52.739177+05:30'
+collected_at: '2026-08-02T16:24:32.891343+05:30'
 published_at: '2026-08-02T08:22:43Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-02T14:10:52.739177+05:30'
-last_seen: '2026-08-02T14:10:52.739177+05:30'
-last_checked: '2026-08-02T14:10:52.739177+05:30'
+first_seen: '2026-08-02T16:24:32.891343+05:30'
+last_seen: '2026-08-02T16:24:32.891343+05:30'
+last_checked: '2026-08-02T16:24:32.891343+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Graph RAG Framework**: Introduces a memory-based multi-agent system (`MemGraphRAG`) for graph retrieval-augmented generation (GraphRAG), leveraging agent-memory and ontology construction for enhanced knowledge graph integration.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent memory for enhanced knowledge retrieval and generation.
 
-- **Ontology-Driven Graph Construction**: Implements ontology-based graph construction to dynamically build and refine knowledge graphs, improving retrieval accuracy and contextual relevance in RAG pipelines.
+- **Graph & Ontology Construction**: Dynamically constructs and maintains graph structures and ontologies to support hierarchical knowledge representation, enabling efficient subgraph retrieval and context-aware generation.
 
-- **Python Implementation**: Open-source Python repository with modular components for agent-memory management, graph construction, and GraphRAG integration, optimized for scalability and multi-agent collaboration.
+- **Python-Based Framework**: Provides a Python-based implementation with modular components for agent-memory integration, graph construction, and ontology alignment, optimized for KDD 2026 scalability and adaptability.
 
 ## Why It Matters
 

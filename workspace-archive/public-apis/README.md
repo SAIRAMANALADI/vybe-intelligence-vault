@@ -12,7 +12,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) (framework - USEFUL Tier)
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) (benchmark - USEFUL Tier)
 - [register](https://clients.iban.com/register) (tutorial - USEFUL Tier)
 - [LangChain - YouTube](https://www.youtube.com/@LangChain) (tutorial - USEFUL Tier)
 - [- YouTube](https://www.youtube.com/watch?v=Yy3JH6dDugc) (framework - USEFUL Tier)
@@ -22,7 +22,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 https://github.com/public-apis/public-apis (Public APIs)
 - [OpenAI · GitHub](https://github.com/openai)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+- [weaviate/weaviate](https://github.com/weaviate/weaviate)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-08-02 14:27 IST*
+*Last updated: 2026-08-02 16:40 IST*

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.law.cornell.edu/uscode/text/17/512
-published_at: '2026-08-02T03:51:26.725567+05:30'
-collected_at: '2026-08-02T03:51:26.725581+05:30'
+published_at: '2026-08-02T16:32:23.899177+05:30'
+collected_at: '2026-08-02T16:32:23.899188+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:17-u-s-code-ss-512-limitations-on-liability-relati
-first_seen: '2026-08-02T03:51:26.725581+05:30'
-last_seen: '2026-08-02T03:51:26.725581+05:30'
-last_checked: '2026-08-02T03:51:26.725581+05:30'
+first_seen: '2026-08-02T16:32:23.899188+05:30'
+last_seen: '2026-08-02T16:32:23.899188+05:30'
+last_checked: '2026-08-02T16:32:23.899188+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Transitory Digital Network Communications (§512(a))**: Service providers are shielded from liability for copyright infringement when transmitting, routing, or providing connections for material through automated, unmodified processes, provided the material is not stored in a publicly accessible manner beyond transient transmission.
+- **Transitory Digital Network Communications (§512(a))**: Service providers are shielded from monetary/exceptional equitable relief for copyright infringement during automated transmission/routing/storage of user-initiated material, provided the process is unmodified, recipient selection is automatic, and transient copies are inaccessible post-transmission.
 
-- **System Caching (§512(b))**: Providers are not liable for temporary storage of material if caching is automatic, unmodified, and compliant with industry standards, with expeditious removal upon notification of infringement if the original material was unauthorized.
+- **System Caching (§512(b))**: Providers are not liable for temporary storage of user-uploaded material if caching is automatic, unmodified, and complies with refresh/update protocols, while enforcing access conditions (e.g., paywalls) and expeditiously removing infringing content upon valid takedown notices.
 
-- **User-Directed Storage (§512(c))**: Providers are protected from liability for user-uploaded content if they lack actual knowledge of infringement, do not financially benefit from it, and promptly remove infringing material upon receiving compliant takedown notices.
+- **User-Directed Storage (§512(c))**: Providers avoid liability for user-uploaded content if they lack actual/constructive infringement knowledge, do not financially benefit from infringing activity, and promptly act on compliant takedown notices after designating a registered agent with required contact details.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T03:51:26.725567+05:30
+- Published: 2026-08-02T16:32:23.899177+05:30
 
 ## Related Tags
 

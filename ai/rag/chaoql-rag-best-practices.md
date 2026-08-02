@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-02T14:10:02.678515+05:30'
+collected_at: '2026-08-02T16:23:42.777233+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 95
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-02T14:10:02.678515+05:30'
-last_seen: '2026-08-02T14:10:02.678515+05:30'
-last_checked: '2026-08-02T14:10:02.678515+05:30'
+first_seen: '2026-08-02T16:23:42.777233+05:30'
+last_seen: '2026-08-02T16:23:42.777233+05:30'
+last_checked: '2026-08-02T16:23:42.777233+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated on **2026-07-27**.
-- **Key Focus**: Provides technical guidelines and implementations for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and integration techniques for LLMs.
-- **Repository Metrics**: 95 stars, 10 forks, no listed topics, indicating a niche but actively maintained resource for LLM RAG optimization.
+- **RAG Optimization**: Repository provides best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on large language models (LLMs) integration with retrieval systems.
+- **Python Implementation**: All techniques and examples are implemented in Python, leveraging libraries like LangChain, FAISS, or HuggingFace for retrieval and generation workflows.
+- **Evaluation & Benchmarking**: Includes methodologies for evaluating RAG performance, with metrics for retrieval accuracy, generation quality, and end-to-end latency.
 
 ## Why It Matters
 

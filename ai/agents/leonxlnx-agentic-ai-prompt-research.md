@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-02T14:12:07.786199+05:30'
+collected_at: '2026-08-02T16:25:47.946528+05:30'
 published_at: '2026-08-01T01:34:31Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
 - workflows
 stars: 2498
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-02T14:12:07.786199+05:30'
-last_seen: '2026-08-02T14:12:07.786199+05:30'
-last_checked: '2026-08-02T14:12:07.786199+05:30'
+first_seen: '2026-08-02T16:25:47.946528+05:30'
+last_seen: '2026-08-02T16:25:47.946528+05:30'
+last_checked: '2026-08-02T16:25:47.946528+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI agents in coding tasks, emphasizing system prompts and agentic workflows.
-- **Security Classification**: Investigates security frameworks and classifications for agentic AI systems, addressing vulnerabilities and mitigation strategies in AI-driven development environments.
-- **Claude & Prompt Engineering**: Examines advanced prompt engineering techniques tailored for agentic AI models like Claude, optimizing multi-agent collaboration and task decomposition in software development.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding agents, emphasizing multi-agent collaboration and task decomposition.
+- **Security Classification**: Investigates security frameworks for agentic AI systems, including threat modeling, access control, and prompt injection defense strategies.
+- **System Prompts & Tools**: Analyzes structured system prompts (e.g., for Claude) and tool integration patterns to optimize agentic AI performance in coding workflows.
 
 ## Why It Matters
 

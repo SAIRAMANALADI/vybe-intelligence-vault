@@ -2,7 +2,7 @@
 title: 'Framer: AI website builder for professional sites'
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://framer.com/
+source_url: https://www.framer.com
 resource_id: blog:framer-ai-website-builder-for-professional-sites
 local_vault_path: ai/agents/framer-ai-website-builder-for-professional-sites.md
 quality_score: 70
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Design Agents**: Native canvas agents generate, refine, and edit site elements in real-time with full user control, enabling iterative design adjustments directly within the editor.
+- **AI-Powered Design Agents**: Native canvas-based agents generate, refine, and implement design changes in real-time while remaining fully editable and under user control.
 
-- **Integrated CMS Automation**: AI-driven CMS agents dynamically set up, organize, and update content collections, ensuring seamless synchronization between design and data structures.
+- **Integrated CMS Automation**: AI agents manage, organize, and update CMS collections directly on the canvas, ensuring seamless synchronization between content and design.
 
-- **Multi-Tool AI Integration**: Supports external AI agents (e.g., Cursor, Claude, Codex) for cross-platform workf
+- **Cross-Platform AI Integration**: Supports external AI tools (e.g., Cursor, Claude Code) to trigger site updates via Slack, terminal, GitHub PRs, o
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://framer.com/
+Original source URL: https://www.framer.com
 
 ## Local Vault File
 

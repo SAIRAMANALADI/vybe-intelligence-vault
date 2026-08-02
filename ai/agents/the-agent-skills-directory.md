@@ -4,13 +4,13 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://skills.sh
-published_at: '2026-08-01T21:54:16.435592+05:30'
-collected_at: '2026-08-01T21:54:16.435643+05:30'
+published_at: '2026-08-02T16:29:51.448460+05:30'
+collected_at: '2026-08-02T16:29:51.448474+05:30'
 tags:
 - agents
-- animation
 - anthropic
 - frontend_ui
+- hackernews
 - leaderboard
 - meta-ai
 - models
@@ -19,13 +19,12 @@ tags:
 - reddit
 - scripts
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:the-agent-skills-directory
-first_seen: '2026-08-01T21:54:16.435643+05:30'
-last_seen: '2026-08-01T21:54:16.435643+05:30'
-last_checked: '2026-08-01T21:54:16.435643+05:30'
+first_seen: '2026-08-02T16:29:51.448474+05:30'
+last_seen: '2026-08-02T16:29:51.448474+05:30'
+last_checked: '2026-08-02T16:29:51.448474+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Top 3 Skills by Install Count**: `find-skills` (2.8M), `frontend-design` (728.9K), `grill-me` (722.9K), all hosted on Vercel Labs, Anthropic, and Matt Pocock repositories respectively.
-- **Repository Dominance**: Microsoft/azure-skills (11.2M total installs), mattpocock/skills (898.0K+ installs), and leonxlnx/taste-skill (1.7M+ installs) lead in cumulative installs.
-- **Skill Categories**: Dominant themes include frontend design (e.g., `frontend-design`, `shadcn`), Azure cloud services (e.g., `azure-messaging`, `azure-cost`), and AI-driven workflows (e.g., `ai-video-generation`, `hyperframes`).
+- **Top Skills by Install Count**: `find-skills` (2.8M), `frontend-design` (731.3K), and `grill-me` (727.7K) lead the leaderboard, with `find-skills` significantly ahead in total installs.
+- **Dominant Contributors**: `mattpocock/skills` (e.g., `grill-me`, `tdd`, `codebase-design`) and `microsoft/azure-skills` (e.g., `azure-messaging`, `azure-rbac`) are major contributors, with multiple high-ranking skills.
+- **Specialized Categories**: Skills are segmented into categories like AI/video generation (`ai-video-generation`), UI/UX design (`design-taste-frontend`), and Azure infrastructure (`azure-compute`), reflecting diverse technical domains.
 
 ## Why It Matters
 
@@ -45,14 +44,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-01T21:54:16.435592+05:30
+- Published: 2026-08-02T16:29:51.448460+05:30
 
 ## Related Tags
 
 - agents
-- animation
 - anthropic
 - frontend_ui
+- hackernews
 - leaderboard
 - meta-ai
 - models
@@ -61,7 +60,6 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
-- workflows
 - youtube
 
 ## Source

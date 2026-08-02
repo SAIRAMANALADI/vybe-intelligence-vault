@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-02T14:10:47.739471+05:30'
+collected_at: '2026-08-02T16:24:27.921081+05:30'
 published_at: '2026-07-26T03:07:53Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 256
@@ -17,9 +19,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-02T14:10:47.739471+05:30'
-last_seen: '2026-08-02T14:10:47.739471+05:30'
-last_checked: '2026-08-02T14:10:47.739471+05:30'
+first_seen: '2026-08-02T16:24:27.921081+05:30'
+last_seen: '2026-08-02T16:24:27.921081+05:30'
+last_checked: '2026-08-02T16:24:27.921081+05:30'
 health_score: 100
 ---
 
@@ -27,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., node, subgraph, global) and semantic aggregation to enhance contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-layered retrieval (semantic, structural, and hierarchical) for improved context relevance in generation tasks.
 
-- **AAAI 2026 Contribution**: Proposes a lightweight, efficient architecture (LeanRAG) optimized for low-latency, high-precision knowledge-grounded generation, leveraging graph-based reasoning.
+- **Efficiency Optimizations**: Utilizes lightweight graph traversal and semantic pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
 
-- **Python Implementation**: Provides modular components for knowledge graph construction, retrieval, and integration with LLMs, with open-source availability for reproducibility.
+- **AAAI 2026 Benchmarking**: Evaluated on standard RAG benchmarks with reported gains in factual consistency and contextual precision compared to traditional retrieval-augmented methods.
 
 ## Why It Matters
 

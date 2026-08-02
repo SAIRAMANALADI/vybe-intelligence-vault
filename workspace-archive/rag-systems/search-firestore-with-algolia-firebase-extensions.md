@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Real-time Sync**: Indexes Firestore documents to Algolia in real-time, propagating changes (adds/updates/deletes) to corresponding Algolia records via Cloud Functions.
-- **Configurable Indexing**: Only indexes specified fields from Firestore collections, using document IDs as Algolia object IDs; supports semantic, vector, and text search.
-- **Billing & Setup**: Requires Firebase Blaze plan; billed for Cloud Functions, Firestore, and Algolia usage; requires pre-configured Firestore and Algoli
+- **Sync Mechanism**: Real-time bidirectional synchronization between Cloud Firestore collections and Algolia indices, indexing only configured fields with Firestore document IDs mapped to Algolia object IDs.
+
+- **Trigger-Based Processing**: Extension triggers on Firestore document changes (create/update/delete) to propagate updates to Algolia records, with full collection sync on installation/configuration changes.
+
+- **Prerequisites & Billing**: Requires Blaze (pay-as-you-go) Firebase plan; in
 
 ## Use Cases
 

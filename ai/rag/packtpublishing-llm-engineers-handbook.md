@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-08-02T14:09:57.701266+05:30'
-published_at: '2026-08-01T01:59:52Z'
+collected_at: '2026-08-02T16:23:37.875583+05:30'
+published_at: '2026-08-02T10:29:12Z'
 tags:
 - benchmark
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 5262
+stars: 5263
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-08-02T14:09:57.701266+05:30'
-last_seen: '2026-08-02T14:09:57.701266+05:30'
-last_checked: '2026-08-02T14:09:57.701266+05:30'
+first_seen: '2026-08-02T16:23:37.875583+05:30'
+last_seen: '2026-08-02T16:23:37.875583+05:30'
+last_checked: '2026-08-02T16:23:37.875583+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 - **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
 
-- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation methodologies, MLOps/ML system design, and retrieval-augmented generation (RAG) implementation with Python.
+- **Technical Focus**: Includes fine-tuning LLMs, evaluation methodologies, MLOps/ML system design, and GenAI-specific workflows with Python-based implementations.
 
-- **AWS-Centric Deployment**: Demonstrates end-to-end workflows for deploying LLMs on AWS, leveraging cloud-native tools and infrastructure for efficient GenAI application delivery.
+- **AWS-Centric**: Demonstrates deployment strategies leveraging AWS services, with emphasis on LLMOps for lifecycle management of generative AI models.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PacktPublishing
-- Stars: 5262
+- Stars: 5263
 - Forks: 1266
 - Language: Python
 - Topics: aws, fine-tuning-llm, genai, llm, llm-evaluation, llmops, ml-system-design, mlops, rag
-- Last Updated: 2026-08-01T01:59:52Z
+- Last Updated: 2026-08-02T10:29:12Z
 - License: MIT
 - Archived: No
 - Created At: 2024-04-09T10:56:03Z

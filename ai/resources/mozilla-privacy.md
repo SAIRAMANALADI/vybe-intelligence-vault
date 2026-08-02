@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mozilla.org/privacy/
-published_at: '2026-08-01T09:33:01.392862+05:30'
-collected_at: '2026-08-01T09:33:01.392870+05:30'
+published_at: '2026-08-02T16:33:35.201035+05:30'
+collected_at: '2026-08-02T16:33:35.201047+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:mozilla-privacy
-first_seen: '2026-08-01T09:33:01.392870+05:30'
-last_seen: '2026-08-01T09:33:01.392870+05:30'
-last_checked: '2026-08-01T09:33:01.392870+05:30'
+first_seen: '2026-08-02T16:33:35.201047+05:30'
+last_seen: '2026-08-02T16:33:35.201047+05:30'
+last_checked: '2026-08-02T16:33:35.201047+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Definition & Handling of Personal Data**: Mozilla defines "personal information" as data directly identifying a user (e.g., name, email, IP address) or information that can be reasonably linked to them. Non-personal data is anonymized; combined datasets are treated as personal. Data retention is minimized to the purpose of collection, with destruction post-use unless legally mandated otherwise.
+- **Definition & Handling of Personal Data**: Personal information includes directly identifiable data (e.g., name, email, IP address) or data that can be reasonably linked to identify an individual; Mozilla treats combined datasets as personal if any component is identifiable, and anonymizes data where possible to convert it to non-personal information.
 
-- **Data Collection & Processing**: Mozilla collects data via direct user input, automated product interactions (e.g., Firefox updates), third-party disclosures (e.g., email providers), and derived inferences (e.g., IP-based localization). Data is processed to improve services, with contractual obligations enforced on third-party processors to ensure compliance with Mozilla’s privacy standards.
+- **Data Collection & Usage**: Mozilla collects data directly from users (e.g., crash reports), automatically via products (e.g., update checks), from third parties (e.g., email providers), or through derived insights (e.g., IP-based localization); data is used primarily to improve services, with explicit permissions required for EU/EEA/California users.
 
-- **Sharing & Security Policies**: Data is shared only with explicit consent, for service provision under strict contracts, or when legally compelled (with user notification unless prohibited). Mozilla adheres to transparency in breaches, retains data minimally, and aligns with regional regulations (e.g., GDPR, CCPA). Changes to the policy are communicated via official channels, with continued use constituting acceptance.
+- **Data Sharing & Security**: Mozilla shares data only with user consent, for service provision under contractual obligations, to comply with legal requests, or to prevent harm; security measures include encryption and breach notifications, with data retention limited to necessary durations unless legally mandated.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T09:33:01.392862+05:30
+- Published: 2026-08-02T16:33:35.201035+05:30
 
 ## Related Tags
 

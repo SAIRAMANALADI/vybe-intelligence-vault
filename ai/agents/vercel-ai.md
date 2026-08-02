@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel/ai
-collected_at: '2026-08-02T14:11:22.813952+05:30'
-published_at: '2026-08-02T08:16:36Z'
+collected_at: '2026-08-02T16:25:02.956098+05:30'
+published_at: '2026-08-02T10:54:47Z'
 tags:
 - agents
 - anthropic
@@ -13,18 +13,17 @@ tags:
 - github-repo
 - openai
 - typescript
-- workflows
-stars: 25950
+stars: 25954
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-05-23T15:04:08Z'
-pushed_at: '2026-08-02T08:00:07Z'
+pushed_at: '2026-08-02T10:52:35Z'
 resource_id: github:vercel/ai
-first_seen: '2026-08-02T14:11:22.813952+05:30'
-last_seen: '2026-08-02T14:11:22.813952+05:30'
-last_checked: '2026-08-02T14:11:22.813952+05:30'
+first_seen: '2026-08-02T16:25:02.956098+05:30'
+last_seen: '2026-08-02T16:25:02.956098+05:30'
+last_checked: '2026-08-02T16:25:02.956098+05:30'
 health_score: 100
 ---
 
@@ -33,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting models like OpenAI, Anthropic, and Gemini.
-- **Multi-Framework Support**: Integrates with React, Next.js, Svelte, and Vue for generative UI and agentic workflows.
-- **Real-Time & Streaming**: Enables low-latency LLM interactions with structured output and tool usage for agentic systems.
+- **Multi-Framework Support**: Compatible with React, Next.js, Svelte, Vue, and JavaScript, enabling generative UI and LLM integration.
+- **Latest Update**: Repository last updated on 2026-08-02 with 25,954 stars and 4,895 forks.
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel
-- Stars: 25950
+- Stars: 25954
 - Forks: 4895
 - Language: TypeScript
 - Topics: anthropic, artificial-intelligence, gemini, generative-ai, generative-ui, javascript, language-model, llm, nextjs, openai, react, svelte, typescript, vercel, vue
-- Last Updated: 2026-08-02T08:16:36Z
+- Last Updated: 2026-08-02T10:54:47Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-23T15:04:08Z
-- Pushed At: 2026-08-02T08:00:07Z
+- Pushed At: 2026-08-02T10:52:35Z
 
 ## Possible Use Cases
 

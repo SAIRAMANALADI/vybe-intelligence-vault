@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-02T14:11:42.774420+05:30'
+collected_at: '2026-08-02T16:25:22.904687+05:30'
 published_at: '2026-07-30T13:05:04Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
 stars: 67
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-02T14:11:42.774420+05:30'
-last_seen: '2026-08-02T14:11:42.774420+05:30'
-last_checked: '2026-08-02T14:11:42.774420+05:30'
+first_seen: '2026-08-02T16:25:22.904687+05:30'
+last_seen: '2026-08-02T16:25:22.904687+05:30'
+last_checked: '2026-08-02T16:25:22.904687+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Primarily shell scripts (`Shell` language) with emphasis on **agentic AI workflows**, **CLI tools**, **MCP (Model Context Protocol)**, and **LLM integration** for Anthropic’s Claude ecosystem.
-- **Metadata**: 67 stars, 14 forks, last updated **2026-07-30**; topics include `agentic-ai`, `claude-code`, `developer-tools`, and `templates` for scalable AI-driven development.
+- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily shell-based repository (`Shell` language) targeting developer tools, CLI interactions, and AI agentic workflows (e.g., MCP, LLM integration).
+- **Metadata**: 67 stars, 14 forks, last updated 2026-07-30; covers topics like `agentic-ai`, `anthropic`, and `claude-code` for AI-driven development workflows.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/docker/compose-for-agents
-collected_at: '2026-08-02T01:06:54.600703+05:30'
+collected_at: '2026-08-02T16:25:07.950769+05:30'
 published_at: '2026-08-01T14:37:45Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2025-05-09T09:20:04Z'
 pushed_at: '2026-06-04T18:15:29Z'
 resource_id: github:docker/compose-for-agents
-first_seen: '2026-08-02T01:06:54.600703+05:30'
-last_seen: '2026-08-02T01:06:54.600703+05:30'
-last_checked: '2026-08-02T01:06:54.600703+05:30'
+first_seen: '2026-08-02T16:25:07.950769+05:30'
+last_seen: '2026-08-02T16:25:07.950769+05:30'
+last_checked: '2026-08-02T16:25:07.950769+05:30'
 health_score: 100
 ---
 
@@ -34,17 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate open-source AI agents, integrating LLMs (e.g., llama-cpp), tools, and agent runtimes for self-hosted agentic workflows.
-
-- **Key Components**: Includes pre-built examples for orchestrating:
-  - Large language models (LLMs) via `llama-cpp`.
-  - Agent frameworks (e.g., OpenAI Gym-compatible runtimes).
-  - Tool integrations for agentic workflows.
-
-- **Technical Stack**:
-  - **Language**: TypeScript (for tooling/configuration).
-  - **Orchestration**: Docker Compose for multi-container agent deployments.
-  - **Targets**: Self-hosted, modular agent systems with extensible tooling.
+- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate AI agents, integrating open-source LLMs (e.g., llama-cpp), tools, and agent runtimes for self-hosted agentic workflows.
+- **Technical Stack**: TypeScript-based examples with Docker/Docker Compose for containerized AI agent deployment, supporting tools like OpenAI Gym and OpenAI-compatible APIs.
+- **Use Case**: Enables rapid prototyping and scaling of AI agents via pre-configured YAML templates, optimized for local/LLM inference and tool integration.
 
 ## Why It Matters
 

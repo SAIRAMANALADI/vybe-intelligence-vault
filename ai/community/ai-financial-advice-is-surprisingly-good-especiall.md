@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:ai-financial-advice-is-surprisingly-good-especiall
 first_seen: '2026-08-02T09:22:44.377575+05:30'
 last_seen: '2026-08-02T14:08:18.515121+05:30'
 last_checked: '2026-08-02T14:08:18.515121+05:30'
 health_score: 100
 ---
+
 
 # AI financial advice is surprisingly good, especially if you ask right questions
 

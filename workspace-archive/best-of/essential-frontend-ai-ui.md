@@ -43,11 +43,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`generative-ai-build-ai-powered-apps-with-speed-sec.md`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Haystack | Haystack](https://haystack.deepset.ai/)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`haystack-haystack.md`](../../ai/rag/haystack-haystack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2607-09322.md`](../../ai/rag/arxiv-2607-09322.md)
@@ -66,6 +61,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `81` | **Path**: [`shadcnspace-shadcnspace.md`](../../web-development/nextjs/shadcnspace-shadcnspace.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
+- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](../../web-development/nextjs/asbhogal-fyrre-magazine.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-02 14:27 IST*
+*Last updated: 2026-08-02 16:40 IST*

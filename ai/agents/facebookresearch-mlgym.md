@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-08-02T14:12:02.811584+05:30'
+collected_at: '2026-08-02T16:25:42.966702+05:30'
 published_at: '2026-07-24T07:21:05Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
 stars: 613
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-08-02T14:12:02.811584+05:30'
-last_seen: '2026-08-02T14:12:02.811584+05:30'
-last_checked: '2026-08-02T14:12:02.811584+05:30'
+first_seen: '2026-08-02T16:25:42.966702+05:30'
+last_seen: '2026-08-02T16:25:42.966702+05:30'
+last_checked: '2026-08-02T16:25:42.966702+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework for AI Research Agents**: MLGym provides a modular, scalable framework designed to train and evaluate AI research agents, enabling systematic experimentation and reproducibility in machine learning workflows.
+- **Framework**: MLGym is a Python-based framework designed to advance AI research agents, providing a structured environment for training and evaluating autonomous agents in machine learning tasks.
 
-- **Benchmark Suite**: Includes a comprehensive benchmark suite with standardized tasks and metrics to assess agent performance across diverse research scenarios, facilitating fair comparisons and progress tracking.
+- **Benchmarking**: The repository includes a benchmark suite to standardize evaluation metrics for AI research agents, enabling reproducible comparisons across different methods and configurations.
 
-- **Python-Based Implementation**: Built in Python with modular components for extensibility, supporting integration with existing ML tools and libraries while enabling custom agent development.
+- **Modularity**: The framework emphasizes modularity, allowing researchers to customize agent architectures, task environments, and training protocols for flexible experimentation.
 
 ## Why It Matters
 

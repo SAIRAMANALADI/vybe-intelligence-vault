@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-08-02T14:09:02.635191+05:30'
+collected_at: '2026-08-02T16:22:42.761055+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-08-02T14:09:02.635191+05:30'
-last_seen: '2026-08-02T14:09:02.635191+05:30'
-last_checked: '2026-08-02T14:09:02.635191+05:30'
+first_seen: '2026-08-02T16:22:42.761055+05:30'
+last_seen: '2026-08-02T16:22:42.761055+05:30'
+last_checked: '2026-08-02T16:22:42.761055+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Site Generator**: Jekyll-based repository for generating the personal website `raganwald.com`, leveraging Liquid templating and Markdown for content management.
-- **GitHub Pages Integration**: Hosted via GitHub Pages, utilizing the repository as the source for automatic site deployment with build processes handled by Jekyll.
-- **Version Control**: Active repository with 30 stars and 60 forks, indicating community engagement, last updated in July 2026 with HTML as the primary language.
+- **Jekyll-based static site generator** for `raganwald.com`, utilizing HTML templating and Markdown content.
+- **Minimal repository activity** with last commit dated `2026-07-08`, indicating low maintenance or updates.
+- **Low community engagement** (30 stars, 60 forks) despite being a personal blogging platform.
 
 ## Why It Matters
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-08-02T14:11:57.813290+05:30'
+collected_at: '2026-08-02T16:25:37.957694+05:30'
 published_at: '2026-07-29T11:45:17Z'
 tags:
 - agents
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - meta-ai
@@ -24,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-07-27T21:25:19Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-08-02T14:11:57.813290+05:30'
-last_seen: '2026-08-02T14:11:57.813290+05:30'
-last_checked: '2026-08-02T14:11:57.813290+05:30'
+first_seen: '2026-08-02T16:25:37.957694+05:30'
+last_seen: '2026-08-02T16:25:37.957694+05:30'
+last_checked: '2026-08-02T16:25:37.957694+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like PDF parsing, OCR, table extraction, and vision-language model integration.
-- **Technical Scope**: Supports evaluation of LlamaIndex, LLMs, and OCR pipelines, with metrics for accuracy, robustness, and multimodal document understanding.
-- **Dataset & Metrics**: Includes diverse document types (tables, text, images) with standardized evaluation metrics for parsing performance comparison.
+- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, focusing on PDF parsing, table extraction, and OCR integration.
+- **Technical Scope**: Supports evaluation of vision-language models, LLM-based parsing, and machine learning techniques for structured document understanding.
+- **Integration & Metrics**: Compatible with LlamaIndex, includes standardized metrics for performance comparison across document parsing tasks.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/truefoundry/cognita
-collected_at: '2026-08-02T09:29:18.598720+05:30'
+collected_at: '2026-08-02T16:28:30.703994+05:30'
 published_at: '2026-07-25T01:51:09Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 stars: 4413
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-08-02T09:29:18.598720+05:30'
-last_seen: '2026-08-02T09:29:18.598720+05:30'
-last_checked: '2026-08-02T09:29:18.598720+05:30'
+first_seen: '2026-08-02T16:28:30.703994+05:30'
+last_seen: '2026-08-02T16:28:30.703994+05:30'
+last_checked: '2026-08-02T16:28:30.703994+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python library for building production-grade Retrieval-Augmented Generation (RAG) applications with modular components for data ingestion, retrieval, and generation.
+- **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval-Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
 
-- **Production-Ready Features**: Supports LLM-Ops, model deployment, and fine-tuning with MLOps integration, enabling scalable, enterprise-grade AI applications.
+- **Multi-Language Support**: Core in Python with TypeScript utilities, enabling cross-language compatibility for frontend/agent interactions and backend services.
 
-- **Multi-Language Support**: Core framework in Python with TypeScript compatibility, facilitating cross-language integration for agent-based and generative AI systems.
+- **MLOps & Deployment Ready**: Integrates LLM-ops, fine-tuning, and model deployment pipelines, supporting retrieval, agent workflows, and generative AI applications in enterprise environments.
 
 ## Why It Matters
 

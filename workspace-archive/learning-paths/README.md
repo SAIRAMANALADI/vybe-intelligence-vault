@@ -14,18 +14,18 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - USEFUL Tier)
-- [Redirecting to GitHub Learn](https://skills.github.com) (tutorial - USEFUL Tier)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com) (framework - USEFUL Tier)
+- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [Collections · GitHub](https://github.com/collections)
 - [github/roadmap](https://github.com/github/roadmap)
-- [Redirecting to GitHub Learn](https://skills.github.com)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
-- [CodeQL documentation](https://codeql.github.com/docs)
+- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-02 14:27 IST*
+*Last updated: 2026-08-02 16:40 IST*

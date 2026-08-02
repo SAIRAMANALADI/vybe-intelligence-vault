@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Low-level orchestration framework**: LangGraph is a runtime for building, managing, and deploying long-running, stateful agents with fine-grained control over deterministic and LLM-driven steps in a single graph.
-
-- **Core capabilities**: Supports durable execution, streaming, human-in-the-loop workflows, persistence, and comprehensive stateful memory for agent systems.
-
-- **Integration with LangChain ecosystem**: Works standalone or integrates with LangChain products (e.g., LangSmith for ob
+- **Low-level orchestration framework** for building stateful, long-running agents with fine-grained control over deterministic and LLM-driven steps in a single graph.
+- **Core capabilities** include durable execution, streaming, human-in-the-loop interaction, persistence, and comprehensive memory management.
+- **Integration with LangChain ecosystem** for observability (LangSmith), deployment (LangSmith Fleet), and higher-level abstractions (Deep Agents).
 
 ## Use Cases
 

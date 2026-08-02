@@ -4,11 +4,10 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Medium/medium-policy
-collected_at: '2026-08-02T03:51:30.719847+05:30'
+collected_at: '2026-08-02T16:32:22.767887+05:30'
 published_at: '2026-07-18T12:46:40Z'
 tags:
 - github-repo
-- hackernews
 - unknown
 stars: 275
 language: Unknown
@@ -18,9 +17,9 @@ archived: false
 created_at: '2014-03-18T23:19:18Z'
 pushed_at: '2023-06-27T19:27:08Z'
 resource_id: github:medium/medium-policy
-first_seen: '2026-08-02T03:51:30.719847+05:30'
-last_seen: '2026-08-02T03:51:30.719847+05:30'
-last_checked: '2026-08-02T03:51:30.719847+05:30'
+first_seen: '2026-08-02T16:32:22.767887+05:30'
+last_seen: '2026-08-02T16:32:22.767887+05:30'
+last_checked: '2026-08-02T16:32:22.767887+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Metadata**: Medium's official policy repository (`medium-policy`) is hosted on GitHub with 275 stars and 59 forks, last updated on **2026-07-18T12:46:40Z**.
-- **Technical Details**: The repository's primary language is unspecified ("Unknown"), and it contains no associated topics or tags.
-- **Access**: The repository is publicly accessible via the URL `https://github.com/Medium/medium-policy`.
+- **Repository Overview**: Medium's official repository for policies and guidelines, last updated on **July 18, 2026**.
+- **Metadata**: Contains **275 stars** and **59 forks**, with no specified primary language or topics.
+- **Access**: Publicly available at `https://github.com/Medium/medium-policy`.
 
 ## Why It Matters
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alfredodeza/azure-rag
-collected_at: '2026-08-02T14:09:52.642419+05:30'
+collected_at: '2026-08-02T16:23:32.811063+05:30'
 published_at: '2026-04-23T18:04:11Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 53
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-12-26T16:03:29Z'
 pushed_at: '2024-01-03T12:16:36Z'
 resource_id: github:alfredodeza/azure-rag
-first_seen: '2026-08-02T14:09:52.642419+05:30'
-last_seen: '2026-08-02T14:09:52.642419+05:30'
-last_checked: '2026-08-02T14:09:52.642419+05:30'
+first_seen: '2026-08-02T16:23:32.811063+05:30'
+last_seen: '2026-08-02T16:23:32.811063+05:30'
+last_checked: '2026-08-02T16:23:32.811063+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- Implements **Retrieval Augmented Generation (RAG)** using **Azure** services, leveraging Python for integration.
-- Demonstrates **vector search** and **semantic retrieval** via Azure AI Search and OpenAI embeddings.
-- Provides a **modular framework** for deploying RAG pipelines on Azure, including data ingestion, indexing, and query processing.
+*   Implements a Retrieval Augmented Generation (RAG) system example.
+*   Integrates with Azure cloud services for deployment and infrastructure.
+*   Developed in Python, showcasing RAG application logic.
 
 ## Why It Matters
 

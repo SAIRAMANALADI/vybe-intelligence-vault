@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/orgs/firecrawl/repositories?q=sort%3Astars
-published_at: '2026-08-01T21:51:12.753896+05:30'
-collected_at: '2026-08-01T21:51:12.753911+05:30'
+published_at: '2026-08-02T16:28:19.871423+05:30'
+collected_at: '2026-08-02T16:28:19.871435+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: github:orgs/firecrawl
-first_seen: '2026-08-01T21:51:12.753911+05:30'
-last_seen: '2026-08-01T21:51:12.753911+05:30'
-last_checked: '2026-08-01T21:51:12.753911+05:30'
+first_seen: '2026-08-02T16:28:19.871435+05:30'
+last_seen: '2026-08-02T16:28:19.871435+05:30'
+last_checked: '2026-08-02T16:28:19.871435+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl API**: TypeScript-based scalable web scraping, crawling, and interaction API supporting HTML-to-Markdown conversion, structured data extraction, and AI-driven scraping workflows with 159k+ stars.
+- **Firecrawl**: A TypeScript-based API framework for scalable web search, scraping, and interaction, supporting HTML-to-markdown conversion, AI integration, and structured data extraction with 159k+ stars and AGPL-3.0 licensing.
 
-- **Firecrawl MCP Server**: JavaScript-based Model Context Protocol (MCP) server enabling LLM clients (e.g., Cursor, Claude) to perform web scraping, batch processing, and content extraction via standardized interfaces.
+- **PDF Inspector**: A Rust-based high-performance library for PDF classification (scanned vs. text-based), intelligent text extraction, and OCR routing, with Node.js/Python bindings and 4.9k+ stars under MIT license.
 
-- **PDF Inspector**: Rust-based high-performance library for PDF classification (scanned vs. text-based), intelligent text extraction, and OCR routing, with Node.js/Python bindings and 2.4k+ stars.
+- **Firecrawl MCP Server**: A JavaScript-based Model Context Protocol (MCP) server enabling LLM clients (e.g., Cursor, Claude) to perform batch web crawling, content extraction, and search operations with 7.1k+ stars and MIT licensing.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T21:51:12.753896+05:30
+- Published: 2026-08-02T16:28:19.871423+05:30
 
 ## Related Tags
 

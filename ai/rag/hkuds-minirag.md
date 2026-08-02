@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-02T14:09:42.685128+05:30'
+collected_at: '2026-08-02T16:23:22.801099+05:30'
 published_at: '2026-08-02T05:40:23Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 stars: 1991
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-02T14:09:42.685128+05:30'
-last_seen: '2026-08-02T14:09:42.685128+05:30'
-last_checked: '2026-08-02T14:09:42.685128+05:30'
+first_seen: '2026-08-02T16:23:22.801099+05:30'
+last_seen: '2026-08-02T16:23:22.801099+05:30'
+last_checked: '2026-08-02T16:23:22.801099+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Miniaturized RAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining competitive performance.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-source language models (LLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
 
-- **Modular Architecture**: Implements a plug-and-play design with decoupled retrieval and generation components, enabling efficient integration with existing SLMs (e.g., TinyLlama, Phi-2).
+- **Architectural Efficiency**: Optimizes retrieval and generation stages via lightweight model distillation and modular design, enabling deployment on resource-constrained hardware without sacrificing accuracy.
 
-- **Benchmark Superiority**: Demonstrates state-of-the-art results on multiple RAG benchmarks (e.g., KILT, BEIR) with models <2B parameters, outperforming larger proprietary models in efficiency.
+- **Open-Source Implementation**: Provides a Python-based, modular codebase (MIT License) with pre-trained models, evaluation tools, and integration support for custom datasets, facilitating reproducibility and community-driven improvements.
 
 ## Why It Matters
 

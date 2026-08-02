@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-08-02T14:09:17.643293+05:30'
+collected_at: '2026-08-02T16:22:57.786261+05:30'
 published_at: '2026-08-02T05:32:49Z'
 tags:
 - agents
@@ -15,7 +15,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 stars: 28906
 language: Jupyter Notebook
 status: active
@@ -24,9 +23,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-07-31T21:07:02Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-08-02T14:09:17.643293+05:30'
-last_seen: '2026-08-02T14:09:17.643293+05:30'
-last_checked: '2026-08-02T14:09:17.643293+05:30'
+first_seen: '2026-08-02T16:22:57.786261+05:30'
+last_seen: '2026-08-02T16:22:57.786261+05:30'
+last_checked: '2026-08-02T16:22:57.786261+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Advanced RAG Techniques**: Repository provides Jupyter notebook tutorials demonstrating cutting-edge RAG methodologies, including agentic RAG, hybrid retrieval, and multi-modal integration.
+- **Advanced RAG Techniques**: Repository provides notebook-based tutorials on cutting-edge RAG methods (e.g., agentic RAG, hybrid retrieval) leveraging frameworks like LangChain and LlamaIndex for enhanced LLM performance.
 
-- **Tooling & Integration**: Supports frameworks like LangChain, LlamaIndex, and OpenAI, with implementations for vector databases (e.g., FAISS, Pinecone) and embedding models (e.g., Sentence-BERT, E5).
+- **Multi-Framework Integration**: Demonstrates RAG pipelines using OpenAI, GPT, and vector databases (e.g., FAISS, Pinecone) with Python-based implementations for embeddings and semantic search.
 
-- **Performance Optimization**: Includes techniques for semantic search, query rewriting, and dynamic retrieval to enhance LLM accuracy and reduce hallucinations in generative AI workflows.
+- **Educational Focus**: Structured tutorials cover semantic search, retrieval strategies, and LLM optimization, targeting developers and researchers in generative AI and NLP.
 
 ## Why It Matters
 

@@ -4,17 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-02T14:09:17.649740+05:30'
+collected_at: '2026-08-02T16:23:02.809431+05:30'
 published_at: '2026-08-01T23:58:34Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
-- models
 - python
 - rag
-- workflows
 stars: 965
 language: Python
 status: active
@@ -22,9 +18,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-02T14:09:17.649740+05:30'
-last_seen: '2026-08-02T14:09:17.649740+05:30'
-last_checked: '2026-08-02T14:09:17.649740+05:30'
+first_seen: '2026-08-02T16:23:02.809431+05:30'
+last_seen: '2026-08-02T16:23:02.809431+05:30'
+last_checked: '2026-08-02T16:23:02.809431+05:30'
 health_score: 100
 ---
 
@@ -32,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment and fine-tuning of local large language models (LLMs) for retrieval-augmented generation (RAG) workflows, avoiding cloud dependency.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or batch updates to vector databases (e.g., Chroma, FAISS) to ensure retrieval freshness without full re-indexing.
-- **Testing Framework**: Includes automated evaluation pipelines for RAG systems, measuring metrics like retrieval precision, answer relevance, and latency using synthetic or real-world datasets.
+- **Local LLM Integration**: Demonstrates implementation of Retrieval-Augmented Generation (RAG) using local language models (LLMs) via LangChain, eliminating dependency on cloud-based APIs.
+
+- **Dynamic Database Updates**: Features automated or manual updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance and adaptability to new data.
+
+- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to validate RAG pipeline performance under varying conditions.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-08-02T09:29:18.611686+05:30'
+collected_at: '2026-08-02T16:28:30.654182+05:30'
 published_at: '2026-08-01T18:42:36Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-08-02T09:29:18.611686+05:30'
-last_seen: '2026-08-02T09:29:18.611686+05:30'
-last_checked: '2026-08-02T09:29:18.611686+05:30'
+first_seen: '2026-08-02T16:28:30.654182+05:30'
+last_seen: '2026-08-02T16:28:30.654182+05:30'
+last_checked: '2026-08-02T16:28:30.654182+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 - **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
 
-- **Multi-Backend Support**: Supports multiple inference backends (e.g., llama.cpp, ONNX, OpenVINO) and integrates parsing tools for structured/unstructured data processing in RAG workflows.
+- **Multi-Backend Support**: Supports multiple inference backends (e.g., llama.cpp, ONNX, OpenVINO) and integrates parsing, retrieval, and generative AI tools for modular pipeline development.
 
-- **Agent Integration**: Enables deployment of AI agents within RAG pipelines, facilitating modular, scalable, and production-ready generative AI applications for enterprise use cases.
+- **High Scalability**: Designed for enterprise deployment with 14,866+ GitHub stars, enabling scalable RAG workflows while maintaining low computational overhead via specialized model optimization.
 
 ## Why It Matters
 

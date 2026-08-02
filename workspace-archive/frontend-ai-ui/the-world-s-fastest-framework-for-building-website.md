@@ -13,6 +13,7 @@ importance: medium
 tags:
 - frontend_ui
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **License & Adoption**: Distributed under Apache 2.0 License; 89,268 GitHub stars (as of Aug 1, 2026) with an active community and frequent releases.
+- **Licensing & Adoption**: Distributed under Apache 2.0 License with 89,268 GitHub stars (as of Aug 1, 2026), indicating high open-source adoption and community engagement.
 
-- **Performance & Architecture**: Go-based, optimized for speed with advanced templating and asset pipelines; renders large sites in seconds via multilingual support and flexible taxonomy.
+- **Performance & Architecture**: Built in Go, optimized for speed with advanced templating, multilingual support, and a fast asset pipeline (image processing, JS bundling, Sass, TailwindCSS).
 
-- **Features**: Fast asset processing (image manipulation, JS bundling, Sass/TailwindCSS); embedded dev server for real-time previews.
+- **Development Workflow**: Features an embedded web server for real-time preview of content/structure changes, enabling rapid iter
 
 ## Use Cases
 

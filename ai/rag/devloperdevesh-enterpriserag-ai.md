@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-02T14:10:32.698545+05:30'
+collected_at: '2026-08-02T16:24:12.830590+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-02T14:10:32.698545+05:30'
-last_seen: '2026-08-02T14:10:32.698545+05:30'
-last_checked: '2026-08-02T14:10:32.698545+05:30'
+first_seen: '2026-08-02T16:24:12.830590+05:30'
+last_seen: '2026-08-02T16:24:12.830590+05:30'
+last_checked: '2026-08-02T16:24:12.830590+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and low-overhead system-level visibility.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement, optimized for Linux environments.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, optimized for SaaS-scale AI workloads, integrating vector databases for contextual retrieval.
+- **Enterprise-Grade RAG Pipeline**: Combines FastAPI backend with TypeScript, leveraging GenAI, LLMs, and vector databases (e.g., FAISS/Weaviate) for scalable retrieval-augmented generation (RAG) in SaaS-AI deployments.
 
-- **Security & Governance Focus**: Enforces policy-driven controls (e.g., access, compliance) via eBPF hooks, ensuring secure multi-tenant AI agent operations with real-time threat detection and auditability.
+- **Governance & Security Focus**: Designed for enterprise compliance with built-in audit trails, policy enforcement, and real-time threat detection for AI workloads.
 
 ## Why It Matters
 

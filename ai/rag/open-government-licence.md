@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-published_at: '2026-08-02T03:51:30.235287+05:30'
-collected_at: '2026-08-02T03:51:30.235299+05:30'
+published_at: '2026-08-02T16:32:26.408274+05:30'
+collected_at: '2026-08-02T16:32:26.408286+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:open-government-licence
-first_seen: '2026-08-02T03:51:30.235299+05:30'
-last_seen: '2026-08-02T03:51:30.235299+05:30'
-last_checked: '2026-08-02T03:51:30.235299+05:30'
+first_seen: '2026-08-02T16:32:26.408286+05:30'
+last_seen: '2026-08-02T16:32:26.408286+05:30'
+last_checked: '2026-08-02T16:32:26.408286+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Licensing Terms**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use public sector information under specified conditions, including mandatory source attribution and compliance with Open Government Licence v3.0 terms.
+- **Global, royalty-free, perpetual license** granted for use, adaptation, and commercial/non-commercial exploitation of public sector information under OGL v3.0, with mandatory attribution to the source and/or this license.
 
-- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests, military insignia, third-party rights, and identity documents; prohibits use implying official endorsement or misrepresentation.
+- **Exclusions apply** to personal data, unpublished/unreleased information, protected IP (e.g., trademarks, patents), logos/crests, military insignia, and identity documents; liability is disclaimed for errors/omissions or downstream use.
 
-- **Liability & Compliance**: Information provided "as is" with no warranties; licensor not liable for errors, omissions, or damages; governed by jurisdiction of the Information Provider; compatible with Creative Commons Attribution 4.0 and Open Data Commons Attribution License.
+- **Compatibility with CC BY 4.0 and ODC-By** ensures compliance equivalence when adapting content under those licenses; governed by UK jurisdiction unless otherwise specified.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T03:51:30.235287+05:30
+- Published: 2026-08-02T16:32:26.408274+05:30
 
 ## Related Tags
 

@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-02T14:10:02.686119+05:30'
+collected_at: '2026-08-02T16:23:42.857778+05:30'
 published_at: '2026-08-01T12:26:39Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 185
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-01T12:26:23Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-02T14:10:02.686119+05:30'
-last_seen: '2026-08-02T14:10:02.686119+05:30'
-last_checked: '2026-08-02T14:10:02.686119+05:30'
+first_seen: '2026-08-02T16:23:42.857778+05:30'
+last_seen: '2026-08-02T16:23:42.857778+05:30'
+last_checked: '2026-08-02T16:23:42.857778+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, focusing on deployment-ready solutions.
-
-- **Comprehensive Tech Stack**: Includes Python-based tools for embeddings, vector databases, LLM orchestration (e.g., LangChain), and MLOps/LLMOps pipelines, covering the full RAG lifecycle from retrieval to generation.
-
-- **Community-Driven Curation**: Maintained as an "awesome-list" with 185 stars and 46 forks, last updated in 2026, ensuring up-to-date references for AI engineering and generative AI applications.
+- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable RAG systems, covering LLMs, embeddings, vector databases, and MLOps workflows.
+- **Technical scope**: Focuses on Python-based implementations, LangChain integration, and production-grade considerations (e.g., LLMops, retrieval optimization, scalability).
+- **Community metrics**: 185 stars, 46 forks, last updated August 1, 2026, with topics spanning AI engineering, generative AI, and retrieval-augmented generation (RAG).
 
 ## Why It Matters
 

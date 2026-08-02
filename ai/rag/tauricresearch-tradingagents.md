@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-08-02T14:12:52.867552+05:30'
-published_at: '2026-08-02T08:36:27Z'
+collected_at: '2026-08-02T16:26:33.006935+05:30'
+published_at: '2026-08-02T10:38:24Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 95286
+stars: 95297
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-12-28T03:31:08Z'
 pushed_at: '2026-07-18T15:55:05Z'
 resource_id: github:tauricresearch/tradingagents
-first_seen: '2026-08-02T14:12:52.867552+05:30'
-last_seen: '2026-08-02T14:12:52.867552+05:30'
-last_checked: '2026-08-02T14:12:52.867552+05:30'
+first_seen: '2026-08-02T16:26:33.006935+05:30'
+last_seen: '2026-08-02T16:26:33.006935+05:30'
+last_checked: '2026-08-02T16:26:33.006935+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent LLM Framework**: Implements a financial trading system using multiple LLM-based agents for strategy execution, risk management, and market analysis.
-- **Python-Based Architecture**: Leverages Python with modular design for agent interaction, data processing, and real-time trading execution.
-- **Open-Source Repository**: Hosted on GitHub with 95K+ stars, 18K+ forks, and last updated in 2026, focusing on finance, trading, and multi-agent systems.
+- **Framework Overview**: Open-source Python-based framework (`TradingAgents`) for financial trading using multi-agent LLM systems, enabling autonomous decision-making via large language models.
+- **Key Features**: Supports modular agent architectures, real-time market interaction, and customizable trading strategies with integration for financial data APIs.
+- **Technical Stack**: Leverages Python with LLM APIs, multi-agent orchestration, and financial data processing libraries for scalable trading simulations.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TauricResearch
-- Stars: 95286
-- Forks: 18418
+- Stars: 95297
+- Forks: 18419
 - Language: Python
 - Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-08-02T08:36:27Z
+- Last Updated: 2026-08-02T10:38:24Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-28T03:31:08Z

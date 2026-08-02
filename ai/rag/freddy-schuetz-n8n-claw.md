@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-02T14:12:27.793251+05:30'
+collected_at: '2026-08-02T16:26:07.969103+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-02T14:12:27.793251+05:30'
-last_seen: '2026-08-02T14:12:27.793251+05:30'
-last_checked: '2026-08-02T14:12:27.793251+05:30'
+first_seen: '2026-08-02T16:26:07.969103+05:30'
+last_seen: '2026-08-02T16:26:07.969103+05:30'
+last_checked: '2026-08-02T16:26:07.969103+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
 
-- **Proactive Task Management & Media Understanding**: Supports self-hosted deployment via a single setup script, enabling proactive task handling, media comprehension, and integration with tools like Crawl4AI and SearXNG for web scraping and search.
+- **Modular architecture** with **MCP templates** for Skills, **Expert Agents** for hierarchical task delegation, and **proactive task management** for autonomous operation; integrates **media understanding** and **self-hosted deployment** via a single setup script.
 
-- **Modular & Scalable Architecture**: Leverages Supabase for backend storage, supports Model Context Protocol (MCP) templates for skill expansion, and includes pre-configured components for rapid deployment of AI agent systems.
+- **Dependencies**: **Supabase** (vector storage), **Crawl4AI** (web scraping), **SearXNG** (search engine), with **Shell** as the primary scripting language; supports **AI agent frameworks** and **MCP-based tooling**.
 
 ## Why It Matters
 

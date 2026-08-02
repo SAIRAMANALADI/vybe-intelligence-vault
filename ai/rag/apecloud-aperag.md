@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-08-02T14:10:42.709068+05:30'
+collected_at: '2026-08-02T16:24:22.869935+05:30'
 published_at: '2026-07-31T14:52:54Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 1291
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-08-02T14:10:42.709068+05:30'
-last_seen: '2026-08-02T14:10:42.709068+05:30'
-last_checked: '2026-08-02T14:10:42.709068+05:30'
+first_seen: '2026-08-02T16:24:22.869935+05:30'
+last_seen: '2026-08-02T16:24:22.869935+05:30'
+last_checked: '2026-08-02T16:24:22.869935+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal indexing & GraphRAG**: Implements a production-grade GraphRAG system with support for structured/unstructured data integration (text, images, etc.) via vector and knowledge graph indexing for enhanced retrieval.
+- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration with hybrid retrieval mechanisms for enhanced context engineering.
 
-- **AI agents & MCP integration**: Features autonomous AI agents for dynamic query processing and supports Model Context Protocol (MCP) for standardized agent-tool interactions.
+- **AI agents & MCP integration**: Deploys autonomous agents with Model Context Protocol (MCP) for dynamic task execution, enabling adaptive RAG workflows and tool orchestration.
 
-- **Kubernetes-native scalability**: Designed for horizontal scaling via Kubernetes, with modular microservices for distributed deployment, fault tolerance, and optimized resource management.
+- **Scalable K8s deployment**: Optimized for Kubernetes with modular microservices, horizontal scaling, and distributed processing for high-throughput production environments.
 
 ## Why It Matters
 

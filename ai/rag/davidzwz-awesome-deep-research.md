@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-02T14:10:52.703747+05:30'
+collected_at: '2026-08-02T16:24:32.843688+05:30'
 published_at: '2026-08-01T13:41:35Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-02T14:10:52.703747+05:30'
-last_seen: '2026-08-02T14:10:52.703747+05:30'
-last_checked: '2026-08-02T14:10:52.703747+05:30'
+first_seen: '2026-08-02T16:24:32.843688+05:30'
+last_seen: '2026-08-02T16:24:32.843688+05:30'
+last_checked: '2026-08-02T16:24:32.843688+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous reasoning agents, advanced RAG (Retrieval-Augmented Generation), and multi-agent systems for knowledge synthesis.
-- **Key Topics Covered**: Includes large language models (LLMs), reasoning architectures, search agents, and hybrid AI systems optimized for deep research tasks (e.g., literature review, hypothesis generation).
-- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026’s "Knowledge Foundation Models" (KnowFM) initiative, emphasizing scalable, interpretable, and collaborative AI for complex knowledge discovery.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and reasoning architectures.
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s Knowledge Foundation Models (KnowFM) initiative, emphasizing structured knowledge acquisition and reasoning in deep research agents.
+- **High-Activity Repository**: Maintained with 831 stars and 68 forks, last updated August 1, 2026, reflecting active community engagement in deep research agent advancements.
 
 ## Why It Matters
 

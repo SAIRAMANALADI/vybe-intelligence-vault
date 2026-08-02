@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-02T14:09:32.713349+05:30'
+collected_at: '2026-08-02T16:23:12.872870+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
+- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-02T14:09:32.713349+05:30'
-last_seen: '2026-08-02T14:09:32.713349+05:30'
-last_checked: '2026-08-02T14:09:32.713349+05:30'
+first_seen: '2026-08-02T16:23:12.872870+05:30'
+last_seen: '2026-08-02T16:23:12.872870+05:30'
+last_checked: '2026-08-02T16:23:12.872870+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a Bicep-based infrastructure-as-code (IaC) template for deploying a Retrieval-Augmented Generation (RAG) pipeline in Azure, designed for Generative AI Ops (GenAIOps) workflows.
-- **Key Components**: Includes Azure resources (e.g., Azure OpenAI, Cognitive Search, Azure Functions) pre-configured for RAG workflows, with modular Bicep templates for scalability and reproducibility.
-- **Deployment**: Enables automated, CI/CD-friendly deployment of GenAIOps RAG pipelines with minimal manual configuration, leveraging Azure-native tooling.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling automated provisioning of required cloud resources.
+
+- **RAG Pipeline Integration**: Includes pre-configured components for **vector database setup, embedding generation, and LLM orchestration**, facilitating end-to-end retrieval-augmented workflows.
+
+- **CI/CD & Ops Readiness**: Designed for **operational scalability**, with modular Bicep templates supporting Azure DevOps/GitHub Actions for infrastructure deployment and lifecycle management.
 
 ## Why It Matters
 

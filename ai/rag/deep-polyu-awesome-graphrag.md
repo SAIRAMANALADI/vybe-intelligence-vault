@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-08-02T14:10:07.710636+05:30'
+collected_at: '2026-08-02T16:23:47.877113+05:30'
 published_at: '2026-08-01T23:32:34Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-08-02T14:10:07.710636+05:30'
-last_seen: '2026-08-02T14:10:07.710636+05:30'
-last_checked: '2026-08-02T14:10:07.710636+05:30'
+first_seen: '2026-08-02T16:23:47.877113+05:30'
+last_seen: '2026-08-02T16:23:47.877113+05:30'
+last_checked: '2026-08-02T16:23:47.877113+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, spanning knowledge graphs, large language models (LLMs), and RAG frameworks.
-- **Technical Scope**: Covers **GraphRAG-specific methodologies**, including graph-augmented retrieval, graph neural networks (GNNs) for structured knowledge integration, and LLM-based reasoning over graph-embedded data.
-- **Community & Maintenance**: Actively maintained repository (last updated **2026-08-01**) with **2,567 stars** and **227 forks**, indicating strong community engagement in advancing GraphRAG research and tooling.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG architectures.
+- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, reasoning over knowledge graphs) and adjacent domains (e.g., large language models, retrieval-augmented generation).
+- **Repository Metrics**: Maintained with **2,567 stars** and **227 forks**, last updated **2026-08-01**, serving as a dynamic reference for cutting-edge research in GraphRAG.
 
 ## Why It Matters
 

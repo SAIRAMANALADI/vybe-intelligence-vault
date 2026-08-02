@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-08-02T14:10:42.725921+05:30'
+collected_at: '2026-08-02T16:24:22.870520+05:30'
 published_at: '2026-08-01T19:18:00Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
+- workflows
 stars: 673
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-08-02T14:10:42.725921+05:30'
-last_seen: '2026-08-02T14:10:42.725921+05:30'
-last_checked: '2026-08-02T14:10:42.725921+05:30'
+first_seen: '2026-08-02T16:24:22.870520+05:30'
+last_seen: '2026-08-02T16:24:22.870520+05:30'
+last_checked: '2026-08-02T16:24:22.870520+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, covering end-to-end implementation from retrieval to generation.
+- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, covering end-to-end implementation.
 
-- **Modular Architecture**: Implements a decoupled design with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration, optimized for scalability and maintainability.
+- **Modular Architecture**: Implements a scalable RAG system with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration, optimized for GenAI workflows.
 
-- **GenAI Integration**: Demonstrates integration with generative AI models (e.g., Hugging Face Transformers or OpenAI APIs) via FastAPI endpoints, with Dockerized deployment for reproducibility and CI/CD readiness.
+- **Deployment-Ready**: Includes Dockerized setup for local/remote deployment, FastAPI endpoints for inference, and educational resources (e.g., Jupyter notebooks) to demonstrate best practices in GenAI application development.
 
 ## Why It Matters
 

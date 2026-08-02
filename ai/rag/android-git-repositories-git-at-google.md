@@ -3,9 +3,9 @@ title: android Git repositories - Git at Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://android.googlesource.com
-published_at: '2026-08-02T14:18:26.323960+05:30'
-collected_at: '2026-08-02T14:18:26.323975+05:30'
+source_url: http://android.googlesource.com
+published_at: '2026-08-02T16:33:23.119662+05:30'
+collected_at: '2026-08-02T16:33:23.119676+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-08-02T14:18:26.323975+05:30'
-last_seen: '2026-08-02T14:18:26.323975+05:30'
-last_checked: '2026-08-02T14:18:26.323975+05:30'
+first_seen: '2026-08-02T16:33:23.119676+05:30'
+last_seen: '2026-08-02T16:33:23.119676+05:30'
+last_checked: '2026-08-02T16:33:23.119676+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Centralized Git Repository**: The [Android Open Source Project (AOSP)](https://android.googlesource.com/) hosts a massive, centralized Git repository containing kernel, device-specific, and accessory-related source code for Android, including hardware-specific implementations (e.g., `device/google/bluejay-kernel`, `device/asus/flo`).
+- **Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing public access to AOSP (Android Open Source Project) and related components, including device-specific, kernel, and accessory projects.
 
-- **Kernel & Device-Specific Branches**: Many device directories include kernel sources and SELinux policies (e.g., `device/google/raviole-kernels/6.1`, `device/google/raviole-sepolicy`), with some devices (e.g., `device/google/akita`) supporting multiple kernel versions (5.15, 6.1).
+- **Device-Specific Branches**: Multiple device-specific repositories exist (e.g., `device/google/bluejay`, `device/google/coral`), each containing kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and sometimes kernel version-specific branches (e.g., `*-kernels/6.1`).
 
-- **Accessory & Emulator Support**: The repository includes Android accessory frameworks (e.g., `device/google/accessory/arduino`), emulator targets (e.g., `device/generic/mini-emulator-x86_64`), and CTS-related projects (e.g., `cts_drno_filter`).
+- **Accessory & Emulator Support**: Repositories include hardware accessory support (e.g., `device/google/accessory/arduino`) and emulator/device emulation targets (e.g., `device/generic/x86_64`, `device/generic/goldfish`).
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:18:26.323960+05:30
+- Published: 2026-08-02T16:33:23.119662+05:30
 
 ## Related Tags
 
@@ -66,4 +66,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://android.googlesource.com
+Original source: http://android.googlesource.com

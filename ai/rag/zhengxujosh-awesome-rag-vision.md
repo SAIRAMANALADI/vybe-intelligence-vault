@@ -4,16 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-02T14:10:17.668589+05:30'
+collected_at: '2026-08-02T16:23:57.834205+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - rag
 - unknown
-- youtube
 stars: 339
 language: Unknown
 status: active
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-02T14:10:17.668589+05:30'
-last_seen: '2026-08-02T14:10:17.668589+05:30'
-last_checked: '2026-08-02T14:10:17.668589+05:30'
+first_seen: '2026-08-02T16:23:57.834205+05:30'
+last_seen: '2026-08-02T16:23:57.834205+05:30'
+last_checked: '2026-08-02T16:23:57.834205+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A specialized repository aggregating advanced retrieval-augmented generation (RAG) techniques tailored for computer vision applications, including multimodal models, vision-language integration, and retrieval-enhanced visual understanding.
-
-- **Multimodal RAG Frameworks**: Includes implementations of RAG systems that combine visual (e.g., images, videos) and textual data for tasks like image captioning, visual question answering (VQA), and cross-modal retrieval.
-
-- **Evaluation & Benchmarks**: Features curated datasets, benchmarks, and evaluation metrics for assessing RAG-based vision models, with a focus on retrieval quality, generation accuracy, and multimodal coherence.
+- **Curated Resource**: A specialized GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and retrieval-enhanced visual tasks.
+- **Metadata**: 339 stars, 9 forks, last updated **July 15, 2026**; language unspecified (likely Python/Markdown-based documentation).
+- **Focus Areas**: Encompasses cutting-edge RAG methodologies for CV applications such as image captioning, visual question answering (VQA), and scene understanding, leveraging retrieval mechanisms to enhance generative performance.
 
 ## Why It Matters
 

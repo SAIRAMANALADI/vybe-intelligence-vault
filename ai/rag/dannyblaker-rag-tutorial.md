@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-08-02T14:09:12.667165+05:30'
+collected_at: '2026-08-02T16:22:52.797231+05:30'
 published_at: '2026-07-22T13:21:53Z'
 tags:
 - github-repo
 - hackernews
-- models
 - python
 - rag
 - reddit
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-08-02T14:09:12.667165+05:30'
-last_seen: '2026-08-02T14:09:12.667165+05:30'
-last_checked: '2026-08-02T14:09:12.667165+05:30'
+first_seen: '2026-08-02T16:22:52.797231+05:30'
+last_seen: '2026-08-02T16:22:52.797231+05:30'
+last_checked: '2026-08-02T16:22:52.797231+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering foundational to advanced RAG concepts, from embeddings and vector databases to LLM integration and production deployment, with reusable Python utilities and hands-on demos.
-- **Technical Implementation**: Provides working code examples and reusable components for building RAG systems, emphasizing practical integration of vector search, retrieval pipelines, and LLM fine-tuning.
-- **Repository Metadata**: Python-based tutorial with no topics tagged, last updated in July 2026, and currently unforked with 8 stars.
+- **Progressive RAG Tutorial**: Six structured lessons covering end-to-end RAG development, from embeddings and vector databases to LLM integration and production deployment, with executable code examples and reusable utilities.
+
+- **Technical Focus**: Covers core RAG components (embeddings, vector DBs, LLMs) and advanced techniques, emphasizing hands-on implementation via working demos and modular utilities.
+
+- **Python-Based Implementation**: Repository provides a Python-centric codebase with last update timestamped `2026-07-22T13:21:53Z`, hosted at `https://github.com/dannyblaker/rag-tutorial`.
 
 ## Why It Matters
 
