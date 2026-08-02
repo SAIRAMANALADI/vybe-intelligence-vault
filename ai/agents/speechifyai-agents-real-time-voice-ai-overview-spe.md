@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-08-02T19:33:07.594291+05:30'
-collected_at: '2026-08-02T19:33:07.594305+05:30'
+published_at: '2026-08-02T21:51:19.099150+05:30'
+collected_at: '2026-08-02T21:51:19.099163+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-08-02T19:33:07.594305+05:30'
-last_seen: '2026-08-02T19:33:07.594305+05:30'
-last_checked: '2026-08-02T19:33:07.594305+05:30'
+first_seen: '2026-08-02T21:51:19.099163+05:30'
+last_seen: '2026-08-02T21:51:19.099163+05:30'
+last_checked: '2026-08-02T21:51:19.099163+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Framework**: SpeechifyAI Agents enables real-time voice interactions via a reusable agent definition (prompt, voice, tools, evaluation criteria) accessible over web/phone, with endpoints like `POST /v1/agents/{id}/conversations` for session provisioning and token issuance.
+- **Agent Architecture**: Speechify Agents provide a low-latency real-time pipeline for voice interactions, enabling speech-in, agent processing, and speech-out via `POST /v1/agents/{id}/conversations`, returning a short-lived token/URL for session initiation.
 
-- **Core Capabilities**: Supports low-latency real-time audio processing, curated Speechify voices (excluding cloned/personal voices), tool integration (backend APIs, device execution, MCP servers, built-ins like `end_call`), and post-call evaluation with LLM-graded criteria and structured data extraction.
+- **Core Features**: Supports curated Speechify voices (excluding cloned/personal voices), tools (backend calls, device execution, MCP servers, built-ins like `end_call`), transcript persistence with timestamps/tool traces, and post-call LLM-graded evaluations.
 
-- **Use Cases & Workflow**: Designed for inbound/outbound support, IVR replacement, and structured data collection; offers a no-code console for agent configuration (prompt, voice, knowledge, phone number) and webhook-based lifecycle event notifications.
+- **Use Cases & Deployment**: Designed for inbound/outbound support, IVR replacement, and structured data collection; deployable via no-code console or API with webhook-based lifecycle event notifications.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T19:33:07.594291+05:30
+- Published: 2026-08-02T21:51:19.099150+05:30
 
 ## Related Tags
 

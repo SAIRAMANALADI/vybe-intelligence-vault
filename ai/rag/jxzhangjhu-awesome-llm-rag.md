@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-02T19:26:02.064854+05:30'
+collected_at: '2026-08-02T21:45:35.446932+05:30'
 published_at: '2026-08-01T13:42:45Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - paper
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-02T19:26:02.064854+05:30'
-last_seen: '2026-08-02T19:26:02.064854+05:30'
-last_checked: '2026-08-02T19:26:02.064854+05:30'
+first_seen: '2026-08-02T21:45:35.446932+05:30'
+last_seen: '2026-08-02T21:45:35.446932+05:30'
+last_checked: '2026-08-02T21:45:35.446932+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: A comprehensive, structured repository of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and hybrid architectures.
-- **Technical Scope**: Focuses on **RAG-specific topics** including retrieval optimization, embedding models, hybrid search (dense + sparse), and evaluation methodologies for LLM augmentation.
-- **Dynamic Updates**: Actively maintained with the latest advancements (last updated **Aug 2026**), featuring community contributions, benchmarks, and research papers on **RAG-embeddings** and **information retrieval integration**.
+- **Curated Resource**: Comprehensive collection of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research papers for **Large Language Models (LLMs)**, focusing on **embeddings**, **retrieval mechanisms**, and **information augmentation**.
+- **Technical Scope**: Covers **RAG-embeddings**, **retrieval-information** optimization, and integration strategies for enhancing LLM performance via dynamic knowledge retrieval.
+- **Repository Metadata**: 1,340 stars, 89 forks, last updated **2026-08-01**; serves as a centralized hub for cutting-edge RAG advancements in LLMs.
 
 ## Why It Matters
 

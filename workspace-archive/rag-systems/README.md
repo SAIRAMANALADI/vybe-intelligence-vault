@@ -8,23 +8,23 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 
 ## Top Matched Resources
 
-- [weaviate/Verba](https://github.com/weaviate/Verba) (framework - ESSENTIAL Tier)
-- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (framework - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (dataset - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
+- [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](https://aidailypost.com/news/7-top-github-repos-offering-tutorials-code-master-rag-system) (framework - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
-- [Neo4j · GitHub](https://github.com/neo4j) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/run-llama/llama_index (LlamaIndex)
 https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
-- [weaviate/Verba](https://github.com/weaviate/Verba)
-- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-08-02 19:42 IST*
+*Last updated: 2026-08-02 22:02 IST*

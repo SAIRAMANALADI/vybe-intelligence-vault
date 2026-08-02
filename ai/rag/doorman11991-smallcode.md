@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Doorman11991/smallcode
-collected_at: '2026-08-02T16:25:42.912380+05:30'
+collected_at: '2026-08-02T21:47:30.572110+05:30'
 published_at: '2026-08-01T23:14:14Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-05-18T06:19:44Z'
 pushed_at: '2026-07-25T13:43:01Z'
 resource_id: github:doorman11991/smallcode
-first_seen: '2026-08-02T16:25:42.912380+05:30'
-last_seen: '2026-08-02T16:25:42.912380+05:30'
-last_checked: '2026-08-02T16:25:42.912380+05:30'
+first_seen: '2026-08-02T21:47:30.572110+05:30'
+last_seen: '2026-08-02T21:47:30.572110+05:30'
+last_checked: '2026-08-02T21:47:30.572110+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized for small LLMs**: Achieves 87% benchmark performance using a 4B-active model, tailored for efficiency in resource-constrained environments.
-- **JavaScript-based implementation**: Repository is fully written in JavaScript, leveraging lightweight frameworks for minimal overhead.
-- **Active development**: Last updated on 2026-08-01, indicating ongoing maintenance and potential future enhancements.
+- **Optimized AI Coding Agent**: Designed for small LLMs, achieving an 87% benchmark with a 4B-active model, balancing performance and resource efficiency.
+
+- **JavaScript-Based Implementation**: Entirely written in JavaScript, leveraging lightweight runtime environments for accessibility and cross-platform compatibility.
+
+- **Recent Update & Community Engagement**: Last updated on 2026-08-01, with 1,996 stars and 153 forks, indicating active community interest and potential for collaborative improvements.
 
 ## Why It Matters
 

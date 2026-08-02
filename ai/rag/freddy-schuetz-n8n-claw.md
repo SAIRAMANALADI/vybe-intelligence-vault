@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-02T19:28:22.195324+05:30'
+collected_at: '2026-08-02T21:47:50.580738+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-02T19:28:22.195324+05:30'
-last_seen: '2026-08-02T19:28:22.195324+05:30'
-last_checked: '2026-08-02T19:28:22.195324+05:30'
+first_seen: '2026-08-02T21:47:50.580738+05:30'
+last_seen: '2026-08-02T21:47:50.580738+05:30'
+last_checked: '2026-08-02T21:47:50.580738+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework built entirely in **n8n**, leveraging **adaptive RAG-powered memory**, **MCP templates for Skills**, and **delegated sub-agents (Expert Agents)** for hierarchical task execution.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging MCP (Model Context Protocol) for Skills and Expert Agent delegation with sub-agents.
 
-- **Capabilities**: Supports **proactive task management**, **media understanding**, and integrates **Crawl4AI** for web scraping, **SearXNG** for search, and **Supabase** for persistent storage—all deployable via a **single setup script**.
+- **Capabilities**: Features adaptive RAG-powered memory, proactive task management, media understanding, and integrates tools like Crawl4AI, SearXNG, and Supabase for self-hosted operation via a single setup script.
 
-- **Deployment**: Self-hosted solution with **Shell-based setup**, targeting AI agent frameworks and MCP-compatible systems, last updated **2026-08-01** with **542 stars** and **104 forks**.
+- **Deployment**: Self-hosted solution with Shell-based setup, supporting AI agent frameworks, web scraping, and search engine integration, last updated August 2026.
 
 ## Why It Matters
 

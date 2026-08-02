@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-02T19:26:37.091580+05:30'
+collected_at: '2026-08-02T21:46:10.564142+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-02T19:26:37.091580+05:30'
-last_seen: '2026-08-02T19:26:37.091580+05:30'
-last_checked: '2026-08-02T19:26:37.091580+05:30'
+first_seen: '2026-08-02T21:46:10.564142+05:30'
+last_seen: '2026-08-02T21:46:10.564142+05:30'
+last_checked: '2026-08-02T21:46:10.564142+05:30'
 health_score: 100
 ---
 
@@ -33,8 +34,8 @@ health_score: 100
 ## Summary
 
 - **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Anyscale’s Ray-compatible tooling.
-- **Scalable Deployment**: Provides templates for deploying RAG-based LLM applications on Ray clusters, with focus on latency/throughput trade-offs for real-world production.
+- **Fine-Tuning & Optimization**: Includes notebooks on fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s scalable serving infrastructure.
+- **Multi-Model & Tooling Support**: Covers integration with Anyscale endpoints and tools for end-to-end LLM application deployment, including evaluation and monitoring.
 
 ## Why It Matters
 

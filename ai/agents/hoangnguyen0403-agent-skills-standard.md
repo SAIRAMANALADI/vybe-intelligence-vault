@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-02T19:27:37.126528+05:30'
+collected_at: '2026-08-02T21:47:05.556882+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-02T19:27:37.126528+05:30'
-last_seen: '2026-08-02T19:27:37.126528+05:30'
-last_checked: '2026-08-02T19:27:37.126528+05:30'
+first_seen: '2026-08-02T21:47:05.556882+05:30'
+last_seen: '2026-08-02T21:47:05.556882+05:30'
+last_checked: '2026-08-02T21:47:05.556882+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages such as React, Angular, Flutter, NestJS, Spring Boot, and more.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering 18+ frameworks/languages (e.g., React, Angular, NestJS, Spring Boot, Flutter, Kotlin) to ensure consistency in agent-generated code.
 
-- **Purpose**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to optimal coding and architectural patterns across diverse tech stacks.
+- **Purpose**: Provides structured `cursor-rules` and coding standards to optimize AI agent performance across mobile (iOS/Android), web (Next.js, React), backend (Go, Laravel), and other ecosystems.
 
-- **Metadata**: 536 stars, 155 forks, last updated July 30, 2026. Focuses on agentic AI, mobile (iOS/Android), and full-stack web development (Next.js, Laravel, etc.).
+- **Maintenance**: Actively updated (last commit: 2026-07-30) with 536 stars and 155 forks, indicating community adoption and collaborative refinement of agentic AI development practices.
 
 ## Why It Matters
 

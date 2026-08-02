@@ -4,20 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.refokus.com/
-published_at: '2026-07-19T21:49:24.001450+05:30'
-collected_at: '2026-07-19T21:49:24.001463+05:30'
+published_at: '2026-08-02T21:53:47.006659+05:30'
+collected_at: '2026-08-02T21:53:47.006672+05:30'
 tags:
-- creative_dev
-- hackernews
 - rag
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:refokus
-first_seen: '2026-07-19T21:49:24.001463+05:30'
-last_seen: '2026-07-19T21:49:24.001463+05:30'
-last_checked: '2026-07-19T21:49:24.001463+05:30'
+first_seen: '2026-08-02T21:53:47.006672+05:30'
+last_seen: '2026-08-02T21:53:47.006672+05:30'
+last_checked: '2026-08-02T21:53:47.006672+05:30'
 health_score: 100
 ---
 
@@ -25,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Meridian**: AI-powered brand equity optimization (AEO) tool leveraging NLP to analyze AI-driven brand sentiment, identify improvement opportunities, and enable proactive brand management via Webflow-based dashboard.
+- **Meridian**: AI-driven brand equity optimization (AEO) tool leveraging NLP to analyze AI-generated brand sentiment, identify improvement opportunities, and enable proactive brand management via automated insights and actionable recommendations.
 
-- **Heimdall Power**: Scandinavian design-integrated Webflow site featuring 3D visualizations and micro-interactions to communicate complex energy technology solutions for grid optimization.
+- **Heimdall Power**: Web-based 3D interactive platform combining Scandinavian minimalist design, physics-based 3D animations, and micro-interactions to visualize energy grid optimization solutions for renewable power distribution networks.
 
-- **Cula**: 3D-immersive Webflow platform visualizing carbon removal data pipelines, converting process metrics into verifiable carbon credit certificates through interactive data-to-certificate workflows.
+- **Cula**: Carbon accounting platform featuring a real-time 3D data visualization engine that converts heterogeneous carbon removal process data into verifiable, blockchain-anchored carbon credit certificates with dynamic certificate generation and audit trail tracking.
 
 ## Why It Matters
 
@@ -39,15 +36,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T21:49:24.001450+05:30
+- Published: 2026-08-02T21:53:47.006659+05:30
 
 ## Related Tags
 
-- creative_dev
-- hackernews
 - rag
 - web-crawled
-- workflows
 - youtube
 
 ## Source

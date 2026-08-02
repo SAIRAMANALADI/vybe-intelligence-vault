@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-02T19:28:02.143538+05:30'
+collected_at: '2026-08-02T21:47:35.602823+05:30'
 published_at: '2026-08-01T01:34:31Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
-- workflows
 stars: 2498
 language: Unknown
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-02T19:28:02.143538+05:30'
-last_seen: '2026-08-02T19:28:02.143538+05:30'
-last_checked: '2026-08-02T19:28:02.143538+05:30'
+first_seen: '2026-08-02T21:47:35.602823+05:30'
+last_seen: '2026-08-02T21:47:35.602823+05:30'
+last_checked: '2026-08-02T21:47:35.602823+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding agents, emphasizing system prompts and agentic workflows.
-
-- **Security Classification**: Investigates security frameworks and classifications for agentic AI systems, particularly in coding assistants, to mitigate risks like prompt injection and unauthorized code execution.
-
-- **Claude & Prompt Engineering**: Examines advanced prompt engineering techniques tailored for agentic AI models (e.g., Claude) to optimize performance, reliability, and task decomposition in coding scenarios.
+- **Agentic AI Coding Assistants**: Analyzes prompt patterns and coordination mechanisms in agentic AI systems (e.g., Claude) for autonomous coding tasks, emphasizing multi-agent architectures and task decomposition.
+- **Security Classification Framework**: Proposes a structured security taxonomy for agentic AI, categorizing risks (e.g., prompt injection, data leakage) and mitigation strategies in collaborative coding environments.
+- **Prompt Engineering & System Prompts**: Deconstructs system prompts to optimize agentic behavior, focusing on dynamic prompt reconstruction, role specialization, and context-aware response generation.
 
 ## Why It Matters
 

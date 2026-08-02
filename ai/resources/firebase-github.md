@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/firebase/
-published_at: '2026-08-02T19:34:32.003673+05:30'
-collected_at: '2026-08-02T19:34:32.003687+05:30'
+published_at: '2026-08-02T21:54:21.631496+05:30'
+collected_at: '2026-08-02T21:54:21.631509+05:30'
 tags:
 - web-crawled
-- workflows
 status: active
 resource_id: blog:firebase-github
-first_seen: '2026-08-02T19:34:32.003687+05:30'
-last_seen: '2026-08-02T19:34:32.003687+05:30'
-last_checked: '2026-08-02T19:34:32.003687+05:30'
+first_seen: '2026-08-02T21:54:21.631509+05:30'
+last_seen: '2026-08-02T21:54:21.631509+05:30'
+last_checked: '2026-08-02T21:54:21.631509+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-platform SDK**: Firebase provides official SDKs for Android (Kotlin/Java), iOS (Swift/Obj-C), Web (TypeScript/JavaScript), Unity (C#), and C++, enabling cross-platform app development with unified APIs for Authentication, Realtime Database, Firestore, Cloud Functions, and more.
+- Firebase provides official SDKs and quickstart samples for Android (Kotlin), iOS (Swift), Web (TypeScript), Unity (C#), and C++ (C++), with repositories like `quickstart-android`, `quickstart-ios`, `quickstart-js`, `quickstart-unity`, and `quickstart-cpp` hosting reference implementations.
 
-- **Open-source repositories**: Firebase maintains 100+ public GitHub repositories, including core SDKs (e.g., `firebase-ios-sdk` with 6.6k+ stars), quickstart samples (Android/iOS/Web/Unity/C++), and Cloud Functions use-case demos (`functions-samples` with 12.2k+ stars), all licensed under Apache-2.0.
+- The `firebase-ios-sdk` repository (C++) is the primary SDK for Apple platforms, while `functions-samples` (JavaScript) demonstrates Cloud Functions for Firebase use cases, both under Apache-2.0 license.
 
-- **Developer tooling**: Provides CLI tools (e.g., `firebase-tools`), testing frameworks (e.g., `quickstart-testing`), and snippets (e.g., `snippets-android`, `snippets-web`) for streamlined integration, debugging, and deployment workflows across Firebase services.
+- Additional repositories like `snippets-android` (Java), `snippets-web` (JavaScript), and `snippets-node` (JavaScript) provide platform-specific code snippets for Firebase documentation.
 
 ## Why It Matters
 
@@ -35,12 +34,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T19:34:32.003673+05:30
+- Published: 2026-08-02T21:54:21.631496+05:30
 
 ## Related Tags
 
 - web-crawled
-- workflows
 
 ## Source
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cashapp/molecule
-collected_at: '2026-08-02T14:18:19.452100+05:30'
+collected_at: '2026-08-02T21:56:14.529422+05:30'
 published_at: '2026-08-01T04:21:55Z'
 tags:
 - frontend_ui
@@ -19,9 +19,9 @@ archived: false
 created_at: '2021-06-09T18:26:28Z'
 pushed_at: '2026-08-01T04:21:39Z'
 resource_id: github:cashapp/molecule
-first_seen: '2026-08-02T14:18:19.452100+05:30'
-last_seen: '2026-08-02T14:18:19.452100+05:30'
-last_checked: '2026-08-02T14:18:19.452100+05:30'
+first_seen: '2026-08-02T21:56:14.529422+05:30'
+last_seen: '2026-08-02T21:56:14.529422+05:30'
+last_checked: '2026-08-02T21:56:14.529422+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **StateFlow Stream Construction**: Molecule enables the creation of a `StateFlow` stream directly within Jetpack Compose, leveraging Compose's declarative UI model to emit state updates reactively.
+- **StateFlow Integration**: Molecule enables Jetpack Compose to consume StateFlow streams directly, converting them into Compose state objects via `moleculeFlow` for reactive UI updates.
 
-- **Integration with Jetpack Compose**: The library bridges Compose's UI composition with reactive state management, allowing composable functions to return `StateFlow` instead of `State`, enabling seamless state propagation to UI layers.
+- **Coroutines & Composition**: Leverages Kotlin coroutines and Compose's runtime to bridge StateFlow emissions with Compose's snapshot system, ensuring thread-safe state propagation.
 
-- **Kotlin-Centric Design**: Built in Kotlin, Molecule abstracts state management logic into composable functions, reducing boilerplate while maintaining type safety and coroutine-based concurrency handling.
+- **Build-Time Generation**: Uses Kotlin Symbol Processing (KSP) to generate boilerplate code, converting composable functions into `StateFlow`-producing implementations at compile time.
 
 ## Why It Matters
 

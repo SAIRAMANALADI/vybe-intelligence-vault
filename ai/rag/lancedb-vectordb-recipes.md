@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-02T19:25:17.060189+05:30'
+collected_at: '2026-08-02T21:44:50.451538+05:30'
 published_at: '2026-07-27T01:59:34Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-02T19:25:17.060189+05:30'
-last_seen: '2026-08-02T19:25:17.060189+05:30'
-last_checked: '2026-08-02T19:25:17.060189+05:30'
+first_seen: '2026-08-02T21:44:50.451538+05:30'
+last_seen: '2026-08-02T21:44:50.451538+05:30'
+last_checked: '2026-08-02T21:44:50.451538+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems, leveraging vector search and LLMs (e.g., GPT-4 Vision) for cross-modal tasks.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for integrating vector search with LLMs (e.g., GPT-4-Vision, LangChain, LlamaIndex) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI applications.
 
-- **Vector Database Integration**: Demonstrates practical use cases with LanceDB (vector database) and frameworks like LangChain/LlamaIndex for efficient embedding storage, retrieval, and fine-tuning workflows.
+- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings management, and fine-tuning workflows in deep learning pipelines.
 
-- **Agentic & Embedding Workflows**: Includes examples for building AI agents, fine-tuning embeddings, and multimodal pipelines using OpenAI models, with a focus on optimizing performance for production-grade applications.
+- **Agent & LLM Integration**: Focuses on leveraging OpenAI models, LangChain, and LlamaIndex to construct AI agents with vector search capabilities, covering topics like embeddings, fine-tuning, and multimodal data processing.
 
 ## Why It Matters
 

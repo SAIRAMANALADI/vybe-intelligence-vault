@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - paper
+- reddit
 - web-crawled
 - workflows
 - youtube
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Video Tutorials**: 8 how-to videos covering bulk article ordering, PubMed/document ordering, re-use rights verification, workflow management, reference management, browser extension usage, and Word citation tools.
-- **PDF Quick Reference Guides**: 3 downloadable guides for accessing papers via discovery portals, dashboard navigation, and publisher token-based ordering.
-- **Support Channels**: Direct links to help center, ticketing system, and categorized support topics for troubleshooting an
+- **Video Tutorials**: Platform offers 8 how-to videos covering bulk article ordering, PubMed/document ordering, re-use rights verification, workflow management, reference management, and browser/Word integrations via Article Galaxy (AG) tools.
+- **PDF Quick Reference Guides**: Provides 3 downloadable guides for accessing papers across 70+ portals, dashboard navigation, and token-based ordering workflows.
+- **Support Infrastructure**: Centralized help center with ticketing (`My Tickets`), catego
 
 ## Use Cases
 

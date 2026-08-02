@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-02T14:17:16.192809+05:30'
-collected_at: '2026-08-02T14:17:16.192823+05:30'
+published_at: '2026-08-02T21:52:14.550183+05:30'
+collected_at: '2026-08-02T21:52:14.550198+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-02T14:17:16.192823+05:30'
-last_seen: '2026-08-02T14:17:16.192823+05:30'
-last_checked: '2026-08-02T14:17:16.192823+05:30'
+first_seen: '2026-08-02T21:52:14.550198+05:30'
+last_seen: '2026-08-02T21:52:14.550198+05:30'
+last_checked: '2026-08-02T21:52:14.550198+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for **2026-08-20**; users must migrate existing formulas to the new model.
+- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for 2026-08-20; migration required.
 
-- **Performance & Reliability**: LangSmith now enforces **monthly trace limits** per project/user, caps reusable evaluators per workspace, and improves batch ingestion (e.g., buffering OpenTelemetry spans, zstd compression for bulk exports) to prevent resource exhaustion and timeouts.
+- **Enhanced Experimentation & Evaluation**: New features include PEP 604 union return type support for Python evaluators, `langsmith evaluator create-llm` CLI for structured LLM-as-judge evaluator rules, and improved experiment comparison views with live dataset split assignments and interactive split editing.
 
-- **UI/UX & API Enhancements**: New features include **interactive split chips** in experiment tables, **thread evaluator testing**, **annotation queue batching** (RUN/THREAD support), and **OpenTelemetry resource attribute integration**; deprecated legacy dataset comparison helpers removed from public OpenAPI spec.
+- **Performance & Reliability Improvements**: LangSmith now enforces monthly trace limits per project/user, caps reusable evaluators per workspace, and optimizes batch ingestion (e.g., zstd compression, oversized field handling) while fixing critical bugs (e.g., OpenTelemetry span nesting, VS Code Copilot Chat trace rendering).
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:17:16.192809+05:30
+- Published: 2026-08-02T21:52:14.550183+05:30
 
 ## Related Tags
 

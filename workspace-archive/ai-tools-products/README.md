@@ -9,8 +9,8 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
-- [Firebase · GitHub](https://github.com/firebase/) (framework - ESSENTIAL Tier)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (dataset - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
@@ -21,11 +21,11 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Mintlify · GitHub](https://github.com/mintlify)
-- [Firebase · GitHub](https://github.com/firebase/)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [Hugging Face · GitHub](https://github.com/huggingface)
-- [continuedev/continue](https://github.com/continuedev/continue)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-02 19:42 IST*
+*Last updated: 2026-08-02 22:02 IST*

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Operational Status**: All systems (scite.ai, MCP, API) reported fully operational with no known issues as of May 2026–August 2026.
-- **Service Components**: Includes web interface (scite.ai), MCP (likely a model control protocol), and API endpoints, all monitored via [status.scite.ai](https://status.scite.ai/).
-- **Support & Compliance**: Contact for issues via `customersupport@researchsolutions.com`; governed by [Privacy Policy](https://scite.ai/policy) and [Terms of Service](https://scite.
+- **Operational Status**: All systems (scite.ai, MCP, API) are fully operational with no reported issues.
+- **Status Tracking**: System status is monitored and historical data is available via [status.scite.ai/history](https://status.scite.ai/history).
+- **Compliance**: Platform adheres to [Privacy Policy](https://scite.ai/policy) and [Terms of Service](https://scite.ai/terms).
 
 ## Use Cases
 

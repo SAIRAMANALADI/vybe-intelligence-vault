@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **p-video-avatar**: Fastest and most cost-effective avatar/lipsync video generation model, optimized for low latency and minimal computational cost (126.7K runs).
-- **seedance-2.0**: ByteDance’s multimodal video generation model with native audio integration, multimodal reference inputs, and adaptive duration control (1.2M runs).
-- **gemini-3.1-flash-tts**: Google’s high-speed TTS model featuring 30 voices, 70+ language support, and expressive output (386K runs).
+- **HappyHorse-1.0**: Alibaba's text-to-video diffusion model supporting 720p/1080p resolutions, 3-15s durations, and five aspect ratios (e.g., 16:9, 9:16) for video generation or animation from single images.
+
+- **Gemini-3.1-Flash-TTS**: Google’s lightweight TTS model offering 30 voices and 70+ language support with low latency, optimized for real-time speech synthesis.
+
+- **Flux-2-Max**: Black Forest Labs’ high-fidelity latent diffusion model for image generation, delivering superior visual qu
 
 ## Use Cases
 

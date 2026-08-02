@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-02T19:25:57.022029+05:30'
+collected_at: '2026-08-02T21:45:25.456339+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
-- models
 - python
 - rag
 stars: 95
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-02T19:25:57.022029+05:30'
-last_seen: '2026-08-02T19:25:57.022029+05:30'
-last_checked: '2026-08-02T19:25:57.022029+05:30'
+first_seen: '2026-08-02T21:45:25.456339+05:30'
+last_seen: '2026-08-02T21:45:25.456339+05:30'
+last_checked: '2026-08-02T21:45:25.456339+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Python-based repository (`chaoql/rag-best-practices`) focused on best practices for **Retrieval-Augmented Generation (RAG)** with large language models (LLMs), last updated July 27, 2026.
-- **Technical Scope**: Implements advanced RAG techniques, including **query optimization**, **retrieval strategies**, and **generation fine-tuning** for LLMs.
-- **Minimal Activity**: Low engagement metrics (95 stars, 10 forks) with no tagged topics, suggesting a niche or early-stage project.
+- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques with Python, focusing on optimizing large model performance via structured prompt engineering and dynamic context retrieval.
+- **Modular Architecture**: Repository provides a scalable, modular pipeline for document processing, embedding generation (e.g., Sentence-BERT, BGE), and vector database integration (e.g., FAISS, Milvus).
+- **Evaluation & Benchmarking**: Includes scripts for quantitative assessment of RAG systems using metrics like answer relevance, context precision, and latency, with support for custom datasets and A/B testing.
 
 ## Why It Matters
 

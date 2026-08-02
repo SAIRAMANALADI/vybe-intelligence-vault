@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-02T19:25:57.019860+05:30'
+collected_at: '2026-08-02T21:45:30.452502+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
 - reddit
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-02T19:25:57.019860+05:30'
-last_seen: '2026-08-02T19:25:57.019860+05:30'
-last_checked: '2026-08-02T19:25:57.019860+05:30'
+first_seen: '2026-08-02T21:45:30.452502+05:30'
+last_seen: '2026-08-02T21:45:30.452502+05:30'
+last_checked: '2026-08-02T21:45:30.452502+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using a knowledge graph for enhanced contextual retrieval and response generation in an AI Q&A system.
+- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based question-answering system using **Server-Sent Events (SSE) streams**, **Agent-based workflows**, and **Retrieval-Augmented Generation (RAG)** with **knowledge graphs** for enhanced contextual retrieval.
 
-- **Multi-modal AI Capabilities**: Integrates image generation (e.g., via Stable Diffusion), image understanding (OCR/visual QA), and function calling for dynamic tool invocation in agent-based workflows.
+- **Multi-Modal & Advanced Features**: Integrates **Function Calling**, **historical message handling**, **image generation (e.g., Stable Diffusion)**, **image understanding (OCR/CLIP)**, and **vector database storage** (e.g., Milvus/Pinecone) for embedding-based retrieval.
 
-- **Vector Database & Embedding Pipeline**: Utilizes vector databases (e.g., Milvus, Weaviate) for semantic search, alongside embedding models (e.g., BERT, Sentence-BERT) for efficient document retrieval and historical message management.
+- **Technical Stack**: Built in **Java** with **Spring AI**, **Embedding models** (e.g., BERT, Sentence-BERT), and **Alibaba Cloud AI services** (e.g., DashScope, Tongyi Qianwen) for LLM inference and multimodal processing.
 
 ## Why It Matters
 

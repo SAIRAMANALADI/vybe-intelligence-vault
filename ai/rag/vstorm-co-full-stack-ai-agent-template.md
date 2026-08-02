@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-02T19:25:22.061202+05:30'
+collected_at: '2026-08-02T21:44:55.500201+05:30'
 published_at: '2026-08-02T09:51:12Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-01T20:27:22Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-02T19:25:22.061202+05:30'
-last_seen: '2026-08-02T19:25:22.061202+05:30'
-last_checked: '2026-08-02T19:25:22.061202+05:30'
+first_seen: '2026-08-02T21:44:55.500201+05:30'
+last_seen: '2026-08-02T21:44:55.500201+05:30'
+last_checked: '2026-08-02T21:44:55.500201+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (backend) and Next.js (frontend) with Docker containerization, PostgreSQL for data persistence, and WebSocket support for real-time streaming.
+- **Tech Stack**: Full-stack template combining FastAPI (backend) and Next.js (frontend) with PostgreSQL database, Docker containerization, and WebSocket support for real-time streaming.
 
-- **AI Capabilities**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for agent orchestration, RAG pipelines, and LLM interactions; includes 20+ third-party integrations (e.g., auth, databases).
+- **AI Capabilities**: Pre-integrated with multiple agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI) and includes Retrieval-Augmented Generation (RAG) for enhanced LLM performance.
 
-- **Architecture**: Modular design with Pydantic models (Pydantic-Deep) for data validation, FastAPI for REST APIs, and Next.js/React/TypeScript for the UI, optimized for scalable AI agent deployments.
+- **Features**: Built-in authentication, 20+ third-party integrations, and structured data validation via Pydantic models, enabling rapid deployment of scalable AI agent applications.
 
 ## Why It Matters
 

@@ -1,6 +1,6 @@
 ---
 title: 'SpeechifyAI Build: TTS, Voices, Streaming, and SSML | SpeechifyAI API'
-archive_category: observability
+archive_category: public-apis
 source_category: ai/agents
 source_url: https://docs.speechify.ai/tts/guides/welcome
 resource_id: blog:speechifyai-build-tts-voices-streaming-and-ssml-sp
@@ -8,38 +8,38 @@ local_vault_path: ai/agents/speechifyai-build-tts-voices-streaming-and-ssml-sp.m
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # SpeechifyAI Build: TTS, Voices, Streaming, and SSML | SpeechifyAI API
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Observability`
+- Matched archive category: `Public APIs`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **API Endpoint**: Single POST request to `/v1/audio/speech` with JSON payload (`input`, `voice_id`, `audio_format`, `model`) for TTS generation, supporting streaming up to 20,000 characters.
-- **Voice Customization**: Supports voice cloning from 10-30s samples, SSML for fine-grained control (pitch, rate, emotion presets), and speech marks for word-level timestamps.
-- **Model & Integration**: Offers multilingual models (`simba-multilingual` for 30+ languages, `simba-3.2` for low-latency English
+- **API Integration**: Single REST API endpoint (`POST /v1/audio/speech`) with JSON payload for TTS generation, supporting parameters like `voice_id`, `audio_format`, and `model` (e.g., `simba-3.2` for English).
+- **Advanced Features**: Supports streaming (20k chars/request), voice cloning (10-30s sample), SSML-based prosody control (13 emotion presets), and speech marks (word-level timestamps).
+- **Multi-Model/Language Support**: Four models (`simba-3.2`, `simba-3.0`, `simba-multilingual`, `sim
 
 ## Use Cases
 
-- Production trace tracking
-- LLM request cost audits
-- Latency profiling
+- Agent tools integration
+- Developer utility integrations
+- Free REST API integrations
 
 ## Source
 

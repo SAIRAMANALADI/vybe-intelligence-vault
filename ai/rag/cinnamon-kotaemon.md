@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-02T19:25:32.057999+05:30'
+collected_at: '2026-08-02T21:45:05.493381+05:30'
 published_at: '2026-08-02T09:08:26Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
-- workflows
 stars: 25676
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-02T19:25:32.057999+05:30'
-last_seen: '2026-08-02T19:25:32.057999+05:30'
-last_checked: '2026-08-02T19:25:32.057999+05:30'
+first_seen: '2026-08-02T21:45:05.493381+05:30'
+last_seen: '2026-08-02T21:45:05.493381+05:30'
+last_checked: '2026-08-02T21:45:05.493381+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-based chat interactions, leveraging LLMs to process and query user-provided documents dynamically.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses while retrieving relevant document snippets.
 
-- **Modular Pipeline**: Features a pluggable backend system supporting multiple vector databases (e.g., FAISS, Chroma) and LLM providers (e.g., Hugging Face, OpenAI) for scalable document indexing and retrieval.
+- **Modular Python Framework**: Open-source toolkit written in Python, designed for extensibility with custom document loaders, retrievers, and LLM integrations (e.g., LangChain compatibility).
 
-- **Open-Source Toolkit**: Provides a Python-based, MIT-licensed framework with CLI and API interfaces for local deployment, customization, and integration into document workflows.
+- **Scalable Deployment**: Supports local and cloud-based deployment, with features for document preprocessing, vector storage (e.g., FAISS, Chroma), and API endpoints for programmatic access.
 
 ## Why It Matters
 

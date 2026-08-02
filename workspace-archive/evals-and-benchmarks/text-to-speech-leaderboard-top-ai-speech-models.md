@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Top-ranked TTS models (Elo-based)**: Simba 3.2 (1,229 Elo) leads, followed by Qwen-Audio-3.0-TTS-Plus (1,227) and Google’s Gemini 3.1 Flash TTS (1,212), evaluated via blind user comparisons in the Speech Arena.
-
-- **Pricing & open-weight availability**: Kokoro 82M v1.0 is the cheapest at **$0.65/1M chars** (Elo: 1,055), while **Fish Audio S2 Pro** is the top open-weight model (Elo: 1,123, $15/1M chars).
-
-- **Evaluation methodology**: Elo ratings derived from **blind A/B tests** where users s
+- **Top TTS Models (Elo Rankings)**: Simba 3.2 (1,229 Elo) leads, followed by Qwen-Audio-3.0-TTS-Plus (1,227) and Google’s Gemini 3.1 Flash TTS (1,212), based on blind user votes in the Speech Arena.
+- **Pricing & Open Weights**: Kokoro 82M v1.0 is the cheapest at **$0.65/1M chars** (1,055 Elo), while Fish Audio S2 Pro (1,123 Elo) is the highest-ranked open-weights model.
+- **Evaluation Methodology**: Elo scores derive from pairwise blind comparisons in the Speech Arena, where users rank natural
 
 ## Use Cases
 

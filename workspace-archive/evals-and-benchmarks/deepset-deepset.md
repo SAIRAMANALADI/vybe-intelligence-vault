@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **AutoQuizzer** is a Hugging Face Space that automates quiz generation using an LLM, allowing users to create, play, or let the model play quizzes interactively.
-- The tool leverages a **deepset**-hosted model (likely fine-tuned for Q&A tasks) to dynamically generate questions, answers, and evaluate responses.
-- Supports **multi-modal interaction** (user vs. LLM play) with a clean UI, optimized for rapid quiz creation and evaluation.
+- **AutoQuizzer** is a Hugging Face Space that automates quiz generation using LLMs, enabling interactive or automated quiz creation and evaluation.
+- The tool supports both LLM-driven quiz generation and interactive gameplay, leveraging a lightweight UI for user engagement.
+- Developed by **deepset**, it integrates with Hugging Face’s ecosystem for seamless deployment and accessibility.
 
 ## Use Cases
 

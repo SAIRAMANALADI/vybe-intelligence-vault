@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-08-02T19:26:37.054553+05:30'
-published_at: '2026-08-01T19:18:00Z'
+collected_at: '2026-08-02T21:46:05.535401+05:30'
+published_at: '2026-08-02T15:16:36Z'
 tags:
 - github-repo
 - python
 - rag
 - workflows
-stars: 673
+stars: 672
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-08-02T19:26:37.054553+05:30'
-last_seen: '2026-08-02T19:26:37.054553+05:30'
-last_checked: '2026-08-02T19:26:37.054553+05:30'
+first_seen: '2026-08-02T21:46:05.535401+05:30'
+last_seen: '2026-08-02T21:46:05.535401+05:30'
+last_checked: '2026-08-02T21:46:05.535401+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
-- **GenAI Integration**: Demonstrates GenAI integration with a structured workflow for document ingestion, vector embedding (e.g., via FAISS or Chroma), and retrieval-augmented LLM inference.
-- **Scalable Architecture**: Includes CI/CD-ready Docker setup, FastAPI endpoints for RESTful RAG operations, and modular components for extensibility (e.g., custom retrievers, embedders).
+- **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
+- **Modular Architecture**: Implements a structured approach with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration, optimized for scalability.
+- **GenAI Integration**: Demonstrates real-time RAG workflows with FastAPI endpoints, leveraging GenAI models (e.g., Hugging Face transformers) and CI/CD-ready Docker configurations.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: bakrianoo
-- Stars: 673
+- Stars: 672
 - Forks: 300
 - Language: Python
 - Topics: docker, education, fastapi, genai, python, rag
-- Last Updated: 2026-08-01T19:18:00Z
+- Last Updated: 2026-08-02T15:16:36Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-02-27T13:39:48Z

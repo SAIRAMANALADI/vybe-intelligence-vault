@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langgraphjs
-collected_at: '2026-08-02T19:28:57.239313+05:30'
-published_at: '2026-08-02T13:55:30Z'
+collected_at: '2026-08-02T21:48:25.709620+05:30'
+published_at: '2026-08-02T15:36:27Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
 - workflows
-stars: 3167
+stars: 3168
 language: TypeScript
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-09T17:40:12Z'
 pushed_at: '2026-08-01T22:02:25Z'
 resource_id: github:langchain-ai/langgraphjs
-first_seen: '2026-08-02T19:28:57.239313+05:30'
-last_seen: '2026-08-02T19:28:57.239313+05:30'
-last_checked: '2026-08-02T19:28:57.239313+05:30'
+first_seen: '2026-08-02T21:48:25.709620+05:30'
+last_seen: '2026-08-02T21:48:25.709620+05:30'
+last_checked: '2026-08-02T21:48:25.709620+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Graph-Based Agent Framework**: LangGraphJS enables the construction of resilient language agents using graph-based architectures, facilitating complex workflows and state management via nodes and edges.
+- **Graph-based Agent Framework**: LangGraphJS enables building resilient language agents using graph structures, allowing for complex workflow orchestration and state management in TypeScript.
 
-- **TypeScript Implementation**: Built in TypeScript, it leverages modern JS/TS features for type safety, modularity, and integration with Node.js ecosystems, particularly for AI/ML pipelines.
+- **TypeScript Implementation**: The framework is implemented in TypeScript, leveraging Node.js for runtime execution and providing type-safe agent development.
 
-- **LangChain Ecosystem Integration**: Designed as part of the LangChain ecosystem, it supports LLM interactions, generative AI workflows, and agentic systems with fault tolerance and scalability.
+- **Stateful Multi-Agent Systems**: Supports stateful, multi-agent systems with cyclic graphs, enabling persistent memory, tool usage, and conditional branching in agent workflows.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 3167
+- Stars: 3168
 - Forks: 537
 - Language: TypeScript
 - Topics: agents, ai, artificial-intelligence, generative-ai, llm, node, typescript
-- Last Updated: 2026-08-02T13:55:30Z
+- Last Updated: 2026-08-02T15:36:27Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-09T17:40:12Z

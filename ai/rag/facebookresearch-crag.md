@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-02T19:26:12.104996+05:30'
+collected_at: '2026-08-02T21:45:45.525286+05:30'
 published_at: '2026-07-19T17:15:41Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - jupyter notebook
+- leaderboard
 - rag
 stars: 297
 language: Jupyter Notebook
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-02T19:26:12.104996+05:30'
-last_seen: '2026-08-02T19:26:12.104996+05:30'
-last_checked: '2026-08-02T19:26:12.104996+05:30'
+first_seen: '2026-08-02T21:45:45.525286+05:30'
+last_seen: '2026-08-02T21:45:45.525286+05:30'
+last_checked: '2026-08-02T21:45:45.525286+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRAG provides a comprehensive benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
+- **Benchmark Suite**: CRAG is a comprehensive benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems, covering diverse tasks and datasets to assess performance across retrieval, generation, and end-to-end metrics.
 
-- **Modular Design**: The repository is structured as Jupyter Notebooks, enabling modular experimentation with customizable pipelines for retrieval, generation, and evaluation components.
+- **Technical Implementation**: The repository is implemented primarily in Jupyter Notebooks, facilitating interactive experimentation and analysis of RAG pipelines, with structured evaluation protocols for reproducibility.
 
-- **Evaluation Metrics**: Includes standardized metrics for assessing RAG performance, such as answer correctness, retrieval precision, and latency, facilitating reproducible research comparisons.
+- **Evaluation Focus**: The benchmark emphasizes critical RAG challenges such as noise robustness, citation accuracy, and long-form generation quality, providing standardized metrics and leaderboards for comparative analysis.
 
 ## Why It Matters
 

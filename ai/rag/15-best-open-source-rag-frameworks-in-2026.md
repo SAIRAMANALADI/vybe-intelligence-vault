@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-08-02T19:25:03.439143+05:30'
-collected_at: '2026-08-02T19:25:03.439157+05:30'
+published_at: '2026-08-02T21:44:32.903417+05:30'
+collected_at: '2026-08-02T21:44:32.903431+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-08-02T19:25:03.439157+05:30'
-last_seen: '2026-08-02T19:25:03.439157+05:30'
-last_checked: '2026-08-02T19:25:03.439157+05:30'
+first_seen: '2026-08-02T21:44:32.903431+05:30'
+last_seen: '2026-08-02T21:44:32.903431+05:30'
+last_checked: '2026-08-02T21:44:32.903431+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Modular framework (105k⭐) for LLM application development with RAG pipelines, offering model flexibility, vector store integrations, retrieval components, and evaluation tools via `pip install -U langchain`.
+- **Firecrawl**: Provides a context API for scalable web data collection, including structured markdown conversion, `llms.txt` generation, and deep research endpoints, optimized for LLM-friendly data ingestion in RAG pipelines.
 
-- **RAGFlow**: Open-source RAG engine (48.5k⭐) with deep document understanding, GraphRAG support, and structured extraction from complex PDFs/tables via Docker (slim: 2GB, full: 9GB).
+- **RAGFlow**: Open-source RAG engine with deep document understanding (PDFs, tables, layouts), GraphRAG support, and a visual web interface for structured data extraction and retrieval workflows.
 
-- **Milvus**: High-performance vector database (33.9k⭐) optimized for scalable ANN search, hybrid queries, and multi-modal embeddings, deployable via Docker (`milvusdb/milvus:latest`) with Python client libraries.
+- **Milvus**: High-performance, cloud-native vector database for scalable similarity search, supporting hybrid retrieval (vector + scalar filtering), multi-modal embeddings, and seamless integration with RAG frameworks like LangChain and LlamaIndex.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:25:03.439143+05:30
+- Published: 2026-08-02T21:44:32.903417+05:30
 
 ## Related Tags
 

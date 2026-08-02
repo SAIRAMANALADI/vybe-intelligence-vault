@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-08-02T16:28:30.622690+05:30'
-published_at: '2026-08-02T09:57:59Z'
+collected_at: '2026-08-02T21:50:12.448356+05:30'
+published_at: '2026-08-02T16:00:22Z'
 tags:
 - github-repo
 - go
 - hackernews
 - rag
-- workflows
-stars: 16679
+stars: 16681
 language: Go
 status: active
 license: BSD-3-Clause
@@ -20,9 +19,9 @@ archived: false
 created_at: '2016-03-30T15:03:17Z'
 pushed_at: '2026-08-01T13:30:33Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-08-02T16:28:30.622690+05:30'
-last_seen: '2026-08-02T16:28:30.622690+05:30'
-last_checked: '2026-08-02T16:28:30.622690+05:30'
+first_seen: '2026-08-02T21:50:12.448356+05:30'
+last_seen: '2026-08-02T21:50:12.448356+05:30'
+last_checked: '2026-08-02T21:50:12.448356+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Vector & Structured Data Storage**: Weaviate combines object storage with vector embeddings, enabling efficient vector search (e.g., HNSW, ANNS) alongside traditional filtering (e.g., GraphQL, REST APIs) in a single system.
+- **Hybrid Architecture**: Weaviate integrates both vector embeddings and structured data storage, enabling combined vector search with SQL-like filtering while maintaining cloud-native scalability and fault tolerance.
 
-- **Cloud-Native & Fault-Tolerant Architecture**: Built in Go with gRPC support, it scales horizontally and ensures resilience via distributed storage, replication, and recovery mechanisms.
+- **HNSW & gRPC Integration**: Utilizes Hierarchical Navigable Small World (HNSW) for approximate nearest neighbor search and leverages gRPC for high-performance, low-latency communication.
 
-- **Advanced Search Capabilities**: Supports semantic, hybrid (vector + keyword), and generative search (RAG-ready), optimized for MLops workflows, recommender systems, and multimodal (text/image) retrieval.
+- **Multi-Modal & Generative Search**: Supports semantic, hybrid, and generative search across text, images, and structured data, optimized for MLOps, recommender systems, and neural search applications.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: weaviate
-- Stars: 16679
+- Stars: 16681
 - Forks: 1357
 - Language: Go
 - Topics: approximate-nearest-neighbor-search, generative-search, grpc, hnsw, hybrid-search, image-search, information-retrieval, mlops, nearest-neighbor-search, neural-search, recommender-system, search-engine, semantic-search, semantic-search-engine, similarity-search, vector-database, vector-search, vector-search-engine, vectors, weaviate
-- Last Updated: 2026-08-02T09:57:59Z
+- Last Updated: 2026-08-02T16:00:22Z
 - License: BSD-3-Clause
 - Archived: No
 - Created At: 2016-03-30T15:03:17Z

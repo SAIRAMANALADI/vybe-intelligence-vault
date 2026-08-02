@@ -3,9 +3,9 @@ title: Introduction to Haystack | Haystack Documentation
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.haystack.deepset.ai/docs/intro?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57
-published_at: '2026-08-02T19:31:20.080338+05:30'
-collected_at: '2026-08-02T19:31:20.080349+05:30'
+source_url: https://docs.haystack.deepset.ai/docs/intro
+published_at: '2026-08-02T21:48:52.469565+05:30'
+collected_at: '2026-08-02T21:48:52.469577+05:30'
 tags:
 - agents
 - anthropic
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:introduction-to-haystack-haystack-documentation
-first_seen: '2026-08-02T19:31:20.080349+05:30'
-last_seen: '2026-08-02T19:31:20.080349+05:30'
-last_checked: '2026-08-02T19:31:20.080349+05:30'
+first_seen: '2026-08-02T21:48:52.469577+05:30'
+last_seen: '2026-08-02T21:48:52.469577+05:30'
+last_checked: '2026-08-02T21:48:52.469577+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack is an open-source framework for building production-ready AI applications (e.g., agents, RAG, multimodal search) using reusable, modular components and pipelines, integrating technologies from providers like OpenAI, Google, and Hugging Face.
+- **Modular AI Orchestration Framework**: Haystack v3.0 is an open-source framework for building production-ready AI agents, RAG applications, and multimodal search systems using reusable, task-specific components.
 
-- **Core Architecture**: Comprises components (e.g., Document Stores, Agents, Tools) and pipelines, enabling customization and extension for scalable LLM-based systems with enterprise-grade support via Haystack Enterprise.
+- **Core Architecture**: Comprises components, pipelines, document stores, agents, tools, and integrations (e.g., OpenAI, Hugging Face Transformers), enabling modular customization and extension for LLM-based applications.
 
-- **Enterprise & Scalability**: Offers enterprise support (e.g., deployment guidance, governance) through Haystack Enterprise Starter/Platform, alongside a community-driven, modular design for production-grade AI development.
+- **Enterprise & Scalability**: Offers enterprise-grade support (Haystack Enterprise Starter/Platform) for production deployment, including data management, pipeline governance, and best practices for scalable AI systems.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:31:20.080338+05:30
+- Published: 2026-08-02T21:48:52.469565+05:30
 
 ## Related Tags
 
@@ -54,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.haystack.deepset.ai/docs/intro?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57
+Original source: https://docs.haystack.deepset.ai/docs/intro

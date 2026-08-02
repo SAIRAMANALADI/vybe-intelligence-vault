@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/braincrew-lab/langgraph-mcp-agents
-collected_at: '2026-08-02T19:29:02.266813+05:30'
+collected_at: '2026-08-02T21:48:30.658894+05:30'
 published_at: '2026-07-27T07:17:17Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
-- workflows
 stars: 714
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-03-30T14:25:58Z'
 pushed_at: '2025-04-14T11:00:22Z'
 resource_id: github:braincrew-lab/langgraph-mcp-agents
-first_seen: '2026-08-02T19:29:02.266813+05:30'
-last_seen: '2026-08-02T19:29:02.266813+05:30'
-last_checked: '2026-08-02T19:29:02.266813+05:30'
+first_seen: '2026-08-02T21:48:30.658894+05:30'
+last_seen: '2026-08-02T21:48:30.658894+05:30'
+last_checked: '2026-08-02T21:48:30.658894+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **LangGraph ReAct Agent**: Implements a reasoning-and-acting (ReAct) agent pattern using LangGraph for dynamic workflow orchestration, enabling multi-step task decomposition and execution.
+- **LangGraph + ReAct Agent**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent architecture with Model Context Protocol (MCP) integration for dynamic AI agent orchestration.
 
-- **MCP Integration**: Supports Model Context Protocol (MCP) for seamless tool integration, allowing agents to interact with external data sources, APIs, and services via standardized interfaces.
+- **MCP Tool Integration**: Enables AI agents to interact with external data sources and APIs via MCP tools, facilitating real-time tool usage and context-aware reasoning.
 
-- **Streamlit UI**: Provides a web-based interface for real-time agent configuration, deployment, and interaction, with dynamic tool selection and state management.
+- **Streamlit Web Interface**: Provides a dynamic web UI for configuring, deploying, and interacting with agents, supporting real-time agent deployment and interaction.
 
 ## Why It Matters
 

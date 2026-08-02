@@ -3,18 +3,20 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/policy/medium-terms-of-service-9db0094a1e0f
-published_at: '2026-08-02T19:33:10.124236+05:30'
-collected_at: '2026-08-02T19:33:10.124243+05:30'
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+published_at: '2026-08-02T21:54:07.677438+05:30'
+collected_at: '2026-08-02T21:54:07.677452+05:30'
 tags:
 - agents
+- hackernews
 - rag
 - web-crawled
+- youtube
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-02T19:33:10.124243+05:30'
-last_seen: '2026-08-02T19:33:10.124243+05:30'
-last_checked: '2026-08-02T19:33:10.124243+05:30'
+first_seen: '2026-08-02T21:54:07.677452+05:30'
+last_seen: '2026-08-02T21:54:07.677452+05:30'
+last_checked: '2026-08-02T21:54:07.677452+05:30'
 health_score: 100
 ---
 
@@ -22,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Licensing & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all platforms (e.g., web, mobile) with attribution. Medium may create derivative works (e.g., previews, top-author lists) under this license, restricted to its Services.
+- **Data Collection Scope**: Medium collects user-provided data (e.g., name, email, content, bio) and automatically gathers activity, transactional, device, and usage data via cookies, web beacons, and third-party analytics tools, including IP addresses, device identifiers, and interaction metrics.
 
-- **Dispute Resolution & Liability**: Mandatory **binding arbitration** (via JAMS) replaces court proceedings for disputes, with class actions waived. Medium disclaims warranties (e.g., accuracy, reliability) and limits liability to **$50 USD or fees paid**, except for gross negligence/fraud. Users indemnify Medium for violations of laws/IP rights.
+- **Data Sharing & Processing**: Personal data is shared with third-party vendors (e.g., analytics, fraud prevention, hosting) and may be disclosed for legal compliance, mergers, or safety reasons; aggregated/de-identified data is exempt. Embedded third-party content (e.g., YouTube) transmits user interactions to external hosts.
 
-- **Data Processing & Termination**: Users consent to **cross-border data processing/storage** (including outside local jurisdiction). Medium may **suspend/terminate access** at will, and users must be **≥13 years old** to use Services. Feedback provided to Medium is non-confidential and may be used freely.
+- **Cross-Border Transfers & User Rights**: Data is transferred/stored globally (e.g., AWS data centers), with steps taken to ensure adequate protection. Users can access, correct, or delete account data, opt out of communications, and manage cookie preferences, though deletion may retain legally required data.
 
 ## Why It Matters
 
@@ -36,14 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:33:10.124236+05:30
+- Published: 2026-08-02T21:54:07.677438+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - rag
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://medium.com/policy/medium-terms-of-service-9db0094a1e0f
+Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9

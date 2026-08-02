@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-08-02T16:24:42.833566+05:30'
+collected_at: '2026-08-02T21:46:25.545289+05:30'
 published_at: '2026-08-02T06:24:05Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-08-02T16:24:42.833566+05:30'
-last_seen: '2026-08-02T16:24:42.833566+05:30'
-last_checked: '2026-08-02T16:24:42.833566+05:30'
+first_seen: '2026-08-02T21:46:25.545289+05:30'
+last_seen: '2026-08-02T21:46:25.545289+05:30'
+last_checked: '2026-08-02T21:46:25.545289+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to mitigate "code hallucinations" by providing accurate, real-time GitHub repository data to AI agents and LLMs.
+- **Purpose**: GitMCP is a free, open-source remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating AI code hallucinations by ensuring accurate, up-to-date context for LLM-based agents.
 
-- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI tools (e.g., Claude, Copilot, Cursor) via the MCP framework for repository-aware agentic workflows.
+- **Technical Implementation**: Built in TypeScript, it exposes GitHub repositories as a standardized MCP server, enabling seamless integration with AI agents (e.g., Claude, Copilot, Cursor) for dynamic, repository-aware interactions without local cloning.
 
-- **Functionality**: Acts as a bridge between AI systems and GitHub projects, allowing agents to fetch, analyze, and interact with repository data (e.g., code, issues, PRs) without hallucinations.
+- **Features**: Supports real-time repository synchronization, structured data retrieval (files, commits, issues), and agentic workflows via MCP, with last update as of 2026-08-02.
 
 ## Why It Matters
 

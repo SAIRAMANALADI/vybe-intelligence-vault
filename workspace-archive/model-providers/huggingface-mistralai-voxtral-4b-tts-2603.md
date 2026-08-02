@@ -6,11 +6,12 @@ source_url: https://huggingface.co/mistralai/Voxtral-4B-TTS-2603
 resource_id: huggingface:mistralai/voxtral-4b-tts-2603
 local_vault_path: ai/rag/huggingface-mistralai-voxtral-4b-tts-2603.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
+- hackernews
 - mistral
 - models
 - rag
@@ -25,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Voxtral Collection**: Official Mistral AI repository hosting audio models on Hugging Face, comprising 4 distinct models.
-- **Updated**: Models last revised on **April 14**, indicating recent development activity.
-- **Purpose**: Designed for **audio processing tasks**, leveraging Mistral AI's proprietary architectures.
+- **Voxtral Collection**: A curated set of Mistral AI's audio models hosted on Hugging Face, comprising 4 distinct models as of the latest update (Apr 14).
+
+- **Technical Focus**: Designed for advanced audio processing tasks, leveraging Mistral AI's proprietary architectures and training methodologies.
+
+- **Accessibility**: Available for public use via Hugging Face, enabling integration into AI-driven audio applications without proprietary restrictions.
 
 ## Use Cases
 

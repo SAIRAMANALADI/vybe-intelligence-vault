@@ -3,17 +3,16 @@ title: Sign in to GitHub · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/gohugoio/hugoDocs/edit/master/content/en/methods/page/Render.md
-published_at: '2026-08-02T19:33:20.524479+05:30'
-collected_at: '2026-08-02T19:33:20.524489+05:30'
+source_url: https://github.com/gohugoio/hugoDocs/edit/master/content/en/configuration/security.md
+published_at: '2026-08-02T21:51:31.580442+05:30'
+collected_at: '2026-08-02T21:51:31.580456+05:30'
 tags:
-- hackernews
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugodocs
-first_seen: '2026-08-02T19:33:20.524489+05:30'
-last_seen: '2026-08-02T19:33:20.524489+05:30'
-last_checked: '2026-08-02T19:33:20.524489+05:30'
+first_seen: '2026-08-02T21:51:31.580456+05:30'
+last_seen: '2026-08-02T21:51:31.580456+05:30'
+last_checked: '2026-08-02T21:51:31.580456+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Failure**: The GitHub login page encountered an error during page load, preventing access to authentication services.
-
-- **Session Recovery**: Users are prompted to reload the page to attempt recovery, with no additional technical details provided for the failure.
-
-- **Alternative Access**: GitHub offers account creation (`/signup`) and passkey-based authentication as fallback options for new or affected users.
+- **Authentication Error**: The page failed to load due to an unspecified error during the sign-in process.
+- **Password Reset Link**: A "Forgot password?" link is provided for account recovery via GitHub's password reset system.
+- **Passkey Support**: GitHub offers passkey-based authentication as an alternative to traditional credentials.
 
 ## Why It Matters
 
@@ -35,13 +32,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T19:33:20.524479+05:30
+- Published: 2026-08-02T21:51:31.580442+05:30
 
 ## Related Tags
 
-- hackernews
 - web-crawled
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugoDocs/edit/master/content/en/methods/page/Render.md
+Original source: https://github.com/gohugoio/hugoDocs/edit/master/content/en/configuration/security.md

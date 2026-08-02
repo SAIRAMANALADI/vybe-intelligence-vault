@@ -4,15 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-08-02T19:26:07.049357+05:30'
+collected_at: '2026-08-02T21:45:35.468521+05:30'
 published_at: '2026-08-01T07:38:22Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
-- meta-ai
-- mistral
-- models
 - paper
 - rag
 - unknown
@@ -24,9 +20,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-08-02T19:26:07.049357+05:30'
-last_seen: '2026-08-02T19:26:07.049357+05:30'
-last_checked: '2026-08-02T19:26:07.049357+05:30'
+first_seen: '2026-08-02T21:45:35.468521+05:30'
+last_seen: '2026-08-02T21:45:35.468521+05:30'
+last_checked: '2026-08-02T21:45:35.468521+05:30'
 health_score: 100
 ---
 
@@ -34,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive, community-driven collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs), including embeddings, retrieval systems, and model architectures.
-
-- **Multi-Topic Coverage**: Encompasses key technical domains such as RAG models (e.g., Fusion-in-Decoder, Self-RAG), embedding techniques (dense/sparse), retrieval systems (vector DBs, BM25), and integration strategies for LLMs like Llama, Mistral, and proprietary models.
-
-- **Active Maintenance & Growth**: Regularly updated (last commit: Aug 2026) with 431 stars and 52 forks, indicating active community engagement and continuous addition of state-of-the-art RAG methodologies, benchmarks, and deployment tools.
+- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) in large language models (LLMs).
+- **Technical Scope**: Covers embeddings, retrieval systems, LLM integration, and RAG model architectures, with emphasis on enhancing generative AI via external knowledge retrieval.
+- **Active Maintenance**: Last updated in August 2026, ensuring relevance with ongoing updates to repositories, tools, and methodologies in the RAG ecosystem.
 
 ## Why It Matters
 

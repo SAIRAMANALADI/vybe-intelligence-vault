@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-02T19:25:12.024002+05:30'
+collected_at: '2026-08-02T21:44:40.432360+05:30'
 published_at: '2026-08-02T10:09:15Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-02T19:25:12.024002+05:30'
-last_seen: '2026-08-02T19:25:12.024002+05:30'
-last_checked: '2026-08-02T19:25:12.024002+05:30'
+first_seen: '2026-08-02T21:44:40.432360+05:30'
+last_seen: '2026-08-02T21:44:40.432360+05:30'
+last_checked: '2026-08-02T21:44:40.432360+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Content Focus**: Repository provides advanced tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**, emphasizing practical implementation.
-
-- **Technical Stack**: Primarily uses **Jupyter Notebooks** for demonstrations, covering topics like **agents, AI engineering, MCP (Model Context Protocol), and machine learning**.
-
-- **Metrics**: Highly active with **36,819 stars**, **6,084 forks**, and last updated on **2026-08-02**, indicating strong community engagement and continuous development.
+- **Content Focus**: Repository provides advanced tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and practical AI agent implementations with real-world applications.
+- **Technical Stack**: Primarily uses Jupyter Notebooks for delivery, covering topics such as AI agents, LLMs, machine learning, Model Context Protocol (MCP), and RAG architectures.
+- **Repository Metrics**: Highly active with 36,819 stars, 6,086 forks, and last updated on August 2, 2026, indicating ongoing maintenance and community engagement.
 
 ## Why It Matters
 
@@ -44,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: patchy631
 - Stars: 36819
-- Forks: 6084
+- Forks: 6086
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
 - Last Updated: 2026-08-02T10:09:15Z

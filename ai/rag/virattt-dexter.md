@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/virattt/dexter
-collected_at: '2026-08-02T19:28:32.150755+05:30'
+collected_at: '2026-08-02T21:48:05.587354+05:30'
 published_at: '2026-08-02T13:54:39Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 27482
 language: TypeScript
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-14T21:02:00Z'
 pushed_at: '2026-07-17T19:23:31Z'
 resource_id: github:virattt/dexter
-first_seen: '2026-08-02T19:28:32.150755+05:30'
-last_seen: '2026-08-02T19:28:32.150755+05:30'
-last_checked: '2026-08-02T19:28:32.150755+05:30'
+first_seen: '2026-08-02T21:48:05.587354+05:30'
+last_seen: '2026-08-02T21:48:05.587354+05:30'
+last_checked: '2026-08-02T21:48:05.587354+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Deep Research Agent**: Dexter is a TypeScript-based autonomous agent designed for deep financial research, leveraging AI to autonomously gather, analyze, and synthesize financial data without manual intervention.
+- **Autonomous Financial Research Agent**: Dexter is an AI-powered autonomous agent designed for deep financial research, leveraging TypeScript for implementation.
 
-- **Modular Architecture**: The repository likely employs a modular design (e.g., plugins, microservices) to integrate financial data sources (e.g., APIs, databases) and AI models (e.g., LLMs, NLP) for scalable, extensible research workflows.
+- **GitHub Metrics**: The repository has garnered 27,482 stars and 3,406 forks, indicating significant community interest and adoption.
 
-- **Automated Workflow Orchestration**: Dexter automates end-to-end research processes, including data fetching, preprocessing, analysis, and report generation, with potential support for multi-agent collaboration and adaptive decision-making.
+- **Last Updated**: The project was last updated on August 2, 2026, reflecting ongoing maintenance and development.
 
 ## Why It Matters
 

@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-08-02T19:27:52.205692+05:30'
+collected_at: '2026-08-02T21:47:20.673856+05:30'
 published_at: '2026-08-02T10:50:44Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
-- hackernews
 - python
 stars: 1712
 language: Python
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-07-30T00:08:54Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-08-02T19:27:52.205692+05:30'
-last_seen: '2026-08-02T19:27:52.205692+05:30'
-last_checked: '2026-08-02T19:27:52.205692+05:30'
+first_seen: '2026-08-02T21:47:20.673856+05:30'
+last_seen: '2026-08-02T21:47:20.673856+05:30'
+last_checked: '2026-08-02T21:47:20.673856+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based tool integration with 1,712 GitHub stars and 428 forks.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems, with a structured Python implementation.
 
-- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn tool-use capabilities, agent decision-making, and user interaction fidelity in dynamic environments.
+- **Evaluation Scope**: Tests multi-turn interactions, tool integration, and dynamic user behavior, providing metrics for agent adaptability and task completion in practical scenarios.
 
-- **Real-World Domains**: Targets practical scenarios (e.g., software development, data analysis) to measure agent adaptability, tool proficiency, and end-to-end task completion under τ-Bench's framework.
+- **Open-Source Release**: Repository includes benchmark code, datasets, and evaluation scripts, actively maintained with recent updates (as of 2026-08-02) and high community engagement (1712 stars, 428 forks).
 
 ## Why It Matters
 

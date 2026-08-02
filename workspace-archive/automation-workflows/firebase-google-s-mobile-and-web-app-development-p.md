@@ -1,6 +1,6 @@
 ---
 title: Firebase | Google's Mobile and Web App Development Platform
-archive_category: model-providers
+archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://firebase.google.com
 resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
@@ -16,8 +16,8 @@ tags:
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +27,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Model Providers`
+- Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
@@ -36,17 +36,17 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++ to streamline app development across multiple environments.
 
-- **AI/ML Integration**: Offers Firebase AI Logic and Agent Skills for integrating Google’s generative AI models (e.g., Gemini) and managed AI-powered features like real-time data processing and logic automation.
+- **AI-powered services**: Integrates generative AI (e.g., Gemini) and Firebase AI Logic for building intelligent app features, with managed infrastructure via Google Cloud for scalability.
 
-- **Modular Backend Services**: Includes Firebase AI Logic, App Hosting, SQL Connec
+- **Modular ecosystem**: Offers 30+ products (e.g., Firestore, Crashlytics, App Hosting) and pre-built extensions (e.g., Stripe payments, Algol
 
 ## Use Cases
 
-- API key selection
-- Cost/capability profiling
-- Provider fallback routing
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 

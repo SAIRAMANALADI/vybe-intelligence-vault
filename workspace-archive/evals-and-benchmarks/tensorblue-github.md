@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Profile**: `tensorblue` is a GitHub user account with 51 stars but no public repositories, projects, or packages as of the snapshot.
-- **User Activity**: The account has 2 followers and 0 following, with no visible public activity or contributions.
-- **Error State**: The profile page displays a loading error, indicating potential API or data retrieval issues.
+- GitHub user `tensorblue` (ID: 253736847) has **0 public repositories, projects, or packages**, with **51 stars** across unspecified content.
+- User has **2 followers** and **0 following**, with no visible activity or contributions in the displayed metadata.
+- GitHub’s UI indicates a loading error when attempting to view repositories, suggesting potential API/data retrieval issues.
 
 ## Use Cases
 

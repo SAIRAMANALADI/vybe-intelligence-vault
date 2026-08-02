@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-02T19:26:17.085899+05:30'
+collected_at: '2026-08-02T21:45:45.488413+05:30'
 published_at: '2026-08-01T22:45:52Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-02T19:26:17.085899+05:30'
-last_seen: '2026-08-02T19:26:17.085899+05:30'
-last_checked: '2026-08-02T19:26:17.085899+05:30'
+first_seen: '2026-08-02T21:45:45.488413+05:30'
+last_seen: '2026-08-02T21:45:45.488413+05:30'
+last_checked: '2026-08-02T21:45:45.488413+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise-focused RAG performance.
-
-- **Key Features**: Includes synthetic data generation for internal knowledge bases, supports evaluation of semantic search, information retrieval, and LLM question-answering in enterprise contexts.
-
-- **Technical Scope**: Implements Python-based tools for RAG evaluation, covering metrics like retrieval accuracy, generative AI response quality, and end-to-end pipeline efficiency for enterprise applications.
+- **Purpose**: Provides a benchmarking dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of enterprise RAG implementations.
+- **Key Features**: Includes synthetic and real-world data, supports evaluation metrics for retrieval quality, answer correctness, and latency, and covers domains like semantic search, QA, and knowledge base integration.
+- **Technical Scope**: Implements Python-based pipelines for synthetic data generation, supports LLMs for evaluation, and includes tools for assessing enterprise search, generative AI, and retrieval performance in private document contexts.
 
 ## Why It Matters
 

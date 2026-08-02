@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-08-02T19:28:37.182143+05:30'
+collected_at: '2026-08-02T21:48:10.584847+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - unknown
+- workflows
 stars: 19
 language: Unknown
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-08-02T19:28:37.182143+05:30'
-last_seen: '2026-08-02T19:28:37.182143+05:30'
-last_checked: '2026-08-02T19:28:37.182143+05:30'
+first_seen: '2026-08-02T21:48:10.584847+05:30'
+last_seen: '2026-08-02T21:48:10.584847+05:30'
+last_checked: '2026-08-02T21:48:10.584847+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a preconfigured folder structure and environment specifications for Agentic AI App Hackathon submissions, ensuring reproducibility and streamlined judging.
-
-- **Documentation Placeholders**: Includes templates for documentation to facilitate team submissions and evaluation processes.
-
-- **Version Control Metrics**: Repository has 19 stars and 192 forks, last updated on 2026-05-10, indicating active community engagement and maintenance.
+- Standardized starter repository for Agentic AI App Hackathon with preconfigured folder structure and environment specifications for reproducible submissions.
+- Includes documentation placeholders to streamline team workflows and judging processes.
+- Last updated May 10, 2026, with 19 stars and 192 forks, though language and topics are unspecified.
 
 ## Why It Matters
 

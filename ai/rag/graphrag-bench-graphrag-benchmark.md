@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-02T19:26:12.049009+05:30'
+collected_at: '2026-08-02T21:45:40.479103+05:30'
 published_at: '2026-07-31T14:06:35Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-02T19:26:12.049009+05:30'
-last_seen: '2026-08-02T19:26:12.049009+05:30'
-last_checked: '2026-08-02T19:26:12.049009+05:30'
+first_seen: '2026-08-02T21:45:40.479103+05:30'
+last_seen: '2026-08-02T21:45:40.479103+05:30'
+last_checked: '2026-08-02T21:45:40.479103+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG (Graph Retrieval-Augmented Generation) models, including datasets and metrics for assessing performance in graph-based RAG tasks.
-- **Technical Scope**: Focuses on analyzing when graph structures enhance RAG performance, with implementations in Python for reproducibility and extensibility.
-- **ICLR'26 Contribution**: Presents a comprehensive study on graph integration in RAG, offering insights into optimal use cases and benchmarking methodologies for graph-based retrieval.
+- **Benchmark Framework**: Provides an official evaluation suite for GraphRAG models, designed to assess performance across graph-based retrieval and generation tasks, with a focus on structured knowledge integration.
+
+- **Dataset & Analysis**: Includes a comprehensive dataset and analysis for determining optimal use cases of graph structures in RAG systems, targeting ICLR'26 submission.
+
+- **Technical Stack**: Implemented in Python, supporting modular benchmarking of graph retrieval strategies, with version control and dependency management for reproducibility.
 
 ## Why It Matters
 

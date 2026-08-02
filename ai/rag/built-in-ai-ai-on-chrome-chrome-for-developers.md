@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/ai/built-in
-published_at: '2026-08-02T19:34:23.958554+05:30'
-collected_at: '2026-08-02T19:34:23.958570+05:30'
+published_at: '2026-08-02T21:54:31.840300+05:30'
+collected_at: '2026-08-02T21:54:31.840314+05:30'
 tags:
 - hackernews
 - producthunt
 - rag
 - threejs
 - web-crawled
-- workflows
 status: active
 resource_id: blog:built-in-ai-ai-on-chrome-chrome-for-developers
-first_seen: '2026-08-02T19:34:23.958570+05:30'
-last_seen: '2026-08-02T19:34:23.958570+05:30'
-last_checked: '2026-08-02T19:34:23.958570+05:30'
+first_seen: '2026-08-02T21:54:31.840314+05:30'
+last_seen: '2026-08-02T21:54:31.840314+05:30'
+last_checked: '2026-08-02T21:54:31.840314+05:30'
 health_score: 100
 ---
 
@@ -25,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Built-in AI APIs**: Chrome provides browser-managed AI models (e.g., Gemini Nano) via APIs for tasks like text translation, summarization, proofreading, and language detection, enabling client-side AI without external dependencies.
-- **Polyfills & Hybrid Workloads**: Chrome offers polyfills (e.g., Prompt API, Task API) for cross-browser compatibility and supports hybrid AI workflows (client-side + cloud fallback via Firebase AI Logic) for scalable solutions.
-- **Performance & Best Practices**: Chrome supports model caching, streaming LLM responses, and debugging tools (e.g., `chrome://ai-internals`) while enforcing UX guidelines (e.g., model download notifications, session management) to optimize AI-driven web apps.
+- **Built-in AI APIs**: Chrome provides browser-managed AI models (e.g., Gemini Nano) via APIs for tasks like translation (`Translator API`), summarization (`Summarizer API`), text rewriting (`Rewriter API`), and language detection (`Language Detector API`), enabling on-device AI inference.
+- **Hybrid AI Workloads**: Developers can combine client-side built-in AI with cloud fallback (e.g., Firebase AI Logic) or polyfills (e.g., `Prompt API`/`Task API` polyfills) for broader compatibility and advanced use cases like session management or streaming LLM responses.
+- **Model Management & Best Practices**: Chrome handles model downloads, updates, and caching; guidelines include informing users of model status, optimizing performance via streaming/rendering, and adhering to UX/technical constraints (e.g., `Built-in AI do and don't`).
 
 ## Why It Matters
 
@@ -37,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:34:23.958554+05:30
+- Published: 2026-08-02T21:54:31.840300+05:30
 
 ## Related Tags
 
@@ -46,7 +45,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - threejs
 - web-crawled
-- workflows
 
 ## Source
 

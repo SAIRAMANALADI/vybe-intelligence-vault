@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-08-02T19:28:12.181950+05:30'
+collected_at: '2026-08-02T21:47:45.614584+05:30'
 published_at: '2026-08-02T11:50:18Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
+- workflows
 stars: 25938
 language: Python
 status: active
@@ -20,9 +22,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-08-02T19:28:12.181950+05:30'
-last_seen: '2026-08-02T19:28:12.181950+05:30'
-last_checked: '2026-08-02T19:28:12.181950+05:30'
+first_seen: '2026-08-02T21:47:45.614584+05:30'
+last_seen: '2026-08-02T21:47:45.614584+05:30'
+last_checked: '2026-08-02T21:47:45.614584+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-AutoGLM Framework**: A Python-based open-source framework designed to enable AI-driven phone agent capabilities, facilitating autonomous interaction with mobile devices via natural language commands.
+- **Framework Overview**: Open-AutoGLM is a Python-based framework designed to enable AI-driven phone agent capabilities, facilitating autonomous interactions with mobile devices via an open-source model.
 
-- **Agent Architecture**: Implements a modular agent system leveraging large language models (LLMs) to interpret user intents, execute tasks (e.g., calls, messages, app navigation), and dynamically adapt to real-time device interactions.
+- **Key Features**: Supports multi-modal agentic workflows for phone operations (e.g., calls, messages, app interactions) with modular architecture for extensibility and customization.
 
-- **Scalability & Integration**: Supports extensibility via APIs/plugins, enabling third-party tool integration (e.g., VoIP, automation scripts) and multi-modal input/output (voice/text) for cross-platform compatibility.
+- **Technical Stack**: Leverages Python with dependencies for speech recognition, NLP, and device automation (e.g., ADB, accessibility APIs) to simulate or control phone operations programmatically.
 
 ## Why It Matters
 

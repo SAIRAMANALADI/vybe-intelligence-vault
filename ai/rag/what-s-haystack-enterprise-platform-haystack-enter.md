@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57
-published_at: '2026-08-02T14:16:14.966403+05:30'
-collected_at: '2026-08-02T14:16:14.966412+05:30'
+published_at: '2026-08-02T21:50:37.573592+05:30'
+collected_at: '2026-08-02T21:50:37.573605+05:30'
 tags:
 - agents
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
-first_seen: '2026-08-02T14:16:14.966412+05:30'
-last_seen: '2026-08-02T14:16:14.966412+05:30'
-last_checked: '2026-08-02T14:16:14.966412+05:30'
+first_seen: '2026-08-02T21:50:37.573605+05:30'
+last_seen: '2026-08-02T21:50:37.573605+05:30'
+last_checked: '2026-08-02T21:50:37.573605+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Ingestion & Indexing**: Supports automated conversion/preprocessing of diverse file types (PDFs, Office docs, images) via built-in converters/OCR, with configurable indexing for chunking and storage in document stores for retrieval.
+- **Data Processing & Indexing**: Supports automated ingestion, conversion, and preprocessing of diverse file formats (PDFs, Office docs, images) via built-in OCR and document conversion tools; indexes data into searchable document stores for efficient retrieval in AI pipelines.
 
-- **Modular AI Pipeline Construction**: Enables creation of enterprise-grade agents and RAG systems using interchangeable pipeline components (retrievers, rankers, generators) via visual Pipeline Builder, with model-agnostic LLM/embedding provider integration.
+- **Modular AI Pipeline Construction**: Enables drag-and-drop assembly of RAG pipelines and AI agents using interchangeable components (retrievers, rankers, generators) with support for multi-step reasoning and tool integration; supports dynamic model switching (e.g., LLMs, embeddings) via a model-agnostic architecture.
 
-- **Lifecycle Management & Observability**: Provides REST API for automation, prototype sharing with branded feedback links, and integrated observability via Langfuse/Weave with pipeline tracing, performance dashboards, and logging for full lifecycle monitoring.
+- **Lifecycle Management & Observability**: Provides REST API for programmatic control, prototype sharing with branded previews for user feedback, and integrated monitoring (logs, performance dashboards) with third-party observability tools (Langfuse, Weights & Biases) for end-to-end debugging and optimization.
 
 ## Why It Matters
 
@@ -39,14 +38,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:16:14.966403+05:30
+- Published: 2026-08-02T21:50:37.573592+05:30
 
 ## Related Tags
 
 - agents
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 

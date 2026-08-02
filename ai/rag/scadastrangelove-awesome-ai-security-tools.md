@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/scadastrangelove/awesome-ai-security-tools
-collected_at: '2026-08-01T09:23:43.482729+05:30'
-published_at: '2026-07-31T23:40:37Z'
+collected_at: '2026-08-02T21:47:35.593263+05:30'
+published_at: '2026-08-01T22:01:34Z'
 tags:
 - agents
 - github-repo
@@ -13,18 +13,17 @@ tags:
 - python
 - rag
 - scripts
-- workflows
-stars: 935
+stars: 938
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2026-05-27T12:52:20Z'
-pushed_at: '2026-07-30T16:12:34Z'
+pushed_at: '2026-08-01T12:14:40Z'
 resource_id: github:scadastrangelove/awesome-ai-security-tools
-first_seen: '2026-08-01T09:23:43.482729+05:30'
-last_seen: '2026-08-01T09:23:43.482729+05:30'
-last_checked: '2026-08-01T09:23:43.482729+05:30'
+first_seen: '2026-08-02T21:47:35.593263+05:30'
+last_seen: '2026-08-02T21:47:35.593263+05:30'
+last_checked: '2026-08-02T21:47:35.593263+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Scope**: Curated repository of open-source, research, and commercial tools for AI security and AI-assisted cybersecurity, covering autotriage, agent security, AI/ML supply chain risks, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, and LLM red-teaming.
-- **Technical Focus**: Tools leverage agentic AI, LLMs, and automation for security tasks such as vulnerability detection, threat analysis, and incident response, with emphasis on AI-driven security workflows.
-- **Metadata**: Python-based repository with 935 stars, 214 forks, last updated July 31, 2026, and categorized under topics like `agentic-ai`, `llm`, and `security`.
+- **Scope**: Curated list of open-source, research, and commercial tools for AI security and AI-assisted cybersecurity, covering autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, and LLM red-teaming.
+
+- **Technical Focus**: Tools leverage agentic AI, LLMs, and automation for security tasks such as triage, pentesting, and threat intelligence, with emphasis on AI/ML supply chain risks and SAST/DAST methodologies.
+
+- **Repository Stats**: 938 stars, 217 forks, primarily Python-based, last updated August 1, 2026.
 
 ## Why It Matters
 
@@ -43,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: scadastrangelove
-- Stars: 935
-- Forks: 214
+- Stars: 938
+- Forks: 217
 - Language: Python
 - Topics: agentic-ai, agents, awesome, awesome-list, awesome-lists, llm, security
-- Last Updated: 2026-07-31T23:40:37Z
+- Last Updated: 2026-08-01T22:01:34Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2026-05-27T12:52:20Z
-- Pushed At: 2026-07-30T16:12:34Z
+- Pushed At: 2026-08-01T12:14:40Z
 
 ## Possible Use Cases
 

@@ -2,7 +2,7 @@
 title: Haystack
 archive_category: agent-frameworks
 source_category: ai/resources
-source_url: https://discord.com/invite/xYvH6drSmA
+source_url: https://discord.com/invite/Dr63fr9NDS
 resource_id: blog:haystack
 local_vault_path: ai/resources/haystack.md
 quality_score: 70
@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **JavaScript Dependency**: The application requires JavaScript to be enabled in the browser for proper functionality.
-- **Client-Side Execution**: Core application logic and rendering depend on JavaScript execution in the user's browser.
-- **Fallback Limitation**: Without JavaScript, the app cannot initialize, leading to a non-functional or blank interface.
+- **Error Indication**: The message "You need to enable JavaScript to run this app" is a client-side error indicating that JavaScript is disabled in the user's browser.
+- **Dependency**: The application relies on JavaScript for core functionality, as modern web apps typically depend on client-side scripting for dynamic content and interactivity.
+- **Resolution**: Users must enable JavaScript in their browser settings to successfully load and interact with the application.
 
 ## Use Cases
 
@@ -42,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://discord.com/invite/xYvH6drSmA
+Original source URL: https://discord.com/invite/Dr63fr9NDS
 
 ## Local Vault File
 

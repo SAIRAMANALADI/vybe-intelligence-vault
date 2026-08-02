@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TheAgentCompany/TheAgentCompany
-collected_at: '2026-08-02T19:27:57.205924+05:30'
+collected_at: '2026-08-02T21:47:25.604040+05:30'
 published_at: '2026-08-02T10:46:13Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 - workflows
 stars: 755
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-11T09:08:11Z'
 pushed_at: '2025-11-17T20:31:16Z'
 resource_id: github:theagentcompany/theagentcompany
-first_seen: '2026-08-02T19:27:57.205924+05:30'
-last_seen: '2026-08-02T19:27:57.205924+05:30'
-last_checked: '2026-08-02T19:27:57.205924+05:30'
+first_seen: '2026-08-02T21:47:25.604040+05:30'
+last_seen: '2026-08-02T21:47:25.604040+05:30'
+last_checked: '2026-08-02T21:47:25.604040+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Python-based AI benchmark simulating a software company environment to evaluate agent performance across tasks.
-- **Metrics & Evaluation**: Measures agent capabilities in software development workflows, including task completion, decision-making, and collaboration.
-- **Research Tool**: Designed for AI research, enabling comparative analysis of LLMs and agentic systems in a controlled, reproducible setting.
+- **Benchmark Framework**: Simulated software company environment for evaluating AI agents with tasks mirroring real-world software development workflows.
+- **Technical Stack**: Python-based implementation with modular agent architectures and extensible task definitions.
+- **Evaluation Metrics**: Focuses on agent performance in collaborative coding, debugging, and project management scenarios.
 
 ## Why It Matters
 
