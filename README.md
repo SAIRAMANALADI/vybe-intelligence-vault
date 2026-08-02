@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-144%2C510-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-84%2C645-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--02-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **144,510 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **84,645 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,354</p>
-        <p><b>Active:</b> 15,913 | <b>Inactive:</b> 441</p>
+        <p><b>Resources tracked:</b> 15,332</p>
+        <p><b>Active:</b> 14,891 | <b>Inactive:</b> 441</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 60,993</p>
+        <p><b>Archive Files:</b> 2,103</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 144,510 files</p>
-        <p><b>Last Update:</b> 2026-08-02 14:28 IST</p>
+        <p><b>Total Vault Size:</b> 84,645 files</p>
+        <p><b>Last Update:</b> 2026-08-02 16:12 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[AI financial advice is surprisingly good, especially if you ask right questions](ai/community/ai-financial-advice-is-surprisingly-good-especiall.md)** • <kbd>+84 pts</kbd>
-- 🔼 **[Explorative modeling: Train on the best of K guesses](ai/community/explorative-modeling-train-on-the-best-of-k-guesse.md)** • <kbd>+16 pts</kbd>
-- 🔼 **[modelcontextprotocol/typescript-sdk](ai/resources/modelcontextprotocol-typescript-sdk.md)** • Rank: <kbd>+8326</kbd>
-- 🔼 **[modelcontextprotocol/python-sdk](ai/resources/modelcontextprotocol-python-sdk.md)** • Rank: <kbd>+8327</kbd>
-- 🔼 **[Specification - Model Context Protocol](ai/agents/specification-model-context-protocol.md)** • Rank: <kbd>+8330</kbd>
+- 🔼 **[Usage - LLM](ai/rag/usage-llm.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Prompts - Model Context Protocol](ai/resources/prompts-model-context-protocol.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[modelcontextprotocol/typescript-sdk](ai/resources/modelcontextprotocol-typescript-sdk.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[modelcontextprotocol/python-sdk](ai/resources/modelcontextprotocol-python-sdk.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Ai2: Truly open breakthrough AI](ai/rag/ai2-truly-open-breakthrough-ai.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[I don't recommend Tailwind CSS](ai/community/i-don-t-recommend-tailwind-css.md)** • Score: `20`
-- 🆕 **[Setup - LLM](ai/resources/setup-llm.md)** • Score: `0`
-- 🆕 **[Usage - LLM](ai/rag/usage-llm.md)** • Score: `0`
-- 🆕 **[Prompts - Model Context Protocol](ai/resources/prompts-model-context-protocol.md)** • Score: `0`
-- 🆕 **[BAAI/bge-reranker-large · Hugging Face](ai/rag/huggingface-baai-bge-reranker-large.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](ai/community/show-hn-costperprompt-live-ai-api-pricing-and-real.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
