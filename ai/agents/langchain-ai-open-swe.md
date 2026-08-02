@@ -4,16 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-02T03:44:33.567628+05:30'
-published_at: '2026-08-01T21:21:25Z'
+collected_at: '2026-08-02T09:25:50.564494+05:30'
+published_at: '2026-08-02T03:42:00Z'
 tags:
 - agents
 - anthropic
+- benchmark
 - github-repo
 - openai
 - python
-- workflows
-stars: 10422
+stars: 10425
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-08-01T20:20:38Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-02T03:44:33.567628+05:30'
-last_seen: '2026-08-02T03:44:33.567628+05:30'
-last_checked: '2026-08-02T03:44:33.567628+05:30'
+first_seen: '2026-08-02T09:25:50.564494+05:30'
+last_seen: '2026-08-02T09:25:50.564494+05:30'
+last_checked: '2026-08-02T09:25:50.564494+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and editing using LLM APIs (OpenAI, Anthropic) with streaming support.
-- **Multi-Tool Integration**: Supports dynamic tool usage (e.g., file I/O, shell commands, web search) via a modular tool registry with async/await compatibility.
-- **State Management**: Utilizes a persistent, versioned state system (JSON-based) to track project context, tool outputs, and LLM interactions for resumable workflows.
+- **Asynchronous Coding Agent**: Implements a non-blocking, event-driven architecture for parallelized code generation, execution, and evaluation using Python's `asyncio` and concurrent task scheduling.
+
+- **Multi-Provider LLM Integration**: Supports asynchronous interactions with OpenAI, Anthropic (ClaudeCode), and other LLM providers via standardized API abstractions for dynamic agent behavior.
+
+- **Modular Evaluation Pipeline**: Features a pluggable evaluation system for automated testing, benchmarking, and iterative refinement of generated code snippets against predefined criteria.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10422
+- Stars: 10425
 - Forks: 1213
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-01T21:21:25Z
+- Last Updated: 2026-08-02T03:42:00Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

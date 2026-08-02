@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-02T03:45:18.598431+05:30'
+collected_at: '2026-08-02T09:26:35.554012+05:30'
 published_at: '2026-08-01T01:34:31Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - unknown
 - workflows
 stars: 2498
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-02T03:45:18.598431+05:30'
-last_seen: '2026-08-02T03:45:18.598431+05:30'
-last_checked: '2026-08-02T03:45:18.598431+05:30'
+first_seen: '2026-08-02T09:26:35.554012+05:30'
+last_seen: '2026-08-02T09:26:35.554012+05:30'
+last_checked: '2026-08-02T09:26:35.554012+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Investigates prompt patterns, coordination mechanisms, and security classifications for autonomous AI-driven coding tools.
-- **Prompt Engineering & System Prompts**: Focuses on reconstructing and optimizing prompts for agentic AI systems, particularly in coding workflows.
-- **Research & Tools**: Repository contains curated research on agentic AI, including tools like Claude, and methodologies for secure, efficient AI-assisted development.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI coding assistants, emphasizing system prompts and prompt engineering techniques.
+- **Security Classification**: Investigates security frameworks and classifications for agentic AI systems to mitigate risks in autonomous code generation and execution.
+- **Claude Integration**: Examines the integration of Claude-based models within agentic AI workflows for enhanced prompt engineering and multi-agent collaboration.
 
 ## Why It Matters
 

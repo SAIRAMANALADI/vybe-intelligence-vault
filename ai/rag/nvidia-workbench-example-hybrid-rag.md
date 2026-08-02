@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-02T03:42:58.518978+05:30'
+collected_at: '2026-08-02T09:24:15.524697+05:30'
 published_at: '2026-08-01T15:15:48Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 370
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-02T03:42:58.518978+05:30'
-last_seen: '2026-08-02T03:42:58.518978+05:30'
-last_checked: '2026-08-02T03:42:58.518978+05:30'
+first_seen: '2026-08-02T09:24:15.524697+05:30'
+last_seen: '2026-08-02T09:24:15.524697+05:30'
+last_checked: '2026-08-02T09:24:15.524697+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document search and generation in Python.
+- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search and context augmentation.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment and experimentation of hybrid RAG models.
+- **NVIDIA AI Workbench Integration**: Demonstrates deployment and orchestration of the RAG pipeline using NVIDIA AI Workbench, showcasing GPU-accelerated components (e.g., FAISS for vector search, Triton Inference Server for LLM serving).
 
-- **Updated Tooling**: Last modified in 2026 with recent optimizations for hybrid retrieval techniques, though specific changes are not detailed in the repository metadata.
+- **Python-Based Example**: Provides a reference implementation in Python, leveraging libraries like LangChain, HuggingFace Transformers, and NVIDIA’s NeMo for modular RAG workflows (retrieval, prompt engineering, and generation).
 
 ## Why It Matters
 

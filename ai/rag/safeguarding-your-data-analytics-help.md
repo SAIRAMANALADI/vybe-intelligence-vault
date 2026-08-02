@@ -3,9 +3,9 @@ title: Safeguarding your data - Analytics Help
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://support.google.com/analytics?p=privpol_data&hl=en_US
-published_at: '2026-07-14T13:08:28.797316+05:30'
-collected_at: '2026-07-14T13:08:28.797330+05:30'
+source_url: https://support.google.com/analytics/answer/6004245?hl=en
+published_at: '2026-08-02T09:35:38.180934+05:30'
+collected_at: '2026-08-02T09:35:38.180949+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:safeguarding-your-data-analytics-help
-first_seen: '2026-07-14T13:08:28.797330+05:30'
-last_seen: '2026-07-14T13:08:28.797330+05:30'
-last_checked: '2026-07-14T13:08:28.797330+05:30'
+first_seen: '2026-08-02T09:35:38.180949+05:30'
+last_seen: '2026-08-02T09:35:38.180949+05:30'
+last_checked: '2026-08-02T09:35:38.180949+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Regulatory Compliance & Roles**: Google Analytics operates as a **data processor** under GDPR, LGPD, and US state privacy laws (e.g., CCPA), while customers act as **data controllers** retaining full control over data collection, access, retention, and deletion. Compliance is enforced via contractual terms like the *U.S. State Privacy Laws Service Provider and Processor Addendum*.
+- **Regulatory Compliance & Roles**: Google Analytics operates as a **data processor** under GDPR/LGPD/US state privacy laws, while customers act as **data controllers** with full control over data collection, retention, and deletion; Google prohibits PII transmission and enforces contractual terms via Ads Data Processing Terms and U.S. State Privacy Laws Addendum.
 
-- **Data Collection Mechanisms**: Uses **first-party cookies** (e.g., `gtag.js`/`analytics.js`) and **app-instance IDs** (for mobile apps) to track user interactions, with IP addresses processed but not logged/stored. Advertising features (e.g., Remarketing) rely on **advertising identifiers** (e.g., GAID, IDFA), subject to user consent via [Ads Settings](http://www.google.com/settings/ads/onweb/).
+- **Data Collection Mechanisms**: Uses **first-party cookies** (e.g., `gtag.js`/`analytics.js`) and **app-instance IDs** (for mobile SDKs) to track user interactions, with IP addresses processed for security/geolocation but not logged/stored; advertising identifiers (e.g., AdID/IDFA) are collected only if **Advertising Features** are enabled and user consent is obtained.
 
-- **Security & Data Handling**: Google enforces **strict access controls** (authentication, SSL, logs) to limit internal data access. **PII is strictly prohibited** from being sent to Analytics; customers must adhere to [Best Practices](https://support.google.com/analytics/answer/6366371). Data retention/deletion is configurable via [Data Retention controls](https://support.google.com/analytics/answer/7667196).
+- **Data Access & Security Controls**: Google restricts internal data access via **strict authentication/authorization policies**, with automated technical controls (e.g., SSL, security logs); customers control **data sharing settings**, **retention periods**, and **user permissions**, while Google does not share data without authorization or legal requirement.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:08:28.797316+05:30
+- Published: 2026-08-02T09:35:38.180934+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://support.google.com/analytics?p=privpol_data&hl=en_US
+Original source: https://support.google.com/analytics/answer/6004245?hl=en

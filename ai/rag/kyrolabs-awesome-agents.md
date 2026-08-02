@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-08-02T03:44:58.524397+05:30'
+collected_at: '2026-08-02T09:26:15.549802+05:30'
 published_at: '2026-07-31T20:09:01Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - paper
 - rag
-- scripts
 - unknown
 stars: 2678
 language: Unknown
@@ -21,9 +19,9 @@ archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-07-31T00:44:26Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-08-02T03:44:58.524397+05:30'
-last_seen: '2026-08-02T03:44:58.524397+05:30'
-last_checked: '2026-08-02T03:44:58.524397+05:30'
+first_seen: '2026-08-02T09:26:15.549802+05:30'
+last_seen: '2026-08-02T09:26:15.549802+05:30'
+last_checked: '2026-08-02T09:26:15.549802+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: A structured, community-driven repository aggregating AI agent frameworks, tools, libraries, and research papers for autonomous agent development.
-- **Multi-Domain Coverage**: Encompasses agents for software engineering, web browsing, task automation, multi-agent systems, and reinforcement learning applications.
-- **Open-Source & Research Focus**: Hosts open-source projects, academic papers, and benchmarks to facilitate reproducibility, innovation, and benchmarking in AI agent systems.
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers for autonomous agent development.
+- **Multi-Domain Coverage**: Includes agents for general-purpose AI, web browsing, code generation, multi-agent systems, and specialized domains (e.g., finance, healthcare).
+- **Active Maintenance**: Last updated in 2026, ensuring inclusion of recent advancements and community-driven contributions.
 
 ## Why It Matters
 
@@ -43,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: kyrolabs
 - Stars: 2678
-- Forks: 728
+- Forks: 729
 - Language: Unknown
 - Topics: None
 - Last Updated: 2026-07-31T20:09:01Z

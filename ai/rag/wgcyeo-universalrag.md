@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-02T03:44:03.491376+05:30'
+collected_at: '2026-08-02T09:25:20.486715+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-02T03:44:03.491376+05:30'
-last_seen: '2026-08-02T03:44:03.491376+05:30'
-last_checked: '2026-08-02T03:44:03.491376+05:30'
+first_seen: '2026-08-02T09:25:20.486715+05:30'
+last_seen: '2026-08-02T09:25:20.486715+05:30'
+last_checked: '2026-08-02T09:25:20.486715+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework for retrieval-augmented generation (RAG) that handles diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) within a unified architecture.
+- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework for Retrieval-Augmented Generation (RAG) that supports diverse data modalities (text, images, etc.) and granularities (document, paragraph, sentence-level retrieval) within a single system.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism leveraging modality-specific encoders (e.g., CLIP for vision, BERT for text) and a shared embedding space for unified retrieval across modalities.
+- **ACL 2026 Oral Presentation**: Highlights the model's novel architecture and retrieval mechanisms, emphasizing its ability to generalize across heterogeneous corpora while maintaining high performance in knowledge-intensive tasks.
 
-- **Dynamic Granularity Adaptation**: Proposes a hierarchical retrieval strategy that dynamically selects the optimal granularity (e.g., chunk vs. full document) based on query complexity and context, improving generation quality and efficiency.
+- **Open-Source Implementation**: Provides a Python-based, modular codebase with pre-trained models, retrieval pipelines, and evaluation tools, enabling reproducibility and customization for multimodal RAG applications.
 
 ## Why It Matters
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-02T03:41:28.274874+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:scanning-7-6-petabytes-of-huggingface-training-dat
 first_seen: '2026-08-02T03:41:28.274874+05:30'
 last_seen: '2026-08-02T03:41:28.274874+05:30'
 last_checked: '2026-08-02T03:41:28.274874+05:30'
 health_score: 100
 ---
+
 
 # Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets
 

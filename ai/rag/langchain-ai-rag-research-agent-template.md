@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-08-02T03:42:38.551574+05:30'
+collected_at: '2026-08-02T09:23:55.495247+05:30'
 published_at: '2026-08-01T21:17:59Z'
 tags:
 - agents
-- anthropic
 - github-repo
-- openai
 - python
 - rag
+- scripts
 - workflows
 stars: 313
 language: Python
@@ -22,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-08-02T03:42:38.551574+05:30'
-last_seen: '2026-08-02T03:42:38.551574+05:30'
-last_checked: '2026-08-02T03:42:38.551574+05:30'
+first_seen: '2026-08-02T09:23:55.495247+05:30'
+last_seen: '2026-08-02T09:23:55.495247+05:30'
+last_checked: '2026-08-02T09:23:55.495247+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured workflows for document retrieval and synthesis.
-- **Components**: Includes modular Python-based pipelines for indexing, retrieval, and agent-based query processing, leveraging LangChain’s abstractions (e.g., `RetrievalQA`, `ConversationalRetrievalChain`).
-- **Dependencies**: Requires Python; integrates with vector stores (e.g., FAISS, Chroma) and LLM providers (e.g., OpenAI, Anthropic) via LangChain’s framework.
+- **Template Purpose**: Provides a structured starter for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating document retrieval and generation workflows.
+
+- **Key Components**: Includes modular Python implementations for document ingestion, vector storage (e.g., FAISS/Chroma), and LLM integration (e.g., LangChain’s `RetrievalQA` or custom agent chains).
+
+- **Deployment-Ready**: Pre-configured with example pipelines, environment setup (e.g., `.env` for API keys), and GitHub Actions for CI/CD, enabling rapid prototyping and scaling.
 
 ## Why It Matters
 

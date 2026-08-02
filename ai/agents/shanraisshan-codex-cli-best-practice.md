@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-02T03:44:48.512741+05:30'
+collected_at: '2026-08-02T09:26:05.514918+05:30'
 published_at: '2026-08-01T03:48:05Z'
 tags:
 - agents
+- frontend_ui
 - github-repo
 - openai
 - python
-- scripts
 - workflows
 stars: 949
 language: Python
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-02T03:44:48.512741+05:30'
-last_seen: '2026-08-02T03:44:48.512741+05:30'
-last_checked: '2026-08-02T03:44:48.512741+05:30'
+first_seen: '2026-08-02T09:26:05.514918+05:30'
+last_seen: '2026-08-02T09:26:05.514918+05:30'
+last_checked: '2026-08-02T09:26:05.514918+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from reactive "vibe coding" to structured agentic engineering using Codex CLI, emphasizing autonomous agent collaboration, context engineering, and modular skill deployment via hooks.
 
-- **Codex CLI Best Practices**: Provides a curated set of commands, skills, and hooks for OpenAI Codex, optimizing agentic coding efficiency with reusable templates, context management, and CLI-based agent orchestration.
+- **CLI-Centric Best Practices**: Provides standardized Codex CLI commands, agent templates, and skill definitions optimized for OpenAI Codex, enabling reproducible AI-driven development workflows with built-in error handling and state management.
 
-- **Pakistani Developer Contribution**: Open-source project led by a Pakistani developer, showcasing regional expertise in AI agent frameworks while maintaining compatibility with Python-based Codex CLI ecosystems.
+- **Pakistan-Centric AI Development**: Curated by a Pakistani developer, focuses on localized AI agent ecosystems, contextualized prompts, and culturally adapted AI workflows while maintaining compatibility with global Codex CLI standards.
 
 ## Why It Matters
 

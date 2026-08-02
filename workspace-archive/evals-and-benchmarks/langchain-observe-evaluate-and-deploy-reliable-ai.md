@@ -6,7 +6,7 @@ source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - producthunt
-- scripts
 - web-crawled
 - youtube
 selection_reason:
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine** autonomously clusters production failures, diagnoses root causes in traces/code, and proposes fixes for agent improvement via prioritized issue resolution.
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agentic systems, reducing debugging time via structured trace analysis and AI-driven insights.
 
-- **Observability & Evaluation** provide native tracing (OpenTelemetry/SDKs), structured multi-turn chat analytics, and automated LLM-as-judge evals with human feedback calibration for iterative agent refinement.
+- **Multi-Layer Agent Platform**: Supports observability (native tracing, OpenTelemetry, SDKs), evaluation (LLM-as-judge, human feedback), deployment (fault-tolerant runtime, A2A/MCP protocols), and enterprise fleet management with BYOM and MCP integration.
 
-- **Deployment & Fleet** offer fault-tolerant, scalable agent servers with durable checkpointing, A2A/MCP
+- **Open-Source Frameworks**: Provides `deepage
 
 ## Use Cases
 

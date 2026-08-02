@@ -10,7 +10,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
@@ -22,10 +22,10 @@ Discovering modern AI productivity tools allows developers to streamline their d
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Mintlify · GitHub](https://github.com/mintlify)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
-- [Hugging Face · GitHub](https://github.com/huggingface)
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- [Hugging Face · GitHub](https://github.com/huggingface)
+- [continuedev/continue](https://github.com/continuedev/continue)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-02 03:59 IST*
+*Last updated: 2026-08-02 09:41 IST*

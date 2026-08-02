@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-02T03:43:58.486975+05:30'
+collected_at: '2026-08-02T09:25:15.456682+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-02T03:43:58.486975+05:30'
-last_seen: '2026-08-02T03:43:58.486975+05:30'
-last_checked: '2026-08-02T03:43:58.486975+05:30'
+first_seen: '2026-08-02T09:25:15.456682+05:30'
+last_seen: '2026-08-02T09:25:15.456682+05:30'
+last_checked: '2026-08-02T09:25:15.456682+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning for complex multi-turn interactions.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory retrieval and organization to maintain context coherence across extended dialogues, addressing limitations in traditional RAG systems for sequential reasoning tasks.
+- **Stateful Reasoning**: Implements structured memory organization to maintain contextual coherence across extended interactions, addressing limitations of traditional RAG in multi-turn reasoning.
 
-- **AAAI 2026 Poster Submission**: Presented as a novel approach in the AAAI 2026 conference, highlighting advancements in memory-augmented retrieval mechanisms for AI-driven narrative understanding and reasoning.
+- **AAAI 2026 Contribution**: Proposes a novel approach to long-form narrative reasoning, leveraging memory hierarchies for improved contextual retrieval and generation in complex dialogue scenarios.
 
 ## Why It Matters
 

@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/llm-app
-collected_at: '2026-08-02T03:42:43.490805+05:30'
-published_at: '2026-08-01T20:27:30Z'
+collected_at: '2026-08-02T09:24:00.458383+05:30'
+published_at: '2026-08-02T03:43:12Z'
 tags:
 - github-repo
 - jupyter notebook
-- openai
 - rag
 - workflows
-stars: 58919
+stars: 58954
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-07-05T17:59:07Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-08-02T03:42:43.490805+05:30'
-last_seen: '2026-08-02T03:42:43.490805+05:30'
-last_checked: '2026-08-02T03:42:43.490805+05:30'
+first_seen: '2026-08-02T09:24:00.458383+05:30'
+last_seen: '2026-08-02T09:24:00.458383+05:30'
+last_checked: '2026-08-02T09:24:00.458383+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cloud-native deployment templates** for **RAG (Retrieval-Augmented Generation)**, **AI pipelines**, and **enterprise search**, optimized for real-time data synchronization with **SharePoint, Google Drive, S3, Kafka, PostgreSQL, and live APIs** via Docker containers.
+- **Cloud-native RAG & AI pipelines**: Docker-optimized templates for real-time Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization across SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs.
 
-- **Pre-configured integrations** with **Hugging Face, OpenAI, vector databases**, and **Pathway’s real-time data processing** engine, supporting **LLM security, prompt engineering, and LLMops** for scalable, production-grade AI workflows.
+- **Multi-source integration**: Supports dynamic data ingestion from structured/unstructured sources (e.g., databases, vector stores) with live updates, enabling up-to-date LLM responses without manual retraining.
 
-- **Jupyter Notebook-based** repository with **58.9K+ stars**, featuring **local LLM deployment**, **vector indexing**, and **live data pipelines** for rapid prototyping and enterprise-grade AI applications.
+- **Security & compliance focus**: Includes LLM security measures, Hugging Face integration, and local LLM deployment options, targeting enterprise-grade deployment with topics like `llm-security`, `llmops`, and `vector-database` optimization.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pathwaycom
-- Stars: 58919
-- Forks: 1441
+- Stars: 58954
+- Forks: 1444
 - Language: Jupyter Notebook
 - Topics: chatbot, hugging-face, llm, llm-local, llm-prompting, llm-security, llmops, machine-learning, open-ai, pathway, rag, real-time, retrieval-augmented-generation, vector-database, vector-index
-- Last Updated: 2026-08-01T20:27:30Z
+- Last Updated: 2026-08-02T03:43:12Z
 - License: MIT
 - Archived: No
 - Created At: 2023-07-19T08:43:37Z

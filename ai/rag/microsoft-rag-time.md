@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-02T03:42:23.508127+05:30'
+collected_at: '2026-08-02T09:23:40.431443+05:30'
 published_at: '2026-07-31T15:52:46Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-02T03:42:23.508127+05:30'
-last_seen: '2026-08-02T03:42:23.508127+05:30'
-last_checked: '2026-08-02T03:42:23.508127+05:30'
+first_seen: '2026-08-02T09:23:40.431443+05:30'
+last_seen: '2026-08-02T09:23:40.431443+05:30'
+last_checked: '2026-08-02T09:23:40.431443+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Mastery Program**: A structured 5-week learning journey covering core RAG concepts, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning for efficient retrieval and generation.
-
-- **Multi-Tool & Framework Integration**: Demonstrates RAG implementation using Azure AI Search, OpenAI LLMs, and VS Code, with notebooks showcasing multimodal retrieval, responsible AI practices, and optimization for low-latency/high-accuracy deployments.
-
-- **Performance & Scalability Focus**: Includes benchmarks and optimizations for vector/keyword search pipelines, leveraging scalar/binary quantization and HNSW for scalable, production-grade RAG systems.
+- **Learning Path**: 5-week structured journey covering RAG fundamentals, hybrid search (vector + keyword), quantization (binary/scalar), and multimodal RAG using Azure OpenAI and HNSW indexing.
+- **Technical Stack**: Integrates Jupyter Notebooks, Matryoshka representation learning, and VS Code for hands-on labs on retrieval-augmented generation (RAG), responsible AI, and advanced indexing techniques.
+- **Tools & Methods**: Demonstrates OpenAI GPT integration, scalar/binary quantization for efficient vector search, and hybrid retrieval combining keyword and vector search with Azure deployments.
 
 ## Why It Matters
 

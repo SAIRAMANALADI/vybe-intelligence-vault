@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-02T03:42:13.498246+05:30'
+collected_at: '2026-08-02T09:23:30.456749+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-02T03:42:13.498246+05:30'
-last_seen: '2026-08-02T03:42:13.498246+05:30'
-last_checked: '2026-08-02T03:42:13.498246+05:30'
+first_seen: '2026-08-02T09:23:30.456749+05:30'
+last_seen: '2026-08-02T09:23:30.456749+05:30'
+last_checked: '2026-08-02T09:23:30.456749+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
-- **Technical Composition**: Provides a Python-based framework with curated datasets containing adversarial prompts, retrieval contexts, and model-generated responses, annotated for hallucination detection and mitigation.
-- **Evaluation Metrics**: Enables benchmarking of RAG systems using precision, recall, and F1-score for hallucination detection, with tools for fine-tuning and validating trustworthy model performance.
+- **Dataset Overview**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by systematically identifying and categorizing hallucinations in RAG outputs.
+- **Technical Scope**: Provides a Python-based framework with annotated datasets to benchmark hallucination detection, mitigation strategies, and model fine-tuning for factual consistency in RAG systems.
+- **Evaluation Metrics**: Includes standardized metrics and tools for assessing hallucination rates, contextual accuracy, and retrieval-grounded truthfulness in RAG pipelines.
 
 ## Why It Matters
 

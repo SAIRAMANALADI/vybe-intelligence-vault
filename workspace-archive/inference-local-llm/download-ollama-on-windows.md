@@ -13,7 +13,6 @@ importance: medium
 tags:
 - meta-ai
 - models
-- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Installation Methods**: Ollama provides platform-specific installation options via direct downloads for macOS, Linux, and Windows, with a PowerShell command (`irm https://ollama.com/install.ps1 | iex`) for Windows automation.
-- **Windows Requirements**: The Windows version mandates Windows 10 or later for compatibility.
-- **Download Options**: Standalone executable (`OllamaSetup.exe`) and PowerShell script are available for Windows installation.
+- **Installation Methods**: Provides direct download links for macOS, Linux, and Windows platforms, with a PowerShell one-liner (`irm https://ollama.com/install.ps1 | iex`) for automated Windows installation.
+- **Windows Requirements**: Specifies minimum OS version (Windows 10 or later) for compatibility.
+- **Installation Options**: Offers both automated (PowerShell) and manual (`.exe` download) installation methods for Windows.
 
 ## Use Cases
 

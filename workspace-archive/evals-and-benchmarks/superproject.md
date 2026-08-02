@@ -3,7 +3,7 @@ title: superproject
 archive_category: evals-and-benchmarks
 source_category: ai/resources
 source_url: https://cs.android.com/android/platform/superproject
-resource_id: blog:superproject
+resource_id: blog:superproject-429f6a70
 local_vault_path: ai/resources/superproject.md
 quality_score: 70
 archive_score: 72

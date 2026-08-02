@@ -13,9 +13,9 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Stainless · GitHub](https://github.com/stainless-api) (template - ESSENTIAL Tier)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [git/git](https://github.com/git/git) (workflow - ESSENTIAL Tier)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,7 +25,7 @@ https://github.com/n8n-io/n8n (n8n)
 - [Stainless · GitHub](https://github.com/stainless-api)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [git/git](https://github.com/git/git)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- [OpenAI · GitHub](https://github.com/openai)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-02 03:59 IST*
+*Last updated: 2026-08-02 09:41 IST*

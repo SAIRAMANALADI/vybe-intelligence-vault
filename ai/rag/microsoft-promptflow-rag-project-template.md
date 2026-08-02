@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/promptflow-rag-project-template
-collected_at: '2026-08-02T03:42:48.497109+05:30'
+collected_at: '2026-08-02T09:24:05.488242+05:30'
 published_at: '2026-07-21T11:30:26Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-14T01:47:16Z'
 pushed_at: '2024-09-06T22:11:58Z'
 resource_id: github:microsoft/promptflow-rag-project-template
-first_seen: '2026-08-02T03:42:48.497109+05:30'
-last_seen: '2026-08-02T03:42:48.497109+05:30'
-last_checked: '2026-08-02T03:42:48.497109+05:30'
+first_seen: '2026-08-02T09:24:05.488242+05:30'
+last_seen: '2026-08-02T09:24:05.488242+05:30'
+last_checked: '2026-08-02T09:24:05.488242+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflow using Promptflow, integrating development, evaluation, experimentation, and deployment phases.
+- **End-to-End RAG Pipeline**: Demonstrates a complete Retrieval-Augmented Generation workflow using Promptflow, covering development, evaluation, experimentation, and deployment phases.
 
-- **Multi-Search Backend Support**: Utilizes CosmosDB, PostgreSQL, and Azure AI Search as search products for document retrieval and vector similarity search.
+- **Multi-Search Backend Integration**: Supports multiple vector databases (CosmosDB, PostgreSQL) and search services (Azure AI Search) for retrieval operations.
 
 - **Jupyter Notebook-Based Implementation**: Provides a structured, executable template in Jupyter Notebook format for reproducibility and hands-on experimentation.
 

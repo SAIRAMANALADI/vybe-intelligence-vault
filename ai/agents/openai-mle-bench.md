@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-08-02T01:07:24.627104+05:30'
+collected_at: '2026-08-02T09:26:25.589988+05:30'
 published_at: '2026-08-01T18:29:32Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-08-02T01:07:24.627104+05:30'
-last_seen: '2026-08-02T01:07:24.627104+05:30'
-last_checked: '2026-08-02T01:07:24.627104+05:30'
+first_seen: '2026-08-02T09:26:25.589988+05:30'
+last_seen: '2026-08-02T09:26:25.589988+05:30'
+last_checked: '2026-08-02T09:26:25.589988+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter tuning, and deployment.
-- **Technical Implementation**: Python-based framework with modular tasks, automated evaluation metrics, and standardized interfaces for agent interaction and performance measurement.
-- **Update Status**: Last repository update as of August 1, 2026, with 1,660 stars and 258 forks, indicating active community engagement.
+- **Benchmark Scope**: MLE-bench evaluates AI agents on end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter tuning, and deployment.
+- **Technical Implementation**: Python-based framework with modular components for task execution, evaluation metrics, and agent interaction, supporting reproducibility and extensibility.
+- **Evaluation Metrics**: Measures agent performance via task completion rate, solution quality (e.g., model accuracy), and efficiency (e.g., time/resource usage).
 
 ## Why It Matters
 

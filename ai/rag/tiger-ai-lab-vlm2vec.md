@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-02T03:44:03.539056+05:30'
+collected_at: '2026-08-02T09:25:20.496586+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-02T03:44:03.539056+05:30'
-last_seen: '2026-08-02T03:44:03.539056+05:30'
-last_checked: '2026-08-02T03:44:03.539056+05:30'
+first_seen: '2026-08-02T09:25:20.496586+05:30'
+last_seen: '2026-08-02T09:25:20.496586+05:30'
+last_checked: '2026-08-02T09:25:20.496586+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Version VLM Embedding Benchmark (MMEB) Suite**: Repository hosts code for three evolving versions of VLM2Vec (ICLR 2025, TMLR 2026, COLM 2026) designed for multimodal embedding benchmarks (MMEB, MMEB-V2, MMEB-V3) across tasks like image, video, and visual-document retrieval.
+- **Multi-Version VLM Embedding Benchmark (MMEB) Suite**: Repository hosts three evolving versions of VLM2Vec (ICLR 2025, TMLR 2026, COLM 2026) for multimodal embedding evaluation across tasks like image/video/document retrieval and RAG.
 
-- **Contrastive Learning Framework**: Implements contrastive learning techniques for training Vision-Language Models (VLMs) to generate high-quality embeddings optimized for multimodal retrieval and representation learning tasks.
+- **Contrastive Learning Framework**: Implements contrastive learning for training Vision-Language Model (VLM) embeddings, optimizing for multimodal retrieval and representation learning.
 
-- **Python-Based Toolkit**: Provides a Python-based open-source toolkit supporting benchmarking, embedding extraction, and evaluation across diverse multimodal datasets, including RAG and visual document retrieval use cases.
+- **Python-Based Benchmark Toolkit**: Provides a structured Python repository for benchmarking VLMs on MMEB tasks, supporting multimodal embedding and retrieval across diverse datasets.
 
 ## Why It Matters
 

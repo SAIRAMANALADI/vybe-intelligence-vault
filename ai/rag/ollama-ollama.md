@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ollama/ollama
-collected_at: '2026-07-21T01:37:15.936758+05:30'
-published_at: '2026-07-20T20:04:18Z'
+collected_at: '2026-08-02T09:35:41.601586+05:30'
+published_at: '2026-08-02T03:35:47Z'
 tags:
 - github-repo
 - go
@@ -13,17 +13,17 @@ tags:
 - mistral
 - models
 - rag
-stars: 176518
+stars: 177534
 language: Go
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-26T19:39:32Z'
-pushed_at: '2026-07-20T19:46:31Z'
+pushed_at: '2026-07-31T23:59:29Z'
 resource_id: github:ollama/ollama
-first_seen: '2026-07-21T01:37:15.936758+05:30'
-last_seen: '2026-07-21T01:37:15.936758+05:30'
-last_checked: '2026-07-21T01:37:15.936758+05:30'
+first_seen: '2026-08-02T09:35:41.601586+05:30'
+last_seen: '2026-08-02T09:35:41.601586+05:30'
+last_checked: '2026-08-02T09:35:41.601586+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model Support**: Facilitates local deployment of diverse LLMs (e.g., Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma) via optimized Go-based runtime.
-- **Go Implementation**: Leverages Golang for cross-platform compatibility, performance, and modular integration with supported models.
-- **Active Development**: Last updated July 2026, indicating ongoing maintenance and potential expansion of supported models (e.g., Gemma3, Llama3).
+- **Multi-Model Support**: Enables local execution of Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma, Llama3, Mistral, and other LLMs via optimized Go-based inference engine.
+- **Go-Based Architecture**: Implemented in Go (Golang) for high-performance model serving with minimal overhead, leveraging efficient memory management and concurrency.
+- **Modular Design**: Supports dynamic model loading/unloading, GPU acceleration (via CUDA/Vulkan), and cross-platform compatibility (Linux/Windows/macOS) with CLI and API interfaces.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ollama
-- Stars: 176518
-- Forks: 17030
+- Stars: 177534
+- Forks: 17231
 - Language: Go
 - Topics: deepseek, gemma, gemma3, glm, go, golang, gpt-oss, llama, llama3, llm, llms, minimax, mistral, ollama, qwen
-- Last Updated: 2026-07-20T20:04:18Z
+- Last Updated: 2026-08-02T03:35:47Z
 - License: MIT
 - Archived: No
 - Created At: 2023-06-26T19:39:32Z
-- Pushed At: 2026-07-20T19:46:31Z
+- Pushed At: 2026-07-31T23:59:29Z
 
 ## Possible Use Cases
 

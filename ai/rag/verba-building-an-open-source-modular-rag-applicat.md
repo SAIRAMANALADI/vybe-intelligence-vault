@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://weaviate.io/blog/verba-open-source-rag-app
-published_at: '2026-08-02T03:48:06.994378+05:30'
-collected_at: '2026-08-02T03:48:06.994390+05:30'
+published_at: '2026-08-02T09:29:13.097461+05:30'
+collected_at: '2026-08-02T09:29:13.097472+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:verba-building-an-open-source-modular-rag-applicat
-first_seen: '2026-08-02T03:48:06.994390+05:30'
-last_seen: '2026-08-02T03:48:06.994390+05:30'
-last_checked: '2026-08-02T03:48:06.994390+05:30'
+first_seen: '2026-08-02T09:29:13.097472+05:30'
+last_seen: '2026-08-02T09:29:13.097472+05:30'
+last_checked: '2026-08-02T09:29:13.097472+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Verba decomposes RAG into five customizable modules—`ReaderManager` (data ingestion), `ChunkerManager` (text splitting), `EmbeddingManager` (vectorization), `RetrieveManager` (retrieval logic), and `GenerationManager` (answer synthesis)—each replaceable for extensibility.
+- **Modular RAG Architecture**: Verba decomposes RAG into five customizable modules—`ReaderManager` (data ingestion), `ChunkerManager` (text splitting), `EmbeddingManager` (vectorization), `RetrieveManager` (retrieval logic), and `GenerationManager` (answer synthesis)—enabling flexible pipeline adjustments for diverse use cases.
 
-- **Source Transparency**: Implements chunk-level attribution with highlighted text segments and direct document access, enabling users to verify answer provenance and trace responses to specific data sources.
+- **Unified Data Handling**: Supports ingestion of heterogeneous data formats (PDFs, Excel, plain text) via extensible `Reader` components, converting raw inputs into structured `Verba Documents` for downstream processing.
 
-- **CRUD Data Management**: Provides a web UI for document ingestion, deletion, and status monitoring, with autocompletion (BM25-based) and modular defaults to balance usability and customization for non-technical users.
+- **Transparent Retrieval & CRUD Operations**: Provides explicit source attribution via highlighted text chunks, full document previews, and a dedicated UI for managing ingested data (create/read/update/delete), ensuring traceability and data governance.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T03:48:06.994378+05:30
+- Published: 2026-08-02T09:29:13.097461+05:30
 
 ## Related Tags
 

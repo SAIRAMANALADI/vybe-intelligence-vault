@@ -3,7 +3,7 @@ title: Google Colab
 archive_category: vector-databases
 source_category: ai/resources
 source_url: https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/pinecone-quickstart.ipynb
-resource_id: blog:google-colab
+resource_id: blog:google-colab-027f85e4
 local_vault_path: ai/resources/google-colab.md
 quality_score: 70
 archive_score: 72

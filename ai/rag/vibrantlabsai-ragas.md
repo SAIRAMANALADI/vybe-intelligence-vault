@@ -1,70 +1,63 @@
 ---
-title: vibrantlabsai/ragas
+title: ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/vibrantlabsai/ragas
-collected_at: '2026-08-01T21:50:25.944610+05:30'
-published_at: '2026-08-01T15:22:26Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md
+published_at: '2026-08-02T09:29:09.278914+05:30'
+collected_at: '2026-08-02T09:29:09.278927+05:30'
 tags:
+- anthropic
 - benchmark
-- github-repo
-- python
+- dataset
+- meta-ai
+- mistral
+- models
+- openai
 - rag
+- web-crawled
 - workflows
-stars: 15075
-language: Python
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2023-05-08T17:48:04Z'
-pushed_at: '2026-02-24T07:47:19Z'
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-08-01T21:50:25.944610+05:30'
-last_seen: '2026-08-01T21:50:25.944610+05:30'
-last_checked: '2026-08-01T21:50:25.944610+05:30'
+first_seen: '2026-08-02T09:29:09.278927+05:30'
+last_seen: '2026-08-02T09:29:09.278927+05:30'
+last_checked: '2026-08-02T09:29:09.278927+05:30'
 health_score: 100
 ---
 
-# vibrantlabsai/ragas
+# ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub
 
 ## Summary
 
-- **Ragas**: Python library for evaluating LLM applications, focusing on RAG pipelines with 11+ metrics (e.g., faithfulness, answer relevance, context precision/recall).
-- **Key Features**: Supports synthetic testset generation, customizable evaluation pipelines, and integration with frameworks like LangChain/Haystack.
-- **Use Case**: Enables automated, scalable LLM evaluation workflows with minimal manual annotation, optimizing for production-grade reliability.
+- **Quickstart Setup**: The `ragas quickstart` command generates a modular project with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM application), and structured directories (`datasets/`, `experiments/`, `logs/`) for test data, results, and logs.
+
+- **LLM Provider Integration**: Supports multiple LLM providers (OpenAI, Anthropic, Google, Ollama, custom) via `llm_factory` in `_init_clients()`, with provider-specific API key configurations and model selection.
+
+- **Evaluation Workflow**: Uses `SingleTurnSample` to define test cases, queries the RAG system for responses, evaluates against ground truth using pre-built metrics (e.g., `DiscreteMetric`), and saves results to CSV in `evals/experiments/`.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: vibrantlabsai
-- Stars: 15075
-- Forks: 1598
-- Language: Python
-- Topics: evaluation, llm, llmops
-- Last Updated: 2026-08-01T15:22:26Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2023-05-08T17:48:04Z
-- Pushed At: 2026-02-24T07:47:19Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-02T09:29:09.278914+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- anthropic
+- benchmark
+- dataset
+- meta-ai
+- mistral
+- models
+- openai
+- rag
+- web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.com/vibrantlabsai/ragas
+Original source: https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-02T03:43:58.544798+05:30'
+collected_at: '2026-08-02T09:25:15.504527+05:30'
 published_at: '2026-07-26T03:07:53Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 256
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-02T03:43:58.544798+05:30'
-last_seen: '2026-08-02T03:43:58.544798+05:30'
-last_checked: '2026-08-02T03:43:58.544798+05:30'
+first_seen: '2026-08-02T09:25:15.504527+05:30'
+last_seen: '2026-08-02T09:25:15.504527+05:30'
+last_checked: '2026-08-02T09:25:15.504527+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → global) and semantic aggregation to enhance contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (semantic aggregation + hierarchical traversal) to enhance contextual relevance in generation tasks.
 
-- **Efficiency Optimizations**: Utilizes lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy, as evidenced by AAAI 2026 benchmarks.
+- **Efficiency Optimizations**: Leverages lightweight graph pruning and adaptive retrieval strategies to reduce computational overhead while maintaining high retrieval accuracy.
 
-- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and generation, supporting extensibility for custom knowledge graphs.
+- **Python Implementation**: Provides a modular, open-source Python library with AAAI 2026 benchmarks, supporting integration with LLMs for knowledge-intensive generation tasks.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airalab/autonomous_agent_template
-collected_at: '2026-08-02T03:45:38.597955+05:30'
+collected_at: '2026-08-02T09:26:55.612619+05:30'
 published_at: '2024-06-25T11:56:51Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2018-09-26T13:56:23Z'
 pushed_at: '2019-12-02T22:03:37Z'
 resource_id: github:airalab/autonomous_agent_template
-first_seen: '2026-08-02T03:45:38.597955+05:30'
-last_seen: '2026-08-02T03:45:38.597955+05:30'
-last_checked: '2026-08-02T03:45:38.597955+05:30'
+first_seen: '2026-08-02T09:26:55.612619+05:30'
+last_seen: '2026-08-02T09:26:55.612619+05:30'
+last_checked: '2026-08-02T09:26:55.612619+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular AIRA Agent Template**: Provides a basic framework for developing autonomous agents using the AIRA (Autonomous Intelligent Robotics Architecture) system.
-- **ROS Integration**: Designed for Robot Operating System (ROS) compatibility, enabling robotic application development.
-- **Python-Based**: Implemented in Python, leveraging modular components for extensibility in autonomous agent and robotics projects.
+- **Modular AIRA Agent Template**: Provides a lightweight framework for developing autonomous agents using Python, designed for modularity and extensibility in robotic applications.
+- **ROS Integration**: Leverages Robot Operating System (ROS) for robotics-specific functionalities, enabling communication and control of robotic systems.
+- **Minimalist Example**: Serves as a basic reference implementation demonstrating core agent architecture, with 1 star and 5 forks as of the last update (2024-06-25).
 
 ## Why It Matters
 

@@ -3,9 +3,9 @@ title: Gemini API | Google AI for Developers
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://ai.google.dev/gemini-api/docs
-published_at: '2026-08-01T21:51:25.533233+05:30'
-collected_at: '2026-08-01T21:51:25.533245+05:30'
+source_url: https://ai.google.dev/gemini-api
+published_at: '2026-08-02T09:36:15.615582+05:30'
+collected_at: '2026-08-02T09:36:15.615592+05:30'
 tags:
 - agents
 - web-crawled
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-api-google-ai-for-developers
-first_seen: '2026-08-01T21:51:25.533245+05:30'
-last_seen: '2026-08-01T21:51:25.533245+05:30'
-last_checked: '2026-08-01T21:51:25.533245+05:30'
+first_seen: '2026-08-02T09:36:15.615592+05:30'
+last_seen: '2026-08-02T09:36:15.615592+05:30'
+last_checked: '2026-08-02T09:36:15.615592+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactions API**: Primary interface for integrating Gemini models (e.g., `gemini-3.6-flash`) into applications for text/image generation, multimodal analysis, and conversational agents via Python/JavaScript/REST endpoints.
+- **Interactions API** is the recommended interface for accessing the latest Gemini models (e.g., `gemini-3.6-flash`) and features, supporting text generation, multimodal analysis, and agentic workflows via Python, JavaScript, and REST endpoints.
 
-- **Model Suite**: Includes state-of-the-art models like `Gemini 3.1 Pro` (multimodal reasoning), `Gemini 3.6 Flash` (cost-efficient frontier performance), `Nano Banana 2` (image generation), and `Veo 3.1` (video generation with native audio).
+- **Model Suite** includes state-of-the-art models like `Gemini 3.1 Pro` (multimodal reasoning), `Gemini 3.6 Flash` (cost-efficient performance), `Nano Banana 2` (image generation), `Veo 3.1` (video generation with audio), and specialized models for robotics (`Gemini Robotics`) and structured outputs.
 
-- **Capabilities**: Supports structured outputs (JSON), function calling, long-context processing (millions of tokens), document understanding (1000+ pages), and real-time voice agents via the Live API.
+- **Capabilities** span long-context processing (millions of tokens), native image/video generation/editing, function calling for agentic workflows, real-time voice agents (`Live API`), and integrated tools (e.g., Google Search, Code Execution, Document Understanding).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-01T21:51:25.533233+05:30
+- Published: 2026-08-02T09:36:15.615582+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://ai.google.dev/gemini-api/docs
+Original source: https://ai.google.dev/gemini-api

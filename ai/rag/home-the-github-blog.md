@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog
-published_at: '2026-08-02T03:48:10.769524+05:30'
-collected_at: '2026-08-02T03:48:10.769536+05:30'
+published_at: '2026-08-02T09:29:15.326142+05:30'
+collected_at: '2026-08-02T09:29:15.326154+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:home-the-github-blog
-first_seen: '2026-08-02T03:48:10.769536+05:30'
-last_seen: '2026-08-02T03:48:10.769536+05:30'
-last_checked: '2026-08-02T03:48:10.769536+05:30'
+first_seen: '2026-08-02T09:29:15.326154+05:30'
+last_seen: '2026-08-02T09:29:15.326154+05:30'
+last_checked: '2026-08-02T09:29:15.326154+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Branch-free loop optimization**: Implemented a branch-free algorithm for case-folding source code, achieving >45 GiB/s throughput on a single core by eliminating conditional branches and leveraging SIMD instructions.
+- **Branch-free loop optimization**: Implemented a branch-free loop using SIMD (Single Instruction, Multiple Data) instructions to process case-folding at memory speed, eliminating pipeline stalls and branch mispredictions.
 
-- **Byte-space arithmetic**: Utilized byte-level arithmetic operations to process each byte of source code in constant time, enabling linear-time complexity (O(n)) for case-folding across entire repositories.
+- **Byte-space arithmetic**: Utilized byte-level arithmetic operations to efficiently convert uppercase ASCII characters to lowercase during source code search, achieving >45 GiB/s throughput on a single core.
 
-- **Memory-speed processing**: Optimized memory access patterns to sustain high throughput, ensuring case-folding operations remain bounded by memory bandwidth rather than CPU cycles.
+- **Memory-bound performance scaling**: Leveraged CPU cache locality and minimal memory access latency to sustain high throughput, ensuring optimal performance without early termination of processing loops.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T03:48:10.769524+05:30
+- Published: 2026-08-02T09:29:15.326142+05:30
 
 ## Related Tags
 

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-02T03:43:58.510558+05:30'
+collected_at: '2026-08-02T09:25:15.513449+05:30'
 published_at: '2026-07-30T02:07:55Z'
 tags:
 - agents
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-02T03:43:58.510558+05:30'
-last_seen: '2026-08-02T03:43:58.510558+05:30'
-last_checked: '2026-08-02T03:43:58.510558+05:30'
+first_seen: '2026-08-02T09:25:15.513449+05:30'
+last_seen: '2026-08-02T09:25:15.513449+05:30'
+last_checked: '2026-08-02T09:25:15.513449+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework integrating memory mechanisms with multi-agent collaboration for enhanced Graph Retrieval-Augmented Generation (GraphRAG), enabling dynamic knowledge retention and retrieval.
+- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enhancing contextual reasoning in knowledge-intensive tasks.
 
-- **Graph Construction & Ontology Integration**: Implements automated graph construction from unstructured data and leverages ontology-based structures to improve semantic understanding and retrieval efficiency in GraphRAG pipelines.
+- **Graph Construction & Ontology Integration**: Implements dynamic graph construction and ontology-based knowledge structuring to improve semantic retrieval and multi-hop reasoning in large-scale datasets.
 
-- **Python Implementation**: Provides an open-source Python-based implementation with modular components for agent-memory management, graph construction, and ontology alignment, optimized for scalability and adaptability.
+- **Python Implementation**: Provides an open-source Python library with modular components for agent-memory management, graph operations, and ontology-driven RAG pipelines.
 
 ## Why It Matters
 

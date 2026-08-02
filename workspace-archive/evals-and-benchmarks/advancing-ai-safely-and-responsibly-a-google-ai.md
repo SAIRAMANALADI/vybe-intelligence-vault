@@ -1,6 +1,6 @@
 ---
 title: "Advancing AI safely and responsibly â\x80\x94 Google AI"
-archive_category: guardrails-security
+archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://ai.google/responsibility/safety/
 resource_id: blog:advancing-ai-safely-and-responsibly-a-google-ai
@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: prompt
 importance: medium
 tags:
+- benchmark
 - deepmind
 - hackernews
 - rag
@@ -25,7 +26,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Guardrails and Security`
+- Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: prompt
 - Selection reasons:
@@ -34,15 +35,15 @@ selection_reason:
 
 ## Summary
 
-- **Automated Red Teaming (ART)**: Google employs ART to proactively simulate adversarial attacks on Gemini models, identifying and mitigating security vulnerabilities, particularly improving resistance against indirect prompt injection attacks during tool-use in the 2.5 model family.
-- **Security Enhancement**: ART-driven testing has significantly elevated Gemini 2.5’s protection rate, establishing it as the most secure model family to date in Google’s lineup.
-- **Continuous Improvement**: This
+- **Automated Red Teaming (ART)**: Google employs ART to proactively test Gemini models by simulating realistic attacks, significantly improving resistance to indirect prompt injection attacks during tool-use in the Gemini 2.5 model family.
+- **Security Enhancements**: ART-driven testing has led to measurable improvements in model security, establishing Gemini 2.5 as Google's most secure model family to date.
+- **Security Benchmarking**: The approach aligns with Google's broader responsible AI s
 
 ## Use Cases
 
-- PII filtering
-- Prompt injection shielding
-- Tool calling protection
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 

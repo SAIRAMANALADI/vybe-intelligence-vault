@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/terms
-published_at: '2026-08-01T21:50:16.304577+05:30'
-collected_at: '2026-08-01T21:50:16.304594+05:30'
+published_at: '2026-08-02T09:35:36.189135+05:30'
+collected_at: '2026-08-02T09:35:36.189150+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-08-01T21:50:16.304594+05:30'
-last_seen: '2026-08-01T21:50:16.304594+05:30'
-last_checked: '2026-08-01T21:50:16.304594+05:30'
+first_seen: '2026-08-02T09:35:36.189150+05:30'
+last_seen: '2026-08-02T09:35:36.189150+05:30'
+last_checked: '2026-08-02T09:35:36.189150+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered) operates under U.S. laws, providing services under a contractual relationship where users agree to [Terms of Service](https://policies.google.com/terms) and [Privacy Policy](https://policies.google.com/privacy) by accessing or using services.
+- **Legal Entity & Jurisdiction**: Google LLC, a Delaware-registered entity under U.S. law, operates services under these terms, with contractual obligations enforceable in the United States.
 
-- **Content & Intellectual Property**: Users retain IP rights to their content but grant Google a license for processing, storage, and display; reverse engineering, automated extraction (e.g., via `robots.txt` violations), or using AI-generated content to train models is prohibited.
+- **Service Provision & Modifications**: Google provides integrated services (e.g., Search, Maps, Pixel) with AI/ML-driven improvements (e.g., spam detection, translations), subject to automatic updates and material changes with advance notice (except for urgent legal/security cases).
 
-- **Prohibited Conduct & Enforcement**: Users must comply with laws (e.g., export controls, anti-abuse policies) and avoid activities like phishing, malware, adversarial prompting, or fraudulent content generation; violations may result in account termination or legal action.
+- **User Obligations & Restrictions**: Users must comply with terms, respect IP/privacy rights, avoid abuse (e.g., malware, reverse engineering, AI model training from outputs), and grant Google a license to process user-submitted content while retaining ownership.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T21:50:16.304577+05:30
+- Published: 2026-08-02T09:35:36.189135+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-02T03:42:33.478498+05:30'
+collected_at: '2026-08-02T09:23:50.425959+05:30'
 published_at: '2026-07-27T01:59:34Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-02T03:42:33.478498+05:30'
-last_seen: '2026-08-02T03:42:33.478498+05:30'
-last_checked: '2026-08-02T03:42:33.478498+05:30'
+first_seen: '2026-08-02T09:23:50.425959+05:30'
+last_seen: '2026-08-02T09:23:50.425959+05:30'
+last_checked: '2026-08-02T09:23:50.425959+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for integrating vector search with LLMs (e.g., GPT-4 Vision, LangChain, LlamaIndex) to build multimodal AI systems and Retrieval-Augmented Generation (RAG) pipelines.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
 
-- **Vector Database-Centric Workflows**: Demonstrates practical use of LanceDB (a vector database) for efficient storage, indexing, and retrieval of embeddings in deep learning and machine learning applications, including fine-tuning and agent-based systems.
+- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient embedding storage, retrieval, and hybrid search in AI pipelines.
 
-- **Tooling & Integration Focus**: Showcases recipes for combining OpenAI APIs, embeddings, and vector databases to enable agentic workflows, multimodal processing, and end-to-end AI pipelines with minimal overhead.
+- **Agent & Fine-Tuning Workflows**: Includes tutorials on deploying AI agents, fine-tuning embeddings, and integrating OpenAI models with vector databases for scalable multimodal applications.
 
 ## Why It Matters
 

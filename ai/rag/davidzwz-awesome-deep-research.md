@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-02T03:44:03.598528+05:30'
+collected_at: '2026-08-02T09:25:20.503895+05:30'
 published_at: '2026-08-01T13:41:35Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 831
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-02T03:44:03.598528+05:30'
-last_seen: '2026-08-02T03:44:03.598528+05:30'
-last_checked: '2026-08-02T03:44:03.598528+05:30'
+first_seen: '2026-08-02T09:25:20.503895+05:30'
+last_seen: '2026-08-02T09:25:20.503895+05:30'
+last_checked: '2026-08-02T09:25:20.503895+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources (papers, tools, frameworks) for **agentic deep research**, focusing on **LLMs**, **RAG**, and **reasoning agents** as of ACL 2026 (KnowFM).
-- **Technical Scope**: Covers **search agents**, **deep-research agents**, and **multi-agent systems** for automated literature review, hypothesis testing, and knowledge synthesis.
-- **Repository Metrics**: 831 stars, 68 forks, last updated **2026-08-01**; language unspecified but includes resources for **Python/JavaScript**-based implementations.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous reasoning agents, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems for advanced knowledge synthesis.
+- **Technical Scope**: Covers agentic AI frameworks, deep research methodologies, multi-agent collaboration, and reasoning architectures optimized for complex, iterative information retrieval and synthesis tasks.
+- **ACL 2026 Integration**: Aligns with ACL 2026 KnowFM, emphasizing knowledge-first modeling (KnowFM) for structured, evidence-backed deep research agents in NLP and AI research.
 
 ## Why It Matters
 

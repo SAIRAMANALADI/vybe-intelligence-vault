@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-84%2C537-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-144%2C301-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--02-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **84,537 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **144,301 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,295</p>
-        <p><b>Active:</b> 14,859 | <b>Inactive:</b> 436</p>
+        <p><b>Resources tracked:</b> 16,303</p>
+        <p><b>Active:</b> 15,863 | <b>Inactive:</b> 440</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,092</p>
+        <p><b>Archive Files:</b> 60,870</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 84,537 files</p>
-        <p><b>Last Update:</b> 2026-08-02 08:05 IST</p>
+        <p><b>Total Vault Size:</b> 144,301 files</p>
+        <p><b>Last Update:</b> 2026-08-02 09:42 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,28 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[GitHub Code Security · GitHub](ai/rag/security-advanced-security.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Unified DevSecOps Solutions Built for Security | GitHub · GitHub](ai/rag/solutions-use-case.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Atlassian Community | Learn, connect, and grow](ai/rag/atlassian-community-learn-connect-and-grow.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Atlassian Documentation | Atlassian Support | Atlassian Documentation](ai/resources/atlassian-documentation-atlassian-support-atlassia.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Discovered Web Resource](ai/resources/discovered-web-resource.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Explorative modeling: Train on the best of K guesses](ai/community/explorative-modeling-train-on-the-best-of-k-guesse.md)** • <kbd>+21 pts</kbd>
+- 🔼 **[android Git repositories - Git at Google](ai/rag/android-git-repositories-git-at-google.md)** • Rank: <kbd>+4465</kbd>
+- 🔼 **[Stream Firestore to BigQuery | Firebase Extensions Hub](ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md)** • Rank: <kbd>+4445</kbd>
+- 🔼 **[Run Payments with Stripe | Firebase Extensions Hub](ai/rag/run-payments-with-stripe-firebase-extensions-hub.md)** • Rank: <kbd>+5342</kbd>
+- 🔼 **[Google Issue Tracker](ai/resources/google-issue-tracker.md)** • Rank: <kbd>+1340</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[AI financial advice is surprisingly good, especially if you ask right questions](ai/community/ai-financial-advice-is-surprisingly-good-especiall.md)** • Score: `209`
+- 🆕 **[Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](ai/community/show-hn-costperprompt-live-ai-api-pricing-and-real.md)** • Score: `3`
+- 🆕 **[Google Analytics | Google for Developers](ai/resources/google-analytics-google-for-developers.md)** • Score: `0`
+- 🆕 **[Use Scam Detection - Phone app Help](ai/rag/use-scam-detection-phone-app-help.md)** • Score: `0`
+- 🆕 **[Advancing AI safely and responsibly â Google AI](ai/rag/advancing-ai-safely-and-responsibly-a-google-ai.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Flint: A Visualization Language for the AI Era](ai/community/show-hn-microsoft-releases-flint-a-visualization-l.md)**
+- 💤 **[Kaisel – Routes as Values. Dart 3 Native Router for Flutter](ai/community/kaisel-routes-as-values-dart-3-native-router-for-f.md)**
+- 💤 **[The Burau representation of the braid group is faithful for n = 4](ai/community/arxiv-2607-05283.md)**
+- 💤 **[Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets](ai/community/scanning-7-6-petabytes-of-huggingface-training-dat.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

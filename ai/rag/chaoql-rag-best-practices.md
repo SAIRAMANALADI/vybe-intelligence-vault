@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-02T03:43:13.490244+05:30'
+collected_at: '2026-08-02T09:24:30.443067+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- models
 - python
 - rag
 stars: 95
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-02T03:43:13.490244+05:30'
-last_seen: '2026-08-02T03:43:13.490244+05:30'
-last_checked: '2026-08-02T03:43:13.490244+05:30'
+first_seen: '2026-08-02T09:24:30.443067+05:30'
+last_seen: '2026-08-02T09:24:30.443067+05:30'
+last_checked: '2026-08-02T09:24:30.443067+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Repository provides Python-based best practices for Retrieval-Augmented Generation (RAG) using large language models (LLMs), focusing on optimizing retrieval and generation pipelines.
-- **Optimization Techniques**: Includes methodologies for enhancing retrieval accuracy (e.g., embedding strategies, vector databases) and generation quality (e.g., prompt engineering, fine-tuning).
-- **Evaluation Framework**: Proposes metrics and benchmarks for assessing RAG system performance, covering latency, relevance, and hallucination mitigation.
+- **RAG Implementation Framework**: Provides a structured Python-based approach for integrating large language models (LLMs) with retrieval-augmented generation (RAG), emphasizing modular design for indexing, retrieval, and generation pipelines.
+
+- **Optimized Retrieval Strategies**: Implements advanced retrieval techniques (e.g., dense vector search, hybrid retrieval) to enhance context relevance, reducing hallucinations and improving factual accuracy in generated outputs.
+
+- **Evaluation & Benchmarking Tools**: Includes scripts for quantitative and qualitative assessment of RAG systems, with metrics for retrieval precision, response relevance, and latency optimization.
 
 ## Why It Matters
 

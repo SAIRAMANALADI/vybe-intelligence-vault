@@ -13,13 +13,14 @@ collected_at: '2026-08-02T03:41:27.603791+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:kaisel-routes-as-values-dart-3-native-router-for-f
 first_seen: '2026-08-02T01:03:49.655899+05:30'
 last_seen: '2026-08-02T03:41:27.603791+05:30'
 last_checked: '2026-08-02T03:41:27.603791+05:30'
 health_score: 100
 ---
+
 
 # Kaisel – Routes as Values. Dart 3 Native Router for Flutter
 

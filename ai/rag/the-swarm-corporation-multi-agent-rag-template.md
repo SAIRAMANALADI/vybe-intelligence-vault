@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-02T03:46:23.691566+05:30'
+collected_at: '2026-08-02T09:27:40.714757+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 59
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-02T03:46:23.691566+05:30'
-last_seen: '2026-08-02T03:46:23.691566+05:30'
-last_checked: '2026-08-02T03:46:23.691566+05:30'
+first_seen: '2026-08-02T09:27:40.714757+05:30'
+last_seen: '2026-08-02T09:27:40.714757+05:30'
+last_checked: '2026-08-02T09:27:40.714757+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent RAG pipeline**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and Swarms to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG).
+- **Multi-Agent Architecture**: Implements a collaborative team of AI agents using frameworks like CrewAI, AutoGen, and Swarms to parallelize document processing, analysis, and insight generation via RAG (Retrieval-Augmented Generation).
 
-- **Integration stack**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLMs (GPT-3.5/4/5, Anthropic) with LangChain for orchestration, enabling hybrid retrieval and agentic workflows.
+- **Integration Stack**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate), LLM providers (OpenAI GPT-3.5/4/5, Anthropic), and LangChain for orchestration, with Discord integration for real-time agent communication.
 
-- **Deployment & extensibility**: Includes Discord bot integration for real-time interaction, modular agent roles, and template-based customization for scalable multi-agent document processing.
+- **Template Features**: Provides a modular Python-based template for deploying scalable multi-agent RAG systems, optimized for document ingestion, retrieval, and collaborative reasoning with last update on 2026-07-08.
 
 ## Why It Matters
 

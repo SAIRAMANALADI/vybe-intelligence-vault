@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/protocol-buffers/
-published_at: '2026-07-21T09:25:45.092118+05:30'
-collected_at: '2026-07-21T09:25:45.092127+05:30'
+published_at: '2026-08-02T09:35:47.198208+05:30'
+collected_at: '2026-08-02T09:35:47.198220+05:30'
 tags:
 - hackernews
 - web-crawled
 status: active
 resource_id: blog:protocol-buffers-documentation
-first_seen: '2026-07-21T09:25:45.092127+05:30'
-last_seen: '2026-07-21T09:25:45.092127+05:30'
-last_checked: '2026-07-21T09:25:45.092127+05:30'
+first_seen: '2026-08-02T09:35:47.198220+05:30'
+last_seen: '2026-08-02T09:35:47.198220+05:30'
+last_checked: '2026-08-02T09:35:47.198220+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Serialization Mechanism**: Protocol Buffers (protobuf) is a language- and platform-neutral method for serializing structured data, offering a more efficient alternative to XML with smaller payloads and faster processing.
-
-- **Language Support & Code Generation**: Supports multiple languages (e.g., C++, Java, Python, Rust) with auto-generated source code for serialization/deserialization; proto3 adds PHP compatibility.
-
-- **Schema Definition & Usage**: Data structure defined via `.proto` files (e.g., `message Person`), with generated classes (e.g., `Person.newBuilder()` in Java) enabling stream-based I/O operations.
+- **Language-neutral serialization**: Protocol Buffers (protobuf) provide a compact, efficient binary format for structured data serialization, outperforming XML/JSON in size and speed while maintaining extensibility.
+- **Multi-language support**: Generated source code supports C++, C#, Dart, Go, Java, Kotlin, Objective-C, Python, Rust, Ruby, and PHP (proto3), enabling cross-platform data interchange.
+- **Schema-driven code generation**: Data structure is defined via `.proto` files (e.g., `message Person { ... }`), with compiler-generated classes handling serialization/deserialization (e.g., `writeTo()`, `ParseFromIstream()`).
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T09:25:45.092118+05:30
+- Published: 2026-08-02T09:35:47.198208+05:30
 
 ## Related Tags
 

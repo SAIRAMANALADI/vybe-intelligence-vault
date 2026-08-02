@@ -3,16 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://www.blogger.com/go/takeout
-published_at: '2026-08-02T03:50:14.077883+05:30'
-collected_at: '2026-08-02T03:50:14.077896+05:30'
+source_url: https://issuetracker.google.com/issues/new?component=1400680&template=1857359
+published_at: '2026-08-02T09:36:11.641490+05:30'
+collected_at: '2026-08-02T09:36:11.641504+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-08-02T03:50:14.077896+05:30'
-last_seen: '2026-08-02T03:50:14.077896+05:30'
-last_checked: '2026-08-02T03:50:14.077896+05:30'
+first_seen: '2026-08-02T09:36:11.641504+05:30'
+last_seen: '2026-08-02T09:36:11.641504+05:30'
+last_checked: '2026-08-02T09:36:11.641504+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Flow**: Utilizes Google's OAuth-based WebLiteSignIn for secure user authentication via email/phone recovery, with follow-up redirect to `takeout.google.com` post-login.
-
-- **Session Management**: Supports private browsing (Guest mode) via `osid` and `ifkv` tokens for temporary session isolation, enhancing security for non-primary devices.
-
-- **Account Provisioning**: Offers GlifWebSignIn signup flow for new users, integrating with `takeout.google.com` via lifecycle management parameters (`flowEntry=SignUp`, `followup` URL).
+- Google Account sign-in requires email/phone input for authentication via `ServiceLogin` endpoint with OAuth2-based flows.
+- Private browsing mode (`Guest mode`) is enforced for non-trusted devices to mitigate session hijacking risks.
+- Account recovery is facilitated via `usernamerecovery` endpoint, redirecting to issue submission with pre-filled component/template parameters.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T03:50:14.077883+05:30
+- Published: 2026-08-02T09:36:11.641490+05:30
 
 ## Related Tags
 
@@ -42,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.blogger.com/go/takeout
+Original source: https://issuetracker.google.com/issues/new?component=1400680&template=1857359

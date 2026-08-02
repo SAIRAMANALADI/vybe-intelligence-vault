@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-02T03:43:38.479862+05:30'
+collected_at: '2026-08-02T09:24:55.476680+05:30'
 published_at: '2026-07-30T15:36:09Z'
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- models
+- hackernews
 - python
 - rag
 - reddit
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-02T03:43:38.479862+05:30'
-last_seen: '2026-08-02T03:43:38.479862+05:30'
-last_checked: '2026-08-02T03:43:38.479862+05:30'
+first_seen: '2026-08-02T09:24:55.476680+05:30'
+last_seen: '2026-08-02T09:24:55.476680+05:30'
+last_checked: '2026-08-02T09:24:55.476680+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a framework demonstrating *knowledge corruption attacks* on Retrieval-Augmented Generation (RAG) systems by manipulating retrieved documents to mislead LLM outputs while maintaining stealth.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating how adversaries can corrupt the knowledge base of Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, leading to incorrect or harmful outputs.
 
-- **Two-Stage Attack Mechanism**: Implements a *trigger-based poisoning* approach where adversaries first embed subtle, context-aware triggers in external knowledge sources (e.g., databases or documents) and then exploit these during inference to bias model responses toward attacker-desired outputs.
+- **Technical Exploitation**: Leverages *trigger-based poisoning* where poisoned documents contain subtle perturbations (e.g., adversarial embeddings or keyword triggers) that manipulate the retrieval process, causing the LLM to prioritize malicious content over legitimate sources.
 
-- **Evaluation & Mitigations**: Demonstrates attack efficacy on multiple RAG pipelines (e.g., LlamaIndex, LangChain) with minimal perturbations (<1% modification rate), and proposes preliminary defenses including *trigger detection via embedding analysis* and *retrieval sanitization*.
+- **Evaluation & Impact**: Validates the attack on real-world RAG pipelines, showing significant degradation in response accuracy (up to 90% in some cases) while maintaining stealthiness (low detection rates by existing defenses).
 
 ## Why It Matters
 

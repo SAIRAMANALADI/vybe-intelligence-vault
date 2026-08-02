@@ -4,12 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-08-02T01:06:24.587822+05:30'
+collected_at: '2026-08-02T09:25:25.513610+05:30'
 published_at: '2026-07-26T18:35:47Z'
 tags:
 - agents
-- benchmark
 - github-repo
+- hackernews
 - unknown
 stars: 284
 language: Unknown
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-08-02T01:06:24.587822+05:30'
-last_seen: '2026-08-02T01:06:24.587822+05:30'
-last_checked: '2026-08-02T01:06:24.587822+05:30'
+first_seen: '2026-08-02T09:25:25.513610+05:30'
+last_seen: '2026-08-02T09:25:25.513610+05:30'
+last_checked: '2026-08-02T09:25:25.513610+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **E-sports-style AI Battles**: Hosts live, competitive agentic AI challenges with asynchronous community participation and GitHub-based submissions.
-- **Developer Challenge Framework**: Provides a structured, high-energy environment for AI agent development with real-time performance evaluation.
-- **GitHub Integration**: Enables seamless submission, version control, and community collaboration via GitHub repositories.
+- **E-sports-inspired AI challenge**: Hosts live AI Battles and asynchronous community challenges with GitHub-based submissions, gamifying agentic AI development.
+- **Repository metrics**: 284 stars, 91 forks, last updated July 26, 2026.
+- **Framework/language**: Undisclosed technical stack (language marked as "Unknown" in metadata).
 
 ## Why It Matters
 

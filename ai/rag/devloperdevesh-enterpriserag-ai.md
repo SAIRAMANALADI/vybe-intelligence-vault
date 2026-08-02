@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-02T03:43:43.462088+05:30'
+collected_at: '2026-08-02T09:25:00.530418+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - typescript
 stars: 14
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-02T03:43:43.462088+05:30'
-last_seen: '2026-08-02T03:43:43.462088+05:30'
-last_checked: '2026-08-02T03:43:43.462088+05:30'
+first_seen: '2026-08-02T09:25:00.530418+05:30'
+last_seen: '2026-08-02T09:25:00.530418+05:30'
+last_checked: '2026-08-02T09:25:00.530418+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and low-overhead system-level visibility.
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, integrating vector databases and LLM APIs for scalable, secure AI-driven SaaS applications.
-- **Governance & Compliance Focus**: Enforces enterprise security policies (e.g., access control, audit logging) via eBPF hooks while maintaining high-performance vector search and real-time agent orchestration.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native technologies and eBPF for low-level system monitoring and enforcement.
+
+- **Enterprise-Grade RAG Pipeline**: Deploys a Retrieval-Augmented Generation (RAG) system with FastAPI backend, TypeScript frontend, and vector database integration for scalable, secure AI agent operations.
+
+- **SaaS-AI Governance Framework**: Provides a structured governance layer for AI workloads, combining security policies, compliance checks, and real-time monitoring for enterprise deployments.
 
 ## Why It Matters
 

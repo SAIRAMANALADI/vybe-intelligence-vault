@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-02T03:43:58.537387+05:30'
+collected_at: '2026-08-02T09:25:15.510767+05:30'
 published_at: '2026-08-01T13:09:12Z'
 tags:
 - dataset
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-02T03:43:58.537387+05:30'
-last_seen: '2026-08-02T03:43:58.537387+05:30'
-last_checked: '2026-08-02T03:43:58.537387+05:30'
+first_seen: '2026-08-02T09:25:15.510767+05:30'
+last_seen: '2026-08-02T09:25:15.510767+05:30'
+last_checked: '2026-08-02T09:25:15.510767+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Introduces LinearRAG, a novel method for Graph Retrieval-Augmented Generation (GraphRAG) that linearizes graph structures into sequences for efficient processing on large-scale corpora, optimizing retrieval and generation in LLMs.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing both memory and computational efficiency for LLMs.
 
-- **Scalability & Efficiency**: Implements a linear-time graph traversal and retrieval mechanism, reducing computational overhead compared to traditional graph-based RAG approaches while maintaining high accuracy on large datasets.
+- **ICLR 2026 Contribution**: Introduces a linear-time graph-based retrieval mechanism to enhance contextual relevance and scalability, addressing limitations of traditional RAG methods in handling massive datasets.
 
-- **ICLR 2026 Contribution**: Proposes a new paradigm for GraphRAG by leveraging linear graph representations, enabling scalable and efficient retrieval-augmented generation for LLMs in real-world applications.
+- **Implementation**: Python-based repository with graph-based indexing and retrieval modules, designed for integration with LLMs to improve factual accuracy and response generation in downstream tasks.
 
 ## Why It Matters
 

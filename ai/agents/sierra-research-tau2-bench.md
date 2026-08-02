@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-08-02T03:45:08.737579+05:30'
-published_at: '2026-08-01T08:42:00Z'
+collected_at: '2026-08-02T09:26:25.572290+05:30'
+published_at: '2026-08-01T23:19:48Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
-stars: 1711
+stars: 1712
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-07-30T00:08:54Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-08-02T03:45:08.737579+05:30'
-last_seen: '2026-08-02T03:45:08.737579+05:30'
-last_checked: '2026-08-02T03:45:08.737579+05:30'
+first_seen: '2026-08-02T09:26:25.572290+05:30'
+last_seen: '2026-08-02T09:26:25.572290+05:30'
+last_checked: '2026-08-02T09:26:25.572290+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- Introduces τ-Bench, a benchmark for evaluating tool-agent-user interactions in real-world domains, designed to assess conversational agents and language model agents.
-- Provides a standardized framework for measuring performance in multi-turn, tool-integrated agentic workflows across diverse domains.
-- Implements Python-based evaluation protocols with open-source tooling for reproducibility and extensibility.
+- Introduces **τ-Bench**, a benchmark for evaluating **Tool-Agent-User (TAU) interactions** in real-world domains, focusing on conversational agents and LLM-based systems.
+- Provides a **Python-based framework** with standardized metrics to assess agent performance in dynamic, multi-turn tool-use scenarios.
+- Enables **cross-domain evaluation** of agent adaptability, robustness, and efficiency in complex, user-driven environments.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sierra-research
-- Stars: 1711
+- Stars: 1712
 - Forks: 428
 - Language: Python
 - Topics: ai, benchmark, conversational-agents, language-model-agent, llm
-- Last Updated: 2026-08-01T08:42:00Z
+- Last Updated: 2026-08-01T23:19:48Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T23:46:17Z

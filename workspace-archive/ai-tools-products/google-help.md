@@ -1,6 +1,6 @@
 ---
 title: Google Help
-archive_category: rag-systems
+archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://support.google.com/
 resource_id: blog:google-help
@@ -23,7 +23,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `RAG Systems`
+- Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
@@ -32,15 +32,15 @@ selection_reason:
 
 ## Summary
 
-- **Google Chrome**: Open-source Chromium-based browser with V8 JavaScript engine, Blink rendering engine, and built-in sandboxing for security.
-- **Google Cloud**: Enterprise-grade cloud platform offering Compute Engine (IaaS), BigQuery (serverless data warehouse), and Kubernetes Engine (managed K8s).
-- **Google Ads**: Programmatic advertising platform leveraging real-time bidding (RTB) with ML-driven audience targeting and conversion tracking via gtag.js.
+- **Google Chrome**: Web browser supporting extensions, syncing, and advanced developer tools (DevTools) for debugging and performance analysis.
+- **Google Drive**: Cloud storage with real-time collaboration via Google Docs Editors suite (Docs, Sheets, Slides) and API access for third-party integrations.
+- **Google Cloud**: Enterprise-grade cloud platform offering compute (Compute Engine), storage (Cloud Storage), AI/ML (Vertex AI), and networking services with SLA-backed uptime.
 
 ## Use Cases
 
-- Knowledge querying
-- Document summarization
-- Hybrid retrieval
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
 
 ## Source
 

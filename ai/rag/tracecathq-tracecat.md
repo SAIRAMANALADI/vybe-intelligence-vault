@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-02T03:45:23.629602+05:30'
+collected_at: '2026-08-02T09:26:40.628293+05:30'
 published_at: '2026-08-01T16:52:43Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
@@ -20,11 +21,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-08-01T22:14:07Z'
+pushed_at: '2026-08-02T03:55:18Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-02T03:45:23.629602+05:30'
-last_seen: '2026-08-02T03:45:23.629602+05:30'
-last_checked: '2026-08-02T03:45:23.629602+05:30'
+first_seen: '2026-08-02T09:26:40.628293+05:30'
+last_seen: '2026-08-02T09:26:40.628293+05:30'
+last_checked: '2026-08-02T09:26:40.628293+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Architecture**: Tracecat is an open-source, event-driven security automation platform built with Python (FastAPI backend) and Next.js (frontend), leveraging Pydantic for data validation and OpenAPI for API specification.
-- **Workflow Engine**: Utilizes Temporal.io for durable workflow orchestration and low-code automation, enabling AI agents and teams to define, execute, and monitor security workflows with minimal manual intervention.
-- **Integration & Scalability**: Supports LLM-driven automation, integrates with security tools via APIs, and is designed for scalability with modular components, including temporal workers and a Next.js dashboard for real-time monitoring.
+- **Architecture**: Python-based open-source security automation platform leveraging FastAPI, Pydantic, and Temporal.io for event-driven orchestration, workflow execution, and low-code automation with OpenAPI integration.
+- **Features**: Supports AI agents, LLM interactions, real-time monitoring, and security-focused workflows with Next.js frontend and temporal workflow engine for scalable task management.
+- **Technical Stack**: Built with Python, FastAPI, Pydantic, Temporal.io, and Next.js; designed for extensibility, security, and AI-driven automation with 3,751 GitHub stars and 395 forks.
 
 ## Why It Matters
 
@@ -51,7 +52,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-08-01T22:14:07Z
+- Pushed At: 2026-08-02T03:55:18Z
 
 ## Possible Use Cases
 

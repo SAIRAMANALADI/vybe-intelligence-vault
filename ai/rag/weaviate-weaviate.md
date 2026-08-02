@@ -1,53 +1,70 @@
 ---
-title: Releases · weaviate/weaviate · GitHub
+title: weaviate/weaviate
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/weaviate/weaviate/releases/
-published_at: '2026-08-02T03:52:34.487252+05:30'
-collected_at: '2026-08-02T03:52:34.487268+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/weaviate/weaviate
+collected_at: '2026-08-02T09:29:13.572716+05:30'
+published_at: '2026-08-01T20:53:20Z'
 tags:
-- frontend_ui
+- github-repo
+- go
 - hackernews
 - rag
-- web-crawled
-- youtube
+- workflows
+stars: 16678
+language: Go
 status: active
+license: BSD-3-Clause
+archived: false
+created_at: '2016-03-30T15:03:17Z'
+pushed_at: '2026-08-01T13:30:33Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-08-02T03:52:34.487268+05:30'
-last_seen: '2026-08-02T03:52:34.487268+05:30'
-last_checked: '2026-08-02T03:52:34.487268+05:30'
+first_seen: '2026-08-02T09:29:13.572716+05:30'
+last_seen: '2026-08-02T09:29:13.572716+05:30'
+last_checked: '2026-08-02T09:29:13.572716+05:30'
 health_score: 100
 ---
 
-# Releases · weaviate/weaviate · GitHub
+# weaviate/weaviate
 
 ## Summary
 
-- **v1.38.8**: Introduced batched `ContainsAny/ContainsAll/ContainsNone` operations for inverted indexes with storage-side support, reducing per-read allocations in RoaringSet reads and optimizing HNSW snapshot memory usage.
-
-- **v1.39.0-rc.1**: Added stable support for Namespaces (GA), schema alteration operations (Reindex/ Drop vector index), gRPC web (GA), and a new Search REST API (GA).
-
-- **v1.38.7**: Fixed replication logic by removing `SyncShards` in favor of node-local `Shard.drop`, corrected namespace regexp validation, and addressed empty range results post-reindexing.
+- **Hybrid Architecture**: Combines vector search (HNSW-based) with structured filtering, enabling both semantic and traditional query capabilities in a single system.
+- **Cloud-Native & Scalable**: Implements fault tolerance and horizontal scalability via a distributed architecture, supporting gRPC for high-performance communication.
+- **Multi-Modal Support**: Stores and indexes objects (text, images, etc.) alongside vectors, enabling applications in semantic search, recommender systems, and generative AI workflows.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-08-02T03:52:34.487252+05:30
+- Owner: weaviate
+- Stars: 16678
+- Forks: 1357
+- Language: Go
+- Topics: approximate-nearest-neighbor-search, generative-search, grpc, hnsw, hybrid-search, image-search, information-retrieval, mlops, nearest-neighbor-search, neural-search, recommender-system, search-engine, semantic-search, semantic-search-engine, similarity-search, vector-database, vector-search, vector-search-engine, vectors, weaviate
+- Last Updated: 2026-08-01T20:53:20Z
+- License: BSD-3-Clause
+- Archived: No
+- Created At: 2016-03-30T15:03:17Z
+- Pushed At: 2026-08-01T13:30:33Z
 
-## Related Tags
+## Possible Use Cases
 
-- frontend_ui
-- hackernews
-- rag
-- web-crawled
-- youtube
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/weaviate/weaviate/releases/
+Original source: https://github.com/weaviate/weaviate

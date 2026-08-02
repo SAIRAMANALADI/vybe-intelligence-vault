@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-02T03:43:38.522316+05:30'
+collected_at: '2026-08-02T09:24:55.505601+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 263
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-31T20:03:39Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-02T03:43:38.522316+05:30'
-last_seen: '2026-08-02T03:43:38.522316+05:30'
-last_checked: '2026-08-02T03:43:38.522316+05:30'
+first_seen: '2026-08-02T09:24:55.505601+05:30'
+last_seen: '2026-08-02T09:24:55.505601+05:30'
+last_checked: '2026-08-02T09:24:55.505601+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time log monitoring, with modular components for extensibility in threat detection and response workflows.
+- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time log monitoring, with skill-based modules for threat detection and response automation.
 
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build and query contextual behavioral patterns from historical security data, enabling adaptive anomaly validation via LLMs.
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build dynamic, context-aware behavioral profiles for anomaly validation using LLMs.
 
-- **LLM-Driven Anomaly Validation**: Uses large language models (LLMs) to cross-verify detected anomalies against behavioral baselines, enhancing detection accuracy and reducing false positives in SOC operations.
+- **LLM-Driven Anomaly Validation**: Utilizes large language models (LLMs) to cross-validate detected anomalies against historical patterns, enabling adaptive threat hunting and SOC automation.
 
 ## Why It Matters
 

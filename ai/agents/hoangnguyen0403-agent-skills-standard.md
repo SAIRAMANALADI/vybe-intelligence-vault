@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-02T03:44:53.500588+05:30'
+collected_at: '2026-08-02T09:26:10.597006+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 536
 language: TypeScript
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-02T03:44:53.500588+05:30'
-last_seen: '2026-08-02T03:44:53.500588+05:30'
-last_checked: '2026-08-02T03:44:53.500588+05:30'
+first_seen: '2026-08-02T09:26:10.597006+05:30'
+last_seen: '2026-08-02T09:26:10.597006+05:30'
+last_checked: '2026-08-02T09:26:10.597006+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts a curated collection of *Agent Skills Standards* and *Best Practices* for programming languages and frameworks, enabling AI agents to adhere to optimized coding conventions and architectural guidelines.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages including Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot, and iOS.
 
-- **Technical Scope**: Covers TypeScript, Kotlin, Go, Java (Spring Boot), Dart (Flutter), JavaScript/TypeScript (React, Next.js, NestJS), Kotlin (Android), Swift (iOS), and PHP (Laravel), with structured rules for AI-driven development workflows.
+- **Purpose**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to optimal coding practices across multiple technologies, facilitating consistent and high-quality code generation.
 
-- **Framework Integration**: Provides *Cursor Rules* and standardized practices for modern frameworks (e.g., React, Angular, NestJS) to enforce consistency, maintainability, and performance in AI-assisted coding environments.
+- **Metadata**: 536 stars, 155 forks; last updated July 30, 2026, with active maintenance across 19+ topics related to agentic AI and framework-specific standards.
 
 ## Why It Matters
 

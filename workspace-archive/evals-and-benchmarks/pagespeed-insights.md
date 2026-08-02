@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Performance Analysis Tool**: Provides a web-based service to analyze and optimize webpage performance across devices using Google's infrastructure and metrics (e.g., Lighthouse-based audits).
+- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on mobile and desktop devices using real-world data (CrUX) and lab data (Lighthouse), providing optimization recommendations.
 
-- **Core Web Vitals Focus**: Evaluates key performance indicators like Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS) to assess user experience.
+- **Scoring Metrics**: Scores (0-100) are derived from Core Web Vitals (LCP, FID, CLS) and additional performance audits, with thresholds for "Good" (90+), "Needs Improvement" (50-89), and "Poor" (0-49).
 
-- **Optimization Recommendations**: Generates actionable insights (e.g., image compression, JavaScript/CSS minifi
+- **Optimization Guidance**: Generates actionable insights (e.g., image comp
 
 ## Use Cases
 

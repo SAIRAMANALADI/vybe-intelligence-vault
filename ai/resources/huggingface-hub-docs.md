@@ -4,11 +4,10 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huggingface/hub-docs
-collected_at: '2026-08-02T01:10:29.671466+05:30'
+collected_at: '2026-08-02T09:29:23.582767+05:30'
 published_at: '2026-08-01T04:12:15Z'
 tags:
 - github-repo
-- hackernews
 - handlebars
 stars: 579
 language: Handlebars
@@ -18,9 +17,9 @@ archived: false
 created_at: '2022-03-16T13:26:14Z'
 pushed_at: '2026-08-01T04:11:56Z'
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-08-02T01:10:29.671466+05:30'
-last_seen: '2026-08-02T01:10:29.671466+05:30'
-last_checked: '2026-08-02T01:10:29.671466+05:30'
+first_seen: '2026-08-02T09:29:23.582767+05:30'
+last_seen: '2026-08-02T09:29:23.582767+05:30'
+last_checked: '2026-08-02T09:29:23.582767+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts documentation for the Hugging Face Hub, written in Handlebars, with 579 stars and 477 forks.
-- **Technical Stack**: Utilizes Handlebars templating engine for documentation generation and maintenance.
-- **Community & Updates**: Part of the `hacktoberfest` initiative; last updated on **2026-08-01T04:12:15Z**.
+- **Repository Overview**: Hosts documentation for the Hugging Face Hub, written in Handlebars, with 579 stars and 478 forks.
+- **Metadata**: Last updated on 2026-08-01T04:12:15Z; includes topics like `hacktoberfest` and `machine-learning`.
+- **Access**: Available at [https://github.com/huggingface/hub-docs](https://github.com/huggingface/hub-docs).
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: huggingface
 - Stars: 579
-- Forks: 477
+- Forks: 478
 - Language: Handlebars
 - Topics: hacktoberfest, machine-learning
 - Last Updated: 2026-08-01T04:12:15Z

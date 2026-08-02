@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/transitive-bullshit/agentic
-collected_at: '2026-08-02T01:08:14.638466+05:30'
+collected_at: '2026-08-02T09:27:15.569939+05:30'
 published_at: '2026-08-01T12:07:15Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: true
 created_at: '2022-12-03T00:05:09Z'
 pushed_at: '2026-02-11T04:50:03Z'
 resource_id: github:transitive-bullshit/agentic
-first_seen: '2026-08-02T01:08:14.638466+05:30'
-last_seen: '2026-08-02T01:08:14.638466+05:30'
-last_checked: '2026-08-02T01:08:14.638466+05:30'
+first_seen: '2026-08-02T09:27:15.569939+05:30'
+last_seen: '2026-08-02T09:27:15.569939+05:30'
+last_checked: '2026-08-02T09:27:15.569939+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP Framework**: Open-source library (`agentic`) for building Model Context Protocol (MCP) servers, enabling paid MCP server deployment from existing APIs with minimal overhead.
-- **Agentic Architecture**: Supports LLM-driven agent workflows with TypeScript-first tooling, integrating OpenAI models and facilitating AI agent orchestration via MCP.
-- **High Scalability**: Designed for production use with 18K+ GitHub stars, supporting real-time agent interactions and extensible tooling for AI-driven automation.
+- **TypeScript-based MCP Framework**: Open-source library (`agentic`) enabling rapid conversion of APIs into Managed Connections (MCP) servers for AI agents and LLM integrations.
+- **AI Agent Orchestration**: Supports dynamic agent workflows with OpenAI-compatible tooling, facilitating real-time API-to-agent communication and automation.
+- **Active Development**: Last updated in August 2026, with 18K+ stars and 2.2K+ forks, indicating strong community adoption for AI-driven API integrations.
 
 ## Why It Matters
 
