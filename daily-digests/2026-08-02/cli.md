@@ -1,55 +1,49 @@
 ---
-title: "prjct-app/cli"
+title: "makethisbetter/cli"
 content_type: "repo"
 engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Bun", "SQLite", "MCP (Model Context Protocol)", "Git", "Docker (implied for CI)"]
+category: "Tooling"
+tech_stack: ["Go", "Git", "JSON", "CLI", "REST API"]
 quality_score: 9
-rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI agent harness", "RAG optimization", "persistent memory", "guardrails", "multi-agent orchestration"]
-source: "https://github.com/prjct-app/cli"
+rag_relevance: 7
+deployment_complexity: "Low"
+tags: ["feedback management", "AI agent workflow", "terminal integration", "user feedback triage", "Git integration"]
+source: "https://github.com/makethisbetter/cli"
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-16T20:02:10Z"
-discovered_at: "2026-07-16T20:02:29Z"
+language: "Go"
+last_updated: "2026-08-02T08:15:56Z"
+discovered_at: "2026-08-02T08:22:45Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-prjct-cli is an agentic harness designed to orchestrate AI coding agents like Claude Code, Gemini CLI, and Cursor. It provides bounded RAG context, persistent memory, preventive guardrails, and performance tracking for AI-driven development workflows.
+A CLI tool that bridges user feedback from a web widget to an agent's workflow, enabling AI-driven triage, assignment, and resolution tracking directly in the terminal.
 
 ## Key Features
-- Agent-agnostic integration with support for Claude Code, Gemini CLI, Cursor, and others via MCP or native hooks
-- Bounded RAG context and persistent memory via SQLite for efficient recall and reduced token usage
-- Preventive guardrails and quality workflows (review, QA, security, investigate, ship, audit) for safer AI-driven development
-- Automatic package manager detection and self-updating mechanism to avoid parallel installs and version conflicts
-- Performance tracking and evals to measure AI work cycles, cost, and quality improvements
+- Pulls user feedback from a web widget into the terminal for AI agents to process
+- Supports structured JSON output for seamless agent integration
+- Enables AI agents to claim, implement, and mark feedback as ready for release
+- Integrates with Git for commit-based feedback resolution tracking
+- Provides OTP-based authentication and project management via CLI
 
 ## Why It Matters for RAG Builders
-prjct-cli is essential for RAG builders as it provides a robust framework to manage AI agent workflows, ensuring efficient context reuse, persistent memory, and guardrails that enhance the reliability and performance of AI-driven development tasks.
+It streamlines the feedback-to-deployment pipeline for AI agents by providing a direct terminal interface to manage and resolve user-reported issues efficiently.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Bun
-Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Git
 Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker (implied for CI)
-Automated review identified **Docker (implied for CI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON
+Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
