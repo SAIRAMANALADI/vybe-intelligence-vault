@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-08-02T21:45:35.494103+05:30'
-published_at: '2026-08-02T13:14:08Z'
+collected_at: '2026-08-03T01:06:15.379327+05:30'
+published_at: '2026-08-02T19:31:43Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 825
+stars: 827
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-08-02T21:45:35.494103+05:30'
-last_seen: '2026-08-02T21:45:35.494103+05:30'
-last_checked: '2026-08-02T21:45:35.494103+05:30'
+first_seen: '2026-08-03T01:06:15.379327+05:30'
+last_seen: '2026-08-03T01:06:15.379327+05:30'
+last_checked: '2026-08-03T01:06:15.379327+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates 825+ curated projects focused on AI memory systems, including RAG, agentic memory, and long-term context retention frameworks.
-- **Python-Centric**: Primarily Python-based implementations, emphasizing modular memory architectures, state management, and retrieval-augmented techniques.
-- **Active Maintenance**: Last updated August 2026, with 106 forks, indicating ongoing community contributions and updates to memory-related AI engineering tools.
+- **Curated list** of AI memory projects, frameworks, and tools focused on memory management, retrieval-augmented generation (RAG), and persistent agent memory.
+- **Python-centric** repository with 827 stars and 106 forks, last updated August 2026, covering topics like `ai-agents`, `ai-engineering`, and `memory-management`.
+- **Resource hub** for AI memory systems, including implementations for long-term context retention, agent state persistence, and scalable memory architectures.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: topoteretes
-- Stars: 825
+- Stars: 827
 - Forks: 106
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
-- Last Updated: 2026-08-02T13:14:08Z
+- Last Updated: 2026-08-02T19:31:43Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-23T12:40:05Z

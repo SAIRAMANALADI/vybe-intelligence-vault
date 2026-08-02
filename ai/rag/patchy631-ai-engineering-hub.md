@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-02T21:44:40.432360+05:30'
+collected_at: '2026-08-03T01:05:20.283533+05:30'
 published_at: '2026-08-02T10:09:15Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 stars: 36819
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-02T21:44:40.432360+05:30'
-last_seen: '2026-08-02T21:44:40.432360+05:30'
-last_checked: '2026-08-02T21:44:40.432360+05:30'
+first_seen: '2026-08-03T01:05:20.283533+05:30'
+last_seen: '2026-08-03T01:05:20.283533+05:30'
+last_checked: '2026-08-03T01:05:20.283533+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Content Focus**: Repository provides advanced tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and practical AI agent implementations with real-world applications.
-- **Technical Stack**: Primarily uses Jupyter Notebooks for delivery, covering topics such as AI agents, LLMs, machine learning, Model Context Protocol (MCP), and RAG architectures.
-- **Repository Metrics**: Highly active with 36,819 stars, 6,086 forks, and last updated on August 2, 2026, indicating ongoing maintenance and community engagement.
+*   Offers in-depth Jupyter Notebook tutorials on large language models (LLMs), Retrieval-Augmented Generation (RAG) architectures, and AI agent development.
+*   Focuses on practical, real-world AI agent applications and machine learning methodologies.
+*   Explores advanced topics including Multi-Agent Coordination Protocols (MCP) within an AI engineering context.
 
 ## Why It Matters
 

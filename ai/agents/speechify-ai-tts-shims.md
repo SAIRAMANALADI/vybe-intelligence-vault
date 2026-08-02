@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-08-02T21:52:27.262448+05:30'
+collected_at: '2026-08-03T01:13:21.369907+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-08-02T21:52:27.262448+05:30'
-last_seen: '2026-08-02T21:52:27.262448+05:30'
-last_checked: '2026-08-02T21:52:27.262448+05:30'
+first_seen: '2026-08-03T01:13:21.369907+05:30'
+last_seen: '2026-08-03T01:13:21.369907+05:30'
+last_checked: '2026-08-03T01:13:21.369907+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider TTS Shim Layer**: Go-based proxy system (`tts-shims`) that standardizes API interactions for 13 TTS providers (e.g., OpenAI, ElevenLabs, Cartesia) by routing requests to the Speechify API via a unified engine.
-- **Provider-Specific Binaries**: Compiles one binary per TTS provider while sharing a single Go engine, enabling modular deployment for Bring Your Own Carrier (BYOC) voice-agent architectures.
-- **Last Updated**: Repository last updated on **2026-07-13**, indicating active but recent development with potential for evolving provider integrations.
+- **Provider-Agnostic TTS Shim Layer**: Go-based implementation providing unified API compatibility for 14 TTS providers (e.g., OpenAI, ElevenLabs, Cartesia) via a single proxy engine, abstracting provider-specific interfaces into a common Speechify API.
+
+- **BYOC-Optimized Architecture**: Designed for voice-agent Bring Your Own Code (BYOC) use cases, deploying one binary per provider while sharing a core Go engine for efficient resource utilization and modular integration.
+
+- **Minimalist Repository**: Single-starred, zero-fork project with last update in July 2026, focusing exclusively on TTS shim functionality without additional dependencies or extended features.
 
 ## Why It Matters
 

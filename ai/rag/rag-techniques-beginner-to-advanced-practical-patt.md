@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-08-02T21:44:36.240536+05:30'
-collected_at: '2026-08-02T21:44:36.240551+05:30'
+published_at: '2026-08-03T01:05:20.871231+05:30'
+collected_at: '2026-08-03T01:05:20.871285+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-08-02T21:44:36.240551+05:30'
-last_seen: '2026-08-02T21:44:36.240551+05:30'
-last_checked: '2026-08-02T21:44:36.240551+05:30'
+first_seen: '2026-08-03T01:05:20.871285+05:30'
+last_seen: '2026-08-03T01:05:20.871285+05:30'
+last_checked: '2026-08-03T01:05:20.871285+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines a retriever (dense embeddings + vector search or sparse BM25) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
+- **Minimal RAG Pipeline**: Combines dense embeddings (sentence-transformers), vector search (FAISS), and an LLM (Flan-T5) for retrieval-augmented generation, with optional sparse retrieval (BM25) for hybrid setups.
 
-- **Intermediate Optimization Techniques**: Implements chunking with overlap, hybrid retrieval (sparse + dense), metadata filtering, reranking (e.g., monoT5), and query expansion (HyDE/multi-query) to improve precision, recall, and contextual relevance.
+- **Core RAG Components**: Retriever (dense/sparse), generator (LLM), embeddings (normalized vectors), chunking (400–1000 tokens with overlap), and reranking (cross-encoder models like monoT5/bge-reranker) for precision optimization.
 
-- **Advanced Patterns & Production Considerations**: Supports multi-hop retrieval, GraphRAG/knowledge graphs, multi-vector retrievers, context compression, agentic tool use, and safety grounding, with emphasis on evaluation, observability, latency/cost trade-offs, and end-to-end deployment patterns.
+- **Advanced Techniques**: Multi-hop retrieval, GraphRAG (knowledge graphs), hybrid retrieval (sparse + dense), query expansion (HyDE/multi-query), and context compression for latency/cost efficiency in production systems.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T21:44:36.240536+05:30
+- Published: 2026-08-03T01:05:20.871231+05:30
 
 ## Related Tags
 

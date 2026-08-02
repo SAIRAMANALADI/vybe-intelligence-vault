@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-02T21:46:20.575272+05:30'
+collected_at: '2026-08-03T01:06:55.394497+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-02T21:46:20.575272+05:30'
-last_seen: '2026-08-02T21:46:20.575272+05:30'
-last_checked: '2026-08-02T21:46:20.575272+05:30'
+first_seen: '2026-08-03T01:06:55.394497+05:30'
+last_seen: '2026-08-03T01:06:55.394497+05:30'
+last_checked: '2026-08-03T01:06:55.394497+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Version VLM Embedding Benchmark (MMEB)**: Repository hosts three versions (ICLR 2025, TMLR 2026, COLM 2026) of VLM2Vec, a framework for evaluating Vision-Language Model (VLM) embeddings across tasks like image/video retrieval, visual document retrieval, and multimodal representation learning.
+- **VLM2Vec Framework**: Repository hosts code for VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on multimodal representation learning via contrastive learning for tasks like image, video, and visual document retrieval.
 
-- **Contrastive Learning & Benchmarking**: Implements contrastive learning techniques for training VLMs to generate high-quality embeddings, with standardized benchmarks (MMEB) for fair comparison across tasks including RAG and multimodal retrieval.
+- **MMEB Benchmark Suite**: Includes the Massive Multimodal Embedding Benchmark (MMEB) across multiple versions, evaluating embeddings for multimodal tasks including retrieval, RAG, and representation learning.
 
-- **Python-Based Toolkit**: Provides a Python-based open-source toolkit for training, evaluating, and benchmarking VLMs, supporting tasks like image-text, video-text, and document-text retrieval with modular and extensible design.
+- **Technical Stack**: Implemented in Python, supporting multimodal embedding generation, contrastive learning, and benchmarking for visual-language models (VLMs) with modular components for extensibility.
 
 ## Why It Matters
 

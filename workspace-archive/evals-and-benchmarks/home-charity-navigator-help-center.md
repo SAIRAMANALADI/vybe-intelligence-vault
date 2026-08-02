@@ -2,16 +2,15 @@
 title: Home | Charity Navigator Help Center
 archive_category: evals-and-benchmarks
 source_category: ai/resources
-source_url: https://intercom.help/charity-navigator/en
+source_url: https://intercom.help/charity-navigator/en/
 resource_id: blog:home-charity-navigator-help-center
 local_vault_path: ai/resources/home-charity-navigator-help-center.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - reddit
 - web-crawled
 selection_reason:
@@ -24,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- Charity Navigator provides structured FAQ collections for nonprofits (9 articles) and donors (12 articles), covering operational and evaluative guidance.
-
-- The 2026 Rating Update Calendar outlines scheduled assessment cycles for nonprofit evaluations, ensuring transparency in rating revisions.
-
-- The platform operates via Intercom’s customer support infrastructure, enabling seamless query resolution and documentation management.
+- Charity Navigator’s Help Center provides structured FAQs for **nonprofits** (10 articles) and **donors** (12 articles), covering operational and evaluative guidance.
+- The **2026 Rating Update Calendar** outlines key dates for nonprofit performance assessment adjustments.
+- The platform operates via **Intercom**, a customer support tool, ensuring centralized query resolution.
 
 ## Use Cases
 
@@ -46,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://intercom.help/charity-navigator/en
+Original source URL: https://intercom.help/charity-navigator/en/
 
 ## Local Vault File
 

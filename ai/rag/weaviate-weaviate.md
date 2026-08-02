@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-08-02T21:50:12.448356+05:30'
+collected_at: '2026-08-03T01:11:28.011229+05:30'
 published_at: '2026-08-02T16:00:22Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2016-03-30T15:03:17Z'
 pushed_at: '2026-08-01T13:30:33Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-08-02T21:50:12.448356+05:30'
-last_seen: '2026-08-02T21:50:12.448356+05:30'
-last_checked: '2026-08-02T21:50:12.448356+05:30'
+first_seen: '2026-08-03T01:11:28.011229+05:30'
+last_seen: '2026-08-03T01:11:28.011229+05:30'
+last_checked: '2026-08-03T01:11:28.011229+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Architecture**: Weaviate integrates both vector embeddings and structured data storage, enabling combined vector search with SQL-like filtering while maintaining cloud-native scalability and fault tolerance.
+- **Hybrid Architecture**: Weaviate integrates both vector embeddings and structured data storage, enabling combined vector search with SQL-like filtering while maintaining cloud-native fault tolerance and scalability.
 
-- **HNSW & gRPC Integration**: Utilizes Hierarchical Navigable Small World (HNSW) for approximate nearest neighbor search and leverages gRPC for high-performance, low-latency communication.
+- **HNSW Indexing**: Implements Hierarchical Navigable Small World (HNSW) graphs for approximate nearest neighbor (ANN) search, optimizing high-dimensional vector retrieval with low latency.
 
-- **Multi-Modal & Generative Search**: Supports semantic, hybrid, and generative search across text, images, and structured data, optimized for MLOps, recommender systems, and neural search applications.
+- **gRPC & REST APIs**: Supports gRPC for high-performance communication and REST for compatibility, with modules for generative search, semantic search, and hybrid retrieval across diverse data types (text, images, etc.).
 
 ## Why It Matters
 

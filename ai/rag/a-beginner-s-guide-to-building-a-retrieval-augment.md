@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://learnbybuilding.ai/tutorial/rag-from-scratch/
-published_at: '2026-08-02T14:09:25.730587+05:30'
-collected_at: '2026-08-02T14:09:25.730600+05:30'
+published_at: '2026-08-03T01:05:29.235922+05:30'
+collected_at: '2026-08-03T01:05:29.235936+05:30'
 tags:
 - anthropic
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:a-beginner-s-guide-to-building-a-retrieval-augment
-first_seen: '2026-08-02T14:09:25.730600+05:30'
-last_seen: '2026-08-02T14:09:25.730600+05:30'
-last_checked: '2026-08-02T14:09:25.730600+05:30'
+first_seen: '2026-08-03T01:05:29.235936+05:30'
+last_seen: '2026-08-03T01:05:29.235936+05:30'
+last_checked: '2026-08-03T01:05:29.235936+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: A RAG system consists of three key components: a document corpus, a user query, and a similarity measure (e.g., Jaccard similarity) to retrieve the most relevant document(s) from the corpus before augmenting the LLM's prompt with the retrieved context.
+- **Core RAG Architecture**: RAG combines document retrieval (using similarity measures like Jaccard) with LLM-based generation, where retrieved documents augment the prompt to improve factual accuracy and contextual relevance.
 
-- **Minimal Implementation**: The simplest RAG system can be built without vector stores or complex libraries by preprocessing documents into sets of words, computing similarity scores, and passing the top-ranked document(s) to an LLM (e.g., Llama2 via Ollama) for response generation.
+- **Simplified Implementation**: A minimal RAG system consists of (1) a document corpus, (2) a user query, and (3) a similarity function (e.g., Jaccard) to fetch relevant documents, which are then passed to an LLM for response generation.
 
-- **Limitations & Scalability**: Basic similarity measures (e.g., Jaccard) lack semantic understanding, leading to irrelevant retrievals (e.g., negative queries matching positive documents). Improvements require advanced techniques like embeddings, chunking, and vector databases to handle larger corpora and nuanced queries.
+- **Key Limitations**: Basic similarity measures lack semantic understanding, leading to irrelevant retrievals (e.g., negative queries returning positive matches), necessitating advanced techniques like embeddings and vector stores for scalability.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:09:25.730587+05:30
+- Published: 2026-08-03T01:05:29.235922+05:30
 
 ## Related Tags
 

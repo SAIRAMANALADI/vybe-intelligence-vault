@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Hardware Support**: vLLM is compatible with multiple hardware platforms, including NVIDIA CUDA, AMD ROCm, Intel XPU, Apple Silicon (via vLLM-Metal), Intel/AMD x86, ARM AArch64, Apple Silicon, and IBM Z (S390X).
-- **Third-Party Plugins**: Supports hardware plugins external to the main `vllm` repository, adhering to the Hardware-Pluggable RFC for extensibility.
-- **Compatibility Resources**: Detailed hardware compatibility listed on the [vLLM website](https://vllm.ai/#compatibility), with comm
+- **Hardware Support**: vLLM supports GPU (NVIDIA CUDA, AMD ROCm, Intel XPU, Apple Silicon via vLLM-Metal), CPU (Intel/AMD x86, ARM AArch64, Apple Silicon, IBM Z S390X), and third-party hardware plugins via the Hardware-Pluggable RFC system.
+- **Plugin System**: Third-party hardware plugins are maintained externally and listed on the [vLLM website](https://vllm.ai/#compatibility), with new hardware integration facilitated through Slack or email.
+- **Installation Paths**: GPU and CPU installation
 
 ## Use Cases
 

@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-08-02T21:46:00.531868+05:30'
+collected_at: '2026-08-03T01:06:35.393869+05:30'
 published_at: '2026-08-02T15:37:27Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - models
 - openai
 - python
 - rag
-- workflows
 stars: 19614
 language: Python
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-08-02T07:12:30Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-08-02T21:46:00.531868+05:30'
-last_seen: '2026-08-02T21:46:00.531868+05:30'
-last_checked: '2026-08-02T21:46:00.531868+05:30'
+first_seen: '2026-08-03T01:06:35.393869+05:30'
+last_seen: '2026-08-03T01:06:35.393869+05:30'
+last_checked: '2026-08-03T01:06:35.393869+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and data manipulation via natural language.
-- **Security & Privacy Focus**: Implements private RAG (Retrieval-Augmented Generation) and encryption to ensure secure, on-premises data processing without exposing sensitive information to external APIs.
-- **Modular Architecture**: Supports multi-database integration (e.g., MySQL, PostgreSQL, BigQuery) with pluggable agents, customizable workflows, and compatibility with hacktoberfest contributions for extensibility.
+- **Purpose**: Open-source agentic AI framework designed to act as a data assistant for next-gen AI + Data products, enabling natural language interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna).
+- **Key Features**: Supports RAG (Retrieval-Augmented Generation), integrates with private/local LLMs for security, and includes agents for autonomous database operations (e.g., query generation, schema management).
+- **Technical Stack**: Python-based, with modular architecture for extensibility; includes BGI (likely a proprietary component) and supports hacktoberfest contributions.
 
 ## Why It Matters
 

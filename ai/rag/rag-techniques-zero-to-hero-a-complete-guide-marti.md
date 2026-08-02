@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-02T21:44:35.950835+05:30'
-collected_at: '2026-08-02T21:44:35.950847+05:30'
+published_at: '2026-08-03T01:05:15.746957+05:30'
+collected_at: '2026-08-03T01:05:15.746969+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-02T21:44:35.950847+05:30'
-last_seen: '2026-08-02T21:44:35.950847+05:30'
-last_checked: '2026-08-02T21:44:35.950847+05:30'
+first_seen: '2026-08-03T01:05:15.746969+05:30'
+last_seen: '2026-08-03T01:05:15.746969+05:30'
+last_checked: '2026-08-03T01:05:15.746969+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query rewriting layers; orchestration and caching optimize performance.
+- **RAG Architecture**: Combines a retriever (vector/lexical) with an LLM generator, where retrieved documents ground generation to improve factuality and reduce hallucinations; core components include chunking, embeddings, vector stores, rerankers, and orchestration layers.
 
-- **Chunking & Embeddings Optimization**: Effective chunking strategies (fixed-size, semantic, structure-aware) and domain-fine-tuned embeddings (normalized, multimodal-capable) directly impact retrieval precision and downstream generation quality.
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector), two-stage reranking (light retriever + cross-encoder), query rewriting (expansion, paraphrasing, multi-query fusion), and multi-hop/iterative retrieval for complex reasoning over structured or unstructured corpora.
 
-- **Multi-Stage Retrieval & Context Control**: Hybrid retrieval (BM25 + vector) with cross-encoder reranking improves precision; multi-hop/iterative retrieval enables complex reasoning; context distillation and token budgeting mitigate hallucinations and latency.
+- **Operational & Evaluation Considerations**: Latency/cost optimization via ANN indexes, context budgeting (autocut/trimming), retrieval-aware fine-tuning, and evaluation metrics spanning precision/recall (retrieval) and factuality/hallucination rates (generation), with safety/privacy controls for production deployment.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T21:44:35.950835+05:30
+- Published: 2026-08-03T01:05:15.746957+05:30
 
 ## Related Tags
 

@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/retrieval-agent-template
-collected_at: '2026-08-02T16:26:38.097261+05:30'
-published_at: '2026-07-25T18:57:22Z'
+collected_at: '2026-08-03T01:09:00.575386+05:30'
+published_at: '2026-08-02T12:38:43Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
-stars: 167
+stars: 168
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-08-21T20:47:35Z'
 pushed_at: '2026-07-25T18:57:25Z'
 resource_id: github:langchain-ai/retrieval-agent-template
-first_seen: '2026-08-02T16:26:38.097261+05:30'
-last_seen: '2026-08-02T16:26:38.097261+05:30'
-last_checked: '2026-08-02T16:26:38.097261+05:30'
+first_seen: '2026-08-03T01:09:00.575386+05:30'
+last_seen: '2026-08-03T01:09:00.575386+05:30'
+last_checked: '2026-08-03T01:09:00.575386+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
-- **Key Components**: Leverages `langgraph-python` for graph-based workflows, enabling structured agent interactions and tool integration.
-- **Updates**: Last modified on **2026-07-25**, with **167 stars** and **53 forks** indicating active community engagement.
+- **Template Purpose**: Provides a structured framework for building retrieval agents using LangGraph, a Python-based graph construction library for LLM workflows.
+
+- **Key Components**: Integrates LangGraph for stateful, multi-actor agent orchestration, optimized for retrieval-augmented generation (RAG) pipelines.
+
+- **Technical Stack**: Python-based, leveraging LangGraph for graph-based agent execution, with recent updates (as of 2026-08-02) ensuring compatibility with current LangChain ecosystem tools.
 
 ## Why It Matters
 
@@ -41,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 167
+- Stars: 168
 - Forks: 53
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-07-25T18:57:22Z
+- Last Updated: 2026-08-02T12:38:43Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-21T20:47:35Z

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-02T21:45:05.493381+05:30'
+collected_at: '2026-08-03T01:05:45.329255+05:30'
 published_at: '2026-08-02T09:08:26Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-02T21:45:05.493381+05:30'
-last_seen: '2026-08-02T21:45:05.493381+05:30'
-last_checked: '2026-08-02T21:45:05.493381+05:30'
+first_seen: '2026-08-03T01:05:45.329255+05:30'
+last_seen: '2026-08-03T01:05:45.329255+05:30'
+last_checked: '2026-08-03T01:05:45.329255+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses while retrieving relevant document snippets.
-
-- **Modular Python Framework**: Open-source toolkit written in Python, designed for extensibility with custom document loaders, retrievers, and LLM integrations (e.g., LangChain compatibility).
-
-- **Scalable Deployment**: Supports local and cloud-based deployment, with features for document preprocessing, vector storage (e.g., FAISS, Chroma), and API endpoints for programmatic access.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs.
+- **Document Processing Pipeline**: Supports ingestion, chunking, and vectorization of documents (e.g., PDFs, text) for efficient retrieval and context-aware responses.
+- **Open-Source & Extensible**: Built in Python with modular design, allowing customization of retrieval strategies, LLMs, and document parsers.
 
 ## Why It Matters
 

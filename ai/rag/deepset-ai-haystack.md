@@ -1,55 +1,72 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/deepset-ai/haystack/discussions
-published_at: '2026-08-02T21:50:40.198410+05:30'
-collected_at: '2026-08-02T21:50:40.198425+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/deepset-ai/haystack
+collected_at: '2026-08-03T01:11:28.014427+05:30'
+published_at: '2026-08-02T16:46:14Z'
 tags:
 - agents
-- anthropic
-- producthunt
+- github-repo
+- python
 - rag
-- web-crawled
 - workflows
+stars: 26091
+language: Python
 status: active
+license: Apache-2.0
+archived: false
+created_at: '2019-11-14T09:05:28Z'
+pushed_at: '2026-08-01T03:06:32Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-08-02T21:50:40.198425+05:30'
-last_seen: '2026-08-02T21:50:40.198425+05:30'
-last_checked: '2026-08-02T21:50:40.198425+05:30'
+first_seen: '2026-08-03T01:11:28.014427+05:30'
+last_seen: '2026-08-03T01:11:28.014427+05:30'
+last_checked: '2026-08-03T01:11:28.014427+05:30'
 health_score: 100
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Summary
 
-- **Haystack GitHub Repository**: Open-source framework by deepset-ai with 26.1k stars, 3k forks, and 74 open issues; supports RAG pipelines, agentic workflows, and modular tool integration.
+- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
 
-- **Haystack 3.0 Launch**: Scheduled for July 20–24, 2026, with discussions focused on new features, debugging tools, and runtime optimizations for retrieval and LLM interactions.
+- **Multi-Use Case Support**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems through a unified Python framework.
 
-- **Community Extensions**: Active discussions on diagnostics engines, runtime security (AgentShield), memory guards, and async execution bridges, highlighting ongoing development in observability, security, and performance.
+- **High-Scale & Extensible**: Designed for scalability with 26K+ GitHub stars, modular architecture, and integration with tools like MCP for multi-agent systems.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-08-02T21:50:40.198410+05:30
+- Owner: deepset-ai
+- Stars: 26091
+- Forks: 2980
+- Language: Python
+- Topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents, context-engineering, framework, genai, generative-ai, information-retrieval, large-language-models, llm, mcp, multi-agent, orchestration, python, rag, retrieval-augmented-generation, semantic-search
+- Last Updated: 2026-08-02T16:46:14Z
+- License: Apache-2.0
+- Archived: No
+- Created At: 2019-11-14T09:05:28Z
+- Pushed At: 2026-08-01T03:06:32Z
 
-## Related Tags
+## Possible Use Cases
 
-- agents
-- anthropic
-- producthunt
-- rag
-- web-crawled
-- workflows
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/deepset-ai/haystack/discussions
+Original source: https://github.com/deepset-ai/haystack

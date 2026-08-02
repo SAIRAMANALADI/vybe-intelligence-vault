@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-08-02T21:51:20.395601+05:30'
-collected_at: '2026-08-02T21:51:20.395615+05:30'
+published_at: '2026-08-03T01:12:43.442790+05:30'
+collected_at: '2026-08-03T01:12:43.442804+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-08-02T21:51:20.395615+05:30'
-last_seen: '2026-08-02T21:51:20.395615+05:30'
-last_checked: '2026-08-02T21:51:20.395615+05:30'
+first_seen: '2026-08-03T01:12:43.442804+05:30'
+last_seen: '2026-08-03T01:12:43.442804+05:30'
+last_checked: '2026-08-03T01:12:43.442804+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent orchestration**: GitHub Copilot CLI enables parallelized subagent workflows via `/fleet`, allowing concurrent execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and `/plan`-to-PR automation.
+- **Multi-Model & Parallel Execution**: Supports `/model` switching and `/fleet` parallelization across multiple AI models (Anthropic, Google, OpenAI) for concurrent task execution with subagents.
 
-- **GitHub-native MCP integration**: Built on GitHub’s Model Context Protocol (`/mcp`), the CLI interacts with issues, branches, and PRs natively, inheriting org policies (branch protections, governance) and enabling seamless IDE-to-CLI transitions.
+- **GitHub-Native Agentic Workflow**: Operates via `/mcp` integration for direct issue/PR management, branch handling, and pull request automation while enforcing org policies (branch protections, required checks).
 
-- **Agentic runtime with SDK extensibility**: Supports custom agents via `AGENTS.md`/`skills`, session persistence (`/resume`), and experimental features (`/experimental show`), while the Copilot SDK (`npm install -g @github/copilot`) allows embedding agentic logic into applications.
+- **Session Persistence & Customization**: Maintains context across sessions with `/resume`, supports `/agent` and `/skills` for custom instructions, and integrates with Copilot SDK for extensible agentic logic.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T21:51:20.395601+05:30
+- Published: 2026-08-03T01:12:43.442790+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-02T21:45:55.492557+05:30'
+collected_at: '2026-08-03T01:06:35.357664+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-02T21:45:55.492557+05:30'
-last_seen: '2026-08-02T21:45:55.492557+05:30'
-last_checked: '2026-08-02T21:45:55.492557+05:30'
+first_seen: '2026-08-03T01:06:35.357664+05:30'
+last_seen: '2026-08-03T01:06:35.357664+05:30'
+last_checked: '2026-08-03T01:06:35.357664+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native features and eBPF for runtime monitoring and enforcement.
-- **Enterprise-Grade RAG Pipeline**: Combines FastAPI backend with TypeScript, vector databases, and GenAI/LLM integration for scalable retrieval-augmented generation (RAG) in SaaS environments.
-- **Security-Centric Architecture**: Designed for AI workload governance, leveraging vector DBs and real-time eBPF-based observability for compliance and threat mitigation.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and low-overhead system-level observability.
+
+- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript components, optimized for SaaS-scale AI workloads and vector database integration.
+
+- **Security-First Governance Model**: Enforces fine-grained access control, audit logging, and policy-driven governance for AI agents via a modular, extensible architecture.
 
 ## Why It Matters
 
@@ -41,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: devloperdevesh
 - Stars: 14
-- Forks: 60
+- Forks: 61
 - Language: TypeScript
 - Topics: backend, fastapi, genai, llm, rag, saas-ai, vector-db
 - Last Updated: 2026-08-01T05:44:27Z

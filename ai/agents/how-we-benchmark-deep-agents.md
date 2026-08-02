@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.langchain.com/blog/how-we-benchmark-deep-agents
-published_at: '2026-08-01T21:52:12.238134+05:30'
-collected_at: '2026-08-01T21:52:12.238148+05:30'
+published_at: '2026-08-03T01:13:10.811011+05:30'
+collected_at: '2026-08-03T01:13:10.811022+05:30'
 tags:
 - agents
 - benchmark
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:how-we-benchmark-deep-agents
-first_seen: '2026-08-01T21:52:12.238148+05:30'
-last_seen: '2026-08-01T21:52:12.238148+05:30'
-last_checked: '2026-08-01T21:52:12.238148+05:30'
+first_seen: '2026-08-03T01:13:10.811022+05:30'
+last_seen: '2026-08-03T01:13:10.811022+05:30'
+last_checked: '2026-08-03T01:13:10.811022+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Harbor-based Evaluation Framework**: Uses Harbor (open-source agent eval runner) with three key components: agent (Deep Agents), dataset (structured tasks), and sandbox (local/LangSmith), where tasks include Docker-defined environments, instructions, and evaluation scripts (`test.sh`) to validate agent artifacts beyond final responses.
+- **Harbor Framework Integration**: Evaluates Deep Agents using Harbor, an open-source framework for agent benchmarks, with tasks defined by Docker environments, instructions, and evaluation scripts (`test.sh`), emphasizing environment-specific testing and artifact validation beyond final responses.
 
-- **Three Domain-Specific Benchmarks**: Evaluates Deep Agents across distinct workloads—**Harbor-Index** (82 end-to-end tasks spanning software engineering, search, data analysis), **𝜏³-bench** (30 multi-turn conversation tasks with simulated users), and **ContextBench** (30 retrieval tasks with embedded corpora requiring self-contained answer synthesis).
+- **Three Benchmark Suites**: Utilizes **Harbor-Index** (82 tasks across software engineering, search, data analysis, and tool use), **𝜏³-bench** (30 multi-turn conversation tasks with simulated users), and **ContextBench** (30 retrieval tasks with embedded corpora) to assess Deep Agents' cross-domain capabilities.
 
-- **Iterative Benchmarking Practices**: Implements multi-run evaluations for statistical significance, maintains a "lite" benchmark (8x faster, 6x cheaper) for rapid iteration, and pairs benchmarks with deterministic unit tests (capability suite) for harness-specific behaviors like tool selection and memory management.
+- **Benchmarking Practices**: Implements multi-run evaluations for statistical significance, maintains a "lite" benchmark (8x faster, 6x cheaper) for rapid iteration, and employs a capability suite of deterministic unit tests for harness behaviors (e.g., tool selection, memory, file operations) to guide model optimization (e.g., v0.7 release slimming middleware and system prompts).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-01T21:52:12.238134+05:30
+- Published: 2026-08-03T01:13:10.811011+05:30
 
 ## Related Tags
 

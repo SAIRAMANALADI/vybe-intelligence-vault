@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-02T21:45:45.525286+05:30'
+collected_at: '2026-08-03T01:06:20.377697+05:30'
 published_at: '2026-07-19T17:15:41Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - jupyter notebook
-- leaderboard
 - rag
 stars: 297
 language: Jupyter Notebook
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-02T21:45:45.525286+05:30'
-last_seen: '2026-08-02T21:45:45.525286+05:30'
-last_checked: '2026-08-02T21:45:45.525286+05:30'
+first_seen: '2026-08-03T01:06:20.377697+05:30'
+last_seen: '2026-08-03T01:06:20.377697+05:30'
+last_checked: '2026-08-03T01:06:20.377697+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: CRAG is a comprehensive benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems, covering diverse tasks and datasets to assess performance across retrieval, generation, and end-to-end metrics.
-
-- **Technical Implementation**: The repository is implemented primarily in Jupyter Notebooks, facilitating interactive experimentation and analysis of RAG pipelines, with structured evaluation protocols for reproducibility.
-
-- **Evaluation Focus**: The benchmark emphasizes critical RAG challenges such as noise robustness, citation accuracy, and long-form generation quality, providing standardized metrics and leaderboards for comparative analysis.
+- **CRAG**: A comprehensive benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
+- **Implementation**: Provided as Jupyter Notebooks, enabling interactive evaluation and reproducibility of RAG models with standardized metrics.
+- **Scope**: Covers multiple dimensions of RAG performance, including retrieval accuracy, generation quality, and robustness under varying conditions.
 
 ## Why It Matters
 

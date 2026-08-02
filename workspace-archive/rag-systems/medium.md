@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured XML-based indexing of all accessible URLs, including `/blog/all`, `/new-story`, `/search`, and `/m/signin` endpoints for authentication and content creation.
-
-- **Authentication flow** leverages OAuth2 via `/m/signin` with `operation=login/register` parameters, redirecting users to post-authentication destinations (e.g., `/blog/all` or `/new-story`) via URL-encoded `redirect` query strings.
-
-- **Static resources** (e.g., `/help`, `/status`, `/about`
+- Medium’s sitemap (`/sitemap.xml`) exposes structured URLs for SEO indexing, including `/blog/all`, `/new-story`, and `/search` endpoints.
+- Authentication flows use OAuth2 redirects (`/m/signin`) with `operation=login/register` parameters and `redirect` query strings for post-auth navigation.
+- Static resources (e.g., `/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png`) leverage CDN-based image optimization with dynamic sizing tokens.
 
 ## Use Cases
 

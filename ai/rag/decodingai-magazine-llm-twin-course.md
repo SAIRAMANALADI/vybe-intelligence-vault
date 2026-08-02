@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-02T21:45:30.538350+05:30'
+collected_at: '2026-08-03T01:06:05.332204+05:30'
 published_at: '2026-08-02T02:34:01Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-02T21:45:30.538350+05:30'
-last_seen: '2026-08-02T21:45:30.538350+05:30'
-last_checked: '2026-08-02T21:45:30.538350+05:30'
+first_seen: '2026-08-03T01:06:05.332204+05:30'
+last_seen: '2026-08-03T01:06:05.332204+05:30'
+last_checked: '2026-08-03T01:06:05.332204+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides hands-on lessons (12+) and source code for building production-ready LLM and RAG systems using LLMOps best practices, covering end-to-end development, deployment, and optimization.
+- **End-to-End LLM & RAG System**: Course provides hands-on guidance for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including 12 hands-on lessons and source code.
 
-- **Tech Stack**: Integrates AWS, Pulumi (IaC), Bytewax, Qdrant (vector DB), Qwak (MLOps), Comet.ml (experiment tracking), and Superlinked (embedding optimization) with Docker for containerization.
+- **Tech Stack**: Utilizes Python-based infrastructure with tools like AWS, Bytewax, Comet-ML, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps), and Superlinked (embedding optimization) for scalable deployment.
 
-- **Focus Areas**: Covers ML system design, MLOps, generative AI, and infrastructure-as-code (IaC) for scalable, production-grade LLM/RAG deployments.
+- **ML System Design Focus**: Covers ML system design, MLOps, and infrastructure-as-code (IaC) with Docker for containerization, emphasizing generative AI, LLMOps, and production-grade ML pipelines.
 
 ## Why It Matters
 

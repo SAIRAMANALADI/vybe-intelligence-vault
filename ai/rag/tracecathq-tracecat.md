@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-02T19:28:07.203179+05:30'
+collected_at: '2026-08-03T01:08:15.499861+05:30'
 published_at: '2026-08-02T13:40:53Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-08-02T06:13:49Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-02T19:28:07.203179+05:30'
-last_seen: '2026-08-02T19:28:07.203179+05:30'
-last_checked: '2026-08-02T19:28:07.203179+05:30'
+first_seen: '2026-08-03T01:08:15.499861+05:30'
+last_seen: '2026-08-03T01:08:15.499861+05:30'
+last_checked: '2026-08-03T01:08:15.499861+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Event-driven security automation platform** built with Python, FastAPI, and Next.js, leveraging Temporal.io for workflow orchestration and Pydantic for data validation.
-- **Low-code, OpenAPI-compliant** system enabling teams and AI agents to define, execute, and monitor security workflows via a structured API interface.
-- **Integrates LLM capabilities** for dynamic decision-making, supports real-time monitoring, and is designed for scalable, agent-based automation in security operations.
+- **Open-source security automation platform** leveraging Python, FastAPI, and Next.js for event-driven workflow orchestration with low-code capabilities.
+- **Integrates LLM, Pydantic, and OpenAPI** for structured AI agent interactions and API-driven security automation via Temporal.io.
+- **Supports monitoring and workflow engine** with 3,752+ stars and 395+ forks, last updated August 2026.
 
 ## Why It Matters
 

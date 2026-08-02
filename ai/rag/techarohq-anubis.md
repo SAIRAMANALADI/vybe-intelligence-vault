@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TecharoHQ/anubis
-collected_at: '2026-08-01T16:30:16.627291+05:30'
-published_at: '2026-08-01T09:19:35Z'
+collected_at: '2026-08-03T01:14:08.213422+05:30'
+published_at: '2026-08-02T19:31:21Z'
 tags:
 - github-repo
 - go
 - rag
 - scripts
-stars: 21066
+stars: 21100
 language: Go
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-03-17T17:35:28Z'
 pushed_at: '2026-07-31T20:16:08Z'
 resource_id: github:techarohq/anubis
-first_seen: '2026-08-01T16:30:16.627291+05:30'
-last_seen: '2026-08-01T16:30:16.627291+05:30'
-last_checked: '2026-08-01T16:30:16.627291+05:30'
+first_seen: '2026-08-03T01:14:08.213422+05:30'
+last_seen: '2026-08-03T01:14:08.213422+05:30'
+last_checked: '2026-08-03T01:14:08.213422+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI Crawler Mitigation**: Implements a lightweight HTTP request "weighing" mechanism to detect and block AI crawlers by analyzing request patterns, headers, and behavioral anomalies without relying on traditional CAPTCHAs or rate-limiting alone.
+- **AI Crawler Detection**: Implements weighted soul-checking mechanisms to distinguish and block AI crawlers from legitimate HTTP requests, leveraging behavioral analysis.
 
-- **Go-Based Implementation**: Leverages Go for high-performance request processing, optimized for low-latency defense against automated scraping while minimizing false positives through heuristic and signature-based detection.
+- **Go-Based Implementation**: Written in Go for high-performance request handling and low-latency defense against automated scraping or data harvesting.
 
-- **Modular Defense Framework**: Designed as a pluggable middleware, enabling integration with web servers (e.g., Nginx, Caddy) or reverse proxies to enforce anti-bot policies dynamically, with extensible rules for evolving AI crawler tactics.
+- **Security-Focused Defense**: Actively maintained (last update: 2026-08-02) to counter evolving AI-driven threats with minimal false positives.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TecharoHQ
-- Stars: 21066
-- Forks: 663
+- Stars: 21100
+- Forks: 664
 - Language: Go
 - Topics: defense, security
-- Last Updated: 2026-08-01T09:19:35Z
+- Last Updated: 2026-08-02T19:31:21Z
 - License: MIT
 - Archived: No
 - Created At: 2025-03-17T17:35:28Z

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langchain
-collected_at: '2026-08-02T21:48:15.684363+05:30'
-published_at: '2026-08-02T15:58:54Z'
+collected_at: '2026-08-03T01:08:50.482935+05:30'
+published_at: '2026-08-02T19:30:05Z'
 tags:
 - agents
 - anthropic
@@ -13,18 +13,17 @@ tags:
 - openai
 - python
 - rag
-- workflows
-stars: 143232
+stars: 143236
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2022-10-17T02:58:36Z'
-pushed_at: '2026-08-02T08:50:40Z'
+pushed_at: '2026-08-02T19:34:59Z'
 resource_id: github:langchain-ai/langchain
-first_seen: '2026-08-02T21:48:15.684363+05:30'
-last_seen: '2026-08-02T21:48:15.684363+05:30'
-last_checked: '2026-08-02T21:48:15.684363+05:30'
+first_seen: '2026-08-03T01:08:50.482935+05:30'
+last_seen: '2026-08-03T01:08:50.482935+05:30'
+last_checked: '2026-08-03T01:08:50.482935+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent & LLM Integration Framework**: Open-source Python library (`langchain`) for building AI agents with support for LLMs (OpenAI, Anthropic, Gemini), multi-agent orchestration, and enterprise-grade tooling via `langgraph` and `deepagents`.
-
-- **Enterprise & RAG Capabilities**: Integrates retrieval-augmented generation (RAG), Pydantic-based data validation, and modular components for scalable AI agent systems in production environments.
-
-- **Polyglot & Tooling Ecosystem**: Supports Python/TypeScript, with 143K+ GitHub stars and active forks, enabling cross-platform agent development, tool integration, and extensibility for generative AI workflows.
+- **Framework**: Open-source Python library (`langchain`) for building AI agents, LLMs, and generative AI applications with modular components (e.g., RAG, multi-agent systems).
+- **Integrations**: Supports major providers (OpenAI, Anthropic, Gemini) and tools (Pydantic, LangGraph) for enterprise-grade agent orchestration.
+- **Extensibility**: TypeScript support, modular architecture, and active community (143K+ stars) for multi-agent, RAG, and enterprise use cases.
 
 ## Why It Matters
 
@@ -45,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 143232
-- Forks: 23857
+- Stars: 143236
+- Forks: 23860
 - Language: Python
 - Topics: agents, ai, ai-agents, anthropic, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag, typescript
-- Last Updated: 2026-08-02T15:58:54Z
+- Last Updated: 2026-08-02T19:30:05Z
 - License: MIT
 - Archived: No
 - Created At: 2022-10-17T02:58:36Z
-- Pushed At: 2026-08-02T08:50:40Z
+- Pushed At: 2026-08-02T19:34:59Z
 
 ## Possible Use Cases
 

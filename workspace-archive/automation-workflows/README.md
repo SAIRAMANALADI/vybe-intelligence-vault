@@ -12,8 +12,8 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [Stainless · GitHub](https://github.com/stainless-api) (template - ESSENTIAL Tier)
 - [git/git](https://github.com/git/git) (workflow - ESSENTIAL Tier)
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (benchmark - ESSENTIAL Tier)
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) (template - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 
@@ -24,8 +24,8 @@ https://github.com/n8n-io/n8n (n8n)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [Stainless · GitHub](https://github.com/stainless-api)
 - [git/git](https://github.com/git/git)
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 - [OpenAI · GitHub](https://github.com/openai)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-02 22:02 IST*
+*Last updated: 2026-08-03 01:22 IST*

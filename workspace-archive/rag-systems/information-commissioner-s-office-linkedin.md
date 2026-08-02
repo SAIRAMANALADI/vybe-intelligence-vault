@@ -3,7 +3,7 @@ title: Information Commissioner's Office | LinkedIn
 archive_category: rag-systems
 source_category: ai/rag
 source_url: http://linkedin.com/company/information-commissioner's-office
-resource_id: blog:information-commissioner-s-office-linkedin
+resource_id: blog:information-commissioner-s-office-linkedin-8d780ff2
 local_vault_path: ai/rag/information-commissioner-s-office-linkedin.md
 quality_score: 70
 archive_score: 72

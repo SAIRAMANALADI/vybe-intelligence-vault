@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features
-published_at: '2026-08-02T19:35:44.062327+05:30'
-collected_at: '2026-08-02T19:35:44.062339+05:30'
+published_at: '2026-08-03T01:12:48.228138+05:30'
+collected_at: '2026-08-03T01:12:48.228155+05:30'
 tags:
 - rag
 - scripts
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-features-github
-first_seen: '2026-08-02T19:35:44.062339+05:30'
-last_seen: '2026-08-02T19:35:44.062339+05:30'
-last_checked: '2026-08-02T19:35:44.062339+05:30'
+first_seen: '2026-08-03T01:12:48.228155+05:30'
+last_seen: '2026-08-03T01:12:48.228155+05:30'
+last_checked: '2026-08-03T01:12:48.228155+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Copilot & AI Integration**: Provides AI-powered code suggestions (whole lines/functions) via GitHub Copilot, with Copilot Autofix resolving 90% of CodeQL alerts in supported languages (JavaScript, TypeScript, Java, Python) and advanced secret scanning using AI to detect elusive secrets.
+- **GitHub Copilot & AI-Powered Features**: Integrates AI-driven code suggestions (whole lines/functions), automated code review fixes (90% alert remediation in JS/TS/Java/Python via GitHub Copilot Autofix), and AI-enhanced secret detection for elusive secrets like passwords.
 
-- **Automation & CI/CD**: GitHub Actions enables workflow automation (build, test, deploy) with thousands of community actions; supports self-hosted and GitHub-hosted runners (Linux, macOS, Windows, ARM, GPU) and workflow visualization for real-time tracking and debugging.
+- **Automation & CI/CD Pipeline**: GitHub Actions enables custom workflows for building, testing, and deploying; supports self-hosted and GitHub-hosted runners (Linux/macOS/Windows/ARM/GPU), workflow visualization, and preconfigured templates for standardization.
 
-- **Security & Compliance**: GitHub Advanced Security (GHAS) integrates code scanning (CodeQL), secret scanning, Dependabot for vulnerability alerts/updates, and security campaigns to remediate up to 1,000 alerts at scale, with dependency graph and advisory database for supply chain risk management.
+- **Security & Supply Chain Protection**: GitHub Advanced Security includes CodeQL-based code scanning, Dependabot for vulnerability alerts/updates, secret scanning for exposed credentials, and dependency graph analysis to track vulnerable dependencies and licenses.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:35:44.062327+05:30
+- Published: 2026-08-03T01:12:48.228138+05:30
 
 ## Related Tags
 

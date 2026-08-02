@@ -3,7 +3,7 @@ title: Cohere Documentation | Cohere
 archive_category: ai-tools-products
 source_category: ai/resources
 source_url: https://docs.cohere.com
-resource_id: blog:cohere-documentation-cohere
+resource_id: blog:cohere-documentation-cohere-b4859538
 local_vault_path: ai/resources/cohere-documentation-cohere.md
 quality_score: 70
 archive_score: 72

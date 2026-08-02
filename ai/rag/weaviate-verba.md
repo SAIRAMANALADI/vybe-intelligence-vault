@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/Verba
-collected_at: '2026-08-02T21:50:24.584229+05:30'
+collected_at: '2026-08-03T01:11:23.040051+05:30'
 published_at: '2026-08-02T16:00:22Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: true
 created_at: '2023-07-28T16:53:42Z'
 pushed_at: '2026-06-08T09:25:18Z'
 resource_id: github:weaviate/verba
-first_seen: '2026-08-02T21:50:24.584229+05:30'
-last_seen: '2026-08-02T21:50:24.584229+05:30'
-last_checked: '2026-08-02T21:50:24.584229+05:30'
+first_seen: '2026-08-03T01:11:23.040051+05:30'
+last_seen: '2026-08-03T01:11:23.040051+05:30'
+last_checked: '2026-08-03T01:11:23.040051+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Weaviate-powered chatbot leveraging Retrieval Augmented Generation (RAG) for enhanced contextual responses by dynamically fetching relevant data from a vector database.
+- **Purpose**: Weaviate-based Retrieval Augmented Generation (RAG) chatbot enabling contextual question answering with vector search and generative AI.
 
-- **Python-Based Architecture**: Built in Python, utilizing Weaviate’s vector search and generative AI capabilities for scalable, low-latency retrieval and generation workflows.
+- **Technical Stack**: Python, leveraging Weaviate’s vector database for retrieval and LLM integration for generation.
 
-- **Active Development**: Last updated in August 2026, indicating ongoing maintenance and feature enhancements for improved RAG performance and usability.
+- **Key Features**: Supports hybrid search (vector + keyword), modular architecture for custom pipelines, and real-time RAG workflows.
 
 ## Why It Matters
 

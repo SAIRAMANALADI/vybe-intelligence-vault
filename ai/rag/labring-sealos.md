@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/labring/sealos
-collected_at: '2026-08-02T19:26:52.126842+05:30'
+collected_at: '2026-08-03T01:07:00.389296+05:30'
 published_at: '2026-08-02T09:20:32Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - typescript
 stars: 18312
@@ -19,9 +20,9 @@ archived: false
 created_at: '2018-08-15T12:22:50Z'
 pushed_at: '2026-07-31T15:31:27Z'
 resource_id: github:labring/sealos
-first_seen: '2026-08-02T19:26:52.126842+05:30'
-last_seen: '2026-08-02T19:26:52.126842+05:30'
-last_checked: '2026-08-02T19:26:52.126842+05:30'
+first_seen: '2026-08-03T01:07:00.389296+05:30'
+last_seen: '2026-08-03T01:07:00.389296+05:30'
+last_checked: '2026-08-03T01:07:00.389296+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Sealos**: A TypeScript-based tool for deploying GitHub projects or AI-generated code as Kubernetes applications, with automated, AI-driven operations for continuous uptime.
-- **Core Features**: Supports HA Kubernetes clusters via `kubeadm`, `ipvs` load balancing, and integrates with Docker for containerization; enables GitHub/Git source deployments.
-- **Architecture**: Combines Go (Golang) backend with TypeScript frontend, leveraging `container` and `cloudos` for scalable, production-grade deployments.
+- **Purpose**: Enables deployment of GitHub projects or AI-generated code as Kubernetes applications with automated, AI-driven operations for continuous uptime.
+- **Technical Stack**: Primarily TypeScript with supporting components in Go, leveraging `kubeadm`, `IPVS`, and `Docker` for orchestration and high availability (HA) setups.
+- **Features**: Supports cloud-native OS deployments, integrates with `container` runtimes, and provides HA configurations via `kubernetes-ha` for scalable, resilient operations.
 
 ## Why It Matters
 

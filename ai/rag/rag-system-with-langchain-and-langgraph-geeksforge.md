@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph/
-published_at: '2026-08-02T14:09:28.713673+05:30'
-collected_at: '2026-08-02T14:09:28.713684+05:30'
+published_at: '2026-08-03T01:05:31.538052+05:30'
+collected_at: '2026-08-03T01:05:31.538067+05:30'
 tags:
 - agents
 - dataset
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-system-with-langchain-and-langgraph-geeksforge
-first_seen: '2026-08-02T14:09:28.713684+05:30'
-last_seen: '2026-08-02T14:09:28.713684+05:30'
-last_checked: '2026-08-02T14:09:28.713684+05:30'
+first_seen: '2026-08-03T01:05:31.538067+05:30'
+last_seen: '2026-08-03T01:05:31.538067+05:30'
+last_checked: '2026-08-03T01:05:31.538067+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Combines LangChain (for document ingestion, chunking, and vector embeddings via `OpenAIEmbeddings`) and LangGraph (for stateful workflow orchestration) to enable retrieval-augmented generation, where user queries are enriched with context from vectorized document chunks (`InMemoryVectorStore`) before LLM inference.
+- **RAG Pipeline Architecture**: Combines LangChain for document ingestion, chunking, and vector embeddings (via `OpenAIEmbeddings`) with LangGraph for orchestrating retrieval (`InMemoryVectorStore.similarity_search`) and generation steps, ensuring context-aware responses from LLM (e.g., GPT-4.1).
 
-- **Modular Workflow Execution**: Implements a stateful graph (`StateGraph`) with nodes for classification (`classify`), retrieval (`retrieve`), generation (`generate`), and refinement (`refine`), where each step processes a `TypedDict` state containing `question`, `context` (retrieved `Document` objects), and `answer` fields.
+- **State Management & Workflow**: Uses a `TypedDict`-based `State` to track `question`, `context` (retrieved `Document` chunks), and `answer`, with LangGraph nodes (`retrieve`, `generate`, `classify`, `refine`) executing sequentially to modularize the pipeline.
 
-- **Technical Implementation**: Uses `RecursiveCharacterTextSplitter` (chunk_size=1000, overlap=200) for document segmentation, `langgraph` for pipeline visualization (via `networkx`/`matplotlib`), and OpenAI’s `gpt-4.1` (temperature=0.3) with a custom prompt template to constrain responses to retrieved context, ensuring grounded, domain-adaptable answers.
+- **Vector Search & Embedding Optimization**: Implements `RecursiveCharacterTextSplitter` (chunk_size=1000, overlap=200) for document segmentation, stores embeddings in an in-memory vector store, and retrieves top-*k* (k=5) relevant chunks via cosine similarity for efficient, low-latency inference.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:09:28.713673+05:30
+- Published: 2026-08-03T01:05:31.538052+05:30
 
 ## Related Tags
 

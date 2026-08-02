@@ -16,8 +16,8 @@ Curated highlights from the current week's collection, representing high-quality
 *   [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (Score: 70) - Category: `ai-coding-agents/`
 *   [Stylised pathways to “well below 2°C”](https://cicero.oslo.no/en/articles/stylised-pathways-to-well-below-2c) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [Data privacy and security - Analytics Help](https://support.google.com/analytics/topic/2919631) (Score: 70) - Category: `ai-coding-agents/`
 *   [Graph Neural Network-based Algorithm Selection for the Traveling Salesman Problem: A Systematic Study of Cost and Rank Losses under Distinct Budget Regimes](https://arxiv.org/abs/2607.18632) (Score: 70) - Category: `ai-coding-agents/`
 *   [Algorithmic Constitutionalism](https://arxiv.org/abs/2606.12437) (Score: 70) - Category: `ai-coding-agents/`
-*   [RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation](https://arxiv.org/abs/2606.14010) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

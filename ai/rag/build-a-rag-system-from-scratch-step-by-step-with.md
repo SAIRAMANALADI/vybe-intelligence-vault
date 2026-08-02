@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
-published_at: '2026-08-02T14:09:24.541727+05:30'
-collected_at: '2026-08-02T14:09:24.541738+05:30'
+published_at: '2026-08-03T01:05:26.816629+05:30'
+collected_at: '2026-08-03T01:05:26.816645+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
-first_seen: '2026-08-02T14:09:24.541738+05:30'
-last_seen: '2026-08-02T14:09:24.541738+05:30'
-last_checked: '2026-08-02T14:09:24.541738+05:30'
+first_seen: '2026-08-03T01:05:26.816645+05:30'
+last_seen: '2026-08-03T01:05:26.816645+05:30'
+last_checked: '2026-08-03T01:05:26.816645+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Implements BM25 keyword search + vector similarity (OpenAI `text-embedding-3-small`) in ChromaDB, with cross-encoder reranking using `sentence-transformers/cross-encoder/ms-marco-MiniLM-L-6-v2` (free, no API key required) to improve precision.
+- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search (for exact term matching) with vector similarity search (for semantic relevance) using `BM25Retriever` and `Chroma` vector store, followed by cross-encoder reranking to improve candidate relevance.
 
-- **Reranking Mechanism**: Uses a lightweight cross-encoder (33M params) to re-score top-20 candidates from hybrid retrieval, boosting Mean Reciprocal Rank (MRR) by ~15-20% over standalone vector search in benchmarks.
+- **Cross-Encoder Reranking**: Uses a lightweight, free cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to reorder retrieved candidates based on contextual relevance, significantly improving retrieval precision over standalone BM25 or vector search.
 
-- **Performance Metrics**: Achieves **~92% retrieval accuracy** on test queries (L2 < 0.7 threshold) and **~85% answer correctness** (RAGAS `faithfulness` metric) with GPT-4o-mini, at ~$0.0001/query cost (OpenAI embeddings + reranker).
+- **Implementation**: Implements hybrid search via `BM25Retriever` + `Chroma` vector store with `k=20` candidates, followed by reranking with a cross-encoder to select top-4 documents for downstream RAG generation.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:09:24.541727+05:30
+- Published: 2026-08-03T01:05:26.816629+05:30
 
 ## Related Tags
 

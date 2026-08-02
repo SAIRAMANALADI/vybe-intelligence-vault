@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-02T21:45:50.478657+05:30'
+collected_at: '2026-08-03T01:06:30.372054+05:30'
 published_at: '2026-07-30T15:36:09Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-02T21:45:50.478657+05:30'
-last_seen: '2026-08-02T21:45:50.478657+05:30'
-last_checked: '2026-08-02T21:45:50.478657+05:30'
+first_seen: '2026-08-03T01:06:30.372054+05:30'
+last_seen: '2026-08-03T01:06:30.372054+05:30'
+last_checked: '2026-08-03T01:06:30.372054+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high fluency.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating retrieved documents to mislead LLMs into generating incorrect or harmful outputs.
 
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by crafting adversarial documents that manipulate the retrieval process, ensuring target documents are prioritized during inference, thereby biasing the LLM’s responses toward attacker-specified content.
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by injecting adversarial contexts into the retrieval database, causing the model to prioritize poisoned data over legitimate sources during generation.
 
-- **Evaluation & Impact**: Validated on multiple LLMs and RAG configurations, showing significant degradation in response accuracy (up to **X%** reduction in factual correctness) and demonstrating real-world applicability across domains like QA systems and chatbots.
+- **Evaluation & Impact**: Validates effectiveness through extensive experiments on multiple LLMs and RAG architectures, highlighting significant degradation in response accuracy and potential security risks in real-world deployments.
 
 ## Why It Matters
 

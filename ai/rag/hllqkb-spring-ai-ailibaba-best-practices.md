@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-02T21:45:30.452502+05:30'
+collected_at: '2026-08-03T01:06:10.325261+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - java
 - rag
-- reddit
 - workflows
 stars: 36
 language: Java
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-02T21:45:30.452502+05:30'
-last_seen: '2026-08-02T21:45:30.452502+05:30'
-last_checked: '2026-08-02T21:45:30.452502+05:30'
+first_seen: '2026-08-03T01:06:10.325261+05:30'
+last_seen: '2026-08-03T01:06:10.325261+05:30'
+last_checked: '2026-08-03T01:06:10.325261+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based question-answering system using **Server-Sent Events (SSE) streams**, **Agent-based workflows**, and **Retrieval-Augmented Generation (RAG)** with **knowledge graphs** for enhanced contextual retrieval.
+- **Architecture**: Implements a Java-based AI Q&A system integrating **SSE streaming**, **Agent intelligence**, **knowledge graph RAG**, **FunctionCall**, and **historical message management** for real-time interactions.
 
-- **Multi-Modal & Advanced Features**: Integrates **Function Calling**, **historical message handling**, **image generation (e.g., Stable Diffusion)**, **image understanding (OCR/CLIP)**, and **vector database storage** (e.g., Milvus/Pinecone) for embedding-based retrieval.
+- **Multimodal Capabilities**: Supports **image generation**, **image understanding**, **Embedding models**, and **Vector Database** integration for enhanced RAG workflows.
 
-- **Technical Stack**: Built in **Java** with **Spring AI**, **Embedding models** (e.g., BERT, Sentence-BERT), and **Alibaba Cloud AI services** (e.g., DashScope, Tongyi Qianwen) for LLM inference and multimodal processing.
+- **Data Pipeline**: Utilizes **RAG techniques** with **VectorDB** for retrieval, **Embedding models** for semantic search, and **knowledge graph** for structured reasoning.
 
 ## Why It Matters
 

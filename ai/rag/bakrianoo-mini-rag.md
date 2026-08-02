@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-08-02T21:46:05.535401+05:30'
+collected_at: '2026-08-03T01:06:45.407731+05:30'
 published_at: '2026-08-02T15:16:36Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 672
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-08-02T21:46:05.535401+05:30'
-last_seen: '2026-08-02T21:46:05.535401+05:30'
-last_checked: '2026-08-02T21:46:05.535401+05:30'
+first_seen: '2026-08-03T01:06:45.407731+05:30'
+last_seen: '2026-08-03T01:06:45.407731+05:30'
+last_checked: '2026-08-03T01:06:45.407731+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
-- **Modular Architecture**: Implements a structured approach with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration, optimized for scalability.
-- **GenAI Integration**: Demonstrates real-time RAG workflows with FastAPI endpoints, leveraging GenAI models (e.g., Hugging Face transformers) and CI/CD-ready Docker configurations.
+- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application in Python, covering end-to-end implementation from data ingestion to deployment.
+
+- **Tech Stack**: Utilizes FastAPI for backend, Docker for containerization, and integrates GenAI models with a modular architecture for scalability and reproducibility.
+
+- **Key Features**: Includes vector database integration, retrieval mechanisms, and evaluation metrics, with a focus on educational clarity and practical deployment using Docker.
 
 ## Why It Matters
 

@@ -4,19 +4,20 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-08-02T21:51:19.099150+05:30'
-collected_at: '2026-08-02T21:51:19.099163+05:30'
+published_at: '2026-08-03T01:11:38.547202+05:30'
+collected_at: '2026-08-03T01:11:38.547215+05:30'
 tags:
 - agents
 - benchmark
 - reddit
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-08-02T21:51:19.099163+05:30'
-last_seen: '2026-08-02T21:51:19.099163+05:30'
-last_checked: '2026-08-02T21:51:19.099163+05:30'
+first_seen: '2026-08-03T01:11:38.547215+05:30'
+last_seen: '2026-08-03T01:11:38.547215+05:30'
+last_checked: '2026-08-03T01:11:38.547215+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Architecture**: Speechify Agents provide a low-latency real-time pipeline for voice interactions, enabling speech-in, agent processing, and speech-out via `POST /v1/agents/{id}/conversations`, returning a short-lived token/URL for session initiation.
+- **Agent Definition**: Speechify Agents are reusable entities defined by prompt, voice, tools, and evaluation criteria, enabling real-time voice interactions via web or phone, with API stability in beta requiring version pinning.
 
-- **Core Features**: Supports curated Speechify voices (excluding cloned/personal voices), tools (backend calls, device execution, MCP servers, built-ins like `end_call`), transcript persistence with timestamps/tool traces, and post-call LLM-graded evaluations.
+- **Real-Time Pipeline**: The system provides low-latency, real-time voice sessions (`POST /v1/agents/{id}/conversations`) with bidirectional audio, transcript persistence (with timestamps/tool traces), and post-call LLM-graded evaluations.
 
-- **Use Cases & Deployment**: Designed for inbound/outbound support, IVR replacement, and structured data collection; deployable via no-code console or API with webhook-based lifecycle event notifications.
+- **Tool Integration**: Agents support dynamic tool invocation (backend calls, device code execution, MCP servers, or built-ins like `end_call`) and can be configured via no-code console workflows for IVR replacement, inbound/outbound automation, or support triage.
 
 ## Why It Matters
 
@@ -38,13 +39,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T21:51:19.099150+05:30
+- Published: 2026-08-03T01:11:38.547202+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
 - reddit
+- scripts
 - web-crawled
 - workflows
 

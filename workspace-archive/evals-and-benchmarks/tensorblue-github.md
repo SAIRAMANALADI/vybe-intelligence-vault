@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub user `tensorblue` (ID: 253736847) has **0 public repositories, projects, or packages**, with **51 stars** across unspecified content.
-- User has **2 followers** and **0 following**, with no visible activity or contributions in the displayed metadata.
-- GitHub’s UI indicates a loading error when attempting to view repositories, suggesting potential API/data retrieval issues.
+- GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **51 stars** across unspecified content.
+- User profile shows **2 followers, 0 following**, with options to block/report but no visible activity or contributions.
+- Error state indicates **"Something went wrong"** when loading repositories, suggesting potential API/data retrieval failure.
 
 ## Use Cases
 

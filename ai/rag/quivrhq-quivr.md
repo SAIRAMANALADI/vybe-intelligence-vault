@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-02T21:45:50.490909+05:30'
+collected_at: '2026-08-03T01:06:30.377769+05:30'
 published_at: '2026-08-02T15:53:00Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-02T21:45:50.490909+05:30'
-last_seen: '2026-08-02T21:45:50.490909+05:30'
-last_checked: '2026-08-02T21:45:50.490909+05:30'
+first_seen: '2026-08-03T01:06:30.377769+05:30'
+last_seen: '2026-08-03T01:06:30.377769+05:30'
+last_checked: '2026-08-03T01:06:30.377769+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for product-specific needs.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while supporting customization for product-specific needs.
 
-- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse AI and database infrastructures.
+- **Multi-LLM & Vectorstore Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse AI and database backends.
 
-- **Full-Stack Integration**: Provides a Python-based backend with Docker support, alongside a React/TypeScript frontend, facilitating end-to-end AI-powered solutions with file ingestion and privacy controls.
+- **Full-Stack Integration**: Provides a Python-based backend with Docker support, React frontend, and TypeScript/JavaScript compatibility, facilitating end-to-end AI-powered solutions with file ingestion, API-driven interactions, and privacy/security features.
 
 ## Why It Matters
 

@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-84%2C858-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-144%2C894-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--03-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **84,858 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **144,894 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,394</p>
-        <p><b>Active:</b> 14,949 | <b>Inactive:</b> 445</p>
+        <p><b>Resources tracked:</b> 16,431</p>
+        <p><b>Active:</b> 15,986 | <b>Inactive:</b> 445</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,105</p>
+        <p><b>Archive Files:</b> 61,125</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 84,858 files</p>
-        <p><b>Last Update:</b> 2026-08-03 00:56 IST</p>
+        <p><b>Total Vault Size:</b> 144,894 files</p>
+        <p><b>Last Update:</b> 2026-08-03 01:23 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,16 +210,20 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Observations API - Langfuse](ai/rag/observations-api-langfuse.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Metrics API - Langfuse](ai/rag/metrics-api-langfuse.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Full-Text Search - Langfuse](ai/agents/full-text-search-langfuse.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Styles in Compose | Jetpack Compose | Android Developers](ai/agents/styles-in-compose-jetpack-compose-android-develope.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[ClickHouse/ClickHouse](ai/resources/clickhouse-clickhouse.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Making sure you're not a bot!](ai/resources/making-sure-you-re-not-a-bot.md)** • Rank: <kbd>+1687</kbd>
+- 🔼 **[Configure markup](ai/rag/configure-markup.md)** • Rank: <kbd>+93</kbd>
+- 🔼 **[crypto.Hash](ai/resources/crypto-hash.md)** • Rank: <kbd>+97</kbd>
+- 🔼 **[node/SECURITY.md at main · nodejs/node · GitHub](ai/rag/nodejs-node.md)** • Rank: <kbd>+36</kbd>
+- 🔼 **[17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)** • Rank: <kbd>+1359</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Microsoft raises Xbox prices by up to 43%](ai/community/microsoft-raises-xbox-prices-by-up-to-43.md)** • Score: `39`
+- 🆕 **[Data protection adequacy for non-EU countries](ai/rag/data-protection-adequacy-for-non-eu-countries.md)** • Score: `0`
+- 🆕 **[Data privacy and security - Analytics Help](ai/resources/data-privacy-and-security-analytics-help.md)** • Score: `0`
+- 🆕 **[Usage Policy | Cohere](ai/rag/usage-policy-cohere.md)** • Score: `0`
+- 🆕 **[Create, Grow & Earn on YouTube | YouTube for Creators](ai/resources/create-grow-earn-on-youtube-youtube-for-creators.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

@@ -4,12 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huangjia2019/ai-agents
-collected_at: '2026-08-02T21:46:55.529175+05:30'
+collected_at: '2026-08-03T01:07:35.396942+05:30'
 published_at: '2026-07-28T07:55:22Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
+- models
 - openai
 stars: 507
 language: Jupyter Notebook
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-05-10T10:40:28Z'
 pushed_at: '2025-11-05T04:12:34Z'
 resource_id: github:huangjia2019/ai-agents
-first_seen: '2026-08-02T21:46:55.529175+05:30'
-last_seen: '2026-08-02T21:46:55.529175+05:30'
-last_checked: '2026-08-02T21:46:55.529175+05:30'
+first_seen: '2026-08-03T01:07:35.396942+05:30'
+last_seen: '2026-08-03T01:07:35.396942+05:30'
+last_checked: '2026-08-03T01:07:35.396942+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, designed as a beginner's guide to LLM development with minimal complexity.
-- **Content**: Contains simple Jupyter Notebook examples, serving as a high-level overview; directs users to OpenAI Cookbook and LangChain for more advanced implementations.
-- **Metadata**: 507 stars, 133 forks, last updated July 28, 2026, primarily in Jupyter Notebook format, covering topics like agent frameworks, AI, LLM, and NLP.
+- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, serving as a basic guide for beginners in LLM development.
+- **Content**: Contains simple starter examples; directs users to more advanced resources like OpenAI Cookbook and LangChain Examples for deeper exploration.
+- **Technical Details**: Written in Jupyter Notebook, covering topics such as agents, AI, LLM, and NLP; last updated on 2026-07-28.
 
 ## Why It Matters
 

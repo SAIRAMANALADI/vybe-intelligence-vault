@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
-published_at: '2026-08-02T14:15:26.120236+05:30'
-collected_at: '2026-08-02T14:15:26.120247+05:30'
+published_at: '2026-08-03T01:11:38.984869+05:30'
+collected_at: '2026-08-03T01:11:38.984878+05:30'
 tags:
 - hackernews
 - reddit
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:python-tutorial-geeksforgeeks
-first_seen: '2026-08-02T14:15:26.120247+05:30'
-last_seen: '2026-08-02T14:15:26.120247+05:30'
-last_checked: '2026-08-02T14:15:26.120247+05:30'
+first_seen: '2026-08-03T01:11:38.984878+05:30'
+last_seen: '2026-08-03T01:11:38.984878+05:30'
+last_checked: '2026-08-03T01:11:38.984878+05:30'
 health_score: 100
 ---
 
@@ -25,8 +25,8 @@ health_score: 100
 ## Summary
 
 - Python is a high-level, cross-platform language with strong library support (e.g., NumPy, Pandas, TensorFlow) for AI, data science, and web development (Django/Flask).
-- Core OOP principles (encapsulation, inheritance, polymorphism) and advanced features (decorators, iterators) are integral to Python's modular design.
-- Exception handling, file/database operations (MySQL/MongoDB), and functional tools (lambda, `*args/**kwargs`) extend Python's robustness for scalable applications.
+- Core OOP principles (encapsulation, inheritance, polymorphism) and functional tools (lambda, `*args`/`**kwargs`, decorators) are integral to Python's modular design.
+- Exception handling, file/database operations (MySQL/MongoDB), and advanced data structures (collections module) enable robust, scalable applications.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T14:15:26.120236+05:30
+- Published: 2026-08-03T01:11:38.984869+05:30
 
 ## Related Tags
 

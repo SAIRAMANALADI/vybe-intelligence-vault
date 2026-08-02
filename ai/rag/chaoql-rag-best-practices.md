@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-02T21:45:25.456339+05:30'
+collected_at: '2026-08-03T01:06:05.328773+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- models
 - python
 - rag
 stars: 95
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-02T21:45:25.456339+05:30'
-last_seen: '2026-08-02T21:45:25.456339+05:30'
-last_checked: '2026-08-02T21:45:25.456339+05:30'
+first_seen: '2026-08-03T01:06:05.328773+05:30'
+last_seen: '2026-08-03T01:06:05.328773+05:30'
+last_checked: '2026-08-03T01:06:05.328773+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques with Python, focusing on optimizing large model performance via structured prompt engineering and dynamic context retrieval.
-- **Modular Architecture**: Repository provides a scalable, modular pipeline for document processing, embedding generation (e.g., Sentence-BERT, BGE), and vector database integration (e.g., FAISS, Milvus).
-- **Evaluation & Benchmarking**: Includes scripts for quantitative assessment of RAG systems using metrics like answer relevance, context precision, and latency, with support for custom datasets and A/B testing.
+- **Modular RAG Pipeline**: Implements a structured retrieval-augmented generation (RAG) framework in Python, emphasizing modular components for document retrieval, embedding, and LLM integration.
+- **Optimized Embedding Strategies**: Demonstrates advanced techniques for document chunking, vector indexing (e.g., FAISS, Chroma), and hybrid retrieval (dense + sparse) to enhance contextual relevance.
+- **Evaluation & Benchmarking**: Includes scripts for RAG performance assessment (e.g., retrieval accuracy, generation quality) and best practices for fine-tuning embeddings/LLMs on domain-specific datasets.
 
 ## Why It Matters
 

@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langgraphjs
-collected_at: '2026-08-02T21:48:25.709620+05:30'
-published_at: '2026-08-02T15:36:27Z'
+collected_at: '2026-08-03T01:09:05.513324+05:30'
+published_at: '2026-08-02T17:01:10Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
 - workflows
-stars: 3168
+stars: 3169
 language: TypeScript
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-09T17:40:12Z'
 pushed_at: '2026-08-01T22:02:25Z'
 resource_id: github:langchain-ai/langgraphjs
-first_seen: '2026-08-02T21:48:25.709620+05:30'
-last_seen: '2026-08-02T21:48:25.709620+05:30'
-last_checked: '2026-08-02T21:48:25.709620+05:30'
+first_seen: '2026-08-03T01:09:05.513324+05:30'
+last_seen: '2026-08-03T01:09:05.513324+05:30'
+last_checked: '2026-08-03T01:09:05.513324+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Graph-based Agent Framework**: LangGraphJS enables building resilient language agents using graph structures, allowing for complex workflow orchestration and state management in TypeScript.
+- **Graph-Based Agent Framework**: LangGraphJS enables building resilient language agents using graph-based workflows, allowing complex agentic systems to be modeled as stateful graphs with nodes (tools, LLM calls) and edges (control flow/logic).
 
-- **TypeScript Implementation**: The framework is implemented in TypeScript, leveraging Node.js for runtime execution and providing type-safe agent development.
+- **TypeScript Implementation**: Provides a TypeScript-first SDK for constructing agent graphs, leveraging modern async/await patterns and type safety for robust agent orchestration in Node.js environments.
 
-- **Stateful Multi-Agent Systems**: Supports stateful, multi-agent systems with cyclic graphs, enabling persistent memory, tool usage, and conditional branching in agent workflows.
+- **Stateful & Modular Design**: Supports persistent state management across graph traversals, with modular components (e.g., tools, memory) that can be composed into hierarchical or parallel workflows for scalable agent systems.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 3168
+- Stars: 3169
 - Forks: 537
 - Language: TypeScript
 - Topics: agents, ai, artificial-intelligence, generative-ai, llm, node, typescript
-- Last Updated: 2026-08-02T15:36:27Z
+- Last Updated: 2026-08-02T17:01:10Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-09T17:40:12Z

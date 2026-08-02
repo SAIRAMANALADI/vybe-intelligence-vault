@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://chromium.googlesource.com/webm/libwebp/
-published_at: '2026-08-02T03:51:33.563765+05:30'
-collected_at: '2026-08-02T03:51:33.563777+05:30'
+published_at: '2026-08-03T01:16:17.226371+05:30'
+collected_at: '2026-08-03T01:16:17.226384+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:webm-libwebp-git-at-google
-first_seen: '2026-08-02T03:51:33.563777+05:30'
-last_seen: '2026-08-02T03:51:33.563777+05:30'
-last_checked: '2026-08-02T03:51:33.563777+05:30'
+first_seen: '2026-08-03T01:16:17.226384+05:30'
+last_seen: '2026-08-03T01:16:17.226384+05:30'
+last_checked: '2026-08-03T01:16:17.226384+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure**: Hosted on Google's Gitiles, the `libwebp` repository under the WebM project contains branches (e.g., `main`, `0.2.0`–`0.5.1`) and tags (e.g., `v1.6.0`, `webp-rfc9649`) for version control, with recent commits (e.g., `733c91e`, `3757b8a`) focusing on AVX2 optimizations and build script fixes.
+- **Repository Structure**: Hosted on Chromium's Gerrit instance (`chromium.googlesource.com`), containing the `libwebp` library with branches (e.g., `main`, `0.5.1`) and tags (e.g., `v1.6.0`, `webp-rfc9649`), alongside active development commits (e.g., AVX2 fixes, `xcframeworkbuild.sh` updates).
 
-- **Codec Functionality**: The library provides encoding/decoding for the WebP image format, including command-line tools (`cwebp`/`dwebp`) and APIs, with documentation for building, tools, and API usage available in the `doc/` directory.
+- **WebP Codec Implementation**: Provides a C library for encoding/decoding WebP images, including CLI tools (`cwebp`/`dwebp`) and APIs for integration, released under a BSD-like license with patent grants (see `COPYING`/`PATENTS`).
 
-- **Licensing & Contributions**: Released under the WebM project license (see `COPYING`/`PATENTS`), the project accepts patches via Gerrit and tracks issues/security reports via the WebM issue tracker, with community discussion via `webp-discuss@webmproject.org`.
+- **Development & Contribution**: Includes build/docs (e.g., `building.md`, `tools.md`), bug tracking via WebM issue tracker, and contribution guidelines (`CONTRIBUTING.md`), with community discussion via `webp-discuss@webmproject.org`.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T03:51:33.563765+05:30
+- Published: 2026-08-03T01:16:17.226371+05:30
 
 ## Related Tags
 

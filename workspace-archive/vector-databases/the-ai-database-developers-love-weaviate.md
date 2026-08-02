@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Scalability & Uptime Assurance**: Weaviate's vector database provides a scalable and highly available foundation, eliminating concerns about performance degradation and downtime during system scaling.
+- **Scalability & Uptime Assurance**: Weaviate's vector database ensures seamless scalability and high uptime, eliminating concerns during system scaling and serving as a reliable foundation for all services.
+
 - **Operational Efficiency**: Achieved **200+ hours saved** on database maintenance, enhancing productivity and reducing operational overhead.
-- **High-Scale Deployment**: Successfully manages **9B vectors in production**, demonstrating robust handling of large-scale vector data.
+
+- **Production-Scale Performance**: Successfully manages **9B vectors** in production, demonstrating robust handling of large-scale vector data.
 
 ## Use Cases
 

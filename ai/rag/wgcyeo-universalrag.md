@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-02T21:46:15.549741+05:30'
+collected_at: '2026-08-03T01:06:55.354561+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 174
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-02T21:46:15.549741+05:30'
-last_seen: '2026-08-02T21:46:15.549741+05:30'
-last_checked: '2026-08-02T21:46:15.549741+05:30'
+first_seen: '2026-08-03T01:06:55.354561+05:30'
+last_seen: '2026-08-03T01:06:55.354561+05:30'
+last_checked: '2026-08-03T01:06:55.354561+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,7 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: UniversalRAG introduces a unified retrieval-augmented generation (RAG) framework designed to handle diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities) within a single pipeline, leveraging modality-agnostic retrieval and generation mechanisms.
-
-- **Key Innovation**: Implements a **modality-agnostic retriever** that dynamically adapts to varying input types using a shared embedding space, combined with a **granularity-aware generator** that synthesizes responses by aggregating retrieved chunks across different levels of abstraction.
-
-- **Performance & Scalability**: Achieves state-of-the-art results on multimodal benchmarks (e.g., MM-RAG, MultiModalQA) with minimal modality-specific fine-tuning, demonstrating scalability via efficient cross-modal attention and hierarchical retrieval strategies.
+*   Extends Retrieval-Augmented Generation (RAG) to operate over corpora encompassing diverse data
 
 ## Why It Matters
 

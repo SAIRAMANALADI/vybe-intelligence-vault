@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-02T21:52:14.550183+05:30'
-collected_at: '2026-08-02T21:52:14.550198+05:30'
+published_at: '2026-08-03T01:11:55.840339+05:30'
+collected_at: '2026-08-03T01:11:55.840352+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-02T21:52:14.550198+05:30'
-last_seen: '2026-08-02T21:52:14.550198+05:30'
-last_checked: '2026-08-02T21:52:14.550198+05:30'
+first_seen: '2026-08-03T01:11:55.840352+05:30'
+last_seen: '2026-08-03T01:11:55.840352+05:30'
+last_checked: '2026-08-03T01:11:55.840352+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for 2026-08-20; migration required.
-
-- **Enhanced Experimentation & Evaluation**: New features include PEP 604 union return type support for Python evaluators, `langsmith evaluator create-llm` CLI for structured LLM-as-judge evaluator rules, and improved experiment comparison views with live dataset split assignments and interactive split editing.
-
-- **Performance & Reliability Improvements**: LangSmith now enforces monthly trace limits per project/user, caps reusable evaluators per workspace, and optimizes batch ingestion (e.g., zstd compression, oversized field handling) while fixing critical bugs (e.g., OpenTelemetry span nesting, VS Code Copilot Chat trace rendering).
+- **Deprecation & Migration**: Legacy feedback formula endpoints (`/feedback/formulas`) deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for **2026-08-20**; migration required.
+- **Performance & UI Improvements**: Experiment tables now truncate long inputs/outputs, support interactive split chips, and defer heavy rendering; evaluator spend charts now abbreviate high values ($1K+) for better readability.
+- **Enhanced Tracing & Evaluators**: Monthly trace limits enforced per project/user; OpenTelemetry spans preserved even if out of order; evaluators now support PEP 604 union return types and timeout adjustments for heavy libraries.
 
 ## Why It Matters
 
@@ -46,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T21:52:14.550183+05:30
+- Published: 2026-08-03T01:11:55.840339+05:30
 
 ## Related Tags
 

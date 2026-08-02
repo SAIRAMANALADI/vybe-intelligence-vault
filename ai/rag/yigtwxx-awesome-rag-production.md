@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-02T21:45:25.472626+05:30'
+collected_at: '2026-08-03T01:06:05.324423+05:30'
 published_at: '2026-08-01T12:26:39Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
-- workflows
 stars: 185
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-01T12:26:23Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-02T21:45:25.472626+05:30'
-last_seen: '2026-08-02T21:45:25.472626+05:30'
-last_checked: '2026-08-02T21:45:25.472626+05:30'
+first_seen: '2026-08-03T01:06:05.324423+05:30'
+last_seen: '2026-08-03T01:06:05.324423+05:30'
+last_checked: '2026-08-03T01:06:05.324423+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering AI engineering, embeddings, LLMs, and MLOps.
-
-- **Technical Stack Focus**: Primarily Python-based, with integrations for LangChain, vector databases, and LLM frameworks, emphasizing production deployment, scalability, and retrieval optimization.
-
-- **Community & Maintenance**: Actively maintained (last updated 2026-08-01) with 185 stars and 46 forks, serving as a curated "awesome-list" for RAG production workflows.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for deploying scalable, production-grade Retrieval-Augmented Generation (RAG) systems.
+- **Comprehensive Tooling & Libraries**: Includes curated list of Python-based tools covering embeddings, vector databases (e.g., FAISS, Pinecone), LLM frameworks (LangChain, LlamaIndex), and MLOps/LLMops pipelines for end-to-end RAG deployment.
+- **Optimized for Scalability & Reliability**: Focuses on production-grade considerations such as retrieval efficiency, latency optimization, evaluation metrics, and integration with vector databases for high-performance RAG applications.
 
 ## Why It Matters
 

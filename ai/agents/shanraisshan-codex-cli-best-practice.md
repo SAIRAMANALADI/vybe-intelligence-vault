@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-02T21:47:05.563698+05:30'
+collected_at: '2026-08-03T01:07:40.382974+05:30'
 published_at: '2026-08-02T16:15:38Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
+- scripts
 - workflows
 stars: 951
 language: Python
@@ -20,9 +22,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-02T21:47:05.563698+05:30'
-last_seen: '2026-08-02T21:47:05.563698+05:30'
-last_checked: '2026-08-02T21:47:05.563698+05:30'
+first_seen: '2026-08-03T01:07:40.382974+05:30'
+last_seen: '2026-08-03T01:07:40.382974+05:30'
+last_checked: '2026-08-03T01:07:40.382974+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from "vibe coding" to structured agentic engineering using OpenAI Codex CLI, emphasizing modular hooks, context engineering, and CLI commands for scalable AI agent development.
+- **Repository Focus**: Provides structured best practices for transitioning from *vibe coding* to *agentic engineering* using OpenAI's Codex CLI, emphasizing systematic workflows and skill development.
 
-- **Modular CLI Architecture**: Implements `codex-cli-agents` and `codex-hooks` for dynamic skill injection, enabling reusable components for agentic workflows (e.g., task decomposition, tool orchestration).
+- **Technical Scope**: Covers *context engineering*, *hooks*, and *CLI commands* for optimizing Codex agents, including `codex-cli-agents`, `codex-hooks`, and skill customization.
 
-- **Best Practice Repository**: Provides curated examples (e.g., `codex-cli-best-practices`) for Pakistan-based developers, focusing on OpenAI Codex CLI optimization, context management, and agentic task execution.
+- **Ecosystem Integration**: Highlights Pakistan-based development contributions, OpenAI tooling, and agentic workflows for scalable AI-driven coding automation.
 
 ## Why It Matters
 
