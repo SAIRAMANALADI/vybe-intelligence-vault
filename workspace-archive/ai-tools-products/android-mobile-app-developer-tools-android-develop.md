@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Jetpack Compose**: Celebrated 5 years as the industry-standard declarative UI toolkit for Android, reshaping modern development with its composable architecture and integration into the Android ecosystem.
+- **Jetpack Compose** celebrates 5 years as the industry-standard declarative UI toolkit for Android, reshaping modern development with its composable architecture and Kotlin-first approach.
 
-- **Android 17 & API 37**: Released with AOSP source code live, featuring key updates for app readiness, alongside new tools for Android XR development, including expanded engine support and cross-ecosystem scaling resources.
+- **Android 17 (API 37)** is now live on AOSP with key updates for Pixel devices, including expanded XR platform support, adaptive layouts, and new media/health integration APIs.
 
-- **SDK License Agreement**: Google’s Android SDK License Agree
+- **Android Studio Quail 3 (2026.1.3)** introduces updated SDK licensing terms, emphasizing restricted usage for non-compatible
 
 ## Use Cases
 

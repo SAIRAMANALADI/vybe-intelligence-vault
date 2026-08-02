@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-02T16:24:32.843688+05:30'
+collected_at: '2026-08-02T19:26:47.071095+05:30'
 published_at: '2026-08-01T13:41:35Z'
 tags:
 - agents
 - github-repo
+- paper
 - rag
+- scripts
 - unknown
 stars: 831
 language: Unknown
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-02T16:24:32.843688+05:30'
-last_seen: '2026-08-02T16:24:32.843688+05:30'
-last_checked: '2026-08-02T16:24:32.843688+05:30'
+first_seen: '2026-08-02T19:26:47.071095+05:30'
+last_seen: '2026-08-02T19:26:47.071095+05:30'
+last_checked: '2026-08-02T19:26:47.071095+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and reasoning architectures.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s Knowledge Foundation Models (KnowFM) initiative, emphasizing structured knowledge acquisition and reasoning in deep research agents.
-- **High-Activity Repository**: Maintained with 831 stars and 68 forks, last updated August 1, 2026, reflecting active community engagement in deep research agent advancements.
+- **Curated Resource Hub**: Aggregates cutting-edge tools, papers, and frameworks for **agentic deep research**, focusing on **LLMs, RAG, and reasoning agents** (e.g., search agents, multi-agent systems).
+- **ACL 2026 KnowFM Integration**: Aligns with **Knowledge Foundation Models (KnowFM)** for structured knowledge synthesis and retrieval-augmented reasoning.
+- **High-Activity Repository**: 831 stars, 68 forks; last updated **Aug 2026**, indicating active maintenance and community engagement in **deep research automation**.
 
 ## Why It Matters
 

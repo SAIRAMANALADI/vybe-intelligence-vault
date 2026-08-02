@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research
-published_at: '2026-08-02T16:32:32.405821+05:30'
-collected_at: '2026-08-02T16:32:32.405834+05:30'
+published_at: '2026-08-02T19:35:37.862610+05:30'
+collected_at: '2026-08-02T19:35:37.862624+05:30'
 tags:
 - agents
 - frontend_ui
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:researching-with-github-copilot-cli-github-docs
-first_seen: '2026-08-02T16:32:32.405834+05:30'
-last_seen: '2026-08-02T16:32:32.405834+05:30'
-last_checked: '2026-08-02T16:32:32.405834+05:30'
+first_seen: '2026-08-02T19:35:37.862624+05:30'
+last_seen: '2026-08-02T19:35:37.862624+05:30'
+last_checked: '2026-08-02T19:35:37.862624+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Capabilities**: The `/research` command in GitHub Copilot CLI deploys a specialized agent that autonomously gathers and synthesizes in-depth technical information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
+- **Autonomous research agent**: The `/research` command in GitHub Copilot CLI activates a specialized agent that autonomously gathers and synthesizes in-depth technical information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
 
-- **Report Management**: Research outputs are stored as session-specific Markdown files, accessible via `Ctrl+Y` or shareable via GitHub gists (`/share gist research`) or local files (`/share file research [PATH]`), with environment variables (`COPILOT_EDITOR`, `VISUAL`, `EDITOR`) determining the default viewer.
+- **Adaptive report generation**: The agent classifies query types (process, conceptual, or technical deep-dive) and tailors output accordingly, including architecture diagrams, code snippets, and step-by-step guidance, with explicit confidence assessments and documented assumptions.
 
-- **Query Adaptation & Limitations**: The agent dynamically tailors responses (process/how-to, conceptual, or technical deep-dives) based on query phrasing but is constrained to report generation (no code edits) and lacks persistence across CLI sessions, requiring manual directory navigation for prior reports (`~/.copilot/session-state/SESSION-ID/research/`).
+- **Session-bound persistence & sharing**: Reports are stored in a session-specific directory (`~/.copilot/session-state/SESSION-ID/research/`) and can be shared via GitHub gists (`/share gist research`) or saved as local Markdown files (`/share file research [PATH]`), but are not accessible across sessions without manual retrieval.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T16:32:32.405821+05:30
+- Published: 2026-08-02T19:35:37.862610+05:30
 
 ## Related Tags
 

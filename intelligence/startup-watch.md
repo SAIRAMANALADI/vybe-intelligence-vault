@@ -11,6 +11,7 @@ Micro-SaaS templates, business validations, boilerplate code, and builder launch
 | [Dr. Axel Rauschmayer](https://dr-axel.de) | `startup-builder/` | 70 |
 | [Home - Cornell Research & Innovation](https://research.cornell.edu/video/future-computation) | `startup-builder/` | 70 |
 | [Twilio Hub](https://developers.twilio.com/series/twilio-developers-hub/landing_page) | `startup-builder/` | 70 |
+| [Chat LangChain](https://chat.langchain.com/) | `startup-builder/` | 70 |
 | [Manage your Apple Account](https://account.apple.com/) | `startup-builder/` | 70 |
 
 More resources will appear as the harvester collects them.

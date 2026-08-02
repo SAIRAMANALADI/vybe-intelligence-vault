@@ -8,6 +8,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -28,6 +33,16 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`git-git.md`](../../ai/resources/git-git.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [Firebase · GitHub](https://github.com/firebase/)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`firebase-github.md`](../../ai/resources/firebase-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`vin67-crewai-docker.md`](../../ai/agents/vin67-crewai-docker.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [OpenAI · GitHub](https://github.com/openai)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
@@ -38,35 +53,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`joshuac215-agent-service-toolkit.md`](../../ai/agents/joshuac215-agent-service-toolkit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`sri-krishna-v-awesome-adk-agents.md`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [explosion/spaCy](https://github.com/explosion/spaCy)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`explosion-spacy.md`](../../ai/rag/explosion-spacy.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-02 16:40 IST*
+*Last updated: 2026-08-02 19:42 IST*

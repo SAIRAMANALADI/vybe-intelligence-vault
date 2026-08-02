@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-08-02T16:29:19.192693+05:30'
-collected_at: '2026-08-02T16:29:19.192704+05:30'
+published_at: '2026-08-02T19:32:15.225751+05:30'
+collected_at: '2026-08-02T19:32:15.225766+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-08-02T16:29:19.192704+05:30'
-last_seen: '2026-08-02T16:29:19.192704+05:30'
-last_checked: '2026-08-02T16:29:19.192704+05:30'
+first_seen: '2026-08-02T19:32:15.225766+05:30'
+last_seen: '2026-08-02T19:32:15.225766+05:30'
+last_checked: '2026-08-02T19:32:15.225766+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: GitHub Copilot CLI enables parallelized execution via `/fleet`, allowing multiple subagents to work concurrently on tasks, with convergence on a decision-ready result while maintaining user control over applied changes.
+- **Multi-Agent Workflows**: GitHub Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and multi-agent collaboration via `/plan` and `/delegate` for autonomous PR generation.
 
-- **GitHub-Native Integration**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts directly with issues, pull requests, branches, and repositories, inheriting organizational policies (branch protections, governance) without additional setup.
+- **Session Persistence & Context Management**: Features `/resume` for resuming long-running tasks, memory compaction to prevent session collapse, and native GitHub `/mcp` integration for issue/PR analysis, labels, and activity summarization to maintain context from backlog to implementation.
 
-- **Cross-Platform & Extensible**: Supports macOS, Linux, and Windows; integrates with any editor (including VS Code); and allows customization via MCP servers, skills, and plugins, with session persistence for continuous workflow context.
+- **Security & Extensibility**: Inherits Copilot Business/Enterprise governance policies, enforces explicit approval for file/command changes, supports custom MCP server integrations (`/skills`, `AGENTS.md`), and offers experimental features via `/experimental show` with SDK support (`@github/copilot`) for application-level agentic logic.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T16:29:19.192693+05:30
+- Published: 2026-08-02T19:32:15.225751+05:30
 
 ## Related Tags
 

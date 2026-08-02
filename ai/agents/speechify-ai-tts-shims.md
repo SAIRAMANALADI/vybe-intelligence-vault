@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-08-02T16:32:22.740006+05:30'
+collected_at: '2026-08-02T19:34:58.437654+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-08-02T16:32:22.740006+05:30'
-last_seen: '2026-08-02T16:32:22.740006+05:30'
-last_checked: '2026-08-02T16:32:22.740006+05:30'
+first_seen: '2026-08-02T19:34:58.437654+05:30'
+last_seen: '2026-08-02T19:34:58.437654+05:30'
+last_checked: '2026-08-02T19:34:58.437654+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Provider-compatible TTS shims**: Go-based proxy layer translating provider-specific APIs (OpenAI, ElevenLabs, Cartesia, AWS Polly, Deepgram, etc.) to the unified Speechify API, enabling voice-agent BYOC (Bring Your Own Client) integration.
+- **Provider-Agnostic TTS Shim Layer**: Go-based proxy implementation (`tts-shims`) that standardizes API interactions across 13 TTS providers (e.g., OpenAI, ElevenLabs, AWS Polly) by routing requests to the unified Speechify API, enabling **Bring Your Own Carrier (BYOC)** for voice-agent deployments.
 
-- **Modular architecture**: Single Go engine with per-provider binaries, ensuring minimal overhead while maintaining compatibility across 13+ TTS providers (e.g., Google, LMNT, Inworld, Resemble).
+- **Modular Architecture**: Single Go engine with per-provider binaries, ensuring minimal overhead while maintaining provider-specific compatibility (e.g., Cartesia, Deepgram, Hume) without vendor lock-in.
 
-- **Last updated**: July 13, 2026 (v0.1.0), with a single-star, zero-fork repository emphasizing lightweight, scalable TTS abstraction for voice-agent ecosystems.
+- **Real-Time Proxy Optimization**: Last updated July 2026, the repository supports low-latency TTS inference by abstracting provider quirks (e.g., LMNT’s streaming, Google’s SSML) into a consistent interface for voice-agent frameworks.
 
 ## Why It Matters
 

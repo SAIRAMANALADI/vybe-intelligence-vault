@@ -4,26 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-08-02T16:27:03.012967+05:30'
-published_at: '2026-08-02T10:52:10Z'
+collected_at: '2026-08-02T19:29:17.215160+05:30'
+published_at: '2026-08-02T13:42:33Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - hackernews
 - html
-- models
 - rag
-stars: 7695
+stars: 7703
 language: HTML
 status: active
 archived: false
 created_at: '2025-11-03T10:46:38Z'
-pushed_at: '2026-07-27T09:24:37Z'
+pushed_at: '2026-08-02T13:42:29Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-08-02T16:27:03.012967+05:30'
-last_seen: '2026-08-02T16:27:03.012967+05:30'
-last_checked: '2026-08-02T16:27:03.012967+05:30'
+first_seen: '2026-08-02T19:29:17.215160+05:30'
+last_seen: '2026-08-02T19:29:17.215160+05:30'
+last_checked: '2026-08-02T19:29:17.215160+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Repository provides an in-depth technical guide covering LangGraph, advanced RAG (Retrieval-Augmented Generation), multi-agent systems, and reinforcement learning (GRPO) for AI agent development, with practical implementations and tutorials.
+- **Comprehensive AI Agent Development Guide**: Covers advanced topics including LangGraph implementation, multi-agent systems, and GraphRAG, with practical tutorials and real-world applications for AI agent development.
 
-- **Interview & Career Resources**: Includes curated interview questions, job-hunting strategies, and technical roadmaps tailored for transitioning into large model (LLM) roles, with a focus on algorithm engineering and SFT (Supervised Fine-Tuning).
+- **Interview & Career Resources**: Provides specialized content for algorithm engineers and LLM roles, including interview question banks, job-hunting strategies, and transition guidance into AI/ML fields.
 
-- **Tooling & Frameworks**: Covers integration of LangChain, CrewAI, GraphRAG, and other frameworks, with resources on data synthesis, evaluation, and deployment for AI agent systems.
+- **Technical Deep Dives**: Includes advanced RAG techniques, reinforcement learning (GRPO), data synthesis, and SFT methodologies, with a focus on practical implementation and performance optimization.
 
 ## Why It Matters
 
@@ -44,14 +42,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: adongwanai
-- Stars: 7695
-- Forks: 763
+- Stars: 7703
+- Forks: 765
 - Language: HTML
 - Topics: agenticrag, ai-agent, crewai, graphrag, grpo, interview, job-hunting, langchain, llm, multi-agent, rag, sft, tutorial
-- Last Updated: 2026-08-02T10:52:10Z
+- Last Updated: 2026-08-02T13:42:33Z
 - Archived: No
 - Created At: 2025-11-03T10:46:38Z
-- Pushed At: 2026-07-27T09:24:37Z
+- Pushed At: 2026-08-02T13:42:29Z
 
 ## Possible Use Cases
 

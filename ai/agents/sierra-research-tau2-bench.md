@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-08-02T16:25:37.970545+05:30'
+collected_at: '2026-08-02T19:27:52.205692+05:30'
 published_at: '2026-08-02T10:50:44Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-07-30T00:08:54Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-08-02T16:25:37.970545+05:30'
-last_seen: '2026-08-02T16:25:37.970545+05:30'
-last_checked: '2026-08-02T16:25:37.970545+05:30'
+first_seen: '2026-08-02T19:27:52.205692+05:30'
+last_seen: '2026-08-02T19:27:52.205692+05:30'
+last_checked: '2026-08-02T19:27:52.205692+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based tool integration with 1,712 GitHub stars and 428 forks.
 
-- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool-use efficiency, and domain-specific performance in practical scenarios.
+- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn tool-use capabilities, agent decision-making, and user interaction fidelity in dynamic environments.
 
-- **Metrics & Evaluation**: Measures agent adaptability, task completion rates, and user-agent collaboration quality, with updates as of August 2026.
+- **Real-World Domains**: Targets practical scenarios (e.g., software development, data analysis) to measure agent adaptability, tool proficiency, and end-to-end task completion under τ-Bench's framework.
 
 ## Why It Matters
 

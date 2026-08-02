@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-02T16:22:42.787858+05:30'
+collected_at: '2026-08-02T19:24:57.027908+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- models
 - python
 - rag
 stars: 260
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-02T16:22:42.787858+05:30'
-last_seen: '2026-08-02T16:22:42.787858+05:30'
-last_checked: '2026-08-02T16:22:42.787858+05:30'
+first_seen: '2026-08-02T19:24:57.027908+05:30'
+last_seen: '2026-08-02T19:24:57.027908+05:30'
+last_checked: '2026-08-02T19:24:57.027908+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
-- **Technical Scope**: Provides a Python-based framework for generating, annotating, and benchmarking hallucination datasets, enabling systematic testing of RAG systems against factual inaccuracies.
-- **Repository Details**: Last updated July 20, 2026, with 260 stars and 35 forks; serves as a resource for researchers to develop and validate trustworthy RAG models.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs.
+
+- **Technical Components**: Contains structured datasets with annotated hallucinations, enabling fine-grained analysis of RAG model failures, including factual inconsistencies, irrelevant retrievals, and unsupported claims.
+
+- **Implementation**: Provides Python-based tools for dataset exploration, hallucination detection, and benchmarking, facilitating reproducible research and model development in trustworthy RAG systems.
 
 ## Why It Matters
 

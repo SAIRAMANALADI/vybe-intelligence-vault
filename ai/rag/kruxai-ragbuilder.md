@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-08-02T16:24:17.964848+05:30'
+collected_at: '2026-08-02T19:26:32.139646+05:30'
 published_at: '2026-07-31T10:58:37Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - python
 - rag
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-08-02T16:24:17.964848+05:30'
-last_seen: '2026-08-02T16:24:17.964848+05:30'
-last_checked: '2026-08-02T16:24:17.964848+05:30'
+first_seen: '2026-08-02T19:26:32.139646+05:30'
+last_seen: '2026-08-02T19:26:32.139646+05:30'
+last_checked: '2026-08-02T19:26:32.139646+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose-built RAG Toolkit**: Provides a Python-based framework for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for specific datasets.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) systems with customizable components (e.g., embedders, retrievers, LLMs) for optimal performance.
 
-- **Modular Architecture**: Implements configurable components (e.g., embedders, retrievers, LLMs) with extensibility for customization in developer workflows.
+- **Optimized Workflow**: Supports end-to-end RAG setup, including data ingestion, chunking, vector storage, retrieval, and generation, with built-in evaluation metrics for performance tuning.
 
-- **GenAI Integration**: Supports integration with generative AI models and developer tools, with active maintenance (last update: 2026-07-31).
+- **Scalable & Extensible**: Designed for scalability with support for distributed vector databases (e.g., FAISS, Pinecone) and modular architecture to integrate custom models or tools.
 
 ## Why It Matters
 

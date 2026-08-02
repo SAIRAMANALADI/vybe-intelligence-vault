@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/reworkd/AgentGPT
-collected_at: '2026-08-02T14:12:17.859826+05:30'
+collected_at: '2026-08-02T19:28:12.187695+05:30'
 published_at: '2026-08-02T06:27:16Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - hackernews
 - openai
 - rag
+- scripts
 - typescript
 stars: 36296
 language: TypeScript
@@ -22,9 +23,9 @@ archived: true
 created_at: '2023-04-07T02:29:19Z'
 pushed_at: '2025-04-29T01:19:32Z'
 resource_id: github:reworkd/agentgpt
-first_seen: '2026-08-02T14:12:17.859826+05:30'
-last_seen: '2026-08-02T14:12:17.859826+05:30'
-last_checked: '2026-08-02T14:12:17.859826+05:30'
+first_seen: '2026-08-02T19:28:12.187695+05:30'
+last_seen: '2026-08-02T19:28:12.187695+05:30'
+last_checked: '2026-08-02T19:28:12.187695+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Deployment**: Browser-based platform enabling users to assemble, configure, and deploy autonomous AI agents without local setup, leveraging modern web technologies.
+- **Browser-based Autonomous AI Agents**: Enables users to assemble, configure, and deploy autonomous AI agents entirely within a web browser, leveraging modern web technologies (Next.js, TypeScript).
 
-- **Tech Stack**: Built with **TypeScript**, **Next.js (T3 Stack)**, and integrates with **OpenAI's LLM**, **LangChain**, and frameworks like **BabyAGI** for agent orchestration.
+- **Integration with LLM Frameworks**: Supports LangChain and OpenAI APIs, facilitating interaction with large language models (LLMs) for agent orchestration and task execution.
 
-- **Scalability & Features**: Supports multi-agent systems, real-time interaction, and modular agent configuration; actively maintained with 36,296+ GitHub stars and 9,294+ forks.
+- **T3 Stack & Open-Source Ecosystem**: Built on the T3 Stack (TypeScript, Tailwind, tRPC, Next.js), with compatibility for tools like BabyAGI and AutoGPT, targeting AGI research and agent-based automation.
 
 ## Why It Matters
 

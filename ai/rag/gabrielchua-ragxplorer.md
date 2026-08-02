@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-02T16:23:22.793227+05:30'
+collected_at: '2026-08-02T19:25:37.042808+05:30'
 published_at: '2026-07-29T09:54:30Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - jupyter notebook
+- models
 - rag
 stars: 1221
 language: Jupyter Notebook
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-02T16:23:22.793227+05:30'
-last_seen: '2026-08-02T16:23:22.793227+05:30'
-last_checked: '2026-08-02T16:23:22.793227+05:30'
+first_seen: '2026-08-02T19:25:37.042808+05:30'
+last_seen: '2026-08-02T19:25:37.042808+05:30'
+last_checked: '2026-08-02T19:25:37.042808+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and optimization of LLM interactions.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time exploration of retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically explore RAG components (retrieval, generation, and evaluation) with minimal setup.
+- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, facilitating user-friendly exploration of RAG components (e.g., document retrieval, LLM outputs) with customizable parameters.
 
-- **Modular Python Framework**: Built in Python with modular components for retrieval, prompt engineering, and evaluation, supporting extensibility for custom RAG architectures and datasets.
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting integration with LLMs and vector databases (e.g., FAISS, Chroma) for end-to-end RAG pipeline analysis.
 
 ## Why It Matters
 

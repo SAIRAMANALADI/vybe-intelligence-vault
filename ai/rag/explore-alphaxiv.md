@@ -4,22 +4,25 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://alphaxiv.org/
-published_at: '2026-07-19T21:48:34.602842+05:30'
-collected_at: '2026-07-19T21:48:34.602853+05:30'
+published_at: '2026-08-02T19:30:33.165761+05:30'
+collected_at: '2026-08-02T19:30:33.165776+05:30'
 tags:
 - agents
 - benchmark
+- dataset
 - hackernews
 - models
+- openai
 - paper
 - rag
+- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:explore-alphaxiv
-first_seen: '2026-07-19T21:48:34.602853+05:30'
-last_seen: '2026-07-19T21:48:34.602853+05:30'
-last_checked: '2026-07-19T21:48:34.602853+05:30'
+first_seen: '2026-08-02T19:30:33.165776+05:30'
+last_seen: '2026-08-02T19:30:33.165776+05:30'
+last_checked: '2026-08-02T19:30:33.165776+05:30'
 health_score: 100
 ---
 
@@ -27,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **SEED Framework**: Introduces SElf-Evolving On-Policy Distillation (SEED) for LLM agents, enabling token-level supervision and sample efficiency improvements (14.9–45.9% macro-average success rate gains on ALFWorld via dense hindsight skill distillation).
+- **OpenAI Model Achievements**: Internal OpenAI model resolved ten long-standing mathematical conjectures and improved classical bounds in high-dimensional sphere packing, group theory, and quantum information theory, demonstrating advanced reasoning capabilities.
 
-- **Video = World + Event Stream**: Wan-Streamer v0.3 models video as a composition of world states and event streams, achieving 200ms latency for 640x368@25FPS while enabling real-time interactive agents with open-vocabulary behaviors.
+- **Generalized Hopfield Networks**: Novel framework defines neurons/memories on Riemannian manifolds (CP^(d-1)), achieving "exploding" critical memory capacity (e.g., α_c ≈ 0.62 for SU(3) vs. ≈0.05 for SU(2)) via top-eigenvector recall mechanism.
 
-- **Inkling MoE Model**: Thinking Machines releases Inkling, a 975B-parameter (41B active) Mixture-of-Experts transformer with 1M-token context, trained on 45T tokens across modalities, supporting native multimodal reasoning and controllable "thinking effort".
+- **Kimi K3 MoE Model**: 2.8T-parameter multimodal Mixture-of-Experts model with 1M-token context length, achieving ~2.5x scaling efficiency and frontier-level performance in coding, agentic tasks, and vision, outperforming many proprietary systems at lower cost.
 
 ## Why It Matters
 
@@ -41,16 +44,19 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T21:48:34.602842+05:30
+- Published: 2026-08-02T19:30:33.165761+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- dataset
 - hackernews
 - models
+- openai
 - paper
 - rag
+- reddit
 - web-crawled
 - youtube
 

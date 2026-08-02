@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-02T16:22:57.771029+05:30'
+collected_at: '2026-08-02T19:25:12.024002+05:30'
 published_at: '2026-08-02T10:09:15Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 36819
 language: Jupyter Notebook
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-02T16:22:57.771029+05:30'
-last_seen: '2026-08-02T16:22:57.771029+05:30'
-last_checked: '2026-08-02T16:22:57.771029+05:30'
+first_seen: '2026-08-02T19:25:12.024002+05:30'
+last_seen: '2026-08-02T19:25:12.024002+05:30'
+last_checked: '2026-08-02T19:25:12.024002+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository provides in-depth, hands-on tutorials covering Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architectures, and their integration into real-world AI agent applications.
-- **Jupyter Notebook-Based Learning**: All content is delivered via Jupyter Notebooks, enabling interactive, executable, and reproducible AI engineering workflows with embedded code, visualizations, and explanations.
-- **Cutting-Edge AI Agent Applications**: Focuses on practical implementations of AI agents using modern frameworks (e.g., MCP), with topics spanning agents, machine learning, and AI engineering best practices, last updated in August 2026.
+- **Content Focus**: Repository provides advanced tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**, emphasizing practical implementation.
+
+- **Technical Stack**: Primarily uses **Jupyter Notebooks** for demonstrations, covering topics like **agents, AI engineering, MCP (Model Context Protocol), and machine learning**.
+
+- **Metrics**: Highly active with **36,819 stars**, **6,084 forks**, and last updated on **2026-08-02**, indicating strong community engagement and continuous development.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://milvus.io/docs/install_standalone-docker.md
-published_at: '2026-08-01T14:10:01.962968+05:30'
-collected_at: '2026-08-01T14:10:01.962982+05:30'
+published_at: '2026-08-02T19:29:28.008142+05:30'
+collected_at: '2026-08-02T19:29:28.008156+05:30'
 tags:
 - anthropic
 - openai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:run-milvus-in-docker-linux-milvus-documentation
-first_seen: '2026-08-01T14:10:01.962982+05:30'
-last_seen: '2026-08-01T14:10:01.962982+05:30'
-last_checked: '2026-08-01T14:10:01.962982+05:30'
+first_seen: '2026-08-02T19:29:28.008156+05:30'
+last_seen: '2026-08-02T19:29:28.008156+05:30'
+last_checked: '2026-08-02T19:29:28.008156+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Milvus v3.0.0 Docker Deployment**: Uses Woodpecker MQ (local filesystem WAL) and embedded etcd by default, with a streaming node for enhanced data processing; supports configuration overrides via `user.yaml` and preserves data during upgrades.
+- **Milvus v3.0.x Docker Deployment**: Uses `standalone_embed.sh` script for automated Docker container setup with embedded etcd (port 2379) and Milvus (port 19530), supporting streaming nodes, Woodpecker MQ (local filesystem WAL), and optimized architecture.
 
-- **Standalone Docker Installation**: Single-command deployment (`standalone_embed.sh`) launches Milvus on port `19530` with embedded etcd on `2379`, data stored in `./volumes/milvus`, and web UI accessible at `http://127.0.0.1:9091/webui/`.
+- **Configuration & Upgrade**: Supports runtime config overrides via `user.yaml` (e.g., `proxy.healthCheckTimeout`), with upgrades via `standalone_embed.sh upgrade` preserving data/configs, and optional dependencies (Pulsar/Kafka for MQ, MinIO/S3 for storage).
 
-- **Upgrade & Dependency Flexibility**: Built-in `upgrade` command maintains data/configuration continuity; supports optional external dependencies (Pulsar/Kafka for MQ, S3-compatible storage, etc.) and disables Storage V3 by default.
+- **Managed Alternative**: Zilliz Cloud offers a fully managed Milvus with 10x performance, eliminating operational overhead (e.g., no external MQ/etcd required), accessible via `cloud.zilliz.com`.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T14:10:01.962968+05:30
+- Published: 2026-08-02T19:29:28.008142+05:30
 
 ## Related Tags
 

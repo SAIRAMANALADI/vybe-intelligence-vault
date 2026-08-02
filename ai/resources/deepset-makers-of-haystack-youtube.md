@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw
-published_at: '2026-07-21T03:52:43.345557+05:30'
-collected_at: '2026-07-21T03:52:43.345573+05:30'
+published_at: '2026-08-02T19:31:20.250698+05:30'
+collected_at: '2026-08-02T19:31:20.250712+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:deepset-makers-of-haystack-youtube
-first_seen: '2026-07-21T03:52:43.345573+05:30'
-last_seen: '2026-07-21T03:52:43.345573+05:30'
-last_checked: '2026-07-21T03:52:43.345573+05:30'
+first_seen: '2026-08-02T19:31:20.250712+05:30'
+last_seen: '2026-08-02T19:31:20.250712+05:30'
+last_checked: '2026-08-02T19:31:20.250712+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via YouTube Premium/Advertising), and creator tools (YouTube Creators).
+- **YouTube Developer Resources**: Official [Developers](https://developers.google.com/youtube) portal provides APIs, tools, and documentation for integrating YouTube functionality into applications, including data access, uploads, and analytics.
 
-- **Developer & API Access**: Provides APIs and documentation (via [developers.google.com/youtube](https://developers.google.com/youtube)) for third-party integration, enabling functionalities like search, uploads, and analytics.
+- **YouTube Operational Framework**: [How YouTube Works](https://www.youtube.com/howyoutubeworks) outlines core infrastructure, algorithms, and monetization policies governing content delivery, recommendation systems, and creator/advertiser interactions.
 
-- **Policy & Compliance**: Enforces [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Content Safety Policies](https://www.youtube.com/about/policies/) while offering creator/advertiser resources and experimental features via [YouTube Labs](https://www.youtube.com/new).
+- **Corporate & Legal Structure**: YouTube operates under [Google LLC](https://www.youtube.com/about/), with dedicated pages for [press](https://www.youtube.com/about/press/), [terms](https://www.youtube.com/t/terms), [privacy](https://www.youtube.com/t/privacy), and [policy enforcement](https://www.youtube.com/about/policies/).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T03:52:43.345557+05:30
+- Published: 2026-08-02T19:31:20.250698+05:30
 
 ## Related Tags
 

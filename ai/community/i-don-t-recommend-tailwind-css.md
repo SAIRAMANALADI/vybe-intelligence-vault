@@ -14,13 +14,14 @@ tags:
 - ai
 - frontend_ui
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-don-t-recommend-tailwind-css
 first_seen: '2026-08-02T14:08:15.769163+05:30'
 last_seen: '2026-08-02T16:21:56.368977+05:30'
 last_checked: '2026-08-02T16:21:56.368977+05:30'
 health_score: 100
 ---
+
 
 # I don't recommend Tailwind CSS
 

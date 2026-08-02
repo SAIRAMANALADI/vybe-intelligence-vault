@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-02T16:23:42.857778+05:30'
+collected_at: '2026-08-02T19:25:57.023210+05:30'
 published_at: '2026-08-01T12:26:39Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
 stars: 185
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-01T12:26:23Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-02T16:23:42.857778+05:30'
-last_seen: '2026-08-02T16:23:42.857778+05:30'
-last_checked: '2026-08-02T16:23:42.857778+05:30'
+first_seen: '2026-08-02T19:25:57.023210+05:30'
+last_seen: '2026-08-02T19:25:57.023210+05:30'
+last_checked: '2026-08-02T19:25:57.023210+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable RAG systems, covering LLMs, embeddings, vector databases, and MLOps workflows.
-- **Technical scope**: Focuses on Python-based implementations, LangChain integration, and production-grade considerations (e.g., LLMops, retrieval optimization, scalability).
-- **Community metrics**: 185 stars, 46 forks, last updated August 1, 2026, with topics spanning AI engineering, generative AI, and retrieval-augmented generation (RAG).
+- **Curated resources**: Repository provides a vetted list of tools, frameworks, and best practices for deploying scalable, production-grade RAG systems, covering components like embeddings, vector databases, and LLM orchestration.
+
+- **Technical scope**: Focuses on production-grade RAG implementations with topics spanning MLOps, LLMops, vector search, and integration with frameworks like LangChain, emphasizing battle-tested solutions.
+
+- **Language & maintenance**: Primarily Python-based, last updated in August 2026, with 185 stars and 46 forks, indicating active community engagement and continuous curation.
 
 ## Why It Matters
 

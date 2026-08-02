@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CyberSunil/LLMVault
-collected_at: '2026-08-02T16:24:12.835890+05:30'
+collected_at: '2026-08-02T19:26:22.050884+05:30'
 published_at: '2026-08-02T05:43:32Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-07-15T08:18:22Z'
 pushed_at: '2026-07-18T18:23:05Z'
 resource_id: github:cybersunil/llmvault
-first_seen: '2026-08-02T16:24:12.835890+05:30'
-last_seen: '2026-08-02T16:24:12.835890+05:30'
-last_checked: '2026-08-02T16:24:12.835890+05:30'
+first_seen: '2026-08-02T19:26:22.050884+05:30'
+last_seen: '2026-08-02T19:26:22.050884+05:30'
+last_checked: '2026-08-02T19:26:22.050884+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Intentionally vulnerable training platform for OWASP LLM Top 10, covering AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.
-- **Technical Stack**: Python-based, deployable via Docker, designed for CTF-style security exercises.
-- **Scope**: Targets LLM security testing, including prompt injection, RAG vulnerabilities, and agent-based attack vectors.
+- **Purpose**: Intentionally vulnerable OWASP LLM Top 10 training platform for AI security, prompt injection, RAG security, agent security, and GenAI penetration testing.
+- **Features**: Includes CTF challenges, Docker deployment, and modules for LLM security testing (e.g., prompt injection, RAG vulnerabilities).
+- **Technical Stack**: Python-based, with Docker support for isolated lab environments; last updated August 2026.
 
 ## Why It Matters
 

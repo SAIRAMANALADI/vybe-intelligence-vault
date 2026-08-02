@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/
-published_at: '2026-08-02T01:13:04.137970+05:30'
-collected_at: '2026-08-02T01:13:04.137981+05:30'
+published_at: '2026-08-02T19:35:34.712820+05:30'
+collected_at: '2026-08-02T19:35:34.712834+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:node-js-run-javascript-everywhere
-first_seen: '2026-08-02T01:13:04.137981+05:30'
-last_seen: '2026-08-02T01:13:04.137981+05:30'
-last_checked: '2026-08-02T01:13:04.137981+05:30'
+first_seen: '2026-08-02T19:35:34.712834+05:30'
+last_seen: '2026-08-02T19:35:34.712834+05:30'
+last_checked: '2026-08-02T19:35:34.712834+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,19 @@ health_score: 100
 
 ## Summary
 
-- **Runtime Environment**: Node.js is a cross-platform JavaScript runtime enabling server-side execution of JavaScript, supporting server, CLI, and script development via an event-driven, non-blocking I/O model.
+- **Node.js** is a cross-platform JavaScript runtime enabling server-side, CLI, and script execution via a non-blocking I/O model built on Chrome's V8 engine.
 
-- **Core Modules**: Provides built-in modules (`http`, `assert`, `crypto`, `fs`, `stream`, `worker_threads`) for tasks like HTTP server creation, testing, file hashing, stream pipelines, and multi-threading via `pipeline()` and `Worker` APIs.
+- **Core Capabilities**:
+  - HTTP server creation (`node:http` module)
+  - Unit testing (`node:test` + `node:assert`)
+  - Cryptographic operations (e.g., SHA-1 hashing via `node:crypto`)
+  - Stream-based file processing (`node:stream/promises` + `node:fs`)
+  - Multi-threading via `node:worker_threads`
 
-- **Execution Model**: Uses ES modules (`import/export`) and supports asynchronous operations (e.g., `readFile`, `pipeline`) with top-level `await`, enabling efficient I/O handling and parallel processing in a single-threaded event loop.
+- **Execution Examples**:
+  - HTTP server: `createServer()` binds to port 3000.
+  - Tests: `assert.strictEqual()` validates conditions.
+  - File hashing: `pipeline()` compresses files using `node:zlib`.
 
 ## Why It Matters
 
@@ -34,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T01:13:04.137970+05:30
+- Published: 2026-08-02T19:35:34.712820+05:30
 
 ## Related Tags
 

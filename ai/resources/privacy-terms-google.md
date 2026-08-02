@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/
-published_at: '2026-07-14T19:59:46.305640+05:30'
-collected_at: '2026-07-14T19:59:46.305652+05:30'
+published_at: '2026-08-02T19:33:22.910609+05:30'
+collected_at: '2026-08-02T19:33:22.910625+05:30'
 tags:
 - hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:privacy-terms-google
-first_seen: '2026-07-14T19:59:46.305652+05:30'
-last_seen: '2026-07-14T19:59:46.305652+05:30'
-last_checked: '2026-07-14T19:59:46.305652+05:30'
+first_seen: '2026-08-02T19:33:22.910625+05:30'
+last_seen: '2026-08-02T19:33:22.910625+05:30'
+last_checked: '2026-08-02T19:33:22.910625+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Usage**: Google's [Privacy Policy](https://policies.google.com/privacy) outlines the types of data collected (e.g., personal info, usage data, device info), purposes (e.g., service provision, personalization, security), and user rights for review/updates.
+- **Privacy Policy**: Outlines data collection practices, usage purposes, and user rights for reviewing/updating personal information across Google services.
 
-- **Security & Compliance Framework**: Google enforces [Terms of Service](https://policies.google.com/terms) and [Privacy & Security Principles](https://safety.google/principles), detailing user obligations, data protection measures, and compliance with global regulations (e.g., GDPR, CCPA).
+- **Terms of Service**: Defines legal agreements governing user interactions with Google’s services, including compliance and usage restrictions.
 
-- **Product-Specific Controls**: The [Google Product Privacy Guide](https://policies.google.com/technologies/product-privacy) provides granular controls for managing privacy settings across services (e.g., Gmail, Search, YouTube) via centralized tools like [Google Account](https://myaccount.google.com/).
+- **Privacy & Security Principles**: Google’s framework for embedding privacy-by-design into products, emphasizing data protection, accessibility, and user control.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-14T19:59:46.305640+05:30
+- Published: 2026-08-02T19:33:22.910609+05:30
 
 ## Related Tags
 

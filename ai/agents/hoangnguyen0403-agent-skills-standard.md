@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-02T16:25:22.882352+05:30'
+collected_at: '2026-08-02T19:27:37.126528+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-02T16:25:22.882352+05:30'
-last_seen: '2026-08-02T16:25:22.882352+05:30'
-last_checked: '2026-08-02T16:25:22.882352+05:30'
+first_seen: '2026-08-02T19:27:37.126528+05:30'
+last_seen: '2026-08-02T19:27:37.126528+05:30'
+last_checked: '2026-08-02T19:27:37.126528+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language & Framework Best Practices Repository**: Hosts standardized coding guidelines and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), Dart (Flutter), PHP (Laravel), JavaScript/React ecosystems, and mobile platforms (Android/iOS) to ensure AI agent compliance with framework-specific standards.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages such as React, Angular, Flutter, NestJS, Spring Boot, and more.
 
-- **Structured Agent Skill Standardization**: Provides curated `cursor-rules` and structured documentation to guide AI agents in adhering to language/framework-specific conventions, reducing inconsistencies in generated code.
+- **Purpose**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to optimal coding and architectural patterns across diverse tech stacks.
 
-- **Active Maintenance & Community-Driven**: Last updated July 2026, with 536 stars and 155 forks, indicating ongoing contributions and adoption for evolving best practices across 19+ topics.
+- **Metadata**: 536 stars, 155 forks, last updated July 30, 2026. Focuses on agentic AI, mobile (iOS/Android), and full-stack web development (Next.js, Laravel, etc.).
 
 ## Why It Matters
 

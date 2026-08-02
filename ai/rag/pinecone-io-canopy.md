@@ -3,10 +3,8 @@ title: pinecone-io/canopy
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/pinecone-io/canopy?source=post_page
-resource_id: github:pinecone-io/canopy
------dba899ae0355---------------------------------------
-collected_at: '2026-08-02T14:13:32.921560+05:30'
+source_url: https://github.com/pinecone-io/canopy
+collected_at: '2026-08-02T19:29:22.248324+05:30'
 published_at: '2026-07-30T13:00:55Z'
 tags:
 - github-repo
@@ -20,9 +18,9 @@ archived: true
 created_at: '2023-08-08T15:42:16Z'
 pushed_at: '2024-11-13T06:32:28Z'
 resource_id: github:pinecone-io/canopy
-first_seen: '2026-08-02T14:13:32.921560+05:30'
-last_seen: '2026-08-02T14:13:32.921560+05:30'
-last_checked: '2026-08-02T14:13:32.921560+05:30'
+first_seen: '2026-08-02T19:29:22.248324+05:30'
+last_seen: '2026-08-02T19:29:22.248324+05:30'
+last_checked: '2026-08-02T19:29:22.248324+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Framework**: Pinecone's Canopy is a Retrieval Augmented Generation (RAG) framework designed to enhance LLMs with dynamic, context-aware retrieval from vector databases.
-- **Context Engine**: Implements a context engine for real-time, low-latency retrieval of relevant data, optimizing LLM performance in production environments.
-- **Pinecone Integration**: Tightly coupled with Pinecone's vector database for scalable, high-performance vector search and retrieval.
+- **RAG Framework**: Pinecone's Canopy is a Retrieval Augmented Generation (RAG) framework designed to enhance LLM outputs by integrating vector database retrieval with generative AI models.
+
+- **Context Engine**: Implements a context engine to dynamically fetch and inject relevant information from Pinecone's vector database, improving response accuracy and contextual relevance.
+
+- **Python-Based**: Entirely developed in Python, supporting seamless integration with Pinecone's vector database and other generative AI tools.
 
 ## Why It Matters
 
@@ -67,4 +67,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/pinecone-io/canopy?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/pinecone-io/canopy

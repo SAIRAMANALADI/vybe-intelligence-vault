@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-08-02T14:11:42.786324+05:30'
+collected_at: '2026-08-02T19:27:37.126338+05:30'
 published_at: '2026-08-01T09:18:51Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - scripts
+- workflows
 stars: 334
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-07-26T06:21:31Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-08-02T14:11:42.786324+05:30'
-last_seen: '2026-08-02T14:11:42.786324+05:30'
-last_checked: '2026-08-02T14:11:42.786324+05:30'
+first_seen: '2026-08-02T19:27:37.126338+05:30'
+last_seen: '2026-08-02T19:27:37.126338+05:30'
+last_checked: '2026-08-02T19:27:37.126338+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
-- **Multi-Language & Multi-Agent Support**: Focuses on ADK-Python and ADK-Web, with examples for multi-agent systems, Gemini AI integration, and Google ADK deployment, emphasizing modular and scalable agentic AI architectures.
-- **Active Maintenance & Community**: Last updated in August 2026, with 334 stars and 48 forks, serving as a dynamic resource for agentic AI development under open-source collaboration.
+- **Curated ADK Resources**: Repository aggregates Google’s Agent Development Kit (ADK) templates, best practices, and production-ready examples for AI agents across research, business, automation, and education.
+- **Multi-Language Support**: Focuses on Python-based ADK implementations (`adk-python`) with additional references to `adk-web` for broader agent development.
+- **Community-Driven Collection**: Open-source project with 334 stars, 48 forks, and last updated in August 2026, covering topics like multi-agent systems, Gemini AI integration, and Google ADK workflows.
 
 ## Why It Matters
 

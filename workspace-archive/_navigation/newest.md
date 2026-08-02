@@ -4,6 +4,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 
 | Date | Resource | Category |
 | :--- | :--- | :--- |
+| 2026-07-28 | [H-EmbodVis/TurboVLA](https://github.com/H-EmbodVis/TurboVLA) | `rag-systems/` |
 | 2026-07-15 | [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) | `rag-systems/` |
 | 2026-07-13 | [Chaelsoo/Zetsu](https://github.com/Chaelsoo/Zetsu) | `rag-systems/` |
 | 2026-07-11 | [TatarinBlack/ai-runtime-security-sandbox](https://github.com/TatarinBlack/ai-runtime-security-sandbox) | `rag-systems/` |
@@ -33,4 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-04-16 | [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) | `ai-coding-agents/` |
 | 2026-04-16 | [bluehands/GirlsDay2026](https://github.com/bluehands/GirlsDay2026) | `ai-coding-agents/` |
 | 2026-04-13 | [grafana/o11y-bench](https://github.com/grafana/o11y-bench) | `ai-coding-agents/` |
-| 2026-04-11 | [Ais1on/CTI-RAG](https://github.com/Ais1on/CTI-RAG) | `rag-systems/` |

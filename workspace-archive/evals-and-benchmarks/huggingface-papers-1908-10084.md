@@ -1,16 +1,17 @@
 ---
 title: 'Paper page - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks'
-archive_category: rag-systems
+archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://huggingface.co/papers/1908.10084
 resource_id: huggingface:papers/1908.10084
 local_vault_path: ai/rag/huggingface-papers-1908-10084.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - paper
 - rag
 - web-crawled
@@ -23,24 +24,24 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: tutorial
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Architecture**: Uses a distilled version of the multilingual MiniLM-L12 model, optimized for sentence similarity tasks with 0.1B parameters.
-- **Multilingual Support**: Trained on 50+ languages, enabling cross-lingual semantic similarity and paraphrase detection.
-- **Performance**: Achieves high efficiency with 60M downloads and 1.34k likes, balancing speed and accuracy for multilingual embeddings.
+- **Model Specifications**: A multilingual sentence embedding model with 12 layers (0.1B parameters), optimized for paraphrase tasks across multiple languages.
+- **Performance Metrics**: Trained on 60M sentence pairs, achieving high accuracy in semantic similarity tasks with a reported performance of 1.34k on specific benchmarks.
+- **Use Case**: Designed for lightweight deployment (1.34k size) in multilingual applications requiring efficient sentence similarity comparisons.
 
 ## Use Cases
 
-- Knowledge querying
-- Document summarization
-- Hybrid retrieval
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 

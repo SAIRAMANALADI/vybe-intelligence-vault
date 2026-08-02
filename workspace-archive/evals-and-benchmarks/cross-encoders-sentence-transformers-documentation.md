@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source) with optional CUDA-enabled PyTorch; editable installs available for development.
-
-- **Core Functionality**: Provides `SentenceTransformer` (bi-encoder), `CrossEncoder` (cross-attention), and `SparseEncoder` for embeddings; includes semantic search, clustering, and retrieval pipelines.
-
-- **Training & Optimization**: Supports fine-tuning with custom datasets/losses, MTEB evaluation, and inference spe
+- **Installation & Setup**: Supports multiple installation methods (`pip`, `conda`, `uv`, source, editable) with optional CUDA-enabled PyTorch for GPU acceleration.
+- **Core Architectures**: Implements three primary encoder types—`SentenceTransformer` (bi-encoder for embeddings), `CrossEncoder` (fine-grained scoring), and `SparseEncoder` (lexical/sparse retrieval).
+- **Training & Optimization**: Provides modular training pipelines with configurable loss functions, evaluators, and efficiency opti
 
 ## Use Cases
 

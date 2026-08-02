@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/electron
-collected_at: '2026-08-02T16:32:28.336270+05:30'
+collected_at: '2026-08-02T19:35:38.976296+05:30'
 published_at: '2026-08-02T10:22:49Z'
 tags:
 - c++
@@ -19,9 +19,9 @@ archived: false
 created_at: '2013-04-12T01:47:36Z'
 pushed_at: '2026-08-02T09:17:01Z'
 resource_id: github:electron/electron
-first_seen: '2026-08-02T16:32:28.336270+05:30'
-last_seen: '2026-08-02T16:32:28.336270+05:30'
-last_checked: '2026-08-02T16:32:28.336270+05:30'
+first_seen: '2026-08-02T19:35:38.976296+05:30'
+last_seen: '2026-08-02T19:35:38.976296+05:30'
+last_checked: '2026-08-02T19:35:38.976296+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 - **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to build native applications using web technologies (HTML, CSS, JavaScript).
 
-- **Core architecture** combines a stripped-down Chromium browser engine with Node.js integration, enabling direct access to OS APIs while maintaining web compatibility.
+- **Core architecture** integrates a modified Chromium browser engine with Node.js runtime, enabling direct access to OS APIs and native features via JavaScript.
 
-- **Performance-critical C++ backend** with bindings to JavaScript/TypeScript, optimized for low-latency IPC and GPU-accelerated rendering via Blink/V8.
+- **Performance-optimized C++ backend** with bindings to V8 for JavaScript execution, supporting real-time rendering, IPC (Inter-Process Communication), and GPU acceleration.
 
 ## Why It Matters
 

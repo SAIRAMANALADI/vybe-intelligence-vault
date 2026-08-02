@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://electronjs.org/docs/latest
-published_at: '2026-08-02T16:30:30.541807+05:30'
-collected_at: '2026-08-02T16:30:30.541816+05:30'
+published_at: '2026-08-02T19:33:30.515904+05:30'
+collected_at: '2026-08-02T19:33:30.515918+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-08-02T16:30:30.541816+05:30'
-last_seen: '2026-08-02T16:30:30.541816+05:30'
-last_checked: '2026-08-02T16:30:30.541816+05:30'
+first_seen: '2026-08-02T19:33:30.515918+05:30'
+last_seen: '2026-08-02T19:33:30.515918+05:30'
+last_checked: '2026-08-02T19:33:30.515918+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Architecture**: Electron combines Chromium (for rendering) and Node.js (for backend APIs) into a single binary, enabling cross-platform desktop apps using JavaScript, HTML, and CSS without native development.
+- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop applications that run on Windows, macOS, and Linux without native development requirements.
 
-- **Core Components**: Electron apps consist of a `main.js` (process management), `preload.js` (bridge between Node.js and renderer), and `index.html` (UI), with `BrowserWindow` handling window creation and lifecycle events.
+- **Core components**: Electron apps consist of a main process (`main.js`) managing app lifecycle and windows, a preload script (`preload.js`) exposing Node.js APIs to the renderer securely, and an HTML file (`index.html`) defining the UI.
 
-- **Documentation & Tools**: Official docs include tutorials, API references, and best practices; Electron Fiddle provides a sandboxed environment for prototyping and debugging, with direct integration into documentation examples.
+- **Development ecosystem**: Electron provides official documentation (tutorials, API references, best practices), a sandboxed prototyping tool (Electron Fiddle), and community resources (Discord, GitHub issues) for debugging and contributions.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T16:30:30.541807+05:30
+- Published: 2026-08-02T19:33:30.515904+05:30
 
 ## Related Tags
 

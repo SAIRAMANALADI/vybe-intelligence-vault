@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-08-02T16:24:07.876967+05:30'
+collected_at: '2026-08-02T19:26:17.110955+05:30'
 published_at: '2026-08-02T03:30:43Z'
 tags:
 - benchmark
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 stars: 1784
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-08-02T16:24:07.876967+05:30'
-last_seen: '2026-08-02T16:24:07.876967+05:30'
-last_checked: '2026-08-02T16:24:07.876967+05:30'
+first_seen: '2026-08-02T19:26:17.110955+05:30'
+last_seen: '2026-08-02T19:26:17.110955+05:30'
+last_checked: '2026-08-02T19:26:17.110955+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: `fastRAG` is an efficient Python-based framework for **Retrieval-Augmented Generation (RAG)**, optimized for low-latency, high-throughput applications in generative AI and NLP tasks.
+- **Framework Overview**: `fastRAG` is an efficient Python-based framework for Retrieval-Augmented Generation (RAG), optimized for low-latency and high-throughput applications in generative AI and NLP tasks.
 
-- **Key Features**: Supports **multi-modal retrieval**, **semantic search**, and **knowledge graph integration**, leveraging **ColBERT** for dense retrieval, **sentence-transformers** for embeddings, and **diffusion models** for generative tasks.
+- **Key Features**: Supports multi-modal retrieval (text, knowledge graphs), integrates with state-of-the-art models (e.g., ColBERT, Sentence Transformers), and includes benchmarks for semantic search, QA, and summarization.
 
-- **Benchmarking & Extensibility**: Includes built-in **benchmarking tools** for evaluating RAG pipelines, with modular design for integrating custom retrievers, generators, and post-processing techniques (e.g., summarization, QA).
+- **Technical Stack**: Built on PyTorch, leverages transformer architectures, and includes diffusion-based retrieval methods for enhanced performance in generative AI workflows.
 
 ## Why It Matters
 

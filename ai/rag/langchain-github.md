@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-02T16:29:09.445428+05:30'
-collected_at: '2026-08-02T16:29:09.445439+05:30'
+published_at: '2026-08-02T19:31:22.574598+05:30'
+collected_at: '2026-08-02T19:31:22.574610+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-02T16:29:09.445439+05:30'
-last_seen: '2026-08-02T16:29:09.445439+05:30'
-last_checked: '2026-08-02T16:29:09.445439+05:30'
+first_seen: '2026-08-02T19:31:22.574610+05:30'
+last_seen: '2026-08-02T19:31:22.574610+05:30'
+last_checked: '2026-08-02T19:31:22.574610+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM application development; LangGraph/LangGraph.js enable building LLM agents as computational graphs; Deep Agents/Deep Agents.js support agentic workflows with planning, subagent delegation, and filesystem interactions.
 
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support planning, subagent delegation, and filesystem interactions for advanced task execution, with commercial monitoring via LangSmith.
+- **Commercial & OSS Extensions**: LangSmith offers a production-grade platform for building and monitoring LLM applications; MCP Adapters bridge Model Context Protocol tools with LangChain/LangGraph; Agent Protocol standardizes framework-agnostic APIs for serving LLM agents in production.
 
-- **OSS Extensions**: Includes MCP Adapters for tool compatibility, Agent Protocol for framework-agnostic agent APIs, and specialized agents like `dcode` (terminal-based) and OpenWiki (codebase/wiki maintenance).
+- **Developer Tools**: Deep Agents Code (`dcode`) and Open SWE provide terminal-based and asynchronous coding agents; OpenWiki generates and maintains codebase wikis via CLI; unified documentation and community resources (forum, academy) support ecosystem adoption.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T16:29:09.445428+05:30
+- Published: 2026-08-02T19:31:22.574598+05:30
 
 ## Related Tags
 

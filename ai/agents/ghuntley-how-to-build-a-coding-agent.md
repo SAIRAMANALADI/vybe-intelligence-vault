@@ -4,12 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-08-02T16:24:52.888903+05:30'
+collected_at: '2026-08-02T19:27:02.121738+05:30'
 published_at: '2026-08-01T17:40:13Z'
 tags:
 - agents
 - github-repo
 - go
+- hackernews
+- scripts
 - workflows
 stars: 5786
 language: Go
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-07-25T03:31:14Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-08-02T16:24:52.888903+05:30'
-last_seen: '2026-08-02T16:24:52.888903+05:30'
-last_checked: '2026-08-02T16:24:52.888903+05:30'
+first_seen: '2026-08-02T19:27:02.121738+05:30'
+last_seen: '2026-08-02T19:27:02.121738+05:30'
+last_checked: '2026-08-02T19:27:02.121738+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Go-based workshop** for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor alternatives) with modular architecture for AI-driven code generation/editing.
-- **Key components** include **LLM integration**, **tool orchestration** (filesystem, shell, APIs), and **state management** for multi-turn interactions.
-- **Tutorial-driven approach** with hands-on exercises, covering **agentic workflows**, **error handling**, and **performance optimization** for real-world deployment.
+- **Go-based workshop**: Provides a structured guide to building a coding agent (e.g., similar to Cursor, Cline, or Roo Code) using the Go programming language.
+- **Technical depth**: Covers agent architecture, AI integration, and workflow automation for autonomous or semi-autonomous coding tasks.
+- **Updated tooling**: Last modified in 2026, ensuring relevance with modern AI-driven development practices and tooling.
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: ghuntley
 - Stars: 5786
-- Forks: 649
+- Forks: 650
 - Language: Go
 - Topics: agent, ai, cursor, tutorial, workshop
 - Last Updated: 2026-08-01T17:40:13Z

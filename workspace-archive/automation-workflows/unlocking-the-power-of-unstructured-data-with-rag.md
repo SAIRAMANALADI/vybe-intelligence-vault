@@ -1,16 +1,17 @@
 ---
 title: Unlocking the power of unstructured data with RAG - The GitHub Blog
-archive_category: project-ideas
+archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - reddit
 - scripts
@@ -25,8 +26,8 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Project Ideas`
-- Quality score: 70 | Archive score: 72 (useful)
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,15 +35,17 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Workflow Optimization**: Nicole Choi specializes in enhancing CI/CD pipelines via GitHub Actions, focusing on performance tuning, caching strategies, and reducing workflow execution time.
-- **Open Source Contributions**: Actively contributes to GitHub’s open-source ecosystem, including tooling and automation projects, with a focus on improving developer productivity.
-- **Security & Compliance Automation**: Develops and implements automated security checks, dependency scanning,
+- **GitHub Actions Workflow Optimization**: Nicole Choi specializes in enhancing CI/CD pipelines via GitHub Actions, focusing on performance tuning, caching strategies, and parallel job execution to reduce build times.
+
+- **Open Source Contributions**: Actively contributes to GitHub’s open-source projects, including tooling for developer productivity, security scanning, and automation workflows.
+
+- **Technical Advocacy**: Publishes research and best practices on GitHub’s engineering blog, coveri
 
 ## Use Cases
 
-- AI portfolio building
-- Creative webdev experiments
-- Local automation projects
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 

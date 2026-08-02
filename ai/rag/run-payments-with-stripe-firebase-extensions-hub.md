@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://extensions.dev/extensions/stripe/firestore-stripe-payments
-published_at: '2026-08-02T16:34:16.136343+05:30'
-collected_at: '2026-08-02T16:34:16.136355+05:30'
+published_at: '2026-08-02T19:34:33.196653+05:30'
+collected_at: '2026-08-02T19:34:33.196668+05:30'
 tags:
 - frontend_ui
+- hackernews
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:run-payments-with-stripe-firebase-extensions-hub
-first_seen: '2026-08-02T16:34:16.136355+05:30'
-last_seen: '2026-08-02T16:34:16.136355+05:30'
-last_checked: '2026-08-02T16:34:16.136355+05:30'
+first_seen: '2026-08-02T19:34:33.196668+05:30'
+last_seen: '2026-08-02T19:34:33.196668+05:30'
+last_checked: '2026-08-02T19:34:33.196668+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Extension Transfer**: The Stripe Firestore extension has been officially transferred to Invertase for maintenance, with migration recommended from `stripe/firestore-stripe-payments` to `invertase/firestore-stripe-payments` ([issue #524](https://github.com/invertase/stripe-firebase-extensions/issues/524)).
+- **Ownership Transfer**: Stripe has officially transferred the Firestore Stripe Payments extension to Invertase, with maintenance now handled by them; users are advised to uninstall the old extension (`stripe/firestore-stripe-payments`) and install the new one (`invertase/firestore-stripe-payments`).
 
-- **Functionality**: Enables one-time payments (Stripe Checkout) and recurring subscriptions, syncing payment status with Firebase Authentication (via custom claims) and Cloud Firestore for access control.
+- **Functionality & Integration**: The extension synchronizes Stripe payments (one-time and recurring) with Firebase Authentication and Cloud Firestore, enabling access control via custom claims and supporting Stripe Checkout, mobile payment sheets, and React Native SDKs.
 
-- **Dependencies & Billing**: Requires Cloud Firestore, Firebase Authentication, and a restricted Stripe API key; incurs costs for Firebase services (Firestore, Functions, Secret Manager, Auth), Stripe Payments/Billing, and optional Eventarc fees. Firebase project must be on the Blaze (pay-as-you-go) plan.
+- **Technical Requirements**: Requires Firebase Authentication, Cloud Firestore, and a restricted Stripe API key; billing applies for Firebase services (Firestore, Functions, Secret Manager, etc.) and Stripe Payments/Billing, with the Firebase project needing to be on the Blaze (pay-as-you-go) plan.
 
 ## Why It Matters
 
@@ -37,11 +38,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T16:34:16.136343+05:30
+- Published: 2026-08-02T19:34:33.196653+05:30
 
 ## Related Tags
 
 - frontend_ui
+- hackernews
 - rag
 - reddit
 - web-crawled

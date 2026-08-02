@@ -3,16 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://issuetracker.google.com/issues/new?component=1400680&template=1857359
-published_at: '2026-08-02T09:36:11.641490+05:30'
-collected_at: '2026-08-02T09:36:11.641504+05:30'
+source_url: https://aistudio.google.com/apps
+published_at: '2026-08-02T19:34:23.651548+05:30'
+collected_at: '2026-08-02T19:34:23.651561+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-08-02T09:36:11.641504+05:30'
-last_seen: '2026-08-02T09:36:11.641504+05:30'
-last_checked: '2026-08-02T09:36:11.641504+05:30'
+first_seen: '2026-08-02T19:34:23.651561+05:30'
+last_seen: '2026-08-02T19:34:23.651561+05:30'
+last_checked: '2026-08-02T19:34:23.651561+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- Google Account sign-in requires email/phone input for authentication via `ServiceLogin` endpoint with OAuth2-based flows.
-- Private browsing mode (`Guest mode`) is enforced for non-trusted devices to mitigate session hijacking risks.
-- Account recovery is facilitated via `usernamerecovery` endpoint, redirecting to issue submission with pre-filled component/template parameters.
+- **Authentication Interface**: Google AI Studio provides a login portal requiring a Google Account for access, supporting email/phone-based sign-in with recovery options.
+
+- **Session Security**: Supports private browsing (Guest mode) for enhanced privacy during authentication, with documentation for secure usage.
+
+- **Account Management**: Includes account creation flow for new users, redirecting to Google’s sign-up process with continuation parameters for seamless integration.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T09:36:11.641490+05:30
+- Published: 2026-08-02T19:34:23.651548+05:30
 
 ## Related Tags
 
@@ -40,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://issuetracker.google.com/issues/new?component=1400680&template=1857359
+Original source: https://aistudio.google.com/apps

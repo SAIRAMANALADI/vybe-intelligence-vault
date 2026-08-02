@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/Verba
-collected_at: '2026-08-02T16:28:30.681838+05:30'
+collected_at: '2026-08-02T19:31:22.021076+05:30'
 published_at: '2026-07-30T21:05:04Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 7713
@@ -19,9 +18,9 @@ archived: true
 created_at: '2023-07-28T16:53:42Z'
 pushed_at: '2026-06-08T09:25:18Z'
 resource_id: github:weaviate/verba
-first_seen: '2026-08-02T16:28:30.681838+05:30'
-last_seen: '2026-08-02T16:28:30.681838+05:30'
-last_checked: '2026-08-02T16:28:30.681838+05:30'
+first_seen: '2026-08-02T19:31:22.021076+05:30'
+last_seen: '2026-08-02T19:31:22.021076+05:30'
+last_checked: '2026-08-02T19:31:22.021076+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Weaviate-based chatbot leveraging Retrieval Augmented Generation (RAG) for enhanced contextual responses by dynamically fetching relevant data from Weaviate's vector database during inference.
+- **RAG Implementation**: Verba is a Retrieval Augmented Generation (RAG) chatbot leveraging Weaviate as its vector database and retrieval engine, enabling dynamic, context-aware responses by combining pre-trained language models with real-time data retrieval.
 
-- **Python Framework**: Built in Python, integrating Weaviate's client libraries for vector search, hybrid retrieval (BM25 + vector), and real-time query processing.
+- **Weaviate Integration**: Built on Weaviate’s modular architecture, Verba utilizes Weaviate’s vector search, hybrid search (BM25 + vector), and GraphQL API for efficient data indexing, querying, and retrieval during generation.
 
-- **Modular Architecture**: Designed with extensible components for document ingestion, embedding generation (via Sentence Transformers or custom models), and LLM integration (e.g., OpenAI, Hugging Face).
+- **Python-Based Framework**: The project is implemented in Python, utilizing Weaviate’s official client library (`weaviate-client`) and supporting modular components for customization, including data ingestion, retrieval strategies, and LLM integration.
 
 ## Why It Matters
 

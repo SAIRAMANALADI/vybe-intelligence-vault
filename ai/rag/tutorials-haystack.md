@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-08-02T14:18:06.073649+05:30'
-collected_at: '2026-08-02T14:18:06.073664+05:30'
+published_at: '2026-08-02T19:32:28.967428+05:30'
+collected_at: '2026-08-02T19:32:28.967444+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-08-02T14:18:06.073664+05:30'
-last_seen: '2026-08-02T14:18:06.073664+05:30'
-last_checked: '2026-08-02T14:18:06.073664+05:30'
+first_seen: '2026-08-02T19:32:28.967444+05:30'
+last_seen: '2026-08-02T19:32:28.967444+05:30'
+last_checked: '2026-08-02T19:32:28.967444+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines using statistical and model-based metrics, covering both RAG and agentic systems.
+- **Haystack Evaluation Guide**: Provides a structured walkthrough for implementing evaluation metrics and methodologies for assessing pipeline performance in retrieval-augmented generation (RAG) systems.
 
-- **Tool-Calling & Multi-Agent Systems**: Tutorials demonstrate building agents with web search integration, multi-agent workflows, and human-in-the-loop validation for safer, modular AI systems.
+- **Advanced Agent Architectures**: Covers multi-agent systems, tool-calling agents, and human-in-the-loop mechanisms, enabling modular, controllable, and tool-integrated AI workflows with conditional routing and fallback strategies.
 
-- **Advanced RAG & Optimization**: Covers multimodal RAG (vision+text), KV cache compression (TurboQuant), hybrid retrieval (dense + keyword), and structured output generation with OpenAI Pydantic/JSON schema.
+- **Multimodal & Hybrid RAG Pipelines**: Demonstrates techniques for building vision+text RAG systems, hybrid retrieval combining keyword and dense methods, and structured output generation using OpenAI models with Pydantic/JSON schema integration.
 
 ## Why It Matters
 
@@ -41,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:18:06.073649+05:30
+- Published: 2026-08-02T19:32:28.967428+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

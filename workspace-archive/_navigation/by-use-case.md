@@ -16,23 +16,23 @@ This index groups resources by direct developer use-cases and design goals.
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/vin67-crewai-docker.md))
 - [OpenAI · GitHub](https://github.com/openai) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/openai-github.md))
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/joshuac215-agent-service-toolkit.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
-- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 
 ## Document Knowledge base & Search (RAG)
 
+- [weaviate/Verba](https://github.com/weaviate/Verba) (Category: `rag-systems` | [`Local File`](../../ai/rag/weaviate-verba.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `vector-databases` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
+- [weaviate/Verba](https://github.com/weaviate/Verba) (Category: `vector-databases` | [`Local File`](../../ai/rag/weaviate-verba.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `rag-systems` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
-- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bangoc123-retrieval-backend-with-rag.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
-- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/bangoc123-retrieval-backend-with-rag.md))
-- [zilliztech/milvus_cli](https://github.com/zilliztech/milvus_cli) (Category: `vector-databases` | [`Local File`](../../ai/rag/zilliztech-milvus-cli.md))
 
 ## Model Selection, Inference & Cost Profiling
 
@@ -50,22 +50,22 @@ This index groups resources by direct developer use-cases and design goals.
 - [OpenAI · GitHub](https://github.com/openai) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/openai-github.md))
 - [google-research/t5x](https://github.com/google-research/t5x) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/resources/google-research-t5x.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
-- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bangoc123-retrieval-backend-with-rag.md))
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/jamwithai-production-agentic-rag-course.md))
+- [weaviate/Verba](https://github.com/weaviate/Verba) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/weaviate-verba.md))
 
 ## Script Automations & External API Integration
 
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `automation-workflows` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `automation-workflows` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Category: `automation-workflows` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [Stainless · GitHub](https://github.com/stainless-api) (Category: `automation-workflows` | [`Local File`](../../ai/resources/stainless-github.md))
 - [git/git](https://github.com/git/git) (Category: `automation-workflows` | [`Local File`](../../ai/resources/git-git.md))
+- [Firebase · GitHub](https://github.com/firebase/) (Category: `automation-workflows` | [`Local File`](../../ai/resources/firebase-github.md))
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (Category: `automation-workflows` | [`Local File`](../../ai/agents/vin67-crewai-docker.md))
 - [OpenAI · GitHub](https://github.com/openai) (Category: `automation-workflows` | [`Local File`](../../ai/agents/openai-github.md))
-- [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) (Category: `automation-workflows` | [`Local File`](../../ai/agents/joshuac215-agent-service-toolkit.md))
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `automation-workflows` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `automation-workflows` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
@@ -91,6 +91,7 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Curriculums & Reference Projects
 
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `project-ideas` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (Category: `learning-paths` | [`Local File`](../../ai/agents/arxiv-2508-04227.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Category: `learning-paths` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (Category: `learning-paths` | [`Local File`](../../ai/research/arxiv-2507-16696.md))
@@ -98,7 +99,6 @@ This index groups resources by direct developer use-cases and design goals.
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Category: `project-ideas` | [`Local File`](../../ai/agents/arxiv-2606-11874.md))
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Category: `project-ideas` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11074.md))
-- [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11197.md))
 
 ---
-*Last updated: 2026-08-02 16:40 IST*
+*Last updated: 2026-08-02 19:42 IST*

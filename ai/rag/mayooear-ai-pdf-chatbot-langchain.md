@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
-collected_at: '2026-08-02T16:26:42.985052+05:30'
+collected_at: '2026-08-02T19:28:57.186787+05:30'
 published_at: '2026-08-01T20:51:36Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: true
 created_at: '2023-03-17T01:23:26Z'
 pushed_at: '2026-03-27T16:04:05Z'
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
-first_seen: '2026-08-02T16:26:42.985052+05:30'
-last_seen: '2026-08-02T16:26:42.985052+05:30'
-last_checked: '2026-08-02T16:26:42.985052+05:30'
+first_seen: '2026-08-02T19:28:57.186787+05:30'
+last_seen: '2026-08-02T19:28:57.186787+05:30'
+last_checked: '2026-08-02T19:28:57.186787+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements a PDF chatbot agent using **LangChain** for LLM orchestration and **LangGraph** for stateful workflows, with **Next.js** as the frontend framework.
-- **Tech Stack**: Built in **TypeScript**, integrates **OpenAI** for embeddings/LLM inference, and processes PDFs via vectorized document retrieval.
-- **Features**: Supports dynamic conversation with PDFs, leveraging **RAG (Retrieval-Augmented Generation)** for context-aware responses and state management via LangGraph.
+- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain, LangGraph, Next.js, and OpenAI for document interaction and agent-based workflows.
+- **Core Functionality**: Enables conversational querying over PDFs using AI agents, with document processing and retrieval augmented by LangChain’s framework.
+- **Repository Stats**: 16.6K stars, 3.2K forks, last updated August 2026; optimized for scalable, modular PDF chatbot implementations.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: mayooear
 - Stars: 16590
-- Forks: 3233
+- Forks: 3234
 - Language: TypeScript
 - Topics: agents, ai, chatbot, langchain, langgraph, nextjs, openai, pdf, typescript
 - Last Updated: 2026-08-01T20:51:36Z

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-08-02T16:22:42.871656+05:30'
+collected_at: '2026-08-02T19:24:57.073933+05:30'
 published_at: '2026-08-02T10:11:48Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-07-28T13:47:59Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-08-02T16:22:42.871656+05:30'
-last_seen: '2026-08-02T16:22:42.871656+05:30'
-last_checked: '2026-08-02T16:22:42.871656+05:30'
+first_seen: '2026-08-02T19:24:57.073933+05:30'
+last_seen: '2026-08-02T19:24:57.073933+05:30'
+last_checked: '2026-08-02T19:24:57.073933+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing large language model (LLM) applications, leveraging Jupyter Notebooks for hands-on learning.
+- **Educational Resource**: Provides a beginner-friendly tutorial for developing LLM (Large Language Model) applications, structured as Jupyter Notebooks and accessible via [online documentation](https://datawhalechina.github.io/llm-universe/).
 
-- **Technical Focus**: Integrates **LangChain** and **Retrieval-Augmented Generation (RAG)** methodologies to demonstrate practical LLM application development workflows.
+- **Technical Focus**: Covers **LangChain** and **RAG (Retrieval-Augmented Generation)** workflows, emphasizing practical implementation for LLM integration.
 
-- **Resource Metrics**: Maintains high community engagement with **13,692 stars** and **1,388 forks**, indicating strong adoption and collaborative interest in the project.
+- **Project Metrics**: Maintains **13.7k+ stars** and **1.4k+ forks** (as of 2026-08-02), indicating strong community engagement and adoption.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: datawhalechina
 - Stars: 13692
-- Forks: 1388
+- Forks: 1389
 - Language: Jupyter Notebook
 - Topics: langchain, rag
 - Last Updated: 2026-08-02T10:11:48Z

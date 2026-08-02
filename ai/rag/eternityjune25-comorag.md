@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-02T16:24:27.892988+05:30'
+collected_at: '2026-08-02T19:26:42.092587+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-02T16:24:27.892988+05:30'
-last_seen: '2026-08-02T16:24:27.892988+05:30'
-last_checked: '2026-08-02T16:24:27.892988+05:30'
+first_seen: '2026-08-02T19:26:42.092587+05:30'
+last_seen: '2026-08-02T19:26:42.092587+05:30'
+last_checked: '2026-08-02T19:26:42.092587+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning by structuring memory hierarchically (short-term, long-term, and episodic).
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
 
-- **Dynamic Memory Management**: Implements adaptive memory retrieval and update mechanisms, leveraging attention-based memory selection and reinforcement learning to optimize context relevance for extended reasoning tasks.
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory organization to maintain context coherence across extended dialogues or documents, addressing limitations in traditional RAG systems for multi-turn reasoning.
 
-- **Evaluation on Long Narratives**: Demonstrates superior performance on AAAI 2026 benchmarks, achieving higher coherence and factual consistency in multi-turn dialogues compared to traditional RAG models, with codebase available in Python.
+- **AAAI 2026 Poster Submission**: Presented as a novel approach in the AAAI 2026 conference, emphasizing advancements in memory-augmented retrieval and reasoning for complex, state-dependent tasks.
 
 ## Why It Matters
 

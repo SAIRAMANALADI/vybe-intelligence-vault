@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-02T16:23:57.834205+05:30'
+collected_at: '2026-08-02T19:26:07.116863+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-02T16:23:57.834205+05:30'
-last_seen: '2026-08-02T16:23:57.834205+05:30'
-last_checked: '2026-08-02T16:23:57.834205+05:30'
+first_seen: '2026-08-02T19:26:07.116863+05:30'
+last_seen: '2026-08-02T19:26:07.116863+05:30'
+last_checked: '2026-08-02T19:26:07.116863+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A specialized GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and retrieval-enhanced visual tasks.
-- **Metadata**: 339 stars, 9 forks, last updated **July 15, 2026**; language unspecified (likely Python/Markdown-based documentation).
-- **Focus Areas**: Encompasses cutting-edge RAG methodologies for CV applications such as image captioning, visual question answering (VQA), and scene understanding, leveraging retrieval mechanisms to enhance generative performance.
+- **Curated List**: Repository `zhengxuJosh/Awesome-RAG-Vision` aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, serving as a centralized resource for state-of-the-art methods.
+- **Metadata**: Maintains **339 stars** and **9 forks**, with the last update recorded on **July 15, 2026**; language and topics are unspecified in the provided metadata.
+- **Focus**: Emphasizes **vision-centric RAG** applications, bridging generative AI with visual data retrieval and augmentation, though no explicit language or topic tags are listed.
 
 ## Why It Matters
 

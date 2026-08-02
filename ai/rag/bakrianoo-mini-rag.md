@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-08-02T16:24:22.870520+05:30'
+collected_at: '2026-08-02T19:26:37.054553+05:30'
 published_at: '2026-08-01T19:18:00Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-08-02T16:24:22.870520+05:30'
-last_seen: '2026-08-02T16:24:22.870520+05:30'
-last_checked: '2026-08-02T16:24:22.870520+05:30'
+first_seen: '2026-08-02T19:26:37.054553+05:30'
+last_seen: '2026-08-02T19:26:37.054553+05:30'
+last_checked: '2026-08-02T19:26:37.054553+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, covering end-to-end implementation.
-
-- **Modular Architecture**: Implements a scalable RAG system with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration, optimized for GenAI workflows.
-
-- **Deployment-Ready**: Includes Dockerized setup for local/remote deployment, FastAPI endpoints for inference, and educational resources (e.g., Jupyter notebooks) to demonstrate best practices in GenAI application development.
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
+- **GenAI Integration**: Demonstrates GenAI integration with a structured workflow for document ingestion, vector embedding (e.g., via FAISS or Chroma), and retrieval-augmented LLM inference.
+- **Scalable Architecture**: Includes CI/CD-ready Docker setup, FastAPI endpoints for RESTful RAG operations, and modular components for extensibility (e.g., custom retrievers, embedders).
 
 ## Why It Matters
 
@@ -43,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: bakrianoo
 - Stars: 673
-- Forks: 299
+- Forks: 300
 - Language: Python
 - Topics: docker, education, fastapi, genai, python, rag
 - Last Updated: 2026-08-01T19:18:00Z

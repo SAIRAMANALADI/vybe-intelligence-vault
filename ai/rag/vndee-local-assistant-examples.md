@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vndee/local-assistant-examples
-collected_at: '2026-08-02T16:23:32.801174+05:30'
-published_at: '2026-06-05T12:02:48Z'
+collected_at: '2026-08-02T19:25:47.033535+05:30'
+published_at: '2026-08-02T12:40:04Z'
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-stars: 409
+stars: 410
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-11-30T15:51:33Z'
 pushed_at: '2025-10-20T09:08:40Z'
 resource_id: github:vndee/local-assistant-examples
-first_seen: '2026-08-02T16:23:32.801174+05:30'
-last_seen: '2026-08-02T16:23:32.801174+05:30'
-last_checked: '2026-08-02T16:23:32.801174+05:30'
+first_seen: '2026-08-02T19:25:47.033535+05:30'
+last_seen: '2026-08-02T19:25:47.033535+05:30'
+last_checked: '2026-08-02T19:25:47.033535+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a Python-based framework to locally deploy a ChatPDF application using LangChain, LLMs, and RAG techniques.
-- **Key Technologies**: Integrates Ollama for LLM inference and leverages LangChain for document processing and retrieval-augmented generation (RAG).
-- **Local Execution**: Enables offline deployment of a ChatPDF system, avoiding cloud dependency while maintaining document privacy.
+- Implements a **local ChatPDF** system using **LangChain** and **Ollama** for LLM inference, enabling offline document interaction.
+- Utilizes **RAG (Retrieval-Augmented Generation)** to process and query PDFs without cloud dependencies.
+- Supports **Python-based** deployment with modular examples for customization and local execution.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vndee
-- Stars: 409
+- Stars: 410
 - Forks: 119
 - Language: Python
 - Topics: langchain, llm, ollama, rag
-- Last Updated: 2026-06-05T12:02:48Z
+- Last Updated: 2026-08-02T12:40:04Z
 - License: MIT
 - Archived: No
 - Created At: 2023-11-30T15:51:33Z

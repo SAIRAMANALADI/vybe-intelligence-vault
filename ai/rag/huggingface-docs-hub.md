@@ -1,15 +1,14 @@
 ---
-title: Models · Hugging Face
+title: Spaces · Hugging Face
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://huggingface.co/docs/hub/en/models#:~:text=The Hugging Face Hub
-  hosts,models as easy as possible.
-published_at: '2026-08-02T16:28:25.786014+05:30'
-collected_at: '2026-08-02T16:28:25.786025+05:30'
+source_url: https://huggingface.co/docs/hub/spaces
+published_at: '2026-08-02T19:36:14.850716+05:30'
+collected_at: '2026-08-02T19:36:14.850732+05:30'
 tags:
 - agents
-- benchmark
+- creative_dev
 - dataset
 - leaderboard
 - meta-ai
@@ -21,21 +20,21 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-02T16:28:25.786025+05:30'
-last_seen: '2026-08-02T16:28:25.786025+05:30'
-last_checked: '2026-08-02T16:28:25.786025+05:30'
+first_seen: '2026-08-02T19:36:14.850732+05:30'
+last_seen: '2026-08-02T19:36:14.850732+05:30'
+last_checked: '2026-08-02T19:36:14.850732+05:30'
 health_score: 100
 ---
 
-# Models · Hugging Face
+# Spaces · Hugging Face
 
 ## Summary
 
-- **Model Hosting & Repositories**: The Hugging Face Hub stores ML models in dedicated repositories, inheriting all standard repo features (e.g., versioning, collaboration) while offering specialized attributes for model exploration, usage, and metadata (e.g., model cards, eval results).
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK, Docker containers, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
 
-- **Model Access & Gating**: Supports gated models requiring authorization, with mechanisms for access control, download stats, and integration with libraries (e.g., Transformers, Diffusers) for seamless inference and evaluation.
+- **Integration & Customization**: Supports dependency management, GitHub Actions CI/CD, and embedding in external platforms; allows custom domains, disk/storage management, and OAuth-based authentication.
 
-- **Advanced Features**: Provides tools for model inference (via widgets/APIs), local app deployment, CO2 emissions tracking in model cards, and advanced topics like library integration and task-specific configurations.
+- **Monitoring & Analytics**: Provides disk usage tracking, download statistics, and webhook-based automation for job scheduling and model serving workflows.
 
 ## Why It Matters
 
@@ -45,12 +44,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T16:28:25.786014+05:30
+- Published: 2026-08-02T19:36:14.850716+05:30
 
 ## Related Tags
 
 - agents
-- benchmark
+- creative_dev
 - dataset
 - leaderboard
 - meta-ai
@@ -63,4 +62,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://huggingface.co/docs/hub/en/models#:~:text=The Hugging Face Hub hosts,models as easy as possible.
+Original source: https://huggingface.co/docs/hub/spaces

@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-02T16:27:02.982854+05:30'
+collected_at: '2026-08-02T19:29:12.214557+05:30'
 published_at: '2026-08-01T18:59:43Z'
 tags:
 - agents
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 472
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-02T16:27:02.982854+05:30'
-last_seen: '2026-08-02T16:27:02.982854+05:30'
-last_checked: '2026-08-02T16:27:02.982854+05:30'
+first_seen: '2026-08-02T19:29:12.214557+05:30'
+last_seen: '2026-08-02T19:29:12.214557+05:30'
+last_checked: '2026-08-02T19:29:12.214557+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision-maker) using CrewAI for collaborative A-share investment analysis.
-- **Data Integration**: Leverages AKShare for real-time A-share metrics (quotes, financials, fund flows, sentiment) and market-specific optimizations.
-- **Decision Engine**: Outputs structured investment recommendations via agent-driven synthesis of technical, fundamental, and sentiment-driven insights.
+- **Multi-Agent A股 Analysis System**: Leverages **CrewAI** with **4 specialized AI agents** for real-time stock analysis, financial data processing, fund flow tracking, and market sentiment evaluation using **AKShare** as the primary data source.
+- **China-Specific Optimization**: Tailored for **A-share market** characteristics, integrating localized financial metrics, regulatory constraints, and behavioral patterns to enhance analysis accuracy.
+- **Automated Investment Insights**: Generates **AI-driven investment recommendations** by synthesizing multi-source data (e.g., financials, sentiment, macro trends) into actionable decision-support outputs.
 
 ## Why It Matters
 

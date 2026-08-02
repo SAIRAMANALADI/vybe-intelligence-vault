@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-08-02T16:26:33.006935+05:30'
-published_at: '2026-08-02T10:38:24Z'
+collected_at: '2026-08-02T19:28:47.232337+05:30'
+published_at: '2026-08-02T13:53:49Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 95297
+stars: 95318
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-12-28T03:31:08Z'
 pushed_at: '2026-07-18T15:55:05Z'
 resource_id: github:tauricresearch/tradingagents
-first_seen: '2026-08-02T16:26:33.006935+05:30'
-last_seen: '2026-08-02T16:26:33.006935+05:30'
-last_checked: '2026-08-02T16:26:33.006935+05:30'
+first_seen: '2026-08-02T19:28:47.232337+05:30'
+last_seen: '2026-08-02T19:28:47.232337+05:30'
+last_checked: '2026-08-02T19:28:47.232337+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based framework (`TradingAgents`) for financial trading using multi-agent LLM systems, enabling autonomous decision-making via large language models.
-- **Key Features**: Supports modular agent architectures, real-time market interaction, and customizable trading strategies with integration for financial data APIs.
-- **Technical Stack**: Leverages Python with LLM APIs, multi-agent orchestration, and financial data processing libraries for scalable trading simulations.
+- **Multi-Agent LLM Framework**: Implements a modular multi-agent system leveraging large language models (LLMs) for financial trading, enabling specialized agents (e.g., analysts, traders, risk managers) to collaborate via structured communication protocols.
+
+- **Python-Based Architecture**: Built on Python with dependencies for LLM integration (e.g., Hugging Face Transformers), data processing (Pandas, NumPy), and trading APIs (e.g., CCXT for exchange connectivity).
+
+- **Extensible & Open-Source**: Designed for customization with pluggable agent roles, backtesting tools, and support for real-time market data feeds; actively maintained with recent updates (as of 2026-08-02).
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TauricResearch
-- Stars: 95297
-- Forks: 18419
+- Stars: 95318
+- Forks: 18425
 - Language: Python
 - Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-08-02T10:38:24Z
+- Last Updated: 2026-08-02T13:53:49Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-28T03:31:08Z

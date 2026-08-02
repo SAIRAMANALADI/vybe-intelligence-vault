@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-08-02T16:24:47.921479+05:30'
+collected_at: '2026-08-02T19:27:02.114531+05:30'
 published_at: '2026-08-02T08:51:28Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 3273
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-08-02T16:24:47.921479+05:30'
-last_seen: '2026-08-02T16:24:47.921479+05:30'
-last_checked: '2026-08-02T16:24:47.921479+05:30'
+first_seen: '2026-08-02T19:27:02.114531+05:30'
+last_seen: '2026-08-02T19:27:02.114531+05:30'
+last_checked: '2026-08-02T19:27:02.114531+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering with enterprise deployment, fine-tuning, and real-world project deployment workflows.
-- **Structured Learning Path**: Integrates hands-on projects, interview preparation, and a curated question bank aligned with Large Language Model Application Engineer roles.
-- **Multi-Framework & Toolchain**: Includes skills, RAG pipelines, and agent frameworks (LangChain, LangGraph, Coze, Dify) with Python-based implementations and enterprise-grade deployment strategies.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and full-stack project implementation from scratch to production.
+
+- **Multi-Framework & Tools Integration**: Integrates agent frameworks (LangChain/LangGraph), model APIs (GPT), and platforms (Coze/Dify) with skills, MCP, and RAG pipelines for end-to-end agent development.
+
+- **Interview & Deployment Focus**: Provides a structured learning path with real-world projects, interview questions, and enterprise-grade deployment strategies aligned with AI agent engineering roles.
 
 ## Why It Matters
 

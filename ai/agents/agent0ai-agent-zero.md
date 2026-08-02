@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agent0ai/agent-zero
-collected_at: '2026-08-02T14:12:37.819591+05:30'
-published_at: '2026-08-02T07:40:53Z'
+collected_at: '2026-08-02T19:28:32.228644+05:30'
+published_at: '2026-08-02T13:52:41Z'
 tags:
 - agents
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-10T09:10:45Z'
 pushed_at: '2026-08-01T15:23:53Z'
 resource_id: github:agent0ai/agent-zero
-first_seen: '2026-08-02T14:12:37.819591+05:30'
-last_seen: '2026-08-02T14:12:37.819591+05:30'
-last_checked: '2026-08-02T14:12:37.819591+05:30'
+first_seen: '2026-08-02T19:28:32.228644+05:30'
+last_seen: '2026-08-02T19:28:32.228644+05:30'
+last_checked: '2026-08-02T19:28:32.228644+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Agent Zero is an open-source AI framework in Python designed for building autonomous agents, emphasizing Linux compatibility and modularity for AI assistant development.
-
-- **Key Features**: Supports autonomous agent orchestration with zero-configuration capabilities, enabling rapid deployment of AI-driven systems without extensive setup.
-
-- **Community & Adoption**: Actively maintained with 18,693+ stars and 3,719+ forks, indicating strong community engagement and adoption in AI agent research and applications.
+- **Framework Overview**: Agent Zero is an open-source AI framework designed for building autonomous agents in Python, emphasizing Linux compatibility and zero-configuration setups.
+- **Key Features**: Supports autonomous agent development with modular architecture, enabling integration of LLMs, tools, and APIs for task execution.
+- **Ecosystem**: Actively maintained (last updated Aug 2026) with 18.6K+ stars and 3.7K+ forks, indicating strong community adoption and extensibility.
 
 ## Why It Matters
 
@@ -45,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 3719
 - Language: Python
 - Topics: agent, ai, assistant, autonomous, linux, zero
-- Last Updated: 2026-08-02T07:40:53Z
+- Last Updated: 2026-08-02T13:52:41Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-10T09:10:45Z

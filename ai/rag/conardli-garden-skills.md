@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ConardLi/garden-skills
-collected_at: '2026-08-02T16:23:22.783683+05:30'
-published_at: '2026-08-02T10:31:25Z'
+collected_at: '2026-08-02T19:25:37.044871+05:30'
+published_at: '2026-08-02T13:50:40Z'
 tags:
 - agents
 - anthropic
@@ -13,9 +13,7 @@ tags:
 - github-repo
 - hackernews
 - rag
-- scripts
-- workflows
-stars: 9990
+stars: 9992
 language: CSS
 status: active
 license: MIT
@@ -23,9 +21,9 @@ archived: false
 created_at: '2026-04-21T11:56:17Z'
 pushed_at: '2026-07-12T14:36:31Z'
 resource_id: github:conardli/garden-skills
-first_seen: '2026-08-02T16:23:22.783683+05:30'
-last_seen: '2026-08-02T16:23:22.783683+05:30'
-last_checked: '2026-08-02T16:23:22.783683+05:30'
+first_seen: '2026-08-02T19:25:37.044871+05:30'
+last_seen: '2026-08-02T19:25:37.044871+05:30'
+last_checked: '2026-08-02T19:25:37.044871+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Open-source collection (`ConardLi/garden-skills`) with 9,990 stars and 1,316 forks, covering web design, knowledge retrieval, image generation, and AI-driven workflows.
-- **Technical Stack**: Primarily CSS-based, with integrations for AI agents (e.g., Claude), RAG (Retrieval-Augmented Generation), and GPT-image-2 for image generation tasks.
-- **Last Updated**: 2026-08-02; topics include agent automation, RAG pipelines, and web design utilities.
+- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills, with 9,992 stars and 1,316 forks.
+- **Technical Stack**: Primarily implemented in CSS, with integrations for agents, Claude, GPT-Image-2, and RAG (Retrieval-Augmented Generation) systems.
+- **Last Update**: Repository last updated on **2026-08-02**, focusing on modular skills and web design methodologies.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ConardLi
-- Stars: 9990
+- Stars: 9992
 - Forks: 1316
 - Language: CSS
 - Topics: agent, claude, gpt-image-2, rag, skills, web-design
-- Last Updated: 2026-08-02T10:31:25Z
+- Last Updated: 2026-08-02T13:50:40Z
 - License: MIT
 - Archived: No
 - Created At: 2026-04-21T11:56:17Z

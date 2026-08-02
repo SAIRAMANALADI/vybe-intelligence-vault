@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/awesome-copilot
-collected_at: '2026-08-02T16:24:37.957026+05:30'
-published_at: '2026-08-02T08:55:45Z'
+collected_at: '2026-08-02T19:26:47.104821+05:30'
+published_at: '2026-08-02T13:08:20Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-- workflows
-stars: 37339
+- scripts
+stars: 37344
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-11T16:57:39Z'
 pushed_at: '2026-08-01T21:03:47Z'
 resource_id: github:github/awesome-copilot
-first_seen: '2026-08-02T16:24:37.957026+05:30'
-last_seen: '2026-08-02T16:24:37.957026+05:30'
-last_checked: '2026-08-02T16:24:37.957026+05:30'
+first_seen: '2026-08-02T19:26:47.104821+05:30'
+last_seen: '2026-08-02T19:26:47.104821+05:30'
+last_checked: '2026-08-02T19:26:47.104821+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Repository aggregating community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI-driven workflows.
-
-- **Technical Scope**: Focuses on Python-based implementations, including agent-skills, custom-agents, and hacktoberfest contributions, with structured configurations for advanced Copilot integrations.
-
-- **Active Maintenance**: Last updated in 2026, ensuring relevance with ongoing updates, star growth (37.3K+), and fork diversity (4.7K+) for collaborative enhancements.
+- **Curated Repository**: GitHub `awesome-copilot` aggregates community-driven resources (instructions, agents, skills, configurations) to optimize GitHub Copilot usage, with 37,344 stars and 4,695 forks.
+- **Technical Scope**: Focuses on Python-based implementations for `agent-skills`, `custom-agents`, and `prompt-engineering`, supporting AI-driven automation and extensibility.
+- **Active Maintenance**: Last updated August 2, 2026, with contributions tracked under `hacktoberfest` for community engagement.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: github
-- Stars: 37339
-- Forks: 4693
+- Stars: 37344
+- Forks: 4695
 - Language: Python
 - Topics: agent-skills, agents, ai, awesome, custom-agents, github-copilot, hacktoberfest, prompt-engineering
-- Last Updated: 2026-08-02T08:55:45Z
+- Last Updated: 2026-08-02T13:08:20Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-11T16:57:39Z

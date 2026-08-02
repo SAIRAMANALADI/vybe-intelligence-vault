@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-02T16:22:52.824893+05:30'
+collected_at: '2026-08-02T19:25:07.024997+05:30'
 published_at: '2026-08-02T10:26:59Z'
 tags:
 - benchmark
@@ -14,6 +14,7 @@ tags:
 - models
 - openai
 - rag
+- workflows
 stars: 898
 language: Jupyter Notebook
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-02T16:22:52.824893+05:30'
-last_seen: '2026-08-02T16:22:52.824893+05:30'
-last_checked: '2026-08-02T16:22:52.824893+05:30'
+first_seen: '2026-08-02T19:25:07.024997+05:30'
+last_seen: '2026-08-02T19:25:07.024997+05:30'
+last_checked: '2026-08-02T19:25:07.024997+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: `microsoft/rag-time` is a structured 5-week learning program focused on mastering **Retrieval-Augmented Generation (RAG)**, covering topics like hybrid search, vector indexing, and quantization techniques (binary/scalar) for efficient LLM retrieval.
-- **Technical Stack**: Utilizes **Jupyter Notebooks** with integrations for **Azure**, **OpenAI APIs**, **HNSW** (Hierarchical Navigable Small World) for approximate nearest neighbor search, and **Matryoshka Representation Learning** for scalable embeddings.
-- **Key Features**: Includes **multimodal RAG**, **responsible AI** practices, and **keyword/vector hybrid search** implementations, optimized for **Visual Studio Code** with tools for indexing, quantization, and evaluation.
+- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), quantization (binary/scalar), and Matryoshka representation learning for efficient LLM integration.
+- **Technical Stack**: Uses Azure-hosted Jupyter Notebooks with OpenAI APIs, HNSW for vector search, and VS Code for hands-on implementation of indexing, retrieval, and multimodal RAG workflows.
+- **Responsible AI Focus**: Incorporates responsible AI practices, including bias mitigation, safety evaluation, and compliance checks for production-grade RAG deployments.
 
 ## Why It Matters
 

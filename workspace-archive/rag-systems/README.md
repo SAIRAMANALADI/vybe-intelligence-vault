@@ -8,25 +8,25 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 
 ## Top Matched Resources
 
+- [weaviate/Verba](https://github.com/weaviate/Verba) (framework - ESSENTIAL Tier)
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (framework - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag) (dataset - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
 - [Neo4j · GitHub](https://github.com/neo4j) (framework - ESSENTIAL Tier)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/run-llama/llama_index (LlamaIndex)
 https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
+- [weaviate/Verba](https://github.com/weaviate/Verba)
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
-- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
-- [mongodb · GitHub](https://github.com/mongodb)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-08-02 16:40 IST*
+*Last updated: 2026-08-02 19:42 IST*

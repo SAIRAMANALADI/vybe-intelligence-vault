@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-02T16:26:07.969103+05:30'
+collected_at: '2026-08-02T19:28:22.195324+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-02T16:26:07.969103+05:30'
-last_seen: '2026-08-02T16:26:07.969103+05:30'
-last_checked: '2026-08-02T16:26:07.969103+05:30'
+first_seen: '2026-08-02T19:28:22.195324+05:30'
+last_seen: '2026-08-02T19:28:22.195324+05:30'
+last_checked: '2026-08-02T19:28:22.195324+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework built entirely in **n8n**, leveraging **adaptive RAG-powered memory**, **MCP templates for Skills**, and **delegated sub-agents (Expert Agents)** for hierarchical task execution.
 
-- **Modular architecture** with **MCP templates** for Skills, **Expert Agents** for hierarchical task delegation, and **proactive task management** for autonomous operation; integrates **media understanding** and **self-hosted deployment** via a single setup script.
+- **Capabilities**: Supports **proactive task management**, **media understanding**, and integrates **Crawl4AI** for web scraping, **SearXNG** for search, and **Supabase** for persistent storage—all deployable via a **single setup script**.
 
-- **Dependencies**: **Supabase** (vector storage), **Crawl4AI** (web scraping), **SearXNG** (search engine), with **Shell** as the primary scripting language; supports **AI agent frameworks** and **MCP-based tooling**.
+- **Deployment**: Self-hosted solution with **Shell-based setup**, targeting AI agent frameworks and MCP-compatible systems, last updated **2026-08-01** with **542 stars** and **104 forks**.
 
 ## Why It Matters
 

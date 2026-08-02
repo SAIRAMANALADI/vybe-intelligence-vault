@@ -22,10 +22,10 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch)
-- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG?source=post_page-----dba899ae0355---------------------------------------)
+- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
-- [IBM/mt-rag-benchmark](https://github.com/IBM/mt-rag-benchmark)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-08-02 16:40 IST*
+*Last updated: 2026-08-02 19:42 IST*

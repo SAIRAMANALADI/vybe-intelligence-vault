@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-08-02T16:22:56.765426+05:30'
-collected_at: '2026-08-02T16:22:56.765436+05:30'
+published_at: '2026-08-02T19:25:09.251008+05:30'
+collected_at: '2026-08-02T19:25:09.251024+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-08-02T16:22:56.765436+05:30'
-last_seen: '2026-08-02T16:22:56.765436+05:30'
-last_checked: '2026-08-02T16:22:56.765436+05:30'
+first_seen: '2026-08-02T19:25:09.251024+05:30'
+last_seen: '2026-08-02T19:25:09.251024+05:30'
+last_checked: '2026-08-02T19:25:09.251024+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Architecture**: Implements a ReAct agent with dynamic tool-calling, integrating retrieval pipelines only when additional context is required, leveraging NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
+- **Agentic RAG Architecture**: Implements a ReAct agent with dynamic tool-calling, integrating retrieval only when needed, using NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embeddings, and NeMo Retriever Reranking Model for document prioritization).
 
-- **NVIDIA NIM Integration**: Utilizes NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic models), async operations, and enterprise-grade reliability, with the LLM configured via `ChatNVIDIA` (e.g., `nvidia/nvidia-nemotron-nano-9b-v2`).
+- **NVIDIA NIM Endpoints**: Provides high-performance inference with tool binding, structured output (Pydantic models), async operations, and enterprise reliability for deploying agentic RAG systems.
 
-- **Pipeline Components**: Includes a Retrieval Chain with a retriever tool, text splitting for document ingestion, vector database storage (semantically indexed chunks), and a reranking step to prioritize relevant documents before LLM response generation.
+- **Modular Pipeline**: Includes models (Nemotron Nano 9b V2, Llama 3.2 EmbedQA 1b V2, Llama 3.2 RerankQA 1b V2), retrieval chain, and agent configuration, with clear system prompts for role specification, tool utilization, grounding, source citation, and conversational style.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T16:22:56.765426+05:30
+- Published: 2026-08-02T19:25:09.251008+05:30
 
 ## Related Tags
 

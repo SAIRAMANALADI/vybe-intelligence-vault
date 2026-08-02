@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-02T16:24:27.859709+05:30'
+collected_at: '2026-08-02T19:26:42.089013+05:30'
 published_at: '2026-08-01T13:09:12Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-02T16:24:27.859709+05:30'
-last_seen: '2026-08-02T16:24:27.859709+05:30'
-last_checked: '2026-08-02T16:24:27.859709+05:30'
+first_seen: '2026-08-02T19:26:42.089013+05:30'
+last_seen: '2026-08-02T19:26:42.089013+05:30'
+last_checked: '2026-08-02T19:26:42.089013+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for Large Language Models (LLMs), optimizing retrieval efficiency on large-scale corpora by leveraging linear graph traversal for contextual augmentation.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing both memory and computational efficiency compared to traditional graph-based RAG methods.
 
-- **ICLR 2026 Contribution**: Proposes a novel graph retrieval-augmented generation (GraphRAG) framework that reduces computational overhead while maintaining or improving retrieval accuracy compared to traditional hierarchical or dense retrieval methods.
+- **Scalability & Performance**: Demonstrates linear time complexity for retrieval operations, enabling scalable knowledge augmentation for LLMs on massive datasets while maintaining high retrieval accuracy and generation quality.
 
-- **Scalability & Implementation**: Implemented in Python, the framework supports large-scale text corpora with linear-time complexity for graph traversal, enabling efficient integration with LLMs for enhanced contextual generation.
+- **Implementation**: Provides a Python-based open-source implementation with modular components for graph construction, linear retrieval, and integration with LLMs, facilitating reproducible research and practical deployment.
 
 ## Why It Matters
 

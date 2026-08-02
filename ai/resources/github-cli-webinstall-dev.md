@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://webinstall.dev/gh/
-published_at: '2026-07-14T13:07:25.980680+05:30'
-collected_at: '2026-07-14T13:07:25.980694+05:30'
+published_at: '2026-08-02T19:36:09.668786+05:30'
+collected_at: '2026-08-02T19:36:09.668800+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:github-cli-webinstall-dev
-first_seen: '2026-07-14T13:07:25.980694+05:30'
-last_seen: '2026-07-14T13:07:25.980694+05:30'
-last_checked: '2026-07-14T13:07:25.980694+05:30'
+first_seen: '2026-08-02T19:36:09.668800+05:30'
+last_seen: '2026-08-02T19:36:09.668800+05:30'
+last_checked: '2026-08-02T19:36:09.668800+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- Installs GitHub CLI (`gh`) cross-platform via `webi gh@stable`, creating `~/.local/bin/gh`, `~/.config/gh/`, and updating `~/.config/envman/PATH.env` for PATH management.
-- Provides CLI commands for GitHub operations: `gh auth login`, `gh pr create`, `gh issue list`, `gh release create`, `gh run list/view/rerun`, and `gh alias set` for custom shortcuts.
-- Supports version switching (`@stable`, `@v1`, `@beta`) and integrates with Git for PRs, issues, and repo management.
+- **Installation & Update**: Installs/updates GitHub CLI (`gh`) via `webi gh@stable` (or `@v1`, `@beta`), modifying `~/.config/envman/PATH.env`, `~/.local/bin/gh`, and `~/.config/gh/`.
+- **Core Commands**: Supports PRs (`gh pr create/checkout/status`), issues (`gh issue list`), releases (`gh release create`), and repo actions (`gh run list/view/rerun`).
+- **Authentication & Aliases**: Requires `gh auth login`; allows custom command shortcuts via `gh alias set`.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-14T13:07:25.980680+05:30
+- Published: 2026-08-02T19:36:09.668786+05:30
 
 ## Related Tags
 

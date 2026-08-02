@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/terms
-published_at: '2026-08-02T09:35:36.189135+05:30'
-collected_at: '2026-08-02T09:35:36.189150+05:30'
+published_at: '2026-08-02T19:31:15.240025+05:30'
+collected_at: '2026-08-02T19:31:15.240051+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-08-02T09:35:36.189150+05:30'
-last_seen: '2026-08-02T09:35:36.189150+05:30'
-last_checked: '2026-08-02T09:35:36.189150+05:30'
+first_seen: '2026-08-02T19:31:15.240051+05:30'
+last_seen: '2026-08-02T19:31:15.240051+05:30'
+last_checked: '2026-08-02T19:31:15.240051+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Legal Entity & Jurisdiction**: Google LLC, a Delaware-registered entity under U.S. law, operates services under these terms, with contractual obligations enforceable in the United States.
+- **Legal Entity & Jurisdiction**: Google LLC, a Delaware-registered entity operating under U.S. law, provides services under these terms, with contractual obligations enforceable in the United States.
 
-- **Service Provision & Modifications**: Google provides integrated services (e.g., Search, Maps, Pixel) with AI/ML-driven improvements (e.g., spam detection, translations), subject to automatic updates and material changes with advance notice (except for urgent legal/security cases).
+- **Service Provision & Updates**: Google reserves the right to modify, add, or remove features/services, including automated updates to software, with material changes subject to advance notice unless urgent (e.g., security fixes).
 
-- **User Obligations & Restrictions**: Users must comply with terms, respect IP/privacy rights, avoid abuse (e.g., malware, reverse engineering, AI model training from outputs), and grant Google a license to process user-submitted content while retaining ownership.
+- **Content & Abuse Policies**: Users grant Google a license to process their content for service operation, while prohibiting reverse engineering, automated scraping, AI model training on Google-generated content, and activities violating intellectual property or privacy rights.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T09:35:36.189135+05:30
+- Published: 2026-08-02T19:31:15.240025+05:30
 
 ## Related Tags
 

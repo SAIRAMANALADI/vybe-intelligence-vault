@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-02T16:23:42.838667+05:30'
+collected_at: '2026-08-02T19:25:57.077027+05:30'
 published_at: '2026-08-02T02:34:01Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 4380
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-02T16:23:42.838667+05:30'
-last_seen: '2026-08-02T16:23:42.838667+05:30'
-last_checked: '2026-08-02T16:23:42.838667+05:30'
+first_seen: '2026-08-02T19:25:57.077027+05:30'
+last_seen: '2026-08-02T19:25:57.077027+05:30'
+last_checked: '2026-08-02T19:25:57.077027+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
-- **Technical Stack**: Implements infrastructure-as-code (Pulumi), containerization (Docker), vector databases (Qdrant), and ML orchestration (Bytewax, Qwak), with integrations for AWS, Comet-ML, and Superlinked.
-- **MLOps Focus**: Covers end-to-end MLOps workflows, emphasizing scalability, monitoring, and deployment strategies for generative AI applications.
+- **End-to-end LLM & RAG system**: Course provides hands-on guidance to build production-ready systems using LLMOps best practices, covering both source code and 12 structured lessons.
+- **Tech stack integration**: Utilizes AWS, Pulumi (IaC), Bytewax, Qdrant, Comet-ML, Qwak, and Superlinked for scalable ML pipelines, vector databases, and MLOps tooling.
+- **ML system design focus**: Covers infrastructure-as-code (IaC), generative AI deployment, and RAG optimization with Dockerized environments for reproducibility.
 
 ## Why It Matters
 

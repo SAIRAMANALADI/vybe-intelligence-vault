@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-02T16:26:07.937824+05:30'
+collected_at: '2026-08-02T19:28:22.205577+05:30'
 published_at: '2026-08-02T10:37:14Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- scripts
-- workflows
 stars: 26721
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-08-01T14:03:03Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-02T16:26:07.937824+05:30'
-last_seen: '2026-08-02T16:26:07.937824+05:30'
-last_checked: '2026-08-02T16:26:07.937824+05:30'
+first_seen: '2026-08-02T19:28:22.205577+05:30'
+last_seen: '2026-08-02T19:28:22.205577+05:30'
+last_checked: '2026-08-02T19:28:22.205577+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Fully Local AI Agent**: Implements an autonomous agent (`agenticSeek`) using Python, operating entirely locally without external APIs or cloud dependencies, relying solely on local compute resources and electricity costs.
-
-- **DeepSeek-R1 Integration**: Leverages the DeepSeek-R1 model for reasoning, browsing, and code execution capabilities, enabling advanced agentic behavior (e.g., web interaction, task automation) with minimal overhead.
-
-- **Voice & Multi-Modal Support**: Includes voice assistant functionality and supports LLM-agent orchestration, targeting autonomous workflows (e.g., research, coding) while avoiding subscription fees (e.g., no $200/month API bills).
+- **Local-first autonomous agent framework** leveraging DeepSeek-R1 for reasoning, eliminating API dependencies and reducing costs to electricity-only operation.
+- **Multi-modal capabilities** integrating web browsing, code execution, and voice assistant functionality entirely offline via Python-based LLM agents.
+- **Highly scalable open-source implementation** with 26.7k+ stars, supporting autonomous task execution, LLM-agent orchestration, and deep learning inference locally.
 
 ## Why It Matters
 

@@ -12,16 +12,18 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) (framework - USEFUL Tier)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - USEFUL Tier)
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) (benchmark - USEFUL Tier)
 - [register](https://clients.iban.com/register) (tutorial - USEFUL Tier)
-- [LangChain - YouTube](https://www.youtube.com/@LangChain) (tutorial - USEFUL Tier)
-- [- YouTube](https://www.youtube.com/watch?v=Yy3JH6dDugc) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [OpenAI · GitHub](https://github.com/openai)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [weaviate/weaviate](https://github.com/weaviate/weaviate)
 
 ## Best Learning Resources
@@ -40,4 +42,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-08-02 16:40 IST*
+*Last updated: 2026-08-02 19:42 IST*

@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/affaan-m/agentshield
-collected_at: '2026-08-02T16:24:37.892105+05:30'
-published_at: '2026-08-02T08:42:24Z'
+collected_at: '2026-08-02T19:26:52.067213+05:30'
+published_at: '2026-08-02T11:34:14Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
-stars: 1035
+stars: 1036
 language: TypeScript
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-11T06:31:44Z'
 pushed_at: '2026-07-22T07:01:25Z'
 resource_id: github:affaan-m/agentshield
-first_seen: '2026-08-02T16:24:37.892105+05:30'
-last_seen: '2026-08-02T16:24:37.892105+05:30'
-last_checked: '2026-08-02T16:24:37.892105+05:30'
+first_seen: '2026-08-02T19:26:52.067213+05:30'
+last_seen: '2026-08-02T19:26:52.067213+05:30'
+last_checked: '2026-08-02T19:26:52.067213+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions.
-- **Features**: Available as CLI, GitHub Action, ECC plugin, and GitHub App integration.
-- **Compatibility**: Supports TypeScript with topics including AI agents, Anthropic, Claude Code, MCP, and security.
+- **Security Scanner**: Detects vulnerabilities in AI agent configurations, MCP servers, and tool permissions with CLI, GitHub Action, ECC plugin, and GitHub App integration.
+- **Technical Stack**: Built in TypeScript with support for Anthropic's Claude Code and Opus models.
+- **Repository Metrics**: 1,036 stars, 218 forks, last updated 2026-08-02. Focuses on AI agent security and was developed for a hackathon.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: affaan-m
-- Stars: 1035
+- Stars: 1036
 - Forks: 218
 - Language: TypeScript
 - Topics: ai-agent, anthropic, claude-code, hackathon, mcp, opus, security
-- Last Updated: 2026-08-02T08:42:24Z
+- Last Updated: 2026-08-02T11:34:14Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-11T06:31:44Z

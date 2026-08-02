@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
-collected_at: '2026-08-02T16:25:37.927981+05:30'
+collected_at: '2026-08-02T19:27:52.124619+05:30'
 published_at: '2026-08-02T03:47:24Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - unknown
 stars: 282
 language: Unknown
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-01T05:40:33Z'
 pushed_at: '2026-07-30T00:50:55Z'
 resource_id: github:arunagirinathan-k/awesome-ai-agents-2026
-first_seen: '2026-08-02T16:25:37.927981+05:30'
-last_seen: '2026-08-02T16:25:37.927981+05:30'
-last_checked: '2026-08-02T16:25:37.927981+05:30'
+first_seen: '2026-08-02T19:27:52.124619+05:30'
+last_seen: '2026-08-02T19:27:52.124619+05:30'
+last_checked: '2026-08-02T19:27:52.124619+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with comparisons, benchmarks, and deep-dive analyses.
+- **Comprehensive Repository**: Curated list of **300+ AI agents, frameworks, and tools** spanning coding, creative, voice, research, and enterprise domains, with a focus on **2026 advancements**.
 
-- **Key Frameworks & Tools**: Includes prominent frameworks like CrewAI, LangChain, and LLM-based agents, with a focus on autonomous agent development and LLM integration.
+- **Technical Resources**: Includes **comparison guides, benchmarks, and deep dives** on frameworks like **CrewAI, LangChain**, and **LLM-based autonomous agents**.
 
-- **Updated & Structured**: Last updated in 2026, organized under topics such as `ai-agents`, `agent-frameworks`, `llm`, and `autonomous-agents`, with 282 stars and 134 forks.
+- **Updated & Structured**: Last updated **August 2026**, organized under topics such as **agent-frameworks, ai-tools, and llm-agents**, with **282 stars** and **134 forks**.
 
 ## Why It Matters
 

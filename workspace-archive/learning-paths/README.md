@@ -15,7 +15,7 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - USEFUL Tier)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com) (framework - USEFUL Tier)
-- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) (template - USEFUL Tier)
+- [microsoft/rag-time](https://github.com/microsoft/rag-time) (dataset - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,9 +23,9 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [Collections · GitHub](https://github.com/collections)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
-- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python)
+- [microsoft/rag-time](https://github.com/microsoft/rag-time)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide)
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-02 16:40 IST*
+*Last updated: 2026-08-02 19:42 IST*
