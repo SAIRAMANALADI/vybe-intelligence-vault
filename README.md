@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-144%2C611-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-84%2C754-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--02-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **144,611 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **84,754 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,368</p>
-        <p><b>Active:</b> 15,924 | <b>Inactive:</b> 444</p>
+        <p><b>Resources tracked:</b> 15,364</p>
+        <p><b>Active:</b> 14,920 | <b>Inactive:</b> 444</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 61,011</p>
+        <p><b>Archive Files:</b> 2,102</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 144,611 files</p>
-        <p><b>Last Update:</b> 2026-08-02 19:43 IST</p>
+        <p><b>Total Vault Size:</b> 84,754 files</p>
+        <p><b>Last Update:</b> 2026-08-02 20:33 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Spaces · Hugging Face](ai/rag/huggingface-docs-hub.md)** • Rank: <kbd>+126</kbd>
-- 🔼 **[Hugging Face – The AI community building the future.](ai/resources/hugging-face-the-ai-community-building-the-future.md)** • Rank: <kbd>+69</kbd>
-- 🔼 **[GitHub CLI | webinstall.dev](ai/resources/github-cli-webinstall-dev.md)** • Rank: <kbd>+6526</kbd>
-- 🔼 **[Homebrew: The Package Manager for Everywhere](ai/resources/homebrew-the-package-manager-for-everywhere.md)** • Rank: <kbd>+6526</kbd>
-- 🔼 **[GitHub Features · GitHub](ai/rag/github-features-github.md)** • Rank: <kbd>+11</kbd>
+- 🔼 **[GitHub CLI | webinstall.dev](ai/resources/github-cli-webinstall-dev.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[GitHub Features · GitHub](ai/rag/github-features-github.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[electron/electron](ai/rag/electron-electron.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Researching with GitHub Copilot CLI - GitHub Docs](ai/agents/researching-with-github-copilot-cli-github-docs.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Node.js — Run JavaScript Everywhere](ai/resources/node-js-run-javascript-everywhere.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Has the New Cocaine Arrived?](ai/community/has-the-new-cocaine-arrived.md)** • Score: `36`
-- 🆕 **[RFC 2119 - Key words for use in RFCs to Indicate Requirement Levels](ai/resources/rfc-2119-key-words-for-use-in-rfcs-to-indicate-req.md)** • Score: `0`
-- 🆕 **[[1908.10084] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](ai/rag/1908-10084-sentence-bert-sentence-embeddings-using.md)** • Score: `0`
-- 🆕 **[Security Verification](ai/resources/security-verification.md)** • Score: `0`
-- 🆕 **[Control Your Online Safety and Privacy - Google Safety Center](ai/resources/control-your-online-safety-and-privacy-google-safe.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[I don't recommend Tailwind CSS](ai/community/i-don-t-recommend-tailwind-css.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
