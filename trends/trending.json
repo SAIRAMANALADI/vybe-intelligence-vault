@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T04:01:17.954313+05:30",
+  "generated_at": "2026-08-03T04:27:02.191862+05:30",
   "trending_resources": [
     {
       "id": "blog:pandoc-conversion-between-markup-formats",
@@ -54,19 +54,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:android-mobile-app-developer-tools-android-develop",
-      "title": "Android Mobile App Developer Tools - Android Developers",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://developer.android.com",
-      "file_path": "ai/rag/android-mobile-app-developer-tools-android-develop.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 55,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:chrome-for-developers",
       "title": "Chrome for Developers",
       "category": "ai/agents",
@@ -75,7 +62,7 @@
       "file_path": "ai/agents/chrome-for-developers.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1547,
+      "rank_change": 1548,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +75,7 @@
       "file_path": "ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 55,
+      "rank_change": 56,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +88,7 @@
       "file_path": "ai/resources/speechifyinc-ai-api-examples.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 56,
+      "rank_change": 57,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +101,7 @@
       "file_path": "ai/rag/cookbook-haystack.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1474,
+      "rank_change": 1475,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,25 +114,25 @@
       "file_path": "ai/rag/scite-ai-for-research.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1399,
+      "rank_change": 1400,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:fast-open-source-olap-dbms-clickhouse",
+      "title": "Fast Open-Source OLAP DBMS | ClickHouse",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://clickhouse.com",
+      "file_path": "ai/rag/fast-open-source-olap-dbms-clickhouse.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1366,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
-    {
-      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
-      "title": "Medium Privacy Policy | by Medium | Medium Policy",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
-      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 8330,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
     {
       "id": "github:explodinggradients/ragas",
       "title": "explodinggradients/ragas",
@@ -155,7 +142,7 @@
       "file_path": "ai/rag/explodinggradients-ragas.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4678,
+      "rank_change": 4703,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +155,7 @@
       "file_path": "ai/rag/activepieces-activepieces.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2701,
+      "rank_change": 2728,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +168,20 @@
       "file_path": "ai/rag/csmetrics-influencemap.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1805,
+      "rank_change": 1814,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:influenceflower",
+      "title": "InfluenceFlower",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://influencemap.cmlab.dev",
+      "file_path": "ai/resources/influenceflower.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1797,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -199,19 +199,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:influenceflower",
-      "title": "InfluenceFlower",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://influencemap.cmlab.dev",
-      "file_path": "ai/resources/influenceflower.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1777,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:incident-io-youtube",
       "title": "incident-io - YouTube",
       "category": "ai/rag",
@@ -220,7 +207,7 @@
       "file_path": "ai/rag/incident-io-youtube.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1662,
+      "rank_change": 1671,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,20 @@
       "file_path": "ai/rag/simon-willison-prompt-injection.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1584,
+      "rank_change": 1601,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:client-libraries-resemble-documentation",
+      "title": "Client Libraries | Resemble | Documentation",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://docs.resemble.ai/libraries",
+      "file_path": "ai/resources/client-libraries-resemble-documentation.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1587,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/rag/gradio.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1573,
+      "rank_change": 1584,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +259,7 @@
       "file_path": "ai/resources/gradio-app-gradio.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1571,
+      "rank_change": 1578,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -344,38 +344,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:hugging-face-the-ai-community-building-the-future",
-      "title": "Hugging Face – The AI community building the future.",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://huggingface.co",
-      "file_path": "ai/resources/hugging-face-the-ai-community-building-the-future.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:talk-to-sales-speechifyai-api",
       "title": "Talk to Sales - SpeechifyAI API",
       "category": "ai/agents",
       "source_type": "web",
       "url": "https://simbavoice.ai/contact",
       "file_path": "ai/agents/talk-to-sales-speechifyai-api.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:article-galaxy-tutorials-research-solutions-help-s",
-      "title": "Article Galaxy Tutorials – Research Solutions Help & Support Center",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://help.reprintsdesk.com/hc/en-us/articles/360043246291",
-      "file_path": "ai/resources/article-galaxy-tutorials-research-solutions-help-s.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -396,12 +370,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:spaces-hugging-face",
-      "title": "Spaces - Hugging Face",
+      "id": "blog:indexing-overview-pinecone-docs",
+      "title": "Indexing overview - Pinecone Docs",
       "category": "ai/rag",
       "source_type": "web",
-      "url": "https://huggingface.co/spaces",
-      "file_path": "ai/rag/spaces-hugging-face.md",
+      "url": "https://docs.pinecone.io/docs/namespaces",
+      "file_path": "ai/rag/indexing-overview-pinecone-docs.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -409,12 +383,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:syntax-highlighting-styles",
-      "title": "Syntax highlighting styles",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://gohugo.io/quick-reference/syntax-highlighting-styles",
-      "file_path": "ai/rag/syntax-highlighting-styles.md",
+      "id": "github:hkuds/ai-researcher",
+      "title": "HKUDS/AI-Researcher",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/hkuds/ai-researcher",
+      "file_path": "ai/agents/hkuds-ai-researcher.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -422,12 +396,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:scite-status",
-      "title": "Scite Status",
-      "category": "ai/resources",
+      "id": "blog:rag-chunk-size-guide-find-the-best-setting-llamain",
+      "title": "RAG Chunk Size Guide: Find The Best Setting | LlamaIndex",
+      "category": "ai/rag",
       "source_type": "web",
-      "url": "https://status.scite.ai",
-      "file_path": "ai/resources/scite-status.md",
+      "url": "https://llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5",
+      "file_path": "ai/rag/rag-chunk-size-guide-find-the-best-setting-llamain.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -435,12 +409,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:welcome-to-llamaindex-developer-documentation",
-      "title": "Welcome to LlamaIndex 🦙 ! | Developer Documentation",
+      "id": "blog:the-ultimate-list-of-python-rag-projects-on-github",
+      "title": "The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all",
       "category": "ai/rag",
       "source_type": "web",
-      "url": "https://docs.llamaindex.ai/en/stable",
-      "file_path": "ai/rag/welcome-to-llamaindex-developer-documentation.md",
+      "url": "https://dasroot.net/posts/2026/03/python-rag-projects-github",
+      "file_path": "ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -448,12 +422,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:ai-document-extraction-software-with-confidence-sc",
-      "title": "AI Document Extraction Software with confidence scores and citations | Extract",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://llamaindex.ai/llamaextract",
-      "file_path": "ai/rag/ai-document-extraction-software-with-confidence-sc.md",
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

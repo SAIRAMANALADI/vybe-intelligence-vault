@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-144%2C916-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-84%2C953-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--03-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **144,916 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **84,953 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,424</p>
-        <p><b>Active:</b> 15,978 | <b>Inactive:</b> 446</p>
+        <p><b>Resources tracked:</b> 15,429</p>
+        <p><b>Active:</b> 14,983 | <b>Inactive:</b> 446</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 61,121</p>
+        <p><b>Archive Files:</b> 2,120</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 144,916 files</p>
-        <p><b>Last Update:</b> 2026-08-03 04:01 IST</p>
+        <p><b>Total Vault Size:</b> 84,953 files</p>
+        <p><b>Last Update:</b> 2026-08-03 04:27 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -214,7 +214,7 @@ score_threshold: 0.65
 - 🔼 **[Speechify · GitHub](ai/agents/speechify-github.md)** • Rank: <kbd>+59</kbd>
 - 🔼 **[Speechify-AI/tts-shims](ai/agents/speechify-ai-tts-shims.md)** • Rank: <kbd>+62</kbd>
 - 🔼 **[Speechify Inc status](ai/resources/speechify-inc-status.md)** • Rank: <kbd>+1787</kbd>
-- 🔼 **[Android Mobile App Developer Tools - Android Developers](ai/rag/android-mobile-app-developer-tools-android-develop.md)** • Rank: <kbd>+55</kbd>
+- 🔼 **[Chrome for Developers](ai/agents/chrome-for-developers.md)** • Rank: <kbd>+1548</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
