@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-02T09:23:50.389391+05:30'
+collected_at: '2026-08-02T14:09:22.627654+05:30'
 published_at: '2026-08-01T15:12:46Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1486
 language: JavaScript
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-02T09:23:50.389391+05:30'
-last_seen: '2026-08-02T09:23:50.389391+05:30'
-last_checked: '2026-08-02T09:23:50.389391+05:30'
+first_seen: '2026-08-02T14:09:22.627654+05:30'
+last_seen: '2026-08-02T14:09:22.627654+05:30'
+last_checked: '2026-08-02T14:09:22.627654+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step JavaScript-based tutorial to build a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs (via `node-llama-cpp`), emphasizing transparency and eliminating black-box components.
-
-- **Core Technical Components**: Demonstrates the full RAG pipeline, including embeddings generation, vector search (likely using cosine similarity or similar), retrieval mechanisms, and context-augmented generation with Node.js.
-
-- **Open-Source & Practical Focus**: Repository serves as an educational tool with 1.4K+ stars, covering RAG chatbots, agents, and pipelines, last updated in 2026, and designed for hands-on learning in AI/ML integration.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies.
+- **Core Components**: Implements embeddings generation, vector search (likely cosine similarity or FAISS-like indexing), retrieval, and context-augmented generation in a single, transparent workflow.
+- **Agent & Chatbot Integration**: Provides a tutorial for building AI agents and RAG-based chatbots, emphasizing practical understanding of the underlying mechanics (e.g., retrieval strategies, prompt augmentation).
 
 ## Why It Matters
 

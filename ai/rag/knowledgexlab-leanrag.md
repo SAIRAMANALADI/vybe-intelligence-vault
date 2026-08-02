@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-02T09:25:15.504527+05:30'
+collected_at: '2026-08-02T14:10:47.739471+05:30'
 published_at: '2026-07-26T03:07:53Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-02T09:25:15.504527+05:30'
-last_seen: '2026-08-02T09:25:15.504527+05:30'
-last_checked: '2026-08-02T09:25:15.504527+05:30'
+first_seen: '2026-08-02T14:10:47.739471+05:30'
+last_seen: '2026-08-02T14:10:47.739471+05:30'
+last_checked: '2026-08-02T14:10:47.739471+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (semantic aggregation + hierarchical traversal) to enhance contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., node, subgraph, global) and semantic aggregation to enhance contextual relevance in generation tasks.
 
-- **Efficiency Optimizations**: Leverages lightweight graph pruning and adaptive retrieval strategies to reduce computational overhead while maintaining high retrieval accuracy.
+- **AAAI 2026 Contribution**: Proposes a lightweight, efficient architecture (LeanRAG) optimized for low-latency, high-precision knowledge-grounded generation, leveraging graph-based reasoning.
 
-- **Python Implementation**: Provides a modular, open-source Python library with AAAI 2026 benchmarks, supporting integration with LLMs for knowledge-intensive generation tasks.
+- **Python Implementation**: Provides modular components for knowledge graph construction, retrieval, and integration with LLMs, with open-source availability for reproducibility.
 
 ## Why It Matters
 

@@ -3,9 +3,9 @@ title: What is the Model Context Protocol (MCP)? - Model Context Protocol
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://modelcontextprotocol.io/docs/getting-started/intro
-published_at: '2026-07-08T14:26:13.279524+05:30'
-collected_at: '2026-07-08T14:26:13.279537+05:30'
+source_url: https://modelcontextprotocol.io
+published_at: '2026-08-02T14:15:29.238242+05:30'
+collected_at: '2026-08-02T14:15:29.238251+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:what-is-the-model-context-protocol-mcp-model-conte
-first_seen: '2026-07-08T14:26:13.279537+05:30'
-last_seen: '2026-07-08T14:26:13.279537+05:30'
-last_checked: '2026-07-08T14:26:13.279537+05:30'
+first_seen: '2026-08-02T14:15:29.238251+05:30'
+last_seen: '2026-08-02T14:15:29.238251+05:30'
+last_checked: '2026-08-02T14:15:29.238251+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Integration**: MCP is an open-source protocol enabling standardized, bidirectional communication between AI applications (e.g., Claude, ChatGPT) and external systems (data sources, tools, workflows) via a unified interface, analogous to USB-C for AI connectivity.
+- **Standardized Integration**: MCP is an open-source protocol enabling standardized, bidirectional connectivity between AI applications (e.g., Claude, ChatGPT) and external systems (data sources, tools, workflows) via a unified interface, analogous to USB-C for AI.
 
-- **Cross-Ecosystem Compatibility**: Supports broad integration across clients (e.g., VS Code, Cursor) and servers, allowing AI agents to access diverse resources (e.g., Google Calendar, Notion, Blender) and execute tasks (e.g., 3D design, database queries) with reduced development overhead.
+- **Cross-Ecosystem Compatibility**: Supports broad ecosystem integration across clients (e.g., VS Code, Cursor) and servers, allowing AI agents to access diverse resources (e.g., Google Calendar, databases, design tools) and perform multi-step tasks (e.g., 3D design-to-print workflows).
 
-- **Multi-Stakeholder Benefits**: For developers, MCP simplifies integration; for AI agents, it expands capabilities via ecosystem tools; for end-users, it enhances functionality by enabling personalized, data-driven interactions and automated workflows.
+- **Development Efficiency**: Reduces integration complexity for developers by abstracting low-level details, enabling rapid deployment of MCP-compliant servers/clients and enhancing AI capabilities through modular, plug-and-play tooling.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-08T14:26:13.279524+05:30
+- Published: 2026-08-02T14:15:29.238242+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://modelcontextprotocol.io/docs/getting-started/intro
+Original source: https://modelcontextprotocol.io

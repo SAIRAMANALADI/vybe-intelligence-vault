@@ -4,11 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-02T09:23:45.426792+05:30'
+collected_at: '2026-08-02T14:09:17.649740+05:30'
 published_at: '2026-08-01T23:58:34Z'
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
+- models
 - python
 - rag
 - workflows
@@ -19,9 +22,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-02T09:23:45.426792+05:30'
-last_seen: '2026-08-02T09:23:45.426792+05:30'
-last_checked: '2026-08-02T09:23:45.426792+05:30'
+first_seen: '2026-08-02T14:09:17.649740+05:30'
+last_seen: '2026-08-02T14:09:17.649740+05:30'
+last_checked: '2026-08-02T14:09:17.649740+05:30'
 health_score: 100
 ---
 
@@ -29,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG workflows using local language models (LLMs) via frameworks like LangChain, emphasizing offline deployment and reduced dependency on cloud APIs.
-
-- **Dynamic Database Updates**: Implements automated or semi-automated vector database (e.g., Chroma, FAISS) refresh mechanisms to incorporate new documents or embeddings without full re-indexing.
-
-- **Testing & Evaluation Framework**: Includes structured testing pipelines (e.g., retrieval accuracy, response relevance) with metrics like precision/recall or custom evaluators to validate RAG system performance.
+- **Local LLM Integration**: Demonstrates deployment and fine-tuning of local large language models (LLMs) for retrieval-augmented generation (RAG) workflows, avoiding cloud dependency.
+- **Dynamic Database Updates**: Implements mechanisms for real-time or batch updates to vector databases (e.g., Chroma, FAISS) to ensure retrieval freshness without full re-indexing.
+- **Testing Framework**: Includes automated evaluation pipelines for RAG systems, measuring metrics like retrieval precision, answer relevance, and latency using synthetic or real-world datasets.
 
 ## Why It Matters
 

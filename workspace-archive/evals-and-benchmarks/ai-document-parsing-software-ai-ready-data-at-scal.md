@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Supports 90+ document formats** with layout-aware parsing, multimodal extraction (tables, charts, images), and granular control for cost-accuracy tradeoffs.
-- **Enterprise-grade scalability** with multilingual support (100+ languages), local/cloud deployment, and high concurrency for large-scale document processing.
-- **Optimized for complex workflows** including technical docs, scientific papers, invoices, and healthcare forms, with SDKs (TypeScript/Python) and live notebooks for developer
+- **Multimodal & Layout-Aware Parsing**: Supports 90+ formats with layout-aware extraction (headers, footers, split sections) and multimodal context from charts, tables, and images, including handwriting and checkboxes.
+
+- **Scalable & Multilingual**: Processes 1B+ documents with enterprise-grade scalability (millions of pages), multilingual support (100+ languages), and granular parsing modes for cost-accuracy optimization.
+
+- **Enterprise-Ready & Developer-Focused**: Offers local/cloud deploym
 
 ## Use Cases
 

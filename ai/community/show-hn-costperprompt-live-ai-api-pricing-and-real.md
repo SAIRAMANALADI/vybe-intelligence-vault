@@ -13,13 +13,14 @@ collected_at: '2026-08-02T09:22:46.725736+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-costperprompt-live-ai-api-pricing-and-real
 first_seen: '2026-08-02T09:22:46.725736+05:30'
 last_seen: '2026-08-02T09:22:46.725736+05:30'
 last_checked: '2026-08-02T09:22:46.725736+05:30'
 health_score: 100
 ---
+
 
 # Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators
 

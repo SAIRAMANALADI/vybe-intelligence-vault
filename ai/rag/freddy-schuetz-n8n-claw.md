@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-02T09:26:55.600070+05:30'
+collected_at: '2026-08-02T14:12:27.793251+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-02T09:26:55.600070+05:30'
-last_seen: '2026-08-02T09:26:55.600070+05:30'
-last_checked: '2026-08-02T09:26:55.600070+05:30'
+first_seen: '2026-08-02T14:12:27.793251+05:30'
+last_seen: '2026-08-02T14:12:27.793251+05:30'
+last_checked: '2026-08-02T14:12:27.793251+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging MCP (Model Context Protocol) for Skills and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Core Features**: Adaptive RAG-powered memory system, proactive task management, media understanding capabilities, and integration with Supabase for persistent storage—all deployable via a single setup script.
+- **Proactive Task Management & Media Understanding**: Supports self-hosted deployment via a single setup script, enabling proactive task handling, media comprehension, and integration with tools like Crawl4AI and SearXNG for web scraping and search.
 
-- **Dependencies & Integrations**: Utilizes **Crawl4AI** for scraping, **SearXNG** for search, and supports **Supabase** for database operations, enabling a self-hosted, modular AI agent system.
+- **Modular & Scalable Architecture**: Leverages Supabase for backend storage, supports Model Context Protocol (MCP) templates for skill expansion, and includes pre-configured components for rapid deployment of AI agent systems.
 
 ## Why It Matters
 

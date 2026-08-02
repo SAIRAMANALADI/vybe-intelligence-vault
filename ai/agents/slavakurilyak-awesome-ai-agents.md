@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-08-02T09:26:15.528298+05:30'
+collected_at: '2026-08-02T14:11:47.737186+05:30'
 published_at: '2026-08-01T18:56:45Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - paper
 - python
+- scripts
 stars: 2125
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-08-02T09:26:15.528298+05:30'
-last_seen: '2026-08-02T09:26:15.528298+05:30'
-last_checked: '2026-08-02T09:26:15.528298+05:30'
+first_seen: '2026-08-02T14:11:47.737186+05:30'
+last_seen: '2026-08-02T14:11:47.737186+05:30'
+last_checked: '2026-08-02T14:11:47.737186+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: GitHub repository hosting 300+ curated links, tools, frameworks, and research papers focused on agentic AI systems, covering architectures, methodologies, and applications.
-- **Python-Centric**: Primarily Python-based, facilitating integration with ML libraries (e.g., PyTorch, LangChain) and agent frameworks (e.g., AutoGen, CrewAI).
-- **High Activity Metrics**: 2,125 stars and 515 forks indicate strong community engagement; last updated in August 2026, ensuring relevance to current agentic AI advancements.
+- **Curated Collection**: Repository hosting an extensive, community-driven list of 300+ agentic AI resources, including frameworks, tools, research papers, and tutorials focused on autonomous AI agents.
+- **Technical Stack**: Primarily implemented in Python, with structured categorization by agent paradigms (e.g., LLM-based, reinforcement learning, multi-agent systems) and use cases (e.g., automation, reasoning, tool-use).
+- **Active Maintenance**: Last updated in August 2026, with 2,125 stars and 515 forks, indicating sustained community engagement and contributions.
 
 ## Why It Matters
 

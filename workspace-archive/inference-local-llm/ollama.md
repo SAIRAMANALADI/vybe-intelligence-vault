@@ -1,10 +1,10 @@
 ---
 title: Ollama
 archive_category: inference-local-llm
-source_category: ai/rag
-source_url: https://ollama.com/
+source_category: ai/resources
+source_url: https://ollama.com
 resource_id: blog:ollama
-local_vault_path: ai/rag/ollama.md
+local_vault_path: ai/resources/ollama.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -13,7 +13,6 @@ importance: medium
 tags:
 - meta-ai
 - models
-- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform CLI tool**: Ollama provides a simple command-line interface (`irm https://ollama.com/install.ps1 | iex` for PowerShell) to install and manage open-source LLMs locally across Windows, macOS, and Linux.
+- **Cross-platform CLI tool**: Ollama enables local execution of open-source LLMs via a simple PowerShell command (`irm https://ollama.com/install.ps1 | iex`) for Windows, with downloadable binaries for other OSes.
 
-- **Open-source model support**: Enables local deployment of pre-trained open models with minimal setup, bypassing cloud dependencies for privacy and customization.
+- **Minimal setup**: Automates model deployment with a single command, eliminating cloud dependencies and reducing latency for inference tasks.
 
-- **Minimalist architecture**: Designed for lightweight execution, leveraging system resources efficiently while
+- **Open-source compatibility**: Supports integration with community-driven LLMs, prioritizing transparency and customization without propr
 
 ## Use Cases
 
@@ -47,8 +46,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://ollama.com/
+Original source URL: https://ollama.com
 
 ## Local Vault File
 
-Path: [ollama.md](../../ai/rag/ollama.md)
+Path: [ollama.md](../../ai/resources/ollama.md)

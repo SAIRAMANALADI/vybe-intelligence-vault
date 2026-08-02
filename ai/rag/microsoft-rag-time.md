@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-02T09:23:40.431443+05:30'
+collected_at: '2026-08-02T14:09:12.641910+05:30'
 published_at: '2026-07-31T15:52:46Z'
 tags:
 - github-repo
@@ -14,6 +14,7 @@ tags:
 - openai
 - rag
 - reddit
+- workflows
 stars: 897
 language: Jupyter Notebook
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-02T09:23:40.431443+05:30'
-last_seen: '2026-08-02T09:23:40.431443+05:30'
-last_checked: '2026-08-02T09:23:40.431443+05:30'
+first_seen: '2026-08-02T14:09:12.641910+05:30'
+last_seen: '2026-08-02T14:09:12.641910+05:30'
+last_checked: '2026-08-02T14:09:12.641910+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Learning Path**: 5-week structured journey covering RAG fundamentals, hybrid search (vector + keyword), quantization (binary/scalar), and multimodal RAG using Azure OpenAI and HNSW indexing.
-- **Technical Stack**: Integrates Jupyter Notebooks, Matryoshka representation learning, and VS Code for hands-on labs on retrieval-augmented generation (RAG), responsible AI, and advanced indexing techniques.
-- **Tools & Methods**: Demonstrates OpenAI GPT integration, scalar/binary quantization for efficient vector search, and hybrid retrieval combining keyword and vector search with Azure deployments.
+- **Repository Overview**: A structured 5-week learning program (`microsoft/rag-time`) focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, quantization (binary/scalar), indexing (HNSW), and multimodal applications using tools like Azure, OpenAI, and VS Code.
+
+- **Technical Components**: Implements advanced RAG pipelines with Matryoshka representation learning, vector/keyword search, and responsible AI practices; includes Jupyter Notebooks for hands-on experimentation with LLMs, GPT, and Azure AI services.
+
+- **Key Topics**: Covers binary/scalar quantization, HNSW indexing, hybrid search (vector + keyword), and multimodal RAG workflows, emphasizing scalable and efficient retrieval architectures.
 
 ## Why It Matters
 

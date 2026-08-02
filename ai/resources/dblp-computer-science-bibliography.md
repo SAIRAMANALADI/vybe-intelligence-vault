@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://dblp.uni-trier.de
-published_at: '2026-07-21T20:03:27.014885+05:30'
-collected_at: '2026-07-21T20:03:27.014898+05:30'
+published_at: '2026-08-02T14:19:08.465101+05:30'
+collected_at: '2026-08-02T14:19:08.465113+05:30'
 tags:
 - benchmark
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:dblp-computer-science-bibliography
-first_seen: '2026-07-21T20:03:27.014898+05:30'
-last_seen: '2026-07-21T20:03:27.014898+05:30'
-last_checked: '2026-07-21T20:03:27.014898+05:30'
+first_seen: '2026-08-02T14:19:08.465113+05:30'
+last_seen: '2026-08-02T14:19:08.465113+05:30'
+last_checked: '2026-08-02T14:19:08.465113+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **dblp** is a comprehensive computer science bibliography providing open bibliographic information on major computer science publications, with over **8.6M publication records** indexed, including XML, RDF, and JSON data dumps for bulk access.
+- **dblp** is a comprehensive computer science bibliography providing open bibliographic information on major computer science publications, with over **8.68M indexed publications** and support for XML/RDF data dumps and APIs for structured queries.
 
-- **Search and API functionality** includes case-insensitive prefix search, exact word matching (with `$`), boolean operators (`AND` via space, `OR` via `|`), and a **CompleteSearch**-based backend for efficient querying, with API endpoints for author, venue, and publication searches returning results in XML/JSON/JSONP formats.
+- **Search functionality** includes case-insensitive prefix search, exact word matching (via `$`), boolean operators (`AND` via space, `OR` via `|`), and integrates with external academic search engines (Google Scholar, Semantic Scholar, etc.).
 
-- **NFDI integration** supports **NFDIxCS** and **NFDI4DataScience** initiatives, offering services like artifact evaluation, text extraction, and research data management tools (e.g., RDMC, ORKG, MLentory) alongside standard bibliographic and metadata access.
+- **NFDI initiatives** (NFDIxCS, NFDI4DataScience) extend dblp’s infrastructure with services like **artifact evaluation, text extraction, ORKG integration, and FDO management**, while current processing delays for support requests exceed **8 weeks** due to high community demand.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T20:03:27.014885+05:30
+- Published: 2026-08-02T14:19:08.465101+05:30
 
 ## Related Tags
 

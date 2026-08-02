@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-02T09:24:30.448907+05:30'
+collected_at: '2026-08-02T14:10:02.686119+05:30'
 published_at: '2026-08-01T12:26:39Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 185
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-01T12:26:23Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-02T09:24:30.448907+05:30'
-last_seen: '2026-08-02T09:24:30.448907+05:30'
-last_checked: '2026-08-02T09:24:30.448907+05:30'
+first_seen: '2026-08-02T14:10:02.686119+05:30'
+last_seen: '2026-08-02T14:10:02.686119+05:30'
+last_checked: '2026-08-02T14:10:02.686119+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable RAG systems, focusing on battle-tested solutions in AI/ML engineering.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, focusing on deployment-ready solutions.
 
-- **Technical scope**: Covers embeddings, vector databases, LLMops, and MLOps with Python-centric implementations, including integrations with LangChain and generative AI pipelines.
+- **Comprehensive Tech Stack**: Includes Python-based tools for embeddings, vector databases, LLM orchestration (e.g., LangChain), and MLOps/LLMOps pipelines, covering the full RAG lifecycle from retrieval to generation.
 
-- **Maintenance**: Last updated in 2026, the list includes topics like `rag`, `llm`, and `vector-database`, with 185 stars and 46 forks, indicating active community engagement.
+- **Community-Driven Curation**: Maintained as an "awesome-list" with 185 stars and 46 forks, last updated in 2026, ensuring up-to-date references for AI engineering and generative AI applications.
 
 ## Why It Matters
 

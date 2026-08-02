@@ -25,8 +25,8 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm)
 - [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+- [simonw/llm](https://github.com/simonw/llm)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
-- [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-08-02 09:41 IST*
+*Last updated: 2026-08-02 14:27 IST*

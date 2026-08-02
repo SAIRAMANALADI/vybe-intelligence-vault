@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-08-02T09:25:10.530260+05:30'
+collected_at: '2026-08-02T14:10:42.719842+05:30'
 published_at: '2026-08-01T12:03:31Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-08-02T09:25:10.530260+05:30'
-last_seen: '2026-08-02T09:25:10.530260+05:30'
-last_checked: '2026-08-02T09:25:10.530260+05:30'
+first_seen: '2026-08-02T14:10:42.719842+05:30'
+last_seen: '2026-08-02T14:10:42.719842+05:30'
+last_checked: '2026-08-02T14:10:42.719842+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Framework**: Implements a production-grade, agentic Retrieval-Augmented Generation (RAG) system with RESTful API support for scalable AI retrieval tasks.
+- **Agentic RAG Framework**: Production-ready Python-based retrieval system implementing agentic Retrieval-Augmented Generation (RAG) with RESTful API endpoints for dynamic, multi-step retrieval and generation workflows.
 
-- **Modular Python Architecture**: Built in Python with components for indexing, retrieval, and generation, optimized for large language models (LLMs) and question-answering workflows.
+- **Advanced Retrieval Mechanisms**: Integrates state-of-the-art (SoTA) retrieval techniques optimized for large-scale question-answering, supporting hybrid search, vector embeddings, and structured metadata filtering.
 
-- **Advanced Retrieval Capabilities**: Supports hybrid search (semantic + keyword), vector databases, and dynamic agent-based query routing for high-performance retrieval systems.
+- **Scalable Architecture**: Designed for high-throughput deployments with modular components for ingestion, indexing, retrieval, and generation, enabling seamless integration with LLMs and external knowledge bases.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/stable/concepts/metrics/
-published_at: '2026-08-01T21:48:54.817160+05:30'
-collected_at: '2026-08-01T21:48:54.817173+05:30'
+published_at: '2026-08-02T14:13:49.963356+05:30'
+collected_at: '2026-08-02T14:13:49.963365+05:30'
 tags:
 - benchmark
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:metrics-ragas
-first_seen: '2026-08-01T21:48:54.817173+05:30'
-last_seen: '2026-08-01T21:48:54.817173+05:30'
-last_checked: '2026-08-01T21:48:54.817173+05:30'
+first_seen: '2026-08-02T14:13:49.963365+05:30'
+last_seen: '2026-08-02T14:13:49.963365+05:30'
+last_checked: '2026-08-02T14:13:49.963365+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Ragas Metrics Framework**: Provides a structured approach to evaluating RAG (Retrieval-Augmented Generation) systems, emphasizing modularity, extensibility, and standardized evaluation metrics for both retrieval and generation components.
+- **Metric Design Principles**: Ragas metrics are structured around **faithfulness**, **answer relevance**, and **context relevance**, ensuring evaluation aligns with retrieval-augmented generation (RAG) system objectives.
 
-- **Core Metrics Categories**: Includes key metrics like **Faithfulness** (measures hallucination), **Answer Relevance** (assesses response pertinence), **Context Precision/Recall** (evaluates retrieval quality), and **Context Relevance** (gauges contextual grounding).
+- **Available Metrics**: Includes **Faithfulness** (measures hallucination via entailment), **Answer Relevance** (assesses query-answer alignment), and **Context Relevance** (evaluates retrieved context utility), each with probabilistic scoring mechanisms.
 
-- **Implementation & Extensibility**: Metrics are implemented as modular components with configurable parameters (e.g., `embedding_model`, `llm`), enabling customization for domain-specific RAG pipelines via the `ragas.metrics` API.
+- **Implementation**: Metrics leverage **LLM-as-a-judge** paradigms with fine-tuned prompts, enabling automated, scalable evaluation of RAG pipelines without manual annotation.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T21:48:54.817160+05:30
+- Published: 2026-08-02T14:13:49.963356+05:30
 
 ## Related Tags
 

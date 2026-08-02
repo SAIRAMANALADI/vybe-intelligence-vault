@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-08-02T09:27:10.648975+05:30'
+collected_at: '2026-08-02T14:12:47.861257+05:30'
 published_at: '2026-07-31T10:51:04Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-21T19:57:32Z'
 pushed_at: '2026-07-29T06:22:16Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-08-02T09:27:10.648975+05:30'
-last_seen: '2026-08-02T09:27:10.648975+05:30'
-last_checked: '2026-08-02T09:27:10.648975+05:30'
+first_seen: '2026-08-02T14:12:47.861257+05:30'
+last_seen: '2026-08-02T14:12:47.861257+05:30'
+last_checked: '2026-08-02T14:12:47.861257+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, enabling iterative reasoning and action execution workflows.
-- **Core Components**: Utilizes LangGraph for state management and agent orchestration, with structured tool integration for dynamic decision-making.
-- **Key Features**: Supports modular agent design with customizable tools, state graphs, and multi-step reasoning loops for complex task execution.
+- **Template Type**: LangGraph-based Python implementation of a **ReAct (Reasoning and Acting) agent** architecture, enabling iterative reasoning and tool-use workflows.
+- **Core Components**: Integrates **LangGraph** for stateful graph-based agent orchestration, supporting dynamic decision-making and tool invocation cycles.
+- **Use Case**: Provides a minimalist template for deploying **reactive agents** with structured reasoning paths, optimized for modularity and extensibility.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: langchain-ai
 - Stars: 804
-- Forks: 699
+- Forks: 698
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
 - Last Updated: 2026-07-31T10:51:04Z

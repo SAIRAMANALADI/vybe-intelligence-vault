@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.litmaps.co/
-published_at: '2026-08-02T01:10:06.357404+05:30'
-collected_at: '2026-08-02T01:10:06.357418+05:30'
+published_at: '2026-08-02T14:15:45.579528+05:30'
+collected_at: '2026-08-02T14:15:45.579535+05:30'
 tags:
 - hackernews
 - paper
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:litmaps-your-literature-review-assistant
-first_seen: '2026-08-02T01:10:06.357418+05:30'
-last_seen: '2026-08-02T01:10:06.357418+05:30'
-last_checked: '2026-08-02T01:10:06.357418+05:30'
+first_seen: '2026-08-02T14:15:45.579535+05:30'
+last_seen: '2026-08-02T14:15:45.579535+05:30'
+last_checked: '2026-08-02T14:15:45.579535+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual Literature Mapping**: Litmaps transforms academic literature discovery into interactive, citation-based network graphs (Litmaps), enabling researchers to visualize relationships between papers, identify research gaps, and uncover overlooked citations via "Seed Maps" and "Discover" features.
+- **Visual Literature Mapping**: Litmaps transforms academic literature discovery via interactive, citation-based "seed maps" that visualize research networks, enabling rapid identification of key papers and overlooked connections in a field.
 
-- **Collaborative Research Workflow**: Supports real-time collaboration (Share feature) and automated monitoring (Monitor feature) for new publications, streamlining literature reviews for teams, students, and institutions across 150+ countries.
+- **Collaborative Research Workflow**: Supports real-time collaboration (teams, advisors, students) with features for sharing, monitoring updates, and organizing literature across projects, used by 350,000+ researchers globally.
 
-- **Cross-Disciplinary Adoption**: Used by 350,000+ researchers globally, praised for enhancing productivity (e.g., PhD workflows) and accessibility (e.g., dyslexia-friendly visual citation graphs) while integrating with tools like BibTeX for reference management.
+- **Automated Citation Tracking**: Provides automated alerts for new publications matching user-defined topics, streamlining literature reviews and ensuring researchers stay current with minimal manual effort.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T01:10:06.357404+05:30
+- Published: 2026-08-02T14:15:45.579528+05:30
 
 ## Related Tags
 

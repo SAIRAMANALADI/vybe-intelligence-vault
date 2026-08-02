@@ -6,12 +6,12 @@ source_url: https://huggingface.co/BAAI/bge-reranker-large
 resource_id: huggingface:baai/bge-reranker-large
 local_vault_path: ai/rag/huggingface-baai-bge-reranker-large.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **BGE Collection**: A curated Hugging Face collection by BAAI featuring 31 models optimized for text embedding tasks, with the latest update on February 4.
-
-- **Model Diversity**: Includes a range of models (e.g., `BAAI/bge-small-en`, `BAAI/bge-base-en`, `BAAI/bge-large-en`) supporting varying scales (small, base, large) and languages for general-purpose embeddings.
-
-- **Performance Focus**: Models are designed for high-quality dense retrieval, semantic similarity, and text classification, wit
+- **BGE Collection**: A curated Hugging Face collection by BAAI featuring 31 models optimized for text embedding tasks, including dense retrieval and semantic similarity.
+- **Updated Models**: The collection was last updated on February 4, with ongoing improvements for enhanced performance in embedding generation.
+- **Technical Focus**: Models are designed for efficiency in large-scale retrieval and zero-shot classification, leveraging state-of-the-art transformer architectures.
 
 ## Use Cases
 

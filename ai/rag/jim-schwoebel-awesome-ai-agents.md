@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jim-schwoebel/awesome_ai_agents
-collected_at: '2026-08-02T09:26:15.521425+05:30'
+collected_at: '2026-08-02T14:11:47.840785+05:30'
 published_at: '2026-08-02T00:02:53Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
-- scripts
 - unknown
 - workflows
 stars: 1913
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-01-03T22:37:37Z'
 pushed_at: '2026-03-28T08:28:51Z'
 resource_id: github:jim-schwoebel/awesome_ai_agents
-first_seen: '2026-08-02T09:26:15.521425+05:30'
-last_seen: '2026-08-02T09:26:15.521425+05:30'
-last_checked: '2026-08-02T09:26:15.521425+05:30'
+first_seen: '2026-08-02T14:11:47.840785+05:30'
+last_seen: '2026-08-02T14:11:47.840785+05:30'
+last_checked: '2026-08-02T14:11:47.840785+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Resource Hub**: Curated list of **1,500+ tools, frameworks, and resources** for AI agents, covering agent-based modeling, multi-agent systems, CLI tools, and workflow automation.
-- **Multi-Topic Coverage**: Encompasses **agentic AI, frameworks (e.g., LangChain, AutoGen), learning resources, and CLI utilities** for AI agent development and deployment.
-- **Active Maintenance**: Last updated **August 2026**, ensuring relevance with **1,913 stars and 638 forks**, indicating strong community engagement.
+- **Curated Resource Hub**: A GitHub repository containing **1,500+ technical resources** focused on AI agents, including frameworks, tools, and methodologies for agent-based modeling, multi-agent systems, and agentic workflows.
+
+- **Multi-Domain Coverage**: Encompasses **20+ technical topics**, such as AI agent frameworks (e.g., CLI tools, multi-agent systems), agentic AI workflows, and learning resources for implementing agent-based architectures.
+
+- **High-Activity Repository**: Maintained with **1,913 stars** and **638 forks**, last updated in **August 2026**, indicating active community engagement and continuous updates to the curated list.
 
 ## Why It Matters
 

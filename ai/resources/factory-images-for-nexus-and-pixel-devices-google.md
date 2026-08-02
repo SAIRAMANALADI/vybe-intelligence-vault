@@ -4,17 +4,17 @@ title: Factory Images for Nexus and Pixel Devices | Google Play services | Googl
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: http://developers.google.com/android/images/
-published_at: '2026-08-02T09:35:34.518419+05:30'
-collected_at: '2026-08-02T09:35:34.518432+05:30'
+source_url: https://developers.google.com/android/images/
+published_at: '2026-08-02T14:18:21.557573+05:30'
+collected_at: '2026-08-02T14:18:21.557582+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:factory-images-for-nexus-and-pixel-devices-google
-first_seen: '2026-08-02T09:35:34.518432+05:30'
-last_seen: '2026-08-02T09:35:34.518432+05:30'
-last_checked: '2026-08-02T09:35:34.518432+05:30'
+first_seen: '2026-08-02T14:18:21.557582+05:30'
+last_seen: '2026-08-02T14:18:21.557582+05:30'
+last_checked: '2026-08-02T14:18:21.557582+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- Factory images restore Nexus/Pixel devices to original firmware but erase all data and require bootloader unlocking, making OTA sideloading a safer alternative.
-- Bootloader anti-rollback updates in May 2025/2026 releases (e.g., Pixel 6/8/10 series) prevent rolling back to older builds; post-update, users must flash the bootloader to the inactive slot after first successful boot.
-- Factory images are licensed for personal use only and must not be reverse-engineered or redistributed; SPL dates may differ from release dates, with details available on Android build reference pages.
+- Factory images restore Nexus/Pixel devices to original firmware but **erase all data** and require **bootloader unlocking**, making them less secure; full OTA images are safer alternatives.
+- **Anti-rollback protection** in May 2025/2026 updates for Pixel 6/8/10 series increments bootloader versions, preventing rollback to older builds and requiring manual bootloader flashing to the inactive slot post-update.
+- Post-flash, **relock the bootloader** for security; OTA images avoid data loss and bootloader unlocking, though they may still require app reinstallation.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T09:35:34.518419+05:30
+- Published: 2026-08-02T14:18:21.557573+05:30
 
 ## Related Tags
 
@@ -43,4 +43,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://developers.google.com/android/images/
+Original source: https://developers.google.com/android/images/

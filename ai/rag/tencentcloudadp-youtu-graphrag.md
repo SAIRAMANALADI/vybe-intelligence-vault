@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-02T09:25:15.498962+05:30'
+collected_at: '2026-08-02T14:10:47.761671+05:30'
 published_at: '2026-07-31T19:00:24Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-02T09:25:15.498962+05:30'
-last_seen: '2026-08-02T09:25:15.498962+05:30'
-last_checked: '2026-08-02T09:25:15.498962+05:30'
+first_seen: '2026-08-02T14:10:47.761671+05:30'
+last_seen: '2026-08-02T14:10:47.761671+05:30'
+last_checked: '2026-08-02T14:10:47.761671+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents for Graph RAG**: Introduces a novel framework integrating multi-agent systems with graph-based retrieval-augmented generation (GraphRAG) to enhance complex reasoning tasks, as proposed for ICLR 2026.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-structured knowledge base to enhance complex reasoning tasks.
 
-- **Graph-Centric Retrieval Mechanism**: Implements a hierarchical graph structure to dynamically retrieve and synthesize contextually relevant information, improving LLM reasoning over structured and unstructured data.
+- **Graph Retrieval-Augmented Architecture**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and synthesize subgraphs, improving contextual relevance and multi-hop reasoning over structured data.
 
-- **Python-Based Implementation**: Provides an open-source Python repository with modular components for agent orchestration, graph construction, and retrieval-augmented reasoning, optimized for scalability and adaptability.
+- **ICLR 2026 Contribution**: Proposes a novel paradigm for LLM-based agents by leveraging graph topology for adaptive agent collaboration, optimizing both retrieval precision and reasoning coherence in open-domain scenarios.
 
 ## Why It Matters
 

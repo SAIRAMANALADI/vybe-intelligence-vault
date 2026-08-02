@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-02T09:24:10.449972+05:30'
-published_at: '2026-07-31T02:33:16Z'
+collected_at: '2026-08-02T14:09:42.685128+05:30'
+published_at: '2026-08-02T05:40:23Z'
 tags:
 - benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
-stars: 1990
+stars: 1991
 language: Python
 status: active
 license: MIT
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-02T09:24:10.449972+05:30'
-last_seen: '2026-08-02T09:24:10.449972+05:30'
-last_checked: '2026-08-02T09:24:10.449972+05:30'
+first_seen: '2026-08-02T14:09:42.685128+05:30'
+last_seen: '2026-08-02T14:09:42.685128+05:30'
+last_checked: '2026-08-02T14:09:42.685128+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Miniaturized RAG Framework**: Introduces a simplified Retrieval-Augmented Generation (RAG) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining competitive performance in downstream tasks.
+- **Miniaturized RAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining competitive performance.
 
-- **Modular Architecture**: Implements a plug-and-play design with decoupled retrieval and generation components, enabling efficient integration with lightweight models (e.g., <1B parameters) and customizable retrieval strategies (dense/sparse).
+- **Modular Architecture**: Implements a plug-and-play design with decoupled retrieval and generation components, enabling efficient integration with existing SLMs (e.g., TinyLlama, Phi-2).
 
-- **Benchmark Performance**: Achieves near-state-of-the-art results on standard RAG benchmarks (e.g., KILT, BEIR) with 3–5x faster inference compared to larger models, validated through ACL2026 evaluations.
+- **Benchmark Superiority**: Demonstrates state-of-the-art results on multiple RAG benchmarks (e.g., KILT, BEIR) with models <2B parameters, outperforming larger proprietary models in efficiency.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 1990
+- Stars: 1991
 - Forks: 257
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-07-31T02:33:16Z
+- Last Updated: 2026-08-02T05:40:23Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-11T13:24:14Z

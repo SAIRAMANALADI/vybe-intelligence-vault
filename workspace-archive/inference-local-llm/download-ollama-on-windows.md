@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Installation Methods**: Provides direct download links for macOS, Linux, and Windows platforms, with a PowerShell one-liner (`irm https://ollama.com/install.ps1 | iex`) for automated Windows installation.
-- **Windows Requirements**: Specifies minimum OS version (Windows 10 or later) for compatibility.
-- **Installation Options**: Offers both automated (PowerShell) and manual (`.exe` download) installation methods for Windows.
+- **Cross-platform installation**: Ollama provides native download links for macOS, Linux, and Windows (via PowerShell command or `.exe` installer), requiring Windows 10+ for the latter.
+- **PowerShell deployment**: Windows users can install Ollama via a single PowerShell command (`irm https://ollama.com/install.ps1 | iex`), executing a remote script for automated setup.
+- **Direct executable**: Windows users can also download `OllamaSetup.exe` for offline installation, bypassing the script-base
 
 ## Use Cases
 

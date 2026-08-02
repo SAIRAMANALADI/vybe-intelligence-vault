@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-08-02T09:26:45.584040+05:30'
-published_at: '2026-08-02T03:11:41Z'
+collected_at: '2026-08-02T14:12:17.816179+05:30'
+published_at: '2026-08-02T06:57:48Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
-stars: 25934
+stars: 25936
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-08-02T09:26:45.584040+05:30'
-last_seen: '2026-08-02T09:26:45.584040+05:30'
-last_checked: '2026-08-02T09:26:45.584040+05:30'
+first_seen: '2026-08-02T14:12:17.816179+05:30'
+last_seen: '2026-08-02T14:12:17.816179+05:30'
+last_checked: '2026-08-02T14:12:17.816179+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-AutoGLM Framework**: Open-source Python-based framework enabling AI-driven phone automation via agent-based interaction models, designed for accessibility and extensibility.
+- **Framework Overview**: Open-AutoGLM provides an open-source framework for developing AI phone agents, enabling autonomous interaction with mobile devices via natural language or structured commands.
 
-- **Phone Agent Model**: Implements autonomous phone interaction capabilities, leveraging LLMs to interpret and execute tasks (e.g., calls, messages) with minimal human input.
+- **Technical Stack**: Implemented in Python, it leverages large language models (LLMs) and integrates with mobile OS APIs for task automation (e.g., calls, messages, app navigation).
 
-- **Performance & Scalability**: Supports high-throughput operations with modular design; last updated (2026-08-02) to include optimizations for real-world deployment.
+- **Extensibility & Scalability**: Supports custom agent modules, multi-modal inputs (voice/text), and deployment across Android/iOS, with modular design for community-driven enhancements.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zai-org
-- Stars: 25934
+- Stars: 25936
 - Forks: 4021
 - Language: Python
 - Topics: agent, phone-use-agent
-- Last Updated: 2026-08-02T03:11:41Z
+- Last Updated: 2026-08-02T06:57:48Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-12-08T09:23:44Z

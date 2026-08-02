@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini 3.6 Flash Integration**: GitHub Copilot now supports Google's Gemini 3.6 Flash model, enhancing real-time code generation and contextual assistance for developers.
-
-- **Performance Optimizations**: The update includes latency reductions and improved inference speed, enabling faster response times for complex coding tasks.
-
-- **GitHub Copilot CLI Enhancements**: New CLI features provide deeper integration with version control systems, streamlining workflows for repository management an
+- **Deprecation Announcement**: GitHub deprecated **Gemini 2.5 Pro** and **Gemini 3 Flash** models on **July 31, 2026**, removing access via GitHub Copilot API.
+- **Impact on Copilot**: Affected models will no longer be available for new requests, though existing workflows may continue temporarily.
+- **Migration Path**: Users must transition to alternative models (e.g., newer Gemini versions or other supported LLMs) to avoid service disruption.
 
 ## Use Cases
 

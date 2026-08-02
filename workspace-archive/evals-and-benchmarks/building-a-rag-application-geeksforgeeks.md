@@ -17,6 +17,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -36,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines a **retriever** (FAISS for similarity search) and a **generator** (FLAN-T5) to fetch relevant documents and generate context-aware responses from a knowledge base.
-- **Implementation Steps**: Uses `sentence-transformers` for embeddings, normalizes vectors via `faiss.normalize_L2()`, and employs a threshold-based retrieval (`threshold=0.3`) to filter relevant documents before generation.
-- **Challenges**: Highlights computational resource demands, ambiguity handli
+- **RAG Architecture**: Combines a *retriever* (FAISS-indexed embeddings for similarity search) and a *generator* (FLAN-T5 model) to produce context-aware responses from retrieved documents.
+- **Implementation Steps**: Uses `sentence-transformers` for embeddings, FAISS for efficient retrieval, and Hugging Face's `transformers` for text generation in a customer support bot workflow.
+- **Key Challenges**: Computational overhead for large-scale retrieval, ambiguity handling in queries, and ensuring
 
 ## Use Cases
 

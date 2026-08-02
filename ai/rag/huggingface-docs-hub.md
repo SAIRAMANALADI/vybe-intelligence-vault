@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-02T09:28:35.748687+05:30'
-collected_at: '2026-08-02T09:28:35.748695+05:30'
+published_at: '2026-08-02T14:15:04.118121+05:30'
+collected_at: '2026-08-02T14:15:04.118132+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,14 +15,15 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-02T09:28:35.748695+05:30'
-last_seen: '2026-08-02T09:28:35.748695+05:30'
-last_checked: '2026-08-02T09:28:35.748695+05:30'
+first_seen: '2026-08-02T14:15:04.118132+05:30'
+last_seen: '2026-08-02T14:15:04.118132+05:30'
+last_checked: '2026-08-02T14:15:04.118132+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo app hosting with built-in support for Gradio SDK, Docker containers, and static HTML/JavaScript, with optional GPU acceleration for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo app hosting with built-in support for Gradio, Docker, and static HTML/JS apps, deployable on user/organization profiles with optional GPU acceleration.
 
-- **Storage & Compute**: Supports disk usage management, custom domains, and ZeroGPU/GPU upgrades; integrates with GitHub Actions for CI/CD and provides APIs for embedding Spaces or running them as MCP servers/agent tools.
+- **Storage & Performance**: Supports disk usage tracking, GPU upgrades, and ZeroGPU mode for cost-efficient inference, with configurations for custom domains and embedded spaces.
 
-- **Collaboration & Analytics**: Facilitates collaborative ML projects, offers download analytics, and provides tools for managing dependencies, settings, and organizational cards with enterprise-grade access control.
+- **Integration & Automation**: Provides SDKs for Gradio/Streamlit/Docker, GitHub Actions for CI/CD, OAuth for authentication, and MCP server/agent tool integrations for advanced workflows.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T09:28:35.748687+05:30
+- Published: 2026-08-02T14:15:04.118121+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

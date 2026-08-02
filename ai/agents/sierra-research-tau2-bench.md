@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-08-02T09:26:25.572290+05:30'
+collected_at: '2026-08-02T14:11:57.823473+05:30'
 published_at: '2026-08-01T23:19:48Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 stars: 1712
 language: Python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-07-30T00:08:54Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-08-02T09:26:25.572290+05:30'
-last_seen: '2026-08-02T09:26:25.572290+05:30'
-last_checked: '2026-08-02T09:26:25.572290+05:30'
+first_seen: '2026-08-02T14:11:57.823473+05:30'
+last_seen: '2026-08-02T14:11:57.823473+05:30'
+last_checked: '2026-08-02T14:11:57.823473+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- Introduces **τ-Bench**, a benchmark for evaluating **Tool-Agent-User (TAU) interactions** in real-world domains, focusing on conversational agents and LLM-based systems.
-- Provides a **Python-based framework** with standardized metrics to assess agent performance in dynamic, multi-turn tool-use scenarios.
-- Enables **cross-domain evaluation** of agent adaptability, robustness, and efficiency in complex, user-driven environments.
+- **τ-Bench Overview**: Introduces a benchmark for evaluating tool-agent-user interactions in real-world domains, focusing on conversational agents and language model agents.
+- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool integration, and dynamic user-agent collaboration across complex scenarios.
+- **Evaluation Metrics**: Measures agent performance in tool selection, response accuracy, and adaptability to user feedback, with updates as of August 2026.
 
 ## Why It Matters
 

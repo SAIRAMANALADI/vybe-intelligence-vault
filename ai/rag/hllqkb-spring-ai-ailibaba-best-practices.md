@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-02T09:24:30.416396+05:30'
+collected_at: '2026-08-02T14:10:07.691268+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- workflows
 stars: 36
 language: Java
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-02T09:24:30.416396+05:30'
-last_seen: '2026-08-02T09:24:30.416396+05:30'
-last_checked: '2026-08-02T09:24:30.416396+05:30'
+first_seen: '2026-08-02T14:10:07.691268+05:30'
+last_seen: '2026-08-02T14:10:07.691268+05:30'
+last_checked: '2026-08-02T14:10:07.691268+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,7 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (Embedding), knowledge graphs, and function calls for dynamic AI agent workflows in Java-based Spring AI applications.
-
-- **Real-time Streaming & Agentic Workflows**: Supports Server-Sent Events (SSE) for low-latency responses and integrates Agent-based architectures with historical message management for conversational continuity.
-
-- **Advanced AI Capabilities**: Includes image generation/understanding via multimodal models, embedding optimization, and hybrid retrieval strategies for enhanced contextual accuracy.
+*   Implements a RAG-centric AI Q&A system, utilizing Knowledge Graph RAG and Vector Databases
 
 ## Why It Matters
 

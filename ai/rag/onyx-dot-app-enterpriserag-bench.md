@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-02T09:24:50.505390+05:30'
+collected_at: '2026-08-02T14:10:22.756832+05:30'
 published_at: '2026-08-01T22:45:52Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 493
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-02T09:24:50.505390+05:30'
-last_seen: '2026-08-02T09:24:50.505390+05:30'
-last_checked: '2026-08-02T09:24:50.505390+05:30'
+first_seen: '2026-08-02T14:10:22.756832+05:30'
+last_seen: '2026-08-02T14:10:22.756832+05:30'
+last_checked: '2026-08-02T14:10:22.756832+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
-- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA testing across enterprise knowledge bases, with Python-based tooling for reproducibility.
-- **Metrics & Scope**: Focuses on retrieval quality, generative accuracy, and end-to-end RAG pipeline performance, covering topics like information retrieval, large language model evaluation, and semantic search.
+- **Purpose**: Provides a benchmarking dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of performance in enterprise contexts.
+- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA metrics, with support for Python-based implementations and multi-modal enterprise search scenarios.
+- **Scope**: Covers 18+ technical topics (e.g., `rag-evaluation`, `semantic-search`, `llm-evaluation`) and tracks 493+ stars/52+ forks, last updated in 2026 for cutting-edge RAG research.
 
 ## Why It Matters
 

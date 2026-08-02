@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Terms & Privacy**: Use of ChatGPT requires agreement to OpenAI's [Terms](https://openai.com/terms) and [Privacy Policy](https://openai.com/privacy).
-- **Data Usage**: Chats may be reviewed and utilized to enhance AI model performance.
-- **Transparency**: Further details on data usage for model improvement are available [here](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance).
+- **Data Usage & Model Improvement**: User chats may be reviewed and utilized to enhance AI model performance, as outlined in OpenAI's [data usage policy](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance).
+
+- **Compliance & Agreement**: Usage of ChatGPT requires acceptance of OpenAI's [Terms of Service](https://openai.com/terms) and [Privacy Policy](https://openai.com/privacy).
+
+- **AI Disclosure**: ChatGPT is explicitly identified as an AI system, w
 
 ## Use Cases
 

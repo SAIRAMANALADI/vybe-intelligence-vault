@@ -4,12 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-02T09:26:05.514918+05:30'
+collected_at: '2026-08-02T14:11:42.746626+05:30'
 published_at: '2026-08-01T03:48:05Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
+- hackernews
 - openai
 - python
 - workflows
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-02T09:26:05.514918+05:30'
-last_seen: '2026-08-02T09:26:05.514918+05:30'
-last_checked: '2026-08-02T09:26:05.514918+05:30'
+first_seen: '2026-08-02T14:11:42.746626+05:30'
+last_seen: '2026-08-02T14:11:42.746626+05:30'
+last_checked: '2026-08-02T14:11:42.746626+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from reactive "vibe coding" to structured agentic engineering using Codex CLI, emphasizing autonomous agent collaboration, context engineering, and modular skill deployment via hooks.
+- **Agentic Workflow Integration**: Repository demonstrates transition from vibe coding to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based command execution for scalable AI agent development.
 
-- **CLI-Centric Best Practices**: Provides standardized Codex CLI commands, agent templates, and skill definitions optimized for OpenAI Codex, enabling reproducible AI-driven development workflows with built-in error handling and state management.
+- **CLI-Centric Development**: Provides best practices for Codex CLI commands, agent orchestration, and skill management, including custom hooks and context-engineering techniques to optimize AI-driven coding workflows.
 
-- **Pakistan-Centric AI Development**: Curated by a Pakistani developer, focuses on localized AI agent ecosystems, contextualized prompts, and culturally adapted AI workflows while maintaining compatibility with global Codex CLI standards.
+- **Open-Source Contribution Framework**: Open-source Python-based repository with 949 stars and 64 forks, serving as a reference for Pakistani developers and AI engineers to implement agentic AI workflows and Codex CLI optimizations.
 
 ## Why It Matters
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-08-02T01:12:15.223328+05:30'
-collected_at: '2026-08-02T01:12:15.223344+05:30'
+published_at: '2026-08-02T14:18:06.073649+05:30'
+collected_at: '2026-08-02T14:18:06.073664+05:30'
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -18,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-08-02T01:12:15.223344+05:30'
-last_seen: '2026-08-02T01:12:15.223344+05:30'
-last_checked: '2026-08-02T01:12:15.223344+05:30'
+first_seen: '2026-08-02T14:18:06.073664+05:30'
+last_seen: '2026-08-02T14:18:06.073664+05:30'
+last_checked: '2026-08-02T14:18:06.073664+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Tutorials**: 23 structured tutorials covering beginner to advanced topics (e.g., RAG pipelines, agents, multimodal retrieval, evaluation) with durations ranging from 5 to 25 minutes, available at [haystack.deepset.ai/tutorials](https://haystack.deepset.ai/tutorials).
+- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines using statistical and model-based metrics, covering both RAG and agentic systems.
 
-- **Key Features Demonstrated**: Includes agentic workflows (e.g., tool-calling, multi-agent systems), metadata filtering, hybrid retrieval, and structured output generation with OpenAI models, alongside advanced techniques like KV cache compression (TurboQuant) and conversational RAG.
+- **Tool-Calling & Multi-Agent Systems**: Tutorials demonstrate building agents with web search integration, multi-agent workflows, and human-in-the-loop validation for safer, modular AI systems.
 
-- **Contribution & Customization**: Tutorials are open-source on GitHub for contributions; advanced users can serialize pipelines, build custom SuperComponents, or use pre-built agents from the Agent Pack for modular workflows.
+- **Advanced RAG & Optimization**: Covers multimodal RAG (vision+text), KV cache compression (TurboQuant), hybrid retrieval (dense + keyword), and structured output generation with OpenAI Pydantic/JSON schema.
 
 ## Why It Matters
 
@@ -42,13 +41,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T01:12:15.223328+05:30
+- Published: 2026-08-02T14:18:06.073649+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag

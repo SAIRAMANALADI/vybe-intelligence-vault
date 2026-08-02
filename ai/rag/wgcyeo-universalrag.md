@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-02T09:25:20.486715+05:30'
+collected_at: '2026-08-02T14:10:52.822568+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 174
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-02T09:25:20.486715+05:30'
-last_seen: '2026-08-02T09:25:20.486715+05:30'
-last_checked: '2026-08-02T09:25:20.486715+05:30'
+first_seen: '2026-08-02T14:10:52.822568+05:30'
+last_seen: '2026-08-02T14:10:52.822568+05:30'
+last_checked: '2026-08-02T14:10:52.822568+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework for Retrieval-Augmented Generation (RAG) that supports diverse data modalities (text, images, etc.) and granularities (document, paragraph, sentence-level retrieval) within a single system.
-
-- **ACL 2026 Oral Presentation**: Highlights the model's novel architecture and retrieval mechanisms, emphasizing its ability to generalize across heterogeneous corpora while maintaining high performance in knowledge-intensive tasks.
-
-- **Open-Source Implementation**: Provides a Python-based, modular codebase with pre-trained models, retrieval pipelines, and evaluation tools, enabling reproducibility and customization for multimodal RAG applications.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) without requiring modality-specific fine-tuning.
+- **Modality-Agnostic Retrieval**: Implements a unified retrieval mechanism using modality-agnostic embeddings (e.g., via contrastive learning) and dynamic granularity selection to optimize context relevance for downstream generation.
+- **ACL 2026 Oral Contribution**: Proposes a novel architecture with empirical validation on benchmarks, demonstrating state-of-the-art performance in cross-modal and cross-granularity retrieval tasks while maintaining scalability.
 
 ## Why It Matters
 

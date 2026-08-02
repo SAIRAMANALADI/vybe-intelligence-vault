@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CyberSunil/LLMVault
-collected_at: '2026-08-02T09:24:55.510226+05:30'
-published_at: '2026-07-31T01:24:21Z'
+collected_at: '2026-08-02T14:10:32.690457+05:30'
+published_at: '2026-08-02T05:43:32Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 261
+stars: 262
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-07-15T08:18:22Z'
 pushed_at: '2026-07-18T18:23:05Z'
 resource_id: github:cybersunil/llmvault
-first_seen: '2026-08-02T09:24:55.510226+05:30'
-last_seen: '2026-08-02T09:24:55.510226+05:30'
-last_checked: '2026-08-02T09:24:55.510226+05:30'
+first_seen: '2026-08-02T14:10:32.690457+05:30'
+last_seen: '2026-08-02T14:10:32.690457+05:30'
+last_checked: '2026-08-02T14:10:32.690457+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Intentionally vulnerable training platform for OWASP LLM Top 10 security concepts, including AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.
-- **Technical Stack**: Python-based, deployable via Docker, designed for CTF-style security exercises and red-team assessments.
-- **Scope**: Covers LLM security testing, prompt injection attacks, and RAG vulnerabilities, aligned with OWASP LLM Top 10 guidelines.
+- **Purpose**: Intentionally vulnerable training platform for OWASP LLM Top 10 security concepts, covering AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.
+- **Technical Stack**: Python-based, deployed via Docker, designed as a CTF-style lab for red-team exercises.
+- **Scope**: Targets LLM security testing with modules on prompt injection, RAG vulnerabilities, and agent-based attack vectors.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: CyberSunil
-- Stars: 261
+- Stars: 262
 - Forks: 64
 - Language: Python
 - Topics: agent-security, ai-security, ai-security-tool, artificial-intelligence, ctf, docker, genai, large-language-models, llm, llm-security, llm-security-testing, owasp, owasp-llm-top-10, penetration-testing, prompt-injection, prompt-injection-llm-security, python, rag, red-team, vulnerable-lab
-- Last Updated: 2026-07-31T01:24:21Z
+- Last Updated: 2026-08-02T05:43:32Z
 - License: MIT
 - Archived: No
 - Created At: 2026-07-15T08:18:22Z

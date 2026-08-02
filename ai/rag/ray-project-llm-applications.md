@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-02T09:25:10.533327+05:30'
+collected_at: '2026-08-02T14:10:42.732821+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-02T09:25:10.533327+05:30'
-last_seen: '2026-08-02T09:25:10.533327+05:30'
-last_checked: '2026-08-02T09:25:10.533327+05:30'
+first_seen: '2026-08-02T14:10:42.732821+05:30'
+last_seen: '2026-08-02T14:10:42.732821+05:30'
+last_checked: '2026-08-02T14:10:42.732821+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s distributed compute framework.
-- **End-to-End Deployment**: Provides templates for deploying RAG-based LLM applications, covering vector DB integration, model serving, and scalability with Anyscale.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving and scaling, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
+
+- **Fine-Tuning & Serving Integration**: Provides Jupyter Notebook-based guides for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve, with examples for hybrid retrieval strategies and model optimization.
+
+- **Multi-Model & Tooling Support**: Includes examples leveraging Anyscale, OpenAI APIs, and custom tooling for end-to-end LLM application development, with emphasis on scalability, latency, and production readiness.
 
 ## Why It Matters
 

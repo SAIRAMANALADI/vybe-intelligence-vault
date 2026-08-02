@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-02T09:24:00.475359+05:30'
+collected_at: '2026-08-02T14:09:32.713349+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
 - openai
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-02T09:24:00.475359+05:30'
-last_seen: '2026-08-02T09:24:00.475359+05:30'
-last_checked: '2026-08-02T09:24:00.475359+05:30'
+first_seen: '2026-08-02T14:09:32.713349+05:30'
+last_seen: '2026-08-02T14:09:32.713349+05:30'
+last_checked: '2026-08-02T14:09:32.713349+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for RAG (Retrieval-Augmented Generation) workflows.
-
-- **RAG Pipeline Integration**: Pre-configured to deploy Azure services (e.g., Azure AI Search, Azure OpenAI) for building a RAG system, facilitating retrieval and generation workflows.
-
-- **CI/CD-Ready**: Designed for operationalization with GitHub Actions or Azure DevOps pipelines, supporting GenAIOps best practices for monitoring, logging, and lifecycle management.
+- **Purpose**: Provides a Bicep-based infrastructure-as-code (IaC) template for deploying a Retrieval-Augmented Generation (RAG) pipeline in Azure, designed for Generative AI Ops (GenAIOps) workflows.
+- **Key Components**: Includes Azure resources (e.g., Azure OpenAI, Cognitive Search, Azure Functions) pre-configured for RAG workflows, with modular Bicep templates for scalability and reproducibility.
+- **Deployment**: Enables automated, CI/CD-friendly deployment of GenAIOps RAG pipelines with minimal manual configuration, leveraging Azure-native tooling.
 
 ## Why It Matters
 

@@ -3,9 +3,9 @@ title: Multimodal Deepfake Detection and Watermarking for Enterprise | Resemble 
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.resemble.ai/
-published_at: '2026-08-01T19:34:08.355035+05:30'
-collected_at: '2026-08-01T19:34:08.355042+05:30'
+source_url: https://resemble.ai
+published_at: '2026-08-02T14:19:15.504658+05:30'
+collected_at: '2026-08-02T14:19:15.504668+05:30'
 tags:
 - benchmark
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:multimodal-deepfake-detection-and-watermarking-for
-first_seen: '2026-08-01T19:34:08.355042+05:30'
-last_seen: '2026-08-01T19:34:08.355042+05:30'
-last_checked: '2026-08-01T19:34:08.355042+05:30'
+first_seen: '2026-08-02T14:19:15.504668+05:30'
+last_seen: '2026-08-02T14:19:15.504668+05:30'
+last_checked: '2026-08-02T14:19:15.504668+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal Deepfake Detection**: Resemble AI offers a platform for verifying, detecting, and acting on synthetic audio, image, or video content, supporting both on-prem and cloud deployments with multimodal analysis for in-depth detection.
+- **EU AI Act-Compliant Watermarking**: Resemble AI offers watermarking solutions for synthetic audio, image, and video content that are compliant with the EU AI Act, ensuring permanent, indestructible, and invisible provenance tracking for generative media.
 
-- **EU AI Act-Compliant Watermarking**: The platform provides permanent, indestructible, and invisible watermarks for audio, image, and video files to ensure provenance and compliance with regulatory standards.
+- **Multimodal Deepfake Detection**: The platform provides zero-day model coverage for detecting deepfakes across audio, image, and video formats, achieving 98.1% accuracy on the Podonos benchmark and a false negative rate of 1.4% in audio deepfake detection.
 
-- **Benchmark Performance**: Resemble DETECT-3B Omni achieves 98.1% detection accuracy and a 1.4% false negative rate across multiple audio formats, outperforming competitors like Aurigin AI (96.8%) and Reality Defender (71.3%) in independent benchmarks.
+- **Enterprise-Grade Security**: Resemble AI’s generative AI security platform is designed for enterprise use, supporting on-prem or cloud deployment, and has been validated by major clients including Netflix, Paramount, and Deutsche Telekom.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T19:34:08.355035+05:30
+- Published: 2026-08-02T14:19:15.504658+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.resemble.ai/
+Original source: https://resemble.ai

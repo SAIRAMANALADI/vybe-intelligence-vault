@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crazyaiml/attribute-knowledge-rag
-collected_at: '2026-08-01T21:48:51.595622+05:30'
+collected_at: '2026-08-02T14:13:47.877890+05:30'
 published_at: '2026-07-06T20:47:25Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 1
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-07-06T20:25:09Z'
 pushed_at: '2026-07-06T20:47:13Z'
 resource_id: github:crazyaiml/attribute-knowledge-rag
-first_seen: '2026-08-01T21:48:51.595622+05:30'
-last_seen: '2026-08-01T21:48:51.595622+05:30'
-last_checked: '2026-08-01T21:48:51.595622+05:30'
+first_seen: '2026-08-02T14:13:47.877890+05:30'
+last_seen: '2026-08-02T14:13:47.877890+05:30'
+last_checked: '2026-08-02T14:13:47.877890+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture Purpose**: AK-RAG converts enterprise attribute metadata into an AI-searchable knowledge layer via a reference architecture.
-- **Technical Stack**: Implemented in Python, with no explicit dependencies or topics listed.
-- **Repository Status**: Last updated on 2026-07-06, with minimal activity (1 star, 0 forks).
+- **Purpose**: Transforms enterprise attribute metadata into an AI-searchable knowledge layer via a reference architecture.
+- **Implementation**: Developed in Python, leveraging RAG (Retrieval-Augmented Generation) for metadata processing.
+- **Status**: Minimal adoption (1 star, 0 forks) with last update on 2026-07-06.
 
 ## Why It Matters
 

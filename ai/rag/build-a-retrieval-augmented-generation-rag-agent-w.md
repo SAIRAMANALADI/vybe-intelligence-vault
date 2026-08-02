@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-08-02T09:23:42.025089+05:30'
-collected_at: '2026-08-02T09:23:42.025096+05:30'
+published_at: '2026-08-02T14:09:15.707995+05:30'
+collected_at: '2026-08-02T14:09:15.708008+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-08-02T09:23:42.025096+05:30'
-last_seen: '2026-08-02T09:23:42.025096+05:30'
-last_checked: '2026-08-02T09:23:42.025096+05:30'
+first_seen: '2026-08-02T14:09:15.708008+05:30'
+last_seen: '2026-08-02T14:09:15.708008+05:30'
+last_checked: '2026-08-02T14:09:15.708008+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool calling, integrating Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for embeddings, and NeMo Retriever Reranking Model for document prioritization) to enable autonomous decision-making and adaptive retrieval.
+- **Agentic RAG Architecture**: Implements a ReAct agent framework where the LLM dynamically decides between retrieval or direct response, using NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
 
-- **Pipeline Workflow**: Implements a Retrieval Chain where the ReAct agent selectively activates retrieval only when additional context is required, combining semantic search, hybrid retrieval, and structured output via NVIDIA NIM endpoints for high-performance inference.
+- **NVIDIA NIM Integration**: Utilizes NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic models), async operations, and enterprise-grade reliability for concurrent processing in agentic RAG pipelines.
 
-- **Model Integration**: Leverages NVIDIA NIM for tool binding, async operations, and enterprise-grade reliability, with system prompts enforcing grounded responses, source citation, and role-specific behavior (e.g., IT help desk agent with clear tool utilization guidelines).
+- **Modular Pipeline Components**: Includes model-driven retrieval (embedding + reranking), vector database search, and agentic decision-making via LangGraph, with clear system prompts for role specification, tool utilization, grounding, and source citation in RAG-based applications.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T09:23:42.025089+05:30
+- Published: 2026-08-02T14:09:15.707995+05:30
 
 ## Related Tags
 

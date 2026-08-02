@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://securitylab.github.com
-published_at: '2026-07-21T16:58:22.452693+05:30'
-collected_at: '2026-07-21T16:58:22.452707+05:30'
+published_at: '2026-08-02T14:19:10.685459+05:30'
+collected_at: '2026-08-02T14:19:10.685469+05:30'
 tags:
 - benchmark
 - web-crawled
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-security-lab-securing-open-source-software
-first_seen: '2026-07-21T16:58:22.452707+05:30'
-last_seen: '2026-07-21T16:58:22.452707+05:30'
-last_checked: '2026-07-21T16:58:22.452707+05:30'
+first_seen: '2026-08-02T14:19:10.685469+05:30'
+last_seen: '2026-08-02T14:19:10.685469+05:30'
+last_checked: '2026-08-02T14:19:10.685469+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Security Lab (GHSL)** conducts proactive security research on open-source projects, identifying vulnerabilities (e.g., heap overflows, SQLi, arbitrary file reads) and disclosing findings via [GitHub Advisory Database](https://github.com/advisories) with associated CVEs (e.g., CVE-2026-48095 for 7-Zip).
+- **Collaborative Security Ecosystem**: GitHub Security Lab (GHSL) fosters a global community of maintainers, developers, and security researchers to proactively secure open-source software (OSS) via coordinated vulnerability research and disclosure.
 
-- **CodeQL-based analysis** powers GHSL’s workflows, enabling automated variant analysis to detect vulnerabilities across open-source ecosystems; contributors can showcase findings via the [CodeQL Wall of Fame](https://securitylab.github.com/codeql-wall-of-fame/).
+- **Vulnerability Research & Disclosure**: GHSL researchers have disclosed **1,226 vulnerabilities** (918 CVEs) in OSS projects, including high-severity flaws (e.g., RCE in Fooocus, heap overflows in 7-Zip, SQLi in Chatwoot), with advisories and CodeQL queries publicly available for mitigation.
 
-- **Enterprise and community integration**: GHSL provides curated security advisories, CodeQL queries, and open-source resources (e.g., secure coding training) to accelerate remediation and secure software supply chains for both enterprises and open-source maintainers.
+- **Enterprise & Tooling Integration**: GHSL provides **CodeQL-based static analysis**, the **GitHub Advisory Database** (33K+ advisories, 16.5K+ CVEs), and enterprise-focused resources to automate risk assessment, secure supply chains, and accelerate secure development lifecycle (SDLC) practices.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T16:58:22.452693+05:30
+- Published: 2026-08-02T14:19:10.685459+05:30
 
 ## Related Tags
 

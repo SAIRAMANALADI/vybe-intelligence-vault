@@ -8,7 +8,7 @@ local_vault_path: ai/resources/resemble-ai-multimodal-deepfake-detection-and-wat
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -17,7 +17,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Resemble AI — Multimodal Deepfake Detection and Watermarking Platform
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Multimodal Deepfake Detection**: Resemble.ai offers a proprietary multimodal deepfake detection model capable of identifying synthetic content across audio, image, and video modalities.
+- **Multimodal Deepfake Detection**: Resemble.ai offers a proprietary multimodal deepfake detection model capable of identifying synthetic content across audio, image, and video formats via invisible watermarking and signal verification.
 
-- **Invisible Watermarking**: Implements imperceptible, file-embedded watermarks to track and verify the authenticity of generated media, ensuring provenance and tamper detection.
+- **Trust & Identity Security**: The platform integrates AI-powered signal verification to strengthen identity security, providing invisible watermarks that persist with files to distinguish human-generated from AI-synthesized content.
 
-- **Enterprise-Grade Integration**: Supports SSO and API-based workflow integration (Google, GitHub, Microsoft) for scalable dep
+- **Enterprise & Ethical
 
 ## Use Cases
 

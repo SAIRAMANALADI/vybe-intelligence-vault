@@ -8,7 +8,7 @@ local_vault_path: ai/resources/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - web-crawled
@@ -24,18 +24,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Google's `gemini-3.1-flash-tts`**: Fast, expressive TTS model supporting 30 voices and 70+ languages, optimized for low-latency inference with high naturalness.
+- **Google's Gemini-3.1-Flash-TTS**: A high-speed, expressive text-to-speech (TTS) model supporting 30 voices and 70+ languages, optimized for low-latency inference with scalable deployment.
 
-- **Alibaba's `happyhorse-1.0`**: Diffusion-based video generation/animation model converting text prompts or static images into 720p/1080p videos (3–15s duration) with 5 aspect ratio options.
+- **ByteDance's Seedance-2.0**: A multimodal video generation model with native audio synthesis, multimodal reference inputs (e.g., text, images, audio), and adaptive duration control for dynamic video synthesis.
 
-- **ByteDance's `seedream-5-lite`**: Multimodal image generation model integrating reasoning, example-based editing, and domain-specific kno
+- **ByteDance's Seedream-5-Lite**: A lightweight image generation model integrating reasoning
 
 ## Use Cases
 

@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-02T09:24:40.439590+05:30'
+collected_at: '2026-08-02T14:10:17.668589+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
+- benchmark
 - dataset
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
+- youtube
 stars: 339
 language: Unknown
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-02T09:24:40.439590+05:30'
-last_seen: '2026-08-02T09:24:40.439590+05:30'
-last_checked: '2026-08-02T09:24:40.439590+05:30'
+first_seen: '2026-08-02T14:10:17.668589+05:30'
+last_seen: '2026-08-02T14:10:17.668589+05:30'
+last_checked: '2026-08-02T14:10:17.668589+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, covering state-of-the-art methods, frameworks, and applications.
-- **Resource Scope**: Includes research papers, tools, datasets, and implementations focused on integrating **vision-language models (VLMs)** with RAG to enhance multimodal understanding and generation.
-- **Maintenance**: Last updated in **July 2026**, indicating active curation with potential updates for emerging RAG-CV advancements.
+- **Curated RAG-Vision Resources**: A specialized repository aggregating advanced retrieval-augmented generation (RAG) techniques tailored for computer vision applications, including multimodal models, vision-language integration, and retrieval-enhanced visual understanding.
+
+- **Multimodal RAG Frameworks**: Includes implementations of RAG systems that combine visual (e.g., images, videos) and textual data for tasks like image captioning, visual question answering (VQA), and cross-modal retrieval.
+
+- **Evaluation & Benchmarks**: Features curated datasets, benchmarks, and evaluation metrics for assessing RAG-based vision models, with a focus on retrieval quality, generation accuracy, and multimodal coherence.
 
 ## Why It Matters
 

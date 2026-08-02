@@ -4,21 +4,22 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-08-02T03:49:10.183760+05:30'
-collected_at: '2026-08-02T03:49:10.183772+05:30'
+published_at: '2026-08-02T14:15:26.368317+05:30'
+collected_at: '2026-08-02T14:15:26.368327+05:30'
 tags:
 - agents
 - anthropic
 - producthunt
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-08-02T03:49:10.183772+05:30'
-last_seen: '2026-08-02T03:49:10.183772+05:30'
-last_checked: '2026-08-02T03:49:10.183772+05:30'
+first_seen: '2026-08-02T14:15:26.368327+05:30'
+last_seen: '2026-08-02T14:15:26.368327+05:30'
+last_checked: '2026-08-02T14:15:26.368327+05:30'
 health_score: 100
 ---
 
@@ -26,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Agent Framework**: Open-source `dcode` coding agent built on Deep Agents SDK, supporting multi-model LLM integration, persistent memory for cross-session context, and customizable skills via `config.toml` or environment variables.
+- **Modular Agent Framework**: Open-source `dcode` coding agent built on Deep Agents SDK, supporting LLM provider/model switching, persistent memory for cross-session context, and customizable skills/approval controls for secure code execution.
 
-- **Execution & Safety Controls**: Features remote sandbox execution, human-in-the-loop approval for sensitive operations, and context compaction for efficient memory management via LangSmith tracing.
+- **Advanced Execution Features**: Supports remote sandboxes, subagent delegation for parallel tasks, MCP tool integration, and LangSmith tracing for observability; includes context compaction and human-in-the-loop approval for sensitive operations.
 
-- **Advanced Workflows**: Supports subagent delegation for parallel task execution, MCP tool integration for external tool loading, and goal/rubric-based task validation for measurable agent performance.
+- **Configurable Workflows**: Enables goal/rubric definition for task validation, persistent memory storage/retrieval, and extensible skills via custom instructions or MCP server-loaded tools.
 
 ## Why It Matters
 
@@ -40,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T03:49:10.183760+05:30
+- Published: 2026-08-02T14:15:26.368317+05:30
 
 ## Related Tags
 
@@ -48,6 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - producthunt
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube

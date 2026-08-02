@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com
-published_at: '2026-08-02T09:29:20.843340+05:30'
-collected_at: '2026-08-02T09:29:20.843354+05:30'
+source_url: https://githubstatus.com
+published_at: '2026-08-02T14:19:09.642688+05:30'
+collected_at: '2026-08-02T14:19:09.642699+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-02T09:29:20.843354+05:30'
-last_seen: '2026-08-02T09:29:20.843354+05:30'
-last_checked: '2026-08-02T09:29:20.843354+05:30'
+first_seen: '2026-08-02T14:19:09.642699+05:30'
+last_seen: '2026-08-02T14:19:09.642699+05:30'
+last_checked: '2026-08-02T14:19:09.642699+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime data (e.g., 99.99% uptime for Git Operations over 90 days) via [githubstatus.com](https://www.githubstatus.com), including regional breakdowns (US, EU, Australia, Japan).
-
-- **Notification Systems**: Supports multi-channel incident alerts via email, SMS (global phone codes), Slack, and webhooks for automated incident tracking (e.g., Copilot AI model provider outages on Aug 1, 2026).
-
-- **Incident Root Causes**: Recent major incidents include Actions API timeouts (July 29, 2026) due to under-provisioned services and Copilot AI model provider failures (July 29–Aug 1, 2026) caused by upstream provider issues, with mitigation via scaling and provider coordination.
+- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Actions) with 90-day uptime metrics and incident tracking via [githubstatus.com](https://githubstatus.com).
+- **Copilot AI Model Providers** experienced multiple outages (e.g., Fable 5, GPT-5.6 Luna, Claude Fable 5) due to upstream provider issues, resolved via mitigation and monitoring.
+- **GitHub Actions** suffered a partial outage (July 29, 2026) caused by under-provisioned internal services, leading to workflow delays (~2% of jobs), mitigated by scaling runner-administration services.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T09:29:20.843340+05:30
+- Published: 2026-08-02T14:19:09.642688+05:30
 
 ## Related Tags
 
@@ -56,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com
+Original source: https://githubstatus.com

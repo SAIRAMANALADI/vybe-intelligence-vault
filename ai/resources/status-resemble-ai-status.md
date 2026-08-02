@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://status.resemble.ai/
-published_at: '2026-08-01T19:32:19.658972+05:30'
-collected_at: '2026-08-01T19:32:19.658980+05:30'
+published_at: '2026-08-02T14:16:57.645364+05:30'
+collected_at: '2026-08-02T14:16:57.645377+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:status-resemble-ai-status
-first_seen: '2026-08-01T19:32:19.658980+05:30'
-last_seen: '2026-08-01T19:32:19.658980+05:30'
-last_checked: '2026-08-01T19:32:19.658980+05:30'
+first_seen: '2026-08-02T14:16:57.645377+05:30'
+last_seen: '2026-08-02T14:16:57.645377+05:30'
+last_checked: '2026-08-02T14:16:57.645377+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Intelligence API**: Experiencing ongoing issues for **2 months, 18 days, 11 hours, 36 minutes, and 15 seconds**; team actively resolving.
-- **Web Portals**: **99.971% uptime** (last 90 days), with `app.resemble.ai` at **99.942%** and `resemble.ai` at **100%**.
-- **Safety & Detection APIs**: **99.792% uptime** (last 90 days), with Deepfake Detection at **99.86%** and Identities at **99.725%**.
+- **Intelligence API**: Experiencing ongoing issues for 2 months, 19 days, 6 hours, 22 minutes, and 23 seconds; team actively resolving.
+- **Service Uptime**:
+  - Web Portals: 99.971% (app.resemble.ai: 99.942%, resemble.ai: 100%).
+  - Safety & Detection API's: 99.794% (Deepfake Detection: 99.862%, Identities: 99.725%).
+  - Text-To-Speech: 100% (Resemble Ultra HTTP).
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T19:32:19.658972+05:30
+- Published: 2026-08-02T14:16:57.645364+05:30
 
 ## Related Tags
 

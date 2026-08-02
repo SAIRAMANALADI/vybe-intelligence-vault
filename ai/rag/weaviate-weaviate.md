@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-08-02T09:29:13.572716+05:30'
+collected_at: '2026-08-02T14:17:30.666343+05:30'
 published_at: '2026-08-01T20:53:20Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2016-03-30T15:03:17Z'
 pushed_at: '2026-08-01T13:30:33Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-08-02T09:29:13.572716+05:30'
-last_seen: '2026-08-02T09:29:13.572716+05:30'
-last_checked: '2026-08-02T09:29:13.572716+05:30'
+first_seen: '2026-08-02T14:17:30.666343+05:30'
+last_seen: '2026-08-02T14:17:30.666343+05:30'
+last_checked: '2026-08-02T14:17:30.666343+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Architecture**: Combines vector search (HNSW-based) with structured filtering, enabling both semantic and traditional query capabilities in a single system.
-- **Cloud-Native & Scalable**: Implements fault tolerance and horizontal scalability via a distributed architecture, supporting gRPC for high-performance communication.
-- **Multi-Modal Support**: Stores and indexes objects (text, images, etc.) alongside vectors, enabling applications in semantic search, recommender systems, and generative AI workflows.
+- **Hybrid Vector & Structured Data Storage**: Weaviate integrates both object storage (JSON-like data) and vector embeddings in a single system, enabling combined vector search with structured filtering (e.g., metadata queries) while maintaining cloud-native scalability and fault tolerance.
+
+- **Advanced Search Capabilities**: Supports Approximate Nearest Neighbor (ANN) search via HNSW, hybrid search (combining sparse/dense vectors), and semantic/generative search, with gRPC-based APIs for low-latency vector operations.
+
+- **MLOps & Scalability Features**: Designed for MLOps workflows with built-in modules for image/text search, recommender systems, and neural search; optimized for horizontal scaling and high availability in distributed environments.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-02T09:25:15.456682+05:30'
+collected_at: '2026-08-02T14:10:47.721589+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-02T09:25:15.456682+05:30'
-last_seen: '2026-08-02T09:25:15.456682+05:30'
-last_checked: '2026-08-02T09:25:15.456682+05:30'
+first_seen: '2026-08-02T14:10:47.721589+05:30'
+last_seen: '2026-08-02T14:10:47.721589+05:30'
+last_checked: '2026-08-02T14:10:47.721589+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning.
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning through structured memory hierarchies.
 
-- **Stateful Reasoning**: Implements structured memory organization to maintain contextual coherence across extended interactions, addressing limitations of traditional RAG in multi-turn reasoning.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain contextual coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Contribution**: Proposes a novel approach to long-form narrative reasoning, leveraging memory hierarchies for improved contextual retrieval and generation in complex dialogue scenarios.
+- **AAAI 2026 Poster Submission**: Presented as a novel approach for advanced RAG systems, emphasizing memory organization and cognitive modeling for improved long-form reasoning tasks.
 
 ## Why It Matters
 

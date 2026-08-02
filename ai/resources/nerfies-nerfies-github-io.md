@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nerfies/nerfies.github.io
-collected_at: '2026-08-02T09:28:05.645695+05:30'
+collected_at: '2026-08-02T14:13:37.929418+05:30'
 published_at: '2026-08-01T21:10:19Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2020-11-24T09:35:45Z'
 pushed_at: '2024-06-21T11:47:54Z'
 resource_id: github:nerfies/nerfies.github.io
-first_seen: '2026-08-02T09:28:05.645695+05:30'
-last_seen: '2026-08-02T09:28:05.645695+05:30'
-last_checked: '2026-08-02T09:28:05.645695+05:30'
+first_seen: '2026-08-02T14:13:37.929418+05:30'
+last_seen: '2026-08-02T14:13:37.929418+05:30'
+last_checked: '2026-08-02T14:13:37.929418+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository for Nerfies, a JavaScript-based project with 4,309 stars and 1,938 forks.
-- **Technical Stack**: Primarily utilizes JavaScript for implementation.
-- **Last Updated**: Repository last synced on **2026-08-01T21:10:19Z**.
+- **Repository**: `nerfies/nerfies.github.io` – A JavaScript-based project with 4,309 stars and 1,937 forks, last updated on **2026-08-01**.
+- **Purpose**: No explicit description provided; likely serves as a documentation or project page for **NeRFies** (Neural Radiance Fields-related work).
+- **Technical Stack**: Pure JavaScript, no additional topics or dependencies specified.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: nerfies
 - Stars: 4309
-- Forks: 1938
+- Forks: 1937
 - Language: JavaScript
 - Topics: None
 - Last Updated: 2026-08-01T21:10:19Z

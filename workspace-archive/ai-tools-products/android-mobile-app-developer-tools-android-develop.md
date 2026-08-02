@@ -6,10 +6,10 @@ source_url: https://developer.android.com
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
-importance: high
+resource_kind: framework
+importance: medium
 tags:
 - agents
 - producthunt
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Android Mobile App Developer Tools - Android Developers
@@ -27,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Jetpack Compose 5th Anniversary**: Celebrates 5 years since Jetpack Compose's inception, highlighting its evolution into the industry standard for modern Android UI development, with a retrospective on its impact and future trajectory.
+- **Jetpack Compose**: Celebrated 5 years as the industry-standard declarative UI framework for Android, reshaping modern development with its composable architecture and tooling integration.
 
-- **Android 17 & API 37 Updates**: Android 17 is officially released with AOSP source code live and rolling out to Pixel devices; key updates include API 37 optimizations requiring app adjustments for compatibility.
+- **Android 17 & XR Updates**: Android 17 (API 37) launched with AOSP source code and Pixel rollout, while Android XR expanded engine support and resources for immersive app development.
 
-- **Android XR Expansion**: Introduces new
+- **SDK License Agreement**: Google’s Android SDK License Agreement grants limited, royalty-free use for app developmen
 
 ## Use Cases
 

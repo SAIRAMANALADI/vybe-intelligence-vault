@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-08-02T01:14:08.703236+05:30'
-collected_at: '2026-08-02T01:14:08.703252+05:30'
+published_at: '2026-08-02T14:18:11.198190+05:30'
+collected_at: '2026-08-02T14:18:11.198201+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-08-02T01:14:08.703252+05:30'
-last_seen: '2026-08-02T01:14:08.703252+05:30'
-last_checked: '2026-08-02T01:14:08.703252+05:30'
+first_seen: '2026-08-02T14:18:11.198201+05:30'
+last_seen: '2026-08-02T14:18:11.198201+05:30'
+last_checked: '2026-08-02T14:18:11.198201+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Workflows**: Demonstrates agent-based retrieval architectures with tools like OpenStreetMap, MCP (Model Context Protocol), and memory stores (e.g., Mem0) for dynamic task execution.
-- **Advanced Retrieval Techniques**: Covers hybrid RAG pipelines, query decomposition, HyDE, and sparse embeddings (Qdrant + FastEmbed) to optimize document retrieval.
-- **Multimodal & Specialized RAG**: Includes multimodal text generation, legal document analysis with jina-embeddings-v2, and RAG with self-deployed models (NVIDIA NIMs).
+- **Haystack Cookbook**: Repository of 49 technical recipes demonstrating model providers, vector databases, retrieval techniques, and integrations (e.g., Azure AI Search, vLLM, FastEmbed) with Haystack pipelines.
+- **Key Recipes**: Includes advanced RAG (HyDE, query decomposition), agentic workflows (GitHub PR creator, cost-aware agents), multimodal pipelines (Gemma 4, PDF QA), and observability (Arize Phoenix, DeepEval).
+- **Contribution & Tools**: Open-source GitHub repository for contributions; searchable tutorials with error handling for keyword-based queries.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T01:14:08.703236+05:30
+- Published: 2026-08-02T14:18:11.198190+05:30
 
 ## Related Tags
 

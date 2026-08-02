@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-02T09:26:10.597006+05:30'
+collected_at: '2026-08-02T14:11:42.766377+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - typescript
 stars: 536
 language: TypeScript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-02T09:26:10.597006+05:30'
-last_seen: '2026-08-02T09:26:10.597006+05:30'
-last_checked: '2026-08-02T09:26:10.597006+05:30'
+first_seen: '2026-08-02T14:11:42.766377+05:30'
+last_seen: '2026-08-02T14:11:42.766377+05:30'
+last_checked: '2026-08-02T14:11:42.766377+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages including Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot, and iOS.
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills, coding best practices, and framework-specific guidelines for AI agents, covering Android, Angular, Flutter, Go, iOS, Kotlin, Laravel, NestJS, Next.js, React, React Native, Spring Boot, and more.
 
-- **Purpose**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to optimal coding practices across multiple technologies, facilitating consistent and high-quality code generation.
+- **Key Features**: Provides structured `cursor-rules` and language/framework-specific standards to ensure AI agents adhere to optimized development practices across multiple ecosystems.
 
-- **Metadata**: 536 stars, 155 forks; last updated July 30, 2026, with active maintenance across 19+ topics related to agentic AI and framework-specific standards.
+- **Metadata**: 536 stars, 155 forks, last updated July 30, 2026; serves as a reference for agentic AI development standards in TypeScript and other languages.
 
 ## Why It Matters
 

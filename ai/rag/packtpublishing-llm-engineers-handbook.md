@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-08-02T09:24:25.478415+05:30'
+collected_at: '2026-08-02T14:09:57.701266+05:30'
 published_at: '2026-08-01T01:59:52Z'
 tags:
 - benchmark
@@ -13,6 +13,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 stars: 5262
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-08-02T09:24:25.478415+05:30'
-last_seen: '2026-08-02T09:24:25.478415+05:30'
-last_checked: '2026-08-02T09:24:25.478415+05:30'
+first_seen: '2026-08-02T14:09:57.701266+05:30'
+last_seen: '2026-08-02T14:09:57.701266+05:30'
+last_checked: '2026-08-02T14:09:57.701266+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
+- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
 
-- **Technical Stack & Topics**: Focuses on Python-based implementations, including fine-tuning LLMs, RAG pipelines, MLOps/ML system design, and evaluation frameworks for generative AI.
+- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation methodologies, MLOps/ML system design, and retrieval-augmented generation (RAG) implementation with Python.
 
-- **AWS Integration & LLMOps**: Demonstrates deployment strategies on AWS with emphasis on operational excellence, CI/CD for LLMs, and infrastructure-as-code for LLM-based applications.
+- **AWS-Centric Deployment**: Demonstrates end-to-end workflows for deploying LLMs on AWS, leveraging cloud-native tools and infrastructure for efficient GenAI application delivery.
 
 ## Why It Matters
 

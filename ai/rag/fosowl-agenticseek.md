@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-02T01:07:54.610251+05:30'
-published_at: '2026-08-01T18:23:07Z'
+collected_at: '2026-08-02T14:12:27.789804+05:30'
+published_at: '2026-08-02T06:48:58Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 26718
+stars: 26720
 language: Python
 status: active
 license: GPL-3.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-08-01T14:03:03Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-02T01:07:54.610251+05:30'
-last_seen: '2026-08-02T01:07:54.610251+05:30'
-last_checked: '2026-08-02T01:07:54.610251+05:30'
+first_seen: '2026-08-02T14:12:27.789804+05:30'
+last_seen: '2026-08-02T14:12:27.789804+05:30'
+last_checked: '2026-08-02T14:12:27.789804+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Fully Local AI Agent**: `agenticSeek` operates entirely locally without requiring cloud APIs or external services, eliminating subscription costs (e.g., $200/month) and relying solely on local compute resources.
-- **Autonomous Multi-Modal Functionality**: Implements an autonomous agent capable of reasoning (via DeepSeek-R1), web browsing, and code execution, with additional voice-assistant capabilities.
-- **Python-Based Implementation**: Built in Python, leveraging LLM-agent frameworks to enable agentic workflows with minimal overhead.
+- **Fully Local AI Agent**: `agenticSeek` operates entirely locally using Manus AI, eliminating dependency on external APIs or cloud services, reducing costs to just electricity.
+- **Autonomous Capabilities**: Supports autonomous web browsing, code execution, and reasoning, leveraging DeepSeek-R1 for advanced LLM-based agentic workflows.
+- **Voice & Local Deployment**: Includes voice assistant functionality and is optimized for local deployment, avoiding recurring cloud expenses (e.g., $200/month bills).
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Fosowl
-- Stars: 26718
-- Forks: 2994
+- Stars: 26720
+- Forks: 2995
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
-- Last Updated: 2026-08-01T18:23:07Z
+- Last Updated: 2026-08-02T06:48:58Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-02-19T18:03:06Z

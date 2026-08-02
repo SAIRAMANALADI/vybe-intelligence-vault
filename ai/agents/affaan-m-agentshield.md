@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/affaan-m/agentshield
-collected_at: '2026-08-02T09:25:25.497789+05:30'
-published_at: '2026-08-01T07:40:16Z'
+collected_at: '2026-08-02T14:10:57.721919+05:30'
+published_at: '2026-08-02T07:20:31Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - typescript
-stars: 1035
+stars: 1036
 language: TypeScript
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-11T06:31:44Z'
 pushed_at: '2026-07-22T07:01:25Z'
 resource_id: github:affaan-m/agentshield
-first_seen: '2026-08-02T09:25:25.497789+05:30'
-last_seen: '2026-08-02T09:25:25.497789+05:30'
-last_checked: '2026-08-02T09:25:25.497789+05:30'
+first_seen: '2026-08-02T14:10:57.721919+05:30'
+last_seen: '2026-08-02T14:10:57.721919+05:30'
+last_checked: '2026-08-02T14:10:57.721919+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format security scanner** for AI agents, MCP servers, and tool permissions, deployable via **CLI, GitHub Action, ECC plugin, or GitHub App**.
-- **Static analysis focus**: Detects misconfigurations and vulnerabilities in agent setups, including Anthropic (Claude Code/Opus) and MCP integrations.
-- **TypeScript-based**, last updated **2026-08-01**, with **1,035 stars** and **218 forks** on GitHub.
+- **AgentShield** is a TypeScript-based security scanner for AI agents, designed to detect vulnerabilities in configurations, MCP servers, and tool permissions.
+- Supports multiple integrations: CLI, GitHub Action, ECC plugin, and GitHub App.
+- Targets AI agent frameworks (Anthropic, Claude Code, Opus) and includes security-focused features for MCP (Model Context Protocol) environments.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: affaan-m
-- Stars: 1035
+- Stars: 1036
 - Forks: 218
 - Language: TypeScript
 - Topics: ai-agent, anthropic, claude-code, hackathon, mcp, opus, security
-- Last Updated: 2026-08-01T07:40:16Z
+- Last Updated: 2026-08-02T07:20:31Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-11T06:31:44Z
