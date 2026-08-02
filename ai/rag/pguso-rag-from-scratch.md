@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-03T01:05:25.304753+05:30'
+collected_at: '2026-08-03T03:42:27.159141+05:30'
 published_at: '2026-08-01T15:12:46Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1486
 language: JavaScript
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-03T01:05:25.304753+05:30'
-last_seen: '2026-08-03T01:05:25.304753+05:30'
-last_checked: '2026-08-03T01:05:25.304753+05:30'
+first_seen: '2026-08-03T03:42:27.159141+05:30'
+last_seen: '2026-08-03T03:42:27.159141+05:30'
+last_checked: '2026-08-03T03:42:27.159141+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step JavaScript-based tutorial to construct a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs (via `node-llama-cpp`), emphasizing transparency over black-box solutions.
-
-- **Core Components**: Demonstrates embeddings generation, vector search, retrieval mechanisms, and context-augmented generation, with a focus on practical, hands-on understanding of the RAG pipeline.
-
-- **Technical Stack**: Built with Node.js, leveraging `node-llama-cpp` for local LLM inference, targeting developers interested in AI agents, RAG chatbots, and educational resources for production-grade RAG systems.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using **JavaScript**, leveraging **node-llama-cpp** for local LLM inference without external black-box dependencies.
+- **Core Components**: Covers end-to-end RAG workflow including **embedding generation**, **vector search**, **retrieval**, and **context-augmented generation** for educational purposes.
+- **Tooling**: Utilizes **Node.js** ecosystem for modularity, with focus on transparency in AI agent pipelines and RAG chatbot architectures.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://akaxlh.github.io/
-published_at: '2026-08-02T21:48:56.008596+05:30'
-collected_at: '2026-08-02T21:48:56.008609+05:30'
+published_at: '2026-08-03T03:46:33.214294+05:30'
+collected_at: '2026-08-03T03:46:33.214304+05:30'
 tags:
 - agents
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:about-me-lianghao-xia
-first_seen: '2026-08-02T21:48:56.008609+05:30'
-last_seen: '2026-08-02T21:48:56.008609+05:30'
-last_checked: '2026-08-02T21:48:56.008609+05:30'
+first_seen: '2026-08-03T03:46:33.214304+05:30'
+last_seen: '2026-08-03T03:46:33.214304+05:30'
+last_checked: '2026-08-03T03:46:33.214304+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Research Focus**: Specializes in LLM agents, AI-Generated Content (AIGC), graph foundation models, retrieval-augmented generation, and recommendation systems, with a Ph.D. (2021) and Bachelor's (2017) from South China University of Technology.
-- **Key Achievements**: Holds a Google Scholar citation count of **8000+**, h-index **44**, and i-10 index **60**; recognized as a **World’s Top 2% Scientist** (2024, 2025); awarded **ACM MM 2024 Best Paper Nomination**, **WWW 2023 Best Paper Nomination**, and **ICLR 2023 Spotlight Paper** (Top 25%).
-- **Publications & Impact**: Authored **15+ top-tier papers** (e.g., NeurIPS’25, EMNLP’25, KDD’24, WWW’23) with **10k+ GitHub stars** and **1000+ citations**; developed frameworks like **LightRAG** (12k+ stars) and **AI-Researcher** (3.8k+ stars).
+- **Research Focus**: Specializes in LLM agents, AI-Generated Content (AIGC), graph foundation models, retrieval-augmented generation, and recommendation systems, with 8000+ citations and h-index of 44.
+- **Key Contributions**: Developed frameworks like **LightRAG** (12k+ GitHub stars), **AI-Researcher** (3.8k+ stars), and **OpenGraph**, with multiple papers recognized as "Most Influential" in top-tier conferences (KDD, WWW, SIGIR).
+- **Academic Roles**: Professor at HIT Shenzhen (2025–present), Research Assistant Professor at HKU (2024–2025), and Postdoctoral Fellow at HKU (2022–2024), with Ph.D. (2021) and B.S. (2017) from SCUT.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T21:48:56.008596+05:30
+- Published: 2026-08-03T03:46:33.214294+05:30
 
 ## Related Tags
 

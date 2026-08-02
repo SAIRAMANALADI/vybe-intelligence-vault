@@ -1,18 +1,19 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/resources
+source_category: ai/agents
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/resources/arxiv-replicate-replicate.md
+local_vault_path: ai/agents/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- agents
+- anthropic
 - web-crawled
-- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **HappyHorse-1.0**: Alibaba's text-to-video diffusion model supporting 720p/1080p resolutions, 3-15s durations, and five aspect ratios (e.g., 16:9, 9:16) for video generation or animation from single images.
-
-- **Gemini-3.1-Flash-TTS**: Google’s lightweight TTS model offering 30 voices and 70+ language support with low latency, optimized for real-time speech synthesis.
-
-- **Flux-2-Max**: Black Forest Labs’ high-fidelity latent diffusion model for image generation, delivering superior visual qu
+- **Seedream 5.0 Lite**: Image generation model with integrated reasoning, example-based editing, and specialized domain knowledge, achieving 3.2M runs on Replicate.
+- **Claude Opus 4.7**: Anthropic’s top-tier model with enhanced agentic coding, improved vision capabilities, and advanced multi-step reasoning, totaling 227.9K runs.
+- **Krea-2-Medium**: Foundation image model optimized for expressive illustration, anime, and painterly styles, with high consistency and 21.5K runs on Replicate.
 
 ## Use Cases
 
@@ -49,4 +48,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/resources/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/agents/arxiv-replicate-replicate.md)

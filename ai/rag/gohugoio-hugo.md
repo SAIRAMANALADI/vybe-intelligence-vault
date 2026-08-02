@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-08-03T01:11:18.904944+05:30'
-collected_at: '2026-08-03T01:11:18.904961+05:30'
+published_at: '2026-08-03T03:48:13.766288+05:30'
+collected_at: '2026-08-03T03:48:13.766298+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-08-03T01:11:18.904961+05:30'
-last_seen: '2026-08-03T01:11:18.904961+05:30'
-last_checked: '2026-08-03T01:11:18.904961+05:30'
+first_seen: '2026-08-03T03:48:13.766298+05:30'
+last_seen: '2026-08-03T03:48:13.766298+05:30'
+last_checked: '2026-08-03T03:48:13.766298+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.164.0** introduces dark/light mode support for Chroma syntax highlighting via new `hugo gen chromastyles` flags, adds template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and includes Pandoc citation support alongside a performance regression fix for large sites.
+- **Hugo v0.164.0 Release**: Introduces dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), Pandoc citation support, and fixes a performance regression from v0.128.0.
 
-- **Deprecations & Improvements**: Resources.PostProcess is deprecated in favor of `templates.Defer`, `markup.rst.syntaxHighlight` is now configurable, and sub-paths are supported in layouts passed to `Page.Render`.
+- **Deprecations & Fixes**: Deprecates `resources.PostProcess` in favor of `templates.Defer`, adds `markup.rst.syntaxHighlight` option, and improves template name lookup case-insensitivity.
 
-- **Performance & Dependencies**: Optimized `hasBytesWriter` performance, added case-insensitive template name lookup, and updated dependencies (e.g., `esbuild` v0.28.1, `Chroma` dark/light mode support).
+- **Performance & Dependencies**: Optimizes `hugio.hasBytesWriter`, updates Go toolchain dependencies (e.g., `golang.org/x/tools` to v0.47.0), and includes Chroma dark/light mode support.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T01:11:18.904944+05:30
+- Published: 2026-08-03T03:48:13.766288+05:30
 
 ## Related Tags
 

@@ -4,18 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-08-02T21:52:28.890120+05:30'
-collected_at: '2026-08-02T21:52:28.890135+05:30'
+published_at: '2026-08-03T03:48:18.119678+05:30'
+collected_at: '2026-08-03T03:48:18.119691+05:30'
 tags:
 - agents
 - openai
 - web-crawled
-- workflows
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-08-02T21:52:28.890135+05:30'
-last_seen: '2026-08-02T21:52:28.890135+05:30'
-last_checked: '2026-08-02T21:52:28.890135+05:30'
+first_seen: '2026-08-03T03:48:18.119691+05:30'
+last_seen: '2026-08-03T03:48:18.119691+05:30'
+last_checked: '2026-08-03T03:48:18.119691+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Run autonomously in the background via GitHub Copilot CLI, managed from VS Code’s Chat view; supports multi-repository workspaces, custom agents, and deep research tasks with isolation modes (Worktree/Folder) and auto-approvals in Worktree mode.
+- **Copilot CLI Sessions**: VS Code supports autonomous background agent sessions via GitHub Copilot CLI, managed through the unified Chat view; sessions run locally (outside VS Code) and continue after editor closure, enabling parallel task execution with isolation modes (Worktree/Folder) and permission controls.
 
-- **Agent Integration**: VS Code uses the Copilot SDK to start/stop/monitor CLI sessions, which persist outside the editor; supports slash commands (`/research`, `/yolo`), reusable prompts, hooks, and MCP servers for extensibility.
+- **Isolation & Permissions**: Worktree isolation uses Git worktrees for isolated changes (auto-approved), while Folder isolation applies changes directly to the workspace with configurable permissions (Default/Bypass/Autopilot/Assisted).
 
-- **Permissions & Workflow**: Worktree isolation enforces auto-approved tool calls, while Folder isolation offers Default/Bypass/Autopilot/Assisted permissions; sessions can be forked, synced, and debugged via Session Insights and OpenTelemetry monitoring.
+- **CLI Management**: Sessions are initiated via `/commands` (e.g., `/research`, `/yolo`) and support multi-repository workspaces, custom agents, and deep research tasks; VS Code auto-installs/configures the Copilot CLI harness.
 
 ## Why It Matters
 
@@ -37,14 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T21:52:28.890120+05:30
+- Published: 2026-08-03T03:48:18.119678+05:30
 
 ## Related Tags
 
 - agents
 - openai
 - web-crawled
-- workflows
 
 ## Source
 

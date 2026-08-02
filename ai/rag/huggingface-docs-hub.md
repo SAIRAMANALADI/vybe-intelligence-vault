@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-02T19:36:14.850716+05:30'
-collected_at: '2026-08-02T19:36:14.850732+05:30'
+published_at: '2026-08-03T03:47:28.231508+05:30'
+collected_at: '2026-08-03T03:47:28.231517+05:30'
 tags:
 - agents
 - creative_dev
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-02T19:36:14.850732+05:30'
-last_seen: '2026-08-02T19:36:14.850732+05:30'
-last_checked: '2026-08-02T19:36:14.850732+05:30'
+first_seen: '2026-08-03T03:47:28.231517+05:30'
+last_seen: '2026-08-03T03:47:28.231517+05:30'
+last_checked: '2026-08-03T03:47:28.231517+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting via Gradio SDK, Docker containers, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo app hosting with support for Python SDKs (Gradio), Docker containers, and static HTML/JS apps, deployable on CPU/GPU accelerated hardware.
 
-- **Integration & Customization**: Supports dependency management, GitHub Actions CI/CD, and embedding in external platforms; allows custom domains, disk/storage management, and OAuth-based authentication.
+- **Storage & GPU Options**: Spaces support GPU upgrades, ZeroGPU modes, and configurable disk/storage limits, with options for custom domains and embedded deployment.
 
-- **Monitoring & Analytics**: Provides disk usage tracking, download statistics, and webhook-based automation for job scheduling and model serving workflows.
+- **Integration & Automation**: Supports GitHub Actions for CI/CD, OAuth authentication, MCP server integration, and API endpoints for programmatic access and automation.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:36:14.850716+05:30
+- Published: 2026-08-03T03:47:28.231508+05:30
 
 ## Related Tags
 

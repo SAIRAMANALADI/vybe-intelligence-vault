@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-03T01:05:55.375833+05:30'
+collected_at: '2026-08-03T03:42:57.201577+05:30'
 published_at: '2026-07-16T10:59:46Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 158
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-03T01:05:55.375833+05:30'
-last_seen: '2026-08-03T01:05:55.375833+05:30'
-last_checked: '2026-08-03T01:05:55.375833+05:30'
+first_seen: '2026-08-03T03:42:57.201577+05:30'
+last_seen: '2026-08-03T03:42:57.201577+05:30'
+last_checked: '2026-08-03T03:42:57.201577+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for improved document retrieval performance.
+- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with retrieval-augmented generation (RAG), combining vector store retrieval and hybrid search (likely BM25 + dense embeddings) for enhanced document retrieval.
 
-- **LangChain RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) workflow with a vector store (e.g., FAISS or Chroma) for document storage and a language model (e.g., LLM) for generating responses grounded in retrieved context.
+- **Vector Store Integration**: Utilizes a vector database (e.g., FAISS, Chroma, or Pinecone) for semantic search, paired with LangChain’s retrieval chains to fetch and process relevant context for LLM generation.
 
-- **Streamlit UI**: Provides a real-time web interface via Streamlit to interact with the RAG system, enabling users to input queries and visualize retrieved documents alongside generated answers.
+- **Streamlit UI**: Provides a frontend interface to interact with the RAG system, enabling users to input queries and visualize retrieved results alongside generated responses.
 
 ## Why It Matters
 

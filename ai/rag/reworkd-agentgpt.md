@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/reworkd/AgentGPT
-collected_at: '2026-08-03T01:08:20.462883+05:30'
+collected_at: '2026-08-03T03:45:22.341600+05:30'
 published_at: '2026-08-02T15:59:42Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: true
 created_at: '2023-04-07T02:29:19Z'
 pushed_at: '2025-04-29T01:19:32Z'
 resource_id: github:reworkd/agentgpt
-first_seen: '2026-08-03T01:08:20.462883+05:30'
-last_seen: '2026-08-03T01:08:20.462883+05:30'
-last_checked: '2026-08-03T01:08:20.462883+05:30'
+first_seen: '2026-08-03T03:45:22.341600+05:30'
+last_seen: '2026-08-03T03:45:22.341600+05:30'
+last_checked: '2026-08-03T03:45:22.341600+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Browser-based platform for assembling, configuring, and deploying autonomous AI agents using TypeScript and modern web frameworks (Next.js, T3 Stack).
-- **Key Features**: Integrates with OpenAI's LLM, LangChain, and supports agent frameworks like AutoGPT and BabyAGI for autonomous task execution.
-- **Tech Stack**: Built with TypeScript, leveraging Next.js (React framework) and the T3 Stack (TypeScript, Tailwind, tRPC, Prisma).
+- **Purpose**: Enables browser-based assembly, configuration, and deployment of autonomous AI agents using TypeScript and modern web frameworks (Next.js, T3 Stack).
+- **Key Integrations**: Leverages LangChain, OpenAI LLMs, and aligns with AutoGPT/baby-agi paradigms for agent orchestration.
+- **Tech Stack**: Built on Next.js (React framework) with TypeScript, optimized for rapid agent prototyping and deployment.
 
 ## Why It Matters
 

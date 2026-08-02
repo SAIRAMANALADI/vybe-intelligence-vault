@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
-collected_at: '2026-08-03T01:08:00.413706+05:30'
+collected_at: '2026-08-03T03:45:02.317995+05:30'
 published_at: '2026-08-02T03:47:24Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - unknown
 stars: 282
 language: Unknown
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-01T05:40:33Z'
 pushed_at: '2026-08-02T16:59:33Z'
 resource_id: github:arunagirinathan-k/awesome-ai-agents-2026
-first_seen: '2026-08-03T01:08:00.413706+05:30'
-last_seen: '2026-08-03T01:08:00.413706+05:30'
-last_checked: '2026-08-03T01:08:00.413706+05:30'
+first_seen: '2026-08-03T03:45:02.317995+05:30'
+last_seen: '2026-08-03T03:45:02.317995+05:30'
+last_checked: '2026-08-03T03:45:02.317995+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with comparisons, benchmarks, and in-depth analyses.
-- **Key Frameworks & Tools**: Includes prominent frameworks like CrewAI, LangChain, and LLM-based agents, with a focus on autonomous agent development and deployment.
-- **Updated & Structured**: Last updated in 2026, organized under topics such as `agent-frameworks`, `ai-agents`, and `llm-agents`, with 282 stars and 134 forks.
+- **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with a focus on 2026 advancements.
+
+- **Technical Resources**: Includes comparison guides, benchmarks, and deep-dive analyses for evaluating AI agent performance across frameworks like CrewAI, LangChain, and LLM-based agents.
+
+- **Updated & Structured**: Last updated August 2026, organized under topics such as `agent-frameworks`, `autonomous-agents`, and `llm-agents`, with 282 stars and 134 forks.
 
 ## Why It Matters
 

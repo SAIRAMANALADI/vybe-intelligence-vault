@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-03T01:07:40.382974+05:30'
+collected_at: '2026-08-03T03:44:42.265418+05:30'
 published_at: '2026-08-02T16:15:38Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
-- scripts
 - workflows
 stars: 951
 language: Python
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-03T01:07:40.382974+05:30'
-last_seen: '2026-08-03T01:07:40.382974+05:30'
-last_checked: '2026-08-03T01:07:40.382974+05:30'
+first_seen: '2026-08-03T03:44:42.265418+05:30'
+last_seen: '2026-08-03T03:44:42.265418+05:30'
+last_checked: '2026-08-03T03:44:42.265418+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Focus**: Provides structured best practices for transitioning from *vibe coding* to *agentic engineering* using OpenAI's Codex CLI, emphasizing systematic workflows and skill development.
+- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using OpenAI's Codex CLI, emphasizing modular workflows, hooks, and context engineering for scalable AI-driven development.
 
-- **Technical Scope**: Covers *context engineering*, *hooks*, and *CLI commands* for optimizing Codex agents, including `codex-cli-agents`, `codex-hooks`, and skill customization.
+- **CLI Best Practices & Skills**: Documents optimized Codex CLI commands, agentic skills, and command patterns for efficient AI-agent collaboration, including skill modularization, context management, and error handling in Python-based workflows.
 
-- **Ecosystem Integration**: Highlights Pakistan-based development contributions, OpenAI tooling, and agentic workflows for scalable AI-driven coding automation.
+- **Open-Source Contribution Framework**: Serves as a Pakistani-led open-source reference for AI agentic engineering, offering GitHub-hosted templates, hooks, and best-practice guidelines for integrating Codex CLI into production-grade agentic systems.
 
 ## Why It Matters
 

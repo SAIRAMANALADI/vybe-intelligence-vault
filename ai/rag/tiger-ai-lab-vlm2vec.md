@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-03T01:06:55.394497+05:30'
+collected_at: '2026-08-03T03:43:57.252897+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-03T01:06:55.394497+05:30'
-last_seen: '2026-08-03T01:06:55.394497+05:30'
-last_checked: '2026-08-03T01:06:55.394497+05:30'
+first_seen: '2026-08-03T03:43:57.252897+05:30'
+last_seen: '2026-08-03T03:43:57.252897+05:30'
+last_checked: '2026-08-03T03:43:57.252897+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **VLM2Vec Framework**: Repository hosts code for VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on multimodal representation learning via contrastive learning for tasks like image, video, and visual document retrieval.
+- **Repository Overview**: Hosts code for three research works: *VLM2Vec / MMEB* (ICLR 2025), *VLM2Vec-V2 / MMEB-V2* (TMLR 2026), and *MMEB-V3* (COLM 2026), focusing on multimodal embedding benchmarks and contrastive learning.
 
-- **MMEB Benchmark Suite**: Includes the Massive Multimodal Embedding Benchmark (MMEB) across multiple versions, evaluating embeddings for multimodal tasks including retrieval, RAG, and representation learning.
+- **Technical Scope**: Implements multimodal representation learning for tasks including image retrieval, video retrieval, visual document retrieval, and retrieval-augmented generation (RAG), leveraging vision-language models (VLMs).
 
-- **Technical Stack**: Implemented in Python, supporting multimodal embedding generation, contrastive learning, and benchmarking for visual-language models (VLMs) with modular components for extensibility.
+- **Benchmark Suite**: Provides *MMEB* (Multimodal Embedding Benchmark) frameworks across three versions, enabling standardized evaluation of multimodal embeddings in contrastive learning settings.
 
 ## Why It Matters
 

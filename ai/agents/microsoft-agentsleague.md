@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-08-03T01:07:05.414385+05:30'
+collected_at: '2026-08-03T03:44:02.269412+05:30'
 published_at: '2026-07-26T18:35:47Z'
 tags:
 - agents
+- benchmark
 - github-repo
-- leaderboard
-- scripts
 - unknown
+- workflows
 stars: 284
 language: Unknown
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-08-03T01:07:05.414385+05:30'
-last_seen: '2026-08-03T01:07:05.414385+05:30'
-last_checked: '2026-08-03T01:07:05.414385+05:30'
+first_seen: '2026-08-03T03:44:02.269412+05:30'
+last_seen: '2026-08-03T03:44:02.269412+05:30'
+last_checked: '2026-08-03T03:44:02.269412+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **E-sports-inspired AI challenge platform**: Hosts live AI Battles with asynchronous community challenges, enabling competitive agentic AI development through GitHub-based submissions.
-- **GitHub-integrated submission system**: Facilitates version-controlled, asynchronous participation with structured challenge submissions and leaderboard tracking.
-- **Dynamic leaderboard & real-time updates**: Tracks performance metrics of AI agents in live battles, updated via GitHub Actions with last commit timestamp (2026-07-26T18:35:47Z).
+- **E-sports-style AI Battles**: Hosts live, competitive AI challenges where agents engage in dynamic, multi-agent interactions with real-time performance metrics and rankings.
+
+- **Asynchronous Community Challenges**: Supports GitHub-based submissions with automated evaluation, enabling distributed participation and iterative agent improvement over time.
+
+- **GitHub Integration & Live Tracking**: Provides real-time updates (last commit: 2026-07-26), fork/star tracking, and structured submission workflows for agentic AI competitions.
 
 ## Why It Matters
 

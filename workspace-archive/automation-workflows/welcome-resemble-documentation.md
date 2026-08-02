@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **API Workflows**: Resemble provides structured APIs for text-to-speech (TTS), speech-to-text (STT), speech-to-speech (STS), and real-time streaming via WebSocket for low-latency applications.
-- **Voice Asset Management**: Supports programmatic voice creation, recording uploads, clip metadata management, and project organization via dedicated APIs (Voices, Recordings, Clips, Projects).
-- **Safety & Trust Features**: Implements deepfake detection, identity verification, and audio watermarking t
+- **Voice Generation & Processing**: Supports text-to-speech (TTS), speech-to-speech, and streaming over WebSocket; includes speech-to-text (STT) with transcript job creation and intelligence queries.
+- **Voice Asset Management**: Provides APIs for managing voices, recordings, clips, and projects to organize and curate audio datasets programmatically.
+- **Safety & Trust Features**: Implements deepfake detection, identity verification, and watermarking to ensure authenticity and secure voice inte
 
 ## Use Cases
 

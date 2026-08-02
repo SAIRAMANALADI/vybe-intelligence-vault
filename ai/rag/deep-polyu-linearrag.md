@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-03T01:06:50.385776+05:30'
+collected_at: '2026-08-03T03:43:52.253939+05:30'
 published_at: '2026-08-01T13:09:12Z'
 tags:
-- benchmark
 - dataset
 - github-repo
 - python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-03T01:06:50.385776+05:30'
-last_seen: '2026-08-03T01:06:50.385776+05:30'
-last_checked: '2026-08-03T01:06:50.385776+05:30'
+first_seen: '2026-08-03T03:43:52.253939+05:30'
+last_seen: '2026-08-03T03:43:52.253939+05:30'
+last_checked: '2026-08-03T03:43:52.253939+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance by reducing computational overhead while maintaining contextual relevance.
+- **Linear Graph RAG Framework**: Introduces a novel Linear Graph Retrieval Augmented Generation (LinearRAG) method, optimizing graph-based RAG for large-scale corpora by leveraging linear computational complexity for efficient retrieval and generation.
 
-- **Scalable Retrieval Mechanism**: Implements a linear-time graph traversal algorithm for dynamic knowledge graph construction, enabling sub-linear query response times on massive datasets (e.g., >1M documents) with minimal memory footprint.
+- **ICLR 2026 Contribution**: Proposes a scalable graph retrieval mechanism integrated with LLMs, addressing inefficiencies in traditional graph-based RAG systems by linearizing graph traversal and retrieval processes.
 
-- **Performance Benchmarks**: Demonstrates state-of-the-art results on ICLR 2026 evaluation metrics, achieving **~40% faster inference** and **~30% higher retrieval precision** compared to traditional RAG baselines (e.g., vanilla GraphRAG, dense retrieval) while using **~50% fewer parameters**.
+- **Implementation**: Provides an open-source Python-based implementation with modular components for graph construction, linear retrieval, and augmented generation, validated on large-scale datasets.
 
 ## Why It Matters
 

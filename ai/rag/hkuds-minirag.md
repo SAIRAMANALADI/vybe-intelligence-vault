@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-03T01:05:45.352202+05:30'
+collected_at: '2026-08-03T03:42:47.170020+05:30'
 published_at: '2026-08-02T05:40:23Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
+- models
 - python
 - rag
 stars: 1991
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-03T01:05:45.352202+05:30'
-last_seen: '2026-08-03T01:05:45.352202+05:30'
-last_checked: '2026-08-03T01:05:45.352202+05:30'
+first_seen: '2026-08-03T03:42:47.170020+05:30'
+last_seen: '2026-08-03T03:42:47.170020+05:30'
+last_checked: '2026-08-03T03:42:47.170020+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) architecture leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+- **Miniaturized RAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance in retrieval-augmented generation tasks.
 
-- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms (e.g., distilled embeddings, pruned attention layers) to enable deployment on resource-constrained hardware without sacrificing accuracy.
+- **Efficiency Optimizations**: Implements lightweight retrieval mechanisms (e.g., distilled encoders, pruned indexes) and model compression techniques (e.g., quantization, distillation) to enable deployment on resource-constrained hardware.
 
-- **Open-Source Toolkit**: Provides a Python-based repository with modular components for customization, including pre-trained models, retrieval pipelines, and evaluation benchmarks for reproducibility.
+- **Benchmark Performance**: Demonstrates state-of-the-art results on standard RAG benchmarks (e.g., KILT, BEIR) with models <1B parameters, highlighting trade-offs between latency, memory, and accuracy.
 
 ## Why It Matters
 

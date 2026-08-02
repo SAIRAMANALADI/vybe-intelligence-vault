@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-03T01:06:50.397066+05:30'
+collected_at: '2026-08-03T03:43:52.287285+05:30'
 published_at: '2026-07-26T03:07:53Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -17,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-03T01:06:50.397066+05:30'
-last_seen: '2026-08-03T01:06:50.397066+05:30'
-last_checked: '2026-08-03T01:06:50.397066+05:30'
+first_seen: '2026-08-03T03:43:52.287285+05:30'
+last_seen: '2026-08-03T03:43:52.287285+05:30'
+last_checked: '2026-08-03T03:43:52.287285+05:30'
 health_score: 100
 ---
 
@@ -27,8 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Leverages knowledge graphs for generation.
-*   Incorporates semantic aggregation for information
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to enhance contextual relevance.
+- **Efficiency Optimizations**: Uses lightweight graph traversal (e.g., pruning, caching) to reduce computational overhead while maintaining retrieval quality, as validated in AAAI 2026 benchmarks.
+- **Python Implementation**: Provides modular components (e.g., graph builders, retrievers, aggregators) with PyTorch/TensorFlow compatibility for integration with LLM pipelines.
 
 ## Why It Matters
 

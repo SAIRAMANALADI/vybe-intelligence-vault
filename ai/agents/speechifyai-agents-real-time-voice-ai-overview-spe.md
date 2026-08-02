@@ -4,20 +4,19 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-08-03T01:11:38.547202+05:30'
-collected_at: '2026-08-03T01:11:38.547215+05:30'
+published_at: '2026-08-03T03:52:01.520817+05:30'
+collected_at: '2026-08-03T03:52:01.520831+05:30'
 tags:
 - agents
 - benchmark
 - reddit
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-08-03T01:11:38.547215+05:30'
-last_seen: '2026-08-03T01:11:38.547215+05:30'
-last_checked: '2026-08-03T01:11:38.547215+05:30'
+first_seen: '2026-08-03T03:52:01.520831+05:30'
+last_seen: '2026-08-03T03:52:01.520831+05:30'
+last_checked: '2026-08-03T03:52:01.520831+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Definition**: Speechify Agents are reusable entities defined by prompt, voice, tools, and evaluation criteria, enabling real-time voice interactions via web or phone, with API stability in beta requiring version pinning.
+- **Agent Architecture**: Speechify Agents enable real-time voice interactions via a reusable definition comprising prompt, voice, tools, and evaluation criteria, accessible via web or phone line using `POST /v1/agents/{id}/conversations` for session provisioning.
 
-- **Real-Time Pipeline**: The system provides low-latency, real-time voice sessions (`POST /v1/agents/{id}/conversations`) with bidirectional audio, transcript persistence (with timestamps/tool traces), and post-call LLM-graded evaluations.
+- **Core Features**: Includes low-latency real-time speech pipeline, curated `Speechify voices` (excluding cloned/personal voices), tool integrations (backend, device execution, MCP servers, built-ins like `end_call`), persistent transcripts with tool traces, and post-call LLM-graded evaluations.
 
-- **Tool Integration**: Agents support dynamic tool invocation (backend calls, device code execution, MCP servers, or built-ins like `end_call`) and can be configured via no-code console workflows for IVR replacement, inbound/outbound automation, or support triage.
+- **Use Cases & Workflow**: Supports inbound/outbound support, IVR replacement, and no-code deployment via console; audio/transcripts/tool calls flow over sessions, with lifecycle events and evaluations persisted by the API.
 
 ## Why It Matters
 
@@ -39,14 +38,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-03T01:11:38.547202+05:30
+- Published: 2026-08-03T03:52:01.520817+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
 - reddit
-- scripts
 - web-crawled
 - workflows
 

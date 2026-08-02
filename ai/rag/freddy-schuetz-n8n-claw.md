@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-03T01:08:30.424146+05:30'
+collected_at: '2026-08-03T03:45:32.328912+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - scripts
 - shell
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-03T01:08:30.424146+05:30'
-last_seen: '2026-08-03T01:08:30.424146+05:30'
-last_checked: '2026-08-03T01:08:30.424146+05:30'
+first_seen: '2026-08-03T03:45:32.328912+05:30'
+last_seen: '2026-08-03T03:45:32.328912+05:30'
+last_checked: '2026-08-03T03:45:32.328912+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for proactive task management and media understanding.
+- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in n8n, leveraging adaptive Retrieval-Augmented Generation (RAG) for memory management and Skills via Model Context Protocol (MCP) templates.
 
-- **Integration & Features**: Self-hosted via a single setup script, incorporates Crawl4AI for scraping, SearXNG for search, and Supabase for data storage, with media understanding and modular Skills via MCP.
+- **Functionality**: Features expert agent delegation with sub-agents, proactive task management, and media understanding capabilities, with self-hosting enabled via a single setup script.
 
-- **Technical Stack**: Shell-based repository with dependencies on n8n, MCP, Crawl4AI, SearXNG, and Supabase, last updated on 2026-08-01.
+- **Integration & Tools**: Supports Supabase for data storage, SearXNG for search, and Crawl4AI for web scraping, with modular design for extensibility.
 
 ## Why It Matters
 

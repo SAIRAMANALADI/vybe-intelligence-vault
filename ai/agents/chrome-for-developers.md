@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/home
-published_at: '2026-08-02T16:31:34.806095+05:30'
-collected_at: '2026-08-02T16:31:34.806105+05:30'
+published_at: '2026-08-03T03:55:49.445436+05:30'
+collected_at: '2026-08-03T03:55:49.445449+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:chrome-for-developers
-first_seen: '2026-08-02T16:31:34.806105+05:30'
-last_seen: '2026-08-02T16:31:34.806105+05:30'
-last_checked: '2026-08-02T16:31:34.806105+05:30'
+first_seen: '2026-08-03T03:55:49.445449+05:30'
+last_seen: '2026-08-03T03:55:49.445449+05:30'
+last_checked: '2026-08-03T03:55:49.445449+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Chrome 152 Beta** introduces new features previewed in the latest beta release, including upcoming API updates and performance improvements ([Chrome 152 Beta](https://developer.chrome.com/blog/chrome-152-beta)).
-- **Chrome 151 Stable** includes the `usermedia` element, Declarative Shadow DOM slot assignment, and Soft Navigations performance entries ([Chrome 151 Release Notes](https://developer.chrome.com/release-notes/151)).
-- **Chrome DevTools** provides diagnostics, editing, and performance analysis tools directly in the browser for efficient web development ([Chrome DevTools Docs](https://developer.chrome.com/docs/devtools)).
+- **Chrome 152 Beta** introduces new features preview, including upcoming Web Platform capabilities and DevTools enhancements, while **Chrome 151 Stable** adds support for the `usermedia` element, Declarative Shadow DOM slot assignment, and Soft Navigations performance entries.
+- **Chrome for Developers** provides structured resources across **AI integration** (auto_awesome), **Web App Features** (widgets, Android compatibility), **Core Web Vitals** (performance optimization), and **Chrome DevTools** (Puppeteer, ChromeDriver, performance profiling).
+- **Open-source tools** like **Baseline** (web feature standardization) and **web.dev** (documentation hub) are maintained alongside **Chrome Extensions**, **Chrome Web Store**, and **Web Platform origin trials** for developer ecosystem growth.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T16:31:34.806095+05:30
+- Published: 2026-08-03T03:55:49.445436+05:30
 
 ## Related Tags
 

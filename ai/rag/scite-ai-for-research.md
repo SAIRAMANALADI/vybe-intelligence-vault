@@ -3,12 +3,11 @@ title: AI for Research | Scite
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.scite.ai/
-published_at: '2026-08-02T21:50:07.090463+05:30'
-collected_at: '2026-08-02T21:50:07.090476+05:30'
+source_url: https://scite.ai/
+published_at: '2026-08-03T03:55:43.213862+05:30'
+collected_at: '2026-08-03T03:55:43.213876+05:30'
 tags:
 - anthropic
-- benchmark
 - dataset
 - hackernews
 - openai
@@ -19,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-for-research-scite
-first_seen: '2026-08-02T21:50:07.090476+05:30'
-last_seen: '2026-08-02T21:50:07.090476+05:30'
-last_checked: '2026-08-02T21:50:07.090476+05:30'
+first_seen: '2026-08-03T03:55:43.213876+05:30'
+last_seen: '2026-08-03T03:55:43.213876+05:30'
+last_checked: '2026-08-03T03:55:43.213876+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Database & Coverage**: Aggregates 300M+ scholarly items (articles, preprints, patents, datasets) across 40+ publishers (e.g., Wiley, SAGE) with full-text search capabilities, bypassing paywalls via direct licensing agreements.
+- **Database & Coverage**: Aggregates 300M+ scholarly items (articles, preprints, patents, datasets) with full-text search capability, licensed from 40+ publishers (e.g., Wiley, SAGE) and open-access sources.
 
-- **Smart Citation Analysis**: Provides contextual citation metrics ("Smart Citations") that classify subsequent research as supporting, contrasting, or mentioning a claim, enabling evidence-based literature evaluation.
+- **Smart Citations & AI Assistant**: Uses 1.6B+ citation relationships to classify evidence as supporting, contrasting, or mentioning, enabling AI-generated answers grounded in verifiable literature snippets.
 
-- **AI Integration & Verification**: Offers an AI assistant (compatible with ChatGPT, Claude) that generates verifiable answers grounded in specific paper excerpts, with direct citation links for one-click verification.
+- **Cross-Domain Integration**: Supports workflows via API, Zotero plugin, MCP-compatible tools (Claude/ChatGPT), and browser extensions, extending beyond traditional journals to clinical trials, grants, and patents.
 
 ## Why It Matters
 
@@ -43,12 +42,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T21:50:07.090463+05:30
+- Published: 2026-08-03T03:55:43.213862+05:30
 
 ## Related Tags
 
 - anthropic
-- benchmark
 - dataset
 - hackernews
 - openai
@@ -60,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.scite.ai/
+Original source: https://scite.ai/

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tonykipkemboi/trip_planner_agent
-collected_at: '2026-08-03T01:09:25.488899+05:30'
+collected_at: '2026-08-03T03:46:27.371179+05:30'
 published_at: '2026-05-18T04:13:15Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 143
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-16T09:09:17Z'
 pushed_at: '2024-06-19T15:04:05Z'
 resource_id: github:tonykipkemboi/trip_planner_agent
-first_seen: '2026-08-03T01:09:25.488899+05:30'
-last_seen: '2026-08-03T01:09:25.488899+05:30'
-last_checked: '2026-08-03T01:09:25.488899+05:30'
+first_seen: '2026-08-03T03:46:27.371179+05:30'
+last_seen: '2026-08-03T03:46:27.371179+05:30'
+last_checked: '2026-08-03T03:46:27.371179+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a multi-agent system for vacation planning, orchestrated via the CrewAI framework.
-*   Leverages Large Language Models (LLMs), with specific integration for OpenAI APIs, as the core cognitive engine for agent operations.
-*   Developed in Python, serving as an open-source application demonstrating practical LLM agent deployment.
+- **CrewAI-based Trip Planner**: Implements AI agents using CrewAI framework to autonomously plan vacations by leveraging LLMs for itinerary generation.
+- **Python Implementation**: Entirely written in Python, utilizing OpenAI's LLMs for natural language processing and decision-making in trip planning.
+- **Open-Source Tool**: Publicly available on GitHub with 143 stars and 62 forks, last updated in May 2026, supporting modular agent-based workflows.
 
 ## Why It Matters
 

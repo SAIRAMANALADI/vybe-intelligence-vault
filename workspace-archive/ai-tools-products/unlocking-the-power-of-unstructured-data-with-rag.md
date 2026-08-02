@@ -1,12 +1,12 @@
 ---
 title: Unlocking the power of unstructured data with RAG - The GitHub Blog
-archive_category: automation-workflows
+archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -14,7 +14,6 @@ tags:
 - hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -26,8 +25,8 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 74 (useful)
+- Matched archive category: `AI Tools and Products`
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -35,17 +34,15 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Security Enhancements**: Nicole Choi contributed to GitHub's security features in GitHub Actions, focusing on improving supply chain security and reducing vulnerabilities in CI/CD pipelines.
-
-- **Open Source Contributions**: Actively involved in open-source projects, particularly in enhancing security protocols and automation workflows within GitHub's ecosystem.
-
-- **Technical Advocacy**: Engages in technical writing and advocacy to promote secure coding practices and best pra
+- **Author Profile**: Nicole Choi is a GitHub Staff Developer Advocate specializing in developer experience, open-source contributions, and community engagement.
+- **GitHub Contributions**: Actively contributes to GitHub’s technical content, authoring articles and resources focused on developer tools, workflows, and best practices.
+- **Community Engagement**: Engages with the developer community via GitHub Blog, GitHub profile ([nicchoi29](https://github.com/nicchoi29)), and social platforms to
 
 ## Use Cases
 
-- Local cron scheduling
-- n8n pipeline setups
-- OS task automations
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
 
 ## Source
 

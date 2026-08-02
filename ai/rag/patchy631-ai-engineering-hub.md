@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-03T01:05:20.283533+05:30'
-published_at: '2026-08-02T10:09:15Z'
+collected_at: '2026-08-03T03:42:22.176687+05:30'
+published_at: '2026-08-02T21:03:55Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-stars: 36819
+stars: 36820
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-03T01:05:20.283533+05:30'
-last_seen: '2026-08-03T01:05:20.283533+05:30'
-last_checked: '2026-08-03T01:05:20.283533+05:30'
+first_seen: '2026-08-03T03:42:22.176687+05:30'
+last_seen: '2026-08-03T03:42:22.176687+05:30'
+last_checked: '2026-08-03T03:42:22.176687+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Offers in-depth Jupyter Notebook tutorials on large language models (LLMs), Retrieval-Augmented Generation (RAG) architectures, and AI agent development.
-*   Focuses on practical, real-world AI agent applications and machine learning methodologies.
-*   Explores advanced topics including Multi-Agent Coordination Protocols (MCP) within an AI engineering context.
+- **Repository Overview**: GitHub repository (`patchy631/ai-engineering-hub`) with 36,820 stars and 6,086 forks, focused on AI engineering tutorials (LLMs, RAGs, and AI agents) implemented in Jupyter Notebooks.
+- **Core Topics**: Covers advanced AI topics including **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI agents**, **Machine Learning (ML)**, and **Model Context Protocol (MCP)**.
+- **Technical Stack**: Hosts in-depth, practical tutorials with real-world applications, last updated on **2026-08-02**.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36819
+- Stars: 36820
 - Forks: 6086
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-08-02T10:09:15Z
+- Last Updated: 2026-08-02T21:03:55Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

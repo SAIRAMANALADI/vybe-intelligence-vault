@@ -13,6 +13,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - hackernews
+- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: GitHub repository [`RetrievalTutorials`](https://github.com/FullStackRetrieval-com/RetrievalTutorials) by `FullStackRetrieval-com` with 238 forks, 1.5k stars, and 6 open issues.
-- **Tutorial Content**: Contains a Jupyter Notebook (`5_Levels_Of_Text_Splitting.ipynb`) with 2901 lines (330 KB) in the `tutorials/LevelsOfTextSplitting` directory, focusing on hierarchical text splitting techniques.
-- **Metadata**: File is version-controlled (Git), includes raw/preview/download option
+- **Repository Overview**: GitHub repository `RetrievalTutorials` by `FullStackRetrieval-com` contains 238 forks, 1.5k stars, and includes 6 issues and 2 pull requests.
+- **Notebook Content**: The `5_Levels_Of_Text_Splitting.ipynb` file is a Jupyter notebook with 2901 lines (330 KB) in the `LevelsOfTextSplitting` directory, focusing on hierarchical text splitting techniques.
+- **GitHub Metadata**: The repository includes CI/CD via GitHub Actions, project tracking, and security/quality insights,
 
 ## Use Cases
 

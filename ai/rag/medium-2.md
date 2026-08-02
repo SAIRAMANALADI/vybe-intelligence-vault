@@ -3,19 +3,17 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/blog/all?source=collection_home_page
-resource_id: blog:medium
-----15f753907972-----1-----------------------------------
-published_at: '2026-08-03T01:11:08.370906+05:30'
-collected_at: '2026-08-03T01:11:08.370920+05:30'
+source_url: https://about.medium.com/
+published_at: '2026-08-03T03:48:03.440702+05:30'
+collected_at: '2026-08-03T03:48:03.440715+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-03T01:11:08.370920+05:30'
-last_seen: '2026-08-03T01:11:08.370920+05:30'
-last_checked: '2026-08-03T01:11:08.370920+05:30'
+first_seen: '2026-08-03T03:48:03.440715+05:30'
+last_seen: '2026-08-03T03:48:03.440715+05:30'
+last_checked: '2026-08-03T03:48:03.440715+05:30'
 health_score: 100
 ---
 
@@ -23,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- Medium’s sitemap (`/sitemap.xml`) exposes structured URLs for SEO indexing, including `/blog/all`, `/new-story`, and `/search` endpoints.
-- Authentication flows use OAuth2 redirects (`/m/signin`) with `operation=login/register` parameters and `redirect` query strings for post-auth navigation.
-- Static resources (e.g., `/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png`) leverage CDN-based image optimization with dynamic sizing tokens.
+- **Mission & Model**: Medium operates as an ad-free, subscription-supported platform (1M+ members) prioritizing depth, nuance, and thoughtful discourse over sensationalism, with a sitemap (`sitemap.xml`) for SEO indexing.
+
+- **User Base & Content**: Hosts 100M+ monthly users (developers, CEOs, writers) publishing long-form content (stories, insights, expertise) without requiring pre-existing audiences or mailing lists.
+
+- **Core Values**: Emphasizes human-centric storytelling, collaborative knowledge-sharing, and algorithmic curation to reward substantive content and meaningful engagement over viral, superficial posts.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T01:11:08.370906+05:30
+- Published: 2026-08-03T03:48:03.440702+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://medium.com/blog/all?source=collection_home_page----15f753907972-----1-----------------------------------
+Original source: https://about.medium.com/

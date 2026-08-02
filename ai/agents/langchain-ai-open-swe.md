@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-02T19:27:17.298738+05:30'
-published_at: '2026-08-02T06:01:50Z'
+collected_at: '2026-08-03T03:44:27.329809+05:30'
+published_at: '2026-08-02T21:32:55Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - openai
 - python
 - workflows
-stars: 10426
+stars: 10427
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-08-01T20:20:38Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-02T19:27:17.298738+05:30'
-last_seen: '2026-08-02T19:27:17.298738+05:30'
-last_checked: '2026-08-02T19:27:17.298738+05:30'
+first_seen: '2026-08-03T03:44:27.329809+05:30'
+last_seen: '2026-08-03T03:44:27.329809+05:30'
+last_checked: '2026-08-03T03:44:27.329809+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, multi-agent system for automated code generation and modification using LLM APIs (OpenAI, Anthropic) with structured task decomposition and execution.
-
-- **ClaudeCode & LLM Integration**: Supports direct execution of commands via `claudecode` and integrates with multiple LLM providers for dynamic code synthesis, error handling, and iterative refinement.
-
-- **Modular & Scalable**: Designed for extensibility with pluggable agent architectures, task queues, and async I/O for high-throughput code operations in CI/CD or autonomous workflows.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for multi-agent collaboration in code generation and debugging tasks.
+- **Multi-Model LLM Integration**: Supports Anthropic's ClaudeCode, OpenAI's models, and other LLM backends via standardized interfaces for dynamic agent orchestration.
+- **Scalable Workflow Engine**: Utilizes Python's asyncio for concurrent task execution, enabling parallelized code synthesis, testing, and iterative refinement in distributed environments.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10426
+- Stars: 10427
 - Forks: 1213
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-02T06:01:50Z
+- Last Updated: 2026-08-02T21:32:55Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

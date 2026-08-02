@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-03T01:06:50.390449+05:30'
+collected_at: '2026-08-03T03:43:52.258016+05:30'
 published_at: '2026-07-31T19:00:24Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 1228
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-03T01:06:50.390449+05:30'
-last_seen: '2026-08-03T01:06:50.390449+05:30'
-last_checked: '2026-08-03T01:06:50.390449+05:30'
+first_seen: '2026-08-03T03:43:52.258016+05:30'
+last_seen: '2026-08-03T03:43:52.258016+05:30'
+last_checked: '2026-08-03T03:43:52.258016+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents Framework**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents Framework**: Introduces a multi-agent system where specialized agents (e.g., retrieval, reasoning, and planning) operate hierarchically within a graph-structured knowledge base to enhance complex reasoning tasks.
 
-- **Graph-Centric RAG Integration**: Proposes a retrieval-augmented generation (RAG) system that dynamically constructs and traverses knowledge graphs to extract structured subgraphs, improving factual grounding and multi-hop reasoning in LLMs.
+- **Graph Retrieval-Augmented Architecture**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and synthesize subgraphs, improving contextual relevance and factual grounding in LLM outputs.
 
-- **ICLR 2026 Contribution**: Presents a novel paradigm for graph-based RAG, demonstrating state-of-the-art performance on complex reasoning benchmarks by unifying agentic workflows with graph-based retrieval and reasoning modules.
+- **ICLR 2026 Contribution**: Proposes a novel paradigm for structured knowledge reasoning, demonstrating superior performance in tasks requiring multi-hop inference, interpretability, and scalability via graph-augmented agent collaboration.
 
 ## Why It Matters
 

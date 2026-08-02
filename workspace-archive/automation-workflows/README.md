@@ -13,9 +13,9 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Stainless · GitHub](https://github.com/stainless-api) (template - ESSENTIAL Tier)
 - [git/git](https://github.com/git/git) (workflow - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (benchmark - ESSENTIAL Tier)
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) (template - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,7 +25,7 @@ https://github.com/n8n-io/n8n (n8n)
 - [Stainless · GitHub](https://github.com/stainless-api)
 - [git/git](https://github.com/git/git)
 - [OpenAI · GitHub](https://github.com/openai)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-03 01:22 IST*
+*Last updated: 2026-08-03 04:00 IST*

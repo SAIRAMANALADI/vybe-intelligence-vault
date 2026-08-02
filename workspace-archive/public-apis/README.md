@@ -13,9 +13,9 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) (benchmark - USEFUL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=post_page-----dba899ae0355---------------------------------------) (template - USEFUL Tier)
 - [register](https://clients.iban.com/register) (tutorial - USEFUL Tier)
 - [- YouTube](https://www.youtube.com/watch?v=Yy3JH6dDugc) (framework - USEFUL Tier)
-- [Marquez Project | Marquez Project](https://marquezproject.github.io/marquez) (dataset - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,6 +23,7 @@ https://github.com/public-apis/public-apis (Public APIs)
 - [OpenAI · GitHub](https://github.com/openai)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [weaviate/weaviate](https://github.com/weaviate/weaviate)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=post_page-----dba899ae0355---------------------------------------)
 
 ## Best Learning Resources
 
@@ -40,4 +41,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-08-03 01:22 IST*
+*Last updated: 2026-08-03 04:00 IST*

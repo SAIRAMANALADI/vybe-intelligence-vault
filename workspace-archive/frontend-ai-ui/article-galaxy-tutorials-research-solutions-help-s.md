@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Video Tutorials**: Platform offers 8 how-to videos covering bulk article ordering, PubMed/document ordering, re-use rights verification, workflow management, reference management, and browser/Word integrations via Article Galaxy (AG) tools.
-- **PDF Quick Reference Guides**: Provides 3 downloadable guides for accessing papers across 70+ portals, dashboard navigation, and token-based ordering workflows.
-- **Support Infrastructure**: Centralized help center with ticketing (`My Tickets`), catego
+- **Video Tutorials**: Provides step-by-step video guides for bulk article ordering, PubMed/document ordering, re-use rights verification, research workflow management, reference management, and browser/Word plugin usage via YouTube.
+- **PDF Quick Reference Guides**: Offers downloadable PDFs covering access to papers from 70+ discovery portals, dashboard navigation, and token-based ordering workflows.
+- **Support Integration**: Links to a help center, ticketing system, and categorized support to
 
 ## Use Cases
 

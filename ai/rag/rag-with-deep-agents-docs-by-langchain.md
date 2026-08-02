@@ -3,9 +3,9 @@ title: Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.langchain.com/oss/python/deepagents/rag
-published_at: '2026-08-03T01:05:28.911609+05:30'
-collected_at: '2026-08-03T01:05:28.911620+05:30'
+source_url: https://python.langchain.com/docs/use_cases/question_answering/
+published_at: '2026-08-03T03:46:49.094083+05:30'
+collected_at: '2026-08-03T03:46:49.094097+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-with-deep-agent
-first_seen: '2026-08-03T01:05:28.911620+05:30'
-last_seen: '2026-08-03T01:05:28.911620+05:30'
-last_checked: '2026-08-03T01:05:28.911620+05:30'
+first_seen: '2026-08-03T03:46:49.094097+05:30'
+last_seen: '2026-08-03T03:46:49.094097+05:30'
+last_checked: '2026-08-03T03:46:49.094097+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows using custom retrieval tools, filesystem backends, subagents, skills, and grading rubrics.
+- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows. Skills wrap retrieval workflows, rubrics grade responses, and subagents handle parallel analysis of offloaded chunks.
 
-- **Indexing Workflow**: Converts source content into numerical representations via loading documents, splitting into chunks, embedding with models (e.g., OpenAI), and storing in a VectorStore for efficient retrieval.
+- **Retrieval-Augmented Generation (RAG) Workflow**: Indexes LangChain docs into a vector store, retrieves relevant chunks via vector similarity search, offloads chunks to filesystem, delegates analysis to subagents, and synthesizes final answer with citations.
 
-- **Retrieve-Offload-Delegation Pattern**: Retrieves relevant chunks, writes them to filesystem, and delegates analysis to subagents for parallel processing, reducing orchestrator context load and enabling scalable Q&A over large corpora.
+- **Prerequisites & Setup**: Requires API keys for chat model and embeddings (e.g., OpenAI), project setup with `deepagents`, `langchain`, and `langchain-text-splitters`, and LangSmith tracing for observability.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T01:05:28.911609+05:30
+- Published: 2026-08-03T03:46:49.094083+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.langchain.com/oss/python/deepagents/rag
+Original source: https://python.langchain.com/docs/use_cases/question_answering/

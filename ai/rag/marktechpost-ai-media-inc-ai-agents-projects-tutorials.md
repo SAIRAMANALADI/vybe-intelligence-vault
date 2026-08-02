@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-03T01:07:10.439482+05:30'
+collected_at: '2026-08-03T03:44:12.272711+05:30'
 published_at: '2026-08-02T18:50:43Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
+- scripts
 - workflows
 stars: 2844
 language: Jupyter Notebook
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-02T16:58:05Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-03T01:07:10.439482+05:30'
-last_seen: '2026-08-03T01:07:10.439482+05:30'
-last_checked: '2026-08-03T01:07:10.439482+05:30'
+first_seen: '2026-08-03T03:44:12.272711+05:30'
+last_seen: '2026-08-03T03:44:12.272711+05:30'
+last_checked: '2026-08-03T03:44:12.272711+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on frameworks and implementations for coordinating multiple AI agents, emphasizing collaboration, task delegation, and inter-agent communication protocols.
+- **Multi-agent systems**: Repository focuses on frameworks and implementations for coordinating multiple AI agents, including communication protocols, task delegation, and conflict resolution mechanisms.
 
-- **Memory & reasoning loops**: Includes tutorials on integrating short-term/long-term memory mechanisms and iterative reasoning loops to enhance agent decision-making and adaptability in dynamic environments.
+- **Memory, planning, and reasoning loops**: Includes tutorials on integrating short-term/long-term memory, hierarchical planning (e.g., HTN, BDI), and iterative reasoning loops for adaptive agent behavior.
 
-- **Agentic workflows & RAG**: Demonstrates agentic RAG (Retrieval-Augmented Generation) pipelines and end-to-end agentic workflows for complex problem-solving, with examples in Jupyter Notebooks.
+- **Agentic AI development**: Provides Jupyter Notebook-based projects covering agentic RAG, workflow automation, and coding agents with frameworks like LangChain, AutoGen, and CrewAI.
 
 ## Why It Matters
 

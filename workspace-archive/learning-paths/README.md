@@ -15,7 +15,7 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - USEFUL Tier)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com) (framework - USEFUL Tier)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
+- [microsoft/rag-time](https://github.com/microsoft/rag-time) (benchmark - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,8 +23,9 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [Collections · GitHub](https://github.com/collections)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+- [microsoft/rag-time](https://github.com/microsoft/rag-time)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
 
 ## Best Learning Resources
 
@@ -40,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-03 01:22 IST*
+*Last updated: 2026-08-03 04:00 IST*

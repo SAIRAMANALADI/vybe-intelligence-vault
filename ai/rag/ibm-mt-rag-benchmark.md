@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-08-03T01:06:25.429240+05:30'
+collected_at: '2026-08-03T03:43:27.230697+05:30'
 published_at: '2026-07-26T05:15:17Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 149
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-07-14T01:32:02Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-08-03T01:06:25.429240+05:30'
-last_seen: '2026-08-03T01:06:25.429240+05:30'
-last_checked: '2026-08-03T01:06:25.429240+05:30'
+first_seen: '2026-08-03T03:43:27.230697+05:30'
+last_seen: '2026-08-03T03:43:27.230697+05:30'
+last_checked: '2026-08-03T03:43:27.230697+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn RAG (Retrieval-Augmented Generation) benchmark evaluating conversational RAG systems with iterative query refinement and context accumulation.
-- **Technical Stack**: Python-based framework with modular components for retriever, generator, and evaluator modules.
-- **Evaluation Metrics**: Focuses on multi-turn coherence, answer relevance, and retrieval efficiency across synthetic and real-world datasets.
+- **Benchmark Framework**: A Python-based repository designed to evaluate **Multi-Turn Retrieval-Augmented Generation (RAG)** systems, focusing on iterative query refinement and context retention across conversational turns.
+
+- **Evaluation Metrics**: Implements standardized metrics to assess **retrieval quality**, **response coherence**, and **contextual consistency** in multi-turn RAG pipelines, likely including metrics like MRR, recall@k, and coherence scores.
+
+- **Dataset & Tasks**: Provides curated datasets and task templates for benchmarking, emphasizing **long-form QA**, **multi-hop reasoning**, and **dialogue-based retrieval challenges** to test system robustness in dynamic conversational settings.
 
 ## Why It Matters
 

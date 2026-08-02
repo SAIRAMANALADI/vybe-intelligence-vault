@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-08-03T01:07:10.371698+05:30'
+collected_at: '2026-08-03T03:44:12.234521+05:30'
 published_at: '2026-08-02T16:42:57Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - models
 - python
 - rag
+- workflows
 stars: 3278
 language: Python
 status: active
@@ -20,9 +22,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-08-03T01:07:10.371698+05:30'
-last_seen: '2026-08-03T01:07:10.371698+05:30'
-last_checked: '2026-08-03T01:07:10.371698+05:30'
+first_seen: '2026-08-03T03:44:12.234521+05:30'
+last_seen: '2026-08-03T03:44:12.234521+05:30'
+last_checked: '2026-08-03T03:44:12.234521+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers end-to-end AI agent development, from foundational concepts (LLMs, RAG, prompts) to enterprise deployment, fine-tuning, and real-world projects, targeting roles like "Large Model Application Development Engineer."
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, targeting enterprise-level AI agent development roles with end-to-end workflows from zero to deployment.
 
-- **Toolchain & Frameworks**: Integrates industry-standard tools (LangChain, LangGraph, Coze, Dify, MCP) and methodologies (skills, agent frameworks) with hands-on implementations and interview prep.
+- **Practical & Interview-Ready**: Includes hands-on projects, enterprise-grade deployment strategies, fine-tuning techniques, and a curated interview question database aligned with AI application engineering positions.
 
-- **Structured Learning Path**: Combines theoretical learning, practical projects, and interview Q&A, culminating in a deployable AI agent solution with enterprise-grade scalability.
+- **Multi-Framework & Tooling**: Integrates skills, RAG pipelines, and agent frameworks (e.g., LangGraph, Coze) with Python-based implementations, emphasizing real-world scalability and model optimization.
 
 ## Why It Matters
 

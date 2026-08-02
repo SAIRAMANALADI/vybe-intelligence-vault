@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-08-02T21:47:25.551966+05:30'
+collected_at: '2026-08-03T03:45:02.283361+05:30'
 published_at: '2026-08-02T15:47:03Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +22,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-08-02T12:42:17Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-08-02T21:47:25.551966+05:30'
-last_seen: '2026-08-02T21:47:25.551966+05:30'
-last_checked: '2026-08-02T21:47:25.551966+05:30'
+first_seen: '2026-08-03T03:45:02.283361+05:30'
+last_seen: '2026-08-03T03:45:02.283361+05:30'
+last_checked: '2026-08-03T03:45:02.283361+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration and agentic workflows for AI agents.
+- **Multimodal Anomaly Detection**: Supports 60+ detectors for tabular, time series, graph, text, image, and audio data, leveraging deep learning and foundation models for diverse modalities.
 
-- **Multimodal & Foundation Model Integration**: Enables novelty detection, out-of-distribution detection, and fraud detection across structured/unstructured data, leveraging deep learning and foundation models.
+- **Agentic & Orchestrated Workflow**: Features ADEngine for benchmark-backed detector orchestration and an agentic workflow enabling AI agents to autonomously select and optimize anomaly detection methods.
 
-- **Active Development & Ecosystem**: Last updated in 2026, PyOD integrates with NLP, graph anomaly detection, and outlier ensembles, making it a versatile tool for unsupervised and multimodal anomaly detection.
+- **Fraud & OOD Detection**: Specialized in fraud detection, out-of-distribution (OOD) detection, and novelty detection with unsupervised learning and outlier ensemble techniques.
 
 ## Why It Matters
 

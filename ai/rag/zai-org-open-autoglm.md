@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-08-03T01:08:20.460041+05:30'
+collected_at: '2026-08-03T03:45:22.327040+05:30'
 published_at: '2026-08-02T17:03:00Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
+- scripts
 stars: 25939
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-08-03T01:08:20.460041+05:30'
-last_seen: '2026-08-03T01:08:20.460041+05:30'
-last_checked: '2026-08-03T01:08:20.460041+05:30'
+first_seen: '2026-08-03T03:45:22.327040+05:30'
+last_seen: '2026-08-03T03:45:22.327040+05:30'
+last_checked: '2026-08-03T03:45:22.327040+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-AutoGLM is an open-source framework designed to enable AI-driven phone agent capabilities, allowing autonomous interaction with mobile devices via natural language commands.
+- **Open-AutoGLM Framework**: A Python-based open-source framework designed to deploy AI agents for autonomous phone interactions, enabling end-to-end automation of tasks via voice or text commands.
 
-- **Technical Stack**: Implemented in Python, it leverages large language models (LLMs) to interpret and execute tasks such as app navigation, UI interaction, and multi-step workflows on smartphones.
+- **Agent Architecture**: Implements a modular agent system with pluggable components for speech recognition, natural language understanding (NLU), task planning, and execution, leveraging large language models (LLMs) for decision-making.
 
-- **Extensibility & Deployment**: Supports modular plugin architecture for custom agent tasks, with deployment flexibility for both local and cloud-based execution, targeting accessibility for developers and end-users.
+- **Deployment & Scalability**: Supports cross-platform phone agent deployment with optimized inference pipelines for real-time interaction, including support for custom model integration and API-based extensions.
 
 ## Why It Matters
 

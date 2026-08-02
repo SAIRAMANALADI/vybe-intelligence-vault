@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-03T01:11:55.840339+05:30'
-collected_at: '2026-08-03T01:11:55.840352+05:30'
+published_at: '2026-08-03T03:47:26.296574+05:30'
+collected_at: '2026-08-03T03:47:26.296586+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-03T01:11:55.840352+05:30'
-last_seen: '2026-08-03T01:11:55.840352+05:30'
-last_checked: '2026-08-03T01:11:55.840352+05:30'
+first_seen: '2026-08-03T03:47:26.296586+05:30'
+last_seen: '2026-08-03T03:47:26.296586+05:30'
+last_checked: '2026-08-03T03:47:26.296586+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation & Migration**: Legacy feedback formula endpoints (`/feedback/formulas`) deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for **2026-08-20**; migration required.
-- **Performance & UI Improvements**: Experiment tables now truncate long inputs/outputs, support interactive split chips, and defer heavy rendering; evaluator spend charts now abbreviate high values ($1K+) for better readability.
-- **Enhanced Tracing & Evaluators**: Monthly trace limits enforced per project/user; OpenTelemetry spans preserved even if out of order; evaluators now support PEP 604 union return types and timeout adjustments for heavy libraries.
+- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for 2026-08-20; users must migrate existing formulas to the new model.
+
+- **Performance & Reliability**: LangSmith now enforces user-defined monthly trace limits per project/user, caps reusable evaluators per workspace, and improves batch ingestion handling (e.g., oversized inputs/outputs, OpenTelemetry span buffering) to prevent resource exhaustion and timeouts.
+
+- **Enhanced Features**: Introduced structured LLM-as-judge evaluator creation (`langsmith evaluator create-llm`), multi-turn evaluator testing, dataset split management via annotation queues, and improved trace rendering (e.g., OpenTelemetry child spans, Vercel AI SDK traces). Added support for PEP 604 union return types in code evaluators and zstd compression for bulk exports.
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T01:11:55.840339+05:30
+- Published: 2026-08-03T03:47:26.296574+05:30
 
 ## Related Tags
 

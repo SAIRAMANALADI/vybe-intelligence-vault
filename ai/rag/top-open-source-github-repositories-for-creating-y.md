@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-08-03T01:09:27.882969+05:30'
-collected_at: '2026-08-03T01:09:27.882982+05:30'
+published_at: '2026-08-03T03:46:42.792111+05:30'
+collected_at: '2026-08-03T03:46:42.792124+05:30'
 tags:
 - agents
 - benchmark
@@ -17,13 +17,12 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-08-03T01:09:27.882982+05:30'
-last_seen: '2026-08-03T01:09:27.882982+05:30'
-last_checked: '2026-08-03T01:09:27.882982+05:30'
+first_seen: '2026-08-03T03:46:42.792124+05:30'
+last_seen: '2026-08-03T03:46:42.792124+05:30'
+last_checked: '2026-08-03T03:46:42.792124+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Resemble AI** provides multimodal deepfake detection and verification tools, including **Resemble Detect**, **Resemble Meetings**, and **Resemble Identity**, leveraging AI-driven analysis for real-time and post-hoc media authentication.
+- **Resemble AI** provides **multimodal deepfake detection and protection** tools, including **Resemble Detect** for real-time deepfake monitoring, **Resemble Identity** for biometric verification, and **Resemble Watermarker** for media authentication.
 
-- **Top open-source RAG repositories** include **Cognita** (Truefoundry) for modular RAG pipelines, **Verba** (Weaviate) for user-friendly RAG applications, and **LlamaIndex** for structured data integration and retrieval workflows.
+- **Top open-source RAG repositories** include **Cognita** (Truefoundry) for modular RAG deployment, **Verba** (Weaviate) for user-friendly RAG applications, and **LlamaIndex** for structured data integration and retrieval pipelines.
 
-- **Selection criteria** for RAG repositories emphasize **popularity metrics** (stars/forks), **feature completeness**, **license clarity**, **scalability**, and **code quality**, ensuring robust, maintainable implementations.
+- **Key selection criteria** for RAG repositories involve **popularity metrics (stars, forks)**, **feature completeness**, **license compliance**, **scalability**, and **code quality with active maintenance**.
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T01:09:27.882969+05:30
+- Published: 2026-08-03T03:46:42.792111+05:30
 
 ## Related Tags
 
@@ -59,7 +58,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source

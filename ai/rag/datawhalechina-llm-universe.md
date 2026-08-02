@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-08-03T01:05:10.371970+05:30'
+collected_at: '2026-08-03T03:42:07.220901+05:30'
 published_at: '2026-08-02T15:06:49Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 13692
 language: Jupyter Notebook
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-07-28T13:47:59Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-08-03T01:05:10.371970+05:30'
-last_seen: '2026-08-03T01:05:10.371970+05:30'
-last_checked: '2026-08-03T01:05:10.371970+05:30'
+first_seen: '2026-08-03T03:42:07.220901+05:30'
+last_seen: '2026-08-03T03:42:07.220901+05:30'
+last_checked: '2026-08-03T03:42:07.220901+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Resource**: A beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks, with an online version available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
+- **Educational Resource**: A beginner-friendly tutorial series for developing LLM (Large Language Model) applications, hosted as Jupyter Notebooks with online documentation available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
 
-- **Technical Focus**: Covers **LangChain** and **RAG (Retrieval-Augmented Generation)** workflows, providing hands-on implementation guidance for LLM integration.
+- **Technical Focus**: Covers LangChain and RAG (Retrieval-Augmented Generation) frameworks, emphasizing practical implementation in LLM application development.
 
-- **Community & Maintenance**: Actively maintained (last updated Aug 2026) with **13.7k+ stars** and **1.4k+ forks**, indicating strong community engagement and adoption.
+- **Repository Metrics**: Maintained by Datawhale China, with **13,692 stars**, **1,389 forks**, and last updated on **2026-08-02**.
 
 ## Why It Matters
 

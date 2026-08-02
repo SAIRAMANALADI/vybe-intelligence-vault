@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-08-02T19:32:33.937204+05:30'
-collected_at: '2026-08-02T19:32:33.937219+05:30'
+published_at: '2026-08-03T03:55:45.744806+05:30'
+collected_at: '2026-08-03T03:55:45.744819+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-08-02T19:32:33.937219+05:30'
-last_seen: '2026-08-02T19:32:33.937219+05:30'
-last_checked: '2026-08-02T19:32:33.937219+05:30'
+first_seen: '2026-08-03T03:55:45.744819+05:30'
+last_seen: '2026-08-03T03:55:45.744819+05:30'
+last_checked: '2026-08-03T03:55:45.744819+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 49 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and customization across domains like RAG, agents, multimodal, and observability.
+- **Haystack Cookbook** provides 49 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and more, with examples for advanced RAG, agents, multimodal processing, and custom tooling.
 
-- **Key Technical Areas Covered**: Advanced retrieval (HyDE, query decomposition, hybrid RAG), agentic workflows (function calling, MCP, memory integration), and model serving (vLLM, NVIDIA NIMs, self-deployed models).
+- **Key focus areas** include agentic workflows (e.g., cost-aware agents, GitHub PR creators), multimodal RAG, hybrid retrieval pipelines, and observability/evaluation frameworks (e.g., Arize Phoenix, RAGAS).
 
-- **Specialized Implementations**: Includes domain-specific RAG (legal analysis, multilingual podcasts), cost-aware agents, GPU-accelerated embeddings (FastEmbed, Qdrant), and evaluation frameworks (RAGAS, DeepEval, Arize Phoenix).
+- **Technical integrations** span model serving (vLLM, NVIDIA NIMs), metadata enrichment, sparse embeddings (Qdrant/FastEmbed), and specialized tools like MCP for browser automation or OpenStreetMap-based itinerary planning.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:32:33.937204+05:30
+- Published: 2026-08-03T03:55:45.744806+05:30
 
 ## Related Tags
 

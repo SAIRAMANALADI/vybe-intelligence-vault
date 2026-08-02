@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-03T01:06:45.412625+05:30'
+collected_at: '2026-08-03T03:43:47.243507+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-03T01:06:45.412625+05:30'
-last_seen: '2026-08-03T01:06:45.412625+05:30'
-last_checked: '2026-08-03T01:06:45.412625+05:30'
+first_seen: '2026-08-03T03:43:47.243507+05:30'
+last_seen: '2026-08-03T03:43:47.243507+05:30'
+last_checked: '2026-08-03T03:43:47.243507+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with modular components for retrieval, vector databases, and LLM inference.
-- **Multi-Model Support**: Includes examples for fine-tuning and serving Llama2 and OpenAI-compatible models, with benchmarks for latency/throughput optimization via Ray’s distributed runtime.
-- **Deployment Toolkit**: Provides Jupyter Notebook-based templates for end-to-end deployment, covering vector DB setup (e.g., FAISS/Weaviate), model quantization, and scalable serving with Ray Serve.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with scalable vector databases.
+- **Fine-Tuning & Optimization**: Provides Jupyter Notebook-based guides for fine-tuning LLMs (e.g., Llama2) and optimizing inference performance via Ray’s distributed compute framework.
+- **Deployment & Scalability**: Includes end-to-end deployment strategies for LLM applications, leveraging Ray’s serving capabilities and Anyscale for cloud-scale execution.
 
 ## Why It Matters
 

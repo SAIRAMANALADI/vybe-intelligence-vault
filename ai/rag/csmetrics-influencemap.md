@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/csmetrics/influencemap
-collected_at: '2026-08-01T16:26:18.217900+05:30'
+collected_at: '2026-08-03T03:48:32.582844+05:30'
 published_at: '2026-07-22T22:58:40Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2017-12-01T00:52:58Z'
 pushed_at: '2026-07-10T00:49:59Z'
 resource_id: github:csmetrics/influencemap
-first_seen: '2026-08-01T16:26:18.217900+05:30'
-last_seen: '2026-08-01T16:26:18.217900+05:30'
-last_checked: '2026-08-01T16:26:18.217900+05:30'
+first_seen: '2026-08-03T03:48:32.582844+05:30'
+last_seen: '2026-08-03T03:48:32.582844+05:30'
+last_checked: '2026-08-03T03:48:32.582844+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Constructs maps of intellectual influence using publication metadata via Python-based Jupyter Notebooks.
-- **Technical Stack**: Leverages Python for data processing and visualization in Jupyter Notebooks.
-- **Data Focus**: Analyzes academic publication data to derive influence metrics and network structures.
+- **Data Focus**: Processes academic publication data to analyze and visualize influence networks.
+- **Technical Stack**: Implemented in Python, leveraging Jupyter Notebook for interactive analysis and visualization.
 
 ## Why It Matters
 

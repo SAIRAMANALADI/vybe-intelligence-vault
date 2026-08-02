@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-03T01:05:20.324498+05:30'
+collected_at: '2026-08-03T03:42:17.228755+05:30'
 published_at: '2026-08-02T10:26:59Z'
 tags:
 - github-repo
@@ -13,7 +13,6 @@ tags:
 - models
 - openai
 - rag
-- reddit
 stars: 898
 language: Jupyter Notebook
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-03T01:05:20.324498+05:30'
-last_seen: '2026-08-03T01:05:20.324498+05:30'
-last_checked: '2026-08-03T01:05:20.324498+05:30'
+first_seen: '2026-08-03T03:42:17.228755+05:30'
+last_seen: '2026-08-03T03:42:17.228755+05:30'
+last_checked: '2026-08-03T03:42:17.228755+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Mastery Curriculum**: A structured 5-week learning program covering Retrieval-Augmented Generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization, HNSW indexing, and Matryoshka representation learning.
-- **Technical Stack**: Implemented in Jupyter Notebooks with Azure integration, OpenAI APIs, and VS Code tooling; includes multimodal RAG, responsible AI practices, and optimization techniques for LLM inference.
-- **Repository Contents**: Demonstrates end-to-end RAG pipelines, from data preprocessing and vector indexing to retrieval and generation, with examples of scalar/binary quantization and hybrid search implementations.
+- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning.
+- **Technical Stack**: Integrates Azure, OpenAI LLMs, HNSW for vector search, and VS Code for hands-on Jupyter Notebook exercises.
+- **Focus Areas**: Multimodal RAG, responsible AI practices, and optimization techniques for production-grade retrieval-augmented generation systems.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-08-03T01:11:28.014427+05:30'
+collected_at: '2026-08-03T03:47:32.552006+05:30'
 published_at: '2026-08-02T16:46:14Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2019-11-14T09:05:28Z'
 pushed_at: '2026-08-01T03:06:32Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-08-03T01:11:28.014427+05:30'
-last_seen: '2026-08-03T01:11:28.014427+05:30'
-last_checked: '2026-08-03T01:11:28.014427+05:30'
+first_seen: '2026-08-03T03:47:32.552006+05:30'
+last_seen: '2026-08-03T03:47:32.552006+05:30'
+last_checked: '2026-08-03T03:47:32.552006+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Python-based framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
 
-- **Multi-Use Case Support**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems through a unified Python framework.
+- **Context-Engineered Applications**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI through context engineering and explicit workflow design.
 
-- **High-Scale & Extensible**: Designed for scalability with 26K+ GitHub stars, modular architecture, and integration with tools like MCP for multi-agent systems.
+- **Production & Scalability Focus**: Optimized for scalable deployments with built-in support for agentic RAG, multi-agent systems, and MCP (Model Context Protocol) integration.
 
 ## Why It Matters
 

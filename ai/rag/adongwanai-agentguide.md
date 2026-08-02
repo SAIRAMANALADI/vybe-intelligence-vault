@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-08-03T01:09:25.474911+05:30'
+collected_at: '2026-08-03T03:46:27.363389+05:30'
 published_at: '2026-08-02T17:57:29Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - html
+- models
 - rag
 stars: 7715
 language: HTML
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-08-02T13:42:29Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-08-03T01:09:25.474911+05:30'
-last_seen: '2026-08-03T01:09:25.474911+05:30'
-last_checked: '2026-08-03T01:09:25.474911+05:30'
+first_seen: '2026-08-03T03:46:27.363389+05:30'
+last_seen: '2026-08-03T03:46:27.363389+05:30'
+last_checked: '2026-08-03T03:46:27.363389+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangGraph, advanced RAG, multi-agent systems, and CrewAI, with practical tutorials and real-world implementations for AI agent development.
+- **Comprehensive AI Agent Development Guide**: Covers LangGraph, CrewAI, GraphRAG, and GRPO with hands-on tutorials for building multi-agent systems, advanced RAG pipelines, and reinforcement learning applications.
 
-- **Interview & Career Resources**: Includes curated interview questions, job-hunting strategies, and transition guidance for roles like algorithm engineers and LLM specialists.
+- **Career Transition & Interview Resources**: Provides specialized content for transitioning into AI roles (e.g., LLM/algorithm engineer), including interview preparation, problem-solving frameworks, and curated question banks.
 
-- **Advanced Technical Topics**: Features GRPO, GraphRAG, SFT, data synthesis, and reinforcement learning, with a structured repository of technical resources and tools.
+- **Technical Stack & Synthesis**: Integrates SFT (Supervised Fine-Tuning), data synthesis techniques, and practical implementations for deploying agentic systems, with updates tracked via GitHub (last sync: 2026-08-02).
 
 ## Why It Matters
 
