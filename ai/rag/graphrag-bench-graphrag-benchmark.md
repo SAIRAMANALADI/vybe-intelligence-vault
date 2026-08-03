@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-03T09:26:46.421459+05:30'
+collected_at: '2026-08-03T15:39:42.995192+05:30'
 published_at: '2026-08-03T03:16:59Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
+- paper
 - python
 - rag
 stars: 473
@@ -20,9 +22,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-03T09:26:46.421459+05:30'
-last_seen: '2026-08-03T09:26:46.421459+05:30'
-last_checked: '2026-08-03T09:26:46.421459+05:30'
+first_seen: '2026-08-03T15:39:42.995192+05:30'
+last_seen: '2026-08-03T15:39:42.995192+05:30'
+last_checked: '2026-08-03T15:39:42.995192+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG models, focusing on graph-based retrieval augmentation in RAG systems, with ICLR'26 publication alignment.
+- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, with a focus on graph-based retrieval strategies and their impact on downstream tasks.
 
-- **Dataset & Metrics**: Includes curated datasets and evaluation metrics to assess performance across graph retrieval, generation quality, and contextual relevance in RAG pipelines.
+- **Technical Scope**: Implements a comprehensive analysis framework for determining optimal use cases of graph structures in RAG systems, as outlined in the ICLR'26 paper *"When to use Graphs in RAG"*.
 
-- **Python Implementation**: Open-source Python library with modular components for graph construction, retrieval strategies, and benchmarking, optimized for extensibility and reproducibility.
+- **Tooling & Metrics**: Provides a Python-based benchmarking suite with datasets, evaluation metrics, and analysis tools to assess performance across graph retrieval methods, model configurations, and task-specific scenarios.
 
 ## Why It Matters
 

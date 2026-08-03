@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-08-03T09:26:41.461255+05:30'
-published_at: '2026-08-02T19:31:43Z'
+collected_at: '2026-08-03T15:39:37.951234+05:30'
+published_at: '2026-08-03T10:06:15Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 827
+stars: 829
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-08-03T09:26:41.461255+05:30'
-last_seen: '2026-08-03T09:26:41.461255+05:30'
-last_checked: '2026-08-03T09:26:41.461255+05:30'
+first_seen: '2026-08-03T15:39:37.951234+05:30'
+last_seen: '2026-08-03T15:39:37.951234+05:30'
+last_checked: '2026-08-03T15:39:37.951234+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list** of AI memory projects, frameworks, and tools focused on memory management, RAG, and agentic systems.
-- **Python-centric** repository with 827 stars and 106 forks, last updated in August 2026.
-- Covers topics including **AI agents, memory architectures, and retrieval-augmented generation (RAG)**.
+*   Curated list of AI memory projects, focusing on AI agent and ML memory management architectures.
+*   Encompasses technical domains such as RAG, AI engineering, and general AI/ML memory solutions.
+*   Primarily features Python-based implementations for various AI memory paradigms.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: topoteretes
-- Stars: 827
+- Stars: 829
 - Forks: 106
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
-- Last Updated: 2026-08-02T19:31:43Z
+- Last Updated: 2026-08-03T10:06:15Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-23T12:40:05Z

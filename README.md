@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-88%2C152-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-150%2C199-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--03-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **88,152 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **150,199 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,449</p>
-        <p><b>Active:</b> 15,000 | <b>Inactive:</b> 449</p>
+        <p><b>Resources tracked:</b> 16,844</p>
+        <p><b>Active:</b> 16,393 | <b>Inactive:</b> 451</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,133</p>
+        <p><b>Archive Files:</b> 62,807</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 88,152 files</p>
-        <p><b>Last Update:</b> 2026-08-03 11:54 IST</p>
+        <p><b>Total Vault Size:</b> 150,199 files</p>
+        <p><b>Last Update:</b> 2026-08-03 15:57 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Specification - Model Context Protocol](ai/agents/specification-model-context-protocol.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[DagsHub - YouTube](ai/rag/dagshub-youtube.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[openai-agents-python/examples/voice/static at main · openai/openai-agents-python · GitHub](ai/agents/openai-openai-agents-python.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[What is the Model Context Protocol (MCP)? - Model Context Protocol](ai/agents/what-is-the-model-context-protocol-mcp-model-conte.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Research | OpenAI](ai/rag/research-openai.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[deepset-ai/haystack-cookbook](ai/rag/deepset-ai-haystack-cookbook.md)** • Rank: <kbd>+1575</kbd>
+- 🔼 **[GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](ai/rag/resources-whitepapers.md)** • Rank: <kbd>+1444</kbd>
+- 🔼 **[GitHub Code Security · GitHub](ai/rag/security-advanced-security.md)** • Rank: <kbd>+1728</kbd>
+- 🔼 **[Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md)** • Rank: <kbd>+1499</kbd>
+- 🔼 **[Understanding GitHub Code Search syntax - GitHub Docs](ai/resources/understanding-github-code-search-syntax-github-doc.md)** • Rank: <kbd>+1509</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[The AI Productivity Gap](ai/community/the-ai-productivity-gap.md)** • Score: `43`
+- 🆕 **[Bonsai: Janestreet's UI Library](ai/community/janestreet-bonsai.md)** • Score: `36`
+- 🆕 **[Octane – React's programming model, compiled](web-development/community/octane-react-s-programming-model-compiled.md)** • Score: `17`
+- 🆕 **[Prevent cognitive debt by manually retyping LLM-generated code](ai/community/prevent-cognitive-debt-by-manually-retyping-llm-ge.md)** • Score: `10`
+- 🆕 **[PISIGuard: Protect your personal and sensitive info when you chat with AI](ai/community/mohamed-abdel-maksoud-pisiguard.md)** • Score: `4`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”](ai/community/my-personal-ai-benchmark-generate-an-svg-of-a-frog.md)**
+- 💤 **[Show HN: Mu – Tools for Agents](ai/community/micro-mu.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

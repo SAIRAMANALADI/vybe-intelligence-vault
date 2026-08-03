@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FlowiseAI/Flowise
-collected_at: '2026-08-03T09:28:51.578369+05:30'
-published_at: '2026-08-03T03:39:43Z'
+collected_at: '2026-08-03T15:41:43.070090+05:30'
+published_at: '2026-08-03T07:08:42Z'
 tags:
 - agents
 - frontend_ui
@@ -15,17 +15,17 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 55110
+stars: 55112
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-03-31T12:23:09Z'
-pushed_at: '2026-07-31T17:16:39Z'
+pushed_at: '2026-08-03T04:46:47Z'
 resource_id: github:flowiseai/flowise
-first_seen: '2026-08-03T09:28:51.578369+05:30'
-last_seen: '2026-08-03T09:28:51.578369+05:30'
-last_checked: '2026-08-03T09:28:51.578369+05:30'
+first_seen: '2026-08-03T15:41:43.070090+05:30'
+last_seen: '2026-08-03T15:41:43.070090+05:30'
+last_checked: '2026-08-03T15:41:43.070090+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code platform for constructing AI agents and workflows using drag-and-drop interfaces, supporting multi-agent systems and agentic workflows.
+- **Visual AI Agent Builder**: Open-source, low/no-code platform (TypeScript/React) for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
 
-- **Tech Stack**: Built in TypeScript with React frontend, leveraging LangChain for LLM orchestration, OpenAI APIs, and RAG (Retrieval-Augmented Generation) for enhanced AI capabilities.
+- **Multi-Agent & RAG Support**: Enables multi-agent systems and Retrieval-Augmented Generation (RAG) pipelines with modular, drag-and-drop interfaces for workflow automation.
 
-- **Integration & Deployment**: Supports workflow automation, chatbot development, and deployment via JavaScript/TypeScript, with modular components for extensibility and rapid AI agent prototyping.
+- **Extensible Architecture**: Integrates with JavaScript/TypeScript ecosystems, supports custom APIs, and provides deployment flexibility for agentic AI applications.
 
 ## Why It Matters
 
@@ -46,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: FlowiseAI
-- Stars: 55110
-- Forks: 24811
+- Stars: 55112
+- Forks: 24813
 - Language: TypeScript
 - Topics: agentic-ai, agentic-workflow, agents, artificial-intelligence, chatbot, chatgpt, javascript, langchain, large-language-models, low-code, multiagent-systems, no-code, openai, rag, react, typescript, workflow-automation
-- Last Updated: 2026-08-03T03:39:43Z
+- Last Updated: 2026-08-03T07:08:42Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-03-31T12:23:09Z
-- Pushed At: 2026-07-31T17:16:39Z
+- Pushed At: 2026-08-03T04:46:47Z
 
 ## Possible Use Cases
 

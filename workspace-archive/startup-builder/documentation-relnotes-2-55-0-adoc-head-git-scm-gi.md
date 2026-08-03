@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Definition**: Loading refers to the process of transferring data from a storage medium (e.g., disk, SSD, or network) into a computer's memory (RAM) for processing or execution.
+- **Definition**: Loading refers to the process of transferring data from a storage medium (e.g., disk, network) into a computer's memory (RAM) for execution or processing.
 - **Types**:
-  - **Static Loading**: Data is loaded once at program startup (e.g., executable binaries).
+  - **Static Loading**: Data is loaded once at program startup (e.g., executables, libraries).
   - **Dynamic Loading**: Data is loaded on-demand during runtime (e.g., shared libraries, plugins).
-- **Performance Impact**: Loading latency is a critical bottleneck in I/O-bound systems, often mitigated by cachin
+- **Performance Impact**: Loading latency depends on I/O bandwidth, storage latency, and memory hierarchy (e.g., cache
 
 ## Use Cases
 

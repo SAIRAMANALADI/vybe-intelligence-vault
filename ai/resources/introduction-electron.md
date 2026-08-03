@@ -3,17 +3,17 @@ title: Introduction | Electron
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://electronjs.org/docs/latest
-published_at: '2026-08-03T09:35:30.182865+05:30'
-collected_at: '2026-08-03T09:35:30.182878+05:30'
+source_url: https://www.electronjs.org/docs/latest
+published_at: '2026-08-03T15:47:14.871955+05:30'
+collected_at: '2026-08-03T15:47:14.871965+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-08-03T09:35:30.182878+05:30'
-last_seen: '2026-08-03T09:35:30.182878+05:30'
-last_checked: '2026-08-03T09:35:30.182878+05:30'
+first_seen: '2026-08-03T15:47:14.871965+05:30'
+last_seen: '2026-08-03T15:47:14.871965+05:30'
+last_checked: '2026-08-03T15:47:14.871965+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron combines Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop applications that run natively on Windows, macOS, and Linux without requiring native development expertise.
+- **Electron** integrates Chromium and Node.js into a single binary, enabling cross-platform desktop app development using JavaScript, HTML, and CSS without native code requirements.
 
-- **Core components**: Electron apps consist of a main process (`main.js`) managing lifecycle events (e.g., `app.whenReady()`), a renderer process (`index.html`/`preload.js`) handling UI via Chromium, and Node.js APIs for system access (e.g., `process.versions`).
+- **Electron Fiddle** is a sandbox tool for prototyping and testing Electron APIs, with direct integration into documentation via "Open in Fiddle" buttons for seamless example execution.
 
-- **Development ecosystem**: Electron Fiddle provides an interactive sandbox for prototyping, while official docs offer structured guidance (tutorials, best practices, debugging tools) and community resources (Discord, GitHub issues) for support and contributions.
+- **Official docs** include structured guides (tutorials, best practices, examples), process references, distribution methods, debugging/testing tools, and contribution guidelines for Electron development.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T09:35:30.182865+05:30
+- Published: 2026-08-03T15:47:14.871955+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://electronjs.org/docs/latest
+Original source: https://www.electronjs.org/docs/latest

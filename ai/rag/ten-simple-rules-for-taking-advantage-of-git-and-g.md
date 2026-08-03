@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
-published_at: '2026-08-03T09:31:25.761395+05:30'
-collected_at: '2026-08-03T09:31:25.761408+05:30'
+published_at: '2026-08-03T15:44:13.480912+05:30'
+collected_at: '2026-08-03T15:44:13.480934+05:30'
 tags:
 - dataset
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ten-simple-rules-for-taking-advantage-of-git-and-g
-first_seen: '2026-08-03T09:31:25.761408+05:30'
-last_seen: '2026-08-03T09:31:25.761408+05:30'
-last_checked: '2026-08-03T09:31:25.761408+05:30'
+first_seen: '2026-08-03T15:44:13.480934+05:30'
+last_seen: '2026-08-03T15:44:13.480934+05:30'
+last_checked: '2026-08-03T15:44:13.480934+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- GitHub leverages **Git**, a distributed version control system (DVCS), enabling **atomic, traceable changes** with unique commit hashes for full project history tracking and reproducibility in bioinformatics workflows.
+- GitHub leverages Git for distributed version control, enabling tracking of all changes (from minor fixes to major redesigns) with unique identifiers, ensuring traceability and reproducibility in bioinformatics projects.
 
-- **Branching and pull requests (PRs)** facilitate **parallel development**, peer review, and **non-linear collaboration**, with GitHub’s web interface enabling **issue tracking**, **code review**, and **merge conflict resolution** for distributed teams.
+- The platform supports collaborative development via features like branches, pull requests, issue tracking, and peer review, facilitating structured code management and community contributions.
 
-- **Private repositories** (free for research/education) allow **pre-publication development**, while **tagging releases** (e.g., `v1.0.0`) and **semantic versioning** ensure **stable, citable software versions** aligned with academic publishing standards.
+- GitHub provides free public repositories for open-source projects and private repositories for research/educational use, with paid plans for private business repositories, ensuring flexibility in project visibility and access control.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:31:25.761395+05:30
+- Published: 2026-08-03T15:44:13.480912+05:30
 
 ## Related Tags
 

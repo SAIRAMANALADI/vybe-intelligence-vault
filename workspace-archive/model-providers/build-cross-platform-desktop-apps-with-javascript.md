@@ -2,13 +2,13 @@
 title: Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://www.electronjs.org/
+source_url: https://electronjs.org/
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
 local_vault_path: ai/rag/build-cross-platform-desktop-apps-with-javascript.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Runtime Architecture**: Electron combines Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
+- **Hybrid Runtime**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
 
-- **Security & Maintenance**: Releases synchronize with Chromium updates for immediate security patches, while supporting npm-native extensions and native add-ons.
+- **Security & Stability**: Releases align with Chromium updates, ensuring timely security patches and a stable rendering engine (e.g., Chromium 150.0.7871.129 in Electron 43.2.0).
 
-- **Distribution & Tooling**: Provides platform-specific installers (`.msi`, `.dmg`, `.rpm`), auto-updater modules, and app store support (Mac/Windows/Linux) via Electron
+- **Extensible Ecosystem**: Supports npm packages, native add-ons, and frameworks (React, Vue, Angular) while providing tools like Electron Forge for packagi
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.electronjs.org/
+Original source URL: https://electronjs.org/
 
 ## Local Vault File
 

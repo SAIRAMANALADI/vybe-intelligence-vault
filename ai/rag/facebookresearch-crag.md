@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-03T09:26:46.468360+05:30'
+collected_at: '2026-08-03T15:39:43.055307+05:30'
 published_at: '2026-07-19T17:15:41Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 297
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-03T09:26:46.468360+05:30'
-last_seen: '2026-08-03T09:26:46.468360+05:30'
-last_checked: '2026-08-03T09:26:46.468360+05:30'
+first_seen: '2026-08-03T15:39:43.055307+05:30'
+last_seen: '2026-08-03T15:39:43.055307+05:30'
+last_checked: '2026-08-03T15:39:43.055307+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRAG (Comprehensive RAG Benchmark) provides a standardized evaluation suite for Retrieval-Augmented Generation (RAG) systems, enabling systematic assessment of performance across diverse tasks and datasets.
-- **Modular Design**: Implements a flexible architecture with configurable components (retrievers, generators, evaluators) to support customization and reproducibility in RAG experiments.
-- **Evaluation Metrics**: Incorporates multi-dimensional metrics (e.g., retrieval precision, answer correctness, latency) to quantify RAG system efficacy under varying conditions.
+- **Benchmark Scope**: CRAG is a comprehensive benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across diverse tasks, including knowledge-intensive QA, multi-hop reasoning, and open-domain retrieval.
+- **Evaluation Framework**: The repository provides standardized datasets, metrics, and evaluation protocols to assess RAG models' performance in terms of accuracy, robustness, and efficiency under varying conditions (e.g., noisy retrieval, long-form generation).
+- **Implementation**: Includes Jupyter Notebook-based implementations for baseline models, retrieval strategies (e.g., dense vs. sparse), and post-processing techniques, enabling reproducible experimentation and analysis.
 
 ## Why It Matters
 

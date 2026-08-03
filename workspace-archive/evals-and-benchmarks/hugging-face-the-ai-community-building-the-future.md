@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Model Architecture**: Kimi-K3 is a large language model developed by Moonshot AI, optimized for advanced natural language processing tasks with a focus on efficiency and scalability.
+- **Model Architecture**: Kimi-K3 is a large language model developed by Moonshot AI, optimized for advanced natural language processing tasks with enhanced contextual understanding and reasoning capabilities.
 
-- **Performance Metrics**: Achieves high benchmark scores in reasoning, coding, and multilingual tasks, with a reported 9.68k GitHub stars and 837k downloads on Hugging Face.
+- **Performance Metrics**: Achieves high benchmark scores in language understanding, generation, and multilingual tasks, with a focus on efficiency and scalability.
 
-- **Deployment & Accessibility**: Available as an open-source model on Hugging Face, enabling researchers and developers to fine-tune an
+- **Deployment & Accessibility**: Available on Hugging Face Hub, enabling open-source access for research and development,
 
 ## Use Cases
 

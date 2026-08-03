@@ -8,7 +8,7 @@ local_vault_path: ai/rag/protect-privacy-online-with-google-google-safety-c.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Protect Privacy Online with Google - Google Safety Center
@@ -25,18 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Built-in Protections**: Google integrates default security measures into its products to proactively mitigate emerging cyber threats, ensuring secure-by-default configurations.
-
-- **AI-Driven Threat Mitigation**: Leverages advanced AI technology to detect, analyze, and neutralize security threats, while sharing real-time threat intelligence with global partners to strengthen cybersecurity standards.
-
-- **Collaborative Security Framework**: Partners with cybersecurity experts and industry sta
+- **Built-in Protections**: Google integrates default security measures into its products to mitigate emerging cyber threats, leveraging AI-driven innovations and threat intelligence sharing.
+- **Global Standards Advancement**: Collaborates with cybersecurity experts to establish and promote security standards, ensuring the internet remains open and secure.
+- **Proactive Threat Mitigation**: Focuses on preemptive security strategies, including AI technology and partnerships, to protect against r
 
 ## Use Cases
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-03T09:26:21.463249+05:30'
+collected_at: '2026-08-03T15:39:17.927530+05:30'
 published_at: '2026-07-16T10:59:46Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 158
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-03T09:26:21.463249+05:30'
-last_seen: '2026-08-03T09:26:21.463249+05:30'
-last_checked: '2026-08-03T09:26:21.463249+05:30'
+first_seen: '2026-08-03T15:39:17.927530+05:30'
+last_seen: '2026-08-03T15:39:17.927530+05:30'
+last_checked: '2026-08-03T15:39:17.927530+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Integration**: Demonstrates LangChain's retrieval-augmented generation (RAG) using a vector store with hybrid search (combining dense and sparse retrieval methods) for enhanced document retrieval.
-
-- **Streamlit UI**: Implements a Streamlit-based web interface to interact with the RAG pipeline, enabling real-time query processing and response visualization.
-
-- **Modular Architecture**: Uses LangChain's modular components (e.g., retrievers, LLMs) for flexible deployment, with example configurations for hybrid search and vector storage.
+- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) and hybrid search (combining dense/sparse retrieval) for enhanced document retrieval and generation.
+- **Modular Components**: Uses LangChain’s `RetrievalQA` with custom retrievers (e.g., `BM25` + `Embeddings`) and chains (e.g., `stuff`/`map-reduce`) for scalable RAG workflows.
+- **Streamlit UI**: Provides a real-time interactive interface for querying, displaying retrieved contexts, and streaming LLM responses (e.g., using `streaming=True` in `LLMChain`).
 
 ## Why It Matters
 

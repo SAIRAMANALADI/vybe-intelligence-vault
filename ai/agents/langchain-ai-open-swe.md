@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-03T03:44:27.329809+05:30'
-published_at: '2026-08-02T21:32:55Z'
+collected_at: '2026-08-03T15:40:48.015402+05:30'
+published_at: '2026-08-03T09:25:40Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-- workflows
-stars: 10427
+stars: 10430
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-08-01T20:20:38Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-03T03:44:27.329809+05:30'
-last_seen: '2026-08-03T03:44:27.329809+05:30'
-last_checked: '2026-08-03T03:44:27.329809+05:30'
+first_seen: '2026-08-03T15:40:48.015402+05:30'
+last_seen: '2026-08-03T15:40:48.015402+05:30'
+last_checked: '2026-08-03T15:40:48.015402+05:30'
 health_score: 100
 ---
 
@@ -32,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for multi-agent collaboration in code generation and debugging tasks.
-- **Multi-Model LLM Integration**: Supports Anthropic's ClaudeCode, OpenAI's models, and other LLM backends via standardized interfaces for dynamic agent orchestration.
-- **Scalable Workflow Engine**: Utilizes Python's asyncio for concurrent task execution, enabling parallelized code synthesis, testing, and iterative refinement in distributed environments.
+- **Multi-Model LLM Integration**: Supports Anthropic's ClaudeCode and OpenAI's LLMs, enabling dynamic agent switching based on task requirements.
+- **Modular Python Framework**: Designed for extensibility with pluggable components for tooling, memory, and execution environments.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10427
+- Stars: 10430
 - Forks: 1213
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-02T21:32:55Z
+- Last Updated: 2026-08-03T09:25:40Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

@@ -3,18 +3,17 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://about.medium.com/
-published_at: '2026-08-03T09:33:11.735444+05:30'
-collected_at: '2026-08-03T09:33:11.735453+05:30'
+source_url: https://medium.com/creators
+published_at: '2026-08-03T15:46:14.477502+05:30'
+collected_at: '2026-08-03T15:46:14.477511+05:30'
 tags:
-- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-03T09:33:11.735453+05:30'
-last_seen: '2026-08-03T09:33:11.735453+05:30'
-last_checked: '2026-08-03T09:33:11.735453+05:30'
+first_seen: '2026-08-03T15:46:14.477511+05:30'
+last_seen: '2026-08-03T15:46:14.477511+05:30'
+last_checked: '2026-08-03T15:46:14.477511+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful discourse over sensationalism, supporting writers and readers without requiring pre-existing audiences or mailing lists.
-
-- **Community & Monetization**: Hosts over 100M monthly users (developers, CEOs, writers) and operates via a membership model (1M+ paying members) instead of ads or data monetization, aligning incentives with high-quality content.
-
-- **Technical Structure**: Utilizes a sitemap.xml for SEO/crawling and provides APIs/routes (e.g., `/signin`, `/new-story`) for user authentication, content creation, and membership management.
+- **Earnings Calculation**: Medium Partner Program compensates writers based on engagement metrics—total views, read time (≥30s), claps, highlights, replies, and new follows—with bonuses for follower growth and Boosted content.
+- **Quality Incentives**: Long-form, high-engagement stories are prioritized; earnings scale with reader interaction depth (e.g., sustained read time, positive feedback) and community-building (follower retention).
+- **Application & Support**: Writers apply via [Partner Program](https://medium.com/partner-program-application); detailed earnings methodology is documented in the [Partner Program Guide](https://help.medium.com/hc/en-us/articles/115011694187-Getting-started-with-the-Partner-Program), with additional support via Help Desk requests.
 
 ## Why It Matters
 
@@ -36,14 +33,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:33:11.735444+05:30
+- Published: 2026-08-03T15:46:14.477502+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
 - web-crawled
 
 ## Source
 
-Original source: https://about.medium.com/
+Original source: https://medium.com/creators

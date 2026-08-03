@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-08-03T09:27:06.444513+05:30'
-published_at: '2026-08-03T03:56:29Z'
+collected_at: '2026-08-03T15:40:02.973243+05:30'
+published_at: '2026-08-03T08:41:39Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 8231
+stars: 8238
 language: Python
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-08-03T09:27:06.444513+05:30'
-last_seen: '2026-08-03T09:27:06.444513+05:30'
-last_checked: '2026-08-03T09:27:06.444513+05:30'
+first_seen: '2026-08-03T15:40:02.973243+05:30'
+last_seen: '2026-08-03T15:40:02.973243+05:30'
+last_checked: '2026-08-03T15:40:02.973243+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`jamwithai/production-agentic-rag-course`) focused on production-level Agentic RAG (Retrieval-Augmented Generation) systems, written in Python.
-- **Metrics**: 8,231 stars and 1,835 forks, indicating significant community interest and adoption.
-- **Last Update**: Most recent commit or update was on **August 3, 2026**, suggesting active maintenance or development.
+- **Course Repository**: Python-based repository (`jamwithai/production-agentic-rag-course`) focused on production-grade agentic RAG (Retrieval-Augmented Generation) systems, with 8,238 stars and 1,836 forks.
+- **Last Updated**: Latest commit timestamped `2026-08-03T08:41:39Z`, indicating active maintenance or updates.
+- **Technical Scope**: Implicitly targets advanced RAG implementations, though no explicit description or topics are provided.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jamwithai
-- Stars: 8231
-- Forks: 1835
+- Stars: 8238
+- Forks: 1836
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-03T03:56:29Z
+- Last Updated: 2026-08-03T08:41:39Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-06T19:52:50Z

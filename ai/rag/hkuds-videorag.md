@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-03T09:27:16.466286+05:30'
+collected_at: '2026-08-03T15:40:07.941500+05:30'
 published_at: '2026-08-02T10:27:38Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-03T09:27:16.466286+05:30'
-last_seen: '2026-08-03T09:27:16.466286+05:30'
-last_checked: '2026-08-03T09:27:16.466286+05:30'
+first_seen: '2026-08-03T15:40:07.941500+05:30'
+last_seen: '2026-08-03T15:40:07.941500+05:30'
+last_checked: '2026-08-03T15:40:07.941500+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, metadata).
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long-form video content by leveraging multi-modal embeddings and hierarchical retrieval mechanisms.
 
-- **Multi-Modal Integration**: Leverages Python-based pipelines to combine visual (frames), auditory (audio), and textual (metadata/transcripts) modalities, optimizing long-context video comprehension for LLMs.
+- **Multi-Modal Integration**: Combines visual, audio, and textual modalities using specialized encoders (e.g., CLIP for frames, Whisper for speech) to generate unified representations for video understanding.
 
-- **KDD'2026 Contribution**: Proposes a novel approach to bridge video data and LLMs, enhancing retrieval precision and contextual relevance for video-based Q&A or summarization tasks.
+- **Efficiency Optimizations**: Implements chunking, indexing, and dynamic retrieval strategies to handle long videos (e.g., 10+ hours) with sub-linear scaling, reducing latency in LLM inference.
 
 ## Why It Matters
 

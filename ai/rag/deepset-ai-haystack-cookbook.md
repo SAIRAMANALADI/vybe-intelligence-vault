@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack-cookbook/
-collected_at: '2026-08-02T19:34:26.370099+05:30'
-published_at: '2026-07-29T10:56:09Z'
+collected_at: '2026-08-03T15:50:21.952552+05:30'
+published_at: '2026-08-03T09:26:53Z'
 tags:
 - agents
 - github-repo
@@ -18,11 +18,11 @@ language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2024-01-02T12:11:38Z'
-pushed_at: '2026-07-29T10:53:41Z'
+pushed_at: '2026-08-03T09:25:06Z'
 resource_id: github:deepset-ai/haystack-cookbook
-first_seen: '2026-08-02T19:34:26.370099+05:30'
-last_seen: '2026-08-02T19:34:26.370099+05:30'
-last_checked: '2026-08-02T19:34:26.370099+05:30'
+first_seen: '2026-08-03T15:50:21.952552+05:30'
+last_seen: '2026-08-03T15:50:21.952552+05:30'
+last_checked: '2026-08-03T15:50:21.952552+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook**: Repository containing Jupyter Notebooks demonstrating practical implementations of Haystack, an open-source framework for building search and question-answering systems with LLMs.
-
-- **Technical Scope**: Covers agentic AI, retrieval-augmented generation (RAG), and Python-based GenAI use cases, leveraging Haystack’s modular pipeline architecture (e.g., document stores, retrievers, readers).
-
-- **Key Features**: Includes 546+ community contributions (stars) with 130 forks, updated as of July 2026, focusing on agentic workflows, tool integration, and GenAI applications.
+- **Purpose**: A curated collection of Jupyter Notebooks demonstrating practical applications of [Haystack](https://haystack.deepset.ai/) for building AI agents, RAG pipelines, and generative AI use cases.
+- **Technical Scope**: Covers agentic AI, Python-based implementations, and tools for retrieval-augmented generation (RAG) workflows.
+- **Updates & Contributions**: Last synced on **2026-08-03**, with 546 stars and 130 forks, indicating active community engagement.
 
 ## Why It Matters
 
@@ -47,10 +45,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 130
 - Language: Jupyter Notebook
 - Topics: agentic, agentic-ai, agents, ai, ai-tools, genai, genai-usecases, haystack-ai, python, rag
-- Last Updated: 2026-07-29T10:56:09Z
+- Last Updated: 2026-08-03T09:26:53Z
 - Archived: No
 - Created At: 2024-01-02T12:11:38Z
-- Pushed At: 2026-07-29T10:53:41Z
+- Pushed At: 2026-08-03T09:25:06Z
 
 ## Possible Use Cases
 

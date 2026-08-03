@@ -4,10 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-03T09:26:56.456405+05:30'
+collected_at: '2026-08-03T15:39:52.915901+05:30'
 published_at: '2026-07-30T15:36:09Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - reddit
@@ -19,9 +22,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-03T09:26:56.456405+05:30'
-last_seen: '2026-08-03T09:26:56.456405+05:30'
-last_checked: '2026-08-03T09:26:56.456405+05:30'
+first_seen: '2026-08-03T15:39:52.915901+05:30'
+last_seen: '2026-08-03T15:39:52.915901+05:30'
+last_checked: '2026-08-03T15:39:52.915901+05:30'
 health_score: 100
 ---
 
@@ -29,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **PoisonedRAG**, a novel attack framework exploiting vulnerabilities in Retrieval-Augmented Generation (RAG) systems by poisoning the external knowledge base to manipulate LLM outputs.
-- Demonstrates **three attack vectors**: *document-level poisoning* (malicious documents), *embedding-level poisoning* (adversarial embeddings), and *retrieval-level poisoning* (bypassing filters), achieving high attack success rates (up to 97.5%) with minimal perturbations.
-- Proposes **defensive strategies** including robust retrieval filtering, embedding sanitization, and anomaly detection, while evaluating their effectiveness against the proposed attacks.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating retrieved documents to mislead LLM outputs.
+
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by embedding adversarial triggers in external knowledge sources, causing LLMs to generate incorrect or biased responses while maintaining high retrieval relevance.
+
+- **Evaluation & Impact**: Validated on multiple datasets and LLMs, showing significant degradation in response accuracy (up to 40% drop in some cases) and proposing defensive strategies like input sanitization and retrieval filtering.
 
 ## Why It Matters
 

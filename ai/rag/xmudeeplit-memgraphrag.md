@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-03T09:27:21.477453+05:30'
+collected_at: '2026-08-03T15:40:13.016887+05:30'
 published_at: '2026-08-02T14:54:24Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-03T09:27:21.477453+05:30'
-last_seen: '2026-08-03T09:27:21.477453+05:30'
-last_checked: '2026-08-03T09:27:21.477453+05:30'
+first_seen: '2026-08-03T15:40:13.016887+05:30'
+last_seen: '2026-08-03T15:40:13.016887+05:30'
+last_checked: '2026-08-03T15:40:13.016887+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Framework**: Introduces a memory-based multi-agent system (`MemGraphRAG`) for graph retrieval-augmented generation (GraphRAG), leveraging agent-memory and ontology construction for enhanced reasoning.
+- **Memory-based Multi-Agent System**: Implements a **graph-based RAG framework** where multiple agents collaboratively construct and query a **dynamic memory graph** for enhanced knowledge retrieval and generation.
 
-- **Graph Construction & Retrieval**: Implements dynamic graph construction and retrieval mechanisms to augment large language model (LLM) outputs with structured knowledge, improving factual accuracy and contextual relevance.
+- **Ontology-Guided Graph Construction**: Utilizes **ontology-driven techniques** to build structured knowledge graphs, enabling efficient **semantic retrieval** and **context-aware reasoning** in multi-agent interactions.
 
-- **Ontology Integration**: Utilizes ontology-based techniques to formalize knowledge representation, enabling efficient multi-agent collaboration and scalable graph-based retrieval for downstream tasks.
+- **Python-Based Implementation**: Provides an open-source Python library for **graph RAG**, supporting **dynamic memory updates**, **multi-agent coordination**, and **ontology-based knowledge integration**.
 
 ## Why It Matters
 

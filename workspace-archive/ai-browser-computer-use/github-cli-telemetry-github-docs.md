@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub CLI collects pseudonymous telemetry to improve product development, prioritizing features based on real-world usage patterns (e.g., subcommand adoption metrics).
-- Telemetry can be reviewed via `GH_TELEMETRY=log` (env var) or `gh config set telemetry log`, printing JSON payloads to stderr for inspection.
-- Opt-out is supported via `GH_TELEMETRY=false` (or falsy values) or `gh config set telemetry disabled`, with environment variables taking precedence.
+- GitHub CLI collects pseudonymous telemetry to improve product features, prioritize development, and assess real-world usage, excluding data from GitHub Enterprise Server instances or users authenticated with such hosts.
+- Telemetry can be reviewed in logging mode via `GH_TELEMETRY=log` or `gh config set telemetry log`, which outputs JSON payloads to stderr for inspection without transmission.
+- Users can opt out of telemetry using `GH_TELEMETRY=false` (or falsy values) or `gh config set teleme
 
 ## Use Cases
 

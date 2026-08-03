@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Chunk Size Impact**: Small `chunk_size` (e.g., 128) risks missing critical context in top retrieved chunks, while larger sizes (e.g., 512) ensure completeness but may slow response generation; optimal balance is dataset-dependent.
-- **Evaluation Metrics**: Faithfulness (absence of hallucinations) and Relevancy (query-context alignment) are measured using GPT-4-based evaluators (`FaithfulnessEvaluator`, `RelevancyEvaluator`) to quantify RAG performance.
-- **Empirical Optimization**: Testing a
+- **Chunk Size Impact**: Optimal `chunk_size` balances granularity and efficiency; smaller sizes (e.g., 128) risk missing critical context, while larger sizes (e.g., 512–2048) improve relevancy but increase response time.
+- **Evaluation Metrics**: Faithfulness (hallucination-free responses) and Relevancy (query alignment) are measured using GPT-4 evaluators, alongside average response time across chunk sizes.
+- **Optimal Configuration**: Empirical results suggest `chunk_size=1024` maximizes Fait
 
 ## Use Cases
 

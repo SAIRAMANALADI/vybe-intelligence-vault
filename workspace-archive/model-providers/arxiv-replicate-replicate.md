@@ -1,18 +1,17 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/rag/arxiv-replicate-replicate.md
+local_vault_path: ai/resources/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - openai
-- rag
 - web-crawled
 - youtube
 selection_reason:
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **OpenAI's GPT-Image-2**: A diffusion-based text-to-image model excelling in instruction following, text rendering, and image editing, with 18.1M runs on Replicate.
-- **xAI's Grok-Imagine-Video**: A video generation model leveraging xAI's proprietary architecture, achieving 1.5M runs on Replicate.
-- **Minimax's Music-2.6**: A transformer-based autoregressive model for generating full-length songs or instrumentals from text prompts, including optional auto-generated lyrics, with 25K runs on Rep
+*   xAI's Grok Imagine Video model enables video generation.
+*   Google's Nano Banana 2 offers fast image generation with conversational editing, multi-image fusion, and character consistency.
+*   OpenAI's GPT-Image-2 provides state-of-the-art image generation, featuring strong instruction following, sharp text rendering, and detailed editing.
 
 ## Use Cases
 
@@ -49,4 +48,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/rag/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/resources/arxiv-replicate-replicate.md)

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-03T09:27:16.490608+05:30'
+collected_at: '2026-08-03T15:40:12.968993+05:30'
 published_at: '2026-08-03T00:45:50Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 529
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-03T09:27:16.490608+05:30'
-last_seen: '2026-08-03T09:27:16.490608+05:30'
-last_checked: '2026-08-03T09:27:16.490608+05:30'
+first_seen: '2026-08-03T15:40:12.968993+05:30'
+last_seen: '2026-08-03T15:40:12.968993+05:30'
+last_checked: '2026-08-03T15:40:12.968993+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **LinearRAG Framework**: Introduces a linear graph-based retrieval method for RAG, optimizing large-scale corpus retrieval by leveraging linear graph structures to enhance efficiency and scalability in LLM augmentation.
+- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency by leveraging linear graph traversal for dynamic subgraph extraction.
 
-- **ICLR 2026 Contribution**: Proposes a novel approach to graph-based retrieval, reducing computational overhead while maintaining or improving retrieval quality for augmented generation tasks.
+- **Scalability & Performance**: Achieves linear time complexity in retrieval (O(n)) for large corpora, outperforming traditional graph-based RAG methods (e.g., hierarchical or dense retrieval) in both memory usage and query latency.
 
-- **Implementation**: Provides a Python-based open-source implementation, supporting integration with large language models (LLMs) and graph-based retrieval workflows.
+- **Integration with LLMs**: Proposes a lightweight, plug-and-play framework for LLMs, enabling real-time augmentation with retrieved linear subgraphs while maintaining contextual coherence and reducing computational overhead.
 
 ## Why It Matters
 

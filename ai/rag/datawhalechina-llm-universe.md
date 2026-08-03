@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-08-03T09:25:31.452069+05:30'
-published_at: '2026-08-03T03:44:43Z'
+collected_at: '2026-08-03T15:38:27.959658+05:30'
+published_at: '2026-08-03T09:37:12Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 13694
+stars: 13699
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-07-28T13:47:59Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-08-03T09:25:31.452069+05:30'
-last_seen: '2026-08-03T09:25:31.452069+05:30'
-last_checked: '2026-08-03T09:25:31.452069+05:30'
+first_seen: '2026-08-03T15:38:27.959658+05:30'
+last_seen: '2026-08-03T15:38:27.959658+05:30'
+last_checked: '2026-08-03T15:38:27.959658+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Framework**: Provides a structured tutorial for novice developers to build LLM applications, leveraging Jupyter Notebooks for hands-on learning.
-- **Technical Focus**: Integrates LangChain and RAG (Retrieval-Augmented Generation) methodologies for developing scalable and efficient LLM-based solutions.
-- **Community-Driven**: Actively maintained with 13,694 stars and 1,388 forks, indicating strong community engagement and collaborative development.
+- **Purpose**: Tutorial for beginner developers on building LLM applications, with online documentation available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
+- **Technical Stack**: Implemented in Jupyter Notebooks, focusing on LangChain and RAG (Retrieval-Augmented Generation) methodologies.
+- **Metadata**: 13,699 stars, 1,388 forks, last updated on 2026-08-03.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 13694
+- Stars: 13699
 - Forks: 1388
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-08-03T03:44:43Z
+- Last Updated: 2026-08-03T09:37:12Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
 - Pushed At: 2026-07-28T13:47:59Z

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-03T09:25:41.843542+05:30'
-collected_at: '2026-08-03T09:25:41.843554+05:30'
+published_at: '2026-08-03T15:38:38.194132+05:30'
+collected_at: '2026-08-03T15:38:38.194141+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-03T09:25:41.843554+05:30'
-last_seen: '2026-08-03T09:25:41.843554+05:30'
-last_checked: '2026-08-03T09:25:41.843554+05:30'
+first_seen: '2026-08-03T15:38:38.194141+05:30'
+last_seen: '2026-08-03T15:38:38.194141+05:30'
+last_checked: '2026-08-03T15:38:38.194141+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical) with an LLM generator, where retrieved context conditions generation to improve factuality and reduce hallucinations, with optional reranking, query rewriting, and caching layers for precision/efficiency.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional components include rerankers, query rewriters, caching, and orchestration layers to optimize precision and efficiency.
 
-- **Core Techniques**: Chunking strategies (fixed-size, semantic, structure-aware) optimize retrieval granularity; hybrid search (BM25 + vector) and cross-encoder rerankers enhance precision; iterative/multi-hop retrieval enables complex reasoning over structured or unstructured data.
+- **Chunking Strategies**: Fixed-size, overlap/stride, semantic, structure-aware, and LLM-based chunking transform documents into retrieval units; structure-aware chunking with moderate overlap is recommended as a baseline for coherence and recall.
 
-- **Operational Considerations**: Embeddings require domain fine-tuning and normalization; vector search scales via ANN indexes; context distillation and autocut manage token budgets; evaluation spans retrieval (nDCG/MRR) and generation (factuality/hallucination metrics).
+- **Hybrid Retrieval & Reranking**: Hybrid search (BM25 + vector) improves recall/precision; two-stage retrieval uses a fast first-stage retriever followed by a cross-encoder reranker on top-K candidates to enhance precision while managing latency.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:25:41.843542+05:30
+- Published: 2026-08-03T15:38:38.194132+05:30
 
 ## Related Tags
 

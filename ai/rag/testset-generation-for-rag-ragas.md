@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/latest/getstarted/rag_testset_generation/
-published_at: '2026-08-01T21:48:42.325232+05:30'
-collected_at: '2026-08-01T21:48:42.325248+05:30'
+published_at: '2026-08-03T15:42:53.739087+05:30'
+collected_at: '2026-08-03T15:42:53.739103+05:30'
 tags:
 - anthropic
 - dataset
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:testset-generation-for-rag-ragas
-first_seen: '2026-08-01T21:48:42.325248+05:30'
-last_seen: '2026-08-01T21:48:42.325248+05:30'
-last_checked: '2026-08-01T21:48:42.325248+05:30'
+first_seen: '2026-08-03T15:42:53.739103+05:30'
+last_seen: '2026-08-03T15:42:53.739103+05:30'
+last_checked: '2026-08-03T15:42:53.739103+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Testset Generation Pipeline**: Consists of two core operations: (1) **Knowledge Graph Creation** from input documents using transformations (e.g., `default_transforms`) to enrich graph nodes/relationships with LLM/embedding models, and (2) **Testset Generation** using the graph to synthesize scenarios (e.g., `SingleHopSpecificQuerySynthesizer`) with configurable query distributions (e.g., `default_query_distribution`).
+- **Testset Generation Pipeline**: Uses a two-phase process—**Knowledge Graph Creation** (with nodes/relationships from documents via `KnowledgeGraph` and `default_transforms`) and **Testset Generation** (via `TestsetGenerator` with configurable query distributions like `default_query_distribution`).
 
-- **LLM/Embedding Integration**: Supports multi-provider setups (OpenAI, AWS Bedrock, Google Cloud Vertex AI, Azure OpenAI) via `LangchainLLMWrapper`/`LangchainEmbeddingsWrapper` or `LlamaIndexLLMWrapper` for non-LangChain models, with configuration for model IDs, API keys, and deployment-specific parameters.
+- **LLM/Embedding Integration**: Supports multiple providers (OpenAI, AWS Bedrock, Google AI/Vertex, Azure) via `LangchainLLMWrapper`/`LangchainEmbeddingsWrapper` or native `LlamaIndexLLMWrapper`, requiring API keys/configs (e.g., `OPENAI_API_KEY`, `GOOGLE_API_KEY`).
 
-- **Output and Customization**: Generated testsets are exportable to Pandas DataFrames for analysis, with synthetic data generation pipelines customizable via graph transformations (e.g., `apply_transforms`) and query synthesizers (e.g., `TestsetGenerator` with `knowledge_graph` input).
+- **Output & Customization**: Generates synthetic testsets (exportable to pandas DataFrame) with adjustable parameters (e.g., `testset_size=10`), and allows saving/loading the intermediate `KnowledgeGraph` (e.g., `kg.save("knowledge_graph.json")`).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T21:48:42.325232+05:30
+- Published: 2026-08-03T15:42:53.739087+05:30
 
 ## Related Tags
 

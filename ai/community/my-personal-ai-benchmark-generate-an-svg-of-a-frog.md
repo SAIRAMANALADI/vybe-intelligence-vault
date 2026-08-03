@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:my-personal-ai-benchmark-generate-an-svg-of-a-frog
 first_seen: '2026-08-03T03:41:28.711195+05:30'
 last_seen: '2026-08-03T09:24:51.017727+05:30'
 last_checked: '2026-08-03T09:24:51.017727+05:30'
 health_score: 100
 ---
+
 
 # My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-03T09:27:21.504491+05:30'
+collected_at: '2026-08-03T15:40:18.000305+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-03T09:27:21.504491+05:30'
-last_seen: '2026-08-03T09:27:21.504491+05:30'
-last_checked: '2026-08-03T09:27:21.504491+05:30'
+first_seen: '2026-08-03T15:40:18.000305+05:30'
+last_seen: '2026-08-03T15:40:18.000305+05:30'
+last_checked: '2026-08-03T15:40:18.000305+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts code for three multimodal embedding benchmarks: VLM2Vec/MMEB (ICLR 2025), VLM2Vec-V2/MMEB-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on contrastive learning and representation learning for multimodal tasks.
+- **Codebase for VLM2Vec Series**: Hosts implementations of *VLM2Vec* (ICLR 2025), *VLM2Vec-V2* (TMLR 2026), and *MMEB-V3* (COLM 2026), focusing on multimodal embedding benchmarks (MMEB) via contrastive learning for tasks like image/video/document retrieval and RAG.
 
-- **Technical Scope**: Supports tasks including image retrieval, video retrieval, visual document retrieval, and retrieval-augmented generation (RAG), leveraging Vision-Language Models (VLMs) for embedding generation.
+- **Multimodal Benchmarking (MMEB)**: Provides standardized evaluation frameworks for visual representation learning, supporting modalities including images, videos, and documents, with metrics for retrieval and embedding quality.
 
-- **Implementation Details**: Python-based repository with 670 stars and 63 forks, last updated July 31, 2026, covering multimodal embedding benchmarks (MMEB) and advanced contrastive learning methodologies.
+- **Python-Based Toolkit**: Implements core functionalities in Python, leveraging contrastive learning for embedding generation, optimized for multimodal tasks (e.g., visual document retrieval, cross-modal alignment).
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: TIGER-AI-Lab
 - Stars: 670
-- Forks: 63
+- Forks: 64
 - Language: Python
 - Topics: benchmark, contrastive-learning, embedding, image-retrieval, mmeb, multimodal, rag, representation-learning, video-retrieval, visual-document-retrieval, vlm
 - Last Updated: 2026-07-31T06:24:04Z

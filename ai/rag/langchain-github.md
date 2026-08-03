@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-03T09:32:16.007356+05:30'
-collected_at: '2026-08-03T09:32:16.007368+05:30'
+published_at: '2026-08-03T15:44:17.681704+05:30'
+collected_at: '2026-08-03T15:44:17.681716+05:30'
 tags:
 - agents
 - anthropic
 - rag
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-03T09:32:16.007368+05:30'
-last_seen: '2026-08-03T09:32:16.007368+05:30'
-last_checked: '2026-08-03T09:32:16.007368+05:30'
+first_seen: '2026-08-03T15:44:17.681716+05:30'
+last_seen: '2026-08-03T15:44:17.681716+05:30'
+last_checked: '2026-08-03T15:44:17.681716+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide modular components and integrations for LLM application development, while LangGraph/LangGraph.js enable agent construction via graph-based workflows; Deep Agents/Deep Agents.js support hierarchical agent planning with filesystem integration.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support complex task execution via planning, subagents, and file system interactions.
 
-- **Commercial & OSS Extensions**: LangSmith offers production-grade monitoring for LLM apps; MCP Adapters bridge MCP tools with LangChain/LangGraph, and Agent Protocol standardizes framework-agnostic APIs for serving LLM agents.
+- **Commercial Platform**: LangSmith offers a production-grade environment for building, monitoring, and managing LLM applications at scale.
 
-- **Developer Tools**: `dcode` and Open SWE are terminal-based coding agents, OpenWiki generates/maintains codebase wikis, and unified documentation (via docs.langchain.com) centralizes resources for all LangChain projects.
+- **OSS Extensions/Apps**: Includes `dcode` (terminal-based coding agent), Open SWE (asynchronous coding agent), MCP Adapters (MCP tool compatibility), Agent Protocol (standardized agent APIs), and OpenWiki (CLI agent for codebase/wiki generation).
 
 ## Why It Matters
 
@@ -39,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:32:16.007356+05:30
+- Published: 2026-08-03T15:44:17.681704+05:30
 
 ## Related Tags
 
@@ -47,7 +46,6 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - rag
 - web-crawled
-- workflows
 - youtube
 
 ## Source

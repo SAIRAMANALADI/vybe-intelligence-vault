@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-08-03T09:27:56.477125+05:30'
+collected_at: '2026-08-03T15:40:53.013235+05:30'
 published_at: '2026-08-03T02:38:21Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - youtube
 stars: 11013
@@ -18,11 +17,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-06-19T14:26:15Z'
-pushed_at: '2026-07-31T10:33:16Z'
+pushed_at: '2026-08-03T09:24:42Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-08-03T09:27:56.477125+05:30'
-last_seen: '2026-08-03T09:27:56.477125+05:30'
-last_checked: '2026-08-03T09:27:56.477125+05:30'
+first_seen: '2026-08-03T15:40:53.013235+05:30'
+last_seen: '2026-08-03T15:40:53.013235+05:30'
+last_checked: '2026-08-03T15:40:53.013235+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source framework for building real-time, multi-modal conversational voice AI agents with support for video and voice interactions.
-- **Technical Stack**: Primarily implemented in Python, enabling integration with AI, real-time processing, and multi-modal capabilities.
-- **Repository Metrics**: 11,013 stars, 1,348 forks, last updated August 3, 2026.
+- **Framework Overview**: Open-source Python-based framework designed for building real-time, multi-modal conversational voice AI agents with video and voice integration capabilities.
+
+- **Core Features**: Supports real-time processing, multi-modal interactions (voice/video), and scalable agent deployment with modular architecture.
+
+- **Repository Stats**: 11,013 stars, 1,348 forks, last updated on 2026-08-03; actively maintained for AI-driven conversational applications.
 
 ## Why It Matters
 
@@ -49,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z
-- Pushed At: 2026-07-31T10:33:16Z
+- Pushed At: 2026-08-03T09:24:42Z
 
 ## Possible Use Cases
 

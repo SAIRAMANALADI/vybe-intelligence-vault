@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation Announcement**: GitHub deprecated **Gemini 2.5 Pro** and **Gemini 3 Flash** models effective July 31, 2026, as per [GitHub Changelog](https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated).
-
-- **Model-Specific Impact**: Users relying on these deprecated Gemini models will need to migrate to alternative models or workflows, as no further updates or support will be provided.
-
-- **Copilot Label Filtering**: GitHub’s changelog for **Copilot** (filtered
+- **Deprecation of Gemini Models**: GitHub announced the deprecation of `Gemini 2.5 Pro` and `Gemini 3 Flash`, effective immediately, with no further updates or support provided.
+- **Impact on Copilot**: The deprecation affects GitHub Copilot's underlying models, necessitating potential adjustments in dependent workflows or integrations.
+- **No Replacement Specified**: GitHub did not announce replacements or alternatives for the deprecated models, leaving users to adapt or seek third-party solut
 
 ## Use Cases
 

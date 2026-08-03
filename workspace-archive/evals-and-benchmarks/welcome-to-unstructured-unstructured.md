@@ -3,7 +3,7 @@ title: Welcome to Unstructured! - Unstructured
 archive_category: evals-and-benchmarks
 source_category: ai/agents
 source_url: https://docs.unstructured.io/welcome
-resource_id: blog:welcome-to-unstructured-unstructured
+resource_id: blog:welcome-to-unstructured-unstructured-e8b928ee
 local_vault_path: ai/agents/welcome-to-unstructured-unstructured.md
 quality_score: 70
 archive_score: 72

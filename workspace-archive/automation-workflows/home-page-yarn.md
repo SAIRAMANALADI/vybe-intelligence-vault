@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Workspaces**: Yarn is the first package manager designed specifically for workspaces, enabling modular project decomposition into sub-components for efficient dependency management.
-- **Stability**: Ensures reproducible installs across versions, guaranteeing consistent behavior over time.
-- **Plugins & Extensibility**: Provides a plugin system for custom workflows, allowing users to extend functionality beyond core features.
+- **Workspaces**: Yarn is the first package manager designed specifically for workspaces, enabling efficient management of multi-package projects or monorepos by splitting them into sub-components.
+
+- **Stability**: Yarn ensures reproducible and stable installations, guaranteeing that builds which work today will continue to function identically in future versions.
+
+- **Plugins & Extensibility**: Yarn provides a plugin system to extend functionality, allowing users to customize workflows and sol
 
 ## Use Cases
 

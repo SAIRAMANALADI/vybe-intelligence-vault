@@ -14,16 +14,15 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
-- [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com) (framework - USEFUL Tier)
-- [microsoft/rag-time](https://github.com/microsoft/rag-time) (benchmark - USEFUL Tier)
+- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) (framework - USEFUL Tier)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Collections · GitHub](https://github.com/collections)
-- [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
-- [microsoft/rag-time](https://github.com/microsoft/rag-time)
+- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
@@ -41,4 +40,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-03 09:43 IST*
+*Last updated: 2026-08-03 15:56 IST*

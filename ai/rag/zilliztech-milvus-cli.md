@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zilliztech/milvus_cli
-collected_at: '2026-08-01T14:11:06.820679+05:30'
+collected_at: '2026-08-03T15:44:06.966921+05:30'
 published_at: '2026-07-25T23:17:41Z'
 tags:
 - github-repo
 - python
 - rag
+- scripts
 stars: 131
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2021-12-10T08:48:38Z'
 pushed_at: '2026-06-22T03:16:56Z'
 resource_id: github:zilliztech/milvus_cli
-first_seen: '2026-08-01T14:11:06.820679+05:30'
-last_seen: '2026-08-01T14:11:06.820679+05:30'
-last_checked: '2026-08-01T14:11:06.820679+05:30'
+first_seen: '2026-08-03T15:44:06.966921+05:30'
+last_seen: '2026-08-03T15:44:06.966921+05:30'
+last_checked: '2026-08-03T15:44:06.966921+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: CLI tool for interacting with Milvus, a vector database, enabling users to manage collections, insert/search vectors, and execute administrative operations via command-line interface.
-- **Implementation**: Python-based, leveraging Milvus' official Python SDK (`pymilvus`) for API bindings and command parsing.
-- **Features**: Supports core Milvus operations (e.g., `create_collection`, `insert`, `search`) with structured argument parsing and tabular output formatting.
+- **Purpose**: Provides a command-line interface (CLI) for interacting with Milvus, a vector database, enabling users to manage collections, insert/search vectors, and execute administrative tasks via terminal commands.
+- **Implementation**: Written in Python, leveraging Milvus' official Python SDK (`pymilvus`) for backend operations, with a focus on modularity and extensibility for custom commands.
+- **Features**: Supports core Milvus operations (e.g., `create_collection`, `insert`, `search`) and includes argument parsing for CLI-based automation and scripting.
 
 ## Why It Matters
 

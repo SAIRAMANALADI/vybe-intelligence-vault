@@ -13,13 +13,14 @@ collected_at: '2026-08-03T09:24:50.886592+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: github:micro/mu
 first_seen: '2026-08-03T09:24:50.886592+05:30'
 last_seen: '2026-08-03T09:24:50.886592+05:30'
 last_checked: '2026-08-03T09:24:50.886592+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Mu – Tools for Agents
 

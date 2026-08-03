@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-03T09:26:26.400192+05:30'
+collected_at: '2026-08-03T15:39:22.883292+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-03T09:26:26.400192+05:30'
-last_seen: '2026-08-03T09:26:26.400192+05:30'
-last_checked: '2026-08-03T09:26:26.400192+05:30'
+first_seen: '2026-08-03T15:39:22.883292+05:30'
+last_seen: '2026-08-03T15:39:22.883292+05:30'
+last_checked: '2026-08-03T15:39:22.883292+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- Implements **Vietnamese-specific Retrieval-Augmented Generation (RAG)** with optimized embedding and retrieval pipelines for low-resource language efficiency.
-- Utilizes **FAISS (Facebook AI Similarity Search)** for scalable vector indexing and retrieval in Vietnamese text corpora.
-- Provides **end-to-end RAG pipeline** with Vietnamese LLMs (e.g., Vistral or PhoGPT) for enhanced contextual generation and retrieval performance.
+- Implements **Vietnamese-specific Retrieval-Augmented Generation (RAG)** pipeline with optimized embedding and retrieval for low-resource language efficiency.
+- Utilizes **FAISS (Facebook AI Similarity Search)** for vector indexing and **Vietnamese BERT-based models** (e.g., vinai/phobert) for contextual embedding generation.
+- Includes **modular architecture** with FastAPI backend, supporting dynamic document ingestion, hybrid search (semantic + keyword), and GPU-accelerated inference.
 
 ## Why It Matters
 

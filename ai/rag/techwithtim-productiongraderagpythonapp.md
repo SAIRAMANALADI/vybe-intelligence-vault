@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/ProductionGradeRAGPythonApp
-collected_at: '2026-08-03T09:27:11.428912+05:30'
+collected_at: '2026-08-03T15:40:02.983372+05:30'
 published_at: '2026-07-31T11:15:53Z'
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 stars: 77
@@ -17,9 +19,9 @@ archived: false
 created_at: '2025-09-10T15:52:23Z'
 pushed_at: '2025-09-10T15:54:33Z'
 resource_id: github:techwithtim/productiongraderagpythonapp
-first_seen: '2026-08-03T09:27:11.428912+05:30'
-last_seen: '2026-08-03T09:27:11.428912+05:30'
-last_checked: '2026-08-03T09:27:11.428912+05:30'
+first_seen: '2026-08-03T15:40:02.983372+05:30'
+last_seen: '2026-08-03T15:40:02.983372+05:30'
+last_checked: '2026-08-03T15:40:02.983372+05:30'
 health_score: 100
 ---
 
@@ -27,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `techwithtim/ProductionGradeRAGPythonApp` (77 ⭐, 49 🍴), last updated **2026-07-31**.
-- **Language**: Python-based project with no provided description or topics.
-- **URL**: [GitHub Repository](https://github.com/techwithtim/ProductionGradeRAGPythonApp).
+- **Repository**: `techwithtim/ProductionGradeRAGPythonApp` – A Python-based application for production-grade **Retrieval-Augmented Generation (RAG)** systems.
+- **Metadata**: 77 stars, 49 forks, last updated **2026-07-31T11:15:53Z**, no topics or description provided.
+- **Tech Stack**: Python-only implementation, likely leveraging frameworks like **LangChain, LlamaIndex, or Haystack** for RAG pipelines.
 
 ## Why It Matters
 

@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-03T09:26:16.418317+05:30'
+collected_at: '2026-08-03T15:39:12.930226+05:30'
 published_at: '2026-08-01T15:15:48Z'
 tags:
-- dataset
 - github-repo
 - python
 - rag
-- workflows
 stars: 370
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-03T09:26:16.418317+05:30'
-last_seen: '2026-08-03T09:26:16.418317+05:30'
-last_checked: '2026-08-03T09:26:16.418317+05:30'
+first_seen: '2026-08-03T15:39:12.930226+05:30'
+last_seen: '2026-08-03T15:39:12.930226+05:30'
+last_checked: '2026-08-03T15:39:12.930226+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for improved context augmentation in LLMs.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in LLMs.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, containerization, and GPU-accelerated inference in Python-based workflows.
+- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG system using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient inference and retrieval.
 
-- **Modular Architecture**: Provides a structured example with configurable components (retrievers, rerankers, LLMs) and example datasets, optimized for NVIDIA GPUs (e.g., TensorRT-LLM, vLLM).
+- **Python-Based Pipeline**: Provides a modular Python implementation with components for document preprocessing, retrieval (FAISS/BM25), and LLM integration (e.g., NVIDIA NeMo or other compatible models).
 
 ## Why It Matters
 

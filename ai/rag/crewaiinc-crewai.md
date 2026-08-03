@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI
-collected_at: '2026-08-03T09:29:46.617152+05:30'
-published_at: '2026-08-03T03:37:06Z'
+collected_at: '2026-08-03T15:42:43.126226+05:30'
+published_at: '2026-08-03T10:01:54Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 56529
+stars: 56550
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-10-27T03:26:59Z'
-pushed_at: '2026-08-02T22:40:22Z'
+pushed_at: '2026-08-03T06:45:39Z'
 resource_id: github:crewaiinc/crewai
-first_seen: '2026-08-03T09:29:46.617152+05:30'
-last_seen: '2026-08-03T09:29:46.617152+05:30'
-last_checked: '2026-08-03T09:29:46.617152+05:30'
+first_seen: '2026-08-03T15:42:43.126226+05:30'
+last_seen: '2026-08-03T15:42:43.126226+05:30'
+last_checked: '2026-08-03T15:42:43.126226+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Role-based Agent Orchestration**: CrewAI enables the creation and management of autonomous AI agents with distinct roles, facilitating collaborative task execution through structured role-playing and interaction protocols.
-
-- **Python Framework**: Built in Python, CrewAI leverages modern AI/ML libraries to provide a scalable, extensible foundation for deploying multi-agent systems with minimal overhead.
-
-- **Task Complexity Handling**: Designed to decompose and distribute complex tasks among specialized agents, CrewAI optimizes workflow efficiency via agent collaboration and role-specific optimizations.
+- **Orchestration Framework**: Python-based framework enabling role-playing, autonomous AI agents to collaborate via structured task delegation and role specialization.
+- **Collaborative Intelligence**: Agents operate as modular units within a "crew," dynamically assigning tasks and leveraging shared context for complex problem-solving.
+- **Integration & Scalability**: Designed for extensibility with LLMs, supports multi-agent workflows, and optimizes parallel task execution (last updated: 2026-08-03).
 
 ## Why It Matters
 
@@ -43,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 56529
-- Forks: 8044
+- Stars: 56550
+- Forks: 8046
 - Language: Python
 - Topics: agents, ai, ai-agents, aiagentframework, llms
-- Last Updated: 2026-08-03T03:37:06Z
+- Last Updated: 2026-08-03T10:01:54Z
 - License: MIT
 - Archived: No
 - Created At: 2023-10-27T03:26:59Z
-- Pushed At: 2026-08-02T22:40:22Z
+- Pushed At: 2026-08-03T06:45:39Z
 
 ## Possible Use Cases
 

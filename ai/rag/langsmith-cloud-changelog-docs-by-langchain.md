@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-03T09:31:10.713506+05:30'
-collected_at: '2026-08-03T09:31:10.713519+05:30'
+published_at: '2026-08-03T15:48:34.289665+05:30'
+collected_at: '2026-08-03T15:48:34.289684+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-03T09:31:10.713519+05:30'
-last_seen: '2026-08-03T09:31:10.713519+05:30'
-last_checked: '2026-08-03T09:31:10.713519+05:30'
+first_seen: '2026-08-03T15:48:34.289684+05:30'
+last_seen: '2026-08-03T15:48:34.289684+05:30'
+last_checked: '2026-08-03T15:48:34.289684+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for **2026-08-20**; migration required.
+- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators, with removal scheduled for 2026-08-20; migration required.
 
-- **Performance & Reliability**: Improved experiment comparison views (run tree expansion, token/cost stats from SmithDB), evaluator timeout handling, and bulk export compression (zstd default); fixed trace ingestion, OpenTelemetry span nesting, and public dataset share resolution.
+- **Enhanced Evaluators & Experiments**: New `langsmith evaluator create-llm` CLI command enables structured LLM-as-judge evaluators; experiment comparison views now reflect live dataset splits and support batch split management via interactive chips.
 
-- **Permissions & API Updates**: New `download datasets` permission enforced; `/annotation-queues//items` now supports THREAD item type and enforces 200-item batch limit; `/runs/rules/validate` supports thread evaluators; LangSmith MCP tools accept project UUIDs.
+- **Tracing & Performance**: Monthly trace limits enforced per project/user; improved OpenTelemetry trace handling (e.g., nested child spans, Vercel AI SDK compatibility); bulk export defaults to zstd compression for performance.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:31:10.713506+05:30
+- Published: 2026-08-03T15:48:34.289665+05:30
 
 ## Related Tags
 

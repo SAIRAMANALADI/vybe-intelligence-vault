@@ -15,7 +15,7 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 - [Revisiting Outage for Edge Inference Systems](https://arxiv.org/abs/2504.03686) (framework - USEFUL Tier)
 - [NEXUS: Structured Runtime Safety for Tool-Using LLM Agents](https://arxiv.org/abs/2607.19356) (framework - USEFUL Tier)
 - [ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments](https://arxiv.org/abs/2606.25207) (prompt - USEFUL Tier)
-- [Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979) (framework - USEFUL Tier)
+- [RAPiD: Reward-Guided Consistency Distillation of Diffusion Planners for Real-Time Autonomous Driving](https://arxiv.org/abs/2602.07339) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,8 +24,8 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
+- [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-08-03 09:43 IST*
+*Last updated: 2026-08-03 15:55 IST*

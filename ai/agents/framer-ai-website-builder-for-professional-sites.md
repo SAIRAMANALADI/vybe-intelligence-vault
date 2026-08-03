@@ -3,9 +3,9 @@ title: 'Framer: AI website builder for professional sites'
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://www.framer.com
-published_at: '2026-08-02T19:31:26.224393+05:30'
-collected_at: '2026-08-02T19:31:26.224407+05:30'
+source_url: https://framer.com/
+published_at: '2026-08-03T15:50:09.570177+05:30'
+collected_at: '2026-08-03T15:50:09.570191+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:framer-ai-website-builder-for-professional-sites
-first_seen: '2026-08-02T19:31:26.224407+05:30'
-last_seen: '2026-08-02T19:31:26.224407+05:30'
-last_checked: '2026-08-02T19:31:26.224407+05:30'
+first_seen: '2026-08-03T15:50:09.570191+05:30'
+last_seen: '2026-08-03T15:50:09.570191+05:30'
+last_checked: '2026-08-03T15:50:09.570191+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Native AI Design Agents**: Framer integrates real-time AI agents directly into the canvas for in-place design generation, refinement, and code execution, ensuring changes remain visible, editable, and controllable by the user.
+- **AI-Powered Design Agents**: Native canvas-integrated agents generate, refine, and edit site designs in real-time with full user control, enabling iterative design processes directly within the editor.
 
-- **Unified CMS & External AI Integration**: The platform supports agent-driven CMS management (setup, organization, updates) and seamless connectivity with external AI tools (Terminal, Codex, Cursor, Slack, GitHub PRs) for cross-platform workflow automation.
+- **Unified CMS & Code Automation**: Agents manage CMS collections, fields, and content synchronization while converting high-level prompts into functional code components and interactions, reducing manual development overhead.
 
-- **Performance-Optimized Architecture**: Framer emphasizes Core Web Vitals optimization (LCP: 1.1s, INP: 95ms, CLS: 0.01) with native support for generative design, organic UI patterns, and sustainable web practices.
+- **Multi-Platform AI Integration**: Supports external AI tools (e.g., Cursor, Claude, Codex) for cross-platform workflows, enabling actions like Slack-based copy updates, GitHub-triggered deployments, and terminal-driven CMS management.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T19:31:26.224393+05:30
+- Published: 2026-08-03T15:50:09.570177+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.framer.com
+Original source: https://framer.com/

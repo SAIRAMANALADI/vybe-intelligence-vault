@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by modeling classes/objects with essential attributes/methods, hiding unnecessary details.
-- **Encapsulation**: Bundles data (attributes) and methods (functions) within a single unit (class), restricting direct access to some components.
-- **Inheritance**: Enables hierarchical class structures where child classes inherit properties/methods from parent classes, promoting code reusability.
+- **Abstraction**: Simplifies complex systems by modeling classes/objects based on real-world entities, hiding unnecessary details while exposing essential features.
+- **Encapsulation**: Bundles data (attributes) and methods (functions) into a single unit (class), restricting direct access to some components to prevent unintended interference.
+- **Polymorphism**: Enables objects of different classes to be treated as objects of a common superclass, facilitating method overriding and dynamic metho
 
 ## Use Cases
 

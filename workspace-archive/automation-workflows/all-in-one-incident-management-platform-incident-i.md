@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, leveraging machine learning to distinguish high-impact incidents from routine notifications.
+- **AI-Powered Alert Management**: Reduces noise and minimizes unnecessary pages by leveraging AI to filter and prioritize alerts, ensuring only critical incidents reach on-call personnel.
 
-- **Dynamic on-call scheduling**: Implements intelligent, rotation-based scheduling with built-in conflict detection, ensuring optimal coverage while accounting for team availability, time zones, and skill sets.
+- **Automated Scheduling & Escalation**: Implements effortless, human-centric scheduling with intelligent escalation policies to ensure the right responders are engaged based on availability, expertise, and incident severity.
 
-- **Real-time incident trends & analytics**: Provides actionable ins
+- **Real-Time Incident Trends & Mobile Accessibility**: Provides mobile app support
 
 ## Use Cases
 

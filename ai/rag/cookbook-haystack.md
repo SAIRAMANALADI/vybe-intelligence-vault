@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-08-03T03:55:45.744806+05:30'
-collected_at: '2026-08-03T03:55:45.744819+05:30'
+published_at: '2026-08-03T15:48:08.795128+05:30'
+collected_at: '2026-08-03T15:48:08.795144+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-08-03T03:55:45.744819+05:30'
-last_seen: '2026-08-03T03:55:45.744819+05:30'
-last_checked: '2026-08-03T03:55:45.744819+05:30'
+first_seen: '2026-08-03T15:48:08.795144+05:30'
+last_seen: '2026-08-03T15:48:08.795144+05:30'
+last_checked: '2026-08-03T15:48:08.795144+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,17 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 49 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and more, with examples for advanced RAG, agents, multimodal processing, and custom tooling.
+- **Haystack Cookbook** provides 49 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, categorized by topics like Agents, RAG, Advanced Retrieval, and Multimodal processing.
 
-- **Key focus areas** include agentic workflows (e.g., cost-aware agents, GitHub PR creators), multimodal RAG, hybrid retrieval pipelines, and observability/evaluation frameworks (e.g., Arize Phoenix, RAGAS).
+- **Key Recipes Include**:
+  - Agentic workflows (e.g., Computer-Use Agent, Cost-Aware Agent, Browser Agents with MCP).
+  - Advanced RAG pipelines (e.g., Hybrid RAG with breakpoints, Query Decomposition, HyDE for retrieval).
+  - Integrations with tools like OpenStreetMap, Azure AI Search, FastEmbed, and NVIDIA NIMs for model serving.
 
-- **Technical integrations** span model serving (vLLM, NVIDIA NIMs), metadata enrichment, sparse embeddings (Qdrant/FastEmbed), and specialized tools like MCP for browser automation or OpenStreetMap-based itinerary planning.
+- **Additional Focus Areas**:
+  - Observability and evaluation (e.g., Arize Phoenix, Prometheus 2, RAGAS).
+  - Multimodal and multilingual RAG (e.g., Podcast processing, Gemma 4 multimodal chat).
+  - Customization and optimization (e.g., DSPy for prompt optimization, metadata extraction).
 
 ## Why It Matters
 
@@ -44,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T03:55:45.744806+05:30
+- Published: 2026-08-03T15:48:08.795128+05:30
 
 ## Related Tags
 

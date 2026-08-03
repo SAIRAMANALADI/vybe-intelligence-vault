@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-03T09:28:11.494620+05:30'
+collected_at: '2026-08-03T15:41:07.994282+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
+- workflows
 stars: 536
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-03T09:28:11.494620+05:30'
-last_seen: '2026-08-03T09:28:11.494620+05:30'
-last_checked: '2026-08-03T09:28:11.494620+05:30'
+first_seen: '2026-08-03T15:41:07.994282+05:30'
+last_seen: '2026-08-03T15:41:07.994282+05:30'
+last_checked: '2026-08-03T15:41:07.994282+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks (e.g., Angular, React, NestJS, Spring Boot) and platforms (Android, iOS, Flutter).
-- **Purpose**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to language/framework-specific conventions and optimize performance.
-- **Metadata**: 536 stars, 155 forks, last updated July 30, 2026. Topics include agentic AI, coding standards, and cross-platform development.
+- **Comprehensive Best Practices Repository**: Curates standardized coding practices and frameworks for AI agents across multiple languages (TypeScript, Kotlin, Go, Java, etc.) and platforms (Android, iOS, React, Angular, etc.).
+
+- **Structured Agent Skill Guidelines**: Provides framework-specific rules (e.g., NestJS, Spring Boot, Next.js) to ensure AI agents adhere to optimized development standards and maintainability.
+
+- **Active Maintenance & Community-Driven**: Last updated in 2026, with 536 stars and 155 forks, indicating ongoing contributions and adoption for cursor rules and agentic AI workflows.
 
 ## Why It Matters
 

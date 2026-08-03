@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-08-03T09:25:46.397061+05:30'
+collected_at: '2026-08-03T15:38:42.853924+05:30'
 published_at: '2026-08-03T03:41:37Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-07-31T21:07:02Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-08-03T09:25:46.397061+05:30'
-last_seen: '2026-08-03T09:25:46.397061+05:30'
-last_checked: '2026-08-03T09:25:46.397061+05:30'
+first_seen: '2026-08-03T15:38:42.853924+05:30'
+last_seen: '2026-08-03T15:38:42.853924+05:30'
+last_checked: '2026-08-03T15:38:42.853924+05:30'
 health_score: 100
 ---
 
@@ -35,8 +35,8 @@ health_score: 100
 ## Summary
 
 - **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
-- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and Python for LLM-based retrieval-augmented generation workflows.
-- **Metrics**: 28,919 stars, 3,530 forks; last updated August 3, 2026.
+- **Technical Stack**: Utilizes LangChain, LlamaIndex, OpenAI, and Python for LLM integration, retrieval augmentation, and generative AI workflows.
+- **Metrics**: 28.9K stars, 3.5K forks, last updated Aug 2026, with focus on NLP, LLMs, and retrieval-augmented generation.
 
 ## Why It Matters
 

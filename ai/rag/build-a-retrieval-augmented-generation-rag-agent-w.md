@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-08-02T19:25:09.251008+05:30'
-collected_at: '2026-08-02T19:25:09.251024+05:30'
+published_at: '2026-08-03T15:38:39.822929+05:30'
+collected_at: '2026-08-03T15:38:39.822942+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-08-02T19:25:09.251024+05:30'
-last_seen: '2026-08-02T19:25:09.251024+05:30'
-last_checked: '2026-08-02T19:25:09.251024+05:30'
+first_seen: '2026-08-03T15:38:39.822942+05:30'
+last_seen: '2026-08-03T15:38:39.822942+05:30'
+last_checked: '2026-08-03T15:38:39.822942+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Architecture**: Implements a ReAct agent with dynamic tool-calling, integrating retrieval only when needed, using NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embeddings, and NeMo Retriever Reranking Model for document prioritization).
+- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic decision-making to selectively activate retrieval pipelines (e.g., NVIDIA Nemotron models) only when additional context is required, integrating LangGraph for tool-based reasoning and retrieval chains.
 
-- **NVIDIA NIM Endpoints**: Provides high-performance inference with tool binding, structured output (Pydantic models), async operations, and enterprise reliability for deploying agentic RAG systems.
+- **Core Model Stack**: Employs **Nemotron Nano 9b V2** for response generation, **Llama 3.2 EmbedQA 1b V2** for document embeddings, and **Llama 3.2 RerankQA 1b V2** for reranking retrieved documents, all served via NVIDIA NIM for high-performance inference with tool-binding and async support.
 
-- **Modular Pipeline**: Includes models (Nemotron Nano 9b V2, Llama 3.2 EmbedQA 1b V2, Llama 3.2 RerankQA 1b V2), retrieval chain, and agent configuration, with clear system prompts for role specification, tool utilization, grounding, source citation, and conversational style.
+- **Pipeline Workflow**: Processes user prompts through embedding → vector DB search → reranking → LLM generation, with the ReAct agent autonomously determining whether to retrieve external data or respond directly based on the `SYSTEM_PROMPT` guidelines for grounding, citation, and uncertainty handling.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:25:09.251008+05:30
+- Published: 2026-08-03T15:38:39.822929+05:30
 
 ## Related Tags
 

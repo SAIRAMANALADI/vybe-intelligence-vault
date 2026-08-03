@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-03T09:27:01.489277+05:30'
+collected_at: '2026-08-03T15:39:57.952627+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-03T09:27:01.489277+05:30'
-last_seen: '2026-08-03T09:27:01.489277+05:30'
-last_checked: '2026-08-03T09:27:01.489277+05:30'
+first_seen: '2026-08-03T15:39:57.952627+05:30'
+last_seen: '2026-08-03T15:39:57.952627+05:30'
+last_checked: '2026-08-03T15:39:57.952627+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement, ensuring kernel-level visibility and control.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement, ensuring kernel-level security and performance optimization.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-based backend with TypeScript for TypeScript-based agent orchestration, integrating vector databases (e.g., FAISS, Pinecone) for scalable retrieval-augmented generation (RAG) in production environments.
+- **Enterprise-Grade RAG Pipeline**: Deploys a Retrieval-Augmented Generation (RAG) system with FastAPI backend, TypeScript frontend, and vector database integration for scalable, secure AI-driven data retrieval and processing.
 
-- **Saas-AI Governance Framework**: Provides a structured governance layer for AI workloads, combining LLM-driven decision-making with real-time security policies enforced via eBPF hooks, optimized for multi-tenant SaaS deployments.
+- **SaaS-AI Governance Framework**: Provides a structured governance model for AI agents, combining LLM orchestration with compliance and security policies, optimized for enterprise deployment.
 
 ## Why It Matters
 

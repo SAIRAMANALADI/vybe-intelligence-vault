@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-08-03T09:26:26.508312+05:30'
-published_at: '2026-08-02T01:08:22Z'
+collected_at: '2026-08-03T15:39:18.032432+05:30'
+published_at: '2026-08-03T08:51:48Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
+- models
 - rag
-stars: 1482
+- workflows
+stars: 1483
 language: Jupyter Notebook
 status: active
 license: MIT-0
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-07-21T18:46:37Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-08-03T09:26:26.508312+05:30'
-last_seen: '2026-08-03T09:26:26.508312+05:30'
-last_checked: '2026-08-03T09:26:26.508312+05:30'
+first_seen: '2026-08-03T15:39:18.032432+05:30'
+last_seen: '2026-08-03T15:39:18.032432+05:30'
+last_checked: '2026-08-03T15:39:18.032432+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides Jupyter Notebook-based technical samples for Amazon Bedrock's foundational models.
-*   Demonstrates advanced generative AI patterns including RAG, knowledge bases, and embeddings.
-*   Features LangChain integration and examples utilizing Amazon Titan models.
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) and use cases.
+- **Technical Stack**: Implemented in Jupyter Notebooks, leveraging LangChain for workflows, with support for RAG, embeddings, and knowledge bases.
+- **AWS Integration**: Demonstrates Amazon Bedrock service capabilities, including model fine-tuning, inference, and deployment workflows.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: aws-samples
-- Stars: 1482
+- Stars: 1483
 - Forks: 709
 - Language: Jupyter Notebook
 - Topics: amazon-bedrock, amazon-titan, bedrock, embeddings, generative-ai, knowledge-base, langchain, rag
-- Last Updated: 2026-08-02T01:08:22Z
+- Last Updated: 2026-08-03T08:51:48Z
 - License: MIT-0
 - Archived: No
 - Created At: 2023-07-05T18:23:34Z

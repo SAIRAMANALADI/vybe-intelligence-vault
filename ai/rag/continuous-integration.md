@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://www.martinfowler.com/articles/continuousIntegration.html
-published_at: '2026-08-01T19:32:22.511358+05:30'
-collected_at: '2026-08-01T19:32:22.511371+05:30'
+published_at: '2026-08-03T15:45:18.844837+05:30'
+collected_at: '2026-08-03T15:45:18.844849+05:30'
 tags:
 - agents
 - frontend_ui
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:continuous-integration
-first_seen: '2026-08-01T19:32:22.511371+05:30'
-last_seen: '2026-08-01T19:32:22.511371+05:30'
-last_checked: '2026-08-01T19:32:22.511371+05:30'
+first_seen: '2026-08-03T15:45:18.844849+05:30'
+last_seen: '2026-08-03T15:45:18.844849+05:30'
+last_checked: '2026-08-03T15:45:18.844849+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Principle**: Continuous Integration (CI) mandates daily integration of developer changes into a shared mainline, verified by automated builds/tests to detect integration errors early and reduce delivery risks.
+- **Core Principle**: Continuous Integration (CI) mandates daily merging of team members' changes into a shared mainline, validated via automated builds/tests to detect integration errors early and minimize delivery delays.
 
-- **Key Practices**: Automate build/test/deployment pipelines, maintain a self-testing build, fix broken builds immediately, and ensure fast feedback loops with frequent commits to a version-controlled mainline.
+- **Key Practices**: Automated self-testing builds, immediate fixes for broken builds, frequent integration (daily), and maintaining fast build cycles to enable rapid feedback and refactoring.
 
-- **Technical Benefits**: CI minimizes integration conflicts, enables rapid refactoring, and supports sustained productivity by treating integration as a non-event through high-frequency, automated validation.
+- **Environment Requirements**: Version-controlled mainline, production-like test environments, transparent visibility of integration status, and automated deployment pipelines to ensure consistent and reliable software delivery.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T19:32:22.511358+05:30
+- Published: 2026-08-03T15:45:18.844837+05:30
 
 ## Related Tags
 

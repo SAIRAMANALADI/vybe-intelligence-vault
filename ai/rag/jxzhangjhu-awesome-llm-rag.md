@@ -4,14 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-03T09:26:41.451030+05:30'
+collected_at: '2026-08-03T15:39:32.939031+05:30'
 published_at: '2026-08-01T13:42:45Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 1340
@@ -21,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-03T09:26:41.451030+05:30'
-last_seen: '2026-08-03T09:26:41.451030+05:30'
-last_checked: '2026-08-03T09:26:41.451030+05:30'
+first_seen: '2026-08-03T15:39:32.939031+05:30'
+last_seen: '2026-08-03T15:39:32.939031+05:30'
+last_checked: '2026-08-03T15:39:32.939031+05:30'
 health_score: 100
 ---
 
@@ -31,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource** focusing on advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval methods, and integration strategies.
-- **Comprehensive collection** of state-of-the-art RAG frameworks, benchmarks, and research papers to enhance LLM performance via dynamic knowledge retrieval.
-- **Actively maintained** repository (last updated Aug 2026) with categorized links to tools, datasets, and papers spanning **RAG embeddings**, **information retrieval**, and **LLM optimization**.
+- **Curated Resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced techniques and research in **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), including embeddings, retrieval methods, and integration strategies.
+
+- **Technical Scope**: Focuses on **RAG-embeddings**, **retrieval-information**, and **LLM optimization**, covering topics like vector databases, hybrid retrieval, and context augmentation for improved generation quality.
+
+- **Metadata**: Last updated **2026-08-01**, with **1340 stars** and **89 forks**, serving as a dynamic reference for cutting-edge RAG advancements.
 
 ## Why It Matters
 

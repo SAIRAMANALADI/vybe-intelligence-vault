@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Exclusion**: InPrivate browsing in Microsoft Edge prevents local storage of browsing history, cookies, site data, and form entries, limiting local tracking while allowing downloads and favorites to be saved.
-- **Session Isolation**: Browsing data (history, temporary files, cookies) is not retained on the device after closing InPrivate tabs or windows.
-- **Access Method**: InPrivate windows/tabs are initiated via **Settings and More** > **New InPrivate window** in Microsoft Edge.
+- **Data Exclusion**: InPrivate browsing in Microsoft Edge prevents local storage of browsing history, cookies, site data, and form entries, mitigating local tracking while allowing downloads and favorites to persist.
+- **Session Isolation**: Temporary internet files and cookies are discarded upon closing InPrivate tabs/windows, ensuring no residual data remains on the device.
+- **Access Method**: InPrivate windows/tabs are initiated via **Settings and More** > **New InPrivate window** in Micros
 
 ## Use Cases
 

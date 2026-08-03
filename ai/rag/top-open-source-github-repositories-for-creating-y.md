@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-08-03T09:30:06.708779+05:30'
-collected_at: '2026-08-03T09:30:06.708791+05:30'
+published_at: '2026-08-03T15:42:58.605662+05:30'
+collected_at: '2026-08-03T15:42:58.605671+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-08-03T09:30:06.708791+05:30'
-last_seen: '2026-08-03T09:30:06.708791+05:30'
-last_checked: '2026-08-03T09:30:06.708791+05:30'
+first_seen: '2026-08-03T15:42:58.605671+05:30'
+last_seen: '2026-08-03T15:42:58.605671+05:30'
+last_checked: '2026-08-03T15:42:58.605671+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-Source RAG Frameworks**: Resemble AI provides multiple open-source GitHub repositories for building Retrieval-Augmented Generation (RAG) systems, including **Cognita** (Truefoundry) for modular RAG pipelines, **Verba** (Weaviate) for user-friendly RAG applications, and **LlamaIndex** for structured data integration.
+- **Open-source RAG frameworks**: Resemble AI provides modular, open-source tools like **Cognita** (Truefoundry) for RAG pipeline orchestration, **Verba** (Weaviate) for document ingestion and retrieval, and **LlamaIndex** for structured data indexing and querying, enabling customizable RAG implementations.
 
-- **Multimodal Deepfake Detection Tools**: Resemble AI offers **Resemble Detect**, a real-time deepfake detection system for audio/video, along with **Resemble Meetings** for monitoring deepfakes in live calls and a **Chrome extension** for browser-based deepfake scanning.
+- **Multimodal deepfake detection**: Resemble AI offers **Resemble Detect** for real-time deepfake detection across audio/video, **Resemble Meetings** for live call monitoring, and **Resemble Intelligence** for contextual analysis, leveraging multimodal AI models to identify synthetic media artifacts.
 
-- **Enterprise-Grade Security Solutions**: Resemble AI provides **Resemble Identity** for voice biometric verification, **Resemble Watermarker** for media authentication, and industry-specific solutions (e.g., finance, healthcare) to combat AI-driven fraud and impersonation attacks.
+- **Security and verification tools**: Includes **Resemble Identity** for voice biometric authentication, **Resemble Watermarker** for media provenance, and a **Chrome extension** for browser-based deepfake scanning, addressing authentication, tamper-proofing, and detection in production environments.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:30:06.708779+05:30
+- Published: 2026-08-03T15:42:58.605662+05:30
 
 ## Related Tags
 

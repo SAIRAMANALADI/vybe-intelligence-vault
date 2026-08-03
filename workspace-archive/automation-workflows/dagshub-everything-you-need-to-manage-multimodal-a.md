@@ -8,7 +8,7 @@ local_vault_path: ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - dataset
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # DagsHub: Everything you need to manage multimodal AI
@@ -28,18 +28,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage tracking across public/private repositories.
-
-- **Scalable Infrastructure & Integrations**: Offers tiered plans (Individual/Team/Enterprise) with storage limits (20GB–petabyte-scale), RBAC, SSO/LDAP, and integrations for cloud storage, CI/CD/CT, and open-source ML frameworks.
-
-- **Enterpr
+- **Multimodal Data Management**: Platform supports versioning, lineage tracking, and annotation for vision, audio, and LLM datasets, with storage scaling from 20GB (Individual) to petabyte-scale (Enterprise).
+- **Experiment & Model Workflows**: Features MLflow-compatible experiment tracking, model registry, and CI/CD/CT integration, enabling reproducible pipelines and deployment to clusters or on-prem environments.
+- **Enterprise-Grade Security**: Offers RBAC (SSO/LDAP/OIDC), VPC/air-gapped dep
 
 ## Use Cases
 

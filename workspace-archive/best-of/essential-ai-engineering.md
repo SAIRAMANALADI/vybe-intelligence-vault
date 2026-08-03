@@ -8,16 +8,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [OpenAI · GitHub](https://github.com/openai)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Stainless · GitHub](https://github.com/stainless-api)
-- **Category**: `ai/resources` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`stainless-github.md`](../../ai/resources/stainless-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [google-research/t5x](https://github.com/google-research/t5x)
 - **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`google-research-t5x.md`](../../ai/resources/google-research-t5x.md)
@@ -26,6 +16,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
@@ -58,14 +53,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [OpenAI · GitHub](https://github.com/openai)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](../../ai/agents/maunappl8-openai-agents-ts-kit.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`sri-krishna-v-awesome-adk-agents.md`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-03 09:43 IST*
+*Last updated: 2026-08-03 15:56 IST*

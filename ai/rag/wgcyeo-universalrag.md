@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-03T09:27:21.480456+05:30'
+collected_at: '2026-08-03T15:40:17.940344+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
+- benchmark
+- dataset
 - github-repo
-- paper
 - python
 - rag
 stars: 174
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-03T09:27:21.480456+05:30'
-last_seen: '2026-08-03T09:27:21.480456+05:30'
-last_checked: '2026-08-03T09:27:21.480456+05:30'
+first_seen: '2026-08-03T15:40:17.940344+05:30'
+last_seen: '2026-08-03T15:40:17.940344+05:30'
+last_checked: '2026-08-03T15:40:17.940344+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence-level), leveraging unified encoders and retrievers for heterogeneous data integration.
+- **Multimodal & Multi-Granularity RAG**: UniversalRAG extends retrieval-augmented generation (RAG) to handle diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), enabling unified retrieval and generation across heterogeneous corpora.
 
-- **ACL 2026 Oral Paper**: The system introduces novel architectures for modality-agnostic retrieval and generation, optimizing cross-modal alignment and contextual relevance in large-scale corpora, as presented in the ACL 2026 conference.
+- **Modular Architecture**: Implements a flexible pipeline with modality-agnostic retrievers (e.g., dense embeddings, sparse retrieval) and modality-specific generators, leveraging cross-modal attention mechanisms for coherent fusion of retrieved evidence.
 
-- **Open-Source Implementation**: The Python-based repository provides modular components for customizable RAG pipelines, supporting integration with LLMs and multimodal encoders (e.g., CLIP, BLIP) for scalable, domain-agnostic applications.
+- **Benchmark & Evaluation**: Introduces a comprehensive benchmark suite spanning 10+ datasets to evaluate cross-modal retrieval and generation, demonstrating state-of-the-art performance in multimodal QA, summarization, and long-form generation tasks.
 
 ## Why It Matters
 

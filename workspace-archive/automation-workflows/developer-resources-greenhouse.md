@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Harvest API**: RESTful endpoint for programmatic access to Greenhouse Recruiting data (jobs, candidates, interviews) via JSON over HTTPS.
-- **Ingestion API**: Enables sourcing partners to push prospect/candidate data into Greenhouse via structured POST requests.
-- **Audit Log API**: Provides immutable event logs (e.g., user actions, API calls) for compliance and debugging via timestamped JSON records.
+- **Harvest API**: RESTful endpoint (`/api/v1/`) for CRUD operations on jobs, candidates, interviews, and related entities via JSON payloads.
+- **Webhooks (Recruiting/Onboarding)**: Real-time event notifications (e.g., candidate stage changes) via POST requests to configured URLs with HMAC-SHA256 signatures for verification.
+- **Ingestion/Assessment APIs**: Push/pull endpoints (`/api/v1/candidates`/assessments) for candidate data ingestion and third-party assessment integration with OAuth2 authe
 
 ## Use Cases
 

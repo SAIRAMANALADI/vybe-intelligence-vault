@@ -1,10 +1,10 @@
 ---
 title: deepset (deepset)
 archive_category: evals-and-benchmarks
-source_category: ai/rag
+source_category: ai/agents
 source_url: https://huggingface.co/deepset
 resource_id: blog:deepset-deepset
-local_vault_path: ai/rag/deepset-deepset.md
+local_vault_path: ai/agents/deepset-deepset.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - benchmark
-- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **AutoQuizzer** is a Hugging Face Space that automates quiz generation using LLMs, enabling interactive or automated quiz creation and evaluation.
-- The tool supports both LLM-driven quiz generation and interactive gameplay, leveraging a lightweight UI for user engagement.
-- Developed by **deepset**, it integrates with Hugging Face’s ecosystem for seamless deployment and accessibility.
+- **AutoQuizzer** automates quiz generation and evaluation using LLMs, enabling interactive Q&A sessions.
+- Supports three modes: quiz generation, human play, or LLM-based play.
+- Developed by deepset, hosted on Hugging Face Spaces with a visual interface.
 
 ## Use Cases
 
@@ -49,4 +48,4 @@ Original source URL: https://huggingface.co/deepset
 
 ## Local Vault File
 
-Path: [deepset-deepset.md](../../ai/rag/deepset-deepset.md)
+Path: [deepset-deepset.md](../../ai/agents/deepset-deepset.md)
