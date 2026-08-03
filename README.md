@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-84%2C953-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-88%2C083-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--03-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **84,953 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **88,083 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -197,8 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 84,953 files</p>
-        <p><b>Last Update:</b> 2026-08-03 04:27 IST</p>
+        <p><b>Total Vault Size:</b> 88,083 files</p>
+        <p><b>Last Update:</b> 2026-08-03 05:31 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[pandoc: Conversion between markup formats](ai/rag/pandoc-conversion-between-markup-formats.md)** • Rank: <kbd>+1463</kbd>
-- 🔼 **[Speechify · GitHub](ai/agents/speechify-github.md)** • Rank: <kbd>+59</kbd>
-- 🔼 **[Speechify-AI/tts-shims](ai/agents/speechify-ai-tts-shims.md)** • Rank: <kbd>+62</kbd>
-- 🔼 **[Speechify Inc status](ai/resources/speechify-inc-status.md)** • Rank: <kbd>+1787</kbd>
-- 🔼 **[Chrome for Developers](ai/agents/chrome-for-developers.md)** • Rank: <kbd>+1548</kbd>
+- 🔼 **[Chrome for Developers](ai/agents/chrome-for-developers.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Gemini Developer API | Gemma open models | Google AI for Developers](ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[SpeechifyInc/ai-api-examples](ai/resources/speechifyinc-ai-api-examples.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[🧑‍🍳 Cookbook | Haystack](ai/rag/cookbook-haystack.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[AI for Research | Scite](ai/rag/scite-ai-for-research.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **['Crush this lady': how eBay harassment campaign led to $56M payout](ai/community/crush-this-lady-how-ebay-harassment-campaign-led-t.md)** • Score: `103`
-- 🆕 **[My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."](ai/community/my-personal-ai-benchmark-generate-an-svg-of-a-frog.md)** • Score: `57`
-- 🆕 **[AI Mania: From Tulips to Tokens](ai/community/ai-mania-from-tulips-to-tokens.md)** • Score: `39`
-- 🆕 **[Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary](ai/community/paoloanzn-microcodex.md)** • Score: `8`
-- 🆕 **[The Programming Language Lua](ai/resources/the-programming-language-lua.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Microsoft raises Xbox prices by up to 43%](ai/community/microsoft-raises-xbox-prices-by-up-to-43.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
