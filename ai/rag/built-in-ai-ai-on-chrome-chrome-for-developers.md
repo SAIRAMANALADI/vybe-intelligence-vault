@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/ai/built-in
-published_at: '2026-08-02T21:54:31.840300+05:30'
-collected_at: '2026-08-02T21:54:31.840314+05:30'
+published_at: '2026-08-04T03:57:49.475145+05:30'
+collected_at: '2026-08-04T03:57:49.475154+05:30'
 tags:
 - hackernews
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:built-in-ai-ai-on-chrome-chrome-for-developers
-first_seen: '2026-08-02T21:54:31.840314+05:30'
-last_seen: '2026-08-02T21:54:31.840314+05:30'
-last_checked: '2026-08-02T21:54:31.840314+05:30'
+first_seen: '2026-08-04T03:57:49.475154+05:30'
+last_seen: '2026-08-04T03:57:49.475154+05:30'
+last_checked: '2026-08-04T03:57:49.475154+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Built-in AI APIs**: Chrome provides browser-managed AI models (e.g., Gemini Nano) via APIs for tasks like translation (`Translator API`), summarization (`Summarizer API`), text rewriting (`Rewriter API`), and language detection (`Language Detector API`), enabling on-device AI inference.
-- **Hybrid AI Workloads**: Developers can combine client-side built-in AI with cloud fallback (e.g., Firebase AI Logic) or polyfills (e.g., `Prompt API`/`Task API` polyfills) for broader compatibility and advanced use cases like session management or streaming LLM responses.
-- **Model Management & Best Practices**: Chrome handles model downloads, updates, and caching; guidelines include informing users of model status, optimizing performance via streaming/rendering, and adhering to UX/technical constraints (e.g., `Built-in AI do and don't`).
+- **Built-in AI APIs**: Chrome provides browser-managed foundation/expert models (e.g., Gemini Nano) via APIs for tasks like text summarization, translation, proofreading, and language detection, enabling on-device AI inference without server dependencies.
+- **Hybrid AI Workloads**: Supports client-side and cloud fallback (e.g., Firebase AI Logic) for scalable AI features, with polyfills (Prompt/Task API) ensuring cross-browser compatibility and best practices for session management, streaming, and model caching.
+- **Technical Guidance**: Includes debugging tools (e.g., Chrome-internal pages for Gemini Nano), model management (download/updates/purging), and UX considerations (e.g., informing users of model status) to optimize performance, privacy, and user experience.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T21:54:31.840300+05:30
+- Published: 2026-08-04T03:57:49.475145+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-04T01:29:26.897157+05:30'
-collected_at: '2026-08-04T01:29:26.897169+05:30'
+published_at: '2026-08-04T03:50:38.470102+05:30'
+collected_at: '2026-08-04T03:50:38.470111+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-04T01:29:26.897169+05:30'
-last_seen: '2026-08-04T01:29:26.897169+05:30'
-last_checked: '2026-08-04T01:29:26.897169+05:30'
+first_seen: '2026-08-04T03:50:38.470111+05:30'
+last_seen: '2026-08-04T03:50:38.470111+05:30'
+last_checked: '2026-08-04T03:50:38.470111+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; orchestration and caching optimize performance.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; orchestration and caching optimize performance. Hybrid retrieval (BM25 + vector) improves recall/precision by combining exact-match and semantic search.
 
-- **Chunking & Embedding Strategies**: Effective chunking balances semantic coherence (structure-aware/semantic) with retrieval efficiency (overlap/stride); domain-specific embedding fine-tuning and dimensionality optimization improve retrieval precision.
+- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, overlap, semantic, structure-aware, LLM-based) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality normalization, and modality support (multilingual/multimodal) for optimal grounding.
 
-- **Multi-Stage Retrieval & Context Optimization**: Two-stage retrieval (ANN + cross-encoder reranking) enhances precision; context distillation (LLM-based summarization) and iterative/multi-hop retrieval reduce hallucinations while managing token budgets.
+- **Advanced Techniques & Evaluation**: Multi-hop retrieval, GraphRAG, and iterative reasoning enhance complex QA; context distillation and chunk selection reduce hallucinations. Evaluation metrics span retrieval (MRR/nDCG) and generation (factuality/hallucination rate), with operational concerns like latency, cost, and safety requiring rigorous monitoring.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T01:29:26.897157+05:30
+- Published: 2026-08-04T03:50:38.470102+05:30
 
 ## Related Tags
 

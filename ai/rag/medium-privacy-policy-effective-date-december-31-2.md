@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.zendesk.com/hc/en-us/articles/360052305234
-published_at: '2026-08-03T23:01:28.897828+05:30'
-collected_at: '2026-08-03T23:01:28.897845+05:30'
+published_at: '2026-08-04T03:57:09.424621+05:30'
+collected_at: '2026-08-04T03:57:09.424634+05:30'
 tags:
 - agents
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:medium-privacy-policy-effective-date-december-31-2
-first_seen: '2026-08-03T23:01:28.897845+05:30'
-last_seen: '2026-08-03T23:01:28.897845+05:30'
-last_checked: '2026-08-03T23:01:28.897845+05:30'
+first_seen: '2026-08-04T03:57:09.424634+05:30'
+last_seen: '2026-08-04T03:57:09.424634+05:30'
+last_checked: '2026-08-04T03:57:09.424634+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Purpose**: Medium collects user interactions (e.g., page views, saves, follows) and device metadata (IP, browser type) to personalize content, enforce paywall limits, and improve services; no advertising tracking is performed. Logged-in users’ data includes username, email, and social media links, while logged-out users’ data includes reading history and IP address.
+- **Data Collection & Usage**: Medium collects user interactions (e.g., page views, saves, highlights) and device/browser metadata to personalize content, enforce paywall limits, and improve services. No third-party advertising tracking is performed; data is used solely for product functionality and abuse prevention.
 
-- **Third-Party Handling**: Medium shares minimal data with compliant processors (e.g., AWS for hosting) and payment providers (Stripe, PayPal) but does not sell user data. Embedded third-party content (e.g., YouTube, Twitter) transmits data to those services, governed by their policies. Users must explicitly consent to data sharing in legal requests.
+- **Third-Party Embeds & Data Sharing**: Embedded content (e.g., YouTube, Twitter) transmits user data to third-party hosts, governed by their policies. Medium shares minimal data with compliant processors (e.g., AWS, Google Analytics) for hosting, analytics, and payments but does not sell user data.
 
-- **EU GDPR Compliance**: Processing is based on contractual obligations (e.g., membership terms) and legitimate interests (e.g., fraud prevention). Public interactions (claps, posts) are considered manifestly public; users retain rights to access, modify, or delete data. Payment data deletion requires action via the payment provider.
+- **EU GDPR Compliance**: For EU users, Medium processes data under contractual obligations (e.g., memberships) or legitimate interests (e.g., fraud prevention). Public interactions (e.g., claps, posts) are considered manifestly public; users retain rights to access, modify, or delete data via account settings.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T23:01:28.897828+05:30
+- Published: 2026-08-04T03:57:09.424621+05:30
 
 ## Related Tags
 

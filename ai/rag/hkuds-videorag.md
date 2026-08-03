@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-04T01:30:56.425766+05:30'
+collected_at: '2026-08-04T03:52:07.893141+05:30'
 published_at: '2026-08-02T10:27:38Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
 - models
 - python
 - rag
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-04T01:30:56.425766+05:30'
-last_seen: '2026-08-04T01:30:56.425766+05:30'
-last_checked: '2026-08-04T01:30:56.425766+05:30'
+first_seen: '2026-08-04T03:52:07.893141+05:30'
+last_seen: '2026-08-04T03:52:07.893141+05:30'
+last_checked: '2026-08-04T03:52:07.893141+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 - **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long videos via multi-modal inputs (text + video frames), leveraging temporal segmentation and hierarchical retrieval for efficient long-video understanding.
 
-- **Technical Architecture**: Implements a multi-stage pipeline including video chunking, frame-level feature extraction (e.g., CLIP embeddings), and dynamic retrieval of relevant segments using vector databases (FAISS/Chroma), optimized for latency and accuracy in KDD'2026 benchmarks.
+- **Architecture**: Implements a dual-stage retrieval pipeline combining dense video frame embeddings (e.g., CLIP-based) with lightweight LLM fine-tuning, optimizing for both accuracy and computational efficiency in handling extended video contexts.
 
-- **Multi-Modal Integration**: Combines LLMs with vision encoders (e.g., ViT) to generate context-aware responses, supporting tasks like summarization, Q&A, and temporal reasoning, with Python-based tooling for end-to-end deployment and fine-tuning.
+- **Benchmarking**: Evaluated on proprietary and public datasets (e.g., ActivityNet, YouCook2), demonstrating superior performance in video QA, summarization, and temporal reasoning tasks compared to prior RAG-based and end-to-end video LLMs.
 
 ## Why It Matters
 

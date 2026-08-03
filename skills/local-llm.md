@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 348 resources matched in the intelligence vault.
+Active signals: 349 resources matched in the intelligence vault.
 Recently detected signals:
-- [LLM: A CLI utility and Python library for interacting with Large Language Models](../ai/rag/llm-a-cli-utility-and-python-library-for-interacti.md) (Source: Unknown Source) - Collected 2026-08-04
-- [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) (Source: Unknown Source) - Collected 2026-08-04
-- [continuedev/continue](../ai/agents/continuedev-continue.md) (Source: Unknown Source) - Collected 2026-08-04
-- [QuivrHQ/quivr](../ai/rag/quivrhq-quivr.md) (Source: Unknown Source) - Collected 2026-08-04
-- [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md) (Source: Unknown Source) - Collected 2026-08-04
+- [Docker Model Runner | Docker Docs](../ai/agents/docker-model-runner-docker-docs.md) (Source: Unknown Source) - Collected 2026-08-04
+- [Rost Glukhov | Personal site and technical blog](../ai/resources/rost-glukhov-personal-site-and-technical-blog.md) (Source: Unknown Source) - Collected 2026-08-04
+- [rosgluk (Rost Glukhov) · GitHub](../ai/agents/rosgluk-rost-glukhov-github.md) (Source: Unknown Source) - Collected 2026-08-04
+- [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) (Source: Unknown Source) - Collected 2026-08-04
+- [Fosowl/agenticSeek](../ai/rag/fosowl-agenticseek.md) (Source: Unknown Source) - Collected 2026-08-04
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -48,82 +48,82 @@ Recently detected signals:
 ### 4. [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md) ([GitHub](https://github.com/vndee/local-assistant-examples))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Demonstrates building a local ChatPDF application using Python, leveraging LangChain, LLMs, and Ollama for RAG (Retrieval-Augmented Generation).
+- Description: - **Purpose**: Demonstrates building a locally runnable ChatPDF application using Python, LangChain, and RAG (Retrieval-Augmented Generation) techniques.
 
 ### 5. [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md) ([GitHub](https://github.com/prometheus-eval/prometheus-eval))
 - Stars: 0
 - Language: Unknown
 - Description: - **Benchmark Scope**: BiGGen-Bench evaluates LLMs across **9 capabilities** with **77 tasks** and **765 unique instances**, using a **1-5 scoring rubric** tailored to task-specific criteria for nu...
 
-### 6. [Tencent/WeKnora](../ai/rag/tencent-weknora.md) ([GitHub](https://github.com/tencent/weknora))
+### 6. [eosphoros-ai/DB-GPT](../ai/rag/eosphoros-ai-db-gpt.md) ([GitHub](https://github.com/eosphoros-ai/db-gpt))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-Model RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with support for OpenAI, Ollama, and custom embeddings, enabling queryable knowledge bases, autonomous reaso...
+- Description: - **Purpose**: Open-source agentic AI framework enabling natural language interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for autonomous data operations.
 
 ### 7. [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) ([GitHub](https://github.com/llmware-ai/llmware))
 - Stars: 0
 - Language: Unknown
-- Description: - **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized...
+- Description: - **Unified RAG Framework**: Provides a Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines optimized for small, specialized models (e.g., ONNX, ...
 
-### 8. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
+### 8. [Tencent/WeKnora](../ai/rag/tencent-weknora.md) ([GitHub](https://github.com/tencent/weknora))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Provides a template for deploying AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities, implemented via FastAPI.
+- Description: - **Multi-functional LLM Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multimodal and multi-tenant operations.
 
 ### 9. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
-- Description: - **Educational RAG Implementation**: Provides a step-by-step JavaScript-based tutorial to build a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs, emphasizing transparenc...
+- Description: - **Educational RAG Implementation**: Provides a step-by-step, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs, emphasizing transparency by avoiding black-box a...
 
-### 10. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
+### 10. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Local LLM Integration**: Demonstrates retrieval-augmented generation (RAG) using locally deployed large language models (LLMs) via frameworks like Langchain, eliminating dependency on cloud-bas...
+- Description: - **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend.
 
-### 11. [rosgluk (Rost Glukhov) · GitHub](../ai/agents/rosgluk-rost-glukhov-github.md) ([GitHub](https://github.com/rosgluk))
+### 11. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
 - Stars: 0
 - Language: Unknown
-- Description: - **Profile Summary**: Technical Team Leader with expertise in C#, Golang, ReactJS, Flutter, Python, C++, SQL, Kubernetes, distributed/embedded systems, AI/ML, and LLMs; based in Melbourne, Australia.
+- Description: - **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local LLMs (e.g., Ollama) for offline inference, reducing dependency on cloud APIs.
 
-### 12. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
-- Stars: 0
-- Language: Unknown
-- Description: - **RAG Mastery Curriculum**: A structured 5-week program in Jupyter Notebooks covering Retrieval-Augmented Generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques ...
-
-### 13. [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) ([GitHub](https://github.com/ollama/ollama-python))
+### 12. [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) ([GitHub](https://github.com/ollama/ollama-python))
 - Stars: 0
 - Language: Unknown
 - Description: - Python client library for interacting with Ollama's local LLM service via REST API
 
-### 14. [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) ([GitHub](https://github.com/agentops-ai/agentops))
+### 13. [Fosowl/agenticSeek](../ai/rag/fosowl-agenticseek.md) ([GitHub](https://github.com/fosowl/agenticseek))
 - Stars: 0
 - Language: Unknown
-- Description: - **Python SDK** for **AI agent monitoring**, **LLM cost tracking**, **benchmarking**, and **evaluation metrics** with support for **multi-agent frameworks** (CrewAI, Agno, OpenAI Agents SDK, LangC...
+- Description: - **Fully Local LLM Agent**: Implements a local-only autonomous agent using Python, eliminating API dependencies and associated costs (e.g., no $200/month bills) by leveraging on-premise compute fo...
 
-### 15. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
+### 14. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
+- Stars: 0
+- Language: Unknown
+- Description: - **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) with modules covering indexing, vector search (HNSW, scalar/binary quantization), and hybrid sea...
+
+### 15. [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) ([GitHub](https://github.com/agentops-ai/agentops))
+- Stars: 0
+- Language: Unknown
+- Description: - **Python SDK** for AI agent monitoring, LLM cost tracking, and benchmarking, supporting frameworks like CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
+
+### 16. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
 - Stars: 0
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 16. [QuivrHQ/quivr](../ai/rag/quivrhq-quivr.md) ([GitHub](https://github.com/quivrhq/quivr))
-- Stars: 0
-- Language: Unknown
-- Description: - **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization acros...
-
 ### 17. [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md) ([GitHub](https://github.com/pathwaycom/llm-app))
 - Stars: 0
 - Language: Unknown
-- Description: - **Cloud-native templates** for **RAG (Retrieval-Augmented Generation)**, **AI pipelines**, and **enterprise search** with **real-time data synchronization** across SharePoint, Google Drive, S3, K...
+- Description: - **Cloud-native templates** for **Retrieval-Augmented Generation (RAG)**, **AI pipelines**, and **enterprise search**, supporting **real-time data synchronization** with SharePoint, Google Drive, ...
 
 ### 18. [mit-han-lab/smoothquant](../ai/rag/mit-han-lab-smoothquant.md) ([GitHub](https://github.com/mit-han-lab/smoothquant))
 - Stars: 0
 - Language: Unknown
 - Description: - **SmoothQuant**: A post-training quantization (PTQ) method for large language models (LLMs) that smooths activation outliers to enable 8-bit weight and activation quantization with minimal accura...
 
-### 19. [onyx-dot-app/onyx](../ai/rag/onyx-dot-app-onyx.md) ([GitHub](https://github.com/onyx-dot-app/onyx))
+### 19. [rosgluk (Rost Glukhov) · GitHub](../ai/agents/rosgluk-rost-glukhov-github.md) ([GitHub](https://github.com/rosgluk))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-LLM Integration**: Supports seamless interaction with any Large Language Model (LLM) via a unified API, enabling cross-model compatibility and dynamic switching between providers (e.g., O...
+- Description: - **Technical Expertise**: Specializes in C#, Go, ReactJS, Flutter, Python, C++, SQL, Kubernetes, distributed/embedded systems, and AI/ML/LLM technologies.
 
 ### 20. [NanGePlus/CrewAITest](../ai/agents/nangeplus-crewaitest.md) ([GitHub](https://github.com/nangeplus/crewaitest))
 - Stars: 0
@@ -135,15 +135,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency and understanding of core concepts like function calling, m...
 
-### 22. [huggingface/text-embeddings-inference](../ai/rag/huggingface-text-embeddings-inference.md) ([GitHub](https://github.com/huggingface/text-embeddings-inference))
-- Stars: 0
-- Language: Unknown
-- Description: - **High-performance inference engine**: Rust-based implementation optimized for low-latency, high-throughput text embedding generation, leveraging hardware acceleration (e.g., CUDA, TensorRT) for ...
-
-### 23. [continuedev/continue](../ai/agents/continuedev-continue.md) ([GitHub](https://github.com/continuedev/continue))
+### 22. [continuedev/continue](../ai/agents/continuedev-continue.md) ([GitHub](https://github.com/continuedev/continue))
 - Stars: 0
 - Language: Unknown
 - Description: - **Open-source AI coding agent**: Continue is an autonomous coding assistant built with TypeScript, enabling AI-driven code generation, debugging, and refactoring via CLI and IDE integrations.
+
+### 23. [huggingface/text-embeddings-inference](../ai/rag/huggingface-text-embeddings-inference.md) ([GitHub](https://github.com/huggingface/text-embeddings-inference))
+- Stars: 0
+- Language: Unknown
+- Description: - **High-performance inference engine**: Rust-based implementation optimized for low-latency, high-throughput text embedding generation, leveraging hardware acceleration (e.g., CUDA, TensorRT) for ...
 
 ### 24. [Bhaskar-Kurasala/AI-Arch-Hub](../ai/rag/bhaskar-kurasala-ai-arch-hub.md) ([GitHub](https://github.com/bhaskar-kurasala/ai-arch-hub))
 - Stars: 0
@@ -180,4 +180,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-08-04T01:44:41.844263+05:30.289606+05:30.900150+05:30.677254+05:30.770650+05:30.566059+05:30.094572+05:30.960521+05:30.038579+05:30.925392+05:30.628578+05:30.398286+05:30.498495+05:30.035230+05:30.503024+05:30.875695+05:30.937117+05:30.485266+05:30.117660+05:30.564664+05:30.901863+05:30.829318+05:30.191674+05:30.212574+05:30.975452+05:30.924419+05:30.472101+05:30.645620+05:30.218674+05:30.587840+05:30.056885+05:30.268350+05:30.783464+05:30.208406+05:30.378747+05:30.470023+05:30.008097+05:30.209092+05:30.764822+05:30.794150+05:30.874697+05:30.123168+05:30.590016+05:30.474549+05:30.072008+05:30.535883+05:30.854944+05:30.774037+05:30.508370+05:30.746843+05:30.284190+05:30.353776+05:30.863368+05:30.309081+05:30.974879+05:30.577410+05:30.895323+05:30.185680+05:30.568024+05:30.349026+05:30.183787+05:30.941348+05:30.401502+05:30.485745+05:30.118929+05:30.198289+05:30.778257+05:30.915176+05:30.601451+05:30.759713+05:30.239707+05:30.844355+05:30.794260+05:30.619581+05:30.854016+05:30.401384+05:30.612066+05:30.344134+05:30.236548+05:30.377713+05:30.973637+05:30.876239+05:30.091963+05:30.983238+05:30.319410+05:30.725011+05:30.829416+05:30.810784+05:30.385296+05:30.533110+05:30.496799+05:30.883476+05:30.630342+05:30.872853+05:30.179992+05:30.585961+05:30.090787+05:30.500607+05:30.289964+05:30.638312+05:30.180930+05:30.010139+05:30.946691+05:30.907244+05:30.063635+05:30.919364+05:30.670335+05:30.788692+05:30.277544+05:30.183659+05:30.405161+05:30.524351+05:30.952742+05:30.808471+05:30.221631+05:30.405691+05:30.329167+05:30.249300+05:30.450823+05:30.174840+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-08-04T04:05:46.635367+05:30.844263+05:30.289606+05:30.900150+05:30.677254+05:30.770650+05:30.566059+05:30.094572+05:30.960521+05:30.038579+05:30.925392+05:30.628578+05:30.398286+05:30.498495+05:30.035230+05:30.503024+05:30.875695+05:30.937117+05:30.485266+05:30.117660+05:30.564664+05:30.901863+05:30.829318+05:30.191674+05:30.212574+05:30.975452+05:30.924419+05:30.472101+05:30.645620+05:30.218674+05:30.587840+05:30.056885+05:30.268350+05:30.783464+05:30.208406+05:30.378747+05:30.470023+05:30.008097+05:30.209092+05:30.764822+05:30.794150+05:30.874697+05:30.123168+05:30.590016+05:30.474549+05:30.072008+05:30.535883+05:30.854944+05:30.774037+05:30.508370+05:30.746843+05:30.284190+05:30.353776+05:30.863368+05:30.309081+05:30.974879+05:30.577410+05:30.895323+05:30.185680+05:30.568024+05:30.349026+05:30.183787+05:30.941348+05:30.401502+05:30.485745+05:30.118929+05:30.198289+05:30.778257+05:30.915176+05:30.601451+05:30.759713+05:30.239707+05:30.844355+05:30.794260+05:30.619581+05:30.854016+05:30.401384+05:30.612066+05:30.344134+05:30.236548+05:30.377713+05:30.973637+05:30.876239+05:30.091963+05:30.983238+05:30.319410+05:30.725011+05:30.829416+05:30.810784+05:30.385296+05:30.533110+05:30.496799+05:30.883476+05:30.630342+05:30.872853+05:30.179992+05:30.585961+05:30.090787+05:30.500607+05:30.289964+05:30.638312+05:30.180930+05:30.010139+05:30.946691+05:30.907244+05:30.063635+05:30.919364+05:30.670335+05:30.788692+05:30.277544+05:30.183659+05:30.405161+05:30.524351+05:30.952742+05:30.808471+05:30.221631+05:30.405691+05:30.329167+05:30.249300+05:30.450823+05:30.174840+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

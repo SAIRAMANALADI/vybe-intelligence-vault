@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com
-published_at: '2026-08-04T01:36:17.252256+05:30'
-collected_at: '2026-08-04T01:36:17.252270+05:30'
+source_url: https://www.githubstatus.com/
+published_at: '2026-08-04T03:56:16.403287+05:30'
+collected_at: '2026-08-04T03:56:16.403299+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-04T01:36:17.252270+05:30'
-last_seen: '2026-08-04T01:36:17.252270+05:30'
-last_checked: '2026-08-04T01:36:17.252270+05:30'
+first_seen: '2026-08-04T03:56:16.403299+05:30'
+last_seen: '2026-08-04T03:56:16.403299+05:30'
+last_checked: '2026-08-04T03:56:16.403299+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics, incident tracking, and maintenance notifications.
-- **Copilot Incidents** (July 29–Aug 3, 2026) reported degraded performance due to upstream AI model provider failures (e.g., Fable 5, GPT-5.6 Luna, Claude Fable 5), causing intermittent errors and request failures.
-- **GitHub Actions Outage** (July 29, 2026, 14:51–15:28 UTC) caused by under-provisioned internal service leading to REST API timeouts, runner registration failures, and delayed workflow starts (~2% of workflows affected).
+- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics, incident tracking, and regional status dashboards (AU/EU/JP/US).
+- **Copilot Incidents (July-August 2026)** reported degraded performance due to upstream AI model provider failures (e.g., Fable 5, GPT-5.6 Luna, Claude Fable 5), causing elevated error rates and partial outages, resolved via provider coordination.
+- **GitHub Actions Outage (July 29, 2026)** caused by under-provisioned internal service (runner-administration) leading to 2% workflow delays; mitigated via horizontal scaling and improved monitoring/alerting.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T01:36:17.252256+05:30
+- Published: 2026-08-04T03:56:16.403287+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com
+Original source: https://www.githubstatus.com/

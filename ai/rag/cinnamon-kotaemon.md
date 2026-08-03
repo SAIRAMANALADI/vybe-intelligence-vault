@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-04T01:29:51.373074+05:30'
+collected_at: '2026-08-04T03:51:02.811946+05:30'
 published_at: '2026-08-03T13:41:34Z'
 tags:
 - github-repo
-- models
 - python
 - rag
+- workflows
 stars: 25678
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-04T01:29:51.373074+05:30'
-last_seen: '2026-08-04T01:29:51.373074+05:30'
-last_checked: '2026-08-04T01:29:51.373074+05:30'
+first_seen: '2026-08-04T03:51:02.811946+05:30'
+last_seen: '2026-08-04T03:51:02.811946+05:30'
+last_checked: '2026-08-04T03:51:02.811946+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-based chatbots, integrating document retrieval with LLM-based response generation.
-- **Python-Based**: Built in Python, leveraging modern NLP libraries (e.g., Hugging Face Transformers) for modular document processing and inference.
-- **Open-Source & Scalable**: Released under an open-source license with 25.6K+ stars, supporting custom document ingestion, retrieval pipelines, and LLM fine-tuning.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses.
+- **Python Implementation**: Built primarily in Python, utilizing modern NLP libraries (e.g., LangChain, Transformers) for document processing and retrieval.
+- **Open-Source & Scalable**: Released under an open-source license with modular design for extensibility, supporting large-scale document indexing and retrieval workflows.
 
 ## Why It Matters
 

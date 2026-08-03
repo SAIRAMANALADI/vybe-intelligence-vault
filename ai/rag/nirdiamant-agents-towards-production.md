@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-08-04T01:30:51.383731+05:30'
+collected_at: '2026-08-04T03:52:02.832824+05:30'
 published_at: '2026-08-03T13:19:44Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 21232
 language: Jupyter Notebook
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-07-31T21:07:09Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-08-04T01:30:51.383731+05:30'
-last_seen: '2026-08-04T01:30:51.383731+05:30'
-last_checked: '2026-08-04T01:30:51.383731+05:30'
+first_seen: '2026-08-04T03:52:02.832824+05:30'
+last_seen: '2026-08-04T03:52:02.832824+05:30'
+last_checked: '2026-08-04T03:52:02.832824+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end GenAI agent development**: Provides code-first tutorials covering prototype-to-production workflows for building production-grade GenAI agents, leveraging frameworks like LangGraph and MCP.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials covering the entire lifecycle of building production-grade GenAI agents, from initial prototyping to enterprise deployment.
 
-- **Comprehensive technical stack**: Integrates LLM orchestration, multi-agent systems, RAG, MLOps, and observability tools for enterprise deployment, with all examples in Jupyter Notebooks.
+- **Technical Stack & Tools**: Focuses on modern frameworks and tools including LangGraph, MCP, RAG, LLMs, and Python, with emphasis on MLOps, multi-agent systems, and observability for scalable AI agent deployment.
 
-- **Production-ready resources**: Focuses on scalability, deployment strategies, and observability for AI agents, updated as of August 2026 with 21,232 stars and 2,814 forks.
+- **Educational Resource**: Repository consists of Jupyter Notebooks, updated as of August 2026, designed to teach best practices in agentic AI, deployment strategies, and integration of generative AI components in production environments.
 
 ## Why It Matters
 

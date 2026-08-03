@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-04T01:30:16.325047+05:30'
+collected_at: '2026-08-04T03:51:27.856278+05:30'
 published_at: '2026-08-03T16:39:06Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 184
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-03T08:23:24Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-04T01:30:16.325047+05:30'
-last_seen: '2026-08-04T01:30:16.325047+05:30'
-last_checked: '2026-08-04T01:30:16.325047+05:30'
+first_seen: '2026-08-04T03:51:27.856278+05:30'
+last_seen: '2026-08-04T03:51:27.856278+05:30'
+last_checked: '2026-08-04T03:51:27.856278+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Repository compiling production-grade RAG tools, frameworks, and best practices for scalable deployment.
-- **Technical Scope**: Covers embeddings, vector databases, LLMops, and MLOps with Python-centric implementations.
-- **Updated & Active**: Last updated August 2026, with 184 stars and 46 forks, indicating community engagement.
+- **Curated Resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable RAG systems, including embeddings, vector databases, and LLM integration.
+- **Technical Scope**: Covers AI engineering, MLOps, LangChain, and LLM deployment with a focus on Python-based implementations and retrieval-augmented generation workflows.
+- **Community & Updates**: Maintained list with 184 stars, 46 forks, and last updated in August 2026, ensuring relevance for cutting-edge RAG production challenges.
 
 ## Why It Matters
 

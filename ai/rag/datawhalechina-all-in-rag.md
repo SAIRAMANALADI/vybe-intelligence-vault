@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-04T01:29:11.379054+05:30'
+collected_at: '2026-08-04T03:50:27.837913+05:30'
 published_at: '2026-08-03T17:57:58Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - meta-ai
 - models
 - python
 - rag
-- workflows
 stars: 10022
 language: Python
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-04T01:29:11.379054+05:30'
-last_seen: '2026-08-04T01:29:11.379054+05:30'
-last_checked: '2026-08-04T01:29:11.379054+05:30'
+first_seen: '2026-08-04T03:50:27.837913+05:30'
+last_seen: '2026-08-04T03:50:27.837913+05:30'
+last_checked: '2026-08-04T03:50:27.837913+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, integrating frameworks like LangChain, LlamaIndex, and deep learning models (e.g., DeepSeek, Kimi-K2) with Python.
-
-- **Multi-Technology Stack**: Demonstrates hybrid RAG pipelines using vector databases (Milvus), graph databases (Neo4j), and multimodal embeddings for advanced retrieval and generation workflows.
-
-- **Production-Ready Toolkit**: Provides hands-on examples, benchmarks, and deployment strategies for scalable RAG systems, updated with the latest advancements in LLM and embedding techniques.
+- **Comprehensive RAG Guide**: A full-stack technical manual for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation with LLMs, embedding models, and vector databases (e.g., Milvus).
+- **Toolchain Integration**: Supports frameworks like LangChain, LlamaIndex, and integrates with multimodal models (e.g., Kimi-K2), graph databases (Neo4j), and deep learning models (DeepSeek).
+- **Python-Centric**: Repository is Python-based, with last update on 2026-08-03, and includes topics like AI, embeddings, LLMs, and multimodal processing.
 
 ## Why It Matters
 

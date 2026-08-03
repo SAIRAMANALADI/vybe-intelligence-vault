@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-08-03T22:56:25.221613+05:30'
+collected_at: '2026-08-04T03:54:18.003638+05:30'
 published_at: '2026-07-23T22:24:29Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-08-03T22:56:25.221613+05:30'
-last_seen: '2026-08-03T22:56:25.221613+05:30'
-last_checked: '2026-08-03T22:56:25.221613+05:30'
+first_seen: '2026-08-04T03:54:18.003638+05:30'
+last_seen: '2026-08-04T03:54:18.003638+05:30'
+last_checked: '2026-08-04T03:54:18.003638+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI with **MCP (Model Context Protocol)** and **LangGraph** for agentic workflow orchestration, enabling modular, scalable agent systems with Python-based tooling.
+- **Architecture**: Template integrates FastAPI for backend, MCP (Model Context Protocol) for agentic orchestration, and LangGraph for workflow management, enabling modular, scalable agent systems with Python-based tooling.
 
-- **Observability & Storage**: Includes **Grafana** (visualization), **Prometheus** (metrics), **Langfuse** (tracing/LLM evaluation), and **Supabase** (PostgreSQL-compatible storage) for full-stack observability and data persistence.
+- **Observability & Deployment**: Includes Prometheus for metrics, Grafana for visualization, Langfuse for tracing/LLM observability, and Nginx for reverse proxy, with Supabase for database/storage and SQLModel for ORM.
 
-- **Deployment Stack**: Uses **Nginx** (reverse proxy), **SQLModel** (ORM), and **Compose** for containerized, production-ready deployments with pre-configured CI/CD-ready tooling.
+- **DevOps & Extensibility**: Preconfigured with LangGraph-Python for stateful workflows, Docker-ready, and optimized for rapid iteration via community-supported MCP tools, with CI/CD-ready templates.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-04T01:30:36.367043+05:30'
+collected_at: '2026-08-04T03:51:47.900902+05:30'
 published_at: '2026-08-03T02:27:54Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-04T01:30:36.367043+05:30'
-last_seen: '2026-08-04T01:30:36.367043+05:30'
-last_checked: '2026-08-04T01:30:36.367043+05:30'
+first_seen: '2026-08-04T03:51:47.900902+05:30'
+last_seen: '2026-08-04T03:51:47.900902+05:30'
+last_checked: '2026-08-04T03:51:47.900902+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset & Benchmark**: EnterpriseRAG-Bench provides a curated dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of LLM performance in enterprise contexts.
-
-- **Synthetic Data Generation**: Implements synthetic data generation techniques to create realistic enterprise document-question pairs, facilitating scalable and diverse benchmarking for RAG pipelines.
-
-- **Evaluation Metrics**: Includes specialized metrics for RAG evaluation (e.g., retrieval precision, answer correctness, and contextual relevance) to assess both retrieval and generative components in enterprise search scenarios.
+- **Purpose**: Dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary/enterprise internal documents, enabling domain-specific LLM performance assessment.
+- **Features**: Synthetic data generation for enterprise knowledge bases, with evaluation metrics for retrieval quality, semantic search accuracy, and generative AI response fidelity.
+- **Technical Scope**: Supports Python-based RAG pipelines, covering LLM evaluation, information retrieval, and semantic search in enterprise contexts.
 
 ## Why It Matters
 

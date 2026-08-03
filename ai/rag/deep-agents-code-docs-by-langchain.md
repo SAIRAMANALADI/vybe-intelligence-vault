@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-08-03T23:00:02.125624+05:30'
-collected_at: '2026-08-03T23:00:02.125637+05:30'
+published_at: '2026-08-04T03:58:18.579745+05:30'
+collected_at: '2026-08-04T03:58:18.579756+05:30'
 tags:
 - agents
 - anthropic
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-08-03T23:00:02.125637+05:30'
-last_seen: '2026-08-03T23:00:02.125637+05:30'
-last_checked: '2026-08-03T23:00:02.125637+05:30'
+first_seen: '2026-08-04T03:58:18.579756+05:30'
+last_seen: '2026-08-04T03:58:18.579756+05:30'
+last_checked: '2026-08-04T03:58:18.579756+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Agent Framework**: Open-source `dcode` coding agent built on Deep Agents SDK, supporting LLM provider/model switching, persistent memory for cross-session context, and customizable skills/approval controls for secure code execution.
+- **Modular Coding Agent**: Open-source `dcode` built on Deep Agents SDK, supporting LLM provider/model switching, persistent memory for cross-session context, customizable skills, and execution approval controls.
 
-- **Advanced Execution Features**: Supports remote sandboxes, goals/rubrics for task validation, subagents for parallel delegation, context compaction for storage efficiency, and MCP tool integration for external tool loading.
+- **Advanced Capabilities**: Features remote sandboxes, goal/rubric-based task validation, subagents for parallel delegation, context compaction, human-in-the-loop approvals, MCP tool integration, and LangSmith tracing for observability.
 
-- **Observability & Integration**: Provides LangSmith tracing for debugging, human-in-the-loop approvals, and MCP connectivity for real-time IDE/editor integration (e.g., VSCode, Claude).
+- **Deployment & Extensibility**: Installed via `curl` command, supports CLI/interactive modes, configurable via `config.toml`/env vars, and extensible via MCP for IDE/tooling integration.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T23:00:02.125624+05:30
+- Published: 2026-08-04T03:58:18.579745+05:30
 
 ## Related Tags
 

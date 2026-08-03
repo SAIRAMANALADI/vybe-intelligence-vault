@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-04T01:30:41.370597+05:30'
+collected_at: '2026-08-04T03:51:52.891668+05:30'
 published_at: '2026-07-30T15:36:09Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - hackernews
 - python
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-04T01:30:41.370597+05:30'
-last_seen: '2026-08-04T01:30:41.370597+05:30'
-last_checked: '2026-08-04T01:30:41.370597+05:30'
+first_seen: '2026-08-04T03:51:52.891668+05:30'
+last_seen: '2026-08-04T03:51:52.891668+05:30'
+last_checked: '2026-08-04T03:51:52.891668+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting external knowledge bases, causing LLMs to generate malicious or incorrect outputs while remaining undetected.
-
-- **Technical Mechanism**: Demonstrates how adversaries can inject poisoned documents into RAG pipelines, exploiting retrieval vulnerabilities to manipulate model responses, with experimental validation on multiple LLM architectures and datasets.
-
-- **Mitigation Challenges**: Highlights the difficulty of defending against such attacks due to the black-box nature of RAG systems and proposes preliminary defense strategies, including retrieval filtering and adversarial training.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting the external knowledge base to manipulate LLM outputs, demonstrated in USENIX Security 2025.
+- **Technical Mechanism**: Exploits adversarial perturbations in document embeddings or retrieval indices to steer retrieval toward attacker-controlled or misleading content, bypassing standard safety mechanisms.
+- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG architectures, showing significant degradation in response accuracy and introducing targeted misinformation while maintaining stealth.
 
 ## Why It Matters
 

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alfredodeza/azure-rag
-collected_at: '2026-08-04T01:30:01.317946+05:30'
+collected_at: '2026-08-04T03:51:12.791866+05:30'
 published_at: '2026-04-23T18:04:11Z'
 tags:
 - github-repo
+- hackernews
 - openai
 - python
 - rag
-- workflows
 stars: 53
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-26T16:03:29Z'
 pushed_at: '2024-01-03T12:16:36Z'
 resource_id: github:alfredodeza/azure-rag
-first_seen: '2026-08-04T01:30:01.317946+05:30'
-last_seen: '2026-08-04T01:30:01.317946+05:30'
-last_checked: '2026-08-04T01:30:01.317946+05:30'
+first_seen: '2026-08-04T03:51:12.791866+05:30'
+last_seen: '2026-08-04T03:51:12.791866+05:30'
+last_checked: '2026-08-04T03:51:12.791866+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline using Azure services, integrating Azure OpenAI for embeddings and vector storage with Azure Cognitive Search for retrieval.
-- **Architecture**: Leverages Python with Azure SDKs (e.g., `azure-search-documents`, `azure-ai-openai`) to orchestrate document ingestion, embedding generation, and query augmentation.
-- **Deployment**: Example includes infrastructure-as-code (IaC) or CLI-based setup for Azure resources (e.g., search index, OpenAI deployment) and sample notebooks for end-to-end RAG workflows.
+- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services, integrating document retrieval with generative AI models.
+- **Technical Stack**: Python-based solution leveraging Azure's AI/ML and storage services (e.g., Azure Cognitive Search, Azure OpenAI).
+- **Repository Status**: Last updated April 23, 2026; moderate community engagement (53 stars, 230 forks).
 
 ## Why It Matters
 

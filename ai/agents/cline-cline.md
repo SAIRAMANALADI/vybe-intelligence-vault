@@ -4,23 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cline/cline
-collected_at: '2026-08-04T01:32:56.514959+05:30'
-published_at: '2026-08-03T20:02:16Z'
+collected_at: '2026-08-04T03:54:07.961304+05:30'
+published_at: '2026-08-03T22:10:24Z'
 tags:
 - agents
 - github-repo
 - typescript
-stars: 65561
+- workflows
+stars: 65567
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-07-06T07:28:10Z'
-pushed_at: '2026-08-03T19:56:31Z'
+pushed_at: '2026-08-03T22:10:22Z'
 resource_id: github:cline/cline
-first_seen: '2026-08-04T01:32:56.514959+05:30'
-last_seen: '2026-08-04T01:32:56.514959+05:30'
-last_checked: '2026-08-04T01:32:56.514959+05:30'
+first_seen: '2026-08-04T03:54:07.961304+05:30'
+last_seen: '2026-08-04T03:54:07.961304+05:30'
+last_checked: '2026-08-04T03:54:07.961304+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Coding Agent**: Cline operates as an autonomous coding agent, functioning as an SDK, IDE extension, or CLI assistant to automate software development tasks.
-- **TypeScript Implementation**: The project is built in TypeScript, enabling cross-platform compatibility and integration with modern development environments.
-- **High Activity Metrics**: With 65,561 stars and 7,034 forks, Cline demonstrates significant community engagement and adoption in the developer ecosystem.
+- **Autonomous Coding Agent**: Cline operates as an autonomous coding agent, functioning as an SDK, IDE extension (VS Code), or CLI assistant to automate software development tasks.
+
+- **TypeScript Implementation**: The project is built entirely in TypeScript, enabling type-safe interactions and seamless integration with modern JavaScript/TypeScript tooling.
+
+- **Self-Hosted & Extensible**: Designed for self-hosting, Cline supports customization via plugins and APIs, allowing developers to extend its capabilities for specialized workflows.
 
 ## Why It Matters
 
@@ -39,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cline
-- Stars: 65561
-- Forks: 7034
+- Stars: 65567
+- Forks: 7036
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-03T20:02:16Z
+- Last Updated: 2026-08-03T22:10:24Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-07-06T07:28:10Z
-- Pushed At: 2026-08-03T19:56:31Z
+- Pushed At: 2026-08-03T22:10:22Z
 
 ## Possible Use Cases
 

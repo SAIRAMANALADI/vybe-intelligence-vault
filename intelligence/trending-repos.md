@@ -7,6 +7,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [pmndrs/triplex](https://github.com/pmndrs/triplex) | `ai-coding-agents/` | 70 |
 | [Mintlify · GitHub](https://github.com/mintlify) | `ai-coding-agents/` | 70 |
 | [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | `ai-coding-agents/` | 70 |
+| [extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at master · firebase/extensions · GitHub](https://github.com/firebase/extensions/blob/master/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md) | `ai-coding-agents/` | 70 |
 | [golf-mcp/golf](https://github.com/golf-mcp/golf) | `ai-coding-agents/` | 70 |
 | [HKUDS/OpenPhone](https://github.com/HKUDS/OpenPhone) | `ai-coding-agents/` | 70 |
 | [trycua/cua](https://github.com/trycua/cua) | `ai-coding-agents/` | 70 |
@@ -19,7 +20,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [HeJiguang/codescan](https://github.com/HeJiguang/codescan) | `ai-coding-agents/` | 70 |
 | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | `ai-coding-agents/` | 70 |
 | [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) | `ai-coding-agents/` | 70 |
-| [GitHub CLI | Take GitHub to the command line](https://cli.github.com) | `ai-coding-agents/` | 70 |
 | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | `ai-coding-agents/` | 70 |
 | [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` | 70 |
 | [abuzarmahmood/blech_github_bot](https://github.com/abuzarmahmood/blech_github_bot) | `ai-coding-agents/` | 70 |

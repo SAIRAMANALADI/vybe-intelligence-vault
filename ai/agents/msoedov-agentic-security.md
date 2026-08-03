@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-08-04T01:32:21.469783+05:30'
+collected_at: '2026-08-04T03:53:33.035960+05:30'
 published_at: '2026-08-03T18:56:51Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - hackernews
 - python
+- workflows
 stars: 1950
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-07-31T16:27:20Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-08-04T01:32:21.469783+05:30'
-last_seen: '2026-08-04T01:32:21.469783+05:30'
-last_checked: '2026-08-04T01:32:21.469783+05:30'
+first_seen: '2026-08-04T03:53:33.035960+05:30'
+last_seen: '2026-08-04T03:53:33.035960+05:30'
+last_checked: '2026-08-04T03:53:33.035960+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Open-source Python toolkit (`msoedov/agentic_security`) for automated LLM vulnerability assessment, red teaming, and jailbreak detection via agent-based fuzzing and prompt testing.
-- **Core Features**: Supports LLM security evaluation through fuzzing aggregators, guardrail testing, and vulnerability scanning for prompt injection, data exfiltration, and adversarial attacks.
-- **Technical Scope**: Integrates agent frameworks for dynamic LLM interaction, enabling systematic testing of LLMs for security flaws, adversarial robustness, and compliance with safety protocols.
+- **Purpose**: Agentic LLM Vulnerability Scanner designed for AI red teaming, evaluating LLM security, and testing for jailbreaks, prompt injections, and other LLM-specific vulnerabilities.
+- **Features**: Includes an agentic framework for LLM fuzzing, vulnerability aggregation, and guardrail testing, supporting automated prompt testing and security assessments.
+- **Technical Stack**: Python-based, integrates with agent frameworks, and supports LLM evaluation, fuzzing, and security hardening workflows.
 
 ## Why It Matters
 

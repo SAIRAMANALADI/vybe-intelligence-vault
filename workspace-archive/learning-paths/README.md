@@ -14,7 +14,7 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - USEFUL Tier)
-- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) (workflow - USEFUL Tier)
+- [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke) (tutorial - USEFUL Tier)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -22,9 +22,10 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [Collections · GitHub](https://github.com/collections)
 - [github/roadmap](https://github.com/github/roadmap)
-- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning)
+- [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+- [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs)
 
 ## Best Learning Resources
 
@@ -40,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-04 01:47 IST*
+*Last updated: 2026-08-04 04:07 IST*

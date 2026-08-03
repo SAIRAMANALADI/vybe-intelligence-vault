@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-08-04T01:35:26.144785+05:30'
+collected_at: '2026-08-04T03:54:53.041062+05:30'
 published_at: '2026-08-03T16:02:42Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2019-11-14T09:05:28Z'
 pushed_at: '2026-08-03T16:00:21Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-08-04T01:35:26.144785+05:30'
-last_seen: '2026-08-04T01:35:26.144785+05:30'
-last_checked: '2026-08-04T01:35:26.144785+05:30'
+first_seen: '2026-08-04T03:54:53.041062+05:30'
+last_seen: '2026-08-04T03:54:53.041062+05:30'
+last_checked: '2026-08-04T03:54:53.041062+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Python-based framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
+- **Modular AI Orchestration**: Haystack is an open-source Python framework designed for building production-ready LLM applications with explicit control over retrieval, routing, memory, and generation components via modular pipelines and agent workflows.
 
-- **Context-Engineered Applications**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI with explicit context engineering for enhanced performance.
+- **Multi-Use Case Support**: Enables scalable agents, RAG, multimodal applications, semantic search, and conversational systems through context-engineered pipelines optimized for generative AI and information retrieval tasks.
 
-- **Extensible & Production-Grade**: Open-source with 26.1k+ stars, designed for scalability, and integrates with MCP, multi-agent systems, and retrieval-augmented generation (RAG) workflows.
+- **Active Development & Ecosystem**: Maintained by deepset.ai with 26.1K+ stars, 2.9K+ forks, and frequent updates (last commit: 2026-08-03), supporting agentic AI, MCP, and multi-agent architectures.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-04T01:31:06.430331+05:30'
+collected_at: '2026-08-04T03:52:17.893365+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-04T01:31:06.430331+05:30'
-last_seen: '2026-08-04T01:31:06.430331+05:30'
-last_checked: '2026-08-04T01:31:06.430331+05:30'
+first_seen: '2026-08-04T03:52:17.893365+05:30'
+last_seen: '2026-08-04T03:52:17.893365+05:30'
+last_checked: '2026-08-04T03:52:17.893365+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Contents**: Hosts code for three research works: *VLM2Vec / MMEB* (ICLR 2025), *VLM2Vec-V2 / MMEB-V2* (TMLR 2026), and *MMEB-V3* (COLM 2026), focusing on multimodal embedding benchmarks (MMEB) and contrastive learning for visual-language models (VLMs).
+- **Repository Overview**: Hosts code for three research works: *VLM2Vec/MMEB* (ICLR 2025), *VLM2Vec-V2/MMEB-V2* (TMLR 2026), and *MMEB-V3* (COLM 2026), focusing on multimodal embedding benchmarks (MMEB) and visual-language models (VLM).
 
-- **Technical Scope**: Implements benchmarks and models for multimodal representation learning, including image retrieval, video retrieval, visual document retrieval, and retrieval-augmented generation (RAG) applications.
+- **Technical Scope**: Implements contrastive learning for representation learning, with applications in image retrieval, video retrieval, and visual document retrieval; supports multimodal embeddings for RAG pipelines.
 
-- **Implementation**: Pure Python-based codebase with modular components for contrastive learning, embedding evaluation, and multimodal benchmarking (MMEB).
+- **Implementation Details**: Python-based repository with benchmarks for evaluating VLMs across multimodal tasks, last updated July 31, 2026 (670 ⭐, 64 🍴).
 
 ## Why It Matters
 

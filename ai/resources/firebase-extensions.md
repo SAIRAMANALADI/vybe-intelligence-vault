@@ -1,67 +1,50 @@
 ---
-title: firebase/extensions
+title: extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at
+  master · firebase/extensions · GitHub
 category: ai/resources
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/firebase/extensions
-collected_at: '2026-07-08T01:58:43.141343+05:30'
-published_at: '2026-07-02T08:08:20Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/firebase/extensions/blob/master/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md
+published_at: '2026-08-04T04:00:15.695095+05:30'
+collected_at: '2026-08-04T04:00:15.695106+05:30'
 tags:
-- github-repo
-- typescript
-stars: 974
-language: TypeScript
+- dataset
+- reddit
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2019-08-20T01:00:45Z'
-pushed_at: '2026-07-06T20:50:31Z'
 resource_id: github:firebase/extensions
-first_seen: '2026-07-08T01:58:43.141343+05:30'
-last_seen: '2026-07-08T01:58:43.141343+05:30'
-last_checked: '2026-07-08T01:58:43.141343+05:30'
+first_seen: '2026-08-04T04:00:15.695106+05:30'
+last_seen: '2026-08-04T04:00:15.695106+05:30'
+last_checked: '2026-08-04T04:00:15.695106+05:30'
 health_score: 100
 ---
 
-# firebase/extensions
+# extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at master · firebase/extensions · GitHub
 
 ## Summary
 
-- **Repository Overview**: Official Firebase Extensions source code, implemented in TypeScript, with 974 stars and 429 forks.
-- **Maintenance Status**: Last updated on **2026-07-02T08:08:20Z**, indicating active development.
-- **Purpose**: Provides modular, pre-built Firebase functions for common backend tasks (e.g., database triggers, auth handling).
+- **Purpose & Operation**: The `fs-bq-import-collection` script imports existing Firestore documents into BigQuery's raw changelog table (created by the *Stream Firestore to BigQuery* extension) with an `IMPORT` operation and epoch timestamp, ensuring subsequent operations override import records. Supports pausing/resuming via cursor files and handles large collections via wildcard (`${users/{uid}/pets}`) or `collectionGroup` queries (set `${COLLECTION_GROUP_QUERY}=true`).
+
+- **Execution & Requirements**: Requires `${PROJECT_ID}`, `${BIGQUERY_PROJECT_ID}`, `${COLLECTION_PATH}`, `${DATASET_ID}`, and `${COLLECTION_GROUP_QUERY}` (optional). Runs via `npx @firebaseextensions/fs-bq-import-collection` with Application Default Credentials (or service account). Failed batches can be logged to a file (`-f, --failed-batch-output`) for retry.
+
+- **Post-Import & Schema Handling**: After import, use the `fs-bq-schema-views` tool to generate typed schema views (converting JSON strings to proper BigQuery columns) or optionally apply a transform function (`--transform-function-url`) to preprocess document data before BigQuery ingestion.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: firebase
-- Stars: 974
-- Forks: 429
-- Language: TypeScript
-- Topics: None
-- Last Updated: 2026-07-02T08:08:20Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2019-08-20T01:00:45Z
-- Pushed At: 2026-07-06T20:50:31Z
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-08-04T04:00:15.695095+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- dataset
+- reddit
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/firebase/extensions
+Original source: https://github.com/firebase/extensions/blob/master/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md

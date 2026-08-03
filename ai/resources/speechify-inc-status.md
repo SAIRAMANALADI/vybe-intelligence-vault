@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://status.speechify.ai
-published_at: '2026-08-03T03:55:52.607794+05:30'
-collected_at: '2026-08-03T03:55:52.607807+05:30'
+published_at: '2026-08-04T03:59:06.168595+05:30'
+collected_at: '2026-08-04T03:59:06.168608+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:speechify-inc-status
-first_seen: '2026-08-03T03:55:52.607807+05:30'
-last_seen: '2026-08-03T03:55:52.607807+05:30'
-last_checked: '2026-08-03T03:55:52.607807+05:30'
+first_seen: '2026-08-04T03:59:06.168608+05:30'
+last_seen: '2026-08-04T03:59:06.168608+05:30'
+last_checked: '2026-08-04T03:59:06.168608+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Core API Service**: 100% uptime recorded from May 6 to August 2, 2026, indicating no reported disruptions or downtime during this period.
+- **Core API Service**: 100% uptime reported over the last 90+ days, indicating zero downtime incidents during this period.
 
-- **Developer Console**: Exhibited 80.711% uptime with notable downtimes including 2h19m on May 17, 30m on May 18, and 24m on May 20, 2026, followed by prolonged outages from July 15 to August 2, 2026.
+- **Developer Console**: 79.585% uptime with multiple documented outages, including a 2h19m outage on May 17, 2026, and extended downtime (up to 1 day) from July 15–Aug 3, 2026.
 
-- **API Documentation**: Maintained 99.916% uptime with isolated incidents such as 1h14m downtime on May 13 and multiple brief outages (4-9 minutes) between May 18 and June 2, 2026.
+- **API Documentation**: 99.916% uptime with intermittent minor outages (e.g., 1h14m on May 13, 2026, and 5m on June 17, 2026).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T03:55:52.607794+05:30
+- Published: 2026-08-04T03:59:06.168595+05:30
 
 ## Related Tags
 

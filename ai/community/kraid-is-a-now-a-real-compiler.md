@@ -13,13 +13,14 @@ collected_at: '2026-08-04T01:28:35.996604+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:kraid-is-a-now-a-real-compiler
 first_seen: '2026-08-03T22:51:51.419315+05:30'
 last_seen: '2026-08-04T01:28:35.996604+05:30'
 last_checked: '2026-08-04T01:28:35.996604+05:30'
 health_score: 100
 ---
+
 
 # Kraid is a now a real compiler
 

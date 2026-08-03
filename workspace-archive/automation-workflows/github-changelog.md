@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation of Gemini Models**: GitHub deprecated **Gemini 2.5 Pro** and **Gemini 3 Flash** as of July 31, 2026, removing access to these models via GitHub's API and interfaces.
-- **Copilot Updates**: GitHub Copilot’s changelog (filtered by label) indicates ongoing updates, though specific changes are not detailed in the provided resource.
-- **Impact on Integrations**: Deprecated models may affect existing workflows relying on these Gemini variants, requiring migration to alternative models
+- **Triage Role Privilege Escalation**: GitHub's triage role now bypasses repository-level issue creation restrictions, allowing triage users to create issues even in repositories where issue creation is disabled for non-admins.
+- **Security Impact**: This change may introduce unintended issue creation permissions, potentially affecting repository access controls and workflow integrity.
+- **Implementation Scope**: Applies to all repositories where triage role is enabled, with no opt-out mechanis
 
 ## Use Cases
 

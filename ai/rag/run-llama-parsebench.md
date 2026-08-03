@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-08-04T01:32:11.505437+05:30'
+collected_at: '2026-08-04T03:53:23.004395+05:30'
 published_at: '2026-07-29T11:45:17Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-07-27T21:25:19Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-08-04T01:32:11.505437+05:30'
-last_seen: '2026-08-04T01:32:11.505437+05:30'
-last_checked: '2026-08-04T01:32:11.505437+05:30'
+first_seen: '2026-08-04T03:53:23.004395+05:30'
+last_seen: '2026-08-04T03:53:23.004395+05:30'
+last_checked: '2026-08-04T03:53:23.004395+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like OCR, PDF parsing, and table extraction, integrating with LlamaIndex and vision-language models.
-
-- **Technical Scope**: Supports evaluation of machine learning models on document-AI challenges, including layout analysis, text extraction, and structured data retrieval from unstructured documents.
-
-- **Metrics & Tools**: Provides standardized metrics and tools for comparing parsing performance, with recent updates (as of July 2026) ensuring relevance to evolving LLMs and vision-language model advancements.
+- **Purpose**: ParseBench is a benchmark suite designed to evaluate document parsing capabilities of AI agents, focusing on tasks like PDF parsing, OCR, and table extraction.
+- **Scope**: Includes evaluation metrics for vision-language models (VLMs) and machine learning pipelines, with support for LlamaIndex integration.
+- **Technical Stack**: Implemented in Python, leveraging tools for document AI, OCR, and structured data extraction from unstructured documents.
 
 ## Why It Matters
 
@@ -47,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: run-llama
 - Stars: 536
-- Forks: 77
+- Forks: 78
 - Language: Python
 - Topics: benchmark, document-ai, document-parsing, evaluation, llamaindex, llm, machine-learning, ocr, pdf-parsing, table-extraction, vision-language-models
 - Last Updated: 2026-07-29T11:45:17Z

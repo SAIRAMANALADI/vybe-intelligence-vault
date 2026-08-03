@@ -6,10 +6,10 @@ source_url: https://gradio.app/
 resource_id: blog:gradio
 local_vault_path: ai/rag/gradio.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - hackernews
 - producthunt
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Gradio 6.0** introduces enhanced UI components, including **40+ interactive elements** (e.g., `Chatbot`, `AnnotatedImage`, `Model3D`) for rapid ML app development with minimal frontend code.
+- **Gradio 6** introduces new features and improvements, including enhanced component support and performance optimizations for building machine learning web interfaces in Python.
 
-- **Permanent hosting** via **Hugging Face Spaces** enables auto-scaling, free deployment, and shareable URLs for production-ready demos.
+- **40+ UI Components** for handling diverse data types (e.g., images, audio, video, 3D models, dataframes) with minimal frontend expertise required.
 
-- **Local sharing** (`demo.launch(share=True)`) generates temporary public links for instant collaboration without complex setup.
+- **Permanent Hosting & Sharing** via Hugging Face Spaces (free, auto-scaling) or local sharing (`demo.launch(share=True)`) for rapid prototyping and collaboration.
 
 ## Use Cases
 

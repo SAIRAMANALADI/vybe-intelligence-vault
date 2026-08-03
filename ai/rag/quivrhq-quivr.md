@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-04T01:30:41.405869+05:30'
+collected_at: '2026-08-04T03:51:52.877376+05:30'
 published_at: '2026-08-03T18:17:35Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-04T01:30:41.405869+05:30'
-last_seen: '2026-08-04T01:30:41.405869+05:30'
-last_checked: '2026-08-04T01:30:41.405869+05:30'
+first_seen: '2026-08-04T03:51:52.877376+05:30'
+last_seen: '2026-08-04T03:51:52.877376+05:30'
+last_checked: '2026-08-04T03:51:52.877376+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while offering extensive customization for LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss) compatibility.
 
-- **Multi-Platform Compatibility**: Built in Python with a React-based frontend, it offers Docker support for deployment, enabling integration with existing products via API while ensuring flexibility in data storage (PostgreSQL, vector DBs) and LLM providers.
+- **Multi-Format & Multi-Store Support**: Supports arbitrary file ingestion and integration with any vector database, enabling flexible deployment across PostgreSQL, Faiss, or other stores, with Dockerized deployment for scalability and ease of setup.
 
-- **Privacy & Security Focus**: Emphasizes data privacy and security, supporting local LLM deployments and customizable configurations for enterprise-grade use cases.
+- **Full-Stack Tech Stack**: Built with Python backend, React/TypeScript frontend, and supports APIs for OpenAI/Groq LLMs, emphasizing privacy, security, and extensibility for chatbot, database, and frontend applications.
 
 ## Why It Matters
 

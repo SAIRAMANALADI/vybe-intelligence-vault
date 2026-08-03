@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-08-03T03:55:54.310057+05:30'
+collected_at: '2026-08-04T03:59:02.348549+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-08-03T03:55:54.310057+05:30'
-last_seen: '2026-08-03T03:55:54.310057+05:30'
-last_checked: '2026-08-03T03:55:54.310057+05:30'
+first_seen: '2026-08-04T03:59:02.348549+05:30'
+last_seen: '2026-08-04T03:59:02.348549+05:30'
+last_checked: '2026-08-04T03:59:02.348549+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Provider-Agnostic TTS Shim Layer**: Go-based proxy engine (`tts-shims`) that standardizes API calls from multiple TTS providers (OpenAI, ElevenLabs, Cartesia, AWS Polly, etc.) to the Speechify API, enabling unified voice-agent integration via BYOC (Bring Your Own Codec).
+- **Provider-Agnostic TTS Shim Layer**: Go-based proxy engine (`tts-shims`) translating provider-specific TTS APIs (OpenAI, ElevenLabs, Cartesia, AWS Polly, etc.) into a unified Speechify API interface, enabling BYOC (Bring Your Own Credentials) for voice-agent deployments.
 
-- **Modular Binary Architecture**: One shared Go engine with dedicated binaries per provider, ensuring minimal overhead while maintaining provider-specific compatibility for text-to-speech (TTS) synthesis.
+- **Modular Binary Architecture**: Single Go engine with per-provider binaries, ensuring minimal overhead while maintaining compatibility across 14+ TTS providers via standardized shim implementations.
 
-- **Voice-Agent Optimization**: Designed for real-time TTS in voice-agent frameworks, supporting 14+ providers with last update (2026-07-13) ensuring compatibility with evolving APIs.
+- **Real-Time Proxy & Caching**: Routes TTS requests to Speechify’s backend with optional provider-specific preprocessing, optimized for low-latency voice-agent interactions (last updated: 2026-07-13).
 
 ## Why It Matters
 

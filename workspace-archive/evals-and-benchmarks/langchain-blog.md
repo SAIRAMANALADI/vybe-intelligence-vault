@@ -6,9 +6,9 @@ source_url: https://blog.langchain.com/
 resource_id: blog:langchain-blog
 local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -16,9 +16,10 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain Blog
@@ -26,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Stripe's AI Platform Deployment**: Stripe deployed a company-wide AI agent using Deep Agents in under a week, leveraging a knowledge-based system for internal use.
+- **Stripe deployed a company-wide AI agent on Deep Agents in 1 week**, leveraging modular agent architecture for rapid integration across internal knowledge systems.
 
-- **LangSmith LLM Gateway**: Introduced runtime controls for production agents, enabling real-time monitoring and management of LLM-based systems in LangSmith.
+- **LangSmith LLM Gateway introduces runtime controls** for production agents, enabling real-time monitoring, cost optimization, and policy enforcement in agentic workflows.
 
-- **Deep Agents v0.7 Release**: Version 0.7 of Deep Agents introduced new features and optimizations for agent architecture, enhancing performance and scalability.
+- **Deep Agents v0.7 released** with enhanced modularity, improved tool integration, and expanded benchmarking frameworks for evaluating agent performance.
 
 ## Use Cases
 

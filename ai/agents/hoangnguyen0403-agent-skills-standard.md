@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-04T01:31:56.396621+05:30'
+collected_at: '2026-08-04T03:53:07.871000+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-04T01:31:56.396621+05:30'
-last_seen: '2026-08-04T01:31:56.396621+05:30'
-last_checked: '2026-08-04T01:31:56.396621+05:30'
+first_seen: '2026-08-04T03:53:07.871000+05:30'
+last_seen: '2026-08-04T03:53:07.871000+05:30'
+last_checked: '2026-08-04T03:53:07.871000+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks/languages like React, Angular, NestJS, Spring Boot, Flutter, Kotlin, and Laravel.
+- **Multi-Language Best Practices Repository**: Curates standardized coding practices and frameworks for AI agents across TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and others, ensuring consistency in agentic AI development.
 
-- **Purpose & Scope**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to optimal coding practices across mobile (iOS/Android), web (Next.js, React Native), and backend (Go, Laravel) ecosystems.
+- **Framework-Specific Guidelines**: Provides tailored best practices for React, Next.js, Angular, NestJS, Android, iOS, and other key frameworks/libraries to optimize AI agent integration and performance.
 
-- **Metadata**: 536 stars, 155 forks; last updated July 30, 2026; includes topics like `agentic-ai`, `coding-standards`, and framework-specific best practices.
+- **Active Maintenance & Community Support**: Last updated July 2026, with 536 stars and 155 forks, indicating ongoing contributions and adoption for agentic AI development standards.
 
 ## Why It Matters
 

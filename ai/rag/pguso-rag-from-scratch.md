@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-04T01:29:36.320752+05:30'
+collected_at: '2026-08-04T03:50:47.855265+05:30'
 published_at: '2026-08-01T15:12:46Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-04T01:29:36.320752+05:30'
-last_seen: '2026-08-04T01:29:36.320752+05:30'
-last_checked: '2026-08-04T01:29:36.320752+05:30'
+first_seen: '2026-08-04T03:50:47.855265+05:30'
+last_seen: '2026-08-04T03:50:47.855265+05:30'
+last_checked: '2026-08-04T03:50:47.855265+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step JavaScript-based tutorial to build a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs, emphasizing transparency and avoiding black-box models.
-
-- **Core Components**: Covers embeddings generation, vector search, retrieval mechanisms, and context-augmented generation, with a focus on practical implementation using `node-llama-cpp` and Node.js.
-
-- **Open-Source Toolkit**: Repository includes a functional RAG pipeline, chatbot integration, and modular components for agents, suitable for educational and production use cases.
+- **Educational RAG Implementation**: Provides a step-by-step, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs, emphasizing transparency by avoiding black-box abstractions.
+- **Technical Stack**: Built in JavaScript with `node-llama-cpp` for local LLM inference, covering embeddings, vector search, retrieval mechanisms, and context-augmented generation.
+- **Practical Focus**: Includes a tutorial for building RAG chatbots and agents, with a pipeline designed for hands-on learning and experimentation.
 
 ## Why It Matters
 

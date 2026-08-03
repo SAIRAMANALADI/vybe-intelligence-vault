@@ -36,8 +36,8 @@ selection_reason:
 ## Summary
 
 - **Low-level orchestration framework** for building stateful, long-running agents with fine-grained control over deterministic and LLM-driven steps in a single graph.
-- **Core capabilities** include durable execution, streaming, human-in-the-loop interaction, persistence, and comprehensive memory management.
-- **Integration with LangChain ecosystem** for observability (LangSmith), deployment (LangSmith Fleet), and higher-level abstractions (Deep Agents).
+- **Core capabilities** include durable execution, streaming, human-in-the-loop interactions, and comprehensive state persistence for fault tolerance.
+- **Ecosystem integration** with LangSmith for observability, debugging, and deployment, enabling production-grade agent systems with trace visualization and automated issue detecti
 
 ## Use Cases
 

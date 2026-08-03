@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-08-04T01:33:36.520887+05:30'
+collected_at: '2026-08-04T03:54:48.023860+05:30'
 published_at: '2026-08-03T16:32:12Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - html
 - models
 - rag
+- workflows
 stars: 7775
 language: HTML
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-08-03T09:26:14Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-08-04T01:33:36.520887+05:30'
-last_seen: '2026-08-04T01:33:36.520887+05:30'
-last_checked: '2026-08-04T01:33:36.520887+05:30'
+first_seen: '2026-08-04T03:54:48.023860+05:30'
+last_seen: '2026-08-04T03:54:48.023860+05:30'
+last_checked: '2026-08-04T03:54:48.023860+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangGraph, advanced RAG, multi-agent systems, and CrewAI, with practical tutorials and real-world applications for AI agent development.
+- **Comprehensive AI Agent Development Guide**: Repository provides an in-depth technical resource covering AI agent development, LangGraph implementation, advanced RAG (Retrieval-Augmented Generation), and multi-agent systems, with a focus on practical tutorials and real-world applications.
 
-- **Interview & Career Resources**: Includes a curated interview question database, job-hunting strategies, and guidance for transitioning into AI roles like LLM/algorithm engineer.
+- **Interview & Career Preparation Toolkit**: Includes specialized sections for algorithm engineers and LLM roles, featuring interview question databases, job-hunting strategies, and career transition guidance specifically tailored for AI/ML fields.
 
-- **Advanced Technical Topics**: Features reinforcement learning (GRPO), data synthesis, SFT (Supervised Fine-Tuning), and GraphRAG, with a focus on algorithmic and engineering depth.
+- **Advanced Technical Stack Integration**: Covers cutting-edge topics such as GraphRAG, GRPO (Group Relative Policy Optimization), SFT (Supervised Fine-Tuning), data synthesis, and reinforcement learning, with resources on CrewAI and LangChain for agentic workflows.
 
 ## Why It Matters
 

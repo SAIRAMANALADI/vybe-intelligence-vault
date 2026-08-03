@@ -4,19 +4,21 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://simbavoice.ai/contact
-published_at: '2026-08-03T03:51:56.838260+05:30'
-collected_at: '2026-08-03T03:51:56.838274+05:30'
+published_at: '2026-08-04T03:57:05.876445+05:30'
+collected_at: '2026-08-04T03:57:05.876456+05:30'
 tags:
 - agents
 - leaderboard
 - openai
 - producthunt
+- reddit
 - web-crawled
+- workflows
 status: active
 resource_id: blog:talk-to-sales-speechifyai-api
-first_seen: '2026-08-03T03:51:56.838274+05:30'
-last_seen: '2026-08-03T03:51:56.838274+05:30'
-last_checked: '2026-08-03T03:51:56.838274+05:30'
+first_seen: '2026-08-04T03:57:05.876456+05:30'
+last_seen: '2026-08-04T03:57:05.876456+05:30'
+last_checked: '2026-08-04T03:57:05.876456+05:30'
 health_score: 100
 ---
 
@@ -24,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **API Endpoints & Integration**: Provides RESTful APIs (`/v1/audio/speech`, `/v1/agents`, `/v1/voices`) for TTS, voice agents, and voice cloning with support for custom voices via reference audio (10-30s sample) and emotion control (neutral, cheerful, calm, etc.).
+- **Sales & Support Workflow**: Real-time engineer/account lead response within one business day for volume pricing, compliance reviews, and guided pilots; free tier available for parallel development.
 
-- **Pricing & Compliance**: Flat-rate pricing at **$0.07/min** for voice agents (no token math or passthrough fees), with SOC 2 Type II compliance, SSO, and volume discounts for enterprise deployments.
+- **API & Voice Agent Capabilities**: REST API endpoints (`/v1/audio/speech`, `/v1/agents`) support TTS, voice cloning (via 10-30s reference sample), emotion control (6 prosody levels), and live voice agent interactions with tool integration.
 
-- **Production Support**: Offers **Forward Deployed Engineers** for pilot integration and production deployment, enabling teams to transition from demo to live in **2-3 weeks** with minimal code changes (Python/TypeScript SDKs).
+- **Enterprise Features**: SOC 2 Type II compliance, SSO, all-in pricing ($0.07/min for voice agents), 30+ languages, 1,500+ voices, and Forward Deployed Engineers for rapid production deployment.
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-03T03:51:56.838260+05:30
+- Published: 2026-08-04T03:57:05.876445+05:30
 
 ## Related Tags
 
@@ -46,7 +48,9 @@ General public resource representing technology updates, guides, or tutorials.
 - leaderboard
 - openai
 - producthunt
+- reddit
 - web-crawled
+- workflows
 
 ## Source
 

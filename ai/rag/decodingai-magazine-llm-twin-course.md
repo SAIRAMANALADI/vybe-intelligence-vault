@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-04T01:30:16.347911+05:30'
+collected_at: '2026-08-04T03:51:27.817635+05:30'
 published_at: '2026-08-02T02:34:01Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 4380
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-04T01:30:16.347911+05:30'
-last_seen: '2026-08-04T01:30:16.347911+05:30'
-last_checked: '2026-08-04T01:30:16.347911+05:30'
+first_seen: '2026-08-04T03:51:27.817635+05:30'
+last_seen: '2026-08-04T03:51:27.817635+05:30'
+last_checked: '2026-08-04T03:51:27.817635+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end LLM & RAG system**: Course provides hands-on guidance for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
-
-- **Tech stack integration**: Leverages AWS, Pulumi (IaC), Bytewax (stream processing), Qdrant (vector DB), Comet-ML (experiment tracking), and Qwak (MLOps platform) for scalable ML system design.
-
-- **MLOps & infrastructure focus**: Covers Docker-based deployment, ML system design principles, and infrastructure-as-code (IaC) for reproducible, scalable generative AI pipelines.
+- **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
+- **Technical Stack**: Utilizes Python with AWS, Bytewax, Comet-ML, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, MLOps, and generative AI workflows.
+- **Deployment & Tools**: Includes Docker for containerization, with focus on scalable ML system design and integration of tools like Qwak for model deployment and Qdrant for vector search.
 
 ## Why It Matters
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-04T01:29:16.292921+05:30'
+collected_at: '2026-08-04T03:50:27.835072+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
-- models
 - python
 - rag
 stars: 260
@@ -22,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-04T01:29:16.292921+05:30'
-last_seen: '2026-08-04T01:29:16.292921+05:30'
-last_checked: '2026-08-04T01:29:16.292921+05:30'
+first_seen: '2026-08-04T03:50:27.835072+05:30'
+last_seen: '2026-08-04T03:50:27.835072+05:30'
+last_checked: '2026-08-04T03:50:27.835072+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Overview**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by providing annotated instances of hallucinated outputs.
-- **Technical Scope**: Focuses on Python-based implementations, likely leveraging NLP pipelines for hallucination detection and mitigation in RAG systems.
-- **Utility**: Aims to serve as a benchmark for assessing RAG model reliability, with potential applications in fine-tuning and safety validation.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by identifying and categorizing hallucinations in generated outputs.
+- **Technical Composition**: Contains Python-based tools for generating, annotating, and benchmarking hallucinations in RAG systems, leveraging synthetic and real-world data for comprehensive evaluation.
+- **Repository Details**: Last updated July 2026; includes 260 stars and 35 forks, indicating active community engagement in developing trustworthy RAG models.
 
 ## Why It Matters
 

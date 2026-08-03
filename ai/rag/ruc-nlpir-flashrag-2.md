@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-08-04T01:30:31.343799+05:30'
+collected_at: '2026-08-04T03:51:42.875847+05:30'
 published_at: '2026-08-03T11:50:09Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-07-19T10:20:30Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-08-04T01:30:31.343799+05:30'
-last_seen: '2026-08-04T01:30:31.343799+05:30'
-last_checked: '2026-08-04T01:30:31.343799+05:30'
+first_seen: '2026-08-04T03:51:42.875847+05:30'
+last_seen: '2026-08-04T03:51:42.875847+05:30'
+last_checked: '2026-08-04T03:51:42.875847+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Framework**: FlashRAG provides a Python-based toolkit optimized for rapid Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and modular design for low-latency inference and training.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
 
-- **Comprehensive Benchmarking & Datasets**: Includes standardized benchmarks, evaluation metrics, and diverse datasets (e.g., MS MARCO, NaturalQuestions) to facilitate reproducible RAG experiments across domains.
+- **Benchmark & Dataset Support**: Provides built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation components.
 
-- **Modular Architecture**: Supports plug-and-play components (retrievers, generators, rerankers) with pre-configured pipelines, enabling quick prototyping and integration with LLMs like BERT, T5, or proprietary models.
+- **Modular Architecture**: Implements a modular design for seamless integration with custom retrieval strategies, LLMs, and evaluation pipelines.
 
 ## Why It Matters
 

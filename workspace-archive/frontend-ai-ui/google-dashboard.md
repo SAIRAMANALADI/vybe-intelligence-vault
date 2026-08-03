@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Flow**: Utilizes OAuth 2.0 with passive mode (`passive=1209600`) and service login endpoint (`ServiceLogin`) for session management.
-- **Session Persistence**: Implements secure cookies (`osid=1`) and continues to `https://myaccount.google.com/intro/dashboard` post-authentication.
-- **UI Components**: Displays responsive sign-in card UI assets (e.g., `signincard_dashboard_316x112_*.png`) for cross-device compatibility.
+- **Authentication Endpoints**: Google's sign-in flow uses `https://accounts.google.com/ServiceLogin` with parameters like `passive=1209600` (session persistence) and `continue` (redirect post-authentication).
+- **Session Management**: The `myaccount.google.com` dashboard (`/intro/dashboard`) serves as the post-authentication portal for account settings and data management.
+- **UI Components**: Static assets (e.g., `signincard_dashboard_*.png`) are served from `https://www.gstatic.com/identity/b
 
 ## Use Cases
 

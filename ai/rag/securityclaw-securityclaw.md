@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-04T01:30:41.404086+05:30'
+collected_at: '2026-08-04T03:51:52.899542+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 263
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-31T20:03:39Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-04T01:30:41.404086+05:30'
-last_seen: '2026-08-04T01:30:41.404086+05:30'
-last_checked: '2026-08-04T01:30:41.404086+05:30'
+first_seen: '2026-08-04T03:51:52.899542+05:30'
+last_seen: '2026-08-04T03:51:52.899542+05:30'
+last_checked: '2026-08-04T03:51:52.899542+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Implements a skill-based autonomous SOC agent in Python, integrating OpenSearch/Elasticsearch for real-time log monitoring and anomaly detection.
-- **RAG-Based Memory & Validation**: Utilizes Retrieval-Augmented Generation (RAG) to build behavioral memory from monitored data, with LLMs validating anomalies for adaptive threat detection.
-- **Automated Threat Hunting**: Combines SOC automation, LLM-driven analysis, and threat-hunting capabilities to dynamically respond to and mitigate security incidents.
+- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for log monitoring, with modular design for extensible skill-based anomaly detection.
+- **RAG-Enhanced Memory**: Implements Retrieval-Augmented Generation (RAG) to build behavioral memory from historical data, enabling contextual anomaly validation via LLMs.
+- **Real-Time Threat Detection**: Validates anomalies in real-time using LLM-driven analysis, integrating threat hunting and automated SOC workflows for cybersecurity operations.
 
 ## Why It Matters
 

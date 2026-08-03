@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-08-04T01:38:55.493288+05:30'
-collected_at: '2026-08-04T01:38:55.493299+05:30'
+published_at: '2026-08-04T03:57:05.621634+05:30'
+collected_at: '2026-08-04T03:57:05.621644+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-08-04T01:38:55.493299+05:30'
-last_seen: '2026-08-04T01:38:55.493299+05:30'
-last_checked: '2026-08-04T01:38:55.493299+05:30'
+first_seen: '2026-08-04T03:57:05.621644+05:30'
+last_seen: '2026-08-04T03:57:05.621644+05:30'
+last_checked: '2026-08-04T03:57:05.621644+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Real-time voice agents** via Speechify API: Deploy AI agents with configurable prompts, voices, tools (backend/backendless code execution, MCP server integration, built-ins like `end_call`), and post-call LLM evaluations—all through a low-latency real-time pipeline (`POST /v1/agents/{id}/conversations` provisions sessions with short-lived tokens).
+- **Realtime Voice Agent Framework**: SpeechifyAI Agents enables low-latency, real-time voice interactions via `POST /v1/agents/{id}/conversations`, provisioning sessions with tokenized WebSocket connections for bidirectional audio, transcript persistence, and tool integration.
 
-- **No-code console workflows**: Agents can be configured entirely via the Speechify platform (prompt, voice, knowledge base, phone number assignment) with real-time preview, supporting use cases like inbound triage, outbound follow-ups, and IVR replacement.
+- **Modular Agent Definition**: Agents are configured with prompts, curated Speechify voices (excluding cloned/personal voices), tools (backend APIs, device execution, MCP servers, or built-ins like `end_call`), and post-call LLM-based evaluations with structured data extraction.
 
-- **Structured data persistence**: Conversations are logged with timestamps, tool traces, and transcripts; post-call evaluations include LLM-graded criteria and structured data extraction, with lifecycle events and results accessible via webhooks.
+- **Use Cases & Deployment**: Supports inbound/outbound support, IVR replacement, and no-code deployment via Speechify’s console; lifecycle events, transcripts, and evaluations are persisted via API/webhooks.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-04T01:38:55.493288+05:30
+- Published: 2026-08-04T03:57:05.621634+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-08-04T01:37:46.041099+05:30'
-collected_at: '2026-08-04T01:37:46.041110+05:30'
+published_at: '2026-08-04T03:57:33.441686+05:30'
+collected_at: '2026-08-04T03:57:33.441701+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-04T01:37:46.041110+05:30'
-last_seen: '2026-08-04T01:37:46.041110+05:30'
-last_checked: '2026-08-04T01:37:46.041110+05:30'
+first_seen: '2026-08-04T03:57:33.441701+05:30'
+last_seen: '2026-08-04T03:57:33.441701+05:30'
+last_checked: '2026-08-04T03:57:33.441701+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform agent-driven development**: GitHub Copilot app provides a native desktop experience for agent-driven workflows on macOS, Windows, and Linux, supporting parallel sessions with isolated workspaces for issues, PRs, and prompts, including built-in validation (diffs, terminal checks, PR merges) and automated workflows.
+- **Native agent-driven development**: GitHub Copilot app provides a desktop experience for agent-driven development, natively integrated with GitHub, supporting macOS, Windows, and Linux across all Copilot plans or custom API keys.
 
-- **Extensible agent ecosystem**: Supports native GitHub context integration, custom skills (via MCP servers/plugins), and external data connectivity, with skills and workflows syncing automatically across sessions; includes built-in design tools (e.g., Impeccable for typography/layout critiques).
+- **Isolated, parallel workflows**: Sessions are isolated workspaces for branches, files, and conversations, enabling parallel workflows with built-in validation (diffs, in-app browser previews, terminal checks) and automated workflows via scheduled tasks.
 
-- **Tiered pricing model**: Offers Free ($0, 2K completions/month), Pro ($10/user, unlimited completions + 3rd-party agents), Pro+ ($39/user, premium models + audit logs), and Max ($100/user, priority access + 2.9x usage vs. Pro+).
+- **Extensible agent ecosystem**: Supports native GitHub context, custom skills/plugins, and MCP servers for external data integration; pricing tiers range from Free ($0) to Max ($100/month), with increasing credits and premium model access.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-04T01:37:46.041099+05:30
+- Published: 2026-08-04T03:57:33.441686+05:30
 
 ## Related Tags
 

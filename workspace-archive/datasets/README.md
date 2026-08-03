@@ -8,8 +8,8 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 ## Top Matched Resources
 
+- [Hugging Face · GitHub](https://github.com/huggingface) (framework - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
-- [huggingface/hub-docs](https://github.com/huggingface/hub-docs) (dataset - ESSENTIAL Tier)
 - [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (framework - ESSENTIAL Tier)
 - [A Framework for Evaluating Agentic Skills at Scale](https://arxiv.org/abs/2606.17819) (framework - ESSENTIAL Tier)
 - [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) (framework - ESSENTIAL Tier)
@@ -20,7 +20,7 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
-- [huggingface/hub-docs](https://github.com/huggingface/hub-docs)
+- [Hugging Face · GitHub](https://github.com/huggingface)
 - [brmson/dataset-sts](https://github.com/brmson/dataset-sts)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch)
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-08-04 01:47 IST*
+*Last updated: 2026-08-04 04:07 IST*

@@ -10,7 +10,7 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) (mcp-server - ESSENTIAL Tier)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (benchmark - ESSENTIAL Tier)
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (framework - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
@@ -43,4 +43,4 @@ https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 
 ---
 
-*Last updated: 2026-08-04 01:46 IST*
+*Last updated: 2026-08-04 04:07 IST*

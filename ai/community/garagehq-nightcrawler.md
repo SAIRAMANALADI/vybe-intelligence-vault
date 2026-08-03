@@ -16,13 +16,14 @@ tags:
 - hackernews
 - rag
 - reddit
-status: active
+status: inactive
 resource_id: github:garagehq/nightcrawler
 first_seen: '2026-08-03T20:46:55.138774+05:30'
 last_seen: '2026-08-04T01:28:36.097968+05:30'
 last_checked: '2026-08-04T01:28:36.097968+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone
 

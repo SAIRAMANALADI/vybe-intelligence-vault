@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-04T01:29:36.346383+05:30'
+collected_at: '2026-08-04T03:50:47.837363+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-04T01:29:36.346383+05:30'
-last_seen: '2026-08-04T01:29:36.346383+05:30'
-last_checked: '2026-08-04T01:29:36.346383+05:30'
+first_seen: '2026-08-04T03:50:47.837363+05:30'
+last_seen: '2026-08-04T03:50:47.837363+05:30'
+last_checked: '2026-08-04T03:50:47.837363+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems leveraging vector search, LLMs, and embeddings.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and large language models (LLMs) like GPT-4 Vision.
 
-- **Agent & Tool Integration**: Demonstrates workflows integrating LangChain, LlamaIndex, and OpenAI APIs (including GPT-4 Vision) for building AI agents with vector databases (LanceDB).
+- **Tooling Integration**: Demonstrates workflows leveraging vector databases (LanceDB), frameworks (LangChain, LlamaIndex), and APIs (OpenAI) for fine-tuning, embeddings, and agent-based AI applications.
 
-- **Fine-Tuning & Optimization**: Includes tutorials on fine-tuning models, optimizing embeddings, and deploying vector search pipelines for deep learning and machine learning applications.
+- **Technical Focus**: Covers deep learning, machine learning, and vector database optimizations for scalable, multimodal AI pipelines, last updated with modern tooling (e.g., 2026-08-03).
 
 ## Why It Matters
 

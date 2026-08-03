@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-04T01:31:01.385764+05:30'
+collected_at: '2026-08-04T03:52:12.878272+05:30'
 published_at: '2026-08-03T00:45:50Z'
 tags:
-- benchmark
-- dataset
 - github-repo
+- models
 - python
 - rag
 stars: 529
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-04T01:31:01.385764+05:30'
-last_seen: '2026-08-04T01:31:01.385764+05:30'
-last_checked: '2026-08-04T01:31:01.385764+05:30'
+first_seen: '2026-08-04T03:52:12.878272+05:30'
+last_seen: '2026-08-04T03:52:12.878272+05:30'
+last_checked: '2026-08-04T03:52:12.878272+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance by reducing computational overhead.
-- **Scalability & Efficiency**: Proposes a linear-time retrieval mechanism, enabling scalable graph-based RAG on massive datasets while maintaining low latency and high throughput.
-- **ICLR 2026 Contribution**: Demonstrates empirical improvements in retrieval accuracy and generation quality over traditional RAG methods, validated on benchmark corpora.
+- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency by leveraging linear graph traversal for dynamic knowledge integration in LLMs.
+
+- **Scalability & Performance**: Demonstrates linear-time complexity for retrieval operations, enabling efficient handling of large-scale corpora while maintaining high accuracy in knowledge-augmented generation tasks.
+
+- **Hybrid Retrieval-Augmentation**: Combines graph-based retrieval with LLM fine-tuning, improving contextual relevance and reducing hallucinations in generated outputs compared to traditional RAG methods.
 
 ## Why It Matters
 
