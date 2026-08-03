@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog
-published_at: '2026-08-03T23:00:22.289394+05:30'
-collected_at: '2026-08-03T23:00:22.289409+05:30'
+published_at: '2026-08-04T01:36:12.423528+05:30'
+collected_at: '2026-08-04T01:36:12.423538+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:home-the-github-blog
-first_seen: '2026-08-03T23:00:22.289409+05:30'
-last_seen: '2026-08-03T23:00:22.289409+05:30'
-last_checked: '2026-08-03T23:00:22.289409+05:30'
+first_seen: '2026-08-04T01:36:12.423538+05:30'
+last_seen: '2026-08-04T01:36:12.423538+05:30'
+last_checked: '2026-08-04T01:36:12.423538+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Branch-free loop optimization**: Implemented a branch-free loop using byte-space arithmetic to case-fold source code, achieving >45 GiB/s throughput on a single core by eliminating pipeline stalls from conditional branches.
+- **Branch-free loop optimization**: Implemented a branch-free loop using SIMD (Single Instruction, Multiple Data) instructions to process case-folding of source code at memory speed, eliminating branch mispredictions and improving throughput.
 
-- **Memory-speed processing**: Leveraged SIMD (Single Instruction, Multiple Data) instructions and AVX-512 for parallel byte-level operations, enabling in-memory case-folding at hardware-constrained speeds without early termination.
+- **Byte-space arithmetic**: Utilized byte-space arithmetic for case conversion, enabling efficient processing of every byte in the input stream without per-character branching, achieving >45 GiB/s throughput on a single core.
 
-- **Efficient byte-space arithmetic**: Utilized lookup tables and bitwise operations to map case-folding transformations directly in byte space, reducing overhead and maximizing throughput for large-scale code search operations.
+- **Performance scaling**: Demonstrated linear scalability with input size by leveraging CPU cache locality and SIMD parallelism, ensuring consistent high-speed performance across varying workloads.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T23:00:22.289394+05:30
+- Published: 2026-08-04T01:36:12.423528+05:30
 
 ## Related Tags
 

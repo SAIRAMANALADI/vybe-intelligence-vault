@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-03T22:58:53.611119+05:30'
-collected_at: '2026-08-03T22:58:53.611135+05:30'
+published_at: '2026-08-04T01:35:47.712155+05:30'
+collected_at: '2026-08-04T01:35:47.712167+05:30'
 tags:
 - agents
 - anthropic
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-03T22:58:53.611135+05:30'
-last_seen: '2026-08-03T22:58:53.611135+05:30'
-last_checked: '2026-08-03T22:58:53.611135+05:30'
+first_seen: '2026-08-04T01:35:47.712167+05:30'
+last_seen: '2026-08-04T01:35:47.712167+05:30'
+last_checked: '2026-08-04T01:35:47.712167+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications; LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support agent planning, subagents, and file system interactions.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications; LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support planning, subagents, and file system interactions for complex tasks.
 
 - **Commercial Platform**: LangSmith offers a production-grade platform for building and monitoring LLM applications.
 
-- **OSS Extensions**: Includes `dcode` (terminal-based coding agent), Open SWE (asynchronous coding agent), MCP Adapters (MCP tool compatibility), Agent Protocol (framework-agnostic LLM agent APIs), and OpenWiki (CLI agent for codebase/wiki generation).
+- **OSS Extensions/Apps**: Includes `dcode` (terminal-based coding agent), Open SWE (asynchronous coding agent), MCP Adapters (MCP tool compatibility), Agent Protocol (framework-agnostic LLM agent APIs), and OpenWiki (CLI agent for codebase/wiki generation).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T22:58:53.611119+05:30
+- Published: 2026-08-04T01:35:47.712155+05:30
 
 ## Related Tags
 

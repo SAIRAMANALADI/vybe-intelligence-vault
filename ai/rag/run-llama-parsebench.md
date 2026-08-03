@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-08-03T22:55:30.289087+05:30'
+collected_at: '2026-08-04T01:32:11.505437+05:30'
 published_at: '2026-07-29T11:45:17Z'
 tags:
 - agents
@@ -15,7 +15,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 536
 language: Python
 status: active
@@ -24,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-07-27T21:25:19Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-08-03T22:55:30.289087+05:30'
-last_seen: '2026-08-03T22:55:30.289087+05:30'
-last_checked: '2026-08-03T22:55:30.289087+05:30'
+first_seen: '2026-08-04T01:32:11.505437+05:30'
+last_seen: '2026-08-04T01:32:11.505437+05:30'
+last_checked: '2026-08-04T01:32:11.505437+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like PDF parsing, OCR, and table extraction across diverse document types.
-- **Technical Scope**: Supports evaluation of vision-language models (VLMs), LLMs, and document-AI pipelines, with metrics for accuracy, robustness, and efficiency in structured/unstructured data extraction.
-- **Integration**: Designed for compatibility with LlamaIndex, enabling seamless benchmarking of parsing pipelines in Python-based AI agent workflows.
+- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like OCR, PDF parsing, and table extraction, integrating with LlamaIndex and vision-language models.
+
+- **Technical Scope**: Supports evaluation of machine learning models on document-AI challenges, including layout analysis, text extraction, and structured data retrieval from unstructured documents.
+
+- **Metrics & Tools**: Provides standardized metrics and tools for comparing parsing performance, with recent updates (as of July 2026) ensuring relevance to evolving LLMs and vision-language model advancements.
 
 ## Why It Matters
 

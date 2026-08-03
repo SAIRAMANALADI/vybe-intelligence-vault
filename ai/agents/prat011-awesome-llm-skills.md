@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-08-03T22:55:25.173032+05:30'
+collected_at: '2026-08-04T01:32:06.453455+05:30'
 published_at: '2026-08-02T18:19:14Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-07-14T09:53:56Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-08-03T22:55:25.173032+05:30'
-last_seen: '2026-08-03T22:55:25.173032+05:30'
-last_checked: '2026-08-03T22:55:25.173032+05:30'
+first_seen: '2026-08-04T01:32:06.453455+05:30'
+last_seen: '2026-08-04T01:32:06.453455+05:30'
+last_checked: '2026-08-04T01:32:06.453455+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Repository containing a structured list of tools, frameworks, and resources for customizing AI agent workflows, compatible with platforms like Claude Code, Codex, and Gemini CLI.
-- **Technical Scope**: Focuses on LLM (Large Language Model) and AI agent skills, including integration with Anthropic, OpenAI, Llama, Qwen, and other models/tools.
-- **Practical Utility**: Provides resources for developers to enhance AI agent capabilities via CLI tools (e.g., Codex CLI, Gemini CLI) and custom skill implementations in Python.
+- **Curated Repository**: Hosts a structured collection of LLM and AI Agent skills, tools, and resources for customizing workflows, compatible with platforms like Claude Code, Codex, and Gemini CLI.
+- **Technical Scope**: Focuses on Python-based implementations, covering Anthropic, OpenAI, Llama, Qwen, and other LLM ecosystems with CLI and agent integration tools.
+- **Metadata**: 1,431 stars, 254 forks, last updated 2026-08-02, emphasizing extensibility for custom AI agents and skill development.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/Verba
-collected_at: '2026-08-03T20:54:22.499971+05:30'
+collected_at: '2026-08-04T01:35:31.112262+05:30'
 published_at: '2026-08-02T16:00:22Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: true
 created_at: '2023-07-28T16:53:42Z'
 pushed_at: '2026-06-08T09:25:18Z'
 resource_id: github:weaviate/verba
-first_seen: '2026-08-03T20:54:22.499971+05:30'
-last_seen: '2026-08-03T20:54:22.499971+05:30'
-last_checked: '2026-08-03T20:54:22.499971+05:30'
+first_seen: '2026-08-04T01:35:31.112262+05:30'
+last_seen: '2026-08-04T01:35:31.112262+05:30'
+last_checked: '2026-08-04T01:35:31.112262+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Weaviate-based chatbot leveraging Retrieval Augmented Generation (RAG) for dynamic, context-aware responses by integrating retrieval and generation models.
+- **RAG Implementation**: Verba is a Retrieval Augmented Generation (RAG) chatbot leveraging Weaviate as its vector database and retrieval engine, enabling contextual question answering with generative AI models.
 
-- **Python Framework**: Built in Python, utilizing Weaviate's vector search and storage capabilities for efficient document retrieval and semantic querying.
+- **Python-Based Architecture**: The project is fully implemented in Python, utilizing Weaviate’s Python client (`weaviate-client`) for vector search and integration with generative models (e.g., LLMs) for response synthesis.
 
-- **Scalable Architecture**: Designed for modularity, enabling integration with custom LLMs, embeddings, and Weaviate configurations for scalable RAG deployments.
+- **Modular Design**: Supports customizable pipelines for document ingestion, embedding generation (via transformers or APIs), retrieval, and response generation, with extensible components for scalability and adaptability.
 
 ## Why It Matters
 

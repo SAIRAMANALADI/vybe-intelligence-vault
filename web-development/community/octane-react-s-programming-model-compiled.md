@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:octane-react-s-programming-model-compiled
 first_seen: '2026-08-03T15:36:55.491519+05:30'
 last_seen: '2026-08-03T22:51:51.717534+05:30'
 last_checked: '2026-08-03T22:51:51.717534+05:30'
 health_score: 100
 ---
+
 
 # Octane – React’s programming model, compiled
 

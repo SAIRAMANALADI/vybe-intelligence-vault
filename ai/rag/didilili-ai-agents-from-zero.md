@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-08-03T22:54:40.127568+05:30'
+collected_at: '2026-08-04T01:31:21.406977+05:30'
 published_at: '2026-08-03T16:36:56Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - models
 - python
 - rag
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-08-03T22:54:40.127568+05:30'
-last_seen: '2026-08-03T22:54:40.127568+05:30'
-last_checked: '2026-08-03T22:54:40.127568+05:30'
+first_seen: '2026-08-04T01:31:21.406977+05:30'
+last_seen: '2026-08-04T01:31:21.406977+05:30'
+last_checked: '2026-08-04T01:31:21.406977+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, with a focus on enterprise-level deployment, fine-tuning, and real-world project implementation.
-
-- **Multi-Faceted Repository**: Includes hands-on projects, interview question banks, and end-to-end workflows from learning to deployment, targeting roles like "大模型应用开发工程师."
-
-- **Technical Stack & Tools**: Integrates Python-based frameworks (e.g., LangChain, LangGraph) with enterprise tools (e.g., Coze, Dify, MCP) and methodologies (e.g., RAG, skills optimization) for scalable AI agent development.
+- **Comprehensive AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for 2026 AI Agent roles, including enterprise deployment and fine-tuning.
+- **Hands-On Projects & Interview Prep**: Provides real-world projects, interview question banks, and end-to-end workflows from learning to deployment, targeting AI application development engineer positions.
+- **Multi-Framework & Tool Integration**: Integrates skills, LLM APIs, and tools like Cursor, DeepAgents, and enterprise-grade frameworks for scalable AI agent development.
 
 ## Why It Matters
 

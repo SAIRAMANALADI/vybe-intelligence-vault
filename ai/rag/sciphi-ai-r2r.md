@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-08-03T22:54:15.186380+05:30'
+collected_at: '2026-08-04T01:30:56.391901+05:30'
 published_at: '2026-08-03T08:48:07Z'
 tags:
 - agents
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-08-03T22:54:15.186380+05:30'
-last_seen: '2026-08-03T22:54:15.186380+05:30'
-last_checked: '2026-08-03T22:54:15.186380+05:30'
+first_seen: '2026-08-04T01:30:56.391901+05:30'
+last_seen: '2026-08-04T01:30:56.391901+05:30'
+last_checked: '2026-08-04T01:30:56.391901+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Framework**: Production-ready Python-based system implementing Agentic Retrieval-Augmented Generation (RAG) with RESTful API endpoints for dynamic retrieval and generation workflows.
-
-- **Scalable Retrieval Architecture**: Supports large-scale document indexing and retrieval with optimized vector search, enabling efficient question-answering and contextual search over extensive datasets.
-
-- **Modular & Extensible**: Designed for customization with pluggable components (e.g., embedders, vector stores, LLM backends) and built-in support for multi-modal retrieval and hybrid search strategies.
+- **Agentic RAG System**: Implements an advanced retrieval-augmented generation (RAG) pipeline with agentic capabilities, enabling dynamic, multi-step reasoning for question-answering tasks.
+- **RESTful API**: Exposes a production-ready API for seamless integration, supporting scalable retrieval and generation workflows in Python-based environments.
+- **State-of-the-Art (SoTA) Retrieval**: Optimized for high-performance document retrieval and integration with large language models (LLMs), leveraging cutting-edge techniques in search and indexing.
 
 ## Why It Matters
 

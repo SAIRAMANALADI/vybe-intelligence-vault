@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/garagehq/nightcrawler
 hn_url: https://news.ycombinator.com/item?id=49154127
-score: 78
+score: 90
 author: NickySlicks
-comments_count: 23
+comments_count: 29
 published_at: '2026-08-03T16:36:15+05:30'
-collected_at: '2026-08-03T22:51:51.127812+05:30'
+collected_at: '2026-08-04T01:28:36.097968+05:30'
 tags:
 - agents
 - ai
@@ -19,8 +19,8 @@ tags:
 status: active
 resource_id: github:garagehq/nightcrawler
 first_seen: '2026-08-03T20:46:55.138774+05:30'
-last_seen: '2026-08-03T22:51:51.127812+05:30'
-last_checked: '2026-08-03T22:51:51.127812+05:30'
+last_seen: '2026-08-04T01:28:36.097968+05:30'
+last_checked: '2026-08-04T01:28:36.097968+05:30'
 health_score: 100
 ---
 
@@ -28,7 +28,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by NickySlicks. Score: 78, Comments: 23.
+Hacker News story by NickySlicks. Score: 90, Comments: 29.
 Original Link: https://github.com/garagehq/nightcrawler/
 
 ## Why It Matters
@@ -38,8 +38,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: NickySlicks
-- Score: 78 Upvotes
-- Comments: 23 Discussions
+- Score: 90 Upvotes
+- Comments: 29 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49154127
 - Original Article: https://github.com/garagehq/nightcrawler
 

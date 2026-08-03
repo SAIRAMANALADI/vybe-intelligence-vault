@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/orgs/firecrawl/repositories?q=sort%3Astars
-published_at: '2026-08-03T20:52:12.375325+05:30'
-collected_at: '2026-08-03T20:52:12.375341+05:30'
+published_at: '2026-08-04T01:33:52.120947+05:30'
+collected_at: '2026-08-04T01:33:52.120959+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: github:orgs/firecrawl
-first_seen: '2026-08-03T20:52:12.375341+05:30'
-last_seen: '2026-08-03T20:52:12.375341+05:30'
-last_checked: '2026-08-03T20:52:12.375341+05:30'
+first_seen: '2026-08-04T01:33:52.120959+05:30'
+last_seen: '2026-08-04T01:33:52.120959+05:30'
+last_checked: '2026-08-04T01:33:52.120959+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: TypeScript-based web scraping and interaction framework with a context API, supporting Markdown conversion, AI integration, and scalable crawling/scraping operations.
+- **Firecrawl**: TypeScript-based web scraping and interaction framework with a context API for large-scale web operations, supporting Markdown conversion, HTML-to-Markdown, and structured data extraction (160k stars, AGPL-3.0).
 
-- **pdf-inspector**: Rust-based high-performance library for PDF analysis, featuring intelligent classification (scanned vs. text-based), text extraction, and OCR routing capabilities.
+- **PDF Inspector**: High-performance Rust library for PDF classification and text extraction, featuring OCR-aware routing for scanned vs. text-based documents (7.8k stars, MIT License).
 
-- **firecrawl-mcp-server**: JavaScript MCP server enabling LLM clients (e.g., Cursor, Claude) to perform web scraping, batch processing, and content extraction via standardized APIs.
+- **Firecrawl MCP Server**: JavaScript-based Model Context Protocol (MCP) server enabling LLM clients (e.g., Cursor, Claude) to integrate web scraping, batch processing, and content extraction workflows (7.1k stars, MIT License).
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:52:12.375325+05:30
+- Published: 2026-08-04T01:33:52.120947+05:30
 
 ## Related Tags
 

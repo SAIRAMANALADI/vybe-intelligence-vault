@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/lyogavin/airllm
 hn_url: https://news.ycombinator.com/item?id=49154228
-score: 121
+score: 154
 author: Anon84
-comments_count: 44
+comments_count: 56
 published_at: '2026-08-03T16:45:48+05:30'
-collected_at: '2026-08-03T22:51:50.489727+05:30'
+collected_at: '2026-08-04T01:28:33.347609+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:lyogavin/airllm
 first_seen: '2026-06-23T01:03:50.205823+05:30'
-last_seen: '2026-08-03T22:51:50.489727+05:30'
-last_checked: '2026-08-03T22:51:50.489727+05:30'
+last_seen: '2026-08-04T01:28:33.347609+05:30'
+last_checked: '2026-08-04T01:28:33.347609+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Anon84. Score: 121, Comments: 44.
+Hacker News story by Anon84. Score: 154, Comments: 56.
 Original Link: https://github.com/lyogavin/airllm
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Anon84
-- Score: 121 Upvotes
-- Comments: 44 Discussions
+- Score: 154 Upvotes
+- Comments: 56 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49154228
 - Original Article: https://github.com/lyogavin/airllm
 

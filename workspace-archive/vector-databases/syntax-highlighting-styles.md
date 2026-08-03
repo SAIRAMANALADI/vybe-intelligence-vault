@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Hugo supports syntax highlighting via `transform.Highlight` in templates, the `highlight` shortcode, or fenced code blocks in Markdown.
-- Syntax highlighting styles can be configured in `markup.highlight.style` (e.g., `monokai`) and support light/dark mode variants (e.g., `catppuccin-latte`/`catppuccin-mocha`).
-- External CSS stylesheets can be generated using `hugo gen chromastyles` with `noClasses = false` in configuration for dynamic theming.
+- Hugo supports syntax highlighting via `transform.Highlight` in templates, `highlight` shortcode, or fenced code blocks in Markdown.
+- Default style set in `markup.highlight.style` (e.g., `monokai`); external CSS generated with `hugo gen chromastyles` when `noClasses = false`.
+- Light/dark mode styles include pairs like `catppuccin-latte`/`mocha`, `github`/`github-dark`, and `monokailight`/`monokai`.
 
 ## Use Cases
 

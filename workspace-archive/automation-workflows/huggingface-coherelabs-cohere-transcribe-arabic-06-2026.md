@@ -1,6 +1,6 @@
 ---
 title: CohereLabs/cohere-transcribe-arabic-07-2026 · Hugging Face
-archive_category: rag-systems
+archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://huggingface.co/CohereLabs/cohere-transcribe-arabic-06-2026
 resource_id: huggingface:coherelabs/cohere-transcribe-arabic-06-2026
@@ -12,9 +12,9 @@ resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
-- producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -24,7 +24,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `RAG Systems`
+- Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
@@ -33,17 +33,17 @@ selection_reason:
 
 ## Summary
 
-- **New Model Release**: Cohere Transcribe Arabic is a newly launched speech-to-text model optimized for Arabic language transcription, released by CohereLabs.
+- **Model Release**: Cohere Transcribe Arabic is a new speech-to-text model optimized for Arabic language transcription, released by CohereLabs.
 
-- **Technical Focus**: The model leverages advanced deep learning techniques (likely transformer-based architectures) tailored for high-accuracy Arabic speech recognition, addressing dialectal and phonetic complexities.
+- **Technical Focus**: The model leverages advanced deep learning techniques tailored for high-accuracy Arabic speech recognition, addressing dialectal and phonetic complexities.
 
-- **Deployment & Access**: Available via Hugging Face, enabling integration into applications for real-time or batch A
+- **Deployment**: Available via Hugging Face, enabling integration into applications for real-time or batch transcription workflows.
 
 ## Use Cases
 
-- Knowledge querying
-- Document summarization
-- Hybrid retrieval
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 

@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Endpoints**: Provides OAuth-based login via Google/GitHub and traditional email/password authentication.
-- **Password Recovery**: Implements password reset functionality via email-based token generation.
-- **Legal Compliance**: Enforces user agreement to `Terms of Use` and `Privacy Policy` during registration.
+- **Authentication Endpoints**: Provides OAuth2 integration via Google/GitHub and email/password-based login at `https://dashboard.cohere.com/welcome/register` and `https://dashboard.cohere.com/reset-password`.
+
+- **Session Management**: Enforces compliance with `https://cohere.com/terms-of-use` and `https://cohere.com/privacy` upon user sign-up.
+
+- **API Access**: Facilitates secure access to Cohere’s dashboard for model deployment and inference via authenticated sessions.
 
 ## Use Cases
 

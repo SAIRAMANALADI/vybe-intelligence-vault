@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/github/docs/blob/main/content/index.md
-published_at: '2026-08-03T15:49:55.854005+05:30'
-collected_at: '2026-08-03T15:49:55.854011+05:30'
+published_at: '2026-08-04T01:36:16.389413+05:30'
+collected_at: '2026-08-04T01:36:16.389424+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: github:github/docs
-first_seen: '2026-08-03T15:49:55.854011+05:30'
-last_seen: '2026-08-03T15:49:55.854011+05:30'
-last_checked: '2026-08-03T15:49:55.854011+05:30'
+first_seen: '2026-08-04T01:36:16.389424+05:30'
+last_seen: '2026-08-04T01:36:16.389424+05:30'
+last_checked: '2026-08-04T01:36:16.389424+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Documentation Structure**: Organized into 12 primary categories (e.g., *Get started*, *Collaborative coding*, *CI/CD and DevOps*) with nested subcategories for granular access to technical guides.
+- GitHub Help Documentation provides structured technical guides across **Git operations** (e.g., `git-basics`, `managing-remote-repositories`), **authentication** (SSH, OAuth), and **repository management** (creation, policies, security constraints).
 
-- **Cross-Version Support**: Documentation spans **GitHub Free (fpt)**, **GitHub Enterprise Server (ghes)**, and **GitHub Enterprise Cloud (ghec)**, ensuring consistency across deployment models.
+- Supports **collaborative workflows** via **pull requests**, **discussions**, **Codespaces**, and **GitHub Copilot** (IDE/code suggestions, CLI tools, customization).
 
-- **External Integrations**: Includes dedicated sections for **Electron**, **CodeQL**, **npm**, and **GitHub Well-Architected (gh-wa)**, linking to specialized tools outside core GitHub functionality.
+- Covers **CI/CD (Actions)**, **security (CodeQL, secrets management)**, **APIs (REST/GraphQL)**, and **enterprise-scale policies** (e.g., supply chain security, onboarding).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-03T15:49:55.854005+05:30
+- Published: 2026-08-04T01:36:16.389413+05:30
 
 ## Related Tags
 

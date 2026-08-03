@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-03T22:56:00.232348+05:30'
+collected_at: '2026-08-04T01:32:41.437385+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - scripts
 - shell
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-03T22:56:00.232348+05:30'
-last_seen: '2026-08-03T22:56:00.232348+05:30'
-last_checked: '2026-08-03T22:56:00.232348+05:30'
+first_seen: '2026-08-04T01:32:41.437385+05:30'
+last_seen: '2026-08-04T01:32:41.437385+05:30'
+last_checked: '2026-08-04T01:32:41.437385+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG (Retrieval-Augmented Generation) for memory management and Skills via MCP (Model Context Protocol) templates for modular functionality.
+- **Architecture**: Autonomous AI agent framework built entirely in n8n, inspired by OpenClaw, featuring adaptive RAG-powered memory, MCP-based skill integration, and hierarchical Expert Agents with delegated sub-agents for task execution.
 
-- **Features**: Supports expert agent delegation with sub-agents, proactive task management, and media understanding capabilities; integrates with Supabase for data storage and SearXNG for search functionality.
+- **Capabilities**: Supports proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase for data persistence and SearXNG for search functionality.
 
-- **Deployment**: Fully self-hosted with a single setup script, combining Crawl4AI for scraping and n8n workflows for orchestration, targeting AI agent development and automation workflows.
+- **Technical Stack**: Shell-based repository leveraging n8n for workflow orchestration, MCP for skill templates, and Crawl4AI for web scraping/scraping automation.
 
 ## Why It Matters
 

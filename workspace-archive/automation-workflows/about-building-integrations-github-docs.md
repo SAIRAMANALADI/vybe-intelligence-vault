@@ -1,18 +1,16 @@
 ---
 title: About building integrations - GitHub Docs
 archive_category: automation-workflows
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://docs.github.com/get-started/exploring-integrations/about-building-integrations
 resource_id: blog:about-building-integrations-github-docs
-local_vault_path: ai/rag/about-building-integrations-github-docs.md
+local_vault_path: ai/resources/about-building-integrations-github-docs.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- rag
-- reddit
 - scripts
 - web-crawled
 - workflows
@@ -34,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration Types**: GitHub integrations extend functionality via GitHub Apps (server/device-hosted), GitHub Actions workflows (event-triggered), or custom actions (executable code within workflows).
-
-- **API & Webhook Support**: Integrations interact with GitHub using REST/GraphQL APIs for data operations and webhooks for event-driven notifications (e.g., issue/PR events).
-
-- **Distribution & AI**: GitHub Apps/custom actions can be published to GitHub Marketplace; AI-powered workflows lever
+- **GitHub integrations** extend functionality via **GitHub Apps**, **GitHub Actions workflows**, or **custom actions**, enabling automation (e.g., issue management, Slack notifications) triggered by GitHub events.
+- **APIs & Webhooks**: Integrations interact with GitHub using **REST/GraphQL APIs** for data operations and **webhooks** for event-driven workflows.
+- **Publishing & AI**: GitHub Apps/custom actions can be published to **GitHub Marketplace**, while **GitHub Copilot** supports AI-powe
 
 ## Use Cases
 
@@ -52,4 +48,4 @@ Original source URL: https://docs.github.com/get-started/exploring-integrations/
 
 ## Local Vault File
 
-Path: [about-building-integrations-github-docs.md](../../ai/rag/about-building-integrations-github-docs.md)
+Path: [about-building-integrations-github-docs.md](../../ai/resources/about-building-integrations-github-docs.md)

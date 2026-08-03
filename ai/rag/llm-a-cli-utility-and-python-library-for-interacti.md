@@ -5,9 +5,10 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://llm.datasette.io
-published_at: '2026-08-02T14:15:26.952495+05:30'
-collected_at: '2026-08-02T14:15:26.952503+05:30'
+published_at: '2026-08-04T01:38:02.161589+05:30'
+collected_at: '2026-08-04T01:38:02.161601+05:30'
 tags:
+- agents
 - anthropic
 - dataset
 - meta-ai
@@ -20,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llm-a-cli-utility-and-python-library-for-interacti
-first_seen: '2026-08-02T14:15:26.952503+05:30'
-last_seen: '2026-08-02T14:15:26.952503+05:30'
-last_checked: '2026-08-02T14:15:26.952503+05:30'
+first_seen: '2026-08-04T01:38:02.161601+05:30'
+last_seen: '2026-08-04T01:38:02.161601+05:30'
+last_checked: '2026-08-04T01:38:02.161601+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-model CLI & Python Library**: Interfaces with OpenAI, Anthropic, Google, Meta, and other LLMs via APIs or local execution; supports plugins for additional models (e.g., Ollama) and integrates with SQLite for prompt/response logging.
+- **Multi-Model CLI & Library**: A Python-based CLI tool (`llm`) and library enabling interaction with **remote APIs** (OpenAI, Anthropic, Google, Meta) and **local models** (e.g., via Ollama), supporting both inference and structured output extraction.
 
-- **Core Features**: Enables CLI-based prompt execution, structured data extraction (schemas), multi-modal input (text/image/audio/video), embeddings generation/storage, and tool integration for model-executed functions.
+- **Core Features**: Supports **prompt execution**, **SQLite-based logging**, **embedding generation**, **multi-modal input** (text/images), **structured data extraction** (JSON schemas), and **tool integration** (function calling) with plugins for extensibility.
 
-- **Extensibility & Configuration**: Supports model aliases, custom templates (YAML), fragment-based long-context prompts, and plugin-driven enhancements for embeddings, tools, and local models. API keys managed via CLI or environment variables.
+- **Installation & Plugins**: Installed via `pip`, Homebrew, `pipx`, or `uv`; supports **plugin architecture** for adding models (e.g., `llm-ollama`, `llm-gemini`) and custom tools, with key management and model aliases for streamlined workflows.
 
 ## Why It Matters
 
@@ -44,10 +45,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:15:26.952495+05:30
+- Published: 2026-08-04T01:38:02.161589+05:30
 
 ## Related Tags
 
+- agents
 - anthropic
 - dataset
 - meta-ai

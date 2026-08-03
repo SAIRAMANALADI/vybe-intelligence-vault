@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/affaan-m/agentshield
-collected_at: '2026-08-03T22:54:30.129312+05:30'
-published_at: '2026-08-03T14:34:42Z'
+collected_at: '2026-08-04T01:31:11.381064+05:30'
+published_at: '2026-08-03T19:55:52Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
 - typescript
-stars: 1038
+stars: 1039
 language: TypeScript
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-11T06:31:44Z'
 pushed_at: '2026-07-22T07:01:25Z'
 resource_id: github:affaan-m/agentshield
-first_seen: '2026-08-03T22:54:30.129312+05:30'
-last_seen: '2026-08-03T22:54:30.129312+05:30'
-last_checked: '2026-08-03T22:54:30.129312+05:30'
+first_seen: '2026-08-04T01:31:11.381064+05:30'
+last_seen: '2026-08-04T01:31:11.381064+05:30'
+last_checked: '2026-08-04T01:31:11.381064+05:30'
 health_score: 100
 ---
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: affaan-m
-- Stars: 1038
+- Stars: 1039
 - Forks: 218
 - Language: TypeScript
 - Topics: ai-agent, anthropic, claude-code, hackathon, mcp, opus, security
-- Last Updated: 2026-08-03T14:34:42Z
+- Last Updated: 2026-08-03T19:55:52Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-11T06:31:44Z

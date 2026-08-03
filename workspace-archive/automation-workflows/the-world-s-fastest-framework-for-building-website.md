@@ -1,6 +1,6 @@
 ---
 title: The world's fastest framework for building websites
-archive_category: frontend-ai-ui
+archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://gohugo.io/
 resource_id: blog:the-world-s-fastest-framework-for-building-website
@@ -13,6 +13,7 @@ importance: medium
 tags:
 - frontend_ui
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -22,7 +23,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Frontend AI UI`
+- Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
@@ -31,15 +32,15 @@ selection_reason:
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; has 89,281 GitHub stars (as of Aug 2, 2026).
-- **Performance & Flexibility**: Go-based, optimized for speed; renders large sites in seconds with advanced templating and asset pipelines.
-- **Features**: Supports multilingual content, taxonomies, image/Sass/JS processing, TailwindCSS, and includes an embedded dev server for live reloading.
+- **License & Adoption**: Distributed under Apache 2.0 License; has 89,281 GitHub stars (as of Aug 2, 2026) with an active community and frequent releases.
+- **Performance & Flexibility**: Go-based, optimized for speed; supports multilingual content, advanced templating, and fast asset pipelines (image/Sass/JS processing).
+- **Development Workflow**: Includes an embedded web server for real-time preview of changes during development.
 
 ## Use Cases
 
-- AI chat bubbled views
-- Tailwind bento dashboards
-- Aesthetic layout templates
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 

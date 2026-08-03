@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
-published_at: '2026-08-03T23:01:03.768950+05:30'
-collected_at: '2026-08-03T23:01:03.768964+05:30'
+published_at: '2026-08-04T01:39:27.293390+05:30'
+collected_at: '2026-08-04T01:39:27.293403+05:30'
 tags:
 - web-crawled
+- youtube
 status: active
 resource_id: blog:subresource-integrity-security-mdn
-first_seen: '2026-08-03T23:01:03.768964+05:30'
-last_seen: '2026-08-03T23:01:03.768964+05:30'
-last_checked: '2026-08-03T23:01:03.768964+05:30'
+first_seen: '2026-08-04T01:39:27.293403+05:30'
+last_seen: '2026-08-04T01:39:27.293403+05:30'
+last_checked: '2026-08-04T01:39:27.293403+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Mechanism**: Subresource Integrity (SRI) verifies fetched resources (e.g., from CDNs) by comparing cryptographic hashes (SHA-256/384/512) embedded in the `integrity` attribute of `<script>`/`<link>` tags against the actual resource content to detect tampering.
+- **Mechanism**: Subresource Integrity (SRI) enforces cryptographic hash validation (`SHA-256`, `SHA-384`, or `SHA-512`) on fetched resources (e.g., CDN-hosted scripts/styles) via the `integrity` attribute to prevent supply chain attacks by detecting tampered content.
 
-- **Enforcement & Policy**: Browsers enforce SRI via `Integrity-Policy`/`Integrity-Policy-Report-Only` headers, blocking `no-cors` requests without integrity metadata and reporting violations via the Reporting API (e.g., `integrity-violation` reports).
+- **CORS Dependency**: SRI requires `crossorigin="anonymous"` for cross-origin resources to function; `no-cors` mode explicitly blocks SRI validation to mitigate side-channel attacks (e.g., hash-based content inference).
 
-- **Hash Generation & Tools**: SRI hashes can be generated using tools like OpenSSL (`openssl dgst -sha384 -binary | openssl base64 -A`), `shasum`, or online generators (e.g., [srihash.org](https://srihash.org)), ensuring resources match expected cryptographic digests.
+- **Policy Enforcement**: The `Integrity-Policy`/`Integrity-Policy-Report-Only` headers enforce integrity metadata requirements for scripts/styles, blocking violations (or reporting them) with structured violation reports sent to configured endpoints.
 
 ## Why It Matters
 
@@ -34,11 +35,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T23:01:03.768950+05:30
+- Published: 2026-08-04T01:39:27.293390+05:30
 
 ## Related Tags
 
 - web-crawled
+- youtube
 
 ## Source
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-03T22:54:20.160889+05:30'
+collected_at: '2026-08-04T01:31:01.411022+05:30'
 published_at: '2026-07-31T19:00:24Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-03T22:54:20.160889+05:30'
-last_seen: '2026-08-03T22:54:20.160889+05:30'
-last_checked: '2026-08-03T22:54:20.160889+05:30'
+first_seen: '2026-08-04T01:31:01.411022+05:30'
+last_seen: '2026-08-04T01:31:01.411022+05:30'
+last_checked: '2026-08-04T01:31:01.411022+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by leveraging graph structures and hierarchical agent collaboration.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-structured knowledge base for complex reasoning tasks.
 
-- **Graph-Centric RAG Pipeline**: Implements a graph-based retrieval mechanism that augments large language models (LLMs) with structured knowledge graphs, enhancing factual accuracy and contextual reasoning in downstream tasks.
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Extends traditional RAG by leveraging graph neural networks (GNNs) to dynamically retrieve and integrate contextual subgraphs, enhancing LLM-based reasoning with structured relational data.
 
-- **Performance & Scalability**: Optimized for large-scale knowledge graphs with efficient subgraph extraction and dynamic agent routing, achieving state-of-the-art results in complex reasoning benchmarks (ICLR 2026 submission).
+- **Performance & Scalability**: Evaluated on ICLR 2026 benchmarks, demonstrating superior accuracy and efficiency over baseline RAG models in tasks requiring multi-hop reasoning and dynamic knowledge integration.
 
 ## Why It Matters
 

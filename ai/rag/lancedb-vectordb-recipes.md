@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-03T22:52:55.115721+05:30'
+collected_at: '2026-08-04T01:29:36.346383+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-03T22:52:55.115721+05:30'
-last_seen: '2026-08-03T22:52:55.115721+05:30'
-last_checked: '2026-08-03T22:52:55.115721+05:30'
+first_seen: '2026-08-04T01:29:36.346383+05:30'
+last_seen: '2026-08-04T01:29:36.346383+05:30'
+last_checked: '2026-08-04T01:29:36.346383+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials demonstrating multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and LLMs.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems leveraging vector search, LLMs, and embeddings.
 
-- **Tooling Integration**: Includes implementations leveraging LanceDB (vector database), LangChain, LlamaIndex, OpenAI APIs (including GPT-4 Vision), and fine-tuning techniques for embeddings and LLMs.
+- **Agent & Tool Integration**: Demonstrates workflows integrating LangChain, LlamaIndex, and OpenAI APIs (including GPT-4 Vision) for building AI agents with vector databases (LanceDB).
 
-- **Technical Focus**: Covers deep learning, embeddings optimization, and multimodal AI pipelines, with last update as of August 2026.
+- **Fine-Tuning & Optimization**: Includes tutorials on fine-tuning models, optimizing embeddings, and deploying vector search pipelines for deep learning and machine learning applications.
 
 ## Why It Matters
 

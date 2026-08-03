@@ -4,10 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-08-03T22:56:15.240107+05:30'
+collected_at: '2026-08-04T01:32:56.480342+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - unknown
 stars: 19
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-08-03T22:56:15.240107+05:30'
-last_seen: '2026-08-03T22:56:15.240107+05:30'
-last_checked: '2026-08-03T22:56:15.240107+05:30'
+first_seen: '2026-08-04T01:32:56.480342+05:30'
+last_seen: '2026-08-04T01:32:56.480342+05:30'
+last_checked: '2026-08-04T01:32:56.480342+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Repository Structure**: Provides a pre-defined folder layout for Agentic AI App Hackathon submissions, ensuring consistency and reproducibility across teams.
+- **Standardized Starter Repository**: Provides a pre-structured folder layout for Agentic AI App Hackathon submissions, including reproducible environment specifications and documentation templates to ensure consistency and streamline the judging process.
 
-- **Reproducible Environment Specification**: Includes a standardized environment specification (e.g., `environment.yml` or `requirements.txt`) to ensure consistent dependency management and execution.
+- **Reproducible Environment**: Includes a defined environment specification (e.g., `requirements.txt`, `environment.yml`, or Dockerfile) to ensure consistent execution across different systems and facilitate reproducibility.
 
-- **Documentation Placeholders**: Includes template files for documentation (e.g., `README.md`, `CONTRIBUTING.md`) to guide teams in structuring their submission details for judging.
+- **Documentation Placeholders**: Contains pre-structured documentation templates (e.g., `README.md`, `SOLUTION.md`) to guide teams in detailing their approach, architecture, and implementation for submission evaluation.
 
 ## Why It Matters
 

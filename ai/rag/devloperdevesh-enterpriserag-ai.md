@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-03T22:54:05.101304+05:30'
+collected_at: '2026-08-04T01:30:46.347233+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-03T22:54:05.101304+05:30'
-last_seen: '2026-08-03T22:54:05.101304+05:30'
-last_checked: '2026-08-03T22:54:05.101304+05:30'
+first_seen: '2026-08-04T01:30:46.347233+05:30'
+last_seen: '2026-08-04T01:30:46.347233+05:30'
+last_checked: '2026-08-04T01:30:46.347233+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a Linux-native security and governance framework for AI agent workloads using eBPF for runtime monitoring, enforcement, and low-overhead system-level control.
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with vector database integration for secure, scalable, and auditable AI agent interactions in SaaS environments.
-- **TypeScript-Based Backend**: Utilizes TypeScript for modular, maintainable code with FastAPI as the primary backend framework, supporting GenAI, LLM orchestration, and multi-tenant governance in production-grade deployments.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh using eBPF for runtime monitoring and enforcement in AI agent workloads, leveraging Linux kernel capabilities for low-overhead, high-performance operations.
+
+- **Enterprise-Grade RAG Architecture**: Combines FastAPI backend with TypeScript, vector databases, and GenAI/LLM pipelines to enable scalable, secure Retrieval-Augmented Generation (RAG) for SaaS AI applications.
+
+- **Governance & Compliance Focus**: Designed for enterprise security and regulatory compliance, integrating governance controls directly into the AI workload mesh via eBPF-based policy enforcement.
 
 ## Why It Matters
 

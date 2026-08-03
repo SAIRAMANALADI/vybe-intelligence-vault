@@ -6,16 +6,14 @@ source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 -----dba899ae0355---------------------------------------
-collected_at: '2026-08-03T22:57:00.292381+05:30'
-published_at: '2026-08-03T16:53:03Z'
+collected_at: '2026-08-04T01:33:46.670525+05:30'
+published_at: '2026-08-03T19:36:22Z'
 tags:
 - agents
 - github-repo
 - go
-- hackernews
 - rag
-- workflows
-stars: 86727
+stars: 86731
 language: Go
 status: active
 license: Apache-2.0
@@ -23,9 +21,9 @@ archived: false
 created_at: '2023-12-12T06:13:13Z'
 pushed_at: '2026-08-03T15:01:02Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-08-03T22:57:00.292381+05:30'
-last_seen: '2026-08-03T22:57:00.292381+05:30'
-last_checked: '2026-08-03T22:57:00.292381+05:30'
+first_seen: '2026-08-04T01:33:46.670525+05:30'
+last_seen: '2026-08-04T01:33:46.670525+05:30'
+last_checked: '2026-08-04T01:33:46.670525+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAGFlow**: Open-source RAG engine integrating advanced Retrieval-Augmented Generation (RAG) with Agent capabilities to enhance LLM context layers.
-- **Technical Stack**: Implemented in Go, supporting agent-harness, context-engineering, and knowledge-compilation for LLM applications.
-- **Metrics**: 86,727 stars, 10,186 forks; last updated 2026-08-03 with focus on agentic-retrieval, context-management, and RAG workflows.
+- **Hybrid RAG-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities to enhance LLM context processing, enabling dynamic interaction between retrieval and generative components for superior performance.
+
+- **Multi-Modal Context Engineering**: Supports structured knowledge compilation and context management across diverse data modalities (text, structured tables, etc.), optimizing LLM input for improved accuracy and relevance in downstream tasks.
+
+- **Scalable Open-Source Deployment**: Built in Go, RAGFlow offers a high-performance, production-ready framework for agentic search and retrieval, with active community contributions (86K+ stars, 10K+ forks) and continuous updates (latest commit: 2026-08-03).
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 86727
-- Forks: 10186
+- Stars: 86731
+- Forks: 10188
 - Language: Go
 - Topics: agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-08-03T16:53:03Z
+- Last Updated: 2026-08-03T19:36:22Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z

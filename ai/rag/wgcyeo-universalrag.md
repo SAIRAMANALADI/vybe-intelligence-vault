@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-03T22:54:25.123626+05:30'
+collected_at: '2026-08-04T01:31:06.377052+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
+- paper
 - python
 - rag
 stars: 174
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-03T22:54:25.123626+05:30'
-last_seen: '2026-08-03T22:54:25.123626+05:30'
-last_checked: '2026-08-03T22:54:25.123626+05:30'
+first_seen: '2026-08-04T01:31:06.377052+05:30'
+last_seen: '2026-08-04T01:31:06.377052+05:30'
+last_checked: '2026-08-04T01:31:06.377052+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) over diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) via unified retrieval and generation mechanisms.
+- **Multimodal & Multi-Granularity RAG**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse modalities (text, images, tables, etc.) and varying granularities (document, paragraph, sentence, or token-level).
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval system leveraging modality-specific encoders (e.g., CLIP for images, BERT for text) and a shared embedding space for joint retrieval across modalities.
+- **ACL 2026 Oral Paper**: The system is presented as an oral paper at ACL 2026, indicating high novelty and impact in the field of multimodal AI and retrieval-augmented generation.
 
-- **Adaptive Generation Pipeline**: Proposes a dynamic generation module that selects and integrates retrieved content based on modality and granularity, optimizing context relevance via modality-aware attention and fusion strategies.
+- **Python Implementation**: The repository provides a Python-based framework for UniversalRAG, supporting scalable retrieval and integration across heterogeneous data sources.
 
 ## Why It Matters
 

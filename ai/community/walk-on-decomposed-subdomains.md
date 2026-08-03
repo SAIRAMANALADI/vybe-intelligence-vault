@@ -13,13 +13,14 @@ collected_at: '2026-08-03T22:51:51.567453+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:walk-on-decomposed-subdomains
 first_seen: '2026-08-03T20:46:54.881955+05:30'
 last_seen: '2026-08-03T22:51:51.567453+05:30'
 last_checked: '2026-08-03T22:51:51.567453+05:30'
 health_score: 100
 ---
+
 
 # Walk on Decomposed Subdomains
 

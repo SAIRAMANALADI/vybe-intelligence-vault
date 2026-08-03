@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agentuniverse-ai/agentUniverse
-collected_at: '2026-08-03T22:56:15.245447+05:30'
+collected_at: '2026-08-04T01:32:56.521447+05:30'
 published_at: '2026-08-03T12:03:16Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 2316
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-04-23T11:28:18Z'
 pushed_at: '2026-07-28T08:18:07Z'
 resource_id: github:agentuniverse-ai/agentuniverse
-first_seen: '2026-08-03T22:56:15.245447+05:30'
-last_seen: '2026-08-03T22:56:15.245447+05:30'
-last_checked: '2026-08-03T22:56:15.245447+05:30'
+first_seen: '2026-08-04T01:32:56.521447+05:30'
+last_seen: '2026-08-04T01:32:56.521447+05:30'
+last_checked: '2026-08-04T01:32:56.521447+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent LLM Framework**: agentUniverse enables developers to construct multi-agent applications leveraging large language models (LLMs) with modular and extensible architecture.
-- **Python-based Implementation**: The framework is implemented in Python, supporting rapid prototyping and integration with existing AI/ML ecosystems.
-- **Autonomous Agent Orchestration**: Supports autonomous agent interactions, with built-in tools for agent communication, task delegation, and coordination.
+- **Multi-agent LLM framework**: Python-based system enabling developers to construct and deploy autonomous multi-agent applications leveraging LLMs.
+- **Key features**: Supports agent orchestration, inter-agent communication, and modular agent design for scalable AI workflows.
+- **Ecosystem**: Open-source project with 2,316+ stars, 416+ forks, and active maintenance (last update: Aug 2026).
 
 ## Why It Matters
 

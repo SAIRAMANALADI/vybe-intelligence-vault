@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-03T22:54:15.101468+05:30'
+collected_at: '2026-08-04T01:30:56.425766+05:30'
 published_at: '2026-08-02T10:27:38Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - youtube
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-03T22:54:15.101468+05:30'
-last_seen: '2026-08-03T22:54:15.101468+05:30'
-last_checked: '2026-08-03T22:54:15.101468+05:30'
+first_seen: '2026-08-04T01:30:56.425766+05:30'
+last_seen: '2026-08-04T01:30:56.425766+05:30'
+last_checked: '2026-08-04T01:30:56.425766+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat" with videos via multi-modal inputs (text + video frames) for enhanced contextual retrieval and generation.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long videos via multi-modal inputs (text + video frames), leveraging temporal segmentation and hierarchical retrieval for efficient long-video understanding.
 
-- **Technical Implementation**: Leverages Python with multi-modal LLMs (e.g., CLIP, BLIP) and hierarchical video chunking (temporal + semantic) to optimize retrieval efficiency and accuracy for long-duration videos (e.g., lectures, meetings).
+- **Technical Architecture**: Implements a multi-stage pipeline including video chunking, frame-level feature extraction (e.g., CLIP embeddings), and dynamic retrieval of relevant segments using vector databases (FAISS/Chroma), optimized for latency and accuracy in KDD'2026 benchmarks.
 
-- **Benchmark & Scalability**: Evaluated on KDD'2026 benchmarks, demonstrating superior performance in tasks like video QA, summarization, and event localization, with scalability for multi-hour videos via adaptive retrieval strategies.
+- **Multi-Modal Integration**: Combines LLMs with vision encoders (e.g., ViT) to generate context-aware responses, supporting tasks like summarization, Q&A, and temporal reasoning, with Python-based tooling for end-to-end deployment and fine-tuning.
 
 ## Why It Matters
 

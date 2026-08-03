@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-03T22:54:20.181208+05:30'
-published_at: '2026-08-03T16:45:27Z'
+collected_at: '2026-08-04T01:31:01.501742+05:30'
+published_at: '2026-08-03T19:04:05Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 142
+stars: 146
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-03T22:54:20.181208+05:30'
-last_seen: '2026-08-03T22:54:20.181208+05:30'
-last_checked: '2026-08-03T22:54:20.181208+05:30'
+first_seen: '2026-08-04T01:31:01.501742+05:30'
+last_seen: '2026-08-04T01:31:01.501742+05:30'
+last_checked: '2026-08-04T01:31:01.501742+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: MemGraphRAG implements a memory-based multi-agent system where specialized agents collaborate for graph retrieval-augmented generation (GraphRAG), leveraging agent-memory and ontology construction for dynamic knowledge integration.
+- **Memory-based Multi-Agent System**: Introduces a novel framework (MemGraphRAG) for Graph Retrieval-Augmented Generation (GraphRAG) that leverages memory-augmented agents to enhance knowledge retrieval and generation in graph-structured data.
 
-- **Graph Construction & Retrieval**: The system dynamically constructs and queries knowledge graphs (ontology-based) to enhance RAG performance, enabling efficient retrieval of structured, context-aware information for generation tasks.
+- **Graph Construction & Ontology Integration**: Implements dynamic graph construction and ontology-based knowledge representation to improve contextual understanding and multi-hop reasoning in large-scale knowledge graphs.
 
-- **Technical Stack**: Built in Python, the repository integrates graphRAG principles with multi-agent orchestration, supporting ontology-driven memory management and scalable knowledge graph operations.
+- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability, with modules for agent-memory management, graph retrieval, and ontology construction tailored for KDD 2026 research.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: XMUDeepLIT
-- Stars: 142
+- Stars: 146
 - Forks: 28
 - Language: Python
 - Topics: agent-memory, graph-construction, graphrag, multi-agent, ontology, ontology-construction, rag
-- Last Updated: 2026-08-03T16:45:27Z
+- Last Updated: 2026-08-03T19:04:05Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-02T03:16:55Z

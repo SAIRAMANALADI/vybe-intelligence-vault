@@ -3,9 +3,9 @@ title: Configure imaging
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-08-03T20:55:31.621823+05:30'
-collected_at: '2026-08-03T20:55:31.621835+05:30'
+source_url: https://gohugo.io/configuration/imaging/#avif-images
+published_at: '2026-08-04T01:37:01.578033+05:30'
+collected_at: '2026-08-04T01:37:01.578045+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-08-03T20:55:31.621835+05:30'
-last_seen: '2026-08-03T20:55:31.621835+05:30'
-last_checked: '2026-08-03T20:55:31.621835+05:30'
+first_seen: '2026-08-04T01:37:01.578045+05:30'
+last_seen: '2026-08-04T01:37:01.578045+05:30'
+last_checked: '2026-08-04T01:37:01.578045+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's imaging module supports AVIF, JPEG, and WebP formats with format-specific settings for `compression`, `hint`, `quality`, and advanced options like `encoderSpeed` (AVIF) and `method` (WebP).
+- **Image Processing Defaults**: Default settings include `anchor: smart`, `resampleFilter: box`, `bgColor: #ffffff`, with format-specific parameters for AVIF (`lossy` compression, `quality: 60`), JPEG (`quality: 75`), and WebP (`lossy` compression, `quality: 75`, `method: 2`).
 
-- **Top-Level Imaging Parameters**: Default settings include `anchor` (cropping/filling focal point), `bgColor` (background for transparent-to-opaque conversions), `resampleFilter` (e.g., `lanczos`, `catmullRom`), and deprecated global `quality`/`compression`/`hint` (now format-specific).
+- **Exif Metadata Control**: Configurable via `excludeFields` (e.g., `GPS|Exif|Exposure[M|P|B]`) and `includeFields`, with sources limited to `exif` and `iptc` by default for performance optimization.
 
-- **Metadata Handling**: The `meta` method allows granular control over EXIF/IPTC/XMP metadata extraction via `fields` (glob patterns) and `sources` (e.g., `exif`, `iptc`), with defaults excluding technical metadata to optimize performance.
+- **Deprecated/Replaced Parameters**: `compression`, `hint`, and `quality` are deprecated in favor of format-specific settings (e.g., `imaging.avif.compression`), while `Meta` method replaces the deprecated `Exif` method for metadata extraction.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:55:31.621823+05:30
+- Published: 2026-08-04T01:37:01.578033+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://gohugo.io/configuration/imaging/#avif
+Original source: https://gohugo.io/configuration/imaging/#avif-images

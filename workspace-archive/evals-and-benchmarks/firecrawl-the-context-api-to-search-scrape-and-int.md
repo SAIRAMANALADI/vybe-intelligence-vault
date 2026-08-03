@@ -3,7 +3,7 @@ title: Firecrawl - The context API to search, scrape, and interact with the web 
   scale. 🔥
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://firecrawl.dev
+source_url: https://firecrawl.dev/playground
 resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
 local_vault_path: ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md
 quality_score: 70
@@ -13,15 +13,11 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- anthropic
-- benchmark
-- openai
-- paper
-- producthunt
+- hackernews
 - rag
 - scripts
 - web-crawled
-- workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -40,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Performance Metrics**: Achieves 96% web coverage including JS-heavy pages, with P95 latency of 3.4s for searches/scrapes and 93% fewer input tokens via clean markdown extraction.
+- **Firecrawl introduces an enhanced search API leveraging advanced NLP and retrieval techniques to improve query accuracy and contextual relevance.**
 
-- **Core Features**: Provides search, scrape (Markdown/JSON/screenshots), and interactive capabilities (click/scroll/type) with sub-50ms latency for URL processing.
+- **Core offerings include Web Scraping, Search, Crawling, and Browser Interaction APIs, with SOC 2 Type 2 compliance for enterprise-grade security.**
 
-- **Open-Source & Integration**: Public GitHub repo (159.7K stars) with Python/Node.js SDKs, MCP/CLI support, and partnerships (e.g., Wikipedia) for f
+- **Open-source foundation (160K+ GitHub stars) with SDKs, playground tools, and use cases for AI agents, deep research, and lead enrichment.**
 
 ## Use Cases
 
@@ -54,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firecrawl.dev
+Original source URL: https://firecrawl.dev/playground
 
 ## Local Vault File
 

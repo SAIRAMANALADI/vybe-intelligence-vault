@@ -10,18 +10,19 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) (mcp-server - ESSENTIAL Tier)
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (benchmark - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) (framework - ESSENTIAL Tier)
 - [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) (mcp-server - ESSENTIAL Tier)
-- [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/modelcontextprotocol (Official MCP Repos)
 https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
 - [Mintlify · GitHub](https://github.com/mintlify)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
@@ -42,4 +43,4 @@ https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 
 ---
 
-*Last updated: 2026-08-03 23:09 IST*
+*Last updated: 2026-08-04 01:46 IST*

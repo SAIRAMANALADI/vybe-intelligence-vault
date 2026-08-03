@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-03T22:53:30.090386+05:30'
+collected_at: '2026-08-04T01:30:11.333844+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-03T22:53:30.090386+05:30'
-last_seen: '2026-08-03T22:53:30.090386+05:30'
-last_checked: '2026-08-03T22:53:30.090386+05:30'
+first_seen: '2026-08-04T01:30:11.333844+05:30'
+last_seen: '2026-08-04T01:30:11.333844+05:30'
+last_checked: '2026-08-04T01:30:11.333844+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates Retrieval-Augmented Generation (RAG) best practices specifically optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies tailored for Vietnamese linguistic features.
+- **Implementation of Vietnamese RAG Pipeline**: Demonstrates a retrieval-augmented generation (RAG) system optimized for Vietnamese text, integrating embedding models (e.g., `vinai/phobert-base`) and vector databases (e.g., FAISS or Milvus) for efficient retrieval.
 
-- **Modular Python Architecture**: Project provides a scalable backend framework in Python, integrating components like vector databases (e.g., FAISS, Chroma), retrieval pipelines, and LLM inference with Vietnamese-specific model support (e.g., PhoBERT, viT5).
+- **Modular Architecture**: Features a decoupled design with separate components for document ingestion, embedding generation, retrieval, and generation, leveraging FastAPI for backend services and LangChain for orchestration.
 
-- **Evaluation & Benchmarking**: Includes tools for evaluating RAG performance on Vietnamese datasets, with metrics for retrieval accuracy, response relevance, and latency optimization, supporting continuous improvement of Vietnamese RAG systems.
+- **Evaluation & Best Practices**: Includes scripts for benchmarking retrieval quality (e.g., MRR, Recall@K) and generation performance, with guidance on hyperparameter tuning (e.g., chunk size, top-k retrieval) for Vietnamese-specific datasets.
 
 ## Why It Matters
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-03T22:51:51.636871+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:train-simulator-controller
 first_seen: '2026-08-03T20:46:55.269074+05:30'
 last_seen: '2026-08-03T22:51:51.636871+05:30'
 last_checked: '2026-08-03T22:51:51.636871+05:30'
 health_score: 100
 ---
+
 
 # Train Simulator Controller
 

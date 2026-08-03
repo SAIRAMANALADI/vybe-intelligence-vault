@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/terms
-published_at: '2026-08-03T20:53:23.284230+05:30'
-collected_at: '2026-08-03T20:53:23.284243+05:30'
+published_at: '2026-08-04T01:38:10.645974+05:30'
+collected_at: '2026-08-04T01:38:10.645987+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-08-03T20:53:23.284243+05:30'
-last_seen: '2026-08-03T20:53:23.284243+05:30'
-last_checked: '2026-08-03T20:53:23.284243+05:30'
+first_seen: '2026-08-04T01:38:10.645987+05:30'
+last_seen: '2026-08-04T01:38:10.645987+05:30'
+last_checked: '2026-08-04T01:38:10.645987+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Jurisdiction**: Google LLC (Delaware-registered, US-based) provides services under US laws, with contractual obligations defined in the Terms of Service.
+- **Service Provider & Legal Framework**: Google LLC (Delaware-registered) operates under U.S. law, providing services under a contractual agreement where users agree to Terms of Service (effective July 30, 2026) and Privacy Policy, with additional service-specific terms and age requirements enforced.
 
-- **Content & Intellectual Property**: Users retain IP rights to their content but grant Google a license for processing, storage, and display; reverse engineering of services/models is prohibited unless permitted by law.
+- **Content & Intellectual Property Rights**: Users retain IP rights to their content but grant Google a license for processing, storage, and display; reverse engineering, automated extraction, or AI model training using Google’s content/services is prohibited unless explicitly permitted by law.
 
-- **Prohibited Activities**: Explicitly banned behaviors include adversarial prompting, prompt injection, automated scraping (violating `robots.txt`), AI-generated content misuse, and reverse engineering of ML models for competitive purposes.
+- **Prohibited Activities & Enforcement**: Users must comply with laws (export controls, anti-abuse) and Google’s policies (e.g., Generative AI Prohibited Use), with violations subject to account termination, legal action, or abuse reporting mechanisms; material changes to services require advance notice and export options (e.g., Google Takeout).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:53:23.284230+05:30
+- Published: 2026-08-04T01:38:10.645974+05:30
 
 ## Related Tags
 

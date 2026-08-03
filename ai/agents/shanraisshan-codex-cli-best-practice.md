@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-03T22:55:10.129658+05:30'
+collected_at: '2026-08-04T01:31:51.427205+05:30'
 published_at: '2026-08-03T15:53:40Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-03T22:55:10.129658+05:30'
-last_seen: '2026-08-03T22:55:10.129658+05:30'
-last_checked: '2026-08-03T22:55:10.129658+05:30'
+first_seen: '2026-08-04T01:31:51.427205+05:30'
+last_seen: '2026-08-04T01:31:51.427205+05:30'
+last_checked: '2026-08-04T01:31:51.427205+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using **Codex CLI**, emphasizing automation, hooks, and context engineering for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using OpenAI's Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **CLI-Centric Best Practices**: Provides optimized **Codex CLI commands**, skills, and agentic patterns (e.g., `codex-cli-agents`, `codex-hooks`) to enhance AI agent autonomy, reproducibility, and efficiency in coding tasks.
+- **CLI-Centric Best Practices**: Provides a curated set of *codex-cli-commands*, *skills*, and *hooks* to optimize AI agent interactions, including context management, task delegation, and stateful execution for reproducible AI engineering.
 
-- **Open-Source Toolkit**: Python-based repository with **953 stars** and **64 forks**, serving as a curated reference for AI agents (OpenAI Codex) in Pakistan’s developer community, focusing on scalable agentic workflows.
+- **Open-Source Toolkit for AI Agents**: Python-based framework with 953+ stars, designed for *agentic-coding* and *agentic-workflow* automation, targeting Pakistani developers and global AI practitioners to standardize Codex CLI usage in production environments.
 
 ## Why It Matters
 

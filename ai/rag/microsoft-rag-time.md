@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-03T22:52:45.095285+05:30'
+collected_at: '2026-08-04T01:29:26.337789+05:30'
 published_at: '2026-08-02T10:26:59Z'
 tags:
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-03T22:52:45.095285+05:30'
-last_seen: '2026-08-03T22:52:45.095285+05:30'
-last_checked: '2026-08-03T22:52:45.095285+05:30'
+first_seen: '2026-08-04T01:29:26.337789+05:30'
+last_seen: '2026-08-04T01:29:26.337789+05:30'
+last_checked: '2026-08-04T01:29:26.337789+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **5-week structured RAG mastery program** using Jupyter Notebooks, covering hybrid search (vector + keyword), quantization (binary/scalar), and HNSW indexing for efficient retrieval.
-- **Integrates Azure OpenAI, Matryoshka representation learning, and responsible AI practices** for scalable, optimized, and ethical RAG pipelines.
-- **Supports multimodal RAG** with VS Code integration, focusing on LLM fine-tuning, retrieval augmentation, and performance optimization techniques.
+- **RAG Mastery Curriculum**: A structured 5-week program in Jupyter Notebooks covering Retrieval-Augmented Generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning.
+- **Azure & OpenAI Integration**: Demonstrates RAG pipelines using Azure services, OpenAI LLMs, and VS Code, with emphasis on responsible AI practices and multimodal retrieval.
+- **Optimized Search & Indexing**: Implements HNSW for vector search, hybrid retrieval strategies, and efficient indexing techniques for large-scale LLM applications.
 
 ## Why It Matters
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-08-03T22:53:00.167548+05:30'
+collected_at: '2026-08-04T01:29:41.366294+05:30'
 published_at: '2026-08-02T15:40:26Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 312
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-08-03T22:53:00.167548+05:30'
-last_seen: '2026-08-03T22:53:00.167548+05:30'
-last_checked: '2026-08-03T22:53:00.167548+05:30'
+first_seen: '2026-08-04T01:29:41.366294+05:30'
+last_seen: '2026-08-04T01:29:41.366294+05:30'
+last_checked: '2026-08-04T01:29:41.366294+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating document retrieval and generation workflows.
+- **Template Structure**: Provides a structured framework for building Retrieval-Augmented Generation (RAG) research agents using Python, leveraging LangChain's modular components for document retrieval, processing, and agent orchestration.
 
-- **Key Components**: Includes modular Python-based pipelines for document indexing, retrieval, and response synthesis, leveraging LangChain’s abstractions (e.g., `RetrievalQA`, `VectorStore`).
+- **Key Components**: Includes pre-configured pipelines for document ingestion (e.g., loaders, text splitters), vector storage (e.g., FAISS/Chroma), and agent tools (e.g., search, summarization) with LangChain integrations.
 
-- **Updates**: Last modified on **2026-08-02**, with **312 stars** and **73 forks**, indicating active community interest but limited official documentation.
+- **Customization Focus**: Designed for extensibility, enabling developers to replace default components (e.g., embeddings, LLMs) with custom implementations while maintaining compatibility with LangChain's ecosystem.
 
 ## Why It Matters
 

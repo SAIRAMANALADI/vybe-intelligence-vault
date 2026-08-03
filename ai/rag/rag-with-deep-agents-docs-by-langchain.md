@@ -3,9 +3,9 @@ title: Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.langchain.com/oss/python/deepagents/rag
-published_at: '2026-08-03T09:25:55.387339+05:30'
-collected_at: '2026-08-03T09:25:55.387353+05:30'
+source_url: https://python.langchain.com/docs/use_cases/question_answering/
+published_at: '2026-08-04T01:33:59.047115+05:30'
+collected_at: '2026-08-04T01:33:59.047130+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-with-deep-agent
-first_seen: '2026-08-03T09:25:55.387353+05:30'
-last_seen: '2026-08-03T09:25:55.387353+05:30'
-last_checked: '2026-08-03T09:25:55.387353+05:30'
+first_seen: '2026-08-04T01:33:59.047130+05:30'
+last_seen: '2026-08-04T01:33:59.047130+05:30'
+last_checked: '2026-08-04T01:33:59.047130+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows, enabling flexible orchestration of retrieval, analysis, and synthesis for Q&A systems.
+- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows; primitives include custom retrieval tools, filesystem backends, subagents, skills, and grading rubrics for corpus-specific Q&A.
 
-- **Retrieval-Augmented Workflow**: Indexes LangChain docs by loading, splitting, embedding, and storing chunks in a `VectorStore`; retrieves relevant chunks at query time, offloads them to filesystem, and delegates analysis to subagents for parallel processing and synthesis.
+- **Indexing Workflow**: Converts documents into retrievable chunks via loading → splitting → embedding (using models like OpenAI embeddings) → storing in a VectorStore (e.g., FAISS, Chroma) for semantic similarity search during query time.
 
-- **Prerequisites & Setup**: Requires API keys for chat models (e.g., OpenAI, Anthropic) and embeddings (e.g., OpenAI); setup includes dependency installation, environment configuration, and LangSmith tracing for observability.
+- **Agent Architecture**: Main agent retrieves chunks, offloads to filesystem, delegates analysis to subagents for parallel processing; final synthesis uses citations from retrieved evidence to ground responses in source material.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:25:55.387339+05:30
+- Published: 2026-08-04T01:33:59.047115+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.langchain.com/oss/python/deepagents/rag
+Original source: https://python.langchain.com/docs/use_cases/question_answering/

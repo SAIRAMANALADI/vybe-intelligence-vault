@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-08-03T22:52:41.554994+05:30'
-collected_at: '2026-08-03T22:52:41.555010+05:30'
+published_at: '2026-08-04T01:29:23.020197+05:30'
+collected_at: '2026-08-04T01:29:23.020211+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-08-03T22:52:41.555010+05:30'
-last_seen: '2026-08-03T22:52:41.555010+05:30'
-last_checked: '2026-08-03T22:52:41.555010+05:30'
+first_seen: '2026-08-04T01:29:23.020211+05:30'
+last_seen: '2026-08-04T01:29:23.020211+05:30'
+last_checked: '2026-08-04T01:29:23.020211+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source framework (105k⭐) for LLM applications/RAG with modular components for data connection, retrieval pipelines, model flexibility, and evaluation tools (LangSmith/LangGraph integration). Install via `pip install -U langchain`.
+- **LangChain**: Modular framework for building LLM applications with RAG support, offering 100k+ GitHub stars, model flexibility, vector store integration, and evaluation tools via LangSmith/LangGraph.
 
-- **Milvus**: High-performance (33.9k⭐) cloud-native vector database optimized for scalable ANN search, hybrid queries, and multi-modal embeddings. Supports distributed clusters and integrates with RAG frameworks like LangChain/LlamaIndex.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables), GraphRAG support, and a visual web interface, optimized for structured data extraction and agentic reasoning.
 
-- **RAGFlow**: Open-source RAG engine (48.5k⭐) specializing in deep document parsing (PDFs/tables/layouts), GraphRAG support, and agentic reasoning via a visual web interface. Deployable via Docker (slim/full images).
+- **Milvus**: High-performance, distributed vector database (33.9k GitHub stars) enabling scalable ANN search, hybrid queries, and seamless integration with RAG frameworks for production-grade retrieval.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T22:52:41.554994+05:30
+- Published: 2026-08-04T01:29:23.020197+05:30
 
 ## Related Tags
 

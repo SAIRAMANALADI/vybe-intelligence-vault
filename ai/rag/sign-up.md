@@ -4,10 +4,9 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://login.llamaindex.ai/sign-up
-published_at: '2026-08-01T21:50:52.076676+05:30'
-collected_at: '2026-08-01T21:50:52.076688+05:30'
+published_at: '2026-08-04T01:36:11.792842+05:30'
+collected_at: '2026-08-04T01:36:11.792851+05:30'
 tags:
-- hackernews
 - meta-ai
 - models
 - rag
@@ -15,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:sign-up
-first_seen: '2026-08-01T21:50:52.076688+05:30'
-last_seen: '2026-08-01T21:50:52.076688+05:30'
-last_checked: '2026-08-01T21:50:52.076688+05:30'
+first_seen: '2026-08-04T01:36:11.792851+05:30'
+last_seen: '2026-08-04T01:36:11.792851+05:30'
+last_checked: '2026-08-04T01:36:11.792851+05:30'
 health_score: 100
 ---
 
@@ -25,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-provider OAuth integration**: Supports Google, Microsoft, and GitHub OAuth flows via WorkOS, with OAuth endpoints configured for `redirect_uri` and `client_id` parameters.
-- **Session-based authentication**: Uses `authorization_session_id` (e.g., `01KYZ21PAHNKM2Q2AG3VC4D51G`) for tracking authentication state across providers.
-- **Compliance links**: Enforces acceptance of LlamaIndex’s [Terms of Service](https://web.archive.org/web/20250304150948/https://www.llamaindex.ai/files/terms-of-service.pdf) and [Privacy Policy](https://web.archive.org/web/20250304150948/https://www.llamaindex.ai/files/privacy-notice.pdf) during account creation.
+- **OAuth2-based authentication** with providers: Google (`provider=GoogleOAuth`), Microsoft (`provider=MicrosoftOAuth`), and GitHub (`provider=GitHubOAuth`), using WorkOS as the identity broker.
+- **Redirect URIs** are pre-configured (`redirect_uri=https://api.cloud.llamaindex.ai/api/v1/auth/workos/callback`) with a static `client_id=client_01K39WZXHMNYBR1MSJSYAQRVFT` and session tracking via `authorization_session_id`.
+- **Legal compliance** enforced via mandatory acceptance of [Terms of Service](https://www.llamaindex.ai/legal/terms-of-service) and [Privacy Policy](https://www.llamaindex.ai/legal/privacy-notice) during account creation.
 
 ## Why It Matters
 
@@ -37,11 +36,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T21:50:52.076676+05:30
+- Published: 2026-08-04T01:36:11.792842+05:30
 
 ## Related Tags
 
-- hackernews
 - meta-ai
 - models
 - rag

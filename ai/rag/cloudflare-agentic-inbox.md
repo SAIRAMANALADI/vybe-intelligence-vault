@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/agentic-inbox
-collected_at: '2026-08-03T22:56:25.272035+05:30'
-published_at: '2026-08-03T16:33:05Z'
+collected_at: '2026-08-04T01:33:06.565752+05:30'
+published_at: '2026-08-03T19:25:35Z'
 tags:
 - agents
 - github-repo
 - rag
-- scripts
 - typescript
-stars: 6718
+stars: 6719
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-04-10T00:26:27Z'
 pushed_at: '2026-04-23T21:04:17Z'
 resource_id: github:cloudflare/agentic-inbox
-first_seen: '2026-08-03T22:56:25.272035+05:30'
-last_seen: '2026-08-03T22:56:25.272035+05:30'
-last_checked: '2026-08-03T22:56:25.272035+05:30'
+first_seen: '2026-08-04T01:33:06.565752+05:30'
+last_seen: '2026-08-04T01:33:06.565752+05:30'
+last_checked: '2026-08-04T01:33:06.565752+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Serverless Architecture**: Implements a full email client using Cloudflare Workers, leveraging serverless compute for scalability and low latency.
-- **AI Integration**: Incorporates an AI agent (likely using Cloudflare's AI models) for email processing, summarization, or automation within the inbox.
-- **Self-Hosted & TypeScript**: Entirely self-contained in a TypeScript-based repository, enabling deployment on Cloudflare’s edge network without external dependencies.
+- **Architecture**: Serverless email client leveraging Cloudflare Workers for end-to-end execution, eliminating traditional backend infrastructure.
+- **AI Integration**: Embedded AI agent processes emails in real-time, enabling autonomous filtering, summarization, and response generation via TypeScript.
+- **Deployment**: Fully self-hosted, requiring only a Cloudflare Workers subscription; supports custom domain integration and persistent storage via Workers KV.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cloudflare
-- Stars: 6718
-- Forks: 845
+- Stars: 6719
+- Forks: 846
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-03T16:33:05Z
+- Last Updated: 2026-08-03T19:25:35Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-10T00:26:27Z

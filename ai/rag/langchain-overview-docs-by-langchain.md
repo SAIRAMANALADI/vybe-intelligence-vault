@@ -3,9 +3,9 @@ title: LangChain overview - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://python.langchain.com/docs/concepts/text_splitters/
-published_at: '2026-08-03T22:57:17.447562+05:30'
-collected_at: '2026-08-03T22:57:17.447579+05:30'
+source_url: https://python.langchain.com/docs/how_to/recursive_text_splitter/
+published_at: '2026-08-04T01:35:26.215703+05:30'
+collected_at: '2026-08-04T01:35:26.215714+05:30'
 tags:
 - agents
 - anthropic
@@ -14,13 +14,14 @@ tags:
 - models
 - openai
 - rag
+- reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-08-03T22:57:17.447579+05:30'
-last_seen: '2026-08-03T22:57:17.447579+05:30'
-last_checked: '2026-08-03T22:57:17.447579+05:30'
+first_seen: '2026-08-04T01:35:26.215714+05:30'
+last_seen: '2026-08-04T01:35:26.215714+05:30'
+last_checked: '2026-08-04T01:35:26.215714+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular Agent Harness**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, supporting multiple providers (OpenAI, Anthropic, Google, etc.) for flexible agent composition.
-- **Multi-Framework Architecture**: LangChain agents are built on LangGraph, enabling durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability for tracing, debugging, and evaluation.
-- **Standardized Interface & Incremental Customization**: Unified model interface across providers simplifies switching, and `create_agent` allows incremental addition of capabilities (e.g., guardrails, retries) via middleware.
+- **Agent Composition**: `create_agent` in LangChain provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic, Google) with tools, prompts, and middleware, enabling custom agent construction via `Agent = Model + Harness`.
+- **Framework Integration**: LangChain agents are built on LangGraph, inheriting durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability for tracing, debugging, and evaluation.
+- **Multi-Provider Support**: Supports standardized interfaces for chat models/embeddings across providers (OpenAI, Azure, Bedrock, HuggingFace, etc.), allowing seamless model switching with minimal code changes.
 
 ## Why It Matters
 
@@ -40,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T22:57:17.447562+05:30
+- Published: 2026-08-04T01:35:26.215703+05:30
 
 ## Related Tags
 
@@ -51,9 +52,10 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - openai
 - rag
+- reddit
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://python.langchain.com/docs/concepts/text_splitters/
+Original source: https://python.langchain.com/docs/how_to/recursive_text_splitter/

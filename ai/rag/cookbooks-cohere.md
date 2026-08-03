@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cohere.com/page/cookbooks
-published_at: '2026-08-03T09:31:32.772121+05:30'
-collected_at: '2026-08-03T09:31:32.772131+05:30'
+published_at: '2026-08-04T01:36:26.448538+05:30'
+collected_at: '2026-08-04T01:36:26.448550+05:30'
 tags:
 - agents
 - benchmark
@@ -16,13 +16,14 @@ tags:
 - models
 - paper
 - rag
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:cookbooks-cohere
-first_seen: '2026-08-03T09:31:32.772131+05:30'
-last_seen: '2026-08-03T09:31:32.772131+05:30'
-last_checked: '2026-08-03T09:31:32.772131+05:30'
+first_seen: '2026-08-04T01:36:26.448550+05:30'
+last_seen: '2026-08-04T01:36:26.448550+05:30'
+last_checked: '2026-08-04T01:36:26.448550+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-step tool integration**: Cohere's v2 API enables agents to chain multiple external tool calls (e.g., APIs, databases) via native multi-step tool use, supporting complex workflows like RAG pipelines and CSV analysis.
+- **Agentic Workflows**: Cohere's v2 API supports multi-step tool use, enabling agents to chain external API calls (e.g., search, databases) with LLM reasoning via `cohere_react_agent` for complex task automation.
 
-- **Short-term memory management**: The API supports structured short-term memory handling for agents, particularly when using LangChain's `cohere_react_agent`, to maintain context during tool interactions.
+- **RAG Integration**: Native multi-stage RAG (Retrieval-Augmented Generation) pipelines are supported, including mixed-data PDF processing and SQL database querying, with tools like `Langchain SQLDBToolkit` for structured data retrieval.
 
-- **RAG optimization**: Cookbooks demonstrate advanced RAG techniques, including agentic multi-stage retrieval, mixed-data PDF processing, and integration with vector databases (e.g., Pinecone, Weaviate) for semantic search.
+- **Fine-tuning & Deployment**: Platform supports fine-tuning models (e.g., via AWS SageMaker) and deploying custom models to AWS Marketplace, with cookbooks for domain-specific optimizations (e.g., financial CSV analysis, multilingual search).
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:31:32.772121+05:30
+- Published: 2026-08-04T01:36:26.448538+05:30
 
 ## Related Tags
 
@@ -57,6 +58,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- scripts
 - web-crawled
 - workflows
 

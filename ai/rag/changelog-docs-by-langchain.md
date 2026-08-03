@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/releases/changelog
-published_at: '2026-08-03T22:59:06.718455+05:30'
-collected_at: '2026-08-03T22:59:06.718472+05:30'
+published_at: '2026-08-04T01:37:29.859407+05:30'
+collected_at: '2026-08-04T01:37:29.859420+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:changelog-docs-by-langchain
-first_seen: '2026-08-03T22:59:06.718472+05:30'
-last_seen: '2026-08-03T22:59:06.718472+05:30'
-last_checked: '2026-08-03T22:59:06.718472+05:30'
+first_seen: '2026-08-04T01:37:29.859420+05:30'
+last_seen: '2026-08-04T01:37:29.859420+05:30'
+last_checked: '2026-08-04T01:37:29.859420+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **`deepagents` v0.7.0**: Default-agent input tokens reduced by **65%** (5,395 → 1,895) via lean prompts and trimmed tool schemas; new filesystem tools (`delete`, `write_file` overwrite), middleware overrides, and expanded prompt-caching support (Bedrock, Fireworks, NVIDIA Nemotron 3 Ultra).
+- **`deepagents` v0.7.0**: Input tokens reduced by **65%** (5,395 → 1,895) via leaner prompts and trimmed tool schemas; new filesystem tools (`delete`, `write_file` overwrite), middleware override support, and enhanced prompt caching (Bedrock, Fireworks).
 
-- **`langgraph` v1.2.0**: Introduces `DeltaChannel` (beta) for incremental state storage, per-node timeouts/error handlers, and `version="v3"` event streaming with typed, per-channel projections (`run.values`, `run.messages`).
+- **`langgraph` v1.2.0**: Introduces `DeltaChannel` (beta) for incremental state storage, per-node timeouts/error handlers, and `version="v3"` streaming API with typed, per-channel projections (e.g., `run.messages`, `run.lifecycle`).
 
-- **Breaking changes in `deepagents` v0.7.0**: Planning `todos` opt-in (no default `TodoListMiddleware`), removed backend factory shims (`BackendFactory`, `BACKEND_TYPES`), and updated output formats (`No files found` for empty `ls`/`glob`, no `cat -n` gutter in `read_file`).
+- **`deepagents` v0.5.0**: Adds async subagents, multi-modal `read_file` support (PDFs/audio/video), and backend protocol updates for binary files and improved error propagation.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T22:59:06.718455+05:30
+- Published: 2026-08-04T01:37:29.859407+05:30
 
 ## Related Tags
 

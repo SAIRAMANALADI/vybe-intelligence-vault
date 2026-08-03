@@ -4,14 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agent0ai/agent-zero
-collected_at: '2026-08-03T22:56:10.270158+05:30'
-published_at: '2026-08-03T16:42:11Z'
+collected_at: '2026-08-04T01:32:51.494949+05:30'
+published_at: '2026-08-03T18:46:40Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-stars: 18717
+- scripts
+- workflows
+stars: 18719
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-06-10T09:10:45Z'
 pushed_at: '2026-08-01T15:23:53Z'
 resource_id: github:agent0ai/agent-zero
-first_seen: '2026-08-03T22:56:10.270158+05:30'
-last_seen: '2026-08-03T22:56:10.270158+05:30'
-last_checked: '2026-08-03T22:56:10.270158+05:30'
+first_seen: '2026-08-04T01:32:51.494949+05:30'
+last_seen: '2026-08-04T01:32:51.494949+05:30'
+last_checked: '2026-08-04T01:32:51.494949+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Agent Zero is an open-source Python-based AI framework designed for building autonomous agents with capabilities for task execution, memory management, and decision-making in Linux environments.
-
-- **Core Features**: Supports modular agent architecture, integrates with LLM APIs for reasoning, and includes tools for real-time system interaction, logging, and state persistence.
-
-- **Technical Stack**: Built on Python with dependencies for AI/ML (e.g., Transformers, LangChain), system utilities (e.g., `psutil`, `subprocess`), and optional GPU acceleration for inference.
+- **Framework Overview**: Agent Zero is an open-source AI framework designed for building autonomous agents in Python, emphasizing modularity and extensibility for AI-driven applications.
+- **Key Features**: Supports autonomous agent orchestration with Linux compatibility, enabling task automation, multi-agent collaboration, and integration with AI models.
+- **Technical Stack**: Primarily Python-based, with dependencies for AI/ML workflows, and includes tools for agent lifecycle management, memory systems, and tool integration.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: agent0ai
-- Stars: 18717
+- Stars: 18719
 - Forks: 3724
 - Language: Python
 - Topics: agent, ai, assistant, autonomous, linux, zero
-- Last Updated: 2026-08-03T16:42:11Z
+- Last Updated: 2026-08-03T18:46:40Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-10T09:10:45Z

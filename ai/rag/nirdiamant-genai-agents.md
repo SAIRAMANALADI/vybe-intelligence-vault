@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/GenAI_Agents
-collected_at: '2026-08-03T22:54:35.146357+05:30'
+collected_at: '2026-08-04T01:31:16.357950+05:30'
 published_at: '2026-08-03T17:07:44Z'
 tags:
 - agents
@@ -13,7 +13,7 @@ tags:
 - jupyter notebook
 - openai
 - rag
-- workflows
+- scripts
 stars: 23610
 language: Jupyter Notebook
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-09-09T20:10:19Z'
 pushed_at: '2026-07-31T21:07:06Z'
 resource_id: github:nirdiamant/genai_agents
-first_seen: '2026-08-03T22:54:35.146357+05:30'
-last_seen: '2026-08-03T22:54:35.146357+05:30'
-last_checked: '2026-08-03T22:54:35.146357+05:30'
+first_seen: '2026-08-04T01:31:16.357950+05:30'
+last_seen: '2026-08-04T01:31:16.357950+05:30'
+last_checked: '2026-08-04T01:31:16.357950+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Resource**: Repository containing 50+ tutorials and implementations for Generative AI Agent techniques, spanning from basic conversational bots to advanced multi-agent systems.
-- **Technical Stack**: Primarily utilizes Jupyter Notebooks with integrations for LangChain, LangGraph, LLMs (e.g., OpenAI), RAG, and MCP for agentic AI workflows.
-- **Multi-Agent Focus**: Covers autonomous and multi-agent systems, including Python-based implementations for complex AI agent architectures and workflows.
+- **Comprehensive Resource**: Repository containing 50+ tutorials and implementations for Generative AI Agent techniques, ranging from basic conversational bots to advanced multi-agent systems.
+
+- **Technical Stack**: Primarily uses Jupyter Notebooks with integrations for LangChain, LangGraph, OpenAI, MCP, and RAG frameworks, focusing on Python-based AI agent development.
+
+- **High Activity & Relevance**: Last updated on 2026-08-03, with 23,610 stars and 3,968 forks, indicating strong community engagement and relevance in agentic AI, multi-agent systems, and LLM-driven automation.
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NirDiamant
 - Stars: 23610
-- Forks: 3967
+- Forks: 3968
 - Language: Jupyter Notebook
 - Topics: agentic-ai, agents, ai, ai-agents, autonomous-agents, genai, generative-ai, langchain, langgraph, llm, llms, machine-learning, mcp, multi-agent, multi-agent-systems, openai, python, rag, tutorials
 - Last Updated: 2026-08-03T17:07:44Z

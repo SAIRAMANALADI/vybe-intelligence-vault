@@ -13,13 +13,14 @@ collected_at: '2026-08-03T22:51:49.765490+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-s-the-largest-software-project-ai-can-complet
 first_seen: '2026-08-03T22:51:49.765490+05:30'
 last_seen: '2026-08-03T22:51:49.765490+05:30'
 last_checked: '2026-08-03T22:51:49.765490+05:30'
 health_score: 100
 ---
+
 
 # What's the largest software project AI can complete on its own?
 

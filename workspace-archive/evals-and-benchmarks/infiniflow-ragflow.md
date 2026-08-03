@@ -6,20 +6,18 @@ source_url: https://github.com/infiniflow/ragflow?source=post_page-----dba899ae0
 resource_id: github:infiniflow/ragflow-271f879d
 local_vault_path: ai/rag/infiniflow-ragflow-2.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: benchmark
-importance: medium
+archive_score: 87
+archive_tier: essential
+resource_kind: framework
+importance: high
 tags:
 - agents
 - github-repo
 - go
-- hackernews
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # infiniflow/ragflow
@@ -27,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAGFlow**: Open-source RAG engine integrating advanced Retrieval-Augmented Generation (RAG) with Agent capabilities to enhance LLM context layers.
-- **Technical Stack**: Implemented in Go, supporting agent-harness, context-engineering, and knowledge-compilation for LLM applications.
-- **Metrics**: 86,727 stars, 10,186 forks; last updated 2026-08-03 with focus on agentic-retrieval, context-management, and RAG workflows.
+- **Hybrid RAG-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities to enhance LLM context processing, enabling dynamic interaction between retrieval and generative components for superior performance.
+
+- **Multi-Modal Context Engineering**: Supports structured knowledge compilation and context management across diverse data modalities (text, structured tables, etc.), optimizing LLM input for improved accuracy and relevance in
 
 ## Use Cases
 

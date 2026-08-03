@@ -4,11 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-03T22:53:40.090703+05:30'
+collected_at: '2026-08-04T01:30:21.370521+05:30'
 published_at: '2026-08-01T13:42:45Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 1340
@@ -18,9 +21,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-03T22:53:40.090703+05:30'
-last_seen: '2026-08-03T22:53:40.090703+05:30'
-last_checked: '2026-08-03T22:53:40.090703+05:30'
+first_seen: '2026-08-04T01:30:21.370521+05:30'
+last_seen: '2026-08-04T01:30:21.370521+05:30'
+last_checked: '2026-08-04T01:30:21.370521+05:30'
 health_score: 100
 ---
 
@@ -28,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval methods, and hybrid architectures.
-- **Technical scope**: Covers **RAG-embeddings**, **retrieval-information** optimization, and integration strategies to enhance LLM performance via external knowledge augmentation.
-- **Metadata**: 1,340 stars, 89 forks, last updated **2026-08-01**; topics include `embeddings`, `llm`, `rag`, and `retrieval-augmented-generation`.
+- **Curated resource** for advanced **Retrieval-Augmented Generation (RAG)** techniques in **Large Language Models (LLMs)**, covering embeddings, retrieval methods, and integration strategies.
+- **Comprehensive collection** of state-of-the-art RAG frameworks, benchmarks, and research papers, with a focus on improving factual accuracy and contextual relevance in LLMs.
+- **Open-source repository** with active maintenance (last updated Aug 2026), containing categorized links to tools, datasets, and papers for scalable RAG implementations.
 
 ## Why It Matters
 

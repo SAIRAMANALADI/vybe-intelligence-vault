@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-03T22:55:40.195795+05:30'
-published_at: '2026-08-03T09:51:54Z'
+collected_at: '2026-08-04T01:32:21.434122+05:30'
+published_at: '2026-08-03T17:47:30Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
 - unknown
-stars: 2499
+stars: 2498
 language: Unknown
 status: active
 archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-03T22:55:40.195795+05:30'
-last_seen: '2026-08-03T22:55:40.195795+05:30'
-last_checked: '2026-08-03T22:55:40.195795+05:30'
+first_seen: '2026-08-04T01:32:21.434122+05:30'
+last_seen: '2026-08-04T01:32:21.434122+05:30'
+last_checked: '2026-08-04T01:32:21.434122+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding assistants, emphasizing system prompts and prompt engineering techniques.
-- **Security Classification**: Investigates security frameworks and classifications for agentic AI systems, ensuring safe and controlled deployment in coding environments.
-- **Claude Integration**: Examines the use of Claude (likely an AI model) in agentic AI systems, optimizing its role in prompt-based research and coding assistance.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding assistants, emphasizing multi-agent collaboration frameworks.
+
+- **Security Classification**: Investigates security vulnerabilities and classification frameworks for agentic AI systems, including prompt injection risks and sandboxing techniques.
+
+- **System Prompts & Tools**: Analyzes system prompts for tools like Claude, prompt engineering techniques, and their impact on agentic AI performance and reliability.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Leonxlnx
-- Stars: 2499
+- Stars: 2498
 - Forks: 1068
 - Language: Unknown
 - Topics: agentic-ai, ai-research, claude, prompt-engineering, system-prompts
-- Last Updated: 2026-08-03T09:51:54Z
+- Last Updated: 2026-08-03T17:47:30Z
 - Archived: No
 - Created At: 2026-03-31T11:47:04Z
 - Pushed At: 2026-03-31T19:04:33Z

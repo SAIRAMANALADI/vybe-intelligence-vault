@@ -14,7 +14,6 @@ tags:
 - agents
 - producthunt
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub functionality directly into the terminal, enabling workflows for issues, PRs, releases, and repository management via CLI commands.
-- **Core commands** include `gh issue list`, `gh pr status/checkout/create/checks`, `gh release create`, `gh repo view`, and `gh alias set` for scripting and automation.
-- **Installation** supports macOS (Homebrew/binary), Windows (WinGet/MSI), and Linux (apt/dnf/zypper/.deb/.rpm/.tar.gz) wit
+- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, supporting commands like `gh issue list`, `gh pr status`, `gh pr create`, and `gh release create`.
+- **Installation** is supported via package managers (Homebrew, WinGet, `apt`, `dnf`, `zypper`) or direct downloads (`.deb`, `.rpm`, `.tar.gz`, binaries/`.msi`).
+- **Features** include GitHub Copilot CLI integration, custom aliases (e.g., `gh alias set bugs 'issue list --label="bugs"'`),
 
 ## Use Cases
 
