@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-03T15:40:17.940344+05:30'
+collected_at: '2026-08-03T20:49:31.877296+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-03T15:40:17.940344+05:30'
-last_seen: '2026-08-03T15:40:17.940344+05:30'
-last_checked: '2026-08-03T15:40:17.940344+05:30'
+first_seen: '2026-08-03T20:49:31.877296+05:30'
+last_seen: '2026-08-03T20:49:31.877296+05:30'
+last_checked: '2026-08-03T20:49:31.877296+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: UniversalRAG extends retrieval-augmented generation (RAG) to handle diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), enabling unified retrieval and generation across heterogeneous corpora.
+- **Multimodal RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system supporting diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence) via a modality-agnostic retriever and modality-specific encoders.
 
-- **Modular Architecture**: Implements a flexible pipeline with modality-agnostic retrievers (e.g., dense embeddings, sparse retrieval) and modality-specific generators, leveraging cross-modal attention mechanisms for coherent fusion of retrieved evidence.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using a shared embedding space, enabling efficient retrieval across heterogeneous corpora without modality-specific preprocessing.
 
-- **Benchmark & Evaluation**: Introduces a comprehensive benchmark suite spanning 10+ datasets to evaluate cross-modal retrieval and generation, demonstrating state-of-the-art performance in multimodal QA, summarization, and long-form generation tasks.
+- **Adaptive Granularity Handling**: Dynamically adjusts retrieval granularity based on query complexity and corpus structure, optimizing performance for both fine-grained and coarse-grained retrieval tasks.
 
 ## Why It Matters
 

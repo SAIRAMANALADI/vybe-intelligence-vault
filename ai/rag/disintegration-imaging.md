@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/disintegration/imaging#image-resizing
-collected_at: '2026-08-02T01:12:09.826110+05:30'
-published_at: '2026-08-01T13:36:00Z'
+collected_at: '2026-08-03T20:57:08.084277+05:30'
+published_at: '2026-08-03T02:47:58Z'
 tags:
 - github-repo
 - go
 - rag
-stars: 5747
+stars: 5748
 language: Go
 status: active
 license: MIT
@@ -18,9 +18,9 @@ archived: false
 created_at: '2012-12-06T20:21:21Z'
 pushed_at: '2023-09-21T02:16:10Z'
 resource_id: github:disintegration/imaging
-first_seen: '2026-08-02T01:12:09.826110+05:30'
-last_seen: '2026-08-02T01:12:09.826110+05:30'
-last_checked: '2026-08-02T01:12:09.826110+05:30'
+first_seen: '2026-08-03T20:57:08.084277+05:30'
+last_seen: '2026-08-03T20:57:08.084277+05:30'
+last_checked: '2026-08-03T20:57:08.084277+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Core Functionality**: Go-based image processing library supporting operations like resizing, cropping, rotating, blurring, adjusting brightness/contrast/gamma, and applying convolution filters.
-- **Performance & Optimization**: Implements efficient algorithms for common image manipulations with minimal overhead, leveraging Go’s concurrency model where applicable.
-- **Extensibility**: Modular design allows integration with other Go imaging libraries or custom processing pipelines via its straightforward API.
+- **Core Functionality**: Go-based image processing library supporting operations like resizing, cropping, rotating, blurring, adjusting brightness/contrast/gamma, and convolution-based sharpening/blurring.
+- **Performance & Flexibility**: Optimized for efficient image manipulation with minimal overhead, leveraging Go’s concurrency model for scalable processing.
+- **Extensibility**: Modular design allows integration with other Go image libraries; supports common formats (JPEG, PNG, GIF) and advanced operations via convolution kernels.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: disintegration
-- Stars: 5747
-- Forks: 481
+- Stars: 5748
+- Forks: 482
 - Language: Go
 - Topics: blur, brightness, contrast, convolution, crop, gamma, image, resize, rotate, sharpness
-- Last Updated: 2026-08-01T13:36:00Z
+- Last Updated: 2026-08-03T02:47:58Z
 - License: MIT
 - Archived: No
 - Created At: 2012-12-06T20:21:21Z

@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- `cwebp` is a command-line tool for lossy/lossless WebP image compression, supporting input formats like PNG, JPEG, TIFF, and raw Y'CbCr, with advanced options for quality (`-q`), method (`-m`), and lossless mode (`-lossless`/`-z`).
-- Supports image manipulation (cropping `-crop`, resizing `-resize`) and fine-tuning via deblocking (`-f`), sharpness (`-sharpness`), noise shaping (`-sns`), and segmentation (`-segments`).
-- Additional features include multi-threading (`-mt`), metadata handling (`-
+- `cwebp` is a command-line tool for lossy/lossless WebP image compression from formats like PNG, JPEG, and TIFF, with fine-grained control via options such as `-q` (quality), `-lossless`, `-preset`, and `-m` (compression method).
+- Supports image manipulation (cropping via `-crop`, resizing via `-resize`) and advanced encoding tweaks (deblocking filter `-f`, noise shaping `-sns`, multi-threading `-mt`).
+- Additional features include metadata handling (`-metadata`), alpha channel processing (`-a
 
 ## Use Cases
 

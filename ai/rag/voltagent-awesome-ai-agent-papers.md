@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/VoltAgent/awesome-ai-agent-papers
-collected_at: '2026-08-03T15:40:17.981495+05:30'
+collected_at: '2026-08-03T20:49:31.830263+05:30'
 published_at: '2026-08-03T07:59:04Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-02-10T10:58:31Z'
 pushed_at: '2026-07-03T04:40:33Z'
 resource_id: github:voltagent/awesome-ai-agent-papers
-first_seen: '2026-08-03T15:40:17.981495+05:30'
-last_seen: '2026-08-03T15:40:17.981495+05:30'
-last_checked: '2026-08-03T15:40:17.981495+05:30'
+first_seen: '2026-08-03T20:49:31.830263+05:30'
+last_seen: '2026-08-03T20:49:31.830263+05:30'
+last_checked: '2026-08-03T20:49:31.830263+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: Hosts a 2026-focused collection of 1648+ AI agent research papers, covering agent engineering, memory systems, evaluation frameworks, workflows, and autonomous architectures.
-- **Technical Scope**: Encompasses LLM-driven agents, Retrieval-Augmented Generation (RAG) integration, and memory optimization techniques for agentic systems.
-- **Metadata**: Maintained with 171 forks, last updated 2026-08-03, and tagged under `ai-agents`, `llm-agents`, and `research-paper` topics.
+- **Curated 2026 AI Agent Research**: Repository aggregates cutting-edge papers on AI agents, including agent engineering, memory systems, evaluation frameworks, workflows, and autonomous architectures.
+- **Technical Scope**: Covers LLM-driven agents, retrieval-augmented generation (RAG), and memory-augmented architectures, with a focus on scalability and autonomy.
+- **Metadata**: 1,648 stars, 172 forks; last updated August 3, 2026; topics include `ai-agents`, `llm`, `memory`, and `rag`.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: VoltAgent
 - Stars: 1648
-- Forks: 171
+- Forks: 172
 - Language: Unknown
 - Topics: ai-agents, awesome, awesome-list, llm, llm-agents, memory, rag, research-paper
 - Last Updated: 2026-08-03T07:59:04Z

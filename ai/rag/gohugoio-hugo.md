@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-08-03T09:31:17.255503+05:30'
-collected_at: '2026-08-03T09:31:17.255513+05:30'
+published_at: '2026-08-03T20:53:28.054861+05:30'
+collected_at: '2026-08-03T20:53:28.054871+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-08-03T09:31:17.255513+05:30'
-last_seen: '2026-08-03T09:31:17.255513+05:30'
-last_checked: '2026-08-03T09:31:17.255513+05:30'
+first_seen: '2026-08-03T20:53:28.054871+05:30'
+last_seen: '2026-08-03T20:53:28.054871+05:30'
+last_checked: '2026-08-03T20:53:28.054871+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.164.0** introduces dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support, alongside a performance regression fix from v0.128.0.
+- **Hugo v0.164.0** introduces dark/light mode support for Chroma syntax highlighting styles via new flags in `hugo gen chromastyles`, along with new template functions: `encoding.HexEncode`, `encoding.HexDecode`, and `crypto.Hash`.
 
-- **Deprecations & Fixes**: Resources.PostProcess is deprecated in favor of `templates.Defer`, and a performance regression in larger sites (introduced in v0.128.0) has been resolved.
+- **Performance regression fix** from v0.128.0 addressed, improving build speeds for larger sites, alongside Pandoc citation support and sub-path layout support in `Page.Render`.
 
-- **Dependency Updates**: Upgrades include Chroma dark/light mode support, Go toolchain updates (e.g., `golang.org/x/tools` v0.47.0), and esbuild v0.28.1.
+- **Deprecation of `resources.PostProcess`** in favor of `templates.Defer`, with additional optimizations like `hugio.Speedup hasBytesWriter` and case-insensitive template name lookup.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:31:17.255503+05:30
+- Published: 2026-08-03T20:53:28.054861+05:30
 
 ## Related Tags
 

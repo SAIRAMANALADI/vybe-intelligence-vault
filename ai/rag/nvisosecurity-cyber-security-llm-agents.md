@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-08-03T15:41:38.108235+05:30'
+collected_at: '2026-08-03T20:50:51.999826+05:30'
 published_at: '2026-07-28T16:23:21Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-08-03T15:41:38.108235+05:30'
-last_seen: '2026-08-03T15:41:38.108235+05:30'
-last_checked: '2026-08-03T15:41:38.108235+05:30'
+first_seen: '2026-08-03T20:50:51.999826+05:30'
+last_seen: '2026-08-03T20:50:51.999826+05:30'
+last_checked: '2026-08-03T20:50:51.999826+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository containing LLM-based agents designed to automate cybersecurity tasks, including adversary emulation, leveraging frameworks like CALDERA.
-- **Technical Stack**: Implemented in Jupyter Notebooks, integrating AI/ML with cybersecurity workflows for offensive/defensive operations.
-- **Updates & Community**: Last updated July 2026, with 384 stars and 73 forks, indicating active development in AI-driven infosec automation.
+- **Purpose**: Repository containing LLM-based agents designed to automate routine cybersecurity tasks (e.g., adversary emulation) using Jupyter Notebooks.
+- **Integration**: Leverages **Caldera** (MITRE ATT&CK framework) for adversary simulation and emulation workflows.
+- **Technical Stack**: Python-based agents, LLMs for task automation, and structured cybersecurity workflows (e.g., MITRE ATT&CK TTPs).
 
 ## Why It Matters
 

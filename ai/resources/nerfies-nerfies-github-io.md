@@ -4,22 +4,21 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nerfies/nerfies.github.io
-collected_at: '2026-08-03T15:42:58.103880+05:30'
-published_at: '2026-08-01T21:10:19Z'
+collected_at: '2026-08-03T20:52:16.997819+05:30'
+published_at: '2026-08-03T13:48:10Z'
 tags:
 - github-repo
-- hackernews
 - javascript
-stars: 4309
+stars: 4311
 language: JavaScript
 status: active
 archived: false
 created_at: '2020-11-24T09:35:45Z'
 pushed_at: '2024-06-21T11:47:54Z'
 resource_id: github:nerfies/nerfies.github.io
-first_seen: '2026-08-03T15:42:58.103880+05:30'
-last_seen: '2026-08-03T15:42:58.103880+05:30'
-last_checked: '2026-08-03T15:42:58.103880+05:30'
+first_seen: '2026-08-03T20:52:16.997819+05:30'
+last_seen: '2026-08-03T20:52:16.997819+05:30'
+last_checked: '2026-08-03T20:52:16.997819+05:30'
 health_score: 100
 ---
 
@@ -27,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `nerfies/nerfies.github.io` – A JavaScript-based project with **4,309 stars** and **1,937 forks**, focused on NeRF (Neural Radiance Fields) research and applications.
-- **Technical Stack**: Primarily uses **JavaScript**, likely for web-based 3D rendering, visualization, or interactive NeRF demos.
-- **Last Updated**: **August 1, 2026** – Indicates active maintenance or recent updates to the repository.
+- **Static Website Repository**: Hosts the official website for Nerfies, a JavaScript-based project focused on neural radiance fields (NeRF) and 3D scene reconstruction.
+- **High Engagement Metrics**: Maintains 4,311 stars and 1,938 forks, indicating significant community interest and adoption in the NeRF research space.
+- **Last Updated**: Repository was last updated on **August 3, 2026**, suggesting active maintenance or updates.
 
 ## Why It Matters
 
@@ -38,11 +37,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: nerfies
-- Stars: 4309
-- Forks: 1937
+- Stars: 4311
+- Forks: 1938
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-08-01T21:10:19Z
+- Last Updated: 2026-08-03T13:48:10Z
 - Archived: No
 - Created At: 2020-11-24T09:35:45Z
 - Pushed At: 2024-06-21T11:47:54Z

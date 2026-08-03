@@ -10,12 +10,12 @@ Computer-use and browser agents transition AI from text engines to active workfl
 
 - [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (workflow - ESSENTIAL Tier)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) (framework - ESSENTIAL Tier)
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) (template - ESSENTIAL Tier)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/microsoft/playwright (Playwright)
 https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [mongodb · GitHub](https://github.com/mongodb)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf)
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq)
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-08-03 15:56 IST*
+*Last updated: 2026-08-03 21:05 IST*

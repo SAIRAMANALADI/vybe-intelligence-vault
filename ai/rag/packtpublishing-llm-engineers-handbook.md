@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-08-03T15:39:22.984036+05:30'
-published_at: '2026-08-02T19:45:22Z'
+collected_at: '2026-08-03T20:48:36.827681+05:30'
+published_at: '2026-08-03T12:56:54Z'
 tags:
 - benchmark
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 5264
+stars: 5266
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-08-03T15:39:22.984036+05:30'
-last_seen: '2026-08-03T15:39:22.984036+05:30'
-last_checked: '2026-08-03T15:39:22.984036+05:30'
+first_seen: '2026-08-03T20:48:36.827681+05:30'
+last_seen: '2026-08-03T20:48:36.827681+05:30'
+last_checked: '2026-08-03T20:48:36.827681+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable ML system design.
-- **Technical Focus**: Includes fine-tuning LLMs, evaluation methodologies, and MLOps/GenAI workflows with Python-based implementations.
-- **AWS Integration**: Demonstrates deployment strategies for LLM/RAG systems on AWS, emphasizing infrastructure-as-code and operational efficiency.
+- **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable ML system design.
+
+- **Technical Focus Areas**: Includes fine-tuning LLMs, LLM evaluation, MLOps, and GenAI implementation with Python-based workflows.
+
+- **AWS-Centric Deployment**: Demonstrates practical deployment strategies for LLM/RAG systems on AWS, emphasizing infrastructure-as-code and operational efficiency.
 
 ## Why It Matters
 
@@ -43,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PacktPublishing
-- Stars: 5264
+- Stars: 5266
 - Forks: 1267
 - Language: Python
 - Topics: aws, fine-tuning-llm, genai, llm, llm-evaluation, llmops, ml-system-design, mlops, rag
-- Last Updated: 2026-08-02T19:45:22Z
+- Last Updated: 2026-08-03T12:56:54Z
 - License: MIT
 - Archived: No
 - Created At: 2024-04-09T10:56:03Z

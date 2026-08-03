@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-03T15:39:22.883292+05:30'
+collected_at: '2026-08-03T20:48:36.754583+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-03T15:39:22.883292+05:30'
-last_seen: '2026-08-03T15:39:22.883292+05:30'
-last_checked: '2026-08-03T15:39:22.883292+05:30'
+first_seen: '2026-08-03T20:48:36.754583+05:30'
+last_seen: '2026-08-03T20:48:36.754583+05:30'
+last_checked: '2026-08-03T20:48:36.754583+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- Implements **Vietnamese-specific Retrieval-Augmented Generation (RAG)** pipeline with optimized embedding and retrieval for low-resource language efficiency.
-- Utilizes **FAISS (Facebook AI Similarity Search)** for vector indexing and **Vietnamese BERT-based models** (e.g., vinai/phobert) for contextual embedding generation.
-- Includes **modular architecture** with FastAPI backend, supporting dynamic document ingestion, hybrid search (semantic + keyword), and GPU-accelerated inference.
+- **Vietnamese RAG Implementation**: Repository demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese language processing, including text preprocessing, embedding models, and retrieval mechanisms optimized for Vietnamese corpora.
+
+- **Python-Based Pipeline**: Features a Python-based backend with modular components for document retrieval, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert`), and integration with LLM APIs (e.g., `vllm` or `transformers`).
+
+- **Evaluation & Scalability**: Includes evaluation metrics (e.g., retrieval precision/recall, answer correctness) and scalability considerations (e.g., vector database like `FAISS` or `Milvus` for efficient similarity search).
 
 ## Why It Matters
 

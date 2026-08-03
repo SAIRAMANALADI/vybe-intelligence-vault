@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-03T15:40:07.941500+05:30'
+collected_at: '2026-08-03T20:49:21.860860+05:30'
 published_at: '2026-08-02T10:27:38Z'
 tags:
 - github-repo
+- models
 - python
 - rag
 - youtube
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-03T15:40:07.941500+05:30'
-last_seen: '2026-08-03T15:40:07.941500+05:30'
-last_checked: '2026-08-03T15:40:07.941500+05:30'
+first_seen: '2026-08-03T20:49:21.860860+05:30'
+last_seen: '2026-08-03T20:49:21.860860+05:30'
+last_checked: '2026-08-03T20:49:21.860860+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long-form video content by leveraging multi-modal embeddings and hierarchical retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interact with video content via multi-modal inputs (text + video frames).
 
-- **Multi-Modal Integration**: Combines visual, audio, and textual modalities using specialized encoders (e.g., CLIP for frames, Whisper for speech) to generate unified representations for video understanding.
+- **Multi-Modal Integration**: Leverages video embeddings and temporal segmentation for efficient retrieval, enhancing LLM comprehension of extended video sequences without fine-tuning.
 
-- **Efficiency Optimizations**: Implements chunking, indexing, and dynamic retrieval strategies to handle long videos (e.g., 10+ hours) with sub-linear scaling, reducing latency in LLM inference.
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for video processing, retrieval, and generation, optimized for scalability and real-time interaction.
 
 ## Why It Matters
 

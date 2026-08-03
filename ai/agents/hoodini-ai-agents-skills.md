@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hoodini/ai-agents-skills
-collected_at: '2026-08-03T15:40:22.957173+05:30'
+collected_at: '2026-08-03T20:49:36.791560+05:30'
 published_at: '2026-08-01T13:37:21Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - python
 - workflows
 stars: 262
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-07T15:25:35Z'
 pushed_at: '2026-07-11T22:17:31Z'
 resource_id: github:hoodini/ai-agents-skills
-first_seen: '2026-08-03T15:40:22.957173+05:30'
-last_seen: '2026-08-03T15:40:22.957173+05:30'
-last_checked: '2026-08-03T15:40:22.957173+05:30'
+first_seen: '2026-08-03T20:49:36.791560+05:30'
+last_seen: '2026-08-03T20:49:36.791560+05:30'
+last_checked: '2026-08-03T20:49:36.791560+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Curated repository of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) to enhance agentic workflows.
-- **Metadata**: 262 stars, 59 forks, Python-based, last updated 2026-08-01.
-- **Origin**: Created by Yuval Avidani using GitHub Copilot in VS Code Insiders.
+- **Purpose**: Curated repository of specialized skills for AI coding agents (e.g., Claude Code, GitHub Copilot, Cursor, Windsurf) to enhance functionality in Python-based workflows.
+- **Metadata**: 262 stars, 59 forks, last updated 2026-08-01; created by Yuval Avidani using GitHub Copilot via VS Code Insiders.
+- **Technical Stack**: Python-based; no additional topics or dependencies specified in metadata.
 
 ## Why It Matters
 

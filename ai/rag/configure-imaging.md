@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-08-03T09:32:38.114381+05:30'
-collected_at: '2026-08-03T09:32:38.114394+05:30'
+published_at: '2026-08-03T20:55:31.621823+05:30'
+collected_at: '2026-08-03T20:55:31.621835+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-08-03T09:32:38.114394+05:30'
-last_seen: '2026-08-03T09:32:38.114394+05:30'
-last_checked: '2026-08-03T09:32:38.114394+05:30'
+first_seen: '2026-08-03T20:55:31.621835+05:30'
+last_seen: '2026-08-03T20:55:31.621835+05:30'
+last_checked: '2026-08-03T20:55:31.621835+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's imaging module supports AVIF (lossy/lossless, encoder speed 1-10, quality 1-100), JPEG (quality 1-100), and WebP (lossy/lossless, method 0-6, quality 1-100, `useSharpYuv` flag) with format-specific settings replacing deprecated global `compression`, `hint`, and `quality` options.
+- **Image Processing Configuration**: Hugo's imaging module supports AVIF, JPEG, and WebP formats with format-specific settings for `compression`, `hint`, `quality`, and advanced options like `encoderSpeed` (AVIF) and `method` (WebP).
 
-- **Resampling & Focal Point**: Default `resampleFilter` is `box` (fast averaging), with alternatives like `lanczos` (high-quality) or `nearestNeighbor` (fastest). Smart cropping uses `muesli/smartcrop` for focal point detection (`TopLeft`, `Center`, etc.).
+- **Top-Level Imaging Parameters**: Default settings include `anchor` (cropping/filling focal point), `bgColor` (background for transparent-to-opaque conversions), `resampleFilter` (e.g., `lanczos`, `catmullRom`), and deprecated global `quality`/`compression`/`hint` (now format-specific).
 
-- **Metadata Handling**: The `Meta` method filters EXIF/IPTC/XMP fields via glob patterns (e.g., excluding `GPS|Exif|*Exposure*`) and sources (default: `['exif', 'iptc']`), optimizing cache size and build performance.
+- **Metadata Handling**: The `meta` method allows granular control over EXIF/IPTC/XMP metadata extraction via `fields` (glob patterns) and `sources` (e.g., `exif`, `iptc`), with defaults excluding technical metadata to optimize performance.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:32:38.114381+05:30
+- Published: 2026-08-03T20:55:31.621823+05:30
 
 ## Related Tags
 

@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-03T15:41:07.994282+05:30'
+collected_at: '2026-08-03T20:50:21.843570+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
 - workflows
 stars: 536
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-03T15:41:07.994282+05:30'
-last_seen: '2026-08-03T15:41:07.994282+05:30'
-last_checked: '2026-08-03T15:41:07.994282+05:30'
+first_seen: '2026-08-03T20:50:21.843570+05:30'
+last_seen: '2026-08-03T20:50:21.843570+05:30'
+last_checked: '2026-08-03T20:50:21.843570+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Best Practices Repository**: Curates standardized coding practices and frameworks for AI agents across multiple languages (TypeScript, Kotlin, Go, Java, etc.) and platforms (Android, iOS, React, Angular, etc.).
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot), designed to guide AI agents in adhering to coding standards.
 
-- **Structured Agent Skill Guidelines**: Provides framework-specific rules (e.g., NestJS, Spring Boot, Next.js) to ensure AI agents adhere to optimized development standards and maintainability.
+- **Key Features**: Includes framework-specific guidelines (e.g., cursor rules, coding standards) and supports 19+ technologies, ensuring consistency in AI-driven development workflows.
 
-- **Active Maintenance & Community-Driven**: Last updated in 2026, with 536 stars and 155 forks, indicating ongoing contributions and adoption for cursor rules and agentic AI workflows.
+- **Metadata**: 536 stars, 155 forks, last updated July 30, 2026, with topics covering agentic AI, mobile/web frameworks, and backend systems.
 
 ## Why It Matters
 

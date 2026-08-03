@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-03T15:39:27.928759+05:30'
+collected_at: '2026-08-03T20:48:41.737634+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 95
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-03T15:39:27.928759+05:30'
-last_seen: '2026-08-03T15:39:27.928759+05:30'
-last_checked: '2026-08-03T15:39:27.928759+05:30'
+first_seen: '2026-08-03T20:48:41.737634+05:30'
+last_seen: '2026-08-03T20:48:41.737634+05:30'
+last_checked: '2026-08-03T20:48:41.737634+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Demonstrates best practices for integrating large language models (LLMs) with retrieval-augmented generation (RAG) systems in Python.
-- **Optimization Techniques**: Focuses on retrieval strategies, embedding models, and prompt engineering to enhance LLM performance.
-- **Evaluation Framework**: Provides methodologies for benchmarking RAG pipelines, including metrics for relevance, latency, and cost efficiency.
+- **RAG Implementation Guide**: Repository provides best practices for integrating retrieval-augmented generation (RAG) with large language models (LLMs), focusing on optimizing retrieval quality and generation performance.
+
+- **Python-Centric Workflow**: All examples and tools are implemented in Python, leveraging libraries like LangChain, FAISS, and Hugging Face Transformers for modular RAG pipelines.
+
+- **Evaluation & Optimization**: Includes methodologies for benchmarking retrieval accuracy, generation coherence, and end-to-end latency, with emphasis on iterative refinement of prompt engineering and vector database tuning.
 
 ## Why It Matters
 

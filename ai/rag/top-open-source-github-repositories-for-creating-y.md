@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-08-03T15:42:58.605662+05:30'
-collected_at: '2026-08-03T15:42:58.605671+05:30'
+published_at: '2026-08-03T20:52:22.386565+05:30'
+collected_at: '2026-08-03T20:52:22.386576+05:30'
 tags:
 - agents
 - benchmark
@@ -17,12 +17,13 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-08-03T15:42:58.605671+05:30'
-last_seen: '2026-08-03T15:42:58.605671+05:30'
-last_checked: '2026-08-03T15:42:58.605671+05:30'
+first_seen: '2026-08-03T20:52:22.386576+05:30'
+last_seen: '2026-08-03T20:52:22.386576+05:30'
+last_checked: '2026-08-03T20:52:22.386576+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source RAG frameworks**: Resemble AI provides modular, open-source tools like **Cognita** (Truefoundry) for RAG pipeline orchestration, **Verba** (Weaviate) for document ingestion and retrieval, and **LlamaIndex** for structured data indexing and querying, enabling customizable RAG implementations.
+- **Resemble AI** provides a suite of **multimodal deepfake detection and protection tools**, including **Resemble Detect** for real-time deepfake monitoring, **Resemble Identity** for biometric verification, and **Resemble Watermarker** for media authentication.
 
-- **Multimodal deepfake detection**: Resemble AI offers **Resemble Detect** for real-time deepfake detection across audio/video, **Resemble Meetings** for live call monitoring, and **Resemble Intelligence** for contextual analysis, leveraging multimodal AI models to identify synthetic media artifacts.
+- **Open-source RAG frameworks** like **Cognita (Truefoundry)**, **Verba (Weaviate)**, and **LlamaIndex** offer modular, customizable architectures for **Retrieval-Augmented Generation (RAG)**, supporting document ingestion, vector DB integration, and LLM deployment.
 
-- **Security and verification tools**: Includes **Resemble Identity** for voice biometric authentication, **Resemble Watermarker** for media provenance, and a **Chrome extension** for browser-based deepfake scanning, addressing authentication, tamper-proofing, and detection in production environments.
+- **GitHub repositories** such as **System Design Primer** and **Realworld** provide **scalable system design resources** and **end-to-end demo applications**, aiding in the development of **AI-native RAG pipelines** with structured workflows and dependency management.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T15:42:58.605662+05:30
+- Published: 2026-08-03T20:52:22.386565+05:30
 
 ## Related Tags
 
@@ -58,6 +59,7 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 
 ## Source

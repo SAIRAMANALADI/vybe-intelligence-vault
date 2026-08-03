@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-08-03T15:40:53.013235+05:30'
+collected_at: '2026-08-03T20:50:06.857654+05:30'
 published_at: '2026-08-03T02:38:21Z'
 tags:
 - agents
@@ -17,11 +17,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-06-19T14:26:15Z'
-pushed_at: '2026-08-03T09:24:42Z'
+pushed_at: '2026-08-03T11:03:53Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-08-03T15:40:53.013235+05:30'
-last_seen: '2026-08-03T15:40:53.013235+05:30'
-last_checked: '2026-08-03T15:40:53.013235+05:30'
+first_seen: '2026-08-03T20:50:06.857654+05:30'
+last_seen: '2026-08-03T20:50:06.857654+05:30'
+last_checked: '2026-08-03T20:50:06.857654+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based framework designed for building real-time, multi-modal conversational voice AI agents with video and voice integration capabilities.
-
-- **Core Features**: Supports real-time processing, multi-modal interactions (voice/video), and scalable agent deployment with modular architecture.
-
-- **Repository Stats**: 11,013 stars, 1,348 forks, last updated on 2026-08-03; actively maintained for AI-driven conversational applications.
+- **Open-source Python framework** for building **real-time, multi-modal conversational voice AI agents**, supporting both video and voice inputs/outputs.
+- **Optimized for low-latency interactions**, enabling dynamic, context-aware agent responses in conversational AI applications.
+- **Modular architecture** with extensible components for integrating custom models, APIs, and multi-modal processing pipelines.
 
 ## Why It Matters
 
@@ -50,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z
-- Pushed At: 2026-08-03T09:24:42Z
+- Pushed At: 2026-08-03T11:03:53Z
 
 ## Possible Use Cases
 

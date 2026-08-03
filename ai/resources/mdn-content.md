@@ -5,15 +5,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/mdn/content/blob/main/files/en-us/web/security/defenses/subresource_integrity/index.md?plain=1
-published_at: '2026-08-03T09:37:13.393583+05:30'
-collected_at: '2026-08-03T09:37:13.393597+05:30'
+published_at: '2026-08-03T20:59:05.547838+05:30'
+collected_at: '2026-08-03T20:59:05.547850+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:mdn/content
-first_seen: '2026-08-03T09:37:13.393597+05:30'
-last_seen: '2026-08-03T09:37:13.393597+05:30'
-last_checked: '2026-08-03T09:37:13.393597+05:30'
+first_seen: '2026-08-03T20:59:05.547850+05:30'
+last_seen: '2026-08-03T20:59:05.547850+05:30'
+last_checked: '2026-08-03T20:59:05.547850+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Subresource Integrity (SRI)** enforces cryptographic hash verification (`sha256`, `sha384`, `sha514`) for fetched resources (scripts/stylesheets) to detect tampering, mitigating supply chain attacks via CDNs or third-party hosts.
+- **Subresource Integrity (SRI)** enforces cryptographic hash validation (SHA-256/384/512) on fetched resources (scripts/stylesheets) to prevent supply chain attacks by ensuring resource integrity.
 
-- **CORS Requirement**: SRI mandates `crossorigin` attribute for cross-origin requests and `Access-Control-Allow-Origin` headers from the server to validate integrity hashes.
+- **CORS Requirement**: SRI mandates `crossorigin` attribute and CORS-enabled responses (`Access-Control-Allow-Origin`) for cross-origin resources; `no-cors` mode is explicitly blocked to prevent hash-based information leakage.
 
-- **Integrity Policy Headers**: `Integrity-Policy` (blocking) and `Integrity-Policy-Report-Only` headers enforce mandatory `integrity` attributes, with violation reports sent to specified endpoints via the Reporting API.
+- **Policy Enforcement**: HTTP headers `Integrity-Policy` and `Integrity-Policy-Report-Only` enforce mandatory `integrity` attributes on scripts/stylesheets, with violation reporting via the Reporting API.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T09:37:13.393583+05:30
+- Published: 2026-08-03T20:59:05.547838+05:30
 
 ## Related Tags
 

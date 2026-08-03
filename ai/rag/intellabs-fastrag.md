@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-08-03T15:39:47.946821+05:30'
+collected_at: '2026-08-03T20:49:01.813869+05:30'
 published_at: '2026-08-02T03:30:43Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-08-03T15:39:47.946821+05:30'
-last_seen: '2026-08-03T15:39:47.946821+05:30'
-last_checked: '2026-08-03T15:39:47.946821+05:30'
+first_seen: '2026-08-03T20:49:01.813869+05:30'
+last_seen: '2026-08-03T20:49:01.813869+05:30'
+last_checked: '2026-08-03T20:49:01.813869+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG), optimized for speed and scalability in NLP tasks like QA, summarization, and semantic search.
-- **Key Features**: Supports multi-modal retrieval, knowledge graphs, and integrates with models like ColBERT, sentence-transformers, and diffusion-based generators for advanced generative AI workflows.
-- **Benchmarking & Performance**: Includes built-in benchmarks for evaluating RAG pipelines, leveraging Intel-optimized tools for high-throughput processing in transformer-based architectures.
+- **Framework Overview**: `fastRAG` is an efficient Python-based framework for **Retrieval-Augmented Generation (RAG)**, integrating **transformers**, **sentence embeddings**, and **semantic search** for tasks like QA, summarization, and multi-modal generation.
+- **Key Features**: Supports **ColBERT** for retrieval, **diffusion models** for generation, and **knowledge graphs** for structured retrieval; optimized for **low-latency inference** and scalable deployment.
+- **Benchmarking & Integration**: Includes **benchmarking tools** for RAG pipelines, supports **multi-modal inputs**, and integrates with **LLMs** (e.g., Hugging Face transformers) for end-to-end generative workflows.
 
 ## Why It Matters
 

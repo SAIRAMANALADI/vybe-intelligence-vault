@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cohere.com/terms-of-use
-published_at: '2026-08-03T01:14:26.734559+05:30'
-collected_at: '2026-08-03T01:14:26.734571+05:30'
+published_at: '2026-08-03T20:58:35.529129+05:30'
+collected_at: '2026-08-03T20:58:35.529141+05:30'
 tags:
 - agents
 - benchmark
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:terms-of-use-cohere
-first_seen: '2026-08-03T01:14:26.734571+05:30'
-last_seen: '2026-08-03T01:14:26.734571+05:30'
-last_checked: '2026-08-03T01:14:26.734571+05:30'
+first_seen: '2026-08-03T20:58:35.529141+05:30'
+last_seen: '2026-08-03T20:58:35.529141+05:30'
+last_checked: '2026-08-03T20:58:35.529141+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Licensing & Data Rights**: Users grant Cohere a **non-exclusive, worldwide, royalty-free, irrevocable, sublicensable, and fully paid-up license** to access, process, store, and transmit Customer Data for service provision, compliance enforcement, and API/finetuning data sharing with third parties (excluding custom model sharing). API Data and Finetuning Data may be used by third parties under their own terms.
+- **Binding Agreement & User Representations**: By accessing/using the Cohere Solution, users warrant legal capacity, truthful data submission, and compliance with Terms of Use; corporate entities must have authority to bind them. Direct competitors are prohibited without prior written consent.
 
-- **Prohibited Use & Access Restrictions**: Direct competitors of Cohere are **explicitly prohibited** from accessing the Cohere Solution without prior written consent. Users may not benchmark, monitor performance, or use the platform for competitive purposes.
+- **Data Rights & Third-Party Sharing**: Cohere retains a global, royalty-free license to access, process, and share **Customer Data** (including API/Finetuning Data) with third parties for service provision, benchmarking, and model improvements, though custom models are not shared.
 
-- **Account & Liability Terms**: Users are **solely responsible** for securing their User ID and account activity, including actions by authorized users. Cohere reserves the right to **suspend access** for violations, delinquent payments, or security concerns, with no liability for actions taken under the account.
+- **Subscription & Payment Terms**: Subscription Orders require email confirmation and a processed **Subscription Agreement**; payment processing is subject to third-party Payment Processor policies, with Cohere reserving the right to decline orders or require additional verification.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T01:14:26.734559+05:30
+- Published: 2026-08-03T20:58:35.529129+05:30
 
 ## Related Tags
 

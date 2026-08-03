@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/labring/sealos
-collected_at: '2026-08-03T15:40:22.984226+05:30'
+collected_at: '2026-08-03T20:49:36.804069+05:30'
 published_at: '2026-08-03T08:54:09Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2018-08-15T12:22:50Z'
 pushed_at: '2026-08-03T08:52:52Z'
 resource_id: github:labring/sealos
-first_seen: '2026-08-03T15:40:22.984226+05:30'
-last_seen: '2026-08-03T15:40:22.984226+05:30'
-last_checked: '2026-08-03T15:40:22.984226+05:30'
+first_seen: '2026-08-03T20:49:36.804069+05:30'
+last_seen: '2026-08-03T20:49:36.804069+05:30'
+last_checked: '2026-08-03T20:49:36.804069+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Enables deployment of GitHub projects or AI-generated code as production-ready applications with automated, AI-driven operational maintenance.
-- **Technical Stack**: Primarily TypeScript, with Go (Golang) for backend components, leveraging Kubernetes (`kubeadm`, `IPVS`, HA setups) and Docker for container orchestration.
-- **Features**: Supports Git-based deployments, AI-powered system operations, and high-availability Kubernetes clusters with integrated cloud OS capabilities.
+- **Purpose**: Deploys GitHub projects or AI-generated code as containerized applications, ensuring continuous operation via AI-driven management.
+- **Core Technologies**: Built with TypeScript, Go, and Kubernetes (leveraging `kubeadm`, `IPVS`, and HA setups), with Docker for containerization.
+- **Features**: Supports GitHub integration, AI agent collaboration, and automated scaling/operations for Kubernetes-based cloud environments.
 
 ## Why It Matters
 

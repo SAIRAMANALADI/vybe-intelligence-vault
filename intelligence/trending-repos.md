@@ -19,8 +19,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [HeJiguang/codescan](https://github.com/HeJiguang/codescan) | `ai-coding-agents/` | 70 |
 | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | `ai-coding-agents/` | 70 |
 | [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench) | `ai-coding-agents/` | 70 |
-| [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com) | `ai-coding-agents/` | 70 |
-| [GitHub CLI | Take GitHub to the command line](https://cli.github.com) | `ai-coding-agents/` | 70 |
 | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | `ai-coding-agents/` | 70 |
 | [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` | 70 |
 | [abuzarmahmood/blech_github_bot](https://github.com/abuzarmahmood/blech_github_bot) | `ai-coding-agents/` | 70 |
@@ -29,5 +27,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [iuyup/AgentFlow](https://github.com/iuyup/AgentFlow) | `ai-coding-agents/` | 70 |
 | [Flux159/mcp-chat](https://github.com/flux159/mcp-chat) | `ai-coding-agents/` | 70 |
 | [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) | `ai-coding-agents/` | 70 |
+| [seehiong/seehiong.github.io](https://github.com/seehiong/seehiong.github.io) | `ai-coding-agents/` | 70 |
+| [kno2gether/crewai-examples](https://github.com/kno2gether/crewai-examples) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

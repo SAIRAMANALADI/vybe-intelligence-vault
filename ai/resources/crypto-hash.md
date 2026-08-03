@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-08-03T09:32:33.101634+05:30'
-collected_at: '2026-08-03T09:32:33.101647+05:30'
+published_at: '2026-08-03T20:55:06.716234+05:30'
+collected_at: '2026-08-03T20:55:06.716246+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-08-03T09:32:33.101647+05:30'
-last_seen: '2026-08-03T09:32:33.101647+05:30'
-last_checked: '2026-08-03T09:32:33.101647+05:30'
+first_seen: '2026-08-03T20:55:06.716246+05:30'
+last_seen: '2026-08-03T20:55:06.716246+05:30'
+last_checked: '2026-08-03T20:55:06.716246+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Hashing Functionality**: The `crypto.Hash` function in Hugo supports multiple cryptographic hash algorithms (`md5`, `sha1`, `sha256`, `sha384`, `sha512`), defaulting to `sha256` if unspecified, and returns a hexadecimal-encoded checksum string.
-
-- **Syntax & Usage**: The function can be called as `crypto.Hash [ALGORITHM] INPUT` or piped (`| crypto.Hash [ALGORITHM]`), with the input being hashed and returned as a hex string.
-
-- **SRI Integration**: Supports Subresource Integrity (SRI) by combining with `encoding.HexDecode` and `encoding.Base64Encode` to generate SRI-compatible hashes (e.g., `sha256-<base64-encoded-hash>`).
+- **Hashing Function**: `crypto.Hash` computes checksums of input strings using cryptographic algorithms (`md5`, `sha1`, `sha256` (default), `sha384`, or `sha512`), returning the result as a hexadecimal string.
+- **Default Algorithm**: If no algorithm is specified, `sha256` is used by default.
+- **SRI Integration**: The output can be combined with `encoding.HexDecode` and `encoding.Base64Encode` to generate Subresource Integrity (SRI) hashes for fingerprinted resources.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T09:32:33.101634+05:30
+- Published: 2026-08-03T20:55:06.716234+05:30
 
 ## Related Tags
 

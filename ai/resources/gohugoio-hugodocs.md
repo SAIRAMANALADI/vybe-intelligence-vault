@@ -1,28 +1,28 @@
 ---
-title: 'content: Fix formatting · gohugoio/hugoDocs@c9c9707 · GitHub'
+title: Sign in to GitHub · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/gohugoio/hugoDocs/commit/c9c97072069cf85e5e2623b49b73aa85d6b3b989
-published_at: '2026-08-03T15:50:01.013981+05:30'
-collected_at: '2026-08-03T15:50:01.013997+05:30'
+source_url: https://github.com/gohugoio/hugoDocs/edit/master/content/en/methods/page/Render.md
+published_at: '2026-08-03T20:57:14.211756+05:30'
+collected_at: '2026-08-03T20:57:14.211767+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugodocs
-first_seen: '2026-08-03T15:50:01.013997+05:30'
-last_seen: '2026-08-03T15:50:01.013997+05:30'
-last_checked: '2026-08-03T15:50:01.013997+05:30'
+first_seen: '2026-08-03T20:57:14.211767+05:30'
+last_seen: '2026-08-03T20:57:14.211767+05:30'
+last_checked: '2026-08-03T20:57:14.211767+05:30'
 health_score: 100
 ---
 
-# content: Fix formatting · gohugoio/hugoDocs@c9c9707 · GitHub
+# Sign in to GitHub · GitHub
 
 ## Summary
 
-- **Repository**: `gohugoio/hugoDocs` is a public GitHub repository under the Hugo static site generator organization, containing documentation for Hugo.
-- **Commit**: `c9c9707` by `jmooring` fixes formatting in `content/en/methods/page/Render.md`, correcting Markdown syntax for inline code (backticks) in two locations.
-- **Changes**: 2 additions and 2 deletions in a single file, specifically modifying lines 46 and 87 to standardize code formatting for content type `books`.
+- **Authentication Error**: The page failed to load due to an unspecified error during the sign-in process.
+- **Recovery Option**: Users can reset their password via the "Forgot password?" link if locked out.
+- **Alternative Access**: New users can create an account or sign in using a passkey as an alternative authentication method.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T15:50:01.013981+05:30
+- Published: 2026-08-03T20:57:14.211756+05:30
 
 ## Related Tags
 
@@ -40,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugoDocs/commit/c9c97072069cf85e5e2623b49b73aa85d6b3b989
+Original source: https://github.com/gohugoio/hugoDocs/edit/master/content/en/methods/page/Render.md

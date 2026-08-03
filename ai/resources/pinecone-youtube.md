@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/@pinecone-io
-published_at: '2026-08-01T14:12:33.865837+05:30'
-collected_at: '2026-08-01T14:12:33.865850+05:30'
+published_at: '2026-08-03T20:55:35.081202+05:30'
+collected_at: '2026-08-03T20:55:35.081216+05:30'
 tags:
+- hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:pinecone-youtube
-first_seen: '2026-08-01T14:12:33.865850+05:30'
-last_seen: '2026-08-01T14:12:33.865850+05:30'
-last_checked: '2026-08-01T14:12:33.865850+05:30'
+first_seen: '2026-08-03T20:55:35.081216+05:30'
+last_seen: '2026-08-03T20:55:35.081216+05:30'
+last_checked: '2026-08-03T20:55:35.081216+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **YouTube Developer Platform**: Provides APIs, tools, and documentation for developers to integrate YouTube functionality (e.g., video upload, analytics, live streaming) into third-party applications via [YouTube for Developers](https://developers.google.com/youtube).
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, providing services including content hosting, streaming, monetization, and creator tools under Google's infrastructure.
 
-- **Content Policies & Safety**: Enforces community guidelines, copyright policies, and safety measures via [YouTube’s Policy & Safety page](https://www.youtube.com/about/policies/), including automated detection (e.g., Content ID) and manual reviews.
+- **Technical Infrastructure**: Utilizes Google's distributed systems for scalable video delivery, with backend services optimized for low-latency streaming, ad insertion, and real-time analytics.
 
-- **Monetization & Advertising**: Offers revenue-sharing programs for creators (e.g., AdSense, YouTube Premium) and tools for advertisers via [YouTube Ads](https://www.youtube.com/ads/), with dynamic ad insertion and targeting based on user data.
+- **Developer & Policy Framework**: Offers a public API (YouTube Data API) for third-party integration, adheres to Google’s privacy policies, and enforces content moderation via automated systems and community guidelines.
 
 ## Why It Matters
 
@@ -35,10 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T14:12:33.865837+05:30
+- Published: 2026-08-03T20:55:35.081202+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 - youtube
 

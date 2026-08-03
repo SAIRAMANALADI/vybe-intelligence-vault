@@ -4,18 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-08-03T15:44:12.285332+05:30'
-published_at: '2026-08-02T17:39:22Z'
+collected_at: '2026-08-03T20:54:17.593463+05:30'
+published_at: '2026-08-03T11:48:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
 - workflows
-stars: 14864
+stars: 14863
 language: Python
 status: active
 license: Apache-2.0
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-08-03T15:44:12.285332+05:30'
-last_seen: '2026-08-03T15:44:12.285332+05:30'
-last_checked: '2026-08-03T15:44:12.285332+05:30'
+first_seen: '2026-08-03T20:54:17.593463+05:30'
+last_seen: '2026-08-03T20:54:17.593463+05:30'
+last_checked: '2026-08-03T20:54:17.593463+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
+- **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
 
-- **Key Features**: Supports multiple backends (e.g., llama.cpp, ONNX, OpenVINO) and integrates parsing, retrieval, and generative AI tools, enabling modular, scalable agent-based workflows.
+- **Multi-Backend Support**: Compatible with multiple inference backends (e.g., Llama.cpp, ONNX, OpenVINO) and supports parsing, retrieval, and agent-based workflows for modular AI system integration.
 
-- **Technical Stack**: Designed for low-latency, high-throughput deployments with lightweight models, leveraging optimized inference engines and retrieval mechanisms for enterprise applications.
+- **High Scalability**: Designed for enterprise deployment with active maintenance (last updated Aug 2026) and a large community (14.8k+ stars, 2.9k+ forks), emphasizing small model optimization and tooling for generative AI workflows.
 
 ## Why It Matters
 
@@ -46,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: llmware-ai
-- Stars: 14864
-- Forks: 2956
+- Stars: 14863
+- Forks: 2955
 - Language: Python
 - Topics: agents, generative-ai-tools, llamacpp, llm, onnx, openvino, parsing, retrieval-augmented-generation, small-specialized-models
-- Last Updated: 2026-08-02T17:39:22Z
+- Last Updated: 2026-08-03T11:48:01Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-09-29T15:19:06Z

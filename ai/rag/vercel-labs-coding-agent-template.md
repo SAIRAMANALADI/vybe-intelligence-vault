@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-08-03T15:40:42.991850+05:30'
-published_at: '2026-07-30T15:28:52Z'
+collected_at: '2026-08-03T20:49:56.865578+05:30'
+published_at: '2026-08-03T12:37:51Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 1754
+- workflows
+stars: 1755
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-07-30T00:17:35Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-08-03T15:40:42.991850+05:30'
-last_seen: '2026-08-03T15:40:42.991850+05:30'
-last_checked: '2026-08-03T15:40:42.991850+05:30'
+first_seen: '2026-08-03T20:49:56.865578+05:30'
+last_seen: '2026-08-03T20:49:56.865578+05:30'
+last_checked: '2026-08-03T20:49:56.865578+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent AI coding platform** leveraging **Vercel Sandbox** for isolated execution environments and **AI Gateway** for optimized AI model routing and inference.
-- **TypeScript-based** template enabling scalable, modular agent interactions with built-in TypeScript type safety and Vercel deployment compatibility.
-- **Last updated July 2026**; repository provides a starter kit for deploying autonomous coding agents with minimal configuration overhead.
+- **Multi-agent architecture**: Implements a distributed AI coding system leveraging Vercel Sandbox for isolated agent execution and AI Gateway for unified API routing/management.
+
+- **TypeScript-based framework**: Provides a structured TypeScript template for building scalable, agentic workflows with Vercel’s serverless infrastructure.
+
+- **Vercel integration**: Utilizes Vercel’s ecosystem (Sandbox, AI Gateway) for secure, scalable, and low-latency agent interactions with built-in observability (last updated Aug 2026).
 
 ## Why It Matters
 
@@ -40,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1754
-- Forks: 290
+- Stars: 1755
+- Forks: 291
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-30T15:28:52Z
+- Last Updated: 2026-08-03T12:37:51Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

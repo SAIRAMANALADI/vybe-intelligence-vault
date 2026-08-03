@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-08-03T09:28:36.597089+05:30'
-published_at: '2026-08-03T03:00:04Z'
+collected_at: '2026-08-03T20:50:46.916825+05:30'
+published_at: '2026-08-03T15:01:15Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 14075
+stars: 14098
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-08-02T09:27:53Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-08-03T09:28:36.597089+05:30'
-last_seen: '2026-08-03T09:28:36.597089+05:30'
-last_checked: '2026-08-03T09:28:36.597089+05:30'
+first_seen: '2026-08-03T20:50:46.916825+05:30'
+last_seen: '2026-08-03T20:50:46.916825+05:30'
+last_checked: '2026-08-03T20:50:46.916825+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Security Scanner for AI Agent Skills**: Tool designed to detect vulnerabilities, malicious patterns, and security risks in AI agent skills.
-- **Python-Based Implementation**: Developed in Python, leveraging static and dynamic analysis techniques for security assessment.
-- **Active Repository**: Last updated in August 2026, indicating ongoing maintenance and updates.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
+- **Python-Based**: Implemented in Python, leveraging static analysis techniques to inspect AI agent skill definitions and configurations.
+- **NVIDIA Developed**: Open-source security scanner developed by NVIDIA, last updated in August 2026, with 14,098 stars and 1,176 forks.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 14075
-- Forks: 1175
+- Stars: 14098
+- Forks: 1176
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-03T03:00:04Z
+- Last Updated: 2026-08-03T15:01:15Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-03T15:41:02.972505+05:30'
+collected_at: '2026-08-03T20:50:16.836784+05:30'
 published_at: '2026-08-03T02:14:58Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-03T15:41:02.972505+05:30'
-last_seen: '2026-08-03T15:41:02.972505+05:30'
-last_checked: '2026-08-03T15:41:02.972505+05:30'
+first_seen: '2026-08-03T20:50:16.836784+05:30'
+last_seen: '2026-08-03T20:50:16.836784+05:30'
+last_checked: '2026-08-03T20:50:16.836784+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using OpenAI Codex CLI, emphasizing modular workflows, hooks, and context engineering for scalable AI-driven development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using **Codex CLI**, emphasizing automation, hooks, and context-engineering for scalable AI-driven development workflows.
 
-- **CLI-Centric Best Practices**: Provides a curated set of `codex-cli` commands, skills, and hooks for efficient agentic coding, including context management, skill chaining, and error handling in Python-based AI workflows.
+- **Codex CLI Best Practices**: Provides curated commands, skills, and hooks for **OpenAI Codex**, optimizing agentic coding with modular, reusable components and standardized practices for Pakistani developers and global users.
 
-- **Community-Driven Tooling**: Open-source project with 952 stars, focusing on Pakistani developer contributions, and includes resources for OpenAI Codex CLI optimization, agentic workflow automation, and real-world AI agent deployment strategies.
+- **Advanced AI-Agent Orchestration**: Focuses on *context-engineering* and *agentic workflows*, enabling multi-agent collaboration via **Codex CLI agents**, with examples for Pakistan-based developers and OpenAI ecosystem integration.
 
 ## Why It Matters
 

@@ -3,10 +3,8 @@ title: truefoundry/cognita
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/truefoundry/cognita?source=post_page
-resource_id: github:truefoundry/cognita
------dba899ae0355---------------------------------------
-collected_at: '2026-08-03T03:46:32.418109+05:30'
+source_url: https://github.com/truefoundry/cognita
+collected_at: '2026-08-03T20:54:22.537943+05:30'
 published_at: '2026-08-02T16:00:12Z'
 tags:
 - agents
@@ -14,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 4414
 language: Python
 status: active
@@ -23,9 +20,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-08-03T03:46:32.418109+05:30'
-last_seen: '2026-08-03T03:46:32.418109+05:30'
-last_checked: '2026-08-03T03:46:32.418109+05:30'
+first_seen: '2026-08-03T20:54:22.537943+05:30'
+last_seen: '2026-08-03T20:54:22.537943+05:30'
+last_checked: '2026-08-03T20:54:22.537943+05:30'
 health_score: 100
 ---
 
@@ -33,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
+- **Modular RAG Framework**: Open-source Python-based framework for building production-ready Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
 
-- **Multi-Language Support**: Supports Python for core RAG pipelines and TypeScript for frontend/agent interactions, enabling full-stack development with unified tooling.
+- **Multi-Language Support**: Supports Python and TypeScript, enabling cross-language compatibility for frontend (TypeScript) and backend (Python) components in AI applications.
 
-- **MLOps & Deployment Features**: Includes LLM-ops capabilities (fine-tuning, model deployment, and monitoring) with TrueFoundry’s infrastructure integration for end-to-end generative AI workflows.
+- **MLOps & Deployment Features**: Integrates LLM-ops, fine-tuning, and model deployment capabilities, with tools for data processing, agent orchestration, and production-grade application development.
 
 ## Why It Matters
 
@@ -72,4 +69,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/truefoundry/cognita

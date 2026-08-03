@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/deepset
-published_at: '2026-08-03T15:44:27.484545+05:30'
-collected_at: '2026-08-03T15:44:27.484558+05:30'
+published_at: '2026-08-03T20:58:43.052333+05:30'
+collected_at: '2026-08-03T20:58:43.052343+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:deepset-github
-first_seen: '2026-08-03T15:44:27.484558+05:30'
-last_seen: '2026-08-03T15:44:27.484558+05:30'
-last_checked: '2026-08-03T15:44:27.484558+05:30'
+first_seen: '2026-08-03T20:58:43.052343+05:30'
+last_seen: '2026-08-03T20:58:43.052343+05:30'
+last_checked: '2026-08-03T20:58:43.052343+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,13 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Organization**: `deepset` is a GitHub organization with 5 public repositories, 0 projects, 0 packages, and 0 stars (as of snapshot).
+- **Organization Profile**: `deepset` is a GitHub organization with 5 public repositories, primarily focused on Go-based tools and projects (e.g., `httphashtool`, `go-patterns`).
 
-- **Primary Repositories**: Hosts Go-based tools including `httphashtool`, `go-patterns` (forked from tmrts/go-patterns), `most-active-cookie` (log file analysis via binary search), `node-express-course` (Node.js/Express.js tutorial), and `tweether` (JSON data parser).
+- **Repository Highlights**:
+  - [`httphashtool`](https://github.com/deepset/httphashtool): A Go utility for HTTP hash-based operations.
+  - [`go-patterns`](https://github.com/deepset/go-patterns): A curated collection of Go design patterns, idioms, and recipes (forked from `tmrts/go-patterns`).
 
-- **User Interaction**: GitHub user `deepset` has 10 followers and 1 following; blocking/reporting options are available via GitHub’s moderation tools.
+- **Project Domains**: Includes tools for log analysis (`most-active-cookie`), Node.js/Express.js (`node-express-course`), and JSON parsing (`tweether`).
 
 ## Why It Matters
 
@@ -34,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T15:44:27.484545+05:30
+- Published: 2026-08-03T20:58:43.052333+05:30
 
 ## Related Tags
 

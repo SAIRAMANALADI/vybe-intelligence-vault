@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-08-03T15:38:35.193433+05:30'
-collected_at: '2026-08-03T15:38:35.193447+05:30'
+published_at: '2026-08-03T20:47:48.749026+05:30'
+collected_at: '2026-08-03T20:47:48.749035+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-08-03T15:38:35.193447+05:30'
-last_seen: '2026-08-03T15:38:35.193447+05:30'
-last_checked: '2026-08-03T15:38:35.193447+05:30'
+first_seen: '2026-08-03T20:47:48.749035+05:30'
+last_seen: '2026-08-03T20:47:48.749035+05:30'
+last_checked: '2026-08-03T20:47:48.749035+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Modular framework with 105k+ GitHub stars, offering structured RAG pipelines, model flexibility, and integration with LangSmith/LangGraph for debugging and workflow management. Supports diverse data sources, retrievers, and evaluation tools for optimized retrieval performance.
+- **Firecrawl**: Web data extraction API providing structured markdown, `llms.txt` generation, and deep research endpoints for RAG pipeline enrichment, compatible with dynamic websites via built-in infrastructure.
 
-- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document parsing (PDFs, tables, layouts) with a visual web interface. Features GraphRAG, agentic reasoning, and supports Elasticsearch/Infinity storage backends for contextual retrieval.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables/layouts), GraphRAG support, and visual web interface, offering Python SDK/REST APIs and flexible storage backends (Elasticsearch/Infinity).
 
-- **Milvus**: High-performance, cloud-native vector database (33.9k stars) optimized for scalable ANN search. Enables hybrid search (vector + scalar filtering), multi-modal embeddings, and seamless integration with RAG frameworks like LangChain/LlamaIndex for production-grade retrieval systems.
+- **Milvus**: Cloud-native vector database optimized for scalable similarity search, supporting hybrid queries, multi-modal embeddings, and seamless integration with frameworks like LangChain/LlamaIndex, with enterprise-grade consistency and monitoring.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T15:38:35.193433+05:30
+- Published: 2026-08-03T20:47:48.749026+05:30
 
 ## Related Tags
 

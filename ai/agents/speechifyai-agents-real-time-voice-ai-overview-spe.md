@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-08-03T09:35:24.545699+05:30'
-collected_at: '2026-08-03T09:35:24.545711+05:30'
+published_at: '2026-08-03T20:57:30.923031+05:30'
+collected_at: '2026-08-03T20:57:30.923042+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-08-03T09:35:24.545711+05:30'
-last_seen: '2026-08-03T09:35:24.545711+05:30'
-last_checked: '2026-08-03T09:35:24.545711+05:30'
+first_seen: '2026-08-03T20:57:30.923042+05:30'
+last_seen: '2026-08-03T20:57:30.923042+05:30'
+last_checked: '2026-08-03T20:57:30.923042+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Architecture**: Speechify Agents provide a real-time voice interaction system via `POST /v1/agents/{id}/conversations`, enabling low-latency speech-to-speech pipelines with integrated tools (backend calls, device execution, MCP servers) and built-ins (`end_call`, `transfer_to_number`).
+- **Agent Architecture**: Speechify Agents provide a real-time voice interaction system via the Speechify API, enabling AI-driven conversations with configurable prompts, voices, tools (e.g., backend calls, MCP server connections, built-ins like `end_call`), and post-call LLM-based evaluations.
 
-- **Data & Evaluation**: Conversations generate persisted transcripts with timestamps and tool traces, while post-call evaluations include LLM-graded criteria and structured data extraction for performance analysis.
+- **Session Workflow**: Initiated via `POST /v1/agents/{id}/conversations`, the system provisions a real-time session, returning a token/URL for client-side connection; audio, transcripts, and tool interactions are streamed over the session, with lifecycle events persisted.
 
-- **Deployment Flexibility**: Supports inbound/outbound support, IVR replacement, and no-code console configuration with Speechify voices (excluding cloned/personal voices), deployable via web or phone line.
+- **Use Cases & Deployment**: Suitable for inbound/outbound support, IVR replacement, and structured data collection; deployable via no-code console or API, with tools for transcript management, webhooks for post-call events, and version-pinned API endpoints for stability.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-03T09:35:24.545699+05:30
+- Published: 2026-08-03T20:57:30.923031+05:30
 
 ## Related Tags
 

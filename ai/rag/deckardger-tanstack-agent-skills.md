@@ -4,26 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-02T21:47:10.543761+05:30'
-published_at: '2026-08-02T07:27:55Z'
+collected_at: '2026-08-03T20:50:21.824860+05:30'
+published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - rag
 - reddit
 - unknown
 - workflows
-stars: 204
+stars: 205
 language: Unknown
 status: active
 archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-02T21:47:10.543761+05:30'
-last_seen: '2026-08-02T21:47:10.543761+05:30'
-last_checked: '2026-08-02T21:47:10.543761+05:30'
+first_seen: '2026-08-03T20:50:21.824860+05:30'
+last_seen: '2026-08-03T20:50:21.824860+05:30'
+last_checked: '2026-08-03T20:50:21.824860+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic background refetching.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **TanStack Router Best Practices**: Implements type-safe routing with dynamic segments, nested layouts, and optimized prefetching to reduce latency in AI agent workflows, leveraging TanStack Router’s loader-based data fetching.
+- **TanStack Router Best Practices**: Implements dynamic routing strategies and lazy-loaded route components to enhance SPA navigation, with a focus on minimizing bundle size and improving load times for AI agents.
 
-- **TanStack Start (Next.js-like Framework) Optimization**: Provides structured guidance for integrating TanStack Start with AI agents, focusing on server-side rendering (SSR) hydration, edge runtime compatibility, and seamless state management across client-server boundaries.
+- **TanStack Start Framework Patterns**: Showcases structured state management and server-client synchronization techniques using TanStack Start, ensuring scalable and maintainable AI agent workflows with minimal boilerplate.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DeckardGer
-- Stars: 204
+- Stars: 205
 - Forks: 18
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-02T07:27:55Z
+- Last Updated: 2026-08-03T07:49:22Z
 - Archived: No
 - Created At: 2026-01-16T07:31:33Z
 - Pushed At: 2026-04-03T05:02:53Z

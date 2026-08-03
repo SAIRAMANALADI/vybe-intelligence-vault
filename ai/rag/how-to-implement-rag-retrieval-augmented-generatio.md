@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://is4.ai/blog/our-blog-1/how-to-implement-rag-retrieval-augmented-generation-tutorial-22
-published_at: '2026-08-03T15:38:38.397110+05:30'
-collected_at: '2026-08-03T15:38:38.397120+05:30'
+published_at: '2026-08-03T20:47:53.194505+05:30'
+collected_at: '2026-08-03T20:47:53.194515+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:how-to-implement-rag-retrieval-augmented-generatio
-first_seen: '2026-08-03T15:38:38.397120+05:30'
-last_seen: '2026-08-03T15:38:38.397120+05:30'
-last_checked: '2026-08-03T15:38:38.397120+05:30'
+first_seen: '2026-08-03T20:47:53.194515+05:30'
+last_seen: '2026-08-03T20:47:53.194515+05:30'
+last_checked: '2026-08-03T20:47:53.194515+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture & Benefits**: Combines LLMs with external knowledge retrieval (Meta AI, 2020) to reduce hallucinations, enable real-time knowledge updates, and provide source attribution; 10-100x more cost-effective than fine-tuning for knowledge-intensive tasks (Databricks, 2023).
+- **RAG Architecture**: Combines LLMs with external knowledge retrieval to enhance factual accuracy and reduce hallucinations by grounding responses in retrieved documents, as per Meta AI's [original RAG paper](https://arxiv.org/abs/2005.11401).
 
-- **Core Pipeline Implementation**: Uses LangChain for orchestration, OpenAI embeddings (`text-embedding-3-small`), and ChromaDB for vector storage; document chunking (1000 chars, 200 overlap) balances context preservation and retrieval precision.
+- **Core Implementation Pipeline**: Requires document chunking (e.g., 1000 chars with 200-char overlap), embedding generation (e.g., OpenAI's `text-embedding-3-small`), and vector storage (e.g., ChromaDB) for efficient similarity-based retrieval.
 
-- **Advanced Optimization Techniques**: Hybrid search (semantic + BM25), reranking (CohereRerank), and conversational memory (ConversationBufferMemory) improve retrieval accuracy by 20-40% and enable multi-turn interactions; cost optimization via embedding caching and smaller LLM models.
+- **Advanced Optimization Techniques**: Hybrid search (semantic + BM25), reranking (e.g., CohereRerank), and conversational memory (e.g., `ConversationBufferMemory`) improve retrieval quality and enable multi-turn interactions.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T15:38:38.397110+05:30
+- Published: 2026-08-03T20:47:53.194505+05:30
 
 ## Related Tags
 

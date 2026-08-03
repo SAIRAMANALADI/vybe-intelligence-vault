@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cohere.com/privacy
-published_at: '2026-08-03T09:36:06.370397+05:30'
-collected_at: '2026-08-03T09:36:06.370411+05:30'
+published_at: '2026-08-03T20:54:04.866088+05:30'
+collected_at: '2026-08-03T20:54:04.866101+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:privacy-policy
-first_seen: '2026-08-03T09:36:06.370411+05:30'
-last_seen: '2026-08-03T09:36:06.370411+05:30'
-last_checked: '2026-08-03T09:36:06.370411+05:30'
+first_seen: '2026-08-03T20:54:04.866101+05:30'
+last_seen: '2026-08-03T20:54:04.866101+05:30'
+last_checked: '2026-08-03T20:54:04.866101+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Processing Scope**: Cohere collects personal information across six user categories (Job Applicants, Visitors, Researchers, Trial Users, Enterprise Users, End Users), with distinct handling rules per category. Enterprise data is governed by commercial agreements/DPA, while trial/research environments explicitly prohibit personal data inputs (with de-identification safeguards).
+- **Data Collection & Processing Scope**: Cohere collects personal data (e.g., IP addresses, usage logs, business contact info) for Platform/Website operations, research (Trial/Researcher users), marketing, security, and compliance, with explicit segmentation for Enterprise Users, Job Applicants, and End Users (governed by separate agreements).
 
-- **Research & Model Training**: Trial/Research users' inputs/outputs may be used for R&D (trend analysis, model improvement), excluding personal data. Enterprise users control training access via DPAs; Cohere's model training privacy notice details personal data usage restrictions.
+- **Research & Model Training**: Input/output data from Trial/Researcher users may be used for R&D (de-identified) to improve models, while Enterprise Users can opt out via DPAs; personal data must be excluded from research inputs unless pre-approved.
 
-- **Disclosure & Third-Party Handling**: Personal data is shared with affiliates/vendors (e.g., cloud providers, analytics) for operational compliance, with sub-processor lists publicly available. Disclosures also occur under legal obligations (warrants, court orders) or fraud prevention.
+- **Third-Party Disclosures**: Personal data is shared with affiliates, vendors (e.g., cloud/storage providers), and under legal obligations (e.g., court orders), with sub-processor lists available via Cohere’s Trust Center.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:36:06.370397+05:30
+- Published: 2026-08-03T20:54:04.866088+05:30
 
 ## Related Tags
 

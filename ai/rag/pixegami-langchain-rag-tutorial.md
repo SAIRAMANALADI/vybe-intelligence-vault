@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-08-03T15:38:42.865388+05:30'
+collected_at: '2026-08-03T20:47:56.766543+05:30'
 published_at: '2026-08-02T10:53:22Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
+- workflows
 stars: 980
 language: Python
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-08-03T15:38:42.865388+05:30'
-last_seen: '2026-08-03T15:38:42.865388+05:30'
-last_checked: '2026-08-03T15:38:42.865388+05:30'
+first_seen: '2026-08-03T20:47:56.766543+05:30'
+last_seen: '2026-08-03T20:47:56.766543+05:30'
+last_checked: '2026-08-03T20:47:56.766543+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with language model generation.
-- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma).
-- **Modular Structure**: Includes components for document loading (e.g., PDFs/text), embedding generation (e.g., Sentence Transformers), and retrieval-augmented generation with an LLM (e.g., OpenAI/GPT models).
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
+- **Modular Python Structure**: Organized codebase with clear separation of components (e.g., document loading, embedding, vector storage, and LLM interaction) for scalability and maintainability.
+- **Dependency Management**: Utilizes LangChain’s ecosystem (e.g., `langchain`, `chromadb`, `sentence-transformers`) with Python 3.x for vector embeddings and retrieval workflows.
 
 ## Why It Matters
 

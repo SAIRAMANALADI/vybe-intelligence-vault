@@ -1,10 +1,10 @@
 ---
 title: Google Cloud Platform · GitHub
 archive_category: automation-workflows
-source_category: ai/agents
+source_category: ai/rag
 source_url: https://github.com/googlecloudPlatform/
 resource_id: blog:google-cloud-platform-github
-local_vault_path: ai/agents/google-cloud-platform-github.md
+local_vault_path: ai/rag/google-cloud-platform-github.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
@@ -12,6 +12,7 @@ resource_kind: framework
 importance: high
 tags:
 - agents
+- rag
 - reddit
 - web-crawled
 - workflows
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- Official Google Cloud Platform (GCP) GitHub organization hosting infrastructure-as-code (IaC), SDKs, and client libraries for GCP services across multiple languages (Python, Go, Node.js, Java, PHP, .NET, Dart).
+- **Official Google Cloud Platform (GCP) GitHub organization** hosting 1,499+ repositories, including SDKs, tools, and infrastructure-as-code (IaC) samples for GCP services.
 
-- Key repositories include `magic-modules` (Terraform provider extensions), `k8s-config-connector` (Kubernetes-native GCP resource management), and `terraform-google-conversion` (Golang library for mapping Terraform configs to GCP API formats).
+- **Language-specific SDKs and samples** (Python, Go, JavaScript, Java, PHP, .NET) with high-starred repositories like `python-docs-samples` (8.1k stars) and `golang-samples` (4.6k stars) for cloud-native development.
 
-- Supports CI/CD, AI/ML, security, and d
+- **Key projects**: `cloud-foundation-fabric` (Terraform IaC for GCP), `opentelemetry-operations-*` (monit
 
 ## Use Cases
 
@@ -51,4 +52,4 @@ Original source URL: https://github.com/googlecloudPlatform/
 
 ## Local Vault File
 
-Path: [google-cloud-platform-github.md](../../ai/agents/google-cloud-platform-github.md)
+Path: [google-cloud-platform-github.md](../../ai/rag/google-cloud-platform-github.md)

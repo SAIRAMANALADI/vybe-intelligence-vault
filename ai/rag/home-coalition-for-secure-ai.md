@@ -4,12 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.coalitionforsecureai.org/
-published_at: '2026-08-01T16:30:08.861345+05:30'
-collected_at: '2026-08-01T16:30:08.861357+05:30'
+published_at: '2026-08-03T20:59:08.246548+05:30'
+collected_at: '2026-08-03T20:59:08.246562+05:30'
 tags:
 - agents
 - anthropic
-- benchmark
 - hackernews
 - openai
 - producthunt
@@ -17,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:home-coalition-for-secure-ai
-first_seen: '2026-08-01T16:30:08.861357+05:30'
-last_seen: '2026-08-01T16:30:08.861357+05:30'
-last_checked: '2026-08-01T16:30:08.861357+05:30'
+first_seen: '2026-08-03T20:59:08.246562+05:30'
+last_seen: '2026-08-03T20:59:08.246562+05:30'
+last_checked: '2026-08-03T20:59:08.246562+05:30'
 health_score: 100
 ---
 
@@ -27,14 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **CoSAI** is an open, collaborative ecosystem under **OASIS Open**, uniting industry and academia to standardize **secure AI deployment**, **research**, and **open-source tooling** across critical domains like **software supply chain security**, **defender preparedness**, **AI risk governance**, and **agentic system design patterns**.
+- **CoSAI** is an OASIS Open-backed consortium developing open-source frameworks for AI security, including workstreams on **software supply chain security**, **defender readiness**, **AI risk governance**, and **secure design patterns for agentic systems**.
 
-- **Key initiatives** include:
-  - **Software Supply Chain Security for AI Systems** (e.g., dependency vulnerability tracking, SBOM integration).
-  - **Secure Design Patterns for Agentic Systems** (e.g., adversarial robustness, sandboxing, identity management).
-  - **AI Security Risk Governance** (e.g., shared responsibility frameworks, compliance alignment).
+- **Key deliverables** include GitHub repositories for standardized security methodologies (e.g., [WS1-Supply Chain](https://github.com/cosai-oasis/ws1-supply-chain)), with contributions from industry leaders like Google, Microsoft, NVIDIA, and Intel.
 
-- **Founding sponsors** (e.g., Google, Microsoft, NVIDIA, IBM) and **general members** (e.g., Trend Micro, Zscaler, Intel) drive **technical outputs** (e.g., GitHub repositories, RSAC-aligned research) to establish **security-by-design** benchmarks for **enterprise AI systems**.
+- **Mission focus** includes establishing **shared responsibility frameworks** for AI accountability, advancing **agentic identity security**, and addressing **RSAC 2026-identified gaps** in AI threat modeling and deployment security.
 
 ## Why It Matters
 
@@ -44,13 +40,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T16:30:08.861345+05:30
+- Published: 2026-08-03T20:59:08.246548+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
-- benchmark
 - hackernews
 - openai
 - producthunt

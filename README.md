@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-88%2C573-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-150%2C205-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--03-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **88,573 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **150,205 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 15,823</p>
-        <p><b>Active:</b> 15,372 | <b>Inactive:</b> 451</p>
+        <p><b>Resources tracked:</b> 16,836</p>
+        <p><b>Active:</b> 16,384 | <b>Inactive:</b> 452</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,148</p>
+        <p><b>Archive Files:</b> 62,789</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 88,573 files</p>
-        <p><b>Last Update:</b> 2026-08-03 19:13 IST</p>
+        <p><b>Total Vault Size:</b> 150,205 files</p>
+        <p><b>Last Update:</b> 2026-08-03 21:07 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Styles and CSS | Docs](web-development/tailwind/styles-and-css-docs.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Launch in Fiddle](ai/resources/launch-in-fiddle.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[vitejs/vite](ai/rag/vitejs-vite.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[vitejs/awesome-vite](ai/resources/vitejs-awesome-vite.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[Meta-Harness 101: The Layer Above AI Agent Harnesses](ai/rag/meta-harness-101-the-layer-above-ai-agent-harnesse.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[Prevent cognitive debt by manually retyping LLM-generated code](ai/community/prevent-cognitive-debt-by-manually-retyping-llm-ge.md)** • <kbd>+225 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[Bonsai: Janestreet's UI Library](ai/community/janestreet-bonsai.md)** • <kbd>+139 pts</kbd>
+- 🔼 **[Octane – React's programming model, compiled](web-development/community/octane-react-s-programming-model-compiled.md)** • <kbd>+67 pts</kbd>
+- 🔼 **[Google Accessibility Help](ai/resources/google-accessibility-help.md)** • Rank: <kbd>+2248</kbd>
+- 🔼 **[Home - Coalition for Secure AI](ai/rag/home-coalition-for-secure-ai.md)** • Rank: <kbd>+2251</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- No new discoveries in this run.
+- 🆕 **[AirLLM 70B inference with single 4GB GPU](ai/trending/lyogavin-airllm.md)** • Score: `71`
+- 🆕 **[Train Simulator Controller](ai/community/train-simulator-controller.md)** • Score: `60`
+- 🆕 **[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](ai/community/garagehq-nightcrawler.md)** • Score: `59`
+- 🆕 **[Walk on Decomposed Subdomains](ai/community/walk-on-decomposed-subdomains.md)** • Score: `17`
+- 🆕 **[TSA Privatization Returns Airport Security to a Dangerous Past](ai/community/tsa-privatization-returns-airport-security-to-a-da.md)** • Score: `10`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[The AI Productivity Gap](ai/community/the-ai-productivity-gap.md)**
+- 💤 **[PISIGuard: Protect your personal and sensitive info when you chat with AI](ai/community/mohamed-abdel-maksoud-pisiguard.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

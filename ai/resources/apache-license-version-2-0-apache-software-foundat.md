@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.apache.org/licenses/LICENSE-2.0
-published_at: '2026-08-01T21:53:16.855212+05:30'
-collected_at: '2026-08-01T21:53:16.855226+05:30'
+published_at: '2026-08-03T20:58:32.595101+05:30'
+collected_at: '2026-08-03T20:58:32.595113+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:apache-license-version-2-0-apache-software-foundat
-first_seen: '2026-08-01T21:53:16.855226+05:30'
-last_seen: '2026-08-01T21:53:16.855226+05:30'
-last_checked: '2026-08-01T21:53:16.855226+05:30'
+first_seen: '2026-08-03T20:58:32.595113+05:30'
+last_seen: '2026-08-03T20:58:32.595113+05:30'
+last_checked: '2026-08-03T20:58:32.595113+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **License Grants**: Grants perpetual, worldwide, non-exclusive, royalty-free, irrevocable copyright and patent licenses to reproduce, modify, distribute, and sublicense the Work and Derivative Works, with patent termination upon litigation alleging infringement.
-- **Redistribution Requirements**: Mandates inclusion of the original License, prominent modification notices, retention of copyright/attribution notices, and propagation of NOTICE file contents in Derivative Works.
-- **Disclaimers & Liability**: Explicitly disclaims warranties/conditions (e.g., merchantability, fitness) and limits liability for Contributors, except in cases of gross negligence or willful misconduct.
+- **License Scope**: Grants perpetual, worldwide, non-exclusive, royalty-free copyright and patent licenses to reproduce, modify, distribute, and sublicense the Work and Derivative Works in Source or Object form, with explicit termination of patent licenses upon patent litigation claims.
+
+- **Redistribution Requirements**: Mandates inclusion of the original License, prominent modification notices, retention of all copyright/patent/trademark/attribution notices, and compliance with NOTICE file requirements for Derivative Works.
+
+- **Disclaimers & Liability**: Provides no warranties (express/implied) and limits liability for Contributors, except in cases of gross negligence or willful misconduct, while allowing recipients to offer additional warranties at their own risk.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T21:53:16.855212+05:30
+- Published: 2026-08-03T20:58:32.595101+05:30
 
 ## Related Tags
 

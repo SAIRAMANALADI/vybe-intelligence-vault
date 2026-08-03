@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-03T15:41:53.024960+05:30'
+collected_at: '2026-08-03T20:51:06.875333+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - shell
 - workflows
 stars: 542
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-03T15:41:53.024960+05:30'
-last_seen: '2026-08-03T15:41:53.024960+05:30'
-last_checked: '2026-08-03T15:41:53.024960+05:30'
+first_seen: '2026-08-03T20:51:06.875333+05:30'
+last_seen: '2026-08-03T20:51:06.875333+05:30'
+last_checked: '2026-08-03T20:51:06.875333+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: n8n-based autonomous AI agent framework inspired by OpenClaw, leveraging Adaptive RAG for memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in n8n, leveraging adaptive RAG-powered memory for contextual reasoning and dynamic task adaptation.
 
-- **Capabilities**: Supports proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase, SearXNG, and Crawl4AI for data retrieval and processing.
+- **Core Features**: Supports Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, and media understanding capabilities, all self-hosted via a single setup script.
 
-- **Technical Stack**: Primarily Shell-based, with dependencies on n8n, MCP, SearXNG, Supabase, and Crawl4AI; designed for modularity and extensibility through Skills and Expert Agent delegation.
+- **Integration & Deployment**: Combines Crawl4AI for scraping, SearXNG for search, and Supabase for storage, with full MCP and n8n compatibility for extensibility and modular agent orchestration.
 
 ## Why It Matters
 

@@ -3,17 +3,17 @@ title: Introduction | Electron
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://www.electronjs.org/docs/latest
-published_at: '2026-08-03T15:47:14.871955+05:30'
-collected_at: '2026-08-03T15:47:14.871965+05:30'
+source_url: https://electronjs.org/docs/latest
+published_at: '2026-08-03T20:56:54.736192+05:30'
+collected_at: '2026-08-03T20:56:54.736206+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-08-03T15:47:14.871965+05:30'
-last_seen: '2026-08-03T15:47:14.871965+05:30'
-last_checked: '2026-08-03T15:47:14.871965+05:30'
+first_seen: '2026-08-03T20:56:54.736206+05:30'
+last_seen: '2026-08-03T20:56:54.736206+05:30'
+last_checked: '2026-08-03T20:56:54.736206+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Electron** integrates Chromium and Node.js into a single binary, enabling cross-platform desktop app development using JavaScript, HTML, and CSS without native code requirements.
-
-- **Electron Fiddle** is a sandbox tool for prototyping and testing Electron APIs, with direct integration into documentation via "Open in Fiddle" buttons for seamless example execution.
-
-- **Official docs** include structured guides (tutorials, best practices, examples), process references, distribution methods, debugging/testing tools, and contribution guidelines for Electron development.
+- **Cross-platform desktop apps**: Electron combines Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run on Windows, macOS, and Linux without native development.
+- **Core files**: A minimal Electron app consists of `main.js` (main process), `preload.js` (bridge between Node.js and renderer), and `index.html` (UI), with `BrowserWindow` managing the Chromium instance.
+- **Documentation structure**: Official docs include tutorials, API references, best practices, debugging guides, and distribution methods, with Electron Fiddle providing an interactive sandbox for prototyping.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T15:47:14.871955+05:30
+- Published: 2026-08-03T20:56:54.736192+05:30
 
 ## Related Tags
 
@@ -44,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.electronjs.org/docs/latest
+Original source: https://electronjs.org/docs/latest

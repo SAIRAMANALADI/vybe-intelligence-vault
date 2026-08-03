@@ -1,70 +1,70 @@
 ---
-title: 'GitHub - weaviate/Verba: Retrieval Augmented Generation (RAG) chatbot powered
-  by Weaviate · GitHub'
+title: weaviate/Verba
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/weaviate/Verba/tree/main?tab=readme-ov-file#-getting-started-with-verba
-published_at: '2026-08-03T15:45:27.430215+05:30'
-collected_at: '2026-08-03T15:45:27.430227+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/weaviate/Verba
+collected_at: '2026-08-03T20:54:22.499971+05:30'
+published_at: '2026-08-02T16:00:22Z'
 tags:
-- agents
-- anthropic
-- benchmark
-- dataset
-- hackernews
-- meta-ai
-- mistral
-- models
-- openai
-- producthunt
+- github-repo
+- python
 - rag
-- reddit
-- web-crawled
-- youtube
+stars: 7714
+language: Python
 status: active
+license: BSD-3-Clause
+archived: true
+created_at: '2023-07-28T16:53:42Z'
+pushed_at: '2026-06-08T09:25:18Z'
 resource_id: github:weaviate/verba
-first_seen: '2026-08-03T15:45:27.430227+05:30'
-last_seen: '2026-08-03T15:45:27.430227+05:30'
-last_checked: '2026-08-03T15:45:27.430227+05:30'
+first_seen: '2026-08-03T20:54:22.499971+05:30'
+last_seen: '2026-08-03T20:54:22.499971+05:30'
+last_checked: '2026-08-03T20:54:22.499971+05:30'
 health_score: 100
 ---
 
-# GitHub - weaviate/Verba: Retrieval Augmented Generation (RAG) chatbot powered by Weaviate · GitHub
+# weaviate/Verba
 
 ## Summary
 
-*   Verba is an archived, discontinued open-source project, no longer actively maintained or receiving updates.
-*   It provided an end-to-end Retrieval-Augmented Generation (RAG) application built on Weaviate, supporting diverse LLM providers (e.g., OpenAI, Anthropic, Cohere, Groq, Novita AI, Upstage) and local models (Ollama, HuggingFace).
-*   The platform featured customizable
+- **RAG Implementation**: Weaviate-based chatbot leveraging Retrieval Augmented Generation (RAG) for dynamic, context-aware responses by integrating retrieval and generation models.
+
+- **Python Framework**: Built in Python, utilizing Weaviate's vector search and storage capabilities for efficient document retrieval and semantic querying.
+
+- **Scalable Architecture**: Designed for modularity, enabling integration with custom LLMs, embeddings, and Weaviate configurations for scalable RAG deployments.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-08-03T15:45:27.430215+05:30
+- Owner: weaviate
+- Stars: 7714
+- Forks: 850
+- Language: Python
+- Topics: None
+- Last Updated: 2026-08-02T16:00:22Z
+- License: BSD-3-Clause
+- Archived: Yes
+- Created At: 2023-07-28T16:53:42Z
+- Pushed At: 2026-06-08T09:25:18Z
 
-## Related Tags
+## Possible Use Cases
 
-- agents
-- anthropic
-- benchmark
-- dataset
-- hackernews
-- meta-ai
-- mistral
-- models
-- openai
-- producthunt
-- rag
-- reddit
-- web-crawled
-- youtube
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/weaviate/Verba/tree/main?tab=readme-ov-file#-getting-started-with-verba
+Original source: https://github.com/weaviate/Verba

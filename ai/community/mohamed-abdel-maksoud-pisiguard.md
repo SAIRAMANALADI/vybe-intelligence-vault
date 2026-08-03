@@ -13,13 +13,14 @@ collected_at: '2026-08-03T15:36:56.214105+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:mohamed--abdel-maksoud/pisiguard
 first_seen: '2026-08-03T15:36:56.214105+05:30'
 last_seen: '2026-08-03T15:36:56.214105+05:30'
 last_checked: '2026-08-03T15:36:56.214105+05:30'
 health_score: 100
 ---
+
 
 # PISIGuard: Protect your personal and sensitive info when you chat with AI
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-03T15:38:37.884824+05:30'
+collected_at: '2026-08-03T20:47:51.821195+05:30'
 published_at: '2026-08-02T10:26:59Z'
 tags:
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-03T15:38:37.884824+05:30'
-last_seen: '2026-08-03T15:38:37.884824+05:30'
-last_checked: '2026-08-03T15:38:37.884824+05:30'
+first_seen: '2026-08-03T20:47:51.821195+05:30'
+last_seen: '2026-08-03T20:47:51.821195+05:30'
+last_checked: '2026-08-03T20:47:51.821195+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **5-week structured curriculum** covering RAG fundamentals, hybrid search (HNSW + keyword search), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient indexing and retrieval.
-
-- **Hands-on implementation** with Jupyter Notebooks, integrating Azure OpenAI, multimodal data, and responsible AI practices for end-to-end RAG pipelines in Visual Studio Code.
-
-- **Optimized search strategies** demonstrated via vector search (HNSW), hybrid retrieval (combining keyword and vector search), and model efficiency techniques (quantization, Matryoshka embeddings) for scalable generative AI applications.
+- **RAG Time** is a structured 5-week learning program focused on mastering **Retrieval-Augmented Generation (RAG)**, covering topics like **vector search**, **hybrid search**, **quantization (binary/scalar)**, and **HNSW indexing** for efficient retrieval.
+- The repository includes **Jupyter Notebooks** with hands-on implementations using **OpenAI/GPT models**, **Azure AI services**, and techniques like **Matryoshka Representation Learning** for scalable multimodal RAG.
+- Emphasizes **responsible AI practices**, **keyword search integration**, and deployment via **Visual Studio Code**, with a focus on optimizing RAG pipelines for performance and accuracy.
 
 ## Why It Matters
 

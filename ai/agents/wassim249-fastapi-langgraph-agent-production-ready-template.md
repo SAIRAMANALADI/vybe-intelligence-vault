@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
-collected_at: '2026-08-03T15:40:42.997981+05:30'
-published_at: '2026-08-03T04:05:15Z'
+collected_at: '2026-08-03T20:49:56.813574+05:30'
+published_at: '2026-08-03T14:20:17Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - workflows
-stars: 2546
+stars: 2548
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-07T16:54:25Z'
 pushed_at: '2026-06-17T09:53:19Z'
 resource_id: github:wassim249/fastapi-langgraph-agent-production-ready-template
-first_seen: '2026-08-03T15:40:42.997981+05:30'
-last_seen: '2026-08-03T15:40:42.997981+05:30'
-last_checked: '2026-08-03T15:40:42.997981+05:30'
+first_seen: '2026-08-03T20:49:56.813574+05:30'
+last_seen: '2026-08-03T20:49:56.813574+05:30'
+last_checked: '2026-08-03T20:49:56.813574+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a production-ready FastAPI framework integrated with LangGraph for building scalable AI agent applications, emphasizing maintainability and security.
+- **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for RESTful APIs with LangGraph for building scalable, maintainable AI agent applications.
 
-- **Key Features**: Includes Docker support, memory management, and LangChain/LangGraph compatibility for LLM-based agent workflows.
+- **Key Features**: Includes Docker support, memory management, and pre-configured integrations with LangChain, LLMs, and agentic AI workflows.
 
-- **Technical Stack**: Python-based, optimized for agentic AI with structured components for deployment and scalability.
+- **Metrics**: 2,548 stars, 599 forks; last updated August 3, 2026, focusing on Python-based agentic AI development.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: wassim249
-- Stars: 2546
+- Stars: 2548
 - Forks: 599
 - Language: Python
 - Topics: agent, agentic-ai, docker, fastapi, fastapi-template, langchain, langchain-python, langgraph, langgraph-python, llm, memory
-- Last Updated: 2026-08-03T04:05:15Z
+- Last Updated: 2026-08-03T14:20:17Z
 - License: MIT
 - Archived: No
 - Created At: 2025-04-07T16:54:25Z

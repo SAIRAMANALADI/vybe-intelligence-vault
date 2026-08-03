@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Senpi-ai/senpi-skills
-collected_at: '2026-08-03T15:41:58.099500+05:30'
-published_at: '2026-07-31T18:29:44Z'
+collected_at: '2026-08-03T20:51:11.878297+05:30'
+published_at: '2026-08-03T13:36:05Z'
 tags:
 - agents
 - github-repo
@@ -16,11 +16,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T19:28:09Z'
-pushed_at: '2026-08-02T17:41:08Z'
+pushed_at: '2026-08-03T13:43:55Z'
 resource_id: github:senpi-ai/senpi-skills
-first_seen: '2026-08-03T15:41:58.099500+05:30'
-last_seen: '2026-08-03T15:41:58.099500+05:30'
-last_checked: '2026-08-03T15:41:58.099500+05:30'
+first_seen: '2026-08-03T20:51:11.878297+05:30'
+last_seen: '2026-08-03T20:51:11.878297+05:30'
+last_checked: '2026-08-03T20:51:11.878297+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI agent framework** for autonomous trading on Hyperliquid, supporting crypto, equities, commodities, and indices with **80+ strategy templates**.
-- **Two-phase trailing-stop (DSL) exits** for dynamic position management and risk mitigation in automated trading strategies.
-- **Python-based repository** (`Senpi-ai/senpi-skills`) with last update on **2026-07-31**, featuring deployable AI skills for strategy execution and protection.
+- **Open-source framework** for autonomous trading on Hyperliquid, featuring **80+ strategy templates** and **Python-based DSL** for two-phase trailing-stop exits.
+- **Multi-asset support** for crypto, equities, commodities, and indices with **build, deploy, and protect** capabilities.
+- **Last updated**: 2026-08-03, with **109 stars** and **32 forks** on GitHub.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 32
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-31T18:29:44Z
+- Last Updated: 2026-08-03T13:36:05Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T19:28:09Z
-- Pushed At: 2026-08-02T17:41:08Z
+- Pushed At: 2026-08-03T13:43:55Z
 
 ## Possible Use Cases
 

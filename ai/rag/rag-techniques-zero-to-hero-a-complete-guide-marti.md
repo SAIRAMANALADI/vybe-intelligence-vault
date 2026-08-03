@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-03T15:38:38.194132+05:30'
-collected_at: '2026-08-03T15:38:38.194141+05:30'
+published_at: '2026-08-03T20:47:52.342246+05:30'
+collected_at: '2026-08-03T20:47:52.342255+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-03T15:38:38.194141+05:30'
-last_seen: '2026-08-03T15:38:38.194141+05:30'
-last_checked: '2026-08-03T15:38:38.194141+05:30'
+first_seen: '2026-08-03T20:47:52.342255+05:30'
+last_seen: '2026-08-03T20:47:52.342255+05:30'
+last_checked: '2026-08-03T20:47:52.342255+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional components include rerankers, query rewriters, caching, and orchestration layers to optimize precision and efficiency.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical) with an LLM generator, optionally enhanced by rerankers, query rewriting, caching, and orchestration layers for improved precision and efficiency.
 
-- **Chunking Strategies**: Fixed-size, overlap/stride, semantic, structure-aware, and LLM-based chunking transform documents into retrieval units; structure-aware chunking with moderate overlap is recommended as a baseline for coherence and recall.
+- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, overlap, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuning of embeddings (dimensionality, normalization) and hybrid search (BM25 + vector) optimize performance.
 
-- **Hybrid Retrieval & Reranking**: Hybrid search (BM25 + vector) improves recall/precision; two-stage retrieval uses a fast first-stage retriever followed by a cross-encoder reranker on top-K candidates to enhance precision while managing latency.
+- **Multi-Stage Retrieval & Context Management**: Two-stage retrieval (first-stage ANN + second-stage cross-encoder reranking) improves precision; context distillation, autocut, and multi-hop/iterative retrieval enhance reasoning while reducing hallucinations and token overhead.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T15:38:38.194132+05:30
+- Published: 2026-08-03T20:47:52.342246+05:30
 
 ## Related Tags
 

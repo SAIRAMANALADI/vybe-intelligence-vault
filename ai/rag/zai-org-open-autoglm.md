@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-08-03T09:28:46.542774+05:30'
-published_at: '2026-08-03T03:00:50Z'
+collected_at: '2026-08-03T20:50:56.902271+05:30'
+published_at: '2026-08-03T11:29:35Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- scripts
-stars: 25942
+stars: 25943
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-08-03T09:28:46.542774+05:30'
-last_seen: '2026-08-03T09:28:46.542774+05:30'
-last_checked: '2026-08-03T09:28:46.542774+05:30'
+first_seen: '2026-08-03T20:50:56.902271+05:30'
+last_seen: '2026-08-03T20:50:56.902271+05:30'
+last_checked: '2026-08-03T20:50:56.902271+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-AutoGLM provides an open-source framework for deploying AI-driven phone agents, enabling autonomous interaction with mobile interfaces via Python-based automation.
+- **Open-AutoGLM Framework**: A Python-based open-source framework designed to enable AI-driven phone agent capabilities, facilitating autonomous interaction with mobile devices via a modular architecture.
 
-- **Key Capabilities**: Supports multi-modal task execution (e.g., app navigation, call handling) through structured agent policies and tool integration, leveraging large language models (LLMs) for decision-making.
+- **Agent Model Integration**: Implements a specialized phone-use agent model (`AutoGLM`) optimized for real-time task execution, including call handling, SMS processing, and UI navigation, leveraging large language models (LLMs).
 
-- **Deployment & Scalability**: Designed for extensibility with modular components (e.g., API wrappers, device controllers) and optimized for real-world phone automation scenarios, including cross-platform compatibility.
+- **Extensibility & Deployment**: Supports custom plugin development for third-party integrations and provides deployment tools for edge/on-device execution, with active community contributions (25.9K+ stars, 4K+ forks).
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zai-org
-- Stars: 25942
-- Forks: 4022
+- Stars: 25943
+- Forks: 4018
 - Language: Python
 - Topics: agent, phone-use-agent
-- Last Updated: 2026-08-03T03:00:50Z
+- Last Updated: 2026-08-03T11:29:35Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-12-08T09:23:44Z

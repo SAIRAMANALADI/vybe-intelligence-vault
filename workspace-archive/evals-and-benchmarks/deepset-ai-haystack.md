@@ -1,6 +1,6 @@
 ---
 title: deepset-ai/haystack · Discussions · GitHub
-archive_category: automation-workflows
+archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://github.com/deepset-ai/haystack/discussions
 resource_id: github:deepset-ai/haystack
@@ -8,7 +8,7 @@ local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,33 +19,33 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # deepset-ai/haystack · Discussions · GitHub
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Automation Workflows`
+- Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Haystack 3.0 Launch**: Scheduled for July 20–24, 2026, with announcements led by `julian-risch` and `afizs` under the `Announcements` category.
+- **Haystack** is an open-source framework by **deepset-ai** for building **RAG (Retrieval-Augmented Generation) pipelines**, with **26.1k GitHub stars** and **3k forks**.
 
-- **RAG Pipeline Diagnostics**: Open-source `Haystack Diagnostics Engine` introduced for inspecting, validating, and diagnosing RAG pipelines, discussed by `rautaditya2606` and `GioiaZheng`.
+- **Haystack 3.0** was launched in **July 2026**, introducing new features and improvements for **pipeline debugging, agent security, and runtime diagnostics**.
 
-- **Security & Runtime Enhancements**: `AgentShield` (runtime security guard for tool calls) and `Agent Memory Guard` (OWASP-compliant memory poisoning protect
+- **Community discussions** focus on **debugging retrieval failures, runtime security (e.g., AgentShield), and diagnostics tools** for **RAG quality validation**.
 
 ## Use Cases
 
-- Local cron scheduling
-- n8n pipeline setups
-- OS task automations
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 

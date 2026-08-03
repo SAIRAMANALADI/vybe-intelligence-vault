@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-03T15:39:07.946721+05:30'
+collected_at: '2026-08-03T20:48:21.801243+05:30'
 published_at: '2026-07-29T09:54:30Z'
 tags:
-- dataset
 - github-repo
-- hackernews
 - jupyter notebook
+- models
 - rag
-- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-03T15:39:07.946721+05:30'
-last_seen: '2026-08-03T15:39:07.946721+05:30'
-last_checked: '2026-08-03T15:39:07.946721+05:30'
+first_seen: '2026-08-03T20:48:21.801243+05:30'
+last_seen: '2026-08-03T20:48:21.801243+05:30'
+last_checked: '2026-08-03T20:48:21.801243+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source tool for interactive visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and analysis of LLM-based systems.
-- **Technical Stack**: Built with Python, Streamlit (for UI), and Jupyter Notebooks; integrates with LLM frameworks for RAG workflows.
-- **Features**: Real-time visualization of retrieval, generation, and interaction flows; supports custom datasets and model comparisons.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved context.
+
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, allowing users to inspect RAG components (e.g., retrieval quality, generation outputs) in real-time via a Python-based interface.
+
+- **Metadata & Performance Insights**: Captures and displays granular metrics (e.g., retrieval latency, token usage, relevance scores) to diagnose RAG system inefficiencies, with last update as of July 29, 2026.
 
 ## Why It Matters
 

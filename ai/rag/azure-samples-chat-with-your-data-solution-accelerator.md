@@ -4,24 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-03T15:39:32.988261+05:30'
+collected_at: '2026-08-03T20:48:46.808433+05:30'
 published_at: '2026-08-03T09:30:19Z'
 tags:
 - github-repo
+- hackernews
 - openai
 - python
 - rag
+- reddit
+- scripts
 stars: 1172
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-08-03T09:26:16Z'
+pushed_at: '2026-08-03T11:51:59Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-03T15:39:32.988261+05:30'
-last_seen: '2026-08-03T15:39:32.988261+05:30'
-last_checked: '2026-08-03T15:39:32.988261+05:30'
+first_seen: '2026-08-03T20:48:46.808433+05:30'
+last_seen: '2026-08-03T20:48:46.808433+05:30'
+last_checked: '2026-08-03T20:48:46.808433+05:30'
 health_score: 100
 ---
 
@@ -29,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generating ChatGPT-style and Q&A responses.
-- **Key Components**: Includes **Python-based** solution with **AZD templates**, adhering to Azure best practices for scalability, security, and performance.
-- **Deployment**: Provides a pre-configured accelerator with common requirements (e.g., indexing, retrieval, and chat orchestration) for rapid deployment in Azure environments.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, incorporating common requirements and best practices.
+
+- **Technical Stack**: Built in **Python**, leveraging **Azure AI Search** for vector/keyword search, **Azure OpenAI** for LLM inference, and **AZD templates** for deployment automation.
+
+- **Deployment & Updates**: Provides **Azure Developer CLI (AZD) templates** for infrastructure-as-code (IaC) deployment, last updated **2026-08-03** with active community contributions (1,172 stars, 641 forks).
 
 ## Why It Matters
 
@@ -48,7 +53,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-08-03T09:26:16Z
+- Pushed At: 2026-08-03T11:51:59Z
 
 ## Possible Use Cases
 

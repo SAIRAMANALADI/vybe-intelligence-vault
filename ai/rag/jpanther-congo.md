@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jpanther/congo
-collected_at: '2026-08-02T14:13:37.864024+05:30'
+collected_at: '2026-08-03T20:52:11.980470+05:30'
 published_at: '2026-07-29T05:12:34Z'
 tags:
 - frontend_ui
 - github-repo
+- hackernews
 - html
 - rag
 - reddit
@@ -20,9 +21,9 @@ archived: false
 created_at: '2021-08-11T05:29:45Z'
 pushed_at: '2026-08-01T23:02:25Z'
 resource_id: github:jpanther/congo
-first_seen: '2026-08-02T14:13:37.864024+05:30'
-last_seen: '2026-08-02T14:13:37.864024+05:30'
-last_checked: '2026-08-02T14:13:37.864024+05:30'
+first_seen: '2026-08-03T20:52:11.980470+05:30'
+last_seen: '2026-08-03T20:52:11.980470+05:30'
+last_checked: '2026-08-03T20:52:11.980470+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Hugo theme leveraging Tailwind CSS for a lightweight, performant frontend.
-*   Implements accessibility, responsiveness, and dark mode via integrated features.
-*   Actively maintained project with significant community adoption (1.6k stars, 415 forks).
+- **Hugo Theme**: Lightweight, responsive theme for Hugo built with Tailwind CSS, supporting dark mode and accessibility features.
+- **Key Features**: Emoji support, mobile-first design, and optimized for performance with minimal overhead.
+- **Technical Stack**: HTML-based, leveraging Tailwind CSS for styling and Hugo’s templating system for dynamic content generation.
 
 ## Why It Matters
 
