@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cohere.com/page/cookbooks
-published_at: '2026-08-03T01:11:20.884119+05:30'
-collected_at: '2026-08-03T01:11:20.884135+05:30'
+published_at: '2026-08-03T09:31:32.772121+05:30'
+collected_at: '2026-08-03T09:31:32.772131+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cookbooks-cohere
-first_seen: '2026-08-03T01:11:20.884135+05:30'
-last_seen: '2026-08-03T01:11:20.884135+05:30'
-last_checked: '2026-08-03T01:11:20.884135+05:30'
+first_seen: '2026-08-03T09:31:32.772131+05:30'
+last_seen: '2026-08-03T09:31:32.772131+05:30'
+last_checked: '2026-08-03T09:31:32.772131+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Tool Integration**: Cohere's v2 API supports multi-step tool use for agents, enabling sequential API calls, regex-based interactions, and external service integrations (e.g., search engines, databases) via Langchain's `cohere_react_agent`.
-- **RAG Optimization**: Provides structured guides for Retrieval-Augmented Generation (RAG) workflows, including PDF parsing with mixed data types, financial document analysis (10-K/10-Q), and multi-stage retrieval with tools like Elasticsearch and Pinecone.
-- **Finetuning & Deployment**: Supports model finetuning on Cohere's platform and AWS SageMaker, with deployment options to AWS Marketplace, alongside evaluation frameworks for RAG and summarization tasks.
+- **Multi-step tool integration**: Cohere's v2 API enables agents to chain multiple external tool calls (e.g., APIs, databases) via native multi-step tool use, supporting complex workflows like RAG pipelines and CSV analysis.
+
+- **Short-term memory management**: The API supports structured short-term memory handling for agents, particularly when using LangChain's `cohere_react_agent`, to maintain context during tool interactions.
+
+- **RAG optimization**: Cookbooks demonstrate advanced RAG techniques, including agentic multi-stage retrieval, mixed-data PDF processing, and integration with vector databases (e.g., Pinecone, Weaviate) for semantic search.
 
 ## Why It Matters
 
@@ -42,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T01:11:20.884119+05:30
+- Published: 2026-08-03T09:31:32.772121+05:30
 
 ## Related Tags
 

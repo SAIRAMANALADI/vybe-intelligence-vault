@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph/
-published_at: '2026-08-03T01:05:31.538052+05:30'
-collected_at: '2026-08-03T01:05:31.538067+05:30'
+published_at: '2026-08-03T09:25:57.002828+05:30'
+collected_at: '2026-08-03T09:25:57.002841+05:30'
 tags:
 - agents
 - dataset
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-system-with-langchain-and-langgraph-geeksforge
-first_seen: '2026-08-03T01:05:31.538067+05:30'
-last_seen: '2026-08-03T01:05:31.538067+05:30'
-last_checked: '2026-08-03T01:05:31.538067+05:30'
+first_seen: '2026-08-03T09:25:57.002841+05:30'
+last_seen: '2026-08-03T09:25:57.002841+05:30'
+last_checked: '2026-08-03T09:25:57.002841+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Combines LangChain for document ingestion, chunking, and vector embeddings (via `OpenAIEmbeddings`) with LangGraph for orchestrating retrieval (`InMemoryVectorStore.similarity_search`) and generation steps, ensuring context-aware responses from LLM (e.g., GPT-4.1).
+- **RAG Pipeline Architecture**: Combines LangChain (document loading, chunking, vector embeddings via `OpenAIEmbeddings`) and LangGraph (stateful workflow orchestration) to enable context-aware LLM responses by retrieving relevant document chunks (`InMemoryVectorStore`) and generating answers using a custom prompt template with `gpt-4.1` (temperature=0.3).
 
-- **State Management & Workflow**: Uses a `TypedDict`-based `State` to track `question`, `context` (retrieved `Document` chunks), and `answer`, with LangGraph nodes (`retrieve`, `generate`, `classify`, `refine`) executing sequentially to modularize the pipeline.
+- **Stateful Workflow Implementation**: Defines a `State` TypedDict (`question`, `context`, `answer`) and constructs a directed graph (`StateGraph`) with nodes (`classify`, `retrieve`, `generate`, `refine`) connected via `add_sequence()` and `add_edge()`, compiled for execution to manage data flow and modular AI operations.
 
-- **Vector Search & Embedding Optimization**: Implements `RecursiveCharacterTextSplitter` (chunk_size=1000, overlap=200) for document segmentation, stores embeddings in an in-memory vector store, and retrieves top-*k* (k=5) relevant chunks via cosine similarity for efficient, low-latency inference.
+- **Advantages**: RAG mitigates LLM hallucinations by grounding responses in retrieved documents, supports domain adaptation via custom datasets, ensures up-to-date knowledge retrieval, and optimizes efficiency through chunked vector search, reducing token costs and inference latency.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T01:05:31.538052+05:30
+- Published: 2026-08-03T09:25:57.002828+05:30
 
 ## Related Tags
 

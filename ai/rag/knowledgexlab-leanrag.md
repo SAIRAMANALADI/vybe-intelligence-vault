@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-03T03:43:52.287285+05:30'
+collected_at: '2026-08-03T09:27:16.511112+05:30'
 published_at: '2026-07-26T03:07:53Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 256
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-03T03:43:52.287285+05:30'
-last_seen: '2026-08-03T03:43:52.287285+05:30'
-last_checked: '2026-08-03T03:43:52.287285+05:30'
+first_seen: '2026-08-03T09:27:16.511112+05:30'
+last_seen: '2026-08-03T09:27:16.511112+05:30'
+last_checked: '2026-08-03T09:27:16.511112+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to enhance contextual relevance.
-- **Efficiency Optimizations**: Uses lightweight graph traversal (e.g., pruning, caching) to reduce computational overhead while maintaining retrieval quality, as validated in AAAI 2026 benchmarks.
-- **Python Implementation**: Provides modular components (e.g., graph builders, retrievers, aggregators) with PyTorch/TensorFlow compatibility for integration with LLM pipelines.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-layered retrieval (e.g., entity, relation, and subgraph-level) and semantic aggregation to enhance contextual relevance.
+- **Efficiency Optimizations**: Leverages lightweight graph traversal and pruning techniques to reduce retrieval latency while maintaining high accuracy in downstream generation tasks.
+- **Python Implementation**: Provides modular, open-source codebase with dependencies on PyTorch/DGL for graph neural networks and FAISS for vector similarity search.
 
 ## Why It Matters
 

@@ -1,15 +1,15 @@
 ---
-title: 'My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."'
+title: 'My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”'
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://frogs.vaguespac.es
 hn_url: https://news.ycombinator.com/item?id=49147622
-score: 57
+score: 120
 author: thebigship
-comments_count: 31
+comments_count: 52
 published_at: '2026-08-03T01:12:08+05:30'
-collected_at: '2026-08-03T03:41:28.711195+05:30'
+collected_at: '2026-08-03T09:24:51.017727+05:30'
 tags:
 - ai
 - benchmark
@@ -17,16 +17,16 @@ tags:
 status: active
 resource_id: hackernews:my-personal-ai-benchmark-generate-an-svg-of-a-frog
 first_seen: '2026-08-03T03:41:28.711195+05:30'
-last_seen: '2026-08-03T03:41:28.711195+05:30'
-last_checked: '2026-08-03T03:41:28.711195+05:30'
+last_seen: '2026-08-03T09:24:51.017727+05:30'
+last_checked: '2026-08-03T09:24:51.017727+05:30'
 health_score: 100
 ---
 
-# My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."
+# My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”
 
 ## Summary
 
-Hacker News story by thebigship. Score: 57, Comments: 31.
+Hacker News story by thebigship. Score: 120, Comments: 52.
 Original Link: https://frogs.vaguespac.es/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: thebigship
-- Score: 57 Upvotes
-- Comments: 31 Discussions
+- Score: 120 Upvotes
+- Comments: 52 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49147622
 - Original Article: https://frogs.vaguespac.es
 

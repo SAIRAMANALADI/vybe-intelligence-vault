@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.docker.com/get-started/
-published_at: '2026-08-01T16:29:14.663302+05:30'
-collected_at: '2026-08-01T16:29:14.663311+05:30'
+published_at: '2026-08-03T09:35:23.731502+05:30'
+collected_at: '2026-08-03T09:35:23.731514+05:30'
 tags:
 - reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:get-started-docker-docs
-first_seen: '2026-08-01T16:29:14.663311+05:30'
-last_seen: '2026-08-01T16:29:14.663311+05:30'
-last_checked: '2026-08-01T16:29:14.663311+05:30'
+first_seen: '2026-08-03T09:35:23.731514+05:30'
+last_seen: '2026-08-03T09:35:23.731514+05:30'
+last_checked: '2026-08-03T09:35:23.731514+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Installation & Setup**: Docker provides platform-specific installation paths (e.g., [Get Docker](https://docs.docker.com/get-started/get-docker/)) to deploy the Docker Engine, CLI, and other components required for containerization.
+- **Installation & Overview**: Docker provides platform-specific installation paths (e.g., [Docker Desktop](https://docs.docker.com/get-started/get-docker/)) and a high-level overview of its architecture and purpose ([Docker Overview](https://docs.docker.com/get-started/docker-overview/)).
 
-- **Core Concepts**: Docker’s foundational architecture includes containers (isolated runtime environments), images (immutable templates), and the Docker Daemon (`dockerd`) for orchestrating container lifecycle operations.
+- **Core Concepts**: Key foundational elements include containers (isolated runtime environments), images (immutable templates for containers), and the Docker Engine (host daemon managing container lifecycle).
 
-- **Learning Resources**: Structured guides cover basics (e.g., [Introduction](https://docs.docker.com/get-started/introduction/)), container vs. VM distinctions, and hands-on workshops (e.g., [45-minute Docker Workshop](https://docs.docker.com/get-started/workshop/)) to operationalize containerized workflows.
+- **Learning Path**: Docker offers structured guides for beginners ([Introduction](https://docs.docker.com/get-started/introduction/)), conceptual deep dives ([Docker Concepts](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/)), and hands-on workshops ([45-min Workshop](https://docs.docker.com/get-started/workshop/)).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T16:29:14.663302+05:30
+- Published: 2026-08-03T09:35:23.731502+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/LightRAG
-collected_at: '2026-08-03T03:46:37.368217+05:30'
-published_at: '2026-08-02T21:33:54Z'
+collected_at: '2026-08-03T09:29:56.637051+05:30'
+published_at: '2026-08-03T03:02:28Z'
 tags:
 - benchmark
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - rag
-stars: 38428
+stars: 38435
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2024-10-02T11:57:54Z'
-pushed_at: '2026-08-02T20:13:31Z'
+pushed_at: '2026-08-03T01:48:18Z'
 resource_id: github:hkuds/lightrag
-first_seen: '2026-08-03T03:46:37.368217+05:30'
-last_seen: '2026-08-03T03:46:37.368217+05:30'
-last_checked: '2026-08-03T03:46:37.368217+05:30'
+first_seen: '2026-08-03T09:29:56.637051+05:30'
+last_seen: '2026-08-03T09:29:56.637051+05:30'
+last_checked: '2026-08-03T09:29:56.637051+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **LightRAG Framework**: Introduces a lightweight, fast Retrieval-Augmented Generation (RAG) system optimized for efficiency, leveraging simple yet effective retrieval mechanisms to enhance LLM performance without heavy computational overhead.
+- **LightRAG Framework**: Introduces a lightweight, efficient Retrieval-Augmented Generation (RAG) system optimized for speed and simplicity, leveraging minimal architectural overhead while maintaining high performance in downstream tasks.
 
-- **Graph-Based Retrieval**: Implements a graph-augmented retrieval strategy, dynamically constructing and querying knowledge graphs to improve contextual relevance and reduce latency in RAG pipelines.
+- **Graph-Based Retrieval**: Implements a graph-augmented retrieval mechanism to dynamically construct context graphs, enabling efficient multi-hop reasoning and reducing dependency on static, pre-built knowledge bases.
 
-- **Performance Metrics**: Achieves state-of-the-art results in both speed and accuracy (e.g., 2-5x faster than traditional RAG methods) while maintaining competitive performance on benchmarks like EMNLP 2025 evaluations.
+- **Benchmark Performance**: Achieves state-of-the-art results on EMNLP2025 benchmarks with significant improvements in latency (up to 5x faster) and memory efficiency compared to traditional RAG and GraphRAG baselines.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 38428
-- Forks: 5405
+- Stars: 38435
+- Forks: 5406
 - Language: Python
 - Topics: genai, gpt, gpt-4, graphrag, knowledge-graph, large-language-models, llm, rag, retrieval-augmented-generation
-- Last Updated: 2026-08-02T21:33:54Z
+- Last Updated: 2026-08-03T03:02:28Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-02T11:57:54Z
-- Pushed At: 2026-08-02T20:13:31Z
+- Pushed At: 2026-08-03T01:48:18Z
 
 ## Possible Use Cases
 

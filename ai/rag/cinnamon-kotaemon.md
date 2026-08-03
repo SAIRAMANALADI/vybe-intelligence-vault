@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-03T03:42:42.206495+05:30'
+collected_at: '2026-08-03T09:26:06.417584+05:30'
 published_at: '2026-08-02T09:08:26Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-03T03:42:42.206495+05:30'
-last_seen: '2026-08-03T03:42:42.206495+05:30'
-last_checked: '2026-08-03T03:42:42.206495+05:30'
+first_seen: '2026-08-03T09:26:06.417584+05:30'
+last_seen: '2026-08-03T09:26:06.417584+05:30'
+last_checked: '2026-08-03T09:26:06.417584+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational responses by dynamically retrieving and synthesizing information from user-provided documents.
+- **Architecture**: Implements a Retrieval-Augmented Generation (RAG) framework in Python, enabling document-based conversational interactions with large language models (LLMs).
 
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM interaction, supporting customization of models and pipelines.
+- **Key Features**: Supports dynamic document retrieval, context-aware chat responses, and integrates with open-source LLMs for enhanced document comprehension.
 
-- **Open-Source Deployment**: Provides a self-hostable, open-source solution for document-based chatbots with active community maintenance and recent updates (as of 2026-08-02).
+- **Deployment**: Open-source under permissive license, optimized for scalability with modular components for document ingestion, retrieval, and response generation.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/docker/compose/releases
-published_at: '2026-08-02T21:50:36.161041+05:30'
-collected_at: '2026-08-02T21:50:36.161053+05:30'
+published_at: '2026-08-03T09:36:15.768366+05:30'
+collected_at: '2026-08-03T09:36:15.768378+05:30'
 tags:
 - agents
 - anthropic
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: github:docker/compose
-first_seen: '2026-08-02T21:50:36.161053+05:30'
-last_seen: '2026-08-02T21:50:36.161053+05:30'
-last_checked: '2026-08-02T21:50:36.161053+05:30'
+first_seen: '2026-08-03T09:36:15.768378+05:30'
+last_seen: '2026-08-03T09:36:15.768378+05:30'
+last_checked: '2026-08-03T09:36:15.768378+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Docker Compose v5.3.1** introduces hardening of GitHub Actions workflows, dependency updates (e.g., `github.com/moby/buildkit` from `0.31.0` to `0.31.1`), and CI optimizations like adding concurrency groups to prevent duplicate PR reviews.
-- **Docker Compose v5.3.0** adds native support for init containers, fixes OCI authorizer token routing, and resolves port resolution errors in compose/port operations.
-- **Release artifacts** include multi-platform binaries (Darwin ARM64/x86_64), SBOMs, provenance metadata, and SHA256 checksums for v5.3.1, with signed commits verified via SSH.
+- **Docker Compose v5.3.1** introduces CI/CD hardening, including GitHub Actions workflow security updates (e.g., `zizmor` integration) and dependency bumps like `buildkit` to `0.31.1` and `go.yaml.in/yaml/v4` to `4.0.0-rc.6`.
+
+- **v5.3.0** adds native support for init containers via PR [#13862](https://github.com/docker/compose/pull/13862) and includes fixes for OCI authorizer token routing and scoped event handling for `Running` events.
+
+- **Release artifacts** for v5.3.1 include multi-platform binaries (Darwin ARM64/x86_64), SBOMs, and Sigstore provenance files, with SHA-256 checksums and verified signatures for integrity validation.
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T21:50:36.161041+05:30
+- Published: 2026-08-03T09:36:15.768366+05:30
 
 ## Related Tags
 

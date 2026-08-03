@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-08-03T01:08:15.509467+05:30'
+collected_at: '2026-08-03T09:28:41.605487+05:30'
 published_at: '2026-07-28T16:23:21Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
+- scripts
 - workflows
 stars: 384
 language: Jupyter Notebook
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-08-03T01:08:15.509467+05:30'
-last_seen: '2026-08-03T01:08:15.509467+05:30'
-last_checked: '2026-08-03T01:08:15.509467+05:30'
+first_seen: '2026-08-03T09:28:41.605487+05:30'
+last_seen: '2026-08-03T09:28:41.605487+05:30'
+last_checked: '2026-08-03T09:28:41.605487+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging Large Language Models (LLMs) to automate common cybersecurity tasks, including adversary emulation and red teaming.
+- **LLM-Driven Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging LLMs to automate tasks such as adversary emulation, threat detection, and incident response in cybersecurity workflows.
 
-- **Integration with CALDERA**: Agents are designed to interact with the CALDERA adversary emulation platform, enabling automated attack simulation and security testing workflows.
+- **Integration with CALDERA**: Agents are designed to interact with the CALDERA adversary emulation platform, enabling automated red teaming and simulation of cyber attack scenarios.
 
-- **Open-Source Toolkit**: Provides a modular framework for cybersecurity professionals to extend and customize LLM-driven security operations, with 384 stars and 73 forks as of the last update (July 28, 2026).
+- **Open-Source Toolkit**: Provides a modular framework for developing and deploying AI-powered cybersecurity tools, with topics including adversary emulation, infosec automation, and LLM-driven security operations.
 
 ## Why It Matters
 

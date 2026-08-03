@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-08-03T03:47:32.552006+05:30'
-published_at: '2026-08-02T16:46:14Z'
+collected_at: '2026-08-03T09:31:31.117145+05:30'
+published_at: '2026-08-03T01:33:53Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 26091
+stars: 26092
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2019-11-14T09:05:28Z'
 pushed_at: '2026-08-01T03:06:32Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-08-03T03:47:32.552006+05:30'
-last_seen: '2026-08-03T03:47:32.552006+05:30'
-last_checked: '2026-08-03T03:47:32.552006+05:30'
+first_seen: '2026-08-03T09:31:31.117145+05:30'
+last_seen: '2026-08-03T09:31:31.117145+05:30'
+last_checked: '2026-08-03T09:31:31.117145+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Python-based framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
+- **Modular AI Orchestration Framework**: Enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
 
-- **Context-Engineered Applications**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI through context engineering and explicit workflow design.
+- **Scalable & Multimodal Support**: Designed for scalable agents, RAG, multimodal applications, semantic search, and conversational systems, leveraging Python for extensibility.
 
-- **Production & Scalability Focus**: Optimized for scalable deployments with built-in support for agentic RAG, multi-agent systems, and MCP (Model Context Protocol) integration.
+- **Context-Engineered & Agentic**: Supports context engineering, multi-agent systems, and retrieval-augmented generation (RAG) with explicit control over MCP (Model Context Protocol) and generative AI workflows.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepset-ai
-- Stars: 26091
+- Stars: 26092
 - Forks: 2980
 - Language: Python
 - Topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents, context-engineering, framework, genai, generative-ai, information-retrieval, large-language-models, llm, mcp, multi-agent, orchestration, python, rag, retrieval-augmented-generation, semantic-search
-- Last Updated: 2026-08-02T16:46:14Z
+- Last Updated: 2026-08-03T01:33:53Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z

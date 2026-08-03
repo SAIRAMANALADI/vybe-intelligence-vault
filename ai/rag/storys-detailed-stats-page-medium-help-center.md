@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://help.medium.com/hc/en-us/articles/34831991136151
-published_at: '2026-08-02T19:33:14.450176+05:30'
-collected_at: '2026-08-02T19:33:14.450189+05:30'
+published_at: '2026-08-03T09:33:10.704784+05:30'
+collected_at: '2026-08-03T09:33:10.704797+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:storys-detailed-stats-page-medium-help-center
-first_seen: '2026-08-02T19:33:14.450189+05:30'
-last_seen: '2026-08-02T19:33:14.450189+05:30'
-last_checked: '2026-08-02T19:33:14.450189+05:30'
+first_seen: '2026-08-03T09:33:10.704797+05:30'
+last_seen: '2026-08-03T09:33:10.704797+05:30'
+last_checked: '2026-08-03T09:33:10.704797+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Lifetime Metrics**: Includes *presentations* (suggested views), *views* (story landings with Feed clickthrough rate), and *reads* (30+ second engagements with Read ratio); updated hourly (earnings daily). Paywalled stories show *earnings*, *followers*, and *subscribers*.
+- **Lifetime Metrics**: Includes *Total presentations* (Medium-suggested views), *Total views* (reader landings), *Total reads* (30+ sec engagement), *Feed clickthrough rate* (feed-only views ratio), *Read ratio*, *Earnings* (paywalled stories), *Followers* (net change), and *Subscribers* (net change). Updated hourly (daily for earnings).
 
-- **Monthly Engagement**: Tracks paywalled story earnings, views, reads, and interactions (claps, highlights, responses, new followers). *Member read ratio* (member reads ÷ member views) adjusts earnings to penalize clickbait; updated daily.
+- **Monthly Metrics**: Tracks *earnings*, *views*, *reads*, and *engagement* (claps, highlights, responses, new followers). *Member read ratio* (member reads ÷ member views) adjusts earnings to penalize clickbait. Updated daily.
 
-- **Traffic & Audience Analysis**: *Traffic sources* breakdown (Medium distribution vs. top external sites, hourly updates). *Friend links* (paywalled story access) tracked hourly. *Audience interests* (topic affinity) derived from logged-in readers’ profiles/history (daily updates).
+- **Traffic & Audience Data**: *Traffic sources* (Medium distribution % + top external sources), *Friend links* (paywalled story views via personal links), and *Audience interests* (topic affinity based on logged-in readers' profiles/history). Updated hourly (traffic sources) or daily (audience interests).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:33:14.450176+05:30
+- Published: 2026-08-03T09:33:10.704784+05:30
 
 ## Related Tags
 

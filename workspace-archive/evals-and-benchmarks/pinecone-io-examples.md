@@ -1,17 +1,18 @@
 ---
-title: examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main ·
-  pinecone-io/examples · GitHub
+title: examples/learn/search/faiss-ebook/locality-sensitive-hashing-traditional at
+  main · pinecone-io/examples · GitHub
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
+source_url: https://github.com/pinecone-io/examples/tree/master/learn/search/faiss-ebook/locality-sensitive-hashing-traditional
 resource_id: github:pinecone-io/examples
 local_vault_path: ai/rag/pinecone-io-examples.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - hackernews
 - rag
 - web-crawled
@@ -20,12 +21,12 @@ selection_reason:
 - Active open-source repository
 ---
 
-# examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main · pinecone-io/examples · GitHub
+# examples/learn/search/faiss-ebook/locality-sensitive-hashing-traditional at main · pinecone-io/examples · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- Demonstrates semantic chunking techniques for improving Retrieval-Augmented Generation (RAG) pipelines in Pinecone's vector database.
-- Implements advanced text segmentation using transformer-based embeddings (e.g., Sentence-BERT) to optimize chunk boundaries for contextual relevance.
-- Provides executable Jupyter Notebook (`02b-semantic-chunking.ipynb`) with step-by-step implementation for dynamic document splitting and metadata preservation.
+- Repository: Pinecone-IO/examples provides LSH (Locality-Sensitive Hashing) implementations using FAISS, including sparse and dense vector search techniques.
+- Notebooks: Contains `sparse_implementation.ipynb` (sparse LSH) and `testing_lsh.ipynb` (evaluation/testing of LSH algorithms).
+- Focus: Demonstrates traditional LSH methods for approximate nearest neighbor search in high-dimensional spaces.
 
 ## Use Cases
 
@@ -45,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
+Original source URL: https://github.com/pinecone-io/examples/tree/master/learn/search/faiss-ebook/locality-sensitive-hashing-traditional
 
 ## Local Vault File
 

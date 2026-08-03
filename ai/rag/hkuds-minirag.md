@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-03T03:42:47.170020+05:30'
+collected_at: '2026-08-03T09:26:11.418537+05:30'
 published_at: '2026-08-02T05:40:23Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
-- models
 - python
 - rag
 stars: 1991
@@ -21,9 +18,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-03T03:42:47.170020+05:30'
-last_seen: '2026-08-03T03:42:47.170020+05:30'
-last_checked: '2026-08-03T03:42:47.170020+05:30'
+first_seen: '2026-08-03T09:26:11.418537+05:30'
+last_seen: '2026-08-03T09:26:11.418537+05:30'
+last_checked: '2026-08-03T09:26:11.418537+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Miniaturized RAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance in retrieval-augmented generation tasks.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
 
-- **Efficiency Optimizations**: Implements lightweight retrieval mechanisms (e.g., distilled encoders, pruned indexes) and model compression techniques (e.g., quantization, distillation) to enable deployment on resource-constrained hardware.
+- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms tailored for SLMs, enabling faster inference and lower memory usage compared to traditional RAG systems.
 
-- **Benchmark Performance**: Demonstrates state-of-the-art results on standard RAG benchmarks (e.g., KILT, BEIR) with models <1B parameters, highlighting trade-offs between latency, memory, and accuracy.
+- **Open-Source Implementation**: Provides a Python-based, modular codebase with pre-trained models and tools for customization, facilitating reproducibility and community-driven improvements in RAG research.
 
 ## Why It Matters
 

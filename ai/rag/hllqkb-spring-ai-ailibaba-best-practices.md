@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-03T03:43:07.208286+05:30'
+collected_at: '2026-08-03T09:26:36.413159+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- workflows
+- reddit
 stars: 36
 language: Java
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-03T03:43:07.208286+05:30'
-last_seen: '2026-08-03T03:43:07.208286+05:30'
-last_checked: '2026-08-03T03:43:07.208286+05:30'
+first_seen: '2026-08-03T09:26:36.413159+05:30'
+last_seen: '2026-08-03T09:26:36.413159+05:30'
+last_checked: '2026-08-03T09:26:36.413159+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal AI Integration**: Implements SSE streaming, Agent-based workflows, and RAG with knowledge graphs, supporting function calls, historical message handling, and embedding/vector database integration for enhanced retrieval.
-
-- **Advanced Image Processing**: Features image generation and understanding capabilities via integration with AI models, enabling both visual input analysis and synthetic image generation.
-
-- **Java-based AI Framework**: Built on Spring AI and Alibaba Cloud AI services, leveraging Java for scalable, enterprise-grade AI application development with vector database support for efficient RAG operations.
+- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based Q&A system leveraging SSE (Server-Sent Events) streams, RAG (Retrieval-Augmented Generation) with knowledge graphs, and FunctionCall for dynamic agent interactions.
+- **Multi-Modal Capabilities**: Supports image generation (via diffusion models), image understanding (OCR/CLIP), and embedding-based vector search using vector databases (e.g., Milvus, Weaviate).
+- **Advanced Features**: Integrates historical message context, embedding models (e.g., BERT, Sentence-BERT), and RAG pipelines for enhanced retrieval and response generation.
 
 ## Why It Matters
 

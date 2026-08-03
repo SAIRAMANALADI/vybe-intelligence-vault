@@ -4,14 +4,13 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://simonwillison.net/series/prompt-injection/
-published_at: '2026-08-03T03:48:18.596660+05:30'
-collected_at: '2026-08-03T03:48:18.596672+05:30'
+published_at: '2026-08-03T09:30:15.399805+05:30'
+collected_at: '2026-08-03T09:30:15.399818+05:30'
 tags:
 - agents
 - anthropic
 - dataset
 - deepmind
-- hackernews
 - models
 - openai
 - paper
@@ -23,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:simon-willison-prompt-injection
-first_seen: '2026-08-03T03:48:18.596672+05:30'
-last_seen: '2026-08-03T03:48:18.596672+05:30'
-last_checked: '2026-08-03T03:48:18.596672+05:30'
+first_seen: '2026-08-03T09:30:15.399818+05:30'
+last_seen: '2026-08-03T09:30:15.399818+05:30'
+last_checked: '2026-08-03T09:30:15.399818+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Prompt injection** is a class of security vulnerabilities in LLM-based systems where malicious user input manipulates the model to ignore system instructions or perform unintended actions, analogous to SQL injection in traditional systems.
+- **Prompt injection** is a class of security vulnerabilities in LLM-based systems where malicious input manipulates model behavior to override intended instructions, analogous to SQL injection in traditional systems.
 
-- **Multi-modal prompt injection** expands attack surfaces by leveraging image inputs (e.g., GPT-4V) to bypass text-based safeguards, enabling covert exfiltration or manipulation of model behavior.
+- **Multi-modal attacks** expand prompt injection vectors to include image-based inputs (e.g., GPT-4V), enabling covert exfiltration or manipulation via embedded adversarial text in visual data.
 
-- **Mitigation strategies remain unsolved**: Techniques like delimiters, dual-LLM patterns, or additional AI layers fail to fully address the problem, with current best practices focusing on awareness and risk assessment rather than robust defenses.
+- **Mitigation strategies** remain experimental; proposed solutions like the Dual LLM pattern or delimiter-based parsing fail to fully address the problem, with current best practices focusing on threat awareness and defensive design patterns.
 
 ## Why It Matters
 
@@ -47,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T03:48:18.596660+05:30
+- Published: 2026-08-03T09:30:15.399805+05:30
 
 ## Related Tags
 
@@ -55,7 +54,6 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - dataset
 - deepmind
-- hackernews
 - models
 - openai
 - paper

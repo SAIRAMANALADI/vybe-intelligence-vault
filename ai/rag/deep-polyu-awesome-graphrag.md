@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-08-03T03:43:12.240025+05:30'
+collected_at: '2026-08-03T09:26:36.470442+05:30'
 published_at: '2026-08-02T18:19:33Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-08-03T03:43:12.240025+05:30'
-last_seen: '2026-08-03T03:43:12.240025+05:30'
-last_checked: '2026-08-03T03:43:12.240025+05:30'
+first_seen: '2026-08-03T09:26:36.470442+05:30'
+last_seen: '2026-08-03T09:26:36.470442+05:30'
+last_checked: '2026-08-03T09:26:36.470442+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering topics like knowledge graphs, large language models (LLMs), and RAG systems.
-- **Technical Scope**: Encompasses **GraphRAG-specific resources**, including implementations, benchmarks, and theoretical surveys, emphasizing the integration of graph structures (e.g., knowledge graphs) with RAG pipelines for enhanced contextual retrieval.
-- **Community & Updates**: Maintained repository with **2,568 stars** and **227 forks**, last updated **2026-08-02**, serving as a dynamic hub for cutting-edge research in graph-augmented LLM architectures.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects on **graph-based Retrieval-Augmented Generation (GraphRAG)**, focusing on knowledge graphs and large language models (LLMs).
+- **Technical Scope**: Covers **RAG architectures**, **graph-enhanced retrieval**, and **LLM integration** with structured knowledge graphs for improved contextual generation.
+- **Repository Metrics**: 2,568 stars, 227 forks, last updated **2026-08-02**; language unspecified but includes topics like *graphrag-paper*, *knowledge-graph*, and *retrieval-augmented-generation*.
 
 ## Why It Matters
 

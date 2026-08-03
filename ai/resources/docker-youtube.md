@@ -3,18 +3,18 @@ title: Docker - YouTube
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://www.youtube.com/user/dockerrun
-published_at: '2026-08-02T16:33:36.362481+05:30'
-collected_at: '2026-08-02T16:33:36.362495+05:30'
+source_url: http://www.youtube.com/user/dockerrun
+published_at: '2026-08-03T09:36:09.526538+05:30'
+collected_at: '2026-08-03T09:36:09.526551+05:30'
 tags:
 - hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:docker-youtube
-first_seen: '2026-08-02T16:33:36.362495+05:30'
-last_seen: '2026-08-02T16:33:36.362495+05:30'
-last_checked: '2026-08-02T16:33:36.362495+05:30'
+first_seen: '2026-08-03T09:36:09.526551+05:30'
+last_seen: '2026-08-03T09:36:09.526551+05:30'
+last_checked: '2026-08-03T09:36:09.526551+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- YouTube operates under Google LLC, with core services including content hosting, monetization (via Ads), and creator tools (YouTube Creators).
-- Developer resources are provided via [YouTube Data API](https://developers.google.com/youtube) for integration, while technical infrastructure is detailed in ["How YouTube Works"](https://www.youtube.com/howyoutubeworks).
-- Compliance frameworks include [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Policy & Safety](https://www.youtube.com/about/policies) for content moderation and legal adherence.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, providing services including content hosting, streaming, and monetization for creators, advertisers, and developers.
+
+- **Technical Infrastructure**: Utilizes Google's distributed systems (e.g., Kubernetes, Borg) for scalable video processing, CDN-based delivery (via Google's global network), and real-time analytics for engagement metrics.
+
+- **API & Developer Tools**: Offers a public API (YouTube Data API v3) for programmatic access to video metadata, uploads, and analytics; supports OAuth 2.0 for secure authentication and integrates with Google Cloud services.
 
 ## Why It Matters
 
@@ -34,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T16:33:36.362481+05:30
+- Published: 2026-08-03T09:36:09.526538+05:30
 
 ## Related Tags
 
@@ -44,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.youtube.com/user/dockerrun
+Original source: http://www.youtube.com/user/dockerrun

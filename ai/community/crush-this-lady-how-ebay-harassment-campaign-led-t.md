@@ -13,13 +13,14 @@ collected_at: '2026-08-03T03:41:29.735761+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:crush-this-lady-how-ebay-harassment-campaign-led-t
 first_seen: '2026-08-03T03:41:29.735761+05:30'
 last_seen: '2026-08-03T03:41:29.735761+05:30'
 last_checked: '2026-08-03T03:41:29.735761+05:30'
 health_score: 100
 ---
+
 
 # 'Crush this lady': how eBay harassment campaign led to $56M payout
 

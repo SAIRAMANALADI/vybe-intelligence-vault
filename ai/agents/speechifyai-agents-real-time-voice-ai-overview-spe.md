@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-08-03T03:52:01.520817+05:30'
-collected_at: '2026-08-03T03:52:01.520831+05:30'
+published_at: '2026-08-03T09:35:24.545699+05:30'
+collected_at: '2026-08-03T09:35:24.545711+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-08-03T03:52:01.520831+05:30'
-last_seen: '2026-08-03T03:52:01.520831+05:30'
-last_checked: '2026-08-03T03:52:01.520831+05:30'
+first_seen: '2026-08-03T09:35:24.545711+05:30'
+last_seen: '2026-08-03T09:35:24.545711+05:30'
+last_checked: '2026-08-03T09:35:24.545711+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Architecture**: Speechify Agents enable real-time voice interactions via a reusable definition comprising prompt, voice, tools, and evaluation criteria, accessible via web or phone line using `POST /v1/agents/{id}/conversations` for session provisioning.
+- **Agent Architecture**: Speechify Agents provide a real-time voice interaction system via `POST /v1/agents/{id}/conversations`, enabling low-latency speech-to-speech pipelines with integrated tools (backend calls, device execution, MCP servers) and built-ins (`end_call`, `transfer_to_number`).
 
-- **Core Features**: Includes low-latency real-time speech pipeline, curated `Speechify voices` (excluding cloned/personal voices), tool integrations (backend, device execution, MCP servers, built-ins like `end_call`), persistent transcripts with tool traces, and post-call LLM-graded evaluations.
+- **Data & Evaluation**: Conversations generate persisted transcripts with timestamps and tool traces, while post-call evaluations include LLM-graded criteria and structured data extraction for performance analysis.
 
-- **Use Cases & Workflow**: Supports inbound/outbound support, IVR replacement, and no-code deployment via console; audio/transcripts/tool calls flow over sessions, with lifecycle events and evaluations persisted by the API.
+- **Deployment Flexibility**: Supports inbound/outbound support, IVR replacement, and no-code console configuration with Speechify voices (excluding cloned/personal voices), deployable via web or phone line.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-03T03:52:01.520817+05:30
+- Published: 2026-08-03T09:35:24.545699+05:30
 
 ## Related Tags
 

@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
-published_at: '2026-08-02T19:33:18.873876+05:30'
-collected_at: '2026-08-02T19:33:18.873889+05:30'
+published_at: '2026-08-03T09:34:25.279326+05:30'
+collected_at: '2026-08-03T09:34:25.279340+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:subresource-integrity-security-mdn
-first_seen: '2026-08-02T19:33:18.873889+05:30'
-last_seen: '2026-08-02T19:33:18.873889+05:30'
-last_checked: '2026-08-02T19:33:18.873889+05:30'
+first_seen: '2026-08-03T09:34:25.279340+05:30'
+last_seen: '2026-08-03T09:34:25.279340+05:30'
+last_checked: '2026-08-03T09:34:25.279340+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Mechanism**: Subresource Integrity (SRI) enforces cryptographic hash verification of fetched resources (e.g., from CDNs) to detect tampering by comparing the resource's hash against a precomputed value embedded in the `<script>` or `<link>` tag.
+- **Mechanism**: SRI enforces cryptographic hash verification (`SHA-384` by default) on fetched subresources (e.g., CDN-hosted JS/CSS) via the `integrity` attribute, blocking mismatched content to mitigate supply-chain attacks.
 
-- **Policy Enforcement**: The `Integrity-Policy` HTTP header blocks or reports violations for script/style resources loaded without integrity checks or in `no-cors` mode, while `Integrity-Policy-Report-Only` logs violations without blocking.
+- **CORS Interaction**: Requires `crossorigin="anonymous"` for cross-origin resources; `no-cors` mode explicitly blocks SRI enforcement to prevent XS-Leak attacks via error event monitoring.
 
-- **Hash Generation**: SRI hashes are generated using tools like OpenSSL (`openssl dgst -sha384 -binary | openssl base64 -A`) or `shasum` with base64 encoding, ensuring compatibility with the `integrity` attribute syntax (e.g., `sha384-<base64-hash>`).
+- **Policy Enforcement**: Headers `Integrity-Policy` (blocking) and `Integrity-Policy-Report-Only` enforce integrity metadata requirements, with violation reports sent to specified endpoints via the Reporting API.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T19:33:18.873876+05:30
+- Published: 2026-08-03T09:34:25.279326+05:30
 
 ## Related Tags
 

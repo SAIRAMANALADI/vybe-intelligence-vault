@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-08-03T01:07:00.448159+05:30'
-published_at: '2026-08-02T14:55:38Z'
+collected_at: '2026-08-03T09:27:26.458962+05:30'
+published_at: '2026-08-03T02:05:25Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,18 @@ tags:
 - producthunt
 - scripts
 - typescript
-stars: 927
+- workflows
+stars: 928
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T03:22:26Z'
-pushed_at: '2026-08-02T02:00:22Z'
+pushed_at: '2026-08-03T02:05:21Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-08-03T01:07:00.448159+05:30'
-last_seen: '2026-08-03T01:07:00.448159+05:30'
-last_checked: '2026-08-03T01:07:00.448159+05:30'
+first_seen: '2026-08-03T09:27:26.458962+05:30'
+last_seen: '2026-08-03T09:27:26.458962+05:30'
+last_checked: '2026-08-03T09:27:26.458962+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, etc.) via GitHub Actions, supporting bilingual ZH/EN reports.
-
-- **Technical Stack**: Built in TypeScript, with scheduled updates (last commit: 2026-08-02T14:55:38Z) and open-source under `duanyytop/agents-radar`.
-
-- **Metrics**: 927 stars, 165 forks; no explicit topics/tags, but focuses on AI ecosystem monitoring.
+- **Automated AI Ecosystem Aggregator**: Daily digest compiles AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Reporting**: Generates reports in both Chinese and English, automated through scheduled CI/CD workflows.
+- **TypeScript Implementation**: Built with TypeScript, last updated on 2026-08-03, with 928 stars and 165 forks.
 
 ## Why It Matters
 
@@ -44,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: duanyytop
-- Stars: 927
+- Stars: 928
 - Forks: 165
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-02T14:55:38Z
+- Last Updated: 2026-08-03T02:05:25Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T03:22:26Z
-- Pushed At: 2026-08-02T02:00:22Z
+- Pushed At: 2026-08-03T02:05:21Z
 
 ## Possible Use Cases
 

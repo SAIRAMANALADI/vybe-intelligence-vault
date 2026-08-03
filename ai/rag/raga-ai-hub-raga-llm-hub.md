@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raga-ai-hub/raga-llm-hub
-collected_at: '2026-08-03T03:43:37.267524+05:30'
+collected_at: '2026-08-03T09:27:01.471488+05:30'
 published_at: '2026-06-11T18:44:18Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-02T18:32:13Z'
 pushed_at: '2024-09-09T10:53:31Z'
 resource_id: github:raga-ai-hub/raga-llm-hub
-first_seen: '2026-08-03T03:43:37.267524+05:30'
-last_seen: '2026-08-03T03:43:37.267524+05:30'
-last_checked: '2026-08-03T03:43:37.267524+05:30'
+first_seen: '2026-08-03T09:27:01.471488+05:30'
+last_seen: '2026-08-03T09:27:01.471488+05:30'
+last_checked: '2026-08-03T09:27:01.471488+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Framework designed for LLM evaluation, guardrails, and security in Python, supporting LLMops workflows.
-- **Key Features**: Integrates evaluation metrics, safety mechanisms, and security protocols for LLMs.
-- **Status**: Actively maintained (last update: 2026-06-11), with 114 stars and 14 forks.
+- **Purpose**: Framework for evaluating, securing, and implementing guardrails for Large Language Models (LLMs) within LLM operations (LLMOps).
+- **Key Features**: Supports LLM evaluation metrics, security protocols, and guardrail mechanisms to ensure safe and reliable LLM deployments.
+- **Technical Stack**: Python-based repository with active development (last updated June 2026) and modular design for integration into LLM workflows.
 
 ## Why It Matters
 

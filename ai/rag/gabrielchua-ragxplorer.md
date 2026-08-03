@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-03T03:42:47.152122+05:30'
+collected_at: '2026-08-03T09:26:11.404625+05:30'
 published_at: '2026-07-29T09:54:30Z'
 tags:
 - github-repo
 - jupyter notebook
 - models
 - rag
+- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-03T03:42:47.152122+05:30'
-last_seen: '2026-08-03T03:42:47.152122+05:30'
-last_checked: '2026-08-03T03:42:47.152122+05:30'
+first_seen: '2026-08-03T09:26:11.404625+05:30'
+last_seen: '2026-08-03T09:26:11.404625+05:30'
+last_checked: '2026-08-03T09:26:11.404625+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Python-based application (Jupyter Notebook) designed for visualizing and debugging Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of retrieval and generation processes.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Leverages Streamlit for an interactive web interface, allowing users to inspect RAG components (e.g., embeddings, retrieval results, LLM outputs) in real-time with minimal setup.
+- **Streamlit-Powered UI**: Built with Python and Streamlit for dynamic, web-based visualization of RAG workflows, including retrieval steps, context integration, and model outputs.
 
-- **Modular Design & Extensibility**: Supports custom RAG configurations (e.g., vector stores, LLMs) and integrates with popular libraries (e.g., LangChain) for seamless pipeline analysis and optimization.
+- **Modular Design**: Supports customization for different RAG architectures (e.g., vector stores, rerankers) and integrates with LLM APIs for real-time performance analysis.
 
 ## Why It Matters
 

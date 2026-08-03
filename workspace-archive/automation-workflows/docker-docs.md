@@ -1,10 +1,10 @@
 ---
 title: Docker Docs
 archive_category: automation-workflows
-source_category: ai/rag
-source_url: https://docs.docker.com
+source_category: ai/agents
+source_url: https://docs.docker.com/
 resource_id: blog:docker-docs
-local_vault_path: ai/rag/docker-docs.md
+local_vault_path: ai/agents/docker-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- rag
 - web-crawled
 - workflows
 selection_reason:
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Docker Hardened Images**: Pre-configured, secure container images with reduced attack surfaces, built using Docker's secure supply chain and vulnerability scanning tools.
+- **Docker Basics**: Docker containers package applications and dependencies into isolated, portable environments, enabling consistent deployment across systems via the Docker Engine.
 
-- **Docker Sandboxes**: Isolated environments for running AI agents or untrusted code, leveraging gVisor or Linux kernel namespaces for process and filesystem isolation.
+- **Docker Hardened Images**: Provide pre-configured, security-hardened container images with reduced attack surfaces, optimized for production use in enterprise environments.
 
-- **Docker Compose**: Tool for defining and running multi-container applications via declarative YAML files (`docker-compose.yml`), enabling orchestratio
+- **Docker Compose**: Orchestrates multi-container applications via declarative YAML files, simplifying service management, scaling, and n
 
 ## Use Cases
 
@@ -47,8 +46,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.docker.com
+Original source URL: https://docs.docker.com/
 
 ## Local Vault File
 
-Path: [docker-docs.md](../../ai/rag/docker-docs.md)
+Path: [docker-docs.md](../../ai/agents/docker-docs.md)

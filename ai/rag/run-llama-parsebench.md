@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-08-03T03:45:02.316133+05:30'
+collected_at: '2026-08-03T09:28:26.586175+05:30'
 published_at: '2026-07-29T11:45:17Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-07-27T21:25:19Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-08-03T03:45:02.316133+05:30'
-last_seen: '2026-08-03T03:45:02.316133+05:30'
-last_checked: '2026-08-03T03:45:02.316133+05:30'
+first_seen: '2026-08-03T09:28:26.586175+05:30'
+last_seen: '2026-08-03T09:28:26.586175+05:30'
+last_checked: '2026-08-03T09:28:26.586175+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, focusing on tasks like PDF parsing, OCR, and table extraction with standardized metrics.
-- **Multi-Modal Evaluation**: Supports vision-language models (VLMs) and machine learning pipelines, integrating tools like LlamaIndex for structured output validation.
-- **Open-Source Framework**: Python-based repository with 536 stars, designed for extensibility and comparison across document AI methods (e.g., layout analysis, text extraction).
+- **Benchmark Suite**: ParseBench provides a standardized evaluation framework for document parsing tasks, including PDF parsing, OCR, and table extraction, designed for AI agents and LLMs.
+- **Multi-Modal Support**: Supports vision-language models (VLMs) and integrates with libraries like LlamaIndex for structured document analysis.
+- **Evaluation Metrics**: Includes metrics for assessing parsing accuracy, OCR quality, and table extraction performance across diverse document types.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: run-llama
 - Stars: 536
-- Forks: 75
+- Forks: 76
 - Language: Python
 - Topics: benchmark, document-ai, document-parsing, evaluation, llamaindex, llm, machine-learning, ocr, pdf-parsing, table-extraction, vision-language-models
 - Last Updated: 2026-07-29T11:45:17Z

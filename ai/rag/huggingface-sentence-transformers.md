@@ -1,33 +1,44 @@
 ---
-title: sentence-transformers/examples/cross_encoder/applications/README.md at main
-  · huggingface/sentence-transformers · GitHub
+title: sentence-transformers/docs/quickstart.rst at main · huggingface/sentence-transformers
+  · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/huggingface/sentence-transformers/blob/main/examples/cross_encoder/applications/README.md
-published_at: '2026-08-02T19:31:17.467885+05:30'
-collected_at: '2026-08-02T19:31:17.467897+05:30'
+source_url: https://github.com/huggingface/sentence-transformers/blob/main/docs/quickstart.rst
+published_at: '2026-08-03T09:35:34.596644+05:30'
+collected_at: '2026-08-03T09:35:34.596656+05:30'
 tags:
 - dataset
-- paper
 - rag
 - reddit
 - web-crawled
+- youtube
 status: active
 resource_id: github:huggingface/sentence-transformers
-first_seen: '2026-08-02T19:31:17.467897+05:30'
-last_seen: '2026-08-02T19:31:17.467897+05:30'
-last_checked: '2026-08-02T19:31:17.467897+05:30'
+first_seen: '2026-08-03T09:35:34.596656+05:30'
+last_seen: '2026-08-03T09:35:34.596656+05:30'
+last_checked: '2026-08-03T09:35:34.596656+05:30'
 health_score: 100
 ---
 
-# sentence-transformers/examples/cross_encoder/applications/README.md at main · huggingface/sentence-transformers · GitHub
+# sentence-transformers/docs/quickstart.rst at main · huggingface/sentence-transformers · GitHub
 
 ## Summary
 
-- **Cross-Encoders** process sentence pairs jointly via a Transformer, outputting a similarity score (0-1) without generating individual sentence embeddings, unlike **Bi-Encoders** which encode sentences independently for later comparison (e.g., cosine similarity).
-- **Performance vs. Scalability Trade-off**: Cross-Encoders achieve higher accuracy than Bi-Encoders but are computationally expensive; they are ideal for scoring predefined pairs (e.g., 100 pairs) but impractical for large-scale tasks (e.g., clustering 10K sentences would require ~50M comparisons).
-- **Hybrid Approach**: Combine Bi-Encoders for efficient initial retrieval (e.g., top-100 candidates) and Cross-Encoders for re-ranking to balance performance and scalability in applications like semantic search.
+- **Sentence Transformers (Bi-Encoders)**:
+  - Generate **fixed-size dense embeddings** for text, images, audio, or video via efficient encoding.
+  - Enable **fast similarity computation** (e.g., cosine similarity) for tasks like semantic search, clustering, and classification.
+  - Often used as a **first-stage retriever** in two-step pipelines, followed by a Cross-Encoder for reranking.
+
+- **Cross-Encoders (Rerankers)**:
+  - Compute **pairwise similarity scores** directly between inputs (e.g., text pairs), offering **higher accuracy** than bi-encoders.
+  - **Computationally expensive** due to per-pair processing, making them suitable only for re-ranking top-*k* candidates from bi-encoders.
+  - Support **multimodal inputs** (e.g., text+image) for fine-grained relevance scoring.
+
+- **Sparse Encoders**:
+  - Produce **high-dimensional sparse vectors** (e.g., SPLADE) with most dimensions zero, optimizing storage and retrieval efficiency.
+  - Enable **interpretable embeddings** where non-zero dimensions map to specific tokens, aiding explainability.
+  - Used in **hybrid retrieval systems** (dense + sparse) to balance performance and interpretability.
 
 ## Why It Matters
 
@@ -37,16 +48,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:31:17.467885+05:30
+- Published: 2026-08-03T09:35:34.596644+05:30
 
 ## Related Tags
 
 - dataset
-- paper
 - rag
 - reddit
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://github.com/huggingface/sentence-transformers/blob/main/examples/cross_encoder/applications/README.md
+Original source: https://github.com/huggingface/sentence-transformers/blob/main/docs/quickstart.rst

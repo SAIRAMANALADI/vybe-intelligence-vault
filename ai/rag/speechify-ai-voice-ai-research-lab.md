@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.ai/
-published_at: '2026-08-03T01:11:34.381077+05:30'
-collected_at: '2026-08-03T01:11:34.381094+05:30'
+published_at: '2026-08-03T09:35:19.635120+05:30'
+collected_at: '2026-08-03T09:35:19.635133+05:30'
 tags:
 - hackernews
 - leaderboard
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:speechifyai-voice-ai-research-lab
-first_seen: '2026-08-03T01:11:34.381094+05:30'
-last_seen: '2026-08-03T01:11:34.381094+05:30'
-last_checked: '2026-08-03T01:11:34.381094+05:30'
+first_seen: '2026-08-03T09:35:19.635133+05:30'
+last_seen: '2026-08-03T09:35:19.635133+05:30'
+last_checked: '2026-08-03T09:35:19.635133+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Simba 3.2 TTS Model**: Achieves sub-100ms latency and ranks #1 on Artificial Analysis TTS leaderboard for US English, featuring streaming-native architecture, fine-grained emotional control (neutral, happy, sad, excited, calm), and SSML prosody support with curated voice set.
+- **Simba 3.2 TTS Model**: Streaming-native architecture with sub-100ms latency, outperforming competitors on the [Artificial Analysis TTS leaderboard](https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true) at lower cost; features refined emotional control (neutral, happy, sad, excited, calm) and SSML prosody support.
 
-- **Zero-Shot Voice Cloning & Multilingual Synthesis**: Enables cloning of speaker identity (timbre, cadence, micro-expressions) from ≤10s reference audio; supports native-quality speech synthesis across 30+ locales with locale-specific voices and mixed-language input handling.
+- **Zero-Shot Voice Cloning & Multilingual Synthesis**: Enables cloning speaker identity (timbre, cadence, micro-expressions) from ≥10s reference audio; supports native-quality synthesis across 30+ locales with locale-specific voices and mixed-language input handling.
 
-- **Unified API Integration**: Provides a single API endpoint (`/v1/audio/speech`) for streaming, voice cloning, and emotion control, supporting multiple audio formats (e.g., MP3) and languages via standardized JSON requests.
+- **Unified API Integration**: Single API endpoint (`/v1/audio/speech`) for streaming, voice cloning, and emotion control; example curl request demonstrates minimal-code implementation with JSON payload for voice selection and audio format specification.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T01:11:34.381077+05:30
+- Published: 2026-08-03T09:35:19.635120+05:30
 
 ## Related Tags
 

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-03T03:43:02.178283+05:30'
+collected_at: '2026-08-03T09:26:26.400192+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 265
 language: Python
 status: active
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-03T03:43:02.178283+05:30'
-last_seen: '2026-08-03T03:43:02.178283+05:30'
-last_checked: '2026-08-03T03:43:02.178283+05:30'
+first_seen: '2026-08-03T09:26:26.400192+05:30'
+last_seen: '2026-08-03T09:26:26.400192+05:30'
+last_checked: '2026-08-03T09:26:26.400192+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese text processing, integrating vector search and language model inference.
-- **Key Components**: Utilizes embedding models (e.g., `vinai/phobert-base`) for Vietnamese document retrieval and a generative model (e.g., `vllm`) for contextual response synthesis.
-- **Workflow**: End-to-end pipeline includes document preprocessing, vector database indexing (FAISS/Weaviate), retrieval via similarity search, and LLM-based answer generation with Vietnamese-specific tuning.
+- Implements **Vietnamese-specific Retrieval-Augmented Generation (RAG)** with optimized embedding and retrieval pipelines for low-resource language efficiency.
+- Utilizes **FAISS (Facebook AI Similarity Search)** for scalable vector indexing and retrieval in Vietnamese text corpora.
+- Provides **end-to-end RAG pipeline** with Vietnamese LLMs (e.g., Vistral or PhoGPT) for enhanced contextual generation and retrieval performance.
 
 ## Why It Matters
 

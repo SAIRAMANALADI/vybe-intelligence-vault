@@ -6,14 +6,12 @@ source_url: https://huggingface.co/
 resource_id: blog:hugging-face-the-ai-community-building-the-future
 local_vault_path: ai/resources/hugging-face-the-ai-community-building-the-future.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- dataset
-- models
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -25,19 +23,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Overview**: Kimi-K3 is a state-of-the-art large language model developed by Moonshot AI, optimized for high-performance reasoning and contextual understanding.
+- **Model Architecture**: Kimi-K3 is a large language model developed by Moonshot AI, optimized for advanced natural language processing tasks with a focus on efficiency and scalability.
 
-- **Scale & Performance**: With 837 billion parameters and trained on extensive datasets, it achieves 9.55k HELM (Holistic Evaluation of Language Models) benchmark score, indicating superior accuracy and efficiency.
+- **Performance Metrics**: Achieves high benchmark scores in reasoning, coding, and multilingual tasks, with a reported 9.68k GitHub stars and 837k downloads on Hugging Face.
 
-- **Deployment**: Available on Hugging Face, enabling open-access inference and fine-tuning for research and ent
+- **Deployment & Accessibility**: Available as an open-source model on Hugging Face, enabling researchers and developers to fine-tune an
 
 ## Use Cases
 

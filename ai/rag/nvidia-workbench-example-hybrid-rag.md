@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-03T03:42:52.251482+05:30'
+collected_at: '2026-08-03T09:26:16.418317+05:30'
 published_at: '2026-08-01T15:15:48Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 370
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-03T03:42:52.251482+05:30'
-last_seen: '2026-08-03T03:42:52.251482+05:30'
-last_checked: '2026-08-03T03:42:52.251482+05:30'
+first_seen: '2026-08-03T09:26:16.418317+05:30'
+last_seen: '2026-08-03T09:26:16.418317+05:30'
+last_checked: '2026-08-03T09:26:16.418317+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods for improved document retrieval accuracy in NVIDIA AI Workbench.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for improved context augmentation in LLMs.
 
-- **Modular Python Implementation**: Provides a structured Python-based framework with components for document ingestion, retrieval, and generation, leveraging NVIDIA's optimized libraries (e.g., NeMo, Triton).
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, containerization, and GPU-accelerated inference in Python-based workflows.
 
-- **Scalable Deployment**: Designed for deployment in hybrid cloud/on-prem environments, supporting GPU acceleration for both retrieval and LLM inference, with example configurations for NVIDIA GPUs.
+- **Modular Architecture**: Provides a structured example with configurable components (retrievers, rerankers, LLMs) and example datasets, optimized for NVIDIA GPUs (e.g., TensorRT-LLM, vLLM).
 
 ## Why It Matters
 

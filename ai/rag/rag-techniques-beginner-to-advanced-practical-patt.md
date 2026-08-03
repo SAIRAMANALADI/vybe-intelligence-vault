@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-08-03T03:42:17.769841+05:30'
-collected_at: '2026-08-03T03:42:17.769851+05:30'
+published_at: '2026-08-03T09:25:42.260998+05:30'
+collected_at: '2026-08-03T09:25:42.261011+05:30'
 tags:
 - agents
 - anthropic
@@ -20,12 +20,11 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-08-03T03:42:17.769851+05:30'
-last_seen: '2026-08-03T03:42:17.769851+05:30'
-last_checked: '2026-08-03T03:42:17.769851+05:30'
+first_seen: '2026-08-03T09:25:42.261011+05:30'
+last_seen: '2026-08-03T09:25:42.261011+05:30'
+last_checked: '2026-08-03T09:25:42.261011+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Minimal RAG Pipeline**: Implements a basic RAG system using `sentence-transformers` for embeddings, FAISS for vector search, and Flan-T5 for generation; includes document indexing and retrieval/generation workflows with minimal dependencies.
+- **RAG Pipeline Architecture**: Combines a retriever (dense/sparse) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Hybrid Retrieval Techniques**: Combines sparse (BM25) and dense (embedding-based) retrieval methods to improve recall and precision, with optional reranking via cross-encoders (e.g., monoT5, bge-reranker) for optimized passage ordering.
+- **Core Components**: Dense retrieval (FAISS/Chroma) uses embeddings (e.g., `all-MiniLM-L6-v2`), while sparse retrieval (BM25) relies on lexical matching; rerankers (e.g., `bge-reranker`) refine top-k results for precision.
 
-- **Advanced RAG Patterns**: Explores multi-hop retrieval, GraphRAG (knowledge graphs), multi-vector retrievers, context compression, agentic RAG (tool integration), and safety/grounding mechanisms for production-grade RAG systems.
+- **Advanced Techniques**: Multi-hop retrieval decomposes complex queries, GraphRAG leverages knowledge graphs for structured context, and hybrid retrieval (sparse+dense) optimizes recall/precision trade-offs.
 
 ## Why It Matters
 
@@ -47,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T03:42:17.769841+05:30
+- Published: 2026-08-03T09:25:42.260998+05:30
 
 ## Related Tags
 
@@ -63,7 +62,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

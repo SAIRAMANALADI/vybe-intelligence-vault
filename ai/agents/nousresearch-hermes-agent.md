@@ -4,28 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-08-03T03:45:27.334324+05:30'
-published_at: '2026-08-02T22:13:36Z'
+collected_at: '2026-08-03T09:28:51.582180+05:30'
+published_at: '2026-08-03T03:56:19Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- mistral
-- models
 - openai
 - python
-- workflows
-stars: 224281
+stars: 224404
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-08-02T22:13:27Z'
+pushed_at: '2026-08-03T03:44:45Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-08-03T03:45:27.334324+05:30'
-last_seen: '2026-08-03T03:45:27.334324+05:30'
-last_checked: '2026-08-03T03:45:27.334324+05:30'
+first_seen: '2026-08-03T09:28:51.582180+05:30'
+last_seen: '2026-08-03T09:28:51.582180+05:30'
+last_checked: '2026-08-03T09:28:51.582180+05:30'
 health_score: 100
 ---
 
@@ -33,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model AI Agent Framework**: Hermes-Agent is a Python-based framework designed to interact with various LLMs (e.g., Anthropic, OpenAI, Mistral) and AI agents (e.g., ChatGPT, Claude, Codex) via a unified interface, enabling cross-model agentic workflows.
-
-- **Dynamic Agentic Capabilities**: Supports tool integration (e.g., `claude-code`, `moltbot`) and adaptive agent behavior, allowing the system to evolve with user needs through modular plugins and customizable workflows.
-
-- **Open-Source & Extensible**: Hosted on GitHub with 224K+ stars, the repository provides a scalable, community-driven platform for building and deploying AI agents with extensible architectures for research and production use.
+- **Multi-Provider LLM Integration**: Supports Anthropic (Claude, Claude Code), OpenAI (ChatGPT, Codex), and other LLM APIs for dynamic agent behavior adaptation.
+- **Modular Python Framework**: Extensible architecture with tools like `clawdbot` and `moltbot` for code execution, file operations, and web interactions.
+- **Self-Improving Agent**: Implements continuous learning via feedback loops, enabling autonomous skill acquisition and task optimization.
 
 ## Why It Matters
 
@@ -46,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 224281
-- Forks: 43363
+- Stars: 224404
+- Forks: 43415
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-08-02T22:13:36Z
+- Last Updated: 2026-08-03T03:56:19Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-08-02T22:13:27Z
+- Pushed At: 2026-08-03T03:44:45Z
 
 ## Possible Use Cases
 

@@ -3,18 +3,16 @@ title: Google Colab
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
-published_at: '2026-08-02T09:35:46.849907+05:30'
-collected_at: '2026-08-02T09:35:46.849915+05:30'
+source_url: https://colab.research.google.com/drive/1LPvJyEON6btMpubYdwySfNs0FuNR9nza?usp=sharing
+published_at: '2026-08-03T09:31:54.072103+05:30'
+collected_at: '2026-08-03T09:31:54.072113+05:30'
 tags:
-- hackernews
-- models
 - web-crawled
 status: active
 resource_id: blog:google-colab
-first_seen: '2026-08-02T09:35:46.849915+05:30'
-last_seen: '2026-08-02T09:35:46.849915+05:30'
-last_checked: '2026-08-02T09:35:46.849915+05:30'
+first_seen: '2026-08-03T09:31:54.072113+05:30'
+last_seen: '2026-08-03T09:31:54.072113+05:30'
+last_checked: '2026-08-03T09:31:54.072113+05:30'
 health_score: 100
 ---
 
@@ -22,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Access Restricted**: The provided link requires Google account authentication, indicating restricted access to the Gemma LoRA tuning documentation hosted on Google Colab.
+- **Authentication Required**: The provided link directs to Google's sign-in page, indicating access to a resource (Google Colab notebook) is restricted without valid credentials.
 
-- **Resource Location**: The target resource is a Jupyter Notebook (`lora_tuning.ipynb`) within the `generative-ai-docs` GitHub repository, specifically under Google's Gemma documentation.
+- **Session Parameters**: The URL includes `passive=true` and `continue=https%3A%2F%2Fcolab.research.google.com%2F...`, suggesting a seamless post-authentication redirect to the specified Colab notebook (`1LPvJyEON6btMpubYdwySfNs0FuNR9nza`).
 
-- **Purpose**: The notebook likely details **Low-Rank Adaptation (LoRA)** fine-tuning techniques for the Gemma model, a lightweight open-source LLM variant.
+- **Sharing Context**: The `usp=sharing` parameter implies the notebook is shared, but access is still gated by Google account authentication.
 
 ## Why It Matters
 
@@ -36,14 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T09:35:46.849907+05:30
+- Published: 2026-08-03T09:31:54.072103+05:30
 
 ## Related Tags
 
-- hackernews
-- models
 - web-crawled
 
 ## Source
 
-Original source: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+Original source: https://colab.research.google.com/drive/1LPvJyEON6btMpubYdwySfNs0FuNR9nza?usp=sharing

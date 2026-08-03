@@ -8,24 +8,24 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 
 ## Top Matched Resources
 
+- [github/roadmap](https://github.com/github/roadmap) (tutorial - ESSENTIAL Tier)
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (benchmark - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
-- [github/roadmap](https://github.com/github/roadmap) (tutorial - USEFUL Tier)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com) (framework - USEFUL Tier)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time) (benchmark - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
-- [Collections · GitHub](https://github.com/collections)
 - [github/roadmap](https://github.com/github/roadmap)
+- [Collections · GitHub](https://github.com/collections)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
-- [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-03 04:00 IST*
+*Last updated: 2026-08-03 09:43 IST*

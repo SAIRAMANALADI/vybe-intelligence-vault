@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-03T03:43:57.252897+05:30'
+collected_at: '2026-08-03T09:27:21.504491+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-03T03:43:57.252897+05:30'
-last_seen: '2026-08-03T03:43:57.252897+05:30'
-last_checked: '2026-08-03T03:43:57.252897+05:30'
+first_seen: '2026-08-03T09:27:21.504491+05:30'
+last_seen: '2026-08-03T09:27:21.504491+05:30'
+last_checked: '2026-08-03T09:27:21.504491+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts code for three research works: *VLM2Vec / MMEB* (ICLR 2025), *VLM2Vec-V2 / MMEB-V2* (TMLR 2026), and *MMEB-V3* (COLM 2026), focusing on multimodal embedding benchmarks and contrastive learning.
+- **Repository Overview**: Hosts code for three multimodal embedding benchmarks: VLM2Vec/MMEB (ICLR 2025), VLM2Vec-V2/MMEB-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on contrastive learning and representation learning for multimodal tasks.
 
-- **Technical Scope**: Implements multimodal representation learning for tasks including image retrieval, video retrieval, visual document retrieval, and retrieval-augmented generation (RAG), leveraging vision-language models (VLMs).
+- **Technical Scope**: Supports tasks including image retrieval, video retrieval, visual document retrieval, and retrieval-augmented generation (RAG), leveraging Vision-Language Models (VLMs) for embedding generation.
 
-- **Benchmark Suite**: Provides *MMEB* (Multimodal Embedding Benchmark) frameworks across three versions, enabling standardized evaluation of multimodal embeddings in contrastive learning settings.
+- **Implementation Details**: Python-based repository with 670 stars and 63 forks, last updated July 31, 2026, covering multimodal embedding benchmarks (MMEB) and advanced contrastive learning methodologies.
 
 ## Why It Matters
 

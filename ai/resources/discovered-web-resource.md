@@ -3,18 +3,17 @@ title: Discovered Web Resource
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://developer.atlassian.com/
-published_at: '2026-08-02T03:53:17.479399+05:30'
-collected_at: '2026-08-02T03:53:17.479414+05:30'
+source_url: https://config.travis-ci.com/
+published_at: '2026-08-03T09:35:19.875215+05:30'
+collected_at: '2026-08-03T09:35:19.875227+05:30'
 tags:
-- hackernews
+- reddit
 - web-crawled
-- youtube
 status: active
 resource_id: blog:discovered-web-resource
-first_seen: '2026-08-02T03:53:17.479414+05:30'
-last_seen: '2026-08-02T03:53:17.479414+05:30'
-last_checked: '2026-08-02T03:53:17.479414+05:30'
+first_seen: '2026-08-03T09:35:19.875227+05:30'
+last_seen: '2026-08-03T09:35:19.875227+05:30'
+last_checked: '2026-08-03T09:35:19.875227+05:30'
 health_score: 100
 ---
 
@@ -22,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Documentation Hub**: Provides centralized technical documentation for Atlassian Cloud and Data Center products, including APIs, SDKs, and integration guides.
-- **Developer Resources**: Offers changelog updates, system status monitoring, and support channels for troubleshooting and issue resolution.
-- **Legal & Compliance**: Hosts privacy policies, developer terms, trademark information, and cookie preferences for regulatory adherence.
+- **Configuration Schema**: Travis CI build configurations are formally specified using a [JSON Schema](https://github.com/travis-ci/travis-yml/blob/master/schema.json), enabling validation and normalization of `.travis.yml` files.
+
+- **Core Configuration Keys**: Primary keys include `language`, `os`, `dist`, `arch`, `env`, `compiler`, `stages`, `jobs`, `notifications`, `version`, and `vm`, each defining build environment, dependencies, and execution logic.
+
+- **Shared Configuration Keys**: Secondary keys like `addons`, `cache`, `deploy`, `services`, `workspaces`, and lifecycle hooks (`before_install`, `script`, `after_success`, etc.) provide modular control over build processes, dependencies, and post-processing.
 
 ## Why It Matters
 
@@ -34,14 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T03:53:17.479399+05:30
+- Published: 2026-08-03T09:35:19.875215+05:30
 
 ## Related Tags
 
-- hackernews
+- reddit
 - web-crawled
-- youtube
 
 ## Source
 
-Original source: https://developer.atlassian.com/
+Original source: https://config.travis-ci.com/

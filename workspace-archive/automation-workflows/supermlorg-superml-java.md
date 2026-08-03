@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Java-based ML library** under the `supermlorg` GitHub organization, with 1 fork, 5 stars, and active issue/PR tracking.
-- **Supports community engagement** via discussions (announcements, Q&A, ideas) and CI/CD workflows (GitHub Actions).
-- **Documentation and community links** hosted at `superml-java.superml.org`, with guidelines aligned to GitHub’s community standards.
+- Java-based machine learning library (`superml-java`) under the `supermlorg` GitHub organization with 5 stars and 1 fork.
+- Supports community engagement via discussions (categories: Announcements, General, Ideas, Q&A, etc.) and issue tracking.
+- Hosted at `superml-java.superml.org` with CI/CD via GitHub Actions for automated workflows.
 
 ## Use Cases
 

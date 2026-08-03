@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-03T03:43:57.263809+05:30'
+collected_at: '2026-08-03T09:27:21.480456+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
+- paper
 - python
 - rag
 stars: 174
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-03T03:43:57.263809+05:30'
-last_seen: '2026-08-03T03:43:57.263809+05:30'
-last_checked: '2026-08-03T03:43:57.263809+05:30'
+first_seen: '2026-08-03T09:27:21.480456+05:30'
+last_seen: '2026-08-03T09:27:21.480456+05:30'
+last_checked: '2026-08-03T09:27:21.480456+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) via unified indexing and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence-level), leveraging unified encoders and retrievers for heterogeneous data integration.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval system using modality-specific encoders (e.g., CLIP for vision-language, BERT for text) with a shared embedding space, enabling joint retrieval of heterogeneous data types.
+- **ACL 2026 Oral Paper**: The system introduces novel architectures for modality-agnostic retrieval and generation, optimizing cross-modal alignment and contextual relevance in large-scale corpora, as presented in the ACL 2026 conference.
 
-- **Adaptive Generation Pipeline**: Features a dynamic retrieval-generation loop where the LLM adaptively selects and fuses retrieved content based on query context, improving factuality and coherence in multimodal outputs.
+- **Open-Source Implementation**: The Python-based repository provides modular components for customizable RAG pipelines, supporting integration with LLMs and multimodal encoders (e.g., CLIP, BLIP) for scalable, domain-agnostic applications.
 
 ## Why It Matters
 

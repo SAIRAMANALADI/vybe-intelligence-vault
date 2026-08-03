@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-03T03:43:32.198272+05:30'
+collected_at: '2026-08-03T09:26:56.456405+05:30'
 published_at: '2026-07-30T15:36:09Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - reddit
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-03T03:43:32.198272+05:30'
-last_seen: '2026-08-03T03:43:32.198272+05:30'
-last_checked: '2026-08-03T03:43:32.198272+05:30'
+first_seen: '2026-08-03T09:26:56.456405+05:30'
+last_seen: '2026-08-03T09:26:56.456405+05:30'
+last_checked: '2026-08-03T09:26:56.456405+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems, where adversaries manipulate retrieved documents to bias LLM outputs without direct model access.
-
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by injecting poisoned documents into the retrieval corpus, enabling targeted misinformation or bias amplification in downstream generation tasks.
-
-- **Evaluation & Impact**: Validates attack efficacy on multiple LLMs and RAG configurations, highlighting significant security risks to real-world RAG deployments and emphasizing the need for robust defense mechanisms.
+- Introduces **PoisonedRAG**, a novel attack framework exploiting vulnerabilities in Retrieval-Augmented Generation (RAG) systems by poisoning the external knowledge base to manipulate LLM outputs.
+- Demonstrates **three attack vectors**: *document-level poisoning* (malicious documents), *embedding-level poisoning* (adversarial embeddings), and *retrieval-level poisoning* (bypassing filters), achieving high attack success rates (up to 97.5%) with minimal perturbations.
+- Proposes **defensive strategies** including robust retrieval filtering, embedding sanitization, and anomaly detection, while evaluating their effectiveness against the proposed attacks.
 
 ## Why It Matters
 

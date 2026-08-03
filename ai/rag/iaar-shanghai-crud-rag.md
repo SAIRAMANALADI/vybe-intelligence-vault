@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-03T03:43:27.243389+05:30'
+collected_at: '2026-08-03T09:26:51.448973+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-03T03:43:27.243389+05:30'
-last_seen: '2026-08-03T03:43:27.243389+05:30'
-last_checked: '2026-08-03T03:43:27.243389+05:30'
+first_seen: '2026-08-03T09:26:51.448973+05:30'
+last_seen: '2026-08-03T09:26:51.448973+05:30'
+last_checked: '2026-08-03T09:26:51.448973+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), focusing on comprehensive performance metrics across retrieval and generation tasks.
+- **Benchmark Development**: Introduces CRUD-RAG, a Chinese benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems for Large Language Models (LLMs), focusing on comprehensive performance assessment across multiple dimensions.
 
-- **Task-Specific Evaluation**: Includes structured tasks such as knowledge-intensive QA, multi-hop reasoning, and long-form generation, with metrics for retrieval precision, context relevance, and answer correctness in Chinese.
+- **Evaluation Framework**: Implements a structured evaluation pipeline with metrics for retrieval quality, generation accuracy, and contextual relevance, enabling systematic comparison of RAG models in Chinese language tasks.
 
-- **Open-Source Toolkit**: Provides a Python-based toolkit for benchmarking, featuring modular components for retrieval, reranking, and generation, along with standardized datasets and evaluation protocols for reproducibility.
+- **Open-Source Toolkit**: Provides a Python-based repository with datasets, evaluation scripts, and baseline models, facilitating reproducibility and community-driven advancements in Chinese RAG research.
 
 ## Why It Matters
 

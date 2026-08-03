@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AnswerDotAI/RAGatouille
-collected_at: '2026-08-02T14:13:37.924349+05:30'
+collected_at: '2026-08-03T09:30:01.658326+05:30'
 published_at: '2026-07-31T16:10:57Z'
 tags:
 - github-repo
-- models
 - python
 - rag
+- workflows
 stars: 3945
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-12-29T16:26:42Z'
 pushed_at: '2025-05-17T12:45:38Z'
 resource_id: github:answerdotai/ragatouille
-first_seen: '2026-08-02T14:13:37.924349+05:30'
-last_seen: '2026-08-02T14:13:37.924349+05:30'
-last_checked: '2026-08-02T14:13:37.924349+05:30'
+first_seen: '2026-08-03T09:30:01.658326+05:30'
+last_seen: '2026-08-03T09:30:01.658326+05:30'
+last_checked: '2026-08-03T09:30:01.658326+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Integrates and enables training of state-of-the-art ColBERT-based late-interaction retrieval models for RAG pipelines.
-*   Provides a modular Python framework for efficient dense retrieval, supporting both inference and fine-tuning.
-*   Designed for ease-of-use in deploying advanced neural retrieval architectures to enhance RAG system performance.
+- **ColBERT-based Retrieval**: Implements late-interaction retrieval via ColBERTv2 for high-precision document ranking in RAG pipelines, leveraging token-level interactions for improved accuracy.
+- **Modular & Research-Backed**: Designed for seamless integration into existing RAG frameworks with modular components, supported by peer-reviewed research for robustness.
+- **Python Implementation**: Provides a Python library for training and inference, optimized for compatibility with Hugging Face ecosystems and modern retrieval workflows.
 
 ## Why It Matters
 

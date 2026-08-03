@@ -16,13 +16,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: github:paoloanzn/microcodex
 first_seen: '2026-08-03T03:41:30.981076+05:30'
 last_seen: '2026-08-03T03:41:30.981076+05:30'
 last_checked: '2026-08-03T03:41:30.981076+05:30'
 health_score: 100
 ---
+
 
 # Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary
 

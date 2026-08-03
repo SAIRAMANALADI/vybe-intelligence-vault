@@ -4,9 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-03T03:43:12.192425+05:30'
+collected_at: '2026-08-03T09:26:41.451030+05:30'
 published_at: '2026-08-01T13:42:45Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
 - paper
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-03T03:43:12.192425+05:30'
-last_seen: '2026-08-03T03:43:12.192425+05:30'
-last_checked: '2026-08-03T03:43:12.192425+05:30'
+first_seen: '2026-08-03T09:26:41.451030+05:30'
+last_seen: '2026-08-03T09:26:41.451030+05:30'
+last_checked: '2026-08-03T09:26:41.451030+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive repository aggregating advanced techniques, tools, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), including embeddings, retrieval methods, and hybrid architectures.
-
-- **Technical Focus Areas**: Covers key topics such as RAG embeddings, retrieval information strategies, and integration with LLMs to enhance factual accuracy, context relevance, and generation quality.
-
-- **Continuous Updates**: Maintained with the latest advancements (last updated Aug 2026), ensuring relevance for researchers and practitioners in LLM-driven RAG systems.
+- **Curated resource** focusing on advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval methods, and integration strategies.
+- **Comprehensive collection** of state-of-the-art RAG frameworks, benchmarks, and research papers to enhance LLM performance via dynamic knowledge retrieval.
+- **Actively maintained** repository (last updated Aug 2026) with categorized links to tools, datasets, and papers spanning **RAG embeddings**, **information retrieval**, and **LLM optimization**.
 
 ## Why It Matters
 

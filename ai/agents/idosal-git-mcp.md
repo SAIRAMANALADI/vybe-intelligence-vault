@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-08-03T03:44:07.315046+05:30'
+collected_at: '2026-08-03T09:27:31.482923+05:30'
 published_at: '2026-08-02T06:24:05Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 8309
 language: TypeScript
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-08-03T03:44:07.315046+05:30'
-last_seen: '2026-08-03T03:44:07.315046+05:30'
-last_checked: '2026-08-03T03:44:07.315046+05:30'
+first_seen: '2026-08-03T09:27:31.482923+05:30'
+last_seen: '2026-08-03T09:27:31.482923+05:30'
+last_checked: '2026-08-03T09:27:31.482923+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating LLM code hallucinations by ensuring accurate code retrieval.
-- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) via the MCP framework, facilitating agentic workflows for code analysis and generation.
-- **Key Features**: Supports dynamic repository querying, real-time updates (last commit: 2026-08-02), and cross-platform agent collaboration, with 8,309 stars and 738 forks indicating strong community adoption.
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to mitigate "code hallucinations" by providing accurate, real-time GitHub project data to AI agents and LLMs.
+
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI tools (e.g., Claude, Copilot, Cursor) via the MCP framework for GitHub repository interactions.
+
+- **Functionality**: Acts as a bridge between AI agents and GitHub projects, allowing agents to fetch, analyze, and interact with repository data without hallucinations.
 
 ## Why It Matters
 

@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/stable/concepts/metrics/
-published_at: '2026-08-02T14:13:49.963356+05:30'
-collected_at: '2026-08-02T14:13:49.963365+05:30'
+published_at: '2026-08-03T09:30:12.607224+05:30'
+collected_at: '2026-08-03T09:30:12.607238+05:30'
 tags:
 - benchmark
+- models
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:metrics-ragas
-first_seen: '2026-08-02T14:13:49.963365+05:30'
-last_seen: '2026-08-02T14:13:49.963365+05:30'
-last_checked: '2026-08-02T14:13:49.963365+05:30'
+first_seen: '2026-08-03T09:30:12.607238+05:30'
+last_seen: '2026-08-03T09:30:12.607238+05:30'
+last_checked: '2026-08-03T09:30:12.607238+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Metric Design Principles**: Ragas metrics are structured around **faithfulness**, **answer relevance**, and **context relevance**, ensuring evaluation aligns with retrieval-augmented generation (RAG) system objectives.
+- **Metrics Overview**: Ragas provides a structured framework for evaluating RAG (Retrieval-Augmented Generation) systems, emphasizing precision, recall, and relevance in generated outputs through modular metric design.
 
-- **Available Metrics**: Includes **Faithfulness** (measures hallucination via entailment), **Answer Relevance** (assesses query-answer alignment), and **Context Relevance** (evaluates retrieved context utility), each with probabilistic scoring mechanisms.
+- **Available Metrics**: Includes 10+ metrics (e.g., `Faithfulness`, `Answer Relevance`, `Context Precision`) leveraging LLM-based scoring, embedding similarity, and statistical measures to quantify performance across dimensions like factuality, context utilization, and answer quality.
 
-- **Implementation**: Metrics leverage **LLM-as-a-judge** paradigms with fine-tuned prompts, enabling automated, scalable evaluation of RAG pipelines without manual annotation.
+- **Implementation**: Metrics are implemented as composable Python classes with standardized interfaces, supporting customization via parameter tuning (e.g., `thresholds`, `weights`) and integration into evaluation pipelines for automated benchmarking.
 
 ## Why It Matters
 
@@ -37,11 +38,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T14:13:49.963356+05:30
+- Published: 2026-08-03T09:30:12.607224+05:30
 
 ## Related Tags
 
 - benchmark
+- models
 - rag
 - reddit
 - web-crawled

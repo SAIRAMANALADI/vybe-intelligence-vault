@@ -4,15 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/data-enrichment
-collected_at: '2026-08-02T19:28:52.257823+05:30'
-published_at: '2026-07-29T08:48:15Z'
+collected_at: '2026-08-03T09:29:31.707900+05:30'
+published_at: '2026-08-03T03:44:45Z'
 tags:
 - agents
+- dataset
 - github-repo
 - hackernews
 - jupyter notebook
+- scripts
 - workflows
-stars: 242
+stars: 243
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-08-28T15:50:13Z'
 pushed_at: '2026-07-25T18:57:31Z'
 resource_id: github:langchain-ai/data-enrichment
-first_seen: '2026-08-02T19:28:52.257823+05:30'
-last_seen: '2026-08-02T19:28:52.257823+05:30'
-last_checked: '2026-08-02T19:28:52.257823+05:30'
+first_seen: '2026-08-03T09:29:31.707900+05:30'
+last_seen: '2026-08-03T09:29:31.707900+05:30'
+last_checked: '2026-08-03T09:29:31.707900+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a LangGraph Studio template for constructing an agent capable of performing web research to generate or enrich structured data.
-
-- **Technical Stack**: Utilizes LangGraph (Python) within Jupyter Notebooks for agent orchestration and data processing workflows.
-
-- **Repository Metadata**: Maintained by langchain-ai, last updated July 29, 2026, with 242 stars and 60 forks.
+- **Purpose**: LangGraph Studio template for constructing agents that perform web research to generate or enrich structured datasets.
+- **Technical Stack**: Built with LangGraph (Python) and deployed as a Jupyter Notebook for interactive development.
+- **Key Features**: Enables automated data collection and refinement via agent-based workflows, optimized for research and data pipeline automation.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 242
+- Stars: 243
 - Forks: 60
 - Language: Jupyter Notebook
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-07-29T08:48:15Z
+- Last Updated: 2026-08-03T03:44:45Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-28T15:50:13Z

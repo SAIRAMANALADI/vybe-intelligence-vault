@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-08-03T03:44:42.301220+05:30'
-published_at: '2026-08-02T22:07:59Z'
+collected_at: '2026-08-03T09:28:06.540219+05:30'
+published_at: '2026-08-03T03:52:54Z'
 tags:
 - agents
 - animation
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - unknown
 - workflows
-stars: 12888
+stars: 12904
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-07-29T17:36:08Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-08-03T03:44:42.301220+05:30'
-last_seen: '2026-08-03T03:44:42.301220+05:30'
-last_checked: '2026-08-03T03:44:42.301220+05:30'
+first_seen: '2026-08-03T09:28:06.540219+05:30'
+last_seen: '2026-08-03T09:28:06.540219+05:30'
+last_checked: '2026-08-03T09:28:06.540219+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Focus**: Designed to educate AI coding agents on efficient GSAP usage, including common workflows and optimization techniques.
-- **Repository Stats**: 12.8k+ stars, 763 forks; last updated August 2, 2026.
+- **GSAP AI Skills Repository**: Provides structured training for AI agents on GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
+- **Technical Focus**: Designed to optimize AI-driven animation workflows with GSAP, ensuring efficient and correct usage of core features and advanced techniques.
+- **Repository Stats**: 12,904 stars, 763 forks; last updated August 3, 2026. Language and topics unspecified in metadata.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 12888
+- Stars: 12904
 - Forks: 763
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-02T22:07:59Z
+- Last Updated: 2026-08-03T03:52:54Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

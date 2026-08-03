@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vin67/crewai_docker
-collected_at: '2026-08-03T01:09:10.492683+05:30'
+collected_at: '2026-08-03T09:29:41.581846+05:30'
 published_at: '2026-03-15T20:13:41Z'
 tags:
 - agents
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-12-02T21:32:28Z'
 pushed_at: '2024-12-02T22:01:46Z'
 resource_id: github:vin67/crewai_docker
-first_seen: '2026-08-03T01:09:10.492683+05:30'
-last_seen: '2026-08-03T01:09:10.492683+05:30'
-last_checked: '2026-08-03T01:09:10.492683+05:30'
+first_seen: '2026-08-03T09:29:41.581846+05:30'
+last_seen: '2026-08-03T09:29:41.581846+05:30'
+last_checked: '2026-08-03T09:29:41.581846+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Dockerfile Template**: Provides a pre-configured Docker setup for CrewAI, a Python-based framework for multi-agent AI systems.
-- **Python-Based**: Utilizes Python as the primary language, ensuring compatibility with CrewAI’s dependencies and libraries.
-- **Last Updated**: Repository was last modified on **March 15, 2026**, reflecting recent maintenance or updates.
+- **Dockerfile Template**: Provides a pre-configured Docker setup for CrewAI, a Python-based multi-agent AI framework, enabling containerized deployment.
+- **Minimal Configuration**: Optimized for lightweight execution with Python dependencies isolated, ensuring reproducibility across environments.
+- **Last Updated**: Repository was last modified on **2026-03-15**, indicating recent maintenance for compatibility with CrewAI updates.
 
 ## Why It Matters
 

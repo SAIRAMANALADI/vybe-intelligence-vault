@@ -1,10 +1,10 @@
 ---
 title: Models compatible with the sentence-transformers library – Hugging Face
 archive_category: evals-and-benchmarks
-source_category: ai/resources
+source_category: ai/rag
 source_url: https://huggingface.co/models?library=sentence-transformers
 resource_id: blog:models-compatible-with-the-sentence-transformers-l
-local_vault_path: ai/resources/models-compatible-with-the-sentence-transformers-l.md
+local_vault_path: ai/rag/models-compatible-with-the-sentence-transformers-l.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -12,7 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- models
+- dataset
+- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Model Specifications**: Nemotron-3-Embed-1B-BF16 is a 1-billion-parameter sentence embedding model optimized for BF16 precision, designed for efficient sentence similarity tasks.
+- **Model Architecture**: Utilizes a distilled version of the MiniLM model with 6 layers, 384-dimensional embeddings, and ~22.7M parameters for efficient sentence encoding.
 
-- **Performance Metrics**: Achieves high accuracy in semantic similarity benchmarks while maintaining low computational overhead due to its compact architecture and BF16 quantization.
+- **Performance Metrics**: Achieves competitive performance on semantic textual similarity tasks with a reported speed-up of ~5x over the original MiniLM model while maintaining ~97% of its accuracy.
 
-- **Deployment Readiness**: Pre-trained and optimized for rapid integration, with 93k downloads indicating strong community adoptio
+- **Training Data**: Trained on a large-scale dataset combining SNLI, MNLI, and a subset of the STS benchmark (STS-B), optimi
 
 ## Use Cases
 
@@ -50,4 +51,4 @@ Original source URL: https://huggingface.co/models?library=sentence-transformers
 
 ## Local Vault File
 
-Path: [models-compatible-with-the-sentence-transformers-l.md](../../ai/resources/models-compatible-with-the-sentence-transformers-l.md)
+Path: [models-compatible-with-the-sentence-transformers-l.md](../../ai/rag/models-compatible-with-the-sentence-transformers-l.md)

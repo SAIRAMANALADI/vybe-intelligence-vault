@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-08-03T03:44:52.312387+05:30'
+collected_at: '2026-08-03T09:28:16.503964+05:30'
 published_at: '2026-08-02T17:56:31Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - paper
 - python
 stars: 2130
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-08-03T03:44:52.312387+05:30'
-last_seen: '2026-08-03T03:44:52.312387+05:30'
-last_checked: '2026-08-03T03:44:52.312387+05:30'
+first_seen: '2026-08-03T09:28:16.503964+05:30'
+last_seen: '2026-08-03T09:28:16.503964+05:30'
+last_checked: '2026-08-03T09:28:16.503964+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository hosting 300+ curated resources on agentic AI, including frameworks, tools, research papers, and applications.
-- **Technical Scope**: Focuses on AI agents, agentic systems, and autonomous decision-making, with primary language being Python.
-- **Community Metrics**: 2,130 stars and 513 forks as of last update (2026-08-02), indicating active community engagement and contribution.
+- **Curated Collection**: Repository hosting 300+ meticulously categorized resources for agentic AI, spanning frameworks, tools, research papers, and applications.
+- **Python-Centric**: Primarily Python-based, facilitating integration with popular AI/ML libraries (e.g., LangChain, AutoGen) and agent frameworks.
+- **High Activity**: Actively maintained (last updated Aug 2026), with 2.1K+ stars and 514 forks, indicating strong community adoption and contributions.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: slavakurilyak
 - Stars: 2130
-- Forks: 513
+- Forks: 514
 - Language: Python
 - Topics: agent, agentic, agents
 - Last Updated: 2026-08-02T17:56:31Z

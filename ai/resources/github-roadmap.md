@@ -4,13 +4,12 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/roadmap
-collected_at: '2026-08-02T01:11:14.895775+05:30'
-published_at: '2026-08-01T13:38:55Z'
+collected_at: '2026-08-03T09:32:35.668517+05:30'
+published_at: '2026-08-02T19:07:35Z'
 tags:
 - github-repo
-- hackernews
 - unknown
-stars: 8828
+stars: 8832
 language: Unknown
 status: active
 license: CC-BY-4.0
@@ -18,9 +17,9 @@ archived: false
 created_at: '2020-03-31T21:35:07Z'
 pushed_at: '2024-10-15T17:31:37Z'
 resource_id: github:github/roadmap
-first_seen: '2026-08-02T01:11:14.895775+05:30'
-last_seen: '2026-08-02T01:11:14.895775+05:30'
-last_checked: '2026-08-02T01:11:14.895775+05:30'
+first_seen: '2026-08-03T09:32:35.668517+05:30'
+last_seen: '2026-08-03T09:32:35.668517+05:30'
+last_checked: '2026-08-03T09:32:35.668517+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Public GitHub roadmap tracking upcoming features and improvements for GitHub and GitHub Enterprise, maintained by GitHub.
-- **Metadata**: 8,828 stars, 1,719 forks, last updated August 1, 2026.
-- **Technical Scope**: Focuses on platform-level changes, not language-specific; topics include `github`, `github-enterprise`, and `roadmap`.
+- **Repository Overview**: Official GitHub public roadmap for GitHub and GitHub Enterprise features, tracking planned and in-progress updates.
+- **Metadata**: 8,832 stars, 1,720 forks; last updated August 2, 2026; topics include `github`, `github-enterprise`, and `roadmap`.
+- **Access**: Source available at [github.com/github/roadmap](https://github.com/github/roadmap) for community feedback and transparency.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: github
-- Stars: 8828
-- Forks: 1719
+- Stars: 8832
+- Forks: 1720
 - Language: Unknown
 - Topics: github, github-enterprise, roadmap
-- Last Updated: 2026-08-01T13:38:55Z
+- Last Updated: 2026-08-02T19:07:35Z
 - License: CC-BY-4.0
 - Archived: No
 - Created At: 2020-03-31T21:35:07Z

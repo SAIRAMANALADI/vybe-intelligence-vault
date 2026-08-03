@@ -9,23 +9,23 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 ## Top Matched Resources
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (template - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [Stainless · GitHub](https://github.com/stainless-api) (template - ESSENTIAL Tier)
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (mcp-server - ESSENTIAL Tier)
 - [git/git](https://github.com/git/git) (workflow - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
-- [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) (template - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [Stainless · GitHub](https://github.com/stainless-api)
-- [git/git](https://github.com/git/git)
-- [OpenAI · GitHub](https://github.com/openai)
-- [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
+- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-03 04:00 IST*
+*Last updated: 2026-08-03 09:43 IST*

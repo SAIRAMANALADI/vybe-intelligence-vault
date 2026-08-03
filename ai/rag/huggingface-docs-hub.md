@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-03T03:47:28.231508+05:30'
-collected_at: '2026-08-03T03:47:28.231517+05:30'
+published_at: '2026-08-03T09:31:11.808506+05:30'
+collected_at: '2026-08-03T09:31:11.808518+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,14 +15,15 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-03T03:47:28.231517+05:30'
-last_seen: '2026-08-03T03:47:28.231517+05:30'
-last_checked: '2026-08-03T03:47:28.231517+05:30'
+first_seen: '2026-08-03T09:31:11.808518+05:30'
+last_seen: '2026-08-03T09:31:11.808518+05:30'
+last_checked: '2026-08-03T09:31:11.808518+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo app hosting with support for Python SDKs (Gradio), Docker containers, and static HTML/JS apps, deployable on CPU/GPU accelerated hardware.
+- **Spaces Hosting**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio, Docker, and static HTML/JS deployments, including GPU acceleration options.
 
-- **Storage & GPU Options**: Spaces support GPU upgrades, ZeroGPU modes, and configurable disk/storage limits, with options for custom domains and embedded deployment.
+- **Space SDKs & Configurations**: Supports multiple SDKs (Gradio, Streamlit, Docker) and configurations for dependencies, storage, GPU upgrades, and custom domains, with reference documentation for deployment settings.
 
-- **Integration & Automation**: Supports GitHub Actions for CI/CD, OAuth authentication, MCP server integration, and API endpoints for programmatic access and automation.
+- **Collaboration & Integration**: Facilitates ML portfolio showcasing, collaborative projects, and GitHub Actions integration; includes features like OAuth, webhooks, and embeddable spaces for broader ecosystem integration.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T03:47:28.231508+05:30
+- Published: 2026-08-03T09:31:11.808506+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

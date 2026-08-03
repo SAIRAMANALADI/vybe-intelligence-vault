@@ -31,8 +31,8 @@ selection_reason:
 ## Summary
 
 - **Authentication Methods**: Supports OAuth via Google/GitHub and traditional email/password login with password recovery.
-- **Legal Compliance**: Enforces acceptance of *Terms of Use* and *Privacy Policy* during signup.
-- **Redirect Handling**: Post-login redirects to `/playground/generate` for new users via `redirect_uri` parameter.
+- **Legal Compliance**: Requires acceptance of [Terms of Use](https://cohere.com/terms-of-use) and [Privacy Policy](https://cohere.com/privacy) upon registration.
+- **Redirect Handling**: New users are redirected to `/playground/generate` post-signup via encoded URI parameter.
 
 ## Use Cases
 

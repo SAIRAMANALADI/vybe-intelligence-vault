@@ -13,13 +13,14 @@ collected_at: '2026-08-03T03:41:29.194669+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-mania-from-tulips-to-tokens
 first_seen: '2026-08-03T03:41:29.194669+05:30'
 last_seen: '2026-08-03T03:41:29.194669+05:30'
 last_checked: '2026-08-03T03:41:29.194669+05:30'
 health_score: 100
 ---
+
 
 # AI Mania: From Tulips to Tokens
 

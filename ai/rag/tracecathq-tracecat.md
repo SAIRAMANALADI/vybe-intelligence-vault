@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-03T03:45:17.350384+05:30'
+collected_at: '2026-08-03T09:28:41.583539+05:30'
 published_at: '2026-08-02T22:01:43Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -21,11 +20,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-08-02T06:13:49Z'
+pushed_at: '2026-08-03T03:57:06Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-03T03:45:17.350384+05:30'
-last_seen: '2026-08-03T03:45:17.350384+05:30'
-last_checked: '2026-08-03T03:45:17.350384+05:30'
+first_seen: '2026-08-03T09:28:41.583539+05:30'
+last_seen: '2026-08-03T09:28:41.583539+05:30'
+last_checked: '2026-08-03T09:28:41.583539+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Open-source security automation platform designed for teams and AI agents, combining low-code workflows with event-driven orchestration via FastAPI, Pydantic, and Temporal.io.
-- **Technical Stack**: Built in Python with Next.js frontend, leveraging OpenAPI for API standardization and Pydantic for data validation, enabling LLM integration and automated security workflows.
-- **Key Features**: Supports workflow engines, real-time monitoring, and agent-based automation, optimized for security operations with a scalable, event-driven architecture.
+- **Platform Overview**: Tracecat is an open-source, event-driven security automation platform designed for teams and AI agents, leveraging Python, FastAPI, and Next.js for backend and frontend components respectively.
+
+- **Core Architecture**: Utilizes **Temporal.io** for workflow orchestration, **Pydantic** for data validation, and **OpenAPI** for API specifications, enabling low-code security automation with robust monitoring and scalability.
+
+- **Integration & Extensibility**: Supports **LLM (Large Language Model)** integration, **FastAPI** for REST APIs, and modular workflows, allowing seamless automation of security operations with minimal manual intervention.
 
 ## Why It Matters
 
@@ -52,7 +53,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-08-02T06:13:49Z
+- Pushed At: 2026-08-03T03:57:06Z
 
 ## Possible Use Cases
 

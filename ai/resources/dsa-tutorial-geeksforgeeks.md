@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/
-published_at: '2026-08-03T01:11:34.296973+05:30'
-collected_at: '2026-08-03T01:11:34.296990+05:30'
+published_at: '2026-08-03T09:32:07.408783+05:30'
+collected_at: '2026-08-03T09:32:07.408798+05:30'
 tags:
 - benchmark
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dsa-tutorial-geeksforgeeks
-first_seen: '2026-08-03T01:11:34.296990+05:30'
-last_seen: '2026-08-03T01:11:34.296990+05:30'
-last_checked: '2026-08-03T01:11:34.296990+05:30'
+first_seen: '2026-08-03T09:32:07.408798+05:30'
+last_seen: '2026-08-03T09:32:07.408798+05:30'
+last_checked: '2026-08-03T09:32:07.408798+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **DSA Core**: Data Structures (e.g., Arrays, Linked Lists, Trees, Heaps) and Algorithms (e.g., Binary Search, Quick Sort, Merge Sort) are foundational for software systems (GPS, search engines, AI, databases) and heavily emphasized in tech interviews (Google, Microsoft, Amazon).
+- **Core Concepts**: Data Structures (arrays, linked lists, trees, heaps) and Algorithms (binary search, quicksort, mergesort) are foundational for software systems (GPS, search engines, AI, databases) and heavily emphasized in technical interviews at top companies (Google, Microsoft, Amazon, etc.).
 
-- **Complexity Analysis**: Asymptotic analysis (Big-O, Θ, Ω) and time/space complexity are critical for evaluating algorithm efficiency, with foundational concepts like recursion and mathematical patterns (e.g., GCD, Armstrong numbers) serving as prerequisites.
+- **Learning Progression**: Structured DSA curriculum starts with fundamentals (programming constructs, complexity analysis), progresses through math/recursion, arrays/strings, searching (linear, binary, answer-based), and sorting (wave form, merge intervals), with incremental difficulty tiers (easy/medium/hard).
 
-- **Searching & Sorting**: Binary search variants (e.g., lower/upper bounds, peak finding) and sorting techniques (e.g., wave form, merge intervals) are essential, with advanced applications like "search in sorted & rotated arrays" and "median of two sorted arrays" requiring optimized implementations.
+- **Key Techniques**: Critical algorithms include Kadane’s (max subarray), binary search variants (lower/upper bounds, rotated arrays), and matrix operations (spiral traversal, transpose, 90° rotation), with applications in optimization problems (e.g., book allocation, aggressive cows).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T01:11:34.296973+05:30
+- Published: 2026-08-03T09:32:07.408783+05:30
 
 ## Related Tags
 
