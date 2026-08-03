@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-03T20:49:01.782947+05:30'
+collected_at: '2026-08-03T22:53:55.165888+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-03T20:49:01.782947+05:30'
-last_seen: '2026-08-03T20:49:01.782947+05:30'
-last_checked: '2026-08-03T20:49:01.782947+05:30'
+first_seen: '2026-08-03T22:53:55.165888+05:30'
+last_seen: '2026-08-03T22:53:55.165888+05:30'
+last_checked: '2026-08-03T22:53:55.165888+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **CRUD-RAG**, a Chinese benchmark for evaluating **Retrieval-Augmented Generation (RAG)** systems with **Large Language Models (LLMs)**, focusing on comprehensive performance assessment.
+- **Benchmark Framework**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on retrieval and generation performance metrics.
 
-- Provides a structured framework for benchmarking **CRUD (Create, Read, Update, Delete)** operations in RAG pipelines, emphasizing **Chinese language support** and real-world applicability.
+- **Evaluation Scope**: The benchmark includes diverse tasks such as knowledge-intensive QA, multi-hop reasoning, and long-context understanding, with standardized datasets and evaluation protocols for Chinese language applications.
 
-- Repository includes **Python-based implementations**, datasets, and evaluation metrics, with the latest update as of **August 2026**.
+- **Open-Source Toolkit**: The repository offers a Python-based toolkit with modular components for RAG pipeline construction, enabling reproducibility and facilitating research in Chinese RAG systems.
 
 ## Why It Matters
 

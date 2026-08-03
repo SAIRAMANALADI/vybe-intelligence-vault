@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-03T20:50:21.824860+05:30'
+collected_at: '2026-08-03T22:55:15.154789+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-03T20:50:21.824860+05:30'
-last_seen: '2026-08-03T20:50:21.824860+05:30'
-last_checked: '2026-08-03T20:50:21.824860+05:30'
+first_seen: '2026-08-03T22:55:15.154789+05:30'
+last_seen: '2026-08-03T22:55:15.154789+05:30'
+last_checked: '2026-08-03T22:55:15.154789+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,9 @@ health_score: 100
 
 - **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **TanStack Router Best Practices**: Implements dynamic routing strategies and lazy-loaded route components to enhance SPA navigation, with a focus on minimizing bundle size and improving load times for AI agents.
+- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths with type safety and minimal re-renders.
 
-- **TanStack Start Framework Patterns**: Showcases structured state management and server-client synchronization techniques using TanStack Start, ensuring scalable and maintainable AI agent workflows with minimal boilerplate.
+- **TanStack Start for AI Workflows**: Implements TanStack Start to streamline agent-based workflows, focusing on modular state management and optimized SSR/SSG compatibility for AI-driven frontend applications.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-08-03T20:50:26.874065+05:30'
+collected_at: '2026-08-03T22:55:20.199032+05:30'
 published_at: '2026-08-03T06:45:41Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-08-03T04:45:57Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-08-03T20:50:26.874065+05:30'
-last_seen: '2026-08-03T20:50:26.874065+05:30'
-last_checked: '2026-08-03T20:50:26.874065+05:30'
+first_seen: '2026-08-03T22:55:20.199032+05:30'
+last_seen: '2026-08-03T22:55:20.199032+05:30'
+last_checked: '2026-08-03T22:55:20.199032+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: A comprehensive, community-driven repository of AI agent frameworks, tools, libraries, and research papers, designed to centralize resources for building autonomous AI systems.
-- **Multi-Domain Coverage**: Encompasses agents for web browsing, code generation, task automation, reinforcement learning, and multi-agent systems, spanning both open-source and proprietary solutions.
-- **Active Maintenance**: Regularly updated with the latest advancements (last commit: 2026-08-03), featuring contributions from 730+ forks and 2,684+ stars, indicating strong community engagement.
+- **Curated Collection**: A structured, community-driven repository aggregating AI agent frameworks, tools, libraries, and research papers for autonomous system development.
+- **Multi-Domain Coverage**: Encompasses agents for LLMs, robotics, automation, multi-agent systems (MAS), and reinforcement learning (RL) applications.
+- **Active Maintenance**: Regularly updated (last commit: 2026-08-03) with 2.7k+ stars and 730+ forks, indicating strong community engagement and adoption.
 
 ## Why It Matters
 

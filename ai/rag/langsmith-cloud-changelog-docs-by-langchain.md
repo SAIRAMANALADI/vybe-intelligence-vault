@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-03T20:53:11.411801+05:30'
-collected_at: '2026-08-03T20:53:11.411813+05:30'
+published_at: '2026-08-03T22:58:41.250070+05:30'
+collected_at: '2026-08-03T22:58:41.250083+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-03T20:53:11.411813+05:30'
-last_seen: '2026-08-03T20:53:11.411813+05:30'
-last_checked: '2026-08-03T20:53:11.411813+05:30'
+first_seen: '2026-08-03T22:58:41.250083+05:30'
+last_seen: '2026-08-03T22:58:41.250083+05:30'
+last_checked: '2026-08-03T22:58:41.250083+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for 2026-08-20; users must migrate existing feedback formulas to the new model.
+- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators (scheduled for removal on 2026-08-20); migration required. Composite evaluators implement scores via code evaluators + run rules.
 
-- **Enhanced Experiment & Evaluator Features**: Experiment tables now support real-time truncation of model/prompt/tool chips, dynamic split assignments in comparison views, and improved evaluator spend chart readability (abbreviated y-axes). New CLI commands (`langsmith evaluator create-llm`) and API endpoints (e.g., `POST /v2/datasets//experiment-runs`) streamline evaluator management and dataset operations.
+- **Enhanced Experimentation & Evaluation**: Experiment comparison views now show real-time dataset splits, improved evaluator spend charts, and support for PEP 604 union return types in code evaluator uploads. New `langsmith evaluator create-llm` CLI command enables structured LLM-as-judge evaluators.
 
-- **Tracing & Performance Improvements**: LangSmith enforces monthly trace limits per project/user, optimizes batched-run ingestion logging, and improves trace rendering (e.g., OpenTelemetry child spans, VS Code Copilot Chat traces). Bulk export defaults to zstd compression, and oversized inputs/outputs in batches are now placeholder-replaced instead of rejected.
+- **Tracing & Performance**: LangSmith enforces monthly trace limits per project/user, improves OpenTelemetry trace rendering (e.g., Vercel AI SDK traces), and optimizes batch ingestion with oversized field handling. Bulk export defaults to zstd compression for performance.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:53:11.411801+05:30
+- Published: 2026-08-03T22:58:41.250070+05:30
 
 ## Related Tags
 

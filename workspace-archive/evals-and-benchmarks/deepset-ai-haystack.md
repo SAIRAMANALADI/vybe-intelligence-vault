@@ -1,33 +1,32 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
-resource_id: github:deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------
+resource_id: github:deepset-ai/haystack-4d0ea9e7
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
-- anthropic
-- producthunt
+- github-repo
+- python
 - rag
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack** is an open-source framework by **deepset-ai** for building **RAG (Retrieval-Augmented Generation) pipelines**, with **26.1k GitHub stars** and **3k forks**.
+- **Modular AI Orchestration**: Haystack is a Python-based framework for building production-ready LLM applications with explicit control over retrieval, routing, memory, and generation, enabling scalable agents, RAG, and multimodal systems.
 
-- **Haystack 3.0** was launched in **July 2026**, introducing new features and improvements for **pipeline debugging, agent security, and runtime diagnostics**.
+- **Context-Engineered Pipelines**: Supports modular pipeline design and agent workflows, optimized for semantic search, conversational systems, and context-augmented generation with explicit control over components.
 
-- **Community discussions** focus on **debugging retrieval failures, runtime security (e.g., AgentShield), and diagnostics tools** for **RAG quality validation**.
+- **Production-Grade Features**: Includ
 
 ## Use Cases
 
@@ -49,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------
 
 ## Local Vault File
 

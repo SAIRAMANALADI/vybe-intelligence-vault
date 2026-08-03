@@ -13,13 +13,14 @@ collected_at: '2026-08-03T20:46:55.700556+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tsa-privatization-returns-airport-security-to-a-da
 first_seen: '2026-08-03T20:46:55.700556+05:30'
 last_seen: '2026-08-03T20:46:55.700556+05:30'
 last_checked: '2026-08-03T20:46:55.700556+05:30'
 health_score: 100
 ---
+
 
 # TSA Privatization Returns Airport Security to a Dangerous Past
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-03T20:51:56.905511+05:30'
+collected_at: '2026-08-03T22:56:50.252852+05:30'
 published_at: '2026-08-01T18:59:43Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-03T20:51:56.905511+05:30'
-last_seen: '2026-08-03T20:51:56.905511+05:30'
-last_checked: '2026-08-03T20:51:56.905511+05:30'
+first_seen: '2026-08-03T22:56:50.252852+05:30'
+last_seen: '2026-08-03T22:56:50.252852+05:30'
+last_checked: '2026-08-03T22:56:50.252852+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent A-share analysis system**: Implements 4 specialized AI agents (data retrieval, financial analysis, sentiment evaluation, decision synthesis) using CrewAI for collaborative A-share (China stock market) investment analysis.
-
-- **Data integration**: Leverages AKShare for real-time A-share data (quotes, financials, fund flows, market sentiment) with Python-based tooling for structured analysis.
-
-- **Decision support**: Generates actionable investment recommendations by synthesizing multi-source data (quantitative metrics + qualitative sentiment) with market-specific optimizations for Chinese equities.
+- **Multi-Agent A-Shares Analysis Framework**: Utilizes CrewAI with four specialized AI agents for real-time A-share market analysis, including stock trends, financial data, fund flows, and market sentiment via AKShare integration.
+- **China-Centric Optimization**: Tailored for Chinese stock market dynamics, leveraging localized data sources and analysis tools for improved accuracy in investment recommendations.
+- **Automated Investment Insights**: Generates actionable investment decisions by synthesizing multi-source data (e.g., financials, sentiment) into structured, AI-driven recommendations.
 
 ## Why It Matters
 

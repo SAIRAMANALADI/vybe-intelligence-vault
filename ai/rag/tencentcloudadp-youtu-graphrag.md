@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-03T20:49:26.880867+05:30'
+collected_at: '2026-08-03T22:54:20.160889+05:30'
 published_at: '2026-07-31T19:00:24Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-03T20:49:26.880867+05:30'
-last_seen: '2026-08-03T20:49:26.880867+05:30'
-last_checked: '2026-08-03T20:49:26.880867+05:30'
+first_seen: '2026-08-03T22:54:20.160889+05:30'
+last_seen: '2026-08-03T22:54:20.160889+05:30'
+last_checked: '2026-08-03T22:54:20.160889+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agent Architecture**: Introduces a multi-layered agent framework integrating graph-based retrieval with large language models (LLMs) for complex reasoning, optimizing vertical task decomposition and hierarchical collaboration.
+- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by leveraging graph structures and hierarchical agent collaboration.
 
-- **GraphRAG Integration**: Leverages graph structures to enhance retrieval-augmented generation (RAG) by dynamically constructing and querying knowledge graphs, improving contextual relevance and reasoning depth for multi-hop queries.
+- **Graph-Centric RAG Pipeline**: Implements a graph-based retrieval mechanism that augments large language models (LLMs) with structured knowledge graphs, enhancing factual accuracy and contextual reasoning in downstream tasks.
 
-- **Performance & Scalability**: Evaluated on ICLR 2026 benchmarks, demonstrating superior accuracy and efficiency in complex reasoning tasks compared to traditional RAG systems, with Python-based implementation supporting modular extensibility.
+- **Performance & Scalability**: Optimized for large-scale knowledge graphs with efficient subgraph extraction and dynamic agent routing, achieving state-of-the-art results in complex reasoning benchmarks (ICLR 2026 submission).
 
 ## Why It Matters
 

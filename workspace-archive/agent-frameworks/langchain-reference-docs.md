@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive API Reference**: Provides unified documentation for LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, covering Python and TypeScript packages, including classes, functions, and types.
-
-- **Structured Documentation**: Organizes reference materials for easy navigation, enabling developers to quickly access technical details across the LangChain ecosystem.
-
-- **Separate Learning Resources**: Directs users to the main documentation site ([docs.langchain.com](htt
+- **Comprehensive API Documentation**: Covers LangChain, LangGraph, Deep Agents, LangSmith, and integrations with detailed Python and TypeScript package references, including classes, functions, and types.
+- **Unified Reference Structure**: Provides a centralized resource for exploring the entire LangChain ecosystem’s technical specifications.
+- **Separate Conceptual Resources**: Directs users to [docs.langchain.com](https://docs.langchain.com) for guides, tutorials, and conceptual documentation
 
 ## Use Cases
 

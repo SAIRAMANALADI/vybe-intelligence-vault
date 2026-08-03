@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-03T20:48:01.769137+05:30'
+collected_at: '2026-08-03T22:52:55.115721+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-03T20:48:01.769137+05:30'
-last_seen: '2026-08-03T20:48:01.769137+05:30'
-last_checked: '2026-08-03T20:48:01.769137+05:30'
+first_seen: '2026-08-03T22:52:55.115721+05:30'
+last_seen: '2026-08-03T22:52:55.115721+05:30'
+last_checked: '2026-08-03T22:52:55.115721+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for building multimodal AI systems, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and LLMs.
+- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials demonstrating multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and LLMs.
 
-- **Tooling Integration**: Demonstrates practical applications with frameworks like LangChain, LlamaIndex, and OpenAI’s GPT-4 Vision, emphasizing embeddings, fine-tuning, and vector database (LanceDB) integration for scalable AI pipelines.
+- **Tooling Integration**: Includes implementations leveraging LanceDB (vector database), LangChain, LlamaIndex, OpenAI APIs (including GPT-4 Vision), and fine-tuning techniques for embeddings and LLMs.
 
-- **Technical Focus**: Covers deep learning, machine learning, and vector database optimizations, with last update timestamped for August 3, 2026, ensuring relevance for cutting-edge AI research and deployment.
+- **Technical Focus**: Covers deep learning, embeddings optimization, and multimodal AI pipelines, with last update as of August 2026.
 
 ## Why It Matters
 

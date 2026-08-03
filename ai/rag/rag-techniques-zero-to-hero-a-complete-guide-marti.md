@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-03T20:47:52.342246+05:30'
-collected_at: '2026-08-03T20:47:52.342255+05:30'
+published_at: '2026-08-03T22:52:45.626008+05:30'
+collected_at: '2026-08-03T22:52:45.626023+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-03T20:47:52.342255+05:30'
-last_seen: '2026-08-03T20:47:52.342255+05:30'
-last_checked: '2026-08-03T20:47:52.342255+05:30'
+first_seen: '2026-08-03T22:52:45.626023+05:30'
+last_seen: '2026-08-03T22:52:45.626023+05:30'
+last_checked: '2026-08-03T22:52:45.626023+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical) with an LLM generator, optionally enhanced by rerankers, query rewriting, caching, and orchestration layers for improved precision and efficiency.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers handle caching and metadata for efficiency.
 
-- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, overlap, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuning of embeddings (dimensionality, normalization) and hybrid search (BM25 + vector) optimize performance.
+- **Chunking & Embedding Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning and dimensionality/normalization tuning for optimal vector search performance.
 
-- **Multi-Stage Retrieval & Context Management**: Two-stage retrieval (first-stage ANN + second-stage cross-encoder reranking) improves precision; context distillation, autocut, and multi-hop/iterative retrieval enhance reasoning while reducing hallucinations and token overhead.
+- **Multi-Stage Retrieval & Context Management**: Hybrid retrieval (BM25 + vector) with cross-encoder reranking improves precision; context distillation and iterative multi-hop retrieval reduce hallucinations while managing token budgets and source attribution.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:47:52.342246+05:30
+- Published: 2026-08-03T22:52:45.626008+05:30
 
 ## Related Tags
 

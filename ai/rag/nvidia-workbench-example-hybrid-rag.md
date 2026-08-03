@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-03T20:48:26.811566+05:30'
+collected_at: '2026-08-03T22:53:20.093025+05:30'
 published_at: '2026-08-01T15:15:48Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-03T20:48:26.811566+05:30'
-last_seen: '2026-08-03T20:48:26.811566+05:30'
-last_checked: '2026-08-03T20:48:26.811566+05:30'
+first_seen: '2026-08-03T22:53:20.093025+05:30'
+last_seen: '2026-08-03T22:53:20.093025+05:30'
+last_checked: '2026-08-03T22:53:20.093025+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document search and generation in Python.
-
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment and experimentation of hybrid RAG models.
-
-- **Updated Tooling**: Last modified in 2026, showcasing modern AI/ML workflows with 370 stars and 1,009 forks, indicating active community adoption.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and generation.
+- **NVIDIA AI Workbench Integration**: Provides a reference project for deploying hybrid RAG workflows using NVIDIA's AI Workbench, leveraging GPU-accelerated libraries (e.g., RAPIDS, Triton Inference Server).
+- **Python-Based Example**: Includes modular Python code for indexing, retrieval, and generation, with dependencies optimized for NVIDIA's ecosystem (e.g., CUDA, PyTorch, FAISS/Annoy for vector search).
 
 ## Why It Matters
 

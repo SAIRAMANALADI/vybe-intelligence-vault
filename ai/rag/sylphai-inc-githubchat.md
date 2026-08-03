@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SylphAI-Inc/GithubChat
-collected_at: '2026-08-03T20:47:41.732559+05:30'
+collected_at: '2026-08-03T22:52:35.069516+05:30'
 published_at: '2026-07-23T15:42:52Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-12-05T01:54:18Z'
 pushed_at: '2025-02-10T20:07:53Z'
 resource_id: github:sylphai-inc/githubchat
-first_seen: '2026-08-03T20:47:41.732559+05:30'
-last_seen: '2026-08-03T20:47:41.732559+05:30'
-last_checked: '2026-08-03T20:47:41.732559+05:30'
+first_seen: '2026-08-03T22:52:35.069516+05:30'
+last_seen: '2026-08-03T22:52:35.069516+05:30'
+last_checked: '2026-08-03T22:52:35.069516+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system designed to enable conversational interaction with GitHub repositories, facilitating code and documentation queries.
-- **Python-Based Tool**: Built in Python, leveraging libraries for repository parsing, vector embeddings, and LLM integration to process and respond to user prompts.
-- **Last Updated**: Repository last updated on **July 23, 2026**, with 98 stars and 21 forks, indicating active but niche community engagement.
+- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling users to download and interactively query GitHub repositories via natural language.
+- **Tech Stack**: Built in Python, leveraging RAG pipelines for document retrieval and LLM-based response generation.
+- **Metadata**: 98 stars, 21 forks; last updated on 2026-07-23.
 
 ## Why It Matters
 

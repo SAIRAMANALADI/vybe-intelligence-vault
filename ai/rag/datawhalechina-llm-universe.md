@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-08-03T20:47:41.842190+05:30'
+collected_at: '2026-08-03T22:52:35.100784+05:30'
 published_at: '2026-08-03T13:08:05Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 13701
 language: Jupyter Notebook
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-07-28T13:47:59Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-08-03T20:47:41.842190+05:30'
-last_seen: '2026-08-03T20:47:41.842190+05:30'
-last_checked: '2026-08-03T20:47:41.842190+05:30'
+first_seen: '2026-08-03T22:52:35.100784+05:30'
+last_seen: '2026-08-03T22:52:35.100784+05:30'
+last_checked: '2026-08-03T22:52:35.100784+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Resource**: A beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks, with online documentation available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
+- **Educational Resource**: A beginner-friendly tutorial for developing large language model (LLM) applications, structured as Jupyter Notebooks, with an online version available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
 
-- **Technical Focus**: Covers LangChain and RAG (Retrieval-Augmented Generation) frameworks for building LLM-powered applications.
+- **Technical Focus**: Covers LangChain and Retrieval-Augmented Generation (RAG) workflows, emphasizing practical implementation of LLM applications.
 
-- **Metadata**: 13,701 stars, 1,388 forks, last updated 2026-08-03, primarily in Chinese.
+- **Repository Metrics**: 13,701 stars, 1,388 forks, last updated on **2026-08-03**, hosted on GitHub.
 
 ## Why It Matters
 

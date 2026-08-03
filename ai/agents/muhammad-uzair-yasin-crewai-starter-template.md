@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/muhammad-uzair-yasin/CrewAi_starter_template
-collected_at: '2026-08-03T20:51:51.887437+05:30'
+collected_at: '2026-08-03T22:56:45.273301+05:30'
 published_at: '2025-09-09T15:50:32Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-01-29T19:06:15Z'
 pushed_at: '2025-02-04T07:49:45Z'
 resource_id: github:muhammad-uzair-yasin/crewai_starter_template
-first_seen: '2026-08-03T20:51:51.887437+05:30'
-last_seen: '2026-08-03T20:51:51.887437+05:30'
-last_checked: '2026-08-03T20:51:51.887437+05:30'
+first_seen: '2026-08-03T22:56:45.273301+05:30'
+last_seen: '2026-08-03T22:56:45.273301+05:30'
+last_checked: '2026-08-03T22:56:45.273301+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `muhammad-uzair-yasin/CrewAi_starter_template` is a Python-based starter template for CrewAI, last updated on 2025-09-09.
-- **Metrics**: Contains 7 stars and 4 forks with no associated topics.
-- **Purpose**: Designed as a foundational template for integrating or experimenting with CrewAI workflows in Python.
+- **Repository Overview**: A minimal Python starter template for CrewAI, a framework for orchestrating role-playing AI agents.
+- **Metadata**: 7 stars, 4 forks, last updated on 2025-09-09; no additional topics or description provided.
+- **Purpose**: Designed as a lightweight foundation for integrating and testing CrewAI agent workflows in Python.
 
 ## Why It Matters
 

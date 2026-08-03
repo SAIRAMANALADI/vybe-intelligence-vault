@@ -8,9 +8,9 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (benchmark - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
@@ -20,12 +20,12 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [Mintlify · GitHub](https://github.com/mintlify)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
-- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-03 21:05 IST*
+*Last updated: 2026-08-03 23:10 IST*

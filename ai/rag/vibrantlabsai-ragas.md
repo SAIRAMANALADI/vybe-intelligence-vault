@@ -1,70 +1,49 @@
 ---
-title: vibrantlabsai/ragas
+title: ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/vibrantlabsai/ragas
-collected_at: '2026-08-03T15:43:51.670998+05:30'
-published_at: '2026-08-03T10:02:35Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md
+published_at: '2026-08-03T22:59:20.251492+05:30'
+collected_at: '2026-08-03T22:59:20.251508+05:30'
 tags:
 - benchmark
-- github-repo
-- python
 - rag
-- workflows
-stars: 15101
-language: Python
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2023-05-08T17:48:04Z'
-pushed_at: '2026-02-24T07:47:19Z'
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-08-03T15:43:51.670998+05:30'
-last_seen: '2026-08-03T15:43:51.670998+05:30'
-last_checked: '2026-08-03T15:43:51.670998+05:30'
+first_seen: '2026-08-03T22:59:20.251508+05:30'
+last_seen: '2026-08-03T22:59:20.251508+05:30'
+last_checked: '2026-08-03T22:59:20.251508+05:30'
 health_score: 100
 ---
 
-# vibrantlabsai/ragas
+# ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
 
 ## Summary
 
-- **Ragas**: Python library for evaluating LLM applications, focusing on **LLMOps** and **retrieval-augmented generation (RAG)** systems with 15,101 GitHub stars.
-- **Key Features**: Provides **automated, multi-metric evaluation** (e.g., faithfulness, answer relevance, context precision) for LLM outputs and RAG pipelines.
-- **Integration**: Designed for seamless integration into **LLM evaluation workflows**, supporting customizable metrics and benchmarking against ground truth.
+- **Design Principles**: Metrics in Ragas are structured around core design principles emphasizing modularity, extensibility, and evaluation of RAG (Retrieval-Augmented Generation) pipelines via automated, reference-free methods.
+
+- **Available Metrics**: Ragas provides a suite of metrics (e.g., faithfulness, answer relevance, context precision) that leverage LLM-based evaluations to assess RAG system performance without requiring ground-truth labels.
+
+- **Inner Workings**: Metrics utilize embeddings, LLM prompts, and statistical computations (e.g., cosine similarity, entailment scoring) to quantify dimensions like hallucination, relevance, and context utilization in generated responses.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: vibrantlabsai
-- Stars: 15101
-- Forks: 1599
-- Language: Python
-- Topics: evaluation, llm, llmops
-- Last Updated: 2026-08-03T10:02:35Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2023-05-08T17:48:04Z
-- Pushed At: 2026-02-24T07:47:19Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-03T22:59:20.251492+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- benchmark
+- rag
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/vibrantlabsai/ragas
+Original source: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md

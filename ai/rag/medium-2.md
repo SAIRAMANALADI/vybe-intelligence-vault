@@ -3,19 +3,20 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://about.medium.com/
-published_at: '2026-08-03T20:53:24.836528+05:30'
-collected_at: '2026-08-03T20:53:24.836540+05:30'
+source_url: https://medium.com/policy/f03bf92035c9
+published_at: '2026-08-03T22:59:45.891101+05:30'
+collected_at: '2026-08-03T22:59:45.891116+05:30'
 tags:
+- agents
 - hackernews
 - rag
 - web-crawled
-- workflows
+- youtube
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-03T20:53:24.836540+05:30'
-last_seen: '2026-08-03T20:53:24.836540+05:30'
-last_checked: '2026-08-03T20:53:24.836540+05:30'
+first_seen: '2026-08-03T22:59:45.891116+05:30'
+last_seen: '2026-08-03T22:59:45.891116+05:30'
+last_checked: '2026-08-03T22:59:45.891116+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Purpose**: Medium is a publishing platform designed to facilitate the sharing of human stories and ideas, prioritizing depth, nuance, and thoughtful discourse over sensationalism, with a mission to deepen collective understanding through writing.
+- **Data Collection & Sources**: Medium collects user-provided data (e.g., account details, posts, payment info via third-party processors) and automatically gathers activity, device, and usage data (IP addresses, cookies, device identifiers) for service optimization, personalization, and analytics.
 
-- **User Base & Monetization**: Over 100 million monthly users contribute content across diverse fields (e.g., software development, literature), while the platform is supported by a community of over a million paying members rather than advertising or data monetization.
+- **Data Sharing & Legal Disclosures**: Personal data is shared with third-party vendors (analytics, hosting, fraud prevention), other users (visible interactions), and under legal obligations (e.g., law enforcement requests), with aggregated/de-identified data exempt from restrictions.
 
-- **Technical Accessibility**: Provides a sitemap (`sitemap.xml`) for SEO/crawling, and user workflows (e.g., sign-in, registration, and content creation) are handled via structured endpoints (e.g., `signin?operation=register`).
+- **Cross-Border Transfers & User Controls**: Data is transferred/stored globally (e.g., AWS data centers), with users able to access, correct, or delete account data, adjust cookie settings, or opt out of communications via account settings.
 
 ## Why It Matters
 
@@ -37,15 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:53:24.836528+05:30
+- Published: 2026-08-03T22:59:45.891101+05:30
 
 ## Related Tags
 
+- agents
 - hackernews
 - rag
 - web-crawled
-- workflows
+- youtube
 
 ## Source
 
-Original source: https://about.medium.com/
+Original source: https://medium.com/policy/f03bf92035c9

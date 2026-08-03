@@ -14,7 +14,7 @@ React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 *   [kartikk-k/dashboard-ui](https://github.com/kartikk-k/dashboard-ui)
 *   [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
 *   [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind)
-*   [Configure security](https://gohugo.io/configuration/security/#httpurls)
+*   [Guide to Using RASS & PI Dashboard | Documentation & Training](https://guide.rass.cornell.edu/)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

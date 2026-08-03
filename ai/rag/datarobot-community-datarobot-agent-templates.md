@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-08-03T20:51:47.028714+05:30'
+collected_at: '2026-08-03T22:56:45.370721+05:30'
 published_at: '2026-07-31T15:53:17Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-31T15:56:17Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-08-03T20:51:47.028714+05:30'
-last_seen: '2026-08-03T20:51:47.028714+05:30'
-last_checked: '2026-08-03T20:51:47.028714+05:30'
+first_seen: '2026-08-03T22:56:45.370721+05:30'
+last_seen: '2026-08-03T22:56:45.370721+05:30'
+last_checked: '2026-08-03T22:56:45.370721+05:30'
 health_score: 100
 ---
 
@@ -34,8 +34,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Provides reusable templates for building agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
-- **Components**: Includes Python-based templates leveraging DataRobot's API for agent orchestration, RAG pipelines, and multi-agent collaboration.
-- **Use Cases**: Enables rapid deployment of agentic AI solutions (e.g., automated data analysis, model deployment pipelines) with pre-configured integrations for DataRobot and LLM frameworks.
+- **Key Components**: Includes Python-based templates leveraging DataRobot's API for model deployment, agent orchestration, and retrieval-augmented generation (RAG) workflows.
+- **Integration Focus**: Designed to streamline agentic AI pipelines with DataRobot's MLOps capabilities, supporting modular workflows for LLM agents and data processing.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-03T20:49:06.782803+05:30'
+collected_at: '2026-08-03T22:54:00.129709+05:30'
 published_at: '2026-08-03T14:36:50Z'
 tags:
 - frontend_ui
@@ -14,6 +14,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 39380
 language: Python
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-03T20:49:06.782803+05:30'
-last_seen: '2026-08-03T20:49:06.782803+05:30'
-last_checked: '2026-08-03T20:49:06.782803+05:30'
+first_seen: '2026-08-03T22:54:00.129709+05:30'
+last_seen: '2026-08-03T22:54:00.129709+05:30'
+last_checked: '2026-08-03T22:54:00.129709+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while supporting customization for existing products.
+- **Opiniated RAG Framework**: Quivr is a **Retrieval-Augmented Generation (RAG)** framework designed for seamless GenAI integration into applications, abstracting RAG complexities to focus on product development.
 
-- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse infrastructures with support for various file types and APIs.
+- **Multi-Backend Compatibility**: Supports **any LLM** (e.g., GPT4, Groq, Llama) and **any vector store** (e.g., PGVector, Faiss), with customizable file ingestion and API-driven workflows.
 
-- **Tech Stack**: Built in Python with a React/TypeScript frontend, Dockerized for deployment, and integrates with PostgreSQL, HTML, and JavaScript, emphasizing privacy, security, and scalability.
+- **Tech Stack & Deployment**: Built in **Python** with **React/TypeScript** frontend, **Docker**-supported deployment, and integrations for **PostgreSQL**, **OpenAI**, and **privacy/security** features.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
-collected_at: '2026-08-03T15:42:28.122149+05:30'
+collected_at: '2026-08-03T22:56:35.261842+05:30'
 published_at: '2026-08-02T23:37:50Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-22T11:59:02Z'
 pushed_at: '2026-06-14T05:25:52Z'
 resource_id: github:google-gemini/gemini-fullstack-langgraph-quickstart
-first_seen: '2026-08-03T15:42:28.122149+05:30'
-last_seen: '2026-08-03T15:42:28.122149+05:30'
-last_checked: '2026-08-03T15:42:28.122149+05:30'
+first_seen: '2026-08-03T22:56:35.261842+05:30'
+last_seen: '2026-08-03T22:56:35.261842+05:30'
+last_checked: '2026-08-03T22:56:35.261842+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates building fullstack agents using **Gemini 2.5** and **LangGraph**, integrating frontend/backend workflows via Jupyter Notebooks.
-- **Key Components**: Leverages **Gemini API** for agent orchestration and **LangGraph** for stateful, graph-based agent interactions.
-- **Technical Stack**: Python-based Jupyter Notebook environment with dependencies on LangGraph SDK and Gemini API client libraries.
+- **Purpose**: Demonstrates building full-stack agents using **Gemini 2.5** and **LangGraph**, integrating frontend, backend, and AI workflows.
+- **Technical Stack**: Primarily implemented in **Jupyter Notebook**, leveraging the **Gemini API** for agent orchestration and LangGraph for stateful workflows.
+- **Key Features**: Provides a starter template for deploying AI agents with structured multi-step reasoning and tool integration.
 
 ## Why It Matters
 

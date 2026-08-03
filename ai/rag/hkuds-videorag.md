@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-03T20:49:21.860860+05:30'
+collected_at: '2026-08-03T22:54:15.101468+05:30'
 published_at: '2026-08-02T10:27:38Z'
 tags:
+- benchmark
 - github-repo
-- models
+- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-03T20:49:21.860860+05:30'
-last_seen: '2026-08-03T20:49:21.860860+05:30'
-last_checked: '2026-08-03T20:49:21.860860+05:30'
+first_seen: '2026-08-03T22:54:15.101468+05:30'
+last_seen: '2026-08-03T22:54:15.101468+05:30'
+last_checked: '2026-08-03T22:54:15.101468+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interact with video content via multi-modal inputs (text + video frames).
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat" with videos via multi-modal inputs (text + video frames) for enhanced contextual retrieval and generation.
 
-- **Multi-Modal Integration**: Leverages video embeddings and temporal segmentation for efficient retrieval, enhancing LLM comprehension of extended video sequences without fine-tuning.
+- **Technical Implementation**: Leverages Python with multi-modal LLMs (e.g., CLIP, BLIP) and hierarchical video chunking (temporal + semantic) to optimize retrieval efficiency and accuracy for long-duration videos (e.g., lectures, meetings).
 
-- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for video processing, retrieval, and generation, optimized for scalability and real-time interaction.
+- **Benchmark & Scalability**: Evaluated on KDD'2026 benchmarks, demonstrating superior performance in tasks like video QA, summarization, and event localization, with scalability for multi-hour videos via adaptive retrieval strategies.
 
 ## Why It Matters
 

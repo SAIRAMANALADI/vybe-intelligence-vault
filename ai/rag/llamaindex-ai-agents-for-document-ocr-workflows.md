@@ -3,9 +3,9 @@ title: LlamaIndex | AI Agents for Document OCR + Workflows
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://llamaindex.ai
-published_at: '2026-08-03T20:54:39.431179+05:30'
-collected_at: '2026-08-03T20:54:39.431192+05:30'
+source_url: https://www.llamaindex.ai/
+published_at: '2026-08-03T22:57:00.775549+05:30'
+collected_at: '2026-08-03T22:57:00.775565+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-08-03T20:54:39.431192+05:30'
-last_seen: '2026-08-03T20:54:39.431192+05:30'
-last_checked: '2026-08-03T20:54:39.431192+05:30'
+first_seen: '2026-08-03T22:57:00.775565+05:30'
+last_seen: '2026-08-03T22:57:00.775565+05:30'
+last_checked: '2026-08-03T22:57:00.775565+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Models (VLMs) for layout-aware document parsing, enabling structured extraction of defined schemas with agentic OCR, reducing manual processing from hours to seconds.
+- **Agentic OCR & Structured Extraction**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, converting unstructured content (text, tables, charts, handwriting) into structured, LLM-ready outputs with schema-based extraction and auto-correction loops for high accuracy.
 
-- **Multi-Modal Document Intelligence**: Supports parsing of complex layouts including handwritten text, tables, charts, and embedded images, with auto-correction loops for error detection and high pass-through rates on messy scans.
+- **Enterprise-Grade Performance & Security**: Supports 50+ file types with industry-leading parsing, 99.9% uptime, HIPAA/GDPR/SOC2 compliance, and flexible deployment (cloud or VPC) with dedicated SLAs for mission-critical workloads.
 
-- **Enterprise-Grade Features**: Offers 10,000 free credits/month (~1000 pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible deployment (cloud or VPC), and dedicated SLAs for mission-critical AI workloads.
+- **Open-Source & Scalable Solutions**: Offers **LiteParse** (local, token-free parsing) alongside **LlamaParse** (cloud-based, agentic automation), with benchmarks outperforming proprietary/commercial OCR tools in complex document processing (tables, charts, multi-modal data).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:54:39.431179+05:30
+- Published: 2026-08-03T22:57:00.775549+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://llamaindex.ai
+Original source: https://www.llamaindex.ai/

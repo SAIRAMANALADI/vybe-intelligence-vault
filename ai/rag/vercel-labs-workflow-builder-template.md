@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-08-03T20:49:56.840523+05:30'
-published_at: '2026-07-31T17:40:21Z'
+collected_at: '2026-08-03T22:54:50.175475+05:30'
+published_at: '2026-08-03T15:41:30Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 1177
+stars: 1178
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-08-03T20:49:56.840523+05:30'
-last_seen: '2026-08-03T20:49:56.840523+05:30'
-last_checked: '2026-08-03T20:49:56.840523+05:30'
+first_seen: '2026-08-03T22:54:50.175475+05:30'
+last_seen: '2026-08-03T22:54:50.175475+05:30'
+last_checked: '2026-08-03T22:54:50.175475+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform**: Visual AI workflow automation platform built with TypeScript, enabling drag-and-drop creation of AI-driven workflows.
-- **Key Features**: Supports agent-based automation, integrates AI models for task orchestration, and provides a template-driven architecture for rapid deployment.
-- **Repository Stats**: 1,177 stars, 232 forks, last updated July 31, 2026.
+- **Visual AI Workflow Automation**: Template for building visual AI-driven workflow automation platforms using TypeScript.
+- **Agent-Based Architecture**: Supports modular agent-based workflows with AI-driven task orchestration.
+- **Vercel Integration**: Optimized for deployment on Vercel, leveraging serverless functions and edge computing.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1177
+- Stars: 1178
 - Forks: 232
 - Language: TypeScript
 - Topics: agents, ai, workflows
-- Last Updated: 2026-07-31T17:40:21Z
+- Last Updated: 2026-08-03T15:41:30Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-03T17:14:16Z

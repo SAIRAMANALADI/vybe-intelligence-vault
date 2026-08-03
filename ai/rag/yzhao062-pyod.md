@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-08-03T20:50:36.852894+05:30'
+collected_at: '2026-08-03T22:55:30.171512+05:30'
 published_at: '2026-08-03T11:52:27Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-08-02T12:42:17Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-08-03T20:50:36.852894+05:30'
-last_seen: '2026-08-03T20:50:36.852894+05:30'
-last_checked: '2026-08-03T20:50:36.852894+05:30'
+first_seen: '2026-08-03T22:55:30.171512+05:30'
+last_seen: '2026-08-03T22:55:30.171512+05:30'
+last_checked: '2026-08-03T22:55:30.171512+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 - **Comprehensive Anomaly Detection Library**: PyOD supports 60+ anomaly detection algorithms for tabular, time series, graph, text, image, and audio data, with benchmark-backed orchestration via ADEngine.
 
-- **Agentic Workflow Integration**: Enables AI agents to autonomously execute anomaly detection tasks, leveraging multimodal data and foundation models for adaptive analysis.
+- **Agentic Workflow Integration**: Enables AI agents to dynamically orchestrate anomaly detection tasks, leveraging foundation models and multimodal capabilities.
 
-- **Active Development & Ecosystem**: Maintained with 9,951 stars and 1,486 forks, PyOD integrates unsupervised learning, deep learning, and outlier ensembles, with frequent updates (last modified 2026-08-03).
+- **Benchmark & Deployment Focus**: Optimized for fraud detection, out-of-distribution (OOD) scenarios, and novelty detection, with active maintenance and updates (last commit: 2026-08-03).
 
 ## Why It Matters
 

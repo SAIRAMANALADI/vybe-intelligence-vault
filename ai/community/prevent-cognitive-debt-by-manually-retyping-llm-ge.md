@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code
 hn_url: https://news.ycombinator.com/item?id=49153374
-score: 235
+score: 281
 author: mpweiher
-comments_count: 181
+comments_count: 248
 published_at: '2026-08-03T15:02:07+05:30'
-collected_at: '2026-08-03T20:46:54.147213+05:30'
+collected_at: '2026-08-03T22:51:51.345969+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:prevent-cognitive-debt-by-manually-retyping-llm-ge
 first_seen: '2026-08-03T15:36:55.268618+05:30'
-last_seen: '2026-08-03T20:46:54.147213+05:30'
-last_checked: '2026-08-03T20:46:54.147213+05:30'
+last_seen: '2026-08-03T22:51:51.345969+05:30'
+last_checked: '2026-08-03T22:51:51.345969+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by mpweiher. Score: 235, Comments: 181.
+Hacker News story by mpweiher. Score: 281, Comments: 248.
 Original Link: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: mpweiher
-- Score: 235 Upvotes
-- Comments: 181 Discussions
+- Score: 281 Upvotes
+- Comments: 248 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49153374
 - Original Article: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code
 

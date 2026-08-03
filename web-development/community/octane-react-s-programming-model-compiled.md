@@ -1,15 +1,15 @@
 ---
-title: Octane – React's programming model, compiled
+title: Octane – React’s programming model, compiled
 category: web-development/community
 source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://octanejs.dev
 hn_url: https://news.ycombinator.com/item?id=49152640
-score: 84
+score: 106
 author: nnx
-comments_count: 29
+comments_count: 35
 published_at: '2026-08-03T13:34:04+05:30'
-collected_at: '2026-08-03T20:46:55.525320+05:30'
+collected_at: '2026-08-03T22:51:51.717534+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -17,16 +17,16 @@ tags:
 status: active
 resource_id: hackernews:octane-react-s-programming-model-compiled
 first_seen: '2026-08-03T15:36:55.491519+05:30'
-last_seen: '2026-08-03T20:46:55.525320+05:30'
-last_checked: '2026-08-03T20:46:55.525320+05:30'
+last_seen: '2026-08-03T22:51:51.717534+05:30'
+last_checked: '2026-08-03T22:51:51.717534+05:30'
 health_score: 100
 ---
 
-# Octane – React's programming model, compiled
+# Octane – React’s programming model, compiled
 
 ## Summary
 
-Hacker News story by nnx. Score: 84, Comments: 29.
+Hacker News story by nnx. Score: 106, Comments: 35.
 Original Link: https://octanejs.dev
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: nnx
-- Score: 84 Upvotes
-- Comments: 29 Discussions
+- Score: 106 Upvotes
+- Comments: 35 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49152640
 - Original Article: https://octanejs.dev
 

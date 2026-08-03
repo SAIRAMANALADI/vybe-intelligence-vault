@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-03T20:48:21.775527+05:30'
+collected_at: '2026-08-03T22:53:15.080530+05:30'
 published_at: '2026-08-03T12:29:46Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-03T20:48:21.775527+05:30'
-last_seen: '2026-08-03T20:48:21.775527+05:30'
-last_checked: '2026-08-03T20:48:21.775527+05:30'
+first_seen: '2026-08-03T22:53:15.080530+05:30'
+last_seen: '2026-08-03T22:53:15.080530+05:30'
+last_checked: '2026-08-03T22:53:15.080530+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance comparable to larger models.
 
-- **Key Innovation**: Proposes a lightweight architecture with optimized retrieval and generation components, enabling efficient deployment on resource-constrained hardware without sacrificing accuracy.
+- **Key Innovations**: Proposes lightweight retrieval mechanisms and model architectures optimized for efficiency, enabling deployment on resource-constrained hardware without sacrificing accuracy.
 
-- **Open-Source Implementation**: Provides a Python-based repository with modular components for customization, supporting rapid experimentation and integration with existing RAG systems.
+- **Benchmarking & Results**: Demonstrates state-of-the-art results on standard RAG benchmarks (e.g., MS MARCO, NaturalQuestions) with models under 1B parameters, achieving up to 90% of the performance of larger proprietary models at a fraction of the cost.
 
 ## Why It Matters
 

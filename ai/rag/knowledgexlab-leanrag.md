@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-03T20:49:26.821231+05:30'
+collected_at: '2026-08-03T22:54:20.141242+05:30'
 published_at: '2026-07-26T03:07:53Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-03T20:49:26.821231+05:30'
-last_seen: '2026-08-03T20:49:26.821231+05:30'
-last_checked: '2026-08-03T20:49:26.821231+05:30'
+first_seen: '2026-08-03T22:54:20.141242+05:30'
+last_seen: '2026-08-03T22:54:20.141242+05:30'
+last_checked: '2026-08-03T22:54:20.141242+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (entity, subgraph, global) and semantic aggregation for contextually enriched generation (AAAI 2026 submission).
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with two-stage retrieval—semantic aggregation for entity linking and hierarchical retrieval for multi-granularity context extraction.
 
-- **Efficiency Optimizations**: Python-based implementation with lightweight graph traversal and caching mechanisms to reduce latency in large-scale knowledge graph interactions.
+- **Efficiency Optimizations**: Utilizes lightweight graph traversal (e.g., pruned neighborhood sampling) and dynamic query routing to reduce computational overhead while preserving retrieval accuracy.
 
-- **Modular Architecture**: Designed for extensibility with pluggable retrieval strategies, aggregation functions, and graph storage backends (e.g., Neo4j, DGL).
+- **Python Implementation**: Provides modular components (e.g., `GraphRetriever`, `SemanticAggregator`) with PyTorch integration for end-to-end differentiable training and inference.
 
 ## Why It Matters
 

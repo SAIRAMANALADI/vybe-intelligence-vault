@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-08-03T20:55:37.055310+05:30'
-collected_at: '2026-08-03T20:55:37.055320+05:30'
+published_at: '2026-08-03T22:59:31.973865+05:30'
+collected_at: '2026-08-03T22:59:31.973882+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-08-03T20:55:37.055320+05:30'
-last_seen: '2026-08-03T20:55:37.055320+05:30'
-last_checked: '2026-08-03T20:55:37.055320+05:30'
+first_seen: '2026-08-03T22:59:31.973882+05:30'
+last_seen: '2026-08-03T22:59:31.973882+05:30'
+last_checked: '2026-08-03T22:59:31.973882+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Markdown Handler**: Hugo defaults to Goldmark for Markdown rendering (`.md`, `.mdown`, `.markdown`), with alternative handlers (`asciidocext`, `org`, `pandoc`, `rst`) requiring external tool installation and security policy updates.
+- Hugo defaults to **Goldmark** for Markdown rendering (`defaultMarkdownHandler: goldmark`), with support for alternative renderers (`asciidocext`, `org`, `pandoc`, `rst`) requiring external dependencies and security policy updates.
 
-- **Goldmark Configuration**: Goldmark’s default settings include enabled extensions (e.g., `definitionList`, `footnote`, `linkify`, `strikethrough`, `table`, `taskList`, `typographer`) and configurable parser/renderer options (e.g., `autoHeadingID`, `hardWraps`, `unsafe`).
+- **Goldmark’s default extensions** include `footnote`, `linkify`, `strikethrough`, `table`, `taskList`, and `typographer`, with optional `extras` (subscript, superscript, etc.) and `passthrough` for LaTeX math; conflicts (e.g., `subscript` vs. `strikethrough`) require manual resolution.
 
-- **Extras & Passthrough**: The `extras` extension enables deleted/inserted text, mark text, sub/superscript via `++bar++`, `==baz==`, `H~2~O`, and `1^st^`, while `passthrough` supports LaTeX-based mathematical expressions; conflicts (e.g., `subscript` vs. `strikethrough`) require explicit disabling of one.
+- Key Goldmark settings include `duplicateResourceFiles` (controls multilingual resource duplication), `parser.wrapStandAloneImageWithinParagraph` (toggles `<p>` wrapping for standalone images), and `parser.autoHeadingID` (auto-generates heading IDs).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:55:37.055310+05:30
+- Published: 2026-08-03T22:59:31.973865+05:30
 
 ## Related Tags
 

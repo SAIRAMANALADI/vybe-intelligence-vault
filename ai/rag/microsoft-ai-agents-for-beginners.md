@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/ai-agents-for-beginners
-collected_at: '2026-08-03T20:50:56.929669+05:30'
-published_at: '2026-08-03T15:17:48Z'
+collected_at: '2026-08-03T22:55:50.242736+05:30'
+published_at: '2026-08-03T17:21:18Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-stars: 71093
+- workflows
+stars: 71104
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-11-28T10:42:52Z'
 pushed_at: '2026-07-29T19:47:29Z'
 resource_id: github:microsoft/ai-agents-for-beginners
-first_seen: '2026-08-03T20:50:56.929669+05:30'
-last_seen: '2026-08-03T20:50:56.929669+05:30'
-last_checked: '2026-08-03T20:50:56.929669+05:30'
+first_seen: '2026-08-03T22:55:50.242736+05:30'
+last_seen: '2026-08-03T22:55:50.242736+05:30'
+last_checked: '2026-08-03T22:55:50.242736+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides 18 structured lessons for beginners to learn AI agent development using Jupyter Notebooks, covering foundational to advanced concepts in agentic AI.
-
-- **Tooling & Frameworks**: Integrates Microsoft’s **Autogen**, **Foundry**, and **Semantic Kernel** for building agentic systems, including RAG (Retrieval-Augmented Generation) and local deployment via Foundry.
-
-- **GitHub Metrics**: Highly active with **71,093 stars** and **23,563 forks**, last updated on **2026-08-03**, reflecting strong community engagement and ongoing maintenance.
+- **Educational Repository**: Provides 18 structured lessons for beginners to learn AI agent development, covering foundational to advanced concepts in agentic AI.
+- **Technical Stack**: Utilizes Jupyter Notebooks with frameworks like AutoGen, Semantic Kernel, and Microsoft Foundry for hands-on implementation of agentic RAG and AI agents.
+- **Local & Framework Integration**: Focuses on foundry-local deployment and integration with Microsoft's agentic frameworks, emphasizing practical, framework-specific agentic workflows.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 71093
-- Forks: 23563
+- Stars: 71104
+- Forks: 23567
 - Language: Jupyter Notebook
 - Topics: agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, foundry, foundry-local, generative-ai, microsoft-foundry, semantic-kernel
-- Last Updated: 2026-08-03T15:17:48Z
+- Last Updated: 2026-08-03T17:21:18Z
 - License: MIT
 - Archived: No
 - Created At: 2024-11-28T10:42:52Z

@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-03T20:48:31.795126+05:30'
+collected_at: '2026-08-03T22:53:25.095913+05:30'
 published_at: '2026-08-03T13:16:53Z'
 tags:
 - github-repo
-- models
-- openai
 - python
 - rag
 stars: 157
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-03T20:48:31.795126+05:30'
-last_seen: '2026-08-03T20:48:31.795126+05:30'
-last_checked: '2026-08-03T20:48:31.795126+05:30'
+first_seen: '2026-08-03T22:53:25.095913+05:30'
+last_seen: '2026-08-03T22:53:25.095913+05:30'
+last_checked: '2026-08-03T22:53:25.095913+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS or Chroma) for **retrieval-augmented generation (RAG)**, combining vector similarity search with keyword-based hybrid retrieval for improved accuracy.
-
-- **LangChain Components**: Utilizes LangChain’s modular framework to chain **retrievers**, **LLMs**, and **prompt templates**, with configurable parameters for chunking, embeddings (e.g., OpenAI, HuggingFace), and retrieval strategies.
-
-- **Streamlit UI**: Provides an interactive frontend to input queries, display retrieved documents, and stream generated responses, with real-time feedback and customizable hybrid search weights (e.g., BM25 + vector similarity).
+- Implements a **Streamlit** web app leveraging **LangChain** for **Retrieval-Augmented Generation (RAG)** using a **vector store** for document retrieval.
+- Demonstrates **hybrid search** (combining dense and sparse retrieval methods) for improved document relevance in RAG pipelines.
+- Uses **Python** with Streamlit for UI, LangChain for LLM orchestration, and a vector database (e.g., FAISS, Chroma) for efficient similarity search.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-03T20:49:11.798078+05:30'
+collected_at: '2026-08-03T22:54:05.101304+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-03T20:49:11.798078+05:30'
-last_seen: '2026-08-03T20:49:11.798078+05:30'
-last_checked: '2026-08-03T20:49:11.798078+05:30'
+first_seen: '2026-08-03T22:54:05.101304+05:30'
+last_seen: '2026-08-03T22:54:05.101304+05:30'
+last_checked: '2026-08-03T22:54:05.101304+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Leverages eBPF for low-level system observability and security enforcement in AI agent workloads, ensuring kernel-level monitoring and governance within a Linux-native architecture.
-
-- **Enterprise-Grade RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) system optimized for SaaS AI deployments, integrating FastAPI for backend orchestration and vector databases for scalable semantic search.
-
-- **Security & Governance Mesh**: Provides a governance layer for AI agents, combining TypeScript-based tooling with GenAI/LLM capabilities to enforce access controls, audit trails, and compliance policies in multi-tenant environments.
+- **Linux-Native & eBPF Integration**: Implements a Linux-native security and governance framework for AI agent workloads using eBPF for runtime monitoring, enforcement, and low-overhead system-level control.
+- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with vector database integration for secure, scalable, and auditable AI agent interactions in SaaS environments.
+- **TypeScript-Based Backend**: Utilizes TypeScript for modular, maintainable code with FastAPI as the primary backend framework, supporting GenAI, LLM orchestration, and multi-tenant governance in production-grade deployments.
 
 ## Why It Matters
 

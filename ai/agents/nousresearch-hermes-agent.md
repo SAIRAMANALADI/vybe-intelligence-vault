@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-08-03T20:51:01.895352+05:30'
-published_at: '2026-08-03T15:19:12Z'
+collected_at: '2026-08-03T22:55:55.237774+05:30'
+published_at: '2026-08-03T17:25:48Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - workflows
-stars: 224733
+stars: 224777
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-08-03T15:17:33Z'
+pushed_at: '2026-08-03T17:25:37Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-08-03T20:51:01.895352+05:30'
-last_seen: '2026-08-03T20:51:01.895352+05:30'
-last_checked: '2026-08-03T20:51:01.895352+05:30'
+first_seen: '2026-08-03T22:55:55.237774+05:30'
+last_seen: '2026-08-03T22:55:55.237774+05:30'
+last_checked: '2026-08-03T22:55:55.237774+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent system supporting integration with diverse LLMs (e.g., Anthropic, OpenAI, Codex) and tools (e.g., `claude-code`, `moltbot`), enabling cross-platform agentic workflows.
+- **Multi-Provider LLM Integration**: Hermes-Agent supports Anthropic, OpenAI, and other LLM providers, enabling cross-platform agentic workflows with unified API access for Claude, ChatGPT, and Codex.
 
-- **Dynamic Adaptability**: Implements self-improving mechanisms via feedback loops and tool-based execution (e.g., `ClawDBot`) to autonomously refine performance and expand capabilities over time.
+- **Dynamic Skill Expansion**: Implements a modular architecture where agents autonomously acquire new tools/capabilities via `clawdbot` and `moltbot`, enabling continuous learning without manual updates.
 
-- **Extensible Architecture**: Designed for modularity with 43K+ forks, supporting custom toolchains, multi-agent collaboration, and compatibility with frameworks like `Nous-Hermes` for scalable AI agent deployments.
+- **Python-Based Agent Framework**: Built in Python with optimized prompt engineering and tool-use orchestration, designed for scalable deployment in research and production environments.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 224733
-- Forks: 43513
+- Stars: 224777
+- Forks: 43529
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-08-03T15:19:12Z
+- Last Updated: 2026-08-03T17:25:48Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-08-03T15:17:33Z
+- Pushed At: 2026-08-03T17:25:37Z
 
 ## Possible Use Cases
 

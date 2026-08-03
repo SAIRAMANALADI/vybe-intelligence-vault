@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-py
-collected_at: '2026-08-03T15:45:31.957320+05:30'
+collected_at: '2026-08-03T23:02:54.647279+05:30'
 published_at: '2026-08-01T16:32:53Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - meta-ai
 - models
 - python
-- scripts
 - workflows
 stars: 54
 language: Python
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-11-06T21:59:30Z'
 pushed_at: '2026-07-31T06:32:05Z'
 resource_id: github:run-llama/llama-parse-py
-first_seen: '2026-08-03T15:45:31.957320+05:30'
-last_seen: '2026-08-03T15:45:31.957320+05:30'
-last_checked: '2026-08-03T15:45:31.957320+05:30'
+first_seen: '2026-08-03T23:02:54.647279+05:30'
+last_seen: '2026-08-03T23:02:54.647279+05:30'
+last_checked: '2026-08-03T23:02:54.647279+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK** for cloud-based **OCR and document parsing** via **LlamaParse**, enabling structured extraction from unstructured documents.
-- Supports **information extraction** with integration into **document processing pipelines** for agents and automation workflows.
-- **Last updated**: 2026-08-01; **Repository stats**: 54 stars, 15 forks.
+- **Python SDK for Cloud-Based Document Parsing**: Provides OCR and structured parsing capabilities via LlamaParse, enabling cloud-based document processing and information extraction.
+
+- **Key Features**: Supports document parsing, OCR, and structured data extraction; optimized for integration with AI agents and document processing workflows.
+
+- **Metadata**: 54 stars, 15 forks, last updated 2026-08-01; part of the Llama ecosystem for document agents.
 
 ## Why It Matters
 

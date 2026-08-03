@@ -5,16 +5,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: http://developers.google.com/android/images/
-published_at: '2026-08-02T16:33:19.532459+05:30'
-collected_at: '2026-08-02T16:33:19.532470+05:30'
+published_at: '2026-08-03T23:01:47.638376+05:30'
+collected_at: '2026-08-03T23:01:47.638393+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:factory-images-for-nexus-and-pixel-devices-google
-first_seen: '2026-08-02T16:33:19.532470+05:30'
-last_seen: '2026-08-02T16:33:19.532470+05:30'
-last_checked: '2026-08-02T16:33:19.532470+05:30'
+first_seen: '2026-08-03T23:01:47.638393+05:30'
+last_seen: '2026-08-03T23:01:47.638393+05:30'
+last_checked: '2026-08-03T23:01:47.638393+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- Factory images restore Nexus/Pixel devices to original firmware but erase all data and require bootloader unlock, making OTA sideloading a safer alternative.
-- May 2025/2026 updates for Pixel 6/8/10 series increment bootloader anti-rollback versions, necessitating manual bootloader flashing to inactive slot post-update to prevent unbootable states.
-- Post-flash, relocking the bootloader is required for security; device software usage is governed by Google Terms of Service and third-party agreements.
+- Factory images restore Nexus/Pixel devices to original firmware but erase all data and require bootloader unlocking, making OTA updates a safer alternative.
+- May 2025/2026 updates for Pixel 6/8/10 series include bootloader anti-rollback increments, risking unbootable states if inactive slots aren't properly updated post-installation.
+- Post-update, impacted devices must sideload the corresponding OTA image to ensure both slots contain bootable builds, preventing fallback to vulnerable bootloader versions.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T16:33:19.532459+05:30
+- Published: 2026-08-03T23:01:47.638376+05:30
 
 ## Related Tags
 

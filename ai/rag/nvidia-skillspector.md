@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-08-03T20:50:46.916825+05:30'
-published_at: '2026-08-03T15:01:15Z'
+collected_at: '2026-08-03T22:55:40.277717+05:30'
+published_at: '2026-08-03T17:25:03Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 14098
+stars: 14101
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-08-02T09:27:53Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-08-03T20:50:46.916825+05:30'
-last_seen: '2026-08-03T20:50:46.916825+05:30'
-last_checked: '2026-08-03T20:50:46.916825+05:30'
+first_seen: '2026-08-03T22:55:40.277717+05:30'
+last_seen: '2026-08-03T22:55:40.277717+05:30'
+last_checked: '2026-08-03T22:55:40.277717+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
-- **Python-Based**: Implemented in Python, leveraging static analysis techniques to inspect AI agent skill definitions and configurations.
-- **NVIDIA Developed**: Open-source security scanner developed by NVIDIA, last updated in August 2026, with 14,098 stars and 1,176 forks.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to identify vulnerabilities, malicious patterns, and security risks without executing the code.
+- **Python-Based**: Implemented in Python, it leverages static code analysis techniques to inspect AI skill definitions, configurations, and dependencies.
+- **NVIDIA-Developed**: Developed by NVIDIA, it is designed to enhance security in AI agent ecosystems by proactively scanning for potential threats.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 14098
-- Forks: 1176
+- Stars: 14101
+- Forks: 1177
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-03T15:01:15Z
+- Last Updated: 2026-08-03T17:25:03Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

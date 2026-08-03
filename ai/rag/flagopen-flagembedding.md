@@ -1,71 +1,66 @@
 ---
-title: FlagOpen/FlagEmbedding
+title: 'GitHub - FlagOpen/FlagEmbedding: Retrieval and Retrieval-augmented LLMs ·
+  GitHub'
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/FlagOpen/FlagEmbedding
-collected_at: '2026-08-01T21:52:11.197410+05:30'
-published_at: '2026-08-01T14:25:03Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/FlagOpen/FlagEmbedding/tree/master
+published_at: '2026-08-03T23:00:12.592898+05:30'
+collected_at: '2026-08-03T23:00:12.592915+05:30'
 tags:
-- github-repo
+- benchmark
+- dataset
+- hackernews
+- leaderboard
+- meta-ai
 - models
-- python
+- paper
 - rag
-stars: 12005
-language: Python
+- reddit
+- web-crawled
+- youtube
 status: active
-license: MIT
-archived: false
-created_at: '2023-08-02T02:08:11Z'
-pushed_at: '2026-04-22T16:00:42Z'
 resource_id: github:flagopen/flagembedding
-first_seen: '2026-08-01T21:52:11.197410+05:30'
-last_seen: '2026-08-01T21:52:11.197410+05:30'
-last_checked: '2026-08-01T21:52:11.197410+05:30'
+first_seen: '2026-08-03T23:00:12.592915+05:30'
+last_seen: '2026-08-03T23:00:12.592915+05:30'
+last_checked: '2026-08-03T23:00:12.592915+05:30'
 health_score: 100
 ---
 
-# FlagOpen/FlagEmbedding
+# GitHub - FlagOpen/FlagEmbedding: Retrieval and Retrieval-augmented LLMs · GitHub
 
 ## Summary
 
-- **FlagEmbedding**: A Python-based repository offering state-of-the-art embedding models for retrieval and retrieval-augmented language models (RAG), supporting tasks like semantic similarity and information retrieval.
+- **BGE-M3**: A multilingual, multi-granularity embedding model supporting dense, lexical, and multi-vector retrieval (up to 8192 tokens), achieving SOTA on MIRACL and MKQA benchmarks with unified architecture.
 
-- **Key Features**: Includes sentence embeddings (e.g., `BAAI/bge` models) optimized for dense retrieval, with support for fine-tuning and zero-shot generalization across domains.
+- **BGE-VL**: State-of-the-art multimodal embedding models (text-to-image, image-to-text, etc.) released under MIT license, powered by the synthetic **MegaPairs** dataset for visual search applications.
 
-- **Applications**: Enables efficient text retrieval and augmentation in LLMs, enhancing context-aware generation and downstream NLP tasks.
+- **BGE-Reranker-v2.5-Gemma2-Lightweight**: A resource-efficient reranker based on Gemma-2-9B with token compression and layerwise lightweight operations, balancing performance and computational cost for ranking tasks.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: FlagOpen
-- Stars: 12005
-- Forks: 904
-- Language: Python
-- Topics: embeddings, information-retrieval, llm, retrieval-augmented-generation, sentence-embeddings, text-semantic-similarity
-- Last Updated: 2026-08-01T14:25:03Z
-- License: MIT
-- Archived: No
-- Created At: 2023-08-02T02:08:11Z
-- Pushed At: 2026-04-22T16:00:42Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-03T23:00:12.592898+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- benchmark
+- dataset
+- hackernews
+- leaderboard
+- meta-ai
+- models
+- paper
+- rag
+- reddit
+- web-crawled
+- youtube
 
 ## Source
 
-Original source: https://github.com/FlagOpen/FlagEmbedding
+Original source: https://github.com/FlagOpen/FlagEmbedding/tree/master

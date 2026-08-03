@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-08-03T20:47:56.795225+05:30'
-published_at: '2026-08-03T15:16:47Z'
+collected_at: '2026-08-03T22:52:50.150580+05:30'
+published_at: '2026-08-03T17:18:32Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 70415
+stars: 70432
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-08-03T03:21:34Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-08-03T20:47:56.795225+05:30'
-last_seen: '2026-08-03T20:47:56.795225+05:30'
-last_checked: '2026-08-03T20:47:56.795225+05:30'
+first_seen: '2026-08-03T22:52:50.150580+05:30'
+last_seen: '2026-08-03T22:52:50.150580+05:30'
+last_checked: '2026-08-03T22:52:50.150580+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Agent Development Tutorial**: Provides a step-by-step guide from fundamental principles to practical implementation of AI agents, covering core concepts like LLM integration, RAG pipelines, and agent architectures.
+- **Educational Repository**: Provides a comprehensive tutorial on building intelligent agents from scratch, covering both theoretical foundations and practical implementations.
 
-- **Open-Source Python Framework**: Repository contains modular Python codebase with reusable components for building, testing, and deploying intelligent agents, including tools for memory management, tool-use, and multi-agent coordination.
+- **Technical Stack**: Focuses on Python-based agent development, integrating large language models (LLMs), retrieval-augmented generation (RAG), and agent frameworks.
 
-- **Educational Resource for Advanced AI**: Targets developers/researchers with hands-on exercises, case studies, and best practices for deploying production-grade agents, with last update reflecting ongoing maintenance for modern LLM ecosystems.
+- **Community-Driven**: Actively maintained with frequent updates (last commit: 2026-08-03), featuring 70,432 stars and 8,785 forks, indicating strong community engagement.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 70415
-- Forks: 8783
+- Stars: 70432
+- Forks: 8785
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-08-03T15:16:47Z
+- Last Updated: 2026-08-03T17:18:32Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

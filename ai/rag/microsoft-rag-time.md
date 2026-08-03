@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-03T20:47:51.821195+05:30'
+collected_at: '2026-08-03T22:52:45.095285+05:30'
 published_at: '2026-08-02T10:26:59Z'
 tags:
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-03T20:47:51.821195+05:30'
-last_seen: '2026-08-03T20:47:51.821195+05:30'
-last_checked: '2026-08-03T20:47:51.821195+05:30'
+first_seen: '2026-08-03T22:52:45.095285+05:30'
+last_seen: '2026-08-03T22:52:45.095285+05:30'
+last_checked: '2026-08-03T22:52:45.095285+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Time** is a structured 5-week learning program focused on mastering **Retrieval-Augmented Generation (RAG)**, covering topics like **vector search**, **hybrid search**, **quantization (binary/scalar)**, and **HNSW indexing** for efficient retrieval.
-- The repository includes **Jupyter Notebooks** with hands-on implementations using **OpenAI/GPT models**, **Azure AI services**, and techniques like **Matryoshka Representation Learning** for scalable multimodal RAG.
-- Emphasizes **responsible AI practices**, **keyword search integration**, and deployment via **Visual Studio Code**, with a focus on optimizing RAG pipelines for performance and accuracy.
+- **5-week structured RAG mastery program** using Jupyter Notebooks, covering hybrid search (vector + keyword), quantization (binary/scalar), and HNSW indexing for efficient retrieval.
+- **Integrates Azure OpenAI, Matryoshka representation learning, and responsible AI practices** for scalable, optimized, and ethical RAG pipelines.
+- **Supports multimodal RAG** with VS Code integration, focusing on LLM fine-tuning, retrieval augmentation, and performance optimization techniques.
 
 ## Why It Matters
 

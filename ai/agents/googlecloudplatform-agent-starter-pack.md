@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
-collected_at: '2026-08-02T21:47:40.679376+05:30'
+collected_at: '2026-08-03T22:55:45.210775+05:30'
 published_at: '2026-08-02T03:41:26Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-01-31T16:03:06Z'
 pushed_at: '2026-07-21T23:42:40Z'
 resource_id: github:googlecloudplatform/agent-starter-pack
-first_seen: '2026-08-02T21:47:40.679376+05:30'
-last_seen: '2026-08-02T21:47:40.679376+05:30'
-last_checked: '2026-08-02T21:47:40.679376+05:30'
+first_seen: '2026-08-03T22:55:45.210775+05:30'
+last_seen: '2026-08-03T22:55:45.210775+05:30'
+last_checked: '2026-08-03T22:55:45.210775+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Production-ready AI agent templates** with pre-configured CI/CD pipelines for rapid deployment on Google Cloud Platform (GCP).
-- **Built-in evaluation and observability** tools for monitoring agent performance, reliability, and debugging in production environments.
-- **Gemini and Generative AI integration** with Python-based SDKs, supporting LLMops and MLOps best practices for scalable agent development.
+- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
+- **Supports GenAI integration** via Google's Gemini and other LLM models, enabling rapid development of generative AI agents with built-in MLOps/LLMops best practices.
+- **Python-based repository** with modular architecture, optimized for scalability and maintainability, last updated with enterprise-grade reliability (2026-08-02).
 
 ## Why It Matters
 

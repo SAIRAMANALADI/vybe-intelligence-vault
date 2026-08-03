@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-03T20:48:21.801243+05:30'
+collected_at: '2026-08-03T22:53:15.065918+05:30'
 published_at: '2026-07-29T09:54:30Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-03T20:48:21.801243+05:30'
-last_seen: '2026-08-03T20:48:21.801243+05:30'
-last_checked: '2026-08-03T20:48:21.801243+05:30'
+first_seen: '2026-08-03T22:53:15.065918+05:30'
+last_seen: '2026-08-03T22:53:15.065918+05:30'
+last_checked: '2026-08-03T22:53:15.065918+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved context.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, allowing users to inspect RAG components (e.g., retrieval quality, generation outputs) in real-time via a Python-based interface.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, allowing users to inspect RAG components (e.g., retrieval mechanisms, LLM outputs) in real-time with a Python-based frontend.
 
-- **Metadata & Performance Insights**: Captures and displays granular metrics (e.g., retrieval latency, token usage, relevance scores) to diagnose RAG system inefficiencies, with last update as of July 29, 2026.
+- **Modular Python Framework**: Designed for extensibility, supporting custom RAG architectures (e.g., vector stores, LLMs) and enabling developers to analyze performance metrics, retrieval quality, and generation coherence via structured visualization.
 
 ## Why It Matters
 

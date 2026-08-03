@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-03T20:48:16.925846+05:30'
+collected_at: '2026-08-03T22:53:10.089023+05:30'
 published_at: '2026-08-03T13:41:34Z'
 tags:
-- dataset
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
 stars: 25678
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-03T20:48:16.925846+05:30'
-last_seen: '2026-08-03T20:48:16.925846+05:30'
-last_checked: '2026-08-03T20:48:16.925846+05:30'
+first_seen: '2026-08-03T22:53:10.089023+05:30'
+last_seen: '2026-08-03T22:53:10.089023+05:30'
+last_checked: '2026-08-03T22:53:10.089023+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Implements a Retrieval-Augmented Generation (RAG) pipeline for document-based question answering, leveraging LLMs for contextual retrieval and generation.
-- **Modular Design**: Python-based framework with extensible components for document ingestion, embedding, retrieval, and response synthesis.
-- **Open-Source Toolkit**: Provides a deployable chatbot interface with support for custom document datasets and integration with popular LLMs.
+- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual querying of uploaded documents, leveraging LLMs for dynamic response synthesis.
+- **Python-Powered Architecture**: Built in Python with modular components for document ingestion, embedding, retrieval, and LLM integration, optimized for extensibility.
+- **Open-Source & Scalable**: Released under an open-source license, supports horizontal scaling via distributed retrieval/embedding backends, and integrates with popular LLMs (e.g., Mistral, Llama).
 
 ## Why It Matters
 

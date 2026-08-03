@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://neo4j.com/blog/developer/rag-tutorial/
-published_at: '2026-08-03T09:25:53.340251+05:30'
-collected_at: '2026-08-03T09:25:53.340264+05:30'
+published_at: '2026-08-03T22:52:45.591029+05:30'
+collected_at: '2026-08-03T22:52:45.591044+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
-first_seen: '2026-08-03T09:25:53.340264+05:30'
-last_seen: '2026-08-03T09:25:53.340264+05:30'
-last_checked: '2026-08-03T09:25:53.340264+05:30'
+first_seen: '2026-08-03T22:52:45.591044+05:30'
+last_seen: '2026-08-03T22:52:45.591044+05:30'
+last_checked: '2026-08-03T22:52:45.591044+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) using Neo4j and LangChain, enabling hybrid retrieval for explainable, scalable RAG systems with relational reasoning beyond vector-only approaches.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) to enhance retrieval accuracy, explainability, and scalability in RAG systems by integrating structured knowledge graphs and unstructured text.
 
-- **Core RAG Workflow**: Three-stage process—(1) **Retrieval**: embeds user queries and retrieves top-*k* relevant chunks via vector similarity; (2) **Augmentation**: constructs an enriched prompt with retrieved context; (3) **Generation**: LLM produces grounded responses with traceable citations.
+- **Core RAG Workflow**: Retrieval (embedding-based semantic search + structured filtering), augmentation (combining retrieved context with user query into a richer prompt), and generation (LLM produces grounded, context-aware responses with traceable sources).
 
-- **Implementation Prerequisites**: Requires Neo4j 5.11+ (Aura/desktop), OpenAI API key, and Python libraries (`langchain`, `neo4j`, `openai`); initializes via `Neo4jGraph` connection and integrates structured (graph) + unstructured (vector) data for DevOps/GenAI applications.
+- **Implementation Stack**: Uses Neo4j (knowledge graph + vector store), LangChain (orchestration), and OpenAI (embeddings/LLM) to build a hybrid GraphRAG system, requiring Neo4j 5.11+, Python, and OpenAI API key for setup.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:25:53.340251+05:30
+- Published: 2026-08-03T22:52:45.591029+05:30
 
 ## Related Tags
 

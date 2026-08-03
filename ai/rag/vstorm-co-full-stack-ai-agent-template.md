@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-03T20:48:06.873470+05:30'
+collected_at: '2026-08-03T22:53:00.116040+05:30'
 published_at: '2026-08-03T14:21:51Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 1682
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-01T20:27:22Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-03T20:48:06.873470+05:30'
-last_seen: '2026-08-03T20:48:06.873470+05:30'
-last_checked: '2026-08-03T20:48:06.873470+05:30'
+first_seen: '2026-08-03T22:53:00.116040+05:30'
+last_seen: '2026-08-03T22:53:00.116040+05:30'
+last_checked: '2026-08-03T22:53:00.116040+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (backend) and Next.js (frontend) with AI agent frameworks (LangChain, LangGraph, CrewAI, Pydantic-AI), PostgreSQL (database), and Docker for containerization.
+- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL for storage, and Docker for containerization.
 
-- **Key Features**: Pre-integrated with 20+ tools/services, supports RAG (Retrieval-Augmented Generation), real-time streaming via WebSockets, authentication, and structured AI agent workflows.
+- **AI Capabilities**: Pre-integrated with AI agent frameworks (LangChain, LangGraph, CrewAI, Pydantic-AI), RAG pipelines, real-time streaming via WebSocket, and 20+ third-party integrations.
 
-- **Architecture**: Modular design with Pydantic models for data validation, FastAPI for REST/async APIs, Next.js/React for UI, and PostgreSQL for persistent storage.
+- **Features**: Built-in authentication, Pydantic data validation, and modular architecture for rapid deployment of AI-driven applications.
 
 ## Why It Matters
 
