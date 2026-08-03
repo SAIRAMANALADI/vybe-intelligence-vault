@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-148%2C224-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-88%2C152-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--03-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **148,224 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **88,152 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,463</p>
-        <p><b>Active:</b> 16,014 | <b>Inactive:</b> 449</p>
+        <p><b>Resources tracked:</b> 15,449</p>
+        <p><b>Active:</b> 15,000 | <b>Inactive:</b> 449</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 61,228</p>
+        <p><b>Archive Files:</b> 2,133</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 148,224 files</p>
-        <p><b>Last Update:</b> 2026-08-03 09:44 IST</p>
+        <p><b>Total Vault Size:</b> 88,152 files</p>
+        <p><b>Last Update:</b> 2026-08-03 11:54 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”](ai/community/my-personal-ai-benchmark-generate-an-svg-of-a-frog.md)** • <kbd>+63 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub](ai/resources/mdn-content.md)** • Rank: <kbd>+1479</kbd>
-- 🔼 **[SRI Hash Generator](ai/resources/sri-hash-generator.md)** • Rank: <kbd>+1482</kbd>
-- 🔼 **[nodejs/node](ai/rag/nodejs-node.md)** • Rank: <kbd>+1279</kbd>
-- 🔼 **[Sign in to GitHub · GitHub](ai/resources/langchain-ai-docs.md)** • Rank: <kbd>+1441</kbd>
+- 🔼 **[Specification - Model Context Protocol](ai/agents/specification-model-context-protocol.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[DagsHub - YouTube](ai/rag/dagshub-youtube.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[openai-agents-python/examples/voice/static at main · openai/openai-agents-python · GitHub](ai/agents/openai-openai-agents-python.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[What is the Model Context Protocol (MCP)? - Model Context Protocol](ai/agents/what-is-the-model-context-protocol-mcp-model-conte.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Research | OpenAI](ai/rag/research-openai.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Show HN: Mu – Tools for Agents](ai/community/micro-mu.md)** • Score: `42`
-- 🆕 **[BibTeX - TeX Users Group](ai/resources/bibtex-tex-users-group.md)** • Score: `0`
-- 🆕 **[Citation Style Language - Citation Style Language](ai/resources/citation-style-language-citation-style-language.md)** • Score: `0`
-- 🆕 **[CSL-JSON — citeproc-js 1.1.73 documentation](ai/rag/csl-json-citeproc-js-1-1-73-documentation.md)** • Score: `0`
-- 🆕 **[Send new RSS feed entries via email](ai/rag/send-new-rss-feed-entries-via-email.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **['Crush this lady': how eBay harassment campaign led to $56M payout](ai/community/crush-this-lady-how-ebay-harassment-campaign-led-t.md)**
-- 💤 **[AI Mania: From Tulips to Tokens](ai/community/ai-mania-from-tulips-to-tokens.md)**
-- 💤 **[Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary](ai/community/paoloanzn-microcodex.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
