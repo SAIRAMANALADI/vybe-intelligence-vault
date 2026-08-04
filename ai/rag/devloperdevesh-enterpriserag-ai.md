@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-04T14:41:54.146236+05:30'
+collected_at: '2026-08-04T17:08:06.007609+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-04T14:41:54.146236+05:30'
-last_seen: '2026-08-04T14:41:54.146236+05:30'
-last_checked: '2026-08-04T14:41:54.146236+05:30'
+first_seen: '2026-08-04T17:08:06.007609+05:30'
+last_seen: '2026-08-04T17:08:06.007609+05:30'
+last_checked: '2026-08-04T17:08:06.007609+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF (Extended Berkeley Packet Filter) for real-time monitoring, enforcement, and isolation of AI processes.
+- **Linux-Native & eBPF Integration**: Leverages eBPF for real-time, low-overhead security monitoring and governance of AI agent workloads within Linux environments, ensuring kernel-level visibility and control.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-based backend with TypeScript for a scalable Retrieval-Augmented Generation (RAG) system, integrating vector databases (e.g., FAISS, Pinecone) for low-latency semantic search and LLM inference.
+- **Enterprise-Grade RAG Pipeline**: Implements a scalable Retrieval-Augmented Generation (RAG) system with TypeScript backend, FastAPI for microservices, and vector DB integration for secure, high-performance AI agent orchestration.
 
-- **SaaS-AI Compliance & Governance**: Enforces enterprise-grade security policies (e.g., RBAC, audit logging) and AI governance (e.g., prompt injection detection, data lineage tracking) via a modular microservices architecture.
+- **Security & Governance Mesh**: Provides a SaaS-ready framework for AI governance, combining LLM-driven decision-making with fine-grained access control and audit capabilities for multi-tenant deployments.
 
 ## Why It Matters
 

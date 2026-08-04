@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://hoplite.sh
 hn_url: https://news.ycombinator.com/item?id=49157997
-score: 70
+score: 74
 author: BenceRed
-comments_count: 56
+comments_count: 60
 published_at: '2026-08-03T22:02:06+05:30'
-collected_at: '2026-08-04T14:38:29.837813+05:30'
+collected_at: '2026-08-04T17:05:52.318962+05:30'
 tags:
 - agents
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud
 first_seen: '2026-08-03T22:51:50.044079+05:30'
-last_seen: '2026-08-04T14:38:29.837813+05:30'
-last_checked: '2026-08-04T14:38:29.837813+05:30'
+last_seen: '2026-08-04T17:05:52.318962+05:30'
+last_checked: '2026-08-04T17:05:52.318962+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by BenceRed. Score: 70, Comments: 56.
+Hacker News story by BenceRed. Score: 74, Comments: 60.
 Original Link: https://hoplite.sh
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: BenceRed
-- Score: 70 Upvotes
-- Comments: 56 Discussions
+- Score: 74 Upvotes
+- Comments: 60 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49157997
 - Original Article: https://hoplite.sh
 

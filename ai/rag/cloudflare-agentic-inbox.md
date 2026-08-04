@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/agentic-inbox
-collected_at: '2026-08-04T14:44:14.317251+05:30'
-published_at: '2026-08-04T03:41:38Z'
+collected_at: '2026-08-04T17:10:26.183553+05:30'
+published_at: '2026-08-04T10:43:21Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 6722
+stars: 6724
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-04-10T00:26:27Z'
 pushed_at: '2026-04-23T21:04:17Z'
 resource_id: github:cloudflare/agentic-inbox
-first_seen: '2026-08-04T14:44:14.317251+05:30'
-last_seen: '2026-08-04T14:44:14.317251+05:30'
-last_checked: '2026-08-04T14:44:14.317251+05:30'
+first_seen: '2026-08-04T17:10:26.183553+05:30'
+last_seen: '2026-08-04T17:10:26.183553+05:30'
+last_checked: '2026-08-04T17:10:26.183553+05:30'
 health_score: 100
 ---
 
@@ -30,8 +30,8 @@ health_score: 100
 ## Summary
 
 - **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, eliminating traditional backend infrastructure.
-- **AI Integration**: Embedded AI agent processes emails in real-time, enabling automated responses, categorization, and summarization within the Workers runtime.
-- **Tech Stack**: Built entirely in TypeScript, utilizing Cloudflare’s edge network for low-latency, globally distributed email handling.
+- **AI Integration**: Embedded AI agent processes emails in real-time, enabling automated responses, categorization, and summarization via TypeScript-based Workers.
+- **Deployment**: Fully containerized (via Wrangler) and optimized for Cloudflare’s edge network, ensuring low-latency global access with minimal operational overhead.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cloudflare
-- Stars: 6722
-- Forks: 847
+- Stars: 6724
+- Forks: 848
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-04T03:41:38Z
+- Last Updated: 2026-08-04T10:43:21Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-10T00:26:27Z

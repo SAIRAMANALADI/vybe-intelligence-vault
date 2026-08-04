@@ -3,7 +3,7 @@ title: deepset-ai/haystack · Discussions · GitHub
 archive_category: guardrails-security
 source_category: ai/rag
 source_url: https://github.com/deepset-ai/haystack/discussions
-resource_id: github:deepset-ai/haystack
+resource_id: github:deepset-ai/haystack-b4d2ff4e
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
 archive_score: 77

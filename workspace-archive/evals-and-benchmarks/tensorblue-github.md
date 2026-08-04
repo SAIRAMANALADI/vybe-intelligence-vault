@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **51 stars** across unspecified content.
-- User profile shows **2 followers, 0 following**, with options to block/report but no visible activity or contributions.
-- Error state indicates **"Something went wrong"** when loading repositories, suggesting potential API/data retrieval failure.
+- GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **51 stars** across unspecified entities.
+- User profile lacks verifiable activity, with no visible contributions or metadata beyond the basic account details.
+- GitHub’s UI indicates a **loading error** when attempting to access "Popular repositories," suggesting potential account deactivation or data retrieval issues.
 
 ## Use Cases
 

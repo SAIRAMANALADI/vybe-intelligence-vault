@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-04T14:41:24.144432+05:30'
+collected_at: '2026-08-04T17:07:35.985427+05:30'
 published_at: '2026-08-03T16:39:06Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 184
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-03T08:23:24Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-04T14:41:24.144432+05:30'
-last_seen: '2026-08-04T14:41:24.144432+05:30'
-last_checked: '2026-08-04T14:41:24.144432+05:30'
+first_seen: '2026-08-04T17:07:35.985427+05:30'
+last_seen: '2026-08-04T17:07:35.985427+05:30'
+last_checked: '2026-08-04T17:07:35.985427+05:30'
 health_score: 100
 ---
 
@@ -28,7 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Curated resource for battle-tested tools, frameworks, and best practices in building scalable
+- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, and vector databases.
+- **Technical scope**: Focuses on AI/ML engineering (e.g., LangChain, MLOps, LLMops) with Python-based implementations for deployment-ready RAG pipelines.
+- **Community metrics**: 184 stars, 46 forks, last updated August 3, 2026, emphasizing active maintenance and relevance to AI engineering workflows.
 
 ## Why It Matters
 

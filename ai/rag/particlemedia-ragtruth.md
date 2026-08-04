@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-04T14:40:24.077785+05:30'
+collected_at: '2026-08-04T17:06:35.957264+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- models
 - python
 - rag
 stars: 260
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-04T14:40:24.077785+05:30'
-last_seen: '2026-08-04T14:40:24.077785+05:30'
-last_checked: '2026-08-04T14:40:24.077785+05:30'
+first_seen: '2026-08-04T17:06:35.957264+05:30'
+last_seen: '2026-08-04T17:06:35.957264+05:30'
+last_checked: '2026-08-04T17:06:35.957264+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to benchmark and improve trustworthiness in Retrieval-Augmented Generation (RAG) models by providing annotated hallucination data.
-- **Technical Composition**: Contains Python-based resources for generating, evaluating, and mitigating hallucinations in RAG systems, with structured annotations for false, unsupported, or misleading outputs.
-- **Benchmarking Focus**: Enables systematic evaluation of hallucination detection and mitigation techniques in RAG pipelines, supporting reproducibility via open-source code and dataset splits.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by identifying and mitigating hallucinations in generated outputs.
+
+- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures in real-world retrieval-augmented generation scenarios.
+
+- **Implementation**: Open-source Python repository with tools for dataset exploration, evaluation metrics, and baseline model implementations to benchmark hallucination detection and mitigation strategies.
 
 ## Why It Matters
 

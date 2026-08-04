@@ -4,24 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-08-04T14:42:49.226320+05:30'
-published_at: '2026-08-04T09:12:10Z'
+collected_at: '2026-08-04T17:09:01.073058+05:30'
+published_at: '2026-08-04T09:46:01Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - youtube
-stars: 11015
+stars: 11016
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-06-19T14:26:15Z'
-pushed_at: '2026-08-04T07:30:00Z'
+pushed_at: '2026-08-04T09:55:15Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-08-04T14:42:49.226320+05:30'
-last_seen: '2026-08-04T14:42:49.226320+05:30'
-last_checked: '2026-08-04T14:42:49.226320+05:30'
+first_seen: '2026-08-04T17:09:01.073058+05:30'
+last_seen: '2026-08-04T17:09:01.073058+05:30'
+last_checked: '2026-08-04T17:09:01.073058+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source Python framework** for building **real-time, multi-modal conversational voice AI agents**, supporting both video and voice modalities.
-- **Highly scalable architecture** optimized for **low-latency interactions**, enabling dynamic, context-aware agent responses in live environments.
-- **Modular design** with extensible components for **multi-modal input/output**, facilitating integration with ASR, TTS, and vision systems.
+- **Purpose**: Open-source framework enabling development of conversational voice AI agents with multi-modal capabilities (voice, video, real-time interactions).
+- **Technical Stack**: Primarily implemented in Python, optimized for low-latency, real-time processing.
+- **Key Features**: Supports multi-modal input/output, modular architecture for extensibility, and real-time synchronization across voice and video streams.
 
 ## Why It Matters
 
@@ -40,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TEN-framework
-- Stars: 11015
+- Stars: 11016
 - Forks: 1349
 - Language: Python
 - Topics: ai, multi-modal, real-time, video, voice
-- Last Updated: 2026-08-04T09:12:10Z
+- Last Updated: 2026-08-04T09:46:01Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z
-- Pushed At: 2026-08-04T07:30:00Z
+- Pushed At: 2026-08-04T09:55:15Z
 
 ## Possible Use Cases
 

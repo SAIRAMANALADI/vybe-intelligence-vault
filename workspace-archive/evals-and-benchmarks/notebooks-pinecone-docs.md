@@ -2,7 +2,7 @@
 title: Notebooks - Pinecone Docs
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://docs.pinecone.io/page/examples
+source_url: https://docs.pinecone.io/examples/notebooks
 resource_id: blog:notebooks-pinecone-docs
 local_vault_path: ai/rag/notebooks-pinecone-docs.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Colab Notebooks**: Runnable notebooks demonstrating semantic, lexical, hybrid search, RAG, embeddings, reranking, and data ingestion workflows with Pinecone.
-- **RAG Focus**: Dedicated resources for retrieval-augmented generation (RAG) implementations using Pinecone.
-- **Sample Apps**: Additional sample applications available for reference and deployment.
+- Pinecone provides runnable Colab notebooks for semantic, lexical, hybrid search, RAG, embeddings, reranking, and data ingestion workflows.
+- Notebooks are categorized into **Search**, **Retrieval-augmented generation (RAG)**, and **Miscellaneous** for targeted use cases.
+- Additional sample applications are available separately for broader implementation guidance.
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.pinecone.io/page/examples
+Original source URL: https://docs.pinecone.io/examples/notebooks
 
 ## Local Vault File
 

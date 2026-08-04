@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-92%2C614-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-156%2C425-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--04-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **92,614 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **156,425 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,390</p>
-        <p><b>Active:</b> 15,927 | <b>Inactive:</b> 463</p>
+        <p><b>Resources tracked:</b> 17,398</p>
+        <p><b>Active:</b> 16,933 | <b>Inactive:</b> 465</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,163</p>
+        <p><b>Archive Files:</b> 64,988</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 92,614 files</p>
-        <p><b>Last Update:</b> 2026-08-04 16:11 IST</p>
+        <p><b>Total Vault Size:</b> 156,425 files</p>
+        <p><b>Last Update:</b> 2026-08-04 17:26 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[How we’re helping kids and families safely learn, grow and play online](ai/resources/how-were-helping-kids-and-families-safely-learn-gr.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Home - Coalition for Secure AI](ai/rag/home-coalition-for-secure-ai.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Mac - Apple](ai/rag/mac-apple.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[iPhone - Apple](ai/rag/iphone-apple.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Apple Vision Pro - Apple](ai/resources/apple-vision-pro-apple.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[LLMs reward expertise](ai/community/llms-reward-expertise.md)** • <kbd>+115 pts</kbd>
+- 🔼 **[Prevent cognitive debt by manually retyping LLM-generated code](ai/community/prevent-cognitive-debt-by-manually-retyping-llm-ge.md)** • <kbd>+25 pts</kbd>
+- 🔼 **[That time when I failed the Microsoft interview](ai/community/that-time-when-i-failed-the-microsoft-interview.md)** • <kbd>+25 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[There Will Come Soft Rains (1950) [pdf]](ai/community/there-will-come-soft-rains-1950-pdf.md)** • <kbd>+18 pts</kbd>
+- 🔼 **[Bonsai: Janestreet's UI Library](ai/community/janestreet-bonsai.md)** • <kbd>+15 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Understanding Machine Unlearning Through the Lens of Mode Connectivity](ai/research/arxiv-2607-23970.md)** • Score: `0`
+- 🆕 **[You don't need React: creating a minimal UI library in Vanilla JavaScript](web-development/community/you-don-t-need-react-creating-a-minimal-ui-library.md)** • Score: `68`
+- 🆕 **[Agentic IDEs and CLIs - Pinecone Docs](ai/rag/agentic-ides-and-clis-pinecone-docs.md)** • Score: `0`
+- 🆕 **[Pinecone documentation - Pinecone Docs](ai/rag/pinecone-documentation-pinecone-docs.md)** • Score: `0`
+- 🆕 **[Jobs at Medium](ai/resources/jobs-at-medium.md)** • Score: `0`
+- 🆕 **[Google Store for Google Made Devices & Accessories](ai/rag/google-store-for-google-made-devices-accessories.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Why did we wait so long for the bicycle? (2019)](ai/community/why-did-we-wait-so-long-for-the-bicycle-2019.md)**
+- 💤 **[RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle](ai/community/rosaiclabs-atom-rtl-and-32-tile-amx-trying-to-piec.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

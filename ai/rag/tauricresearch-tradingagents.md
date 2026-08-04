@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-08-04T14:44:14.303893+05:30'
-published_at: '2026-08-04T09:13:00Z'
+collected_at: '2026-08-04T17:10:26.163538+05:30'
+published_at: '2026-08-04T11:20:17Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
-stars: 95540
+stars: 95555
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-12-28T03:31:08Z'
 pushed_at: '2026-07-18T15:55:05Z'
 resource_id: github:tauricresearch/tradingagents
-first_seen: '2026-08-04T14:44:14.303893+05:30'
-last_seen: '2026-08-04T14:44:14.303893+05:30'
-last_checked: '2026-08-04T14:44:14.303893+05:30'
+first_seen: '2026-08-04T17:10:26.163538+05:30'
+last_seen: '2026-08-04T17:10:26.163538+05:30'
+last_checked: '2026-08-04T17:10:26.163538+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent LLM Framework**: Implements a financial trading system using multiple LLM-based agents, each specialized in distinct roles (e.g., analyst, trader, risk manager) for collaborative decision-making.
+- **Multi-Agent LLM Framework**: Implements a financial trading system using multiple LLM-based agents for decision-making, leveraging specialized roles (e.g., analyst, trader, risk manager) for collaborative strategy execution.
 
-- **Python-Based Architecture**: Built in Python with modular design, leveraging libraries like `langchain` for agent orchestration and `pandas` for market data processing.
+- **Python-Based Architecture**: Built in Python with modular components for market data ingestion, agent interaction, and execution logic, optimized for extensibility and real-time trading simulations.
 
-- **Open-Source & Extensible**: Public repository (95.5k+ stars) with 18.5k+ forks, supporting customization for backtesting, live trading, and integration with APIs (e.g., Binance, Yahoo Finance).
+- **Open-Source & Research-Oriented**: Hosted on GitHub with 95K+ stars, designed for academic/industry research in multi-agent LLM systems for finance, including backtesting and performance evaluation tools.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TauricResearch
-- Stars: 95540
-- Forks: 18474
+- Stars: 95555
+- Forks: 18476
 - Language: Python
 - Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-08-04T09:13:00Z
+- Last Updated: 2026-08-04T11:20:17Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-28T03:31:08Z

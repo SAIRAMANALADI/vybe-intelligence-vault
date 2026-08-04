@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airalab/autonomous_agent_template
-collected_at: '2026-08-04T03:53:53.064077+05:30'
+collected_at: '2026-08-04T17:10:01.198938+05:30'
 published_at: '2024-06-25T11:56:51Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2018-09-26T13:56:23Z'
 pushed_at: '2019-12-02T22:03:37Z'
 resource_id: github:airalab/autonomous_agent_template
-first_seen: '2026-08-04T03:53:53.064077+05:30'
-last_seen: '2026-08-04T03:53:53.064077+05:30'
-last_checked: '2026-08-04T03:53:53.064077+05:30'
+first_seen: '2026-08-04T17:10:01.198938+05:30'
+last_seen: '2026-08-04T17:10:01.198938+05:30'
+last_checked: '2026-08-04T17:10:01.198938+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular AIRA Agent Template**: Provides a basic framework for constructing autonomous agents using the AIRA (Autonomous Intelligent Robot Agents) platform, emphasizing modularity in agent design.
-
-- **ROS Integration**: Designed for Robot Operating System (ROS) compatibility, enabling seamless integration with robotic systems and facilitating inter-process communication via ROS topics/services.
-
-- **Python-Based Implementation**: Implements core agent logic in Python, leveraging ROS client libraries (e.g., `rospy`) for agent-node interactions and task execution.
+- **Modular AIRA Agent Framework**: Provides a Python-based template for developing autonomous agents with modular architecture, leveraging ROS (Robot Operating System) for robotics applications.
+- **ROS Integration**: Designed for seamless integration with ROS, enabling real-time control and communication for robotic systems.
+- **Minimalist Example**: Serves as a lightweight reference implementation for autonomous agent development, with 1 star and 5 forks as of the last update (2024-06-25).
 
 ## Why It Matters
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-04T14:38:30.219926+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:why-did-we-wait-so-long-for-the-bicycle-2019
 first_seen: '2026-08-04T14:38:30.219926+05:30'
 last_seen: '2026-08-04T14:38:30.219926+05:30'
 last_checked: '2026-08-04T14:38:30.219926+05:30'
 health_score: 100
 ---
+
 
 # Why did we wait so long for the bicycle? (2019)
 

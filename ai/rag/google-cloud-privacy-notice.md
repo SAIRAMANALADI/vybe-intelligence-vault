@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cloud.google.com/terms/cloud-privacy-notice
-published_at: '2026-08-01T09:27:10.632039+05:30'
-collected_at: '2026-08-01T09:27:10.632049+05:30'
+published_at: '2026-08-04T17:17:21.395352+05:30'
+collected_at: '2026-08-04T17:17:21.395367+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-cloud-privacy-notice
-first_seen: '2026-08-01T09:27:10.632049+05:30'
-last_seen: '2026-08-01T09:27:10.632049+05:30'
-last_checked: '2026-08-01T09:27:10.632049+05:30'
+first_seen: '2026-08-04T17:17:21.395367+05:30'
+last_seen: '2026-08-04T17:17:21.395367+05:30'
+last_checked: '2026-08-04T17:17:21.395367+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Data Processing Scope**: Google Cloud Privacy Notice applies exclusively to *Service Data* (e.g., account details, billing records, usage metrics, technical logs) collected during Cloud Services provisioning, excluding *Customer Data* and *Partner Data*; processing includes fraud detection, billing, performance optimization, and legal compliance via automated algorithms and manual reviews.
+- **Service Data Definition & Processing Scope**: Service Data includes account info (usernames, contact details), billing records, cloud configurations, usage metrics (IPs, device IDs), and support communications—exclusively for Cloud Services (GCP, Workspace, etc.). Processing excludes Customer/Partner Data, governed by separate DPAs.
 
-- **Global Data Handling & Security**: Service Data may be processed in centralized/regionalized operations (e.g., billing, support) across global data centers, with transfers outside EEA/UK/Switzerland governed by legal frameworks; security measures include encryption (at rest/transit), role-based access controls, and contractual confidentiality obligations for employees/contractors.
+- **Global Data Handling & Security**: Service Data is processed across global data centers (EU/UK/Switzerland compliance via legal frameworks) with encryption (at rest/transit), role-based access controls, and automated threat detection. Third-party sharing is restricted to admin access, legal requests, or user-consented integrations.
 
-- **Data Retention & Third-Party Sharing**: Retention periods vary by data type (default up to 180 days, longer for security/fraud prevention); Service Data is shared externally only under specific conditions (e.g., third-party service integration, user consent, legal requests, or with authorized administrators/resellers) and never sold.
+- **Retention & User Control**: Retention periods vary (default 180 days, extended for security/fraud cases). Users/admins can export data via Google Cloud tools; deletion/anonymization occurs post-retention. Legal/merger scenarios preserve confidentiality per policy.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T09:27:10.632039+05:30
+- Published: 2026-08-04T17:17:21.395352+05:30
 
 ## Related Tags
 

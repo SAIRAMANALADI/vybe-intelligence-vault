@@ -4,10 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/npm/documentation
-collected_at: '2026-08-04T14:48:06.696461+05:30'
+collected_at: '2026-08-04T17:15:35.487840+05:30'
 published_at: '2026-08-04T03:23:09Z'
 tags:
 - github-repo
+- hackernews
 - mdx
 stars: 693
 language: MDX
@@ -17,9 +18,9 @@ archived: false
 created_at: '2020-09-22T21:51:41Z'
 pushed_at: '2026-08-04T03:22:39Z'
 resource_id: github:npm/documentation
-first_seen: '2026-08-04T14:48:06.696461+05:30'
-last_seen: '2026-08-04T14:48:06.696461+05:30'
-last_checked: '2026-08-04T14:48:06.696461+05:30'
+first_seen: '2026-08-04T17:15:35.487840+05:30'
+last_seen: '2026-08-04T17:15:35.487840+05:30'
+last_checked: '2026-08-04T17:15:35.487840+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts documentation for npm registry, website, and CLI, written in MDX.
-- **Metadata**: 693 stars, 4115 forks, last updated 2026-08-04T03:23:09Z.
-- **Focus**: Dedicated to npm CLI-related documentation and topics.
+- **Purpose**: Hosts documentation for the npm registry, website, and CLI, written in MDX.
+- **Repository Stats**: 693 stars, 4115 forks, last updated 2026-08-04.
+- **Focus**: Exclusively covers npm CLI-related technical documentation.
 
 ## Why It Matters
 

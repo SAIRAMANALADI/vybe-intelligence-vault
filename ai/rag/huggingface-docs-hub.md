@@ -1,41 +1,40 @@
 ---
-title: Spaces · Hugging Face
+title: Models · Hugging Face
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-04T14:46:08.103680+05:30'
-collected_at: '2026-08-04T14:46:08.103694+05:30'
+source_url: https://huggingface.co/docs/hub/en/models#:~:text=The%20Hugging%20Face%20Hub%20hosts,models%20as%20easy%20as%20possible.
+published_at: '2026-08-04T17:13:21.435398+05:30'
+collected_at: '2026-08-04T17:13:21.435412+05:30'
 tags:
 - agents
-- creative_dev
+- benchmark
 - dataset
 - leaderboard
 - meta-ai
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-04T14:46:08.103694+05:30'
-last_seen: '2026-08-04T14:46:08.103694+05:30'
-last_checked: '2026-08-04T14:46:08.103694+05:30'
+first_seen: '2026-08-04T17:13:21.435412+05:30'
+last_seen: '2026-08-04T17:13:21.435412+05:30'
+last_checked: '2026-08-04T17:13:21.435412+05:30'
 health_score: 100
 ---
 
-# Spaces · Hugging Face
+# Models · Hugging Face
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio, Docker, and static HTML/JS applications, including GPU acceleration options.
+- **Model Hosting & Repositories**: The Hugging Face Hub stores models in Git-based repositories, inheriting all standard repo features (e.g., versioning, collaboration) while adding ML-specific attributes like model cards, evaluation results, and inference widgets.
 
-- **Storage & Compute**: Supports disk usage tracking, custom domains, and advanced configurations like ZeroGPU, Dev Mode, and MCP server integration for agent-based workflows.
+- **Model Access & Usage**: Supports gated access for proprietary models, provides standardized model cards (including CO2 emissions tracking), and enables direct inference via widgets or local apps, with libraries like `transformers` and `diffusers` for integration.
 
-- **Collaboration & Integration**: Facilitates collaborative ML projects via GitHub Actions, OAuth-based authentication, and embeddable Spaces for seamless integration into external platforms.
+- **Advanced Features**: Includes model evaluation benchmarks, leaderboard data integration, streaming/downloading optimizations, and support for hardware-specific deployments (e.g., AWS Trainium, Google TPUs) via the Hub’s API and SDKs.
 
 ## Why It Matters
 
@@ -45,23 +44,22 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T14:46:08.103680+05:30
+- Published: 2026-08-04T17:13:21.435398+05:30
 
 ## Related Tags
 
 - agents
-- creative_dev
+- benchmark
 - dataset
 - leaderboard
 - meta-ai
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://huggingface.co/docs/hub/spaces
+Original source: https://huggingface.co/docs/hub/en/models#:~:text=The%20Hugging%20Face%20Hub%20hosts,models%20as%20easy%20as%20possible.

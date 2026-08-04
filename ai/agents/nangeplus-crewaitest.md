@@ -4,24 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-04T14:44:49.360455+05:30'
-published_at: '2026-08-04T09:09:34Z'
+collected_at: '2026-08-04T17:11:01.250020+05:30'
+published_at: '2026-08-04T11:15:11Z'
 tags:
 - agents
 - github-repo
 - meta-ai
 - models
 - python
-stars: 350
+- workflows
+stars: 351
 language: Python
 status: active
 archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-04T14:44:49.360455+05:30'
-last_seen: '2026-08-04T14:44:49.360455+05:30'
-last_checked: '2026-08-04T14:44:49.360455+05:30'
+first_seen: '2026-08-04T17:11:01.250020+05:30'
+last_seen: '2026-08-04T17:11:01.250020+05:30'
+last_checked: '2026-08-04T17:11:01.250020+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements a collaborative multi-agent framework using CrewAI, enabling task delegation and coordination among specialized agents.
+- **Multi-Agent Framework**: Implements a **CrewAI**-based system with **FastAPI** to deploy collaborative AI agents, enabling parallel task execution and inter-agent communication via RESTful API endpoints.
 
-- **API Service Layer**: Integrates FastAPI to expose the multi-agent system as a RESTful API, facilitating external interactions and model inference requests.
+- **Multi-Model Support**: Integrates **GPT**, **domestic large models**, and **Ollama** (local models) via unified API interfaces, allowing dynamic model switching and inference routing.
 
-- **Model Agnostic Support**: Compatible with multiple LLM backends (e.g., GPT, domestic models, Ollama) via modular configuration, allowing seamless switching between local and cloud-based models.
+- **Scalable API Service**: Exposes agent workflows as **RESTful endpoints**, supporting concurrent requests with **FastAPI**’s async I/O, and includes deployment configurations for local/remote model hosting.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NanGePlus
-- Stars: 350
+- Stars: 351
 - Forks: 80
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-04T09:09:34Z
+- Last Updated: 2026-08-04T11:15:11Z
 - Archived: No
 - Created At: 2024-09-11T02:58:44Z
 - Pushed At: 2024-10-20T14:37:28Z

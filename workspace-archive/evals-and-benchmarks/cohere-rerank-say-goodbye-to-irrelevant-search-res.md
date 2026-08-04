@@ -6,20 +6,20 @@ source_url: https://txt.cohere.com/rerank/
 resource_id: blog:cohere-rerank-say-goodbye-to-irrelevant-search-res
 local_vault_path: ai/rag/cohere-rerank-say-goodbye-to-irrelevant-search-res.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - hackernews
 - models
 - producthunt
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Cohere Rerank: Say Goodbye to Irrelevant Search Results
@@ -27,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Cohere's Embedding Models**: Focus on advanced embedding models for semantic search, retrieval-augmented generation (RAG), and text classification, emphasizing performance and scalability in production environments.
+- **Cohere's Embedding Models**: Introduced new multilingual embedding models optimized for cross-lingual retrieval, supporting 100+ languages with improved performance in semantic search tasks.
 
-- **Technical Innovations**: Highlight proprietary techniques for optimizing embedding quality, including contrastive learning, hard negative mining, and dynamic margin tuning to improve downstream task accuracy.
+- **Efficiency Optimizations**: Implemented quantization techniques (INT8) and optimized inference pipelines, reducing latency by ~40% and memory usage by ~50% for large-scale deployments.
 
-- **Deployment & Integration**: Provide tools for seamless integr
+- **Evaluation Framework**: Released a standardized benchmarking suite for embeddings, enabling reproducible compa
 
 ## Use Cases
 

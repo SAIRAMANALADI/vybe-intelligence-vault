@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-04T14:41:49.199907+05:30'
+collected_at: '2026-08-04T17:08:01.056044+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 263
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-31T20:03:39Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-04T14:41:49.199907+05:30'
-last_seen: '2026-08-04T14:41:49.199907+05:30'
-last_checked: '2026-08-04T14:41:49.199907+05:30'
+first_seen: '2026-08-04T17:08:01.056044+05:30'
+last_seen: '2026-08-04T17:08:01.056044+05:30'
+last_checked: '2026-08-04T17:08:01.056044+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent designed for Security Operations Centers (SOCs), integrating OpenSearch/Elasticsearch data monitoring with skill-based automation for threat detection and response.
-
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory from monitored data, enabling adaptive anomaly validation via Large Language Models (LLMs).
-
-- **Real-Time Anomaly Validation**: Dynamically cross-references live telemetry with historical patterns to flag and validate anomalies, supporting autonomous threat hunting and incident response workflows.
+- **Modular SOC Agent**: Implements a skill-based autonomous Security Operations Center (SOC) agent in Python, designed for real-time monitoring of OpenSearch/Elasticsearch data streams.
+- **RAG-Based Behavioral Memory**: Constructs Retrieval-Augmented Generation (RAG) memory to contextualize and validate anomalies, leveraging LLMs for dynamic threat detection and analysis.
+- **Anomaly Validation Pipeline**: Integrates LLM-driven validation to cross-check real-time anomalies, enabling automated threat hunting and incident response within a modular, extensible framework.
 
 ## Why It Matters
 

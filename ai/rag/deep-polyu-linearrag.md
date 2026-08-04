@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-04T14:42:09.219000+05:30'
+collected_at: '2026-08-04T17:08:21.077152+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-04T14:42:09.219000+05:30'
-last_seen: '2026-08-04T14:42:09.219000+05:30'
-last_checked: '2026-08-04T14:42:09.219000+05:30'
+first_seen: '2026-08-04T17:08:21.077152+05:30'
+last_seen: '2026-08-04T17:08:21.077152+05:30'
+last_checked: '2026-08-04T17:08:21.077152+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Introduces a linear graph-based retrieval method for Large Language Models (LLMs) to efficiently process large-scale corpora, optimizing retrieval-augmented generation (RAG) by leveraging linear graph structures for scalable and low-latency retrieval.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework that leverages linear graph structures for efficient retrieval and generation on large-scale corpora, optimizing both memory and computational efficiency.
 
-- **Graph Construction & Retrieval**: Implements a linear-time graph construction algorithm that dynamically builds a retrieval graph from unstructured text, enabling efficient subgraph extraction for context-aware generation while maintaining linear scalability in both time and space.
+- **Graph-Based Retrieval Mechanism**: Utilizes linear graph traversal (e.g., path-based or neighborhood sampling) to dynamically extract relevant context from the corpus, reducing reliance on dense vector indexing while maintaining retrieval accuracy.
 
-- **Performance Benchmarks**: Demonstrates superior performance over traditional RAG methods in retrieval accuracy and generation quality on large-scale datasets, with empirical results showing significant improvements in latency and resource efficiency.
+- **Scalability & Performance**: Designed for large-scale datasets, LinearRAG achieves state-of-the-art trade-offs between retrieval latency and generation quality, as validated on ICLR 2026 benchmarks.
 
 ## Why It Matters
 

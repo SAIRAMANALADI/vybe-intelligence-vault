@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
-collected_at: '2026-08-04T01:32:26.535884+05:30'
-published_at: '2026-08-02T03:41:26Z'
+collected_at: '2026-08-04T17:09:46.158542+05:30'
+published_at: '2026-08-04T00:31:08Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-stars: 6532
+stars: 6533
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-01-31T16:03:06Z'
 pushed_at: '2026-07-21T23:42:40Z'
 resource_id: github:googlecloudplatform/agent-starter-pack
-first_seen: '2026-08-04T01:32:26.535884+05:30'
-last_seen: '2026-08-04T01:32:26.535884+05:30'
-last_checked: '2026-08-04T01:32:26.535884+05:30'
+first_seen: '2026-08-04T17:09:46.158542+05:30'
+last_seen: '2026-08-04T17:09:46.158542+05:30'
+last_checked: '2026-08-04T17:09:46.158542+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Production-ready AI agent templates** for Google Cloud, pre-integrated with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
+- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment from months to minutes.
 
-- **Gemini and GenAI agent support** with built-in MLOps/LLMops best practices for scalable, maintainable agent development.
+- **Gemini and Generative AI integration** via Python-based templates, supporting LLMops and MLOps best practices for scalable agent development and lifecycle management.
 
-- **Python-based repository** with modular architecture, enabling rapid prototyping and deployment of generative AI agents on Google Cloud.
+- **Built-in monitoring and evaluation** with structured logging, metrics, and automated testing to ensure reliability, performance, and compliance in production environments.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: GoogleCloudPlatform
-- Stars: 6532
+- Stars: 6533
 - Forks: 1499
 - Language: Python
 - Topics: agents, gcp, gemini, genai-agents, generative-ai, llmops, mlops, observability
-- Last Updated: 2026-08-02T03:41:26Z
+- Last Updated: 2026-08-04T00:31:08Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-01-31T16:03:06Z

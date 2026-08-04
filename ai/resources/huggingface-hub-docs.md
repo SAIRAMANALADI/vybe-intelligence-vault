@@ -1,69 +1,51 @@
 ---
-title: huggingface/hub-docs
+title: hub-docs/docs/hub/models.md at main · huggingface/hub-docs · GitHub
 category: ai/resources
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/huggingface/hub-docs
-collected_at: '2026-08-04T14:47:15.022260+05:30'
-published_at: '2026-08-04T04:06:09Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/huggingface/hub-docs/blob/main/docs/hub/models.md
+published_at: '2026-08-04T17:15:25.652340+05:30'
+collected_at: '2026-08-04T17:15:25.652354+05:30'
 tags:
-- dataset
-- github-repo
-- hackernews
-- handlebars
-stars: 580
-language: Handlebars
+- benchmark
+- models
+- web-crawled
+- workflows
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2022-03-16T13:26:14Z'
-pushed_at: '2026-08-04T09:08:49Z'
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-08-04T14:47:15.022260+05:30'
-last_seen: '2026-08-04T14:47:15.022260+05:30'
-last_checked: '2026-08-04T14:47:15.022260+05:30'
+first_seen: '2026-08-04T17:15:25.652354+05:30'
+last_seen: '2026-08-04T17:15:25.652354+05:30'
+last_checked: '2026-08-04T17:15:25.652354+05:30'
 health_score: 100
 ---
 
-# huggingface/hub-docs
+# hub-docs/docs/hub/models.md at main · huggingface/hub-docs · GitHub
 
 ## Summary
 
-- **Repository Overview**: Official documentation for the Hugging Face Hub, a platform for hosting, sharing, and collaborating on machine learning models, datasets, and applications.
-- **Technical Stack**: Utilizes Handlebars templating engine for dynamic content rendering, supporting hacktoberfest contributions and machine learning-focused development.
-- **Metadata**: 580 stars, 479 forks, last updated on 2026-08-04T04:06:09Z.
+- **Repository-Based Hosting**: Models on the Hugging Face Hub are stored in repositories, inheriting all standard GitHub-like features (versioning, collaboration, etc.) while adding ML-specific attributes for easier exploration and usage.
+
+- **Comprehensive Documentation & Tools**: The Hub provides detailed docs covering model cards (including CO2 emissions tracking), evaluation results, gated models, uploading/downloading processes, inference APIs, and integration with libraries/widgets for local/remote applications.
+
+- **Advanced Features & Integration**: Supports advanced topics like library integration, task-specific models, and custom inference workflows, with FAQs and structured guidance for developers to maximize utility.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: huggingface
-- Stars: 580
-- Forks: 479
-- Language: Handlebars
-- Topics: hacktoberfest, machine-learning
-- Last Updated: 2026-08-04T04:06:09Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2022-03-16T13:26:14Z
-- Pushed At: 2026-08-04T09:08:49Z
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-08-04T17:15:25.652340+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- benchmark
+- models
+- web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.com/huggingface/hub-docs
+Original source: https://github.com/huggingface/hub-docs/blob/main/docs/hub/models.md

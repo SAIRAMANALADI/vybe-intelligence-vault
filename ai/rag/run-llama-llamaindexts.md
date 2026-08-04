@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/LlamaIndexTS
-collected_at: '2026-08-02T21:51:36.527271+05:30'
+collected_at: '2026-08-04T17:16:18.481913+05:30'
 published_at: '2026-07-30T05:19:25Z'
 tags:
 - agents
@@ -25,9 +25,9 @@ archived: true
 created_at: '2023-06-13T06:41:20Z'
 pushed_at: '2026-03-11T20:07:07Z'
 resource_id: github:run-llama/llamaindexts
-first_seen: '2026-08-02T21:51:36.527271+05:30'
-last_seen: '2026-08-02T21:51:36.527271+05:30'
-last_checked: '2026-08-02T21:51:36.527271+05:30'
+first_seen: '2026-08-04T17:16:18.481913+05:30'
+last_seen: '2026-08-04T17:16:18.481913+05:30'
+last_checked: '2026-08-04T17:16:18.481913+05:30'
 health_score: 100
 ---
 
@@ -35,9 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based LLM Data Framework**: LlamaIndexTS provides a server-side solution for LLM applications, enabling efficient data indexing and retrieval for TypeScript/JavaScript environments.
-- **Modular Integration**: Supports key LLM providers (OpenAI, Groq) and frameworks (React, Node.js), with built-in support for embeddings, agents, and chatbot architectures.
-- **Active Development**: Last updated in 2026, with 3,079 stars and 524 forks, indicating a growing ecosystem for LLM-centric data workflows.
+- **TypeScript-based LLM Data Framework**: LlamaIndexTS provides a server-side solution for LLM applications, enabling efficient data indexing and retrieval for JavaScript/TypeScript environments.
+
+- **Modular Integration**: Supports multiple LLM providers (OpenAI, Groq, Claude) and frameworks (React, Node.js), with built-in embedding and agent capabilities for scalable AI workflows.
+
+- **Active Development & Ecosystem**: Maintained repository with 3,079+ stars, 524+ forks, and recent updates (as of July 2026), emphasizing compatibility with LlamaIndex and modern AI tooling.
 
 ## Why It Matters
 

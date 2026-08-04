@@ -3,9 +3,9 @@ title: LlamaIndex | AI Agents for Document OCR + Workflows
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.llamaindex.ai/
-published_at: '2026-08-04T09:12:36.552972+05:30'
-collected_at: '2026-08-04T09:12:36.552980+05:30'
+source_url: https://llamaindex.ai
+published_at: '2026-08-04T17:13:59.759773+05:30'
+collected_at: '2026-08-04T17:13:59.759782+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-08-04T09:12:36.552980+05:30'
-last_seen: '2026-08-04T09:12:36.552980+05:30'
-last_checked: '2026-08-04T09:12:36.552980+05:30'
+first_seen: '2026-08-04T17:13:59.759782+05:30'
+last_seen: '2026-08-04T17:13:59.759782+05:30'
+last_checked: '2026-08-04T17:13:59.759782+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR & Structured Extraction**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, enabling structured schema extraction and reducing manual processing from hours to seconds.
+- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Model (VLM)-powered agents for layout-aware document parsing, enabling structured extraction of defined schemas from complex documents (e.g., tables, charts, handwritten text) with 10,000 free credits/month (~1000 pages).
 
-- **Multi-Modal & Error-Resilient Processing**: Supports parsing of complex documents including handwritten text, tables, charts, and multi-page layouts with auto-correction loops for error detection and resolution, achieving high pass-through rates.
+- **Multi-Stage Validation Pipeline**: Implements recursive auto-correction loops and task-specific agents (e.g., text, charts, tables) to detect/fix errors, ensuring high pass-through rates even on messy scans or multi-modal inputs.
 
-- **Enterprise-Grade Features**: Offers 10,000 free credits/month (~1000 pages), supports 50+ file types, provides HIPAA/GDPR/SOC2 compliance, 99.9% uptime, and flexible deployment options (cloud or VPC).
+- **Enterprise-Grade Features**: Supports 50+ unstructured file types, schema-based LLM extraction (no training required), enterprise-grade chunking/embedding, and flexible deployment (cloud or VPC) with HIPAA/GDPR/SOC2 compliance, 99.9% uptime, and dedicated SLAs.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T09:12:36.552972+05:30
+- Published: 2026-08-04T17:13:59.759773+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.llamaindex.ai/
+Original source: https://llamaindex.ai

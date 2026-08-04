@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-04T14:43:49.233686+05:30'
+collected_at: '2026-08-04T17:10:01.152002+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
-- scripts
 - shell
 - workflows
 stars: 542
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-04T14:43:49.233686+05:30'
-last_seen: '2026-08-04T14:43:49.233686+05:30'
-last_checked: '2026-08-04T14:43:49.233686+05:30'
+first_seen: '2026-08-04T17:10:01.152002+05:30'
+last_seen: '2026-08-04T17:10:01.152002+05:30'
+last_checked: '2026-08-04T17:10:01.152002+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **Architecture**: Self-hosted autonomous AI agent framework built entirely in n8n, inspired by OpenClaw, with adaptive RAG-powered memory and Skills via MCP templates.
 
-- **Capabilities**: Proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase, SearXNG, and Crawl4AI for data handling and web scraping.
+- **Capabilities**: Supports expert agents with delegated sub-agents, proactive task management, and media understanding; integrates with Supabase, SearXNG, and Crawl4AI.
 
-- **Technical Stack**: Shell-based repository leveraging n8n workflows, MCP templates for Skills, and OpenClaw-inspired modular design; last updated August 2026 with 542 stars and 105 forks.
+- **Deployment**: Single-setup script for self-hosting; written in Shell with dependencies on MCP, n8n, and related AI/agent frameworks.
 
 ## Why It Matters
 

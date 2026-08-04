@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-04T14:42:04.192537+05:30'
+collected_at: '2026-08-04T17:08:16.032400+05:30'
 published_at: '2026-08-04T07:59:33Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-04T14:42:04.192537+05:30'
-last_seen: '2026-08-04T14:42:04.192537+05:30'
-last_checked: '2026-08-04T14:42:04.192537+05:30'
+first_seen: '2026-08-04T17:08:16.032400+05:30'
+last_seen: '2026-08-04T17:08:16.032400+05:30'
+last_checked: '2026-08-04T17:08:16.032400+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding using multi-modal LLMs, enabling contextual chat with video content via Python implementation.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interact with video content via multi-modal embeddings and retrieval mechanisms.
 
-- **Key Features**: Supports hierarchical video chunking, multi-modal retrieval (text + visual), and dynamic context fusion for scalable long-video analysis.
+- **Multi-Modal Integration**: Combines visual, audio, and textual modalities using specialized encoders (e.g., CLIP for frames, Whisper for speech) to generate unified representations for downstream tasks.
 
-- **Performance & Integration**: Achieves state-of-the-art results on video QA benchmarks; optimized for multi-modal LLMs with modular design for extensibility.
+- **Efficiency & Scalability**: Optimizes long-video processing via hierarchical chunking (temporal segmentation) and dynamic retrieval to handle extended durations while maintaining low latency.
 
 ## Why It Matters
 

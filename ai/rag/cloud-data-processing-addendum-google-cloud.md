@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cloud.google.com/terms/data-processing-addendum/
-published_at: '2026-07-14T19:59:42.501364+05:30'
-collected_at: '2026-07-14T19:59:42.501376+05:30'
+published_at: '2026-08-04T17:17:16.505053+05:30'
+collected_at: '2026-08-04T17:17:16.505071+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cloud-data-processing-addendum-google-cloud
-first_seen: '2026-07-14T19:59:42.501376+05:30'
-last_seen: '2026-07-14T19:59:42.501376+05:30'
-last_checked: '2026-07-14T19:59:42.501376+05:30'
+first_seen: '2026-08-04T17:17:16.505071+05:30'
+last_seen: '2026-08-04T17:17:16.505071+05:30'
+last_checked: '2026-08-04T17:17:16.505071+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Processing & Compliance Framework**: Defines roles (Google as processor, Customer as controller/processor) and mandates compliance with **Applicable Privacy Laws** (e.g., EU GDPR, UK GDPR, Swiss FADP), with obligations detailed in Appendices (e.g., **Subject Matter of Processing**, **Specific Privacy Laws**).
+- **Roles & Compliance**: Google acts as a processor, while the customer is a controller/processor of Customer Personal Data (CD). Compliance with Applicable Privacy Laws (e.g., GDPR, UK GDPR, Swiss FADP) is mandated, with specific terms outlined in Appendix 3 for relevant jurisdictions.
 
-- **Security & Deletion Protocols**: Google commits to **technical/organizational measures** (encryption, access controls, incident response) per Appendix 2, with **180-day max deletion** post-termination (extendable under EU/UK/Swiss law), and **deferred deletion** for ongoing Terms.
+- **Data Deletion & Retention**: Customer can delete CD during/after the term, with Google complying within 180 days (or as required by law). Deferred deletion applies if the Agreement continues, ensuring CD is retained until term expiry.
 
-- **Subprocessor & Incident Management**: Customer must authorize Subprocessors (Section 11), while Google provides **incident notifications** (Section 7.2.1) and **security assistance** (Section 7.1.4) to meet breach obligations under Applicable Privacy Law.
+- **Security Measures & Incidents**: Google implements technical/organizational controls (e.g., encryption, access management) to protect CD. For Data Incidents, Google provides incident notifications, security documentation, and reasonable assistance to meet breach obligations under Applicable Privacy Laws.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T19:59:42.501364+05:30
+- Published: 2026-08-04T17:17:16.505053+05:30
 
 ## Related Tags
 

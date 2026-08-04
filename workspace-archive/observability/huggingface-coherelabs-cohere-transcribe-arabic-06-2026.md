@@ -1,6 +1,6 @@
 ---
 title: CohereLabs/cohere-transcribe-arabic-07-2026 · Hugging Face
-archive_category: automation-workflows
+archive_category: observability
 source_category: ai/rag
 source_url: https://huggingface.co/CohereLabs/cohere-transcribe-arabic-06-2026
 resource_id: huggingface:coherelabs/cohere-transcribe-arabic-06-2026
@@ -11,10 +11,8 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -24,7 +22,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Automation Workflows`
+- Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
@@ -33,17 +31,15 @@ selection_reason:
 
 ## Summary
 
-- **Model Release**: Cohere Transcribe Arabic is a new speech-to-text model optimized for Arabic language transcription, released by CohereLabs.
+- **Multilingual ASR Integration**: Cohere Transcribe Arabic leverages a unified multilingual automatic speech recognition (ASR) model, enabling seamless transcription across multiple languages, including Arabic, with enhanced accuracy and contextual understanding.
 
-- **Technical Focus**: The model leverages advanced deep learning techniques tailored for high-accuracy Arabic speech recognition, addressing dialectal and phonetic complexities.
-
-- **Deployment**: Available via Hugging Face, enabling integration into applications for real-time or batch transcription workflows.
+- **Optimized for Dialectal Arabic**: The model is fine-tuned for dialectal Arabic variations, improving transcription performance for regional accents and colloquial speech patterns common in North African, Levantine, and Gulf diale
 
 ## Use Cases
 
-- Local cron scheduling
-- n8n pipeline setups
-- OS task automations
+- Production trace tracking
+- LLM request cost audits
+- Latency profiling
 
 ## Source
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/Verba
-collected_at: '2026-08-04T01:35:31.112262+05:30'
+collected_at: '2026-08-04T17:13:21.917862+05:30'
 published_at: '2026-08-02T16:00:22Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: true
 created_at: '2023-07-28T16:53:42Z'
 pushed_at: '2026-06-08T09:25:18Z'
 resource_id: github:weaviate/verba
-first_seen: '2026-08-04T01:35:31.112262+05:30'
-last_seen: '2026-08-04T01:35:31.112262+05:30'
-last_checked: '2026-08-04T01:35:31.112262+05:30'
+first_seen: '2026-08-04T17:13:21.917862+05:30'
+last_seen: '2026-08-04T17:13:21.917862+05:30'
+last_checked: '2026-08-04T17:13:21.917862+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Verba is a Retrieval Augmented Generation (RAG) chatbot leveraging Weaviate as its vector database and retrieval engine, enabling contextual question answering with generative AI models.
-
-- **Python-Based Architecture**: The project is fully implemented in Python, utilizing Weaviate’s Python client (`weaviate-client`) for vector search and integration with generative models (e.g., LLMs) for response synthesis.
-
-- **Modular Design**: Supports customizable pipelines for document ingestion, embedding generation (via transformers or APIs), retrieval, and response generation, with extensible components for scalability and adaptability.
+- **Architecture**: Verba is a Retrieval-Augmented Generation (RAG) chatbot leveraging Weaviate as its vector database backend for efficient data retrieval and generation.
+- **Tech Stack**: Implemented in Python, Verba integrates with Weaviate’s vector search capabilities to enable context-aware responses.
+- **Deployment**: Last updated on 2026-08-02, the repository provides a scalable RAG solution with 7,714 stars and 850 forks.
 
 ## Why It Matters
 

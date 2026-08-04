@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-04T14:42:14.156795+05:30'
+collected_at: '2026-08-04T17:08:26.059746+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-04T14:42:14.156795+05:30'
-last_seen: '2026-08-04T14:42:14.156795+05:30'
-last_checked: '2026-08-04T14:42:14.156795+05:30'
+first_seen: '2026-08-04T17:08:26.059746+05:30'
+last_seen: '2026-08-04T17:08:26.059746+05:30'
+last_checked: '2026-08-04T17:08:26.059746+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG to support diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via a unified retrieval-augmentation pipeline.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by supporting retrieval-augmented generation across diverse modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), enabling unified querying over heterogeneous corpora.
 
-- **Modality-Agnostic Retrieval & Generation**: Implements a cross-modal retrieval mechanism (e.g., CLIP-based embeddings) and a modality-aware LLM adapter to handle heterogeneous data inputs seamlessly.
+- **ACL 2026 Oral-Presented Architecture**: Implements a scalable retrieval pipeline with modality-agnostic encoders and a unified indexing system, leveraging cross-modal attention mechanisms to dynamically fuse retrieved evidence during generation.
 
-- **ACL 2026 Oral Contribution**: Introduces a benchmark suite for evaluating RAG systems across modalities, with state-of-the-art performance on multi-modal QA and retrieval tasks.
+- **Open-Source Python Implementation**: Provides a modular, extensible codebase with pre-trained encoders, retrieval strategies, and evaluation tools, optimized for integration with LLMs while supporting custom modality-specific adapters.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-04T14:41:24.100974+05:30'
+collected_at: '2026-08-04T17:07:35.970156+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-04T14:41:24.100974+05:30'
-last_seen: '2026-08-04T14:41:24.100974+05:30'
-last_checked: '2026-08-04T14:41:24.100974+05:30'
+first_seen: '2026-08-04T17:07:35.970156+05:30'
+last_seen: '2026-08-04T17:07:35.970156+05:30'
+last_checked: '2026-08-04T17:07:35.970156+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implements RAG with VectorDB**: Utilizes embedding models and vector databases for retrieval-augmented generation (RAG), enabling efficient semantic search and knowledge retrieval from a personal knowledge base.
+- **Implements multiple AI integration patterns** including SSE streaming, Agent-based workflows, Knowledge Graph RAG, Function Calling, and historical message handling in a Java-based Spring AI architecture.
 
-- **Multi-modal AI Agent Framework**: Supports SSE (Server-Sent Events) streaming, function calling, and agent-based workflows, integrating image generation/understanding, historical message handling, and knowledge graph-based RAG.
+- **Supports multimodal AI processing** with capabilities for image generation, image understanding, and text embeddings using vector databases for efficient retrieval-augmented generation (RAG).
 
-- **Spring AI + Alibaba Cloud Integration**: Built on Spring AI with Alibaba Cloud services, leveraging their AI capabilities (e.g., embedding models, vector databases) for scalable, production-ready AI applications in Java.
+- **Leverages Alibaba Cloud services** for embedding generation, vector storage, and AI agent orchestration, with a modular design for extensibility across Java-based AI applications.
 
 ## Why It Matters
 

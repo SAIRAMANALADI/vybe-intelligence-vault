@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Subscription & Billing**: Recurring fees (monthly/annual) for Member Services are auto-charged on the same day of renewal; failed payments may revoke access until updated.
-- **License & Restrictions**: Non-exclusive, personal-use license; violations (e.g., sharing passwords, reverse-engineering) may terminate access without refund.
-- **Gift Memberships**: Prepaid, one-year access codes; non-transferable, non-refundable, and void after first use; recipients must have/activate a Medium account
+- **Subscription & Billing**: Recurring fees (monthly/annual) auto-renew unless canceled; payments processed via credit card, Apple Pay, etc., with no price protection/refunds for reductions. Failed payments may revoke access until updated.
+
+- **License & Restrictions**: Personal, non-commercial use only; Medium retains all rights. Violations (e.g., sharing passwords, reverse-engineering) terminate access without refund.
+
+- **Gift Memberships**: Prepaid, non-transferable codes redeemable for 1 y
 
 ## Use Cases
 

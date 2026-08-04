@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-08-04T14:47:48.562441+05:30'
-collected_at: '2026-08-04T14:47:48.562455+05:30'
+published_at: '2026-08-04T17:14:25.709264+05:30'
+collected_at: '2026-08-04T17:14:25.709278+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-04T14:47:48.562455+05:30'
-last_seen: '2026-08-04T14:47:48.562455+05:30'
-last_checked: '2026-08-04T14:47:48.562455+05:30'
+first_seen: '2026-08-04T17:14:25.709278+05:30'
+last_seen: '2026-08-04T17:14:25.709278+05:30'
+last_checked: '2026-08-04T17:14:25.709278+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Native agent-driven development**: GitHub Copilot app is a cross-platform (macOS, Windows, Linux) desktop application enabling agent-driven workflows directly integrated with GitHub issues, PRs, and repositories, supporting parallel sessions with isolated workspaces for branches, files, and conversations.
+- **Native Agent-Driven Development**: GitHub Copilot app is a cross-platform (macOS, Windows, Linux) desktop tool for agent-driven development, integrating natively with GitHub issues, PRs, and repositories for seamless workflow automation.
 
-- **Built-in validation & automation**: Features include in-app diff inspection, terminal checks, PR merging, and scheduled workflows (e.g., "Morning triage") with auto-run capabilities, while supporting custom skills (e.g., Impeccable for design) and MCP server integrations for extended functionality.
+- **Isolated Session Workspaces**: Supports parallel, isolated agent sessions with built-in validation (diffs, in-app browser previews, terminal checks) and automated workflows (e.g., scheduled issue triage) via customizable skills and MCP server integration.
 
-- **Tiered pricing model**: Offers Free ($0), Pro ($10/month), Pro+ ($39/month), and Max ($100/month) plans, with incremental features like premium model access, audit logs, and higher usage credits, all compatible with existing Copilot plans or custom API keys.
+- **Tiered Pricing & Features**: Offers Free ($0), Pro ($10/month), Pro+ ($39/month), and Max ($100/month) plans, with Pro+ and Max providing premium models (e.g., Opus), higher usage limits, and priority access to new features.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-04T14:47:48.562441+05:30
+- Published: 2026-08-04T17:14:25.709264+05:30
 
 ## Related Tags
 

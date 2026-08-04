@@ -1,23 +1,22 @@
 ---
 title: Get Started | DataCamp
 archive_category: agent-frameworks
-source_category: ai/rag
+source_category: ai/agents
 source_url: https://app.datacamp.com/learn/courses/building-ai-agents-with-haystack
 resource_id: blog:get-started-datacamp
-local_vault_path: ai/rag/get-started-datacamp.md
+local_vault_path: ai/agents/get-started-datacamp.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- rag
 - reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Get Started | DataCamp
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
 - **Authentication Methods**: Supports email/password login, Single Sign-On (SSO), and OAuth via Google, Microsoft, LinkedIn, Facebook, and Apple.
 - **Session Persistence**: "Remember me" option enables persistent sessions via secure cookies.
-- **Data Compliance**: Login requires acceptance of Terms of Use, Privacy Policy, and data storage in the USA under GDPR/CCPA frameworks.
+- **Data Compliance**: Terms of Use and Privacy Policy require user acceptance; data stored in USA under GDPR/CCPA considerations.
 
 ## Use Cases
 
@@ -49,4 +48,4 @@ Original source URL: https://app.datacamp.com/learn/courses/building-ai-agents-w
 
 ## Local Vault File
 
-Path: [get-started-datacamp.md](../../ai/rag/get-started-datacamp.md)
+Path: [get-started-datacamp.md](../../ai/agents/get-started-datacamp.md)

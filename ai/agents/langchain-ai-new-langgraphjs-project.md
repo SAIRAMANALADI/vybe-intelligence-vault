@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/new-langgraphjs-project
-collected_at: '2026-08-04T14:44:19.361712+05:30'
+collected_at: '2026-08-04T17:10:31.200362+05:30'
 published_at: '2026-08-03T22:33:00Z'
 tags:
 - agents
 - github-repo
 - typescript
-- workflows
 stars: 73
 language: TypeScript
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-09-17T00:58:59Z'
 pushed_at: '2026-08-03T22:33:00Z'
 resource_id: github:langchain-ai/new-langgraphjs-project
-first_seen: '2026-08-04T14:44:19.361712+05:30'
-last_seen: '2026-08-04T14:44:19.361712+05:30'
-last_checked: '2026-08-04T14:44:19.361712+05:30'
+first_seen: '2026-08-04T17:10:31.200362+05:30'
+last_seen: '2026-08-04T17:10:31.200362+05:30'
+last_checked: '2026-08-04T17:10:31.200362+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Project Template**: Empty starter template for LangGraph projects in TypeScript, designed for rapid initialization of LangGraph applications.
-
-- **Metadata**: 73 stars, 89 forks, last updated 2026-08-03; categorized under `langgraph`, `langgraph-js`, and `langgraph-template`.
-
-- **Purpose**: Provides a minimal foundation for building LangGraph-based workflows or agents in JavaScript/TypeScript environments.
+- **Project Template**: Empty starter repository for initializing LangGraph projects in TypeScript, designed as a minimal template for LangGraph.js applications.
+- **Metadata**: 73 stars, 89 forks, last updated on 2026-08-03; categorized under `langgraph`, `langgraph-js`, and `langgraph-template`.
+- **Structure**: TypeScript-based, intended for rapid prototyping or integration with LangChain ecosystem tools.
 
 ## Why It Matters
 

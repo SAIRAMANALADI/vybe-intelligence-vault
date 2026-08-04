@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-04T14:40:44.103549+05:30'
+collected_at: '2026-08-04T17:06:55.961841+05:30'
 published_at: '2026-08-01T15:12:46Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1486
 language: JavaScript
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-04T14:40:44.103549+05:30'
-last_seen: '2026-08-04T14:40:44.103549+05:30'
-last_checked: '2026-08-04T14:40:44.103549+05:30'
+first_seen: '2026-08-04T17:06:55.961841+05:30'
+last_seen: '2026-08-04T17:06:55.961841+05:30'
+last_checked: '2026-08-04T17:06:55.961841+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM inference without proprietary APIs or "black box" abstractions.
+- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using **JavaScript**, leveraging **node-llama-cpp** for local LLM integration without external black-box services.
 
-- **Core Components**: Covers end-to-end pipeline including embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval augmentation, and context-augmented generation with a focus on transparency.
+- **Core Components Exposed**: Implements and explains **embeddings generation**, **vector search**, **document retrieval**, and **context-augmented generation** to provide a transparent understanding of the RAG workflow.
 
-- **Educational Focus**: Targets developers seeking deep technical understanding of RAG architectures, with modular examples and no reliance on managed services (e.g., Pinecone, Weaviate) for vector storage or retrieval.
+- **Educational Focus**: Designed as a **tutorial repository** with practical examples, covering **AI agents**, **RAG chatbots**, and **pipeline optimization** for developers seeking hands-on, low-level RAG comprehension.
 
 ## Why It Matters
 

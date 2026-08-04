@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-04T14:42:14.186175+05:30'
+collected_at: '2026-08-04T17:08:26.053922+05:30'
 published_at: '2026-08-03T10:33:50Z'
 tags:
 - agents
 - github-repo
 - rag
+- scripts
 - unknown
 stars: 832
 language: Unknown
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-04T14:42:14.186175+05:30'
-last_seen: '2026-08-04T14:42:14.186175+05:30'
-last_checked: '2026-08-04T14:42:14.186175+05:30'
+first_seen: '2026-08-04T17:08:26.053922+05:30'
+last_seen: '2026-08-04T17:08:26.053922+05:30'
+last_checked: '2026-08-04T17:08:26.053922+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and reasoning frameworks.
-- **ACL 2026 KnowFM-Aligned**: Specifically tailored to the ACL 2026 Knowledge Foundation Models (KnowFM) track, emphasizing deep research methodologies and agentic AI systems.
-- **Active Maintenance**: Last updated in August 2026, ensuring inclusion of recent advancements in deep research agents, RAG architectures, and reasoning-based LLM applications.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and their applications in deep research tasks.
+
+- **ACL 2026 KnowFM Integration**: Aligns with the ACL 2026 KnowFM initiative, providing structured access to resources, methodologies, and advancements in knowledge-focused multi-agent systems for research automation.
+
+- **High-Activity Repository**: Maintains active development with 832 stars, 68 forks, and recent updates (2026-08-03), reflecting a rapidly evolving field with contributions from the research community.
 
 ## Why It Matters
 

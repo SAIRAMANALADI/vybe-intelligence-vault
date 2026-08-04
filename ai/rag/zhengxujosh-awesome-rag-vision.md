@@ -4,14 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-04T14:41:34.147337+05:30'
+collected_at: '2026-08-04T17:07:45.988371+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 339
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-04T14:41:34.147337+05:30'
-last_seen: '2026-08-04T14:41:34.147337+05:30'
-last_checked: '2026-08-04T14:41:34.147337+05:30'
+first_seen: '2026-08-04T17:07:45.988371+05:30'
+last_seen: '2026-08-04T17:07:45.988371+05:30'
+last_checked: '2026-08-04T17:07:45.988371+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A structured compilation of advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including state-of-the-art methods, frameworks, and research papers.
-
-- **Scope & Focus**: Encompasses **multimodal RAG** approaches integrating vision-language models (e.g., CLIP, BLIP, LLaVA) with retrieval mechanisms to enhance tasks like image captioning, visual question answering (VQA), and scene understanding.
-
-- **Dynamic Repository**: Actively maintained with updates as of **July 2026**, featuring contributions from the CV and NLP communities, including benchmarks, datasets, and tools for evaluating RAG-based vision systems.
+- **Curated Resource**: A structured collection of advanced RAG techniques specifically tailored for Computer Vision applications.
+- **Metadata**: 339 stars, 9 forks, last updated July 15, 2026.
+- **Focus**: Encompasses retrieval-augmented generation methodologies optimized for vision-based tasks.
 
 ## Why It Matters
 

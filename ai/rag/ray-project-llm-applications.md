@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-04T14:42:05.198283+05:30'
+collected_at: '2026-08-04T17:08:16.034068+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -22,9 +24,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-04T14:42:05.198283+05:30'
-last_seen: '2026-08-04T14:42:05.198283+05:30'
-last_checked: '2026-08-04T14:42:05.198283+05:30'
+first_seen: '2026-08-04T17:08:16.034068+05:30'
+last_seen: '2026-08-04T17:08:16.034068+05:30'
+last_checked: '2026-08-04T17:08:16.034068+05:30'
 health_score: 100
 ---
 
@@ -32,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
-- **Fine-Tuning & Serving Integration**: Provides Jupyter Notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve, with examples leveraging Anyscale for scalable compute.
-- **End-to-End Production Guide**: Covers full-stack LLM application development, including data preprocessing, model serving, inference optimization, and monitoring for deployment-ready RAG systems.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computing, integrating Llama2, OpenAI, and Anyscale models with optimized serving and fine-tuning techniques.
+- **Modular Architecture**: Implements a scalable Jupyter Notebook-based framework leveraging Ray’s parallel processing for efficient LLM inference, retrieval, and post-processing in end-to-end applications.
+- **Benchmarking & Optimization**: Provides tools for evaluating LLM performance (e.g., latency, throughput) and fine-tuning strategies (e.g., LoRA, quantization) to deploy high-throughput RAG systems in production environments.
 
 ## Why It Matters
 

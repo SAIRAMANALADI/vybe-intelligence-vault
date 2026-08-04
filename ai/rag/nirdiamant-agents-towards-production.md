@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-08-04T14:41:59.153095+05:30'
+collected_at: '2026-08-04T17:08:11.053858+05:30'
 published_at: '2026-08-04T08:37:04Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 21235
 language: Jupyter Notebook
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-07-31T21:07:09Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-08-04T14:41:59.153095+05:30'
-last_seen: '2026-08-04T14:41:59.153095+05:30'
-last_checked: '2026-08-04T14:41:59.153095+05:30'
+first_seen: '2026-08-04T17:08:11.053858+05:30'
+last_seen: '2026-08-04T17:08:11.053858+05:30'
+last_checked: '2026-08-04T17:08:11.053858+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials covering the entire lifecycle of building production-grade GenAI agents, from initial prototyping to enterprise deployment.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
 
-- **Multi-Framework & Tooling Integration**: Focuses on key frameworks (e.g., LangGraph) and tools (e.g., MCP, RAG, LLM orchestration) for agentic AI, multi-agent systems, and MLOps, with emphasis on observability and scalability.
+- **Multi-Technology Stack**: Integrates key frameworks/tools including LangGraph, MCP, RAG, and multi-agent systems, with observability and MLOps considerations for scalable AI agent deployment.
 
-- **Python & Jupyter Notebook-Based**: Delivered as executable Jupyter Notebooks, enabling hands-on learning with practical implementations in Python for rapid prototyping and deployment.
+- **Python & Jupyter Notebook-Based**: Delivered as executable Jupyter Notebooks, emphasizing hands-on learning in Python for agentic AI, LLM integration, and deployment workflows.
 
 ## Why It Matters
 

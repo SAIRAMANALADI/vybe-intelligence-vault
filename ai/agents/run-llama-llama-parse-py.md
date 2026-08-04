@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-py
-collected_at: '2026-08-03T23:02:54.647279+05:30'
-published_at: '2026-08-01T16:32:53Z'
+collected_at: '2026-08-04T17:13:53.258626+05:30'
+published_at: '2026-08-03T18:18:44Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - models
 - python
 - workflows
-stars: 54
+stars: 55
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-11-06T21:59:30Z'
-pushed_at: '2026-07-31T06:32:05Z'
+pushed_at: '2026-08-03T23:11:40Z'
 resource_id: github:run-llama/llama-parse-py
-first_seen: '2026-08-03T23:02:54.647279+05:30'
-last_seen: '2026-08-03T23:02:54.647279+05:30'
-last_checked: '2026-08-03T23:02:54.647279+05:30'
+first_seen: '2026-08-04T17:13:53.258626+05:30'
+last_seen: '2026-08-04T17:13:53.258626+05:30'
+last_checked: '2026-08-04T17:13:53.258626+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK for Cloud-Based Document Parsing**: Provides OCR and structured parsing capabilities via LlamaParse, enabling cloud-based document processing and information extraction.
-
-- **Key Features**: Supports document parsing, OCR, and structured data extraction; optimized for integration with AI agents and document processing workflows.
-
-- **Metadata**: 54 stars, 15 forks, last updated 2026-08-01; part of the Llama ecosystem for document agents.
+- **Python SDK** for cloud-based OCR and document parsing, optimized for integration with LlamaParse.
+- Supports **information extraction** and structured parsing of documents via cloud processing.
+- Enables **document-agent** workflows with topics including `llamaparse`, `ocr`, and `parsing`.
 
 ## Why It Matters
 
@@ -44,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 54
+- Stars: 55
 - Forks: 15
 - Language: Python
 - Topics: agent, agents, document-agent, document-processing, information-extraction, llamaparse, ocr, parser, parsing
-- Last Updated: 2026-08-01T16:32:53Z
+- Last Updated: 2026-08-03T18:18:44Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-06T21:59:30Z
-- Pushed At: 2026-07-31T06:32:05Z
+- Pushed At: 2026-08-03T23:11:40Z
 
 ## Possible Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/
-published_at: '2026-08-04T14:44:49.699359+05:30'
-collected_at: '2026-08-04T14:44:49.699371+05:30'
+published_at: '2026-08-04T17:11:01.787333+05:30'
+collected_at: '2026-08-04T17:11:01.787341+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:haystack-haystack
-first_seen: '2026-08-04T14:44:49.699371+05:30'
-last_seen: '2026-08-04T14:44:49.699371+05:30'
-last_checked: '2026-08-04T14:44:49.699371+05:30'
+first_seen: '2026-08-04T17:11:01.787341+05:30'
+last_seen: '2026-08-04T17:11:01.787341+05:30'
+last_checked: '2026-08-04T17:11:01.787341+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-grade AI agents with full visibility into retrieval, reasoning, memory, and tool integration, supporting hybrid retrieval and self-correction loops.
+- **Modular AI Orchestration**: Haystack 3.0 provides a transparent, modular framework for building production-grade AI agents with full visibility into retrieval, reasoning, memory, and tool integration, supporting components like OpenAI, Hugging Face, and vector databases (Weaviate, Pinecone) without vendor lock-in.
 
-- **Vendor-Neutral Integration**: Supports seamless integration with major AI models (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) via an open architecture, avoiding vendor lock-in.
+- **Enterprise-Grade Deployment**: Supports scalable, cloud-agnostic pipelines with Kubernetes compatibility, built-in reliability, observability, and enterprise features like private support, deployment guides, and secure audit controls for on-prem or cloud deployments.
 
-- **Enterprise-Ready Deployment**: Offers cloud-agnostic, Kubernetes-compatible pipelines with built-in reliability, observability, and scalable deployment options, from open-source to enterprise-grade solutions.
+- **Multimodal & Agentic Capabilities**: Enables advanced use cases including multimodal AI (text, image, audio), conversational AI, content generation via Jinja-2 templates, and production-ready AI agents with standardized tool calling and multi-step decision flows.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T14:44:49.699359+05:30
+- Published: 2026-08-04T17:11:01.787333+05:30
 
 ## Related Tags
 

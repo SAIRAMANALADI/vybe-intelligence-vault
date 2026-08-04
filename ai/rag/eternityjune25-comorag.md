@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-04T14:42:09.183876+05:30'
+collected_at: '2026-08-04T17:08:20.993018+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-04T14:42:09.183876+05:30'
-last_seen: '2026-08-04T14:42:09.183876+05:30'
-last_checked: '2026-08-04T14:42:09.183876+05:30'
+first_seen: '2026-08-04T17:08:20.993018+05:30'
+last_seen: '2026-08-04T17:08:20.993018+05:30'
+last_checked: '2026-08-04T17:08:20.993018+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Memory Organization**: Introduces a memory-optimized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and dynamic context integration.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
 
-- **AAAI 2026 Poster**: Presented as a high-impact research contribution at AAAI 2026, highlighting advancements in retrieval-augmented generation (RAG) for complex, multi-turn reasoning tasks.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended interactions, leveraging hierarchical memory organization for efficient state tracking.
 
-- **Python Implementation**: Open-source Python-based system with modular design for extensibility, supporting efficient memory indexing and retrieval for long-form narrative understanding.
+- **AAAI 2026 Contribution**: Proposes a novel RAG variant optimized for long-form narrative reasoning, validated through empirical benchmarks demonstrating superior performance in memory-intensive reasoning tasks.
 
 ## Why It Matters
 

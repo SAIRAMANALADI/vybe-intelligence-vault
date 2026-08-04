@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-08-04T14:40:54.176710+05:30'
+collected_at: '2026-08-04T17:07:06.001534+05:30'
 published_at: '2026-08-02T00:39:45Z'
 tags:
 - github-repo
@@ -12,6 +12,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 stars: 86
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-08-02T01:14:47Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-08-04T14:40:54.176710+05:30'
-last_seen: '2026-08-04T14:40:54.176710+05:30'
-last_checked: '2026-08-04T14:40:54.176710+05:30'
+first_seen: '2026-08-04T17:07:06.001534+05:30'
+last_seen: '2026-08-04T17:07:06.001534+05:30'
+last_checked: '2026-08-04T17:07:06.001534+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements a Retrieval-Augmented Generation (RAG) pipeline using FastAPI for document ingestion, vector search, and AI chatbot interactions, with support for Docker and Kubernetes deployments.
-
-- **Key Components**: Integrates a vector database (likely via embeddings) with an LLM backend (e.g., Ollama) for contextual document retrieval and response generation.
-
-- **Deployment**: Provides a template for scalable AI document management, optimized for cloud environments (STACKIT) with modular Python-based microservices.
+- **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** backend.
+- **Tech Stack**: Built with **Python**, **FastAPI**, **Ollama** (LLM), and integrates **vector databases** (e.g., Chroma, Weaviate) for semantic search; supports **Docker** and **Kubernetes** for deployment.
+- **Features**: Pre-configured for **RAG workflows**, includes **document ingestion**, **embedding generation**, and **chatbot API endpoints**; optimized for **STACKIT Cloud** integration.
 
 ## Why It Matters
 

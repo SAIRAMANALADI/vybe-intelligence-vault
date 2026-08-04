@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-04T14:40:34.101975+05:30'
-published_at: '2026-08-02T10:26:59Z'
+collected_at: '2026-08-04T17:06:46.001252+05:30'
+published_at: '2026-08-04T10:12:29Z'
 tags:
 - github-repo
 - hackernews
@@ -13,8 +13,8 @@ tags:
 - models
 - openai
 - rag
-- reddit
-stars: 898
+- workflows
+stars: 899
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-04T14:40:34.101975+05:30'
-last_seen: '2026-08-04T14:40:34.101975+05:30'
-last_checked: '2026-08-04T14:40:34.101975+05:30'
+first_seen: '2026-08-04T17:06:46.001252+05:30'
+last_seen: '2026-08-04T17:06:46.001252+05:30'
+last_checked: '2026-08-04T17:06:46.001252+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: `microsoft/rag-time` is a 5-week structured learning program focused on mastering Retrieval-Augmented Generation (RAG) systems, covering topics from indexing to hybrid search and responsible AI practices.
-
-- **Technical Stack**: Utilizes Jupyter Notebooks with integrations for Azure, OpenAI APIs, and vector search techniques (HNSW, scalar/binary quantization) alongside Matryoshka representation learning for efficient multimodal retrieval.
-
-- **Key Features**: Includes hybrid search (vector + keyword), multimodal RAG, and responsible AI guidelines; optimized for deployment in Visual Studio Code with Azure cloud support.
+- **RAG Time**: A structured 5-week curriculum for mastering Retrieval-Augmented Generation (RAG) systems, covering hybrid search, quantization (binary/scalar), and indexing techniques (HNSW) with hands-on Jupyter Notebooks.
+- **Key Technologies**: Integrates Azure, OpenAI APIs, Matryoshka representation learning, and multimodal RAG pipelines, emphasizing responsible AI practices in generative models.
+- **Tools & Workflow**: Designed for Visual Studio Code, featuring keyword search, vector search, and Azure-based deployment workflows for scalable RAG applications.
 
 ## Why It Matters
 
@@ -45,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 898
-- Forks: 317
+- Stars: 899
+- Forks: 318
 - Language: Jupyter Notebook
 - Topics: ai, azure, binary-quantization, generative-ai, gpt, hnsw, hybrid-search, indexing, keyword-search, language-model, llm, matryoshka-representation-learning, multimodal, openai, rag, responsible-ai, retrieval-augmented-generation, scalar-quantization, vector-search, visual-studio-code
-- Last Updated: 2026-08-02T10:26:59Z
+- Last Updated: 2026-08-04T10:12:29Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-11T17:25:02Z

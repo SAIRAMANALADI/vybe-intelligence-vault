@@ -13,13 +13,14 @@ collected_at: '2026-08-04T14:38:30.737891+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:rosaiclabs-atom-rtl-and-32-tile-amx-trying-to-piec
 first_seen: '2026-08-04T14:38:30.737891+05:30'
 last_seen: '2026-08-04T14:38:30.737891+05:30'
 last_checked: '2026-08-04T14:38:30.737891+05:30'
 health_score: 100
 ---
+
 
 # RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle
 

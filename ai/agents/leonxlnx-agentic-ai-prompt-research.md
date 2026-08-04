@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-04T14:43:29.251812+05:30'
+collected_at: '2026-08-04T17:09:41.103286+05:30'
 published_at: '2026-08-04T07:52:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-04T14:43:29.251812+05:30'
-last_seen: '2026-08-04T14:43:29.251812+05:30'
-last_checked: '2026-08-04T14:43:29.251812+05:30'
+first_seen: '2026-08-04T17:09:41.103286+05:30'
+last_seen: '2026-08-04T17:09:41.103286+05:30'
+last_checked: '2026-08-04T17:09:41.103286+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Analyzes prompt patterns, agent coordination mechanisms, and security classifications for autonomous AI-driven coding workflows.
-- **Prompt Engineering & System Prompts**: Deconstructs reconstructed prompt patterns used in agentic AI systems, focusing on efficiency and reliability in code generation.
-- **Security & Research Framework**: Evaluates security classifications and research methodologies for agentic AI assistants, including integration with tools like Claude.
+- **Prompt Pattern Reconstruction**: Analyzes and deconstructs system prompts used in agentic AI coding assistants (e.g., Claude) to identify reusable prompt patterns for task decomposition, tool integration, and multi-agent coordination.
+
+- **Agent Coordination Mechanisms**: Investigates protocols for inter-agent communication, task delegation, and conflict resolution in agentic AI systems, including hierarchical vs. peer-to-peer architectures.
+
+- **Security Classification Framework**: Proposes a taxonomy for classifying risks in agentic AI (e.g., prompt injection, data leakage) and outlines mitigation strategies for secure deployment in coding workflows.
 
 ## Why It Matters
 
