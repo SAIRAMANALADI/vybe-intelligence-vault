@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-92%2C032-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-92%2C074-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--04-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **92,032 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **92,074 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -197,8 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 92,032 files</p>
-        <p><b>Last Update:</b> 2026-08-04 09:46 IST</p>
+        <p><b>Total Vault Size:</b> 92,074 files</p>
+        <p><b>Last Update:</b> 2026-08-04 13:12 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[LLMs reward expertise](ai/community/llms-reward-expertise.md)** • <kbd>+403 pts</kbd> • Rank: <kbd>+4</kbd>
-- 🔼 **[Prevent cognitive debt by manually retyping LLM-generated code](ai/community/prevent-cognitive-debt-by-manually-retyping-llm-ge.md)** • <kbd>+61 pts</kbd>
-- 🔼 **[Bonsai: Janestreet's UI Library](ai/community/janestreet-bonsai.md)** • <kbd>+36 pts</kbd>
-- 🔼 **[AirLLM 70B inference with single 4GB GPU](ai/trending/lyogavin-airllm.md)** • <kbd>+22 pts</kbd>
-- 🔼 **[Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](ai/community/launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud.md)** • <kbd>+22 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[GitHub Copilot app · GitHub](ai/agents/features-ai.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Google Terms of Service – Privacy & Terms – Google](ai/rag/google-terms-of-service-privacy-terms-google.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[Quickstart - Pinecone Docs](ai/rag/quickstart-pinecone-docs.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[cli/cli](ai/rag/cli-cli.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[Privacy Policy – Privacy & Terms – Google](ai/rag/privacy-policy-privacy-terms-google.md)** • Rank: <kbd>+5</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Windows XP 2002 for the Itanium: Unbridled rage](ai/community/windows-xp-2002-for-the-itanium-unbridled-rage.md)** • Score: `65`
-- 🆕 **[There Will Come Soft Rains (1950) [pdf]](ai/community/there-will-come-soft-rains-1950-pdf.md)** • Score: `53`
-- 🆕 **[That time when I failed the Microsoft interview](ai/community/that-time-when-i-failed-the-microsoft-interview.md)** • Score: `13`
-- 🆕 **[Neo4j - YouTube](ai/rag/neo4j-youtube.md)** • Score: `0`
-- 🆕 **[Sign in - Google Accounts](ai/resources/sign-in-google-accounts.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[SQLite Critical CVEs or LLM Slop?](ai/community/sqlite-critical-cves-or-llm-slop.md)**
-- 💤 **[DDoS against Norwegian government IT infrastructure – status](ai/community/ddos-against-norwegian-government-it-infrastructur.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
