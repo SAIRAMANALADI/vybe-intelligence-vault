@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-08-04T20:16:35.010398+05:30'
-collected_at: '2026-08-04T20:16:35.010412+05:30'
+published_at: '2026-08-04T22:41:18.502858+05:30'
+collected_at: '2026-08-04T22:41:18.502868+05:30'
 tags:
 - agents
 - benchmark
@@ -17,12 +17,13 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-08-04T20:16:35.010412+05:30'
-last_seen: '2026-08-04T20:16:35.010412+05:30'
-last_checked: '2026-08-04T20:16:35.010412+05:30'
+first_seen: '2026-08-04T22:41:18.502868+05:30'
+last_seen: '2026-08-04T22:41:18.502868+05:30'
+last_checked: '2026-08-04T22:41:18.502868+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Resemble AI** provides a suite of **multimodal deepfake detection and verification tools**, including **Resemble Detect** for real-time deepfake monitoring, **Resemble Watermarker** for media authentication, and **Resemble Identity** for biometric verification.
+- **Resemble AI** provides a suite of **multimodal deepfake detection and protection tools**, including **Resemble Detect** for real-time deepfake monitoring, **Resemble Identity** for biometric verification, and **Resemble Watermarker** for media authentication.
 
-- **Open-source RAG frameworks** like **Cognita (Truefoundry)**, **Verba (Weaviate)**, and **LlamaIndex** offer modular architectures for **Retrieval-Augmented Generation (RAG)**, supporting document ingestion, vector DB integration, and LLM deployment for AI-native applications.
+- **Top open-source RAG repositories** include **Cognita** (Truefoundry) for modular RAG pipelines, **Verba** (Weaviate) for user-friendly RAG applications, and **LlamaIndex** for scalable data indexing and retrieval in generative AI workflows.
 
-- **GitHub repositories** such as **System Design Primer** and **Realworld** provide foundational resources for **scalable AI system design** and **full-stack RAG implementations**, with active community support and extensive documentation.
+- **Resemble AI’s ecosystem** supports **voice agents, KYC verification, and executive impersonation detection**, with benchmarks, SDKs, and Chrome extensions for browser-based deepfake scanning.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T20:16:35.010398+05:30
+- Published: 2026-08-04T22:41:18.502858+05:30
 
 ## Related Tags
 
@@ -58,6 +59,7 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 
 ## Source

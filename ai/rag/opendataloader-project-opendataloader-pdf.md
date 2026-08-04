@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/opendataloader-project/opendataloader-pdf
-collected_at: '2026-08-04T20:12:34.466663+05:30'
-published_at: '2026-08-04T14:37:02Z'
+collected_at: '2026-08-04T22:37:22.775584+05:30'
+published_at: '2026-08-04T16:39:19Z'
 tags:
 - github-repo
 - java
 - rag
-- workflows
 stars: 28159
 language: Java
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-05-13T05:48:02Z'
 pushed_at: '2026-08-04T12:33:55Z'
 resource_id: github:opendataloader-project/opendataloader-pdf
-first_seen: '2026-08-04T20:12:34.466663+05:30'
-last_seen: '2026-08-04T20:12:34.466663+05:30'
-last_checked: '2026-08-04T20:12:34.466663+05:30'
+first_seen: '2026-08-04T22:37:22.775584+05:30'
+last_seen: '2026-08-04T22:37:22.775584+05:30'
+last_checked: '2026-08-04T22:37:22.775584+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Java-based PDF Parser**: Open-source tool designed to extract and convert PDF content into AI-ready formats (HTML, JSON, Markdown) with OCR support for accessibility.
-- **Accessibility & Structured Extraction**: Supports tagged PDFs, PDF/UA compliance, and bounding-box detection for tables, enabling automated document accessibility and data extraction.
-- **Multi-format Output & RAG Integration**: Converts PDFs to structured formats (HTML/JSON/Markdown) for AI pipelines, including Retrieval-Augmented Generation (RAG) workflows.
+- **Java-based PDF Parser**: Open-source tool designed to extract and structure data from PDFs for AI applications, supporting formats like HTML, JSON, Markdown, and bounding-box annotations.
+
+- **Accessibility & OCR Integration**: Implements PDF accessibility standards (e.g., PDF/UA, WCAG) and includes OCR for scanned/non-textual content, enabling automated conversion of inaccessible PDFs into AI-ready formats.
+
+- **Advanced Features**: Supports tagged PDFs, table extraction, and Rag (Retrieval-Augmented Generation) compatibility, optimized for document parsing in AI pipelines.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 2687
 - Language: Java
 - Topics: a11y, accessibility, ai, bounding-box, document-parsing, eaa, html, json, markdown, ocr, ocr-recognition, pdf, pdf-accessibility, pdf-converter, pdf-extraction, pdf-parser, pdf-ua, rag, tables, tagged-pdf
-- Last Updated: 2026-08-04T14:37:02Z
+- Last Updated: 2026-08-04T16:39:19Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-13T05:48:02Z

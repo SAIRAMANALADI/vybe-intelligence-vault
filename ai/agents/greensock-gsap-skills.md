@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-08-04T20:14:29.594774+05:30'
-published_at: '2026-08-04T13:32:02Z'
+collected_at: '2026-08-04T22:39:17.875581+05:30'
+published_at: '2026-08-04T16:40:51Z'
 tags:
 - agents
 - animation
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - unknown
 - workflows
-stars: 13009
+stars: 13018
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-07-29T17:36:08Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-08-04T20:14:29.594774+05:30'
-last_seen: '2026-08-04T20:14:29.594774+05:30'
-last_checked: '2026-08-04T20:14:29.594774+05:30'
+first_seen: '2026-08-04T22:39:17.875581+05:30'
+last_seen: '2026-08-04T22:39:17.875581+05:30'
+last_checked: '2026-08-04T22:39:17.875581+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skill Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration to optimize AI agent coding efficiency.
-- **Technical Specifications**: Repository includes curated examples and documentation to standardize GSAP usage across AI-driven animation workflows.
-- **Metadata**: 13,009 stars, 772 forks, last updated 2026-08-04; language unspecified, no additional topics listed.
+- **GSAP AI Skills Repository**: Official training module for AI agents to master GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
+- **Technical Specifications**: Designed for AI-driven coding workflows, ensuring correct GSAP implementation with optimized performance and scalability.
+- **Metadata**: 13,018 stars, 773 forks, last updated 2026-08-04; language unspecified, no topics listed.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 13009
-- Forks: 772
+- Stars: 13018
+- Forks: 773
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-04T13:32:02Z
+- Last Updated: 2026-08-04T16:40:51Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

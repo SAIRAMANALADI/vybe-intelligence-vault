@@ -3,7 +3,7 @@ title: 'tpl/crypto: Add crypto.Hash · gohugoio/hugoDocs@1bb6f5e · GitHub'
 archive_category: model-providers
 source_category: ai/resources
 source_url: https://github.com/gohugoio/hugoDocs/commit/1bb6f5eb0b1387b8aaa51776b5761cfc7829c028
-resource_id: github:gohugoio/hugodocs
+resource_id: github:gohugoio/hugodocs-7e51af26
 local_vault_path: ai/resources/gohugoio-hugodocs.md
 quality_score: 70
 archive_score: 77

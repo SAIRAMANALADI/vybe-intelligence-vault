@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cohere.com/terms-of-use
-published_at: '2026-08-03T20:58:35.529129+05:30'
-collected_at: '2026-08-03T20:58:35.529141+05:30'
+published_at: '2026-08-04T22:44:18.946891+05:30'
+collected_at: '2026-08-04T22:44:18.946903+05:30'
 tags:
 - agents
 - benchmark
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:terms-of-use-cohere
-first_seen: '2026-08-03T20:58:35.529141+05:30'
-last_seen: '2026-08-03T20:58:35.529141+05:30'
-last_checked: '2026-08-03T20:58:35.529141+05:30'
+first_seen: '2026-08-04T22:44:18.946903+05:30'
+last_seen: '2026-08-04T22:44:18.946903+05:30'
+last_checked: '2026-08-04T22:44:18.946903+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Binding Agreement & User Representations**: By accessing/using the Cohere Solution, users warrant legal capacity, truthful data submission, and compliance with Terms of Use; corporate entities must have authority to bind them. Direct competitors are prohibited without prior written consent.
+- **Licensing & Data Rights**: Users grant Cohere a **non-exclusive, worldwide, royalty-free, irrevocable, sublicensable** license to access, process, store, and transmit Customer Data (including API/Finetuning Data) for service provision, compliance, and model improvement, with **no sharing of custom models** but possible sharing of finetuning data with third parties under their terms.
 
-- **Data Rights & Third-Party Sharing**: Cohere retains a global, royalty-free license to access, process, and share **Customer Data** (including API/Finetuning Data) with third parties for service provision, benchmarking, and model improvements, though custom models are not shared.
+- **User Account & Liability**: Users must maintain secure credentials, are solely responsible for all actions under their account, and acknowledge that Cohere may **disable accounts** or take security measures (e.g., password changes) without liability for unauthorized access by third parties.
 
-- **Subscription & Payment Terms**: Subscription Orders require email confirmation and a processed **Subscription Agreement**; payment processing is subject to third-party Payment Processor policies, with Cohere reserving the right to decline orders or require additional verification.
+- **Competitive Restrictions & Changes**: Direct competitors are **prohibited from accessing the Cohere Solution** without prior consent, and Cohere reserves the right to **modify Terms of Use, suspend services** (e.g., for violations, maintenance, or legal compliance), or engage third-party cloud providers without prior notice.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:58:35.529129+05:30
+- Published: 2026-08-04T22:44:18.946891+05:30
 
 ## Related Tags
 

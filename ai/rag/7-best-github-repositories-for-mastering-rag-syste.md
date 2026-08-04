@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-08-04T20:16:35.967888+05:30'
-collected_at: '2026-08-04T20:16:35.967906+05:30'
+published_at: '2026-08-04T22:41:16.006756+05:30'
+collected_at: '2026-08-04T22:41:16.006767+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-08-04T20:16:35.967906+05:30'
-last_seen: '2026-08-04T20:16:35.967906+05:30'
-last_checked: '2026-08-04T20:16:35.967906+05:30'
+first_seen: '2026-08-04T22:41:16.006767+05:30'
+last_seen: '2026-08-04T22:41:16.006767+05:30'
+last_checked: '2026-08-04T22:41:16.006767+05:30'
 health_score: 100
 ---
 
@@ -36,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, offering modular components (prompt templates, LLM wrappers, vector stores) for end-to-end RAG pipeline development, supporting Python/JS/TS and integrating with providers like OpenAI/Hugging Face.
+- **LangChain**: Open-source LLM toolkit (MIT license, 70K+ GitHub stars) providing modular components (prompt templates, LLM wrappers, vector stores) for end-to-end RAG pipeline development, with multi-language support (Python, JS/TS) and integrations for OpenAI, Hugging Face, Azure.
 
-- **RAG Architecture**: Retrieval-Augmented Generation combines external knowledge retrieval with LLM inference to mitigate hallucinations and knowledge cut-offs, enabling context-aware, temporally relevant responses for enterprise applications (e.g., chatbots, compliance).
+- **RAG Architecture**: Framework enabling LLMs to retrieve external knowledge (documents/APIs) during inference, mitigating hallucinations and knowledge cut-off issues by augmenting responses with contextually relevant data.
 
-- **Top RAG Repositories**: Curated GitHub repos (LangChain, Haystack, LlamaIndex, RAGFlow, txtai, LLMWare, Cognita) provide tutorials/code for mastering RAG systems, emphasizing modularity, scalability, and integration with vector databases/APIs.
+- **Top RAG Repositories**: Curated list includes LangChain, Haystack (deepset-ai), LlamaIndex, RAGFlow, txtai, LLMWare, and Cognita, each offering distinct implementations for document retrieval, embedding, and LLM integration.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T20:16:35.967888+05:30
+- Published: 2026-08-04T22:41:16.006756+05:30
 
 ## Related Tags
 

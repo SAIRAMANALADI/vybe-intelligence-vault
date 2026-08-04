@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-04T20:12:19.527504+05:30'
+collected_at: '2026-08-04T22:37:07.823413+05:30'
 published_at: '2026-08-04T14:36:08Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-01T20:27:22Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-04T20:12:19.527504+05:30'
-last_seen: '2026-08-04T20:12:19.527504+05:30'
-last_checked: '2026-08-04T20:12:19.527504+05:30'
+first_seen: '2026-08-04T22:37:07.823413+05:30'
+last_seen: '2026-08-04T22:37:07.823413+05:30'
+last_checked: '2026-08-04T22:37:07.823413+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Full-stack AI agent template** integrating FastAPI (backend) with Next.js (frontend), featuring AI Agents, RAG, streaming, authentication, and 20+ pre-configured integrations (e.g., CrewAI, LangChain, LangGraph).
+- **Full-stack AI application template** with FastAPI backend and Next.js frontend, pre-configured with AI Agents, RAG (Retrieval-Augmented Generation), real-time streaming, authentication, and 20+ integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
 
-- **Tech stack**: Python (backend), TypeScript/React (frontend), PostgreSQL (database), Docker (containerization), WebSockets (real-time communication), with Pydantic for data validation.
+- **Tech stack**: Python (FastAPI, Pydantic, PostgreSQL), TypeScript/React (Next.js), Docker for containerization, WebSocket for real-time communication, and support for LLM integrations.
 
-- **Key features**: Pre-built AI agent frameworks (CrewAI, LangChain, LangGraph), modular architecture, and out-of-the-box support for LLM integration, RAG pipelines, and multi-agent orchestration.
+- **Key features**: Built-in authentication, modular agent architecture, and pre-integrated tools (e.g., Pydantic-Deep, RAG pipelines) for rapid deployment of production-grade AI applications.
 
 ## Why It Matters
 

@@ -14,8 +14,8 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app) | `frontend-ai-ui/` | 70 |
 | [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
 | [Troubleshoot video removals - YouTube Help](https://support.google.com/youtube/answer/6395024) | `frontend-ai-ui/` | 70 |
-| [The world's fastest framework for building websites](https://gohugo.io/) | `frontend-ai-ui/` | 70 |
 | [GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub](https://github.com/algolia/firestore-algolia-search/tree/6af4b6de9301f25718743af54105d37ebd0606f1) | `frontend-ai-ui/` | 70 |
+| [Login | Cohere](https://dashboard.cohere.com/welcome/login) | `frontend-ai-ui/` | 70 |
 | [Privacy & Terms – Google](https://policies.google.com/) | `frontend-ai-ui/` | 70 |
 | [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites) | `frontend-ai-ui/` | 70 |
 | [takahirox/online-wgsl-editor](https://github.com/takahirox/online-wgsl-editor) | `webdev-3d-creative/` | 70 |

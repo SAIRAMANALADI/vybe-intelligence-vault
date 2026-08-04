@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-04T20:13:14.575131+05:30'
+collected_at: '2026-08-04T22:38:02.849253+05:30'
 published_at: '2026-08-03T02:27:54Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-04T20:13:14.575131+05:30'
-last_seen: '2026-08-04T20:13:14.575131+05:30'
-last_checked: '2026-08-04T20:13:14.575131+05:30'
+first_seen: '2026-08-04T22:38:02.849253+05:30'
+last_seen: '2026-08-04T22:38:02.849253+05:30'
+last_checked: '2026-08-04T22:38:02.849253+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset & Benchmark**: EnterpriseRAG-Bench provides a curated dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of LLM performance in enterprise contexts.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in domain-specific contexts.
 
-- **Synthetic Data Generation**: The repository includes tools for synthetic data generation, facilitating the creation of diverse, domain-specific QA pairs and retrieval scenarios to stress-test RAG pipelines under realistic enterprise constraints.
+- **Dataset Composition**: Includes synthetically generated enterprise documents and Q&A pairs, designed to simulate real-world internal knowledge bases for evaluating retrieval accuracy, answer correctness, and contextual relevance in enterprise RAG deployments.
 
-- **Multi-Modal Evaluation**: Supports comprehensive evaluation across semantic search, information retrieval, and generative AI metrics, with Python-based tooling for automated benchmarking and comparison of RAG architectures.
+- **Evaluation Scope**: Supports metrics for semantic search, information retrieval, and LLM response quality, with Python-based tooling for automated benchmarking and comparative analysis against enterprise-specific baselines.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://aws.amazon.com/about-aws/global-infrastructure/
-published_at: '2026-08-04T20:21:10.301954+05:30'
-collected_at: '2026-08-04T20:21:10.301967+05:30'
+published_at: '2026-08-04T22:42:21.237135+05:30'
+collected_at: '2026-08-04T22:42:21.237144+05:30'
 tags:
 - hackernews
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:global-infrastructure-aws
-first_seen: '2026-08-04T20:21:10.301967+05:30'
-last_seen: '2026-08-04T20:21:10.301967+05:30'
-last_checked: '2026-08-04T20:21:10.301967+05:30'
+first_seen: '2026-08-04T22:42:21.237144+05:30'
+last_seen: '2026-08-04T22:42:21.237144+05:30'
+last_checked: '2026-08-04T22:42:21.237144+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Global Reach & Resilience**: AWS operates **39 geographic regions** with **123 Availability Zones (AZs)**, each containing **≥3 isolated AZs** for fault tolerance, and plans expansion to **46 AZs across 41 regions** (e.g., Saudi Arabia, Chile, Taiwan, New Zealand).
+- **Global Reach & Scale**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs** and **45 Local Zones**, enabling low-latency, high-performance deployments across **7 continents** with planned expansions in **Saudi Arabia, Chile, New Zealand, and Taiwan**.
 
-- **Edge & Latency Optimization**: Leverages **750+ CloudFront POPs**, **15 regional edge caches**, **45 Local Zones**, and **33 Wavelength Zones** to minimize latency for edge computing and 5G applications.
+- **Resilient & Secure Architecture**: Each AWS Region contains **≥3 isolated AZs**, interconnected via **~20M km of fiber optic backbone**, ensuring **high availability (99.99%)**, fault tolerance, and compliance with global security standards.
 
-- **Secure & Scalable Infrastructure**: Backed by **~20M km of fiber optic backbone**, AWS ensures **high throughput, low latency**, and **AI-driven power efficiency** while maintaining **end-to-end security** and compliance across hybrid/on-prem deployments (Outposts, Dedicated Local Zones).
+- **Edge & Hybrid Solutions**: Supports **Local Zones, Wavelength, Outposts, and Dedicated Local Zones** for ultra-low latency, on-premises integration, and regulatory compliance, alongside **CloudFront** for accelerated content delivery.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T20:21:10.301954+05:30
+- Published: 2026-08-04T22:42:21.237135+05:30
 
 ## Related Tags
 

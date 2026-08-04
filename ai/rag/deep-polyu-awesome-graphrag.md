@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-08-04T20:12:59.539571+05:30'
+collected_at: '2026-08-04T22:37:47.873806+05:30'
 published_at: '2026-08-04T10:09:37Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-08-04T20:12:59.539571+05:30'
-last_seen: '2026-08-04T20:12:59.539571+05:30'
-last_checked: '2026-08-04T20:12:59.539571+05:30'
+first_seen: '2026-08-04T22:37:47.873806+05:30'
+last_seen: '2026-08-04T22:37:47.873806+05:30'
+last_checked: '2026-08-04T22:37:47.873806+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG methodologies.
-- **Technical Scope**: Encompasses **graphRAG-specific topics**, including graph-augmented retrieval, knowledge graph integration, and large language model (LLM) enhancements via graph structures.
-- **Repository Metrics**: Maintained with **2,569 stars** and **226 forks**, last updated **2026-08-04**, serving as a dynamic reference for cutting-edge GraphRAG research and implementations.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, facilitating research in structured knowledge integration with LLMs.
+- **Technical Scope**: Covers **knowledge graphs, large language models (LLMs), and retrieval-augmented generation (RAG)**, emphasizing graph-centric approaches for enhanced contextual retrieval and generation.
+- **Community Metrics**: Maintains **2,569 stars and 226 forks** (as of last update: 2026-08-04), indicating active community engagement and collaborative development in GraphRAG methodologies.
 
 ## Why It Matters
 

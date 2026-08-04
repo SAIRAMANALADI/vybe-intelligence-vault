@@ -3,17 +3,17 @@ title: Google Analytics Opt-out Browser Add-on Download Page
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://tools.google.com/dlpage/gaoptout
-published_at: '2026-08-04T14:49:12.594833+05:30'
-collected_at: '2026-08-04T14:49:12.594842+05:30'
+source_url: https://tools.google.com/dlpage/gaoptout?hl=en
+published_at: '2026-08-04T22:46:08.399417+05:30'
+collected_at: '2026-08-04T22:46:08.399428+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:google-analytics-opt-out-browser-add-on-download-p
-first_seen: '2026-08-04T14:49:12.594842+05:30'
-last_seen: '2026-08-04T14:49:12.594842+05:30'
-last_checked: '2026-08-04T14:49:12.594842+05:30'
+first_seen: '2026-08-04T22:46:08.399428+05:30'
+last_seen: '2026-08-04T22:46:08.399428+05:30'
+last_checked: '2026-08-04T22:46:08.399428+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: The Google Analytics Opt-out Browser Add-on prevents website visitors' data from being used by Google Analytics (via `analytics.js` or `gtag.js`) by disabling tracking when installed in supported browsers (Chrome, Safari, Firefox, Edge).
-
-- **Compatibility & Requirements**: Requires a JavaScript-capable browser; the add-on must load/execute properly to function. Unsupported for unsupported browsers (e.g., older versions).
-
-- **Installation**: Downloadable for Chrome, Firefox, Safari, and Edge; detailed instructions and privacy details available via [Google Support](https://support.google.com/analytics/answer/181881).
+- **Purpose**: Google Analytics Opt-out Browser Add-on prevents data collection by Google Analytics (via `analytics.js` or `gtag.js`) by disabling JavaScript execution for GA scripts in supported browsers.
+- **Compatibility**: Supports Chrome, Safari, Firefox, and Microsoft Edge; requires JavaScript-enabled browsers for functionality.
+- **Limitations**: Not supported for all browsers; installation and execution depend on browser compatibility and proper add-on loading.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T14:49:12.594833+05:30
+- Published: 2026-08-04T22:46:08.399417+05:30
 
 ## Related Tags
 
@@ -44,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://tools.google.com/dlpage/gaoptout
+Original source: https://tools.google.com/dlpage/gaoptout?hl=en

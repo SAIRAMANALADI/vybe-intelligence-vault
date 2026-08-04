@@ -3,7 +3,7 @@ title: CodeQL documentation
 archive_category: learning-paths
 source_category: ai/rag
 source_url: https://codeql.github.com/docs
-resource_id: blog:codeql-documentation
+resource_id: blog:codeql-documentation-2a50a354
 local_vault_path: ai/rag/codeql-documentation.md
 quality_score: 70
 archive_score: 77

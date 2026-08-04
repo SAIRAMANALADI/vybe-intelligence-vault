@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-04T20:13:39.521143+05:30'
+collected_at: '2026-08-04T22:38:27.815910+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-04T20:13:39.521143+05:30'
-last_seen: '2026-08-04T20:13:39.521143+05:30'
-last_checked: '2026-08-04T20:13:39.521143+05:30'
+first_seen: '2026-08-04T22:38:27.815910+05:30'
+last_seen: '2026-08-04T22:38:27.815910+05:30'
+last_checked: '2026-08-04T22:38:27.815910+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework mimicking human memory organization (e.g., episodic/semantic memory) to enhance stateful long-form narrative reasoning.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG framework (ComoRAG) that mimics human cognitive memory structures to enhance stateful long narrative reasoning, as presented at AAAI 2026.
 
-- **Memory-Organized Retrieval**: Implements hierarchical memory structures (short-term/long-term) with adaptive retrieval mechanisms, optimizing context relevance for multi-turn, narrative-driven tasks.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory organization to maintain contextual coherence across extended interactions, enabling improved handling of long-form narratives compared to traditional RAG systems.
 
-- **AAAI 2026 Contribution**: Proposes a novel state-tracking method for coherent, long-context reasoning, validated on synthetic/real-world datasets with significant improvements in narrative consistency and factual recall.
+- **Python Implementation**: Provides an open-source Python-based implementation with 343 stars and 47 forks, last updated in July 2026, for reproducibility and further research.
 
 ## Why It Matters
 

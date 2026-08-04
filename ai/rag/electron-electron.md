@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/electron
-collected_at: '2026-08-04T20:20:13.347906+05:30'
+collected_at: '2026-08-04T22:43:31.778346+05:30'
 published_at: '2026-08-04T14:34:51Z'
 tags:
 - c++
 - github-repo
-- hackernews
 - rag
 stars: 122314
 language: C++
@@ -17,11 +16,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2013-04-12T01:47:36Z'
-pushed_at: '2026-08-04T14:38:38Z'
+pushed_at: '2026-08-04T17:09:19Z'
 resource_id: github:electron/electron
-first_seen: '2026-08-04T20:20:13.347906+05:30'
-last_seen: '2026-08-04T20:20:13.347906+05:30'
-last_checked: '2026-08-04T20:20:13.347906+05:30'
+first_seen: '2026-08-04T22:43:31.778346+05:30'
+last_seen: '2026-08-04T22:43:31.778346+05:30'
+last_checked: '2026-08-04T22:43:31.778346+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 for rendering and backend execution.
-- **Core components**: Uses Blink (Chrome's rendering engine), Node.js for native APIs, and V8 for JavaScript execution.
-- **Architecture**: Combines web technologies (HTML/CSS/JS) with native OS integration via C++ bindings.
+- **Cross-platform desktop framework** leveraging Chromium, Node.js, and V8 to build native apps using JavaScript, HTML, and CSS.
+- **Core architecture** integrates a modified Chromium browser engine with Node.js for OS-level APIs, enabling desktop app development.
+- **Performance-critical C++ backend** with bindings to JavaScript/HTML/CSS frontend, optimized via V8 for runtime execution.
 
 ## Why It Matters
 
@@ -41,14 +40,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: electron
 - Stars: 122314
-- Forks: 17381
+- Forks: 17380
 - Language: C++
 - Topics: c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces
 - Last Updated: 2026-08-04T14:34:51Z
 - License: MIT
 - Archived: No
 - Created At: 2013-04-12T01:47:36Z
-- Pushed At: 2026-08-04T14:38:38Z
+- Pushed At: 2026-08-04T17:09:19Z
 
 ## Possible Use Cases
 

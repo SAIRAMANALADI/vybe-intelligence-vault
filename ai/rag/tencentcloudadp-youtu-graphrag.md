@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-04T20:13:40.544177+05:30'
+collected_at: '2026-08-04T22:38:27.847250+05:30'
 published_at: '2026-08-04T07:22:04Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 1230
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-04T20:13:40.544177+05:30'
-last_seen: '2026-08-04T20:13:40.544177+05:30'
-last_checked: '2026-08-04T20:13:40.544177+05:30'
+first_seen: '2026-08-04T22:38:27.847250+05:30'
+last_seen: '2026-08-04T22:38:27.847250+05:30'
+last_checked: '2026-08-04T22:38:27.847250+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents Framework**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically or in parallel to enhance complex reasoning tasks over graph-structured data.
+- **Vertically Unified Agents**: Introduces a hierarchical agent framework for graph-based retrieval-augmented generation (RAG), enabling multi-layered reasoning with specialized agents for subgraph retrieval, reasoning, and synthesis.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and leverage subgraph patterns for improved contextual reasoning in large-scale knowledge graphs.
+- **Graph-Centric RAG Pipeline**: Integrates graph neural networks (GNNs) with large language models (LLMs) to dynamically construct and query knowledge graphs, enhancing complex reasoning tasks with structured data.
 
-- **Optimized for ICLR 2026**: Implements advanced techniques like adaptive subgraph sampling, cross-agent attention mechanisms, and memory-augmented reasoning to achieve state-of-the-art performance in graph-based complex reasoning benchmarks.
+- **Performance & Scalability**: Evaluated on ICLR 2026 benchmarks, demonstrating superior accuracy and efficiency in complex reasoning tasks compared to traditional RAG methods, with Python-based implementation optimized for scalability.
 
 ## Why It Matters
 

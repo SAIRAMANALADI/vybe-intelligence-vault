@@ -4,18 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLLalUvky4CLJKDaiWCumhsJpHNDhZeVll
-published_at: '2026-08-03T20:58:33.517799+05:30'
-collected_at: '2026-08-03T20:58:33.517813+05:30'
+published_at: '2026-08-04T22:44:17.077719+05:30'
+collected_at: '2026-08-04T22:44:17.077732+05:30'
 tags:
-- hackernews
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:cohere-labs-community-talks-youtube
-first_seen: '2026-08-03T20:58:33.517813+05:30'
-last_seen: '2026-08-03T20:58:33.517813+05:30'
-last_checked: '2026-08-03T20:58:33.517813+05:30'
+first_seen: '2026-08-04T22:44:17.077732+05:30'
+last_seen: '2026-08-04T22:44:17.077732+05:30'
+last_checked: '2026-08-04T22:44:17.077732+05:30'
 health_score: 100
 ---
 
@@ -23,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization (via YouTube Premium/Advertising), and creator tools (YouTube Studio, YouTube Creators).
-- **Technical Infrastructure**: Utilizes Google’s CDN and infrastructure for global low-latency streaming, with APIs (YouTube Data API v3) enabling programmatic access to video metadata, uploads, and analytics.
-- **Policy & Compliance**: Enforces [Content ID](https://www.youtube.com/howyoutubeworks/content-id/) for copyright claims, [Community Guidelines](https://www.youtube.com/howyoutubeworks/community-guidelines/) for moderation, and [Privacy Policy](https://www.youtube.com/t/privacy) aligned with GDPR/CCPA.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and community engagement tools for creators and advertisers.
+
+- **Developer & Policy Resources**: Provides APIs, SDKs, and documentation for developers (via [Google Developers](https://developers.google.com/youtube)), alongside comprehensive policies on copyright, privacy, safety, and terms of service.
+
+- **Feature & Monetization Tools**: Offers experimental features via [YouTube New](https://www.youtube.com/new), live sports content (e.g., NFL Sunday Ticket), and creator/advertiser support through [YouTube Creators](https://www.youtube.com/creators/) and [YouTube Ads](https://www.youtube.com/ads/).
 
 ## Why It Matters
 
@@ -35,11 +36,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T20:58:33.517799+05:30
+- Published: 2026-08-04T22:44:17.077719+05:30
 
 ## Related Tags
 
-- hackernews
 - reddit
 - web-crawled
 - youtube

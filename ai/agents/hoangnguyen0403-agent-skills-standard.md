@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-04T20:14:34.552139+05:30'
+collected_at: '2026-08-04T22:39:22.838885+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - typescript
 stars: 536
 language: TypeScript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-04T20:14:34.552139+05:30'
-last_seen: '2026-08-04T20:14:34.552139+05:30'
-last_checked: '2026-08-04T20:14:34.552139+05:30'
+first_seen: '2026-08-04T22:39:22.838885+05:30'
+last_seen: '2026-08-04T22:39:22.838885+05:30'
+last_checked: '2026-08-04T22:39:22.838885+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts a curated collection of *Agent Skills Standards* and *best practices* for programming languages and frameworks, enabling AI agents to adhere to optimized coding conventions and architectural guidelines.
+- **Comprehensive Coding Standards Repository**: Hosts standardized best practices for 15+ programming languages and frameworks (e.g., TypeScript, React, NestJS, Spring Boot, Flutter, Kotlin) to guide AI agents in adhering to industry-standard coding conventions.
 
-- **Technical Scope**: Covers 15+ languages/frameworks including *TypeScript, React, Angular, Flutter, Kotlin, Go, Laravel, NestJS, Spring Boot*, and mobile platforms (*Android, iOS, React Native*), with structured rules for AI agents (e.g., Cursor Rules).
+- **Multi-Platform Support**: Covers mobile (Android, iOS), web (React, Next.js, Angular), backend (Golang, Laravel, NestJS), and cross-platform (Flutter) development, ensuring broad applicability across ecosystems.
 
-- **Metadata**: 536 ⭐, 155 🍴, last updated *2026-07-30*, TypeScript-based, and categorized under *agentic-ai, coding-standards, and framework-specific best practices*.
+- **Active Maintenance & Community Engagement**: Last updated in July 2026 with 536 stars and 155 forks, indicating active community involvement and continuous updates to reflect evolving best practices.
 
 ## Why It Matters
 

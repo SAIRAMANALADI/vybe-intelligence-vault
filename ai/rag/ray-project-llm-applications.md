@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-04T20:13:34.500205+05:30'
+collected_at: '2026-08-04T22:38:22.831704+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-04T20:13:34.500205+05:30'
-last_seen: '2026-08-04T20:13:34.500205+05:30'
-last_checked: '2026-08-04T20:13:34.500205+05:30'
+first_seen: '2026-08-04T22:38:22.831704+05:30'
+last_seen: '2026-08-04T22:38:22.831704+05:30'
+last_checked: '2026-08-04T22:38:22.831704+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based LLM Deployment**: Provides a production-ready framework for Retrieval-Augmented Generation (RAG) applications using Ray, integrating OpenAI, Llama2, and Anyscale for scalable serving and fine-tuning.
-- **Modular Architecture**: Implements a Jupyter Notebook-based pipeline for end-to-end workflows, including data ingestion, vector storage, retrieval, and LLM inference with optimized Ray-based orchestration.
-- **Multi-LLM Support**: Demonstrates hybrid integration of proprietary (OpenAI) and open-source (Llama2) models, with fine-tuning and serving benchmarks for performance evaluation in production environments.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computing, integrating retrieval, fine-tuning, and serving stages.
+- **Multi-Model Support**: Showcases compatibility with Llama2, OpenAI, and Anyscale models, with notebooks detailing fine-tuning and inference optimization.
+- **Ray-Centric Architecture**: Leverages Ray’s ecosystem (e.g., Ray Serve) for scalable LLM deployment, with emphasis on low-latency serving and modular component design.
 
 ## Why It Matters
 

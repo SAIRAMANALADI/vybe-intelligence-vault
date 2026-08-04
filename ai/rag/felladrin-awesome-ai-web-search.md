@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-08-04T20:13:04.450420+05:30'
+collected_at: '2026-08-04T22:37:52.796030+05:30'
 published_at: '2026-08-01T18:42:25Z'
 tags:
 - github-repo
+- hackernews
 - html
 - rag
 stars: 1400
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-07-28T18:48:15Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-08-04T20:13:04.450420+05:30'
-last_seen: '2026-08-04T20:13:04.450420+05:30'
-last_checked: '2026-08-04T20:13:04.450420+05:30'
+first_seen: '2026-08-04T22:37:52.796030+05:30'
+last_seen: '2026-08-04T22:37:52.796030+05:30'
+last_checked: '2026-08-04T22:37:52.796030+05:30'
 health_score: 100
 ---
 
@@ -28,7 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Curated `awesome-list` repository indexing software for AI-assisted web search
+- **Curated Collection**: Aggregates AI-powered web search tools leveraging LLMs, RAG, and generative AI for enhanced information retrieval and question-answering.
+- **Technical Scope**: Encompasses metasearch engines, inference-based search systems, and retrieval-augmented generation (RAG) implementations for web-scale data.
+- **Repository Metadata**: Hosted on GitHub (HTML-based), last updated in 2026, with 1.4K stars and 118 forks, tracking AI-driven search advancements.
 
 ## Why It Matters
 

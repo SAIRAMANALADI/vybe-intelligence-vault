@@ -5,15 +5,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/mdn/content/blob/main/files/en-us/web/security/defenses/subresource_integrity/index.md?plain=1
-published_at: '2026-08-03T23:03:10.455975+05:30'
-collected_at: '2026-08-03T23:03:10.455986+05:30'
+published_at: '2026-08-04T22:46:30.929328+05:30'
+collected_at: '2026-08-04T22:46:30.929339+05:30'
 tags:
 - web-crawled
+- youtube
 status: active
 resource_id: github:mdn/content
-first_seen: '2026-08-03T23:03:10.455986+05:30'
-last_seen: '2026-08-03T23:03:10.455986+05:30'
-last_checked: '2026-08-03T23:03:10.455986+05:30'
+first_seen: '2026-08-04T22:46:30.929339+05:30'
+last_seen: '2026-08-04T22:46:30.929339+05:30'
+last_checked: '2026-08-04T22:46:30.929339+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose & Mechanism**: Subresource Integrity (SRI) is a security mechanism enabling browsers to verify the integrity of fetched resources (e.g., from CDNs) by comparing cryptographic hashes (`sha256`, `sha384`, `sha512`) embedded in the `integrity` attribute against the fetched content, blocking mismatched resources to mitigate supply chain attacks.
+- **Subresource Integrity (SRI)** verifies fetched resources (e.g., from CDNs) by comparing cryptographic hashes (`sha256`, `sha384`, `sha512`) against expected values in the `integrity` attribute of `<script>` or `<link>` elements.
 
-- **CORS Requirement**: SRI enforces Cross-Origin Resource Sharing (CORS) compliance; resources must include the `crossorigin` attribute (e.g., `crossorigin="anonymous"`) and the server must respond with `Access-Control-Allow-Origin` headers to allow validation.
+- **CORS Requirement**: SRI enforces cross-origin requests to include the `crossorigin` attribute and valid CORS headers (`Access-Control-Allow-Origin`), blocking `no-cors` mode to prevent integrity-based side-channel attacks.
 
-- **Policy Enforcement**: The `Integrity-Policy` HTTP header (or `Integrity-Policy-Report-Only`) can enforce mandatory `integrity` attributes on `<script>`/`<link>` elements, blocking or reporting violations via the Reporting API, with structured directives like `blocked-destinations` and `endpoints`.
+- **Integrity Policy Headers**: HTTP headers (`Integrity-Policy`/`Integrity-Policy-Report-Only`) enforce mandatory `integrity` attributes on scripts/stylesheets, with violation reports sent to specified endpoints via the Reporting API.
 
 ## Why It Matters
 
@@ -35,11 +36,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T23:03:10.455975+05:30
+- Published: 2026-08-04T22:46:30.929328+05:30
 
 ## Related Tags
 
 - web-crawled
+- youtube
 
 ## Source
 

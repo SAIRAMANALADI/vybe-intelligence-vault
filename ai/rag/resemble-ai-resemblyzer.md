@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/resemble-ai/resemblyzer
-collected_at: '2026-08-04T01:35:31.196070+05:30'
+collected_at: '2026-08-04T22:42:40.337446+05:30'
 published_at: '2026-08-03T11:25:27Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2019-08-15T16:39:51Z'
 pushed_at: '2023-10-12T09:35:22Z'
 resource_id: github:resemble-ai/resemblyzer
-first_seen: '2026-08-04T01:35:31.196070+05:30'
-last_seen: '2026-08-04T01:35:31.196070+05:30'
-last_checked: '2026-08-04T01:35:31.196070+05:30'
+first_seen: '2026-08-04T22:42:40.337446+05:30'
+last_seen: '2026-08-04T22:42:40.337446+05:30'
+last_checked: '2026-08-04T22:42:40.337446+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Deep Learning-Based Voice Analysis**: Uses a Python package leveraging deep learning models to analyze and compare voice characteristics, enabling tasks like speaker verification and voice similarity detection.
-
-- **Pre-trained Models**: Incorporates pre-trained models (e.g., d-vectors) for efficient voice feature extraction, allowing real-time or batch processing of audio inputs.
-
-- **Modular Design**: Provides a modular framework for integrating voice analysis into applications, with APIs for embedding generation, similarity scoring, and visualization of voice features.
+- **Voice Embedding Extraction**: Uses deep learning (Siamese neural networks) to convert voice recordings into fixed-dimensional embeddings for comparison.
+- **Speaker Verification & Diarization**: Implements algorithms for speaker identification, verification, and segmentation in audio streams.
+- **Python Library Integration**: Provides a lightweight Python API (`resemblyzer`) for real-time voice analysis with pre-trained models.
 
 ## Why It Matters
 

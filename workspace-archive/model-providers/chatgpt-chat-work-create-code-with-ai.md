@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - openai
 - web-crawled
 selection_reason:
@@ -31,9 +32,7 @@ selection_reason:
 
 ## Summary
 
-- **Data Usage & Model Improvement**: Chats may be reviewed and used to improve OpenAI's AI models, as outlined in their [Terms](https://openai.com/terms) and [Privacy Policy](https://openai.com/privacy).
-- **User Consent**: By using ChatGPT, users agree to OpenAI's Terms and Privacy Policy, acknowledging potential data usage for model enhancement.
-- **Transparency Note**: OpenAI provides additional details on data handling and model improvement in their [help article](https://help.openai.com/en
+- **No technical content provided in the input text to summarize.**
 
 ## Use Cases
 

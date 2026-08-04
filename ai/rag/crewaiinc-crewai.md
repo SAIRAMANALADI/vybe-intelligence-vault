@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI
-collected_at: '2026-08-04T20:16:09.765825+05:30'
-published_at: '2026-08-04T14:37:52Z'
+collected_at: '2026-08-04T22:40:58.007879+05:30'
+published_at: '2026-08-04T16:54:57Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 56612
+stars: 56616
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-10-27T03:26:59Z'
-pushed_at: '2026-08-04T14:03:55Z'
+pushed_at: '2026-08-04T16:54:13Z'
 resource_id: github:crewaiinc/crewai
-first_seen: '2026-08-04T20:16:09.765825+05:30'
-last_seen: '2026-08-04T20:16:09.765825+05:30'
-last_checked: '2026-08-04T20:16:09.765825+05:30'
+first_seen: '2026-08-04T22:40:58.007879+05:30'
+last_seen: '2026-08-04T22:40:58.007879+05:30'
+last_checked: '2026-08-04T22:40:58.007879+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Role-Based Agent Orchestration**: CrewAI enables autonomous AI agents to collaborate via role-playing, assigning specialized tasks to agents (e.g., "Researcher," "Writer") for modular workflows.
-- **Python-Based Framework**: Built in Python, leveraging LLMs for dynamic agent interactions, task delegation, and parallel execution to optimize complex workflows.
-- **Open-Source & Scalable**: Hosted on GitHub with 56K+ stars, supporting extensibility via custom agent roles, tools, and integrations for enterprise-grade AI agent systems.
+- **Role-Based Agent Orchestration**: CrewAI enables autonomous AI agents to collaborate via role-playing, assigning specialized tasks (e.g., "Researcher," "Writer") to optimize workflows and solve complex problems through structured multi-agent interactions.
+
+- **Python-Based Framework**: Built in Python, CrewAI leverages modular design for extensibility, supporting integration with LLMs (e.g., LangChain) and custom agent definitions to facilitate scalable AI agent ecosystems.
+
+- **Collaborative Intelligence Core**: Implements a hierarchical or sequential task execution model where agents autonomously delegate, validate, and refine outputs, ensuring parallelized or sequential task completion with minimal human intervention.
 
 ## Why It Matters
 
@@ -41,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 56612
-- Forks: 8061
+- Stars: 56616
+- Forks: 8064
 - Language: Python
 - Topics: agents, ai, ai-agents, aiagentframework, llms
-- Last Updated: 2026-08-04T14:37:52Z
+- Last Updated: 2026-08-04T16:54:57Z
 - License: MIT
 - Archived: No
 - Created At: 2023-10-27T03:26:59Z
-- Pushed At: 2026-08-04T14:03:55Z
+- Pushed At: 2026-08-04T16:54:13Z
 
 ## Possible Use Cases
 

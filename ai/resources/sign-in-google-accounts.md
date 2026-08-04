@@ -3,16 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://takeout.google.com/?utm_source=pp
-published_at: '2026-08-04T09:18:42.904059+05:30'
-collected_at: '2026-08-04T09:18:42.904066+05:30'
+source_url: https://aistudio.google.com/apikey
+published_at: '2026-08-04T22:45:35.230057+05:30'
+collected_at: '2026-08-04T22:45:35.230068+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-08-04T09:18:42.904066+05:30'
-last_seen: '2026-08-04T09:18:42.904066+05:30'
-last_checked: '2026-08-04T09:18:42.904066+05:30'
+first_seen: '2026-08-04T22:45:35.230068+05:30'
+last_seen: '2026-08-04T22:45:35.230068+05:30'
+last_checked: '2026-08-04T22:45:35.230068+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Flow**: Uses Google Account-based OAuth 2.0 sign-in with `ServiceLogin` and `WebLiteSignIn` flows for Takeout service access.
+- **Authentication Flow**: The provided Google sign-in page initiates a **WebLiteSignIn** flow for API key access, requiring user credentials (email/phone) and handling recovery via **usernamerecovery** endpoint.
 
-- **Recovery & Security**: Provides `usernamerecovery` endpoint for forgotten emails and enforces private browsing mode for enhanced security.
+- **Session Management**: Supports **Guest mode** (private browsing) for non-primary devices, with documentation linked via **support.google.com/accounts**.
 
-- **Account Management**: Includes `SignUp` flow for new account creation with lifecycle management via `GlifWebSignIn`.
+- **Account Creation**: Offers **GlifWebSignIn** flow for new users via **signup** endpoint, redirecting post-authentication to **aistudio.google.com/apikey**.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T09:18:42.904059+05:30
+- Published: 2026-08-04T22:45:35.230057+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://takeout.google.com/?utm_source=pp
+Original source: https://aistudio.google.com/apikey

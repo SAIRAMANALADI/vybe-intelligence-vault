@@ -3,9 +3,9 @@ title: Configure imaging
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/configuration/imaging/#avif-images
-published_at: '2026-08-04T14:46:32.515685+05:30'
-collected_at: '2026-08-04T14:46:32.515699+05:30'
+source_url: https://gohugo.io/configuration/imaging/#avif
+published_at: '2026-08-04T22:43:23.211228+05:30'
+collected_at: '2026-08-04T22:43:23.211240+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-08-04T14:46:32.515699+05:30'
-last_seen: '2026-08-04T14:46:32.515699+05:30'
-last_checked: '2026-08-04T14:46:32.515699+05:30'
+first_seen: '2026-08-04T22:43:23.211240+05:30'
+last_seen: '2026-08-04T22:43:23.211240+05:30'
+last_checked: '2026-08-04T22:43:23.211240+05:30'
 health_score: 100
 ---
 
@@ -23,16 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific configurations for AVIF, JPEG, and WebP with quality/compression controls (e.g., AVIF `quality: 60`, JPEG `quality: 75`, WebP `quality: 75`, `method: 2`).
+- **Default Imaging Settings**: Configurable via `imaging` block in Hugo's config file, supporting formats like AVIF, JPEG, and WebP with format-specific parameters (e.g., `quality`, `compression`, `hint`). Top-level settings include `anchor` (e.g., `smart` for auto-cropping), `bgColor` (hex RGB for transparency fallback), and `resampleFilter` (e.g., `box`, `lanczos`, `catmullRom`).
 
-- **Format-Specific Configurations**:
-  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed: 1-10`, `hint: photo/drawing/icon/text`, and `quality: 1-100`.
-  - **WebP**: Supports `lossy`/`lossless` compression, `hint: photo/drawing/icon/text`, `method: 0-6`, `quality: 1-100`, and `useSharpYuv: false`.
-  - **JPEG**: Only `quality: 1-100` (default `75`).
+- **AVIF/WebP Encoding**: AVIF supports `lossy`/`lossless` compression with `encoderSpeed` (1–10) and `hint` (e.g., `photo`, `text`). WebP uses `method` (0–6), `quality` (1–100), and `useSharpYuv` (bool) for RGB-to-YUV conversion. Both default to `lossy` compression.
 
-- **Metadata & EXIF Control**:
-  - **Meta Method**: Configurable via `fields` (glob patterns) and `sources` (`exif`, `iptc`, `xmp`).
-  - **EXIF Exclusion**: Default excludes `GPS`, `Exif`, `Exposure[M|P|B]`, `Contrast`, `Resolution`, `Sharp`, `JPEG`, `Metering`, `Sensing`, `Saturation`, `ColorSpace`, `Flash`, `WhiteBalance` for performance optimization.
+- **Metadata Control**: `Meta` method filters EXIF/IPTC/XMP fields via `fields` (glob patterns) and `sources` (e.g., `['exif', 'iptc']`). Default excludes technical fields (e.g., `GPS`, `Exif`) to optimize performance and cache size.
 
 ## Why It Matters
 
@@ -42,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T14:46:32.515685+05:30
+- Published: 2026-08-04T22:43:23.211228+05:30
 
 ## Related Tags
 
@@ -53,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://gohugo.io/configuration/imaging/#avif-images
+Original source: https://gohugo.io/configuration/imaging/#avif

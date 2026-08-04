@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/faiss
-collected_at: '2026-08-04T20:16:34.676840+05:30'
-published_at: '2026-08-04T13:42:45Z'
+collected_at: '2026-08-04T22:41:18.008554+05:30'
+published_at: '2026-08-04T17:06:42Z'
 tags:
 - c++
+- dataset
 - github-repo
 - hackernews
 - rag
-stars: 40664
+stars: 40665
 language: C++
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2017-02-07T16:07:05Z'
 pushed_at: '2026-08-03T17:57:31Z'
 resource_id: github:facebookresearch/faiss
-first_seen: '2026-08-04T20:16:34.676840+05:30'
-last_seen: '2026-08-04T20:16:34.676840+05:30'
-last_checked: '2026-08-04T20:16:34.676840+05:30'
+first_seen: '2026-08-04T22:41:18.008554+05:30'
+last_seen: '2026-08-04T22:41:18.008554+05:30'
+last_checked: '2026-08-04T22:41:18.008554+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: FAISS is a C++ library designed for high-performance similarity search and clustering of dense vectors, optimized for scalability and efficiency.
-- **Key Features**: Supports exact and approximate nearest neighbor search, GPU acceleration, and modular indexing structures (e.g., IVF, PQ, HNSW).
-- **Applications**: Widely used in large-scale vector search tasks, including recommendation systems, image retrieval, and NLP embeddings.
+- **Purpose**: FAISS (Facebook AI Similarity Search) is a C++ library optimized for efficient similarity search and clustering of dense vectors, leveraging approximate nearest neighbor (ANN) techniques to handle large-scale datasets.
+- **Key Features**: Supports exact and approximate nearest neighbor search, GPU acceleration, and hierarchical clustering (e.g., IVF, PQ, HNSW) for scalable vector indexing and retrieval.
+- **Performance**: Designed for high-dimensional vector spaces with optimizations for memory efficiency and low-latency queries, widely used in recommendation systems and semantic search.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: facebookresearch
-- Stars: 40664
-- Forks: 4479
+- Stars: 40665
+- Forks: 4478
 - Language: C++
 - Topics: None
-- Last Updated: 2026-08-04T13:42:45Z
+- Last Updated: 2026-08-04T17:06:42Z
 - License: MIT
 - Archived: No
 - Created At: 2017-02-07T16:07:05Z

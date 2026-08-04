@@ -13,13 +13,14 @@ collected_at: '2026-08-04T20:11:03.033804+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:that-time-when-i-failed-the-microsoft-interview
 first_seen: '2026-08-04T09:07:26.701533+05:30'
 last_seen: '2026-08-04T20:11:03.033804+05:30'
 last_checked: '2026-08-04T20:11:03.033804+05:30'
 health_score: 100
 ---
+
 
 # That time when I failed the Microsoft interview
 

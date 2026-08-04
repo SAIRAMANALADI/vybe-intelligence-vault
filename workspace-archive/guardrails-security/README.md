@@ -25,8 +25,8 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
 - [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
-- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
 - [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit)
+- [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-08-04 20:29 IST*
+*Last updated: 2026-08-04 22:54 IST*

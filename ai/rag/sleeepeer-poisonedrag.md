@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-04T20:13:19.488188+05:30'
+collected_at: '2026-08-04T22:38:07.822316+05:30'
 published_at: '2026-07-30T15:36:09Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - reddit
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-04T20:13:19.488188+05:30'
-last_seen: '2026-08-04T20:13:19.488188+05:30'
-last_checked: '2026-08-04T20:13:19.488188+05:30'
+first_seen: '2026-08-04T22:38:07.822316+05:30'
+last_seen: '2026-08-04T22:38:07.822316+05:30'
+last_checked: '2026-08-04T22:38:07.822316+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting external knowledge bases to manipulate LLM outputs during inference.
-
-- **Mechanism**: Demonstrates how adversaries can inject malicious documents into RAG knowledge sources, enabling targeted misinformation, data exfiltration, or biased responses without direct access to the LLM.
-
-- **Mitigation Challenges**: Highlights the difficulty of defending against such attacks due to the black-box nature of RAG pipelines and proposes preliminary detection/defense strategies for future research.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems, compromising Large Language Models (LLMs) by manipulating retrieved documents to alter model outputs.
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by injecting adversarial or misleading data into the retrieval corpus, causing LLMs to generate incorrect or biased responses while maintaining high fluency and relevance.
+- **Evaluation & Impact**: Validated on multiple RAG benchmarks (e.g., KILT, MS MARCO) with a 90%+ success rate in corrupting knowledge, highlighting critical security gaps in current RAG architectures and retrieval mechanisms.
 
 ## Why It Matters
 

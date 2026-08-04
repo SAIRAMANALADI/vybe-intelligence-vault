@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FudanDNN-NLP/RAG
-collected_at: '2026-08-04T20:12:54.494892+05:30'
+collected_at: '2026-08-04T22:37:42.834578+05:30'
 published_at: '2026-07-26T08:08:37Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - paper
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-06-29T13:07:50Z'
 pushed_at: '2024-12-21T07:32:41Z'
 resource_id: github:fudandnn-nlp/rag
-first_seen: '2026-08-04T20:12:54.494892+05:30'
-last_seen: '2026-08-04T20:12:54.494892+05:30'
-last_checked: '2026-08-04T20:12:54.494892+05:30'
+first_seen: '2026-08-04T22:37:42.834578+05:30'
+last_seen: '2026-08-04T22:37:42.834578+05:30'
+last_checked: '2026-08-04T22:37:42.834578+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Provides a Python-based implementation of the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation," focusing on RAG optimization techniques.
-- **Metrics & Evaluation**: Includes benchmarking tools to compare retrieval and generation strategies across standard datasets and metrics.
-- **Modular Design**: Offers a flexible framework with configurable components for retrievers, generators, and fusion methods for extensibility.
+- **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of the paper "Searching for Best Practices in Retrieval-Augmented Generation," focusing on RAG methodologies and best practices.
+
+- **Metadata**: 348 stars, 21 forks, last updated on 2026-07-26, with no specified topics.
+
+- **Technical Stack**: Utilizes Python for implementation, likely leveraging libraries such as PyTorch or HuggingFace Transformers for RAG model development.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-08-04T20:14:44.547197+05:30'
+collected_at: '2026-08-04T22:39:32.932797+05:30'
 published_at: '2026-08-04T13:10:54Z'
 tags:
 - agents
@@ -15,7 +15,6 @@ tags:
 - models
 - openai
 - python
-- scripts
 - workflows
 stars: 1435
 language: Python
@@ -24,9 +23,9 @@ archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-07-14T09:53:56Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-08-04T20:14:44.547197+05:30'
-last_seen: '2026-08-04T20:14:44.547197+05:30'
-last_checked: '2026-08-04T20:14:44.547197+05:30'
+first_seen: '2026-08-04T22:39:32.932797+05:30'
+last_seen: '2026-08-04T22:39:32.932797+05:30'
+last_checked: '2026-08-04T22:39:32.932797+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: A structured collection of LLM (Large Language Model) and AI Agent skills, tools, and resources for customizing AI workflows, compatible with platforms like **Claude Code, Codex, Gemini CLI**, and custom agents.
-- **Multi-Platform Support**: Includes integrations for **Anthropic, OpenAI, Google (Gemini), Llama, Qwen**, and other models, with CLI tools for **Codex, Gemini, and OpenCode**.
-- **Technical Stack**: Primarily **Python-based**, with topics covering **AI agent customization, skill development, and workflow automation** for advanced LLM interactions.
+- **Curated Resource**: A GitHub repository (`Prat011/awesome-llm-skills`) compiling tools, libraries, and workflows for customizing LLM and AI Agent capabilities, compatible with platforms like **Claude Code**, **Codex**, **Gemini CLI**, and custom agents.
+
+- **Technical Scope**: Focuses on **Python-based** skills for LLMs (e.g., **Llama**, **Qwen**, **OpenAI**, **Anthropic**) and agent frameworks, including **Claude Skills**, **Codex CLI**, and **Gemini CLI** integration.
+
+- **Metadata**: 1,435 stars, 254 forks, last updated **2026-08-04**; categorized under topics like `anthropic`, `awesome-list`, `llms`, and `opencode`.
 
 ## Why It Matters
 

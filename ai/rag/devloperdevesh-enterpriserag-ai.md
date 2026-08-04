@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-04T20:13:24.515336+05:30'
+collected_at: '2026-08-04T22:38:12.835328+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 14
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-04T20:13:24.515336+05:30'
-last_seen: '2026-08-04T20:13:24.515336+05:30'
-last_checked: '2026-08-04T20:13:24.515336+05:30'
+first_seen: '2026-08-04T22:38:12.835328+05:30'
+last_seen: '2026-08-04T22:38:12.835328+05:30'
+last_checked: '2026-08-04T22:38:12.835328+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF (Extended Berkeley Packet Filter) for real-time monitoring, enforcement, and isolation of AI processes.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-overhead, kernel-level monitoring and enforcement, optimized for Linux environments.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-based backend with TypeScript for scalable Retrieval-Augmented Generation (RAG), integrating vector databases (e.g., FAISS, Chroma) and GenAI/LLM endpoints for secure, auditable AI workflows.
+- **Enterprise-Grade RAG Pipeline**: Combines FastAPI backend with TypeScript, vector databases, and GenAI/LLM integration to deliver a scalable, SaaS-ready Retrieval-Augmented Generation (RAG) system with governance controls.
 
-- **SaaS-AI Governance Framework**: Provides a structured governance layer for multi-tenant AI deployments, ensuring compliance, auditability, and resource isolation via containerized (e.g., Kubernetes) and eBPF-driven runtime security policies.
+- **Security-First Architecture**: Designed for multi-tenant SaaS deployments, enforcing fine-grained access policies, audit logging, and real-time threat detection via eBPF-powered runtime security.
 
 ## Why It Matters
 

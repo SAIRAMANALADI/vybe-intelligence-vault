@@ -4,10 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/latest/getstarted/rag_testset_generation/
-published_at: '2026-08-04T20:16:20.286152+05:30'
-collected_at: '2026-08-04T20:16:20.286168+05:30'
+published_at: '2026-08-04T22:41:09.161102+05:30'
+collected_at: '2026-08-04T22:41:09.161110+05:30'
 tags:
 - anthropic
+- benchmark
 - dataset
 - meta-ai
 - models
@@ -17,9 +18,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:testset-generation-for-rag-ragas
-first_seen: '2026-08-04T20:16:20.286168+05:30'
-last_seen: '2026-08-04T20:16:20.286168+05:30'
-last_checked: '2026-08-04T20:16:20.286168+05:30'
+first_seen: '2026-08-04T22:41:09.161110+05:30'
+last_seen: '2026-08-04T22:41:09.161110+05:30'
+last_checked: '2026-08-04T22:41:09.161110+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM Integration**: Supports multiple LLM providers (OpenAI, AWS Bedrock, Google AI/Vertex AI, Azure) via `LangchainLLMWrapper` or `LlamaIndexLLMWrapper` for testset generation, with configuration for model, temperature, and credentials.
-- **Knowledge Graph Pipeline**: Constructs a `KnowledgeGraph` from input documents, enriches it using transformations (e.g., `default_transforms`), and persists it (e.g., `knowledge_graph.json`) for structured test data synthesis.
-- **Testset Generation**: Uses `TestsetGenerator` with a query distribution (e.g., `default_query_distribution`) to produce synthetic queries (single/multi-hop) and evaluates RAG pipelines via metrics like `answer_relevancy` and `answer_correctness`.
+- **Knowledge Graph Construction**: Documents are parsed into a structured `KnowledgeGraph` with nodes (e.g., `NodeType.DOCUMENT`) and metadata, followed by enrichment via transformations (e.g., `default_transforms`) using an LLM and embedding model to extract relationships and context.
+
+- **Testset Generation Pipeline**: Uses the enriched `KnowledgeGraph` to synthesize test scenarios via `TestsetGenerator`, with configurable query distributions (e.g., `default_query_distribution`) to produce diverse multi-hop and single-hop queries for RAG evaluation.
+
+- **Multi-Provider LLM Integration**: Supports wrapping LLMs (OpenAI, AWS Bedrock, Google AI/Vertex, Azure) and embeddings (e.g., `LangchainLLMWrapper`, `LangchainEmbeddingsWrapper`) for testset generation, with optional safety settings and custom configurations for different cloud providers.
 
 ## Why It Matters
 
@@ -39,11 +42,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T20:16:20.286152+05:30
+- Published: 2026-08-04T22:41:09.161102+05:30
 
 ## Related Tags
 
 - anthropic
+- benchmark
 - dataset
 - meta-ai
 - models

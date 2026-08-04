@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-04T20:12:14.534412+05:30'
+collected_at: '2026-08-04T22:37:02.771795+05:30'
 published_at: '2026-08-01T15:12:46Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1486
 language: JavaScript
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-04T20:12:14.534412+05:30'
-last_seen: '2026-08-04T20:12:14.534412+05:30'
-last_checked: '2026-08-04T20:12:14.534412+05:30'
+first_seen: '2026-08-04T22:37:02.771795+05:30'
+last_seen: '2026-08-04T22:37:02.771795+05:30'
+last_checked: '2026-08-04T22:37:02.771795+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM inference without external black-box dependencies.
+- **Educational RAG Implementation**: Provides a step-by-step, from-scratch JavaScript-based RAG pipeline using `node-llama-cpp` for local LLMs, avoiding black-box abstractions to foster deep understanding of embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Core Components**: Covers embeddings generation, vector search (likely via similarity metrics like cosine), retrieval-augmented context integration, and context-augmented generation for a functional RAG chatbot.
+- **Technical Stack**: Leverages Node.js with `node-llama-cpp` for LLM inference, emphasizing local execution for transparency and control over the RAG pipeline components.
 
-- **Educational Focus**: Provides a hands-on tutorial to deconstruct RAG workflows, emphasizing transparency in embeddings, retrieval mechanisms, and LLM interaction for practical understanding.
+- **Purpose & Scope**: Designed as a tutorial repository to demystify RAG systems, covering agents, AI-agents, and the full RAG pipeline (embeddings, retrieval, and generation) with practical, hands-on implementation.
 
 ## Why It Matters
 

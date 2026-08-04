@@ -6,15 +6,16 @@ source_name: GitHub Discovery
 source_url: https://github.com/stanford-oval/storm?source=post_page
 resource_id: github:stanford-oval/storm
 -----dba899ae0355---------------------------------------
-collected_at: '2026-08-04T20:16:19.702308+05:30'
-published_at: '2026-08-04T14:12:04Z'
+collected_at: '2026-08-04T22:41:08.007465+05:30'
+published_at: '2026-08-04T15:25:03Z'
 tags:
 - agents
 - github-repo
+- models
 - python
 - rag
 - workflows
-stars: 30780
+stars: 30781
 language: Python
 status: active
 license: MIT
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-03-24T16:23:39Z'
 pushed_at: '2025-09-30T18:07:21Z'
 resource_id: github:stanford-oval/storm
-first_seen: '2026-08-04T20:16:19.702308+05:30'
-last_seen: '2026-08-04T20:16:19.702308+05:30'
-last_checked: '2026-08-04T20:16:19.702308+05:30'
+first_seen: '2026-08-04T22:41:08.007465+05:30'
+last_seen: '2026-08-04T22:41:08.007465+05:30'
+last_checked: '2026-08-04T22:41:08.007465+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive reports with inline citations, enabling deep, evidence-backed knowledge synthesis.
+- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive, citation-backed reports through iterative retrieval and synthesis.
 
-- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline, dynamically retrieving and synthesizing information from diverse sources to iteratively refine reports.
+- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline, enabling dynamic multi-source exploration, hypothesis testing, and structured report generation (EMNLP 2024/NAACL contribution).
 
-- **EMNLP/NAACL-Aligned Research Tool**: Designed for advanced NLP applications, supporting structured knowledge curation, report generation, and retrieval-augmented workflows, with recent updates (2026) enhancing scalability and citation accuracy.
+- **Python-Based System**: Open-source Python repository with 30.7K+ stars, supporting deep-research workflows, multi-agent collaboration, and automated citation integration for high-fidelity knowledge synthesis.
 
 ## Why It Matters
 
@@ -45,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanford-oval
-- Stars: 30780
+- Stars: 30781
 - Forks: 2883
 - Language: Python
 - Topics: agentic-rag, deep-research, emnlp2024, knowledge-curation, large-language-models, naacl, nlp, report-generation, retrieval-augmented-generation
-- Last Updated: 2026-08-04T14:12:04Z
+- Last Updated: 2026-08-04T15:25:03Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-24T16:23:39Z

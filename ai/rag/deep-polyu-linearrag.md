@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-04T20:13:39.550484+05:30'
+collected_at: '2026-08-04T22:38:27.826216+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-04T20:13:39.550484+05:30'
-last_seen: '2026-08-04T20:13:39.550484+05:30'
-last_checked: '2026-08-04T20:13:39.550484+05:30'
+first_seen: '2026-08-04T22:38:27.826216+05:30'
+last_seen: '2026-08-04T22:38:27.826216+05:30'
+last_checked: '2026-08-04T22:38:27.826216+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework that leverages linear graph structures for efficient retrieval and augmentation in large-scale corpora, optimizing LLM performance by reducing computational overhead while maintaining contextual relevance.
-
-- **Scalable Graph-Based Retrieval**: Introduces a linear-time graph traversal mechanism to dynamically construct retrieval paths, enabling efficient navigation of large document graphs without sacrificing retrieval quality or latency.
-
-- **ICLR 2026 Contribution**: Demonstrates state-of-the-art results in retrieval-augmented generation tasks by integrating linear graph structures with LLMs, achieving significant improvements in both accuracy and computational efficiency on large-scale datasets.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a linear-time graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency while maintaining contextual relevance for LLMs.
+- **Graph Construction & Retrieval**: Implements a linear-complexity graph structure where nodes represent text segments and edges encode semantic relationships, enabling scalable retrieval without quadratic overhead.
+- **Performance & Scalability**: Achieves state-of-the-art results on ICLR 2026 benchmarks, demonstrating linear scaling with corpus size while preserving retrieval accuracy and generation quality.
 
 ## Why It Matters
 

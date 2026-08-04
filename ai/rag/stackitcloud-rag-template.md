@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-08-04T20:12:24.470410+05:30'
+collected_at: '2026-08-04T22:37:12.841941+05:30'
 published_at: '2026-08-02T00:39:45Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 86
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-08-02T01:14:47Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-08-04T20:12:24.470410+05:30'
-last_seen: '2026-08-04T20:12:24.470410+05:30'
-last_checked: '2026-08-04T20:12:24.470410+05:30'
+first_seen: '2026-08-04T22:37:12.841941+05:30'
+last_seen: '2026-08-04T22:37:12.841941+05:30'
+last_checked: '2026-08-04T22:37:12.841941+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend operations.
-- **Key Components**: Integrates **Ollama** for LLM inference, **FastAPI** for REST endpoints, and supports **Docker** and **Kubernetes** for container orchestration, with **vector database** integration for efficient document retrieval.
-- **Deployment**: Optimized for **STACKIT Cloud** with modular design for scalability, supporting **Python** and structured for AI-driven workflows (e.g., chatbots, document processing).
+- **Architecture**: Implements a Retrieval-Augmented Generation (RAG) pipeline using FastAPI for document ingestion, vector search (via vector DB), and LLM-based response generation with Ollama integration.
+- **Deployment**: Supports Docker for containerization and Kubernetes for orchestration, enabling scalable chatbot and document management systems.
+- **Tech Stack**: Python-based, leveraging FastAPI for REST endpoints, vector databases for embeddings, and Ollama for local LLM inference.
 
 ## Why It Matters
 

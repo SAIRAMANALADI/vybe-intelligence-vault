@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-04T20:12:49.420163+05:30'
+collected_at: '2026-08-04T22:37:37.776359+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 265
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-04T20:12:49.420163+05:30'
-last_seen: '2026-08-04T20:12:49.420163+05:30'
-last_checked: '2026-08-04T20:12:49.420163+05:30'
+first_seen: '2026-08-04T22:37:37.776359+05:30'
+last_seen: '2026-08-04T22:37:37.776359+05:30'
+last_checked: '2026-08-04T22:37:37.776359+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically optimized for Vietnamese language processing, including text preprocessing, embedding models, and retrieval strategies tailored for Vietnamese corpora.
-
-- **Modular Python Architecture**: Backend is built with a modular Python framework, integrating components like vector databases (e.g., FAISS, Chroma), retrieval pipelines, and LLM inference (e.g., ViT5, PhoBERT) for scalable Vietnamese RAG deployments.
-
-- **Evaluation & Benchmarking**: Includes evaluation scripts and benchmark datasets to assess retrieval quality and generation performance, with metrics such as precision@k, recall@k, and BLEU for Vietnamese-specific RAG tasks.
+- Implements **Vietnamese-specific Retrieval-Augmented Generation (RAG)** pipeline with optimized embedding and retrieval components for Vietnamese text.
+- Utilizes **FAISS** for efficient vector similarity search and **Vietnamese language models** (e.g., PhoBERT) for contextual embeddings.
+- Includes **end-to-end workflow** with preprocessing, indexing, retrieval, and generation, demonstrated via FastAPI backend.
 
 ## Why It Matters
 

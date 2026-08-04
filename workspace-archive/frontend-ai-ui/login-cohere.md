@@ -2,7 +2,7 @@
 title: Login | Cohere
 archive_category: frontend-ai-ui
 source_category: ai/resources
-source_url: https://dashboard.cohere.com/playground/generate
+source_url: https://dashboard.cohere.com/welcome/login
 resource_id: blog:login-cohere
 local_vault_path: ai/resources/login-cohere.md
 quality_score: 70
@@ -31,8 +31,8 @@ selection_reason:
 ## Summary
 
 - **Authentication Methods**: Supports OAuth via Google and GitHub, alongside traditional email/password login.
-- **Session Management**: Includes password reset functionality via email (`/reset-password`).
-- **Legal Compliance**: Requires acceptance of [Terms of Use](https://cohere.com/terms-of-use) and [Privacy Policy](https://cohere.com/privacy) upon registration.
+- **Password Recovery**: Provides a "Forgot Password" link redirecting to a password reset endpoint.
+- **Legal Compliance**: Enforces acceptance of *Terms of Use* and *Privacy Policy* during sign-up.
 
 ## Use Cases
 
@@ -42,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dashboard.cohere.com/playground/generate
+Original source URL: https://dashboard.cohere.com/welcome/login
 
 ## Local Vault File
 

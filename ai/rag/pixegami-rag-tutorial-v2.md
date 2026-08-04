@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-04T20:12:09.422207+05:30'
+collected_at: '2026-08-04T22:36:57.806269+05:30'
 published_at: '2026-08-03T17:47:21Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 stars: 965
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-04T20:12:09.422207+05:30'
-last_seen: '2026-08-04T20:12:09.422207+05:30'
-last_checked: '2026-08-04T20:12:09.422207+05:30'
+first_seen: '2026-08-04T22:36:57.806269+05:30'
+last_seen: '2026-08-04T22:36:57.806269+05:30'
+last_checked: '2026-08-04T22:36:57.806269+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment of Retrieval-Augmented Generation (RAG) systems using local language models (LLMs) for enhanced privacy and reduced dependency on cloud APIs.
+- **Local LLM Integration**: Demonstrates implementation of Retrieval-Augmented Generation (RAG) using local language models (LLMs) for privacy and offline capability, leveraging libraries like `llama-cpp-python` or `transformers`.
 
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
+- **Dynamic Database Updates**: Implements automated or semi-automated database updates (e.g., ChromaDB, FAISS, or Weaviate) to ensure vector embeddings stay current with new or modified documents, using incremental indexing or batch processing.
 
-- **Testing Framework**: Includes automated evaluation pipelines for RAG performance metrics (e.g., retrieval accuracy, answer correctness) using synthetic or benchmark datasets.
+- **Testing & Evaluation Framework**: Includes unit and integration tests (e.g., pytest) for RAG pipelines, with metrics like retrieval precision/recall and generation quality (e.g., BLEU, ROUGE) to validate performance under different configurations.
 
 ## Why It Matters
 

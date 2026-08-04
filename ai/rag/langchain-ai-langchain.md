@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langchain
-collected_at: '2026-08-04T20:15:39.662731+05:30'
-published_at: '2026-08-04T14:43:22Z'
+collected_at: '2026-08-04T22:40:27.943079+05:30'
+published_at: '2026-08-04T16:50:15Z'
 tags:
 - agents
 - anthropic
@@ -14,17 +14,17 @@ tags:
 - python
 - rag
 - workflows
-stars: 143406
+stars: 143415
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2022-10-17T02:58:36Z'
-pushed_at: '2026-08-04T13:51:39Z'
+pushed_at: '2026-08-04T15:54:12Z'
 resource_id: github:langchain-ai/langchain
-first_seen: '2026-08-04T20:15:39.662731+05:30'
-last_seen: '2026-08-04T20:15:39.662731+05:30'
-last_checked: '2026-08-04T20:15:39.662731+05:30'
+first_seen: '2026-08-04T22:40:27.943079+05:30'
+last_seen: '2026-08-04T22:40:27.943079+05:30'
+last_checked: '2026-08-04T22:40:27.943079+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent & LLM Integration**: Framework for building AI agents with support for OpenAI, Anthropic, Gemini, and other LLM providers, enabling multi-agent orchestration and tool integration.
-- **LangGraph & Enterprise Features**: Implements LangGraph for stateful, multi-actor workflows with enterprise-grade scalability, Pydantic-based data validation, and RAG (Retrieval-Augmented Generation) capabilities.
-- **Polyglot Ecosystem**: Python-centric with TypeScript support, offering tools for generative AI, deep learning agents, and enterprise deployments via modular, open-source components.
+- **Framework Overview**: Open-source Python framework (`langchain`) for building AI agents, integrating LLMs (OpenAI, Anthropic, Gemini), RAG, and multi-agent systems with modular components.
+- **Key Features**: Supports enterprise-grade agent engineering via `LangGraph` for stateful workflows, Pydantic for structured outputs, and TypeScript compatibility for cross-language deployment.
+- **Ecosystem**: Extensive integrations (e.g., `deepagents`, RAG pipelines) with 143K+ GitHub stars, actively maintained (last update: 2026-08-04).
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 143406
-- Forks: 23879
+- Stars: 143415
+- Forks: 23878
 - Language: Python
 - Topics: agents, ai, ai-agents, anthropic, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag, typescript
-- Last Updated: 2026-08-04T14:43:22Z
+- Last Updated: 2026-08-04T16:50:15Z
 - License: MIT
 - Archived: No
 - Created At: 2022-10-17T02:58:36Z
-- Pushed At: 2026-08-04T13:51:39Z
+- Pushed At: 2026-08-04T15:54:12Z
 
 ## Possible Use Cases
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-04T20:12:54.559482+05:30'
+collected_at: '2026-08-04T22:37:42.837431+05:30'
 published_at: '2026-08-03T16:39:06Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-03T08:23:24Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-04T20:12:54.559482+05:30'
-last_seen: '2026-08-04T20:12:54.559482+05:30'
-last_checked: '2026-08-04T20:12:54.559482+05:30'
+first_seen: '2026-08-04T22:37:42.837431+05:30'
+last_seen: '2026-08-04T22:37:42.837431+05:30'
+last_checked: '2026-08-04T22:37:42.837431+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Repository (`Yigtwxx/awesome-rag-production`) compiling production-grade tools, frameworks, and best practices for **scalable Retrieval-Augmented Generation (RAG)** systems, including LangChain, vector databases, and MLOps pipelines.
-- **Technical Scope**: Focuses on **embeddings, LLMOps, and vector databases** with Python-based implementations, covering AI engineering, generative AI, and large language models (LLMs) for deployment.
-- **Metadata**: 184 stars, 46 forks, last updated **2026-08-03**, with topics spanning AI/ML engineering, RAG, and production-grade generative AI workflows.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering end-to-end workflows from embeddings to deployment.
+
+- **Comprehensive Tech Stack**: Includes Python-based tools for embeddings, vector databases, LLM orchestration (e.g., LangChain), and MLOps/LLMops pipelines, with emphasis on scalability, reliability, and integration in production environments.
+
+- **Active Maintenance & Community**: Last updated in 2026, the list reflects ongoing contributions (184 stars, 46 forks) and covers key topics like generative AI, LLMOps, and retrieval optimization for enterprise-grade RAG deployments.
 
 ## Why It Matters
 

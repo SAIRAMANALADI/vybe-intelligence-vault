@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-08-04T20:14:49.584178+05:30'
+collected_at: '2026-08-04T22:39:37.919089+05:30'
 published_at: '2026-08-04T03:46:35Z'
 tags:
 - agents
 - benchmark
-- dataset
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-07-27T21:25:19Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-08-04T20:14:49.584178+05:30'
-last_seen: '2026-08-04T20:14:49.584178+05:30'
-last_checked: '2026-08-04T20:14:49.584178+05:30'
+first_seen: '2026-08-04T22:39:37.919089+05:30'
+last_seen: '2026-08-04T22:39:37.919089+05:30'
+last_checked: '2026-08-04T22:39:37.919089+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, focusing on metrics like OCR accuracy, table extraction, and layout understanding across diverse document types (PDFs, images, structured/unstructured text).
+- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like PDF parsing, OCR, table extraction, and vision-language model performance.
 
-- **Integration & Tools**: Built with Python, it leverages LlamaIndex for indexing and retrieval, supporting vision-language models (VLMs) and OCR pipelines for multimodal parsing tasks.
+- **Technical Scope**: Supports evaluation of structured/unstructured document parsing, including multimodal inputs (text + images), with metrics for accuracy, robustness, and efficiency.
 
-- **Evaluation Focus**: Measures performance in document-AI tasks including table extraction, layout analysis, and end-to-end parsing, with standardized datasets and metrics for reproducibility.
+- **Integration & Tools**: Built for compatibility with LlamaIndex, includes Python-based evaluation pipelines, and supports OCR tools for extracting text from scanned documents.
 
 ## Why It Matters
 

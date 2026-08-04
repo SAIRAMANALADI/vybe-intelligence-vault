@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-08-04T17:11:18.032108+05:30'
-collected_at: '2026-08-04T17:11:18.032122+05:30'
+published_at: '2026-08-04T22:41:18.964774+05:30'
+collected_at: '2026-08-04T22:41:18.964786+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-08-04T17:11:18.032122+05:30'
-last_seen: '2026-08-04T17:11:18.032122+05:30'
-last_checked: '2026-08-04T17:11:18.032122+05:30'
+first_seen: '2026-08-04T22:41:18.964786+05:30'
+last_seen: '2026-08-04T22:41:18.964786+05:30'
+last_checked: '2026-08-04T22:41:18.964786+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **New Embedding Models**: `text-embedding-3-small` (1536-dim) and `text-embedding-3-large` (3072-dim) offer lower costs, improved multilingual performance, and adjustable dimensions via API parameter for dimensionality reduction while preserving semantic properties.
-- **Embedding Mechanics**: Text strings are converted to floating-point vectors where cosine similarity/distance metrics quantify semantic relatedness; token-based pricing applies to API requests.
-- **Dimensionality Control**: The `dimensions` parameter enables dynamic truncation (e.g., reducing 3072-dim to 256) without retraining, optimizing storage/compute trade-offs while maintaining performance (e.g., 256-dim truncated `text-embedding-3-large` outperforms untruncated `text-embedding-ada-002` at 1536-dim).
+- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable embedding dimensions via the `dimensions` parameter (default: 1536/3072, reducible to 256+ without significant performance loss).
+
+- **Embedding Mechanics**: Text embeddings are high-dimensional vectors (floating-point lists) where cosine similarity between vectors measures semantic relatedness; token-based pricing applies (e.g., ~62.5k pages/$ for `text-embedding-3-small` at ~800 tokens/page).
+
+- **Use Cases & Optimization**: Enables search, clustering, recommendations, and classification; dimension reduction (via `dimensions` parameter) optimizes storage/compute while maintaining performance (e.g., 256D `text-embedding-3-large` outperforms 1536D `ada-002`).
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T17:11:18.032108+05:30
+- Published: 2026-08-04T22:41:18.964774+05:30
 
 ## Related Tags
 

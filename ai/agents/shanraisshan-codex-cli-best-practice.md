@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-04T20:14:29.539226+05:30'
+collected_at: '2026-08-04T22:39:17.859044+05:30'
 published_at: '2026-08-04T12:21:57Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-04T20:14:29.539226+05:30'
-last_seen: '2026-08-04T20:14:29.539226+05:30'
-last_checked: '2026-08-04T20:14:29.539226+05:30'
+first_seen: '2026-08-04T22:39:17.859044+05:30'
+last_seen: '2026-08-04T22:39:17.859044+05:30'
+last_checked: '2026-08-04T22:39:17.859044+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for scalable AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing automation and multi-agent collaboration for complex coding tasks.
 
-- **Codex CLI Best Practices**: Documents optimized commands, agentic workflows, and CLI-based skills for OpenAI Codex, including context management, multi-agent orchestration, and hook-based extensibility for enterprise-grade AI agent deployments.
+- **CLI-Centric Best Practices**: Provides a curated set of Codex CLI commands, hooks, and skills (e.g., `codex-hooks`, `context-engineering`) to optimize AI-driven development workflows, including context management and skill chaining.
 
-- **Open-Source Toolkit**: Python-based repository with 954 stars and 64 forks, offering reusable templates, hooks, and CLI configurations to standardize agentic coding practices for Pakistani developers and global AI engineering teams.
+- **Open-Source Contribution Framework**: Serves as a Pakistani-led open-source project (`pakistani-developer` tag) with 954 stars and 64 forks, offering a scalable template for AI agent orchestration in Python-based environments.
 
 ## Why It Matters
 

@@ -2,17 +2,16 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://developer.android.com
+source_url: http://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
-- frontend_ui
 - producthunt
 - rag
 - reddit
@@ -28,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Jetpack Compose** marks 5 years as the industry-standard declarative UI framework for Android, reshaping modern development with its reactive paradigm and deep integration into the Android ecosystem.
-
-- **Android 17 (API 37)** is officially released, with AOSP source code live and rolling out to Pixel devices; key updates include new APIs, performance optimizations, and expanded XR platform support for immersive experiences.
-
-- **Android Studio Quail 3 | 2026.1.3** introduces tooling enhance
+- **Jetpack Compose** marks 5 years since its inception, solidifying its role as the industry standard for modern Android UI development, with AOSP source code for **Android 17 (API 37)** now live and rolling out to Pixel devices.
+- **Android XR** platform expands with new tools for building, testing, and scaling immersive experiences, including enhanced engine support and resources for cross-ecosystem development.
+- **Android Studio Quail 3 | 2026.1.3** introduces updated SDK licensing terms, e
 
 ## Use Cases
 
@@ -50,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com
+Original source URL: http://developer.android.com/index.html
 
 ## Local Vault File
 

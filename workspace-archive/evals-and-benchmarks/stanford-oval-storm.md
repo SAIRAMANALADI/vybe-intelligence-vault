@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- models
 - python
 - rag
 - workflows
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive reports with inline citations, enabling deep, evidence-backed knowledge synthesis.
+- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive, citation-backed reports through iterative retrieval and synthesis.
 
-- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline, dynamically retrieving and synthesizing information from diverse sources to iteratively refine reports.
+- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline, enabling dynamic multi-source exploration, hypothesis testing, and structured report generation (EMNLP 2024/NAACL contribution).
 
-- **EMNLP/NAACL-Aligned Research Tool**: Designed for advanced NLP ap
+- **Python-Based System**: Open-source Python repository wi
 
 ## Use Cases
 

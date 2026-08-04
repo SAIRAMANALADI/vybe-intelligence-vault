@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com
-published_at: '2026-08-04T20:20:18.901557+05:30'
-collected_at: '2026-08-04T20:20:18.901574+05:30'
+source_url: https://www.githubstatus.com/
+published_at: '2026-08-04T22:45:15.288109+05:30'
+collected_at: '2026-08-04T22:45:15.288121+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-04T20:20:18.901574+05:30'
-last_seen: '2026-08-04T20:20:18.901574+05:30'
-last_checked: '2026-08-04T20:20:18.901574+05:30'
+first_seen: '2026-08-04T22:45:15.288121+05:30'
+last_seen: '2026-08-04T22:45:15.288121+05:30'
+last_checked: '2026-08-04T22:45:15.288121+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Actions) with historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days).
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics (e.g., 99.99% for Git Operations over 90 days) and incident reports (e.g., Copilot AI Model Provider outages on Aug 1–3, 2026).
 
-- **Incident Notifications**: Supports multi-channel incident updates via email, SMS (global), Slack, and webhooks, with OTP-based verification for secure subscriptions.
+- **Notification Systems**: Supports multi-channel incident alerts via email, SMS (global country codes), Slack, and webhooks, with subscription management tied to GitHub’s Privacy Policy and reCAPTCHA protection.
 
-- **Copilot Outages**: Recent incidents (e.g., Jul 29–Aug 3, 2026) involved degraded performance for Copilot AI Model Providers (e.g., Claude Fable 5, GPT-5.6 Luna) due to upstream provider issues, resolved with provider coordination.
+- **Regional Status Endpoints**: Offers region-specific status pages (e.g., `au.githubstatus.com`, `eu.githubstatus.com`) for GitHub Enterprise Cloud, alongside Atom/RSS feeds for automated monitoring.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T20:20:18.901557+05:30
+- Published: 2026-08-04T22:45:15.288109+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com
+Original source: https://www.githubstatus.com/

@@ -3,7 +3,7 @@ title: hub-docs/docs/hub/models.md at main · huggingface/hub-docs · GitHub
 archive_category: evals-and-benchmarks
 source_category: ai/resources
 source_url: https://github.com/huggingface/hub-docs/blob/main/docs/hub/models.md
-resource_id: github:huggingface/hub-docs
+resource_id: github:huggingface/hub-docs-c43d9f39
 local_vault_path: ai/resources/huggingface-hub-docs.md
 quality_score: 70
 archive_score: 77

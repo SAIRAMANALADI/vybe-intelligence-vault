@@ -11,13 +11,13 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Blog | Bluesky](https://docs.bsky.app/blog) (Score: 70) - Category: `ai-coding-agents/`
 *   [Photojournal - NASA Science](https://photojournal.jpl.nasa.gov/index.html) (Score: 70) - Category: `ai-coding-agents/`
 *   [Mintlify · GitHub](https://github.com/mintlify) (Score: 70) - Category: `ai-coding-agents/`
+*   [How your data is used to improve model performance | OpenAI Help Center](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) (Score: 70) - Category: `ai-coding-agents/`
 *   [How your Apple Card application is evaluated - Apple Support](https://support.apple.com/kb/HT209218) (Score: 70) - Category: `ai-coding-agents/`
 *   [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (Score: 70) - Category: `ai-coding-agents/`
 *   [OpenResearch](https://openresearch.sh/compute) (Score: 70) - Category: `ai-coding-agents/`
 *   [extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at master · firebase/extensions · GitHub](https://github.com/firebase/extensions/blob/master/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md) (Score: 70) - Category: `ai-coding-agents/`
 *   [Stylised pathways to “well below 2°C”](https://cicero.oslo.no/en/articles/stylised-pathways-to-well-below-2c) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
-*   [Graph Neural Network-based Algorithm Selection for the Traveling Salesman Problem: A Systematic Study of Cost and Rank Losses under Distinct Budget Regimes](https://arxiv.org/abs/2607.18632) (Score: 70) - Category: `ai-coding-agents/`
-*   [Algorithmic Constitutionalism](https://arxiv.org/abs/2606.12437) (Score: 70) - Category: `ai-coding-agents/`
+*   [ChatGPT | ChatGPT Learn](https://developers.openai.com/codex/) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.
