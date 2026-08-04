@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-04T09:09:15.869834+05:30'
+collected_at: '2026-08-04T14:41:29.157838+05:30'
 published_at: '2026-08-01T13:42:45Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-04T09:09:15.869834+05:30'
-last_seen: '2026-08-04T09:09:15.869834+05:30'
-last_checked: '2026-08-04T09:09:15.869834+05:30'
+first_seen: '2026-08-04T14:41:29.157838+05:30'
+last_seen: '2026-08-04T14:41:29.157838+05:30'
+last_checked: '2026-08-04T14:41:29.157838+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates advanced techniques, frameworks, and tools for Retrieval-Augmented Generation (RAG) in LLMs, including embeddings, retrieval methods, and hybrid architectures.
-- **Technical Scope**: Covers topics like dense/sparse embeddings, retrieval optimization, multi-modal RAG, and evaluation metrics for RAG systems in LLMs.
-- **Active Maintenance**: Last updated in 2026, indicating ongoing updates with contributions from 1,340+ stars and 89 forks, reflecting community engagement.
+- **Curated RAG Resources**: A comprehensive collection of advanced Retrieval-Augmented Generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Technical Focus**: Emphasizes cutting-edge RAG methods, including retrieval-information optimization, LLM-embedding interactions, and hybrid retrieval architectures for enhanced generation quality.
+- **Active Maintenance**: Regularly updated (last commit: 2026-08-01) with contributions from the community, ensuring relevance for state-of-the-art LLM applications.
 
 ## Why It Matters
 

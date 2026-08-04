@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-04T09:09:15.957821+05:30'
+collected_at: '2026-08-04T14:41:29.211387+05:30'
 published_at: '2026-08-03T17:51:18Z'
 tags:
 - github-repo
-- hackernews
 - openai
 - python
 - rag
+- reddit
 stars: 1171
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-08-03T11:51:59Z'
+pushed_at: '2026-08-04T04:28:20Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-04T09:09:15.957821+05:30'
-last_seen: '2026-08-04T09:09:15.957821+05:30'
-last_checked: '2026-08-04T09:09:15.957821+05:30'
+first_seen: '2026-08-04T14:41:29.211387+05:30'
+last_seen: '2026-08-04T14:41:29.211387+05:30'
+last_checked: '2026-08-04T14:41:29.211387+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs (e.g., GPT models) for generative responses, enabling Q&A and ChatGPT-style interactions.
-
-- **Key Components**: Includes **pre-built pipelines** for document ingestion, indexing, and retrieval, with **best-practice templates** (e.g., AZD templates) for deployment, supporting multi-modal data (text, PDFs, etc.) and hybrid search (semantic + keyword).
-
-- **Technical Stack**: Python-based solution leveraging **Azure SDKs**, **LangChain** (or similar frameworks) for orchestration, and **vector embeddings** (e.g., `text-embedding-ada-002`) with **semantic rankers** for enhanced retrieval accuracy.
+- **Architecture**: Implements **Retrieval-Augmented Generation (RAG)** pattern in Azure, combining **Azure AI Search** for retrieval with **Azure OpenAI** LLMs for chat/Q&A experiences, following best practices.
+- **Key Components**: Uses **Python** with **AZD templates** for deployment, integrates **Azure OpenAI** for LLM inference, and **Azure AI Search** for vector/keyword-based document retrieval.
+- **Features**: Provides a production-ready accelerator with common requirements (e.g., authentication, indexing, orchestration) and supports **ChatGPT-style** and **Q&A** interactions.
 
 ## Why It Matters
 
@@ -51,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-08-03T11:51:59Z
+- Pushed At: 2026-08-04T04:28:20Z
 
 ## Possible Use Cases
 

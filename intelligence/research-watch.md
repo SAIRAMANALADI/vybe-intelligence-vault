@@ -24,10 +24,10 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems](https://arxiv.org/abs/2606.14923) | `ai-coding-agents/` | 70 |
 | [Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing](https://arxiv.org/abs/2606.30555) | `ai-coding-agents/` | 70 |
 | [Breaking the Solver Bottleneck: Training Task Generators at the Learnable Frontier](https://arxiv.org/abs/2606.18284) | `ai-coding-agents/` | 70 |
+| [LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference](https://arxiv.org/abs/2608.02515) | `ai-coding-agents/` | 70 |
 | [DRNOISE: Benchmarking Deep Research Agents in Misleading Evidence Environments](https://arxiv.org/abs/2607.17291) | `ai-coding-agents/` | 70 |
 | [SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL](https://arxiv.org/abs/2607.11185) | `ai-coding-agents/` | 70 |
 | [AI4SLT: Empirical Processes in Lean 4 for Formal Statistical Learning Theory](https://arxiv.org/abs/2602.02285) | `ai-coding-agents/` | 70 |
 | [Cross-Layer Misalignment Detection in Agent Skills: A Progressive Loading-Aware Contrastive Learning Approach](https://arxiv.org/abs/2607.10534) | `ai-coding-agents/` | 70 |
-| [R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations](https://arxiv.org/abs/2510.18085) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

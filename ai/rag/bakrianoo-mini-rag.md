@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-08-04T09:09:50.925873+05:30'
+collected_at: '2026-08-04T14:42:04.175151+05:30'
 published_at: '2026-08-02T15:16:36Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 672
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-08-04T09:09:50.925873+05:30'
-last_seen: '2026-08-04T09:09:50.925873+05:30'
-last_checked: '2026-08-04T09:09:50.925873+05:30'
+first_seen: '2026-08-04T14:42:04.175151+05:30'
+last_seen: '2026-08-04T14:42:04.175151+05:30'
+last_checked: '2026-08-04T14:42:04.175151+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using FastAPI, Python, and Docker, emphasizing scalability and deployment best practices.
-
-- **Modular Architecture**: Implements a decoupled design with FastAPI for backend services, Docker for containerization, and integrates GenAI models with vector databases for efficient retrieval and generation workflows.
-
-- **Open-Source Learning Resource**: Serves as a hands-on educational project with 672 stars and 299 forks, covering core RAG components (indexing, retrieval, generation) and GenAI integration patterns for real-world applications.
+- **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker.
+- **Modular Architecture**: Implements a structured approach with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration.
+- **Deployment-Ready**: Includes Dockerized setup for scalability, with FastAPI endpoints for real-time inference and GenAI model integration.
 
 ## Why It Matters
 

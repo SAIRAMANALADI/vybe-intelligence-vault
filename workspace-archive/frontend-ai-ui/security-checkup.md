@@ -3,7 +3,7 @@ title: Security Checkup
 archive_category: frontend-ai-ui
 source_category: ai/resources
 source_url: https://myaccount.google.com/security-checkup?utm_source=pp
-resource_id: blog:security-checkup
+resource_id: blog:security-checkup-8f6bb742
 local_vault_path: ai/resources/security-checkup.md
 quality_score: 70
 archive_score: 72

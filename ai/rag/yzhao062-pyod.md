@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-08-04T09:11:05.989433+05:30'
+collected_at: '2026-08-04T14:43:19.230798+05:30'
 published_at: '2026-08-03T11:52:27Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
-- scripts
 - workflows
 stars: 9951
 language: Python
@@ -23,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-08-02T12:42:17Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-08-04T09:11:05.989433+05:30'
-last_seen: '2026-08-04T09:11:05.989433+05:30'
-last_checked: '2026-08-04T09:11:05.989433+05:30'
+first_seen: '2026-08-04T14:43:19.230798+05:30'
+last_seen: '2026-08-04T14:43:19.230798+05:30'
+last_checked: '2026-08-04T14:43:19.230798+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection**: PyOD supports **60+ detectors** across diverse data modalities including tabular, time series, graph, text, image, and audio, enabling multimodal anomaly detection.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ anomaly detection algorithms for diverse data types (tabular, time series, graph, text, image, audio) with benchmark-backed ADEngine orchestration.
 
-- **Advanced Orchestration & Workflows**: Features **ADEngine** for benchmark-backed detector orchestration and an **agentic workflow** for AI agents, enhancing automation and adaptability in anomaly detection pipelines.
+- **Agentic Workflow Integration**: Enables AI agents to dynamically select and deploy detectors via an agentic workflow, leveraging foundation models for adaptive anomaly detection.
 
-- **Multidisciplinary Integration**: Incorporates **deep learning, foundation models, and unsupervised learning**, with specialized support for **fraud detection, graph anomaly detection, and time-series analysis**, leveraging cutting-edge techniques.
+- **Multimodal & Fraud Detection Focus**: Specialized in multimodal anomaly detection (e.g., NLP, graph, image) and fraud detection, with unsupervised/out-of-distribution (OOD) detection capabilities.
 
 ## Why It Matters
 

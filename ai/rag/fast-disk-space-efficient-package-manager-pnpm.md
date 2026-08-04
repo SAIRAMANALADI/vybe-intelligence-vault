@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pnpm.io/
-published_at: '2026-08-03T15:45:24.038295+05:30'
-collected_at: '2026-08-03T15:45:24.038307+05:30'
+published_at: '2026-08-04T14:49:43.462079+05:30'
+collected_at: '2026-08-04T14:49:43.462093+05:30'
 tags:
 - frontend_ui
 - openai
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:fast-disk-space-efficient-package-manager-pnpm
-first_seen: '2026-08-03T15:45:24.038307+05:30'
-last_seen: '2026-08-03T15:45:24.038307+05:30'
-last_checked: '2026-08-03T15:45:24.038307+05:30'
+first_seen: '2026-08-04T14:49:43.462093+05:30'
+last_seen: '2026-08-04T14:49:43.462093+05:30'
+last_checked: '2026-08-04T14:49:43.462093+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized Dependency Resolution**: Uses a content-addressable store and hard links to reduce disk usage by up to 60% and enable near-instant installation times by avoiding redundant downloads and leveraging shared dependencies across projects.
+- **Optimized Dependency Resolution**: pnpm uses a content-addressable store and hard links to reduce disk usage and installation time by avoiding redundant package storage and leveraging symlinks for efficient dependency resolution.
 
-- **Enhanced Monorepo Support**: Implements a strict, non-flat dependency tree with built-in workspace protocol (`workspace:*`) for seamless multi-package management, ensuring deterministic builds and eliminating dependency conflicts in complex monorepos.
+- **Workspace & Runtime Management**: Supports monorepos via workspaces, enabling parallel task execution and centralized dependency management, while also allowing runtime version overrides via `package.json` overrides.
 
-- **Security & Supply Chain Hardening**: Introduces `minimumReleaseAge` to delay dependency updates, mitigates postinstall script risks, and employs checksum verification to protect against supply chain attacks, improving dependency integrity.
+- **Security & Supply Chain Protection**: Implements `minimumReleaseAge` to delay dependency updates, reducing exposure to vulnerable or unstable packages, and disables post-install scripts by default, mitigating supply chain attack vectors.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T15:45:24.038295+05:30
+- Published: 2026-08-04T14:49:43.462079+05:30
 
 ## Related Tags
 

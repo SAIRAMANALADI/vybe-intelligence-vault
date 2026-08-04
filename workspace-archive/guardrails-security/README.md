@@ -23,8 +23,8 @@ https://github.com/guardrails-ai/guardrails (Guardrails AI)
 https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
-- [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
 - [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
+- [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
 - [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit)
 - [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability)
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-08-04 09:25 IST*
+*Last updated: 2026-08-04 14:57 IST*

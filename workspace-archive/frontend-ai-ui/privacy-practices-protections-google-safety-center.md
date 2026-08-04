@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Minimization & Auto-Deletion**: Default 18-month auto-delete for Location History and Web & App Activity; no use of user-generated content (e.g., Gmail, Drive) for ads; sensitive data (health, race, religion) excluded from ad targeting.
-- **Privacy-Preserving Technologies**: Differential privacy, federated learning, and anonymization techniques (e.g., Private Join and Compute) applied to derive insights (e.g., Google Maps crowd data) without exposing raw user data.
-- **User Control & Tr
+- **Data Minimization & Auto-Deletion**: Default 18-month auto-deletion for activity data (e.g., Location History, Web & App Activity), with user controls to adjust or disable; sensitive data (e.g., health, religion) explicitly excluded from ad targeting.
+- **Privacy-Preserving Technologies**: Implements differential privacy, federated learning, and anonymization (e.g., Private Join and Compute) to derive insights without exposing raw user data; open-sourced for broader adoption.
+- **User Contro
 
 ## Use Cases
 

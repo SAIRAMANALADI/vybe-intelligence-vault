@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Sign in to GitHub · GitHub](../ai/resources/langchain-ai-docs.md) ([Source URL](https://github.com/langchain-ai/docs))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:21:02.352003+05:30
-- **Local Path**: `ai/resources/langchain-ai-docs.md`
+### 1. [Gemini Apps Privacy Hub - Gemini Apps Help](../ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md) ([Source URL](https://support.google.com/gemini/answer/13594961))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:51:35.932327+05:30
+- **Local Path**: `ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md`
 
-### 2. [The Agent Conference by LangChain | Interrupt 2026](../ai/agents/the-agent-conference-by-langchain-interrupt-2026.md) ([Source URL](https://interrupt.langchain.com))
+### 2. [Safeguarding your data - Analytics Help](../ai/rag/safeguarding-your-data-analytics-help.md) ([Source URL](https://support.google.com/analytics/answer/6004245?hl=en))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:51:35.789500+05:30
+- **Local Path**: `ai/rag/safeguarding-your-data-analytics-help.md`
+
+### 3. [Use Scam Detection - Phone app Help](../ai/rag/use-scam-detection-phone-app-help.md) ([Source URL](https://g.co/pixel/scam-detection-help))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:51:33.276639+05:30
+- **Local Path**: `ai/rag/use-scam-detection-phone-app-help.md`
+
+### 4. [Google Family Link - Children's Privacy Policy](../ai/rag/google-family-link-children-s-privacy-policy.md) ([Source URL](https://families.google.com/familylink/privacy/child-policy))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:51:32.322383+05:30
+- **Local Path**: `ai/rag/google-family-link-children-s-privacy-policy.md`
+
+### 5. [Google Analytics opt-out browser add-on - Analytics Help](../ai/resources/google-analytics-opt-out-browser-add-on-analytics.md) ([Source URL](https://support.google.com/analytics/answer/181881?hl=en))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:51:30.707083+05:30
+- **Local Path**: `ai/resources/google-analytics-opt-out-browser-add-on-analytics.md`
+
+### 6. [Related Website Sets | Privacy Sandbox](../ai/resources/related-website-sets-privacy-sandbox.md) ([Source URL](http://developer.chrome.com/docs/privacy-sandbox/first-party-sets))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:51:30.335918+05:30
+- **Local Path**: `ai/resources/related-website-sets-privacy-sandbox.md`
+
+### 7. [Privacy Practices & Protections - Google Safety Center](../ai/resources/privacy-practices-protections-google-safety-center.md) ([Source URL](https://safety.google/principles))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:51:22.710654+05:30
+- **Local Path**: `ai/resources/privacy-practices-protections-google-safety-center.md`
+
+### 8. [How we’re helping kids and families safely learn, grow and play online](../ai/resources/how-were-helping-kids-and-families-safely-learn-gr.md) ([Source URL](https://blog.google/technology/families/how-were-helping-kids-and-families-safely-learn-grow-and-play-online))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:51:21.658549+05:30
+- **Local Path**: `ai/resources/how-were-helping-kids-and-families-safely-learn-gr.md`
+
+### 9. [Be Internet Awesome - A Program to Teach Kids Online Safety](../ai/rag/be-internet-awesome-a-program-to-teach-kids-online.md) ([Source URL](https://beinternetawesome.withgoogle.com/en_us))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:51:21.269614+05:30
+- **Local Path**: `ai/rag/be-internet-awesome-a-program-to-teach-kids-online.md`
+
+### 10. [myshell-ai/OpenVoiceV2 · Hugging Face](../ai/rag/huggingface-myshell-ai-openvoicev2.md) ([Source URL](https://huggingface.co/myshell-ai/openvoicev2))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:51:11.426904+05:30
+- **Local Path**: `ai/rag/huggingface-myshell-ai-openvoicev2.md`
+
+### 11. [Home - Coalition for Secure AI](../ai/rag/home-coalition-for-secure-ai.md) ([Source URL](https://coalitionforsecureai.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:51:09.064070+05:30
+- **Local Path**: `ai/rag/home-coalition-for-secure-ai.md`
+
+### 12. [Mac - Apple](../ai/rag/mac-apple.md) ([Source URL](https://apple.com/mac))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:50:58.219380+05:30
+- **Local Path**: `ai/rag/mac-apple.md`
+
+### 13. [iPhone - Apple](../ai/rag/iphone-apple.md) ([Source URL](https://apple.com/iphone))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:50:58.009065+05:30
+- **Local Path**: `ai/rag/iphone-apple.md`
+
+### 14. [Apple Vision Pro - Apple](../ai/resources/apple-vision-pro-apple.md) ([Source URL](https://apple.com/apple-vision-pro))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:50:52.889074+05:30
+- **Local Path**: `ai/resources/apple-vision-pro-apple.md`
+
+### 15. [firecrawl repositories · GitHub](../ai/rag/orgs-firecrawl.md) ([Source URL](https://github.com/orgs/firecrawl))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:50:43.966560+05:30
+- **Local Path**: `ai/rag/orgs-firecrawl.md`
+
+### 16. [Firecrawl - YouTube](../ai/resources/firecrawl-youtube.md) ([Source URL](https://youtube.com/@firecrawl_dev))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:50:40.590353+05:30
+- **Local Path**: `ai/resources/firecrawl-youtube.md`
+
+### 17. [deepset-ai/haystack · Discussions · GitHub](../ai/rag/deepset-ai-haystack.md) ([Source URL](https://github.com/deepset-ai/haystack))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:50:29.221905+05:30
+- **Local Path**: `ai/rag/deepset-ai-haystack.md`
+
+### 18. [deepset (deepset)](../ai/agents/deepset-deepset.md) ([Source URL](https://huggingface.co/deepset))
 - **Category**: ai/agents
-- **Collected At**: 2026-08-04T09:20:57.684389+05:30
-- **Local Path**: `ai/agents/the-agent-conference-by-langchain-interrupt-2026.md`
+- **Collected At**: 2026-08-04T14:50:28.455896+05:30
+- **Local Path**: `ai/agents/deepset-deepset.md`
 
-### 3. [GitHub Copilot app · GitHub](../ai/agents/features-ai.md) ([Source URL](https://github.com/features/ai))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-04T09:20:57.047488+05:30
-- **Local Path**: `ai/agents/features-ai.md`
-
-### 4. [Pinecone documentation - Pinecone Docs](../ai/rag/pinecone-documentation-pinecone-docs.md) ([Source URL](https://docs.pinecone.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:52.459130+05:30
-- **Local Path**: `ai/rag/pinecone-documentation-pinecone-docs.md`
-
-### 5. [Integrations - Pinecone Docs](../ai/rag/integrations-pinecone-docs.md) ([Source URL](https://docs.pinecone.io/integrations/overview))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:52.406157+05:30
-- **Local Path**: `ai/rag/integrations-pinecone-docs.md`
-
-### 6. [Agentic IDEs and CLIs - Pinecone Docs](../ai/rag/agentic-ides-and-clis-pinecone-docs.md) ([Source URL](https://docs.pinecone.io/guides/get-started/ai-coding-tools))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:52.310875+05:30
-- **Local Path**: `ai/rag/agentic-ides-and-clis-pinecone-docs.md`
-
-### 7. [Pinecone Console](../ai/resources/pinecone-console.md) ([Source URL](https://support.pinecone.io))
+### 19. [jgm (John MacFarlane) · GitHub](../ai/resources/jgm-john-macfarlane-github.md) ([Source URL](http://github.com/jgm))
 - **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:20:51.939078+05:30
-- **Local Path**: `ai/resources/pinecone-console.md`
+- **Collected At**: 2026-08-04T14:50:21.234007+05:30
+- **Local Path**: `ai/resources/jgm-john-macfarlane-github.md`
 
-### 8. [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md) ([Source URL](https://myaccount.google.com/termsofservice?hl=en-US))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:49.404188+05:30
-- **Local Path**: `ai/rag/google-terms-of-service-privacy-terms-google.md`
-
-### 9. [Quickstart - Pinecone Docs](../ai/rag/quickstart-pinecone-docs.md) ([Source URL](https://docs.pinecone.io/guides/get-started/quickstart))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:47.677816+05:30
-- **Local Path**: `ai/rag/quickstart-pinecone-docs.md`
-
-### 10. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:47.104557+05:30
-- **Local Path**: `ai/rag/cli-cli.md`
-
-### 11. [Privacy Policy – Privacy & Terms – Google](../ai/rag/privacy-policy-privacy-terms-google.md) ([Source URL](https://accounts.google.com/tos?loc=US&hl=en-US&privacy=true))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:46.770126+05:30
-- **Local Path**: `ai/rag/privacy-policy-privacy-terms-google.md`
-
-### 12. [Google Account Help](../ai/rag/google-account-help.md) ([Source URL](https://support.google.com/accounts?hl=en-US&p=account_iph))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:46.193244+05:30
-- **Local Path**: `ai/rag/google-account-help.md`
-
-### 13. [Google Analytics Opt-out Browser Add-on Download Page](../ai/resources/google-analytics-opt-out-browser-add-on-download-p.md) ([Source URL](https://tools.google.com/dlpage/gaoptout))
+### 20. [CommonMark Spec](../ai/resources/commonmark-spec.md) ([Source URL](http://spec.commonmark.org))
 - **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:20:43.532357+05:30
-- **Local Path**: `ai/resources/google-analytics-opt-out-browser-add-on-download-p.md`
+- **Collected At**: 2026-08-04T14:50:20.843330+05:30
+- **Local Path**: `ai/resources/commonmark-spec.md`
 
-### 14. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
+### 21. [Gemini Developer API | Gemma open models | Google AI for Developers](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source URL](https://ai.google.dev))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:39.760485+05:30
-- **Local Path**: `ai/rag/github-status.md`
-
-### 15. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:20:38.158044+05:30
-- **Local Path**: `ai/rag/codeql-documentation.md`
-
-### 16. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:20:38.063892+05:30
-- **Local Path**: `ai/resources/npm-docs.md`
-
-### 17. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:20:37.810986+05:30
-- **Local Path**: `ai/resources/introduction-electron.md`
-
-### 18. [Neo4j - YouTube](../ai/rag/neo4j-youtube.md) ([Source URL](https://youtube.com/neo4j))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:19:16.736265+05:30
-- **Local Path**: `ai/rag/neo4j-youtube.md`
-
-### 19. [GoLand - YouTube](../ai/resources/goland-youtube.md) ([Source URL](https://youtube.com/playlist?list=PLQ176FUIyIUaXlyMXddbZ7TOdW2Yns4yV))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:19:03.898939+05:30
-- **Local Path**: `ai/resources/goland-youtube.md`
-
-### 20. [Download GoLand: A Go IDE with extended support for JavaScript, TypeScript, and databases](../ai/resources/download-goland-a-go-ide-with-extended-support-for.md) ([Source URL](https://jetbrains.com/go/download))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:19:03.525322+05:30
-- **Local Path**: `ai/resources/download-goland-a-go-ide-with-extended-support-for.md`
-
-### 21. [A Comprehensive Kotlin Learning Guide for All Levels - The JetBrains Blog](../ai/resources/a-comprehensive-kotlin-learning-guide-for-all-leve.md) ([Source URL](https://blog.jetbrains.com/education/2024/04/04/kotlin-learning-guide))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:19:02.675970+05:30
-- **Local Path**: `ai/resources/a-comprehensive-kotlin-learning-guide-for-all-leve.md`
-
-### 22. [Gemma â Google DeepMind](../ai/rag/gemma-a-google-deepmind.md) ([Source URL](https://deepmind.google/models/gemma))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:19:00.183285+05:30
-- **Local Path**: `ai/rag/gemma-a-google-deepmind.md`
-
-### 23. [Built-in AI | AI on Chrome | Chrome for Developers](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md) ([Source URL](https://developer.chrome.com/docs/ai/built-in))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:18:59.683781+05:30
-- **Local Path**: `ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md`
-
-### 24. [Android Open Source Project](../ai/resources/android-open-source-project.md) ([Source URL](https://source.android.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:18:56.098302+05:30
-- **Local Path**: `ai/resources/android-open-source-project.md`
-
-### 25. [LangSmith Observability - Docs by LangChain](../ai/rag/langsmith-observability-docs-by-langchain.md) ([Source URL](https://docs.langchain.com/langsmith/home))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:18:55.038707+05:30
-- **Local Path**: `ai/rag/langsmith-observability-docs-by-langchain.md`
-
-### 26. [Deep Agents Code - Docs by LangChain](../ai/rag/deep-agents-code-docs-by-langchain.md) ([Source URL](https://docs.langchain.com/oss/python/deepagents/code/overview))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:18:50.013116+05:30
-- **Local Path**: `ai/rag/deep-agents-code-docs-by-langchain.md`
-
-### 27. [Pinecone · GitHub](../ai/rag/pinecone-github.md) ([Source URL](https://github.com/pinecone-io))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:18:46.541438+05:30
-- **Local Path**: `ai/rag/pinecone-github.md`
-
-### 28. [Pinecone Status](../ai/rag/pinecone-status.md) ([Source URL](https://status.pinecone.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:18:45.125188+05:30
-- **Local Path**: `ai/rag/pinecone-status.md`
-
-### 29. [The vector database to build knowledgeable AI | Pinecone](../ai/rag/the-vector-database-to-build-knowledgeable-ai-pine.md) ([Source URL](https://pinecone.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:18:44.177016+05:30
-- **Local Path**: `ai/rag/the-vector-database-to-build-knowledgeable-ai-pine.md`
-
-### 30. [Sign in - Google Accounts](../ai/resources/sign-in-google-accounts.md) ([Source URL](https://takeout.google.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:18:42.904066+05:30
-- **Local Path**: `ai/resources/sign-in-google-accounts.md`
-
-### 31. [Welcome to My Activity](../ai/resources/welcome-to-my-activity.md) ([Source URL](https://myactivity.google.com/myactivity))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:18:42.782666+05:30
-- **Local Path**: `ai/resources/welcome-to-my-activity.md`
-
-### 32. [Privacy Checkup](../ai/resources/privacy-checkup.md) ([Source URL](https://myaccount.google.com/privacycheckup))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:18:42.514222+05:30
-- **Local Path**: `ai/resources/privacy-checkup.md`
-
-### 33. [GitHub CLI | Take GitHub to the command line](../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source URL](https://cli.github.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-04T09:18:41.415742+05:30
-- **Local Path**: `ai/agents/github-cli-take-github-to-the-command-line.md`
-
-### 34. [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../ai/rag/resources-whitepapers.md) ([Source URL](https://github.com/resources/whitepapers))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:18:41.254947+05:30
-- **Local Path**: `ai/rag/resources-whitepapers.md`
-
-### 35. [GitHub Security · GitHub](../ai/rag/github-security-github.md) ([Source URL](https://github.com/security))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:18:41.052528+05:30
-- **Local Path**: `ai/rag/github-security-github.md`
-
-### 36. [GitHub Features · GitHub](../ai/rag/github-features-github.md) ([Source URL](https://github.com/features))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:18:36.027826+05:30
-- **Local Path**: `ai/rag/github-features-github.md`
-
-### 37. [Story’s detailed stats page – Medium Help Center](../ai/rag/storys-detailed-stats-page-medium-help-center.md) ([Source URL](https://help.medium.com/hc/en-us/articles/34831991136151))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:15:22.787297+05:30
-- **Local Path**: `ai/rag/storys-detailed-stats-page-medium-help-center.md`
-
-### 38. [LangChain · GitHub](../ai/rag/langchain-github.md) ([Source URL](https://github.com/langchain-ai))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:14:20.270794+05:30
-- **Local Path**: `ai/rag/langchain-github.md`
-
-### 39. [youtube/api-samples](../ai/resources/youtube-api-samples.md) ([Source URL](https://github.com/youtube/api-samples))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:14:19.917323+05:30
-- **Local Path**: `ai/resources/youtube-api-samples.md`
-
-### 40. [GoLand - The JetBrains Blog](../ai/agents/goland-the-jetbrains-blog.md) ([Source URL](https://blog.jetbrains.com/go))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-04T09:14:19.776510+05:30
-- **Local Path**: `ai/agents/goland-the-jetbrains-blog.md`
-
-### 41. [Gemini Developer API | Gemma open models | Google AI for Developers](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source URL](https://ai.google.dev))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:14:19.407542+05:30
+- **Collected At**: 2026-08-04T14:50:07.735951+05:30
 - **Local Path**: `ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md`
 
-### 42. [Android Mobile App Developer Tools - Android Developers](../ai/rag/android-mobile-app-developer-tools-android-develop.md) ([Source URL](https://developer.android.com))
+### 22. [Android Mobile App Developer Tools - Android Developers](../ai/rag/android-mobile-app-developer-tools-android-develop.md) ([Source URL](https://developer.android.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:14:19.273500+05:30
+- **Collected At**: 2026-08-04T14:50:07.611620+05:30
 - **Local Path**: `ai/rag/android-mobile-app-developer-tools-android-develop.md`
 
-### 43. [LangChain Blog](../ai/agents/langchain-blog.md) ([Source URL](https://blog.langchain.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-04T09:14:17.290298+05:30
-- **Local Path**: `ai/agents/langchain-blog.md`
-
-### 44. [Home - The GitHub Blog](../ai/rag/home-the-github-blog.md) ([Source URL](https://github.blog))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:14:16.812371+05:30
-- **Local Path**: `ai/rag/home-the-github-blog.md`
-
-### 45. [Notebooks - Pinecone Docs](../ai/rag/notebooks-pinecone-docs.md) ([Source URL](https://docs.pinecone.io/page/examples))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:14:16.668990+05:30
-- **Local Path**: `ai/rag/notebooks-pinecone-docs.md`
-
-### 46. [Neo4j Graph Intelligence Platform](../ai/rag/neo4j-graph-intelligence-platform.md) ([Source URL](http://neo4j.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:14:16.029659+05:30
-- **Local Path**: `ai/rag/neo4j-graph-intelligence-platform.md`
-
-### 47. [[2307.03172] Lost in the Middle: How Language Models Use Long Contexts](../ai/resources/arxiv-2307-03172.md) ([Source URL](https://arxiv.org/abs/2307.03172))
+### 23. [webm/libwebp - Git at Google](../ai/resources/webm-libwebp-git-at-google.md) ([Source URL](https://chromium.googlesource.com/webm/libwebp))
 - **Category**: ai/resources
-- **Collected At**: 2026-08-04T09:14:14.588246+05:30
-- **Local Path**: `ai/resources/arxiv-2307-03172.md`
+- **Collected At**: 2026-08-04T14:50:07.156726+05:30
+- **Local Path**: `ai/resources/webm-libwebp-git-at-google.md`
 
-### 48. [GitHub Changelog](../ai/agents/github-changelog.md) ([Source URL](https://github.blog/changelog))
+### 24. [nodejs/node](../ai/rag/nodejs-node.md) ([Source URL](https://github.com/nodejs/node))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:50:05.108085+05:30
+- **Local Path**: `ai/rag/nodejs-node.md`
+
+### 25. [Real-Time Incident Communication with Statuspage | Atlassian | Atlassian](../ai/resources/improve-transparency-with-statuspage-atlassian.md) ([Source URL](https://atlassian.com/software/statuspage))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:49:46.786259+05:30
+- **Local Path**: `ai/resources/improve-transparency-with-statuspage-atlassian.md`
+
+### 26. [Fast, disk space efficient package manager | pnpm](../ai/rag/fast-disk-space-efficient-package-manager-pnpm.md) ([Source URL](https://pnpm.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:49:43.462093+05:30
+- **Local Path**: `ai/rag/fast-disk-space-efficient-package-manager-pnpm.md`
+
+### 27. [Home page | Yarn](../ai/resources/home-page-yarn.md) ([Source URL](https://yarnpkg.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:49:42.968184+05:30
+- **Local Path**: `ai/resources/home-page-yarn.md`
+
+### 28. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:49:41.264974+05:30
+- **Local Path**: `ai/resources/introduction-electron.md`
+
+### 29. [bigscience-workshop/t-zero](../ai/rag/bigscience-workshop-t-zero.md) ([Source URL](https://github.com/bigscience-workshop/t-zero))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:49:28.364546+05:30
+- **Local Path**: `ai/rag/bigscience-workshop-t-zero.md`
+
+### 30. [bigscience-workshop/promptsource](../ai/resources/bigscience-workshop-promptsource.md) ([Source URL](https://github.com/bigscience-workshop/promptsource))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:49:23.371952+05:30
+- **Local Path**: `ai/resources/bigscience-workshop-promptsource.md`
+
+### 31. [Home - ECPAT](../ai/resources/home-ecpat.md) ([Source URL](https://ecpat.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:49:16.740665+05:30
+- **Local Path**: `ai/resources/home-ecpat.md`
+
+### 32. [WeProtect Global Alliance - WeProtect Global Alliance](../ai/rag/weprotect-global-alliance-weprotect-global-allianc.md) ([Source URL](https://weprotect.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:49:16.503141+05:30
+- **Local Path**: `ai/rag/weprotect-global-alliance-weprotect-global-allianc.md`
+
+### 33. [Protect Privacy Online with Google - Google Safety Center](../ai/rag/protect-privacy-online-with-google-google-safety-c.md) ([Source URL](https://safety.google/security-privacy))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:49:15.674994+05:30
+- **Local Path**: `ai/rag/protect-privacy-online-with-google-google-safety-c.md`
+
+### 34. [Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](../ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md) ([Source URL](https://support.google.com/chrome/answer/95647))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:49:14.362586+05:30
+- **Local Path**: `ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md`
+
+### 35. [Google Analytics Opt-out Browser Add-on Download Page](../ai/resources/google-analytics-opt-out-browser-add-on-download-p.md) ([Source URL](https://tools.google.com/dlpage/gaoptout))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:49:12.594842+05:30
+- **Local Path**: `ai/resources/google-analytics-opt-out-browser-add-on-download-p.md`
+
+### 36. [Privacy & Terms – Google](../ai/resources/privacy-terms-google.md) ([Source URL](https://policies.google.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:49:10.329445+05:30
+- **Local Path**: `ai/resources/privacy-terms-google.md`
+
+### 37. [Advancing AI safely and responsibly â Google AI](../ai/rag/advancing-ai-safely-and-responsibly-a-google-ai.md) ([Source URL](https://ai.google/responsibility/safety))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:49:09.615482+05:30
+- **Local Path**: `ai/rag/advancing-ai-safely-and-responsibly-a-google-ai.md`
+
+### 38. [Speechify · GitHub](../ai/agents/speechify-github.md) ([Source URL](https://github.com/speechifyinc))
 - **Category**: ai/agents
-- **Collected At**: 2026-08-04T09:14:11.930625+05:30
-- **Local Path**: `ai/agents/github-changelog.md`
+- **Collected At**: 2026-08-04T14:49:09.555753+05:30
+- **Local Path**: `ai/agents/speechify-github.md`
 
-### 49. [All-in-one incident management platform | incident.io](../ai/rag/all-in-one-incident-management-platform-incident-i.md) ([Source URL](https://incident.io))
+### 39. [Google Families | Empowering kids to safely connect, play, and learn online](../ai/rag/google-families-empowering-kids-to-safely-connect.md) ([Source URL](https://families.google))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:14:11.252579+05:30
-- **Local Path**: `ai/rag/all-in-one-incident-management-platform-incident-i.md`
+- **Collected At**: 2026-08-04T14:49:09.422604+05:30
+- **Local Path**: `ai/rag/google-families-empowering-kids-to-safely-connect.md`
 
-### 50. [huggingface (Hugging Face)](../ai/rag/huggingface-hugging-face.md) ([Source URL](https://huggingface.co/huggingface))
+### 40. [Google Help](../ai/rag/google-help.md) ([Source URL](https://support.google.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-04T09:14:05.938758+05:30
+- **Collected At**: 2026-08-04T14:49:09.296832+05:30
+- **Local Path**: `ai/rag/google-help.md`
+
+### 41. [Speechify-AI/tts-shims](../ai/agents/speechify-ai-tts-shims.md) ([Source URL](https://github.com/speechify-ai/tts-shims))
+- **Category**: ai/agents
+- **Collected At**: 2026-08-04T14:49:09.121402+05:30
+- **Local Path**: `ai/agents/speechify-ai-tts-shims.md`
+
+### 42. [Text to Speech Leaderboard - Top AI Speech Models](../ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md) ([Source URL](https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true))
+- **Category**: ai/agents
+- **Collected At**: 2026-08-04T14:49:05.985673+05:30
+- **Local Path**: `ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md`
+
+### 43. [SpeechifyInc/ai-api-examples](../ai/resources/speechifyinc-ai-api-examples.md) ([Source URL](https://github.com/speechifyinc/ai-api-examples))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:49:04.165322+05:30
+- **Local Path**: `ai/resources/speechifyinc-ai-api-examples.md`
+
+### 44. [All-in-one incident management platform | incident.io](../ai/resources/all-in-one-incident-management-platform-incident-i.md) ([Source URL](https://incident.io))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:48:53.793116+05:30
+- **Local Path**: `ai/resources/all-in-one-incident-management-platform-incident-i.md`
+
+### 45. [Sign in to GitHub · GitHub](../ai/resources/firecrawl-firecrawl-docs.md) ([Source URL](https://github.com/firecrawl/firecrawl-docs))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:48:51.073476+05:30
+- **Local Path**: `ai/resources/firecrawl-firecrawl-docs.md`
+
+### 46. [Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥](../ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md) ([Source URL](https://firecrawl.dev/blog))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:48:47.959661+05:30
+- **Local Path**: `ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md`
+
+### 47. [gradio-app/gradio](../ai/resources/gradio-app-gradio.md) ([Source URL](https://github.com/gradio-app/gradio))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-04T14:48:45.655588+05:30
+- **Local Path**: `ai/resources/gradio-app-gradio.md`
+
+### 48. [Spaces - Hugging Face](../ai/agents/spaces-hugging-face.md) ([Source URL](https://huggingface.co/spaces))
+- **Category**: ai/agents
+- **Collected At**: 2026-08-04T14:48:39.706170+05:30
+- **Local Path**: `ai/agents/spaces-hugging-face.md`
+
+### 49. [huggingface (Hugging Face)](../ai/rag/huggingface-hugging-face.md) ([Source URL](https://huggingface.co/huggingface))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:48:31.046490+05:30
 - **Local Path**: `ai/rag/huggingface-hugging-face.md`
 
+### 50. [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md) ([Source URL](https://haystack.deepset.ai/cookbook))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-04T14:48:28.555046+05:30
+- **Local Path**: `ai/rag/cookbook-haystack.md`
+
 ---
-*Index generated on 2026-08-04T09:24:38.942950+05:30*
+*Index generated on 2026-08-04T14:56:38.195970+05:30*

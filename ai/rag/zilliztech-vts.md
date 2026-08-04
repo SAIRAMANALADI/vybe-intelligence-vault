@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zilliztech/vts
-collected_at: '2026-08-02T19:31:01.436470+05:30'
-published_at: '2026-07-21T06:59:50Z'
+collected_at: '2026-08-04T14:46:15.155752+05:30'
+published_at: '2026-08-04T02:36:56Z'
 tags:
 - github-repo
+- hackernews
 - java
 - rag
 - workflows
@@ -17,11 +18,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-07-22T02:25:00Z'
-pushed_at: '2026-07-30T13:06:32Z'
+pushed_at: '2026-08-04T02:36:51Z'
 resource_id: github:zilliztech/vts
-first_seen: '2026-08-02T19:31:01.436470+05:30'
-last_seen: '2026-08-02T19:31:01.436470+05:30'
-last_checked: '2026-08-02T19:31:01.436470+05:30'
+first_seen: '2026-08-04T14:46:15.155752+05:30'
+last_seen: '2026-08-04T14:46:15.155752+05:30'
+last_checked: '2026-08-04T14:46:15.155752+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Java-based ETL Tool**: VTS is a Java-based tool for transforming and transporting vectors and unstructured data, optimized for integration with vector databases like Milvus.
-- **GenAI/LLM Pipeline Support**: Designed to facilitate GenAI and LLM workflows by enabling efficient vector data movement and preprocessing.
-- **Milvus Integration**: Directly supports Milvus vector database operations, enhancing data ingestion and transformation pipelines.
+- **Purpose**: VTS facilitates transformation and transportation of vectors and unstructured data, optimized for GenAI and LLM workflows.
+- **Technical Stack**: Implemented in Java, designed to integrate with Milvus vector database.
+- **Repository Status**: Last updated in 2026, with 132 stars and 23 forks.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 23
 - Language: Java
 - Topics: genai, llm, milvus, vector-database
-- Last Updated: 2026-07-21T06:59:50Z
+- Last Updated: 2026-08-04T02:36:56Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-07-22T02:25:00Z
-- Pushed At: 2026-07-30T13:06:32Z
+- Pushed At: 2026-08-04T02:36:51Z
 
 ## Possible Use Cases
 

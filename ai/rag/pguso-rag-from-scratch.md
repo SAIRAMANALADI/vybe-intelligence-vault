@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-04T09:08:30.849600+05:30'
+collected_at: '2026-08-04T14:40:44.103549+05:30'
 published_at: '2026-08-01T15:12:46Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-04T09:08:30.849600+05:30'
-last_seen: '2026-08-04T09:08:30.849600+05:30'
-last_checked: '2026-08-04T09:08:30.849600+05:30'
+first_seen: '2026-08-04T14:40:44.103549+05:30'
+last_seen: '2026-08-04T14:40:44.103549+05:30'
+last_checked: '2026-08-04T14:40:44.103549+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies and foster deep understanding of embeddings, vector search, retrieval, and context-augmented generation.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM inference without proprietary APIs or "black box" abstractions.
 
-- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a focus on modularity for educational purposes (e.g., customizable embeddings, retrieval strategies, and generation logic).
+- **Core Components**: Covers end-to-end pipeline including embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval augmentation, and context-augmented generation with a focus on transparency.
 
-- **Practical RAG Chatbot**: Includes a functional RAG chatbot demo, covering the full pipeline (document ingestion → embedding → vector search → retrieval → augmented generation) with open-source tooling for experimentation and learning.
+- **Educational Focus**: Targets developers seeking deep technical understanding of RAG architectures, with modular examples and no reliance on managed services (e.g., Pinecone, Weaviate) for vector storage or retrieval.
 
 ## Why It Matters
 

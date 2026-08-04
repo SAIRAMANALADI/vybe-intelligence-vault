@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **LLM-Powered Research System**: STORM autonomously researches topics by querying search engines, retrieving and synthesizing information, and generating comprehensive reports with inline citations using large language models (LLMs).
+- **LLM-Powered Research System**: STORM autonomously researches topics by querying search engines, retrieving documents, and synthesizing information into a structured, citation-backed report using large language models (LLMs).
 
-- **Agentic RAG Pipeline**: Implements an agentic retrieval-augmented generation (RAG) framework with iterative query refinement, multi-source retrieval, and structured report generation, optimized for deep research tasks.
+- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline with iterative query refinement, multi-source evidence aggregation, and adaptive summarization to ensure depth and accuracy in generated reports.
 
-- **EMNLP 2024 Publication**: Presented
+- **EMNLP 2024 Publication
 
 ## Use Cases
 

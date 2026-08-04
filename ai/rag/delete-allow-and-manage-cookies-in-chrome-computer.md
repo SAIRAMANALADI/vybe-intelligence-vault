@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/chrome/answer/95647
-published_at: '2026-08-04T01:39:30.335533+05:30'
-collected_at: '2026-08-04T01:39:30.335546+05:30'
+published_at: '2026-08-04T14:49:14.362572+05:30'
+collected_at: '2026-08-04T14:49:14.362586+05:30'
 tags:
 - hackernews
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:delete-allow-and-manage-cookies-in-chrome-computer
-first_seen: '2026-08-04T01:39:30.335546+05:30'
-last_seen: '2026-08-04T01:39:30.335546+05:30'
-last_checked: '2026-08-04T01:39:30.335546+05:30'
+first_seen: '2026-08-04T14:49:14.362586+05:30'
+last_seen: '2026-08-04T14:49:14.362586+05:30'
+last_checked: '2026-08-04T14:49:14.362586+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Cookie Types & Functionality**: Chrome distinguishes between first-party cookies (created by the visited site) and third-party cookies (created by embedded content from other sites), enabling site-specific customization (e.g., session persistence) and cross-site tracking/ad personalization, respectively.
+- **Cookie Types & Scope**: Chrome distinguishes between first-party cookies (created by the visited site) and third-party cookies (created by embedded content from other domains), with third-party cookies enabling cross-site tracking and personalization.
 
-- **Cookie Management Workflow**: Users can delete all cookies via `Settings > Privacy and security > Delete browsing data` (filtering by time range) or selectively via `Settings > Third-party cookies > See all site data and permissions`, with granular control over exceptions and related-site permissions.
+- **Cookie Management Workflow**: Users can delete all cookies via *Settings > Privacy and security > Third-party cookies > See all site data and permissions*, or selectively remove specific cookies; third-party cookie blocking/allowing is configurable via the same menu with granular exceptions.
 
-- **Third-Party Cookie Policies**: Chrome allows blocking all third-party cookies by default (with exceptions), enabling temporary overrides per site, or permitting related-site activity via `Privacy and security > Third-party cookies > Allow related sites to see your activity in the group`.
+- **Embedded Content Permissions**: Chrome allows users to grant temporary access to third-party cookies for embedded content (e.g., ads, widgets) via site prompts, with permissions lasting 30 days or until revoked in *Site Settings*.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T01:39:30.335533+05:30
+- Published: 2026-08-04T14:49:14.362572+05:30
 
 ## Related Tags
 

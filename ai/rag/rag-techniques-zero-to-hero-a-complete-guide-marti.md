@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-04T09:08:21.340053+05:30'
-collected_at: '2026-08-04T09:08:21.340062+05:30'
+published_at: '2026-08-04T14:40:34.497080+05:30'
+collected_at: '2026-08-04T14:40:34.497093+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-04T09:08:21.340062+05:30'
-last_seen: '2026-08-04T09:08:21.340062+05:30'
-last_checked: '2026-08-04T09:08:21.340062+05:30'
+first_seen: '2026-08-04T14:40:34.497093+05:30'
+last_seen: '2026-08-04T14:40:34.497093+05:30'
+last_checked: '2026-08-04T14:40:34.497093+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers (caching, metadata filtering) optimize performance and cost.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional rerankers/query rewriters; orchestration layers manage caching, latency, and cost optimization.
 
-- **Chunking & Embedding Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) and overlap control retrieval granularity; domain-specific embedding fine-tuning (query-document pairs) and dimensionality normalization (cosine similarity) enhance precision/recall.
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), multi-hop decomposition, GraphRAG, and cross-encoder reranking improve precision/recall but increase computational overhead; chunk selection and context distillation mitigate noise.
 
-- **Multi-Stage Retrieval & Context Management**: Hybrid retrieval (BM25 + vector) improves recall; cross-encoder rerankers refine top-K candidates; iterative multi-hop retrieval and context distillation (LLM-based summarization) reduce hallucinations and token budget waste.
+- **Operational & Evaluation Challenges**: Latency/cost trade-offs in ANN indexing, embedding updates, and multi-stage retrieval; evaluation requires metrics for both retrieval (MRR/nDCG) and generation (factuality/hallucination rate) with gold-standard evidence sets.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T09:08:21.340053+05:30
+- Published: 2026-08-04T14:40:34.497080+05:30
 
 ## Related Tags
 

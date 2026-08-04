@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-04T09:09:55.912364+05:30'
+collected_at: '2026-08-04T14:42:09.183876+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-04T09:09:55.912364+05:30'
-last_seen: '2026-08-04T09:09:55.912364+05:30'
-last_checked: '2026-08-04T09:09:55.912364+05:30'
+first_seen: '2026-08-04T14:42:09.183876+05:30'
+last_seen: '2026-08-04T14:42:09.183876+05:30'
+last_checked: '2026-08-04T14:42:09.183876+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive Memory Organization**: Introduces a memory-optimized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and dynamic context integration.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory retrieval and update mechanisms to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
+- **AAAI 2026 Poster**: Presented as a high-impact research contribution at AAAI 2026, highlighting advancements in retrieval-augmented generation (RAG) for complex, multi-turn reasoning tasks.
 
-- **AAAI 2026 Poster Submission**: Presents empirical results demonstrating superior performance in long-form reasoning tasks compared to traditional RAG systems, with modular Python-based implementation for extensibility.
+- **Python Implementation**: Open-source Python-based system with modular design for extensibility, supporting efficient memory indexing and retrieval for long-form narrative understanding.
 
 ## Why It Matters
 

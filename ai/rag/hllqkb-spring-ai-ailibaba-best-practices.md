@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-04T09:09:10.849804+05:30'
+collected_at: '2026-08-04T14:41:24.100974+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-04T09:09:10.849804+05:30'
-last_seen: '2026-08-04T09:09:10.849804+05:30'
-last_checked: '2026-08-04T09:09:10.849804+05:30'
+first_seen: '2026-08-04T14:41:24.100974+05:30'
+last_seen: '2026-08-04T14:41:24.100974+05:30'
+last_checked: '2026-08-04T14:41:24.100974+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of AI Q&A Systems**: Demonstrates SSE streaming, Agent-based architectures, and RAG with knowledge graphs for real-time AI responses.
-- **Multi-modal AI Capabilities**: Supports image generation (e.g., via Stable Diffusion), image understanding, and function calling for dynamic workflows.
-- **Vector Database & Embedding Integration**: Utilizes vector databases (e.g., Milvus, Chroma) for efficient RAG, with embedding models (e.g., BERT, Sentence-BERT) for semantic search.
+- **Implements RAG with VectorDB**: Utilizes embedding models and vector databases for retrieval-augmented generation (RAG), enabling efficient semantic search and knowledge retrieval from a personal knowledge base.
+
+- **Multi-modal AI Agent Framework**: Supports SSE (Server-Sent Events) streaming, function calling, and agent-based workflows, integrating image generation/understanding, historical message handling, and knowledge graph-based RAG.
+
+- **Spring AI + Alibaba Cloud Integration**: Built on Spring AI with Alibaba Cloud services, leveraging their AI capabilities (e.g., embedding models, vector databases) for scalable, production-ready AI applications in Java.
 
 ## Why It Matters
 

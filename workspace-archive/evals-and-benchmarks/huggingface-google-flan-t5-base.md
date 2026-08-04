@@ -8,7 +8,7 @@ local_vault_path: ai/resources/huggingface-google-flan-t5-base.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # google/flan-t5-base · Hugging Face
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Dataset Overview**: GSM8K is a benchmark dataset comprising 17.6k high-quality linguistically diverse grade school math word problems designed to evaluate multi-step mathematical reasoning in language models.
-
-- **Scale & Usage**: The dataset includes 932k tokens and has been accessed 1.47k times, serving as a standard for assessing advanced arithmetic and logical reasoning capabilities in AI models.
-
-- **Evaluation Focus**: Primarily tests the ability of models to solve complex, multi-step
+- **Dataset Overview**: GSM8k is a benchmark dataset comprising 17.6k high-quality grade school math word problems designed to evaluate multi-step reasoning in language models.
+- **Scale & Usage**: Contains 944k tokens and has been accessed 1.48k times, serving as a standard for testing mathematical reasoning in AI systems.
+- **Purpose**: Primarily used to assess the ability of models to solve grade-school math problems through step-by-step logical reasoning.
 
 ## Use Cases
 

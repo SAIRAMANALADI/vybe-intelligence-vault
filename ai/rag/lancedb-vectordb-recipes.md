@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-04T09:08:30.874467+05:30'
+collected_at: '2026-08-04T14:40:44.133032+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-04T09:08:30.874467+05:30'
-last_seen: '2026-08-04T09:08:30.874467+05:30'
-last_checked: '2026-08-04T09:08:30.874467+05:30'
+first_seen: '2026-08-04T14:40:44.133032+05:30'
+last_seen: '2026-08-04T14:40:44.133032+05:30'
+last_checked: '2026-08-04T14:40:44.133032+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides end-to-end examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search (LanceDB) and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
-- **Agent & Pipeline Tutorials**: Demonstrates agent-based workflows integrating embeddings, fine-tuning, and vector databases for tasks like document Q&A, image-text retrieval, and autonomous agents.
-- **Technical Stack**: Focuses on deep-learning frameworks (PyTorch/TensorFlow), OpenAI APIs, and LanceDB for scalable vector storage, with notebooks covering fine-tuning, embeddings, and hybrid search.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems leveraging vector search and Large Language Models (LLMs).
+
+- **Integration of Key Libraries**: Demonstrates workflows using LanceDB (vector database), LangChain, LlamaIndex, OpenAI APIs (including GPT-4 Vision), and fine-tuning techniques for embeddings and LLMs.
+
+- **Technical Focus Areas**: Covers deep learning, embeddings optimization, multimodal AI pipelines, and agent architectures, with practical implementations for production-grade AI systems.
 
 ## Why It Matters
 

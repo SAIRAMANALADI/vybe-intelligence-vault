@@ -3,18 +3,19 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://about.medium.com/
-published_at: '2026-08-04T09:14:10.587794+05:30'
-collected_at: '2026-08-04T09:14:10.587801+05:30'
+source_url: https://medium.com/blog/all?source=collection_home_page
+resource_id: blog:medium
+----15f753907972-----
+published_at: '2026-08-04T14:46:19.218021+05:30'
+collected_at: '2026-08-04T14:46:19.218034+05:30'
 tags:
-- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-04T09:14:10.587801+05:30'
-last_seen: '2026-08-04T09:14:10.587801+05:30'
-last_checked: '2026-08-04T09:14:10.587801+05:30'
+first_seen: '2026-08-04T14:46:19.218034+05:30'
+last_seen: '2026-08-04T14:46:19.218034+05:30'
+last_checked: '2026-08-04T14:46:19.218034+05:30'
 health_score: 100
 ---
 
@@ -22,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Mission & Model**: Medium is a content platform prioritizing depth and thoughtful discourse over sensationalism, monetized via a subscription-based membership model rather than ads or data sales.
-- **User Base & Content**: Hosts over 100M monthly users (developers, CEOs, writers) publishing long-form content on niche expertise, personal insights, and professional experiences.
-- **Technical Structure**: Utilizes a sitemap (`sitemap.xml`) for SEO and content discovery, with core endpoints for authentication (`signin/signup`), content creation (`/new-story`), and membership management.
+- **Medium's sitemap.xml** provides a structured XML index of all accessible URLs, enabling efficient crawling and indexing by search engines for SEO optimization.
+
+- **Authentication endpoints** (`/m/signin`) use OAuth2-based redirects for user login/registration, with session persistence handled via secure tokens (JWT or similar).
+
+- **Static resources** (e.g., `/v2/resize:fill:64:64/...`) leverage CDN-based image optimization with dynamic resizing parameters for responsive media delivery.
 
 ## Why It Matters
 
@@ -34,14 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T09:14:10.587794+05:30
+- Published: 2026-08-04T14:46:19.218021+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
 - web-crawled
 
 ## Source
 
-Original source: https://about.medium.com/
+Original source: https://medium.com/blog/all?source=collection_home_page----15f753907972-----

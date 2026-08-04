@@ -3,16 +3,16 @@ title: Sign in to GitHub · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/firecrawl/firecrawl-docs/edit/main/api-reference/introduction.mdx
-published_at: '2026-08-04T01:38:41.796343+05:30'
-collected_at: '2026-08-04T01:38:41.796356+05:30'
+source_url: https://github.com/firecrawl/firecrawl-docs/edit/main/ai-onboarding.mdx
+published_at: '2026-08-04T14:48:51.073462+05:30'
+collected_at: '2026-08-04T14:48:51.073476+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:firecrawl/firecrawl-docs
-first_seen: '2026-08-04T01:38:41.796356+05:30'
-last_seen: '2026-08-04T01:38:41.796356+05:30'
-last_checked: '2026-08-04T01:38:41.796356+05:30'
+first_seen: '2026-08-04T14:48:51.073476+05:30'
+last_seen: '2026-08-04T14:48:51.073476+05:30'
+last_checked: '2026-08-04T14:48:51.073476+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Failure**: The error indicates a failure in loading the GitHub authentication page, likely due to a server-side issue or corrupted session state.
-
-- **Passkey Support**: GitHub now supports passkey-based authentication as an alternative to traditional username/password credentials.
-
-- **Account Recovery**: Users can initiate password recovery via the provided link (`/password_reset`) or create a new account through the signup endpoint.
+- **Authentication Failure**: The GitHub login page encountered an error during page load, prompting a reload request.
+- **Recovery Option**: Users can reset their password via the provided "Forgot password?" link if account access is lost.
+- **Alternative Sign-In**: GitHub supports passkey-based authentication as an alternative to traditional credentials.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T01:38:41.796343+05:30
+- Published: 2026-08-04T14:48:51.073462+05:30
 
 ## Related Tags
 
@@ -42,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/firecrawl/firecrawl-docs/edit/main/api-reference/introduction.mdx
+Original source: https://github.com/firecrawl/firecrawl-docs/edit/main/ai-onboarding.mdx

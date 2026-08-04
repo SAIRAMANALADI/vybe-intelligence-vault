@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://is4.ai/blog/our-blog-1/how-to-implement-rag-retrieval-augmented-generation-tutorial-22
-published_at: '2026-08-04T01:29:27.489421+05:30'
-collected_at: '2026-08-04T01:29:27.489433+05:30'
+published_at: '2026-08-04T14:40:38.462565+05:30'
+collected_at: '2026-08-04T14:40:38.462577+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:how-to-implement-rag-retrieval-augmented-generatio
-first_seen: '2026-08-04T01:29:27.489433+05:30'
-last_seen: '2026-08-04T01:29:27.489433+05:30'
-last_checked: '2026-08-04T01:29:27.489433+05:30'
+first_seen: '2026-08-04T14:40:38.462577+05:30'
+last_seen: '2026-08-04T14:40:38.462577+05:30'
+last_checked: '2026-08-04T14:40:38.462577+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with external knowledge retrieval to enhance factual accuracy and reduce hallucinations by grounding responses in real-time, domain-specific documents rather than relying solely on training data.
+- **RAG Architecture & Core Components**: Combines LLM generation with real-time retrieval from external knowledge bases (e.g., ChromaDB) using embeddings (e.g., OpenAI `text-embedding-3-small`) to reduce hallucinations and enable domain-specific knowledge updates without model retraining.
 
-- **Core Pipeline**: Implements a production-ready RAG system using LangChain for orchestration, OpenAI embeddings (`text-embedding-3-small`), ChromaDB as the vector store, and chunked document processing (1000 chars, 200 overlap) to optimize retrieval quality and LLM context integration.
+- **Optimized Retrieval Pipeline**: Implements hybrid search (semantic + BM25 keyword) with reranking (e.g., Cohere `rerank-english-v2.0`) and configurable chunking (e.g., 1000 chars, 200 overlap) to balance context preservation and retrieval precision, improving accuracy by 20-40% over semantic-only methods.
 
-- **Advanced Optimization**: Enhances retrieval via hybrid search (semantic + BM25), reranking with cross-encoder models (e.g., CohereRerank), and conversational memory for multi-turn interactions, while addressing common issues like poor retrieval quality or hallucinations through metadata filtering, stricter prompts, and deterministic LLM settings (`temperature=0`).
+- **Production-Grade Implementation**: Uses LangChain’s `RetrievalQA` with deterministic LLM settings (`temperature=0`), conversation memory (`ConversationBufferMemory`), and metadata filtering to ensure factual consistency, source attribution, and security in enterprise deployments.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T01:29:27.489421+05:30
+- Published: 2026-08-04T14:40:38.462565+05:30
 
 ## Related Tags
 

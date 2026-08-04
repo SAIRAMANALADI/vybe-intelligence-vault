@@ -4,24 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/addyosmani/agent-skills
-collected_at: '2026-08-04T09:11:30.996182+05:30'
-published_at: '2026-08-04T03:34:23Z'
+collected_at: '2026-08-04T14:43:44.242336+05:30'
+published_at: '2026-08-04T09:06:02Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - javascript
-stars: 81485
+- workflows
+stars: 81533
 language: JavaScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-02-15T20:20:26Z'
-pushed_at: '2026-08-03T20:14:50Z'
+pushed_at: '2026-08-04T04:08:25Z'
 resource_id: github:addyosmani/agent-skills
-first_seen: '2026-08-04T09:11:30.996182+05:30'
-last_seen: '2026-08-04T09:11:30.996182+05:30'
-last_checked: '2026-08-04T09:11:30.996182+05:30'
+first_seen: '2026-08-04T14:43:44.242336+05:30'
+last_seen: '2026-08-04T14:43:44.242336+05:30'
+last_checked: '2026-08-04T14:43:44.242336+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Production-grade engineering skills repository (`addyosmani/agent-skills`) for AI coding agents, with 81,485 stars and 8,783 forks, primarily written in JavaScript.
-- **Purpose & Scope**: Designed to enhance AI coding agents (e.g., Claude Code, Cursor, Codex) with advanced, production-ready engineering capabilities.
-- **Key Features**: Includes specialized "skills" modules, with the latest update as of August 4, 2026, and tags like `agent-skills`, `antigravity`, and `codex`.
+- **Repository Purpose**: Provides production-grade engineering skills tailored for AI coding agents, optimizing workflows for tools like `claude-code`, `codex`, and `cursor`.
+- **Technical Scope**: Focuses on advanced JavaScript-based skills, including `antigravity` (simulated anti-gravity mechanics) and agent-specific optimizations for code generation and debugging.
+- **Community & Maintenance**: Actively maintained (last updated Aug 2026), with 81,533 stars and 8,787 forks, indicating strong adoption and collaborative contributions.
 
 ## Why It Matters
 
@@ -40,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: addyosmani
-- Stars: 81485
-- Forks: 8783
+- Stars: 81533
+- Forks: 8787
 - Language: JavaScript
 - Topics: agent-skills, antigravity, claude-code, codex, cursor, skills
-- Last Updated: 2026-08-04T03:34:23Z
+- Last Updated: 2026-08-04T09:06:02Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-15T20:20:26Z
-- Pushed At: 2026-08-03T20:14:50Z
+- Pushed At: 2026-08-04T04:08:25Z
 
 ## Possible Use Cases
 

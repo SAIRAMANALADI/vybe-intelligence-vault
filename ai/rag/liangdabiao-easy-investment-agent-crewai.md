@@ -4,23 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-04T09:12:26.048159+05:30'
-published_at: '2026-08-01T18:59:43Z'
+collected_at: '2026-08-04T14:44:39.311655+05:30'
+published_at: '2026-08-04T06:26:06Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 472
+- scripts
+stars: 473
 language: Python
 status: active
 archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-04T09:12:26.048159+05:30'
-last_seen: '2026-08-04T09:12:26.048159+05:30'
-last_checked: '2026-08-04T09:12:26.048159+05:30'
+first_seen: '2026-08-04T14:44:39.311655+05:30'
+last_seen: '2026-08-04T14:44:39.311655+05:30'
+last_checked: '2026-08-04T14:44:39.311655+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A股 Analysis**: Implements four specialized AI agents (data retrieval, financial analysis, sentiment analysis, decision synthesis) using CrewAI for collaborative A股 investment insights.
-- **Data Integration**: Leverages AKShare for real-time A股 metrics (quotes, financials, fund flows, sentiment) with Chinese-market-specific optimizations.
-- **Decision Engine**: Aggregates multi-source analysis to generate actionable investment recommendations, updated via automated pipeline (last synced 2026-08-01).
+- **Multi-Agent A股 Analysis Framework**: Utilizes CrewAI to orchestrate 4 specialized AI agents for collaborative A股 investment analysis, integrating real-time market data, financial metrics, fund flows, and sentiment analysis via AKShare.
+- **China-Specific Optimization**: Tailored for A股 market nuances, leveraging AKShare’s professional data sources to provide localized financial insights and investment recommendations.
+- **Python-Based Automation**: Implements a modular Python architecture for automated data retrieval, multi-agent decision-making, and generation of actionable investment insights.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: liangdabiao
-- Stars: 472
+- Stars: 473
 - Forks: 96
 - Language: Python
 - Topics: agent
-- Last Updated: 2026-08-01T18:59:43Z
+- Last Updated: 2026-08-04T06:26:06Z
 - Archived: No
 - Created At: 2025-09-26T11:16:52Z
 - Pushed At: 2026-05-07T01:07:08Z

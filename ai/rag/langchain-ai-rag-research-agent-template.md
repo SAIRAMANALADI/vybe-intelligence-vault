@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-08-04T09:08:35.962825+05:30'
+collected_at: '2026-08-04T14:40:49.154372+05:30'
 published_at: '2026-08-02T15:40:26Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-08-04T09:08:35.962825+05:30'
-last_seen: '2026-08-04T09:08:35.962825+05:30'
-last_checked: '2026-08-04T09:08:35.962825+05:30'
+first_seen: '2026-08-04T14:40:49.154372+05:30'
+last_seen: '2026-08-04T14:40:49.154372+05:30'
+last_checked: '2026-08-04T14:40:49.154372+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Overview**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for Python-based AI workflows.
-
-- **Key Components**: Likely includes modular components for document retrieval, vector storage (e.g., FAISS/Chroma), and agent orchestration with LangChain’s framework for LLM integration.
-
-- **Update Status**: Last synchronized on **2026-08-02**, indicating active maintenance or recent development in the RAG research agent domain.
+- **Purpose**: Provides a template for building Retrieval-Augmented Generation (RAG) research agents using LangChain.
+- **Technical Stack**: Implemented in Python, leveraging LangChain's modular framework for LLM integration and retrieval workflows.
+- **Repository Status**: Last updated on 2026-08-02, with 312 stars and 73 forks.
 
 ## Why It Matters
 

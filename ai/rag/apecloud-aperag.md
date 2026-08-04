@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-08-04T09:09:50.955323+05:30'
+collected_at: '2026-08-04T14:42:04.199017+05:30'
 published_at: '2026-08-03T07:51:30Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 1292
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-08-04T09:09:50.955323+05:30'
-last_seen: '2026-08-04T09:09:50.955323+05:30'
-last_checked: '2026-08-04T09:09:50.955323+05:30'
+first_seen: '2026-08-04T14:42:04.199017+05:30'
+last_seen: '2026-08-04T14:42:04.199017+05:30'
+last_checked: '2026-08-04T14:42:04.199017+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal & GraphRAG Hybrid**: Combines knowledge graph (GraphRAG) with vector-based retrieval, supporting text, images, and structured data for enhanced context engineering.
-- **AI Agents & MCP Integration**: Implements autonomous AI agents with Model Context Protocol (MCP) for dynamic tool orchestration and real-time knowledge synthesis.
-- **Scalable K8s Deployment**: Optimized for Kubernetes with modular architecture, enabling horizontal scaling, fault tolerance, and production-grade orchestration.
+- **Multi-modal indexing & GraphRAG**: Implements a production-ready GraphRAG (Graph Retrieval-Augmented Generation) system with support for structured/unstructured data (text, images, etc.) via vector + graph-based indexing for enhanced context retrieval.
+
+- **AI Agents & MCP Integration**: Incorporates AI agent orchestration with Model Context Protocol (MCP) support, enabling dynamic tool usage, multi-agent workflows, and extensible LLM interactions.
+
+- **Scalable Kubernetes Deployment**: Designed for large-scale deployment with Kubernetes (K8s) support, featuring modular microservices, horizontal scaling, and optimized resource management for high-throughput RAG pipelines.
 
 ## Why It Matters
 
@@ -41,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: apecloud
 - Stars: 1292
-- Forks: 146
+- Forks: 145
 - Language: Python
 - Topics: agents, context-engineering, graphrag, knowledge-graph, mcp
 - Last Updated: 2026-08-03T07:51:30Z

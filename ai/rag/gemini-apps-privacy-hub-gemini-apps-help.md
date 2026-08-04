@@ -3,9 +3,9 @@ title: Gemini Apps Privacy Hub - Gemini Apps Help
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice
-published_at: '2026-08-02T19:35:27.844962+05:30'
-collected_at: '2026-08-02T19:35:27.844978+05:30'
+source_url: https://support.google.com/gemini/answer/13594961#privacy_notice
+published_at: '2026-08-04T14:51:35.932314+05:30'
+collected_at: '2026-08-04T14:51:35.932327+05:30'
 tags:
 - agents
 - deepmind
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-apps-privacy-hub-gemini-apps-help
-first_seen: '2026-08-02T19:35:27.844978+05:30'
-last_seen: '2026-08-02T19:35:27.844978+05:30'
-last_checked: '2026-08-02T19:35:27.844978+05:30'
+first_seen: '2026-08-04T14:51:35.932327+05:30'
+last_seen: '2026-08-04T14:51:35.932327+05:30'
+last_checked: '2026-08-04T14:51:35.932327+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Gemini Apps collect user-provided inputs (prompts, files, transcripts, feedback) and automatically generated content (responses, code, images), alongside device/app metadata (permissions, interaction logs, location, and browser context) for service optimization and personalization.
+- **Data Collection Scope**: Collects user-provided inputs (prompts, files, audio/video transcripts) and generated outputs (text, code, images, citations) from Gemini Apps, including interactions with Connected Apps, device permissions, and location data. Retains system logs, performance metrics, and crash reports for service improvement.
 
-- **Processing & Human Review**: Data is used for service provisioning, improvement, and personalization, with human reviewers (including third-party contractors) accessing interactions for quality control—explicitly excluding confidential data per policy.
+- **Processing & Personalization**: Uses collected data to power, personalize, and improve Gemini services via generative AI models and machine learning, including human review for quality control. Data may be shared across Google services (e.g., Search, Assistant) to enhance responses and enable cross-platform features.
 
-- **Connected Services & Retention**: Third-party app integrations (Connected Apps) process data under their own policies, while Google retains user data based on activity settings (e.g., "Keep Activity" toggles) and legal obligations, with deletion options available via user controls.
+- **Retention & Control**: Temporary chats and activity logs are retained for limited durations (configurable via "Keep Activity" setting). Users can export, delete, or restrict data usage (e.g., audio/Live recordings, past chat personalization) and manage permissions for Connected Apps and device integrations.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:35:27.844962+05:30
+- Published: 2026-08-04T14:51:35.932314+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice
+Original source: https://support.google.com/gemini/answer/13594961#privacy_notice

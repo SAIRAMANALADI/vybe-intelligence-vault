@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Built-in Protections**: Google integrates default security measures into its products to mitigate emerging cyber threats, leveraging AI-driven innovations and threat intelligence sharing.
-- **Global Standards Advancement**: Collaborates with cybersecurity experts to establish and promote security standards, ensuring the internet remains open and secure.
-- **Proactive Threat Mitigation**: Focuses on preemptive security strategies, including AI technology and partnerships, to protect against r
+- **Built-in Protections**: Google integrates default security measures into products to mitigate emerging cyber threats, such as scams and ransomware attacks, without requiring user configuration.
+
+- **AI-Driven Threat Intelligence**: Leverages advanced AI technology to proactively identify and counter security risks, while sharing threat intelligence with cybersecurity partners to enhance global defense standards.
+
+- **Secure-by-Design Philosophy**: Employs a "secure by default" approach, ensu
 
 ## Use Cases
 

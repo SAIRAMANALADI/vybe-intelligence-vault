@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alfredodeza/azure-rag
-collected_at: '2026-08-04T09:08:55.855153+05:30'
+collected_at: '2026-08-04T14:41:09.134652+05:30'
 published_at: '2026-04-23T18:04:11Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- workflows
 stars: 53
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-12-26T16:03:29Z'
 pushed_at: '2024-01-03T12:16:36Z'
 resource_id: github:alfredodeza/azure-rag
-first_seen: '2026-08-04T09:08:55.855153+05:30'
-last_seen: '2026-08-04T09:08:55.855153+05:30'
-last_checked: '2026-08-04T09:08:55.855153+05:30'
+first_seen: '2026-08-04T14:41:09.134652+05:30'
+last_seen: '2026-08-04T14:41:09.134652+05:30'
+last_checked: '2026-08-04T14:41:09.134652+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, Azure OpenAI) in Python.
-
-- **Key Components**: Integrates Azure OpenAI for embeddings/generation and Azure Cognitive Search for vector-based retrieval, enabling context-aware LLM responses.
-
-- **Deployment**: Example includes infrastructure-as-code (IaC) templates (e.g., Bicep/Terraform) for Azure resource provisioning and a Python-based RAG pipeline.
+- **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating vector search with LLMs for enhanced contextual responses.
+- **Azure Integration**: Leverages Azure AI Search for vector embeddings and Azure OpenAI for language model inference, with Python-based orchestration.
+- **Deployment-Ready**: Provides a structured example for deploying RAG pipelines on Azure, including sample code for indexing and retrieval workflows.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: alfredodeza
 - Stars: 53
-- Forks: 230
+- Forks: 231
 - Language: Python
 - Topics: None
 - Last Updated: 2026-04-23T18:04:11Z

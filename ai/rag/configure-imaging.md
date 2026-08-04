@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif-images
-published_at: '2026-08-04T01:37:01.578033+05:30'
-collected_at: '2026-08-04T01:37:01.578045+05:30'
+published_at: '2026-08-04T14:46:32.515685+05:30'
+collected_at: '2026-08-04T14:46:32.515699+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-08-04T01:37:01.578045+05:30'
-last_seen: '2026-08-04T01:37:01.578045+05:30'
-last_checked: '2026-08-04T01:37:01.578045+05:30'
+first_seen: '2026-08-04T14:46:32.515699+05:30'
+last_seen: '2026-08-04T14:46:32.515699+05:30'
+last_checked: '2026-08-04T14:46:32.515699+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,16 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `resampleFilter: box`, `bgColor: #ffffff`, with format-specific parameters for AVIF (`lossy` compression, `quality: 60`), JPEG (`quality: 75`), and WebP (`lossy` compression, `quality: 75`, `method: 2`).
+- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific configurations for AVIF, JPEG, and WebP with quality/compression controls (e.g., AVIF `quality: 60`, JPEG `quality: 75`, WebP `quality: 75`, `method: 2`).
 
-- **Exif Metadata Control**: Configurable via `excludeFields` (e.g., `GPS|Exif|Exposure[M|P|B]`) and `includeFields`, with sources limited to `exif` and `iptc` by default for performance optimization.
+- **Format-Specific Configurations**:
+  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed: 1-10`, `hint: photo/drawing/icon/text`, and `quality: 1-100`.
+  - **WebP**: Supports `lossy`/`lossless` compression, `hint: photo/drawing/icon/text`, `method: 0-6`, `quality: 1-100`, and `useSharpYuv: false`.
+  - **JPEG**: Only `quality: 1-100` (default `75`).
 
-- **Deprecated/Replaced Parameters**: `compression`, `hint`, and `quality` are deprecated in favor of format-specific settings (e.g., `imaging.avif.compression`), while `Meta` method replaces the deprecated `Exif` method for metadata extraction.
+- **Metadata & EXIF Control**:
+  - **Meta Method**: Configurable via `fields` (glob patterns) and `sources` (`exif`, `iptc`, `xmp`).
+  - **EXIF Exclusion**: Default excludes `GPS`, `Exif`, `Exposure[M|P|B]`, `Contrast`, `Resolution`, `Sharp`, `JPEG`, `Metering`, `Sensing`, `Saturation`, `ColorSpace`, `Flash`, `WhiteBalance` for performance optimization.
 
 ## Why It Matters
 
@@ -37,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T01:37:01.578033+05:30
+- Published: 2026-08-04T14:46:32.515685+05:30
 
 ## Related Tags
 

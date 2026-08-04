@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-04T09:12:21.088378+05:30'
+collected_at: '2026-08-04T14:44:34.438698+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-04T09:12:21.088378+05:30'
-last_seen: '2026-08-04T09:12:21.088378+05:30'
-last_checked: '2026-08-04T09:12:21.088378+05:30'
+first_seen: '2026-08-04T14:44:34.438698+05:30'
+last_seen: '2026-08-04T14:44:34.438698+05:30'
+last_checked: '2026-08-04T14:44:34.438698+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and Swarms to distribute document processing, analysis, and insight generation tasks.
-- **RAG Integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM providers (OpenAI GPT-3.5/4/5, Anthropic) for retrieval-augmented generation (RAG) workflows.
-- **Extensible Tooling**: Includes Discord integration and modular design for scaling agent teams, with Python-based implementation leveraging LangChain for orchestration.
+- **Multi-Agent Architecture**: Implements a collaborative framework using agents (e.g., CrewAI, AutoGen) to parallelize document processing, analysis, and insight generation via RAG (Retrieval-Augmented Generation) pipelines.
+
+- **Integration Stack**: Supports multiple LLM backends (OpenAI GPT-3.5/4/5, Anthropic) and vector databases (ChromaDB, Pinecone, Weaviate) for retrieval, with LangChain facilitating agent orchestration.
+
+- **Deployment & Extensibility**: Includes Discord bot integration and modular design for swarm-based multi-agent systems, enabling scalable document processing workflows.
 
 ## Why It Matters
 

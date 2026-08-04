@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-04T09:08:50.843325+05:30'
+collected_at: '2026-08-04T14:41:04.131395+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - jupyter notebook
+- models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-04T09:08:50.843325+05:30'
-last_seen: '2026-08-04T09:08:50.843325+05:30'
-last_checked: '2026-08-04T09:08:50.843325+05:30'
+first_seen: '2026-08-04T14:41:04.131395+05:30'
+last_seen: '2026-08-04T14:41:04.131395+05:30'
+last_checked: '2026-08-04T14:41:04.131395+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and analysis of retrieval and generation processes.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and optimization of LLM interactions.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically explore RAG components (e.g., embeddings, retrieval chains, LLM outputs) with minimal setup overhead.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive exploration of RAG components (e.g., retrieval, generation) with real-time feedback, supporting Python-based workflows.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility; supports custom datasets, retrieval strategies, and LLM integrations while providing pre-built visualization templates for prompt engineering and evaluation.
+- **Metadata & Performance Insights**: Tracks metrics (e.g., retrieval latency, token usage) and visualizes RAG pipeline behavior, aiding in model refinement and error diagnosis.
 
 ## Why It Matters
 

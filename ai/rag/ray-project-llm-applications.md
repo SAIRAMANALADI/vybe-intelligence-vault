@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-04T09:09:50.962311+05:30'
+collected_at: '2026-08-04T14:42:05.198283+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-04T09:09:50.962311+05:30'
-last_seen: '2026-08-04T09:09:50.962311+05:30'
-last_checked: '2026-08-04T09:09:50.962311+05:30'
+first_seen: '2026-08-04T14:42:05.198283+05:30'
+last_seen: '2026-08-04T14:42:05.198283+05:30'
+last_checked: '2026-08-04T14:42:05.198283+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2, OpenAI, and Anyscale models with optimized fine-tuning techniques.
-
-- **Scalable Serving Architecture**: Leverages Ray’s distributed compute framework to deploy LLM applications with horizontal scalability, enabling efficient batch inference and low-latency serving in production environments.
-
-- **End-to-End Tooling**: Provides Jupyter Notebook-based guides covering data preprocessing, model fine-tuning, retrieval system design, and deployment strategies for LLM applications in real-world scenarios.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
+- **Fine-Tuning & Serving Integration**: Provides Jupyter Notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve, with examples leveraging Anyscale for scalable compute.
+- **End-to-End Production Guide**: Covers full-stack LLM application development, including data preprocessing, model serving, inference optimization, and monitoring for deployment-ready RAG systems.
 
 ## Why It Matters
 

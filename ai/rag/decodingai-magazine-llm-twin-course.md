@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-04T09:09:10.878859+05:30'
+collected_at: '2026-08-04T14:41:24.343596+05:30'
 published_at: '2026-08-02T02:34:01Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 4380
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-04T09:09:10.878859+05:30'
-last_seen: '2026-08-04T09:09:10.878859+05:30'
-last_checked: '2026-08-04T09:09:10.878859+05:30'
+first_seen: '2026-08-04T14:41:24.343596+05:30'
+last_seen: '2026-08-04T14:41:24.343596+05:30'
+last_checked: '2026-08-04T14:41:24.343596+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,7 @@ health_score: 100
 
 ## Summary
 
-- **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including 12 structured lessons and full source code implementation.
-
-- **Technical Stack**: Utilizes Python with AWS, Bytewax, Comet-ML, Docker, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, ML system design, and MLOps workflows.
-
-- **Deployment & Scalability**: Incorporates Pulumi for IaC, Docker for containerization, and Qwak for ML deployment, enabling scalable and maintainable LLM/RAG pipelines.
+*   Develops production-ready LLM and RAG systems, emphasizing LLMOps best practices
 
 ## Why It Matters
 

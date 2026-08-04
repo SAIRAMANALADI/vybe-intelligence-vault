@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-08-04T03:56:21.896175+05:30'
-collected_at: '2026-08-04T03:56:21.896189+05:30'
+published_at: '2026-08-04T14:46:37.905601+05:30'
+collected_at: '2026-08-04T14:46:37.905615+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-08-04T03:56:21.896189+05:30'
-last_seen: '2026-08-04T03:56:21.896189+05:30'
-last_checked: '2026-08-04T03:56:21.896189+05:30'
+first_seen: '2026-08-04T14:46:37.905615+05:30'
+last_seen: '2026-08-04T14:46:37.905615+05:30'
+last_checked: '2026-08-04T14:46:37.905615+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Markdown Handler**: Hugo defaults to Goldmark for Markdown rendering (`.md`, `.mdown`, `.markdown`), with alternatives (`asciidocext`, `org`, `pandoc`, `rst`) requiring external renderers and security policy updates; Goldmark is recommended for speed, CommonMark/GFM compliance, and maintenance.
+- Hugo defaults to **Goldmark** for Markdown rendering (`defaultMarkdownHandler: goldmark`), with support for alternative renderers (`asciidocext`, `org`, `pandoc`, `rst`) requiring external dependencies and security policy updates.
 
-- **Goldmark Configuration**: Default Goldmark settings include extensions like `footnote` (enabled), `typographer` (replaces chars with HTML entities), and `parser.autoHeadingID` (auto-generates heading IDs); conflicts (e.g., `strikethrough` vs. `extras.subscript`) require manual resolution.
+- Goldmark’s default configuration includes **CommonMark/GFM-compliant extensions** (`table`, `strikethrough`, `taskList`, `footnote`, `typographer`, etc.), with optional **Extras** (`subscript`, `superscript`, `mark`) and **Passthrough** (LaTeX math) modules.
 
-- **Multilingual & Render Hooks**: `duplicateResourceFiles: false` enables embedded link/image render hooks for multilingual single-host projects; `parser.wrapStandAloneImageWithinParagraph` controls standalone image wrapping behavior.
+- Key Goldmark settings include `duplicateResourceFiles` (for multilingual projects), `parser.wrapStandAloneImageWithinParagraph` (controls `<p>` wrapping for standalone images), and `parser.autoHeadingID` (auto-generates heading IDs).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T03:56:21.896175+05:30
+- Published: 2026-08-04T14:46:37.905601+05:30
 
 ## Related Tags
 

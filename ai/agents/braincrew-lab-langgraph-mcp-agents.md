@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/braincrew-lab/langgraph-mcp-agents
-collected_at: '2026-08-04T09:12:16.103442+05:30'
+collected_at: '2026-08-04T14:44:29.378356+05:30'
 published_at: '2026-07-27T07:17:17Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
-- workflows
 stars: 714
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-03-30T14:25:58Z'
 pushed_at: '2025-04-14T11:00:22Z'
 resource_id: github:braincrew-lab/langgraph-mcp-agents
-first_seen: '2026-08-04T09:12:16.103442+05:30'
-last_seen: '2026-08-04T09:12:16.103442+05:30'
-last_checked: '2026-08-04T09:12:16.103442+05:30'
+first_seen: '2026-08-04T14:44:29.378356+05:30'
+last_seen: '2026-08-04T14:44:29.378356+05:30'
+last_checked: '2026-08-04T14:44:29.378356+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **LangGraph ReAct Agent**: Implements a ReAct (Reasoning and Acting) agent architecture using LangGraph for dynamic workflow orchestration and decision-making.
-
-- **MCP Integration**: Supports Model Context Protocol (MCP) for seamless tool integration, enabling agents to interact with external data sources and APIs.
-
-- **Streamlit UI**: Provides a Streamlit-based web interface for real-time configuration, deployment, and interaction with MCP-enabled AI agents.
+- **Architecture**: Implements a LangGraph-based ReAct (Reasoning and Acting) agent framework with Model Context Protocol (MCP) integration for tool orchestration and dynamic agent deployment.
+- **Features**: Streamlit web interface enables real-time configuration, deployment, and interaction with AI agents; supports multi-source data/API access via MCP tools.
+- **Tech Stack**: Python-based, last updated July 27, 2026; 714 stars, 227 forks.
 
 ## Why It Matters
 
@@ -43,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: braincrew-lab
 - Stars: 714
-- Forks: 228
+- Forks: 227
 - Language: Python
 - Topics: None
 - Last Updated: 2026-07-27T07:17:17Z

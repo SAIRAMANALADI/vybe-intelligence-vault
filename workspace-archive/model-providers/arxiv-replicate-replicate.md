@@ -1,16 +1,18 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/resources
+source_category: ai/agents
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/resources/arxiv-replicate-replicate.md
+local_vault_path: ai/agents/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
+- agents
+- anthropic
 - web-crawled
 - youtube
 selection_reason:
@@ -24,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **xAI Grok-Imagine-Video**: Generates videos using xAI's proprietary model, with 1.5M public runs recorded on Replicate.
-- **Minimax Music-2.6**: Synthesizes full-length songs or instrumentals from text prompts, optionally including auto-generated lyrics, with 25.3K runs.
-- **Alibaba HappyHorse-1.0**: Converts text prompts or single images into 720p/1080p videos (3-15s duration) across five aspect ratios, totaling 31.1K runs.
+- **Google's nano-banana-2**: Fast image generation model with conversational editing, multi-image fusion, and character consistency; 15.9M runs.
+- **Anthropic's claude-opus-4.7**: Enhanced agentic coding, improved vision, and stronger multi-step reasoning; 230.2K runs.
+- **Alibaba's happyhorse-1.0**: Text-to-video and image-to-video generation supporting 720p/1080p, 3-15s durations, and five aspect ratios; 31.1K runs.
 
 ## Use Cases
 
@@ -47,4 +49,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/resources/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/agents/arxiv-replicate-replicate.md)

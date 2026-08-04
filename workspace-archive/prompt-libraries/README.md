@@ -26,7 +26,7 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [simonw/llm](https://github.com/simonw/llm)
-- [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
+- [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-08-04 09:26 IST*
+*Last updated: 2026-08-04 14:58 IST*

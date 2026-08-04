@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/agentic-inbox
-collected_at: '2026-08-04T09:12:01.055518+05:30'
+collected_at: '2026-08-04T14:44:14.317251+05:30'
 published_at: '2026-08-04T03:41:38Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-04-10T00:26:27Z'
 pushed_at: '2026-04-23T21:04:17Z'
 resource_id: github:cloudflare/agentic-inbox
-first_seen: '2026-08-04T09:12:01.055518+05:30'
-last_seen: '2026-08-04T09:12:01.055518+05:30'
-last_checked: '2026-08-04T09:12:01.055518+05:30'
+first_seen: '2026-08-04T14:44:14.317251+05:30'
+last_seen: '2026-08-04T14:44:14.317251+05:30'
+last_checked: '2026-08-04T14:44:14.317251+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Cloudflare Workers-based Email Client**: Self-hosted email client implemented entirely on Cloudflare Workers, leveraging serverless architecture for scalability and low latency.
-
-- **AI Agent Integration**: Incorporates an AI agent for email processing, enabling features like automated filtering, summarization, and response generation directly within the client.
-
-- **TypeScript Implementation**: Entire codebase written in TypeScript, utilizing Cloudflare's Workers runtime for TypeScript support and optimized performance.
+- **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, eliminating traditional backend infrastructure.
+- **AI Integration**: Embedded AI agent processes emails in real-time, enabling automated responses, categorization, and summarization within the Workers runtime.
+- **Tech Stack**: Built entirely in TypeScript, utilizing Cloudflare’s edge network for low-latency, globally distributed email handling.
 
 ## Why It Matters
 

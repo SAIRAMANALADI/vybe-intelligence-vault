@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-08-04T03:59:02.348549+05:30'
+collected_at: '2026-08-04T14:49:09.121402+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-08-04T03:59:02.348549+05:30'
-last_seen: '2026-08-04T03:59:02.348549+05:30'
-last_checked: '2026-08-04T03:59:02.348549+05:30'
+first_seen: '2026-08-04T14:49:09.121402+05:30'
+last_seen: '2026-08-04T14:49:09.121402+05:30'
+last_checked: '2026-08-04T14:49:09.121402+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Provider-Agnostic TTS Shim Layer**: Go-based proxy engine (`tts-shims`) translating provider-specific TTS APIs (OpenAI, ElevenLabs, Cartesia, AWS Polly, etc.) into a unified Speechify API interface, enabling BYOC (Bring Your Own Credentials) for voice-agent deployments.
+- **Provider-Agnostic TTS Shim Layer**: Go-based proxy engine (`tts-shims`) that standardizes API interactions for 13 TTS providers (e.g., OpenAI, ElevenLabs, AWS Polly) by routing requests to the Speechify API, enabling unified voice-agent integration.
 
-- **Modular Binary Architecture**: Single Go engine with per-provider binaries, ensuring minimal overhead while maintaining compatibility across 14+ TTS providers via standardized shim implementations.
+- **BYOC (Bring Your Own Codec) Architecture**: Implements a modular design with one shared Go engine and individual binaries per provider, ensuring compatibility while allowing customization for voice-agent deployments.
 
-- **Real-Time Proxy & Caching**: Routes TTS requests to Speechify’s backend with optional provider-specific preprocessing, optimized for low-latency voice-agent interactions (last updated: 2026-07-13).
+- **Minimalist Repository**: Single-star, zero-fork project (as of 2026-07-13) written in Go, last updated on 2026-07-13, focusing on lightweight proxy functionality for diverse TTS providers.
 
 ## Why It Matters
 

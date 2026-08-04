@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.npmjs.com/
-published_at: '2026-08-04T09:20:38.063884+05:30'
-collected_at: '2026-08-04T09:20:38.063892+05:30'
+published_at: '2026-08-04T14:46:25.412463+05:30'
+collected_at: '2026-08-04T14:46:25.412474+05:30'
 tags:
 - web-crawled
-- workflows
 status: active
 resource_id: blog:npm-docs
-first_seen: '2026-08-04T09:20:38.063892+05:30'
-last_seen: '2026-08-04T09:20:38.063892+05:30'
-last_checked: '2026-08-04T09:20:38.063892+05:30'
+first_seen: '2026-08-04T14:46:25.412474+05:30'
+last_seen: '2026-08-04T14:46:25.412474+05:30'
+last_checked: '2026-08-04T14:46:25.412474+05:30'
 health_score: 100
 ---
 
@@ -21,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **npm CLI**: Command-line interface for interacting with the npm registry, enabling package installation, version management, and script execution via commands like `npm install`, `npm publish`, and `npm run`.
-- **Package Management**: Supports dependency resolution, semantic versioning (`^`, `~`, `*`), and lifecycle scripts (`preinstall`, `postpublish`) for automated workflows in Node.js projects.
-- **Security Policies**: Enforces registry access controls, two-factor authentication (2FA), and package signing (via npm provenance) to mitigate supply-chain threats like dependency confusion and malicious package uploads.
+- **npm CLI**: Command-line interface for managing npm registries, packages, and dependencies via commands like `npm install`, `npm publish`, and `npm audit`.
+- **Registry & Packages**: Centralized repository for JavaScript packages with metadata, versioning, and dependency resolution via `package.json`.
+- **Security & Policies**: Enforces access control, threat mitigation (e.g., dependency vulnerabilities), and organizational policies through npm’s built-in tools and integrations.
 
 ## Why It Matters
 
@@ -33,12 +32,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T09:20:38.063884+05:30
+- Published: 2026-08-04T14:46:25.412463+05:30
 
 ## Related Tags
 
 - web-crawled
-- workflows
 
 ## Source
 

@@ -4,14 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-04T09:10:00.934226+05:30'
+collected_at: '2026-08-04T14:42:14.156795+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
-- paper
 - python
 - rag
 stars: 174
@@ -22,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-04T09:10:00.934226+05:30'
-last_seen: '2026-08-04T09:10:00.934226+05:30'
-last_checked: '2026-08-04T09:10:00.934226+05:30'
+first_seen: '2026-08-04T14:42:14.156795+05:30'
+last_seen: '2026-08-04T14:42:14.156795+05:30'
+last_checked: '2026-08-04T14:42:14.156795+05:30'
 health_score: 100
 ---
 
@@ -32,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence-level), leveraging unified embeddings and cross-modal attention mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG to support diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via a unified retrieval-augmentation pipeline.
 
-- **ACL 2026 Oral Paper**: The system introduces novel retrieval strategies and fusion techniques to handle heterogeneous corpora, achieving state-of-the-art performance in multimodal QA and generation tasks while maintaining scalability.
+- **Modality-Agnostic Retrieval & Generation**: Implements a cross-modal retrieval mechanism (e.g., CLIP-based embeddings) and a modality-aware LLM adapter to handle heterogeneous data inputs seamlessly.
 
-- **Open-Source Implementation**: The Python-based repository provides modular components for modality-specific encoders, dynamic retrievers, and adaptive fusion modules, with pre-trained models and benchmark datasets included for reproducibility.
+- **ACL 2026 Oral Contribution**: Introduces a benchmark suite for evaluating RAG systems across modalities, with state-of-the-art performance on multi-modal QA and retrieval tasks.
 
 ## Why It Matters
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tonykipkemboi/trip_planner_agent
-collected_at: '2026-08-04T09:12:31.023394+05:30'
+collected_at: '2026-08-04T14:44:44.314566+05:30'
 published_at: '2026-05-18T04:13:15Z'
 tags:
 - agents
 - github-repo
+- models
 - openai
 - python
 - rag
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-16T09:09:17Z'
 pushed_at: '2024-06-19T15:04:05Z'
 resource_id: github:tonykipkemboi/trip_planner_agent
-first_seen: '2026-08-04T09:12:31.023394+05:30'
-last_seen: '2026-08-04T09:12:31.023394+05:30'
-last_checked: '2026-08-04T09:12:31.023394+05:30'
+first_seen: '2026-08-04T14:44:44.314566+05:30'
+last_seen: '2026-08-04T14:44:44.314566+05:30'
+last_checked: '2026-08-04T14:44:44.314566+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **CrewAI-based vacation planning system**: Implements multi-agent architecture using CrewAI framework to coordinate specialized agents for itinerary planning, leveraging LLMs for dynamic trip customization.
-
-- **Python implementation with OpenAI integration**: Utilizes Python with OpenAI's LLMs for natural language processing, enabling context-aware travel recommendations and real-time itinerary adjustments.
-
-- **Open-source modular design**: Repository provides a scalable, open-source template for AI-driven trip planning, with 143 stars and 62 forks, last updated in May 2026.
+- **CrewAI-based Agents**: Implements a multi-agent system using CrewAI framework to autonomously plan vacations by coordinating specialized agents (e.g., itinerary, booking, and recommendation agents).
+- **LLM Integration**: Leverages OpenAI's LLMs (e.g., GPT-4) for natural language understanding and generation to dynamically generate, refine, and optimize travel plans based on user inputs.
+- **Python Toolchain**: Built with Python, utilizing CrewAI, OpenAI API, and additional libraries (e.g., `requests`, `pandas`) for data processing, API interactions, and agent orchestration.
 
 ## Why It Matters
 

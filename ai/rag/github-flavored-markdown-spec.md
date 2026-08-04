@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.github.com/gfm/
-published_at: '2026-08-02T21:55:21.059144+05:30'
-collected_at: '2026-08-02T21:55:21.059161+05:30'
+published_at: '2026-08-04T14:48:22.345281+05:30'
+collected_at: '2026-08-04T14:48:22.345317+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:github-flavored-markdown-spec
-first_seen: '2026-08-02T21:55:21.059161+05:30'
-last_seen: '2026-08-02T21:55:21.059161+05:30'
-last_checked: '2026-08-02T21:55:21.059161+05:30'
+first_seen: '2026-08-04T14:48:22.345317+05:30'
+last_seen: '2026-08-04T14:48:22.345317+05:30'
+last_checked: '2026-08-04T14:48:22.345317+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GFM Specification**: GitHub Flavored Markdown (GFM) is a strict superset of CommonMark, defining syntax/semantics for GitHub.com and Enterprise, with extensions for unsupported CommonMark features and post-processing for security/sanitization.
+- **GFM Extensions**: GitHub Flavored Markdown (GFM) is a strict superset of CommonMark, adding extensions like tables, task lists, strikethrough, and autolinks, while enforcing additional post-processing for security and consistency.
 
-- **Parsing Ambiguities**: The spec resolves Markdown ambiguities (e.g., list indentation, blank line requirements, precedence rules) to ensure consistent cross-implementation behavior, replacing the buggy `Markdown.pl` reference.
+- **Parsing Phases**: GFM parsing occurs in two phases—Phase 1 structures blocks (e.g., headings, lists, code blocks) via a defined precedence hierarchy, while Phase 2 resolves inline elements (e.g., links, emphasis, code spans) with strict precedence rules.
 
-- **Unicode Handling**: Defines characters/lines as Unicode code points, with whitespace classifications (e.g., `Zs` category, tabs, newlines) and line endings (`U+000A`, `U+000D`, or combinations).
+- **Character Handling**: GFM treats all Unicode code points as valid characters, defines line endings as `U+000A`, `U+000D`, or `U+000D U+000A`, and classifies whitespace per Unicode `Zs` category or specific control characters.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T21:55:21.059144+05:30
+- Published: 2026-08-04T14:48:22.345281+05:30
 
 ## Related Tags
 

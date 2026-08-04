@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/reworkd/AgentGPT
-collected_at: '2026-08-04T09:11:26.000693+05:30'
+collected_at: '2026-08-04T14:43:39.279001+05:30'
 published_at: '2026-08-03T14:22:52Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - openai
 - rag
 - typescript
+- workflows
 stars: 36299
 language: TypeScript
 status: active
@@ -21,9 +22,9 @@ archived: true
 created_at: '2023-04-07T02:29:19Z'
 pushed_at: '2025-04-29T01:19:32Z'
 resource_id: github:reworkd/agentgpt
-first_seen: '2026-08-04T09:11:26.000693+05:30'
-last_seen: '2026-08-04T09:11:26.000693+05:30'
-last_checked: '2026-08-04T09:11:26.000693+05:30'
+first_seen: '2026-08-04T14:43:39.279001+05:30'
+last_seen: '2026-08-04T14:43:39.279001+05:30'
+last_checked: '2026-08-04T14:43:39.279001+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Browser-based Autonomous AI Agent Deployment**: Enables users to assemble, configure, and deploy autonomous AI agents directly in a web browser, leveraging modern frontend frameworks.
+- **Autonomous AI Agent Deployment**: Enables browser-based assembly, configuration, and deployment of autonomous AI agents using TypeScript and Next.js (T3 stack).
 
-- **Tech Stack**: Built with **TypeScript**, **Next.js** (T3 Stack), and integrates **LangChain** for agent orchestration, with **OpenAI's LLM** as the core reasoning engine.
+- **Integration with LLM Frameworks**: Supports OpenAI, LangChain, BabyAGI, and AutoGPT for leveraging large language models (LLMs) in agent workflows.
 
-- **Multi-Agent & AGI-Oriented**: Supports deployment of multiple agent instances (e.g., BabyAGI, AutoGPT) with modular configuration, targeting **Artificial General Intelligence (AGI)** applications.
+- **Open-Source & Scalable**: Repository (36.3k+ stars, 9.3k+ forks) facilitates collaborative development of AI agent systems with modular, extensible architecture.
 
 ## Why It Matters
 

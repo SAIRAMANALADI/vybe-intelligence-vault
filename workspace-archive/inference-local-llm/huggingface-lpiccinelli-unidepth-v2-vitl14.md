@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: lpiccinelli/unidepth-v2-vitl14 (Likes: 47, Downloads: 36226053)
+Trending Hugging Face model: lpiccinelli/unidepth-v2-vitl14 (Likes: 47, Downloads: 38231194)
 
 ## Use Cases
 

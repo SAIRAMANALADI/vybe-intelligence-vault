@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-04T09:08:20.847442+05:30'
+collected_at: '2026-08-04T14:40:34.101975+05:30'
 published_at: '2026-08-02T10:26:59Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - openai
 - rag
+- reddit
 stars: 898
 language: Jupyter Notebook
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-04T09:08:20.847442+05:30'
-last_seen: '2026-08-04T09:08:20.847442+05:30'
-last_checked: '2026-08-04T09:08:20.847442+05:30'
+first_seen: '2026-08-04T14:40:34.101975+05:30'
+last_seen: '2026-08-04T14:40:34.101975+05:30'
+last_checked: '2026-08-04T14:40:34.101975+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A structured 5-week learning path for mastering Retrieval-Augmented Generation (RAG) with hands-on Jupyter Notebooks, covering core concepts, implementation, and optimization techniques.
+- **Repository Overview**: `microsoft/rag-time` is a 5-week structured learning program focused on mastering Retrieval-Augmented Generation (RAG) systems, covering topics from indexing to hybrid search and responsible AI practices.
 
-- **Technical Focus**: Implements advanced RAG components including **HNSW (Hierarchical Navigable Small World) indexing**, **binary/scalar quantization**, **Matryoshka representation learning**, and **hybrid search** (vector + keyword) for efficient retrieval.
+- **Technical Stack**: Utilizes Jupyter Notebooks with integrations for Azure, OpenAI APIs, and vector search techniques (HNSW, scalar/binary quantization) alongside Matryoshka representation learning for efficient multimodal retrieval.
 
-- **Tools & Integration**: Leverages **Azure AI**, **OpenAI APIs**, **Visual Studio Code**, and **responsible AI practices** to deploy scalable, multimodal RAG pipelines with performance benchmarks.
+- **Key Features**: Includes hybrid search (vector + keyword), multimodal RAG, and responsible AI guidelines; optimized for deployment in Visual Studio Code with Azure cloud support.
 
 ## Why It Matters
 

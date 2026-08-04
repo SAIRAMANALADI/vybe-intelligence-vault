@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:lyogavin/airllm
 first_seen: '2026-06-23T01:03:50.205823+05:30'
 last_seen: '2026-08-04T09:07:28.768552+05:30'
 last_checked: '2026-08-04T09:07:28.768552+05:30'
 health_score: 100
 ---
+
 
 # AirLLM 70B inference with single 4GB GPU
 

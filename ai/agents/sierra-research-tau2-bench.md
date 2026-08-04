@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-08-04T09:11:06.065130+05:30'
-published_at: '2026-08-04T03:03:35Z'
+collected_at: '2026-08-04T14:43:19.256889+05:30'
+published_at: '2026-08-04T09:07:11Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - hackernews
 - python
-stars: 1722
+stars: 1725
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-08-04T03:25:24Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-08-04T09:11:06.065130+05:30'
-last_seen: '2026-08-04T09:11:06.065130+05:30'
-last_checked: '2026-08-04T09:11:06.065130+05:30'
+first_seen: '2026-08-04T14:43:19.256889+05:30'
+last_seen: '2026-08-04T14:43:19.256889+05:30'
+last_checked: '2026-08-04T14:43:19.256889+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and language model agents with a structured, multi-turn interaction framework.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with a structured, multi-turn interaction framework.
 
 - **Technical Scope**: Implemented in Python, the benchmark includes dynamic tool integration, user simulation, and performance metrics for assessing agent adaptability, tool-use efficiency, and task completion in complex environments.
 
-- **Evaluation Metrics**: Measures agent performance via success rates, latency, and robustness under varying user behaviors, tool availability, and domain-specific constraints, providing a standardized comparison for LLM-based agents.
+- **Evaluation Metrics**: Measures agent performance via success rates, latency, and robustness under varying user behaviors, tool availability, and domain-specific constraints, enabling comparative analysis of LLM-agent systems.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sierra-research
-- Stars: 1722
-- Forks: 430
+- Stars: 1725
+- Forks: 433
 - Language: Python
 - Topics: ai, benchmark, conversational-agents, language-model-agent, llm
-- Last Updated: 2026-08-04T03:03:35Z
+- Last Updated: 2026-08-04T09:07:11Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T23:46:17Z

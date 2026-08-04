@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-04T09:09:05.954146+05:30'
+collected_at: '2026-08-04T14:41:19.093484+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-04T09:09:05.954146+05:30'
-last_seen: '2026-08-04T09:09:05.954146+05:30'
-last_checked: '2026-08-04T09:09:05.954146+05:30'
+first_seen: '2026-08-04T14:41:19.093484+05:30'
+last_seen: '2026-08-04T14:41:19.093484+05:30'
+last_checked: '2026-08-04T14:41:19.093484+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including text preprocessing, embedding generation, and retrieval mechanisms tailored to Vietnamese linguistic characteristics.
-
-- **Modular Python Architecture**: Features a scalable backend with components for document ingestion, vector storage (e.g., FAISS or Chroma), retrieval pipelines, and LLM integration, leveraging libraries like `sentence-transformers`, `langchain`, and `fastapi` for Vietnamese-specific use cases.
-
-- **Evaluation & Optimization**: Includes benchmarking tools for Vietnamese RAG performance, with metrics for retrieval accuracy, response relevance, and latency, alongside optimizations for handling Vietnamese diacritics, tokenization, and domain-specific corpora.
+- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, integrating vector search and LLM inference.
+- **Architecture**: Utilizes FAISS for efficient vector similarity search and a modular pipeline for document retrieval, embedding generation, and response synthesis.
+- **Deployment**: Designed for scalability with Docker support and configurable components for Vietnamese-specific tokenization and retrieval strategies.
 
 ## Why It Matters
 
