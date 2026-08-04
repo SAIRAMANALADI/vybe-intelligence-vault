@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface/hub-docs/blob/main/docs/hub/spaces.md
-published_at: '2026-08-04T22:43:32.198792+05:30'
-collected_at: '2026-08-04T22:43:32.198801+05:30'
+published_at: '2026-08-05T01:36:55.207525+05:30'
+collected_at: '2026-08-05T01:36:55.207535+05:30'
 tags:
 - creative_dev
+- hackernews
 - rag
 - reddit
 - scripts
 - web-crawled
-- workflows
-- youtube
 status: active
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-08-04T22:43:32.198801+05:30'
-last_seen: '2026-08-04T22:43:32.198801+05:30'
-last_checked: '2026-08-04T22:43:32.198801+05:30'
+first_seen: '2026-08-05T01:36:55.207535+05:30'
+last_seen: '2026-08-05T01:36:55.207535+05:30'
+last_checked: '2026-08-05T01:36:55.207535+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting directly on user/organization profiles with support for Gradio SDK (rapid Python app development), Docker (full flexibility), and static HTML/JS apps; GPU/accelerated hardware upgrades available.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio SDK, Dockerfiles, and static JavaScript/HTML, including GPU/accelerated hardware upgrades.
 
-- **Integration & Customization**: Supports dependency management, OpenCV integration, GitHub Actions for CI/CD, and embedding; includes dev mode, storage monitoring, and ArXiv submission workflows.
+- **Flexible SDKs & Customization**: Supports multiple deployment methods: Gradio for rapid Python app development, Docker for full flexibility, and static HTML/JS for frontend-only demos; additional docs cover dependencies, settings, and advanced use cases.
 
-- **SDKs & Configuration**: Provides specialized SDKs (Gradio, Docker, static HTML, custom Python) with detailed documentation; includes config reference, changelog, and contact channels (forum, email, Twitter) for support.
+- **Collaboration & Integration**: Facilitates ML portfolio showcasing, collaborative projects, and embedding Spaces; includes GitHub Actions integration, ArXiv submission, and GPU/storage management with detailed technical documentation.
 
 ## Why It Matters
 
@@ -40,17 +39,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T22:43:32.198792+05:30
+- Published: 2026-08-05T01:36:55.207525+05:30
 
 ## Related Tags
 
 - creative_dev
+- hackernews
 - rag
 - reddit
 - scripts
 - web-crawled
-- workflows
-- youtube
 
 ## Source
 

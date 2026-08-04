@@ -13,9 +13,9 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
+- [Kotlin and Android | Android Developers](https://developer.android.com/kotlin) (framework - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
 - [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke) (tutorial - USEFUL Tier)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-04 22:54 IST*
+*Last updated: 2026-08-05 01:47 IST*

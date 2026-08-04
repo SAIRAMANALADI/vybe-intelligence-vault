@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-08-04T14:40:35.732239+05:30'
-collected_at: '2026-08-04T14:40:35.732250+05:30'
+published_at: '2026-08-05T01:29:15.754545+05:30'
+collected_at: '2026-08-05T01:29:15.754556+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-08-04T14:40:35.732250+05:30'
-last_seen: '2026-08-04T14:40:35.732250+05:30'
-last_checked: '2026-08-04T14:40:35.732250+05:30'
+first_seen: '2026-08-05T01:29:15.754556+05:30'
+last_seen: '2026-08-05T01:29:15.754556+05:30'
+last_checked: '2026-08-05T01:29:15.754556+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Evolution**: Naive RAG (basic retrieval + generation) → Advanced RAG (hybrid search, reranking, query transformation) → Graph RAG (entity-relation graph traversal for multi-hop reasoning), with modular RAG enabling dynamic routing and tool integration.
+- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
 
-- **Core RAG Components**: Retrieval (dense/sparse embeddings + BM25), augmentation (context injection), and generation (LLM constrained by retrieved docs), addressing hallucinations, knowledge freshness, and private data access without model retraining.
+- **Core Components**: RAG systems consist of retrieval (vector/sparse search), augmentation (context injection), and generation (LLM reasoning), with modular variants enabling dynamic routing, tool integration, and iterative refinement for complex queries.
 
-- **Implementation Trade-offs**: Naive RAG is simple but limited; Advanced RAG improves accuracy via hybrid retrieval and reranking; Graph RAG excels in relational reasoning but requires graph construction overhead, with modular RAG offering flexibility at the cost of operational complexity.
+- **Operational Trade-offs**: Graph RAG excels in relational reasoning but incurs higher graph construction costs, while Advanced RAG improves retrieval accuracy via hybrid methods but increases pipeline complexity; Naive RAG offers simplicity at the cost of robustness.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T14:40:35.732239+05:30
+- Published: 2026-08-05T01:29:15.754545+05:30
 
 ## Related Tags
 

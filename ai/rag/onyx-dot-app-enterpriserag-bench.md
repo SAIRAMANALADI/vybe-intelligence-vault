@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-04T22:38:02.849253+05:30'
+collected_at: '2026-08-05T01:30:23.945004+05:30'
 published_at: '2026-08-03T02:27:54Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 495
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-04T22:38:02.849253+05:30'
-last_seen: '2026-08-04T22:38:02.849253+05:30'
-last_checked: '2026-08-04T22:38:02.849253+05:30'
+first_seen: '2026-08-05T01:30:23.945004+05:30'
+last_seen: '2026-08-05T01:30:23.945004+05:30'
+last_checked: '2026-08-05T01:30:23.945004+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in domain-specific contexts.
-
-- **Dataset Composition**: Includes synthetically generated enterprise documents and Q&A pairs, designed to simulate real-world internal knowledge bases for evaluating retrieval accuracy, answer correctness, and contextual relevance in enterprise RAG deployments.
-
-- **Evaluation Scope**: Supports metrics for semantic search, information retrieval, and LLM response quality, with Python-based tooling for automated benchmarking and comparative analysis against enterprise-specific baselines.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
+- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based Q&A testing across enterprise knowledge bases to measure retrieval and generative accuracy.
+- **Technical Scope**: Supports Python-based pipelines for RAG evaluation, covering metrics like information retrieval, generative AI quality, and semantic search efficacy in enterprise contexts.
 
 ## Why It Matters
 

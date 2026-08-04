@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/gemini/answer/13594961#privacy_notice
-published_at: '2026-08-04T14:51:35.932314+05:30'
-collected_at: '2026-08-04T14:51:35.932327+05:30'
+published_at: '2026-08-05T01:37:36.901206+05:30'
+collected_at: '2026-08-05T01:37:36.901218+05:30'
 tags:
 - agents
 - deepmind
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-apps-privacy-hub-gemini-apps-help
-first_seen: '2026-08-04T14:51:35.932327+05:30'
-last_seen: '2026-08-04T14:51:35.932327+05:30'
-last_checked: '2026-08-04T14:51:35.932327+05:30'
+first_seen: '2026-08-05T01:37:36.901218+05:30'
+last_seen: '2026-08-05T01:37:36.901218+05:30'
+last_checked: '2026-08-05T01:37:36.901218+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Collects user-provided inputs (prompts, files, audio/video transcripts) and generated outputs (text, code, images, citations) from Gemini Apps, including interactions with Connected Apps, device permissions, and location data. Retains system logs, performance metrics, and crash reports for service improvement.
+- **Data Collection Scope**: Collects explicit user inputs (prompts, files, transcripts) and generated content (text, code, media) alongside device/app metadata (permissions, interaction logs, system data), with location/IP tracking and subscription details.
 
-- **Processing & Personalization**: Uses collected data to power, personalize, and improve Gemini services via generative AI models and machine learning, including human review for quality control. Data may be shared across Google services (e.g., Search, Assistant) to enhance responses and enable cross-platform features.
+- **Processing & Retention**: Data used for service provisioning, AI model training, and personalization; human reviewers may access content for quality control; retention varies by activity state (temporary vs. saved chats).
 
-- **Retention & Control**: Temporary chats and activity logs are retained for limited durations (configurable via "Keep Activity" setting). Users can export, delete, or restrict data usage (e.g., audio/Live recordings, past chat personalization) and manage permissions for Connected Apps and device integrations.
+- **Third-Party Integration**: Connected Apps (Google/third-party) exchange data per their policies; audio features may log unintended activations for AI model improvement; user-controlled settings govern data usage for personalization and feature enablement.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T14:51:35.932314+05:30
+- Published: 2026-08-05T01:37:36.901206+05:30
 
 ## Related Tags
 

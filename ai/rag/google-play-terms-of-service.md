@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://play.google.com/about/play-terms.html
-published_at: '2026-08-04T01:39:05.503855+05:30'
-collected_at: '2026-08-04T01:39:05.503870+05:30'
+published_at: '2026-08-05T01:39:42.763361+05:30'
+collected_at: '2026-08-05T01:39:42.763369+05:30'
 tags:
 - agents
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:google-play-terms-of-service
-first_seen: '2026-08-04T01:39:05.503870+05:30'
-last_seen: '2026-08-04T01:39:05.503870+05:30'
-last_checked: '2026-08-04T01:39:05.503870+05:30'
+first_seen: '2026-08-05T01:39:42.763369+05:30'
+last_seen: '2026-08-05T01:39:42.763369+05:30'
+last_checked: '2026-08-05T01:39:42.763369+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Content Access & Third-Party Liability**: Users access Google Play Content via supported devices with internet access; availability varies by region. Google is not liable for third-party Content, which may incur data/network fees from providers (e.g., mobile carriers).
+- **Account & Access Control**: Users must maintain secure Google accounts to access Google Play, with age restrictions enforced per jurisdiction; unauthorized account sharing or data harvesting violates terms, and disabled accounts may lose access to purchased content and family-sharing features.
 
-- **Purchases & Payments**: Transactions are governed by separate contracts with Google or Providers. Family Payment Methods require a designated payment method, with the family manager responsible for all charges. Taxes and carrier billing eligibility are user-responsible, with device identifiers shared for billing verification.
+- **Content & Payment Terms**: Purchases are governed by separate contracts with Google or third-party providers, with pre-orders cancellable until fulfillment; family payment methods require a designated payment method, and taxes are user-responsible, with refunds subject to Google Play’s policy.
 
-- **Security & Updates**: Google Play enforces malware protection (e.g., URL/APK scanning) and may auto-update Content/OS for security/operability. Users must secure accounts; unauthorized access risks account termination and shared Content loss. Updates may bypass user settings for critical fixes.
+- **Security & Updates**: Google Play enforces malware protection, may auto-update content for security/operability, and analyzes apps for harmful behavior; critical updates bypass user settings, while Instant Apps temporarily cache app data synced across devices.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T01:39:05.503855+05:30
+- Published: 2026-08-05T01:39:42.763361+05:30
 
 ## Related Tags
 

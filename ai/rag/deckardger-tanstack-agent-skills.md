@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-04T22:39:22.859129+05:30'
+collected_at: '2026-08-05T01:31:43.972139+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
 - rag
 - reddit
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-04T22:39:22.859129+05:30'
-last_seen: '2026-08-04T22:39:22.859129+05:30'
-last_checked: '2026-08-04T22:39:22.859129+05:30'
+first_seen: '2026-08-05T01:31:43.972139+05:30'
+last_seen: '2026-08-05T01:31:43.972139+05:30'
+last_checked: '2026-08-05T01:31:43.972139+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates efficient data fetching, caching, and synchronization patterns tailored for AI coding agents, leveraging React Query's advanced features like `useQuery`, `useMutation`, and `QueryClient` for optimal performance.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic background refetching.
 
-- **TanStack Router Best Practices**: Implements dynamic routing, lazy loading, and route-based code splitting to enhance navigation and state management in AI-driven applications, ensuring minimal bundle size and faster load times.
+- **Router-State Management for AI Agents**: Implements dynamic route handling and state persistence in TanStack Router (v1+) to enable seamless navigation and context retention in AI coding workflows, leveraging URL-based state serialization.
 
-- **TanStack Start Framework Utilization**: Focuses on server-side rendering (SSR) and static site generation (SSG) strategies using TanStack Start to improve SEO, initial load performance, and seamless integration with AI agent workflows.
+- **Start Framework Best Practices**: Showcases performance-optimized initialization and lifecycle management in TanStack Start (v3+) for AI agents, including SSR/SSG hybrid rendering and edge-optimized data fetching.
 
 ## Why It Matters
 

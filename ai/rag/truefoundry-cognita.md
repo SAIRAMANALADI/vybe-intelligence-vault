@@ -3,8 +3,10 @@ title: truefoundry/cognita
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/truefoundry/cognita
-collected_at: '2026-08-04T20:16:19.643549+05:30'
+source_url: https://github.com/truefoundry/cognita?source=post_page
+resource_id: github:truefoundry/cognita
+-----dba899ae0355---------------------------------------
+collected_at: '2026-08-05T01:33:29.149508+05:30'
 published_at: '2026-08-02T16:00:12Z'
 tags:
 - agents
@@ -21,9 +23,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-08-04T20:16:19.643549+05:30'
-last_seen: '2026-08-04T20:16:19.643549+05:30'
-last_checked: '2026-08-04T20:16:19.643549+05:30'
+first_seen: '2026-08-05T01:33:29.149508+05:30'
+last_seen: '2026-08-05T01:33:29.149508+05:30'
+last_checked: '2026-08-05T01:33:29.149508+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for scalability and customization.
+- **Modular RAG Framework**: Open-source Python-based framework for building production-ready Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
 
-- **Multi-Language Support**: Integrates Python for backend logic and TypeScript for frontend components, enabling full-stack AI application development.
+- **Multi-Language Support**: Supports both Python and TypeScript, enabling hybrid application development with deep learning, fine-tuning, and MLOps capabilities.
 
-- **MLOps & Deployment Features**: Supports fine-tuning, model deployment, and LLM operations (LLMOps) with tools for data processing, retrieval, and generative AI workflows.
+- **TrueFoundry Integration**: Designed for production deployment with LLM-ops features, including model deployment, retrieval pipelines, and agent-based workflows.
 
 ## Why It Matters
 
@@ -70,4 +72,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/truefoundry/cognita
+Original source: https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------

@@ -13,13 +13,14 @@ collected_at: '2026-08-04T22:35:53.493493+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ray-bradbury-s-there-will-come-soft-rains-is-set-t
 first_seen: '2026-08-04T20:11:00.227352+05:30'
 last_seen: '2026-08-04T22:35:53.493493+05:30'
 last_checked: '2026-08-04T22:35:53.493493+05:30'
 health_score: 100
 ---
+
 
 # Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)
 

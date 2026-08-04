@@ -4,19 +4,15 @@ title: Firecrawl - The context API to search, scrape, and interact with the web 
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://firecrawl.dev/blog
-published_at: '2026-08-04T14:48:47.959651+05:30'
-collected_at: '2026-08-04T14:48:47.959661+05:30'
+source_url: https://firecrawl.dev
+published_at: '2026-08-05T01:35:17.134443+05:30'
+collected_at: '2026-08-05T01:35:17.134456+05:30'
 tags:
 - agents
 - anthropic
 - benchmark
-- dataset
-- frontend_ui
-- hackernews
-- meta-ai
-- models
 - openai
+- paper
 - producthunt
 - rag
 - scripts
@@ -25,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
-first_seen: '2026-08-04T14:48:47.959661+05:30'
-last_seen: '2026-08-04T14:48:47.959661+05:30'
-last_checked: '2026-08-04T14:48:47.959661+05:30'
+first_seen: '2026-08-05T01:35:17.134456+05:30'
+last_seen: '2026-08-05T01:35:17.134456+05:30'
+last_checked: '2026-08-05T01:35:17.134456+05:30'
 health_score: 100
 ---
 
@@ -35,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Enhanced Search Accuracy**: Firecrawl's `/search` now employs a custom relevance model, achieving **94.7% accuracy on SimpleQA** while reducing token usage by **10x** compared to full-page processing.
-- **Web-Scale Monitoring**: The `/monitor` endpoint now supports **real-time, always-on surveillance of the entire web**, triggering alerts via AI-filtered diffs for meaningful changes.
-- **Replit Integration**: Firecrawl is now an **official Replit Connector**, enabling one-click deployment of state-of-the-art web search, scraping, and browser automation in applications.
+- **Web Data Infrastructure**: Firecrawl provides a context API for AI agents to search, scrape, and interact with the live web at scale, supporting outputs in `.json`, `.md`, and screenshots, with 96% web coverage including JS-heavy pages.
+
+- **Performance & Efficiency**: Achieves P95 latency of 3.4s with 93% fewer input tokens by extracting clean markdown (excluding navs/footers/ads), and is open-source with 160.9K GitHub stars.
+
+- **Agent Integration**: Enables AI agents to perform actions (click, scroll, type) via `interact()` API, supports MCP/Skills for agent onboarding, and integrates with tools like Cursor, Claude, and Windsurf via `npx firecrawl-cli@latest init --all --browser`.
 
 ## Why It Matters
 
@@ -47,19 +45,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T14:48:47.959651+05:30
+- Published: 2026-08-05T01:35:17.134443+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
 - benchmark
-- dataset
-- frontend_ui
-- hackernews
-- meta-ai
-- models
 - openai
+- paper
 - producthunt
 - rag
 - scripts
@@ -69,4 +63,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://firecrawl.dev/blog
+Original source: https://firecrawl.dev

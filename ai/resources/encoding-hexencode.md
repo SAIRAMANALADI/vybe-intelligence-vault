@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/encoding/hexencode/
-published_at: '2026-08-04T20:19:16.725635+05:30'
-collected_at: '2026-08-04T20:19:16.725646+05:30'
+published_at: '2026-08-05T01:36:51.581739+05:30'
+collected_at: '2026-08-05T01:36:51.581749+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:encoding-hexencode
-first_seen: '2026-08-04T20:19:16.725646+05:30'
-last_seen: '2026-08-04T20:19:16.725646+05:30'
-last_checked: '2026-08-04T20:19:16.725646+05:30'
+first_seen: '2026-08-05T01:36:51.581749+05:30'
+last_seen: '2026-08-05T01:36:51.581749+05:30'
+last_checked: '2026-08-05T01:36:51.581749+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T20:19:16.725635+05:30
+- Published: 2026-08-05T01:36:51.581739+05:30
 
 ## Related Tags
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-04T22:35:54.530941+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llms-reward-expertise
 first_seen: '2026-08-04T03:49:19.510213+05:30'
 last_seen: '2026-08-04T22:35:54.530941+05:30'
 last_checked: '2026-08-04T22:35:54.530941+05:30'
 health_score: 100
 ---
+
 
 # LLMs reward expertise
 

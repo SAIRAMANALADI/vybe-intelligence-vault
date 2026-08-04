@@ -10,12 +10,12 @@ Computer-use and browser agents transition AI from text engines to active workfl
 
 - [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (workflow - ESSENTIAL Tier)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) (framework - ESSENTIAL Tier)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (framework - ESSENTIAL Tier)
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) (framework - ESSENTIAL Tier)
+- [huangjia2019/ai-agents](https://github.com/huangjia2019/ai-agents) (tutorial - ESSENTIAL Tier)
 - [Hugging Face · GitHub](https://github.com/huggingface) (framework - ESSENTIAL Tier)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
+- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/microsoft/playwright (Playwright)
 https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [mongodb · GitHub](https://github.com/mongodb)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf)
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
+- [huangjia2019/ai-agents](https://github.com/huangjia2019/ai-agents)
+- [Hugging Face · GitHub](https://github.com/huggingface)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-08-04 22:54 IST*
+*Last updated: 2026-08-05 01:47 IST*

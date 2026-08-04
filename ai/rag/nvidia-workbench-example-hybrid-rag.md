@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-04T22:37:27.822022+05:30'
+collected_at: '2026-08-05T01:29:48.910897+05:30'
 published_at: '2026-08-01T15:15:48Z'
 tags:
-- benchmark
 - github-repo
+- meta-ai
 - models
 - python
 - rag
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-04T22:37:27.822022+05:30'
-last_seen: '2026-08-04T22:37:27.822022+05:30'
-last_checked: '2026-08-04T22:37:27.822022+05:30'
+first_seen: '2026-08-05T01:29:48.910897+05:30'
+last_seen: '2026-08-05T01:29:48.910897+05:30'
+last_checked: '2026-08-05T01:29:48.910897+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in NVIDIA AI Workbench.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in LLMs.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment, fine-tuning, and evaluation of hybrid RAG models with GPU-accelerated components.
+- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG system using NVIDIA's AI Workbench, leveraging GPU acceleration for vector search (e.g., FAISS, NVIDIA NeMo Retriever) and LLM inference (e.g., NVIDIA TensorRT-LLM).
 
-- **Python-Based Example**: Provides a Python-based reference implementation with modular components for retrieval, reranking, and generation, optimized for NVIDIA GPUs (e.g., CUDA acceleration).
+- **Python-Based Example**: Provides a modular Python codebase with components for document preprocessing, retrieval (BM25 + embeddings), prompt augmentation, and generation using frameworks like LangChain or LlamaIndex.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 370
-- Forks: 1011
+- Forks: 1010
 - Language: Python
 - Topics: None
 - Last Updated: 2026-08-01T15:15:48Z

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-04T22:39:02.921095+05:30'
-published_at: '2026-08-04T16:53:00Z'
+collected_at: '2026-08-05T01:31:23.995493+05:30'
+published_at: '2026-08-04T19:19:23Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - openai
 - python
 - workflows
-stars: 10433
+stars: 10432
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-08-04T16:32:53Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-04T22:39:02.921095+05:30'
-last_seen: '2026-08-04T22:39:02.921095+05:30'
-last_checked: '2026-08-04T22:39:02.921095+05:30'
+first_seen: '2026-08-05T01:31:23.995493+05:30'
+last_seen: '2026-08-05T01:31:23.995493+05:30'
+last_checked: '2026-08-05T01:31:23.995493+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Multi-Agent Framework**: Open-SWE implements a scalable, event-driven architecture for parallelized coding agents using Python's `asyncio`, enabling concurrent task execution and non-blocking I/O operations for LLM interactions.
+- **Asynchronous Coding Agent Framework**: Open-SWE is an open-source Python-based framework designed for building asynchronous coding agents, enabling parallel task execution and non-blocking I/O operations for efficient LLM-driven development workflows.
 
-- **Tool-Agnostic Integration**: Supports pluggable LLM backends (OpenAI, Anthropic, etc.) and tool ecosystems (e.g., file I/O, shell commands) via standardized interfaces, facilitating dynamic agent specialization for code generation/repair tasks.
+- **Multi-Provider LLM Integration**: Supports asynchronous interactions with multiple LLM providers (e.g., OpenAI, Anthropic, ClaudeCode) via standardized APIs, facilitating dynamic agent behavior and tool usage across heterogeneous model ecosystems.
 
-- **Stateful Workflow Management**: Implements persistent session tracking with checkpointing, allowing agents to resume interrupted workflows and maintain context across distributed execution environments.
+- **Scalable Agent Architecture**: Implements modular agent components with event-driven task orchestration, allowing horizontal scaling for concurrent code generation, testing, and debugging tasks in distributed environments.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10433
+- Stars: 10432
 - Forks: 1214
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-04T16:53:00Z
+- Last Updated: 2026-08-04T19:19:23Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

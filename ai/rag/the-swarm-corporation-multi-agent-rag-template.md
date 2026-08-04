@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-04T22:40:53.023582+05:30'
+collected_at: '2026-08-05T01:33:14.187660+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 59
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-04T22:40:53.023582+05:30'
-last_seen: '2026-08-04T22:40:53.023582+05:30'
-last_checked: '2026-08-04T22:40:53.023582+05:30'
+first_seen: '2026-08-05T01:33:14.187660+05:30'
+last_seen: '2026-08-05T01:33:14.187660+05:30'
+last_checked: '2026-08-05T01:33:14.187660+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and Swarms to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG).
+- **Multi-Agent Architecture**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) for parallel document processing, analysis, and insight generation using RAG (Retrieval-Augmented Generation) pipelines.
 
-- **Integration of Vector Databases**: Supports multiple vector storage backends (ChromaDB, Pinecone, Weaviate) for efficient document retrieval and semantic search.
+- **Integration Stack**: Supports multiple LLM backends (OpenAI GPT-3.5/4/5, Anthropic) and vector databases (ChromaDB, Pinecone, Weaviate) for scalable retrieval and generation workflows.
 
-- **Multi-LLM Compatibility**: Designed to work with various large language models (GPT-3.5/4/5, Anthropic) and integrates with Discord for real-time agent collaboration and task execution.
+- **Deployment Flexibility**: Designed for extensibility with Discord bot integration and modular agent roles, enabling real-time multi-agent collaboration on document-based tasks.
 
 ## Why It Matters
 

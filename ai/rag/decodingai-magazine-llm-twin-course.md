@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-04T22:37:42.817079+05:30'
+collected_at: '2026-08-05T01:30:03.953154+05:30'
 published_at: '2026-08-02T02:34:01Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
+- scripts
 stars: 4380
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-04T22:37:42.817079+05:30'
-last_seen: '2026-08-04T22:37:42.817079+05:30'
-last_checked: '2026-08-04T22:37:42.817079+05:30'
+first_seen: '2026-08-05T01:30:03.953154+05:30'
+last_seen: '2026-08-05T01:30:03.953154+05:30'
+last_checked: '2026-08-05T01:30:03.953154+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Content**: Provides end-to-end guidance on building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 hands-on lessons.
-- **Technical Stack**: Utilizes Python with tools like AWS, Bytewax, Comet-ML, Docker, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, MLOps, and generative AI workflows.
-- **Repository Metrics**: Maintained with 4,380 stars, 732 forks, and last updated on 2026-08-02, focusing on ML system design, LLMops, and scalable AI infrastructure.
+- **Course Content**: Provides hands-on lessons (12+ sessions) and source code for building production-ready LLM and RAG systems using LLMOps best practices, covering end-to-end development from model training to deployment.
+
+- **Technical Stack**: Implements infrastructure-as-code (Pulumi), containerization (Docker), vector databases (Qdrant), MLOps tools (Comet-ML, Qwak), and streaming (Bytewax) with AWS integration.
+
+- **Focus Areas**: Covers ML system design, generative AI, and LLMOps, emphasizing scalable, production-grade deployments with infrastructure automation and monitoring.
 
 ## Why It Matters
 

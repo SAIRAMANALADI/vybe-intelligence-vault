@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-08-04T22:40:02.932158+05:30'
-published_at: '2026-08-04T17:07:23Z'
+collected_at: '2026-08-05T01:32:24.052083+05:30'
+published_at: '2026-08-04T20:00:05Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - workflows
-stars: 225381
+stars: 225437
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-08-04T16:45:08Z'
+pushed_at: '2026-08-04T19:38:53Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-08-04T22:40:02.932158+05:30'
-last_seen: '2026-08-04T22:40:02.932158+05:30'
-last_checked: '2026-08-04T22:40:02.932158+05:30'
+first_seen: '2026-08-05T01:32:24.052083+05:30'
+last_seen: '2026-08-05T01:32:24.052083+05:30'
+last_checked: '2026-08-05T01:32:24.052083+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model AI Agent Framework**: Hermes-Agent is a Python-based framework designed for building autonomous AI agents that dynamically adapt and improve using various LLMs (e.g., Anthropic, OpenAI, Claude) with support for tools like `claude-code` and `codex` for code execution and tool integration.
-
-- **Modular & Extensible Architecture**: The repository provides a scalable architecture for agent development, enabling customization via plugins, toolchains (e.g., `moltbot`, `clawdbot`), and dynamic memory/context management for iterative learning and task execution.
-
-- **Production-Ready Features**: Supports real-time interaction, multi-agent collaboration, and integration with APIs (e.g., OpenAI, Anthropic), with last updates (as of 2026-08-04) emphasizing performance optimizations and expanded tooling for enterprise-grade agentic workflows.
+- **Multi-LLM Integration**: Supports interaction with various LLMs (e.g., Anthropic, OpenAI, Codex) via modular adapters, enabling dynamic switching and tool use (e.g., `claude-code`, `moltbot`).
+- **Self-Improving Agent**: Implements iterative learning loops where the agent refines its own prompts, tools, and workflows based on feedback and performance metrics.
+- **Extensible Architecture**: Built in Python with a plugin-based system for adding custom tools, APIs, or LLM backends, optimized for scalability in research and production environments.
 
 ## Why It Matters
 
@@ -44,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 225381
-- Forks: 43753
+- Stars: 225437
+- Forks: 43778
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-08-04T17:07:23Z
+- Last Updated: 2026-08-04T20:00:05Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-08-04T16:45:08Z
+- Pushed At: 2026-08-04T19:38:53Z
 
 ## Possible Use Cases
 

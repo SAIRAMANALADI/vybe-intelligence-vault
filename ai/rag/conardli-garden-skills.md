@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ConardLi/garden-skills
-collected_at: '2026-08-04T22:37:22.820938+05:30'
-published_at: '2026-08-04T16:23:56Z'
+collected_at: '2026-08-05T01:29:43.881753+05:30'
+published_at: '2026-08-04T19:16:19Z'
 tags:
 - agents
 - anthropic
@@ -13,8 +13,7 @@ tags:
 - github-repo
 - hackernews
 - rag
-- workflows
-stars: 10050
+stars: 10052
 language: CSS
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-04-21T11:56:17Z'
 pushed_at: '2026-07-12T14:36:31Z'
 resource_id: github:conardli/garden-skills
-first_seen: '2026-08-04T22:37:22.820938+05:30'
-last_seen: '2026-08-04T22:37:22.820938+05:30'
-last_checked: '2026-08-04T22:37:22.820938+05:30'
+first_seen: '2026-08-05T01:29:43.881753+05:30'
+last_seen: '2026-08-05T01:29:43.881753+05:30'
+last_checked: '2026-08-05T01:29:43.881753+05:30'
 health_score: 100
 ---
 
@@ -33,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills.
-- **Technical Stack**: Primarily implemented in CSS, with integrations for AI agents (Claude), RAG (Retrieval-Augmented Generation), and GPT-Image-2 for image generation.
-- **Metadata**: 10,050 stars, 1,328 forks, last updated on 2026-08-04; topics include agent-based workflows, RAG, and web design.
+- **Technical Stack**: Primarily CSS-based, with integration of AI agents, RAG (Retrieval-Augmented Generation), and GPT-image-2 for image generation.
+- **Metadata**: 10,052 stars, 1,328 forks, last updated 2026-08-04; includes topics like agent, claude, and web-design.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ConardLi
-- Stars: 10050
+- Stars: 10052
 - Forks: 1328
 - Language: CSS
 - Topics: agent, claude, gpt-image-2, rag, skills, web-design
-- Last Updated: 2026-08-04T16:23:56Z
+- Last Updated: 2026-08-04T19:16:19Z
 - License: MIT
 - Archived: No
 - Created At: 2026-04-21T11:56:17Z

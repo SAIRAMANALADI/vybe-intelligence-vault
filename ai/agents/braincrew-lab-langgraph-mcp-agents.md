@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/braincrew-lab/langgraph-mcp-agents
-collected_at: '2026-08-04T22:40:48.004308+05:30'
+collected_at: '2026-08-05T01:33:09.120680+05:30'
 published_at: '2026-07-27T07:17:17Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
+- workflows
 stars: 714
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-03-30T14:25:58Z'
 pushed_at: '2025-04-14T11:00:22Z'
 resource_id: github:braincrew-lab/langgraph-mcp-agents
-first_seen: '2026-08-04T22:40:48.004308+05:30'
-last_seen: '2026-08-04T22:40:48.004308+05:30'
-last_checked: '2026-08-04T22:40:48.004308+05:30'
+first_seen: '2026-08-05T01:33:09.120680+05:30'
+last_seen: '2026-08-05T01:33:09.120680+05:30'
+last_checked: '2026-08-05T01:33:09.120680+05:30'
 health_score: 100
 ---
 
@@ -28,8 +29,8 @@ health_score: 100
 
 ## Summary
 
-- **LangGraph ReAct Agent**: Implements a ReAct (Reasoning and Acting) agent architecture using LangGraph, enabling dynamic reasoning and tool usage.
-- **MCP Integration**: Supports Model Context Protocol (MCP) for seamless interaction with external data sources and APIs via configurable tools.
+- **LangGraph ReAct Agent**: Implements a ReAct (Reasoning and Acting) agent architecture using LangGraph for dynamic workflow orchestration and decision-making.
+- **MCP Integration**: Supports Model Context Protocol (MCP) for seamless tool integration, enabling agents to interact with external data sources and APIs.
 - **Streamlit Interface**: Provides a web-based UI for real-time agent configuration, deployment, and interaction, with dynamic tool management.
 
 ## Why It Matters

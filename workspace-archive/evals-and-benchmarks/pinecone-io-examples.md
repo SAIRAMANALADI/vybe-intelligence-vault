@@ -4,7 +4,7 @@ title: examples/learn/generation/better-rag/02b-semantic-chunking.ipynb at main 
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://github.com/pinecone-io/examples/blob/master/learn/generation/better-rag/02b-semantic-chunking.ipynb
-resource_id: github:pinecone-io/examples-35f63238
+resource_id: github:pinecone-io/examples
 local_vault_path: ai/rag/pinecone-io-examples.md
 quality_score: 70
 archive_score: 77
@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- Demonstrates advanced **semantic chunking** techniques for RAG (Retrieval-Augmented Generation) pipelines using Pinecone's vector database.
-- Includes a Jupyter Notebook (`02b-semantic-chunking.ipynb`) with 2MB of executable code for optimizing document segmentation based on embeddings.
-- Part of Pinecone's `examples` repository under the `learn/generation/better-rag` path, focusing on improved retrieval strategies.
+- **Repository**: Pinecone-io/examples is a public GitHub repository under the Pinecone organization, containing 1.1k forks and 3k stars, with 34 open issues and 30 pull requests.
+
+- **File Structure**: The repository includes a Jupyter Notebook (`02b-semantic-chunking.ipynb`) located in `/learn/generation/better-rag/`, focused on semantic chunking techniques for RAG (Retrieval-Augmented Generation) pipelines.
+
+- **Content**: The notebook (2 MB) provides executable code and metadata for implemen
 
 ## Use Cases
 

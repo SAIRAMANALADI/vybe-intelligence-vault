@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-04T22:37:12.812123+05:30'
+collected_at: '2026-08-05T01:29:33.937219+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-04T22:37:12.812123+05:30'
-last_seen: '2026-08-04T22:37:12.812123+05:30'
-last_checked: '2026-08-04T22:37:12.812123+05:30'
+first_seen: '2026-08-05T01:29:33.937219+05:30'
+last_seen: '2026-08-05T01:29:33.937219+05:30'
+last_checked: '2026-08-05T01:29:33.937219+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) solution, enabling automated provisioning of Azure resources (e.g., AI services, storage, networking) for RAG (Retrieval-Augmented Generation) workflows.
-
-- **RAG Pipeline Integration**: Pre-configured components for end-to-end RAG workflows, including data ingestion, vector storage (Azure Cognitive Search/AI Search), and LLM inference orchestration via Azure AI services.
-
-- **Ops-Ready Features**: Includes monitoring (Azure Monitor), CI/CD (GitHub Actions), and security (RBAC, private networking) best practices for scalable, production-grade GenAI deployments.
+- **Purpose**: Provides a Bicep-based infrastructure-as-code (IaC) template for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure.
+- **Components**: Includes modular Bicep templates for provisioning Azure resources (e.g., ACA, Cosmos DB, Key Vault) required for a **production-grade RAG system**.
+- **Deployment**: Enables CI/CD-ready GenAIOps workflows with pre-configured Azure DevOps/GitHub Actions pipelines for automated RAG model deployment and monitoring.
 
 ## Why It Matters
 

@@ -1,69 +1,48 @@
 ---
-title: huggingface/transformers
+title: transformers/docs/source/en/model_doc/auto.md at main · huggingface/transformers
+  · GitHub
 category: ai/resources
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/huggingface/transformers
-collected_at: '2026-08-03T09:32:20.575291+05:30'
-published_at: '2026-08-03T04:00:53Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/huggingface/transformers/blob/main/docs/source/en/model_doc/auto.md
+published_at: '2026-08-05T01:37:49.483652+05:30'
+collected_at: '2026-08-05T01:37:49.483660+05:30'
 tags:
-- github-repo
 - models
-- python
-- workflows
-stars: 163270
-language: Python
+- web-crawled
+- youtube
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2018-10-29T13:56:00Z'
-pushed_at: '2026-08-03T03:25:00Z'
 resource_id: github:huggingface/transformers
-first_seen: '2026-08-03T09:32:20.575291+05:30'
-last_seen: '2026-08-03T09:32:20.575291+05:30'
-last_checked: '2026-08-03T09:32:20.575291+05:30'
+first_seen: '2026-08-05T01:37:49.483660+05:30'
+last_seen: '2026-08-05T01:37:49.483660+05:30'
+last_checked: '2026-08-05T01:37:49.483660+05:30'
 health_score: 100
 ---
 
-# huggingface/transformers
+# transformers/docs/source/en/model_doc/auto.md at main · huggingface/transformers · GitHub
 
 ## Summary
 
-- **Framework Scope**: Provides a unified Python-based framework for defining, training, and deploying state-of-the-art ML models across modalities (text, vision, audio, multimodal) using PyTorch.
-- **Model Ecosystem**: Integrates support for diverse architectures (e.g., LLMs like DeepSeek, Gemma, GLM; VLMs like Qwen) and includes a model hub for pretrained weights.
-- **Functionality**: Enables both inference and training workflows, with optimizations for NLP, speech recognition, and multimodal tasks, while supporting community-driven contributions (e.g., Hacktoberfest).
+- `AutoClasses` in Transformers automatically instantiate the correct model architecture (e.g., `BertModel`) from a pretrained model name/path via `from_pretrained()`, eliminating manual class selection.
+- Custom models can be registered with `AutoConfig.register()` and `AutoModel.register()`, requiring `model_type` in `PreTrainedConfig` and `config_class` in the model class for proper linkage.
+- Transformers provides specialized `AutoModel` variants (e.g., `AutoModelForCausalLM`, `AutoModelForImageClassification`) for task-specific architectures across NLP, vision, audio, multimodal, and time-series domains.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: huggingface
-- Stars: 163270
-- Forks: 34100
-- Language: Python
-- Topics: audio, deep-learning, deepseek, gemma, glm, hacktoberfest, llm, machine-learning, model-hub, natural-language-processing, nlp, pretrained-models, python, pytorch, pytorch-transformers, qwen, speech-recognition, transformer, vlm
-- Last Updated: 2026-08-03T04:00:53Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2018-10-29T13:56:00Z
-- Pushed At: 2026-08-03T03:25:00Z
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-08-05T01:37:49.483652+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- models
+- web-crawled
+- youtube
 
 ## Source
 
-Original source: https://github.com/huggingface/transformers
+Original source: https://github.com/huggingface/transformers/blob/main/docs/source/en/model_doc/auto.md

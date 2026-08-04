@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-08-04T22:41:18.502858+05:30'
-collected_at: '2026-08-04T22:41:18.502868+05:30'
+published_at: '2026-08-05T01:33:35.790012+05:30'
+collected_at: '2026-08-05T01:33:35.790021+05:30'
 tags:
 - agents
 - benchmark
@@ -17,13 +17,12 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-08-04T22:41:18.502868+05:30'
-last_seen: '2026-08-04T22:41:18.502868+05:30'
-last_checked: '2026-08-04T22:41:18.502868+05:30'
+first_seen: '2026-08-05T01:33:35.790021+05:30'
+last_seen: '2026-08-05T01:33:35.790021+05:30'
+last_checked: '2026-08-05T01:33:35.790021+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Resemble AI** provides a suite of **multimodal deepfake detection and protection tools**, including **Resemble Detect** for real-time deepfake monitoring, **Resemble Identity** for biometric verification, and **Resemble Watermarker** for media authentication.
+- **Resemble AI** provides a suite of **multimodal deepfake detection and protection tools**, including **Resemble Detect** for real-time deepfake monitoring, **Resemble Identity** for biometric verification, and **Resemble Watermarker** for embedding forensic watermarks in media.
 
-- **Top open-source RAG repositories** include **Cognita** (Truefoundry) for modular RAG pipelines, **Verba** (Weaviate) for user-friendly RAG applications, and **LlamaIndex** for scalable data indexing and retrieval in generative AI workflows.
+- **Open-source RAG frameworks** highlighted include **Cognita** (Truefoundry) for modular RAG deployment, **Verba** (Weaviate) for document-based Q&A with HuggingFace integration, and **LlamaIndex** for structured data retrieval and LLM augmentation.
 
-- **Resemble AI’s ecosystem** supports **voice agents, KYC verification, and executive impersonation detection**, with benchmarks, SDKs, and Chrome extensions for browser-based deepfake scanning.
+- **Key selection criteria for RAG repositories** involve **active maintenance (stars/forks/commits)**, **scalability (chunking/embedding/DB integration)**, and **license/documentation quality** (MIT/Apache, comprehensive guides).
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T22:41:18.502858+05:30
+- Published: 2026-08-05T01:33:35.790012+05:30
 
 ## Related Tags
 
@@ -59,7 +58,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source

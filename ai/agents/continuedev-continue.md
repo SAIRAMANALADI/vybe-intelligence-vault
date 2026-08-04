@@ -4,14 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-08-04T22:39:02.945104+05:30'
-published_at: '2026-08-04T16:37:28Z'
+collected_at: '2026-08-05T01:31:23.992415+05:30'
+published_at: '2026-08-04T19:27:50Z'
 tags:
 - agents
+- anthropic
 - github-repo
+- meta-ai
+- models
+- openai
 - typescript
 - workflows
-stars: 35314
+stars: 35315
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -19,9 +23,9 @@ archived: false
 created_at: '2023-05-24T03:39:39Z'
 pushed_at: '2026-08-04T09:35:02Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-08-04T22:39:02.945104+05:30'
-last_seen: '2026-08-04T22:39:02.945104+05:30'
-last_checked: '2026-08-04T22:39:02.945104+05:30'
+first_seen: '2026-08-05T01:31:23.992415+05:30'
+last_seen: '2026-08-05T01:31:23.992415+05:30'
+last_checked: '2026-08-05T01:31:23.992415+05:30'
 health_score: 100
 ---
 
@@ -29,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, designed to assist developers with automated code generation, refactoring, and debugging via CLI integration.
-- **Repository metrics**: 35,314 stars, 5,178 forks, last updated on 2026-08-04, with active development in AI-driven developer tools.
-- **Core features**: Enables autonomous coding workflows, supports multi-language analysis, and integrates with existing IDEs/CLI tools for seamless developer experience.
+- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or assisted coding workflows via CLI or IDE integration.
+- **Extensible architecture** supports custom models, tools, and workflows, facilitating integration with local/remote LLM providers (e.g., Ollama, Anthropic, OpenAI).
+- **Active development** with recent updates (as of 2026-08-04) and a growing community (35K+ stars, 5K+ forks), emphasizing collaborative and agentic coding paradigms.
 
 ## Why It Matters
 
@@ -40,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 35314
-- Forks: 5178
+- Stars: 35315
+- Forks: 5179
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-08-04T16:37:28Z
+- Last Updated: 2026-08-04T19:27:50Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z

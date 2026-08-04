@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-08-04T22:38:42.866108+05:30'
+collected_at: '2026-08-05T01:31:04.026873+05:30'
 published_at: '2026-08-04T15:17:17Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 8314
 language: TypeScript
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-08-04T22:38:42.866108+05:30'
-last_seen: '2026-08-04T22:38:42.866108+05:30'
-last_checked: '2026-08-04T22:38:42.866108+05:30'
+first_seen: '2026-08-05T01:31:04.026873+05:30'
+last_seen: '2026-08-05T01:31:04.026873+05:30'
+last_checked: '2026-08-05T01:31:04.026873+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: `git-mcp` is an open-source, remote MCP (Model Context Protocol) server designed to provide real-time, structured access to any GitHub repository, mitigating LLM code hallucinations by ensuring accurate, up-to-date context.
-
-- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) by exposing repository data via MCP, facilitating agentic workflows with precise GitHub project insights.
-
-- **Features**: Supports dynamic, bidirectional interactions with GitHub projects (read/write), enabling agents to fetch, analyze, and modify codebases while maintaining synchronization with remote repositories.
+- **Purpose**: A free, open-source remote MCP (Model Context Protocol) server enabling LLM agents to interact with any GitHub repository to mitigate code hallucinations.
+- **Technical Stack**: Implemented in TypeScript, designed for integration with AI agents (e.g., Claude, Copilot, Cursor) via MCP for real-time GitHub data access.
+- **Features**: Provides structured, contextualized GitHub project data (repos, issues, PRs, code) to enhance agent accuracy in code-related tasks.
 
 ## Why It Matters
 

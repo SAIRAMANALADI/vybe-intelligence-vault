@@ -4,17 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-04T22:38:32.821321+05:30'
+collected_at: '2026-08-05T01:30:53.959310+05:30'
 published_at: '2026-08-03T10:33:50Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- paper
 - rag
-- scripts
 - unknown
-- workflows
 stars: 832
 language: Unknown
 status: active
@@ -23,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-04T22:38:32.821321+05:30'
-last_seen: '2026-08-04T22:38:32.821321+05:30'
-last_checked: '2026-08-04T22:38:32.821321+05:30'
+first_seen: '2026-08-05T01:30:53.959310+05:30'
+last_seen: '2026-08-05T01:30:53.959310+05:30'
+last_checked: '2026-08-05T01:30:53.959310+05:30'
 health_score: 100
 ---
 
@@ -33,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`DavidZWZ/Awesome-Deep-Research`) listing cutting-edge tools, papers, and frameworks for **agentic deep research**, including **LLMs, RAG, and reasoning agents**, with a focus on **ACL 2026 KnowFM** contributions.
-
-- **Technical Scope**: Covers **agentic RAG, search agents, and deep-research systems**, emphasizing **autonomous reasoning, multi-agent collaboration, and large-scale knowledge synthesis** for advanced AI research workflows.
-
-- **Metadata**: 832 stars, 68 forks, last updated **2026-08-03**; language unspecified but targets **LLM-driven research automation** and **reasoning architectures**.
+- **Curated Resource**: A GitHub repository (`DavidZWZ/Awesome-Deep-Research`) dedicated to **agentic deep research**, focusing on **LLMs, RAG, and reasoning agents** for advanced knowledge synthesis.
+- **ACL 2026 KnowFM Integration**: Aligns with **Knowledge Foundation Models (KnowFM)** research, emphasizing **multi-agent systems** for deep research tasks.
+- **Technical Scope**: Covers **search agents, reasoning pipelines, and agentic RAG**, with last update on **2026-08-03** (832 ⭐, 68 🍴).
 
 ## Why It Matters
 

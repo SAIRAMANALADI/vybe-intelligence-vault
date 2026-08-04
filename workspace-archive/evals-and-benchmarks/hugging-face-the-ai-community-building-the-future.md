@@ -8,10 +8,11 @@ local_vault_path: ai/resources/hugging-face-the-ai-community-building-the-future
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
+- models
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -24,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Architecture**: DeepSeek-V4-Flash-0731 is a high-performance, optimized variant of the DeepSeek-V4 model, designed for efficiency and scalability in large-scale AI applications.
+- **Model Overview**: DeepSeek-V4-Flash-0731 is a lightweight, high-efficiency variant of the DeepSeek-V4 series, optimized for faster inference and reduced computational overhead while maintaining competitive performance.
 
-- **Performance Metrics**: Achieves state-of-the-art results in benchmark evaluations, balancing speed and accuracy with reduced computational overhead compared to prior versions.
+- **Key Features**: Incorporates advanced architectural optimizations (e.g., sparse attention, quantization-aware training) and a distilled knowledge pipeline to balance speed and accuracy, targeting edge deployment scenarios.
 
-- **Deployment & Accessibility**: Available on Hugging Face Hub with optimized inference pipelines, enabling rapid integration for
+- **Benchmark Performance**: Achieves ~2-3x spee
 
 ## Use Cases
 

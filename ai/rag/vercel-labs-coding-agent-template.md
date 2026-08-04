@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-08-04T22:38:57.893353+05:30'
-published_at: '2026-08-04T11:38:21Z'
+collected_at: '2026-08-05T01:31:18.966340+05:30'
+published_at: '2026-08-04T19:19:32Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 1756
+stars: 1755
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-07-30T00:17:35Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-08-04T22:38:57.893353+05:30'
-last_seen: '2026-08-04T22:38:57.893353+05:30'
-last_checked: '2026-08-04T22:38:57.893353+05:30'
+first_seen: '2026-08-05T01:31:18.966340+05:30'
+last_seen: '2026-08-05T01:31:18.966340+05:30'
+last_checked: '2026-08-05T01:31:18.966340+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for unified AI service access.
-- **Tech Stack**: Built in TypeScript, integrates with Vercel’s infrastructure for scalable, serverless agent orchestration.
-- **Update Status**: Last commit on 2026-08-04, indicating active development with 1,756 stars and 292 forks.
+- **Multi-agent architecture**: Implements a distributed AI coding system leveraging Vercel Sandbox for isolated agent execution and AI Gateway for unified API access.
+- **TypeScript-based**: Entirely built in TypeScript, ensuring type safety and compatibility with Vercel’s ecosystem.
+- **Vercel integration**: Utilizes Vercel Sandbox for secure, ephemeral agent environments and AI Gateway for centralized AI service orchestration.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1756
+- Stars: 1755
 - Forks: 292
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-04T11:38:21Z
+- Last Updated: 2026-08-04T19:19:32Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

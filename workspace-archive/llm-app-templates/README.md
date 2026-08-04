@@ -24,9 +24,9 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
+- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
-- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-08-04 22:54 IST*
+*Last updated: 2026-08-05 01:46 IST*

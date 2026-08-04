@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-04T22:38:07.867513+05:30'
+collected_at: '2026-08-05T01:30:28.976271+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 263
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-31T20:03:39Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-04T22:38:07.867513+05:30'
-last_seen: '2026-08-04T22:38:07.867513+05:30'
-last_checked: '2026-08-04T22:38:07.867513+05:30'
+first_seen: '2026-08-05T01:30:28.976271+05:30'
+last_seen: '2026-08-05T01:30:28.976271+05:30'
+last_checked: '2026-08-05T01:30:28.976271+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch monitoring, RAG-based behavioral memory, and LLM-driven real-time anomaly validation for cybersecurity operations.
-- **Skill-Based Architecture**: Implements modular, skill-based components for threat detection, hunting, and SOC automation with retrieval-augmented generation (RAG) for contextual memory.
-- **Anomaly Detection Pipeline**: Validates anomalies dynamically using LLMs, enabling autonomous threat validation and adaptive response within a Security Operations Center (SOC) framework.
+- **Modular SOC Agent**: Python-based autonomous agent designed for Security Operations Centers (SOC), integrating OpenSearch/Elasticsearch monitoring with Retrieval-Augmented Generation (RAG) for behavioral memory and real-time anomaly validation using LLMs.
+
+- **RAG-Enhanced Anomaly Detection**: Builds contextual behavioral memory via RAG to improve threat detection, enabling the agent to validate anomalies dynamically by correlating historical and real-time data from monitored systems.
+
+- **Autonomous Threat Hunting**: Executes skill-based automation for threat detection and hunting, leveraging LLMs to process and analyze security logs while maintaining modularity for extensibility across cybersecurity workflows.
 
 ## Why It Matters
 

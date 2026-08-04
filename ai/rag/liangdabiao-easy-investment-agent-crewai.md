@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-04T22:40:57.978150+05:30'
+collected_at: '2026-08-05T01:33:19.108741+05:30'
 published_at: '2026-08-04T14:24:39Z'
 tags:
 - agents
-- dataset
+- benchmark
 - github-repo
 - python
 - rag
-- workflows
+- scripts
 stars: 474
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-04T22:40:57.978150+05:30'
-last_seen: '2026-08-04T22:40:57.978150+05:30'
-last_checked: '2026-08-04T22:40:57.978150+05:30'
+first_seen: '2026-08-05T01:33:19.108741+05:30'
+last_seen: '2026-08-05T01:33:19.108741+05:30'
+last_checked: '2026-08-05T01:33:19.108741+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A股 Analysis System**: Leverages AKShare for real-time A-share market data (quotes, financials, fund flows, sentiment) via 4 specialized CrewAI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision generator) for collaborative investment insights.
+- **Multi-Agent A股 Analysis**: Implements 4 specialized AI agents (data retrieval, financial analysis, sentiment evaluation, decision synthesis) using CrewAI for collaborative A股 stock analysis with real-time data integration via AKShare.
 
-- **China-Specific Optimization**: Tailored for A-share market nuances (e.g., regulatory filings, market microstructure) with localized financial metrics and sentiment analysis from Chinese data sources.
+- **A股-Optimized Data Pipeline**: Aggregates Chinese market-specific metrics (real-time quotes, financials, fund flows, market sentiment) from AKShare, with preprocessing tailored for A-share characteristics (e.g., delisting risk, ST stocks).
 
-- **Automated Decision Pipeline**: Integrates AKShare’s professional-grade datasets into a CrewAI workflow to generate actionable investment recommendations (e.g., stock selection, risk assessment) with Python-based tooling.
+- **Decision Support System**: Outputs actionable investment recommendations by synthesizing multi-source analysis, leveraging Python-based automation for quantitative modeling and rule-based validation.
 
 ## Why It Matters
 

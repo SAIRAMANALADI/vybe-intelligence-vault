@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:ai-generated-images-discourage-me-from-reading-you
 first_seen: '2026-08-04T20:11:01.918878+05:30'
 last_seen: '2026-08-04T22:35:56.600855+05:30'
 last_checked: '2026-08-04T22:35:56.600855+05:30'
 health_score: 100
 ---
+
 
 # AI-Generated Images Discourage Me from Reading Your Blog
 

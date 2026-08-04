@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-08-04T22:37:32.954914+05:30'
+collected_at: '2026-08-05T01:29:54.067380+05:30'
 published_at: '2026-08-04T15:15:16Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - rag
-- workflows
 stars: 1484
 language: Jupyter Notebook
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-08-04T15:11:21Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-08-04T22:37:32.954914+05:30'
-last_seen: '2026-08-04T22:37:32.954914+05:30'
-last_checked: '2026-08-04T22:37:32.954914+05:30'
+first_seen: '2026-08-05T01:29:54.067380+05:30'
+last_seen: '2026-08-05T01:29:54.067380+05:30'
+last_checked: '2026-08-05T01:29:54.067380+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Contains starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) for generative AI, embeddings, and RAG workflows.
-
-- **Technical Stack**: Implemented primarily in Jupyter Notebooks, with integrations for LangChain, knowledge bases, and retrieval-augmented generation (RAG) pipelines.
-
-- **Use Cases**: Demonstrates core Bedrock capabilities, including model fine-tuning, embeddings generation, and deployment of AI-driven applications via AWS services.
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) across use cases like embeddings, generative AI, and RAG.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, with integrations for LangChain and AWS Knowledge Bases for seamless model deployment and evaluation.
+- **Repository Stats**: 1,484 stars, 711 forks, last updated on 2026-08-04; focuses on Amazon Bedrock's core capabilities (e.g., model fine-tuning, inference, and retrieval-augmented generation).
 
 ## Why It Matters
 

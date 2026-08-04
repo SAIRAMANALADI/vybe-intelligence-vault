@@ -14,13 +14,14 @@ tags:
 - benchmark
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:david-g-3654/homebench
 first_seen: '2026-08-04T20:11:02.499362+05:30'
 last_seen: '2026-08-04T22:35:56.382476+05:30'
 last_checked: '2026-08-04T22:35:56.382476+05:30'
 health_score: 100
 ---
+
 
 # Homebench – Benchmark local LLMs for speed, memory, and quality
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/privacy
-published_at: '2026-08-04T17:13:01.281055+05:30'
-collected_at: '2026-08-04T17:13:01.281069+05:30'
+published_at: '2026-08-05T01:35:28.379839+05:30'
+collected_at: '2026-08-05T01:35:28.379851+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-08-04T17:13:01.281069+05:30'
-last_seen: '2026-08-04T17:13:01.281069+05:30'
-last_checked: '2026-08-04T17:13:01.281069+05:30'
+first_seen: '2026-08-05T01:35:28.379851+05:30'
+last_seen: '2026-08-05T01:35:28.379851+05:30'
+last_checked: '2026-08-05T01:35:28.379851+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked info (emails, photos), device identifiers, IP addresses, and activity logs (searches, location, interactions with ads/content) to personalize services and ads.
+- **Data Collection Scope**: Google collects user data across services (e.g., Search, YouTube, Chrome) including account-linked info (emails, photos), device identifiers, IP addresses, and activity logs (searches, interactions, location data). Non-account data is tied to unique browser/device IDs.
 
-- **Location & Cross-Service Tracking**: Location data is derived from GPS, IP addresses, Wi-Fi/Bluetooth signals, and user-labeled places (e.g., "home/work"), stored variably based on account/device settings (e.g., Timeline, Web & App Activity).
+- **Location & Sensor Data**: Location is gathered via GPS, IP addresses, Wi-Fi access points, and Bluetooth devices. Users can control settings (e.g., Timeline, Android location toggles), but data retention varies by service and account preferences.
 
-- **Third-Party & Public Data Integration**: Google supplements user data with publicly available sources (e.g., news articles) and trusted partners (e.g., marketing/security firms) for ads, abuse prevention, and business services, using technologies like cookies and pixel tags for cross-service tracking.
+- **Third-Party & Public Data**: Google aggregates data from public sources (e.g., news articles) and partners (e.g., marketing, security firms) for ads, abuse prevention, and research. Technologies like cookies, pixel tags, and browser storage enable cross-service tracking and personalization.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T17:13:01.281055+05:30
+- Published: 2026-08-05T01:35:28.379839+05:30
 
 ## Related Tags
 

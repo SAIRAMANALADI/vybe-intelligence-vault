@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://python.langchain.com/docs/use_cases/question_answering/
-published_at: '2026-08-04T01:33:59.047115+05:30'
-collected_at: '2026-08-04T01:33:59.047130+05:30'
+published_at: '2026-08-05T01:33:43.504161+05:30'
+collected_at: '2026-08-05T01:33:43.504174+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-with-deep-agent
-first_seen: '2026-08-04T01:33:59.047130+05:30'
-last_seen: '2026-08-04T01:33:59.047130+05:30'
-last_checked: '2026-08-04T01:33:59.047130+05:30'
+first_seen: '2026-08-05T01:33:43.504174+05:30'
+last_seen: '2026-08-05T01:33:43.504174+05:30'
+last_checked: '2026-08-05T01:33:43.504174+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows; primitives include custom retrieval tools, filesystem backends, subagents, skills, and grading rubrics for corpus-specific Q&A.
+- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows; combines custom retrieval tools, filesystem backends, subagents, skills, and grading rubrics for flexible Q&A systems.
 
-- **Indexing Workflow**: Converts documents into retrievable chunks via loading → splitting → embedding (using models like OpenAI embeddings) → storing in a VectorStore (e.g., FAISS, Chroma) for semantic similarity search during query time.
+- **Indexing Workflow**: Loads documents into `Document` objects, splits into chunks via text splitters, embeds chunks using an embeddings model (e.g., OpenAI), and stores chunks + embeddings in a `VectorStore` for efficient semantic retrieval.
 
-- **Agent Architecture**: Main agent retrieves chunks, offloads to filesystem, delegates analysis to subagents for parallel processing; final synthesis uses citations from retrieved evidence to ground responses in source material.
+- **Retrieve-Offload-Delegate Pattern**: Retrieves relevant chunks, writes them to filesystem, and delegates analysis to subagents; subagents process files in parallel, enabling scalable, low-context-orchestrator Q&A with citations to source material.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T01:33:59.047115+05:30
+- Published: 2026-08-05T01:33:43.504161+05:30
 
 ## Related Tags
 

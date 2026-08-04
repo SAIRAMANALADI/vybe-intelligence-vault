@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
-published_at: '2026-08-04T22:47:48.827104+05:30'
-collected_at: '2026-08-04T22:47:48.827115+05:30'
+published_at: '2026-08-05T01:40:07.971830+05:30'
+collected_at: '2026-08-05T01:40:07.971841+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-04T22:47:48.827115+05:30'
-last_seen: '2026-08-04T22:47:48.827115+05:30'
-last_checked: '2026-08-04T22:47:48.827115+05:30'
+first_seen: '2026-08-05T01:40:07.971841+05:30'
+last_seen: '2026-08-05T01:40:07.971841+05:30'
+last_checked: '2026-08-05T01:40:07.971841+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Sources**: Medium collects user-provided data (e.g., name, email, posts) and automatically gathers activity, device, and usage data (IP, OS, cookies, analytics) via tracking technologies. Third-party sources (social networks, payment processors) and derived inferences (e.g., location, preferences) are also utilized.
+- **Data Collection Scope**: Medium collects user-provided data (e.g., name, email, content, bio) and automatically gathers activity, device, and usage data (IP addresses, device IDs, cookies, and tracking technologies) to personalize content, operate paywalls, and improve services.
 
-- **Data Sharing & Disclosures**: Personal data is shared with vendors (analytics, hosting), other users (visible content/activity), and under legal obligations (e.g., law enforcement requests). Aggregated/de-identified data is shared broadly, while embedded third-party content (e.g., YouTube) transmits user interactions to external parties.
+- **Third-Party Sharing & Embeds**: Personal data is shared with vendors, service providers, and affiliates for analytics, fraud prevention, and infrastructure, while third-party embeds (e.g., YouTube videos) transmit user interactions to external hosts, governed by their policies.
 
-- **User Rights & Transfers**: Users can access, correct, or delete account data; opt out of communications; or disable cookies. Data is transferred/stored globally (e.g., AWS data centers), with steps taken to ensure adequate protection despite varying jurisdiction standards.
+- **Cross-Border Data Transfers & User Rights**: Data is transferred to U.S.-based servers (e.g., AWS) with safeguards for adequacy; users can access, correct, or delete account data, opt out of communications, and manage cookie preferences, though deletions may retain legally required data.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T22:47:48.827104+05:30
+- Published: 2026-08-05T01:40:07.971830+05:30
 
 ## Related Tags
 

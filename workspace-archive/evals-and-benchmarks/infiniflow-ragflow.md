@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAGFlow**: Open-source RAG engine integrating advanced RAG with Agent capabilities to enhance LLM context layers.
-- **Technical Stack**: Implemented in Go, supporting agentic AI, context management, and retrieval-augmented generation (RAG).
-- **Metrics**: 86,807 stars, 10,188 forks, last updated 2026-08-04.
+- **RAGFlow**: Open-source Retrieval-Augmented Generation (RAG) engine integrating advanced RAG with Agent capabilities to enhance LLM context layers.
+- **Technical Stack**: Implemented in Go, supports agent-harness, context-engineering, and knowledge-compilation for LLM applications.
+- **Metrics**: 86,813+ stars, 10,191+ forks; last updated 2026-08-04; focuses on RAG, agentic AI, and context management.
 
 ## Use Cases
 

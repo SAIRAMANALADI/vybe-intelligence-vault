@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- Haystack provides **23+ tutorials** covering beginner to advanced topics, including evaluation, RAG pipelines, agent systems, and multimodal retrieval.
-- Key advanced features include **multi-agent systems**, **KV cache compression (TurboQuant)**, and **structured output generation** with OpenAI models.
-- Tutorials cover **metadata filtering**, **hybrid retrieval**, **query classification**, and **pipeline serialization** for modular AI workflows.
+- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines, covering statistical and model-based evaluation metrics for RAG systems.
+
+- **Multimodal RAG Pipeline**: Demonstrates building a vision+text RAG pipeline using Haystack to answer queries grounded in both image and text data.
+
+- **KV Cache Compression**: Details TurboQuant-based KV cache compression for running large LLMs on consumer GPUs with significant memory reduction (25 min tutorial).
 
 ## Use Cases
 

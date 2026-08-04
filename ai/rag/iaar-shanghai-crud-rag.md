@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-04T22:38:02.813271+05:30'
+collected_at: '2026-08-05T01:30:23.990523+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 402
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-04T22:38:02.813271+05:30'
-last_seen: '2026-08-04T22:38:02.813271+05:30'
-last_checked: '2026-08-04T22:38:02.813271+05:30'
+first_seen: '2026-08-05T01:30:23.990523+05:30'
+last_seen: '2026-08-05T01:30:23.990523+05:30'
+last_checked: '2026-08-05T01:30:23.990523+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Overview**: CRUD-RAG is a Chinese-focused benchmark designed to evaluate Retrieval-Augmented Generation (RAG) capabilities of large language models (LLMs) with a focus on **Create, Read, Update, Delete (CRUD)** operations.
-- **Dataset & Tasks**: Includes structured tasks for assessing LLMs' performance in Chinese text retrieval, generation, and dynamic updates (CRUD workflows) with standardized evaluation metrics.
-- **Technical Implementation**: Provides a Python-based framework for benchmarking RAG systems, supporting reproducibility and extensibility for further research in multilingual RAG models.
+- **Benchmark Design**: CRUD-RAG introduces a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on Large Language Models (LLMs) with metrics for **C**reate, **R**etrieve, **U**pdate, and **D**elete operations in multi-turn dialogues.
+
+- **Evaluation Framework**: The benchmark assesses RAG performance across **retrieval accuracy**, **generation quality**, and **contextual coherence** using Chinese-language datasets with controlled noise and adversarial conditions.
+
+- **Open-Source Implementation**: Provides a Python-based toolkit with standardized APIs for benchmarking, including pre-trained models, evaluation scripts, and dataset loaders to ensure reproducibility and extensibility.
 
 ## Why It Matters
 

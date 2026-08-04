@@ -8,10 +8,9 @@ local_vault_path: ai/rag/cohere-rerank-say-goodbye-to-irrelevant-search-res.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
-- dataset
 - hackernews
 - producthunt
 - rag
@@ -27,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Cohere's embedding models** leverage transformer architectures with optimized tokenization for high-dimensional vector representations, enabling efficient semantic search and retrieval in large-scale datasets.
+- **Cohere's blog platform aggregates technical content on AI/ML, embeddings, and search systems**, authored by experts in embeddings/search (Nils Reimers), ML engineering (Sylvie Shi, Lucas Fayoux), and product management (Elliott Choi).
 
-- **Multilingual embeddings** support 100+ languages via language-agnostic training, ensuring cross-lingual consistency in vector space alignment for downstream NLP tasks.
+- **Focus areas include advanced embedding techniques, retrieval-augmented generation (RAG), and scalable search architectures**, with posts detailing performance optimizations, model architectures, and deployment strategies.
 
-- **Fine-tunable embeddings** allow domain-specific adaptation through contrastive learning, improving performan
+- **Content targets technical aud
 
 ## Use Cases
 

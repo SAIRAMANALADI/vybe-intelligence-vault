@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/faiss
-collected_at: '2026-08-04T22:41:18.008554+05:30'
-published_at: '2026-08-04T17:06:42Z'
+collected_at: '2026-08-05T01:33:39.152769+05:30'
+published_at: '2026-08-04T18:08:27Z'
 tags:
+- benchmark
 - c++
 - dataset
 - github-repo
@@ -18,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2017-02-07T16:07:05Z'
-pushed_at: '2026-08-03T17:57:31Z'
+pushed_at: '2026-08-04T18:06:05Z'
 resource_id: github:facebookresearch/faiss
-first_seen: '2026-08-04T22:41:18.008554+05:30'
-last_seen: '2026-08-04T22:41:18.008554+05:30'
-last_checked: '2026-08-04T22:41:18.008554+05:30'
+first_seen: '2026-08-05T01:33:39.152769+05:30'
+last_seen: '2026-08-05T01:33:39.152769+05:30'
+last_checked: '2026-08-05T01:33:39.152769+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: FAISS (Facebook AI Similarity Search) is a C++ library optimized for efficient similarity search and clustering of dense vectors, leveraging approximate nearest neighbor (ANN) techniques to handle large-scale datasets.
-- **Key Features**: Supports exact and approximate nearest neighbor search, GPU acceleration, and hierarchical clustering (e.g., IVF, PQ, HNSW) for scalable vector indexing and retrieval.
-- **Performance**: Designed for high-dimensional vector spaces with optimizations for memory efficiency and low-latency queries, widely used in recommendation systems and semantic search.
+- **Purpose**: FAISS (Facebook AI Similarity Search) is a C++ library optimized for efficient similarity search and clustering of dense vectors, leveraging advanced indexing techniques (e.g., IVF, PQ, HNSW) to handle large-scale vector datasets.
+- **Key Features**: Supports exact and approximate nearest neighbor search, GPU acceleration (via CUDA), and modular design for custom index configurations (e.g., `IndexFlat`, `IndexIVFPQ`).
+- **Performance**: Achieves sub-linear search time complexity for high-dimensional vectors, with benchmarks demonstrating scalability to billions of vectors on standard hardware.
 
 ## Why It Matters
 
@@ -45,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 4478
 - Language: C++
 - Topics: None
-- Last Updated: 2026-08-04T17:06:42Z
+- Last Updated: 2026-08-04T18:08:27Z
 - License: MIT
 - Archived: No
 - Created At: 2017-02-07T16:07:05Z
-- Pushed At: 2026-08-03T17:57:31Z
+- Pushed At: 2026-08-04T18:06:05Z
 
 ## Possible Use Cases
 

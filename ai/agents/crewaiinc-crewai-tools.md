@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI-tools
-collected_at: '2026-08-04T22:40:58.026320+05:30'
-published_at: '2026-08-01T16:36:55Z'
+collected_at: '2026-08-05T01:33:19.120995+05:30'
+published_at: '2026-08-04T19:13:56Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-- scripts
-- workflows
-stars: 1461
+stars: 1462
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: true
 created_at: '2024-01-11T17:29:13Z'
 pushed_at: '2025-10-23T18:08:34Z'
 resource_id: github:crewaiinc/crewai-tools
-first_seen: '2026-08-04T22:40:58.026320+05:30'
-last_seen: '2026-08-04T22:40:58.026320+05:30'
-last_checked: '2026-08-04T22:40:58.026320+05:30'
+first_seen: '2026-08-05T01:33:19.120995+05:30'
+last_seen: '2026-08-05T01:33:19.120995+05:30'
+last_checked: '2026-08-05T01:33:19.120995+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends CrewAI agent capabilities via modular Python tools for AI-driven workflows.
-- **Key Features**: Provides pre-built tools for agent interactions, task automation, and integration with external APIs/services.
-- **Compatibility**: Designed for CrewAI framework, supporting Python-based agent orchestration and toolchain management.
+- **Purpose**: Extends CrewAI agent capabilities by providing modular tools for enhanced functionality.
+- **Technical Stack**: Python-based repository with 1,462 stars and 546 forks, last updated on 2026-08-04.
+- **Integration**: Designed for AI agent frameworks, specifically CrewAI, to enable custom tool integration.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 1461
+- Stars: 1462
 - Forks: 546
 - Language: Python
 - Topics: ai, aiagents, crewai, crewai-tools
-- Last Updated: 2026-08-01T16:36:55Z
+- Last Updated: 2026-08-04T19:13:56Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-01-11T17:29:13Z

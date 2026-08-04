@@ -8,19 +8,24 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `93` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Score**: `91` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
@@ -33,9 +38,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [zilliztech/milvus_cli](https://github.com/zilliztech/milvus_cli)
@@ -43,30 +48,25 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`zilliztech-milvus-cli.md`](../../ai/rag/zilliztech-milvus-cli.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [Hugging Face · GitHub](https://github.com/huggingface)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`hugging-face-github.md`](../../ai/agents/hugging-face-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](https://aidailypost.com/news/7-top-github-repos-offering-tutorials-code-master-rag-system)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `88` | **Path**: [`top-7-github-repos-to-master-retrieval-augmented-g.md`](../../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `88` | **Path**: [`arxiv-2407-18245.md`](../../ai/research/arxiv-2407-18245.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [mongodb · GitHub](https://github.com/mongodb)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`mongodb-github.md`](../../ai/rag/mongodb-github.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-04 22:54 IST*
+*Last updated: 2026-08-05 01:47 IST*

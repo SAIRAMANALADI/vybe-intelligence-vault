@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Security Framework**: Combines deterministic security controls with dynamic, reasoning-based defenses for AI agents, emphasizing defense-in-depth.
+- **Hybrid Security Framework**: Proposes a defense-in-depth strategy combining deterministic security controls with dynamic, reasoning-based defenses for AI agents.
 
-- **Core Principles**: AI agents require well-defined human controllers, strictly limited capabilities, and observable actions/planning to ensure security.
+- **Core Principles for Secure AI Agents**: Agents must have defined human controllers, limited powers, and observable actions/planning to ensure security and usability.
 
-- **Aspirational Goals**: Framework aims to make AI agents powerful, useful, and secure by default, reflecting Google's current research direction.
+- **Google's Aspirational Framework**: Outlines current approach to secure AI systems, emphasizing power, utility, and default security through structured governa
 
 ## Use Cases
 

@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-08-02T16:32:05.650474+05:30'
-collected_at: '2026-08-02T16:32:05.650486+05:30'
+published_at: '2026-08-05T01:38:42.637307+05:30'
+collected_at: '2026-08-05T01:38:42.637315+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-08-02T16:32:05.650486+05:30'
-last_seen: '2026-08-02T16:32:05.650486+05:30'
-last_checked: '2026-08-02T16:32:05.650486+05:30'
+first_seen: '2026-08-05T01:38:42.637315+05:30'
+last_seen: '2026-08-05T01:38:42.637315+05:30'
+last_checked: '2026-08-05T01:38:42.637315+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Python 3.14.6** is the latest stable release, with documentation structured into sections covering "What's New," tutorials, library references, language specifications, and setup guides.
+- **Python 3.14.6** is the latest stable release, with documentation available at [`docs.python.org/3.14/`](https://docs.python.org/3.14/), including new features, tutorials, and language references.
 
-- **Deprecated versions** (e.g., Python 3.9–2.6) are archived under EOL status, while **actively maintained versions** (3.10–3.14) receive security updates.
+- **Legacy versions** (e.g., 3.12, 3.11, 3.10) are in security-fix mode, while versions 3.9 and below are marked **EOL (End of Life)** with no further updates.
 
-- **Documentation resources** include PEP Index, packaging guides, static typing docs, and Sphinx-generated content with version-specific navigation (e.g., 3.16 in development).
+- **Documentation structure** includes: *Library/language references*, *C API docs*, *PEP index*, *packaging guides*, and *static typing resources* (e.g., [`typing.python.org`](https://typing.python.org)).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T16:32:05.650474+05:30
+- Published: 2026-08-05T01:38:42.637307+05:30
 
 ## Related Tags
 

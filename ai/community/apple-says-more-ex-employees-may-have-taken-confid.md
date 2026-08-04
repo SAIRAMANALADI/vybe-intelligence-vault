@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai
 hn_url: https://news.ycombinator.com/item?id=49170479
-score: 73
+score: 228
 author: thewebguyd
-comments_count: 45
+comments_count: 172
 published_at: '2026-08-04T21:07:42+05:30'
-collected_at: '2026-08-04T22:35:54.625125+05:30'
+collected_at: '2026-08-05T01:28:08.912934+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:apple-says-more-ex-employees-may-have-taken-confid
 first_seen: '2026-08-04T22:35:54.625125+05:30'
-last_seen: '2026-08-04T22:35:54.625125+05:30'
-last_checked: '2026-08-04T22:35:54.625125+05:30'
+last_seen: '2026-08-05T01:28:08.912934+05:30'
+last_checked: '2026-08-05T01:28:08.912934+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by thewebguyd. Score: 73, Comments: 45.
+Hacker News story by thewebguyd. Score: 228, Comments: 172.
 Original Link: https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: thewebguyd
-- Score: 73 Upvotes
-- Comments: 45 Discussions
+- Score: 228 Upvotes
+- Comments: 172 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49170479
 - Original Article: https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai
 

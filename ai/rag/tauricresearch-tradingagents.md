@@ -4,17 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-08-04T20:15:44.656895+05:30'
-published_at: '2026-08-04T14:34:56Z'
+collected_at: '2026-08-05T01:32:54.064967+05:30'
+published_at: '2026-08-04T19:47:29Z'
 tags:
 - agents
-- anthropic
 - github-repo
-- hackernews
-- openai
 - python
 - rag
-stars: 95569
+stars: 95587
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +19,9 @@ archived: false
 created_at: '2024-12-28T03:31:08Z'
 pushed_at: '2026-07-18T15:55:05Z'
 resource_id: github:tauricresearch/tradingagents
-first_seen: '2026-08-04T20:15:44.656895+05:30'
-last_seen: '2026-08-04T20:15:44.656895+05:30'
-last_checked: '2026-08-04T20:15:44.656895+05:30'
+first_seen: '2026-08-05T01:32:54.064967+05:30'
+last_seen: '2026-08-05T01:32:54.064967+05:30'
+last_checked: '2026-08-05T01:32:54.064967+05:30'
 health_score: 100
 ---
 
@@ -32,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based multi-agent LLM framework (`TradingAgents`) designed for financial trading, leveraging large language models (LLMs) to simulate and optimize trading strategies via autonomous agents.
-
-- **Key Components**: Implements a modular architecture with specialized agents (e.g., market analysts, risk managers, execution traders) that collaborate via structured communication protocols to simulate real-world trading environments.
-
-- **Technical Stack & Features**: Built on Python with integrations for financial data APIs, backtesting tools, and LLM APIs (e.g., OpenAI, Anthropic); supports custom agent training, multi-agent coordination, and real-time market interaction.
+- **Framework**: Multi-agent LLM-based system for financial trading, leveraging Python for modular agent interactions.
+- **Architecture**: Integrates specialized agents (e.g., market analysts, risk managers) with LLM-driven decision-making for adaptive trading strategies.
+- **Scalability**: Supports parallel agent execution, backtesting, and real-time market data integration via APIs (e.g., Yahoo Finance, Binance).
 
 ## Why It Matters
 
@@ -45,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TauricResearch
-- Stars: 95569
-- Forks: 18479
+- Stars: 95587
+- Forks: 18490
 - Language: Python
 - Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-08-04T14:34:56Z
+- Last Updated: 2026-08-04T19:47:29Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-28T03:31:08Z

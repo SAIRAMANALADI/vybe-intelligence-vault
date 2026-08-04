@@ -3,7 +3,7 @@ title: flash-attention/hopper at main · Dao-AILab/flash-attention · GitHub
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://github.com/Dao-AILab/flash-attention/tree/main/hopper
-resource_id: github:dao-ailab/flash-attention
+resource_id: github:dao-ailab/flash-attention-28b8bcd4
 local_vault_path: ai/rag/dao-ailab-flash-attention.md
 quality_score: 70
 archive_score: 77

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-04T22:37:32.846936+05:30'
+collected_at: '2026-08-05T01:29:53.918736+05:30'
 published_at: '2026-08-03T13:16:53Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 157
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-04T22:37:32.846936+05:30'
-last_seen: '2026-08-04T22:37:32.846936+05:30'
-last_checked: '2026-08-04T22:37:32.846936+05:30'
+first_seen: '2026-08-05T01:29:53.918736+05:30'
+last_seen: '2026-08-05T01:29:53.918736+05:30'
+last_checked: '2026-08-05T01:29:53.918736+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Streamlit application demonstrating Retrieval Augmented Generation (RAG) implemented with LangChain.
-*   Utilizes a vectorstore for efficient document indexing and semantic retrieval.
-*   Incorporates hybrid search mechanisms to optimize retrieval performance.
+- Implements a **Streamlit-based RAG pipeline** using **LangChain** for document retrieval and generation, integrating a **vector store** (likely FAISS or similar) for semantic search.
+- Supports **hybrid search** (combining dense vector retrieval with sparse keyword-based retrieval) for improved document relevance.
+- Demonstrates end-to-end workflow: **document ingestion → embedding → retrieval → LLM generation**, with a user interface for querying and result visualization.
 
 ## Why It Matters
 

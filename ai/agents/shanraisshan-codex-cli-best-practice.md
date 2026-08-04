@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-04T22:39:17.859044+05:30'
+collected_at: '2026-08-05T01:31:38.962011+05:30'
 published_at: '2026-08-04T12:21:57Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - scripts
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-04T22:39:17.859044+05:30'
-last_seen: '2026-08-04T22:39:17.859044+05:30'
-last_checked: '2026-08-04T22:39:17.859044+05:30'
+first_seen: '2026-08-05T01:31:38.962011+05:30'
+last_seen: '2026-08-05T01:31:38.962011+05:30'
+last_checked: '2026-08-05T01:31:38.962011+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing automation and multi-agent collaboration for complex coding tasks.
+- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular agentic workflows, hooks, and skills for AI-driven development.
 
-- **CLI-Centric Best Practices**: Provides a curated set of Codex CLI commands, hooks, and skills (e.g., `codex-hooks`, `context-engineering`) to optimize AI-driven development workflows, including context management and skill chaining.
+- **Codex CLI Best Practices**: Documents optimized Codex CLI commands, context engineering techniques, and agentic patterns to enhance productivity, reproducibility, and scalability in AI-assisted coding workflows.
 
-- **Open-Source Contribution Framework**: Serves as a Pakistani-led open-source project (`pakistani-developer` tag) with 954 stars and 64 forks, offering a scalable template for AI agent orchestration in Python-based environments.
+- **Open-Source Contributions**: Open-source Python-based project with community-driven practices, including CLI agent templates, hooks for automation, and Pakistan-focused developer resources for AI engineering adoption.
 
 ## Why It Matters
 

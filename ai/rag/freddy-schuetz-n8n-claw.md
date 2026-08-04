@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-04T22:40:07.884067+05:30'
+collected_at: '2026-08-05T01:32:29.053108+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-04T22:40:07.884067+05:30'
-last_seen: '2026-08-04T22:40:07.884067+05:30'
-last_checked: '2026-08-04T22:40:07.884067+05:30'
+first_seen: '2026-08-05T01:32:29.053108+05:30'
+last_seen: '2026-08-05T01:32:29.053108+05:30'
+last_checked: '2026-08-05T01:32:29.053108+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 - **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
 
-- **Multi-agent architecture** with **Expert Agents** delegating tasks to sub-agents via **MCP templates**, supporting **proactive task management** and **media understanding** (e.g., text, images).
+- **Modular architecture** with **MCP templates for Skills**, **Expert Agents** for hierarchical task delegation, and **proactive task management** via self-hosted workflows.
 
-- **Self-hosted deployment** via a single setup script, integrating **Crawl4AI** for scraping, **SearXNG** for search, and **Supabase** for storage, with **Shell** as the primary language.
+- **Multi-tool integration** including **Crawl4AI** for web scraping, **SearXNG** for search, and **Supabase** for persistent storage, deployable via a **single setup script**.
 
 ## Why It Matters
 

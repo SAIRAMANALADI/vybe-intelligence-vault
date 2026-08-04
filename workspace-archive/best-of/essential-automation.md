@@ -23,14 +23,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`firecrawl-firecrawl-mcp-server.md`](../../ai/resources/firecrawl-firecrawl-mcp-server.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
-- **Category**: `ai/agents` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`greensock-gsap-skills.md`](../../ai/agents/greensock-gsap-skills.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+### [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`nousresearch-hermes-agent.md`](../../ai/agents/nousresearch-hermes-agent.md)
+- **Score**: `87` | **Path**: [`nangeplus-crewaitest.md`](../../ai/agents/nangeplus-crewaitest.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [OpenAI · GitHub](https://github.com/openai)
@@ -48,11 +43,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
@@ -63,9 +53,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`explosion-spacy.md`](../../ai/rag/explosion-spacy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llmware-ai-llmware.md`](../../ai/rag/llmware-ai-llmware.md)
+- **Score**: `87` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [cli/cli](https://github.com/cli/cli)
+- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`scotthavird-crewai-template.md`](../../ai/rag/scotthavird-crewai-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-04 22:54 IST*
+*Last updated: 2026-08-05 01:47 IST*

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-04T22:39:22.838885+05:30'
+collected_at: '2026-08-05T01:31:43.968491+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-04T22:39:22.838885+05:30'
-last_seen: '2026-08-04T22:39:22.838885+05:30'
-last_checked: '2026-08-04T22:39:22.838885+05:30'
+first_seen: '2026-08-05T01:31:43.968491+05:30'
+last_seen: '2026-08-05T01:31:43.968491+05:30'
+last_checked: '2026-08-05T01:31:43.968491+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Coding Standards Repository**: Hosts standardized best practices for 15+ programming languages and frameworks (e.g., TypeScript, React, NestJS, Spring Boot, Flutter, Kotlin) to guide AI agents in adhering to industry-standard coding conventions.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks and programming languages (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, React, Spring Boot).
 
-- **Multi-Platform Support**: Covers mobile (Android, iOS), web (React, Next.js, Angular), backend (Golang, Laravel, NestJS), and cross-platform (Flutter) development, ensuring broad applicability across ecosystems.
+- **Purpose & Scope**: Designed to guide AI agents in adhering to industry-standard coding practices across diverse tech stacks, including frontend (React, Angular), backend (NestJS, Spring Boot), and mobile (Android, iOS, Flutter).
 
-- **Active Maintenance & Community Engagement**: Last updated in July 2026 with 536 stars and 155 forks, indicating active community involvement and continuous updates to reflect evolving best practices.
+- **Metadata**: 536 stars, 155 forks; last updated on 2026-07-30; includes `cursor-rules` for AI-assisted development and supports tools like Next.js, React Native, and Kotlin.
 
 ## Why It Matters
 
