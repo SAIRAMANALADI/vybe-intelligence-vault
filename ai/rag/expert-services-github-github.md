@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://services.github.com
-published_at: '2026-08-02T21:52:53.564640+05:30'
-collected_at: '2026-08-02T21:52:53.564655+05:30'
+published_at: '2026-08-04T20:19:10.143503+05:30'
+collected_at: '2026-08-04T20:19:10.143521+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:expert-services-github-github
-first_seen: '2026-08-02T21:52:53.564655+05:30'
-last_seen: '2026-08-02T21:52:53.564655+05:30'
-last_checked: '2026-08-02T21:52:53.564655+05:30'
+first_seen: '2026-08-04T20:19:10.143521+05:30'
+last_seen: '2026-08-04T20:19:10.143521+05:30'
+last_checked: '2026-08-04T20:19:10.143521+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Customized GitHub Training & Consulting**: Offers tailored hands-on consulting, workshops, and training (e.g., GitHub Actions, Admin, API, Copilot) to optimize workflows, CI/CD pipelines, and enterprise adoption across GitHub Enterprise Cloud/Server.
+- **Tailored GitHub Services**: GitHub Expert Services offers custom consulting, workshops, and training for organizations to adopt GitHub efficiently, including DevSecOps, Innersource, and GitHub Administration, with hands-on guidance from Delivery Engineers.
 
-- **Advanced Security & Automation Services**: Provides specialized services for GitHub Advanced Security (GHAS) adoption, including CodeQL query development/customization, secret protection, supply chain security, and automation-driven process improvements.
+- **Specialized Training & Migrations**: Provides targeted training (e.g., GitHub Actions, CodeQL, Copilot) and migration services (e.g., CI/CD pipelines, VCS to GitHub Enterprise) to optimize workflows and security practices.
 
-- **Migration & Strategic Implementation**: Delivers structured migration services (e.g., VCS to GitHub, EMU transitions) and strategic implementations (e.g., DevSecOps, InnerSource) with expert-led assessments and long-term scalability planning.
+- **Advanced Security & AI Integration**: Delivers specialized services for GitHub Advanced Security (GHAS) adoption, CodeQL query development, and GitHub Copilot implementation, including strategic planning and impact measurement.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T21:52:53.564640+05:30
+- Published: 2026-08-04T20:19:10.143503+05:30
 
 ## Related Tags
 

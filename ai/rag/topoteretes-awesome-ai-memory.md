@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-08-04T17:07:46.035475+05:30'
+collected_at: '2026-08-04T20:13:04.574176+05:30'
 published_at: '2026-08-04T11:06:28Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-08-04T17:07:46.035475+05:30'
-last_seen: '2026-08-04T17:07:46.035475+05:30'
-last_checked: '2026-08-04T17:07:46.035475+05:30'
+first_seen: '2026-08-04T20:13:04.574176+05:30'
+last_seen: '2026-08-04T20:13:04.574176+05:30'
+last_checked: '2026-08-04T20:13:04.574176+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including long-term memory, context retention, and memory-augmented architectures.
-- **Python-centric ecosystem**: Majority of listed projects are implemented in Python, leveraging libraries like `transformers`, `langchain`, and `faiss` for memory storage, retrieval, and agent-based applications.
-- **Covers RAG and agentic workflows**: Includes projects on Retrieval-Augmented Generation (RAG), memory-augmented neural networks, and agent-based systems for dynamic memory management in AI applications.
+- **Curated List**: Repository aggregates open-source and research projects focused on AI memory systems, including long-term memory, working memory, and memory-augmented architectures.
+- **Technical Scope**: Covers topics such as Retrieval-Augmented Generation (RAG), memory management in AI agents, and persistent storage mechanisms for contextual retention.
+- **Python-Centric**: Primarily features Python-based implementations, with tools and frameworks for integrating memory into AI pipelines and agentic workflows.
 
 ## Why It Matters
 

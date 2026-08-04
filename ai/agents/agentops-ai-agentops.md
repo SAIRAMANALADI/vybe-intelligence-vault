@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-08-04T17:09:36.127622+05:30'
+collected_at: '2026-08-04T20:14:54.631389+05:30'
 published_at: '2026-08-03T18:19:46Z'
 tags:
 - agents
@@ -16,7 +16,6 @@ tags:
 - models
 - openai
 - python
-- workflows
 stars: 5750
 language: Python
 status: active
@@ -25,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-08-04T17:09:36.127622+05:30'
-last_seen: '2026-08-04T17:09:36.127622+05:30'
-last_checked: '2026-08-04T17:09:36.127622+05:30'
+first_seen: '2026-08-04T20:14:54.631389+05:30'
+last_seen: '2026-08-04T20:14:54.631389+05:30'
+last_checked: '2026-08-04T20:14:54.631389+05:30'
 health_score: 100
 ---
 
@@ -35,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK** for **AI agent monitoring**, **LLM cost tracking**, **benchmarking**, and evaluation metrics, supporting frameworks like **CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI**.
-
-- **Multi-LLM & Agent Framework Integration**: Compatible with **OpenAI, Anthropic, Mistral, Groq, Ollama**, and others, enabling seamless monitoring across diverse agentic workflows.
-
-- **Key Features**: Real-time **cost estimation**, **evals**, and **performance metrics** with last update on **2026-08-03**; actively maintained with **5.75K stars** and **613 forks**.
+- **Python SDK** for **AI agent monitoring**, **LLM cost tracking**, **benchmarking**, and evaluation metrics integration across frameworks like CrewAI, LangChain, Autogen, and OpenAI Agents SDK.
+- Supports **multi-LLM compatibility** (OpenAI, Anthropic, Mistral, Groq, Ollama) and provides **cost estimation** and **evals** for agent performance analysis.
+- **Last updated**: 2026-08-03; **5,750 stars**, **613 forks**; integrates with **AG2, CamelAI**, and other agent frameworks.
 
 ## Why It Matters
 

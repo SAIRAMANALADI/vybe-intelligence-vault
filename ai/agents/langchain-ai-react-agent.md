@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-08-04T14:44:04.290615+05:30'
-published_at: '2026-08-03T03:46:11Z'
+collected_at: '2026-08-04T20:15:34.642193+05:30'
+published_at: '2026-08-04T10:14:52Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
 - workflows
-stars: 806
+stars: 807
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-21T19:57:32Z'
 pushed_at: '2026-07-29T06:22:16Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-08-04T14:44:04.290615+05:30'
-last_seen: '2026-08-04T14:44:04.290615+05:30'
-last_checked: '2026-08-04T14:44:04.290615+05:30'
+first_seen: '2026-08-04T20:15:34.642193+05:30'
+last_seen: '2026-08-04T20:15:34.642193+05:30'
+last_checked: '2026-08-04T20:15:34.642193+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Type**: LangGraph-based Python implementation of a **ReAct (Reasoning and Acting) agent**, integrating reasoning and action execution loops.
-- **Core Components**: Utilizes **LangGraph** for stateful, multi-actor workflows with tools (e.g., APIs, functions) and structured reasoning steps.
-- **Use Case**: Designed for **modular agentic workflows**, enabling dynamic tool usage and decision-making in Python-based LLM applications.
+- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, designed for modular and extensible agent workflows.
+- **Core Components**: Utilizes LangGraph for state management and tool integration, enabling iterative reasoning and action execution cycles.
+- **Dependencies**: Relies on LangChain ecosystem libraries (e.g., `langgraph`, `langchain-core`) for agent orchestration and tool integration.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 806
+- Stars: 807
 - Forks: 697
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-08-03T03:46:11Z
+- Last Updated: 2026-08-04T10:14:52Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-21T19:57:32Z

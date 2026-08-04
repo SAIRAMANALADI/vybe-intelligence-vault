@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-92%2C641-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-156%2C460-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--04-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **92,641 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **156,460 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,392</p>
-        <p><b>Active:</b> 15,927 | <b>Inactive:</b> 465</p>
+        <p><b>Resources tracked:</b> 17,400</p>
+        <p><b>Active:</b> 16,930 | <b>Inactive:</b> 470</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,167</p>
+        <p><b>Archive Files:</b> 65,000</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 92,641 files</p>
-        <p><b>Last Update:</b> 2026-08-04 18:35 IST</p>
+        <p><b>Total Vault Size:</b> 156,460 files</p>
+        <p><b>Last Update:</b> 2026-08-04 20:30 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The Right Choice! - Cornell Law School](ai/resources/the-right-choice-cornell-law-school.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Deed - CC0 1.0 Universal - Creative Commons](ai/resources/deed-cc0-1-0-universal-creative-commons.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Google Cloud Privacy Notice](ai/rag/google-cloud-privacy-notice.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Client Challenge](ai/resources/client-challenge-2.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[Cloud Data Processing Addendum | Google Cloud](ai/rag/cloud-data-processing-addendum-google-cloud.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[LLMs reward expertise](ai/community/llms-reward-expertise.md)** • <kbd>+136 pts</kbd>
+- 🔼 **[There Will Come Soft Rains (1950) [pdf]](ai/community/there-will-come-soft-rains-1950-pdf.md)** • <kbd>+87 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[That time when I failed the Microsoft interview](ai/community/that-time-when-i-failed-the-microsoft-interview.md)** • <kbd>+24 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Export your account data – Medium Help Center](ai/resources/export-your-account-data-medium-help-center.md)** • Rank: <kbd>+49</kbd>
+- 🔼 **[Delete or deactivate your account – Medium Help Center](ai/resources/delete-or-deactivate-your-account-medium-help-cent.md)** • Rank: <kbd>+49</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[AI-Generated Images Discourage Me from Reading Your Blog](ai/community/ai-generated-images-discourage-me-from-reading-you.md)** • Score: `476`
+- 🆕 **[Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)](ai/community/ray-bradbury-s-there-will-come-soft-rains-is-set-t.md)** • Score: `235`
+- 🆕 **[Keyv and friends compromised in active Shai-Hulud supply chain attack](ai/community/keyv-and-friends-compromised-in-active-shai-hulud.md)** • Score: `69`
+- 🆕 **[Homebench – Benchmark local LLMs for speed, memory, and quality](ai/community/david-g-3654-homebench.md)** • Score: `23`
+- 🆕 **[JetBrains AI - The JetBrains Blog](ai/rag/jetbrains-ai-the-jetbrains-blog.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Prevent cognitive debt by manually retyping LLM-generated code](ai/community/prevent-cognitive-debt-by-manually-retyping-llm-ge.md)**
+- 💤 **[Bonsai: Janestreet's UI Library](ai/community/janestreet-bonsai.md)**
+- 💤 **[Windows XP 2002 for the Itanium: Unbridled rage](ai/community/windows-xp-2002-for-the-itanium-unbridled-rage.md)**
+- 💤 **[Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](ai/community/launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud.md)**
+- 💤 **[You don't need React: creating a minimal UI library in Vanilla JavaScript](web-development/community/you-don-t-need-react-creating-a-minimal-ui-library.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

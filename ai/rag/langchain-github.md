@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-04T17:13:17.187277+05:30'
-collected_at: '2026-08-04T17:13:17.187289+05:30'
+published_at: '2026-08-04T20:18:30.499345+05:30'
+collected_at: '2026-08-04T20:18:30.499363+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-04T17:13:17.187289+05:30'
-last_seen: '2026-08-04T17:13:17.187289+05:30'
-last_checked: '2026-08-04T17:13:17.187289+05:30'
+first_seen: '2026-08-04T20:18:30.499363+05:30'
+last_seen: '2026-08-04T20:18:30.499363+05:30'
+last_checked: '2026-08-04T20:18:30.499363+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide modular components and integrations for LLM application development, while LangGraph/LangGraph.js enable graph-based agent construction with stateful workflows.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs for complex workflows.
 
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for complex task execution.
+- **Agent Frameworks**: Deep Agents/Deep Agents.js support planning, subagent delegation, and filesystem interactions for advanced task execution, with commercial monitoring via LangSmith.
 
-- **Commercial & OSS Extensions**: LangSmith offers production-grade LLM application monitoring, while tools like `dcode`, Open SWE, and MCP Adapters provide specialized agent capabilities (e.g., coding, async workflows, and protocol standardization).
+- **Extensions & Protocols**: Open-source tools like `dcode` (terminal coding agent), Open SWE (asynchronous coding agent), and Agent Protocol (standardized agent APIs) enhance interoperability and productivity.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T17:13:17.187277+05:30
+- Published: 2026-08-04T20:18:30.499345+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nicknochnack/Llama2RAG
-collected_at: '2026-08-04T17:07:25.975175+05:30'
+collected_at: '2026-08-04T20:12:44.474589+05:30'
 published_at: '2026-05-24T09:34:54Z'
 tags:
 - github-repo
@@ -13,7 +13,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 370
 language: Jupyter Notebook
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-08-18T00:18:33Z'
 pushed_at: '2023-08-18T00:23:09Z'
 resource_id: github:nicknochnack/llama2rag
-first_seen: '2026-08-04T17:07:25.975175+05:30'
-last_seen: '2026-08-04T17:07:25.975175+05:30'
-last_checked: '2026-08-04T17:07:25.975175+05:30'
+first_seen: '2026-08-04T20:12:44.474589+05:30'
+last_seen: '2026-08-04T20:12:44.474589+05:30'
+last_checked: '2026-08-04T20:12:44.474589+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model integrated with LlamaIndex for document retrieval and generation workflows.
-- **Environment**: Developed in a Jupyter Notebook, leveraging Python-based libraries for LLM interaction and vectorized data processing.
-- **Updates**: Last modified on **2026-05-24**, with 370 stars and 112 forks, indicating active community engagement.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model and LlamaIndex for document retrieval and context augmentation.
+- **Environment**: Developed in a Jupyter Notebook, leveraging Python-based libraries for LLM integration and vectorized document processing.
+- **Scalability**: Optimized for large-scale inference with Llama 2 70B, requiring significant GPU resources (e.g., multi-GPU setups or cloud-based A100/H100 instances).
 
 ## Why It Matters
 

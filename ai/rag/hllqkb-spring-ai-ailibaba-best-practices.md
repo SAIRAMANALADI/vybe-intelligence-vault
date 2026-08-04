@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-04T17:07:35.970156+05:30'
+collected_at: '2026-08-04T20:12:54.449154+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
+- reddit
 - workflows
 stars: 36
 language: Java
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-04T17:07:35.970156+05:30'
-last_seen: '2026-08-04T17:07:35.970156+05:30'
-last_checked: '2026-08-04T17:07:35.970156+05:30'
+first_seen: '2026-08-04T20:12:54.449154+05:30'
+last_seen: '2026-08-04T20:12:54.449154+05:30'
+last_checked: '2026-08-04T20:12:54.449154+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implements multiple AI integration patterns** including SSE streaming, Agent-based workflows, Knowledge Graph RAG, Function Calling, and historical message handling in a Java-based Spring AI architecture.
+- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based question-answering system leveraging **SSE (Server-Sent Events) streaming**, **Agent-based workflows**, and **RAG (Retrieval-Augmented Generation)** with knowledge graphs for enhanced contextual retrieval.
 
-- **Supports multimodal AI processing** with capabilities for image generation, image understanding, and text embeddings using vector databases for efficient retrieval-augmented generation (RAG).
+- **Multi-modal AI Capabilities**: Integrates **function calling**, **historical message handling**, **image generation (e.g., via Stable Diffusion)**, and **image understanding (OCR/VLM)** using embedding models and vector databases (e.g., Milvus, Chroma).
 
-- **Leverages Alibaba Cloud services** for embedding generation, vector storage, and AI agent orchestration, with a modular design for extensibility across Java-based AI applications.
+- **Technical Stack**: Built in **Java** with Spring AI, Alibaba Cloud services, and embedding models (e.g., BAAI/bge-small) for **vector search**, **RAG pipelines**, and **multi-modal AI workflows**.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-04T17:06:56.001121+05:30'
+collected_at: '2026-08-04T20:12:14.447525+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-04T17:06:56.001121+05:30'
-last_seen: '2026-08-04T17:06:56.001121+05:30'
-last_checked: '2026-08-04T17:06:56.001121+05:30'
+first_seen: '2026-08-04T20:12:14.447525+05:30'
+last_seen: '2026-08-04T20:12:14.447525+05:30'
+last_checked: '2026-08-04T20:12:14.447525+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for integrating vector search (LanceDB) with LLMs (e.g., GPT-4-Vision, LangChain, LlamaIndex) for multimodal AI and Retrieval-Augmented Generation (RAG) workflows.
-- **End-to-End Agent Systems**: Demonstrates building AI agents leveraging vector embeddings for dynamic context retrieval, fine-tuning strategies, and multimodal input processing.
-- **Open-Source Toolchain**: Focuses on practical examples using open-source frameworks (e.g., OpenAI, LanceDB) to optimize vector databases for deep learning, embeddings, and large-scale multimodal applications.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems, integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain) for advanced AI applications.
+
+- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient embedding storage, retrieval, and fine-tuning workflows in deep learning and machine learning pipelines.
+
+- **Agent & LLM Integration**: Includes examples of deploying AI agents using OpenAI APIs, embeddings, and vector search for tasks like fine-tuning, multimodal processing, and real-time data augmentation.
 
 ## Why It Matters
 

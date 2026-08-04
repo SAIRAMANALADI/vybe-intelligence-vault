@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-04T17:09:16.092497+05:30'
+collected_at: '2026-08-04T20:14:34.577292+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
+- frontend_ui
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
+- workflows
 stars: 205
 language: Unknown
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-04T17:09:16.092497+05:30'
-last_seen: '2026-08-04T17:09:16.092497+05:30'
-last_checked: '2026-08-04T17:09:16.092497+05:30'
+first_seen: '2026-08-04T20:14:34.577292+05:30'
+last_seen: '2026-08-04T20:14:34.577292+05:30'
+last_checked: '2026-08-04T20:14:34.577292+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced caching, background refetching, and stale-while-revalidate strategies for efficient data synchronization in AI-driven applications.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query, minimizing redundant network requests and optimizing performance.
 
-- **Router Best Practices**: Implements dynamic route matching, lazy-loaded components, and type-safe navigation for scalable frontend architectures in agent-based systems.
+- **TanStack Router Best Practices**: Implements dynamic routing strategies and lazy-loaded route components to enhance navigation efficiency and state management in AI agents, leveraging TanStack Router’s declarative API.
 
-- **Start Framework Optimization**: Leverages server-side rendering (SSR) and hydration techniques to enhance performance and SEO in AI-generated web applications.
+- **TanStack Start for AI Agents**: Utilizes TanStack Start (formerly React Start) to streamline AI agent workflows with optimized server-side rendering (SSR) and static site generation (SSG) for faster initial load times and improved SEO.
 
 ## Why It Matters
 

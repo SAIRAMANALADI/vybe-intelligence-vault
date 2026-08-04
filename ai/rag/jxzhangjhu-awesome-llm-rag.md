@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-04T17:07:41.026877+05:30'
+collected_at: '2026-08-04T20:12:59.545031+05:30'
 published_at: '2026-08-01T13:42:45Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-04T17:07:41.026877+05:30'
-last_seen: '2026-08-04T17:07:41.026877+05:30'
-last_checked: '2026-08-04T17:07:41.026877+05:30'
+first_seen: '2026-08-04T20:12:59.545031+05:30'
+last_seen: '2026-08-04T20:12:59.545031+05:30'
+last_checked: '2026-08-04T20:12:59.545031+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Aggregates advanced techniques, frameworks, and papers on retrieval-augmented generation (RAG) for large language models (LLMs), covering embeddings, retrieval methods, and integration strategies.
+- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating state-of-the-art techniques, papers, and tools for **Retrieval-Augmented Generation (RAG)** in Large Language Models (LLMs), covering retrieval methods, embeddings, and hybrid architectures.
 
-- **Multi-Topic Coverage**: Encompasses core RAG components including embedding models, retrieval mechanisms, and LLM fine-tuning, with a focus on enhancing factual accuracy and contextual relevance in generated outputs.
+- **Technical scope**: Focuses on **advanced RAG methodologies**, including dense/sparse retrieval, fusion strategies, and LLM integration, with emphasis on **embedding optimization**, **retrieval-augmented fine-tuning**, and **multi-modal RAG systems**.
 
-- **Active Maintenance**: Last updated in 2026, indicating ongoing updates and community engagement with the latest advancements in RAG research and applications.
+- **Community metrics**: 1,340 stars, 89 forks, last updated **2026-08-01**; topics include `embeddings`, `llm`, `rag`, and `retrieval-information`, indicating active development and broad relevance to LLM research.
 
 ## Why It Matters
 

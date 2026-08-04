@@ -4,28 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-08-04T14:43:44.283184+05:30'
-published_at: '2026-08-04T09:12:44Z'
+collected_at: '2026-08-04T20:15:14.728221+05:30'
+published_at: '2026-08-04T14:43:24Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- mistral
-- models
 - openai
 - python
 - workflows
-stars: 225147
+stars: 225315
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-08-04T09:13:39Z'
+pushed_at: '2026-08-04T10:14:16Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-08-04T14:43:44.283184+05:30'
-last_seen: '2026-08-04T14:43:44.283184+05:30'
-last_checked: '2026-08-04T14:43:44.283184+05:30'
+first_seen: '2026-08-04T20:15:14.728221+05:30'
+last_seen: '2026-08-04T20:15:14.728221+05:30'
+last_checked: '2026-08-04T20:15:14.728221+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent framework supporting integration with multiple LLMs (e.g., OpenAI, Anthropic, Mistral) and tools (e.g., `claude-code`, `codex`, `moltbot`) for autonomous task execution and code generation.
-
-- **Self-Improving Architecture**: Implements a "grows with you" paradigm, enabling dynamic adaptation through feedback loops, tool augmentation, and iterative refinement of agent capabilities.
-
-- **Tool-Agnostic Design**: Supports modular tool integration (e.g., `ClawDBot`, `OpenClaw`) and extensible workflows, facilitating cross-platform AI agent development and deployment.
+- **Multi-Provider LLM Integration**: Supports seamless interaction with various LLM providers (OpenAI, Anthropic, Nous Research) via standardized APIs, enabling cross-platform agentic workflows.
+- **Dynamic Skill Acquisition**: Implements a modular architecture for real-time skill expansion, allowing the agent to adapt and integrate new tools/functions dynamically without core system modifications.
+- **Stateful Execution Framework**: Utilizes a persistent memory and context system to maintain coherent task execution across sessions, enabling long-term task continuity and incremental learning.
 
 ## Why It Matters
 
@@ -46,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 225147
-- Forks: 43664
+- Stars: 225315
+- Forks: 43726
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-08-04T09:12:44Z
+- Last Updated: 2026-08-04T14:43:24Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-08-04T09:13:39Z
+- Pushed At: 2026-08-04T10:14:16Z
 
 ## Possible Use Cases
 

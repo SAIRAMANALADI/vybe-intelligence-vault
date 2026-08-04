@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-04T17:08:20.993018+05:30'
+collected_at: '2026-08-04T20:13:39.521143+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-04T17:08:20.993018+05:30'
-last_seen: '2026-08-04T17:08:20.993018+05:30'
-last_checked: '2026-08-04T17:08:20.993018+05:30'
+first_seen: '2026-08-04T20:13:39.521143+05:30'
+last_seen: '2026-08-04T20:13:39.521143+05:30'
+last_checked: '2026-08-04T20:13:39.521143+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
+- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework mimicking human memory organization (e.g., episodic/semantic memory) to enhance stateful long-form narrative reasoning.
 
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended interactions, leveraging hierarchical memory organization for efficient state tracking.
+- **Memory-Organized Retrieval**: Implements hierarchical memory structures (short-term/long-term) with adaptive retrieval mechanisms, optimizing context relevance for multi-turn, narrative-driven tasks.
 
-- **AAAI 2026 Contribution**: Proposes a novel RAG variant optimized for long-form narrative reasoning, validated through empirical benchmarks demonstrating superior performance in memory-intensive reasoning tasks.
+- **AAAI 2026 Contribution**: Proposes a novel state-tracking method for coherent, long-context reasoning, validated on synthetic/real-world datasets with significant improvements in narrative consistency and factual recall.
 
 ## Why It Matters
 

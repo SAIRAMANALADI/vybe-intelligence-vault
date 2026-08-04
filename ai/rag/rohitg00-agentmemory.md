@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rohitg00/agentmemory
-collected_at: '2026-08-04T17:09:26.094904+05:30'
-published_at: '2026-08-04T11:35:40Z'
+collected_at: '2026-08-04T20:14:44.583911+05:30'
+published_at: '2026-08-04T14:31:11Z'
 tags:
 - agents
 - anthropic
@@ -13,8 +13,7 @@ tags:
 - github-repo
 - rag
 - typescript
-- workflows
-stars: 26526
+stars: 26534
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-02-25T07:32:52Z'
 pushed_at: '2026-08-03T17:35:41Z'
 resource_id: github:rohitg00/agentmemory
-first_seen: '2026-08-04T17:09:26.094904+05:30'
-last_seen: '2026-08-04T17:09:26.094904+05:30'
-last_checked: '2026-08-04T17:09:26.094904+05:30'
+first_seen: '2026-08-04T20:14:44.583911+05:30'
+last_seen: '2026-08-04T20:14:44.583911+05:30'
+last_checked: '2026-08-04T20:14:44.583911+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Persistent Memory Framework**: Open-source TypeScript library (`agentmemory`) enabling AI coding agents to store, retrieve, and manage long-term context via vector-based memory, optimized for real-world benchmarks.
-
-- **Benchmark-Driven Design**: Evaluated against industry-standard harnesses (e.g., OpenClaw, Hermes) to ensure performance parity with proprietary solutions like GitHub Copilot/Cursor.
-
-- **Agent Integration**: Supports multi-agent workflows (ClaudeCode, Codex) with pluggable backends (SQLite, Postgres) and embeddings (e.g., OpenCLIP) for scalable, stateful AI development.
+- **Persistent Memory System**: Provides long-term, structured memory storage for AI coding agents, optimized for real-world benchmarks and continuous operation.
+- **TypeScript Implementation**: Built in TypeScript for high performance, modularity, and compatibility with modern AI agent frameworks (e.g., Claude, Codex, Copilot).
+- **Benchmark-Driven Design**: Evaluated against real-world use cases, supporting integration with tools like Hermes, OpenClaw, and Cursor for enhanced agent capabilities.
 
 ## Why It Matters
 
@@ -45,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: rohitg00
-- Stars: 26526
-- Forks: 2246
+- Stars: 26534
+- Forks: 2245
 - Language: TypeScript
 - Topics: agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw
-- Last Updated: 2026-08-04T11:35:40Z
+- Last Updated: 2026-08-04T14:31:11Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-25T07:32:52Z

@@ -13,13 +13,14 @@ collected_at: '2026-08-04T17:05:51.319802+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:prevent-cognitive-debt-by-manually-retyping-llm-ge
 first_seen: '2026-08-03T15:36:55.268618+05:30'
 last_seen: '2026-08-04T17:05:51.319802+05:30'
 last_checked: '2026-08-04T17:05:51.319802+05:30'
 health_score: 100
 ---
+
 
 # Prevent cognitive debt by manually retyping LLM-generated code
 

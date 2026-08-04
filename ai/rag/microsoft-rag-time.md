@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-04T17:06:46.001252+05:30'
+collected_at: '2026-08-04T20:12:04.470488+05:30'
 published_at: '2026-08-04T10:12:29Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-04T17:06:46.001252+05:30'
-last_seen: '2026-08-04T17:06:46.001252+05:30'
-last_checked: '2026-08-04T17:06:46.001252+05:30'
+first_seen: '2026-08-04T20:12:04.470488+05:30'
+last_seen: '2026-08-04T20:12:04.470488+05:30'
+last_checked: '2026-08-04T20:12:04.470488+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Time**: A structured 5-week curriculum for mastering Retrieval-Augmented Generation (RAG) systems, covering hybrid search, quantization (binary/scalar), and indexing techniques (HNSW) with hands-on Jupyter Notebooks.
-- **Key Technologies**: Integrates Azure, OpenAI APIs, Matryoshka representation learning, and multimodal RAG pipelines, emphasizing responsible AI practices in generative models.
-- **Tools & Workflow**: Designed for Visual Studio Code, featuring keyword search, vector search, and Azure-based deployment workflows for scalable RAG applications.
+- **Comprehensive RAG Mastery Program**: A structured 5-week learning path covering core RAG concepts, implementation, and optimization, including hybrid search (vector + keyword), quantization techniques (binary/scalar), and HNSW indexing for efficient retrieval.
+
+- **Multimodal & Responsible AI Integration**: Incorporates Matryoshka representation learning for scalable embeddings, multimodal RAG workflows, and Azure/OpenAI tooling with a focus on responsible AI practices (e.g., bias mitigation, transparency).
+
+- **Hands-on Technical Stack**: Implemented in Jupyter Notebooks with Visual Studio Code, leveraging GPT/LLM fine-tuning, vector databases, and Azure services for end-to-end RAG pipeline development and evaluation.
 
 ## Why It Matters
 

@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:you-don-t-need-react-creating-a-minimal-ui-library
 first_seen: '2026-08-04T17:05:50.624776+05:30'
 last_seen: '2026-08-04T17:05:50.624776+05:30'
 last_checked: '2026-08-04T17:05:50.624776+05:30'
 health_score: 100
 ---
+
 
 # You don't need React: creating a minimal UI library in Vanilla JavaScript
 

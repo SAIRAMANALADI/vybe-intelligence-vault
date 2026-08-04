@@ -13,13 +13,14 @@ collected_at: '2026-08-04T17:05:52.854057+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:janestreet/bonsai
 first_seen: '2026-08-03T15:36:54.914197+05:30'
 last_seen: '2026-08-04T17:05:52.854057+05:30'
 last_checked: '2026-08-04T17:05:52.854057+05:30'
 health_score: 100
 ---
+
 
 # Bonsai: Janestreet's UI Library
 

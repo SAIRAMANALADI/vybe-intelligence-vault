@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lgesuellip/langgraph-whatsapp-agent
-collected_at: '2026-08-04T17:10:31.177986+05:30'
+collected_at: '2026-08-04T20:15:49.682945+05:30'
 published_at: '2026-07-28T14:06:38Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-11T15:05:10Z'
 pushed_at: '2025-06-10T19:14:06Z'
 resource_id: github:lgesuellip/langgraph-whatsapp-agent
-first_seen: '2026-08-04T17:10:31.177986+05:30'
-last_seen: '2026-08-04T17:10:31.177986+05:30'
-last_checked: '2026-08-04T17:10:31.177986+05:30'
+first_seen: '2026-08-04T20:15:49.682945+05:30'
+last_seen: '2026-08-04T20:15:49.682945+05:30'
+last_checked: '2026-08-04T20:15:49.682945+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration Framework**: Provides a template for deploying AI agents on WhatsApp using **LangGraph** (graph-based workflows) and **Twilio** (WhatsApp API integration), enabling message/image processing and custom agent invocation.
+- **Framework Integration**: Template for deploying WhatsApp AI agents using **LangGraph** (graph-based workflows) and **Twilio** for WhatsApp API integration, enabling message/image processing and custom agent invocation.
 
-- **MCP & LangGraph Platform Support**: Integrates with **Model Context Protocol (MCP)** for tool/function calling and is designed to run on the **LangGraph Platform**, supporting scalable agent orchestration.
+- **MCP & LangGraph Platform**: Supports **Model Context Protocol (MCP)** for tool integration and runs on the **LangGraph Platform**, facilitating scalable agent deployment.
 
-- **Technical Stack**: Implemented in **Python**, with last update as of **2026-07-28**; repository includes 239 stars and 96 forks.
+- **Technical Stack**: Python-based implementation with real-time updates (last modified **2026-07-28**), 239 stars, and 96 forks.
 
 ## Why It Matters
 

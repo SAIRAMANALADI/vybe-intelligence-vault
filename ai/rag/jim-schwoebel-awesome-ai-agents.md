@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jim-schwoebel/awesome_ai_agents
-collected_at: '2026-08-04T09:10:55.945516+05:30'
+collected_at: '2026-08-04T20:14:39.619255+05:30'
 published_at: '2026-08-03T17:03:58Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - scripts
 - unknown
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-01-03T22:37:37Z'
 pushed_at: '2026-03-28T08:28:51Z'
 resource_id: github:jim-schwoebel/awesome_ai_agents
-first_seen: '2026-08-04T09:10:55.945516+05:30'
-last_seen: '2026-08-04T09:10:55.945516+05:30'
-last_checked: '2026-08-04T09:10:55.945516+05:30'
+first_seen: '2026-08-04T20:14:39.619255+05:30'
+last_seen: '2026-08-04T20:14:39.619255+05:30'
+last_checked: '2026-08-04T20:14:39.619255+05:30'
 health_score: 100
 ---
 
@@ -32,8 +33,10 @@ health_score: 100
 ## Summary
 
 - **Comprehensive AI Agent Resource Hub**: Curated list of 1,500+ tools, frameworks, and resources for AI agents, covering agent-based modeling, multi-agent systems, and agentic workflows.
-- **Multi-Topic Coverage**: Includes AI agent frameworks (e.g., CLI tools), learning resources, and systems for multi-agent collaboration and workflow automation.
-- **Actively Maintained**: Last updated on 2026-08-03, with 1,916 stars and 639 forks, indicating strong community engagement.
+
+- **Multi-Topic Coverage**: Encompasses AI agent frameworks (e.g., CLI tools), learning resources, and multi-agent system architectures, with a focus on practical implementation and workflow automation.
+
+- **Active Maintenance**: Last updated in August 2026, indicating ongoing updates and relevance for researchers and developers in AI agent technologies.
 
 ## Why It Matters
 

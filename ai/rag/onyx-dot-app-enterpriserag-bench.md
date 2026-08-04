@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-04T17:07:56.007355+05:30'
+collected_at: '2026-08-04T20:13:14.575131+05:30'
 published_at: '2026-08-03T02:27:54Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
-- workflows
 stars: 495
 language: Unknown
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-04T17:07:56.007355+05:30'
-last_seen: '2026-08-04T17:07:56.007355+05:30'
-last_checked: '2026-08-04T17:07:56.007355+05:30'
+first_seen: '2026-08-04T20:13:14.575131+05:30'
+last_seen: '2026-08-04T20:13:14.575131+05:30'
+last_checked: '2026-08-04T20:13:14.575131+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary, company-internal documents to assess performance in enterprise contexts.
+- **Dataset & Benchmark**: EnterpriseRAG-Bench provides a curated dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized assessment of LLM performance in enterprise contexts.
 
-- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based Q&A testing tailored for enterprise knowledge bases and information retrieval systems.
+- **Synthetic Data Generation**: The repository includes tools for synthetic data generation, facilitating the creation of diverse, domain-specific QA pairs and retrieval scenarios to stress-test RAG pipelines under realistic enterprise constraints.
 
-- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering large language models (LLMs), retrieval mechanisms, and generative AI workflows for internal document search.
+- **Multi-Modal Evaluation**: Supports comprehensive evaluation across semantic search, information retrieval, and generative AI metrics, with Python-based tooling for automated benchmarking and comparison of RAG architectures.
 
 ## Why It Matters
 

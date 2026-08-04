@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-04T17:11:01.250020+05:30'
-published_at: '2026-08-04T11:15:11Z'
+collected_at: '2026-08-04T20:16:19.688634+05:30'
+published_at: '2026-08-04T13:40:16Z'
 tags:
 - agents
 - github-repo
 - meta-ai
 - models
 - python
-- workflows
-stars: 351
+stars: 352
 language: Python
 status: active
 archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-04T17:11:01.250020+05:30'
-last_seen: '2026-08-04T17:11:01.250020+05:30'
-last_checked: '2026-08-04T17:11:01.250020+05:30'
+first_seen: '2026-08-04T20:16:19.688634+05:30'
+last_seen: '2026-08-04T20:16:19.688634+05:30'
+last_checked: '2026-08-04T20:16:19.688634+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Framework**: Implements a **CrewAI**-based system with **FastAPI** to deploy collaborative AI agents, enabling parallel task execution and inter-agent communication via RESTful API endpoints.
+- **Multi-Agent Framework**: Implements a collaborative multi-agent system using **CrewAI** for orchestration and **FastAPI** for API service provision, enabling distributed task execution.
 
-- **Multi-Model Support**: Integrates **GPT**, **domestic large models**, and **Ollama** (local models) via unified API interfaces, allowing dynamic model switching and inference routing.
+- **Model Agnostic Integration**: Supports **GPT models**, **domestic large models**, and **Ollama local models**, allowing flexible backend LLM selection via unified API endpoints.
 
-- **Scalable API Service**: Exposes agent workflows as **RESTful endpoints**, supporting concurrent requests with **FastAPI**’s async I/O, and includes deployment configurations for local/remote model hosting.
+- **Production-Ready API**: Exposes RESTful endpoints for agent interactions, with last update timestamp indicating active maintenance (2026-08-04).
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NanGePlus
-- Stars: 351
+- Stars: 352
 - Forks: 80
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-04T11:15:11Z
+- Last Updated: 2026-08-04T13:40:16Z
 - Archived: No
 - Created At: 2024-09-11T02:58:44Z
 - Pushed At: 2024-10-20T14:37:28Z

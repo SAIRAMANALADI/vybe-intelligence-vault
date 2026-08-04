@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-*   Details the practical implementation of Retrieval Augmented Generation (RAG) for AI application development.
-*   Covers methodologies for constructing AI applications utilizing RAG architectures.
-*   Presents a comprehensive, contemporary tutorial on RAG techniques, updated for 2025.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, creator monetization, advertising, and developer APIs (YouTube Data API v3, YouTube Analytics API).
+
+- **Technical Infrastructure**: Utilizes a scalable, distributed system for video processing, storage, and delivery (e.g., VP9/HEVC codecs, DASH streaming, CDN-based distribution via Google's global network).
+
+- **AI/ML Integration**: Implements retrieval-augmented genera
 
 ## Use Cases
 

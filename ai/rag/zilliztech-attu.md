@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zilliztech/attu
-collected_at: '2026-08-03T15:44:06.871647+05:30'
-published_at: '2026-08-03T07:16:22Z'
+collected_at: '2026-08-04T20:18:17.876572+05:30'
+published_at: '2026-08-04T12:00:25Z'
 tags:
 - github-repo
 - hackernews
 - rag
+- scripts
 - shell
-stars: 3073
+stars: 3077
 language: Shell
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2021-12-09T09:15:33Z'
 pushed_at: '2026-06-11T06:23:28Z'
 resource_id: github:zilliztech/attu
-first_seen: '2026-08-03T15:44:06.871647+05:30'
-last_seen: '2026-08-03T15:44:06.871647+05:30'
-last_checked: '2026-08-03T15:44:06.871647+05:30'
+first_seen: '2026-08-04T20:18:17.876572+05:30'
+last_seen: '2026-08-04T20:18:17.876572+05:30'
+last_checked: '2026-08-04T20:18:17.876572+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Attu**: A web-based GUI designed for Milvus, a vector database, providing an intuitive interface for managing and querying vector data.
-- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus APIs for core vector database operations.
-- **Features**: Enables visualization, monitoring, and administration of Milvus clusters, including collection management, data insertion, and query execution.
+- **Purpose**: Attu is a graphical user interface (GUI) designed to simplify interactions with Milvus, an open-source vector database, by providing a user-friendly alternative to command-line operations.
+
+- **Technical Stack**: Primarily implemented in Shell, Attu serves as a frontend to enhance Milvus usability, though the repository's primary language is Shell (likely for scripting or automation tasks).
+
+- **Repository Status**: Actively maintained with 3,077 stars and 218 forks as of the last update on August 4, 2026, indicating strong community engagement and adoption.
 
 ## Why It Matters
 
@@ -40,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zilliztech
-- Stars: 3073
+- Stars: 3077
 - Forks: 218
 - Language: Shell
 - Topics: attu, milvus, vector-database
-- Last Updated: 2026-08-03T07:16:22Z
+- Last Updated: 2026-08-04T12:00:25Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2021-12-09T09:15:33Z

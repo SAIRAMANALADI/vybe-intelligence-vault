@@ -4,27 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-04T17:07:40.999700+05:30'
+collected_at: '2026-08-04T20:12:59.481950+05:30'
 published_at: '2026-08-03T17:51:18Z'
 tags:
 - github-repo
-- hackernews
 - openai
 - python
 - rag
-- reddit
-- scripts
+- workflows
 stars: 1171
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-08-04T10:06:39Z'
+pushed_at: '2026-08-04T12:40:05Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-04T17:07:40.999700+05:30'
-last_seen: '2026-08-04T17:07:40.999700+05:30'
-last_checked: '2026-08-04T17:07:40.999700+05:30'
+first_seen: '2026-08-04T20:12:59.481950+05:30'
+last_seen: '2026-08-04T20:12:59.481950+05:30'
+last_checked: '2026-08-04T20:12:59.481950+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using Azure AI Search for retrieval and Azure OpenAI LLMs for generation, enabling ChatGPT-style and Q&A experiences with common enterprise requirements and best practices.
-
-- **Technical Stack**: Built in Python, leveraging Azure AI Search for vector/keyword retrieval, Azure OpenAI for LLM inference, and includes Azure Developer CLI (azd) templates for deployment automation.
-
-- **Deployment & Scalability**: Provides pre-configured infrastructure-as-code templates for rapid Azure deployment, optimized for production-grade scalability and integration with Azure Monitor and security best practices.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure, combining Azure AI Search for retrieval with Azure OpenAI LLMs for chat/Q&A experiences.
+- **Key Components**: Includes Azure AI Search for indexing/retrieval, Azure OpenAI for LLM-powered responses, and AZD templates for deployment.
+- **Features**: Demonstrates best practices for RAG workflows, covering common requirements like data ingestion, retrieval optimization, and prompt engineering.
 
 ## Why It Matters
 
@@ -53,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-08-04T10:06:39Z
+- Pushed At: 2026-08-04T12:40:05Z
 
 ## Possible Use Cases
 

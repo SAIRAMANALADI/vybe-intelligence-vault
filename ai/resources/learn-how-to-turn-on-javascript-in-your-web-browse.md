@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://turnonjs.com/
-published_at: '2026-08-03T01:16:08.400293+05:30'
-collected_at: '2026-08-03T01:16:08.400307+05:30'
+published_at: '2026-08-04T20:22:31.071242+05:30'
+collected_at: '2026-08-04T20:22:31.071258+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:learn-how-to-turn-on-javascript-in-your-web-browse
-first_seen: '2026-08-03T01:16:08.400307+05:30'
-last_seen: '2026-08-03T01:16:08.400307+05:30'
-last_checked: '2026-08-03T01:16:08.400307+05:30'
+first_seen: '2026-08-04T20:22:31.071258+05:30'
+last_seen: '2026-08-04T20:22:31.071258+05:30'
+last_checked: '2026-08-04T20:22:31.071258+05:30'
 health_score: 100
 ---
 
@@ -20,19 +20,14 @@ health_score: 100
 
 ## Summary
 
-- **Browser-specific JavaScript activation**:
-  - **Safari**: Enable via `Safari > Settings > Security > Web Content > Enable JavaScript`.
-  - **Chrome/Brave/Opera/Edge**: Navigate to `chrome://settings/content/javascript` (or equivalent) and toggle "Sites can use JavaScript" to **Allowed**.
-  - **Firefox**: Set `javascript.enabled` to `true` in `about:config` after accepting risk warnings.
+- **JavaScript is a client-side scripting language essential for modern web functionality**, with most contemporary websites requiring it for full usability.
 
-- **Modern browser deprecation**:
-  - Internet Explorer is **retired** (EOL: June 2022) and **disabled** (Feb 2023), redirecting to Edge.
+- **Browser-specific JavaScript activation methods**:
+  - **Safari**: Enable via `Safari > Settings > Security > Enable JavaScript`.
+  - **Chrome/Edge/Brave/Opera**: Navigate to `chrome://settings/content/javascript` (or equivalent) and toggle "Sites can use JavaScript."
+  - **Firefox**: Set `javascript.enabled` to `true` via `about:config`.
 
-- **Developer fallback**:
-  - Embed a script to notify users when JavaScript is disabled:
-    ```html
-    <noscript>JavaScript is disabled. Enable for full functionality.</noscript>
-    ```
+- **Legacy support**: Internet Explorer is deprecated (retired June 2022), with modern alternatives (e.g., Edge) requiring different activation paths.
 
 ## Why It Matters
 
@@ -42,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T01:16:08.400293+05:30
+- Published: 2026-08-04T20:22:31.071242+05:30
 
 ## Related Tags
 

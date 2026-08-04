@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://weaviate.io/blog/verba-open-source-rag-app
-published_at: '2026-08-03T15:44:13.092442+05:30'
-collected_at: '2026-08-03T15:44:13.092456+05:30'
+published_at: '2026-08-04T20:18:41.615721+05:30'
+collected_at: '2026-08-04T20:18:41.615736+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:verba-building-an-open-source-modular-rag-applicat
-first_seen: '2026-08-03T15:44:13.092456+05:30'
-last_seen: '2026-08-03T15:44:13.092456+05:30'
-last_checked: '2026-08-03T15:44:13.092456+05:30'
+first_seen: '2026-08-04T20:18:41.615736+05:30'
+last_seen: '2026-08-04T20:18:41.615736+05:30'
+last_checked: '2026-08-04T20:18:41.615736+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Verba decomposes RAG into five customizable modules—`ReaderManager` (data ingestion), `ChunkerManager` (text splitting), `EmbeddingManager` (vectorization), `RetrieveManager` (retrieval logic), and `GenerationManager` (answer synthesis)—enabling flexible adaptation to diverse use cases.
+- **Modular RAG Pipeline**: Verba implements a modular architecture with five key components—`ReaderManager`, `ChunkerManager`, `EmbeddingManager`, `RetrieveManager`, and `GenerationManager`—each customizable and replaceable, enabling flexible adaptation to diverse use cases and evolving RAG advancements.
 
-- **Source Transparency & CRUD UI**: Implements granular source attribution with highlighted text chunks and direct document access, while providing full CRUD functionality for data management (ingestion, deletion, updates) via an intuitive web interface.
+- **Source-Aware Retrieval & Transparency**: The system provides granular source attribution by displaying highlighted text chunks and full documents used in responses, ensuring traceability and enabling users to verify answer credibility directly within the UI.
 
-- **Hybrid Search & Autocompletion**: Leverages Weaviate’s BM25 + vector search for accurate retrieval, augmented by real-time autocompletion powered by keyword search to guide user queries in the chat interface.
+- **Simplified Data Ingestion & Management**: Offers a web-based interface for drag-and-drop document uploads (supporting formats like PDFs, text, Excel) and CRUD operations, eliminating the need for manual ingestion scripts while maintaining backend modularity for advanced customization.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T15:44:13.092442+05:30
+- Published: 2026-08-04T20:18:41.615721+05:30
 
 ## Related Tags
 

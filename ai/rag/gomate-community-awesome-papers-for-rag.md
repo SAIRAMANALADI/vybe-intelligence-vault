@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-08-04T17:07:51.019888+05:30'
+collected_at: '2026-08-04T20:13:09.516365+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - paper
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-08-04T17:07:51.019888+05:30'
-last_seen: '2026-08-04T17:07:51.019888+05:30'
-last_checked: '2026-08-04T17:07:51.019888+05:30'
+first_seen: '2026-08-04T20:13:09.516365+05:30'
+last_seen: '2026-08-04T20:13:09.516365+05:30'
+last_checked: '2026-08-04T20:13:09.516365+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository (`gomate-community/awesome-papers-for-rag`) lists peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), covering advancements in architecture, efficiency, and applications.
-
-- **Python-Based Repository**: The collection is implemented in Python, ensuring compatibility with popular ML/NLP libraries (e.g., Hugging Face, PyTorch) for reproducibility and integration with RAG pipelines.
-
-- **Last Updated**: Repository was last synchronized on **2026-07-01**, reflecting recent contributions (136 stars, 12 forks) in a rapidly evolving RAG research landscape.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, frameworks, and tools focused on retrieval-augmented generation (RAG) architectures, evaluation metrics, and optimization techniques.
+- **Python-Centric**: All listed resources are Python-based, ensuring compatibility with popular ML/DL libraries (e.g., PyTorch, HuggingFace Transformers) for seamless integration into RAG pipelines.
+- **Actively Maintained**: Last updated July 2026, indicating ongoing curation with recent advancements in RAG methodologies, including hybrid retrieval-generation models and dynamic prompt optimization.
 
 ## Why It Matters
 

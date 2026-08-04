@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-04T17:07:06.026819+05:30'
+collected_at: '2026-08-04T20:12:24.529314+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
-- scripts
-- workflows
 stars: 44
 language: Bicep
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-04T17:07:06.026819+05:30'
-last_seen: '2026-08-04T17:07:06.026819+05:30'
-last_checked: '2026-08-04T17:07:06.026819+05:30'
+first_seen: '2026-08-04T20:12:24.529314+05:30'
+last_seen: '2026-08-04T20:12:24.529314+05:30'
+last_checked: '2026-08-04T20:12:24.529314+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Uses Bicep to deploy a Generative AI Ops (GenAIOps) solution with Retrieval-Augmented Generation (RAG) capabilities on Azure, enabling automated AI workflows.
+- **Purpose**: Provides a Bicep-based infrastructure-as-code (IaC) template for deploying a Generative AI Operations (GenAIOps) solution with Retrieval-Augmented Generation (RAG) capabilities on Azure.
 
-- **Modular Design**: Provides a structured template for deploying Azure resources (e.g., AI services, databases, compute) with configurable parameters for scalability and customization.
+- **Key Components**: Includes modular Bicep files for provisioning Azure resources (e.g., Azure OpenAI, Cognitive Search, Key Vault, and managed identities) required for a scalable RAG pipeline.
 
-- **CI/CD Ready**: Designed for integration with Azure DevOps or GitHub Actions, supporting automated deployment and lifecycle management of GenAIOps pipelines.
+- **Deployment**: Enables automated, repeatable deployments of GenAIOps architectures with configurable parameters for networking, security, and AI service integration.
 
 ## Why It Matters
 

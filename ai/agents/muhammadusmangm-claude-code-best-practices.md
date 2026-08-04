@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-04T17:09:16.112229+05:30'
+collected_at: '2026-08-04T20:14:34.560483+05:30'
 published_at: '2026-08-04T06:02:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
+- scripts
 - shell
 - workflows
 stars: 68
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-04T17:09:16.112229+05:30'
-last_seen: '2026-08-04T17:09:16.112229+05:30'
-last_checked: '2026-08-04T17:09:16.112229+05:30'
+first_seen: '2026-08-04T20:14:34.560483+05:30'
+last_seen: '2026-08-04T20:14:34.560483+05:30'
+last_checked: '2026-08-04T20:14:34.560483+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated best-practices wiki for **Claude Code**, covering setup, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Stack**: Primarily implemented in **Shell**, with integration support for **MCP (Model Context Protocol)** and **LLM (Large Language Model)** workflows.
-- **Maintenance & Community**: Last updated **2026-08-04**, with **68 stars** and **14 forks**, focusing on **agentic AI**, **Anthropic**, and **CLI-based developer tooling**.
+- **Repository Overview**: GitHub repository (`claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tooling**, **LLM integration**, and **MCP (Model Context Protocol)** patterns, with Shell-based automation scripts for deployment and management.
+- **Operational Details**: Last updated **2026-08-04**, with **68 stars** and **14 forks**; serves as a reference for **Anthropic’s Claude Code** ecosystem, emphasizing developer productivity and multi-agent collaboration.
 
 ## Why It Matters
 

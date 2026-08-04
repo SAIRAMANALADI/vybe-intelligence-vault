@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-08-04T14:49:09.121402+05:30'
+collected_at: '2026-08-04T20:23:10.297337+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-08-04T14:49:09.121402+05:30'
-last_seen: '2026-08-04T14:49:09.121402+05:30'
-last_checked: '2026-08-04T14:49:09.121402+05:30'
+first_seen: '2026-08-04T20:23:10.297337+05:30'
+last_seen: '2026-08-04T20:23:10.297337+05:30'
+last_checked: '2026-08-04T20:23:10.297337+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Provider-Agnostic TTS Shim Layer**: Go-based proxy engine (`tts-shims`) that standardizes API interactions for 13 TTS providers (e.g., OpenAI, ElevenLabs, AWS Polly) by routing requests to the Speechify API, enabling unified voice-agent integration.
+- **Multi-provider TTS shim layer**: Go-based proxy engine (`tts-shims`) that standardizes API interactions for 14 TTS providers (OpenAI, ElevenLabs, Cartesia, etc.) by translating provider-specific requests into a unified interface for the Speechify API.
 
-- **BYOC (Bring Your Own Codec) Architecture**: Implements a modular design with one shared Go engine and individual binaries per provider, ensuring compatibility while allowing customization for voice-agent deployments.
+- **BYOC (Bring Your Own Carrier) architecture**: Implements a modular design with one shared Go engine and individual binaries per provider, enabling voice-agent systems to integrate arbitrary TTS backends via Speechify’s infrastructure.
 
-- **Minimalist Repository**: Single-star, zero-fork project (as of 2026-07-13) written in Go, last updated on 2026-07-13, focusing on lightweight proxy functionality for diverse TTS providers.
+- **Minimalist implementation**: Single-star repository (as of last update) with no forks, emphasizing lightweight deployment while supporting real-time TTS conversion across diverse provider ecosystems.
 
 ## Why It Matters
 

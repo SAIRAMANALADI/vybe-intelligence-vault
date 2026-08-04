@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-08-04T17:06:46.530531+05:30'
-collected_at: '2026-08-04T17:06:46.530545+05:30'
+published_at: '2026-08-04T20:12:05.107746+05:30'
+collected_at: '2026-08-04T20:12:05.107754+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-08-04T17:06:46.530545+05:30'
-last_seen: '2026-08-04T17:06:46.530545+05:30'
-last_checked: '2026-08-04T17:06:46.530545+05:30'
+first_seen: '2026-08-04T20:12:05.107754+05:30'
+last_seen: '2026-08-04T20:12:05.107754+05:30'
+last_checked: '2026-08-04T20:12:05.107754+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Minimal RAG Pipeline**: Uses `sentence-transformers` (e.g., `all-MiniLM-L6-v2`) for embeddings, FAISS for vector search, and Flan-T5 for generation; documents indexed as normalized vectors with metadata (title/text) for retrieval.
+- **Core RAG Architecture**: Combines a retriever (dense embeddings + vector search or sparse BM25) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
 
-- **Intermediate Techniques**: Implements chunking with overlap, hybrid retrieval (BM25 + dense embeddings), reranking (e.g., `bge-reranker`), query expansion (HyDE/multi-query), and metadata filtering for precision/recall optimization.
+- **Key Intermediate Techniques**: Implements chunking with overlap, hybrid retrieval (dense + sparse), reranking (cross-encoders like monoT5), query expansion (HyDE/multi-query), and metadata filtering to optimize precision/recall and latency.
 
-- **Advanced Techniques**: Features multi-hop retrieval, GraphRAG (knowledge graphs), multi-vector retrievers, context compression (e.g., LLMLingua), agentic RAG (tool integration), and safety mechanisms (grounding guarantees) for complex, production-grade systems.
+- **Advanced RAG Patterns**: Supports multi-hop retrieval, GraphRAG (knowledge graphs), multi-vector retrievers, context compression, agentic tool use, and safety grounding via citation-aware generation and observability frameworks.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T17:06:46.530531+05:30
+- Published: 2026-08-04T20:12:05.107746+05:30
 
 ## Related Tags
 

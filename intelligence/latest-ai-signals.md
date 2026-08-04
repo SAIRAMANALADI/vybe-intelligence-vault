@@ -6,7 +6,9 @@ Update cycle: Refreshed every 3 hours.
 
 | Date | Resource | Category | Quality Score |
 | :--- | :--- | :--- | :--- |
+| 2026-08-04 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | `ai-coding-agents/` | 70 |
 | 2026-07-28 | [H-EmbodVis/TurboVLA](https://github.com/H-EmbodVis/TurboVLA) | `rag-systems/` | 70 |
+| 2026-07-24 | [zju3dv/InfiniSplat](https://github.com/zju3dv/InfiniSplat) | `rag-systems/` | 70 |
 | 2026-07-15 | [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) | `rag-systems/` | 70 |
 | 2026-07-13 | [Chaelsoo/Zetsu](https://github.com/Chaelsoo/Zetsu) | `rag-systems/` | 70 |
 | 2026-07-11 | [TatarinBlack/ai-runtime-security-sandbox](https://github.com/TatarinBlack/ai-runtime-security-sandbox) | `rag-systems/` | 70 |
@@ -25,7 +27,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` | 70 |
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` | 70 |
-| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
+| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` | 70 |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` | 70 |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` | 70 |
 | 2026-04-26 | [DenCabinetmaker/Rust-Rage](https://github.com/DenCabinetmaker/Rust-Rage) | `rag-systems/` | 70 |
@@ -34,7 +36,5 @@ Update cycle: Refreshed every 3 hours.
 | 2026-04-21 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | `rag-systems/` | 70 |
 | 2026-04-17 | [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) | `ai-coding-agents/` | 70 |
 | 2026-04-16 | [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) | `ai-coding-agents/` | 70 |
-| 2026-04-16 | [bluehands/GirlsDay2026](https://github.com/bluehands/GirlsDay2026) | `ai-coding-agents/` | 70 |
-| 2026-04-13 | [grafana/o11y-bench](https://github.com/grafana/o11y-bench) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

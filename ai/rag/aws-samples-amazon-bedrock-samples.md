@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-08-04T17:07:26.069102+05:30'
+collected_at: '2026-08-04T20:12:44.588651+05:30'
 published_at: '2026-08-04T07:14:58Z'
 tags:
 - github-repo
@@ -19,11 +19,11 @@ status: active
 license: MIT-0
 archived: false
 created_at: '2023-07-05T18:23:34Z'
-pushed_at: '2026-07-21T18:46:37Z'
+pushed_at: '2026-08-04T14:39:48Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-08-04T17:07:26.069102+05:30'
-last_seen: '2026-08-04T17:07:26.069102+05:30'
-last_checked: '2026-08-04T17:07:26.069102+05:30'
+first_seen: '2026-08-04T20:12:44.588651+05:30'
+last_seen: '2026-08-04T20:12:44.588651+05:30'
+last_checked: '2026-08-04T20:12:44.588651+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) across use cases like embeddings, generative AI, RAG, and knowledge bases.
-- **Technical Stack**: Implemented in Jupyter Notebooks with integrations for LangChain, demonstrating model deployment, fine-tuning, and inference workflows.
-- **Resources**: Includes 1,484+ stars and 710+ forks, last updated August 2026, serving as a reference for AWS customers leveraging Bedrock’s APIs and SDKs.
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) for generative AI workflows.
+
+- **Technical Components**: Includes Jupyter Notebooks demonstrating embeddings, knowledge bases, Retrieval-Augmented Generation (RAG), and integration with LangChain for LLM orchestration.
+
+- **Use Cases**: Focuses on practical implementations for building AI applications with Bedrock’s managed infrastructure, covering topics like model fine-tuning, retrieval strategies, and deployment patterns.
 
 ## Why It Matters
 
@@ -50,7 +52,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT-0
 - Archived: No
 - Created At: 2023-07-05T18:23:34Z
-- Pushed At: 2026-07-21T18:46:37Z
+- Pushed At: 2026-08-04T14:39:48Z
 
 ## Possible Use Cases
 

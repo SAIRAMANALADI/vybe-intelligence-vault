@@ -1,10 +1,11 @@
 ---
-title: 'Leanstral 1.5: Proof Abundance for All'
+title: 'ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team
+  at Mistral AI'
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/leanstral-1-5
-resource_id: blog:leanstral-1-5-proof-abundance-for-all
-local_vault_path: ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md
+resource_id: blog:researchleanstral-1-5-proof-abundance-for-alljuly
+local_vault_path: ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -20,7 +21,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Leanstral 1.5: Proof Abundance for All
+# ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI
 
 ## Why This Is In The Archive
 
@@ -33,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: Leanstral 1.5: Proof Abundance for All
+Recent update from Mistral AI News Blog: ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI
 
 ## Use Cases
 
@@ -47,4 +48,4 @@ Original source URL: https://mistral.ai/news/leanstral-1-5
 
 ## Local Vault File
 
-Path: [leanstral-1-5-proof-abundance-for-all.md](../../ai/companies/mistral/leanstral-1-5-proof-abundance-for-all.md)
+Path: [researchleanstral-1-5-proof-abundance-for-alljuly.md](../../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)

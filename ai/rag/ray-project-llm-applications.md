@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-04T17:08:16.034068+05:30'
+collected_at: '2026-08-04T20:13:34.500205+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-04T17:08:16.034068+05:30'
-last_seen: '2026-08-04T17:08:16.034068+05:30'
-last_checked: '2026-08-04T17:08:16.034068+05:30'
+first_seen: '2026-08-04T20:13:34.500205+05:30'
+last_seen: '2026-08-04T20:13:34.500205+05:30'
+last_checked: '2026-08-04T20:13:34.500205+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computing, integrating Llama2, OpenAI, and Anyscale models with optimized serving and fine-tuning techniques.
-- **Modular Architecture**: Implements a scalable Jupyter Notebook-based framework leveraging Ray’s parallel processing for efficient LLM inference, retrieval, and post-processing in end-to-end applications.
-- **Benchmarking & Optimization**: Provides tools for evaluating LLM performance (e.g., latency, throughput) and fine-tuning strategies (e.g., LoRA, quantization) to deploy high-throughput RAG systems in production environments.
+- **RAG-based LLM Deployment**: Provides a production-ready framework for Retrieval-Augmented Generation (RAG) applications using Ray, integrating OpenAI, Llama2, and Anyscale for scalable serving and fine-tuning.
+- **Modular Architecture**: Implements a Jupyter Notebook-based pipeline for end-to-end workflows, including data ingestion, vector storage, retrieval, and LLM inference with optimized Ray-based orchestration.
+- **Multi-LLM Support**: Demonstrates hybrid integration of proprietary (OpenAI) and open-source (Llama2) models, with fine-tuning and serving benchmarks for performance evaluation in production environments.
 
 ## Why It Matters
 

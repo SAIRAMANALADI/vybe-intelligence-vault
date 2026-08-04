@@ -1,17 +1,18 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/rag
+source_category: ai/agents
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/rag/arxiv-replicate-replicate.md
+local_vault_path: ai/agents/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- rag
+- agents
+- anthropic
 - reddit
 - web-crawled
 - youtube
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **p-video-avatar**: Fastest and most cost-effective avatar/lipsync video generation model, with 129K runs on Replicate.
-- **grok-imagine-video**: xAI’s video generation model leveraging Grok, achieving 1.5M runs on Replicate.
-- **flux-2-max**: Highest-fidelity image model from Black Forest Labs, with 3.8M runs on Replicate.
+- **HappyHorse-1.0**: Alibaba's text-to-video or image-to-video diffusion model supporting 720p/1080p resolutions, 3-15s durations, and five aspect ratios (e.g., 16:9, 9:16).
+- **Claude-Opus-4.7**: Anthropic’s latest model with enhanced agentic coding, vision capabilities, and multi-step reasoning, achieving 231.2K runs.
+- **p-video-avatar**: PrunaAI’s lightweight avatar/lipsync video model optimized for speed and cost-efficiency, with 129.1K runs.
 
 ## Use Cases
 
@@ -49,4 +50,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/rag/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/agents/arxiv-replicate-replicate.md)

@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud
 first_seen: '2026-08-03T22:51:50.044079+05:30'
 last_seen: '2026-08-04T17:05:52.318962+05:30'
 last_checked: '2026-08-04T17:05:52.318962+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents
 

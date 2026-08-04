@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-08-04T17:06:43.772343+05:30'
-collected_at: '2026-08-04T17:06:43.772357+05:30'
+published_at: '2026-08-04T20:12:05.105784+05:30'
+collected_at: '2026-08-04T20:12:05.105799+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-08-04T17:06:43.772357+05:30'
-last_seen: '2026-08-04T17:06:43.772357+05:30'
-last_checked: '2026-08-04T17:06:43.772357+05:30'
+first_seen: '2026-08-04T20:12:05.105799+05:30'
+last_seen: '2026-08-04T20:12:05.105799+05:30'
+last_checked: '2026-08-04T20:12:05.105799+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, Qdrant) for dynamic knowledge retrieval and hallucination reduction (70% → 95%+ accuracy).
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval and LLM response augmentation.
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion (20-30% recall improvement), hybrid search (dense + sparse vectors), re-ranking (15-25% precision gain), and adaptive retrieval (Self-RAG) to optimize context coherence and reduce errors.
+- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), re-ranking (cross-encoder models), and adaptive retrieval (Self-RAG) to improve recall, precision, and hallucination reduction by 80%+.
 
-- **Production Trade-offs**: Achieves <2s latency, $0.02-0.10/query cost, and real-time updates vs. fine-tuning’s $500-5,000 cost and 1-2 week retraining cycles, validated in case studies (e.g., 92% accuracy in legal Q&A, 78% automated support resolution).
+- **Production Metrics**: Achieves 90-95% accuracy with <2s latency, $0.02-0.10/query cost, and 10-50x cost savings vs. fine-tuning, validated in case studies (e.g., legal Q&A: 92% accuracy, 2.5s response time).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T17:06:43.772343+05:30
+- Published: 2026-08-04T20:12:05.105784+05:30
 
 ## Related Tags
 

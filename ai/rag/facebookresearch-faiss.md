@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/faiss
-collected_at: '2026-08-04T14:45:04.391768+05:30'
-published_at: '2026-08-04T08:50:31Z'
+collected_at: '2026-08-04T20:16:34.676840+05:30'
+published_at: '2026-08-04T13:42:45Z'
 tags:
 - c++
-- dataset
 - github-repo
 - hackernews
 - rag
-stars: 40660
+stars: 40664
 language: C++
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2017-02-07T16:07:05Z'
 pushed_at: '2026-08-03T17:57:31Z'
 resource_id: github:facebookresearch/faiss
-first_seen: '2026-08-04T14:45:04.391768+05:30'
-last_seen: '2026-08-04T14:45:04.391768+05:30'
-last_checked: '2026-08-04T14:45:04.391768+05:30'
+first_seen: '2026-08-04T20:16:34.676840+05:30'
+last_seen: '2026-08-04T20:16:34.676840+05:30'
+last_checked: '2026-08-04T20:16:34.676840+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: FAISS (Facebook AI Similarity Search) is a C++ library optimized for efficient similarity search and clustering of dense vectors, leveraging approximate nearest neighbor (ANN) techniques to handle large-scale datasets.
-- **Key Features**: Supports index types (e.g., IVF, HNSW, PQ) for trade-offs between accuracy, speed, and memory; provides GPU-accelerated implementations via CUDA; includes tools for metric learning and vector compression.
-- **Applications**: Enables scalable vector search for recommendation systems, image retrieval, NLP embeddings, and unsupervised clustering tasks in high-dimensional spaces.
+- **Purpose**: FAISS is a C++ library designed for high-performance similarity search and clustering of dense vectors, optimized for scalability and efficiency.
+- **Key Features**: Supports exact and approximate nearest neighbor search, GPU acceleration, and modular indexing structures (e.g., IVF, PQ, HNSW).
+- **Applications**: Widely used in large-scale vector search tasks, including recommendation systems, image retrieval, and NLP embeddings.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: facebookresearch
-- Stars: 40660
+- Stars: 40664
 - Forks: 4479
 - Language: C++
 - Topics: None
-- Last Updated: 2026-08-04T08:50:31Z
+- Last Updated: 2026-08-04T13:42:45Z
 - License: MIT
 - Archived: No
 - Created At: 2017-02-07T16:07:05Z

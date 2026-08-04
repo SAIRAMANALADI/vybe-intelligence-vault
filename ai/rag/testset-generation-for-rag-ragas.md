@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/latest/getstarted/rag_testset_generation/
-published_at: '2026-08-03T15:42:53.739087+05:30'
-collected_at: '2026-08-03T15:42:53.739103+05:30'
+published_at: '2026-08-04T20:16:20.286152+05:30'
+collected_at: '2026-08-04T20:16:20.286168+05:30'
 tags:
 - anthropic
 - dataset
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:testset-generation-for-rag-ragas
-first_seen: '2026-08-03T15:42:53.739103+05:30'
-last_seen: '2026-08-03T15:42:53.739103+05:30'
-last_checked: '2026-08-03T15:42:53.739103+05:30'
+first_seen: '2026-08-04T20:16:20.286168+05:30'
+last_seen: '2026-08-04T20:16:20.286168+05:30'
+last_checked: '2026-08-04T20:16:20.286168+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Testset Generation Pipeline**: Uses a two-phase process—**Knowledge Graph Creation** (with nodes/relationships from documents via `KnowledgeGraph` and `default_transforms`) and **Testset Generation** (via `TestsetGenerator` with configurable query distributions like `default_query_distribution`).
-
-- **LLM/Embedding Integration**: Supports multiple providers (OpenAI, AWS Bedrock, Google AI/Vertex, Azure) via `LangchainLLMWrapper`/`LangchainEmbeddingsWrapper` or native `LlamaIndexLLMWrapper`, requiring API keys/configs (e.g., `OPENAI_API_KEY`, `GOOGLE_API_KEY`).
-
-- **Output & Customization**: Generates synthetic testsets (exportable to pandas DataFrame) with adjustable parameters (e.g., `testset_size=10`), and allows saving/loading the intermediate `KnowledgeGraph` (e.g., `kg.save("knowledge_graph.json")`).
+- **LLM Integration**: Supports multiple LLM providers (OpenAI, AWS Bedrock, Google AI/Vertex AI, Azure) via `LangchainLLMWrapper` or `LlamaIndexLLMWrapper` for testset generation, with configuration for model, temperature, and credentials.
+- **Knowledge Graph Pipeline**: Constructs a `KnowledgeGraph` from input documents, enriches it using transformations (e.g., `default_transforms`), and persists it (e.g., `knowledge_graph.json`) for structured test data synthesis.
+- **Testset Generation**: Uses `TestsetGenerator` with a query distribution (e.g., `default_query_distribution`) to produce synthetic queries (single/multi-hop) and evaluates RAG pipelines via metrics like `answer_relevancy` and `answer_correctness`.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T15:42:53.739087+05:30
+- Published: 2026-08-04T20:16:20.286152+05:30
 
 ## Related Tags
 

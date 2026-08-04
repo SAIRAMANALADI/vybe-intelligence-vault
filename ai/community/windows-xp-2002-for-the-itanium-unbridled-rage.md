@@ -13,13 +13,14 @@ collected_at: '2026-08-04T17:05:52.770950+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:windows-xp-2002-for-the-itanium-unbridled-rage
 first_seen: '2026-08-04T09:07:26.908928+05:30'
 last_seen: '2026-08-04T17:05:52.770950+05:30'
 last_checked: '2026-08-04T17:05:52.770950+05:30'
 health_score: 100
 ---
+
 
 # Windows XP 2002 for the Itanium: Unbridled rage
 

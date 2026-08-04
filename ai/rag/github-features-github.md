@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features
-published_at: '2026-08-04T17:14:33.257550+05:30'
-collected_at: '2026-08-04T17:14:33.257564+05:30'
+published_at: '2026-08-04T20:19:38.514958+05:30'
+collected_at: '2026-08-04T20:19:38.514975+05:30'
 tags:
 - rag
 - scripts
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-features-github
-first_seen: '2026-08-04T17:14:33.257564+05:30'
-last_seen: '2026-08-04T17:14:33.257564+05:30'
-last_checked: '2026-08-04T17:14:33.257564+05:30'
+first_seen: '2026-08-04T20:19:38.514975+05:30'
+last_seen: '2026-08-04T20:19:38.514975+05:30'
+last_checked: '2026-08-04T20:19:38.514975+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Copilot & AI Integration**: Provides AI-powered code suggestions, autofixes for 90% of security alerts (JavaScript, TypeScript, Java, Python), and advanced secret scanning with AI-enhanced detection for elusive secrets.
+- **GitHub Copilot**: AI-powered code completion and generation, offering whole-line or function-level suggestions directly in the editor, with additional capabilities like Copilot Chat for AI-driven code assistance and Copilot Autofix for automated vulnerability remediation.
 
-- **Automation & CI/CD**: Supports fully configured cloud dev environments (Codespaces), workflow automation via GitHub Actions with self-hosted/hosted runners, and preconfigured templates for standardized processes.
+- **GitHub Advanced Security (GHAS)**: Integrated suite for application security, including code scanning (via CodeQL), secret scanning, dependency vulnerability detection (Dependabot), and AI-driven autofixes for 90% of alert types in supported languages (JavaScript, TypeScript, Java, Python).
 
-- **Security & Project Management**: Features GitHub Advanced Security (code scanning, secret scanning, Dependabot), dependency vulnerability tracking, and project management tools (Projects, Issues, Milestones) with real-time insights and charts.
+- **GitHub Actions & CI/CD**: Native automation platform for workflow orchestration, supporting preconfigured templates, self-hosted/hosted runners (Linux/macOS/Windows/ARM/GPU), and integration with 10,000+ community actions for testing, deployment, and dependency management.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T17:14:33.257550+05:30
+- Published: 2026-08-04T20:19:38.514958+05:30
 
 ## Related Tags
 

@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-04T17:08:21.077152+05:30'
+collected_at: '2026-08-04T20:13:39.550484+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
-- benchmark
 - dataset
 - github-repo
 - python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-04T17:08:21.077152+05:30'
-last_seen: '2026-08-04T17:08:21.077152+05:30'
-last_checked: '2026-08-04T17:08:21.077152+05:30'
+first_seen: '2026-08-04T20:13:39.550484+05:30'
+last_seen: '2026-08-04T20:13:39.550484+05:30'
+last_checked: '2026-08-04T20:13:39.550484+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework that leverages linear graph structures for efficient retrieval and generation on large-scale corpora, optimizing both memory and computational efficiency.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework that leverages linear graph structures for efficient retrieval and augmentation in large-scale corpora, optimizing LLM performance by reducing computational overhead while maintaining contextual relevance.
 
-- **Graph-Based Retrieval Mechanism**: Utilizes linear graph traversal (e.g., path-based or neighborhood sampling) to dynamically extract relevant context from the corpus, reducing reliance on dense vector indexing while maintaining retrieval accuracy.
+- **Scalable Graph-Based Retrieval**: Introduces a linear-time graph traversal mechanism to dynamically construct retrieval paths, enabling efficient navigation of large document graphs without sacrificing retrieval quality or latency.
 
-- **Scalability & Performance**: Designed for large-scale datasets, LinearRAG achieves state-of-the-art trade-offs between retrieval latency and generation quality, as validated on ICLR 2026 benchmarks.
+- **ICLR 2026 Contribution**: Demonstrates state-of-the-art results in retrieval-augmented generation tasks by integrating linear graph structures with LLMs, achieving significant improvements in both accuracy and computational efficiency on large-scale datasets.
 
 ## Why It Matters
 
