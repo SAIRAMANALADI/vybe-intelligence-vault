@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-150%2C428-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-91%2C999-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--04-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **150,428 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **91,999 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,884</p>
-        <p><b>Active:</b> 16,424 | <b>Inactive:</b> 460</p>
+        <p><b>Resources tracked:</b> 15,878</p>
+        <p><b>Active:</b> 15,418 | <b>Inactive:</b> 460</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 62,890</p>
+        <p><b>Archive Files:</b> 2,152</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 150,428 files</p>
-        <p><b>Last Update:</b> 2026-08-04 04:08 IST</p>
+        <p><b>Total Vault Size:</b> 91,999 files</p>
+        <p><b>Last Update:</b> 2026-08-04 05:42 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Prevent cognitive debt by manually retyping LLM-generated code](ai/community/prevent-cognitive-debt-by-manually-retyping-llm-ge.md)** • <kbd>+29 pts</kbd>
-- 🔼 **[Bonsai: Janestreet's UI Library](ai/community/janestreet-bonsai.md)** • <kbd>+23 pts</kbd>
-- 🔼 **[AirLLM 70B inference with single 4GB GPU](ai/trending/lyogavin-airllm.md)** • <kbd>+20 pts</kbd>
-- 🔼 **[SQLite Critical CVEs or LLM Slop?](ai/community/sqlite-critical-cves-or-llm-slop.md)** • <kbd>+12 pts</kbd>
-- 🔼 **[Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](ai/community/launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud.md)** • <kbd>+11 pts</kbd>
+- 🔼 **[Mojo](ai/agents/mojo.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Functional programming - Wikipedia](ai/rag/functional-programming-wikipedia.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[JSON functions | BigQuery | Google Cloud Documentation](ai/resources/json-functions-bigquery-google-cloud-documentation.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Introduction to tables | BigQuery | Google Cloud Documentation](ai/rag/introduction-to-tables-bigquery-google-cloud-docum.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at master · firebase/extensions · GitHub](ai/resources/firebase-extensions.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[LLMs reward expertise](ai/community/llms-reward-expertise.md)** • Score: `149`
-- 🆕 **[DDoS against Norwegian government IT infrastructure – status](ai/community/ddos-against-norwegian-government-it-infrastructur.md)** • Score: `73`
-- 🆕 **[PageSpeed Insights](ai/resources/pagespeed-insights.md)** • Score: `0`
-- 🆕 **[Introduction to tables | BigQuery | Google Cloud Documentation](ai/rag/introduction-to-tables-bigquery-google-cloud-docum.md)** • Score: `0`
-- 🆕 **[stripe-firebase-extensions/firestore-stripe-payments at master · invertase/stripe-firebase-extensions · GitHub](ai/resources/stripe-stripe-firebase-extensions.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](ai/community/garagehq-nightcrawler.md)**
-- 💤 **[The Potomac River Midair Collision](ai/community/the-potomac-river-midair-collision.md)**
-- 💤 **[Kraid is a now a real compiler](ai/community/kraid-is-a-now-a-real-compiler.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
