@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-05T01:29:23.949140+05:30'
+collected_at: '2026-08-05T03:55:44.242481+05:30'
 published_at: '2026-08-04T18:46:44Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-05T01:29:23.949140+05:30'
-last_seen: '2026-08-05T01:29:23.949140+05:30'
-last_checked: '2026-08-05T01:29:23.949140+05:30'
+first_seen: '2026-08-05T03:55:44.242481+05:30'
+last_seen: '2026-08-05T03:55:44.242481+05:30'
+last_checked: '2026-08-05T03:55:44.242481+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step guide to building Retrieval-Augmented Generation (RAG) systems from scratch using local LLMs, emphasizing transparency and understanding of core components like embeddings, vector search, retrieval, and context-augmented generation.
-
-- **Tech Stack**: Utilizes JavaScript/Node.js with `node-llama-cpp` for local LLM integration, avoiding proprietary "black boxes" to ensure full control and comprehension of the RAG pipeline.
-
-- **Practical Focus**: Includes a functional RAG chatbot implementation, demonstrating real-world applications of embeddings, retrieval, and augmented generation in a hands-on tutorial format.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from the ground up using local LLMs (via `node-llama-cpp`), emphasizing transparency by avoiding proprietary black boxes.
+- **Core Technical Components**: Covers embeddings generation, vector search (likely via similarity metrics), retrieval augmentation, and context-augmented generation in a Node.js/JavaScript pipeline.
+- **Practical Tutorial Focus**: Provides a hands-on guide for building a RAG chatbot with modular components, targeting developers seeking to understand RAG internals without external dependencies.
 
 ## Why It Matters
 

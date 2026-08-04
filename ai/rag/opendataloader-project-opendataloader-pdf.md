@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/opendataloader-project/opendataloader-pdf
-collected_at: '2026-08-05T01:29:43.915965+05:30'
-published_at: '2026-08-04T18:29:25Z'
+collected_at: '2026-08-05T03:56:04.271024+05:30'
+published_at: '2026-08-04T22:09:56Z'
 tags:
 - github-repo
 - java
 - rag
-stars: 28161
+stars: 28164
 language: Java
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-05-13T05:48:02Z'
 pushed_at: '2026-08-04T12:33:55Z'
 resource_id: github:opendataloader-project/opendataloader-pdf
-first_seen: '2026-08-05T01:29:43.915965+05:30'
-last_seen: '2026-08-05T01:29:43.915965+05:30'
-last_checked: '2026-08-05T01:29:43.915965+05:30'
+first_seen: '2026-08-05T03:56:04.271024+05:30'
+last_seen: '2026-08-05T03:56:04.271024+05:30'
+last_checked: '2026-08-05T03:56:04.271024+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Java-based PDF Parser**: Open-source tool designed for AI-ready data extraction from PDFs, supporting accessibility compliance (e.g., PDF/UA, WCAG) and automated document processing.
+- **Java-based PDF Parser**: Open-source tool designed for AI-ready data extraction from PDFs, supporting accessibility compliance (e.g., PDF/UA) and automated tagging for screen readers.
 
-- **Multi-format Output**: Converts PDFs to structured formats (HTML, JSON, Markdown) with OCR support, bounding box detection, and table extraction for downstream AI/ML applications.
+- **Multi-format Output**: Converts PDFs to structured formats (HTML, JSON, Markdown) with OCR support for scanned documents, preserving layout, tables, and bounding boxes.
 
-- **Accessibility & Tagging**: Handles tagged PDFs, improves accessibility (a11y), and integrates with RAG pipelines for enhanced document understanding and retrieval.
+- **AI & RAG Integration**: Enables downstream AI applications (e.g., Retrieval-Augmented Generation) by extracting clean, semantic-rich text and metadata from tagged or untagged PDFs.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: opendataloader-project
-- Stars: 28161
+- Stars: 28164
 - Forks: 2687
 - Language: Java
 - Topics: a11y, accessibility, ai, bounding-box, document-parsing, eaa, html, json, markdown, ocr, ocr-recognition, pdf, pdf-accessibility, pdf-converter, pdf-extraction, pdf-parser, pdf-ua, rag, tables, tagged-pdf
-- Last Updated: 2026-08-04T18:29:25Z
+- Last Updated: 2026-08-04T22:09:56Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-13T05:48:02Z

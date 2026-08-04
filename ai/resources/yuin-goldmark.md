@@ -4,12 +4,12 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yuin/goldmark/
-collected_at: '2026-08-04T22:44:45.095015+05:30'
-published_at: '2026-08-04T07:24:54Z'
+collected_at: '2026-08-05T04:03:48.122085+05:30'
+published_at: '2026-08-04T19:24:49Z'
 tags:
 - github-repo
 - go
-stars: 4926
+stars: 4927
 language: Go
 status: active
 license: MIT
@@ -17,9 +17,9 @@ archived: false
 created_at: '2019-04-26T11:24:21Z'
 pushed_at: '2026-08-02T09:28:32Z'
 resource_id: github:yuin/goldmark
-first_seen: '2026-08-04T22:44:45.095015+05:30'
-last_seen: '2026-08-04T22:44:45.095015+05:30'
-last_checked: '2026-08-04T22:44:45.095015+05:30'
+first_seen: '2026-08-05T04:03:48.122085+05:30'
+last_seen: '2026-08-05T04:03:48.122085+05:30'
+last_checked: '2026-08-05T04:03:48.122085+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Goldmark** is a **CommonMark-compliant** Markdown parser implemented in **Go**, designed for extensibility and clean architecture.
-- Supports **standard Markdown features** while allowing custom extensions for enhanced functionality.
-- Actively maintained with **4,926 stars** and **303 forks**, last updated in **August 2026**.
+- **Implementation**: Goldmark is a **CommonMark-compliant** Markdown parser written in **Go**, designed for extensibility and clean architecture.
+
+- **Features**: Supports **standard Markdown syntax** while allowing customization via **extension APIs** (e.g., custom renderers, parsers).
+
+- **Status**: Actively maintained (last updated **2026-08-04**), with **4,927 stars** and **303 forks** on GitHub.
 
 ## Why It Matters
 
@@ -38,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: yuin
-- Stars: 4926
+- Stars: 4927
 - Forks: 303
 - Language: Go
 - Topics: commonmark, go, golang, markdown
-- Last Updated: 2026-08-04T07:24:54Z
+- Last Updated: 2026-08-04T19:24:49Z
 - License: MIT
 - Archived: No
 - Created At: 2019-04-26T11:24:21Z

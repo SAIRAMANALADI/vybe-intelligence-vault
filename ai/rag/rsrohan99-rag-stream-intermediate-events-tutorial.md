@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial
-collected_at: '2026-08-05T01:29:28.912359+05:30'
+collected_at: '2026-08-05T03:55:49.266605+05:30'
 published_at: '2026-07-28T13:49:36Z'
 tags:
 - github-repo
@@ -12,6 +12,7 @@ tags:
 - models
 - rag
 - typescript
+- workflows
 stars: 196
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-04-05T21:12:53Z'
 pushed_at: '2024-04-08T10:45:53Z'
 resource_id: github:rsrohan99/rag-stream-intermediate-events-tutorial
-first_seen: '2026-08-05T01:29:28.912359+05:30'
-last_seen: '2026-08-05T01:29:28.912359+05:30'
-last_checked: '2026-08-05T01:29:28.912359+05:30'
+first_seen: '2026-08-05T03:55:49.266605+05:30'
+last_seen: '2026-08-05T03:55:49.266605+05:30'
+last_checked: '2026-08-05T03:55:49.266605+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Event Streaming Integration**: Demonstrates streaming intermediate LlamaIndex RAG events (e.g., node parsing, retrieval) to the Vercel AI SDK via Server-Sent Events (SSE) for real-time client updates.
-- **TypeScript Implementation**: Provides a TypeScript-based solution with structured event payloads (e.g., `NodeParsedEvent`, `RetrievalEvent`) for seamless SDK compatibility.
-- **Performance Optimization**: Focuses on efficient event serialization/deserialization to minimize latency during high-frequency intermediate event transmission.
+- **Intermediate Event Streaming**: Demonstrates streaming intermediate events from LlamaIndex RAG pipelines to the Vercel AI SDK using Server-Sent Events (SSE) for real-time updates.
+- **TypeScript Implementation**: Provides a TypeScript-based solution for handling event-driven RAG workflows with structured intermediate outputs.
+- **Vercel AI SDK Integration**: Focuses on seamless integration with Vercel's AI SDK, enabling efficient event propagation for enhanced RAG performance.
 
 ## Why It Matters
 

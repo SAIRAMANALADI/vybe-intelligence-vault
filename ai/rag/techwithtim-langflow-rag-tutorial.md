@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-08-05T01:29:23.887181+05:30'
+collected_at: '2026-08-05T03:55:44.242671+05:30'
 published_at: '2026-07-22T08:36:27Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-08-05T01:29:23.887181+05:30'
-last_seen: '2026-08-05T01:29:23.887181+05:30'
-last_checked: '2026-08-05T01:29:23.887181+05:30'
+first_seen: '2026-08-05T03:55:44.242671+05:30'
+last_seen: '2026-08-05T03:55:44.242671+05:30'
+last_checked: '2026-08-05T03:55:44.242671+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` is a GitHub repository with 98 stars and 26 forks, last updated on July 22, 2026.
-- **Language**: The primary language of the repository is unspecified (marked as "Unknown").
-- **Content**: The repository focuses on a **Retrieval-Augmented Generation (RAG)** tutorial using **Langflow**, a visual framework for building LLM-powered applications.
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (98 ⭐, 26 🍴)
+- **Language**: Unspecified (last updated: 2026-07-22T08:36:27Z)
+- **Purpose**: Tutorial for integrating Retrieval-Augmented Generation (RAG) with Langflow (no further metadata available)
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-08-05T01:30:18.932276+05:30'
+collected_at: '2026-08-05T03:56:39.311322+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
 - benchmark
@@ -13,7 +13,6 @@ tags:
 - paper
 - python
 - rag
-- workflows
 stars: 136
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-08-05T01:30:18.932276+05:30'
-last_seen: '2026-08-05T01:30:18.932276+05:30'
-last_checked: '2026-08-05T01:30:18.932276+05:30'
+first_seen: '2026-08-05T03:56:39.311322+05:30'
+last_seen: '2026-08-05T03:56:39.311322+05:30'
+last_checked: '2026-08-05T03:56:39.311322+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), focusing on advancements in hybrid retrieval-generation architectures.
-- **Python-Centric Tooling**: Includes implementations, benchmarks, and libraries (e.g., `LangChain`, `FAISS`) for RAG systems, optimized for Python-based workflows.
-- **Last Updated**: Metadata indicates the repository was last synchronized on **2026-07-01**, reflecting recent but static maintenance (136 stars, 12 forks).
+- **Curated RAG Resources**: Repository compiles key research papers and resources focused on retrieval-augmented generation (RAG), a paradigm enhancing generative models with external knowledge retrieval.
+- **Technical Scope**: Primarily Python-based, emphasizing implementation details, benchmarks, and methodologies for integrating retrieval mechanisms with large language models (LLMs).
+- **Maintenance & Growth**: Actively maintained (last updated July 2026), with 136 stars and 12 forks, indicating community engagement and ongoing contributions to RAG advancements.
 
 ## Why It Matters
 

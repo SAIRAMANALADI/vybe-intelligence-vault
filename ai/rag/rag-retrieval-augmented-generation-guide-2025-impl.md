@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-08-05T01:29:14.860450+05:30'
-collected_at: '2026-08-05T01:29:14.860459+05:30'
+published_at: '2026-08-05T03:55:34.934678+05:30'
+collected_at: '2026-08-05T03:55:34.934686+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-08-05T01:29:14.860459+05:30'
-last_seen: '2026-08-05T01:29:14.860459+05:30'
-last_checked: '2026-08-05T01:29:14.860459+05:30'
+first_seen: '2026-08-05T03:55:34.934686+05:30'
+last_seen: '2026-08-05T03:55:34.934686+05:30'
+last_checked: '2026-08-05T03:55:34.934686+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval before LLM generation.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval and LLM response augmentation.
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), re-ranking (e.g., `ms-marco-MiniLM`), and adaptive methods like Self-RAG to reduce hallucinations and improve precision/recall.
+- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), cross-encoder re-ranking, and adaptive retrieval (Self-RAG) to improve recall (20-30%), precision (15-25%), and reduce hallucinations.
 
-- **Production Metrics**: Achieves 90-95% accuracy with 2s latency, $0.02-0.10/query cost, and 10-50x savings vs. fine-tuning; caching (30-40% hit rate) and monitoring are critical for scalability.
+- **Production Metrics**: Achieves 90-95% accuracy, <2s latency, and 10-50x cost savings vs fine-tuning; use cases include legal Q&A (92% accuracy) and customer support (78% automated resolution), with caching (30-40% hit rate) and monitoring for relevance/quality.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T01:29:14.860450+05:30
+- Published: 2026-08-05T03:55:34.934678+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-05T01:29:03.860203+05:30'
+collected_at: '2026-08-05T03:55:24.273205+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
@@ -13,6 +13,7 @@ tags:
 - hackernews
 - python
 - rag
+- scripts
 stars: 260
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-05T01:29:03.860203+05:30'
-last_seen: '2026-08-05T01:29:03.860203+05:30'
-last_checked: '2026-08-05T01:29:03.860203+05:30'
+first_seen: '2026-08-05T03:55:24.273205+05:30'
+last_seen: '2026-08-05T03:55:24.273205+05:30'
+last_checked: '2026-08-05T03:55:24.273205+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs.
-- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures in factual consistency, context adherence, and retrieval accuracy.
-- **Implementation**: Open-source Python-based repository (MIT License) with tools for dataset generation, evaluation metrics, and benchmarking against baseline RAG models.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
+
+- **Technical Composition**: Contains structured hallucination annotations (e.g., factual inaccuracies, unsupported claims) paired with retrieval contexts, enabling fine-grained analysis of RAG model failures in Python-based implementations.
+
+- **Benchmark Utility**: Provides a standardized framework for assessing hallucination mitigation techniques, with tools for dataset integration, evaluation metrics, and reproducibility via GitHub-hosted Python scripts.
 
 ## Why It Matters
 

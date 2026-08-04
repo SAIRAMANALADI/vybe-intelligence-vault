@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agent0ai/agent-zero
-collected_at: '2026-08-05T01:32:39.080296+05:30'
-published_at: '2026-08-04T19:50:16Z'
+collected_at: '2026-08-05T03:58:59.483701+05:30'
+published_at: '2026-08-04T21:29:55Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-stars: 18726
+- scripts
+stars: 18728
 language: Python
 status: active
 license: NOASSERTION
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-06-10T09:10:45Z'
 pushed_at: '2026-08-01T15:23:53Z'
 resource_id: github:agent0ai/agent-zero
-first_seen: '2026-08-05T01:32:39.080296+05:30'
-last_seen: '2026-08-05T01:32:39.080296+05:30'
-last_checked: '2026-08-05T01:32:39.080296+05:30'
+first_seen: '2026-08-05T03:58:59.483701+05:30'
+last_seen: '2026-08-05T03:58:59.483701+05:30'
+last_checked: '2026-08-05T03:58:59.483701+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: Agent Zero is a Python-based autonomous AI agent framework designed for building and deploying self-directed AI systems capable of performing complex tasks without constant human intervention.
+- **Framework Overview**: Agent Zero is an open-source AI framework designed for building autonomous agents in Python, emphasizing modularity and extensibility for AI-driven applications.
 
-- **Modular & Extensible Architecture**: The framework supports modular design, enabling integration with various AI models, tools, and APIs to create customizable autonomous agents tailored for specific use cases.
+- **Core Features**: Supports multi-agent orchestration, integrates with Linux environments, and provides tools for task automation, reasoning, and decision-making in AI systems.
 
-- **Linux-Centric & Open-Source**: Optimized for Linux environments, Agent Zero is open-source (MIT License) with active community contributions, facilitating rapid iteration and broad accessibility for developers.
+- **Technical Stack**: Built in Python with dependencies optimized for Linux, enabling high-performance agent interactions and real-time processing capabilities.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: agent0ai
-- Stars: 18726
+- Stars: 18728
 - Forks: 3723
 - Language: Python
 - Topics: agent, ai, assistant, autonomous, linux, zero
-- Last Updated: 2026-08-04T19:50:16Z
+- Last Updated: 2026-08-04T21:29:55Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-10T09:10:45Z

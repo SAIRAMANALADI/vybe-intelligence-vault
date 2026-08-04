@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-05T01:30:28.976271+05:30'
+collected_at: '2026-08-05T03:56:49.371844+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 263
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-31T20:03:39Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-05T01:30:28.976271+05:30'
-last_seen: '2026-08-05T01:30:28.976271+05:30'
-last_checked: '2026-08-05T01:30:28.976271+05:30'
+first_seen: '2026-08-05T03:56:49.371844+05:30'
+last_seen: '2026-08-05T03:56:49.371844+05:30'
+last_checked: '2026-08-05T03:56:49.371844+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent designed for Security Operations Centers (SOC), integrating OpenSearch/Elasticsearch monitoring with Retrieval-Augmented Generation (RAG) for behavioral memory and real-time anomaly validation using LLMs.
+- **Modular SOC Agent**: Python-based autonomous agent for Security Operations Centers (SOC), integrating OpenSearch/Elasticsearch monitoring with Retrieval-Augmented Generation (RAG) for behavioral memory and real-time anomaly validation using LLMs.
 
-- **RAG-Enhanced Anomaly Detection**: Builds contextual behavioral memory via RAG to improve threat detection, enabling the agent to validate anomalies dynamically by correlating historical and real-time data from monitored systems.
+- **RAG-Powered Memory & Detection**: Builds dynamic RAG-based memory from monitored data streams, enabling contextual threat detection and validation of anomalies through LLM-driven analysis.
 
-- **Autonomous Threat Hunting**: Executes skill-based automation for threat detection and hunting, leveraging LLMs to process and analyze security logs while maintaining modularity for extensibility across cybersecurity workflows.
+- **Automated Threat Hunting**: Supports SOC automation via skill-based modules for anomaly detection, threat hunting, and real-time validation, with modular design for extensibility.
 
 ## Why It Matters
 

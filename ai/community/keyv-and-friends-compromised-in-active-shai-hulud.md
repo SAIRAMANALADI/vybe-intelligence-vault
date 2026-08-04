@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack
 hn_url: https://news.ycombinator.com/item?id=49166874
-score: 195
+score: 222
 author: cimi_
-comments_count: 102
+comments_count: 110
 published_at: '2026-08-04T16:31:37+05:30'
-collected_at: '2026-08-05T01:28:08.801032+05:30'
+collected_at: '2026-08-05T03:54:40.019378+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:keyv-and-friends-compromised-in-active-shai-hulud
 first_seen: '2026-08-04T20:11:01.194730+05:30'
-last_seen: '2026-08-05T01:28:08.801032+05:30'
-last_checked: '2026-08-05T01:28:08.801032+05:30'
+last_seen: '2026-08-05T03:54:40.019378+05:30'
+last_checked: '2026-08-05T03:54:40.019378+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by cimi_. Score: 195, Comments: 102.
+Hacker News story by cimi_. Score: 222, Comments: 110.
 Original Link: https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: cimi_
-- Score: 195 Upvotes
-- Comments: 102 Discussions
+- Score: 222 Upvotes
+- Comments: 110 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49166874
 - Original Article: https://aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack
 

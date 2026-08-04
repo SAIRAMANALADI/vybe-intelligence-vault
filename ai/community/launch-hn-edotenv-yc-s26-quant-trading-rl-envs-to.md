@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://edotenv.com
 hn_url: https://news.ycombinator.com/item?id=49172936
-score: 11
+score: 24
 author: Mzzzzz
-comments_count: 4
+comments_count: 17
 published_at: '2026-08-05T00:06:02+05:30'
-collected_at: '2026-08-05T01:28:08.356424+05:30'
+collected_at: '2026-08-05T03:54:39.894866+05:30'
 tags:
 - hackernews
 - llm
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-edotenv-yc-s26-quant-trading-rl-envs-to
 first_seen: '2026-08-05T01:28:08.356424+05:30'
-last_seen: '2026-08-05T01:28:08.356424+05:30'
-last_checked: '2026-08-05T01:28:08.356424+05:30'
+last_seen: '2026-08-05T03:54:39.894866+05:30'
+last_checked: '2026-08-05T03:54:39.894866+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Mzzzzz. Score: 11, Comments: 4.
+Hacker News story by Mzzzzz. Score: 24, Comments: 17.
 Original Link: https://edotenv.com/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Mzzzzz
-- Score: 11 Upvotes
-- Comments: 4 Discussions
+- Score: 24 Upvotes
+- Comments: 17 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49172936
 - Original Article: https://edotenv.com
 

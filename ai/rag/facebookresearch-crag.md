@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-05T01:30:18.965558+05:30'
+collected_at: '2026-08-05T03:56:39.312513+05:30'
 published_at: '2026-07-19T17:15:41Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-05T01:30:18.965558+05:30'
-last_seen: '2026-08-05T01:30:18.965558+05:30'
-last_checked: '2026-08-05T01:30:18.965558+05:30'
+first_seen: '2026-08-05T03:56:39.312513+05:30'
+last_seen: '2026-08-05T03:56:39.312513+05:30'
+last_checked: '2026-08-05T03:56:39.312513+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,10 @@ health_score: 100
 ## Summary
 
 - **CRAG**: A comprehensive benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
-- **Components**: Includes standardized evaluation metrics, datasets, and reference implementations for assessing RAG pipelines in areas like factuality, hallucination detection, and context relevance.
-- **Implementation**: Provided as Jupyter Notebooks for modularity, enabling researchers to integrate custom RAG components and compare against baseline models.
+
+- **Implementation**: Primarily structured as Jupyter Notebooks, enabling modular evaluation of RAG components (retrievers, generators, and pipelines) with standardized metrics.
+
+- **Scope**: Covers multi-dimensional evaluation (e.g., factuality, robustness, efficiency) to benchmark state-of-the-art RAG models against baselines and adversarial conditions.
 
 ## Why It Matters
 

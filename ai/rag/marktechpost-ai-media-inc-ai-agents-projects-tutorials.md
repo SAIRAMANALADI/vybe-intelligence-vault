@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-05T01:31:08.993714+05:30'
+collected_at: '2026-08-05T03:57:29.373147+05:30'
 published_at: '2026-08-04T06:28:36Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
+- scripts
 - workflows
 stars: 2852
 language: Jupyter Notebook
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-02T16:58:05Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-05T01:31:08.993714+05:30'
-last_seen: '2026-08-05T01:31:08.993714+05:30'
-last_checked: '2026-08-05T01:31:08.993714+05:30'
+first_seen: '2026-08-05T03:57:29.373147+05:30'
+last_seen: '2026-08-05T03:57:29.373147+05:30'
+last_checked: '2026-08-05T03:57:29.373147+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on frameworks and tutorials for developing AI agents with collaborative capabilities, emphasizing agent interactions, task delegation, and coordination.
-- **Memory & reasoning loops**: Includes implementations for agent memory management, long-term context retention, and iterative reasoning processes to enhance decision-making.
-- **Agentic workflows**: Provides Jupyter Notebook-based projects for agentic RAG (Retrieval-Augmented Generation), planning, and execution loops in AI-driven applications.
+- **Multi-agent architectures**: Repository focuses on systems with multiple AI agents, emphasizing coordination, communication, and task delegation for complex workflows.
+- **Memory & reasoning loops**: Implements persistent memory structures and iterative reasoning cycles to enhance agent decision-making and contextual understanding.
+- **Agentic frameworks & RAG**: Demonstrates agentic development using Retrieval-Augmented Generation (RAG) for dynamic knowledge integration and workflow automation.
 
 ## Why It Matters
 

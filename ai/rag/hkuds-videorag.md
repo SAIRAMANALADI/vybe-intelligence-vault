@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-05T01:30:43.952780+05:30'
+collected_at: '2026-08-05T03:57:04.601969+05:30'
 published_at: '2026-08-04T15:40:14Z'
 tags:
+- dataset
 - github-repo
 - hackernews
 - python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-05T01:30:43.952780+05:30'
-last_seen: '2026-08-05T01:30:43.952780+05:30'
-last_checked: '2026-08-05T01:30:43.952780+05:30'
+first_seen: '2026-08-05T03:57:04.601969+05:30'
+last_seen: '2026-08-05T03:57:04.601969+05:30'
+last_checked: '2026-08-05T03:57:04.601969+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, metadata).
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, transcripts).
 
-- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs) and multi-modal encoders to extract, index, and retrieve semantically relevant video segments for dynamic Q&A or summarization.
+- **Multi-Modal Integration**: Leverages advanced techniques to segment, embed, and retrieve relevant video segments dynamically, bridging gaps between visual, auditory, and textual modalities for coherent multi-turn video-based Q&A.
 
-- **KDD'2026 Contribution**: Proposes novel retrieval mechanisms for scalable, real-time video interaction, addressing challenges in temporal alignment, context retention, and cross-modal fusion for unstructured video data.
+- **Scalability & Efficiency**: Optimized for large-scale video datasets with hierarchical retrieval and adaptive chunking, reducing computational overhead while maintaining high accuracy in long-context video comprehension.
 
 ## Why It Matters
 

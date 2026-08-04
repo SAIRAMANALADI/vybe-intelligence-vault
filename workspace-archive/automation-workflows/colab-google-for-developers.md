@@ -8,7 +8,7 @@ local_vault_path: ai/rag/colab-google-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Zero-setup cloud notebooks**: Hosted Jupyter environment with pre-configured runtimes, free GPUs/TPUs, and seamless Google Drive integration for instant collaboration.
+- **Zero-setup cloud notebooks**: Hosted Jupyter Notebook service with pre-configured runtimes, eliminating local setup; integrates GPUs/TPUs for ML acceleration.
 
-- **AI-driven coding assistant**: Real-time code generation, explanation, debugging, and autonomous analysis via natural language prompts (Gemini), reducing manual effort in model development and data prep.
+- **AI-driven coding assistant**: Natural language-based code generation, explanation, debugging, and autonomous analysis via Gemini; supports code transformation and model building.
 
-- **Enterprise-grade scalability**: Secure IAM-managed workspaces with regional storage (Dataform), 24-hour background
+- **Enterprise-grade features**: Secure IAM-managed workspaces, regional storage via Dataform, and scalable compute (Pro/Pro+ tiers) with extended backg
 
 ## Use Cases
 

@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vonzosten/awesome-LangGraph
-collected_at: '2026-08-05T01:32:54.117345+05:30'
+collected_at: '2026-08-05T03:59:14.463439+05:30'
 published_at: '2026-08-04T19:33:13Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - javascript
+- workflows
 stars: 1943
 language: JavaScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-11-02T15:54:00Z'
 pushed_at: '2026-07-10T12:16:13Z'
 resource_id: github:vonzosten/awesome-langgraph
-first_seen: '2026-08-05T01:32:54.117345+05:30'
-last_seen: '2026-08-05T01:32:54.117345+05:30'
-last_checked: '2026-08-05T01:32:54.117345+05:30'
+first_seen: '2026-08-05T03:59:14.463439+05:30'
+last_seen: '2026-08-05T03:59:14.463439+05:30'
+last_checked: '2026-08-05T03:59:14.463439+05:30'
 health_score: 100
 ---
 
@@ -30,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Curated Ecosystem Index**: A structured repository aggregating LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
-- **Technical Breadth**: Covers JavaScript-based implementations and tools within the LangGraph ecosystem, emphasizing LLM agent development and integration.
-- **Community-Driven Maintenance**: Actively updated (last commit: 2026-08-04) with 1,943 stars and 247 forks, reflecting ongoing community engagement and contributions.
+- **Technical Scope**: Focuses on JavaScript-based implementations, covering topics like AI agents, workflow orchestration, and LLM integrations within the LangGraph framework.
+- **Maintenance & Growth**: Actively updated (last commit: 2026-08-04) with 1,943 stars and 248 forks, reflecting community engagement and adoption in the LLM agent development space.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vonzosten
 - Stars: 1943
-- Forks: 247
+- Forks: 248
 - Language: JavaScript
 - Topics: ai, awesome, awesome-list, langchain, langgraph, llm, llm-agents
 - Last Updated: 2026-08-04T19:33:13Z

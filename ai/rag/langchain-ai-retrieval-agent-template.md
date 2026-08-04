@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/retrieval-agent-template
-collected_at: '2026-08-04T22:40:38.001060+05:30'
+collected_at: '2026-08-05T03:59:19.528463+05:30'
 published_at: '2026-08-02T12:38:43Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-08-21T20:47:35Z'
 pushed_at: '2026-07-25T18:57:25Z'
 resource_id: github:langchain-ai/retrieval-agent-template
-first_seen: '2026-08-04T22:40:38.001060+05:30'
-last_seen: '2026-08-04T22:40:38.001060+05:30'
-last_checked: '2026-08-04T22:40:38.001060+05:30'
+first_seen: '2026-08-05T03:59:19.528463+05:30'
+last_seen: '2026-08-05T03:59:19.528463+05:30'
+last_checked: '2026-08-05T03:59:19.528463+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template repository for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
-- **Technical Stack**: Python-based, leveraging LangGraph (Python library) for agent orchestration and retrieval workflows.
-- **Metadata**: 168 stars, 53 forks, last updated on 2026-08-02; focuses on LangGraph-specific templates and workflows.
+- **Template Purpose**: Provides a structured foundation for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
+- **Key Components**: Includes pre-configured workflows for document retrieval, state management, and agent orchestration, leveraging LangGraph's Python SDK.
+- **Dependencies**: Designed for integration with LangChain ecosystem tools, requiring Python 3.9+ and dependencies like `langgraph`, `langchain`, and vector store clients (e.g., Chroma, FAISS).
 
 ## Why It Matters
 

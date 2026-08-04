@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-08-04T20:23:10.297337+05:30'
+collected_at: '2026-08-05T04:04:16.083250+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-08-04T20:23:10.297337+05:30'
-last_seen: '2026-08-04T20:23:10.297337+05:30'
-last_checked: '2026-08-04T20:23:10.297337+05:30'
+first_seen: '2026-08-05T04:04:16.083250+05:30'
+last_seen: '2026-08-05T04:04:16.083250+05:30'
+last_checked: '2026-08-05T04:04:16.083250+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-provider TTS shim layer**: Go-based proxy engine (`tts-shims`) that standardizes API interactions for 14 TTS providers (OpenAI, ElevenLabs, Cartesia, etc.) by translating provider-specific requests into a unified interface for the Speechify API.
+- **Multi-Provider TTS Shim Layer**: Go-based repository providing provider-compatible shims (OpenAI, ElevenLabs, Cartesia, AWS Polly, etc.) that proxy requests to the unified Speechify API, enabling voice-agent Bring Your Own Carrier (BYOC) support.
 
-- **BYOC (Bring Your Own Carrier) architecture**: Implements a modular design with one shared Go engine and individual binaries per provider, enabling voice-agent systems to integrate arbitrary TTS backends via Speechify’s infrastructure.
+- **Modular Architecture**: Single Go engine with per-provider binaries, ensuring minimal overhead and consistent integration across 14+ TTS providers while maintaining provider-specific compatibility.
 
-- **Minimalist implementation**: Single-star repository (as of last update) with no forks, emphasizing lightweight deployment while supporting real-time TTS conversion across diverse provider ecosystems.
+- **Voice-AI Optimization**: Designed for high-performance text-to-speech (TTS) in voice-agent applications, last updated July 2026 with active development focus on extensibility and provider parity.
 
 ## Why It Matters
 

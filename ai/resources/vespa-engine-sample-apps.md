@@ -4,8 +4,8 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vespa-engine/sample-apps
-collected_at: '2026-08-01T14:12:37.353473+05:30'
-published_at: '2026-07-29T17:44:43Z'
+collected_at: '2026-08-05T04:02:35.138003+05:30'
+published_at: '2026-08-04T09:10:35Z'
 tags:
 - github-repo
 - hackernews
@@ -16,11 +16,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2017-08-16T09:12:25Z'
-pushed_at: '2026-07-29T17:44:37Z'
+pushed_at: '2026-08-04T09:09:47Z'
 resource_id: github:vespa-engine/sample-apps
-first_seen: '2026-08-01T14:12:37.353473+05:30'
-last_seen: '2026-08-01T14:12:37.353473+05:30'
-last_checked: '2026-08-01T14:12:37.353473+05:30'
+first_seen: '2026-08-05T04:02:35.138003+05:30'
+last_seen: '2026-08-05T04:02:35.138003+05:30'
+last_checked: '2026-08-05T04:02:35.138003+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Contains sample applications demonstrating usage of [Vespa.ai](https://vespa.ai), an open-source big data serving engine optimized for low-latency, scalable data processing and retrieval.
-- **Technical Stack**: Primarily Python-based examples, showcasing Vespa’s integration with Python for application development and deployment.
-- **Last Updated**: July 29, 2026 (commit timestamp: `2026-07-29T17:44:43Z`), indicating active maintenance and updates.
+- Repository containing sample applications for Vespa, an open-source big data serving engine.
+- Implemented in Python, with 410 stars and 126 forks as of the last update.
+- Last updated on August 4, 2026, serving as a technical reference for Vespa's deployment and usage.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 126
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-29T17:44:43Z
+- Last Updated: 2026-08-04T09:10:35Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2017-08-16T09:12:25Z
-- Pushed At: 2026-07-29T17:44:37Z
+- Pushed At: 2026-08-04T09:09:47Z
 
 ## Possible Use Cases
 

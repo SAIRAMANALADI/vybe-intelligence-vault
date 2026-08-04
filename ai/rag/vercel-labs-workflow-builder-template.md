@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-08-04T22:38:57.891717+05:30'
+collected_at: '2026-08-05T03:57:39.456040+05:30'
 published_at: '2026-08-03T15:41:30Z'
 tags:
 - agents
-- anthropic
 - github-repo
-- openai
 - rag
 - scripts
 - typescript
@@ -23,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-08-04T22:38:57.891717+05:30'
-last_seen: '2026-08-04T22:38:57.891717+05:30'
-last_checked: '2026-08-04T22:38:57.891717+05:30'
+first_seen: '2026-08-05T03:57:39.456040+05:30'
+last_seen: '2026-08-05T03:57:39.456040+05:30'
+last_checked: '2026-08-05T03:57:39.456040+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based visual AI workflow automation platform** enabling drag-and-drop construction of multi-agent AI systems with real-time execution capabilities.
+- **Visual AI Workflow Automation**: Template for building AI-driven workflow automation platforms with a visual interface, leveraging TypeScript for frontend/backend integration.
 
-- **Repository structure optimized for Vercel deployments**, integrating AI agent orchestration with serverless functions for scalable, low-latency workflow execution.
+- **Agent-Based Architecture**: Supports modular agent systems for task orchestration, enabling dynamic AI agent interactions within workflows.
 
-- **Pre-configured template** with built-in AI agent templates, state management, and API integrations (e.g., OpenAI, Anthropic) to accelerate development of custom AI workflows.
+- **Vercel-Optimized Deployment**: Pre-configured for Vercel deployments, featuring CI/CD pipelines and scalable infrastructure for AI-driven applications.
 
 ## Why It Matters
 

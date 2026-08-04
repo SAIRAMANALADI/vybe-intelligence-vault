@@ -1,71 +1,64 @@
 ---
-title: weaviate/weaviate
+title: Release v1.37.0 - Secure MCP Server, Extensible tokenizers, Incremental backups,
+  Internal cluster comms improvements, Al
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-08-05T01:35:46.577931+05:30'
-published_at: '2026-08-04T15:04:15Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/weaviate/weaviate/releases/tag/v1.37.0
+published_at: '2026-08-05T04:06:56.295178+05:30'
+collected_at: '2026-08-05T04:06:56.295195+05:30'
 tags:
-- github-repo
-- go
+- agents
+- anthropic
+- frontend_ui
 - hackernews
+- models
+- producthunt
 - rag
-stars: 16690
-language: Go
+- reddit
+- scripts
+- web-crawled
+- workflows
 status: active
-license: BSD-3-Clause
-archived: false
-created_at: '2016-03-30T15:03:17Z'
-pushed_at: '2026-08-04T19:51:03Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-08-05T01:35:46.577931+05:30'
-last_seen: '2026-08-05T01:35:46.577931+05:30'
-last_checked: '2026-08-05T01:35:46.577931+05:30'
+first_seen: '2026-08-05T04:06:56.295195+05:30'
+last_seen: '2026-08-05T04:06:56.295195+05:30'
+last_checked: '2026-08-05T04:06:56.295195+05:30'
 health_score: 100
 ---
 
-# weaviate/weaviate
+# Release v1.37.0 - Secure MCP Server, Extensible tokenizers, Incremental backups, Internal cluster comms improvements, Al
 
 ## Summary
 
-- **Hybrid Architecture**: Combines structured data storage with vector embeddings, enabling both exact filtering (e.g., SQL-like queries) and vector similarity search (e.g., ANN via HNSW) in a single system.
-
-- **Cloud-Native & Scalable**: Implements fault tolerance, horizontal scaling, and gRPC-based communication, designed for MLOps and production-grade deployments.
-
-- **Multi-Modal Search**: Supports semantic, hybrid (vector + BM25), image, and neural search with integrations for generative AI pipelines (e.g., RAG).
+- **Secure MCP Server (Preview)**: Introduces a native Model Context Protocol (MCP) server enabling AI agents (e.g., Claude, IDEs) to natively interact with Weaviate for hybrid search, RAG, and multi-tenancy without custom code, shifting from passive retrieval to active "long-term memory" for agentic workflows.
+- **Extensible Tokenizers (Phase 1)**: Transitions tokenization from English-centric to self-serve, observable, and extensible for multilingual workloads, with initial improvements for Latin languages and planned CJK support in Phase 2.
+- **Collection Export (Preview)**: Adds scalable collection export to cloud storage (AWS/GCP/Azure) and filesystem, supporting multi-node exports, incremental backups, and RBAC integration with optimizations for concurrency and error handling.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: weaviate
-- Stars: 16690
-- Forks: 1357
-- Language: Go
-- Topics: approximate-nearest-neighbor-search, generative-search, grpc, hnsw, hybrid-search, image-search, information-retrieval, mlops, nearest-neighbor-search, neural-search, recommender-system, search-engine, semantic-search, semantic-search-engine, similarity-search, vector-database, vector-search, vector-search-engine, vectors, weaviate
-- Last Updated: 2026-08-04T15:04:15Z
-- License: BSD-3-Clause
-- Archived: No
-- Created At: 2016-03-30T15:03:17Z
-- Pushed At: 2026-08-04T19:51:03Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-05T04:06:56.295178+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- anthropic
+- frontend_ui
+- hackernews
+- models
+- producthunt
+- rag
+- reddit
+- scripts
+- web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.com/weaviate/weaviate
+Original source: https://github.com/weaviate/weaviate/releases/tag/v1.37.0

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-05T01:29:28.896765+05:30'
+collected_at: '2026-08-05T03:55:49.266877+05:30'
 published_at: '2026-08-04T17:44:33Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 1686
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-01T20:27:22Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-05T01:29:28.896765+05:30'
-last_seen: '2026-08-05T01:29:28.896765+05:30'
-last_checked: '2026-08-05T01:29:28.896765+05:30'
+first_seen: '2026-08-05T03:55:49.266877+05:30'
+last_seen: '2026-08-05T03:55:49.266877+05:30'
+last_checked: '2026-08-05T03:55:49.266877+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (backend), Next.js (frontend), PostgreSQL (database), and Docker for containerization, with TypeScript for frontend and Python for backend.
+- **Tech Stack**: Full-stack template with FastAPI (Python) backend, Next.js (TypeScript/React) frontend, PostgreSQL database, and Docker containerization.
 
-- **AI Capabilities**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for AI agent orchestration, RAG (Retrieval-Augmented Generation), and LLM interactions, plus 20+ third-party integrations.
+- **AI Capabilities**: Pre-integrated with AI agent frameworks (LangChain, LangGraph, CrewAI, Pydantic-AI), RAG pipelines, streaming APIs, and 20+ third-party integrations.
 
-- **Features**: Includes real-time streaming via WebSocket, authentication, Pydantic-Deep for data validation, and pre-configured AI agent workflows with modular architecture for rapid deployment.
+- **Features**: Built-in authentication, WebSocket support, Pydantic data validation (Deep), and modular architecture for rapid AI application deployment.
 
 ## Why It Matters
 

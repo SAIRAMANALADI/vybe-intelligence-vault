@@ -10,12 +10,12 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (template - ESSENTIAL Tier)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------) (framework - ESSENTIAL Tier)
-- [Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations](https://anthropic.com/news/investigating-incidents-cybersecurity-evals) (benchmark - ESSENTIAL Tier)
-- [Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization](https://arxiv.org/abs/2606.25656) (framework - ESSENTIAL Tier)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (framework - ESSENTIAL Tier)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
+- [hllqkb/Spring-AI-Ailibaba-Best-Practices](https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,7 +24,7 @@ https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
 - [OpenAI · GitHub](https://github.com/openai)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-08-05 01:46 IST*
+*Last updated: 2026-08-05 04:12 IST*

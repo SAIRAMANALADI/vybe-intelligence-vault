@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-05T01:30:03.953154+05:30'
+collected_at: '2026-08-05T03:56:24.282808+05:30'
 published_at: '2026-08-02T02:34:01Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- scripts
 stars: 4380
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-05T01:30:03.953154+05:30'
-last_seen: '2026-08-05T01:30:03.953154+05:30'
-last_checked: '2026-08-05T01:30:03.953154+05:30'
+first_seen: '2026-08-05T03:56:24.282808+05:30'
+last_seen: '2026-08-05T03:56:24.282808+05:30'
+last_checked: '2026-08-05T03:56:24.282808+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Content**: Provides hands-on lessons (12+ sessions) and source code for building production-ready LLM and RAG systems using LLMOps best practices, covering end-to-end development from model training to deployment.
+- **End-to-End LLM & RAG System Development**: Course provides hands-on guidance for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
 
-- **Technical Stack**: Implements infrastructure-as-code (Pulumi), containerization (Docker), vector databases (Qdrant), MLOps tools (Comet-ML, Qwak), and streaming (Bytewax) with AWS integration.
+- **Technical Stack & Tools**: Implements AWS, Bytewax, Comet-ML, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps), and Superlinked for infrastructure, monitoring, and deployment with Docker containerization.
 
-- **Focus Areas**: Covers ML system design, generative AI, and LLMOps, emphasizing scalable, production-grade deployments with infrastructure automation and monitoring.
+- **ML System Design & MLOps Focus**: Covers ML system architecture, infrastructure-as-code (IaC), and scalable deployment strategies for generative AI applications, emphasizing reproducibility and operational efficiency.
 
 ## Why It Matters
 

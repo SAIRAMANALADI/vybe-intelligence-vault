@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-05T01:30:28.890845+05:30'
+collected_at: '2026-08-05T03:56:49.288721+05:30'
 published_at: '2026-07-30T15:36:09Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-05T01:30:28.890845+05:30'
-last_seen: '2026-08-05T01:30:28.890845+05:30'
-last_checked: '2026-08-05T01:30:28.890845+05:30'
+first_seen: '2026-08-05T03:56:49.288721+05:30'
+last_seen: '2026-08-05T03:56:49.288721+05:30'
+last_checked: '2026-08-05T03:56:49.288721+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting the external knowledge base to manipulate LLM outputs, demonstrated on USENIX Security 2025.
-- **Technical Mechanism**: Exploits adversarial perturbations in retrieved documents to induce targeted misinformation or biased responses, bypassing conventional safety mechanisms in LLMs.
-- **Evaluation & Impact**: Validates attack efficacy on multiple RAG pipelines, showing high success rates in knowledge corruption while proposing defensive strategies to mitigate such threats.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating retrieved documents to mislead LLM outputs.
+
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by injecting adversarial documents into the retrieval corpus, causing LLMs to generate incorrect or biased responses while maintaining plausible coherence.
+
+- **Evaluation & Impact**: Validates effectiveness on multiple RAG benchmarks, showing significant degradation in response accuracy and highlighting risks to trustworthy AI systems.
 
 ## Why It Matters
 

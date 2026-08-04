@@ -3,8 +3,10 @@ title: RUC-NLPIR/FlashRAG
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-08-05T01:30:19.027620+05:30'
+source_url: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
+resource_id: github:ruc-nlpir/flashrag
+-----dba899ae0355---------------------------------------
+collected_at: '2026-08-05T03:59:49.459763+05:30'
 published_at: '2026-08-04T13:05:09Z'
 tags:
 - benchmark
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-07-19T10:20:30Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-08-05T01:30:19.027620+05:30'
-last_seen: '2026-08-05T01:30:19.027620+05:30'
-last_checked: '2026-08-05T01:30:19.027620+05:30'
+first_seen: '2026-08-05T03:59:49.459763+05:30'
+last_seen: '2026-08-05T03:59:49.459763+05:30'
+last_checked: '2026-08-05T03:59:49.459763+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
+- **FlashRAG Toolkit**: A Python-based framework designed for efficient **Retrieval-Augmented Generation (RAG)** research, optimized for speed and scalability in large language model (LLM) applications.
 
-- **Benchmark & Dataset Integration**: Provides built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation performance.
+- **Key Features**: Provides **benchmarking tools, curated datasets, and modular components** for evaluating and deploying RAG pipelines, with a focus on low-latency inference and modularity.
 
-- **Modular Architecture**: Implements a modular framework with plug-and-play components for retrieval, indexing, and generation, facilitating rapid prototyping and experimentation in RAG pipelines.
+- **WWW2025 Resource**: Developed by **RUC-NLPIR**, the toolkit supports rapid experimentation with RAG architectures, integrating retrieval, re-ranking, and generation stages in a unified pipeline.
 
 ## Why It Matters
 
@@ -70,4 +72,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/RUC-NLPIR/FlashRAG
+Original source: https://github.com/RUC-NLPIR/FlashRAG?source=post_page-----dba899ae0355---------------------------------------

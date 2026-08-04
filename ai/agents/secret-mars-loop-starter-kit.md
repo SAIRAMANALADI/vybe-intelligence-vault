@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/secret-mars/loop-starter-kit
-collected_at: '2026-08-05T01:32:39.032915+05:30'
+collected_at: '2026-08-05T03:58:59.426132+05:30'
 published_at: '2026-04-15T18:57:02Z'
 tags:
 - agents
 - github-repo
 - unknown
-- workflows
 stars: 0
 language: Unknown
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-02-20T00:25:20Z'
 pushed_at: '2026-05-06T17:07:51Z'
 resource_id: github:secret-mars/loop-starter-kit
-first_seen: '2026-08-05T01:32:39.032915+05:30'
-last_seen: '2026-08-05T01:32:39.032915+05:30'
-last_checked: '2026-08-05T01:32:39.032915+05:30'
+first_seen: '2026-08-05T03:58:59.426132+05:30'
+last_seen: '2026-08-05T03:58:59.426132+05:30'
+last_checked: '2026-08-05T03:58:59.426132+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Pre-configured 10-phase autonomous agent loop with perpetual execution and self-updating prompts, derived from 166+ production cycles.
-- **Repository Status**: Fork-ready template with 20 forks, no stars, and unspecified primary language; last updated on 2026-04-15.
-- **Purpose**: Designed as a starter kit for AIBTC (AI Bitcoin) agents, enabling rapid deployment of autonomous workflows with minimal setup.
+- **Template Structure**: Autonomous agent loop template with a 10-phase perpetual cycle, designed for AIBTC, featuring a self-updating prompt mechanism.
+- **Production Basis**: Built on 166+ production cycles, ensuring robustness and scalability for autonomous agent development.
+- **Repository Status**: Fork-ready template with 20 forks and last updated on 2026-04-15, though language and topics remain unspecified.
 
 ## Why It Matters
 

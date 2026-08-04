@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-08-05T01:30:09.047709+05:30'
+collected_at: '2026-08-05T03:56:29.302285+05:30'
 published_at: '2026-08-04T10:09:37Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-08-05T01:30:09.047709+05:30'
-last_seen: '2026-08-05T01:30:09.047709+05:30'
-last_checked: '2026-08-05T01:30:09.047709+05:30'
+first_seen: '2026-08-05T03:56:29.302285+05:30'
+last_seen: '2026-08-05T03:56:29.302285+05:30'
+last_checked: '2026-08-05T03:56:29.302285+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, facilitating research in integrating knowledge graphs with LLMs.
-- **Technical Scope**: Covers **knowledge graph construction**, **retrieval mechanisms**, and **LLM augmentation** techniques, emphasizing scalable and efficient graph-augmented RAG pipelines.
-- **Community-Driven**: Maintains active updates (last sync: **2026-08-04**) with **2,569 stars** and **226 forks**, indicating strong community engagement in advancing GraphRAG methodologies.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG methodologies.
+- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, structured knowledge integration) and adjacent fields (e.g., large language models, retrieval-augmented generation).
+- **Repository Metrics**: Maintained as of **2026-08-04**, with **2,569 stars** and **226 forks**, indicating active community engagement in graph-centric RAG research.
 
 ## Why It Matters
 

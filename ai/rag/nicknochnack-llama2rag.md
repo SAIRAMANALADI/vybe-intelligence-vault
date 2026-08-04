@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nicknochnack/Llama2RAG
-collected_at: '2026-08-05T01:29:53.894285+05:30'
+collected_at: '2026-08-05T03:56:14.305731+05:30'
 published_at: '2026-05-24T09:34:54Z'
 tags:
+- dataset
 - github-repo
 - hackernews
 - jupyter notebook
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-08-18T00:18:33Z'
 pushed_at: '2023-08-18T00:23:09Z'
 resource_id: github:nicknochnack/llama2rag
-first_seen: '2026-08-05T01:29:53.894285+05:30'
-last_seen: '2026-08-05T01:29:53.894285+05:30'
-last_checked: '2026-08-05T01:29:53.894285+05:30'
+first_seen: '2026-08-05T03:56:14.305731+05:30'
+last_seen: '2026-08-05T03:56:14.305731+05:30'
+last_checked: '2026-08-05T03:56:14.305731+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using **Llama 2 70B** and **Llama Index** in a Jupyter Notebook environment.
-- **Scalability**: Leverages a large language model (LLM) for enhanced contextual retrieval and generation, optimized for high-performance inference.
-- **Updates**: Last modified on **May 24, 2026**, ensuring compatibility with recent advancements in RAG frameworks.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model and LlamaIndex for document retrieval and context integration.
+- **Environment**: Developed in a Jupyter Notebook, leveraging Python-based libraries for LLM interaction and vectorized document processing.
+- **Scalability**: Designed for extensibility, supporting custom dataset ingestion and retrieval pipelines for enterprise-grade RAG applications.
 
 ## Why It Matters
 

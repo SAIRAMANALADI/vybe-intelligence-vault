@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-05T01:30:08.928628+05:30'
+collected_at: '2026-08-05T03:56:29.277269+05:30'
 published_at: '2026-08-01T13:42:45Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 1340
@@ -18,9 +20,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-05T01:30:08.928628+05:30'
-last_seen: '2026-08-05T01:30:08.928628+05:30'
-last_checked: '2026-08-05T01:30:08.928628+05:30'
+first_seen: '2026-08-05T03:56:29.277269+05:30'
+last_seen: '2026-08-05T03:56:29.277269+05:30'
+last_checked: '2026-08-05T03:56:29.277269+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling state-of-the-art research and implementations in **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and hybrid architectures.
+- **Curated RAG Resources**: A comprehensive repository aggregating advanced techniques, tools, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), including embeddings, retrieval methods, and hybrid architectures.
 
-- **Technical Scope**: Focuses on advanced RAG techniques, including **retrieval-information methods**, **LLM-embedding integration**, and **RAG-embeddings optimization**, with emphasis on improving factuality, context relevance, and generation quality in LLMs.
+- **Technical Focus**: Covers key topics such as dense/sparse embeddings, retrieval strategies (e.g., multi-hop, iterative), and integration with LLMs for enhanced factuality, context-awareness, and domain adaptation.
 
-- **Community Metrics**: High engagement with **1,340 stars** and **90 forks**, indicating active community interest; last updated **2026-08-01**, ensuring relevance to recent advancements in LLM-RAG research.
+- **Active Maintenance**: Last updated in 2026, indicating ongoing updates with recent advancements in RAG, including novel frameworks, benchmarks, and optimization techniques for production-grade LLM applications.
 
 ## Why It Matters
 

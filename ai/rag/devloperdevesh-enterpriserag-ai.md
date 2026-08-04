@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-05T01:30:33.895107+05:30'
+collected_at: '2026-08-05T03:56:54.287135+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-05T01:30:33.895107+05:30'
-last_seen: '2026-08-05T01:30:33.895107+05:30'
-last_checked: '2026-08-05T01:30:33.895107+05:30'
+first_seen: '2026-08-05T03:56:54.287135+05:30'
+last_seen: '2026-08-05T03:56:54.287135+05:30'
+last_checked: '2026-08-05T03:56:54.287135+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Leverages eBPF for low-overhead, kernel-level monitoring and security enforcement in AI agent workloads, ensuring real-time governance without significant performance overhead.
+- **Linux-Native & eBPF Integration**: Implements a Linux-native security and governance framework for AI agent workloads using eBPF for low-level system monitoring and enforcement.
 
-- **Enterprise-Grade RAG Architecture**: Implements a scalable Retrieval-Augmented Generation (RAG) system with TypeScript backend, FastAPI for microservices, and vector DB integration for high-performance semantic search and contextual AI responses.
+- **Enterprise-Grade RAG Pipeline**: Deploys a Retrieval-Augmented Generation (RAG) system with FastAPI backend, TypeScript frontend, and vector database integration for scalable AI-driven SaaS applications.
 
-- **Security & Governance Mesh**: Provides a SaaS-ready framework for AI workloads with built-in governance controls, multi-tenancy support, and compliance-ready features for enterprise deployments.
+- **Security & Governance Mesh**: Enforces real-time security policies and compliance across AI workloads via a distributed mesh architecture, leveraging LLM-based governance for adaptive control.
 
 ## Why It Matters
 

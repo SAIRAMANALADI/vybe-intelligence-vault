@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/explodinggradients/ragas
-collected_at: '2026-08-04T17:11:21.370754+05:30'
-published_at: '2026-08-04T10:37:26Z'
+collected_at: '2026-08-05T03:59:59.621784+05:30'
+published_at: '2026-08-04T18:29:07Z'
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 - workflows
-stars: 15117
+stars: 15124
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +20,9 @@ archived: false
 created_at: '2023-05-08T17:48:04Z'
 pushed_at: '2026-02-24T07:47:19Z'
 resource_id: github:explodinggradients/ragas
-first_seen: '2026-08-04T17:11:21.370754+05:30'
-last_seen: '2026-08-04T17:11:21.370754+05:30'
-last_checked: '2026-08-04T17:11:21.370754+05:30'
+first_seen: '2026-08-05T03:59:59.621784+05:30'
+last_seen: '2026-08-05T03:59:59.621784+05:30'
+last_checked: '2026-08-05T03:59:59.621784+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Ragas**: A Python library for evaluating LLM applications, focusing on RAG (Retrieval-Augmented Generation) pipelines with metrics like faithfulness, answer relevance, and context precision.
-- **Key Features**: Includes 11+ evaluation metrics, supports both reference-free and reference-based evaluations, and integrates with popular LLM frameworks (e.g., LangChain, LlamaIndex).
-- **Use Cases**: Designed for production-grade LLM evaluation, enabling automated testing, benchmarking, and performance monitoring in LLMOps workflows.
+- **RAGAS Framework**: Open-source Python library designed for evaluating Retrieval-Augmented Generation (RAG) and LLM applications with 12+ automated metrics (e.g., faithfulness, answer relevance, context precision).
+- **Evaluation Metrics**: Includes both reference-free (e.g., `faithfulness`, `answer_relevance`) and reference-based (e.g., `context_recall`, `context_precision`) metrics for comprehensive LLM performance assessment.
+- **Integration & Scalability**: Supports seamless integration with evaluation pipelines (e.g., LangChain, TruLens) and scales via batch processing for large-scale LLM evaluation workflows.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: explodinggradients
-- Stars: 15117
-- Forks: 1601
+- Stars: 15124
+- Forks: 1600
 - Language: Python
 - Topics: evaluation, llm, llmops
-- Last Updated: 2026-08-04T10:37:26Z
+- Last Updated: 2026-08-04T18:29:07Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-08T17:48:04Z

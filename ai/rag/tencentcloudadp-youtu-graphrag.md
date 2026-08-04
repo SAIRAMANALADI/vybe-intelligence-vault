@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-05T01:30:48.941734+05:30'
+collected_at: '2026-08-05T03:57:09.628417+05:30'
 published_at: '2026-08-04T07:22:04Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-05T01:30:48.941734+05:30'
-last_seen: '2026-08-05T01:30:48.941734+05:30'
-last_checked: '2026-08-05T01:30:48.941734+05:30'
+first_seen: '2026-08-05T03:57:09.628417+05:30'
+last_seen: '2026-08-05T03:57:09.628417+05:30'
+last_checked: '2026-08-05T03:57:09.628417+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Agent Framework**: Introduces Youtu-GraphRAG, a vertically integrated agent system that unifies multi-agent collaboration for graph-based retrieval-augmented reasoning, optimizing complex task decomposition and execution.
+- **Vertically Unified Agents**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph-based knowledge structures.
 
-- **Graph-Centric RAG**: Implements a graph-structured retrieval mechanism where agents dynamically construct and traverse knowledge graphs to enhance context-aware reasoning, improving accuracy in multi-hop and cross-domain queries.
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and synthesize structured knowledge from heterogeneous graphs for enhanced LLM reasoning.
 
-- **ICLR 2026 Contribution**: Proposes a novel architecture combining graph neural networks (GNNs) with large language models (LLMs) to enable scalable, interpretable reasoning over heterogeneous graph data, validated on proprietary and public benchmarks.
+- **ICLR 2026 Framework**: Proposes a novel benchmarking system for evaluating agentic graph reasoning, combining dynamic graph construction, adaptive retrieval, and multi-step reasoning in a unified pipeline optimized for Python-based implementations.
 
 ## Why It Matters
 

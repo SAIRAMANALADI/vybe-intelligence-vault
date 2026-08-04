@@ -13,13 +13,14 @@ collected_at: '2026-08-05T01:28:09.545599+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:online-ad-giant-adform-was-hacked-proving-once-aga
 first_seen: '2026-08-04T22:35:54.747024+05:30'
 last_seen: '2026-08-05T01:28:09.545599+05:30'
 last_checked: '2026-08-05T01:28:09.545599+05:30'
 health_score: 100
 ---
+
 
 # Online ad giant Adform was hacked, proving once again why ad blockers are needed
 

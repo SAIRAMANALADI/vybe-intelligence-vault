@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-05T01:35:13.468788+05:30'
-collected_at: '2026-08-05T01:35:13.468797+05:30'
+published_at: '2026-08-05T04:01:03.992786+05:30'
+collected_at: '2026-08-05T04:01:03.992801+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-05T01:35:13.468797+05:30'
-last_seen: '2026-08-05T01:35:13.468797+05:30'
-last_checked: '2026-08-05T01:35:13.468797+05:30'
+first_seen: '2026-08-05T04:01:03.992801+05:30'
+last_seen: '2026-08-05T04:01:03.992801+05:30'
+last_checked: '2026-08-05T04:01:03.992801+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript apps, including GPU acceleration for performance-critical workloads.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo app hosting directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript deployments, including GPU acceleration options.
 
-- **SDK & Integration**: Built-in Python SDK (Gradio) allows rapid ML app development, while Docker support enables arbitrary containerized deployments; GitHub Actions integration facilitates CI/CD workflows.
+- **Storage & Compute**: Spaces support disk usage/storage management, custom domain configurations, and GPU upgrades (including ZeroGPU), with options for Docker-based arbitrary environments and embedded Space integrations.
 
-- **Storage & Scalability**: Spaces support disk usage tracking, custom domains, and ZeroGPU mode; advanced configurations include MCP server integration, API endpoints, and embeddable demos for collaborative ML showcasing.
+- **Integration & Automation**: Supports GitHub Actions for CI/CD, OAuth-based authentication, MCP server configurations, and API endpoint deployments, with analytics for download stats and performance monitoring.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T01:35:13.468788+05:30
+- Published: 2026-08-05T04:01:03.992786+05:30
 
 ## Related Tags
 

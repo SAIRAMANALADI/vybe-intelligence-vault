@@ -12,11 +12,11 @@ authors:
 - Kuniko Saito
 - Jun Suzuki
 year: 2025
-citation_count: 55
+citation_count: 57
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-07-31T01:21:35.789530+05:30'
+collected_at: '2026-08-05T03:54:38.507759+05:30'
 tags:
 - augmented
 - dataset
@@ -28,8 +28,8 @@ tags:
 status: active
 resource_id: blog:vdocrag-retrieval-augmented-generation-over-visual
 first_seen: '2026-07-19T16:15:03.003990+05:30'
-last_seen: '2026-07-31T01:21:35.789530+05:30'
-last_checked: '2026-07-31T01:21:35.789530+05:30'
+last_seen: '2026-08-05T03:54:38.507759+05:30'
+last_checked: '2026-08-05T03:54:38.507759+05:30'
 health_score: 100
 ---
 
@@ -47,7 +47,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Ryota Tanaka, Taichi Iki, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Jun Suzuki
 - Publication Year: 2025
-- Citation Count: 55
+- Citation Count: 57
 - Paper Link: https://semanticscholar.org/paper/92c437def1133aafbd7bd98fe9185cb84aa5b10d
 - Code Link: None
 - Code Stars: N/A

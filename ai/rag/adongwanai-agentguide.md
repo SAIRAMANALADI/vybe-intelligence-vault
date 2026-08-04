@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-08-05T01:33:24.150304+05:30'
+collected_at: '2026-08-05T03:59:44.475871+05:30'
 published_at: '2026-08-04T19:38:59Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-08-04T06:02:35Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-08-05T01:33:24.150304+05:30'
-last_seen: '2026-08-05T01:33:24.150304+05:30'
-last_checked: '2026-08-05T01:33:24.150304+05:30'
+first_seen: '2026-08-05T03:59:44.475871+05:30'
+last_seen: '2026-08-05T03:59:44.475871+05:30'
+last_checked: '2026-08-05T03:59:44.475871+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Comprehensive guide covering AI agent development, advanced RAG (LangGraph, GraphRAG, GRPO), multi-agent systems, and SFT techniques, with practical tutorials and job-hunting resources for transitioning into LLM roles.
+- **Comprehensive AI Agent Development Guide**: Covers LangGraph, advanced RAG, multi-agent systems, and CrewAI, with practical implementations and tutorials for AI agent development.
 
-- **Technical Depth**: Integrates algorithmic engineering, reinforcement learning, and data synthesis methodologies, alongside interview preparation materials and problem sets tailored for AI/ML roles.
+- **Interview & Career Resources**: Provides interview preparation materials, job-hunting strategies, and algorithm engineering insights tailored for transitioning into large model roles.
 
-- **Tooling & Frameworks**: Focuses on LangChain, CrewAI, and LangGraph implementations, with curated content on agentic RAG, job interview strategies, and algorithmic problem-solving for LLM engineering positions.
+- **Technical Deep Dives**: Includes topics on GRPO, SFT, graph-based RAG, data synthesis, and reinforcement learning, with a structured repository of technical content and tools.
 
 ## Why It Matters
 

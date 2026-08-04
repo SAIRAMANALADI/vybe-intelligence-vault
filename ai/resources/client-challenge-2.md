@@ -3,16 +3,16 @@ title: Client Challenge
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://support.mozilla.org/
-published_at: '2026-08-04T17:17:17.718572+05:30'
-collected_at: '2026-08-04T17:17:17.718584+05:30'
+source_url: https://support.mozilla.org/en-US/kb/javascript-settings-for-interactive-web-pages
+published_at: '2026-08-05T04:06:24.062340+05:30'
+collected_at: '2026-08-05T04:06:24.062349+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:client-challenge
-first_seen: '2026-08-04T17:17:17.718584+05:30'
-last_seen: '2026-08-04T17:17:17.718584+05:30'
-last_checked: '2026-08-04T17:17:17.718584+05:30'
+first_seen: '2026-08-05T04:06:24.062349+05:30'
+last_seen: '2026-08-05T04:06:24.062349+05:30'
+last_checked: '2026-08-05T04:06:24.062349+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Requirement**: The webpage requires JavaScript to function, which is currently disabled in the browser.
-- **Potential Causes**: Disabled JavaScript, browser extensions, network issues, or browser settings may be preventing the page from loading.
-- **Recommended Actions**: Enable JavaScript, check network connection, disable ad blockers, or switch to a different browser.
+- JavaScript is disabled in the browser, preventing site functionality.
+- Possible causes include browser extensions, network issues, or browser settings.
+- Recommended actions: enable JavaScript, check connection, disable ad blockers, or switch browsers.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T17:17:17.718572+05:30
+- Published: 2026-08-05T04:06:24.062340+05:30
 
 ## Related Tags
 
@@ -40,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://support.mozilla.org/
+Original source: https://support.mozilla.org/en-US/kb/javascript-settings-for-interactive-web-pages

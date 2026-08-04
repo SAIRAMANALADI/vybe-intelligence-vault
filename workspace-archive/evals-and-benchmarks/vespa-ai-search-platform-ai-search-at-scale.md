@@ -6,13 +6,12 @@ source_url: https://vespa.ai/
 resource_id: blog:vespa-ai-search-platform-ai-search-at-scale
 local_vault_path: ai/rag/vespa-ai-search-platform-ai-search-at-scale.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- benchmark
 - hackernews
 - rag
 - web-crawled
@@ -26,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Vector Search Optimization**: Emphasizes the need for AI agents to leverage vector search techniques akin to 2010 quantitative finance methods, focusing on high-dimensional data retrieval and similarity-based querying.
-
-- **Hybrid Retrieval Systems**: Advocates for combining traditional keyword-based search with advanced vector search to enhance precision and recall in information retrieval tasks.
-
-- **Performance Benchmarking**: Highlights the importance of benchmarking search performance a
+- **Vector Search Dominance**: The article emphasizes the resurgence of vector search techniques, reminiscent of 2010 quantitative finance methods, as a core mechanism for AI agents to retrieve information efficiently.
+- **Hybrid Retrieval Systems**: Proposes combining traditional keyword-based search with modern vector search to enhance precision and recall, leveraging both lexical and semantic understanding.
+- **Performance Optimization**: Highlights the need for low-latency, high-throughput r
 
 ## Use Cases
 

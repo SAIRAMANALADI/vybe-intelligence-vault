@@ -4,13 +4,14 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-04T20:20:45.058502+05:30'
-collected_at: '2026-08-04T20:20:45.058517+05:30'
+published_at: '2026-08-05T04:03:25.865949+05:30'
+collected_at: '2026-08-05T04:03:25.865961+05:30'
 tags:
 - agents
 - anthropic
 - benchmark
 - dataset
+- frontend_ui
 - mistral
 - models
 - openai
@@ -22,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-04T20:20:45.058517+05:30'
-last_seen: '2026-08-04T20:20:45.058517+05:30'
-last_checked: '2026-08-04T20:20:45.058517+05:30'
+first_seen: '2026-08-05T04:03:25.865961+05:30'
+last_seen: '2026-08-05T04:03:25.865961+05:30'
+last_checked: '2026-08-05T04:03:25.865961+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation & Migration**: Legacy feedback formula endpoints (`POST/GET /feedback/formulas`) are deprecated in favor of composite evaluators (code evaluator + run rule), with removal scheduled for 2026-08-20; users must migrate existing formulas.
+- **Annotation & Dataset APIs**: Public API now supports full CRUD operations for annotation queue items (runs/threads), with CSV/JSONL uploads accepting all Content-Type headers (including Windows Excel types) and legacy endpoints marked deprecated (Sunset: Jan 31, 2027).
 
-- **Enhanced Experiment & Evaluator Features**: Experiment comparison views now show real-time dataset splits, improved evaluator spend charts, and support for PEP 604 union return types in code evaluators; thread evaluators include a "Test" action for pre-save validation.
+- **Tracing & Engine Improvements**: Trace deletion, negative feedback-key filters, and token/cost filter defaults (total tokens/cost) now work consistently. Engine issues reopen automatically when new matching traces are linked, and run webhooks resolve via `LANGSMITH_PUBLIC_API_ENDPOINT`.
 
-- **Tracing & Performance Improvements**: LangSmith enforces monthly trace limits, supports zstd compression for bulk exports, resolves OpenTelemetry child spans correctly, and preserves traces in multipart ingestion batches despite oversized inputs/outputs.
+- **LLM Gateway & Sandbox Updates**: Gateway policies enforce non-blank names, usage charts show top 12 spenders, and sandbox streaming executes via Server-Sent Events. Self-hosted deployments authenticate sandbox commands via WebSocket with deployment service keys.
 
 ## Why It Matters
 
@@ -46,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T20:20:45.058502+05:30
+- Published: 2026-08-05T04:03:25.865949+05:30
 
 ## Related Tags
 
@@ -54,6 +55,7 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - benchmark
 - dataset
+- frontend_ui
 - mistral
 - models
 - openai

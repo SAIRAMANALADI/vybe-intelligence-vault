@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-05T01:29:13.928765+05:30'
+collected_at: '2026-08-05T03:55:34.268275+05:30'
 published_at: '2026-08-04T10:12:29Z'
 tags:
 - github-repo
@@ -13,7 +13,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 stars: 899
 language: Jupyter Notebook
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-05T01:29:13.928765+05:30'
-last_seen: '2026-08-05T01:29:13.928765+05:30'
-last_checked: '2026-08-05T01:29:13.928765+05:30'
+first_seen: '2026-08-05T03:55:34.268275+05:30'
+last_seen: '2026-08-05T03:55:34.268275+05:30'
+last_checked: '2026-08-05T03:55:34.268275+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: `microsoft/rag-time` is a structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering topics like hybrid search, vector indexing, and quantization methods (binary/scalar) for efficient LLM retrieval.
-- **Technical Stack**: Utilizes Jupyter Notebooks with Azure integration, OpenAI APIs, and advanced retrieval methods (HNSW, Matryoshka representation learning) for multimodal and keyword-based search in generative AI workflows.
-- **Key Features**: Emphasizes responsible AI practices, supports Visual Studio Code, and includes modules on binary/scalar quantization, hybrid search, and multimodal RAG pipelines. Last updated August 2026.
+- **Learning Framework**: A structured 5-week program in Jupyter Notebooks covering RAG (Retrieval-Augmented Generation) fundamentals, advanced techniques (e.g., hybrid search, vector search with HNSW), and responsible AI practices.
+- **Technical Components**: Integrates binary/scalar quantization, Matryoshka representation learning, and multimodal indexing; leverages Azure, OpenAI APIs, and VS Code for implementation.
+- **Search & Optimization**: Implements keyword, vector, and hybrid search pipelines with focus on efficient indexing (e.g., HNSW) and LLM augmentation for generative AI tasks.
 
 ## Why It Matters
 

@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI
-collected_at: '2026-08-05T01:33:19.105389+05:30'
-published_at: '2026-08-04T19:27:19Z'
+collected_at: '2026-08-05T03:59:39.543517+05:30'
+published_at: '2026-08-04T21:56:45Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 56616
+stars: 56619
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-10-27T03:26:59Z'
 pushed_at: '2026-08-04T19:32:26Z'
 resource_id: github:crewaiinc/crewai
-first_seen: '2026-08-05T01:33:19.105389+05:30'
-last_seen: '2026-08-05T01:33:19.105389+05:30'
-last_checked: '2026-08-05T01:33:19.105389+05:30'
+first_seen: '2026-08-05T03:59:39.543517+05:30'
+last_seen: '2026-08-05T03:59:39.543517+05:30'
+last_checked: '2026-08-05T03:59:39.543517+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Role-based AI agent orchestration framework** enabling autonomous agents to collaborate via role-playing, task delegation, and multi-agent workflows in Python.
+- **Orchestration Framework**: CrewAI enables role-playing, autonomous AI agents to collaborate via a structured orchestration system, facilitating seamless task delegation and multi-agent workflows.
 
-- **Modular architecture** leveraging LLMs for dynamic agent interactions, task execution, and adaptive problem-solving in complex environments.
+- **Python-Based Architecture**: Built in Python, the framework leverages modular design for extensibility, supporting integration with LLMs and custom agent roles.
 
-- **Open-source Python library** (56K+ stars) designed for scalable AI agent systems with 8K+ forks, last updated August 2026.
+- **Collaborative Intelligence**: Agents dynamically form "crews" to solve complex problems, optimizing task distribution through role specialization and inter-agent communication protocols.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 56616
+- Stars: 56619
 - Forks: 8066
 - Language: Python
 - Topics: agents, ai, ai-agents, aiagentframework, llms
-- Last Updated: 2026-08-04T19:27:19Z
+- Last Updated: 2026-08-04T21:56:45Z
 - License: MIT
 - Archived: No
 - Created At: 2023-10-27T03:26:59Z

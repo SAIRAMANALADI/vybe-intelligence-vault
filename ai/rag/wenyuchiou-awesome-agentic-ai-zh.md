@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/WenyuChiou/awesome-agentic-ai-zh
-collected_at: '2026-08-05T01:31:33.942047+05:30'
+collected_at: '2026-08-05T03:57:54.341158+05:30'
 published_at: '2026-08-04T19:30:16Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-05-04T22:18:51Z'
 pushed_at: '2026-08-04T17:01:11Z'
 resource_id: github:wenyuchiou/awesome-agentic-ai-zh
-first_seen: '2026-08-05T01:31:33.942047+05:30'
-last_seen: '2026-08-05T01:31:33.942047+05:30'
-last_checked: '2026-08-05T01:31:33.942047+05:30'
+first_seen: '2026-08-05T03:57:54.341158+05:30'
+last_seen: '2026-08-05T03:57:54.341158+05:30'
+last_checked: '2026-08-05T03:57:54.341158+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive trilingual learning roadmap** covering agentic AI from LLM fundamentals to multi-agent systems, featuring **240+ curated resources** and practical examples in English, Simplified Chinese, and Traditional Chinese.
+- **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, with 240+ curated resources in Traditional Chinese, English, and Simplified Chinese, including hands-on examples and tutorials.
 
-- **Key technical topics** include **LLM agents, agentic workflows, RAG, prompt engineering, multi-agent systems, and Model Context Protocol (MCP)**, with hands-on implementations in Python.
+- **Technical Scope**: Encompasses LLM basics, prompt engineering, RAG, CLI tools (e.g., `claude-code`, `claude-skills`), MCP (Model Context Protocol), and multi-agent workflows, with Python-based implementations.
 
-- **Repository metrics**: **5,053 stars, 675 forks**, last updated **2026-08-04**, supporting **Claude Code/Skills, CLI tools, and MCP integration** for agentic AI development.
+- **Community & Updates**: Actively maintained (last updated Aug 2026), with 5,053 stars and 675 forks, serving as a comprehensive resource for AI agent development and research.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/terms
-published_at: '2026-08-02T19:35:06.719862+05:30'
-collected_at: '2026-08-02T19:35:06.719876+05:30'
+published_at: '2026-08-05T04:04:18.292000+05:30'
+collected_at: '2026-08-05T04:04:18.292012+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:terms-conditions-speechify
-first_seen: '2026-08-02T19:35:06.719876+05:30'
-last_seen: '2026-08-02T19:35:06.719876+05:30'
-last_checked: '2026-08-02T19:35:06.719876+05:30'
+first_seen: '2026-08-05T04:04:18.292012+05:30'
+last_seen: '2026-08-05T04:04:18.292012+05:30'
+last_checked: '2026-08-05T04:04:18.292012+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Mandatory Arbitration & Class Action Waiver**: Terms enforce pre-dispute arbitration clauses and class action waivers, restricting legal recourse to individual arbitration, with updates retroactively binding unresolved disputes.
-- **Subscription Model & Auto-Renewal**: Paid subscriptions auto-renew monthly/annually unless canceled ≥30 days pre-expiry (business plans) or via account settings (consumer plans), with no pro-rated refunds for unused periods.
-- **User Eligibility & Liability**: Users must be ≥18 (or minors under guardian consent), responsible for account security, and warrant legal capacity; Speechify disclaims liability for third-party payment policies (e.g., Apple/Google refund restrictions).
+- **Mandatory Arbitration & Class Action Waiver**: All disputes with Speechify must undergo mandatory arbitration, with class action waivers enforced, significantly limiting legal recourse for users.
+- **Subscription Model & Auto-Renewal**: Paid subscriptions auto-renew monthly/annually unless canceled 30+ days pre-expiry; refunds are non-pro-rated, and third-party store policies (Apple/Google) govern purchases.
+- **User Responsibilities & Compliance**: Users must maintain account confidentiality, ensure legal eligibility (18+ or minor with guardian consent), and adhere to Speechify’s Privacy Policy and supplementary terms.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T19:35:06.719862+05:30
+- Published: 2026-08-05T04:04:18.292000+05:30
 
 ## Related Tags
 
