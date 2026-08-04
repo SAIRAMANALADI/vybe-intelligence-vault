@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-156%2C581-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-92%2C773-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--05-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **156,581 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **92,773 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,420</p>
-        <p><b>Active:</b> 16,945 | <b>Inactive:</b> 475</p>
+        <p><b>Resources tracked:</b> 16,424</p>
+        <p><b>Active:</b> 15,949 | <b>Inactive:</b> 475</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 65,028</p>
+        <p><b>Archive Files:</b> 2,176</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 156,581 files</p>
-        <p><b>Last Update:</b> 2026-08-05 01:48 IST</p>
+        <p><b>Total Vault Size:</b> 92,773 files</p>
+        <p><b>Last Update:</b> 2026-08-05 02:46 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,28 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Apple says more ex-employees may have taken confidential data to OpenAI](ai/community/apple-says-more-ex-employees-may-have-taken-confid.md)** • <kbd>+155 pts</kbd> • Rank: <kbd>+5</kbd>
-- 🔼 **[Online ad giant Adform was hacked, proving once again why ad blockers are needed](ai/community/online-ad-giant-adform-was-hacked-proving-once-aga.md)** • <kbd>+91 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Keyv and friends compromised in active Shai-Hulud supply chain attack](ai/community/keyv-and-friends-compromised-in-active-shai-hulud.md)** • <kbd>+59 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](ai/community/arxiv-2602-16763.md)** • <kbd>+24 pts</kbd> • Rank: <kbd>+4</kbd>
-- 🔼 **[There Will Come Soft Rains (1950) [pdf]](ai/community/there-will-come-soft-rains-1950-pdf.md)** • <kbd>+22 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[Building scalable AI agents with modular prompt transpilation - Google Developers Blog](ai/rag/building-scalable-ai-agents-with-modular-prompt-tr.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Package index | Firebase](ai/rag/package-index-firebase.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Medium](ai/rag/medium-2.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[SpeechifyAI Agents: Real-Time Voice AI Overview | SpeechifyAI API](ai/agents/speechifyai-agents-real-time-voice-ai-overview-spe.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Blackmail Fail (2013)](ai/community/blackmail-fail-2013.md)** • Score: `13`
-- 🆕 **[Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](ai/community/launch-hn-edotenv-yc-s26-quant-trading-rl-envs-to.md)** • Score: `11`
-- 🆕 **[Distribute Your Apps & Games on Google Play | Android Developers](ai/resources/distribute-your-apps-games-on-google-play-android.md)** • Score: `0`
-- 🆕 **[Building scalable AI agents with modular prompt transpilation - Google Developers Blog](ai/rag/building-scalable-ai-agents-with-modular-prompt-tr.md)** • Score: `0`
-- 🆕 **[Artificial Intelligence in Chrome | AI on Chrome | Chrome for Developers](ai/agents/artificial-intelligence-in-chrome-ai-on-chrome-chr.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[LLMs reward expertise](ai/community/llms-reward-expertise.md)**
-- 💤 **[AI-Generated Images Discourage Me from Reading Your Blog](ai/community/ai-generated-images-discourage-me-from-reading-you.md)**
-- 💤 **[Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)](ai/community/ray-bradbury-s-there-will-come-soft-rains-is-set-t.md)**
-- 💤 **[Homebench – Benchmark local LLMs for speed, memory, and quality](ai/community/david-g-3654-homebench.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
