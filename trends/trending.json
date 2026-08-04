@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T09:27:20.719246+05:30",
+  "generated_at": "2026-08-04T09:46:16.486139+05:30",
   "trending_resources": [
     {
       "id": "hackernews:llms-reward-expertise",
@@ -43,7 +43,7 @@
     {
       "id": "github:lyogavin/airllm",
       "title": "AirLLM 70B inference with single 4GB GPU",
-      "category": "ai/community",
+      "category": "ai/trending",
       "source_type": "hackernews",
       "url": "https://github.com/lyogavin/airllm",
       "file_path": "ai/trending/lyogavin-airllm.md",
@@ -80,19 +80,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:the-agent-conference-by-langchain-interrupt-2026",
-      "title": "The Agent Conference by LangChain | Interrupt 2026",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://interrupt.langchain.com",
-      "file_path": "ai/agents/the-agent-conference-by-langchain-interrupt-2026.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 85,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "github:features/ai",
       "title": "GitHub Copilot app · GitHub",
       "category": "ai/agents",
@@ -101,7 +88,7 @@
       "file_path": "ai/agents/features-ai.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 61,
+      "rank_change": 62,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +101,7 @@
       "file_path": "ai/rag/google-terms-of-service-privacy-terms-google.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 27,
+      "rank_change": 32,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +114,20 @@
       "file_path": "ai/rag/quickstart-pinecone-docs.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1446,
+      "rank_change": 1451,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:cli/cli",
+      "title": "cli/cli",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/cli/cli",
+      "file_path": "ai/rag/cli-cli.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1323,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,20 +142,7 @@
       "file_path": "ai/rag/medium-help-center.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 16349,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:pinecone-status",
-      "title": "Pinecone Status",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://status.pinecone.io",
-      "file_path": "ai/rag/pinecone-status.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 7017,
+      "rank_change": 16373,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,20 +155,7 @@
       "file_path": "ai/resources/open-hugo-sponsorship-slot.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 5129,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:neo4j-github",
-      "title": "Neo4j · GitHub",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://github.com/neo4j",
-      "file_path": "ai/rag/neo4j-github.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 5113,
+      "rank_change": 5148,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +168,7 @@
       "file_path": "ai/rag/github-security-github.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2245,
+      "rank_change": 2258,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +181,7 @@
       "file_path": "ai/resources/youtube-api-samples.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2208,
+      "rank_change": 2222,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +194,20 @@
       "file_path": "ai/agents/czl9707-build-your-own-openclaw.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2151,
+      "rank_change": 2177,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2307.03172",
+      "title": "[2307.03172] Lost in the Middle: How Language Models Use Long Contexts",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://arxiv.org/abs/2307.03172",
+      "file_path": "ai/resources/arxiv-2307-03172.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2020,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/resources/goland-youtube.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2012,
+      "rank_change": 2018,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/resources/download-goland-a-go-ide-with-extended-support-for.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2012,
+      "rank_change": 2018,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +246,20 @@
       "file_path": "ai/resources/a-comprehensive-kotlin-learning-guide-for-all-leve.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2009,
+      "rank_change": 2015,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:scadastrangelove/awesome-ai-security-tools",
+      "title": "scadastrangelove/awesome-ai-security-tools",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/scadastrangelove/awesome-ai-security-tools",
+      "file_path": "ai/rag/scadastrangelove-awesome-ai-security-tools.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1997,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -305,77 +305,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:pinecone-documentation-pinecone-docs",
-      "title": "Pinecone documentation - Pinecone Docs",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://docs.pinecone.io",
-      "file_path": "ai/rag/pinecone-documentation-pinecone-docs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:integrations-pinecone-docs",
-      "title": "Integrations - Pinecone Docs",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://docs.pinecone.io/integrations/overview",
-      "file_path": "ai/rag/integrations-pinecone-docs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:agentic-ides-and-clis-pinecone-docs",
-      "title": "Agentic IDEs and CLIs - Pinecone Docs",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://docs.pinecone.io/guides/get-started/ai-coding-tools",
-      "file_path": "ai/rag/agentic-ides-and-clis-pinecone-docs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:pinecone-console",
-      "title": "Pinecone Console",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://support.pinecone.io",
-      "file_path": "ai/resources/pinecone-console.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:neo4j-youtube",
       "title": "Neo4j - YouTube",
       "category": "ai/rag",
       "source_type": "web",
       "url": "https://youtube.com/neo4j",
       "file_path": "ai/rag/neo4j-youtube.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:the-vector-database-to-build-knowledgeable-ai-pine",
-      "title": "The vector database to build knowledgeable AI | Pinecone",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://pinecone.io",
-      "file_path": "ai/rag/the-vector-database-to-build-knowledgeable-ai-pine.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -396,19 +331,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:github-cli-take-github-to-the-command-line",
-      "title": "GitHub CLI | Take GitHub to the command line",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://cli.github.com",
-      "file_path": "ai/agents/github-cli-take-github-to-the-command-line.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:goland-the-jetbrains-blog",
       "title": "GoLand - The JetBrains Blog",
       "category": "ai/agents",
@@ -422,38 +344,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:notebooks-pinecone-docs",
-      "title": "Notebooks - Pinecone Docs",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://docs.pinecone.io/page/examples",
-      "file_path": "ai/rag/notebooks-pinecone-docs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:llamaparse-platform-quickstart-developer-documenta",
-      "title": "LlamaParse Platform Quickstart | Developer Documentation",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://developers.llamaindex.ai",
-      "file_path": "ai/agents/llamaparse-platform-quickstart-developer-documenta.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:tensorblue-github",
-      "title": "tensorblue · GitHub",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://github.com/tensorblue",
-      "file_path": "ai/resources/tensorblue-github.md",
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
