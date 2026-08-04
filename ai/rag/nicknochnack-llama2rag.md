@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nicknochnack/Llama2RAG
-collected_at: '2026-08-04T03:51:17.842488+05:30'
+collected_at: '2026-08-04T09:09:00.877935+05:30'
 published_at: '2026-05-24T09:34:54Z'
 tags:
+- dataset
 - github-repo
 - hackernews
 - jupyter notebook
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-08-18T00:18:33Z'
 pushed_at: '2023-08-18T00:23:09Z'
 resource_id: github:nicknochnack/llama2rag
-first_seen: '2026-08-04T03:51:17.842488+05:30'
-last_seen: '2026-08-04T03:51:17.842488+05:30'
-last_checked: '2026-08-04T03:51:17.842488+05:30'
+first_seen: '2026-08-04T09:09:00.877935+05:30'
+last_seen: '2026-08-04T09:09:00.877935+05:30'
+last_checked: '2026-08-04T09:09:00.877935+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model and LlamaIndex for document retrieval and context integration.
-- **Notebook Structure**: Jupyter Notebook-based implementation, likely containing modular pipelines for indexing, retrieval, and generation.
-- **Version**: Last updated May 24, 2026, indicating active maintenance or recent development.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for document retrieval and generation.
+- **Environment**: Developed in a Jupyter Notebook, leveraging GPU acceleration for efficient inference with the 70B parameter model.
+- **Updates**: Last modified on **2026-05-24**, indicating ongoing maintenance and potential future scalability for larger datasets or models.
 
 ## Why It Matters
 

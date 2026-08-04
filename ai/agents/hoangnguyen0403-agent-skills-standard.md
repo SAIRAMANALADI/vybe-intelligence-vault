@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-04T03:53:07.871000+05:30'
+collected_at: '2026-08-04T09:10:51.092151+05:30'
 published_at: '2026-07-30T04:42:26Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
+- workflows
 stars: 536
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-04T03:53:07.871000+05:30'
-last_seen: '2026-08-04T03:53:07.871000+05:30'
-last_checked: '2026-08-04T03:53:07.871000+05:30'
+first_seen: '2026-08-04T09:10:51.092151+05:30'
+last_seen: '2026-08-04T09:10:51.092151+05:30'
+last_checked: '2026-08-04T09:10:51.092151+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curates standardized coding practices and frameworks for AI agents across TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and others, ensuring consistency in agentic AI development.
+- **Multi-Language & Framework Standards**: Repository provides **TypeScript-based** coding standards and best practices for **20+ frameworks/languages** (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, React, Spring Boot) to guide AI agents in adhering to language/framework-specific conventions.
 
-- **Framework-Specific Guidelines**: Provides tailored best practices for React, Next.js, Angular, NestJS, Android, iOS, and other key frameworks/libraries to optimize AI agent integration and performance.
+- **Structured Agent Skills**: Organized as a **modular collection** of `cursor-rules` and standardized guidelines to enforce **consistent, high-quality code generation** across diverse tech stacks.
 
-- **Active Maintenance & Community Support**: Last updated July 2026, with 536 stars and 155 forks, indicating ongoing contributions and adoption for agentic AI development standards.
+- **Active Maintenance**: Last updated **July 2026**, ensuring alignment with **latest best practices** and framework updates for AI agent-driven development workflows.
 
 ## Why It Matters
 

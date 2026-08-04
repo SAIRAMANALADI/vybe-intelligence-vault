@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-04T03:50:57.833723+05:30'
+collected_at: '2026-08-04T09:08:40.957451+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
 - scripts
+- workflows
 stars: 44
 language: Bicep
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-04T03:50:57.833723+05:30'
-last_seen: '2026-08-04T03:50:57.833723+05:30'
-last_checked: '2026-08-04T03:50:57.833723+05:30'
+first_seen: '2026-08-04T09:08:40.957451+05:30'
+last_seen: '2026-08-04T09:08:40.957451+05:30'
+last_checked: '2026-08-04T09:08:40.957451+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC template** for deploying a **Generative AI Ops RAG (Retrieval-Augmented Generation)** pipeline on Azure, enabling infrastructure-as-code (IaC) automation.
-- **Pre-configured RAG architecture** with modular components for data ingestion, vector storage, and LLM orchestration, optimized for Azure services (e.g., Azure AI Search, Azure OpenAI).
-- **GitHub template** for rapid project scaffolding, including CI/CD pipelines (via GitHub Actions) and Azure Monitor integration for observability and governance.
+- **Bicep-based IaC template** for deploying a **Generative AI Ops RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling infrastructure-as-code automation for AI workloads.
+
+- **Modular architecture** with pre-configured Azure resources (e.g., ACR, AKS, Cosmos DB, Key Vault) to support **scalable RAG workflows**, including vector databases and LLM integration.
+
+- **CI/CD-ready** with GitHub Actions workflows for **automated deployment/testing**, ensuring reproducibility and alignment with **GenAIOps best practices** for generative AI operations.
 
 ## Why It Matters
 

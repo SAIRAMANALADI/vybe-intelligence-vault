@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-04T03:51:42.886587+05:30'
+collected_at: '2026-08-04T09:09:25.870728+05:30'
 published_at: '2026-08-03T11:39:51Z'
 tags:
 - benchmark
@@ -13,7 +13,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 stars: 473
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-04T03:51:42.886587+05:30'
-last_seen: '2026-08-04T03:51:42.886587+05:30'
-last_checked: '2026-08-04T03:51:42.886587+05:30'
+first_seen: '2026-08-04T09:09:25.870728+05:30'
+last_seen: '2026-08-04T09:09:25.870728+05:30'
+last_checked: '2026-08-04T09:09:25.870728+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG (Graph Retrieval-Augmented Generation) models, focusing on graph-based retrieval strategies for RAG systems, with ICLR'26 publication alignment.
+- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, providing standardized metrics and datasets for comparative analysis.
 
-- **Technical Scope**: Implements comparative analysis of graph vs. non-graph RAG approaches, including dataset curation, retrieval metrics, and model performance benchmarking in Python.
+- **Technical Scope**: Focuses on determining optimal use cases for graph-based retrieval in RAG systems, analyzing performance trade-offs across different graph structures and query complexities.
 
-- **Repository Metrics**: 473 stars, 55 forks, last updated 2026-08-03; supports graphrag, graphrag-bench, and graphragdataset topics for modular RAG evaluation workflows.
+- **Implementation**: Python-based benchmark with modular components for dataset generation, evaluation pipelines, and model-specific adapters, supporting reproducibility and extensibility.
 
 ## Why It Matters
 

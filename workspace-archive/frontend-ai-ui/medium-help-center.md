@@ -3,7 +3,7 @@ title: Medium Help Center
 archive_category: frontend-ai-ui
 source_category: ai/resources
 source_url: https://medium.zendesk.com/hc/en
-resource_id: blog:medium-help-center
+resource_id: blog:medium-help-center-5cad3827
 local_vault_path: ai/resources/medium-help-center.md
 quality_score: 70
 archive_score: 72

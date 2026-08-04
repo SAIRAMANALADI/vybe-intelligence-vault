@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-04T03:51:12.829180+05:30'
+collected_at: '2026-08-04T09:08:55.873574+05:30'
 published_at: '2026-08-01T15:15:48Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-04T03:51:12.829180+05:30'
-last_seen: '2026-08-04T03:51:12.829180+05:30'
-last_checked: '2026-08-04T03:51:12.829180+05:30'
+first_seen: '2026-08-04T09:08:55.873574+05:30'
+last_seen: '2026-08-04T09:08:55.873574+05:30'
+last_checked: '2026-08-04T09:08:55.873574+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates a hybrid Retrieval Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, combining vector and keyword-based retrieval for enhanced LLM context generation.
-- **Implementation**: Python-based project leveraging NVIDIA’s AI Workbench framework for scalable RAG workflows, integrating retrieval mechanisms with generative models.
-- **Metadata**: Updated in 2026, with 370 stars and 1,009 forks, indicating active community engagement and adoption.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and generation.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment and management of hybrid RAG workflows in Python.
+- **Modular Python Architecture**: Provides a structured example with reusable components for document indexing, retrieval, and generation, optimized for GPU acceleration.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 370
-- Forks: 1009
+- Forks: 1011
 - Language: Python
 - Topics: None
 - Last Updated: 2026-08-01T15:15:48Z

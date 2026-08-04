@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-04T03:51:42.877521+05:30'
+collected_at: '2026-08-04T09:09:25.948068+05:30'
 published_at: '2026-07-19T17:15:41Z'
 tags:
 - benchmark
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
-- workflows
 stars: 297
 language: Jupyter Notebook
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-04T03:51:42.877521+05:30'
-last_seen: '2026-08-04T03:51:42.877521+05:30'
-last_checked: '2026-08-04T03:51:42.877521+05:30'
+first_seen: '2026-08-04T09:09:25.948068+05:30'
+last_seen: '2026-08-04T09:09:25.948068+05:30'
+last_checked: '2026-08-04T09:09:25.948068+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRAG provides a comprehensive benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems, enabling standardized performance assessment across diverse tasks and datasets.
+- **Benchmark Suite**: CRAG provides a comprehensive benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on metrics like accuracy, latency, and robustness across diverse datasets and retrieval scenarios.
 
-- **Modular Design**: The repository includes modular components for retrieval, generation, and evaluation, facilitating customization and extension for specific RAG use cases.
+- **Modular Design**: The repository includes modular components for retrieval, generation, and evaluation, enabling flexible integration with custom RAG pipelines or existing frameworks.
 
-- **Jupyter Notebook-Based**: The benchmark is implemented entirely in Jupyter Notebooks, ensuring reproducibility and ease of integration with existing research workflows.
+- **Evaluation Protocols**: Implements standardized evaluation protocols for assessing RAG performance under varying conditions (e.g., noisy retrieval, multi-hop reasoning) with reproducible results.
 
 ## Why It Matters
 

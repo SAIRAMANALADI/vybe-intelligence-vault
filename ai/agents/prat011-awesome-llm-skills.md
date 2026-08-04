@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-08-04T03:53:17.952842+05:30'
-published_at: '2026-08-03T20:04:50Z'
+collected_at: '2026-08-04T09:11:00.983189+05:30'
+published_at: '2026-08-04T03:16:23Z'
 tags:
 - agents
 - anthropic
@@ -15,16 +15,16 @@ tags:
 - openai
 - python
 - workflows
-stars: 1432
+stars: 1433
 language: Python
 status: active
 archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-07-14T09:53:56Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-08-04T03:53:17.952842+05:30'
-last_seen: '2026-08-04T03:53:17.952842+05:30'
-last_checked: '2026-08-04T03:53:17.952842+05:30'
+first_seen: '2026-08-04T09:11:00.983189+05:30'
+last_seen: '2026-08-04T09:11:00.983189+05:30'
+last_checked: '2026-08-04T09:11:00.983189+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated LLM/AI Agent Skills**: Repository aggregates tools, frameworks, and resources for customizing AI agent workflows, compatible with platforms like Claude Code, Codex, and Gemini CLI.
-- **Multi-Model Support**: Includes integrations for Anthropic, OpenAI, Llama, Qwen, and other LLMs, alongside CLI tools (e.g., Codex CLI, Gemini CLI) for agent development.
-- **Python-Based**: Primarily Python-focused, with 1,432 stars and 254 forks, last updated August 3, 2026.
+- **Curated LLM/AI Agent Skills Repository**: Hosts a structured collection of tools, resources, and skills for customizing AI agent workflows, compatible with **Claude Code**, **Codex**, **Gemini CLI**, and custom agents.
+- **Multi-Platform Support**: Includes integrations for **Anthropic**, **OpenAI**, **Google (Gemini)**, **Qwen**, and **Llama**, with CLI tools like **Codex CLI** and **Gemini CLI**.
+- **Python-Based & Open-Source**: Repository is Python-based, actively maintained (last updated **2026-08-04**), with **1,433 stars** and **254 forks**.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Prat011
-- Stars: 1432
+- Stars: 1433
 - Forks: 254
 - Language: Python
 - Topics: anthropic, awesome-list, awesome-lists, claude-code, claude-skills, claude-skills-creator, codex, codex-cli, gemini, gemini-cli, llama, llms, openai, opencode, qwen, qwen-coder, skills
-- Last Updated: 2026-08-03T20:04:50Z
+- Last Updated: 2026-08-04T03:16:23Z
 - Archived: No
 - Created At: 2025-10-22T06:15:37Z
 - Pushed At: 2026-07-14T09:53:56Z

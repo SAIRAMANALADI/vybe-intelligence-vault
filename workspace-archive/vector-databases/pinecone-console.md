@@ -31,8 +31,8 @@ selection_reason:
 ## Summary
 
 - **JavaScript Requirement**: The application mandates JavaScript execution for full functionality, as indicated by the displayed message.
-- **Frontend Dependency**: The app relies on client-side JavaScript for rendering and interactivity, typical of modern SPAs (Single Page Applications).
-- **Browser Limitation**: Users with JavaScript disabled in their browsers will encounter a static placeholder instead of the dynamic application interface.
+- **Client-Side Dependency**: All core features and dynamic content rely on JavaScript, implying no server-side rendering or fallback for non-JS environments.
+- **Browser Compatibility Issue**: The absence of JavaScript may stem from disabled settings, unsupported browser, or script-blocking extensions.
 
 ## Use Cases
 

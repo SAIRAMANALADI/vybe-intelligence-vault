@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-04T03:51:47.891919+05:30'
+collected_at: '2026-08-04T09:09:30.875140+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-04T03:51:47.891919+05:30'
-last_seen: '2026-08-04T03:51:47.891919+05:30'
-last_checked: '2026-08-04T03:51:47.891919+05:30'
+first_seen: '2026-08-04T09:09:30.875140+05:30'
+last_seen: '2026-08-04T09:09:30.875140+05:30'
+last_checked: '2026-08-04T09:09:30.875140+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Development**: Introduces **CRUD-RAG**, a Chinese-language benchmark designed to evaluate **Retrieval-Augmented Generation (RAG)** systems in **Large Language Models (LLMs)** across **Create, Read, Update, Delete (CRUD)** operations.
-- **Evaluation Framework**: Provides a standardized testbed for assessing **retrieval quality, generation coherence, and task-specific performance** in Chinese, addressing gaps in non-English RAG benchmarks.
-- **Open-Source Toolkit**: Released under a permissive license with **Python-based implementations**, enabling reproducibility and facilitating research in **multilingual RAG systems**.
+- **Benchmark Framework**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), focusing on retrieval quality and generation performance.
+
+- **Evaluation Metrics**: Implements standardized metrics for assessing RAG pipelines, including retrieval precision/recall, answer relevance, and contextual accuracy in Chinese language tasks.
+
+- **Open-Source Toolkit**: Python-based repository offering modular components for benchmarking RAG systems, with tools for dataset preprocessing, retrieval evaluation, and generation assessment.
 
 ## Why It Matters
 

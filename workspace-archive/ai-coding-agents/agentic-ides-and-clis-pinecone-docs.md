@@ -6,8 +6,8 @@ source_url: https://docs.pinecone.io/guides/get-started/ai-coding-tools
 resource_id: blog:agentic-ides-and-clis-pinecone-docs
 local_vault_path: ai/rag/agentic-ides-and-clis-pinecone-docs.md
 quality_score: 70
-archive_score: 84
-archive_tier: useful
+archive_score: 86
+archive_tier: essential
 resource_kind: mcp-server
 importance: high
 tags:
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 84 (useful)
+- Quality score: 70 | Archive score: 86 (essential)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- Pinecone provides official plugins/extensions for agentic IDEs/CLIs (Claude Code, Gemini CLI, Cursor) and an MCP server for natural language-driven vector database operations (index management, semantic search, RAG workflows).
+- Pinecone provides **MCP server** and **CLI tools** (`pc`) for managing vector databases, enabling natural language-driven index operations, semantic search, and RAG workflows directly in IDEs or terminals.
 
-- The Pinecone CLI (`pc`) enables direct, scriptable terminal access for managing indexes, namespaces, and records without an agent.
+- **Agentic IDEs/CLIs** (Claude Code, Gemini CLI, Cursor) integrate via official plugins/extensions, while **Agent Skills** and **MCP server** enable compatibility with GitHub Copilot, Codex, and other MCP-compatible clients.
 
-- Supported skills include `query`, `assistant`, `full-text-search`, and `n8n` integrations, with the MCP server offering tools for inde
+- Supported skills include **querying indexes**, **full-text sea
 
 ## Use Cases
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-04T03:51:27.856278+05:30'
+collected_at: '2026-08-04T09:09:10.867628+05:30'
 published_at: '2026-08-03T16:39:06Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
 stars: 184
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-03T08:23:24Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-04T03:51:27.856278+05:30'
-last_seen: '2026-08-04T03:51:27.856278+05:30'
-last_checked: '2026-08-04T03:51:27.856278+05:30'
+first_seen: '2026-08-04T09:09:10.867628+05:30'
+last_seen: '2026-08-04T09:09:10.867628+05:30'
+last_checked: '2026-08-04T09:09:10.867628+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable RAG systems, including embeddings, vector databases, and LLM integration.
-- **Technical Scope**: Covers AI engineering, MLOps, LangChain, and LLM deployment with a focus on Python-based implementations and retrieval-augmented generation workflows.
-- **Community & Updates**: Maintained list with 184 stars, 46 forks, and last updated in August 2026, ensuring relevance for cutting-edge RAG production challenges.
+- **Curated resources**: Repository provides a vetted list of production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, covering AI engineering, embeddings, LLMs, and MLOps.
+
+- **Technical scope**: Focuses on Python-based implementations, vector databases, LangChain integration, and LLM operations (LLMOps) for enterprise-grade RAG deployments.
+
+- **Community metrics**: Maintains 184 stars and 46 forks as of last update (2026-08-03), indicating active curation and adoption in AI/ML production environments.
 
 ## Why It Matters
 

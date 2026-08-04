@@ -3,7 +3,7 @@ title: Google Account Help
 archive_category: frontend-ai-ui
 source_category: ai/rag
 source_url: https://support.google.com/accounts?hl=en_US
-resource_id: blog:google-account-help
+resource_id: blog:google-account-help-faea0ca6
 local_vault_path: ai/rag/google-account-help.md
 quality_score: 70
 archive_score: 72

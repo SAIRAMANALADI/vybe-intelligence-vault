@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/janestreet/bonsai
 hn_url: https://news.ycombinator.com/item?id=49152842
-score: 277
+score: 313
 author: KolmogorovComp
-comments_count: 106
+comments_count: 133
 published_at: '2026-08-03T13:59:57+05:30'
-collected_at: '2026-08-04T03:49:21.681034+05:30'
+collected_at: '2026-08-04T09:07:28.440335+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: github:janestreet/bonsai
 first_seen: '2026-08-03T15:36:54.914197+05:30'
-last_seen: '2026-08-04T03:49:21.681034+05:30'
-last_checked: '2026-08-04T03:49:21.681034+05:30'
+last_seen: '2026-08-04T09:07:28.440335+05:30'
+last_checked: '2026-08-04T09:07:28.440335+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by KolmogorovComp. Score: 277, Comments: 106.
+Hacker News story by KolmogorovComp. Score: 313, Comments: 133.
 Original Link: https://github.com/janestreet/bonsai
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: KolmogorovComp
-- Score: 277 Upvotes
-- Comments: 106 Discussions
+- Score: 313 Upvotes
+- Comments: 133 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49152842
 - Original Article: https://github.com/janestreet/bonsai
 

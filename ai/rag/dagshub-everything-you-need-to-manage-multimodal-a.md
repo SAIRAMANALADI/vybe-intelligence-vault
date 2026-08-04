@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-08-04T03:56:07.032976+05:30'
-collected_at: '2026-08-04T03:56:07.032987+05:30'
+published_at: '2026-08-04T09:14:05.578982+05:30'
+collected_at: '2026-08-04T09:14:05.578989+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-08-04T03:56:07.032987+05:30'
-last_seen: '2026-08-04T03:56:07.032987+05:30'
-last_checked: '2026-08-04T03:56:07.032987+05:30'
+first_seen: '2026-08-04T09:14:05.578989+05:30'
+last_seen: '2026-08-04T09:14:05.578989+05:30'
+last_checked: '2026-08-04T09:14:05.578989+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage from data to model.
+- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage, scalable from petabytes to private cloud storage.
 
-- **Scalable Tiered Offerings**: Free tier (Individual) with public repos, limited private storage/experiments; Team tier ($99/user/month) adds multimodal auto-labeling, RBAC, and 1TB storage; Enterprise supports petabyte-scale data, air-gapped deployments, and SSO/LDAP integration.
+- **Tiered Enterprise Features**: Individual (free, 20GB storage), Team ($99/user/month, 1TB storage, RBAC, auto-labeling), and Enterprise (custom, petabyte-scale, VPC/air-gapped, SSO/LDAP/OIDC, OpenShift support).
 
-- **Enterprise-Grade Integrations & Security**: Supports on-prem/cloud deployments, VPC/air-gapped installations, OpenShift compatibility, and SSO/RBAC controls with organizational resource governance and SLA-backed support.
+- **Integrated ML Stack & Security**: Native compatibility with ML frameworks/cloud storage, CI/CD/CT pipelines, interactive pipelines, and granular access controls (RBAC, SSO) with on-prem/cloud deployment options.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T03:56:07.032976+05:30
+- Published: 2026-08-04T09:14:05.578982+05:30
 
 ## Related Tags
 

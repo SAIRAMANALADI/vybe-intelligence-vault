@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-08-04T03:52:22.881980+05:30'
-published_at: '2026-08-03T12:43:46Z'
+collected_at: '2026-08-04T09:10:05.905472+05:30'
+published_at: '2026-08-04T01:43:43Z'
 tags:
 - agents
 - github-repo
@@ -19,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T03:22:26Z'
-pushed_at: '2026-08-03T02:05:21Z'
+pushed_at: '2026-08-04T01:43:39Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-08-04T03:52:22.881980+05:30'
-last_seen: '2026-08-04T03:52:22.881980+05:30'
-last_checked: '2026-08-04T03:52:22.881980+05:30'
+first_seen: '2026-08-04T09:10:05.905472+05:30'
+last_seen: '2026-08-04T09:10:05.905472+05:30'
+last_checked: '2026-08-04T09:10:05.905472+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese (ZH) and English (EN) for broader accessibility.
-- **Technical Stack**: Built in TypeScript, last updated on 2026-08-03, with 929 stars and 165 forks on GitHub.
+- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, etc.) via GitHub Actions, supporting bilingual ZH/EN reports.
+- **Technical Stack**: Built in TypeScript, with scheduled updates (last commit: 2026-08-04) and open-source contributions (929 stars, 165 forks).
+- **Purpose**: Designed to track AI advancements through structured, automated cross-platform monitoring.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 165
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-03T12:43:46Z
+- Last Updated: 2026-08-04T01:43:43Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T03:22:26Z
-- Pushed At: 2026-08-03T02:05:21Z
+- Pushed At: 2026-08-04T01:43:39Z
 
 ## Possible Use Cases
 

@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-04T03:52:07.919552+05:30'
+collected_at: '2026-08-04T09:09:50.962311+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-04T03:52:07.919552+05:30'
-last_seen: '2026-08-04T03:52:07.919552+05:30'
-last_checked: '2026-08-04T03:52:07.919552+05:30'
+first_seen: '2026-08-04T09:09:50.962311+05:30'
+last_seen: '2026-08-04T09:09:50.962311+05:30'
+last_checked: '2026-08-04T09:09:50.962311+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) pipelines using Ray for scalable LLM serving and inference.
-- **Multi-Model Support**: Includes examples for fine-tuning and deploying Llama2, OpenAI-compatible models, and other LLMs with Anyscale integration.
-- **End-to-End Workflows**: Provides Jupyter Notebooks covering data ingestion, vector databases, model serving, and evaluation for LLM application deployment.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2, OpenAI, and Anyscale models with optimized fine-tuning techniques.
+
+- **Scalable Serving Architecture**: Leverages Ray’s distributed compute framework to deploy LLM applications with horizontal scalability, enabling efficient batch inference and low-latency serving in production environments.
+
+- **End-to-End Tooling**: Provides Jupyter Notebook-based guides covering data preprocessing, model fine-tuning, retrieval system design, and deployment strategies for LLM applications in real-world scenarios.
 
 ## Why It Matters
 

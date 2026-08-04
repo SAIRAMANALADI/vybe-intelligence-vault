@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-04T03:54:42.975119+05:30'
+collected_at: '2026-08-04T09:12:26.048159+05:30'
 published_at: '2026-08-01T18:59:43Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-04T03:54:42.975119+05:30'
-last_seen: '2026-08-04T03:54:42.975119+05:30'
-last_checked: '2026-08-04T03:54:42.975119+05:30'
+first_seen: '2026-08-04T09:12:26.048159+05:30'
+last_seen: '2026-08-04T09:12:26.048159+05:30'
+last_checked: '2026-08-04T09:12:26.048159+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision-maker) collaborating via CrewAI for A-share market analysis.
-- **Data Integration**: Leverages AKShare for real-time A-share metrics (quotes, financials, fund flows, sentiment) and structured analysis.
-- **Decision Engine**: Outputs actionable investment insights by synthesizing multi-source data, optimized for Chinese market dynamics.
+- **Multi-Agent A股 Analysis**: Implements four specialized AI agents (data retrieval, financial analysis, sentiment analysis, decision synthesis) using CrewAI for collaborative A股 investment insights.
+- **Data Integration**: Leverages AKShare for real-time A股 metrics (quotes, financials, fund flows, sentiment) with Chinese-market-specific optimizations.
+- **Decision Engine**: Aggregates multi-source analysis to generate actionable investment recommendations, updated via automated pipeline (last synced 2026-08-01).
 
 ## Why It Matters
 

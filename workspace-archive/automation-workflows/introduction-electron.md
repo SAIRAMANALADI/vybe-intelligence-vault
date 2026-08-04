@@ -3,7 +3,7 @@ title: Introduction | Electron
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://www.electronjs.org/docs/latest
-resource_id: blog:introduction-electron
+resource_id: blog:introduction-electron-8e2f6bc7
 local_vault_path: ai/resources/introduction-electron.md
 quality_score: 70
 archive_score: 82

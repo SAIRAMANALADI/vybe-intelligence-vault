@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-04T03:52:12.881204+05:30'
+collected_at: '2026-08-04T09:09:55.958810+05:30'
 published_at: '2026-07-31T19:00:24Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-04T03:52:12.881204+05:30'
-last_seen: '2026-08-04T03:52:12.881204+05:30'
-last_checked: '2026-08-04T03:52:12.881204+05:30'
+first_seen: '2026-08-04T09:09:55.958810+05:30'
+last_seen: '2026-08-04T09:09:55.958810+05:30'
+last_checked: '2026-08-04T09:09:55.958810+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-based RAG framework to enhance complex reasoning tasks.
 
-- **Graph Retrieval-Augmented Reasoning**: Integrates GraphRAG with large language models (LLMs) to dynamically retrieve and synthesize information from knowledge graphs, improving factual accuracy and logical coherence in multi-step reasoning.
+- **Graph-Centric RAG**: Leverages knowledge graphs to structure and retrieve contextual information, enabling agents to perform fine-grained, graph-augmented reasoning with improved factual grounding and interpretability.
 
-- **Optimized for ICLR 2026**: Designed for high-performance complex reasoning, with Python-based implementation supporting scalable graph operations and agent coordination for real-world applications.
+- **ICLR 2026 Contribution**: Proposes a novel paradigm for integrating graph retrieval with agent-based systems, demonstrating state-of-the-art performance on complex reasoning benchmarks through vertical agent specialization and graph-augmented memory.
 
 ## Why It Matters
 

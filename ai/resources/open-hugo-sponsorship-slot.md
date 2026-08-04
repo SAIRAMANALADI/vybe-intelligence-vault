@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://bep.is/en/hugo-sponsor-2023-01/?utm_campaign=hugosponsor&utm_content=gohugoio&utm_medium=banner&utm_source=hugofooter
-published_at: '2026-07-21T20:00:33.241014+05:30'
-collected_at: '2026-07-21T20:00:33.241023+05:30'
+published_at: '2026-08-04T09:13:58.965944+05:30'
+collected_at: '2026-08-04T09:13:58.965953+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:open-hugo-sponsorship-slot
-first_seen: '2026-07-21T20:00:33.241023+05:30'
-last_seen: '2026-07-21T20:00:33.241023+05:30'
-last_checked: '2026-07-21T20:00:33.241023+05:30'
+first_seen: '2026-08-04T09:13:58.965953+05:30'
+last_seen: '2026-08-04T09:13:58.965953+05:30'
+last_checked: '2026-08-04T09:13:58.965953+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Sponsorship Benefits**: Up to 3 corporate sponsors receive a logo banner with a link on the [gohugo.io](https://gohugo.io/) homepage, footer of all pages on [gohugo.io](https://gohugo.io) and [themes.gohugo.io](https://themes.gohugo.io), and the [Hugo GitHub repository](https://github.com/gohugoio/hugo#banner-sponsors).
+- **Sponsorship Benefits**: Up to 3 corporate sponsors receive logo-linked banners on [gohugo.io](https://gohugo.io) (homepage/footer) and [themes.gohugo.io](https://themes.gohugo.io), plus a banner in Hugo’s GitHub repository ([gohugoio/hugo](https://github.com/gohugoio/hugo#banner-sponsors)).
 
-- **Support Open Source**: Sponsorship directly funds the ongoing development of the Hugo static site generator, a widely-used open-source project.
+- **Support Open Source**: Sponsorship funds ongoing development of the Hugo static site generator, a widely used open-source project.
 
 - **Contact**: Interested parties should email [bjorn.erik.pedersen@gmail.com](mailto:bjorn.erik.pedersen@gmail.com) for inquiries.
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T20:00:33.241014+05:30
+- Published: 2026-08-04T09:13:58.965944+05:30
 
 ## Related Tags
 

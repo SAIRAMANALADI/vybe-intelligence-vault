@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.npmjs.com/
-published_at: '2026-08-04T01:37:47.455873+05:30'
-collected_at: '2026-08-04T01:37:47.455885+05:30'
+published_at: '2026-08-04T09:20:38.063884+05:30'
+collected_at: '2026-08-04T09:20:38.063892+05:30'
 tags:
 - web-crawled
+- workflows
 status: active
 resource_id: blog:npm-docs
-first_seen: '2026-08-04T01:37:47.455885+05:30'
-last_seen: '2026-08-04T01:37:47.455885+05:30'
-last_checked: '2026-08-04T01:37:47.455885+05:30'
+first_seen: '2026-08-04T09:20:38.063892+05:30'
+last_seen: '2026-08-04T09:20:38.063892+05:30'
+last_checked: '2026-08-04T09:20:38.063892+05:30'
 health_score: 100
 ---
 
@@ -20,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **npm CLI**: Command-line interface for managing Node.js packages, including `npm install`, `npm publish`, and `npm audit` for dependency management and security checks.
-- **Package Registry**: Centralized repository for Node.js packages, enabling versioning, dependency resolution, and lifecycle scripts via `package.json`.
-- **Security & Policies**: Enforces access control (via Organizations), threat mitigation (e.g., `npm audit fix`), and compliance with registry policies for package publishing.
+- **npm CLI**: Command-line interface for interacting with the npm registry, enabling package installation, version management, and script execution via commands like `npm install`, `npm publish`, and `npm run`.
+- **Package Management**: Supports dependency resolution, semantic versioning (`^`, `~`, `*`), and lifecycle scripts (`preinstall`, `postpublish`) for automated workflows in Node.js projects.
+- **Security Policies**: Enforces registry access controls, two-factor authentication (2FA), and package signing (via npm provenance) to mitigate supply-chain threats like dependency confusion and malicious package uploads.
 
 ## Why It Matters
 
@@ -32,11 +33,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T01:37:47.455873+05:30
+- Published: 2026-08-04T09:20:38.063884+05:30
 
 ## Related Tags
 
 - web-crawled
+- workflows
 
 ## Source
 

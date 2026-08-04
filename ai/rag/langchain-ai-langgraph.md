@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langgraph
-collected_at: '2026-08-04T03:54:28.031597+05:30'
-published_at: '2026-08-03T21:38:21Z'
+collected_at: '2026-08-04T09:12:11.045125+05:30'
+published_at: '2026-08-04T03:30:25Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 38786
+stars: 38799
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-08-09T18:33:12Z'
 pushed_at: '2026-08-02T00:51:22Z'
 resource_id: github:langchain-ai/langgraph
-first_seen: '2026-08-04T03:54:28.031597+05:30'
-last_seen: '2026-08-04T03:54:28.031597+05:30'
-last_checked: '2026-08-04T03:54:28.031597+05:30'
+first_seen: '2026-08-04T09:12:11.045125+05:30'
+last_seen: '2026-08-04T09:12:11.045125+05:30'
+last_checked: '2026-08-04T09:12:11.045125+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework for resilient agentic systems**: LangGraph is a Python-based framework designed for building robust, multi-agent systems with resilience and fault tolerance, leveraging graph-based workflows for orchestration.
+- **Framework for resilient AI agents**: LangGraph provides a Python-based framework for building, deploying, and managing resilient multi-agent systems, leveraging LLMs (e.g., OpenAI, Gemini) and enterprise-grade tooling.
 
-- **Integration with major LLMs and tools**: Supports OpenAI, Gemini, and other generative AI models, with built-in integrations for RAG, enterprise tools, and Pydantic for structured data handling.
+- **Stateful, graph-based orchestration**: Uses Pydantic for structured state management and defines agent workflows as graphs, enabling complex multi-agent interactions, tool usage (e.g., RAG), and fault tolerance.
 
-- **Multi-agent orchestration & enterprise features**: Enables parallel/concurrent agent execution, state management, and enterprise-grade scalability with 38.7K+ GitHub stars and active maintenance.
+- **Enterprise-ready features**: Supports deep agent integration, scalability, and modularity, with open-source components for generative AI, chatbot systems, and agentic workflows.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 38786
-- Forks: 6538
+- Stars: 38799
+- Forks: 6541
 - Language: Python
 - Topics: agents, ai, ai-agents, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag
-- Last Updated: 2026-08-03T21:38:21Z
+- Last Updated: 2026-08-04T03:30:25Z
 - License: MIT
 - Archived: No
 - Created At: 2023-08-09T18:33:12Z

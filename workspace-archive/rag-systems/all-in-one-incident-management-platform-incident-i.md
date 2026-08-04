@@ -1,6 +1,6 @@
 ---
 title: All-in-one incident management platform | incident.io
-archive_category: automation-workflows
+archive_category: rag-systems
 source_category: ai/rag
 source_url: https://incident.io?utm_source=medium&utm_medium=status-pages
 resource_id: blog:all-in-one-incident-management-platform-incident-i
@@ -13,7 +13,6 @@ importance: medium
 tags:
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -23,7 +22,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Automation Workflows`
+- Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
@@ -32,17 +31,17 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert noise reduction**: Filters and prioritizes alerts to minimize unnecessary pages, focusing on critical incidents only.
+- **AI-powered alert noise reduction**: Uses machine learning to filter and prioritize critical alerts, minimizing false positives and unnecessary pages to streamline incident response.
 
-- **Automated scheduling & escalation**: Dynamically assigns on-call duties with intelligent rotation, ensuring optimal coverage and reducing manual overhead.
+- **Automated on-call scheduling**: Implements dynamic rotation logic with conflict detection, ensuring optimal coverage while accounting for team availability, time zones, and skill sets.
 
-- **Real-time insights & trends**: Provides analytics on incident frequency, response times, and team performance to optimize on-call workflows.
+- **Real-time incident trends & analytics**: Provides historical and live telemetry on incident frequency, resolution times
 
 ## Use Cases
 
-- Local cron scheduling
-- n8n pipeline setups
-- OS task automations
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 

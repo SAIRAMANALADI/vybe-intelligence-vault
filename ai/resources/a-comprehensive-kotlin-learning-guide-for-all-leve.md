@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.jetbrains.com/education/2024/04/04/kotlin-learning-guide/
-published_at: '2026-08-03T01:14:16.210606+05:30'
-collected_at: '2026-08-03T01:14:16.210619+05:30'
+published_at: '2026-08-04T09:19:02.675961+05:30'
+collected_at: '2026-08-04T09:19:02.675970+05:30'
 tags:
 - hackernews
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:a-comprehensive-kotlin-learning-guide-for-all-leve
-first_seen: '2026-08-03T01:14:16.210619+05:30'
-last_seen: '2026-08-03T01:14:16.210619+05:30'
-last_checked: '2026-08-03T01:14:16.210619+05:30'
+first_seen: '2026-08-04T09:19:02.675970+05:30'
+last_seen: '2026-08-04T09:19:02.675970+05:30'
+last_checked: '2026-08-04T09:19:02.675970+05:30'
 health_score: 100
 ---
 
@@ -25,10 +25,8 @@ health_score: 100
 ## Summary
 
 - **Kotlin Learning Platforms**: JetBrains Academy offers Kotlin learning via **Hyperskill** (freemium, adaptive, browser-based) and **JetBrains Marketplace** (free, IDE-integrated, non-personalized).
-- **Key Kotlin Courses**:
-  - *Hyperskill*: "Kotlin Core" (128h, adaptive, project-based) and "Kotlin Developer" (181h, full-stack/backend/Android).
-  - *Marketplace*: "Kotlin Koans" (syntax exercises), "Coroutines and Channels" (concurrency), and "Algorithmic Challenges in Kotlin" (interview prep).
-- **IDE Integration**: Courses require JetBrains IDEs (e.g., IntelliJ IDEA) with the **JetBrains Academy plugin** for hands-on coding and refactoring exercises.
+- **Core Kotlin Tracks**: Hyperskill’s **Kotlin Core** (128h, adaptive) and JetBrains Marketplace’s **Kotlin Koans** (exercise-based) cater to beginners and experienced programmers, respectively.
+- **Advanced Specializations**: JetBrains provides **Coroutines and Channels** (concurrency), **Kotlin Backend Developer (Spring Boot)**, and **Android Developer with Kotlin** (certification-eligible) for specialized skill development.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T01:14:16.210606+05:30
+- Published: 2026-08-04T09:19:02.675961+05:30
 
 ## Related Tags
 

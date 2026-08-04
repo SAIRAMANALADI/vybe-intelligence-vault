@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CyberSunil/LLMVault
-collected_at: '2026-08-04T03:51:52.846531+05:30'
+collected_at: '2026-08-04T09:09:35.901519+05:30'
 published_at: '2026-08-03T11:07:17Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 stars: 263
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-07-15T08:18:22Z'
 pushed_at: '2026-08-02T20:25:20Z'
 resource_id: github:cybersunil/llmvault
-first_seen: '2026-08-04T03:51:52.846531+05:30'
-last_seen: '2026-08-04T03:51:52.846531+05:30'
-last_checked: '2026-08-04T03:51:52.846531+05:30'
+first_seen: '2026-08-04T09:09:35.901519+05:30'
+last_seen: '2026-08-04T09:09:35.901519+05:30'
+last_checked: '2026-08-04T09:09:35.901519+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Intentionally vulnerable OWASP LLM Top 10 training platform designed for AI security, prompt injection, RAG security, agent security, and GenAI penetration testing.
-- **Features**: Includes CTF challenges, Docker support, and covers vulnerabilities like prompt injection, LLM security testing, and red-team exercises.
-- **Technical Stack**: Built in Python with modular components for AI security research and testing.
+- **Purpose-Built Vulnerable LLM Training Platform**: A Docker-based Python lab designed to simulate OWASP LLM Top 10 vulnerabilities for hands-on security testing, including prompt injection, RAG security flaws, and agent-based attack vectors.
+
+- **Comprehensive Security Testing Toolkit**: Integrates red-team methodologies for GenAI penetration testing, covering LLM security, AI security tooling, and CTF-style challenges to evaluate resilience against adversarial inputs.
+
+- **Modular & Up-to-Date Repository**: Actively maintained (last updated Aug 2026) with 263 stars and 64 forks, featuring structured labs for AI security research, prompt injection exploitation, and RAG vulnerability assessment.
 
 ## Why It Matters
 

@@ -4,20 +4,21 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-08-04T03:57:33.441686+05:30'
-collected_at: '2026-08-04T03:57:33.441701+05:30'
+published_at: '2026-08-04T09:20:57.047479+05:30'
+collected_at: '2026-08-04T09:20:57.047488+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-04T03:57:33.441701+05:30'
-last_seen: '2026-08-04T03:57:33.441701+05:30'
-last_checked: '2026-08-04T03:57:33.441701+05:30'
+first_seen: '2026-08-04T09:20:57.047488+05:30'
+last_seen: '2026-08-04T09:20:57.047488+05:30'
+last_checked: '2026-08-04T09:20:57.047488+05:30'
 health_score: 100
 ---
 
@@ -25,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Native agent-driven development**: GitHub Copilot app provides a desktop experience for agent-driven development, natively integrated with GitHub, supporting macOS, Windows, and Linux across all Copilot plans or custom API keys.
+- **Agent-driven development environment**: GitHub Copilot app integrates native agent workflows for issue-to-merge automation across macOS, Windows, and Linux, supporting parallel sessions with isolated workspaces (branches, files, conversations) and built-in validation (diffs, PR previews, terminal checks).
 
-- **Isolated, parallel workflows**: Sessions are isolated workspaces for branches, files, and conversations, enabling parallel workflows with built-in validation (diffs, in-app browser previews, terminal checks) and automated workflows via scheduled tasks.
+- **Design and extensibility features**: Includes open-source **Impeccable** design skill (23 commands like `/critique`, `/polish`) for design system enforcement, plus native GitHub context integration, custom MCP server support, and one-click workflow automation for repeatable tasks.
 
-- **Extensible agent ecosystem**: Supports native GitHub context, custom skills/plugins, and MCP servers for external data integration; pricing tiers range from Free ($0) to Max ($100/month), with increasing credits and premium model access.
+- **Pricing tiers**: Free tier (2K completions/month), **Pro** ($10/user/month) with unlimited completions and model selection, **Pro+** ($39) for premium models (e.g., Opus) and audit logs, and **Max** ($100) for high-volume workflows with priority access and 200 monthly credits.
 
 ## Why It Matters
 
@@ -39,13 +40,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-04T03:57:33.441686+05:30
+- Published: 2026-08-04T09:20:57.047479+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
 - frontend_ui
+- reddit
 - scripts
 - web-crawled
 - workflows

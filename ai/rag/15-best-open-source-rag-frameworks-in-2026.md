@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-08-04T03:50:35.095004+05:30'
-collected_at: '2026-08-04T03:50:35.095019+05:30'
+published_at: '2026-08-04T09:08:17.969050+05:30'
+collected_at: '2026-08-04T09:08:17.969058+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-08-04T03:50:35.095019+05:30'
-last_seen: '2026-08-04T03:50:35.095019+05:30'
-last_checked: '2026-08-04T03:50:35.095019+05:30'
+first_seen: '2026-08-04T09:08:17.969058+05:30'
+last_seen: '2026-08-04T09:08:17.969058+05:30'
+last_checked: '2026-08-04T09:08:17.969058+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Modular framework for chaining LLM components with 105k+ GitHub stars; supports flexible model integration, retrieval pipelines, and evaluation tools via LangSmith/LangGraph for RAG workflows.
+- **LangChain**: Open-source LLM application framework with 105k stars, offering modular RAG components (data connectors, model flexibility, retrieval strategies) and ecosystem tools like LangSmith/LangGraph for debugging and workflow management.
 
-- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document parsing (PDFs/tables) with GraphRAG support, agentic reasoning, and dual storage backends (Elasticsearch/Infinity).
+- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document understanding (PDFs, tables, layouts) with GraphRAG support, agentic reasoning, and flexible storage backends (Elasticsearch/Infinity).
 
-- **Milvus**: Cloud-native vector database (33.9k stars) optimized for billion-scale ANN search; enables hybrid retrieval (vector + scalar filtering) and integrates with major RAG frameworks for production-grade RAG systems.
+- **Milvus**: High-performance, cloud-native vector database (33.9k stars) optimized for scalable similarity search, supporting hybrid queries, multi-modal embeddings, and seamless integration with RAG frameworks like LangChain/LlamaIndex.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T03:50:35.095004+05:30
+- Published: 2026-08-04T09:08:17.969050+05:30
 
 ## Related Tags
 

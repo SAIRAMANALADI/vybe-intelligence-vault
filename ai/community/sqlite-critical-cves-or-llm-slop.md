@@ -13,13 +13,14 @@ collected_at: '2026-08-04T03:49:23.213148+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:sqlite-critical-cves-or-llm-slop
 first_seen: '2026-08-04T01:28:35.191047+05:30'
 last_seen: '2026-08-04T03:49:23.213148+05:30'
 last_checked: '2026-08-04T03:49:23.213148+05:30'
 health_score: 100
 ---
+
 
 # SQLite Critical CVEs or LLM Slop?
 

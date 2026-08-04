@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
-collected_at: '2026-08-04T03:53:22.941507+05:30'
+collected_at: '2026-08-04T09:11:05.973109+05:30'
 published_at: '2026-08-03T04:42:28Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - unknown
-- workflows
 stars: 282
 language: Unknown
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-01T05:40:33Z'
 pushed_at: '2026-08-03T04:41:48Z'
 resource_id: github:arunagirinathan-k/awesome-ai-agents-2026
-first_seen: '2026-08-04T03:53:22.941507+05:30'
-last_seen: '2026-08-04T03:53:22.941507+05:30'
-last_checked: '2026-08-04T03:53:22.941507+05:30'
+first_seen: '2026-08-04T09:11:05.973109+05:30'
+last_seen: '2026-08-04T09:11:05.973109+05:30'
+last_checked: '2026-08-04T09:11:05.973109+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with focus on 2026 advancements.
-- **Technical Benchmarks & Comparisons**: Includes comparison guides, benchmarks, and deep-dive analyses for evaluating AI agent performance across key frameworks (e.g., CrewAI, LangChain) and LLM integrations.
-- **Autonomous & LLM-Centric Tools**: Highlights autonomous agents, LLM-driven workflows, and specialized tools (e.g., `llm-agents`, `agent-frameworks`) with last updated timestamp (2026-08-03).
+- **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with a focus on 2026 advancements.
+
+- **Technical Benchmarks & Comparisons**: Includes detailed comparison guides, performance benchmarks, and deep-dive analyses for frameworks like CrewAI, LangChain, and LLM-based agents.
+
+- **Active Maintenance & Updates**: Last updated August 3, 2026, with 282 stars and 134 forks, indicating ongoing community engagement and relevance.
 
 ## Why It Matters
 

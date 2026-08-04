@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-04T03:51:37.831536+05:30'
+collected_at: '2026-08-04T09:09:20.944175+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
-- dataset
 - github-repo
 - hackernews
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-04T03:51:37.831536+05:30'
-last_seen: '2026-08-04T03:51:37.831536+05:30'
-last_checked: '2026-08-04T03:51:37.831536+05:30'
+first_seen: '2026-08-04T09:09:20.944175+05:30'
+last_seen: '2026-08-04T09:09:20.944175+05:30'
+last_checked: '2026-08-04T09:09:20.944175+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A structured collection of advanced RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval, cross-modal alignment, and vision-language integration frameworks.
-
-- **Key focus areas**: Encompasses state-of-the-art methods for enhancing vision tasks (e.g., image captioning, object detection, VQA) via retrieval-augmented mechanisms, leveraging external knowledge bases or datasets.
-
-- **Open-source repository**: Hosted on GitHub with 339 stars and 9 forks, last updated in July 2026, serving as a dynamic reference for researchers and practitioners in multimodal AI.
+- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)** applications.
+- **Metadata**: 339 stars, 9 forks, last updated **July 15, 2026**; language unspecified (likely multi-language or placeholder).
+- **Purpose**: Serves as a centralized hub for state-of-the-art RAG methods integrating vision-language models, multimodal retrieval, and domain-specific CV enhancements.
 
 ## Why It Matters
 

@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com/
-published_at: '2026-08-04T03:56:16.403287+05:30'
-collected_at: '2026-08-04T03:56:16.403299+05:30'
+source_url: https://www.githubstatus.com
+published_at: '2026-08-04T09:20:39.760478+05:30'
+collected_at: '2026-08-04T09:20:39.760485+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-04T03:56:16.403299+05:30'
-last_seen: '2026-08-04T03:56:16.403299+05:30'
-last_checked: '2026-08-04T03:56:16.403299+05:30'
+first_seen: '2026-08-04T09:20:39.760485+05:30'
+last_seen: '2026-08-04T09:20:39.760485+05:30'
+last_checked: '2026-08-04T09:20:39.760485+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics, incident tracking, and regional status dashboards (AU/EU/JP/US).
-- **Copilot Incidents (July-August 2026)** reported degraded performance due to upstream AI model provider failures (e.g., Fable 5, GPT-5.6 Luna, Claude Fable 5), causing elevated error rates and partial outages, resolved via provider coordination.
-- **GitHub Actions Outage (July 29, 2026)** caused by under-provisioned internal service (runner-administration) leading to 2% workflow delays; mitigated via horizontal scaling and improved monitoring/alerting.
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Actions, Copilot) with historical uptime metrics (90-day) and incident tracking.
+- **Copilot Incidents**: Multiple outages reported (Aug 1–4, 2026) due to upstream AI model provider issues (e.g., Fable 5, GPT-5.6 Luna, Claude Fable 5), causing degraded availability and elevated error rates.
+- **Actions Outage**: On Jul 29, 2026, GitHub Actions experienced REST API timeouts and workflow delays (2% of workflows affected) due to under-provisioned internal service instances, resolved by scaling runner-administration service.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T03:56:16.403287+05:30
+- Published: 2026-08-04T09:20:39.760478+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com/
+Original source: https://www.githubstatus.com

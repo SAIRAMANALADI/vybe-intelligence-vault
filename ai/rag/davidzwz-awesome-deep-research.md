@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-04T03:52:17.899767+05:30'
+collected_at: '2026-08-04T09:10:00.967303+05:30'
 published_at: '2026-08-03T10:33:50Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 832
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-04T03:52:17.899767+05:30'
-last_seen: '2026-08-04T03:52:17.899767+05:30'
-last_checked: '2026-08-04T03:52:17.899767+05:30'
+first_seen: '2026-08-04T09:10:00.967303+05:30'
+last_seen: '2026-08-04T09:10:00.967303+05:30'
+last_checked: '2026-08-04T09:10:00.967303+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and large language model (LLM)-driven search frameworks, with a focus on ACL 2026 contributions.
+- **Curated resource list** for agentic deep research, focusing on LLM-driven reasoning agents, RAG (Retrieval-Augmented Generation), and search-agent architectures, aligned with ACL 2026 KnowFM contributions.
 
-- **Technical Scope**: Encompasses topics such as deep research agents, multi-agent collaboration, adaptive retrieval strategies, and reasoning-augmented LLM architectures for complex information synthesis.
+- **Technical scope** includes advanced topics such as multi-agent reasoning, iterative retrieval strategies, and evaluation frameworks for deep research tasks in NLP and AI.
 
-- **Dynamic Repository**: Actively maintained (last updated Aug 2026) with 832 stars and 68 forks, serving as a community-driven index for papers, tools, and methodologies in agentic AI research.
+- **Repository metrics**: 832 stars, 68 forks, last updated 2026-08-03, serving as a community-driven hub for cutting-edge research in agentic AI systems.
 
 ## Why It Matters
 

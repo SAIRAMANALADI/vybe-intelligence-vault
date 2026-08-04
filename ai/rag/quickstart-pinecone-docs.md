@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.pinecone.io/guides/get-started/quickstart
-published_at: '2026-08-03T20:57:44.074940+05:30'
-collected_at: '2026-08-03T20:57:44.074949+05:30'
+published_at: '2026-08-04T09:20:47.677807+05:30'
+collected_at: '2026-08-04T09:20:47.677816+05:30'
 tags:
 - agents
 - anthropic
@@ -15,15 +15,14 @@ tags:
 - openai
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:quickstart-pinecone-docs
-first_seen: '2026-08-03T20:57:44.074949+05:30'
-last_seen: '2026-08-03T20:57:44.074949+05:30'
-last_checked: '2026-08-03T20:57:44.074949+05:30'
+first_seen: '2026-08-04T09:20:47.677816+05:30'
+last_seen: '2026-08-04T09:20:47.677816+05:30'
+last_checked: '2026-08-04T09:20:47.677816+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Index Creation & Embedding**: Pinecone supports integrated embedding via `create_index_for_model` with models like `llama-text-embed-v2`, enabling vectorization of text fields (e.g., `content`) during indexing for semantic search.
+- **Integrated Embedding Workflow**: Pinecone's `create_index_for_model` with `llama-text-embed-v2` enables serverless indexing and vectorization; `upsert_records` requires `_id` and `content` fields per SDK v9+; `search()` uses `inputs.text` for queries and supports reranking via `bge-reranker-v2-m3`.
 
-- **Data Upsert & Search**: Records are inserted using `upsert_records` with structured fields (`_id`, `content`, `category`) and searched via `search()` with reranking (e.g., `bge-reranker-v2-m3`) for hybrid retrieval.
+- **Authentication & Setup**: Requires Pinecone API key (created in console) and optional LLM provider keys (Anthropic/OpenAI); supports Starter (free), Builder ($20/month), or Standard trial (21 days/$300 credits) plans with regional cloud deployment.
 
-- **Authentication & SDK Integration**: Requires a Pinecone API key for authentication; SDKs (Python/JS/Java/Go) support direct index management, while IDE plugins (Claude/Cursor) or no-code tools (n8n) streamline setup and workflow automation.
+- **Multi-Path Integration**: Provides direct SDK integration (Python/JS/Java/Go), AI coding tool plugins (Claude/Cursor), or no-code workflows via n8n; emphasizes reproducible setup via Pinecone CLI or MCP server for IDE-based development.
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:57:44.074940+05:30
+- Published: 2026-08-04T09:20:47.677807+05:30
 
 ## Related Tags
 
@@ -57,7 +56,6 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube

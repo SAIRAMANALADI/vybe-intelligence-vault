@@ -13,13 +13,14 @@ collected_at: '2026-08-04T03:49:21.829953+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ddos-against-norwegian-government-it-infrastructur
 first_seen: '2026-08-04T03:49:21.829953+05:30'
 last_seen: '2026-08-04T03:49:21.829953+05:30'
 last_checked: '2026-08-04T03:49:21.829953+05:30'
 health_score: 100
 ---
+
 
 # DDoS against Norwegian government IT infrastructure – status
 

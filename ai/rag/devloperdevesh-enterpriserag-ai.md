@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-04T03:51:57.886378+05:30'
+collected_at: '2026-08-04T09:09:40.902268+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 14
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-04T03:51:57.886378+05:30'
-last_seen: '2026-08-04T03:51:57.886378+05:30'
-last_checked: '2026-08-04T03:51:57.886378+05:30'
+first_seen: '2026-08-04T09:09:40.902268+05:30'
+last_seen: '2026-08-04T09:09:40.902268+05:30'
+last_checked: '2026-08-04T09:09:40.902268+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a Linux-native security and governance mesh using eBPF for real-time monitoring and enforcement of AI agent workloads, ensuring low-overhead, kernel-level observability and control.
-
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, optimized for SaaS-scale AI workloads, integrating vector databases for efficient data retrieval and contextual augmentation.
-
-- **Security & Governance Focus**: Designed for enterprise security and compliance, combining GenAI capabilities with governance controls to mitigate risks in AI-driven workflows while maintaining scalability and performance.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement, ensuring real-time policy compliance and workload isolation.
+- **Enterprise-Grade RAG Pipeline**: Combines FastAPI backend with TypeScript for a scalable, vector-DB-backed Retrieval-Augmented Generation (RAG) system optimized for SaaS AI deployments.
+- **GenAI Governance Features**: Integrates LLM-driven governance controls with vector search capabilities, enabling secure, auditable AI agent interactions in production environments.
 
 ## Why It Matters
 

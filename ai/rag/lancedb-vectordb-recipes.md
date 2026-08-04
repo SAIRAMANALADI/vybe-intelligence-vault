@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-04T03:50:47.837363+05:30'
+collected_at: '2026-08-04T09:08:30.874467+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-04T03:50:47.837363+05:30'
-last_seen: '2026-08-04T03:50:47.837363+05:30'
-last_checked: '2026-08-04T03:50:47.837363+05:30'
+first_seen: '2026-08-04T09:08:30.874467+05:30'
+last_seen: '2026-08-04T09:08:30.874467+05:30'
+last_checked: '2026-08-04T09:08:30.874467+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and large language models (LLMs) like GPT-4 Vision.
-
-- **Tooling Integration**: Demonstrates workflows leveraging vector databases (LanceDB), frameworks (LangChain, LlamaIndex), and APIs (OpenAI) for fine-tuning, embeddings, and agent-based AI applications.
-
-- **Technical Focus**: Covers deep learning, machine learning, and vector database optimizations for scalable, multimodal AI pipelines, last updated with modern tooling (e.g., 2026-08-03).
+- **Multimodal AI & RAG Implementations**: Provides end-to-end examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search (LanceDB) and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Agent & Pipeline Tutorials**: Demonstrates agent-based workflows integrating embeddings, fine-tuning, and vector databases for tasks like document Q&A, image-text retrieval, and autonomous agents.
+- **Technical Stack**: Focuses on deep-learning frameworks (PyTorch/TensorFlow), OpenAI APIs, and LanceDB for scalable vector storage, with notebooks covering fine-tuning, embeddings, and hybrid search.
 
 ## Why It Matters
 

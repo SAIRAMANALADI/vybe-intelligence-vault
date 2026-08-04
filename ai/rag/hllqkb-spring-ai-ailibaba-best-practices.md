@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-04T03:51:27.792045+05:30'
+collected_at: '2026-08-04T09:09:10.849804+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-04T03:51:27.792045+05:30'
-last_seen: '2026-08-04T03:51:27.792045+05:30'
-last_checked: '2026-08-04T03:51:27.792045+05:30'
+first_seen: '2026-08-04T09:09:10.849804+05:30'
+last_seen: '2026-08-04T09:09:10.849804+05:30'
+last_checked: '2026-08-04T09:09:10.849804+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal AI Integration**: Demonstrates Spring AI integration with Alibaba Cloud services, covering text generation, image generation (`图片生成`), and image understanding (`图片理解`) via SSE streams and Function Call mechanisms.
-
-- **Advanced RAG & Knowledge Systems**: Implements Retrieval-Augmented Generation (RAG) with vector databases (`VectorDatabase`), embedding models (`Embedding`), and knowledge graphs (`知识图谱`) for contextual question-answering and historical message handling.
-
-- **Agentic Workflows & Tooling**: Features AI agent architectures (`Agent智能体`) with function calls, dynamic tool invocation, and persistent conversation history for stateful interactions.
+- **Implementation of AI Q&A Systems**: Demonstrates SSE streaming, Agent-based architectures, and RAG with knowledge graphs for real-time AI responses.
+- **Multi-modal AI Capabilities**: Supports image generation (e.g., via Stable Diffusion), image understanding, and function calling for dynamic workflows.
+- **Vector Database & Embedding Integration**: Utilizes vector databases (e.g., Milvus, Chroma) for efficient RAG, with embedding models (e.g., BERT, Sentence-BERT) for semantic search.
 
 ## Why It Matters
 
