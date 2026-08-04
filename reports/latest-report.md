@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-05T04:13:52.402243+05:30`
+Generated at: `2026-08-05T04:35:27.195080+05:30`
 
 ## Executive Summary
 
@@ -13,16 +13,14 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Third-party cyber evaluations involving OpenAI models** - Score: `13` in category `ai/community` ([Link](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models)) ([File](../ai/community/third-party-cyber-evaluations-involving-openai-mod.md))
 - **AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL** - Score: `11` in category `ai/community` ([Link](https://africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol)) ([File](../ai/community/ai-fuels-more-than-half-of-cybercrime-in-africa-as.md))
 - **Welcome to Weaviate Python Client’s documentation! — Weaviate Python Client 4.22.0 documentation** - Score: `0` in category `ai/rag` ([Link](https://weaviate-python-client.readthedocs.io/en/stable/index.html)) ([File](../ai/rag/welcome-to-weaviate-python-clients-documentation-w.md))
-- **Microsoft Edge help & learning | Microsoft Support** - Score: `0` in category `ai/rag` ([Link](https://support.microsoft.com/en-us/microsoft-edge)) ([File](../ai/rag/microsoft-edge-help-learning-microsoft-support.md))
 - **Framer: AI website builder for professional sites** - Score: `0` in category `ai/agents` ([Link](https://framer.com)) ([File](../ai/agents/framer-ai-website-builder-for-professional-sites.md))
-- **Computers for agents · Fly** - Score: `0` in category `ai/rag` ([Link](http://fly.io)) ([File](../ai/rag/computers-for-agents-fly.md))
-- **Colab | Google for Developers** - Score: `0` in category `ai/rag` ([Link](https://colab.google)) ([File](../ai/rag/colab-google-for-developers.md))
 - **CodeQL documentation** - Score: `0` in category `ai/rag` ([Link](https://codeql.github.com/docs)) ([File](../ai/rag/codeql-documentation.md))
 - **Speechify · GitHub** - Score: `0` in category `ai/agents` ([Link](https://github.com/speechifyinc)) ([File](../ai/agents/speechify-github.md))
-- **Python | Weaviate Documentation** - Score: `0` in category `ai/rag` ([Link](https://weaviate.io/developers/weaviate/client-libraries/python)) ([File](../ai/rag/python-weaviate-documentation.md))
-- **The AI database developers love | Weaviate** - Score: `0` in category `ai/rag` ([Link](https://weaviate.io)) ([File](../ai/rag/the-ai-database-developers-love-weaviate.md))
-- **Text to Speech Leaderboard - Top AI Speech Models** - Score: `0` in category `ai/agents` ([Link](https://artificialanalysis.ai/text-to-speech/leaderboard/selected-voice?top-models=true)) ([File](../ai/agents/text-to-speech-leaderboard-top-ai-speech-models.md))
-- **Allow JavaScript in your browser - Google AdSense Help** - Score: `0` in category `ai/resources` ([Link](https://support.google.com/adsense/answer/12654?hl=en)) ([File](../ai/resources/allow-javascript-in-your-browser-google-adsense-he.md))
+- **Getting Started | Developer Documentation** - Score: `0` in category `ai/resources` ([Link](https://docs.cloud.llamaindex.ai/llamacloud/getting_started)) ([File](../ai/resources/getting-started-developer-documentation.md))
+- **How C.H. Robinson is transforming the logistics industry with LangChain** - Score: `0` in category `ai/agents` ([Link](https://blog.langchain.com/customers-chrobinson)) ([File](../ai/agents/how-c-h-robinson-is-transforming-the-logistics-ind.md))
+- **LlamaIndex · GitHub** - Score: `0` in category `ai/rag` ([Link](https://github.com/run-llama)) ([File](../ai/rag/llamaindex-github.md))
+- **tensor - YouTube** - Score: `0` in category `ai/resources` ([Link](https://youtube.com/@tensor)) ([File](../ai/resources/tensor-youtube.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -39,16 +37,16 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🚀 Fastest Rising Tools
 
-- **cisco-ai-defense/defenseclaw** - (Rank Change: `+6975`) ([File](../ai/agents/cisco-ai-defense-defenseclaw.md))
-- **TXYZ** - (Rank Change: `+6949`) ([File](../ai/resources/txyz.md))
-- **Packaging Python Projects - Python Packaging User Guide** - (Rank Change: `+6563`) ([File](../ai/rag/packaging-python-projects-python-packaging-user-gu.md))
-- **The WebM Project | Submitting Patches** - (Rank Change: `+6539`) ([File](../ai/rag/the-webm-project-submitting-patches.md))
+- **cisco-ai-defense/defenseclaw** - (Rank Change: `+6999`) ([File](../ai/agents/cisco-ai-defense-defenseclaw.md))
+- **TXYZ** - (Rank Change: `+6952`) ([File](../ai/resources/txyz.md))
+- **Packaging Python Projects - Python Packaging User Guide** - (Rank Change: `+6566`) ([File](../ai/rag/packaging-python-projects-python-packaging-user-gu.md))
 - **yl4579/StyleTTS2** - (Rank Change: `+5759`) ([File](../ai/rag/yl4579-styletts2.md))
 - **Web preferences - Opera Help** - (Rank Change: `+5714`) ([File](../ai/resources/web-preferences-opera-help.md))
-- **[1603.09320] Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs** - (Rank Change: `+5687`) ([File](../ai/rag/arxiv-1603-09320.md))
-- **MongoDB Vector Search | MongoDB** - (Rank Change: `+5665`) ([File](../ai/rag/mongodb-vector-search-mongodb.md))
-- **MongoDB Courses and Trainings | MongoDB University** - (Rank Change: `+5643`) ([File](../ai/resources/mongodb-courses-and-trainings-mongodb-university.md))
+- **[1603.09320] Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs** - (Rank Change: `+5695`) ([File](../ai/rag/arxiv-1603-09320.md))
+- **MongoDB Vector Search | MongoDB** - (Rank Change: `+5680`) ([File](../ai/rag/mongodb-vector-search-mongodb.md))
+- **MongoDB Courses and Trainings | MongoDB University** - (Rank Change: `+5658`) ([File](../ai/resources/mongodb-courses-and-trainings-mongodb-university.md))
 - **Vespa Demos** - (Rank Change: `+2898`) ([File](../ai/rag/vespa-demos.md))
+- **vespa-engine/vespa** - (Rank Change: `+2857`) ([File](../ai/rag/vespa-engine-vespa.md))
 
 ## 🔄 Essential Tier Transitions
 
