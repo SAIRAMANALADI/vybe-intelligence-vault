@@ -1,29 +1,19 @@
 ---
-title: emekdahl/skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-05
-tech_stack:
-- Python
-- Markdown
-- CLI
-- Skills Framework (skills.sh)
-- LLM Evaluation Harness
+title: "emekdahl/skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "CLI", "Skills Framework (skills.sh)", "LLM Evaluation Harness"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- code review
-- architecture validation
-- AI agent skill
-- SRE practices
-- security review
-source: https://github.com/emekdahl/skills
+deployment_complexity: "Low"
+tags: ["code review", "architecture validation", "AI agent skill", "SRE practices", "security review"]
+source: "https://github.com/emekdahl/skills"
 stars: 0
-language: Python
-last_updated: '2026-07-13T13:17:05Z'
-discovered_at: '2026-07-13T13:22:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T13:17:05Z"
+discovered_at: "2026-07-13T13:22:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
