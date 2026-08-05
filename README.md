@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-163%2C303-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-97%2C061-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--05-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **163,303 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **97,061 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,033</p>
-        <p><b>Active:</b> 17,542 | <b>Inactive:</b> 491</p>
+        <p><b>Resources tracked:</b> 17,034</p>
+        <p><b>Active:</b> 16,543 | <b>Inactive:</b> 491</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 67,468</p>
+        <p><b>Archive Files:</b> 2,187</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 163,303 files</p>
-        <p><b>Last Update:</b> 2026-08-05 22:45 IST</p>
+        <p><b>Total Vault Size:</b> 97,061 files</p>
+        <p><b>Last Update:</b> 2026-08-05 23:55 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,29 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[android Git repositories - Git at Google](ai/rag/android-git-repositories-git-at-google.md)** • Rank: <kbd>+12</kbd>
-- 🔼 **[Google Account Help](ai/rag/google-account-help.md)** • Rank: <kbd>+1910</kbd>
-- 🔼 **[Google Analytics Opt-out Browser Add-on Download Page](ai/resources/google-analytics-opt-out-browser-add-on-download-p.md)** • Rank: <kbd>+2067</kbd>
-- 🔼 **[superproject](ai/resources/superproject.md)** • Rank: <kbd>+14</kbd>
-- 🔼 **[Client libraries and Cloud APIs explained | Google Cloud SDK | Google Cloud Documentation](ai/rag/client-libraries-and-cloud-apis-explained-google-c.md)** • Rank: <kbd>+7107</kbd>
+- 🔼 **[Google Analytics Opt-out Browser Add-on Download Page](ai/resources/google-analytics-opt-out-browser-add-on-download-p.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Client libraries and Cloud APIs explained | Google Cloud SDK | Google Cloud Documentation](ai/rag/client-libraries-and-cloud-apis-explained-google-c.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](ai/resources/factory-images-for-nexus-and-pixel-devices-google.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[Medium | Official Merchandise | Bonfire](ai/resources/medium-official-merchandise-bonfire.md)** • Rank: <kbd>+5</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Cloudflare OS: an open platform for agents, apps, and work](ai/community/cloudflare-os-an-open-platform-for-agents-apps-and.md)** • Score: `278`
-- 🆕 **[Position: LLMs Can't Jump](ai/community/position-llms-can-t-jump.md)** • Score: `173`
-- 🆕 **[TIME Is Serving AI Bots a Different Website, with Ads Built In](ai/community/time-is-serving-ai-bots-a-different-website-with-a.md)** • Score: `169`
-- 🆕 **[Intelligence Is Not the Main Bottleneck](ai/community/intelligence-is-not-the-main-bottleneck.md)** • Score: `81`
-- 🆕 **[The Entropy of a Markov Chain](ai/community/the-entropy-of-a-markov-chain.md)** • Score: `49`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[There Will Come Soft Rains (1950) [pdf]](ai/community/there-will-come-soft-rains-1950-pdf.md)**
-- 💤 **[AI fuels more than half of cybercrime in Africa as scams surge – Interpol](ai/community/ai-fuels-more-than-half-of-cybercrime-in-africa-as.md)**
-- 💤 **[Eight Myths on Software Engineering and GenAI](ai/community/eight-myths-on-software-engineering-and-genai.md)**
-- 💤 **[Zero-Mem: Zero-Token Memory Operations for LLM Agents](ai/community/arxiv-2607-29377.md)**
-- 💤 **[An SLM trained on $8 ESP32-S3](ai/community/carloscodix-qapla.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
