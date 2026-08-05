@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Kotlin/Kotlin-AI-Examples
-collected_at: '2026-08-05T17:04:59.749826+05:30'
+collected_at: '2026-08-05T22:29:00.821518+05:30'
 published_at: '2026-08-03T10:22:34Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
-- models
 - openai
-- workflows
 stars: 266
 language: Jupyter Notebook
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-10-03T23:36:12Z'
 pushed_at: '2026-08-03T10:22:39Z'
 resource_id: github:kotlin/kotlin-ai-examples
-first_seen: '2026-08-05T17:04:59.749826+05:30'
-last_seen: '2026-08-05T17:04:59.749826+05:30'
-last_checked: '2026-08-05T17:04:59.749826+05:30'
+first_seen: '2026-08-05T22:29:00.821518+05:30'
+last_seen: '2026-08-05T22:29:00.821518+05:30'
+last_checked: '2026-08-05T22:29:00.821518+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Framework AI Examples**: Demonstrates Kotlin implementations using Spring AI, LangChain4j, and other AI frameworks, with Jupyter Notebooks for interactive exploration.
-- **Hands-On Learning**: Provides executable Kotlin notebooks for practical AI inference, OpenAI integrations, and agent-based workflows.
-- **Active Development**: Last updated in 2026, featuring topics like agents, AI inference, and Kotlin-specific AI tooling.
+- **Repository Overview**: Kotlin-based collection of AI examples integrating frameworks like Spring AI and LangChain4j, with Jupyter Notebooks for interactive learning.
+- **Technical Scope**: Covers AI agents, inference, OpenAI integration, and Kotlin-specific implementations; last updated August 2026.
+- **Ecosystem**: 266 stars, 32 forks; categorized under AI, Kotlin, LangChain, and Spring topics.
 
 ## Why It Matters
 

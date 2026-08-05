@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-08-05T04:03:30.578701+05:30'
-collected_at: '2026-08-05T04:03:30.578716+05:30'
+published_at: '2026-08-05T22:33:47.040597+05:30'
+collected_at: '2026-08-05T22:33:47.040612+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-08-05T04:03:30.578716+05:30'
-last_seen: '2026-08-05T04:03:30.578716+05:30'
-last_checked: '2026-08-05T04:03:30.578716+05:30'
+first_seen: '2026-08-05T22:33:47.040612+05:30'
+last_seen: '2026-08-05T22:33:47.040612+05:30'
+last_checked: '2026-08-05T22:33:47.040612+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Evaluation Tutorial**: Provides a comprehensive guide on evaluating Haystack pipelines using statistical and model-based metrics, covering both RAG and agentic workflows.
+- **Haystack Evaluation Guide**: Provides a structured walkthrough for implementing and assessing evaluation metrics in RAG pipelines, covering both statistical and model-based approaches.
 
-- **Multimodal & Agentic RAG Pipelines**: Tutorials demonstrate building multimodal RAG (combining text and vision), multi-agent systems, and conversational RAG with `InMemoryChatMessageStore` for multi-turn interactions.
+- **Multimodal & Agentic Workflows**: Tutorials demonstrate advanced pipelines including vision+text RAG, multi-agent systems, and tool-calling agents with fallback mechanisms for web-based RAG.
 
-- **Advanced Optimization & Deployment**: Includes techniques like KV cache compression with TurboQuant for consumer GPUs, serialization of LLM pipelines (YAML/Python), and pre-built agent deployment from the experimental Agent Pack.
+- **Optimization & Customization**: Covers techniques like KV cache compression (TurboQuant), custom SuperComponent creation, and serialization of LLM pipelines for efficient deployment and integration.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T04:03:30.578701+05:30
+- Published: 2026-08-05T22:33:47.040597+05:30
 
 ## Related Tags
 

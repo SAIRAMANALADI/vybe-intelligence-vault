@@ -2,7 +2,7 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: http://developer.android.com/index.html
+source_url: https://developer.android.com
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Jetpack Compose** celebrates 5 years as the industry-standard UI framework for modern Android development, reshaping declarative UI paradigms and tooling integration.
-- **Android 17 (API 37)** is now live on AOSP with Pixel rollouts, introducing new APIs, performance optimizations, and developer tools for adaptive layouts and XR integration.
-- **Android Studio Quail 3 (2026.1.3)** enforces strict SDK licensing terms, restricting derivative works, reverse engineering, and unauthorized redistr
+- **Jetpack Compose**: Celebrates 5 years as the industry-standard declarative UI toolkit for Android, reshaping modern development with Compose-based architectures and tooling.
+
+- **Android 17 & XR Updates**: Android 17 (API 37) is now live in AOSP with Pixel rollouts, while Android XR expands engine support and resources for immersive app development.
+
+- **SDK License Constraints**: Google’s SDK License Agreement restricts usage to Android-compatible development, prohibits reverse engineering/
 
 ## Use Cases
 
@@ -47,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://developer.android.com/index.html
+Original source URL: https://developer.android.com
 
 ## Local Vault File
 

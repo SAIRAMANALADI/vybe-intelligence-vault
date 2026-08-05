@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-05T17:03:24.585602+05:30'
+collected_at: '2026-08-05T22:27:25.769288+05:30'
 published_at: '2026-08-02T02:34:01Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 4380
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-05T17:03:24.585602+05:30'
-last_seen: '2026-08-05T17:03:24.585602+05:30'
-last_checked: '2026-08-05T17:03:24.585602+05:30'
+first_seen: '2026-08-05T22:27:25.769288+05:30'
+last_seen: '2026-08-05T22:27:25.769288+05:30'
+last_checked: '2026-08-05T22:27:25.769288+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides a hands-on, 12-lesson curriculum with source code and Docker-based infrastructure for building production-ready LLM and RAG systems using LLMOps best practices.
-- **Tech Stack**: Integrates AWS, Bytewax, Comet-ML, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps), and Superlinked for scalable, end-to-end generative AI pipelines.
-- **Key Focus**: Covers ML system design, MLOps, and infrastructure-as-code (IaC) for deploying LLMs and RAG systems in cloud environments.
+- **End-to-End LLM & RAG System**: Course provides hands-on guidance for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
+- **Technical Stack**: Implements AWS, Pulumi (IaC), Bytewax (stream processing), Qdrant (vector DB), Comet-ML (experiment tracking), and Qwak (MLOps platform) with Docker for containerization.
+- **ML System Design Focus**: Covers ML system architecture, MLOps workflows, and infrastructure-as-code (IaC) for scalable, production-grade generative AI deployments.
 
 ## Why It Matters
 

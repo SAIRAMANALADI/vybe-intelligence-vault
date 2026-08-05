@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rohitg00/agentmemory
-collected_at: '2026-08-05T17:05:14.627642+05:30'
-published_at: '2026-08-05T11:35:02Z'
+collected_at: '2026-08-05T22:29:20.801041+05:30'
+published_at: '2026-08-05T16:16:47Z'
 tags:
 - agents
 - anthropic
@@ -14,7 +14,7 @@ tags:
 - rag
 - typescript
 - workflows
-stars: 26574
+stars: 26594
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-02-25T07:32:52Z'
 pushed_at: '2026-08-03T17:35:41Z'
 resource_id: github:rohitg00/agentmemory
-first_seen: '2026-08-05T17:05:14.627642+05:30'
-last_seen: '2026-08-05T17:05:14.627642+05:30'
-last_checked: '2026-08-05T17:05:14.627642+05:30'
+first_seen: '2026-08-05T22:29:20.801041+05:30'
+last_seen: '2026-08-05T22:29:20.801041+05:30'
+last_checked: '2026-08-05T22:29:20.801041+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Persistent Memory Framework**: Provides structured, long-term memory storage for AI coding agents, optimized for real-world benchmarks and agent workflows.
-- **TypeScript Implementation**: Built in TypeScript for cross-platform compatibility and integration with modern AI agent ecosystems (e.g., Claude, Cursor, Copilot).
-- **Benchmark-Driven Design**: Evaluated against real-world use cases, supporting extensibility via topics like `agentmemory`, `genai`, and `harness` for agent orchestration.
+- **Persistent Memory Framework**: Provides a TypeScript-based persistent memory system for AI coding agents, optimized for real-world benchmark performance and seamless integration with tools like ClaudeCode, Cursor, and Copilot.
+
+- **Multi-Agent Compatibility**: Supports diverse AI agents (e.g., Hermes, OpenClaw) with structured memory storage, enabling context retention across sessions for improved task execution.
+
+- **Benchmark-Driven Optimization**: Designed for high scalability (26.5K+ stars, 2.2K+ forks) with active updates (last commit: 2026-08-05), ensuring alignment with evolving AI agent workflows.
 
 ## Why It Matters
 
@@ -43,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: rohitg00
-- Stars: 26574
-- Forks: 2251
+- Stars: 26594
+- Forks: 2252
 - Language: TypeScript
 - Topics: agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw
-- Last Updated: 2026-08-05T11:35:02Z
+- Last Updated: 2026-08-05T16:16:47Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-25T07:32:52Z

@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com
-published_at: '2026-08-05T17:08:11.713372+05:30'
-collected_at: '2026-08-05T17:08:11.713383+05:30'
+source_url: https://githubstatus.com/
+published_at: '2026-08-05T22:33:51.673525+05:30'
+collected_at: '2026-08-05T22:33:51.673542+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-05T17:08:11.713383+05:30'
-last_seen: '2026-08-05T17:08:11.713383+05:30'
-last_checked: '2026-08-05T17:08:11.713383+05:30'
+first_seen: '2026-08-05T22:33:51.673542+05:30'
+last_seen: '2026-08-05T22:33:51.673542+05:30'
+last_checked: '2026-08-05T22:33:51.673542+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status of GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime data (90-day metrics) and incident tracking across regions (US, EU, Australia, Japan).
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days).
 
-- **Copilot Incident Reports**: Multiple documented outages (e.g., Aug 3, 2026: degraded Copilot chat/agent models; Jul 30, 2026: Claude Fable 5 failures due to upstream AI provider issues) with root causes tied to external model provider dependencies.
+- **Incident Notification Systems**: Supports multi-channel incident alerts via email, SMS (global country code support), Slack, and webhooks for automated incident tracking (e.g., Copilot AI model provider outages).
 
-- **Notification & Integration Options**: Supports subscriptions via email, SMS (global), Slack, and webhooks for incident updates, with compliance to Atlassian/GitHub privacy policies and reCAPTCHA protection.
+- **Regional Status Monitoring**: Tracks GitHub Enterprise Cloud status across regions (Australia, EU, Japan, US) with incident post-mortems (e.g., Copilot model failures due to upstream provider issues).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T17:08:11.713372+05:30
+- Published: 2026-08-05T22:33:51.673525+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com
+Original source: https://githubstatus.com/

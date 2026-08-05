@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Observability Framework**: LangSmith provides full-stack visibility into LLM applications, enabling trace-level debugging, production-wide performance monitoring, and automated issue detection via LangSmith Engine.
-- **Multi-Framework Support**: Integrates with OpenAI, Anthropic, CrewAI, Vercel AI SDK, Pydantic AI, and others, with setup via API keys, environment variables, or framework-specific SDKs.
-- **Deployment Options**: Supports cloud, hybrid, or self-hosted LangSmith instances, inclu
+- **LangSmith Observability** provides end-to-end monitoring of LLM applications, including individual trace analysis, production performance metrics, and cross-framework integration (e.g., OpenAI, Anthropic, CrewAI).
+- **Core features** include automated failure detection via LangSmith Engine, trace visualization/filtering, custom dashboards, alerting, and user feedback collection through annotation queues.
+- **Deployment options** include cloud, hybrid, or self-hosted LangSmith instances, with
 
 ## Use Cases
 

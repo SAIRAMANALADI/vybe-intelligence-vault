@@ -13,13 +13,14 @@ collected_at: '2026-08-05T17:01:41.258041+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:there-will-come-soft-rains-1950-pdf
 first_seen: '2026-08-04T09:07:27.408173+05:30'
 last_seen: '2026-08-05T17:01:41.258041+05:30'
 last_checked: '2026-08-05T17:01:41.258041+05:30'
 health_score: 100
 ---
+
 
 # There Will Come Soft Rains (1950) [pdf]
 

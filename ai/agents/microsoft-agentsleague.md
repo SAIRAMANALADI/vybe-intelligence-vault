@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-08-05T17:04:19.669038+05:30'
+collected_at: '2026-08-05T22:28:25.819444+05:30'
 published_at: '2026-07-26T18:35:47Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-08-05T17:04:19.669038+05:30'
-last_seen: '2026-08-05T17:04:19.669038+05:30'
-last_checked: '2026-08-05T17:04:19.669038+05:30'
+first_seen: '2026-08-05T22:28:25.819444+05:30'
+last_seen: '2026-08-05T22:28:25.819444+05:30'
+last_checked: '2026-08-05T22:28:25.819444+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive, asynchronous community challenges, modeled after esports tournaments.
-- **GitHub-based submission system**: Participants submit AI agents via GitHub, enabling version control and collaborative development.
-- **Dynamic leaderboard & real-time updates**: Tracks performance metrics and updates rankings in real-time based on agent interactions and outcomes.
+- **Agentic AI Competition Framework**: Hosts live AI Battles and asynchronous challenges with GitHub-based submissions for agentic AI development.
+- **E-Sports Integration**: Gamifies AI development with competitive, high-energy developer challenges and leaderboards.
+- **Open-Source Repository**: Active project (last updated July 2026) with 284 stars and 91 forks, though language and topics are unspecified.
 
 ## Why It Matters
 

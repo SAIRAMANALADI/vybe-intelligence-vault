@@ -4,8 +4,8 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/roadmap
-collected_at: '2026-08-05T01:38:12.549949+05:30'
-published_at: '2026-08-03T17:34:23Z'
+collected_at: '2026-08-05T22:35:05.298206+05:30'
+published_at: '2026-08-05T06:41:16Z'
 tags:
 - github-repo
 - unknown
@@ -17,9 +17,9 @@ archived: false
 created_at: '2020-03-31T21:35:07Z'
 pushed_at: '2024-10-15T17:31:37Z'
 resource_id: github:github/roadmap
-first_seen: '2026-08-05T01:38:12.549949+05:30'
-last_seen: '2026-08-05T01:38:12.549949+05:30'
-last_checked: '2026-08-05T01:38:12.549949+05:30'
+first_seen: '2026-08-05T22:35:05.298206+05:30'
+last_seen: '2026-08-05T22:35:05.298206+05:30'
+last_checked: '2026-08-05T22:35:05.298206+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Public Roadmap Repository**: GitHub's official public roadmap (`github/roadmap`) tracks upcoming features and improvements for GitHub products (e.g., GitHub.com, GitHub Enterprise) with community-driven feedback integration.
+- **Public Roadmap Repository**: GitHub's official public roadmap (`github/roadmap`) tracks upcoming features and improvements for GitHub products, including GitHub.com and GitHub Enterprise.
 
-- **Collaborative Development**: The roadmap is open-source, allowing users to submit feature requests, upvote proposals, and track progress via GitHub Issues and Milestones for transparency.
+- **Collaborative Tracking**: The roadmap uses GitHub Issues for feature requests and feedback, enabling community-driven prioritization and transparency in development.
 
-- **Regular Updates**: The repository is actively maintained with the last update on **2026-08-03**, reflecting GitHub's commitment to iterative product development and community engagement.
+- **Last Updated**: The repository was last updated on **August 5, 2026**, reflecting ongoing updates to reflect current and future product plans.
 
 ## Why It Matters
 
@@ -41,10 +41,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: github
 - Stars: 8832
-- Forks: 1719
+- Forks: 1720
 - Language: Unknown
 - Topics: github, github-enterprise, roadmap
-- Last Updated: 2026-08-03T17:34:23Z
+- Last Updated: 2026-08-05T06:41:16Z
 - License: CC-BY-4.0
 - Archived: No
 - Created At: 2020-03-31T21:35:07Z

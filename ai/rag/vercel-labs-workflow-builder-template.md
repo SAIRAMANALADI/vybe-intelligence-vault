@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-08-05T17:04:39.699835+05:30'
+collected_at: '2026-08-05T22:28:40.800002+05:30'
 published_at: '2026-08-03T15:41:30Z'
 tags:
 - agents
@@ -20,11 +20,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-11-03T17:14:16Z'
-pushed_at: '2026-01-13T08:27:13Z'
+pushed_at: '2026-08-05T16:47:35Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-08-05T17:04:39.699835+05:30'
-last_seen: '2026-08-05T17:04:39.699835+05:30'
-last_checked: '2026-08-05T17:04:39.699835+05:30'
+first_seen: '2026-08-05T22:28:40.800002+05:30'
+last_seen: '2026-08-05T22:28:40.800002+05:30'
+last_checked: '2026-08-05T22:28:40.800002+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Visual AI workflow automation platform enabling drag-and-drop creation of AI-driven workflows with TypeScript-based architecture.
-- **Key Features**: Supports agent-based automation, integrates AI models for task orchestration, and provides a template system for reusable workflow components.
-- **Technical Stack**: Built on Vercel’s ecosystem, leveraging TypeScript for type safety and scalability, with active development (last updated Aug 2026).
+- **Platform Overview**: Visual AI workflow automation platform enabling drag-and-drop creation of multi-agent systems with TypeScript-based architecture.
+
+- **Key Features**: Supports modular workflow design, integrates AI agents, and leverages Vercel’s deployment infrastructure for scalability.
+
+- **Technical Stack**: Built with TypeScript, optimized for Vercel deployments, and includes GitHub Actions for CI/CD pipelines.
 
 ## Why It Matters
 
@@ -51,7 +53,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-03T17:14:16Z
-- Pushed At: 2026-01-13T08:27:13Z
+- Pushed At: 2026-08-05T16:47:35Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-05T17:03:24.573737+05:30'
+collected_at: '2026-08-05T22:27:30.754336+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-05T17:03:24.573737+05:30'
-last_seen: '2026-08-05T17:03:24.573737+05:30'
-last_checked: '2026-08-05T17:03:24.573737+05:30'
+first_seen: '2026-08-05T22:27:30.754336+05:30'
+last_seen: '2026-08-05T22:27:30.754336+05:30'
+last_checked: '2026-08-05T22:27:30.754336+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Implements SSE streaming, Agent-based workflows, and RAG with knowledge graphs** for AI Q&A systems, leveraging Java-based Spring AI integration with Alibaba Cloud services.
-
-- **Supports advanced features** including FunctionCall, historical message management, image generation/understanding, Embedding models, and Vector Database operations for RAG pipelines.
-
-- **Utilizes Alibaba Cloud’s AI capabilities** (e.g., Qwen models, embedding services) with modular architecture for extensibility, optimized for production-grade AI applications.
+- **Implementation of Retrieval-Augmented Generation (RAG)**: Demonstrates integration of vector databases (e.g., Chroma, Milvus) with Spring AI for semantic search and knowledge retrieval, enabling context-aware AI responses.
+- **Agentic Workflows with Function Calling**: Implements AI agents using Spring AI’s function call capabilities, enabling dynamic tool invocation (e.g., API calls, external services) for complex task execution.
+- **Multimodal AI Capabilities**: Supports image generation (e.g., via Stable Diffusion) and image understanding (OCR, visual QA) using Spring AI’s multimodal models and embedding pipelines.
 
 ## Why It Matters
 
@@ -43,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: hllqkb
 - Stars: 36
-- Forks: 11
+- Forks: 10
 - Language: Java
 - Topics: None
 - Last Updated: 2026-07-25T03:18:55Z

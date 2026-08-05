@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-26-understanding-rag-from-scratch/
-published_at: '2026-07-10T13:18:53.177179+05:30'
-collected_at: '2026-07-10T13:18:53.177192+05:30'
+published_at: '2026-08-05T22:26:36.246575+05:30'
+collected_at: '2026-08-05T22:26:36.246591+05:30'
 tags:
 - anthropic
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:understanding-rag-from-scratch-martinuke0-s-blog
-first_seen: '2026-07-10T13:18:53.177192+05:30'
-last_seen: '2026-07-10T13:18:53.177192+05:30'
-last_checked: '2026-07-10T13:18:53.177192+05:30'
+first_seen: '2026-08-05T22:26:36.246591+05:30'
+last_seen: '2026-08-05T22:26:36.246591+05:30'
+last_checked: '2026-08-05T22:26:36.246591+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: Four-step process involving (1) **ingestion & extraction** of raw content (e.g., PDFs, HTML), (2) **chunking** into semantically coherent segments (e.g., 500-token chunks with 50-token overlap), (3) **embedding & indexing** via models (e.g., sentence-transformers, OpenAI embeddings) stored in vector databases (e.g., FAISS, Milvus), and (4) **retrieval-augmentation-generation** where queries are embedded, top-*k* chunks retrieved (via ANN/HNSW), and prompts augmented for LLM generation.
+- **RAG Pipeline**: Four-step process—(1) **Ingest & Extract** raw content (PDFs, HTML, databases), (2) **Chunking** into semantically coherent segments (token-aware or sentence-based), (3) **Embedding & Indexing** via models (e.g., SBERT, OpenAI) stored in vector DBs (FAISS, Pinecone) using ANN (HNSW/IVF+PQ), (4) **Retrieval→Augmentation→Generation** where queries are embedded, top-*k* chunks retrieved (cosine similarity), reranked (cross-encoders/BM25), and fed to LLM with structured prompts.
 
-- **Chunking & Embedding Trade-offs**: Chunking strategies (sentence-aware, token-based, semantic) balance context window constraints and semantic coherence, while embedding models (e.g., SBERT, OpenAI) trade dimensionality (768–1536) and compute cost for accuracy, with ANN indexing (HNSW, IVF+PQ) optimizing retrieval speed vs. memory.
+- **Chunking & Embedding Trade-offs**: Chunk size (500 tokens, 50-token overlap) balances context vs. noise; embedding dimensionality (768–1536) trades memory/latency for accuracy; hybrid retrieval (dense + sparse) improves recall/precision; vector stores optimize for persistence, replication, and query throughput.
 
-- **Query-Time Optimization**: Queries are encoded with the same embedding model, ranked via hybrid methods (BM25 + cosine similarity), reranked with cross-encoders, and filtered (e.g., deduplication), with prompts constructed to include top-*k* chunks and citations, while mitigating challenges like re-indexing (incremental ingestion), vector DB costs (soft deletes, sharding), and hallucinations (post-processing verification).
+- **Operational Challenges**: **Re-indexing** mitigated via incremental ingestion (change logs, event-driven); **Vector DB costs** reduced via caching, sharding, quantization (PQ), or serverless options; **Hallucinations** addressed via cross-encoder reranking, source citations, and factuality checks (verifier LLMs or database queries).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-10T13:18:53.177179+05:30
+- Published: 2026-08-05T22:26:36.246575+05:30
 
 ## Related Tags
 

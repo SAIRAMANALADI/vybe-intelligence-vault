@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-08-05T14:29:51.048037+05:30'
-published_at: '2026-08-05T08:35:49Z'
+collected_at: '2026-08-05T22:28:45.871220+05:30'
+published_at: '2026-08-05T16:53:24Z'
 tags:
 - agents
 - github-repo
 - typescript
 - workflows
-stars: 35326
+stars: 35335
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-05-24T03:39:39Z'
-pushed_at: '2026-08-04T09:35:02Z'
+pushed_at: '2026-08-05T09:47:41Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-08-05T14:29:51.048037+05:30'
-last_seen: '2026-08-05T14:29:51.048037+05:30'
-last_checked: '2026-08-05T14:29:51.048037+05:30'
+first_seen: '2026-08-05T22:28:45.871220+05:30'
+last_seen: '2026-08-05T22:28:45.871220+05:30'
+last_checked: '2026-08-05T22:28:45.871220+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based Open-Source Coding Agent**: A CLI-driven AI assistant (`continue`) designed to automate and enhance coding workflows with agentic capabilities.
-- **Repository Metrics**: 35,326 stars, 5,183 forks, last updated August 5, 2026; focuses on developer tools, AI integration, and extensibility.
-- **Core Features**: Supports multi-model LLM interactions, context-aware code generation/refactoring, and seamless IDE integration (VS Code, JetBrains).
+- **Open-source AI coding agent**: Continue is a TypeScript-based autonomous coding assistant designed to automate development tasks via an agentic workflow.
+- **CLI and IDE integration**: Supports integration with popular editors (e.g., VS Code) and provides a command-line interface for seamless developer interaction.
+- **Extensible architecture**: Modular design enables customization via plugins, supporting multi-model LLM backends and advanced context-aware code generation.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 35326
-- Forks: 5183
+- Stars: 35335
+- Forks: 5184
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-08-05T08:35:49Z
+- Last Updated: 2026-08-05T16:53:24Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z
-- Pushed At: 2026-08-04T09:35:02Z
+- Pushed At: 2026-08-05T09:47:41Z
 
 ## Possible Use Cases
 

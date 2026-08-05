@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-05T17:04:59.651918+05:30'
+collected_at: '2026-08-05T22:29:05.791220+05:30'
 published_at: '2026-08-04T12:21:57Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 stars: 954
 language: Python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-05T17:04:59.651918+05:30'
-last_seen: '2026-08-05T17:04:59.651918+05:30'
-last_checked: '2026-08-05T17:04:59.651918+05:30'
+first_seen: '2026-08-05T22:29:05.791220+05:30'
+last_seen: '2026-08-05T22:29:05.791220+05:30'
+last_checked: '2026-08-05T22:29:05.791220+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular agent-based workflows, hooks, and context engineering for scalable AI-driven development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **Codex CLI Best Practices**: Documents optimized commands, skills, and CLI configurations for OpenAI Codex, including agentic tooling, skill chaining, and context management to enhance AI agent autonomy and task execution efficiency.
+- **CLI-Centric AI Development**: Focuses on Codex CLI commands, skills, and best practices for OpenAI’s Codex, including agent orchestration, CLI-based skill execution, and context management for scalable AI agent interactions.
 
-- **Open-Source Pakistani Developer Contributions**: Curated by a Pakistani developer, the repo aggregates community-driven best practices, hooks, and CLI extensions for Codex, fostering collaborative improvements in agentic AI workflows.
+- **Practical Implementation Guide**: Provides a hands-on framework for Pakistani developers (and others) to implement Codex CLI agents, covering hooks, workflow automation, and performance optimization for AI-assisted coding tasks.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-08-05T17:12:13.007963+05:30'
-collected_at: '2026-08-05T17:12:13.007981+05:30'
+published_at: '2026-08-05T22:37:37.118571+05:30'
+collected_at: '2026-08-05T22:37:37.118588+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-08-05T17:12:13.007981+05:30'
-last_seen: '2026-08-05T17:12:13.007981+05:30'
-last_checked: '2026-08-05T17:12:13.007981+05:30'
+first_seen: '2026-08-05T22:37:37.118588+05:30'
+last_seen: '2026-08-05T22:37:37.118588+05:30'
+last_checked: '2026-08-05T22:37:37.118588+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Gerrit-based code review system** for Android repositories, requiring Google OAuth authentication and password generation/revocation for secure access.
-- **Extensive device-specific repositories** (e.g., `device/google/bluejay`, `device/google/taimen`) with kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and versioned kernel branches (e.g., `5.10`, `6.1`).
-- **Hardware abstraction and emulation support** via generic device trees (e.g., `device/generic/arm64`, `device/generic/x86_64`) and emulator-specific configurations (e.g., `device/generic/qemu`, `device/generic/goldfish`).
+- **Android Open-Source Project (AOSP) Git Repositories**: Hosted on `android.googlesource.com`, containing thousands of Git repositories for Android device-specific implementations, kernels, and accessory support (e.g., `device/google/bluejay`, `device/google/coral-kernel`).
+
+- **Device-Specific Branches & Kernels**: Many repositories include device-specific branches (e.g., `device/google/lynx-kernels/6.1`) and kernel versions (e.g., `device/google/akita-kernels/5.15`), supporting multiple Android versions (5.10, 5.15, 6.1).
+
+- **Security & Access Control**: Requires Google OAuth authentication for code review (`android-review.googlesource.com`) and password management via Google Security settings, enforcing strict access controls for contributors.
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T17:12:13.007963+05:30
+- Published: 2026-08-05T22:37:37.118571+05:30
 
 ## Related Tags
 

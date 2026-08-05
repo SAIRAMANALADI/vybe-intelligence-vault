@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-08-05T14:29:30.939537+05:30'
-published_at: '2026-08-05T05:30:43Z'
+collected_at: '2026-08-05T22:28:25.782467+05:30'
+published_at: '2026-08-05T15:05:50Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - typescript
-stars: 8315
+- workflows
+stars: 8316
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-08-05T14:29:30.939537+05:30'
-last_seen: '2026-08-05T14:29:30.939537+05:30'
-last_checked: '2026-08-05T14:29:30.939537+05:30'
+first_seen: '2026-08-05T22:28:25.782467+05:30'
+last_seen: '2026-08-05T22:28:25.782467+05:30'
+last_checked: '2026-08-05T22:28:25.782467+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Acts as a remote MCP (Model Context Protocol) server enabling AI agents (e.g., LLMs) to interact with any GitHub repository to mitigate "code hallucinations" by providing accurate, real-time code context.
+- **Remote MCP Server for GitHub**: Provides a TypeScript-based, open-source MCP (Model Context Protocol) server enabling direct interaction with any GitHub repository, facilitating structured AI agent access to codebases.
 
-- **Technical Stack**: Implemented in TypeScript, facilitating seamless integration with AI tools (Claude, Copilot, Cursor) via the MCP standard for structured, context-aware interactions.
+- **Mitigates Code Hallucinations**: Acts as a deterministic interface between LLMs and GitHub, ensuring accurate, context-aware code retrieval and modification to reduce AI-generated inaccuracies.
 
-- **Features**: Open-source, free-to-use, and supports dynamic repository access, enabling agents to fetch, analyze, and manipulate GitHub project data programmatically.
+- **Agentic AI Integration**: Supports agentic workflows (e.g., Claude, Copilot, Cursor) by exposing GitHub repositories as structured MCP resources, enabling seamless AI-driven development tasks.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: idosal
-- Stars: 8315
+- Stars: 8316
 - Forks: 739
 - Language: TypeScript
 - Topics: agentic-ai, agents, ai, claude, copilot, cursor, git, llm, mcp
-- Last Updated: 2026-08-05T05:30:43Z
+- Last Updated: 2026-08-05T15:05:50Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-03-29T00:44:19Z

@@ -3,9 +3,9 @@ title: Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://python.langchain.com/docs/use_cases/question_answering/
-published_at: '2026-08-05T01:33:43.504161+05:30'
-collected_at: '2026-08-05T01:33:43.504174+05:30'
+source_url: https://docs.langchain.com/oss/python/deepagents/rag
+published_at: '2026-08-05T22:26:48.868437+05:30'
+collected_at: '2026-08-05T22:26:48.868451+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-with-deep-agent
-first_seen: '2026-08-05T01:33:43.504174+05:30'
-last_seen: '2026-08-05T01:33:43.504174+05:30'
-last_checked: '2026-08-05T01:33:43.504174+05:30'
+first_seen: '2026-08-05T22:26:48.868451+05:30'
+last_seen: '2026-08-05T22:26:48.868451+05:30'
+last_checked: '2026-08-05T22:26:48.868451+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows; combines custom retrieval tools, filesystem backends, subagents, skills, and grading rubrics for flexible Q&A systems.
+- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows, enabling dynamic orchestration of retrieval, analysis, and synthesis based on corpus size, latency, and grounding requirements.
 
-- **Indexing Workflow**: Loads documents into `Document` objects, splits into chunks via text splitters, embeds chunks using an embeddings model (e.g., OpenAI), and stores chunks + embeddings in a `VectorStore` for efficient semantic retrieval.
+- **Retrieval-Augmented Workflow**: Implements a documentation Q&A agent that indexes LangChain docs via vector search, offloads retrieved chunks to a filesystem backend, and delegates analysis to subagents to maintain clean orchestrator context and ensure answers are grounded in source material.
 
-- **Retrieve-Offload-Delegate Pattern**: Retrieves relevant chunks, writes them to filesystem, and delegates analysis to subagents; subagents process files in parallel, enabling scalable, low-context-orchestrator Q&A with citations to source material.
+- **Indexing Pipeline**: Consists of four steps: loading documents into `Document` objects, splitting into chunks via text splitters, embedding chunks using models (e.g., OpenAI embeddings), and storing chunks/embeddings in a `VectorStore` for efficient similarity-based retrieval during query time.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T01:33:43.504161+05:30
+- Published: 2026-08-05T22:26:48.868437+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://python.langchain.com/docs/use_cases/question_answering/
+Original source: https://docs.langchain.com/oss/python/deepagents/rag

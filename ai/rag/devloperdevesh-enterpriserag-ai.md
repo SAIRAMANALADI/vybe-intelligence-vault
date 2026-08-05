@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-05T17:03:54.605343+05:30'
+collected_at: '2026-08-05T22:27:55.762169+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-05T17:03:54.605343+05:30'
-last_seen: '2026-08-05T17:03:54.605343+05:30'
-last_checked: '2026-08-05T17:03:54.605343+05:30'
+first_seen: '2026-08-05T22:27:55.762169+05:30'
+last_seen: '2026-08-05T22:27:55.762169+05:30'
+last_checked: '2026-08-05T22:27:55.762169+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance framework for AI agent workloads using Linux-native eBPF for real-time monitoring, enforcement, and low-overhead system-level observability.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement within a Linux-native architecture.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, supporting vector databases for scalable, context-aware AI workloads in production environments.
+- **Enterprise RAG Pipeline**: Deploys a Retrieval-Augmented Generation (RAG) system with FastAPI backend, TypeScript frontend, and vector database integration for scalable, secure AI-driven SaaS applications.
 
-- **SaaS-AI Governance Mesh**: Provides a structured governance layer for AI agents, integrating security policies, compliance checks, and multi-tenant isolation within a microservices architecture.
+- **Governance & Compliance Focus**: Designed for enterprise-grade security, auditability, and governance of AI workloads, leveraging GenAI and LLM optimizations for structured data processing.
 
 ## Why It Matters
 

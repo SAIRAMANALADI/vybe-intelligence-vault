@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-08-05T17:02:54.593196+05:30'
+collected_at: '2026-08-05T22:26:55.733688+05:30'
 published_at: '2026-08-02T00:39:45Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- reddit
 - workflows
 stars: 86
 language: Python
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-08-02T01:14:47Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-08-05T17:02:54.593196+05:30'
-last_seen: '2026-08-05T17:02:54.593196+05:30'
-last_checked: '2026-08-05T17:02:54.593196+05:30'
+first_seen: '2026-08-05T22:26:55.733688+05:30'
+last_seen: '2026-08-05T22:26:55.733688+05:30'
+last_checked: '2026-08-05T22:26:55.733688+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** backend.
-
-- **Key Components**: Integrates **Ollama** for LLM inference, **FastAPI** for REST endpoints, and supports **Docker/Kubernetes** deployment; leverages **vector databases** for semantic search.
-
-- **Tech Stack**: Python-based, optimized for **STACKIT Cloud** integration, with dependencies on **LLM, RAG, and vector search** workflows.
+- **Purpose**: Provides a template for building AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend services.
+- **Key Components**: Integrates **FastAPI** for API endpoints, **Ollama** for LLM inference, and supports **vector databases** (e.g., FAISS, Chroma) for semantic search; includes **Docker** and **Kubernetes** deployment options.
+- **Tech Stack**: Python-based, leverages **STACKIT** cloud services, and supports **LLM** integration for RAG workflows with document ingestion and retrieval.
 
 ## Why It Matters
 

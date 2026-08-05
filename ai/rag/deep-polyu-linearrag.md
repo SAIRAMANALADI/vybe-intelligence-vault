@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-05T17:04:09.655000+05:30'
+collected_at: '2026-08-05T22:28:10.834248+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 530
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-05T17:04:09.655000+05:30'
-last_seen: '2026-08-05T17:04:09.655000+05:30'
-last_checked: '2026-08-05T17:04:09.655000+05:30'
+first_seen: '2026-08-05T22:28:10.834248+05:30'
+last_seen: '2026-08-05T22:28:10.834248+05:30'
+last_checked: '2026-08-05T22:28:10.834248+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus processing by structuring data as a linear graph for efficient traversal and retrieval.
-
-- **ICLR 2026 Contribution**: Proposes a novel approach to augment LLM generation with graph-based retrieval, enhancing contextual relevance and scalability for large corpora.
-
-- **Python Implementation**: Provides an open-source Python implementation with 530+ stars, supporting graph-based RAG workflows for LLMs.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval and augmentation in large-scale corpora, optimized for ICLR 2026.
+- **Scalable Graph-Based Retrieval**: Implements linear-time graph traversal algorithms to enhance retrieval efficiency in massive document collections, reducing computational overhead compared to traditional RAG methods.
+- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and LLM integration, supporting customizable pipelines for downstream tasks.
 
 ## Why It Matters
 

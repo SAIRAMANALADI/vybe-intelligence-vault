@@ -4,16 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agent0ai/agent-zero
-collected_at: '2026-08-05T14:31:06.085279+05:30'
-published_at: '2026-08-05T08:38:10Z'
+collected_at: '2026-08-05T22:30:00.980755+05:30'
+published_at: '2026-08-05T16:22:46Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-- scripts
-- workflows
-stars: 18733
+stars: 18738
 language: Python
 status: active
 license: NOASSERTION
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-06-10T09:10:45Z'
 pushed_at: '2026-08-01T15:23:53Z'
 resource_id: github:agent0ai/agent-zero
-first_seen: '2026-08-05T14:31:06.085279+05:30'
-last_seen: '2026-08-05T14:31:06.085279+05:30'
-last_checked: '2026-08-05T14:31:06.085279+05:30'
+first_seen: '2026-08-05T22:30:00.980755+05:30'
+last_seen: '2026-08-05T22:30:00.980755+05:30'
+last_checked: '2026-08-05T22:30:00.980755+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Agent Zero is an open-source AI framework designed for building autonomous agents, emphasizing modularity and extensibility in Python for Linux environments.
-- **Core Features**: Supports autonomous agent orchestration with integrated AI assistants, enabling task automation, decision-making, and real-time interaction via a structured agent-based architecture.
-- **Technical Stack**: Built in Python with dependencies optimized for Linux, facilitating scalability, multi-agent systems, and integration with AI/ML models for advanced autonomous workflows.
+- **Framework Overview**: Agent Zero is an open-source AI framework designed for building autonomous agents in Python, emphasizing modularity and extensibility for AI assistant and agent-based applications.
+
+- **Core Architecture**: Implements a distributed, event-driven architecture with support for multi-agent systems, enabling parallel task execution and dynamic agent collaboration.
+
+- **Technical Stack**: Built on Python with dependencies for LLM integration (e.g., transformers), async I/O (e.g., asyncio), and Linux-native process management for low-latency operations.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: agent0ai
-- Stars: 18733
-- Forks: 3724
+- Stars: 18738
+- Forks: 3725
 - Language: Python
 - Topics: agent, ai, assistant, autonomous, linux, zero
-- Last Updated: 2026-08-05T08:38:10Z
+- Last Updated: 2026-08-05T16:22:46Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-10T09:10:45Z

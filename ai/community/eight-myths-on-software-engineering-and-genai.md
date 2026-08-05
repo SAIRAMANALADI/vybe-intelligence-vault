@@ -13,13 +13,14 @@ collected_at: '2026-08-05T17:01:40.537633+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:eight-myths-on-software-engineering-and-genai
 first_seen: '2026-08-05T09:03:35.772251+05:30'
 last_seen: '2026-08-05T17:01:40.537633+05:30'
 last_checked: '2026-08-05T17:01:40.537633+05:30'
 health_score: 100
 ---
+
 
 # Eight Myths on Software Engineering and GenAI
 

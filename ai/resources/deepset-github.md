@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/deepset
-published_at: '2026-08-05T01:37:05.105341+05:30'
-collected_at: '2026-08-05T01:37:05.105353+05:30'
+published_at: '2026-08-05T22:33:47.485449+05:30'
+collected_at: '2026-08-05T22:33:47.485464+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:deepset-github
-first_seen: '2026-08-05T01:37:05.105353+05:30'
-last_seen: '2026-08-05T01:37:05.105353+05:30'
-last_checked: '2026-08-05T01:37:05.105353+05:30'
+first_seen: '2026-08-05T22:33:47.485464+05:30'
+last_seen: '2026-08-05T22:33:47.485464+05:30'
+last_checked: '2026-08-05T22:33:47.485464+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Organization**: `deepset` is a GitHub organization with 5 public repositories, focusing on Go (Golang) projects including utilities like `httphashtool`, `go-patterns`, and `most-active-cookie`.
+- **Repository Overview**: `deepset` is a GitHub organization hosting 5 public repositories, primarily focused on Go (Golang) projects, including tools, design patterns, and server-side applications.
 
-- **Repository Highlights**: Key repositories include `go-patterns` (curated Go design patterns), `most-active-cookie` (binary search-based log analysis), and `tweether` (JSON data parsing tool).
+- **Key Projects**: Notable repositories include `httphashtool` (HTTP hash tool in Go), `go-patterns` (curated Go design patterns), and `most-active-cookie` (log file analysis using binary search).
 
-- **User Metrics**: The organization has 10 followers and 1 following, with no stars or projects listed, indicating a niche or emerging open-source presence.
+- **Technical Stack**: The organization emphasizes Go-based solutions, with additional projects in Node.js/Express.js (`node-express-course`) and JSON parsing (`tweether`).
 
 ## Why It Matters
 
@@ -34,10 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T01:37:05.105341+05:30
+- Published: 2026-08-05T22:33:47.485449+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source

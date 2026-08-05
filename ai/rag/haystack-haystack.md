@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/
-published_at: '2026-08-05T14:31:56.628318+05:30'
-collected_at: '2026-08-05T14:31:56.628330+05:30'
+published_at: '2026-08-05T22:30:51.258090+05:30'
+collected_at: '2026-08-05T22:30:51.258102+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:haystack-haystack
-first_seen: '2026-08-05T14:31:56.628330+05:30'
-last_seen: '2026-08-05T14:31:56.628330+05:30'
-last_checked: '2026-08-05T14:31:56.628330+05:30'
+first_seen: '2026-08-05T22:30:51.258102+05:30'
+last_seen: '2026-08-05T22:30:51.258102+05:30'
+last_checked: '2026-08-05T22:30:51.258102+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack 3.0 provides a transparent, modular framework for building production-grade AI agents with full visibility into retrieval, reasoning, memory, and tool integration, enabling inspection, debugging, and optimization of AI decisions.
+- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-grade AI agents with full visibility into retrieval, reasoning, memory, and tool integration, supporting components like OpenAI, Hugging Face, and vector databases (Weaviate, Pinecone) without vendor lock-in.
 
-- **Vendor-Neutral Integration & Scalability**: Supports seamless integration with diverse AI stacks (e.g., OpenAI, Hugging Face, Weaviate) without vendor lock-in, while offering cloud-agnostic, Kubernetes-ready pipelines with built-in reliability, observability, and enterprise-scale deployment tools.
+- **Enterprise-Grade Scalability**: Supports Kubernetes-ready, cloud-agnostic pipelines with built-in reliability, observability, and deployment tools, enabling seamless scaling from prototypes to enterprise workloads with logging, monitoring, and enterprise support.
 
-- **Multi-Use-Case Support**: Enables advanced RAG pipelines, AI agents with standardized tool calling, multimodal processing (text, image, audio), conversational AI, and content generation via composable Jinja-2 templates, with unified tooling for rapid prototyping to production deployment.
+- **Multimodal & Agentic Capabilities**: Enables advanced RAG pipelines, multimodal AI (text, image, audio), and production-ready AI agents with standardized tool calling, branching/looping workflows, and Jinja-2 templating for content generation.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T14:31:56.628318+05:30
+- Published: 2026-08-05T22:30:51.258090+05:30
 
 ## Related Tags
 

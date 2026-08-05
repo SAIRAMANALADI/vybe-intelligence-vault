@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mlai-kaist.com/
-published_at: '2026-08-02T01:16:04.820886+05:30'
-collected_at: '2026-08-02T01:16:04.820901+05:30'
+published_at: '2026-08-05T22:32:28.436998+05:30'
+collected_at: '2026-08-05T22:32:28.437014+05:30'
 tags:
 - paper
+- reddit
 - web-crawled
 status: active
 resource_id: blog:home-mlai
-first_seen: '2026-08-02T01:16:04.820901+05:30'
-last_seen: '2026-08-02T01:16:04.820901+05:30'
-last_checked: '2026-08-02T01:16:04.820901+05:30'
+first_seen: '2026-08-05T22:32:28.437014+05:30'
+last_seen: '2026-08-05T22:32:28.437014+05:30'
+last_checked: '2026-08-05T22:32:28.437014+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Publication Acceptances (2025-2026)**: MLAI group secured acceptances across top-tier conferences: **7 papers at NeurIPS 2025**, **5 at ICLR 2026**, **3 at EMNLP 2025**, **3 at ACL 2025**, **2 at ICML 2025**, **2 at CVPR 2025**, **2 at ACL 2026**, **2 at ICML 2026**, **2 at ECCV 2026**, **3 at CVPR 2026**, and **1 at TMLR**.
-
-- **Conference Diversity**: Research spans **computer vision (CVPR, ECCV)**, **NLP (ACL, EMNLP)**, **ML theory (ICML, ICLR, NeurIPS)**, and **TMLR**, indicating broad interdisciplinary impact.
-
-- **Findings Papers**: **2 Findings papers** accepted (CVPR 2026, ACL 2026), highlighting contributions beyond standard conference tracks.
+- **Publication Milestones**: KAIST MLAI lab achieved 27 paper acceptances across top-tier conferences (NeurIPS 2025, ICLR 2026, CVPR 2025/2026, ICML 2025/2026, ACL 2025/2026, EMNLP 2025, ECCV 2026, TMLR) between Sep 2025–Jun 2026.
+- **Conference Distribution**: Highest volume at NeurIPS 2025 (7 papers) and ICLR 2026 (5 papers), with notable presence in CVPR (5 papers across 2025/2026) and ACL (5 papers across 2025/2026).
+- **Diversity of Venues**: Acceptances span generative modeling (TMLR), vision (CVPR/ECCV), NLP (ACL/EMNLP), and machine learning (NeurIPS/ICML/ICLR), indicating cross-domain research impact.
 
 ## Why It Matters
 
@@ -35,11 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T01:16:04.820886+05:30
+- Published: 2026-08-05T22:32:28.436998+05:30
 
 ## Related Tags
 
 - paper
+- reddit
 - web-crawled
 
 ## Source

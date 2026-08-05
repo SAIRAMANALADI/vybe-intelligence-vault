@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-08-05T17:09:18.662091+05:30'
-collected_at: '2026-08-05T17:09:18.662106+05:30'
+published_at: '2026-08-05T22:34:49.511526+05:30'
+collected_at: '2026-08-05T22:34:49.511541+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-08-05T17:09:18.662106+05:30'
-last_seen: '2026-08-05T17:09:18.662106+05:30'
-last_checked: '2026-08-05T17:09:18.662106+05:30'
+first_seen: '2026-08-05T22:34:49.511541+05:30'
+last_seen: '2026-08-05T22:34:49.511541+05:30'
+last_checked: '2026-08-05T22:34:49.511541+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Security Policy**: Hugo enforces a restrictive security policy by default, using allowlists to control access to `os/exec`, remote communication, and other sensitive operations; unauthorized attempts trigger explicit failure messages.
+- **Security Policy**: Hugo enforces a default-deny security policy via allowlists, restricting `os/exec`, remote communication, and other sensitive operations; violations trigger explicit failure with detailed error messages.
 
-- **Configurable Allowlists**: Security settings are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), OS environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), and Node.js permissions (`node.permissions.*`).
+- **Configuration Structure**: Security settings are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), environment variables (`exec.osEnv`/`funcs.getenv`), HTTP methods/URLs (`http.methods`/`urls`), and Node.js permissions (`node.permissions`), with negation rules (`!`) for deny overrides.
 
-- **Negation & Overrides**: Allowlists support negation rules (e.g., `! ^text/html$` to deny HTML content); features can be disabled via `none` or overridden via environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`).
+- **Environment Overrides**: Security policies can be dynamically modified via environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`), and Node.js tools are restricted by default unless explicitly permitted for addons, child processes, or file I/O.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T17:09:18.662091+05:30
+- Published: 2026-08-05T22:34:49.511526+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-08-05T17:05:19.698152+05:30'
+collected_at: '2026-08-05T22:29:20.881221+05:30'
 published_at: '2026-08-04T23:02:05Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-08-05T08:55:08Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-08-05T17:05:19.698152+05:30'
-last_seen: '2026-08-05T17:05:19.698152+05:30'
-last_checked: '2026-08-05T17:05:19.698152+05:30'
+first_seen: '2026-08-05T22:29:20.881221+05:30'
+last_seen: '2026-08-05T22:29:20.881221+05:30'
+last_checked: '2026-08-05T22:29:20.881221+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: ParseBench is a benchmark suite designed to evaluate document parsing capabilities of AI agents, covering tasks like PDF parsing, OCR, and table extraction.
-- **Scope**: Includes evaluation metrics for machine learning, vision-language models, and tools like LlamaIndex, with a focus on document AI applications.
-- **Technical Stack**: Implemented in Python, supporting benchmarking of parsing pipelines, OCR accuracy, and structured data extraction from unstructured documents.
+- **Purpose**: ParseBench is a document parsing benchmark designed to evaluate AI agents' performance in parsing, extracting, and understanding structured and unstructured data from documents (e.g., PDFs, images) using OCR, table extraction, and vision-language models (VLMs).
+
+- **Scope**: The benchmark includes tasks for evaluating LLMs and multimodal models (e.g., LlamaIndex) on document parsing, table extraction, and OCR accuracy, with a focus on real-world document types (tables, forms, invoices).
+
+- **Technical Stack**: Implemented in Python, ParseBench supports integration with LlamaIndex, machine learning pipelines, and OCR tools, providing standardized metrics for comparative analysis of parsing and extraction capabilities.
 
 ## Why It Matters
 

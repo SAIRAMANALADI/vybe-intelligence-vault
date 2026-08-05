@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-08-05T17:03:44.656195+05:30'
-published_at: '2026-08-05T08:09:00Z'
+collected_at: '2026-08-05T22:27:45.772747+05:30'
+published_at: '2026-08-05T16:42:32Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-stars: 3192
+- workflows
+stars: 3195
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-07T06:10:49Z'
-pushed_at: '2026-08-05T09:21:59Z'
+pushed_at: '2026-08-05T13:27:59Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-08-05T17:03:44.656195+05:30'
-last_seen: '2026-08-05T17:03:44.656195+05:30'
-last_checked: '2026-08-05T17:03:44.656195+05:30'
+first_seen: '2026-08-05T22:27:45.772747+05:30'
+last_seen: '2026-08-05T22:27:45.772747+05:30'
+last_checked: '2026-08-05T22:27:45.772747+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating large models (LLMs, VLMs, AIGC) and performance benchmarking.
-- **Key Features**: Supports evaluation across tasks like RAG, with modular design for extensibility and reproducibility.
-- **Repository Stats**: 3,192 stars, 440 forks; last updated 2026-08-05.
+- **Framework Purpose**: EvalScope is a Python-based framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable workflows.
+- **Key Features**: Supports modular evaluation pipelines, integrates performance metrics, and enables reproducible benchmarking for RAG and multimodal tasks.
+- **Scalability & Integration**: Optimized for large-scale model assessment, compatible with ModelScope ecosystem, and extensible via pluggable components.
 
 ## Why It Matters
 
@@ -40,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: modelscope
-- Stars: 3192
+- Stars: 3195
 - Forks: 440
 - Language: Python
 - Topics: evaluation, llm, performance, rag, vlm
-- Last Updated: 2026-08-05T08:09:00Z
+- Last Updated: 2026-08-05T16:42:32Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z
-- Pushed At: 2026-08-05T09:21:59Z
+- Pushed At: 2026-08-05T13:27:59Z
 
 ## Possible Use Cases
 

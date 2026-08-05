@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-08-05T17:02:24.505646+05:30'
+collected_at: '2026-08-05T22:26:25.731313+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-08-05T17:02:24.505646+05:30'
-last_seen: '2026-08-05T17:02:24.505646+05:30'
-last_checked: '2026-08-05T17:02:24.505646+05:30'
+first_seen: '2026-08-05T22:26:25.731313+05:30'
+last_seen: '2026-08-05T22:26:25.731313+05:30'
+last_checked: '2026-08-05T22:26:25.731313+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Jekyll-based static site generator** for `raganwald.com`, utilizing HTML templates and Markdown content.
-- **Minimal repository activity** despite 60 forks, with last update in 2026 (future-dated) and no active topics.
-- **Lightweight project** with 30 stars, indicating limited community engagement or adoption.
+- **Static Site Generator**: Jekyll-based repository for generating `raganwald.com` with HTML output.
+- **GitHub Pages Integration**: Hosted via GitHub Pages, leveraging Jekyll for static site compilation.
+- **Minimal Metadata**: No additional topics or complex dependencies; last updated in 2026.
 
 ## Why It Matters
 

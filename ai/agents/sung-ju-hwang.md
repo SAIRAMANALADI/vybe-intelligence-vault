@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: http://www.sungjuhwang.com
-published_at: '2026-08-02T01:13:25.427534+05:30'
-collected_at: '2026-08-02T01:13:25.427543+05:30'
+published_at: '2026-08-05T22:30:52.076903+05:30'
+collected_at: '2026-08-05T22:30:52.076919+05:30'
 tags:
 - agents
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:sung-ju-hwang
-first_seen: '2026-08-02T01:13:25.427543+05:30'
-last_seen: '2026-08-02T01:13:25.427543+05:30'
-last_checked: '2026-08-02T01:13:25.427543+05:30'
+first_seen: '2026-08-05T22:30:52.076919+05:30'
+last_seen: '2026-08-05T22:30:52.076919+05:30'
+last_checked: '2026-08-05T22:30:52.076919+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Academic & Industry Leadership**: Associate Professor at KAIST (KAIST Endowed Chair since 2022), CEO of DeepAuto, former roles at UNIST, Disney Research, and Microsoft Research; PhD from UT Austin under Kristen Grauman.
+- **Academic & Leadership Roles**: Associate Professor at KAIST (KAIST Endowed Chair since 2022), former Assistant Professor at UNIST, and Postdoctoral Research Associate at Disney Research; also CEO of DeepAuto, focusing on self-evolving agentic AI platforms.
 
-- **Research Focus**: Core areas include generative AI/LLMs, self-evolving AI (neural architecture search, autonomous agents), AI for scientific discovery (protein/molecule design), and on-device learning (federated/continual learning, model compression).
+- **Research Focus**: Specializes in generative AI (LLMs, multimodal models), self-evolving AI (neural architecture search, autonomous research agents), AI for scientific discovery (protein design, drug/material discovery), and on-device learning (compression, federated learning); emphasizes robustness, uncertainty quantification, and adversarial defenses.
 
-- **Publications & Service**: 14+ papers in 2026 (ICLR, ICML, CVPR, ECCV, ACL, TMLR); Senior Area Chair for ICLR/ICML, Area Chair for NeurIPS/ICCV/CVPR; Associate Editor for TPAMI.
+- **Publication & Service**: Published 14+ papers in 2026 (ICLR, ICML, CVPR, ECCV, ACL, TMLR); serves as Senior Area Chair (ICLR/ICML) and Area Chair (NeurIPS, AAAI, CVPR); previously served as AC for ICML/NeurIPS and reviewer for TPAMI, JMLR, and IEEE Transactions.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T01:13:25.427534+05:30
+- Published: 2026-08-05T22:30:52.076903+05:30
 
 ## Related Tags
 

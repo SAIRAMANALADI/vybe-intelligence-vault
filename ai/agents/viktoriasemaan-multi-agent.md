@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/viktoriasemaan/multi-agent
-collected_at: '2026-08-05T17:04:54.619633+05:30'
+collected_at: '2026-08-05T22:28:55.863341+05:30'
 published_at: '2026-08-03T20:26:03Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-01-26T19:36:33Z'
 pushed_at: '2025-02-14T23:29:55Z'
 resource_id: github:viktoriasemaan/multi-agent
-first_seen: '2026-08-05T17:04:54.619633+05:30'
-last_seen: '2026-08-05T17:04:54.619633+05:30'
-last_checked: '2026-08-05T17:04:54.619633+05:30'
+first_seen: '2026-08-05T22:28:55.863341+05:30'
+last_seen: '2026-08-05T22:28:55.863341+05:30'
+last_checked: '2026-08-05T22:28:55.863341+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts examples of AI multi-agent systems implemented in Jupyter Notebook, focusing on collaborative agent architectures and workflows.
-- **Technical Stack**: Utilizes Python-based multi-agent frameworks (e.g., LangChain, AutoGen) for agent orchestration, task delegation, and inter-agent communication.
-- **Use Cases**: Demonstrates applications in automated decision-making, distributed problem-solving, and simulated multi-agent environments.
+- **Repository Overview**: GitHub repository (`viktoriasemaan/multi-agent`) showcasing examples of AI multi-agent solutions implemented in Jupyter Notebooks.
+- **Metadata**: 210 stars, 124 forks, last updated on 2026-08-03.
+- **Focus**: Technical examples demonstrating multi-agent AI architectures, workflows, or interactions.
 
 ## Why It Matters
 

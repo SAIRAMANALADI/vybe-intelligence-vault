@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-08-05T17:03:14.656946+05:30'
+collected_at: '2026-08-05T22:27:20.845252+05:30'
 published_at: '2026-08-04T15:15:16Z'
 tags:
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-08-04T15:11:21Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-08-05T17:03:14.656946+05:30'
-last_seen: '2026-08-05T17:03:14.656946+05:30'
-last_checked: '2026-08-05T17:03:14.656946+05:30'
+first_seen: '2026-08-05T22:27:20.845252+05:30'
+last_seen: '2026-08-05T22:27:20.845252+05:30'
+last_checked: '2026-08-05T22:27:20.845252+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook examples demonstrating usage of all available foundational models in Amazon Bedrock, including Amazon Titan and other supported models.
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) across use cases like embeddings, generative AI, and retrieval-augmented generation (RAG).
 
-- **Key Technical Components**: Includes implementations for embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain for building AI-powered applications.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, with integrations for LangChain, knowledge bases, and AWS services for end-to-end generative AI workflows.
 
-- **AWS Integration Focus**: Designed to help customers integrate Amazon Bedrock with AWS services, featuring structured examples for knowledge base creation, model fine-tuning, and deployment workflows.
+- **Key Features**: Demonstrates Amazon Bedrock's capabilities, including model fine-tuning, embeddings generation, and RAG pipelines, with structured examples for rapid prototyping and deployment.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-08-05T17:02:31.244097+05:30'
-collected_at: '2026-08-05T17:02:31.244112+05:30'
+published_at: '2026-08-05T22:26:32.467474+05:30'
+collected_at: '2026-08-05T22:26:32.467490+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-08-05T17:02:31.244112+05:30'
-last_seen: '2026-08-05T17:02:31.244112+05:30'
-last_checked: '2026-08-05T17:02:31.244112+05:30'
+first_seen: '2026-08-05T22:26:32.467490+05:30'
+last_seen: '2026-08-05T22:26:32.467490+05:30'
+last_checked: '2026-08-05T22:26:32.467490+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: Web context API for scalable LLM-friendly data extraction (Markdown/HTML), including `llms.txt` generation, crawling/scraping, agent-based extraction, and deep research endpoints for RAG pipeline enrichment.
-
-- **LangChain**: Modular LLM framework with 105k+ stars, offering data connectors, model flexibility, retrieval components, and evaluation tools for structured RAG pipeline development and integration.
-
-- **Milvus**: High-performance, cloud-native vector database (33.9k+ stars) optimized for ANN search, hybrid queries, and multi-modal embeddings, with seamless integration into RAG frameworks like LangChain/LlamaIndex.
+- **LangChain**: Open-source framework (105k ⭐) for LLM applications with modular RAG components, model flexibility, and evaluation tools; integrates with LangSmith/LangGraph for debugging/workflow management.
+- **RAGFlow**: Open-source RAG engine (48.5k ⭐) specializing in deep document parsing (PDFs/tables) with GraphRAG support, visual web interface, and agentic reasoning capabilities.
+- **Milvus**: High-performance vector database (33.9k ⭐) optimized for scalable ANN search, hybrid search (vector + scalar filtering), and multi-modal embeddings, critical for production RAG systems.
 
 ## Why It Matters
 
@@ -47,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T17:02:31.244097+05:30
+- Published: 2026-08-05T22:26:32.467474+05:30
 
 ## Related Tags
 

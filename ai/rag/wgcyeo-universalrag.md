@@ -4,10 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-05T17:04:14.579426+05:30'
+collected_at: '2026-08-05T22:28:15.851675+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- models
 - python
 - rag
 stars: 174
@@ -18,9 +21,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-05T17:04:14.579426+05:30'
-last_seen: '2026-08-05T17:04:14.579426+05:30'
-last_checked: '2026-08-05T17:04:14.579426+05:30'
+first_seen: '2026-08-05T22:28:15.851675+05:30'
+last_seen: '2026-08-05T22:28:15.851675+05:30'
+last_checked: '2026-08-05T22:28:15.851675+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by integrating diverse data modalities (text, images, tables, etc.) and varying granularities (documents, paragraphs, entities) into a unified retrieval-augmented generation pipeline.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence), leveraging unified embeddings and cross-modal retrieval.
 
-- **Modular Architecture with Unified Indexing**: Implements a flexible, modular system where corpora are preprocessed into modality-specific embeddings, stored in a unified vector database, and dynamically retrieved based on query context.
+- **Modular Architecture**: Implements a plug-and-play system with modality-specific encoders, a shared retrieval index, and a modality-agnostic generator, optimizing for heterogeneous corpus integration without modality-specific fine-tuning.
 
-- **ACL 2026 Oral Contribution**: Proposes novel cross-modal retrieval strategies and granularity-aware fusion mechanisms to optimize generation quality across heterogeneous data sources.
+- **ACL 2026 Oral Contribution**: Proposes novel evaluation metrics and benchmarks for cross-modal RAG, demonstrating state-of-the-art performance in zero-shot and few-shot settings across multimodal datasets.
 
 ## Why It Matters
 

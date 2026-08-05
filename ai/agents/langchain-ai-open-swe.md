@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-05T17:04:44.658188+05:30'
-published_at: '2026-08-05T11:21:10Z'
+collected_at: '2026-08-05T22:28:50.843236+05:30'
+published_at: '2026-08-05T16:58:44Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - workflows
-stars: 10453
+stars: 10468
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-08-05T09:01:42Z'
+pushed_at: '2026-08-05T16:58:37Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-05T17:04:44.658188+05:30'
-last_seen: '2026-08-05T17:04:44.658188+05:30'
-last_checked: '2026-08-05T17:04:44.658188+05:30'
+first_seen: '2026-08-05T22:28:50.843236+05:30'
+last_seen: '2026-08-05T22:28:50.843236+05:30'
+last_checked: '2026-08-05T22:28:50.843236+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for building asynchronous coding agents, enabling parallel task execution and non-blocking I/O operations for efficient code generation and debugging.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for real-time code generation, editing, and execution using Python's `asyncio` for non-blocking I/O operations.
 
-- **Multi-LLM & API Support**: Supports integration with multiple LLM providers (OpenAI, Anthropic, etc.) and APIs (ClaudeCode), allowing dynamic switching between models and tools for enhanced agent capabilities.
+- **Multi-LLM Integration**: Supports concurrent interactions with OpenAI, Anthropic (ClaudeCode), and other LLM providers via standardized APIs, enabling dynamic agent switching based on task requirements.
 
-- **Scalable & Extensible**: Built with Python, it emphasizes modularity and asynchronous programming (asyncio) for scalable agent workflows, with support for custom tooling and agent orchestration.
+- **Stateful Session Management**: Maintains persistent, resumable coding sessions with checkpointing, allowing agents to recover from interruptions and track multi-step workflows (e.g., debugging, refactoring) across asynchronous calls.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10453
-- Forks: 1218
+- Stars: 10468
+- Forks: 1220
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-05T11:21:10Z
+- Last Updated: 2026-08-05T16:58:44Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-08-05T09:01:42Z
+- Pushed At: 2026-08-05T16:58:37Z
 
 ## Possible Use Cases
 

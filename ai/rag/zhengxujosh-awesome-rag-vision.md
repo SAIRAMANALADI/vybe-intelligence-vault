@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-05T17:03:34.581851+05:30'
+collected_at: '2026-08-05T22:27:40.766820+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
+- dataset
 - github-repo
 - hackernews
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-05T17:03:34.581851+05:30'
-last_seen: '2026-08-05T17:03:34.581851+05:30'
-last_checked: '2026-08-05T17:03:34.581851+05:30'
+first_seen: '2026-08-05T22:27:40.766820+05:30'
+last_seen: '2026-08-05T22:27:40.766820+05:30'
+last_checked: '2026-08-05T22:27:40.766820+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and retrieval-augmented visual tasks.
-
-- **Scope**: Focuses on integrating **RAG frameworks** with CV applications such as image captioning, visual question answering (VQA), and object detection, emphasizing retrieval-augmented pipelines for improved accuracy and contextual relevance.
-
-- **Metadata**: Last updated **July 15, 2026**; contains **339 stars** and **9 forks**, though language and topics are unspecified in the metadata.
+- **Curated Resource**: A specialized GitHub repository aggregating cutting-edge **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal and vision-language model (VLM) applications.
+- **Repository Stats**: 339 stars, 9 forks, last updated **July 15, 2026**, with no specified primary language (likely Python/Jupyter-based given CV context).
+- **Scope**: Focuses on **advanced RAG frameworks**, datasets, and methodologies bridging **vision and language** for tasks like image captioning, visual question answering (VQA), and multimodal retrieval.
 
 ## Why It Matters
 

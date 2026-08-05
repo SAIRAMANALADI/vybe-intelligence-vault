@@ -13,13 +13,14 @@ collected_at: '2026-08-05T17:01:40.854397+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:carloscodix/qapla
 first_seen: '2026-08-05T14:25:25.272976+05:30'
 last_seen: '2026-08-05T17:01:40.854397+05:30'
 last_checked: '2026-08-05T17:01:40.854397+05:30'
 health_score: 100
 ---
+
 
 # An SLM trained on $8 ESP32-S3
 

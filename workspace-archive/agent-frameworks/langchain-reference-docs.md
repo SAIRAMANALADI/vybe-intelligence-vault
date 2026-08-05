@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive API Documentation**: Covers LangChain, LangGraph, Deep Agents, LangSmith, and integrations with detailed Python and TypeScript package references, including classes, functions, and types.
-- **Unified Reference Structure**: Provides a centralized resource for exploring the entire LangChain ecosystem’s technical specifications.
-- **Separate Conceptual Resources**: Directs users to [docs.langchain.com](https://docs.langchain.com) for guides, tutorials, and conceptual documentation
+- **Comprehensive API Reference**: Covers LangChain, LangGraph, Deep Agents, LangSmith, and integrations with detailed documentation for Python and TypeScript packages, including classes, functions, and types.
+
+- **Structured Documentation**: Organized by ecosystem components, enabling developers to efficiently locate specific APIs, methods, and data structures.
+
+- **Cross-Platform Support**: Provides language-specific (Python/TypeScript) reference materials while directing users to conceptual g
 
 ## Use Cases
 

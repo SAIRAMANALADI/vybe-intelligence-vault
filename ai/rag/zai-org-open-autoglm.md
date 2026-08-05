@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-08-05T17:05:39.696903+05:30'
-published_at: '2026-08-05T11:24:47Z'
+collected_at: '2026-08-05T22:29:40.888192+05:30'
+published_at: '2026-08-05T12:54:16Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
-stars: 25951
+stars: 25952
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-08-05T17:05:39.696903+05:30'
-last_seen: '2026-08-05T17:05:39.696903+05:30'
-last_checked: '2026-08-05T17:05:39.696903+05:30'
+first_seen: '2026-08-05T22:29:40.888192+05:30'
+last_seen: '2026-08-05T22:29:40.888192+05:30'
+last_checked: '2026-08-05T22:29:40.888192+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-AutoGLM Framework**: A Python-based open-source framework designed for autonomous phone agent models, enabling AI-driven interactions with mobile devices (e.g., calls, messages, app navigation) via a modular architecture.
+- **Open-AutoGLM Framework**: A Python-based open-source framework designed for building and deploying AI phone agents, enabling autonomous interaction with mobile devices via natural language commands.
 
-- **Agent Model Integration**: Implements a phone-use agent system leveraging large language models (LLMs) to interpret user intent, execute multi-step tasks (e.g., dialing, scheduling), and handle dynamic environments (e.g., UI changes) with minimal human intervention.
+- **Agent Capabilities**: Supports multi-modal task execution (e.g., calls, messages, app navigation) through structured APIs and tool integration, leveraging large language models (LLMs) for decision-making.
 
-- **Scalability & Customization**: Supports extensibility via plugin-based components (e.g., speech recognition, API integrations) and is optimized for real-world deployment, with benchmarks and tools for evaluating performance across diverse phone-use scenarios.
+- **Extensibility & Deployment**: Modular architecture allows customization of agent behaviors; optimized for real-time phone interactions with support for cloud/edge deployment.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zai-org
-- Stars: 25951
+- Stars: 25952
 - Forks: 4017
 - Language: Python
 - Topics: agent, phone-use-agent
-- Last Updated: 2026-08-05T11:24:47Z
+- Last Updated: 2026-08-05T12:54:16Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-12-08T09:23:44Z

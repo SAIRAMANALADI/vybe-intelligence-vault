@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/explodinggradients/ragas
-collected_at: '2026-08-05T09:08:53.698873+05:30'
-published_at: '2026-08-05T03:18:22Z'
+collected_at: '2026-08-05T22:30:56.077116+05:30'
+published_at: '2026-08-05T16:45:54Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
 - workflows
-stars: 15132
+stars: 15144
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-05-08T17:48:04Z'
 pushed_at: '2026-02-24T07:47:19Z'
 resource_id: github:explodinggradients/ragas
-first_seen: '2026-08-05T09:08:53.698873+05:30'
-last_seen: '2026-08-05T09:08:53.698873+05:30'
-last_checked: '2026-08-05T09:08:53.698873+05:30'
+first_seen: '2026-08-05T22:30:56.077116+05:30'
+last_seen: '2026-08-05T22:30:56.077116+05:30'
+last_checked: '2026-08-05T22:30:56.077116+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAGAS**: An open-source Python library for evaluating LLM applications, particularly Retrieval-Augmented Generation (RAG) systems, with 15,132+ GitHub stars and 1,599+ forks.
+- **RAGAS Framework**: Python-based library for evaluating Large Language Model (LLM) applications, particularly Retrieval-Augmented Generation (RAG) systems, with 15,144 GitHub stars and 1,602 forks.
 
-- **Key Features**: Provides metrics for assessing answer correctness, context relevance, and faithfulness, enabling automated evaluation of LLM outputs in production pipelines.
+- **Key Features**: Provides metrics and tools for assessing LLM performance in tasks like faithfulness, answer correctness, and context relevance, enabling systematic evaluation and optimization of LLM applications.
 
-- **Integration**: Designed for LLM Ops workflows, supporting customizable evaluation pipelines and compatibility with popular frameworks like LangChain and Haystack.
+- **Integration & Use Cases**: Designed for LLM Ops (LLMOps) workflows, supporting automated evaluation pipelines and benchmarking to enhance reliability and performance in production environments.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: explodinggradients
-- Stars: 15132
-- Forks: 1599
+- Stars: 15144
+- Forks: 1602
 - Language: Python
 - Topics: evaluation, llm, llmops
-- Last Updated: 2026-08-05T03:18:22Z
+- Last Updated: 2026-08-05T16:45:54Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-08T17:48:04Z

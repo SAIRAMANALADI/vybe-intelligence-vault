@@ -3,9 +3,9 @@ title: Losses — Sentence Transformers documentation
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://sbert.net/docs/package_reference/losses.html#matryoshkaloss
-published_at: '2026-08-03T09:33:26.717976+05:30'
-collected_at: '2026-08-03T09:33:26.717987+05:30'
+source_url: https://sbert.net/docs/package_reference/sentence_transformer/losses.html#multiplenegativesrankingloss
+published_at: '2026-08-05T22:34:49.429652+05:30'
+collected_at: '2026-08-05T22:34:49.429669+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,12 +16,13 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:losses-sentence-transformers-documentation
-first_seen: '2026-08-03T09:33:26.717987+05:30'
-last_seen: '2026-08-03T09:33:26.717987+05:30'
-last_checked: '2026-08-03T09:33:26.717987+05:30'
+first_seen: '2026-08-05T22:34:49.429669+05:30'
+last_seen: '2026-08-05T22:34:49.429669+05:30'
+last_checked: '2026-08-05T22:34:49.429669+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Installation & Compatibility**: Supports multiple installation methods (`pip`, `conda`, `uv`, source) with explicit CUDA-enabled PyTorch support; migration guides detail breaking changes across major versions (e.g., `max_length` → `max_seq_length`, `tokenizer` → `processing_class`).
+- **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source) with optional CUDA-accelerated PyTorch; editable installs available for development.
 
-- **Core Functionality**: Sentence Transformers enable embedding generation, semantic search (symmetric/asymmetric), clustering (k-means, agglomerative), paraphrase mining, and multimodal (image/text/audio) applications; optimized via quantization (binary/int8) and inference acceleration (ONNX, OpenVINO).
+- **Model Types & Workflows**: Implements `SentenceTransformer` (bi-encoder), `CrossEncoder` (cross-attention), and `SparseEncoder`; includes semantic search, retrieval-re-ranking, clustering, and multimodal (image/text) applications.
 
-- **Training & Evaluation**: Modular training pipeline with components for loss functions (e.g., `MultipleNegativesRankingLoss`), evaluators (MTEB), and multi-dataset support; pre-trained models span multilingual, scientific, and instruction-tuned variants with benchmarked performance.
+- **Training & Optimization**: Provides structured training pipelines with modular components (loss functions, evaluators, callbacks); supports quantization (binary/int8), ONNX/OpenVINO inference, and MTEB benchmark evaluation for performance optimization.
 
 ## Why It Matters
 
@@ -43,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:33:26.717976+05:30
+- Published: 2026-08-05T22:34:49.429652+05:30
 
 ## Related Tags
 
@@ -56,8 +57,9 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 
 ## Source
 
-Original source: https://sbert.net/docs/package_reference/losses.html#matryoshkaloss
+Original source: https://sbert.net/docs/package_reference/sentence_transformer/losses.html#multiplenegativesrankingloss

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/methods/page/render/#article
-published_at: '2026-08-05T01:36:51.620016+05:30'
-collected_at: '2026-08-05T01:36:51.620024+05:30'
+published_at: '2026-08-05T22:34:39.470593+05:30'
+collected_at: '2026-08-05T22:34:39.470607+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:render
-first_seen: '2026-08-05T01:36:51.620024+05:30'
-last_seen: '2026-08-05T01:36:51.620024+05:30'
-last_checked: '2026-08-05T01:36:51.620024+05:30'
+first_seen: '2026-08-05T22:34:39.470607+05:30'
+last_seen: '2026-08-05T22:34:39.470607+05:30'
+last_checked: '2026-08-05T22:34:39.470607+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- The `Render` method on a `Page` object in Hugo (v0.164.0+) renders a view template with the page as context, returning `template.HTML`; the `VIEW` argument supports slash-separated directory paths without file extensions and resolves templates via Hugo's lookup order.
+- **Syntax & Return**: `PAGE.Render VIEW` renders a view template with the given page as context, returning `template.HTML`. Supports slash-separated directory paths in `VIEW` (e.g., `_views/summary`), resolved via Hugo's template lookup order.
 
-- Template resolution prioritizes type-specific paths (e.g., `layouts/books/summary.html` for `books` type pages) before falling back to generic paths (e.g., `layouts/summary.html`), enabling context-aware rendering.
+- **Template Resolution**: Hugo resolves `VIEW` to different templates based on page type. For `books` pages, `layouts/books/summary.html` is used; otherwise, `layouts/summary.html` is used. Path segments enable hierarchical template resolution (e.g., `_views/summary`).
 
-- Unlike the `partial` function, `Render` automatically passes the `Page` object as context without additional parameters, while `partial` requires explicit context specification and restricts templates to the `_partials` directory.
+- **Key Differences from `partial`**: `Render` auto-passes the `Page` object as context and resolves templates via lookup order, while `partial` requires explicit context and template path (relative to `layouts/_partials`).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T01:36:51.620016+05:30
+- Published: 2026-08-05T22:34:39.470593+05:30
 
 ## Related Tags
 
