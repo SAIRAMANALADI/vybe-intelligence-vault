@@ -4,22 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com/gemini-in-android
-published_at: '2026-08-05T04:04:37.586055+05:30'
-collected_at: '2026-08-05T04:04:37.586072+05:30'
+published_at: '2026-08-06T04:03:29.444310+05:30'
+collected_at: '2026-08-06T04:03:29.444328+05:30'
 tags:
 - agents
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:gemini-in-android-studio-android-developers
-first_seen: '2026-08-05T04:04:37.586072+05:30'
-last_seen: '2026-08-05T04:04:37.586072+05:30'
-last_checked: '2026-08-05T04:04:37.586072+05:30'
+first_seen: '2026-08-06T04:03:29.444328+05:30'
+last_seen: '2026-08-06T04:03:29.444328+05:30'
+last_checked: '2026-08-06T04:03:29.444328+05:30'
 health_score: 100
 ---
 
@@ -27,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Integration**: Gemini in Android Studio provides an AI agent for Android development, enabling multi-stage task automation (e.g., unit test generation, UI alterations, error fixing) via Agent Mode, which formulates execution plans across project files and iteratively refines changes based on feedback.
+- **Agentic AI Integration**: Android Studio integrates **Gemini** as an agentic AI assistant, enabling multi-stage development tasks (e.g., unit test generation, UI alterations, error fixes) via **Agent Mode**, which formulates execution plans across project files and iteratively refines code based on feedback.
 
-- **Multimodal UI Prototyping**: Supports rapid UI development by converting wireframe/mockup images into functional Compose code and debugging UIs via screenshot analysis, accelerating modern UI implementation.
+- **Multimodal & Context-Aware Features**: Supports **image-based UI prototyping** (converting wireframes/mocks to code) and **context-aware code generation** (e.g., Compose UIs, Gradle error resolution, crash analytics) while maintaining **IP security** via `.aiexclude` file controls and disabling model training on user data.
 
-- **Enterprise-Grade Privacy & Security**: Free tier offers core features (Agent Mode, code completion), while paid tiers (Standard/Enterprise) provide IP indemnification, VPC-SC compliance, customized code suggestions from private repos, and advanced integrations (BigQuery, Firebase). Data privacy is enforced via `.aiexclude` file controls.
+- **Enterprise & Pricing Tiers**: Free tier includes core features (Agent Mode, chat, code completion), while **Gemini Code Assist** (paid) adds **VPC-SC compliance**, **customized code suggestions** from Git repos, and access to **BigQuery/Apigee**—priced at **$19/user/month (Standard)** or **$45/user/month (Enterprise)**.
 
 ## Why It Matters
 
@@ -41,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T04:04:37.586055+05:30
+- Published: 2026-08-06T04:03:29.444310+05:30
 
 ## Related Tags
 
@@ -49,7 +48,6 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coleam00/pydantic-ai-github-agent
-collected_at: '2026-08-05T01:31:03.977083+05:30'
+collected_at: '2026-08-06T03:56:13.191267+05:30'
 published_at: '2026-07-10T16:10:14Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-01-27T13:40:26Z'
 pushed_at: '2025-01-27T14:07:35Z'
 resource_id: github:coleam00/pydantic-ai-github-agent
-first_seen: '2026-08-05T01:31:03.977083+05:30'
-last_seen: '2026-08-05T01:31:03.977083+05:30'
-last_checked: '2026-08-05T01:31:03.977083+05:30'
+first_seen: '2026-08-06T03:56:13.191267+05:30'
+last_seen: '2026-08-06T03:56:13.191267+05:30'
+last_checked: '2026-08-06T03:56:13.191267+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates end-to-end development of an AI agent for GitHub interactions, from concept to deployment, as part of a YouTube series.
-- **Technical Stack**: Built in Python using Pydantic for data validation and AI agent orchestration.
-- **Repository Metrics**: 67 stars, 24 forks, last updated July 10, 2026.
+- **Purpose**: Demonstrates the end-to-end development of an AI agent for GitHub interactions, from concept to deployment, as part of a YouTube series.
+- **Technical Stack**: Implemented in Python using Pydantic for data validation and AI agent orchestration.
+- **Repository Stats**: 67 stars, 24 forks, last updated on 2026-07-10.
 
 ## Why It Matters
 

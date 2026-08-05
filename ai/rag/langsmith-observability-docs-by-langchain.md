@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-08-06T01:36:48.003356+05:30'
-collected_at: '2026-08-06T01:36:48.003368+05:30'
+published_at: '2026-08-06T04:04:41.663159+05:30'
+collected_at: '2026-08-06T04:04:41.663176+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-08-06T01:36:48.003368+05:30'
-last_seen: '2026-08-06T01:36:48.003368+05:30'
-last_checked: '2026-08-06T01:36:48.003368+05:30'
+first_seen: '2026-08-06T04:04:41.663176+05:30'
+last_seen: '2026-08-06T04:04:41.663176+05:30'
+last_checked: '2026-08-06T04:04:41.663176+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LangSmith Observability** provides end-to-end visibility into LLM applications, including individual traces, production metrics, and debugging capabilities across frameworks like OpenAI, Anthropic, and CrewAI via [available integrations](https://docs.langchain.com/langsmith/integrations).
+- **LangSmith Observability** provides end-to-end visibility into LLM applications, enabling trace-level debugging, performance monitoring, and production-wide metrics across frameworks like OpenAI, Anthropic, and CrewAI via [integrations](https://docs.langchain.com/langsmith/integrations).
 
-- **Core features** include automated failure detection (LangSmith Engine), trace filtering/exporting, performance monitoring via dashboards/alerts, and feedback collection through annotation queues or inline tools.
+- **Core features** include automated failure detection (LangSmith Engine), trace filtering/exporting, dashboard creation, alerting, user feedback collection, and workflow automation via webhooks/online evaluations.
 
-- **Setup options** include cloud, hybrid, or self-hosted LangSmith instances, with no-credit-card account creation at [smith.langchain.com](https://smith.langchain.com) and API key generation for tracing instrumentation.
+- **Setup options** include cloud/hybrid/self-hosted deployments with observability, evaluation, prompt engineering, and deployment capabilities; initial configuration requires account creation, API key generation, and tracing instrumentation via SDK/environment variables.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T01:36:48.003356+05:30
+- Published: 2026-08-06T04:04:41.663159+05:30
 
 ## Related Tags
 

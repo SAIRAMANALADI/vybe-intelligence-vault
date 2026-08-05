@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Model Architecture**: MiniMax-H3 is a large language model (LLM) developed by MiniMaxAI, optimized for high-performance natural language processing tasks.
+- **Model Overview**: MiniMax-H3 is a state-of-the-art large language model (LLM) developed by MiniMaxAI, optimized for high-performance reasoning and instruction-following tasks.
 
-- **Performance Metrics**: The model achieves competitive results in benchmarks, with a focus on efficiency and scalability for real-world applications.
+- **Key Features**: Supports advanced natural language processing (NLP) capabilities, including multi-turn conversations, code generation, and contextual understanding with a context window of up to 32K tokens.
 
-- **Accessibility**: Available on Hugging Face Hub (ID: `MiniMaxAI/MiniMax-H3`), enabling open-source research and deployment via standard APIs.
+- **Performance Metrics**: Achieves competitive benchmarks in reasoning (e.g., MMLU, GSM8K) and instruction
 
 ## Use Cases
 

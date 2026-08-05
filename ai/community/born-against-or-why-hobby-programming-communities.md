@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:born-against-or-why-hobby-programming-communities
 first_seen: '2026-08-06T01:27:50.870891+05:30'
 last_seen: '2026-08-06T01:27:50.870891+05:30'
 last_checked: '2026-08-06T01:27:50.870891+05:30'
 health_score: 100
 ---
+
 
 # Born Against, or why hobby programming communities are against LLM usage
 

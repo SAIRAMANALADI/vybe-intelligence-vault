@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cline/cline
-collected_at: '2026-08-05T17:06:04.731801+05:30'
-published_at: '2026-08-05T10:45:06Z'
+collected_at: '2026-08-06T03:57:53.349675+05:30'
+published_at: '2026-08-05T22:21:09Z'
 tags:
 - agents
 - github-repo
 - typescript
-stars: 65677
+stars: 65709
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-07-06T07:28:10Z'
-pushed_at: '2026-08-05T10:54:26Z'
+pushed_at: '2026-08-05T21:57:04Z'
 resource_id: github:cline/cline
-first_seen: '2026-08-05T17:06:04.731801+05:30'
-last_seen: '2026-08-05T17:06:04.731801+05:30'
-last_checked: '2026-08-05T17:06:04.731801+05:30'
+first_seen: '2026-08-06T03:57:53.349675+05:30'
+last_seen: '2026-08-06T03:57:53.349675+05:30'
+last_checked: '2026-08-06T03:57:53.349675+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,10 @@ health_score: 100
 ## Summary
 
 - **Autonomous Coding Agent**: Cline operates as an autonomous coding agent, functioning as an SDK, IDE extension, or CLI assistant to automate software development tasks.
-- **TypeScript Implementation**: The project is built entirely in TypeScript, enabling cross-platform compatibility and integration with modern development environments.
-- **High Activity Metrics**: With 65,677 stars and 7,049 forks, Cline demonstrates significant community engagement and adoption in the developer ecosystem.
+
+- **TypeScript-Based Implementation**: The project is built entirely in TypeScript, enabling cross-platform compatibility and integration with modern development environments.
+
+- **High Activity Metrics**: With 65,709 stars and 7,055 forks, Cline demonstrates significant community engagement and adoption as of its last update (August 5, 2026).
 
 ## Why It Matters
 
@@ -39,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cline
-- Stars: 65677
-- Forks: 7049
+- Stars: 65709
+- Forks: 7055
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-05T10:45:06Z
+- Last Updated: 2026-08-05T22:21:09Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-07-06T07:28:10Z
-- Pushed At: 2026-08-05T10:54:26Z
+- Pushed At: 2026-08-05T21:57:04Z
 
 ## Possible Use Cases
 

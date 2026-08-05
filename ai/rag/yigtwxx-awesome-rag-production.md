@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-06T01:29:35.818612+05:30'
+collected_at: '2026-08-06T03:55:13.125258+05:30'
 published_at: '2026-08-03T16:39:06Z'
 tags:
 - github-repo
-- meta-ai
-- models
 - python
 - rag
+- workflows
 stars: 184
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-03T08:23:24Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-06T01:29:35.818612+05:30'
-last_seen: '2026-08-06T01:29:35.818612+05:30'
-last_checked: '2026-08-06T01:29:35.818612+05:30'
+first_seen: '2026-08-06T03:55:13.125258+05:30'
+last_seen: '2026-08-06T03:55:13.125258+05:30'
+last_checked: '2026-08-06T03:55:13.125258+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Tools & Frameworks**: Repository aggregates production-grade RAG components including vector databases (e.g., Pinecone, Weaviate), LLM frameworks (LangChain, LlamaIndex), and MLOps tools (MLflow, Kubeflow) for scalable deployments.
+- **Curated Production-Grade RAG Tools**: Repository aggregates validated tools, frameworks, and best practices for deploying scalable, production-ready Retrieval-Augmented Generation (RAG) systems, emphasizing reliability and performance.
 
-- **Best Practices Catalog**: Includes battle-tested methodologies for embedding optimization, retrieval tuning, latency reduction, and hybrid search strategies in high-throughput RAG pipelines.
+- **Comprehensive Tech Stack**: Covers essential components including vector databases, embeddings, LLM frameworks (e.g., LangChain), and MLOps/LLMOps pipelines for end-to-end RAG workflows in Python.
 
-- **Python-Centric Ecosystem**: Focuses on Python-based tooling (e.g., Hugging Face Transformers, FAISS) with integrations for LLMOps, CI/CD, and monitoring in enterprise-grade RAG systems.
+- **Active Maintenance & Community**: Last updated in 2026, the repository reflects ongoing curation with 184 stars and 46 forks, indicating sustained community engagement in AI engineering and generative AI tooling.
 
 ## Why It Matters
 

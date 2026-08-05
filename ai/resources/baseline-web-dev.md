@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/baseline
-published_at: '2026-08-01T09:32:52.152624+05:30'
-collected_at: '2026-08-01T09:32:52.152639+05:30'
+published_at: '2026-08-06T04:03:35.271268+05:30'
+collected_at: '2026-08-06T04:03:35.271298+05:30'
 tags:
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:baseline-web-dev
-first_seen: '2026-08-01T09:32:52.152639+05:30'
-last_seen: '2026-08-01T09:32:52.152639+05:30'
-last_checked: '2026-08-01T09:32:52.152639+05:30'
+first_seen: '2026-08-06T04:03:35.271298+05:30'
+last_seen: '2026-08-06T04:03:35.271298+05:30'
+last_checked: '2026-08-06T04:03:35.271298+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Baseline Definition & Governance**: Originated by Chrome, now maintained by the WebDX Community Group; defines browser support for web platform features via two stages: *Newly available* (all core browsers support) and *Widely available* (30 months post-interoperability).
-
-- **Core Browser Set & Tooling Integration**: Baseline tracks support across Chrome, Edge, Firefox, and Safari; integrated into tools like Lighthouse (Baseline Features audit), Browserslist, ESLint, VS Code, and Netlify for automated compatibility checks.
-
-- **Adoption & Case Studies**: Simplifies browser support decisions; real-world implementations include Target.com (modernization), Cybozu (reduced overhead), and RUMvision (real-user data integration).
+- **Baseline Framework**: Defined by the WebDX Community Group, Baseline provides a two-stage browser support standard: *Newly available* (all core browsers support the feature) and *Widely available* (30 months post-interoperability, ensuring broad adoption without polyfills).
+- **Core Browser Set**: Baseline compliance is measured across Chrome (desktop/Android), Edge, Firefox (desktop/Android), and Safari (macOS/iOS), ensuring interoperability.
+- **Tooling Integration**: Baseline is embedded in development workflows via Lighthouse audits, ESLint linting, Browserslist queries, Chrome DevTools, and VS Code extensions, enabling automated compliance checks and real-world adoption tracking.
 
 ## Why It Matters
 
@@ -36,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T09:32:52.152624+05:30
+- Published: 2026-08-06T04:03:35.271268+05:30
 
 ## Related Tags
 

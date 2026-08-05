@@ -3,9 +3,9 @@ title: android Git repositories - Git at Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://android.googlesource.com
-published_at: '2026-08-05T22:37:37.118571+05:30'
-collected_at: '2026-08-05T22:37:37.118588+05:30'
+source_url: http://android.googlesource.com
+published_at: '2026-08-06T04:03:32.987499+05:30'
+collected_at: '2026-08-06T04:03:32.987520+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-08-05T22:37:37.118588+05:30'
-last_seen: '2026-08-05T22:37:37.118588+05:30'
-last_checked: '2026-08-05T22:37:37.118588+05:30'
+first_seen: '2026-08-06T04:03:32.987520+05:30'
+last_seen: '2026-08-06T04:03:32.987520+05:30'
+last_checked: '2026-08-06T04:03:32.987520+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Android Open-Source Project (AOSP) Git Repositories**: Hosted on `android.googlesource.com`, containing thousands of Git repositories for Android device-specific implementations, kernels, and accessory support (e.g., `device/google/bluejay`, `device/google/coral-kernel`).
+- **Official Android Open Source Project (AOSP) Git repositories** hosted at `android.googlesource.com` with extensive device-specific and accessory-specific branches (e.g., `device/google/bluejay`, `device/asus/flo-kernel`, `device/google/cuttlefish`).
 
-- **Device-Specific Branches & Kernels**: Many repositories include device-specific branches (e.g., `device/google/lynx-kernels/6.1`) and kernel versions (e.g., `device/google/akita-kernels/5.15`), supporting multiple Android versions (5.10, 5.15, 6.1).
+- **Kernel and SELinux policy repositories** segregated by device (e.g., `device/google/lynx-kernel`, `device/google/lynx-sepolicy`) and versioned branches (e.g., `5.10`, `6.1` kernels) for hardware-specific Android development.
 
-- **Security & Access Control**: Requires Google OAuth authentication for code review (`android-review.googlesource.com`) and password management via Google Security settings, enforcing strict access controls for contributors.
+- **Supporting infrastructure** includes Gerrit-based code review (`android-review.googlesource.com`), OAuth2 authentication for secure access, and manifest repositories (e.g., `accessories/manifest`, `brillo/manifest`) for dependency management.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T22:37:37.118571+05:30
+- Published: 2026-08-06T04:03:32.987499+05:30
 
 ## Related Tags
 
@@ -66,4 +66,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://android.googlesource.com
+Original source: http://android.googlesource.com

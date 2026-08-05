@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-08-06T01:30:15.885945+05:30'
+collected_at: '2026-08-06T03:55:53.208309+05:30'
 published_at: '2026-08-05T08:16:09Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-08-06T01:30:15.885945+05:30'
-last_seen: '2026-08-06T01:30:15.885945+05:30'
-last_checked: '2026-08-06T01:30:15.885945+05:30'
+first_seen: '2026-08-06T03:55:53.208309+05:30'
+last_seen: '2026-08-06T03:55:53.208309+05:30'
+last_checked: '2026-08-06T03:55:53.208309+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Implements an advanced agentic Retrieval-Augmented Generation (RAG) framework with RESTful API support for production-grade AI retrieval tasks.
+- **Agentic RAG Framework**: Implements a production-grade Retrieval-Augmented Generation (RAG) system with agentic capabilities, enabling dynamic interaction between retrieval and generation components for enhanced question-answering performance.
 
-- **Python-Based Architecture**: Built in Python, leveraging state-of-the-art (SoTA) techniques for large language models (LLMs), question-answering, and retrieval systems.
+- **RESTful API Integration**: Exposes a scalable, RESTful API for seamless integration with downstream applications, supporting structured retrieval and generation workflows in Python-based AI pipelines.
 
-- **High Scalability & Integration**: Designed for seamless integration with AI workflows, supporting topics like search, retrieval systems, and LLM-driven applications (last updated: 2026-08-05).
+- **Modular Architecture**: Designed for extensibility with support for large language models (LLMs), vector databases, and custom retrieval strategies, optimized for high-throughput production environments.
 
 ## Why It Matters
 

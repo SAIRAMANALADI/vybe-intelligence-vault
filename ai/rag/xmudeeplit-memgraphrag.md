@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-06T01:30:20.906295+05:30'
+collected_at: '2026-08-06T03:55:58.257056+05:30'
 published_at: '2026-08-05T18:34:35Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 stars: 165
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-06T01:30:20.906295+05:30'
-last_seen: '2026-08-06T01:30:20.906295+05:30'
-last_checked: '2026-08-06T01:30:20.906295+05:30'
+first_seen: '2026-08-06T03:55:58.257056+05:30'
+last_seen: '2026-08-06T03:55:58.257056+05:30'
+last_checked: '2026-08-06T03:55:58.257056+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-augmented multi-agent architecture**: Introduces a graph-based RAG framework where agents maintain memory via graph structures, enabling dynamic knowledge integration and retrieval for LLM-based generation.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agents for graph construction and retrieval tasks.
 
-- **Ontology-driven graph construction**: Automatically constructs and evolves a hierarchical ontology graph from unstructured data, optimizing retrieval precision through semantic relationships and contextual relevance.
+- **Ontology-Guided Graph Construction**: Utilizes ontology construction techniques to enhance graph-based knowledge representation, enabling structured and semantically rich memory integration.
 
-- **Dynamic memory retrieval mechanism**: Implements a multi-agent collaboration system where agents query and update the graph memory in real-time, enhancing long-term context retention and adaptive knowledge synthesis.
+- **Python-Based Implementation**: Developed in Python, integrating graph neural networks (GNNs) and retrieval mechanisms for scalable and efficient knowledge graph augmentation.
 
 ## Why It Matters
 

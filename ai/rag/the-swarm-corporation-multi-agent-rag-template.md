@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-06T01:32:46.301780+05:30'
+collected_at: '2026-08-06T03:58:23.416980+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 59
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-06T01:32:46.301780+05:30'
-last_seen: '2026-08-06T01:32:46.301780+05:30'
-last_checked: '2026-08-06T01:32:46.301780+05:30'
+first_seen: '2026-08-06T03:58:23.416980+05:30'
+last_seen: '2026-08-06T03:58:23.416980+05:30'
+last_checked: '2026-08-06T03:58:23.416980+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) using Python to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG) pipelines.
+- **Multi-Agent Architecture**: Implements a collaborative framework using frameworks like CrewAI, AutoGen, and Swarms to orchestrate multiple AI agents (e.g., OpenAI GPT-3.5/4, GPT-5, Anthropic) for document processing and insight generation.
 
-- **Integration Stack**: Supports multiple LLM providers (OpenAI, Anthropic, GPT-3.5/4/5) and vector databases (ChromaDB, Pinecone, Weaviate), with LangChain as the orchestration backbone for agent workflows.
+- **RAG Integration**: Leverages LangChain, ChromaDB, Weaviate, or Pinecone for Retrieval-Augmented Generation (RAG), enabling agents to fetch and synthesize information from document repositories efficiently.
 
-- **Deployment & Extensibility**: Includes Discord integration for real-time agent collaboration, modular agent roles (e.g., retrieval, analysis, synthesis), and is actively maintained with the latest update (2026-07-08).
+- **Scalable Deployment**: Supports Discord integration and modular agent roles (e.g., retrieval, analysis, synthesis) for distributed document processing, with Python-based implementation and last updated July 2026.
 
 ## Why It Matters
 

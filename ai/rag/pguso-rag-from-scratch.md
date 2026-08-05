@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-06T01:28:55.835104+05:30'
+collected_at: '2026-08-06T03:54:33.102380+05:30'
 published_at: '2026-08-05T14:15:06Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-06T01:28:55.835104+05:30'
-last_seen: '2026-08-06T01:28:55.835104+05:30'
-last_checked: '2026-08-06T01:28:55.835104+05:30'
+first_seen: '2026-08-06T03:54:33.102380+05:30'
+last_seen: '2026-08-06T03:54:33.102380+05:30'
+last_checked: '2026-08-06T03:54:33.102380+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step guide to building a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs, focusing on embeddings, vector search, retrieval, and context-augmented generation without relying on proprietary APIs or black-box solutions.
+- **Educational RAG Implementation**: Provides a step-by-step, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs, emphasizing transparency by avoiding black-box components.
 
-- **Technical Stack**: Utilizes JavaScript/Node.js with `node-llama-cpp` for local LLM inference, enabling a self-contained pipeline for embedding generation, vector storage, and retrieval-augmented generation.
+- **Technical Stack**: Built with JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and covering core RAG components: embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Open-Source & Tutorial-Driven**: Designed as an educational resource with a permissive license (MIT), covering RAG pipelines, chatbot integration, and AI agent workflows for hands-on learning in AI/ML development.
+- **Purpose & Scope**: Designed as a tutorial repository to demystify RAG pipelines, targeting developers seeking hands-on understanding of RAG architecture and workflows.
 
 ## Why It Matters
 

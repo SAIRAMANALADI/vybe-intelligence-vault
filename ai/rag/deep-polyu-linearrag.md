@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-06T01:30:20.934959+05:30'
+collected_at: '2026-08-06T03:55:58.245551+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 530
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-06T01:30:20.934959+05:30'
-last_seen: '2026-08-06T01:30:20.934959+05:30'
-last_checked: '2026-08-06T01:30:20.934959+05:30'
+first_seen: '2026-08-06T03:55:58.245551+05:30'
+last_seen: '2026-08-06T03:55:58.245551+05:30'
+last_checked: '2026-08-06T03:55:58.245551+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Proposes a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency by leveraging linear graph structures to reduce computational overhead while maintaining retrieval accuracy.
-
-- **ICLR 2026 Contribution**: Introduces a novel approach to GraphRAG by replacing traditional graph traversal with linear algebraic operations, enabling scalable and parallelizable retrieval for LLMs in massive document corpora.
-
-- **Python Implementation**: Provides an open-source Python library (`LinearRAG`) with optimized linear graph algorithms, supporting efficient document retrieval and augmentation for generative models.
+- **Linear Graph RAG Framework**: Introduces a novel Linear Graph Retrieval Augmented Generation (LinearRAG) method for large-scale corpora, optimizing graph-based retrieval for efficiency and scalability in LLM applications.
+- **ICLR 2026 Contribution**: Proposes a linear-time graph retrieval mechanism, reducing computational overhead while maintaining retrieval accuracy for augmented generation tasks.
+- **Python Implementation**: Provides an open-source Python library for LinearRAG, supporting graph-based RAG workflows with modular components for integration with LLMs and retrieval systems.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: DEEP-PolyU
 - Stars: 530
-- Forks: 62
+- Forks: 63
 - Language: Python
 - Topics: graphrag, llms, rag
 - Last Updated: 2026-08-04T07:42:08Z

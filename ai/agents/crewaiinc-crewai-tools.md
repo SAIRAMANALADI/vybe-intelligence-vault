@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI-tools
-collected_at: '2026-08-06T01:32:51.069535+05:30'
-published_at: '2026-08-04T19:13:56Z'
+collected_at: '2026-08-06T03:58:28.363353+05:30'
+published_at: '2026-08-05T21:04:11Z'
 tags:
 - agents
 - github-repo
 - python
 - scripts
-- workflows
-stars: 1462
+stars: 1461
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: true
 created_at: '2024-01-11T17:29:13Z'
 pushed_at: '2025-10-23T18:08:34Z'
 resource_id: github:crewaiinc/crewai-tools
-first_seen: '2026-08-06T01:32:51.069535+05:30'
-last_seen: '2026-08-06T01:32:51.069535+05:30'
-last_checked: '2026-08-06T01:32:51.069535+05:30'
+first_seen: '2026-08-06T03:58:28.363353+05:30'
+last_seen: '2026-08-06T03:58:28.363353+05:30'
+last_checked: '2026-08-06T03:58:28.363353+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends CrewAI agents' functionality via modular Python tools, enhancing agent capabilities in AI-driven workflows.
-- **Key Features**: Provides reusable, pre-built tools for tasks like web scraping, API interactions, and data processing to augment agent performance.
-- **Integration**: Compatible with CrewAI framework, enabling seamless tool adoption for agent-based AI applications.
+- **Python-based Toolkit**: Provides modular extensions (`crewAI-tools`) for CrewAI agents, enabling enhanced functionality via reusable Python components.
+- **Integration Focus**: Designed to seamlessly augment CrewAI agents with additional tools, improving automation and task-specific capabilities.
+- **Repository Metrics**: Maintained with 1,461 stars, 546 forks, and last updated on 2026-08-05, indicating active development and community engagement.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 1462
+- Stars: 1461
 - Forks: 546
 - Language: Python
 - Topics: ai, aiagents, crewai, crewai-tools
-- Last Updated: 2026-08-04T19:13:56Z
+- Last Updated: 2026-08-05T21:04:11Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-01-11T17:29:13Z

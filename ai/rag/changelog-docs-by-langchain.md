@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/releases/changelog
-published_at: '2026-08-06T01:36:16.547999+05:30'
-collected_at: '2026-08-06T01:36:16.548011+05:30'
+published_at: '2026-08-06T04:02:03.892197+05:30'
+collected_at: '2026-08-06T04:02:03.892212+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:changelog-docs-by-langchain
-first_seen: '2026-08-06T01:36:16.548011+05:30'
-last_seen: '2026-08-06T01:36:16.548011+05:30'
-last_checked: '2026-08-06T01:36:16.548011+05:30'
+first_seen: '2026-08-06T04:02:03.892212+05:30'
+last_seen: '2026-08-06T04:02:03.892212+05:30'
+last_checked: '2026-08-06T04:02:03.892212+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **`deepagents` v0.7.0**: Default agent input tokens reduced by **65%** (5,395 → 1,895) via leaner prompts and trimmed tool schemas; new filesystem tools (`delete`, `write_file` overwrite), middleware override support, prompt-caching for Bedrock/Fireworks, and NVIDIA Nemotron 3 Ultra harness profile added.
+- **`deepagents` v0.7.0**: Input tokens reduced by **65%** (5,395 → 1,895) via leaner default prompts and trimmed tool schemas; introduces filesystem tool enhancements (e.g., `delete`, `write_file` overwrite), prompt-caching support for Bedrock/Fireworks, and NVIDIA Nemotron 3 Ultra harness profile.
 
-- **LangGraph v1.2.0**: Introduced `DeltaChannel` (beta) for incremental state storage, per-node timeouts/error handlers, graceful shutdown via `RunControl`, and `version="v3"` streaming API with typed, per-channel projections.
+- **Breaking changes in `deepagents` v0.7.0**: Planning `todos` opt-in (removed from default), backend compatibility shims removed (requires concrete `BackendProtocol` instances), and output format changes (e.g., `ls`/`glob` returns `No files found` instead of `[]`).
 
-- **Breaking changes in `deepagents` v0.7.0**: Planning `todos` opt-in (removed from default), backend compatibility shims removed (e.g., `BackendFactory`), and output format changes (e.g., `ls`/`glob` returns `"No files found"` instead of `[]`).
+- **LangGraph v1.2.0**: Introduces `DeltaChannel` (beta) for incremental state storage, per-node timeouts/error handlers, graceful shutdown via `RunControl`, and a new `version="v3"` event streaming API with typed, per-channel projections.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T01:36:16.547999+05:30
+- Published: 2026-08-06T04:02:03.892197+05:30
 
 ## Related Tags
 

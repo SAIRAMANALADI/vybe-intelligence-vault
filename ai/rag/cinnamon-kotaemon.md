@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-06T01:29:10.896811+05:30'
+collected_at: '2026-08-06T03:54:48.165864+05:30'
 published_at: '2026-08-05T16:21:43Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-06T01:29:10.896811+05:30'
-last_seen: '2026-08-06T01:29:10.896811+05:30'
-last_checked: '2026-08-06T01:29:10.896811+05:30'
+first_seen: '2026-08-06T03:54:48.165864+05:30'
+last_seen: '2026-08-06T03:54:48.165864+05:30'
+last_checked: '2026-08-06T03:54:48.165864+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based document interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual querying of uploaded documents via an LLM-powered chatbot interface.
-- **Modular Python architecture**: Built in Python with extensible components for document ingestion, embedding, retrieval, and response generation.
-- **Open-source deployment**: Hosted on GitHub with permissive licensing, supporting self-hosting and integration with custom LLM backends.
+- **RAG-based Chatbot Framework**: Open-source Python tool leveraging Retrieval-Augmented Generation (RAG) for document-based conversational AI, enabling contextual querying of uploaded documents.
+- **Modular Architecture**: Supports integration with LLMs (e.g., via API endpoints) and customizable document processing pipelines (e.g., chunking, embedding, retrieval).
+- **Scalable Deployment**: Designed for extensibility with features like multi-modal support, API-first design, and compatibility with vector databases (e.g., FAISS, Chroma).
 
 ## Why It Matters
 

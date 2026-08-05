@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-08-06T01:29:00.912923+05:30'
+collected_at: '2026-08-06T03:54:38.169628+05:30'
 published_at: '2026-08-02T15:40:26Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-08-06T01:29:00.912923+05:30'
-last_seen: '2026-08-06T01:29:00.912923+05:30'
-last_checked: '2026-08-06T01:29:00.912923+05:30'
+first_seen: '2026-08-06T03:54:38.169628+05:30'
+last_seen: '2026-08-06T03:54:38.169628+05:30'
+last_checked: '2026-08-06T03:54:38.169628+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for research workflows.
-
-- **Key Components**: Includes modular Python implementations for document ingestion, vector storage (e.g., Chroma/FAISS), and agent-based query processing with LLM integration (e.g., LangChain's `ResearchAgent`).
-
-- **Technical Stack**: Leverages Python with dependencies like `langchain`, `pydantic`, and vector DB libraries; designed for extensibility with custom tooling and retrieval pipelines.
+- **Purpose**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured workflows for document retrieval and synthesis.
+- **Technical Stack**: Python-based, leveraging LangChain’s modular framework for integrating LLMs, vector stores, and retrieval pipelines.
+- **Key Features**: Pre-configured agent architecture with hooks for customization, including document loaders, embeddings, and query optimization tools.
 
 ## Why It Matters
 

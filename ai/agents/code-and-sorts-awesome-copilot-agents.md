@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-08-06T01:30:36.030529+05:30'
+collected_at: '2026-08-06T03:56:13.257398+05:30'
 published_at: '2026-08-01T11:11:32Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 554
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-08-06T01:30:36.030529+05:30'
-last_seen: '2026-08-06T01:30:36.030529+05:30'
-last_checked: '2026-08-06T01:30:36.030529+05:30'
+first_seen: '2026-08-06T03:56:13.257398+05:30'
+last_seen: '2026-08-06T03:56:13.257398+05:30'
+last_checked: '2026-08-06T03:56:13.257398+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) providing a structured collection of GitHub Copilot instructions, prompts, skills, MCPs (Model Context Protocols), and agent markdown files to optimize AI-driven development workflows.
-- **Technical Scope**: Focuses on **agent-skills**, **prompt-engineering**, **custom-agents**, and **MCP integration** for GitHub Copilot, GitHub Copilot Chat, and VSCode extensions.
-- **Metadata**: 554 stars, 91 forks, TypeScript-based, last updated **2026-08-01**, covering topics like AI agents, Copilot prompting, and VSCode integration.
+- **Curated Resource**: GitHub repository hosting a structured collection of GitHub Copilot enhancement files, including instructions, prompts, skills, MCPs, and agent markdowns for AI agent development.
+- **Technical Scope**: Focuses on **TypeScript**-based agent skills, custom Copilot agents, and **MCP (Model Context Protocol)** integrations for advanced **prompt engineering** and **VS Code Copilot Chat** optimization.
+- **Metadata**: 554 stars, 91 forks, last updated **2026-08-01**; covers **agent-skills**, **AI-agents**, and **custom-agents** under topics like **Copilot-instructions** and **prompt-engineering**.
 
 ## Why It Matters
 

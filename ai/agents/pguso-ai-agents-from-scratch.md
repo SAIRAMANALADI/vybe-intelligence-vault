@@ -4,15 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-08-06T01:30:40.898196+05:30'
+collected_at: '2026-08-06T03:56:18.212127+05:30'
 published_at: '2026-08-05T13:36:59Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
+- workflows
 stars: 4472
 language: JavaScript
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-07-24T15:40:39Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-08-06T01:30:40.898196+05:30'
-last_seen: '2026-08-06T01:30:40.898196+05:30'
-last_checked: '2026-08-06T01:30:40.898196+05:30'
+first_seen: '2026-08-06T03:56:18.212127+05:30'
+last_seen: '2026-08-06T03:56:18.212127+05:30'
+last_checked: '2026-08-06T03:56:18.212127+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Implementation**: Demonstrates building AI agents from scratch using local large language models (LLMs) with JavaScript, avoiding cloud-based black boxes for full transparency.
-- **Core Agent Patterns**: Implements and explains key AI agent mechanisms including function calling, memory management, and ReAct (Reasoning and Acting) patterns for autonomous decision-making.
-- **Tooling & Tutorial Focus**: Utilizes `node-llama-cpp` for Node.js-based LLM integration and provides a structured educational resource for understanding agent architectures without external dependencies.
+- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency and eliminating black-box dependencies.
+
+- **Technical Focus**: Covers core AI agent concepts including function calling, memory management, and ReAct (Reasoning and Acting) patterns for agentic workflows.
+
+- **Implementation Stack**: Uses JavaScript with Node.js and `node-llama-cpp` for local LLM integration, enabling practical, framework-agnostic agent development.
 
 ## Why It Matters
 

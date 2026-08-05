@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Endpoints**: Google's sign-in flow uses `https://accounts.google.com/ServiceLogin` with parameters like `passive=1209600` (session persistence) and `continue` (redirect post-authentication).
-- **Session Management**: The `myaccount.google.com` dashboard (`/intro/dashboard`) serves as the post-authentication portal for account settings and data management.
-- **UI Components**: Static assets (e.g., `signincard_dashboard_*.png`) are served from `https://www.gstatic.com/identity/b
+- **Authentication Endpoints**: Google Account access via `https://myaccount.google.com/` and `https://accounts.google.com/ServiceLogin` with OAuth 2.0 parameters (`passive=1209600`, `osid=1`, `continue`, `followup`, `ec=GAZAwAE`).
+
+- **Session Management**: Persistent session handling with `passive=1209600` (2-week idle timeout) and post-authentication redirect to dashboard (`/intro/dashboard`).
+
+- **UI Assets**: Static sign-in card images hosted on `https://www.gstatic.com/identity/boq/account
 
 ## Use Cases
 

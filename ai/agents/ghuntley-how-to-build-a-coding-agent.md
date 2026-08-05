@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-08-06T01:30:40.886827+05:30'
+collected_at: '2026-08-06T03:56:18.185895+05:30'
 published_at: '2026-08-05T19:23:03Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-07-25T03:31:14Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-08-06T01:30:40.886827+05:30'
-last_seen: '2026-08-06T01:30:40.886827+05:30'
-last_checked: '2026-08-06T01:30:40.886827+05:30'
+first_seen: '2026-08-06T03:56:18.185895+05:30'
+last_seen: '2026-08-06T03:56:18.185895+05:30'
+last_checked: '2026-08-06T03:56:18.185895+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a structured workshop for building a **coding agent** (similar to Roo Code, Cline, Amp, Cursor, Windsurf, or OpenCode) using **Go**, covering AI-driven code assistance and automation workflows.
-
-- **Technical Scope**: Focuses on **AI-agent architecture**, integrating **LLM-based decision-making**, **tool orchestration**, and **IDE/editor integration** (e.g., VS Code extensions) for autonomous coding tasks.
-
-- **Implementation Details**: Includes **modular Go-based components** for agent logic, **API bindings** for LLM interactions, and **event-driven workflows** to handle real-time code analysis, generation, and debugging.
+- **Purpose**: Workshop guide for constructing a **coding agent** (e.g., Roo Code, Cline) using **Go**, covering AI-driven code generation/automation workflows.
+- **Technical Stack**: Primarily **Go** with integrations for AI models, CLI tools, and agent frameworks (e.g., cursor, windsurf).
+- **Scope**: Covers **tutorials/workshops** on agent architecture, tooling, and deployment for autonomous coding tasks (last updated **2026-08-05**).
 
 ## Why It Matters
 

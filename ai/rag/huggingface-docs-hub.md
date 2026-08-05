@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-05T17:07:38.386808+05:30'
-collected_at: '2026-08-05T17:07:38.386821+05:30'
+published_at: '2026-08-06T04:00:03.434163+05:30'
+collected_at: '2026-08-06T04:00:03.434183+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,15 +15,14 @@ tags:
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-05T17:07:38.386821+05:30'
-last_seen: '2026-08-05T17:07:38.386821+05:30'
-last_checked: '2026-08-05T17:07:38.386821+05:30'
+first_seen: '2026-08-06T04:00:03.434183+05:30'
+last_seen: '2026-08-06T04:00:03.434183+05:30'
+last_checked: '2026-08-06T04:00:03.434183+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Spaces Hosting**: ML demo apps can be hosted on Hugging Face Spaces with built-in support for Gradio, Docker, and static HTML/JavaScript, enabling GPU acceleration and collaborative development.
+- **Hosting & SDK Support**: Hugging Face Spaces enables ML demo app hosting with built-in support for Gradio (Python SDK), Docker (arbitrary Dockerfiles), and static HTML/JS apps, with optional GPU acceleration for performance-critical workloads.
 
-- **Storage & Compute**: Supports GPU upgrades, disk usage management, and custom domains; integrates with GitHub Actions for CI/CD and provides configuration references for Docker/Gradio deployments.
+- **Deployment & Integration**: Supports GPU upgrades, disk/storage management, GitHub Actions for CI/CD, custom domains, and embedding as MCP servers/API endpoints, with detailed configuration references for advanced use cases.
 
-- **Advanced Features**: Enables embedding Spaces, running as MCP servers/API endpoints, and supports OAuth for authentication; includes monitoring via download analytics and rate limits.
+- **Collaboration & Analytics**: Facilitates team collaboration via organization profiles, provides disk usage tracking, and integrates with tools like Data Studio for private datasets and analytics for download stats.
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T17:07:38.386808+05:30
+- Published: 2026-08-06T04:00:03.434163+05:30
 
 ## Related Tags
 
@@ -57,7 +56,6 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows

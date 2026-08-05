@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-06T01:30:25.875478+05:30'
+collected_at: '2026-08-06T03:56:03.190737+05:30'
 published_at: '2026-08-05T10:18:07Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- paper
 - rag
 - scripts
 - unknown
-- workflows
 stars: 833
 language: Unknown
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-06T01:30:25.875478+05:30'
-last_seen: '2026-08-06T01:30:25.875478+05:30'
-last_checked: '2026-08-06T01:30:25.875478+05:30'
+first_seen: '2026-08-06T03:56:03.190737+05:30'
+last_seen: '2026-08-06T03:56:03.190737+05:30'
+last_checked: '2026-08-06T03:56:03.190737+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, including large language models (LLMs), reasoning agents, and retrieval-augmented generation (RAG) frameworks, with a focus on ACL 2026 KnowFM contributions.
-- **Technical Scope**: Covers agentic RAG, search agents, and deep research methodologies, emphasizing reasoning capabilities and autonomous multi-step research workflows.
-- **Dynamic Repository**: Actively maintained (last updated Aug 2026) with 833 stars and 68 forks, serving as a hub for advanced AI-driven research automation tools and papers.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous reasoning agents, advanced RAG (Retrieval-Augmented Generation), and LLM-driven search methodologies for complex knowledge synthesis.
+
+- **Technical Scope**: Encompasses multi-agent systems, deep reasoning frameworks, and hybrid retrieval-generation architectures tailored for high-fidelity research automation and long-form synthesis.
+
+- **ACL 2026 Integration**: Aligns with ACL 2026 KnowFM tracks, emphasizing scalable, interpretable, and adaptive research agents for academic and industrial applications.
 
 ## Why It Matters
 

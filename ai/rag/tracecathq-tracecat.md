@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-06T01:31:45.994230+05:30'
-published_at: '2026-08-05T09:39:42Z'
+collected_at: '2026-08-06T03:57:23.346952+05:30'
+published_at: '2026-08-05T20:30:43Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
@@ -20,11 +21,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-08-05T19:54:48Z'
+pushed_at: '2026-08-05T21:26:08Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-06T01:31:45.994230+05:30'
-last_seen: '2026-08-06T01:31:45.994230+05:30'
-last_checked: '2026-08-06T01:31:45.994230+05:30'
+first_seen: '2026-08-06T03:57:23.346952+05:30'
+last_seen: '2026-08-06T03:57:23.346952+05:30'
+last_checked: '2026-08-06T03:57:23.346952+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Tracecat is an open-source, event-driven security automation platform designed for teams and AI agents, leveraging Python, FastAPI, and Temporal.io for orchestration and workflow execution.
+- **Platform Architecture**: Tracecat is an open-source, event-driven security automation platform built with Python (FastAPI backend), Next.js frontend, and leverages Temporal.io for workflow orchestration, Pydantic for data validation, and OpenAPI for API standardization.
 
-- **Key Features**: Supports low-code workflows, OpenAPI integration, and Pydantic for data validation, enabling security automation via LLM-driven agents and monitoring capabilities.
+- **Core Features**: Supports low-code workflow creation, LLM integration, and agent-based automation for security operations, with monitoring capabilities and a modular design for extensibility.
 
-- **Architecture**: Built with Next.js for the frontend, FastAPI for backend APIs, and Temporal.io for durable workflow execution, with a focus on security and automation scalability.
+- **Technical Stack**: Utilizes temporal.io for durable workflow execution, FastAPI for high-performance API endpoints, and Pydantic for schema validation, ensuring scalability and maintainability.
 
 ## Why It Matters
 
@@ -49,11 +50,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 398
 - Language: Python
 - Topics: agents, automation, event-driven, fastapi, llm, low-code, monitoring, nextjs, openapi, orchestration, pydantic, security, temporalio, workflow-engine
-- Last Updated: 2026-08-05T09:39:42Z
+- Last Updated: 2026-08-05T20:30:43Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-08-05T19:54:48Z
+- Pushed At: 2026-08-05T21:26:08Z
 
 ## Possible Use Cases
 

@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-08-05T22:29:40.888192+05:30'
-published_at: '2026-08-05T12:54:16Z'
+collected_at: '2026-08-06T03:57:28.310267+05:30'
+published_at: '2026-08-05T19:23:07Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 25952
+- scripts
+stars: 25953
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-08-05T22:29:40.888192+05:30'
-last_seen: '2026-08-05T22:29:40.888192+05:30'
-last_checked: '2026-08-05T22:29:40.888192+05:30'
+first_seen: '2026-08-06T03:57:28.310267+05:30'
+last_seen: '2026-08-06T03:57:28.310267+05:30'
+last_checked: '2026-08-06T03:57:28.310267+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-AutoGLM Framework**: A Python-based open-source framework designed for building and deploying AI phone agents, enabling autonomous interaction with mobile devices via natural language commands.
+- **Open-AutoGLM Framework**: A Python-based open-source framework designed to enable autonomous phone agent capabilities, facilitating AI-driven interactions with mobile devices.
 
-- **Agent Capabilities**: Supports multi-modal task execution (e.g., calls, messages, app navigation) through structured APIs and tool integration, leveraging large language models (LLMs) for decision-making.
+- **Agent Architecture**: Implements a modular agent system for phone automation, leveraging large language models (LLMs) to execute tasks such as calls, messages, and app interactions.
 
-- **Extensibility & Deployment**: Modular architecture allows customization of agent behaviors; optimized for real-time phone interactions with support for cloud/edge deployment.
+- **Extensibility & Community**: Supports customization via plugins and APIs, with active community contributions (25.9K+ stars, 4K+ forks) and recent updates (Aug 2026) ensuring continuous improvement.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zai-org
-- Stars: 25952
+- Stars: 25953
 - Forks: 4017
 - Language: Python
 - Topics: agent, phone-use-agent
-- Last Updated: 2026-08-05T12:54:16Z
+- Last Updated: 2026-08-05T19:23:07Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-12-08T09:23:44Z

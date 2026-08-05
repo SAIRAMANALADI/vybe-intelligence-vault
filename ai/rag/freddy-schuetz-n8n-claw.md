@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-06T01:32:00.956438+05:30'
+collected_at: '2026-08-06T03:57:38.286144+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-06T01:32:00.956438+05:30'
-last_seen: '2026-08-06T01:32:00.956438+05:30'
-last_checked: '2026-08-06T01:32:00.956438+05:30'
+first_seen: '2026-08-06T03:57:38.286144+05:30'
+last_seen: '2026-08-06T03:57:38.286144+05:30'
+last_checked: '2026-08-06T03:57:38.286144+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging **adaptive RAG-powered memory**, **Skills via MCP templates**, and **Expert Agents with delegated sub-agents** for hierarchical task execution.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in `n8n`, leveraging adaptive Retrieval-Augmented Generation (RAG) for dynamic memory management and task execution.
 
-- **Capabilities**: Supports **proactive task management**, **media understanding**, and integrates **Crawl4AI** for web scraping, **SearXNG** for search, and **Supabase** for data storage—all deployable via a single setup script.
+- **Core Features**: Supports Skills via MCP (Model Context Protocol) templates, Expert Agents with delegated sub-agents, proactive task orchestration, and media understanding capabilities, all self-hosted via a single setup script.
 
-- **Deployment**: Self-hosted solution with **Shell-based** setup, targeting **AI agent frameworks** and **MCP (Model Context Protocol)** for modular skill integration and agent collaboration.
+- **Integration Stack**: Combines `Crawl4AI` for scraping, `SearXNG` for search, and `Supabase` for data storage, enabling modular AI agent workflows with extensible MCP-based skill templates.
 
 ## Why It Matters
 

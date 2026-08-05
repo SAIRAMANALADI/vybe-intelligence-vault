@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/awesome-opencode/awesome-opencode
-collected_at: '2026-08-06T01:31:25.975956+05:30'
+collected_at: '2026-08-06T03:57:03.292067+05:30'
 published_at: '2026-08-05T19:51:02Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-22T00:01:14Z'
 pushed_at: '2026-07-03T14:10:38Z'
 resource_id: github:awesome-opencode/awesome-opencode
-first_seen: '2026-08-06T01:31:25.975956+05:30'
-last_seen: '2026-08-06T01:31:25.975956+05:30'
-last_checked: '2026-08-06T01:31:25.975956+05:30'
+first_seen: '2026-08-06T03:57:03.292067+05:30'
+last_seen: '2026-08-06T03:57:03.292067+05:30'
+last_checked: '2026-08-06T03:57:03.292067+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: A comprehensive collection of plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), maintained as a community-driven repository.
-- **Technical Stack**: Primarily implemented in JavaScript, leveraging modern web technologies for extensibility and integration.
-- **Metadata**: 9,384 stars, 711 forks, last updated on **2026-08-05**, serving as a dynamic reference for AI-powered coding environments.
+- **Curated Resource Hub**: A comprehensive, community-driven repository listing plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), organized for easy discovery and integration.
+
+- **Technical Stack**: Primarily developed in JavaScript, leveraging modern web technologies to ensure compatibility and extensibility across the opencode.ai ecosystem.
+
+- **High Engagement Metrics**: Demonstrates significant community adoption with **9,384 stars** and **711 forks**, reflecting active maintenance and contributions as of the last update (**2026-08-05**).
 
 ## Why It Matters
 

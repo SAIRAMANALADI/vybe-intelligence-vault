@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-06T01:29:35.828416+05:30'
+collected_at: '2026-08-06T03:55:13.159722+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 95
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-06T01:29:35.828416+05:30'
-last_seen: '2026-08-06T01:29:35.828416+05:30'
-last_checked: '2026-08-06T01:29:35.828416+05:30'
+first_seen: '2026-08-06T03:55:13.159722+05:30'
+last_seen: '2026-08-06T03:55:13.159722+05:30'
+last_checked: '2026-08-06T03:55:13.159722+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation Framework**: Repository provides a Python-based framework for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on model retrieval enhancement techniques for large language models (LLMs).
-
-- **Best Practices Documentation**: Includes curated best practices for RAG deployment, covering retrieval strategies, prompt engineering, and evaluation metrics to improve generation quality and factual accuracy.
-
-- **Modular Architecture**: Implements a modular design for seamless integration of custom retrievers, embeddings, and LLMs, enabling scalable and adaptable RAG solutions.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices for large language models (LLMs), focusing on retrieval efficiency, context relevance, and generation quality.
+- **Python-Based Pipeline**: Provides modular Python components for document indexing, retrieval, and response generation, leveraging vector databases (e.g., FAISS, Chroma) and LLMs (e.g., Hugging Face Transformers).
+- **Evaluation & Benchmarking**: Includes metrics for assessing retrieval accuracy (e.g., MRR, Hit Rate) and generation performance (e.g., ROUGE, BLEU), with tools for hyperparameter tuning and ablation studies.
 
 ## Why It Matters
 

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-06T01:32:00.935440+05:30'
-published_at: '2026-08-05T16:49:53Z'
+collected_at: '2026-08-06T03:57:38.295075+05:30'
+published_at: '2026-08-05T21:04:15Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 26737
+stars: 26736
 language: Python
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-08-03T21:08:08Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-06T01:32:00.935440+05:30'
-last_seen: '2026-08-06T01:32:00.935440+05:30'
-last_checked: '2026-08-06T01:32:00.935440+05:30'
+first_seen: '2026-08-06T03:57:38.295075+05:30'
+last_seen: '2026-08-06T03:57:38.295075+05:30'
+last_checked: '2026-08-06T03:57:38.295075+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Fully Local AI Agent**: `agenticSeek` operates entirely locally without external APIs or cloud dependencies, eliminating subscription costs (e.g., $200/month) and relying solely on local compute resources.
-- **Autonomous Multi-Modal Functionality**: Supports autonomous reasoning, web browsing, and code execution via a Python-based architecture, leveraging `DeepSeek-R1` for advanced LLM capabilities.
-- **Voice & Text Integration**: Includes voice assistant features alongside text-based interactions, with a lightweight design optimized for local deployment (last updated: 2026-08-05).
+- **Fully Local AI Agent**: Implements an autonomous agent (`agenticSeek`) using local LLMs (e.g., DeepSeek-R1) without external APIs or cloud dependencies, operating solely on local compute resources.
+- **Multi-Modal Capabilities**: Supports web browsing, code execution, and voice assistant functionality via Python-based integration of LLMs, tools, and TTS/STT systems.
+- **Cost-Efficient Deployment**: Eliminates recurring API costs (e.g., $200/month) by leveraging local hardware, with performance dependent on electricity and local GPU/CPU resources.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Fosowl
-- Stars: 26737
+- Stars: 26736
 - Forks: 2995
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
-- Last Updated: 2026-08-05T16:49:53Z
+- Last Updated: 2026-08-05T21:04:15Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-02-19T18:03:06Z

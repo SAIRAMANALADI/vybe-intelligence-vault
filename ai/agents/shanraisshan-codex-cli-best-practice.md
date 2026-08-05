@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-06T01:31:10.913790+05:30'
+collected_at: '2026-08-06T03:56:48.234928+05:30'
 published_at: '2026-08-04T12:21:57Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-06T01:31:10.913790+05:30'
-last_seen: '2026-08-06T01:31:10.913790+05:30'
-last_checked: '2026-08-06T01:31:10.913790+05:30'
+first_seen: '2026-08-06T03:56:48.234928+05:30'
+last_seen: '2026-08-06T03:56:48.234928+05:30'
+last_checked: '2026-08-06T03:56:48.234928+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using Codex CLI, emphasizing automation, modular hooks, and context engineering for scalable AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from vibe coding to structured agentic engineering using Codex CLI, emphasizing systematic AI-agent workflows for code generation and automation.
 
-- **Codex CLI Best Practices**: Documents optimized commands, skills, and hooks for OpenAI Codex, including context management, skill chaining, and CLI-based agent orchestration to enhance productivity and reproducibility in AI-assisted coding.
+- **CLI-Centric Best Practices**: Provides a curated set of Codex CLI commands, skills, and hooks for optimizing AI-agent interactions, context engineering, and task execution in Python-based environments.
 
-- **Pakistan-Centric AI Development**: Showcases contributions from Pakistani developers, with a focus on localized AI tooling, community-driven practices, and practical implementations of Codex CLI in real-world engineering scenarios.
+- **Open-Source Contribution**: Open-source project (954 stars, 64 forks) serving as a reference for Pakistani developers and AI practitioners to implement scalable, agent-driven coding practices with OpenAI's Codex.
 
 ## Why It Matters
 

@@ -3,18 +3,20 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
-published_at: '2026-08-06T01:35:38.172790+05:30'
-collected_at: '2026-08-06T01:35:38.172801+05:30'
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+published_at: '2026-08-06T04:03:26.168654+05:30'
+collected_at: '2026-08-06T04:03:26.168671+05:30'
 tags:
 - agents
+- hackernews
 - rag
 - web-crawled
+- youtube
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-06T01:35:38.172801+05:30'
-last_seen: '2026-08-06T01:35:38.172801+05:30'
-last_checked: '2026-08-06T01:35:38.172801+05:30'
+first_seen: '2026-08-06T04:03:26.168671+05:30'
+last_seen: '2026-08-06T04:03:26.168671+05:30'
+last_checked: '2026-08-06T04:03:26.168671+05:30'
 health_score: 100
 ---
 
@@ -22,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution, including derivative works (e.g., previews, curated lists).
+- **Data Collection**: Medium collects user-provided data (e.g., name, email, content) and automatically gathers activity, device, and usage data (e.g., IP address, cookies, transactional details) via tracking technologies like web beacons and third-party analytics providers.
 
-- **Dispute Resolution & Liability Limits**: Mandatory **binding arbitration** (JAMS Rules) replaces court trials for disputes, waiving class actions; liability is capped at **$50 USD or fees paid**, excluding gross negligence/fraud, with informal resolution required before arbitration.
+- **Data Sharing & Processing**: Personal data is shared with vendors, service providers, and third-party platforms (e.g., Apple, Facebook) for service delivery, fraud prevention, and analytics. Aggregated/de-identified data may also be shared, and user data may be transferred to U.S.-based servers (e.g., AWS) with safeguards for cross-border compliance.
 
-- **Data Processing & Termination Rights**: Users consent to **cross-border data processing** (US/international); Medium may **suspend/terminate access** at will, and users must indemnify Medium for violations of Terms/IP/privacy laws.
+- **User Control & Legal Compliance**: Users can access, correct, or delete account data via Settings. Opt-out options exist for communications and cookies, while CCPA grants California users rights to request disclosure or deletion of personal data. Medium may retain data for legal or business purposes despite user deletion.
 
 ## Why It Matters
 
@@ -36,14 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T01:35:38.172790+05:30
+- Published: 2026-08-06T04:03:26.168654+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - rag
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+Original source: https://policy.medium.com/medium-privacy-policy-f03bf92035c9

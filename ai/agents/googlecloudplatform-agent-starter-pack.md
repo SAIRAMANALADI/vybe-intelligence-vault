@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
-collected_at: '2026-08-06T01:31:45.998010+05:30'
+collected_at: '2026-08-06T03:57:23.334509+05:30'
 published_at: '2026-08-05T18:21:48Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
 stars: 6534
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-01-31T16:03:06Z'
 pushed_at: '2026-07-21T23:42:40Z'
 resource_id: github:googlecloudplatform/agent-starter-pack
-first_seen: '2026-08-06T01:31:45.998010+05:30'
-last_seen: '2026-08-06T01:31:45.998010+05:30'
-last_checked: '2026-08-06T01:31:45.998010+05:30'
+first_seen: '2026-08-06T03:57:23.334509+05:30'
+last_seen: '2026-08-06T03:57:23.334509+05:30'
+last_checked: '2026-08-06T03:57:23.334509+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Production-ready AI agent templates** for Google Cloud with integrated CI/CD, evaluation, and observability tools, enabling rapid deployment (minutes vs. months).
+- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
 
-- **Supports Google Cloud's GenAI ecosystem**, including Gemini and generative AI agents, with Python-based implementation optimized for LLMops and MLOps workflows.
+- **Gemini and generative AI integration** with Python-based implementations, supporting LLMops and MLOps best practices for scalable agent orchestration.
 
-- **Pre-configured observability and monitoring** for AI agents, ensuring reliability and performance tracking in production environments.
+- **Built-in monitoring and evaluation** via structured logging, metrics, and automated testing, ensuring reliability and performance in production environments.
 
 ## Why It Matters
 

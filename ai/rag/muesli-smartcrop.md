@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/muesli/smartcrop
-collected_at: '2026-08-02T03:50:11.446676+05:30'
+collected_at: '2026-08-06T04:04:18.035964+05:30'
 published_at: '2026-07-12T08:38:14Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2014-04-07T22:40:03Z'
 pushed_at: '2023-07-06T12:16:16Z'
 resource_id: github:muesli/smartcrop
-first_seen: '2026-08-02T03:50:11.446676+05:30'
-last_seen: '2026-08-02T03:50:11.446676+05:30'
-last_checked: '2026-08-02T03:50:11.446676+05:30'
+first_seen: '2026-08-06T04:04:18.035964+05:30'
+last_seen: '2026-08-06T04:04:18.035964+05:30'
+last_checked: '2026-08-06T04:04:18.035964+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Algorithm**: Implements a saliency-based image cropping algorithm to identify visually important regions for arbitrary crop sizes.
-- **Implementation**: Written in Go, leveraging edge detection and entropy analysis to prioritize high-contrast and detailed areas.
-- **Usage**: Designed for dynamic image resizing while preserving key visual elements, suitable for responsive web design.
+- **Algorithm**: Implements a saliency-based image cropping algorithm that analyzes visual attention regions (e.g., faces, text) to determine optimal crop coordinates for arbitrary aspect ratios.
+- **Implementation**: Written in Go, leveraging edge detection, entropy analysis, and face detection (via OpenCV bindings) to prioritize high-information regions while avoiding distortion.
+- **Performance**: Optimized for real-time processing with low memory overhead, supporting dynamic resizing and batch operations via CLI or library integration.
 
 ## Why It Matters
 

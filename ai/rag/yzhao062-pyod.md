@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-08-06T01:31:30.956699+05:30'
+collected_at: '2026-08-06T03:57:08.245637+05:30'
 published_at: '2026-08-05T08:49:07Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-08-02T12:42:17Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-08-06T01:31:30.956699+05:30'
-last_seen: '2026-08-06T01:31:30.956699+05:30'
-last_checked: '2026-08-06T01:31:30.956699+05:30'
+first_seen: '2026-08-06T03:57:08.245637+05:30'
+last_seen: '2026-08-06T03:57:08.245637+05:30'
+last_checked: '2026-08-06T03:57:08.245637+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed `ADEngine` orchestration for model evaluation and deployment.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ anomaly detection algorithms for tabular, time series, graph, text, image, and audio data, with benchmark-backed `ADEngine` for orchestration and agentic workflows for AI agents.
 
-- **Agentic Workflow Integration**: Enables AI agents to dynamically select and optimize anomaly detection models via an agentic workflow, leveraging foundation models for adaptive detection strategies.
+- **Multimodal & Foundation Model Integration**: Includes detectors for fraud, graph anomalies, image/text outliers, novelty detection, and OOD scenarios, leveraging deep learning and foundation models.
 
-- **Multimodal & Unsupervised Capabilities**: Includes specialized detectors for fraud, graph anomalies, OOD detection, and novelty detection, with support for unsupervised learning and multimodal data integration.
+- **Active Development & Ecosystem**: Maintained repository (last updated Aug 2026) with 9,952 stars, 1,488 forks, and topics spanning unsupervised learning, outlier ensembles, and multimodal applications.
 
 ## Why It Matters
 

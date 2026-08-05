@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/orgs/firecrawl/repositories?q=sort%3Astars
-published_at: '2026-08-05T01:37:16.575143+05:30'
-collected_at: '2026-08-05T01:37:16.575154+05:30'
+published_at: '2026-08-06T04:01:12.743206+05:30'
+collected_at: '2026-08-06T04:01:12.743224+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: github:orgs/firecrawl
-first_seen: '2026-08-05T01:37:16.575154+05:30'
-last_seen: '2026-08-05T01:37:16.575154+05:30'
-last_checked: '2026-08-05T01:37:16.575154+05:30'
+first_seen: '2026-08-06T04:01:12.743224+05:30'
+last_seen: '2026-08-06T04:01:12.743224+05:30'
+last_checked: '2026-08-06T04:01:12.743224+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: TypeScript-based web scraping, crawling, and interaction framework with Markdown/HTML conversion, supporting AI integration and structured data extraction at scale.
+- **Firecrawl**: TypeScript-based web scraping, search, and interaction API with Markdown/html-to-markdown conversion, supporting AI-driven data extraction and web crawling at scale.
 
-- **PDF Inspector**: Rust-based high-performance library for PDF text extraction, classification (scanned vs. text-based), and intelligent routing decisions with Node.js/Python bindings.
+- **pdf-inspector**: Rust-based high-performance library for PDF text extraction, classification (scanned vs. text-based), and intelligent routing decisions with Node.js/Python bindings.
 
-- **AnyDoc**: Rust-powered document conversion tool (Word, PPT, Excel, PDF, etc.) to clean Markdown, featuring cross-language bindings (Node.js, Python) and efficient parsing.
+- **anydoc**: Rust-powered document conversion tool (Word, PPT, Excel, PDF, etc.) to clean Markdown with cross-language (Node.js/Python) support and built-in OCR for scanned documents.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T01:37:16.575143+05:30
+- Published: 2026-08-06T04:01:12.743206+05:30
 
 ## Related Tags
 

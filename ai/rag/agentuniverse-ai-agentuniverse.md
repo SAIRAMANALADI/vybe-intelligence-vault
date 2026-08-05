@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agentuniverse-ai/agentUniverse
-collected_at: '2026-08-05T22:30:05.917127+05:30'
+collected_at: '2026-08-06T03:57:53.345636+05:30'
 published_at: '2026-08-05T09:05:43Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 2318
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-04-23T11:28:18Z'
 pushed_at: '2026-07-28T08:18:07Z'
 resource_id: github:agentuniverse-ai/agentuniverse
-first_seen: '2026-08-05T22:30:05.917127+05:30'
-last_seen: '2026-08-05T22:30:05.917127+05:30'
-last_checked: '2026-08-05T22:30:05.917127+05:30'
+first_seen: '2026-08-06T03:57:53.345636+05:30'
+last_seen: '2026-08-06T03:57:53.345636+05:30'
+last_checked: '2026-08-06T03:57:53.345636+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent LLM Framework**: agentUniverse is a Python-based framework enabling developers to construct multi-agent applications leveraging large language models (LLMs) for autonomous task execution and coordination.
+- **Multi-agent LLM framework**: Python-based open-source tool enabling developers to construct and deploy multi-agent AI systems leveraging LLMs for autonomous task execution and coordination.
 
-- **Modular & Extensible Architecture**: Provides a structured environment for agent development with reusable components, supporting customization via modular design patterns for scalable AI agent systems.
+- **Modular architecture**: Supports customizable agent components, workflows, and interactions, facilitating scalable and flexible multi-agent application development.
 
-- **Active Development & Community**: Maintained repository with 2,318 stars and 416 forks, last updated in 2026, indicating ongoing enhancements and community-driven contributions in the multi-agent AI space.
+- **Active development**: Last updated in August 2026, with 2,318 stars and 416 forks, indicating a growing community and ongoing enhancements.
 
 ## Why It Matters
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-06T01:29:55.848124+05:30'
+collected_at: '2026-08-06T03:55:33.184824+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- leaderboard
 - python
 - rag
 stars: 402
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-06T01:29:55.848124+05:30'
-last_seen: '2026-08-06T01:29:55.848124+05:30'
-last_checked: '2026-08-06T01:29:55.848124+05:30'
+first_seen: '2026-08-06T03:55:33.184824+05:30'
+last_seen: '2026-08-06T03:55:33.184824+05:30'
+last_checked: '2026-08-06T03:55:33.184824+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive metrics for Large Language Models (LLMs) in Chinese contexts.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive metrics for Chinese LLM performance in retrieval and generation tasks.
 
-- **Evaluation Scope**: Tests LLMs on **C**omplex queries, **R**etrieval efficiency, **U**nderstanding depth, and **D**omain adaptability, covering multi-turn dialogues and long-form generation.
+- **Evaluation Framework**: The benchmark assesses CRUD (Create, Read, Update, Delete) operations in RAG pipelines, measuring both retrieval accuracy and generation quality under diverse Chinese linguistic contexts.
 
-- **Open-Source Framework**: Provides a Python-based toolkit for benchmarking, including retrieval modules, evaluation scripts, and standardized datasets for reproducibility.
+- **Open-Source Toolkit**: Provides a Python-based framework with standardized datasets, evaluation scripts, and leaderboards to facilitate reproducible research and benchmarking of Chinese RAG systems.
 
 ## Why It Matters
 

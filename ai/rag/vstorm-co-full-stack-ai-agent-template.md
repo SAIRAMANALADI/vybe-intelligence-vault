@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-06T01:29:00.830990+05:30'
+collected_at: '2026-08-06T03:54:38.138185+05:30'
 published_at: '2026-08-05T03:16:15Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-01T20:27:22Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-06T01:29:00.830990+05:30'
-last_seen: '2026-08-06T01:29:00.830990+05:30'
-last_checked: '2026-08-06T01:29:00.830990+05:30'
+first_seen: '2026-08-06T03:54:38.138185+05:30'
+last_seen: '2026-08-06T03:54:38.138185+05:30'
+last_checked: '2026-08-06T03:54:38.138185+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL for persistence, and Docker for containerization.
+- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-integrated with **AI Agents, RAG, streaming, auth**, and **20+ integrations** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
 
-- **AI Capabilities**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for agent orchestration, RAG pipelines, and streaming LLM interactions.
+- **Tech stack**: Python (backend), TypeScript/React (frontend), PostgreSQL (database), Docker (containerization), WebSocket (real-time streaming), with built-in **Pydantic models** for data validation.
 
-- **Features**: Built-in authentication, 20+ third-party integrations, WebSocket support, and Pydantic-Deep for structured data validation.
+- **Key features**: Out-of-the-box support for **LLM integration**, **multi-agent orchestration**, and **authentication**, optimized for rapid deployment of scalable AI-driven applications.
 
 ## Why It Matters
 

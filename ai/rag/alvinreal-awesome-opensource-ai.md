@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-08-06T01:29:45.794218+05:30'
+collected_at: '2026-08-06T03:55:23.173197+05:30'
 published_at: '2026-08-05T19:58:00Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-08-05T12:34:16Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-08-06T01:29:45.794218+05:30'
-last_seen: '2026-08-06T01:29:45.794218+05:30'
-last_checked: '2026-08-06T01:29:45.794218+05:30'
+first_seen: '2026-08-06T03:55:23.173197+05:30'
+last_seen: '2026-08-06T03:55:23.173197+05:30'
+last_checked: '2026-08-06T03:55:23.173197+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: Aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates.
-- **Technical Scope**: Focuses on agents, generative AI, LLMs, MLOps, and RAG, primarily implemented in Python.
-- **Metrics**: 4,430 stars, 564 forks, last updated on 2026-08-05.
+- **Curated Open-Source AI Repository**: Hosts a meticulously maintained list of truly open-source AI projects, models, tools, and infrastructure, with daily updates.
+- **Technical Scope**: Focuses on key AI domains including agents, generative AI, LLMs, MLOps, and RAG, primarily implemented in Python.
+- **Community Metrics**: 4,430 stars and 564 forks as of the last update (2026-08-05), reflecting active engagement and adoption.
 
 ## Why It Matters
 

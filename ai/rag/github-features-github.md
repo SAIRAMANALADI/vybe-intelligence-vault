@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features
-published_at: '2026-08-06T01:35:56.329261+05:30'
-collected_at: '2026-08-06T01:35:56.329270+05:30'
+published_at: '2026-08-06T04:02:14.061519+05:30'
+collected_at: '2026-08-06T04:02:14.061536+05:30'
 tags:
 - rag
 - scripts
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-features-github
-first_seen: '2026-08-06T01:35:56.329270+05:30'
-last_seen: '2026-08-06T01:35:56.329270+05:30'
-last_checked: '2026-08-06T01:35:56.329270+05:30'
+first_seen: '2026-08-06T04:02:14.061536+05:30'
+last_seen: '2026-08-06T04:02:14.061536+05:30'
+last_checked: '2026-08-06T04:02:14.061536+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Copilot**: AI-powered code completion and generation, providing whole-line or function-level suggestions directly in the editor, with additional capabilities for code review and autofix for security vulnerabilities in supported languages (JavaScript, TypeScript, Java, Python).
+- **GitHub Copilot**: AI-powered code completion and generation within IDEs, supporting whole-line or function-level suggestions to accelerate development workflows.
 
-- **GitHub Actions & CI/CD**: Automated workflows for building, testing, and deploying software, with support for self-hosted and GitHub-hosted runners, workflow visualization, and preconfigured templates to standardize processes across organizations.
+- **GitHub Advanced Security (GHAS)**: Integrated suite for vulnerability detection (CodeQL), secret scanning, dependency management (Dependabot), and automated fixes (Copilot Autofix) to enforce security and compliance.
 
-- **GitHub Advanced Security (GHAS)**: Integrated security suite including code scanning (via CodeQL), secret scanning, dependency vulnerability alerts (Dependabot), and AI-driven autofix for remediating up to 90% of alert types, reducing security debt at scale.
+- **GitHub Actions & CI/CD**: Native automation platform enabling workflow orchestration via YAML-based pipelines, with self-hosted/managed runners, reusable templates, and real-time visualization for scalable DevOps processes.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T01:35:56.329261+05:30
+- Published: 2026-08-06T04:02:14.061519+05:30
 
 ## Related Tags
 

@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Built-in AI APIs**: Chrome provides browser-managed AI models and APIs (e.g., `chrome.ai`) for performing AI tasks directly in the browser, with support for foundation/expert models and structured tool interactions via WebMCP for agent reliability.
-
-- **WebNN & Compute Acceleration**: Chrome supports WebNN API for ML operations, WebGPU for GPU-accelerated computations, and WebAssembly optimizations to enhance AI inference performance on-device.
-
-- **DevTools AI Integration**: Chrome DevTools
+- **Built-in AI APIs**: Chrome provides browser-managed AI models and APIs (e.g., WebNN, WebGPU) for on-device inference, enabling tasks like translation, summarization, and content generation without cloud dependency.
+- **WebMCP Standard**: Structured tool registration via WebMCP allows AI agents to interact with web apps reliably, defining actions (e.g., booking slots) with JSON schemas and executing them with user confirmation.
+- **Performance Optimization**: Chrome supports Wasm, WebGPU, and
 
 ## Use Cases
 

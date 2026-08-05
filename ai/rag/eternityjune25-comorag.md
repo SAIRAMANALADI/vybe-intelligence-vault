@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-06T01:30:20.844517+05:30'
+collected_at: '2026-08-06T03:55:58.222150+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-06T01:30:20.844517+05:30'
-last_seen: '2026-08-06T01:30:20.844517+05:30'
-last_checked: '2026-08-06T01:30:20.844517+05:30'
+first_seen: '2026-08-06T03:55:58.222150+05:30'
+last_seen: '2026-08-06T03:55:58.222150+05:30'
+last_checked: '2026-08-06T03:55:58.222150+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long narrative reasoning with structured memory retrieval.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Memory-Organized RAG**: Implements hierarchical memory modules (e.g., episodic, semantic) to dynamically store, retrieve, and synthesize contextual information for coherent multi-turn reasoning in long narratives.
+- **Stateful Reasoning**: Implements dynamic memory retrieval and integration mechanisms to maintain context coherence across extended multi-turn interactions, enhancing reasoning consistency.
 
-- **AAAI 2026 Poster**: Presented as a novel approach for enhancing LLM reasoning in extended dialogues or documents, with empirical validation on long-form reasoning benchmarks (codebase includes Python implementation).
+- **AAAI 2026 Poster**: Presented as a novel approach for long-form narrative understanding, leveraging memory organization for improved factual grounding and contextual relevance in generative tasks.
 
 ## Why It Matters
 

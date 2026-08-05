@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-08-06T01:30:40.854918+05:30'
+collected_at: '2026-08-06T03:56:18.197921+05:30'
 published_at: '2026-08-05T17:30:57Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 3455
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-08-06T01:30:40.854918+05:30'
-last_seen: '2026-08-06T01:30:40.854918+05:30'
-last_checked: '2026-08-06T01:30:40.854918+05:30'
+first_seen: '2026-08-06T03:56:18.197921+05:30'
+last_seen: '2026-08-06T03:56:18.197921+05:30'
+last_checked: '2026-08-06T03:56:18.197921+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers end-to-end AI agent development, including LangChain, LangGraph, Coze, Dify, MCP, skills, LLM, RAG, prompt engineering, enterprise deployment, and fine-tuning.
-- **Hands-on Projects & Interview Prep**: Provides practical projects, a curated interview question bank, and a structured learning path targeting roles like LLM application development engineer.
-- **Enterprise-Ready Tooling**: Integrates enterprise-grade deployment workflows, from initial learning to production deployment, with support for frameworks like DeepAgents, Cursor, and GPT.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment aligned with AI application development roles.
+- **Practical Learning Path**: Integrates hands-on projects, interview preparation, and a curated question bank for AI Agent roles, structured from beginner to enterprise-level implementation.
+- **Multi-Framework & Tool Support**: Focuses on Python-based agent frameworks (e.g., DeepAgents) and tools (skills, RAG) with last updated resources (Aug 2026) for modern AI agent development.
 
 ## Why It Matters
 

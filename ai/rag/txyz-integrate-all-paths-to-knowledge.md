@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://txyz.ai
-published_at: '2026-08-05T09:12:11.595649+05:30'
-collected_at: '2026-08-05T09:12:11.595661+05:30'
+published_at: '2026-08-06T04:01:32.028569+05:30'
+collected_at: '2026-08-06T04:01:32.028589+05:30'
 tags:
 - agents
 - hackernews
@@ -13,14 +13,15 @@ tags:
 - producthunt
 - rag
 - reddit
+- scripts
 - threejs
 - web-crawled
 - workflows
 status: active
 resource_id: blog:txyz-integrate-all-paths-to-knowledge
-first_seen: '2026-08-05T09:12:11.595661+05:30'
-last_seen: '2026-08-05T09:12:11.595661+05:30'
-last_checked: '2026-08-05T09:12:11.595661+05:30'
+first_seen: '2026-08-06T04:01:32.028589+05:30'
+last_seen: '2026-08-06T04:01:32.028589+05:30'
+last_checked: '2026-08-06T04:01:32.028589+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **TXYZ AI Platform**: Offers four core products—**Searching** (knowledge discovery), **Reading** (AI-powered document analysis), **Writing** (agent-assisted content creation), and **API** (business integration)—with tiered pricing (Free, Pro at $96/year, Ultra at $288/year) featuring escalating usage limits, context windows, and agentic workflows.
+- **TXYZ AI Platform** offers four core products: **Searching** (knowledge discovery), **Reading** (AI-powered document analysis), **Writing** (agentic workflow automation), and **API** (business integration), with tiered pricing (Free, Pro at $96/year, Ultra at $288/year).
 
-- **Privacy & Reliability**: Uploaded documents remain private and are purged upon deletion; answers mitigate hallucinations via retrieval-augmented generation with document citation references.
+- **Privacy & Security**: Uploaded documents remain private, with deletion requests fully removing files from the system; API access available for enterprise integration.
 
-- **API & Ecosystem**: Provides API access for enterprise/academic integration (contact: support@txyz.ai); supports 500K+ researchers with cross-domain applications (e.g., R&D, market research) and maintains a Discord community for real-time collaboration.
+- **Reliability Features**: Mitigates hallucinations via retrieval-augmented generation (RAG) with document citation references; supports 500K+ researchers across academic, R&D, and industry use cases.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T09:12:11.595649+05:30
+- Published: 2026-08-06T04:01:32.028569+05:30
 
 ## Related Tags
 
@@ -52,6 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - reddit
+- scripts
 - threejs
 - web-crawled
 - workflows
