@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hectorpine/multiple-model-crew
-collected_at: '2026-08-05T09:08:38.542846+05:30'
+collected_at: '2026-08-05T17:06:39.717704+05:30'
 published_at: '2025-03-13T20:18:08Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-05-11T06:09:36Z'
 pushed_at: '2024-05-11T09:30:04Z'
 resource_id: github:hectorpine/multiple-model-crew
-first_seen: '2026-08-05T09:08:38.542846+05:30'
-last_seen: '2026-08-05T09:08:38.542846+05:30'
-last_checked: '2026-08-05T09:08:38.542846+05:30'
+first_seen: '2026-08-05T17:06:39.717704+05:30'
+last_seen: '2026-08-05T17:06:39.717704+05:30'
+last_checked: '2026-08-05T17:06:39.717704+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Template for CrewAI enabling seamless integration of multiple LLMs (GPT-3, GPT-4, Mixtral, Llama 3, Gemma) within a single workflow.
-- **Python-Based Implementation**: Repository written in Python, leveraging CrewAI for agent orchestration and model selection.
-- **Last Updated**: March 13, 2025, with 11 stars and 8 forks, indicating active but niche community adoption.
+- **Multi-Model Integration**: Template leverages CrewAI to dynamically select and deploy agents using models like GPT-3, GPT-4, Mixtral, Llama 3, and Gemma within a unified framework.
+
+- **Python-Based Architecture**: Implemented in Python, the repository provides a modular structure for agent-based workflows, enabling seamless switching between different LLM backends.
+
+- **Last Updated**: Repository was last modified on **2025-03-13**, indicating recent maintenance or updates to support evolving model integrations.
 
 ## Why It Matters
 

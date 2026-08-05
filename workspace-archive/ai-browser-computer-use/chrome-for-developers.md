@@ -8,18 +8,17 @@ local_vault_path: ai/agents/chrome-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - hackernews
 - scripts
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Chrome for Developers
@@ -28,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Chrome 152 Beta** introduces new features preview, including upcoming web platform capabilities and APIs (e.g., Soft Navigations performance entries, Declarative Shadow DOM slot assignment).
-- **Chrome DevTools & Automation** provides debugging (DevTools), browser automation (Puppeteer), and testing frameworks (ChromeDriver, Chrome for Testing) for optimized web development workflows.
-- **Google I/O 2026 Updates** highlight Chrome’s advancements in AI-driven web capabilities (e.g., agentic w
+- **Chrome 152 Beta** introduces new features preview, including enhanced AI capabilities (`auto_awesome`), Web App widgets, and Android web integration optimizations.
+- **Chrome 151 Stable** release includes `usermedia` element, Declarative Shadow DOM slot assignment, and Soft Navigations performance entries for improved web performance diagnostics.
+- **Chrome DevTools** provides real-time debugging, performance analysis, and Puppeteer integration for automated testing and ChromeDriver for brow
 
 ## Use Cases
 

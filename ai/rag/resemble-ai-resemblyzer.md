@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/resemble-ai/resemblyzer
-collected_at: '2026-08-05T09:10:31.074744+05:30'
+collected_at: '2026-08-05T17:08:16.004471+05:30'
 published_at: '2026-08-04T19:21:25Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2019-08-15T16:39:51Z'
 pushed_at: '2023-10-12T09:35:22Z'
 resource_id: github:resemble-ai/resemblyzer
-first_seen: '2026-08-05T09:10:31.074744+05:30'
-last_seen: '2026-08-05T09:10:31.074744+05:30'
-last_checked: '2026-08-05T09:10:31.074744+05:30'
+first_seen: '2026-08-05T17:08:16.004471+05:30'
+last_seen: '2026-08-05T17:08:16.004471+05:30'
+last_checked: '2026-08-05T17:08:16.004471+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Deep Learning-Based Voice Analysis**: Uses a pre-trained deep neural network (Resemblyzer) to extract speaker embeddings from audio files, enabling high-accuracy voice comparison and similarity scoring.
+- **Deep Learning-Based Voice Analysis**: Uses a deep neural network to extract speaker embeddings (d-vector) from audio for voice comparison and similarity scoring.
 
-- **Python Package Integration**: Provides a lightweight Python API for real-time or batch processing of voice recordings, with support for speaker verification and diarization tasks.
+- **Python Package**: Provides a lightweight, open-source library (`resemblyzer`) for real-time or offline voice feature extraction and comparison.
 
-- **Cross-Platform Compatibility**: Designed for deployment across systems, leveraging PyTorch for efficient inference and compatibility with standard audio formats (e.g., WAV, MP3).
+- **Cross-Platform Compatibility**: Supports Python 3.6+ and integrates with common audio processing tools (e.g., `numpy`, `scipy`, `librosa`).
 
 ## Why It Matters
 

@@ -4,24 +4,21 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface
-published_at: '2026-08-05T14:33:40.796676+05:30'
-collected_at: '2026-08-05T14:33:40.796690+05:30'
+published_at: '2026-08-05T17:08:46.824543+05:30'
+collected_at: '2026-08-05T17:08:46.824569+05:30'
 tags:
 - agents
 - dataset
 - models
 - openai
-- paper
-- paperswithcode
 - producthunt
-- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:hugging-face-github
-first_seen: '2026-08-05T14:33:40.796690+05:30'
-last_seen: '2026-08-05T14:33:40.796690+05:30'
-last_checked: '2026-08-05T14:33:40.796690+05:30'
+first_seen: '2026-08-05T17:08:46.824569+05:30'
+last_seen: '2026-08-05T17:08:46.824569+05:30'
+last_checked: '2026-08-05T17:08:46.824569+05:30'
 health_score: 100
 ---
 
@@ -29,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: Hugging Face develops foundational AI libraries including `transformers` (SOTA ML models for text/vision/audio/multimodal tasks), `diffusers` (diffusion models for generative AI), `datasets` (largest hub of ready-to-use datasets), and `tokenizers` (high-performance tokenization in Rust).
+- **Hugging Face** is an AI community organization verified via `huggingface.co`, hosting 66.7k+ GitHub followers and operating across NYC and Paris.
 
-- **Optimization & Fine-Tuning**: Provides tools like `accelerate` (PyTorch training/inference acceleration with FSDP/DeepSpeed/fp8), `peft` (parameter-efficient fine-tuning), and `optimum` (hardware-optimized inference/training for Transformers/Diffusers).
+- **Core Libraries**: `transformers` (SOTA ML framework for text/vision/audio/multimodal models), `diffusers` (diffusion models for generative AI), `datasets` (largest hub of ready-to-use AI datasets), `peft` (parameter-efficient fine-tuning), and `accelerate` (PyTorch training/inference acceleration with FSDP/DeepSpeed/fp8 support).
 
-- **Robotics & Agents**: Open-source robotics framework `lerobot` (end-to-end learning for robotics) and `agent-manager` (JavaScript-based agent orchestration) under active development.
+- **Additional Projects**: `tokenizers` (Rust-based high-performance tokenization), `candle` (minimalist Rust ML framework), `lerobot` (end-to-end robotics learning), and `optimum` (hardware-optimized inference/training for Transformers/Diffusers).
 
 ## Why It Matters
 
@@ -43,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-05T14:33:40.796676+05:30
+- Published: 2026-08-05T17:08:46.824543+05:30
 
 ## Related Tags
 
@@ -51,10 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 - dataset
 - models
 - openai
-- paper
-- paperswithcode
 - producthunt
-- reddit
 - web-crawled
 - youtube
 

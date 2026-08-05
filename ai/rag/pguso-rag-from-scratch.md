@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-05T14:27:50.851366+05:30'
-published_at: '2026-08-04T18:46:44Z'
+collected_at: '2026-08-05T17:02:44.529513+05:30'
+published_at: '2026-08-05T09:26:02Z'
 tags:
 - agents
 - github-repo
@@ -13,8 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
-stars: 1488
+stars: 1489
 language: JavaScript
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-05T14:27:50.851366+05:30'
-last_seen: '2026-08-05T14:27:50.851366+05:30'
-last_checked: '2026-08-05T14:27:50.851366+05:30'
+first_seen: '2026-08-05T17:02:44.529513+05:30'
+last_seen: '2026-08-05T17:02:44.529513+05:30'
+last_checked: '2026-08-05T17:02:44.529513+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to avoid black-box dependencies and emphasize real understanding of embeddings, vector search, retrieval, and context-augmented generation.
-
-- **Modular Architecture**: Implements a complete RAG pipeline including document ingestion, embedding generation, vector database storage (likely FAISS or similar), retrieval mechanisms, and prompt augmentation for LLMs, all in a Node.js environment.
-
-- **Agent-Based Workflow**: Integrates AI agents for dynamic interaction with the RAG system, enabling iterative retrieval and generation cycles for enhanced contextual responses.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM inference without external dependencies.
+- **Core Components**: Covers embeddings generation, vector search (likely via cosine similarity), retrieval augmentation, and context-augmented generation with step-by-step breakdown.
+- **Educational Focus**: Targets developers seeking practical understanding of RAG internals, avoiding black-box abstractions while providing a functional chatbot prototype.
 
 ## Why It Matters
 
@@ -45,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1488
+- Stars: 1489
 - Forks: 180
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-08-04T18:46:44Z
+- Last Updated: 2026-08-05T09:26:02Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

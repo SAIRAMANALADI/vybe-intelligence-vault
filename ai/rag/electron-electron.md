@@ -4,23 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/electron
-collected_at: '2026-08-04T22:43:31.778346+05:30'
-published_at: '2026-08-04T14:34:51Z'
+collected_at: '2026-08-05T17:12:56.027250+05:30'
+published_at: '2026-08-05T11:24:48Z'
 tags:
 - c++
 - github-repo
+- hackernews
 - rag
-stars: 122314
+stars: 122338
 language: C++
 status: active
 license: MIT
 archived: false
 created_at: '2013-04-12T01:47:36Z'
-pushed_at: '2026-08-04T17:09:19Z'
+pushed_at: '2026-08-05T07:30:49Z'
 resource_id: github:electron/electron
-first_seen: '2026-08-04T22:43:31.778346+05:30'
-last_seen: '2026-08-04T22:43:31.778346+05:30'
-last_checked: '2026-08-04T22:43:31.778346+05:30'
+first_seen: '2026-08-05T17:12:56.027250+05:30'
+last_seen: '2026-08-05T17:12:56.027250+05:30'
+last_checked: '2026-08-05T17:12:56.027250+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop framework** leveraging Chromium, Node.js, and V8 to build native apps using JavaScript, HTML, and CSS.
-- **Core architecture** integrates a modified Chromium browser engine with Node.js for OS-level APIs, enabling desktop app development.
-- **Performance-critical C++ backend** with bindings to JavaScript/HTML/CSS frontend, optimized via V8 for runtime execution.
+- **Cross-platform desktop framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling desktop app development with HTML/CSS/JS.
+- **Core architecture** combines a modified Chromium browser engine with Node.js bindings, exposing native APIs (e.g., `electron` module) for OS-level functionality.
+- **Technical stack**: Primarily C++ (core), with JavaScript/HTML/CSS for app logic; supports Node.js integration, enabling access to system resources and native modules.
 
 ## Why It Matters
 
@@ -39,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: electron
-- Stars: 122314
+- Stars: 122338
 - Forks: 17380
 - Language: C++
 - Topics: c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces
-- Last Updated: 2026-08-04T14:34:51Z
+- Last Updated: 2026-08-05T11:24:48Z
 - License: MIT
 - Archived: No
 - Created At: 2013-04-12T01:47:36Z
-- Pushed At: 2026-08-04T17:09:19Z
+- Pushed At: 2026-08-05T07:30:49Z
 
 ## Possible Use Cases
 

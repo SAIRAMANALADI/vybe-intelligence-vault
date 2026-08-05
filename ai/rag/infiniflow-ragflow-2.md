@@ -6,24 +6,24 @@ source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 -----dba899ae0355---------------------------------------
-collected_at: '2026-08-05T14:31:56.105870+05:30'
-published_at: '2026-08-05T08:57:05Z'
+collected_at: '2026-08-05T17:06:49.773535+05:30'
+published_at: '2026-08-05T11:35:13Z'
 tags:
 - agents
 - github-repo
 - go
 - rag
-stars: 86876
+stars: 86887
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-08-05T08:55:59Z'
+pushed_at: '2026-08-05T11:32:45Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-08-05T14:31:56.105870+05:30'
-last_seen: '2026-08-05T14:31:56.105870+05:30'
-last_checked: '2026-08-05T14:31:56.105870+05:30'
+first_seen: '2026-08-05T17:06:49.773535+05:30'
+last_seen: '2026-08-05T17:06:49.773535+05:30'
+last_checked: '2026-08-05T17:06:49.773535+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Open-source Retrieval-Augmented Generation (RAG) engine integrating advanced agentic capabilities for LLMs.
-*   Engineered to construct an optimized context layer, enhancing LLM performance through superior context management.
-*   Implements agentic retrieval, context engineering, and knowledge compilation, developed primarily in Go.
+- **Hybrid RAG-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities, enabling dynamic context engineering for LLMs by combining retrieval-based augmentation with agent-driven reasoning and task execution.
+
+- **Multi-Modal Context Engine**: Supports structured/unstructured data processing (e.g., PDFs, tables, images) with a context management system that optimizes prompt construction for LLMs, improving relevance and reducing hallucinations in generated outputs.
+
+- **Scalable, Production-Grade Infrastructure**: Built in Go, RAGFlow offers high-performance retrieval pipelines, modular agent frameworks, and distributed deployment options, targeting enterprise-grade AI applications requiring low-latency, high-accuracy contextual augmentation.
 
 ## Why It Matters
 
@@ -42,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 86876
-- Forks: 10195
+- Stars: 86887
+- Forks: 10198
 - Language: Go
 - Topics: agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-08-05T08:57:05Z
+- Last Updated: 2026-08-05T11:35:13Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-08-05T08:55:59Z
+- Pushed At: 2026-08-05T11:32:45Z
 
 ## Possible Use Cases
 

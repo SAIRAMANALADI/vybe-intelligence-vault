@@ -11,16 +11,17 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - USEFUL Tier)
 - [Scite - YouTube](https://www.youtube.com/channel/UCso9-KdHZ6vfbYgM59zp9EA) (tutorial - USEFUL Tier)
 - [register](https://clients.iban.com/register) (tutorial - USEFUL Tier)
 - [- YouTube](https://www.youtube.com/watch?v=Yy3JH6dDugc) (framework - USEFUL Tier)
 - [Marquez Project | Marquez Project](https://marquezproject.github.io/marquez) (dataset - USEFUL Tier)
-- [Docker - YouTube](http://www.youtube.com/user/dockerrun) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 
 ## Best Learning Resources
 
@@ -38,4 +39,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-08-05 14:45 IST*
+*Last updated: 2026-08-05 17:20 IST*

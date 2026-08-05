@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform compilation**: Flutter compiles to native ARM/Intel machine code and JavaScript, enabling high-performance execution across mobile, web, desktop, and embedded platforms from a single codebase.
+- **Cross-platform compilation**: Flutter compiles to ARM/Intel machine code and JavaScript, enabling native performance across mobile, web, desktop, and embedded platforms from a single codebase.
 
-- **Hot Reload & pixel-level control**: Supports real-time code iteration with state preservation (Hot Reload) and granular UI customization via direct pixel manipulation for adaptive designs.
+- **Hot Reload & stateful updates**: Enables near-instantaneous code iteration with state preservation, significantly boosting developer productivity during UI/UX refinement.
 
-- **Dart-powered ecosystem**: Leverages Dart (a language optimized for multi-platform apps) w
+- **Pixel-perfect rendering & ecosystem**: Provides granular control over UI rendering for adaptive designs while leveraging D
 
 ## Use Cases
 

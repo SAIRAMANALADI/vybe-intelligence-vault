@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via structured queries; supported languages/frameworks, CWEs, and system requirements are documented in the latest release resources.
-
-- **Query Development & Execution**: Learn QL via interactive puzzles, language-specific guides, and CLI/IDE tools; queries can be run on single/multiple codebases with documented options.
-
-- **Resources & References**: Access QL language specs, standard libraries, query help, and
+- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via custom queries; supported languages/frameworks, CWEs, and system requirements are documented for the latest release.
+- **Learning Resources**: Includes guides on writing queries, language-specific syntax, and execution methods, alongside interactive puzzles for skill development.
+- **Tools & References**: Provides CLI releases, VS Code extension, and repositories; detailed QL language specs, standard librarie
 
 ## Use Cases
 

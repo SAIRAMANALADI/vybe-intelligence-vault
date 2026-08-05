@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Smartphone Architecture**: Modern phones integrate a System on Chip (SoC) combining CPU, GPU, modem, and DSP, with LPDDR5X RAM and UFS 4.0 storage for high-speed data processing and storage.
-
-- **Display Technology**: Latest models use LTPO OLED panels with adaptive refresh rates (1Hz–120Hz), HDR10+ support, and under-display ultrasonic fingerprint sensors for seamless biometric authentication.
-
-- **Connectivity Standards**: Support for 5G mmWave/sub-6GHz, Wi-Fi 7 (802.11be), Bluetooth 5.3 L
+- **Image Reference**: The provided markdown link points to a Google Drive-hosted image of a phone, specifically a Google Pixel device, identifiable by its design and branding.
+- **Technical Specifications (Inferred)**: While the image itself does not provide specs, Google Pixel phones typically feature Qualcomm Snapdragon processors, Google Tensor chips (in newer models), high-resolution OLED displays, and advanced camera systems with computational photography.
+- **Contextual Note**: The image
 
 ## Use Cases
 

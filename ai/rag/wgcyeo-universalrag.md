@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-05T14:29:20.913935+05:30'
+collected_at: '2026-08-05T17:04:14.579426+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-05T14:29:20.913935+05:30'
-last_seen: '2026-08-05T14:29:20.913935+05:30'
-last_checked: '2026-08-05T14:29:20.913935+05:30'
+first_seen: '2026-08-05T17:04:14.579426+05:30'
+last_seen: '2026-08-05T17:04:14.579426+05:30'
+last_checked: '2026-08-05T17:04:14.579426+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval-Augmented Generation (RAG) framework designed for heterogeneous data sources.
-*   Supports retrieval over corpora comprising diverse modalities (e.g., text, image, audio) for augmented generation.
-*   Handles varying data granularities within corpora, enabling fine-grained to coarse-grained information retrieval.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by integrating diverse data modalities (text, images, tables, etc.) and varying granularities (documents, paragraphs, entities) into a unified retrieval-augmented generation pipeline.
+
+- **Modular Architecture with Unified Indexing**: Implements a flexible, modular system where corpora are preprocessed into modality-specific embeddings, stored in a unified vector database, and dynamically retrieved based on query context.
+
+- **ACL 2026 Oral Contribution**: Proposes novel cross-modal retrieval strategies and granularity-aware fusion mechanisms to optimize generation quality across heterogeneous data sources.
 
 ## Why It Matters
 

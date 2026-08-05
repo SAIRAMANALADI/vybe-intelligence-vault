@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-96%2C965-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-163%2C158-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--05-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **96,965 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **163,158 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,998</p>
-        <p><b>Active:</b> 16,514 | <b>Inactive:</b> 484</p>
+        <p><b>Resources tracked:</b> 18,006</p>
+        <p><b>Active:</b> 17,520 | <b>Inactive:</b> 486</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,179</p>
+        <p><b>Archive Files:</b> 67,387</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 96,965 files</p>
-        <p><b>Last Update:</b> 2026-08-05 16:54 IST</p>
+        <p><b>Total Vault Size:</b> 163,158 files</p>
+        <p><b>Last Update:</b> 2026-08-05 17:21 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[npm/documentation](ai/resources/npm-documentation.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[npm Status](ai/rag/npm-status.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[youtube/api-samples](ai/resources/youtube-api-samples.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[yl4579/StyleTTS2](ai/rag/yl4579-styletts2.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[coqui/XTTS-v2 · Hugging Face](ai/resources/huggingface-coqui-xtts-v2.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[AI fuels more than half of cybercrime in Africa as scams surge – Interpol](ai/community/ai-fuels-more-than-half-of-cybercrime-in-africa-as.md)** • <kbd>+32 pts</kbd>
+- 🔼 **[Eight Myths on Software Engineering and GenAI](ai/community/eight-myths-on-software-engineering-and-genai.md)** • <kbd>+27 pts</kbd>
+- 🔼 **[Zero-Mem: Zero-Token Memory Operations for LLM Agents](ai/community/arxiv-2607-29377.md)** • <kbd>+25 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[An SLM trained on $8 ESP32-S3](ai/community/carloscodix-qapla.md)** • <kbd>+14 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[There Will Come Soft Rains (1950) [pdf]](ai/community/there-will-come-soft-rains-1950-pdf.md)** • <kbd>+13 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Exclusive Networks | Global IT Cybersecurity Solutions provider](ai/resources/exclusive-networks-global-it-cybersecurity-solutio.md)** • Score: `0`
+- 🆕 **[Forefront](ai/resources/forefront.md)** • Score: `0`
+- 🆕 **[Intelligent network operations – BlueCat Networks](ai/rag/intelligent-network-operations-bluecat-networks.md)** • Score: `0`
+- 🆕 **[Products | Cloudflare](ai/rag/products-cloudflare.md)** • Score: `0`
+- 🆕 **[plk/biblatex](ai/resources/plk-biblatex.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](ai/community/arxiv-2602-16763.md)**
+- 💤 **[Rust-lang/rust is adopting an LLM policy](ai/community/rust-lang-rust-is-adopting-an-llm-policy.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

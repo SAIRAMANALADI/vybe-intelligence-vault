@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-05T14:28:30.857324+05:30'
+collected_at: '2026-08-05T17:03:24.565783+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- models
+- hackernews
 - python
 - rag
 stars: 95
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-05T14:28:30.857324+05:30'
-last_seen: '2026-08-05T14:28:30.857324+05:30'
-last_checked: '2026-08-05T14:28:30.857324+05:30'
+first_seen: '2026-08-05T17:03:24.565783+05:30'
+last_seen: '2026-08-05T17:03:24.565783+05:30'
+last_checked: '2026-08-05T17:03:24.565783+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and LLMs (e.g., Llama, Qwen).
-- **Evaluation Metrics**: Includes automated evaluation pipelines for assessing retrieval quality (e.g., MRR, Recall@K) and generation performance (e.g., ROUGE, BLEU) with configurable benchmarks.
-- **Deployment Tools**: Provides Dockerized setups and CI/CD templates for scalable RAG deployment, supporting hybrid search (dense + sparse retrieval) and dynamic prompt engineering.
+- **RAG Pipeline Optimization**: Implements advanced retrieval-augmented generation (RAG) techniques with Python, focusing on retrieval efficiency and generation quality for large language models (LLMs).
+- **Modular Architecture**: Repository structured for extensibility, supporting custom retrievers, embeddings, and prompt engineering for domain-specific adaptation.
+- **Benchmarking & Best Practices**: Provides curated best practices for indexing, chunking strategies, and evaluation metrics to optimize RAG performance in production environments.
 
 ## Why It Matters
 

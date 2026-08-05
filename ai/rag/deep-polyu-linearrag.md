@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-05T14:29:15.958237+05:30'
+collected_at: '2026-08-05T17:04:09.655000+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 530
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-05T14:29:15.958237+05:30'
-last_seen: '2026-08-05T14:29:15.958237+05:30'
-last_checked: '2026-08-05T14:29:15.958237+05:30'
+first_seen: '2026-08-05T17:04:09.655000+05:30'
+last_seen: '2026-08-05T17:04:09.655000+05:30'
+last_checked: '2026-08-05T17:04:09.655000+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel **graph-based Retrieval-Augmented Generation (RAG)** framework optimized for large-scale corpora, leveraging linear graph structures for efficient retrieval.
-- Proposes a **linear-time graph traversal algorithm** to dynamically construct retrieval paths, reducing computational overhead compared to traditional graph-based RAG methods.
-- Achieves **state-of-the-art performance** in downstream tasks (e.g., QA, summarization) while maintaining scalability for corpora with millions of documents.
+- **Linear Graph RAG Framework**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus processing by structuring data as a linear graph for efficient traversal and retrieval.
+
+- **ICLR 2026 Contribution**: Proposes a novel approach to augment LLM generation with graph-based retrieval, enhancing contextual relevance and scalability for large corpora.
+
+- **Python Implementation**: Provides an open-source Python implementation with 530+ stars, supporting graph-based RAG workflows for LLMs.
 
 ## Why It Matters
 

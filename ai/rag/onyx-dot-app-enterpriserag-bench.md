@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-05T14:28:50.909405+05:30'
+collected_at: '2026-08-05T17:03:44.611756+05:30'
 published_at: '2026-08-03T02:27:54Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 495
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-05T14:28:50.909405+05:30'
-last_seen: '2026-08-05T14:28:50.909405+05:30'
-last_checked: '2026-08-05T14:28:50.909405+05:30'
+first_seen: '2026-08-05T17:03:44.611756+05:30'
+last_seen: '2026-08-05T17:03:44.611756+05:30'
+last_checked: '2026-08-05T17:03:44.611756+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a dataset and benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA metrics tailored for internal knowledge bases and enterprise search applications.
-- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering retrieval quality, generative AI accuracy, and end-to-end performance on enterprise-specific documents.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in enterprise contexts.
+
+- **Dataset Composition**: Includes synthetically generated question-answer pairs and retrieval tasks derived from internal company documents, designed to simulate real-world enterprise knowledge base queries and document retrieval challenges.
+
+- **Evaluation Metrics**: Supports metrics for semantic search, information retrieval, and LLM response accuracy, facilitating comparative analysis of RAG pipelines across enterprise-specific use cases.
 
 ## Why It Matters
 

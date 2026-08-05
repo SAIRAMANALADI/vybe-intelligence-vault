@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-05T14:30:05.978508+05:30'
+collected_at: '2026-08-05T17:04:59.651918+05:30'
 published_at: '2026-08-04T12:21:57Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
 - workflows
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-05T14:30:05.978508+05:30'
-last_seen: '2026-08-05T14:30:05.978508+05:30'
-last_checked: '2026-08-05T14:30:05.978508+05:30'
+first_seen: '2026-08-05T17:04:59.651918+05:30'
+last_seen: '2026-08-05T17:04:59.651918+05:30'
+last_checked: '2026-08-05T17:04:59.651918+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Focus**: Provides structured best practices for transitioning from ad-hoc "vibe coding" to disciplined agentic engineering workflows using OpenAI Codex CLI, emphasizing context engineering and CLI command optimization.
+- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular agent-based workflows, hooks, and context engineering for scalable AI-driven development.
 
-- **Key Components**: Includes `codex-cli-agents`, `codex-hooks`, and `context-engineering` modules to enable modular, reusable AI-driven coding workflows with standardized hooks and skill definitions.
+- **Codex CLI Best Practices**: Documents optimized commands, skills, and CLI configurations for OpenAI Codex, including agentic tooling, skill chaining, and context management to enhance AI agent autonomy and task execution efficiency.
 
-- **Technical Scope**: Python-based repository covering agentic AI workflows, CLI command patterns, and skills for OpenAI Codex, with Pakistan-centric developer contributions and last updated in 2026.
+- **Open-Source Pakistani Developer Contributions**: Curated by a Pakistani developer, the repo aggregates community-driven best practices, hooks, and CLI extensions for Codex, fostering collaborative improvements in agentic AI workflows.
 
 ## Why It Matters
 

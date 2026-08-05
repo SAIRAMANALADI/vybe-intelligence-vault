@@ -5,16 +5,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/android/images/
-published_at: '2026-08-04T20:21:55.079542+05:30'
-collected_at: '2026-08-04T20:21:55.079556+05:30'
+published_at: '2026-08-05T17:12:10.547753+05:30'
+collected_at: '2026-08-05T17:12:10.547767+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:factory-images-for-nexus-and-pixel-devices-google
-first_seen: '2026-08-04T20:21:55.079556+05:30'
-last_seen: '2026-08-04T20:21:55.079556+05:30'
-last_checked: '2026-08-04T20:21:55.079556+05:30'
+first_seen: '2026-08-05T17:12:10.547767+05:30'
+last_seen: '2026-08-05T17:12:10.547767+05:30'
+last_checked: '2026-08-05T17:12:10.547767+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- Factory images restore Nexus/Pixel devices to original firmware but erase all data and require bootloader unlocking, which reduces security.
-- Sideloading full OTA images is safer and avoids data loss compared to factory image flashing.
-- May 2025/2026 Pixel updates (e.g., Pixel 6/8 series) include bootloader anti-rollback increments, requiring post-update bootloader flashing to inactive slots to prevent unbootable states.
+- Factory images for Nexus/Pixel devices restore original firmware but **erase all data** and require **bootloader unlocking**, increasing security risks.
+- **OTA images are safer** than factory images for updates, avoiding data loss and bootloader unlocking.
+- **May 2025/2026 Pixel updates** increment bootloader anti-rollback versions; after flashing, users must **update both slots** to prevent unbootable states.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T20:21:55.079542+05:30
+- Published: 2026-08-05T17:12:10.547753+05:30
 
 ## Related Tags
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-05T14:28:10.906196+05:30'
+collected_at: '2026-08-05T17:03:04.557379+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
-- dataset
 - github-repo
 - jupyter notebook
-- models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-05T14:28:10.906196+05:30'
-last_seen: '2026-08-05T14:28:10.906196+05:30'
-last_checked: '2026-08-05T14:28:10.906196+05:30'
+first_seen: '2026-08-05T17:03:04.557379+05:30'
+last_seen: '2026-08-05T17:03:04.557379+05:30'
+last_checked: '2026-08-05T17:03:04.557379+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of retrieval and generation processes.
-
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, facilitating real-time analysis of RAG components (e.g., retrieval quality, LLM responses) with minimal setup overhead.
-
-- **Python-Based & Modular**: Built in Python with modular design, supporting customization for different RAG frameworks and datasets; last updated August 2026 with active community contributions (1.2k+ stars, 113 forks).
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and analysis of LLM interactions.
+- **Streamlit-Powered UI**: Leverages Streamlit for an interactive web interface, allowing users to dynamically explore RAG components (e.g., retrieval, generation) with Python-based visualizations.
+- **Modular Python Framework**: Designed for extensibility, supporting custom RAG workflows, with dependencies on libraries like `langchain` or `transformers` for LLM integration and visualization libraries (e.g., `matplotlib`, `plotly`).
 
 ## Why It Matters
 

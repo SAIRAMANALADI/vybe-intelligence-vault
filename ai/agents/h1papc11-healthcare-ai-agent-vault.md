@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/h1papc11/healthcare-ai-agent-vault
-collected_at: '2026-08-05T09:07:38.477495+05:30'
+collected_at: '2026-08-05T17:05:39.677146+05:30'
 published_at: '2026-08-03T08:19:10Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - unknown
 - workflows
 stars: 135
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-06-25T17:08:15Z'
 pushed_at: '2026-07-06T09:39:26Z'
 resource_id: github:h1papc11/healthcare-ai-agent-vault
-first_seen: '2026-08-05T09:07:38.477495+05:30'
-last_seen: '2026-08-05T09:07:38.477495+05:30'
-last_checked: '2026-08-05T09:07:38.477495+05:30'
+first_seen: '2026-08-05T17:05:39.677146+05:30'
+last_seen: '2026-08-05T17:05:39.677146+05:30'
+last_checked: '2026-08-05T17:05:39.677146+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Integration Framework**: Combines Obsidian templates, AI prompt workflows, and TypeScript preprocessing for Apple Health export data to create a healthcare AI agent vault.
-- **Technical Stack**: Utilizes TypeScript for preprocessing Apple Health exports and integrates with AI-driven prompt workflows for structured healthcare data management.
-- **Repository Metrics**: 135 stars, 1,112 forks, last updated August 3, 2026, with focus on healthcare AI agents and vault systems.
+- **Obsidian Integration**: Provides structured healthcare data templates in Obsidian for managing family health records.
+- **AI Prompt Workflows**: Implements AI-driven prompt chains for analyzing Apple Health export data via TypeScript preprocessing.
+- **TypeScript Pipeline**: Processes Apple Health exports into structured formats for AI agent consumption.
 
 ## Why It Matters
 

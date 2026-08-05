@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-05T14:30:35.989466+05:30'
+collected_at: '2026-08-05T17:05:29.685686+05:30'
 published_at: '2026-08-04T07:52:02Z'
 tags:
 - agents
 - anthropic
+- benchmark
 - github-repo
 - unknown
-- workflows
 stars: 2499
 language: Unknown
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-05T14:30:35.989466+05:30'
-last_seen: '2026-08-05T14:30:35.989466+05:30'
-last_checked: '2026-08-05T14:30:35.989466+05:30'
+first_seen: '2026-08-05T17:05:29.685686+05:30'
+last_seen: '2026-08-05T17:05:29.685686+05:30'
+last_checked: '2026-08-05T17:05:29.685686+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Investigates prompt patterns, coordination mechanisms, and security classifications in agentic AI systems for coding tasks.
-
-- **Prompt Engineering & System Prompts**: Focuses on reconstructing effective prompt patterns and system-level instructions for AI agents in software development workflows.
-
-- **Research & Implementation**: Provides empirical analysis and open-source resources (2499 stars, 1068 forks) for studying AI-driven coding assistants, including tools like Claude.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding agents, emphasizing multi-agent collaboration and task decomposition.
+- **Security Classification**: Investigates security risks and mitigation strategies in agentic AI systems, including prompt injection, data leakage, and adversarial attacks.
+- **System Prompts & Tools**: Analyzes the role of structured system prompts (e.g., for Claude) in guiding agent behavior, alongside evaluation frameworks for agentic AI performance.
 
 ## Why It Matters
 

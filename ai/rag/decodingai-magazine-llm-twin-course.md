@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-05T14:28:30.961234+05:30'
+collected_at: '2026-08-05T17:03:24.585602+05:30'
 published_at: '2026-08-02T02:34:01Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- scripts
 stars: 4380
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-05T14:28:30.961234+05:30'
-last_seen: '2026-08-05T14:28:30.961234+05:30'
-last_checked: '2026-08-05T14:28:30.961234+05:30'
+first_seen: '2026-08-05T17:03:24.585602+05:30'
+last_seen: '2026-08-05T17:03:24.585602+05:30'
+last_checked: '2026-08-05T17:03:24.585602+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
-- **Technical Stack**: Integrates AWS, Pulumi (IaC), Bytewax, Qdrant, Comet-ML, and Qwak for scalable ML pipelines, with Docker for containerization.
-- **Focus Areas**: Covers ML system design, MLOps, generative AI, and infrastructure automation for deploying LLMs and RAG systems.
+- **Course Structure**: Provides a hands-on, 12-lesson curriculum with source code and Docker-based infrastructure for building production-ready LLM and RAG systems using LLMOps best practices.
+- **Tech Stack**: Integrates AWS, Bytewax, Comet-ML, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps), and Superlinked for scalable, end-to-end generative AI pipelines.
+- **Key Focus**: Covers ML system design, MLOps, and infrastructure-as-code (IaC) for deploying LLMs and RAG systems in cloud environments.
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: decodingai-magazine
 - Stars: 4380
-- Forks: 732
+- Forks: 733
 - Language: Python
 - Topics: aws, bytewax, comet-ml, course, docker, generative-ai, infrastructure-as-code, large-language-models, llmops, machine-learning-engineering, ml-system-design, mlops, pulumi, qdrant, qwak, rag, superlinked
 - Last Updated: 2026-08-02T02:34:01Z

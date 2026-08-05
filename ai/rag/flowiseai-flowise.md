@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FlowiseAI/Flowise
-collected_at: '2026-08-05T14:30:46.093370+05:30'
-published_at: '2026-08-05T08:58:03Z'
+collected_at: '2026-08-05T17:05:39.751959+05:30'
+published_at: '2026-08-05T11:28:03Z'
 tags:
 - agents
 - frontend_ui
@@ -15,7 +15,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 55172
+stars: 55185
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-03-31T12:23:09Z'
 pushed_at: '2026-08-05T08:53:37Z'
 resource_id: github:flowiseai/flowise
-first_seen: '2026-08-05T14:30:46.093370+05:30'
-last_seen: '2026-08-05T14:30:46.093370+05:30'
-last_checked: '2026-08-05T14:30:46.093370+05:30'
+first_seen: '2026-08-05T17:05:39.751959+05:30'
+last_seen: '2026-08-05T17:05:39.751959+05:30'
+last_checked: '2026-08-05T17:05:39.751959+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and LLMs (e.g., OpenAI) for agentic AI and multi-agent systems.
+- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript for constructing AI agents and workflows with drag-and-drop interfaces, leveraging React for UI and LangChain for agentic logic.
 
-- **Multi-Model & RAG Integration**: Supports retrieval-augmented generation (RAG), multi-modal inputs, and seamless integration with various LLMs, APIs, and databases for dynamic workflow automation.
+- **Multi-Model & Tool Integration**: Supports OpenAI, RAG, and multi-agent systems with seamless integration of LLMs, APIs, and external tools for dynamic workflow automation.
 
-- **Extensible Architecture**: Modular design with customizable nodes, plugins, and templates, enabling rapid deployment of chatbots, AI agents, and automated workflows in production environments.
+- **Extensible & Self-Hosted**: Modular architecture enables custom node development; deployable via Docker, Kubernetes, or npm, with real-time updates and GitHub sync capabilities.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: FlowiseAI
-- Stars: 55172
-- Forks: 24840
+- Stars: 55185
+- Forks: 24849
 - Language: TypeScript
 - Topics: agentic-ai, agentic-workflow, agents, artificial-intelligence, chatbot, chatgpt, javascript, langchain, large-language-models, low-code, multiagent-systems, no-code, openai, rag, react, typescript, workflow-automation
-- Last Updated: 2026-08-05T08:58:03Z
+- Last Updated: 2026-08-05T11:28:03Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-03-31T12:23:09Z

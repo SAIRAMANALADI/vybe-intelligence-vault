@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-08-05T01:30:59.004269+05:30'
+collected_at: '2026-08-05T17:04:19.669038+05:30'
 published_at: '2026-07-26T18:35:47Z'
 tags:
 - agents
 - github-repo
 - leaderboard
 - unknown
-- workflows
 stars: 284
 language: Unknown
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-08-05T01:30:59.004269+05:30'
-last_seen: '2026-08-05T01:30:59.004269+05:30'
-last_checked: '2026-08-05T01:30:59.004269+05:30'
+first_seen: '2026-08-05T17:04:19.669038+05:30'
+last_seen: '2026-08-05T17:04:19.669038+05:30'
+last_checked: '2026-08-05T17:04:19.669038+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Gamified AI Development Platform**: Hosts live AI Battles and asynchronous community challenges, transforming agentic AI development into a competitive e-sports experience with GitHub-based submissions.
-- **GitHub-Integrated Workflow**: Enables version-controlled agent submissions, fostering collaborative and competitive development through pull requests and repository forks.
-- **Dynamic Leaderboard System**: Tracks performance metrics in real-time, ranking AI agents based on battle outcomes and challenge completions to drive competitive innovation.
+- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive, asynchronous community challenges, modeled after esports tournaments.
+- **GitHub-based submission system**: Participants submit AI agents via GitHub, enabling version control and collaborative development.
+- **Dynamic leaderboard & real-time updates**: Tracks performance metrics and updates rankings in real-time based on agent interactions and outcomes.
 
 ## Why It Matters
 

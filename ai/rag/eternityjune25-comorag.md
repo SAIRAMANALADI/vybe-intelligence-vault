@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-05T14:29:15.959899+05:30'
+collected_at: '2026-08-05T17:04:09.612362+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-05T14:29:15.959899+05:30'
-last_seen: '2026-08-05T14:29:15.959899+05:30'
-last_checked: '2026-08-05T14:29:15.959899+05:30'
+first_seen: '2026-08-05T17:04:09.612362+05:30'
+last_seen: '2026-08-05T17:04:09.612362+05:30'
+last_checked: '2026-08-05T17:04:09.612362+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long-form narrative reasoning with structured memory retrieval.
-
-- **Memory Organization**: Implements hierarchical memory modules (episodic, semantic, procedural) to dynamically store, update, and retrieve contextually relevant information for sustained reasoning over extended narratives.
-
-- **AAAI 2026 Contribution**: Proposes novel memory retrieval mechanisms and evaluation benchmarks for stateful reasoning, demonstrating superior performance in long-context tasks compared to traditional RAG baselines.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval.
+- **Stateful Reasoning**: Implements dynamic memory updates and hierarchical retrieval to maintain context coherence across extended interactions, enhancing multi-turn reasoning.
+- **AAAI 2026 Poster**: Presented as a novel approach for long-form narrative comprehension, leveraging Python-based implementation for scalable and efficient memory management.
 
 ## Why It Matters
 

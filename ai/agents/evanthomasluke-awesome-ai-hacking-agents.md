@@ -4,22 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
-collected_at: '2026-08-05T03:58:14.384829+05:30'
-published_at: '2026-08-03T06:09:03Z'
+collected_at: '2026-08-05T17:05:14.682966+05:30'
+published_at: '2026-08-05T05:36:17Z'
 tags:
 - agents
 - github-repo
+- scripts
 - unknown
-stars: 624
+stars: 627
 language: Unknown
 status: active
 archived: false
 created_at: '2026-02-06T02:08:01Z'
 pushed_at: '2026-08-02T01:39:42Z'
 resource_id: github:evanthomasluke/awesome-ai-hacking-agents
-first_seen: '2026-08-05T03:58:14.384829+05:30'
-last_seen: '2026-08-05T03:58:14.384829+05:30'
-last_checked: '2026-08-05T03:58:14.384829+05:30'
+first_seen: '2026-08-05T17:05:14.682966+05:30'
+last_seen: '2026-08-05T17:05:14.682966+05:30'
+last_checked: '2026-08-05T17:05:14.682966+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`EvanThomasLuke/Awesome-AI-Hacking-Agents`) cataloging AI-driven autonomous hacking agents, tools, and frameworks.
-- **Metadata**: 624 stars, 97 forks, last updated August 3, 2026; language unspecified, no topics tagged.
-- **Purpose**: Curated resource for offensive security research, focusing on AI-powered penetration testing and vulnerability exploitation agents.
+- **Repository Overview**: GitHub repository `Awesome-AI-Hacking-Agents` curated by `EvanThomasLuke`, last updated on **2026-08-05**, containing a collection of AI-driven tools and agents for cybersecurity research and penetration testing.
+
+- **Metadata**: 627 stars, 98 forks, language unspecified, and no listed topics as of the last update.
+
+- **Purpose**: Focuses on aggregating and providing resources for AI-based hacking agents, likely for offensive security research, automation, and vulnerability assessment.
 
 ## Why It Matters
 
@@ -38,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: EvanThomasLuke
-- Stars: 624
-- Forks: 97
+- Stars: 627
+- Forks: 98
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-03T06:09:03Z
+- Last Updated: 2026-08-05T05:36:17Z
 - Archived: No
 - Created At: 2026-02-06T02:08:01Z
 - Pushed At: 2026-08-02T01:39:42Z

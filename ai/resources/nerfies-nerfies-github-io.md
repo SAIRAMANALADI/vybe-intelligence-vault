@@ -4,11 +4,10 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nerfies/nerfies.github.io
-collected_at: '2026-08-05T14:32:06.085521+05:30'
+collected_at: '2026-08-05T17:06:59.777065+05:30'
 published_at: '2026-08-05T08:33:34Z'
 tags:
 - github-repo
-- hackernews
 - javascript
 stars: 4316
 language: JavaScript
@@ -17,9 +16,9 @@ archived: false
 created_at: '2020-11-24T09:35:45Z'
 pushed_at: '2024-06-21T11:47:54Z'
 resource_id: github:nerfies/nerfies.github.io
-first_seen: '2026-08-05T14:32:06.085521+05:30'
-last_seen: '2026-08-05T14:32:06.085521+05:30'
-last_checked: '2026-08-05T14:32:06.085521+05:30'
+first_seen: '2026-08-05T17:06:59.777065+05:30'
+last_seen: '2026-08-05T17:06:59.777065+05:30'
+last_checked: '2026-08-05T17:06:59.777065+05:30'
 health_score: 100
 ---
 
@@ -27,9 +26,7 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository for Nerfies, a JavaScript-based project with 4,316 stars and 1,938 forks.
-- **Technical Stack**: Primarily developed in JavaScript, with no additional topics or frameworks specified.
-- **Update Status**: Last updated on August 5, 2026, at 08:33:34 UTC.
+*   Implements a web-based demonstration or visualization platform, indicated by the `.github.io
 
 ## Why It Matters
 

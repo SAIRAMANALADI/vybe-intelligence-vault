@@ -8,7 +8,7 @@ local_vault_path: ai/rag/infiniflow-ragflow-2.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # infiniflow/ragflow
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Open-source Retrieval-Augmented Generation (RAG) engine integrating advanced agentic capabilities for LLMs.
-*   Engineered to construct an optimized context layer, enhancing LLM performance through superior context management.
-*   Implements agentic retrieval, context engineering, and knowledge compilation, developed primarily in Go.
+- **Hybrid RAG-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities, enabling dynamic context engineering for LLMs by combining retrieval-based augmentation with agent-driven reasoning and task execution.
+
+- **Multi-Modal Context Engine**: Supports structured/unstructured data processing (e.g., PDFs, tables, images) with a context management system that optimizes prompt construction for LLMs, improving relevance and reducing ha
 
 ## Use Cases
 

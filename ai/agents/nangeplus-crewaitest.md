@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-05T14:31:51.099536+05:30'
-published_at: '2026-08-04T13:40:16Z'
+collected_at: '2026-08-05T17:06:44.731180+05:30'
+published_at: '2026-08-05T10:11:09Z'
 tags:
 - agents
 - github-repo
 - meta-ai
 - models
 - python
-- workflows
-stars: 352
+stars: 353
 language: Python
 status: active
 archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-05T14:31:51.099536+05:30'
-last_seen: '2026-08-05T14:31:51.099536+05:30'
-last_checked: '2026-08-05T14:31:51.099536+05:30'
+first_seen: '2026-08-05T17:06:44.731180+05:30'
+last_seen: '2026-08-05T17:06:44.731180+05:30'
+last_checked: '2026-08-05T17:06:44.731180+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements a collaborative multi-agent framework using **CrewAI** for task orchestration and **FastAPI** for API service provision.
-- **Model Agnostic**: Supports **GPT models**, **domestic large models**, and **Ollama local models** for flexible LLM integration.
-- **Deployment**: Enables **API-based access** to multi-agent workflows with Python-based implementation.
+- **Multi-Agent System**: Implements a collaborative multi-agent framework using CrewAI, enabling task delegation and parallel processing.
+- **API Integration**: Exposes a FastAPI-based RESTful interface for external interactions, supporting both cloud-based (GPT) and local (Ollama) LLM integrations.
+- **Model Agnostic**: Supports heterogeneous LLM backends, including proprietary models (e.g., GPT) and open-source alternatives (e.g., Ollama), with configurable model endpoints.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NanGePlus
-- Stars: 352
-- Forks: 80
+- Stars: 353
+- Forks: 81
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-04T13:40:16Z
+- Last Updated: 2026-08-05T10:11:09Z
 - Archived: No
 - Created At: 2024-09-11T02:58:44Z
 - Pushed At: 2024-10-20T14:37:28Z

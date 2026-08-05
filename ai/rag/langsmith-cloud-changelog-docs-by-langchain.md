@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-05T04:03:25.865949+05:30'
-collected_at: '2026-08-05T04:03:25.865961+05:30'
+published_at: '2026-08-05T17:07:36.960319+05:30'
+collected_at: '2026-08-05T17:07:36.960330+05:30'
 tags:
 - agents
 - anthropic
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-05T04:03:25.865961+05:30'
-last_seen: '2026-08-05T04:03:25.865961+05:30'
-last_checked: '2026-08-05T04:03:25.865961+05:30'
+first_seen: '2026-08-05T17:07:36.960330+05:30'
+last_seen: '2026-08-05T17:07:36.960330+05:30'
+last_checked: '2026-08-05T17:07:36.960330+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Annotation & Dataset APIs**: Public API now supports full CRUD operations for annotation queue items (runs/threads), with CSV/JSONL uploads accepting all Content-Type headers (including Windows Excel types) and legacy endpoints marked deprecated (Sunset: Jan 31, 2027).
+- **Annotation Queue & Dataset APIs**: Public API now supports full CRUD operations for annotation queue items (runs/threads) via `/api/v1/platform`, with fixes for Windows CSV uploads (Content-Type normalization) and legacy endpoint deprecation (Sunset: Jan 31, 2027).
 
-- **Tracing & Engine Improvements**: Trace deletion, negative feedback-key filters, and token/cost filter defaults (total tokens/cost) now work consistently. Engine issues reopen automatically when new matching traces are linked, and run webhooks resolve via `LANGSMITH_PUBLIC_API_ENDPOINT`.
+- **Tracing & Feedback Enhancements**: Trace exports now include optional `feedbacks` column (JSON array), negative feedback-key filters work with optimized ClickHouse runs tables, and PDF/document previews render in full-width frames with improved UI spacing.
 
-- **LLM Gateway & Sandbox Updates**: Gateway policies enforce non-blank names, usage charts show top 12 spenders, and sandbox streaming executes via Server-Sent Events. Self-hosted deployments authenticate sandbox commands via WebSocket with deployment service keys.
+- **LLM Gateway & Sandbox Updates**: Gateway policies enforce non-blank names, usage charts show top 12 spenders, sandboxes include `langsmith` CLI v0.2.44 with `/api` path resolution, and Engine sandbox auth uses deployment service keys to prevent 401 errors.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T04:03:25.865949+05:30
+- Published: 2026-08-05T17:07:36.960319+05:30
 
 ## Related Tags
 

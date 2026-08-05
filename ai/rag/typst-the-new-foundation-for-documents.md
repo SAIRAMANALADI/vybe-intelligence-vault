@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://typst.app
-published_at: '2026-07-08T09:30:36.062589+05:30'
-collected_at: '2026-07-08T09:30:36.062603+05:30'
+published_at: '2026-08-05T17:12:46.928405+05:30'
+collected_at: '2026-08-05T17:12:46.928417+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:typst-the-new-foundation-for-documents
-first_seen: '2026-07-08T09:30:36.062603+05:30'
-last_seen: '2026-07-08T09:30:36.062603+05:30'
-last_checked: '2026-07-08T09:30:36.062603+05:30'
+first_seen: '2026-08-05T17:12:46.928417+05:30'
+last_seen: '2026-08-05T17:12:46.928417+05:30'
+last_checked: '2026-08-05T17:12:46.928417+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source compiler**: Typst's core compiler (400+ contributors, 55K GitHub stars) converts markup to PDFs, images, and web pages, enabling automation and integration with systems like Zotero/Mendeley for citations.
-
-- **Markup & scripting**: Combines structured markup (e.g., `#figure`, equations) with embedded scripting (loops, functions) for dynamic document generation, including data-driven tables/charts and self-referential introspection.
-
-- **Collaborative web app**: Browser-based editor with real-time preview, Git integration, and team features (e.g., shared packages, review comments), supporting 3,500+ universities and 1,000+ businesses.
+- **Typst** is a modern, open-source document preparation system with a **scriptable markup language**, enabling **automated document generation** via embedded logic (conditionals, loops, functions) and data integration (JSON/CSV).
+- **Core features** include **real-time typesetting**, **collaborative editing**, **template-based automation**, and **multi-format exports** (PDF, images, web pages), with native support for **mathematics, plots, tables, code syntax highlighting, and bibliography management**.
+- **Compiler** is a **command-line tool** (400+ contributors, 55K GitHub stars) underpinning a **web-based IDE** offering **instant previews, team collaboration, Git integration, and enterprise-grade support**.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:30:36.062589+05:30
+- Published: 2026-08-05T17:12:46.928405+05:30
 
 ## Related Tags
 

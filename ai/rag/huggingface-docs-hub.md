@@ -1,41 +1,41 @@
 ---
-title: Models · Hugging Face
+title: Spaces · Hugging Face
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://huggingface.co/docs/hub/en/models#:~:text=The Hugging Face Hub
-  hosts,models as easy as possible.
-published_at: '2026-08-05T14:33:19.113641+05:30'
-collected_at: '2026-08-05T14:33:19.113656+05:30'
+source_url: https://huggingface.co/docs/hub/spaces
+published_at: '2026-08-05T17:07:38.386808+05:30'
+collected_at: '2026-08-05T17:07:38.386821+05:30'
 tags:
 - agents
-- benchmark
+- creative_dev
 - dataset
 - leaderboard
 - meta-ai
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-05T14:33:19.113656+05:30'
-last_seen: '2026-08-05T14:33:19.113656+05:30'
-last_checked: '2026-08-05T14:33:19.113656+05:30'
+first_seen: '2026-08-05T17:07:38.386821+05:30'
+last_seen: '2026-08-05T17:07:38.386821+05:30'
+last_checked: '2026-08-05T17:07:38.386821+05:30'
 health_score: 100
 ---
 
-# Models · Hugging Face
+# Spaces · Hugging Face
 
 ## Summary
 
-- **Model Hosting & Repositories**: The Hugging Face Hub stores ML models in Git-based repositories, inheriting version control, collaboration, and metadata features, with specialized attributes for model exploration and usage.
+- **Spaces Hosting**: ML demo apps can be hosted on Hugging Face Spaces with built-in support for Gradio, Docker, and static HTML/JavaScript, enabling GPU acceleration and collaborative development.
 
-- **Model Metadata & Evaluation**: Models include structured metadata (e.g., `model-card`, `eval-results`) and support gating mechanisms for controlled access, with standardized formats for CO₂ emissions tracking and benchmarking.
+- **Storage & Compute**: Supports GPU upgrades, disk usage management, and custom domains; integrates with GitHub Actions for CI/CD and provides configuration references for Docker/Gradio deployments.
 
-- **Inference & Integration**: Supports direct inference via widgets, local apps, and libraries (e.g., `transformers`), with APIs for uploading/downloading models and streaming datasets for efficient processing.
+- **Advanced Features**: Enables embedding Spaces, running as MCP servers/API endpoints, and supports OAuth for authentication; includes monitoring via download analytics and rate limits.
 
 ## Why It Matters
 
@@ -45,22 +45,23 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T14:33:19.113641+05:30
+- Published: 2026-08-05T17:07:38.386808+05:30
 
 ## Related Tags
 
 - agents
-- benchmark
+- creative_dev
 - dataset
 - leaderboard
 - meta-ai
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://huggingface.co/docs/hub/en/models#:~:text=The Hugging Face Hub hosts,models as easy as possible.
+Original source: https://huggingface.co/docs/hub/spaces

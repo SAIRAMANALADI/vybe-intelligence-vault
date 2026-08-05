@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-05T14:28:30.894972+05:30'
+collected_at: '2026-08-05T17:03:24.588509+05:30'
 published_at: '2026-08-03T16:39:06Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 184
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-03T08:23:24Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-05T14:28:30.894972+05:30'
-last_seen: '2026-08-05T14:28:30.894972+05:30'
-last_checked: '2026-08-05T14:28:30.894972+05:30'
+first_seen: '2026-08-05T17:03:24.588509+05:30'
+last_seen: '2026-08-05T17:03:24.588509+05:30'
+last_checked: '2026-08-05T17:03:24.588509+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Repository provides a vetted collection of tools, frameworks, and best practices specifically for deploying **scalable, production-grade RAG systems**, emphasizing battle-tested solutions.
-- **Technical Scope**: Focuses on **Python-based** implementations, covering **embeddings, vector databases, LLMOps, and MLOps** for RAG pipelines, with integrations for **LangChain** and large language models (LLMs).
-- **Operational Readiness**: Highlights **LLMOps and production-grade** considerations, including deployment, scalability, and maintenance, with last update timestamp of **2026-08-03**.
+- **Curated Production-Grade RAG Tools**: Repository aggregates battle-tested frameworks, libraries, and best practices for deploying scalable, production-grade Retrieval-Augmented Generation (RAG) systems, emphasizing reliability and performance.
+
+- **Multi-Faceted Technical Stack**: Covers essential components including vector databases, embeddings, LLM integration (LangChain), MLOps/LLMOps pipelines, and Python-based tooling for end-to-end RAG workflows.
+
+- **Continuous Updates & Community-Driven**: Actively maintained with last update in 2026, featuring 184 stars and 46 forks, serving as a dynamic resource for AI engineers and researchers in generative AI and RAG optimization.
 
 ## Why It Matters
 

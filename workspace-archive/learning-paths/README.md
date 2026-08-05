@@ -15,17 +15,17 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Kotlin and Android | Android Developers](https://developer.android.com/kotlin) (framework - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
-- [microsoft/rag-time](https://github.com/microsoft/rag-time) (benchmark - USEFUL Tier)
+- [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Collections · GitHub](https://github.com/collections)
-- [microsoft/rag-time](https://github.com/microsoft/rag-time)
 - [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+- [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-05 14:45 IST*
+*Last updated: 2026-08-05 17:20 IST*

@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-08-05T14:30:16.025517+05:30'
-published_at: '2026-08-05T08:48:28Z'
+collected_at: '2026-08-05T17:05:09.693028+05:30'
+published_at: '2026-08-05T10:54:39Z'
 tags:
 - agents
 - github-repo
 - paper
 - rag
+- scripts
 - unknown
-stars: 2692
+stars: 2693
 language: Unknown
 status: active
 archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-08-03T04:45:57Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-08-05T14:30:16.025517+05:30'
-last_seen: '2026-08-05T14:30:16.025517+05:30'
-last_checked: '2026-08-05T14:30:16.025517+05:30'
+first_seen: '2026-08-05T17:05:09.693028+05:30'
+last_seen: '2026-08-05T17:05:09.693028+05:30'
+last_checked: '2026-08-05T17:05:09.693028+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers for autonomous agent development.
-- **Multi-domain coverage**: Includes agents for general-purpose AI, multi-agent systems, embodied agents, and specialized domains (e.g., coding, gaming, research).
-- **Open-source focus**: Primarily features open-source projects with active community contributions and frequent updates.
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers, facilitating development and deployment of autonomous agents.
+- **Multi-Domain Coverage**: Encompasses agents for web browsing, code generation, task automation, and multi-agent systems, with links to GitHub repositories and research.
+- **Regularly Updated**: Maintained with recent additions (last update: 2026-08-05) to ensure relevance in the rapidly evolving AI agent landscape.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: kyrolabs
-- Stars: 2692
-- Forks: 737
+- Stars: 2693
+- Forks: 736
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-05T08:48:28Z
+- Last Updated: 2026-08-05T10:54:39Z
 - Archived: No
 - Created At: 2023-07-02T11:12:36Z
 - Pushed At: 2026-08-03T04:45:57Z

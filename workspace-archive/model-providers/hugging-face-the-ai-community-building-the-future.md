@@ -1,17 +1,17 @@
 ---
 title: Hugging Face – The AI community building the future.
 archive_category: model-providers
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://huggingface.co/
 resource_id: blog:hugging-face-the-ai-community-building-the-future
-local_vault_path: ai/rag/hugging-face-the-ai-community-building-the-future.md
+local_vault_path: ai/resources/hugging-face-the-ai-community-building-the-future.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- rag
+- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Overview**: MiniMax-H3 is a high-performance language model developed by MiniMaxAI, optimized for advanced natural language processing tasks.
-
-- **Key Features**: Emphasizes efficiency and scalability, leveraging state-of-the-art transformer architectures for improved inference speed and contextual understanding.
-
-- **Accessibility**: Available on Hugging Face Hub (ID: `MiniMaxAI/MiniMax-H3`) with a permissive license for research and commercial use.
+- **Model Overview**: MiniMax-H3 is a large language model developed by MiniMaxAI, optimized for high-performance natural language processing tasks.
+- **Technical Specifications**: The model is designed with advanced transformer architecture, featuring 3 billion parameters for enhanced contextual understanding and generation.
+- **Deployment & Use Cases**: Available via Hugging Face, it supports scalable inference for applications requiring low-latency, high-throughput language generation.
 
 ## Use Cases
 
@@ -49,4 +47,4 @@ Original source URL: https://huggingface.co/
 
 ## Local Vault File
 
-Path: [hugging-face-the-ai-community-building-the-future.md](../../ai/rag/hugging-face-the-ai-community-building-the-future.md)
+Path: [hugging-face-the-ai-community-building-the-future.md](../../ai/resources/hugging-face-the-ai-community-building-the-future.md)

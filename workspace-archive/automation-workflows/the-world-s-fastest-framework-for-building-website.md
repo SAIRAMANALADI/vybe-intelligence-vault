@@ -1,6 +1,6 @@
 ---
 title: The world's fastest framework for building websites
-archive_category: frontend-ai-ui
+archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://gohugo.io/
 resource_id: blog:the-world-s-fastest-framework-for-building-website
@@ -13,6 +13,7 @@ importance: medium
 tags:
 - frontend_ui
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -22,7 +23,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Frontend AI UI`
+- Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
@@ -31,15 +32,15 @@ selection_reason:
 
 ## Summary
 
-- Licensed under Apache 2.0, Hugo is open-source and free to use.
-- Built in Go, optimized for speed with a fast asset pipeline (image/Sass/JS processing, TailwindCSS support) and embedded dev server.
-- Supports multilingual content, advanced taxonomies, and frequent releases, with 89,315+ GitHub stars and an active community.
+- **Licensing & Adoption**: Distributed under Apache 2.0 License; 89,315 GitHub stars as of August 4, 2026.
+- **Performance & Flexibility**: Go-based, optimized for speed; supports multilingual content, advanced taxonomies, and rapid asset pipelines (image/Sass/JS processing).
+- **Development Workflow**: Embedded web server enables real-time preview of content/structure changes; frequent releases with active community support.
 
 ## Use Cases
 
-- AI chat bubbled views
-- Tailwind bento dashboards
-- Aesthetic layout templates
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 

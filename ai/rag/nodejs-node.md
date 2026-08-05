@@ -1,68 +1,49 @@
 ---
-title: nodejs/node
+title: node/SECURITY.md at main · nodejs/node · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/nodejs/node
-collected_at: '2026-08-05T14:36:58.664025+05:30'
-published_at: '2026-08-05T09:05:06Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/nodejs/node/blob/main/SECURITY.md
+published_at: '2026-08-05T17:12:41.307961+05:30'
+collected_at: '2026-08-05T17:12:41.307976+05:30'
 tags:
-- github-repo
-- javascript
+- hackernews
 - rag
-stars: 118734
-language: JavaScript
+- web-crawled
 status: active
-license: NOASSERTION
-archived: false
-created_at: '2014-11-26T19:57:11Z'
-pushed_at: '2026-08-05T05:36:44Z'
 resource_id: github:nodejs/node
-first_seen: '2026-08-05T14:36:58.664025+05:30'
-last_seen: '2026-08-05T14:36:58.664025+05:30'
-last_checked: '2026-08-05T14:36:58.664025+05:30'
+first_seen: '2026-08-05T17:12:41.307976+05:30'
+last_seen: '2026-08-05T17:12:41.307976+05:30'
+last_checked: '2026-08-05T17:12:41.307976+05:30'
 health_score: 100
 ---
 
-# nodejs/node
+# node/SECURITY.md at main · nodejs/node · GitHub
 
 ## Summary
 
-- **Runtime Environment**: Node.js is a server-side JavaScript runtime built on Chrome's V8 JavaScript engine, enabling asynchronous, event-driven I/O operations for scalable network applications.
-- **Cross-Platform Support**: Compatible with Linux, macOS, and Windows, leveraging platform-specific optimizations while maintaining a unified JavaScript API.
-- **License & Ecosystem**: MIT-licensed, with a vast ecosystem of modules (via npm) and a large contributor base (118k+ stars, 36k+ forks).
+- **Reporting & Escalation**: Security bugs in Node.js must be reported via [HackerOne](https://hackerone.com/nodejs) with acknowledgment within 5 days and updates within 10 days; escalation to `security@lists.openjsf.org` is permitted if no response is received within 6 business days or 14 days post-acknowledgment.
+
+- **Disclosure Process**: Vulnerabilities are validated across supported versions, assigned a CVE, and disclosed after a 72-hour embargo (adjustable for severity) via the Node.js security mailing list, public repo, and blog within 6 hours of announcement.
+
+- **Vulnerability Scope**: Valid issues must exploit untrusted inputs (e.g., network data, file I/O) to compromise confidentiality, integrity, or availability; experimental features/platforms, V8 flags, and trusted OS-level components are excluded from CVE/bounty eligibility.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: nodejs
-- Stars: 118734
-- Forks: 36352
-- Language: JavaScript
-- Topics: javascript, js, linux, macos, mit, node, nodejs, runtime, windows
-- Last Updated: 2026-08-05T09:05:06Z
-- License: NOASSERTION
-- Archived: No
-- Created At: 2014-11-26T19:57:11Z
-- Pushed At: 2026-08-05T05:36:44Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-05T17:12:41.307961+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- hackernews
+- rag
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/nodejs/node
+Original source: https://github.com/nodejs/node/blob/main/SECURITY.md

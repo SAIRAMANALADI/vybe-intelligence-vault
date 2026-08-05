@@ -13,13 +13,14 @@ collected_at: '2026-08-05T14:25:24.174324+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:rust-lang-rust-is-adopting-an-llm-policy
 first_seen: '2026-08-05T14:25:24.174324+05:30'
 last_seen: '2026-08-05T14:25:24.174324+05:30'
 last_checked: '2026-08-05T14:25:24.174324+05:30'
 health_score: 100
 ---
+
 
 # Rust-lang/rust is adopting an LLM policy
 

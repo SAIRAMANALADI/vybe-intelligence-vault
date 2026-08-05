@@ -1,6 +1,6 @@
 ---
 title: Firebase | Google's Mobile and Web App Development Platform
-archive_category: model-providers
+archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://firebase.google.com
 resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
@@ -16,7 +16,9 @@ tags:
 - producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +28,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Model Providers`
+- Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
@@ -35,17 +37,17 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++ to streamline multi-platform app development.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++ to streamline app development across multiple platforms.
 
-- **AI/ML Integration**: Supports generative AI via Firebase AI Logic, Agent Skills, and integrations with Google’s Gemini, enabling AI-powered app features.
+- **AI-powered services**: Integrates generative AI (e.g., Gemini) and managed infrastructure (e.g., Firebase AI Logic, App Hosting) for scalable, intelligent app development.
 
-- **Backend Services**: Offers managed infrastructure (Firestore, Realtime Database, Cloud Functions) and extensions (e.g., BigQuery, Stripe) for scalable, secure app backends.
+- **Modular extensions & integrations**: Supports pre-packaged extensions (e.g., Firestore-BigQuery sync) and third-party tools (e.g., Stripe, Algolia, Slack) f
 
 ## Use Cases
 
-- API key selection
-- Cost/capability profiling
-- Provider fallback routing
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 

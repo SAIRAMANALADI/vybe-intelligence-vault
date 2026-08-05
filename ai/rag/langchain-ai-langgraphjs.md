@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langgraphjs
-collected_at: '2026-08-05T03:59:24.599008+05:30'
-published_at: '2026-08-04T15:49:53Z'
+collected_at: '2026-08-05T17:06:24.792241+05:30'
+published_at: '2026-08-05T08:51:51Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
 - workflows
-stars: 3175
+stars: 3176
 language: TypeScript
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-09T17:40:12Z'
 pushed_at: '2026-08-04T15:48:45Z'
 resource_id: github:langchain-ai/langgraphjs
-first_seen: '2026-08-05T03:59:24.599008+05:30'
-last_seen: '2026-08-05T03:59:24.599008+05:30'
-last_checked: '2026-08-05T03:59:24.599008+05:30'
+first_seen: '2026-08-05T17:06:24.792241+05:30'
+last_seen: '2026-08-05T17:06:24.792241+05:30'
+last_checked: '2026-08-05T17:06:24.792241+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Graph-Based Agent Framework**: LangGraphJS enables building resilient language agents using graph structures, allowing for complex workflow orchestration via nodes and edges.
+- **Graph-Based Agent Framework**: LangGraphJS enables building resilient language agents using graph structures, allowing for complex workflow orchestration and state management in TypeScript.
 
 - **TypeScript Implementation**: The framework is implemented in TypeScript, providing type safety and leveraging modern JavaScript features for agent development.
 
-- **Integration with LLM Workflows**: Designed to integrate with large language models (LLMs) and generative AI pipelines, facilitating structured agent interactions and resilient execution.
+- **Modular & Extensible**: Designed for scalability, it supports integration with LLMs, tools, and custom nodes, facilitating the creation of sophisticated AI agent systems.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 3175
-- Forks: 539
+- Stars: 3176
+- Forks: 540
 - Language: TypeScript
 - Topics: agents, ai, artificial-intelligence, generative-ai, llm, node, typescript
-- Last Updated: 2026-08-04T15:49:53Z
+- Last Updated: 2026-08-05T08:51:51Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-09T17:40:12Z

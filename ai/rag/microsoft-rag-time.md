@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-05T14:27:40.913584+05:30'
+collected_at: '2026-08-05T17:02:34.548248+05:30'
 published_at: '2026-08-05T07:31:18Z'
 tags:
 - github-repo
@@ -13,6 +13,7 @@ tags:
 - models
 - openai
 - rag
+- reddit
 stars: 898
 language: Jupyter Notebook
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-05T14:27:40.913584+05:30'
-last_seen: '2026-08-05T14:27:40.913584+05:30'
-last_checked: '2026-08-05T14:27:40.913584+05:30'
+first_seen: '2026-08-05T17:02:34.548248+05:30'
+last_seen: '2026-08-05T17:02:34.548248+05:30'
+last_checked: '2026-08-05T17:02:34.548248+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **5-week structured RAG learning path**: Covers hybrid search (vector + keyword), quantization (binary/scalar), and indexing techniques (HNSW) with hands-on Jupyter Notebooks.
-- **Multimodal & responsible AI focus**: Integrates OpenAI/GPT models, Matryoshka representation learning, and Azure deployment with ethical AI guidelines.
-- **Optimized retrieval pipelines**: Demonstrates advanced techniques like binary quantization for efficient vector search and scalar quantization for storage reduction in RAG systems.
+- **5-week structured curriculum** covering RAG fundamentals to advanced topics (e.g., hybrid search, quantization, Matryoshka representation learning) with hands-on Jupyter Notebooks.
+- **Hybrid search implementation** integrating vector search (HNSW, scalar/binary quantization) with keyword search for optimized retrieval.
+- **Azure & OpenAI integration** with focus on responsible AI practices, multimodal RAG, and deployment via Visual Studio Code.
 
 ## Why It Matters
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-05T14:29:21.010897+05:30'
+collected_at: '2026-08-05T17:04:14.651759+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-05T14:29:21.010897+05:30'
-last_seen: '2026-08-05T14:29:21.010897+05:30'
-last_checked: '2026-08-05T14:29:21.010897+05:30'
+first_seen: '2026-08-05T17:04:14.651759+05:30'
+last_seen: '2026-08-05T17:04:14.651759+05:30'
+last_checked: '2026-08-05T17:04:14.651759+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **VLM2Vec Framework**: Implements contrastive learning-based representation learning for multimodal embeddings, supporting tasks like image, video, and visual document retrieval, as well as multimodal RAG applications.
+- **Repository Overview**: Hosts code for three research works: *VLM2Vec/MMEB* (ICLR 2025), *VLM2Vec-V2/MMEB-V2* (TMLR 2026), and *MMEB-V3* (COLM 2026), focusing on multimodal embedding benchmarks (MMEB) and visual-language model (VLM) techniques.
 
-- **MMEB Benchmark Suite**: Includes three versions (ICLR 2025, TMLR 2026, COLM 2026) for evaluating multimodal embedding models across diverse retrieval and representation tasks.
+- **Technical Scope**: Implements contrastive learning for representation learning, with applications in image/video/document retrieval, multimodal embeddings, and retrieval-augmented generation (RAG).
 
-- **Python Implementation**: Provides open-source codebase for training and evaluating VLM2Vec models, with modular design for extensibility to new multimodal benchmarks.
+- **Implementation Details**: Python-based codebase supporting multimodal tasks (e.g., visual document retrieval) and benchmarking, last updated July 2026.
 
 ## Why It Matters
 

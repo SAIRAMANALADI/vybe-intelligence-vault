@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TheAgentCompany/TheAgentCompany
-collected_at: '2026-08-05T14:30:31.054591+05:30'
+collected_at: '2026-08-05T17:05:24.712118+05:30'
 published_at: '2026-08-05T01:19:12Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 stars: 756
 language: Python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-11T09:08:11Z'
 pushed_at: '2025-11-17T20:31:16Z'
 resource_id: github:theagentcompany/theagentcompany
-first_seen: '2026-08-05T14:30:31.054591+05:30'
-last_seen: '2026-08-05T14:30:31.054591+05:30'
-last_checked: '2026-08-05T14:30:31.054591+05:30'
+first_seen: '2026-08-05T17:05:24.712118+05:30'
+last_seen: '2026-08-05T17:05:24.712118+05:30'
+last_checked: '2026-08-05T17:05:24.712118+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Simulated software company environment for evaluating AI agents on software development tasks.
-- **Technical Stack**: Python-based, designed for AI research and benchmarking of large language models (LLMs).
-- **Metrics & Tracking**: Open-source repository with 756 stars, 122 forks, last updated August 5, 2026.
+- **Benchmark Framework**: Python-based AI benchmark simulating tasks within a virtual software company to evaluate agent capabilities.
+- **Metrics & Evaluation**: Measures performance across predefined tasks, likely assessing reasoning, tool-use, and task-completion efficiency.
+- **Open-Source & Research-Oriented**: Repository tracks 756 stars and 122 forks, indicating active community engagement for AI agent research.
 
 ## Why It Matters
 

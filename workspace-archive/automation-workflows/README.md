@@ -8,24 +8,24 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 ## Top Matched Resources
 
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (workflow - ESSENTIAL Tier)
+- [huggingface/hub-docs](https://github.com/huggingface/hub-docs) (dataset - ESSENTIAL Tier)
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (workflow - ESSENTIAL Tier)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (dataset - ESSENTIAL Tier)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (dataset - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-- [OpenAI · GitHub](https://github.com/openai)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
+- [huggingface/hub-docs](https://github.com/huggingface/hub-docs)
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-05 14:45 IST*
+*Last updated: 2026-08-05 17:20 IST*

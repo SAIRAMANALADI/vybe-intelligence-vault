@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-08-05T14:33:09.225709+05:30'
-published_at: '2026-08-05T07:45:39Z'
+collected_at: '2026-08-05T17:06:59.808778+05:30'
+published_at: '2026-08-05T11:20:22Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 26113
+stars: 26115
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2019-11-14T09:05:28Z'
-pushed_at: '2026-08-05T08:43:32Z'
+pushed_at: '2026-08-05T11:29:44Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-08-05T14:33:09.225709+05:30'
-last_seen: '2026-08-05T14:33:09.225709+05:30'
-last_checked: '2026-08-05T14:33:09.225709+05:30'
+first_seen: '2026-08-05T17:06:59.808778+05:30'
+last_seen: '2026-08-05T17:06:59.808778+05:30'
+last_checked: '2026-08-05T17:06:59.808778+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Framework for building production-ready LLM applications with explicit control over retrieval, routing, memory, and generation via modular pipelines and agent workflows.
 
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal systems, semantic search, and conversational AI, leveraging Python for extensible integrations.
+- **Multi-Use Capabilities**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems with context-engineering for enhanced LLM performance.
 
-- **High-Performance Architecture**: Optimized for context-engineered applications, supporting MCP, multi-agent systems, and retrieval-augmented generation with a focus on scalability and modularity.
+- **Python-Based & Open-Source**: Implemented in Python, with 26K+ stars and 3K+ forks, enabling extensible AI agent development and orchestration.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepset-ai
-- Stars: 26113
+- Stars: 26115
 - Forks: 2979
 - Language: Python
 - Topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents, context-engineering, framework, genai, generative-ai, information-retrieval, large-language-models, llm, mcp, multi-agent, orchestration, python, rag, retrieval-augmented-generation, semantic-search
-- Last Updated: 2026-08-05T07:45:39Z
+- Last Updated: 2026-08-05T11:20:22Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z
-- Pushed At: 2026-08-05T08:43:32Z
+- Pushed At: 2026-08-05T11:29:44Z
 
 ## Possible Use Cases
 

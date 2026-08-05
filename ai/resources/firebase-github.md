@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/firebase/
-published_at: '2026-08-04T20:21:49.140008+05:30'
-collected_at: '2026-08-04T20:21:49.140025+05:30'
+published_at: '2026-08-05T17:12:06.917090+05:30'
+collected_at: '2026-08-05T17:12:06.917107+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:firebase-github
-first_seen: '2026-08-04T20:21:49.140025+05:30'
-last_seen: '2026-08-04T20:21:49.140025+05:30'
-last_checked: '2026-08-04T20:21:49.140025+05:30'
+first_seen: '2026-08-05T17:12:06.917107+05:30'
+last_seen: '2026-08-05T17:12:06.917107+05:30'
+last_checked: '2026-08-05T17:12:06.917107+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- Firebase provides official SDKs and libraries for Android (Kotlin), iOS (Swift), Web (TypeScript), Unity (C#), and C++ via GitHub repositories like `quickstart-android`, `quickstart-ios`, `quickstart-js`, `quickstart-unity`, and `quickstart-cpp`.
+- **Firebase GitHub Organization**: Hosts 102+ repositories, including SDKs (e.g., `firebase-ios-sdk`, `flutterfire`), UI libraries (`FirebaseUI-Android`, `FirebaseUI-iOS`), and CLI tools (`firebase-tools`), primarily licensed under Apache-2.0 or MIT.
 
-- Key repositories include `firebase-js-sdk` (TypeScript-based JavaScript SDK), `firebase-tools` (CLI for Firebase operations), and `flutterfire` (Dart-based Flutter plugins with 9.2k+ stars).
+- **Multi-Platform Quickstart Samples**: Provides platform-specific starter projects (`quickstart-android` in Kotlin, `quickstart-ios` in Swift, `quickstart-js` in TypeScript) with high community engagement (e.g., `functions-samples` at 12.2k stars).
 
-- Additional critical components include `FirebaseUI` libraries for Android (Kotlin), iOS (Swift), and Web (TypeScript), along with `firebase-admin-dart` for Dart backend integration.
+- **Core SDKs & Tools**: The `firebase-ios-sdk` (C++) and `firebase-tools` (TypeScript) repositories are actively maintained, with 6.6k+ and 4.4k+ stars respectively, supporting Cloud Functions, Realtime Database, and Authentication across platforms.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T20:21:49.140008+05:30
+- Published: 2026-08-05T17:12:06.917090+05:30
 
 ## Related Tags
 

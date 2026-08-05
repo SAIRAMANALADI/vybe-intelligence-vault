@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-05T14:29:15.995285+05:30'
+collected_at: '2026-08-05T17:04:09.625372+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 257
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-05T14:29:15.995285+05:30'
-last_seen: '2026-08-05T14:29:15.995285+05:30'
-last_checked: '2026-08-05T14:29:15.995285+05:30'
+first_seen: '2026-08-05T17:04:09.625372+05:30'
+last_seen: '2026-08-05T17:04:09.625372+05:30'
+last_checked: '2026-08-05T17:04:09.625372+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (node, subgraph, global) and semantic aggregation for enhanced context relevance in generation.
-
-- **Efficiency Optimizations**: Utilizes lightweight graph pruning and dynamic indexing to reduce retrieval latency while maintaining high recall in AAAI 2026 benchmarks.
-
-- **Python Implementation**: Open-source library with modular components for graph construction, retrieval, and generation, supporting extensibility for custom knowledge graphs.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (hierarchical) and semantic aggregation to enhance contextual relevance in generation tasks.
+- **Efficiency Optimizations**: Designed for low-latency inference with lightweight graph traversal and pruning techniques, reducing computational overhead while maintaining retrieval accuracy.
+- **Python Implementation**: Provides modular components (e.g., graph builders, retrievers) with PyTorch/DGL dependencies for scalable KG-augmented LLM inference.
 
 ## Why It Matters
 

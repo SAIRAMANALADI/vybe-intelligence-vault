@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-08-05T14:28:40.859981+05:30'
+collected_at: '2026-08-05T17:03:34.583627+05:30'
 published_at: '2026-08-05T04:14:33Z'
 tags:
 - github-repo
 - hackernews
 - html
+- models
 - rag
 stars: 1401
 language: HTML
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-07-28T18:48:15Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-08-05T14:28:40.859981+05:30'
-last_seen: '2026-08-05T14:28:40.859981+05:30'
-last_checked: '2026-08-05T14:28:40.859981+05:30'
+first_seen: '2026-08-05T17:03:34.583627+05:30'
+last_seen: '2026-08-05T17:03:34.583627+05:30'
+last_checked: '2026-08-05T17:03:34.583627+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated List**: Repository containing a comprehensive, community-driven list of AI-powered web search tools and projects, including metasearch engines, question-answering systems, and retrieval-augmented generation (RAG) frameworks.
-
-- **Technical Scope**: Focuses on generative AI, LLM inference, and AI-driven information retrieval, with tools leveraging LLMs for enhanced search, summarization, and contextual query processing.
-
-- **Resources & Tools**: Includes links to open-source projects, Hugging Face Spaces demos, and AI search engines, covering topics like artificial intelligence, web search optimization, and AI-assisted metasearch.
+- **Curated list** of AI-powered web search tools leveraging **LLM inference**, **RAG**, and **metasearch** techniques for enhanced information retrieval and question-answering.
+- **Repository** includes **1,401 stars** and **120 forks**, maintained in **HTML** with topics covering **generative AI**, **LLM inference**, and **retrieval-augmented generation**.
+- **Last updated** in **August 2026**, featuring a Hugging Face Space demo (`hf.co/spaces/felladrin/awesome-ai-web-search`) for interactive exploration.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: felladrin
 - Stars: 1401
-- Forks: 119
+- Forks: 120
 - Language: HTML
 - Topics: ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome, awesome-list, generative-ai, generative-ai-projects, generative-ai-tools, information-retrieval, llm-inference, metasearch, question-answering, rag, retrieval-augmented-generation, web-search
 - Last Updated: 2026-08-05T04:14:33Z
