@@ -13,13 +13,14 @@ collected_at: '2026-08-05T03:54:40.850533+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:blackmail-fail-2013
 first_seen: '2026-08-05T01:28:09.662538+05:30'
 last_seen: '2026-08-05T03:54:40.850533+05:30'
 last_checked: '2026-08-05T03:54:40.850533+05:30'
 health_score: 100
 ---
+
 
 # Blackmail Fail (2013)
 

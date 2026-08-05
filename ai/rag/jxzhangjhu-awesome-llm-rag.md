@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-05T03:56:29.277269+05:30'
+collected_at: '2026-08-05T09:05:28.422732+05:30'
 published_at: '2026-08-01T13:42:45Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - paper
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-05T03:56:29.277269+05:30'
-last_seen: '2026-08-05T03:56:29.277269+05:30'
-last_checked: '2026-08-05T03:56:29.277269+05:30'
+first_seen: '2026-08-05T09:05:28.422732+05:30'
+last_seen: '2026-08-05T09:05:28.422732+05:30'
+last_checked: '2026-08-05T09:05:28.422732+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive repository aggregating advanced techniques, tools, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), including embeddings, retrieval methods, and hybrid architectures.
+- **Curated Resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research papers for **Large Language Models (LLMs)**, with a focus on **embeddings** and **retrieval-augmented architectures**.
 
-- **Technical Focus**: Covers key topics such as dense/sparse embeddings, retrieval strategies (e.g., multi-hop, iterative), and integration with LLMs for enhanced factuality, context-awareness, and domain adaptation.
+- **Technical Scope**: Covers **RAG embeddings**, **retrieval-information mechanisms**, and **LLM integration** strategies, including state-of-the-art methods for enhancing generative models with external knowledge retrieval.
 
-- **Active Maintenance**: Last updated in 2026, indicating ongoing updates with recent advancements in RAG, including novel frameworks, benchmarks, and optimization techniques for production-grade LLM applications.
+- **Repository Metrics**: 1,340 stars, 90 forks, last updated **2026-08-01**, with topics including `embeddings`, `large-language-models`, `llm`, `rag`, and `retrieval-information`.
 
 ## Why It Matters
 

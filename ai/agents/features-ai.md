@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-08-05T04:02:53.905234+05:30'
-collected_at: '2026-08-05T04:02:53.905250+05:30'
+published_at: '2026-08-05T09:11:19.063559+05:30'
+collected_at: '2026-08-05T09:11:19.063570+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-05T04:02:53.905250+05:30'
-last_seen: '2026-08-05T04:02:53.905250+05:30'
-last_checked: '2026-08-05T04:02:53.905250+05:30'
+first_seen: '2026-08-05T09:11:19.063570+05:30'
+last_seen: '2026-08-05T09:11:19.063570+05:30'
+last_checked: '2026-08-05T09:11:19.063570+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Native Agent-Driven Development**: GitHub Copilot app provides a desktop experience for agent-driven development, natively integrated with GitHub, supporting macOS, Windows, and Linux across all Copilot plans.
+- **Agent-Driven Development**: GitHub Copilot app is a native desktop agent for development workflows, supporting macOS, Windows, and Linux, enabling issue-to-merge automation with isolated sessions, built-in validation (diffs, PRs, terminal checks), and parallel workflows across issues/PRs/prompts.
 
-- **Isolated, Parallel Workflows**: Sessions are isolated workspaces for branches, files, and conversations, enabling parallel workflows with built-in validation (diffs, terminal checks, PR merges) and automated workflows via scheduled tasks.
+- **Design & Extensibility**: Includes **Impeccable** (open-source design skill) with 23 commands (e.g., `/critique`, `/polish`) for design system adherence; supports MCP servers, custom skills, and external data integration for toolchain extensibility.
 
-- **Extensible with Custom Tools**: Supports native GitHub context, custom skills (including design-focused "Impeccable" skill), and Model Context Protocol (MCP) servers for external data integration, with pricing tiers ranging from Free ($0) to Max ($100/month) offering varying agent usage limits.
+- **Multi-Tier Pricing**: Free tier (2K completions/month), **Pro** ($10/user) with unlimited completions, **Pro+** ($39) for premium models, and **Max** ($100) for high-volume workflows with priority access and credits (e.g., $200/month for Max).
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-05T04:02:53.905234+05:30
+- Published: 2026-08-05T09:11:19.063559+05:30
 
 ## Related Tags
 

@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - meta-ai
 - models
 - rag
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by modeling classes/objects to represent real-world entities, hiding unnecessary details.
-- **Encapsulation**: Bundles data (attributes) and methods (functions) within a class, restricting direct access to some components (data hiding).
-- **Inheritance**: Enables hierarchical class structures where child classes inherit properties/methods from parent classes, promoting code reusability.
+- **Abstraction**: Simplifies complex systems by hiding lower-level details, enabling focus on high-level functionality.
+- **Modularity**: Divides systems into independent, interchangeable components for easier maintenance and scalability.
+- **Scalability**: Designs systems to handle increased load efficiently, often via horizontal/vertical scaling techniques.
 
 ## Use Cases
 

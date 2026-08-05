@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/legal/privacy-notice
-published_at: '2026-08-04T01:37:36.354038+05:30'
-collected_at: '2026-08-04T01:37:36.354049+05:30'
+published_at: '2026-08-05T09:12:51.498365+05:30'
+collected_at: '2026-08-05T09:12:51.498377+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-notice
-first_seen: '2026-08-04T01:37:36.354049+05:30'
-last_seen: '2026-08-04T01:37:36.354049+05:30'
-last_checked: '2026-08-04T01:37:36.354049+05:30'
+first_seen: '2026-08-05T09:12:51.498377+05:30'
+last_seen: '2026-08-05T09:12:51.498377+05:30'
+last_checked: '2026-08-05T09:12:51.498377+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Dual Role in Data Processing**: LlamaIndex acts as a *controller* for personal data collected directly from users (e.g., account info, payment data via Stripe), while serving as a *processor* for customer-provided data (governed by customer privacy policies); individual requests for processor-handled data must be directed to the relevant customer.
+- **Dual Role in Data Processing**: LlamaIndex acts as a **controller** for personal data under its direct control (e.g., user interactions with its services), while serving as a **processor** for customer-controlled data (governed by customer-specific privacy policies).
 
-- **Multi-Source Data Collection**: Personal data is gathered via direct user input (contact/professional info, customer content), automated tracking (device IDs, IP geolocation, browsing behavior via cookies/pixels), and third-party sources (SSO tokens, social media, advertisers, service providers), with inferences derived for personalization/ad targeting.
+- **Multi-Source Data Collection**: Personal data is gathered **directly** (e.g., account registration, payments via Stripe) and **automatically** (e.g., cookies, IP tracking, device identifiers), with additional inputs from third parties (e.g., employers, social media, advertisers).
 
-- **Purposes & Third-Party Integration**: Data is used for service delivery, account management, marketing, and analytics, with financial data processed exclusively by third-party payment processors (Stripe); business partners and service providers (e.g., analytics, surveys) may share derived data, requiring separate privacy notices for specific use cases.
+- **Automated Profiling & Inferences**: Uses **third-party tracking technologies** (e.g., pixels, SDKs) to log behavioral data (e.g., mouse movements, ad interactions) and may **derive inferences** about user preferences for targeted advertising and service personalization.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T01:37:36.354038+05:30
+- Published: 2026-08-05T09:12:51.498365+05:30
 
 ## Related Tags
 

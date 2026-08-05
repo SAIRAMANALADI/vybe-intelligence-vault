@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TatarinBlack/ai-runtime-security-sandbox
-collected_at: '2026-08-05T03:56:54.296747+05:30'
+collected_at: '2026-08-05T09:05:53.374932+05:30'
 published_at: '2026-07-29T02:26:26Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 35
@@ -18,9 +19,9 @@ archived: false
 created_at: '2026-07-11T11:39:26Z'
 pushed_at: '2026-07-27T06:16:09Z'
 resource_id: github:tatarinblack/ai-runtime-security-sandbox
-first_seen: '2026-08-05T03:56:54.296747+05:30'
-last_seen: '2026-08-05T03:56:54.296747+05:30'
-last_checked: '2026-08-05T03:56:54.296747+05:30'
+first_seen: '2026-08-05T09:05:53.374932+05:30'
+last_seen: '2026-08-05T09:05:53.374932+05:30'
+last_checked: '2026-08-05T09:05:53.374932+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates runtime security vulnerabilities in AI systems, including prompt injection, tool abuse, and excessive agency.
-- **Implementation**: Python-based live RAG (Retrieval-Augmented Generation) chatbot sandbox for testing and exploiting security flaws.
-- **Updates**: Last modified on 2026-07-29, with 35 stars and 24 forks on GitHub.
+- **Purpose**: Demonstrates real-time RAG chatbot vulnerabilities including prompt injection, tool abuse, and excessive agency in a controlled sandbox environment.
+- **Technical Stack**: Implemented in Python, leveraging retrieval-augmented generation (RAG) architectures for interactive security testing.
+- **Last Updated**: Repository last modified on **July 29, 2026**, indicating active but infrequent maintenance.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-05T03:55:34.705026+05:30'
-collected_at: '2026-08-05T03:55:34.705040+05:30'
+published_at: '2026-08-05T09:04:34.113913+05:30'
+collected_at: '2026-08-05T09:04:34.113924+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-05T03:55:34.705040+05:30'
-last_seen: '2026-08-05T03:55:34.705040+05:30'
-last_checked: '2026-08-05T03:55:34.705040+05:30'
+first_seen: '2026-08-05T09:04:34.113924+05:30'
+last_seen: '2026-08-05T09:04:34.113924+05:30'
+last_checked: '2026-08-05T09:04:34.113924+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers manage caching, metadata, and multi-stage retrieval to optimize precision and latency.
+- **Core RAG Architecture**: RAG integrates a retriever (vector/lexical search) with a generator (LLM), optionally enhanced by rerankers, query rewriting, and caching layers to improve precision and efficiency while grounding outputs in external knowledge.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), cross-encoder reranking (two-stage retrieval), and query rewriting (expansion/paraphrasing) improve recall/precision; multi-hop and GraphRAG enable structured, iterative evidence gathering for complex queries.
+- **Chunking & Embeddings Optimization**: Effective RAG relies on semantic-aware chunking (e.g., structure-aware or LLM-based) and domain-fine-tuned embeddings (normalized, low-dimensional) to balance retrieval quality, latency, and cost across multilingual/multimodal data.
 
-- **Context Optimization & Evaluation**: Token budgeting, autocut trimming, and distilled context reduce hallucinations; evaluation metrics span retrieval (nDCG/MRR) and generation (factuality/hallucination rate), with gold-standard benchmarks for end-to-end validation.
+- **Advanced Retrieval & Hallucination Mitigation**: Multi-hop iterative retrieval, hybrid search (BM25 + vector), cross-encoder reranking, and context distillation reduce hallucinations while managing token budgets through autocut strategies and explicit source attribution in prompts.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T03:55:34.705026+05:30
+- Published: 2026-08-05T09:04:34.113913+05:30
 
 ## Related Tags
 

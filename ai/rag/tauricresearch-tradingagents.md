@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-08-05T03:59:14.499636+05:30'
-published_at: '2026-08-04T22:23:11Z'
+collected_at: '2026-08-05T09:08:13.571771+05:30'
+published_at: '2026-08-05T03:34:36Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 95599
+stars: 95618
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-28T03:31:08Z'
 pushed_at: '2026-07-18T15:55:05Z'
 resource_id: github:tauricresearch/tradingagents
-first_seen: '2026-08-05T03:59:14.499636+05:30'
-last_seen: '2026-08-05T03:59:14.499636+05:30'
-last_checked: '2026-08-05T03:59:14.499636+05:30'
+first_seen: '2026-08-05T09:08:13.571771+05:30'
+last_seen: '2026-08-05T09:08:13.571771+05:30'
+last_checked: '2026-08-05T09:08:13.571771+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent LLM Framework**: Implements a modular, multi-agent system leveraging large language models (LLMs) for financial trading, enabling specialized agents (e.g., analysts, traders, risk managers) to collaborate via structured communication protocols.
+- **Multi-Agent LLM Framework**: Implements a financial trading system using multiple LLM-based agents for decision-making, leveraging Python for modular agent interactions (e.g., strategy, execution, risk management).
 
-- **Python-Based Architecture**: Built on Python with dependencies like LangChain, AutoGen, and custom financial libraries, supporting extensibility for custom trading strategies, data sources, and agent roles.
+- **Modular Architecture**: Supports customizable agent roles (e.g., analyst, trader, risk evaluator) with pluggable components for backtesting, market data integration, and execution strategies.
 
-- **High-Throughput Trading Simulation**: Supports backtesting, live trading, and synthetic data generation with real-time market data integration (e.g., Yahoo Finance, Binance APIs), optimized for low-latency execution and agent coordination.
+- **Open-Source & Scalable**: Designed for extensibility with 95K+ stars, enabling research/testing of LLM-driven trading strategies in simulated or live markets via APIs (e.g., Binance, Interactive Brokers).
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TauricResearch
-- Stars: 95599
-- Forks: 18492
+- Stars: 95618
+- Forks: 18494
 - Language: Python
 - Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-08-04T22:23:11Z
+- Last Updated: 2026-08-05T03:34:36Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-28T03:31:08Z

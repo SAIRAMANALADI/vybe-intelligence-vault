@@ -3,7 +3,7 @@ title: Overview of Parse | Developer Documentation
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://docs.cloud.llamaindex.ai/llamaparse
-resource_id: blog:overview-of-parse-developer-documentation
+resource_id: blog:overview-of-parse-developer-documentation-e44033fe
 local_vault_path: ai/resources/overview-of-parse-developer-documentation.md
 quality_score: 70
 archive_score: 72

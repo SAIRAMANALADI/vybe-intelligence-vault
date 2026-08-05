@@ -4,18 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://linkedin.com/company/langchain
-published_at: '2026-08-02T16:31:23.087670+05:30'
-collected_at: '2026-08-02T16:31:23.087683+05:30'
+published_at: '2026-08-05T09:12:45.878444+05:30'
+collected_at: '2026-08-05T09:12:45.878457+05:30'
 tags:
 - agents
 - frontend_ui
+- reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:langchain-linkedin
-first_seen: '2026-08-02T16:31:23.087683+05:30'
-last_seen: '2026-08-02T16:31:23.087683+05:30'
-last_checked: '2026-08-02T16:31:23.087683+05:30'
+first_seen: '2026-08-05T09:12:45.878457+05:30'
+last_seen: '2026-08-05T09:12:45.878457+05:30'
+last_checked: '2026-08-05T09:12:45.878457+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Deep Agents** are autonomous AI systems designed to perform multi-step reasoning and tool-use, integrating with LangChain/LangGraph for orchestration and execution.
+- **Scalability Challenges**: Early agent experiments require robust infrastructure to handle increased user load, system access, and resource consumption as adoption grows.
 
-- **Harness concept** defines a modular execution framework where agents operate within a structured environment (harness) governed by a mathematical model (harness equation) for state management and decision-making.
+- **Governance Framework**: Establishing centralized controls for cost management, data governance, and policy enforcement is critical to maintain visibility and compliance at scale.
 
-- **Production deployment** of Deep Agents involves packaging agents with their harnesses, integrating with LangGraph for workflow orchestration, and optimizing for scalability, reliability, and real-world tool interactions.
+- **Session Details**: LangChain is hosting a session on *"Building Governed Agents: A Framework for Cost, Control, and Compliance"* to address these challenges ([register here](https://events.langchain.com/register/building-governed-agents)).
 
 ## Why It Matters
 
@@ -37,14 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T16:31:23.087670+05:30
+- Published: 2026-08-05T09:12:45.878444+05:30
 
 ## Related Tags
 
 - agents
 - frontend_ui
+- reddit
 - web-crawled
-- workflows
 
 ## Source
 

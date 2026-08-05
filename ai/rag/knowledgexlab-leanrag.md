@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-05T03:57:09.391219+05:30'
+collected_at: '2026-08-05T09:06:08.437152+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 257
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-05T03:57:09.391219+05:30'
-last_seen: '2026-08-05T03:57:09.391219+05:30'
-last_checked: '2026-08-05T03:57:09.391219+05:30'
+first_seen: '2026-08-05T09:06:08.437152+05:30'
+last_seen: '2026-08-05T09:06:08.437152+05:30'
+last_checked: '2026-08-05T09:06:08.437152+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., node, subgraph) and semantic aggregation to enhance contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → global) and semantic aggregation to enhance contextual relevance in generation tasks.
 
-- **Efficiency Optimizations**: Leverages lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy, as proposed for AAAI 2026.
+- **Efficiency Optimizations**: Leverages lightweight graph pruning and dynamic indexing to reduce retrieval latency while maintaining accuracy, targeting AAAI 2026 benchmarks.
 
-- **Python Implementation**: Provides an open-source Python library with modular components for knowledge graph integration, retrieval augmentation, and hierarchical query processing.
+- **Python Implementation**: Provides modular components (e.g., KG builder, retriever, generator) with PyTorch integration for end-to-end differentiable pipelines.
 
 ## Why It Matters
 

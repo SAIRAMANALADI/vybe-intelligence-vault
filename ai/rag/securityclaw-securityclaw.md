@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-05T03:56:49.371844+05:30'
+collected_at: '2026-08-05T09:05:48.437730+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-07-31T20:03:39Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-05T03:56:49.371844+05:30'
-last_seen: '2026-08-05T03:56:49.371844+05:30'
-last_checked: '2026-08-05T03:56:49.371844+05:30'
+first_seen: '2026-08-05T09:05:48.437730+05:30'
+last_seen: '2026-08-05T09:05:48.437730+05:30'
+last_checked: '2026-08-05T09:05:48.437730+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent for Security Operations Centers (SOC), integrating OpenSearch/Elasticsearch monitoring with Retrieval-Augmented Generation (RAG) for behavioral memory and real-time anomaly validation using LLMs.
-
-- **RAG-Powered Memory & Detection**: Builds dynamic RAG-based memory from monitored data streams, enabling contextual threat detection and validation of anomalies through LLM-driven analysis.
-
-- **Automated Threat Hunting**: Supports SOC automation via skill-based modules for anomaly detection, threat hunting, and real-time validation, with modular design for extensibility.
+- **Modular SOC Agent**: Python-based autonomous agent leveraging OpenSearch/Elasticsearch for real-time log monitoring, with a skill-based architecture for extensible threat detection and response.
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral profiles from historical data, enabling adaptive anomaly validation via LLMs.
+- **LLM-Powered Anomaly Validation**: Dynamically cross-references real-time events against learned patterns to flag deviations, integrating threat-hunting capabilities for SOC automation.
 
 ## Why It Matters
 

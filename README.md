@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-96%2C324-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-160%2C244-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--05-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **96,324 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **160,244 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 16,436</p>
-        <p><b>Active:</b> 15,960 | <b>Inactive:</b> 476</p>
+        <p><b>Resources tracked:</b> 17,445</p>
+        <p><b>Active:</b> 16,963 | <b>Inactive:</b> 482</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,173</p>
+        <p><b>Archive Files:</b> 65,107</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 96,324 files</p>
-        <p><b>Last Update:</b> 2026-08-05 07:49 IST</p>
+        <p><b>Total Vault Size:</b> 160,244 files</p>
+        <p><b>Last Update:</b> 2026-08-05 09:24 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium](ai/rag/medium-2.md)** • Rank: <kbd>+16940</kbd>
-- 🔼 **[Haystack Enterprise Starter](ai/rag/haystack-enterprise-starter.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[LangChain · GitHub](ai/rag/langchain-github.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[TXYZ](ai/resources/txyz.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Framer: AI website builder for professional sites](ai/agents/framer-ai-website-builder-for-professional-sites.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[AI fuels more than half of cybercrime in Africa as scams surge – Interpol](ai/community/ai-fuels-more-than-half-of-cybercrime-in-africa-as.md)** • <kbd>+144 pts</kbd> • Rank: <kbd>+7</kbd>
+- 🔼 **[There Will Come Soft Rains (1950) [pdf]](ai/community/there-will-come-soft-rains-1950-pdf.md)** • <kbd>+26 pts</kbd>
+- 🔼 **[When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](ai/community/arxiv-2602-16763.md)** • <kbd>+20 pts</kbd>
+- 🔼 **[Keyv and friends compromised in active Shai-Hulud supply chain attack](ai/community/keyv-and-friends-compromised-in-active-shai-hulud.md)** • <kbd>+14 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Google Account Help](ai/rag/google-account-help.md)** • Rank: <kbd>+1377</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- No new discoveries in this run.
+- 🆕 **[Eight Myths on Software Engineering and GenAI](ai/community/eight-myths-on-software-engineering-and-genai.md)** • Score: `102`
+- 🆕 **[After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted](ai/community/after-losses-retail-investors-flock-to-3x-leverage.md)** • Score: `19`
+- 🆕 **[Gemini 3.5 â Google DeepMind](ai/rag/gemini-3-5-a-google-deepmind.md)** • Score: `0`
+- 🆕 **[AssemblyAI | AI models to transcribe and understand speech](ai/agents/assemblyai-ai-models-to-transcribe-and-understand.md)** • Score: `0`
+- 🆕 **[Ollama](ai/resources/ollama.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Apple says more ex-employees may have taken confidential data to OpenAI](ai/community/apple-says-more-ex-employees-may-have-taken-confid.md)**
+- 💤 **[Oxide Computer raises $445M (SEC Form D)](ai/community/oxide-computer-raises-445m-sec-form-d.md)**
+- 💤 **[Blackmail Fail (2013)](ai/community/blackmail-fail-2013.md)**
+- 💤 **[Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](ai/community/launch-hn-edotenv-yc-s26-quant-trading-rl-envs-to.md)**
+- 💤 **[Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]](ai/community/security-incident-inc-2026-07-28-01-uk-ai-security.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

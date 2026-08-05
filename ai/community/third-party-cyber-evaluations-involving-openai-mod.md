@@ -15,13 +15,14 @@ tags:
 - benchmark
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:third-party-cyber-evaluations-involving-openai-mod
 first_seen: '2026-08-05T03:54:39.010874+05:30'
 last_seen: '2026-08-05T03:54:39.010874+05:30'
 last_checked: '2026-08-05T03:54:39.010874+05:30'
 health_score: 100
 ---
+
 
 # Third-party cyber evaluations involving OpenAI models
 

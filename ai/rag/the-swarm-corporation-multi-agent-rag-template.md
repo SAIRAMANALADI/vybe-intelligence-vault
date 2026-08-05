@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-05T03:59:34.577952+05:30'
+collected_at: '2026-08-05T09:08:33.690653+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-05T03:59:34.577952+05:30'
-last_seen: '2026-08-05T03:59:34.577952+05:30'
-last_checked: '2026-08-05T03:59:34.577952+05:30'
+first_seen: '2026-08-05T09:08:33.690653+05:30'
+last_seen: '2026-08-05T09:08:33.690653+05:30'
+last_checked: '2026-08-05T09:08:33.690653+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative framework using **CrewAI**, **AutoGen**, and **Swarms** to distribute document processing, analysis, and insight generation across specialized AI agents.
-- **RAG Integration**: Supports **LangChain**, **ChromaDB**, **Weaviate**, and **Pinecone** for retrieval-augmented generation (RAG), enabling dynamic document querying and contextual response synthesis.
-- **Multi-Model Compatibility**: Compatible with **OpenAI (GPT-3.5/4/GPT-5)**, **Anthropic**, and Discord-based agent coordination for real-time collaboration and output generation.
+- **Multi-Agent Architecture**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) for document processing, leveraging frameworks like LangChain and Swarms for orchestration and task delegation.
+
+- **RAG Integration**: Supports Retrieval-Augmented Generation (RAG) with vector databases (ChromaDB, Pinecone, Weaviate) for document indexing, retrieval, and context-aware generation (GPT-3.5/4/5, Anthropic).
+
+- **Deployment & Extensibility**: Includes Discord bot integration for real-time interaction, modular design for plugging in additional agents/tools, and Python-based implementation for scalability and customization.
 
 ## Why It Matters
 

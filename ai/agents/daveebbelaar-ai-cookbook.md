@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveebbelaar/ai-cookbook
-collected_at: '2026-08-05T01:31:08.996207+05:30'
-published_at: '2026-08-04T19:57:16Z'
+collected_at: '2026-08-05T09:06:28.469400+05:30'
+published_at: '2026-08-04T20:11:55Z'
 tags:
 - agents
 - anthropic
@@ -14,8 +14,7 @@ tags:
 - openai
 - python
 - reddit
-- workflows
-stars: 4357
+stars: 4356
 language: Python
 status: active
 license: MIT
@@ -23,9 +22,9 @@ archived: false
 created_at: '2025-01-30T15:14:29Z'
 pushed_at: '2026-07-09T07:55:18Z'
 resource_id: github:daveebbelaar/ai-cookbook
-first_seen: '2026-08-05T01:31:08.996207+05:30'
-last_seen: '2026-08-05T01:31:08.996207+05:30'
-last_checked: '2026-08-05T01:31:08.996207+05:30'
+first_seen: '2026-08-05T09:06:28.469400+05:30'
+last_seen: '2026-08-05T09:06:28.469400+05:30'
+last_checked: '2026-08-05T09:06:28.469400+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Open-source Python repository (`daveebbelaar/ai-cookbook`) with 4,357 stars and 1,539 forks, providing examples and tutorials for building AI systems, including LLM-based agents.
-
-- **Technical Focus**: Covers integration with **OpenAI**, **Anthropic**, and other AI frameworks, emphasizing practical implementations in Python for AI development workflows.
-
-- **Last Updated**: Repository was last updated on **2026-08-04**, ensuring recent and evolving content for developers.
+- **Repository Overview**: GitHub repository (`daveebbelaar/ai-cookbook`) providing practical examples and tutorials for building AI systems, with 4,356 stars and 1,539 forks.
+- **Technical Focus**: Python-based repository covering AI agents, large language models (LLMs), and integrations with APIs (OpenAI, Anthropic).
+- **Last Updated**: Repository last updated on **2026-08-04**, ensuring recent examples and compatibility with current AI frameworks.
 
 ## Why It Matters
 
@@ -46,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: daveebbelaar
-- Stars: 4357
+- Stars: 4356
 - Forks: 1539
 - Language: Python
 - Topics: agents, ai, anthropic, llm, openai, python
-- Last Updated: 2026-08-04T19:57:16Z
+- Last Updated: 2026-08-04T20:11:55Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-30T15:14:29Z

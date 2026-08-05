@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.cloudflare.com/
-published_at: '2026-06-25T23:04:30.060904+05:30'
-collected_at: '2026-06-25T23:04:30.060911+05:30'
+published_at: '2026-08-05T09:13:29.026973+05:30'
+collected_at: '2026-08-05T09:13:29.026985+05:30'
 tags:
 - agents
 - anthropic
@@ -15,12 +15,11 @@ tags:
 - reddit
 - web-crawled
 - workflows
-- youtube
 status: active
 resource_id: blog:cloudflare-developer-docs-cloudflare-docs
-first_seen: '2026-06-25T23:04:30.060911+05:30'
-last_seen: '2026-06-25T23:04:30.060911+05:30'
-last_checked: '2026-06-25T23:04:30.060911+05:30'
+first_seen: '2026-08-05T09:13:29.026985+05:30'
+last_seen: '2026-08-05T09:13:29.026985+05:30'
+last_checked: '2026-08-05T09:13:29.026985+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Serverless Compute & AI Integration**: Cloudflare enables deployment of serverless functions, full-stack apps, and AI inference globally via single commands (e.g., `npm create cloudflare@latest my-app`, `npx wrangler ai models`) with no GPU/region management, leveraging Workers, Containers, Durable Objects, Queues, Workers AI, AI Gateway, and Vectorize.
+- **Serverless Compute & Deployment**: Cloudflare enables zero-server management deployments via `npm create cloudflare@latest my-app`, supporting Workers (serverless functions), Containers, Durable Objects, Queues, and Flagship for globally distributed compute without cold starts or region complexity.
 
-- **Unified Data & Media Services**: Provides globally distributed SQL (D1), key-value (KV), object storage (R2), and media pipelines (Images/Stream) with direct Worker integration, supporting advanced SQL operations (window functions, DISTINCT, set ops) and real-time media processing via APIs.
+- **AI Inference & Database Integration**: Workers AI provides global AI model inference via `npx wrangler ai models`, while D1 offers serverless SQL with `npx wrangler d1 create my-database`, enabling direct Worker-to-database queries without connection management.
 
-- **Security & Performance Stack**: Offers WAF, SSL/TLS, Turnstile, post-quantum tunnels (Cloudflare Tunnel), Access, and Gateway for security, alongside CDN, caching, image optimization, and Web Analytics for performance, with all features managed via API-driven, globally distributed infrastructure.
+- **Security & Performance Stack**: Cloudflare integrates WAF, SSL/TLS, Turnstile (bot mitigation), and Tunnel (post-quantum encrypted tunnels) for security, alongside CDN caching, image optimization, and Web Analytics for performance acceleration across 330+ global edge locations.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:04:30.060904+05:30
+- Published: 2026-08-05T09:13:29.026973+05:30
 
 ## Related Tags
 
@@ -54,7 +53,6 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - web-crawled
 - workflows
-- youtube
 
 ## Source
 

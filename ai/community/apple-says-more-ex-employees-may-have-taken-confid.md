@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:apple-says-more-ex-employees-may-have-taken-confid
 first_seen: '2026-08-04T22:35:54.625125+05:30'
 last_seen: '2026-08-05T03:54:40.755760+05:30'
 last_checked: '2026-08-05T03:54:40.755760+05:30'
 health_score: 100
 ---
+
 
 # Apple says more ex-employees may have taken confidential data to OpenAI
 

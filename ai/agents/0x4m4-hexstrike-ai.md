@@ -4,16 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/0x4m4/hexstrike-ai
-collected_at: '2026-08-05T03:58:24.421078+05:30'
-published_at: '2026-08-04T21:57:56Z'
+collected_at: '2026-08-05T09:07:23.498769+05:30'
+published_at: '2026-08-05T03:18:06Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - python
 - scripts
-- workflows
-stars: 10803
+stars: 10807
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-07-10T17:53:18Z'
 pushed_at: '2026-08-03T14:33:09Z'
 resource_id: github:0x4m4/hexstrike-ai
-first_seen: '2026-08-05T03:58:24.421078+05:30'
-last_seen: '2026-08-05T03:58:24.421078+05:30'
-last_checked: '2026-08-05T03:58:24.421078+05:30'
+first_seen: '2026-08-05T09:07:23.498769+05:30'
+last_seen: '2026-08-05T09:07:23.498769+05:30'
+last_checked: '2026-08-05T09:07:23.498769+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **MCP Server for AI Agents**: HexStrike AI MCP Agents integrates with LLMs (e.g., Claude, GPT) to autonomously execute **150+ cybersecurity tools** for pentesting, vulnerability discovery, bug bounty automation, and security research via the MCP protocol.
+- **MCP Server Integration**: HexStrike AI MCP Agents bridges LLMs (e.g., Claude, GPT) with 150+ cybersecurity tools for autonomous pentesting, vulnerability discovery, and bug bounty automation via the Model Context Protocol (MCP).
 
-- **Offensive Security Automation**: Bridges AI capabilities with real-world offensive security operations, enabling **Kali Linux tool integration** and **CTF automation** through structured agent workflows.
+- **Offensive Security Automation**: Enables AI agents to execute real-world offensive security operations, including Kali Linux toolsets, CTF utilities, and generative AI-driven security research.
 
-- **Python-Based Architecture**: Open-source MCP server written in Python, last updated **2026-08-04**, with **10.8K+ stars** and **2.2K+ forks**, supporting AI-driven security tool orchestration.
+- **Technical Stack**: Python-based MCP server with seamless LLM integration, last updated on 2026-08-05, and hosted on GitHub with 10.8K+ stars and 2.2K+ forks.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: 0x4m4
-- Stars: 10803
-- Forks: 2248
+- Stars: 10807
+- Forks: 2250
 - Language: Python
 - Topics: 0x4m4, ai, ai-agents, ai-cybersecurity, ai-hacking, ai-penetration-testing, ai-security-tool, artificial-intelligence, ctf-tools, generative-ai, hexstrike, kali-linux, kali-tools, llm, llm-integration, mcp, mcp-server, mcp-tools, pentesting, pentesting-tools
-- Last Updated: 2026-08-04T21:57:56Z
+- Last Updated: 2026-08-05T03:18:06Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-10T17:53:18Z

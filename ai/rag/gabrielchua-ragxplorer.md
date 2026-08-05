@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-05T03:56:04.253458+05:30'
+collected_at: '2026-08-05T09:05:03.344785+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
-- benchmark
 - dataset
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-05T03:56:04.253458+05:30'
-last_seen: '2026-08-05T03:56:04.253458+05:30'
-last_checked: '2026-08-05T03:56:04.253458+05:30'
+first_seen: '2026-08-05T09:05:03.344785+05:30'
+last_seen: '2026-08-05T09:05:03.344785+05:30'
+last_checked: '2026-08-05T09:05:03.344785+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source tool for interactive visualization and debugging of Retrieval-Augmented Generation (RAG) pipelines, enabling users to analyze and optimize LLM performance.
-- **Technical Stack**: Built with Python, Streamlit for UI, and Jupyter Notebooks for backend processing; leverages visualization libraries (e.g., Plotly) for dynamic RAG pipeline analysis.
-- **Features**: Real-time interactive exploration of retrieval quality, prompt engineering, and LLM output evaluation with support for custom dataset integration and multi-model comparisons.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic exploration and debugging of Retrieval-Augmented Generation (RAG) pipelines, leveraging Python and Streamlit for interactive UI.
+
+- **Key Features**: Enables real-time visualization of retrieval quality, prompt engineering, and LLM response analysis, with support for custom dataset integration and modular pipeline inspection.
+
+- **Technical Stack**: Built with Python, Streamlit (for frontend), and Jupyter Notebooks; designed for extensibility via modular components and supports integration with LLM APIs for end-to-end RAG workflow analysis.
 
 ## Why It Matters
 

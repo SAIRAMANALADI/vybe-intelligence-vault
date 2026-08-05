@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-05T03:56:54.287135+05:30'
+collected_at: '2026-08-05T09:05:53.377718+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-05T03:56:54.287135+05:30'
-last_seen: '2026-08-05T03:56:54.287135+05:30'
-last_checked: '2026-08-05T03:56:54.287135+05:30'
+first_seen: '2026-08-05T09:05:53.377718+05:30'
+last_seen: '2026-08-05T09:05:53.377718+05:30'
+last_checked: '2026-08-05T09:05:53.377718+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a Linux-native security and governance framework for AI agent workloads using eBPF for low-level system monitoring and enforcement.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for runtime monitoring and enforcement, leveraging Linux kernel capabilities for low-overhead, high-performance operations.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a Retrieval-Augmented Generation (RAG) system with FastAPI backend, TypeScript frontend, and vector database integration for scalable AI-driven SaaS applications.
+- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, supporting vector databases for scalable, low-latency semantic search and contextual AI responses in SaaS environments.
 
-- **Security & Governance Mesh**: Enforces real-time security policies and compliance across AI workloads via a distributed mesh architecture, leveraging LLM-based governance for adaptive control.
+- **Multi-Tenant Governance**: Enforces security policies (e.g., access control, audit logging) via eBPF hooks, ensuring compliance for distributed AI workloads while maintaining isolation between tenants in a microservices architecture.
 
 ## Why It Matters
 

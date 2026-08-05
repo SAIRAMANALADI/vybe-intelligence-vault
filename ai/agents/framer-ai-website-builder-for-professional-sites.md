@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.framer.com
-published_at: '2026-08-05T04:05:25.498478+05:30'
-collected_at: '2026-08-05T04:05:25.498494+05:30'
+published_at: '2026-08-05T09:14:14.117411+05:30'
+collected_at: '2026-08-05T09:14:14.117418+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:framer-ai-website-builder-for-professional-sites
-first_seen: '2026-08-05T04:05:25.498494+05:30'
-last_seen: '2026-08-05T04:05:25.498494+05:30'
-last_checked: '2026-08-05T04:05:25.498494+05:30'
+first_seen: '2026-08-05T09:14:14.117418+05:30'
+last_seen: '2026-08-05T09:14:14.117418+05:30'
+last_checked: '2026-08-05T09:14:14.117418+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Design Agents**: Framer integrates native design agents that operate directly on the canvas, enabling in-place generation, refinement, and real-time editing of layouts, content, and interactions while maintaining full user control and visibility.
+- **AI-Powered Design Agents**: Framer integrates native AI agents that operate directly on the canvas, enabling real-time generation, refinement, and editing of designs with full user control and visibility.
 
-- **Unified CMS & Code Automation**: The platform provides CMS agents for automated setup, organization, and synchronization of content with design, alongside code agents that convert high-level ideas into executable components, including complex interactions and external API integrations (e.g., Slack, GitHub, terminal).
+- **Unified CMS & Code Automation**: Agents manage CMS workflows (setup, organization, updates) and convert high-level ideas into executable code (e.g., interactions, custom effects) while maintaining synchronization between content and design.
 
-- **Performance-Optimized Publishing**: Framer emphasizes Core Web Vitals optimization (e.g., LCP <1.1s, INP <95ms, CLS <0.01) with built-in tools for SEO, branching, and publishing workflows, ensuring scalable, high-performance site deployment.
+- **Multi-Platform AI Integration**: Supports external AI tools (Terminal, Codex, Claude Code, Cursor) for cross-platform actions (e.g., Slack updates, GitHub PRs, terminal-triggered CMS changes) and offers branching/publishing APIs for streamlined deployment.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-05T04:05:25.498478+05:30
+- Published: 2026-08-05T09:14:14.117411+05:30
 
 ## Related Tags
 

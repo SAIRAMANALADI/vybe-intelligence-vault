@@ -14,13 +14,14 @@ tags:
 - hackernews
 - llm
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-edotenv-yc-s26-quant-trading-rl-envs-to
 first_seen: '2026-08-05T01:28:08.356424+05:30'
 last_seen: '2026-08-05T03:54:39.894866+05:30'
 last_checked: '2026-08-05T03:54:39.894866+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research
 

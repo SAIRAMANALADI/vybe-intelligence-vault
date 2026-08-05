@@ -13,13 +13,14 @@ collected_at: '2026-08-05T03:54:38.344961+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:security-incident-inc-2026-07-28-01-uk-ai-security
 first_seen: '2026-08-05T03:54:38.344961+05:30'
 last_seen: '2026-08-05T03:54:38.344961+05:30'
 last_checked: '2026-08-05T03:54:38.344961+05:30'
 health_score: 100
 ---
+
 
 # Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]
 

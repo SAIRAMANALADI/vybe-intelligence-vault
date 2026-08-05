@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:oxide-computer-raises-445m-sec-form-d
 first_seen: '2026-08-05T03:54:39.249505+05:30'
 last_seen: '2026-08-05T03:54:39.249505+05:30'
 last_checked: '2026-08-05T03:54:39.249505+05:30'
 health_score: 100
 ---
+
 
 # Oxide Computer raises $445M (SEC Form D)
 

@@ -3,9 +3,9 @@ title: AI for Research | Scite
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://scite.ai/
-published_at: '2026-08-03T03:55:43.213862+05:30'
-collected_at: '2026-08-03T03:55:43.213876+05:30'
+source_url: https://www.scite.ai
+published_at: '2026-08-05T09:12:11.557974+05:30'
+collected_at: '2026-08-05T09:12:11.557987+05:30'
 tags:
 - anthropic
 - dataset
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-for-research-scite
-first_seen: '2026-08-03T03:55:43.213876+05:30'
-last_seen: '2026-08-03T03:55:43.213876+05:30'
-last_checked: '2026-08-03T03:55:43.213876+05:30'
+first_seen: '2026-08-05T09:12:11.557987+05:30'
+last_seen: '2026-08-05T09:12:11.557987+05:30'
+last_checked: '2026-08-05T09:12:11.557987+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Database & Coverage**: Aggregates 300M+ scholarly items (articles, preprints, patents, datasets) with full-text search capability, licensed from 40+ publishers (e.g., Wiley, SAGE) and open-access sources.
+- **Database & Coverage**: Scite indexes **1.6B+ citations** across **300M+ articles, preprints, books, patents, datasets, clinical trials, and grants**, with direct publisher agreements (e.g., Wiley, SAGE) enabling full-text search beyond abstracts.
 
-- **Smart Citations & AI Assistant**: Uses 1.6B+ citation relationships to classify evidence as supporting, contrasting, or mentioning, enabling AI-generated answers grounded in verifiable literature snippets.
+- **Smart Citation Analysis**: Uses **Smart Citations** to classify later research as supporting, contrasting, or discussing prior claims, enabling verification of evidence strength and contextualizing findings within the broader literature.
 
-- **Cross-Domain Integration**: Supports workflows via API, Zotero plugin, MCP-compatible tools (Claude/ChatGPT), and browser extensions, extending beyond traditional journals to clinical trials, grants, and patents.
+- **AI Integration & Verification**: Provides an **AI Assistant** that generates answers grounded in cited literature, with **one-click verification** linking claims to specific sentences in source papers; integrates with tools like **Claude, ChatGPT, Zotero, and MCP-compatible systems**.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T03:55:43.213862+05:30
+- Published: 2026-08-05T09:12:11.557974+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://scite.ai/
+Original source: https://www.scite.ai

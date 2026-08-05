@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-05T03:56:14.310466+05:30'
+collected_at: '2026-08-05T09:05:13.422699+05:30'
 published_at: '2026-08-03T13:16:53Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-05T03:56:14.310466+05:30'
-last_seen: '2026-08-05T03:56:14.310466+05:30'
-last_checked: '2026-08-05T03:56:14.310466+05:30'
+first_seen: '2026-08-05T09:05:13.422699+05:30'
+last_seen: '2026-08-05T09:05:13.422699+05:30'
+last_checked: '2026-08-05T09:05:13.422699+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector-based similarity search with traditional keyword-based retrieval using LangChain and a vector store (e.g., FAISS or Chroma) for enhanced RAG performance.
-
-- **Streamlit UI**: Provides a web interface built with Streamlit to interact with the RAG pipeline, enabling users to input queries and visualize retrieved results.
-
-- **LangChain Pipeline**: Implements a retrieval-augmented generation workflow using LangChain’s modular components (e.g., retrievers, LLMs) to fetch contextually relevant documents and generate responses.
+- **Hybrid Search Integration**: Demonstrates combining vector store retrieval with traditional keyword-based search for enhanced RAG performance using LangChain.
+- **Streamlit UI**: Provides a frontend interface built with Streamlit to interact with the RAG pipeline, enabling user queries and response visualization.
+- **LangChain RAG Pipeline**: Implements a retrieval-augmented generation workflow using LangChain, leveraging a vector database for semantic search and hybrid retrieval techniques.
 
 ## Why It Matters
 

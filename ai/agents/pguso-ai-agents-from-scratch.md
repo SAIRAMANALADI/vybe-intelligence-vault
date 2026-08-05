@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-08-05T03:57:29.327542+05:30'
-published_at: '2026-08-04T19:16:24Z'
+collected_at: '2026-08-05T09:06:28.421143+05:30'
+published_at: '2026-08-05T02:15:07Z'
 tags:
 - agents
 - frontend_ui
@@ -14,7 +14,7 @@ tags:
 - javascript
 - meta-ai
 - models
-stars: 4468
+stars: 4470
 language: JavaScript
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-07-24T15:40:39Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-08-05T03:57:29.327542+05:30'
-last_seen: '2026-08-05T03:57:29.327542+05:30'
-last_checked: '2026-08-05T03:57:29.327542+05:30'
+first_seen: '2026-08-05T09:06:28.421143+05:30'
+last_seen: '2026-08-05T09:06:28.421143+05:30'
+last_checked: '2026-08-05T09:06:28.421143+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models and focusing on core concepts like function calling, memory management, and ReAct (Reasoning and Acting) patterns.
-
-- **Technical Implementation**: Utilizes **JavaScript** with **node-llama-cpp** for local LLM integration, enabling real-time agent development with explicit control over agent behavior, state, and interactions.
-
-- **Project Structure**: Covers agent architectures, including **React-agent** patterns, and includes practical examples for Node.js environments, targeting developers seeking deep technical understanding of AI agent mechanics.
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using JavaScript, emphasizing local LLMs (via `node-llama-cpp`) to avoid black-box dependencies.
+- **Core Technical Concepts**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to implement agentic behavior without abstractions.
+- **Tooling & Patterns**: Demonstrates integration with `node-llama-cpp` for local LLM inference and React-based agent architectures for real-world applications.
 
 ## Why It Matters
 
@@ -45,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 4468
+- Stars: 4470
 - Forks: 651
 - Language: JavaScript
 - Topics: ai-agents, educational, function-calling, llm, llm-agent, node-llama-cpp, react-agent, tutorial
-- Last Updated: 2026-08-04T19:16:24Z
+- Last Updated: 2026-08-05T02:15:07Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-23T19:39:04Z

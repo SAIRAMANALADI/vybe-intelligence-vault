@@ -3,12 +3,11 @@ title: LlamaIndex · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/run-llama/
-published_at: '2026-08-05T04:01:08.752193+05:30'
-collected_at: '2026-08-05T04:01:08.752204+05:30'
+source_url: https://github.com/run-llama
+published_at: '2026-08-05T09:10:26.597395+05:30'
+collected_at: '2026-08-05T09:10:26.597401+05:30'
 tags:
 - agents
-- hackernews
 - meta-ai
 - models
 - rag
@@ -17,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-08-05T04:01:08.752204+05:30'
-last_seen: '2026-08-05T04:01:08.752204+05:30'
-last_checked: '2026-08-05T04:01:08.752204+05:30'
+first_seen: '2026-08-05T09:10:26.597401+05:30'
+last_seen: '2026-08-05T09:10:26.597401+05:30'
+last_checked: '2026-08-05T09:10:26.597401+05:30'
 health_score: 100
 ---
 
@@ -27,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Integration**: LlamaParse offers state-of-the-art (SOTA) agentic OCR capabilities, enabling advanced document parsing for workflows and AI agents via cloud-based services (`Parse`, `Extract`) and platform documentation.
+- **LlamaParse Cloud Services**: Provides state-of-the-art (SOTA) agentic OCR via **Parse**, **Extract**, and a unified **Platform** for document processing workflows, optimized for AI/LLM integration (links: [Parse](https://www.llamaindex.ai/llamaparse), [Extract](https://www.llamaindex.ai/llamaextract), [Docs](https://developers.llamaindex.ai/python/cloud/)).
 
-- **Open-Source Toolchain**: Provides open-source components including `LiteParse` for lightweight parsing, `LlamaAgents` for agent orchestration, and the core `LlamaIndex` Python framework for document indexing and retrieval, each with dedicated documentation.
+- **Open-Source Tooling**: Offers **LiteParse** (lightweight OCR), **LlamaAgents** (modular agent framework), and **LlamaIndex (Python)** (core data framework) with full documentation and GitHub repositories for custom deployments.
 
-- **Multi-Channel Support**: Maintains active engagement across platforms (X/Twitter, LinkedIn, YouTube) for community interaction, updates, and technical dissemination.
+- **Community & Support**: Maintains active engagement via **X (Twitter)**, **LinkedIn**, and **YouTube** for updates, tutorials, and community-driven enhancements.
 
 ## Why It Matters
 
@@ -41,12 +40,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T04:01:08.752193+05:30
+- Published: 2026-08-05T09:10:26.597395+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - meta-ai
 - models
 - rag
@@ -56,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/run-llama/
+Original source: https://github.com/run-llama

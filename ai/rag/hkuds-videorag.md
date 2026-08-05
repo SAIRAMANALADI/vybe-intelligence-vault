@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-05T03:57:04.601969+05:30'
-published_at: '2026-08-04T15:40:14Z'
+collected_at: '2026-08-05T09:06:03.439990+05:30'
+published_at: '2026-08-05T02:15:22Z'
 tags:
-- dataset
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-05T03:57:04.601969+05:30'
-last_seen: '2026-08-05T03:57:04.601969+05:30'
-last_checked: '2026-08-05T03:57:04.601969+05:30'
+first_seen: '2026-08-05T09:06:03.439990+05:30'
+last_seen: '2026-08-05T09:06:03.439990+05:30'
+last_checked: '2026-08-05T09:06:03.439990+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, transcripts).
-
-- **Multi-Modal Integration**: Leverages advanced techniques to segment, embed, and retrieve relevant video segments dynamically, bridging gaps between visual, auditory, and textual modalities for coherent multi-turn video-based Q&A.
-
-- **Scalability & Efficiency**: Optimized for large-scale video datasets with hierarchical retrieval and adaptive chunking, reducing computational overhead while maintaining high accuracy in long-context video comprehension.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat with videos" via multi-modal retrieval and generation.
+- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs) and multi-modal techniques to process and query video content efficiently.
+- **Key Features**: Supports long-video comprehension, multi-modal input/output, and dynamic retrieval augmentation, optimized for scalability and real-time interaction.
 
 ## Why It Matters
 
@@ -48,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 461
 - Language: Python
 - Topics: large-language-models, llms, long-video-understanding, multi-modal-llms, rag, retrieval-augmented-generation
-- Last Updated: 2026-08-04T15:40:14Z
+- Last Updated: 2026-08-05T02:15:22Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-02-03T03:59:11Z

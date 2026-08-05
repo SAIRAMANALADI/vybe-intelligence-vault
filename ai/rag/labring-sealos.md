@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/labring/sealos
-collected_at: '2026-08-05T03:57:19.408734+05:30'
+collected_at: '2026-08-05T09:06:18.447819+05:30'
 published_at: '2026-08-04T08:37:46Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - typescript
 stars: 18314
@@ -19,9 +20,9 @@ archived: false
 created_at: '2018-08-15T12:22:50Z'
 pushed_at: '2026-08-04T12:55:33Z'
 resource_id: github:labring/sealos
-first_seen: '2026-08-05T03:57:19.408734+05:30'
-last_seen: '2026-08-05T03:57:19.408734+05:30'
-last_checked: '2026-08-05T03:57:19.408734+05:30'
+first_seen: '2026-08-05T09:06:18.447819+05:30'
+last_seen: '2026-08-05T09:06:18.447819+05:30'
+last_checked: '2026-08-05T09:06:18.447819+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Project Deployment & Management**: Enables deployment of GitHub projects or AI-generated code as containerized applications, with AI-driven operations for continuous uptime and scaling.
+- **Purpose**: Enables deployment of GitHub projects or AI-generated code as containerized applications, with AI-driven operational maintenance for continuous uptime.
 
-- **Kubernetes-Centric Infrastructure**: Leverages `kubeadm`, `IPVS`, and `kubernetes-ha` for high-availability cluster orchestration, supporting Docker and containerized workloads.
+- **Technical Stack**: Built in TypeScript with Go components; leverages Kubernetes (kubeadm, HA), Docker, and IPVS for orchestration and load balancing.
 
-- **Multi-Language & Tooling Support**: Primarily written in TypeScript, with Go components, facilitating seamless integration with cloud-native ecosystems (e.g., Docker, Kubernetes).
+- **Features**: Supports high-availability Kubernetes clusters, automated scaling, and AI-powered lifecycle management for deployed applications.
 
 ## Why It Matters
 

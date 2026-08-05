@@ -4,18 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://luma.com/langchain?k=c
-published_at: '2026-08-02T16:30:09.181112+05:30'
-collected_at: '2026-08-02T16:30:09.181125+05:30'
+published_at: '2026-08-05T09:10:47.677162+05:30'
+collected_at: '2026-08-05T09:10:47.677175+05:30'
 tags:
 - agents
 - hackernews
 - web-crawled
-- workflows
 status: active
 resource_id: blog:langchain-events-events-calendar
-first_seen: '2026-08-02T16:30:09.181125+05:30'
-last_seen: '2026-08-02T16:30:09.181125+05:30'
-last_checked: '2026-08-02T16:30:09.181125+05:30'
+first_seen: '2026-08-05T09:10:47.677175+05:30'
+last_seen: '2026-08-05T09:10:47.677175+05:30'
+last_checked: '2026-08-05T09:10:47.677175+05:30'
 health_score: 100
 ---
 
@@ -23,14 +22,14 @@ health_score: 100
 
 ## Summary
 
-- **LangChain Events Platform**: Aggregates community and LangChain-hosted events focused on LangChain technologies, with submission and approval workflows for event organizers.
+- **Event Aggregation Platform**: Luma provides a centralized calendar for discovering LangChain-hosted and community events, including meetups, conferences, and workshops focused on LangChain technologies and applications.
 
 - **Upcoming Events**:
-  - *LangChain NY Meetup: Building Agents with Agents* (New York, NY) – Covers multi-agent architectures.
-  - *LangChain NY Meetup: LLM Wikis and Managing Agent Context* (New York, NY) – Focuses on context management in LLM-based agents.
-  - *San Francisco Apache DataFusion Meetup* (Rincon Hill) – Covers DataFusion integration with LangChain.
+  - **LangChain NY Meetup**: "LLM Wikis and Managing Agent Context" (New York, NY) – Hosted by Amada (LangChain) & Brace Sproul.
+  - **LangChain Meetup**: "Building Great Agents" (Hamburg, Germany) – Hosted by Amada (LangChain) & Sinan Ezer.
+  - **Interrupt NYC/London**: "The Agent Conference by LangChain" (New York, NY & London, UK) – Hosted by LangChain.
 
-- **Event Management**: Events require admin approval before visibility; organizers can submit events via the platform’s submission portal.
+- **Event Submission & Moderation**: Users can submit events for approval, which are then listed on the calendar after moderation by the admin team.
 
 ## Why It Matters
 
@@ -40,14 +39,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T16:30:09.181112+05:30
+- Published: 2026-08-05T09:10:47.677162+05:30
 
 ## Related Tags
 
 - agents
 - hackernews
 - web-crawled
-- workflows
 
 ## Source
 

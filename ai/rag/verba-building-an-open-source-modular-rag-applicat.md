@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://weaviate.io/blog/verba-open-source-rag-app
-published_at: '2026-08-05T04:01:18.899449+05:30'
-collected_at: '2026-08-05T04:01:18.899462+05:30'
+published_at: '2026-08-05T09:10:28.060253+05:30'
+collected_at: '2026-08-05T09:10:28.060264+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:verba-building-an-open-source-modular-rag-applicat
-first_seen: '2026-08-05T04:01:18.899462+05:30'
-last_seen: '2026-08-05T04:01:18.899462+05:30'
-last_checked: '2026-08-05T04:01:18.899462+05:30'
+first_seen: '2026-08-05T09:10:28.060264+05:30'
+last_seen: '2026-08-05T09:10:28.060264+05:30'
+last_checked: '2026-08-05T09:10:28.060264+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Verba decomposes RAG into five modular components—`ReaderManager` (data ingestion), `ChunkerManager` (document splitting), `EmbeddingManager` (vectorization via Weaviate), `RetrieveManager` (context retrieval), and `GenerationManager` (LLM response synthesis)—each customizable for extensibility.
+- **Modular RAG Pipeline**: Verba decomposes RAG into five customizable stages—`ReaderManager` (data ingestion), `ChunkerManager` (document splitting), `EmbeddingManager` (vectorization via Weaviate), `RetrieveManager` (context retrieval), and `GenerationManager` (LLM response synthesis)—enabling plug-and-play component swaps for extensibility.
 
-- **Source Transparency**: Implements chunk-level citation with direct document/paragraph highlighting in the UI, enabling users to verify answer provenance and access raw sources for deeper validation.
+- **Source Transparency & Autocompletion**: Implements UI features to display highlighted text chunks and full document sources for answer provenance, alongside Weaviate-powered keyword search autocompletion to guide user queries.
 
-- **CRUD Data Management**: Provides a web-based interface for document ingestion, deletion, and status monitoring, abstracting complex ingestion pipelines while allowing parameter tuning for advanced use cases.
+- **CRUD Data Management**: Provides a web interface for direct document uploads, real-time data modification (create/read/update/delete), and a status page for system diagnostics, prioritizing usability without sacrificing modular customization.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T04:01:18.899449+05:30
+- Published: 2026-08-05T09:10:28.060253+05:30
 
 ## Related Tags
 

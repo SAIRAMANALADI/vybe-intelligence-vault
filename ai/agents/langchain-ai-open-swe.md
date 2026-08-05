@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-05T01:31:23.995493+05:30'
-published_at: '2026-08-04T19:19:23Z'
+collected_at: '2026-08-05T09:06:43.515610+05:30'
+published_at: '2026-08-05T02:02:08Z'
 tags:
 - agents
 - anthropic
@@ -19,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-08-04T16:32:53Z'
+pushed_at: '2026-08-05T02:27:08Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-05T01:31:23.995493+05:30'
-last_seen: '2026-08-05T01:31:23.995493+05:30'
-last_checked: '2026-08-05T01:31:23.995493+05:30'
+first_seen: '2026-08-05T09:06:43.515610+05:30'
+last_seen: '2026-08-05T09:06:43.515610+05:30'
+last_checked: '2026-08-05T09:06:43.515610+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent Framework**: Open-SWE is an open-source Python-based framework designed for building asynchronous coding agents, enabling parallel task execution and non-blocking I/O operations for efficient LLM-driven development workflows.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for real-time code generation and editing using LLM APIs (OpenAI, Anthropic) with non-blocking I/O for scalable multi-tasking.
 
-- **Multi-Provider LLM Integration**: Supports asynchronous interactions with multiple LLM providers (e.g., OpenAI, Anthropic, ClaudeCode) via standardized APIs, facilitating dynamic agent behavior and tool usage across heterogeneous model ecosystems.
+- **Multi-Agent Orchestration**: Supports dynamic agent collaboration via LangChain’s framework, enabling parallelized task decomposition, tool usage (e.g., file I/O, shell commands), and state management for complex workflows.
 
-- **Scalable Agent Architecture**: Implements modular agent components with event-driven task orchestration, allowing horizontal scaling for concurrent code generation, testing, and debugging tasks in distributed environments.
+- **Extensible Tooling**: Integrates with ClaudeCode and other LLM backends, featuring modular plugin support for custom tools, async-first error handling, and persistent session management via SQLite for state recovery.
 
 ## Why It Matters
 
@@ -48,11 +48,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 1214
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-04T19:19:23Z
+- Last Updated: 2026-08-05T02:02:08Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-08-04T16:32:53Z
+- Pushed At: 2026-08-05T02:27:08Z
 
 ## Possible Use Cases
 

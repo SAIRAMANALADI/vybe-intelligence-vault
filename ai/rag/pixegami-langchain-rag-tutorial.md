@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-08-05T03:55:39.255663+05:30'
+collected_at: '2026-08-05T09:04:38.374089+05:30'
 published_at: '2026-08-02T10:53:22Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 980
@@ -18,9 +17,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-08-05T03:55:39.255663+05:30'
-last_seen: '2026-08-05T03:55:39.255663+05:30'
-last_checked: '2026-08-05T03:55:39.255663+05:30'
+first_seen: '2026-08-05T09:04:38.374089+05:30'
+last_seen: '2026-08-05T09:04:38.374089+05:30'
+last_checked: '2026-08-05T09:04:38.374089+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain-based RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM generation.
-- **Python-Based Stack**: Utilizes Python with LangChain, likely leveraging libraries like `langchain`, `pypdf`, `faiss` (or similar) for vector storage, and an LLM backend (e.g., Hugging Face or OpenAI APIs).
-- **Tutorial Structure**: Provides a step-by-step guide for building a RAG system, including document loading, text splitting, embedding generation, vector database indexing, and query-based retrieval.
+- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM-based generation.
+- **Python-Based**: Built entirely in Python, leveraging LangChain’s modular framework for document processing, vector storage, and query handling.
+- **GitHub Repository**: Actively maintained with 980 stars and 521 forks; last updated August 2, 2026.
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pixegami
 - Stars: 980
-- Forks: 522
+- Forks: 521
 - Language: Python
 - Topics: None
 - Last Updated: 2026-08-02T10:53:22Z

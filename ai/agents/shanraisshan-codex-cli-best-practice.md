@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-05T03:57:59.393299+05:30'
+collected_at: '2026-08-05T09:06:58.440560+05:30'
 published_at: '2026-08-04T12:21:57Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
 - scripts
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-05T03:57:59.393299+05:30'
-last_seen: '2026-08-05T03:57:59.393299+05:30'
-last_checked: '2026-08-05T03:57:59.393299+05:30'
+first_seen: '2026-08-05T09:06:58.440560+05:30'
+last_seen: '2026-08-05T09:06:58.440560+05:30'
+last_checked: '2026-08-05T09:06:58.440560+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Focus**: Provides best practices for transitioning from *vibe coding* to *agentic engineering* using OpenAI's Codex CLI, emphasizing structured workflows and automation.
-- **Key Components**: Includes `codex-cli-agents`, `hooks`, `skills`, and `context-engineering` for modular AI-driven development and enhanced productivity.
-- **Technical Scope**: Python-based repository with CLI commands, agentic workflows, and OpenAI integration for scalable AI agent orchestration.
+- **Agentic Workflow Integration**: Demonstrates transition from vibe coding to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based command execution for AI-driven development workflows.
+
+- **Codex CLI Best Practices**: Provides a curated repository of optimized Codex CLI commands, agent templates, and skill configurations to enhance AI agent autonomy, reproducibility, and efficiency in coding tasks.
+
+- **Open-Source Contribution Framework**: Showcases a Pakistani developer-led initiative with structured guidelines for integrating OpenAI Codex into CLI-based agentic systems, including documentation for context management and hook-based automation.
 
 ## Why It Matters
 

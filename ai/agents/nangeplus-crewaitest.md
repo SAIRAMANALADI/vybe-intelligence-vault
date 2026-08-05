@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-05T03:59:44.433315+05:30'
+collected_at: '2026-08-05T09:08:43.567408+05:30'
 published_at: '2026-08-04T13:40:16Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - meta-ai
 - models
 - python
+- workflows
 stars: 352
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-05T03:59:44.433315+05:30'
-last_seen: '2026-08-05T03:59:44.433315+05:30'
-last_checked: '2026-08-05T03:59:44.433315+05:30'
+first_seen: '2026-08-05T09:08:43.567408+05:30'
+last_seen: '2026-08-05T09:08:43.567408+05:30'
+last_checked: '2026-08-05T09:08:43.567408+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements a collaborative multi-agent architecture using CrewAI, enabling task delegation and coordination among specialized agents.
+- **Multi-Agent Collaboration Framework**: Implements a CrewAI-based system with FastAPI to deploy collaborative AI agents, enabling parallel task execution and inter-agent communication via RESTful APIs.
 
-- **API Integration**: Exposes FastAPI endpoints to provide external access to the multi-agent system, supporting both cloud-based (e.g., GPT) and local (e.g., Ollama) large language models.
+- **Multi-Model Support**: Integrates APIs for proprietary (e.g., GPT) and open-source/Chinese large language models (LLMs), including Ollama for local deployment, with dynamic model selection at runtime.
 
-- **Model Agnostic**: Supports heterogeneous LLM backends, including proprietary (e.g., GPT) and open-source (e.g., Ollama) models, with configurable model selection.
+- **Production-Ready API Service**: Exposes agent workflows as scalable endpoints, supporting concurrent requests, model switching, and stateful agent interactions with last update timestamp (2026-08-04).
 
 ## Why It Matters
 

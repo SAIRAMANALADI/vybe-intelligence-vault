@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/embeddings-benchmark/mteb
-collected_at: '2026-08-03T20:54:17.516799+05:30'
-published_at: '2026-08-02T15:57:59Z'
+collected_at: '2026-08-05T09:10:31.063033+05:30'
+published_at: '2026-08-04T23:33:17Z'
 tags:
 - benchmark
 - dataset
@@ -13,17 +13,17 @@ tags:
 - leaderboard
 - python
 - rag
-stars: 3383
+stars: 3385
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2022-04-05T08:25:47Z'
-pushed_at: '2026-08-03T13:13:55Z'
+pushed_at: '2026-08-04T20:11:32Z'
 resource_id: github:embeddings-benchmark/mteb
-first_seen: '2026-08-03T20:54:17.516799+05:30'
-last_seen: '2026-08-03T20:54:17.516799+05:30'
-last_checked: '2026-08-03T20:54:17.516799+05:30'
+first_seen: '2026-08-05T09:10:31.063033+05:30'
+last_seen: '2026-08-05T09:10:31.063033+05:30'
+last_checked: '2026-08-05T09:10:31.063033+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Evaluation Framework**: MTEB provides a standardized benchmark for evaluating text and multimodal embeddings across diverse tasks including retrieval, clustering, classification, reranking, STS, bitext mining, and more, supporting 100+ languages and multiple modalities.
-
-- **Modular and Extensible Design**: Implements a Python-based architecture with modular task-specific evaluation protocols, enabling seamless integration of new datasets, models, and evaluation metrics while maintaining reproducibility.
-
-- **State-of-the-Art Tracking**: Continuously updated (last commit: 2026-08-02) to track advancements in multilingual and multimodal embedding models, offering leaderboards and performance metrics for leading architectures like Sentence-BERT and neural search frameworks.
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15 tasks** (e.g., retrieval, clustering, STS, reranking) spanning **100+ datasets** in **100+ languages**, supporting **multilingual** and **multimodal** evaluation.
+- **Modular Architecture**: Implements a **unified Python framework** with standardized APIs for embedding models (e.g., Sentence-BERT, SBERT), enabling fair cross-model comparisons with **reproducible metrics**.
+- **State-of-the-Art Tracking**: Maintains a **leaderboard** for embedding models, including **low-resource NLP** and **bitext mining**, with automated updates via CI/CD pipelines.
 
 ## Why It Matters
 
@@ -44,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: embeddings-benchmark
-- Stars: 3383
-- Forks: 655
+- Stars: 3385
+- Forks: 654
 - Language: Python
 - Topics: benchmark, bitext-mining, clustering, embeddings, evaluation, information-retrieval, low-resource-nlp, mteb, multilingual-nlp, multimodal, neural-search, reranking, retrieval, sbert, semantic-search, sentence-transformers, sts, text-classification, text-embedding
-- Last Updated: 2026-08-02T15:57:59Z
+- Last Updated: 2026-08-04T23:33:17Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2022-04-05T08:25:47Z
-- Pushed At: 2026-08-03T13:13:55Z
+- Pushed At: 2026-08-04T20:11:32Z
 
 ## Possible Use Cases
 

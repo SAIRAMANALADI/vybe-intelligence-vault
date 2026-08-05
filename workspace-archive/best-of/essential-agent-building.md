@@ -63,10 +63,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`golf-mcp-golf.md`](../../ai/agents/golf-mcp-golf.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
-- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sonarsource-sonarqube-mcp-server.md`](../../ai/agents/sonarsource-sonarqube-mcp-server.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [kylestratis/ai_agents_mcp_examples](https://github.com/kylestratis/ai_agents_mcp_examples)
+- **Category**: `ai/agents` | **Kind**: `TOOL` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`kylestratis-ai-agents-mcp-examples.md`](../../ai/agents/kylestratis-ai-agents-mcp-examples.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-05 04:12 IST*
+*Last updated: 2026-08-05 09:23 IST*

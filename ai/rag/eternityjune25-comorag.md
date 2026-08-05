@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-05T03:57:09.445483+05:30'
+collected_at: '2026-08-05T09:06:08.406444+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-05T03:57:09.445483+05:30'
-last_seen: '2026-08-05T03:57:09.445483+05:30'
-last_checked: '2026-08-05T03:57:09.445483+05:30'
+first_seen: '2026-08-05T09:06:08.406444+05:30'
+last_seen: '2026-08-05T09:06:08.406444+05:30'
+last_checked: '2026-08-05T09:06:08.406444+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning by structuring memory hierarchically for dynamic context retention.
+- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization (e.g., episodic/semantic memory) to enable stateful, long-form narrative reasoning.
 
-- **Stateful Reasoning**: Implements episodic and semantic memory modules to maintain coherent reasoning across extended dialogues or narratives, addressing limitations of traditional RAG in sequential dependency tracking.
+- **Memory-Organized Retrieval**: Implements hierarchical memory structures with dynamic indexing to optimize retrieval of contextually relevant information across extended dialogues or narratives, reducing redundancy and improving coherence.
 
-- **AAAI 2026 Poster**: Presented as a novel approach for scalable, memory-efficient RAG systems, with Python-based implementation optimized for long-form reasoning tasks in generative AI applications.
+- **Stateful Reasoning**: Enables tracking of narrative state and dependencies over time, leveraging memory updates and retrieval policies to maintain consistency in multi-turn reasoning tasks (e.g., summarization, QA).
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lgesuellip/langgraph-whatsapp-agent
-collected_at: '2026-08-05T01:32:59.054878+05:30'
+collected_at: '2026-08-05T09:08:18.540176+05:30'
 published_at: '2026-07-28T14:06:38Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-11T15:05:10Z'
 pushed_at: '2025-06-10T19:14:06Z'
 resource_id: github:lgesuellip/langgraph-whatsapp-agent
-first_seen: '2026-08-05T01:32:59.054878+05:30'
-last_seen: '2026-08-05T01:32:59.054878+05:30'
-last_checked: '2026-08-05T01:32:59.054878+05:30'
+first_seen: '2026-08-05T09:08:18.540176+05:30'
+last_seen: '2026-08-05T09:08:18.540176+05:30'
+last_checked: '2026-08-05T09:08:18.540176+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Integration**: Template for deploying AI agents on WhatsApp using **LangGraph** (graph-based workflows) and **Twilio** (WhatsApp API integration), with support for MCP (Model Context Protocol) and LangGraph Platform deployment.
-
-- **Multimodal Processing**: Agents process both **text messages and images**, enabling end-to-end AI-driven interactions via WhatsApp.
-
-- **Custom Graph-Based Logic**: Enables invocation of **custom agent graphs** for dynamic, stateful workflows (e.g., multi-step tasks, tool calls) while maintaining scalability.
+- **Framework Integration**: Template for deploying AI agents on WhatsApp using **LangGraph** (graph-based workflows) and **Twilio** (WhatsApp API integration).
+- **Multi-Modal Processing**: Supports text and image inputs, enabling agents to handle both message types via WhatsApp.
+- **MCP & LangGraph Platform**: Integrates **Model Context Protocol (MCP)** for tool/function calling and deploys agents on the **LangGraph Platform** for scalable execution.
 
 ## Why It Matters
 

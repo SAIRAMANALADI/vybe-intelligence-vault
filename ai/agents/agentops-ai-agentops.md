@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-08-05T03:58:24.451092+05:30'
+collected_at: '2026-08-05T09:07:23.519906+05:30'
 published_at: '2026-08-03T18:19:46Z'
 tags:
 - agents
 - anthropic
 - benchmark
 - github-repo
+- hackernews
 - meta-ai
 - mistral
 - models
@@ -25,9 +26,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-08-05T03:58:24.451092+05:30'
-last_seen: '2026-08-05T03:58:24.451092+05:30'
-last_checked: '2026-08-05T03:58:24.451092+05:30'
+first_seen: '2026-08-05T09:07:23.519906+05:30'
+last_seen: '2026-08-05T09:07:23.519906+05:30'
+last_checked: '2026-08-05T09:07:23.519906+05:30'
 health_score: 100
 ---
 
@@ -35,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework SDK**: Python-based monitoring tool for AI agents, supporting integration with CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI, alongside most LLMs (Anthropic, Mistral, Groq, Ollama, OpenAI, etc.).
+- **Multi-framework & LLM Integration**: Python SDK supporting monitoring, cost tracking, and benchmarking across major LLM providers (OpenAI, Anthropic, Mistral, Groq) and agent frameworks (CrewAI, LangChain, Autogen, OpenAI Agents SDK, AG2, CamelAI, Agno, Ollama).
 
-- **Cost & Performance Tracking**: Enables real-time LLM cost estimation, benchmarking, and evaluation metrics (e.g., token usage, latency, and accuracy) for agent workflows.
+- **Core Features**: Real-time agent monitoring, LLM token/cost estimation, performance benchmarking, and evaluation metrics with built-in evals for agentic workflows.
 
-- **Scalable Monitoring**: Provides observability features (e.g., logs, traces, and metrics) to debug, optimize, and audit AI agent systems in production environments.
+- **Technical Specs**: Open-source (MIT License), actively maintained (last update: 2026-08-03), with 5.7k+ GitHub stars and 613 forks, optimized for Python 3.x environments.
 
 ## Why It Matters
 

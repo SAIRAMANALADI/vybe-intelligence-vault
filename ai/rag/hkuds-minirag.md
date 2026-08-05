@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-05T03:56:04.277460+05:30'
-published_at: '2026-08-04T10:38:19Z'
+collected_at: '2026-08-05T09:05:03.381385+05:30'
+published_at: '2026-08-05T02:04:59Z'
 tags:
 - benchmark
 - github-repo
-- meta-ai
 - models
 - python
 - rag
-stars: 1995
+stars: 1994
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-05T03:56:04.277460+05:30'
-last_seen: '2026-08-05T03:56:04.277460+05:30'
-last_checked: '2026-08-05T03:56:04.277460+05:30'
+first_seen: '2026-08-05T09:05:03.381385+05:30'
+last_seen: '2026-08-05T09:05:03.381385+05:30'
+last_checked: '2026-08-05T09:05:03.381385+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
-
-- **Architectural Efficiency**: Optimizes retrieval and generation stages by integrating lightweight embedding models (e.g., `bge-small-en-v1.5`) and distilled LLMs (e.g., `TinyLlama-1.1B`), enabling deployment on consumer-grade hardware.
-
-- **Open-Source Toolkit**: Provides a modular Python-based implementation with pre-trained models, retrieval tools, and evaluation scripts, facilitating reproducibility and customization for downstream tasks.
+- Introduces **MiniRAG**, a simplified RAG framework leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining performance comparable to larger models.
+- Proposes **modular design** with lightweight retrieval, reranking, and generation components, enabling efficient deployment on edge devices or low-resource environments.
+- Demonstrates **competitive results** on benchmark tasks (e.g., question answering, knowledge-intensive tasks) with minimal fine-tuning, validated in ACL2026 experiments.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 1995
+- Stars: 1994
 - Forks: 257
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-08-04T10:38:19Z
+- Last Updated: 2026-08-05T02:04:59Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-11T13:24:14Z

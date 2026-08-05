@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-05T03:56:44.316131+05:30'
+collected_at: '2026-08-05T09:05:43.406544+05:30'
 published_at: '2026-08-03T02:27:54Z'
 tags:
 - benchmark
@@ -13,6 +13,7 @@ tags:
 - hackernews
 - rag
 - unknown
+- workflows
 stars: 495
 language: Unknown
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-05T03:56:44.316131+05:30'
-last_seen: '2026-08-05T03:56:44.316131+05:30'
-last_checked: '2026-08-05T03:56:44.316131+05:30'
+first_seen: '2026-08-05T09:05:43.406544+05:30'
+last_seen: '2026-08-05T09:05:43.406544+05:30'
+last_checked: '2026-08-05T09:05:43.406544+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling assessment of enterprise-specific RAG performance.
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and internal search applications.
-- **Technical Scope**: Supports Python-based RAG evaluation with tools for large language model (LLM) assessment, retrieval quality metrics, and generative AI performance analysis in enterprise contexts.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
+- **Key Features**: Includes synthetic data generation for internal knowledge bases, supports evaluation of semantic search, information retrieval, and LLM question-answering in enterprise contexts.
+- **Technical Scope**: Implements Python-based tools for RAG evaluation, covering large language models (LLMs), retrieval mechanisms, and generative AI workflows optimized for enterprise search.
 
 ## Why It Matters
 

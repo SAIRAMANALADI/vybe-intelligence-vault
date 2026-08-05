@@ -9,7 +9,7 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 ## Top Matched Resources
 
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (template - USEFUL Tier)
-- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (tutorial - USEFUL Tier)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (mcp-server - USEFUL Tier)
 - [deepagents/examples/llm-wiki at main · langchain-ai/deepagents · GitHub](https://github.com/langchain-ai/deepagents/tree/main/examples/llm-wiki) (dataset - USEFUL Tier)
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (tutorial - USEFUL Tier)
 - [How Anthropic teams use Claude Code | Claude by Anthropic](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code) (tutorial - USEFUL Tier)
@@ -41,4 +41,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-08-05 04:12 IST*
+*Last updated: 2026-08-05 09:22 IST*

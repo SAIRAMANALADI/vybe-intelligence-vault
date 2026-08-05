@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-05T03:57:14.380111+05:30'
+collected_at: '2026-08-05T09:06:13.443599+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-05T03:57:14.380111+05:30'
-last_seen: '2026-08-05T03:57:14.380111+05:30'
-last_checked: '2026-08-05T03:57:14.380111+05:30'
+first_seen: '2026-08-05T09:06:13.443599+05:30'
+last_seen: '2026-08-05T09:06:13.443599+05:30'
+last_checked: '2026-08-05T09:06:13.443599+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts code for three multimodal embedding benchmarks: VLM2Vec/MMEB (ICLR 2025), VLM2Vec-V2/MMEB-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on contrastive learning and representation learning for vision-language models (VLMs).
+- **VLM2Vec Framework**: Implements three versions (ICLR 2025, TMLR 2026, COLM 2026) of a contrastive learning-based method for generating multimodal embeddings from Vision-Language Models (VLMs), evaluated on the MMEB benchmark suite.
 
-- **Technical Scope**: Supports multimodal tasks including image retrieval, video retrieval, and visual document retrieval, leveraging contrastive learning frameworks for embedding generation.
+- **Benchmark Suite (MMEB)**: Provides standardized evaluation for multimodal embedding tasks including image retrieval, video retrieval, and visual document retrieval, with progressive versions (MMEB, MMEB-V2, MMEB-V3) expanding task coverage and metrics.
 
-- **Implementation**: Python-based repository with tools for benchmarking (MMEB), multimodal embedding evaluation, and retrieval tasks, last updated July 2026.
+- **Applications & Tools**: Supports Retrieval-Augmented Generation (RAG), multimodal representation learning, and cross-modal retrieval, with Python-based implementation optimized for scalability and extensibility.
 
 ## Why It Matters
 

@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/neuml/txtai
-collected_at: '2026-08-04T22:42:32.568896+05:30'
-published_at: '2026-08-04T16:35:37Z'
+collected_at: '2026-08-05T09:10:26.109940+05:30'
+published_at: '2026-08-05T02:22:44Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
+- scripts
 - workflows
-stars: 12790
+stars: 12795
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +22,9 @@ archived: false
 created_at: '2020-08-09T19:14:59Z'
 pushed_at: '2026-08-04T16:30:55Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-08-04T22:42:32.568896+05:30'
-last_seen: '2026-08-04T22:42:32.568896+05:30'
-last_checked: '2026-08-04T22:42:32.568896+05:30'
+first_seen: '2026-08-05T09:10:26.109940+05:30'
+last_seen: '2026-08-05T09:10:26.109940+05:30'
+last_checked: '2026-08-05T09:10:26.109940+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Capabilities**: txtai is a Python-based AI framework integrating semantic search, LLM orchestration, and language model workflows with support for agents, RAG, and vector search.
-- **Key Features**: Supports embeddings, transformers, sentence embeddings, and vector databases for information retrieval and NLP tasks.
-- **Technical Stack**: Built on Python with integrations for large language models, transformers, and vector search engines, last updated in August 2026.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system.
+- **Key Features**: Supports embeddings, vector search, RAG, transformers, and NLP tasks with built-in agents and sentence embeddings.
+- **Technical Stack**: Leverages vector databases, large language models (LLMs), and retrieval-augmented generation (RAG) for scalable AI-driven search and automation.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: neuml
-- Stars: 12790
+- Stars: 12795
 - Forks: 853
 - Language: Python
 - Topics: agents, ai, ai-agents, embeddings, information-retrieval, language-model, large-language-models, llm, nlp, python, rag, retrieval-augmented-generation, search, search-engine, semantic-search, sentence-embeddings, transformers, txtai, vector-database, vector-search
-- Last Updated: 2026-08-04T16:35:37Z
+- Last Updated: 2026-08-05T02:22:44Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2020-08-09T19:14:59Z

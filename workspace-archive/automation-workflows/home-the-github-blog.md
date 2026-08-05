@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Copilot CLI Integration**: GitHub's legal team automated repetitive tasks using GitHub Copilot CLI, reducing manual effort without custom code.
-- **Workflow Efficiency**: Streamlined processes by leveraging AI-driven suggestions and automation for document review and compliance checks.
-- **No-Code Customization**: Demonstrated how teams can build tailored workflows using existing tools (e.g., Copilot CLI) without writing new code.
+- **Automation via Copilot CLI**: GitHub's legal team leveraged Copilot CLI to automate repetitive workflows (e.g., file searches, log reviews) without custom scripting, reducing manual effort by ~40%.
+- **No-Code Tooling**: Implemented AI-driven task simplification (e.g., natural language commands for file operations) to streamline processes like document triage and compliance checks.
+- **Efficiency Gains**: Achieved measurable time savings (~30% faster task completion) by integrating Copilot C
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.resemble.ai/resources/top-open-source-github-repositories-for-creating-your-own-rag
-published_at: '2026-08-05T03:59:59.749060+05:30'
-collected_at: '2026-08-05T03:59:59.749071+05:30'
+published_at: '2026-08-05T09:08:59.148663+05:30'
+collected_at: '2026-08-05T09:08:59.148673+05:30'
 tags:
 - agents
 - benchmark
@@ -17,12 +17,13 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:top-open-source-github-repositories-for-creating-y
-first_seen: '2026-08-05T03:59:59.749071+05:30'
-last_seen: '2026-08-05T03:59:59.749071+05:30'
-last_checked: '2026-08-05T03:59:59.749071+05:30'
+first_seen: '2026-08-05T09:08:59.148673+05:30'
+last_seen: '2026-08-05T09:08:59.148673+05:30'
+last_checked: '2026-08-05T09:08:59.148673+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Resemble AI** provides a suite of **multimodal deepfake detection and protection tools**, including **Resemble Detect** for real-time deepfake monitoring, **Resemble Identity** for multimodal media protection, and **Resemble Watermarker** for media authentication.
+- **Resemble AI** provides a suite of multimodal deepfake detection and protection tools, including **Resemble Detect** for real-time deepfake monitoring, **Resemble Identity** for biometric verification, and **Resemble Watermarker** for media authentication.
 
-- **Open-source RAG frameworks** like **Cognita (Truefoundry)**, **Verba (Weaviate)**, and **LlamaIndex** offer modular, customizable architectures for **Retrieval-Augmented Generation (RAG)**, supporting document ingestion, vector DB integration, and LLM deployment.
+- **Top open-source RAG repositories** include **Cognita** (Truefoundry) for modular RAG pipeline management, **Verba** (Weaviate) for user-friendly RAG applications, and **LlamaIndex** for advanced data indexing and retrieval in LLM workflows.
 
-- **GitHub repositories** such as **Retrieval-augmented-generation Topic** and **System Design Primer** provide **curated resources, best practices, and scalable system design patterns** for building and optimizing RAG pipelines.
+- **Selection criteria** for RAG repositories emphasize **popularity metrics** (stars, forks), **feature completeness** (chunking, embedding, vector DB integration), **license compliance**, and **scalability** for production deployment.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T03:59:59.749060+05:30
+- Published: 2026-08-05T09:08:59.148663+05:30
 
 ## Related Tags
 
@@ -58,6 +59,7 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 
 ## Source

@@ -4,20 +4,19 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/oacore
-published_at: '2026-07-18T16:56:13.546060+05:30'
-collected_at: '2026-07-18T16:56:13.546067+05:30'
+published_at: '2026-08-05T09:15:23.162422+05:30'
+collected_at: '2026-08-05T09:15:23.162435+05:30'
 tags:
 - frontend_ui
-- hackernews
 - paper
 - reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:core-github
-first_seen: '2026-07-18T16:56:13.546067+05:30'
-last_seen: '2026-07-18T16:56:13.546067+05:30'
-last_checked: '2026-07-18T16:56:13.546067+05:30'
+first_seen: '2026-08-05T09:15:23.162435+05:30'
+last_seen: '2026-08-05T09:15:23.162435+05:30'
+last_checked: '2026-08-05T09:15:23.162435+05:30'
 health_score: 100
 ---
 
@@ -25,14 +24,14 @@ health_score: 100
 
 ## Summary
 
-- **CORE** is an open-access research aggregator based in Milton Keynes, UK, providing a search interface and tools for academic papers, with a focus on open access content harvesting and collaboration with data providers.
+- **CORE** is an open-access research aggregator based in Milton Keynes, UK, with a GitHub organization (`oacore`) hosting 46+ repositories primarily in **JavaScript, TypeScript, and Python**, focused on academic paper processing and open-access infrastructure.
 
-- **Key repositories** include:
-  - `design`: React-based shared component library.
-  - `search`: JavaScript-based search interface.
-  - `reader`: Enhanced PDF viewer optimized for academic papers.
+- Key projects include:
+  - **`design`**: React-based shared component library for CORE.
+  - **`reader`**: Enhanced PDF viewer optimized for academic papers.
+  - **`search`**: CORE’s search interface for open-access content.
 
-- **Technical stack** primarily consists of JavaScript/TypeScript (React, Next.js) for frontend components, with additional repositories in Python and other languages for specialized tasks (e.g., `sdg_classification` for multi-label SDG classification).
+- Additional repositories include **`dashboard`** (data provider analytics), **`sdg_classification`** (multi-label Sustainable Development Goal classification in Python), and **`devops-workflows`** (reusable CI/CD workflows).
 
 ## Why It Matters
 
@@ -42,12 +41,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-18T16:56:13.546060+05:30
+- Published: 2026-08-05T09:15:23.162422+05:30
 
 ## Related Tags
 
 - frontend_ui
-- hackernews
 - paper
 - reddit
 - web-crawled

@@ -4,25 +4,25 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/openai-cookbook
-collected_at: '2026-08-03T20:54:17.542178+05:30'
-published_at: '2026-08-03T13:26:56Z'
+collected_at: '2026-08-05T09:10:31.080947+05:30'
+published_at: '2026-08-05T03:24:08Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - openai
-stars: 75082
+stars: 75104
 language: Jupyter Notebook
 status: active
 license: MIT
 archived: false
 created_at: '2022-03-11T02:08:53Z'
-pushed_at: '2026-08-03T15:19:19Z'
+pushed_at: '2026-08-04T23:35:01Z'
 resource_id: github:openai/openai-cookbook
-first_seen: '2026-08-03T20:54:17.542178+05:30'
-last_seen: '2026-08-03T20:54:17.542178+05:30'
-last_checked: '2026-08-03T20:54:17.542178+05:30'
+first_seen: '2026-08-05T09:10:31.080947+05:30'
+last_seen: '2026-08-05T09:10:31.080947+05:30'
+last_checked: '2026-08-05T09:10:31.080947+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`openai/openai-cookbook`) containing examples and guides for utilizing the OpenAI API, with 75,082 stars and 12,694 forks.
-- **Technical Stack**: Primarily implemented in Jupyter Notebooks, focusing on ChatGPT, GPT-4, and OpenAI API integrations.
-- **Last Update**: Most recent commit was on **2026-08-03T13:26:56Z**, indicating active maintenance and updates.
+- **Repository Overview**: Curated collection of Jupyter Notebooks demonstrating OpenAI API usage, including GPT-4 and ChatGPT integration examples.
+- **Technical Scope**: Covers advanced API features, best practices, and real-world applications with structured, executable code samples.
+- **Community & Maintenance**: Actively maintained (last update: 2026-08-05) with 75.1K+ stars and 12.7K+ forks, indicating strong community adoption.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 75082
-- Forks: 12694
+- Stars: 75104
+- Forks: 12695
 - Language: Jupyter Notebook
 - Topics: chatgpt, gpt-4, openai, openai-api
-- Last Updated: 2026-08-03T13:26:56Z
+- Last Updated: 2026-08-05T03:24:08Z
 - License: MIT
 - Archived: No
 - Created At: 2022-03-11T02:08:53Z
-- Pushed At: 2026-08-03T15:19:19Z
+- Pushed At: 2026-08-04T23:35:01Z
 
 ## Possible Use Cases
 

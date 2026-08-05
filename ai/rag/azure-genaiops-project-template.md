@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-05T03:55:54.318788+05:30'
+collected_at: '2026-08-05T09:04:53.397825+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
+- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-05T03:55:54.318788+05:30'
-last_seen: '2026-08-05T03:55:54.318788+05:30'
-last_checked: '2026-08-05T03:55:54.318788+05:30'
+first_seen: '2026-08-05T09:04:53.397825+05:30'
+last_seen: '2026-08-05T09:04:53.397825+05:30'
+last_checked: '2026-08-05T09:04:53.397825+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure using **Bicep** for infrastructure-as-code (IaC) orchestration.
-- **Key Components**: Includes pre-configured Azure resources (e.g., **Azure OpenAI, Cosmos DB, Cognitive Search, AKS**) to enable **end-to-end RAG workflows** with monitoring and CI/CD integration.
-- **Deployment**: Leverages **Bicep modules** for modular, repeatable deployments of GenAIOps components with support for **scalability, security, and observability** best practices.
+- **Bicep-based IaC Template**: Provides infrastructure-as-code (IaC) for deploying a Generative AI Ops RAG (Retrieval-Augmented Generation) project on Azure, leveraging Bicep for declarative resource provisioning.
+
+- **RAG Pipeline Integration**: Pre-configured with components for RAG workflows, including vector databases, embedding models, and LLM inference endpoints, enabling end-to-end generative AI operations.
+
+- **Ops-Ready Features**: Includes CI/CD pipelines (via GitHub Actions), monitoring (Azure Monitor), and security (RBAC, Key Vault) for scalable, production-grade GenAI deployments.
 
 ## Why It Matters
 

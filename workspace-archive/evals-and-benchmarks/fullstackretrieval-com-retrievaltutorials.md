@@ -2,10 +2,10 @@
 title: RetrievalTutorials/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
   at main · FullStackRetrieval-com/Ret
 archive_category: evals-and-benchmarks
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
 resource_id: github:fullstackretrieval-com/retrievaltutorials
-local_vault_path: ai/rag/fullstackretrieval-com-retrievaltutorials.md
+local_vault_path: ai/resources/fullstackretrieval-com-retrievaltutorials.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
@@ -13,7 +13,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - hackernews
-- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: GitHub repository `RetrievalTutorials` by `FullStackRetrieval-com` with 238 forks and 1.5k stars, containing tutorials on text splitting techniques for retrieval systems.
+- GitHub repository `RetrievalTutorials` by `FullStackRetrieval-com` contains 2901-line Jupyter notebook (`5_Levels_Of_Text_Splitting.ipynb`) focused on text splitting techniques for retrieval systems.
 
-- **Tutorial Focus**: Jupyter Notebook (`5_Levels_Of_Text_Splitting.ipynb`) with 2901 lines (330 KB) detailing five hierarchical levels of text splitting strategies for optimizing retrieval performance.
+- The notebook is part of a structured tutorial series (`LevelsOfTextSplitting`) covering progressive methods for document segmentation in retrieval pipelines.
 
-- **Content Scope**: Covers advanced text segmentation methods, likely including chunking, hierarchical, a
+- Repository metrics: 238 forks, 1.5k stars, 6 open issues, and 2 pull requests as of the latest snapshot.
 
 ## Use Cases
 
@@ -51,4 +50,4 @@ Original source URL: https://github.com/FullStackRetrieval-com/RetrievalTutorial
 
 ## Local Vault File
 
-Path: [fullstackretrieval-com-retrievaltutorials.md](../../ai/rag/fullstackretrieval-com-retrievaltutorials.md)
+Path: [fullstackretrieval-com-retrievaltutorials.md](../../ai/resources/fullstackretrieval-com-retrievaltutorials.md)

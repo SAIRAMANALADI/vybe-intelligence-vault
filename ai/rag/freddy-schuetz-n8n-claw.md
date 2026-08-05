@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-05T03:58:49.414321+05:30'
+collected_at: '2026-08-05T09:07:48.495492+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - scripts
 - shell
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-05T03:58:49.414321+05:30'
-last_seen: '2026-08-05T03:58:49.414321+05:30'
-last_checked: '2026-08-05T03:58:49.414321+05:30'
+first_seen: '2026-08-05T09:07:48.495492+05:30'
+last_seen: '2026-08-05T09:07:48.495492+05:30'
+last_checked: '2026-08-05T09:07:48.495492+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in n8n, leveraging Adaptive RAG for memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for task delegation and proactive management.
-
-- **Capabilities**: Supports media understanding, self-hosted deployment via a single setup script, and integrates tools like Crawl4AI, SearXNG, and Supabase for web scraping, search, and data storage.
-
-- **Technical Stack**: Shell-based repository with dependencies on n8n, MCP, SearXNG, Crawl4AI, and Supabase, targeting AI agent frameworks and autonomous task execution.
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **Adaptive RAG** for dynamic memory management and **MCP templates** for skill acquisition.
+- **Modular architecture** with **Expert Agents** delegating tasks to sub-agents, **proactive task management**, and **media understanding** capabilities; self-hosted via a single setup script.
+- **Integrates tools** like **Crawl4AI**, **SearXNG**, and **Supabase**, supporting **AI agent frameworks**, **web scraping**, and **model context protocol (MCP)** for extensibility.
 
 ## Why It Matters
 

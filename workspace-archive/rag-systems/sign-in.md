@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **OAuth 2.0 Integration**: Supports Google, Microsoft, and GitHub OAuth for third-party authentication with redirect URIs to `api.cloud.eu.llamaindex.ai` and a fixed client ID (`client_01KCPKW83CQZR14CEX2TRSNZ6G`).
+- OAuth 2.0 integration with Google, Microsoft, and GitHub for authentication via WorkOS, using client ID `client_01KCPKW83CQZR14CEX2TRSNZ6G` and redirect URI `https://api.cloud.eu.llamaindex.ai/api/v1/auth/workos/callback`.
 
-- **Session Management**: Uses `authorization_session_id` (`01KZ4KTA3GSMRAW87MXBFVPHJQ`) for tracking authentication state across providers.
+- Session management enforced via `authorization_session_id` parameter (`01KZ808G1B865T22CHRVSYCH8R`) for stateful authentication flows.
 
-- **Regional Endpoints**: Provides EU-specific login at `login.eu.llamaindex.ai` with fallback to global endpoint (`login.llamaindex.ai`).
+- Regional endpoints differentiated: EU-specific login at `login.eu.llamaindex.ai`, global at `login.llamaindex.ai`.
 
 ## Use Cases
 

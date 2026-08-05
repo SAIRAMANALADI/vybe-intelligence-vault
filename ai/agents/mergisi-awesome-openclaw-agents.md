@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-08-05T03:57:39.380066+05:30'
+collected_at: '2026-08-05T09:06:38.434545+05:30'
 published_at: '2026-08-04T19:19:46Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-08-05T03:57:39.380066+05:30'
-last_seen: '2026-08-05T03:57:39.380066+05:30'
-last_checked: '2026-08-05T03:57:39.380066+05:30'
+first_seen: '2026-08-05T09:06:38.434545+05:30'
+last_seen: '2026-08-05T09:06:38.434545+05:30'
+last_checked: '2026-08-05T09:06:38.434545+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Contents**: 162 production-ready AI agent templates for OpenClaw, including SOUL.md configurations spanning 19 categories (e.g., automation, multi-agent systems, productivity tools).
-
-- **Technical Stack**: Primarily HTML-based, with integration support for Docker, MCP, LLMs, and Telegram bots, enabling no-code and low-code agent deployment.
-
-- **Community & Contributions**: Open-source project with 3,878 stars and 627 forks; accepts community submissions for additional agent templates under the `awesome-openclaw-agents` framework.
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories.
+- **Technical Scope**: Supports multi-agent systems, MCP integration, Docker deployment, and no-code configurations via SOUL.md.
+- **Community & Contributions**: Open to community submissions; includes 3,878 stars, 627 forks, and covers topics like Anthropic, Claude, CrewClaw, and Telegram bots.
 
 ## Why It Matters
 
