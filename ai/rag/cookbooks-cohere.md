@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cohere.com/page/cookbooks
-published_at: '2026-08-05T01:36:22.398551+05:30'
-collected_at: '2026-08-05T01:36:22.398561+05:30'
+published_at: '2026-08-05T14:33:27.851946+05:30'
+collected_at: '2026-08-05T14:33:27.851960+05:30'
 tags:
 - agents
 - benchmark
@@ -16,13 +16,14 @@ tags:
 - models
 - paper
 - rag
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:cookbooks-cohere
-first_seen: '2026-08-05T01:36:22.398561+05:30'
-last_seen: '2026-08-05T01:36:22.398561+05:30'
-last_checked: '2026-08-05T01:36:22.398561+05:30'
+first_seen: '2026-08-05T14:33:27.851960+05:30'
+last_seen: '2026-08-05T14:33:27.851960+05:30'
+last_checked: '2026-08-05T14:33:27.851960+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Tool Integration**: Cohere's v2 API supports multi-step tool use, enabling LLMs to interact with external APIs, databases, and search engines via structured tool calls (e.g., `cohere_react_agent`, LangChain integration).
-- **RAG Optimization**: Cookbooks demonstrate advanced RAG workflows, including agentic multi-stage retrieval, mixed-data PDF processing, and hybrid search (e.g., Elasticsearch + Cohere embeddings, Pinecone reranking).
-- **Finetuning & Deployment**: Platform supports fine-tuning on custom datasets (e.g., ConvFinQA) with deployment options via AWS Marketplace or SageMaker, alongside evaluation frameworks for summarization/embeddings.
+- **Agentic Tool Integration**: Cohere's v2 API supports multi-step tool use (e.g., APIs, databases) via `cohere_react_agent`, enabling automation of tasks like SQL queries, CSV analysis, and API calls with LangChain integration.
+
+- **RAG Optimization**: Provides structured guides for Retrieval-Augmented Generation (RAG) workflows, including PDF parsing, hybrid data handling, and evaluation frameworks for enterprise-grade applications.
+
+- **Finetuning & Deployment**: Supports model finetuning on Cohere’s platform, AWS SageMaker, and deployment via AWS Marketplace, with additional resources for multilingual search, embeddings, and document translation.
 
 ## Why It Matters
 
@@ -42,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T01:36:22.398551+05:30
+- Published: 2026-08-05T14:33:27.851946+05:30
 
 ## Related Tags
 
@@ -55,6 +58,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- scripts
 - web-crawled
 - workflows
 

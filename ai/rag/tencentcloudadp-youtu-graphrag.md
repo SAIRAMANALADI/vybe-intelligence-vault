@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-05T09:06:08.408175+05:30'
-published_at: '2026-08-04T07:22:04Z'
+collected_at: '2026-08-05T14:29:15.952246+05:30'
+published_at: '2026-08-05T07:13:11Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
 - rag
-stars: 1230
+- workflows
+stars: 1232
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-05T09:06:08.408175+05:30'
-last_seen: '2026-08-05T09:06:08.408175+05:30'
-last_checked: '2026-08-05T09:06:08.408175+05:30'
+first_seen: '2026-08-05T14:29:15.952246+05:30'
+last_seen: '2026-08-05T14:29:15.952246+05:30'
+last_checked: '2026-08-05T14:29:15.952246+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents Framework**: Introduces a novel Graph Retrieval-Augmented Generation (GraphRAG) architecture integrating hierarchical agents (planning, retrieval, reasoning) for complex multi-hop reasoning tasks, optimizing vertical task decomposition.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., graph constructor, retriever, reasoner) collaborate hierarchically for complex reasoning tasks, leveraging GraphRAG for structured knowledge integration.
 
-- **Graph-Centric Knowledge Integration**: Leverages dynamic graph structures to enhance LLM reasoning, combining structured knowledge graphs with unstructured data for improved contextual retrieval and factual grounding in downstream tasks.
+- **GraphRAG Integration**: Combines Retrieval-Augmented Generation (RAG) with graph-based representations to enhance contextual retrieval and reasoning, enabling agents to dynamically traverse and query knowledge graphs.
 
-- **ICLR 2026 Benchmark Performance**: Demonstrates state-of-the-art results on complex reasoning benchmarks via a unified agent-graph pipeline, achieving 15-20% higher accuracy than traditional RAG baselines in multi-hop question-answering scenarios.
+- **ICLR 2026 Contribution**: Proposes a novel vertical unification strategy for agents, optimizing performance in complex reasoning benchmarks by integrating graph-structured data with LLM-driven agentic workflows.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TencentCloudADP
-- Stars: 1230
+- Stars: 1232
 - Forks: 183
 - Language: Python
 - Topics: agent, graph, graphrag, llm, rag
-- Last Updated: 2026-08-04T07:22:04Z
+- Last Updated: 2026-08-05T07:13:11Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-01T02:52:13Z

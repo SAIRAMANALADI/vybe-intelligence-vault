@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://frederikbraun.de/using-subresource-integrity.html
-published_at: '2026-08-03T20:59:06.078557+05:30'
-collected_at: '2026-08-03T20:59:06.078569+05:30'
+published_at: '2026-08-05T14:36:43.246098+05:30'
+collected_at: '2026-08-05T14:36:43.246111+05:30'
 tags:
 - hackernews
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:frederik-braun-a-cdn-that-can-not-xss-you-using-su
-first_seen: '2026-08-03T20:59:06.078569+05:30'
-last_seen: '2026-08-03T20:59:06.078569+05:30'
-last_checked: '2026-08-03T20:59:06.078569+05:30'
+first_seen: '2026-08-05T14:36:43.246111+05:30'
+last_seen: '2026-08-05T14:36:43.246111+05:30'
+last_checked: '2026-08-05T14:36:43.246111+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose & Mechanism**: Subresource Integrity (SRI) is a W3C standard enabling cryptographic verification of third-party JavaScript/CSS integrity via hash-based digests (`integrity` attribute) to mitigate CDN compromise risks.
-- **Technical Requirements**: Requires `crossorigin` attribute for CORS compliance; supports multiple hashes (prioritizing strongest) and fallback mechanisms for failed loads.
-- **Implementation Status**: Supported in modern browsers (Firefox/Chrome) with tooling (e.g., `sri-toolbox`) and polyfills available for legacy systems.
+- **Purpose & Mechanism**: Subresource Integrity (SRI) is a W3C standard enabling cryptographic verification of third-party JavaScript/CSS integrity via hash digests (`integrity` attribute) in HTML tags, preventing unauthorized script modifications.
+- **Implementation Requirements**: Requires `crossorigin` attribute for CORS compliance; supports multiple hash algorithms (e.g., `sha256-`, `sha384-`) with prioritization of strongest hash; no built-in error recovery.
+- **Tooling & Status**: Supported in modern browsers (Firefox/Chrome) with polyfills available; tools like `sri-toolbox` automate hash generation; fallback mechanisms (e.g., local script loading) mitigate load failures.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T20:59:06.078557+05:30
+- Published: 2026-08-05T14:36:43.246098+05:30
 
 ## Related Tags
 

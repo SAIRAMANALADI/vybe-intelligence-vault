@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-05T09:06:08.406444+05:30'
+collected_at: '2026-08-05T14:29:15.959899+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-05T09:06:08.406444+05:30'
-last_seen: '2026-08-05T09:06:08.406444+05:30'
-last_checked: '2026-08-05T09:06:08.406444+05:30'
+first_seen: '2026-08-05T14:29:15.959899+05:30'
+last_seen: '2026-08-05T14:29:15.959899+05:30'
+last_checked: '2026-08-05T14:29:15.959899+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization (e.g., episodic/semantic memory) to enable stateful, long-form narrative reasoning.
+- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long-form narrative reasoning with structured memory retrieval.
 
-- **Memory-Organized Retrieval**: Implements hierarchical memory structures with dynamic indexing to optimize retrieval of contextually relevant information across extended dialogues or narratives, reducing redundancy and improving coherence.
+- **Memory Organization**: Implements hierarchical memory modules (episodic, semantic, procedural) to dynamically store, update, and retrieve contextually relevant information for sustained reasoning over extended narratives.
 
-- **Stateful Reasoning**: Enables tracking of narrative state and dependencies over time, leveraging memory updates and retrieval policies to maintain consistency in multi-turn reasoning tasks (e.g., summarization, QA).
+- **AAAI 2026 Contribution**: Proposes novel memory retrieval mechanisms and evaluation benchmarks for stateful reasoning, demonstrating superior performance in long-context tasks compared to traditional RAG baselines.
 
 ## Why It Matters
 

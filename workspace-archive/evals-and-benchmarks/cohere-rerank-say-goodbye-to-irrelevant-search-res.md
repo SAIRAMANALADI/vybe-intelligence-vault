@@ -6,11 +6,12 @@ source_url: https://txt.cohere.com/rerank/
 resource_id: blog:cohere-rerank-say-goodbye-to-irrelevant-search-res
 local_vault_path: ai/rag/cohere-rerank-say-goodbye-to-irrelevant-search-res.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - hackernews
 - producthunt
 - rag
@@ -25,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Cohere's blog platform aggregates technical content on AI/ML, embeddings, and search systems**, authored by experts in embeddings/search (Nils Reimers), ML engineering (Sylvie Shi, Lucas Fayoux), and product management (Elliott Choi).
+- Introduces Cohere's new **embedding models** optimized for **retrieval, classification, and clustering**, with significant improvements in **latency, cost, and accuracy** over prior versions.
 
-- **Focus areas include advanced embedding techniques, retrieval-augmented generation (RAG), and scalable search architectures**, with posts detailing performance optimizations, model architectures, and deployment strategies.
+- Highlights **multilingual support** across 100+ languages, leveraging **advanced tokenization** and **scaling laws** for efficient cross-lingual embeddings.
 
-- **Content targets technical aud
+- Details **benchmark performance** on MTEB (Massive Text Embedding Benchmark), demonstrating **state-of-the-art results** in tasks like semantic
 
 ## Use Cases
 

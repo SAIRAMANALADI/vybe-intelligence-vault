@@ -15,13 +15,14 @@ tags:
 - hackernews
 - rag
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:after-losses-retail-investors-flock-to-3x-leverage
 first_seen: '2026-08-05T09:03:36.529731+05:30'
 last_seen: '2026-08-05T09:03:36.529731+05:30'
 last_checked: '2026-08-05T09:03:36.529731+05:30'
 health_score: 100
 ---
+
 
 # After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
 

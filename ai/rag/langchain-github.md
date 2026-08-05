@@ -4,19 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-05T04:05:37.167193+05:30'
-collected_at: '2026-08-05T04:05:37.167206+05:30'
+published_at: '2026-08-05T14:33:24.529059+05:30'
+collected_at: '2026-08-05T14:33:24.529073+05:30'
 tags:
 - agents
 - anthropic
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-05T04:05:37.167206+05:30'
-last_seen: '2026-08-05T04:05:37.167206+05:30'
-last_checked: '2026-08-05T04:05:37.167206+05:30'
+first_seen: '2026-08-05T14:33:24.529073+05:30'
+last_seen: '2026-08-05T14:33:24.529073+05:30'
+last_checked: '2026-08-05T14:33:24.529073+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support planning, subagents, and file system interactions for complex tasks.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs with stateful workflows.
 
-- **Commercial & OSS Extensions**: LangSmith offers a platform for production-grade LLM application development and monitoring; extensions like Deep Agents Code (`dcode`), Open SWE, MCP Adapters, Agent Protocol, and OpenWiki provide specialized agent functionalities (e.g., coding, memory wiki generation, and framework-agnostic agent APIs).
+- **Agent Frameworks**: Deep Agents/Deep Agents.js support planning, subagent delegation, and filesystem interaction for complex tasks; Open SWE and `dcode` offer open-source coding agents for terminal and async workflows.
 
-- **Ecosystem & Learning**: Unified documentation ([docs.langchain.com](https://docs.langchain.com/)), a community forum, and LangChain Academy provide resources for learning and collaboration across LangChain’s OSS and commercial offerings.
+- **Commercial & Protocol Tools**: LangSmith provides production-grade LLM application monitoring; Agent Protocol standardizes framework-agnostic APIs for serving LLM agents, with MCP Adapters enabling tool compatibility.
 
 ## Why It Matters
 
@@ -38,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T04:05:37.167193+05:30
+- Published: 2026-08-05T14:33:24.529059+05:30
 
 ## Related Tags
 
@@ -46,6 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

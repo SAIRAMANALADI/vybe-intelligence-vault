@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-08-05T03:58:54.436194+05:30'
+collected_at: '2026-08-05T14:31:01.044322+05:30'
 published_at: '2026-07-17T03:59:58Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-08-05T03:58:54.436194+05:30'
-last_seen: '2026-08-05T03:58:54.436194+05:30'
-last_checked: '2026-08-05T03:58:54.436194+05:30'
+first_seen: '2026-08-05T14:31:01.044322+05:30'
+last_seen: '2026-08-05T14:31:01.044322+05:30'
+last_checked: '2026-08-05T14:31:01.044322+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Development Framework**: Converts GitHub repositories into self-managing teams using AI agents orchestrated under the Scrum framework via GitHub Actions and Claude.
-- **Issue-Driven Workflow**: Directly manages and builds tasks from GitHub Issues, automating sprint planning, task assignment, and progress tracking.
-- **Open-Source Template**: Provides a pre-configured, extensible template for autonomous AI-driven software development with minimal manual intervention.
+- **Autonomous Development Framework**: Converts GitHub repositories into self-managing AI-driven teams using GitHub Actions and Anthropic's Claude to orchestrate AI agents under a Scrum framework.
+
+- **Issue-Driven Workflow**: Automates task execution directly from GitHub Issues, enabling AI agents to plan, assign, and build tasks without human intervention.
+
+- **Open-Source Template**: Provides a reusable, customizable template for deploying autonomous AI development teams, last updated on **2026-07-17**.
 
 ## Why It Matters
 

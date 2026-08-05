@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yl4579/StyleTTS2
-collected_at: '2026-08-05T04:07:06.489980+05:30'
+collected_at: '2026-08-05T14:38:24.604957+05:30'
 published_at: '2026-08-04T10:31:16Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-06-14T00:48:11Z'
 pushed_at: '2024-08-10T00:48:18Z'
 resource_id: github:yl4579/styletts2
-first_seen: '2026-08-05T04:07:06.489980+05:30'
-last_seen: '2026-08-05T04:07:06.489980+05:30'
-last_checked: '2026-08-05T04:07:06.489980+05:30'
+first_seen: '2026-08-05T14:38:24.604957+05:30'
+last_seen: '2026-08-05T14:38:24.604957+05:30'
+last_checked: '2026-08-05T14:38:24.604957+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements StyleTTS 2 using **style diffusion** and **adversarial training** with **large speech language models (SLMs)** like WavLM for high-fidelity text-to-speech (TTS) synthesis.
-
-- **Key Techniques**: Leverages **latent diffusion models (LDMs)** and **GANs** for prosody and speaker adaptation, enabling human-level speech generation with fine-grained style control.
-
-- **Implementation**: Built in **PyTorch**, supports **speaker adaptation** and integrates **diffusion-based prosody modeling** for natural, expressive TTS output.
+- **Architecture**: Implements StyleTTS 2 using **style diffusion** and **adversarial training** with **large speech language models (SLMs)** like WavLM for high-fidelity TTS synthesis.
+- **Key Techniques**: Leverages **latent diffusion models (LDMs)** and **GANs** for prosody and speaker adaptation, enabling human-level speech generation with minimal data.
+- **Optimizations**: Uses **PyTorch** for efficient training/inference, supports **speaker adaptation**, and integrates **diffusion-based style modeling** for expressive TTS.
 
 ## Why It Matters
 

@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Web Serial API in Firefox 151**: Enables direct web-to-hardware communication (e.g., microcontrollers, 3D printers) without native software, expanding IoT/web integration capabilities.
-
-- **PACT Anonymous Credentials**: Proposes a privacy-preserving authentication system to mitigate bot traffic while maintaining user anonymity, addressing challenges in credential verification.
-
-- **Firefox Hardening via AI**: Leveraged Claude Mythos Preview to identify and remediate an unprecedented volume o
+- **Firefox 151 introduces Web Serial API support**, enabling direct web-based communication with serial-connected hardware (e.g., microcontrollers, 3D printers) without native software dependencies.
+- **Firefox 148 ships the Sanitizer API**, providing standardized XSS protection by sanitizing untrusted HTML before DOM insertion, mitigating cross-site scripting risks.
+- **Mozilla leveraged AI models (e.g., Claude Mythos Preview) to identify and patch unprecedented latent security vulnerabilities
 
 ## Use Cases
 

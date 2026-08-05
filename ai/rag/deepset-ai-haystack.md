@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-08-05T09:10:21.086410+05:30'
-published_at: '2026-08-04T21:49:10Z'
+collected_at: '2026-08-05T14:33:09.225709+05:30'
+published_at: '2026-08-05T07:45:39Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 26111
+stars: 26113
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2019-11-14T09:05:28Z'
-pushed_at: '2026-08-04T16:30:21Z'
+pushed_at: '2026-08-05T08:43:32Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-08-05T09:10:21.086410+05:30'
-last_seen: '2026-08-05T09:10:21.086410+05:30'
-last_checked: '2026-08-05T09:10:21.086410+05:30'
+first_seen: '2026-08-05T14:33:09.225709+05:30'
+last_seen: '2026-08-05T14:33:09.225709+05:30'
+last_checked: '2026-08-05T14:33:09.225709+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via explicit, modular pipelines for retrieval, routing, memory, and generation, supporting scalable agents, RAG, and conversational systems.
+- **Modular AI Orchestration Framework**: Haystack enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
 
-- **Context-Engineered Design**: Framework emphasizes fine-grained control over context engineering, semantic search, and multimodal applications, integrating with tools like MCP for advanced agent workflows.
+- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal systems, semantic search, and conversational AI, leveraging Python for extensible integrations.
 
-- **Python-Based & Extensible**: Open-source Python framework optimized for large-scale deployments, with 26K+ stars, supporting agentic RAG, multi-agent systems, and retrieval-augmented generation.
+- **High-Performance Architecture**: Optimized for context-engineered applications, supporting MCP, multi-agent systems, and retrieval-augmented generation with a focus on scalability and modularity.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepset-ai
-- Stars: 26111
+- Stars: 26113
 - Forks: 2979
 - Language: Python
 - Topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents, context-engineering, framework, genai, generative-ai, information-retrieval, large-language-models, llm, mcp, multi-agent, orchestration, python, rag, retrieval-augmented-generation, semantic-search
-- Last Updated: 2026-08-04T21:49:10Z
+- Last Updated: 2026-08-05T07:45:39Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z
-- Pushed At: 2026-08-04T16:30:21Z
+- Pushed At: 2026-08-05T08:43:32Z
 
 ## Possible Use Cases
 

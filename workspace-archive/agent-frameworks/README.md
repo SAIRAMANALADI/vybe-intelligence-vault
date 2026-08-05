@@ -8,8 +8,8 @@ Agent frameworks simplify state management, tool usage, and memory in multi-agen
 
 ## Top Matched Resources
 
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (framework - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 - [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
@@ -23,8 +23,8 @@ https://github.com/langchain-ai/langgraph (LangGraph)
 https://github.com/crewAIInc/crewAI (CrewAI)
 https://github.com/microsoft/autogen (AutoGen)
 https://github.com/pydantic/pydantic-ai (Pydantic AI)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 
@@ -44,4 +44,4 @@ https://github.com/pydantic/pydantic-ai (Pydantic AI)
 
 ---
 
-*Last updated: 2026-08-05 09:22 IST*
+*Last updated: 2026-08-05 14:44 IST*

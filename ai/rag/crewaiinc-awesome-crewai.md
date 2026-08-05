@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/awesome-crewai
-collected_at: '2026-08-04T17:10:56.262821+05:30'
-published_at: '2026-07-30T16:03:06Z'
+collected_at: '2026-08-05T14:31:51.127960+05:30'
+published_at: '2026-08-05T02:52:27Z'
 tags:
 - agents
 - github-repo
 - rag
 - unknown
-stars: 508
+stars: 509
 language: Unknown
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-25T15:39:51Z'
 pushed_at: '2025-06-09T15:58:36Z'
 resource_id: github:crewaiinc/awesome-crewai
-first_seen: '2026-08-04T17:10:56.262821+05:30'
-last_seen: '2026-08-04T17:10:56.262821+05:30'
-last_checked: '2026-08-04T17:10:56.262821+05:30'
+first_seen: '2026-08-05T14:31:51.127960+05:30'
+last_seen: '2026-08-05T14:31:51.127960+05:30'
+last_checked: '2026-08-05T14:31:51.127960+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository (`crewAIInc/awesome-crewai`) aggregates open-source AI agent projects built with CrewAI, facilitating community contributions and extensions.
-- **Metadata**: 508 stars, 135 forks, last updated on 2026-07-30; language unspecified, no predefined topics.
-- **Purpose**: Enables discovery and collaboration on AI agent implementations leveraging CrewAI’s framework.
+- **Curated Open-Source Projects**: Repository (`crewAIInc/awesome-crewai`) aggregates community-built AI agent projects leveraging CrewAI framework, enabling discovery, contribution, and extension of AI agent capabilities.
+
+- **Metadata**: 509 stars, 135 forks, last updated 2026-08-05; language and topics unspecified in metadata.
+
+- **Purpose**: Facilitates collaboration and innovation in AI agent development by providing a centralized, community-driven resource for CrewAI-based projects.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 508
+- Stars: 509
 - Forks: 135
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-30T16:03:06Z
+- Last Updated: 2026-08-05T02:52:27Z
 - License: MIT
 - Archived: No
 - Created At: 2024-11-25T15:39:51Z

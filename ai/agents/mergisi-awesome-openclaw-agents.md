@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-08-05T09:06:38.434545+05:30'
-published_at: '2026-08-04T19:19:46Z'
+collected_at: '2026-08-05T14:29:45.974152+05:30'
+published_at: '2026-08-05T06:17:11Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - html
 - scripts
-stars: 3878
+stars: 3879
 language: HTML
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-08-05T09:06:38.434545+05:30'
-last_seen: '2026-08-05T09:06:38.434545+05:30'
-last_checked: '2026-08-05T09:06:38.434545+05:30'
+first_seen: '2026-08-05T14:29:45.974152+05:30'
+last_seen: '2026-08-05T14:29:45.974152+05:30'
+last_checked: '2026-08-05T14:29:45.974152+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories.
-- **Technical Scope**: Supports multi-agent systems, MCP integration, Docker deployment, and no-code configurations via SOUL.md.
-- **Community & Contributions**: Open to community submissions; includes 3,878 stars, 627 forks, and covers topics like Anthropic, Claude, CrewClaw, and Telegram bots.
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 categories, with a submission process for new templates.
+- **Technical Stack**: Primarily HTML-based, supporting Docker, MCP, multi-agent systems, and integration with Anthropic, Claude, and Telegram bot frameworks.
+- **Community & Metadata**: 3,879 stars, 627 forks, last updated 2026-08-05, covering AI automation, no-code solutions, and productivity tools under open-source licensing.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3878
+- Stars: 3879
 - Forks: 627
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-08-04T19:19:46Z
+- Last Updated: 2026-08-05T06:17:11Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-05T10:51:17Z

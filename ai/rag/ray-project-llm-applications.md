@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-05T09:06:03.462062+05:30'
+collected_at: '2026-08-05T14:29:10.916223+05:30'
 published_at: '2026-07-31T02:35:37Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-05T09:06:03.462062+05:30'
-last_seen: '2026-08-05T09:06:03.462062+05:30'
-last_checked: '2026-08-05T09:06:03.462062+05:30'
+first_seen: '2026-08-05T14:29:10.916223+05:30'
+last_seen: '2026-08-05T14:29:10.916223+05:30'
+last_checked: '2026-08-05T14:29:10.916223+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via quantization, leveraging Anyscale for scalable training.
-- **Deployment & Serving**: Provides end-to-end guides for deploying RAG applications on Ray Serve, with emphasis on low-latency serving and integration with vector databases.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computing, integrating Llama2 and OpenAI models with optimized serving layers.
+- **Fine-Tuning & Scalability**: Provides notebooks for fine-tuning LLMs (e.g., Llama2) and leveraging Anyscale for scalable training/inference, with Ray enabling multi-node orchestration.
+- **Modular Architecture**: Focuses on modular design for LLM applications, covering data ingestion, retrieval, generation, and evaluation, with Jupyter Notebooks for reproducibility.
 
 ## Why It Matters
 

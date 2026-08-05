@@ -13,13 +13,14 @@ collected_at: '2026-08-05T09:03:38.253371+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:keyv-and-friends-compromised-in-active-shai-hulud
 first_seen: '2026-08-04T20:11:01.194730+05:30'
 last_seen: '2026-08-05T09:03:38.253371+05:30'
 last_checked: '2026-08-05T09:03:38.253371+05:30'
 health_score: 100
 ---
+
 
 # Keyv and friends compromised in active Shai-Hulud supply chain attack
 

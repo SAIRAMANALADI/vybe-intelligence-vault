@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/github/codeql-cli-binaries/releases
-published_at: '2026-07-21T01:36:16.795469+05:30'
-collected_at: '2026-07-21T01:36:16.795492+05:30'
+published_at: '2026-08-05T14:38:53.382754+05:30'
+collected_at: '2026-08-05T14:38:53.382769+05:30'
 tags:
 - frontend_ui
 - web-crawled
 status: active
 resource_id: github:github/codeql-cli-binaries
-first_seen: '2026-07-21T01:36:16.795492+05:30'
-last_seen: '2026-07-21T01:36:16.795492+05:30'
-last_checked: '2026-07-21T01:36:16.795492+05:30'
+first_seen: '2026-08-05T14:38:53.382769+05:30'
+last_seen: '2026-08-05T14:38:53.382769+05:30'
+last_checked: '2026-08-05T14:38:53.382769+05:30'
 health_score: 100
 ---
 
@@ -21,14 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: Official GitHub repository for CodeQL CLI binaries (`github/codeql-cli-binaries`), providing pre-built binaries for CodeQL analysis tooling.
+- **Breaking Change**: Removed support for parsing `[[`-style links in alert messages in v2.26.2, requiring migration to `$@` placeholder pairs for query authors.
 
-- **Key Releases**:
-  - **v2.26.1** (2026-07-15): No user-facing changes; compatible with `github/codeql@codeql-cli/v2.26.1`.
-  - **v2.26.0** (2026-07-08): Performance improvement by caching `git` tool availability checks.
-  - **v2.25.6** (2026-06-04): Enables CodeQL to interact with SHA-256 Git repositories; updates Eclipse Temurin OpenJDK to 21.0.11.
+- **Performance Improvement**: Optimized Git repository interactions in v2.26.0 by checking for `git` availability once per CLI invocation.
 
-- **Distribution**: Provides platform-specific (`codeql-PLATFORM.zip`) and multi-platform (`codeql.zip`) binaries, with signed releases for integrity verification.
+- **Git Metadata Enhancement**: Added SHA-256 Git repository support and Git metadata inference in v2.25.6 when `git` is available.
 
 ## Why It Matters
 
@@ -38,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T01:36:16.795469+05:30
+- Published: 2026-08-05T14:38:53.382754+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-05T01:31:43.972139+05:30'
+collected_at: '2026-08-05T14:30:10.956757+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - rag
 - reddit
 - unknown
-- workflows
 stars: 205
 language: Unknown
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-05T01:31:43.972139+05:30'
-last_seen: '2026-08-05T01:31:43.972139+05:30'
-last_checked: '2026-08-05T01:31:43.972139+05:30'
+first_seen: '2026-08-05T14:30:10.956757+05:30'
+last_seen: '2026-08-05T14:30:10.956757+05:30'
+last_checked: '2026-08-05T14:30:10.956757+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic background refetching.
-
-- **Router-State Management for AI Agents**: Implements dynamic route handling and state persistence in TanStack Router (v1+) to enable seamless navigation and context retention in AI coding workflows, leveraging URL-based state serialization.
-
-- **Start Framework Best Practices**: Showcases performance-optimized initialization and lifecycle management in TanStack Start (v3+) for AI agents, including SSR/SSG hybrid rendering and edge-optimized data fetching.
+*   Establishes best practices for integrating TanStack Query, Router, and Start within AI coding agent architectures.
+*   Provides guidance for AI agents to effectively leverage TanStack ecosystem components for data management, routing, and application bootstrapping.
+*   Aims to optimize AI agent development by standardizing interaction patterns with modern web development frameworks.
 
 ## Why It Matters
 

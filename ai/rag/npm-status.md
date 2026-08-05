@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://status.npmjs.com/
-published_at: '2026-08-04T17:15:31.842012+05:30'
-collected_at: '2026-08-04T17:15:31.842025+05:30'
+published_at: '2026-08-05T14:38:44.187818+05:30'
+collected_at: '2026-08-05T14:38:44.187832+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:npm-status
-first_seen: '2026-08-04T17:15:31.842025+05:30'
-last_seen: '2026-08-04T17:15:31.842025+05:30'
-last_checked: '2026-08-04T17:15:31.842025+05:30'
+first_seen: '2026-08-05T14:38:44.187832+05:30'
+last_seen: '2026-08-05T14:38:44.187832+05:30'
+last_checked: '2026-08-05T14:38:44.187832+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **npm Statuspage**: Provides real-time operational status for npm services (website, package installation, publishing, search, security audit, replication feed) with historical uptime metrics (e.g., 99.99% uptime for package installation/publishing over 90 days).
-- **Incident Management**: Tracks and resolves issues (e.g., intermittent publish/install failures on Jul 23–30, 2026) via status updates (Investigating → Monitoring → Resolved) with incident-specific URLs.
-- **Notification System**: Supports email/SMS alerts for incident creation/resolution, with reCAPTCHA-protected subscription flows and compliance with Atlassian/npm privacy policies.
+- **npm Statuspage** provides real-time operational metrics for npm services, including website availability, package installation, publishing, search, security audit, and replication feed, with historical uptime data (e.g., 100% uptime for website and package search over 90 days).
+- **Incident Tracking** logs recent outages (e.g., intermittent publish/install failures on Jul 23–30, 2026) with timestamps, resolution status, and monitoring phases.
+- **Notification System** supports email and SMS alerts for incident updates via reCAPTCHA-protected forms, adhering to Atlassian/npm privacy policies.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T17:15:31.842012+05:30
+- Published: 2026-08-05T14:38:44.187818+05:30
 
 ## Related Tags
 

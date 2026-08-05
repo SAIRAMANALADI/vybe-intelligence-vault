@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-05T09:05:38.429045+05:30'
+collected_at: '2026-08-05T14:28:45.937774+05:30'
 published_at: '2026-07-19T17:15:41Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 297
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-05T09:05:38.429045+05:30'
-last_seen: '2026-08-05T09:05:38.429045+05:30'
-last_checked: '2026-08-05T09:05:38.429045+05:30'
+first_seen: '2026-08-05T14:28:45.937774+05:30'
+last_seen: '2026-08-05T14:28:45.937774+05:30'
+last_checked: '2026-08-05T14:28:45.937774+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRAG (Comprehensive RAG Benchmark) evaluates Retrieval-Augmented Generation (RAG) systems across diverse tasks, including open-domain QA, fact-checking, and multi-hop reasoning, with a focus on real-world challenges like noise robustness and long-context handling.
-
-- **Evaluation Metrics**: Implements fine-grained metrics for retrieval (precision, recall, latency) and generation (faithfulness, relevance, hallucination rate) to assess end-to-end RAG performance, alongside synthetic and human-annotated datasets for validation.
-
-- **Open-Source Toolkit**: Provides a modular Jupyter Notebook-based framework for reproducible benchmarking, supporting custom retrievers/generators and extensible to new datasets or evaluation criteria.
+- **CRAG Benchmark**: A comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
+- **Technical Components**: Implemented in Jupyter Notebooks, likely includes metrics for retrieval quality, generation accuracy, and robustness under noisy or adversarial conditions.
+- **Repository Status**: Last updated July 2026, indicating active development or maintenance with potential contributions from Facebook Research.
 
 ## Why It Matters
 

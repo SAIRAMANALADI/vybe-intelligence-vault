@@ -4,20 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cohere.com/terms-of-use
-published_at: '2026-08-04T22:44:18.946891+05:30'
-collected_at: '2026-08-04T22:44:18.946903+05:30'
+published_at: '2026-08-05T14:36:18.370344+05:30'
+collected_at: '2026-08-05T14:36:18.370358+05:30'
 tags:
 - agents
 - benchmark
 - hackernews
+- models
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:terms-of-use-cohere
-first_seen: '2026-08-04T22:44:18.946903+05:30'
-last_seen: '2026-08-04T22:44:18.946903+05:30'
-last_checked: '2026-08-04T22:44:18.946903+05:30'
+first_seen: '2026-08-05T14:36:18.370358+05:30'
+last_seen: '2026-08-05T14:36:18.370358+05:30'
+last_checked: '2026-08-05T14:36:18.370358+05:30'
 health_score: 100
 ---
 
@@ -25,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Licensing & Data Rights**: Users grant Cohere a **non-exclusive, worldwide, royalty-free, irrevocable, sublicensable** license to access, process, store, and transmit Customer Data (including API/Finetuning Data) for service provision, compliance, and model improvement, with **no sharing of custom models** but possible sharing of finetuning data with third parties under their terms.
+- **License Grant & Data Usage**: Users grant Cohere a **non-exclusive, worldwide, royalty-free, irrevocable, sublicensable** license to access, process, store, and transmit **Customer Data** (including API and fine-tuning data) for service provision, compliance enforcement, and model improvement, with potential sharing with third parties for benchmarking or fine-tuning (excluding custom model distribution).
 
-- **User Account & Liability**: Users must maintain secure credentials, are solely responsible for all actions under their account, and acknowledge that Cohere may **disable accounts** or take security measures (e.g., password changes) without liability for unauthorized access by third parties.
+- **User Account & Security**: Users must maintain secure credentials, provide accurate account information, and are solely responsible for all actions under their **User ID**, including third-party misuse; Cohere reserves the right to **disable accounts** or modify access for security, compliance, or payment delinquency.
 
-- **Competitive Restrictions & Changes**: Direct competitors are **prohibited from accessing the Cohere Solution** without prior consent, and Cohere reserves the right to **modify Terms of Use, suspend services** (e.g., for violations, maintenance, or legal compliance), or engage third-party cloud providers without prior notice.
+- **Competitive & Legal Restrictions**: Direct competitors are **prohibited** from accessing the Cohere Solution without prior written consent; users **may not** benchmark or use the platform for competitive purposes, and all electronic communications (including data transmission) are subject to Cohere’s **Privacy Policy** and applicable laws.
 
 ## Why It Matters
 
@@ -39,13 +40,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T22:44:18.946891+05:30
+- Published: 2026-08-05T14:36:18.370344+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
 - hackernews
+- models
 - rag
 - web-crawled
 - youtube

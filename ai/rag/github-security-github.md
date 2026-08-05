@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/security
-published_at: '2026-08-04T09:18:41.052517+05:30'
-collected_at: '2026-08-04T09:18:41.052528+05:30'
+published_at: '2026-08-05T14:34:51.116139+05:30'
+collected_at: '2026-08-05T14:34:51.116153+05:30'
 tags:
 - hackernews
 - paper
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-security-github
-first_seen: '2026-08-04T09:18:41.052528+05:30'
-last_seen: '2026-08-04T09:18:41.052528+05:30'
-last_checked: '2026-08-04T09:18:41.052528+05:30'
+first_seen: '2026-08-05T14:34:51.116153+05:30'
+last_seen: '2026-08-05T14:34:51.116153+05:30'
+last_checked: '2026-08-05T14:34:51.116153+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Advanced Security (GHAS)** integrates static analysis, secret protection, and supply chain security into developer workflows via automated push protection, AI-driven remediation, and dependency tracking.
-- **Secret Protection** blocks accidental exposure of credentials/API keys during Git pushes, while **Code Security** leverages static analysis (e.g., CodeQL) and AI to detect/fix vulnerabilities pre-merge.
-- **Supply Chain Security** mitigates open-source risks via automated dependency updates, build attestation, and the Security Advisory Database (CVEs + GitHub-originated advisories).
+- **GitHub Advanced Security (GHAS)** integrates **static analysis (CodeQL)**, **AI-powered remediation**, and **secret protection** directly into developer workflows to proactively detect and mitigate vulnerabilities (e.g., SSRF, XSS, dependency risks) before code reaches repositories.
+
+- **Supply Chain Security** features **automated dependency tracking**, **build attestation**, and **auto-updates** to mitigate open-source risks, complemented by the **GitHub Security Lab** and **Security Advisory Database** for vulnerability research and CVE coverage.
+
+- **Push Protection** blocks accidental secret exposure (e.g., API keys) in real-time, while **platform security compliance** adheres to **ISO, SOC 2, and GDPR** standards, as adopted by enterprises like SAP, LinkedIn, and Mercado Libre.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T09:18:41.052517+05:30
+- Published: 2026-08-05T14:34:51.116139+05:30
 
 ## Related Tags
 

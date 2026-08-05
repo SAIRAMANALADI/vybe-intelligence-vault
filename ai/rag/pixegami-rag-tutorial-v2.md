@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-05T09:04:38.285611+05:30'
+collected_at: '2026-08-05T14:27:45.861922+05:30'
 published_at: '2026-08-03T17:47:21Z'
 tags:
 - benchmark
 - github-repo
 - meta-ai
+- mistral
 - models
 - python
 - rag
+- workflows
 stars: 965
 language: Python
 status: active
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-05T09:04:38.285611+05:30'
-last_seen: '2026-08-05T09:04:38.285611+05:30'
-last_checked: '2026-08-05T09:04:38.285611+05:30'
+first_seen: '2026-08-05T14:27:45.861922+05:30'
+last_seen: '2026-08-05T14:27:45.861922+05:30'
+last_checked: '2026-08-05T14:27:45.861922+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment of Retrieval-Augmented Generation (RAG) using local language models (e.g., Ollama) for offline inference, avoiding cloud dependency.
-- **Dynamic Database Updates**: Implements a modular pipeline for incremental or full updates to the vector database (e.g., Chroma), ensuring real-time knowledge base synchronization.
-- **Testing Framework**: Includes unit/integration tests (e.g., pytest) and evaluation metrics (e.g., retrieval accuracy, response relevance) to validate RAG performance under varying conditions.
+- **Enhanced RAG Pipeline**: Demonstrates an improved Retrieval-Augmented Generation (RAG) workflow using LangChain with local LLMs (e.g., Llama3, Mistral) for reduced dependency on cloud APIs and improved privacy.
+- **Dynamic Database Updates**: Implements a system for real-time or batch updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving knowledge bases.
+- **Testing & Evaluation Framework**: Includes automated testing modules (e.g., RAGAS, TruLens) to assess retrieval accuracy, response quality, and latency, enabling iterative optimization of the RAG system.
 
 ## Why It Matters
 

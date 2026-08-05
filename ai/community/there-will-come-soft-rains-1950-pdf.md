@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://users.wpi.edu/~zrbutzke/docs/bradburystories(1).pdf
 hn_url: https://news.ycombinator.com/item?id=49162653
-score: 358
+score: 379
 author: pmg101
-comments_count: 386
+comments_count: 400
 published_at: '2026-08-04T04:54:53+05:30'
-collected_at: '2026-08-05T09:03:38.830166+05:30'
+collected_at: '2026-08-05T14:25:24.576411+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:there-will-come-soft-rains-1950-pdf
 first_seen: '2026-08-04T09:07:27.408173+05:30'
-last_seen: '2026-08-05T09:03:38.830166+05:30'
-last_checked: '2026-08-05T09:03:38.830166+05:30'
+last_seen: '2026-08-05T14:25:24.576411+05:30'
+last_checked: '2026-08-05T14:25:24.576411+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by pmg101. Score: 358, Comments: 386.
+Hacker News story by pmg101. Score: 379, Comments: 400.
 Original Link: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: pmg101
-- Score: 358 Upvotes
-- Comments: 386 Discussions
+- Score: 379 Upvotes
+- Comments: 400 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49162653
 - Original Article: https://users.wpi.edu/~zrbutzke/docs/bradburystories(1).pdf
 

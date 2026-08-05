@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-08-05T09:07:18.561318+05:30'
-published_at: '2026-08-05T02:08:17Z'
+collected_at: '2026-08-05T14:30:26.061630+05:30'
+published_at: '2026-08-05T07:46:10Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - hackernews
 - python
-- reddit
-stars: 1737
+stars: 1739
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-08-05T00:30:10Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-08-05T09:07:18.561318+05:30'
-last_seen: '2026-08-05T09:07:18.561318+05:30'
-last_checked: '2026-08-05T09:07:18.561318+05:30'
+first_seen: '2026-08-05T14:30:26.061630+05:30'
+last_seen: '2026-08-05T14:30:26.061630+05:30'
+last_checked: '2026-08-05T14:30:26.061630+05:30'
 health_score: 100
 ---
 
@@ -32,10 +31,8 @@ health_score: 100
 ## Summary
 
 - **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
-
-- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool-use efficiency, and adaptability in dynamic environments.
-
-- **Evaluation Metrics**: Measures performance via task completion rates, latency, and robustness to user/tool variability, with updates as of August 2026.
+- **Technical Scope**: Implemented in Python, it assesses multi-turn interactions, tool-use efficiency, and adaptability in dynamic environments.
+- **Evaluation Metrics**: Measures performance via task completion, error recovery, and user-agent collaboration, providing standardized benchmarks for tool-agent systems.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sierra-research
-- Stars: 1737
+- Stars: 1739
 - Forks: 433
 - Language: Python
 - Topics: ai, benchmark, conversational-agents, language-model-agent, llm
-- Last Updated: 2026-08-05T02:08:17Z
+- Last Updated: 2026-08-05T07:46:10Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T23:46:17Z

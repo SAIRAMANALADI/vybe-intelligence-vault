@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-08-05T09:13:27.871673+05:30'
-collected_at: '2026-08-05T09:13:27.871684+05:30'
+published_at: '2026-08-05T14:34:29.715284+05:30'
+collected_at: '2026-08-05T14:34:29.715297+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-08-05T09:13:27.871684+05:30'
-last_seen: '2026-08-05T09:13:27.871684+05:30'
-last_checked: '2026-08-05T09:13:27.871684+05:30'
+first_seen: '2026-08-05T14:34:29.715297+05:30'
+last_seen: '2026-08-05T14:34:29.715297+05:30'
+last_checked: '2026-08-05T14:34:29.715297+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Framework**: SpeechifyAI Agents provides a reusable definition system combining prompt, voice, tools, and evaluation criteria for real-time voice interactions via web or phone, with API endpoints (`POST /v1/agents/{id}/conversations`) provisioning low-latency sessions and returning short-lived tokens/URLs for session connection.
+- **Real-time voice interaction**: Agents use Speechify API to enable low-latency, real-time voice conversations with bidirectional audio streaming, integrating speech-to-text, LLM processing, and text-to-speech in a single pipeline.
 
-- **Core Capabilities**: Supports natural voices (excluding cloned/personal voices), real-time speech-to-speech pipelines, tool integration (backend calls, device code execution, MCP servers, built-ins like `end_call`), transcript persistence with timestamps/tool traces, and post-call LLM-graded evaluations/structured data extraction.
+- **Modular agent architecture**: Agents are defined by reusable configurations including prompts, voices (`GET /v1/agents/voices`), tools (backend calls, device execution, MCP servers, or built-ins like `end_call`), and post-call evaluation metrics.
 
-- **Use Cases & Workflow**: Enables inbound/outbound support, IVR replacement, and structured data collection; offers no-code console workflows for agent configuration (prompt, voice, knowledge, phone numbers) with SDK/browser-based session management and webhook-based post-conversation notifications.
+- **Session lifecycle management**: Initiated via `POST /v1/agents/{id}/conversations`, sessions return a short-lived token/URL for WebSocket connections, with transcripts, tool traces, and evaluation results persisted post-hang-up.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-05T09:13:27.871673+05:30
+- Published: 2026-08-05T14:34:29.715284+05:30
 
 ## Related Tags
 

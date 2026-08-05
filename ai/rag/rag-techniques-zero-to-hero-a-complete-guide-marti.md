@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-05T09:04:34.113913+05:30'
-collected_at: '2026-08-05T09:04:34.113924+05:30'
+published_at: '2026-08-05T14:27:41.420645+05:30'
+collected_at: '2026-08-05T14:27:41.420657+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-05T09:04:34.113924+05:30'
-last_seen: '2026-08-05T09:04:34.113924+05:30'
-last_checked: '2026-08-05T09:04:34.113924+05:30'
+first_seen: '2026-08-05T14:27:41.420657+05:30'
+last_seen: '2026-08-05T14:27:41.420657+05:30'
+last_checked: '2026-08-05T14:27:41.420657+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,15 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: RAG integrates a retriever (vector/lexical search) with a generator (LLM), optionally enhanced by rerankers, query rewriting, and caching layers to improve precision and efficiency while grounding outputs in external knowledge.
+- **RAG Architecture**: Combines retrieval (vector/lexical) with generative LMs to ground outputs in external, up-to-date knowledge, improving factuality and reducing hallucinations compared to parametric-only models.
 
-- **Chunking & Embeddings Optimization**: Effective RAG relies on semantic-aware chunking (e.g., structure-aware or LLM-based) and domain-fine-tuned embeddings (normalized, low-dimensional) to balance retrieval quality, latency, and cost across multilingual/multimodal data.
+- **Key Technical Components**:
+  - **Retrieval Pipeline**: Chunking (semantic/structure-aware), embeddings (fine-tuned for domain), hybrid search (BM25 + ANN), and reranking (cross-encoders or distilled models).
+  - **Context Optimization**: Token budgeting, autocut trimming, and multi-hop/iterative retrieval for complex queries.
 
-- **Advanced Retrieval & Hallucination Mitigation**: Multi-hop iterative retrieval, hybrid search (BM25 + vector), cross-encoder reranking, and context distillation reduce hallucinations while managing token budgets through autocut strategies and explicit source attribution in prompts.
+- **Operational Challenges**:
+  - **Scalability & Cost**: Latency/throughput trade-offs in ANN indexes, embedding updates, and hybrid fusion tuning.
+  - **Evaluation**: Requires multi-stage metrics (retrieval recall/precision + generation factuality) and gold-standard benchmarks for hallucination reduction.
 
 ## Why It Matters
 
@@ -45,7 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T09:04:34.113913+05:30
+- Published: 2026-08-05T14:27:41.420645+05:30
 
 ## Related Tags
 

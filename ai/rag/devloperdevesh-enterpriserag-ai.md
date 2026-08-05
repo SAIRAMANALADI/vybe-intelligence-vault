@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-05T09:05:53.377718+05:30'
+collected_at: '2026-08-05T14:29:00.928737+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-05T09:05:53.377718+05:30'
-last_seen: '2026-08-05T09:05:53.377718+05:30'
-last_checked: '2026-08-05T09:05:53.377718+05:30'
+first_seen: '2026-08-05T14:29:00.928737+05:30'
+last_seen: '2026-08-05T14:29:00.928737+05:30'
+last_checked: '2026-08-05T14:29:00.928737+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for runtime monitoring and enforcement, leveraging Linux kernel capabilities for low-overhead, high-performance operations.
+- **Linux-Native & eBPF Integration**: Leverages Linux kernel capabilities via eBPF for low-overhead security monitoring and governance of AI agent workloads, enabling real-time enforcement of policies without significant performance overhead.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, supporting vector databases for scalable, low-latency semantic search and contextual AI responses in SaaS environments.
+- **Enterprise-Grade RAG Architecture**: Implements a Retrieval-Augmented Generation (RAG) system optimized for SaaS-scale AI workloads, integrating FastAPI for backend operations and vector databases for efficient semantic search and context retrieval.
 
-- **Multi-Tenant Governance**: Enforces security policies (e.g., access control, audit logging) via eBPF hooks, ensuring compliance for distributed AI workloads while maintaining isolation between tenants in a microservices architecture.
+- **TypeScript-Based Governance Mesh**: Provides a TypeScript-driven governance layer for AI agents, ensuring compliance, security, and auditability across distributed enterprise environments while supporting GenAI and LLM integrations.
 
 ## Why It Matters
 

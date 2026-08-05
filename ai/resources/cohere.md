@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://discord.com/invite/co-mmunity
-published_at: '2026-08-03T09:33:33.564521+05:30'
-collected_at: '2026-08-03T09:33:33.564533+05:30'
+published_at: '2026-08-05T14:34:57.265285+05:30'
+collected_at: '2026-08-05T14:34:57.265300+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:cohere
-first_seen: '2026-08-03T09:33:33.564533+05:30'
-last_seen: '2026-08-03T09:33:33.564533+05:30'
-last_checked: '2026-08-03T09:33:33.564533+05:30'
+first_seen: '2026-08-05T14:34:57.265300+05:30'
+last_seen: '2026-08-05T14:34:57.265300+05:30'
+last_checked: '2026-08-05T14:34:57.265300+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Error Indication**: The message "You need to enable JavaScript to run this app" indicates that the web application requires JavaScript execution for full functionality but detects it as disabled in the browser.
-
-- **Client-Side Dependency**: JavaScript is essential for rendering dynamic content, handling user interactions, and executing client-side logic in modern web applications.
-
-- **Resolution Path**: Users must enable JavaScript in their browser settings (typically under "Privacy & Security" or "Content Settings") to resolve this dependency and access the application's full features.
+- **JavaScript Requirement**: The application mandates JavaScript execution for full functionality.
+- **Browser Dependency**: Core app features are inaccessible without JavaScript enabled in the browser.
+- **Technical Limitation**: Static content may load, but dynamic/interactive elements require JavaScript runtime.
 
 ## Why It Matters
 
@@ -34,10 +33,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T09:33:33.564521+05:30
+- Published: 2026-08-05T14:34:57.265285+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source

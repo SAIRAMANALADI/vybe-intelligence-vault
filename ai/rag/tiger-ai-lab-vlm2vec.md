@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-05T09:06:13.443599+05:30'
+collected_at: '2026-08-05T14:29:21.010897+05:30'
 published_at: '2026-07-31T06:24:04Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-05T09:06:13.443599+05:30'
-last_seen: '2026-08-05T09:06:13.443599+05:30'
-last_checked: '2026-08-05T09:06:13.443599+05:30'
+first_seen: '2026-08-05T14:29:21.010897+05:30'
+last_seen: '2026-08-05T14:29:21.010897+05:30'
+last_checked: '2026-08-05T14:29:21.010897+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VLM2Vec Framework**: Implements three versions (ICLR 2025, TMLR 2026, COLM 2026) of a contrastive learning-based method for generating multimodal embeddings from Vision-Language Models (VLMs), evaluated on the MMEB benchmark suite.
+- **VLM2Vec Framework**: Implements contrastive learning-based representation learning for multimodal embeddings, supporting tasks like image, video, and visual document retrieval, as well as multimodal RAG applications.
 
-- **Benchmark Suite (MMEB)**: Provides standardized evaluation for multimodal embedding tasks including image retrieval, video retrieval, and visual document retrieval, with progressive versions (MMEB, MMEB-V2, MMEB-V3) expanding task coverage and metrics.
+- **MMEB Benchmark Suite**: Includes three versions (ICLR 2025, TMLR 2026, COLM 2026) for evaluating multimodal embedding models across diverse retrieval and representation tasks.
 
-- **Applications & Tools**: Supports Retrieval-Augmented Generation (RAG), multimodal representation learning, and cross-modal retrieval, with Python-based implementation optimized for scalability and extensibility.
+- **Python Implementation**: Provides open-source codebase for training and evaluating VLM2Vec models, with modular design for extensibility to new multimodal benchmarks.
 
 ## Why It Matters
 

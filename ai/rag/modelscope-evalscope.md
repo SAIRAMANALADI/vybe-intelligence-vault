@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-08-05T09:05:43.470911+05:30'
-published_at: '2026-08-04T10:56:11Z'
+collected_at: '2026-08-05T14:28:50.909639+05:30'
+published_at: '2026-08-05T08:09:00Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
-stars: 3189
+- workflows
+stars: 3192
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-08-04T13:29:18Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-08-05T09:05:43.470911+05:30'
-last_seen: '2026-08-05T09:05:43.470911+05:30'
-last_checked: '2026-08-05T09:05:43.470911+05:30'
+first_seen: '2026-08-05T14:28:50.909639+05:30'
+last_seen: '2026-08-05T14:28:50.909639+05:30'
+last_checked: '2026-08-05T14:28:50.909639+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable framework for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with modular design for extensibility.
-- **Key Features**: Supports performance benchmarking across tasks (e.g., RAG, reasoning) with Python-based implementation and integration with ModelScope ecosystem.
-- **Technical Scope**: Enables standardized evaluation pipelines for multi-modal models (text, vision, generative) with active maintenance (last updated 2026-08-04).
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG (Retrieval-Augmented Generation) tasks.
+- **Key Features**: Efficient performance benchmarking with modular design for extensibility and reproducibility in model evaluation workflows.
+- **Repository Stats**: 3,192 stars, 440 forks, last updated 2026-08-05.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: modelscope
-- Stars: 3189
+- Stars: 3192
 - Forks: 440
 - Language: Python
 - Topics: evaluation, llm, performance, rag, vlm
-- Last Updated: 2026-08-04T10:56:11Z
+- Last Updated: 2026-08-05T08:09:00Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z

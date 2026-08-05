@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-05T09:05:23.341558+05:30'
+collected_at: '2026-08-05T14:28:30.857324+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
-- workflows
 stars: 95
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-05T09:05:23.341558+05:30'
-last_seen: '2026-08-05T09:05:23.341558+05:30'
-last_checked: '2026-08-05T09:05:23.341558+05:30'
+first_seen: '2026-08-05T14:28:30.857324+05:30'
+last_seen: '2026-08-05T14:28:30.857324+05:30'
+last_checked: '2026-08-05T14:28:30.857324+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation Guide**: Repository provides technical best practices for integrating large language models (LLMs) with retrieval-augmented generation (RAG) systems, focusing on optimization techniques for Chinese-language applications.
-
-- **Python-Based Framework**: All implementations are in Python, leveraging modern NLP libraries (e.g., LangChain, FAISS) for vector storage, retrieval, and generation workflows.
-
-- **Evaluation & Optimization**: Includes methodologies for benchmarking RAG performance, with tools for assessing retrieval accuracy, generation quality, and end-to-end latency in production environments.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and LLMs (e.g., Llama, Qwen).
+- **Evaluation Metrics**: Includes automated evaluation pipelines for assessing retrieval quality (e.g., MRR, Recall@K) and generation performance (e.g., ROUGE, BLEU) with configurable benchmarks.
+- **Deployment Tools**: Provides Dockerized setups and CI/CD templates for scalable RAG deployment, supporting hybrid search (dense + sparse retrieval) and dynamic prompt engineering.
 
 ## Why It Matters
 

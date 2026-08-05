@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elder-plinius/T3MP3ST
-collected_at: '2026-08-05T09:07:28.504234+05:30'
-published_at: '2026-08-05T00:24:20Z'
+collected_at: '2026-08-05T14:30:36.013940+05:30'
+published_at: '2026-08-05T08:24:59Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
-stars: 5418
+stars: 5423
 language: TypeScript
 status: active
 license: AGPL-3.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-07-02T17:53:55Z'
 pushed_at: '2026-08-02T21:17:28Z'
 resource_id: github:elder-plinius/t3mp3st
-first_seen: '2026-08-05T09:07:28.504234+05:30'
-last_seen: '2026-08-05T09:07:28.504234+05:30'
-last_checked: '2026-08-05T09:07:28.504234+05:30'
+first_seen: '2026-08-05T14:30:36.013940+05:30'
+last_seen: '2026-08-05T14:30:36.013940+05:30'
+last_checked: '2026-08-05T14:30:36.013940+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Offensive-Security Framework**: TypeScript-based autonomous red teaming platform enabling coordinated multi-agent offensive operations via a meta-harness architecture for penetration testing and security assessments.
-
-- **Dynamic Agent Orchestration**: Implements self-directed agent collaboration with adaptive task delegation, leveraging AI-driven decision-making for real-time exploitation, reconnaissance, and post-exploitation workflows.
-
-- **Extensible Plugin System**: Modular design supports custom offensive modules (e.g., exploit chains, privilege escalation) with TypeScript interfaces, enabling rapid integration of new attack vectors and security tooling.
+- **Multi-Agent Offensive Security Framework**: T3MP3ST is an autonomous red teaming platform designed as a meta-harness for offensive security operations, leveraging TypeScript for agent-based interactions.
+- **Autonomous Red Teaming Capabilities**: Enables autonomous execution of offensive security tasks through a structured multi-agent system, dynamically coordinating attacks and reconnaissance.
+- **Highly Scalable & Modular**: Built with extensibility in mind, supporting custom agent integration, modular tooling, and real-time adaptive offensive strategies.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: elder-plinius
-- Stars: 5418
-- Forks: 1124
+- Stars: 5423
+- Forks: 1126
 - Language: TypeScript
 - Topics: agents, ai, multi-agent, offensive-security, redteam
-- Last Updated: 2026-08-05T00:24:20Z
+- Last Updated: 2026-08-05T08:24:59Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-07-02T17:53:55Z

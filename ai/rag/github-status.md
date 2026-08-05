@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://githubstatus.com
-published_at: '2026-08-05T09:13:26.582270+05:30'
-collected_at: '2026-08-05T09:13:26.582280+05:30'
+source_url: https://www.githubstatus.com/
+published_at: '2026-08-05T14:33:20.605611+05:30'
+collected_at: '2026-08-05T14:33:20.605625+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-05T09:13:26.582280+05:30'
-last_seen: '2026-08-05T09:13:26.582280+05:30'
-last_checked: '2026-08-05T09:13:26.582280+05:30'
+first_seen: '2026-08-05T14:33:20.605625+05:30'
+last_seen: '2026-08-05T14:33:20.605625+05:30'
+last_checked: '2026-08-05T14:33:20.605625+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics and incident tracking via email, SMS, Slack, or webhooks.
+- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., GitHub.com, Actions, API Requests) with historical uptime tracking (90-day metrics) and incident reporting.
 
-- **Copilot Incidents (July-August 2026)**: Multiple outages reported for Copilot AI Model Providers (e.g., Fable 5, GPT-5.6 Luna, Claude Fable 5) due to upstream provider issues, causing degraded availability or elevated errors in Copilot chat/IDE surfaces.
+- **Copilot Service Incidents** (July 29–Aug 3, 2026) involved upstream AI model provider outages, causing degraded availability for specific models (e.g., Claude Fable 5, GPT-5.6 Luna) with root causes linked to external provider failures.
 
-- **GitHub Actions Outage (July 29, 2026)**: A 37-minute incident caused by under-provisioned internal Actions service, resulting in REST API timeouts, runner registration failures, and delayed workflow starts for ~2% of workflows. Mitigated by scaling the runner-administration service.
+- **GitHub Actions Outage** (July 29, 2026) stemmed from under-provisioned internal services, leading to API timeouts, runner registration failures, and delayed workflow starts (~2% of workflows affected).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T09:13:26.582270+05:30
+- Published: 2026-08-05T14:33:20.605611+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://githubstatus.com
+Original source: https://www.githubstatus.com/

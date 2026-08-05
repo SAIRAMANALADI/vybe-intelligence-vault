@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Tiny Aya Model Family**: 70+ languages with region-tuned expertise and phone-ready performance, enabling high-quality multilingual AI deployment at scale.
+- **Tiny Aya Model Family**: 70+ languages with region-tuned expertise, optimized for phone-ready performance, enabling high-quality multilingual AI globally.
 
-- **Global MMLU Benchmark**: Human-verified, massively multilingual evaluation framework for assessing model performance across diverse linguistic contexts.
+- **Global MMLU Benchmark**: Human-verified, massively multilingual evaluation framework for testing AI model performance across diverse linguistic contexts.
 
-- **Cohere Labs Research Initiatives**: Focus on responsible, scalable, and foundational AI with open-source models, grants, and programs (e.g., Aya models, Open Science Community, C
+- **CALIBER Framework**: Introduces confidence calibration techniques for language models before and after reasoning, enhancing reliability in decision-making.
 
 ## Use Cases
 

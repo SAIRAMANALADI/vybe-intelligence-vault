@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Chunk Size Impact**: Optimal `chunk_size` balances granularity and efficiency; smaller sizes (e.g., 128) risk missing critical context, while larger sizes (e.g., 512–2048) improve relevancy but increase response time.
-- **Evaluation Metrics**: Faithfulness (hallucination-free responses) and Relevancy (query alignment) are measured using GPT-4 evaluators, alongside average response time across chunk sizes.
-- **Optimal Configuration**: Empirical results suggest `chunk_size=1024` maximizes Fait
+- **Chunk size optimization** balances granularity and efficiency in RAG systems: smaller chunks (e.g., 128) risk missing critical context, while larger chunks (e.g., 512+) ensure completeness but may slow response times.
+- **Evaluation metrics** (Faithfulness, Relevancy) and **response time** are key for determining optimal chunk size; empirical testing shows 1024 as a balanced choice for the evaluated dataset.
+- **LlamaIndex’s `Response Evaluation`** automates metric calculation (via `Faithful
 
 ## Use Cases
 

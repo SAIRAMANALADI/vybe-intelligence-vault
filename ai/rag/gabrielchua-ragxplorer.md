@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-05T09:05:03.344785+05:30'
+collected_at: '2026-08-05T14:28:10.906196+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
 - dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
-- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-05T09:05:03.344785+05:30'
-last_seen: '2026-08-05T09:05:03.344785+05:30'
-last_checked: '2026-08-05T09:05:03.344785+05:30'
+first_seen: '2026-08-05T14:28:10.906196+05:30'
+last_seen: '2026-08-05T14:28:10.906196+05:30'
+last_checked: '2026-08-05T14:28:10.906196+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic exploration and debugging of Retrieval-Augmented Generation (RAG) pipelines, leveraging Python and Streamlit for interactive UI.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of retrieval and generation processes.
 
-- **Key Features**: Enables real-time visualization of retrieval quality, prompt engineering, and LLM response analysis, with support for custom dataset integration and modular pipeline inspection.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, facilitating real-time analysis of RAG components (e.g., retrieval quality, LLM responses) with minimal setup overhead.
 
-- **Technical Stack**: Built with Python, Streamlit (for frontend), and Jupyter Notebooks; designed for extensibility via modular components and supports integration with LLM APIs for end-to-end RAG workflow analysis.
+- **Python-Based & Modular**: Built in Python with modular design, supporting customization for different RAG frameworks and datasets; last updated August 2026 with active community contributions (1.2k+ stars, 113 forks).
 
 ## Why It Matters
 

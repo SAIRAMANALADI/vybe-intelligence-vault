@@ -1,41 +1,41 @@
 ---
-title: Spaces · Hugging Face
+title: Models · Hugging Face
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-05T09:10:08.937093+05:30'
-collected_at: '2026-08-05T09:10:08.937105+05:30'
+source_url: https://huggingface.co/docs/hub/en/models#:~:text=The Hugging Face Hub
+  hosts,models as easy as possible.
+published_at: '2026-08-05T14:33:19.113641+05:30'
+collected_at: '2026-08-05T14:33:19.113656+05:30'
 tags:
 - agents
-- creative_dev
+- benchmark
 - dataset
 - leaderboard
 - meta-ai
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-05T09:10:08.937105+05:30'
-last_seen: '2026-08-05T09:10:08.937105+05:30'
-last_checked: '2026-08-05T09:10:08.937105+05:30'
+first_seen: '2026-08-05T14:33:19.113656+05:30'
+last_seen: '2026-08-05T14:33:19.113656+05:30'
+last_checked: '2026-08-05T14:33:19.113656+05:30'
 health_score: 100
 ---
 
-# Spaces · Hugging Face
+# Models · Hugging Face
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio SDK, Docker, and static HTML/JS apps, including GPU/accelerated hardware upgrades.
+- **Model Hosting & Repositories**: The Hugging Face Hub stores ML models in Git-based repositories, inheriting version control, collaboration, and metadata features, with specialized attributes for model exploration and usage.
 
-- **Multi-SDK Support**: Supports multiple deployment methods—Gradio for rapid Python prototyping, Docker for arbitrary environments, and static HTML/JS for lightweight frontends.
+- **Model Metadata & Evaluation**: Models include structured metadata (e.g., `model-card`, `eval-results`) and support gating mechanisms for controlled access, with standardized formats for CO₂ emissions tracking and benchmarking.
 
-- **Advanced Features**: Offers Dev Mode for iterative development, disk/storage management, embedding in external sites, and GitHub Actions integration for CI/CD workflows.
+- **Inference & Integration**: Supports direct inference via widgets, local apps, and libraries (e.g., `transformers`), with APIs for uploading/downloading models and streaming datasets for efficient processing.
 
 ## Why It Matters
 
@@ -45,23 +45,22 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T09:10:08.937093+05:30
+- Published: 2026-08-05T14:33:19.113641+05:30
 
 ## Related Tags
 
 - agents
-- creative_dev
+- benchmark
 - dataset
 - leaderboard
 - meta-ai
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://huggingface.co/docs/hub/spaces
+Original source: https://huggingface.co/docs/hub/en/models#:~:text=The Hugging Face Hub hosts,models as easy as possible.

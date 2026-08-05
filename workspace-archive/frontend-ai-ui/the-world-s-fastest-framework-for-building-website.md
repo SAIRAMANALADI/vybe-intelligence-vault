@@ -13,7 +13,6 @@ importance: medium
 tags:
 - frontend_ui
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Licensing & Adoption**: Distributed under Apache 2.0 License; 89,315 GitHub stars (as of Aug 4, 2026) with active community support via [Hugo forums](https://discourse.gohugo.io).
-
-- **Performance & Architecture**: Go-based, optimized for speed; renders large sites in seconds via advanced templating and fast asset pipelines (image/Sass/JS processing, TailwindCSS support).
-
-- **Development Workflow**: Includes embedded web server for real-time preview of content/structure changes; supports mu
+- Licensed under Apache 2.0, Hugo is open-source and free to use.
+- Built in Go, optimized for speed with a fast asset pipeline (image/Sass/JS processing, TailwindCSS support) and embedded dev server.
+- Supports multilingual content, advanced taxonomies, and frequent releases, with 89,315+ GitHub stars and an active community.
 
 ## Use Cases
 

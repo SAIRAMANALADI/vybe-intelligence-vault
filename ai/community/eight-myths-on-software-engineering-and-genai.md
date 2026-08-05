@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://queue.acm.org/detail.cfm?id=3807963
 hn_url: https://news.ycombinator.com/item?id=49176830
-score: 102
+score: 200
 author: tchalla
-comments_count: 65
+comments_count: 163
 published_at: '2026-08-05T05:20:52+05:30'
-collected_at: '2026-08-05T09:03:35.772251+05:30'
+collected_at: '2026-08-05T14:25:23.618999+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:eight-myths-on-software-engineering-and-genai
 first_seen: '2026-08-05T09:03:35.772251+05:30'
-last_seen: '2026-08-05T09:03:35.772251+05:30'
-last_checked: '2026-08-05T09:03:35.772251+05:30'
+last_seen: '2026-08-05T14:25:23.618999+05:30'
+last_checked: '2026-08-05T14:25:23.618999+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by tchalla. Score: 102, Comments: 65.
+Hacker News story by tchalla. Score: 200, Comments: 163.
 Original Link: https://queue.acm.org/detail.cfm?id=3807963
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: tchalla
-- Score: 102 Upvotes
-- Comments: 65 Discussions
+- Score: 200 Upvotes
+- Comments: 163 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49176830
 - Original Article: https://queue.acm.org/detail.cfm?id=3807963
 

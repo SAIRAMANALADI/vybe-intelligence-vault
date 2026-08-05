@@ -8,9 +8,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
+### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
+- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Staircase AI](https://education.gainsight.com/page/staircase-ai)
@@ -31,6 +31,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2607-07626.md`](../../ai/research/arxiv-2607-07626.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238)
+- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2406-00238.md`](../../ai/research/arxiv-2406-00238.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `81` | **Path**: [`shadcnspace-shadcnspace.md`](../../web-development/nextjs/shadcnspace-shadcnspace.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](../../web-development/nextjs/asbhogal-fyrre-magazine.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-05 09:23 IST*
+*Last updated: 2026-08-05 14:45 IST*

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-08-05T09:04:33.386120+05:30'
-published_at: '2026-08-04T10:12:29Z'
+collected_at: '2026-08-05T14:27:40.913584+05:30'
+published_at: '2026-08-05T07:31:18Z'
 tags:
 - github-repo
 - hackernews
@@ -13,7 +13,7 @@ tags:
 - models
 - openai
 - rag
-stars: 899
+stars: 898
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-08-05T09:04:33.386120+05:30'
-last_seen: '2026-08-05T09:04:33.386120+05:30'
-last_checked: '2026-08-05T09:04:33.386120+05:30'
+first_seen: '2026-08-05T14:27:40.913584+05:30'
+last_seen: '2026-08-05T14:27:40.913584+05:30'
+last_checked: '2026-08-05T14:27:40.913584+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Learning Path**: 5-week structured curriculum in Jupyter Notebooks covering RAG fundamentals, hybrid search (HNSW + keyword search), and multimodal retrieval techniques.
-- **Technical Focus**: Implements binary/scalar quantization, Matryoshka representation learning, and Azure-optimized vector search for scalable LLM augmentation.
-- **Tools & Compliance**: Integrates OpenAI APIs, VS Code, and responsible AI practices for production-grade RAG pipelines.
+- **5-week structured RAG learning path**: Covers hybrid search (vector + keyword), quantization (binary/scalar), and indexing techniques (HNSW) with hands-on Jupyter Notebooks.
+- **Multimodal & responsible AI focus**: Integrates OpenAI/GPT models, Matryoshka representation learning, and Azure deployment with ethical AI guidelines.
+- **Optimized retrieval pipelines**: Demonstrates advanced techniques like binary quantization for efficient vector search and scalar quantization for storage reduction in RAG systems.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 899
+- Stars: 898
 - Forks: 318
 - Language: Jupyter Notebook
 - Topics: ai, azure, binary-quantization, generative-ai, gpt, hnsw, hybrid-search, indexing, keyword-search, language-model, llm, matryoshka-representation-learning, multimodal, openai, rag, responsible-ai, retrieval-augmented-generation, scalar-quantization, vector-search, visual-studio-code
-- Last Updated: 2026-08-04T10:12:29Z
+- Last Updated: 2026-08-05T07:31:18Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-11T17:25:02Z

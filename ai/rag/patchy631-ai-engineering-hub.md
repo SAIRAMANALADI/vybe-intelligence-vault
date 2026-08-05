@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-05T09:04:38.345525+05:30'
-published_at: '2026-08-05T03:32:29Z'
+collected_at: '2026-08-05T14:27:45.857802+05:30'
+published_at: '2026-08-05T07:39:41Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
-stars: 36853
+stars: 36851
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-05T09:04:38.345525+05:30'
-last_seen: '2026-08-05T09:04:38.345525+05:30'
-last_checked: '2026-08-05T09:04:38.345525+05:30'
+first_seen: '2026-08-05T14:27:45.857802+05:30'
+last_seen: '2026-08-05T14:27:45.857802+05:30'
+last_checked: '2026-08-05T14:27:45.857802+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository provides in-depth, hands-on tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and their integration in real-world AI agent applications.
-
-- **Technical Focus on AI Agents & MCP**: Covers advanced topics including AI agent architectures, Model Context Protocol (MCP) implementations, and practical machine learning workflows using Jupyter Notebooks.
-
-- **High-Activity Open-Source Project**: Maintained with recent updates (as of 2026-08-05), featuring 36,853 stars, 6,090 forks, and structured as a collaborative hub for AI engineering best practices.
+- **Content Focus**: Repository provides advanced tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and real-world AI agent applications with practical implementations in Jupyter Notebooks.
+- **Technical Scope**: Covers key AI topics including agents, LLMs, machine learning, Model Context Protocol (MCP), and RAG with structured, hands-on learning resources.
+- **Activity Metrics**: Highly active repository with 36,851 stars, 6,090 forks, and last updated on 2026-08-05, indicating strong community engagement and continuous development.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36853
+- Stars: 36851
 - Forks: 6090
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-08-05T03:32:29Z
+- Last Updated: 2026-08-05T07:39:41Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

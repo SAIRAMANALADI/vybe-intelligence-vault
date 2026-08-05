@@ -4,23 +4,22 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-08-05T09:13:11.221971+05:30'
-collected_at: '2026-08-05T09:13:11.221983+05:30'
+published_at: '2026-08-05T14:36:23.471610+05:30'
+collected_at: '2026-08-05T14:36:23.471625+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
-- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-08-05T09:13:11.221983+05:30'
-last_seen: '2026-08-05T09:13:11.221983+05:30'
-last_checked: '2026-08-05T09:13:11.221983+05:30'
+first_seen: '2026-08-05T14:36:23.471625+05:30'
+last_seen: '2026-08-05T14:36:23.471625+05:30'
+last_checked: '2026-08-05T14:36:23.471625+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and multi-agent collaboration for decision convergence.
+- **Multi-Model & Parallel Execution**: Supports `/model` switching and `/fleet` for parallelized subagent execution across multiple foundation models (Anthropic, Google, OpenAI) within a single task.
 
-- **GitHub-Native Integration**: Built on GitHub’s `/mcp` protocol, it natively interacts with issues, PRs, branches, and labels, inheriting organization policies (branch protections, required checks) while allowing `/plan`-to-PR automation with explicit user approval for changes.
+- **GitHub-Native Agentic Workflow**: Integrates natively with GitHub via `/mcp` for direct issue/PR management, branch creation, and PR generation, inheriting org policies (branch protections, governance) automatically.
 
-- **Session Persistence & Extensibility**: Maintains persistent chat history and context across sessions via `/resume`, supports custom agent behavior via `AGENTS.md` and `/skills`, and integrates with MCP servers for extended functionality, all while operating within terminal-native workflows.
+- **Session Persistence & Autopilot**: Maintains chat history and context across sessions; `/plan` mode enables multi-agent task outlining, while `/autopilot` executes autonomously with explicit user approval for file/command changes.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-05T09:13:11.221971+05:30
+- Published: 2026-08-05T14:36:23.471610+05:30
 
 ## Related Tags
 
@@ -51,7 +50,6 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
-- scripts
 - web-crawled
 - workflows
 - youtube

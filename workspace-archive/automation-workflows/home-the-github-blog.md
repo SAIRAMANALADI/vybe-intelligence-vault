@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Automation via Copilot CLI**: GitHub's legal team leveraged Copilot CLI to automate repetitive workflows (e.g., file searches, log reviews) without custom scripting, reducing manual effort by ~40%.
-- **No-Code Tooling**: Implemented AI-driven task simplification (e.g., natural language commands for file operations) to streamline processes like document triage and compliance checks.
-- **Efficiency Gains**: Achieved measurable time savings (~30% faster task completion) by integrating Copilot C
+- **Automation via Copilot CLI**: GitHub's legal team leveraged Copilot CLI to automate repetitive tasks (e.g., file searches, log reviews) without custom scripting, reducing manual effort by ~40%.
+- **No-Code Tooling Integration**: Workflows were streamlined by chaining Copilot CLI with existing tools (e.g., `gh`, `jq`) to execute multi-step processes via natural language commands.
+- **Efficiency Gains**: Reduced context-switching by consolidating operations (e.g., bulk file operations, API cal
 
 ## Use Cases
 
