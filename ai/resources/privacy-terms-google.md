@@ -4,18 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/
-published_at: '2026-08-04T14:49:10.329431+05:30'
-collected_at: '2026-08-04T14:49:10.329445+05:30'
+published_at: '2026-08-06T01:37:30.358865+05:30'
+collected_at: '2026-08-06T01:37:30.358878+05:30'
 tags:
 - hackernews
-- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:privacy-terms-google
-first_seen: '2026-08-04T14:49:10.329445+05:30'
-last_seen: '2026-08-04T14:49:10.329445+05:30'
-last_checked: '2026-08-04T14:49:10.329445+05:30'
+first_seen: '2026-08-06T01:37:30.358878+05:30'
+last_seen: '2026-08-06T01:37:30.358878+05:30'
+last_checked: '2026-08-06T01:37:30.358878+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Usage**: Google's [Privacy Policy](https://policies.google.com/privacy) outlines the types of data collected (e.g., personal, device, and usage data), purposes (e.g., service provision, personalization, analytics), and user rights for review, update, or deletion under GDPR/CCPA compliance frameworks.
+- **Data Collection & Usage**: Google's Privacy Policy outlines the types of data collected (e.g., personal info, usage data, device info) and purposes (e.g., service provision, personalization, security) while emphasizing user control over data review and updates.
 
-- **Service Terms & Security**: [Terms of Service](https://policies.google.com/terms) define user obligations, prohibited activities, and liability limitations, while the [Google Safety Center](https://safety.google) details built-in security measures (e.g., encryption, phishing protection) and privacy controls (e.g., activity dashboards, ad personalization toggles).
+- **Security & Compliance Framework**: Google enforces built-in security measures, privacy controls, and tools (e.g., Google Safety Center) to protect user data, aligned with its [Privacy and Security Principles](https://safety.google/principles) guiding product development and data handling.
 
-- **Product-Specific Privacy Controls**: The [Google Product Privacy Guide](https://policies.google.com/technologies/product-privacy) provides granular controls for services like Gmail, Search, and YouTube, enabling users to manage data sharing, ad targeting, and activity logging via centralized [Google Account](https://myaccount.google.com/) settings.
+- **Product-Specific Privacy Controls**: The [Google Product Privacy Guide](https://policies.google.com/technologies/product-privacy) provides granular controls for managing personal data across services (e.g., Gmail, Search, YouTube), enabling users to configure privacy settings per product.
 
 ## Why It Matters
 
@@ -37,12 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T14:49:10.329431+05:30
+- Published: 2026-08-06T01:37:30.358865+05:30
 
 ## Related Tags
 
 - hackernews
-- reddit
 - web-crawled
 - youtube
 

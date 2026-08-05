@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt
 hn_url: https://news.ycombinator.com/item?id=49181083
-score: 173
+score: 209
 author: theanonymousone
-comments_count: 121
+comments_count: 141
 published_at: '2026-08-05T16:31:37+05:30'
-collected_at: '2026-08-05T22:25:39.813851+05:30'
+collected_at: '2026-08-06T01:27:51.817303+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:position-llms-can-t-jump
 first_seen: '2026-08-05T22:25:39.813851+05:30'
-last_seen: '2026-08-05T22:25:39.813851+05:30'
-last_checked: '2026-08-05T22:25:39.813851+05:30'
+last_seen: '2026-08-06T01:27:51.817303+05:30'
+last_checked: '2026-08-06T01:27:51.817303+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by theanonymousone. Score: 173, Comments: 121.
+Hacker News story by theanonymousone. Score: 209, Comments: 141.
 Original Link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: theanonymousone
-- Score: 173 Upvotes
-- Comments: 121 Discussions
+- Score: 209 Upvotes
+- Comments: 141 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49181083
 - Original Article: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt
 

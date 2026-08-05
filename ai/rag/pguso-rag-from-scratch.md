@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-05T22:26:45.764327+05:30'
+collected_at: '2026-08-06T01:28:55.835104+05:30'
 published_at: '2026-08-05T14:15:06Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1490
 language: JavaScript
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-05T22:26:45.764327+05:30'
-last_seen: '2026-08-05T22:26:45.764327+05:30'
-last_checked: '2026-08-05T22:26:45.764327+05:30'
+first_seen: '2026-08-06T01:28:55.835104+05:30'
+last_seen: '2026-08-06T01:28:55.835104+05:30'
+last_checked: '2026-08-06T01:28:55.835104+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using Node.js and `node-llama-cpp`, emphasizing transparency by avoiding proprietary black boxes.
-- **Core Components**: Implements embeddings, vector search, retrieval mechanisms, and context-augmented generation to build a functional RAG pipeline.
-- **Local LLM Integration**: Utilizes local LLMs for privacy and control, with a focus on practical, hands-on learning for AI agents and RAG-based chatbots.
+- **Educational RAG Implementation**: Provides a step-by-step guide to building a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs, focusing on embeddings, vector search, retrieval, and context-augmented generation without relying on proprietary APIs or black-box solutions.
+
+- **Technical Stack**: Utilizes JavaScript/Node.js with `node-llama-cpp` for local LLM inference, enabling a self-contained pipeline for embedding generation, vector storage, and retrieval-augmented generation.
+
+- **Open-Source & Tutorial-Driven**: Designed as an educational resource with a permissive license (MIT), covering RAG pipelines, chatbot integration, and AI agent workflows for hands-on learning in AI/ML development.
 
 ## Why It Matters
 

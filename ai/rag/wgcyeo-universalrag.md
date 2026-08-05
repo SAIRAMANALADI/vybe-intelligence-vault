@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-05T22:28:15.851675+05:30'
+collected_at: '2026-08-06T01:30:25.868495+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- models
+- paper
 - python
 - rag
 stars: 174
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-05T22:28:15.851675+05:30'
-last_seen: '2026-08-05T22:28:15.851675+05:30'
-last_checked: '2026-08-05T22:28:15.851675+05:30'
+first_seen: '2026-08-06T01:30:25.868495+05:30'
+last_seen: '2026-08-06T01:30:25.868495+05:30'
+last_checked: '2026-08-06T01:30:25.868495+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence), leveraging unified embeddings and cross-modal retrieval.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities), leveraging a unified indexing and retrieval pipeline.
 
-- **Modular Architecture**: Implements a plug-and-play system with modality-specific encoders, a shared retrieval index, and a modality-agnostic generator, optimizing for heterogeneous corpus integration without modality-specific fine-tuning.
+- **ACL 2026 Oral Paper**: The system is presented as an oral paper at ACL 2026, highlighting its novelty in handling heterogeneous corpora with a single architecture, integrating modality-agnostic encoders and adaptive retrieval strategies.
 
-- **ACL 2026 Oral Contribution**: Proposes novel evaluation metrics and benchmarks for cross-modal RAG, demonstrating state-of-the-art performance in zero-shot and few-shot settings across multimodal datasets.
+- **Open-Source Implementation**: The Python-based repository provides a modular toolkit for deploying UniversalRAG, including pre-trained models, retrieval optimizations, and evaluation benchmarks for multimodal RAG tasks.
 
 ## Why It Matters
 

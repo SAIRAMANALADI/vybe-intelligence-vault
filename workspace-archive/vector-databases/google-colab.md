@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Required**: Access to the linked resource necessitates a Google account sign-in via OAuth2, as indicated by the `ServiceLogin` endpoint with `passive=true` and a redirect to `colab.research.google.com`.
+- **Authentication Required**: Access to the linked resource necessitates a Google account sign-in via Google's OAuth 2.0 flow.
 
-- **Resource Location**: The target is a Jupyter Notebook hosted on GitHub (`pinecone-io/examples`) under the path `/docs/pinecone-quickstart.ipynb`, accessible via Google Colab.
+- **Redirect Mechanism**: Upon successful authentication, the user is redirected to a Jupyter Notebook hosted on Google Colab (`colab.research.google.com`) for Pinecone quickstart documentation.
 
-- **Session Handling**: The `continue` parameter in the URL (`https%3A%2F%2Fcolab.research.google
+- **Session Persistence**: The `passive=true` parameter ensures the authentication flow does not force a new session, maintaining existing user sessions where applicable.
 
 ## Use Cases
 

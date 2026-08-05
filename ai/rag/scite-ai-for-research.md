@@ -3,9 +3,9 @@ title: AI for Research | Scite
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.scite.ai
-published_at: '2026-08-05T09:12:11.557974+05:30'
-collected_at: '2026-08-05T09:12:11.557987+05:30'
+source_url: https://www.scite.ai/
+published_at: '2026-08-06T01:34:12.644805+05:30'
+collected_at: '2026-08-06T01:34:12.644815+05:30'
 tags:
 - anthropic
 - dataset
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-for-research-scite
-first_seen: '2026-08-05T09:12:11.557987+05:30'
-last_seen: '2026-08-05T09:12:11.557987+05:30'
-last_checked: '2026-08-05T09:12:11.557987+05:30'
+first_seen: '2026-08-06T01:34:12.644815+05:30'
+last_seen: '2026-08-06T01:34:12.644815+05:30'
+last_checked: '2026-08-06T01:34:12.644815+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Database & Coverage**: Scite indexes **1.6B+ citations** across **300M+ articles, preprints, books, patents, datasets, clinical trials, and grants**, with direct publisher agreements (e.g., Wiley, SAGE) enabling full-text search beyond abstracts.
-
-- **Smart Citation Analysis**: Uses **Smart Citations** to classify later research as supporting, contrasting, or discussing prior claims, enabling verification of evidence strength and contextualizing findings within the broader literature.
-
-- **AI Integration & Verification**: Provides an **AI Assistant** that generates answers grounded in cited literature, with **one-click verification** linking claims to specific sentences in source papers; integrates with tools like **Claude, ChatGPT, Zotero, and MCP-compatible systems**.
+- **Database & Coverage**: Aggregates 300M+ scholarly items (articles, preprints, patents, datasets) with full-text search across 40+ publisher agreements, enabling access beyond abstracts and paywalls.
+- **Smart Citation Analysis**: Uses 1.6B+ indexed citations to classify later research as supporting, contradicting, or discussing prior claims, providing verifiable evidence signals for claims.
+- **AI Integration & Verification**: Deployed via MCP (e.g., Claude/ChatGPT), Zotero, and API; every AI-generated answer links to specific paper sentences for one-click verification and citation integrity.
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T09:12:11.557974+05:30
+- Published: 2026-08-06T01:34:12.644805+05:30
 
 ## Related Tags
 
@@ -58,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.scite.ai
+Original source: https://www.scite.ai/

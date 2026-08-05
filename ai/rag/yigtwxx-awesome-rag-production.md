@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-05T22:27:25.788891+05:30'
+collected_at: '2026-08-06T01:29:35.818612+05:30'
 published_at: '2026-08-03T16:39:06Z'
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 stars: 184
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-03T08:23:24Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-05T22:27:25.788891+05:30'
-last_seen: '2026-08-05T22:27:25.788891+05:30'
-last_checked: '2026-08-05T22:27:25.788891+05:30'
+first_seen: '2026-08-06T01:29:35.818612+05:30'
+last_seen: '2026-08-06T01:29:35.818612+05:30'
+last_checked: '2026-08-06T01:29:35.818612+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates validated tools, frameworks, and methodologies for deploying scalable Retrieval-Augmented Generation (RAG) systems in production environments, emphasizing reliability and performance.
+- **Curated Tools & Frameworks**: Repository aggregates production-grade RAG components including vector databases (e.g., Pinecone, Weaviate), LLM frameworks (LangChain, LlamaIndex), and MLOps tools (MLflow, Kubeflow) for scalable deployments.
 
-- **Comprehensive Toolset Coverage**: Includes vetted solutions for embeddings, vector databases, LLM orchestration (e.g., LangChain), and MLOps/LLMOps pipelines, with a focus on Python-based implementations.
+- **Best Practices Catalog**: Includes battle-tested methodologies for embedding optimization, retrieval tuning, latency reduction, and hybrid search strategies in high-throughput RAG pipelines.
 
-- **Active Maintenance & Community Engagement**: Last updated in 2026, the repository reflects ongoing updates and has garnered moderate community adoption (184 stars, 46 forks), indicating sustained relevance in the RAG ecosystem.
+- **Python-Centric Ecosystem**: Focuses on Python-based tooling (e.g., Hugging Face Transformers, FAISS) with integrations for LLMOps, CI/CD, and monitoring in enterprise-grade RAG systems.
 
 ## Why It Matters
 

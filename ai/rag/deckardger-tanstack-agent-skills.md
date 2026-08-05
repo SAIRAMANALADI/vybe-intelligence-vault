@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-05T17:05:04.664838+05:30'
+collected_at: '2026-08-06T01:31:16.176796+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-05T17:05:04.664838+05:30'
-last_seen: '2026-08-05T17:05:04.664838+05:30'
-last_checked: '2026-08-05T17:05:04.664838+05:30'
+first_seen: '2026-08-06T01:31:16.176796+05:30'
+last_seen: '2026-08-06T01:31:16.176796+05:30'
+last_checked: '2026-08-06T01:31:16.176796+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced caching strategies, stale-while-revalidate patterns, and automatic background refetching for AI-driven applications to minimize latency and maximize data freshness.
+- **TanStack Query Best Practices**: Optimized patterns for efficient data fetching, caching strategies, and stale-while-revalidate (SWR) mechanisms to minimize API calls and improve performance in AI-driven applications.
 
-- **Router-Level State Management**: Implements dynamic route matching with persistent client-side state synchronization, leveraging TanStack Router’s file-based routing and loader functions for seamless AI agent navigation.
+- **TanStack Router Integration**: Structured routing solutions leveraging file-based routing, lazy loading, and type-safe navigation to enhance scalability and maintainability in agent-based systems.
 
-- **Start Framework Optimization**: Provides pre-configured SSR/SSG patterns with hydration strategies, ensuring sub-100ms TTI (Time to Interactive) for AI agents while maintaining hydration consistency across server and client boundaries.
+- **TanStack Start Optimization**: Lightweight SSR/SSG configurations with hydration strategies, ensuring minimal bundle size and fast initial load times for AI agents executing client-side tasks.
 
 ## Why It Matters
 

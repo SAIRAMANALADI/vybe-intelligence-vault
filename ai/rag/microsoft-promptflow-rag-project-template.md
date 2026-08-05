@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/promptflow-rag-project-template
-collected_at: '2026-08-05T22:27:00.737964+05:30'
+collected_at: '2026-08-06T01:29:10.893506+05:30'
 published_at: '2026-07-21T11:30:26Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-14T01:47:16Z'
 pushed_at: '2024-09-06T22:11:58Z'
 resource_id: github:microsoft/promptflow-rag-project-template
-first_seen: '2026-08-05T22:27:00.737964+05:30'
-last_seen: '2026-08-05T22:27:00.737964+05:30'
-last_checked: '2026-08-05T22:27:00.737964+05:30'
+first_seen: '2026-08-06T01:29:10.893506+05:30'
+last_seen: '2026-08-06T01:29:10.893506+05:30'
+last_checked: '2026-08-06T01:29:10.893506+05:30'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ health_score: 100
 
 - **Multi-Search Backend Integration**: Supports **CosmosDB**, **PostgreSQL**, and **Azure AI Search** as vector databases for retrieval, enabling hybrid or multi-modal search strategies.
 
-- **Jupyter Notebook-Based Workflow**: Provides executable notebooks for structured experimentation, evaluation metrics, and deployment workflows in a reproducible format.
+- **Jupyter Notebook-Based Workflow**: Entire project structured as executable notebooks, facilitating interactive experimentation, prompt engineering, and evaluation of RAG models.
 
 ## Why It Matters
 

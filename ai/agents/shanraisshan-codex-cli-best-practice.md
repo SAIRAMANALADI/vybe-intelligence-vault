@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-05T22:29:05.791220+05:30'
+collected_at: '2026-08-06T01:31:10.913790+05:30'
 published_at: '2026-08-04T12:21:57Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-05T22:29:05.791220+05:30'
-last_seen: '2026-08-05T22:29:05.791220+05:30'
-last_checked: '2026-08-05T22:29:05.791220+05:30'
+first_seen: '2026-08-06T01:31:10.913790+05:30'
+last_seen: '2026-08-06T01:31:10.913790+05:30'
+last_checked: '2026-08-06T01:31:10.913790+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using Codex CLI, emphasizing automation, modular hooks, and context engineering for scalable AI-driven development workflows.
 
-- **CLI-Centric AI Development**: Focuses on Codex CLI commands, skills, and best practices for OpenAI’s Codex, including agent orchestration, CLI-based skill execution, and context management for scalable AI agent interactions.
+- **Codex CLI Best Practices**: Documents optimized commands, skills, and hooks for OpenAI Codex, including context management, skill chaining, and CLI-based agent orchestration to enhance productivity and reproducibility in AI-assisted coding.
 
-- **Practical Implementation Guide**: Provides a hands-on framework for Pakistani developers (and others) to implement Codex CLI agents, covering hooks, workflow automation, and performance optimization for AI-assisted coding tasks.
+- **Pakistan-Centric AI Development**: Showcases contributions from Pakistani developers, with a focus on localized AI tooling, community-driven practices, and practical implementations of Codex CLI in real-world engineering scenarios.
 
 ## Why It Matters
 

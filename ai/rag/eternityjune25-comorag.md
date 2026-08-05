@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-05T22:28:10.751660+05:30'
+collected_at: '2026-08-06T01:30:20.844517+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-05T22:28:10.751660+05:30'
-last_seen: '2026-08-05T22:28:10.751660+05:30'
-last_checked: '2026-08-05T22:28:10.751660+05:30'
+first_seen: '2026-08-06T01:30:20.844517+05:30'
+last_seen: '2026-08-06T01:30:20.844517+05:30'
+last_checked: '2026-08-06T01:30:20.844517+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
+- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long narrative reasoning with structured memory retrieval.
 
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
+- **Memory-Organized RAG**: Implements hierarchical memory modules (e.g., episodic, semantic) to dynamically store, retrieve, and synthesize contextual information for coherent multi-turn reasoning in long narratives.
 
-- **AAAI 2026 Contribution**: Proposes a novel approach to long-form reasoning in RAG systems, validated through empirical benchmarks and theoretical analysis, positioning it as a cutting-edge solution for complex reasoning tasks.
+- **AAAI 2026 Poster**: Presented as a novel approach for enhancing LLM reasoning in extended dialogues or documents, with empirical validation on long-form reasoning benchmarks (codebase includes Python implementation).
 
 ## Why It Matters
 

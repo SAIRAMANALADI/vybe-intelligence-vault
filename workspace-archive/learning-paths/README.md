@@ -24,8 +24,8 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [Collections · GitHub](https://github.com/collections)
 - [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
-- [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs)
+- [GitHub · GitHub](https://github.com/github)
+- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-05 22:44 IST*
+*Last updated: 2026-08-06 01:46 IST*

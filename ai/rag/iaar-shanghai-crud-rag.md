@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-05T22:27:45.797196+05:30'
+collected_at: '2026-08-06T01:29:55.848124+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-05T22:27:45.797196+05:30'
-last_seen: '2026-08-05T22:27:45.797196+05:30'
-last_checked: '2026-08-05T22:27:45.797196+05:30'
+first_seen: '2026-08-06T01:29:55.848124+05:30'
+last_seen: '2026-08-06T01:29:55.848124+05:30'
+last_checked: '2026-08-06T01:29:55.848124+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Development**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs) with a focus on comprehensive Chinese context understanding and generation.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive metrics for Large Language Models (LLMs) in Chinese contexts.
 
-- **Evaluation Framework**: Provides a structured framework for assessing RAG performance across multiple dimensions, including retrieval accuracy, generation quality, and end-to-end system efficiency in Chinese language tasks.
+- **Evaluation Scope**: Tests LLMs on **C**omplex queries, **R**etrieval efficiency, **U**nderstanding depth, and **D**omain adaptability, covering multi-turn dialogues and long-form generation.
 
-- **Open-Source Implementation**: Released as an open-source Python repository, offering tools, datasets, and evaluation metrics to facilitate reproducible research and benchmarking of RAG systems in Chinese LLMs.
+- **Open-Source Framework**: Provides a Python-based toolkit for benchmarking, including retrieval modules, evaluation scripts, and standardized datasets for reproducibility.
 
 ## Why It Matters
 

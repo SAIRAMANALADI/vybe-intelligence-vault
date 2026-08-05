@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Pinecone's status page** provides real-time incident notifications via email, SMS (100+ country codes supported), Slack, and RSS/Atom feeds, with OTP verification for security.
-- **Operational metrics** show 100% uptime across all GCP regions (e.g., `us-west1-gcp`, `eu-west1-gcp`) and most AWS/Azure regions (e.g., `us-east-1-aws`, `eastus-azure`), except `Serverless Indexes` with 99.95% uptime.
-- **Recent incident** (Jul 21, 2026) involved 5xx errors in Azure `eastus2` Serverless namespaces,
+- Pinecone's status page shows **100% uptime** across all regions (GCP, AWS, Azure) and services (Console, Pod Indexes, Serverless Indexes, Index Management, Inference, Assistant) over the last 90 days, with Serverless Indexes in AWS us-east-1 at **99.79%**.
+- Incident notifications support **email, SMS (global), Slack, and RSS/Atom feeds**, with reCAPTCHA and Google Terms/Policies applied for security and compliance.
+- No major outages or incidents reported in the past 90 days, with all service
 
 ## Use Cases
 

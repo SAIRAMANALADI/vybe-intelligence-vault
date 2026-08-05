@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-08-05T22:28:25.782467+05:30'
+collected_at: '2026-08-06T01:30:35.855607+05:30'
 published_at: '2026-08-05T15:05:50Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
-- workflows
 stars: 8316
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-08-05T22:28:25.782467+05:30'
-last_seen: '2026-08-05T22:28:25.782467+05:30'
-last_checked: '2026-08-05T22:28:25.782467+05:30'
+first_seen: '2026-08-06T01:30:35.855607+05:30'
+last_seen: '2026-08-06T01:30:35.855607+05:30'
+last_checked: '2026-08-06T01:30:35.855607+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Remote MCP Server for GitHub**: Provides a TypeScript-based, open-source MCP (Model Context Protocol) server enabling direct interaction with any GitHub repository, facilitating structured AI agent access to codebases.
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide real-time, accurate context from any GitHub repository, mitigating AI code hallucinations by ensuring LLM access to verified, up-to-date codebases.
 
-- **Mitigates Code Hallucinations**: Acts as a deterministic interface between LLMs and GitHub, ensuring accurate, context-aware code retrieval and modification to reduce AI-generated inaccuracies.
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with agentic AI tools (e.g., Claude, Copilot, Cursor) by exposing repository data via the MCP standard, facilitating secure and structured interactions with GitHub projects.
 
-- **Agentic AI Integration**: Supports agentic workflows (e.g., Claude, Copilot, Cursor) by exposing GitHub repositories as structured MCP resources, enabling seamless AI-driven development tasks.
+- **Features**: Supports dynamic repository queries (e.g., file contents, commit history, issues) without local cloning, optimized for AI agents requiring precise, contextualized GitHub data with last-updated timestamp tracking (2026-08-05).
 
 ## Why It Matters
 

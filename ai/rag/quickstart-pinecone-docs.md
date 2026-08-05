@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.pinecone.io/guides/get-started/quickstart
-published_at: '2026-08-04T09:20:47.677807+05:30'
-collected_at: '2026-08-04T09:20:47.677816+05:30'
+published_at: '2026-08-06T01:37:55.294632+05:30'
+collected_at: '2026-08-06T01:37:55.294648+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:quickstart-pinecone-docs
-first_seen: '2026-08-04T09:20:47.677816+05:30'
-last_seen: '2026-08-04T09:20:47.677816+05:30'
-last_checked: '2026-08-04T09:20:47.677816+05:30'
+first_seen: '2026-08-06T01:37:55.294648+05:30'
+last_seen: '2026-08-06T01:37:55.294648+05:30'
+last_checked: '2026-08-06T01:37:55.294648+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Integrated Embedding Workflow**: Pinecone's `create_index_for_model` with `llama-text-embed-v2` enables serverless indexing and vectorization; `upsert_records` requires `_id` and `content` fields per SDK v9+; `search()` uses `inputs.text` for queries and supports reranking via `bge-reranker-v2-m3`.
-
-- **Authentication & Setup**: Requires Pinecone API key (created in console) and optional LLM provider keys (Anthropic/OpenAI); supports Starter (free), Builder ($20/month), or Standard trial (21 days/$300 credits) plans with regional cloud deployment.
-
-- **Multi-Path Integration**: Provides direct SDK integration (Python/JS/Java/Go), AI coding tool plugins (Claude/Cursor), or no-code workflows via n8n; emphasizes reproducible setup via Pinecone CLI or MCP server for IDE-based development.
+- Pinecone supports two data modeling approaches: **records** (dense/sparse vectors) via `create_index_for_model` + `upsert_records` + `search`, or **documents** (full-text search with BM25) for keyword/phrase matching.
+- SDK v9+ requires explicit keyword arguments for operations like `upsert_records` and `search`, with `_id` + mapped fields (e.g., `content`) for vector embedding.
+- Integrated embedding uses models like `llama-text-embed-v2` with field mapping (e.g., `{"text": "content"}`), while reranking supports models like `bge-reranker-v2-m3` for hybrid retrieval.
 
 ## Why It Matters
 
@@ -44,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T09:20:47.677807+05:30
+- Published: 2026-08-06T01:37:55.294632+05:30
 
 ## Related Tags
 

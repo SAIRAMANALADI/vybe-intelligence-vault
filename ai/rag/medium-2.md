@@ -3,17 +3,18 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/creators
-published_at: '2026-08-05T22:34:14.653842+05:30'
-collected_at: '2026-08-05T22:34:14.653857+05:30'
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+published_at: '2026-08-06T01:35:38.172790+05:30'
+collected_at: '2026-08-06T01:35:38.172801+05:30'
 tags:
+- agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-05T22:34:14.653857+05:30'
-last_seen: '2026-08-05T22:34:14.653857+05:30'
-last_checked: '2026-08-05T22:34:14.653857+05:30'
+first_seen: '2026-08-06T01:35:38.172801+05:30'
+last_seen: '2026-08-06T01:35:38.172801+05:30'
+last_checked: '2026-08-06T01:35:38.172801+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Earnings Model**: Medium Partner Program compensates writers based on member engagement metrics (30+ second read time, claps, highlights, replies, follows) and Boosted content, prioritizing long-form, high-quality reads over clickbait.
+- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution, including derivative works (e.g., previews, curated lists).
 
-- **Follower & Boost Bonuses**: Writers earn additional revenue when members follow their work and engage consistently, with Boosted stories receiving higher payouts per interaction.
+- **Dispute Resolution & Liability Limits**: Mandatory **binding arbitration** (JAMS Rules) replaces court trials for disputes, waiving class actions; liability is capped at **$50 USD or fees paid**, excluding gross negligence/fraud, with informal resolution required before arbitration.
 
-- **Calculation Metrics**: Total earnings derive from read time, views, and reader actions (claps, highlights, replies, new follows), with detailed breakdowns available in the [Partner Program Guide](https://help.medium.com/hc/en-us/articles/115011694187-Getting-started-with-the-Partner-Program).
+- **Data Processing & Termination Rights**: Users consent to **cross-border data processing** (US/international); Medium may **suspend/terminate access** at will, and users must indemnify Medium for violations of Terms/IP/privacy laws.
 
 ## Why It Matters
 
@@ -35,13 +36,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T22:34:14.653842+05:30
+- Published: 2026-08-06T01:35:38.172790+05:30
 
 ## Related Tags
 
+- agents
 - rag
 - web-crawled
 
 ## Source
 
-Original source: https://medium.com/creators
+Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f

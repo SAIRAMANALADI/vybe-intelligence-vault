@@ -3,10 +3,8 @@ title: pinecone-io/canopy
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/pinecone-io/canopy?source=post_page
-resource_id: github:pinecone-io/canopy
------dba899ae0355---------------------------------------
-collected_at: '2026-08-05T01:33:29.160078+05:30'
+source_url: https://github.com/pinecone-io/canopy
+collected_at: '2026-08-06T01:33:01.039712+05:30'
 published_at: '2026-07-30T13:00:55Z'
 tags:
 - github-repo
@@ -20,9 +18,9 @@ archived: true
 created_at: '2023-08-08T15:42:16Z'
 pushed_at: '2024-11-13T06:32:28Z'
 resource_id: github:pinecone-io/canopy
-first_seen: '2026-08-05T01:33:29.160078+05:30'
-last_seen: '2026-08-05T01:33:29.160078+05:30'
-last_checked: '2026-08-05T01:33:29.160078+05:30'
+first_seen: '2026-08-06T01:33:01.039712+05:30'
+last_seen: '2026-08-06T01:33:01.039712+05:30'
+last_checked: '2026-08-06T01:33:01.039712+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Framework**: Open-source Python library for Retrieval Augmented Generation (RAG) pipelines, integrating LLMs with Pinecone’s vector database for contextual retrieval and generation.
-
-- **Context Engine**: Dynamically manages and optimizes context windows by filtering, re-ranking, and structuring retrieved data to enhance LLM response quality and efficiency.
-
-- **Pinecone Integration**: Leverages Pinecone’s managed vector database for scalable similarity search, enabling low-latency retrieval of relevant context for generative AI applications.
+- **RAG Framework**: Pinecone's Canopy is a Retrieval Augmented Generation (RAG) framework designed to enhance LLM outputs by integrating vector database retrieval with generative AI pipelines.
+- **Context Engine**: Implements a context engine for dynamic, real-time retrieval and augmentation of relevant data, optimizing LLM responses with low-latency vector similarity search.
+- **Python-Based**: Built in Python, leveraging Pinecone's vector database for scalable, high-performance semantic search and retrieval operations.
 
 ## Why It Matters
 
@@ -69,4 +65,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/pinecone-io/canopy?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/pinecone-io/canopy

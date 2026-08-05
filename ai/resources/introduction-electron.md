@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://electronjs.org/docs/latest
-published_at: '2026-08-05T17:10:56.569802+05:30'
-collected_at: '2026-08-05T17:10:56.569817+05:30'
+published_at: '2026-08-06T01:37:42.599837+05:30'
+collected_at: '2026-08-06T01:37:42.599847+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-08-05T17:10:56.569817+05:30'
-last_seen: '2026-08-05T17:10:56.569817+05:30'
-last_checked: '2026-08-05T17:10:56.569817+05:30'
+first_seen: '2026-08-06T01:37:42.599847+05:30'
+last_seen: '2026-08-06T01:37:42.599847+05:30'
+last_checked: '2026-08-06T01:37:42.599847+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop app framework**: Electron combines Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run natively on Windows, macOS, and Linux without requiring native development expertise.
+- **Cross-platform desktop apps**: Electron combines Chromium for rendering and Node.js for backend, enabling JavaScript/HTML/CSS-based desktop apps deployable on Windows, macOS, and Linux without native development.
 
-- **Core architecture**: Electron apps consist of a main process (Node.js-based, managing app lifecycle via `app` module) and renderer processes (Chromium-based, loading UI via `BrowserWindow` and `webPreferences` with optional `preload.js` scripts for privileged APIs).
+- **Core components**: Electron apps consist of `main.js` (Node.js process managing windows), `preload.js` (bridge between renderer and Node.js), and `index.html` (UI), with `BrowserWindow` handling window creation and lifecycle events.
 
-- **Development ecosystem**: Electron provides official docs (tutorials, API references, best practices), a sandboxed prototyping tool (`Electron Fiddle`), community support (Discord), and debugging/testing tools for distribution and quality assurance.
+- **Documentation & tools**: Official docs include tutorials, API references, best practices, and distribution guides; **Electron Fiddle** provides a sandbox for prototyping and testing APIs directly from documentation examples.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T17:10:56.569802+05:30
+- Published: 2026-08-06T01:37:42.599837+05:30
 
 ## Related Tags
 

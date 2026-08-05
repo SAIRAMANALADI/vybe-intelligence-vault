@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/strnad/CrewAI-Studio
-collected_at: '2026-08-05T22:30:45.892765+05:30'
+collected_at: '2026-08-06T01:32:51.047872+05:30'
 published_at: '2026-08-03T11:45:19Z'
 tags:
 - agents
 - github-repo
 - python
-- scripts
+- workflows
 stars: 1333
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-05-30T08:15:40Z'
 pushed_at: '2026-08-03T11:44:15Z'
 resource_id: github:strnad/crewai-studio
-first_seen: '2026-08-05T22:30:45.892765+05:30'
-last_seen: '2026-08-05T22:30:45.892765+05:30'
-last_checked: '2026-08-05T22:30:45.892765+05:30'
+first_seen: '2026-08-06T01:32:51.047872+05:30'
+last_seen: '2026-08-06T01:32:51.047872+05:30'
+last_checked: '2026-08-06T01:32:51.047872+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **GUI for CrewAI Management**: A Streamlit-based, no-code interface for configuring, running, and monitoring CrewAI agents and tasks across platforms.
-- **Environment Agnostic**: Supports both Conda and virtual environments for dependency isolation without requiring manual Python scripting.
-- **Multi-Agent Orchestration**: Enables parallel or sequential task execution with real-time progress tracking and visualization via a user-friendly dashboard.
+- **GUI for CrewAI**: A no-code, multi-platform Streamlit-based interface for managing CrewAI agents and tasks without requiring programming knowledge.
+- **Environment Support**: Compatible with Conda and virtual environments, enabling isolated Python setups for CrewAI workflows.
+- **Recent Update**: Last modified on 2026-08-03, with 1,333 stars and 315 forks, indicating active community engagement.
 
 ## Why It Matters
 

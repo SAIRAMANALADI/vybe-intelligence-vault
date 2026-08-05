@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-05T22:28:10.798009+05:30'
+collected_at: '2026-08-06T01:30:20.904699+05:30'
 published_at: '2026-08-05T09:20:35Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-05T22:28:10.798009+05:30'
-last_seen: '2026-08-05T22:28:10.798009+05:30'
-last_checked: '2026-08-05T22:28:10.798009+05:30'
+first_seen: '2026-08-06T01:30:20.904699+05:30'
+last_seen: '2026-08-06T01:30:20.904699+05:30'
+last_checked: '2026-08-06T01:30:20.904699+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Agent Framework**: Introduces a vertically integrated multi-agent system for graph-based retrieval-augmented reasoning, enabling complex knowledge synthesis through specialized sub-agents (e.g., planner, retriever, executor) orchestrated via a controller.
+- **Vertically Unified Agents**: Introduces a novel framework integrating specialized agents for graph-based retrieval and complex reasoning, optimizing multi-step task decomposition in GraphRAG systems.
 
-- **Graph-Centric RAG Architecture**: Leverages heterogeneous graph structures (e.g., knowledge graphs, document graphs) to dynamically retrieve and fuse multi-modal context, optimizing long-form reasoning with hierarchical retrieval and adaptive query routing.
+- **Graph-Centric RAG**: Leverages structured graph representations to enhance retrieval-augmented generation (RAG), enabling efficient context fusion and hierarchical reasoning across interconnected data nodes.
 
-- **Performance & Scalability**: Achieves state-of-the-art results on ICLR 2026 benchmarks by combining graph neural networks (GNNs) with large language models (LLMs), reducing hallucinations via structured evidence grounding and supporting distributed training for large-scale graphs.
+- **Performance & Scalability**: Achieves state-of-the-art results on complex reasoning benchmarks (ICLR 2026 submission) with modular agent interactions, reducing latency and improving accuracy in large-scale knowledge graphs.
 
 ## Why It Matters
 

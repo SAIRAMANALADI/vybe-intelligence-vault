@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/Agentic-LanggraphCrash-course
-collected_at: '2026-08-05T22:30:30.920583+05:30'
-published_at: '2026-08-05T09:40:39Z'
+collected_at: '2026-08-06T01:32:41.001441+05:30'
+published_at: '2026-08-05T19:21:36Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
 - workflows
-stars: 188
+stars: 189
 language: Jupyter Notebook
 status: active
 license: GPL-3.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-18T17:08:17Z'
 pushed_at: '2025-08-02T11:48:08Z'
 resource_id: github:krishnaik06/agentic-langgraphcrash-course
-first_seen: '2026-08-05T22:30:30.920583+05:30'
-last_seen: '2026-08-05T22:30:30.920583+05:30'
-last_checked: '2026-08-05T22:30:30.920583+05:30'
+first_seen: '2026-08-06T01:32:41.001441+05:30'
+last_seen: '2026-08-06T01:32:41.001441+05:30'
+last_checked: '2026-08-06T01:32:41.001441+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository titled "Agentic-LanggraphCrash-course" with 188 stars and 184 forks, last updated on 2026-08-05.
-- **Technical Stack**: Implemented entirely in Jupyter Notebooks, focusing on agentic workflows using LangGraph.
-- **Purpose**: No explicit description provided, but inferred to cover agentic AI systems and LangGraph-based workflows.
+- **Repository Overview**: GitHub repository titled "Agentic-LanggraphCrash-course" with 189 stars and 184 forks, primarily containing Jupyter Notebooks, last updated on August 5, 2026.
+
+- **Technical Focus**: Implicitly centered around agentic workflows and LangGraph frameworks, as inferred from the repository name and structure (Jupyter Notebooks).
+
+- **Purpose**: Likely serves as a crash course or educational resource for implementing agentic systems using LangGraph, though no explicit description is provided.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: krishnaik06
-- Stars: 188
+- Stars: 189
 - Forks: 184
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-08-05T09:40:39Z
+- Last Updated: 2026-08-05T19:21:36Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-06-18T17:08:17Z

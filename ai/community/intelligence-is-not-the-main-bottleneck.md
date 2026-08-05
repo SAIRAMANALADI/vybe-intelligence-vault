@@ -13,13 +13,14 @@ collected_at: '2026-08-05T22:25:39.587178+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:intelligence-is-not-the-main-bottleneck
 first_seen: '2026-08-05T22:25:39.587178+05:30'
 last_seen: '2026-08-05T22:25:39.587178+05:30'
 last_checked: '2026-08-05T22:25:39.587178+05:30'
 health_score: 100
 ---
+
 
 # Intelligence Is Not the Main Bottleneck
 

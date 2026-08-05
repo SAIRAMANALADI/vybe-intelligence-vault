@@ -4,12 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-08-05T22:33:47.040597+05:30'
-collected_at: '2026-08-05T22:33:47.040612+05:30'
+published_at: '2026-08-06T01:34:14.042883+05:30'
+collected_at: '2026-08-06T01:34:14.042898+05:30'
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -18,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-08-05T22:33:47.040612+05:30'
-last_seen: '2026-08-05T22:33:47.040612+05:30'
-last_checked: '2026-08-05T22:33:47.040612+05:30'
+first_seen: '2026-08-06T01:34:14.042898+05:30'
+last_seen: '2026-08-06T01:34:14.042898+05:30'
+last_checked: '2026-08-06T01:34:14.042898+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Evaluation Guide**: Provides a structured walkthrough for implementing and assessing evaluation metrics in RAG pipelines, covering both statistical and model-based approaches.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of retrieval and generation components.
 
-- **Multimodal & Agentic Workflows**: Tutorials demonstrate advanced pipelines including vision+text RAG, multi-agent systems, and tool-calling agents with fallback mechanisms for web-based RAG.
+- **Multimodal RAG Pipeline**: Tutorial demonstrates building a Vision+Text RAG pipeline using Haystack, integrating image and text embeddings for cross-modal question answering grounded in both modalities.
 
-- **Optimization & Customization**: Covers techniques like KV cache compression (TurboQuant), custom SuperComponent creation, and serialization of LLM pipelines for efficient deployment and integration.
+- **Agentic RAG with Fallback**: Covers creation of agentic RAG systems with conditional routing to web search as a fallback mechanism, enhancing robustness in cases of retrieval failure or insufficient context.
 
 ## Why It Matters
 
@@ -42,13 +41,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T22:33:47.040597+05:30
+- Published: 2026-08-06T01:34:14.042883+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag

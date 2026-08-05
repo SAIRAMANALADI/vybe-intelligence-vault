@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- Incoming webhooks in Slack allow posting messages from external apps via a unique JSON payload to a dedicated URL (`https://hooks.slack.com/services/...`), enabling formatted text and layout blocks without requiring OAuth flows.
+- **Incoming webhooks** in Slack enable programmatic message posting via a unique HTTPS URL (`https://hooks.slack.com/services/...`), where a JSON payload containing message text, formatting, and layout blocks is sent to post structured messages to a designated channel.
 
-- Webhook URLs are generated per workspace and channel, requiring manual authorization via Slack’s UI (or programmatically via OAuth) to bind to a specific channel (including private channels if the user has access).
-
-- For GovSlack deployments, API calls must target
+- **Setup process** involves creating a Slack app, enabling incoming webhooks in the app settings, and generating a webhook URL by authorizing the app for a specific channel (including private channels if the user has access).
 
 ## Use Cases
 

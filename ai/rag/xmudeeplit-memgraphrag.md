@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-05T22:28:15.867236+05:30'
-published_at: '2026-08-05T07:38:51Z'
+collected_at: '2026-08-06T01:30:20.906295+05:30'
+published_at: '2026-08-05T18:34:35Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 164
+stars: 165
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-05T22:28:15.867236+05:30'
-last_seen: '2026-08-05T22:28:15.867236+05:30'
-last_checked: '2026-08-05T22:28:15.867236+05:30'
+first_seen: '2026-08-06T01:30:20.906295+05:30'
+last_seen: '2026-08-06T01:30:20.906295+05:30'
+last_checked: '2026-08-06T01:30:20.906295+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Implements a graph-based RAG framework where multiple agents collaboratively construct and query a knowledge graph for enhanced retrieval and generation, leveraging memory mechanisms for dynamic updates.
+- **Memory-augmented multi-agent architecture**: Introduces a graph-based RAG framework where agents maintain memory via graph structures, enabling dynamic knowledge integration and retrieval for LLM-based generation.
 
-- **Ontology-Guided Graph Construction**: Utilizes ontology-driven techniques to build structured knowledge graphs, enabling efficient semantic retrieval and reasoning over complex relationships in unstructured data.
+- **Ontology-driven graph construction**: Automatically constructs and evolves a hierarchical ontology graph from unstructured data, optimizing retrieval precision through semantic relationships and contextual relevance.
 
-- **Python Implementation**: Provides an open-source Python library for graph-based RAG, supporting multi-agent collaboration, ontology construction, and scalable graph retrieval for generative AI tasks.
+- **Dynamic memory retrieval mechanism**: Implements a multi-agent collaboration system where agents query and update the graph memory in real-time, enhancing long-term context retention and adaptive knowledge synthesis.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: XMUDeepLIT
-- Stars: 164
+- Stars: 165
 - Forks: 31
 - Language: Python
 - Topics: agent-memory, graph-construction, graphrag, multi-agent, ontology, ontology-construction, rag
-- Last Updated: 2026-08-05T07:38:51Z
+- Last Updated: 2026-08-05T18:34:35Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-02T03:16:55Z

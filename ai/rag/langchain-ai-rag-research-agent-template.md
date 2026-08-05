@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-08-05T22:26:50.801617+05:30'
+collected_at: '2026-08-06T01:29:00.912923+05:30'
 published_at: '2026-08-02T15:40:26Z'
 tags:
 - agents
-- dataset
 - github-repo
 - hackernews
 - python
@@ -22,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-08-05T22:26:50.801617+05:30'
-last_seen: '2026-08-05T22:26:50.801617+05:30'
-last_checked: '2026-08-05T22:26:50.801617+05:30'
+first_seen: '2026-08-06T01:29:00.912923+05:30'
+last_seen: '2026-08-06T01:29:00.912923+05:30'
+last_checked: '2026-08-06T01:29:00.912923+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping and experimentation.
+- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for research workflows.
 
-- **Technical Stack**: Implements Python-based RAG pipelines with modular components (e.g., document loaders, vector stores, LLMs) and integrates with LangChain’s ecosystem for agent orchestration.
+- **Key Components**: Includes modular Python implementations for document ingestion, vector storage (e.g., Chroma/FAISS), and agent-based query processing with LLM integration (e.g., LangChain's `ResearchAgent`).
 
-- **Key Features**: Includes pre-configured workflows for document ingestion, retrieval, and agent-based reasoning, with extensibility for custom datasets and model integrations. Last updated in August 2026.
+- **Technical Stack**: Leverages Python with dependencies like `langchain`, `pydantic`, and vector DB libraries; designed for extensibility with custom tooling and retrieval pipelines.
 
 ## Why It Matters
 

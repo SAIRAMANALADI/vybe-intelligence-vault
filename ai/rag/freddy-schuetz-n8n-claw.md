@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-05T22:29:50.884451+05:30'
+collected_at: '2026-08-06T01:32:00.956438+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - shell
 - workflows
 stars: 542
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-05T22:29:50.884451+05:30'
-last_seen: '2026-08-05T22:29:50.884451+05:30'
-last_checked: '2026-08-05T22:29:50.884451+05:30'
+first_seen: '2026-08-06T01:32:00.956438+05:30'
+last_seen: '2026-08-06T01:32:00.956438+05:30'
+last_checked: '2026-08-06T01:32:00.956438+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills, Expert Agents with delegated sub-agents, and proactive task management for autonomous operation.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging **adaptive RAG-powered memory**, **Skills via MCP templates**, and **Expert Agents with delegated sub-agents** for hierarchical task execution.
 
-- **Media & Data Integration**: Supports media understanding and self-hosted deployment via a single setup script, integrating tools like Crawl4AI, SearXNG, and Supabase for data processing and storage.
+- **Capabilities**: Supports **proactive task management**, **media understanding**, and integrates **Crawl4AI** for web scraping, **SearXNG** for search, and **Supabase** for data storage—all deployable via a single setup script.
 
-- **Technical Stack**: Shell-based implementation with dependencies on n8n, MCP, and OpenClaw, optimized for AI agent orchestration and modular skill execution.
+- **Deployment**: Self-hosted solution with **Shell-based** setup, targeting **AI agent frameworks** and **MCP (Model Context Protocol)** for modular skill integration and agent collaboration.
 
 ## Why It Matters
 

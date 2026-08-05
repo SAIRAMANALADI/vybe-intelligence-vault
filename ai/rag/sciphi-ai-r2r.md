@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-08-05T22:28:05.825802+05:30'
+collected_at: '2026-08-06T01:30:15.885945+05:30'
 published_at: '2026-08-05T08:16:09Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-08-05T22:28:05.825802+05:30'
-last_seen: '2026-08-05T22:28:05.825802+05:30'
-last_checked: '2026-08-05T22:28:05.825802+05:30'
+first_seen: '2026-08-06T01:30:15.885945+05:30'
+last_seen: '2026-08-06T01:30:15.885945+05:30'
+last_checked: '2026-08-06T01:30:15.885945+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Framework**: Implements an advanced retrieval-augmented generation (RAG) system with agentic capabilities, enabling dynamic interaction between retrieval and generation components for enhanced AI responses.
+- **Agentic RAG System**: Implements an advanced agentic Retrieval-Augmented Generation (RAG) framework with RESTful API support for production-grade AI retrieval tasks.
 
-- **RESTful API Integration**: Provides a production-ready RESTful API for seamless integration with external systems, facilitating scalable and modular AI retrieval workflows.
+- **Python-Based Architecture**: Built in Python, leveraging state-of-the-art (SoTA) techniques for large language models (LLMs), question-answering, and retrieval systems.
 
-- **Python-Based Architecture**: Built in Python with support for large language models (LLMs), optimized for question-answering, retrieval systems, and AI-driven search applications.
+- **High Scalability & Integration**: Designed for seamless integration with AI workflows, supporting topics like search, retrieval systems, and LLM-driven applications (last updated: 2026-08-05).
 
 ## Why It Matters
 

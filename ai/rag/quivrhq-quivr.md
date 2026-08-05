@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-05T22:27:50.786461+05:30'
+collected_at: '2026-08-06T01:30:00.900646+05:30'
 published_at: '2026-08-05T14:02:11Z'
 tags:
 - frontend_ui
@@ -14,7 +14,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 39386
 language: Python
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-05T22:27:50.786461+05:30'
-last_seen: '2026-08-05T22:27:50.786461+05:30'
-last_checked: '2026-08-05T22:27:50.786461+05:30'
+first_seen: '2026-08-06T01:30:00.900646+05:30'
+last_seen: '2026-08-06T01:30:00.900646+05:30'
+last_checked: '2026-08-06T01:30:00.900646+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for vectors (PGVector, Faiss), LLMs (GPT4, Groq, Llama), and file types without vendor lock-in.
+- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for diverse use cases while abstracting RAG complexities.
 
-- **Multi-Platform Compatibility**: Built in Python with TypeScript/React frontend, Docker support, and APIs for flexible deployment; integrates with OpenAI, PostgreSQL, and privacy-focused setups while enabling hybrid (local/cloud) LLM/vector store configurations.
+- **Multi-LLM & Vectorstore Agnostic**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss), enabling flexible deployment across different AI and database backends.
 
-- **Developer-Centric Design**: Prioritizes rapid product integration with minimal RAG overhead, offering pre-configured templates, security features, and extensibility for custom workflows (e.g., chatbots, document processing) via modular architecture.
+- **Full-Stack Integration**: Provides a Python-based backend with Docker support, alongside a React/TypeScript frontend, enabling end-to-end AI-powered applications with file ingestion, chatbot, and API capabilities.
 
 ## Why It Matters
 

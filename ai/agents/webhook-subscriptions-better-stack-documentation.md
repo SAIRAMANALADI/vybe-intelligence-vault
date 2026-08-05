@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://betterstack.com/docs/uptime/subscribing-to-status-updates/subscribing-with-webhooks/
-published_at: '2026-08-01T21:55:18.520474+05:30'
-collected_at: '2026-08-01T21:55:18.520492+05:30'
+published_at: '2026-08-06T01:39:05.168759+05:30'
+collected_at: '2026-08-06T01:39:05.168773+05:30'
 tags:
 - agents
 - frontend_ui
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:webhook-subscriptions-better-stack-documentation
-first_seen: '2026-08-01T21:55:18.520492+05:30'
-last_seen: '2026-08-01T21:55:18.520492+05:30'
-last_checked: '2026-08-01T21:55:18.520492+05:30'
+first_seen: '2026-08-06T01:39:05.168773+05:30'
+last_seen: '2026-08-06T01:39:05.168773+05:30'
+last_checked: '2026-08-06T01:39:05.168773+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Webhook Subscription Process**: Automated HTTP POST requests are sent to a specified HTTPS endpoint upon status page updates (incidents, maintenance, component changes), requiring email confirmation for activation and supporting idempotent handling via unique `id` fields.
+- **Webhook Subscription Process**: Subscribers configure HTTPS endpoints to receive automated HTTP POST requests for status updates (incidents, maintenance, component changes) after confirming via email; payloads include `meta`, `page`, and event-specific objects (e.g., `incident`, `maintenance`).
 
-- **Payload Structure & Validation**: JSON payloads include standardized `meta` and `page` objects, with event-specific data (`incident`, `maintenance`, or `component_update`), strict 30-second response timeouts, and mandatory headers (`Content-Type: application/json`, `User-Agent: BetterStack-StatusPage/1.0`).
+- **Payload Schema & Validation**: All webhooks use JSON with shared `meta` (unsubscribe link, docs) and `page` (status indicator, description) objects; event types (`incident`, `maintenance`, `component_update`) dictate nested data structures, with strict 30s timeout and 2xx response requirements.
 
-- **Retry & Failure Handling**: Exponential backoff retries (up to 10 attempts) with automatic deactivation after persistent failures, requiring reactivation via email confirmation; best practices emphasize immediate 2xx responses and background processing to avoid timeouts.
+- **Retry & Failure Handling**: Failed deliveries trigger exponential backoff retries (up to 10 attempts), followed by deactivation and email alerts; reactivation requires endpoint fixes and re-subscription, with idempotency recommended for duplicate handling.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-01T21:55:18.520474+05:30
+- Published: 2026-08-06T01:39:05.168759+05:30
 
 ## Related Tags
 

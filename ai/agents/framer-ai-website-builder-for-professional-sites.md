@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.framer.com
-published_at: '2026-08-05T09:14:14.117411+05:30'
-collected_at: '2026-08-05T09:14:14.117418+05:30'
+published_at: '2026-08-06T01:35:09.151989+05:30'
+collected_at: '2026-08-06T01:35:09.152001+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:framer-ai-website-builder-for-professional-sites
-first_seen: '2026-08-05T09:14:14.117418+05:30'
-last_seen: '2026-08-05T09:14:14.117418+05:30'
-last_checked: '2026-08-05T09:14:14.117418+05:30'
+first_seen: '2026-08-06T01:35:09.152001+05:30'
+last_seen: '2026-08-06T01:35:09.152001+05:30'
+last_checked: '2026-08-06T01:35:09.152001+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Design Agents**: Framer integrates native AI agents that operate directly on the canvas, enabling real-time generation, refinement, and editing of designs with full user control and visibility.
+- **Native Design Agent**: Framer integrates a professional AI design agent directly into its canvas, enabling real-time, in-place generation and refinement of UI components with full user control and visibility of changes.
 
-- **Unified CMS & Code Automation**: Agents manage CMS workflows (setup, organization, updates) and convert high-level ideas into executable code (e.g., interactions, custom effects) while maintaining synchronization between content and design.
+- **CMS Automation via Agents**: The platform’s CMS agent automates setup, organization, and updates of content management systems, ensuring seamless synchronization between content and design while enabling faster publishing workflows.
 
-- **Multi-Platform AI Integration**: Supports external AI tools (Terminal, Codex, Claude Code, Cursor) for cross-platform actions (e.g., Slack updates, GitHub PRs, terminal-triggered CMS changes) and offers branching/publishing APIs for streamlined deployment.
+- **External AI Integration**: Framer supports bidirectional interaction with external AI agents (e.g., Cursor, Claude Code, Codex) for tasks like triggering CMS updates, modifying copy, or deploying changes via GitHub PRs, expanding automation beyond the native environment.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-05T09:14:14.117411+05:30
+- Published: 2026-08-06T01:35:09.151989+05:30
 
 ## Related Tags
 

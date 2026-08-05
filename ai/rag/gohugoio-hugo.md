@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-08-05T22:32:45.531435+05:30'
-collected_at: '2026-08-05T22:32:45.531452+05:30'
+published_at: '2026-08-06T01:34:14.279727+05:30'
+collected_at: '2026-08-06T01:34:14.279741+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-08-05T22:32:45.531452+05:30'
-last_seen: '2026-08-05T22:32:45.531452+05:30'
-last_checked: '2026-08-05T22:32:45.531452+05:30'
+first_seen: '2026-08-06T01:34:14.279741+05:30'
+last_seen: '2026-08-06T01:34:14.279741+05:30'
+last_checked: '2026-08-06T01:34:14.279741+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.164.0** introduces dark/light mode support for Chroma highlighter styles via new CLI flags in `hugo gen chromastyles`, along with new template functions: `encoding.HexEncode`, `encoding.HexDecode`, and `crypto.Hash`.
+- **Hugo v0.164.0 Release**: Introduced dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), Pandoc citation support, and markup.rst.syntaxHighlight option; also fixed a performance regression from v0.128.0.
 
-- **Performance regression fix** in v0.164.0 resolves build slowdowns introduced in v0.128.0 for larger sites, alongside Pandoc citation support and sub-path support in `Page.Render` template layouts.
+- **Deprecations & Fixes**: Deprecated `resources.PostProcess` in favor of `templates.Defer`; improved template name lookup case-insensitivity; added error handling for missing templates in `.Render`.
 
-- **Deprecation updates** in v0.164.0 include replacing `resources.PostProcess` with `templates.Defer`, and case-insensitive template name lookups for improved compatibility.
+- **Performance & Dependencies**: Optimized `hasBytesWriter` speed; updated Go toolchain (`x/tools`, `x/net`, `x/mod`) and other dependencies (Chroma, esbuild, TOML parsers).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T22:32:45.531435+05:30
+- Published: 2026-08-06T01:34:14.279727+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-05T22:30:36.117602+05:30'
+collected_at: '2026-08-06T01:32:46.301780+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 59
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-05T22:30:36.117602+05:30'
-last_seen: '2026-08-05T22:30:36.117602+05:30'
-last_checked: '2026-08-05T22:30:36.117602+05:30'
+first_seen: '2026-08-06T01:32:46.301780+05:30'
+last_seen: '2026-08-06T01:32:46.301780+05:30'
+last_checked: '2026-08-06T01:32:46.301780+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and Swarms to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG).
+- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) using Python to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG) pipelines.
 
-- **Integration Stack**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM providers (OpenAI GPT-3.5/4/5, Anthropic) with LangChain for orchestration, enabling scalable document processing pipelines.
+- **Integration Stack**: Supports multiple LLM providers (OpenAI, Anthropic, GPT-3.5/4/5) and vector databases (ChromaDB, Pinecone, Weaviate), with LangChain as the orchestration backbone for agent workflows.
 
-- **Deployment & Extensibility**: Includes Discord integration for real-time agent interaction, modular agent roles, and template-based customization for rapid deployment of multi-agent RAG systems.
+- **Deployment & Extensibility**: Includes Discord integration for real-time agent collaboration, modular agent roles (e.g., retrieval, analysis, synthesis), and is actively maintained with the latest update (2026-07-08).
 
 ## Why It Matters
 

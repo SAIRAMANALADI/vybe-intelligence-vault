@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-05T22:27:25.774515+05:30'
+collected_at: '2026-08-06T01:29:35.828416+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-05T22:27:25.774515+05:30'
-last_seen: '2026-08-05T22:27:25.774515+05:30'
-last_checked: '2026-08-05T22:27:25.774515+05:30'
+first_seen: '2026-08-06T01:29:35.828416+05:30'
+last_seen: '2026-08-06T01:29:35.828416+05:30'
+last_checked: '2026-08-06T01:29:35.828416+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for document indexing, retrieval, and generation in Python.
-- **Technical Stack**: Utilizes vector databases (e.g., FAISS, Chroma) and embedding models (e.g., Sentence-BERT) for efficient semantic search and context augmentation.
-- **Evaluation Metrics**: Includes benchmarking tools for assessing retrieval quality (e.g., MRR, Recall@K) and generation performance (e.g., ROUGE, BLEU) in multilingual scenarios.
+- **RAG Implementation Framework**: Repository provides a Python-based framework for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on model retrieval enhancement techniques for large language models (LLMs).
+
+- **Best Practices Documentation**: Includes curated best practices for RAG deployment, covering retrieval strategies, prompt engineering, and evaluation metrics to improve generation quality and factual accuracy.
+
+- **Modular Architecture**: Implements a modular design for seamless integration of custom retrievers, embeddings, and LLMs, enabling scalable and adaptable RAG solutions.
 
 ## Why It Matters
 

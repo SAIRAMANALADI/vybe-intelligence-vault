@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-05T22:26:25.778544+05:30'
+collected_at: '2026-08-06T01:28:35.806916+05:30'
 published_at: '2026-07-20T20:54:26Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- models
 - python
 - rag
 stars: 260
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-05T22:26:25.778544+05:30'
-last_seen: '2026-08-05T22:26:25.778544+05:30'
-last_checked: '2026-08-05T22:26:25.778544+05:30'
+first_seen: '2026-08-06T01:28:35.806916+05:30'
+last_seen: '2026-08-06T01:28:35.806916+05:30'
+last_checked: '2026-08-06T01:28:35.806916+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and mitigate hallucinations in Retrieval-Augmented Generation (RAG) models by providing curated examples of false or unsupported claims.
-- **Technical Scope**: Implemented in Python, the repository includes tools for generating, annotating, and benchmarking hallucinations in RAG pipelines, enabling systematic assessment of model reliability.
-- **Repository Status**: Last updated in July 2026, with 260 stars and 35 forks, indicating active community engagement in trustworthy RAG development.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the reliability of Retrieval-Augmented Generation (RAG) systems by identifying and quantifying hallucinations in generated outputs.
+
+- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-tuning and benchmarking of RAG models for trustworthiness in real-world applications.
+
+- **Implementation**: Python-based repository with tools for dataset generation, evaluation metrics, and baseline model comparisons to facilitate reproducible research in hallucination detection.
 
 ## Why It Matters
 

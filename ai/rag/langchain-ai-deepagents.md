@@ -1,34 +1,41 @@
 ---
-title: deepagents/examples/llm-wiki at main · langchain-ai/deepagents · GitHub
+title: 'feat(sdk,code,quickjs)!: make the `ToDoListMiddleware` list opt-in by davibinboi
+  · Pull Request #4929 · langchain-ai/dee'
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/langchain-ai/deepagents/tree/main/examples/llm-wiki
-published_at: '2026-08-02T21:52:17.334887+05:30'
-collected_at: '2026-08-02T21:52:17.334901+05:30'
+source_url: https://github.com/langchain-ai/deepagents/pull/4929
+published_at: '2026-08-06T01:38:12.515000+05:30'
+collected_at: '2026-08-06T01:38:12.515011+05:30'
 tags:
 - agents
-- dataset
+- anthropic
+- benchmark
+- frontend_ui
+- hackernews
+- openai
 - rag
+- scripts
 - web-crawled
 - workflows
+- youtube
 status: active
 resource_id: github:langchain-ai/deepagents
-first_seen: '2026-08-02T21:52:17.334901+05:30'
-last_seen: '2026-08-02T21:52:17.334901+05:30'
-last_checked: '2026-08-02T21:52:17.334901+05:30'
+first_seen: '2026-08-06T01:38:12.515011+05:30'
+last_seen: '2026-08-06T01:38:12.515011+05:30'
+last_checked: '2026-08-06T01:38:12.515011+05:30'
 health_score: 100
 ---
 
-# deepagents/examples/llm-wiki at main · langchain-ai/deepagents · GitHub
+# feat(sdk,code,quickjs)!: make the `ToDoListMiddleware` list opt-in by davibinboi · Pull Request #4929 · langchain-ai/dee
 
 ## Summary
 
-- **Workflow Architecture**: Implements a persistent wiki system using Deep Agents (`create_deep_agent`) in LangSmith Sandbox, with three core phases—`ingest` (source expansion), `query` (grounded analysis), and `lint` (health-check reconciliation)—each appending structured entries to `log.md` and syncing via `langsmith hub` commands.
+- **Breaking Change**: `TodoListMiddleware` is no longer default; agents must explicitly pass `middleware=[TodoListMiddleware()]` to `create_deep_agent` to restore `write_todos` tool, `todos` state channel, and todo-planning prompt.
 
-- **Workspace Structure**: Auto-initialized repo layout includes `AGENTS.md` (workflow rules), `raw/` (immutable sources), `wiki/` (LLM-maintained pages with `index.md` catalog), and `log.md` (append-only chronological interaction log with parseable headings for each phase).
+- **Performance Impact**: Benchmarks across GPT-5.6 Terra, Claude Opus 4.8, and GLM 5.2 showed no statistically significant accuracy improvement with `TodoListMiddleware`, while increasing token usage on two of three models.
 
-- **Execution Modes**: `init` (repo setup), `ingest` (source-to-wiki conversion with optional `--review` flag), `query` (grounded Q&A with optional filing to `wiki/query/`), and `lint` (reconciliation of contradictions/duplicates), all requiring `LANGSMITH_API_KEY` and Python 3.11+.
+- **Implementation Details**: Removed default middleware from main agent, general-purpose subagent, and declarative subagents; opt-in is mirrored for subagents if main agent opts in; OpenAI Codex profile retains it via `extra_middleware`.
 
 ## Why It Matters
 
@@ -38,16 +45,22 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T21:52:17.334887+05:30
+- Published: 2026-08-06T01:38:12.515000+05:30
 
 ## Related Tags
 
 - agents
-- dataset
+- anthropic
+- benchmark
+- frontend_ui
+- hackernews
+- openai
 - rag
+- scripts
 - web-crawled
 - workflows
+- youtube
 
 ## Source
 
-Original source: https://github.com/langchain-ai/deepagents/tree/main/examples/llm-wiki
+Original source: https://github.com/langchain-ai/deepagents/pull/4929

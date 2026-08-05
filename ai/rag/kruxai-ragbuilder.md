@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-08-05T22:28:00.793841+05:30'
+collected_at: '2026-08-06T01:30:10.899008+05:30'
 published_at: '2026-07-31T10:58:37Z'
 tags:
 - dataset
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 stars: 1540
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-08-05T22:28:00.793841+05:30'
-last_seen: '2026-08-05T22:28:00.793841+05:30'
-last_checked: '2026-08-05T22:28:00.793841+05:30'
+first_seen: '2026-08-06T01:30:10.899008+05:30'
+last_seen: '2026-08-06T01:30:10.899008+05:30'
+last_checked: '2026-08-06T01:30:10.899008+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a Python-based toolkit for constructing production-ready Retrieval Augmented Generation (RAG) pipelines optimized for custom datasets.
-- **Key Features**: Supports modular components for data ingestion, embedding, retrieval, and generation, enabling end-to-end RAG workflows.
-- **Technical Stack**: Leverages Python with integrations for vector databases, LLMs, and retrieval mechanisms to ensure scalability and performance.
+- **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) systems optimized for specific datasets.
+- **Key Features**: Includes modular components for data ingestion, embedding, retrieval, and LLM integration to streamline RAG pipeline development.
+- **Technical Stack**: Leverages Python with dependencies for vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and retrieval mechanisms (e.g., BM25, dense retrieval).
 
 ## Why It Matters
 

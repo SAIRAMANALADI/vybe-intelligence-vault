@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-05T22:29:05.820122+05:30'
+collected_at: '2026-08-06T01:31:16.012867+05:30'
 published_at: '2026-08-05T04:27:12Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-05T22:29:05.820122+05:30'
-last_seen: '2026-08-05T22:29:05.820122+05:30'
-last_checked: '2026-08-05T22:29:05.820122+05:30'
+first_seen: '2026-08-06T01:31:16.012867+05:30'
+last_seen: '2026-08-06T01:31:16.012867+05:30'
+last_checked: '2026-08-06T01:31:16.012867+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices for AI agents, covering frameworks and languages such as React, Angular, Next.js, NestJS, Spring Boot, Flutter, Kotlin, and Laravel.
-- **Purpose**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to coding standards and best practices across multiple platforms (Android, iOS, web, and mobile).
-- **Metadata**: 537 stars, 155 forks, last updated on 2026-08-05, with topics including agentic AI, coding standards, and framework-specific optimizations.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering multiple frameworks and languages (e.g., Angular, Flutter, Go, Kotlin, Laravel, NestJS, React, Spring Boot).
+- **Purpose**: Provides structured `cursor-rules` and coding standards to ensure AI agents adhere to optimized patterns across web, mobile, and backend development ecosystems.
+- **Metadata**: 537 stars, 155 forks, last updated on 2026-08-05; includes topics like `agentic-ai`, `coding-standards`, and platform-specific tags (e.g., `android`, `ios`, `nextjs`).
 
 ## Why It Matters
 

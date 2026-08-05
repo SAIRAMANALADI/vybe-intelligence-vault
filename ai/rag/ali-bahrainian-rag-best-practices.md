@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ali-bahrainian/RAG_best_practices
-collected_at: '2026-08-05T22:27:25.727800+05:30'
+collected_at: '2026-08-06T01:29:30.781997+05:30'
 published_at: '2026-06-19T11:36:42Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-12-12T14:15:52Z'
 pushed_at: '2025-03-25T10:37:20Z'
 resource_id: github:ali-bahrainian/rag_best_practices
-first_seen: '2026-08-05T22:27:25.727800+05:30'
-last_seen: '2026-08-05T22:27:25.727800+05:30'
-last_checked: '2026-08-05T22:27:25.727800+05:30'
+first_seen: '2026-08-06T01:29:30.781997+05:30'
+last_seen: '2026-08-06T01:29:30.781997+05:30'
+last_checked: '2026-08-06T01:29:30.781997+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,7 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, implemented in Python.
-- **Metadata**: 107 stars, 20 forks, last updated on June 19, 2026.
-- **Status**: No additional topics or description provided in the repository metadata.
+*   Focuses on architectural and implementation best practices for Retrieval Augmented Generation (RAG) systems.
 
 ## Why It Matters
 

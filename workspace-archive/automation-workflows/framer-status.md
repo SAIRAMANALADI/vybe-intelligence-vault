@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Framer status monitoring**: All Framer services (App, Editor, API, Hosting, Sites, Website, Community) reported **100% uptime** from July 3 to August 1, 2026, with no reported incidents during this period.
-
-- **Notification integration**: Users can subscribe to real-time incident updates via **email, RSS, JSON, webhook, or Slack** for specific components (App, Editor, API, Hosting, Sites, Website, Community).
-
-- **Status page endpoints**: Publicly accessible status data provided via **RSS, A
+- **100% Uptime**: All Framer services (App, Editor, API, Hosting, Sites, Website, Community) reported operational with no incidents over the past 30 days.
+- **Status Monitoring**: Real-time status updates available via RSS, JSON, webhook, Slack, and email notifications for incident tracking.
+- **Incident Resolution**: Historical incident data accessible via [Framer Status Page](https://www.framerstatus.com/incidents) for post-mortem analysis.
 
 ## Use Cases
 

@@ -6,12 +6,11 @@ source_url: https://skills.github.com
 resource_id: blog:redirecting-to-github-learn
 local_vault_path: ai/resources/redirecting-to-github-learn.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -24,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub Learn provides interactive, hands-on tutorials for mastering Git and GitHub workflows directly in the browser.
-- Skills covered include version control, branching strategies, pull requests, and CI/CD integration via GitHub Actions.
-- Each tutorial includes automated feedback and real-world project simulations for practical skill application.
+- GitHub Learn provides interactive, hands-on tutorials for mastering Git and GitHub workflows.
+- Skills covered include repository management, branching strategies, pull requests, and CI/CD integration.
+- Offers guided exercises with real-time feedback to reinforce learning in a practical environment.
 
 ## Use Cases
 

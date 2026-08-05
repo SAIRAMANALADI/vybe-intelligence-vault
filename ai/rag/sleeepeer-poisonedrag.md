@@ -4,12 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-05T22:27:50.755733+05:30'
+collected_at: '2026-08-06T01:30:00.874972+05:30'
 published_at: '2026-08-05T13:22:35Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 - reddit
@@ -21,9 +24,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-05T22:27:50.755733+05:30'
-last_seen: '2026-08-05T22:27:50.755733+05:30'
-last_checked: '2026-08-05T22:27:50.755733+05:30'
+first_seen: '2026-08-06T01:30:00.874972+05:30'
+last_seen: '2026-08-06T01:30:00.874972+05:30'
+last_checked: '2026-08-06T01:30:00.874972+05:30'
 health_score: 100
 ---
 
@@ -31,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Attack Mechanism**: Introduces *PoisonedRAG*, a novel attack framework that corrupts the retrieval-augmented generation (RAG) pipeline by injecting malicious documents into the knowledge base, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance.
+- **Attack Mechanism**: Introduces *PoisonedRAG*, a novel knowledge corruption attack targeting Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval corpus to inject adversarial content, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance.
 
-- **Technical Implementation**: Leverages *trigger-based poisoning* where adversarial documents are crafted to include subtle, context-aware triggers that manipulate the retriever’s ranking mechanism, ensuring targeted corruption without explicit backdoor triggers in the LLM itself.
+- **Technical Implementation**: Demonstrates a two-phase attack pipeline—(1) *corpus poisoning* via adversarial document insertion (e.g., synthetic QA pairs or misleading context) and (2) *exploitation* during inference, where the corrupted retrievals skew LLM responses toward attacker-desired answers.
 
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG architectures (e.g., dense retrievers, sparse retrievers) and LLMs, achieving high attack success rates (e.g., >90% in controlled experiments) while evading standard detection methods, highlighting critical vulnerabilities in trustworthy AI systems.
+- **Evaluation & Impact**: Validates PoisonedRAG on multiple RAG frameworks (e.g., LangChain, LlamaIndex) across datasets (e.g., MS MARCO, NaturalQuestions), showing up to **92% attack success rate** with minimal perturbation (e.g., <1% poisoned corpus) while evading existing defenses like retrieval filtering or RAG-specific sanitization.
 
 ## Why It Matters
 

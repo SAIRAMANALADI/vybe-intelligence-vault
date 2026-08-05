@@ -20,12 +20,12 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/taxonomy (Taxonomy App)
-- [GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](https://github.com/enterprise)
 - [reliverse/relivator](https://github.com/reliverse/relivator)
 - [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components)
 - [codebucks27/3D-Landing-page-for-Apple-iPhone](https://github.com/codebucks27/3d-landing-page-for-apple-iphone)
 - [codebucks27/The-Weirdos-NFT-Website-Starter-Code](https://github.com/codebucks27/the-weirdos-nft-website-starter-code)
+- [codebucks27/Apple-iphone-3d-landing-page-starter-Code](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-08-05 22:44 IST*
+*Last updated: 2026-08-06 01:46 IST*

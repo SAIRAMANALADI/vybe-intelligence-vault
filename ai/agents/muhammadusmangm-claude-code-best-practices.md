@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-05T22:29:05.817789+05:30'
+collected_at: '2026-08-06T01:31:15.893093+05:30'
 published_at: '2026-08-04T06:02:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
 stars: 68
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-05T22:29:05.817789+05:30'
-last_seen: '2026-08-05T22:29:05.817789+05:30'
-last_checked: '2026-08-05T22:29:05.817789+05:30'
+first_seen: '2026-08-06T01:31:15.893093+05:30'
+last_seen: '2026-08-06T01:31:15.893093+05:30'
+last_checked: '2026-08-06T01:31:15.893093+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `MuhammadUsmanGM/claude-code-best-practices` provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Scope**: Focuses on agentic AI workflows, CLI tools, LLM interactions, and MCP (Model Context Protocol) integrations, with Shell scripts for automation and configuration.
-- **Metadata**: 68 stars, 14 forks, last updated on 2026-08-04, covering topics like `agentic-ai`, `anthropic`, `developer-tools`, and `templates`.
+- **Repository Overview**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily Shell-based repository with resources for agentic AI, MCP integration, CLI tooling, and LLM optimization.
+- **Metadata**: 68 stars, 14 forks, last updated August 4, 2026; covers topics like Anthropic's Claude, developer tools, and AI-driven workflows.
 
 ## Why It Matters
 

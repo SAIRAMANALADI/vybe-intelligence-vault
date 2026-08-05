@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/awesome-crewai
-collected_at: '2026-08-05T14:31:51.127960+05:30'
+collected_at: '2026-08-06T01:32:56.407299+05:30'
 published_at: '2026-08-05T02:52:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-25T15:39:51Z'
 pushed_at: '2025-06-09T15:58:36Z'
 resource_id: github:crewaiinc/awesome-crewai
-first_seen: '2026-08-05T14:31:51.127960+05:30'
-last_seen: '2026-08-05T14:31:51.127960+05:30'
-last_checked: '2026-08-05T14:31:51.127960+05:30'
+first_seen: '2026-08-06T01:32:56.407299+05:30'
+last_seen: '2026-08-06T01:32:56.407299+05:30'
+last_checked: '2026-08-06T01:32:56.407299+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Open-Source Projects**: Repository (`crewAIInc/awesome-crewai`) aggregates community-built AI agent projects leveraging CrewAI framework, enabling discovery, contribution, and extension of AI agent capabilities.
-
-- **Metadata**: 509 stars, 135 forks, last updated 2026-08-05; language and topics unspecified in metadata.
-
-- **Purpose**: Facilitates collaboration and innovation in AI agent development by providing a centralized, community-driven resource for CrewAI-based projects.
+- **Curated Open-Source Projects**: Repository showcasing community-built projects leveraging CrewAI for AI agent development.
+- **Collaborative Platform**: Enables discovery, contribution, and extension of AI agent capabilities through open-source initiatives.
+- **Metadata**: 509 stars, 135 forks, last updated 2026-08-05T02:52:27Z.
 
 ## Why It Matters
 

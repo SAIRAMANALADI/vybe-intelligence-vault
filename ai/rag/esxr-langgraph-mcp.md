@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/esxr/langgraph-mcp
-collected_at: '2026-08-05T22:30:15.906160+05:30'
+collected_at: '2026-08-06T01:32:25.991263+05:30'
 published_at: '2026-07-12T01:58:59Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-01-10T07:40:37Z'
 pushed_at: '2025-02-25T10:10:11Z'
 resource_id: github:esxr/langgraph-mcp
-first_seen: '2026-08-05T22:30:15.906160+05:30'
-last_seen: '2026-08-05T22:30:15.906160+05:30'
-last_checked: '2026-08-05T22:30:15.906160+05:30'
+first_seen: '2026-08-06T01:32:25.991263+05:30'
+last_seen: '2026-08-06T01:32:25.991263+05:30'
+last_checked: '2026-08-06T01:32:25.991263+05:30'
 health_score: 100
 ---
 
@@ -32,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: LangGraph solution template for **Model Context Protocol (MCP)**, enabling structured multi-agent workflows in Python.
-- **Key Features**: Leverages **LangGraph** for graph-based orchestration of MCP-compatible tools and services.
-- **Tech Stack**: Python-based, last updated **July 12, 2026**; 584 stars, 109 forks.
+- **Key Features**: Leverages **LangGraph** for graph-based LLM orchestration, supporting stateful, parallel, or sequential agent interactions.
+- **Tech Stack**: Python-based implementation with **async/await** support, designed for extensibility with MCP-compliant tools/services.
 
 ## Why It Matters
 

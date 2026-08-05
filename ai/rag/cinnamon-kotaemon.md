@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-05T22:27:00.744405+05:30'
+collected_at: '2026-08-06T01:29:10.896811+05:30'
 published_at: '2026-08-05T16:21:43Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 25690
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-05T22:27:00.744405+05:30'
-last_seen: '2026-08-05T22:27:00.744405+05:30'
-last_checked: '2026-08-05T22:27:00.744405+05:30'
+first_seen: '2026-08-06T01:29:10.896811+05:30'
+last_seen: '2026-08-06T01:29:10.896811+05:30'
+last_checked: '2026-08-06T01:29:10.896811+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-Based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based conversational interactions, combining retrieval of relevant document snippets with LLM-based response generation.
-
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization for diverse use cases.
-
-- **Open-Source & Scalable**: Released under an open-source license with 25.6k+ GitHub stars, designed for scalability and deployment flexibility across document-heavy workflows.
+- **RAG-based document interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual querying of uploaded documents via an LLM-powered chatbot interface.
+- **Modular Python architecture**: Built in Python with extensible components for document ingestion, embedding, retrieval, and response generation.
+- **Open-source deployment**: Hosted on GitHub with permissive licensing, supporting self-hosting and integration with custom LLM backends.
 
 ## Why It Matters
 

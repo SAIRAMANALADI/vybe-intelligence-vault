@@ -13,13 +13,14 @@ collected_at: '2026-08-05T22:25:40.052123+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:time-is-serving-ai-bots-a-different-website-with-a
 first_seen: '2026-08-05T22:25:40.052123+05:30'
 last_seen: '2026-08-05T22:25:40.052123+05:30'
 last_checked: '2026-08-05T22:25:40.052123+05:30'
 health_score: 100
 ---
+
 
 # TIME Is Serving AI Bots a Different Website, with Ads Built In
 

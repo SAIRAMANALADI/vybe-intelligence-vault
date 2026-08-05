@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/googleplay/answer/134336
-published_at: '2026-08-03T09:35:10.887833+05:30'
-collected_at: '2026-08-03T09:35:10.887846+05:30'
+published_at: '2026-08-06T01:37:21.261575+05:30'
+collected_at: '2026-08-06T01:37:21.261586+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:learn-about-google-play-refund-policies-google-pla
-first_seen: '2026-08-03T09:35:10.887846+05:30'
-last_seen: '2026-08-03T09:35:10.887846+05:30'
-last_checked: '2026-08-03T09:35:10.887846+05:30'
+first_seen: '2026-08-06T01:37:21.261586+05:30'
+last_seen: '2026-08-06T01:37:21.261586+05:30'
+last_checked: '2026-08-06T01:37:21.261586+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Refund Eligibility & Conditions**: Refunds for Google Play purchases depend on factors like transaction type, location, and payment method; unauthorized transactions must be reported within 120 days, while accidental purchases by known users require direct refund requests. Developers handle refunds for third-party apps, and donations are non-refundable.
-
-- **Regional & Product-Specific Policies**: EEA/UK users have distinct refund rights for purchases post-March 28, 2018; policies vary by product (e.g., subscriptions, Google Play Books, gift cards) and payment method (e.g., Google Play Points, cash transfers).
-
-- **Process & Timelines**: Refund requests are submitted via Google Play support; status can be tracked, and timelines vary by region/product (e.g., partial refunds for subscriptions in Israel/France/Germany).
+- **Refund Eligibility & Process**: Refunds for Google Play purchases depend on product type, transaction timing, payment method, and user location; developers handle third-party app refunds, while Google processes others (e.g., unauthorized transactions reported within 120 days).
+- **Regional & Product-Specific Policies**: EEA/UK users have distinct refund rights post-March 28, 2018; subscriptions in Israel/France/Germany may qualify for partial refunds, while donations are non-refundable.
+- **Payment & Points Impact**: Refunds for cash/bank transfer/codes differ from digital payments; Google Play Points are forfeited upon refund, and payment method dictates refund timelines and processes.
 
 ## Why It Matters
 
@@ -36,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T09:35:10.887833+05:30
+- Published: 2026-08-06T01:37:21.261575+05:30
 
 ## Related Tags
 

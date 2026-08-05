@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-05T22:26:45.774384+05:30'
+collected_at: '2026-08-06T01:28:55.834861+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-05T22:26:45.774384+05:30'
-last_seen: '2026-08-05T22:26:45.774384+05:30'
-last_checked: '2026-08-05T22:26:45.774384+05:30'
+first_seen: '2026-08-06T01:28:55.834861+05:30'
+last_seen: '2026-08-06T01:28:55.834861+05:30'
+last_checked: '2026-08-06T01:28:55.834861+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Examples**: Repository provides Jupyter Notebook-based tutorials for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search and LLMs.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for integrating vector search with LLMs (e.g., GPT-4 Vision, Llama-Index, LangChain) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
 
-- **Tooling Integration**: Demonstrates integration with frameworks like LangChain, LlamaIndex, and OpenAI APIs (including GPT-4 Vision) for embeddings, fine-tuning, and multimodal applications.
+- **Vector Database-Centric Workflows**: Demonstrates practical use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI/ML applications, including agent-based systems.
 
-- **Vector Database Focus**: Uses LanceDB as the underlying vector database, showcasing efficient storage, retrieval, and querying for AI/ML pipelines.
+- **Tooling & Integration Guides**: Includes tutorials for combining OpenAI APIs, deep learning frameworks, and vector databases to deploy production-ready AI agents, with a focus on multimodal and fine-tuning techniques.
 
 ## Why It Matters
 

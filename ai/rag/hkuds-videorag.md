@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-05T22:28:10.846678+05:30'
+collected_at: '2026-08-06T01:30:15.878290+05:30'
 published_at: '2026-08-05T14:20:03Z'
 tags:
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-05T22:28:10.846678+05:30'
-last_seen: '2026-08-05T22:28:10.846678+05:30'
-last_checked: '2026-08-05T22:28:10.846678+05:30'
+first_seen: '2026-08-06T01:30:15.878290+05:30'
+last_seen: '2026-08-06T01:30:15.878290+05:30'
+last_checked: '2026-08-06T01:30:15.878290+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long-form video content via multi-modal embeddings and retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interactively query video content via multi-modal embeddings and retrieval mechanisms.
 
-- **Technical Implementation**: Leverages Python with support for large language models (LLMs), multi-modal inputs, and long-video understanding through optimized retrieval pipelines.
+- **Multi-Modal Integration**: Leverages vision-language models (VLMs) to process video frames, audio, and metadata, combining them with text-based queries for enhanced contextual retrieval and response generation.
 
-- **Performance & Scalability**: Achieves efficient video-query interaction with 3,239 GitHub stars, indicating strong community adoption and potential for handling large-scale video datasets.
+- **KDD'2026 Contribution**: Proposes a scalable architecture for handling extended video sequences, optimizing retrieval latency and accuracy for real-time or near-real-time video-based Q&A applications.
 
 ## Why It Matters
 
