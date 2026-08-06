@@ -4,16 +4,19 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveebbelaar/ai-cookbook
-collected_at: '2026-08-06T17:09:04.873282+05:30'
-published_at: '2026-08-05T17:36:27Z'
+collected_at: '2026-08-06T20:10:31.557389+05:30'
+published_at: '2026-08-06T14:03:03Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
+- models
 - openai
 - python
 - reddit
-stars: 4358
+- workflows
+stars: 4359
 language: Python
 status: active
 license: MIT
@@ -21,9 +24,9 @@ archived: false
 created_at: '2025-01-30T15:14:29Z'
 pushed_at: '2026-07-09T07:55:18Z'
 resource_id: github:daveebbelaar/ai-cookbook
-first_seen: '2026-08-06T17:09:04.873282+05:30'
-last_seen: '2026-08-06T17:09:04.873282+05:30'
-last_checked: '2026-08-06T17:09:04.873282+05:30'
+first_seen: '2026-08-06T20:10:31.557389+05:30'
+last_seen: '2026-08-06T20:10:31.557389+05:30'
+last_checked: '2026-08-06T20:10:31.557389+05:30'
 health_score: 100
 ---
 
@@ -31,9 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Python-based AI cookbook with 4,358 stars and 1,542 forks, focused on practical AI system development tutorials and examples.
-- **Key Topics**: Covers agents, AI/LLM integration, and APIs from Anthropic and OpenAI for building AI-driven applications.
-- **Last Updated**: Repository was last updated on August 5, 2026, with active maintenance in AI tooling and frameworks.
+- **Repository Overview**: `ai-cookbook` by daveebbelaar provides Python-based examples and tutorials for building AI systems, focusing on agents, LLMs, and integrations with Anthropic and OpenAI APIs.
+
+- **Technical Scope**: Covers core AI development concepts, including LLM fine-tuning, agent-based architectures, and practical implementations for AI-driven applications.
+
+- **Community & Updates**: Maintained with 4,359 stars and 1,542 forks, last updated on 2026-08-06, ensuring relevance for cutting-edge AI development workflows.
 
 ## Why It Matters
 
@@ -42,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: daveebbelaar
-- Stars: 4358
+- Stars: 4359
 - Forks: 1542
 - Language: Python
 - Topics: agents, ai, anthropic, llm, openai, python
-- Last Updated: 2026-08-05T17:36:27Z
+- Last Updated: 2026-08-06T14:03:03Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-30T15:14:29Z

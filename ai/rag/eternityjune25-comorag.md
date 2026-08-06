@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-06T17:08:44.760874+05:30'
+collected_at: '2026-08-06T20:10:11.412525+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-06T17:08:44.760874+05:30'
-last_seen: '2026-08-06T17:08:44.760874+05:30'
-last_checked: '2026-08-06T17:08:44.760874+05:30'
+first_seen: '2026-08-06T20:10:11.412525+05:30'
+last_seen: '2026-08-06T20:10:11.412525+05:30'
+last_checked: '2026-08-06T20:10:11.412525+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval.
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives.
-- **AAAI 2026 Poster**: Presented as a novel approach for advanced RAG systems, emphasizing memory organization and reasoning scalability in Python.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
+- **Stateful Reasoning**: Implements dynamic memory organization to maintain context coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules for enhanced reasoning.
+- **AAAI 2026 Poster**: Presented as a novel approach to long-form reasoning in AI, with open-source implementation in Python (repository includes 343 stars, 47 forks).
 
 ## Why It Matters
 

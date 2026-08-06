@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C270-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C209-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--06-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **169,270 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **169,209 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,479</p>
-        <p><b>Active:</b> 17,983 | <b>Inactive:</b> 496</p>
+        <p><b>Resources tracked:</b> 18,462</p>
+        <p><b>Active:</b> 17,962 | <b>Inactive:</b> 500</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 69,197</p>
+        <p><b>Archive Files:</b> 69,153</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 169,270 files</p>
-        <p><b>Last Update:</b> 2026-08-06 17:26 IST</p>
+        <p><b>Total Vault Size:</b> 169,209 files</p>
+        <p><b>Last Update:</b> 2026-08-06 20:27 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,28 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Born Against, or why hobby programming communities are against LLM usage](ai/community/born-against-or-why-hobby-programming-communities.md)** • <kbd>+36 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](ai/community/the-next-chapter-of-our-ai-momentum.md)** • <kbd>+35 pts</kbd>
-- 🔼 **[Cloudflare OS: an open platform for agents, apps, and work](ai/community/cloudflare-os-an-open-platform-for-agents-apps-and.md)** • <kbd>+18 pts</kbd>
-- 🔼 **[Nashville uses eminent domain to block data center near zoo](ai/community/nashville-uses-eminent-domain-to-block-data-center.md)** • <kbd>+18 pts</kbd>
-- 🔼 **[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](ai/community/arxiv-2510-01395.md)** • <kbd>+13 pts</kbd>
+- 🔼 **[On non-rooted Android 17, ADB uninstall of system apps fails](ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md)** • <kbd>+123 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](ai/community/the-next-chapter-of-our-ai-momentum.md)** • <kbd>+57 pts</kbd>
+- 🔼 **[Born Against, or why hobby programming communities are against LLM usage](ai/community/born-against-or-why-hobby-programming-communities.md)** • <kbd>+36 pts</kbd>
+- 🔼 **[Cloudflare OS: an open platform for agents, apps, and work](ai/community/cloudflare-os-an-open-platform-for-agents-apps-and.md)** • <kbd>+34 pts</kbd>
+- 🔼 **[Decimen Optical Transfer: fountain-coded QR file transfer](ai/community/bashalarmistalt-decimen-optical-transfer.md)** • <kbd>+12 pts</kbd> • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[On non-rooted Android 17, ADB uninstall of system apps fails](ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md)** • Score: `31`
-- 🆕 **[A Tour of Gemini Code Assist Standard and Enterprise for Developers in Google Cloud Shell Editor | Google Codelabs](ai/rag/a-tour-of-gemini-code-assist-standard-and-enterpri.md)** • Score: `0`
-- 🆕 **[Deed - Attribution-ShareAlike 2.0 Generic - Creative Commons](ai/resources/deed-attribution-sharealike-2-0-generic-creative-c.md)** • Score: `0`
-- 🆕 **[Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥](ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md)** • Score: `0`
-- 🆕 **[GitHub Flavored Markdown Spec](ai/rag/github-flavored-markdown-spec.md)** • Score: `0`
+- 🆕 **[Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](ai/community/humans-missed-1-in-3-threats-approving-ai-agent-co.md)** • Score: `68`
+- 🆕 **[Kangsan Kim - Homepage](ai/rag/kangsan-kim-homepage.md)** • Score: `0`
+- 🆕 **[Cohere Rerank: Say Goodbye to Irrelevant Search Results](ai/rag/cohere-rerank-say-goodbye-to-irrelevant-search-res.md)** • Score: `0`
+- 🆕 **[Baseten on Hugging Face Inference Providers 🔥](ai/models/huggingface-blog-baseten.md)** • Score: `0`
+- 🆕 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Position: LLMs Can't Jump](ai/community/position-llms-can-t-jump.md)**
+- 💤 **[Nashville uses eminent domain to block data center near zoo](ai/community/nashville-uses-eminent-domain-to-block-data-center.md)**
+- 💤 **[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](ai/community/arxiv-2510-01395.md)**
+- 💤 **[Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](ai/community/launch-hn-hyperprobe-yc-s26-agents-that-do-read-on.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

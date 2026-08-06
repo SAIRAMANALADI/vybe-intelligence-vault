@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-06T17:08:29.765035+05:30'
+collected_at: '2026-08-06T20:09:56.380734+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
+- workflows
 stars: 14
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-06T17:08:29.765035+05:30'
-last_seen: '2026-08-06T17:08:29.765035+05:30'
-last_checked: '2026-08-06T17:08:29.765035+05:30'
+first_seen: '2026-08-06T20:09:56.380734+05:30'
+last_seen: '2026-08-06T20:09:56.380734+05:30'
+last_checked: '2026-08-06T20:09:56.380734+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native features and eBPF for runtime monitoring and enforcement.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and low-overhead system-level observability.
 
-- **Enterprise-Grade RAG Architecture**: Combines FastAPI backend, TypeScript, and vector databases to enable scalable Retrieval-Augmented Generation (RAG) with SaaS-ready AI governance.
+- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, integrating vector databases for scalable, secure LLM-driven workflows in SaaS environments.
 
-- **GenAI & LLM Optimization**: Designed for high-performance GenAI/LLM workloads with built-in security policies and real-time compliance enforcement.
+- **Multi-Tenant Governance**: Enforces role-based access control (RBAC) and policy-driven governance across AI workloads, leveraging vector DBs for contextual security and compliance enforcement.
 
 ## Why It Matters
 

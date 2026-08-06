@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-hyperprobe-yc-s26-agents-that-do-read-on
 first_seen: '2026-08-05T22:25:38.251862+05:30'
 last_seen: '2026-08-06T17:06:14.205092+05:30'
 last_checked: '2026-08-06T17:06:14.205092+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod
 

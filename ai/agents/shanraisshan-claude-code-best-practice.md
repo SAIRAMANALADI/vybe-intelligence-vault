@@ -4,17 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/claude-code-best-practice
-collected_at: '2026-08-06T17:09:34.775574+05:30'
-published_at: '2026-08-06T11:23:29Z'
+collected_at: '2026-08-06T20:11:01.445738+05:30'
+published_at: '2026-08-06T13:27:41Z'
 tags:
 - agents
 - anthropic
+- benchmark
 - github-repo
 - hackernews
 - html
 - scripts
 - workflows
-stars: 64075
+stars: 64081
 language: HTML
 status: active
 license: MIT
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-10-31T14:15:28Z'
 pushed_at: '2026-08-03T18:57:33Z'
 resource_id: github:shanraisshan/claude-code-best-practice
-first_seen: '2026-08-06T17:09:34.775574+05:30'
-last_seen: '2026-08-06T17:09:34.775574+05:30'
-last_checked: '2026-08-06T17:09:34.775574+05:30'
+first_seen: '2026-08-06T20:11:01.445738+05:30'
+last_seen: '2026-08-06T20:11:01.445738+05:30'
+last_checked: '2026-08-06T20:11:01.445738+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Focus**: Curates best practices for **Claude Code** agents, transitioning from *vibe coding* to *agentic engineering* workflows, emphasizing structured AI-driven development.
-- **Technical Scope**: Covers **agentic AI/coding** patterns, **context engineering**, and **Claude-specific commands/skills** (e.g., `boris` integration) for optimized automation.
-- **Community Impact**: Highly starred (64K+) repository with contributions from Pakistani developers, serving as a reference for **AI agent orchestration** and **Claude Code mastery**.
+- **Agentic Workflow Optimization**: Repository provides structured methodologies to transition from vibe coding to agentic engineering, emphasizing systematic Claude Code agent deployment and workflow automation for scalable AI-driven development.
+
+- **Claude Code Best Practices**: Curated collection of optimized commands, skills, and context-engineering techniques tailored for Anthropic’s Claude AI, including Pakistan-specific developer adaptations and performance benchmarks.
+
+- **Context Engineering & Tooling**: Focuses on advanced context management, multi-agent collaboration frameworks, and repository-specific best practices to enhance Claude Code’s problem-solving efficiency in complex coding environments.
 
 ## Why It Matters
 
@@ -43,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: shanraisshan
-- Stars: 64075
+- Stars: 64081
 - Forks: 6374
 - Language: HTML
 - Topics: agentic-ai, agentic-coding, agentic-engineering, agentic-workflow, ai, ai-agents, anthropic, best-practices, boris, claude, claude-ai, claude-code, claude-code-agents, claude-code-best-practices, claude-code-commands, claude-code-skills, context-engineering, pakistan, pakistani-developer, vibe-coding
-- Last Updated: 2026-08-06T11:23:29Z
+- Last Updated: 2026-08-06T13:27:41Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-31T14:15:28Z

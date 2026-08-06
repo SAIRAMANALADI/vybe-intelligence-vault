@@ -4,15 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-06T17:07:44.744915+05:30'
+collected_at: '2026-08-06T20:09:11.393096+05:30'
 published_at: '2026-08-01T15:15:48Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
-- workflows
 stars: 370
 language: Python
 status: active
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-06T17:07:44.744915+05:30'
-last_seen: '2026-08-06T17:07:44.744915+05:30'
-last_checked: '2026-08-06T17:07:44.744915+05:30'
+first_seen: '2026-08-06T20:09:11.393096+05:30'
+last_seen: '2026-08-06T20:09:11.393096+05:30'
+last_checked: '2026-08-06T20:09:11.393096+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document search and context augmentation in generative AI models.
-
-- **NVIDIA AI Workbench Integration**: Provides a Python-based example project optimized for NVIDIA AI Workbench, leveraging GPU acceleration (e.g., CUDA, TensorRT) for efficient LLM inference and retrieval workflows.
-
-- **Modular Architecture**: Includes configurable components for document preprocessing, embedding generation (e.g., using NVIDIA NeMo or Sentence Transformers), hybrid retriever setup, and LLM prompt augmentation, with example datasets and evaluation metrics.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document search and generation.
+- **NVIDIA AI Workbench Integration**: Provides a reference architecture for deploying RAG models using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient inference.
+- **Python-Based Example**: Includes a Python-based implementation with modular components for retrieval, reranking, and LLM integration, optimized for NVIDIA GPUs.
 
 ## Why It Matters
 

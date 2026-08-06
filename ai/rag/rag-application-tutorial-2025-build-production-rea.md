@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-08-05T17:02:35.939293+05:30'
-collected_at: '2026-08-05T17:02:35.939309+05:30'
+published_at: '2026-08-06T20:08:38.513645+05:30'
+collected_at: '2026-08-06T20:08:38.513659+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-08-05T17:02:35.939309+05:30'
-last_seen: '2026-08-05T17:02:35.939309+05:30'
-last_checked: '2026-08-05T17:02:35.939309+05:30'
+first_seen: '2026-08-06T20:08:38.513659+05:30'
+last_seen: '2026-08-06T20:08:38.513659+05:30'
+last_checked: '2026-08-06T20:08:38.513659+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like PCA or quantization), and retrieval using vector databases (e.g., Supabase) with hybrid search (dense + sparse retrieval) for improved accuracy.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) with chunking strategies, embedding optimization, and hybrid search (dense+sparse) for improved contextual relevance.
 
-- **Production Optimization**: Key strategies involve embedding model fine-tuning (e.g., using Sentence-BERT), caching frequent queries, load balancing across multiple LLM instances, and deploying via edge workers (Cloudflare) to reduce latency.
+- **Production Optimizations**: Implements caching, load balancing, token efficiency, and Supabase/Cloudflare Workers deployment; includes latency benchmarks and cost-performance trade-offs for scalable systems.
 
-- **Monitoring & Cost Control**: Integrates observability tools (Sentry) for latency/quality tracking, enforces token-efficient retrieval (e.g., top-k filtering), and benchmarks trade-offs between retrieval depth, model size, and response consistency.
+- **Advanced Patterns & Monitoring**: Supports multi-modal RAG (text+images), conversational memory, and observability via Sentry; addresses hallucinations, retrieval quality, and security/privacy constraints.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T17:02:35.939293+05:30
+- Published: 2026-08-06T20:08:38.513645+05:30
 
 ## Related Tags
 

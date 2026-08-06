@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Python-based framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
+- **Modular AI Orchestration Framework**: Enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
 
-- **Context-Engineered Applications**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI with explicit context engineering and retrieval-augmented generation (RAG) capabilities.
+- **Multi-Use Capabilities**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems through a unified Python-based architecture.
 
-- **Multi-Agent & MCP Support**: Facilitates multi-agent sys
+- **High-Performance & Extensible**: Designed for scalability, with 26K+ GitHub stars, and optimized
 
 ## Use Cases
 

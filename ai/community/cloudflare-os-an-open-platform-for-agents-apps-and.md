@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.cloudflare.com/cloudflare-os
 hn_url: https://news.ycombinator.com/item?id=49182996
-score: 569
+score: 603
 author: speckx
-comments_count: 277
+comments_count: 290
 published_at: '2026-08-05T19:28:53+05:30'
-collected_at: '2026-08-06T17:06:13.446958+05:30'
+collected_at: '2026-08-06T20:07:37.236996+05:30'
 tags:
 - agents
 - hackernews
 status: active
 resource_id: hackernews:cloudflare-os-an-open-platform-for-agents-apps-and
 first_seen: '2026-08-05T22:25:38.179444+05:30'
-last_seen: '2026-08-06T17:06:13.446958+05:30'
-last_checked: '2026-08-06T17:06:13.446958+05:30'
+last_seen: '2026-08-06T20:07:37.236996+05:30'
+last_checked: '2026-08-06T20:07:37.236996+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by speckx. Score: 569, Comments: 277.
+Hacker News story by speckx. Score: 603, Comments: 290.
 Original Link: https://blog.cloudflare.com/cloudflare-os/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: speckx
-- Score: 569 Upvotes
-- Comments: 277 Discussions
+- Score: 603 Upvotes
+- Comments: 290 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49182996
 - Original Article: https://blog.cloudflare.com/cloudflare-os
 

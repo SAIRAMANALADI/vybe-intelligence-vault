@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub user `tensorblue` (ID: 253736847) has **0 public repositories, projects, or packages**, with **56 stars** across unspecified content.
-- User profile includes **block/report functionality** but no visible activity or contributions in the displayed metadata.
-- Error state indicates **failed repository loading**, suggesting potential account inactivity or API/data retrieval issues.
+- GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **56 stars** across unspecified contributions.
+- User account is **unfollowed by default**, with no public activity or visible engagement metrics.
+- GitHub UI indicates an **error state** when attempting to load repositories, suggesting potential account deactivation or data retrieval issues.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-06T17:06:59.612009+05:30'
-published_at: '2026-08-06T11:35:06Z'
+collected_at: '2026-08-06T20:08:21.371252+05:30'
+published_at: '2026-08-06T14:33:43Z'
 tags:
 - github-repo
 - hackernews
@@ -13,16 +13,16 @@ tags:
 - models
 - python
 - rag
-stars: 10109
+stars: 10113
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-06T17:06:59.612009+05:30'
-last_seen: '2026-08-06T17:06:59.612009+05:30'
-last_checked: '2026-08-06T17:06:59.612009+05:30'
+first_seen: '2026-08-06T20:08:21.371252+05:30'
+last_seen: '2026-08-06T20:08:21.371252+05:30'
+last_checked: '2026-08-06T20:08:21.371252+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: A full-stack technical resource for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation with large language models (LLMs) like DeepSeek and Kimi-K2.
+- **Comprehensive RAG Stack Guide**: Provides a full-stack technical guide for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation from embedding models to deployment.
 
-- **Multi-Tool Integration**: Demonstrates RAG pipelines using frameworks/languages such as LangChain, LlamaIndex, Python, and databases like Milvus (vector DB) and Neo4j (graph DB), with support for multimodal inputs.
+- **Multi-Tool & Framework Integration**: Demonstrates integration with multiple tools and frameworks including LangChain, LlamaIndex, Milvus (vector DB), Neo4j (graph DB), and supports multimodal inputs with models like DeepSeek and Kimi-K2.
 
-- **Updated & Practical**: Last revised in August 2026, the repository provides actionable code examples, embedding techniques, and deployment strategies for production-grade RAG systems.
+- **Chinese-Language Focus**: Targets Chinese-speaking developers with resources and examples optimized for local LLM ecosystems, last updated on 2026-08-06.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 10109
-- Forks: 5048
+- Stars: 10113
+- Forks: 5050
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-08-06T11:35:06Z
+- Last Updated: 2026-08-06T14:33:43Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-07-29T11:43:11Z

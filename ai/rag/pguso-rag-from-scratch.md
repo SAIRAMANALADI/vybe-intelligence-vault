@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-06T17:07:19.699554+05:30'
+collected_at: '2026-08-06T20:08:46.353003+05:30'
 published_at: '2026-08-05T14:15:06Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-06T17:07:19.699554+05:30'
-last_seen: '2026-08-06T17:07:19.699554+05:30'
-last_checked: '2026-08-06T17:07:19.699554+05:30'
+first_seen: '2026-08-06T20:08:46.353003+05:30'
+last_seen: '2026-08-06T20:08:46.353003+05:30'
+last_checked: '2026-08-06T20:08:46.353003+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step guide to building a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs, emphasizing transparency by avoiding black-box components.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Technical Stack**: Utilizes `node-llama-cpp` for local LLM inference, JavaScript/Node.js for implementation, and focuses on core RAG components: embeddings, vector search, retrieval, and context-augmented generation.
+- **Technical Stack**: Built in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a modular design for embeddings, retrieval, and generation components.
 
-- **Purpose & Scope**: Designed as a tutorial to demystify RAG pipelines, covering agents, chatbots, and retrieval mechanisms, with no external dependencies on proprietary APIs.
+- **Purpose**: Serves as a hands-on tutorial for understanding RAG mechanics, enabling developers to customize and extend the pipeline for AI agents, chatbots, or other retrieval-augmented applications.
 
 ## Why It Matters
 

@@ -3,25 +3,23 @@ title: LangChain overview - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://python.langchain.com/docs/how_to/recursive_text_splitter/
-published_at: '2026-08-06T04:00:17.053425+05:30'
-collected_at: '2026-08-06T04:00:17.053444+05:30'
+source_url: https://js.langchain.com
+published_at: '2026-08-06T20:13:04.626411+05:30'
+collected_at: '2026-08-06T20:13:04.626425+05:30'
 tags:
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai
 - rag
-- reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-08-06T04:00:17.053444+05:30'
-last_seen: '2026-08-06T04:00:17.053444+05:30'
-last_checked: '2026-08-06T04:00:17.053444+05:30'
+first_seen: '2026-08-06T20:13:04.626425+05:30'
+last_seen: '2026-08-06T20:13:04.626425+05:30'
+last_checked: '2026-08-06T20:13:04.626425+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, Google, and HuggingFace.
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic, Google) with tools, prompts, and middleware, enabling tailored agent construction for specific use cases.
 
-- **Framework Integration**: Agents are built on LangGraph, enabling durable execution, human-in-the-loop support, persistence, and observability via LangSmith for tracing, debugging, and evaluation.
+- **Multi-Provider Support**: Standardized interface across chat models, embeddings, and providers (e.g., Azure, AWS Bedrock, Ollama) allows seamless model switching with minimal code changes for portability.
 
-- **Modular Design**: Supports incremental capability addition through middleware, with a standard interface for chat models/embeddings across providers, ensuring portability and minimal code changes during model switching.
+- **Debugging & Observability**: Built on LangGraph for durable execution and persistence, with LangSmith integration for tracing, debugging, and evaluating agent behavior via execution data.
 
 ## Why It Matters
 
@@ -43,21 +41,19 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T04:00:17.053425+05:30
+- Published: 2026-08-06T20:13:04.626411+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai
 - rag
-- reddit
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://python.langchain.com/docs/how_to/recursive_text_splitter/
+Original source: https://js.langchain.com

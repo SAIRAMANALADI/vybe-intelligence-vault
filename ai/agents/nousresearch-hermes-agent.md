@@ -4,27 +4,28 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-08-06T17:10:19.896610+05:30'
-published_at: '2026-08-06T11:37:04Z'
+collected_at: '2026-08-06T20:11:46.526998+05:30'
+published_at: '2026-08-06T14:39:51Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- mistral
+- models
 - openai
 - python
-- scripts
 - workflows
-stars: 226360
+stars: 226448
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-08-06T11:33:11Z'
+pushed_at: '2026-08-06T14:27:46Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-08-06T17:10:19.896610+05:30'
-last_seen: '2026-08-06T17:10:19.896610+05:30'
-last_checked: '2026-08-06T17:10:19.896610+05:30'
+first_seen: '2026-08-06T20:11:46.526998+05:30'
+last_seen: '2026-08-06T20:11:46.526998+05:30'
+last_checked: '2026-08-06T20:11:46.526998+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model Agent Framework**: A Python-based AI agent system (`hermes-agent`) designed for seamless integration with various LLMs (e.g., Anthropic, OpenAI, Codex) and AI frameworks (e.g., `claude-code`, `moltbot`), enabling cross-platform agentic workflows.
-
-- **Dynamic Scalability & Adaptability**: Implements modular architecture to grow with user needs, supporting extensible tooling (e.g., `ClawDBot`) and real-time adaptation to evolving AI agent requirements.
-
-- **Open-Source Ecosystem**: Actively maintained (last update: 2026-08-06) with 226K+ stars and 44K+ forks, fostering community-driven enhancements for AI agent development, automation, and LLM orchestration.
+- **Multi-LLM Compatibility**: Hermes-Agent supports integration with various LLMs (e.g., Anthropic, OpenAI, Mistral) via modular API wrappers, enabling dynamic switching between providers for task-specific optimization.
+- **Self-Improving Architecture**: Implements a feedback-driven loop where the agent refines its performance using historical task data, tool outputs, and user feedback to enhance future decision-making.
+- **Tool-Use & Code Execution**: Supports structured tool invocation (e.g., `claude-code`, `codex`) with sandboxed execution environments, enabling safe, multi-step code generation and debugging workflows.
 
 ## Why It Matters
 
@@ -45,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 226360
-- Forks: 44112
+- Stars: 226448
+- Forks: 44141
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
-- Last Updated: 2026-08-06T11:37:04Z
+- Last Updated: 2026-08-06T14:39:51Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-08-06T11:33:11Z
+- Pushed At: 2026-08-06T14:27:46Z
 
 ## Possible Use Cases
 

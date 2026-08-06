@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langgenius/dify
-collected_at: '2026-08-04T03:54:53.018289+05:30'
-published_at: '2026-08-03T21:47:38Z'
+collected_at: '2026-08-06T20:12:51.583861+05:30'
+published_at: '2026-08-06T14:42:22Z'
 tags:
 - agents
 - anthropic
@@ -16,17 +16,17 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 151219
+stars: 151557
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-04-12T07:40:24Z'
-pushed_at: '2026-08-03T22:09:30Z'
+pushed_at: '2026-08-06T14:30:18Z'
 resource_id: github:langgenius/dify
-first_seen: '2026-08-04T03:54:53.018289+05:30'
-last_seen: '2026-08-04T03:54:53.018289+05:30'
-last_checked: '2026-08-04T03:54:53.018289+05:30'
+first_seen: '2026-08-06T20:12:51.583861+05:30'
+last_seen: '2026-08-06T20:12:51.583861+05:30'
+last_checked: '2026-08-06T20:12:51.583861+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Development Platform**: Enables building agentic workflows and RAG pipelines with support for multiple AI models (e.g., OpenAI, Claude) and tools in a single collaborative workspace.
+- **Unified AI Development Platform**: Enables building agentic workflows and RAG pipelines with support for multiple AI models (e.g., GPT, Claude) and tools, facilitating end-to-end AI application development from prototype to production.
 
-- **Multi-Deployment Flexibility**: Supports deployment across cloud, VPC, or self-hosted environments, allowing seamless transition from prototype to production without stack rebuilds.
+- **Multi-Deployment Flexibility**: Supports deployment across cloud, VPC, or self-hosted environments, allowing teams to operationalize AI workflows without infrastructure rebuilds.
 
-- **Low-Code/No-Code & Extensible**: Offers a low-code/no-code interface (Next.js-based frontend) with Python backend, supporting MCP, skills, and orchestration for rapid AI automation development.
+- **Low/No-Code & Full-Stack Support**: Combines low-code/no-code tools (Next.js-based UI) with Python backend, MCP integration, and orchestration capabilities for scalable AI automation.
 
 ## Why It Matters
 
@@ -47,15 +47,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langgenius
-- Stars: 151219
-- Forks: 23864
+- Stars: 151557
+- Forks: 23930
 - Language: TypeScript
 - Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, skills, workflow
-- Last Updated: 2026-08-03T21:47:38Z
+- Last Updated: 2026-08-06T14:42:22Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-04-12T07:40:24Z
-- Pushed At: 2026-08-03T22:09:30Z
+- Pushed At: 2026-08-06T14:30:18Z
 
 ## Possible Use Cases
 

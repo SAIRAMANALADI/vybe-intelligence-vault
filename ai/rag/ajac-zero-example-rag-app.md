@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-08-06T17:07:54.727317+05:30'
+collected_at: '2026-08-06T20:09:21.368785+05:30'
 published_at: '2026-08-04T10:08:15Z'
 tags:
+- anthropic
 - github-repo
+- openai
 - rag
 - typescript
 stars: 165
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-08-06T17:07:54.727317+05:30'
-last_seen: '2026-08-06T17:07:54.727317+05:30'
-last_checked: '2026-08-06T17:07:54.727317+05:30'
+first_seen: '2026-08-06T20:09:21.368785+05:30'
+last_seen: '2026-08-06T20:09:21.368785+05:30'
+last_checked: '2026-08-06T20:09:21.368785+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based RAG application with Docker support, full type-checking, and 100% test coverage.
-- **Observability & Integration**: Implements LLM observability via Langfuse and supports 100+ LLM providers through LiteLLM.
-- **Scalability**: Modular architecture optimized for extensibility, with CI/CD-ready Dockerization and provider-agnostic design.
+- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ LLM provider compatibility (e.g., OpenAI, Anthropic, Hugging Face).
+- **Strict Type Safety & Testing**: Full TypeScript type-checking with 100% test coverage, ensuring robust, maintainable code.
+- **Containerized & Production-Ready**: Dockerized deployment with modular RAG architecture, optimized for scalability and observability.
 
 ## Why It Matters
 

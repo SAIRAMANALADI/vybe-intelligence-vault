@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-08-06T17:11:09.966013+05:30'
+collected_at: '2026-08-06T20:12:31.693853+05:30'
 published_at: '2026-07-31T15:53:17Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-- scripts
 - workflows
 stars: 20
 language: Python
@@ -24,9 +22,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-31T15:56:17Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-08-06T17:11:09.966013+05:30'
-last_seen: '2026-08-06T17:11:09.966013+05:30'
-last_checked: '2026-08-06T17:11:09.966013+05:30'
+first_seen: '2026-08-06T20:12:31.693853+05:30'
+last_seen: '2026-08-06T20:12:31.693853+05:30'
+last_checked: '2026-08-06T20:12:31.693853+05:30'
 health_score: 100
 ---
 
@@ -34,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides pre-built templates for DataRobot Agentic Workflows, enabling integration with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
-- **Technical Stack**: Implemented in Python, leveraging agentic AI concepts and DataRobot’s automation capabilities for workflow orchestration.
-- **Repository Details**: 20 stars, 12 forks, last updated July 31, 2026, with topics including `agentic-ai`, `crewai`, `datarobot`, `langgraph`, and `llamaindex`.
+- **Agentic Workflow Templates**: Repository provides pre-built agentic AI workflow templates using frameworks like CrewAI, LangGraph, and LlamaIndex, optimized for DataRobot integration.
+
+- **Multi-Framework Support**: Templates support Python-based agentic workflows with LLM orchestration via LangGraph and LlamaIndex, enabling modular and scalable AI agent architectures.
+
+- **DataRobot Integration**: Designed for seamless interaction with DataRobot's platform, facilitating agent-driven ML pipelines, automated data processing, and model deployment workflows.
 
 ## Why It Matters
 

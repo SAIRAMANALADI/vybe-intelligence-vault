@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-06T17:07:54.682737+05:30'
+collected_at: '2026-08-06T20:09:21.501677+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
-- benchmark
-- dataset
 - github-repo
-- models
 - python
 - rag
 stars: 265
@@ -20,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-06T17:07:54.682737+05:30'
-last_seen: '2026-08-06T17:07:54.682737+05:30'
-last_checked: '2026-08-06T17:07:54.682737+05:30'
+first_seen: '2026-08-06T20:09:21.501677+05:30'
+last_seen: '2026-08-06T20:09:21.501677+05:30'
+last_checked: '2026-08-06T20:09:21.501677+05:30'
 health_score: 100
 ---
 
@@ -30,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG Pipeline**: Demonstrates a Vietnamese-specific Retrieval-Augmented Generation (RAG) pipeline using Python, integrating embedding models (e.g., `sentence-transformers`) and vector databases (e.g., `FAISS` or `Milvus`) for efficient document retrieval.
-
-- **Vietnamese Text Processing**: Includes preprocessing steps tailored for Vietnamese, such as tokenization with `VnCoreNLP` or `Underthesea`, and handling of diacritics/stopwords to optimize retrieval performance.
-
-- **Evaluation & Optimization**: Provides scripts for benchmarking RAG performance on Vietnamese datasets, with metrics like `Hit Rate@K` and `MRR`, and includes fine-tuning strategies for domain-specific adaptation.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices tailored for Vietnamese, including document retrieval and text generation pipelines.
+- **Tech Stack**: Uses Python with unspecified libraries/frameworks (likely Hugging Face Transformers, FAISS, or similar for embedding/retrieval).
+- **Structure**: Repository includes backend components for Vietnamese RAG, optimized for local or cloud deployment (no frontend specified).
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-08-06T17:09:04.768378+05:30'
+collected_at: '2026-08-06T20:10:31.420443+05:30'
 published_at: '2026-08-06T10:17:03Z'
 tags:
 - agents
@@ -14,7 +14,6 @@ tags:
 - javascript
 - meta-ai
 - models
-- workflows
 stars: 4474
 language: JavaScript
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-07-24T15:40:39Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-08-06T17:09:04.768378+05:30'
-last_seen: '2026-08-06T17:09:04.768378+05:30'
-last_checked: '2026-08-06T17:09:04.768378+05:30'
+first_seen: '2026-08-06T20:10:31.420443+05:30'
+last_seen: '2026-08-06T20:10:31.420443+05:30'
+last_checked: '2026-08-06T20:10:31.420443+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency by avoiding "black box" models and focusing on core concepts like function calling, memory, and ReAct patterns.
-
-- **Technical Stack**: Implements agents in JavaScript with `node-llama-cpp` for local LLM integration, supporting React-based agent architectures and function-calling workflows.
-
-- **Key Features**: Demonstrates real-time agent behavior, memory management, and reasoning loops (ReAct) without external dependencies, targeting developers seeking deep technical understanding of AI agent systems.
+- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models.
+- **Technical Focus**: Covers core AI agent concepts including function calling, memory management, and ReAct (Reasoning and Acting) patterns in JavaScript.
+- **Tooling & Integration**: Utilizes `node-llama-cpp` for local LLM execution and demonstrates practical implementation of agent architectures in a Node.js environment.
 
 ## Why It Matters
 

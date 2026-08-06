@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-06T09:12:08.443103+05:30'
-published_at: '2026-08-06T03:20:44Z'
+collected_at: '2026-08-06T20:11:51.460622+05:30'
+published_at: '2026-08-06T14:31:08Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 26733
+stars: 26743
 language: Python
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-08-03T21:08:08Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-06T09:12:08.443103+05:30'
-last_seen: '2026-08-06T09:12:08.443103+05:30'
-last_checked: '2026-08-06T09:12:08.443103+05:30'
+first_seen: '2026-08-06T20:11:51.460622+05:30'
+last_seen: '2026-08-06T20:11:51.460622+05:30'
+last_checked: '2026-08-06T20:11:51.460622+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Fully Local AI Agent**: Implements an autonomous agent (`agenticSeek`) using Python, operating entirely locally without external APIs or cloud dependencies, relying solely on local compute resources.
-- **DeepSeek-R1 Integration**: Leverages the DeepSeek-R1 model for reasoning, web browsing, and code execution capabilities, enabling autonomous task completion with minimal overhead.
-- **Cost-Effective & Open-Source**: Eliminates recurring costs (e.g., API fees) by running locally, with an estimated operational cost limited to electricity consumption; released under an open-source license.
+- **Fully Local AI Agent**: Implements an autonomous agent (agenticSeek) that operates entirely locally without external APIs or cloud dependencies, leveraging local compute resources for inference and execution.
+
+- **DeepSeek-R1 Integration**: Utilizes DeepSeek-R1 (a reasoning-focused LLM) for advanced autonomous decision-making, web browsing, and code generation tasks with zero API costs.
+
+- **Multi-Modal & Voice Support**: Supports voice assistant functionality and integrates with local tools for web interaction and code execution, optimized for Python-based environments.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Fosowl
-- Stars: 26733
-- Forks: 2995
+- Stars: 26743
+- Forks: 2994
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
-- Last Updated: 2026-08-06T03:20:44Z
+- Last Updated: 2026-08-06T14:31:08Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-02-19T18:03:06Z

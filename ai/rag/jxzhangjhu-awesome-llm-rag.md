@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-06T17:08:04.685137+05:30'
+collected_at: '2026-08-06T20:09:31.357937+05:30'
 published_at: '2026-08-05T14:47:24Z'
 tags:
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 1339
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-06T17:08:04.685137+05:30'
-last_seen: '2026-08-06T17:08:04.685137+05:30'
-last_checked: '2026-08-06T17:08:04.685137+05:30'
+first_seen: '2026-08-06T20:09:31.357937+05:30'
+last_seen: '2026-08-06T20:09:31.357937+05:30'
+last_checked: '2026-08-06T20:09:31.357937+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), focusing on enhancing factual accuracy and contextual relevance.
-- **Technical Focus**: Covers embeddings, retrieval mechanisms, and integration strategies for optimizing RAG pipelines, including topics like `rag-embeddings` and `retrieval-information`.
-- **Updated Repository**: Actively maintained with the latest advancements, last updated in August 2026, and includes contributions from 1339+ stars and 92+ forks.
+- **Curated Resource**: A comprehensive collection of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research papers for **Large Language Models (LLMs)**, focusing on **embeddings**, **retrieval mechanisms**, and **information augmentation**.
+
+- **Key Topics Covered**: Includes **RAG-embeddings**, **retrieval-information**, and **LLM integration**, with emphasis on improving factual accuracy, context relevance, and generation quality in LLMs.
+
+- **Repository Status**: Actively maintained with **1,339 stars** and **92 forks**, last updated on **2026-08-05**.
 
 ## Why It Matters
 

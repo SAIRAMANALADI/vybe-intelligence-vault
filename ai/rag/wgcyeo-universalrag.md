@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-06T17:08:49.769961+05:30'
+collected_at: '2026-08-06T20:10:16.414795+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- benchmark
-- dataset
 - github-repo
-- paper
 - python
 - rag
 stars: 174
@@ -21,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-06T17:08:49.769961+05:30'
-last_seen: '2026-08-06T17:08:49.769961+05:30'
-last_checked: '2026-08-06T17:08:49.769961+05:30'
+first_seen: '2026-08-06T20:10:16.414795+05:30'
+last_seen: '2026-08-06T20:10:16.414795+05:30'
+last_checked: '2026-08-06T20:10:16.414795+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence), leveraging a unified indexing and retrieval mechanism.
+- **UniversalRAG Framework**: Introduces a retrieval-augmented generation (RAG) system designed to handle diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, or entity-level) via a unified architecture.
 
-- **ACL 2026 Oral Paper**: Presents a novel architecture with experimental validation on cross-modal retrieval and generation tasks, demonstrating superior performance over traditional unimodal RAG baselines.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using modality-specific encoders and a shared latent space, enabling efficient retrieval across heterogeneous corpora.
 
-- **Open-Source Implementation**: Provides a Python-based, modular codebase with pre-trained models, retrieval pipelines, and evaluation tools, supporting extensibility for custom datasets and modalities.
+- **Adaptive Granularity Selection**: Dynamically adjusts retrieval granularity based on query complexity and corpus structure, optimizing both relevance and computational efficiency.
 
 ## Why It Matters
 

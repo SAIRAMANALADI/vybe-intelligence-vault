@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/reworkd/AgentGPT
-collected_at: '2026-08-06T17:10:14.863131+05:30'
+collected_at: '2026-08-06T20:11:41.529325+05:30'
 published_at: '2026-08-06T08:28:07Z'
 tags:
 - agents
@@ -15,6 +15,7 @@ tags:
 - rag
 - scripts
 - typescript
+- workflows
 stars: 36301
 language: TypeScript
 status: active
@@ -23,9 +24,9 @@ archived: true
 created_at: '2023-04-07T02:29:19Z'
 pushed_at: '2025-04-29T01:19:32Z'
 resource_id: github:reworkd/agentgpt
-first_seen: '2026-08-06T17:10:14.863131+05:30'
-last_seen: '2026-08-06T17:10:14.863131+05:30'
-last_checked: '2026-08-06T17:10:14.863131+05:30'
+first_seen: '2026-08-06T20:11:41.529325+05:30'
+last_seen: '2026-08-06T20:11:41.529325+05:30'
+last_checked: '2026-08-06T20:11:41.529325+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging modern web technologies (Next.js/T3 stack).
+- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging modern web technologies (TypeScript, Next.js).
 
-- **Multi-agent framework integration**: Supports LangChain, OpenAI APIs, and compatibility with AGI frameworks like BabyAGI, facilitating modular agent design and LLM-driven task automation.
+- **Integration with LLM frameworks**: Supports OpenAI, LangChain, BabyAGI, and AutoGPT, facilitating advanced agent orchestration and task automation via LLM-driven workflows.
 
-- **Open-source TypeScript implementation**: Built with TypeScript for scalability, includes 36.3k+ stars and 9.3k+ forks, last updated in 2026 with active maintenance.
+- **T3 Stack implementation**: Built on the T3 Stack (TypeScript, Tailwind, tRPC, Next.js) for scalable, type-safe full-stack development with optimized performance and developer experience.
 
 ## Why It Matters
 

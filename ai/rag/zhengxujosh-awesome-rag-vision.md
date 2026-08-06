@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-06T17:08:09.742723+05:30'
+collected_at: '2026-08-06T20:09:36.357132+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
-- dataset
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 339
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-06T17:08:09.742723+05:30'
-last_seen: '2026-08-06T17:08:09.742723+05:30'
-last_checked: '2026-08-06T17:08:09.742723+05:30'
+first_seen: '2026-08-06T20:09:36.357132+05:30'
+last_seen: '2026-08-06T20:09:36.357132+05:30'
+last_checked: '2026-08-06T20:09:36.357132+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including state-of-the-art methods, datasets, and frameworks.
-- **Scope**: Encompasses **vision-language models (VLMs)**, **multimodal RAG**, and **cross-modal retrieval** applications, with a focus on enhancing generative models using external visual knowledge.
-- **Maintenance**: Actively updated (last commit: **2026-07-15**) with contributions from the research community, though language and topic metadata are unspecified.
+- **Curated Resource**: A specialized repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods, papers, and tools.
+- **Metadata**: 339 stars, 9 forks, last updated **July 15, 2026**; language unspecified (likely Python/Markdown).
+- **Focus**: Aggregates cutting-edge RAG applications in CV, emphasizing multimodal retrieval, vision-language models, and hybrid architectures.
 
 ## Why It Matters
 

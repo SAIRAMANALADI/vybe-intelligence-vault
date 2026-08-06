@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-08-06T17:07:49.815564+05:30'
+collected_at: '2026-08-06T20:09:16.462749+05:30'
 published_at: '2026-08-06T08:41:57Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
+- models
 - rag
 - workflows
 stars: 1485
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-08-04T15:11:21Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-08-06T17:07:49.815564+05:30'
-last_seen: '2026-08-06T17:07:49.815564+05:30'
-last_checked: '2026-08-06T17:07:49.815564+05:30'
+first_seen: '2026-08-06T20:09:16.462749+05:30'
+last_seen: '2026-08-06T20:09:16.462749+05:30'
+last_checked: '2026-08-06T20:09:16.462749+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Contains Amazon Bedrock examples for all available foundational models, including Amazon Titan, with Jupyter Notebook implementations.
-- **Key Features**: Demonstrates embeddings, generative AI, knowledge bases, LangChain integration, and Retrieval-Augmented Generation (RAG) workflows.
-- **Technical Stack**: Focuses on AWS Bedrock service, leveraging Python-based Jupyter Notebooks for model interaction and experimentation.
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) with practical implementations.
+- **Technical Stack**: Primarily uses Jupyter Notebooks, integrating LangChain for RAG workflows, embeddings, and knowledge base interactions.
+- **Key Features**: Demonstrates generative AI use cases, including model fine-tuning, retrieval-augmented generation (RAG), and embeddings-based applications.
 
 ## Why It Matters
 

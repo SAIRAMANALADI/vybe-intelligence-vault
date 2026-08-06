@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/viktoriasemaan/multi-agent
-collected_at: '2026-08-06T17:09:29.778619+05:30'
+collected_at: '2026-08-06T20:10:56.457558+05:30'
 published_at: '2026-08-03T20:26:03Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
+- workflows
 stars: 210
 language: Jupyter Notebook
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-01-26T19:36:33Z'
 pushed_at: '2025-02-14T23:29:55Z'
 resource_id: github:viktoriasemaan/multi-agent
-first_seen: '2026-08-06T17:09:29.778619+05:30'
-last_seen: '2026-08-06T17:09:29.778619+05:30'
-last_checked: '2026-08-06T17:09:29.778619+05:30'
+first_seen: '2026-08-06T20:10:56.457558+05:30'
+last_seen: '2026-08-06T20:10:56.457558+05:30'
+last_checked: '2026-08-06T20:10:56.457558+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts examples of AI multi-agent systems implemented in Jupyter Notebooks, with 210 stars and 124 forks.
-- **Technical Focus**: Demonstrates multi-agent architectures, coordination, and interactions (e.g., LLM-based agents, task delegation).
-- **Last Updated**: Codebase last modified on **2026-08-03**, indicating ongoing development or maintenance.
+- **Repository Overview**: GitHub repository containing Jupyter Notebook examples of AI multi-agent systems, with 210 stars and 124 forks.
+- **Technical Focus**: Demonstrates multi-agent AI solutions, emphasizing collaborative agent architectures and workflows.
+- **Metadata**: Last updated on 2026-08-03; primarily uses Jupyter Notebooks for implementation and documentation.
 
 ## Why It Matters
 

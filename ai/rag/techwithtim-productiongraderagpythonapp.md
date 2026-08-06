@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/ProductionGradeRAGPythonApp
-collected_at: '2026-08-06T17:08:39.726283+05:30'
+collected_at: '2026-08-06T20:10:06.395352+05:30'
 published_at: '2026-07-31T11:15:53Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 77
@@ -18,9 +17,9 @@ archived: false
 created_at: '2025-09-10T15:52:23Z'
 pushed_at: '2025-09-10T15:54:33Z'
 resource_id: github:techwithtim/productiongraderagpythonapp
-first_seen: '2026-08-06T17:08:39.726283+05:30'
-last_seen: '2026-08-06T17:08:39.726283+05:30'
-last_checked: '2026-08-06T17:08:39.726283+05:30'
+first_seen: '2026-08-06T20:10:06.395352+05:30'
+last_seen: '2026-08-06T20:10:06.395352+05:30'
+last_checked: '2026-08-06T20:10:06.395352+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Python-based RAG (Retrieval-Augmented Generation) application designed for production-grade deployment, with 77 stars and 49 forks.
-- **Technical Stack**: Implements RAG architecture, likely leveraging vector databases (e.g., FAISS, Chroma) and LLM integration (e.g., Hugging Face Transformers).
-- **Last Update**: Repository last modified on **2026-07-31**, indicating active maintenance or recent development.
+- **Repository Overview**: Python-based application for production-grade Retrieval-Augmented Generation (RAG) systems, last updated on 2026-07-31.
+- **Metrics**: 77 stars and 49 forks as of the last update.
+- **Repository Link**: Available at [techwithtim/ProductionGradeRAGPythonApp](https://github.com/techwithtim/ProductionGradeRAGPythonApp).
 
 ## Why It Matters
 

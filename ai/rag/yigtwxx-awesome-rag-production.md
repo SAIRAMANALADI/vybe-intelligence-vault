@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-06T17:07:59.720957+05:30'
+collected_at: '2026-08-06T20:09:26.352189+05:30'
 published_at: '2026-08-06T05:05:15Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 186
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-03T08:23:24Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-06T17:07:59.720957+05:30'
-last_seen: '2026-08-06T17:07:59.720957+05:30'
-last_checked: '2026-08-06T17:07:59.720957+05:30'
+first_seen: '2026-08-06T20:09:26.352189+05:30'
+last_seen: '2026-08-06T20:09:26.352189+05:30'
+last_checked: '2026-08-06T20:09:26.352189+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Repository providing a vetted list of production-grade tools, frameworks, and best practices for building scalable Retrieval-Augmented Generation (RAG) systems.
-- **Technical Scope**: Covers embeddings, vector databases, LLM integration (e.g., LangChain), MLOps/LLMOps, and deployment strategies for RAG pipelines.
-- **Python-Centric**: Focuses on Python-based implementations, with last update timestamped 2026-08-06T05:05:15Z.
+- **Curated Resource**: A GitHub repository (`Yigtwxx/awesome-rag-production`) compiling production-grade tools, frameworks, and best practices for **scalable RAG systems**, covering **LLMs, embeddings, vector databases, and MLOps** integration.
+- **Technical Scope**: Focuses on **Python-based** implementations, including **LangChain, vector DBs, and LLMops** for deployment, with emphasis on **generative AI and retrieval-augmented generation (RAG)** workflows.
+- **Community & Updates**: Maintained repository with **186 stars** and **46 forks**, last updated **2026-08-06**, covering topics like **AI engineering, LLMOps, and production-grade RAG architectures**.
 
 ## Why It Matters
 

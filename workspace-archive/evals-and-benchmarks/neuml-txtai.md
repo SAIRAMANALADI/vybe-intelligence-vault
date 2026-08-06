@@ -1,10 +1,9 @@
 ---
-title: txtai/examples/52_Build_RAG_pipelines_with_txtai.ipynb at master · neuml/txtai
-  · GitHub
+title: neuml/txtai
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/neuml/txtai/blob/master/examples/52_Build_RAG_pipelines_with_txtai.ipynb
-resource_id: github:neuml/txtai
+source_url: https://github.com/neuml/txtai?source=post_page-----dba899ae0355---------------------------------------
+resource_id: github:neuml/txtai-29ef0f56
 local_vault_path: ai/rag/neuml-txtai.md
 quality_score: 70
 archive_score: 77
@@ -12,16 +11,17 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- agents
+- github-repo
+- python
 - rag
-- reddit
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# txtai/examples/52_Build_RAG_pipelines_with_txtai.ipynb at master · neuml/txtai · GitHub
+# neuml/txtai
 
 ## Why This Is In The Archive
 
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **txtai** is an open-source Python library by [neuml](https://github.com/neuml) for building semantic search, LLM orchestration, and RAG pipelines with 12.8k GitHub stars and 854 forks.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
 
-- The repository includes a Jupyter notebook (`52_Build_RAG_pipelines_with_txtai.ipynb`) demonstrating how to construct Retrieval-Augmented Generation (RAG) workflows using txtai’s modular pipeline components.
+- **Core Components**: Leverages embeddings, transformers, and vector databases for efficient information retrieval and NLP tasks, with built-in support for sentence embeddings and large language models.
 
-- The notebook contains 592 lines of code (21.8 KB) and is part of the `examples` directory, showcas
+- **Scalability & Extensibility**: Designed for high-performance workflows, enabling custom AI agent pipelines a
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/neuml/txtai/blob/master/examples/52_Build_RAG_pipelines_with_txtai.ipynb
+Original source URL: https://github.com/neuml/txtai?source=post_page-----dba899ae0355---------------------------------------
 
 ## Local Vault File
 

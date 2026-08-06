@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.fogus.me/llm/born-against.html
 hn_url: https://news.ycombinator.com/item?id=49187061
-score: 289
+score: 325
 author: lladnar
-comments_count: 295
+comments_count: 368
 published_at: '2026-08-06T00:07:49+05:30'
-collected_at: '2026-08-06T17:06:13.368578+05:30'
+collected_at: '2026-08-06T20:07:36.565915+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:born-against-or-why-hobby-programming-communities
 first_seen: '2026-08-06T01:27:50.870891+05:30'
-last_seen: '2026-08-06T17:06:13.368578+05:30'
-last_checked: '2026-08-06T17:06:13.368578+05:30'
+last_seen: '2026-08-06T20:07:36.565915+05:30'
+last_checked: '2026-08-06T20:07:36.565915+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by lladnar. Score: 289, Comments: 295.
+Hacker News story by lladnar. Score: 325, Comments: 368.
 Original Link: https://blog.fogus.me/llm/born-against.html
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: lladnar
-- Score: 289 Upvotes
-- Comments: 295 Discussions
+- Score: 325 Upvotes
+- Comments: 368 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49187061
 - Original Article: https://blog.fogus.me/llm/born-against.html
 

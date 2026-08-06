@@ -9,7 +9,7 @@ local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
 - hackernews
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, advertising, and creator monetization under structured policies (Terms, Privacy, Safety).
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization (via YouTube Partners/Advertisers), and developer tools (YouTube Data API v3, YouTube IFrame Player API).
 
-- **Developer & Technical Resources**: Provides APIs and developer tools via [Google Developers](https://developers.google.com/youtube) for integrating YouTube functionality (e.g., video upload, analytics) into applications.
+- **Technical Infrastructure**: Utilizes a distributed system for video transcoding, storage (leveraging Google Cloud), and CDN-based delivery (via Google's global network) to optimize latency and scalability.
 
-- **AI Integration**: Supports AI-driven features (e.g.,
+- **AI Integration**: Implements Retrieval
 
 ## Use Cases
 

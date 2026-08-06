@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-06T17:11:24.914382+05:30'
+collected_at: '2026-08-06T20:12:46.580590+05:30'
 published_at: '2026-08-06T11:13:18Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - meta-ai
 - models
 - python
+- workflows
 stars: 354
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-06T17:11:24.914382+05:30'
-last_seen: '2026-08-06T17:11:24.914382+05:30'
-last_checked: '2026-08-06T17:11:24.914382+05:30'
+first_seen: '2026-08-06T20:12:46.580590+05:30'
+last_seen: '2026-08-06T20:12:46.580590+05:30'
+last_checked: '2026-08-06T20:12:46.580590+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Framework**: Implements a collaborative multi-agent system using **CrewAI** for task orchestration and **FastAPI** for API service provisioning.
+- **Multi-Agent System**: Implements a collaborative multi-agent framework using CrewAI, enabling parallel task execution and coordination among specialized agents.
 
-- **Model Agnostic Integration**: Supports **GPT models**, **domestic large models**, and **Ollama local models** via unified API endpoints.
+- **API Integration**: Exposes a FastAPI-based RESTful interface for external interactions, supporting both cloud-based (GPT) and local (Ollama) large language models (LLMs).
 
-- **Deployment & Scalability**: Containerized setup with **Python-based** implementation, enabling rapid deployment and horizontal scaling of agent-based services.
+- **Model Agnostic**: Supports heterogeneous LLM backends, including proprietary (GPT) and open-source (Ollama) models, with configurable agent roles and workflows.
 
 ## Why It Matters
 

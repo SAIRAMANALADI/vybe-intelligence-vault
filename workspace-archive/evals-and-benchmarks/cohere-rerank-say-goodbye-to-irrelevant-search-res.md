@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- Introduces Cohere's new **embedding models** optimized for **retrieval, classification, and clustering**, with significant improvements in **latency, cost, and accuracy** over prior versions.
+- Introduces Cohere's new embedding models (v3) optimized for retrieval, RAG, and classification tasks, with improved performance and efficiency over prior versions.
 
-- Highlights **multilingual support** across 100+ languages, leveraging **advanced tokenization** and **scaling laws** for efficient cross-lingual embeddings.
+- Details architectural enhancements including dynamic adaptive computation, enabling variable token processing based on input complexity for reduced latency.
 
-- Details **benchmark performance** on MTEB (Massive Text Embedding Benchmark), demonstrating **state-of-the-art results** in tasks like semantic
+- Highlights benchmark improvements: 10% higher accuracy on BEIR retrieval tasks and 2x faster inference compared to v2 models.
 
 ## Use Cases
 

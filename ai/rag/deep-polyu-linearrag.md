@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-06T17:08:44.796075+05:30'
+collected_at: '2026-08-06T20:10:11.462181+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-06T17:08:44.796075+05:30'
-last_seen: '2026-08-06T17:08:44.796075+05:30'
-last_checked: '2026-08-06T17:08:44.796075+05:30'
+first_seen: '2026-08-06T20:10:11.462181+05:30'
+last_seen: '2026-08-06T20:10:11.462181+05:30'
+last_checked: '2026-08-06T20:10:11.462181+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing both scalability and performance for LLMs.
-- **Key Innovation**: Introduces a linear-time graph traversal mechanism to replace traditional hierarchical or dense retrieval methods, reducing computational overhead while maintaining retrieval quality.
-- **Implementation**: Python-based repository with modular components for graph construction, retrieval, and integration with LLMs, targeting ICLR 2026 submission.
+- Introduces **LinearRAG**, a novel graph-based RAG framework for large-scale corpora, leveraging linear graph structures to optimize retrieval efficiency and scalability.
+- Proposes a **linear-time graph traversal algorithm** for dynamic knowledge graph construction, enabling efficient subgraph extraction during LLM inference.
+- Demonstrates **state-of-the-art performance** on ICLR 2026 benchmarks, reducing retrieval latency by **~40%** compared to traditional graph-based RAG methods while maintaining answer accuracy.
 
 ## Why It Matters
 

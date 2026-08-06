@@ -13,13 +13,14 @@ collected_at: '2026-08-06T17:06:14.463852+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:position-llms-can-t-jump
 first_seen: '2026-08-05T22:25:39.813851+05:30'
 last_seen: '2026-08-06T17:06:14.463852+05:30'
 last_checked: '2026-08-06T17:06:14.463852+05:30'
 health_score: 100
 ---
+
 
 # Position: LLMs Can't Jump
 

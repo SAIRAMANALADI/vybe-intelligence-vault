@@ -13,13 +13,14 @@ collected_at: '2026-08-06T17:06:14.336863+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nashville-uses-eminent-domain-to-block-data-center
 first_seen: '2026-08-06T09:07:58.203030+05:30'
 last_seen: '2026-08-06T17:06:14.336863+05:30'
 last_checked: '2026-08-06T17:06:14.336863+05:30'
 health_score: 100
 ---
+
 
 # Nashville uses eminent domain to block data center near zoo
 

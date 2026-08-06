@@ -24,9 +24,9 @@ https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
-- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
 - [microsoft/tutel](https://github.com/microsoft/tutel)
 - [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-08-06 17:24 IST*
+*Last updated: 2026-08-06 20:26 IST*

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/codebasics/ai-agents
-collected_at: '2026-08-06T17:09:09.799480+05:30'
+collected_at: '2026-08-06T20:10:36.472245+05:30'
 published_at: '2026-05-19T06:11:13Z'
 tags:
 - agents
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-09-11T21:32:31Z'
 pushed_at: '2025-04-18T11:50:28Z'
 resource_id: github:codebasics/ai-agents
-first_seen: '2026-08-06T17:09:09.799480+05:30'
-last_seen: '2026-08-06T17:09:09.799480+05:30'
-last_checked: '2026-08-06T17:09:09.799480+05:30'
+first_seen: '2026-08-06T20:10:36.472245+05:30'
+last_seen: '2026-08-06T20:10:36.472245+05:30'
+last_checked: '2026-08-06T20:10:36.472245+05:30'
 health_score: 100
 ---
 
@@ -28,8 +28,8 @@ health_score: 100
 ## Summary
 
 - **Repository Overview**: GitHub repository `codebasics/ai-agents` provides tutorials focused on AI agents, implemented in Python.
-- **Activity Metrics**: Last updated on May 19, 2026; has 57 stars and 82 forks.
-- **Metadata**: No topics specified; URL: `https://github.com/codebasics/ai-agents`.
+- **Metadata**: Contains 57 stars, 82 forks, and was last updated on **2026-05-19T06:11:13Z**.
+- **Access**: Available at [https://github.com/codebasics/ai-agents](https://github.com/codebasics/ai-agents).
 
 ## Why It Matters
 
