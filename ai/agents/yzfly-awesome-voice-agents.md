@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-08-06T09:11:23.418195+05:30'
+collected_at: '2026-08-06T14:30:31.049600+05:30'
 published_at: '2026-07-31T08:46:34Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-11-03T02:20:30Z'
 pushed_at: '2026-07-03T22:06:38Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-08-06T09:11:23.418195+05:30'
-last_seen: '2026-08-06T09:11:23.418195+05:30'
-last_checked: '2026-08-06T09:11:23.418195+05:30'
+first_seen: '2026-08-06T14:30:31.049600+05:30'
+last_seen: '2026-08-06T14:30:31.049600+05:30'
+last_checked: '2026-08-06T14:30:31.049600+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource** for voice AI agent frameworks, tools, and best practices, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
-- **GitHub repository** with 39 stars, 25 forks, last updated on 2026-07-31, focusing on real-time chat and voice agent technologies.
-- **Multi-topic index** including voice assistants, voice activity detection, and voice synthesis tools for AI agent development.
+- **Curated Resource**: Compilation of frameworks, tools, and best practices for voice AI agents, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
+- **Technical Scope**: Encompasses real-time chat, voice assistants, and agent-based systems with a focus on voice interaction pipelines.
+- **Repository Metadata**: 39 stars, 26 forks, last updated 2026-07-31; language unspecified.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: yzfly
 - Stars: 39
-- Forks: 25
+- Forks: 26
 - Language: Unknown
 - Topics: agents, realtime-chat, stt, tts, vad, voice-activity-detection, voice-agents, voice-assistant, voice-cloning, voice-conversion, voice-recognition, voice-synthesis
 - Last Updated: 2026-07-31T08:46:34Z

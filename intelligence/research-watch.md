@@ -28,6 +28,6 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing](https://arxiv.org/abs/2606.30555) | `ai-coding-agents/` | 70 |
 | [Breaking the Solver Bottleneck: Training Task Generators at the Learnable Frontier](https://arxiv.org/abs/2606.18284) | `ai-coding-agents/` | 70 |
 | [LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference](https://arxiv.org/abs/2608.02515) | `ai-coding-agents/` | 70 |
-| [PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks](https://arxiv.org/abs/2607.28587) | `ai-coding-agents/` | 70 |
+| [Formal Analysis and Supply Chain Security for Agentic AI Skills](https://arxiv.org/abs/2603.00195) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

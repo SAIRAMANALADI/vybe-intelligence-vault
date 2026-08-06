@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: IPEC-COMMUNITY/language_table_lerobot (Likes: 11, Downloads: 1304726)
+Trending Hugging Face dataset: IPEC-COMMUNITY/language_table_lerobot (Likes: 13, Downloads: 1283042)
 
 ## Use Cases
 

@@ -4,12 +4,10 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huggingface/hub-docs
-collected_at: '2026-08-06T09:15:12.012203+05:30'
-published_at: '2026-08-05T17:45:50Z'
+collected_at: '2026-08-06T14:37:22.191256+05:30'
+published_at: '2026-08-06T04:05:26Z'
 tags:
-- dataset
 - github-repo
-- hackernews
 - handlebars
 stars: 580
 language: Handlebars
@@ -17,11 +15,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2022-03-16T13:26:14Z'
-pushed_at: '2026-08-05T22:10:33Z'
+pushed_at: '2026-08-06T04:05:19Z'
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-08-06T09:15:12.012203+05:30'
-last_seen: '2026-08-06T09:15:12.012203+05:30'
-last_checked: '2026-08-06T09:15:12.012203+05:30'
+first_seen: '2026-08-06T14:37:22.191256+05:30'
+last_seen: '2026-08-06T14:37:22.191256+05:30'
+last_checked: '2026-08-06T14:37:22.191256+05:30'
 health_score: 100
 ---
 
@@ -29,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Official documentation for the Hugging Face Hub, written in Handlebars, covering ML model hosting, sharing, and collaboration features.
-- **Metadata**: 580 stars, 477 forks, last updated 2026-08-05; includes topics like `hacktoberfest` and `machine-learning`.
-- **Purpose**: Serves as a technical reference for integrating with or extending the Hugging Face Hub’s API, datasets, and model management tools.
+- **Repository Structure**: Hosted on GitHub, uses **Handlebars.js** for templating, and serves as the official documentation source for the **Hugging Face Hub**.
+- **Metadata**: Contains **580 stars** and **478 forks**, with **machine learning** and **hacktoberfest** as key topics.
+- **Maintenance**: Last updated on **August 6, 2026**, indicating active but infrequent updates.
 
 ## Why It Matters
 
@@ -41,14 +39,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: huggingface
 - Stars: 580
-- Forks: 477
+- Forks: 478
 - Language: Handlebars
 - Topics: hacktoberfest, machine-learning
-- Last Updated: 2026-08-05T17:45:50Z
+- Last Updated: 2026-08-06T04:05:26Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2022-03-16T13:26:14Z
-- Pushed At: 2026-08-05T22:10:33Z
+- Pushed At: 2026-08-06T04:05:19Z
 
 ## Possible Use Cases
 

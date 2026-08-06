@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-06T09:08:58.275173+05:30'
-published_at: '2026-08-06T03:08:53Z'
+collected_at: '2026-08-06T14:28:05.939809+05:30'
+published_at: '2026-08-06T07:42:23Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-- workflows
-stars: 36859
+stars: 36867
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-06T09:08:58.275173+05:30'
-last_seen: '2026-08-06T09:08:58.275173+05:30'
-last_checked: '2026-08-06T09:08:58.275173+05:30'
+first_seen: '2026-08-06T14:28:05.939809+05:30'
+last_seen: '2026-08-06T14:28:05.939809+05:30'
+last_checked: '2026-08-06T14:28:05.939809+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository offers detailed, hands-on guides covering Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures, including implementation in Jupyter Notebooks.
+- **Comprehensive LLM & RAG Tutorials**: Repository offers in-depth, hands-on tutorials on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques, including implementation in Jupyter Notebooks.
 
-- **Real-World AI Agent Applications**: Focuses on practical deployments of AI agents, integrating LLMs and RAG with tools like MCP (Model Context Protocol) for scalable, production-grade solutions.
+- **AI Agent Applications**: Focuses on real-world applications of AI agents, covering practical use cases, architectures, and deployment strategies for autonomous systems.
 
-- **High Community Engagement**: Maintains strong open-source traction with 36,859 stars, 6,091 forks, and recent updates (Aug 2026), indicating active development and broad adoption in AI engineering workflows.
+- **MCP Integration & Updates**: Includes resources on Model Context Protocol (MCP) and is actively maintained with the latest updates (as of 2026-08-06), reflecting ongoing advancements in AI engineering.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36859
-- Forks: 6091
+- Stars: 36867
+- Forks: 6092
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-08-06T03:08:53Z
+- Last Updated: 2026-08-06T07:42:23Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

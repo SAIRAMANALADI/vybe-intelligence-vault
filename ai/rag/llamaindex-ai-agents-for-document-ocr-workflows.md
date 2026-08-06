@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-08-06T03:58:34.797045+05:30'
-collected_at: '2026-08-06T03:58:34.797064+05:30'
+published_at: '2026-08-06T14:32:16.949937+05:30'
+collected_at: '2026-08-06T14:32:16.949955+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-08-06T03:58:34.797064+05:30'
-last_seen: '2026-08-06T03:58:34.797064+05:30'
-last_checked: '2026-08-06T03:58:34.797064+05:30'
+first_seen: '2026-08-06T14:32:16.949955+05:30'
+last_seen: '2026-08-06T14:32:16.949955+05:30'
+last_checked: '2026-08-06T14:32:16.949955+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: Utilizes Vision-Language Model (VLM) agents for layout-aware document parsing, enabling semantic understanding of complex structures (tables, charts, handwriting) with auto-correction loops for error mitigation.
+- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Models (VLM) for layout-aware document parsing, enabling structured extraction of defined schemas with agentic OCR, reducing manual processing from hours to seconds.
 
-- **Structured Extraction & Agents**: Implements schema-based extraction via LLM-powered agents to convert unstructured content (PDFs, images) into structured data without training, supporting multi-step document automation workflows.
+- **Multi-Modal & Self-Correcting Pipeline**: Supports parsing of complex layouts, handwritten text, tables, and charts with task-specific agents and auto-correction loops for error detection/fixing, ensuring high pass-through rates even on messy scans.
 
-- **Enterprise Features**: Offers 10K free credits/month (~1K pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, and flexible deployment (cloud or VPC), with benchmarks outperforming proprietary/IDP solutions in parsing accuracy.
+- **Enterprise-Grade Performance & Security**: Offers 99.9% uptime, HIPAA/GDPR/SOC2 compliance, granular access controls, and flexible deployment (cloud or VPC), optimized for production-grade AI workloads with benchmark-leading accuracy in parsing and retrieval.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T03:58:34.797045+05:30
+- Published: 2026-08-06T14:32:16.949937+05:30
 
 ## Related Tags
 

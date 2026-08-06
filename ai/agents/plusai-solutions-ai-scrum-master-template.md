@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-08-06T09:12:13.474524+05:30'
+collected_at: '2026-08-06T14:31:21.138808+05:30'
 published_at: '2026-07-17T03:59:58Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-08-06T09:12:13.474524+05:30'
-last_seen: '2026-08-06T09:12:13.474524+05:30'
-last_checked: '2026-08-06T09:12:13.474524+05:30'
+first_seen: '2026-08-06T14:31:21.138808+05:30'
+last_seen: '2026-08-06T14:31:21.138808+05:30'
+last_checked: '2026-08-06T14:31:21.138808+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous DevOps Framework**: Converts GitHub repositories into self-managing teams via GitHub Actions and Claude, orchestrating AI agents under Scrum methodology to autonomously handle issue-driven development.
+- **Autonomous Development Orchestration**: Uses GitHub Actions and Claude to deploy AI agents under a Scrum framework, enabling autonomous issue-driven development and management directly from GitHub Issues.
 
-- **AI-Agent Orchestration**: Integrates Scrum workflows (sprints, backlogs, standups) with AI agents that process GitHub Issues to generate, assign, and execute tasks without human intervention.
+- **Scrum-Based AI Workflow**: Implements Scrum methodology (sprints, backlogs, standups) via AI agents, automating task assignment, progress tracking, and sprint execution without human intervention.
 
-- **Open-Source Template**: Provides a pre-configured, extensible repository template for deploying autonomous AI-driven development pipelines, last updated July 2026.
+- **Self-Contained AI Team Template**: Transforms any repository into an autonomous AI-powered development team, handling issue resolution, code generation, and project coordination through predefined workflows.
 
 ## Why It Matters
 

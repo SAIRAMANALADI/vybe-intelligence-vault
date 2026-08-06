@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.llamaindex.ai/python/cloud/llamaparse/
-published_at: '2026-08-05T09:14:40.193194+05:30'
-collected_at: '2026-08-05T09:14:40.193209+05:30'
+published_at: '2026-08-06T14:35:18.218093+05:30'
+collected_at: '2026-08-06T14:35:18.218109+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:overview-of-parse-developer-documentation
-first_seen: '2026-08-05T09:14:40.193209+05:30'
-last_seen: '2026-08-05T09:14:40.193209+05:30'
-last_checked: '2026-08-05T09:14:40.193209+05:30'
+first_seen: '2026-08-06T14:35:18.218109+05:30'
+last_seen: '2026-08-06T14:35:18.218109+05:30'
+last_checked: '2026-08-06T14:35:18.218109+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **SDK Installation & API Key**: Install the SDK and obtain an API key to access the platform's services.
-- **Service Integration**: Utilize a single platform to perform operations such as Parse, Extract, Classify, Split, Sheets, or Index.
-- **First API Call**: Execute an initial API call to validate setup and interact with the integrated services.
+- **SDK Integration**: Install the SDK and obtain an API key to enable platform access.
+- **API Endpoints**: Supports operations such as Parse, Extract, Classify, Split, Sheets, and Index via unified API calls.
+- **Unified Platform**: Single platform for executing multiple document processing tasks (Parse, Extract, etc.) with consistent authentication.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T09:14:40.193194+05:30
+- Published: 2026-08-06T14:35:18.218093+05:30
 
 ## Related Tags
 

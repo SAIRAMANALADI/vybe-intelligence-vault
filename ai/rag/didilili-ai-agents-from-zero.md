@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-08-06T09:10:48.372612+05:30'
-published_at: '2026-08-06T03:40:35Z'
+collected_at: '2026-08-06T14:29:55.993477+05:30'
+published_at: '2026-08-06T08:56:44Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - models
 - python
 - rag
-stars: 3476
+stars: 3503
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-08-06T09:10:48.372612+05:30'
-last_seen: '2026-08-06T09:10:48.372612+05:30'
-last_checked: '2026-08-06T09:10:48.372612+05:30'
+first_seen: '2026-08-06T14:29:55.993477+05:30'
+last_seen: '2026-08-06T14:29:55.993477+05:30'
+last_checked: '2026-08-06T14:29:55.993477+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, and other frameworks/tools for building AI agents, including LLM integration, RAG, prompt engineering, and enterprise deployment.
-
-- **Full-Stack Learning Path**: Includes hands-on projects, interview preparation, and a structured curriculum from beginner to advanced, targeting roles like AI application development engineer.
-
-- **Enterprise-Ready Resources**: Provides deployment strategies, fine-tuning techniques, and real-world project implementations, updated as of August 2026.
+*   Provides a comprehensive AI Agent curriculum, progressing from foundational concepts to enterprise-grade deployment, fine-tuning, and project implementation.
+*   Covers practical application of core AI Agent frameworks and technologies: LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and advanced prompt engineering.
+*   Designed for aspiring LLM application development engineers, integrating skill acquisition, project development, and interview preparation for industry roles.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 3476
-- Forks: 496
+- Stars: 3503
+- Forks: 499
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-08-06T03:40:35Z
+- Last Updated: 2026-08-06T08:56:44Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-29T02:49:11Z

@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning
-collected_at: '2026-08-06T09:12:43.525301+05:30'
-published_at: '2026-08-05T10:20:18Z'
+collected_at: '2026-08-06T14:31:51.131446+05:30'
+published_at: '2026-08-06T05:25:45Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-stars: 612
+- workflows
+stars: 613
 language: Python
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-13T13:19:40Z'
 pushed_at: '2026-01-11T10:47:01Z'
 resource_id: github:brandpeng/langchain1.0-langgraph1.0-learning
-first_seen: '2026-08-06T09:12:43.525301+05:30'
-last_seen: '2026-08-06T09:12:43.525301+05:30'
-last_checked: '2026-08-06T09:12:43.525301+05:30'
+first_seen: '2026-08-06T14:31:51.131446+05:30'
+last_seen: '2026-08-06T14:31:51.131446+05:30'
+last_checked: '2026-08-06T14:31:51.131446+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Dedicated to learning **LangChain 1.0** and **LangGraph 1.0** with a focus on **agent development**, covering foundational concepts to practical implementations.
+- **Repository Overview**: A structured learning repository for LangChain 1.0 and LangGraph 1.0, focusing on agent development with a progression from foundational concepts to practical implementation projects.
 
-- **Technical Scope**: Contains **Python-based** resources for building agents, including tutorials, examples, and real-world projects.
+- **Technical Scope**: Covers core agent development workflows, integrating LangChain’s modular components with LangGraph’s graph-based orchestration for complex workflows.
 
-- **Metadata**: **612 stars**, **112 forks**, last updated **2026-08-05**, categorized under **agent**, **langchain**, and **langgraph**.
+- **Metadata**: 613 stars, 112 forks; Python-based; last updated 2026-08-06; categorized under agent frameworks, LangChain, and LangGraph.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: BrandPeng
-- Stars: 612
+- Stars: 613
 - Forks: 112
 - Language: Python
 - Topics: agent, langchain, langgraph
-- Last Updated: 2026-08-05T10:20:18Z
+- Last Updated: 2026-08-06T05:25:45Z
 - License: MIT
 - Archived: No
 - Created At: 2025-12-13T13:19:40Z

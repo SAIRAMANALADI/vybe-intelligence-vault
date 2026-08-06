@@ -1,32 +1,32 @@
 ---
-title: Permissions | Node.js v26.6.0 Documentation
+title: Permissions | Node.js v26.7.0 Documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/api/permissions.html#permission-model
-published_at: '2026-08-05T17:10:35.583683+05:30'
-collected_at: '2026-08-05T17:10:35.583699+05:30'
+published_at: '2026-08-06T14:35:40.553623+05:30'
+collected_at: '2026-08-06T14:35:40.553639+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
-resource_id: blog:permissions-node-js-v26-6-0-documentation
-first_seen: '2026-08-05T17:10:35.583699+05:30'
-last_seen: '2026-08-05T17:10:35.583699+05:30'
-last_checked: '2026-08-05T17:10:35.583699+05:30'
+resource_id: blog:permissions-node-js-v26-7-0-documentation
+first_seen: '2026-08-06T14:35:40.553639+05:30'
+last_seen: '2026-08-06T14:35:40.553639+05:30'
+last_checked: '2026-08-06T14:35:40.553639+05:30'
 health_score: 100
 ---
 
-# Permissions | Node.js v26.6.0 Documentation
+# Permissions | Node.js v26.7.0 Documentation
 
 ## Summary
 
-- **Permission Model**: Introduced in v20.0.0, this model restricts access to system resources (e.g., file system, network, worker threads) via the `--permission` CLI flag, enforcing explicit allow/deny policies for security ("seat belt" approach).
+- **Permission Model**: Introduced in v20.0.0, this model restricts access to system resources via a `--permission` flag, operating in **Enforce mode** (denies access, throws `ERR_ACCESS_DENIED`) or **Audit mode** (logs violations without blocking execution).
 
-- **Runtime API**: Exposes `process.permission.has(scope[, reference])` and `process.permission.drop(scope[, reference])` to dynamically check or revoke permissions at runtime for granular control.
+- **Runtime API**: Provides `permission.has(scope[, reference])` to check permissions and `permission.drop(scope[, reference])` to revoke them, enabling dynamic permission management during execution.
 
-- **Flag-Based Granularity**: Additional flags (`--allow-net`, `--allow-worker`, etc.) override default restrictions, enabling specific resource access (e.g., network, FFI, WASI) while maintaining a deny-by-default security posture.
+- **Resource Restrictions**: Enabled via `--permission`, it blocks file system access, network operations, process spawning, worker threads, native addons, WASI, FFI, and inspector activation by default, with granular overrides via flags like `--allow-child-process` or `--allow-worker`.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T17:10:35.583683+05:30
+- Published: 2026-08-06T14:35:40.553623+05:30
 
 ## Related Tags
 

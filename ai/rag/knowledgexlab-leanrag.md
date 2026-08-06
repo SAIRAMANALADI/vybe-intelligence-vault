@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-06T09:10:28.381291+05:30'
+collected_at: '2026-08-06T14:29:36.015001+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 257
@@ -18,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-06T09:10:28.381291+05:30'
-last_seen: '2026-08-06T09:10:28.381291+05:30'
-last_checked: '2026-08-06T09:10:28.381291+05:30'
+first_seen: '2026-08-06T14:29:36.015001+05:30'
+last_seen: '2026-08-06T14:29:36.015001+05:30'
+last_checked: '2026-08-06T14:29:36.015001+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity, relation, subgraph) and semantic aggregation for improved context relevance.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., node, subgraph, global) and semantic aggregation to enhance context relevance and reduce noise in LLM generation (AAAI 2026 submission).
 
-- **Efficiency Optimizations**: Leverages lightweight graph traversal and pruning techniques to reduce retrieval latency while maintaining high accuracy in downstream generation tasks.
+- **Efficiency Optimizations**: Uses lightweight graph traversal (e.g., pruning, caching) and dynamic query routing to minimize computational overhead while maintaining retrieval accuracy.
 
-- **Python Implementation**: Provides modular, open-source codebase with dependencies on PyTorch/DGL for graph processing and HuggingFace Transformers for LLM integration.
+- **Python Implementation**: Provides modular components (e.g., graph builders, retrievers, aggregators) with PyTorch/TensorFlow compatibility for integration with existing LLM pipelines.
 
 ## Why It Matters
 

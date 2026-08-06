@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/firebase/
-published_at: '2026-08-05T17:12:06.917090+05:30'
-collected_at: '2026-08-05T17:12:06.917107+05:30'
+published_at: '2026-08-06T14:39:39.521762+05:30'
+collected_at: '2026-08-06T14:39:39.521773+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:firebase-github
-first_seen: '2026-08-05T17:12:06.917107+05:30'
-last_seen: '2026-08-05T17:12:06.917107+05:30'
-last_checked: '2026-08-05T17:12:06.917107+05:30'
+first_seen: '2026-08-06T14:39:39.521773+05:30'
+last_seen: '2026-08-06T14:39:39.521773+05:30'
+last_checked: '2026-08-06T14:39:39.521773+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Firebase GitHub Organization**: Hosts 102+ repositories, including SDKs (e.g., `firebase-ios-sdk`, `flutterfire`), UI libraries (`FirebaseUI-Android`, `FirebaseUI-iOS`), and CLI tools (`firebase-tools`), primarily licensed under Apache-2.0 or MIT.
+- Firebase provides official SDKs and libraries for Android (Kotlin), iOS (Swift), Web (TypeScript), Unity (C#), and C++ platforms, with open-source quickstart samples available for each.
 
-- **Multi-Platform Quickstart Samples**: Provides platform-specific starter projects (`quickstart-android` in Kotlin, `quickstart-ios` in Swift, `quickstart-js` in TypeScript) with high community engagement (e.g., `functions-samples` at 12.2k stars).
+- Key repositories include `firebase-ios-sdk` (6.6k+ stars, C++), `functions-samples` (12.2k+ stars, JavaScript), and `firebase-tools` (4.4k+ stars, TypeScript) for CLI management.
 
-- **Core SDKs & Tools**: The `firebase-ios-sdk` (C++) and `firebase-tools` (TypeScript) repositories are actively maintained, with 6.6k+ and 4.4k+ stars respectively, supporting Cloud Functions, Realtime Database, and Authentication across platforms.
+- Firebase maintains optimized UI components (`FirebaseUI-Android`, 4.8k+ stars, Kotlin) and testing utilities (`quickstart-testing`, JavaScript) under Apache-2.0 license.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T17:12:06.917090+05:30
+- Published: 2026-08-06T14:39:39.521762+05:30
 
 ## Related Tags
 

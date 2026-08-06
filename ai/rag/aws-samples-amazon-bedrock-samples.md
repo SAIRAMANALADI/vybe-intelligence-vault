@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-08-06T09:09:33.429121+05:30'
-published_at: '2026-08-04T15:15:16Z'
+collected_at: '2026-08-06T14:28:41.103591+05:30'
+published_at: '2026-08-06T08:41:57Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-stars: 1484
+- workflows
+stars: 1485
 language: Jupyter Notebook
 status: active
 license: MIT-0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-08-04T15:11:21Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-08-06T09:09:33.429121+05:30'
-last_seen: '2026-08-06T09:09:33.429121+05:30'
-last_checked: '2026-08-06T09:09:33.429121+05:30'
+first_seen: '2026-08-06T14:28:41.103591+05:30'
+last_seen: '2026-08-06T14:28:41.103591+05:30'
+last_checked: '2026-08-06T14:28:41.103591+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Provides Jupyter Notebook examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) and use cases including embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) with LangChain integration.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, covering generative AI, embeddings, and knowledge base integration.
 
-- **Technical Scope**: Demonstrates practical implementations of Amazon Bedrock’s core functionalities, such as model inference, embedding generation, and RAG pipelines for enterprise applications.
+- **Multi-Model & Framework Support**: Includes implementations for Amazon Titan models, LangChain integration, and Retrieval-Augmented Generation (RAG) workflows.
 
-- **Dependencies & Tools**: Primarily utilizes Python-based Jupyter Notebooks, with dependencies on AWS SDKs, LangChain for orchestration, and Bedrock’s API for model interactions.
+- **AWS Service Integration**: Demonstrates Amazon Bedrock's integration with AWS services like knowledge bases, highlighting practical use cases for enterprise AI solutions.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: aws-samples
-- Stars: 1484
+- Stars: 1485
 - Forks: 711
 - Language: Jupyter Notebook
 - Topics: amazon-bedrock, amazon-titan, bedrock, embeddings, generative-ai, knowledge-base, langchain, rag
-- Last Updated: 2026-08-04T15:15:16Z
+- Last Updated: 2026-08-06T08:41:57Z
 - License: MIT-0
 - Archived: No
 - Created At: 2023-07-05T18:23:34Z

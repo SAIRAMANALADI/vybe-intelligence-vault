@@ -8,7 +8,7 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 ## Top Matched Resources
 
-- [huggingface/hub-docs](https://github.com/huggingface/hub-docs) (dataset - ESSENTIAL Tier)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
 - [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (framework - ESSENTIAL Tier)
 - [A Framework for Evaluating Agentic Skills at Scale](https://arxiv.org/abs/2606.17819) (framework - ESSENTIAL Tier)
@@ -20,12 +20,12 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
-- [huggingface/hub-docs](https://github.com/huggingface/hub-docs)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
 - [brmson/dataset-sts](https://github.com/brmson/dataset-sts)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch)
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-08-06 09:26 IST*
+*Last updated: 2026-08-06 14:45 IST*

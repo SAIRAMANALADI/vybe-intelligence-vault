@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.llamaindex.ai/llamacloud/getting_started
-published_at: '2026-08-05T04:03:10.575137+05:30'
-collected_at: '2026-08-05T04:03:10.575145+05:30'
+published_at: '2026-08-06T14:35:18.157656+05:30'
+collected_at: '2026-08-06T14:35:18.157668+05:30'
 tags:
 - meta-ai
 - models
 - web-crawled
 status: active
 resource_id: blog:getting-started-developer-documentation
-first_seen: '2026-08-05T04:03:10.575145+05:30'
-last_seen: '2026-08-05T04:03:10.575145+05:30'
-last_checked: '2026-08-05T04:03:10.575145+05:30'
+first_seen: '2026-08-06T14:35:18.157668+05:30'
+last_seen: '2026-08-06T14:35:18.157668+05:30'
+last_checked: '2026-08-06T14:35:18.157668+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Concurrency & Throughput Scaling**: LlamaParse's maximum processable pages per parse mode and model are directly controlled by concurrency settings (`MAX_CONCURRENT_TASKS`, `WORKER_COUNT`), with higher values enabling parallel processing but requiring proportional CPU/memory resources.
+- **Concurrency Settings Impact**: LlamaParse's maximum processable pages per parse mode and model in self-hosted LlamaCloud are directly determined by concurrency settings, which must be tuned in alignment with available system resources and model capabilities.
 
-- **Helm Tuning Parameters**: Key Helm chart configurations (`workers.replicaCount`, `resources.requests/limits`, `autoscaling`) must be adjusted to balance throughput and stability, where under-provisioned workers lead to rate-limiting or OOM errors.
+- **Helm Configuration Tuning**: Helm charts enable granular control over concurrency parameters (e.g., `workerCount`, `batchSize`) to optimize throughput, requiring adjustments based on workload demands and infrastructure constraints.
 
-- **Rate-Limit Troubleshooting**: Monitor `429 Too Many Requests` errors via logs/metrics; mitigate by reducing concurrency, increasing `WORKER_COUNT`, or adjusting `RATE_LIMIT` thresholds in `llama-parse-config.yaml`.
+- **Rate-Limit Troubleshooting**: Throughput bottlenecks often stem from API rate limits or resource contention; monitoring tools (e.g., Prometheus, Grafana) and Helm-based scaling (e.g., `autoscaling`) are critical for diagnosing and resolving performance degradation.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T04:03:10.575137+05:30
+- Published: 2026-08-06T14:35:18.157656+05:30
 
 ## Related Tags
 

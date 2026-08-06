@@ -18,6 +18,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`black-forest-labs-github.md`](../../ai/resources/black-forest-labs-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Stainless · GitHub](https://github.com/stainless-api)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`stainless-github.md`](../../ai/resources/stainless-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
 - **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`firecrawl-firecrawl-mcp-server.md`](../../ai/resources/firecrawl-firecrawl-mcp-server.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`scotthavird-crewai-template.md`](../../ai/rag/scotthavird-crewai-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-06 09:26 IST*
+*Last updated: 2026-08-06 14:45 IST*

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-06T09:10:13.332784+05:30'
+collected_at: '2026-08-06T14:29:20.993930+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-06T09:10:13.332784+05:30'
-last_seen: '2026-08-06T09:10:13.332784+05:30'
-last_checked: '2026-08-06T09:10:13.332784+05:30'
+first_seen: '2026-08-06T14:29:20.993930+05:30'
+last_seen: '2026-08-06T14:29:20.993930+05:30'
+last_checked: '2026-08-06T14:29:20.993930+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement, optimized for Linux environments.
+- **Linux-Native & eBPF Integration**: Leverages eBPF for real-time security monitoring and governance of AI agent workloads within a Linux-native architecture, enabling low-overhead, kernel-level observability and enforcement.
 
-- **Enterprise-Grade RAG Pipeline**: Features a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript components, supporting vector databases for scalable, secure AI workloads.
+- **Enterprise-Grade RAG Pipeline**: Implements a scalable Retrieval-Augmented Generation (RAG) system with TypeScript backend, FastAPI for API management, and integration with vector databases for optimized LLM-based knowledge retrieval.
 
-- **SaaS-AI Governance Focus**: Designed for multi-tenant AI deployments with built-in security policies, compliance checks, and performance optimization for enterprise-scale GenAI applications.
+- **Security & Governance Mesh**: Designed as a SaaS-ready framework for AI workloads, enforcing security policies, audit trails, and compliance controls across multi-agent environments.
 
 ## Why It Matters
 

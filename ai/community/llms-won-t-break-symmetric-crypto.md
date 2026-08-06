@@ -13,13 +13,14 @@ collected_at: '2026-08-06T09:07:58.447967+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llms-won-t-break-symmetric-crypto
 first_seen: '2026-08-06T09:07:58.447967+05:30'
 last_seen: '2026-08-06T09:07:58.447967+05:30'
 last_checked: '2026-08-06T09:07:58.447967+05:30'
 health_score: 100
 ---
+
 
 # LLMs won't break symmetric crypto
 

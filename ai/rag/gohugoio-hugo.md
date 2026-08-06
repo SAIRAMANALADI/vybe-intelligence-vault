@@ -1,68 +1,57 @@
 ---
-title: gohugoio/hugo
+title: Releases · gohugoio/hugo · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/gohugoio/hugo
-collected_at: '2026-08-06T09:14:23.435377+05:30'
-published_at: '2026-08-06T02:55:03Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/gohugoio/hugo/releases
+published_at: '2026-08-06T14:33:34.231792+05:30'
+collected_at: '2026-08-06T14:33:34.231809+05:30'
 tags:
-- github-repo
-- go
+- agents
+- frontend_ui
+- hackernews
 - rag
-stars: 89330
-language: Go
+- reddit
+- scripts
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2013-07-04T15:26:26Z'
-pushed_at: '2026-08-05T14:04:48Z'
 resource_id: github:gohugoio/hugo
-first_seen: '2026-08-06T09:14:23.435377+05:30'
-last_seen: '2026-08-06T09:14:23.435377+05:30'
-last_checked: '2026-08-06T09:14:23.435377+05:30'
+first_seen: '2026-08-06T14:33:34.231809+05:30'
+last_seen: '2026-08-06T14:33:34.231809+05:30'
+last_checked: '2026-08-06T14:33:34.231809+05:30'
 health_score: 100
 ---
 
-# gohugoio/hugo
+# Releases · gohugoio/hugo · GitHub
 
 ## Summary
 
-- **Static Site Generator**: Hugo is a high-performance static site generator written in Go, optimized for speed and efficiency with near-instantaneous build times.
-- **Content Management**: Supports structured content via Markdown with front matter metadata, enabling dynamic templating and flexible content organization.
-- **Extensible Architecture**: Modular design with themes, plugins, and custom shortcodes; leverages Go’s concurrency for parallel processing of assets and templates.
+- **Hugo v0.164.0 Release**: Introduced dark/light mode pairs in Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), Pandoc citation support, and sub-path support in `Page.Render` layouts; also fixed a performance regression from v0.128.0.
+
+- **Deprecations & Optimizations**: Deprecated `resources.PostProcess` in favor of `templates.Defer`, optimized `hugio.hasBytesWriter`, and added case-insensitive template name lookup.
+
+- **Dependency Updates**: Upgraded core dependencies including `github.com/evanw/esbuild` (v0.28.0 → v0.28.1), `golang.org/x/tools` (v0.45.0 → v0.47.0), and Chroma for syntax highlighting improvements.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: gohugoio
-- Stars: 89330
-- Forks: 8325
-- Language: Go
-- Topics: blog-engine, cms, content-management-system, documentation-tool, go, hugo, static-site-generator
-- Last Updated: 2026-08-06T02:55:03Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2013-07-04T15:26:26Z
-- Pushed At: 2026-08-05T14:04:48Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-06T14:33:34.231792+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- frontend_ui
+- hackernews
+- rag
+- reddit
+- scripts
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugo
+Original source: https://github.com/gohugoio/hugo/releases

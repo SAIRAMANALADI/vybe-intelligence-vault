@@ -4,24 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
-collected_at: '2026-08-06T09:11:38.417423+05:30'
-published_at: '2026-08-05T16:43:22Z'
+collected_at: '2026-08-06T14:30:46.135438+05:30'
+published_at: '2026-08-06T07:38:07Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - unknown
-stars: 286
+stars: 285
 language: Unknown
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-06-01T05:40:33Z'
-pushed_at: '2026-08-05T13:21:55Z'
+pushed_at: '2026-08-06T07:37:28Z'
 resource_id: github:arunagirinathan-k/awesome-ai-agents-2026
-first_seen: '2026-08-06T09:11:38.417423+05:30'
-last_seen: '2026-08-06T09:11:38.417423+05:30'
-last_checked: '2026-08-06T09:11:38.417423+05:30'
+first_seen: '2026-08-06T14:30:46.135438+05:30'
+last_seen: '2026-08-06T14:30:46.135438+05:30'
+last_checked: '2026-08-06T14:30:46.135438+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with comparisons, benchmarks, and deep dives.
+- **Comprehensive Repository**: Curated list of 300+ AI agents, frameworks, and tools for coding, creativity, voice, research, and enterprise applications, with focus on 2026 advancements.
 
-- **Key Frameworks Included**: Major agent frameworks such as CrewAI, LangChain, and LLM-based agents are featured, along with autonomous agent implementations and enterprise-grade solutions.
+- **Technical Depth**: Includes comparison guides, benchmarks, and deep dives on frameworks like CrewAI, LangChain, and LLM-based agents for autonomous systems.
 
-- **Updated & Structured**: Last updated on **2026-08-05**, the repository is organized under topics like `agent-frameworks`, `ai-agents`, `llm-agents`, and `awesome-list`, ensuring relevance for 2026 advancements.
+- **Updated & Structured**: Last updated August 2026; organized under topics such as `agent-frameworks`, `ai-tools`, and `autonomous-agents` for easy navigation.
 
 ## Why It Matters
 
@@ -42,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ARUNAGIRINATHAN-K
-- Stars: 286
+- Stars: 285
 - Forks: 137
 - Language: Unknown
 - Topics: 2026, agent-frameworks, ai-agents, ai-tools, autonomous-agents, awesome, awesome-list, crewai, langchain, llm, llm-agents
-- Last Updated: 2026-08-05T16:43:22Z
+- Last Updated: 2026-08-06T07:38:07Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-06-01T05:40:33Z
-- Pushed At: 2026-08-05T13:21:55Z
+- Pushed At: 2026-08-06T07:37:28Z
 
 ## Possible Use Cases
 

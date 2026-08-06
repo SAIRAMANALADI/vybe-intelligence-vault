@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-06T09:09:23.344615+05:30'
+collected_at: '2026-08-06T14:28:30.944614+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
-- models
 - rag
-- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-06T09:09:23.344615+05:30'
-last_seen: '2026-08-06T09:09:23.344615+05:30'
-last_checked: '2026-08-06T09:09:23.344615+05:30'
+first_seen: '2026-08-06T14:28:30.944614+05:30'
+last_seen: '2026-08-06T14:28:30.944614+05:30'
+last_checked: '2026-08-06T14:28:30.944614+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and optimization of LLM interactions.
-
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (retriever, generator, embeddings) with modular Python architecture for extensibility.
-
-- **Multi-Modal Data Support**: Supports Python-based RAG workflows with compatibility for various vector stores, LLMs, and embedding models, last updated with optimizations for performance and usability.
+- **Purpose**: Open-source Python tool built with Streamlit and Jupyter Notebooks for interactive visualization and debugging of Retrieval-Augmented Generation (RAG) pipelines.
+- **Key Features**: Enables real-time analysis of LLM interactions, retrieval quality, and prompt engineering through dynamic visualizations.
+- **Technical Stack**: Leverages Python, Streamlit for UI, and Jupyter Notebooks for backend processing; designed for modular RAG system evaluation.
 
 ## Why It Matters
 

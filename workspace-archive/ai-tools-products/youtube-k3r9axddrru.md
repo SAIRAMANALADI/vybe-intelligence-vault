@@ -8,7 +8,7 @@ local_vault_path: ai/resources/youtube-k3r9axddrru.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 tags:
 - web-crawled
@@ -24,16 +24,16 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- YouTube operates under Google LLC, adhering to corporate policies, privacy standards, and legal terms outlined in their respective documentation.
-- The platform provides APIs and developer tools via [YouTube for Developers](https://developers.google.com/youtube) for integration, analytics, and customization.
-- YouTube’s monetization, creator support, and ad infrastructure are governed by structured programs ([Creators](https://www.youtube.com/creators/), [Advertise](https://www.youtube.com/ads
+- YouTube operates under Google LLC, providing a platform for video sharing, monetization, and content discovery with global reach.
+- The platform offers APIs and developer tools (via [developers.google.com/youtube](https://developers.google.com/youtube)) for integration, analytics, and customization.
+- YouTube enforces policies on copyright, privacy, and safety, while offering creator support, advertising solutions, and experimental features.
 
 ## Use Cases
 

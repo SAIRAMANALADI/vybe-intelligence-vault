@@ -3,18 +3,18 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://about.medium.com
-published_at: '2026-08-06T09:15:31.663580+05:30'
-collected_at: '2026-08-06T09:15:31.663594+05:30'
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+published_at: '2026-08-06T14:37:30.634763+05:30'
+collected_at: '2026-08-06T14:37:30.634777+05:30'
 tags:
-- hackernews
+- agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium
-first_seen: '2026-08-06T09:15:31.663594+05:30'
-last_seen: '2026-08-06T09:15:31.663594+05:30'
-last_checked: '2026-08-06T09:15:31.663594+05:30'
+first_seen: '2026-08-06T14:37:30.634777+05:30'
+last_seen: '2026-08-06T14:37:30.634777+05:30'
+last_checked: '2026-08-06T14:37:30.634777+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Mission & Model**: Medium operates as a subscription-supported platform (1M+ members) prioritizing depth over sensationalism, rejecting ad/data monetization to focus on thoughtful, long-form writing and collective understanding.
+- **License Grant**: Users retain content ownership but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Services (e.g., web, mobile) with attribution, including derivative works like previews or curated lists.
 
-- **User Base & Content**: Hosts 100M+ monthly users (developers, executives, creatives) sharing niche expertise, personal insights, and technical knowledge via collaborative, follower-free publishing.
+- **Dispute Resolution**: All disputes (except small claims/IP injunctions) are resolved via **confidential, binding arbitration** under JAMS Rules in San Francisco (or user’s county if a consumer), waiving class actions/jury trials, with enforcement governed by the **Federal Arbitration Act (9 U.S.C. § 1 et seq.)**.
 
-- **Technical Infrastructure**: Utilizes a sitemap.xml for SEO/crawling, with core functions (sign-in/sign-up, reading/writing interfaces) integrated via RESTful endpoints (e.g., `/m/signin`, `/new-story`).
+- **Liability Limits**: Medium’s liability is capped at **$50 USD or fees paid**, excluding gross negligence/fraud, and disclaims all warranties (e.g., accuracy, reliability) for Services and third-party content, with indemnification required for user violations.
 
 ## Why It Matters
 
@@ -36,14 +36,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T09:15:31.663580+05:30
+- Published: 2026-08-06T14:37:30.634763+05:30
 
 ## Related Tags
 
-- hackernews
+- agents
 - rag
 - web-crawled
 
 ## Source
 
-Original source: https://about.medium.com
+Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f

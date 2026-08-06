@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-06T09:10:33.407268+05:30'
+collected_at: '2026-08-06T14:29:41.019269+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- benchmark
 - dataset
 - github-repo
-- hackernews
+- paper
 - python
 - rag
 stars: 174
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-06T09:10:33.407268+05:30'
-last_seen: '2026-08-06T09:10:33.407268+05:30'
-last_checked: '2026-08-06T09:10:33.407268+05:30'
+first_seen: '2026-08-06T14:29:41.019269+05:30'
+last_seen: '2026-08-06T14:29:41.019269+05:30'
+last_checked: '2026-08-06T14:29:41.019269+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends retrieval-augmented generation (RAG) to handle diverse data modalities (text, images, tables, etc.) and granularities (documents, paragraphs, entities) within a unified architecture, enabling seamless integration of heterogeneous corpora.
+- **Multimodal & Granular RAG Framework**: UniversalRAG extends traditional RAG to handle diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via unified embedding and retrieval mechanisms.
 
-- **Modality-Agnostic Retrieval & Generation**: Implements a unified retrieval mechanism (e.g., via cross-modal embeddings or modality-specific encoders) and a generative model fine-tuned to process retrieved content regardless of modality, leveraging modality-agnostic representations.
+- **ACL 2026 Oral Paper**: Introduces a novel architecture for scalable, cross-modal retrieval-augmented generation with empirical validation on heterogeneous datasets.
 
-- **ACL 2026 Oral Contribution**: Proposes novel techniques for dynamic modality selection, granularity-aware retrieval, and adaptive fusion of retrieved information, validated on benchmark datasets spanning multiple modalities and granularities.
+- **Python Implementation**: Provides open-source toolkit with modular components for modality-specific encoders, adaptive retrieval strategies, and end-to-end pipeline integration.
 
 ## Why It Matters
 

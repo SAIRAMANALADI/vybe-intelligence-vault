@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-06T09:10:33.371401+05:30'
+collected_at: '2026-08-06T14:29:41.052417+05:30'
 published_at: '2026-08-05T11:53:18Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-06T09:10:33.371401+05:30'
-last_seen: '2026-08-06T09:10:33.371401+05:30'
-last_checked: '2026-08-06T09:10:33.371401+05:30'
+first_seen: '2026-08-06T14:29:41.052417+05:30'
+last_seen: '2026-08-06T14:29:41.052417+05:30'
+last_checked: '2026-08-06T14:29:41.052417+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Version Framework**: Hosts three evolving versions of VLM2Vec (ICLR 2025), VLM2Vec-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on multimodal embedding benchmarks (MMEB) for contrastive learning and representation learning.
+- **Repository Overview**: Hosts code for three research works: VLM2Vec/MMEB (ICLR 2025), VLM2Vec-V2/MMEB-V2 (TMLR 2026), and MMEB-V3 (COLM 2026), focusing on multimodal representation learning and benchmarking.
 
-- **Benchmark Suite**: Implements evaluation across multiple retrieval tasks including image, video, and visual-document retrieval, alongside multimodal RAG (Retrieval-Augmented Generation) and embedding benchmarks.
+- **Technical Scope**: Implements contrastive learning, embedding models, and benchmarks for multimodal tasks including image retrieval, video retrieval, and visual document retrieval, with applications in RAG systems.
 
-- **Python-Based Implementation**: Open-source repository (671 stars, 64 forks) with Python-based code for contrastive learning, embedding generation, and multimodal evaluation, last updated August 5, 2026.
+- **Implementation Details**: Python-based repository with 671 stars and 64 forks, last updated on 2026-08-05, covering visual-language models (VLMs) and multimodal evaluation benchmarks (MMEB).
 
 ## Why It Matters
 

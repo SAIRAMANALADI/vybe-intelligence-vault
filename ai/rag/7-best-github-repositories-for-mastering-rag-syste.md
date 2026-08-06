@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-08-06T01:33:13.377432+05:30'
-collected_at: '2026-08-06T01:33:13.377445+05:30'
+published_at: '2026-08-06T14:32:23.024582+05:30'
+collected_at: '2026-08-06T14:32:23.024598+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-08-06T01:33:13.377445+05:30'
-last_seen: '2026-08-06T01:33:13.377445+05:30'
-last_checked: '2026-08-06T01:33:13.377445+05:30'
+first_seen: '2026-08-06T14:32:23.024598+05:30'
+last_seen: '2026-08-06T14:32:23.024598+05:30'
+last_checked: '2026-08-06T14:32:23.024598+05:30'
 health_score: 100
 ---
 
@@ -36,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Framework Core Functionality**: Integrates external knowledge sources with LLMs to generate contextually accurate, real-time responses, mitigating hallucinations and knowledge cut-off issues via document retrieval and augmentation.
+- **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, supporting Python, JavaScript, and TypeScript; provides modular components (prompt templates, LLM wrappers, vector stores) for end-to-end RAG pipeline development, including document loading, text splitting, embedding, retrieval, and output generation with integrations for OpenAI, Hugging Face, and Azure.
 
-- **LangChain Ecosystem**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, providing modular components (prompts, memory, agents, vector stores) for end-to-end RAG pipeline development and multi-language support (Python, JS/TS).
+- **RAG Framework Core Functionality**: Enhances LLMs by integrating external knowledge sources to mitigate hallucinations and knowledge cut-off issues; retrieves relevant documents/data via APIs or databases, feeding context into LLMs for accurate, context-aware responses, applicable in chatbots, knowledge assistants, and enterprise automation.
 
-- **Key RAG Repositories**: Highlights repositories like LangChain, Haystack, LlamaIndex, RAGFlow, txtai, LLMWare, and Cognita for building, optimizing, and deploying RAG systems with tutorials, integrations (OpenAI, Hugging Face), and agent workflows.
+- **Top RAG GitHub Repositories**: Highlights repositories like LangChain, Haystack (deepset-ai), LlamaIndex, RAGFlow, txtai, LLMWare, and Cognita for mastering RAG systems, offering tutorials, code, and resources to build and optimize RAG pipelines for real-time, domain-specific AI applications.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T01:33:13.377432+05:30
+- Published: 2026-08-06T14:32:23.024582+05:30
 
 ## Related Tags
 

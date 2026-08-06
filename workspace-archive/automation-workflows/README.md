@@ -10,22 +10,22 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
+- [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [explosion/spaCy](https://github.com/explosion/spaCy) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
+- [Stainless · GitHub](https://github.com/stainless-api)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
 - [OpenAI · GitHub](https://github.com/openai)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-06 09:26 IST*
+*Last updated: 2026-08-06 14:45 IST*

@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Capabilities**: Python-based all-in-one AI framework supporting semantic search, LLM orchestration, and end-to-end language model workflows with modular components for embeddings, retrieval, and generation.
+- **Unified AI Framework**: Combines semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
 
-- **Key Features**: Integrates sentence embeddings, vector search, RAG pipelines, and transformer-based models; includes built-in vector database and supports agent-based AI workflows.
+- **Key Features**: Integrates embeddings, transformers, and vector databases for information retrieval, with support for sentence embeddings and large language models (LLMs).
 
-- **Technical Stack**: Built on Python with dependencies for NLP (e.g., Hugging Face Transfo
+- **Technical Stack**: Built on Python, leveraging transformers, vector search, and semantic indexing for scalable AI-driven applications.
 
 ## Use Cases
 

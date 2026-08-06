@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-06T09:09:28.335911+05:30'
+collected_at: '2026-08-06T14:28:36.050531+05:30'
 published_at: '2026-08-01T15:15:48Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 370
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-06T09:09:28.335911+05:30'
-last_seen: '2026-08-06T09:09:28.335911+05:30'
-last_checked: '2026-08-06T09:09:28.335911+05:30'
+first_seen: '2026-08-06T14:28:36.050531+05:30'
+last_seen: '2026-08-06T14:28:36.050531+05:30'
+last_checked: '2026-08-06T14:28:36.050531+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and generation.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document grounding in LLMs.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment and experimentation with hybrid RAG models in Python.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA’s AI Workbench framework for streamlined deployment, scaling, and experimentation of RAG workflows in Python-based environments.
 
-- **Example Project Structure**: Provides a template repository with modular components for document preprocessing, retrieval, and LLM integration, optimized for GPU acceleration.
+- **Modular Architecture**: Provides a structured example with configurable components for retrieval, reranking, and generation, optimized for GPU acceleration and hybrid search efficiency.
 
 ## Why It Matters
 

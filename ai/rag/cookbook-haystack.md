@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-08-06T01:34:18.798133+05:30'
-collected_at: '2026-08-06T01:34:18.798144+05:30'
+published_at: '2026-08-06T14:34:18.048623+05:30'
+collected_at: '2026-08-06T14:34:18.048641+05:30'
 tags:
 - agents
 - benchmark
@@ -17,12 +17,11 @@ tags:
 - reddit
 - scripts
 - web-crawled
-- workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-08-06T01:34:18.798144+05:30'
-last_seen: '2026-08-06T01:34:18.798144+05:30'
-last_checked: '2026-08-06T01:34:18.798144+05:30'
+first_seen: '2026-08-06T14:34:18.048641+05:30'
+last_seen: '2026-08-06T14:34:18.048641+05:30'
+last_checked: '2026-08-06T14:34:18.048641+05:30'
 health_score: 100
 ---
 
@@ -30,17 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 49 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, categorized by topics like Agents, RAG, Advanced Retrieval, and Multimodal processing.
-
-- **Key Recipes Include**:
-  - **Computer-Use Agent with Skills**: Demonstrates agentic workflows with tool integration.
-  - **Hybrid RAG Pipeline with Breakpoints**: Combines retrieval strategies with controlled execution flow.
-  - **Multilingual RAG on a Podcast**: Focuses on cross-lingual retrieval and processing for audio content.
-
-- **Advanced Features Covered**:
-  - **Observability & Evaluation**: Tools like Arize Phoenix and DeepEval for RAG pipeline assessment.
-  - **Model Serving**: Integration with vLLM and NVIDIA NIMs for optimized inference.
-  - **Metadata & Filtering**: Techniques for structured metadata extraction and query-based filtering.
+- **Haystack Cookbook** provides 49 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, focusing on small-scale demos for specific use cases.
+- **Key recipe categories** include Agents, RAG, Advanced Retrieval, Model Serving, Multimodal, Evaluation, and Observability, with examples like agentic itinerary planning, hybrid RAG pipelines, and cost-aware agents.
+- **Technical highlights** feature vLLM inference engine integration, multimodal text generation, metadata enrichment, and hybrid retrieval methods (e.g., HyDE, FastEmbed, Qdrant).
 
 ## Why It Matters
 
@@ -50,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T01:34:18.798133+05:30
+- Published: 2026-08-06T14:34:18.048623+05:30
 
 ## Related Tags
 
@@ -64,7 +55,6 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
-- workflows
 
 ## Source
 

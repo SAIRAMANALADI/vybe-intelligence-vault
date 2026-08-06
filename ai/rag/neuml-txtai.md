@@ -6,8 +6,8 @@ source_name: GitHub Discovery
 source_url: https://github.com/neuml/txtai?source=post_page
 resource_id: github:neuml/txtai
 -----dba899ae0355---------------------------------------
-collected_at: '2026-08-06T09:13:08.527637+05:30'
-published_at: '2026-08-05T23:50:49Z'
+collected_at: '2026-08-06T14:32:16.191820+05:30'
+published_at: '2026-08-06T04:35:55Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 12800
+stars: 12802
 language: Python
 status: active
 license: Apache-2.0
@@ -23,9 +23,9 @@ archived: false
 created_at: '2020-08-09T19:14:59Z'
 pushed_at: '2026-08-04T16:30:55Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-08-06T09:13:08.527637+05:30'
-last_seen: '2026-08-06T09:13:08.527637+05:30'
-last_checked: '2026-08-06T09:13:08.527637+05:30'
+first_seen: '2026-08-06T14:32:16.191820+05:30'
+last_seen: '2026-08-06T14:32:16.191820+05:30'
+last_checked: '2026-08-06T14:32:16.191820+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Capabilities**: Python-based all-in-one AI framework supporting semantic search, LLM orchestration, and end-to-end language model workflows with modular components for embeddings, retrieval, and generation.
+- **Unified AI Framework**: Combines semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
 
-- **Key Features**: Integrates sentence embeddings, vector search, RAG pipelines, and transformer-based models; includes built-in vector database and supports agent-based AI workflows.
+- **Key Features**: Integrates embeddings, transformers, and vector databases for information retrieval, with support for sentence embeddings and large language models (LLMs).
 
-- **Technical Stack**: Built on Python with dependencies for NLP (e.g., Hugging Face Transformers), vector operations (e.g., FAISS/Annoy), and APIs for LLM interaction, enabling scalable retrieval-augmented applications.
+- **Technical Stack**: Built on Python, leveraging transformers, vector search, and semantic indexing for scalable AI-driven applications.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: neuml
-- Stars: 12800
+- Stars: 12802
 - Forks: 854
 - Language: Python
 - Topics: agents, ai, ai-agents, embeddings, information-retrieval, language-model, large-language-models, llm, nlp, python, rag, retrieval-augmented-generation, search, search-engine, semantic-search, sentence-embeddings, transformers, txtai, vector-database, vector-search
-- Last Updated: 2026-08-05T23:50:49Z
+- Last Updated: 2026-08-06T04:35:55Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2020-08-09T19:14:59Z

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-06T09:10:28.371845+05:30'
+collected_at: '2026-08-06T14:29:36.024854+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-06T09:10:28.371845+05:30'
-last_seen: '2026-08-06T09:10:28.371845+05:30'
-last_checked: '2026-08-06T09:10:28.371845+05:30'
+first_seen: '2026-08-06T14:29:36.024854+05:30'
+last_seen: '2026-08-06T14:29:36.024854+05:30'
+last_checked: '2026-08-06T14:29:36.024854+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) that mimics human cognitive memory structures to enhance stateful long narrative reasoning, as proposed in the AAAI 2026 poster.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) designed for stateful long narrative reasoning, drawing inspiration from human cognitive memory structures.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory organization and retrieval mechanisms to maintain context coherence and improve reasoning over extended, multi-turn narratives compared to traditional RAG systems.
+- **Stateful Reasoning Mechanism**: Implements a structured memory system to maintain and retrieve contextual information dynamically, enabling coherent reasoning over extended narratives with improved temporal consistency.
 
-- **Python Implementation**: Provides an open-source Python-based implementation with modular components for memory organization, retrieval, and reasoning, optimized for stateful narrative tasks.
+- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in the AAAI 2026 conference, emphasizing its novel integration of memory organization and RAG for advanced narrative understanding.
 
 ## Why It Matters
 

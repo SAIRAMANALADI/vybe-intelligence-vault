@@ -13,9 +13,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `91` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
+### [Stainless · GitHub](https://github.com/stainless-api)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`stainless-github.md`](../../ai/resources/stainless-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
@@ -23,9 +23,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`ajac-zero-example-rag-app.md`](../../ai/rag/ajac-zero-example-rag-app.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [weaviate/Verba](https://github.com/weaviate/Verba)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`weaviate-verba.md`](../../ai/rag/weaviate-verba.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`ajac-zero-example-rag-app.md`](../../ai/rag/ajac-zero-example-rag-app.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
@@ -46,26 +66,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
 - **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`firecrawl-firecrawl-mcp-server.md`](../../ai/resources/firecrawl-firecrawl-mcp-server.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](../../ai/resources/llamasearchai-openagi-customization.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`nangeplus-crewaitest.md`](../../ai/agents/nangeplus-crewaitest.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [OpenAI · GitHub](https://github.com/openai)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-06 09:26 IST*
+*Last updated: 2026-08-06 14:45 IST*

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-08-06T09:10:18.347632+05:30'
+collected_at: '2026-08-06T14:29:26.026817+05:30'
 published_at: '2026-08-06T03:22:19Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 678
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-08-06T09:10:18.347632+05:30'
-last_seen: '2026-08-06T09:10:18.347632+05:30'
-last_checked: '2026-08-06T09:10:18.347632+05:30'
+first_seen: '2026-08-06T14:29:26.026817+05:30'
+last_seen: '2026-08-06T14:29:26.026817+05:30'
+last_checked: '2026-08-06T14:29:26.026817+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular, scalable deployment.
-- **GenAI Integration**: Demonstrates end-to-end implementation of RAG with vector databases, embedding models, and LLM inference, optimized for performance and reproducibility.
-- **DevOps & Tooling**: Includes CI/CD-ready Docker configurations, FastAPI endpoints for real-time inference, and modular architecture for extensibility across GenAI use cases.
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-grade Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing modular design and scalability.
+
+- **Tech Stack Integration**: Demonstrates deployment of a RAG system with FastAPI for backend services, Docker for containerization, and GenAI models for retrieval and generation tasks.
+
+- **Modular Architecture**: Implements a structured workflow including document ingestion, vector storage (e.g., FAISS or Chroma), retrieval mechanisms, and LLM integration, optimized for educational clarity and real-world adaptability.
 
 ## Why It Matters
 

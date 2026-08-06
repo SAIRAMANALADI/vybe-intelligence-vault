@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-06T09:10:28.398004+05:30'
+collected_at: '2026-08-06T14:29:36.049844+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 530
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-06T09:10:28.398004+05:30'
-last_seen: '2026-08-06T09:10:28.398004+05:30'
-last_checked: '2026-08-06T09:10:28.398004+05:30'
+first_seen: '2026-08-06T14:29:36.049844+05:30'
+last_seen: '2026-08-06T14:29:36.049844+05:30'
+last_checked: '2026-08-06T14:29:36.049844+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, an ICLR 2026 framework optimizing **Graph Retrieval-Augmented Generation (GraphRAG)** for large-scale corpora via linear graph traversal, reducing computational overhead compared to traditional RAG methods.
-
-- Implements **linear-time graph retrieval** by leveraging adjacency matrix sparsity and approximate nearest neighbor (ANN) search, enabling scalable inference on billion-scale document graphs.
-
-- Provides a **Python-based toolkit** with modular components for graph construction, retrieval, and generation, supporting integration with LLMs for enhanced factual grounding and contextual relevance.
+- **Linear Graph RAG Framework**: Proposes a linear graph-based retrieval mechanism for augmenting large-scale corpora in RAG systems, optimizing retrieval efficiency for LLMs.
+- **Scalability & Performance**: Implements linear-time graph traversal for retrieval, enabling scalable and fast augmentation on large document collections (ICLR 2026 submission).
+- **Python Implementation**: Open-source repository with modular design for graph construction, retrieval, and integration with LLMs, supporting graphrag and RAG workflows.
 
 ## Why It Matters
 

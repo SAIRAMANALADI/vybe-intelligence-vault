@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/
-published_at: '2026-08-02T19:35:34.712820+05:30'
-collected_at: '2026-08-02T19:35:34.712834+05:30'
+published_at: '2026-08-06T14:37:56.319972+05:30'
+collected_at: '2026-08-06T14:37:56.319984+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:node-js-run-javascript-everywhere
-first_seen: '2026-08-02T19:35:34.712834+05:30'
-last_seen: '2026-08-02T19:35:34.712834+05:30'
-last_checked: '2026-08-02T19:35:34.712834+05:30'
+first_seen: '2026-08-06T14:37:56.319984+05:30'
+last_seen: '2026-08-06T14:37:56.319984+05:30'
+last_checked: '2026-08-06T14:37:56.319984+05:30'
 health_score: 100
 ---
 
@@ -20,19 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Node.js** is a cross-platform JavaScript runtime enabling server-side, CLI, and script execution via a non-blocking I/O model built on Chrome's V8 engine.
-
-- **Core Capabilities**:
-  - HTTP server creation (`node:http` module)
-  - Unit testing (`node:test` + `node:assert`)
-  - Cryptographic operations (e.g., SHA-1 hashing via `node:crypto`)
-  - Stream-based file processing (`node:stream/promises` + `node:fs`)
-  - Multi-threading via `node:worker_threads`
-
-- **Execution Examples**:
-  - HTTP server: `createServer()` binds to port 3000.
-  - Tests: `assert.strictEqual()` validates conditions.
-  - File hashing: `pipeline()` compresses files using `node:zlib`.
+- **Cross-platform runtime**: Node.js is an open-source JavaScript runtime enabling server-side execution, CLI tool creation, and script development across platforms.
+- **Core modules**: Provides native APIs for HTTP servers (`node:http`), testing (`node:test`), cryptography (`node:crypto`), streams (`node:stream`), and multi-threading (`node:worker_threads`).
+- **File operations**: Supports asynchronous file I/O (e.g., `fs/promises.readFile`), hashing (SHA-1 via `crypto`), and stream-based processing (e.g., compression pipelines).
 
 ## Why It Matters
 
@@ -42,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T19:35:34.712820+05:30
+- Published: 2026-08-06T14:37:56.319972+05:30
 
 ## Related Tags
 

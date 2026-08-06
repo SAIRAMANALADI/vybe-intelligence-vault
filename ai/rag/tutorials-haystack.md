@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-08-06T01:34:14.042883+05:30'
-collected_at: '2026-08-06T01:34:14.042898+05:30'
+published_at: '2026-08-06T14:34:13.027580+05:30'
+collected_at: '2026-08-06T14:34:13.027596+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-08-06T01:34:14.042898+05:30'
-last_seen: '2026-08-06T01:34:14.042898+05:30'
-last_checked: '2026-08-06T01:34:14.042898+05:30'
+first_seen: '2026-08-06T14:34:13.027596+05:30'
+last_seen: '2026-08-06T14:34:13.027596+05:30'
+last_checked: '2026-08-06T14:34:13.027596+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of retrieval and generation components.
+- **Evaluation Guide**: Provides a comprehensive walkthrough for assessing Haystack pipelines using statistical and model-based metrics, covering both RAG and agentic workflows.
 
-- **Multimodal RAG Pipeline**: Tutorial demonstrates building a Vision+Text RAG pipeline using Haystack, integrating image and text embeddings for cross-modal question answering grounded in both modalities.
+- **Agentic & Multimodal Pipelines**: Tutorials demonstrate advanced agent architectures (e.g., tool-calling, multi-agent systems, human-in-the-loop) and multimodal RAG pipelines integrating vision+text for complex workflows.
 
-- **Agentic RAG with Fallback**: Covers creation of agentic RAG systems with conditional routing to web search as a fallback mechanism, enhancing robustness in cases of retrieval failure or insufficient context.
+- **Performance Optimization & Customization**: Includes techniques for KV cache compression (TurboQuant), hybrid retrieval (dense + keyword), custom SuperComponents, and structured output generation with OpenAI models.
 
 ## Why It Matters
 
@@ -41,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T01:34:14.042883+05:30
+- Published: 2026-08-06T14:34:13.027580+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

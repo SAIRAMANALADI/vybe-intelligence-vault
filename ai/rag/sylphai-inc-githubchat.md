@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SylphAI-Inc/GithubChat
-collected_at: '2026-08-06T09:08:43.264866+05:30'
+collected_at: '2026-08-06T14:27:50.956345+05:30'
 published_at: '2026-07-23T15:42:52Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 98
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-12-05T01:54:18Z'
 pushed_at: '2025-02-10T20:07:53Z'
 resource_id: github:sylphai-inc/githubchat
-first_seen: '2026-08-06T09:08:43.264866+05:30'
-last_seen: '2026-08-06T09:08:43.264866+05:30'
-last_checked: '2026-08-06T09:08:43.264866+05:30'
+first_seen: '2026-08-06T14:27:50.956345+05:30'
+last_seen: '2026-08-06T14:27:50.956345+05:30'
+last_checked: '2026-08-06T14:27:50.956345+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Practical RAG Implementation**: GitHubChat enables Retrieval-Augmented Generation (RAG) for GitHub repositories, allowing users to download and interactively query repositories via natural language.
-- **Python-Based Architecture**: The project is developed in Python, leveraging libraries for code indexing, embedding generation, and LLM integration for contextual Q&A.
-- **Self-Hosted Deployment**: Users can locally deploy the system to chat with private or public GitHub repositories, bypassing API rate limits and ensuring data privacy.
+- **Purpose**: Enables Retrieval-Augmented Generation (RAG) for interacting with GitHub repositories via natural language queries.
+- **Implementation**: Python-based tool allowing users to download and chat with repository contents using RAG techniques.
+- **Metadata**: 98 stars, 21 forks, last updated July 23, 2026.
 
 ## Why It Matters
 

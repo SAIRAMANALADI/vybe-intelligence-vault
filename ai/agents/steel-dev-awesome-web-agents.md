@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/steel-dev/awesome-web-agents
-collected_at: '2026-08-06T09:11:33.530800+05:30'
-published_at: '2026-08-05T17:41:50Z'
+collected_at: '2026-08-06T14:30:41.167726+05:30'
+published_at: '2026-08-06T06:05:54Z'
 tags:
 - agents
 - benchmark
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - python
 - scripts
-stars: 1533
+stars: 1534
 language: Python
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-03-06T05:23:47Z'
 pushed_at: '2026-07-10T13:10:53Z'
 resource_id: github:steel-dev/awesome-web-agents
-first_seen: '2026-08-06T09:11:33.530800+05:30'
-last_seen: '2026-08-06T09:11:33.530800+05:30'
-last_checked: '2026-08-06T09:11:33.530800+05:30'
+first_seen: '2026-08-06T14:30:41.167726+05:30'
+last_seen: '2026-08-06T14:30:41.167726+05:30'
+last_checked: '2026-08-06T14:30:41.167726+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Comprehensive list of tools, frameworks, and resources for developing AI web agents, covering browser automation, LLM integration, and benchmarking.
-- **Technical Scope**: Focuses on Python-based solutions, with emphasis on LLMs, agent architectures, and web interaction automation.
-- **Community & Updates**: Actively maintained with 1,533 stars and 202 forks; last updated August 2026.
+- **Curated Resource**: A GitHub repository (`steel-dev/awesome-web-agents`) listing tools, frameworks, and resources for building AI web agents, with 1.5K+ stars and 200+ forks.
+- **Technical Focus**: Includes Python-based tools for browser automation, LLM benchmarking, and AI agent development.
+- **Updated**: Last modified on **2026-08-06**, covering topics like AI agents, LLMs, and automation.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: steel-dev
-- Stars: 1533
+- Stars: 1534
 - Forks: 202
 - Language: Python
 - Topics: ai, ai-agents, awesome, awesome-list, browser-automation, llms, llms-benchmarking
-- Last Updated: 2026-08-05T17:41:50Z
+- Last Updated: 2026-08-06T06:05:54Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-03-06T05:23:47Z

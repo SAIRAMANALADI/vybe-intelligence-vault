@@ -3,7 +3,7 @@ title: Models – Hugging Face
 archive_category: evals-and-benchmarks
 source_category: ai/resources
 source_url: https://huggingface.co/models?library=sentence-transformers&pipeline_tag=text-ranking
-resource_id: blog:models-hugging-face
+resource_id: blog:models-hugging-face-0f7d09d0
 local_vault_path: ai/resources/models-hugging-face.md
 quality_score: 70
 archive_score: 74

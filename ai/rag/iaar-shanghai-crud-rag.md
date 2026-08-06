@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-06T09:10:03.406974+05:30'
+collected_at: '2026-08-06T14:29:11.041200+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-06T09:10:03.406974+05:30'
-last_seen: '2026-08-06T09:10:03.406974+05:30'
-last_checked: '2026-08-06T09:10:03.406974+05:30'
+first_seen: '2026-08-06T14:29:11.041200+05:30'
+last_seen: '2026-08-06T14:29:11.041200+05:30'
+last_checked: '2026-08-06T14:29:11.041200+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), focusing on retrieval and generation performance in Chinese contexts.
+- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) models, covering diverse tasks and datasets to assess performance in Chinese language contexts.
 
-- **CRUD Operations Integration**: The benchmark incorporates Create, Read, Update, and Delete (CRUD) operations to assess dynamic RAG capabilities, ensuring evaluation under realistic, evolving data scenarios.
+- **Evaluation Framework**: Implements standardized metrics and protocols for assessing RAG systems, including retrieval accuracy, generation quality, and end-to-end performance on Chinese-specific challenges.
 
-- **Open-Source Repository**: Implemented in Python, the repository includes tools, datasets, and evaluation metrics to facilitate reproducible research and benchmarking of RAG models in Chinese language tasks.
+- **Open-Source Toolkit**: Released as a Python-based repository with modular components for benchmarking, enabling reproducibility and extensibility for researchers working on Chinese RAG systems.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-py
-collected_at: '2026-08-05T22:33:52.352204+05:30'
+collected_at: '2026-08-06T14:34:12.799679+05:30'
 published_at: '2026-08-04T11:52:08Z'
 tags:
 - agents
@@ -19,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-06T21:59:30Z'
-pushed_at: '2026-08-05T01:42:11Z'
+pushed_at: '2026-08-05T17:49:50Z'
 resource_id: github:run-llama/llama-parse-py
-first_seen: '2026-08-05T22:33:52.352204+05:30'
-last_seen: '2026-08-05T22:33:52.352204+05:30'
-last_checked: '2026-08-05T22:33:52.352204+05:30'
+first_seen: '2026-08-06T14:34:12.799679+05:30'
+last_seen: '2026-08-06T14:34:12.799679+05:30'
+last_checked: '2026-08-06T14:34:12.799679+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK for Cloud-Based Document Parsing**: Provides OCR and structured document parsing via LlamaParse, enabling information extraction from unstructured documents in the cloud.
-- **Integration with Llama Ecosystem**: Designed for seamless use with Llama agents, supporting document processing workflows for AI-driven applications.
-- **Key Features**: Supports parsing of PDFs, images, and other document formats; optimized for low-latency cloud execution with Pythonic API.
+- **Python SDK for Cloud-Based Document Parsing**: Provides OCR and structured parsing capabilities via LlamaParse, enabling cloud-based document processing and information extraction.
+- **Integration with Llama Ecosystem**: Designed for compatibility with Llama agents, facilitating document-agent workflows and structured data extraction.
+- **Lightweight & Actively Maintained**: Repository has 55 stars, 15 forks, and was last updated on 2026-08-04, indicating active development.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-11-06T21:59:30Z
-- Pushed At: 2026-08-05T01:42:11Z
+- Pushed At: 2026-08-05T17:49:50Z
 
 ## Possible Use Cases
 

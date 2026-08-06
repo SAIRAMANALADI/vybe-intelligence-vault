@@ -4,14 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial
-collected_at: '2026-08-06T03:58:13.381233+05:30'
+collected_at: '2026-08-06T14:31:51.134077+05:30'
 published_at: '2026-08-05T01:18:12Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
-- workflows
 stars: 1105
 language: Jupyter Notebook
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-12-14T14:33:57Z'
 pushed_at: '2025-09-18T07:01:44Z'
 resource_id: github:langchain-opentutorial/langchain-opentutorial
-first_seen: '2026-08-06T03:58:13.381233+05:30'
-last_seen: '2026-08-06T03:58:13.381233+05:30'
-last_checked: '2026-08-06T03:58:13.381233+05:30'
+first_seen: '2026-08-06T14:31:51.134077+05:30'
+last_seen: '2026-08-06T14:31:51.134077+05:30'
+last_checked: '2026-08-06T14:31:51.134077+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Educational repository providing tutorials on LangChain and LangGraph frameworks for building AI agents.
-- **Technical Stack**: Primarily implemented in Jupyter Notebooks, covering agent-based architectures and workflows.
-- **Metadata**: 1,105 stars, 345 forks, last updated 2026-08-05; focuses on practical, open-source AI agent development.
+- **Purpose**: Educational repository providing open tutorials on LangChain and LangGraph frameworks for building AI agents.
+- **Content**: Primarily Jupyter Notebooks covering agent development, LangChain, and LangGraph implementations.
+- **Metadata**: 1,105 stars, 345 forks, last updated August 5, 2026.
 
 ## Why It Matters
 

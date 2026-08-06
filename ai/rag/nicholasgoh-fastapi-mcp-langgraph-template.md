@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-08-06T03:58:03.304095+05:30'
+collected_at: '2026-08-06T14:31:41.134201+05:30'
 published_at: '2026-07-23T22:24:29Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
+- reddit
 - workflows
 stars: 554
 language: Python
@@ -20,9 +22,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-08-06T03:58:03.304095+05:30'
-last_seen: '2026-08-06T03:58:03.304095+05:30'
-last_checked: '2026-08-06T03:58:03.304095+05:30'
+first_seen: '2026-08-06T14:31:41.134201+05:30'
+last_seen: '2026-08-06T14:31:41.134201+05:30'
+last_checked: '2026-08-06T14:31:41.134201+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI for REST endpoints, MCP (Model Context Protocol) for agentic orchestration, and LangGraph for workflow management, enabling scalable, modular agent systems.
-- **Observability & Storage**: Includes Grafana/Prometheus for monitoring, Langfuse for LLM observability, Supabase for PostgreSQL-based storage, and SQLModel for ORM.
-- **Deployment**: Pre-configured with Nginx for reverse proxy and FastAPI’s ASGI support, optimized for containerized deployment with Prometheus/Grafana dashboards.
+- **Architecture**: Template integrates FastAPI for REST endpoints, LangGraph for agentic workflows, and MCP (Model Context Protocol) for tool orchestration, enabling scalable agentic systems with modular components.
+
+- **Observability & Storage**: Includes Grafana/Prometheus for monitoring, Langfuse for LLM evaluation/tracing, and Supabase/SQLModel for PostgreSQL-based data persistence and ORM.
+
+- **Deployment**: Pre-configured with Nginx for reverse proxy and Docker/Compose for containerization, optimized for rapid iteration and cloud-agnostic deployment.
 
 ## Why It Matters
 

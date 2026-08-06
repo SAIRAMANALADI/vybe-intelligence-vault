@@ -4,18 +4,19 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.langchain.com/
-published_at: '2026-08-05T17:08:21.595954+05:30'
-collected_at: '2026-08-05T17:08:21.595970+05:30'
+published_at: '2026-08-06T14:34:16.811976+05:30'
+collected_at: '2026-08-06T14:34:16.811991+05:30'
 tags:
 - agents
 - benchmark
 - producthunt
 - web-crawled
+- workflows
 status: active
 resource_id: blog:langchain-blog
-first_seen: '2026-08-05T17:08:21.595970+05:30'
-last_seen: '2026-08-05T17:08:21.595970+05:30'
-last_checked: '2026-08-05T17:08:21.595970+05:30'
+first_seen: '2026-08-06T14:34:16.811991+05:30'
+last_seen: '2026-08-06T14:34:16.811991+05:30'
+last_checked: '2026-08-06T14:34:16.811991+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Voice Agent Evaluation Framework**: Introduces a three-dimensional evaluation system for voice agents—**execution** (latency, error rates), **outcomes** (task success, user satisfaction), and **experience** (conversational quality, naturalness)—with emphasis on real-world CX deployments.
+- **Autonomous SRE Agent for Kubernetes**: Implements closed-loop Kubernetes deployment management with self-healing capabilities, integrating observability tools (Prometheus, Grafana) and automated rollback mechanisms via LangGraph workflows.
 
-- **LangSmith LLM Gateway**: Provides **runtime controls** for production agents, including dynamic model routing, cost/latency optimization, and policy-based guardrails (e.g., PII redaction, jailbreak prevention) via a unified API gateway.
+- **LangSmith LLM Gateway**: Provides runtime controls for production agents, enforcing policy-based guardrails (e.g., rate limiting, content filtering) and enabling dynamic agent behavior modification without code changes.
 
-- **Deep Agents v0.7 Release**: Adds **multi-agent orchestration** with LangGraph integration, **benchmarking tools** (e.g., ReviewBench for code review agents), and **voice agent tracing** in LangSmith for end-to-end observability.
+- **Deep Agents v0.7**: Introduces modular agent composition with stateful workflows, improved tool-calling semantics, and native support for multi-modal tool integration (e.g., voice, code execution) via standardized interfaces.
 
 ## Why It Matters
 
@@ -37,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-05T17:08:21.595954+05:30
+- Published: 2026-08-06T14:34:16.811976+05:30
 
 ## Related Tags
 
@@ -45,6 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 - benchmark
 - producthunt
 - web-crawled
+- workflows
 
 ## Source
 

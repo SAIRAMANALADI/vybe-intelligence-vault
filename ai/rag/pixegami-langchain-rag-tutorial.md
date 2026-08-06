@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-08-06T09:08:58.326455+05:30'
+collected_at: '2026-08-06T14:28:05.902426+05:30'
 published_at: '2026-08-02T10:53:22Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-08-06T09:08:58.326455+05:30'
-last_seen: '2026-08-06T09:08:58.326455+05:30'
-last_checked: '2026-08-06T09:08:58.326455+05:30'
+first_seen: '2026-08-06T14:28:05.902426+05:30'
+last_seen: '2026-08-06T14:28:05.902426+05:30'
+last_checked: '2026-08-06T14:28:05.902426+05:30'
 health_score: 100
 ---
 
@@ -28,10 +28,8 @@ health_score: 100
 ## Summary
 
 - **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-
-- **Python-Based Architecture**: Utilizes Python with LangChain’s modular components (e.g., `RetrievalQA`, `VectorStore`) to process and query documents via embeddings (e.g., FAISS or Chroma).
-
-- **Modular Design**: Includes steps for document loading (e.g., `PyPDFLoader`), text splitting (`RecursiveCharacterTextSplitter`), embedding generation (e.g., `HuggingFaceEmbeddings`), and vector storage for efficient retrieval.
+- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma).
+- **Minimalist Design**: Focuses on core RAG components (document loading, embedding, retrieval, and generation) without additional abstractions or external dependencies.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-06T09:14:16.774737+05:30'
-collected_at: '2026-08-06T09:14:16.774752+05:30'
+published_at: '2026-08-06T14:35:48.150907+05:30'
+collected_at: '2026-08-06T14:35:48.150922+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-06T09:14:16.774752+05:30'
-last_seen: '2026-08-06T09:14:16.774752+05:30'
-last_checked: '2026-08-06T09:14:16.774752+05:30'
+first_seen: '2026-08-06T14:35:48.150922+05:30'
+last_seen: '2026-08-06T14:35:48.150922+05:30'
+last_checked: '2026-08-06T14:35:48.150922+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript, supporting GPU/accelerated hardware for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript, including GPU acceleration for performance-critical workloads.
 
-- **Storage & Compute**: Supports disk usage/storage management, GPU upgrades (including ZeroGPU), and custom hardware configurations via Docker-based Spaces for flexible deployment.
+- **Configuration & Integration**: Supports dependency management, GitHub Actions for CI/CD, custom domains, and OAuth-based authentication, with reference configurations for Docker and static deployments.
 
-- **Integration & Automation**: Provides GitHub Actions integration for CI/CD, OAuth/Sign-In with Hugging Face, and embeddable Spaces with MCP server support for agent-based workflows.
+- **Advanced Features**: Provides ZeroGPU mode, disk/storage management, embedding options, and MCP server/agent tool integrations for scalable and modular ML application deployments.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T09:14:16.774737+05:30
+- Published: 2026-08-06T14:35:48.150907+05:30
 
 ## Related Tags
 

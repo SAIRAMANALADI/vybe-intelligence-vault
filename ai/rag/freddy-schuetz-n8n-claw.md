@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-06T09:12:08.457842+05:30'
+collected_at: '2026-08-06T14:31:16.128194+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
+- scripts
 - shell
 - workflows
 stars: 542
@@ -19,9 +21,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-06T09:12:08.457842+05:30'
-last_seen: '2026-08-06T09:12:08.457842+05:30'
-last_checked: '2026-08-06T09:12:08.457842+05:30'
+first_seen: '2026-08-06T14:31:16.128194+05:30'
+last_seen: '2026-08-06T14:31:16.128194+05:30'
+last_checked: '2026-08-06T14:31:16.128194+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **Adaptive RAG** for memory management, **MCP templates** for skill acquisition, and **delegated sub-agents** for expert task handling.
-- **Proactive task management** with **media understanding** capabilities, self-hosted via a **single setup script**, integrating tools like **Crawl4AI**, **SearXNG**, and **Supabase**.
-- **Shell-based** repository (542⭐, 105🍴) focused on **AI agent frameworks**, **Model Context Protocol (MCP)**, and **autonomous workflows**, last updated **2026-08-01**.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP (Model Context Protocol) templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
+
+- **Capabilities**: Supports proactive task management, media understanding, and integrates tools like Crawl4AI for web scraping, SearXNG for search, and Supabase for data storage—all deployable via a single setup script for self-hosting.
+
+- **Technical Stack**: Primarily shell-based, with dependencies on n8n for workflow orchestration, MCP for skill templating, and Supabase/Crawl4AI/SearXNG for backend functionality, enabling modular and extensible AI agent development.
 
 ## Why It Matters
 

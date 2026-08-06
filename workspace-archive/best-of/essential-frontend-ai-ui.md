@@ -8,11 +8,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`nangeplus-crewaitest.md`](../../ai/agents/nangeplus-crewaitest.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
@@ -22,6 +17,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind)
+- **Category**: `web-development/tailwind` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`styles-and-css-docs.md`](../../web-development/tailwind/styles-and-css-docs.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 ### [Staircase AI](https://education.gainsight.com/page/staircase-ai)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
@@ -37,6 +37,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2504-01407.md`](../../ai/agents/arxiv-2504-01407.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2607-09322.md`](../../ai/rag/arxiv-2607-09322.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-06 09:26 IST*
+*Last updated: 2026-08-06 14:45 IST*

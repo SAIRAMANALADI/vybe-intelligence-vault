@@ -13,13 +13,14 @@ collected_at: '2026-08-06T09:08:01.624698+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-entropy-of-a-markov-chain
 first_seen: '2026-08-05T22:25:38.777971+05:30'
 last_seen: '2026-08-06T09:08:01.624698+05:30'
 last_checked: '2026-08-06T09:08:01.624698+05:30'
 health_score: 100
 ---
+
 
 # The Entropy of a Markov Chain
 
