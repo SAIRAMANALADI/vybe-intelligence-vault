@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C222-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C268-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--06-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **169,222 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **101,268 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,466</p>
-        <p><b>Active:</b> 17,969 | <b>Inactive:</b> 497</p>
+        <p><b>Resources tracked:</b> 17,470</p>
+        <p><b>Active:</b> 16,973 | <b>Inactive:</b> 497</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 69,181</p>
+        <p><b>Archive Files:</b> 2,182</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 169,222 files</p>
-        <p><b>Last Update:</b> 2026-08-06 14:46 IST</p>
+        <p><b>Total Vault Size:</b> 101,268 files</p>
+        <p><b>Last Update:</b> 2026-08-06 15:14 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Nashville uses eminent domain to block data center near zoo](ai/community/nashville-uses-eminent-domain-to-block-data-center.md)** • <kbd>+159 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](ai/community/the-next-chapter-of-our-ai-momentum.md)** • <kbd>+124 pts</kbd>
-- 🔼 **[Born Against, or why hobby programming communities are against LLM usage](ai/community/born-against-or-why-hobby-programming-communities.md)** • <kbd>+93 pts</kbd>
-- 🔼 **[Cloudflare OS: an open platform for agents, apps, and work](ai/community/cloudflare-os-an-open-platform-for-agents-apps-and.md)** • <kbd>+63 pts</kbd>
-- 🔼 **[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](ai/community/arxiv-2510-01395.md)** • <kbd>+32 pts</kbd>
+- 🔼 **[Firebase · GitHub](ai/resources/firebase-github.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Gemini in Android Studio - Android Developers](ai/rag/gemini-in-android-studio-android-developers.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Stream Firestore to BigQuery | Firebase Extensions Hub](ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Google Colab](ai/resources/google-colab.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Keras: Deep Learning for humans](ai/rag/keras-deep-learning-for-humans.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Decimen Optical Transfer: fountain-coded QR file transfer](ai/community/bashalarmistalt-decimen-optical-transfer.md)** • Score: `20`
-- 🆕 **[Search Firestore with Algolia | Firebase Extensions Hub](ai/rag/search-firestore-with-algolia-firebase-extensions.md)** • Score: `0`
-- 🆕 **[Google Colab](ai/resources/google-colab.md)** • Score: `0`
-- 🆕 **[trekhleb/javascript-algorithms](ai/resources/trekhleb-javascript-algorithms.md)** • Score: `0`
-- 🆕 **[Stainless · GitHub](ai/resources/stainless-github.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[The Entropy of a Markov Chain](ai/community/the-entropy-of-a-markov-chain.md)**
-- 💤 **[LLMs won't break symmetric crypto](ai/community/llms-won-t-break-symmetric-crypto.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
