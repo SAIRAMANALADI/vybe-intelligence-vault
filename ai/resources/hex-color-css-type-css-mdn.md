@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.mozilla.org/en-US/docs/Web/CSS/hex-color
-published_at: '2026-08-03T09:34:20.538964+05:30'
-collected_at: '2026-08-03T09:34:20.538974+05:30'
+published_at: '2026-08-06T09:16:44.779237+05:30'
+collected_at: '2026-08-06T09:16:44.779251+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:hex-color-css-type-css-mdn
-first_seen: '2026-08-03T09:34:20.538974+05:30'
-last_seen: '2026-08-03T09:34:20.538974+05:30'
-last_checked: '2026-08-03T09:34:20.538974+05:30'
+first_seen: '2026-08-06T09:16:44.779251+05:30'
+last_seen: '2026-08-06T09:16:44.779251+05:30'
+last_checked: '2026-08-06T09:16:44.779251+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Hex color syntax** supports 3, 4, 6, or 8 hexadecimal digits (`#RGB`, `#RGBA`, `#RRGGBB`, `#RRGGBBAA`) representing sRGB color components (red, green, blue) with optional alpha transparency.
-- **Case-insensitive parsing** allows mixed-case hex values (e.g., `#f09` = `#F09`), where single-digit components are duplicated (e.g., `#f09` → `#ff0099`).
-- **Browser support**: Fully established since July 2015, compatible with all major browsers for use wherever CSS `<color>` values are accepted.
+- **Hex color notation** in CSS supports four syntax variants (`#RGB`, `#RGBA`, `#RRGGBB`, `#RRGGBBAA`) for sRGB colors, with optional alpha transparency in the last two digits.
+- **Case-insensitive** hex values (e.g., `#f09` = `#F09`) allow compact or expanded representations, where single-digit components are implicitly duplicated (e.g., `0` → `00`).
+- **Widely supported** since July 2015 across browsers as part of the CSS Color Module Level 4 specification.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T09:34:20.538964+05:30
+- Published: 2026-08-06T09:16:44.779237+05:30
 
 ## Related Tags
 

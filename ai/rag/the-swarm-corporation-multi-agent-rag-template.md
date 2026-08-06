@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-06T03:58:23.416980+05:30'
+collected_at: '2026-08-06T09:12:53.613712+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- models
 - openai
 - python
 - rag
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-06T03:58:23.416980+05:30'
-last_seen: '2026-08-06T03:58:23.416980+05:30'
-last_checked: '2026-08-06T03:58:23.416980+05:30'
+first_seen: '2026-08-06T09:12:53.613712+05:30'
+last_seen: '2026-08-06T09:12:53.613712+05:30'
+last_checked: '2026-08-06T09:12:53.613712+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative framework using frameworks like CrewAI, AutoGen, and Swarms to orchestrate multiple AI agents (e.g., OpenAI GPT-3.5/4, GPT-5, Anthropic) for document processing and insight generation.
+- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and LangChain to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG).
 
-- **RAG Integration**: Leverages LangChain, ChromaDB, Weaviate, or Pinecone for Retrieval-Augmented Generation (RAG), enabling agents to fetch and synthesize information from document repositories efficiently.
+- **Integration of Vector Databases**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) for document storage and retrieval, enabling efficient semantic search and context-aware responses.
 
-- **Scalable Deployment**: Supports Discord integration and modular agent roles (e.g., retrieval, analysis, synthesis) for distributed document processing, with Python-based implementation and last updated July 2026.
+- **LLM Agnostic & Extensible**: Compatible with various Large Language Models (GPT-3.5, GPT-4, GPT-5, Anthropic) and includes Discord integration for real-time agent collaboration and task execution.
 
 ## Why It Matters
 

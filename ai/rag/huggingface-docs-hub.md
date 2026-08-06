@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-06T04:00:03.434163+05:30'
-collected_at: '2026-08-06T04:00:03.434183+05:30'
+published_at: '2026-08-06T09:14:16.774737+05:30'
+collected_at: '2026-08-06T09:14:16.774752+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,14 +15,15 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-06T04:00:03.434183+05:30'
-last_seen: '2026-08-06T04:00:03.434183+05:30'
-last_checked: '2026-08-06T04:00:03.434183+05:30'
+first_seen: '2026-08-06T09:14:16.774752+05:30'
+last_seen: '2026-08-06T09:14:16.774752+05:30'
+last_checked: '2026-08-06T09:14:16.774752+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & SDK Support**: Hugging Face Spaces enables ML demo app hosting with built-in support for Gradio (Python SDK), Docker (arbitrary Dockerfiles), and static HTML/JS apps, with optional GPU acceleration for performance-critical workloads.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript, supporting GPU/accelerated hardware for performance-critical applications.
 
-- **Deployment & Integration**: Supports GPU upgrades, disk/storage management, GitHub Actions for CI/CD, custom domains, and embedding as MCP servers/API endpoints, with detailed configuration references for advanced use cases.
+- **Storage & Compute**: Supports disk usage/storage management, GPU upgrades (including ZeroGPU), and custom hardware configurations via Docker-based Spaces for flexible deployment.
 
-- **Collaboration & Analytics**: Facilitates team collaboration via organization profiles, provides disk usage tracking, and integrates with tools like Data Studio for private datasets and analytics for download stats.
+- **Integration & Automation**: Provides GitHub Actions integration for CI/CD, OAuth/Sign-In with Hugging Face, and embeddable Spaces with MCP server support for agent-based workflows.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T04:00:03.434163+05:30
+- Published: 2026-08-06T09:14:16.774737+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

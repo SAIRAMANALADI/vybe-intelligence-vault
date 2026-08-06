@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-08-06T03:56:28.264184+05:30'
+collected_at: '2026-08-06T09:10:58.416743+05:30'
 published_at: '2026-08-03T15:41:30Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-08-05T16:47:35Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-08-06T03:56:28.264184+05:30'
-last_seen: '2026-08-06T03:56:28.264184+05:30'
-last_checked: '2026-08-06T03:56:28.264184+05:30'
+first_seen: '2026-08-06T09:10:58.416743+05:30'
+last_seen: '2026-08-06T09:10:58.416743+05:30'
+last_checked: '2026-08-06T09:10:58.416743+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based visual AI workflow automation platform** enabling drag-and-drop construction of multi-agent systems with real-time execution capabilities.
+- **Visual AI Workflow Automation**: Template for building visual AI-driven workflow automation platforms using TypeScript, enabling agent-based task orchestration.
 
-- **Pre-configured template** for Vercel deployments, integrating AI agents, workflow orchestration, and state management out-of-the-box.
+- **Vercel Integration**: Leverages Vercel’s ecosystem for deployment, scalability, and serverless functions to handle AI workflow execution.
 
-- **Open-source repository** (1.2k+ stars) with modular architecture for extensibility, supporting custom agent logic and third-party AI service integrations.
+- **Modular Architecture**: Provides a structured template with reusable components for defining AI agents, workflows, and integration points.
 
 ## Why It Matters
 

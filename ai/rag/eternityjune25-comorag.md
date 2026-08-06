@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-06T03:55:58.222150+05:30'
+collected_at: '2026-08-06T09:10:28.371845+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-06T03:55:58.222150+05:30'
-last_seen: '2026-08-06T03:55:58.222150+05:30'
-last_checked: '2026-08-06T03:55:58.222150+05:30'
+first_seen: '2026-08-06T09:10:28.371845+05:30'
+last_seen: '2026-08-06T09:10:28.371845+05:30'
+last_checked: '2026-08-06T09:10:28.371845+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) that mimics human cognitive memory structures to enhance stateful long narrative reasoning, as proposed in the AAAI 2026 poster.
 
-- **Stateful Reasoning**: Implements dynamic memory retrieval and integration mechanisms to maintain context coherence across extended multi-turn interactions, enhancing reasoning consistency.
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory organization and retrieval mechanisms to maintain context coherence and improve reasoning over extended, multi-turn narratives compared to traditional RAG systems.
 
-- **AAAI 2026 Poster**: Presented as a novel approach for long-form narrative understanding, leveraging memory organization for improved factual grounding and contextual relevance in generative tasks.
+- **Python Implementation**: Provides an open-source Python-based implementation with modular components for memory organization, retrieval, and reasoning, optimized for stateful narrative tasks.
 
 ## Why It Matters
 

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-06T03:55:58.253035+05:30'
+collected_at: '2026-08-06T09:10:28.381291+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 257
@@ -17,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-06T03:55:58.253035+05:30'
-last_seen: '2026-08-06T03:55:58.253035+05:30'
-last_checked: '2026-08-06T03:55:58.253035+05:30'
+first_seen: '2026-08-06T09:10:28.381291+05:30'
+last_seen: '2026-08-06T09:10:28.381291+05:30'
+last_checked: '2026-08-06T09:10:28.381291+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, enhancing contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity, relation, subgraph) and semantic aggregation for improved context relevance.
 
-- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval mechanism to progressively narrow down and extract the most pertinent data from the knowledge graph, optimizing both precision and recall.
+- **Efficiency Optimizations**: Leverages lightweight graph traversal and pruning techniques to reduce retrieval latency while maintaining high accuracy in downstream generation tasks.
 
-- **Efficiency Optimization**: Designed for AAAI 2026, the framework emphasizes lightweight, scalable architecture (Python-based) to balance computational efficiency with high-performance RAG (Retrieval-Augmented Generation) capabilities.
+- **Python Implementation**: Provides modular, open-source codebase with dependencies on PyTorch/DGL for graph processing and HuggingFace Transformers for LLM integration.
 
 ## Why It Matters
 

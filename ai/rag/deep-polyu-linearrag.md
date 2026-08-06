@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-06T03:55:58.245551+05:30'
+collected_at: '2026-08-06T09:10:28.398004+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 530
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-06T03:55:58.245551+05:30'
-last_seen: '2026-08-06T03:55:58.245551+05:30'
-last_checked: '2026-08-06T03:55:58.245551+05:30'
+first_seen: '2026-08-06T09:10:28.398004+05:30'
+last_seen: '2026-08-06T09:10:28.398004+05:30'
+last_checked: '2026-08-06T09:10:28.398004+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Introduces a novel Linear Graph Retrieval Augmented Generation (LinearRAG) method for large-scale corpora, optimizing graph-based retrieval for efficiency and scalability in LLM applications.
-- **ICLR 2026 Contribution**: Proposes a linear-time graph retrieval mechanism, reducing computational overhead while maintaining retrieval accuracy for augmented generation tasks.
-- **Python Implementation**: Provides an open-source Python library for LinearRAG, supporting graph-based RAG workflows with modular components for integration with LLMs and retrieval systems.
+- Introduces **LinearRAG**, an ICLR 2026 framework optimizing **Graph Retrieval-Augmented Generation (GraphRAG)** for large-scale corpora via linear graph traversal, reducing computational overhead compared to traditional RAG methods.
+
+- Implements **linear-time graph retrieval** by leveraging adjacency matrix sparsity and approximate nearest neighbor (ANN) search, enabling scalable inference on billion-scale document graphs.
+
+- Provides a **Python-based toolkit** with modular components for graph construction, retrieval, and generation, supporting integration with LLMs for enhanced factual grounding and contextual relevance.
 
 ## Why It Matters
 

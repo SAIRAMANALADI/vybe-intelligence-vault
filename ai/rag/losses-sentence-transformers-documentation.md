@@ -3,9 +3,9 @@ title: Losses — Sentence Transformers documentation
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://sbert.net/docs/package_reference/sentence_transformer/losses.html#multiplenegativesrankingloss
-published_at: '2026-08-05T22:34:49.429652+05:30'
-collected_at: '2026-08-05T22:34:49.429669+05:30'
+source_url: https://sbert.net/docs/package_reference/sentence_transformer/losses.html#matryoshkaloss
+published_at: '2026-08-06T09:15:58.321450+05:30'
+collected_at: '2026-08-06T09:15:58.321466+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,13 +16,12 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:losses-sentence-transformers-documentation
-first_seen: '2026-08-05T22:34:49.429669+05:30'
-last_seen: '2026-08-05T22:34:49.429669+05:30'
-last_checked: '2026-08-05T22:34:49.429669+05:30'
+first_seen: '2026-08-06T09:15:58.321466+05:30'
+last_seen: '2026-08-06T09:15:58.321466+05:30'
+last_checked: '2026-08-06T09:15:58.321466+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source) with optional CUDA-accelerated PyTorch; editable installs available for development.
+- **Installation Options**: Supports installation via `uv`, `pip`, `conda`, from source, editable mode, and PyTorch with CUDA support for GPU acceleration.
 
-- **Model Types & Workflows**: Implements `SentenceTransformer` (bi-encoder), `CrossEncoder` (cross-attention), and `SparseEncoder`; includes semantic search, retrieval-re-ranking, clustering, and multimodal (image/text) applications.
+- **Migration Guide**: Major API changes from v2.x to v5.4+, including renamed parameters (`max_length` → `max_seq_length`, `tokenizer` → `processing_class`), deprecated `tags` in `push_to_hub`, and default pooling for CausalLM models.
 
-- **Training & Optimization**: Provides structured training pipelines with modular components (loss functions, evaluators, callbacks); supports quantization (binary/int8), ONNX/OpenVINO inference, and MTEB benchmark evaluation for performance optimization.
+- **Sentence Transformer Capabilities**: Enables semantic search, clustering (k-Means/Agglomerative), paraphrase mining, multimodal (image/text) embeddings, quantization (binary/int8), and custom model creation with MTEB evaluation support.
 
 ## Why It Matters
 
@@ -44,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T22:34:49.429652+05:30
+- Published: 2026-08-06T09:15:58.321450+05:30
 
 ## Related Tags
 
@@ -57,9 +56,8 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source
 
-Original source: https://sbert.net/docs/package_reference/sentence_transformer/losses.html#multiplenegativesrankingloss
+Original source: https://sbert.net/docs/package_reference/sentence_transformer/losses.html#matryoshkaloss

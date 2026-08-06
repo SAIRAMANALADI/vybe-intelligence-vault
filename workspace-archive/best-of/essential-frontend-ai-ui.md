@@ -8,6 +8,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`nangeplus-crewaitest.md`](../../ai/agents/nangeplus-crewaitest.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [reliverse/relivator](https://github.com/reliverse/relivator)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`reliverse-relivator.md`](../../web-development/nextjs/reliverse-relivator.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-06 04:12 IST*
+*Last updated: 2026-08-06 09:26 IST*

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-06T03:55:13.133364+05:30'
+collected_at: '2026-08-06T09:09:43.314516+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- workflows
 stars: 36
 language: Java
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-06T03:55:13.133364+05:30'
-last_seen: '2026-08-06T03:55:13.133364+05:30'
-last_checked: '2026-08-06T03:55:13.133364+05:30'
+first_seen: '2026-08-06T09:09:43.314516+05:30'
+last_seen: '2026-08-06T09:09:43.314516+05:30'
+last_checked: '2026-08-06T09:09:43.314516+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of AI Q&A Systems**: Demonstrates a Spring AI-based question-answering system leveraging **Server-Sent Events (SSE) streaming**, **Agent-based workflows**, and **Retrieval-Augmented Generation (RAG)** with knowledge graphs for real-time responses.
-- **Multi-Modal Capabilities**: Supports **image generation/understanding**, **function calling**, and **historical message handling** via **Embedding models** and **vector databases** (e.g., Chroma, Milvus) for contextual retrieval.
-- **Alibaba Cloud Integration**: Utilizes **Alibaba Cloud AI services** (e.g., Tongyi Qianwen, DashScope) for **embedding generation**, **vector storage**, and **RAG pipelines**, with Java-based Spring Boot architecture for scalable deployment.
+- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (Embedding), knowledge graphs, and function calling for contextual AI responses, supporting text, image generation/understanding, and historical message context.
+
+- **Agentic Architecture**: Deploys AI agents with Server-Sent Events (SSE) streaming for real-time interaction, integrating custom tools (FunctionCall) and dynamic knowledge retrieval.
+
+- **Spring AI + Alibaba Stack**: Built on Spring AI framework with Alibaba Cloud services, leveraging Java for scalable microservices, vector search (e.g., Milvus/Weaviate), and LLM orchestration.
 
 ## Why It Matters
 

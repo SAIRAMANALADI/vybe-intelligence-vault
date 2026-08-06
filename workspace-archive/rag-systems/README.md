@@ -11,11 +11,11 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------) (framework - ESSENTIAL Tier)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) (framework - ESSENTIAL Tier)
-- [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/) (dataset - ESSENTIAL Tier)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (framework - ESSENTIAL Tier)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (benchmark - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
+- [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/microsoft/graphrag (GraphRAG)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-08-06 04:11 IST*
+*Last updated: 2026-08-06 09:26 IST*

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agentuniverse-ai/agentUniverse
-collected_at: '2026-08-06T03:57:53.345636+05:30'
+collected_at: '2026-08-06T09:12:23.515451+05:30'
 published_at: '2026-08-05T09:05:43Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 2318
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-04-23T11:28:18Z'
 pushed_at: '2026-07-28T08:18:07Z'
 resource_id: github:agentuniverse-ai/agentuniverse
-first_seen: '2026-08-06T03:57:53.345636+05:30'
-last_seen: '2026-08-06T03:57:53.345636+05:30'
-last_checked: '2026-08-06T03:57:53.345636+05:30'
+first_seen: '2026-08-06T09:12:23.515451+05:30'
+last_seen: '2026-08-06T09:12:23.515451+05:30'
+last_checked: '2026-08-06T09:12:23.515451+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent LLM framework**: Python-based open-source tool enabling developers to construct and deploy multi-agent AI systems leveraging LLMs for autonomous task execution and coordination.
-
-- **Modular architecture**: Supports customizable agent components, workflows, and interactions, facilitating scalable and flexible multi-agent application development.
-
-- **Active development**: Last updated in August 2026, with 2,318 stars and 416 forks, indicating a growing community and ongoing enhancements.
+- **Multi-agent LLM Framework**: `agentUniverse` is a Python-based framework enabling developers to construct multi-agent applications leveraging LLMs for autonomous task execution and coordination.
+- **Modular Architecture**: Supports extensible agent design with customizable behaviors, tools, and communication protocols for scalable AI agent systems.
+- **Active Development**: Last updated in August 2026, the repository includes 2,318 stars and 417 forks, reflecting a growing community and continuous enhancements.
 
 ## Why It Matters
 
@@ -44,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: agentuniverse-ai
 - Stars: 2318
-- Forks: 416
+- Forks: 417
 - Language: Python
 - Topics: agent, ai, ai-agents, autonomous, awesome, awesome-list, llm, multi-agent, python
 - Last Updated: 2026-08-05T09:05:43Z

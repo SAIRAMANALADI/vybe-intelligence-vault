@@ -4,22 +4,21 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huggingface/kernels-community
-collected_at: '2026-08-05T14:37:06.011858+05:30'
-published_at: '2026-08-05T09:02:44Z'
+collected_at: '2026-08-06T09:18:21.576341+05:30'
+published_at: '2026-08-05T14:08:09Z'
 tags:
 - c++
 - github-repo
-- hackernews
 stars: 136
 language: C++
 status: active
 archived: false
 created_at: '2025-10-07T12:00:20Z'
-pushed_at: '2026-08-05T09:01:20Z'
+pushed_at: '2026-08-06T03:27:37Z'
 resource_id: github:huggingface/kernels-community
-first_seen: '2026-08-05T14:37:06.011858+05:30'
-last_seen: '2026-08-05T14:37:06.011858+05:30'
-last_checked: '2026-08-05T14:37:06.011858+05:30'
+first_seen: '2026-08-06T09:18:21.576341+05:30'
+last_seen: '2026-08-06T09:18:21.576341+05:30'
+last_checked: '2026-08-06T09:18:21.576341+05:30'
 health_score: 100
 ---
 
@@ -27,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Provides kernel sources for Hugging Face's `kernels-community` project, likely optimizing or extending ML/DL kernel operations.
-- **Technical Details**: Implemented in C++ with 136 stars and 60 forks as of the last update (2026-08-05).
-- **Status**: Actively maintained with the latest commit timestamped 2026-08-05T09:02:44Z.
+- **Repository Overview**: Hosts kernel sources for Hugging Face's `kernels-community` project, primarily implemented in C++.
+- **Metadata**: 136 stars, 62 forks, last updated on 2026-08-05.
+- **Purpose**: Provides optimized kernel implementations for Hugging Face's ecosystem, though specific functionality is not detailed in the provided metadata.
 
 ## Why It Matters
 
@@ -39,13 +38,13 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: huggingface
 - Stars: 136
-- Forks: 60
+- Forks: 62
 - Language: C++
 - Topics: None
-- Last Updated: 2026-08-05T09:02:44Z
+- Last Updated: 2026-08-05T14:08:09Z
 - Archived: No
 - Created At: 2025-10-07T12:00:20Z
-- Pushed At: 2026-08-05T09:01:20Z
+- Pushed At: 2026-08-06T03:27:37Z
 
 ## Possible Use Cases
 

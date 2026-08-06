@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Video Tutorials**: 8 how-to videos covering bulk article ordering, PubMed/PDF ordering, rights checking, workflow management, reference management, browser extension, and Word citation tools via YouTube.
-- **PDF Quick Reference Guides**: 3 downloadable guides for accessing papers from discovery portals, dashboard usage, and ordering with publisher tokens.
-- **Support Resources**: Centralized help center with ticketing system, categorized topics, and release notes for Research Solutions platf
+- **Video Tutorials**: 8 how-to videos covering bulk article ordering, PubMed/document ordering, re-use rights verification, workflow management (AG Admin), reference management (AG References), browser extension integration, and Word citation tools.
+- **PDF Quick Reference Guides**: 3 downloadable guides detailing access to papers via discovery portals, dashboard navigation, and token-based ordering.
+- **Support Channels**: Centralized help center with ticketing, request submission, and categor
 
 ## Use Cases
 

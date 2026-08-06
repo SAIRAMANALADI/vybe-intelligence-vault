@@ -3,9 +3,9 @@ title: AI for Research | Scite
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.scite.ai/
-published_at: '2026-08-06T01:34:12.644805+05:30'
-collected_at: '2026-08-06T01:34:12.644815+05:30'
+source_url: https://scite.ai/
+published_at: '2026-08-06T09:18:39.072040+05:30'
+collected_at: '2026-08-06T09:18:39.072053+05:30'
 tags:
 - anthropic
 - dataset
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-for-research-scite
-first_seen: '2026-08-06T01:34:12.644815+05:30'
-last_seen: '2026-08-06T01:34:12.644815+05:30'
-last_checked: '2026-08-06T01:34:12.644815+05:30'
+first_seen: '2026-08-06T09:18:39.072053+05:30'
+last_seen: '2026-08-06T09:18:39.072053+05:30'
+last_checked: '2026-08-06T09:18:39.072053+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Database & Coverage**: Aggregates 300M+ scholarly items (articles, preprints, patents, datasets) with full-text search across 40+ publisher agreements, enabling access beyond abstracts and paywalls.
-- **Smart Citation Analysis**: Uses 1.6B+ indexed citations to classify later research as supporting, contradicting, or discussing prior claims, providing verifiable evidence signals for claims.
-- **AI Integration & Verification**: Deployed via MCP (e.g., Claude/ChatGPT), Zotero, and API; every AI-generated answer links to specific paper sentences for one-click verification and citation integrity.
+- **Database & Coverage**: Scite indexes 1.6B+ citations across 300M+ articles, preprints, books, patents, datasets, and clinical trials, with direct publisher agreements (e.g., Wiley, SAGE) enabling full-text search beyond abstracts.
+- **Smart Citations & AI Verification**: Provides contextual citation analysis (supporting/contradicting/mentioning) and AI-generated answers grounded in verifiable paper excerpts, linking claims directly to source sentences for traceability.
+- **Integration & Workflow**: Deployable via API, MCP-compatible tools (Claude/ChatGPT), Zotero plugin, and browser extensions, enabling seamless adoption without workflow disruption.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T01:34:12.644805+05:30
+- Published: 2026-08-06T09:18:39.072040+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.scite.ai/
+Original source: https://scite.ai/

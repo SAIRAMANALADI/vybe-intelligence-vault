@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-06T03:57:38.286144+05:30'
+collected_at: '2026-08-06T09:12:08.457842+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
 - rag
-- scripts
 - shell
 - workflows
 stars: 542
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-07-31T11:24:38Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-06T03:57:38.286144+05:30'
-last_seen: '2026-08-06T03:57:38.286144+05:30'
-last_checked: '2026-08-06T03:57:38.286144+05:30'
+first_seen: '2026-08-06T09:12:08.457842+05:30'
+last_seen: '2026-08-06T09:12:08.457842+05:30'
+last_checked: '2026-08-06T09:12:08.457842+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in `n8n`, leveraging adaptive Retrieval-Augmented Generation (RAG) for dynamic memory management and task execution.
-
-- **Core Features**: Supports Skills via MCP (Model Context Protocol) templates, Expert Agents with delegated sub-agents, proactive task orchestration, and media understanding capabilities, all self-hosted via a single setup script.
-
-- **Integration Stack**: Combines `Crawl4AI` for scraping, `SearXNG` for search, and `Supabase` for data storage, enabling modular AI agent workflows with extensible MCP-based skill templates.
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **Adaptive RAG** for memory management, **MCP templates** for skill acquisition, and **delegated sub-agents** for expert task handling.
+- **Proactive task management** with **media understanding** capabilities, self-hosted via a **single setup script**, integrating tools like **Crawl4AI**, **SearXNG**, and **Supabase**.
+- **Shell-based** repository (542⭐, 105🍴) focused on **AI agent frameworks**, **Model Context Protocol (MCP)**, and **autonomous workflows**, last updated **2026-08-01**.
 
 ## Why It Matters
 

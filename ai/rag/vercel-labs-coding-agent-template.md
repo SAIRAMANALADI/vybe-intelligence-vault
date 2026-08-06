@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-08-06T03:56:28.262338+05:30'
-published_at: '2026-08-05T14:40:34Z'
+collected_at: '2026-08-06T09:10:58.401764+05:30'
+published_at: '2026-08-06T03:21:52Z'
 tags:
 - agents
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-07-30T00:17:35Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-08-06T03:56:28.262338+05:30'
-last_seen: '2026-08-06T03:56:28.262338+05:30'
-last_checked: '2026-08-06T03:56:28.262338+05:30'
+first_seen: '2026-08-06T09:10:58.401764+05:30'
+last_seen: '2026-08-06T09:10:58.401764+05:30'
+last_checked: '2026-08-06T09:10:58.401764+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI system leveraging Vercel Sandbox for isolated execution environments and AI Gateway for unified AI model access.
-- **Tech Stack**: Built in TypeScript, integrating Vercel's serverless and AI infrastructure for scalable agent-based workflows.
-- **Use Case**: Template for deploying autonomous coding agents with sandboxed execution and AI model orchestration via Vercel's platform.
+- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for optimized LLM interactions.
+- **Tech Stack**: Built in TypeScript, integrates with Vercel’s infrastructure for scalable, serverless agent orchestration.
+- **Use Case**: Enables autonomous or collaborative AI-driven code generation, debugging, and repository management via agent-based workflows.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 292
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-05T14:40:34Z
+- Last Updated: 2026-08-06T03:21:52Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

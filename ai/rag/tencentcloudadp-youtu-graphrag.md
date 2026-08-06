@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-06T03:55:58.239373+05:30'
+collected_at: '2026-08-06T09:10:28.373522+05:30'
 published_at: '2026-08-05T09:20:35Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-06T03:55:58.239373+05:30'
-last_seen: '2026-08-06T03:55:58.239373+05:30'
-last_checked: '2026-08-06T03:55:58.239373+05:30'
+first_seen: '2026-08-06T09:10:28.373522+05:30'
+last_seen: '2026-08-06T09:10:28.373522+05:30'
+last_checked: '2026-08-06T09:10:28.373522+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., graph agents, retrieval agents, reasoning agents) collaborate hierarchically to decompose and solve complex reasoning tasks via graph-based RAG.
 
-- **Graph Retrieval-Augmented Architecture**: Integrates graph-based retrieval with large language models (LLMs) to enhance factual grounding and multi-hop reasoning, improving accuracy in knowledge-intensive tasks.
+- **Graph-Centric RAG Pipeline**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically construct and traverse knowledge graphs, enabling efficient contextual retrieval and multi-hop reasoning.
 
-- **Modular Python Implementation**: Provides an open-source Python library with extensible components for graph construction, agent orchestration, and retrieval-augmented reasoning, optimized for scalability and adaptability.
+- **ICLR 2026 Contribution**: Proposes a novel architecture for complex reasoning by vertically integrating agents with graph-structured memory, achieving state-of-the-art performance on tasks requiring deep logical inference and factual grounding.
 
 ## Why It Matters
 

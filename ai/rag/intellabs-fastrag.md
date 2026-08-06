@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-08-06T03:55:33.205634+05:30'
+collected_at: '2026-08-06T09:10:03.413172+05:30'
 published_at: '2026-08-02T03:30:43Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 1784
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-08-06T03:55:33.205634+05:30'
-last_seen: '2026-08-06T03:55:33.205634+05:30'
-last_checked: '2026-08-06T03:55:33.205634+05:30'
+first_seen: '2026-08-06T09:10:03.413172+05:30'
+last_seen: '2026-08-06T09:10:03.413172+05:30'
+last_checked: '2026-08-06T09:10:03.413172+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval-Augmented Generation (RAG) optimized for low-latency, high-throughput applications, supporting multi-modal, knowledge-graph, and transformer-based pipelines.
+- **Framework Overview**: FastRAG is an efficient, modular Python framework for **Retrieval-Augmented Generation (RAG)** optimized for speed and scalability, supporting **multi-modal** inputs (text, knowledge graphs) and **diffusion-based** generative models.
 
-- **Key Features**: Integrates state-of-the-art retrieval (e.g., ColBERT, sentence-transformers) and generative models (e.g., diffusion, LLMs) with built-in support for semantic search, summarization, and question-answering benchmarks.
+- **Key Components**: Integrates **ColBERT** for dense retrieval, **sentence-transformers** for semantic search, and **transformers** for LLM-based QA/summarization, with built-in **benchmarking** tools for evaluating retrieval and generation performance.
 
-- **Performance Focus**: Designed for scalability and efficiency, leveraging Intel’s optimizations for hardware-accelerated inference and retrieval in generative AI workflows.
+- **Optimizations**: Leverages **Intel’s hardware acceleration** (e.g., AVX-512, oneDNN) for low-latency inference, supports **distributed retrieval**, and includes **dynamic routing** for adaptive query processing.
 
 ## Why It Matters
 

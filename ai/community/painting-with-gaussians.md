@@ -13,13 +13,14 @@ collected_at: '2026-08-06T03:53:29.512460+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:painting-with-gaussians
 first_seen: '2026-08-05T22:25:38.978167+05:30'
 last_seen: '2026-08-06T03:53:29.512460+05:30'
 last_checked: '2026-08-06T03:53:29.512460+05:30'
 health_score: 100
 ---
+
 
 # Painting with Gaussians
 

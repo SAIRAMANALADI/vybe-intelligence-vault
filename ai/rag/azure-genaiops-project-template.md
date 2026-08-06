@@ -4,12 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-06T03:54:43.106110+05:30'
+collected_at: '2026-08-06T09:09:13.347628+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
+- benchmark
 - bicep
 - github-repo
+- openai
 - rag
+- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -19,9 +22,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-06T03:54:43.106110+05:30'
-last_seen: '2026-08-06T03:54:43.106110+05:30'
-last_checked: '2026-08-06T03:54:43.106110+05:30'
+first_seen: '2026-08-06T09:09:13.347628+05:30'
+last_seen: '2026-08-06T09:09:13.347628+05:30'
+last_checked: '2026-08-06T09:09:13.347628+05:30'
 health_score: 100
 ---
 
@@ -29,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a **Bicep**-based infrastructure-as-code template for deploying **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) projects** on Azure.
-- **Key Components**: Includes **Bicep modules** for provisioning Azure resources (e.g., AI services, storage, networking) required for RAG pipelines.
-- **Deployment**: Enables **automated, repeatable GenAIOps workflows** with Azure-native tooling (e.g., Azure CLI, Bicep CLI) for scalable RAG applications.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Ops (GenAIOps) project, enabling automated provisioning of Azure resources for Retrieval-Augmented Generation (RAG) workflows.
+
+- **RAG Pipeline Integration**: Pre-configured to deploy Azure services (e.g., Azure AI Search, Azure OpenAI) for implementing RAG patterns, facilitating context-aware generative AI applications.
+
+- **Ops-Ready Design**: Includes monitoring, logging, and CI/CD-ready components (via GitHub Actions) to support GenAIOps practices like model deployment, evaluation, and lifecycle management.
 
 ## Why It Matters
 

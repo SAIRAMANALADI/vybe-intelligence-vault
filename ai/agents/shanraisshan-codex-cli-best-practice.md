@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-06T03:56:48.234928+05:30'
+collected_at: '2026-08-06T09:11:18.413331+05:30'
 published_at: '2026-08-04T12:21:57Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
-- scripts
 - workflows
 stars: 954
 language: Python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-06T03:56:48.234928+05:30'
-last_seen: '2026-08-06T03:56:48.234928+05:30'
-last_checked: '2026-08-06T03:56:48.234928+05:30'
+first_seen: '2026-08-06T09:11:18.413331+05:30'
+last_seen: '2026-08-06T09:11:18.413331+05:30'
+last_checked: '2026-08-06T09:11:18.413331+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from vibe coding to structured agentic engineering using Codex CLI, emphasizing systematic AI-agent workflows for code generation and automation.
+- **Agentic Workflow Integration**: Demonstrates transition from traditional "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular hooks (`codex-hooks`) and context-engineering for scalable AI-driven development.
 
-- **CLI-Centric Best Practices**: Provides a curated set of Codex CLI commands, skills, and hooks for optimizing AI-agent interactions, context engineering, and task execution in Python-based environments.
+- **CLI-Centric Best Practices**: Provides a curated set of `codex-cli-commands` and `skills` for OpenAI Codex, optimizing multi-agent collaboration, skill chaining, and dynamic context injection in Python-based workflows.
 
-- **Open-Source Contribution**: Open-source project (954 stars, 64 forks) serving as a reference for Pakistani developers and AI practitioners to implement scalable, agent-driven coding practices with OpenAI's Codex.
+- **Pakistan-Centric Developer Resource**: Repository serves as a localized hub (`pakistani-developer`) for agentic AI practices, including CLI command patterns, hooks for real-time feedback, and OpenAI Codex optimization tailored for regional development needs.
 
 ## Why It Matters
 

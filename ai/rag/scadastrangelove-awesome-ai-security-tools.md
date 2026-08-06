@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/scadastrangelove/awesome-ai-security-tools
-collected_at: '2026-08-06T03:57:23.255996+05:30'
-published_at: '2026-08-05T22:01:33Z'
+collected_at: '2026-08-06T09:11:53.452903+05:30'
+published_at: '2026-08-06T03:36:05Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
-stars: 960
+stars: 966
 language: Python
 status: active
 license: NOASSERTION
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-05-27T12:52:20Z'
 pushed_at: '2026-08-05T07:07:44Z'
 resource_id: github:scadastrangelove/awesome-ai-security-tools
-first_seen: '2026-08-06T03:57:23.255996+05:30'
-last_seen: '2026-08-06T03:57:23.255996+05:30'
-last_checked: '2026-08-06T03:57:23.255996+05:30'
+first_seen: '2026-08-06T09:11:53.452903+05:30'
+last_seen: '2026-08-06T09:11:53.452903+05:30'
+last_checked: '2026-08-06T09:11:53.452903+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Scope**: Curated repository of open-source, research, and commercial tools for AI security and AI-assisted cybersecurity, covering autotriage, agent security, AI/ML supply chain risks, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, and LLM red-teaming.
+- **Comprehensive AI Security Toolkit**: Curated repository featuring public-source, research, and commercial tools spanning autotriage, agent security, AI/ML supply chain risks, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, and LLM red-teaming.
 
-- **Technical Focus**: Tools leverage agentic AI, LLM integration, and automation for security tasks, including pentesting, static analysis (SAST), dynamic analysis (fuzzing), and threat detection/response.
+- **Multi-Domain Coverage**: Includes tools for AI-assisted cybersecurity, such as SOC/SIEM triage, pentest automation, and LLM-based red-teaming, alongside traditional security domains like reverse engineering and threat intelligence.
 
-- **Metadata**: 960 stars, 227 forks, primarily Python-based, last updated August 5, 2026; categorized under `agentic-ai`, `llm`, and `security`.
+- **Python-Centric & Actively Maintained**: Primarily Python-based repository with 966 stars, 229 forks, and last updated in August 2026, ensuring relevance in rapidly evolving AI security landscape.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: scadastrangelove
-- Stars: 960
-- Forks: 227
+- Stars: 966
+- Forks: 229
 - Language: Python
 - Topics: agentic-ai, agents, awesome, awesome-list, awesome-lists, llm, security
-- Last Updated: 2026-08-05T22:01:33Z
+- Last Updated: 2026-08-06T03:36:05Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2026-05-27T12:52:20Z

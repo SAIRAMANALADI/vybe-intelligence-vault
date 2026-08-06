@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://jinheonbaek.github.io
-published_at: '2026-07-18T16:53:12.559440+05:30'
-collected_at: '2026-07-18T16:53:12.559446+05:30'
+published_at: '2026-08-06T09:14:49.558451+05:30'
+collected_at: '2026-08-06T09:14:49.558468+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:jinheon-baek-homepage
-first_seen: '2026-07-18T16:53:12.559446+05:30'
-last_seen: '2026-07-18T16:53:12.559446+05:30'
-last_checked: '2026-07-18T16:53:12.559446+05:30'
+first_seen: '2026-08-06T09:14:49.558468+05:30'
+last_seen: '2026-08-06T09:14:49.558468+05:30'
+last_checked: '2026-08-06T09:14:49.558468+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Research Focus**: Specializes in machine learning for language, knowledge, and their intersections at scale, with expertise in modeling interconnected data structures (texts and graphs) and retrieval-augmented language models for practical NLP applications.
-
-- **Key Contributions**: Developed **OmniRetrieval** (unified retrieval across heterogeneous knowledge sources) and **UniversalRAG** (retrieval-augmented generation over diverse modalities), alongside contributions to **Adaptive-RAG** (complexity-aware retrieval) and **Knowledge-Augmented Language Models** for zero-shot KGQA and dialogue generation.
-
-- **Publication Record**: Authored 40+ papers in top-tier venues (ACL, NeurIPS, EMNLP, ICLR, NAACL), including a **Best Paper at NAACL 2025** and **Most Influential NAACL Paper (2026)**, with prior industry research internships at Google DeepMind, IBM, Microsoft, and Amazon.
+- **Research Focus**: Specializes in machine learning for language, knowledge, and their intersections at scale, with emphasis on modeling interconnected data structures (texts and graphs) and retrieval-augmented language models for practical NLP applications.
+- **Key Publications**: Authored/co-authored 30+ papers in top-tier venues (ACL, NeurIPS, EMNLP, ICLR, NAACL) including *OmniRetrieval* (unified retrieval across heterogeneous sources), *Adaptive-RAG* (complexity-aware retrieval), and *Knowledge-Augmented Language Model Verification*.
+- **Industry & Academic Experience**: Research internships at Google DeepMind, IBM Research, Microsoft Research, and Amazon Alexa AI; Ph.D. (2026) and M.S. (2022) in AI from KAIST; B.S. in CS from Korea University.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:53:12.559440+05:30
+- Published: 2026-08-06T09:14:49.558451+05:30
 
 ## Related Tags
 

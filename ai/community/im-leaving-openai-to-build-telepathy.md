@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:im-leaving-openai-to-build-telepathy
 first_seen: '2026-08-06T01:27:51.355072+05:30'
 last_seen: '2026-08-06T03:53:29.306784+05:30'
 last_checked: '2026-08-06T03:53:29.306784+05:30'
 health_score: 100
 ---
+
 
 # I’m leaving OpenAI to build telepathy
 

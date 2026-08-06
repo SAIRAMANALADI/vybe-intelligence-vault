@@ -20,11 +20,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
@@ -33,15 +28,15 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------)
+### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`yigtwxx-awesome-rag-production.md`](../../ai/rag/yigtwxx-awesome-rag-production.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [weaviate/Verba](https://github.com/weaviate/Verba)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
@@ -53,20 +48,25 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`zilliztech-milvus-cli.md`](../../ai/rag/zilliztech-milvus-cli.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [huggingface/hub-docs](https://github.com/huggingface/hub-docs)
 - **Category**: `ai/resources` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`huggingface-hub-docs.md`](../../ai/resources/huggingface-hub-docs.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/)
+### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `88` | **Path**: [`rag-techniques-zero-to-hero-a-complete-guide-marti.md`](../../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
+- **Score**: `88` | **Path**: [`rag-application-tutorial-2025-build-production-rea.md`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245)
+- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `88` | **Path**: [`arxiv-2407-18245.md`](../../ai/research/arxiv-2407-18245.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-06 04:12 IST*
+*Last updated: 2026-08-06 09:26 IST*

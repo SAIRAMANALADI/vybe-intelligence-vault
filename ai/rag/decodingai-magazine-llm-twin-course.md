@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-06T03:55:13.217028+05:30'
+collected_at: '2026-08-06T09:09:43.373877+05:30'
 published_at: '2026-08-02T02:34:01Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 4380
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-06T03:55:13.217028+05:30'
-last_seen: '2026-08-06T03:55:13.217028+05:30'
-last_checked: '2026-08-06T03:55:13.217028+05:30'
+first_seen: '2026-08-06T09:09:43.373877+05:30'
+last_seen: '2026-08-06T09:09:43.373877+05:30'
+last_checked: '2026-08-06T09:09:43.373877+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End LLM & RAG System Development**: Course provides hands-on guidance for building production-ready large language model (LLM) and retrieval-augmented generation (RAG) systems using LLMOps best practices, including 12 structured lessons and source code.
-
-- **MLOps & Infrastructure Tooling**: Covers MLOps, infrastructure-as-code (IaC) with Pulumi, Docker for containerization, and AWS for deployment, alongside tools like Bytewax, Comet-ML, Qdrant, Qwak, and Superlinked for model serving and vector databases.
-
-- **Generative AI & System Design Focus**: Emphasizes generative AI, ML system design, and practical implementation of LLMOps pipelines, with topics spanning RAG optimization, ML engineering, and scalable AI infrastructure.
+- **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
+- **Technical Stack**: Utilizes Python with AWS, Bytewax, Comet-ML, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, MLOps, and generative AI workflows.
+- **Deployment & Scalability**: Emphasizes Docker for containerization and integrates infrastructure-as-code (Pulumi) for scalable, cloud-native LLM system deployment.
 
 ## Why It Matters
 

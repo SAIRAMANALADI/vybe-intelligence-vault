@@ -4,10 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-06T03:56:03.193753+05:30'
+collected_at: '2026-08-06T09:10:33.407268+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 174
@@ -18,9 +21,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-06T03:56:03.193753+05:30'
-last_seen: '2026-08-06T03:56:03.193753+05:30'
-last_checked: '2026-08-06T03:56:03.193753+05:30'
+first_seen: '2026-08-06T09:10:33.407268+05:30'
+last_seen: '2026-08-06T09:10:33.407268+05:30'
+last_checked: '2026-08-06T09:10:33.407268+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **UniversalRAG Framework**: Introduces a retrieval-augmented generation (RAG) system designed to handle corpora with diverse modalities (text, images, tables) and granularities (document-level to fine-grained spans) via a unified architecture.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends retrieval-augmented generation (RAG) to handle diverse data modalities (text, images, tables, etc.) and granularities (documents, paragraphs, entities) within a unified architecture, enabling seamless integration of heterogeneous corpora.
 
-- **Modality-Agnostic Retrieval**: Implements a modality-agnostic retriever that encodes heterogeneous data into a shared embedding space, enabling cross-modal retrieval and fusion for LLM augmentation.
+- **Modality-Agnostic Retrieval & Generation**: Implements a unified retrieval mechanism (e.g., via cross-modal embeddings or modality-specific encoders) and a generative model fine-tuned to process retrieved content regardless of modality, leveraging modality-agnostic representations.
 
-- **Granularity-Aware Chunking**: Proposes adaptive chunking strategies to dynamically segment corpora at optimal granularities, balancing context retention and retrieval efficiency for multimodal inputs.
+- **ACL 2026 Oral Contribution**: Proposes novel techniques for dynamic modality selection, granularity-aware retrieval, and adaptive fusion of retrieved information, validated on benchmark datasets spanning multiple modalities and granularities.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/muhammad-uzair-yasin/CrewAi_starter_template
-collected_at: '2026-08-06T03:58:23.332826+05:30'
+collected_at: '2026-08-06T09:12:53.473505+05:30'
 published_at: '2025-09-09T15:50:32Z'
 tags:
 - agents
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-01-29T19:06:15Z'
 pushed_at: '2025-02-04T07:49:45Z'
 resource_id: github:muhammad-uzair-yasin/crewai_starter_template
-first_seen: '2026-08-06T03:58:23.332826+05:30'
-last_seen: '2026-08-06T03:58:23.332826+05:30'
-last_checked: '2026-08-06T03:58:23.332826+05:30'
+first_seen: '2026-08-06T09:12:53.473505+05:30'
+last_seen: '2026-08-06T09:12:53.473505+05:30'
+last_checked: '2026-08-06T09:12:53.473505+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based starter template for CrewAI, last updated on September 9, 2025.
-- **Metrics**: 7 stars and 4 forks, indicating minimal community adoption or engagement.
-- **Purpose**: No description provided, leaving functionality and intended use unclear.
+- **Repository Overview**: A starter template repository for **CrewAI** (a framework for orchestrating role-playing, autonomous AI agents) implemented in **Python**.
+- **Metadata**: Contains **7 stars** and **4 forks**, last updated on **2025-09-09**.
+- **Structure**: Minimal template with no additional topics or documentation provided.
 
 ## Why It Matters
 

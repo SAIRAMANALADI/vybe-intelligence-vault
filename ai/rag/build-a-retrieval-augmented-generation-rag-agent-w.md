@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-08-04T09:08:24.026329+05:30'
-collected_at: '2026-08-04T09:08:24.026339+05:30'
+published_at: '2026-08-06T09:08:55.864703+05:30'
+collected_at: '2026-08-06T09:08:55.864718+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-08-04T09:08:24.026339+05:30'
-last_seen: '2026-08-04T09:08:24.026339+05:30'
-last_checked: '2026-08-04T09:08:24.026339+05:30'
+first_seen: '2026-08-06T09:08:55.864718+05:30'
+last_seen: '2026-08-06T09:08:55.864718+05:30'
+last_checked: '2026-08-06T09:08:55.864718+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Architecture**: Implements a ReAct agent framework where the LLM dynamically decides between direct response or retrieval-based augmentation, activating the retrieval pipeline (via NVIDIA Nemotron models) only when additional context is required.
+- **Agentic RAG Architecture**: Implements a ReAct agent with dynamic tool-calling, integrating retrieval pipelines only when additional context is required, leveraging NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
 
-- **Core NVIDIA Nemotron Models**: Uses `Nemotron Nano 9b V2` for response generation, `Llama 3.2 EmbedQA 1b V2` for document embeddings, and `Llama 3.2 RerankQA 1b V2` for reranking retrieved documents to ensure relevance and accuracy.
+- **NVIDIA NIM Integration**: Utilizes NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic models), async operations, and enterprise-grade reliability, with the LLM configured via `ChatNVIDIA` for structured agentic workflows.
 
-- **LangGraph-Based Implementation**: Constructs a Retrieval Chain with a retriever tool, enabling the ReAct agent to iteratively search and refine knowledge base interactions for dynamic, context-aware responses.
+- **Knowledge Base Pipeline**: Employs a multi-stage retrieval process (embedding → vector DB search → reranking) with explicit grounding via system prompts to ensure responses are sourced from retrieved documents, citing knowledge base snippets (`[KB]`) and admitting uncertainty when insufficient data is available.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T09:08:24.026329+05:30
+- Published: 2026-08-06T09:08:55.864703+05:30
 
 ## Related Tags
 

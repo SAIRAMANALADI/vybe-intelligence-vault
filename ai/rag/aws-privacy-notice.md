@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://aws.amazon.com/privacy/?nc1=f_pr
-published_at: '2026-08-05T04:04:04.501180+05:30'
-collected_at: '2026-08-05T04:04:04.501195+05:30'
+published_at: '2026-08-06T09:17:28.311194+05:30'
+collected_at: '2026-08-06T09:17:28.311210+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:aws-privacy-notice
-first_seen: '2026-08-05T04:04:04.501195+05:30'
-last_seen: '2026-08-05T04:04:04.501195+05:30'
-last_checked: '2026-08-05T04:04:04.501195+05:30'
+first_seen: '2026-08-06T09:17:28.311210+05:30'
+last_seen: '2026-08-06T09:17:28.311210+05:30'
+last_checked: '2026-08-06T09:17:28.311210+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: AWS collects personal information directly from users (e.g., account details), automatically via interactions (e.g., logs, cookies), and from third-party sources (e.g., service providers, public records) for operational, compliance, and service improvement purposes.
-
-- **Data Sharing & Third-Party Access**: Personal data is shared with AWS affiliates, third-party service providers (bound by contractual obligations), and in business transfers (e.g., acquisitions), while adhering to legal requirements and fraud prevention protocols.
-
-- **Security & Compliance**: AWS enforces encryption (e.g., PCI DSS for payments), multi-layered safeguards (physical/electronic), and global compliance programs (e.g., GDPR, SOC) to protect data integrity and user privacy across jurisdictions.
+- **Data Collection Scope**: AWS collects personal information via user-provided data, automatic interactions (e.g., cookies, logs), and third-party sources for service delivery, fraud prevention, and marketing.
+- **Data Sharing & Security**: Personal data is shared with third-party service providers under strict contractual obligations, and AWS employs encryption, PCI DSS compliance, and multi-layered safeguards to secure data.
+- **User Control & Retention**: Users can access, update, or delete account data; AWS retains data as required by law or service needs, with opt-out options for communications and advertising.
 
 ## Why It Matters
 
@@ -40,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T04:04:04.501180+05:30
+- Published: 2026-08-06T09:17:28.311194+05:30
 
 ## Related Tags
 

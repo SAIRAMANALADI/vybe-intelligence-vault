@@ -4,9 +4,10 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://repost.aws/knowledge-center?nc1=f_dr
-published_at: '2026-08-05T04:02:28.941368+05:30'
-collected_at: '2026-08-05T04:02:28.941381+05:30'
+published_at: '2026-08-06T09:15:32.465937+05:30'
+collected_at: '2026-08-06T09:15:32.465950+05:30'
 tags:
+- agents
 - frontend_ui
 - hackernews
 - rag
@@ -17,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:discover-aws-official-knowledge-center-articles-aw
-first_seen: '2026-08-05T04:02:28.941381+05:30'
-last_seen: '2026-08-05T04:02:28.941381+05:30'
-last_checked: '2026-08-05T04:02:28.941381+05:30'
+first_seen: '2026-08-06T09:15:32.465950+05:30'
+last_seen: '2026-08-06T09:15:32.465950+05:30'
+last_checked: '2026-08-06T09:15:32.465950+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:ReplicateObject`, `s3:GetReplicationConfiguration`), incorrect bucket policy configurations, or replication timeouts due to large object sizes; verify destination bucket ownership and enable S3 Replication Time Control (SRT) for predictable latency.
+- **S3 Replication Failures**: Amazon S3 object replication may fail due to misconfigured IAM roles, incorrect bucket policies, or missing destination bucket permissions, even when replication rules are set up correctly.
 
-- **EC2 Connection Failures**: SSH/Linux instances may fail due to misconfigured security groups (missing inbound rules for port 22), incorrect key pair associations, or disabled `PasswordAuthentication` in `/etc/ssh/sshd_config`; Windows instances require valid RDP configurations and proper IAM roles for Session Manager.
+- **EC2 Instance Connection Errors**: SSH/RDP connection failures to EC2 instances often stem from misconfigured security groups, incorrect key pairs, or disabled SSM Agent, requiring validation of network ACLs and IAM instance profiles.
 
-- **Lambda Deployment Errors**: "InvalidParameterValueException" during ECR image deployments often stems from mismatched image architecture (e.g., ARM vs. x86), exceeding the 50MB zipped/250MB unzipped deployment package limit, or IAM permissions lacking `lambda:CreateFunction` and `ecr:GetDownloadUrlForLayer`.
+- **Lambda Deployment Issues**: Lambda function deployment errors (e.g., `InvalidParameterValueException`) can occur when container images from ECR exceed size limits or lack proper IAM permissions for ECR pull operations.
 
 ## Why It Matters
 
@@ -41,10 +42,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T04:02:28.941368+05:30
+- Published: 2026-08-06T09:15:32.465937+05:30
 
 ## Related Tags
 
+- agents
 - frontend_ui
 - hackernews
 - rag

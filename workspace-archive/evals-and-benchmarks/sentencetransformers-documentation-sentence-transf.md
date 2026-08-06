@@ -6,9 +6,9 @@ source_url: https://www.sbert.net
 resource_id: blog:sentencetransformers-documentation-sentence-transf
 local_vault_path: ai/rag/sentencetransformers-documentation-sentence-transf.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # SentenceTransformers Documentation — Sentence Transformers documentation
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
 - **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source, editable) with optional CUDA-enabled PyTorch for GPU acceleration.
-- **Core Functionality**: Provides `SentenceTransformer` (bi-encoder), `CrossEncoder` (cross-attention for re-ranking), and `SparseEncoder` for sparse embeddings, with optimized inference via PyTorch/ONNX/OpenVINO.
-- **Training & Evaluation**: Enables fine-tuning with customizable loss functions, datasets, and evaluators (e.g., MTEB)
+- **Core Components**: Provides `SentenceTransformer` (bi-encoder), `CrossEncoder` (cross-attention), and `SparseEncoder` for embeddings, with modular architecture for custom model creation.
+- **Training & Optimization**: Includes fine-tuning frameworks with dataset formatting, loss functions, and efficiency optimizations (PyTorch/ON
 
 ## Use Cases
 

@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/snyk/agent-scan
-collected_at: '2026-08-02T19:28:07.180175+05:30'
-published_at: '2026-08-02T09:42:27Z'
+collected_at: '2026-08-06T09:11:48.485242+05:30'
+published_at: '2026-08-06T02:55:03Z'
 tags:
 - agents
 - github-repo
 - python
-- workflows
-stars: 2851
+stars: 2871
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-04-07T14:31:26Z'
-pushed_at: '2026-07-28T19:31:54Z'
+pushed_at: '2026-08-05T16:37:07Z'
 resource_id: github:snyk/agent-scan
-first_seen: '2026-08-02T19:28:07.180175+05:30'
-last_seen: '2026-08-02T19:28:07.180175+05:30'
-last_checked: '2026-08-02T19:28:07.180175+05:30'
+first_seen: '2026-08-06T09:11:48.485242+05:30'
+last_seen: '2026-08-06T09:11:48.485242+05:30'
+last_checked: '2026-08-06T09:11:48.485242+05:30'
 health_score: 100
 ---
 
@@ -30,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
-- **Key Features**: Supports detection of security flaws in AI workflows, integrates with MCP (Model Context Protocol), and provides Python-based scanning capabilities.
-- **Repository Stats**: 2,851 stars, 253 forks, last updated on 2026-08-02.
+- **Key Features**: Supports static and dynamic analysis of agent interactions and MCP protocol implementations.
+- **Language/Tech**: Python-based, integrates with Snyk’s vulnerability database for real-time threat detection.
 
 ## Why It Matters
 
@@ -40,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: snyk
-- Stars: 2851
-- Forks: 253
+- Stars: 2871
+- Forks: 255
 - Language: Python
 - Topics: agent, ai, mcp, modelcontextprotocol, security
-- Last Updated: 2026-08-02T09:42:27Z
+- Last Updated: 2026-08-06T02:55:03Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-07T14:31:26Z
-- Pushed At: 2026-07-28T19:31:54Z
+- Pushed At: 2026-08-05T16:37:07Z
 
 ## Possible Use Cases
 

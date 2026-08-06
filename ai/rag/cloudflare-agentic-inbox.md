@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/agentic-inbox
-collected_at: '2026-08-06T03:58:03.351743+05:30'
-published_at: '2026-08-05T21:29:27Z'
+collected_at: '2026-08-06T09:12:33.488322+05:30'
+published_at: '2026-08-06T01:48:51Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 6734
+stars: 6736
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-04-10T00:26:27Z'
 pushed_at: '2026-04-23T21:04:17Z'
 resource_id: github:cloudflare/agentic-inbox
-first_seen: '2026-08-06T03:58:03.351743+05:30'
-last_seen: '2026-08-06T03:58:03.351743+05:30'
-last_checked: '2026-08-06T03:58:03.351743+05:30'
+first_seen: '2026-08-06T09:12:33.488322+05:30'
+last_seen: '2026-08-06T09:12:33.488322+05:30'
+last_checked: '2026-08-06T09:12:33.488322+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, entirely written in TypeScript.
-- **AI Integration**: Embedded AI agent for automated email processing, classification, and response generation within the client.
-- **Deployment**: Runs on Cloudflare’s edge network, ensuring low-latency access and minimal infrastructure overhead.
+- **Cloudflare Workers-based Email Client**: Self-hosted email client implemented entirely on Cloudflare Workers, leveraging serverless architecture for scalability and minimal latency.
+
+- **AI Agent Integration**: Incorporates an AI agent (likely using Cloudflare's AI models) for email processing, summarization, and automated responses within the inbox interface.
+
+- **TypeScript Implementation**: Built using TypeScript, ensuring type safety and leveraging Cloudflare's Workers ecosystem for deployment and execution.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cloudflare
-- Stars: 6734
+- Stars: 6736
 - Forks: 850
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-05T21:29:27Z
+- Last Updated: 2026-08-06T01:48:51Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-10T00:26:27Z

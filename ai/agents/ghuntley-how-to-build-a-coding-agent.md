@@ -4,15 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-08-06T03:56:18.185895+05:30'
+collected_at: '2026-08-06T09:10:48.364508+05:30'
 published_at: '2026-08-05T19:23:03Z'
 tags:
 - agents
 - github-repo
 - go
-- hackernews
-- scripts
-- workflows
 stars: 5793
 language: Go
 status: active
@@ -20,9 +17,9 @@ archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-07-25T03:31:14Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-08-06T03:56:18.185895+05:30'
-last_seen: '2026-08-06T03:56:18.185895+05:30'
-last_checked: '2026-08-06T03:56:18.185895+05:30'
+first_seen: '2026-08-06T09:10:48.364508+05:30'
+last_seen: '2026-08-06T09:10:48.364508+05:30'
+last_checked: '2026-08-06T09:10:48.364508+05:30'
 health_score: 100
 ---
 
@@ -30,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Workshop guide for constructing a **coding agent** (e.g., Roo Code, Cline) using **Go**, covering AI-driven code generation/automation workflows.
-- **Technical Stack**: Primarily **Go** with integrations for AI models, CLI tools, and agent frameworks (e.g., cursor, windsurf).
-- **Scope**: Covers **tutorials/workshops** on agent architecture, tooling, and deployment for autonomous coding tasks (last updated **2026-08-05**).
+- **Go-based Workshop**: Provides a structured tutorial for building a coding agent (similar to Cursor, Cline, or OpenCode) using Go, covering core architecture and implementation patterns.
+
+- **Multi-Agent Integration**: Focuses on enabling agent-to-agent communication and collaboration, with examples of tool usage, context sharing, and task delegation.
+
+- **Open-Source Toolkit**: Offers a reusable framework with modular components (e.g., LLM interfaces, memory systems, and execution engines) for rapid agent development.
 
 ## Why It Matters
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-06T03:54:33.146346+05:30'
+collected_at: '2026-08-06T09:09:03.353292+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-06T03:54:33.146346+05:30'
-last_seen: '2026-08-06T03:54:33.146346+05:30'
-last_checked: '2026-08-06T03:54:33.146346+05:30'
+first_seen: '2026-08-06T09:09:03.353292+05:30'
+last_seen: '2026-08-06T09:09:03.353292+05:30'
+last_checked: '2026-08-06T09:09:03.353292+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based tutorials and examples for multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and Large Language Models (LLMs).
 
-- **Vector Database Integration**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings, and fine-tuning workflows in AI/ML pipelines.
+- **Tooling Integration**: Demonstrates integration with frameworks such as LangChain, LlamaIndex, OpenAI APIs (including GPT-4 Vision), and LanceDB for vector database operations, fine-tuning, and embeddings.
 
-- **Agentic & LLM Tooling**: Includes tutorials on building AI agents with vector search, OpenAI APIs, and deep-learning frameworks for multimodal and retrieval-augmented tasks.
+- **Technical Focus**: Covers deep learning, embeddings generation, multimodal AI workflows, and vector database optimizations for AI/ML pipelines, updated as of August 2026.
 
 ## Why It Matters
 

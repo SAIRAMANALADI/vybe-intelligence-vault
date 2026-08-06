@@ -23,11 +23,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`firecrawl-firecrawl-mcp-server.md`](../../ai/resources/firecrawl-firecrawl-mcp-server.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [huggingface/hub-docs](https://github.com/huggingface/hub-docs)
-- **Category**: `ai/resources` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`huggingface-hub-docs.md`](../../ai/resources/huggingface-hub-docs.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [OpenAI · GitHub](https://github.com/openai)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
@@ -43,11 +38,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
@@ -58,15 +48,25 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`explosion-spacy.md`](../../ai/rag/explosion-spacy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page-----dba899ae0355---------------------------------------)
+### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`jamwithai-production-agentic-rag-course.md`](../../ai/rag/jamwithai-production-agentic-rag-course.md)
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [cli/cli](https://github.com/cli/cli#installation)
+- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`scotthavird-crewai-template.md`](../../ai/rag/scotthavird-crewai-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-06 04:12 IST*
+*Last updated: 2026-08-06 09:26 IST*

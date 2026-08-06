@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-100%2C790-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-167%2C091-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--06-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **100,790 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **167,091 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,044</p>
-        <p><b>Active:</b> 16,549 | <b>Inactive:</b> 495</p>
+        <p><b>Resources tracked:</b> 18,052</p>
+        <p><b>Active:</b> 17,556 | <b>Inactive:</b> 496</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,183</p>
+        <p><b>Archive Files:</b> 67,499</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 100,790 files</p>
-        <p><b>Last Update:</b> 2026-08-06 08:50 IST</p>
+        <p><b>Total Vault Size:</b> 167,091 files</p>
+        <p><b>Last Update:</b> 2026-08-06 09:27 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,27 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Introduction | Electron](ai/resources/introduction-electron.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[LangSmith Observability - Docs by LangChain](ai/rag/langsmith-observability-docs-by-langchain.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Sign in to GitHub · GitHub](ai/resources/gohugoio-hugodocs.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[disintegration/imaging](ai/rag/disintegration-imaging.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[muesli/smartcrop](ai/rag/muesli-smartcrop.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](ai/community/the-next-chapter-of-our-ai-momentum.md)** • <kbd>+173 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Cloudflare OS: an open platform for agents, apps, and work](ai/community/cloudflare-os-an-open-platform-for-agents-apps-and.md)** • <kbd>+73 pts</kbd>
+- 🔼 **[Position: LLMs Can't Jump](ai/community/position-llms-can-t-jump.md)** • <kbd>+24 pts</kbd>
+- 🔼 **[The Entropy of a Markov Chain](ai/community/the-entropy-of-a-markov-chain.md)** • <kbd>+18 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](ai/community/launch-hn-hyperprobe-yc-s26-agents-that-do-read-on.md)** • <kbd>+13 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Born Against, or why hobby programming communities are against LLM usage](ai/community/born-against-or-why-hobby-programming-communities.md)** • Score: `160`
+- 🆕 **[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](ai/community/arxiv-2510-01395.md)** • Score: `85`
+- 🆕 **[Nashville uses eminent domain to block data center near zoo](ai/community/nashville-uses-eminent-domain-to-block-data-center.md)** • Score: `70`
+- 🆕 **[LLMs won't break symmetric crypto](ai/community/llms-won-t-break-symmetric-crypto.md)** • Score: `47`
+- 🆕 **[Binaries · openssl/openssl Wiki · GitHub](ai/rag/openssl-openssl.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](ai/community/meta-ran-ads-that-contained-ai-generated-child-sex.md)**
+- 💤 **[I’m leaving OpenAI to build telepathy](ai/community/im-leaving-openai-to-build-telepathy.md)**
+- 💤 **[Painting with Gaussians](ai/community/painting-with-gaussians.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-08-06T01:36:01.161812+05:30'
-collected_at: '2026-08-06T01:36:01.161826+05:30'
+published_at: '2026-08-06T09:18:54.069029+05:30'
+collected_at: '2026-08-06T09:18:54.069044+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-06T01:36:01.161826+05:30'
-last_seen: '2026-08-06T01:36:01.161826+05:30'
-last_checked: '2026-08-06T01:36:01.161826+05:30'
+first_seen: '2026-08-06T09:18:54.069044+05:30'
+last_seen: '2026-08-06T09:18:54.069044+05:30'
+last_checked: '2026-08-06T09:18:54.069044+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Native Agent-Driven Development**: GitHub Copilot app is a cross-platform (macOS, Windows, Linux) desktop tool for agent-driven development, integrating directly with GitHub issues, PRs, and prompts, supporting parallel workflows with isolated sessions and built-in validation (diffs, browser previews, terminal checks, PR merges).
+- **Agent-Driven Development Environment**: GitHub Copilot app provides a native desktop experience for agent-driven development across macOS, Windows, and Linux, integrating with GitHub issues, PRs, and prompts to enable parallel workflows with isolated sessions, built-in validation (diffs, in-app browser, terminal checks), and direct PR merging.
 
-- **Extensible AI Workflows**: Supports custom skills (e.g., Impeccable for design), MCP servers, and automated workflows (e.g., scheduled issue triage), with native GitHub context and one-click workflow deployment, syncing across sessions.
+- **Design & Automation Integration**: Includes **Impeccable**, an open-source design skill with 23 commands (e.g., `/critique`, `/polish`) for design system enforcement, and supports automated workflows (e.g., scheduled issue triage) via customizable skills and MCP server integrations for external data.
 
-- **Tiered Pricing Model**: Offers Free ($0, 2K completions/month), Pro ($10/user, unlimited completions + 3rd-party agents), Pro+ ($39, premium models + audit logs), and Max ($100, priority access + 2.9x usage vs. Pro+), with credits scaling per tier.
+- **Tiered Pricing & Model Access**: Offers **Free** ($0, 2K completions/month), **Pro** ($10/user, unlimited completions + 3rd-party agents), **Pro+** ($39/user, premium models like Opus + audit logs), and **Max** ($100/user, priority access + 2.9x usage vs. Pro+). All plans include the Copilot app, with higher tiers unlocking advanced models and usage credits.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-06T01:36:01.161812+05:30
+- Published: 2026-08-06T09:18:54.069029+05:30
 
 ## Related Tags
 

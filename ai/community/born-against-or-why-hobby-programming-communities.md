@@ -5,29 +5,28 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.fogus.me/llm/born-against.html
 hn_url: https://news.ycombinator.com/item?id=49187061
-score: 59
+score: 160
 author: lladnar
-comments_count: 64
+comments_count: 161
 published_at: '2026-08-06T00:07:49+05:30'
-collected_at: '2026-08-06T01:27:50.870891+05:30'
+collected_at: '2026-08-06T09:07:59.506081+05:30'
 tags:
 - ai
 - hackernews
 - llm
-status: inactive
+status: active
 resource_id: hackernews:born-against-or-why-hobby-programming-communities
 first_seen: '2026-08-06T01:27:50.870891+05:30'
-last_seen: '2026-08-06T01:27:50.870891+05:30'
-last_checked: '2026-08-06T01:27:50.870891+05:30'
+last_seen: '2026-08-06T09:07:59.506081+05:30'
+last_checked: '2026-08-06T09:07:59.506081+05:30'
 health_score: 100
 ---
-
 
 # Born Against, or why hobby programming communities are against LLM usage
 
 ## Summary
 
-Hacker News story by lladnar. Score: 59, Comments: 64.
+Hacker News story by lladnar. Score: 160, Comments: 161.
 Original Link: https://blog.fogus.me/llm/born-against.html
 
 ## Why It Matters
@@ -37,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: lladnar
-- Score: 59 Upvotes
-- Comments: 64 Discussions
+- Score: 160 Upvotes
+- Comments: 161 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49187061
 - Original Article: https://blog.fogus.me/llm/born-against.html
 

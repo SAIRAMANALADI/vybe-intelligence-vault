@@ -1,36 +1,43 @@
 ---
-title: PEFT · Hugging Face
+title: Trainer · Hugging Face
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://huggingface.co/docs/transformers/main/en/main_classes/peft#transformers.integrations.PeftAdapterMixin.load_adapter
-published_at: '2026-08-03T09:35:52.812996+05:30'
-collected_at: '2026-08-03T09:35:52.813010+05:30'
+source_url: https://huggingface.co/docs/transformers/main/en/main_classes/trainer#transformers.TrainingArguments
+published_at: '2026-08-06T09:18:10.158734+05:30'
+collected_at: '2026-08-06T09:18:10.158753+05:30'
 tags:
 - agents
+- benchmark
 - dataset
 - leaderboard
+- meta-ai
+- mistral
 - models
+- paper
+- producthunt
 - rag
+- reddit
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: huggingface:docs/transformers
-first_seen: '2026-08-03T09:35:52.813010+05:30'
-last_seen: '2026-08-03T09:35:52.813010+05:30'
-last_checked: '2026-08-03T09:35:52.813010+05:30'
+first_seen: '2026-08-06T09:18:10.158753+05:30'
+last_seen: '2026-08-06T09:18:10.158753+05:30'
+last_checked: '2026-08-06T09:18:10.158753+05:30'
 health_score: 100
 ---
 
-# PEFT · Hugging Face
+# Trainer · Hugging Face
 
 ## Summary
 
-- **PEFT Integration**: The `PeftAdapterMixin` class enables parameter-efficient fine-tuning (PEFT) methods (e.g., LoRA, IA³, AdaLoRA) in Transformers models by injecting trainable adapters into PyTorch modules, excluding prompt-based methods (e.g., prompt tuning) due to incompatibility with torch module injection.
+- **Trainer API**: Provides a PyTorch-based training interface with support for distributed training (multi-GPU/TPU), mixed precision (NVIDIA/AMD GPUs), and `torch.amp`, integrated with `TrainingArguments` for full training customization.
 
-- **Adapter Management**: Supports dynamic operations including loading adapters from local/Hugging Face Hub paths (`load_adapter`), adding trainable adapters (`add_adapter`), activating/deactivating adapters (`set_adapter`/`disable_adapters`), and retrieving adapter state dicts (`get_adapter_state_dict`), with multi-adapter support for combined inference.
+- **Model Compatibility**: Requires models to return `ModelOutput` tuples or subclasses, compute loss with `labels` argument, and avoid `"label"` as a label name; `Seq2SeqTrainer` extends this for sequence-to-sequence tasks.
 
-- **Hotswapping & Optimization**: Implements adapter hotswapping (`enable_peft_hotswap`) to replace adapters in-place (e.g., for LoRA) without recompilation when ranks match or model is compiled, optimizing memory/performance while maintaining compatibility with `torch.compile`.
+- **Key Parameters**: Accepts `model`, `args` (e.g., `TrainingArguments`), `data_collator`, datasets (`train_dataset`, `eval_dataset`), and optional `model_init`/`compute_metrics` for flexible training workflows.
 
 ## Why It Matters
 
@@ -40,18 +47,25 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:35:52.812996+05:30
+- Published: 2026-08-06T09:18:10.158734+05:30
 
 ## Related Tags
 
 - agents
+- benchmark
 - dataset
 - leaderboard
+- meta-ai
+- mistral
 - models
+- paper
+- producthunt
 - rag
+- reddit
 - web-crawled
+- workflows
 - youtube
 
 ## Source
 
-Original source: https://huggingface.co/docs/transformers/main/en/main_classes/peft#transformers.integrations.PeftAdapterMixin.load_adapter
+Original source: https://huggingface.co/docs/transformers/main/en/main_classes/trainer#transformers.TrainingArguments

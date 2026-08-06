@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-08-06T03:55:53.261153+05:30'
-published_at: '2026-08-04T13:43:27Z'
+collected_at: '2026-08-06T09:10:23.399051+05:30'
+published_at: '2026-08-05T23:42:28Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 1293
+stars: 1292
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-08-06T03:55:53.261153+05:30'
-last_seen: '2026-08-06T03:55:53.261153+05:30'
-last_checked: '2026-08-06T03:55:53.261153+05:30'
+first_seen: '2026-08-06T09:10:23.399051+05:30'
+last_seen: '2026-08-06T09:10:23.399051+05:30'
+last_checked: '2026-08-06T09:10:23.399051+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal indexing**: Supports both text and structured data (e.g., knowledge graphs) for unified retrieval-augmented generation (RAG) pipelines.
-- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool usage and inter-agent communication.
-- **Scalable K8s deployment**: Designed for Kubernetes-based orchestration with horizontal scaling, fault tolerance, and CI/CD-ready infrastructure.
+- **Multi-modal indexing & GraphRAG**: Implements production-grade GraphRAG with support for structured/unstructured data (text, images, etc.) via vector + knowledge graph hybrid indexing for contextual retrieval.
+
+- **AI Agents & MCP Integration**: Embeds autonomous AI agents for dynamic query processing and supports Model Context Protocol (MCP) for standardized agent-tool communication.
+
+- **Scalable K8s Deployment**: Designed for Kubernetes with horizontal scalability, modular microservices, and optimized resource management for large-scale RAG applications.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: apecloud
-- Stars: 1293
+- Stars: 1292
 - Forks: 145
 - Language: Python
 - Topics: agents, context-engineering, graphrag, knowledge-graph, mcp
-- Last Updated: 2026-08-04T13:43:27Z
+- Last Updated: 2026-08-05T23:42:28Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-20T12:18:12Z

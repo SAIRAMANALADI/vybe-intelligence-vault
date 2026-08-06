@@ -4,25 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI
-collected_at: '2026-08-06T01:32:51.118151+05:30'
-published_at: '2026-08-05T19:47:06Z'
+collected_at: '2026-08-06T09:12:58.591391+05:30'
+published_at: '2026-08-06T03:27:41Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- scripts
 - workflows
-stars: 56658
+stars: 56668
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-10-27T03:26:59Z'
-pushed_at: '2026-08-05T19:40:20Z'
+pushed_at: '2026-08-06T00:02:49Z'
 resource_id: github:crewaiinc/crewai
-first_seen: '2026-08-06T01:32:51.118151+05:30'
-last_seen: '2026-08-06T01:32:51.118151+05:30'
-last_checked: '2026-08-06T01:32:51.118151+05:30'
+first_seen: '2026-08-06T09:12:58.591391+05:30'
+last_seen: '2026-08-06T09:12:58.591391+05:30'
+last_checked: '2026-08-06T09:12:58.591391+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Orchestration Framework**: CrewAI is a Python-based framework designed to coordinate role-playing, autonomous AI agents, enabling seamless collaboration to solve complex tasks through collaborative intelligence.
-- **Agent Collaboration**: Agents within CrewAI operate autonomously while dynamically interacting, leveraging role-playing dynamics to distribute tasks and optimize workflows for multi-agent systems.
-- **Integration & Scalability**: Supports integration with LLMs (Large Language Models) and is optimized for scalability, as evidenced by its high star count (56,658) and frequent updates (last modified 2026-08-05).
+- **Orchestration Framework**: CrewAI is a Python-based framework designed to coordinate role-playing, autonomous AI agents, enabling seamless collaboration for complex task execution.
+- **Collaborative Intelligence**: Agents within CrewAI operate as a unified system, leveraging shared intelligence to enhance problem-solving and workflow efficiency.
+- **LLM Integration**: The framework supports integration with large language models (LLMs), facilitating advanced agent interactions and task automation.
 
 ## Why It Matters
 
@@ -41,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 56658
-- Forks: 8079
+- Stars: 56668
+- Forks: 8080
 - Language: Python
 - Topics: agents, ai, ai-agents, aiagentframework, llms
-- Last Updated: 2026-08-05T19:47:06Z
+- Last Updated: 2026-08-06T03:27:41Z
 - License: MIT
 - Archived: No
 - Created At: 2023-10-27T03:26:59Z
-- Pushed At: 2026-08-05T19:40:20Z
+- Pushed At: 2026-08-06T00:02:49Z
 
 ## Possible Use Cases
 

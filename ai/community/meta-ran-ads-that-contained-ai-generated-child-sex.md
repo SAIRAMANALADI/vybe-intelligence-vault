@@ -13,13 +13,14 @@ collected_at: '2026-08-06T03:53:27.642559+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:meta-ran-ads-that-contained-ai-generated-child-sex
 first_seen: '2026-08-06T01:27:51.467440+05:30'
 last_seen: '2026-08-06T03:53:27.642559+05:30'
 last_checked: '2026-08-06T03:53:27.642559+05:30'
 health_score: 100
 ---
+
 
 # Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery
 

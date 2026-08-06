@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-06T03:55:13.159722+05:30'
+collected_at: '2026-08-06T09:09:43.301358+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 95
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-06T03:55:13.159722+05:30'
-last_seen: '2026-08-06T03:55:13.159722+05:30'
-last_checked: '2026-08-06T03:55:13.159722+05:30'
+first_seen: '2026-08-06T09:09:43.301358+05:30'
+last_seen: '2026-08-06T09:09:43.301358+05:30'
+last_checked: '2026-08-06T09:09:43.301358+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices for large language models (LLMs), focusing on retrieval efficiency, context relevance, and generation quality.
-- **Python-Based Pipeline**: Provides modular Python components for document indexing, retrieval, and response generation, leveraging vector databases (e.g., FAISS, Chroma) and LLMs (e.g., Hugging Face Transformers).
-- **Evaluation & Benchmarking**: Includes metrics for assessing retrieval accuracy (e.g., MRR, Hit Rate) and generation performance (e.g., ROUGE, BLEU), with tools for hyperparameter tuning and ablation studies.
+- **RAG Best Practices Repository**: Focuses on retrieval-augmented generation (RAG) techniques for large language models (LLMs), providing optimized methodologies for integrating retrieval mechanisms with generative AI workflows.
+
+- **Python Implementation**: The repository is implemented in Python, leveraging libraries and frameworks commonly used for NLP, vector databases, and LLM integration (e.g., LangChain, FAISS, or Hugging Face Transformers).
+
+- **Last Updated**: The repository was last updated on **2026-07-27T10:21:07Z**, indicating ongoing maintenance and relevance for current RAG advancements.
 
 ## Why It Matters
 

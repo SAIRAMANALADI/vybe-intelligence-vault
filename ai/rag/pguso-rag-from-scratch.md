@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-06T03:54:33.102380+05:30'
+collected_at: '2026-08-06T09:09:03.271746+05:30'
 published_at: '2026-08-05T14:15:06Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -23,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-06T03:54:33.102380+05:30'
-last_seen: '2026-08-06T03:54:33.102380+05:30'
-last_checked: '2026-08-06T03:54:33.102380+05:30'
+first_seen: '2026-08-06T09:09:03.271746+05:30'
+last_seen: '2026-08-06T09:09:03.271746+05:30'
+last_checked: '2026-08-06T09:09:03.271746+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs, emphasizing transparency by avoiding black-box components.
+- **Educational RAG Pipeline Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using **JavaScript**, emphasizing transparency by avoiding proprietary "black boxes" and focusing on core components like embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Technical Stack**: Built with JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and covering core RAG components: embeddings, vector search, retrieval, and context-augmented generation.
+- **Local LLM Integration**: Utilizes **node-llama-cpp** to run **local large language models (LLMs)** for privacy-preserving and offline-capable RAG workflows, eliminating dependency on cloud-based APIs.
 
-- **Purpose & Scope**: Designed as a tutorial repository to demystify RAG pipelines, targeting developers seeking hands-on understanding of RAG architecture and workflows.
+- **Modular & Tutorial-Based**: Provides a structured, hands-on tutorial for building **RAG chatbots** and **AI agents**, covering the full pipeline from document ingestion to retrieval-augmented generation, with practical Node.js examples.
 
 ## Why It Matters
 

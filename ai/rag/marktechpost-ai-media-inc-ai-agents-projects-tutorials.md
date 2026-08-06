@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-06T03:56:18.246600+05:30'
-published_at: '2026-08-05T20:31:00Z'
+collected_at: '2026-08-06T09:10:48.419677+05:30'
+published_at: '2026-08-06T00:01:17Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-05T17:42:21Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-06T03:56:18.246600+05:30'
-last_seen: '2026-08-06T03:56:18.246600+05:30'
-last_checked: '2026-08-06T03:56:18.246600+05:30'
+first_seen: '2026-08-06T09:10:48.419677+05:30'
+last_seen: '2026-08-06T09:10:48.419677+05:30'
+last_checked: '2026-08-06T09:10:48.419677+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed roles, communication protocols, and task delegation for complex workflows.
-- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning cycles for adaptive decision-making in agentic AI.
-- **Agentic frameworks**: Provides Jupyter Notebook-based tutorials for building agentic systems with RAG, planning, and skill integration.
+- **Multi-Agent Systems & Workflows**: Repository focuses on agentic AI development, covering multi-agent systems, workflows, and agentic RAG (Retrieval-Augmented Generation) architectures.
+- **Memory & Reasoning Loops**: Includes tutorials on integrating memory management, planning, and iterative reasoning loops in AI agents.
+- **Technical Stack**: Primarily uses Jupyter Notebooks for hands-on projects, with topics spanning agentic coding, frameworks, and engineering.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 618
 - Language: Jupyter Notebook
 - Topics: agent-skills, agentic-ai, agentic-ai-development, agentic-coding, agentic-engineering, agentic-framework, agentic-rag, agentic-workflow, ai, aiagent, aiagents
-- Last Updated: 2026-08-05T20:31:00Z
+- Last Updated: 2026-08-06T00:01:17Z
 - Archived: No
 - Created At: 2025-05-15T09:00:54Z
 - Pushed At: 2026-08-05T17:42:21Z

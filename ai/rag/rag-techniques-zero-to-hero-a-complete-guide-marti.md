@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-06T03:54:23.451454+05:30'
-collected_at: '2026-08-06T03:54:23.451470+05:30'
+published_at: '2026-08-06T09:08:53.899849+05:30'
+collected_at: '2026-08-06T09:08:53.899858+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-06T03:54:23.451470+05:30'
-last_seen: '2026-08-06T03:54:23.451470+05:30'
-last_checked: '2026-08-06T03:54:23.451470+05:30'
+first_seen: '2026-08-06T09:08:53.899858+05:30'
+last_seen: '2026-08-06T09:08:53.899858+05:30'
+last_checked: '2026-08-06T09:08:53.899858+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical search) with a generator (LLM), where retrieved context conditions generation to improve factuality and reduce hallucinations, with core components including embeddings, vector stores, rerankers, and orchestration layers.
+- **RAG Architecture**: Combines a retriever (vector/lexical search) with a generator (LLM) to fetch and condition responses on external, up-to-date knowledge, reducing hallucinations and improving factuality compared to parametric-only models.
 
-- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) and embedding models (off-the-shelf vs. fine-tuned) critically impact retrieval quality; hybrid search (BM25 + vector) and cross-encoder rerankers enhance precision, while dimensionality normalization and multilingual support optimize performance.
+- **Key Optimization Techniques**: Multi-stage retrieval (ANN + BM25 hybrid), cross-encoder reranking, query rewriting, and context distillation to balance precision, latency, and cost while managing token budgets and hallucination risks.
 
-- **Advanced Techniques**: Multi-hop retrieval, iterative reasoning, and context distillation improve handling of complex queries, while operational concerns like latency optimization, cost control, and evaluation metrics (MRR, nDCG, hallucination rate) ensure robust, production-ready RAG systems.
+- **Advanced Patterns**: Multi-hop iterative retrieval, GraphRAG for structured reasoning, and retrieval-aware fine-tuning to align embeddings, rerankers, and LLMs for end-to-end performance and domain adaptation.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T03:54:23.451454+05:30
+- Published: 2026-08-06T09:08:53.899849+05:30
 
 ## Related Tags
 

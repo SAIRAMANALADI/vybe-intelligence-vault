@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum
 hn_url: https://news.ycombinator.com/item?id=49184755
-score: 352
+score: 525
 author: colesantiago
-comments_count: 491
+comments_count: 618
 published_at: '2026-08-05T21:35:31+05:30'
-collected_at: '2026-08-06T03:53:26.638405+05:30'
+collected_at: '2026-08-06T09:07:58.908146+05:30'
 tags:
 - ai
 - deepmind
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:changes-at-google-deepmind-demis-hassabis-from-ceo
 first_seen: '2026-08-05T22:25:38.554933+05:30'
-last_seen: '2026-08-06T03:53:26.638405+05:30'
-last_checked: '2026-08-06T03:53:26.638405+05:30'
+last_seen: '2026-08-06T09:07:58.908146+05:30'
+last_checked: '2026-08-06T09:07:58.908146+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by colesantiago. Score: 352, Comments: 491.
+Hacker News story by colesantiago. Score: 525, Comments: 618.
 Original Link: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: colesantiago
-- Score: 352 Upvotes
-- Comments: 491 Discussions
+- Score: 525 Upvotes
+- Comments: 618 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49184755
 - Original Article: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum
 

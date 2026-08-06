@@ -4,26 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sickn33/agentic-awesome-skills
-collected_at: '2026-08-05T09:08:08.522279+05:30'
-published_at: '2026-08-05T03:37:57Z'
+collected_at: '2026-08-06T09:12:28.441175+05:30'
+published_at: '2026-08-06T03:41:06Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - python
 - workflows
-stars: 44449
+stars: 44538
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-01-14T17:48:09Z'
-pushed_at: '2026-08-04T18:49:43Z'
+pushed_at: '2026-08-05T07:21:21Z'
 resource_id: github:sickn33/agentic-awesome-skills
-first_seen: '2026-08-05T09:08:08.522279+05:30'
-last_seen: '2026-08-05T09:08:08.522279+05:30'
-last_checked: '2026-08-05T09:08:08.522279+05:30'
+first_seen: '2026-08-06T09:12:28.441175+05:30'
+last_seen: '2026-08-06T09:12:28.441175+05:30'
+last_checked: '2026-08-06T09:12:28.441175+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Functionality**: Local, agent-first control plane enabling catalog discovery, agent-owned skill selection, stack validation, and planning via 2,000+ prebuilt agentic skills.
-- **Tooling & Integration**: Includes CLI, local MCP server, catalog system, plugins, and Workbench for AI-driven development workflows (e.g., Claude Code, Cursor, Gemini-CLI).
-- **Technical Stack**: Python-based repository with focus on agentic skills, AI coding, and MCP (Model Context Protocol) for extensible agent interactions.
+- **Agent-first control plane**: AAS Core provides local discovery, selection, validation, and planning for AI agents using a catalog of 2,000+ agentic skills, with CLI, local MCP, plugins, and Workbench support.
+
+- **Multi-agent ecosystem integration**: Compatible with frameworks like Claude Code, Cursor, Gemini CLI, and Codex CLI, enabling cross-platform agentic workflows and skill libraries.
+
+- **Python-based architecture**: Open-source repository (44.5K+ stars) offering extensible plugins, catalog management, and agent-owned skill execution for AI-driven development workflows.
 
 ## Why It Matters
 
@@ -42,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sickn33
-- Stars: 44449
-- Forks: 6532
+- Stars: 44538
+- Forks: 6538
 - Language: Python
 - Topics: agent-skills, agentic-skills, ai-agent-skills, ai-agents, ai-coding, ai-workflows, antigravity, antigravity-skills, claude-code, claude-code-skills, codex-cli, codex-skills, cursor, cursor-skills, developer-tools, gemini-cli, gemini-skills, kiro, mcp, skill-library
-- Last Updated: 2026-08-05T03:37:57Z
+- Last Updated: 2026-08-06T03:41:06Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-14T17:48:09Z
-- Pushed At: 2026-08-04T18:49:43Z
+- Pushed At: 2026-08-05T07:21:21Z
 
 ## Possible Use Cases
 

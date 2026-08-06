@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-08-06T03:54:53.183463+05:30'
-published_at: '2026-08-05T22:22:18Z'
+collected_at: '2026-08-06T09:09:23.322478+05:30'
+published_at: '2026-08-06T03:33:15Z'
 tags:
 - agents
 - benchmark
@@ -17,7 +17,7 @@ tags:
 - openai
 - rag
 - workflows
-stars: 19406
+stars: 19421
 language: Go
 status: active
 license: NOASSERTION
@@ -25,9 +25,9 @@ archived: false
 created_at: '2025-07-22T08:01:23Z'
 pushed_at: '2026-08-05T11:39:50Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-08-06T03:54:53.183463+05:30'
-last_seen: '2026-08-06T03:54:53.183463+05:30'
-last_checked: '2026-08-06T03:54:53.183463+05:30'
+first_seen: '2026-08-06T09:09:23.322478+05:30'
+last_seen: '2026-08-06T09:09:23.322478+05:30'
+last_checked: '2026-08-06T09:09:23.322478+05:30'
 health_score: 100
 ---
 
@@ -35,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-functional LLM Platform**: WeKnora transforms raw documents into a queryable Retrieval-Augmented Generation (RAG) system, an autonomous reasoning agent, and a self-maintaining Wiki, supporting multi-tenancy and multi-model integration.
+- **Multi-Functional LLM Platform**: Converts raw documents into a queryable Retrieval-Augmented Generation (RAG) system, autonomous reasoning agent, and self-maintaining Wiki, supporting multimodal and multi-tenant architectures.
 
-- **Technical Stack**: Built in Go, it integrates embeddings, vector search, reranking, and semantic search, with compatibility for Ollama and OpenAI models, enabling advanced question-answering and knowledge-base management.
+- **Technical Stack**: Implements vector search, embeddings, reranking, and semantic search with Go, integrating OpenAI, Ollama, and other LLM APIs for generative AI and chatbot functionalities.
 
-- **Features & Extensibility**: Supports agentic workflows, generative AI, and evaluation tools, with a modular design for customization, making it suitable for scalable, enterprise-grade deployments.
+- **Advanced Features**: Supports evaluation frameworks, multi-model LLMs, and agentic workflows, enabling scalable knowledge-base management and efficient question-answering systems.
 
 ## Why It Matters
 
@@ -48,11 +48,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 19406
-- Forks: 2767
+- Stars: 19421
+- Forks: 2773
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-08-05T22:22:18Z
+- Last Updated: 2026-08-06T03:33:15Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z

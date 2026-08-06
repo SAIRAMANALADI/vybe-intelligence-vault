@@ -10,7 +10,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
@@ -22,10 +22,10 @@ Discovering modern AI productivity tools allows developers to streamline their d
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Mintlify · GitHub](https://github.com/mintlify)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [continuedev/continue](https://github.com/continuedev/continue)
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-06 04:12 IST*
+*Last updated: 2026-08-06 09:26 IST*

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/olegnazarov/rag-security-scanner
-collected_at: '2026-08-06T03:55:38.186843+05:30'
+collected_at: '2026-08-06T09:10:08.372900+05:30'
 published_at: '2026-08-04T06:08:54Z'
 tags:
 - github-repo
@@ -12,6 +12,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 72
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-07-15T14:16:25Z'
 pushed_at: '2025-09-14T06:39:55Z'
 resource_id: github:olegnazarov/rag-security-scanner
-first_seen: '2026-08-06T03:55:38.186843+05:30'
-last_seen: '2026-08-06T03:55:38.186843+05:30'
-last_checked: '2026-08-06T03:55:38.186843+05:30'
+first_seen: '2026-08-06T09:10:08.372900+05:30'
+last_seen: '2026-08-06T09:10:08.372900+05:30'
+last_checked: '2026-08-06T09:10:08.372900+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect vulnerabilities like prompt injection, OWASP Top 10 AI risks, and other critical flaws.
-- **Features**: Supports red-team testing, automated security audits, and vulnerability scanning for AI-powered systems, including OpenAI/GPT integrations.
-- **Technical Stack**: Python-based tool with integration for AI security testing, penetration testing, and knowledge retrieval system assessments.
+- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 AI risks, and red-team attack vectors.
+- **Features**: Implements penetration testing, automated vulnerability scanning, and security audits for AI systems; supports Python-based workflows and integrates with OpenAI models.
+- **Technical Stack**: Python-based tool with focus on LLM security, RAG pipelines, and cybersecurity testing; last updated in 2026 with active maintenance.
 
 ## Why It Matters
 

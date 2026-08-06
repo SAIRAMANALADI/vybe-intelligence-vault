@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-06T03:54:48.165864+05:30'
-published_at: '2026-08-05T16:21:43Z'
+collected_at: '2026-08-06T09:09:18.360202+05:30'
+published_at: '2026-08-06T02:23:06Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 25690
+stars: 25691
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-06T03:54:48.165864+05:30'
-last_seen: '2026-08-06T03:54:48.165864+05:30'
-last_checked: '2026-08-06T03:54:48.165864+05:30'
+first_seen: '2026-08-06T09:09:18.360202+05:30'
+last_seen: '2026-08-06T09:09:18.360202+05:30'
+last_checked: '2026-08-06T09:09:18.360202+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Chatbot Framework**: Open-source Python tool leveraging Retrieval-Augmented Generation (RAG) for document-based conversational AI, enabling contextual querying of uploaded documents.
-- **Modular Architecture**: Supports integration with LLMs (e.g., via API endpoints) and customizable document processing pipelines (e.g., chunking, embedding, retrieval).
-- **Scalable Deployment**: Designed for extensibility with features like multi-modal support, API-first design, and compatibility with vector databases (e.g., FAISS, Chroma).
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based conversational interactions, leveraging LLMs for contextual responses.
+- **Open-Source Python Framework**: Built in Python with modular components for document ingestion, retrieval, and LLM integration, supporting extensibility.
+- **Scalable Deployment**: Designed for local or cloud deployment with support for multi-modal document processing (PDFs, text, etc.) and retrieval optimization.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Cinnamon
-- Stars: 25690
+- Stars: 25691
 - Forks: 2140
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-08-05T16:21:43Z
+- Last Updated: 2026-08-06T02:23:06Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

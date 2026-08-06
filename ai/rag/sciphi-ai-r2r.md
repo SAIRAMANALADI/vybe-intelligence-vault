@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-08-06T03:55:53.208309+05:30'
+collected_at: '2026-08-06T09:10:23.379732+05:30'
 published_at: '2026-08-05T08:16:09Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-08-06T03:55:53.208309+05:30'
-last_seen: '2026-08-06T03:55:53.208309+05:30'
-last_checked: '2026-08-06T03:55:53.208309+05:30'
+first_seen: '2026-08-06T09:10:23.379732+05:30'
+last_seen: '2026-08-06T09:10:23.379732+05:30'
+last_checked: '2026-08-06T09:10:23.379732+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Framework**: Implements a production-grade Retrieval-Augmented Generation (RAG) system with agentic capabilities, enabling dynamic interaction between retrieval and generation components for enhanced question-answering performance.
-
-- **RESTful API Integration**: Exposes a scalable, RESTful API for seamless integration with downstream applications, supporting structured retrieval and generation workflows in Python-based AI pipelines.
-
-- **Modular Architecture**: Designed for extensibility with support for large language models (LLMs), vector databases, and custom retrieval strategies, optimized for high-throughput production environments.
+- **Agentic RAG Framework**: Implements an agentic Retrieval-Augmented Generation (RAG) system with a RESTful API, enabling dynamic retrieval and generation workflows for AI applications.
+- **Production-Ready Retrieval**: Provides a state-of-the-art (SoTA) production-grade retrieval system optimized for large-scale AI deployments, supporting advanced search and question-answering capabilities.
+- **Python-Based Architecture**: Built in Python with modular components for scalability, including support for vector search, document processing, and integration with large language models (LLMs).
 
 ## Why It Matters
 

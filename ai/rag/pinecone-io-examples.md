@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/examples
-collected_at: '2026-08-06T03:54:58.168123+05:30'
+collected_at: '2026-08-06T09:09:28.382786+05:30'
 published_at: '2026-08-04T17:21:52Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2021-03-09T19:42:10Z'
 pushed_at: '2026-08-04T15:49:52Z'
 resource_id: github:pinecone-io/examples
-first_seen: '2026-08-06T03:54:58.168123+05:30'
-last_seen: '2026-08-06T03:54:58.168123+05:30'
-last_checked: '2026-08-06T03:54:58.168123+05:30'
+first_seen: '2026-08-06T09:09:28.382786+05:30'
+last_seen: '2026-08-06T09:09:28.382786+05:30'
+last_checked: '2026-08-06T09:09:28.382786+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search.
-- **Technical Stack**: Python-based notebooks leveraging Pinecone’s vector database for scalable similarity search and retrieval-augmented generation (RAG) workflows.
-- **Metadata**: 3,035 stars, 1,072 forks, last updated 2026-08-04; includes examples for vector search, semantic search, and integration with LLMs.
+- **Repository Overview**: Hosts Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics like AI, LLM, RAG, semantic search, and vector search.
+- **Technical Stack**: Implemented in Python with Jupyter Notebooks, leveraging Pinecone’s vector database for scalable similarity search and retrieval-augmented generation (RAG) workflows.
+- **Metadata**: 3,035 stars, 1,072 forks, last updated 2026-08-04, with focus on vector search, semantic search, and integration with LLMs.
 
 ## Why It Matters
 

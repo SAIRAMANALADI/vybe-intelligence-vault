@@ -14,15 +14,15 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app) | `frontend-ai-ui/` | 70 |
 | [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
 | [Troubleshoot video removals - YouTube Help](https://support.google.com/youtube/answer/6395024) | `frontend-ai-ui/` | 70 |
-| [The world's fastest framework for building websites](https://gohugo.io/) | `frontend-ai-ui/` | 70 |
 | [GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub](https://github.com/algolia/firestore-algolia-search/tree/6af4b6de9301f25718743af54105d37ebd0606f1) | `frontend-ai-ui/` | 70 |
-| [LangSmith Global Status](https://global.status.smith.langchain.com) | `frontend-ai-ui/` | 70 |
-| [Google Dashboard](https://myaccount.google.com/dashboard) | `frontend-ai-ui/` | 70 |
 | [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites) | `frontend-ai-ui/` | 70 |
 | [takahirox/online-wgsl-editor](https://github.com/takahirox/online-wgsl-editor) | `webdev-3d-creative/` | 70 |
 | [brendan-duncan/webgpu_inspector](https://github.com/brendan-duncan/webgpu_inspector) | `webdev-3d-creative/` | 70 |
 | [GEngine-js/GEngine](https://github.com/gengine-js/gengine) | `webdev-3d-creative/` | 70 |
 | [gnikoloff/webgpu-sponza-demo](https://github.com/gnikoloff/webgpu-sponza-demo) | `webdev-3d-creative/` | 70 |
 | [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) | `webdev-3d-creative/` | 70 |
+| [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) | `webdev-3d-creative/` | 70 |
+| [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) | `webdev-3d-creative/` | 70 |
+| [doodlewind/beam](https://github.com/doodlewind/beam) | `webdev-3d-creative/` | 70 |
 
 More resources will appear as the harvester collects them.

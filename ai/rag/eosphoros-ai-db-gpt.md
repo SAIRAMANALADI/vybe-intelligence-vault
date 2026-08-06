@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-08-06T03:55:43.200822+05:30'
-published_at: '2026-08-05T14:40:37Z'
+collected_at: '2026-08-06T09:10:13.481229+05:30'
+published_at: '2026-08-06T02:58:18Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,8 @@ tags:
 - openai
 - python
 - rag
-stars: 19650
+- workflows
+stars: 19651
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-08-03T13:05:20Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-08-06T03:55:43.200822+05:30'
-last_seen: '2026-08-06T03:55:43.200822+05:30'
-last_checked: '2026-08-06T03:55:43.200822+05:30'
+first_seen: '2026-08-06T09:10:13.481229+05:30'
+last_seen: '2026-08-06T09:10:13.481229+05:30'
+last_checked: '2026-08-06T09:10:13.481229+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for next-gen AI + Data products, integrating RAG and private/local deployment for security.
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based workflows.
 
-- **Multi-Model & Multi-Database Support**: Supports diverse LLMs (including proprietary and open-source) and integrates with multiple database systems (SQL/NoSQL) for unified data access and manipulation.
+- **Multi-Model & Private Deployment**: Supports integration with proprietary/vicuna models while emphasizing local/private data processing for enhanced security and compliance.
 
-- **Security & Scalability**: Prioritizes private/local deployment to mitigate data leakage risks, with features like BGI (presumably a security module) and Hacktoberfest participation for community-driven enhancements.
+- **Modular Architecture**: Built in Python with extensible agents, BGI (Big Data Intelligence) components, and hacktoberfest-compatible contributions for database-centric AI applications.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: eosphoros-ai
-- Stars: 19650
+- Stars: 19651
 - Forks: 2855
 - Language: Python
 - Topics: agents, bgi, database, deepseek, gpt, gpt-4, hacktoberfest, llm, private, rag, security, vicuna
-- Last Updated: 2026-08-05T14:40:37Z
+- Last Updated: 2026-08-06T02:58:18Z
 - License: MIT
 - Archived: No
 - Created At: 2023-04-13T14:52:43Z
