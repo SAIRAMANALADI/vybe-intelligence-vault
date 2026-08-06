@@ -4,15 +4,14 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 13537 |
-| github | 938 |
-| huggingface | 885 |
-| nextjs.org | 70 |
+| arxiv | 13536 |
+| github | 936 |
 | semanticscholar.org | 61 |
-| youtube | 55 |
+| youtube | 54 |
 | support.google.com | 50 |
-| react.dev | 24 |
+| huggingface | 23 |
 | apple.com | 22 |
+| react.dev | 22 |
 | developers.google.com | 20 |
 | cloud.google.com | 19 |
 | developer.chrome.com | 19 |
@@ -20,21 +19,17 @@ Distribution of original signal ingestion sources across processed URLs:
 | web.dev | 14 |
 | geeksforgeeks.org | 14 |
 | support.apple.com | 14 |
-| gohugo.io | 13 |
-| microsoft.com | 13 |
-| anthropic.com | 12 |
-| openai.com | 12 |
+| gohugo.io | 12 |
 | learn.microsoft.com | 12 |
 | atlassian.com | 11 |
 | firebase.google.com | 11 |
-| mistral.ai | 10 |
 | nist.gov | 10 |
-| deepmind.google | 9 |
 | sbert.net | 9 |
 | developer.android.com | 9 |
 | docs.unity3d.com | 9 |
 | ico.org.uk | 8 |
 | cloudflare.com | 8 |
+| openai.com | 8 |
 | blog.google | 7 |
 | creativecommons.org | 7 |
 | developer.mozilla.org | 7 |
@@ -78,6 +73,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | speechify.com | 4 |
 | linkedin.com | 4 |
 | myaccount.google.com | 4 |
+| deepmind.google | 4 |
 | pypi.org | 4 |
 | docs.aws.amazon.com | 4 |
 | confluence.atlassian.com | 4 |
@@ -125,6 +121,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | milvus.io | 3 |
 | android-developers.googleblog.com | 3 |
 | community.atlassian.com | 3 |
+| microsoft.com | 3 |
 | mastodon.social | 3 |
 | doc.rust-lang.org | 3 |
 | mozillafoundation.org | 3 |
@@ -157,6 +154,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+| nextjs.org | 3 |
 | blog.cloudflare.com | 2 |
 | developers.cloudflare.com | 2 |
 | source.android.com | 2 |
@@ -210,6 +208,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | news.cornell.edu | 2 |
 | research.cornell.edu | 2 |
 | compsust.net | 2 |
+| anthropic.com | 2 |
 | linuxfoundation.org | 2 |
 | harvardbusiness.org | 2 |
 | zilliz.com | 2 |
@@ -286,7 +285,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | blog.fogus.me | 1 |
 | scalex.dev | 1 |
 | kangsankim07.github.io | 1 |
-| txt.cohere.com | 1 |
 | js.langchain.com | 1 |
 | forms.gle | 1 |
 | blog.medium.com | 1 |
@@ -296,7 +294,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tensorblue.com | 1 |
 | lightrag.github.io | 1 |
 | dasroot.net | 1 |
-| universalrag.github.io | 1 |
 | lumendatabase.org | 1 |
 | www4.law.cornell.edu | 1 |
 | santaclaraprinciples.org | 1 |

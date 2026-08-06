@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-06T20:27:51.185840+05:30",
+  "generated_at": "2026-08-06T20:50:47.643087+05:30",
   "trending_resources": [
     {
       "id": "github:universal-debloater-alliance/universal-android-debloater-next-generation",
       "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-      "category": "ai/community",
+      "category": "ai/trending",
       "source_type": "hackernews",
       "url": "https://github.com/universal-debloater-alliance/universal-android-debloater-next-generation",
       "file_path": "ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md",
@@ -80,19 +80,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2410.05779",
-      "title": "[2410.05779] LightRAG: Simple and Fast Retrieval-Augmented Generation",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://arxiv.org/abs/2410.05779",
-      "file_path": "ai/rag/arxiv-2410-05779.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1805,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "github:pgvector/pgvector",
       "title": "pgvector/pgvector",
       "category": "ai/rag",
@@ -101,20 +88,7 @@
       "file_path": "ai/rag/pgvector-pgvector.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2595,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:tensorblue-github",
-      "title": "tensorblue · GitHub",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://github.com/tensorblue",
-      "file_path": "ai/resources/tensorblue-github.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 83,
+      "rank_change": 2596,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +101,33 @@
       "file_path": "ai/rag/overview-a-cloudflare-workers-ai-docs.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1979,
+      "rank_change": 1981,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:langchain-overview-docs-by-langchain",
+      "title": "LangChain overview - Docs by LangChain",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://js.langchain.com",
+      "file_path": "ai/rag/langchain-overview-docs-by-langchain.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1847,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:retrieval-augmented-generation-rag-with-deep-agent",
+      "title": "Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://python.langchain.com/docs/use_cases/question_answering",
+      "file_path": "ai/rag/rag-with-deep-agents-docs-by-langchain.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1945,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/langgenius-dify.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3241,
+      "rank_change": 3246,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +155,7 @@
       "file_path": "ai/rag/pgvector-pgvector.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2595,
+      "rank_change": 2596,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/agents/panniantong-agent-reach.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2552,
+      "rank_change": 2557,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +181,7 @@
       "file_path": "ai/rag/overview-a-cloudflare-workers-ai-docs.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1979,
+      "rank_change": 1981,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/rag/rag-with-deep-agents-docs-by-langchain.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1942,
+      "rank_change": 1945,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/resources/feedback.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1879,
+      "rank_change": 1882,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,20 +220,7 @@
       "file_path": "ai/rag/chunking-strategies-for-llm-applications-pinecone.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1847,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:langchain-overview-docs-by-langchain",
-      "title": "LangChain overview - Docs by LangChain",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://js.langchain.com",
-      "file_path": "ai/rag/langchain-overview-docs-by-langchain.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1844,
+      "rank_change": 1850,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,20 @@
       "file_path": "ai/agents/sri-krishna-v-awesome-adk-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1843,
+      "rank_change": 1848,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:langchain-overview-docs-by-langchain",
+      "title": "LangChain overview - Docs by LangChain",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://js.langchain.com",
+      "file_path": "ai/rag/langchain-overview-docs-by-langchain.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1847,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +259,7 @@
       "file_path": "ai/agents/mergisi-awesome-openclaw-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1829,
+      "rank_change": 1834,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -292,25 +292,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:cohere-rerank-say-goodbye-to-irrelevant-search-res",
-      "title": "Cohere Rerank: Say Goodbye to Irrelevant Search Results",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://txt.cohere.com/rerank",
-      "file_path": "ai/rag/cohere-rerank-say-goodbye-to-irrelevant-search-res.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:blog/baseten",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "category": "ai/models",
-      "source_type": "huggingface",
-      "url": "https://huggingface.co/blog/baseten",
-      "file_path": "ai/models/huggingface-blog-baseten.md",
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
