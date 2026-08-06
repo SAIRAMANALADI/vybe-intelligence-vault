@@ -4,20 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-06T14:34:13.218518+05:30'
-collected_at: '2026-08-06T14:34:13.218532+05:30'
+published_at: '2026-08-06T17:15:28.986569+05:30'
+collected_at: '2026-08-06T17:15:28.986587+05:30'
 tags:
 - agents
 - anthropic
+- benchmark
 - rag
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-06T14:34:13.218532+05:30'
-last_seen: '2026-08-06T14:34:13.218532+05:30'
-last_checked: '2026-08-06T14:34:13.218532+05:30'
+first_seen: '2026-08-06T17:15:28.986587+05:30'
+last_seen: '2026-08-06T17:15:28.986587+05:30'
+last_checked: '2026-08-06T17:15:28.986587+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM application development, while LangGraph/LangGraph.js enable building LLM agents as graph-based workflows; Deep Agents/Deep Agents.js support advanced agent capabilities like planning, subagents, and filesystem interactions.
+- **Core Libraries**: LangChain/LangChain.js provide modular components for LLM application development, while LangGraph/LangGraph.js enable graph-based agent orchestration; Deep Agents/Deep Agents.js support hierarchical agent planning and filesystem interactions.
 
-- **Commercial & OSS Extensions**: LangSmith offers a platform for production-grade LLM application monitoring, while open-source tools like `dcode` (terminal-based coding agent), Open SWE (asynchronous coding agent), and MCP Adapters (MCP tool compatibility) extend functionality; Agent Protocol standardizes framework-agnostic APIs for serving LLM agents.
+- **Commercial Platform**: LangSmith offers production-grade monitoring, debugging, and evaluation for LLM applications.
 
-- **Documentation & Community**: Unified documentation (source: [LangChain Docs](https://github.com/langchain-ai/docs)) and a community forum facilitate learning and collaboration, with free courses available via LangChain Academy.
+- **OSS Extensions**: Includes MCP Adapters for tool interoperability, Agent Protocol for standardized agent APIs, and specialized agents like `dcode` (terminal-based coding) and OpenWiki (codebase/wiki generation).
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T14:34:13.218518+05:30
+- Published: 2026-08-06T17:15:28.986569+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
+- benchmark
 - rag
 - web-crawled
-- workflows
 - youtube
 
 ## Source

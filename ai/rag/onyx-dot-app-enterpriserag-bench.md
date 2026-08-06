@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-06T14:29:11.064783+05:30'
-published_at: '2026-08-06T06:05:40Z'
+collected_at: '2026-08-06T17:08:19.743762+05:30'
+published_at: '2026-08-06T09:33:16Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
-stars: 497
+stars: 498
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-06T14:29:11.064783+05:30'
-last_seen: '2026-08-06T14:29:11.064783+05:30'
-last_checked: '2026-08-06T14:29:11.064783+05:30'
+first_seen: '2026-08-06T17:08:19.743762+05:30'
+last_seen: '2026-08-06T17:08:19.743762+05:30'
+last_checked: '2026-08-06T17:08:19.743762+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge bases.
-
-- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based question-answering metrics tailored for enterprise search and information retrieval scenarios.
-
-- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering large language models (LLMs), retrieval mechanisms, and generative AI performance in enterprise contexts.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
+- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA testing across enterprise knowledge bases, with support for Python-based implementations.
+- **Metrics & Scope**: Covers retrieval quality, generative accuracy, and enterprise-specific challenges (e.g., internal document semantics) for comprehensive RAG evaluation.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: onyx-dot-app
-- Stars: 497
+- Stars: 498
 - Forks: 51
 - Language: Unknown
 - Topics: benchmark, dataset, enterprise, enterprise-search, evaluation, generative-ai, information-retrieval, knowledge-base, large-language-models, llm, llm-evaluation, python, question-answering, rag, rag-evaluation, retrieval-augmented-generation, semantic-search, synthetic-data, synthetic-data-generation
-- Last Updated: 2026-08-06T06:05:40Z
+- Last Updated: 2026-08-06T09:33:16Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-19T02:48:25Z

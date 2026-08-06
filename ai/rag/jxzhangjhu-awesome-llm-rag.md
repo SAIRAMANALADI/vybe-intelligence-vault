@@ -4,14 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-06T14:28:55.946698+05:30'
+collected_at: '2026-08-06T17:08:04.685137+05:30'
 published_at: '2026-08-05T14:47:24Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 1339
@@ -21,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-06T14:28:55.946698+05:30'
-last_seen: '2026-08-06T14:28:55.946698+05:30'
-last_checked: '2026-08-06T14:28:55.946698+05:30'
+first_seen: '2026-08-06T17:08:04.685137+05:30'
+last_seen: '2026-08-06T17:08:04.685137+05:30'
+last_checked: '2026-08-06T17:08:04.685137+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and research papers for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
-
-- **Key Topics**: Focuses on LLM optimization via RAG, including retrieval-information methods, embedding models, and hybrid architectures to enhance factual accuracy and contextual relevance in generative tasks.
-
-- **Updated Repository**: Actively maintained with the latest advancements (last updated Aug 2026), featuring community-driven contributions, benchmark datasets, and implementation tools for scalable RAG deployments.
+- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), focusing on enhancing factual accuracy and contextual relevance.
+- **Technical Focus**: Covers embeddings, retrieval mechanisms, and integration strategies for optimizing RAG pipelines, including topics like `rag-embeddings` and `retrieval-information`.
+- **Updated Repository**: Actively maintained with the latest advancements, last updated in August 2026, and includes contributions from 1339+ stars and 92+ forks.
 
 ## Why It Matters
 

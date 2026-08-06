@@ -1,10 +1,10 @@
 ---
 title: Models compatible with the sentence-transformers library – Hugging Face
 archive_category: evals-and-benchmarks
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://huggingface.co/models?library=sentence-transformers
 resource_id: blog:models-compatible-with-the-sentence-transformers-l
-local_vault_path: ai/rag/models-compatible-with-the-sentence-transformers-l.md
+local_vault_path: ai/resources/models-compatible-with-the-sentence-transformers-l.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -12,8 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- models
-- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -33,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Architecture**: BAAI/bge-m3 is a **multi-functionality embedding model** supporting dense, multi-vector (colBERTv2), and sparse retrieval methods, optimized for **multi-task retrieval** (e.g., semantic, lexical, hybrid search).
-
-- **Performance Metrics**: Achieves **state-of-the-art results** on MTEB (Massive Text Embedding Benchmark) benchmarks, including **retrieval, clustering, and classification tasks**, with significant gains in **cross-lingual and zero-shot scenarios**.
-
-- **Key
+- **Multilingual & Multifunctional**: BAAI/bge-m3 is a unified model supporting dense retrieval, multi-vector retrieval, and hybrid retrieval, optimized for 100+ languages with a 8192-token context length.
+- **Advanced Architecture**: Utilizes a **Mixture-of-Experts (MoE)** design with 560M active parameters (out of 1.24B total) for efficient retrieval and semantic search.
+- **State-of-the-Art Performance**: Achieves top results on benchmarks like **MIRACL** (multilingual retrieval) and **BEIR**
 
 ## Use Cases
 
@@ -51,4 +47,4 @@ Original source URL: https://huggingface.co/models?library=sentence-transformers
 
 ## Local Vault File
 
-Path: [models-compatible-with-the-sentence-transformers-l.md](../../ai/rag/models-compatible-with-the-sentence-transformers-l.md)
+Path: [models-compatible-with-the-sentence-transformers-l.md](../../ai/resources/models-compatible-with-the-sentence-transformers-l.md)

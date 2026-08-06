@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-06T14:28:30.944614+05:30'
+collected_at: '2026-08-06T17:07:39.672281+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
-- benchmark
+- dataset
 - github-repo
 - hackernews
 - jupyter notebook
+- models
 - rag
 stars: 1222
 language: Jupyter Notebook
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-06T14:28:30.944614+05:30'
-last_seen: '2026-08-06T14:28:30.944614+05:30'
-last_checked: '2026-08-06T14:28:30.944614+05:30'
+first_seen: '2026-08-06T17:07:39.672281+05:30'
+last_seen: '2026-08-06T17:07:39.672281+05:30'
+last_checked: '2026-08-06T17:07:39.672281+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source Python tool built with Streamlit and Jupyter Notebooks for interactive visualization and debugging of Retrieval-Augmented Generation (RAG) pipelines.
-- **Key Features**: Enables real-time analysis of LLM interactions, retrieval quality, and prompt engineering through dynamic visualizations.
-- **Technical Stack**: Leverages Python, Streamlit for UI, and Jupyter Notebooks for backend processing; designed for modular RAG system evaluation.
+- **Purpose**: Open-source interactive visualization tool for Retrieval-Augmented Generation (RAG) pipelines, enabling analysis of LLM retrieval and generation processes.
+- **Technical Stack**: Built with Python, Streamlit for the web interface, and Jupyter Notebook for backend/logic; leverages visualization libraries for dynamic RAG pipeline exploration.
+- **Features**: Real-time debugging of RAG components (retrievers, embeddings, prompts), interactive UI for comparing retrieval results, and support for custom dataset integration.
 
 ## Why It Matters
 

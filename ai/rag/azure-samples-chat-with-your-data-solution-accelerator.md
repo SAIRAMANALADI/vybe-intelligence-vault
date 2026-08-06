@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-06T14:28:56.041775+05:30'
+collected_at: '2026-08-06T17:08:04.741247+05:30'
 published_at: '2026-08-05T20:45:57Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- reddit
 - workflows
 stars: 1172
 language: Python
@@ -18,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-08-06T04:54:21Z'
+pushed_at: '2026-08-06T09:26:29Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-06T14:28:56.041775+05:30'
-last_seen: '2026-08-06T14:28:56.041775+05:30'
-last_checked: '2026-08-06T14:28:56.041775+05:30'
+first_seen: '2026-08-06T17:08:04.741247+05:30'
+last_seen: '2026-08-06T17:08:04.741247+05:30'
+last_checked: '2026-08-06T17:08:04.741247+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, deployed in Azure.
-- **Components**: Includes **Python-based** solution with **AZD templates**, integrating best practices for AI-driven data interaction workflows.
-- **Updates**: Last modified **2026-08-05**, with **1172 stars** and **642 forks**, covering topics like `ai-search`, `azure-openai`, and `openai`.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, following best practices for production-grade RAG systems.
+
+- **Key Components**: Includes **Python-based** solution with **AZD templates** for deployment, integrating Azure AI Search for vector/keyword retrieval and Azure OpenAI for LLM-powered responses.
+
+- **Features**: Provides end-to-end RAG workflow with common requirements (e.g., document ingestion, semantic search, prompt engineering) and supports **ChatGPT-style interactions** and **Q&A** over proprietary data.
 
 ## Why It Matters
 
@@ -49,7 +52,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-08-06T04:54:21Z
+- Pushed At: 2026-08-06T09:26:29Z
 
 ## Possible Use Cases
 

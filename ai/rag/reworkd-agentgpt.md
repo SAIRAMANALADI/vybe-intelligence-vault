@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/reworkd/AgentGPT
-collected_at: '2026-08-06T14:31:06.129039+05:30'
+collected_at: '2026-08-06T17:10:14.863131+05:30'
 published_at: '2026-08-06T08:28:07Z'
 tags:
 - agents
@@ -13,8 +13,8 @@ tags:
 - hackernews
 - openai
 - rag
+- scripts
 - typescript
-- workflows
 stars: 36301
 language: TypeScript
 status: active
@@ -23,9 +23,9 @@ archived: true
 created_at: '2023-04-07T02:29:19Z'
 pushed_at: '2025-04-29T01:19:32Z'
 resource_id: github:reworkd/agentgpt
-first_seen: '2026-08-06T14:31:06.129039+05:30'
-last_seen: '2026-08-06T14:31:06.129039+05:30'
-last_checked: '2026-08-06T14:31:06.129039+05:30'
+first_seen: '2026-08-06T17:10:14.863131+05:30'
+last_seen: '2026-08-06T17:10:14.863131+05:30'
+last_checked: '2026-08-06T17:10:14.863131+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging modern web technologies.
+- **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging modern web technologies (Next.js/T3 stack).
 
-- **Tech stack**: Built with **TypeScript**, **Next.js (T3 Stack)**, and integrates **LangChain** for agent orchestration, alongside **OpenAI's LLM** for natural language processing capabilities.
+- **Multi-agent framework integration**: Supports LangChain, OpenAI APIs, and compatibility with AGI frameworks like BabyAGI, facilitating modular agent design and LLM-driven task automation.
 
-- **Key features**: Supports **multi-agent systems**, **AGI-oriented workflows**, and is compatible with frameworks like **AutoGPT** and **BabyAGI**; last updated in **2026** with active community contributions (36.3k stars, 9.3k forks).
+- **Open-source TypeScript implementation**: Built with TypeScript for scalability, includes 36.3k+ stars and 9.3k+ forks, last updated in 2026 with active maintenance.
 
 ## Why It Matters
 

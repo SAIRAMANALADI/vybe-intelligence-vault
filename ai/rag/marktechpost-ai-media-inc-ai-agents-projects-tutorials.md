@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-06T14:29:56.072736+05:30'
+collected_at: '2026-08-06T17:09:04.821421+05:30'
 published_at: '2026-08-06T07:35:47Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-- scripts
 - workflows
 stars: 2854
 language: Jupyter Notebook
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-06T07:34:42Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-06T14:29:56.072736+05:30'
-last_seen: '2026-08-06T14:29:56.072736+05:30'
-last_checked: '2026-08-06T14:29:56.072736+05:30'
+first_seen: '2026-08-06T17:09:04.821421+05:30'
+last_seen: '2026-08-06T17:09:04.821421+05:30'
+last_checked: '2026-08-06T17:09:04.821421+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent architectures**: Repository focuses on systems integrating multiple AI agents with specialized skills (e.g., memory, planning, reasoning loops) for complex task decomposition and collaboration.
-- **Agentic AI development**: Provides Jupyter Notebook-based tutorials covering agentic frameworks, RAG (Retrieval-Augmented Generation) integration, and workflow automation for agentic engineering.
-- **Open-source contributions**: 2,854 stars and 618 forks indicate active community engagement in advancing agentic AI, coding, and framework implementations.
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex workflows.
+- **Agentic AI development**: Contains Jupyter Notebook-based tutorials covering agentic frameworks, RAG (Retrieval-Augmented Generation), and coding/engineering applications.
+- **Technical depth**: Covers advanced topics like memory management, agentic workflows, and integration of AI agents in real-world systems (last updated Aug 2026).
 
 ## Why It Matters
 

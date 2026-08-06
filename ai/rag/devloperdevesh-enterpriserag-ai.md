@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-06T14:29:20.993930+05:30'
+collected_at: '2026-08-06T17:08:29.765035+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-06T14:29:20.993930+05:30'
-last_seen: '2026-08-06T14:29:20.993930+05:30'
-last_checked: '2026-08-06T14:29:20.993930+05:30'
+first_seen: '2026-08-06T17:08:29.765035+05:30'
+last_seen: '2026-08-06T17:08:29.765035+05:30'
+last_checked: '2026-08-06T17:08:29.765035+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Leverages eBPF for real-time security monitoring and governance of AI agent workloads within a Linux-native architecture, enabling low-overhead, kernel-level observability and enforcement.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native features and eBPF for runtime monitoring and enforcement.
 
-- **Enterprise-Grade RAG Pipeline**: Implements a scalable Retrieval-Augmented Generation (RAG) system with TypeScript backend, FastAPI for API management, and integration with vector databases for optimized LLM-based knowledge retrieval.
+- **Enterprise-Grade RAG Architecture**: Combines FastAPI backend, TypeScript, and vector databases to enable scalable Retrieval-Augmented Generation (RAG) with SaaS-ready AI governance.
 
-- **Security & Governance Mesh**: Designed as a SaaS-ready framework for AI workloads, enforcing security policies, audit trails, and compliance controls across multi-agent environments.
+- **GenAI & LLM Optimization**: Designed for high-performance GenAI/LLM workloads with built-in security policies and real-time compliance enforcement.
 
 ## Why It Matters
 

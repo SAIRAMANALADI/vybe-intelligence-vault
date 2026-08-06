@@ -10,12 +10,12 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (framework - ESSENTIAL Tier)
-- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag) (framework - ESSENTIAL Tier)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (tutorial - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
-- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- [mongodb · GitHub](https://github.com/mongodb)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-08-06 14:45 IST*
+*Last updated: 2026-08-06 17:24 IST*

@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C268-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C270-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--06-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **101,268 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **169,270 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,470</p>
-        <p><b>Active:</b> 16,973 | <b>Inactive:</b> 497</p>
+        <p><b>Resources tracked:</b> 18,479</p>
+        <p><b>Active:</b> 17,983 | <b>Inactive:</b> 496</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,182</p>
+        <p><b>Archive Files:</b> 69,197</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 101,268 files</p>
-        <p><b>Last Update:</b> 2026-08-06 15:14 IST</p>
+        <p><b>Total Vault Size:</b> 169,270 files</p>
+        <p><b>Last Update:</b> 2026-08-06 17:26 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,16 +210,20 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Firebase · GitHub](ai/resources/firebase-github.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Gemini in Android Studio - Android Developers](ai/rag/gemini-in-android-studio-android-developers.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Stream Firestore to BigQuery | Firebase Extensions Hub](ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Google Colab](ai/resources/google-colab.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Keras: Deep Learning for humans](ai/rag/keras-deep-learning-for-humans.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Born Against, or why hobby programming communities are against LLM usage](ai/community/born-against-or-why-hobby-programming-communities.md)** • <kbd>+36 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](ai/community/the-next-chapter-of-our-ai-momentum.md)** • <kbd>+35 pts</kbd>
+- 🔼 **[Cloudflare OS: an open platform for agents, apps, and work](ai/community/cloudflare-os-an-open-platform-for-agents-apps-and.md)** • <kbd>+18 pts</kbd>
+- 🔼 **[Nashville uses eminent domain to block data center near zoo](ai/community/nashville-uses-eminent-domain-to-block-data-center.md)** • <kbd>+18 pts</kbd>
+- 🔼 **[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](ai/community/arxiv-2510-01395.md)** • <kbd>+13 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[On non-rooted Android 17, ADB uninstall of system apps fails](ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md)** • Score: `31`
+- 🆕 **[A Tour of Gemini Code Assist Standard and Enterprise for Developers in Google Cloud Shell Editor | Google Codelabs](ai/rag/a-tour-of-gemini-code-assist-standard-and-enterpri.md)** • Score: `0`
+- 🆕 **[Deed - Attribution-ShareAlike 2.0 Generic - Creative Commons](ai/resources/deed-attribution-sharealike-2-0-generic-creative-c.md)** • Score: `0`
+- 🆕 **[Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥](ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md)** • Score: `0`
+- 🆕 **[GitHub Flavored Markdown Spec](ai/rag/github-flavored-markdown-spec.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

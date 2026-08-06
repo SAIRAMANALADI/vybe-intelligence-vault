@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-26-understanding-rag-from-scratch/
-published_at: '2026-08-06T09:08:53.870657+05:30'
-collected_at: '2026-08-06T09:08:53.870672+05:30'
+published_at: '2026-08-06T17:07:09.943448+05:30'
+collected_at: '2026-08-06T17:07:09.943462+05:30'
 tags:
 - anthropic
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:understanding-rag-from-scratch-martinuke0-s-blog
-first_seen: '2026-08-06T09:08:53.870672+05:30'
-last_seen: '2026-08-06T09:08:53.870672+05:30'
-last_checked: '2026-08-06T09:08:53.870672+05:30'
+first_seen: '2026-08-06T17:07:09.943462+05:30'
+last_seen: '2026-08-06T17:07:09.943462+05:30'
+last_checked: '2026-08-06T17:07:09.943462+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: Four core steps—(1) **Ingest & Extract** (collect and parse raw text from diverse sources like PDFs, HTML, databases), (2) **Chunking** (split text into semantically coherent segments using token-aware or sentence-aware strategies), (3) **Embedding & Storing** (convert chunks to dense vectors via models like `sentence-transformers` or OpenAI embeddings and index in vector stores like FAISS or Milvus using ANN algorithms like HNSW), and (4) **Retrieval → Augmentation → Generation** (encode query, retrieve top-k chunks via similarity search, rerank with cross-encoders or BM25, construct prompt with retrieved context, and generate output with LLM).
+- **RAG Pipeline**: Four-step process—(1) **Ingest & Extract** raw content (HTML, PDF, DBs), (2) **Chunking** into semantically coherent segments (500 tokens, 50-token overlap), (3) **Embedding & Indexing** via models (SBERT/OpenAI) stored in vector DBs (FAISS/Milvus) with ANN indexing (HNSW/IVF+PQ), (4) **Retrieval→Augmentation→Generation** where queries are encoded, top-k chunks retrieved (cosine similarity), reranked (cross-encoders/BM25), and fed to LLM with citations.
 
-- **Indexing & Query Optimization**: Chunking strategies directly impact retrieval quality—token-based chunking (e.g., 500 tokens with 50-token overlap) balances context window constraints and semantic coherence; hybrid search (dense + sparse embeddings) improves recall/precision; vector stores require dimensionality trade-offs (e.g., 768 vs. 1536) and ANN indexing (HNSW, IVF+PQ) for scalable nearest-neighbor search.
+- **Chunking & Embedding Trade-offs**: Chunk size impacts retrieval granularity (sentence-aware vs token-based), while embedding dimensionality (768–1536) balances index size vs. accuracy; hybrid retrieval (dense + sparse) improves recall/precision but increases compute.
 
-- **Operational Challenges**: Mitigate re-indexing inefficiencies via incremental indexing (change logs, event-driven ingestion) and soft deletes; reduce vector DB costs by sharding, quantization, or caching; address memory footprint via dimensionality reduction (PCA, quantization) and efficient storage formats; counter hallucinations by enforcing source citations, post-processing verification, and reranking for relevance.
+- **Operational Challenges**: Incremental indexing (event-driven, ID-based upserts) mitigates re-indexing costs; vector DBs require soft deletes/tombstones for scalability; memory footprint is reduced via quantization/ANN compression; hallucinations are curbed via cross-encoder reranking and prompt-injected citation enforcement.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T09:08:53.870657+05:30
+- Published: 2026-08-06T17:07:09.943448+05:30
 
 ## Related Tags
 

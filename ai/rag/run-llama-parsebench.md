@@ -4,18 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-08-06T14:30:46.100904+05:30'
-published_at: '2026-08-06T08:50:47Z'
+collected_at: '2026-08-06T17:09:54.823558+05:30'
+published_at: '2026-08-06T10:41:52Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
-- workflows
-stars: 539
+stars: 540
 language: Python
 status: active
 license: Apache-2.0
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-08-05T08:55:08Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-08-06T14:30:46.100904+05:30'
-last_seen: '2026-08-06T14:30:46.100904+05:30'
-last_checked: '2026-08-06T14:30:46.100904+05:30'
+first_seen: '2026-08-06T17:09:54.823558+05:30'
+last_seen: '2026-08-06T17:09:54.823558+05:30'
+last_checked: '2026-08-06T17:09:54.823558+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like PDF parsing, OCR, and table extraction, designed for structured evaluation in document AI workflows.
+- **ParseBench**: A specialized benchmarking framework for evaluating document parsing capabilities of AI agents, focusing on structured and unstructured data extraction from diverse document types (e.g., PDFs, tables, OCR outputs).
 
-- **Multi-Modal Evaluation**: Supports vision-language models (VLMs) and traditional OCR pipelines, enabling comparative analysis of performance in parsing text, tables, and structured documents.
+- **Key Features**: Supports metrics for accuracy, robustness, and efficiency in tasks like table extraction, layout analysis, and vision-language model (VLM) performance, with integration for LlamaIndex and other document AI tools.
 
-- **Integration-Friendly**: Compatible with LlamaIndex, facilitating seamless benchmarking and integration into document processing pipelines for machine learning and AI agent research.
+- **Technical Scope**: Python-based, includes evaluation pipelines for machine learning models, OCR systems, and multimodal parsing, with recent updates (Aug 2026) reflecting evolving benchmarks in document AI.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 539
+- Stars: 540
 - Forks: 78
 - Language: Python
 - Topics: benchmark, document-ai, document-parsing, evaluation, llamaindex, llm, machine-learning, ocr, pdf-parsing, table-extraction, vision-language-models
-- Last Updated: 2026-08-06T08:50:47Z
+- Last Updated: 2026-08-06T10:41:52Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-10T20:46:33Z

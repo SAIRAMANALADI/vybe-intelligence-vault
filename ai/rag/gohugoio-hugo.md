@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-08-06T14:33:34.231792+05:30'
-collected_at: '2026-08-06T14:33:34.231809+05:30'
+published_at: '2026-08-06T17:13:17.643678+05:30'
+collected_at: '2026-08-06T17:13:17.643693+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-08-06T14:33:34.231809+05:30'
-last_seen: '2026-08-06T14:33:34.231809+05:30'
-last_checked: '2026-08-06T14:33:34.231809+05:30'
+first_seen: '2026-08-06T17:13:17.643693+05:30'
+last_seen: '2026-08-06T17:13:17.643693+05:30'
+last_checked: '2026-08-06T17:13:17.643693+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.164.0 Release**: Introduced dark/light mode pairs in Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), Pandoc citation support, and sub-path support in `Page.Render` layouts; also fixed a performance regression from v0.128.0.
+- **Hugo v0.164.0 Release**: Introduced dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), Pandoc citation support, and markup.rst.syntaxHighlight configuration; also fixed a performance regression from v0.128.0 affecting larger sites.
 
-- **Deprecations & Optimizations**: Deprecated `resources.PostProcess` in favor of `templates.Defer`, optimized `hugio.hasBytesWriter`, and added case-insensitive template name lookup.
+- **Deprecations & Fixes**: Resources.PostProcess deprecated in favor of `templates.Defer`; added case-insensitive template name lookup, improved error handling in `.Render`, and optimized `hugio.hasBytesWriter` for speed.
 
-- **Dependency Updates**: Upgraded core dependencies including `github.com/evanw/esbuild` (v0.28.0 → v0.28.1), `golang.org/x/tools` (v0.45.0 → v0.47.0), and Chroma for syntax highlighting improvements.
+- **Dependency Updates**: Upgraded multiple Go modules (e.g., `golang.org/x/tools` to v0.47.0, `esbuild` to v0.28.1) and added Chroma dark/light mode support via dependency updates.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T14:33:34.231792+05:30
+- Published: 2026-08-06T17:13:17.643678+05:30
 
 ## Related Tags
 

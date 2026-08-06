@@ -3,17 +3,17 @@ title: Making sure you're not a bot!
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://lumendatabase.org/
-published_at: '2026-08-04T17:15:11.779648+05:30'
-collected_at: '2026-08-04T17:15:11.779662+05:30'
+source_url: https://www.lumendatabase.org/
+published_at: '2026-08-06T17:19:16.296811+05:30'
+collected_at: '2026-08-06T17:19:16.296837+05:30'
 tags:
 - scripts
 - web-crawled
 status: active
 resource_id: blog:making-sure-you-re-not-a-bot
-first_seen: '2026-08-04T17:15:11.779662+05:30'
-last_seen: '2026-08-04T17:15:11.779662+05:30'
-last_checked: '2026-08-04T17:15:11.779662+05:30'
+first_seen: '2026-08-06T17:19:16.296837+05:30'
+last_seen: '2026-08-06T17:19:16.296837+05:30'
+last_checked: '2026-08-06T17:19:16.296837+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Anubis employs a Proof-of-Work (PoW) mechanism inspired by Hashcash** to mitigate aggressive AI-driven web scraping, imposing negligible overhead for individual users but significantly increasing costs for large-scale scrapers.
+- **Anubis employs a Proof-of-Work (PoW) mechanism**, inspired by Hashcash, to mitigate aggressive AI-driven web scraping by imposing computational costs that scale with scraping volume, thereby reducing server load from mass requests.
 
-- **The system prioritizes headless browser detection** (e.g., via font rendering analysis) to reduce reliance on PoW challenges, though JavaScript is currently required for this process due to evolving circumvention tactics by AI scrapers.
+- **The system prioritizes headless browser detection** (e.g., via font rendering analysis) to minimize disruption to legitimate users, with the PoW challenge serving as a temporary fallback until more precise fingerprinting methods are implemented.
 
-- **Anubis v1.25.0 mandates JavaScript execution** (disabling plugins like JShelter) and is designed as a temporary solution while a no-JS alternative is developed to restore compatibility with restrictive browsing environments.
+- **Modern JavaScript is required** for PoW validation, as Anubis relies on advanced JS features; disabling plugins like JShelter may block access, and a no-JS solution is under development due to evolving scraping tactics.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T17:15:11.779648+05:30
+- Published: 2026-08-06T17:19:16.296811+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://lumendatabase.org/
+Original source: https://www.lumendatabase.org/

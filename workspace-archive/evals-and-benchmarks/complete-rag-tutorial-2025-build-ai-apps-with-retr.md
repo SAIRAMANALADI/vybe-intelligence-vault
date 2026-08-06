@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, creator monetization, advertising, and developer APIs (YouTube Data API v3, YouTube Analytics API).
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, advertising, and creator monetization under structured policies (Terms, Privacy, Safety).
 
-- **Technical Infrastructure**: Utilizes a scalable, distributed system for video processing, storage, and delivery (e.g., VP9/HEVC codecs, DASH streaming, CDN-based distribution via Google's global network).
+- **Developer & Technical Resources**: Provides APIs and developer tools via [Google Developers](https://developers.google.com/youtube) for integrating YouTube functionality (e.g., video upload, analytics) into applications.
 
-- **AI/ML Integration**: Implements retrieval-augmented genera
+- **AI Integration**: Supports AI-driven features (e.g.,
 
 ## Use Cases
 

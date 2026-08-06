@@ -3,18 +3,18 @@ title: Configure security
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/configuration/security
-published_at: '2026-08-06T14:34:35.569864+05:30'
-collected_at: '2026-08-06T14:34:35.569879+05:30'
+source_url: https://gohugo.io/configuration/security/
+published_at: '2026-08-06T17:14:55.433938+05:30'
+collected_at: '2026-08-06T17:14:55.433955+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-08-06T14:34:35.569879+05:30'
-last_seen: '2026-08-06T14:34:35.569879+05:30'
-last_checked: '2026-08-06T14:34:35.569879+05:30'
+first_seen: '2026-08-06T17:14:55.433955+05:30'
+last_seen: '2026-08-06T17:14:55.433955+05:30'
+last_checked: '2026-08-06T17:14:55.433955+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Security Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and similar operations unless explicitly permitted; builds fail with detailed messages if unauthorized operations are attempted.
+- **Security Policy**: Hugo enforces a default-deny security policy via allowlists, restricting `os/exec`, remote communication, and other operations; violations trigger explicit build failures with detailed error messages.
 
-- **Configurable Security Parameters**: Security settings include `allowContent` (content format allowlist), `exec.allow` (external executables), `http.urls` (allowed remote URLs), and Node.js permissions (`allowRead`, `allowWrite`, etc.), all configurable via regex patterns in YAML/TOML/JSON.
+- **Configuration Structure**: Security settings (e.g., `exec.allow`, `http.urls`, `node.permissions`) are defined via regex-based allowlists in YAML/TOML/JSON, with negation rules (`!`) and environment variable overrides (e.g., `HUGO_SECURITY_HTTP_URLS=none`).
 
-- **Negation & Environment Overrides**: Deny rules (prefixed with `!`) take precedence in allowlists; features can be disabled entirely via `none`, and security settings can be overridden using `HUGO_SECURITY_*` environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`).
+- **Node.js Permissions**: Introduced in v0.161.0, Node.js tools (e.g., TailwindCSS) are restricted via `--permission` flags, controlling file I/O (`allowRead`/`allowWrite`), addons (`allowAddons`), and child processes (`allowChildProcess`).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-06T14:34:35.569864+05:30
+- Published: 2026-08-06T17:14:55.433938+05:30
 
 ## Related Tags
 
@@ -46,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://gohugo.io/configuration/security
+Original source: https://gohugo.io/configuration/security/

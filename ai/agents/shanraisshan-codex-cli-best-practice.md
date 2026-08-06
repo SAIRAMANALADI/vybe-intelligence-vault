@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-06T14:30:26.070324+05:30'
+collected_at: '2026-08-06T17:09:34.782949+05:30'
 published_at: '2026-08-04T12:21:57Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - scripts
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-06T14:30:26.070324+05:30'
-last_seen: '2026-08-06T14:30:26.070324+05:30'
-last_checked: '2026-08-06T14:30:26.070324+05:30'
+first_seen: '2026-08-06T17:09:34.782949+05:30'
+last_seen: '2026-08-06T17:09:34.782949+05:30'
+last_checked: '2026-08-06T17:09:34.782949+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using OpenAI Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for scalable AI-driven development.
-
-- **CLI-Centric Best Practices**: Provides a curated set of `codex-cli-commands`, `codex-hooks`, and agentic workflows to optimize AI agent interactions, including state management, skill chaining, and error resilience in Python-based environments.
-
-- **Pakistan-Centric Developer Resource**: Serves as a localized hub for Pakistani developers, offering localized examples, CLI command patterns, and agentic engineering templates tailored for OpenAI Codex ecosystems.
+- **Repository Focus**: Provides best practices for transitioning from *vibe coding* to *agentic engineering* using **Codex CLI**, emphasizing structured workflows and AI-driven automation.
+- **Technical Scope**: Covers **Codex CLI commands**, **agentic workflows**, **hooks**, and **context engineering** for OpenAI Codex integration in Python-based AI agent development.
+- **Community & Tools**: Highlights **Codex CLI skills**, **AI agents**, and **context optimization** with 954 stars and 64 forks, targeting Pakistani developers and global AI engineering practices.
 
 ## Why It Matters
 

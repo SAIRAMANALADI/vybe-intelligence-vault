@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-06T09:11:23.402473+05:30'
+collected_at: '2026-08-06T17:09:39.834485+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-06T09:11:23.402473+05:30'
-last_seen: '2026-08-06T09:11:23.402473+05:30'
-last_checked: '2026-08-06T09:11:23.402473+05:30'
+first_seen: '2026-08-06T17:09:39.834485+05:30'
+last_seen: '2026-08-06T17:09:39.834485+05:30'
+last_checked: '2026-08-06T17:09:39.834485+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced caching, background refetching, and stale-while-revalidate strategies for efficient AI agent-driven data synchronization.
-- **Router State Management**: Implements dynamic route resolution and state persistence in TanStack Router to support AI agent navigation and session continuity.
-- **Start Framework Optimization**: Leverages TanStack Start for server-side rendering (SSR) and edge-compatible AI agent workflows, ensuring low-latency responses.
+- **Optimized TanStack Query Integration**: Implements advanced caching strategies, stale-while-revalidate patterns, and automatic background refetching to minimize redundant API calls in AI-driven applications.
+
+- **Router State Management**: Leverages TanStack Router for declarative route definitions, type-safe navigation, and dynamic route matching, ensuring efficient client-side routing in AI agent workflows.
+
+- **Start Framework Integration**: Utilizes TanStack Start for server-side rendering (SSR) and static site generation (SSG) optimizations, reducing initial load times and improving SEO for AI-generated content delivery.
 
 ## Why It Matters
 
@@ -42,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: DeckardGer
 - Stars: 205
-- Forks: 18
+- Forks: 17
 - Language: Unknown
 - Topics: None
 - Last Updated: 2026-08-03T07:49:22Z

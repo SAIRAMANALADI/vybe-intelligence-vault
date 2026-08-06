@@ -2,7 +2,7 @@
 title: Introduction to Haystack | Haystack Documentation
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://docs.haystack.deepset.ai/docs/intro?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57
+source_url: https://docs.haystack.deepset.ai/docs/intro
 resource_id: blog:introduction-to-haystack-haystack-documentation
 local_vault_path: ai/rag/introduction-to-haystack-haystack-documentation.md
 quality_score: 70
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Haystack is an open-source AI orchestration framework for building production-ready applications with LLMs, supporting use cases like autonomous agents, multimodal systems, and scalable RAG.
+- **Open-source AI orchestration framework** for building production-ready applications with LLMs, supporting use cases like autonomous agents, multimodal systems, and RAG pipelines.
 
-- **Modular Architecture**: Designed with reusable components (e.g., Document Stores, Agents, Tools) and pipelines, integrating technologies from providers like OpenAI, Google, and Hugging Face Transformers.
+- **Modular architecture** with reusable components (e.g., Document Stores, Agents, Tools) and pipelines, integrating technologies from OpenAI, Google, Anthropic, and Hugging Face Transformers.
 
-- **Enterprise Support**: Offers enterprise-grade solutions (Haystack Ent
+- **Enterprise-grade scalability** via Haystack Enterprise Starter/Platform, offering support, best practices, deployment
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.haystack.deepset.ai/docs/intro?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57
+Original source URL: https://docs.haystack.deepset.ai/docs/intro
 
 ## Local Vault File
 

@@ -4,15 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI-tools
-collected_at: '2026-08-06T14:32:06.166931+05:30'
+collected_at: '2026-08-06T17:11:14.947566+05:30'
 published_at: '2026-08-05T21:04:11Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
-- scripts
-- workflows
 stars: 1461
 language: Python
 status: active
@@ -21,9 +18,9 @@ archived: true
 created_at: '2024-01-11T17:29:13Z'
 pushed_at: '2025-10-23T18:08:34Z'
 resource_id: github:crewaiinc/crewai-tools
-first_seen: '2026-08-06T14:32:06.166931+05:30'
-last_seen: '2026-08-06T14:32:06.166931+05:30'
-last_checked: '2026-08-06T14:32:06.166931+05:30'
+first_seen: '2026-08-06T17:11:14.947566+05:30'
+last_seen: '2026-08-06T17:11:14.947566+05:30'
+last_checked: '2026-08-06T17:11:14.947566+05:30'
 health_score: 100
 ---
 
@@ -31,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends CrewAI agent capabilities via modular Python tools, enabling enhanced functionality for AI-driven workflows.
-- **Key Features**: Provides reusable tools for agents, supporting integration with CrewAI’s agent framework for automation and task execution.
-- **Technical Stack**: Python-based, optimized for AI agent orchestration with dependencies managed via standard package ecosystems.
+- **Purpose**: Extends CrewAI agent capabilities via modular Python tools for enhanced AI agent functionality.
+- **Integration**: Designed for seamless compatibility with CrewAI agents, enabling custom tool integration.
+- **Repository Stats**: 1,461 stars, 546 forks; last updated 2026-08-05; Python-based.
 
 ## Why It Matters
 

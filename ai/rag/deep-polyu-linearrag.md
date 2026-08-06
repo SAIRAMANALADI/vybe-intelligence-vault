@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-06T14:29:36.049844+05:30'
+collected_at: '2026-08-06T17:08:44.796075+05:30'
 published_at: '2026-08-04T07:42:08Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 530
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-06T14:29:36.049844+05:30'
-last_seen: '2026-08-06T14:29:36.049844+05:30'
-last_checked: '2026-08-06T14:29:36.049844+05:30'
+first_seen: '2026-08-06T17:08:44.796075+05:30'
+last_seen: '2026-08-06T17:08:44.796075+05:30'
+last_checked: '2026-08-06T17:08:44.796075+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Proposes a linear graph-based retrieval mechanism for augmenting large-scale corpora in RAG systems, optimizing retrieval efficiency for LLMs.
-- **Scalability & Performance**: Implements linear-time graph traversal for retrieval, enabling scalable and fast augmentation on large document collections (ICLR 2026 submission).
-- **Python Implementation**: Open-source repository with modular design for graph construction, retrieval, and integration with LLMs, supporting graphrag and RAG workflows.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing both scalability and performance for LLMs.
+- **Key Innovation**: Introduces a linear-time graph traversal mechanism to replace traditional hierarchical or dense retrieval methods, reducing computational overhead while maintaining retrieval quality.
+- **Implementation**: Python-based repository with modular components for graph construction, retrieval, and integration with LLMs, targeting ICLR 2026 submission.
 
 ## Why It Matters
 

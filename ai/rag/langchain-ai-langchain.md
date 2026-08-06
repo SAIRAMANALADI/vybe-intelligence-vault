@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langchain
-collected_at: '2026-08-06T14:31:36.133060+05:30'
-published_at: '2026-08-06T08:56:28Z'
+collected_at: '2026-08-06T17:10:44.925741+05:30'
+published_at: '2026-08-06T11:34:48Z'
 tags:
 - agents
 - anthropic
@@ -14,7 +14,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 143533
+stars: 143547
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2022-10-17T02:58:36Z'
 pushed_at: '2026-08-06T08:59:23Z'
 resource_id: github:langchain-ai/langchain
-first_seen: '2026-08-06T14:31:36.133060+05:30'
-last_seen: '2026-08-06T14:31:36.133060+05:30'
-last_checked: '2026-08-06T14:31:36.133060+05:30'
+first_seen: '2026-08-06T17:10:44.925741+05:30'
+last_seen: '2026-08-06T17:10:44.925741+05:30'
+last_checked: '2026-08-06T17:10:44.925741+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent & LLM Framework**: LangChain provides a Python-based framework for building AI agents, multi-agent systems, and integrating LLMs (OpenAI, Anthropic, Gemini) with tools like RAG, enterprise workflows, and generative AI pipelines.
+- **Multi-agent orchestration framework**: LangChain provides a Python-based platform for building, deploying, and managing AI agents with support for multi-agent systems, workflows, and stateful interactions via `LangGraph`.
 
-- **LangGraph & TypeScript Support**: Features a stateful agent orchestration system (`LangGraph`) with TypeScript compatibility, enabling complex agent interactions and workflows across Python and JS/TS ecosystems.
+- **Enterprise-grade tooling**: Integrates with major LLM providers (OpenAI, Anthropic, Gemini) and supports RAG, enterprise data pipelines, and structured outputs via `Pydantic` for production-grade AI applications.
 
-- **Enterprise & Pydantic Integration**: Supports enterprise-grade agent development with Pydantic-based data validation, modular tooling, and integrations for vector stores, APIs, and enterprise data sources.
+- **Polyglot ecosystem**: Primarily Python but includes TypeScript components; actively maintained with 143K+ stars and frequent updates (last commit: 2026-08-06).
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 143533
-- Forks: 23917
+- Stars: 143547
+- Forks: 23916
 - Language: Python
 - Topics: agents, ai, ai-agents, anthropic, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag, typescript
-- Last Updated: 2026-08-06T08:56:28Z
+- Last Updated: 2026-08-06T11:34:48Z
 - License: MIT
 - Archived: No
 - Created At: 2022-10-17T02:58:36Z

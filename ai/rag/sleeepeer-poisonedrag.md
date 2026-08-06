@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-06T14:29:15.985667+05:30'
+collected_at: '2026-08-06T17:08:24.771467+05:30'
 published_at: '2026-08-05T13:22:35Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-06T14:29:15.985667+05:30'
-last_seen: '2026-08-06T14:29:15.985667+05:30'
-last_checked: '2026-08-06T14:29:15.985667+05:30'
+first_seen: '2026-08-06T17:08:24.771467+05:30'
+last_seen: '2026-08-06T17:08:24.771467+05:30'
+last_checked: '2026-08-06T17:08:24.771467+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, causing LLMs to generate manipulated outputs.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting adversarial content into external knowledge bases, forcing LLMs to generate incorrect or misleading outputs while maintaining high semantic similarity to benign responses.
 
-- **Mechanism**: Exploits the retrieval-augmentation pipeline by embedding poisoned documents that are semantically similar to benign queries but contain malicious content, leading to incorrect or biased responses during inference.
+- **Attack Methodology**: Exploits vulnerabilities in RAG pipelines by strategically embedding poisoned documents that manipulate retrieval mechanisms, enabling targeted misinformation or bias injection without direct access to the LLM’s parameters.
 
-- **Evaluation & Impact**: Validated on multiple RAG benchmarks, showing significant degradation in model reliability, with potential real-world implications for applications relying on trusted knowledge sources.
+- **Evaluation & Impact**: Validates effectiveness through extensive experiments on multiple RAG models, showing significant degradation in factual accuracy and trustworthiness, with potential real-world implications for AI-driven decision-making systems.
 
 ## Why It Matters
 

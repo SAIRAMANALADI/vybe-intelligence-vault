@@ -11,11 +11,11 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (benchmark - ESSENTIAL Tier)
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (framework - ESSENTIAL Tier)
+- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (benchmark - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/explodinggradients/ragas (Ragas)
 - [OpenAI · GitHub](https://github.com/openai)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-08-06 14:45 IST*
+*Last updated: 2026-08-06 17:24 IST*

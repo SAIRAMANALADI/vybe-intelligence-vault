@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/open-agents
-collected_at: '2026-08-06T14:30:01.074686+05:30'
+collected_at: '2026-08-06T17:09:09.802557+05:30'
 published_at: '2026-08-06T07:27:25Z'
 tags:
 - agents
 - github-repo
 - rag
-- scripts
 - typescript
 stars: 5774
 language: TypeScript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-26T17:01:07Z'
 pushed_at: '2026-07-15T20:22:07Z'
 resource_id: github:vercel-labs/open-agents
-first_seen: '2026-08-06T14:30:01.074686+05:30'
-last_seen: '2026-08-06T14:30:01.074686+05:30'
-last_checked: '2026-08-06T14:30:01.074686+05:30'
+first_seen: '2026-08-06T17:09:09.802557+05:30'
+last_seen: '2026-08-06T17:09:09.802557+05:30'
+last_checked: '2026-08-06T17:09:09.802557+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Overview**: Open-source starter kit for constructing cloud-based AI agents using TypeScript, designed for scalability and modularity.
-- **Core Features**: Supports background agents with AI-driven task automation, leveraging Vercel’s serverless infrastructure for deployment.
-- **Ecosystem Integration**: Optimized for Vercel deployments, with built-in support for agent orchestration, state management, and real-time updates.
+- **Template Overview**: Provides a TypeScript-based open-source framework for constructing cloud-native AI agents with Vercel integration.
+- **Key Features**: Supports background agent execution, modular agent design, and real-time AI interactions via Vercel’s serverless infrastructure.
+- **Ecosystem**: Designed for scalability, leveraging Vercel’s deployment model with 5,774+ GitHub stars and active community contributions.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vercel-labs
 - Stars: 5774
-- Forks: 750
+- Forks: 751
 - Language: TypeScript
 - Topics: agent, agents, ai, background-agents
 - Last Updated: 2026-08-06T07:27:25Z

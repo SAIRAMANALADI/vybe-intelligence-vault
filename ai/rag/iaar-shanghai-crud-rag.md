@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-06T14:29:11.041200+05:30'
+collected_at: '2026-08-06T17:08:19.766297+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-06T14:29:11.041200+05:30'
-last_seen: '2026-08-06T14:29:11.041200+05:30'
-last_checked: '2026-08-06T14:29:11.041200+05:30'
+first_seen: '2026-08-06T17:08:19.766297+05:30'
+last_seen: '2026-08-06T17:08:19.766297+05:30'
+last_checked: '2026-08-06T17:08:19.766297+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) models, covering diverse tasks and datasets to assess performance in Chinese language contexts.
-
-- **Evaluation Framework**: Implements standardized metrics and protocols for assessing RAG systems, including retrieval accuracy, generation quality, and end-to-end performance on Chinese-specific challenges.
-
-- **Open-Source Toolkit**: Released as a Python-based repository with modular components for benchmarking, enabling reproducibility and extensibility for researchers working on Chinese RAG systems.
+- **Benchmark Development**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems for large language models (LLMs) across **Create, Read, Update, Delete (CRUD)** operations.
+- **Evaluation Framework**: Provides a structured dataset and metrics to assess RAG performance in **multi-turn conversational contexts**, focusing on retrieval accuracy, generation quality, and task completion.
+- **Open-Source Toolkit**: Released as a Python-based repository with **402 stars** and **31 forks**, offering tools for benchmarking LLMs in Chinese RAG scenarios.
 
 ## Why It Matters
 

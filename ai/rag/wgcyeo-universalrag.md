@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-06T14:29:41.019269+05:30'
+collected_at: '2026-08-06T17:08:49.769961+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
+- benchmark
 - dataset
 - github-repo
 - paper
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-06T14:29:41.019269+05:30'
-last_seen: '2026-08-06T14:29:41.019269+05:30'
-last_checked: '2026-08-06T14:29:41.019269+05:30'
+first_seen: '2026-08-06T17:08:49.769961+05:30'
+last_seen: '2026-08-06T17:08:49.769961+05:30'
+last_checked: '2026-08-06T17:08:49.769961+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Granular RAG Framework**: UniversalRAG extends traditional RAG to handle diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via unified embedding and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence), leveraging a unified indexing and retrieval mechanism.
 
-- **ACL 2026 Oral Paper**: Introduces a novel architecture for scalable, cross-modal retrieval-augmented generation with empirical validation on heterogeneous datasets.
+- **ACL 2026 Oral Paper**: Presents a novel architecture with experimental validation on cross-modal retrieval and generation tasks, demonstrating superior performance over traditional unimodal RAG baselines.
 
-- **Python Implementation**: Provides open-source toolkit with modular components for modality-specific encoders, adaptive retrieval strategies, and end-to-end pipeline integration.
+- **Open-Source Implementation**: Provides a Python-based, modular codebase with pre-trained models, retrieval pipelines, and evaluation tools, supporting extensibility for custom datasets and modalities.
 
 ## Why It Matters
 

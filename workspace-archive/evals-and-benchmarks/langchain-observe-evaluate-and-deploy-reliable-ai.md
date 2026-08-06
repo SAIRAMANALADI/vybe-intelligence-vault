@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine** autonomously clusters production agent failures, performs root cause analysis via trace inspection, and proposes fixes for review to accelerate agent improvement cycles.
+- **LangSmith Engine** autonomously clusters production agent failures, performs root cause analysis on traces/code, and proposes fixes for review to accelerate agent improvement cycles.
 
-- **Observability & Evaluation** features provide native tracing for agent frameworks (via OpenTelemetry), multi-turn message threading, LLM-as-judge evals, and human-in-the-loop calibration for iterative agent refinement.
+- **Observability & Evaluation** features provide native tracing for agent frameworks (via OpenTelemetry), multi-turn message threading, LLM-as-judge evals, and human feedback integration for iterative agent refinement.
 
-- **Deployment & Fleet** components offer fault-tolerant agent servers with durabl
+- **Deployment & Fleet** capabilities include fault-tolerant agent servers with durable che
 
 ## Use Cases
 

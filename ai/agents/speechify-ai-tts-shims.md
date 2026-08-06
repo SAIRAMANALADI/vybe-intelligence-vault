@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-08-06T14:37:32.202451+05:30'
+collected_at: '2026-08-06T17:17:27.561214+05:30'
 published_at: '2026-07-13T18:28:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-03T11:20:06Z'
 pushed_at: '2026-07-13T18:27:45Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-08-06T14:37:32.202451+05:30'
-last_seen: '2026-08-06T14:37:32.202451+05:30'
-last_checked: '2026-08-06T14:37:32.202451+05:30'
+first_seen: '2026-08-06T17:17:27.561214+05:30'
+last_seen: '2026-08-06T17:17:27.561214+05:30'
+last_checked: '2026-08-06T17:17:27.561214+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Provider-Agnostic TTS Shim Layer**: Go-based repository implementing provider-compatible shims (OpenAI, ElevenLabs, Cartesia, AWS Polly, Deepgram, etc.) that proxy requests to the Speechify API, enabling unified TTS integration for voice-agent BYOC (Bring Your Own Client) use cases.
+- **Provider-Agnostic TTS Shim Layer**: Go-based proxy engine (`tts-shims`) that standardizes API calls from multiple TTS providers (OpenAI, ElevenLabs, Cartesia, etc.) into a unified interface compatible with the Speechify API, enabling seamless integration via a single binary per provider.
 
-- **Modular Architecture**: Single Go engine with one binary per provider, ensuring minimal overhead and consistent request handling across disparate TTS providers via a shared abstraction layer.
+- **Voice-Agent BYOC Support**: Designed for Bring-Your-Own-Cloud (BYOC) architectures, facilitating voice-agent deployments by abstracting provider-specific TTS implementations into a modular, scalable Go framework.
 
-- **Last Updated**: Repository last synchronized on **2026-07-13T18:28:02Z**, indicating active maintenance for emerging TTS provider integrations and compatibility updates.
+- **Minimalist Repository Structure**: Single-engine architecture (Go) with provider-specific binaries, zero external dependencies beyond core Go libraries, and last updated July 2026—indicating active but lightweight maintenance.
 
 ## Why It Matters
 

@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-06T14:28:46.051203+05:30'
+collected_at: '2026-08-06T17:07:54.682737+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
+- benchmark
+- dataset
 - github-repo
-- hackernews
+- models
 - python
 - rag
 stars: 265
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-06T14:28:46.051203+05:30'
-last_seen: '2026-08-06T14:28:46.051203+05:30'
-last_checked: '2026-08-06T14:28:46.051203+05:30'
+first_seen: '2026-08-06T17:07:54.682737+05:30'
+last_seen: '2026-08-06T17:07:54.682737+05:30'
+last_checked: '2026-08-06T17:07:54.682737+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository provides a production-ready Vietnamese Retrieval-Augmented Generation (RAG) backend, optimized for Vietnamese language processing with specialized embedding and retrieval techniques.
+- **Implementation of RAG Pipeline**: Demonstrates a Vietnamese-specific Retrieval-Augmented Generation (RAG) pipeline using Python, integrating embedding models (e.g., `sentence-transformers`) and vector databases (e.g., `FAISS` or `Milvus`) for efficient document retrieval.
 
-- **Technical Stack**: Built in Python, utilizing frameworks like LangChain or Haystack for modular RAG pipelines, with support for Vietnamese-specific tokenization and vector databases (e.g., FAISS, Weaviate).
+- **Vietnamese Text Processing**: Includes preprocessing steps tailored for Vietnamese, such as tokenization with `VnCoreNLP` or `Underthesea`, and handling of diacritics/stopwords to optimize retrieval performance.
 
-- **Deployment & Scalability**: Includes Dockerized setup for easy deployment, with configurations for API endpoints (FastAPI/Flask) and scalable retrieval pipelines for low-latency Vietnamese document search.
+- **Evaluation & Optimization**: Provides scripts for benchmarking RAG performance on Vietnamese datasets, with metrics like `Hit Rate@K` and `MRR`, and includes fine-tuning strategies for domain-specific adaptation.
 
 ## Why It Matters
 

@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw
-published_at: '2026-08-02T19:31:20.250698+05:30'
-collected_at: '2026-08-02T19:31:20.250712+05:30'
+published_at: '2026-08-06T17:14:18.567662+05:30'
+collected_at: '2026-08-06T17:14:18.567680+05:30'
 tags:
-- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:deepset-makers-of-haystack-youtube
-first_seen: '2026-08-02T19:31:20.250712+05:30'
-last_seen: '2026-08-02T19:31:20.250712+05:30'
-last_checked: '2026-08-02T19:31:20.250712+05:30'
+first_seen: '2026-08-06T17:14:18.567680+05:30'
+last_seen: '2026-08-06T17:14:18.567680+05:30'
+last_checked: '2026-08-06T17:14:18.567680+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **YouTube Developer Resources**: Official [Developers](https://developers.google.com/youtube) portal provides APIs, tools, and documentation for integrating YouTube functionality into applications, including data access, uploads, and analytics.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view content, with additional services like live streaming, monetization (via YouTube Partner Program), and subscription features (e.g., YouTube Premium, NFL Sunday Ticket).
 
-- **YouTube Operational Framework**: [How YouTube Works](https://www.youtube.com/howyoutubeworks) outlines core infrastructure, algorithms, and monetization policies governing content delivery, recommendation systems, and creator/advertiser interactions.
+- **Developer & API Access**: Provides a [YouTube Data API](https://developers.google.com/youtube) for programmatic interaction, allowing integration of video search, uploads, and analytics into third-party applications.
 
-- **Corporate & Legal Structure**: YouTube operates under [Google LLC](https://www.youtube.com/about/), with dedicated pages for [press](https://www.youtube.com/about/press/), [terms](https://www.youtube.com/t/terms), [privacy](https://www.youtube.com/t/privacy), and [policy enforcement](https://www.youtube.com/about/policies/).
+- **Policy & Compliance**: Enforces [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Content Guidelines](https://www.youtube.com/about/policies/) to regulate user-generated content, copyright, and safety standards.
 
 ## Why It Matters
 
@@ -36,11 +35,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T19:31:20.250698+05:30
+- Published: 2026-08-06T17:14:18.567662+05:30
 
 ## Related Tags
 
-- reddit
 - web-crawled
 - youtube
 

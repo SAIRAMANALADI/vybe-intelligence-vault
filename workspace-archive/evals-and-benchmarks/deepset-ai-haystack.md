@@ -1,33 +1,32 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
-resource_id: github:deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------
+resource_id: github:deepset-ai/haystack-4d0ea9e7
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
-- anthropic
-- producthunt
+- github-repo
+- python
 - rag
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack GitHub Repository**: Open-source framework by deepset-ai for building RAG pipelines, with 26.1k stars, 3k forks, and active development (66 issues, 19 PRs).
+- **Modular AI Orchestration**: Python-based framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
 
-- **Haystack 3.0 Launch**: Announced in a July 2026 launch week (July 20–24), introducing new features and improvements to the framework.
+- **Context-Engineered Applications**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI with explicit context engineering and retrieval-augmented generation (RAG) capabilities.
 
-- **Community Discussions**: Active discussions on debugging retrieval failures, runtime security (AgentShield), diagnostics engine for RAG pipelines, and async execution bridges for sandbox
+- **Multi-Agent & MCP Support**: Facilitates multi-agent sys
 
 ## Use Cases
 
@@ -49,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------
 
 ## Local Vault File
 

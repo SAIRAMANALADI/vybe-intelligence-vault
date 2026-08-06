@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-06T14:30:31.087037+05:30'
+collected_at: '2026-08-06T17:09:39.790584+05:30'
 published_at: '2026-08-04T06:02:01Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-06T14:30:31.087037+05:30'
-last_seen: '2026-08-06T14:30:31.087037+05:30'
-last_checked: '2026-08-06T14:30:31.087037+05:30'
+first_seen: '2026-08-06T17:09:39.790584+05:30'
+last_seen: '2026-08-06T17:09:39.790584+05:30'
+last_checked: '2026-08-06T17:09:39.790584+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Resource Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Covers agentic AI, CLI tools, LLM interactions, and MCP (Model Context Protocol) integrations with Anthropic's Claude model.
-- **Repository Metrics**: Hosted on GitHub with 68 stars, 14 forks, primarily written in Shell, and last updated on 2026-08-04.
+- **Repository Overview**: Hosts a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Stack**: Primarily Shell-based, with integration support for AI/ML tools, MCP (Model Context Protocol), and CLI-driven workflows.
+- **Key Features**: Focuses on agentic AI patterns, Anthropic ecosystem compatibility, and developer-centric templates for efficient LLM (Large Language Model) interactions.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: MuhammadUsmanGM
 - Stars: 68
-- Forks: 14
+- Forks: 15
 - Language: Shell
 - Topics: agentic-ai, ai, anthropic, best-practices, claude, claude-code, cli, developer-tools, llm, mcp, templates
 - Last Updated: 2026-08-04T06:02:01Z

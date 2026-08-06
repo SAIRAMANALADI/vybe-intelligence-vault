@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-cli
-collected_at: '2026-08-06T14:35:18.113706+05:30'
+collected_at: '2026-08-06T17:15:54.259683+05:30'
 published_at: '2026-07-23T17:43:50Z'
 tags:
 - github-repo
 - go
-- hackernews
 - meta-ai
 - models
 - rag
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-06-15T21:38:58Z'
 pushed_at: '2026-08-05T18:01:42Z'
 resource_id: github:run-llama/llama-parse-cli
-first_seen: '2026-08-06T14:35:18.113706+05:30'
-last_seen: '2026-08-06T14:35:18.113706+05:30'
-last_checked: '2026-08-06T14:35:18.113706+05:30'
+first_seen: '2026-08-06T17:15:54.259683+05:30'
+last_seen: '2026-08-06T17:15:54.259683+05:30'
+last_checked: '2026-08-06T17:15:54.259683+05:30'
 health_score: 100
 ---
 
@@ -32,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: CLI tool for cloud-based OCR and document parsing using LlamaParse, enabling structured extraction from unstructured documents.
-- **Technical Stack**: Implemented in Go, leveraging cloud infrastructure for scalable document processing.
-- **Integration**: Designed to work with LlamaParse's API for high-fidelity parsing of PDFs, images, and other document formats.
+- **Tech Stack**: Implemented in Go, leveraging cloud infrastructure for scalable document processing.
+- **Status**: Minimal project activity (2 stars, 1 fork) with last update on 2026-07-23.
 
 ## Why It Matters
 

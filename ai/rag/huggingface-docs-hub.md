@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-06T14:35:48.150907+05:30'
-collected_at: '2026-08-06T14:35:48.150922+05:30'
+published_at: '2026-08-06T17:13:07.399155+05:30'
+collected_at: '2026-08-06T17:13:07.399171+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-06T14:35:48.150922+05:30'
-last_seen: '2026-08-06T14:35:48.150922+05:30'
-last_checked: '2026-08-06T14:35:48.150922+05:30'
+first_seen: '2026-08-06T17:13:07.399171+05:30'
+last_seen: '2026-08-06T17:13:07.399171+05:30'
+last_checked: '2026-08-06T17:13:07.399171+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript, including GPU acceleration for performance-critical workloads.
+- **Spaces Hosting**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript deployments, including GPU acceleration options.
 
-- **Configuration & Integration**: Supports dependency management, GitHub Actions for CI/CD, custom domains, and OAuth-based authentication, with reference configurations for Docker and static deployments.
+- **Storage & Compute**: Spaces support disk usage tracking, custom domains, ZeroGPU mode, and integration with MCP servers/agents, with configurations defined via YAML/TOML files.
 
-- **Advanced Features**: Provides ZeroGPU mode, disk/storage management, embedding options, and MCP server/agent tool integrations for scalable and modular ML application deployments.
+- **Advanced Features**: Supports OAuth sign-in, API endpoints, embedded Spaces, and GitHub Actions integration for CI/CD workflows, with detailed configuration references and changelogs.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T14:35:48.150907+05:30
+- Published: 2026-08-06T17:13:07.399155+05:30
 
 ## Related Tags
 

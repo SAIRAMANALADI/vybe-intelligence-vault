@@ -53,9 +53,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`explosion-spacy.md`](../../ai/rag/explosion-spacy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
+### [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`vstorm-co-full-stack-ai-agent-template.md`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-06 14:45 IST*
+*Last updated: 2026-08-06 17:25 IST*

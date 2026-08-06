@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/run-llama/
-published_at: '2026-08-06T14:33:28.375720+05:30'
-collected_at: '2026-08-06T14:33:28.375733+05:30'
+published_at: '2026-08-06T17:14:09.096887+05:30'
+collected_at: '2026-08-06T17:14:09.096904+05:30'
 tags:
 - agents
 - meta-ai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-08-06T14:33:28.375733+05:30'
-last_seen: '2026-08-06T14:33:28.375733+05:30'
-last_checked: '2026-08-06T14:33:28.375733+05:30'
+first_seen: '2026-08-06T17:14:09.096904+05:30'
+last_seen: '2026-08-06T17:14:09.096904+05:30'
+last_checked: '2026-08-06T17:14:09.096904+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides three core cloud-based products—**Parse** (OCR-powered document parsing), **Extract** (structured data extraction), and a **Platform** for managing workflows, optimized for agentic document processing.
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for document processing workflows, with platform documentation available at [developers.llamaindex.ai](https://developers.llamaindex.ai/python/cloud/).
 
-- **Open-Source Tooling**: Offers **LiteParse** (lightweight OCR), **LlamaAgents** (agent orchestration framework), and **LlamaIndex (Python)** (RAG pipeline library) with full documentation for custom deployments.
+- **Open-Source Tooling**: Offers `LiteParse` (lightweight OCR) and `LlamaAgents` (agent orchestration) as part of the LlamaIndex ecosystem, with core Python library (`llama_index`) and documentation hosted on GitHub and [docs.llamaindex.ai](https://docs.llamaindex.ai/en/stable/).
 
-- **Multi-Channel Support**: Maintains active presence on **X (Twitter)**, **LinkedIn**, and **YouTube** for community engagement and updates.
+- **Community & Support**: Maintains active presence on X (Twitter), LinkedIn, and YouTube for updates and engagement, with direct links provided in the resource.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T14:33:28.375720+05:30
+- Published: 2026-08-06T17:14:09.096887+05:30
 
 ## Related Tags
 

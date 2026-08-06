@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project
 hn_url: https://news.ycombinator.com/item?id=49191624
-score: 229
+score: 247
 author: mapping365
-comments_count: 274
+comments_count: 310
 published_at: '2026-08-06T07:45:14+05:30'
-collected_at: '2026-08-06T14:25:50.158119+05:30'
+collected_at: '2026-08-06T17:06:14.336863+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:nashville-uses-eminent-domain-to-block-data-center
 first_seen: '2026-08-06T09:07:58.203030+05:30'
-last_seen: '2026-08-06T14:25:50.158119+05:30'
-last_checked: '2026-08-06T14:25:50.158119+05:30'
+last_seen: '2026-08-06T17:06:14.336863+05:30'
+last_checked: '2026-08-06T17:06:14.336863+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by mapping365. Score: 229, Comments: 274.
+Hacker News story by mapping365. Score: 247, Comments: 310.
 Original Link: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: mapping365
-- Score: 229 Upvotes
-- Comments: 274 Discussions
+- Score: 247 Upvotes
+- Comments: 310 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49191624
 - Original Article: https://costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project
 
