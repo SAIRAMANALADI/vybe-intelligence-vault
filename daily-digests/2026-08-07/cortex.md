@@ -1,67 +1,64 @@
 ---
-title: supernavyl/cortex
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-07
-tech_stack:
-- Rust
-- Cargo
-- Unix sockets
-- SQLite
-- MCP (Model Context Protocol)
-- systemd
-- musl libc
+title: "Pratham9911/Cortex"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["React", "Express", "Node.js", "PostgreSQL", "Neo4j", "Redis", "BullMQ", "TypeScript", "Embeddings", "LLM APIs"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- code verification
-- sandboxing
-- Rust development
-- AI safety
-- pre-apply gating
-source: https://github.com/supernavyl/cortex
-stars: 0
-language: Rust
-last_updated: '2026-07-10T18:19:20Z'
-discovered_at: '2026-07-10T18:22:47Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 9
+deployment_complexity: "Medium"
+tags: ["knowledge management", "explainable AI", "retrieval systems", "structured data", "decision support"]
+source: "https://github.com/Pratham9911/Cortex"
+stars: 1
+language: "TypeScript"
+last_updated: "2026-07-20T15:06:29Z"
+discovered_at: "2026-07-20T15:10:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Cortex is a Rust-specific pre-apply verification daemon that gates AI-generated code edits by running `cargo check` in a sandbox before allowing changes to touch the filesystem. It ensures only compilable diffs are applied, reducing hallucinations in coding AI workflows.
+Cortex is an internal AI knowledge and decision system designed to ingest structured knowledge, retrieve relevant context, generate explainable answers, and ensure reliability through logging and system design. It prioritizes clarity, trust, and actionable intelligence over raw AI responses.
 
 ## Key Features
-- Pre-apply compilation gate using `cargo check` in a sandboxed environment
-- Automatic retry loop (up to 6 rounds) for failed edits with compiler feedback
-- MCP server integration for seamless use with AI coding agents (Claude Code, Cursor)
-- Atomic, fsync-backed writes to ensure data integrity
-- Strict Rust-only scope with clear architectural decision records (ADRs) for future expansion
+- Structured knowledge ingestion with versioning and metadata
+- Vector-based retrieval with top-k and threshold management
+- Explainable AI with source attribution and confidence scoring
+- Core system pillars ensuring clarity, reliability, and actionable outputs
+- Engineering and ops focus with API-first backend, logging, and monitoring
 
 ## Why It Matters for RAG Builders
-Cortex prevents AI-generated code hallucinations from corrupting Rust projects by verifying edits compile before they touch disk, making it essential for reliable AI-assisted Rust development.
+Cortex provides a structured, explainable, and reliable framework for building RAG systems that prioritize trust and clarity over raw AI power.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cargo
-Automated review identified **Cargo** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Express
+Automated review identified **Express** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Unix sockets
-Automated review identified **Unix sockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Neo4j
+Automated review identified **Neo4j** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### systemd
-Automated review identified **systemd** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Redis
+Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### musl libc
-Automated review identified **musl libc** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### BullMQ
+Automated review identified **BullMQ** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Embeddings
+Automated review identified **Embeddings** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### LLM APIs
+Automated review identified **LLM APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

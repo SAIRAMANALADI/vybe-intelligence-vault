@@ -4,27 +4,21 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-| `ai/agents/` | 2607 |
-| `ai/community/` | 4 |
-| `ai/companies/` | 10 |
-| `ai/companies/anthropic/` | 10 |
-| `ai/companies/deepmind/` | 5 |
-| `ai/companies/mistral/` | 10 |
-| `ai/companies/openai/` | 4 |
-| `ai/models/` | 786 |
-| `ai/rag/` | 5500 |
+| `Agent Framework/` | 1 |
+| `ai/agents/` | 2543 |
+| `ai/community/` | 5 |
+| `ai/rag/` | 5456 |
 | `ai/releases/` | 1 |
-| `ai/research/` | 7398 |
-| `ai/resources/` | 1430 |
+| `ai/research/` | 7399 |
+| `ai/resources/` | 1420 |
 | `ai/trending/` | 5 |
-| `daily-digests/2026-07-04/` | 1 |
-| `web-development/` | 40 |
+| `web-development/` | 39 |
 | `web-development/framer-motion/` | 3 |
 | `web-development/gsap/` | 3 |
-| `web-development/nextjs/` | 71 |
+| `web-development/nextjs/` | 9 |
 | `web-development/react-three-fiber/` | 22 |
 | `web-development/shadcn-ui/` | 26 |
-| `web-development/tailwind/` | 2 |
+| `web-development/tailwind/` | 1 |
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |
 | `web-development/webgpu/` | 25 |
