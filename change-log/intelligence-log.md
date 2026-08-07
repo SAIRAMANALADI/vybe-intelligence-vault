@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-08-07T11:44:10.135944+05:30
+### Run: 2026-08-07T13:48:35.575698+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `CSS Nesting | Chrome for Developers`: Rank rose by +1
 - **[Rank Rise]** `async function - JavaScript | MDN`: Rank rose by +3
@@ -16995,7 +16995,7 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `Medium Privacy Policy | by Medium | Medium Policy`: Rank dropped by -7279
 - **[Rank Drop]** `RUC-NLPIR/FlashRAG`: Rank dropped by -16728
 
-### Run: 2026-08-07T10:27:50.155891+05:30
+### Run: 2026-08-07T11:44:10.135944+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `CSS Nesting | Chrome for Developers`: Rank rose by +1
 - **[Rank Rise]** `async function - JavaScript | MDN`: Rank rose by +3
@@ -17377,82 +17377,82 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Rise]** `Overview Â· Cloudflare Workers AI docs`: Rank rose by +1007
 - **[Rank Rise]** `Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain`: Rank rose by +1007
 - **[Rank Rise]** `7 Best GitHub Repositories For Mastering RAG Systems`: Rank rose by +1007
-- **[Rank Rise]** `langgenius/dify`: Rank rose by +1008
-- **[Rank Rise]** `neuml/txtai`: Rank rose by +1008
-- **[Rank Rise]** `krishnaik06/Agentic-LanggraphCrash-course`: Rank rose by +1008
-- **[Rank Rise]** `esxr/langgraph-mcp`: Rank rose by +1008
-- **[Rank Rise]** `sickn33/agentic-awesome-skills`: Rank rose by +1008
-- **[Rank Rise]** `langchain-ai/react-agent`: Rank rose by +1008
-- **[Rank Rise]** `SamuelSchmidgall/AgentLaboratory`: Rank rose by +1008
-- **[Rank Rise]** `plusai-solutions/ai-scrum-master-template`: Rank rose by +1008
-- **[Rank Rise]** `wxmb01/codex-app-autonomous-runs`: Rank rose by +1008
-- **[Rank Rise]** `PentesterFlow/agent`: Rank rose by +1008
-- **[Rank Rise]** `reworkd/AgentGPT`: Rank rose by +1008
-- **[Rank Rise]** `zai-org/Open-AutoGLM`: Rank rose by +1008
-- **[Rank Rise]** `Panniantong/Agent-Reach`: Rank rose by +1008
-- **[Rank Rise]** `Top 7 GitHub Repos to Master Retrieval-Augmented Generation`: Rank rose by +1008
-- **[Rank Rise]** `How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial`: Rank rose by +1008
-- **[Rank Rise]** `RAG (Retrieval Augmented Generation) Guide 2025: Implementation, Vector Databases & Best Practices`: Rank rose by +1008
-- **[Rank Rise]** `Making sure you're not a bot!`: Rank rose by +1008
-- **[Rank Rise]** `Gemini Code Assist overview | Google for Developers`: Rank rose by +1008
-- **[Rank Rise]** `A Tour of Gemini Code Assist Standard and Enterprise for Developers in Google Cloud Shell Editor | Google Codelabs`: Rank rose by +1008
-- **[Rank Rise]** `google-gemini/gemini-cli`: Rank rose by +1008
-- **[Rank Rise]** `17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information`: Rank rose by +1008
-- **[Rank Rise]** `Deed - Attribution-ShareAlike 2.0 Generic - Creative Commons`: Rank rose by +1008
-- **[Rank Rise]** `The Santa Clara Principles on Transparency and Accountability in Content Moderation`: Rank rose by +1008
-- **[Rank Rise]** `Speechify-AI/tts-shims`: Rank rose by +1008
-- **[Rank Rise]** `SpeechifyInc/ai-api-examples`: Rank rose by +1008
-- **[Rank Rise]** `Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥`: Rank rose by +1008
-- **[Rank Rise]** `Sign in to GitHub · GitHub`: Rank rose by +1008
-- **[Rank Rise]** `Changelog | Firecrawl`: Rank rose by +1008
-- **[Rank Rise]** `TXYZ - Integrate all paths to knowledge`: Rank rose by +1008
-- **[Rank Rise]** `Exploring the Practical Applications of Generative AI in Industries`: Rank rose by +1008
-- **[Rank Rise]** `DataHack Platform: Compete, Learn & Grow in Data Science`: Rank rose by +1008
-- **[Rank Rise]** `Learning Path Resources - Analytics Vidhya`: Rank rose by +1008
-- **[Rank Rise]** `NFL - YouTube`: Rank rose by +1008
-- **[Rank Rise]** `Training Overview — Sentence Transformers documentation`: Rank rose by +1008
-- **[Rank Rise]** `Quickstart — Sentence Transformers documentation`: Rank rose by +1008
-- **[Rank Rise]** `Semantic Textual Similarity — Sentence Transformers documentation`: Rank rose by +1008
-- **[Rank Rise]** `Android Open Source Project`: Rank rose by +1008
-- **[Rank Rise]** `Medium/medium-policy`: Rank rose by +1008
-- **[Rank Rise]** `Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users`: Rank rose by +1008
-- **[Rank Rise]** `Introduction | Firecrawl`: Rank rose by +1008
-- **[Rank Rise]** `Configure imaging`: Rank rose by +1008
-- **[Rank Rise]** `- YouTube`: Rank rose by +1008
-- **[Rank Rise]** `deepset, makers of Haystack - YouTube`: Rank rose by +1008
-- **[Rank Rise]** `[2005.11401] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks`: Rank rose by +1008
-- **[Rank Rise]** `Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help`: Rank rose by +1008
-- **[Rank Rise]** `System requirements & supported devices for YouTube - YouTube Help`: Rank rose by +1008
-- **[Rank Rise]** `Manage renewal for NFL Sunday Ticket on YouTube Primetime Channels - Computer - YouTube Help`: Rank rose by +1008
-- **[Rank Rise]** `huggingface/sentence-transformers`: Rank rose by +1008
-- **[Rank Rise]** `Home - The GitHub Blog`: Rank rose by +1008
-- **[Rank Rise]** `DagsHub: Everything you need to manage multimodal AI`: Rank rose by +1008
-- **[Rank Rise]** `[2005.11401] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks`: Rank rose by +1008
-- **[Rank Rise]** `The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV`: Rank rose by +1008
-- **[Rank Rise]** `SentenceTransformers Documentation — Sentence Transformers documentation`: Rank rose by +1008
-- **[Rank Rise]** `Agent | Firecrawl`: Rank rose by +1008
-- **[Rank Rise]** `truefoundry/cognita`: Rank rose by +1008
-- **[Rank Rise]** `langchain-ai/data-enrichment`: Rank rose by +1008
-- **[Rank Rise]** `Doorman11991/smallcode`: Rank rose by +1008
-- **[Rank Rise]** `kyrolabs/awesome-agents`: Rank rose by +1008
-- **[Rank Rise]** `shanraisshan/codex-cli-best-practice`: Rank rose by +1008
-- **[Rank Rise]** `docker/compose-for-agents`: Rank rose by +1008
-- **[Rank Rise]** `Understanding RAG from Scratch | martinuke0's Blog`: Rank rose by +1008
-- **[Rank Rise]** `Firebase · GitHub`: Rank rose by +1008
-- **[Rank Rise]** `Gemini in Android Studio - Android Developers`: Rank rose by +1008
-- **[Rank Rise]** `Stream Firestore to BigQuery | Firebase Extensions Hub`: Rank rose by +1008
-- **[Rank Rise]** `trekhleb/javascript-algorithms`: Rank rose by +1008
-- **[Rank Rise]** `yuin/goldmark`: Rank rose by +1008
-- **[Rank Rise]** `Pandoc - index`: Rank rose by +1008
-- **[Rank Rise]** `Privacy Policy | Speechify`: Rank rose by +1008
-- **[Rank Rise]** `nodejs/node`: Rank rose by +1008
-- **[Rank Rise]** `Deep Agents Code - Docs by LangChain`: Rank rose by +1008
-- **[Rank Rise]** `Getting Started | Developer Documentation`: Rank rose by +1008
-- **[Rank Rise]** `GitHub Docs`: Rank rose by +1008
-- **[Rank Rise]** `GitHub · Change is constant. GitHub keeps you ahead. · GitHub`: Rank rose by +1008
-- **[Rank Rise]** `llmware-ai/llmware`: Rank rose by +1008
-- **[Rank Rise]** `Models – Hugging Face`: Rank rose by +1008
-- **[Rank Rise]** `stanford-oval/storm`: Rank rose by +17540
+- **[Rank Rise]** `Medium`: Rank rose by +1007
+- **[Rank Rise]** `langgenius/dify`: Rank rose by +1007
+- **[Rank Rise]** `neuml/txtai`: Rank rose by +1007
+- **[Rank Rise]** `krishnaik06/Agentic-LanggraphCrash-course`: Rank rose by +1007
+- **[Rank Rise]** `esxr/langgraph-mcp`: Rank rose by +1007
+- **[Rank Rise]** `sickn33/agentic-awesome-skills`: Rank rose by +1007
+- **[Rank Rise]** `langchain-ai/react-agent`: Rank rose by +1007
+- **[Rank Rise]** `SamuelSchmidgall/AgentLaboratory`: Rank rose by +1007
+- **[Rank Rise]** `plusai-solutions/ai-scrum-master-template`: Rank rose by +1007
+- **[Rank Rise]** `wxmb01/codex-app-autonomous-runs`: Rank rose by +1007
+- **[Rank Rise]** `PentesterFlow/agent`: Rank rose by +1007
+- **[Rank Rise]** `reworkd/AgentGPT`: Rank rose by +1007
+- **[Rank Rise]** `zai-org/Open-AutoGLM`: Rank rose by +1007
+- **[Rank Rise]** `Panniantong/Agent-Reach`: Rank rose by +1007
+- **[Rank Rise]** `Top 7 GitHub Repos to Master Retrieval-Augmented Generation`: Rank rose by +1007
+- **[Rank Rise]** `How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial`: Rank rose by +1007
+- **[Rank Rise]** `RAG (Retrieval Augmented Generation) Guide 2025: Implementation, Vector Databases & Best Practices`: Rank rose by +1007
+- **[Rank Rise]** `Making sure you're not a bot!`: Rank rose by +1007
+- **[Rank Rise]** `Gemini Code Assist overview | Google for Developers`: Rank rose by +1007
+- **[Rank Rise]** `A Tour of Gemini Code Assist Standard and Enterprise for Developers in Google Cloud Shell Editor | Google Codelabs`: Rank rose by +1007
+- **[Rank Rise]** `google-gemini/gemini-cli`: Rank rose by +1007
+- **[Rank Rise]** `17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information`: Rank rose by +1007
+- **[Rank Rise]** `Deed - Attribution-ShareAlike 2.0 Generic - Creative Commons`: Rank rose by +1007
+- **[Rank Rise]** `The Santa Clara Principles on Transparency and Accountability in Content Moderation`: Rank rose by +1007
+- **[Rank Rise]** `Speechify-AI/tts-shims`: Rank rose by +1007
+- **[Rank Rise]** `SpeechifyInc/ai-api-examples`: Rank rose by +1007
+- **[Rank Rise]** `Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥`: Rank rose by +1007
+- **[Rank Rise]** `Sign in to GitHub · GitHub`: Rank rose by +1007
+- **[Rank Rise]** `Changelog | Firecrawl`: Rank rose by +1007
+- **[Rank Rise]** `TXYZ - Integrate all paths to knowledge`: Rank rose by +1007
+- **[Rank Rise]** `Exploring the Practical Applications of Generative AI in Industries`: Rank rose by +1007
+- **[Rank Rise]** `DataHack Platform: Compete, Learn & Grow in Data Science`: Rank rose by +1007
+- **[Rank Rise]** `Learning Path Resources - Analytics Vidhya`: Rank rose by +1007
+- **[Rank Rise]** `NFL - YouTube`: Rank rose by +1007
+- **[Rank Rise]** `Training Overview — Sentence Transformers documentation`: Rank rose by +1007
+- **[Rank Rise]** `Quickstart — Sentence Transformers documentation`: Rank rose by +1007
+- **[Rank Rise]** `Semantic Textual Similarity — Sentence Transformers documentation`: Rank rose by +1007
+- **[Rank Rise]** `Android Open Source Project`: Rank rose by +1007
+- **[Rank Rise]** `Medium/medium-policy`: Rank rose by +1007
+- **[Rank Rise]** `Speechify: Text to Speech & Voice Typing AI Assistant | 60M+ Users`: Rank rose by +1007
+- **[Rank Rise]** `Introduction | Firecrawl`: Rank rose by +1007
+- **[Rank Rise]** `Configure imaging`: Rank rose by +1007
+- **[Rank Rise]** `- YouTube`: Rank rose by +1007
+- **[Rank Rise]** `deepset, makers of Haystack - YouTube`: Rank rose by +1007
+- **[Rank Rise]** `[2005.11401] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks`: Rank rose by +1007
+- **[Rank Rise]** `Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help`: Rank rose by +1007
+- **[Rank Rise]** `System requirements & supported devices for YouTube - YouTube Help`: Rank rose by +1007
+- **[Rank Rise]** `Manage renewal for NFL Sunday Ticket on YouTube Primetime Channels - Computer - YouTube Help`: Rank rose by +1007
+- **[Rank Rise]** `huggingface/sentence-transformers`: Rank rose by +1007
+- **[Rank Rise]** `Home - The GitHub Blog`: Rank rose by +1007
+- **[Rank Rise]** `DagsHub: Everything you need to manage multimodal AI`: Rank rose by +1007
+- **[Rank Rise]** `[2005.11401] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks`: Rank rose by +1007
+- **[Rank Rise]** `The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV`: Rank rose by +1007
+- **[Rank Rise]** `SentenceTransformers Documentation — Sentence Transformers documentation`: Rank rose by +1007
+- **[Rank Rise]** `Agent | Firecrawl`: Rank rose by +1007
+- **[Rank Rise]** `truefoundry/cognita`: Rank rose by +1007
+- **[Rank Rise]** `langchain-ai/data-enrichment`: Rank rose by +1007
+- **[Rank Rise]** `Doorman11991/smallcode`: Rank rose by +1007
+- **[Rank Rise]** `kyrolabs/awesome-agents`: Rank rose by +1007
+- **[Rank Rise]** `shanraisshan/codex-cli-best-practice`: Rank rose by +1007
+- **[Rank Rise]** `docker/compose-for-agents`: Rank rose by +1007
+- **[Rank Rise]** `Understanding RAG from Scratch | martinuke0's Blog`: Rank rose by +1007
+- **[Rank Rise]** `Firebase · GitHub`: Rank rose by +1007
+- **[Rank Rise]** `Gemini in Android Studio - Android Developers`: Rank rose by +1007
+- **[Rank Rise]** `Stream Firestore to BigQuery | Firebase Extensions Hub`: Rank rose by +1007
+- **[Rank Rise]** `trekhleb/javascript-algorithms`: Rank rose by +1007
+- **[Rank Rise]** `yuin/goldmark`: Rank rose by +1007
+- **[Rank Rise]** `Pandoc - index`: Rank rose by +1007
+- **[Rank Rise]** `Privacy Policy | Speechify`: Rank rose by +1007
+- **[Rank Rise]** `nodejs/node`: Rank rose by +1007
+- **[Rank Rise]** `Deep Agents Code - Docs by LangChain`: Rank rose by +1007
+- **[Rank Rise]** `Getting Started | Developer Documentation`: Rank rose by +1007
+- **[Rank Rise]** `GitHub Docs`: Rank rose by +1007
+- **[Rank Rise]** `GitHub · Change is constant. GitHub keeps you ahead. · GitHub`: Rank rose by +1007
+- **[Rank Rise]** `llmware-ai/llmware`: Rank rose by +1007
+- **[Rank Rise]** `Models – Hugging Face`: Rank rose by +1007
 - **[Rank Rise]** `snyk/agent-scan`: Rank rose by +1007
 - **[Rank Rise]** `microsoft/rag-time`: Rank rose by +1007
 - **[Rank Rise]** `GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience`: Rank rose by +1007
