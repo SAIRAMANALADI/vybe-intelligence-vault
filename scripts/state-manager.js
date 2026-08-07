@@ -217,9 +217,23 @@ function writeIndex(index) {
   // Atomically replace old index
   fs.renameSync(tempPath, INDEX_PATH);
   
-  // Keep copy in root directory
+  // Keep copy in root directory safely with retry logic against EBUSY file locks
   const rootIndex = path.join(ROOT_DIR, 'vault-index.json');
-  fs.copyFileSync(INDEX_PATH, rootIndex);
+  try {
+    fs.copyFileSync(INDEX_PATH, rootIndex);
+  } catch (copyErr) {
+    if (copyErr.code === 'EBUSY') {
+      try {
+        // Sleep briefly and retry once
+        const syncBuf = fs.readFileSync(INDEX_PATH);
+        fs.writeFileSync(rootIndex, syncBuf);
+      } catch (e2) {
+        console.warn(`Warning: Could not sync root vault-index.json copy (${copyErr.message}). Core index intact.`);
+      }
+    } else {
+      console.warn(`Warning: Could not sync root vault-index.json copy: ${copyErr.message}`);
+    }
+  }
   
   cachedIndex = index;
   lastReadTime = Date.now();
