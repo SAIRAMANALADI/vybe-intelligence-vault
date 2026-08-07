@@ -4,19 +4,20 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.langchain.com/
-published_at: '2026-08-07T05:54:31.867133+05:30'
-collected_at: '2026-08-07T05:54:31.867150+05:30'
+published_at: '2026-08-07T08:56:16.354422+05:30'
+collected_at: '2026-08-07T08:56:16.354434+05:30'
 tags:
 - agents
 - benchmark
 - producthunt
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:langchain-blog
-first_seen: '2026-08-07T05:54:31.867150+05:30'
-last_seen: '2026-08-07T05:54:31.867150+05:30'
-last_checked: '2026-08-07T05:54:31.867150+05:30'
+first_seen: '2026-08-07T08:56:16.354434+05:30'
+last_seen: '2026-08-07T08:56:16.354434+05:30'
+last_checked: '2026-08-07T08:56:16.354434+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Deep Agents** are autonomous, stateful agents with persistent memory and tool-use capabilities, designed for long-running, complex tasks, whereas **LangChain** is a framework for chaining LLM calls and tools, and **LangGraph** is a graph-based orchestration layer for agent workflows.
+- **Deep Agents** are autonomous, stateful agents with built-in memory, tool use, and multi-step reasoning, designed for production-grade agentic workflows, unlike LangChain’s modular chains or LangGraph’s graph-based orchestration.
 
-- **LangSmith LLM Gateway** provides runtime controls for production agents, enabling real-time monitoring, throttling, and policy enforcement to ensure safe and scalable agent deployments.
+- **LangSmith LLM Gateway** introduces runtime controls (e.g., rate limiting, model switching, fallback mechanisms) for production agents, enabling real-time monitoring and intervention in agentic systems.
 
-- **Deep Agents v0.7** introduces enhanced benchmarking frameworks, improved observability, and tighter integration with LangSmith for evaluating agent performance, execution quality, and outcome metrics.
+- **Deep Agents v0.7** introduces enhanced benchmarking (e.g., ReviewBench for code review agents) and observability features, improving eval automation and performance tracking in agentic architectures.
 
 ## Why It Matters
 
@@ -38,13 +39,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-07T05:54:31.867133+05:30
+- Published: 2026-08-07T08:56:16.354422+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
 - producthunt
+- scripts
 - web-crawled
 - workflows
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-08-07T05:49:36.584106+05:30'
-published_at: '2026-08-06T21:50:17Z'
+collected_at: '2026-08-07T08:50:53.905195+05:30'
+published_at: '2026-08-07T03:01:41Z'
 tags:
 - agents
 - benchmark
@@ -17,17 +17,17 @@ tags:
 - openai
 - rag
 - workflows
-stars: 19468
+stars: 19476
 language: Go
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-07-22T08:01:23Z'
-pushed_at: '2026-08-06T13:59:02Z'
+pushed_at: '2026-08-07T02:58:41Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-08-07T05:49:36.584106+05:30'
-last_seen: '2026-08-07T05:49:36.584106+05:30'
-last_checked: '2026-08-07T05:49:36.584106+05:30'
+first_seen: '2026-08-07T08:50:53.905195+05:30'
+last_seen: '2026-08-07T08:50:53.905195+05:30'
+last_checked: '2026-08-07T08:50:53.905195+05:30'
 health_score: 100
 ---
 
@@ -35,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified LLM Knowledge Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multimodal and multi-tenant architectures.
+- **Multi-functional LLM Platform**: Converts raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki, supporting multimodal and multi-tenant architectures.
 
-- **Technical Stack**: Implemented in Go, integrates embeddings, vector search, reranking, and semantic search; supports OpenAI and Ollama models for generative AI tasks.
+- **Technical Stack**: Implements vector search, embeddings, reranking, and semantic search with Go, integrating OpenAI, Ollama, and generative AI models for question-answering and knowledge base management.
 
-- **Features**: Enables question-answering, chatbot interactions, and knowledge base management with evaluation and semantic capabilities for scalable AI-driven workflows.
+- **Scalability & Features**: Supports agentic workflows, evaluation pipelines, and cross-model compatibility, optimized for high-performance document processing and real-time knowledge updates.
 
 ## Why It Matters
 
@@ -48,15 +48,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 19468
-- Forks: 2779
+- Stars: 19476
+- Forks: 2781
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-08-06T21:50:17Z
+- Last Updated: 2026-08-07T03:01:41Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z
-- Pushed At: 2026-08-06T13:59:02Z
+- Pushed At: 2026-08-07T02:58:41Z
 
 ## Possible Use Cases
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-py
-collected_at: '2026-08-06T14:34:12.799679+05:30'
-published_at: '2026-08-04T11:52:08Z'
+collected_at: '2026-08-07T08:56:19.522025+05:30'
+published_at: '2026-08-06T10:03:54Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - models
 - python
 - workflows
-stars: 55
+stars: 56
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-11-06T21:59:30Z'
-pushed_at: '2026-08-05T17:49:50Z'
+pushed_at: '2026-08-07T01:37:55Z'
 resource_id: github:run-llama/llama-parse-py
-first_seen: '2026-08-06T14:34:12.799679+05:30'
-last_seen: '2026-08-06T14:34:12.799679+05:30'
-last_checked: '2026-08-06T14:34:12.799679+05:30'
+first_seen: '2026-08-07T08:56:19.522025+05:30'
+last_seen: '2026-08-07T08:56:19.522025+05:30'
+last_checked: '2026-08-07T08:56:19.522025+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK for Cloud-Based Document Parsing**: Provides OCR and structured parsing capabilities via LlamaParse, enabling cloud-based document processing and information extraction.
-- **Integration with Llama Ecosystem**: Designed for compatibility with Llama agents, facilitating document-agent workflows and structured data extraction.
-- **Lightweight & Actively Maintained**: Repository has 55 stars, 15 forks, and was last updated on 2026-08-04, indicating active development.
+- **Python SDK for Cloud-Based OCR & Document Parsing**: Provides a Python interface for extracting and parsing text from documents using LlamaParse's cloud-based OCR and document processing capabilities.
+
+- **Key Features**: Supports information extraction, structured parsing, and integration with document agents for automated workflows.
+
+- **Metadata**: 56 stars, 15 forks, last updated 2026-08-06, primary language: Python.
 
 ## Why It Matters
 
@@ -42,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 55
+- Stars: 56
 - Forks: 15
 - Language: Python
 - Topics: agent, agents, document-agent, document-processing, information-extraction, llamaparse, ocr, parser, parsing
-- Last Updated: 2026-08-04T11:52:08Z
+- Last Updated: 2026-08-06T10:03:54Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-06T21:59:30Z
-- Pushed At: 2026-08-05T17:49:50Z
+- Pushed At: 2026-08-07T01:37:55Z
 
 ## Possible Use Cases
 

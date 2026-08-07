@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-08-07T05:50:51.658921+05:30'
+collected_at: '2026-08-07T08:52:08.964297+05:30'
 published_at: '2026-07-26T18:35:47Z'
 tags:
 - agents
 - github-repo
 - unknown
+- workflows
 stars: 284
 language: Unknown
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-08-07T05:50:51.658921+05:30'
-last_seen: '2026-08-07T05:50:51.658921+05:30'
-last_checked: '2026-08-07T05:50:51.658921+05:30'
+first_seen: '2026-08-07T08:52:08.964297+05:30'
+last_seen: '2026-08-07T08:52:08.964297+05:30'
+last_checked: '2026-08-07T08:52:08.964297+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI E-Sports Platform**: Hosts live AI Battles and asynchronous challenges with GitHub-based submissions, blending competitive programming with agentic AI development.
-- **Community-Driven Submissions**: Participants submit AI agents via GitHub, enabling collaborative and competitive iterations with real-time performance tracking.
-- **Open-Source & High-Energy**: Designed for rapid iteration and high engagement, with updates as recent as July 2026, fostering a dynamic developer challenge ecosystem.
+- **E-sports-style AI Battles**: Hosts competitive, real-time agentic AI challenges with a live e-sports format, integrating asynchronous community participation.
+- **GitHub-Centric Workflow**: Facilitates submissions, collaboration, and version control via GitHub, enabling structured and scalable agentic AI development.
+- **Dynamic Challenge Framework**: Supports evolving, community-driven challenges with automated updates and last sync timestamp (2026-07-26T18:35:47Z).
 
 ## Why It Matters
 

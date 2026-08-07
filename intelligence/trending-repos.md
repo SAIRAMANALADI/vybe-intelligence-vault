@@ -21,7 +21,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [lgesuellip/langgraph-whatsapp-agent](https://github.com/lgesuellip/langgraph-whatsapp-agent) | `ai-coding-agents/` | 70 |
 | [riolaf05/blog-writer-crewai](https://github.com/riolaf05/blog-writer-crewai) | `ai-coding-agents/` | 70 |
 | [run-llama/llama-cloud-ts](https://github.com/run-llama/llama-cloud-ts) | `ai-coding-agents/` | 70 |
-| [GitHub CLI | Take GitHub to the command line](https://cli.github.com) | `ai-coding-agents/` | 70 |
+| [GitHub CLI | Take GitHub to the command line](https://cli.github.com/) | `ai-coding-agents/` | 70 |
 | [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio) | `ai-coding-agents/` | 70 |
 | [muhammad-uzair-yasin/CrewAi_starter_template](https://github.com/muhammad-uzair-yasin/CrewAi_starter_template) | `ai-coding-agents/` | 70 |
 | [shanraisshan/codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) | `ai-coding-agents/` | 70 |

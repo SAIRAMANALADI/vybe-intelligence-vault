@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-07T05:49:41.573879+05:30'
+collected_at: '2026-08-07T08:50:58.920711+05:30'
 published_at: '2026-08-06T15:56:15Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
-- workflows
 stars: 371
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-07T05:49:41.573879+05:30'
-last_seen: '2026-08-07T05:49:41.573879+05:30'
-last_checked: '2026-08-07T05:49:41.573879+05:30'
+first_seen: '2026-08-07T08:50:58.920711+05:30'
+last_seen: '2026-08-07T08:50:58.920711+05:30'
+last_checked: '2026-08-07T08:50:58.920711+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid Retrieval-Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document retrieval accuracy.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods to enhance LLM context grounding.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, experimentation, and scalability of RAG workflows in Python.
+- **NVIDIA AI Workbench Integration**: Provides a Python-based reference implementation optimized for NVIDIA AI Workbench, leveraging GPU acceleration for efficient LLM inference and retrieval.
 
-- **Modular Python Architecture**: Provides a structured, reusable codebase with components for document ingestion, retrieval, and LLM-based generation, optimized for GPU acceleration.
+- **Modular Architecture**: Includes configurable components for document processing, retrieval, and generation, with examples for integrating custom datasets and models.
 
 ## Why It Matters
 

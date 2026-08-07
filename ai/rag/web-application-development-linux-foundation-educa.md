@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://training.linuxfoundation.org/application-development/
-published_at: '2026-08-04T22:45:27.035328+05:30'
-collected_at: '2026-08-04T22:45:27.035338+05:30'
+published_at: '2026-08-07T08:57:14.647332+05:30'
+collected_at: '2026-08-07T08:57:14.647344+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:web-application-development-linux-foundation-educa
-first_seen: '2026-08-04T22:45:27.035338+05:30'
-last_seen: '2026-08-04T22:45:27.035338+05:30'
-last_checked: '2026-08-04T22:45:27.035338+05:30'
+first_seen: '2026-08-07T08:57:14.647344+05:30'
+last_seen: '2026-08-07T08:57:14.647344+05:30'
+last_checked: '2026-08-07T08:57:14.647344+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **FINOS Certified FDC3 Practitioner (FCFP)**: Certification validating understanding of FDC3 (Financial Desktop Connectivity and Collaboration Consortium) standards for interoperable financial desktop applications.
+- **FINOS Certified FDC3 Practitioner (FCFP) Certification**: Validates expertise in the Financial Desktop Connectivity and Collaboration Consortium (FDC3) standards for interoperable financial applications, emphasizing desktop interoperability and contextual messaging.
 
-- **SkillCreds in Web/App Development**: Micro-credentials (e.g., Vim, Git, Helm, JSON) offering foundational skills in version control, container orchestration, and data serialization for application development workflows.
+- **Vim & Git SkillCreds (SC100 & SC102)**: Provide foundational certifications in text editing with Vim (SC100) and source control management using Git (SC102), demonstrating proficiency in essential developer tooling.
 
-- **Linux Foundation Training Catalog**: Structured learning paths covering web/application development, including certifications and SkillCreds, with resources for career planning and corporate training solutions.
+- **Helm Chart Development (SC104)**: Focuses on Kubernetes application packaging and deployment via Helm charts, covering chart structure, templating (Go templating engine), and lifecycle management.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T22:45:27.035328+05:30
+- Published: 2026-08-07T08:57:14.647332+05:30
 
 ## Related Tags
 

@@ -10,16 +10,17 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) (workflow - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
 - [AgoraSim: A Hybrid Agent-Based Modeling Framework](https://arxiv.org/abs/2607.05999) (framework - USEFUL Tier)
 - [Newest 'tensorflow' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow) (dataset - USEFUL Tier)
 - [Structured outputs | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/structured-output) (framework - USEFUL Tier)
-- [The knowledge layer for AI | GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-LBKK1y7h_XWAtuRJG9X-4037718589&utm_content=site_S8gms) (mcp-server - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
@@ -39,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-08-07 06:06 IST*
+*Last updated: 2026-08-07 09:08 IST*

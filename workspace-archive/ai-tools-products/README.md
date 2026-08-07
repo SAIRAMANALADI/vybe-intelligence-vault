@@ -8,6 +8,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook/) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
@@ -15,17 +16,16 @@ Discovering modern AI productivity tools allows developers to streamline their d
 - [Nonuniformity Principle in Human-AI Coworking](https://arxiv.org/abs/2607.16530) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
 - [Docker Developer Tools | Dockertools - A Curated List of Developers Tools](https://dockertools.collabnix.com) (tutorial - USEFUL Tier)
-- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [Mintlify · GitHub](https://github.com/mintlify)
 - [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook/)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio)
-- [continuedev/continue](https://github.com/continuedev/continue)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-07 06:06 IST*
+*Last updated: 2026-08-07 09:08 IST*

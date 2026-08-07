@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-08-07T05:49:07.007594+05:30'
-collected_at: '2026-08-07T05:49:07.007606+05:30'
+published_at: '2026-08-07T08:50:24.750636+05:30'
+collected_at: '2026-08-07T08:50:24.750644+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-08-07T05:49:07.007606+05:30'
-last_seen: '2026-08-07T05:49:07.007606+05:30'
-last_checked: '2026-08-07T05:49:07.007606+05:30'
+first_seen: '2026-08-07T08:50:24.750644+05:30'
+last_seen: '2026-08-07T08:50:24.750644+05:30'
+last_checked: '2026-08-07T08:50:24.750644+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Minimal RAG Pipeline**: Implements a basic RAG system using `sentence-transformers` for embeddings, FAISS for vector search, and `transformers` (Flan-T5) for generation, with optional BM25 for lexical retrieval.
+- **RAG Architecture**: Combines dense/sparse retrieval (FAISS, BM25) with LLM generation (e.g., Flan-T5) to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
 
-- **Core Components**: Retriever (dense/sparse), generator (LLM), embeddings (e.g., `all-MiniLM-L6-v2`), chunking (400–1000 tokens with overlap), reranking (cross-encoder), and hybrid retrieval (combining sparse/dense results).
+- **Hybrid Retrieval Pipeline**: Integrates sparse (BM25/TF-IDF) and dense (embeddings) retrieval for improved recall/precision, optionally followed by cross-encoder reranking (e.g., monoT5) to reorder top-k passages before LLM prompting.
 
-- **Indexing & Querying**: Documents are embedded and stored in a FAISS index; retrieval involves encoding queries, searching the index, and generating answers with the top-*k* passages, with citations for grounding.
+- **Chunking & Context Optimization**: Splits documents into overlapping passages (400–1000 tokens) to preserve context, with metadata filtering and query expansion (HyDE, multi-query) enhancing retrieval relevance and multi-hop reasoning capabilities.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T05:49:07.007594+05:30
+- Published: 2026-08-07T08:50:24.750636+05:30
 
 ## Related Tags
 

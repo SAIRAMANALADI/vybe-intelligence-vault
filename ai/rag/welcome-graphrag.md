@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://microsoft.github.io/graphrag/
-published_at: '2026-08-07T05:49:02.137747+05:30'
-collected_at: '2026-08-07T05:49:02.137758+05:30'
+published_at: '2026-08-07T08:54:44.403321+05:30'
+collected_at: '2026-08-07T08:54:44.403330+05:30'
 tags:
 - dataset
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:welcome-graphrag
-first_seen: '2026-08-07T05:49:02.137758+05:30'
-last_seen: '2026-08-07T05:49:02.137758+05:30'
-last_checked: '2026-08-07T05:49:02.137758+05:30'
+first_seen: '2026-08-07T08:54:44.403330+05:30'
+last_seen: '2026-08-07T08:54:44.403330+05:30'
+last_checked: '2026-08-07T08:54:44.403330+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Hierarchical Knowledge Graph Construction**: GraphRAG extracts entities, relationships, and claims from raw text (TextUnits), then applies hierarchical clustering (Leiden algorithm) to build a multi-level community structure, enabling fine-grained and holistic data representation.
+- **GraphRAG Architecture**: Implements a hierarchical, knowledge-graph-based RAG pipeline where raw text is processed into `TextUnits`, entities/relationships extracted, and a Leiden-algorithm-based community hierarchy constructed; community summaries are generated bottom-up for holistic dataset understanding.
 
-- **Query Augmentation via Graph Structures**: At query time, GraphRAG leverages community summaries and graph traversal (Global, Local, DRIFT, or Basic Search) to provide structured context, improving reasoning over complex or interconnected data compared to baseline vector-based RAG.
+- **Query Modes**: Supports four query mechanisms—*Global Search* (holistic corpus reasoning via community summaries), *Local Search* (entity-centric neighbor traversal), *DRIFT Search* (neighbor traversal with community context), and *Basic Search* (vector similarity fallback).
 
-- **Prompt Optimization & Versioning**: GraphRAG requires prompt tuning for optimal performance and follows a strict versioning scheme with migration tools (`graphrag init` for minor updates, notebooks for major updates) to maintain backward compatibility.
+- **Performance Advantages**: Addresses baseline RAG limitations (e.g., disconnected insights, poor summarization of large datasets) by leveraging graph structures and community summaries, demonstrating superior reasoning on private, narrative datasets.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T05:49:02.137747+05:30
+- Published: 2026-08-07T08:54:44.403321+05:30
 
 ## Related Tags
 

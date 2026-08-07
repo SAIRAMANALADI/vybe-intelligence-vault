@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-07T05:50:41.605697+05:30'
+collected_at: '2026-08-07T08:51:58.917101+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-07T05:50:41.605697+05:30'
-last_seen: '2026-08-07T05:50:41.605697+05:30'
-last_checked: '2026-08-07T05:50:41.605697+05:30'
+first_seen: '2026-08-07T08:51:58.917101+05:30'
+last_seen: '2026-08-07T08:51:58.917101+05:30'
+last_checked: '2026-08-07T08:51:58.917101+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and dynamic context integration.
+- **Cognitive-Inspired Architecture**: Introduces **ComoRAG**, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling **stateful long narrative reasoning** by structuring memory hierarchically (episodic, semantic, and procedural layers).
 
-- **Stateful Reasoning**: Implements a hierarchical memory system that maintains temporal and relational coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
+- **Stateful Memory Integration**: Implements a **dynamic memory buffer** that updates and retrieves contextually relevant information over extended interactions, improving coherence and factual consistency in long-form reasoning tasks.
 
-- **AAAI 2026 Contribution**: Proposes a novel approach to long-form reasoning by leveraging memory organization principles, outperforming traditional RAG models in tasks requiring sustained contextual understanding.
+- **AAAI 2026 Contribution**: Proposes a novel **memory-organized retrieval mechanism** that outperforms traditional RAG systems in narrative reasoning benchmarks, with codebase available in Python for reproducibility.
 
 ## Why It Matters
 

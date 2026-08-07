@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-08-07T05:49:26.575176+05:30'
+collected_at: '2026-08-07T08:50:43.823918+05:30'
 published_at: '2026-08-02T00:39:45Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 86
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-08-02T01:14:47Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-08-07T05:49:26.575176+05:30'
-last_seen: '2026-08-07T05:49:26.575176+05:30'
-last_checked: '2026-08-07T05:49:26.575176+05:30'
+first_seen: '2026-08-07T08:50:43.823918+05:30'
+last_seen: '2026-08-07T08:50:43.823918+05:30'
+last_checked: '2026-08-07T08:50:43.823918+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **FastAPI-based RAG Template**: Provides a structured implementation for Retrieval-Augmented Generation (RAG) chatbots with document management, leveraging FastAPI for API endpoints and vector search for retrieval.
-
-- **Vector Database Integration**: Supports vector-based document storage and retrieval, optimized for RAG workflows with embeddings and similarity search capabilities.
-
-- **Deployment Flexibility**: Designed for containerized deployment (Docker) and orchestration (Kubernetes), with optional integration for LLM providers (e.g., Ollama) and STACKIT cloud services.
+- **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** backend.
+- **Tech Stack**: Built with **Python**, **FastAPI**, **Ollama** (LLM), and integrates **vector databases** (e.g., for embeddings) with optional **Docker** and **Kubernetes** support.
+- **Deployment**: Pre-configured for **STACKIT Cloud** with modular components for **document ingestion**, **embedding generation**, and **RAG-based query processing**.
 
 ## Why It Matters
 

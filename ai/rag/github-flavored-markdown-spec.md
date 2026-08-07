@@ -3,9 +3,9 @@ title: GitHub Flavored Markdown Spec
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.github.com/gfm/#tables-extension-
-published_at: '2026-08-07T05:57:11.570779+05:30'
-collected_at: '2026-08-07T05:57:11.570790+05:30'
+source_url: https://github.github.com/gfm/
+published_at: '2026-08-07T08:58:50.764849+05:30'
+collected_at: '2026-08-07T08:58:50.764863+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:github-flavored-markdown-spec
-first_seen: '2026-08-07T05:57:11.570790+05:30'
-last_seen: '2026-08-07T05:57:11.570790+05:30'
-last_checked: '2026-08-07T05:57:11.570790+05:30'
+first_seen: '2026-08-07T08:58:50.764863+05:30'
+last_seen: '2026-08-07T08:58:50.764863+05:30'
+last_checked: '2026-08-07T08:58:50.764863+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GFM Specification**: GitHub Flavored Markdown (GFM) is a strict superset of CommonMark, with extensions for features like tables, task lists, and strikethrough, formally defined in this spec to resolve ambiguities in Markdown parsing.
+- **GFM as a CommonMark Superset**: GitHub Flavored Markdown (GFM) is a strict superset of CommonMark, incorporating all CommonMark features while adding GitHub-specific extensions (e.g., tables, task lists) and enforcing additional post-processing/sanitization for security.
 
-- **Parsing Phases**: GFM parsing occurs in two phases—Phase 1 structures blocks (e.g., headings, lists, code blocks) and Phase 2 processes inlines (e.g., links, emphasis, code spans)—as outlined in Appendix A.
+- **Syntax Ambiguities Resolved**: GFM’s formal specification (v0.29-gfm) resolves ambiguities in Markdown’s original syntax (e.g., indentation rules for sublists, precedence of inline/block structures) by defining unambiguous parsing rules for edge cases.
 
-- **Character Handling**: The spec defines characters as Unicode code points, lines as sequences of characters ending with line breaks, and whitespace as sequences of space, tab, or newline characters, with strict rules for blank lines and indentation.
+- **Unicode and Whitespace Handling**: GFM treats lines as sequences of Unicode code points, with explicit definitions for whitespace (`U+0020`, `U+0009`, `U+000A`, etc.), blank lines, and line endings (`\n`, `\r`, `\r\n`), ensuring consistent cross-platform rendering.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T05:57:11.570779+05:30
+- Published: 2026-08-07T08:58:50.764849+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.github.com/gfm/#tables-extension-
+Original source: https://github.github.com/gfm/

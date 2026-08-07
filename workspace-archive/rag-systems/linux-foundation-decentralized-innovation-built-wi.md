@@ -8,7 +8,7 @@ local_vault_path: ai/rag/linux-foundation-decentralized-innovation-built-wi.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Linux Foundation - Decentralized innovation, built with trust
@@ -25,16 +25,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Hosts 1,300+ open-source projects** across software, hardware, standards, and data, with **855K+ developers contributing 89M+ lines of code weekly**.
-- **Supports 21K+ contributing organizations** and **trains 4M+ developers**, providing neutral infrastructure for scalable collaboration.
-- **Develops 100+ standards/specifications** and hosts **229+ events annually**, including Open Source Summit Europe (Oct 2026), while offering security, sustainability, and digital trust initiatives.
+- **Scale & Impact**: Hosts **1,300+ open-source projects**, with **855K+ developers contributing code** and **89M lines of code added weekly**, supported by **2,100+ contributing organizations**.
+
+- **Neutral Ecosystem**: Provides a **trusted, vendor-neutral hub** for collaboration across **open software, hardware, standards, and data**, including **100+ standards/specifications** and **229+ events** annually.
+
+- **Governance & Resources**: Offers **project hosting, security frameworks, digital
 
 ## Use Cases
 

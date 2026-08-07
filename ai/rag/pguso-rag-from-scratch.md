@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-07T05:49:16.522664+05:30'
+collected_at: '2026-08-07T08:50:33.757560+05:30'
 published_at: '2026-08-05T14:15:06Z'
 tags:
 - agents
@@ -14,7 +14,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1490
 language: JavaScript
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-07T05:49:16.522664+05:30'
-last_seen: '2026-08-07T05:49:16.522664+05:30'
-last_checked: '2026-08-07T05:49:16.522664+05:30'
+first_seen: '2026-08-07T08:50:33.757560+05:30'
+last_seen: '2026-08-07T08:50:33.757560+05:30'
+last_checked: '2026-08-07T08:50:33.757560+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM integration without proprietary black boxes.
-- **Core Components**: Covers embeddings generation, vector search, retrieval mechanisms, and context-augmented generation with hands-on tutorials for educational purposes.
-- **Technical Stack**: Uses Node.js for agent-based RAG systems, emphasizing transparency in AI workflows (e.g., no external API dependencies) and updated as of August 2026.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies and provide hands-on understanding of embeddings, vector search, retrieval, and context-augmented generation.
+
+- **Technical Stack**: Built with Node.js, leveraging `node-llama-cpp` for local LLM inference, and includes a pipeline for embedding generation, vector storage/retrieval, and augmented generation—ideal for educational or prototype use cases.
+
+- **Repository Metrics**: 1,490 stars, 180 forks, last updated August 5, 2026; categorized under AI agents, RAG, LLM, and Node.js-based tutorials.
 
 ## Why It Matters
 

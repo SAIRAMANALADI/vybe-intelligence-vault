@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-07T05:51:36.639370+05:30'
+collected_at: '2026-08-07T08:52:53.961765+05:30'
 published_at: '2026-08-05T04:27:12Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - typescript
 stars: 537
 language: TypeScript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-07T05:51:36.639370+05:30'
-last_seen: '2026-08-07T05:51:36.639370+05:30'
-last_checked: '2026-08-07T05:51:36.639370+05:30'
+first_seen: '2026-08-07T08:52:53.961765+05:30'
+last_seen: '2026-08-07T08:52:53.961765+05:30'
+last_checked: '2026-08-07T08:52:53.961765+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated collection of **Agent Skills Standards** and **best practices** for programming languages and frameworks, designed to guide AI agents in adhering to optimal coding conventions.
+- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), Dart (Flutter), PHP (Laravel), and JavaScript frameworks (React, Next.js, NestJS, Angular) to guide AI agents in framework-specific development.
 
-- **Technical Scope**: Supports **20+ languages/frameworks** (e.g., TypeScript, React, Next.js, Spring Boot, Flutter, Kotlin) with structured standards for **Android, iOS, Laravel, NestJS**, and more.
+- **Agent-Oriented Standards**: Implements structured `cursor-rules` and standardized `agent-skills` for AI agents to ensure compliance with framework-specific conventions, enhancing code quality and maintainability.
 
-- **Metadata**: **537 stars**, **156 forks**, last updated **2026-08-05**; includes **Cursor Rules** and **coding standards** for AI agent-assisted development.
+- **Cross-Platform Development Focus**: Includes platform-specific guidelines for Android, iOS, and React Native, enabling AI agents to generate or review code adhering to platform-specific best practices.
 
 ## Why It Matters
 

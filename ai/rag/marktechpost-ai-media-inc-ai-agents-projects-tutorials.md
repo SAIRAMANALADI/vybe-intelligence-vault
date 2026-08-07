@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-07T05:51:01.668414+05:30'
+collected_at: '2026-08-07T08:52:18.995574+05:30'
 published_at: '2026-08-06T21:09:30Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-06T17:18:46Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-07T05:51:01.668414+05:30'
-last_seen: '2026-08-07T05:51:01.668414+05:30'
-last_checked: '2026-08-07T05:51:01.668414+05:30'
+first_seen: '2026-08-07T08:52:18.995574+05:30'
+last_seen: '2026-08-07T08:52:18.995574+05:30'
+last_checked: '2026-08-07T08:52:18.995574+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on frameworks and tutorials for developing AI agents capable of collaboration, task delegation, and inter-agent communication.
-- **Memory & reasoning loops**: Includes implementations for agentic memory architectures (short/long-term) and iterative reasoning processes to enhance decision-making.
-- **Agentic workflows**: Provides Jupyter Notebook-based projects for agentic RAG, coding, and engineering workflows, emphasizing dynamic planning and skill execution.
+- **Multi-agent systems**: Repository focuses on frameworks and implementations for coordinating multiple AI agents, including communication protocols, role specialization, and conflict resolution mechanisms.
+- **Memory & reasoning loops**: Tutorials cover techniques for persistent memory storage, context retention, and iterative reasoning processes to enable long-term planning and adaptive behavior in agents.
+- **Agentic workflows**: Demonstrates end-to-end agentic AI development, including RAG (Retrieval-Augmented Generation) integration, tool-use optimization, and dynamic workflow orchestration in Jupyter Notebook environments.
 
 ## Why It Matters
 

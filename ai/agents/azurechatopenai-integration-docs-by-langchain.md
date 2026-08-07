@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://python.langchain.com/docs/integrations/chat/azure_chat_openai/
-published_at: '2026-07-14T13:03:29.218744+05:30'
-collected_at: '2026-07-14T13:03:29.218757+05:30'
+published_at: '2026-08-07T08:55:30.324131+05:30'
+collected_at: '2026-08-07T08:55:30.324143+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:azurechatopenai-integration-docs-by-langchain
-first_seen: '2026-07-14T13:03:29.218757+05:30'
-last_seen: '2026-07-14T13:03:29.218757+05:30'
-last_checked: '2026-07-14T13:03:29.218757+05:30'
+first_seen: '2026-08-07T08:55:30.324143+05:30'
+last_seen: '2026-08-07T08:55:30.324143+05:30'
+last_checked: '2026-08-07T08:55:30.324143+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Azure OpenAI Integration**: LangChain supports Azure-hosted OpenAI models via `ChatOpenAI` (v1 API) and `AzureChatOpenAI`, with native Entra ID authentication and automatic token refresh; v1 API eliminates `api-version` requirements and supports Microsoft Foundry models (e.g., Llama, Mistral).
-
-- **Authentication Methods**: Supports both Microsoft Entra ID (keyless, recommended) via `azure-identity` and API key authentication via `AZURE_OPENAI_API_KEY`/`AZURE_OPENAI_ENDPOINT` environment variables.
-
-- **Key Features**: Enables tool calling, structured output, multimodal inputs (image), token-level streaming, async operations, token usage tracking, and Responses API integration for stateful conversations and server-side tools (e.g., code interpreter, image generation).
+- **AzureChatOpenAI Integration**: LangChain supports Azure-hosted OpenAI models via `AzureChatOpenAI` and `ChatOpenAI` (v1 API) with enterprise features like Microsoft Entra ID authentication, tool calling, structured output, and token-level streaming.
+- **Authentication Methods**: Supports Microsoft Entra ID (keyless, automatic token refresh) via `azure-identity` and API keys (set via `AZURE_OPENAI_API_KEY` and `AZURE_OPENAI_ENDPOINT` environment variables).
+- **Model Features & API Support**: Enables tool binding, agent creation, streaming usage metadata (`stream_usage=True`), and Azure OpenAI’s Responses API for stateful conversations and server-side tools (e.g., code interpreter, image generation).
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-14T13:03:29.218744+05:30
+- Published: 2026-08-07T08:55:30.324131+05:30
 
 ## Related Tags
 

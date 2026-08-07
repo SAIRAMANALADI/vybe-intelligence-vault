@@ -5,17 +5,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com/studio/debug/app-quality-insights
-published_at: '2026-07-21T22:24:10.481721+05:30'
-collected_at: '2026-07-21T22:24:10.481738+05:30'
+published_at: '2026-08-07T08:58:26.437774+05:30'
+collected_at: '2026-08-07T08:58:26.437785+05:30'
 tags:
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:analyze-issues-from-firebase-crashlytics-and-andro
-first_seen: '2026-07-21T22:24:10.481738+05:30'
-last_seen: '2026-07-21T22:24:10.481738+05:30'
-last_checked: '2026-07-21T22:24:10.481738+05:30'
+first_seen: '2026-08-07T08:58:26.437785+05:30'
+last_seen: '2026-08-07T08:58:26.437785+05:30'
+last_checked: '2026-08-07T08:58:26.437785+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **App Quality Insights (AQI)** integrates Firebase Crashlytics and Android Vitals data directly into Android Studio, enabling in-IDE crash analysis with stack traces, severity filtering, and issue categorization (fatal/non-fatal/ANRs) without browser switching.
+- **Integration & Compatibility**: App Quality Insights (AQI) in Android Studio aggregates crash data from Firebase Crashlytics and Android Vitals, requiring Android Studio **Otter 2 Feature Drop** or newer (or within 10 months of release) and Firebase/Crashlytics SDK setup via **Tools > Firebase > Crashlytics** in Android Studio.
 
-- **Code-to-Stack Trace Navigation** features annotated crash gutter icons in the IDE, linking to detailed event data (user impact, frequency) and allowing bidirectional jumps between code and crash reports, including version diffs for root cause analysis.
+- **Core Features**: AQI provides real-time crash analysis with **code-linked stack traces**, severity filtering (Fatal/Non-Fatal/ANRs), device/version breakdowns, and **version control integration** (for debug builds) to correlate crashes with code changes; offline mode caches recent data for limited debugging.
 
-- **Offline Mode Support** caches Crashlytics data for limited investigation when connectivity is lost, with reconnect functionality to sync updates; discrepancies between Play and Crashlytics counts arise from differing crash capture timings and user opt-out policies.
+- **Discrepancies & Workflow**: Crash counts between Crashlytics and Android Vitals may differ due to timing/opt-in variations; AQI allows **inline code annotations** (crash gutter icons) for direct navigation to crash sources, **issue notes** for team collaboration, and **diff viewing** for code changes since the crash.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T22:24:10.481721+05:30
+- Published: 2026-08-07T08:58:26.437774+05:30
 
 ## Related Tags
 

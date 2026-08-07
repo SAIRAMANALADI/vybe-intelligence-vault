@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.npmjs.com/
-published_at: '2026-08-06T17:16:32.406881+05:30'
-collected_at: '2026-08-06T17:16:32.406897+05:30'
+published_at: '2026-08-07T08:56:10.164995+05:30'
+collected_at: '2026-08-07T08:56:10.165005+05:30'
 tags:
-- scripts
 - web-crawled
 status: active
 resource_id: blog:npm-docs
-first_seen: '2026-08-06T17:16:32.406897+05:30'
-last_seen: '2026-08-06T17:16:32.406897+05:30'
-last_checked: '2026-08-06T17:16:32.406897+05:30'
+first_seen: '2026-08-07T08:56:10.165005+05:30'
+last_seen: '2026-08-07T08:56:10.165005+05:30'
+last_checked: '2026-08-07T08:56:10.165005+05:30'
 health_score: 100
 ---
 
@@ -21,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **npm Registry & CLI**: Centralized package registry for JavaScript with a command-line interface (CLI) for package management, including `npm install`, `npm publish`, and dependency resolution via `package.json`.
-- **Package Management**: Supports semantic versioning (semver), scoped packages (`@scope/name`), and lifecycle scripts (`preinstall`, `postpublish`) for build/deployment automation.
-- **Security & Policies**: Enforces package signing (npm provenance), access control via organizations, and threat mitigation (e.g., dependency confusion, typosquatting) via npm’s security advisories.
+- **npm CLI**: Command-line interface for managing Node.js packages, including installation (`npm install`), dependency management (`package.json`), and script execution (`npm run`).
+
+- **Package Registry**: Centralized repository for publishing, discovering, and installing Node.js packages (`npm publish`, `npm install <package>`), with versioning and semantic versioning (semver) support.
+
+- **Security & Policies**: Enforces registry policies (e.g., package naming, access control) and provides threat mitigation strategies (e.g., dependency scanning, two-factor authentication for publishers).
 
 ## Why It Matters
 
@@ -33,11 +34,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-06T17:16:32.406881+05:30
+- Published: 2026-08-07T08:56:10.164995+05:30
 
 ## Related Tags
 
-- scripts
 - web-crawled
 
 ## Source

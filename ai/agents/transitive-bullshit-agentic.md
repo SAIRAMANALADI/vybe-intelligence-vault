@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/transitive-bullshit/agentic
-collected_at: '2026-08-06T17:10:44.831780+05:30'
+collected_at: '2026-08-07T08:53:59.024618+05:30'
 published_at: '2026-08-05T13:31:46Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: true
 created_at: '2022-12-03T00:05:09Z'
 pushed_at: '2026-02-11T04:50:03Z'
 resource_id: github:transitive-bullshit/agentic
-first_seen: '2026-08-06T17:10:44.831780+05:30'
-last_seen: '2026-08-06T17:10:44.831780+05:30'
-last_checked: '2026-08-06T17:10:44.831780+05:30'
+first_seen: '2026-08-07T08:53:59.024618+05:30'
+last_seen: '2026-08-07T08:53:59.024618+05:30'
+last_checked: '2026-08-07T08:53:59.024618+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP Framework**: Open-source library (`transitive-bullshit/agentic`) enabling rapid conversion of APIs into **Model Context Protocol (MCP)** servers for LLM integration.
-- **Agentic Workflows**: Supports **autonomous agent** execution with OpenAI-compatible tooling, facilitating dynamic AI-driven API interactions.
-- **Real-time Deployment**: Enables **instant paid MCP server** creation from existing APIs, optimized for scalability and LLM accessibility (last updated Aug 2026).
+- **Purpose**: Converts REST APIs into paid MCP (Model Context Protocol) endpoints for instant AI agent integration.
+- **Tech Stack**: Built in TypeScript with support for OpenAI LLMs and agentic workflows.
+- **Status**: Actively maintained (last update: 2026-08-05), with 18.1k+ stars and 2.2k+ forks.
 
 ## Why It Matters
 

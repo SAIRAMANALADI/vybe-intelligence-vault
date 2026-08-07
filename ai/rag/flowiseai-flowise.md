@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FlowiseAI/Flowise
-collected_at: '2026-08-07T05:52:11.721861+05:30'
-published_at: '2026-08-06T23:59:12Z'
+collected_at: '2026-08-07T08:53:29.074862+05:30'
+published_at: '2026-08-07T03:22:44Z'
 tags:
 - agents
 - frontend_ui
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-03-31T12:23:09Z'
 pushed_at: '2026-08-06T09:11:08Z'
 resource_id: github:flowiseai/flowise
-first_seen: '2026-08-07T05:52:11.721861+05:30'
-last_seen: '2026-08-07T05:52:11.721861+05:30'
-last_checked: '2026-08-07T05:52:11.721861+05:30'
+first_seen: '2026-08-07T08:53:29.074862+05:30'
+last_seen: '2026-08-07T08:53:29.074862+05:30'
+last_checked: '2026-08-07T08:53:29.074862+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source, low/no-code platform** built in TypeScript/React for designing and deploying AI agents and workflows, leveraging libraries like LangChain and OpenAI APIs.
-- **Supports multi-agent systems, RAG (Retrieval-Augmented Generation), and agentic workflows** for complex AI-driven automation without deep coding expertise.
-- **Integrates with modern AI ecosystems** (e.g., ChatGPT, LLMs) and enables visual drag-and-drop agent construction, with real-time updates and modular component architecture.
+- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript for constructing AI agents and workflows, leveraging LangChain, React, and Node.js for modular agentic workflows.
+
+- **Multi-Model & RAG Integration**: Supports OpenAI, LLM APIs, and Retrieval-Augmented Generation (RAG) for dynamic, context-aware agent interactions with pluggable components.
+
+- **Multi-Agent & Automation**: Enables orchestration of multi-agent systems and workflow automation with visual drag-and-drop interface, optimized for agentic AI and chatbot deployments.
 
 ## Why It Matters
 
@@ -48,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 24859
 - Language: TypeScript
 - Topics: agentic-ai, agentic-workflow, agents, artificial-intelligence, chatbot, chatgpt, javascript, langchain, large-language-models, low-code, multiagent-systems, no-code, openai, rag, react, typescript, workflow-automation
-- Last Updated: 2026-08-06T23:59:12Z
+- Last Updated: 2026-08-07T03:22:44Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-03-31T12:23:09Z

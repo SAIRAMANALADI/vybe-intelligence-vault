@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-07T05:49:56.609845+05:30'
+collected_at: '2026-08-07T08:51:13.840478+05:30'
 published_at: '2026-08-06T18:48:35Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 187
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-03T08:23:24Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-07T05:49:56.609845+05:30'
-last_seen: '2026-08-07T05:49:56.609845+05:30'
-last_checked: '2026-08-07T05:49:56.609845+05:30'
+first_seen: '2026-08-07T08:51:13.840478+05:30'
+last_seen: '2026-08-07T08:51:13.840478+05:30'
+last_checked: '2026-08-07T08:51:13.840478+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for deploying scalable, production-grade Retrieval-Augmented Generation (RAG) systems, emphasizing reliability and performance.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering LLMOps, MLOps, and vector databases.
 
-- **Comprehensive Tech Stack**: Includes Python-based tools for embeddings, vector databases, LLMOps, and MLOps, with integrations for LangChain and large language models (LLMs) to streamline RAG pipeline development.
+- **Comprehensive Technical Stack**: Includes Python-based tools for embeddings, large language models (LLMs), LangChain integration, and generative AI pipelines optimized for production deployment.
 
-- **Actively Maintained & Community-Driven**: Last updated in 2026, the repository serves as a dynamic, curated list for AI engineers, focusing on production-grade RAG implementations with 187 stars and 46 forks.
+- **Continuously Updated**: Last updated on 2026-08-06, ensuring relevance with curated lists of state-of-the-art RAG components and methodologies.
 
 ## Why It Matters
 

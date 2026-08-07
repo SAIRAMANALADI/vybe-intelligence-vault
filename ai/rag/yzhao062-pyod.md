@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-08-07T05:51:51.676243+05:30'
+collected_at: '2026-08-07T08:53:08.987864+05:30'
 published_at: '2026-08-06T06:16:12Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-08-02T12:42:17Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-08-07T05:51:51.676243+05:30'
-last_seen: '2026-08-07T05:51:51.676243+05:30'
-last_checked: '2026-08-07T05:51:51.676243+05:30'
+first_seen: '2026-08-07T08:53:08.987864+05:30'
+last_seen: '2026-08-07T08:53:08.987864+05:30'
+last_checked: '2026-08-07T08:53:08.987864+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ anomaly detection algorithms for tabular, time series, graph, text, image, and audio data, with benchmark-backed orchestration via ADEngine.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for automated model selection and evaluation.
 
-- **Agentic AI Integration**: Enables agentic workflows for AI agents, leveraging foundation models for multimodal anomaly detection.
+- **Agentic Workflow Integration**: Enables AI agents to autonomously perform anomaly detection via an agentic workflow, leveraging foundation models and multimodal capabilities.
 
-- **Multidisciplinary Applications**: Targets domains like fraud detection, graph anomaly detection, NLP, image processing, and time-series analysis with unsupervised and deep learning methods.
+- **Broad ML Ecosystem**: Covers unsupervised learning, deep learning, novelty detection, out-of-distribution detection, and fraud/graph/image anomaly detection, with active maintenance (last updated Aug 2026).
 
 ## Why It Matters
 

@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-07T05:50:41.652712+05:30'
+collected_at: '2026-08-07T08:51:58.955056+05:30'
 published_at: '2026-08-06T15:31:51Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-07T05:50:41.652712+05:30'
-last_seen: '2026-08-07T05:50:41.652712+05:30'
-last_checked: '2026-08-07T05:50:41.652712+05:30'
+first_seen: '2026-08-07T08:51:58.955056+05:30'
+last_seen: '2026-08-07T08:51:58.955056+05:30'
+last_checked: '2026-08-07T08:51:58.955056+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel **Linear Graph Retrieval-Augmented Generation (RAG)** framework for large-scale corpora, optimizing retrieval efficiency via linear graph traversal.
-- Leverages **graph-based indexing** to enable scalable, low-latency retrieval for LLMs, reducing computational overhead compared to traditional dense retrieval methods.
-- Achieves **state-of-the-art performance** on ICLR 2026 benchmarks, demonstrating improved accuracy and scalability on large document collections.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and generation quality in LLMs by leveraging linear graph structures for scalable knowledge augmentation.
+
+- **ICLR 2026 Contribution**: Proposes a method to transform traditional RAG pipelines into linear graph-based retrieval systems, enabling faster inference and reduced computational overhead while maintaining or improving retrieval accuracy.
+
+- **Implementation**: Provides an open-source Python implementation with modular components for graph construction, retrieval, and generation, supporting integration with existing LLM architectures.
 
 ## Why It Matters
 

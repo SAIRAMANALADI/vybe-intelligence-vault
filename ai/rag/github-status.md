@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com
-published_at: '2026-08-07T05:59:26.415306+05:30'
-collected_at: '2026-08-07T05:59:26.415323+05:30'
+source_url: https://www.githubstatus.com/
+published_at: '2026-08-07T08:57:33.003352+05:30'
+collected_at: '2026-08-07T08:57:33.003369+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-07T05:59:26.415323+05:30'
-last_seen: '2026-08-07T05:59:26.415323+05:30'
-last_checked: '2026-08-07T05:59:26.415323+05:30'
+first_seen: '2026-08-07T08:57:33.003369+05:30'
+last_seen: '2026-08-07T08:57:33.003369+05:30'
+last_checked: '2026-08-07T08:57:33.003369+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Incident Impact**: GitHub Actions and Pages experienced degraded performance starting Aug 6, 2026, with workflow runs failing/delayed, API errors, and throttled webhook triggers (~15% processing rate). Self-hosted runners were stuck retrying invalid jobs, reducing success rates to 30-40% initially.
-- **Root Cause & Mitigation**: Runners assigned invalid jobs and backlog buildup were identified as primary issues. Fixes included draining queues, deploying patches for self-hosted runners, and throttling webhooks to stabilize throughput. Success rates improved to 99% by Aug 7.
-- **Recovery Status**: Degradation mitigated by Aug 7, 00:06 UTC, with full restoration of Actions workflows, Pages, Copilot services, and resumed migrations (except GitHub Enterprise Importer, paused precautionarily). Monitoring confirmed sustained stability.
+- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, Actions, API Requests) with 90-day uptime metrics, incident tracking, and regional status dashboards (US, EU, Australia, Japan).
+
+- **Incident Resolution (Aug 7, 2026)** involved Actions Runner Controller (ARC) pods stuck in idle state due to invalid job assignments, requiring manual pod deletion or redeployment; root cause analysis and automatic recovery mechanisms were planned for future releases.
+
+- **Notification Systems** support email, SMS (global), Slack, and webhook-based incident updates, with privacy compliance via reCAPTCHA, Atlassian/GitHub policies, and optional RSS/Atom feeds for status history.
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T05:59:26.415306+05:30
+- Published: 2026-08-07T08:57:33.003352+05:30
 
 ## Related Tags
 
@@ -56,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com
+Original source: https://www.githubstatus.com/

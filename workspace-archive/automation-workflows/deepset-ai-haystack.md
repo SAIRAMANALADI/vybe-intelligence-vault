@@ -37,9 +37,9 @@ selection_reason:
 
 - **Haystack GitHub Repository**: Open-source framework by deepset-ai with 26.1k stars, 3k forks, and 67 open issues; supports RAG pipelines, agentic LLM systems, and modular tool integration.
 
-- **Haystack 3.0 Launch**: Announced in July 2026, introducing new features for production-grade agentic workflows, runtime diagnostics, and enhanced pipeline tooling.
+- **Haystack 3.0 Launch**: Announced in July 2026 with focus on enhanced pipeline debugging, runtime security (e.g., AgentShield), and diagnostics for RAG quality issues.
 
-- **Community Extensions**: Active discussions on security (AgentShield, Agent Memory Guard), debugging (Diagnostics Engine), and runtime
+- **Community Extensions**: Active discussions on production-grade agent management, runtime security (e.g., memory poisoning preventi
 
 ## Use Cases
 

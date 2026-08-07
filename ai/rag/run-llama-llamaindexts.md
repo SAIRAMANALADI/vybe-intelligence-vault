@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/LlamaIndexTS
-collected_at: '2026-08-07T05:58:13.812112+05:30'
+collected_at: '2026-08-07T08:58:10.772911+05:30'
 published_at: '2026-08-05T16:56:00Z'
 tags:
 - agents
@@ -25,9 +25,9 @@ archived: true
 created_at: '2023-06-13T06:41:20Z'
 pushed_at: '2026-03-11T20:07:07Z'
 resource_id: github:run-llama/llamaindexts
-first_seen: '2026-08-07T05:58:13.812112+05:30'
-last_seen: '2026-08-07T05:58:13.812112+05:30'
-last_checked: '2026-08-07T05:58:13.812112+05:30'
+first_seen: '2026-08-07T08:58:10.772911+05:30'
+last_seen: '2026-08-07T08:58:10.772911+05:30'
+last_checked: '2026-08-07T08:58:10.772911+05:30'
 health_score: 100
 ---
 
@@ -35,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based LLM Data Framework**: LlamaIndexTS is a server-side data framework designed for LLM applications, enabling efficient data ingestion, indexing, and retrieval for TypeScript/JavaScript environments.
+- **TypeScript-based LLM Data Framework**: LlamaIndexTS is a server-side data framework designed for LLM applications, enabling structured data integration and retrieval for TypeScript/JavaScript environments.
 
-- **Modular Architecture**: Supports integrations with major LLM providers (OpenAI, Groq, Claude AI) and frameworks (React, Node.js), with core modules for embeddings, agent orchestration, and chatbot pipelines.
+- **Modular Architecture**: Supports embedding, indexing, and querying workflows with integrations for OpenAI, Groq, and Llama models, optimized for Node.js and React-based applications.
 
-- **Active Development & Ecosystem**: Last updated in 2026, the repository (3078⭐, 522🍴) is part of the `run-llama` ecosystem, emphasizing scalability and extensibility for production-grade LLM workflows.
+- **Agent & Chatbot Toolkit**: Provides utilities for building autonomous agents and chatbots with advanced retrieval-augmented generation (RAG) capabilities, last updated in August 2026.
 
 ## Why It Matters
 

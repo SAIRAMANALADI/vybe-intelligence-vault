@@ -1,29 +1,25 @@
 ---
-title: Releases · gohugoio/hugo · GitHub
+title: Release v0.164.0 · gohugoio/hugo · GitHub
 archive_category: vector-databases
-source_category: ai/rag
-source_url: https://github.com/gohugoio/hugo/releases
+source_category: ai/resources
+source_url: https://github.com/gohugoio/hugo/releases/tag/v0.164.0
 resource_id: github:gohugoio/hugo
-local_vault_path: ai/rag/gohugoio-hugo.md
+local_vault_path: ai/resources/gohugoio-hugo.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
-- agents
 - frontend_ui
-- hackernews
-- rag
 - reddit
-- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# Releases · gohugoio/hugo · GitHub
+# Release v0.164.0 · gohugoio/hugo · GitHub
 
 ## Why This Is In The Archive
 
@@ -36,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Hugo v0.164.0** introduces dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and Pandoc citation support.
-- **Performance regression fix** for Hugo v0.128.0+, improving build speeds for larger sites.
-- **Deprecation of `resources.PostProcess`** in favor of `templates.Defer` and added `markup.rst.syntaxHighlight` configuration option.
+- Introduced dark/light mode support for Chroma highlighter styles and new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`) in Hugo v0.164.0.
+
+- Added Pandoc citation support, markup RST syntax highlighting option, and sub-path support in layouts for `Page.Render`.
+
+- Deprecated `resources.PostProcess` in favor of `templates.Defer` and fixed a performance regression introduced in v0.128.0.
 
 ## Use Cases
 
@@ -48,8 +46,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/gohugoio/hugo/releases
+Original source URL: https://github.com/gohugoio/hugo/releases/tag/v0.164.0
 
 ## Local Vault File
 
-Path: [gohugoio-hugo.md](../../ai/rag/gohugoio-hugo.md)
+Path: [gohugoio-hugo.md](../../ai/resources/gohugoio-hugo.md)

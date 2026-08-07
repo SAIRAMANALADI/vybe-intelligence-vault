@@ -1,6 +1,6 @@
 ---
 title: Search Firestore with Algolia | Firebase Extensions Hub
-archive_category: rag-systems
+archive_category: startup-builder
 source_category: ai/rag
 source_url: https://extensions.dev/extensions/algolia/firestore-algolia-search
 resource_id: blog:search-firestore-with-algolia-firebase-extensions
@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
+- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -22,7 +23,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `RAG Systems`
+- Matched archive category: `Startup Builder`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
@@ -31,17 +32,17 @@ selection_reason:
 
 ## Summary
 
-- **Functionality**: Syncs Firestore collections to Algolia for full-text, vector, and semantic search by indexing document fields and propagating real-time changes (add/update/delete) to Algolia records, using Firestore document IDs as Algolia object IDs.
+- **Real-time Firestore-to-Algolia Sync**: Indexes Firestore documents into Algolia records on `create`, `update`, or `delete` operations, using the Firestore document ID as the Algolia object ID and syncing only configured fields.
 
-- **Requirements**: Requires a Firestore database (Blaze plan for installation) and an Algolia account; initial sync occurs on install/configuration changes.
+- **Requirements**: Requires a Firestore database, Algolia account (with pricing-based usage), and Firebase Blaze plan; billed for Cloud Functions, Firestore, and Algolia API calls.
 
-- **Billing**: Uses Cloud Functions and Firestore (potential charges) + Algolia’s t
+- **Configuration & Licensing**: Supports semantic/vector/text search; open-source (
 
 ## Use Cases
 
-- Knowledge querying
-- Document summarization
-- Hybrid retrieval
+- SaaS boilerplate launching
+- Landing page design
+- MVP feature validation
 
 ## Source
 

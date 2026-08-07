@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://aleksagordic.com/blog/vllm
 hn_url: https://news.ycombinator.com/item?id=49202852
-score: 44
+score: 75
 author: sebg
-comments_count: 2
+comments_count: 3
 published_at: '2026-08-07T03:00:21+05:30'
-collected_at: '2026-08-07T05:48:13.716277+05:30'
+collected_at: '2026-08-07T08:49:25.539545+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:inside-vllm-anatomy-of-a-high-throughput-llm-infer
 first_seen: '2026-08-07T05:48:13.716277+05:30'
-last_seen: '2026-08-07T05:48:13.716277+05:30'
-last_checked: '2026-08-07T05:48:13.716277+05:30'
+last_seen: '2026-08-07T08:49:25.539545+05:30'
+last_checked: '2026-08-07T08:49:25.539545+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by sebg. Score: 44, Comments: 2.
+Hacker News story by sebg. Score: 75, Comments: 3.
 Original Link: https://www.aleksagordic.com/blog/vllm
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: sebg
-- Score: 44 Upvotes
-- Comments: 2 Discussions
+- Score: 75 Upvotes
+- Comments: 3 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49202852
 - Original Article: https://aleksagordic.com/blog/vllm
 

@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-07T05:51:36.641152+05:30'
+collected_at: '2026-08-07T08:52:54.001966+05:30'
 published_at: '2026-08-04T06:02:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- scripts
+- hackernews
 - shell
 - workflows
 stars: 68
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-07T05:51:36.641152+05:30'
-last_seen: '2026-08-07T05:51:36.641152+05:30'
-last_checked: '2026-08-07T05:51:36.641152+05:30'
+first_seen: '2026-08-07T08:52:54.001966+05:30'
+last_seen: '2026-08-07T08:52:54.001966+05:30'
+last_checked: '2026-08-07T08:52:54.001966+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Best Practices Guide**: Repository provides structured guidelines for optimizing **Claude Code** usage, including setup configurations, `CLAUDE.md` templates, and workflow automation for agentic AI patterns.
-- **Multi-Agent & Cost Optimization**: Includes patterns for deploying **multi-agent systems** with **Claude Code**, alongside strategies for **cost reduction** via efficient LLM interactions and MCP (Model Context Protocol) integrations.
-- **CLI & Developer Tooling**: Focuses on **Shell-based automation**, CLI optimizations, and **template-driven workflows** to streamline AI-assisted development with Anthropic’s models.
+- **Repository Structure**: Contains a curated wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily shell-based, covering CLI tools, MCP (Model Context Protocol), and integration patterns for agentic AI workflows with Anthropic's Claude.
+- **Metadata**: 68 stars, 15 forks, last updated August 4, 2026, with topics spanning AI, LLM optimization, and developer tooling.
 
 ## Why It Matters
 

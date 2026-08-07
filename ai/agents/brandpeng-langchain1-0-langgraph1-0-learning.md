@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning
-collected_at: '2026-08-07T05:52:56.758540+05:30'
+collected_at: '2026-08-07T08:54:14.077423+05:30'
 published_at: '2026-08-06T09:25:46Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-- workflows
 stars: 614
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-13T13:19:40Z'
 pushed_at: '2026-01-11T10:47:01Z'
 resource_id: github:brandpeng/langchain1.0-langgraph1.0-learning
-first_seen: '2026-08-07T05:52:56.758540+05:30'
-last_seen: '2026-08-07T05:52:56.758540+05:30'
-last_checked: '2026-08-07T05:52:56.758540+05:30'
+first_seen: '2026-08-07T08:54:14.077423+05:30'
+last_seen: '2026-08-07T08:54:14.077423+05:30'
+last_checked: '2026-08-07T08:54:14.077423+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Focus**: Dedicated to learning **LangChain 1.0** and **LangGraph 1.0**, covering **agent development** from foundational concepts to practical implementations.
-- **Technical Scope**: Python-based repository with structured learning paths for **multi-agent systems**, workflow orchestration, and LLM integration.
-- **Project Status**: Last updated **2026-08-06**, with **614 stars** and **113 forks**, indicating active community engagement.
+- **Repository Purpose**: Dedicated to learning **LangChain 1.0** and **LangGraph 1.0**, focusing on **agent development** with a structured path from fundamentals to practical projects.
+- **Technical Stack**: Implemented in **Python**, covering core concepts and real-world applications of agent-based systems.
+- **Project Status**: Last updated on **2026-08-06**, with **614 stars** and **114 forks**, indicating active community engagement.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: BrandPeng
 - Stars: 614
-- Forks: 113
+- Forks: 114
 - Language: Python
 - Topics: agent, langchain, langgraph
 - Last Updated: 2026-08-06T09:25:46Z

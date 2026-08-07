@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/graphrag
-collected_at: '2026-08-07T05:53:21.766670+05:30'
-published_at: '2026-08-06T23:36:42Z'
+collected_at: '2026-08-07T08:54:49.081773+05:30'
+published_at: '2026-08-07T03:07:20Z'
 tags:
 - github-repo
+- hackernews
 - models
 - openai
 - python
 - rag
-- workflows
-stars: 35303
+stars: 35305
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-27T17:57:52Z'
 pushed_at: '2026-08-05T08:22:31Z'
 resource_id: github:microsoft/graphrag
-first_seen: '2026-08-07T05:53:21.766670+05:30'
-last_seen: '2026-08-07T05:53:21.766670+05:30'
-last_checked: '2026-08-07T05:53:21.766670+05:30'
+first_seen: '2026-08-07T08:54:49.081773+05:30'
+last_seen: '2026-08-07T08:54:49.081773+05:30'
+last_checked: '2026-08-07T08:54:49.081773+05:30'
 health_score: 100
 ---
 
@@ -32,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Modular Graph-Based RAG System**: Implements a graph-based Retrieval-Augmented Generation (RAG) pipeline in Python, leveraging LLMs (e.g., GPT-4) for structured knowledge extraction and retrieval.
-- **Entity & Relationship Extraction**: Processes unstructured text into a knowledge graph, storing entities, relationships, and community hierarchies for improved contextual retrieval.
-- **Scalable & Customizable**: Supports modular workflows (e.g., indexing, querying, summarization) with configurable parameters for performance optimization and integration with external LLM APIs.
+- **Entity & Relationship Extraction**: Uses LLM-driven techniques to construct knowledge graphs from unstructured text, enabling hierarchical entity resolution and community-based summarization.
+- **Scalable & Customizable**: Designed for modularity, supporting integration with various LLMs, graph databases, and retrieval strategies for domain-specific RAG applications.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 35303
-- Forks: 3709
+- Stars: 35305
+- Forks: 3710
 - Language: Python
 - Topics: gpt, gpt-4, gpt4, graphrag, llm, llms, rag
-- Last Updated: 2026-08-06T23:36:42Z
+- Last Updated: 2026-08-07T03:07:20Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-27T17:57:52Z

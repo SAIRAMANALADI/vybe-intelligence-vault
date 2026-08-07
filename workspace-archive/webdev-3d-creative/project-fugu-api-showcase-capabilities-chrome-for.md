@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Project Fugu API Showcase**: A curated collection of web apps demonstrating experimental APIs developed under Project Fugu, enabling advanced web capabilities (e.g., file system access, Bluetooth, NFC, and media handling).
-
-- **Key Enabled APIs**: Includes 40+ APIs such as Async Clipboard, File System Access, WebUSB, WebGPU, and Badging, expanding web app functionality beyond traditional browser limits.
-
-- **Submission & Resources**: Developers can submit their apps via a Google Form; docume
+- **Project Fugu API Showcase**: A curated collection of web apps demonstrating experimental APIs developed under Project Fugu, enabling advanced web capabilities (e.g., file system access, Bluetooth, NFC).
+- **Submission & Discovery**: Developers can submit their Fugu API-based apps via [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScNd1rClbmFWh6FcMmjUNrwg9RLz8Jk4BkHz_-EOpmkVd_-9g/viewform) for inclusion in the showcase.
+- **API Coverage**: Showcases 40+ APIs, including **WebHID**, **W
 
 ## Use Cases
 

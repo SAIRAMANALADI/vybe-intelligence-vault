@@ -23,10 +23,10 @@ https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 - [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph)
-- [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-08-07 06:06 IST*
+*Last updated: 2026-08-07 09:07 IST*

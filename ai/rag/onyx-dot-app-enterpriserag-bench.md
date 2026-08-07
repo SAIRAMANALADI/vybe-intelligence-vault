@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-07T05:50:16.594778+05:30'
+collected_at: '2026-08-07T08:51:33.940241+05:30'
 published_at: '2026-08-06T09:33:16Z'
 tags:
 - benchmark
@@ -13,7 +13,6 @@ tags:
 - hackernews
 - rag
 - unknown
-- workflows
 stars: 498
 language: Unknown
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-07T05:50:16.594778+05:30'
-last_seen: '2026-08-07T05:50:16.594778+05:30'
-last_checked: '2026-08-07T05:50:16.594778+05:30'
+first_seen: '2026-08-07T08:51:33.940241+05:30'
+last_seen: '2026-08-07T08:51:33.940241+05:30'
+last_checked: '2026-08-07T08:51:33.940241+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized performance assessment of LLMs in real-world enterprise search scenarios.
-
-- **Key Features**: Includes diverse enterprise document types, synthetic data generation pipelines, and evaluation metrics for retrieval quality, answer correctness, and contextual relevance in RAG workflows.
-
-- **Technical Scope**: Supports Python-based RAG evaluation with tools for semantic search, information retrieval, and LLM performance benchmarking across enterprise knowledge bases.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
+- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA testing across enterprise knowledge bases, with support for Python-based implementations.
+- **Scope**: Covers 19 technical topics (e.g., `rag-evaluation`, `semantic-search`, `llm-evaluation`) and tracks metrics for retrieval accuracy, generative quality, and enterprise-specific use cases.
 
 ## Why It Matters
 

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-07T05:50:16.651640+05:30'
+collected_at: '2026-08-07T08:51:33.933700+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 402
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-07T05:50:16.651640+05:30'
-last_seen: '2026-08-07T05:50:16.651640+05:30'
-last_checked: '2026-08-07T05:50:16.651640+05:30'
+first_seen: '2026-08-07T08:51:33.933700+05:30'
+last_seen: '2026-08-07T08:51:33.933700+05:30'
+last_checked: '2026-08-07T08:51:33.933700+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Overview**: Introduces CRUD-RAG, a Chinese-focused benchmark for evaluating Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), designed to assess performance across retrieval, generation, and end-to-end tasks.
-
-- **Technical Scope**: Focuses on CRUD (Create, Read, Update, Delete) operations in RAG pipelines, providing standardized datasets and evaluation metrics for Chinese language contexts.
-
-- **Implementation**: Open-source Python framework with modular components for benchmarking RAG systems, including retrieval, augmentation, and generation modules, facilitating reproducibility and comparative analysis.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive coverage of retrieval and generation tasks in LLMs.
+- **Evaluation Framework**: The benchmark includes metrics for assessing both retrieval accuracy (e.g., precision/recall) and generation quality (e.g., coherence, factuality) under diverse Chinese linguistic contexts.
+- **Open-Source Toolkit**: Provides a Python-based framework with standardized datasets, evaluation scripts, and baseline models to facilitate reproducible research in Chinese RAG systems.
 
 ## Why It Matters
 

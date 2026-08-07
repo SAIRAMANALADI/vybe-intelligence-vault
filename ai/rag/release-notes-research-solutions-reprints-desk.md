@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.researchsolutions.com/resources/release-notes
-published_at: '2026-08-06T09:16:01.718932+05:30'
-collected_at: '2026-08-06T09:16:01.718946+05:30'
+published_at: '2026-08-07T08:58:41.290365+05:30'
+collected_at: '2026-08-07T08:58:41.290374+05:30'
 tags:
 - hackernews
 - openai
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:release-notes-research-solutions-reprints-desk
-first_seen: '2026-08-06T09:16:01.718946+05:30'
-last_seen: '2026-08-06T09:16:01.718946+05:30'
-last_checked: '2026-08-06T09:16:01.718946+05:30'
+first_seen: '2026-08-07T08:58:41.290374+05:30'
+last_seen: '2026-08-07T08:58:41.290374+05:30'
+last_checked: '2026-08-07T08:58:41.290374+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Spring 2026 Updates**: Integration of Article Galaxy MCP for AI-driven literature processing, expanded AI-ready content rights for machine-readable access, and enhanced citation intelligence via deeper semantic analysis of reference metadata.
+- **Article Galaxy MCP Integration (Spring 2026)**: Introduces a Model Context Protocol (MCP) server for AI-driven literature processing, enabling structured metadata extraction and real-time citation intelligence across research workflows.
 
-- **Winter 2025 Updates**: Introduction of a unified shopping cart system for bulk article procurement, AI-powered semantic search with contextual relevance ranking, and workflow automation via smart folder-based document routing.
+- **AI-Ready Content Rights (Spring 2026)**: Expands inline re-use rights with granular, article-level permissions, leveraging Scite integration for enhanced citation context and compliance automation.
 
-- **Fall 2025 Updates**: Article-level AI rights management for granular reuse permissions, redesigned UI with adaptive layout for improved usability, and expanded full-text citation search with inline reuse validation.
+- **PubMed + Article Galaxy Workflow Optimization (2025)**: Deepens integration via API-level synchronization, enabling automated reference validation, bulk metadata enrichment, and real-time citation tracking for collaborative research environments.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T09:16:01.718932+05:30
+- Published: 2026-08-07T08:58:41.290365+05:30
 
 ## Related Tags
 

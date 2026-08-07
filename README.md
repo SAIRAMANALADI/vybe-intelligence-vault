@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-105%2C151-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-173%2C242-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--07-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **105,151 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **173,242 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,488</p>
-        <p><b>Active:</b> 16,983 | <b>Inactive:</b> 505</p>
+        <p><b>Resources tracked:</b> 18,514</p>
+        <p><b>Active:</b> 18,009 | <b>Inactive:</b> 505</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,186</p>
+        <p><b>Archive Files:</b> 69,273</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 105,151 files</p>
-        <p><b>Last Update:</b> 2026-08-07 08:13 IST</p>
+        <p><b>Total Vault Size:</b> 173,242 files</p>
+        <p><b>Last Update:</b> 2026-08-07 09:09 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,16 +210,20 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Vite | Next Generation Frontend Tooling](ai/rag/vite-next-generation-frontend-tooling.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[cli/cli](ai/rag/cli-cli.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[GitHub CLI telemetry - GitHub Docs](ai/agents/github-cli-telemetry-github-docs.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[GitHub Status](ai/rag/github-status.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[pinecone-io/pinecone-claude-code-plugin](ai/rag/pinecone-io-pinecone-claude-code-plugin.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[GitHub Actions and Pages are experiencing degraded availability](ai/community/github-actions-and-pages-are-experiencing-degraded.md)** • <kbd>+42 pts</kbd>
+- 🔼 **[Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](ai/community/inside-vllm-anatomy-of-a-high-throughput-llm-infer.md)** • <kbd>+31 pts</kbd>
+- 🔼 **[The Sylvester–Gallai Theorem](ai/community/the-sylvester-gallai-theorem.md)** • <kbd>+18 pts</kbd>
+- 🔼 **[Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](ai/community/humans-missed-1-in-3-threats-approving-ai-agent-co.md)** • <kbd>+17 pts</kbd>
+- 🔼 **[Keras 2 <> Keras 3 incompatibilities · Issue #18467 · keras-team/keras · GitHub](ai/rag/keras-team-keras.md)** • Rank: <kbd>+6805</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[- YouTube](ai/resources/youtube-2p0zlom3mxc.md)** • Score: `0`
+- 🆕 **[- YouTube](ai/resources/youtube-o7r8nxrad-c.md)** • Score: `0`
+- 🆕 **[Chromium Blog](ai/rag/chromium-blog.md)** • Score: `0`
+- 🆕 **[Model Context Protocol · GitHub](ai/resources/model-context-protocol-github.md)** • Score: `0`
+- 🆕 **[Case studies | web.dev](ai/resources/case-studies-web-dev.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

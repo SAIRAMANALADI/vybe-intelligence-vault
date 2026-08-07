@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-07T05:49:11.482801+05:30'
+collected_at: '2026-08-07T08:50:28.794429+05:30'
 published_at: '2026-08-06T20:38:47Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 36879
 language: Jupyter Notebook
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-07T05:49:11.482801+05:30'
-last_seen: '2026-08-07T05:49:11.482801+05:30'
-last_checked: '2026-08-07T05:49:11.482801+05:30'
+first_seen: '2026-08-07T08:50:28.794429+05:30'
+last_seen: '2026-08-07T08:50:28.794429+05:30'
+last_checked: '2026-08-07T08:50:28.794429+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository offers in-depth, hands-on tutorials covering Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques, with practical implementations in Jupyter Notebooks.
-
-- **AI Agent Applications**: Focuses on real-world AI agent applications, including multi-agent systems, MCP (Model Context Protocol) integrations, and deployment strategies for production-grade AI workflows.
-
-- **High Community Engagement**: Maintains 36.8K+ stars and 6K+ forks, indicating strong community adoption and collaborative development in AI engineering practices.
+- **Repository Focus**: Provides advanced tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications** with practical implementations.
+- **Technical Stack**: Primarily uses **Jupyter Notebooks** for hands-on demonstrations, covering topics like **agents, AI engineering, MCP (Model Context Protocol), and machine learning**.
+- **Repository Metrics**: Highly active with **36,879 stars**, **6,092 forks**, and last updated on **2026-08-06**, indicating strong community engagement and continuous updates.
 
 ## Why It Matters
 

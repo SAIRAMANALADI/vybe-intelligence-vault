@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/explodinggradients/ragas
-collected_at: '2026-08-06T03:58:53.497193+05:30'
-published_at: '2026-08-05T21:35:11Z'
+collected_at: '2026-08-07T08:54:44.281975+05:30'
+published_at: '2026-08-07T03:05:27Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
 - workflows
-stars: 15150
+stars: 15166
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-05-08T17:48:04Z'
 pushed_at: '2026-02-24T07:47:19Z'
 resource_id: github:explodinggradients/ragas
-first_seen: '2026-08-06T03:58:53.497193+05:30'
-last_seen: '2026-08-06T03:58:53.497193+05:30'
-last_checked: '2026-08-06T03:58:53.497193+05:30'
+first_seen: '2026-08-07T08:54:44.281975+05:30'
+last_seen: '2026-08-07T08:54:44.281975+05:30'
+last_checked: '2026-08-07T08:54:44.281975+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Ragas**: Python library for evaluating LLM applications, focusing on RAG pipelines with metrics like faithfulness, answer relevance, and context precision.
-- **Key Features**: Provides 10+ evaluation metrics, supports both reference-free and reference-based evaluation, and integrates with datasets for automated testing.
-- **Integration**: Compatible with LangChain, Hugging Face, and custom pipelines; designed for LLMops workflows with CLI and Python API support.
+- **RAGAS Framework**: Open-source Python library for evaluating Retrieval-Augmented Generation (RAG) and LLM applications with 18+ metrics covering aspects like faithfulness, answer correctness, context precision, and latency.
+
+- **Evaluation Metrics**: Implements both reference-free and reference-based metrics, including hallucination detection, answer relevancy, and context recall, with support for custom metric integration.
+
+- **Integration & Tooling**: Provides CLI, SDK, and Jupyter notebook support for seamless evaluation workflows, with compatibility for LangChain, Haystack, and custom pipelines.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: explodinggradients
-- Stars: 15150
-- Forks: 1605
+- Stars: 15166
+- Forks: 1607
 - Language: Python
 - Topics: evaluation, llm, llmops
-- Last Updated: 2026-08-05T21:35:11Z
+- Last Updated: 2026-08-07T03:05:27Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-08T17:48:04Z

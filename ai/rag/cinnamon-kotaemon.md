@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-07T05:49:31.569475+05:30'
+collected_at: '2026-08-07T08:50:48.847111+05:30'
 published_at: '2026-08-06T19:16:43Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 25691
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-07T05:49:31.569475+05:30'
-last_seen: '2026-08-07T05:49:31.569475+05:30'
-last_checked: '2026-08-07T05:49:31.569475+05:30'
+first_seen: '2026-08-07T08:50:48.847111+05:30'
+last_seen: '2026-08-07T08:50:48.847111+05:30'
+last_checked: '2026-08-07T08:50:48.847111+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs, leveraging vector embeddings and retrieval mechanisms for contextual responses.
+- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual document querying and chat-based interactions with user-uploaded files.
 
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding generation, retrieval, and LLM integration, supporting customization via configurable pipelines.
+- **Modular Python Architecture**: Built in Python with extensible components for document processing, embedding, retrieval, and LLM integration, supporting customization for diverse use cases.
 
-- **Open-Source Deployment**: Provides a self-hostable, open-source solution with active community support (25.6k+ stars, 2.1k+ forks), optimized for local or cloud-based document interaction workflows.
+- **Open-Source Deployment**: Licensed for community use, with active development tracked on GitHub (25.7k+ stars, 2.1k+ forks) and last updated in August 2026.
 
 ## Why It Matters
 

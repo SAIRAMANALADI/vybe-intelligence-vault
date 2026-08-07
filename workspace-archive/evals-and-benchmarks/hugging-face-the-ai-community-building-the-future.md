@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- models
 - rag
 - web-crawled
 selection_reason:
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Model Architecture**: MiniMax-H3 is a large-scale, decoder-only transformer model optimized for high-performance text generation, leveraging advanced attention mechanisms and efficient tokenization.
+- **Model Architecture**: MiniMax-H3 is a large language model (LLM) developed by MiniMaxAI, optimized for high-performance inference and efficiency, likely leveraging transformer-based architectures with advanced attention mechanisms.
 
-- **Performance Metrics**: Achieves competitive benchmarks in reasoning, coding, and language tasks, with a reported context window of up to 32K tokens and optimized inference speed.
+- **Performance Metrics**: The model achieves competitive results in benchmarks, with a reported context length of 32K tokens and optimized for low-latency, high-throughput applications.
 
-- **Deployment & Accessibility**: Available via Hugging Face Hub with open-source weights, supporting fine-tunin
+- **Deployment & Accessibility**: Available on Hugging Face Hub, MiniMax-H3
 
 ## Use Cases
 

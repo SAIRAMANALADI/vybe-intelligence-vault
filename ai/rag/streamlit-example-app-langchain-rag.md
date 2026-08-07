@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-07T05:49:46.605604+05:30'
+collected_at: '2026-08-07T08:51:03.864839+05:30'
 published_at: '2026-08-03T13:16:53Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 157
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-07T05:49:46.605604+05:30'
-last_seen: '2026-08-07T05:49:46.605604+05:30'
-last_checked: '2026-08-07T05:49:46.605604+05:30'
+first_seen: '2026-08-07T08:51:03.864839+05:30'
+last_seen: '2026-08-07T08:51:03.864839+05:30'
+last_checked: '2026-08-07T08:51:03.864839+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates LangChain's retrieval augmented generation (RAG) using a vector store with hybrid search (combining dense and sparse retrieval methods) for enhanced document retrieval accuracy.
+- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval using LangChain and a vectorstore for enhanced RAG performance.
 
-- **Streamlit UI Framework**: Implements a Streamlit-based web application to visualize and interact with LangChain's RAG pipeline, enabling real-time user queries and response generation.
+- **Streamlit Frontend**: Provides a web interface built with Streamlit to interact with the RAG pipeline, enabling user queries and result visualization.
 
-- **Modular LangChain Components**: Utilizes LangChain's modular architecture (e.g., document loaders, embeddings, retrievers, and LLMs) to construct a scalable RAG system with configurable vector stores (e.g., FAISS, Chroma).
+- **LangChain RAG Pipeline**: Implements a retrieval-augmented generation workflow using LangChain's modular components (e.g., retrievers, LLMs) for dynamic document querying and response generation.
 
 ## Why It Matters
 

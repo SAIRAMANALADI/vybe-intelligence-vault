@@ -10,7 +10,6 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [Guide to Using RASS & PI Dashboard | Documentation & Training](https://guide.rass.cornell.edu/) | `frontend-ai-ui/` | 70 |
 | [CORDIS | European Commission](https://cordis.europa.eu) | `frontend-ai-ui/` | 70 |
 | [GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub](https://github.com/algolia/firestore-algolia-search/tree/6af4b6de9301f25718743af54105d37ebd0606f1) | `frontend-ai-ui/` | 70 |
-| [The world's fastest framework for building websites](https://gohugo.io/) | `frontend-ai-ui/` | 70 |
 | [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app) | `frontend-ai-ui/` | 70 |
 | [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
 | [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind) | `frontend-ai-ui/` | 70 |
@@ -19,6 +18,7 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) | `frontend-ai-ui/` | 70 |
 | [Listen to WasmAssembly podcast | Deezer](https://www.deezer.com/show/1000884501) | `webdev-3d-creative/` | 70 |
 | [Static Asset Handling | Vite](https://vite.dev/guide/assets.html#importing-asset-as-url) | `webdev-3d-creative/` | 70 |
+| [Open Source tools for powerful visualization on the web | Open Visualization](https://www.openvisualization.org/) | `webdev-3d-creative/` | 70 |
 | [idflood/ThreeNodes.js](https://github.com/idflood/threenodes.js) | `webdev-3d-creative/` | 70 |
 | [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) | `webdev-3d-creative/` | 70 |
 | [fireship-io/threejs-scroll-animation-demo](https://github.com/fireship-io/threejs-scroll-animation-demo) | `webdev-3d-creative/` | 70 |

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-08-07T05:50:31.581337+05:30'
+collected_at: '2026-08-07T08:51:48.903728+05:30'
 published_at: '2026-08-06T22:49:19Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-07-31T21:07:09Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-08-07T05:50:31.581337+05:30'
-last_seen: '2026-08-07T05:50:31.581337+05:30'
-last_checked: '2026-08-07T05:50:31.581337+05:30'
+first_seen: '2026-08-07T08:51:48.903728+05:30'
+last_seen: '2026-08-07T08:51:48.903728+05:30'
+last_checked: '2026-08-07T08:51:48.903728+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for developing production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on scalability and robustness.
 
-- **Multi-Framework Support**: Integrates multiple agent frameworks (e.g., LangGraph) and tools (e.g., MCP, RAG) while emphasizing MLOps, observability, and scalability for enterprise-grade systems.
+- **Multi-Framework Integration**: Supports advanced agentic AI concepts using frameworks like LangGraph, MCP, and multi-agent systems, with practical implementations in Python and Jupyter Notebooks.
 
-- **Python & Jupyter Notebooks**: Leverages Python and Jupyter Notebooks to deliver hands-on tutorials, covering topics like multi-agent systems, LLM integration, and deployment strategies.
+- **MLOps & Observability Focus**: Includes tutorials on deployment, MLOps, RAG, and observability for AI agents, ensuring enterprise-grade reliability and monitoring in production environments.
 
 ## Why It Matters
 

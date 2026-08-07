@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.modular.com/mojo
-published_at: '2026-08-04T04:00:23.502264+05:30'
-collected_at: '2026-08-04T04:00:23.502275+05:30'
+published_at: '2026-08-07T09:01:09.446765+05:30'
+collected_at: '2026-08-07T09:01:09.446776+05:30'
 tags:
 - agents
 - benchmark
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:mojo
-first_seen: '2026-08-04T04:00:23.502275+05:30'
-last_seen: '2026-08-04T04:00:23.502275+05:30'
-last_checked: '2026-08-04T04:00:23.502275+05:30'
+first_seen: '2026-08-07T09:01:09.446776+05:30'
+last_seen: '2026-08-07T09:01:09.446776+05:30'
+last_checked: '2026-08-07T09:01:09.446776+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,15 @@ health_score: 100
 
 ## Summary
 
-- **Language Design**: Mojo combines Python-like syntax with C++-level performance, offering memory safety (inspired by Rust) and compile-time metaprogramming (inspired by Zig) for high-performance computing across CPUs, GPUs, and accelerators.
+- **Language Design**: Mojo combines Python-like syntax with C++-level performance, offering memory safety (Rust-inspired) and compile-time metaprogramming (Zig-inspired) for heterogeneous hardware (CPUs/GPUs/ASICs) without vendor lock-in.
 
-- **Key Features**: Supports GPU programming without vendor-specific libraries, zero-cost abstractions via compile-time metaprogramming, and seamless Python interoperability for incremental performance optimization.
+- **Key Features**:
+  - **GPU Kernels**: Write GPU-optimized code in the same language as CPU code, eliminating vendor-specific libraries.
+  - **Python Interop**: Seamlessly integrate with Python for incremental performance improvements; Mojo functions/classes can be imported into Python and vice versa.
 
-- **Roadmap & Open Source**: Phased development (core parser → high-performance kernels → systems programming → dynamic OOP), with the standard library already open-source and the compiler planned for open-sourcing in 2026.
+- **Roadmap & Open Source**:
+  - **Phases**: Core language (Phase 0) → High-performance kernels (Phase 1) → Systems programming (Phase 2) → Dynamic OOP (Phase 3).
+  - **Open Source**: Standard library is open-source; compiler planned for open-sourcing in 2026, with contributions welcomed via GitHub.
 
 ## Why It Matters
 
@@ -37,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-04T04:00:23.502264+05:30
+- Published: 2026-08-07T09:01:09.446765+05:30
 
 ## Related Tags
 
