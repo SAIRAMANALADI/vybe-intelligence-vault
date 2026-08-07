@@ -1,6 +1,6 @@
 ---
 title: LeeFly-cn/TripStar-Java
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Java 21
 - Spring Boot 4.0.7

@@ -1,6 +1,6 @@
 ---
 title: datamcpapp/datamcp-app
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - PostgreSQL
 - OpenAPI 3.x

@@ -1,6 +1,6 @@
 ---
 title: mantis-x/mantis
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Python 3.11
 - Solidity 0.8.20

@@ -1,6 +1,6 @@
 ---
 title: 2395935208/campus-memory
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Java
 - Spring Boot

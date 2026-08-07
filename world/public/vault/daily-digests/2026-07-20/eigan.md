@@ -1,6 +1,6 @@
 ---
 title: tue3306/EIGAN
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Python
 - AI/LLM Providers (Claude, GPT, Gemini, Groq, Ollama)

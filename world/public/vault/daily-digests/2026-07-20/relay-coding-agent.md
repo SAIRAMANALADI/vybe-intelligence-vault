@@ -1,6 +1,6 @@
 ---
 title: LeventeNagy/relay-coding-agent
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Electron
 - React 19

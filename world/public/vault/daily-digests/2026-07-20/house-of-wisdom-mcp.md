@@ -1,6 +1,6 @@
 ---
 title: EzzoHamdan/house-of-wisdom-mcp
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Python 3.10+
 - Model Context Protocol (MCP)

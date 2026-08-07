@@ -1,6 +1,6 @@
 ---
 title: usk6666/yorishiro-proxy
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Go
 - Model Context Protocol (MCP)

@@ -1,6 +1,6 @@
 ---
 title: chickenyoutoo-beautiful/oneapichat
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - PHP 8.3
 - Python 3.11+

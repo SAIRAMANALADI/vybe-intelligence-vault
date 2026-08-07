@@ -1,6 +1,6 @@
 ---
 title: PentagonRBX/n8n-skills
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - TypeScript
 - Windows Desktop Application

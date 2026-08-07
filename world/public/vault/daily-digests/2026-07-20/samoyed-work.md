@@ -1,6 +1,6 @@
 ---
 title: light-misty/Samoyed-Work
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Tauri 2
 - React 19

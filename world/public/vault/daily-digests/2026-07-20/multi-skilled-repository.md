@@ -1,6 +1,6 @@
 ---
 title: High-cla/multi-skilled-repository
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Markdown
 - CLI Tools

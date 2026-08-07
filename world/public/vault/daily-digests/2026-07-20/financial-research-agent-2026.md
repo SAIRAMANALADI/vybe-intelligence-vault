@@ -1,6 +1,6 @@
 ---
 title: leor2707/Financial-Research-Agent-2026
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Python
 - Windows Desktop App

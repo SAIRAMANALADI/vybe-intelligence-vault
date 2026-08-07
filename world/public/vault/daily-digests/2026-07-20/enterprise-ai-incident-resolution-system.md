@@ -1,6 +1,6 @@
 ---
 title: dasu07988/Enterprise-AI-Incident-Resolution-System
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Google Gemini
 - Pinecone

@@ -1,6 +1,6 @@
 ---
 title: libraz/claude-coverwise
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - JavaScript
 - Node.js (>=22)

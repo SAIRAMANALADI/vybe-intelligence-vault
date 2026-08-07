@@ -1,6 +1,6 @@
 ---
 title: ironsheep/P2-Knowledge-Base-MCP
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Go
 - Model Context Protocol (MCP)

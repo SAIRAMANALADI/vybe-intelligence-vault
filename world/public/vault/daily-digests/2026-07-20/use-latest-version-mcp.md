@@ -1,6 +1,6 @@
 ---
 title: 88plug/use-latest-version-mcp
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - TypeScript
 - Model Context Protocol (MCP)

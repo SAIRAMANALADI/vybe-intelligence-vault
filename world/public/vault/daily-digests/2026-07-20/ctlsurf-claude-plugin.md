@@ -1,6 +1,6 @@
 ---
 title: phenx-inc/ctlsurf-claude-plugin
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Claude Code
 - Model Context Protocol (MCP)

@@ -1,6 +1,6 @@
 ---
 title: kevinpbuckley/VibeUE
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Unreal Engine 5.8+
 - Model Context Protocol (MCP)

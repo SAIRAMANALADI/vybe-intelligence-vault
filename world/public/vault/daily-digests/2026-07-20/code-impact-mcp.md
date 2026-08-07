@@ -1,6 +1,6 @@
 ---
 title: vk0dev/code-impact-mcp
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - TypeScript
 - Node.js

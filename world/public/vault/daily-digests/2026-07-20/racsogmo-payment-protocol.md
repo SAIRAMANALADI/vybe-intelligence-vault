@@ -1,6 +1,6 @@
 ---
 title: racsogmo-sys/RacSogMo-Payment-Protocol
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Python
 - Model Context Protocol (MCP)

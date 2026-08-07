@@ -1,6 +1,6 @@
 ---
 title: pipeworx-io/mcp-luchtmeetnet
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - TypeScript
 - Model Context Protocol (MCP)

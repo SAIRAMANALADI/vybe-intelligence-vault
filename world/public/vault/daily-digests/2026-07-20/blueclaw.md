@@ -1,6 +1,6 @@
 ---
 title: jztan/blueclaw
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Python
 - Strands Agents SDK

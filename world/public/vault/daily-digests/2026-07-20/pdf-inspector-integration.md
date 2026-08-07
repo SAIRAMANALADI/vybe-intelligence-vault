@@ -1,6 +1,6 @@
 ---
 title: Jimthetaxguy/pdf-inspector-integration
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Rust
 - Model Context Protocol (MCP)

@@ -1,6 +1,6 @@
 ---
 title: halflength-ampleness75/claude-code-recipes
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Shell
 - Claude Code

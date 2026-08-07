@@ -1,6 +1,6 @@
 ---
 title: vegetablematterdegreeprogram9688/Hard-Ops-BoxCutter-Free
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Blender
 - Python

@@ -1,6 +1,6 @@
 ---
 title: can4hou6joeng4/can4hou6joeng4
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - GitHub Profile README
 - Swift

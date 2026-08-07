@@ -1,6 +1,6 @@
 ---
 title: weksbwrx62862/omnimem
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Python
 - FSRS (Spaced Repetition Algorithm)

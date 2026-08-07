@@ -1,6 +1,6 @@
 ---
 title: robort-gabriel/link-building-outreach-agent
-category: world/public/vault/daily-digests/2026-07-20
+category: daily-digests/2026-07-20
 tech_stack:
 - Zo Computer
 - Claude AI
