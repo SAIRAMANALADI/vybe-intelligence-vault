@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-07T10:27:50.155891+05:30`
+Generated at: `2026-08-07T11:44:10.135944+05:30`
 
 ## Executive Summary
 
@@ -25,16 +25,16 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🚀 Fastest Rising Tools
 
-- **stanford-oval/storm** - (Rank Change: `+17540`) ([File](../ai/rag/stanford-oval-storm.md))
-- **langgenius/dify** - (Rank Change: `+1008`) ([File](../ai/rag/langgenius-dify.md))
-- **neuml/txtai** - (Rank Change: `+1008`) ([File](../ai/rag/neuml-txtai.md))
-- **krishnaik06/Agentic-LanggraphCrash-course** - (Rank Change: `+1008`) ([File](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md))
-- **esxr/langgraph-mcp** - (Rank Change: `+1008`) ([File](../ai/rag/esxr-langgraph-mcp.md))
-- **sickn33/agentic-awesome-skills** - (Rank Change: `+1008`) ([File](../ai/agents/sickn33-agentic-awesome-skills.md))
-- **langchain-ai/react-agent** - (Rank Change: `+1008`) ([File](../ai/agents/langchain-ai-react-agent.md))
-- **SamuelSchmidgall/AgentLaboratory** - (Rank Change: `+1008`) ([File](../ai/rag/samuelschmidgall-agentlaboratory.md))
-- **plusai-solutions/ai-scrum-master-template** - (Rank Change: `+1008`) ([File](../ai/agents/plusai-solutions-ai-scrum-master-template.md))
-- **wxmb01/codex-app-autonomous-runs** - (Rank Change: `+1008`) ([File](../ai/rag/wxmb01-codex-app-autonomous-runs.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1008`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+1008`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1008`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1008`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1008`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1008`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1008`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1008`) ([File](../ai/research/arxiv-2606-06379.md))
+- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1008`) ([File](../ai/agents/arxiv-2606-05050.md))
+- **Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory** - (Rank Change: `+1008`) ([File](../ai/research/arxiv-2605-24602.md))
 
 ## 🔄 Essential Tier Transitions
 

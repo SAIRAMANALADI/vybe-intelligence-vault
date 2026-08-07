@@ -29,7 +29,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | sbert.net | 9 |
 | docs.unity3d.com | 9 |
 | ico.org.uk | 8 |
-| medium.com | 8 |
 | cloudflare.com | 8 |
 | openai.com | 8 |
 | en.wikipedia.org | 7 |
@@ -38,6 +37,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | creativecommons.org | 7 |
 | help.medium.com | 7 |
 | play.google.com | 7 |
+| medium.com | 7 |
 | research.google | 7 |
 | apps.apple.com | 7 |
 | twilio.com | 7 |
@@ -327,6 +327,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | forms.gle | 1 |
 | sysdebug.com | 1 |
 | kangsankim07.github.io | 1 |
+| blog.medium.com | 1 |
 | aidailypost.com | 1 |
 | is4.ai | 1 |
 | tensorblue.com | 1 |

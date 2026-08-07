@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-07T10:27:50.155891+05:30",
-  "last_updated": "2026-08-07 10:27 IST",
+  "generated_at": "2026-08-07T11:44:10.135944+05:30",
+  "last_updated": "2026-08-07 11:44 IST",
   "total_resources": 17508,
   "active_resources": 17003,
   "inactive_resources": 505,
-  "total_markdown_files": 105176,
+  "total_markdown_files": 105196,
   "archive_files": 2188,
   "archive_categories": 26,
   "workspace_archive_categories": 26,
@@ -17,7 +17,7 @@
   "examples_count": 8,
   "search_index_entries": 34635,
   "latest_resource_date": "2026-08-07T09:01:10.210955+05:30",
-  "latest_update_time": "2026-08-07T10:27:50.155959+05:30",
+  "latest_update_time": "2026-08-07T11:44:10.136005+05:30",
   "top_categories": [
     {
       "name": "ai/research",
@@ -165,6 +165,7 @@
     "kangsankim07.github.io": 1,
     "developers.cloudflare.com": 2,
     "analyticsvidhya.com": 3,
+    "blog.medium.com": 1,
     "aidailypost.com": 1,
     "is4.ai": 1,
     "tensorblue.com": 1,
@@ -225,7 +226,7 @@
     "githubuniverse.com": 1,
     "safety.google": 2,
     "cloud.google.com": 18,
-    "medium.com": 8,
+    "medium.com": 7,
     "apple.com": 22,
     "medium.zendesk.com": 3,
     "dlmf.nist.gov": 1,
@@ -1793,25 +1794,12 @@
     ],
     "fastest_rising_tools": [
       {
-        "id": "github:stanford-oval/storm",
-        "title": "stanford-oval/storm",
+        "id": "blog:medium-terms-of-service-by-medium-medium-policy",
+        "title": "Medium Terms of Service | by Medium | Medium Policy",
         "category": "ai/rag",
-        "source_type": "github",
-        "url": "https://github.com/stanford-oval/storm",
-        "file_path": "ai/rag/stanford-oval-storm.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": 17540,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "github:langgenius/dify",
-        "title": "langgenius/dify",
-        "category": "ai/rag",
-        "source_type": "github",
-        "url": "https://github.com/langgenius/dify",
-        "file_path": "ai/rag/langgenius-dify.md",
+        "source_type": "web",
+        "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+        "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
         "score": 0,
         "score_change": 0,
         "rank_change": 1008,
@@ -1819,12 +1807,12 @@
         "tier": "tier-3"
       },
       {
-        "id": "github:neuml/txtai",
-        "title": "neuml/txtai",
+        "id": "github:promptfoo/promptfoo-action",
+        "title": "promptfoo/promptfoo-action",
         "category": "ai/rag",
         "source_type": "github",
-        "url": "https://github.com/neuml/txtai",
-        "file_path": "ai/rag/neuml-txtai.md",
+        "url": "https://github.com/promptfoo/promptfoo-action",
+        "file_path": "ai/rag/promptfoo-promptfoo-action.md",
         "score": 0,
         "score_change": 0,
         "rank_change": 1008,
@@ -1832,12 +1820,90 @@
         "tier": "tier-3"
       },
       {
-        "id": "github:krishnaik06/agentic-langgraphcrash-course",
-        "title": "krishnaik06/Agentic-LanggraphCrash-course",
+        "id": "github:alucek/graphrag-breakdown",
+        "title": "ALucek/GraphRAG-Breakdown",
+        "category": "ai/rag",
+        "source_type": "github",
+        "url": "https://github.com/alucek/graphrag-breakdown",
+        "file_path": "ai/rag/alucek-graphrag-breakdown.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": 1008,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "arxiv:2606.29031",
+        "title": "How to Leverage Synthetic Speech for LLM-Based ASR Systems?",
+        "category": "ai/rag",
+        "source_type": "arxiv",
+        "url": "https://arxiv.org/abs/2606.29031",
+        "file_path": "ai/rag/arxiv-2606-29031.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": 1008,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "arxiv:2606.26428",
+        "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
+        "category": "ai/research",
+        "source_type": "arxiv",
+        "url": "https://arxiv.org/abs/2606.26428",
+        "file_path": "ai/research/arxiv-2606-26428.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": 1008,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "arxiv:2606.21887",
+        "title": "Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method",
+        "category": "ai/research",
+        "source_type": "arxiv",
+        "url": "https://arxiv.org/abs/2606.21887",
+        "file_path": "ai/research/arxiv-2606-21887.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": 1008,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "arxiv:2606.09677",
+        "title": "MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation",
+        "category": "ai/rag",
+        "source_type": "arxiv",
+        "url": "https://arxiv.org/abs/2606.09677",
+        "file_path": "ai/rag/arxiv-2606-09677.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": 1008,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "arxiv:2606.06379",
+        "title": "EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models",
+        "category": "ai/research",
+        "source_type": "arxiv",
+        "url": "https://arxiv.org/abs/2606.06379",
+        "file_path": "ai/research/arxiv-2606-06379.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": 1008,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "arxiv:2606.05050",
+        "title": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
         "category": "ai/agents",
-        "source_type": "github",
-        "url": "https://github.com/krishnaik06/agentic-langgraphcrash-course",
-        "file_path": "ai/agents/krishnaik06-agentic-langgraphcrash-course.md",
+        "source_type": "arxiv",
+        "url": "https://arxiv.org/abs/2606.05050",
+        "file_path": "ai/agents/arxiv-2606-05050.md",
         "score": 0,
         "score_change": 0,
         "rank_change": 1008,
@@ -1845,77 +1911,12 @@
         "tier": "tier-3"
       },
       {
-        "id": "github:esxr/langgraph-mcp",
-        "title": "esxr/langgraph-mcp",
-        "category": "ai/rag",
-        "source_type": "github",
-        "url": "https://github.com/esxr/langgraph-mcp",
-        "file_path": "ai/rag/esxr-langgraph-mcp.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": 1008,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "github:sickn33/agentic-awesome-skills",
-        "title": "sickn33/agentic-awesome-skills",
-        "category": "ai/agents",
-        "source_type": "github",
-        "url": "https://github.com/sickn33/agentic-awesome-skills",
-        "file_path": "ai/agents/sickn33-agentic-awesome-skills.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": 1008,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "github:langchain-ai/react-agent",
-        "title": "langchain-ai/react-agent",
-        "category": "ai/agents",
-        "source_type": "github",
-        "url": "https://github.com/langchain-ai/react-agent",
-        "file_path": "ai/agents/langchain-ai-react-agent.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": 1008,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "github:samuelschmidgall/agentlaboratory",
-        "title": "SamuelSchmidgall/AgentLaboratory",
-        "category": "ai/rag",
-        "source_type": "github",
-        "url": "https://github.com/samuelschmidgall/agentlaboratory",
-        "file_path": "ai/rag/samuelschmidgall-agentlaboratory.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": 1008,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "github:plusai-solutions/ai-scrum-master-template",
-        "title": "plusai-solutions/ai-scrum-master-template",
-        "category": "ai/agents",
-        "source_type": "github",
-        "url": "https://github.com/plusai-solutions/ai-scrum-master-template",
-        "file_path": "ai/agents/plusai-solutions-ai-scrum-master-template.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": 1008,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "github:wxmb01/codex-app-autonomous-runs",
-        "title": "wxmb01/codex-app-autonomous-runs",
-        "category": "ai/rag",
-        "source_type": "github",
-        "url": "https://github.com/wxmb01/codex-app-autonomous-runs",
-        "file_path": "ai/rag/wxmb01-codex-app-autonomous-runs.md",
+        "id": "arxiv:2605.24602",
+        "title": "Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory",
+        "category": "ai/research",
+        "source_type": "arxiv",
+        "url": "https://arxiv.org/abs/2605.24602",
+        "file_path": "ai/research/arxiv-2605-24602.md",
         "score": 0,
         "score_change": 0,
         "rank_change": 1008,
@@ -6885,6 +6886,19 @@
         "tier": "tier-3"
       },
       {
+        "id": "blog:medium",
+        "title": "Medium",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://blog.medium.com",
+        "file_path": "ai/rag/medium-2.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": 1007,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
         "id": "github:langgenius/dify",
         "title": "langgenius/dify",
         "category": "ai/rag",
@@ -6893,7 +6907,7 @@
         "file_path": "ai/rag/langgenius-dify.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -6906,7 +6920,7 @@
         "file_path": "ai/rag/neuml-txtai.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -6919,7 +6933,7 @@
         "file_path": "ai/agents/krishnaik06-agentic-langgraphcrash-course.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -6932,7 +6946,7 @@
         "file_path": "ai/rag/esxr-langgraph-mcp.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -6945,7 +6959,7 @@
         "file_path": "ai/agents/sickn33-agentic-awesome-skills.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -6958,7 +6972,7 @@
         "file_path": "ai/agents/langchain-ai-react-agent.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -6971,7 +6985,7 @@
         "file_path": "ai/rag/samuelschmidgall-agentlaboratory.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -6984,7 +6998,7 @@
         "file_path": "ai/agents/plusai-solutions-ai-scrum-master-template.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -6997,7 +7011,7 @@
         "file_path": "ai/rag/wxmb01-codex-app-autonomous-runs.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7010,7 +7024,7 @@
         "file_path": "ai/agents/pentesterflow-agent.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7023,7 +7037,7 @@
         "file_path": "ai/rag/reworkd-agentgpt.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7036,7 +7050,7 @@
         "file_path": "ai/rag/zai-org-open-autoglm.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7049,7 +7063,7 @@
         "file_path": "ai/agents/panniantong-agent-reach.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7062,7 +7076,7 @@
         "file_path": "ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7075,7 +7089,7 @@
         "file_path": "ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7088,7 +7102,7 @@
         "file_path": "ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7101,7 +7115,7 @@
         "file_path": "ai/resources/making-sure-you-re-not-a-bot.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7114,7 +7128,7 @@
         "file_path": "ai/rag/gemini-code-assist-overview-google-for-developers.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7127,7 +7141,7 @@
         "file_path": "ai/rag/a-tour-of-gemini-code-assist-standard-and-enterpri.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7140,7 +7154,7 @@
         "file_path": "ai/rag/google-gemini-gemini-cli.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7153,7 +7167,7 @@
         "file_path": "ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7166,7 +7180,7 @@
         "file_path": "ai/resources/deed-attribution-sharealike-2-0-generic-creative-c.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7179,7 +7193,7 @@
         "file_path": "ai/rag/the-santa-clara-principles-on-transparency-and-acc.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7192,7 +7206,7 @@
         "file_path": "ai/agents/speechify-ai-tts-shims.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7205,7 +7219,7 @@
         "file_path": "ai/resources/speechifyinc-ai-api-examples.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7218,7 +7232,7 @@
         "file_path": "ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7231,7 +7245,7 @@
         "file_path": "ai/resources/firecrawl-firecrawl-docs.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7244,7 +7258,7 @@
         "file_path": "ai/rag/changelog-firecrawl.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7257,7 +7271,7 @@
         "file_path": "ai/rag/txyz-integrate-all-paths-to-knowledge.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7270,7 +7284,7 @@
         "file_path": "ai/rag/exploring-the-practical-applications-of-generative.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7283,7 +7297,7 @@
         "file_path": "ai/rag/datahack-platform-compete-learn-grow-in-data-scien.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7296,7 +7310,7 @@
         "file_path": "ai/rag/learning-path-resources-analytics-vidhya.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7309,7 +7323,7 @@
         "file_path": "ai/resources/nfl-youtube.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7322,7 +7336,7 @@
         "file_path": "ai/rag/training-overview-sentence-transformers-documentat.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7335,7 +7349,7 @@
         "file_path": "ai/rag/quickstart-sentence-transformers-documentation.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7348,7 +7362,7 @@
         "file_path": "ai/rag/semantic-textual-similarity-sentence-transformers.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7361,7 +7375,7 @@
         "file_path": "ai/resources/android-open-source-project.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7374,7 +7388,7 @@
         "file_path": "ai/resources/medium-medium-policy.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7387,7 +7401,7 @@
         "file_path": "ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7400,7 +7414,7 @@
         "file_path": "ai/agents/introduction-firecrawl.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7413,7 +7427,7 @@
         "file_path": "ai/rag/configure-imaging.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7426,7 +7440,7 @@
         "file_path": "ai/resources/youtube-k3r9axddrru.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7439,7 +7453,7 @@
         "file_path": "ai/resources/deepset-makers-of-haystack-youtube.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7452,7 +7466,7 @@
         "file_path": "ai/rag/2005-11401-retrieval-augmented-generation-for-know.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7465,7 +7479,7 @@
         "file_path": "ai/resources/purchase-watch-primetime-channels-on-youtube-compu.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7478,7 +7492,7 @@
         "file_path": "ai/resources/system-requirements-supported-devices-for-youtube.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7491,7 +7505,7 @@
         "file_path": "ai/resources/manage-renewal-for-nfl-sunday-ticket-on-youtube-pr.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7504,7 +7518,7 @@
         "file_path": "ai/rag/huggingface-sentence-transformers.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7517,7 +7531,7 @@
         "file_path": "ai/rag/home-the-github-blog.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7530,7 +7544,7 @@
         "file_path": "ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7543,7 +7557,7 @@
         "file_path": "ai/rag/arxiv-2005-11401.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7556,7 +7570,7 @@
         "file_path": "ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7569,7 +7583,7 @@
         "file_path": "ai/rag/sentencetransformers-documentation-sentence-transf.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7582,7 +7596,7 @@
         "file_path": "ai/agents/agent-firecrawl.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7595,7 +7609,7 @@
         "file_path": "ai/rag/truefoundry-cognita.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7608,7 +7622,7 @@
         "file_path": "ai/agents/langchain-ai-data-enrichment.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7621,7 +7635,7 @@
         "file_path": "ai/rag/doorman11991-smallcode.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7634,7 +7648,7 @@
         "file_path": "ai/rag/kyrolabs-awesome-agents.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7647,7 +7661,7 @@
         "file_path": "ai/agents/shanraisshan-codex-cli-best-practice.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7660,7 +7674,7 @@
         "file_path": "ai/agents/docker-compose-for-agents.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7673,7 +7687,7 @@
         "file_path": "ai/rag/understanding-rag-from-scratch-martinuke0-s-blog.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7686,7 +7700,7 @@
         "file_path": "ai/resources/firebase-github.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7699,7 +7713,7 @@
         "file_path": "ai/rag/gemini-in-android-studio-android-developers.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7712,7 +7726,7 @@
         "file_path": "ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7725,7 +7739,7 @@
         "file_path": "ai/resources/trekhleb-javascript-algorithms.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7738,7 +7752,7 @@
         "file_path": "ai/resources/yuin-goldmark.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7751,7 +7765,7 @@
         "file_path": "ai/rag/pandoc-index.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7764,7 +7778,7 @@
         "file_path": "ai/rag/privacy-policy-speechify.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7777,7 +7791,7 @@
         "file_path": "ai/rag/nodejs-node.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7790,7 +7804,7 @@
         "file_path": "ai/rag/deep-agents-code-docs-by-langchain.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7803,7 +7817,7 @@
         "file_path": "ai/resources/getting-started-developer-documentation.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7816,7 +7830,7 @@
         "file_path": "ai/rag/github-docs.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7829,7 +7843,7 @@
         "file_path": "ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7842,7 +7856,7 @@
         "file_path": "ai/rag/llmware-ai-llmware.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -7855,20 +7869,7 @@
         "file_path": "ai/resources/models-hugging-face.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1008,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "github:stanford-oval/storm",
-        "title": "stanford-oval/storm",
-        "category": "ai/rag",
-        "source_type": "github",
-        "url": "https://github.com/stanford-oval/storm",
-        "file_path": "ai/rag/stanford-oval-storm.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": 17540,
+        "rank_change": 1007,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -222771,12 +222772,38 @@
         "file_path": "ai/rag/medium-status.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": 1007,
+        "rank_change": 1005,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "github:stanford-oval/storm",
+        "title": "stanford-oval/storm",
+        "category": "ai/rag",
+        "source_type": "github",
+        "url": "https://github.com/stanford-oval/storm",
+        "file_path": "ai/rag/stanford-oval-storm-2.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": 1005,
         "new_resource": false,
         "tier": "tier-3"
       }
     ],
     "rank_decreases": [
+      {
+        "id": "blog:medium-privacy-policy-by-medium-medium-policy",
+        "title": "Medium Privacy Policy | by Medium | Medium Policy",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+        "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -7279,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
       {
         "id": "github:ruc-nlpir/flashrag",
         "title": "RUC-NLPIR/FlashRAG",
@@ -222787,32 +222814,6 @@
         "score": 0,
         "score_change": 0,
         "rank_change": -16728,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium",
-        "title": "Medium",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://medium.com/blog/all?topic=product",
-        "file_path": "ai/rag/medium.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -15602,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium-privacy-policy-by-medium-medium-policy",
-        "title": "Medium Privacy Policy | by Medium | Medium Policy",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
-        "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -7282,
         "new_resource": false,
         "tier": "tier-3"
       }
