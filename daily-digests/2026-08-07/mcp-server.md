@@ -1,31 +1,19 @@
 ---
-title: virtualsms-io/mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-07
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- REST API
-- WebSocket
-- Docker
-- GitHub Actions
+title: "virtualsms-io/mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "WebSocket", "Docker", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- SMS verification
-- MCP server
-- AI agents
-- phone number rental
-- OTP automation
-source: https://github.com/virtualsms-io/mcp-server
+deployment_complexity: "Low"
+tags: ["SMS verification", "MCP server", "AI agents", "phone number rental", "OTP automation"]
+source: "https://github.com/virtualsms-io/mcp-server"
 stars: 6
-language: TypeScript
-last_updated: '2026-07-18T18:57:55Z'
-discovered_at: '2026-07-18T19:02:33Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T18:57:55Z"
+discovered_at: "2026-07-18T19:02:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

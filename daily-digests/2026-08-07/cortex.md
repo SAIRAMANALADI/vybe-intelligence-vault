@@ -1,34 +1,19 @@
 ---
-title: Pratham9911/Cortex
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-07
-tech_stack:
-- React
-- Express
-- Node.js
-- PostgreSQL
-- Neo4j
-- Redis
-- BullMQ
-- TypeScript
-- Embeddings
-- LLM APIs
+title: "Pratham9911/Cortex"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["React", "Express", "Node.js", "PostgreSQL", "Neo4j", "Redis", "BullMQ", "TypeScript", "Embeddings", "LLM APIs"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- knowledge management
-- explainable AI
-- retrieval systems
-- structured data
-- decision support
-source: https://github.com/Pratham9911/Cortex
+deployment_complexity: "Medium"
+tags: ["knowledge management", "explainable AI", "retrieval systems", "structured data", "decision support"]
+source: "https://github.com/Pratham9911/Cortex"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-20T15:06:29Z'
-discovered_at: '2026-07-20T15:10:50Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-20T15:06:29Z"
+discovered_at: "2026-07-20T15:10:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
