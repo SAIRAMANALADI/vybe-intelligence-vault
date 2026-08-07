@@ -6,10 +6,10 @@ source_url: https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=o
 resource_id: blog:welcome-to-llamaindex-developer-documentation
 local_vault_path: ai/rag/welcome-to-llamaindex-developer-documentation.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - meta-ai
 - models
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Abstraction**: The process of hiding complex implementation details while exposing only essential features or functionalities to the user.
-- **Modularity**: Design principle that divides a system into smaller, independent, and interchangeable components (modules) to improve maintainability and scalability.
-- **Scalability**: The ability of a system, network, or process to handle increased workload or demand by efficiently allocating resources without degradation in performance.
+- **Abstraction**: Simplifies complex systems by hiding lower-level details, enabling focus on high-level functionality.
+- **Modularity**: Divides systems into independent, interchangeable components for easier maintenance and scalability.
+- **Encapsulation**: Bundles data and methods within a single unit (e.g., class) while restricting direct access to internal state.
 
 ## Use Cases
 

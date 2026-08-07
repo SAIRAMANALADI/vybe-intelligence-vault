@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-06T20:11:06.460898+05:30'
+collected_at: '2026-08-07T05:51:36.637489+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-06T20:11:06.460898+05:30'
-last_seen: '2026-08-06T20:11:06.460898+05:30'
-last_checked: '2026-08-06T20:11:06.460898+05:30'
+first_seen: '2026-08-07T05:51:36.637489+05:30'
+last_seen: '2026-08-07T05:51:36.637489+05:30'
+last_checked: '2026-08-07T05:51:36.637489+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Patterns**: Demonstrates efficient data fetching, caching, and synchronization strategies for AI coding agents, leveraging `useQuery`, `useMutation`, and `useQueryClient` for state management.
-- **Advanced Router Integration**: Implements dynamic routing and lazy loading with TanStack Router (`@tanstack/router`) to optimize SPA navigation and route-based code splitting for AI agent workflows.
-- **Start Framework Integration**: Provides best practices for integrating TanStack Start (`@tanstack/start`) to streamline SSR/SSG configurations, enhancing performance and SEO for AI-driven applications.
+- **Optimized TanStack Query Integration**: Implements advanced caching strategies, stale-while-revalidate patterns, and automatic background refetching for AI-driven state synchronization in dynamic applications.
+
+- **Router-Level State Management**: Leverages TanStack Router’s file-based routing and loader functions to dynamically inject query states, reducing client-side hydration overhead and improving cold-start performance.
+
+- **Start Framework Optimization**: Configures `@tanstack/start` with SSR-friendly hydration hooks and prefetching mechanisms, ensuring seamless integration with AI agent workflows for real-time data fetching.
 
 ## Why It Matters
 

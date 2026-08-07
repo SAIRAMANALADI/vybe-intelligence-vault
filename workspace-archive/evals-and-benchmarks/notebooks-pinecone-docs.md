@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 - workflows
@@ -34,8 +35,10 @@ selection_reason:
 ## Summary
 
 - Pinecone provides runnable Colab notebooks for semantic, lexical, hybrid search, RAG, embeddings, reranking, and data ingestion workflows.
-- Notebooks are categorized into **Search**, **Retrieval-augmented generation (RAG)**, and **Miscellaneous** for targeted use cases.
-- Additional sample applications are available separately for broader implementation guidance.
+
+- Notebooks are categorized into **Search**, **Retrieval-augmented generation (RAG)**, and **Miscellaneous** for targeted technical implementations.
+
+- Additional sample applications are available via the [Sample apps](https://docs.pinecone.io/examples/sample-apps) link for extended use cases.
 
 ## Use Cases
 

@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-06T20:11:51.475052+05:30'
+collected_at: '2026-08-07T05:52:21.703667+05:30'
 published_at: '2026-08-01T02:25:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - shell
 - workflows
 stars: 542
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-06T12:31:03Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-06T20:11:51.475052+05:30'
-last_seen: '2026-08-06T20:11:51.475052+05:30'
-last_checked: '2026-08-06T20:11:51.475052+05:30'
+first_seen: '2026-08-07T05:52:21.703667+05:30'
+last_seen: '2026-08-07T05:52:21.703667+05:30'
+last_checked: '2026-08-07T05:52:21.703667+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
 
-- **Capabilities**: Proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase for storage and SearXNG for search functionality.
+- **Modular architecture** with **MCP-based Skills**, **Expert Agents** (delegated sub-agents), and **proactive task management**, integrating **media understanding** and **Supabase** for persistent storage.
 
-- **Technical Stack**: Shell-based repository with dependencies on n8n, Crawl4AI, MCP, and SearXNG; supports AI agent frameworks, skills management, and scalable sub-agent delegation.
+- **Self-hosted deployment** via a single setup script, combining **Crawl4AI** for scraping, **SearXNG** for search, and **Model Context Protocol (MCP)** for skill templating.
 
 ## Why It Matters
 

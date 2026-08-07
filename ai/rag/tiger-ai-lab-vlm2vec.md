@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-08-06T20:10:16.567217+05:30'
+collected_at: '2026-08-07T05:50:46.635577+05:30'
 published_at: '2026-08-06T10:20:58Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-10-07T15:14:52Z'
 pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-08-06T20:10:16.567217+05:30'
-last_seen: '2026-08-06T20:10:16.567217+05:30'
-last_checked: '2026-08-06T20:10:16.567217+05:30'
+first_seen: '2026-08-07T05:50:46.635577+05:30'
+last_seen: '2026-08-07T05:50:46.635577+05:30'
+last_checked: '2026-08-07T05:50:46.635577+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Version Framework**: Hosts three evolving versions of VLM2Vec (ICLR 2025, TMLR 2026, COLM 2026) and their associated **MMEB** benchmarks for multimodal embedding evaluation across tasks like image/video/document retrieval and RAG.
+- **Multi-Version Benchmarking Suite**: Hosts three evolving benchmarks—VLM2Vec/MMEB (ICLR 2025), VLM2Vec-V2/MMEB-V2 (TMLR 2026), and MMEB-V3 (COLM 2026)—for evaluating multimodal embedding models across tasks like image/video/document retrieval and RAG.
 
-- **Contrastive Learning & Representation**: Implements **contrastive learning** for training vision-language models (VLMs) to generate high-quality embeddings optimized for multimodal retrieval and representation tasks.
+- **Contrastive Learning Framework**: Implements contrastive learning techniques to train Vision-Language Models (VLMs) for generating high-quality embeddings optimized for multimodal retrieval and representation tasks.
 
-- **Python-Based Toolkit**: Provides a **Python-based** repository with tools for benchmarking, embedding generation, and evaluation across diverse multimodal datasets (e.g., image, video, document retrieval).
+- **Python-Based Toolkit**: Provides a Python-based repository with modular code for benchmarking, embedding generation, and evaluation across diverse multimodal datasets, supporting rapid iteration and reproducibility.
 
 ## Why It Matters
 

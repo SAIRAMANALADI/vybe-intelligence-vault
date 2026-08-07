@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Kangsan Kim - Homepage](../ai/rag/kangsan-kim-homepage.md) ([Source URL](https://kangsankim07.github.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:15:32.729433+05:30
-- **Local Path**: `ai/rag/kangsan-kim-homepage.md`
-
-### 2. [[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/arxiv-2504-20734.md) ([Source URL](https://arxiv.org/abs/2504.20734))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:07.246425+05:30
-- **Local Path**: `ai/rag/arxiv-2504-20734.md`
-
-### 3. [[2410.05779] LightRAG: Simple and Fast Retrieval-Augmented Generation](../ai/rag/arxiv-2410-05779.md) ([Source URL](https://arxiv.org/abs/2410.05779))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:07.180120+05:30
-- **Local Path**: `ai/rag/arxiv-2410-05779.md`
-
-### 4. [pgvector/pgvector](../ai/rag/pgvector-pgvector.md) ([Source URL](https://github.com/pgvector/pgvector))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:06.623549+05:30
-- **Local Path**: `ai/rag/pgvector-pgvector.md`
-
-### 5. [tensorblue · GitHub](../ai/resources/tensorblue-github.md) ([Source URL](https://github.com/tensorblue))
+### 1. [deepset · GitHub](../ai/resources/deepset-github.md) ([Source URL](https://github.com/deepset))
 - **Category**: ai/resources
-- **Collected At**: 2026-08-06T20:13:06.594827+05:30
-- **Local Path**: `ai/resources/tensorblue-github.md`
+- **Collected At**: 2026-08-07T06:00:15.011638+05:30
+- **Local Path**: `ai/resources/deepset-github.md`
 
-### 6. [Overview Â· Cloudflare Workers AI docs](../ai/rag/overview-a-cloudflare-workers-ai-docs.md) ([Source URL](https://developers.cloudflare.com/workers-ai))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:05.048426+05:30
-- **Local Path**: `ai/rag/overview-a-cloudflare-workers-ai-docs.md`
+### 2. [git/git](../ai/resources/git-git.md) ([Source URL](https://github.com/git/git))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:59:38.749330+05:30
+- **Local Path**: `ai/resources/git-git.md`
 
-### 7. [Cohere Rerank: Say Goodbye to Irrelevant Search Results](../ai/rag/cohere-rerank-say-goodbye-to-irrelevant-search-res.md) ([Source URL](https://txt.cohere.com/rerank))
+### 3. [Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab](../ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md) ([Source URL](https://gitlab.com/git-scm/git/-/blob/head/documentation/relnotes/2.55.0.adoc))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:04.872631+05:30
-- **Local Path**: `ai/rag/cohere-rerank-say-goodbye-to-irrelevant-search-res.md`
+- **Collected At**: 2026-08-07T05:59:38.734661+05:30
+- **Local Path**: `ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md`
 
-### 8. [LangChain overview - Docs by LangChain](../ai/rag/langchain-overview-docs-by-langchain.md) ([Source URL](https://js.langchain.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:04.626425+05:30
-- **Local Path**: `ai/rag/langchain-overview-docs-by-langchain.md`
+### 4. [Amazon.com](../ai/resources/amazon-com.md) ([Source URL](https://amazon.com/pro-git-scott-chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:59:38.224205+05:30
+- **Local Path**: `ai/resources/amazon-com.md`
 
-### 9. [Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain](../ai/rag/rag-with-deep-agents-docs-by-langchain.md) ([Source URL](https://python.langchain.com/docs/use_cases/question_answering))
+### 5. [Nx â Smart Monorepos Â· Fast Builds](../ai/rag/nx-a-smart-monorepos-a-fast-builds.md) ([Source URL](https://nx.dev))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:04.197896+05:30
-- **Local Path**: `ai/rag/rag-with-deep-agents-docs-by-langchain.md`
+- **Collected At**: 2026-08-07T05:59:37.031107+05:30
+- **Local Path**: `ai/rag/nx-a-smart-monorepos-a-fast-builds.md`
 
-### 10. [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source URL](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems))
+### 6. [Vite | Next Generation Frontend Tooling](../ai/rag/vite-next-generation-frontend-tooling.md) ([Source URL](https://vite.dev))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:03.465854+05:30
-- **Local Path**: `ai/rag/7-best-github-repositories-for-mastering-rag-syste.md`
+- **Collected At**: 2026-08-07T05:59:36.061652+05:30
+- **Local Path**: `ai/rag/vite-next-generation-frontend-tooling.md`
 
-### 11. [Chunking Strategies for LLM Applications | Pinecone](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md) ([Source URL](https://pinecone.io/learn/chunking-strategies))
+### 7. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:02.785235+05:30
+- **Collected At**: 2026-08-07T05:59:33.760287+05:30
+- **Local Path**: `ai/rag/cli-cli.md`
+
+### 8. [GitHub CLI telemetry - GitHub Docs](../ai/agents/github-cli-telemetry-github-docs.md) ([Source URL](https://docs.github.com/en/github-cli/github-cli/github-cli-telemetry))
+- **Category**: ai/agents
+- **Collected At**: 2026-08-07T05:59:33.720286+05:30
+- **Local Path**: `ai/agents/github-cli-telemetry-github-docs.md`
+
+### 9. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:59:26.415323+05:30
+- **Local Path**: `ai/rag/github-status.md`
+
+### 10. [pinecone-io/pinecone-claude-code-plugin](../ai/rag/pinecone-io-pinecone-claude-code-plugin.md) ([Source URL](https://github.com/pinecone-io/pinecone-claude-code-plugin))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:59:20.114636+05:30
+- **Local Path**: `ai/rag/pinecone-io-pinecone-claude-code-plugin.md`
+
+### 11. [Installation | uv](../ai/rag/installation-uv.md) ([Source URL](https://docs.astral.sh/uv/getting-started/installation))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:59:18.007130+05:30
+- **Local Path**: `ai/rag/installation-uv.md`
+
+### 12. [Quickstart - Claude Code Docs](../ai/agents/quickstart-claude-code-docs.md) ([Source URL](https://docs.claude.com/en/docs/claude-code/quickstart))
+- **Category**: ai/agents
+- **Collected At**: 2026-08-07T05:59:17.842412+05:30
+- **Local Path**: `ai/agents/quickstart-claude-code-docs.md`
+
+### 13. [michelf (Michel Fortin) · GitHub](../ai/resources/michelf-michel-fortin-github.md) ([Source URL](https://github.com/michelf))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:59:15.281773+05:30
+- **Local Path**: `ai/resources/michelf-michel-fortin-github.md`
+
+### 14. [Daring Fireball: Markdown Syntax Documentation](../ai/rag/daring-fireball-markdown-syntax-documentation.md) ([Source URL](http://daringfireball.net/projects/markdown/syntax))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:59:08.930230+05:30
+- **Local Path**: `ai/rag/daring-fireball-markdown-syntax-documentation.md`
+
+### 15. [jgm (John MacFarlane) · GitHub](../ai/resources/jgm-john-macfarlane-github.md) ([Source URL](http://github.com/jgm))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:59:08.474115+05:30
+- **Local Path**: `ai/resources/jgm-john-macfarlane-github.md`
+
+### 16. [CommonMark Spec](../ai/resources/commonmark-spec.md) ([Source URL](http://spec.commonmark.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:59:08.036329+05:30
+- **Local Path**: `ai/resources/commonmark-spec.md`
+
+### 17. [Chunking Strategies for LLM Applications | Pinecone](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md) ([Source URL](https://pinecone.io/learn/chunking-strategies))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:59:05.696021+05:30
 - **Local Path**: `ai/rag/chunking-strategies-for-llm-applications-pinecone.md`
 
-### 12. [Feedback!](../ai/resources/feedback.md) ([Source URL](https://forms.gle/7gmvvjw6julp6ith7))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-06T20:13:02.245100+05:30
-- **Local Path**: `ai/resources/feedback.md`
-
-### 13. [The world's fastest framework for building websites](../ai/resources/the-world-s-fastest-framework-for-building-website.md) ([Source URL](https://gohugo.io))
-- **Category**: ai/resources
-- **Collected At**: 2026-08-06T20:13:02.033918+05:30
-- **Local Path**: `ai/resources/the-world-s-fastest-framework-for-building-website.md`
-
-### 14. [HKUDS/LightRAG](../ai/rag/hkuds-lightrag.md) ([Source URL](https://github.com/hkuds/lightrag))
+### 18. [Gemini Developer API | Gemma open models | Google AI for Developers](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source URL](https://ai.google.dev))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:13:01.614110+05:30
-- **Local Path**: `ai/rag/hkuds-lightrag.md`
+- **Collected At**: 2026-08-07T05:59:02.827109+05:30
+- **Local Path**: `ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md`
 
-### 15. [nerfies/nerfies.github.io](../ai/resources/nerfies-nerfies-github-io.md) ([Source URL](https://github.com/nerfies/nerfies.github.io))
+### 19. [Google Issue Tracker](../ai/resources/google-issue-tracker.md) ([Source URL](https://issuetracker.google.com/issues?q=componentid%3A186600))
 - **Category**: ai/resources
-- **Collected At**: 2026-08-06T20:13:01.572932+05:30
-- **Local Path**: `ai/resources/nerfies-nerfies-github-io.md`
+- **Collected At**: 2026-08-07T05:59:02.363707+05:30
+- **Local Path**: `ai/resources/google-issue-tracker.md`
 
-### 16. [adityatelange/hugo-PaperMod](../ai/resources/adityatelange-hugo-papermod.md) ([Source URL](https://github.com/adityatelange/hugo-papermod))
+### 20. [Google Colab](../ai/resources/google-colab.md) ([Source URL](https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/pinecone-quickstart.ipynb))
 - **Category**: ai/resources
-- **Collected At**: 2026-08-06T20:13:01.545463+05:30
-- **Local Path**: `ai/resources/adityatelange-hugo-papermod.md`
+- **Collected At**: 2026-08-07T05:59:01.267838+05:30
+- **Local Path**: `ai/resources/google-colab.md`
 
-### 17. [RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat](../ai/rag/answerdotai-ragatouille.md) ([Source URL](https://github.com/answerdotai/ragatouille))
+### 21. [Choose how to use n8n | n8n Docs](../ai/rag/choose-how-to-use-n8n-n8n-docs.md) ([Source URL](https://docs.n8n.io/choose-n8n))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:56.973859+05:30
-- **Local Path**: `ai/rag/answerdotai-ragatouille.md`
+- **Collected At**: 2026-08-07T05:59:01.211098+05:30
+- **Local Path**: `ai/rag/choose-how-to-use-n8n-n8n-docs.md`
 
-### 18. [deepset-ai/haystack](../ai/rag/deepset-ai-haystack.md) ([Source URL](https://github.com/deepset-ai/haystack))
+### 22. [JavaScript data types and data structures - JavaScript | MDN](../ai/rag/javascript-data-types-and-data-structures-javascri.md) ([Source URL](https://developer.mozilla.org/docs/web/javascript/data_structures))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:56.605436+05:30
+- **Collected At**: 2026-08-07T05:58:51.097918+05:30
+- **Local Path**: `ai/rag/javascript-data-types-and-data-structures-javascri.md`
+
+### 23. [Signing Up and Logging Into DataCamp – Support | DataCamp](../ai/resources/signing-up-and-logging-into-datacamp-support-datac.md) ([Source URL](https://support.datacamp.com/hc/en-us/articles/360010018054))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:58:50.682403+05:30
+- **Local Path**: `ai/resources/signing-up-and-logging-into-datacamp-support-datac.md`
+
+### 24. [Render](../ai/resources/render.md) ([Source URL](https://gohugo.io/methods/page/render))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:58:49.155529+05:30
+- **Local Path**: `ai/resources/render.md`
+
+### 25. [The Shift from Models to Compound AI Systems – The Berkeley Artificial Intelligence Research Blog](../ai/rag/the-shift-from-models-to-compound-ai-systems-the-b.md) ([Source URL](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:58:37.078408+05:30
+- **Local Path**: `ai/rag/the-shift-from-models-to-compound-ai-systems-the-b.md`
+
+### 26. [[2401.12178] In-Context Learning for Extreme Multi-Label Classification](../ai/resources/arxiv-2401-12178.md) ([Source URL](https://arxiv.org/abs/2401.12178))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:58:36.436098+05:30
+- **Local Path**: `ai/resources/arxiv-2401-12178.md`
+
+### 27. [Stainless · GitHub](../ai/resources/stainless-github.md) ([Source URL](https://github.com/stainless-api))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:58:19.182558+05:30
+- **Local Path**: `ai/resources/stainless-github.md`
+
+### 28. [Styles and CSS | Docs](../web-development/tailwind/styles-and-css-docs.md) ([Source URL](https://docs.astro.build/en/guides/styling))
+- **Category**: web-development/tailwind
+- **Collected At**: 2026-08-07T05:58:17.363149+05:30
+- **Local Path**: `web-development/tailwind/styles-and-css-docs.md`
+
+### 29. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source URL](https://llamaindex.ai/llamaparse))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:58:16.324758+05:30
+- **Local Path**: `ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md`
+
+### 30. [run-llama/LlamaIndexTS](../ai/rag/run-llama-llamaindexts.md) ([Source URL](https://github.com/run-llama/llamaindexts))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:58:13.812112+05:30
+- **Local Path**: `ai/rag/run-llama-llamaindexts.md`
+
+### 31. [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md) ([Source URL](https://haystack.deepset.ai/integrations))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:57:52.539161+05:30
+- **Local Path**: `ai/rag/integrations-haystack.md`
+
+### 32. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([Source URL](https://github.com/deepset-ai/haystack-cookbook))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:57:49.669592+05:30
+- **Local Path**: `ai/rag/deepset-ai-haystack-cookbook.md`
+
+### 33. [deepset-ai/haystack · Discussions · GitHub](../ai/rag/deepset-ai-haystack.md) ([Source URL](https://github.com/deepset-ai/haystack))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:57:45.272197+05:30
 - **Local Path**: `ai/rag/deepset-ai-haystack.md`
 
-### 19. [Haystack | Haystack](../ai/rag/haystack-haystack.md) ([Source URL](https://haystack.deepset.ai))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:52.037462+05:30
-- **Local Path**: `ai/rag/haystack-haystack.md`
-
-### 20. [LangChain: Observe, Evaluate, and Deploy Reliable AI Agents](../ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md) ([Source URL](https://langchain.com))
+### 34. [deepset (deepset)](../ai/agents/deepset-deepset.md) ([Source URL](https://huggingface.co/deepset))
 - **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:51.987087+05:30
-- **Local Path**: `ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md`
+- **Collected At**: 2026-08-07T05:57:44.504001+05:30
+- **Local Path**: `ai/agents/deepset-deepset.md`
 
-### 21. [LlamaIndex | AI Agents for Document OCR + Workflows](../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md) ([Source URL](https://llamaindex.ai))
+### 35. [How ServiceNow uses LangSmith to get visibility into its customer success agents](../ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md) ([Source URL](https://blog.langchain.com/customers-servicenow))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:51.901279+05:30
-- **Local Path**: `ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md`
+- **Collected At**: 2026-08-07T05:57:43.369100+05:30
+- **Local Path**: `ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md`
 
-### 22. [langgenius/dify](../ai/rag/langgenius-dify.md) ([Source URL](https://github.com/langgenius/dify))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:51.583861+05:30
-- **Local Path**: `ai/rag/langgenius-dify.md`
+### 36. [Home page | Yarn](../ai/resources/home-page-yarn.md) ([Source URL](https://yarnpkg.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:57:18.454476+05:30
+- **Local Path**: `ai/resources/home-page-yarn.md`
 
-### 23. [neuml/txtai](../ai/rag/neuml-txtai.md) ([Source URL](https://github.com/neuml/txtai))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:51.579816+05:30
-- **Local Path**: `ai/rag/neuml-txtai.md`
+### 37. [Git](../ai/resources/git.md) ([Source URL](https://git-scm.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:57:18.400739+05:30
+- **Local Path**: `ai/resources/git.md`
 
-### 24. [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) ([Source URL](https://github.com/run-llama/llama_index))
+### 38. [GitHub Copilot app · GitHub](../ai/agents/features-ai.md) ([Source URL](https://github.com/features/ai))
+- **Category**: ai/agents
+- **Collected At**: 2026-08-07T05:57:15.896500+05:30
+- **Local Path**: `ai/agents/features-ai.md`
+
+### 39. [GitHub CLI | Take GitHub to the command line](../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source URL](https://cli.github.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-08-07T05:57:14.227019+05:30
+- **Local Path**: `ai/agents/github-cli-take-github-to-the-command-line.md`
+
+### 40. [Pinecone documentation - Pinecone Docs](../ai/rag/pinecone-documentation-pinecone-docs.md) ([Source URL](https://docs.pinecone.io))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:51.574641+05:30
+- **Collected At**: 2026-08-07T05:57:12.084624+05:30
+- **Local Path**: `ai/rag/pinecone-documentation-pinecone-docs.md`
+
+### 41. [Claude Code Plugin - Pinecone Docs](../ai/rag/claude-code-plugin-pinecone-docs.md) ([Source URL](http://docs.pinecone.io/integrations/claude-code))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:57:11.924252+05:30
+- **Local Path**: `ai/rag/claude-code-plugin-pinecone-docs.md`
+
+### 42. [GitHub Flavored Markdown Spec](../ai/rag/github-flavored-markdown-spec.md) ([Source URL](https://github.github.com/gfm))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:57:11.570790+05:30
+- **Local Path**: `ai/rag/github-flavored-markdown-spec.md`
+
+### 43. [PHP Markdown Extra](../ai/rag/php-markdown-extra.md) ([Source URL](https://michelf.ca/projects/php-markdown/extra))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:57:11.243949+05:30
+- **Local Path**: `ai/rag/php-markdown-extra.md`
+
+### 44. [Quickstart - Pinecone Docs](../ai/rag/quickstart-pinecone-docs.md) ([Source URL](https://docs.pinecone.io/guides/get-started/quickstart))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:57:07.577876+05:30
+- **Local Path**: `ai/rag/quickstart-pinecone-docs.md`
+
+### 45. [Sign in to GitHub · GitHub](../ai/resources/gohugoio-hugodocs.md) ([Source URL](https://github.com/gohugoio/hugodocs))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:56:50.424234+05:30
+- **Local Path**: `ai/resources/gohugoio-hugodocs.md`
+
+### 46. [Connected Papers | Find and explore academic papers](../ai/resources/connected-papers-find-and-explore-academic-papers.md) ([Source URL](https://connectedpapers.com/about))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:56:50.319116+05:30
+- **Local Path**: `ai/resources/connected-papers-find-and-explore-academic-papers.md`
+
+### 47. [Permissions | Node.js v26.7.0 Documentation](../ai/resources/permissions-node-js-v26-4-0-documentation.md) ([Source URL](https://nodejs.org/api/permissions.html))
+- **Category**: ai/resources
+- **Collected At**: 2026-08-07T05:56:47.652505+05:30
+- **Local Path**: `ai/resources/permissions-node-js-v26-4-0-documentation.md`
+
+### 48. [DSPy on Databricks | Databricks Blog](../ai/rag/dspy-on-databricks-databricks-blog.md) ([Source URL](https://databricks.com/blog/dspy-databricks))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:56:36.208614+05:30
+- **Local Path**: `ai/rag/dspy-on-databricks-databricks-blog.md`
+
+### 49. [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) ([Source URL](https://github.com/run-llama/llama_index))
+- **Category**: ai/rag
+- **Collected At**: 2026-08-07T05:56:35.446680+05:30
 - **Local Path**: `ai/rag/run-llama-llama-index.md`
 
-### 25. [alexfazio/crewAI-quickstart](../ai/agents/alexfazio-crewai-quickstart.md) ([Source URL](https://github.com/alexfazio/crewai-quickstart))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:46.585850+05:30
-- **Local Path**: `ai/agents/alexfazio-crewai-quickstart.md`
-
-### 26. [NanGePlus/CrewAITest](../ai/agents/nangeplus-crewaitest.md) ([Source URL](https://github.com/nangeplus/crewaitest))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:46.580590+05:30
-- **Local Path**: `ai/agents/nangeplus-crewaitest.md`
-
-### 27. [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md) ([Source URL](https://github.com/adongwanai/agentguide))
+### 50. [Stainless - Stainless Docs Platform](../ai/rag/stainless-stainless-docs-platform.md) ([Source URL](https://stainless.com/products/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:46.564671+05:30
-- **Local Path**: `ai/rag/adongwanai-agentguide.md`
-
-### 28. [tonykipkemboi/trip_planner_agent](../ai/rag/tonykipkemboi-trip-planner-agent.md) ([Source URL](https://github.com/tonykipkemboi/trip_planner_agent))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:46.541422+05:30
-- **Local Path**: `ai/rag/tonykipkemboi-trip-planner-agent.md`
-
-### 29. [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md) ([Source URL](https://github.com/crewaiinc/crewai))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:41.571938+05:30
-- **Local Path**: `ai/rag/crewaiinc-crewai.md`
-
-### 30. [crewAIInc/crewAI-tools](../ai/agents/crewaiinc-crewai-tools.md) ([Source URL](https://github.com/crewaiinc/crewai-tools))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:41.549673+05:30
-- **Local Path**: `ai/agents/crewaiinc-crewai-tools.md`
-
-### 31. [liangdabiao/easy_investment_Agent_crewai](../ai/rag/liangdabiao-easy-investment-agent-crewai.md) ([Source URL](https://github.com/liangdabiao/easy_investment_agent_crewai))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:41.544453+05:30
-- **Local Path**: `ai/rag/liangdabiao-easy-investment-agent-crewai.md`
-
-### 32. [hectorpine/multiple-model-crew](../ai/rag/hectorpine-multiple-model-crew.md) ([Source URL](https://github.com/hectorpine/multiple-model-crew))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:41.501068+05:30
-- **Local Path**: `ai/rag/hectorpine-multiple-model-crew.md`
-
-### 33. [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md) ([Source URL](https://github.com/the-swarm-corporation/multi-agent-rag-template))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:36.633915+05:30
-- **Local Path**: `ai/rag/the-swarm-corporation-multi-agent-rag-template.md`
-
-### 34. [The-Swarm-Corporation/Multi-Agent-Template-App](../ai/agents/the-swarm-corporation-multi-agent-template-app.md) ([Source URL](https://github.com/the-swarm-corporation/multi-agent-template-app))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:36.620022+05:30
-- **Local Path**: `ai/agents/the-swarm-corporation-multi-agent-template-app.md`
-
-### 35. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([Source URL](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:36.551349+05:30
-- **Local Path**: `ai/agents/muhammad-uzair-yasin-crewai-starter-template.md`
-
-### 36. [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md) ([Source URL](https://github.com/datarobot-community/datarobot-agent-templates))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:31.693853+05:30
-- **Local Path**: `ai/rag/datarobot-community-datarobot-agent-templates.md`
-
-### 37. [JoshuaC215/agent-service-toolkit](../ai/agents/joshuac215-agent-service-toolkit.md) ([Source URL](https://github.com/joshuac215/agent-service-toolkit))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:31.559410+05:30
-- **Local Path**: `ai/agents/joshuac215-agent-service-toolkit.md`
-
-### 38. [krishnaik06/Agentic-LanggraphCrash-course](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md) ([Source URL](https://github.com/krishnaik06/agentic-langgraphcrash-course))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:31.519935+05:30
-- **Local Path**: `ai/agents/krishnaik06-agentic-langgraphcrash-course.md`
-
-### 39. [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md) ([Source URL](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:26.652580+05:30
-- **Local Path**: `ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md`
-
-### 40. [LangChain-OpenTutorial/LangChain-OpenTutorial](../ai/agents/langchain-opentutorial-langchain-opentutorial.md) ([Source URL](https://github.com/langchain-opentutorial/langchain-opentutorial))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:26.569412+05:30
-- **Local Path**: `ai/agents/langchain-opentutorial-langchain-opentutorial.md`
-
-### 41. [BrandPeng/Langchain1.0-Langgraph1.0-Learning](../ai/agents/brandpeng-langchain1-0-langgraph1-0-learning.md) ([Source URL](https://github.com/brandpeng/langchain1.0-langgraph1.0-learning))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:26.550105+05:30
-- **Local Path**: `ai/agents/brandpeng-langchain1-0-langgraph1-0-learning.md`
-
-### 42. [langchain-ai/langgraphjs](../ai/rag/langchain-ai-langgraphjs.md) ([Source URL](https://github.com/langchain-ai/langgraphjs))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:26.540994+05:30
-- **Local Path**: `ai/rag/langchain-ai-langgraphjs.md`
-
-### 43. [mayooear/ai-pdf-chatbot-langchain](../ai/rag/mayooear-ai-pdf-chatbot-langchain.md) ([Source URL](https://github.com/mayooear/ai-pdf-chatbot-langchain))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:26.516811+05:30
-- **Local Path**: `ai/rag/mayooear-ai-pdf-chatbot-langchain.md`
-
-### 44. [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md) ([Source URL](https://github.com/langchain-ai/retrieval-agent-template))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:21.669006+05:30
-- **Local Path**: `ai/rag/langchain-ai-retrieval-agent-template.md`
-
-### 45. [langchain-ai/new-langgraphjs-project](../ai/agents/langchain-ai-new-langgraphjs-project.md) ([Source URL](https://github.com/langchain-ai/new-langgraphjs-project))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:21.604492+05:30
-- **Local Path**: `ai/agents/langchain-ai-new-langgraphjs-project.md`
-
-### 46. [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md) ([Source URL](https://github.com/langchain-ai/langgraph))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:21.602531+05:30
-- **Local Path**: `ai/rag/langchain-ai-langgraph.md`
-
-### 47. [lgesuellip/langgraph-whatsapp-agent](../ai/agents/lgesuellip-langgraph-whatsapp-agent.md) ([Source URL](https://github.com/lgesuellip/langgraph-whatsapp-agent))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:21.524833+05:30
-- **Local Path**: `ai/agents/lgesuellip-langgraph-whatsapp-agent.md`
-
-### 48. [cloudflare/agentic-inbox](../ai/rag/cloudflare-agentic-inbox.md) ([Source URL](https://github.com/cloudflare/agentic-inbox))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:16.548419+05:30
-- **Local Path**: `ai/rag/cloudflare-agentic-inbox.md`
-
-### 49. [TauricResearch/TradingAgents](../ai/rag/tauricresearch-tradingagents.md) ([Source URL](https://github.com/tauricresearch/tradingagents))
-- **Category**: ai/rag
-- **Collected At**: 2026-08-06T20:12:16.546392+05:30
-- **Local Path**: `ai/rag/tauricresearch-tradingagents.md`
-
-### 50. [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md) ([Source URL](https://github.com/vonzosten/awesome-langgraph))
-- **Category**: ai/agents
-- **Collected At**: 2026-08-06T20:12:16.531112+05:30
-- **Local Path**: `ai/agents/vonzosten-awesome-langgraph.md`
+- **Collected At**: 2026-08-07T05:56:31.456022+05:30
+- **Local Path**: `ai/rag/stainless-stainless-docs-platform.md`
 
 ---
-*Index generated on 2026-08-06T20:24:54.855967+05:30*
+*Index generated on 2026-08-07T06:05:24.385872+05:30*

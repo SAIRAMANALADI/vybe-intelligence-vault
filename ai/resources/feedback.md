@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://forms.gle/7GmvvjW6juLP6ith7
-published_at: '2026-08-06T20:13:02.245091+05:30'
-collected_at: '2026-08-06T20:13:02.245100+05:30'
+published_at: '2026-08-07T05:53:22.402286+05:30'
+collected_at: '2026-08-07T05:53:22.402302+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:feedback
-first_seen: '2026-08-06T20:13:02.245100+05:30'
-last_seen: '2026-08-06T20:13:02.245100+05:30'
-last_checked: '2026-08-06T20:13:02.245100+05:30'
+first_seen: '2026-08-07T05:53:22.402302+05:30'
+last_seen: '2026-08-07T05:53:22.402302+05:30'
+last_checked: '2026-08-07T05:53:22.402302+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Form Submission Requirements**: The Google Form mandates email input (marked as required) and allows optional feedback submission via a structured interface.
-- **Authentication & Data Handling**: Users must sign in via Google to save progress; passwords must not be submitted through the form per Google’s policy.
-- **Privacy & Reporting**: The form is unaffiliated with Google; users can report abuse or access privacy/terms via provided links.
+- **Form Submission**: Requires Google Account sign-in to save progress, with mandatory email field and optional feedback submission.
+- **Security Notice**: Explicitly warns against submitting passwords via Google Forms.
+- **Google Branding**: Includes Google Forms logo and links to Google's Terms of Service, Privacy Policy, and abuse reporting.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-06T20:13:02.245091+05:30
+- Published: 2026-08-07T05:53:22.402286+05:30
 
 ## Related Tags
 

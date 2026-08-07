@@ -4,18 +4,18 @@ Welcome to your private local Intelligence Vault.
 
 ## AI
 
-- **ai/agents**: 2600 files
-- **ai/community**: 6 files
+- **ai/agents**: 2607 files
+- **ai/community**: 4 files
 - **ai/companies**: 10 files
 - **ai/companies/anthropic**: 10 files
 - **ai/companies/deepmind**: 5 files
 - **ai/companies/mistral**: 10 files
 - **ai/companies/openai**: 4 files
 - **ai/models**: 786 files
-- **ai/rag**: 5485 files
+- **ai/rag**: 5500 files
 - **ai/releases**: 1 files
 - **ai/research**: 7398 files
-- **ai/resources**: 1425 files
+- **ai/resources**: 1430 files
 - **ai/trending**: 5 files
 
 ## Web Development
@@ -57,4 +57,4 @@ Welcome to your private local Intelligence Vault.
 - [Skill Index](skill-index.md)
 
 ---
-*Index generated on 2026-08-06T20:24:54.256489+05:30*
+*Index generated on 2026-08-07T06:05:23.762560+05:30*

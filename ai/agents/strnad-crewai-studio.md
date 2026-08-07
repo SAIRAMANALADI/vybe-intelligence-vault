@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/strnad/CrewAI-Studio
-collected_at: '2026-08-06T14:32:06.117122+05:30'
+collected_at: '2026-08-07T05:53:11.753106+05:30'
 published_at: '2026-08-06T08:23:14Z'
 tags:
 - agents
 - github-repo
 - python
+- workflows
 stars: 1334
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-05-30T08:15:40Z'
 pushed_at: '2026-08-03T11:44:15Z'
 resource_id: github:strnad/crewai-studio
-first_seen: '2026-08-06T14:32:06.117122+05:30'
-last_seen: '2026-08-06T14:32:06.117122+05:30'
-last_checked: '2026-08-06T14:32:06.117122+05:30'
+first_seen: '2026-08-07T05:53:11.753106+05:30'
+last_seen: '2026-08-07T05:53:11.753106+05:30'
+last_checked: '2026-08-07T05:53:11.753106+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-platform GUI** for managing and executing CrewAI agents/tasks without coding, built with **Streamlit** in Python.
-- Supports **Conda and virtual environments**, enabling isolated dependency management for CrewAI projects.
-- Features **real-time agent/task monitoring**, **no-code configuration**, and **cross-platform compatibility** (Windows/macOS/Linux).
+- **GUI for CrewAI Management**: Provides a no-code, multi-platform Streamlit-based interface for configuring, running, and managing CrewAI agents and tasks without requiring Python coding expertise.
+
+- **Environment Support**: Compatible with both Conda and virtual environments, ensuring flexible dependency management and isolation for CrewAI workflows.
+
+- **Multi-Agent Orchestration**: Enables concurrent execution of multiple AI agents with task dependencies, optimized via CrewAI's framework for collaborative workflows.
 
 ## Why It Matters
 

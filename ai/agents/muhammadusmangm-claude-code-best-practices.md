@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-06T20:11:06.467990+05:30'
+collected_at: '2026-08-07T05:51:36.641152+05:30'
 published_at: '2026-08-04T06:02:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
+- scripts
 - shell
 - workflows
 stars: 68
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-06T20:11:06.467990+05:30'
-last_seen: '2026-08-06T20:11:06.467990+05:30'
-last_checked: '2026-08-06T20:11:06.467990+05:30'
+first_seen: '2026-08-07T05:51:36.641152+05:30'
+last_seen: '2026-08-07T05:51:36.641152+05:30'
+last_checked: '2026-08-07T05:51:36.641152+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Primarily shell-based, covering CLI tools, MCP (Model Context Protocol) integration, and LLM (Large Language Model) optimization for Anthropic's Claude Code.
-- **Resource Utility**: Serves as a centralized knowledge base for developer tools, agentic AI workflows, and efficient AI-driven development practices, last updated on 2026-08-04.
+- **Comprehensive Best Practices Guide**: Repository provides structured guidelines for optimizing **Claude Code** usage, including setup configurations, `CLAUDE.md` templates, and workflow automation for agentic AI patterns.
+- **Multi-Agent & Cost Optimization**: Includes patterns for deploying **multi-agent systems** with **Claude Code**, alongside strategies for **cost reduction** via efficient LLM interactions and MCP (Model Context Protocol) integrations.
+- **CLI & Developer Tooling**: Focuses on **Shell-based automation**, CLI optimizations, and **template-driven workflows** to streamline AI-assisted development with Anthropic’s models.
 
 ## Why It Matters
 

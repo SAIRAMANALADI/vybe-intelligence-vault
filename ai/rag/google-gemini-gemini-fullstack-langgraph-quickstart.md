@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
-collected_at: '2026-08-06T20:12:26.652580+05:30'
-published_at: '2026-08-06T06:15:49Z'
+collected_at: '2026-08-07T05:52:56.740636+05:30'
+published_at: '2026-08-06T16:54:36Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
-stars: 18297
+stars: 18298
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-05-22T11:59:02Z'
 pushed_at: '2026-06-14T05:25:52Z'
 resource_id: github:google-gemini/gemini-fullstack-langgraph-quickstart
-first_seen: '2026-08-06T20:12:26.652580+05:30'
-last_seen: '2026-08-06T20:12:26.652580+05:30'
-last_checked: '2026-08-06T20:12:26.652580+05:30'
+first_seen: '2026-08-07T05:52:56.740636+05:30'
+last_seen: '2026-08-07T05:52:56.740636+05:30'
+last_checked: '2026-08-07T05:52:56.740636+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates building full-stack agents using **Gemini 2.5** and **LangGraph**, integrating frontend, backend, and agentic workflows.
-- **Technical Stack**: Implemented in **Jupyter Notebook**, leveraging the **Gemini API** for LLM interactions and **LangGraph** for agent orchestration.
-- **Key Features**: Provides a starter template for deploying agent-based applications with modular components and scalable architecture.
+- **Purpose**: Demonstrates building full-stack AI agents using **Gemini 2.5** and **LangGraph** for agentic workflows.
+- **Tech Stack**: Implemented in **Jupyter Notebook**, leveraging the **Gemini API** for LLM interactions.
+- **Updates**: Last modified on **2026-08-06**, with **18.3K stars** and **3.1K forks** on GitHub.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: google-gemini
-- Stars: 18297
+- Stars: 18298
 - Forks: 3076
 - Language: Jupyter Notebook
 - Topics: gemini, gemini-api
-- Last Updated: 2026-08-06T06:15:49Z
+- Last Updated: 2026-08-06T16:54:36Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-22T11:59:02Z

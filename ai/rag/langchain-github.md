@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-06T17:15:28.986569+05:30'
-collected_at: '2026-08-06T17:15:28.986587+05:30'
+published_at: '2026-08-07T05:54:35.821337+05:30'
+collected_at: '2026-08-07T05:54:35.821353+05:30'
 tags:
 - agents
 - anthropic
-- benchmark
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-06T17:15:28.986587+05:30'
-last_seen: '2026-08-06T17:15:28.986587+05:30'
-last_checked: '2026-08-06T17:15:28.986587+05:30'
+first_seen: '2026-08-07T05:54:35.821353+05:30'
+last_seen: '2026-08-07T05:54:35.821353+05:30'
+last_checked: '2026-08-07T05:54:35.821353+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide modular components for LLM application development, while LangGraph/LangGraph.js enable graph-based agent orchestration; Deep Agents/Deep Agents.js support hierarchical agent planning and filesystem interactions.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications; LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support agent planning, subagent delegation, and filesystem operations for complex tasks.
 
-- **Commercial Platform**: LangSmith offers production-grade monitoring, debugging, and evaluation for LLM applications.
+- **Commercial Platform**: LangSmith offers a production-grade platform for building, monitoring, and maintaining LLM applications.
 
-- **OSS Extensions**: Includes MCP Adapters for tool interoperability, Agent Protocol for standardized agent APIs, and specialized agents like `dcode` (terminal-based coding) and OpenWiki (codebase/wiki generation).
+- **OSS Extensions/Apps**: Includes `dcode` (terminal-based coding agent), Open SWE (asynchronous coding agent), MCP Adapters (MCP tool compatibility), Agent Protocol (standardized APIs for LLM agent serving), and OpenWiki (CLI agent for codebase/wiki generation).
 
 ## Why It Matters
 
@@ -39,13 +38,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T17:15:28.986569+05:30
+- Published: 2026-08-07T05:54:35.821337+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
-- benchmark
 - rag
 - web-crawled
 - youtube

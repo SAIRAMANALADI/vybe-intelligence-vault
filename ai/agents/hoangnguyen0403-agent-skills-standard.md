@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-06T20:11:06.412928+05:30'
+collected_at: '2026-08-07T05:51:36.639370+05:30'
 published_at: '2026-08-05T04:27:12Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
 stars: 537
 language: TypeScript
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-06T20:11:06.412928+05:30'
-last_seen: '2026-08-06T20:11:06.412928+05:30'
-last_checked: '2026-08-06T20:11:06.412928+05:30'
+first_seen: '2026-08-07T05:51:36.639370+05:30'
+last_seen: '2026-08-07T05:51:36.639370+05:30'
+last_checked: '2026-08-07T05:51:36.639370+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding conventions for AI agents across multiple frameworks and languages (e.g., Angular, Flutter, Go, Kotlin, Laravel, NestJS, React, Spring Boot).
+- **Repository Overview**: Curated collection of **Agent Skills Standards** and **best practices** for programming languages and frameworks, designed to guide AI agents in adhering to optimal coding conventions.
 
-- **Purpose**: Provides structured guidelines (`cursor-rules`) to ensure AI agents adhere to language/framework-specific coding standards and best practices for consistency and reliability.
+- **Technical Scope**: Supports **20+ languages/frameworks** (e.g., TypeScript, React, Next.js, Spring Boot, Flutter, Kotlin) with structured standards for **Android, iOS, Laravel, NestJS**, and more.
 
-- **Scope & Maintenance**: Covers 19+ topics (e.g., `agentic-ai`, `react-native`, `android`), last updated in August 2026, with 537 stars and 155 forks.
+- **Metadata**: **537 stars**, **156 forks**, last updated **2026-08-05**; includes **Cursor Rules** and **coding standards** for AI agent-assisted development.
 
 ## Why It Matters
 
@@ -43,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: HoangNguyen0403
 - Stars: 537
-- Forks: 155
+- Forks: 156
 - Language: TypeScript
 - Topics: agent-, agentic-ai, android, angular, best-practices, coding-standards, cursor-rules, flutter, golang, ios, kotlin, laravel, nestjs, nextjs, react, react-native, reactjs, spring-boot, typescript
 - Last Updated: 2026-08-05T04:27:12Z

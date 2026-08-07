@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
-collected_at: '2026-08-06T20:12:26.516811+05:30'
+collected_at: '2026-08-07T05:52:56.719788+05:30'
 published_at: '2026-08-05T21:18:26Z'
 tags:
 - agents
@@ -14,6 +14,7 @@ tags:
 - rag
 - reddit
 - typescript
+- workflows
 stars: 16592
 language: TypeScript
 status: active
@@ -22,9 +23,9 @@ archived: true
 created_at: '2023-03-17T01:23:26Z'
 pushed_at: '2026-03-27T16:04:05Z'
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
-first_seen: '2026-08-06T20:12:26.516811+05:30'
-last_seen: '2026-08-06T20:12:26.516811+05:30'
-last_checked: '2026-08-06T20:12:26.516811+05:30'
+first_seen: '2026-08-07T05:52:56.719788+05:30'
+last_seen: '2026-08-07T05:52:56.719788+05:30'
+last_checked: '2026-08-07T05:52:56.719788+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Implements an AI-powered PDF chatbot using **LangChain** and **LangGraph** in **TypeScript**, with **Next.js** as the frontend framework and **OpenAI** for language model integration.
-
-- **Core Functionality**: Enables conversational querying over PDF documents via a **retrieval-augmented generation (RAG)** pipeline, leveraging vector embeddings and LLM-based response synthesis.
-
-- **Repository Metrics**: Highly starred (**16.5K+**) and forked (**3.2K+**), indicating strong community adoption and active development as of the last update (**Aug 2026**).
+- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain for LLM orchestration, LangGraph for agent workflows, and Next.js for frontend; integrates OpenAI for embeddings/LLM inference.
+- **Core Functionality**: Enables conversational querying over PDF documents via a RAG pipeline, with document parsing, chunking, and vector storage (likely using FAISS or similar).
+- **Architecture**: Implements a multi-agent system (via LangGraph) for retrieval, reasoning, and response generation, with modular components for scalability and extensibility.
 
 ## Why It Matters
 

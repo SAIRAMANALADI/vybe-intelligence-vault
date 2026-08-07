@@ -3,7 +3,7 @@ title: Google Colab
 archive_category: vector-databases
 source_category: ai/resources
 source_url: https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/pinecone-quickstart.ipynb
-resource_id: blog:google-colab-027f85e4
+resource_id: blog:google-colab
 local_vault_path: ai/resources/google-colab.md
 quality_score: 70
 archive_score: 72
@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -30,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Required**: Access to the linked resource necessitates a Google account sign-in via Google's OAuth 2.0 flow.
+- **Authentication Required**: Access to the linked resource necessitates a Google account login via [Google Accounts](https://accounts.google.com/ServiceLogin).
 
-- **Redirect Mechanism**: Upon successful authentication, the user is redirected to a Jupyter Notebook hosted on Google Colab (`colab.research.google.com`) for Pinecone quickstart documentation.
+- **Redirect Mechanism**: Post-authentication, users are redirected to a Pinecone quickstart notebook hosted on Google Colab (`https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/pinecone-quickstart.ipynb`).
 
-- **Session Persistence**: The `passive=true` parameter ensures the authentication flow does not force a new session, maintaining existing user sessions where applicable.
+- **Passive Authentication Flag**: The `passive=true` parameter in the URL indicates non-interactive
 
 ## Use Cases
 

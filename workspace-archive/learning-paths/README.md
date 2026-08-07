@@ -11,20 +11,20 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - ESSENTIAL Tier)
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (benchmark - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
-- [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Kotlin and Android | Android Developers](https://developer.android.com/kotlin) (framework - USEFUL Tier)
+- [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
+- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) (workflow - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
-- [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
+- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning)
 - [Collections · GitHub](https://github.com/collections)
+- [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs)
 - [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [GitHub · GitHub](https://github.com/github)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-06 20:26 IST*
+*Last updated: 2026-08-07 06:07 IST*

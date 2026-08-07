@@ -4,19 +4,20 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://cli.github.com
-published_at: '2026-08-06T01:38:21.042369+05:30'
-collected_at: '2026-08-06T01:38:21.042380+05:30'
+published_at: '2026-08-07T05:57:14.227006+05:30'
+collected_at: '2026-08-07T05:57:14.227019+05:30'
 tags:
 - agents
 - producthunt
 - reddit
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:github-cli-take-github-to-the-command-line
-first_seen: '2026-08-06T01:38:21.042380+05:30'
-last_seen: '2026-08-06T01:38:21.042380+05:30'
-last_checked: '2026-08-06T01:38:21.042380+05:30'
+first_seen: '2026-08-07T05:57:14.227019+05:30'
+last_seen: '2026-08-07T05:57:14.227019+05:30'
+last_checked: '2026-08-07T05:57:14.227019+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, supporting commands for issues (`gh issue list`), pull requests (`gh pr status/checkout/create/checks`), releases (`gh release create`), repository views (`gh repo view`), and custom aliases (`gh alias set`).
+- **GitHub CLI (gh)** integrates GitHub workflows directly into the terminal, enabling CLI-based interactions with repositories, issues, pull requests, releases, and checks via commands like `gh issue list`, `gh pr status`, `gh release create`, and `gh repo view`.
 
-- **Installation** is supported across platforms via package managers (Homebrew, WinGet, `apt`, `dnf`, `zypper`) or direct downloads (`.deb`, `.rpm`, `.msi`, `.zip`, `.tar.gz`), with the macOS default command being `brew install gh`.
+- **Cross-platform installation** is supported via package managers (Homebrew, WinGet, apt, dnf, zypper) or direct downloads (binaries, MSI, .deb, .rpm, .tar.gz) for macOS, Windows, and Linux.
 
-- **Enterprise compatibility** is enabled via GitHub Enterprise Server integration, and the tool supports scripting via GitHub API calls, Copilot CLI (`gh copilot`), and custom command aliases for extended functionality.
+- **Extensibility features** include GitHub Copilot CLI integration, custom aliases (e.g., `gh alias set bugs 'issue list --label="bugs"'`), and GitHub Enterprise Server compatibility for scripting and workflow automation.
 
 ## Why It Matters
 
@@ -38,13 +39,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-06T01:38:21.042369+05:30
+- Published: 2026-08-07T05:57:14.227006+05:30
 
 ## Related Tags
 
 - agents
 - producthunt
 - reddit
+- scripts
 - web-crawled
 - workflows
 

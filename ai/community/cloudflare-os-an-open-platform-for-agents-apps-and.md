@@ -13,13 +13,14 @@ collected_at: '2026-08-06T20:07:37.236996+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:cloudflare-os-an-open-platform-for-agents-apps-and
 first_seen: '2026-08-05T22:25:38.179444+05:30'
 last_seen: '2026-08-06T20:07:37.236996+05:30'
 last_checked: '2026-08-06T20:07:37.236996+05:30'
 health_score: 100
 ---
+
 
 # Cloudflare OS: an open platform for agents, apps, and work
 

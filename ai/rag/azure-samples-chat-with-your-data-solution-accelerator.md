@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-06T20:09:31.432775+05:30'
+collected_at: '2026-08-07T05:50:01.608150+05:30'
 published_at: '2026-08-05T20:45:57Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- scripts
+- workflows
 stars: 1172
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-08-06T09:26:29Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-06T20:09:31.432775+05:30'
-last_seen: '2026-08-06T20:09:31.432775+05:30'
-last_checked: '2026-08-06T20:09:31.432775+05:30'
+first_seen: '2026-08-07T05:50:01.608150+05:30'
+last_seen: '2026-08-07T05:50:01.608150+05:30'
+last_checked: '2026-08-07T05:50:01.608150+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval Augmented Generation (RAG) pattern solution accelerator leveraging Azure AI Search for document retrieval.
-*   Utilizes Azure OpenAI large language models (LLMs) to power generative AI capabilities.
-*   Provides pre-configured ChatGPT-style conversational interfaces and direct Q&A experiences within an Azure-native stack.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using Azure AI Search for retrieval and Azure OpenAI LLMs for chat/Q&A experiences, incorporating common requirements and best practices.
+
+- **Components**: Utilizes Python-based solution with Azure AI Search for indexing/retrieval, Azure OpenAI for LLM-powered responses, and AZD templates for deployment automation.
+
+- **Features**: Supports ChatGPT-style interactions and Q&A workflows, optimized for Azure cloud integration with scalable search and LLM capabilities.
 
 ## Why It Matters
 

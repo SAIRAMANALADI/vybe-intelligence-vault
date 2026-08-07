@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-06T20:09:56.380734+05:30'
+collected_at: '2026-08-07T05:50:26.568733+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 14
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-06T20:09:56.380734+05:30'
-last_seen: '2026-08-06T20:09:56.380734+05:30'
-last_checked: '2026-08-06T20:09:56.380734+05:30'
+first_seen: '2026-08-07T05:50:26.568733+05:30'
+last_seen: '2026-08-07T05:50:26.568733+05:30'
+last_checked: '2026-08-07T05:50:26.568733+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and low-overhead system-level observability.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF (extended Berkeley Packet Filter) for low-overhead runtime monitoring and enforcement, integrated natively with Linux kernel capabilities.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, integrating vector databases for scalable, secure LLM-driven workflows in SaaS environments.
+- **Enterprise-Grade RAG Architecture**: Features a Retrieval-Augmented Generation (RAG) pipeline optimized for SaaS-scale AI workloads, combining FastAPI backend with TypeScript for high-performance vector database interactions and LLM orchestration.
 
-- **Multi-Tenant Governance**: Enforces role-based access control (RBAC) and policy-driven governance across AI workloads, leveraging vector DBs for contextual security and compliance enforcement.
+- **Governance & Security Focus**: Designed for enterprise compliance with built-in governance controls, leveraging vector DBs for secure, auditable AI agent interactions while maintaining scalability across multi-tenant SaaS deployments.
 
 ## Why It Matters
 

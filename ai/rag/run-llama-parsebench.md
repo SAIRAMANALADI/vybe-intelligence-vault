@@ -4,16 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-08-06T20:11:21.483424+05:30'
+collected_at: '2026-08-07T05:51:51.695213+05:30'
 published_at: '2026-08-06T14:23:30Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
 - meta-ai
 - models
 - python
 - rag
+- workflows
 stars: 541
 language: Python
 status: active
@@ -22,9 +24,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-08-05T08:55:08Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-08-06T20:11:21.483424+05:30'
-last_seen: '2026-08-06T20:11:21.483424+05:30'
-last_checked: '2026-08-06T20:11:21.483424+05:30'
+first_seen: '2026-08-07T05:51:51.695213+05:30'
+last_seen: '2026-08-07T05:51:51.695213+05:30'
+last_checked: '2026-08-07T05:51:51.695213+05:30'
 health_score: 100
 ---
 
@@ -32,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates AI agents' performance in document parsing tasks, including PDF parsing, OCR, and table extraction, with a focus on structured data extraction and multimodal inputs (vision-language models).
+- **Benchmark Suite**: ParseBench evaluates document parsing performance of AI agents across tasks like PDF parsing, OCR, and table extraction, designed for structured evaluation of document AI systems.
 
-- **Integration & Compatibility**: Supports LlamaIndex and other frameworks, enabling standardized comparison across document AI pipelines, with Python-based tooling for extensibility and reproducibility.
+- **Multi-Modal Evaluation**: Supports vision-language models (VLMs) and traditional OCR-based pipelines, enabling comparative analysis of parsing accuracy and robustness in unstructured document contexts.
 
-- **Evaluation Metrics**: Provides a framework for assessing parsing accuracy, robustness, and efficiency, targeting metrics like entity extraction precision, table structure fidelity, and OCR error rates.
+- **Integration-Friendly**: Compatible with LlamaIndex, providing modular evaluation metrics and standardized datasets for reproducible benchmarking in document AI workflows.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-08-06T20:08:56.387783+05:30'
+collected_at: '2026-08-07T05:49:26.575176+05:30'
 published_at: '2026-08-02T00:39:45Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- reddit
 - workflows
 stars: 86
 language: Python
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-08-02T01:14:47Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-08-06T20:08:56.387783+05:30'
-last_seen: '2026-08-06T20:08:56.387783+05:30'
-last_checked: '2026-08-06T20:08:56.387783+05:30'
+first_seen: '2026-08-07T05:49:26.575176+05:30'
+last_seen: '2026-08-07T05:49:26.575176+05:30'
+last_checked: '2026-08-07T05:49:26.575176+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend services.
-- **Tech Stack**: Built with **Python**, leveraging **FastAPI** for the API layer, **Ollama** for LLM integration, and **Docker/Kubernetes** for container orchestration; supports **vector databases** for RAG workflows.
-- **Deployment**: Designed for **STACKIT Cloud** integration, enabling scalable document processing and chatbot interactions via structured RAG pipelines.
+- **FastAPI-based RAG Template**: Provides a structured implementation for Retrieval-Augmented Generation (RAG) chatbots with document management, leveraging FastAPI for API endpoints and vector search for retrieval.
+
+- **Vector Database Integration**: Supports vector-based document storage and retrieval, optimized for RAG workflows with embeddings and similarity search capabilities.
+
+- **Deployment Flexibility**: Designed for containerized deployment (Docker) and orchestration (Kubernetes), with optional integration for LLM providers (e.g., Ollama) and STACKIT cloud services.
 
 ## Why It Matters
 

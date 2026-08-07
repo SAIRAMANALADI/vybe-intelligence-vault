@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/run-llama/
-published_at: '2026-08-06T17:14:09.096887+05:30'
-collected_at: '2026-08-06T17:14:09.096904+05:30'
+published_at: '2026-08-07T05:54:25.950295+05:30'
+collected_at: '2026-08-07T05:54:25.950317+05:30'
 tags:
 - agents
 - meta-ai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-08-06T17:14:09.096904+05:30'
-last_seen: '2026-08-06T17:14:09.096904+05:30'
-last_checked: '2026-08-06T17:14:09.096904+05:30'
+first_seen: '2026-08-07T05:54:25.950317+05:30'
+last_seen: '2026-08-07T05:54:25.950317+05:30'
+last_checked: '2026-08-07T05:54:25.950317+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 - **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for document processing workflows, with platform documentation available at [developers.llamaindex.ai](https://developers.llamaindex.ai/python/cloud/).
 
-- **Open-Source Tooling**: Offers `LiteParse` (lightweight OCR) and `LlamaAgents` (agent orchestration) as part of the LlamaIndex ecosystem, with core Python library (`llama_index`) and documentation hosted on GitHub and [docs.llamaindex.ai](https://docs.llamaindex.ai/en/stable/).
+- **Open-Source Tooling**: Includes `LiteParse` (lightweight OCR), `LlamaAgents` (agentic workflows), and `LlamaIndex` (Python framework) with respective documentation for local deployment and customization.
 
-- **Community & Support**: Maintains active presence on X (Twitter), LinkedIn, and YouTube for updates and engagement, with direct links provided in the resource.
+- **Community & Support**: Maintains active engagement via [Twitter](https://twitter.com/llama_index), [LinkedIn](https://www.linkedin.com/company/llamaindex), and [YouTube](https://www.youtube.com/@llamaindex) for updates and community-driven development.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T17:14:09.096887+05:30
+- Published: 2026-08-07T05:54:25.950295+05:30
 
 ## Related Tags
 

@@ -12,10 +12,10 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (benchmark - ESSENTIAL Tier)
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (framework - USEFUL Tier)
-- [MUGEN: A Unified Framework for Efficient Motion Understanding and Generation](https://arxiv.org/abs/2607.27581) (framework - USEFUL Tier)
-- [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](https://arxiv.org/abs/2603.08173) (framework - USEFUL Tier)
-- [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](https://arxiv.org/abs/2601.21626) (framework - USEFUL Tier)
-- [Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks](https://arxiv.org/abs/2607.05419) (framework - USEFUL Tier)
+- [GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference](https://arxiv.org/abs/2607.27694) (framework - USEFUL Tier)
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (framework - USEFUL Tier)
+- [Community Providers: Ollama](https://ai-sdk.dev/providers/community-providers/ollama) (framework - USEFUL Tier)
+- [xMIx: High-Performance Serving-Time Platform for Mechanistic Interpretability Apps](https://arxiv.org/abs/2607.22595) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
-- [microsoft/tutel](https://github.com/microsoft/tutel)
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
+- [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio)
 - [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-08-06 20:26 IST*
+*Last updated: 2026-08-07 06:06 IST*

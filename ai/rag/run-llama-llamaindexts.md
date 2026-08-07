@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/LlamaIndexTS
-collected_at: '2026-08-04T17:16:18.481913+05:30'
-published_at: '2026-07-30T05:19:25Z'
+collected_at: '2026-08-07T05:58:13.812112+05:30'
+published_at: '2026-08-05T16:56:00Z'
 tags:
 - agents
 - anthropic
@@ -17,7 +17,7 @@ tags:
 - rag
 - typescript
 - workflows
-stars: 3079
+stars: 3078
 language: TypeScript
 status: active
 license: MIT
@@ -25,9 +25,9 @@ archived: true
 created_at: '2023-06-13T06:41:20Z'
 pushed_at: '2026-03-11T20:07:07Z'
 resource_id: github:run-llama/llamaindexts
-first_seen: '2026-08-04T17:16:18.481913+05:30'
-last_seen: '2026-08-04T17:16:18.481913+05:30'
-last_checked: '2026-08-04T17:16:18.481913+05:30'
+first_seen: '2026-08-07T05:58:13.812112+05:30'
+last_seen: '2026-08-07T05:58:13.812112+05:30'
+last_checked: '2026-08-07T05:58:13.812112+05:30'
 health_score: 100
 ---
 
@@ -35,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based LLM Data Framework**: LlamaIndexTS provides a server-side solution for LLM applications, enabling efficient data indexing and retrieval for JavaScript/TypeScript environments.
+- **TypeScript-based LLM Data Framework**: LlamaIndexTS is a server-side data framework designed for LLM applications, enabling efficient data ingestion, indexing, and retrieval for TypeScript/JavaScript environments.
 
-- **Modular Integration**: Supports multiple LLM providers (OpenAI, Groq, Claude) and frameworks (React, Node.js), with built-in embedding and agent capabilities for scalable AI workflows.
+- **Modular Architecture**: Supports integrations with major LLM providers (OpenAI, Groq, Claude AI) and frameworks (React, Node.js), with core modules for embeddings, agent orchestration, and chatbot pipelines.
 
-- **Active Development & Ecosystem**: Maintained repository with 3,079+ stars, 524+ forks, and recent updates (as of July 2026), emphasizing compatibility with LlamaIndex and modern AI tooling.
+- **Active Development & Ecosystem**: Last updated in 2026, the repository (3078⭐, 522🍴) is part of the `run-llama` ecosystem, emphasizing scalability and extensibility for production-grade LLM workflows.
 
 ## Why It Matters
 
@@ -48,11 +48,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 3079
-- Forks: 524
+- Stars: 3078
+- Forks: 522
 - Language: TypeScript
 - Topics: agent, chatbot, claude-ai, create-llama, embedding, groq-ai, javascript, llama, llama-index, llama3, llamaindex, llm, node, nodejs, openai, react, typescript
-- Last Updated: 2026-07-30T05:19:25Z
+- Last Updated: 2026-08-05T16:56:00Z
 - License: MIT
 - Archived: Yes
 - Created At: 2023-06-13T06:41:20Z

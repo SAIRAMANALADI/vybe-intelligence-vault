@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-08-06T20:10:41.450210+05:30'
-published_at: '2026-08-06T05:06:28Z'
+collected_at: '2026-08-07T05:51:11.663459+05:30'
+published_at: '2026-08-06T19:52:53Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - html
 - scripts
-stars: 3881
+stars: 3882
 language: HTML
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-08-06T20:10:41.450210+05:30'
-last_seen: '2026-08-06T20:10:41.450210+05:30'
-last_checked: '2026-08-06T20:10:41.450210+05:30'
+first_seen: '2026-08-07T05:51:11.663459+05:30'
+last_seen: '2026-08-07T05:51:11.663459+05:30'
+last_checked: '2026-08-07T05:51:11.663459+05:30'
 health_score: 100
 ---
 
@@ -32,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Repository Overview**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 categories.
-- **Technical Stack**: Primarily HTML-based, supporting AI automation, multi-agent systems, and MCP/Telegram integrations with Docker compatibility.
-- **Community & Contributions**: Open-source project with 3.8k+ stars, 629 forks, and an active submission system for new agent templates.
+- **Technical Stack**: Primarily HTML-based, with integrations for Docker, MCP, and multi-agent systems; supports no-code automation and LLM interactions.
+- **Community & Contributions**: Open-source project with 3,882 stars and 629 forks; accepts community submissions for new agent templates.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3881
+- Stars: 3882
 - Forks: 629
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-08-06T05:06:28Z
+- Last Updated: 2026-08-06T19:52:53Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-05T10:51:17Z

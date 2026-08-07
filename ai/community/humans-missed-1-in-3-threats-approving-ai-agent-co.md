@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://scalex.dev/blog/ai-agent-permissions-stats
 hn_url: https://news.ycombinator.com/item?id=49195468
-score: 68
+score: 244
 author: Wirbelwind
-comments_count: 44
+comments_count: 187
 published_at: '2026-08-06T17:28:07+05:30'
-collected_at: '2026-08-06T20:07:32.639355+05:30'
+collected_at: '2026-08-07T05:48:15.107489+05:30'
 tags:
 - agents
 - ai
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:humans-missed-1-in-3-threats-approving-ai-agent-co
 first_seen: '2026-08-06T20:07:32.639355+05:30'
-last_seen: '2026-08-06T20:07:32.639355+05:30'
-last_checked: '2026-08-06T20:07:32.639355+05:30'
+last_seen: '2026-08-07T05:48:15.107489+05:30'
+last_checked: '2026-08-07T05:48:15.107489+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Wirbelwind. Score: 68, Comments: 44.
+Hacker News story by Wirbelwind. Score: 244, Comments: 187.
 Original Link: https://scalex.dev/blog/ai-agent-permissions-stats/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Wirbelwind
-- Score: 68 Upvotes
-- Comments: 44 Discussions
+- Score: 244 Upvotes
+- Comments: 187 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49195468
 - Original Article: https://scalex.dev/blog/ai-agent-permissions-stats
 

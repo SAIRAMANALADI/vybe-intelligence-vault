@@ -14,13 +14,14 @@ tags:
 - ai
 - deepmind
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:changes-at-google-deepmind-demis-hassabis-from-ceo
 first_seen: '2026-08-05T22:25:38.554933+05:30'
 last_seen: '2026-08-06T20:07:35.281468+05:30'
 last_checked: '2026-08-06T20:07:35.281468+05:30'
 health_score: 100
 ---
+
 
 # Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-06T20:07:38.753484+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:bashalarmistalt/decimen-optical-transfer
 first_seen: '2026-08-06T14:25:50.731917+05:30'
 last_seen: '2026-08-06T20:07:38.753484+05:30'
 last_checked: '2026-08-06T20:07:38.753484+05:30'
 health_score: 100
 ---
+
 
 # Decimen Optical Transfer: fountain-coded QR file transfer
 

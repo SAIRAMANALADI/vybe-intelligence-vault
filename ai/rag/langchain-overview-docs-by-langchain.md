@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://js.langchain.com
-published_at: '2026-08-06T20:13:04.626411+05:30'
-collected_at: '2026-08-06T20:13:04.626425+05:30'
+published_at: '2026-08-07T05:53:23.982999+05:30'
+collected_at: '2026-08-07T05:53:23.983015+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-08-06T20:13:04.626425+05:30'
-last_seen: '2026-08-06T20:13:04.626425+05:30'
-last_checked: '2026-08-06T20:13:04.626425+05:30'
+first_seen: '2026-08-07T05:53:23.983015+05:30'
+last_seen: '2026-08-07T05:53:23.983015+05:30'
+last_checked: '2026-08-07T05:53:23.983015+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic, Google) with tools, prompts, and middleware, enabling tailored agent construction for specific use cases.
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
 
-- **Multi-Provider Support**: Standardized interface across chat models, embeddings, and providers (e.g., Azure, AWS Bedrock, Ollama) allows seamless model switching with minimal code changes for portability.
+- **Integration Framework**: Agents are built on LangGraph, inheriting durable execution, human-in-the-loop support, persistence, and advanced orchestration capabilities for deterministic and agentic workflows.
 
-- **Debugging & Observability**: Built on LangGraph for durable execution and persistence, with LangSmith integration for tracing, debugging, and evaluating agent behavior via execution data.
+- **Observability & Debugging**: LangSmith integrates for tracing, debugging, and evaluating agent behavior, including tool calls, state transitions, and latency analysis to optimize performance and reliability.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T20:13:04.626411+05:30
+- Published: 2026-08-07T05:53:23.982999+05:30
 
 ## Related Tags
 

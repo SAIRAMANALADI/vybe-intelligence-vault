@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-08-06T17:14:25.724063+05:30'
-collected_at: '2026-08-06T17:14:25.724079+05:30'
+published_at: '2026-08-07T05:57:15.896485+05:30'
+collected_at: '2026-08-07T05:57:15.896500+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-06T17:14:25.724079+05:30'
-last_seen: '2026-08-06T17:14:25.724079+05:30'
-last_checked: '2026-08-06T17:14:25.724079+05:30'
+first_seen: '2026-08-07T05:57:15.896500+05:30'
+last_seen: '2026-08-07T05:57:15.896500+05:30'
+last_checked: '2026-08-07T05:57:15.896500+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Native Agent-Driven Development**: GitHub Copilot app provides a desktop experience for agent-driven development, natively integrated with GitHub, supporting macOS, Windows, and Linux across all Copilot plans or custom API keys.
+- **Native Agent-Driven Development**: GitHub Copilot app provides a desktop experience for agent-driven development, natively integrated with GitHub, supporting macOS, Windows, and Linux across all Copilot plans.
 
-- **Isolated, Parallel Workflows**: Sessions are isolated workspaces for branches, files, and conversations, enabling parallel workflows with built-in validation (diffs, in-app browser previews, terminal checks) and direct PR merging.
+- **Multi-Session Workflows & Automation**: Enables parallel workflows with isolated sessions per task, including built-in validation (diffs, in-app browser, terminal checks) and automated workflows (scheduled, repeatable tasks).
 
-- **Extensible & Automated**: Supports custom MCP servers, plugins, and skills (e.g., Impeccable for design), with automated workflows (e.g., scheduled issue triage) and native GitHub context integration for deep repository awareness.
+- **Extensible & Customizable**: Supports native GitHub context, custom skills/plugins, and MCP servers for external data integration; pricing tiers range from Free ($0) to Max ($100/month) with varying feature access and credits.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-06T17:14:25.724063+05:30
+- Published: 2026-08-07T05:57:15.896485+05:30
 
 ## Related Tags
 

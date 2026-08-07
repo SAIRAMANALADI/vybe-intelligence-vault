@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-06T17:13:23.279516+05:30'
-collected_at: '2026-08-06T17:13:23.279532+05:30'
+published_at: '2026-08-07T05:54:19.945046+05:30'
+collected_at: '2026-08-07T05:54:19.945066+05:30'
 tags:
 - agents
 - anthropic
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-06T17:13:23.279532+05:30'
-last_seen: '2026-08-06T17:13:23.279532+05:30'
-last_checked: '2026-08-06T17:13:23.279532+05:30'
+first_seen: '2026-08-07T05:54:19.945066+05:30'
+last_seen: '2026-08-07T05:54:19.945066+05:30'
+last_checked: '2026-08-07T05:54:19.945066+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Annotation Queue & SDK Enhancements**: Public API now exposes endpoints for managing annotation queue items (CRUD, positioning, reviewing) via `/api/v1/platform`, with SDK generation support. Legacy endpoints (e.g., v1 runs, annotation queue) deprecated with sunset date of **Jan 31, 2027** and migration guide provided.
+- **API & SDK Enhancements**: Annotation queue endpoints (`/api/v1/platform`) now support full CRUD operations (add/list/update/delete/count/position/review) for run/thread queue items via public API/SDK. Legacy endpoints (v1 runs, datasets, sharing) are deprecated with sunset date **Jan 31, 2027** and migration guide links.
 
-- **Tracing & Observability Improvements**: Trace exports now support a `feedbacks` column for JSON-serialized feedback entries. Token/cost filters default to **total tokens/cost** (not input-only), with consistent support across query backends. Self-hosted deployments now resolve relative signed URLs for attachments and sync tracing project activity via Redis compatibility fixes.
+- **Tracing & Observability**: Trace exports now include optional `feedbacks` column (JSON array of key/comment pairs). Token/cost filters default to **total** metrics (input/output breakdowns retained). Negative feedback-key filters fixed for ClickHouse optimized runs tables.
 
-- **LLM Gateway & Sandbox Updates**: LLM Gateway adds **streaming execute** for sandboxes (stdout/stderr via SSE), credit purchase UI with real-time balance updates, and policy scoping for organization/workspace/user headers. Sandboxes include `langsmith` CLI v0.2.44, resolving `/api` path issues in self-hosted deployments.
+- **LLM Gateway & Sandboxes**: Gateway policies enforce blank-name validation; spend charts show top 12 spenders per bucket. Sandboxes support **streaming execute** (Server-Sent Events) and include `langsmith` CLI v0.2.44, resolving `/api` path issues in self-hosted deployments.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T17:13:23.279516+05:30
+- Published: 2026-08-07T05:54:19.945046+05:30
 
 ## Related Tags
 

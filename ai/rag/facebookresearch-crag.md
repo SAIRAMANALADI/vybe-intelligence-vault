@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-06T20:09:41.454283+05:30'
-published_at: '2026-07-19T17:15:41Z'
+collected_at: '2026-08-07T05:50:11.615333+05:30'
+published_at: '2026-08-06T20:35:36Z'
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 297
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-06T20:09:41.454283+05:30'
-last_seen: '2026-08-06T20:09:41.454283+05:30'
-last_checked: '2026-08-06T20:09:41.454283+05:30'
+first_seen: '2026-08-07T05:50:11.615333+05:30'
+last_seen: '2026-08-07T05:50:11.615333+05:30'
+last_checked: '2026-08-07T05:50:11.615333+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **CRAG**: A **Comprehensive benchmark** for **Retrieval-Augmented Generation (RAG)**, designed to evaluate RAG systems across multiple dimensions (e.g., factuality, robustness, efficiency).
-- **Implementation**: Provided as **Jupyter Notebooks**, enabling reproducible experiments and modular evaluation of RAG pipelines.
-- **Scope**: Focuses on **systematic assessment** of RAG models, including retrieval quality, generation accuracy, and handling of noisy or adversarial inputs.
+- **CRAG Benchmark**: A comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
+- **Technical Components**: Implemented in Jupyter Notebooks, likely includes metrics for retrieval quality, generation accuracy, and robustness under noisy or adversarial conditions.
+- **Repository Status**: Actively maintained (last updated Aug 2026), with 297 stars and 37 forks, indicating growing community interest in RAG benchmarking.
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 37
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-19T17:15:41Z
+- Last Updated: 2026-08-06T20:35:36Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-03-08T00:05:15Z

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Polymarket/agents
-collected_at: '2026-08-06T20:12:01.544451+05:30'
-published_at: '2026-08-06T11:55:33Z'
+collected_at: '2026-08-07T05:52:31.707437+05:30'
+published_at: '2026-08-06T15:21:56Z'
 tags:
 - agents
 - github-repo
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-07-03T22:44:18Z'
 pushed_at: '2024-11-05T15:40:29Z'
 resource_id: github:polymarket/agents
-first_seen: '2026-08-06T20:12:01.544451+05:30'
-last_seen: '2026-08-06T20:12:01.544451+05:30'
-last_checked: '2026-08-06T20:12:01.544451+05:30'
+first_seen: '2026-08-07T05:52:31.707437+05:30'
+last_seen: '2026-08-07T05:52:31.707437+05:30'
+last_checked: '2026-08-07T05:52:31.707437+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Agents**: Python-based framework enabling AI-driven autonomous trading on Polymarket, leveraging market-making and prediction strategies.
+- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades on Polymarket autonomously, leveraging market-making and prediction strategies.
+
 - **Modular Architecture**: Designed with extensible components for strategy customization, order execution, and real-time market data integration.
-- **Open-Source Toolkit**: Repository provides tools for agent-based market participation, including backtesting, risk management, and API-driven interactions.
+
+- **Open-Source Toolkit**: Provides foundational codebase for developers to build, test, and deploy AI-driven trading agents on Polymarket’s prediction market platform.
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 824
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-06T11:55:33Z
+- Last Updated: 2026-08-06T15:21:56Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-07-03T22:44:18Z

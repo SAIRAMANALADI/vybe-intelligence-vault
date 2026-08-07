@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Senpi-ai/senpi-skills
-collected_at: '2026-08-06T20:11:56.521068+05:30'
-published_at: '2026-08-05T16:16:44Z'
+collected_at: '2026-08-07T05:52:26.711208+05:30'
+published_at: '2026-08-06T17:01:58Z'
 tags:
 - agents
 - github-repo
@@ -16,11 +16,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T19:28:09Z'
-pushed_at: '2026-08-06T14:11:35Z'
+pushed_at: '2026-08-06T22:30:29Z'
 resource_id: github:senpi-ai/senpi-skills
-first_seen: '2026-08-06T20:11:56.521068+05:30'
-last_seen: '2026-08-06T20:11:56.521068+05:30'
-last_checked: '2026-08-06T20:11:56.521068+05:30'
+first_seen: '2026-08-07T05:52:26.711208+05:30'
+last_seen: '2026-08-07T05:52:26.711208+05:30'
+last_checked: '2026-08-07T05:52:26.711208+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI agent framework** for autonomous trading on Hyperliquid, supporting **80+ strategy templates** for crypto, equities, commodities, and indices.
-- **Two-phase trailing-stop (DSL) exits** for dynamic position management and risk mitigation.
-- **Python-based repository** with deployment-ready skills for building, testing, and protecting trading strategies.
+- **Autonomous Trading Framework**: Open-source Python repository providing AI agent skills and 80+ strategy templates for autonomous trading on Hyperliquid, supporting crypto, equities, commodities, and indices.
+- **Two-Phase Trailing-Stop Exits**: Implements Domain-Specific Language (DSL) for advanced trailing-stop exit strategies to optimize trade protection and profit retention.
+- **Build, Deploy, and Protect**: Enables users to construct, deploy, and safeguard trading strategies with modular skills and predefined templates, ensuring robust performance across multiple asset classes.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 34
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-05T16:16:44Z
+- Last Updated: 2026-08-06T17:01:58Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T19:28:09Z
-- Pushed At: 2026-08-06T14:11:35Z
+- Pushed At: 2026-08-06T22:30:29Z
 
 ## Possible Use Cases
 

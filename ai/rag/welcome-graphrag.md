@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://microsoft.github.io/graphrag/
-published_at: '2026-08-06T17:07:05.238381+05:30'
-collected_at: '2026-08-06T17:07:05.238395+05:30'
+published_at: '2026-08-07T05:49:02.137747+05:30'
+collected_at: '2026-08-07T05:49:02.137758+05:30'
 tags:
 - dataset
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:welcome-graphrag
-first_seen: '2026-08-06T17:07:05.238395+05:30'
-last_seen: '2026-08-06T17:07:05.238395+05:30'
-last_checked: '2026-08-06T17:07:05.238395+05:30'
+first_seen: '2026-08-07T05:49:02.137758+05:30'
+last_seen: '2026-08-07T05:49:02.137758+05:30'
+last_checked: '2026-08-07T05:49:02.137758+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **GraphRAG** transforms unstructured text into a hierarchical knowledge graph via entity/relationship extraction and Leiden community clustering, enabling structured RAG instead of naive vector similarity.
-- **Query Modes**: Supports *Global Search* (holistic corpus reasoning via community summaries), *Local Search* (entity-centric traversal), and *DRIFT Search* (community-augmented entity exploration).
-- **Pipeline**: Indexing involves TextUnit segmentation, entity/claim extraction, hierarchical graph construction, and community summarization; query-time augmentation uses these structures for LLM prompt enhancement.
+- **Hierarchical Knowledge Graph Construction**: GraphRAG extracts entities, relationships, and claims from raw text (TextUnits), then applies hierarchical clustering (Leiden algorithm) to build a multi-level community structure, enabling fine-grained and holistic data representation.
+
+- **Query Augmentation via Graph Structures**: At query time, GraphRAG leverages community summaries and graph traversal (Global, Local, DRIFT, or Basic Search) to provide structured context, improving reasoning over complex or interconnected data compared to baseline vector-based RAG.
+
+- **Prompt Optimization & Versioning**: GraphRAG requires prompt tuning for optimal performance and follows a strict versioning scheme with migration tools (`graphrag init` for minor updates, notebooks for major updates) to maintain backward compatibility.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T17:07:05.238381+05:30
+- Published: 2026-08-07T05:49:02.137747+05:30
 
 ## Related Tags
 

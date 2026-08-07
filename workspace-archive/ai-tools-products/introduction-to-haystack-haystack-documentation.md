@@ -3,7 +3,7 @@ title: Introduction to Haystack | Haystack Documentation
 archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://docs.haystack.deepset.ai/docs/intro
-resource_id: blog:introduction-to-haystack-haystack-documentation
+resource_id: blog:introduction-to-haystack-haystack-documentation-7cd05038
 local_vault_path: ai/rag/introduction-to-haystack-haystack-documentation.md
 quality_score: 70
 archive_score: 82

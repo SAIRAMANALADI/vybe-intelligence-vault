@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-06T20:09:11.393096+05:30'
-published_at: '2026-08-01T15:15:48Z'
+collected_at: '2026-08-07T05:49:41.573879+05:30'
+published_at: '2026-08-06T15:56:15Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 370
+- workflows
+stars: 371
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-06T20:09:11.393096+05:30'
-last_seen: '2026-08-06T20:09:11.393096+05:30'
-last_checked: '2026-08-06T20:09:11.393096+05:30'
+first_seen: '2026-08-07T05:49:41.573879+05:30'
+last_seen: '2026-08-07T05:49:41.573879+05:30'
+last_checked: '2026-08-07T05:49:41.573879+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining vector and keyword-based retrieval for enhanced document search and generation.
-- **NVIDIA AI Workbench Integration**: Provides a reference architecture for deploying RAG models using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient inference.
-- **Python-Based Example**: Includes a Python-based implementation with modular components for retrieval, reranking, and LLM integration, optimized for NVIDIA GPUs.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid Retrieval-Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document retrieval accuracy.
+
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, experimentation, and scalability of RAG workflows in Python.
+
+- **Modular Python Architecture**: Provides a structured, reusable codebase with components for document ingestion, retrieval, and LLM-based generation, optimized for GPU acceleration.
 
 ## Why It Matters
 
@@ -39,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 370
-- Forks: 1010
+- Stars: 371
+- Forks: 1009
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-01T15:15:48Z
+- Last Updated: 2026-08-06T15:56:15Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-11T15:57:29Z

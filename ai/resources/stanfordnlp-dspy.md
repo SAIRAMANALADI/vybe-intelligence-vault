@@ -4,24 +4,24 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stanfordnlp/dspy
-collected_at: '2026-08-05T14:33:14.240025+05:30'
-published_at: '2026-08-05T08:21:04Z'
+collected_at: '2026-08-07T05:54:25.625012+05:30'
+published_at: '2026-08-06T22:17:59Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - models
 - python
-stars: 36630
+stars: 36668
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-01-09T21:01:51Z'
-pushed_at: '2026-08-04T18:17:16Z'
+pushed_at: '2026-08-06T23:43:13Z'
 resource_id: github:stanfordnlp/dspy
-first_seen: '2026-08-05T14:33:14.240025+05:30'
-last_seen: '2026-08-05T14:33:14.240025+05:30'
-last_checked: '2026-08-05T14:33:14.240025+05:30'
+first_seen: '2026-08-07T05:54:25.625012+05:30'
+last_seen: '2026-08-07T05:54:25.625012+05:30'
+last_checked: '2026-08-07T05:54:25.625012+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Programmatic LM Optimization**: DSPy introduces a framework that shifts from prompt engineering to programmatic optimization of language models, enabling structured control over model behavior via Pythonic abstractions.
+- **DSPy Framework**: A Python-based framework designed to programmatically compose and optimize language model (LM) calls, shifting from ad-hoc prompting to structured, declarative programming for LMs.
 
-- **Modular Pipeline Design**: The framework supports composable modules (e.g., `Signature`, `Module`) for defining tasks, with automatic optimization of prompts and weights via teleprompters (e.g., `BootstrapFewShot`).
+- **Key Features**: Introduces `Signature` abstraction for task specification, `Module` classes for LM interactions, and `Optimizer` classes (e.g., BootstrapFewShot) to automatically refine prompts and weights via few-shot learning and feedback loops.
 
-- **Evaluation-Driven Refinement**: DSPy integrates with evaluation metrics (e.g., `metric = dspy.evaluate.ExactMatch()`) to iteratively refine programs, decoupling task specification from optimization logic.
+- **Optimization Pipeline**: Supports end-to-end optimization of LM programs using techniques like bootstrapping, teleprompters, and evaluators, enabling automatic adaptation to downstream tasks without manual prompt engineering.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanfordnlp
-- Stars: 36630
-- Forks: 3167
+- Stars: 36668
+- Forks: 3174
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-05T08:21:04Z
+- Last Updated: 2026-08-06T22:17:59Z
 - License: MIT
 - Archived: No
 - Created At: 2023-01-09T21:01:51Z
-- Pushed At: 2026-08-04T18:17:16Z
+- Pushed At: 2026-08-06T23:43:13Z
 
 ## Possible Use Cases
 

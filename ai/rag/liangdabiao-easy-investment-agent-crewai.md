@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-06T20:12:41.544453+05:30'
+collected_at: '2026-08-07T05:53:11.715219+05:30'
 published_at: '2026-08-06T03:13:58Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 477
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-06T20:12:41.544453+05:30'
-last_seen: '2026-08-06T20:12:41.544453+05:30'
-last_checked: '2026-08-06T20:12:41.544453+05:30'
+first_seen: '2026-08-07T05:53:11.715219+05:30'
+last_seen: '2026-08-07T05:53:11.715219+05:30'
+last_checked: '2026-08-07T05:53:11.715219+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A股 Analysis**: Implements a CrewAI-based system with 4 specialized AI agents for real-time stock data (quotes, financials, fund flows, sentiment) leveraging AKShare for Chinese market data.
-- **Chinese Market Optimization**: Tailored analysis for A股 characteristics, integrating localized financial metrics and market behavior patterns.
-- **Decision Support Pipeline**: Aggregates multi-source insights to generate structured investment recommendations via automated report generation.
+- **Multi-Agent A股 Analysis System**: Leverages AKShare for real-time A股 data (quotes, financials, fund flows, sentiment) and CrewAI to coordinate 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision recommender) for collaborative investment insights.
+
+- **China-Specific Optimization**: Tailored workflows for A股 market nuances (e.g., regulatory events, liquidity patterns) with AKShare’s Chinese market data APIs to enhance analysis relevance.
+
+- **Automated Investment Pipeline**: Integrates financial NLP, quantitative scoring, and decision logic to generate actionable stock recommendations, with modular Python architecture for extensibility.
 
 ## Why It Matters
 

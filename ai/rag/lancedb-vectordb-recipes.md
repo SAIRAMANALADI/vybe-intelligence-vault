@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-06T20:08:46.370363+05:30'
+collected_at: '2026-08-07T05:49:16.555496+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-06T20:08:46.370363+05:30'
-last_seen: '2026-08-06T20:08:46.370363+05:30'
-last_checked: '2026-08-06T20:08:46.370363+05:30'
+first_seen: '2026-08-07T05:49:16.555496+05:30'
+last_seen: '2026-08-07T05:49:16.555496+05:30'
+last_checked: '2026-08-07T05:49:16.555496+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for building multimodal AI systems, Retrieval-Augmented Generation (RAG), and AI agents using vector search and Large Language Models (LLMs).
-- **Tool Integration**: Demonstrates integration with key frameworks including LangChain, LlamaIndex, OpenAI (GPT-4 Vision), and LanceDB for vector database operations, fine-tuning, and embeddings.
-- **Technical Focus**: Covers deep learning techniques, embeddings generation, and agent-based workflows, emphasizing practical implementations for multimodal AI and RAG pipelines.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
+
+- **Vector Database Integration**: Demonstrates practical examples leveraging LanceDB as a vector database for efficient storage, retrieval, and fine-tuning of embeddings in AI/ML pipelines.
+
+- **Agentic Workflows**: Includes recipes for building autonomous agents using vector search, LLMs, and multimodal capabilities, with OpenAI API integrations and fine-tuning techniques.
 
 ## Why It Matters
 

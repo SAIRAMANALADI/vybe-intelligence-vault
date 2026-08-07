@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- Pinecone is a vector database optimized for AI applications, enabling semantic search, knowledge retrieval, and scalable long-term memory storage.
-- Provides quickstart guides for semantic search, AI assistant creation, and no-code knowledge app publishing via templates.
-- Offers IDE/CLI integrations (e.g., Claude Code, Cursor), MCP server support, API/SDK documentation, and third-party integrations (LangChain, LlamaIndex).
+- **Pinecone** is a vector database optimized for AI agents, semantic search, knowledge retrieval, and scalable long-term memory.
+- **Quickstart Guides**: Provides structured paths for semantic search (Database), AI assistants (Assistant), context compilation (Nexus), and no-code apps (Marketplace).
+- **Development Tools**: Supports IDEs/CLIs (e.g., Claude Code, Cursor), MCP server integration, API/SDK references, notebooks, and third-party integrations (LangChain, LlamaIndex).
 
 ## Use Cases
 

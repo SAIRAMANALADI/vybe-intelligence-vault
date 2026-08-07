@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
-published_at: '2026-08-06T20:08:32.869194+05:30'
-collected_at: '2026-08-06T20:08:32.869202+05:30'
+published_at: '2026-08-07T05:49:03.227946+05:30'
+collected_at: '2026-08-07T05:49:03.227975+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
-first_seen: '2026-08-06T20:08:32.869202+05:30'
-last_seen: '2026-08-06T20:08:32.869202+05:30'
-last_checked: '2026-08-06T20:08:32.869202+05:30'
+first_seen: '2026-08-07T05:49:03.227975+05:30'
+last_seen: '2026-08-07T05:49:03.227975+05:30'
+last_checked: '2026-08-07T05:49:03.227975+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, supporting LLMs like Llama 3.1 70b instruct and reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0** introduces multi-agent workflows, enhanced prompt engineering, and improved LLM compatibility (e.g., Llama 3.1 70b instruct), enabling modular RAG pipelines with minimal code overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by **30%** in complex datasets, with optimized indexing for unstructured data and support for multi-modal parsing (CSV, PDF, images).
+- **LlamaIndex v0.12.0** features semantic chunking and advanced filtering, boosting retrieval accuracy by **30%** in complex datasets, with optimized document indexing for unstructured data and seamless integration with structured databases via `DBConnectors`.
 
-- **RAGFlow v0.24.0** offers enterprise-grade RAG with agent-based workflows, multi-modal document parsing, and integration with Gemini 3 Pro/GPT-5, featuring a built-in Python/JavaScript code executor for dynamic execution in cross-language query systems.
+- **HyPE (Hypothetical Prompt Embeddings)** precomputes hypothetical questions per document chunk, improving retrieval precision by **45%** and reducing inference-time overhead by **42%** by transforming retrieval into question-question matching, as demonstrated in the `dsRAG` project.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T20:08:32.869194+05:30
+- Published: 2026-08-07T05:49:03.227946+05:30
 
 ## Related Tags
 

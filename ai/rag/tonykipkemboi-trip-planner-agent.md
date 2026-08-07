@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tonykipkemboi/trip_planner_agent
-collected_at: '2026-08-06T20:12:46.541422+05:30'
+collected_at: '2026-08-07T05:53:16.728650+05:30'
 published_at: '2026-05-18T04:13:15Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 143
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-16T09:09:17Z'
 pushed_at: '2024-06-19T15:04:05Z'
 resource_id: github:tonykipkemboi/trip_planner_agent
-first_seen: '2026-08-06T20:12:46.541422+05:30'
-last_seen: '2026-08-06T20:12:46.541422+05:30'
-last_checked: '2026-08-06T20:12:46.541422+05:30'
+first_seen: '2026-08-07T05:53:16.728650+05:30'
+last_seen: '2026-08-07T05:53:16.728650+05:30'
+last_checked: '2026-08-07T05:53:16.728650+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **CrewAI-based multi-agent system** for automated vacation planning, leveraging LLMs (e.g., OpenAI) to orchestrate itinerary generation, research, and validation.
-- **Python implementation** with modular agent roles (e.g., researcher, planner) for dynamic trip customization (destinations, budgets, preferences).
-- **Open-source toolkit** with 143 stars and 62 forks, last updated May 2026, supporting extensibility via CrewAI framework and LLM integrations.
+- **CrewAI-based Multi-Agent System**: Implements autonomous CrewAI agents (Python) to dynamically plan vacations using LLMs (OpenAI integration) for itinerary generation, optimization, and real-time adjustments.
+
+- **Modular Architecture**: Leverages CrewAI’s framework for agent orchestration, task delegation, and tool integration (e.g., APIs for flights, hotels, activities) to streamline trip planning workflows.
+
+- **Open-Source & Extensible**: Repository provides a template for customizing agent roles (e.g., travel advisor, budget optimizer) with Python-based LLM interactions, supporting OpenAI’s API and local LLM alternatives.
 
 ## Why It Matters
 

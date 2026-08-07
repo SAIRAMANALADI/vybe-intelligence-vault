@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-08-06T20:12:16.546392+05:30'
-published_at: '2026-08-06T14:36:36Z'
+collected_at: '2026-08-07T05:52:46.752677+05:30'
+published_at: '2026-08-06T23:53:52Z'
 tags:
 - agents
-- benchmark
+- creative_dev
 - github-repo
-- hackernews
 - python
 - rag
-stars: 95876
+stars: 95916
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-28T03:31:08Z'
 pushed_at: '2026-07-18T15:55:05Z'
 resource_id: github:tauricresearch/tradingagents
-first_seen: '2026-08-06T20:12:16.546392+05:30'
-last_seen: '2026-08-06T20:12:16.546392+05:30'
-last_checked: '2026-08-06T20:12:16.546392+05:30'
+first_seen: '2026-08-07T05:52:46.752677+05:30'
+last_seen: '2026-08-07T05:52:46.752677+05:30'
+last_checked: '2026-08-07T05:52:46.752677+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based multi-agent LLM framework (`TauricResearch/TradingAgents`) designed for financial trading, leveraging large language models (LLMs) to simulate and optimize trading strategies via autonomous agent interactions.
+- **Framework Overview**: Open-source Python-based multi-agent LLM framework (`TauricResearch/TradingAgents`) designed for financial trading, leveraging large language models (LLMs) to simulate autonomous trading agents.
 
-- **Key Components**: Integrates specialized trading agents (e.g., analysts, risk managers, executors) with LLM-driven decision-making, enabling dynamic strategy adaptation, market simulation, and backtesting across equities, crypto, and forex.
+- **Key Features**: Supports modular agent architectures, real-time market interaction, and adaptive decision-making via LLM-driven reasoning for trading strategies (e.g., portfolio optimization, execution).
 
-- **Technical Stack**: Built on Python with modular agent architectures, supports REST/gRPC APIs for real-time market data integration, and includes tools for performance benchmarking, visualization, and multi-agent coordination protocols.
+- **Scalability & Integration**: Enables multi-agent collaboration (e.g., traders, analysts, risk managers) with extensible APIs for backtesting, live trading, and integration with financial data providers (e.g., Yahoo Finance, Binance).
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TauricResearch
-- Stars: 95876
-- Forks: 18550
+- Stars: 95916
+- Forks: 18556
 - Language: Python
 - Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-08-06T14:36:36Z
+- Last Updated: 2026-08-06T23:53:52Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-28T03:31:08Z

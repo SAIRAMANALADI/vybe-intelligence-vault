@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-08-06T20:12:31.693853+05:30'
+collected_at: '2026-08-07T05:53:01.790668+05:30'
 published_at: '2026-07-31T15:53:17Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - models
 - python
 - rag
+- scripts
 - workflows
 stars: 20
 language: Python
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-31T15:56:17Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-08-06T20:12:31.693853+05:30'
-last_seen: '2026-08-06T20:12:31.693853+05:30'
-last_checked: '2026-08-06T20:12:31.693853+05:30'
+first_seen: '2026-08-07T05:53:01.790668+05:30'
+last_seen: '2026-08-07T05:53:01.790668+05:30'
+last_checked: '2026-08-07T05:53:01.790668+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Templates**: Repository provides pre-built agentic AI workflow templates using frameworks like CrewAI, LangGraph, and LlamaIndex, optimized for DataRobot integration.
-
-- **Multi-Framework Support**: Templates support Python-based agentic workflows with LLM orchestration via LangGraph and LlamaIndex, enabling modular and scalable AI agent architectures.
-
-- **DataRobot Integration**: Designed for seamless interaction with DataRobot's platform, facilitating agent-driven ML pipelines, automated data processing, and model deployment workflows.
+- **Purpose**: Provides modular templates for building agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+- **Key Components**: Includes Python-based templates leveraging DataRobot APIs for model deployment, agent orchestration, and retrieval-augmented generation (RAG) workflows.
+- **Integration Focus**: Designed for seamless interoperability with DataRobot's MLOps platform, enabling scalable agentic AI solutions with minimal boilerplate.
 
 ## Why It Matters
 

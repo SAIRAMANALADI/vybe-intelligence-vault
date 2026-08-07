@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-06T20:08:36.878689+05:30'
-collected_at: '2026-08-06T20:08:36.878697+05:30'
+published_at: '2026-08-07T05:49:06.875811+05:30'
+collected_at: '2026-08-07T05:49:06.875825+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-06T20:08:36.878697+05:30'
-last_seen: '2026-08-06T20:08:36.878697+05:30'
-last_checked: '2026-08-06T20:08:36.878697+05:30'
+first_seen: '2026-08-07T05:49:06.875825+05:30'
+last_seen: '2026-08-07T05:49:06.875825+05:30'
+last_checked: '2026-08-07T05:49:06.875825+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query rewriting layers; orchestration and caching optimize performance.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; orchestration and caching optimize performance and cost.
 
-- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) and embeddings (dimensionality, normalization, domain fine-tuning) directly impact retrieval precision and generation coherence.
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector), two-stage reranking (cross-encoders on top-K candidates), and multi-hop/iterative retrieval (decomposition, GraphRAG) improve precision and reasoning over complex queries.
 
-- **Advanced Retrieval & Evaluation**: Hybrid search (BM25 + vector), multi-hop iterative retrieval, and cross-encoder rerankers improve accuracy; evaluation requires metrics for both retrieval (nDCG, MRR) and generation (factuality, hallucination rate).
+- **Context Optimization & Training**: Context distillation (condensing retrieved chunks via LLMs), autocut/token budgeting, and retrieval-aware fine-tuning (end-to-end RAG-style training) enhance factuality while reducing hallucinations and computational overhead.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T20:08:36.878689+05:30
+- Published: 2026-08-07T05:49:06.875811+05:30
 
 ## Related Tags
 

@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-08-06T20:11:11.474672+05:30'
-published_at: '2026-08-06T08:41:22Z'
+collected_at: '2026-08-07T05:51:41.658984+05:30'
+published_at: '2026-08-06T19:48:52Z'
 tags:
 - agents
 - github-repo
-- hackernews
-- paper
 - python
-stars: 2143
+stars: 2145
 language: Python
 status: active
 license: MIT
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-08-06T20:11:11.474672+05:30'
-last_seen: '2026-08-06T20:11:11.474672+05:30'
-last_checked: '2026-08-06T20:11:11.474672+05:30'
+first_seen: '2026-08-07T05:51:41.658984+05:30'
+last_seen: '2026-08-07T05:51:41.658984+05:30'
+last_checked: '2026-08-07T05:51:41.658984+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: GitHub repository containing 300+ curated links to agentic AI tools, frameworks, libraries, and research papers.
-- **Technical Scope**: Focuses on AI agents, agentic systems, and autonomous agent architectures, primarily in Python.
-- **Metrics**: 2,143 stars, 517 forks, last updated August 6, 2026.
+- **Curated Collection**: Repository hosting 300+ agentic AI resources, categorized for research and development.
+- **Metrics**: 2,145 stars, 517 forks, primarily Python-based, last updated August 6, 2026.
+- **Focus**: Dedicated to agentic AI systems, including agents, frameworks, and tools for autonomous task execution.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 2143
+- Stars: 2145
 - Forks: 517
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-08-06T08:41:22Z
+- Last Updated: 2026-08-06T19:48:52Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

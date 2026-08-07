@@ -13,13 +13,14 @@ collected_at: '2026-08-06T20:07:37.417278+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:universal-debloater-alliance/universal-android-debloater-next-generation
 first_seen: '2026-06-16T17:27:26.089793+05:30'
 last_seen: '2026-08-06T20:07:37.417278+05:30'
 last_checked: '2026-08-06T20:07:37.417278+05:30'
 health_score: 100
 ---
+
 
 # On non-rooted Android 17, ADB uninstall of system apps fails
 

@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
+- models
 - rag
 - web-crawled
 selection_reason:
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Model Architecture**: MiniMax-H3 is a high-capacity transformer-based model optimized for advanced natural language processing tasks, leveraging state-of-the-art attention mechanisms and scalable architecture.
+- **Model Architecture**: MiniMax-H3 is a large-scale, decoder-only transformer model optimized for high-performance text generation, leveraging advanced attention mechanisms and efficient tokenization.
 
-- **Performance Metrics**: Achieves superior benchmark scores in reasoning, coding, and multilingual tasks, with a reported 2.6k community upvotes and 12.1k downloads on Hugging Face, indicating strong adoption.
+- **Performance Metrics**: Achieves competitive benchmarks in reasoning, coding, and language tasks, with a reported context window of up to 32K tokens and optimized inference speed.
 
-- **Deployment & Accessibility**: Available via Hugging Face Hub with op
+- **Deployment & Accessibility**: Available via Hugging Face Hub with open-source weights, supporting fine-tunin
 
 ## Use Cases
 
