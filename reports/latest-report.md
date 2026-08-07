@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-06T20:50:47.643087+05:30`
+Generated at: `2026-08-07T05:33:34.490862+05:30`
 
 ## Executive Summary
 
@@ -8,36 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Humans missed 1 in 3 threats approving AI agent commands across 40k game runs** - Score: `68` in category `ai/community` ([Link](https://scalex.dev/blog/ai-agent-permissions-stats)) ([File](../ai/community/humans-missed-1-in-3-threats-approving-ai-agent-co.md))
-- **Kangsan Kim - Homepage** - Score: `0` in category `ai/rag` ([Link](https://kangsankim07.github.io)) ([File](../ai/rag/kangsan-kim-homepage.md))
 - **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - Score: `0` in category `ai/rag` ([Link](https://policy.medium.com/medium-privacy-policy-f03bf92035c9)) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md))
 
 ## Top Trending Resources
 
-- **On non-rooted Android 17, ADB uninstall of system apps fails** - Score: `154` (+123), Rank Change: `+4` ([File](../ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md))
-- **Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs** - Score: `741` (+57), Rank Change: `0` ([File](../ai/community/the-next-chapter-of-our-ai-momentum.md))
-- **Born Against, or why hobby programming communities are against LLM usage** - Score: `325` (+36), Rank Change: `0` ([File](../ai/community/born-against-or-why-hobby-programming-communities.md))
-- **Cloudflare OS: an open platform for agents, apps, and work** - Score: `603` (+34), Rank Change: `0` ([File](../ai/community/cloudflare-os-an-open-platform-for-agents-apps-and.md))
-- **Decimen Optical Transfer: fountain-coded QR file transfer** - Score: `42` (+12), Rank Change: `+3` ([File](../ai/community/bashalarmistalt-decimen-optical-transfer.md))
-- **[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** - Score: `0` (0), Rank Change: `+84` ([File](../ai/rag/arxiv-2504-20734.md))
-- **pgvector/pgvector** - Score: `0` (0), Rank Change: `+2596` ([File](../ai/rag/pgvector-pgvector.md))
-- **Overview Â· Cloudflare Workers AI docs** - Score: `0` (0), Rank Change: `+1981` ([File](../ai/rag/overview-a-cloudflare-workers-ai-docs.md))
-- **LangChain overview - Docs by LangChain** - Score: `0` (0), Rank Change: `+1847` ([File](../ai/rag/langchain-overview-docs-by-langchain.md))
-- **Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain** - Score: `0` (0), Rank Change: `+1945` ([File](../ai/rag/rag-with-deep-agents-docs-by-langchain.md))
+- **pgvector/pgvector** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/pgvector-pgvector.md))
+- **Overview Â· Cloudflare Workers AI docs** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/overview-a-cloudflare-workers-ai-docs.md))
+- **LangChain overview - Docs by LangChain** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/langchain-overview-docs-by-langchain.md))
+- **Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/rag-with-deep-agents-docs-by-langchain.md))
+- **7 Best GitHub Repositories For Mastering RAG Systems** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
+- **Chunking Strategies for LLM Applications | Pinecone** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md))
+- **Feedback!** - Score: `0` (0), Rank Change: `+3` ([File](../ai/resources/feedback.md))
+- **HKUDS/LightRAG** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/hkuds-lightrag.md))
+- **nerfies/nerfies.github.io** - Score: `0` (0), Rank Change: `+4` ([File](../ai/resources/nerfies-nerfies-github-io.md))
+- **adityatelange/hugo-PaperMod** - Score: `0` (0), Rank Change: `+4` ([File](../ai/resources/adityatelange-hugo-papermod.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **langgenius/dify** - (Rank Change: `+3246`) ([File](../ai/rag/langgenius-dify.md))
-- **pgvector/pgvector** - (Rank Change: `+2596`) ([File](../ai/rag/pgvector-pgvector.md))
-- **Panniantong/Agent-Reach** - (Rank Change: `+2557`) ([File](../ai/agents/panniantong-agent-reach.md))
-- **Overview Â· Cloudflare Workers AI docs** - (Rank Change: `+1981`) ([File](../ai/rag/overview-a-cloudflare-workers-ai-docs.md))
-- **Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain** - (Rank Change: `+1945`) ([File](../ai/rag/rag-with-deep-agents-docs-by-langchain.md))
-- **Feedback!** - (Rank Change: `+1882`) ([File](../ai/resources/feedback.md))
-- **Chunking Strategies for LLM Applications | Pinecone** - (Rank Change: `+1850`) ([File](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md))
-- **Sri-Krishna-V/awesome-adk-agents** - (Rank Change: `+1848`) ([File](../ai/agents/sri-krishna-v-awesome-adk-agents.md))
-- **LangChain overview - Docs by LangChain** - (Rank Change: `+1847`) ([File](../ai/rag/langchain-overview-docs-by-langchain.md))
-- **mergisi/awesome-openclaw-agents** - (Rank Change: `+1834`) ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
+- **strnad/CrewAI-Studio** - (Rank Change: `+979`) ([File](../ai/agents/strnad-crewai-studio.md))
+- **pingwu/crewai-similar-framework-finder-template** - (Rank Change: `+979`) ([File](../ai/agents/pingwu-crewai-similar-framework-finder-template.md))
+- **NicholasGoh/fastapi-mcp-langgraph-template** - (Rank Change: `+979`) ([File](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md))
+- **snyk/agent-scan** - (Rank Change: `+979`) ([File](../ai/agents/snyk-agent-scan.md))
+- **facebookresearch/MLGym** - (Rank Change: `+979`) ([File](../ai/agents/facebookresearch-mlgym.md))
+- **RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog** - (Rank Change: `+979`) ([File](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md))
+- **microsoft/rag-time** - (Rank Change: `+979`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+979`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+979`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+979`) ([File](../ai/rag/arxiv-2608-01791.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -48,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Position: LLMs Can't Jump** (Category: `ai/community`) ([File](../ai/community/position-llms-can-t-jump.md))
-- **Nashville uses eminent domain to block data center near zoo** (Category: `ai/community`) ([File](../ai/community/nashville-uses-eminent-domain-to-block-data-center.md))
-- **Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)** (Category: `ai/community`) ([File](../ai/community/arxiv-2510-01395.md))
-- **Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod** (Category: `ai/community`) ([File](../ai/community/launch-hn-hyperprobe-yc-s26-agents-that-do-read-on.md))
+No recently active resources transitioned to inactive.
+
