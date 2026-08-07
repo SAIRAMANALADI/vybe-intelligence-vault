@@ -1,13 +1,33 @@
 ---
-title: "WOOWTECH/woow_odoo_manage_mcp_server"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "React 19", "Docker", "JWT Authentication", "SSE (Server-Sent Events)", "Odoo 18", "MCP Protocol", "Asyncio"]
+title: WOOWTECH/woow_odoo_manage_mcp_server
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastAPI
+- React 19
+- Docker
+- JWT Authentication
+- SSE (Server-Sent Events)
+- Odoo 18
+- MCP Protocol
+- Asyncio
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP Server Management", "Odoo Integration", "Web GUI", "Reverse Proxy", "Process Manager"]
-source: "https://github.com/WOOWTECH/woow_odoo_manage_mcp_server"
-discovered_at: "2026-07-13T23:53:47Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- MCP Server Management
+- Odoo Integration
+- Web GUI
+- Reverse Proxy
+- Process Manager
+source: https://github.com/WOOWTECH/woow_odoo_manage_mcp_server
+stars: 0
+language: Python
+last_updated: '2026-07-13T23:39:13Z'
+discovered_at: '2026-07-13T23:53:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

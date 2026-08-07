@@ -3,7 +3,7 @@ title: Learn more
 archive_category: agent-frameworks
 source_category: ai/companies/deepmind
 source_url: https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research
-resource_id: blog:learn-more
+resource_id: blog:learn-more-eb120284
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
 archive_score: 82

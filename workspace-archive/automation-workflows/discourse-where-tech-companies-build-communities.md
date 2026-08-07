@@ -3,7 +3,7 @@ title: Discourse | Where Tech Companies Build Communities
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://www.discourse.org
-resource_id: blog:discourse-where-tech-companies-build-communities-d7ecc547
+resource_id: blog:discourse-where-tech-companies-build-communities
 local_vault_path: ai/resources/discourse-where-tech-companies-build-communities.md
 quality_score: 70
 archive_score: 72
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Scalable Community Platform**: Discourse powers over 22,000 communities with features like SSO, SAML, and enterprise authentication, supporting up to 100K+ monthly active users and 1B+ monthly page views.
-- **Modular Use Cases**: Supports support hubs, team workspaces, product feedback, and developer communities with AI-assisted moderation, GitHub integration, and gamification.
-- **Open-Source & Self-Hosted**: Full codebase available on GitHub with data sovereignty, allowing self-hosting, ex
+- **Scalable, open-source community platform** with built-in moderation, real-time chat, and SSO/SAML support, hosting 3M+ monthly posts and 1B+ page views across 22K+ communities.
+- **Enterprise-grade features** including dedicated infrastructure, AI-assisted moderation, white-glove onboarding, and full data sovereignty with self-hosting or managed options.
+- **Modular architecture** supporting custom themes/plugins, GitHub integration for dev communities, and structured workflows (e.g., produc
 
 ## Use Cases
 

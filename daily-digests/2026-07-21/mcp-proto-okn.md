@@ -1,13 +1,31 @@
 ---
-title: "sbl-sdsc/mcp-proto-okn"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "SPARQL", "RDF", "Ontologies (MONDO, UBERON, HP, GO, etc.)", "FastAPI", "PyPI"]
+title: sbl-sdsc/mcp-proto-okn
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- SPARQL
+- RDF
+- Ontologies (MONDO, UBERON, HP, GO, etc.)
+- FastAPI
+- PyPI
 quality_score: 9
 rag_relevance: 10
-tags: ["knowledge graph", "RDF", "SPARQL", "MCP", "Proto-OKN"]
-source: "https://github.com/sbl-sdsc/mcp-proto-okn"
-discovered_at: "2026-07-12T08:15:37Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- knowledge graph
+- RDF
+- SPARQL
+- MCP
+- Proto-OKN
+source: https://github.com/sbl-sdsc/mcp-proto-okn
+stars: 6
+language: Python
+last_updated: '2026-07-12T08:14:08Z'
+discovered_at: '2026-07-12T08:15:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

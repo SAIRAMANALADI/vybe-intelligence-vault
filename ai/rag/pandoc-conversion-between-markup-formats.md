@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://hackage.haskell.org/package/pandoc
-published_at: '2026-07-08T09:30:36.092972+05:30'
-collected_at: '2026-07-08T09:30:36.092981+05:30'
+published_at: '2026-08-05T17:12:46.098739+05:30'
+collected_at: '2026-08-05T17:12:46.098748+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pandoc-conversion-between-markup-formats
-first_seen: '2026-07-08T09:30:36.092981+05:30'
-last_seen: '2026-07-08T09:30:36.092981+05:30'
-last_checked: '2026-07-08T09:30:36.092981+05:30'
+first_seen: '2026-08-05T17:12:46.098748+05:30'
+last_seen: '2026-08-05T17:12:46.098748+05:30'
+last_checked: '2026-08-05T17:12:46.098748+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format conversion**: Pandoc is a Haskell library supporting bidirectional conversion between 30+ markup formats (Markdown variants, LaTeX, HTML, EPUB, Docx, Jupyter notebooks, etc.) with extensible readers/writers via Lua scripting.
+- **Multi-format conversion**: Pandoc is a Haskell library for converting between 30+ markup formats, including Markdown variants, LaTeX, HTML, EPUB, Docx, Jupyter notebooks, and more, with support for mathematical content conversion across TeX, MathML, and Word equations.
 
-- **Mathematical & bibliographic processing**: Converts TeX/MathML/Word equations to/from plain text, with built-in citation/bibliography systems (BibTeX, CSL JSON/YAML) and template-based customization.
+- **Extensible architecture**: Features a modular design with Lua-based customization via templates, filters, and readers/writers, alongside built-in support for automatic citations, bibliographies, and cross-references.
 
-- **Modular architecture**: Organized into 100+ modules (e.g., `Text.Pandoc.Readers.LaTeX`, `Text.Pandoc.Writers.Docx`) under a unified `Text.Pandoc` namespace, enabling fine-grained integration and extensibility.
+- **Hackage integration**: Hosted on Hackage with GPL licensing, versioned modules (e.g., `Text.Pandoc.Readers.LaTeX`, `Text.Pandoc.Writers.Docx`), and CLI tooling via the `pandoc-cli` package.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:30:36.092972+05:30
+- Published: 2026-08-05T17:12:46.098739+05:30
 
 ## Related Tags
 

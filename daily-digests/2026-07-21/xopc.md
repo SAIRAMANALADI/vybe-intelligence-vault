@@ -1,13 +1,33 @@
 ---
-title: "xopcai/xopc"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "Electron", "Telegram Bot API", "WeChat API", "Feishu/Lark API", "pnpm", "LLM Providers (20+ supported)"]
+title: xopcai/xopc
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Electron
+- Telegram Bot API
+- WeChat API
+- Feishu/Lark API
+- pnpm
+- LLM Providers (20+ supported)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent framework", "local-first", "multi-surface chat", "automation", "project management"]
-source: "https://github.com/xopcai/xopc"
-discovered_at: "2026-07-12T10:26:13Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI agent framework
+- local-first
+- multi-surface chat
+- automation
+- project management
+source: https://github.com/xopcai/xopc
+stars: 15
+language: TypeScript
+last_updated: '2026-07-12T10:25:02Z'
+discovered_at: '2026-07-12T10:26:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

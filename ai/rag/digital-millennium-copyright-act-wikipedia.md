@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
-published_at: '2026-07-21T16:57:10.057830+05:30'
-collected_at: '2026-07-21T16:57:10.057844+05:30'
+published_at: '2026-08-06T09:15:48.580086+05:30'
+collected_at: '2026-08-06T09:15:48.580100+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:digital-millennium-copyright-act-wikipedia
-first_seen: '2026-07-21T16:57:10.057844+05:30'
-last_seen: '2026-07-21T16:57:10.057844+05:30'
-last_checked: '2026-07-21T16:57:10.057844+05:30'
+first_seen: '2026-08-06T09:15:48.580100+05:30'
+last_seen: '2026-08-06T09:15:48.580100+05:30'
+last_checked: '2026-08-06T09:15:48.580100+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Legal Framework**: Enacted in 1998 (Pub. L. 105-304), the DMCA amends Title 17 of the U.S. Code to implement WIPO treaties, criminalizing circumvention of DRM and access controls, regardless of infringement status.
+- **Criminalizes circumvention of DRM and access controls**: The DMCA prohibits the production, distribution, or use of tools/services designed to bypass technological measures protecting copyrighted works (e.g., DRM), even without actual infringement.
 
-- **Liability Shield**: Introduces safe harbor provisions (17 U.S.C. § 512) limiting liability for online service providers (OSPs) for user-generated infringing content, conditional on compliance with takedown procedures.
+- **Limits liability for online service providers (OSPs)**: Under **17 U.S.C. § 512**, OSPs (e.g., ISPs, platforms) are shielded from direct/indirect copyright infringement liability if they comply with takedown notices (**§ 512(c)**) and meet other safe harbor conditions.
 
-- **Penalties & Enforcement**: Heightens penalties for copyright infringement online, mandates notice-and-takedown mechanisms, and establishes legal remedies for anti-circumvention violations.
+- **Implements WIPO treaties (1996)**: The DMCA aligns U.S. law with the **WIPO Copyright Treaty** and **WIPO Performances and Phonograms Treaty**, extending copyright protections to digital environments and penalizing circumvention of access controls.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T16:57:10.057830+05:30
+- Published: 2026-08-06T09:15:48.580086+05:30
 
 ## Related Tags
 

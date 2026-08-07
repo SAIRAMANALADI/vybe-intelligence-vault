@@ -1,13 +1,32 @@
 ---
-title: "Johnny1110/EVVA"
-category: "Agent Framework"
-tech_stack: ["Go", "Bubble Tea (TUI framework)", "ReAct Agent Framework", "LLM Providers (Anthropic, DeepSeek, GLM, OpenAI, Ollama)", "TypeScript (web workstation)", "Vue 3 (frontend)", "YAML (configuration)", "Git (version control)"]
+title: Johnny1110/EVVA
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Bubble Tea (TUI framework)
+- ReAct Agent Framework
+- LLM Providers (Anthropic, DeepSeek, GLM, OpenAI, Ollama)
+- TypeScript (web workstation)
+- Vue 3 (frontend)
+- YAML (configuration)
+- Git (version control)
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "terminal-based AI", "ReAct agents", "LLM integration", "TUI/CLI"]
-source: "https://github.com/Johnny1110/EVVA"
-discovered_at: "2026-07-11T09:27:22Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- terminal-based AI
+- ReAct agents
+- LLM integration
+- TUI/CLI
+source: https://github.com/Johnny1110/EVVA
+stars: 2
+language: TypeScript
+last_updated: '2026-07-11T09:13:03Z'
+discovered_at: '2026-07-11T09:27:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

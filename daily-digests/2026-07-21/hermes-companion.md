@@ -1,13 +1,32 @@
 ---
-title: "bdhhsx/hermes-companion"
-category: "Agent Framework"
-tech_stack: ["Python", "PyTorch", "OpenAI API", "Anthropic API", "YAML", "Docker", "Kubernetes", "Mermaid.js"]
+title: bdhhsx/hermes-companion
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- PyTorch
+- OpenAI API
+- Anthropic API
+- YAML
+- Docker
+- Kubernetes
+- Mermaid.js
 quality_score: 9
 rag_relevance: 8
-tags: ["adaptive_ai", "procedural_memory", "multi_model_orchestration", "cognitive_companion", "continuous_learning"]
-source: "https://github.com/bdhhsx/hermes-companion"
-discovered_at: "2026-07-15T08:05:56Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: High
+tags:
+- adaptive_ai
+- procedural_memory
+- multi_model_orchestration
+- cognitive_companion
+- continuous_learning
+source: https://github.com/bdhhsx/hermes-companion
+stars: 3
+language: HTML
+last_updated: '2026-07-15T08:00:25Z'
+discovered_at: '2026-07-15T08:05:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

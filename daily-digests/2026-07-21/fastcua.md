@@ -1,13 +1,30 @@
 ---
-title: "Guojiz/FastCUA"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Windows UI Automation (UIA)", "MCP (Model Context Protocol)", "C++ (native host)", "PowerShell"]
+title: Guojiz/FastCUA
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- Windows UI Automation (UIA)
+- MCP (Model Context Protocol)
+- C++ (native host)
+- PowerShell
 quality_score: 8
 rag_relevance: 9
-tags: ["Windows automation", "AI agent interface", "UIA navigation", "MCP server", "local-first"]
-source: "https://github.com/Guojiz/FastCUA"
-discovered_at: "2026-07-16T02:26:06Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Windows automation
+- AI agent interface
+- UIA navigation
+- MCP server
+- local-first
+source: https://github.com/Guojiz/FastCUA
+stars: 0
+language: JavaScript
+last_updated: '2026-07-16T01:59:27Z'
+discovered_at: '2026-07-16T02:26:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

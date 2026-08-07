@@ -1,13 +1,34 @@
 ---
-title: "wellCh4n/oops"
-category: "Orchestrator"
-tech_stack: ["Kubernetes", "React", "Spring Boot", "MySQL", "Docker", "Traefik", "S3-compatible storage", "TypeScript", "Java", "Buildah"]
+title: wellCh4n/oops
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Kubernetes
+- React
+- Spring Boot
+- MySQL
+- Docker
+- Traefik
+- S3-compatible storage
+- TypeScript
+- Java
+- Buildah
 quality_score: 9
 rag_relevance: 8
-tags: ["Kubernetes", "PaaS", "AI Agents", "Multi-cluster", "DevOps"]
-source: "https://github.com/wellCh4n/oops"
-discovered_at: "2026-07-11T16:55:51Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Kubernetes
+- PaaS
+- AI Agents
+- Multi-cluster
+- DevOps
+source: https://github.com/wellCh4n/oops
+stars: 12
+language: TypeScript
+last_updated: '2026-07-11T16:53:06Z'
+discovered_at: '2026-07-11T16:55:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

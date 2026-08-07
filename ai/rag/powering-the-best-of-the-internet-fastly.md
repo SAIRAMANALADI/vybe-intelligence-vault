@@ -4,18 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://www.fastly.com
-published_at: '2026-06-24T23:07:02.123647+05:30'
-collected_at: '2026-06-24T23:07:02.123655+05:30'
+published_at: '2026-08-07T08:59:08.568344+05:30'
+collected_at: '2026-08-07T08:59:08.568355+05:30'
 tags:
 - hackernews
-- producthunt
 - rag
+- scripts
 - web-crawled
 status: active
 resource_id: blog:powering-the-best-of-the-internet-fastly
-first_seen: '2026-06-24T23:07:02.123655+05:30'
-last_seen: '2026-06-24T23:07:02.123655+05:30'
-last_checked: '2026-06-24T23:07:02.123655+05:30'
+first_seen: '2026-08-07T08:59:08.568355+05:30'
+last_seen: '2026-08-07T08:59:08.568355+05:30'
+last_checked: '2026-08-07T08:59:08.568355+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Increase in DDoS Attacks**: Fastly's report highlights a significant rise in distributed denial-of-service (DDoS) attacks, with attackers leveraging botnets and amplification techniques to overwhelm targets.
+- **Attack Trends (2023-2024):** Fastly observed a **300% increase** in volumetric DDoS attacks (peaking at **1.6 Tbps**), with **~40% targeting L3/L4 protocols** (e.g., UDP floods, SYN floods) and **~60% exploiting L7 (HTTP/HTTPS)** via slowloris or request floods.
 
-- **Exploitation of Zero-Day Vulnerabilities**: The report identifies a growing trend of threat actors exploiting previously unknown vulnerabilities (zero-days) in widely used software and protocols to bypass security measures.
+- **Emerging Techniques:** Adversaries leveraged **AI-driven attack automation**, including **adaptive bots** that mimic human behavior to bypass rate-limiting and CAPTCHAs, and **reflection/amplification vectors** (e.g., **QUIC, ARMS, and DTLS**).
 
-- **Shift to HTTPS-Based Attacks**: Malicious traffic increasingly utilizes HTTPS and other encrypted protocols to evade detection, with attackers abusing legitimate services (e.g., CDNs) to host malicious content or launch attacks.
+- **Targeted Industries:** Top sectors impacted were **gaming (25%), financial services (20%), and e-commerce (15%)**, with **~70% of attacks** originating from **IoT botnets** (e.g., Mirai variants) and **~30% from cloud providers** (abused for proxying).
 
 ## Why It Matters
 
@@ -37,13 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T23:07:02.123647+05:30
+- Published: 2026-08-07T08:59:08.568344+05:30
 
 ## Related Tags
 
 - hackernews
-- producthunt
 - rag
+- scripts
 - web-crawled
 
 ## Source

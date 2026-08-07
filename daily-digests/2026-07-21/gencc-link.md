@@ -1,13 +1,30 @@
 ---
-title: "berntpopp/gencc-link"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "SQLite + FTS5", "FastAPI", "MCP (Model Context Protocol)", "Docker", "GitHub Actions (CI/CD)"]
+title: berntpopp/gencc-link
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python 3.12+
+- SQLite + FTS5
+- FastAPI
+- MCP (Model Context Protocol)
+- Docker
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "gene-disease curation", "consensus classification", "conflict detection", "GenCC dataset"]
-source: "https://github.com/berntpopp/gencc-link"
-discovered_at: "2026-07-19T19:13:33Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- MCP server
+- gene-disease curation
+- consensus classification
+- conflict detection
+- GenCC dataset
+source: https://github.com/berntpopp/gencc-link
+stars: 0
+language: Python
+last_updated: '2026-07-19T19:10:46Z'
+discovered_at: '2026-07-19T19:13:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

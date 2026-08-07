@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-07-21T19:58:11.917770+05:30'
-collected_at: '2026-07-21T19:58:11.917783+05:30'
+published_at: '2026-08-07T05:56:20.747572+05:30'
+collected_at: '2026-08-07T05:56:20.747588+05:30'
 tags:
 - agents
 - benchmark
@@ -17,11 +17,12 @@ tags:
 - reddit
 - scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-07-21T19:58:11.917783+05:30'
-last_seen: '2026-07-21T19:58:11.917783+05:30'
-last_checked: '2026-07-21T19:58:11.917783+05:30'
+first_seen: '2026-08-07T05:56:20.747588+05:30'
+last_seen: '2026-08-07T05:56:20.747588+05:30'
+last_checked: '2026-08-07T05:56:20.747588+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 48 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and more, with examples spanning agents, RAG, multimodal processing, and advanced retrieval methods.
+- **Haystack Cookbook**: Repository of 49 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and advanced features (e.g., agents, RAG, multimodal) with Haystack, including examples for PostgreSQL keyword search optimization and hybrid RAG pipelines.
 
-- **Key Recipes** include cost-aware agents, hybrid RAG pipelines with breakpoints, multimodal text generation, and advanced retrieval techniques like query decomposition, HyDE, and sparse embedding retrieval with Qdrant/FastEmbed.
+- **Agentic & RAG Workflows**: Showcases agent-based retrieval (e.g., OpenStreetMap itinerary planning), cost-aware agents, memory integration (Mem0), and advanced RAG techniques like query decomposition, HyDE, and metadata enrichment for improved retrieval accuracy.
 
-- **Experimental & Specialized Demos** cover memory stores (Mem0), browser agents with MCP, GPU-accelerated inference (vLLM), and domain-specific applications like legal document analysis and SQL database interaction.
+- **Tooling & Evaluation**: Covers model serving (vLLM, NVIDIA NIMs), observability (Arize Phoenix), guardrails (content moderation), and evaluation frameworks (DeepEval, RAGAS, Prometheus 2) for assessing RAG pipelines and agent performance.
 
 ## Why It Matters
 
@@ -43,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T19:58:11.917770+05:30
+- Published: 2026-08-07T05:56:20.747572+05:30
 
 ## Related Tags
 
@@ -57,6 +58,7 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
+- workflows
 
 ## Source
 

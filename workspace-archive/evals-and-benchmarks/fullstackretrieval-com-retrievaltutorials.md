@@ -2,19 +2,17 @@
 title: RetrievalTutorials/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
   at main · FullStackRetrieval-com/Ret
 archive_category: evals-and-benchmarks
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb
 resource_id: github:fullstackretrieval-com/retrievaltutorials
-local_vault_path: ai/rag/fullstackretrieval-com-retrievaltutorials.md
+local_vault_path: ai/resources/fullstackretrieval-com-retrievaltutorials.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - hackernews
-- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -26,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `RetrievalTutorials` by `FullStackRetrieval-com` is a GitHub repository containing 2901-line Jupyter Notebook (`5_Levels_Of_Text_Splitting.ipynb`) focused on text splitting techniques for retrieval systems.
+- **Repository**: [RetrievalTutorials](https://github.com/FullStackRetrieval-com/RetrievalTutorials) is a GitHub repository under `FullStackRetrieval-com` with 238 forks, 1.5k stars, 6 open issues, and 2 pull requests.
 
-- **Content Focus**: The notebook explores **5 hierarchical levels of text splitting** (e.g., character, word, sentence, paragraph, document-level splits) to optimize retrieval performance in NLP pipelines.
+- **Content**: The repository includes a Jupyter Notebook (`5_Levels_Of_Text_Splitting.ipynb`) in `/tutorials/LevelsOfTextSplitting/` with 2901 lines (~330 KB), focusing on text splitting techniques for retrieval systems.
 
-- **Metrics & Scale**: The file is 330 KB with 2,901 lines of code
+- **Structure**: The notebook is part of a broader tutori
 
 ## Use Cases
 
@@ -52,4 +50,4 @@ Original source URL: https://github.com/FullStackRetrieval-com/RetrievalTutorial
 
 ## Local Vault File
 
-Path: [fullstackretrieval-com-retrievaltutorials.md](../../ai/rag/fullstackretrieval-com-retrievaltutorials.md)
+Path: [fullstackretrieval-com-retrievaltutorials.md](../../ai/resources/fullstackretrieval-com-retrievaltutorials.md)

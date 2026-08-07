@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://astro.build/integrations/
-published_at: '2026-07-21T22:22:14.226096+05:30'
-collected_at: '2026-07-21T22:22:14.226113+05:30'
+published_at: '2026-08-01T19:34:22.756996+05:30'
+collected_at: '2026-08-01T19:34:22.757003+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:integrations-astro
-first_seen: '2026-07-21T22:22:14.226113+05:30'
-last_seen: '2026-07-21T22:22:14.226113+05:30'
-last_checked: '2026-07-21T22:22:14.226113+05:30'
+first_seen: '2026-08-01T19:34:22.757003+05:30'
+last_seen: '2026-08-01T19:34:22.757003+05:30'
+last_checked: '2026-08-01T19:34:22.757003+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Shared Documentation Engine**: Utilizes a unified Astro-based documentation system for CoreUI libraries, covering both free and pro versions across all frameworks.
-- **High Adoption Rate**: Achieves ~3.9K weekly downloads, indicating significant usage and community engagement.
-- **Multi-Framework Support**: Designed to provide consistent documentation experience across various frontend frameworks.
+- **Modern Astro Blog Theme**: `@xingwangzhe/stalux` is a high-performance, contemporary Astro-based blog template designed for rapid deployment and customization.
+
+- **Dual Installation Modes**: Supports both direct template usage and plugin-based installation, enabling flexible integration into existing Astro projects.
+
+- **High Adoption Rate**: Achieves **4.7K weekly downloads**, indicating strong community traction and reliability in production environments.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T22:22:14.226096+05:30
+- Published: 2026-08-01T19:34:22.756996+05:30
 
 ## Related Tags
 

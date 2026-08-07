@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.eff.org/wp/unintended-consequences-under-dmca
-published_at: '2026-07-21T16:58:26.173389+05:30'
-collected_at: '2026-07-21T16:58:26.173398+05:30'
+published_at: '2026-08-06T09:17:44.499670+05:30'
+collected_at: '2026-08-06T09:17:44.499685+05:30'
 tags:
 - hackernews
 - paper
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:unintended-consequences-twelve-years-under-the-dmc
-first_seen: '2026-07-21T16:58:26.173398+05:30'
-last_seen: '2026-07-21T16:58:26.173398+05:30'
-last_checked: '2026-07-21T16:58:26.173398+05:30'
+first_seen: '2026-08-06T09:17:44.499685+05:30'
+last_seen: '2026-08-06T09:17:44.499685+05:30'
+last_checked: '2026-08-06T09:17:44.499685+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **DMCA §1201 Prohibitions**: Bans circumvention of access controls (e.g., DVD encryption) *and* distribution of circumvention tools, even for legitimate purposes (e.g., ripping DVDs for personal use), stifling fair use and innovation.
+- **DMCA §1201 Prohibitions**: Bans circumvention of access controls (e.g., DVD encryption) *and* distribution of circumvention tools, even for legitimate purposes, stifling research, fair use, and competition (e.g., printer toner cartridges, iPhone/iPod lock-in).
 
-- **Chilling Research & Free Speech**: Used against *2600* magazine, Princeton’s Prof. Felten, and Dmitry Sklyarov, suppressing security research (e.g., Sony-BMG rootkit disclosure delays) and public discussions (e.g., BluWiki iPod reverse-engineering).
+- **Chilling Effects on Research & Speech**: Used against *2600* magazine, Princeton’s Prof. Felten’s team (SDMI watermarking), Dmitry Sklyarov, and Sony-BRG’s "rootkit" disclosure delays, forcing researchers to self-censor or seek legal exemptions.
 
-- **Anti-Competitive Abuse**: Leveraged to block aftermarket competition (e.g., printer toner, garage door openers) and tie proprietary ecosystems (e.g., Apple’s iPod/iPhone to iTunes), misapplying the law beyond piracy prevention.
+- **Misuse as Anti-Competition Tool**: Employed to block aftermarket competition (e.g., garage door openers, laser printer cartridges) and suppress interoperability discussions (e.g., Apple’s BluWiki threats over iPod reverse engineering).
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T16:58:26.173389+05:30
+- Published: 2026-08-06T09:17:44.499670+05:30
 
 ## Related Tags
 

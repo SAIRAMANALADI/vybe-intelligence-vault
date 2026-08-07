@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial
-collected_at: '2026-07-21T22:13:32.365142+05:30'
-published_at: '2026-05-04T02:37:33Z'
+collected_at: '2026-08-07T08:50:38.737451+05:30'
+published_at: '2026-07-28T13:49:36Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - rag
 - typescript
-stars: 197
+stars: 196
 language: TypeScript
 status: active
 archived: false
 created_at: '2024-04-05T21:12:53Z'
 pushed_at: '2024-04-08T10:45:53Z'
 resource_id: github:rsrohan99/rag-stream-intermediate-events-tutorial
-first_seen: '2026-07-21T22:13:32.365142+05:30'
-last_seen: '2026-07-21T22:13:32.365142+05:30'
-last_checked: '2026-07-21T22:13:32.365142+05:30'
+first_seen: '2026-08-07T08:50:38.737451+05:30'
+last_seen: '2026-08-07T08:50:38.737451+05:30'
+last_checked: '2026-08-07T08:50:38.737451+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Demonstrates streaming intermediate LlamaIndex events via Server-Sent Events (SSE).
-*   Facilitates real-time RAG process visibility by transmitting discrete LlamaIndex pipeline stages.
-*   Integrates specifically with the Vercel AI SDK for front-end consumption of streamed events.
+- Demonstrates streaming intermediate RAG events from LlamaIndex to Vercel AI SDK via Server-Sent Events (SSE) for real-time processing.
+- Implements TypeScript-based event handling to bridge LlamaIndex's event system with Vercel AI SDK's streaming interface.
+- Provides a structured tutorial for integrating intermediate RAG events in a serverless environment with Vercel deployments.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: rsrohan99
-- Stars: 197
+- Stars: 196
 - Forks: 24
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-05-04T02:37:33Z
+- Last Updated: 2026-07-28T13:49:36Z
 - Archived: No
 - Created At: 2024-04-05T21:12:53Z
 - Pushed At: 2024-04-08T10:45:53Z

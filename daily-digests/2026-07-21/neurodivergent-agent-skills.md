@@ -1,13 +1,27 @@
 ---
-title: "jpoindexter/neurodivergent-agent-skills"
-category: "Tooling"
-tech_stack: ["Shell", "AI Agent Skills", "Executive Function Research"]
+title: jpoindexter/neurodivergent-agent-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Shell
+- AI Agent Skills
+- Executive Function Research
 quality_score: 5
 rag_relevance: 6
-tags: ["neurodiversity", "AI agents", "executive function", "coding assistants", "accessibility"]
-source: "https://github.com/jpoindexter/neurodivergent-agent-skills"
-discovered_at: "2026-07-13T18:43:13Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- neurodiversity
+- AI agents
+- executive function
+- coding assistants
+- accessibility
+source: https://github.com/jpoindexter/neurodivergent-agent-skills
+stars: 1
+language: Shell
+last_updated: '2026-07-13T18:35:32Z'
+discovered_at: '2026-07-13T18:43:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

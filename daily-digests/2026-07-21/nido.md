@@ -1,13 +1,33 @@
 ---
-title: "Josepavese/nido"
-category: "Orchestrator"
-tech_stack: ["Go", "QEMU", "KVM", "Linux", "macOS", "Windows (WSL2)", "SSH", "MCP (Model Context Protocol)", "VNC"]
+title: Josepavese/nido
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- QEMU
+- KVM
+- Linux
+- macOS
+- Windows (WSL2)
+- SSH
+- MCP (Model Context Protocol)
+- VNC
 quality_score: 9
 rag_relevance: 9
-tags: ["VM Orchestration", "AI Agent Isolation", "Linked Clones", "QEMU/KVM", "MCP Server"]
-source: "https://github.com/Josepavese/nido"
-discovered_at: "2026-07-11T09:27:29Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- VM Orchestration
+- AI Agent Isolation
+- Linked Clones
+- QEMU/KVM
+- MCP Server
+source: https://github.com/Josepavese/nido
+stars: 2
+language: Go
+last_updated: '2026-07-11T09:24:08Z'
+discovered_at: '2026-07-11T09:27:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

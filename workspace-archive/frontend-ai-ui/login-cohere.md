@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Methods**: Supports OAuth via Google and GitHub, alongside traditional email/password login.
-- **Password Recovery**: Provides a "Forgot Password" flow via email reset link (`/reset-password`).
-- **Legal Compliance**: Enforces acceptance of [Terms of Use](https://cohere.com/terms-of-use) and [Privacy Policy](https://cohere.com/privacy) during signup.
+- **Authentication Endpoints**: Provides `/login` and `/register` endpoints via Cohere's dashboard (`dashboard.cohere.com`), supporting OAuth via Google/GitHub and traditional email/password methods.
+
+- **Password Recovery**: Implements `/reset-password` flow for account recovery, linked from the login page.
+
+- **Legal Compliance**: Enforces acceptance of [Terms of Use](https://cohere.com/terms-of-use) and [Privacy Policy](https://cohere.com/privacy) during sign-up.
 
 ## Use Cases
 

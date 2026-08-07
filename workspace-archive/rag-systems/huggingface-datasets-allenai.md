@@ -3,7 +3,7 @@ title: allenai/scifact · Datasets at Hugging Face
 archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/datasets/allenai/scifact
-resource_id: huggingface:datasets/allenai
+resource_id: huggingface:datasets/allenai-65235880
 local_vault_path: ai/rag/huggingface-datasets-allenai.md
 quality_score: 70
 archive_score: 72

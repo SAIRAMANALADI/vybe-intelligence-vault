@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tonykipkemboi/trip_planner_agent
-collected_at: '2026-07-21T22:17:27.571789+05:30'
+collected_at: '2026-08-07T08:54:34.058965+05:30'
 published_at: '2026-05-18T04:13:15Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 143
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-01-16T09:09:17Z'
 pushed_at: '2024-06-19T15:04:05Z'
 resource_id: github:tonykipkemboi/trip_planner_agent
-first_seen: '2026-07-21T22:17:27.571789+05:30'
-last_seen: '2026-07-21T22:17:27.571789+05:30'
-last_checked: '2026-07-21T22:17:27.571789+05:30'
+first_seen: '2026-08-07T08:54:34.058965+05:30'
+last_seen: '2026-08-07T08:54:34.058965+05:30'
+last_checked: '2026-08-07T08:54:34.058965+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **CrewAI-based Python framework** for automated vacation planning using LLM agents, integrating OpenAI models for itinerary generation.
-- **Open-source repository** (143 stars, 62 forks) with modular agent architecture for dynamic trip planning workflows.
-- **Last updated May 2026**, leveraging CrewAI’s multi-agent orchestration to optimize travel logistics, destinations, and scheduling.
+- **CrewAI-based Trip Planning**: Implements AI agents using CrewAI framework to autonomously plan vacations by orchestrating multiple specialized agents (e.g., itinerary, booking, budget).
+- **LLM Integration**: Leverages OpenAI's LLMs (via CrewAI) for natural language understanding and dynamic trip customization based on user inputs.
+- **Python Toolkit**: Open-source Python repository with modular agents, supporting extensibility for additional travel services or APIs.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: tonykipkemboi
 - Stars: 143
-- Forks: 62
+- Forks: 63
 - Language: Python
 - Topics: crewai, llm, llms, open-source, openai, python
 - Last Updated: 2026-05-18T04:13:15Z

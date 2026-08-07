@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://docs.pinecone.io/integrations/claude-code
-published_at: '2026-07-14T19:59:33.415212+05:30'
-collected_at: '2026-07-14T19:59:33.415242+05:30'
+published_at: '2026-08-07T05:57:11.924241+05:30'
+collected_at: '2026-08-07T05:57:11.924252+05:30'
 tags:
 - agents
 - anthropic
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:claude-code-plugin-pinecone-docs
-first_seen: '2026-07-14T19:59:33.415242+05:30'
-last_seen: '2026-07-14T19:59:33.415242+05:30'
-last_checked: '2026-07-14T19:59:33.415242+05:30'
+first_seen: '2026-08-07T05:57:11.924252+05:30'
+last_seen: '2026-08-07T05:57:11.924252+05:30'
+last_checked: '2026-08-07T05:57:11.924252+05:30'
 health_score: 100
 ---
 
@@ -26,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Features**: Pinecone plugin for Claude Code enables AI-powered vector search, RAG, and production AI workloads via MCP server integration, slash commands (`/pinecone:quickstart`, `/pinecone:query`), and natural language index management.
-- **Prerequisites & Installation**: Requires Pinecone API key, Node.js (`npx` in `PATH`), `uv`, and optional Pinecone CLI; installed via `claude plugin install pinecone` or `/plugin install pinecone`, followed by a restart.
-- **MCP Tools & Skills**: Provides tools (`search-docs`, `list-indexes`, `upsert-records`, `cascading-search`) and skills (`/pinecone:assistant`, `/pinecone:full-text-search`, `/pinecone:mcp`) for direct Pinecone operations and workflow automation.
+- **Integration & Features**: Pinecone's Claude Code plugin enables AI-powered vector search, RAG workflows, and production AI workloads via built-in skills (index management, semantic/full-text search, assistant creation) and MCP server integration, supporting natural language commands and slash commands (`/pinecone:quickstart`, `/pinecone:query`).
+
+- **Prerequisites & Installation**: Requires Pinecone API key, Node.js (`npx` in `PATH`), `uv` for assistant commands, and optional Pinecone CLI; installation involves setting `PINECONE_API_KEY`, running `claude plugin install pinecone`, and restarting Claude Code.
+
+- **MCP Tools & Resources**: Plugin includes Pinecone MCP server tools (e.g., `search-docs`, `list-indexes`, `upsert-records`, `cascading-search`) and provides resources like GitHub repo, MCP server guide, and Claude Code documentation.
 
 ## Why It Matters
 
@@ -38,14 +39,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T19:59:33.415212+05:30
+- Published: 2026-08-07T05:57:11.924241+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube

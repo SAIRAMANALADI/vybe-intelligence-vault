@@ -4,17 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-07-21T22:15:47.518464+05:30'
-published_at: '2026-07-18T18:48:03Z'
+collected_at: '2026-08-07T08:52:54.001966+05:30'
+published_at: '2026-08-04T06:02:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
-stars: 64
+stars: 68
 language: Shell
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-07-21T22:15:47.518464+05:30'
-last_seen: '2026-07-21T22:15:47.518464+05:30'
-last_checked: '2026-07-21T22:15:47.518464+05:30'
+first_seen: '2026-08-07T08:52:54.001966+05:30'
+last_seen: '2026-08-07T08:52:54.001966+05:30'
+last_checked: '2026-08-07T08:52:54.001966+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository providing best-practice guidelines for **Claude Code**, including setup configurations, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tools**, **MCP integration**, and **LLM optimization** with Shell-based automation scripts.
-- **Metadata**: 64 stars, 13 forks, last updated **July 18, 2026**; categorized under **AI, Anthropic, and developer-tool best practices**.
+- **Repository Structure**: Contains a curated wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily shell-based, covering CLI tools, MCP (Model Context Protocol), and integration patterns for agentic AI workflows with Anthropic's Claude.
+- **Metadata**: 68 stars, 15 forks, last updated August 4, 2026, with topics spanning AI, LLM optimization, and developer tooling.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: MuhammadUsmanGM
-- Stars: 64
-- Forks: 13
+- Stars: 68
+- Forks: 15
 - Language: Shell
 - Topics: agentic-ai, ai, anthropic, best-practices, claude, claude-code, cli, developer-tools, llm, mcp, templates
-- Last Updated: 2026-07-18T18:48:03Z
+- Last Updated: 2026-08-04T06:02:01Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-22T10:51:35Z

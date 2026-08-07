@@ -1,13 +1,41 @@
 ---
-title: "labsai/EDDI"
-category: "Orchestrator"
-tech_stack: ["Java 25", "Quarkus", "Docker", "Kubernetes", "PostgreSQL", "MongoDB", "NATS JetStream", "Keycloak", "Prometheus", "Grafana", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "Slack API", "OpenAPI", "OAuth 2.0", "ChromaDB", "Gemini Embedding Model"]
+title: labsai/EDDI
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Java 25
+- Quarkus
+- Docker
+- Kubernetes
+- PostgreSQL
+- MongoDB
+- NATS JetStream
+- Keycloak
+- Prometheus
+- Grafana
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent)
+- Slack API
+- OpenAPI
+- OAuth 2.0
+- ChromaDB
+- Gemini Embedding Model
 quality_score: 10
 rag_relevance: 9
-tags: ["multi-agent orchestration", "conversational AI", "RAG", "enterprise compliance", "production-grade"]
-source: "https://github.com/labsai/EDDI"
-discovered_at: "2026-07-20T18:01:04Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- conversational AI
+- RAG
+- enterprise compliance
+- production-grade
+source: https://github.com/labsai/EDDI
+stars: 363
+language: Java
+last_updated: '2026-07-20T17:44:39Z'
+discovered_at: '2026-07-20T18:01:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

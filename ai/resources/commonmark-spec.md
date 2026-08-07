@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: http://spec.commonmark.org
-published_at: '2026-07-21T20:02:28.087971+05:30'
-collected_at: '2026-07-21T20:02:28.087984+05:30'
+published_at: '2026-08-07T05:59:08.036316+05:30'
+collected_at: '2026-08-07T05:59:08.036329+05:30'
 tags:
 - hackernews
 - web-crawled
 status: active
 resource_id: blog:commonmark-spec
-first_seen: '2026-07-21T20:02:28.087984+05:30'
-last_seen: '2026-07-21T20:02:28.087984+05:30'
-last_checked: '2026-07-21T20:02:28.087984+05:30'
+first_seen: '2026-08-07T05:59:08.036329+05:30'
+last_seen: '2026-08-07T05:59:08.036329+05:30'
+last_checked: '2026-08-07T05:59:08.036329+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Specification**: CommonMark Spec (v0.31.2, 2024-01-28) defines a unambiguous syntax and parsing rules for Markdown, authored by John MacFarlane under CC BY-SA 4.0 license.
+- **Specification Overview**: CommonMark is a lightweight, unambiguous syntax specification for Markdown, maintained under CC BY-SA 4.0 by John MacFarlane, with the latest stable version (0.31.2) released on 2024-01-28.
 
-- **Resources**: Includes interactive tools (Dingus), discussion forum, GitHub repository, and JSON test cases for validation and implementation reference.
+- **Versioning & Resources**: The spec includes a versioned changelog, JSON test cases for each release (e.g., `spec.json`), and interactive tools like the "dingus" for real-time parsing validation.
 
-- **Versioning**: Maintains a structured release history with changelogs and diffs for all versions (0.5–0.31.2) to track syntactic and semantic evolution.
+- **Collaborative Ecosystem**: Hosted on GitHub, CommonMark provides discussion forums, a repository for contributions, and a structured release pipeline with 20+ documented versions since 2014.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T20:02:28.087971+05:30
+- Published: 2026-08-07T05:59:08.036316+05:30
 
 ## Related Tags
 

@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.kernel.org/
-published_at: '2026-07-21T20:03:53.402491+05:30'
-collected_at: '2026-07-21T20:03:53.402504+05:30'
+published_at: '2026-08-05T22:34:55.943547+05:30'
+collected_at: '2026-08-05T22:34:55.943561+05:30'
 tags:
 - reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:the-linux-kernel-documentation-the-linux-kernel-do
-first_seen: '2026-07-21T20:03:53.402504+05:30'
-last_seen: '2026-07-21T20:03:53.402504+05:30'
-last_checked: '2026-07-21T20:03:53.402504+05:30'
+first_seen: '2026-08-05T22:34:55.943561+05:30'
+last_seen: '2026-08-05T22:34:55.943561+05:30'
+last_checked: '2026-08-05T22:34:55.943561+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Kernel Documentation Structure**: Organized into development processes, internal APIs (Core, Driver, Subsystems, Locking), user-oriented guides (Admin, Build, Userspace), firmware/devicetree specs, and architecture-specific docs (x86, ARM, RISC-V, etc.).
+- **Kernel Development Workflow**: The Linux Kernel documentation provides structured guides for community interaction, patch submission (`Submitting patches`), and maintainer processes (`Maintainer handbook`), governed by a `Code of conduct` and `Development process` framework.
 
-- **Development & Contribution Workflows**: Defines patch submission (`Submitting patches`), community interaction (`Code of conduct`, `Maintainer handbook`), licensing (`license-rules.html`), and tooling (testing, tracing, livepatching, Rust support).
+- **API & Subsystem Documentation**: Covers internal APIs (`Core API`, `Driver APIs`, `Locking`), subsystem-specific interfaces (`Subsystems`), and architecture-specific implementations (`CPU architectures`), including support for Rust (`Rust`) and live patching (`Livepatching`).
 
-- **Cross-Platform & Translation Support**: Includes firmware expectations, CPU architecture manuals (e.g., powerpc, s390), and localized documentation (Chinese, Japanese, Spanish, etc.) via the `Translations` index.
+- **Tooling & Cross-Platform Support**: Includes development tools (`Development tools`, `Testing guide`, `Tracing`), firmware/Devicetree integration (`Firmware and Devicetree`), build systems (`Build system`), and translations for multiple languages (`Translations`).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T20:03:53.402491+05:30
+- Published: 2026-08-05T22:34:55.943547+05:30
 
 ## Related Tags
 

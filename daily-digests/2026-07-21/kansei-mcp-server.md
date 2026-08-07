@@ -1,13 +1,31 @@
 ---
-title: "kansei-link/kansei-mcp-server"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "npm", "FTS5 (Full-Text Search)", "Trigram indexing"]
+title: kansei-link/kansei-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- npm
+- FTS5 (Full-Text Search)
+- Trigram indexing
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "AI agents", "token optimization", "SaaS integration", "local-first"]
-source: "https://github.com/kansei-link/kansei-mcp-server"
-discovered_at: "2026-07-14T05:28:48Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- MCP
+- AI agents
+- token optimization
+- SaaS integration
+- local-first
+source: https://github.com/kansei-link/kansei-mcp-server
+stars: 1
+language: HTML
+last_updated: '2026-07-14T05:27:20Z'
+discovered_at: '2026-07-14T05:28:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

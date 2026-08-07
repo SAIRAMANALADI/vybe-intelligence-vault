@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/privacy
-published_at: '2026-07-21T22:19:27.326096+05:30'
-collected_at: '2026-07-21T22:19:27.326114+05:30'
+source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+published_at: '2026-08-06T04:03:41.223933+05:30'
+collected_at: '2026-08-06T04:03:41.223956+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-07-21T22:19:27.326114+05:30'
-last_seen: '2026-07-21T22:19:27.326114+05:30'
-last_checked: '2026-07-21T22:19:27.326114+05:30'
+first_seen: '2026-08-06T04:03:41.223956+05:30'
+last_seen: '2026-08-06T04:03:41.223956+05:30'
+last_checked: '2026-08-06T04:03:41.223956+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (device/browser identifiers, IP, sensor data) information, with retention tied to user settings and regulatory compliance.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Android) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser telemetry) data to personalize services and ads.
 
-- **Technical Mechanisms**: Uses unique identifiers (cookies, pixel tags, local storage), cross-service sync (e.g., Chrome browsing history), and telemetry (crash reports, system activity) to enable personalization, security, and cross-device functionality.
+- **Location & Activity Tracking**: Location data (GPS, IP, Wi-Fi/Bluetooth signals) and user activity (searches, interactions, call logs) are collected and stored, with retention tied to account settings (e.g., Timeline, sync preferences).
 
-- **Third-Party & Public Data**: Collects location data (GPS, Wi-Fi, IP), integrates with partners for ads/research, and indexes publicly available information (e.g., news articles) while adhering to data transfer frameworks (e.g., GDPR, DPF).
+- **Privacy Controls & Compliance**: Users can manage data via Google Account settings (e.g., export/delete, ad personalization), while Google adheres to regulatory frameworks (e.g., GDPR) and provides transparency via key terms and archived policy versions.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:19:27.326096+05:30
+- Published: 2026-08-06T04:03:41.223933+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/privacy
+Original source: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true

@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-07-21T22:14:42.468399+05:30'
-published_at: '2026-07-21T16:40:02Z'
+collected_at: '2026-08-07T08:51:48.903728+05:30'
+published_at: '2026-08-06T22:49:19Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-stars: 21142
+stars: 21251
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-06-16T17:33:44Z'
-pushed_at: '2026-07-14T18:50:31Z'
+pushed_at: '2026-07-31T21:07:09Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-07-21T22:14:42.468399+05:30'
-last_seen: '2026-07-21T22:14:42.468399+05:30'
-last_checked: '2026-07-21T22:14:42.468399+05:30'
+first_seen: '2026-08-07T08:51:48.903728+05:30'
+last_seen: '2026-08-07T08:51:48.903728+05:30'
+last_checked: '2026-08-07T08:51:48.903728+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end GenAI agent development**: Provides code-first tutorials covering the entire lifecycle from prototyping to enterprise deployment of production-grade GenAI agents, leveraging frameworks like LangGraph and MCP.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on scalability and robustness.
 
-- **Multi-agent systems & MLOps integration**: Focuses on building scalable, observable multi-agent systems with observability, RAG, and MLOps best practices for enterprise-grade deployment.
+- **Multi-Framework Integration**: Supports advanced agentic AI concepts using frameworks like LangGraph, MCP, and multi-agent systems, with practical implementations in Python and Jupyter Notebooks.
 
-- **Python & Jupyter Notebook-based**: Utilizes Python and Jupyter Notebooks for hands-on, technical tutorials on agent frameworks, LLMs, and deployment strategies in GenAI applications.
+- **MLOps & Observability Focus**: Includes tutorials on deployment, MLOps, RAG, and observability for AI agents, ensuring enterprise-grade reliability and monitoring in production environments.
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 21142
-- Forks: 2816
+- Stars: 21251
+- Forks: 2818
 - Language: Jupyter Notebook
 - Topics: agent, agent-framework, agentic-ai, agents, ai-agents, deployment, genai, generative-ai, langgraph, llm, llms, mcp, mlops, multi-agent-systems, observability, production, python, rag, tutorials
-- Last Updated: 2026-07-21T16:40:02Z
+- Last Updated: 2026-08-06T22:49:19Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-06-16T17:33:44Z
-- Pushed At: 2026-07-14T18:50:31Z
+- Pushed At: 2026-07-31T21:07:09Z
 
 ## Possible Use Cases
 

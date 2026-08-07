@@ -1,13 +1,29 @@
 ---
-title: "peruzzo3265/ClawTrap"
-category: "Tooling"
-tech_stack: ["JavaScript", "WebSockets", "Procedural Generation", "Episodic Memory", "Windows API"]
+title: peruzzo3265/ClawTrap
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- WebSockets
+- Procedural Generation
+- Episodic Memory
+- Windows API
 quality_score: 5
 rag_relevance: 4
-tags: ["AI-driven game", "procedural maze", "episodic memory", "file system integration", "horror experience"]
-source: "https://github.com/peruzzo3265/ClawTrap"
-discovered_at: "2026-07-11T11:03:43Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI-driven game
+- procedural maze
+- episodic memory
+- file system integration
+- horror experience
+source: https://github.com/peruzzo3265/ClawTrap
+stars: 0
+language: JavaScript
+last_updated: '2026-07-11T11:01:14Z'
+discovered_at: '2026-07-11T11:03:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

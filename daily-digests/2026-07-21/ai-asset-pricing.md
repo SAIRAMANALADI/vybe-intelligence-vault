@@ -1,13 +1,28 @@
 ---
-title: "monda9837/ai-asset-pricing"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "CSV/Excel Data Handling", "Financial Data Analysis"]
+title: monda9837/ai-asset-pricing
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Windows Desktop App
+- CSV/Excel Data Handling
+- Financial Data Analysis
 quality_score: 7
 rag_relevance: 4
-tags: ["financial analysis", "asset pricing", "desktop tool", "data exploration", "Windows"]
-source: "https://github.com/monda9837/ai-asset-pricing"
-discovered_at: "2026-07-10T20:22:20Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- financial analysis
+- asset pricing
+- desktop tool
+- data exploration
+- Windows
+source: https://github.com/monda9837/ai-asset-pricing
+stars: 1
+language: Python
+last_updated: '2026-07-10T20:20:52Z'
+discovered_at: '2026-07-10T20:22:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

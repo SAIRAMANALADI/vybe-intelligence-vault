@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md
-published_at: '2026-07-20T20:10:42.699352+05:30'
-collected_at: '2026-07-20T20:10:42.699367+05:30'
+published_at: '2026-08-05T09:10:16.381677+05:30'
+collected_at: '2026-08-05T09:10:16.381687+05:30'
 tags:
 - anthropic
 - benchmark
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-07-20T20:10:42.699367+05:30'
-last_seen: '2026-07-20T20:10:42.699367+05:30'
-last_checked: '2026-07-20T20:10:42.699367+05:30'
+first_seen: '2026-08-05T09:10:16.381687+05:30'
+last_seen: '2026-08-05T09:10:16.381687+05:30'
+last_checked: '2026-08-05T09:10:16.381687+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Quickstart Setup**: The `ragas quickstart rag_eval` command generates a modular project with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM application), and structured directories (`evals/datasets/`, `experiments/`, `logs/`) for dataset management and results storage.
+- **Project Setup**: Quickstart command generates a structured project (`rag_eval/`) with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM app), and artifacts in `evals/` (datasets, experiments, logs).
 
-- **LLM Integration Flexibility**: Supports multiple LLM providers (OpenAI, Anthropic, Google, Ollama, or custom OpenAI-compatible APIs) via the `llm_factory` function, allowing seamless swapping of models by configuring API keys or local endpoints.
+- **LLM Integration**: Supports multiple providers (OpenAI, Anthropic, Google, Ollama, custom) via `llm_factory` in `_init_clients()`, with async evaluation using pre-built metrics like `DiscreteMetric`.
 
-- **Evaluation Framework**: Uses `SingleTurnSample` for test cases and pre-built metrics (e.g., `DiscreteMetric` for aspect critique) to automate validation of responses against ground truth, with results saved as CSV files in `evals/experiments/`.
+- **Evaluation Workflow**: Loads test datasets (e.g., `SingleTurnSample`), queries the RAG system, evaluates responses against ground truth using metrics, and saves results to CSV in `evals/experiments/`.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T20:10:42.699352+05:30
+- Published: 2026-08-05T09:10:16.381677+05:30
 
 ## Related Tags
 

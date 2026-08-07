@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/latest/getstarted/rag_testset_generation/
-published_at: '2026-07-14T13:02:59.934376+05:30'
-collected_at: '2026-07-14T13:02:59.934393+05:30'
+published_at: '2026-08-07T08:54:35.637882+05:30'
+collected_at: '2026-08-07T08:54:35.637902+05:30'
 tags:
 - anthropic
 - dataset
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:testset-generation-for-rag-ragas
-first_seen: '2026-07-14T13:02:59.934393+05:30'
-last_seen: '2026-07-14T13:02:59.934393+05:30'
-last_checked: '2026-07-14T13:02:59.934393+05:30'
+first_seen: '2026-08-07T08:54:35.637902+05:30'
+last_seen: '2026-08-07T08:54:35.637902+05:30'
+last_checked: '2026-08-07T08:54:35.637902+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Testset Generation Pipeline**: Uses a two-phase process—(1) **Knowledge Graph Creation** from input documents with transformations (e.g., default_transforms) enriching nodes/relationships via LLM/embedding models, and (2) **Testset Generation** leveraging the knowledge graph to synthesize scenarios (e.g., SingleHopSpecificQuerySynthesizer, MultiHopAbstractQuerySynthesizer) into a structured test dataset.
+- **Knowledge Graph Construction**: Documents are parsed into nodes (`NodeType.DOCUMENT`) with metadata, forming a `KnowledgeGraph`; transformations (e.g., `default_transforms`) enrich the graph with additional nodes/relationships using LLM/embeddings for contextual augmentation.
 
-- **LLM/Embedding Integration**: Supports multiple providers (OpenAI, AWS Bedrock, Google Cloud Vertex AI, Azure) via LangChain wrappers (LangchainLLMWrapper, LangchainEmbeddingsWrapper) or LlamaIndex (LlamaIndexLLMWrapper), with configurations for model IDs, API keys, and deployment-specific parameters (e.g., AWS region, Azure endpoint).
+- **Testset Generation Pipeline**: Uses `TestsetGenerator` with a configured LLM/embeddings model to synthesize queries from the `KnowledgeGraph` via scenario-based synthesizers (e.g., `SingleHopSpecificQuerySynthesizer`, `MultiHopAbstractQuerySynthesizer`), producing a structured test dataset.
 
-- **Output & Customization**: Generates a testset DataFrame (dataset.to_pandas()) with configurable query distributions (default_query_distribution), and allows saving/loading the intermediate KnowledgeGraph (e.g., kg.save("knowledge_graph.json")) for reuse or further analysis.
+- **Query Distribution Customization**: Default query distributions (e.g., 50% single-hop, 25% multi-hop abstract) can be modified; generated testsets are exportable as Pandas DataFrames for analysis/validation.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:02:59.934376+05:30
+- Published: 2026-08-07T08:54:35.637882+05:30
 
 ## Related Tags
 

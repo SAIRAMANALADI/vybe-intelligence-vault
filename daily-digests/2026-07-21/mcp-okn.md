@@ -1,13 +1,31 @@
 ---
-title: "sbl-sdsc/mcp-okn"
-category: "Orchestrator"
-tech_stack: ["Python", "SPARQL", "MCP (Model Context Protocol)", "Proto-OKN", "RDF/OWL", "Markdown", "HTML"]
+title: sbl-sdsc/mcp-okn
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- SPARQL
+- MCP (Model Context Protocol)
+- Proto-OKN
+- RDF/OWL
+- Markdown
+- HTML
 quality_score: 9
 rag_relevance: 10
-tags: ["Knowledge Graph", "SPARQL Federation", "Proto-OKN", "Crosswalk Integration", "MCP Server"]
-source: "https://github.com/sbl-sdsc/mcp-okn"
-discovered_at: "2026-07-11T19:00:00Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- Knowledge Graph
+- SPARQL Federation
+- Proto-OKN
+- Crosswalk Integration
+- MCP Server
+source: https://github.com/sbl-sdsc/mcp-okn
+stars: 1
+language: Python
+last_updated: '2026-07-11T18:50:03Z'
+discovered_at: '2026-07-11T19:00:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -3,22 +3,24 @@ title: Terms of Service
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://scite.ai/terms
-published_at: '2026-07-18T16:58:18.407986+05:30'
-collected_at: '2026-07-18T16:58:18.407993+05:30'
+source_url: https://www.llamaindex.ai/legal/terms-of-service
+published_at: '2026-08-06T04:02:55.368399+05:30'
+collected_at: '2026-08-06T04:02:55.368416+05:30'
 tags:
 - agents
+- benchmark
 - hackernews
+- meta-ai
 - models
-- paper
 - rag
+- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:terms-of-service
-first_seen: '2026-07-18T16:58:18.407993+05:30'
-last_seen: '2026-07-18T16:58:18.407993+05:30'
-last_checked: '2026-07-18T16:58:18.407993+05:30'
+first_seen: '2026-08-06T04:02:55.368416+05:30'
+last_seen: '2026-08-06T04:02:55.368416+05:30'
+last_checked: '2026-08-06T04:02:55.368416+05:30'
 health_score: 100
 ---
 
@@ -26,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Functionality**: Scite's platform uses proprietary NLP-based classifiers to analyze scientific articles, providing aggregated results (Classifier Results) that indicate whether claims in a paper are supported, contradicted, or referenced by subsequent research; AI-generated content (AI Content) is derived from these analyses but does not use user-submitted data for model training.
+- **Arbitration & Liability Waiver**: Mandatory individual arbitration and class action waiver clauses (Sections 14.2 & 14.3) enforce binding arbitration for disputes, waiving jury trials and class actions unless explicitly opted out per instructions.
 
-- **User Responsibilities & Restrictions**: Users must ensure compliance with intellectual property laws, avoid prohibited content (e.g., obscene, defamatory material), and acknowledge sole responsibility for evaluating article credibility and legal obligations; unauthorized use of proprietary classifier technology or Classifier Results (e.g., derivative works, redistribution) is prohibited.
+- **User Account & Access Controls**: Users must maintain secure, non-transferable accounts (Section 1.2) with strict prohibitions on reverse engineering, scraping, or unauthorized automation (Section 2.2a-b), while organizational accounts bind entities to shared liability (Section 1.2b).
 
-- **Legal & Financial Terms**: Arbitration clauses replace court proceedings for disputes; users under 13 are prohibited; subscription fees are auto-charged monthly unless canceled 30+ days prior to renewal; third-party payment processors handle transactions without storing credit card data.
+- **Termination & Third-Party Compliance**: LlamaIndex reserves rights to suspend/modify service without liability (Section 1.3) and disclaims responsibility for third-party products (Section 1.4), while enforcing strict acceptable use policies (Section 2.2g-o) to prevent harmful or competitive misuse.
 
 ## Why It Matters
 
@@ -40,18 +42,20 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T16:58:18.407986+05:30
+- Published: 2026-08-06T04:02:55.368399+05:30
 
 ## Related Tags
 
 - agents
+- benchmark
 - hackernews
+- meta-ai
 - models
-- paper
 - rag
+- scripts
 - web-crawled
 - youtube
 
 ## Source
 
-Original source: https://scite.ai/terms
+Original source: https://www.llamaindex.ai/legal/terms-of-service

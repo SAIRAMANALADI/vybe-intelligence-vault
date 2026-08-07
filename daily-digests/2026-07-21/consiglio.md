@@ -1,13 +1,33 @@
 ---
-title: "rickenator/Consiglio"
-category: "UI Component"
-tech_stack: ["Electron", "React", "TypeScript", "Node.js", "Codex CLI", "OpenAI API", "Ollama", "llama.cpp", "Electron safeStorage"]
+title: rickenator/Consiglio
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Node.js
+- Codex CLI
+- OpenAI API
+- Ollama
+- llama.cpp
+- Electron safeStorage
 quality_score: 9
 rag_relevance: 7
-tags: ["desktop workspace", "persistent tasks", "Codex integration", "file management", "provider switching"]
-source: "https://github.com/rickenator/Consiglio"
-discovered_at: "2026-07-14T02:13:44Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- desktop workspace
+- persistent tasks
+- Codex integration
+- file management
+- provider switching
+source: https://github.com/rickenator/Consiglio
+stars: 0
+language: TypeScript
+last_updated: '2026-07-14T02:11:16Z'
+discovered_at: '2026-07-14T02:13:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

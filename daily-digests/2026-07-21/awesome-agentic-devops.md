@@ -1,13 +1,30 @@
 ---
-title: "DevOpsAIguru123/awesome-agentic-devops"
-category: "Tooling"
-tech_stack: ["Python", "YAML", "GitHub Actions", "Model Context Protocol (MCP)", "CI/CD Pipelines", "OpenTelemetry"]
+title: DevOpsAIguru123/awesome-agentic-devops
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- YAML
+- GitHub Actions
+- Model Context Protocol (MCP)
+- CI/CD Pipelines
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 8
-tags: ["agentic-devops", "infrastructure-automation", "mcp-servers", "safety-assessment", "production-readiness"]
-source: "https://github.com/DevOpsAIguru123/awesome-agentic-devops"
-discovered_at: "2026-07-10T13:11:11Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- agentic-devops
+- infrastructure-automation
+- mcp-servers
+- safety-assessment
+- production-readiness
+source: https://github.com/DevOpsAIguru123/awesome-agentic-devops
+stars: 13
+language: Python
+last_updated: '2026-07-10T13:09:14Z'
+discovered_at: '2026-07-10T13:11:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

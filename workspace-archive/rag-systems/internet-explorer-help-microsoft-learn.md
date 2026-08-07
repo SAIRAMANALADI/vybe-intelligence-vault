@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **End of Life**: Internet Explorer 11 (IE11) support concluded on **June 15, 2022**, with Microsoft mandating migration to **Microsoft Edge** for legacy IE compatibility via **IE Mode**.
+- **End of Support**: Internet Explorer 11 (IE11) support concluded on **June 15, 2022**; legacy sites requiring IE11 can be accessed via **Internet Explorer mode** in Microsoft Edge.
 
-- **Migration Path**: Users can seamlessly transition to **Edge** by importing IE11 data (favorites, settings, etc.), leveraging cross-platform sync (Windows, macOS, iOS, Android) for unified browsing.
+- **Migration to Edge**: Microsoft Edge enables seamless transition from IE11 by importing **favorites, settings, and browsing data**, offering improved **performance, privacy, and cross-device syncing** (Windows, macOS, iOS, Android).
 
-- **IE Mode in Edge**: Edge supports **IE Mode** to render legacy IE-dependent sites, ensuring compatibilit
+- **IE Mode Functionality**: Edge’s **IE mode** emulates IE11 within a Chromiu
 
 ## Use Cases
 

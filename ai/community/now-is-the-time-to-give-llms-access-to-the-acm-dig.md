@@ -1,0 +1,51 @@
+---
+title: Now is the time to give LLMs access to the ACM digital library
+category: ai/community
+source_type: hackernews
+source_name: Hacker News AI
+source_url: https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library
+hn_url: https://news.ycombinator.com/item?id=49084987
+score: 172
+author: rbanffy
+comments_count: 146
+published_at: '2026-07-28T20:31:12+05:30'
+collected_at: '2026-07-29T17:05:08.570425+05:30'
+tags:
+- hackernews
+- llm
+status: inactive
+resource_id: hackernews:now-is-the-time-to-give-llms-access-to-the-acm-dig
+first_seen: '2026-07-29T01:23:16.421564+05:30'
+last_seen: '2026-07-29T17:05:08.570425+05:30'
+last_checked: '2026-07-29T17:05:08.570425+05:30'
+health_score: 100
+---
+
+
+# Now is the time to give LLMs access to the ACM digital library
+
+## Summary
+
+Hacker News story by rbanffy. Score: 172, Comments: 146.
+Original Link: https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
+
+## Why It Matters
+
+This is a trending discussion or resource collected from the Hacker News community. It highlights community sentiment, product launches, or technical writeups.
+
+## Discussion Details
+
+- Author: rbanffy
+- Score: 172 Upvotes
+- Comments: 146 Discussions
+- Hacker News Link: https://news.ycombinator.com/item?id=49084987
+- Original Article: https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library
+
+## Implementation Notes
+
+Review community comments to extract technical caveats, alternative recommendations, or project launch workflows.
+
+## Related Tags
+
+- hackernews
+- llm

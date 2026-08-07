@@ -1,13 +1,29 @@
 ---
-title: "zekker6/mcp-alertmanager"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Prometheus Alertmanager", "HTTP", "SSE"]
+title: zekker6/mcp-alertmanager
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Prometheus Alertmanager
+- HTTP
+- SSE
 quality_score: 8
 rag_relevance: 6
-tags: ["MCP server", "Alertmanager", "Observability", "Incident Management", "Go"]
-source: "https://github.com/zekker6/mcp-alertmanager"
-discovered_at: "2026-07-19T11:57:13Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- MCP server
+- Alertmanager
+- Observability
+- Incident Management
+- Go
+source: https://github.com/zekker6/mcp-alertmanager
+stars: 1
+language: Go
+last_updated: '2026-07-19T11:47:37Z'
+discovered_at: '2026-07-19T11:57:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-07-21T22:19:13.854632+05:30'
-collected_at: '2026-07-21T22:19:13.854648+05:30'
+published_at: '2026-08-07T08:56:14.910531+05:30'
+collected_at: '2026-08-07T08:56:14.910542+05:30'
 tags:
 - agents
 - anthropic
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-07-21T22:19:13.854648+05:30'
-last_seen: '2026-07-21T22:19:13.854648+05:30'
-last_checked: '2026-07-21T22:19:13.854648+05:30'
+first_seen: '2026-08-07T08:56:14.910542+05:30'
+last_seen: '2026-08-07T08:56:14.910542+05:30'
+last_checked: '2026-08-07T08:56:14.910542+05:30'
 health_score: 100
 ---
 
@@ -24,7 +24,7 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support complex task execution via planning, subagents, and filesystem access.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support planning, subagents, and file system interactions for complex tasks.
 
 - **Commercial Platform**: LangSmith offers a production-grade platform for building and monitoring LLM applications.
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:19:13.854632+05:30
+- Published: 2026-08-07T08:56:14.910531+05:30
 
 ## Related Tags
 

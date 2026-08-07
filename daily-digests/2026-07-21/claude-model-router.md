@@ -1,13 +1,29 @@
 ---
-title: "manishk753/claude-model-router"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude API", "MCP (Model Context Protocol)", "JSON", "Shell Scripting"]
+title: manishk753/claude-model-router
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Claude API
+- MCP (Model Context Protocol)
+- JSON
+- Shell Scripting
 quality_score: 8
 rag_relevance: 7
-tags: ["model routing", "cost optimization", "Claude API", "MCP server", "dynamic tier selection"]
-source: "https://github.com/manishk753/claude-model-router"
-discovered_at: "2026-07-21T15:03:41Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- model routing
+- cost optimization
+- Claude API
+- MCP server
+- dynamic tier selection
+source: https://github.com/manishk753/claude-model-router
+stars: 0
+language: Python
+last_updated: '2026-07-21T15:02:15Z'
+discovered_at: '2026-07-21T15:03:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

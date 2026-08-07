@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/articles/lcp
-published_at: '2026-07-14T13:08:25.847005+05:30'
-collected_at: '2026-07-14T13:08:25.847018+05:30'
+published_at: '2026-08-01T09:32:15.833447+05:30'
+collected_at: '2026-08-01T09:32:15.833461+05:30'
 tags:
+- benchmark
 - rag
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:largest-contentful-paint-lcp-articles-web-dev
-first_seen: '2026-07-14T13:08:25.847018+05:30'
-last_seen: '2026-07-14T13:08:25.847018+05:30'
-last_checked: '2026-07-14T13:08:25.847018+05:30'
+first_seen: '2026-08-01T09:32:15.833461+05:30'
+last_seen: '2026-08-01T09:32:15.833461+05:30'
+last_checked: '2026-08-01T09:32:15.833461+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **LCP Definition & Purpose**: Largest Contentful Paint (LCP) measures when the main content of a page is likely loaded, marking the point where the largest visible image, text block, or video renders in the viewport, ensuring perceived load speed aligns with user experience.
-
-- **LCP Thresholds & Heuristics**: A good LCP score is ≤2.5s (75th percentile), with elements considered including `<img>`, `<image>`, `<video>`, block-level text containers, and background images (excluding placeholders or full-viewport elements). Chromium-based browsers exclude invisible/low-entropy elements via heuristics.
-
-- **LCP Reporting & Edge Cases**: LCP dispatches `PerformanceEntry` events dynamically as the largest element changes, stops on user interaction, and accounts for layout shifts. Render time (not just load time) is now exposed in Chrome 133+ for cross-origin resources, improving accuracy when `Timing-Allow-Origin` is absent.
+- **LCP Definition & Purpose**: Largest Contentful Paint (LCP) measures when the largest image, text block, or video element becomes visible in the viewport, indicating the main content has likely loaded (threshold: **≤2.5s** for good UX, benchmarked at the **75th percentile** across devices).
+- **Element Eligibility & Heuristics**: Only block-level elements (e.g., `<img>`, `<video>`, text containers) are considered; invisible/placeholder elements (opacity=0, full-viewport backgrounds) are excluded via Chromium-based heuristics to align with user-perceived content.
+- **Measurement Nuances**: LCP is reported dynamically as the largest element changes, stops on user interaction, and accounts for render time (not just load time); security restrictions (e.g., `Timing-Allow-Origin`) historically skewed accuracy but are resolved in Chrome 133+.
 
 ## Why It Matters
 
@@ -37,10 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-14T13:08:25.847005+05:30
+- Published: 2026-08-01T09:32:15.833447+05:30
 
 ## Related Tags
 
+- benchmark
 - rag
 - reddit
 - web-crawled

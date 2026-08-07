@@ -1,13 +1,37 @@
 ---
-title: "YashvantHange/Investo"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Yahoo Finance API", "Alpha Vantage API", "Finnhub API", "FMP API", "Playwright (for PDF generation)", "Pydantic", "FastAPI", "BeautifulSoup (for web scraping)", "Pandas", "NumPy", "SciPy"]
+title: YashvantHange/Investo
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Yahoo Finance API
+- Alpha Vantage API
+- Finnhub API
+- FMP API
+- Playwright (for PDF generation)
+- Pydantic
+- FastAPI
+- BeautifulSoup (for web scraping)
+- Pandas
+- NumPy
+- SciPy
 quality_score: 9
 rag_relevance: 8
-tags: ["financial analysis", "investment agent", "MCP server", "valuation tools", "AI-driven research"]
-source: "https://github.com/YashvantHange/Investo"
-discovered_at: "2026-07-18T17:56:19Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- financial analysis
+- investment agent
+- MCP server
+- valuation tools
+- AI-driven research
+source: https://github.com/YashvantHange/Investo
+stars: 0
+language: Python
+last_updated: '2026-07-18T17:52:04Z'
+discovered_at: '2026-07-18T17:56:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

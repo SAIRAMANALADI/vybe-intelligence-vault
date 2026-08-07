@@ -4,18 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.firecrawl.dev/features/alpha/deep-research
-published_at: '2026-07-21T14:20:49.693330+05:30'
-collected_at: '2026-07-21T14:20:49.693344+05:30'
+published_at: '2026-08-05T01:33:31.390671+05:30'
+collected_at: '2026-08-05T01:33:31.390677+05:30'
 tags:
 - agents
 - hackernews
 - web-crawled
-- workflows
 status: active
 resource_id: blog:deep-research-firecrawl
-first_seen: '2026-07-21T14:20:49.693344+05:30'
-last_seen: '2026-07-21T14:20:49.693344+05:30'
-last_checked: '2026-07-21T14:20:49.693344+05:30'
+first_seen: '2026-08-05T01:33:31.390677+05:30'
+last_seen: '2026-08-05T01:33:31.390677+05:30'
+last_checked: '2026-08-05T01:33:31.390677+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **API Workflow**: `/deep-research` endpoint autonomously performs multi-step research by iterating through search, extraction, analysis, and synthesis phases, with configurable parameters (`maxDepth`, `timeLimit`, `maxUrls`) to control depth, duration, and source count.
+- **Autonomous Research Pipeline**: The `/deep-research` endpoint performs AI-driven, multi-stage research by iteratively analyzing a query, searching relevant web content, extracting key insights, and synthesizing findings into structured outputs (activities, sources, and final analysis) with source attribution.
 
-- **Response Structure**: Returns structured JSON with `finalAnalysis` (synthesized insights), `activities` (detailed research steps with timestamps and statuses), and `sources` (curated URLs with metadata), enabling real-time progress tracking via `currentDepth` and `status` fields.
+- **Configurable Parameters**: Research depth (`maxDepth`), time limits (`timeLimit`), and URL cap (`maxUrls`) can be tuned (e.g., `maxDepth=5`, `timeLimit=180s`, `maxUrls=15`) to balance thoroughness and cost, with billing based on URLs processed (1 credit/URL).
 
-- **Technical Constraints**: Alpha-stage limitations include 10-minute time caps, reliance on public sources (no paywall access), and billing based on URL credits (1 credit per URL analyzed), with potential evolution in methodology and output formats.
+- **Real-Time Monitoring & Output**: Asynchronous jobs provide progress tracking via `activities` (search/extract/analyze/synthesize steps) and return structured JSON responses with `finalAnalysis`, `sources`, and status updates (`processing`/`completed`), optionally customizable via `systemPrompt` and `analysisPrompt`.
 
 ## Why It Matters
 
@@ -37,14 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T14:20:49.693330+05:30
+- Published: 2026-08-05T01:33:31.390671+05:30
 
 ## Related Tags
 
 - agents
 - hackernews
 - web-crawled
-- workflows
 
 ## Source
 

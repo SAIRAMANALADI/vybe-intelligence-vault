@@ -1,13 +1,32 @@
 ---
-title: "Buzzr-app/dfs-engine"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "React", "Zod", "ESM/CJS", "Jest", "GitHub Actions"]
+title: Buzzr-app/dfs-engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- React
+- Zod
+- ESM/CJS
+- Jest
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["sports betting", "DFS settlement", "odds calculation", "AI agent tools", "audit trails"]
-source: "https://github.com/Buzzr-app/dfs-engine"
-discovered_at: "2026-07-16T18:05:46Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- sports betting
+- DFS settlement
+- odds calculation
+- AI agent tools
+- audit trails
+source: https://github.com/Buzzr-app/dfs-engine
+stars: 1
+language: TypeScript
+last_updated: '2026-07-16T18:05:10Z'
+discovered_at: '2026-07-16T18:05:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

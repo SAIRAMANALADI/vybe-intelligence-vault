@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://jqlang.github.io/jq/
-published_at: '2026-07-19T14:14:12.073619+05:30'
-collected_at: '2026-07-19T14:14:12.073647+05:30'
+published_at: '2026-08-03T09:36:06.089377+05:30'
+collected_at: '2026-08-03T09:36:06.089388+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:jq
-first_seen: '2026-07-19T14:14:12.073647+05:30'
-last_seen: '2026-07-19T14:14:12.073647+05:30'
-last_checked: '2026-07-19T14:14:12.073647+05:30'
+first_seen: '2026-08-03T09:36:06.089388+05:30'
+last_seen: '2026-08-03T09:36:06.089388+05:30'
+last_checked: '2026-08-03T09:36:06.089388+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Lightweight C-based JSON processor** with zero runtime dependencies, distributed as a single portable binary for cross-platform execution (e.g., `scp`-able between compatible systems).
-- **Functionality akin to `sed`/`awk` for JSON**, enabling streamlined data transformation via filtering, mapping, and structural manipulation with concise syntax.
-- **Version 1.8.2 released (June 2026)**, featuring platform-specific binaries (Linux/AMD64, ARM64, macOS ARM/Intel, Windows AMD64) and modular extensibility via a C-based architecture.
+- **Portable JSON processor**: `jq` is a lightweight, dependency-free command-line tool written in C, enabling JSON data manipulation (filtering, mapping, transformation) with minimal effort, akin to `sed` for JSON.
+
+- **Cross-platform binary compatibility**: Single-binary distribution supports multiple architectures (AMD64, ARM64) across Linux, macOS, and Windows, enabling seamless deployment via `scp` to remote systems.
+
+- **Version history**: Latest stable release is `jq 1.8.2` (June 2026), with prior versions including security patches (e.g., `1.7.1` addressing CVE-2023-50246/CVE-2023-50268) and feature updates (e.g., `1.5` adding datetime/math functions and streaming parser).
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-19T14:14:12.073619+05:30
+- Published: 2026-08-03T09:36:06.089377+05:30
 
 ## Related Tags
 

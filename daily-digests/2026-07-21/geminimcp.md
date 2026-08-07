@@ -1,13 +1,30 @@
 ---
-title: "chew-z/GeminiMCP"
-category: "Agent Framework"
-tech_stack: ["Go", "MCP (Model Control Protocol)", "DeepSeek API", "Qwen API", "JWT", "GitHub API"]
+title: chew-z/GeminiMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- MCP (Model Control Protocol)
+- DeepSeek API
+- Qwen API
+- JWT
+- GitHub API
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "DeepSeek integration", "Qwen integration", "GitHub context", "AI coding assistant"]
-source: "https://github.com/chew-z/GeminiMCP"
-discovered_at: "2026-07-18T08:09:31Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- MCP server
+- DeepSeek integration
+- Qwen integration
+- GitHub context
+- AI coding assistant
+source: https://github.com/chew-z/GeminiMCP
+stars: 2
+language: Go
+last_updated: '2026-07-18T08:03:27Z'
+discovered_at: '2026-07-18T08:09:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

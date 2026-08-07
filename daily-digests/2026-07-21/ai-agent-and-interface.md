@@ -1,13 +1,30 @@
 ---
-title: "NguyenDK2247/AI-Agent-and-Interface"
-category: "Agent Framework"
-tech_stack: ["React", "Next.js", "Tailwind CSS", "Spring Boot", "Java", "LangChain4j"]
+title: NguyenDK2247/AI-Agent-and-Interface
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- React
+- Next.js
+- Tailwind CSS
+- Spring Boot
+- Java
+- LangChain4j
 quality_score: 5
 rag_relevance: 6
-tags: ["AI agent", "web interface", "weather automation", "LangChain4j", "real-time updates"]
-source: "https://github.com/NguyenDK2247/AI-Agent-and-Interface"
-discovered_at: "2026-07-15T08:05:52Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI agent
+- web interface
+- weather automation
+- LangChain4j
+- real-time updates
+source: https://github.com/NguyenDK2247/AI-Agent-and-Interface
+stars: 0
+language: Java
+last_updated: '2026-07-15T08:02:29Z'
+discovered_at: '2026-07-15T08:05:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

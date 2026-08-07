@@ -8,20 +8,21 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 ## Top Matched Resources
 
-- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
+- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) (workflow - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) (framework - USEFUL Tier)
-- [The Compass REST API](https://developer.atlassian.com/cloud/compass/rest/v1/intro/#about) (tutorial - USEFUL Tier)
-- [Overview (egeria 6.1-SNAPSHOT API)](https://odpi.github.io/egeria/index.html) (dataset - USEFUL Tier)
-- [Marquez Project | Marquez Project](https://marquezproject.github.io/marquez) (dataset - USEFUL Tier)
-- [Docker Hub | Docker Docs](https://docs.docker.com/docker-hub) (framework - USEFUL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
+- [AgoraSim: A Hybrid Agent-Based Modeling Framework](https://arxiv.org/abs/2607.05999) (framework - USEFUL Tier)
+- [Newest 'tensorflow' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow) (dataset - USEFUL Tier)
+- [Structured outputs | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/structured-output) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
 ## Best Learning Resources
 
@@ -39,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-07-21 22:30 IST*
+*Last updated: 2026-08-07 09:08 IST*

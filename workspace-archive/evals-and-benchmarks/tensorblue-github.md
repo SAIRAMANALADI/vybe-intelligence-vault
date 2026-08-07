@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub user `tensorblue` has **0 public repositories, projects, or packages** as of current data retrieval.
-- The account holds **51 stars** across unspecified repositories, with no follower or following metrics visible.
-- No additional technical metadata (e.g., account creation date, activity logs) is publicly accessible via the provided GitHub profile interface.
+- GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **56 stars** across unspecified contributions.
+- User account is **unfollowed by default**, with no public activity or visible engagement metrics.
+- GitHub UI indicates an **error state** when attempting to load repositories, suggesting potential account deactivation or data retrieval issues.
 
 ## Use Cases
 

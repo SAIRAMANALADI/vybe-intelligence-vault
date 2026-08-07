@@ -2,7 +2,7 @@
 title: Mintlify - The Knowledge Platform Built for Agents
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=affinityco
+source_url: https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=firecrawl
 resource_id: blog:mintlify-the-knowledge-platform-built-for-agents
 local_vault_path: ai/agents/mintlify-the-knowledge-platform-built-for-agents.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Definition**: Agent-native platforms are designed to natively support autonomous agents, enabling seamless integration, execution, and management of agent-based workflows without requiring external orchestration layers.
-- **Core Features**: Includes built-in agent lifecycle management, inter-agent communication protocols, and native tool integration (e.g., APIs, databases, or external services) for real-time decision-making.
-- **Use Cases**: Optimized for multi-agent systems (MAS), AI-driven
+- **Definition**: Agent-native platforms are designed to natively support autonomous agents, enabling direct execution of agentic workflows without requiring external orchestration or middleware.
+- **Key Features**: Includes built-in agent lifecycle management, native tool integration, and real-time state synchronization for multi-agent systems.
+- **Use Cases**: Optimized for AI-driven automation in dynamic environments, such as robotic process automation (RPA), autonomous cybersecurity, and ada
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=affinityco
+Original source URL: https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=firecrawl
 
 ## Local Vault File
 

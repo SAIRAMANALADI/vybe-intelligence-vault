@@ -1,13 +1,29 @@
 ---
-title: "wheelry/deep-skill-finder"
-category: "Tooling"
-tech_stack: ["Python", "Meyo Agent Framework", "Semantic Search", "Community Test Data Processing", "Natural Language Processing"]
+title: wheelry/deep-skill-finder
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Meyo Agent Framework
+- Semantic Search
+- Community Test Data Processing
+- Natural Language Processing
 quality_score: 8
 rag_relevance: 7
-tags: ["skill discovery", "AI agent tools", "community validation", "intent-based matching", "skill installation"]
-source: "https://github.com/wheelry/deep-skill-finder"
-discovered_at: "2026-07-16T08:10:10Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- skill discovery
+- AI agent tools
+- community validation
+- intent-based matching
+- skill installation
+source: https://github.com/wheelry/deep-skill-finder
+stars: 28
+language: Python
+last_updated: '2026-07-16T08:03:13Z'
+discovered_at: '2026-07-16T08:10:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

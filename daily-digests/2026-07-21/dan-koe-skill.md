@@ -1,13 +1,28 @@
 ---
-title: "rising-armoire4069/dan-koe-skill"
-category: "Tooling"
-tech_stack: ["Windows OS", "Python (implied for AI logic)", "Electron (implied for desktop app)", "Local AI models (offline inference)"]
+title: rising-armoire4069/dan-koe-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Windows OS
+- Python (implied for AI logic)
+- Electron (implied for desktop app)
+- Local AI models (offline inference)
 quality_score: 6
 rag_relevance: 4
-tags: ["creative business strategy", "AI consultant", "content automation", "solopreneur tool", "local AI"]
-source: "https://github.com/rising-armoire4069/dan-koe-skill"
-discovered_at: "2026-07-11T11:03:34Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- creative business strategy
+- AI consultant
+- content automation
+- solopreneur tool
+- local AI
+source: https://github.com/rising-armoire4069/dan-koe-skill
+stars: 0
+language: None
+last_updated: '2026-07-11T11:02:01Z'
+discovered_at: '2026-07-11T11:03:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

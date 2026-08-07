@@ -1,13 +1,31 @@
 ---
-title: "503496348-ops/hermes-doctor"
-category: "Tooling"
-tech_stack: ["Python", "Hermes Framework", "LangChain", "Feishu Bot API", "Shell Scripting", "JSON", "pytest"]
+title: 503496348-ops/hermes-doctor
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Hermes Framework
+- LangChain
+- Feishu Bot API
+- Shell Scripting
+- JSON
+- pytest
 quality_score: 9
 rag_relevance: 8
-tags: ["Agent Health", "Self-Healing", "Diagnostics", "Prescription Matching", "Feishu Integration"]
-source: "https://github.com/503496348-ops/hermes-doctor"
-discovered_at: "2026-07-21T12:23:47Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Agent Health
+- Self-Healing
+- Diagnostics
+- Prescription Matching
+- Feishu Integration
+source: https://github.com/503496348-ops/hermes-doctor
+stars: 3
+language: Python
+last_updated: '2026-07-21T12:14:20Z'
+discovered_at: '2026-07-21T12:23:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Terminal Integration**: Ollama supports terminal-based coding agents like `Claude Code` (with tools, vision, web search, and long context) and `OpenCode` (open-source agent for code editing and iteration via `ollama launch`).
+- **Terminal Integrations**: Ollama supports terminal-based coding agents like `Claude Code` (with tools, vision, web search, and long context) and `OpenCode` (open-source agent for code editing/iteration).
 
-- **Assistant Connectivity**: Enables personal assistants with memory and messaging integration, including `OpenClaw` (for messaging apps) and `Hermes Agent` (self-improving skills with memory).
+- **Assistant Integrations**: Ollama integrates with personal assistants such as `OpenClaw` (messaging app tasks) and `Hermes Agent` (self-improving agent with memory and messaging capabilities).
 
-- **Editor Plugins**: Provides IDE integration, specifically supporting V
+- **Editor Integrations**: Ollama models can be used directly in editors like VS Code via Chat
 
 ## Use Cases
 

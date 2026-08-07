@@ -1,13 +1,29 @@
 ---
-title: "RoxyAPI/sdk-python"
-category: "Tooling"
-tech_stack: ["Python", "REST API", "Async/Await", "PyPI", "NASA JPL Horizons"]
+title: RoxyAPI/sdk-python
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- REST API
+- Async/Await
+- PyPI
+- NASA JPL Horizons
 quality_score: 9
 rag_relevance: 7
-tags: ["astrology", "esoteric APIs", "Python SDK", "predictive analytics", "multi-domain integration"]
-source: "https://github.com/RoxyAPI/sdk-python"
-discovered_at: "2026-07-19T08:13:48Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- astrology
+- esoteric APIs
+- Python SDK
+- predictive analytics
+- multi-domain integration
+source: https://github.com/RoxyAPI/sdk-python
+stars: 0
+language: Python
+last_updated: '2026-07-19T07:55:12Z'
+discovered_at: '2026-07-19T08:13:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

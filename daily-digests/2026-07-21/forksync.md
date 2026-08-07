@@ -1,13 +1,32 @@
 ---
-title: "loongxjin/forksync"
-category: "Tooling"
-tech_stack: ["Go", "Wails", "React", "TypeScript", "Tailwind CSS", "SQLite", "GitHub API", "AI Agents (Claude Code, OpenCode, Codex)"]
+title: loongxjin/forksync
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Wails
+- React
+- TypeScript
+- Tailwind CSS
+- SQLite
+- GitHub API
+- AI Agents (Claude Code, OpenCode, Codex)
 quality_score: 9
 rag_relevance: 7
-tags: ["GitHub fork management", "AI conflict resolution", "automated sync", "desktop application", "Git operations"]
-source: "https://github.com/loongxjin/forksync"
-discovered_at: "2026-07-12T02:32:56Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- GitHub fork management
+- AI conflict resolution
+- automated sync
+- desktop application
+- Git operations
+source: https://github.com/loongxjin/forksync
+stars: 3
+language: Go
+last_updated: '2026-07-12T02:16:14Z'
+discovered_at: '2026-07-12T02:32:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

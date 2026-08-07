@@ -1,13 +1,27 @@
 ---
-title: "Rguvh/byebyeclaw"
-category: "Tooling"
-tech_stack: ["Batch Script", "Windows Installer", "Shell Scripting"]
+title: Rguvh/byebyeclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Batch Script
+- Windows Installer
+- Shell Scripting
 quality_score: 6
 rag_relevance: 3
-tags: ["uninstaller", "AI agent cleanup", "Windows utility", "system cleanup", "remnant removal"]
-source: "https://github.com/Rguvh/byebyeclaw"
-discovered_at: "2026-07-15T12:14:13Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- uninstaller
+- AI agent cleanup
+- Windows utility
+- system cleanup
+- remnant removal
+source: https://github.com/Rguvh/byebyeclaw
+stars: 0
+language: Shell
+last_updated: '2026-07-15T12:10:17Z'
+discovered_at: '2026-07-15T12:14:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

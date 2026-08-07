@@ -6,13 +6,13 @@ source_url: https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2
 resource_id: huggingface:cross-encoder/ms-marco-minilm-l6-v2
 local_vault_path: ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
+- benchmark
 - dataset
-- models
 - rag
 - reddit
 - web-crawled
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Dataset**: MS MARCO (Microsoft MAchine Reading COmprehension) is a large-scale dataset for training and evaluating machine reading comprehension, question answering, and information retrieval models.
-
-- **Embeddings**: The `sentence-transformers/msmarco` model provides pre-trained embeddings optimized for semantic search and retrieval tasks, leveraging the MS MARCO dataset for fine-tuning.
-
-- **Performance**: The model achieves high performance in zero-shot and fine-tuned settings for tasks
+- **Dataset**: `sentence-transformers/msmarco` is a large-scale dataset (~527M entries) designed for training and evaluating sentence embeddings, derived from the MS MARCO (Microsoft Machine Reading Comprehension) collection.
+- **Use Case**: Optimized for tasks like information retrieval, semantic search, and passage ranking, leveraging natural language queries and corresponding passages with relevance labels.
+- **Format**: Contains query-passage pairs with annotations for relevance, enabling su
 
 ## Use Cases
 

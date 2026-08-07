@@ -1,13 +1,30 @@
 ---
-title: "Uname58/cdp-agent-kit"
-category: "Agent Framework"
-tech_stack: ["Python", "Chrome DevTools Protocol (CDP)", "Playwright", "Asyncio", "LLM Function Calling", "WebSocket"]
+title: Uname58/cdp-agent-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Chrome DevTools Protocol (CDP)
+- Playwright
+- Asyncio
+- LLM Function Calling
+- WebSocket
 quality_score: 9
 rag_relevance: 10
-tags: ["browser automation", "CDP integration", "AI agent runtime", "persistent session", "LLM tool calling"]
-source: "https://github.com/Uname58/cdp-agent-kit"
-discovered_at: "2026-07-18T23:52:35Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- browser automation
+- CDP integration
+- AI agent runtime
+- persistent session
+- LLM tool calling
+source: https://github.com/Uname58/cdp-agent-kit
+stars: 0
+language: Python
+last_updated: '2026-07-18T23:48:39Z'
+discovered_at: '2026-07-18T23:52:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

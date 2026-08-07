@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://chromium.googlesource.com/webm/libwebp/
-published_at: '2026-07-21T14:27:14.846131+05:30'
-collected_at: '2026-07-21T14:27:14.846148+05:30'
+published_at: '2026-08-06T09:19:10.299937+05:30'
+collected_at: '2026-08-06T09:19:10.299949+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:webm-libwebp-git-at-google
-first_seen: '2026-07-21T14:27:14.846148+05:30'
-last_seen: '2026-07-21T14:27:14.846148+05:30'
-last_checked: '2026-07-21T14:27:14.846148+05:30'
+first_seen: '2026-08-06T09:19:10.299949+05:30'
+last_seen: '2026-08-06T09:19:10.299949+05:30'
+last_checked: '2026-08-06T09:19:10.299949+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: `libwebp` is a WebP image codec library hosted on Chromium's Git server, providing encoding/decoding tools (`cwebp`/`dwebp`) and APIs for WebP format support under the WebM project license.
-- **Branches/Tags**: Mainline development (`main`) and stable releases (e.g., `v1.6.0`, `v0.5.1`) are available, with additional tags like `webp-rfc9649` for RFC compliance.
-- **Build & Contribution**: Requires building via documented steps; contributions accepted via patches to the issue tracker or email (`webp-discuss@webmproject.org`).
+- **Repository**: Hosted on Google's Git service (`chromium.googlesource.com`), under the `webm/libwebp` project, with branches (e.g., `main`, `0.2.0`) and tags (e.g., `v1.6.0`, `webp-rfc9649`) for versioning.
+
+- **WebP Codec**: A library for encoding/decoding WebP images, including CLI tools (`cwebp` for compression, `dwebp` for decompression) and APIs for integration into other programs.
+
+- **Build & Contribution**: Supports custom builds via `configure.ac` and `xcframeworkbuild.sh`, with documentation for building, APIs, and tools; contributions via issue tracker and email (`webp-discuss@webmproject.org`).
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T14:27:14.846131+05:30
+- Published: 2026-08-06T09:19:10.299937+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mozilla.org/about/governance/policies/participation/
-published_at: '2026-07-18T01:15:59.636728+05:30'
-collected_at: '2026-07-18T01:15:59.636741+05:30'
+published_at: '2026-08-02T01:13:42.140007+05:30'
+collected_at: '2026-08-02T01:13:42.140020+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:community-participation-guidelines-mozilla
-first_seen: '2026-07-18T01:15:59.636741+05:30'
-last_seen: '2026-07-18T01:15:59.636741+05:30'
-last_checked: '2026-07-18T01:15:59.636741+05:30'
+first_seen: '2026-08-02T01:13:42.140020+05:30'
+last_seen: '2026-08-02T01:13:42.140020+05:30'
+last_checked: '2026-08-02T01:13:42.140020+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Inclusive Participation Framework**: Mozilla's guidelines enforce respectful, professional conduct across all community interactions (online/offline), mandating inclusion of diverse perspectives (e.g., remote participants, non-native speakers) and prohibiting derogatory language, violence, or unwelcome physical/sexual advances.
-
-- **Accountability & Enforcement**: Violations trigger escalating consequences, from temporary removal to permanent bans; Mozilla staff face additional disciplinary actions per anti-harassment policies. False reports or retaliation are treated as violations.
-
-- **Reporting & Resolution**: Incidents are triaged by a designated lead, with investigations conducted confidentially; appeals are permitted post-resolution. Physical/virtual Mozilla spaces must designate safety contacts and display emergency protocols.
+- **Scope & Enforcement**: Guidelines apply to all Mozilla community interactions (online/offline), including events, communications, and social media; violations may result in temporary/permanent exclusion or employment consequences for staff/contractors.
+- **Prohibited Behaviors**: Explicitly bans violence, threats, personal attacks, derogatory language (including misgendering), unwelcome sexual advances, disruptive conduct (heckling, intoxication), and retaliation against reporters.
+- **Reporting & Appeals**: Reports are triaged by a designated lead; investigations may involve external specialists; appeals process available via email; emergency contacts provided at events.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T01:15:59.636728+05:30
+- Published: 2026-08-02T01:13:42.140007+05:30
 
 ## Related Tags
 

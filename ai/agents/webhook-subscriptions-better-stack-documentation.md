@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://betterstack.com/docs/uptime/subscribing-to-status-updates/subscribing-with-webhooks/
-published_at: '2026-07-20T22:26:05.568338+05:30'
-collected_at: '2026-07-20T22:26:05.568368+05:30'
+published_at: '2026-08-06T01:39:05.168759+05:30'
+collected_at: '2026-08-06T01:39:05.168773+05:30'
 tags:
 - agents
 - frontend_ui
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:webhook-subscriptions-better-stack-documentation
-first_seen: '2026-07-20T22:26:05.568368+05:30'
-last_seen: '2026-07-20T22:26:05.568368+05:30'
-last_checked: '2026-07-20T22:26:05.568368+05:30'
+first_seen: '2026-08-06T01:39:05.168773+05:30'
+last_seen: '2026-08-06T01:39:05.168773+05:30'
+last_checked: '2026-08-06T01:39:05.168773+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Webhook Subscription Mechanism**: Automated HTTP POST requests are pushed to user-defined endpoints upon status updates, eliminating the need for polling; requires HTTPS endpoints and email confirmation for activation.
+- **Webhook Subscription Process**: Subscribers configure HTTPS endpoints to receive automated HTTP POST requests for status updates (incidents, maintenance, component changes) after confirming via email; payloads include `meta`, `page`, and event-specific objects (e.g., `incident`, `maintenance`).
 
-- **Payload Structure & Event Types**: JSON payloads include `meta` and `page` objects, with `event_type` (`incident`, `maintenance`, or `component_update`) determining the event-specific data; incidents/maintenance share fields like `id`, `name`, and `updates`, while component updates track status changes.
+- **Payload Schema & Validation**: All webhooks use JSON with shared `meta` (unsubscribe link, docs) and `page` (status indicator, description) objects; event types (`incident`, `maintenance`, `component_update`) dictate nested data structures, with strict 30s timeout and 2xx response requirements.
 
-- **HTTP & Retry Policies**: Requests enforce 30s timeout, 2xx responses, and exponential backoff retries (up to 10 attempts); failures trigger deactivation and require reactivation via email confirmation.
+- **Retry & Failure Handling**: Failed deliveries trigger exponential backoff retries (up to 10 attempts), followed by deactivation and email alerts; reactivation requires endpoint fixes and re-subscription, with idempotency recommended for duplicate handling.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T22:26:05.568338+05:30
+- Published: 2026-08-06T01:39:05.168759+05:30
 
 ## Related Tags
 

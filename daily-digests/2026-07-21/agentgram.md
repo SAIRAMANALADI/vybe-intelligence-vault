@@ -1,13 +1,32 @@
 ---
-title: "nkschmidt/agentgram"
-category: "Tooling"
-tech_stack: ["Go", "Telegram Bot API", "Claude Code", "OpenCode", "MCP (Model Context Protocol)", "whisper.cpp", "SSE (Server-Sent Events)", "JSON"]
+title: nkschmidt/agentgram
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Telegram Bot API
+- Claude Code
+- OpenCode
+- MCP (Model Context Protocol)
+- whisper.cpp
+- SSE (Server-Sent Events)
+- JSON
 quality_score: 9
 rag_relevance: 7
-tags: ["Telegram bot", "AI agent integration", "CLI automation", "MCP server", "voice transcription"]
-source: "https://github.com/nkschmidt/agentgram"
-discovered_at: "2026-07-16T22:02:39Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Telegram bot
+- AI agent integration
+- CLI automation
+- MCP server
+- voice transcription
+source: https://github.com/nkschmidt/agentgram
+stars: 2
+language: Go
+last_updated: '2026-07-16T22:01:08Z'
+discovered_at: '2026-07-16T22:02:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,33 @@
 ---
-title: "Wolfe-Jam/gemini-faf-mcp"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "PyPI", "YAML", "Cloud Run", "FastAPI", "pytest", "Dart", "Flutter"]
+title: Wolfe-Jam/gemini-faf-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastMCP
+- PyPI
+- YAML
+- Cloud Run
+- FastAPI
+- pytest
+- Dart
+- Flutter
 quality_score: 10
 rag_relevance: 9
-tags: ["project context", "MCP server", "Gemini integration", "auto-detection", "AI tooling"]
-source: "https://github.com/Wolfe-Jam/gemini-faf-mcp"
-discovered_at: "2026-07-21T04:15:00Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- project context
+- MCP server
+- Gemini integration
+- auto-detection
+- AI tooling
+source: https://github.com/Wolfe-Jam/gemini-faf-mcp
+stars: 2
+language: Python
+last_updated: '2026-07-21T04:14:00Z'
+discovered_at: '2026-07-21T04:15:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

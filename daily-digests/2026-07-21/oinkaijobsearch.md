@@ -1,13 +1,32 @@
 ---
-title: "Exdenta/OinkAIJobSearch"
-category: "Agent Framework"
-tech_stack: ["Python 3.10+", "Claude Code (LLM integration)", "Telegram Bot API", "SQLite", "Apify actors (for scraping)", "FastAPI (implied for API access)", "Pydantic (data modeling)", "Markdown (resume tailoring)"]
+title: Exdenta/OinkAIJobSearch
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python 3.10+
+- Claude Code (LLM integration)
+- Telegram Bot API
+- SQLite
+- Apify actors (for scraping)
+- FastAPI (implied for API access)
+- Pydantic (data modeling)
+- Markdown (resume tailoring)
 quality_score: 9
 rag_relevance: 7
-tags: ["job search automation", "LLM-powered matching", "Telegram bot", "resume scoring", "hiring contact lookup"]
-source: "https://github.com/Exdenta/OinkAIJobSearch"
-discovered_at: "2026-07-15T18:06:14Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- job search automation
+- LLM-powered matching
+- Telegram bot
+- resume scoring
+- hiring contact lookup
+source: https://github.com/Exdenta/OinkAIJobSearch
+stars: 8
+language: Python
+last_updated: '2026-07-15T17:55:09Z'
+discovered_at: '2026-07-15T18:06:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

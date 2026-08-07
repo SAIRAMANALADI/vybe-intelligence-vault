@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-07-21T22:14:22.425243+05:30'
-published_at: '2026-07-21T03:43:11Z'
+collected_at: '2026-08-07T08:51:28.915417+05:30'
+published_at: '2026-08-06T17:19:02Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- paper
 - python
 - rag
-stars: 464
+stars: 476
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-07-21T22:14:22.425243+05:30'
-last_seen: '2026-07-21T22:14:22.425243+05:30'
-last_checked: '2026-07-21T22:14:22.425243+05:30'
+first_seen: '2026-08-07T08:51:28.915417+05:30'
+last_seen: '2026-08-07T08:51:28.915417+05:30'
+last_checked: '2026-08-07T08:51:28.915417+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized framework for evaluating GraphRAG (Graph Retrieval-Augmented Generation) models, including datasets, metrics, and evaluation protocols for ICLR'26.
-- **Graph-Centric Analysis**: Focuses on assessing when and how graph structures enhance RAG performance, with Python-based implementations for reproducibility.
-- **Dataset & Tooling**: Includes curated graph-based datasets and utilities for graph construction, retrieval, and evaluation in RAG pipelines.
+- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, including datasets and metrics for assessing performance in graph-based retrieval-augmented generation (RAG) tasks, as proposed in the ICLR'26 paper *"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation"*.
+
+- **GraphRAG-Specific Datasets**: Includes curated datasets designed to test graph retrieval capabilities, emphasizing structured knowledge integration and reasoning over graph-based data representations.
+
+- **Python Implementation**: Features modular Python codebase for reproducibility, with tools for dataset preprocessing, model evaluation, and performance benchmarking across graph-based RAG architectures.
 
 ## Why It Matters
 
@@ -41,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: GraphRAG-Bench
-- Stars: 464
-- Forks: 53
+- Stars: 476
+- Forks: 54
 - Language: Python
 - Topics: analysis, benchmark, dataset, graphrag, graphrag-bench, graphrag-benchmark, graphragdataset
-- Last Updated: 2026-07-21T03:43:11Z
+- Last Updated: 2026-08-06T17:19:02Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T03:34:06Z

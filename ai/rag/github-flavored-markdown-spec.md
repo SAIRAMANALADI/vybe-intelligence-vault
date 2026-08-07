@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.github.com/gfm/
-published_at: '2026-07-21T20:00:32.326779+05:30'
-collected_at: '2026-07-21T20:00:32.326793+05:30'
+published_at: '2026-08-07T08:58:50.764849+05:30'
+collected_at: '2026-08-07T08:58:50.764863+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:github-flavored-markdown-spec
-first_seen: '2026-07-21T20:00:32.326793+05:30'
-last_seen: '2026-07-21T20:00:32.326793+05:30'
-last_checked: '2026-07-21T20:00:32.326793+05:30'
+first_seen: '2026-08-07T08:58:50.764863+05:30'
+last_seen: '2026-08-07T08:58:50.764863+05:30'
+last_checked: '2026-08-07T08:58:50.764863+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GFM Specification**: GitHub Flavored Markdown (GFM) is a strict superset of CommonMark, defining syntax and semantics for GitHub.com and GitHub Enterprise, with extensions for unsupported CommonMark features.
+- **GFM as a CommonMark Superset**: GitHub Flavored Markdown (GFM) is a strict superset of CommonMark, incorporating all CommonMark features while adding GitHub-specific extensions (e.g., tables, task lists) and enforcing additional post-processing/sanitization for security.
 
-- **Parsing Ambiguities**: The spec resolves ambiguities in Markdown's canonical description (e.g., indentation rules for sublists, blank line requirements for block quotes/headings) to ensure consistent cross-implementation behavior.
+- **Syntax Ambiguities Resolved**: GFM’s formal specification (v0.29-gfm) resolves ambiguities in Markdown’s original syntax (e.g., indentation rules for sublists, precedence of inline/block structures) by defining unambiguous parsing rules for edge cases.
 
-- **Unicode Handling**: Defines characters/lines as Unicode code points, with lines ending in `U+000A`, `U+000D`, or `U+000D U+000A`, and whitespace including `U+0020`, `U+0009`, and Unicode `Zs` category characters.
+- **Unicode and Whitespace Handling**: GFM treats lines as sequences of Unicode code points, with explicit definitions for whitespace (`U+0020`, `U+0009`, `U+000A`, etc.), blank lines, and line endings (`\n`, `\r`, `\r\n`), ensuring consistent cross-platform rendering.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T20:00:32.326779+05:30
+- Published: 2026-08-07T08:58:50.764849+05:30
 
 ## Related Tags
 

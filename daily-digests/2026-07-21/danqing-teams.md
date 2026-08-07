@@ -1,13 +1,34 @@
 ---
-title: "danqing-ai/danqing-teams"
-category: "Agent Framework"
-tech_stack: ["Go", "Vue 3", "Vite", "SQLite", "Tauri", "Anthropic API", "OpenAI-compatible APIs", "Node.js", "CLI", "TUI"]
+title: danqing-ai/danqing-teams
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Vue 3
+- Vite
+- SQLite
+- Tauri
+- Anthropic API
+- OpenAI-compatible APIs
+- Node.js
+- CLI
+- TUI
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent orchestration", "LLM-driven workflows", "context isolation", "agent collaboration", "AI coding"]
-source: "https://github.com/danqing-ai/danqing-teams"
-discovered_at: "2026-07-19T23:55:46Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- LLM-driven workflows
+- context isolation
+- agent collaboration
+- AI coding
+source: https://github.com/danqing-ai/danqing-teams
+stars: 3
+language: Go
+last_updated: '2026-07-19T23:43:27Z'
+discovered_at: '2026-07-19T23:55:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

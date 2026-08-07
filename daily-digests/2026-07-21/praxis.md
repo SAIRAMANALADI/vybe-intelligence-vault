@@ -1,13 +1,28 @@
 ---
-title: "indigokarasu/praxis"
-category: "Tooling"
-tech_stack: ["Python", "OCAS Architecture", "SKILL.md Frontmatter", "CHANGELOG.md"]
+title: indigokarasu/praxis
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- OCAS Architecture
+- SKILL.md Frontmatter
+- CHANGELOG.md
 quality_score: 7
 rag_relevance: 8
-tags: ["behavioral refinement", "drift detection", "skill execution", "journals", "OCAS"]
-source: "https://github.com/indigokarasu/praxis"
-discovered_at: "2026-07-21T04:14:46Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- behavioral refinement
+- drift detection
+- skill execution
+- journals
+- OCAS
+source: https://github.com/indigokarasu/praxis
+stars: 0
+language: Python
+last_updated: '2026-07-21T04:04:43Z'
+discovered_at: '2026-07-21T04:14:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

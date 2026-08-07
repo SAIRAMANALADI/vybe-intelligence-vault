@@ -13,14 +13,34 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [github/roadmap](https://github.com/github/roadmap)
-- **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`github-roadmap.md`](../../ai/resources/github-roadmap.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
+### [OpenAI · GitHub](https://github.com/openai)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`model-context-protocol-github.md`](../../ai/resources/model-context-protocol-github.md)
+### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`joshuac215-agent-service-toolkit.md`](../../ai/agents/joshuac215-agent-service-toolkit.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`the-pocket-pocketflow-template-python.md`](../../ai/agents/the-pocket-pocketflow-template-python.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
@@ -28,45 +48,25 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`black-forest-labs-github.md`](../../ai/resources/black-forest-labs-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`jamwithai-production-agentic-rag-course.md`](../../ai/rag/jamwithai-production-agentic-rag-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
+### [Stainless · GitHub](https://github.com/stainless-api)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`stainless-github.md`](../../ai/resources/stainless-github.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
-### [langgenius/dify](https://github.com/langgenius/dify)
+### [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
+- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`firecrawl-firecrawl-mcp-server.md`](../../ai/resources/firecrawl-firecrawl-mcp-server.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [LlamaIndex · GitHub](https://github.com/run-llama/)
+### [hllqkb/Spring-AI-Ailibaba-Best-Practices](https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamaindex-github.md`](../../ai/rag/llamaindex-github.md)
+- **Score**: `87` | **Path**: [`hllqkb-spring-ai-ailibaba-best-practices.md`](../../ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`scotthavird-crewai-template.md`](../../ai/rag/scotthavird-crewai-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [explosion/spaCy](https://github.com/explosion/spaCy)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`explosion-spacy.md`](../../ai/rag/explosion-spacy.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-07-21 22:30 IST*
+*Last updated: 2026-08-07 09:08 IST*

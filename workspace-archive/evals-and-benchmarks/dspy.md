@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and iterative refinement for complex agentic workflows.
-- **Improved LM/BaseLM**: Updates to the language model interface (`LM`/`BaseLM`) with optimized inference strategies and better support for structured outputs.
-- **Signature-Based Optimization**: GEPA optimizer compiles declarative programs against metrics, enabling automatic prompt/demonstration tuning (e.g., 62% → 89% F1 improvement).
+- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and adaptive decision-making for complex agentic workflows.
+- **Improved LM/BaseLM**: Enhanced base language model handling with better performance and modularity, supporting optimized inference and lower-latency execution.
+- **Structured Task Definition**: Enforces typed input/output via `Signature` classes, enabling maintainable, optimizable programs without manual prompt engineering.
 
 ## Use Cases
 

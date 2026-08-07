@@ -1,13 +1,29 @@
 ---
-title: "djimenez007/remote-claude-code"
-category: "Tooling"
-tech_stack: ["Linux", "SSH", "Web Server", "Python (implied)", "VPS Hosting"]
+title: djimenez007/remote-claude-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Linux
+- SSH
+- Web Server
+- Python (implied)
+- VPS Hosting
 quality_score: 6
 rag_relevance: 5
-tags: ["remote development", "VPS deployment", "cloud coding", "accessibility", "AI tooling"]
-source: "https://github.com/djimenez007/remote-claude-code"
-discovered_at: "2026-07-10T10:51:55Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- remote development
+- VPS deployment
+- cloud coding
+- accessibility
+- AI tooling
+source: https://github.com/djimenez007/remote-claude-code
+stars: 1
+language: None
+last_updated: '2026-07-10T10:50:18Z'
+discovered_at: '2026-07-10T10:51:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

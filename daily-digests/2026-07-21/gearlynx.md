@@ -1,13 +1,32 @@
 ---
-title: "drhelius/Gearlynx"
-category: "Tooling"
-tech_stack: ["C++", "SDL3", "MCP (Model Context Protocol)", "ImGui", "RetroArch", "GitHub Actions", "Homebrew", "Linux PPA/RPM"]
+title: drhelius/Gearlynx
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- C++
+- SDL3
+- MCP (Model Context Protocol)
+- ImGui
+- RetroArch
+- GitHub Actions
+- Homebrew
+- Linux PPA/RPM
 quality_score: 9
 rag_relevance: 6
-tags: ["emulator", "debugging", "MCP server", "retro computing", "hardware emulation"]
-source: "https://github.com/drhelius/Gearlynx"
-discovered_at: "2026-07-18T23:52:42Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- emulator
+- debugging
+- MCP server
+- retro computing
+- hardware emulation
+source: https://github.com/drhelius/Gearlynx
+stars: 70
+language: C++
+last_updated: '2026-07-18T23:49:27Z'
+discovered_at: '2026-07-18T23:52:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

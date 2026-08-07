@@ -1,13 +1,32 @@
 ---
-title: "theserverlessdev/wsc"
-category: "Tooling"
-tech_stack: ["TypeScript", "SvelteKit", "Cloudflare Workers", "Node.js", "npm", "GitHub Actions", "JSON Schema", "MCP (Model Context Protocol)"]
+title: theserverlessdev/wsc
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- SvelteKit
+- Cloudflare Workers
+- Node.js
+- npm
+- GitHub Actions
+- JSON Schema
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-tags: ["prose linter", "AI-generated text detection", "writing quality", "MCP server", "research-backed"]
-source: "https://github.com/theserverlessdev/wsc"
-discovered_at: "2026-07-14T08:01:01Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- prose linter
+- AI-generated text detection
+- writing quality
+- MCP server
+- research-backed
+source: https://github.com/theserverlessdev/wsc
+stars: 1
+language: TypeScript
+last_updated: '2026-07-14T07:59:34Z'
+discovered_at: '2026-07-14T08:01:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

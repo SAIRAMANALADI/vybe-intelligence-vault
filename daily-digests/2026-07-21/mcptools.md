@@ -1,13 +1,30 @@
 ---
-title: "posit-dev/mcptools"
-category: "Tooling"
-tech_stack: ["R", "Model Context Protocol (MCP)", "ellmer", "Posit Connect", "HTTP transport", "JSON-RPC"]
+title: posit-dev/mcptools
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- R
+- Model Context Protocol (MCP)
+- ellmer
+- Posit Connect
+- HTTP transport
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-tags: ["Model Context Protocol", "R integration", "AI assistants", "MCP server", "MCP client"]
-source: "https://github.com/posit-dev/mcptools"
-discovered_at: "2026-07-10T16:25:17Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Model Context Protocol
+- R integration
+- AI assistants
+- MCP server
+- MCP client
+source: https://github.com/posit-dev/mcptools
+stars: 183
+language: R
+last_updated: '2026-07-10T16:19:20Z'
+discovered_at: '2026-07-10T16:25:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

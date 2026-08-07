@@ -1,13 +1,35 @@
 ---
-title: "okforge/okforge-webui"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "SQLite", "JavaScript", "HTML/CSS", "llama.cpp", "vLLM", "VLM (Vision Language Model)", "Git", "Node.js (for Quartz publishing)", "Quartz (static site generator)"]
+title: okforge/okforge-webui
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- JavaScript
+- HTML/CSS
+- llama.cpp
+- vLLM
+- VLM (Vision Language Model)
+- Git
+- Node.js (for Quartz publishing)
+- Quartz (static site generator)
 quality_score: 9
 rag_relevance: 8
-tags: ["document processing", "OCR", "knowledge base", "MCP server", "local-first"]
-source: "https://github.com/okforge/okforge-webui"
-discovered_at: "2026-07-19T16:57:52Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- document processing
+- OCR
+- knowledge base
+- MCP server
+- local-first
+source: https://github.com/okforge/okforge-webui
+stars: 0
+language: Python
+last_updated: '2026-07-19T16:54:17Z'
+discovered_at: '2026-07-19T16:57:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

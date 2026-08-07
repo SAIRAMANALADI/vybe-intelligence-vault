@@ -1,13 +1,37 @@
 ---
-title: "kevinchennewbee/PenglaiAgent"
-category: "Orchestrator"
-tech_stack: ["Python", "GenericAgent", "SenseVoice", "MOSS-TTS-Nano", "Tauri", "Rust", "Cargo", "CLI", "TUI", "Feishu API", "WeChat API", "Markdown", "JSONL"]
+title: kevinchennewbee/PenglaiAgent
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- GenericAgent
+- SenseVoice
+- MOSS-TTS-Nano
+- Tauri
+- Rust
+- Cargo
+- CLI
+- TUI
+- Feishu API
+- WeChat API
+- Markdown
+- JSONL
 quality_score: 9
 rag_relevance: 7
-tags: ["AI Runtime Hub", "Self-hosted", "Multi-channel", "Proactive AI", "Local Voice Processing"]
-source: "https://github.com/kevinchennewbee/PenglaiAgent"
-discovered_at: "2026-07-11T23:53:52Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI Runtime Hub
+- Self-hosted
+- Multi-channel
+- Proactive AI
+- Local Voice Processing
+source: https://github.com/kevinchennewbee/PenglaiAgent
+stars: 10
+language: Python
+last_updated: '2026-07-11T23:44:52Z'
+discovered_at: '2026-07-11T23:53:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

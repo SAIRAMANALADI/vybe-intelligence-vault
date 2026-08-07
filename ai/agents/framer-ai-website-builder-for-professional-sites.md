@@ -4,23 +4,24 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.framer.com
-published_at: '2026-07-21T09:24:19.325830+05:30'
-collected_at: '2026-07-21T09:24:19.325839+05:30'
+published_at: '2026-08-06T04:03:38.825527+05:30'
+collected_at: '2026-08-06T04:03:38.825541+05:30'
 tags:
 - agents
 - anthropic
 - hackernews
 - models
+- openai
+- producthunt
 - reddit
 - scripts
 - web-crawled
 - workflows
-- youtube
 status: active
 resource_id: blog:framer-ai-website-builder-for-professional-sites
-first_seen: '2026-07-21T09:24:19.325839+05:30'
-last_seen: '2026-07-21T09:24:19.325839+05:30'
-last_checked: '2026-07-21T09:24:19.325839+05:30'
+first_seen: '2026-08-06T04:03:38.825541+05:30'
+last_seen: '2026-08-06T04:03:38.825541+05:30'
+last_checked: '2026-08-06T04:03:38.825541+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Design Agents**: Framer 3.0 integrates native AI agents for real-time, in-place design modifications (e.g., replacing text blocks, adding 3D image tickers) with full editability and version control.
+- **AI-Powered Design Agents**: Framer integrates native AI agents for real-time, in-place design generation and refinement, enabling iterative, editable modifications directly on the canvas while maintaining user control.
 
-- **Responsive CMS Automation**: The CMS agent automates content management by syncing structured data (collections, fields) directly to the canvas, enabling dynamic updates and multi-breakpoint responsiveness (desktop/tablet/mobile).
+- **CMS Automation via Agents**: AI-driven CMS agents automate setup, organization, and updates, synchronizing content and design through direct canvas integration, reducing manual workflows and accelerating publishing.
 
-- **Code Component Integration**: Supports custom code components (e.g., `ImageWheel`) with live previews, allowing developers to embed interactive elements while maintaining design-system consistency.
+- **Multi-Tool AI Integration**: Supports external AI agents (e.g., Cursor, Claude Code, Codex) for cross-platform actions (e.g., Slack, terminal, GitHub PRs), enabling seamless automation of design, CMS, and code workflows.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T09:24:19.325830+05:30
+- Published: 2026-08-06T04:03:38.825527+05:30
 
 ## Related Tags
 
@@ -50,11 +51,12 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - hackernews
 - models
+- openai
+- producthunt
 - reddit
 - scripts
 - web-crawled
 - workflows
-- youtube
 
 ## Source
 

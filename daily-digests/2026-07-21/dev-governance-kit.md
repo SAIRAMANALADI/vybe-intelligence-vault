@@ -1,13 +1,33 @@
 ---
-title: "jiangyz-bit/dev-governance-kit"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "React", "Vite", "Spring Boot", "MyBatis", "npm", "CLI"]
+title: jiangyz-bit/dev-governance-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- React
+- Vite
+- Spring Boot
+- MyBatis
+- npm
+- CLI
 quality_score: 7
 rag_relevance: 8
-tags: ["AI governance", "engineering toolkit", "code standardization", "multi-repo support", "project scaffolding"]
-source: "https://github.com/jiangyz-bit/dev-governance-kit"
-discovered_at: "2026-07-20T19:53:35Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- AI governance
+- engineering toolkit
+- code standardization
+- multi-repo support
+- project scaffolding
+source: https://github.com/jiangyz-bit/dev-governance-kit
+stars: 0
+language: JavaScript
+last_updated: '2026-07-20T19:48:02Z'
+discovered_at: '2026-07-20T19:53:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

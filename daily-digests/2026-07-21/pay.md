@@ -1,13 +1,33 @@
 ---
-title: "agentscore/pay"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "x402 (EIP-3009)", "MPP (Solana, Tempo)", "BIP-39", "Viem", "Solana Web3", "CLI Development", "MCP Server"]
+title: agentscore/pay
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- x402 (EIP-3009)
+- MPP (Solana, Tempo)
+- BIP-39
+- Viem
+- Solana Web3
+- CLI Development
+- MCP Server
 quality_score: 9
 rag_relevance: 8
-tags: ["payment automation", "AI agent tools", "blockchain rails", "x402 protocol", "MPP integration"]
-source: "https://github.com/agentscore/pay"
-discovered_at: "2026-07-17T21:52:27Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- payment automation
+- AI agent tools
+- blockchain rails
+- x402 protocol
+- MPP integration
+source: https://github.com/agentscore/pay
+stars: 0
+language: TypeScript
+last_updated: '2026-07-17T21:41:01Z'
+discovered_at: '2026-07-17T21:52:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

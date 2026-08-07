@@ -2,13 +2,13 @@
 title: Linux Foundation - Decentralized innovation, built with trust
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://www.linuxfoundation.org
+source_url: https://www.linuxfoundation.org/
 resource_id: blog:linux-foundation-decentralized-innovation-built-wi
 local_vault_path: ai/rag/linux-foundation-decentralized-innovation-built-wi.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Linux Foundation - Decentralized innovation, built with trust
@@ -25,16 +25,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Scale & Impact**: Hosts **1,300+ open-source projects**, with **855K+ developers contributing code**, adding **89M lines weekly**, supported by **21K+ organizations**.
-- **Neutral Collaboration Hub**: Provides a **trusted, vendor-neutral ecosystem** for open software, hardware, standards, and data projects, including **100+ standards/specifications**.
-- **Dual Membership/Project Hosting Model**: Enables organizations to **join as members** (shape ecosystem, measure contributions) or **host p
+- **Scale & Impact**: Hosts **1,300+ open-source projects**, with **855K+ developers contributing code** and **89M lines of code added weekly**, supported by **2,100+ contributing organizations**.
+
+- **Neutral Ecosystem**: Provides a **trusted, vendor-neutral hub** for collaboration across **open software, hardware, standards, and data**, including **100+ standards/specifications** and **229+ events** annually.
+
+- **Governance & Resources**: Offers **project hosting, security frameworks, digital
 
 ## Use Cases
 
@@ -44,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.linuxfoundation.org
+Original source URL: https://www.linuxfoundation.org/
 
 ## Local Vault File
 

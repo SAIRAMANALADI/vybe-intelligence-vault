@@ -1,13 +1,31 @@
 ---
-title: "Edwson/Ed-Agent"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Markdown", "HTTP Server (Node:http)", "Deterministic Functions", "Zero-dependency Core"]
+title: Edwson/Ed-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Markdown
+- HTTP Server (Node:http)
+- Deterministic Functions
+- Zero-dependency Core
 quality_score: 9
 rag_relevance: 9
-tags: ["AI governance", "agent lifecycle", "trust evaluation", "deterministic checks", "human-in-the-loop"]
-source: "https://github.com/Edwson/Ed-Agent"
-discovered_at: "2026-07-20T06:16:46Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI governance
+- agent lifecycle
+- trust evaluation
+- deterministic checks
+- human-in-the-loop
+source: https://github.com/Edwson/Ed-Agent
+stars: 3
+language: JavaScript
+last_updated: '2026-07-20T06:14:20Z'
+discovered_at: '2026-07-20T06:16:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

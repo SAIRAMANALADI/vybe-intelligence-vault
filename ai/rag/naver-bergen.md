@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/naver/bergen
-collected_at: '2026-07-21T22:14:27.493677+05:30'
-published_at: '2026-07-21T08:49:31Z'
+collected_at: '2026-08-07T08:51:28.919574+05:30'
+published_at: '2026-07-24T12:42:18Z'
 tags:
 - benchmark
 - github-repo
 - jupyter notebook
 - rag
 - reddit
-- workflows
-stars: 274
+stars: 276
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-05-09T14:13:44Z'
 pushed_at: '2026-07-14T11:04:39Z'
 resource_id: github:naver/bergen
-first_seen: '2026-07-21T22:14:27.493677+05:30'
-last_seen: '2026-07-21T22:14:27.493677+05:30'
-last_checked: '2026-07-21T22:14:27.493677+05:30'
+first_seen: '2026-08-07T08:51:28.919574+05:30'
+last_seen: '2026-08-07T08:51:28.919574+05:30'
+last_checked: '2026-08-07T08:51:28.919574+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: `bergen` is a benchmarking library designed to evaluate Retrieval-Augmented Generation (RAG) systems, focusing on retrieval and generation performance metrics.
-- **Features**: Supports augmentation, generation, and evaluation of LLMs within RAG pipelines, with modular components for standardized testing.
-- **Implementation**: Developed in Jupyter Notebook, enabling interactive and reproducible benchmarking workflows for RAG models.
+- **Purpose**: Bergen is a benchmarking library specifically designed for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on retrieval and generation performance.
+- **Implementation**: Written in Jupyter Notebook, it provides structured tools to assess augmentation, retrieval, and generation components of RAG pipelines.
+- **Scope**: Enables standardized comparison of RAG models across metrics like retrieval accuracy, latency, and output quality.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: naver
-- Stars: 274
+- Stars: 276
 - Forks: 33
 - Language: Jupyter Notebook
 - Topics: augmentation, generation, llms, rag, retrieval
-- Last Updated: 2026-07-21T08:49:31Z
+- Last Updated: 2026-07-24T12:42:18Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-05-09T14:13:44Z

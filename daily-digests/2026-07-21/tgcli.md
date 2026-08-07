@@ -1,13 +1,26 @@
 ---
-title: "unitary-monoiodotyrosine892/tgcli"
-category: "Tooling"
-tech_stack: ["Go", "Telegram API"]
+title: unitary-monoiodotyrosine892/tgcli
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Telegram API
 quality_score: 5
 rag_relevance: 3
-tags: ["Telegram", "CLI", "Messaging", "Terminal", "Lightweight"]
-source: "https://github.com/unitary-monoiodotyrosine892/tgcli"
-discovered_at: "2026-07-13T20:14:20Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- Telegram
+- CLI
+- Messaging
+- Terminal
+- Lightweight
+source: https://github.com/unitary-monoiodotyrosine892/tgcli
+stars: 0
+language: Go
+last_updated: '2026-07-13T20:10:04Z'
+discovered_at: '2026-07-13T20:14:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

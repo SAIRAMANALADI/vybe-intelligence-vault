@@ -1,13 +1,32 @@
 ---
-title: "frane/vibesurfer"
-category: "Tooling"
-tech_stack: ["Rust", "WKWebView", "WebKitGTK", "WebView2", "SQLite", "MCP (Model Context Protocol)", "AF_UNIX sockets", "Windows named pipes"]
+title: frane/vibesurfer
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- WKWebView
+- WebKitGTK
+- WebView2
+- SQLite
+- MCP (Model Context Protocol)
+- AF_UNIX sockets
+- Windows named pipes
 quality_score: 9
 rag_relevance: 10
-tags: ["headless browser", "agent automation", "RAG optimization", "MCP server", "state tokens"]
-source: "https://github.com/frane/vibesurfer"
-discovered_at: "2026-07-15T10:48:40Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- headless browser
+- agent automation
+- RAG optimization
+- MCP server
+- state tokens
+source: https://github.com/frane/vibesurfer
+stars: 12
+language: Rust
+last_updated: '2026-07-15T10:46:25Z'
+discovered_at: '2026-07-15T10:48:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

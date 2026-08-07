@@ -4,26 +4,27 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://skills.sh
-published_at: '2026-07-20T20:11:25.416429+05:30'
-collected_at: '2026-07-20T20:11:25.416447+05:30'
+published_at: '2026-08-02T16:29:51.448460+05:30'
+collected_at: '2026-08-02T16:29:51.448474+05:30'
 tags:
 - agents
-- animation
 - anthropic
 - frontend_ui
+- hackernews
 - leaderboard
 - meta-ai
 - models
 - paper
+- producthunt
 - reddit
 - scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:the-agent-skills-directory
-first_seen: '2026-07-20T20:11:25.416447+05:30'
-last_seen: '2026-07-20T20:11:25.416447+05:30'
-last_checked: '2026-07-20T20:11:25.416447+05:30'
+first_seen: '2026-08-02T16:29:51.448474+05:30'
+last_seen: '2026-08-02T16:29:51.448474+05:30'
+last_checked: '2026-08-02T16:29:51.448474+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Top Skills by Install Count**: `find-skills` (2.6M installs) leads, followed by `frontend-design` (684.3K) and `grill-me` (605.6K), indicating high demand for AI-driven skill discovery and frontend development tools.
-
-- **Dominant Repositories**: `microsoft/azure-skills` (7.4M total installs) and `open.feishu.cn` (9.7M total installs) dominate, with skills like `microsoft-foundry` and `lark-approval` showcasing enterprise and collaboration-focused tooling.
-
-- **Emerging Trends**: Skills like `hyperframes` (244.6K) and `shadcn` (243.4K) highlight growth in AI-powered media processing and modern UI component frameworks, while `supabase-postgres-best-practices` (296.9K) reflects database optimization trends.
+- **Top Skills by Install Count**: `find-skills` (2.8M), `frontend-design` (731.3K), and `grill-me` (727.7K) lead the leaderboard, with `find-skills` significantly ahead in total installs.
+- **Dominant Contributors**: `mattpocock/skills` (e.g., `grill-me`, `tdd`, `codebase-design`) and `microsoft/azure-skills` (e.g., `azure-messaging`, `azure-rbac`) are major contributors, with multiple high-ranking skills.
+- **Specialized Categories**: Skills are segmented into categories like AI/video generation (`ai-video-generation`), UI/UX design (`design-taste-frontend`), and Azure infrastructure (`azure-compute`), reflecting diverse technical domains.
 
 ## Why It Matters
 
@@ -45,18 +44,19 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-20T20:11:25.416429+05:30
+- Published: 2026-08-02T16:29:51.448460+05:30
 
 ## Related Tags
 
 - agents
-- animation
 - anthropic
 - frontend_ui
+- hackernews
 - leaderboard
 - meta-ai
 - models
 - paper
+- producthunt
 - reddit
 - scripts
 - web-crawled

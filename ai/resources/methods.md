@@ -3,17 +3,17 @@ title: Methods
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/methods/
-published_at: '2026-07-08T14:22:43.993585+05:30'
-collected_at: '2026-07-08T14:22:43.993598+05:30'
+source_url: https://gohugo.io/methods
+published_at: '2026-08-05T14:33:40.411344+05:30'
+collected_at: '2026-08-05T14:33:40.411355+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:methods
-first_seen: '2026-07-08T14:22:43.993598+05:30'
-last_seen: '2026-07-08T14:22:43.993598+05:30'
-last_checked: '2026-07-08T14:22:43.993598+05:30'
+first_seen: '2026-08-05T14:33:40.411355+05:30'
+last_seen: '2026-08-05T14:33:40.411355+05:30'
+last_checked: '2026-08-05T14:33:40.411355+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Duration Methods**: Apply to `time.Duration` values for time-based operations in Hugo templates.
-- **Menu Methods**: Used for iterating over menu entries (`menu`) or accessing individual entries (`menu-entry`) in Hugo templates.
-- **Resource Methods**: Apply to global, page, or remote `Resource` objects for asset handling in Hugo.
+- **Duration Methods**: Apply time.Duration operations for time-based calculations in Hugo templates.
+- **Menu Methods**: Iterate and manipulate menu entries using dedicated menu and menu entry methods.
+- **Resource Methods**: Access and process global, page, or remote resources via Resource object methods.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T14:22:43.993585+05:30
+- Published: 2026-08-05T14:33:40.411344+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://gohugo.io/methods/
+Original source: https://gohugo.io/methods

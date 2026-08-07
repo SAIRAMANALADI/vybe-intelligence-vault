@@ -5,12 +5,12 @@ Below is the file distribution across the vault categories.
 | Folder | Files |
 | :--- | ---: |
 | `Agent Framework/` | 1 |
-| `ai/agents/` | 1829 |
-| `ai/community/` | 3 |
-| `ai/rag/` | 3875 |
+| `ai/agents/` | 2541 |
+| `ai/community/` | 5 |
+| `ai/rag/` | 5467 |
 | `ai/releases/` | 1 |
-| `ai/research/` | 4891 |
-| `ai/resources/` | 1221 |
+| `ai/research/` | 7399 |
+| `ai/resources/` | 1430 |
 | `ai/trending/` | 5 |
 | `web-development/` | 39 |
 | `web-development/framer-motion/` | 3 |

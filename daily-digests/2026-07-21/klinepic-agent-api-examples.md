@@ -1,13 +1,30 @@
 ---
-title: "sher1096/klinepic-agent-api-examples"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "OpenAPI", "GitHub Actions"]
+title: sher1096/klinepic-agent-api-examples
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Docker
+- OpenAPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "trade visualization", "candlestick charts", "API examples", "AI agent integration"]
-source: "https://github.com/sher1096/klinepic-agent-api-examples"
-discovered_at: "2026-07-13T10:24:23Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- MCP server
+- trade visualization
+- candlestick charts
+- API examples
+- AI agent integration
+source: https://github.com/sher1096/klinepic-agent-api-examples
+stars: 20
+language: JavaScript
+last_updated: '2026-07-13T10:16:49Z'
+discovered_at: '2026-07-13T10:24:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,33 @@
 ---
-title: "PranavGS2006/agent-thinktank-stack"
-category: "Orchestrator"
-tech_stack: ["Node.js", "Python", "Model Context Protocol (MCP)", "YAML", "Mermaid.js", "OpenAI API", "Claude API", "Git", "MIT License"]
+title: PranavGS2006/agent-thinktank-stack
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Node.js
+- Python
+- Model Context Protocol (MCP)
+- YAML
+- Mermaid.js
+- OpenAI API
+- Claude API
+- Git
+- MIT License
 quality_score: 9
 rag_relevance: 8
-tags: ["persistent memory", "MCP integration", "AI coding assistants", "sprint tracking", "decision logging"]
-source: "https://github.com/PranavGS2006/agent-thinktank-stack"
-discovered_at: "2026-07-16T12:22:18Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- MCP integration
+- AI coding assistants
+- sprint tracking
+- decision logging
+source: https://github.com/PranavGS2006/agent-thinktank-stack
+stars: 0
+language: HTML
+last_updated: '2026-07-16T12:21:12Z'
+discovered_at: '2026-07-16T12:22:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

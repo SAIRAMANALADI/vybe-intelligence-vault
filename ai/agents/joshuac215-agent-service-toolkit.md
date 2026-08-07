@@ -4,23 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/JoshuaC215/agent-service-toolkit
-collected_at: '2026-07-21T22:17:07.579244+05:30'
-published_at: '2026-07-21T03:26:00Z'
+collected_at: '2026-08-07T08:54:19.044624+05:30'
+published_at: '2026-08-06T07:58:59Z'
 tags:
 - agents
 - github-repo
 - python
-stars: 4382
+- workflows
+stars: 4413
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2024-08-04T23:13:44Z'
-pushed_at: '2026-07-21T02:47:42Z'
+pushed_at: '2026-08-05T14:01:08Z'
 resource_id: github:joshuac215/agent-service-toolkit
-first_seen: '2026-07-21T22:17:07.579244+05:30'
-last_seen: '2026-07-21T22:17:07.579244+05:30'
-last_checked: '2026-07-21T22:17:07.579244+05:30'
+first_seen: '2026-08-07T08:54:19.044624+05:30'
+last_seen: '2026-08-07T08:54:19.044624+05:30'
+last_checked: '2026-08-07T08:54:19.044624+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Integration**: Combines LangGraph for agent orchestration, FastAPI for backend REST services, and Streamlit for frontend UI in a Python-based AI agent service toolkit.
+- **LangGraph-based agent orchestration**: Implements a modular agent service framework using LangGraph for stateful, graph-based agent workflows with FastAPI for RESTful endpoints.
 
-- **Modular Architecture**: Provides a structured toolkit for deploying scalable AI agents with pre-configured components for state management, tool integration, and API endpoints.
+- **Full-stack deployment**: Combines FastAPI (backend), Streamlit (frontend), and LangGraph (agent logic) into a unified toolkit for AI agent service deployment.
 
-- **Deployment-Ready**: Includes Docker support and example configurations for rapid deployment of agent services with minimal setup overhead.
+- **Production-ready toolkit**: Includes pre-configured agent templates, API integration patterns, and Streamlit-based UI components for rapid agent service development and deployment.
 
 ## Why It Matters
 
@@ -41,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: JoshuaC215
-- Stars: 4382
-- Forks: 743
+- Stars: 4413
+- Forks: 750
 - Language: Python
 - Topics: agents, langgraph, streamlit
-- Last Updated: 2026-07-21T03:26:00Z
+- Last Updated: 2026-08-06T07:58:59Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-04T23:13:44Z
-- Pushed At: 2026-07-21T02:47:42Z
+- Pushed At: 2026-08-05T14:01:08Z
 
 ## Possible Use Cases
 

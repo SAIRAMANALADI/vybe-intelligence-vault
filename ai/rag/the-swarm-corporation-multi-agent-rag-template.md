@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-07-21T22:17:17.686145+05:30'
+collected_at: '2026-08-07T08:54:24.151810+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 59
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-07-21T22:17:17.686145+05:30'
-last_seen: '2026-07-21T22:17:17.686145+05:30'
-last_checked: '2026-07-21T22:17:17.686145+05:30'
+first_seen: '2026-08-07T08:54:24.151810+05:30'
+last_seen: '2026-08-07T08:54:24.151810+05:30'
+last_checked: '2026-08-07T08:54:24.151810+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents using frameworks like AutoGen, CrewAI, and LangChain to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG).
+- **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) using Python, integrating tools like LangChain, ChromaDB, and Weaviate for document processing, retrieval-augmented generation (RAG), and vector storage.
 
-- **Integration of Vector Databases**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) for document storage and retrieval, enabling efficient similarity search and context-aware responses.
+- **Agent Orchestration**: Supports agent specialization (e.g., OpenAI GPT-3.5/4, Anthropic) with Discord integration for real-time coordination, enabling parallelized tasks such as document ingestion, chunking, and insight extraction.
 
-- **Multi-Model & Platform Compatibility**: Compatible with OpenAI (GPT-3.5/4/5), Anthropic, and Discord APIs, facilitating diverse agent interactions and deployment scenarios.
+- **Scalable Deployment**: Includes Pinecone compatibility for vector databases, modular agent templates, and last-updated support for GPT-5, optimizing multi-agent workflows for enterprise-grade document analysis.
 
 ## Why It Matters
 

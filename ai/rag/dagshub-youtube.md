@@ -4,17 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://youtube.com/c/dagshub
-published_at: '2026-07-21T16:56:20.586165+05:30'
-collected_at: '2026-07-21T16:56:20.586178+05:30'
+published_at: '2026-08-03T09:36:26.761398+05:30'
+collected_at: '2026-08-03T09:36:26.761412+05:30'
 tags:
+- hackernews
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:dagshub-youtube
-first_seen: '2026-07-21T16:56:20.586178+05:30'
-last_seen: '2026-07-21T16:56:20.586178+05:30'
-last_checked: '2026-07-21T16:56:20.586178+05:30'
+first_seen: '2026-08-03T09:36:26.761412+05:30'
+last_seen: '2026-08-03T09:36:26.761412+05:30'
+last_checked: '2026-08-03T09:36:26.761412+05:30'
 health_score: 100
 ---
 
@@ -22,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **YouTube's Core Infrastructure**: YouTube operates on a globally distributed system leveraging Google's infrastructure, including the Borg cluster management system, to handle petabytes of video data, ensuring low-latency streaming and high availability.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, monetization (via YouTube Partner Program), and live streaming, with a global reach of over 2 billion logged-in users monthly.
 
-- **Advertising & Monetization**: YouTube's ad platform integrates with Google Ads, utilizing machine learning models for real-time bidding, ad targeting, and dynamic ad insertion, with revenue sharing mechanisms for creators via the YouTube Partner Program.
+- **Technical Infrastructure**: Leverages Google’s cloud infrastructure for scalability, employs Content Delivery Networks (CDNs) for low-latency streaming, and utilizes AI-driven recommendation systems (e.g., deep neural networks) to personalize content discovery.
 
-- **API & Developer Ecosystem**: YouTube provides a comprehensive RESTful API (v3) for content management, analytics, and live streaming, supporting OAuth 2.0 authentication, quota systems, and integration with Google Cloud services for scalable application development.
+- **Developer & Policy Framework**: Provides a public API (YouTube Data API v3) for programmatic access, enforces strict copyright policies (Content ID system), and complies with regional regulations (e.g., GDPR, COPPA) via granular privacy controls and safety policies.
 
 ## Why It Matters
 
@@ -36,10 +37,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T16:56:20.586165+05:30
+- Published: 2026-08-03T09:36:26.761398+05:30
 
 ## Related Tags
 
+- hackernews
 - rag
 - web-crawled
 - youtube

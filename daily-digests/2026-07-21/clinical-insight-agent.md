@@ -1,13 +1,35 @@
 ---
-title: "Ediebah/clinical-insight-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "dbt", "DuckDB", "Streamlit", "statsmodels", "scikit-learn", "Synthea", "OpenAI API", "Ollama", "CI/CD (GitHub Actions)", "Docker"]
+title: Ediebah/clinical-insight-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- dbt
+- DuckDB
+- Streamlit
+- statsmodels
+- scikit-learn
+- Synthea
+- OpenAI API
+- Ollama
+- CI/CD (GitHub Actions)
+- Docker
 quality_score: 9
 rag_relevance: 10
-tags: ["AI data science", "healthcare analytics", "statistical modeling", "dbt warehouse", "self-healing agent"]
-source: "https://github.com/Ediebah/clinical-insight-agent"
-discovered_at: "2026-07-16T22:02:40Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI data science
+- healthcare analytics
+- statistical modeling
+- dbt warehouse
+- self-healing agent
+source: https://github.com/Ediebah/clinical-insight-agent
+stars: 0
+language: Python
+last_updated: '2026-07-16T22:00:16Z'
+discovered_at: '2026-07-16T22:02:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

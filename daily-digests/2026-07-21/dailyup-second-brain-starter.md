@@ -1,13 +1,29 @@
 ---
-title: "jexchan/dailyup-second-brain-starter"
-category: "UI Component"
-tech_stack: ["Obsidian", "Markdown", "Git", "Python (scripts)", "AI Agent Protocols (CLAUDE.md, AGENTS.md)"]
+title: jexchan/dailyup-second-brain-starter
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Obsidian
+- Markdown
+- Git
+- Python (scripts)
+- AI Agent Protocols (CLAUDE.md, AGENTS.md)
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge management", "Obsidian template", "AI collaboration", "second brain", "PKM"]
-source: "https://github.com/jexchan/dailyup-second-brain-starter"
-discovered_at: "2026-07-21T15:03:33Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- knowledge management
+- Obsidian template
+- AI collaboration
+- second brain
+- PKM
+source: https://github.com/jexchan/dailyup-second-brain-starter
+stars: 28
+language: Python
+last_updated: '2026-07-21T14:56:01Z'
+discovered_at: '2026-07-21T15:03:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,27 @@
 ---
-title: "indigokarasu/bower"
-category: "Tooling"
-tech_stack: ["Python", "Google Drive API", "OCAS (Open Capability Architecture System)"]
+title: indigokarasu/bower
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Google Drive API
+- OCAS (Open Capability Architecture System)
 quality_score: 6
 rag_relevance: 4
-tags: ["Google Drive", "file organization", "automation", "non-destructive", "preference learning"]
-source: "https://github.com/indigokarasu/bower"
-discovered_at: "2026-07-21T04:14:58Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Google Drive
+- file organization
+- automation
+- non-destructive
+- preference learning
+source: https://github.com/indigokarasu/bower
+stars: 0
+language: Python
+last_updated: '2026-07-21T04:04:31Z'
+discovered_at: '2026-07-21T04:14:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

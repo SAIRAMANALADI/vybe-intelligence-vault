@@ -3,9 +3,9 @@ title: Home - Schmidt Sciences
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://www.schmidtfutures.com/our-work/schmidt-ai-in-science-postdocs
-published_at: '2026-06-22T15:42:02.986471+05:30'
-collected_at: '2026-06-22T15:42:02.986488+05:30'
+source_url: https://www.schmidtsciences.org/
+published_at: '2026-08-02T14:16:17.559860+05:30'
+collected_at: '2026-08-02T14:16:17.559873+05:30'
 tags:
 - agents
 - anthropic
@@ -13,12 +13,11 @@ tags:
 - producthunt
 - reddit
 - web-crawled
-- youtube
 status: active
 resource_id: blog:home-schmidt-sciences
-first_seen: '2026-06-22T15:42:02.986488+05:30'
-last_seen: '2026-06-22T15:42:02.986488+05:30'
-last_checked: '2026-06-22T15:42:02.986488+05:30'
+first_seen: '2026-08-02T14:16:17.559873+05:30'
+last_seen: '2026-08-02T14:16:17.559873+05:30'
+last_checked: '2026-08-02T14:16:17.559873+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Philanthropic Initiative**: Schmidt Sciences (founded 2024) funds Eric and Wendy Schmidt’s vision for global resilience, advancing science via five centers: AI & Advanced Computing, Astrophysics & Space, Biosciences, Climate, and Science Systems.
+- **Mission & Focus**: Schmidt Sciences, established in 2024 by Eric and Wendy Schmidt, funds interdisciplinary research across AI & Advanced Computing, Astrophysics & Space, Biosciences, Climate, and Science Systems to address fundamental scientific questions and global challenges.
 
-- **Strategic Funding Model**: Proactively targets grant opportunities across hypothesis-driven research, from foundational science to planetary-scale challenges, with tailored programmatic support and no unsolicited proposals.
+- **Funding Model**: Operates via targeted programs and projects within five centers, providing tailored support for hypothesis-driven research, with no unsolicited proposals accepted and proactive grant opportunity identification.
 
-- **Key Impact Areas**: Recent $45M carbon cycle initiative, $18M AI2050 fellowships, and $3M AI-jobs study, alongside private space telescope (Lazuli) and observatory network funding to accelerate breakthroughs in trustworthy AI, sustainable biosciences, and astrophysical discovery.
+- **Key Initiatives**: Recent funding includes $18M for AI societal benefit research (AI2050 Fellows), $45M for carbon cycle studies, and multi-million-dollar investments in private space telescopes and AI-humanities integration.
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T15:42:02.986471+05:30
+- Published: 2026-08-02T14:16:17.559860+05:30
 
 ## Related Tags
 
@@ -50,8 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - reddit
 - web-crawled
-- youtube
 
 ## Source
 
-Original source: https://www.schmidtfutures.com/our-work/schmidt-ai-in-science-postdocs
+Original source: https://www.schmidtsciences.org/

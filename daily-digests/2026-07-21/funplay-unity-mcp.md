@@ -1,13 +1,31 @@
 ---
-title: "FunplayAI/funplay-unity-mcp"
-category: "Tooling"
-tech_stack: ["C#", "Unity Editor", "MCP (Model Context Protocol)", "Roslyn", "HTTP Server", "Unity Package Manager (UPM)", "OpenUPM"]
+title: FunplayAI/funplay-unity-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- C#
+- Unity Editor
+- MCP (Model Context Protocol)
+- Roslyn
+- HTTP Server
+- Unity Package Manager (UPM)
+- OpenUPM
 quality_score: 9
 rag_relevance: 8
-tags: ["Unity Editor", "MCP Server", "AI-Assisted Development", "Editor Automation", "Game Development"]
-source: "https://github.com/FunplayAI/funplay-unity-mcp"
-discovered_at: "2026-07-13T02:34:24Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Unity Editor
+- MCP Server
+- AI-Assisted Development
+- Editor Automation
+- Game Development
+source: https://github.com/FunplayAI/funplay-unity-mcp
+stars: 176
+language: C#
+last_updated: '2026-07-13T02:33:14Z'
+discovered_at: '2026-07-13T02:34:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TecharoHQ/anubis
-collected_at: '2026-07-21T17:01:36.777257+05:30'
-published_at: '2026-07-21T10:24:56Z'
+collected_at: '2026-08-03T01:14:08.213422+05:30'
+published_at: '2026-08-02T19:31:21Z'
 tags:
-- agents
 - github-repo
 - go
 - rag
-stars: 20828
+- scripts
+stars: 21100
 language: Go
 status: active
 license: MIT
 archived: false
 created_at: '2025-03-17T17:35:28Z'
-pushed_at: '2026-07-20T01:19:10Z'
+pushed_at: '2026-07-31T20:16:08Z'
 resource_id: github:techarohq/anubis
-first_seen: '2026-07-21T17:01:36.777257+05:30'
-last_seen: '2026-07-21T17:01:36.777257+05:30'
-last_checked: '2026-07-21T17:01:36.777257+05:30'
+first_seen: '2026-08-03T01:14:08.213422+05:30'
+last_seen: '2026-08-03T01:14:08.213422+05:30'
+last_checked: '2026-08-03T01:14:08.213422+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Anubis is a Go-based HTTP request validator designed to identify and block AI crawlers by analyzing request patterns and signatures.
-- **Mechanism**: Implements weighted scoring of incoming requests, leveraging heuristics (e.g., User-Agent, headers, request frequency) to distinguish malicious or automated traffic from legitimate users.
-- **Deployment**: Acts as a reverse proxy or middleware, integrating with web servers to enforce rate-limiting and bot mitigation policies dynamically.
+- **AI Crawler Detection**: Implements weighted soul-checking mechanisms to distinguish and block AI crawlers from legitimate HTTP requests, leveraging behavioral analysis.
+
+- **Go-Based Implementation**: Written in Go for high-performance request handling and low-latency defense against automated scraping or data harvesting.
+
+- **Security-Focused Defense**: Actively maintained (last update: 2026-08-02) to counter evolving AI-driven threats with minimal false positives.
 
 ## Why It Matters
 
@@ -40,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TecharoHQ
-- Stars: 20828
-- Forks: 658
+- Stars: 21100
+- Forks: 664
 - Language: Go
 - Topics: defense, security
-- Last Updated: 2026-07-21T10:24:56Z
+- Last Updated: 2026-08-02T19:31:21Z
 - License: MIT
 - Archived: No
 - Created At: 2025-03-17T17:35:28Z
-- Pushed At: 2026-07-20T01:19:10Z
+- Pushed At: 2026-07-31T20:16:08Z
 
 ## Possible Use Cases
 

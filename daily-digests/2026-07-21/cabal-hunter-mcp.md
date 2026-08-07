@@ -1,13 +1,31 @@
 ---
-title: "paulf280-ui/cabal-hunter-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Solana Blockchain", "Helius RPC", "REST API", "JavaScript"]
+title: paulf280-ui/cabal-hunter-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Solana Blockchain
+- Helius RPC
+- REST API
+- JavaScript
 quality_score: 8
 rag_relevance: 9
-tags: ["Solana", "rug detection", "cabal detection", "on-chain analysis", "MCP server"]
-source: "https://github.com/paulf280-ui/cabal-hunter-mcp"
-discovered_at: "2026-07-14T21:56:25Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- Solana
+- rug detection
+- cabal detection
+- on-chain analysis
+- MCP server
+source: https://github.com/paulf280-ui/cabal-hunter-mcp
+stars: 0
+language: JavaScript
+last_updated: '2026-07-14T21:52:37Z'
+discovered_at: '2026-07-14T21:56:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

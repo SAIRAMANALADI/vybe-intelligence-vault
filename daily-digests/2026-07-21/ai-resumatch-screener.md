@@ -1,13 +1,31 @@
 ---
-title: "gauravrustogi1/ai-resumatch-screener"
-category: "Tooling"
-tech_stack: ["Python", "IMAP (imaplib)", "BeautifulSoup4", "Playwright", "Ollama (local LLM)", "python-dotenv", "HTML generation"]
+title: gauravrustogi1/ai-resumatch-screener
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- IMAP (imaplib)
+- BeautifulSoup4
+- Playwright
+- Ollama (local LLM)
+- python-dotenv
+- HTML generation
 quality_score: 8
 rag_relevance: 6
-tags: ["job matching", "automation", "LLM integration", "email parsing", "resume screening"]
-source: "https://github.com/gauravrustogi1/ai-resumatch-screener"
-discovered_at: "2026-07-21T17:16:38Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- job matching
+- automation
+- LLM integration
+- email parsing
+- resume screening
+source: https://github.com/gauravrustogi1/ai-resumatch-screener
+stars: 0
+language: Python
+last_updated: '2026-07-21T17:10:08Z'
+discovered_at: '2026-07-21T17:16:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

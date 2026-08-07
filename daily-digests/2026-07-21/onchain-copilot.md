@@ -1,13 +1,35 @@
 ---
-title: "omgjxnas/onchain-copilot"
-category: "Agent Framework"
-tech_stack: ["React Native", "Expo", "TypeScript", "viem", "ethers.js", "ERC-4337", "Alchemy Account Kit", "WalletConnect", "Zerion Wallet Data API", "CoinGecko", "LLM Function-Calling"]
+title: omgjxnas/onchain-copilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- React Native
+- Expo
+- TypeScript
+- viem
+- ethers.js
+- ERC-4337
+- Alchemy Account Kit
+- WalletConnect
+- Zerion Wallet Data API
+- CoinGecko
+- LLM Function-Calling
 quality_score: 4
 rag_relevance: 6
-tags: ["AI agents", "onchain finance", "natural language interface", "account abstraction", "Robinhood Chain"]
-source: "https://github.com/omgjxnas/onchain-copilot"
-discovered_at: "2026-07-11T23:53:52Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI agents
+- onchain finance
+- natural language interface
+- account abstraction
+- Robinhood Chain
+source: https://github.com/omgjxnas/onchain-copilot
+stars: 0
+language: None
+last_updated: '2026-07-11T23:45:52Z'
+discovered_at: '2026-07-11T23:53:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

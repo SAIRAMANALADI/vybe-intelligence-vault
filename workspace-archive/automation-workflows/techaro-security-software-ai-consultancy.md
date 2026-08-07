@@ -1,16 +1,17 @@
 ---
 title: Techaro — Security Software & AI Consultancy
 archive_category: automation-workflows
-source_category: ai/resources
+source_category: ai/rag
 source_url: https://techaro.lol
 resource_id: blog:techaro-security-software-ai-consultancy
-local_vault_path: ai/resources/techaro-security-software-ai-consultancy.md
+local_vault_path: ai/rag/techaro-security-software-ai-consultancy.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- rag
 - web-crawled
 - workflows
 selection_reason:
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Bot Protection**: Open-source and commercial tools utilizing proof-of-work challenges to defend infrastructure against automated abuse.
+- **Bot Protection**: Open-source and commercial solutions leveraging proof-of-work challenges to mitigate automated abuse and safeguard infrastructure.
 
-- **AI Consultancy**: Provides strategic guidance on AI integration, covering architecture, deployment, and workflow optimization.
+- **AI Consultancy**: Provides strategic expertise in AI integration, covering architecture design, workflow optimization, and deployment strategies for product enhancement.
 
-- **Custom Software**: Offers end-to-end engineering services for building reliable, performant software tailored to specific team requirements.
+- **Custom Software**: End-to-end engineering services delivering tailored, high-performance software solutions aligned with client specifications.
 
 ## Use Cases
 
@@ -49,4 +50,4 @@ Original source URL: https://techaro.lol
 
 ## Local Vault File
 
-Path: [techaro-security-software-ai-consultancy.md](../../ai/resources/techaro-security-software-ai-consultancy.md)
+Path: [techaro-security-software-ai-consultancy.md](../../ai/rag/techaro-security-software-ai-consultancy.md)

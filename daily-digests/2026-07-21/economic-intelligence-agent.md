@@ -1,13 +1,36 @@
 ---
-title: "beepboop2025/economic-intelligence-agent"
-category: "Agent Framework"
-tech_stack: ["Python 3.9+", "aiohttp", "requests", "yfinance", "vaderSentiment", "NumPy", "SQLite", "OpenRouter/OpenAI/Anthropic/Ollama", "Rich", "TTL cache", "token-bucket rate limiter", "circuit breaker"]
+title: beepboop2025/economic-intelligence-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python 3.9+
+- aiohttp
+- requests
+- yfinance
+- vaderSentiment
+- NumPy
+- SQLite
+- OpenRouter/OpenAI/Anthropic/Ollama
+- Rich
+- TTL cache
+- token-bucket rate limiter
+- circuit breaker
 quality_score: 8
 rag_relevance: 7
-tags: ["economic analysis", "quantitative finance", "risk assessment", "multi-source data", "AI agent"]
-source: "https://github.com/beepboop2025/economic-intelligence-agent"
-discovered_at: "2026-07-19T17:59:00Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- economic analysis
+- quantitative finance
+- risk assessment
+- multi-source data
+- AI agent
+source: https://github.com/beepboop2025/economic-intelligence-agent
+stars: 0
+language: Python
+last_updated: '2026-07-19T17:53:34Z'
+discovered_at: '2026-07-19T17:59:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,33 @@
 ---
-title: "zaco-tm/DOMicile"
-category: "Agent Framework"
-tech_stack: ["HTML", "CSS", "JavaScript", "React", "Astro", "Rust", "WASM", "WebSocket", "Agent Skills Framework"]
+title: zaco-tm/DOMicile
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- HTML
+- CSS
+- JavaScript
+- React
+- Astro
+- Rust
+- WASM
+- WebSocket
+- Agent Skills Framework
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent UI", "interactive design", "feedback loop", "design system", "UI iteration"]
-source: "https://github.com/zaco-tm/DOMicile"
-discovered_at: "2026-07-18T14:50:40Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI agent UI
+- interactive design
+- feedback loop
+- design system
+- UI iteration
+source: https://github.com/zaco-tm/DOMicile
+stars: 1
+language: Rust
+last_updated: '2026-07-18T14:43:40Z'
+discovered_at: '2026-07-18T14:50:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

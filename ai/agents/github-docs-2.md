@@ -1,34 +1,32 @@
 ---
-title: docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs
+title: docs/content/copilot/get-started/what-is-github-copilot.md at main · github/docs
   · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
-published_at: '2026-07-21T09:24:09.432959+05:30'
-collected_at: '2026-07-21T09:24:09.432966+05:30'
+source_url: https://github.com/github/docs/blob/main/content/copilot/get-started/what-is-github-copilot.md
+published_at: '2026-08-06T04:00:24.095495+05:30'
+collected_at: '2026-08-06T04:00:24.095511+05:30'
 tags:
 - agents
-- frontend_ui
-- hackernews
 - web-crawled
 status: active
 resource_id: github:github/docs
-first_seen: '2026-07-21T09:24:09.432966+05:30'
-last_seen: '2026-07-21T09:24:09.432966+05:30'
-last_checked: '2026-07-21T09:24:09.432966+05:30'
+first_seen: '2026-08-06T04:00:24.095511+05:30'
+last_seen: '2026-08-06T04:00:24.095511+05:30'
+last_checked: '2026-08-06T04:00:24.095511+05:30'
 health_score: 100
 ---
 
-# docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs · GitHub
+# docs/content/copilot/get-started/what-is-github-copilot.md at main · github/docs · GitHub
 
 ## Summary
 
-- **Autonomous Research Agent**: The `/research` slash command in {% data variables.product.prodname_copilot_cli_short %} activates a specialized research agent that autonomously gathers and synthesizes in-depth information from your codebase, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
+- **AI-Powered Coding Assistant**: GitHub Copilot is an AI-driven tool integrated into IDEs, command lines, and GitHub platforms to provide real-time code suggestions, automate repetitive tasks, and assist in debugging, planning, and PR generation.
 
-- **Adaptive Output & Persistence**: Reports adapt to query type (process, conceptual, or technical deep-dive) and are saved as Markdown files with shareable gist/file options (`/share gist research` or `/share file research`), enabling permanent artifacts beyond transient chat responses.
+- **Multi-Model Access & Data Residency**: Supports individual (free/paid tiers) and enterprise plans (Copilot Business/Enterprise) with features like geographic data residency enforcement for {% data variables.product.prodname_ghe_cloud %} and higher-tier model access.
 
-- **Session-Local Execution & Model Constraints**: Research is tied to the current CLI session (stored in `~/.copilot/session-state/`), uses a fixed AI model (unconfigurable via `/model`), and is optimized for exhaustive investigation—avoid for quick fixes or code modifications.
+- **Cross-Platform Integration**: Deployable across IDEs (e.g., VS Code), GitHub Mobile, Windows Terminal, CLI, and the GitHub Copilot desktop app, enabling agent-driven development and contextual chat-based assistance.
 
 ## Why It Matters
 
@@ -38,15 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T09:24:09.432959+05:30
+- Published: 2026-08-06T04:00:24.095495+05:30
 
 ## Related Tags
 
 - agents
-- frontend_ui
-- hackernews
 - web-crawled
 
 ## Source
 
-Original source: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
+Original source: https://github.com/github/docs/blob/main/content/copilot/get-started/what-is-github-copilot.md

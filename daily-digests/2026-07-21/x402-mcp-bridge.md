@@ -1,13 +1,30 @@
 ---
-title: "hpp-io/x402-mcp-bridge"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "x402 Protocol", "Ethereum (USDC.e)", "CLI Tools"]
+title: hpp-io/x402-mcp-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- x402 Protocol
+- Ethereum (USDC.e)
+- CLI Tools
 quality_score: 8
 rag_relevance: 7
-tags: ["x402 protocol", "gasless payments", "AI agent integration", "MCP bridge", "USDC.e transactions"]
-source: "https://github.com/hpp-io/x402-mcp-bridge"
-discovered_at: "2026-07-13T02:34:28Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- x402 protocol
+- gasless payments
+- AI agent integration
+- MCP bridge
+- USDC.e transactions
+source: https://github.com/hpp-io/x402-mcp-bridge
+stars: 0
+language: TypeScript
+last_updated: '2026-07-13T02:29:38Z'
+discovered_at: '2026-07-13T02:34:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

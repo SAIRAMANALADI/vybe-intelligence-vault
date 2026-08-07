@@ -4,30 +4,30 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 
 | Research / Paper | Vault Folder | Score |
 | :--- | :--- | :--- |
-| [SCOReD: Student-Aware CoT Optimization for Recommendation Distillation](https://arxiv.org/abs/2607.05734) | `ai-coding-agents/` | 70 |
-| [TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs](https://arxiv.org/abs/2606.26029) | `ai-coding-agents/` | 70 |
-| [Environmental Drivers of Respiratory Disease: A District Level Analysis](https://arxiv.org/abs/2607.04416) | `ai-coding-agents/` | 70 |
-| [Mitigating Early Training Collapse in CTR Models](https://arxiv.org/abs/2607.09696) | `ai-coding-agents/` | 70 |
-| [On the Optimal Reasoning Length for RL-Trained Language Models](https://arxiv.org/abs/2602.09591) | `ai-coding-agents/` | 70 |
-| [HyDRA: Hybrid Dynamic Routing Architecture for Heterogeneous LLM Pools](https://arxiv.org/abs/2605.17106) | `ai-coding-agents/` | 70 |
-| [Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build](https://arxiv.org/abs/2605.21629) | `ai-coding-agents/` | 70 |
-| [A Quantitative Analysis of Multimodal Biomarkers in Alzheimer's Disease](https://arxiv.org/abs/2606.17867) | `ai-coding-agents/` | 70 |
-| [A Temporal Machine Learning-Based Time-to-Event Model for Predicting ALS Progression and Healthcare Utilization](https://arxiv.org/abs/2607.14190) | `ai-coding-agents/` | 70 |
-| [Fingerprint, Not Blueprint: How Positional Schemes Set the Default Spectral Algebra of Attention](https://arxiv.org/abs/2607.06621) | `ai-coding-agents/` | 70 |
-| [Lightweight CNN-Based Anomaly Detection for High Voltage Converter Modulators in the Spallation Neutron Source](https://arxiv.org/abs/2605.31259) | `ai-coding-agents/` | 70 |
-| [SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding](https://arxiv.org/abs/2607.10400) | `ai-coding-agents/` | 70 |
-| [The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences](https://arxiv.org/abs/2606.24104) | `ai-coding-agents/` | 70 |
-| [Assessing AI in Introductory Physics Problem Solving](https://arxiv.org/abs/2607.14303) | `ai-coding-agents/` | 70 |
-| [Hierarchical Multi-to-Single-Modal Knowledge Distillation for Disruption Prediction in EAST](https://arxiv.org/abs/2607.04241) | `ai-coding-agents/` | 70 |
-| [Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers](https://arxiv.org/abs/2606.24099) | `ai-coding-agents/` | 70 |
-| [Benchmarking API Drift in LLM-Generated Quantum Code Across Successive SDK Versions](https://arxiv.org/abs/2607.04072) | `ai-coding-agents/` | 70 |
-| [EyeMulator: Improving Code Language Models by Mimicking Human Visual Attention](https://arxiv.org/abs/2508.16771) | `ai-coding-agents/` | 70 |
-| [How Post-Training Shapes Biological Reasoning Models](https://arxiv.org/abs/2606.16517) | `ai-coding-agents/` | 70 |
-| [When Multi-Sensor Fusion Fails to Generalize: Cattle Posture Classification Under Animal-Level and Temporal Distribution Shift](https://arxiv.org/abs/2606.24986) | `ai-coding-agents/` | 70 |
-| [Compete Then Collaborate: Frontier AI Teachers Build a Verifiable Curriculum to Improve a Coding Student Beyond Imitation](https://arxiv.org/abs/2607.08255) | `ai-coding-agents/` | 70 |
-| [EvalStop: Using World Feedback to Detect and Correct Reward Overoptimization in Multi-Tenant RLHF Platforms](https://arxiv.org/abs/2606.04145) | `ai-coding-agents/` | 70 |
-| [You Don't Need to Run Every Eval](https://arxiv.org/abs/2606.24020) | `ai-coding-agents/` | 70 |
-| [Workload-Driven Optimization for On-Device Real-Time Subtitle Translation](https://arxiv.org/abs/2607.09957) | `ai-coding-agents/` | 70 |
-| [TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models](https://arxiv.org/abs/2607.09562) | `ai-coding-agents/` | 70 |
+| [Reliability-Asymmetric Spacecraft Autonomy: Co-Designing a Capable Learned GNC Stack with a Verified, Adaptation-Aware Runtime Shield](https://arxiv.org/abs/2606.25366) | `ai-coding-agents/` | 70 |
+| [Non-Asymptotic Best Policy Identification Guarantees in Online Reinforcement Learning](https://arxiv.org/abs/2607.17201) | `ai-coding-agents/` | 70 |
+| [Don't Make Models Guess Security and Safety: Symbolic Guardrails for Domain-Specific AI Agents](https://arxiv.org/abs/2604.15579) | `ai-coding-agents/` | 70 |
+| [EvoDRC: A Self-Evolving Agentic Framework for Automated DRC Violation Repair](https://arxiv.org/abs/2607.20019) | `ai-coding-agents/` | 70 |
+| [EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments](https://arxiv.org/abs/2607.05155) | `ai-coding-agents/` | 70 |
+| [Explain Before You Answer: A Survey on Compositional Visual Reasoning](https://arxiv.org/abs/2508.17298) | `ai-coding-agents/` | 70 |
+| [Moral Hazard in Multi-Agent Language Models](https://arxiv.org/abs/2607.23982) | `ai-coding-agents/` | 70 |
+| [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | `ai-coding-agents/` | 70 |
+| [ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability](https://arxiv.org/abs/2607.02686) | `ai-coding-agents/` | 70 |
+| [Towards Robust Tool Use in Agents via Experience-Driven Adaptive Guidance](https://arxiv.org/abs/2608.03403) | `ai-coding-agents/` | 70 |
+| [From Trajectories to Prefixes: Reusing Teacher Trajectories via Replayed Prefixes and Online Continuation](https://arxiv.org/abs/2607.19395) | `ai-coding-agents/` | 70 |
+| [STRIDE: Strategic Trajectory Reasoning via Discriminative Estimation for Verifiable Reinforcement Learning](https://arxiv.org/abs/2606.15866) | `ai-coding-agents/` | 70 |
+| [Studying, Identifying, and Fixing Hidden Technical Debt in AI-Intensive Cyber-Physical Systems](https://arxiv.org/abs/2608.02638) | `ai-coding-agents/` | 70 |
+| [Looking Is Not Picking: An Attention-Segment Account of Tool-Selection Failures in LLM Agents](https://arxiv.org/abs/2606.16364) | `ai-coding-agents/` | 70 |
+| [MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2505.16988) | `ai-coding-agents/` | 70 |
+| [From Cognitive Architectures to Language Agents: A Mechanism-Level Review of Lineage, Convergence, and Migration Gaps](https://arxiv.org/abs/2607.23942) | `ai-coding-agents/` | 70 |
+| [Open-Weather Robust 3D Detection via Dual-Critic Diffusion Alignment](https://arxiv.org/abs/2607.01983) | `ai-coding-agents/` | 70 |
+| [Moving Out: Physically-grounded Human-AI Collaboration](https://arxiv.org/abs/2507.18623) | `ai-coding-agents/` | 70 |
+| [SkillJect: Effectively Automating Skill-Based Prompt Injection for Skill-Enabled Agents](https://arxiv.org/abs/2602.14211) | `ai-coding-agents/` | 70 |
+| [ClawEnvKit: Automatic Environment Generation for Claw-Like Agents](https://arxiv.org/abs/2604.18543) | `ai-coding-agents/` | 70 |
+| [On Randomized Algorithms in Online Strategic Classification](https://arxiv.org/abs/2602.06257) | `ai-coding-agents/` | 70 |
+| [Are We Ready for AI-Driven Discovery? AI Verification Before the Next Fundamental Physics Breakthrough](https://arxiv.org/abs/2607.10039) | `ai-coding-agents/` | 70 |
+| [Orchestrated Reality: From Role-Play to Living, Playable Game Worlds -- LLM-Driven World Simulation as a Parameterized-Action POMDP](https://arxiv.org/abs/2606.16014) | `ai-coding-agents/` | 70 |
+| [The Internet of Agentic AI: Communication, Coordination, and Collective Intelligence at Scale](https://arxiv.org/abs/2606.12835) | `ai-coding-agents/` | 70 |
+| [The Changing Role of Symbolic Methods in Artificial Intelligence](https://arxiv.org/abs/2607.05168) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -3,9 +3,9 @@ title: Join | Mozilla Data Collective
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://datacollective.mozillafoundation.org
-published_at: '2026-06-24T23:15:55.403919+05:30'
-collected_at: '2026-06-24T23:15:55.403927+05:30'
+source_url: https://datacollective.mozillafoundation.org/
+published_at: '2026-08-01T09:33:27.307594+05:30'
+collected_at: '2026-08-01T09:33:27.307605+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:join-mozilla-data-collective
-first_seen: '2026-06-24T23:15:55.403927+05:30'
-last_seen: '2026-06-24T23:15:55.403927+05:30'
-last_checked: '2026-06-24T23:15:55.403927+05:30'
+first_seen: '2026-08-01T09:33:27.307605+05:30'
+last_seen: '2026-08-01T09:33:27.307605+05:30'
+last_checked: '2026-08-01T09:33:27.307605+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Decentralized Data Ownership & Monetization**: Platform enables users to upload datasets while retaining full ownership, allowing them to set access terms, licensing conditions, and retain 100% revenue from data usage.
+- **Platform for Multilingual, Multicultural, Multimodal Data**: Mozilla Data Collective provides a platform for sharing datasets across languages, cultures, and modalities, enabling fair value exchange and human agency in data usage.
 
-- **Multilingual & Multicultural Dataset Curation**: Aggregates diverse, globally-sourced datasets (text, audio, visual) to ensure AI/ML systems are trained on representative, ethically-sourced data from underrepresented communities.
+- **Controlled Data Sharing & Compensation**: Users retain ownership of datasets, set access terms, and can opt for open-source, community-governed, or compensated sharing models, with revenue shared upon download.
 
-- **Community-Governed & Ethical AI Framework**: Operates as a mission-locked British nonprofit, prioritizing consent, provenance transparency, and fair value exchange to mitigate exploitative data extraction practices in AI development.
+- **Mission-Driven, Non-Extractive Data Curation**: Operates as a mission-locked British company under Mozilla Foundation, focusing on diverse, ethically sourced datasets to ensure AI development aligns with inclusive and consent-based principles.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T23:15:55.403919+05:30
+- Published: 2026-08-01T09:33:27.307594+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://datacollective.mozillafoundation.org
+Original source: https://datacollective.mozillafoundation.org/

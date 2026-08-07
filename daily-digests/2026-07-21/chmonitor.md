@@ -1,13 +1,35 @@
 ---
-title: "chmonitor/chmonitor"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "TanStack Start", "Vite", "Rust", "ClickHouse", "Docker", "Kubernetes", "Cloudflare Workers", "Node.js", "PostgreSQL"]
+title: chmonitor/chmonitor
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- React
+- TanStack Start
+- Vite
+- Rust
+- ClickHouse
+- Docker
+- Kubernetes
+- Cloudflare Workers
+- Node.js
+- PostgreSQL
 quality_score: 9
 rag_relevance: 8
-tags: ["ClickHouse", "Database Monitoring", "AI Advisor", "Query Optimization", "Self-hosted"]
-source: "https://github.com/chmonitor/chmonitor"
-discovered_at: "2026-07-18T05:24:10Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- ClickHouse
+- Database Monitoring
+- AI Advisor
+- Query Optimization
+- Self-hosted
+source: https://github.com/chmonitor/chmonitor
+stars: 249
+language: TypeScript
+last_updated: '2026-07-18T05:21:49Z'
+discovered_at: '2026-07-18T05:24:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

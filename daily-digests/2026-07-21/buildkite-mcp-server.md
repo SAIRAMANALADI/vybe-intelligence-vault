@@ -1,13 +1,29 @@
 ---
-title: "buildkite/buildkite-mcp-server"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Buildkite API", "Docker", "Chainguard Static Image"]
+title: buildkite/buildkite-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Buildkite API
+- Docker
+- Chainguard Static Image
 quality_score: 8
 rag_relevance: 7
-tags: ["CI/CD", "Buildkite", "MCP Server", "AI Integration", "DevOps"]
-source: "https://github.com/buildkite/buildkite-mcp-server"
-discovered_at: "2026-07-12T23:52:15Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- CI/CD
+- Buildkite
+- MCP Server
+- AI Integration
+- DevOps
+source: https://github.com/buildkite/buildkite-mcp-server
+stars: 52
+language: Go
+last_updated: '2026-07-12T23:47:09Z'
+discovered_at: '2026-07-12T23:52:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

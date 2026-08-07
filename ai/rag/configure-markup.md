@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-07-21T22:19:30.103049+05:30'
-collected_at: '2026-07-21T22:19:30.103066+05:30'
+published_at: '2026-08-07T08:57:04.005530+05:30'
+collected_at: '2026-08-07T08:57:04.005542+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-07-21T22:19:30.103066+05:30'
-last_seen: '2026-07-21T22:19:30.103066+05:30'
-last_checked: '2026-07-21T22:19:30.103066+05:30'
+first_seen: '2026-08-07T08:57:04.005542+05:30'
+last_seen: '2026-08-07T08:57:04.005542+05:30'
+last_checked: '2026-08-07T08:57:04.005542+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Markdown Handler**: Hugo defaults to Goldmark for Markdown rendering (`.md`, `.mdown`, `.markdown`), with alternative handlers (`asciidocext`, `org`, `pandoc`, `rst`) configurable via `defaultMarkdownHandler`; Goldmark is recommended for its speed, CommonMark/GFM compliance, and maintenance.
+- **Markdown Rendering Configuration**: Hugo defaults to Goldmark for Markdown processing (`.md`, `.mdown`, `.markdown`), with alternative renderers (AsciiDoc, Org, Pandoc, reStructuredText) configurable via `defaultMarkdownHandler`; requires additional tooling and security policy updates for non-Goldmark handlers.
 
-- **Goldmark Configuration**: Goldmark’s default settings include enabled extensions (`definitionList`, `footnote`, `linkify`, `strikethrough`, `table`, `taskList`, `typographer`) and configurable parser/renderer options (e.g., `autoHeadingID`, `hardWraps`, `unsafe`); extensions like `extras` (subscript/superscript) require disabling conflicting extensions (e.g., `strikethrough`).
+- **Goldmark Extensions & Settings**: Default Goldmark configuration includes CJK, definition lists, footnotes, linkify, strikethrough, tables, task lists, and typographer; extras (deleted/inserted text, mark, sub/superscript) and passthrough (LaTeX math) are optional; conflicts (e.g., subscript vs. strikethrough) must be resolved explicitly.
 
-- **Multilingual & Render Hooks**: `duplicateResourceFiles` controls resource duplication in multilingual projects, defaulting to `false` to enable embedded link/image render hooks; `wrapStandAloneImageWithinParagraph` toggles standalone image wrapping in `<p>` tags (default: `true`).
+- **Parser & Renderer Options**: Key parser settings include `wrapStandAloneImageWithinParagraph` (controls `<p>` wrapping for images), `autoDefinitionTermID` (adds `id` to `<dt>`), and `autoHeadingID` (adds `id` to headings); renderer options include `hardWraps`, `unsafe` (raw HTML), and `xhtml` (XHTML output).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:19:30.103049+05:30
+- Published: 2026-08-07T08:57:04.005530+05:30
 
 ## Related Tags
 

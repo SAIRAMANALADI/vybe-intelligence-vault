@@ -1,19 +1,19 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/rag
+source_category: ai/agents
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/rag/arxiv-replicate-replicate.md
+local_vault_path: ai/agents/arxiv-replicate-replicate.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- rag
+- agents
+- anthropic
 - web-crawled
-- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Nano-Banana-2**: Google's lightweight diffusion-based image generation model enabling real-time conversational editing, multi-image fusion, and character consistency with 15M+ public runs.
-- **Grok-Imagine-Video**: xAI's autoregressive video generation model leveraging transformer architecture for high-quality video synthesis, achieving 1.4M+ public runs.
-- **Flux-2-Max**: Black Forest Labs' high-fidelity latent diffusion model optimized for photorealistic image generation, surpassing prior
+- **Gemini-3.1-Flash-TTS**: Google's TTS model supporting 30 voices and 70+ languages, optimized for speed and expressiveness with 409.2K runs.
+- **Claude-Opus-4.7**: Anthropic's advanced model featuring improved agentic coding, vision capabilities, and multi-step reasoning, with 237.8K runs.
+- **Krea-2-Medium**: Foundation image model from Krea, specialized for expressive illustration, anime, and painterly styles, with 22.4K runs.
 
 ## Use Cases
 
@@ -48,4 +48,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/rag/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/agents/arxiv-replicate-replicate.md)

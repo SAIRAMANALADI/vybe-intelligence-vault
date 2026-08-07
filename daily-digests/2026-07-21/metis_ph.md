@@ -1,13 +1,33 @@
 ---
-title: "SVerITG/Metis_PH"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude MCP", "Anthropic API", "Local embeddings", "SQLite/Vector DB", "FastAPI", "React (Dashboard)", "WSL (Windows)", "Git"]
+title: SVerITG/Metis_PH
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Claude MCP
+- Anthropic API
+- Local embeddings
+- SQLite/Vector DB
+- FastAPI
+- React (Dashboard)
+- WSL (Windows)
+- Git
 quality_score: 9
 rag_relevance: 10
-tags: ["Research Automation", "Knowledge Graph", "Local AI", "Public Health", "Self-Improving Agent"]
-source: "https://github.com/SVerITG/Metis_PH"
-discovered_at: "2026-07-14T16:14:13Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Research Automation
+- Knowledge Graph
+- Local AI
+- Public Health
+- Self-Improving Agent
+source: https://github.com/SVerITG/Metis_PH
+stars: 1
+language: Python
+last_updated: '2026-07-14T16:11:05Z'
+discovered_at: '2026-07-14T16:14:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

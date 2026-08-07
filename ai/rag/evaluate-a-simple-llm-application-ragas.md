@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/latest/getstarted/evals/
-published_at: '2026-07-20T20:09:29.248096+05:30'
-collected_at: '2026-07-20T20:09:29.248112+05:30'
+published_at: '2026-08-05T09:08:49.065249+05:30'
+collected_at: '2026-08-05T09:08:49.065263+05:30'
 tags:
 - anthropic
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:evaluate-a-simple-llm-application-ragas
-first_seen: '2026-07-20T20:09:29.248112+05:30'
-last_seen: '2026-07-20T20:09:29.248112+05:30'
-last_checked: '2026-07-20T20:09:29.248112+05:30'
+first_seen: '2026-08-05T09:08:49.065263+05:30'
+last_seen: '2026-08-05T09:08:49.065263+05:30'
+last_checked: '2026-08-05T09:08:49.065263+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Project Setup**: The `ragas quickstart` command generates a project with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM application), and structured directories (`evals/datasets/`, `evals/experiments/`, `evals/logs/`), configured via `pyproject.toml` for dependency management.
+- **Quickstart Setup**: The `ragas quickstart` command generates a project with `evals.py` (evaluation workflow) and `rag.py` (RAG/LLM application), including modular functions for dataset loading, querying, evaluation, and result logging (CSV in `evals/experiments/`).
 
-- **Multi-Provider LLM Integration**: Supports seamless switching between LLM providers (OpenAI, Anthropic, Google, Ollama, or custom) by configuring API keys and modifying the `llm_factory` in `_init_clients()` with provider-specific clients (e.g., `OpenAI()`, `Anthropic()`, `genai.GenerativeModel()`).
+- **Multi-Provider LLM Integration**: Supports OpenAI, Anthropic, Google, Ollama, or custom providers via `llm_factory`; configuration requires API keys (e.g., `OPENAI_API_KEY`) and client initialization (e.g., `llm_factory("gpt-4o", client=client)`).
 
-- **Evaluation Workflow**: Implements a dataset-driven evaluation pipeline using `SingleTurnSample` or `Dataset` objects, scoring responses against ground truth with pre-built metrics (e.g., `DiscreteMetric`) or custom evaluators, with results saved to CSV in `evals/experiments/`.
+- **Pre-Built Metrics & Dataset Evaluation**: Includes `DiscreteMetric` for customizable aspect evaluation (e.g., `summary_accuracy`) and supports batch evaluation via `Dataset` objects (CSV/JSONL) with structured test samples for scalable testing.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T20:09:29.248096+05:30
+- Published: 2026-08-05T09:08:49.065249+05:30
 
 ## Related Tags
 

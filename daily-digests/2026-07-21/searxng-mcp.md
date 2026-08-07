@@ -1,13 +1,32 @@
 ---
-title: "88plug/searxng-mcp"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SearXNG", "Playwright", "FastAPI", "Docker", "uv", "Claude Code"]
+title: 88plug/searxng-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SearXNG
+- Playwright
+- FastAPI
+- Docker
+- uv
+- Claude Code
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "SearXNG integration", "web search", "token efficiency", "page extraction"]
-source: "https://github.com/88plug/searxng-mcp"
-discovered_at: "2026-07-17T14:43:24Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- MCP server
+- SearXNG integration
+- web search
+- token efficiency
+- page extraction
+source: https://github.com/88plug/searxng-mcp
+stars: 0
+language: Python
+last_updated: '2026-07-17T14:40:45Z'
+discovered_at: '2026-07-17T14:43:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

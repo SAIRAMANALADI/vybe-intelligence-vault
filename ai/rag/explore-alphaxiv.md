@@ -4,22 +4,26 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://alphaxiv.org/
-published_at: '2026-07-19T21:48:34.602842+05:30'
-collected_at: '2026-07-19T21:48:34.602853+05:30'
+published_at: '2026-08-04T20:18:10.944784+05:30'
+collected_at: '2026-08-04T20:18:10.944802+05:30'
 tags:
 - agents
 - benchmark
+- dataset
+- frontend_ui
 - hackernews
 - models
+- openai
 - paper
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:explore-alphaxiv
-first_seen: '2026-07-19T21:48:34.602853+05:30'
-last_seen: '2026-07-19T21:48:34.602853+05:30'
-last_checked: '2026-07-19T21:48:34.602853+05:30'
+first_seen: '2026-08-04T20:18:10.944802+05:30'
+last_seen: '2026-08-04T20:18:10.944802+05:30'
+last_checked: '2026-08-04T20:18:10.944802+05:30'
 health_score: 100
 ---
 
@@ -27,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **SEED Framework**: Introduces SElf-Evolving On-Policy Distillation (SEED) for LLM agents, enabling token-level supervision and sample efficiency improvements (14.9–45.9% macro-average success rate gains on ALFWorld via dense hindsight skill distillation).
+- **Qwen3.8-Max**: First open-sourced Qwen-Max-class model (2.4T params, 95B active) enabling multi-day autonomous execution in software engineering, ML research, chip design, and business simulation; introduces RL infrastructure and multimodal agent feedback loops with vision as a control signal.
 
-- **Video = World + Event Stream**: Wan-Streamer v0.3 models video as a composition of world states and event streams, achieving 200ms latency for 640x368@25FPS while enabling real-time interactive agents with open-vocabulary behaviors.
+- **Ego2Robot**: Synthetic robot dataset generation pipeline converting egocentric human manipulation videos for pretraining vision-language-action models, improving OOD generalization across visual, scene, embodiment, and semantic shifts with real-robot performance gains in long-horizon tasks.
 
-- **Inkling MoE Model**: Thinking Machines releases Inkling, a 975B-parameter (41B active) Mixture-of-Experts transformer with 1M-token context, trained on 45T tokens across modalities, supporting native multimodal reasoning and controllable "thinking effort".
+- **WorldExam Benchmark**: Diagnostic framework assessing "inherent reactivity" in video world models, revealing that current systems fail to infer plausible scene-conditioned consequences despite strong visual quality or control adherence, evaluated across 20 models.
 
 ## Why It Matters
 
@@ -41,17 +45,21 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T21:48:34.602842+05:30
+- Published: 2026-08-04T20:18:10.944784+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- dataset
+- frontend_ui
 - hackernews
 - models
+- openai
 - paper
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

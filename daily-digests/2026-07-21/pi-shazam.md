@@ -1,13 +1,30 @@
 ---
-title: "gjczone/pi-shazam"
-category: "Tooling"
-tech_stack: ["TypeScript", "tree-sitter", "Language Server Protocol (LSP)", "ProtoBuf", "Node.js", "MCP (Model Context Protocol)"]
+title: gjczone/pi-shazam
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- tree-sitter
+- Language Server Protocol (LSP)
+- ProtoBuf
+- Node.js
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-tags: ["code analysis", "AI agent tools", "structural analysis", "LSP integration", "tree-sitter"]
-source: "https://github.com/gjczone/pi-shazam"
-discovered_at: "2026-07-11T07:52:41Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- code analysis
+- AI agent tools
+- structural analysis
+- LSP integration
+- tree-sitter
+source: https://github.com/gjczone/pi-shazam
+stars: 5
+language: TypeScript
+last_updated: '2026-07-11T07:40:48Z'
+discovered_at: '2026-07-11T07:52:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

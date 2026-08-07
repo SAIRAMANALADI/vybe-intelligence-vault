@@ -1,13 +1,29 @@
 ---
-title: "Bitcoindefi/agente-smith"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "JavaScript", "MCP (Model Context Protocol)", "SAIJ API", "Git (for case privacy)"]
+title: Bitcoindefi/agente-smith
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Claude Code
+- JavaScript
+- MCP (Model Context Protocol)
+- SAIJ API
+- Git (for case privacy)
 quality_score: 8
 rag_relevance: 6
-tags: ["legal AI", "Argentine law", "Claude Code", "jurisprudence research", "multi-jurisdiction"]
-source: "https://github.com/Bitcoindefi/agente-smith"
-discovered_at: "2026-07-18T23:52:38Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- legal AI
+- Argentine law
+- Claude Code
+- jurisprudence research
+- multi-jurisdiction
+source: https://github.com/Bitcoindefi/agente-smith
+stars: 0
+language: JavaScript
+last_updated: '2026-07-18T23:45:15Z'
+discovered_at: '2026-07-18T23:52:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

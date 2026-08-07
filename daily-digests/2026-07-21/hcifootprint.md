@@ -1,13 +1,29 @@
 ---
-title: "footprintjs/hcifootprint"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "React (implied by frontend integration)", "Mermaid.js (for diagrams)"]
+title: footprintjs/hcifootprint
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Node.js
+- React (implied by frontend integration)
+- Mermaid.js (for diagrams)
 quality_score: 9
 rag_relevance: 8
-tags: ["agent integration", "skill graph", "frontend navigation", "MCP server", "UI automation"]
-source: "https://github.com/footprintjs/hcifootprint"
-discovered_at: "2026-07-14T05:29:12Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- agent integration
+- skill graph
+- frontend navigation
+- MCP server
+- UI automation
+source: https://github.com/footprintjs/hcifootprint
+stars: 2
+language: TypeScript
+last_updated: '2026-07-14T05:16:11Z'
+discovered_at: '2026-07-14T05:29:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

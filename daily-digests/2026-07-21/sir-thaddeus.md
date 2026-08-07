@@ -1,13 +1,32 @@
 ---
-title: "raydeStar/sir-thaddeus"
-category: "Agent Framework"
-tech_stack: ["C#", "React", ".NET Runtime", "MCP (Model Context Protocol)", "LM Studio", "Ollama", "Python (for voice backend)", "Playwright (for testing)"]
+title: raydeStar/sir-thaddeus
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- C#
+- React
+- .NET Runtime
+- MCP (Model Context Protocol)
+- LM Studio
+- Ollama
+- Python (for voice backend)
+- Playwright (for testing)
 quality_score: 9
 rag_relevance: 7
-tags: ["local-first AI", "Windows assistant", "private workspace", "deterministic tools", "model harness"]
-source: "https://github.com/raydeStar/sir-thaddeus"
-discovered_at: "2026-07-16T16:25:41Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- local-first AI
+- Windows assistant
+- private workspace
+- deterministic tools
+- model harness
+source: https://github.com/raydeStar/sir-thaddeus
+stars: 8
+language: C#
+last_updated: '2026-07-16T16:20:33Z'
+discovered_at: '2026-07-16T16:25:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

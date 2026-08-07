@@ -1,13 +1,31 @@
 ---
-title: "themkn/gandi-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Gandi LiveDNS API", "Zod", "Hono", "PNPM"]
+title: themkn/gandi-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Gandi LiveDNS API
+- Zod
+- Hono
+- PNPM
 quality_score: 9
 rag_relevance: 7
-tags: ["DNS management", "MCP server", "Gandi LiveDNS", "automation", "backup"]
-source: "https://github.com/themkn/gandi-mcp"
-discovered_at: "2026-07-21T12:23:56Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- DNS management
+- MCP server
+- Gandi LiveDNS
+- automation
+- backup
+source: https://github.com/themkn/gandi-mcp
+stars: 3
+language: TypeScript
+last_updated: '2026-07-21T12:17:23Z'
+discovered_at: '2026-07-21T12:23:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

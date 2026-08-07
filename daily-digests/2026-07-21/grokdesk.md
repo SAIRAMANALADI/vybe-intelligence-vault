@@ -1,13 +1,29 @@
 ---
-title: "KAMIENDER/GrokDesk"
-category: "UI Component"
-tech_stack: ["Swift", "SwiftUI", "macOS", "ACP/JSON-RPC", "Shell scripting"]
+title: KAMIENDER/GrokDesk
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Swift
+- SwiftUI
+- macOS
+- ACP/JSON-RPC
+- Shell scripting
 quality_score: 8
 rag_relevance: 6
-tags: ["macOS client", "Grok Build", "SwiftUI", "ACP protocol", "local AI interface"]
-source: "https://github.com/KAMIENDER/GrokDesk"
-discovered_at: "2026-07-19T13:17:18Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- macOS client
+- Grok Build
+- SwiftUI
+- ACP protocol
+- local AI interface
+source: https://github.com/KAMIENDER/GrokDesk
+stars: 0
+language: Swift
+last_updated: '2026-07-19T13:13:22Z'
+discovered_at: '2026-07-19T13:17:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

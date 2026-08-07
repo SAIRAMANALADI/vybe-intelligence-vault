@@ -3,19 +3,20 @@ title: Medium
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/googleplaydev/how-to-scale-the-happiness-of-your-users-3e46ef72029f
-published_at: '2026-07-21T22:23:09.811478+05:30'
-collected_at: '2026-07-21T22:23:09.811495+05:30'
+source_url: https://blog.medium.com/?source=post_page
+resource_id: blog:medium
+-----d10bb57690----------------------------------------
+published_at: '2026-08-06T20:12:58.555367+05:30'
+collected_at: '2026-08-06T20:12:58.555380+05:30'
 tags:
-- agents
-- leaderboard
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:medium
-first_seen: '2026-07-21T22:23:09.811495+05:30'
-last_seen: '2026-07-21T22:23:09.811495+05:30'
-last_checked: '2026-07-21T22:23:09.811495+05:30'
+first_seen: '2026-08-06T20:12:58.555380+05:30'
+last_seen: '2026-08-06T20:12:58.555380+05:30'
+last_checked: '2026-08-06T20:12:58.555380+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core functionality prioritization**: MyFitnessPal's 88% weight loss success rate among users logging food for 7 days stems from a hyper-focused core feature (calorie/exercise tracking) without paywall barriers, driving 70% of new users via organic word-of-mouth.
+- **Medium’s sitemap.xml** provides structured XML-based indexing of all published content, enabling search engine crawlers to efficiently discover and index articles, tags, and collections.
 
-- **In-house community integration**: A dedicated 21-person Customer Happiness team (comparable to dev team size) handles support, user panels, and feature prioritization, leveraging 4-year average tenure to translate community insights into long-term product evolution.
+- **Medium’s navigation and authentication flows** leverage parameterized URLs (e.g., `?operation=login&redirect=...`) for dynamic user redirection, integrating with Google Play (`referrer=utm_source=mobileNavBar`) for app promotion tracking.
 
-- **Ethical community scaffolding**: Implemented inclusive design (pronoun customization, profanity filtering via "kitten" replacement) and non-prescriptive wellness frameworks (streaks, non-scale victories) to foster safe, sustainable engagement while aligning with user-driven cultural values.
+- **Medium’s editorial and content management system** supports multi-editor workflows (5+ editors), categorized content feeds (e.g., `topic=product`), and newsletter subscriptions via API-driven endpoints (e.g., `/newsletter`).
 
 ## Why It Matters
 
@@ -37,15 +38,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:23:09.811478+05:30
+- Published: 2026-08-06T20:12:58.555367+05:30
 
 ## Related Tags
 
-- agents
-- leaderboard
 - rag
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://medium.com/googleplaydev/how-to-scale-the-happiness-of-your-users-3e46ef72029f
+Original source: https://blog.medium.com/?source=post_page-----d10bb57690----------------------------------------

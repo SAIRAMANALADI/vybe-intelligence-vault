@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Tiny Aya Model Family**: 70+ languages with region-tuned expertise, optimized for phone-ready performance, enabling high-quality multilingual AI deployment globally.
+- **Tiny Aya Model Family**: 70+ languages with region-tuned expertise, optimized for phone-ready performance, enabling high-quality multilingual AI globally.
 
-- **Global MMLU Benchmark**: Human-verified, massively multilingual evaluation framework for assessing AI model performance across diverse linguistic contexts.
+- **Global MMLU Benchmark**: Human-verified, massively multilingual evaluation framework for testing AI model performance across diverse linguistic contexts.
 
-- **CALIBER Framework**: Introduces confidence calibration techniques for language models before and after reasoning, enhancing reliability in AI-driven decision-making
+- **CALIBER Framework**: Introduces confidence calibration techniques for language models before and after reasoning, enhancing reliability in decision-making.
 
 ## Use Cases
 

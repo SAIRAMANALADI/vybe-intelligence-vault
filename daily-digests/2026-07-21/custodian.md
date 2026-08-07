@@ -1,13 +1,29 @@
 ---
-title: "indigokarasu/custodian"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent", "OCAS", "Cron Jobs", "Logging Systems"]
+title: indigokarasu/custodian
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Hermes Agent
+- OCAS
+- Cron Jobs
+- Logging Systems
 quality_score: 7
 rag_relevance: 6
-tags: ["autonomous monitoring", "auto-repair", "agent operations", "failure detection", "quiet-hour maintenance"]
-source: "https://github.com/indigokarasu/custodian"
-discovered_at: "2026-07-21T04:14:59Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- autonomous monitoring
+- auto-repair
+- agent operations
+- failure detection
+- quiet-hour maintenance
+source: https://github.com/indigokarasu/custodian
+stars: 0
+language: Python
+last_updated: '2026-07-21T04:04:32Z'
+discovered_at: '2026-07-21T04:14:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

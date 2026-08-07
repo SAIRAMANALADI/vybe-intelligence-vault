@@ -1,13 +1,36 @@
 ---
-title: "rkfsociety/Thirium"
-category: "Agent Framework"
-tech_stack: ["Electron", "JavaScript", "Node.js", "Ollama", "OpenAI API", "Anthropic API", "Gemini API", "Groq API", "Together API", "LiteRouter", "TypeScript", "CLI (viper)"]
+title: rkfsociety/Thirium
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Electron
+- JavaScript
+- Node.js
+- Ollama
+- OpenAI API
+- Anthropic API
+- Gemini API
+- Groq API
+- Together API
+- LiteRouter
+- TypeScript
+- CLI (viper)
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "local LLM", "programming assistant", "GUI", "MCP integration"]
-source: "https://github.com/rkfsociety/Thirium"
-discovered_at: "2026-07-12T19:02:26Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI agent
+- local LLM
+- programming assistant
+- GUI
+- MCP integration
+source: https://github.com/rkfsociety/Thirium
+stars: 1
+language: JavaScript
+last_updated: '2026-07-12T18:59:27Z'
+discovered_at: '2026-07-12T19:02:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

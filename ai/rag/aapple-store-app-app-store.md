@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://apps.apple.com/us/app/apple-store/id375380948
-published_at: '2026-06-22T11:19:56.251725+05:30'
-collected_at: '2026-06-22T11:19:56.251739+05:30'
+published_at: '2026-08-01T14:16:19.390507+05:30'
+collected_at: '2026-08-01T14:16:19.390522+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:aapple-store-app-app-store
-first_seen: '2026-06-22T11:19:56.251739+05:30'
-last_seen: '2026-06-22T11:19:56.251739+05:30'
-last_checked: '2026-06-22T11:19:56.251739+05:30'
+first_seen: '2026-08-01T14:16:19.390522+05:30'
+last_seen: '2026-08-01T14:16:19.390522+05:30'
+last_checked: '2026-08-01T14:16:19.390522+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **App Functionality**: Integrates AR for product visualization, personalized recommendations, and cross-device compatibility tracking (iPhone, iPad, Apple Watch, iMessage) with cloud-sync for saved lists and order status.
+- **App Functionality & Features**: The Apple Store app integrates device compatibility checks, personalized recommendations, and AR visualization for product placement; supports order tracking, saved lists (with reported sync failures), and Specialist-led support via text/phone/in-person.
 
-- **Data Collection & Privacy**: Collects device, account, shopping activity, and subscription data to personalize experiences; user data usage settings adjustable via Account > Settings.
+- **Data Collection & Privacy**: Collects device, account, shopping activity, and subscription data to personalize experiences; permissions may include TrueDepth camera access for Apple Vision Pro fit.
 
-- **User Criticisms**: Reports of saved lists failing to persist, aggressive update policies enforcing mandatory terms, and third-party subscription scams (e.g., unauthorized weekly charges via "AIR APPS PRO").
+- **User Complaints**: Reports highlight recurring issues with saved lists disappearing, aggressive update policies enforcing mandatory agreement to terms for continued device use, and fraudulent subscription charges (e.g., $4.99/week for unintended services).
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:19:56.251725+05:30
+- Published: 2026-08-01T14:16:19.390507+05:30
 
 ## Related Tags
 

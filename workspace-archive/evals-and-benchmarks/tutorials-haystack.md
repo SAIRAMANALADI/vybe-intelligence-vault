@@ -8,11 +8,12 @@ local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -21,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Tutorials | Haystack
@@ -30,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided walkthrough for implementing evaluation metrics to assess RAG pipeline performance using statistical and model-based methods.
-- **Multimodal RAG Pipeline**: Tutorial demonstrates building a multimodal RAG system combining vision and text for question answering grounded in both modalities.
-- **KV Cache Compression**: Haystack supports TurboQuant KV cache compression to enable running large LLMs on consumer GPUs with significant memory reducti
+- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines, covering statistical and model-based metrics for RAG evaluation.
+- **Tool-Calling & Multi-Agent Systems**: Demonstrates agentic workflows, including tool integration (e.g., web search), multi-agent collaboration, and human-in-the-loop validation for safer AI systems.
+- **Advanced RAG Techniques**: Covers multimodal RAG (vision+text), hybrid retrieval (keyword + dense), and structured output generation wit
 
 ## Use Cases
 

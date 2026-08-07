@@ -1,13 +1,31 @@
 ---
-title: "johnmwhitman/agent-mesh"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "OpenCode", "NDJSON", "SSE (Server-Sent Events)"]
+title: johnmwhitman/agent-mesh
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- OpenCode
+- NDJSON
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 9
-tags: ["multi-agent coordination", "audit trail", "quorum ratification", "peer-to-peer messaging", "OpenCode integration"]
-source: "https://github.com/johnmwhitman/agent-mesh"
-discovered_at: "2026-07-16T18:05:52Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- multi-agent coordination
+- audit trail
+- quorum ratification
+- peer-to-peer messaging
+- OpenCode integration
+source: https://github.com/johnmwhitman/agent-mesh
+stars: 1
+language: TypeScript
+last_updated: '2026-07-16T18:03:14Z'
+discovered_at: '2026-07-16T18:05:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,33 @@
 ---
-title: "mavrovde/bookvault"
-category: "Tooling"
-tech_stack: ["Python", "Playwright", "FastAPI", "React", "Docker", "MCP (Model Context Protocol)", "Playwright for browser automation", "Keychain/OS credential storage", "GitHub Actions for CI/CD"]
+title: mavrovde/bookvault
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Playwright
+- FastAPI
+- React
+- Docker
+- MCP (Model Context Protocol)
+- Playwright for browser automation
+- Keychain/OS credential storage
+- GitHub Actions for CI/CD
 quality_score: 9
 rag_relevance: 3
-tags: ["book backup", "audiobook download", "local-first", "DRM-compliant", "MCP server"]
-source: "https://github.com/mavrovde/bookvault"
-discovered_at: "2026-07-14T14:48:59Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- book backup
+- audiobook download
+- local-first
+- DRM-compliant
+- MCP server
+source: https://github.com/mavrovde/bookvault
+stars: 0
+language: Python
+last_updated: '2026-07-14T14:43:52Z'
+discovered_at: '2026-07-14T14:48:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

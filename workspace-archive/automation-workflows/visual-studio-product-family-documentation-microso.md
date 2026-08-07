@@ -3,7 +3,7 @@ title: Visual Studio product family documentation | Microsoft Learn
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://learn.microsoft.com/visualstudio
-resource_id: blog:visual-studio-product-family-documentation-microso
+resource_id: blog:visual-studio-product-family-documentation-microso-8f06702f
 local_vault_path: ai/resources/visual-studio-product-family-documentation-microso.md
 quality_score: 70
 archive_score: 82

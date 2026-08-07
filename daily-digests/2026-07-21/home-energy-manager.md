@@ -1,13 +1,38 @@
 ---
-title: "albinati/home-energy-manager"
-category: "Orchestrator"
-tech_stack: ["Python", "PuLP (MILP solver)", "CBC (LP solver)", "Preact (UI)", "Docker", "SQLite", "Octopus Agile API", "Fox ESS Scheduler V3", "Daikin Altherma (Onecta)", "SmartThings", "Open Climate Fix Quartz (PV forecast)", "Model Context Protocol (MCP)", "ESPHome (for sensor integration)", "Nginx"]
+title: albinati/home-energy-manager
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- PuLP (MILP solver)
+- CBC (LP solver)
+- Preact (UI)
+- Docker
+- SQLite
+- Octopus Agile API
+- Fox ESS Scheduler V3
+- Daikin Altherma (Onecta)
+- SmartThings
+- Open Climate Fix Quartz (PV forecast)
+- Model Context Protocol (MCP)
+- ESPHome (for sensor integration)
+- Nginx
 quality_score: 9
 rag_relevance: 8
-tags: ["home energy management", "MILP optimization", "heat pump control", "LLM explainability", "self-hosted"]
-source: "https://github.com/albinati/home-energy-manager"
-discovered_at: "2026-07-11T09:27:26Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- home energy management
+- MILP optimization
+- heat pump control
+- LLM explainability
+- self-hosted
+source: https://github.com/albinati/home-energy-manager
+stars: 0
+language: Python
+last_updated: '2026-07-11T09:27:07Z'
+discovered_at: '2026-07-11T09:27:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

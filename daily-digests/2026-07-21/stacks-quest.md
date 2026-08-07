@@ -1,13 +1,37 @@
 ---
-title: "wkalidev/stacks-quest"
-category: "Agent Framework"
-tech_stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Groq", "Stacks Blockchain", "Clarity Smart Contracts", "Velar DEX", "Alex DEX", "Base2Stacks Bridge", "x402 Payments", "Hardhat", "Clarinet"]
+title: wkalidev/stacks-quest
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Groq
+- Stacks Blockchain
+- Clarity Smart Contracts
+- Velar DEX
+- Alex DEX
+- Base2Stacks Bridge
+- x402 Payments
+- Hardhat
+- Clarinet
 quality_score: 9
 rag_relevance: 8
-tags: ["DeFi", "Blockchain Gaming", "Bitcoin L2", "Agentic AI", "Multi-chain"]
-source: "https://github.com/wkalidev/stacks-quest"
-discovered_at: "2026-07-16T20:02:25Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- DeFi
+- Blockchain Gaming
+- Bitcoin L2
+- Agentic AI
+- Multi-chain
+source: https://github.com/wkalidev/stacks-quest
+stars: 0
+language: TypeScript
+last_updated: '2026-07-16T19:57:22Z'
+discovered_at: '2026-07-16T20:02:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

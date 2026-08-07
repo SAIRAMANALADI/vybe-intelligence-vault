@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Arabic Speech-to-Text Model**: Introduces **Cohere Transcribe Arabic**, a specialized speech-to-text model optimized for Arabic language transcription with high accuracy.
+- **Multilingual ASR Integration**: Cohere Transcribe Arabic leverages a unified multilingual automatic speech recognition (ASR) model, enabling seamless transcription across multiple languages, including Arabic, with enhanced accuracy and contextual understanding.
 
-- **Performance & Efficiency**: Leverages advanced **neural network architectures** (likely transformer-based) to handle dialectal variations and noisy audio inputs efficiently.
-
-- **Deployment & Integration**: Designed for **scalable deployment** via Cohere’s API, enabling real-time transcription with low latency for ente
+- **Optimized for Dialectal Arabic**: The model is fine-tuned for dialectal Arabic variations, improving transcription performance for regional accents and colloquial speech patterns common in North African, Levantine, and Gulf diale
 
 ## Use Cases
 

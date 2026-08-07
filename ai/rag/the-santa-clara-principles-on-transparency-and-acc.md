@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://santaclaraprinciples.org/
-published_at: '2026-07-21T22:19:26.795441+05:30'
-collected_at: '2026-07-21T22:19:26.795456+05:30'
+published_at: '2026-08-06T17:17:48.480583+05:30'
+collected_at: '2026-08-06T17:17:48.480595+05:30'
 tags:
 - hackernews
 - producthunt
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-santa-clara-principles-on-transparency-and-acc
-first_seen: '2026-07-21T22:19:26.795456+05:30'
-last_seen: '2026-07-21T22:19:26.795456+05:30'
-last_checked: '2026-07-21T22:19:26.795456+05:30'
+first_seen: '2026-08-06T17:17:48.480595+05:30'
+last_seen: '2026-08-06T17:17:48.480595+05:30'
+last_checked: '2026-08-06T17:17:48.480595+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Scope Expansion**: Principles now cover all user-generated content (including ads) and enforcement actions (removal, downranking, account suspension) under "content" and "action" definitions.
+- **Scope Expansion**: Santa Clara Principles 2.0 broadens "content" to include all user-generated (paid/unpaid) and advertising material, while "action" encompasses enforcement measures like removal, algorithmic downranking, and account suspension (temporary/permanent).
 
-- **Foundational Principles**: Require integration of human rights/due process in moderation, clear publishable rules, cultural competence in enforcement, state involvement transparency, and system integrity/explainability with auditing.
+- **Foundational Principles**: Emphasizes human rights integration, due process, culturally competent moderation, state involvement transparency, and system integrity/explainability, with mandatory reporting on moderation accuracy, regional/cultural competence, and state actor collaborations.
 
-- **Operational Principles**: Mandate granular reporting of moderation metrics (appeals, reinstatements, automated flagging success rates) and crisis-period enforcement data, with state-involvement breakdowns by country.
+- **Operational Transparency**: Mandates granular reporting on content/action metrics (e.g., appeals, reinstatements, automated flagging success rates), hate speech enforcement by targeted groups, and crisis-period restrictions, with state-involved actions reported separately by country.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:19:26.795441+05:30
+- Published: 2026-08-06T17:17:48.480583+05:30
 
 ## Related Tags
 

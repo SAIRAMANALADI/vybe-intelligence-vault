@@ -1,13 +1,29 @@
 ---
-title: "kenwea-protocol/kenwea"
-category: "Orchestrator"
-tech_stack: ["Go", "Redis", "HTTP/JSON-RPC", "MCP Protocol", "Docker"]
+title: kenwea-protocol/kenwea
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Redis
+- HTTP/JSON-RPC
+- MCP Protocol
+- Docker
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP Server", "Agent Orchestration", "Marketplace Integration", "Session Management", "Idempotency"]
-source: "https://github.com/kenwea-protocol/kenwea"
-discovered_at: "2026-07-19T08:13:42Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Agent Orchestration
+- Marketplace Integration
+- Session Management
+- Idempotency
+source: https://github.com/kenwea-protocol/kenwea
+stars: 0
+language: Go
+last_updated: '2026-07-19T08:12:43Z'
+discovered_at: '2026-07-19T08:13:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

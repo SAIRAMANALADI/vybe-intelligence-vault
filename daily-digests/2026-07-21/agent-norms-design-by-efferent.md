@@ -1,13 +1,27 @@
 ---
-title: "eventide-project/agent-norms-design-by-efferent"
-category: "Tooling"
-tech_stack: ["Shell", "Markdown", "Git Subtree"]
+title: eventide-project/agent-norms-design-by-efferent
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Shell
+- Markdown
+- Git Subtree
 quality_score: 7
 rag_relevance: 7
-tags: ["design methodology", "TDD", "human-in-the-loop", "AI-driven development", "software architecture"]
-source: "https://github.com/eventide-project/agent-norms-design-by-efferent"
-discovered_at: "2026-07-18T15:55:06Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- design methodology
+- TDD
+- human-in-the-loop
+- AI-driven development
+- software architecture
+source: https://github.com/eventide-project/agent-norms-design-by-efferent
+stars: 0
+language: Shell
+last_updated: '2026-07-18T15:54:05Z'
+discovered_at: '2026-07-18T15:55:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,29 @@
 ---
-title: "vacterro/saipen"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "Git", "PowerShell", "Bash"]
+title: vacterro/saipen
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Markdown
+- Git
+- PowerShell
+- Bash
 quality_score: 9
 rag_relevance: 8
-tags: ["agent orchestration", "project continuation", "zero rebriefing", "multi-agent coordination", "autonomous maintenance"]
-source: "https://github.com/vacterro/saipen"
-discovered_at: "2026-07-21T10:24:37Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- project continuation
+- zero rebriefing
+- multi-agent coordination
+- autonomous maintenance
+source: https://github.com/vacterro/saipen
+stars: 1
+language: Python
+last_updated: '2026-07-21T10:15:03Z'
+discovered_at: '2026-07-21T10:24:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

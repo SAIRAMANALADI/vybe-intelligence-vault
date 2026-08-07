@@ -1,13 +1,31 @@
 ---
-title: "the-staq/tradestaq-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "OAuth PKCE", "JWT", "REST APIs", "npm"]
+title: the-staq/tradestaq-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- OAuth PKCE
+- JWT
+- REST APIs
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["trading automation", "MCP server", "AI agents", "portfolio management", "backtesting"]
-source: "https://github.com/the-staq/tradestaq-mcp"
-discovered_at: "2026-07-10T16:25:14Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- trading automation
+- MCP server
+- AI agents
+- portfolio management
+- backtesting
+source: https://github.com/the-staq/tradestaq-mcp
+stars: 0
+language: TypeScript
+last_updated: '2026-07-10T16:19:11Z'
+discovered_at: '2026-07-10T16:25:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

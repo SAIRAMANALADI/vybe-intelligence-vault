@@ -3,9 +3,9 @@ title: Retrieval-Augmented Generation (RAG) - DSPy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://dspy.ai/tutorials/rag
-published_at: '2026-06-24T20:39:38.212365+05:30'
-collected_at: '2026-06-24T20:39:38.212379+05:30'
+source_url: https://dspy.ai/tutorials/rag/
+published_at: '2026-08-07T08:54:35.482246+05:30'
+collected_at: '2026-08-07T08:54:35.482259+05:30'
 tags:
 - benchmark
 - dataset
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-dspy
-first_seen: '2026-06-24T20:39:38.212379+05:30'
-last_seen: '2026-06-24T20:39:38.212379+05:30'
-last_checked: '2026-06-24T20:39:38.212379+05:30'
+first_seen: '2026-08-07T08:54:35.482259+05:30'
+last_seen: '2026-08-07T08:54:35.482259+05:30'
+last_checked: '2026-08-07T08:54:35.482259+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **DSPy Modules**: DSPy provides structured `Modules` (e.g., `dspy.Predict`, `dspy.ChainOfThought`) that encapsulate LM interactions via defined signatures (input/output schemas), enabling modular and interpretable LM program construction with built-in adapters for input/output handling.
+- **DSPy RAG Pipeline**: The tutorial demonstrates a DSPy-based RAG system using `dspy.Predict` and `dspy.ChainOfThought` modules with structured signatures (e.g., `question: str -> response: str`) to generate answers, where `dspy.ChainOfThought` elicits reasoning before producing outputs.
 
-- **Evaluation Framework**: DSPy supports iterative development through evaluation using datasets (e.g., RAG-QA Arena Tech) and metrics, with `dspy.Example` objects for structured data handling, enabling optimization via train/validation splits and metrics for quality assessment.
+- **Dataset Integration & Evaluation**: The system uses a StackExchange-derived Tech QA dataset (RAG-QA Arena) with `dspy.Example` objects for training/validation/test splits (e.g., 200/300/500 examples), enabling metric-based evaluation (e.g., ground-truth alignment or hallucination checks).
 
-- **Retrieval-Augmented Generation (RAG)**: The tutorial demonstrates RAG by integrating retrieval (e.g., document IDs) with generation, where `gold_doc_ids` guide the LM to produce answers grounded in retrieved context, improving factual accuracy in tech QA tasks.
+- **Optimization & Tooling**: DSPy supports iterative development via MLflow tracing for prompt/behavior visualization and optimizers (e.g., MIPROv2) to refine modules using training/validation data, while `dspy.inspect_history` and `dspy.retrievers.Embeddings` facilitate debugging and retrieval augmentation.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:39:38.212365+05:30
+- Published: 2026-08-07T08:54:35.482246+05:30
 
 ## Related Tags
 
@@ -62,4 +62,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://dspy.ai/tutorials/rag
+Original source: https://dspy.ai/tutorials/rag/

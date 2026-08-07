@@ -1,44 +1,51 @@
 ---
-title: Universal-Debloater-Alliance/universal-android-debloater-next-generation
+title: On non-rooted Android 17, ADB uninstall of system apps fails
 category: ai/trending
-source_type: github_trending
-source_name: GitHub Trending AI
+source_type: hackernews
+source_name: Hacker News AI
 source_url: https://github.com/universal-debloater-alliance/universal-android-debloater-next-generation
-published_at: '2026-06-18T23:35:19.450951+05:30'
-collected_at: '2026-06-18T23:35:19.450958+05:30'
+hn_url: https://news.ycombinator.com/item?id=49193173
+score: 154
+author: microtonal
+comments_count: 110
+published_at: '2026-08-06T11:54:42+05:30'
+collected_at: '2026-08-06T20:07:37.417278+05:30'
 tags:
-- github-trending
-- rust
+- ai
+- hackernews
 status: inactive
 resource_id: github:universal-debloater-alliance/universal-android-debloater-next-generation
 first_seen: '2026-06-16T17:27:26.089793+05:30'
-last_seen: '2026-06-18T23:35:19.450958+05:30'
-last_checked: '2026-06-18T23:35:19.450958+05:30'
+last_seen: '2026-08-06T20:07:37.417278+05:30'
+last_checked: '2026-08-06T20:07:37.417278+05:30'
 health_score: 100
 ---
 
 
-# Universal-Debloater-Alliance/universal-android-debloater-next-generation
+# On non-rooted Android 17, ADB uninstall of system apps fails
 
 ## Summary
 
-Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+Hacker News story by microtonal. Score: 154, Comments: 110.
+Original Link: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+This is a trending discussion or resource collected from the Hacker News community. It highlights community sentiment, product launches, or technical writeups.
 
-## Details
+## Discussion Details
 
-- Source: GitHub Trending AI
-- Category: ai/trending
-- Published: 2026-06-18T23:35:19.450951+05:30
+- Author: microtonal
+- Score: 154 Upvotes
+- Comments: 110 Discussions
+- Hacker News Link: https://news.ycombinator.com/item?id=49193173
+- Original Article: https://github.com/universal-debloater-alliance/universal-android-debloater-next-generation
+
+## Implementation Notes
+
+Review community comments to extract technical caveats, alternative recommendations, or project launch workflows.
 
 ## Related Tags
 
-- github-trending
-- rust
-
-## Source
-
-Original source: https://github.com/universal-debloater-alliance/universal-android-debloater-next-generation
+- ai
+- hackernews

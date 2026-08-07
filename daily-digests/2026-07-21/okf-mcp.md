@@ -1,13 +1,31 @@
 ---
-title: "mfdaves/okf-mcp"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "YAML", "Markdown", "CLI", "HTTP API"]
+title: mfdaves/okf-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- YAML
+- Markdown
+- CLI
+- HTTP API
 quality_score: 9
 rag_relevance: 8
-tags: ["knowledge-graph", "MCP-server", "structured-authoring", "Markdown-indexing", "proposal-based-workflows"]
-source: "https://github.com/mfdaves/okf-mcp"
-discovered_at: "2026-07-19T20:44:28Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- knowledge-graph
+- MCP-server
+- structured-authoring
+- Markdown-indexing
+- proposal-based-workflows
+source: https://github.com/mfdaves/okf-mcp
+stars: 3
+language: JavaScript
+last_updated: '2026-07-19T20:37:48Z'
+discovered_at: '2026-07-19T20:44:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -3,23 +3,22 @@ title: Google's products and services - About Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://about.google/products
-published_at: '2026-06-23T01:10:59.474224+05:30'
-collected_at: '2026-06-23T01:10:59.474237+05:30'
+source_url: https://about.google/products/
+published_at: '2026-08-06T01:37:23.952203+05:30'
+collected_at: '2026-08-06T01:37:23.952215+05:30'
 tags:
 - creative_dev
 - hackernews
+- models
 - rag
 - reddit
-- scripts
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:google-s-products-and-services-about-google
-first_seen: '2026-06-23T01:10:59.474237+05:30'
-last_seen: '2026-06-23T01:10:59.474237+05:30'
-last_checked: '2026-06-23T01:10:59.474237+05:30'
+first_seen: '2026-08-06T01:37:23.952215+05:30'
+last_seen: '2026-08-06T01:37:23.952215+05:30'
+last_checked: '2026-08-06T01:37:23.952215+05:30'
 health_score: 100
 ---
 
@@ -27,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Search Enhancements**: Google Search introduces *Circle to Search* (visual search via camera/gesture), *AI Mode* (conversational AI responses with follow-ups), and *Lens* (multimodal search via images/camera), leveraging LLMs for contextual understanding and real-time problem-solving (e.g., handwritten equation solving).
+- **Circle to Search & AI Mode**: Android’s Circle to Search enables multimodal queries (visual, text, or handwritten) via camera or screen tap; AI Mode provides conversational, AI-powered responses with follow-up capabilities and web links.
 
-- **Gemini AI Ecosystem**: Google’s *Gemini* integrates across products with features like *Gemini Live* (real-time voice interaction), *Canvas* (AI-driven prototyping for apps/games), *Image/Video Generation* (text-to-media synthesis), and deep integration into *Workspace* (Gmail/Docs/Sheets) and *Chrome* for task automation.
+- **Gemini Integration**: Google’s Gemini AI assistant supports real-time conversational queries (Gemini Live), visual content generation (Canvas, Image/Video Generation), and AI-driven research via NotebookLM, with cross-platform availability in Chrome, Workspace, and mobile devices.
 
-- **Experimental AI Tools & Hardware Synergy**: *Google Labs* hosts early-stage AI tools like *Flow* (AI filmmaking) and *NotebookLM* (research assistant), while *Pixel/Android* devices enable seamless AI workflows (e.g., *Quick Share*, *Gemini in Chrome*) and accessibility features (e.g., real-time screen context via AI).
+- **AI-Powered Productivity Tools**: Google Photos leverages AI for editing (Reimagine, Magic Eraser), Maps offers AI-driven exploration, and Labs.google hosts experimental AI tools like Flow for cinematic content creation.
 
 ## Why It Matters
 
@@ -41,19 +40,18 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:10:59.474224+05:30
+- Published: 2026-08-06T01:37:23.952203+05:30
 
 ## Related Tags
 
 - creative_dev
 - hackernews
+- models
 - rag
 - reddit
-- scripts
 - web-crawled
-- workflows
 - youtube
 
 ## Source
 
-Original source: https://about.google/products
+Original source: https://about.google/products/

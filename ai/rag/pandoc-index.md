@@ -4,19 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pandoc.org/
-published_at: '2026-07-20T22:25:06.640044+05:30'
-collected_at: '2026-07-20T22:25:06.640054+05:30'
+published_at: '2026-08-06T14:39:08.599385+05:30'
+collected_at: '2026-08-06T14:39:08.599399+05:30'
 tags:
 - hackernews
 - paper
 - rag
-- reddit
+- scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:pandoc-index
-first_seen: '2026-07-20T22:25:06.640054+05:30'
-last_seen: '2026-07-20T22:25:06.640054+05:30'
-last_checked: '2026-07-20T22:25:06.640054+05:30'
+first_seen: '2026-08-06T14:39:08.599399+05:30'
+last_seen: '2026-08-06T14:39:08.599399+05:30'
+last_checked: '2026-08-06T14:39:08.599399+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Universal document converter**: Pandoc supports bidirectional conversion between 40+ markup formats (e.g., Markdown, LaTeX, HTML, EPUB, Word DOCX) and unidirectional conversion to niche formats (e.g., ICML, Typst, Beamer), enabling seamless cross-format document processing.
+- **Universal document converter**: Pandoc supports bidirectional conversion between **40+ formats**, including Markdown, LaTeX, HTML, EPUB, Word (docx), PowerPoint, and PDF (via LaTeX/PDF engines), with extensions for citations, math, and metadata.
 
-- **Advanced markup & citation handling**: Supports LaTeX math, syntax-highlighted code blocks, and automatic bibliography generation via CSL styles, with citations (e.g., `@doe99, pp. 33-35`) dynamically formatted across all output formats.
+- **Advanced markup & templating**: Supports **Haskell AST serialization**, custom Lua readers/writers, and a **template system** for dynamic document generation, alongside **smart syntax extensions** (footnotes, tables, math, citations via CSL).
 
-- **Extensible architecture**: Modular Haskell library with custom reader/writer support (Lua), template system, and filter-based customization; PDF output via multiple LaTeX engines or HTML-to-PDF tools (e.g., `wkhtmltopdf`, `weasyprint`).
+- **Bibliographic & automation features**: Includes **automated citation processing** (BibTeX/BibLaTeX/CSL JSON/YAML) with **hundreds of output styles**, and **filter-based customization** for workflow integration.
 
 ## Why It Matters
 
@@ -38,15 +39,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:25:06.640044+05:30
+- Published: 2026-08-06T14:39:08.599385+05:30
 
 ## Related Tags
 
 - hackernews
 - paper
 - rag
-- reddit
+- scripts
 - web-crawled
+- workflows
 
 ## Source
 

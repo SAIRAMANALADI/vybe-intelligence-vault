@@ -4,22 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.coalitionforsecureai.org/
-published_at: '2026-06-25T23:04:34.066507+05:30'
-collected_at: '2026-06-25T23:04:34.066515+05:30'
+published_at: '2026-08-04T14:51:09.064057+05:30'
+collected_at: '2026-08-04T14:51:09.064070+05:30'
 tags:
 - agents
 - anthropic
 - hackernews
 - openai
-- paper
 - producthunt
 - rag
 - web-crawled
 status: active
 resource_id: blog:home-coalition-for-secure-ai
-first_seen: '2026-06-25T23:04:34.066515+05:30'
-last_seen: '2026-06-25T23:04:34.066515+05:30'
-last_checked: '2026-06-25T23:04:34.066515+05:30'
+first_seen: '2026-08-04T14:51:09.064070+05:30'
+last_seen: '2026-08-04T14:51:09.064070+05:30'
+last_checked: '2026-08-04T14:51:09.064070+05:30'
 health_score: 100
 ---
 
@@ -27,11 +26,15 @@ health_score: 100
 
 ## Summary
 
-- **CoSAI** is an OASIS Open initiative uniting industry/academia to standardize secure AI development via collaborative research, open-source tooling, and best practices across four workstreams: AI software supply chain security, defender readiness, risk governance, and agentic system design patterns.
+- **CoSAI** is an open, collaborative ecosystem under **OASIS Open**, uniting industry and academia to develop **open-source security solutions** for AI systems, focusing on **software supply chain security, defender readiness, risk governance, and secure agentic system design**.
 
-- Released the **AI Shared Responsibility Framework** to delineate accountability for AI failures, alongside new research on **agentic identity/security** post-RSAC 2026, emphasizing identity management in autonomous AI agents.
+- **Key workstreams** include:
+  - **WS1**: Software Supply Chain Security for AI Systems ([GitHub](https://github.com/cosai-oasis/ws1-supply-chain))
+  - **WS2**: Preparing Defenders for Evolving AI Threats ([GitHub](https://github.com/cosai-oasis/ws2-defenders))
+  - **WS3**: AI Security Risk Governance ([GitHub](https://github.com/cosai-oasis/ws3-ai-risk-governance))
+  - **WS4**: Secure Design Patterns for Agentic Systems ([GitHub](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems))
 
-- Founding sponsors (e.g., Google, IBM, Microsoft, NVIDIA) and general members (e.g., OpenAI, Anthropic, Zscaler) drive CoSAI’s mission, with outputs including GitHub-hosted methodologies and frameworks for enterprise AI security adoption.
+- **Founding sponsors** (e.g., **Google, IBM, Microsoft, NVIDIA, PayPal, Zscaler**) and **academic partners** (e.g., **Duke University, Fraunhofer, TUM**) collaborate to establish **security-by-design frameworks**, **shared responsibility models**, and **best practices** for secure AI deployment across enterprise and agentic systems.
 
 ## Why It Matters
 
@@ -41,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:04:34.066507+05:30
+- Published: 2026-08-04T14:51:09.064057+05:30
 
 ## Related Tags
 
@@ -49,7 +52,6 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - hackernews
 - openai
-- paper
 - producthunt
 - rag
 - web-crawled

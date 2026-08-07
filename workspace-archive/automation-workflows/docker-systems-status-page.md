@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- All Docker services (Registry Hub, Authentication, Desktop, Docs, etc.) are **fully operational** with 100% uptime for core APIs (Registry Hub, Registry, Docker.com) and near-perfect uptime (99.86–99.99%) for secondary services.
-- **API response times** average **411–462ms** for Registry Hub, **425–462ms** for Registry, and **418–429ms** for Docker.com, indicating consistent performance.
-- **Monitoring and alerting** available via email, webhook, RSS, Slack, and historical status tracking thro
+- **All Docker services (Hub Registry, Authentication, Desktop, Docs, etc.) are 100% operational** as of the latest update.
+- **API response times** for Docker Registry Hub, Docker Registry, and Docker.com average **~400ms**, with **100% uptime** across all metrics.
+- **Status monitoring** supports email, webhook, RSS, and Slack notifications via Status.io integration.
 
 ## Use Cases
 

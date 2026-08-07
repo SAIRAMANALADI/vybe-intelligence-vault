@@ -1,13 +1,34 @@
 ---
-title: "xixihhhh/clipforge"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "React", "Tailwind CSS", "FFmpeg", "AI Multi-Model Integration", "OpenRouter", "SQLite", "Docker", "MCP Server"]
+title: xixihhhh/clipforge
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- Tailwind CSS
+- FFmpeg
+- AI Multi-Model Integration
+- OpenRouter
+- SQLite
+- Docker
+- MCP Server
 quality_score: 9
 rag_relevance: 7
-tags: ["AI video generation", "e-commerce automation", "short-form video", "batch video production", "open-source"]
-source: "https://github.com/xixihhhh/clipforge"
-discovered_at: "2026-07-15T10:48:50Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI video generation
+- e-commerce automation
+- short-form video
+- batch video production
+- open-source
+source: https://github.com/xixihhhh/clipforge
+stars: 274
+language: TypeScript
+last_updated: '2026-07-15T10:40:40Z'
+discovered_at: '2026-07-15T10:48:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

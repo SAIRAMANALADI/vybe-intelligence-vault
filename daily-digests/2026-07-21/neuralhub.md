@@ -1,13 +1,36 @@
 ---
-title: "bkdtjw/neuralhub"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "PostgreSQL", "pgvector", "Redis", "TypeScript", "Vite", "Docker", "Prometheus", "OpenAI API", "MCP Protocol"]
+title: bkdtjw/neuralhub
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- pgvector
+- Redis
+- TypeScript
+- Vite
+- Docker
+- Prometheus
+- OpenAI API
+- MCP Protocol
 quality_score: 9
 rag_relevance: 9
-tags: ["AI Agent Platform", "Multi-Agent Orchestration", "RAG Knowledge Base", "MCP Integration", "Self-Hosted"]
-source: "https://github.com/bkdtjw/neuralhub"
-discovered_at: "2026-07-11T15:54:12Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI Agent Platform
+- Multi-Agent Orchestration
+- RAG Knowledge Base
+- MCP Integration
+- Self-Hosted
+source: https://github.com/bkdtjw/neuralhub
+stars: 0
+language: Python
+last_updated: '2026-07-11T15:51:11Z'
+discovered_at: '2026-07-11T15:54:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

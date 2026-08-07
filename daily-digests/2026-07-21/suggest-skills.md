@@ -1,13 +1,30 @@
 ---
-title: "sator-imaging/suggest-skills"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "@modelcontextprotocol/sdk", "Zod", "GitHub API", "Node.js"]
+title: sator-imaging/suggest-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Bun
+- '@modelcontextprotocol/sdk'
+- Zod
+- GitHub API
+- Node.js
 quality_score: 8
 rag_relevance: 7
-tags: ["MCP server", "AI agent skills", "skill manifest generation", "GitHub integration", "model context protocol"]
-source: "https://github.com/sator-imaging/suggest-skills"
-discovered_at: "2026-07-15T02:12:23Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- MCP server
+- AI agent skills
+- skill manifest generation
+- GitHub integration
+- model context protocol
+source: https://github.com/sator-imaging/suggest-skills
+stars: 0
+language: TypeScript
+last_updated: '2026-07-15T02:05:08Z'
+discovered_at: '2026-07-15T02:12:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

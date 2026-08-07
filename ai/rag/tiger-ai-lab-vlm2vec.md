@@ -4,25 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/VLM2Vec
-collected_at: '2026-07-21T22:14:57.512715+05:30'
-published_at: '2026-07-19T21:47:59Z'
+collected_at: '2026-08-07T05:50:46.635577+05:30'
+published_at: '2026-08-06T10:20:58Z'
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
-stars: 667
+stars: 672
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-10-07T15:14:52Z'
-pushed_at: '2026-06-24T06:17:09Z'
+pushed_at: '2026-07-24T03:40:03Z'
 resource_id: github:tiger-ai-lab/vlm2vec
-first_seen: '2026-07-21T22:14:57.512715+05:30'
-last_seen: '2026-07-21T22:14:57.512715+05:30'
-last_checked: '2026-07-21T22:14:57.512715+05:30'
+first_seen: '2026-08-07T05:50:46.635577+05:30'
+last_seen: '2026-08-07T05:50:46.635577+05:30'
+last_checked: '2026-08-07T05:50:46.635577+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **VLM2Vec Framework**: Implements contrastive learning-based multimodal embedding models (VLM2Vec, VLM2Vec-V2, MMEB-V3) for tasks like image/video/document retrieval, RAG, and representation learning, with benchmarks evaluated across ICLR 2025, TMLR 2026, and COLM 2026.
+- **Multi-Version Benchmarking Suite**: Hosts three evolving benchmarks—VLM2Vec/MMEB (ICLR 2025), VLM2Vec-V2/MMEB-V2 (TMLR 2026), and MMEB-V3 (COLM 2026)—for evaluating multimodal embedding models across tasks like image/video/document retrieval and RAG.
 
-- **Multimodal Embedding Benchmark (MMEB)**: Provides a standardized evaluation suite for multimodal embeddings, covering modalities such as images, videos, and documents, with support for contrastive learning and retrieval tasks.
+- **Contrastive Learning Framework**: Implements contrastive learning techniques to train Vision-Language Models (VLMs) for generating high-quality embeddings optimized for multimodal retrieval and representation tasks.
 
-- **Python Implementation**: Repository includes open-source Python code for training, evaluating, and benchmarking VLM2Vec models, with dependencies optimized for multimodal representation learning and retrieval tasks.
+- **Python-Based Toolkit**: Provides a Python-based repository with modular code for benchmarking, embedding generation, and evaluation across diverse multimodal datasets, supporting rapid iteration and reproducibility.
 
 ## Why It Matters
 
@@ -43,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TIGER-AI-Lab
-- Stars: 667
-- Forks: 62
+- Stars: 672
+- Forks: 64
 - Language: Python
 - Topics: benchmark, contrastive-learning, embedding, image-retrieval, mmeb, multimodal, rag, representation-learning, video-retrieval, visual-document-retrieval, vlm
-- Last Updated: 2026-07-19T21:47:59Z
+- Last Updated: 2026-08-06T10:20:58Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-10-07T15:14:52Z
-- Pushed At: 2026-06-24T06:17:09Z
+- Pushed At: 2026-07-24T03:40:03Z
 
 ## Possible Use Cases
 

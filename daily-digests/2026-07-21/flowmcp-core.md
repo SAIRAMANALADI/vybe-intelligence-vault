@@ -1,13 +1,30 @@
 ---
-title: "FlowMCP/flowmcp-core"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "SQLite", "TypeScript (implicit via JSDoc)"]
+title: FlowMCP/flowmcp-core
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- SQLite
+- TypeScript (implicit via JSDoc)
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "REST API adapter", "AI tooling", "schema validation", "automated testing"]
-source: "https://github.com/FlowMCP/flowmcp-core"
-discovered_at: "2026-07-12T19:02:33Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- MCP
+- REST API adapter
+- AI tooling
+- schema validation
+- automated testing
+source: https://github.com/FlowMCP/flowmcp-core
+stars: 2
+language: JavaScript
+last_updated: '2026-07-12T18:57:21Z'
+discovered_at: '2026-07-12T19:02:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

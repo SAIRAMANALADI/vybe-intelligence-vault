@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Live Kernel Build Monitoring**: Provides real-time tracking of kernel builds with an interactive table for status updates.
-- **Grafana Integration**: Optional Grafana dashboard for advanced metrics visualization and monitoring.
-- **Community-Driven**: Open-source project (`kernels-community`) hosted on Hugging Face Spaces for collaborative kernel CI/CD oversight.
+- **Live Kernel Build Monitoring**: Real-time tracking of kernel build statuses with an interactive table for continuous integration/continuous deployment (CI/CD) pipelines.
+
+- **Grafana Integration**: Optional metrics dashboard for visualizing performance, build times, and system health via Grafana.
+
+- **Community-Driven CI System**: Open-source initiative (`kernels-community`) providing public visibility into kernel build processes and regression detection.
 
 ## Use Cases
 

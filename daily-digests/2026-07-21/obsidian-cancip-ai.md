@@ -1,13 +1,32 @@
 ---
-title: "arias007/obsidian-cancip-ai"
-category: "Tooling"
-tech_stack: ["TypeScript", "Obsidian Plugin API", "Node.js", "REST APIs", "JSON", "Markdown", "HTML", "CSS"]
+title: arias007/obsidian-cancip-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Obsidian Plugin API
+- Node.js
+- REST APIs
+- JSON
+- Markdown
+- HTML
+- CSS
 quality_score: 8
 rag_relevance: 7
-tags: ["Obsidian", "AI agent", "vault management", "mobile-first", "automation"]
-source: "https://github.com/arias007/obsidian-cancip-ai"
-discovered_at: "2026-07-19T13:17:19Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Obsidian
+- AI agent
+- vault management
+- mobile-first
+- automation
+source: https://github.com/arias007/obsidian-cancip-ai
+stars: 0
+language: TypeScript
+last_updated: '2026-07-19T13:12:40Z'
+discovered_at: '2026-07-19T13:17:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

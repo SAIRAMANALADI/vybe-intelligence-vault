@@ -1,41 +1,43 @@
 ---
-title: Generation · Hugging Face
+title: Trainer · Hugging Face
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig.use_cache
-published_at: '2026-07-18T01:16:12.648792+05:30'
-collected_at: '2026-07-18T01:16:12.648804+05:30'
+source_url: https://huggingface.co/docs/transformers/main/en/main_classes/trainer#transformers.TrainingArguments
+published_at: '2026-08-06T09:18:10.158734+05:30'
+collected_at: '2026-08-06T09:18:10.158753+05:30'
 tags:
 - agents
+- benchmark
 - dataset
 - leaderboard
 - meta-ai
+- mistral
 - models
-- openai
 - paper
+- producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: huggingface:docs/transformers
-first_seen: '2026-07-18T01:16:12.648804+05:30'
-last_seen: '2026-07-18T01:16:12.648804+05:30'
-last_checked: '2026-07-18T01:16:12.648804+05:30'
+first_seen: '2026-08-06T09:18:10.158753+05:30'
+last_seen: '2026-08-06T09:18:10.158753+05:30'
+last_checked: '2026-08-06T09:18:10.158753+05:30'
 health_score: 100
 ---
 
-# Generation · Hugging Face
+# Trainer · Hugging Face
 
 ## Summary
 
-- **Generation Control**: The `GenerationConfig` class in Hugging Face Transformers provides fine-grained control over text generation via parameters like `max_new_tokens`, `min_length`, `do_sample`, `num_beams`, `temperature`, `top_k`, `top_p`, `repetition_penalty`, and `length_penalty`, enabling deterministic, stochastic, or hybrid decoding strategies.
+- **Trainer API**: Provides a PyTorch-based training interface with support for distributed training (multi-GPU/TPU), mixed precision (NVIDIA/AMD GPUs), and `torch.amp`, integrated with `TrainingArguments` for full training customization.
 
-- **Cache Optimization**: Supports multiple KV-cache implementations (`DynamicCache`, `StaticCache`, `QuantizedCache`) via `cache_implementation` and `cache_config`, with optional pre-sizing (`max_cache_len`) for static caches to avoid recompilation overhead during repeated generation calls.
+- **Model Compatibility**: Requires models to return `ModelOutput` tuples or subclasses, compute loss with `labels` argument, and avoid `"label"` as a label name; `Seq2SeqTrainer` extends this for sequence-to-sequence tasks.
 
-- **Advanced Sampling & Constraints**: Implements advanced truncation sampling methods (`typical_p`, `epsilon_cutoff`, `eta_cutoff`, `top_h`) and constraint mechanisms (`no_repeat_ngram_size`, `bad_words_ids`, `forced_bos_token_id`, `forced_eos_token_id`) for controlled token selection and sequence termination.
+- **Key Parameters**: Accepts `model`, `args` (e.g., `TrainingArguments`), `data_collator`, datasets (`train_dataset`, `eval_dataset`), and optional `model_init`/`compute_metrics` for flexible training workflows.
 
 ## Why It Matters
 
@@ -45,23 +47,25 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-18T01:16:12.648792+05:30
+- Published: 2026-08-06T09:18:10.158734+05:30
 
 ## Related Tags
 
 - agents
+- benchmark
 - dataset
 - leaderboard
 - meta-ai
+- mistral
 - models
-- openai
 - paper
+- producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
+- workflows
 - youtube
 
 ## Source
 
-Original source: https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig.use_cache
+Original source: https://huggingface.co/docs/transformers/main/en/main_classes/trainer#transformers.TrainingArguments

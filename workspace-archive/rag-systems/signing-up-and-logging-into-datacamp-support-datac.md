@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: high
 tags:
-- agents
 - rag
 - web-crawled
 selection_reason:
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Account Creation**: Users can register via email/password or OAuth (Google, LinkedIn, Facebook); email uniqueness enforced, OAuth avoids password storage by DataCamp.
+- **Account Creation**: Users can sign up via email/password or third-party OAuth (Google, LinkedIn, Facebook); email uniqueness enforced; no social password storage.
 - **Authentication**: Login via email/password or OAuth; password reset supported via [DataCamp’s official guide](https://support.datacamp.com/hc/en-us/articles/360002261654).
-- **Post-Registration**: Access to subscription-based content after account creation; subscription plans detailed [here](https://support.datacamp.com/hc/
+- **Subscription Access**: Post-registration, users must purchase a subscription to unlock premium content; plans outlined [here](https://support.datacamp.co
 
 ## Use Cases
 

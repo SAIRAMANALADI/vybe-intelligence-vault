@@ -1,13 +1,32 @@
 ---
-title: "Jobfromearth/vistas"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "FastAPI", "GitHub Actions", "Ruff", "Mypy", "Pytest"]
+title: Jobfromearth/vistas
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- FastAPI
+- GitHub Actions
+- Ruff
+- Mypy
+- Pytest
 quality_score: 8
 rag_relevance: 9
-tags: ["Swedish immigration data", "legal citations", "MCP server", "offline RAG", "versioned regulations"]
-source: "https://github.com/Jobfromearth/vistas"
-discovered_at: "2026-07-19T10:26:53Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Swedish immigration data
+- legal citations
+- MCP server
+- offline RAG
+- versioned regulations
+source: https://github.com/Jobfromearth/vistas
+stars: 0
+language: Python
+last_updated: '2026-07-19T10:21:20Z'
+discovered_at: '2026-07-19T10:26:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

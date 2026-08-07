@@ -13,7 +13,6 @@ importance: medium
 tags:
 - meta-ai
 - models
-- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-platform installation**: Ollama provides platform-specific download links for macOS, Linux, and Windows, with native installers (`.pkg`, `.deb`, `.rpm`, `.exe`) and direct PowerShell command (`irm https://ollama.com/install.ps1 | iex`) for Windows.
-- **Windows compatibility**: Requires Windows 10 or later; offers both a PowerShell script and a standalone `.exe` installer (`OllamaSetup.exe`) for deployment.
-- **Cross-OS execution**: Uses platform-appropriate commands (e.g., `iex` for Po
+- **Cross-platform installation**: Ollama provides native download links for macOS, Linux, and Windows (via PowerShell command or `.exe` installer), requiring Windows 10+ for the latter.
+- **PowerShell deployment**: Windows users can install Ollama via a single PowerShell command (`irm https://ollama.com/install.ps1 | iex`), executing a remote script for automated setup.
+- **Direct executable**: Windows users can also download `OllamaSetup.exe` for offline installation, bypassing the script-base
 
 ## Use Cases
 

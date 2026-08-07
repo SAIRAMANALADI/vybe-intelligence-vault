@@ -1,13 +1,31 @@
 ---
-title: "paulnsorensen/hallouminate"
-category: "Vector DB"
-tech_stack: ["Rust", "LanceDB", "FastEmbed", "MCP (Model Context Protocol)", "Unix Domain Sockets", "TOML (config)", "ONNX Runtime"]
+title: paulnsorensen/hallouminate
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- LanceDB
+- FastEmbed
+- MCP (Model Context Protocol)
+- Unix Domain Sockets
+- TOML (config)
+- ONNX Runtime
 quality_score: 9
 rag_relevance: 10
-tags: ["markdown indexing", "LLM knowledge base", "semantic search", "agent integration", "per-repo wiki"]
-source: "https://github.com/paulnsorensen/hallouminate"
-discovered_at: "2026-07-20T03:52:30Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- markdown indexing
+- LLM knowledge base
+- semantic search
+- agent integration
+- per-repo wiki
+source: https://github.com/paulnsorensen/hallouminate
+stars: 0
+language: Rust
+last_updated: '2026-07-20T03:50:02Z'
+discovered_at: '2026-07-20T03:52:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

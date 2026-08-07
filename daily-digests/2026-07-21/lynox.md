@@ -1,13 +1,35 @@
 ---
-title: "lynox-ai/lynox"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Docker", "SQLite", "Knowledge Graph", "REST APIs", "OAuth 2.0", "WebAssembly", "PWA (Progressive Web App)", "Whisper STT", "AES-256 Encryption"]
+title: lynox-ai/lynox
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- SQLite
+- Knowledge Graph
+- REST APIs
+- OAuth 2.0
+- WebAssembly
+- PWA (Progressive Web App)
+- Whisper STT
+- AES-256 Encryption
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent", "workflow automation", "knowledge graph", "self-hosted", "LLM integration"]
-source: "https://github.com/lynox-ai/lynox"
-discovered_at: "2026-07-13T23:53:37Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI agent
+- workflow automation
+- knowledge graph
+- self-hosted
+- LLM integration
+source: https://github.com/lynox-ai/lynox
+stars: 2
+language: TypeScript
+last_updated: '2026-07-13T23:44:24Z'
+discovered_at: '2026-07-13T23:53:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

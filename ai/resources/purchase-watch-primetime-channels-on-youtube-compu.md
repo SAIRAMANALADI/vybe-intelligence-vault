@@ -4,18 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA
-published_at: '2026-07-13T09:43:35.244683+05:30'
-collected_at: '2026-07-13T09:43:35.244698+05:30'
+published_at: '2026-08-06T17:13:50.376947+05:30'
+collected_at: '2026-08-06T17:13:50.376963+05:30'
 tags:
-- hackernews
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:purchase-watch-primetime-channels-on-youtube-compu
-first_seen: '2026-07-13T09:43:35.244698+05:30'
-last_seen: '2026-07-13T09:43:35.244698+05:30'
-last_checked: '2026-07-13T09:43:35.244698+05:30'
+first_seen: '2026-08-06T17:13:50.376963+05:30'
+last_seen: '2026-08-06T17:13:50.376963+05:30'
+last_checked: '2026-08-06T17:13:50.376963+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Access & Subscription Models**: Primetime Channels on YouTube allow standalone purchases (no YouTube TV required) for official movies, shows, and live content from 50+ networks (e.g., NFL Sunday Ticket, HBO Max, Paramount+), with ad-supported or ad-free options determined by content providers.
+- **Primetime Channels on YouTube** allow users to purchase and stream official movies, TV shows, and live content from networks (e.g., HBO Max, Paramount+, NFL Sunday Ticket) without requiring a YouTube TV subscription, though YouTube TV subscribers can also access select channels.
 
-- **Technical Restrictions & Features**: Location-based viewing restrictions apply; YouTube Premium subscribers lose ad-free benefits, offline downloads, and background playback for Primetime Channels, while YouTube TV users may access bundled networks but with varying watch experiences across platforms.
+- **Purchase & Access Methods**: Users can buy channels via the [Movies & TV](https://www.youtube.com/movies) tab, YouTube search, or smart TV app; content is accessible through the **Purchased** tab, **Subscriptions** feed, or search results, with location sharing required for restricted content.
 
-- **Promotions & Management**: Introductory discounts are available for new subscribers (renewing at standard price), with promotional pricing inaccessible via iOS YouTube app; cancellations/refunds are supported, and subscriptions are managed via the Purchased tab or Settings.
+- **Key Limitations**: YouTube Premium subscribers lose ad-free viewing, offline downloads, and background playback for Primetime Channels; promotional pricing may not apply on iOS devices due to billing restrictions, and bundled packages (e.g., Sports Plus) are not available as standalone Primetime Channels.
 
 ## Why It Matters
 
@@ -37,11 +36,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-13T09:43:35.244683+05:30
+- Published: 2026-08-06T17:13:50.376947+05:30
 
 ## Related Tags
 
-- hackernews
 - reddit
 - web-crawled
 - youtube

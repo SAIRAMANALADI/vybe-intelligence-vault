@@ -1,13 +1,28 @@
 ---
-title: "pipeworx-io/mcp-luchtmeetnet"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "JSON"]
+title: pipeworx-io/mcp-luchtmeetnet
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- REST API
+- JSON
 quality_score: 7
 rag_relevance: 8
-tags: ["air quality", "MCP server", "RIVM data", "real-time metrics", "Netherlands"]
-source: "https://github.com/pipeworx-io/mcp-luchtmeetnet"
-discovered_at: "2026-07-16T18:05:49Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- air quality
+- MCP server
+- RIVM data
+- real-time metrics
+- Netherlands
+source: https://github.com/pipeworx-io/mcp-luchtmeetnet
+stars: 0
+language: TypeScript
+last_updated: '2026-07-16T18:04:22Z'
+discovered_at: '2026-07-16T18:05:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

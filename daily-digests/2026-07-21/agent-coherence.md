@@ -1,13 +1,34 @@
 ---
-title: "Cohexa-ai/agent-coherence"
-category: "Orchestrator"
-tech_stack: ["Python", "TLA+", "LangGraph", "CrewAI", "AutoGen", "OpenAI Agents SDK", "MCP (Model Context Protocol)", "SQLite", "PostgreSQL", "S3"]
+title: Cohexa-ai/agent-coherence
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- TLA+
+- LangGraph
+- CrewAI
+- AutoGen
+- OpenAI Agents SDK
+- MCP (Model Context Protocol)
+- SQLite
+- PostgreSQL
+- S3
 quality_score: 9
 rag_relevance: 10
-tags: ["agent coordination", "state consistency", "MESI protocol", "concurrency control", "RAG memory integrity"]
-source: "https://github.com/Cohexa-ai/agent-coherence"
-discovered_at: "2026-07-19T10:26:50Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- agent coordination
+- state consistency
+- MESI protocol
+- concurrency control
+- RAG memory integrity
+source: https://github.com/Cohexa-ai/agent-coherence
+stars: 10
+language: Python
+last_updated: '2026-07-19T10:20:37Z'
+discovered_at: '2026-07-19T10:26:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

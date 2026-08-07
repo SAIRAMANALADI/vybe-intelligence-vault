@@ -1,13 +1,34 @@
 ---
-title: "mordiaky/vouchspec"
-category: "Tooling"
-tech_stack: ["Ed25519", "DSSE (Digital Signature Standard Envelope)", "JWK (JSON Web Key)", "x402 (Agent Payment Protocol)", "GitHub Actions", "OpenAPI 3.1", "A2A (Agent-to-Agent Protocol)", "MCP (Model Context Protocol)", "TLS", "SQLite (for local commerce harness)"]
+title: mordiaky/vouchspec
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Ed25519
+- DSSE (Digital Signature Standard Envelope)
+- JWK (JSON Web Key)
+- x402 (Agent Payment Protocol)
+- GitHub Actions
+- OpenAPI 3.1
+- A2A (Agent-to-Agent Protocol)
+- MCP (Model Context Protocol)
+- TLS
+- SQLite (for local commerce harness)
 quality_score: 9
 rag_relevance: 8
-tags: ["evidence indexing", "agent skill verification", "cryptographic signing", "static inspection", "immutable artifacts"]
-source: "https://github.com/mordiaky/vouchspec"
-discovered_at: "2026-07-16T02:25:58Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- evidence indexing
+- agent skill verification
+- cryptographic signing
+- static inspection
+- immutable artifacts
+source: https://github.com/mordiaky/vouchspec
+stars: 1
+language: HTML
+last_updated: '2026-07-16T02:22:25Z'
+discovered_at: '2026-07-16T02:25:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

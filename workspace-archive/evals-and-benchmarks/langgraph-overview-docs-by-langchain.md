@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Low-level orchestration framework** for building stateful, long-running agents with durable execution, streaming, and human-in-the-loop capabilities, inspired by Pregel and Apache Beam.
-
-- **Core features** include persistence (failure recovery), human-in-the-loop (state inspection/modification), and comprehensive memory (short/long-term), with debugging via LangSmith for execution tracing and metrics.
-
-- **Ecosystem integration** with LangChain (components/models/tools) and LangSmith (obser
+- **Low-level orchestration framework** for building stateful, long-running agents with fine-grained control over deterministic and LLM-driven steps in a single graph.
+- **Core capabilities** include durable execution, streaming, human-in-the-loop interactions, and comprehensive state persistence for fault tolerance.
+- **Ecosystem integration** with LangSmith for observability, debugging, and deployment, enabling production-grade agent systems with trace visualization and automated issue detecti
 
 ## Use Cases
 

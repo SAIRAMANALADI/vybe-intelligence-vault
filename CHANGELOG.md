@@ -4,9 +4,9 @@ All notable additions and changes to **Vybe Intelligence Vault** are documented 
 Updated weekly. Format: `[Week] — [Date Range]`
 
 <!-- LATEST:START -->
-* Last updated: 2026-07-21 22:31 IST
-* Resources tracked: 12963
-* Archive files: 48932
+* Last updated: 2026-08-07 09:09 IST
+* Resources tracked: 17988
+* Archive files: 69255
 * Archive categories: 27
 * Changed sections: Refreshed all active archive directories and living skill guides
 * Safety scan: Passed
@@ -49,6 +49,23 @@ Updated weekly. Format: `[Week] — [Date Range]`
 
 ### Daily Summaries
 <!-- DAILY:START -->
+* **2026-08-07**: Added 1945 resources. Rebuilt archive and search index.
+* **2026-08-06**: Added 6236 resources. Rebuilt archive and search index.
+* **2026-08-05**: Added 6372 resources. Rebuilt archive and search index.
+* **2026-08-04**: Added 7294 resources. Rebuilt archive and search index.
+* **2026-08-03**: Added 6193 resources. Rebuilt archive and search index.
+* **2026-08-02**: Added 6783 resources. Rebuilt archive and search index.
+* **2026-08-01**: Added 6790 resources. Rebuilt archive and search index.
+* **2026-07-31**: Added 7211 resources. Rebuilt archive and search index.
+* **2026-07-30**: Added 7016 resources. Rebuilt archive and search index.
+* **2026-07-29**: Added 7102 resources. Rebuilt archive and search index.
+* **2026-07-28**: Added 7595 resources. Rebuilt archive and search index.
+* **2026-07-27**: Added 6010 resources. Rebuilt archive and search index.
+* **2026-07-26**: Added 6772 resources. Rebuilt archive and search index.
+* **2026-07-25**: Added 3858 resources. Rebuilt archive and search index.
+* **2026-07-24**: Added 2902 resources. Rebuilt archive and search index.
+* **2026-07-23**: Added 7149 resources. Rebuilt archive and search index.
+* **2026-07-22**: Added 7190 resources. Rebuilt archive and search index.
 * **2026-07-21**: Added 7486 resources. Rebuilt archive and search index.
 * **2026-07-20**: Added 5111 resources. Rebuilt archive and search index.
 * **2026-07-19**: Added 3910 resources. Rebuilt archive and search index.
@@ -62,19 +79,12 @@ Updated weekly. Format: `[Week] — [Date Range]`
 * **2026-07-08**: Added 412 resources. Rebuilt archive and search index.
 * **2026-07-07**: Added 1246 resources. Rebuilt archive and search index.
 * **2026-07-06**: Added 0 resources. Rebuilt archive and search index.
-* **2026-06-25**: Added 575 resources. Rebuilt archive and search index.
-* **2026-06-22**: Added 1261 resources. Rebuilt archive and search index.
-* **2026-06-21**: Added 39 resources. Rebuilt archive and search index.
-* **2026-06-18**: Added 676 resources. Rebuilt archive and search index.
-* **2026-06-17**: Added 641 resources. Rebuilt archive and search index.
-* **2026-06-16**: Added 2363 resources. Rebuilt archive and search index.
-* **2026-06-15**: Added 9179 resources. Rebuilt archive and search index.
-* **2026-06-12**: Added 1964 resources. Rebuilt archive and search index.
-* **2026-06-11**: Added 116 resources. Rebuilt archive and search index.
 <!-- DAILY:END -->
 
 ### Weekly Intelligence Reports
 <!-- WEEKLY:START -->
+* [Weekly Report — 2026 Week 32](weekly-reports/2026/week-32.md)
+* [Weekly Report — 2026 Week 31](weekly-reports/2026/week-31.md)
 * [Weekly Report — 2026 Week 30](weekly-reports/2026/week-30.md)
 * [Weekly Report — 2026 Week 29](weekly-reports/2026/week-29.md)
 * [Weekly Report — 2026 Week 28](weekly-reports/2026/week-28.md)

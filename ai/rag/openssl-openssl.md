@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/openssl/openssl/wiki/Binaries
-published_at: '2026-07-08T09:27:26.347885+05:30'
-collected_at: '2026-07-08T09:27:26.347897+05:30'
+published_at: '2026-08-06T09:19:21.833910+05:30'
+collected_at: '2026-08-06T09:19:21.833926+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:openssl/openssl
-first_seen: '2026-07-08T09:27:26.347897+05:30'
-last_seen: '2026-07-08T09:27:26.347897+05:30'
-last_checked: '2026-07-08T09:27:26.347897+05:30'
+first_seen: '2026-08-06T09:19:21.833926+05:30'
+last_seen: '2026-08-06T09:19:21.833926+05:30'
+last_checked: '2026-08-06T09:19:21.833926+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **OpenSSL Binary Distributions**: Third-party pre-compiled OpenSSL binaries available for Windows, Linux, macOS, Android, Solaris, and NonStop systems, with support for legacy and modern versions (1.0.2, 1.1.0, 1.1.1, 3.0, 4.0 FIPS), including WebAssembly (WASI) and FIPS-validated builds.
+- **OpenSSL Binary Distributions**: Third-party pre-compiled OpenSSL binaries available for Windows, Linux, macOS, Android, Solaris, and NonStop systems, with support for legacy and current versions (e.g., 1.0.2, 1.1.1, 3.0, 4.0 FIPS).
 
-- **OpenSSL Engine/Provider Ecosystem**: Third-party engines/providers extend OpenSSL functionality, including Intel QAT for hardware acceleration, ATECCX08 for secure key storage, GOST for Russian crypto standards, ISARA Radiate for post-quantum algorithms, and wolfSSL’s wolfEngine/wolfProvider for FIPS 140-2 compliance.
+- **OpenSSL Providers/Engines**: Third-party cryptographic accelerators and modules (e.g., Intel QAT, wolfSSL wolfEngine, SafeLogic FIPS 140-3 Provider) for hardware-accelerated or quantum-resistant algorithms, with Engine support deprecated in OpenSSL 4.0.
 
-- **Deprecation & Compliance**: OpenSSL 4.0 removes legacy Engine support in favor of Providers; SafeLogic’s CryptoComply offers FIPS 140-3 and SP 800-90B validated providers for entropy generation.
+- **WebAssembly Port**: OpenSSL 3.0 ported to WebAssembly (via Emscripten) for browser-based execution, supporting WASI binaries and WebWorker threading for cryptographic operations.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T09:27:26.347885+05:30
+- Published: 2026-08-06T09:19:21.833910+05:30
 
 ## Related Tags
 

@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Doorman11991/smallcode
-collected_at: '2026-07-21T19:55:19.471234+05:30'
-published_at: '2026-07-21T13:59:32Z'
+collected_at: '2026-08-06T17:09:59.772538+05:30'
+published_at: '2026-08-06T10:43:42Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - javascript
 - rag
-stars: 1995
+stars: 2000
 language: JavaScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-05-18T06:19:44Z'
-pushed_at: '2026-06-20T04:11:30Z'
+pushed_at: '2026-08-06T10:43:38Z'
 resource_id: github:doorman11991/smallcode
-first_seen: '2026-07-21T19:55:19.471234+05:30'
-last_seen: '2026-07-21T19:55:19.471234+05:30'
-last_checked: '2026-07-21T19:55:19.471234+05:30'
+first_seen: '2026-08-06T17:09:59.772538+05:30'
+last_seen: '2026-08-06T17:09:59.772538+05:30'
+last_checked: '2026-08-06T17:09:59.772538+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized AI Coding Agent**: Designed for small language models (LLMs), achieving an 87% benchmark with a 4B-active model, enabling efficient code generation and assistance in constrained environments.
+- **AI Coding Agent**: Optimized for small LLMs, achieving **87% benchmark** with a **4B-active model**, designed for efficiency in constrained environments.
 
-- **JavaScript-Based Implementation**: Entirely developed in JavaScript, ensuring cross-platform compatibility and leveraging the language's dynamic typing and event-driven architecture for lightweight performance.
+- **Repository Metrics**: **2,000 stars**, **152 forks**, primarily written in **JavaScript**, last updated on **2026-08-06**.
 
-- **GitHub Repository Metrics**: Maintains 1,995 stars and 153 forks with the last update on **2026-07-21**, indicating active community engagement and continuous development.
+- **Purpose**: Targets **small code generation** tasks, leveraging lightweight models for performance-critical applications.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Doorman11991
-- Stars: 1995
-- Forks: 153
+- Stars: 2000
+- Forks: 152
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-07-21T13:59:32Z
+- Last Updated: 2026-08-06T10:43:42Z
 - License: MIT
 - Archived: No
 - Created At: 2026-05-18T06:19:44Z
-- Pushed At: 2026-06-20T04:11:30Z
+- Pushed At: 2026-08-06T10:43:38Z
 
 ## Possible Use Cases
 

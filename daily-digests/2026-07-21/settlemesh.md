@@ -1,13 +1,32 @@
 ---
-title: "StructureIntelligence/SettleMesh"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "TypeScript", "Docker", "Claude Code", "Cursor", "Codex"]
+title: StructureIntelligence/SettleMesh
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- TypeScript
+- Docker
+- Claude Code
+- Cursor
+- Codex
 quality_score: 8
 rag_relevance: 9
-tags: ["agent-native", "deployment automation", "MCP server", "billing integration", "AI app monetization"]
-source: "https://github.com/StructureIntelligence/SettleMesh"
-discovered_at: "2026-07-11T14:52:08Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- agent-native
+- deployment automation
+- MCP server
+- billing integration
+- AI app monetization
+source: https://github.com/StructureIntelligence/SettleMesh
+stars: 0
+language: JavaScript
+last_updated: '2026-07-11T14:40:23Z'
+discovered_at: '2026-07-11T14:52:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

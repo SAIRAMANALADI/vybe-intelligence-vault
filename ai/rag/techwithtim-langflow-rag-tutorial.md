@@ -4,24 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-07-21T22:13:32.386008+05:30'
-published_at: '2026-07-03T20:52:55Z'
+collected_at: '2026-08-07T08:50:33.759517+05:30'
+published_at: '2026-07-22T08:36:27Z'
 tags:
 - github-repo
-- hackernews
 - rag
 - unknown
 - workflows
-stars: 97
+stars: 98
 language: Unknown
 status: active
 archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-07-21T22:13:32.386008+05:30'
-last_seen: '2026-07-21T22:13:32.386008+05:30'
-last_checked: '2026-07-21T22:13:32.386008+05:30'
+first_seen: '2026-08-07T08:50:33.759517+05:30'
+last_seen: '2026-08-07T08:50:33.759517+05:30'
+last_checked: '2026-08-07T08:50:33.759517+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Langflow-RAG-Tutorial by techwithtim is a GitHub repository with 97 stars and 25 forks, last updated on **2026-07-03**.
-- **Technical Focus**: The repository is centered on **Retrieval-Augmented Generation (RAG)** workflows using Langflow, though no explicit description or language is provided.
-- **Metadata Gap**: Missing explicit topics, language specification, and a detailed README, indicating potential early-stage or placeholder documentation.
+- **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 98 stars and 26 forks, last updated on **2026-07-22**.
+- **Language & Topics**: Repository language unspecified; no topics listed.
+- **Purpose**: No description provided; unclear if related to Langflow or RAG (Retrieval-Augmented Generation) workflows.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: techwithtim
-- Stars: 97
-- Forks: 25
+- Stars: 98
+- Forks: 26
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-03T20:52:55Z
+- Last Updated: 2026-07-22T08:36:27Z
 - Archived: No
 - Created At: 2024-04-17T10:56:19Z
 - Pushed At: 2024-07-18T10:50:24Z

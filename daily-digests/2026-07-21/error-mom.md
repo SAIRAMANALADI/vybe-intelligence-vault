@@ -1,13 +1,33 @@
 ---
-title: "KenKaiii/error-mom"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "PostgreSQL", "Node.js", "Docker", "Railway", "MCP (Model Context Protocol)", "CLI", "SDK"]
+title: KenKaiii/error-mom
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Next.js
+- PostgreSQL
+- Node.js
+- Docker
+- Railway
+- MCP (Model Context Protocol)
+- CLI
+- SDK
 quality_score: 9
 rag_relevance: 8
-tags: ["error tracking", "self-hosted", "AI agent integration", "PostgreSQL", "Railway deployment"]
-source: "https://github.com/KenKaiii/error-mom"
-discovered_at: "2026-07-19T11:57:07Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- error tracking
+- self-hosted
+- AI agent integration
+- PostgreSQL
+- Railway deployment
+source: https://github.com/KenKaiii/error-mom
+stars: 0
+language: TypeScript
+last_updated: '2026-07-19T11:56:29Z'
+discovered_at: '2026-07-19T11:57:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

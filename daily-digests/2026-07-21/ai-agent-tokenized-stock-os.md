@@ -1,13 +1,34 @@
 ---
-title: "tailoredtidings/ai-agent-tokenized-stock-os"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "Ethereum/Viem", "Uniswap V3", "0x API", "Chainlink", "Morpho Earn", "Fly.io", "Jest (testing)"]
+title: tailoredtidings/ai-agent-tokenized-stock-os
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Node.js
+- Ethereum/Viem
+- Uniswap V3
+- 0x API
+- Chainlink
+- Morpho Earn
+- Fly.io
+- Jest (testing)
 quality_score: 9
 rag_relevance: 10
-tags: ["tokenized stocks", "MCP server", "RWA", "agent guardrails", "on-chain execution"]
-source: "https://github.com/tailoredtidings/ai-agent-tokenized-stock-os"
-discovered_at: "2026-07-16T18:05:35Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- tokenized stocks
+- MCP server
+- RWA
+- agent guardrails
+- on-chain execution
+source: https://github.com/tailoredtidings/ai-agent-tokenized-stock-os
+stars: 0
+language: TypeScript
+last_updated: '2026-07-16T18:04:15Z'
+discovered_at: '2026-07-16T18:05:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

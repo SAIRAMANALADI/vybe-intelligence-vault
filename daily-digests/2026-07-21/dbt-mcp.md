@@ -1,13 +1,31 @@
 ---
-title: "dbt-labs/dbt-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "dbt Core", "dbt Platform", "GraphQL", "SQL", "Semantic Layer"]
+title: dbt-labs/dbt-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- dbt Core
+- dbt Platform
+- GraphQL
+- SQL
+- Semantic Layer
 quality_score: 9
 rag_relevance: 9
-tags: ["dbt", "MCP", "AI agents", "data orchestration", "semantic layer"]
-source: "https://github.com/dbt-labs/dbt-mcp"
-discovered_at: "2026-07-13T21:55:15Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- dbt
+- MCP
+- AI agents
+- data orchestration
+- semantic layer
+source: https://github.com/dbt-labs/dbt-mcp
+stars: 592
+language: Python
+last_updated: '2026-07-13T21:46:40Z'
+discovered_at: '2026-07-13T21:55:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

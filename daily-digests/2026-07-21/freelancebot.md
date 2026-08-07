@@ -1,13 +1,33 @@
 ---
-title: "orangterkucil/freelancebot"
-category: "Orchestrator"
-tech_stack: ["Next.js", "Solidity", "Groq Llama 3.3 70B", "Supabase", "Arc Blockchain", "USDC", "TypeScript", "Tailwind CSS", "Vercel Serverless Functions"]
+title: orangterkucil/freelancebot
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Next.js
+- Solidity
+- Groq Llama 3.3 70B
+- Supabase
+- Arc Blockchain
+- USDC
+- TypeScript
+- Tailwind CSS
+- Vercel Serverless Functions
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous payments", "AI verification", "USDC escrow", "cross-border freelancing", "smart contracts"]
-source: "https://github.com/orangterkucil/freelancebot"
-discovered_at: "2026-07-19T05:51:03Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- autonomous payments
+- AI verification
+- USDC escrow
+- cross-border freelancing
+- smart contracts
+source: https://github.com/orangterkucil/freelancebot
+stars: 2
+language: TypeScript
+last_updated: '2026-07-19T05:46:27Z'
+discovered_at: '2026-07-19T05:51:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

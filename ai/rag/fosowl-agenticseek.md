@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-07-21T22:15:02.429593+05:30'
-published_at: '2026-07-21T14:12:52Z'
+collected_at: '2026-08-07T05:52:21.705872+05:30'
+published_at: '2026-08-06T15:56:22Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 26655
+stars: 26744
 language: Python
 status: active
 license: GPL-3.0
 archived: false
 created_at: '2025-02-19T18:03:06Z'
-pushed_at: '2026-07-12T11:50:42Z'
+pushed_at: '2026-08-03T21:08:08Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-07-21T22:15:02.429593+05:30'
-last_seen: '2026-07-21T22:15:02.429593+05:30'
-last_checked: '2026-07-21T22:15:02.429593+05:30'
+first_seen: '2026-08-07T05:52:21.705872+05:30'
+last_seen: '2026-08-07T05:52:21.705872+05:30'
+last_checked: '2026-08-07T05:52:21.705872+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Agent Framework**: Fully local implementation of Manus AI using Python, enabling autonomous agents capable of reasoning, web browsing, and coding without external APIs or cloud dependencies, solely reliant on local compute resources.
+- **Fully Local AI Agent**: `agenticSeek` is a Python-based autonomous agent that operates entirely locally, eliminating dependency on external APIs or cloud services, thus reducing costs to just electricity consumption.
 
-- **Cost-Effective Autonomy**: Eliminates recurring API costs (e.g., ~$200/month) by leveraging local hardware, with operational expenses limited to electricity consumption for inference and task execution.
+- **Multi-Modal Capabilities**: Supports deep reasoning (via DeepSeek-R1), web browsing, and code execution without requiring internet access or paid subscriptions, enabling offline functionality.
 
-- **Successor Project & Ecosystem**: Includes a successor project, **3Toks**, expanding functionality while maintaining the same local-first, API-free paradigm for AI agent development.
+- **Voice & Text Interaction**: Functions as a voice assistant and LLM agent, leveraging local LLMs for autonomous decision-making and task execution.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Fosowl
-- Stars: 26655
-- Forks: 2986
+- Stars: 26744
+- Forks: 2995
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
-- Last Updated: 2026-07-21T14:12:52Z
+- Last Updated: 2026-08-06T15:56:22Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-02-19T18:03:06Z
-- Pushed At: 2026-07-12T11:50:42Z
+- Pushed At: 2026-08-03T21:08:08Z
 
 ## Possible Use Cases
 

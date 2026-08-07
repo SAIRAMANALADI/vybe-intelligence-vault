@@ -1,13 +1,33 @@
 ---
-title: "Da7-Tech/mind"
-category: "Tooling"
-tech_stack: ["Python", "JSON", "Markdown", "Shell", "Deterministic Builds", "Weighted Graphs", "BM25", "Spreading Activation", "Protocol Buffers (via MCP)"]
+title: Da7-Tech/mind
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- JSON
+- Markdown
+- Shell
+- Deterministic Builds
+- Weighted Graphs
+- BM25
+- Spreading Activation
+- Protocol Buffers (via MCP)
 quality_score: 9
 rag_relevance: 8
-tags: ["memory", "deterministic", "offline", "agent-memory", "knowledge-graph"]
-source: "https://github.com/Da7-Tech/mind"
-discovered_at: "2026-07-18T20:44:10Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- memory
+- deterministic
+- offline
+- agent-memory
+- knowledge-graph
+source: https://github.com/Da7-Tech/mind
+stars: 42
+language: Python
+last_updated: '2026-07-18T20:33:52Z'
+discovered_at: '2026-07-18T20:44:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

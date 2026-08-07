@@ -1,13 +1,28 @@
 ---
-title: "Statutecontempt951/obsidian-llm-wiki"
-category: "Tooling"
-tech_stack: ["JavaScript", "Electron", "Markdown", "Local LLM APIs"]
+title: Statutecontempt951/obsidian-llm-wiki
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Electron
+- Markdown
+- Local LLM APIs
 quality_score: 7
 rag_relevance: 8
-tags: ["Obsidian", "knowledge-base", "local-llm", "citation-system", "note-integration"]
-source: "https://github.com/Statutecontempt951/obsidian-llm-wiki"
-discovered_at: "2026-07-11T16:56:02Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Obsidian
+- knowledge-base
+- local-llm
+- citation-system
+- note-integration
+source: https://github.com/Statutecontempt951/obsidian-llm-wiki
+stars: 1
+language: JavaScript
+last_updated: '2026-07-11T16:49:47Z'
+discovered_at: '2026-07-11T16:56:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

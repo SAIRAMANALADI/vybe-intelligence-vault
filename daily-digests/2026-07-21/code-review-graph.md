@@ -1,13 +1,28 @@
 ---
-title: "apodal-cherry334/code-review-graph"
-category: "Tooling"
-tech_stack: ["Python", "Tree-sitter", "Static Analysis", "Windows Installer (.msi/.exe)"]
+title: apodal-cherry334/code-review-graph
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Tree-sitter
+- Static Analysis
+- Windows Installer (.msi/.exe)
 quality_score: 7
 rag_relevance: 8
-tags: ["static analysis", "code mapping", "local processing", "AI optimization", "privacy-first"]
-source: "https://github.com/apodal-cherry334/code-review-graph"
-discovered_at: "2026-07-19T07:29:52Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- static analysis
+- code mapping
+- local processing
+- AI optimization
+- privacy-first
+source: https://github.com/apodal-cherry334/code-review-graph
+stars: 0
+language: Python
+last_updated: '2026-07-19T07:14:32Z'
+discovered_at: '2026-07-19T07:29:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

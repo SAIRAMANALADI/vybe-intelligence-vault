@@ -1,13 +1,34 @@
 ---
-title: "D3G3N-4LPH4/fenrir-v2"
-category: "Tooling"
-tech_stack: ["Python 3.12+", "Solana RPC/WebSocket", "Jupiter API", "FastAPI", "React (Vite + TypeScript)", "Claude API / vLLM / llama.cpp", "SQLite", "Jito MEV", "Pump.fun Protocol", "Node.js 18+"]
+title: D3G3N-4LPH4/fenrir-v2
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python 3.12+
+- Solana RPC/WebSocket
+- Jupiter API
+- FastAPI
+- React (Vite + TypeScript)
+- Claude API / vLLM / llama.cpp
+- SQLite
+- Jito MEV
+- Pump.fun Protocol
+- Node.js 18+
 quality_score: 9
 rag_relevance: 7
-tags: ["Solana trading", "AI decision engine", "multi-tier strategy", "real-time monitoring", "autonomous bot"]
-source: "https://github.com/D3G3N-4LPH4/fenrir-v2"
-discovered_at: "2026-07-12T08:15:25Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: High
+tags:
+- Solana trading
+- AI decision engine
+- multi-tier strategy
+- real-time monitoring
+- autonomous bot
+source: https://github.com/D3G3N-4LPH4/fenrir-v2
+stars: 1
+language: Python
+last_updated: '2026-07-12T08:08:53Z'
+discovered_at: '2026-07-12T08:15:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

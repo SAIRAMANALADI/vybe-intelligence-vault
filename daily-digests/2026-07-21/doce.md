@@ -1,13 +1,32 @@
 ---
-title: "tlgimenes/doce"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tauri", "llama.cpp", "SQLite", "Node.js", "Vite", "TypeScript", "WebdriverIO"]
+title: tlgimenes/doce
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- Tauri
+- llama.cpp
+- SQLite
+- Node.js
+- Vite
+- TypeScript
+- WebdriverIO
 quality_score: 9
 rag_relevance: 7
-tags: ["local AI", "coding agent", "privacy-first", "macOS", "self-hosted"]
-source: "https://github.com/tlgimenes/doce"
-discovered_at: "2026-07-19T22:50:35Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- local AI
+- coding agent
+- privacy-first
+- macOS
+- self-hosted
+source: https://github.com/tlgimenes/doce
+stars: 0
+language: Rust
+last_updated: '2026-07-19T22:38:32Z'
+discovered_at: '2026-07-19T22:50:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

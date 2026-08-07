@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-07-21T22:15:52.504304+05:30'
-published_at: '2026-07-20T22:57:51Z'
+collected_at: '2026-08-07T05:51:36.637489+05:30'
+published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
 - github-repo
 - rag
 - reddit
 - unknown
-stars: 197
+- workflows
+stars: 205
 language: Unknown
 status: active
 archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-07-21T22:15:52.504304+05:30'
-last_seen: '2026-07-21T22:15:52.504304+05:30'
-last_checked: '2026-07-21T22:15:52.504304+05:30'
+first_seen: '2026-08-07T05:51:36.637489+05:30'
+last_seen: '2026-08-07T05:51:36.637489+05:30'
+last_checked: '2026-08-07T05:51:36.637489+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized Query Management**: Implements advanced caching strategies and stale-while-revalidate patterns in TanStack Query to minimize redundant API calls and improve AI agent response latency.
+- **Optimized TanStack Query Integration**: Implements advanced caching strategies, stale-while-revalidate patterns, and automatic background refetching for AI-driven state synchronization in dynamic applications.
 
-- **Dynamic Route Handling**: Leverages TanStack Router's file-based routing and lazy loading to enable efficient, on-demand route resolution for AI-driven navigation and state synchronization.
+- **Router-Level State Management**: Leverages TanStack Router’s file-based routing and loader functions to dynamically inject query states, reducing client-side hydration overhead and improving cold-start performance.
 
-- **Performance-Centric Startup**: Utilizes TanStack Start for optimized SSR/SSG hybrid rendering, reducing Time-to-First-Byte (TTFB) and enabling faster agent initialization in production environments.
+- **Start Framework Optimization**: Configures `@tanstack/start` with SSR-friendly hydration hooks and prefetching mechanisms, ensuring seamless integration with AI agent workflows for real-time data fetching.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DeckardGer
-- Stars: 197
-- Forks: 18
+- Stars: 205
+- Forks: 17
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-20T22:57:51Z
+- Last Updated: 2026-08-03T07:49:22Z
 - Archived: No
 - Created At: 2026-01-16T07:31:33Z
 - Pushed At: 2026-04-03T05:02:53Z

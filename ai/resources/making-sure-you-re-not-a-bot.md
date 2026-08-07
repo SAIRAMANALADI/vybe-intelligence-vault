@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.lumendatabase.org/
-published_at: '2026-07-21T22:20:45.648002+05:30'
-collected_at: '2026-07-21T22:20:45.648016+05:30'
+published_at: '2026-08-06T17:19:16.296811+05:30'
+collected_at: '2026-08-06T17:19:16.296837+05:30'
 tags:
 - scripts
 - web-crawled
 status: active
 resource_id: blog:making-sure-you-re-not-a-bot
-first_seen: '2026-07-21T22:20:45.648016+05:30'
-last_seen: '2026-07-21T22:20:45.648016+05:30'
-last_checked: '2026-07-21T22:20:45.648016+05:30'
+first_seen: '2026-08-06T17:19:16.296837+05:30'
+last_seen: '2026-08-06T17:19:16.296837+05:30'
+last_checked: '2026-08-06T17:19:16.296837+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Anubis employs a Proof-of-Work (PoW) mechanism inspired by Hashcash** to mitigate aggressive AI-driven web scraping, imposing computational overhead on scrapers while remaining negligible for individual users.
+- **Anubis employs a Proof-of-Work (PoW) mechanism**, inspired by Hashcash, to mitigate aggressive AI-driven web scraping by imposing computational costs that scale with scraping volume, thereby reducing server load from mass requests.
 
-- **The system prioritizes headless browser detection** (e.g., via font rendering analysis) to reduce reliance on PoW challenges for legitimate users, though JavaScript is currently required due to AI circumventing no-JS solutions.
+- **The system prioritizes headless browser detection** (e.g., via font rendering analysis) to minimize disruption to legitimate users, with the PoW challenge serving as a temporary fallback until more precise fingerprinting methods are implemented.
 
-- **Anubis v1.25.0 requires modern JavaScript** (disabling plugins like JShelter may be necessary), as AI companies have altered the web hosting social contract, necessitating client-side computation for anti-scraping defenses.
+- **Modern JavaScript is required** for PoW validation, as Anubis relies on advanced JS features; disabling plugins like JShelter may block access, and a no-JS solution is under development due to evolving scraping tactics.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T22:20:45.648002+05:30
+- Published: 2026-08-06T17:19:16.296811+05:30
 
 ## Related Tags
 

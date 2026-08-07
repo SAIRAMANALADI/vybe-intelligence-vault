@@ -1,13 +1,31 @@
 ---
-title: "cuzfrog/docent-mcp"
-category: "Vector DB"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "FastEmbed", "BM25", "Semantic Search", "HTTP", "In-Memory Indexing"]
+title: cuzfrog/docent-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- FastEmbed
+- BM25
+- Semantic Search
+- HTTP
+- In-Memory Indexing
 quality_score: 8
 rag_relevance: 9
-tags: ["document search", "semantic indexing", "BM25 hybrid search", "MCP server", "markdown processing"]
-source: "https://github.com/cuzfrog/docent-mcp"
-discovered_at: "2026-07-21T17:16:46Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- document search
+- semantic indexing
+- BM25 hybrid search
+- MCP server
+- markdown processing
+source: https://github.com/cuzfrog/docent-mcp
+stars: 1
+language: Rust
+last_updated: '2026-07-21T17:12:13Z'
+discovered_at: '2026-07-21T17:16:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

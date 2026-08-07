@@ -1,13 +1,32 @@
 ---
-title: "Thuong180702/IdeaGauntlet"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "LLM Providers (OpenAI, Ollama, etc.)", "MCP (Model Context Protocol)", "Playwright", "Mermaid.js", "HTML/CSS"]
+title: Thuong180702/IdeaGauntlet
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- LLM Providers (OpenAI, Ollama, etc.)
+- MCP (Model Context Protocol)
+- Playwright
+- Mermaid.js
+- HTML/CSS
 quality_score: 9
 rag_relevance: 7
-tags: ["product validation", "idea stress-testing", "adversarial critique", "MVP planning", "synthetic user feedback"]
-source: "https://github.com/Thuong180702/IdeaGauntlet"
-discovered_at: "2026-07-15T05:29:51Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- product validation
+- idea stress-testing
+- adversarial critique
+- MVP planning
+- synthetic user feedback
+source: https://github.com/Thuong180702/IdeaGauntlet
+stars: 1
+language: TypeScript
+last_updated: '2026-07-15T05:25:10Z'
+discovered_at: '2026-07-15T05:29:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

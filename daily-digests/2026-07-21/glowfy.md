@@ -1,13 +1,33 @@
 ---
-title: "samueldanso/glowfy"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Hono", "Claude Sonnet 4.6", "AWS Bedrock", "SQLite", "Open Beauty Facts", "x402 protocol", "Render"]
+title: samueldanso/glowfy
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Bun
+- Hono
+- Claude Sonnet 4.6
+- AWS Bedrock
+- SQLite
+- Open Beauty Facts
+- x402 protocol
+- Render
 quality_score: 8
 rag_relevance: 7
-tags: ["skincare", "AI agent", "research-backed", "pay-per-call", "dermatology"]
-source: "https://github.com/samueldanso/glowfy"
-discovered_at: "2026-07-16T10:57:59Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- skincare
+- AI agent
+- research-backed
+- pay-per-call
+- dermatology
+source: https://github.com/samueldanso/glowfy
+stars: 0
+language: TypeScript
+last_updated: '2026-07-16T10:56:50Z'
+discovered_at: '2026-07-16T10:57:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

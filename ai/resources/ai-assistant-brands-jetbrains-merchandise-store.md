@@ -3,16 +3,16 @@ title: AI Assistant - Brands — JetBrains Merchandise Store
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://www.jetbrainsmerchandise.com/catalog/category/view/s/ai-assistant/id/124
-published_at: '2026-06-24T21:12:48.534050+05:30'
-collected_at: '2026-06-24T21:12:48.534061+05:30'
+source_url: https://www.jetbrainsmerchandise.com/catalog/category/view/s/ai-assistant/id/124/
+published_at: '2026-08-03T01:16:10.541815+05:30'
+collected_at: '2026-08-03T01:16:10.541829+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:ai-assistant-brands-jetbrains-merchandise-store
-first_seen: '2026-06-24T21:12:48.534061+05:30'
-last_seen: '2026-06-24T21:12:48.534061+05:30'
-last_checked: '2026-06-24T21:12:48.534061+05:30'
+first_seen: '2026-08-03T01:16:10.541829+05:30'
+last_seen: '2026-08-03T01:16:10.541829+05:30'
+last_checked: '2026-08-03T01:16:10.541829+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Product**: AI Assistant Pin (SKU: JBAA0001) priced at €3.95, sold by JetBrains Merchandise.
-- **Item Type**: Pins, with display options for 12, 24, or 36 units per page.
-- **Filtering**: Categorized under "AI Assistant" brand (ID: 67) and "Pins" item type (ID: 56).
+- **Product**: AI Assistant Pin (SKU: JBAA0001) priced at €3.95, listed under JetBrains' AI Assistant merchandise category.
+- **Availability**: Sold as a single item (pins) with no variants; filters show only one product matching the "AI Assistant" brand.
+- **UI/UX**: Product listing includes image, name, SKU, price, "Add to Cart," and "Add to Compare" buttons; pagination set to 12 items per page.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:12:48.534050+05:30
+- Published: 2026-08-03T01:16:10.541815+05:30
 
 ## Related Tags
 
@@ -40,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.jetbrainsmerchandise.com/catalog/category/view/s/ai-assistant/id/124
+Original source: https://www.jetbrainsmerchandise.com/catalog/category/view/s/ai-assistant/id/124/

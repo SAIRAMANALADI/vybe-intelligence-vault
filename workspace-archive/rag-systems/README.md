@@ -8,25 +8,25 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 
 ## Top Matched Resources
 
-- [truefoundry/cognita](https://github.com/truefoundry/cognita) (framework - ESSENTIAL Tier)
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (benchmark - ESSENTIAL Tier)
+- [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
+- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag) (template - ESSENTIAL Tier)
+- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (framework - ESSENTIAL Tier)
+- [List of CommonMark Implementations · commonmark/commonmark-spec Wiki · GitHub](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations) (framework - ESSENTIAL Tier)
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (mcp-server - ESSENTIAL Tier)
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
-- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
+- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/run-llama/llama_index (LlamaIndex)
 https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
-- [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
-- [langgenius/dify](https://github.com/langgenius/dify)
+- [weaviate/Verba](https://github.com/weaviate/Verba)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
+- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
+- [List of CommonMark Implementations · commonmark/commonmark-spec Wiki · GitHub](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-07-21 22:30 IST*
+*Last updated: 2026-08-07 09:07 IST*

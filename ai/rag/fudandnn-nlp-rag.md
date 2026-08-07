@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FudanDNN-NLP/RAG
-collected_at: '2026-07-21T22:14:07.561155+05:30'
-published_at: '2026-07-02T18:18:04Z'
+collected_at: '2026-08-07T08:51:13.881581+05:30'
+published_at: '2026-07-26T08:08:37Z'
 tags:
 - benchmark
 - github-repo
 - paper
 - python
 - rag
-- workflows
-stars: 347
+stars: 348
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-06-29T13:07:50Z'
 pushed_at: '2024-12-21T07:32:41Z'
 resource_id: github:fudandnn-nlp/rag
-first_seen: '2026-07-21T22:14:07.561155+05:30'
-last_seen: '2026-07-21T22:14:07.561155+05:30'
-last_checked: '2026-07-21T22:14:07.561155+05:30'
+first_seen: '2026-08-07T08:51:13.881581+05:30'
+last_seen: '2026-08-07T08:51:13.881581+05:30'
+last_checked: '2026-08-07T08:51:13.881581+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- Implements retrieval-augmented generation (RAG) best practices as outlined in EMNLP 2024, focusing on optimizing retrieval and generation pipelines for improved performance.
-
-- Provides a Python-based framework with modular components for document retrieval, query processing, and response generation, enabling customizable RAG workflows.
-
-- Supports extensibility via configurable parameters for retrieval strategies, embedding models, and generation backends, facilitating experimentation and benchmarking.
+- Implements retrieval-augmented generation (RAG) best practices as per EMNLP 2024 paper, focusing on optimizing retrieval and generation pipelines.
+- Provides Python-based framework for integrating and evaluating RAG systems with modular components for document retrieval, reranking, and response generation.
+- Supports extensibility via custom retrievers, rerankers, and LLMs, with benchmarking utilities for performance evaluation.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: FudanDNN-NLP
-- Stars: 347
+- Stars: 348
 - Forks: 21
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-02T18:18:04Z
+- Last Updated: 2026-07-26T08:08:37Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-06-29T13:07:50Z

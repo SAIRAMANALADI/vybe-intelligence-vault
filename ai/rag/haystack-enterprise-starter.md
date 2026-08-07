@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.deepset.ai/products-and-services/haystack-enterprise
-published_at: '2026-07-21T09:22:11.460798+05:30'
-collected_at: '2026-07-21T09:22:11.460807+05:30'
+published_at: '2026-08-05T04:05:44.236329+05:30'
+collected_at: '2026-08-05T04:05:44.236342+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:haystack-enterprise-starter
-first_seen: '2026-07-21T09:22:11.460807+05:30'
-last_seen: '2026-07-21T09:22:11.460807+05:30'
-last_checked: '2026-07-21T09:22:11.460807+05:30'
+first_seen: '2026-08-05T04:05:44.236342+05:30'
+last_seen: '2026-08-05T04:05:44.236342+05:30'
+last_checked: '2026-08-05T04:05:44.236342+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Enterprise Support & Engineering Access**: Provides up to 4 hours of remote technical consultation, direct email support from core engineers, priority updates, extended version support (6 months), and early access to select features before public release.
+- **Enterprise Support & Engineering Access**: Provides up to 4 hours of remote technical consultation, direct email support from core engineers, priority updates, 6-month extended version support, and early access to select features before public release.
 
-- **Pipeline Best Practices**: Offers proprietary, production-tested building blocks curated by the engineering team, designed for extensibility and evaluation, supporting use cases such as RAG, agents, and visual data.
+- **Pipeline Best Practices**: Offers proprietary, production-tested building blocks curated by the engineering team, designed for extensibility and evaluation, supporting use cases like RAG, agents, and visual data processing.
 
-- **Deployment Best Practices**: Provides production-tested resources for secure setup, autoscaling, and enterprise deployment across cloud (AWS, Azure, GCP) and on-premises environments, reducing trial-and-error and accelerating time-to-market.
+- **Deployment Best Practices**: Provides production-tested resources for secure setup across AWS, Azure, GCP, or on-prem environments, enabling autoscaling and simplified enterprise deployment with reduced trial-and-error.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:22:11.460798+05:30
+- Published: 2026-08-05T04:05:44.236329+05:30
 
 ## Related Tags
 

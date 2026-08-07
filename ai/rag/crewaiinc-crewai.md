@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI
-collected_at: '2026-07-21T22:17:22.591370+05:30'
-published_at: '2026-07-21T16:36:50Z'
+collected_at: '2026-08-07T05:53:11.766733+05:30'
+published_at: '2026-08-06T22:48:01Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 55902
+stars: 56705
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-10-27T03:26:59Z'
-pushed_at: '2026-07-21T11:37:10Z'
+pushed_at: '2026-08-06T22:01:45Z'
 resource_id: github:crewaiinc/crewai
-first_seen: '2026-07-21T22:17:22.591370+05:30'
-last_seen: '2026-07-21T22:17:22.591370+05:30'
-last_checked: '2026-07-21T22:17:22.591370+05:30'
+first_seen: '2026-08-07T05:53:11.766733+05:30'
+last_seen: '2026-08-07T05:53:11.766733+05:30'
+last_checked: '2026-08-07T05:53:11.766733+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Orchestration Framework**: CrewAI enables role-playing, autonomous AI agents to collaborate via structured task delegation and role-based workflows, optimizing multi-agent task execution.
+- **Role-based AI Agent Orchestration**: Framework enabling autonomous AI agents to collaborate via role-playing, leveraging structured task delegation for complex problem-solving.
 
-- **Python-Based Architecture**: Built in Python, leveraging modular design for extensibility, with support for integrating large language models (LLMs) and custom agent roles.
+- **Python-based Multi-Agent System**: Implements a lightweight, extensible architecture for coordinating multiple AI agents with shared objectives, optimized for LLM integration.
 
-- **Scalable Collaboration**: Supports parallel and sequential task execution, with real-time synchronization, ensuring efficient handling of complex, multi-step workflows.
+- **Open-source Collaboration Toolkit**: Provides APIs, task queues, and memory management for scalable agent interactions, with active community contributions (56.7K+ stars, 8K+ forks).
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 55902
-- Forks: 7898
+- Stars: 56705
+- Forks: 8085
 - Language: Python
 - Topics: agents, ai, ai-agents, aiagentframework, llms
-- Last Updated: 2026-07-21T16:36:50Z
+- Last Updated: 2026-08-06T22:48:01Z
 - License: MIT
 - Archived: No
 - Created At: 2023-10-27T03:26:59Z
-- Pushed At: 2026-07-21T11:37:10Z
+- Pushed At: 2026-08-06T22:01:45Z
 
 ## Possible Use Cases
 

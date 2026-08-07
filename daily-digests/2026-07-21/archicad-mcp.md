@@ -1,13 +1,33 @@
 ---
-title: "Boti-Ormandi/archicad-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Tapir JSON API", "Asyncio", "ruff", "mypy", "pytest", "Pydantic", "rapidfuzz"]
+title: Boti-Ormandi/archicad-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Tapir JSON API
+- Asyncio
+- ruff
+- mypy
+- pytest
+- Pydantic
+- rapidfuzz
 quality_score: 9
 rag_relevance: 7
-tags: ["Archicad automation", "MCP server", "Python scripting", "Tapir API", "AI integration"]
-source: "https://github.com/Boti-Ormandi/archicad-mcp"
-discovered_at: "2026-07-20T21:10:59Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Archicad automation
+- MCP server
+- Python scripting
+- Tapir API
+- AI integration
+source: https://github.com/Boti-Ormandi/archicad-mcp
+stars: 0
+language: Python
+last_updated: '2026-07-20T21:07:25Z'
+discovered_at: '2026-07-20T21:10:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

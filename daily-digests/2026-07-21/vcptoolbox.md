@@ -1,13 +1,35 @@
 ---
-title: "lioensky/VCPToolBox"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Python", "Rust", "Node.js", "SQLite", "USearch", "Vue.js", "Docker", "SSE (Server-Sent Events)", "TVS (Template Variable System)", "Semantic Dynamics Engine"]
+title: lioensky/VCPToolBox
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Python
+- Rust
+- Node.js
+- SQLite
+- USearch
+- Vue.js
+- Docker
+- SSE (Server-Sent Events)
+- TVS (Template Variable System)
+- Semantic Dynamics Engine
 quality_score: 9
 rag_relevance: 8
-tags: ["AGI OS", "Persistent Memory", "Distributed Agents", "Semantic Reasoning", "Tool Orchestration"]
-source: "https://github.com/lioensky/VCPToolBox"
-discovered_at: "2026-07-12T20:42:50Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: High
+tags:
+- AGI OS
+- Persistent Memory
+- Distributed Agents
+- Semantic Reasoning
+- Tool Orchestration
+source: https://github.com/lioensky/VCPToolBox
+stars: 2187
+language: JavaScript
+last_updated: '2026-07-12T20:30:14Z'
+discovered_at: '2026-07-12T20:42:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

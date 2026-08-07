@@ -1,13 +1,30 @@
 ---
-title: "wende/mobileclaw"
-category: "UI Component"
-tech_stack: ["Next.js 16", "TypeScript", "Tailwind CSS v4", "ESLint 9", "WebSockets", "React"]
+title: wende/mobileclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Next.js 16
+- TypeScript
+- Tailwind CSS v4
+- ESLint 9
+- WebSockets
+- React
 quality_score: 9
 rag_relevance: 7
-tags: ["chat UI", "local LLMs", "mobile-first", "streaming", "tool calls"]
-source: "https://github.com/wende/mobileclaw"
-discovered_at: "2026-07-12T11:58:10Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- chat UI
+- local LLMs
+- mobile-first
+- streaming
+- tool calls
+source: https://github.com/wende/mobileclaw
+stars: 21
+language: TypeScript
+last_updated: '2026-07-12T11:56:37Z'
+discovered_at: '2026-07-12T11:58:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

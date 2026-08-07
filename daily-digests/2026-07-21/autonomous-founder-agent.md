@@ -1,13 +1,31 @@
 ---
-title: "vadim-koenen/autonomous-founder-agent"
-category: "Orchestrator"
-tech_stack: ["Python", "GitHub Actions", "GitHub Models", "Stripe API", "JSON", "GitHub Pages", "OpenAI API"]
+title: vadim-koenen/autonomous-founder-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- GitHub Actions
+- GitHub Models
+- Stripe API
+- JSON
+- GitHub Pages
+- OpenAI API
 quality_score: 7
 rag_relevance: 6
-tags: ["autonomous agents", "revenue operator", "MCP preflight", "model-assisted discovery", "continuous scanning"]
-source: "https://github.com/vadim-koenen/autonomous-founder-agent"
-discovered_at: "2026-07-18T08:09:22Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- revenue operator
+- MCP preflight
+- model-assisted discovery
+- continuous scanning
+source: https://github.com/vadim-koenen/autonomous-founder-agent
+stars: 0
+language: Python
+last_updated: '2026-07-18T08:08:03Z'
+discovered_at: '2026-07-18T08:09:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

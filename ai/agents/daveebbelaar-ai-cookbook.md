@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveebbelaar/ai-cookbook
-collected_at: '2026-07-21T22:15:12.544823+05:30'
-published_at: '2026-07-20T17:37:32Z'
+collected_at: '2026-08-07T05:51:01.703514+05:30'
+published_at: '2026-08-06T14:03:03Z'
 tags:
 - agents
 - anthropic
@@ -14,7 +14,7 @@ tags:
 - openai
 - python
 - reddit
-stars: 4312
+stars: 4359
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-01-30T15:14:29Z'
 pushed_at: '2026-07-09T07:55:18Z'
 resource_id: github:daveebbelaar/ai-cookbook
-first_seen: '2026-07-21T22:15:12.544823+05:30'
-last_seen: '2026-07-21T22:15:12.544823+05:30'
-last_checked: '2026-07-21T22:15:12.544823+05:30'
+first_seen: '2026-08-07T05:51:01.703514+05:30'
+last_seen: '2026-08-07T05:51:01.703514+05:30'
+last_checked: '2026-08-07T05:51:01.703514+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based AI cookbook providing practical examples and tutorials for building AI systems, covering topics like agents, LLMs, and integration with services such as OpenAI and Anthropic.
-
-- **Technical Scope**: Includes implementations for AI system development, with 4,312 stars and 1,526 forks, indicating strong community adoption and collaborative contributions.
-
-- **Last Updated**: Repository was last updated on **July 20, 2026**, ensuring recent and relevant content for developers.
+- **Repository Overview**: GitHub repository (`daveebbelaar/ai-cookbook`) containing Python-based examples and tutorials for building AI systems, with 4,359 stars and 1,542 forks.
+- **Technical Focus**: Covers AI agents, large language models (LLMs), and integrations with OpenAI and Anthropic APIs.
+- **Last Updated**: Repository last updated on **August 6, 2026**, ensuring recent content relevance.
 
 ## Why It Matters
 
@@ -45,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: daveebbelaar
-- Stars: 4312
-- Forks: 1526
+- Stars: 4359
+- Forks: 1542
 - Language: Python
 - Topics: agents, ai, anthropic, llm, openai, python
-- Last Updated: 2026-07-20T17:37:32Z
+- Last Updated: 2026-08-06T14:03:03Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-30T15:14:29Z

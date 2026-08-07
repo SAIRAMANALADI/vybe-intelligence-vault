@@ -1,13 +1,31 @@
 ---
-title: "yaozoo/orbit"
-category: "Orchestrator"
-tech_stack: ["OpenSpec", "Superpowers", "YAML", "Agent Skills", "Git", "TDD", "State Machines"]
+title: yaozoo/orbit
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- OpenSpec
+- Superpowers
+- YAML
+- Agent Skills
+- Git
+- TDD
+- State Machines
 quality_score: 9
 rag_relevance: 9
-tags: ["workflow automation", "AI coding pipeline", "specification-driven development", "agent orchestration", "breakpoint recovery"]
-source: "https://github.com/yaozoo/orbit"
-discovered_at: "2026-07-21T07:32:10Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- workflow automation
+- AI coding pipeline
+- specification-driven development
+- agent orchestration
+- breakpoint recovery
+source: https://github.com/yaozoo/orbit
+stars: 1
+language: None
+last_updated: '2026-07-21T07:27:10Z'
+discovered_at: '2026-07-21T07:32:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

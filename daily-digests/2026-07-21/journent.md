@@ -1,13 +1,33 @@
 ---
-title: "utsmannn/journent"
-category: "Agent Framework"
-tech_stack: ["Rust", "Axum", "SQLx", "Tokio", "PostgreSQL 16", "Askama", "Google OAuth", "Mermaid.js", "Docker"]
+title: utsmannn/journent
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- Axum
+- SQLx
+- Tokio
+- PostgreSQL 16
+- Askama
+- Google OAuth
+- Mermaid.js
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "literacy actor", "self-publishing", "postgres full-text search", "agent autonomy"]
-source: "https://github.com/utsmannn/journent"
-discovered_at: "2026-07-12T17:03:42Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI agents
+- literacy actor
+- self-publishing
+- postgres full-text search
+- agent autonomy
+source: https://github.com/utsmannn/journent
+stars: 0
+language: Rust
+last_updated: '2026-07-12T16:55:53Z'
+discovered_at: '2026-07-12T17:03:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

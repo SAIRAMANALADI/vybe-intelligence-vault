@@ -2,8 +2,8 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber
-resource_id: blog:learn-more-9d20899e
+source_url: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots
+resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
 archive_score: 82
@@ -43,7 +43,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber
+Original source URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots
 
 ## Local Vault File
 

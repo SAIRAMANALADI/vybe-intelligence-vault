@@ -1,13 +1,30 @@
 ---
-title: "vesperchinn/learn-anything-skill"
-category: "Agent Framework"
-tech_stack: ["Python", "Markdown", "YAML", "Shell Scripting", "Agent Frameworks (Codex, Claude Code, Trae, Coze, WorkBuddy, CodeBuddy)", "Multilingual Localization (en-US, zh-CN)"]
+title: vesperchinn/learn-anything-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Markdown
+- YAML
+- Shell Scripting
+- Agent Frameworks (Codex, Claude Code, Trae, Coze, WorkBuddy, CodeBuddy)
+- Multilingual Localization (en-US, zh-CN)
 quality_score: 9
 rag_relevance: 8
-tags: ["Learning Coaching", "Structured Learning", "Multilingual", "Agent Skills", "Interactive Education"]
-source: "https://github.com/vesperchinn/learn-anything-skill"
-discovered_at: "2026-07-21T04:14:56Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Learning Coaching
+- Structured Learning
+- Multilingual
+- Agent Skills
+- Interactive Education
+source: https://github.com/vesperchinn/learn-anything-skill
+stars: 0
+language: Python
+last_updated: '2026-07-21T04:04:32Z'
+discovered_at: '2026-07-21T04:14:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline
-published_at: '2026-07-08T14:27:22.205665+05:30'
-collected_at: '2026-07-08T14:27:22.205681+05:30'
+published_at: '2026-08-03T20:58:43.800647+05:30'
+collected_at: '2026-08-03T20:58:43.800659+05:30'
 tags:
 - anthropic
 - dataset
@@ -15,11 +15,12 @@ tags:
 - openai
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:creating-your-first-qa-pipeline-with-retrieval-aug
-first_seen: '2026-07-08T14:27:22.205681+05:30'
-last_seen: '2026-07-08T14:27:22.205681+05:30'
-last_checked: '2026-07-08T14:27:22.205681+05:30'
+first_seen: '2026-08-03T20:58:43.800659+05:30'
+last_seen: '2026-08-03T20:58:43.800659+05:30'
+last_checked: '2026-08-03T20:58:43.800659+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Document Embedding & Storage**: Uses `SentenceTransformersDocumentEmbedder` (e.g., `all-MiniLM-L6-v2`) to generate embeddings for documents, stored in an `InMemoryDocumentStore` via `write_documents()`.
+- **Pipeline Components**: Uses `InMemoryDocumentStore` with `SentenceTransformersDocumentEmbedder` for document embeddings, `SentenceTransformersTextEmbedder` for query embeddings, `InMemoryEmbeddingRetriever` for document retrieval, `ChatPromptBuilder` for prompt templating, and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator`, or `TransformersChatGenerator`) for LLM-based answer generation.
 
-- **RAG Pipeline Components**: Constructs a pipeline with `SentenceTransformersTextEmbedder` (query embedding), `InMemoryEmbeddingRetriever` (document retrieval), `ChatPromptBuilder` (template-based prompt generation), and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator`, or local `TransformersChatGenerator`).
+- **RAG Workflow**: Implements retrieval-augmented generation (RAG) by embedding user queries, retrieving relevant documents via semantic similarity, constructing a prompt with retrieved context, and generating answers using an LLM (cloud-hosted or local).
 
-- **Execution Flow**: Connects components via `Pipeline` with explicit edges (`text_embedder → retriever → prompt_builder → llm`), where the query embedding and user question are passed to the retriever and prompt builder, respectively, for answer generation.
+- **Execution**: Pipeline execution involves embedding the query (`text_embedder`), retrieving documents (`retriever`), formatting the prompt (`prompt_builder`), and generating the answer (`llm`), with explicit component connections (`text_embedder.embedding → retriever.query_embedding`, `retriever → prompt_builder`, `prompt_builder.prompt → llm.messages`).
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T14:27:22.205665+05:30
+- Published: 2026-08-03T20:58:43.800647+05:30
 
 ## Related Tags
 
@@ -53,6 +54,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
+- workflows
 
 ## Source
 

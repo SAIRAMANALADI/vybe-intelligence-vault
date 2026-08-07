@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://langfuse.com
-published_at: '2026-07-21T20:00:20.217663+05:30'
-collected_at: '2026-07-21T20:00:20.217673+05:30'
+published_at: '2026-08-03T03:51:43.257908+05:30'
+collected_at: '2026-08-03T03:51:43.257916+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langfuse
-first_seen: '2026-07-21T20:00:20.217673+05:30'
-last_seen: '2026-07-21T20:00:20.217673+05:30'
-last_checked: '2026-07-21T20:00:20.217673+05:30'
+first_seen: '2026-08-03T03:51:43.257916+05:30'
+last_seen: '2026-08-03T03:51:43.257916+05:30'
+last_checked: '2026-08-03T03:51:43.257916+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Adoption & Scale**: Langfuse is used by **19** of the Fortune 500, processes **10+ billion observations/month**, and supports **100,000+ engineers** building AI agents.
+- **Adoption & Scale**: Deployed by **21 of the Fortune 50**, processing **10+ billion observations/month** with **100,000+ engineers** leveraging the platform for AI agent observability and evaluation.
 
-- **Core Capabilities**: Provides end-to-end **LLM agent observability** with hierarchical tracing, prompt management, LLM-as-a-judge evaluation, experiments, and human-in-the-loop annotation workflows.
+- **Unified AI Engineering Loop**: Integrates **tracing, monitoring, prompt management, experiments, and human feedback** into a single platform, enabling continuous improvement of AI agents via production data analysis and iterative testing.
 
-- **Multi-Framework & Provider Support**: Compatible with **100+ integrations** (e.g., LangChain, Vercel AI SDK, OpenAI, Anthropic) and **OTel-based instrumentation** across Python, TypeScript, Go, Java, and .NET.
+- **Multi-Stack Compatibility**: Supports **OpenTelemetry (OTel) instrumentation** across languages (Python, TypeScript, Go, Java, .NET, Ruby, PHP, Swift) and integrates with **100+ frameworks** (LangChain, Vercel AI SDK, LiteLLM) and **model providers** (OpenAI, Anthropic, Mistral AI, Google Gemini).
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T20:00:20.217663+05:30
+- Published: 2026-08-03T03:51:43.257908+05:30
 
 ## Related Tags
 

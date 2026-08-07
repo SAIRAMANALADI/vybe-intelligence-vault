@@ -1,13 +1,29 @@
 ---
-title: "Wolfe-Jam/claude-faf-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "YAML", "Node.js", "Bun"]
+title: Wolfe-Jam/claude-faf-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- YAML
+- Node.js
+- Bun
 quality_score: 10
 rag_relevance: 9
-tags: ["context management", "MCP server", "project memory", "AI agent tooling", "persistent context"]
-source: "https://github.com/Wolfe-Jam/claude-faf-mcp"
-discovered_at: "2026-07-21T04:15:07Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- context management
+- MCP server
+- project memory
+- AI agent tooling
+- persistent context
+source: https://github.com/Wolfe-Jam/claude-faf-mcp
+stars: 19
+language: TypeScript
+last_updated: '2026-07-21T04:11:27Z'
+discovered_at: '2026-07-21T04:15:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

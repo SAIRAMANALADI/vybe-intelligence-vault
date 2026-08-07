@@ -1,13 +1,34 @@
 ---
-title: "aditya8975/ai-agent"
-category: "Agent Framework"
-tech_stack: ["Next.js", "FastAPI", "LangGraph", "Groq API", "Supabase", "Python", "TypeScript", "Tailwind CSS", "Render", "Vercel"]
+title: aditya8975/ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Next.js
+- FastAPI
+- LangGraph
+- Groq API
+- Supabase
+- Python
+- TypeScript
+- Tailwind CSS
+- Render
+- Vercel
 quality_score: 8
 rag_relevance: 7
-tags: ["multi-tool agents", "task automation", "LangGraph", "RAG integration", "deployment-ready"]
-source: "https://github.com/aditya8975/ai-agent"
-discovered_at: "2026-07-15T08:05:50Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- multi-tool agents
+- task automation
+- LangGraph
+- RAG integration
+- deployment-ready
+source: https://github.com/aditya8975/ai-agent
+stars: 0
+language: Python
+last_updated: '2026-07-15T08:03:39Z'
+discovered_at: '2026-07-15T08:05:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

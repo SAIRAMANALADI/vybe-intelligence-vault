@@ -4,25 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jpanther/congo
-collected_at: '2026-07-19T19:30:48.138510+05:30'
-published_at: '2026-07-19T03:48:54Z'
+collected_at: '2026-08-03T20:52:11.980470+05:30'
+published_at: '2026-07-29T05:12:34Z'
 tags:
 - frontend_ui
 - github-repo
+- hackernews
 - html
 - rag
 - reddit
-stars: 1644
+stars: 1645
 language: HTML
 status: active
 license: MIT
 archived: false
 created_at: '2021-08-11T05:29:45Z'
-pushed_at: '2026-07-18T23:02:18Z'
+pushed_at: '2026-08-01T23:02:25Z'
 resource_id: github:jpanther/congo
-first_seen: '2026-07-19T19:30:48.138510+05:30'
-last_seen: '2026-07-19T19:30:48.138510+05:30'
-last_checked: '2026-07-19T19:30:48.138510+05:30'
+first_seen: '2026-08-03T20:52:11.980470+05:30'
+last_seen: '2026-08-03T20:52:11.980470+05:30'
+last_checked: '2026-08-03T20:52:11.980470+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Hugo Theme with Tailwind CSS**: Lightweight, responsive theme for Hugo, leveraging Tailwind CSS for styling and utility-first design principles.
-- **Accessibility & Dark Mode**: Built-in support for accessibility standards and dynamic dark/light mode switching via Tailwind’s dark variant.
-- **Emoji & Metadata Support**: Includes emoji rendering, structured metadata handling, and optimized performance for Hugo static site generation.
+- **Hugo Theme**: Lightweight, responsive theme for Hugo built with Tailwind CSS, supporting dark mode and accessibility features.
+- **Key Features**: Emoji support, mobile-first design, and optimized for performance with minimal overhead.
+- **Technical Stack**: HTML-based, leveraging Tailwind CSS for styling and Hugo’s templating system for dynamic content generation.
 
 ## Why It Matters
 
@@ -41,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jpanther
-- Stars: 1644
-- Forks: 416
+- Stars: 1645
+- Forks: 415
 - Language: HTML
 - Topics: accessible, dark-mode, emoji, hugo, hugo-theme, responsive, tailwindcss, theme
-- Last Updated: 2026-07-19T03:48:54Z
+- Last Updated: 2026-07-29T05:12:34Z
 - License: MIT
 - Archived: No
 - Created At: 2021-08-11T05:29:45Z
-- Pushed At: 2026-07-18T23:02:18Z
+- Pushed At: 2026-08-01T23:02:25Z
 
 ## Possible Use Cases
 

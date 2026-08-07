@@ -1,13 +1,29 @@
 ---
-title: "sprawl-software/sprawl-cli"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Git", "pipx", "Standard Library (Zero Dependencies)"]
+title: sprawl-software/sprawl-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Git
+- pipx
+- Standard Library (Zero Dependencies)
 quality_score: 8
 rag_relevance: 7
-tags: ["AI agent containment", "workspace governance", "filesystem sandboxing", "IDE binding", "GitOps"]
-source: "https://github.com/sprawl-software/sprawl-cli"
-discovered_at: "2026-07-15T16:21:22Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI agent containment
+- workspace governance
+- filesystem sandboxing
+- IDE binding
+- GitOps
+source: https://github.com/sprawl-software/sprawl-cli
+stars: 1
+language: Python
+last_updated: '2026-07-15T16:04:34Z'
+discovered_at: '2026-07-15T16:21:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

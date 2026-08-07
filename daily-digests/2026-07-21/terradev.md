@@ -1,13 +1,42 @@
 ---
-title: "theoddden/Terradev"
-category: "Orchestrator"
-tech_stack: ["Python", "Rust", "FastAPI", "SQLite", "PostgreSQL", "Docker", "Kubernetes", "vLLM", "LoRAX", "PEFT", "CUDA", "NVIDIA GPUDirect RDMA", "NCCL", "Prometheus", "Weights & Biases (W&B)", "Phoenix", "OpenAI API", "Anthropic API"]
+title: theoddden/Terradev
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Rust
+- FastAPI
+- SQLite
+- PostgreSQL
+- Docker
+- Kubernetes
+- vLLM
+- LoRAX
+- PEFT
+- CUDA
+- NVIDIA GPUDirect RDMA
+- NCCL
+- Prometheus
+- Weights & Biases (W&B)
+- Phoenix
+- OpenAI API
+- Anthropic API
 quality_score: 9
 rag_relevance: 10
-tags: ["AI workload orchestration", "multi-cloud GPU provisioning", "inference serving", "cost optimization", "topology-aware execution"]
-source: "https://github.com/theoddden/Terradev"
-discovered_at: "2026-07-12T02:33:00Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: High
+tags:
+- AI workload orchestration
+- multi-cloud GPU provisioning
+- inference serving
+- cost optimization
+- topology-aware execution
+source: https://github.com/theoddden/Terradev
+stars: 21
+language: Python
+last_updated: '2026-07-12T02:26:58Z'
+discovered_at: '2026-07-12T02:33:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

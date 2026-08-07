@@ -8,25 +8,24 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 ## Top Matched Resources
 
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
-- [Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator](https://arxiv.org/abs/2606.15512) (framework - USEFUL Tier)
-- [HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS](https://arxiv.org/abs/2607.11746) (framework - USEFUL Tier)
-- [FlashTrie: A GPU-Accelerated Constrained Beam Search for Generative Retrieval](https://arxiv.org/abs/2607.10044) (framework - USEFUL Tier)
-- [Photonic convolutional neural network with pre-trained in situ training](https://arxiv.org/abs/2604.02429) (dataset - USEFUL Tier)
-- [Mitigating Heterogeneity-Induced Drift in Hierarchical Sign-Based Federated Learning](https://arxiv.org/abs/2602.02355) (framework - USEFUL Tier)
-- [TIP-Search: Time-Predictable Inference Scheduling for Market Prediction under Uncertain Load](https://arxiv.org/abs/2506.08026) (framework - USEFUL Tier)
+- [RAPiD: Reward-Guided Consistency Distillation of Diffusion Planners for Real-Time Autonomous Driving](https://arxiv.org/abs/2602.07339) (framework - USEFUL Tier)
+- [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
+- [AssemblyAI | AI models to transcribe and understand speech](https://assemblyai.com) (framework - USEFUL Tier)
+- [Beyond Generalist LLMs: Specialist Agentic Systems for Structured Code Workflow Execution](https://arxiv.org/abs/2607.14456) (framework - USEFUL Tier)
+- [Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
-- [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse?utm_source=clickhouse&utm_medium=website&utm_campaign=website-nav)
 
 ## Best Learning Resources
 
@@ -44,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-07-21 22:30 IST*
+*Last updated: 2026-08-07 09:08 IST*

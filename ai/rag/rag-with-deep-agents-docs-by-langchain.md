@@ -1,11 +1,11 @@
 ---
-title: RAG with Deep Agents - Docs by LangChain
+title: Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.langchain.com/oss/python/deepagents/rag
-published_at: '2026-07-21T19:52:43.625529+05:30'
-collected_at: '2026-07-21T19:52:43.625540+05:30'
+source_url: https://python.langchain.com/docs/use_cases/question_answering/
+published_at: '2026-08-06T20:13:04.197887+05:30'
+collected_at: '2026-08-06T20:13:04.197896+05:30'
 tags:
 - agents
 - anthropic
@@ -20,22 +20,22 @@ tags:
 - web-crawled
 - workflows
 status: active
-resource_id: blog:rag-with-deep-agents-docs-by-langchain
-first_seen: '2026-07-21T19:52:43.625540+05:30'
-last_seen: '2026-07-21T19:52:43.625540+05:30'
-last_checked: '2026-07-21T19:52:43.625540+05:30'
+resource_id: blog:retrieval-augmented-generation-rag-with-deep-agent
+first_seen: '2026-08-06T20:13:04.197896+05:30'
+last_seen: '2026-08-06T20:13:04.197896+05:30'
+last_checked: '2026-08-06T20:13:04.197896+05:30'
 health_score: 100
 ---
 
-# RAG with Deep Agents - Docs by LangChain
+# Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain
 
 ## Summary
 
-- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve/offload/delegate workflows using custom retrieval tools, subagents, skills, and grading rubrics for corpus-specific Q&A augmentation.
+- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows; leverages custom retrieval tools, filesystem backends, subagents, skills, and grading rubrics for flexible RAG implementations.
 
-- **Indexing Pipeline**: Loads documents into `Document` objects, splits them into chunks (e.g., via `langchain-text-splitters`), embeds chunks using models (e.g., OpenAI embeddings), and stores them in a `VectorStore` for semantic similarity-based retrieval.
+- **Indexing Workflow**: Converts raw documents into retrievable chunks via loading, splitting, embedding (using models like OpenAI's), and storing in a VectorStore for efficient semantic search and retrieval.
 
-- **Agent Architecture**: Orchestrates retrieval (vector search), offloads chunks to filesystem backend, delegates analysis to subagents for parallel processing, and synthesizes final answer with citations, while LangSmith logs traces for observability.
+- **Agent Architecture**: Main agent orchestrates retrieval (vector search), offloads chunks to filesystem, delegates analysis to subagents for parallel processing, and synthesizes final answer with citations from retrieved evidence.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T19:52:43.625529+05:30
+- Published: 2026-08-06T20:13:04.197887+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.langchain.com/oss/python/deepagents/rag
+Original source: https://python.langchain.com/docs/use_cases/question_answering/

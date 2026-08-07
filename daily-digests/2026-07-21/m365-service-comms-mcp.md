@@ -1,13 +1,31 @@
 ---
-title: "trobichaux/m365-service-comms-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Microsoft Graph API", "Azure Identity", "MSAL", "HTTPX", "uvx"]
+title: trobichaux/m365-service-comms-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Microsoft Graph API
+- Azure Identity
+- MSAL
+- HTTPX
+- uvx
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP server", "Microsoft 365", "Service Communications API", "delegated authentication", "AI agent integration"]
-source: "https://github.com/trobichaux/m365-service-comms-mcp"
-discovered_at: "2026-07-15T21:59:10Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- MCP server
+- Microsoft 365
+- Service Communications API
+- delegated authentication
+- AI agent integration
+source: https://github.com/trobichaux/m365-service-comms-mcp
+stars: 0
+language: Python
+last_updated: '2026-07-15T21:50:47Z'
+discovered_at: '2026-07-15T21:59:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

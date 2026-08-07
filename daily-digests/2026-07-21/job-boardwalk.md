@@ -1,13 +1,33 @@
 ---
-title: "iplaylf2/job-boardwalk"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Docker", "Docker Compose", "Patchright (Chromium)", "HTTP MCP (Model Context Protocol)", "pnpm", "React", "Markdown"]
+title: iplaylf2/job-boardwalk
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- Docker Compose
+- Patchright (Chromium)
+- HTTP MCP (Model Context Protocol)
+- pnpm
+- React
+- Markdown
 quality_score: 7
 rag_relevance: 8
-tags: ["job search", "agent automation", "recruiting platforms", "browser automation", "persistent workspace"]
-source: "https://github.com/iplaylf2/job-boardwalk"
-discovered_at: "2026-07-21T15:03:27Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- job search
+- agent automation
+- recruiting platforms
+- browser automation
+- persistent workspace
+source: https://github.com/iplaylf2/job-boardwalk
+stars: 0
+language: TypeScript
+last_updated: '2026-07-21T15:00:25Z'
+discovered_at: '2026-07-21T15:03:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

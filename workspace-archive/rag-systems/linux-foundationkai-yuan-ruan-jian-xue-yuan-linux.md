@@ -2,7 +2,7 @@
 title: Linux Foundation开源软件学园-Linux_云技术_Kubernetes专业考试认证_K8s_CKA_CKS
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://training.linuxfoundation.cn
+source_url: https://training.linuxfoundation.cn/
 resource_id: blog:linux-foundationkai-yuan-ruan-jian-xue-yuan-linux
 local_vault_path: ai/rag/linux-foundationkai-yuan-ruan-jian-xue-yuan-linux.md
 quality_score: 70
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **官方认证与课程**：Linux Foundation开源软件学园提供官方认证考试（如CKA-CN、CKS-CN、CKAD-CN）及配套本土化服务，涵盖Kubernetes、云原生、区块链、AI等技术领域。
+- **官方认证与课程体系**: 提供Linux基金会所有官方认证考试（如CKA-CN、CKS-CN、CKAD-CN、KCNA-CN等）及配套本土化服务，涵盖云原生、系统管理、区块链、AI等技术领域。
 
-- **合作伙伴生态**：与东方瑞通、老段工作室、51CTO等机构合作，提供CKA/CKAD/CKS等培训课程，并通过Linux Foundation旗下CNCF、Hyperledger等项目提供技术支持。
+- **技术生态与合作伙伴**: 与CNCF、Hyperledger、RISC-V等顶级开源基金会合作，并授权官方合作伙伴（如东方瑞通、老段工作室）提供培训服务，确保认证与培训质量。
 
-- **平台功能**：支持证书查询、在线课程、活动报名（如LFOSSA 2026开源人才狂欢节），并提供官方导师、奖学金计划及多语言客服（微信公众号/小程序）。
+- **人才激励与产业需求**: 发布LFOSSA人才激励计划及AI企业云原生人才调研报告，为中国开发者提供专业开源技能培养与就业导向。
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://training.linuxfoundation.cn
+Original source URL: https://training.linuxfoundation.cn/
 
 ## Local Vault File
 

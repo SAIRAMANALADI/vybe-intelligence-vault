@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dev.to/gautamvhavle/building-production-rag-systems-from-zero-to-hero-2f1i
-published_at: '2026-06-24T22:50:13.766619+05:30'
-collected_at: '2026-06-24T22:50:13.766633+05:30'
+published_at: '2026-08-07T08:50:24.689834+05:30'
+collected_at: '2026-08-07T08:50:24.689846+05:30'
 tags:
 - agents
 - anthropic
@@ -25,9 +25,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:building-rag-systems-from-zero-to-hero-dev-communi
-first_seen: '2026-06-24T22:50:13.766633+05:30'
-last_seen: '2026-06-24T22:50:13.766633+05:30'
-last_checked: '2026-06-24T22:50:13.766633+05:30'
+first_seen: '2026-08-07T08:50:24.689846+05:30'
+last_seen: '2026-08-07T08:50:24.689846+05:30'
+last_checked: '2026-08-07T08:50:24.689846+05:30'
 health_score: 100
 ---
 
@@ -35,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Three-phase pipeline—(1) **Ingestion**: documents chunked, embedded via models (e.g., `text-embedding-3-large`), and stored in vector DBs (FAISS/Weaviate); (2) **Retrieval**: user queries embedded and matched via semantic/vector similarity (cosine/L2) or hybrid BM25+dense search; (3) **Generation**: LLM (e.g., GPT-4) synthesizes answers from retrieved context, constrained by token limits (e.g., 8K-128K).
+- **RAG Architecture**: A three-phase pipeline—**ingestion** (document chunking, embedding, vector DB storage), **retrieval** (query embedding + vector DB search for top-K relevant chunks), and **generation** (LLM synthesizes answer from retrieved context to mitigate hallucinations and ensure factual grounding).
 
-- **Chunking Optimization**: Critical for performance—fixed-size (e.g., 512 tokens) with 15% overlap balances context retention and token efficiency; semantic chunking (e.g., LangChain’s `RecursiveCharacterTextSplitter`) preserves natural boundaries but requires metadata (e.g., section headers) for production systems.
+- **Embedding & Similarity**: Text converted to dense vectors via models like `text-embedding-3-large` (OpenAI) or `bge-large-en-v1.5` (BAAI); semantic similarity computed via cosine/L2 distance in vector space, enabling efficient retrieval of contextually relevant chunks despite synonyms or paraphrases.
 
-- **Retrieval Enhancements**: Hybrid search (dense + sparse BM25) improves precision; reranking (e.g., cross-encoder models) refines top-*k* results via cross-attention, boosting accuracy in production systems where initial retrieval may miss nuanced queries.
+- **Chunking Strategies**: Critical for performance—**fixed-size** (simple but may split mid-sentence), **semantic** (respects natural boundaries via LangChain’s `RecursiveCharacterTextSplitter`), and **hybrid** (combines structure with metadata); optimal overlap (e.g., 15–50 tokens) and chunk sizes (e.g., 512–768 tokens) balance context retention and token efficiency.
 
 ## Why It Matters
 
@@ -49,7 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:50:13.766619+05:30
+- Published: 2026-08-07T08:50:24.689834+05:30
 
 ## Related Tags
 

@@ -10,10 +10,10 @@ Streaming JSON rendering, message bubble styles, typing animations, layout state
 React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 
 ## Recommended Resources from the Vault
-*   [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
-*   [kartikk-k/dashboard-ui](https://github.com/kartikk-k/dashboard-ui)
-*   [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
-*   [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind)
+*   [Troubleshoot video removals - YouTube Help](https://support.google.com/youtube/answer/6395024)
+*   [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites)
+*   [Home | Cornell Research Services](https://researchservices.cornell.edu/)
+*   [Guide to Using RASS & PI Dashboard | Documentation & Training](https://guide.rass.cornell.edu/)
 *   [CORDIS | European Commission](https://cordis.europa.eu)
 
 ## Project Ideas

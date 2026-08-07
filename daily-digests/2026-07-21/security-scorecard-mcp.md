@@ -1,13 +1,29 @@
 ---
-title: "CallMarcus/security-scorecard-mcp"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "SecurityScorecard API", "npm"]
+title: CallMarcus/security-scorecard-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- SecurityScorecard API
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["MCP server", "security analysis", "API integration", "risk assessment", "asset discovery"]
-source: "https://github.com/CallMarcus/security-scorecard-mcp"
-discovered_at: "2026-07-17T21:52:36Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- MCP server
+- security analysis
+- API integration
+- risk assessment
+- asset discovery
+source: https://github.com/CallMarcus/security-scorecard-mcp
+stars: 0
+language: TypeScript
+last_updated: '2026-07-17T21:39:48Z'
+discovered_at: '2026-07-17T21:52:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

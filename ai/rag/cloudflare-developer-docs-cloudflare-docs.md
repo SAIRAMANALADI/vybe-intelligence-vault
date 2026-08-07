@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.cloudflare.com/
-published_at: '2026-06-25T23:04:30.060904+05:30'
-collected_at: '2026-06-25T23:04:30.060911+05:30'
+published_at: '2026-08-05T17:09:51.086775+05:30'
+collected_at: '2026-08-05T17:09:51.086790+05:30'
 tags:
 - agents
 - anthropic
@@ -15,12 +15,11 @@ tags:
 - reddit
 - web-crawled
 - workflows
-- youtube
 status: active
 resource_id: blog:cloudflare-developer-docs-cloudflare-docs
-first_seen: '2026-06-25T23:04:30.060911+05:30'
-last_seen: '2026-06-25T23:04:30.060911+05:30'
-last_checked: '2026-06-25T23:04:30.060911+05:30'
+first_seen: '2026-08-05T17:09:51.086790+05:30'
+last_seen: '2026-08-05T17:09:51.086790+05:30'
+last_checked: '2026-08-05T17:09:51.086790+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Serverless Compute & AI Integration**: Cloudflare enables deployment of serverless functions, full-stack apps, and AI inference globally via single commands (e.g., `npm create cloudflare@latest my-app`, `npx wrangler ai models`) with no GPU/region management, leveraging Workers, Containers, Durable Objects, Queues, Workers AI, AI Gateway, and Vectorize.
+- **Serverless Compute & Deployment**: Cloudflare enables one-command deployment of serverless functions and full-stack apps via `npm create cloudflare@latest my-app`, leveraging Workers, Containers, Durable Objects, Queues, and Flagship for global execution without cold starts or server management.
 
-- **Unified Data & Media Services**: Provides globally distributed SQL (D1), key-value (KV), object storage (R2), and media pipelines (Images/Stream) with direct Worker integration, supporting advanced SQL operations (window functions, DISTINCT, set ops) and real-time media processing via APIs.
+- **AI & Database Integration**: Provides serverless AI inference via `npx wrangler ai models`, supporting model execution, agents, and vector search, while D1 (SQL), R2 (object storage), KV (key-value), and Hyperdrive enable globally distributed, low-latency database operations with no connection management overhead.
 
-- **Security & Performance Stack**: Offers WAF, SSL/TLS, Turnstile, post-quantum tunnels (Cloudflare Tunnel), Access, and Gateway for security, alongside CDN, caching, image optimization, and Web Analytics for performance, with all features managed via API-driven, globally distributed infrastructure.
+- **Security & Performance Stack**: Integrates WAF, SSL/TLS, Turnstile, Tunnel, Access, and Gateway for identity-aware security, post-quantum encryption, and bot mitigation, while CDN, caching, image optimization, and Web Analytics ensure sub-50ms global content delivery and real-user performance monitoring.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:04:30.060904+05:30
+- Published: 2026-08-05T17:09:51.086775+05:30
 
 ## Related Tags
 
@@ -54,7 +53,6 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - web-crawled
 - workflows
-- youtube
 
 ## Source
 

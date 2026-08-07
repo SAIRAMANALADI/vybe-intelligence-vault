@@ -1,13 +1,30 @@
 ---
-title: "OTSkit/OTSkit-MCP"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Model Context Protocol (MCP)", "OpenTimestamps", "Bitcoin"]
+title: OTSkit/OTSkit-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Model Context Protocol (MCP)
+- OpenTimestamps
+- Bitcoin
 quality_score: 9
 rag_relevance: 7
-tags: ["timestamping", "Bitcoin", "MCP server", "proof verification", "AI agents"]
-source: "https://github.com/OTSkit/OTSkit-MCP"
-discovered_at: "2026-07-18T20:44:07Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- timestamping
+- Bitcoin
+- MCP server
+- proof verification
+- AI agents
+source: https://github.com/OTSkit/OTSkit-MCP
+stars: 1
+language: TypeScript
+last_updated: '2026-07-18T20:39:29Z'
+discovered_at: '2026-07-18T20:44:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

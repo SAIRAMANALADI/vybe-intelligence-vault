@@ -1,13 +1,28 @@
 ---
-title: "danifernandezs/brainstorming-agent"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenCode", "Markdown", "LLM APIs (Z.AI, Anthropic, etc.)"]
+title: danifernandezs/brainstorming-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- OpenCode
+- Markdown
+- LLM APIs (Z.AI, Anthropic, etc.)
 quality_score: 7
 rag_relevance: 6
-tags: ["brainstorming", "idea generation", "structured prompting", "agent-based workflow", "documentation"]
-source: "https://github.com/danifernandezs/brainstorming-agent"
-discovered_at: "2026-07-17T18:05:06Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- brainstorming
+- idea generation
+- structured prompting
+- agent-based workflow
+- documentation
+source: https://github.com/danifernandezs/brainstorming-agent
+stars: 0
+language: None
+last_updated: '2026-07-17T18:04:42Z'
+discovered_at: '2026-07-17T18:05:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

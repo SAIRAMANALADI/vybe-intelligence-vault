@@ -3,7 +3,7 @@ title: The Cloudflare Blog
 archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://blog.cloudflare.com
-resource_id: blog:the-cloudflare-blog
+resource_id: blog:the-cloudflare-blog-6210ce41
 local_vault_path: ai/agents/the-cloudflare-blog.md
 quality_score: 70
 archive_score: 70

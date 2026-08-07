@@ -1,13 +1,32 @@
 ---
-title: "bhargavmahanta/envGuard"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "GitHub Actions", "Docker", "Kubernetes", "CI/CD", "npm"]
+title: bhargavmahanta/envGuard
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- GitHub Actions
+- Docker
+- Kubernetes
+- CI/CD
+- npm
 quality_score: 9
 rag_relevance: 7
-tags: ["security linting", "environment variables", "CI/CD security", "Docker configuration", "runtime safety"]
-source: "https://github.com/bhargavmahanta/envGuard"
-discovered_at: "2026-07-18T21:49:58Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- security linting
+- environment variables
+- CI/CD security
+- Docker configuration
+- runtime safety
+source: https://github.com/bhargavmahanta/envGuard
+stars: 0
+language: TypeScript
+last_updated: '2026-07-18T21:43:58Z'
+discovered_at: '2026-07-18T21:49:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

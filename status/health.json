@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "timestamp": "2026-08-07T14:25:26.237466+05:30",
   "overall_status": "healthy",
   "warnings": [
@@ -17,4 +18,13 @@
     "dependencies_ok": true,
     "actions_workflow_ok": false
   }
+=======
+  "last_successful_run": "2026-08-07T13:48:35.575698+05:30",
+  "archive_status": "healthy",
+  "validation_status": "unhealthy",
+  "broken_links_count": 0,
+  "resources_scanned": 17508,
+  "resources_added": 1,
+  "resources_updated": 10
+>>>>>>> 20c010eb0eda4f4aadb08f3de2ffcf7ceeecd929
 }

@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- frontend_ui
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **JavaScript Requirement**: The application mandates JavaScript execution for full functionality, as indicated by the displayed message.
-- **Frontend Dependency**: The app relies on client-side JavaScript for rendering and interactivity, typical of modern SPAs (Single Page Applications).
-- **Browser Limitation**: Users with JavaScript disabled in their browsers will encounter a static placeholder instead of the dynamic application interface.
+- **JavaScript Requirement**: The application mandates JavaScript execution for full functionality.
+- **Browser Dependency**: Modern web applications rely on JavaScript for dynamic content rendering and interactivity.
+- **Fallback Limitation**: Without JavaScript, core features (e.g., React-based UI) may fail to load or operate.
 
 ## Use Cases
 

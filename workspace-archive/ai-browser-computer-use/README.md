@@ -9,24 +9,24 @@ Computer-use and browser agents transition AI from text engines to active workfl
 ## Top Matched Resources
 
 - [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
+- [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) (framework - ESSENTIAL Tier)
-- [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/) (framework - ESSENTIAL Tier)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) (tutorial - ESSENTIAL Tier)
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
-- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/microsoft/playwright (Playwright)
 https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [mongodb · GitHub](https://github.com/mongodb)
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
+- [OpenAI · GitHub](https://github.com/openai)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq)
-- [Google Cloud Platform · GitHub](https://github.com/googlecloudPlatform/)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-07-21 22:30 IST*
+*Last updated: 2026-08-07 09:08 IST*

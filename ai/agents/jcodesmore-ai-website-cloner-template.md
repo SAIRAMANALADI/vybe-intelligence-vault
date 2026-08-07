@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/JCodesMore/ai-website-cloner-template
-collected_at: '2026-07-21T22:15:17.480041+05:30'
-published_at: '2026-07-21T16:44:16Z'
+collected_at: '2026-08-07T05:51:06.600655+05:30'
+published_at: '2026-08-07T00:07:39Z'
 tags:
 - agents
 - anthropic
@@ -13,18 +13,17 @@ tags:
 - github-repo
 - scripts
 - typescript
-- workflows
-stars: 29393
+stars: 31118
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-03-13T11:14:39Z'
-pushed_at: '2026-07-04T06:49:18Z'
+pushed_at: '2026-07-30T01:58:00Z'
 resource_id: github:jcodesmore/ai-website-cloner-template
-first_seen: '2026-07-21T22:15:17.480041+05:30'
-last_seen: '2026-07-21T22:15:17.480041+05:30'
-last_checked: '2026-07-21T22:15:17.480041+05:30'
+first_seen: '2026-08-07T05:51:06.600655+05:30'
+last_seen: '2026-08-07T05:51:06.600655+05:30'
+last_checked: '2026-08-07T05:51:06.600655+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Website Cloning**: Utilizes AI coding agents (e.g., Claude Code) to automate website cloning via a single command, eliminating manual reverse-engineering steps.
-- **Tech Stack**: Built with Next.js, React, TypeScript, TailwindCSS, and shadcn-ui for modern UI components and scalable architecture.
-- **Automated Workflow**: Integrates web-scraping and AI agents to parse, replicate, and deploy website structures, including dynamic content and styling.
+- **AI-Powered Website Cloning**: Enables one-command website cloning using AI coding agents (e.g., Claude Code) to automate reverse-engineering and reproduction of web interfaces.
+
+- **Tech Stack**: Built with **TypeScript**, **Next.js**, **React**, **TailwindCSS**, and **shadcn/ui** for structured UI replication and styling consistency.
+
+- **Automation & Scraping**: Integrates **web-scraping** and **AI agent-based automation** to parse and reconstruct websites, with boilerplate support for rapid deployment.
 
 ## Why It Matters
 
@@ -43,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: JCodesMore
-- Stars: 29393
-- Forks: 4203
+- Stars: 31118
+- Forks: 4484
 - Language: TypeScript
 - Topics: ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone
-- Last Updated: 2026-07-21T16:44:16Z
+- Last Updated: 2026-08-07T00:07:39Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-13T11:14:39Z
-- Pushed At: 2026-07-04T06:49:18Z
+- Pushed At: 2026-07-30T01:58:00Z
 
 ## Possible Use Cases
 

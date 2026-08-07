@@ -1,13 +1,29 @@
 ---
-title: "qarnet/serial-mcp"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Serial/UART", "HTTP", "Nix"]
+title: qarnet/serial-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Serial/UART
+- HTTP
+- Nix
 quality_score: 9
 rag_relevance: 8
-tags: ["serial communication", "MCP server", "embedded development", "UART", "AI agent tools"]
-source: "https://github.com/qarnet/serial-mcp"
-discovered_at: "2026-07-19T13:17:40Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- serial communication
+- MCP server
+- embedded development
+- UART
+- AI agent tools
+source: https://github.com/qarnet/serial-mcp
+stars: 2
+language: Rust
+last_updated: '2026-07-19T13:06:30Z'
+discovered_at: '2026-07-19T13:17:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

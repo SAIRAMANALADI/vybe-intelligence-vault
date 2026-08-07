@@ -1,13 +1,30 @@
 ---
-title: "paulgrape/skill-auditor"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "React/Next.js", "Jest", "npm"]
+title: paulgrape/skill-auditor
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- React/Next.js
+- Jest
+- npm
 quality_score: 8
 rag_relevance: 7
-tags: ["agent skills", "skill auditing", "alignment scoring", "drift detection", "loop engineering"]
-source: "https://github.com/paulgrape/skill-auditor"
-discovered_at: "2026-07-11T14:51:54Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- agent skills
+- skill auditing
+- alignment scoring
+- drift detection
+- loop engineering
+source: https://github.com/paulgrape/skill-auditor
+stars: 0
+language: TypeScript
+last_updated: '2026-07-11T14:48:32Z'
+discovered_at: '2026-07-11T14:51:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

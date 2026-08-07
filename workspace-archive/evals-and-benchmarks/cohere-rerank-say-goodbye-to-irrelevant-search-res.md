@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Cohere's Embedding Models**: Introduced new embedding models (e.g., `embed-english-v3.0`, `embed-multilingual-v3.0`) optimized for retrieval tasks with improved performance and reduced latency via distillation techniques.
+- Introduces Cohere's new embedding models (v3) optimized for retrieval, RAG, and classification tasks, with improved performance and efficiency over prior versions.
 
-- **Enhanced Multilingual Support**: Launched `embed-multilingual-v3.0` supporting 100+ languages, leveraging contrastive learning for better cross-lingual semantic alignment and retrieval accuracy.
+- Details architectural enhancements including dynamic adaptive computation, enabling variable token processing based on input complexity for reduced latency.
 
-- **Efficiency Improvements**: Achieved 2x faster inference and 30% lower
+- Highlights benchmark improvements: 10% higher accuracy on BEIR retrieval tasks and 2x faster inference compared to v2 models.
 
 ## Use Cases
 

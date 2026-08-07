@@ -1,13 +1,29 @@
 ---
-title: "codeshark94/codeshark"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenAI Codex CLI", "Telegram Bot API", "macOS", "Keychain (for secure token storage)"]
+title: codeshark94/codeshark
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- OpenAI Codex CLI
+- Telegram Bot API
+- macOS
+- Keychain (for secure token storage)
 quality_score: 9
 rag_relevance: 7
-tags: ["persistent agent", "local automation", "project management", "Telegram integration", "durable memory"]
-source: "https://github.com/codeshark94/codeshark"
-discovered_at: "2026-07-18T14:50:40Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- persistent agent
+- local automation
+- project management
+- Telegram integration
+- durable memory
+source: https://github.com/codeshark94/codeshark
+stars: 0
+language: Python
+last_updated: '2026-07-18T14:45:35Z'
+discovered_at: '2026-07-18T14:50:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

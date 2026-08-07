@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-07-21T22:13:52.421833+05:30'
-published_at: '2026-07-21T12:38:37Z'
+collected_at: '2026-08-07T08:50:58.887707+05:30'
+published_at: '2026-08-04T15:42:47Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
 - workflows
-stars: 166
+stars: 164
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-07-21T22:13:52.421833+05:30'
-last_seen: '2026-07-21T22:13:52.421833+05:30'
-last_checked: '2026-07-21T22:13:52.421833+05:30'
+first_seen: '2026-08-07T08:50:58.887707+05:30'
+last_seen: '2026-08-07T08:50:58.887707+05:30'
+last_checked: '2026-08-07T08:50:58.887707+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an agentic RAG system using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic, multi-step reasoning.
-- **Jupyter Notebook-Based**: Entire workflow encapsulated in Jupyter Notebooks, enabling interactive experimentation and visualization of agentic RAG pipelines.
-- **NVIDIA Toolkit Integration**: Leverages NVIDIA’s AI frameworks (e.g., NeMo, TensorRT) for optimized LLM inference and retrieval augmentation.
+- **Agentic RAG Implementation**: Demonstrates an agentic RAG system leveraging NVIDIA AI Workbench for dynamic retrieval and generation workflows.
+- **Jupyter Notebook Structure**: Provides a modular, executable notebook-based example for agentic RAG pipelines, including retrieval, reasoning, and generation components.
+- **NVIDIA AI Workbench Integration**: Utilizes NVIDIA's ecosystem for optimized agentic RAG deployment, with dependencies on NVIDIA-accelerated libraries (e.g., TensorRT, NeMo).
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 166
+- Stars: 164
 - Forks: 232
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-07-21T12:38:37Z
+- Last Updated: 2026-08-04T15:42:47Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-08-14T17:08:04Z

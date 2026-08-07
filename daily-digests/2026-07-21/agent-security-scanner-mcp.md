@@ -1,13 +1,34 @@
 ---
-title: "sinewaveai/agent-security-scanner-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "Python", "AST Analysis", "Taint Tracking", "LLM Integration", "Regex", "GitHub Actions", "CycloneDX SBOM"]
+title: sinewaveai/agent-security-scanner-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- Python
+- AST Analysis
+- Taint Tracking
+- LLM Integration
+- Regex
+- GitHub Actions
+- CycloneDX SBOM
 quality_score: 9
 rag_relevance: 10
-tags: ["security scanning", "AI agent safety", "MCP server auditing", "package hallucination detection", "prompt injection firewall"]
-source: "https://github.com/sinewaveai/agent-security-scanner-mcp"
-discovered_at: "2026-07-11T09:27:29Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- security scanning
+- AI agent safety
+- MCP server auditing
+- package hallucination detection
+- prompt injection firewall
+source: https://github.com/sinewaveai/agent-security-scanner-mcp
+stars: 113
+language: JavaScript
+last_updated: '2026-07-11T09:24:27Z'
+discovered_at: '2026-07-11T09:27:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

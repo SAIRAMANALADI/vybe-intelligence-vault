@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/css-ui/css-nesting
-published_at: '2026-07-18T01:15:25.942393+05:30'
-collected_at: '2026-07-18T01:15:25.942407+05:30'
+published_at: '2026-08-07T09:00:45.516525+05:30'
+collected_at: '2026-08-07T09:00:45.516533+05:30'
 tags:
 - hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:css-nesting-chrome-for-developers
-first_seen: '2026-07-18T01:15:25.942407+05:30'
-last_seen: '2026-07-18T01:15:25.942407+05:30'
-last_checked: '2026-07-18T01:15:25.942407+05:30'
+first_seen: '2026-08-07T09:00:45.516533+05:30'
+last_seen: '2026-08-07T09:00:45.516533+05:30'
+last_checked: '2026-08-07T09:00:45.516533+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **CSS Nesting Syntax**: Introduces native nesting of style rules within CSS (e.g., `.parent { .child { color: red; } }`), reducing selector repetition and improving code organization. The `&` symbol explicitly references parent selectors (e.g., `& .child`), enabling precise compound selectors and avoiding unintended descendant selectors.
+- **CSS Nesting Syntax**: Introduces native nesting of style rules within the language (e.g., `.parent { .child { color: red; } }`), eliminating selector repetition and improving organization. Supported in Chrome 112+ and Safari Technical Preview 162+.
 
-- **Key Features & Limitations**: Supports `@media` nesting (e.g., `.card { @media (width >= 1024px) { font-size: 1.25rem; } }`), selector lists, and negation (`:not()`). Invalid cases include string-like concatenation (e.g., `&--header` ≠ `.card--header`) and intermixed declarations (hoisted to top unless wrapped in `&`).
+- **`&` Symbol and Selector Context**: The `&` symbol explicitly references the parent selector, enabling precise compound selectors (e.g., `.lg { &.triangle { ... } }` for `.lg.triangle`). Omission defaults to descendant selectors (e.g., `.lg .triangle`).
 
-- **Browser Support & Debugging**: Available in Chrome 112+, Safari TP 162. Feature detection via `@supports (selector(&))` or nesting tests (e.g., `.has-nesting { display: block; }`). Chrome DevTools lacks full nesting context visualization (planned for Chrome 113).
+- **Feature Detection and Debugging**: Nesting can be detected via `@supports (selector(&))` or by testing a `.has-nesting` class. Chrome DevTools (v113+) will improve nesting visualization, though current support is limited.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-18T01:15:25.942393+05:30
+- Published: 2026-08-07T09:00:45.516525+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/new-langgraphjs-project
-collected_at: '2026-07-21T22:16:57.619301+05:30'
-published_at: '2026-07-15T06:33:40Z'
+collected_at: '2026-08-07T08:54:09.054777+05:30'
+published_at: '2026-08-03T22:33:00Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2024-09-17T00:58:59Z'
-pushed_at: '2026-07-15T06:37:24Z'
+pushed_at: '2026-08-03T22:33:00Z'
 resource_id: github:langchain-ai/new-langgraphjs-project
-first_seen: '2026-07-21T22:16:57.619301+05:30'
-last_seen: '2026-07-21T22:16:57.619301+05:30'
-last_checked: '2026-07-21T22:16:57.619301+05:30'
+first_seen: '2026-08-07T08:54:09.054777+05:30'
+last_seen: '2026-08-07T08:54:09.054777+05:30'
+last_checked: '2026-08-07T08:54:09.054777+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Project Template**: Empty starter repository for LangGraph.js, a JavaScript/TypeScript framework for building stateful, multi-actor workflows with LangChain integration.
-- **Metadata**: 73 stars, 88 forks, TypeScript-based, last updated July 15, 2026; tagged with `langgraph`, `langgraph-js`, and `langgraph-template`.
-- **Purpose**: Provides a minimal scaffold for LangGraph.js applications, facilitating rapid development of agentic or workflow-based systems.
+- **Project Type**: Empty starter template for LangGraph.js, a TypeScript-based framework for building stateful, multi-actor applications with LLMs.
+- **Metadata**: 73 stars, 89 forks, last updated 2026-08-03; categorized under `langgraph`, `langgraph-js`, and `langgraph-template`.
+- **Purpose**: Provides a minimal scaffold to initialize LangGraph.js projects, facilitating rapid development of graph-based workflows.
 
 ## Why It Matters
 
@@ -41,14 +41,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: langchain-ai
 - Stars: 73
-- Forks: 88
+- Forks: 89
 - Language: TypeScript
 - Topics: langgraph, langgraph-js, langgraph-template
-- Last Updated: 2026-07-15T06:33:40Z
+- Last Updated: 2026-08-03T22:33:00Z
 - License: MIT
 - Archived: No
 - Created At: 2024-09-17T00:58:59Z
-- Pushed At: 2026-07-15T06:37:24Z
+- Pushed At: 2026-08-03T22:33:00Z
 
 ## Possible Use Cases
 

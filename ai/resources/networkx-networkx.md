@@ -4,22 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/networkx/networkx
-collected_at: '2026-07-18T16:56:18.137649+05:30'
-published_at: '2026-07-18T02:15:31Z'
+collected_at: '2026-08-02T16:30:18.929380+05:30'
+published_at: '2026-08-02T02:34:13Z'
 tags:
 - github-repo
 - python
-stars: 17101
+stars: 17148
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2010-09-06T00:53:44Z'
-pushed_at: '2026-07-18T02:15:26Z'
+pushed_at: '2026-08-01T23:23:35Z'
 resource_id: github:networkx/networkx
-first_seen: '2026-07-18T16:56:18.137649+05:30'
-last_seen: '2026-07-18T16:56:18.137649+05:30'
-last_checked: '2026-07-18T16:56:18.137649+05:30'
+first_seen: '2026-08-02T16:30:18.929380+05:30'
+last_seen: '2026-08-02T16:30:18.929380+05:30'
+last_checked: '2026-08-02T16:30:18.929380+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Graph Library**: Python-based `networkx` provides extensive tools for creation, manipulation, and study of complex networks, supporting directed/undirected graphs, multigraphs, and weighted edges with ~500+ built-in algorithms (e.g., shortest paths, centrality measures, clustering).
-
-- **Modular Architecture**: Implements core graph data structures (e.g., `Graph`, `DiGraph`, `MultiGraph`) with adjacency lists, optimized for sparse graphs, and integrates seamlessly with scientific Python stack (NumPy, SciPy, Matplotlib) via extensible interfaces.
-
-- **Active Ecosystem**: Maintains 17k+ stars, 3.5k+ forks, and frequent updates (last: 2026-07-18), with support for graph visualization (Graphviz, PyVis), synthetic graph generators (Erdős-Rényi, Barabási-Albert), and compatibility with Python 3.8+.
+- **Library Overview**: `NetworkX` is a Python library for creating, analyzing, and visualizing complex networks, implementing graph theory algorithms and data structures.
+- **Core Features**: Supports graph generation, manipulation, analysis (e.g., centrality, connectivity), and visualization with built-in algorithms for pathfinding, clustering, and more.
+- **Ecosystem**: Compatible with Python 3.x, integrates with scientific libraries (NumPy, SciPy), and is widely used in research and industry for network-centric computations.
 
 ## Why It Matters
 
@@ -40,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: networkx
-- Stars: 17101
-- Forks: 3554
+- Stars: 17148
+- Forks: 3572
 - Language: Python
 - Topics: complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python
-- Last Updated: 2026-07-18T02:15:31Z
+- Last Updated: 2026-08-02T02:34:13Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2010-09-06T00:53:44Z
-- Pushed At: 2026-07-18T02:15:26Z
+- Pushed At: 2026-08-01T23:23:35Z
 
 ## Possible Use Cases
 

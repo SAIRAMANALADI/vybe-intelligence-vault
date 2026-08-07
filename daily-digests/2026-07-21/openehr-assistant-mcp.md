@@ -1,13 +1,31 @@
 ---
-title: "Cadasto/openehr-assistant-mcp"
-category: "Agent Framework"
-tech_stack: ["PHP", "Model Context Protocol (MCP)", "Docker", "JSON", "ADL (Archetype Definition Language)", "AQL (Archetype Query Language)", "BMM (openEHR Business Object Model)"]
+title: Cadasto/openehr-assistant-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- PHP
+- Model Context Protocol (MCP)
+- Docker
+- JSON
+- ADL (Archetype Definition Language)
+- AQL (Archetype Query Language)
+- BMM (openEHR Business Object Model)
 quality_score: 9
 rag_relevance: 10
-tags: ["openEHR", "MCP server", "clinical data", "archetypes", "AI assistants"]
-source: "https://github.com/Cadasto/openehr-assistant-mcp"
-discovered_at: "2026-07-19T11:57:16Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- openEHR
+- MCP server
+- clinical data
+- archetypes
+- AI assistants
+source: https://github.com/Cadasto/openehr-assistant-mcp
+stars: 16
+language: PHP
+last_updated: '2026-07-19T11:45:34Z'
+discovered_at: '2026-07-19T11:57:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

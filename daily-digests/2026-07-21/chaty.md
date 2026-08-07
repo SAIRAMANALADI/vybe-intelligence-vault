@@ -1,13 +1,35 @@
 ---
-title: "Fangyuan025/Chaty"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri 2", "llama.cpp", "GGUF", "MLX", "Metal", "Vulkan", "Python", "OCR", "WebAssembly", "SQLite"]
+title: Fangyuan025/Chaty
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- Tauri 2
+- llama.cpp
+- GGUF
+- MLX
+- Metal
+- Vulkan
+- Python
+- OCR
+- WebAssembly
+- SQLite
 quality_score: 9
 rag_relevance: 8
-tags: ["offline AI", "local LLM", "RAG", "desktop agent", "privacy-first"]
-source: "https://github.com/Fangyuan025/Chaty"
-discovered_at: "2026-07-14T05:28:52Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- offline AI
+- local LLM
+- RAG
+- desktop agent
+- privacy-first
+source: https://github.com/Fangyuan025/Chaty
+stars: 3
+language: Rust
+last_updated: '2026-07-14T05:20:58Z'
+discovered_at: '2026-07-14T05:28:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

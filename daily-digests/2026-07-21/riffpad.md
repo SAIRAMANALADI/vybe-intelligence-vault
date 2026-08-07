@@ -1,13 +1,35 @@
 ---
-title: "riffpad/riffpad"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "Go", "Echo (Go framework)", "GORM (ORM)", "PostgreSQL", "Redis", "MinIO", "Docker", "pnpm", "shadcn/ui"]
+title: riffpad/riffpad
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Next.js
+- Go
+- Echo (Go framework)
+- GORM (ORM)
+- PostgreSQL
+- Redis
+- MinIO
+- Docker
+- pnpm
+- shadcn/ui
 quality_score: 9
 rag_relevance: 8
-tags: ["AI-native workspace", "rapid prototyping", "cloud sandbox", "autonomous agent", "multi-device"]
-source: "https://github.com/riffpad/riffpad"
-discovered_at: "2026-07-19T16:57:43Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI-native workspace
+- rapid prototyping
+- cloud sandbox
+- autonomous agent
+- multi-device
+source: https://github.com/riffpad/riffpad
+stars: 7
+language: TypeScript
+last_updated: '2026-07-19T16:57:30Z'
+discovered_at: '2026-07-19T16:57:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

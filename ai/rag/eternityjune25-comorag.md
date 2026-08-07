@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-21T22:14:52.441481+05:30'
-published_at: '2026-07-13T12:27:27Z'
+collected_at: '2026-08-07T08:51:58.917101+05:30'
+published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
-stars: 342
+stars: 343
 language: Python
 status: active
 license: MIT
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-21T22:14:52.441481+05:30'
-last_seen: '2026-07-21T22:14:52.441481+05:30'
-last_checked: '2026-07-21T22:14:52.441481+05:30'
+first_seen: '2026-08-07T08:51:58.917101+05:30'
+last_seen: '2026-08-07T08:51:58.917101+05:30'
+last_checked: '2026-08-07T08:51:58.917101+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognition, enabling stateful long narrative reasoning by structuring memory hierarchically for improved contextual retention.
+- **Cognitive-Inspired Architecture**: Introduces **ComoRAG**, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling **stateful long narrative reasoning** by structuring memory hierarchically (episodic, semantic, and procedural layers).
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain coherence in extended dialogues or narratives, addressing limitations of traditional RAG systems in tracking long-term dependencies.
+- **Stateful Memory Integration**: Implements a **dynamic memory buffer** that updates and retrieves contextually relevant information over extended interactions, improving coherence and factual consistency in long-form reasoning tasks.
 
-- **Python-Based Implementation**: Provides an open-source Python repository with modular components for memory organization, retrieval, and integration with LLMs, optimized for AAAI 2026 poster presentation standards.
+- **AAAI 2026 Contribution**: Proposes a novel **memory-organized retrieval mechanism** that outperforms traditional RAG systems in narrative reasoning benchmarks, with codebase available in Python for reproducibility.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: EternityJune25
-- Stars: 342
+- Stars: 343
 - Forks: 47
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-13T12:27:27Z
+- Last Updated: 2026-07-26T09:24:24Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-18T09:12:16Z

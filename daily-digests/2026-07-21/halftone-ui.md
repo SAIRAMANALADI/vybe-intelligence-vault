@@ -1,13 +1,30 @@
 ---
-title: "paolacaliariwilliamsewardburroughs422/halftone-ui"
-category: "UI Component"
-tech_stack: ["JavaScript", "React", "Vue", "CSS", "Canvas API", "Dithering Algorithms"]
+title: paolacaliariwilliamsewardburroughs422/halftone-ui
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- React
+- Vue
+- CSS
+- Canvas API
+- Dithering Algorithms
 quality_score: 7
 rag_relevance: 4
-tags: ["halftone", "design system", "print simulation", "UI components", "creative coding"]
-source: "https://github.com/paolacaliariwilliamsewardburroughs422/halftone-ui"
-discovered_at: "2026-07-19T22:50:33Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- halftone
+- design system
+- print simulation
+- UI components
+- creative coding
+source: https://github.com/paolacaliariwilliamsewardburroughs422/halftone-ui
+stars: 0
+language: None
+last_updated: '2026-07-19T22:40:51Z'
+discovered_at: '2026-07-19T22:50:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

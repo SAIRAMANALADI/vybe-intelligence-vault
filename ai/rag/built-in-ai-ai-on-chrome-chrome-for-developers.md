@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/ai/built-in
-published_at: '2026-07-21T22:20:08.102723+05:30'
-collected_at: '2026-07-21T22:20:08.102739+05:30'
+published_at: '2026-08-07T08:58:26.536763+05:30'
+collected_at: '2026-08-07T08:58:26.536771+05:30'
 tags:
 - hackernews
 - producthunt
 - rag
 - threejs
 - web-crawled
-- workflows
 status: active
 resource_id: blog:built-in-ai-ai-on-chrome-chrome-for-developers
-first_seen: '2026-07-21T22:20:08.102739+05:30'
-last_seen: '2026-07-21T22:20:08.102739+05:30'
-last_checked: '2026-07-21T22:20:08.102739+05:30'
+first_seen: '2026-08-07T08:58:26.536771+05:30'
+last_seen: '2026-08-07T08:58:26.536771+05:30'
+last_checked: '2026-08-07T08:58:26.536771+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Built-in AI APIs**: Chrome provides browser-managed AI models (e.g., Gemini Nano) via APIs for tasks like translation (`Translator API`), text summarization (`Summarizer API`), proofreading (`Proofreader API`), and language detection (`Language Detector API`), enabling client-side AI inference without external dependencies.
-
-- **Hybrid AI Workloads**: Supports hybrid workflows combining on-device AI (via `Prompt API`/`Task API`) with cloud fallbacks (e.g., Firebase AI Logic), including session management techniques like context summarization (`Session compacting`) for extended conversations.
-
-- **Performance & Best Practices**: Optimizations include model caching (`Cache AI models`), streaming LLM responses (`Stream LLM responses`), and UX guidance for model downloads (`Inform users of model download`), with debugging tools (`Debug Gemini Nano`) and ethical considerations (`AI ethics`).
+- **Built-in AI APIs**: Chrome provides browser-managed AI models (e.g., Gemini Nano) via APIs for tasks like text translation, summarization, proofreading, and language detection, enabling client-side AI inference without external dependencies.
+- **Hybrid AI Workloads**: Supports combining on-device AI (via APIs like `Prompt`, `Summarizer`, `Translator`) with cloud fallback (e.g., Firebase AI Logic) for scalable, privacy-preserving solutions.
+- **Best Practices & Debugging**: Includes guidelines for caching models, streaming LLM responses, debugging Gemini Nano, and managing model lifecycle (downloads, updates, and user notifications) for optimized performance.
 
 ## Why It Matters
 
@@ -39,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:20:08.102723+05:30
+- Published: 2026-08-07T08:58:26.536763+05:30
 
 ## Related Tags
 
@@ -48,7 +45,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - threejs
 - web-crawled
-- workflows
 
 ## Source
 

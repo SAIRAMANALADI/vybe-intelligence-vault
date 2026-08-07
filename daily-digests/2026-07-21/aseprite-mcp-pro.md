@@ -1,13 +1,29 @@
 ---
-title: "Pand8266/aseprite-mcp-pro"
-category: "Tooling"
-tech_stack: ["Lua", "Model Context Protocol (MCP)", "Aseprite", "Windows", "Godot"]
+title: Pand8266/aseprite-mcp-pro
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Lua
+- Model Context Protocol (MCP)
+- Aseprite
+- Windows
+- Godot
 quality_score: 7
 rag_relevance: 4
-tags: ["pixel art", "Aseprite", "AI-assisted art", "game development", "MCP"]
-source: "https://github.com/Pand8266/aseprite-mcp-pro"
-discovered_at: "2026-07-10T20:22:23Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- pixel art
+- Aseprite
+- AI-assisted art
+- game development
+- MCP
+source: https://github.com/Pand8266/aseprite-mcp-pro
+stars: 2
+language: Lua
+last_updated: '2026-07-10T20:20:48Z'
+discovered_at: '2026-07-10T20:22:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

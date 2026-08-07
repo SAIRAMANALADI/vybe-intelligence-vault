@@ -13,9 +13,9 @@ importance: medium
 tags:
 - agents
 - dataset
-- hackernews
 - rag
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Enterprise Platform** provides a free trial enabling users to deploy production-grade AI pipelines (RAG, agents) via a visual, code-aligned editor with built-in debugging and collaboration tools.
-
-- **Core features** include a pipeline template library, custom component integration (e.g., MCP), secure cloud infrastructure, and support for metadata extraction, indexing, and retrieval accuracy optimization.
-
-- **Industry adoption** by enterprises (e.g., Airbus, The Economist) demonstr
+- **Pre-built AI pipeline templates** for rapid deployment of production-grade RAG, agent-based, and retrieval systems with minimal setup.
+- **Visual, code-aligned pipeline editor** enabling drag-and-drop design of AI workflows with integrated debugging and stakeholder feedback mechanisms.
+- **Secure cloud infrastructure** with support for custom components, third-party integrations (e.g., MCP), and metadata extraction/testing across user-uploaded or sample datasets.
 
 ## Use Cases
 

@@ -1,13 +1,34 @@
 ---
-title: "istju/arcsi-runtime"
-category: "Orchestrator"
-tech_stack: ["Node.js", "Python", "Android", "Termux", "Proxmox", "Unix Sockets", "JavaScript", "TypeScript", "REST APIs", "WebSockets"]
+title: istju/arcsi-runtime
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Node.js
+- Python
+- Android
+- Termux
+- Proxmox
+- Unix Sockets
+- JavaScript
+- TypeScript
+- REST APIs
+- WebSockets
 quality_score: 8
 rag_relevance: 7
-tags: ["AI runtime", "distributed systems", "modular architecture", "personal automation", "trace-based reasoning"]
-source: "https://github.com/istju/arcsi-runtime"
-discovered_at: "2026-07-17T10:46:25Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI runtime
+- distributed systems
+- modular architecture
+- personal automation
+- trace-based reasoning
+source: https://github.com/istju/arcsi-runtime
+stars: 0
+language: JavaScript
+last_updated: '2026-07-17T10:39:42Z'
+discovered_at: '2026-07-17T10:46:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,32 @@
 ---
-title: "TuTouPower/capture_all"
-category: "Tooling"
-tech_stack: ["TypeScript", "Chrome Extension API (Manifest V3)", "Chrome DevTools Protocol", "IndexedDB", "Node.js", "MCP (Model Context Protocol)", "Vite", "Playwright"]
+title: TuTouPower/capture_all
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Chrome Extension API (Manifest V3)
+- Chrome DevTools Protocol
+- IndexedDB
+- Node.js
+- MCP (Model Context Protocol)
+- Vite
+- Playwright
 quality_score: 8
 rag_relevance: 9
-tags: ["browser debugging", "evidence capture", "MCP integration", "local-first", "AI agent tooling"]
-source: "https://github.com/TuTouPower/capture_all"
-discovered_at: "2026-07-14T22:56:02Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- browser debugging
+- evidence capture
+- MCP integration
+- local-first
+- AI agent tooling
+source: https://github.com/TuTouPower/capture_all
+stars: 0
+language: TypeScript
+last_updated: '2026-07-14T22:45:01Z'
+discovered_at: '2026-07-14T22:56:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

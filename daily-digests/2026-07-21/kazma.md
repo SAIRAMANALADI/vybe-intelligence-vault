@@ -1,13 +1,36 @@
 ---
-title: "Mubder/kazma"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "FastAPI", "ChromaDB", "SQLite", "AES-256-GCM", "Telegram Bot API", "Discord API", "Slack API", "Textual (TUI)", "Docker", "Kubernetes"]
+title: Mubder/kazma
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- LangGraph
+- FastAPI
+- ChromaDB
+- SQLite
+- AES-256-GCM
+- Telegram Bot API
+- Discord API
+- Slack API
+- Textual (TUI)
+- Docker
+- Kubernetes
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "swarm orchestration", "Arabic-first AI", "human-in-the-loop safety", "multi-platform"]
-source: "https://github.com/Mubder/kazma"
-discovered_at: "2026-07-11T23:53:54Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- swarm orchestration
+- Arabic-first AI
+- human-in-the-loop safety
+- multi-platform
+source: https://github.com/Mubder/kazma
+stars: 2
+language: Python
+last_updated: '2026-07-11T23:44:15Z'
+discovered_at: '2026-07-11T23:53:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

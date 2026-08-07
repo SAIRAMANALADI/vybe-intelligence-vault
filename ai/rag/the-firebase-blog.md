@@ -3,9 +3,9 @@ title: The Firebase Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://firebase.blog/
-published_at: '2026-07-21T09:25:40.429059+05:30'
-collected_at: '2026-07-21T09:25:40.429067+05:30'
+source_url: https://firebase.blog
+published_at: '2026-08-05T17:12:06.347764+05:30'
+collected_at: '2026-08-05T17:12:06.347777+05:30'
 tags:
 - frontend_ui
 - producthunt
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:the-firebase-blog
-first_seen: '2026-07-21T09:25:40.429067+05:30'
-last_seen: '2026-07-21T09:25:40.429067+05:30'
-last_checked: '2026-07-21T09:25:40.429067+05:30'
+first_seen: '2026-08-05T17:12:06.347777+05:30'
+last_seen: '2026-08-05T17:12:06.347777+05:30'
+last_checked: '2026-08-05T17:12:06.347777+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Firestore Pipelines GA**: Introduces full-text search and JOIN-like operations in Firestore via pipelines, enabling complex queries on NoSQL data while maintaining real-time capabilities.
+- **Security Rules**: Enforce fine-grained access control at the database level, validating read/write operations based on user identity, document fields, and custom conditions to prevent unauthorized data access.
 
-- **Dart Support in Cloud Functions**: Adds Dart as a first-class language for Firebase Cloud Functions, expanding backend development options with type-safe, cross-platform support.
+- **App Check**: Integrates with reCAPTCHA Enterprise or device integrity checks to mitigate API abuse by validating requests originate from trusted client apps, reducing fraudulent traffic.
 
-- **Firebase Phone Number Verification (GA)**: Rolls out general availability for phone number verification, providing a secure, scalable solution for user authentication without requiring SMS delivery partners.
+- **Transport Layer Security (TLS)**: Enforces encrypted in-transit data via HTTPS/WSS, ensuring end-to-end security for all Firebase services, including Firestore, Realtime Database, and Authentication.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:25:40.429059+05:30
+- Published: 2026-08-05T17:12:06.347764+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://firebase.blog/
+Original source: https://firebase.blog

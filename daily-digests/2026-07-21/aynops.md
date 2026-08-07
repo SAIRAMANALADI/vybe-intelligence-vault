@@ -1,13 +1,32 @@
 ---
-title: "AynOps/AynOps"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Nmap", "AbuseIPDB API", "Team Cymru WHOIS", "CRT.SH API", "Git", "uv (dependency manager)"]
+title: AynOps/AynOps
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Nmap
+- AbuseIPDB API
+- Team Cymru WHOIS
+- CRT.SH API
+- Git
+- uv (dependency manager)
 quality_score: 9
 rag_relevance: 8
-tags: ["cybersecurity", "MCP server", "automated reconnaissance", "AI tooling", "penetration testing"]
-source: "https://github.com/AynOps/AynOps"
-discovered_at: "2026-07-19T16:57:50Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- cybersecurity
+- MCP server
+- automated reconnaissance
+- AI tooling
+- penetration testing
+source: https://github.com/AynOps/AynOps
+stars: 19
+language: Python
+last_updated: '2026-07-19T16:55:06Z'
+discovered_at: '2026-07-19T16:57:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

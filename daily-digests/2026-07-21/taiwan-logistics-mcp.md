@@ -1,13 +1,30 @@
 ---
-title: "junter1989k-ai/taiwan-logistics-mcp"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "ECPay Logistics API", "MCP (Model Context Protocol)", "HTTP", "MD5 (CheckMacValue signing)"]
+title: junter1989k-ai/taiwan-logistics-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- ECPay Logistics API
+- MCP (Model Context Protocol)
+- HTTP
+- MD5 (CheckMacValue signing)
 quality_score: 9
 rag_relevance: 8
-tags: ["Taiwan logistics", "ECPay API", "MCP server", "shipment automation", "stateless"]
-source: "https://github.com/junter1989k-ai/taiwan-logistics-mcp"
-discovered_at: "2026-07-10T13:12:19Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Taiwan logistics
+- ECPay API
+- MCP server
+- shipment automation
+- stateless
+source: https://github.com/junter1989k-ai/taiwan-logistics-mcp
+stars: 0
+language: JavaScript
+last_updated: '2026-07-10T13:03:21Z'
+discovered_at: '2026-07-10T13:12:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,13 +1,33 @@
 ---
-title: "xcodethink/pixelcheck"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Chromium", "Zod", "axe-core", "Stagehand", "Anthropic API", "Playwright"]
+title: xcodethink/pixelcheck
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Chromium
+- Zod
+- axe-core
+- Stagehand
+- Anthropic API
+- Playwright
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP server", "browser automation", "AI agent tools", "UI auditing", "local-first"]
-source: "https://github.com/xcodethink/pixelcheck"
-discovered_at: "2026-07-14T16:14:09Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- MCP server
+- browser automation
+- AI agent tools
+- UI auditing
+- local-first
+source: https://github.com/xcodethink/pixelcheck
+stars: 4
+language: TypeScript
+last_updated: '2026-07-14T16:02:06Z'
+discovered_at: '2026-07-14T16:14:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

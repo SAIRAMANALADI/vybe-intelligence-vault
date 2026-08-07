@@ -1,13 +1,33 @@
 ---
-title: "michaelinghilterra-creator/trajecktory"
-category: "Tooling"
-tech_stack: ["Claude Code", "Node.js", "React", "Express", "Playwright", "YAML", "Markdown", "TypeScript", "JavaScript"]
+title: michaelinghilterra-creator/trajecktory
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Claude Code
+- Node.js
+- React
+- Express
+- Playwright
+- YAML
+- Markdown
+- TypeScript
+- JavaScript
 quality_score: 9
 rag_relevance: 7
-tags: ["job search automation", "AI-driven evaluation", "local dashboard", "ATS integration", "career pipeline"]
-source: "https://github.com/michaelinghilterra-creator/trajecktory"
-discovered_at: "2026-07-15T14:48:55Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- job search automation
+- AI-driven evaluation
+- local dashboard
+- ATS integration
+- career pipeline
+source: https://github.com/michaelinghilterra-creator/trajecktory
+stars: 1
+language: JavaScript
+last_updated: '2026-07-15T14:48:29Z'
+discovered_at: '2026-07-15T14:48:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

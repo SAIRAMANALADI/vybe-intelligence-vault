@@ -1,13 +1,34 @@
 ---
-title: "saianthireddy/webdocs-mcp"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "DuckDB", "BM25", "Hashing/Embeddings", "Model Context Protocol (MCP)", "Docker", "Pytest", "httpx", "Redis (optional)"]
+title: saianthireddy/webdocs-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastAPI
+- DuckDB
+- BM25
+- Hashing/Embeddings
+- Model Context Protocol (MCP)
+- Docker
+- Pytest
+- httpx
+- Redis (optional)
 quality_score: 9
 rag_relevance: 10
-tags: ["documentation retrieval", "MCP server", "hybrid search", "offline indexing", "LLM agent tools"]
-source: "https://github.com/saianthireddy/webdocs-mcp"
-discovered_at: "2026-07-17T16:15:00Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- documentation retrieval
+- MCP server
+- hybrid search
+- offline indexing
+- LLM agent tools
+source: https://github.com/saianthireddy/webdocs-mcp
+stars: 1
+language: Python
+last_updated: '2026-07-17T16:12:25Z'
+discovered_at: '2026-07-17T16:15:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

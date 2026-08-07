@@ -1,13 +1,29 @@
 ---
-title: "Seraph310/halo-pixelbar-mcp"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "HID (Human Interface Device)", "USB Protocol", "Windows"]
+title: Seraph310/halo-pixelbar-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- HID (Human Interface Device)
+- USB Protocol
+- Windows
 quality_score: 8
 rag_relevance: 4
-tags: ["MCP server", "EDIFIER Halo PixelBar", "hardware control", "ambient lighting", "AI integration"]
-source: "https://github.com/Seraph310/halo-pixelbar-mcp"
-discovered_at: "2026-07-19T14:54:19Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- MCP server
+- EDIFIER Halo PixelBar
+- hardware control
+- ambient lighting
+- AI integration
+source: https://github.com/Seraph310/halo-pixelbar-mcp
+stars: 2
+language: Python
+last_updated: '2026-07-19T14:48:27Z'
+discovered_at: '2026-07-19T14:54:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

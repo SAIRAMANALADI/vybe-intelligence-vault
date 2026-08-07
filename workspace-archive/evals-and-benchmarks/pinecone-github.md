@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Pinecone** is a **scalable vector database** designed for AI applications, enabling **long-term memory** and **data retrieval** for reasoning over known and unknown information.
-- Supports **9,000+ companies and 800,000+ developers**, powering **agents, search, and recommendation systems** with high-performance vector search.
-- Provides **official SDKs** (Python, TypeScript, Go, Java), **Terraform provider**, and **sample apps/notebooks** for rapid AI integration and infrastructure-as-code d
+- **Supports 9,000+ companies and 800,000+ developers**, powering **agents, search, and recommendation systems** with high-performance vector search capabilities.
+- **Provides official SDKs** (Python, TypeScript, Go, Java), **examples**, **AI assistants**, and **Infrastructure-as-Code (Terraform)** for seamless integ
 
 ## Use Cases
 

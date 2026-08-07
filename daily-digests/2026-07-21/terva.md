@@ -1,13 +1,33 @@
 ---
-title: "terva-sh/terva"
-category: "Agent Framework"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "JSON-RPC", "Docker", "Telegram/Discord APIs", "OAuth", "React (for web UI)", "Bash", "Git"]
+title: terva-sh/terva
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- JSON-RPC
+- Docker
+- Telegram/Discord APIs
+- OAuth
+- React (for web UI)
+- Bash
+- Git
 quality_score: 9
 rag_relevance: 8
-tags: ["agent harness", "coding assistant", "multi-model", "extensible", "sandboxed"]
-source: "https://github.com/terva-sh/terva"
-discovered_at: "2026-07-15T21:58:59Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- agent harness
+- coding assistant
+- multi-model
+- extensible
+- sandboxed
+source: https://github.com/terva-sh/terva
+stars: 1
+language: Go
+last_updated: '2026-07-15T21:56:34Z'
+discovered_at: '2026-07-15T21:58:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

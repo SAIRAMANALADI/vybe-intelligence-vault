@@ -6,10 +6,10 @@ source_url: https://flask.palletsprojects.com/
 resource_id: blog:welcome-to-flask-flask-documentation-3-1-x
 local_vault_path: ai/rag/welcome-to-flask-flask-documentation-3-1-x.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - hackernews
 - rag
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **WSGI Framework**: Flask is a lightweight WSGI web application framework designed for scalability, leveraging Werkzeug for WSGI handling, Jinja for templating, and Click for CLI operations.
+- Flask is a lightweight WSGI web application framework leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit) for scalable web development with modular architecture.
 
-- **Modular Architecture**: Supports blueprints for modular application structure, enabling separation of concerns, reusable components, and nested routing.
+- Core components include request/response handling, templating (Jinja2), configuration management, error handling, and modular patterns via Blueprints for structuring large applications.
 
-- **Context Management**: Implements application and request contexts for managing state, with signals for event-driven extensions and lifecycle con
+- Supports development features like debug mode, CLI integration, testing utilities, and production-ready deplo
 
 ## Use Cases
 

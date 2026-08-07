@@ -1,13 +1,29 @@
 ---
-title: "L337-org/docker-mcp"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "Model Context Protocol (MCP)", "uv", "PyPI"]
+title: L337-org/docker-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Docker
+- Model Context Protocol (MCP)
+- uv
+- PyPI
 quality_score: 9
 rag_relevance: 9
-tags: ["Docker management", "AI agent tools", "MCP server", "container orchestration", "remote daemon access"]
-source: "https://github.com/L337-org/docker-mcp"
-discovered_at: "2026-07-15T16:21:13Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Docker management
+- AI agent tools
+- MCP server
+- container orchestration
+- remote daemon access
+source: https://github.com/L337-org/docker-mcp
+stars: 3
+language: Python
+last_updated: '2026-07-15T16:17:52Z'
+discovered_at: '2026-07-15T16:21:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

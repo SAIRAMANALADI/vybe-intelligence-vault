@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
-collected_at: '2026-07-21T22:15:22.462434+05:30'
-published_at: '2026-07-21T11:52:22Z'
+collected_at: '2026-08-07T08:52:28.963555+05:30'
+published_at: '2026-08-06T19:46:21Z'
 tags:
 - agents
 - github-repo
 - python
 - workflows
-stars: 2520
+stars: 2564
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-07T16:54:25Z'
 pushed_at: '2026-06-17T09:53:19Z'
 resource_id: github:wassim249/fastapi-langgraph-agent-production-ready-template
-first_seen: '2026-07-21T22:15:22.462434+05:30'
-last_seen: '2026-07-21T22:15:22.462434+05:30'
-last_checked: '2026-07-21T22:15:22.462434+05:30'
+first_seen: '2026-08-07T08:52:28.963555+05:30'
+last_seen: '2026-08-07T08:52:28.963555+05:30'
+last_checked: '2026-08-07T08:52:28.963555+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for REST endpoints with LangGraph for building scalable, stateful AI agent workflows, including memory management and agent orchestration.
+- **Template Architecture**: Pre-configured FastAPI framework integrated with LangGraph for building scalable AI agent applications, featuring modular design for maintainability and extensibility.
 
-- **Security & Scalability**: Pre-configured with Docker, authentication, rate limiting, and async support for secure, high-performance AI agent deployments in production environments.
+- **Production-Ready Features**: Includes Docker support, secure authentication, and memory management for LLM-based agents, optimized for deployment in production environments.
 
-- **Modular Architecture**: Includes structured project layout with LangChain/LangGraph integrations, pre-built agent templates, and CI/CD-ready configurations for rapid development and deployment.
+- **Tech Stack**: Combines FastAPI, LangChain, and LangGraph with Python, supporting agentic AI workflows and LLM integration for enterprise-grade AI services.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: wassim249
-- Stars: 2520
-- Forks: 588
+- Stars: 2564
+- Forks: 604
 - Language: Python
 - Topics: agent, agentic-ai, docker, fastapi, fastapi-template, langchain, langchain-python, langgraph, langgraph-python, llm, memory
-- Last Updated: 2026-07-21T11:52:22Z
+- Last Updated: 2026-08-06T19:46:21Z
 - License: MIT
 - Archived: No
 - Created At: 2025-04-07T16:54:25Z

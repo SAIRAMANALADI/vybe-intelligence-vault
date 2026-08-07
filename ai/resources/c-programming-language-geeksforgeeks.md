@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/cpp/c-plus-plus/
-published_at: '2026-07-20T03:48:19.955985+05:30'
-collected_at: '2026-07-20T03:48:19.956001+05:30'
+published_at: '2026-08-02T14:15:26.136466+05:30'
+collected_at: '2026-08-02T14:15:26.136472+05:30'
 tags:
 - hackernews
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:c-programming-language-geeksforgeeks
-first_seen: '2026-07-20T03:48:19.956001+05:30'
-last_seen: '2026-07-20T03:48:19.956001+05:30'
-last_checked: '2026-07-20T03:48:19.956001+05:30'
+first_seen: '2026-08-02T14:15:26.136472+05:30'
+last_seen: '2026-08-02T14:15:26.136472+05:30'
+last_checked: '2026-08-02T14:15:26.136472+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **C++ Overview**: High-performance systems language with low-level memory control and OOP support, used in OS, embedded systems, and HFT; executes faster than most high-level languages due to minimal abstraction overhead.
-
-- **Core Features**: Supports manual memory management (`new`/`delete`), RAII (via smart pointers), multithreading (`std::thread`), and STL (containers, algorithms, iterators) for efficient data handling and parallelism.
-
-- **Advanced Capabilities**: Includes templates (compile-time polymorphism), exception handling (stack unwinding), namespaces (symbol scoping), and file I/O streams for robust, modular, and scalable application development.
+- **C++ Overview**: High-performance compiled language with low-level memory control, supporting both procedural and OOP paradigms; widely used in OS, embedded systems, HFT, and competitive programming due to its execution speed and syntactic compatibility with C/Java/C#.
+- **Core Features**: Manual memory management via `new`/`delete`, RAII via smart pointers, multithreading support via `<thread>`, and exception handling for robust error management; STL provides generic containers/algorithms (e.g., `vector`, `map`, `sort`).
+- **Advanced Constructs**: Templates enable compile-time polymorphism, namespaces prevent naming collisions, and OOP pillars (encapsulation, inheritance, polymorphism) are implemented via classes, virtual functions, and access specifiers.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T03:48:19.955985+05:30
+- Published: 2026-08-02T14:15:26.136466+05:30
 
 ## Related Tags
 

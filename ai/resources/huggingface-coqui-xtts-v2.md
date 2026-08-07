@@ -4,20 +4,20 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/coqui/XTTS-v2
-published_at: '2026-07-21T14:25:23.548775+05:30'
-collected_at: '2026-07-21T14:25:23.548790+05:30'
+published_at: '2026-08-05T14:38:20.906120+05:30'
+collected_at: '2026-08-05T14:38:20.906135+05:30'
 tags:
-- benchmark
 - dataset
 - mistral
 - models
 - reddit
 - web-crawled
+- workflows
 status: active
 resource_id: huggingface:coqui/xtts-v2
-first_seen: '2026-07-21T14:25:23.548790+05:30'
-last_seen: '2026-07-21T14:25:23.548790+05:30'
-last_checked: '2026-07-21T14:25:23.548790+05:30'
+first_seen: '2026-08-05T14:38:20.906135+05:30'
+last_seen: '2026-08-05T14:38:20.906135+05:30'
+last_checked: '2026-08-05T14:38:20.906135+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Voice Cloning & Multilingual TTS**: XTTS-v2 supports 17 languages (including Hungarian/Korean) with cross-language voice cloning using only a 6-second reference audio clip, enabling emotion/style transfer and multi-lingual speech generation at 24kHz sampling rate.
+- **Voice Cloning & Multilingual Support**: XTTS-v2 enables voice cloning with just a 6-second audio clip, supports 17 languages (including Hungarian and Korean), and allows cross-language voice cloning with emotion/style transfer and multi-lingual speech generation at 24kHz sampling rate.
 
-- **Architectural Improvements**: Enhanced speaker conditioning, multi-speaker reference support with interpolation, and stability/quality improvements over XTTS-v1, including better prosody and reduced training data requirements.
+- **Architectural & Performance Improvements**: V2 introduces speaker conditioning enhancements, multi-speaker reference support with interpolation, and stability/quality improvements over V1, including better prosody and audio fidelity.
 
-- **Deployment & Integration**: Open-source under CPML license with Python/CLI APIs, Hugging Face integration, and demo spaces; supports fine-tuning via [Coqui TTS](https://github.com/coqui-ai/TTS) with 9.2M+ downloads monthly.
+- **Deployment & Integration**: Model is licensed under Coqui Public Model License (CPML), supports inference/fine-tuning via [TTS GitHub](https://github.com/coqui-ai/TTS), and integrates with Hugging Face Spaces (e.g., `coqui/xtts`, `voice-chat-with-mistral`) and CLI/API workflows.
 
 ## Why It Matters
 
@@ -39,16 +39,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T14:25:23.548775+05:30
+- Published: 2026-08-05T14:38:20.906120+05:30
 
 ## Related Tags
 
-- benchmark
 - dataset
 - mistral
 - models
 - reddit
 - web-crawled
+- workflows
 
 ## Source
 

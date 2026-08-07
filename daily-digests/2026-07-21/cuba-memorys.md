@@ -1,13 +1,32 @@
 ---
-title: "LeandroPG19/cuba-memorys"
-category: "Orchestrator"
-tech_stack: ["Rust", "PostgreSQL", "pgvector", "ONNX Runtime", "Docker", "Python", "JavaScript/Node.js", "Model Context Protocol (MCP)"]
+title: LeandroPG19/cuba-memorys
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Rust
+- PostgreSQL
+- pgvector
+- ONNX Runtime
+- Docker
+- Python
+- JavaScript/Node.js
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 10
-tags: ["long-term memory", "knowledge graph", "hybrid retrieval", "AI agent memory", "procedural memory"]
-source: "https://github.com/LeandroPG19/cuba-memorys"
-discovered_at: "2026-07-13T20:14:23Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- long-term memory
+- knowledge graph
+- hybrid retrieval
+- AI agent memory
+- procedural memory
+source: https://github.com/LeandroPG19/cuba-memorys
+stars: 26
+language: Rust
+last_updated: '2026-07-13T20:09:42Z'
+discovered_at: '2026-07-13T20:14:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

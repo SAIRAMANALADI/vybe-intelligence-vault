@@ -1,13 +1,31 @@
 ---
-title: "VitexSoftware/mcp-server-webdriver"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Selenium WebDriver", "Firefox", "geckodriver", "BiDi (WebDriver Bidi Protocol)", "webdriver-manager"]
+title: VitexSoftware/mcp-server-webdriver
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- FastMCP
+- Selenium WebDriver
+- Firefox
+- geckodriver
+- BiDi (WebDriver Bidi Protocol)
+- webdriver-manager
 quality_score: 9
 rag_relevance: 8
-tags: ["browser automation", "AI agent tools", "web debugging", "MCP server", "Selenium"]
-source: "https://github.com/VitexSoftware/mcp-server-webdriver"
-discovered_at: "2026-07-20T21:11:01Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- browser automation
+- AI agent tools
+- web debugging
+- MCP server
+- Selenium
+source: https://github.com/VitexSoftware/mcp-server-webdriver
+stars: 4
+language: Python
+last_updated: '2026-07-20T21:02:57Z'
+discovered_at: '2026-07-20T21:11:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

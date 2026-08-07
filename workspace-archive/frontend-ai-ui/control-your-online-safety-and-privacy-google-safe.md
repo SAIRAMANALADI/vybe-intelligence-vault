@@ -3,7 +3,7 @@ title: Control Your Online Safety and Privacy - Google Safety Center
 archive_category: frontend-ai-ui
 source_category: ai/resources
 source_url: https://safety.google?hl=en_US
-resource_id: blog:control-your-online-safety-and-privacy-google-safe
+resource_id: blog:control-your-online-safety-and-privacy-google-safe-63396e69
 local_vault_path: ai/resources/control-your-online-safety-and-privacy-google-safe.md
 quality_score: 70
 archive_score: 72

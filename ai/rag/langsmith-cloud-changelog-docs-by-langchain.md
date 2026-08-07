@@ -4,13 +4,14 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-07-21T22:18:33.337343+05:30'
-collected_at: '2026-07-21T22:18:33.337363+05:30'
+published_at: '2026-08-07T08:55:22.921579+05:30'
+collected_at: '2026-08-07T08:55:22.921588+05:30'
 tags:
 - agents
 - anthropic
 - benchmark
 - dataset
+- frontend_ui
 - mistral
 - models
 - openai
@@ -22,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-07-21T22:18:33.337363+05:30'
-last_seen: '2026-07-21T22:18:33.337363+05:30'
-last_checked: '2026-07-21T22:18:33.337363+05:30'
+first_seen: '2026-08-07T08:55:22.921588+05:30'
+last_seen: '2026-08-07T08:55:22.921588+05:30'
+last_checked: '2026-08-07T08:55:22.921588+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Datasets & Experiments Enhancements**: Improved experiment comparison views with accurate truncation, dynamic split chips, and real-time split assignments; added `langsmith evaluator create-llm` for structured LLM-as-judge evaluators; enforced evaluator caps per workspace; fixed evaluator timeout handling and dataset example creation from source runs.
+- **Annotation & Dataset APIs**: Public API now supports full CRUD operations for annotation queue items (runs/threads) via `/api/v1/platform` endpoints, with fixes for CSV/JSONL uploads (including Windows browser MIME type issues and uppercase filenames) and improved metadata rendering in experiment grids.
 
-- **Tracing & Observability Updates**: Enforced monthly trace limits per project/user; improved public run sharing and OpenTelemetry trace rendering (e.g., Vercel AI SDK, VS Code Copilot Chat); added project UUID support in LangSmith MCP tools; preserved traces in multipart ingestion batches despite oversized inputs.
+- **Engine & Tracing Enhancements**: Engine issue boards now reopen when new matching traces are linked; trace exports include optional `feedbacks` column (JSON array); deprecated v1 endpoints (e.g., `/api/v1/runs/stats`) return proper 404s with `Sunset: 2027-01-31` headers; token/cost filters default to total metrics.
 
-- **API & UI Optimizations**: Added batch item limits (200) for annotation queues; improved evaluator spend chart readability; enforced dataset download permissions; optimized bulk export compression (zstd by default); fixed duplicate run conflict messages and non-primitive metadata display in run details.
+- **LLM Gateway & Sandbox Updates**: Gateway policies enforce non-blank names; usage charts show top 12 spenders; sandboxes support streaming SSE execution and include `langsmith` CLI v0.2.44; OAuth/SSO fixes for Remote MCP in self-hosted deployments.
 
 ## Why It Matters
 
@@ -46,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:18:33.337343+05:30
+- Published: 2026-08-07T08:55:22.921579+05:30
 
 ## Related Tags
 
@@ -54,6 +55,7 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - benchmark
 - dataset
+- frontend_ui
 - mistral
 - models
 - openai

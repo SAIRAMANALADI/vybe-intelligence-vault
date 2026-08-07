@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.scite.ai/
-published_at: '2026-07-20T22:23:25.069100+05:30'
-collected_at: '2026-07-20T22:23:25.069107+05:30'
+published_at: '2026-08-07T08:55:31.438635+05:30'
+collected_at: '2026-08-07T08:55:31.438644+05:30'
 tags:
 - anthropic
 - dataset
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-for-research-scite
-first_seen: '2026-07-20T22:23:25.069107+05:30'
-last_seen: '2026-07-20T22:23:25.069107+05:30'
-last_checked: '2026-07-20T22:23:25.069107+05:30'
+first_seen: '2026-08-07T08:55:31.438644+05:30'
+last_seen: '2026-08-07T08:55:31.438644+05:30'
+last_checked: '2026-08-07T08:55:31.438644+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Database & Coverage**: Aggregates 280M+ full-text scholarly articles (journals, preprints, books, patents, datasets) via direct publisher agreements (e.g., Wiley, SAGE) and open-access sources, enabling full-text search beyond abstracts.
-- **Smart Citations & AI Validation**: Uses 1.6B+ indexed citations to classify evidence as supporting, contrasting, or neutral; AI Assistant grounds answers in verifiable literature with direct sentence-level citations to prevent hallucinations.
-- **Cross-Domain Integration**: Extends beyond academic papers to include clinical trials, grants, and patents; integrates with tools like Zotero, ChatGPT/Claude (MCP), and offers API access for workflow embedding.
+- **Database & Coverage**: Scite indexes **1.6B+ citations** across **300M+ articles, preprints, books, patents, clinical trials, grants, and datasets**, with direct publisher agreements (e.g., Wiley, SAGE) enabling full-text search beyond abstracts.
+
+- **Smart Citations & AI Assistant**: Uses **Smart Citations** to classify evidence as supporting, contrasting, or mentioning a claim, while the AI Assistant generates verifiable answers grounded in specific paper sentences with citation links for real-time verification.
+
+- **Integration & Workflow**: Supports **MCP-compatible tools (Claude/ChatGPT), Zotero, browser extensions, and APIs**, allowing seamless adoption without workflow disruption.
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:23:25.069100+05:30
+- Published: 2026-08-07T08:55:31.438635+05:30
 
 ## Related Tags
 

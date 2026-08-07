@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-07-21T22:13:07.266987+05:30'
-published_at: '2026-07-20T20:54:26Z'
+collected_at: '2026-08-07T08:50:13.757335+05:30'
+published_at: '2026-08-06T20:35:40Z'
 tags:
 - benchmark
 - dataset
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-07-21T22:13:07.266987+05:30'
-last_seen: '2026-07-21T22:13:07.266987+05:30'
-last_checked: '2026-07-21T22:13:07.266987+05:30'
+first_seen: '2026-08-07T08:50:13.757335+05:30'
+last_seen: '2026-08-07T08:50:13.757335+05:30'
+last_checked: '2026-08-07T08:50:13.757335+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 - **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Scope**: Provides a structured dataset of hallucinated and non-hallucinated responses, enabling fine-grained analysis of RAG model failures in real-world retrieval-augmented scenarios.
+- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures in factual consistency, context adherence, and retrieval accuracy.
 
-- **Implementation**: Python-based repository with tools for dataset generation, evaluation metrics, and baseline model benchmarks to facilitate reproducible research in hallucination mitigation.
+- **Implementation**: Python-based repository with tools for dataset generation, evaluation metrics, and baseline model benchmarks to facilitate reproducible research in hallucination detection and mitigation.
 
 ## Why It Matters
 
@@ -45,10 +45,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: ParticleMedia
 - Stars: 260
-- Forks: 34
+- Forks: 35
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-20T20:54:26Z
+- Last Updated: 2026-08-06T20:35:40Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-26T05:41:01Z

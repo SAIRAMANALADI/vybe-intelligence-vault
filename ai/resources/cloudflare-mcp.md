@@ -4,23 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/mcp
-collected_at: '2026-07-21T22:19:13.489099+05:30'
-published_at: '2026-07-21T12:27:49Z'
+collected_at: '2026-08-05T17:08:25.999516+05:30'
+published_at: '2026-08-05T02:03:44Z'
 tags:
 - github-repo
-- scripts
 - typescript
-stars: 653
+stars: 700
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-01-29T15:10:49Z'
-pushed_at: '2026-07-20T19:09:39Z'
+pushed_at: '2026-08-04T21:10:02Z'
 resource_id: github:cloudflare/mcp
-first_seen: '2026-07-21T22:19:13.489099+05:30'
-last_seen: '2026-07-21T22:19:13.489099+05:30'
-last_checked: '2026-07-21T22:19:13.489099+05:30'
+first_seen: '2026-08-05T17:08:25.999516+05:30'
+last_seen: '2026-08-05T17:08:25.999516+05:30'
+last_checked: '2026-08-05T17:08:25.999516+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP server** providing programmatic access to Cloudflare's API for automation and integration with MCP-compatible clients.
-- **Enables management of Cloudflare Workers and broader Cloudflare services** via standardized MCP protocol for tool interoperability.
-- **Last updated July 2026**, indicating active maintenance and alignment with Cloudflare API updates.
+- **TypeScript-based MCP server** for interacting with Cloudflare's API, enabling programmatic management of Cloudflare services (e.g., Workers, DNS, R2) via the MCP protocol.
+- **Supports Cloudflare Workers** integration, allowing dynamic deployment and configuration of serverless functions through MCP-compatible clients.
+- **Last updated August 2026**, with 700 stars and 87 forks, indicating active maintenance and community adoption.
 
 ## Why It Matters
 
@@ -39,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cloudflare
-- Stars: 653
-- Forks: 78
+- Stars: 700
+- Forks: 87
 - Language: TypeScript
 - Topics: cloudflare, cloudflare-workers, mcp, mcp-server
-- Last Updated: 2026-07-21T12:27:49Z
+- Last Updated: 2026-08-05T02:03:44Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-29T15:10:49Z
-- Pushed At: 2026-07-20T19:09:39Z
+- Pushed At: 2026-08-04T21:10:02Z
 
 ## Possible Use Cases
 

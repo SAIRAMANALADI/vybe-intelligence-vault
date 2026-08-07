@@ -1,13 +1,30 @@
 ---
-title: "Guilhermepelido/hermes-optimization-guide"
-category: "Tooling"
-tech_stack: ["Windows", "Shell", "LightRAG", "Telegram API", "Python (implied)", "GUI Framework (unspecified)"]
+title: Guilhermepelido/hermes-optimization-guide
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Windows
+- Shell
+- LightRAG
+- Telegram API
+- Python (implied)
+- GUI Framework (unspecified)
 quality_score: 7
 rag_relevance: 6
-tags: ["agent management", "no-code automation", "document retrieval", "Telegram integration", "skill configuration"]
-source: "https://github.com/Guilhermepelido/hermes-optimization-guide"
-discovered_at: "2026-07-11T11:03:46Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- agent management
+- no-code automation
+- document retrieval
+- Telegram integration
+- skill configuration
+source: https://github.com/Guilhermepelido/hermes-optimization-guide
+stars: 2
+language: Shell
+last_updated: '2026-07-11T11:00:57Z'
+discovered_at: '2026-07-11T11:03:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

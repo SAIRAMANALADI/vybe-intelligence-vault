@@ -3,9 +3,9 @@ title: Configure imaging
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-07-21T22:19:45.507251+05:30'
-collected_at: '2026-07-21T22:19:45.507269+05:30'
+source_url: https://gohugo.io/configuration/imaging/#avif-images
+published_at: '2026-08-06T17:14:55.058345+05:30'
+collected_at: '2026-08-06T17:14:55.058361+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-07-21T22:19:45.507269+05:30'
-last_seen: '2026-07-21T22:19:45.507269+05:30'
-last_checked: '2026-07-21T22:19:45.507269+05:30'
+first_seen: '2026-08-06T17:14:55.058361+05:30'
+last_seen: '2026-08-06T17:14:55.058361+05:30'
+last_checked: '2026-08-06T17:14:55.058361+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,15 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, with format-specific configs for AVIF (`lossy` compression, `quality: 60`), JPEG (`quality: 75`), and WebP (`lossy` compression, `quality: 75`, `method: 2`).
+- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, with format-specific defaults for AVIF (`quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`quality: 75`, `method: 2`).
 
-- **Exif Metadata Control**: Configurable via `meta.fields` (glob-based field filtering) and `meta.sources` (sources: `exif`, `iptc`, `xmp`), with default exclusion of technical fields (e.g., `GPS`, `Exif`, `Sharp`) to optimize performance.
+- **Format-Specific Configurations**:
+  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed` (1-10), `hint` (e.g., `photo`, `text`), and `quality` (1-100).
+  - **WebP**: Configurable via `compression`, `hint`, `method` (0-6), `quality` (1-100), and `useSharpYuv` (bool).
 
-- **Deprecated Top-Level Settings**: `compression`, `hint`, and `quality` are deprecated in favor of format-specific settings (e.g., `imaging.avif.compression`, `imaging.jpeg.quality`). `resampleFilter` supports options like `lanczos`, `catmullRom`, or `nearestNeighbor` for resizing.
+- **Metadata Control**:
+  - **Exif Filtering**: Excludes fields like `GPS`, `Exif`, `Contrast` by default; customizable via `excludeFields`/`includeFields`.
+  - **Meta Method**: Uses `fields` (glob patterns) and `sources` (`exif`, `iptc`, `xmp`) to optimize metadata extraction for build performance.
 
 ## Why It Matters
 
@@ -37,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T22:19:45.507251+05:30
+- Published: 2026-08-06T17:14:55.058345+05:30
 
 ## Related Tags
 
@@ -48,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://gohugo.io/configuration/imaging/#avif
+Original source: https://gohugo.io/configuration/imaging/#avif-images

@@ -3,7 +3,7 @@ title: LlamaParse Platform Quickstart | Developer Documentation
 archive_category: evals-and-benchmarks
 source_category: ai/agents
 source_url: https://developers.llamaindex.ai/
-resource_id: blog:llamaparse-platform-quickstart-developer-documenta
+resource_id: blog:llamaparse-platform-quickstart-developer-documenta-cf3e7c5c
 local_vault_path: ai/agents/llamaparse-platform-quickstart-developer-documenta.md
 quality_score: 70
 archive_score: 72

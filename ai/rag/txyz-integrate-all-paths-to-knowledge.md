@@ -3,9 +3,9 @@ title: TXYZ - Integrate all paths to knowledge
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.txyz.ai/
-published_at: '2026-07-20T22:23:26.787874+05:30'
-collected_at: '2026-07-20T22:23:26.787889+05:30'
+source_url: https://txyz.ai
+published_at: '2026-08-06T17:15:52.518177+05:30'
+collected_at: '2026-08-06T17:15:52.518195+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:txyz-integrate-all-paths-to-knowledge
-first_seen: '2026-07-20T22:23:26.787889+05:30'
-last_seen: '2026-07-20T22:23:26.787889+05:30'
-last_checked: '2026-07-20T22:23:26.787889+05:30'
+first_seen: '2026-08-06T17:15:52.518195+05:30'
+last_seen: '2026-08-06T17:15:52.518195+05:30'
+last_checked: '2026-08-06T17:15:52.518195+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **TXYZ Platform**: Offers four core products—**Searching** (AI-driven knowledge discovery), **Reading** (AI-augmented document analysis), **Writing** (AI-assisted content generation), and **API** (enterprise-grade integration)—with tiered pricing (Free, Pro at $96/year, Ultra at $288/year) featuring escalating usage limits, context windows (up to 3x Pro’s in Ultra), and agentic workflows.
+- **TXYZ AI Platform** offers modular products: **Searching** (knowledge discovery), **Reading** (AI-powered document analysis), **Writing** (agentic workflow for content generation), and **API** (enterprise integration with AI capabilities).
 
-- **Privacy & Security**: Uploaded documents are **private by default**, with deletion triggering removal from the database; API access available for institutional/enterprise integration via `support@txyz.ai`.
+- **Pricing tiers**: **Free** (basic AI assistance, 100-page limit, 30-day history), **Pro** ($96/year, extended limits, full library access, 90-day history), **Ultra** ($288/year, 300-page limit, 3x context window, premium workflows).
 
-- **Reliability Mechanisms**: Implements **retrieval-augmented generation (RAG)** to mitigate hallucinations, providing **document-location references** for answers; supports **500K+ researchers** across academic, industry R&D, and market research use cases.
+- **Privacy & reliability**: Uploaded documents remain private and deletable; responses minimize hallucinations via retrieval-augmented generation with document citation references. API access available for enterprise integration.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:23:26.787874+05:30
+- Published: 2026-08-06T17:15:52.518177+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.txyz.ai/
+Original source: https://txyz.ai

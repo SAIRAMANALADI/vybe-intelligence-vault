@@ -1,13 +1,30 @@
 ---
-title: "csitte/mailwarden"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Gmail API", "OAuth 2.0", "Model Context Protocol (MCP)", "Vitest"]
+title: csitte/mailwarden
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Node.js
+- Gmail API
+- OAuth 2.0
+- Model Context Protocol (MCP)
+- Vitest
 quality_score: 9
 rag_relevance: 8
-tags: ["Gmail integration", "MCP server", "snooze functionality", "real-time mailbox control", "AI assistant tools"]
-source: "https://github.com/csitte/mailwarden"
-discovered_at: "2026-07-19T16:57:58Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- Gmail integration
+- MCP server
+- snooze functionality
+- real-time mailbox control
+- AI assistant tools
+source: https://github.com/csitte/mailwarden
+stars: 0
+language: TypeScript
+last_updated: '2026-07-19T16:50:51Z'
+discovered_at: '2026-07-19T16:57:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

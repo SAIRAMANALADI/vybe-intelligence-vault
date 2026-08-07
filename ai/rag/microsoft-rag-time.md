@@ -4,18 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-07-21T09:15:02.667744+05:30'
-published_at: '2026-07-18T00:39:16Z'
+collected_at: '2026-08-06T14:28:00.973694+05:30'
+published_at: '2026-08-06T05:36:52Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - models
 - openai
 - rag
-- reddit
-stars: 894
+stars: 898
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-07-21T09:15:02.667744+05:30'
-last_seen: '2026-07-21T09:15:02.667744+05:30'
-last_checked: '2026-07-21T09:15:02.667744+05:30'
+first_seen: '2026-08-06T14:28:00.973694+05:30'
+last_seen: '2026-08-06T14:28:00.973694+05:30'
+last_checked: '2026-08-06T14:28:00.973694+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **5-week structured curriculum** covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like **binary/scalar quantization**, **Matryoshka representation learning**, and **HNSW indexing** for efficient retrieval.
-- **Hands-on implementation** using **Jupyter Notebooks**, **Azure OpenAI**, and **Visual Studio Code**, with modules on **responsible AI**, **multimodal RAG**, and **LLM integration**.
-- **Optimized search pipelines** demonstrated, including **scalar/binary quantization** for storage efficiency and **HNSW** for low-latency vector search, with benchmarks for performance.
+- **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, vector indexing, and quantization methods (binary/scalar) for efficient LLM augmentation.
+
+- **Key Technologies**: Integrates Azure, OpenAI APIs, HNSW (Hierarchical Navigable Small World) for vector search, and Matryoshka Representation Learning for scalable embeddings, with tooling in Jupyter Notebooks and VS Code.
+
+- **Responsible AI & Multimodality**: Emphasizes responsible AI practices alongside multimodal RAG, combining keyword, vector, and hybrid search for robust generative AI applications.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 894
-- Forks: 316
+- Stars: 898
+- Forks: 318
 - Language: Jupyter Notebook
 - Topics: ai, azure, binary-quantization, generative-ai, gpt, hnsw, hybrid-search, indexing, keyword-search, language-model, llm, matryoshka-representation-learning, multimodal, openai, rag, responsible-ai, retrieval-augmented-generation, scalar-quantization, vector-search, visual-studio-code
-- Last Updated: 2026-07-18T00:39:16Z
+- Last Updated: 2026-08-06T05:36:52Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-11T17:25:02Z

@@ -1,13 +1,30 @@
 ---
-title: "Tanq16/claudex"
-category: "Tooling"
-tech_stack: ["Go", "CLI", "OAuth", "PKCE", "Node.js", "Shell scripting"]
+title: Tanq16/claudex
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- CLI
+- OAuth
+- PKCE
+- Node.js
+- Shell scripting
 quality_score: 9
 rag_relevance: 6
-tags: ["multi-account management", "Claude Code", "CLI tool", "session switching", "usage tracking"]
-source: "https://github.com/Tanq16/claudex"
-discovered_at: "2026-07-15T05:29:48Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- multi-account management
+- Claude Code
+- CLI tool
+- session switching
+- usage tracking
+source: https://github.com/Tanq16/claudex
+stars: 3
+language: Go
+last_updated: '2026-07-15T05:21:12Z'
+discovered_at: '2026-07-15T05:29:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

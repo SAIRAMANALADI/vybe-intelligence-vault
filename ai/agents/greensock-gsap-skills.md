@@ -4,26 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-07-21T22:15:42.540112+05:30'
-published_at: '2026-07-21T16:42:37Z'
+collected_at: '2026-08-07T08:52:49.011655+05:30'
+published_at: '2026-08-07T03:13:56Z'
 tags:
 - agents
 - animation
 - github-repo
 - hackernews
 - unknown
-- workflows
-stars: 12112
+stars: 13140
 language: Unknown
 status: active
 license: MIT
 archived: false
 created_at: '2026-03-04T17:22:35Z'
-pushed_at: '2026-04-21T23:47:09Z'
+pushed_at: '2026-07-29T17:36:08Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-07-21T22:15:42.540112+05:30'
-last_seen: '2026-07-21T22:15:42.540112+05:30'
-last_checked: '2026-07-21T22:15:42.540112+05:30'
+first_seen: '2026-08-07T08:52:49.011655+05:30'
+last_seen: '2026-08-07T08:52:49.011655+05:30'
+last_checked: '2026-08-07T08:52:49.011655+05:30'
 health_score: 100
 ---
 
@@ -32,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **GSAP AI Skills Repository**: Provides structured training for AI coding agents on GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Scope**: Includes advanced animation techniques, performance optimization, and correct usage of GSAP plugins (e.g., ScrollTrigger, MorphSVG).
-- **Repository Metadata**: 12.1k stars, 711 forks, last updated July 21, 2026; language unspecified but focuses on GSAP-specific workflows.
+- **Technical Scope**: Includes tutorials on core GSAP features (e.g., `TweenLite`, `TimelineMax`), performance optimization, and advanced animation techniques.
+- **Repository Metadata**: 13,140 stars, 777 forks, last updated 2026-08-07 (language unspecified, no additional topics listed).
 
 ## Why It Matters
 
@@ -42,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 12112
-- Forks: 711
+- Stars: 13140
+- Forks: 777
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-21T16:42:37Z
+- Last Updated: 2026-08-07T03:13:56Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z
-- Pushed At: 2026-04-21T23:47:09Z
+- Pushed At: 2026-07-29T17:36:08Z
 
 ## Possible Use Cases
 

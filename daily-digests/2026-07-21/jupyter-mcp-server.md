@@ -1,13 +1,30 @@
 ---
-title: "datalayer/jupyter-mcp-server"
-category: "Orchestrator"
-tech_stack: ["Python", "Jupyter Notebook", "Model Context Protocol (MCP)", "Docker", "OpenTelemetry", "PyCRDT"]
+title: datalayer/jupyter-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- Jupyter Notebook
+- Model Context Protocol (MCP)
+- Docker
+- OpenTelemetry
+- PyCRDT
 quality_score: 9
 rag_relevance: 9
-tags: ["Jupyter integration", "MCP server", "real-time notebook control", "AI agent tools", "multimodal execution"]
-source: "https://github.com/datalayer/jupyter-mcp-server"
-discovered_at: "2026-07-11T05:39:30Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- Jupyter integration
+- MCP server
+- real-time notebook control
+- AI agent tools
+- multimodal execution
+source: https://github.com/datalayer/jupyter-mcp-server
+stars: 1206
+language: Python
+last_updated: '2026-07-11T05:20:03Z'
+discovered_at: '2026-07-11T05:39:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

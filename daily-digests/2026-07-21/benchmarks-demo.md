@@ -1,13 +1,31 @@
 ---
-title: "lohchanhin/benchmarks-demo"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Vertex Palace", "Codex", "GitHub Actions", "Zod", "Requests"]
+title: lohchanhin/benchmarks-demo
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- JavaScript
+- Node.js
+- Vertex Palace
+- Codex
+- GitHub Actions
+- Zod
+- Requests
 quality_score: 9
 rag_relevance: 7
-tags: ["benchmarking", "A/B testing", "Vertex Palace", "Codex evaluation", "reproducibility"]
-source: "https://github.com/lohchanhin/benchmarks-demo"
-discovered_at: "2026-07-19T19:13:26Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- benchmarking
+- A/B testing
+- Vertex Palace
+- Codex evaluation
+- reproducibility
+source: https://github.com/lohchanhin/benchmarks-demo
+stars: 0
+language: JavaScript
+last_updated: '2026-07-19T19:03:08Z'
+discovered_at: '2026-07-19T19:13:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

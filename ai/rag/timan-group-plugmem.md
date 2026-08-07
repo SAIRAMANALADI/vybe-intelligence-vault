@@ -4,25 +4,37 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIMAN-group/PlugMem
-collected_at: '2026-06-11T13:06:47.682209+00:00'
-published_at: '2026-06-11T10:24:48Z'
+collected_at: '2026-08-07T08:52:03.911702+05:30'
+published_at: '2026-08-07T03:06:45Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 146
+- workflows
+stars: 226
 language: Python
-status: new
+status: active
+license: Apache-2.0
+archived: false
+created_at: '2026-02-09T22:43:38Z'
+pushed_at: '2026-07-09T05:51:21Z'
 resource_id: github:timan-group/plugmem
+first_seen: '2026-08-07T08:52:03.911702+05:30'
+last_seen: '2026-08-07T08:52:03.911702+05:30'
+last_checked: '2026-08-07T08:52:03.911702+05:30'
+health_score: 100
 ---
-
 
 # TIMAN-group/PlugMem
 
 ## Summary
 
-ICML 2026 · Plug-and-play long-term memory for LLM agents
+- **Plug-and-play long-term memory integration**: Introduces a modular framework enabling LLMs to dynamically attach/detach long-term memory modules without retraining, enhancing adaptability for agent-based tasks.
+
+- **Memory-augmented LLM agents**: Implements retrieval-augmented generation (RAG) with persistent, queryable memory storage to improve contextual reasoning and task continuity in agent workflows.
+
+- **Python-based implementation**: Provides an open-source toolkit with 226 stars and 21 forks, optimized for agent-memory systems and compatible with ICML 2026 research standards.
 
 ## Why It Matters
 
@@ -31,11 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TIMAN-group
-- Stars: 146
-- Forks: 14
+- Stars: 226
+- Forks: 21
 - Language: Python
 - Topics: agent-memory, llm-agent, rag
-- Last Updated: 2026-06-11T10:24:48Z
+- Last Updated: 2026-08-07T03:06:45Z
+- License: Apache-2.0
+- Archived: No
+- Created At: 2026-02-09T22:43:38Z
+- Pushed At: 2026-07-09T05:51:21Z
 
 ## Possible Use Cases
 

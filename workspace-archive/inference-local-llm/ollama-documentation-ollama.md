@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Local & Cloud Model Execution**: Ollama supports running open-source models locally or leveraging larger models via Ollama’s cloud infrastructure without local downloads.
+- **Local & Cloud Model Execution**: Ollama supports running models locally or leveraging larger models via Ollama’s cloud infrastructure, enabling scalable inference without local hardware constraints.
 
-- **API & SDK Support**: Provides RESTful API endpoints for local/cloud inference, along with Python and JavaScript/TypeScript libraries for programmatic integration.
+- **Multi-Language API Integration**: Provides SDKs (Python, JavaScript/TypeScript) and REST APIs for programmatic access, supporting local and cloud-based model interactions via standardized endpoints.
 
-- **Integration Ecosystem**: Offers pre-built integrations for apps, editors, and agents, with community support via Discord and Reddit.
+- **Extensible Ecosystem**: Offers pre-built integrations for apps, editors, and agents, alo
 
 ## Use Cases
 

@@ -1,13 +1,32 @@
 ---
-title: "tersignhq/tersign-js"
-category: "Tooling"
-tech_stack: ["TypeScript", "EIP-712", "secp256k1", "keccak256", "MCP (Model Context Protocol)", "npm", "Cloudflare D1", "RFC 8785 (JCS)"]
+title: tersignhq/tersign-js
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- EIP-712
+- secp256k1
+- keccak256
+- MCP (Model Context Protocol)
+- npm
+- Cloudflare D1
+- RFC 8785 (JCS)
 quality_score: 9
 rag_relevance: 8
-tags: ["evidence layer", "receipt verification", "agent economy", "compliance records", "dispute resolution"]
-source: "https://github.com/tersignhq/tersign-js"
-discovered_at: "2026-07-14T16:14:19Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- evidence layer
+- receipt verification
+- agent economy
+- compliance records
+- dispute resolution
+source: https://github.com/tersignhq/tersign-js
+stars: 1
+language: TypeScript
+last_updated: '2026-07-14T16:07:27Z'
+discovered_at: '2026-07-14T16:14:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

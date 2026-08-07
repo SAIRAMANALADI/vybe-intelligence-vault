@@ -3,27 +3,25 @@ title: Pretrained Models — Sentence Transformers documentation
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.sbert.net/docs/cross_encoder/pretrained_models.html
-published_at: '2026-07-21T19:57:00.827377+05:30'
-collected_at: '2026-07-21T19:57:00.827391+05:30'
+source_url: https://sbert.net/docs/sentence_transformer/pretrained_models.html
+published_at: '2026-08-06T09:15:56.174734+05:30'
+collected_at: '2026-08-06T09:15:56.174750+05:30'
 tags:
 - benchmark
 - dataset
 - hackernews
 - leaderboard
-- meta-ai
 - models
 - paper
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:pretrained-models-sentence-transformers-documentat
-first_seen: '2026-07-21T19:57:00.827391+05:30'
-last_seen: '2026-07-21T19:57:00.827391+05:30'
-last_checked: '2026-07-21T19:57:00.827391+05:30'
+first_seen: '2026-08-06T09:15:56.174750+05:30'
+last_seen: '2026-08-06T09:15:56.174750+05:30'
+last_checked: '2026-08-06T09:15:56.174750+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source) with optional CUDA-enabled PyTorch; editable installs available for development.
-- **Core Functionality**: Provides `SentenceTransformer` (bi-encoder), `CrossEncoder` (cross-attention), and `SparseEncoder` for embeddings, with APIs for semantic search, clustering, and retrieval-re-ranking pipelines.
-- **Advanced Features**: Includes quantization (binary/int8), multimodal model support (image/text, audio/video), and MTEB evaluation framework integration; supports custom model architectures and training workflows.
+- **Installation & Setup**: Supports multiple installation methods (`uv`, `pip`, `conda`, source, editable) with optional CUDA-accelerated PyTorch; migration guides detail breaking changes across major versions (e.g., renamed parameters like `CrossEncoder.max_length` → `max_seq_length`).
+
+- **Core Functionality**: Sentence Transformers enable embedding generation, semantic textual similarity, semantic search (symmetric/asymmetric), retrieve-&-re-rank pipelines, clustering (k-means, agglomerative), paraphrase mining, and multimodal (image/text) applications with efficiency optimizations (PyTorch/ONNX/OpenVINO).
+
+- **Training & Evaluation**: Custom models can be built via modular architecture or HuggingFace transformers; training involves components like loss functions (e.g., `MultipleNegativesRankingLoss`), evaluators (MTEB), and multi-dataset support, with pretrained models available for semantic search, multilingual, and scientific domains.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T19:57:00.827377+05:30
+- Published: 2026-08-06T09:15:56.174734+05:30
 
 ## Related Tags
 
@@ -51,15 +51,13 @@ General public resource representing technology updates, guides, or tutorials.
 - dataset
 - hackernews
 - leaderboard
-- meta-ai
 - models
 - paper
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source
 
-Original source: https://www.sbert.net/docs/cross_encoder/pretrained_models.html
+Original source: https://sbert.net/docs/sentence_transformer/pretrained_models.html

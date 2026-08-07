@@ -9,24 +9,24 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 ## Top Matched Resources
 
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) (template - USEFUL Tier)
-- [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (template - USEFUL Tier)
-- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) (template - USEFUL Tier)
-- [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui) (template - USEFUL Tier)
-- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) (template - USEFUL Tier)
-- [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio) (template - USEFUL Tier)
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (template - USEFUL Tier)
+- [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (benchmark - USEFUL Tier)
+- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
+- [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4) (template - USEFUL Tier)
+- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (template - USEFUL Tier)
+- [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) (template - USEFUL Tier)
+- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (template - USEFUL Tier)
+- [enesien/venefish](https://github.com/enesien/venefish) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
-- [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar)
-- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template)
-- [dan5py/react-vite-shadcn-ui](https://github.com/dan5py/react-vite-shadcn-ui)
-- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui)
-- [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio)
+- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
+- [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)
+- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
+- [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree)
+- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
+- [enesien/venefish](https://github.com/enesien/venefish)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-07-21 22:30 IST*
+*Last updated: 2026-08-07 09:08 IST*

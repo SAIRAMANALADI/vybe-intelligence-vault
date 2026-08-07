@@ -1,13 +1,32 @@
 ---
-title: "aliihsaad/the-vault"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "Node.js", "SQLite", "MCP (Model Context Protocol)", "Graphify", "pnpm", "React"]
+title: aliihsaad/the-vault
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- Graphify
+- pnpm
+- React
 quality_score: 9
 rag_relevance: 10
-tags: ["project memory", "AI agent continuity", "MCP server", "local-first", "multi-agent collaboration"]
-source: "https://github.com/aliihsaad/the-vault"
-discovered_at: "2026-07-12T08:15:40Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- project memory
+- AI agent continuity
+- MCP server
+- local-first
+- multi-agent collaboration
+source: https://github.com/aliihsaad/the-vault
+stars: 5
+language: TypeScript
+last_updated: '2026-07-12T08:08:58Z'
+discovered_at: '2026-07-12T08:15:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

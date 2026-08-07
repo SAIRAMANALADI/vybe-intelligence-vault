@@ -1,13 +1,29 @@
 ---
-title: "drhelius/Gearsystem"
-category: "Tooling"
-tech_stack: ["C++", "SDL3", "Model Context Protocol (MCP)", "Z80 Emulation", "RetroArch"]
+title: drhelius/Gearsystem
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- C++
+- SDL3
+- Model Context Protocol (MCP)
+- Z80 Emulation
+- RetroArch
 quality_score: 9
 rag_relevance: 7
-tags: ["emulator", "debugging", "retro-gaming", "AI-assisted tooling", "MCP server"]
-source: "https://github.com/drhelius/Gearsystem"
-discovered_at: "2026-07-17T21:52:33Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- emulator
+- debugging
+- retro-gaming
+- AI-assisted tooling
+- MCP server
+source: https://github.com/drhelius/Gearsystem
+stars: 380
+language: C++
+last_updated: '2026-07-17T21:45:50Z'
+discovered_at: '2026-07-17T21:52:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

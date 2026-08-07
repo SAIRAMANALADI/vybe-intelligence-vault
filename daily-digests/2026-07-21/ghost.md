@@ -1,13 +1,30 @@
 ---
-title: "wcatz/ghost"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "FTS5", "Ollama (embeddings)", "MCP (Model Context Protocol)", "Docker"]
+title: wcatz/ghost
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Go
+- SQLite
+- FTS5
+- Ollama (embeddings)
+- MCP (Model Context Protocol)
+- Docker
 quality_score: 9
 rag_relevance: 8
-tags: ["memory management", "MCP server", "local AI", "SQLite", "agent context"]
-source: "https://github.com/wcatz/ghost"
-discovered_at: "2026-07-20T09:59:39Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Low
+tags:
+- memory management
+- MCP server
+- local AI
+- SQLite
+- agent context
+source: https://github.com/wcatz/ghost
+stars: 1
+language: Go
+last_updated: '2026-07-20T09:54:27Z'
+discovered_at: '2026-07-20T09:59:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

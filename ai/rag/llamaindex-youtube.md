@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/@llamaindex
-published_at: '2026-07-20T20:15:54.077276+05:30'
-collected_at: '2026-07-20T20:15:54.077294+05:30'
+published_at: '2026-08-05T04:05:00.023874+05:30'
+collected_at: '2026-08-05T04:05:00.023888+05:30'
 tags:
 - hackernews
 - meta-ai
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llamaindex-youtube
-first_seen: '2026-07-20T20:15:54.077294+05:30'
-last_seen: '2026-07-20T20:15:54.077294+05:30'
-last_checked: '2026-07-20T20:15:54.077294+05:30'
+first_seen: '2026-08-05T04:05:00.023888+05:30'
+last_seen: '2026-08-05T04:05:00.023888+05:30'
+last_checked: '2026-08-05T04:05:00.023888+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers.
 
-- **Technical Infrastructure**: Utilizes Google’s distributed systems for content delivery, including adaptive bitrate streaming (e.g., DASH) and CDN-based global distribution for low-latency playback.
+- **Technical Infrastructure**: Utilizes Google’s distributed systems for scalable video storage, streaming, and recommendation algorithms (e.g., deep neural networks for personalized content delivery).
 
-- **Developer & API Access**: Provides APIs (YouTube Data API, YouTube Analytics API) for programmatic interaction, enabling integration with third-party applications and data-driven insights for content creators.
+- **API & Developer Tools**: Provides the YouTube Data API (v3) for programmatic access to video metadata, analytics, and live streaming, alongside tools for monetization, ads, and content management.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T20:15:54.077276+05:30
+- Published: 2026-08-05T04:05:00.023874+05:30
 
 ## Related Tags
 

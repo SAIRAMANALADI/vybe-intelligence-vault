@@ -4,21 +4,22 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/openai
-published_at: '2026-07-21T09:22:32.925892+05:30'
-collected_at: '2026-07-21T09:22:32.925900+05:30'
+published_at: '2026-08-04T22:46:44.892434+05:30'
+collected_at: '2026-08-04T22:46:44.892447+05:30'
 tags:
 - agents
 - benchmark
 - hackernews
 - openai
 - reddit
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:openai-github
-first_seen: '2026-07-21T09:22:32.925900+05:30'
-last_seen: '2026-07-21T09:22:32.925900+05:30'
-last_checked: '2026-07-21T09:22:32.925900+05:30'
+first_seen: '2026-08-04T22:46:44.892447+05:30'
+last_seen: '2026-08-04T22:46:44.892447+05:30'
+last_checked: '2026-08-04T22:46:44.892447+05:30'
 health_score: 100
 ---
 
@@ -26,11 +27,15 @@ health_score: 100
 
 ## Summary
 
-- **OpenAI's GitHub organization** hosts 264+ repositories, including verified official libraries (Python, JavaScript/TypeScript, Java, Go) and frameworks for API interactions, multi-agent workflows, and speech recognition (e.g., `openai-python`, `openai-node`, `whisper`).
+- **OpenAI's GitHub organization** (`openai`) is verified, with control over the domain `openai.com` and hosts 268+ repositories, including core projects like `whisper` (speech recognition), `evals` (LLM benchmarking), and `codex` (coding agent).
 
-- **Key technical projects** include `evals` (LLM benchmarking framework), `tiktoken` (BPE tokenizer for model tokenization), and `codex` (Rust-based terminal coding agent), all under Apache-2.0 or MIT licenses.
+- **Key technical repositories** include:
+  - `openai-cookbook` (Jupyter Notebooks for API usage)
+  - `tiktoken` (BPE tokenizer for model input processing)
+  - `openai-python`/`openai-node` (official SDKs for Python/JS/TS)
+  - `codex-security` (TypeScript SDK for vulnerability detection).
 
-- **Sponsorship network** includes 50+ sponsors and contributors like `@telepresenceio`, `@jyn514`, and `@eifinger`, with active development in Elixir (`symphony`), Rust (`codex`), and Python/TypeScript ecosystems.
+- **Additional tools** span infrastructure (`terraform-provider-openai`), networking (`softnet`), and VM automation (`tart`), with Rust/Go/TypeScript as primary languages and Apache-2.0/MIT licensing.
 
 ## Why It Matters
 
@@ -40,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-07-21T09:22:32.925892+05:30
+- Published: 2026-08-04T22:46:44.892434+05:30
 
 ## Related Tags
 
@@ -49,6 +54,7 @@ General public resource representing technology updates, guides, or tutorials.
 - hackernews
 - openai
 - reddit
+- scripts
 - web-crawled
 - workflows
 

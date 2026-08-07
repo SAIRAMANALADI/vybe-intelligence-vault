@@ -1,13 +1,34 @@
 ---
-title: "ethanvillalovoz/intellicrawl"
-category: "Tooling"
-tech_stack: ["Python", "LangGraph", "Firecrawl", "OpenAI", "Pydantic", "CLI", "Markdown", "JSON", "CSV", "GitHub Actions"]
+title: ethanvillalovoz/intellicrawl
+content_type: repo
+engine: v2
+category: daily-digests/2026-07-21
+tech_stack:
+- Python
+- LangGraph
+- Firecrawl
+- OpenAI
+- Pydantic
+- CLI
+- Markdown
+- JSON
+- CSV
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-tags: ["AI research agent", "developer tools comparison", "source-backed claims", "LangGraph workflow", "Firecrawl integration"]
-source: "https://github.com/ethanvillalovoz/intellicrawl"
-discovered_at: "2026-07-12T05:56:14Z"
-evaluated_by: "mistral-small-latest"
+deployment_complexity: Medium
+tags:
+- AI research agent
+- developer tools comparison
+- source-backed claims
+- LangGraph workflow
+- Firecrawl integration
+source: https://github.com/ethanvillalovoz/intellicrawl
+stars: 0
+language: Python
+last_updated: '2026-07-12T05:52:42Z'
+discovered_at: '2026-07-12T05:56:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
