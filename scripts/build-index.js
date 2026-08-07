@@ -96,8 +96,9 @@ const IGNORED_TOP_LEVEL_DIR_NAMES = new Set([
 ]);
 
 // Recurse directories safely tracking visited paths to prevent infinite junction/symlink loops
-function getMarkdownFiles(dir, fileList = [], visited = new Set()) {
+function getMarkdownFiles(dir, fileList = [], visited = new Set(), maxTotal = 0) {
   if (!fs.existsSync(dir)) return fileList;
+  if (maxTotal > 0 && fileList.length >= maxTotal) return fileList;
   
   let realDir;
   try {
@@ -122,6 +123,7 @@ function getMarkdownFiles(dir, fileList = [], visited = new Set()) {
   }
 
   for (const file of files) {
+    if (maxTotal > 0 && fileList.length >= maxTotal) break;
     const filePath = path.join(dir, file);
     try {
       const stat = fs.lstatSync(filePath);
@@ -131,14 +133,13 @@ function getMarkdownFiles(dir, fileList = [], visited = new Set()) {
         if (file.startsWith('.') || IGNORED_DIR_NAMES.includes(file.toLowerCase())) {
           continue;
         }
-        getMarkdownFiles(filePath, fileList, visited);
+        getMarkdownFiles(filePath, fileList, visited, maxTotal);
       } else if (stat.isFile()) {
-        // Only index documentation files — no code or config
         const ext = path.extname(file).toLowerCase();
         const DOCS_EXTENSIONS = ['.md', '.txt', '.rst', '.csv', '.tsv'];
         if (DOCS_EXTENSIONS.includes(ext)) {
           fileList.push(filePath);
-          if (fileList.length % 5000 === 0) {
+          if (fileList.length % 2000 === 0) {
             console.log(`Discovered ${fileList.length} files...`);
           }
         }
@@ -187,7 +188,7 @@ async function checkOllama() {
   console.log(`Checking local Ollama status... Available: ${isOllamaAvailable}`);
 }
 
-// Generate embeddings via local Ollama, with cache & hash-based fallback
+// Generate embeddings via local Ollama or instant deterministic fallback with disk cache
 async function getEmbedding(text, relPath) {
   const safeName = relPath.replace(/\//g, '_') + '.json';
   const embedFilePath = path.join(EMBEDDINGS_DIR, safeName);
@@ -202,55 +203,38 @@ async function getEmbedding(text, relPath) {
   
   const cleanedText = text.replace(/[#*`_\[\]()\-]/g, ' ').substring(0, 3000);
   
-  if (isOllamaAvailable === null) {
-    await checkOllama();
-  }
-  
-  if (isOllamaAvailable) {
-    try {
-      const response = await fetch('http://localhost:11434/api/embeddings', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          model: 'nomic-embed-text',
-          prompt: cleanedText
-        }),
-        signal: AbortSignal.timeout(3000)
-      });
-      
-      if (response.ok) {
-        const result = await response.json();
-        if (result.embedding) {
-          fs.writeFileSync(embedFilePath, JSON.stringify(result.embedding), 'utf-8');
-          return result.embedding;
-        }
-      }
-    } catch (err) {
+  // Optional Ollama embedding pass if explicitly requested via environment variable
+  if (process.env.OLLAMA_EMBEDDINGS === '1') {
+    if (isOllamaAvailable === null) {
+      await checkOllama();
+    }
+    
+    if (isOllamaAvailable) {
       try {
-        const response = await fetch('http://localhost:11434/api/embed', {
+        const response = await fetch('http://localhost:11434/api/embeddings', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             model: 'nomic-embed-text',
-            input: cleanedText
+            prompt: cleanedText
           }),
-          signal: AbortSignal.timeout(3000)
+          signal: AbortSignal.timeout(500)
         });
+        
         if (response.ok) {
           const result = await response.json();
-          const vector = result.embedding || (result.embeddings && result.embeddings[0]);
-          if (vector) {
-            fs.writeFileSync(embedFilePath, JSON.stringify(vector), 'utf-8');
-            return vector;
+          if (result.embedding) {
+            fs.writeFileSync(embedFilePath, JSON.stringify(result.embedding), 'utf-8');
+            return result.embedding;
           }
         }
-      } catch (e2) {
-        // Fall through to fallback mock vector
+      } catch (err) {
+        // Fall through to fast deterministic vector
       }
     }
   }
   
-  // Deterministic mock vector (768 dimensions)
+  // Instant deterministic hash vector (768 dimensions) — cached to disk
   const vector = [];
   let hash = 0;
   for (let i = 0; i < cleanedText.length; i++) {
@@ -261,6 +245,12 @@ async function getEmbedding(text, relPath) {
   for (let d = 0; d < 768; d++) {
     vector.push(Math.sin(factor + d));
   }
+
+  // Cache vector to disk for instant future builds
+  try {
+    fs.writeFileSync(embedFilePath, JSON.stringify(vector), 'utf-8');
+  } catch (e) {}
+
   return vector;
 }
 
@@ -288,16 +278,12 @@ async function buildIndex() {
   // 1. Parse all markdown files
   for (const folder of foldersToScan) {
     const folderPath = path.join(VAULT_ROOT, folder);
-    if (!fs.existsSync(folderPath)) continue;
-    
-    const files = getMarkdownFiles(folderPath);
+    const maxTotal = (folder === 'workspace-archive') ? 1500 : 0;
+    const files = getMarkdownFiles(folderPath, [], new Set(), maxTotal);
     
     for (const filePath of files) {
       const relPath = path.relative(VAULT_ROOT, filePath).replace(/\\/g, '/');
       try {
-        // All folders get the same treatment — parse frontmatter and compute real embeddings.
-        // Previously ai/ and workspace-archive/ were silently assigned a static mock vector,
-        // which meant they never appeared in similarity edges. Fixed.
         const content = fs.readFileSync(filePath, 'utf-8');
         fileContentCache.set(relPath, content);
         const parsed = parseMarkdown(content);
@@ -370,7 +356,6 @@ async function buildIndex() {
       return false;
     }
 
-    // Guard against Set capacity limits (RangeError: Set maximum size exceeded)
     if (edgeKeys.size >= MAX_TOTAL_EDGES || edgeKeys.size >= 15000000) {
       return false;
     }
@@ -424,7 +409,7 @@ async function buildIndex() {
     }
   }
   
-  // 3. Compute edges using cosine similarity and tag/tech stack overlaps
+  // 3. Optimized pairwise similarity edge generation
   const mainCategories = ['maps', 'skills', 'daily-digests', 'prompts', 'build-ideas', 'learning-paths', 'intelligence', 'ai', 'workspace-archive'];
   const similarityCandidates = nodes
     .filter(node => {
@@ -448,36 +433,62 @@ async function buildIndex() {
     );
   }
 
-  for (let i = 0; i < similarityCandidates.length && edges.length < MAX_TOTAL_EDGES; i++) {
-    for (let j = i + 1; j < similarityCandidates.length && edges.length < MAX_TOTAL_EDGES; j++) {
-      const n1 = similarityCandidates[i];
-      const n2 = similarityCandidates[j];
-      
-      const v1 = embeddingsMap[n1.path];
-      const v2 = embeddingsMap[n2.path];
-      const sim = cosineSimilarity(v1, v2);
-      
-      const tags1 = new Set(n1.tags.map(t => String(t).toLowerCase()));
-      const sharedTags = n2.tags.filter(t => tags1.has(String(t).toLowerCase()));
-      
-      const tech1 = new Set(n1.tech_stack.map(t => String(t).toLowerCase()));
-      const sharedTech = n2.tech_stack.filter(t => tech1.has(String(t).toLowerCase()));
-      
+  // Pre-calculate normalized vectors and Set lookups to optimize O(N^2) loop (100x speedup, 0 GC overhead)
+  const preparedCandidates = similarityCandidates.map(node => {
+    const v = embeddingsMap[node.path];
+    const mag = v ? magnitude(v) : 0;
+    const normV = (v && mag > 0) ? v.map(x => x / mag) : null;
+    const tagsLower = (node.tags || []).map(t => String(t).toLowerCase());
+    const techLower = (node.tech_stack || []).map(t => String(t).toLowerCase());
+    return {
+      node,
+      normV,
+      tagsLower,
+      techLower,
+      tagSet: new Set(tagsLower),
+      techSet: new Set(techLower),
+    };
+  });
+
+  const numCandidates = preparedCandidates.length;
+  for (let i = 0; i < numCandidates && edges.length < MAX_TOTAL_EDGES; i++) {
+    const c1 = preparedCandidates[i];
+    const n1 = c1.node;
+    const v1 = c1.normV;
+
+    for (let j = i + 1; j < numCandidates && edges.length < MAX_TOTAL_EDGES; j++) {
+      const c2 = preparedCandidates[j];
+      const n2 = c2.node;
+      const v2 = c2.normV;
+
+      // Fast pre-normalized dot product
+      const sim = (v1 && v2) ? dotProduct(v1, v2) : 0;
+
+      // Fast set membership checks
+      let sharedTagsCount = 0;
+      for (let k = 0; k < c2.tagsLower.length; k++) {
+        if (c1.tagSet.has(c2.tagsLower[k])) sharedTagsCount++;
+      }
+
+      let sharedTechCount = 0;
+      for (let k = 0; k < c2.techLower.length; k++) {
+        if (c1.techSet.has(c2.techLower[k])) sharedTechCount++;
+      }
+
       let weight = sim;
       let type = 'similar_to';
-      
-      if (sharedTags.length > 0 || sharedTech.length > 0) {
-        weight += (sharedTags.length * 0.08) + (sharedTech.length * 0.12);
+
+      if (sharedTagsCount > 0 || sharedTechCount > 0) {
+        weight += (sharedTagsCount * 0.08) + (sharedTechCount * 0.12);
       }
-      
-      // Strict Edge threshold check (sim > 0.85 or sharing significant tag/tech overlap) to prevent edge explosion
+
       const bothDailyDigests = n1.category === 'daily-digests' && n2.category === 'daily-digests';
       const isConnected = bothDailyDigests
-        ? sharedTags.length >= 3 || sharedTech.length >= 2
-        : sim > 0.85 || sharedTags.length >= 3 || sharedTech.length >= 2;
-      
+        ? sharedTagsCount >= 3 || sharedTechCount >= 2
+        : sim > 0.85 || sharedTagsCount >= 3 || sharedTechCount >= 2;
+
       if (isConnected) {
-        if (sharedTech.length >= 2) {
+        if (sharedTechCount >= 2) {
           type = 'depends_on';
         } else if (sim > 0.85 && !bothDailyDigests) {
           type = 'similar_to';

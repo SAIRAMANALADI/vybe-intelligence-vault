@@ -1,9 +1,20 @@
 {
-  "last_successful_run": "2026-07-21T22:47:25.627901+05:30",
-  "archive_status": "healthy",
-  "validation_status": "unhealthy",
-  "broken_links_count": 0,
-  "resources_scanned": 12247,
-  "resources_added": 15,
-  "resources_updated": 10
+  "timestamp": "2026-08-07T14:25:26.237466+05:30",
+  "overall_status": "healthy",
+  "warnings": [
+    "Local vault is behind remote by 537 commit(s).",
+    "GitHub Actions workflow file '.github/workflows/harvest-vault.yml' is missing.",
+    "GitHub Actions vault sync secrets are incomplete."
+  ],
+  "fixes_recommended": [
+    "Install Windows Task Scheduler startup task: powershell -ExecutionPolicy Bypass -File scripts\\install_startup_windows.ps1"
+  ],
+  "system_metrics": {
+    "python_version": "3.14.3",
+    "git_installed": true,
+    "vault_git_valid": true,
+    "vault_sync_lock_active": false,
+    "dependencies_ok": true,
+    "actions_workflow_ok": false
+  }
 }
