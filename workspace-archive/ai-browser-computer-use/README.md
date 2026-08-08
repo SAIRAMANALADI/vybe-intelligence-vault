@@ -13,9 +13,9 @@ Computer-use and browser agents transition AI from text engines to active workfl
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (tool - ESSENTIAL Tier)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) (framework - ESSENTIAL Tier)
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) (framework - ESSENTIAL Tier)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -26,7 +26,7 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq)
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-08-08 19:03 IST*
+*Last updated: 2026-08-08 21:37 IST*

@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-08T18:47:10.336943+05:30'
+collected_at: '2026-08-08T21:20:59.305425+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
-- dataset
 - github-repo
-- hackernews
 - jupyter notebook
+- meta-ai
 - models
 - rag
-- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-08T18:47:10.336943+05:30'
-last_seen: '2026-08-08T18:47:10.336943+05:30'
-last_checked: '2026-08-08T18:47:10.336943+05:30'
+first_seen: '2026-08-08T21:20:59.305425+05:30'
+last_seen: '2026-08-08T21:20:59.305425+05:30'
+last_checked: '2026-08-08T21:20:59.305425+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source tool for interactive visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and analysis of LLM-based systems.
-- **Technical Stack**: Built with Python, Streamlit (for UI), and Jupyter Notebooks; leverages visualization techniques to dissect RAG components (retrieval, generation, and intermediate steps).
-- **Features**: Real-time interactive exploration of RAG workflows, including query processing, document retrieval, and model outputs, with support for custom dataset integration.
+- **Purpose**: Open-source Python tool using Streamlit for interactive visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and analysis of LLM-based systems.
+- **Features**: Supports dynamic exploration of RAG components (retrievers, embeddings, prompts) via Jupyter Notebooks, with real-time metrics and dependency graphs.
+- **Tech Stack**: Built with Python, Streamlit (web UI), and integrates with common LLM frameworks (e.g., LangChain, LlamaIndex) for modular RAG pipeline inspection.
 
 ## Why It Matters
 

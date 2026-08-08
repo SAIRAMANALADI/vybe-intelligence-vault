@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-08T18:47:50.408664+05:30'
+collected_at: '2026-08-08T21:21:39.397106+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-08T18:47:50.408664+05:30'
-last_seen: '2026-08-08T18:47:50.408664+05:30'
-last_checked: '2026-08-08T18:47:50.408664+05:30'
+first_seen: '2026-08-08T21:21:39.397106+05:30'
+last_seen: '2026-08-08T21:21:39.397106+05:30'
+last_checked: '2026-08-08T21:21:39.397106+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), focusing on retrieval quality and generation performance in Chinese contexts.
+- **Benchmark Framework**: CRUD-RAG provides a Chinese-language benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on large language models (LLMs) with metrics for retrieval quality, generation accuracy, and end-to-end performance.
 
-- **CRUD Operations**: The benchmark incorporates Create, Read, Update, and Delete (CRUD) operations to assess dynamic RAG capabilities, including real-time knowledge updates and context management.
+- **CRUD Operations**: The repository implements Create, Read, Update, and Delete (CRUD) operations to dynamically modify knowledge bases, enabling assessment of RAG systems' adaptability to evolving data scenarios.
 
-- **Evaluation Metrics**: Includes standardized metrics for assessing retrieval precision, generation coherence, and end-to-end task completion, enabling comparative analysis across different RAG models.
+- **Evaluation Metrics**: Includes standardized metrics for assessing retrieval precision, context relevance, and response faithfulness in Chinese, supporting reproducible benchmarking across RAG models.
 
 ## Why It Matters
 

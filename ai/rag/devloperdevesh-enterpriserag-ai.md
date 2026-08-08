@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-08T18:48:00.411746+05:30'
+collected_at: '2026-08-08T21:21:49.394455+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-08T18:48:00.411746+05:30'
-last_seen: '2026-08-08T18:48:00.411746+05:30'
-last_checked: '2026-08-08T18:48:00.411746+05:30'
+first_seen: '2026-08-08T21:21:49.394455+05:30'
+last_seen: '2026-08-08T21:21:49.394455+05:30'
+last_checked: '2026-08-08T21:21:49.394455+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF (Extended Berkeley Packet Filter) for runtime monitoring, policy enforcement, and low-overhead system-level observability.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and low-overhead introspection of AI processes.
 
-- **Enterprise-Grade RAG Pipeline**: Features a TypeScript-based FastAPI backend with a Retrieval-Augmented Generation (RAG) architecture, integrating vector databases for scalable, context-aware AI workloads in SaaS environments.
+- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript components, optimized for SaaS AI deployments and vector database integration for scalable knowledge retrieval.
 
-- **AI Governance & Security**: Provides governance controls for AI agents, including access management, audit logging, and compliance enforcement, leveraging a modular design for extensibility in enterprise deployments.
+- **Governance & Security Focus**: Enforces fine-grained access controls, audit logging, and compliance policies for AI agents, leveraging eBPF for kernel-level security enforcement and real-time threat detection.
 
 ## Why It Matters
 

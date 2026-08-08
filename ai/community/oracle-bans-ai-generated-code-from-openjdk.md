@@ -13,13 +13,14 @@ collected_at: '2026-08-08T18:45:53.018283+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:oracle-bans-ai-generated-code-from-openjdk
 first_seen: '2026-08-08T12:47:41.498931+05:30'
 last_seen: '2026-08-08T18:45:53.018283+05:30'
 last_checked: '2026-08-08T18:45:53.018283+05:30'
 health_score: 100
 ---
+
 
 # Oracle bans AI-generated code from OpenJDK
 

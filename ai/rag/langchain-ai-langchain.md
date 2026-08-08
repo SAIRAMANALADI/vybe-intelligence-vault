@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langchain
-collected_at: '2026-08-08T18:50:15.547614+05:30'
-published_at: '2026-08-08T12:58:26Z'
+collected_at: '2026-08-08T21:24:04.527583+05:30'
+published_at: '2026-08-08T15:30:19Z'
 tags:
 - agents
 - anthropic
@@ -14,7 +14,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 143694
+stars: 143704
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2022-10-17T02:58:36Z'
 pushed_at: '2026-08-08T10:53:48Z'
 resource_id: github:langchain-ai/langchain
-first_seen: '2026-08-08T18:50:15.547614+05:30'
-last_seen: '2026-08-08T18:50:15.547614+05:30'
-last_checked: '2026-08-08T18:50:15.547614+05:30'
+first_seen: '2026-08-08T21:24:04.527583+05:30'
+last_seen: '2026-08-08T21:24:04.527583+05:30'
+last_checked: '2026-08-08T21:24:04.527583+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: Open-source Python framework (`langchain`) for building AI agents, supporting multi-agent systems, RAG, and integration with LLMs (OpenAI, Anthropic, Gemini) via modular abstractions.
-- **Key Components**: Includes `langgraph` for stateful workflows, `Pydantic` for structured data validation, and enterprise-grade tooling for scalability and deployment.
-- **Ecosystem**: Supports TypeScript (`langchainjs`), enterprise use cases, and tools like `DeepAgents` for advanced agent orchestration and generative AI pipelines.
+- **Framework**: Open-source Python library (`langchain`) for building AI agents, multi-agent systems, and generative AI applications with support for LLM integrations (OpenAI, Anthropic, Gemini), RAG, and enterprise features.
+- **Architecture**: Modular design leveraging `Pydantic` for data validation, `LangGraph` for stateful workflows, and extensible agent frameworks (`DeepAgents`) for complex multi-agent orchestration.
+- **Ecosystem**: Supports TypeScript via `langchain.js`, includes enterprise-grade tools, and integrates with vector databases, enterprise systems, and agentic workflows. Last updated: 2026-08-08.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 143694
-- Forks: 23939
+- Stars: 143704
+- Forks: 23940
 - Language: Python
 - Topics: agents, ai, ai-agents, anthropic, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag, typescript
-- Last Updated: 2026-08-08T12:58:26Z
+- Last Updated: 2026-08-08T15:30:19Z
 - License: MIT
 - Archived: No
 - Created At: 2022-10-17T02:58:36Z

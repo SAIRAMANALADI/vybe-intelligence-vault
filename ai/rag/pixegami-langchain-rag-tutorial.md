@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-08-08T18:46:45.342858+05:30'
+collected_at: '2026-08-08T21:20:34.307676+05:30'
 published_at: '2026-08-07T04:47:54Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
 stars: 982
@@ -17,9 +18,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-08-08T18:46:45.342858+05:30'
-last_seen: '2026-08-08T18:46:45.342858+05:30'
-last_checked: '2026-08-08T18:46:45.342858+05:30'
+first_seen: '2026-08-08T21:20:34.307676+05:30'
+last_seen: '2026-08-08T21:20:34.307676+05:30'
+last_checked: '2026-08-08T21:20:34.307676+05:30'
 health_score: 100
 ---
 
@@ -28,10 +29,8 @@ health_score: 100
 ## Summary
 
 - **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-
-- **Python-Based**: Entirely written in Python, leveraging LangChain's modular framework for LLM applications, with dependencies like `langchain`, `chromadb`, and `transformers`.
-
-- **Updated Structure**: Last modified in August 2026, includes core RAG components (e.g., vector stores, embeddings, and prompt templates) with minimal dependencies for educational purposes.
+- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM integration and vector storage (e.g., FAISS or Chroma).
+- **Modular Components**: Includes document loading (e.g., PDFs/text), text splitting, embedding (e.g., OpenAI `text-embedding-ada-002`), vector store setup, and retrieval-augmented query handling.
 
 ## Why It Matters
 

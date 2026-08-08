@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-08T18:47:00.372700+05:30'
+collected_at: '2026-08-08T21:20:49.335355+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
 - rag
+- workflows
 stars: 44
 language: Bicep
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-08T18:47:00.372700+05:30'
-last_seen: '2026-08-08T18:47:00.372700+05:30'
-last_checked: '2026-08-08T18:47:00.372700+05:30'
+first_seen: '2026-08-08T21:20:49.335355+05:30'
+last_seen: '2026-08-08T21:20:49.335355+05:30'
+last_checked: '2026-08-08T21:20:49.335355+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured Bicep-based framework for deploying Generative AI Ops (GenAIOps) solutions with Retrieval-Augmented Generation (RAG) capabilities on Azure.
-- **Infrastructure as Code**: Uses Bicep for declarative Azure resource provisioning, enabling reproducible GenAIOps environments (e.g., AI services, storage, networking).
-- **Project Skeleton**: Includes starter templates for RAG pipelines, with modular components for LLMs, vector databases, and monitoring (last updated May 2026).
+- **Infrastructure-as-Code (IaC) Template**: Uses Bicep to deploy Azure resources for a Generative AI Operations (GenAIOps) project, enabling reproducible RAG (Retrieval-Augmented Generation) pipeline infrastructure.
+
+- **RAG Pipeline Foundation**: Provides a starter template for building Retrieval-Augmented Generation (RAG) systems with Azure services, facilitating AI model integration and data retrieval workflows.
+
+- **Azure-Optimized Deployment**: Designed for seamless integration with Azure AI/ML services, supporting scalable GenAIOps workflows with minimal configuration overhead.
 
 ## Why It Matters
 

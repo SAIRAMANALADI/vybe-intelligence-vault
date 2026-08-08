@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://packaging.python.org/tutorials/packaging-projects/
-published_at: '2026-08-05T04:05:10.395323+05:30'
-collected_at: '2026-08-05T04:05:10.395334+05:30'
+published_at: '2026-08-08T21:30:00.619603+05:30'
+collected_at: '2026-08-08T21:30:00.619638+05:30'
 tags:
 - hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:packaging-python-projects-python-packaging-user-gu
-first_seen: '2026-08-05T04:05:10.395334+05:30'
-last_seen: '2026-08-05T04:05:10.395334+05:30'
-last_checked: '2026-08-05T04:05:10.395334+05:30'
+first_seen: '2026-08-08T21:30:00.619638+05:30'
+last_seen: '2026-08-08T21:30:00.619638+05:30'
+last_checked: '2026-08-08T21:30:00.619638+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Project Structure**: Python package requires a structured directory with `__init__.py` (empty or with package logic) and module files (e.g., `example.py` with functions like `add_one()`), typically under `src/<package_name>/`.
+- **Project Structure**: A Python package must follow a specific directory structure (e.g., `src/<package_name>/__init__.py` and `<module>.py`) with a `pyproject.toml` file defining build-system requirements (`build-backend` and `requires`), metadata (name, version, authors, license), and optional classifiers/URLs.
 
-- **Build Configuration**: `pyproject.toml` defines build backend (e.g., Hatchling/Setuptools), metadata (name, version, authors, classifiers), dependencies, and license files using `[project]` and `[build-system]` tables per [PEP 621](https://peps.python.org/pep-0621/) and [PEP 517](https://peps.python.org/pep-0517/).
+- **Build Backend Configuration**: The `pyproject.toml` specifies the build backend (e.g., Hatchling, Setuptools) via `[build-system]` section, which dictates how the package is built into a distribution (e.g., wheel or sdist), including dependencies and build process isolation.
 
-- **Distribution Generation**: Use `python -m build` (after installing `build`) to generate source (`sdist`) and wheel (`bdist_wheel`) distributions in `dist/`, which are uploaded to PyPI for installation via `pip`.
+- **Distribution Generation**: Use `python -m build` (after installing `build`) to generate distribution archives (wheel and sdist) in the `dist/` directory, which are then uploaded to PyPI for installation via `pip`.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T04:05:10.395323+05:30
+- Published: 2026-08-08T21:30:00.619603+05:30
 
 ## Related Tags
 

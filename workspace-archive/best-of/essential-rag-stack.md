@@ -18,6 +18,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `91` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`lancedb-vectordb-recipes.md`](../../ai/rag/lancedb-vectordb-recipes.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
@@ -28,15 +33,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `90` | **Path**: [`rag-application-tutorial-2025-build-production-rea.md`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`lancedb-vectordb-recipes.md`](../../ai/rag/lancedb-vectordb-recipes.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [weaviate/Verba](https://github.com/weaviate/Verba)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
@@ -47,16 +57,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`zilliztech-milvus-cli.md`](../../ai/rag/zilliztech-milvus-cli.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [huggingface/hub-docs](https://github.com/huggingface/hub-docs)
-- **Category**: `ai/resources` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`huggingface-hub-docs.md`](../../ai/resources/huggingface-hub-docs.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-08 19:03 IST*
+*Last updated: 2026-08-08 21:37 IST*

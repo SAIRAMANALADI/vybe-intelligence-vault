@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-08-08T18:47:40.353808+05:30'
+collected_at: '2026-08-08T21:21:29.377786+05:30'
 published_at: '2026-08-07T13:18:27Z'
 tags:
 - github-repo
-- hackernews
 - html
 - rag
+- scripts
 stars: 1408
 language: HTML
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-07-28T18:48:15Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-08-08T18:47:40.353808+05:30'
-last_seen: '2026-08-08T18:47:40.353808+05:30'
-last_checked: '2026-08-08T18:47:40.353808+05:30'
+first_seen: '2026-08-08T21:21:29.377786+05:30'
+last_seen: '2026-08-08T21:21:29.377786+05:30'
+last_checked: '2026-08-08T21:21:29.377786+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
-- **Covers** generative AI projects, inference engines, and retrieval-augmented generation (RAG) systems for optimized web search.
-- **Hosted on Hugging Face Spaces** with an open-source GitHub repository (HTML-based) tracking 1,408 stars and 121 forks, last updated August 2026.
+- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and generative AI for enhanced query processing and information retrieval.
+- **Covers metasearch engines, Q&A systems, and AI search assistants** with support for real-time web scraping and structured data extraction.
+- **Open-source & Hugging Face integration** with active community contributions, last updated August 2026.
 
 ## Why It Matters
 

@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-08-08T18:49:05.469521+05:30'
-published_at: '2026-08-08T13:18:13Z'
+collected_at: '2026-08-08T21:22:54.418954+05:30'
+published_at: '2026-08-08T14:59:38Z'
 tags:
 - agents
 - animation
 - github-repo
 - hackernews
 - unknown
-stars: 13231
+stars: 13234
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-07-29T17:36:08Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-08-08T18:49:05.469521+05:30'
-last_seen: '2026-08-08T18:49:05.469521+05:30'
-last_checked: '2026-08-08T18:49:05.469521+05:30'
+first_seen: '2026-08-08T21:22:54.418954+05:30'
+last_seen: '2026-08-08T21:22:54.418954+05:30'
+last_checked: '2026-08-08T21:22:54.418954+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Official resource for training AI agents on GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Focus**: Provides structured guidance on GSAP usage, including advanced techniques and optimization strategies for animations.
-- **Repository Stats**: 13,231 stars, 782 forks, last updated August 8, 2026.
+- **GSAP AI Skills Repository**: Official resource for training AI coding agents on GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
+- **Technical Scope**: Includes optimized GSAP usage patterns, performance considerations, and advanced animation techniques for AI-driven development.
+- **Metadata**: 13,234 stars, 782 forks, last updated 2026-08-08; language unspecified, no additional topics listed.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 13231
+- Stars: 13234
 - Forks: 782
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-08T13:18:13Z
+- Last Updated: 2026-08-08T14:59:38Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

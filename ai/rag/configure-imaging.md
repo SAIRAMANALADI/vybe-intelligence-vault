@@ -3,9 +3,9 @@ title: Configure imaging
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/configuration/imaging/#avif-images
-published_at: '2026-08-08T18:52:55.706356+05:30'
-collected_at: '2026-08-08T18:52:55.706375+05:30'
+source_url: https://gohugo.io/configuration/imaging/#avif
+published_at: '2026-08-08T21:26:18.133259+05:30'
+collected_at: '2026-08-08T21:26:18.133269+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-08-08T18:52:55.706375+05:30'
-last_seen: '2026-08-08T18:52:55.706375+05:30'
-last_checked: '2026-08-08T18:52:55.706375+05:30'
+first_seen: '2026-08-08T21:26:18.133269+05:30'
+last_seen: '2026-08-08T21:26:18.133269+05:30'
+last_checked: '2026-08-08T21:26:18.133269+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Imaging Settings**: Anchor set to `smart`, background color `#ffffff`, resample filter `box`, with format-specific defaults for AVIF (`lossy`, `quality=60`, `encoderSpeed=10`), JPEG (`quality=75`), and WebP (`lossy`, `quality=75`, `method=2`).
+- **Image Processing Configuration**: Default settings include `anchor: smart`, `bgColor: ffffff`, `resampleFilter: box`, with format-specific optimizations for AVIF (`lossy` compression, `quality: 60`), JPEG (`quality: 75`), and WebP (`lossy` compression, `method: 2`, `quality: 75`).
 
-- **Exif/Meta Configuration**: Excludes fields like `GPS`, `Exif`, `Exposure[M|P|B]`, `Contrast`, etc., by default; supports customizable glob patterns for `fields` and sources (`exif`, `iptc`, `xmp`).
+- **Exif Metadata Control**: Excludes fields like `GPS`, `Exif`, `Exposure[M|P|B]`, and others by default; supports customization via `excludeFields`/`includeFields` and sources (`exif`, `iptc`, `xmp`).
 
-- **Deprecated/Replaced Parameters**: `compression`, `hint`, and `quality` are deprecated in favor of format-specific settings (e.g., `imaging.avif.compression`); `Meta` method replaces deprecated `Exif` method for metadata extraction.
+- **Deprecated/Replaced Settings**: Top-level `compression`, `hint`, and `quality` are deprecated (v0.163.0); replaced by format-specific equivalents (AVIF, WebP, JPEG).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T18:52:55.706356+05:30
+- Published: 2026-08-08T21:26:18.133259+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://gohugo.io/configuration/imaging/#avif-images
+Original source: https://gohugo.io/configuration/imaging/#avif

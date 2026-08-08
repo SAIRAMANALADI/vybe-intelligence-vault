@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-08T18:48:20.402178+05:30'
+collected_at: '2026-08-08T21:22:09.416151+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
-- paper
+- models
 - python
 - rag
 stars: 174
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-08T18:48:20.402178+05:30'
-last_seen: '2026-08-08T18:48:20.402178+05:30'
-last_checked: '2026-08-08T18:48:20.402178+05:30'
+first_seen: '2026-08-08T21:22:09.416151+05:30'
+last_seen: '2026-08-08T21:22:09.416151+05:30'
+last_checked: '2026-08-08T21:22:09.416151+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence, entity-level), leveraging unified embeddings and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) without requiring modality-specific fine-tuning.
 
-- **ACL 2026 Oral Paper**: Presents a novel architecture with cross-modal retrieval strategies, dynamic granularity selection, and modality-agnostic indexing to optimize generation quality for heterogeneous corpora.
+- **Unified Retrieval Mechanism**: Implements a modality-agnostic retrieval system using contrastive learning and cross-modal attention to align heterogeneous data representations into a shared embedding space.
 
-- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for modality-specific encoders, retrieval pipelines, and generation integration, supporting extensibility for custom corpora and tasks.
+- **Dynamic Adaptation**: Supports dynamic corpus updates and adaptive retrieval strategies, leveraging a lightweight adapter module to optimize performance for new modalities or granularities without full retraining.
 
 ## Why It Matters
 

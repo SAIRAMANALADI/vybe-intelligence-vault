@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-08T18:48:35.427697+05:30'
+collected_at: '2026-08-08T21:22:24.406581+05:30'
 published_at: '2026-08-08T09:24:36Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-07T09:41:40Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-08T18:48:35.427697+05:30'
-last_seen: '2026-08-08T18:48:35.427697+05:30'
-last_checked: '2026-08-08T18:48:35.427697+05:30'
+first_seen: '2026-08-08T21:22:24.406581+05:30'
+last_seen: '2026-08-08T21:22:24.406581+05:30'
+last_checked: '2026-08-08T21:22:24.406581+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent architectures**: Repository focuses on systems integrating multiple AI agents with specialized skills (e.g., planning, reasoning loops) for complex workflows.
-- **Agentic AI development**: Provides Jupyter Notebook-based tutorials on agentic frameworks, memory management, and RAG (Retrieval-Augmented Generation) integration.
-- **Technical depth**: Covers agentic coding, engineering, and workflow optimization, emphasizing practical implementation of autonomous AI systems.
+- **Multi-agent architectures**: Repository provides Jupyter Notebook-based implementations of agentic AI systems, focusing on **collaborative multi-agent frameworks** for distributed task execution, coordination, and conflict resolution.
+
+- **Memory & reasoning loops**: Includes tutorials on **short-term/long-term memory integration**, **planning algorithms**, and **recursive reasoning** for adaptive agent behavior in dynamic environments.
+
+- **Agentic workflows & RAG**: Demonstrates **agent-driven retrieval-augmented generation (RAG)**, **tool-use optimization**, and **end-to-end agentic pipelines** for complex problem-solving.
 
 ## Why It Matters
 

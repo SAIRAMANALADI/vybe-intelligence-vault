@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-08T18:48:15.405299+05:30'
+collected_at: '2026-08-08T21:22:04.397269+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-08T18:48:15.405299+05:30'
-last_seen: '2026-08-08T18:48:15.405299+05:30'
-last_checked: '2026-08-08T18:48:15.405299+05:30'
+first_seen: '2026-08-08T21:22:04.397269+05:30'
+last_seen: '2026-08-08T21:22:04.397269+05:30'
+last_checked: '2026-08-08T21:22:04.397269+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
-
-- **Stateful Reasoning**: Implements dynamic memory organization to maintain contextual coherence across extended interactions, addressing limitations of traditional RAG systems in long-form reasoning tasks.
-
-- **AAAI 2026 Poster**: Presented as a novel approach at AAAI 2026, featuring Python-based implementation with potential for scalable, memory-efficient reasoning in generative AI applications.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework (`ComoRAG`) inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Stateful Reasoning**: Implements dynamic memory retrieval and update mechanisms to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
+- **AAAI 2026 Poster**: Presented as a novel approach for enhancing RAG systems with memory-driven reasoning, validated through benchmarks in long-form narrative comprehension tasks.
 
 ## Why It Matters
 

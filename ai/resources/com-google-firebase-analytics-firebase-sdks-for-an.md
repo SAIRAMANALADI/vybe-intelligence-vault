@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://firebase.google.com/docs/reference/android/com/google/firebase/analytics/package-summary
-published_at: '2026-08-04T20:21:55.165498+05:30'
-collected_at: '2026-08-04T20:21:55.165510+05:30'
+published_at: '2026-08-08T21:29:37.587122+05:30'
+collected_at: '2026-08-08T21:29:37.587134+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:com-google-firebase-analytics-firebase-sdks-for-an
-first_seen: '2026-08-04T20:21:55.165510+05:30'
-last_seen: '2026-08-04T20:21:55.165510+05:30'
-last_checked: '2026-08-04T20:21:55.165510+05:30'
+first_seen: '2026-08-08T21:29:37.587134+05:30'
+last_seen: '2026-08-08T21:29:37.587134+05:30'
+last_checked: '2026-08-08T21:29:37.587134+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **KTX Module Deprecation**: Firebase stopped releasing new KTX module versions in July 2025 and removed them from the Firebase Android BoM (v34.0.0); users must migrate to KTX APIs from main modules.
+- **KTX Module Deprecation**: Firebase discontinued new KTX module releases and removed KTX libraries from the Firebase Android BoM (v34.0.0) in July 2025; migration to KTX APIs from main modules is recommended.
 
-- **Analytics API Classes**: The `com.google.firebase.analytics` package includes key classes like `FirebaseAnalytics`, `AnalyticsKt`, `ConsentBuilder`, and `ParametersBuilder` for event logging, consent management, and fluent syntax support.
+- **Analytics API Classes**: The `com.google.firebase.analytics` package includes core classes like `FirebaseAnalytics` (main singleton for event logging/user properties), `AnalyticsKt` (KTX extensions), and helper classes (`ConsentBuilder`, `ParametersBuilder`).
 
-- **Consent & Event Enums**: The package defines `FirebaseAnalytics.ConsentStatus` and `FirebaseAnalytics.ConsentType` for consent handling, alongside `FirebaseAnalytics.Event` and `FirebaseAnalytics.Param` for structured analytics tracking.
+- **Consent & Event Enums**: Provides `FirebaseAnalytics.ConsentStatus`/`ConsentType` for consent management and `FirebaseAnalytics.Event`/`Param`/`UserProperty` for structured event tracking and user attribute definitions.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T20:21:55.165498+05:30
+- Published: 2026-08-08T21:29:37.587122+05:30
 
 ## Related Tags
 

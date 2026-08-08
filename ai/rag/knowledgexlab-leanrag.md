@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-08T18:48:15.450872+05:30'
+collected_at: '2026-08-08T21:22:04.427109+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-08T18:48:15.450872+05:30'
-last_seen: '2026-08-08T18:48:15.450872+05:30'
-last_checked: '2026-08-08T18:48:15.450872+05:30'
+first_seen: '2026-08-08T21:22:04.427109+05:30'
+last_seen: '2026-08-08T21:22:04.427109+05:30'
+last_checked: '2026-08-08T21:22:04.427109+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, enhancing contextual relevance in generation tasks.
+- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships for improved contextual relevance in generation tasks.
 
-- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval mechanism to dynamically extract and prioritize knowledge from structured knowledge graphs, optimizing retrieval efficiency and accuracy.
+- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval strategy to progressively extract and synthesize information from knowledge graphs, optimizing both precision and recall.
 
-- **AAAI 2026 Framework**: Designed as a lightweight (LeanRAG) framework for generative AI, integrating knowledge graphs to improve factual consistency and reduce hallucinations in large language models.
+- **LeanRAG Framework**: Python-based system designed for efficient knowledge-graph-driven generation, with modular components for semantic aggregation and hierarchical retrieval, as presented at AAAI 2026.
 
 ## Why It Matters
 

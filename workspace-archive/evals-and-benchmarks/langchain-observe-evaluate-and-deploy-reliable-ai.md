@@ -2,11 +2,11 @@
 title: 'LangChain: Observe, Evaluate, and Deploy Reliable AI Agents'
 archive_category: evals-and-benchmarks
 source_category: ai/agents
-source_url: https://langchain.com/
+source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,6 +14,7 @@ tags:
 - agents
 - benchmark
 - producthunt
+- scripts
 - web-crawled
 - youtube
 selection_reason:
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Agent Debugging**: LangSmith Engine autonomously clusters production failures, diagnoses root causes in traces/code, and proposes fixes to accelerate agent improvement cycles.
+- **LangSmith Engine** autonomously clusters production agent failures, performs root cause analysis in traces/code, and proposes fixes for review, accelerating agent improvement cycles.
 
-- **Multi-Framework Observability**: Supports native tracing for popular agent frameworks (Python/TypeScript/Go/Java SDKs), OpenTelemetry integration, and structured timelines for multi-turn agent interactions with AI-driven analytics.
+- **Observability & Evaluation** features provide native tracing for agent frameworks (via OpenTelemetry), multi-turn message threading, LLM-as-judge evals, and human-in-the-loop calibration for iterative agent refinement.
 
-- **Enterprise-Grade Deployment**: Provides fault-tolerant, scalable ag
+- **Deployment & Fleet** support distributed, fault-tolerant agent execution with durabl
 
 ## Use Cases
 
@@ -48,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://langchain.com/
+Original source URL: https://www.langchain.com/
 
 ## Local Vault File
 

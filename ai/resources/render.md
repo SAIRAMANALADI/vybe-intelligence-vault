@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/methods/page/render/#article
-published_at: '2026-08-08T15:35:02.175896+05:30'
-collected_at: '2026-08-08T15:35:02.175908+05:30'
+published_at: '2026-08-08T21:26:23.017465+05:30'
+collected_at: '2026-08-08T21:26:23.017473+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:render
-first_seen: '2026-08-08T15:35:02.175908+05:30'
-last_seen: '2026-08-08T15:35:02.175908+05:30'
-last_checked: '2026-08-08T15:35:02.175908+05:30'
+first_seen: '2026-08-08T21:26:23.017473+05:30'
+last_seen: '2026-08-08T21:26:23.017473+05:30'
+last_checked: '2026-08-08T21:26:23.017473+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- `Render` method (introduced in Hugo v0.164.0) on a `Page` object renders a view template with the page as context, returning `template.HTML`; the `VIEW` argument supports slash-separated directory paths without file extensions, resolved via Hugo's template lookup order.
-
-- Template resolution prioritizes type-specific paths (e.g., `layouts/books/summary.html` for `books` type) before falling back to generic paths (e.g., `layouts/summary.html`); best practice groups view templates in dedicated subdirectories (e.g., `_views`).
-
-- Key differences from `partial` function: `Render` auto-passes the `Page` context (no additional args), while `partial` requires explicit context and template path relative to `layouts/_partials`.
+- **Syntax & Return**: `PAGE.Render VIEW` renders a view template with the page as context, returning `template.HTML`; introduced in Hugo v0.164.0.
+- **Template Resolution**: `VIEW` supports slash-separated paths (e.g., `"summary"` or `"_views/summary"`), resolved via Hugo’s template lookup order, enabling type-specific or global view templates.
+- **Key Differences**: `Render` auto-passes the `Page` object and uses lookup order, whereas `partial` requires explicit context and paths relative to `layouts/_partials`.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T15:35:02.175896+05:30
+- Published: 2026-08-08T21:26:23.017465+05:30
 
 ## Related Tags
 

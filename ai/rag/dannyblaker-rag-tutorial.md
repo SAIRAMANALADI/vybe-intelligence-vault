@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-08-08T18:46:40.325478+05:30'
+collected_at: '2026-08-08T21:20:29.290996+05:30'
 published_at: '2026-07-22T13:21:53Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
 - rag
 - reddit
-- workflows
 stars: 8
 language: Python
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-08-08T18:46:40.325478+05:30'
-last_seen: '2026-08-08T18:46:40.325478+05:30'
-last_checked: '2026-08-08T18:46:40.325478+05:30'
+first_seen: '2026-08-08T21:20:29.290996+05:30'
+last_seen: '2026-08-08T21:20:29.290996+05:30'
+last_checked: '2026-08-08T21:20:29.290996+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG implementation, from foundational concepts to production deployment, with reusable Python utilities and hands-on demos.
-- **Technical Stack**: Focuses on embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and advanced RAG techniques like query rewriting and hybrid retrieval.
-- **Resources**: Includes working code examples, modular utilities for evaluation/monitoring, and updated as of July 2026 for modern RAG workflows.
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
+- **Technical Scope**: Covers core RAG components including embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and advanced techniques like retrieval optimization and prompt engineering.
+- **Python-Based Implementation**: Provides hands-on demos and utilities in Python, with a last-updated timestamp of July 22, 2026, indicating active maintenance.
 
 ## Why It Matters
 

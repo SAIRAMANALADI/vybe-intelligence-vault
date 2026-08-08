@@ -4,18 +4,18 @@ title: specs/specs/serving/knative-api-specification-1.0.md at main · knative/s
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/knative/specs/blob/main/specs/serving/knative-api-specification-1.0.md#revision
-published_at: '2026-07-08T14:25:21.623119+05:30'
-collected_at: '2026-07-08T14:25:21.623133+05:30'
+source_url: https://github.com/knative/specs/blob/main/specs/serving/knative-api-specification-1.0.md#configuration
+published_at: '2026-08-08T21:29:09.190827+05:30'
+collected_at: '2026-08-08T21:29:09.190841+05:30'
 tags:
 - models
 - reddit
 - web-crawled
 status: active
 resource_id: github:knative/specs
-first_seen: '2026-07-08T14:25:21.623133+05:30'
-last_seen: '2026-07-08T14:25:21.623133+05:30'
-last_checked: '2026-07-08T14:25:21.623133+05:30'
+first_seen: '2026-08-08T21:29:09.190841+05:30'
+last_seen: '2026-08-08T21:29:09.190841+05:30'
+last_checked: '2026-08-08T21:29:09.190841+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- Knative Serving API v1.0.2 defines Kubernetes Custom Resources (CRDs) for managing stateless, request-driven, autoscaled containers with HTTP/gRPC transport, abstracting Kubernetes resource model for FaaS/PaaS-like operations.
+- **Knative Serving API** defines Kubernetes Custom Resources (CRs) for managing stateless, request-driven, autoscaled containers, with HTTP/gRPC as the transport protocol, operating under Kubernetes 1.13+ assumptions.
 
-- Core resources (`Service`, `Configuration`, `Revision`, `Route`) enforce strict access control: `Service` requires full CRUD; `Revision` is immutable (except via `Configuration`); `Route`/`Configuration` are optional for direct manipulation in minimal profiles.
+- **Resource Access Control**: Minimal profile enforces strict RBAC (e.g., `knative-developer` Role allows only `get/list/create/update/delete` on `services` and read-only access to `configurations/routes/revisions`), while advanced profiles may permit full CRUD operations.
 
-- Extensions via annotations/labels are preferred; vendor-specific properties must use unique prefixes to avoid conflicts, with JSON Merge Patch (RFC 7386) recommended for CRD updates.
+- **Resource Lifecycle & Constraints**: `Service` owns `Configuration` and `Route`; `Configuration` generates immutable `Revision` snapshots; direct `Revision`/`Route`/`Configuration` manipulation is restricted (e.g., `Revision` updates forbidden, `Route`/`Configuration` updates reset if owned by `Service`).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T14:25:21.623119+05:30
+- Published: 2026-08-08T21:29:09.190827+05:30
 
 ## Related Tags
 
@@ -47,4 +47,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/knative/specs/blob/main/specs/serving/knative-api-specification-1.0.md#revision
+Original source: https://github.com/knative/specs/blob/main/specs/serving/knative-api-specification-1.0.md#configuration

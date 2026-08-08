@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-08-08T18:53:49.752948+05:30'
-collected_at: '2026-08-08T18:53:49.752965+05:30'
+published_at: '2026-08-08T21:26:07.701632+05:30'
+collected_at: '2026-08-08T21:26:07.701642+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-08-08T18:53:49.752965+05:30'
-last_seen: '2026-08-08T18:53:49.752965+05:30'
-last_checked: '2026-08-08T18:53:49.752965+05:30'
+first_seen: '2026-08-08T21:26:07.701642+05:30'
+last_seen: '2026-08-08T21:26:07.701642+05:30'
+last_checked: '2026-08-08T21:26:07.701642+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of retrieval and generation components.
+- **Haystack Evaluation Guide**: Provides a structured walkthrough for implementing evaluation metrics in RAG pipelines, covering both statistical and model-based approaches for assessing performance.
 
-- **Multimodal RAG Pipelines**: Tutorial demonstrates construction of multimodal RAG systems combining vision and text modalities, leveraging document-grounded QA across heterogeneous data sources.
+- **Multimodal RAG Pipeline**: Demonstrates the construction of a vision+text RAG system capable of answering queries grounded in both image and textual data, leveraging multimodal embeddings and retrieval.
 
-- **KV Cache Compression**: Advanced tutorial details TurboQuant-based KV cache quantization for large LLMs, enabling deployment on consumer GPUs with up to 4x memory reduction while maintaining performance.
+- **KV Cache Compression with TurboQuant**: Details the integration of TurboQuant for KV cache compression in Haystack, enabling efficient execution of large LLMs on consumer GPUs with reduced memory overhead.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T18:53:49.752948+05:30
+- Published: 2026-08-08T21:26:07.701632+05:30
 
 ## Related Tags
 

@@ -6,13 +6,15 @@ source_url: https://huggingface.co/deepset
 resource_id: blog:deepset-deepset
 local_vault_path: ai/rag/deepset-deepset.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- hackernews
+- benchmark
+- meta-ai
+- models
 - rag
 - web-crawled
 selection_reason:
@@ -25,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **AutoQuizzer**: A Hugging Face Space by deepset that automates quiz generation using LLMs, allowing users to create quizzes or engage in interactive quiz-playing via an LLM.
-- **Features**: Supports quiz generation, human vs. LLM quiz battles, and interactive gameplay, leveraging a lightweight UI for accessibility.
-- **Technical Basis**: Utilizes a deployed LLM (likely an open-source model) to dynamically generate questions, evaluate responses, and facilitate real-time quiz interactions.
+- **AutoQuizzer** is a Hugging Face Space that automates quiz generation using LLMs, allowing users to create quizzes or have an LLM (e.g., Llama) play interactively.
+- The tool leverages **deepset**'s infrastructure, providing a lightweight interface for dynamic Q&A generation and evaluation.
+- Supports **real-time interaction** between users and LLMs, enabling adaptive quiz experiences without manual input.
 
 ## Use Cases
 

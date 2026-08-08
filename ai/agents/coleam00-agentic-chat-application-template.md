@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coleam00/agentic-chat-application-template
-collected_at: '2026-08-08T18:50:15.559014+05:30'
+collected_at: '2026-08-08T21:24:04.580603+05:30'
 published_at: '2026-08-01T21:14:41Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-02-10T21:33:09Z'
 pushed_at: '2026-03-24T13:45:37Z'
 resource_id: github:coleam00/agentic-chat-application-template
-first_seen: '2026-08-08T18:50:15.559014+05:30'
-last_seen: '2026-08-08T18:50:15.559014+05:30'
-last_checked: '2026-08-08T18:50:15.559014+05:30'
+first_seen: '2026-08-08T21:24:04.580603+05:30'
+last_seen: '2026-08-08T21:24:04.580603+05:30'
+last_checked: '2026-08-08T21:24:04.580603+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based template using Next.js for SSR, TailwindCSS for styling, and Shadcn for UI components.
-- **Agentic Architecture**: Work-in-progress (WIP) framework designed for autonomous multi-agent chat applications.
-- **Metadata**: 59 ⭐, 57 🍴, last updated 2026-08-01, no active topics.
+- **Tech Stack**: TypeScript-based Next.js application with TailwindCSS for styling and Shadcn for UI components.
+- **Purpose**: Work-in-progress (WIP) template for building agentic chat applications.
+- **Metadata**: 59 stars, 57 forks, last updated on 2026-08-01.
 
 ## Why It Matters
 

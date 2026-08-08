@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-08T18:47:45.371893+05:30'
+collected_at: '2026-08-08T21:21:34.318607+05:30'
 published_at: '2026-08-06T17:19:02Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
-- paper
 - python
 - rag
 stars: 476
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-08T18:47:45.371893+05:30'
-last_seen: '2026-08-08T18:47:45.371893+05:30'
-last_checked: '2026-08-08T18:47:45.371893+05:30'
+first_seen: '2026-08-08T21:21:34.318607+05:30'
+last_seen: '2026-08-08T21:21:34.318607+05:30'
+last_checked: '2026-08-08T21:21:34.318607+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Official repository for GraphRAG-Bench, a benchmarking framework evaluating Graph Retrieval-Augmented Generation (GraphRAG) models, as introduced in the ICLR'26 paper *"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation"*.
-
-- **Technical Scope**: Provides tools for analyzing and comparing GraphRAG models using curated datasets and standardized evaluation metrics, implemented in Python.
-
-- **Repository Metrics**: 476 stars, 54 forks; last updated on 2026-08-06, with focus on graph-based RAG methodologies and benchmarking.
+- **Purpose**: Official benchmark repository (`GraphRAG-Bench`) for evaluating GraphRAG models, providing datasets and tools to analyze the efficacy of graph-based retrieval in RAG systems.
+- **Technical Scope**: Focuses on "When to use Graphs in RAG," offering a comprehensive framework for assessing graph retrieval-augmented generation (GraphRAG) under the ICLR'26 evaluation standards.
+- **Implementation**: Python-based toolkit with modular components for dataset generation, model evaluation, and performance benchmarking across graph-based RAG architectures.
 
 ## Why It Matters
 

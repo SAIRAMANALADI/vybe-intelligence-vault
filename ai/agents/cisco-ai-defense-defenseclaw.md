@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-08-08T18:49:40.511907+05:30'
+collected_at: '2026-08-08T21:23:29.517583+05:30'
 published_at: '2026-08-08T00:41:54Z'
 tags:
 - agents
 - github-repo
 - go
+- workflows
 stars: 814
 language: Go
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2026-03-23T00:51:19Z'
 pushed_at: '2026-08-08T08:21:22Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-08-08T18:49:40.511907+05:30'
-last_seen: '2026-08-08T18:49:40.511907+05:30'
-last_checked: '2026-08-08T18:49:40.511907+05:30'
+first_seen: '2026-08-08T21:23:29.517583+05:30'
+last_seen: '2026-08-08T21:23:29.517583+05:30'
+last_checked: '2026-08-08T21:23:29.517583+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: DefenseClaw is a security governance framework for Agentic AI, designed to enforce policies and monitor agentic behaviors in AI systems.
-- **Implementation**: Written in Go, it provides a structured approach to security governance with potential capabilities for policy enforcement, auditing, and runtime monitoring.
-- **Status**: Actively maintained with the latest update on August 8, 2026, indicating ongoing development and relevance in AI security governance.
+- **Purpose**: DefenseClaw is a security governance framework for Agentic AI systems, designed to enforce policy-based controls and monitoring in AI-driven environments.
+- **Implementation**: Written in Go, it provides a lightweight, high-performance runtime for managing security policies across AI agents and workflows.
+- **Features**: Supports policy enforcement, audit logging, and runtime integrity checks for AI agents, with a focus on mitigating adversarial misuse and unintended behaviors.
 
 ## Why It Matters
 

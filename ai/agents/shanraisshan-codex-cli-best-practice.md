@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-08T18:49:05.463030+05:30'
+collected_at: '2026-08-08T21:22:54.423815+05:30'
 published_at: '2026-08-07T14:11:28Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
-- scripts
 - workflows
 stars: 956
 language: Python
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-08T18:49:05.463030+05:30'
-last_seen: '2026-08-08T18:49:05.463030+05:30'
-last_checked: '2026-08-08T18:49:05.463030+05:30'
+first_seen: '2026-08-08T21:22:54.423815+05:30'
+last_seen: '2026-08-08T21:22:54.423815+05:30'
+last_checked: '2026-08-08T21:22:54.423815+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using OpenAI's Codex CLI, emphasizing modular agentic workflows for scalable AI-driven development.
+- **Repository Overview**: A Python-based guide (`codex-cli-best-practice`) for transitioning from "vibe coding" to structured agentic engineering workflows using OpenAI's Codex CLI, emphasizing best practices, hooks, and skills for AI-driven development.
 
-- **Codex CLI Best Practices**: Documents optimized commands, hooks, and skills for Codex CLI, including context engineering techniques to enhance AI agent efficiency, debugging, and task automation in Python-based environments.
+- **Key Features**: Includes `codex-hooks`, `context-engineering`, and CLI commands for agentic workflows, with modules on `agentic-ai`, `agentic-coding`, and `agentic-workflow` to enhance AI agent capabilities.
 
-- **Context & Skill Optimization**: Focuses on *context-engineering* principles and *codex-hooks* to dynamically manage AI agent state, enabling persistent, reusable, and context-aware coding agents for complex workflows.
+- **Purpose & Scope**: Targets Pakistani developers and AI practitioners, providing structured methodologies to optimize Codex CLI usage, command execution, and agentic engineering in software development.
 
 ## Why It Matters
 

@@ -4,15 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-08T18:47:55.395892+05:30'
+collected_at: '2026-08-08T21:21:44.332700+05:30'
 published_at: '2026-08-06T20:07:42Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- meta-ai
-- mistral
-- models
 - python
 - rag
 - reddit
@@ -24,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-08T18:47:55.395892+05:30'
-last_seen: '2026-08-08T18:47:55.395892+05:30'
-last_checked: '2026-08-08T18:47:55.395892+05:30'
+first_seen: '2026-08-08T21:21:44.332700+05:30'
+last_seen: '2026-08-08T21:21:44.332700+05:30'
+last_checked: '2026-08-08T21:21:44.332700+05:30'
 health_score: 100
 ---
 
@@ -34,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval database, subtly altering model outputs without direct access to model weights.
+- **Attack Mechanism**: Introduces *PoisonedRAG*, a novel attack framework that corrupts the knowledge base of Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, causing the LLM to generate misleading or harmful outputs while maintaining high retrieval relevance.
 
-- **Technical Mechanism**: Leverages *trigger-based poisoning* where adversarial documents are crafted to exploit retrieval similarity metrics (e.g., cosine similarity), ensuring targeted documents are retrieved and influencing the LLM’s response generation toward attacker-desired outputs.
+- **Technical Implementation**: Leverages *trigger-based poisoning* and *semantic similarity attacks* to embed poisoned documents that are indistinguishable from benign ones, exploiting the retrieval pipeline's reliance on vector embeddings and top-k retrieval strategies.
 
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., Dense Passage Retrieval, BM25) and LLMs (e.g., Llama2, Mistral), achieving high attack success rates (up to 95%) while maintaining stealth via imperceptible perturbations in poisoned documents.
+- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG architectures (e.g., dense retrieval + generative models) with minimal poisoning rates (~1-5%), highlighting vulnerabilities in current trustworthy AI mechanisms and proposing mitigation strategies like robust retrieval filtering.
 
 ## Why It Matters
 

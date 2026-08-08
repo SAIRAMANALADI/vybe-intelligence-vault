@@ -14,7 +14,7 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (template - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-08 19:03 IST*
+*Last updated: 2026-08-08 21:37 IST*

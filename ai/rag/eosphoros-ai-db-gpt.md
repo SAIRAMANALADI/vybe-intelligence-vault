@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-08-08T18:48:00.441358+05:30'
+collected_at: '2026-08-08T21:21:49.402501+05:30'
 published_at: '2026-08-08T10:14:33Z'
 tags:
 - agents
@@ -13,8 +13,6 @@ tags:
 - openai
 - python
 - rag
-- scripts
-- workflows
 stars: 19670
 language: Python
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-08-08T09:31:45Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-08-08T18:48:00.441358+05:30'
-last_seen: '2026-08-08T18:48:00.441358+05:30'
-last_checked: '2026-08-08T18:48:00.441358+05:30'
+first_seen: '2026-08-08T21:21:49.402501+05:30'
+last_seen: '2026-08-08T21:21:49.402501+05:30'
+last_checked: '2026-08-08T21:21:49.402501+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and workflow automation.
-- **Privacy & Security Focus**: Supports local/private deployment (RAG-based) to ensure data confidentiality while providing AI-driven insights.
-- **Modular Architecture**: Built in Python with extensible agents, multi-database compatibility, and integration with tools like BGI for enterprise-grade data solutions.
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based augmentation.
+- **Multi-Model & Private Deployment**: Supports integration with proprietary/vicuna models, emphasizes local/private LLM deployment for security-sensitive environments.
+- **Modular Architecture**: Python-based system with extensible agents, BGI (Big Data Intelligence) tools, and security-focused features (e.g., authentication, data encryption).
 
 ## Why It Matters
 

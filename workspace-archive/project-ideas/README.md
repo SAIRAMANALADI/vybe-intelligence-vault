@@ -8,7 +8,6 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Top Matched Resources
 
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - ESSENTIAL Tier)
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (prompt - USEFUL Tier)
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (benchmark - USEFUL Tier)
@@ -16,14 +15,13 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 - [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (dataset - USEFUL Tier)
 - [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (dataset - USEFUL Tier)
 - [A New Perspective on Precision and Recall for Generative Models](https://arxiv.org/abs/2511.02414) (framework - USEFUL Tier)
+- [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (prompt - USEFUL Tier)
 
 ## Best GitHub Repositories
 
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search)
 
 ## Best Learning Resources
 
@@ -39,4 +37,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-08-08 19:03 IST*
+*Last updated: 2026-08-08 21:37 IST*

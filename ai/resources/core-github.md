@@ -4,19 +4,21 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/oacore
-published_at: '2026-08-05T17:11:43.050035+05:30'
-collected_at: '2026-08-05T17:11:43.050051+05:30'
+published_at: '2026-08-08T21:26:09.357503+05:30'
+collected_at: '2026-08-08T21:26:09.357510+05:30'
 tags:
 - frontend_ui
+- hackernews
 - paper
 - reddit
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:core-github
-first_seen: '2026-08-05T17:11:43.050051+05:30'
-last_seen: '2026-08-05T17:11:43.050051+05:30'
-last_checked: '2026-08-05T17:11:43.050051+05:30'
+first_seen: '2026-08-08T21:26:09.357510+05:30'
+last_seen: '2026-08-08T21:26:09.357510+05:30'
+last_checked: '2026-08-08T21:26:09.357510+05:30'
 health_score: 100
 ---
 
@@ -24,14 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **CORE Organization**: GitHub organization (`oacore`) based in Milton Keynes, UK, hosting open-access research tools and libraries, including a React-based design system, search interface, and PDF viewer for academic papers.
+- **CORE GitHub Organization**: Hosts open-source projects including a React-based design system (`design`), a PDF viewer (`reader`), and API clients in Python (`pyoacore`) and Java (`oacore4j`), all under MIT license.
 
-- **Key Repositories**:
-  - **`design`**: Shared React component library for CORE.
-  - **`reader`**: Full-featured PDF viewer optimized for academic papers.
-  - **`search`**: CORE’s search interface (JavaScript, MIT license).
+- **Key Repositories**: Includes `recommender-bundle` (PHP), `resync-proto-server` (Python), and `ojs-core` (PHP), focusing on academic paper processing, resource synchronization, and Open Journal Systems integration.
 
-- **Tech Stack & Licensing**: Primary languages include JavaScript, TypeScript, and Python; repositories under MIT or CC-BY-4.0 licenses, with limited activity in some projects (e.g., `sdg_classification`, `devops-workflows`).
+- **Technical Stack**: Frontend components in JavaScript/TypeScript, backend services in PHP/Python/Java, with workflows for DevOps automation and architecture documentation in HTML.
 
 ## Why It Matters
 
@@ -41,13 +40,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T17:11:43.050035+05:30
+- Published: 2026-08-08T21:26:09.357503+05:30
 
 ## Related Tags
 
 - frontend_ui
+- hackernews
 - paper
 - reddit
+- scripts
 - web-crawled
 - workflows
 

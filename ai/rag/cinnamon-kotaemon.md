@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-08T18:47:05.379837+05:30'
+collected_at: '2026-08-08T21:20:54.312558+05:30'
 published_at: '2026-08-08T09:05:46Z'
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 stars: 25692
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-08T18:47:05.379837+05:30'
-last_seen: '2026-08-08T18:47:05.379837+05:30'
-last_checked: '2026-08-08T18:47:05.379837+05:30'
+first_seen: '2026-08-08T21:20:54.312558+05:30'
+last_seen: '2026-08-08T21:20:54.312558+05:30'
+last_checked: '2026-08-08T21:20:54.312558+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs.
-- **Python Implementation**: Built primarily in Python, leveraging modern NLP libraries (e.g., LangChain, transformers) for document processing and retrieval.
-- **Open-Source Toolkit**: Provides an extensible, community-driven framework for document chatbots with modular components for retrieval, indexing, and LLM integration.
+- **RAG-based Document Interaction**: Kotaemon is an open-source tool leveraging Retrieval-Augmented Generation (RAG) to enable conversational querying of uploaded documents, enhancing contextual responses via document retrieval and LLM integration.
+
+- **Python Implementation**: The project is primarily developed in Python, utilizing modern libraries and frameworks for document processing, vector embeddings (e.g., FAISS, Chroma), and LLM inference (e.g., Hugging Face Transformers).
+
+- **Modular Architecture**: Designed with extensibility in mind, Kotaemon supports custom document loaders, retrievers, and LLM backends, with a focus on scalability and integration with tools like LangChain or LlamaIndex.
 
 ## Why It Matters
 

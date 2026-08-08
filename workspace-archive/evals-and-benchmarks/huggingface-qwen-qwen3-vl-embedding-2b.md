@@ -6,11 +6,12 @@ source_url: https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B
 resource_id: huggingface:qwen/qwen3-vl-embedding-2b
 local_vault_path: ai/rag/huggingface-qwen-qwen3-vl-embedding-2b.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - hackernews
 - rag
 - web-crawled
@@ -24,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Model Collection**: Qwen3-VL-Embedding is a collection of multimodal embedding models from Qwen, designed for vision-language tasks.
-- **Technical Scope**: Models support cross-modal retrieval, text-to-image, and image-to-text embeddings with optimized performance for VL (Vision-Language) applications.
-- **Update Status**: As of January 8, the collection is actively maintained with 71 items, indicating ongoing development and expansion.
+- **Model Collection**: Qwen3-VL-Embedding is a collection of multimodal embedding models designed for vision-language tasks, hosted on Hugging Face.
+
+- **Technical Focus**: Models leverage cross-modal attention mechanisms to generate unified embeddings for text and images, optimized for retrieval and similarity tasks.
+
+- **Performance Metrics**: Benchmarked on standard VL tasks (e.g., image-text retrieval, zero-shot classification) with reported improvements in embedding quality and efficiency.
 
 ## Use Cases
 

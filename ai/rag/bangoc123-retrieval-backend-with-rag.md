@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-08T18:47:25.345965+05:30'
+collected_at: '2026-08-08T21:21:14.333251+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 265
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-08T18:47:25.345965+05:30'
-last_seen: '2026-08-08T18:47:25.345965+05:30'
-last_checked: '2026-08-08T18:47:25.345965+05:30'
+first_seen: '2026-08-08T21:21:14.333251+05:30'
+last_seen: '2026-08-08T21:21:14.333251+05:30'
+last_checked: '2026-08-08T21:21:14.333251+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository provides a retrieval-augmented generation (RAG) backend optimized for Vietnamese language processing, leveraging vector databases and embedding models tailored for Vietnamese text.
+- **Vietnamese RAG Implementation**: Repository demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, leveraging Python-based pipelines.
 
-- **Modular Architecture**: Python-based system designed with modular components for document retrieval, embedding generation, and LLM integration, facilitating scalability and customization.
+- **Modular Architecture**: Project showcases a structured backend design with components for document retrieval, embedding generation (likely using models like `vinai/phobert` or `sentence-transformers`), and integration with vector databases (e.g., FAISS, Chroma).
 
-- **Benchmarking & Best Practices**: Includes evaluation frameworks and guidelines for optimizing RAG pipelines specifically for Vietnamese, addressing challenges like tokenization, embedding quality, and retrieval relevance.
+- **Evaluation & Optimization**: Includes methodologies for benchmarking RAG performance (e.g., retrieval accuracy, response relevance) and fine-tuning hyperparameters (chunk size, top-k retrieval) for Vietnamese-specific use cases.
 
 ## Why It Matters
 

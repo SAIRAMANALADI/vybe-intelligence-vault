@@ -13,13 +13,14 @@ collected_at: '2026-08-08T18:45:50.048522+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:the-cpu-is-back-rethinking-the-cpu-gpu-split-for-l
 first_seen: '2026-08-08T18:45:50.048522+05:30'
 last_seen: '2026-08-08T18:45:50.048522+05:30'
 last_checked: '2026-08-08T18:45:50.048522+05:30'
 health_score: 100
 ---
+
 
 # The CPU is back: Rethinking the CPU-GPU split for LLM inference
 

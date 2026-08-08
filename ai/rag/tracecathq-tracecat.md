@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-08T18:49:40.540944+05:30'
+collected_at: '2026-08-08T21:23:29.504495+05:30'
 published_at: '2026-08-07T18:43:50Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-08-08T04:50:44Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-08T18:49:40.540944+05:30'
-last_seen: '2026-08-08T18:49:40.540944+05:30'
-last_checked: '2026-08-08T18:49:40.540944+05:30'
+first_seen: '2026-08-08T21:23:29.504495+05:30'
+last_seen: '2026-08-08T21:23:29.504495+05:30'
+last_checked: '2026-08-08T21:23:29.504495+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Python-based open-source platform integrating FastAPI, Pydantic, and Next.js for event-driven security automation, with workflow orchestration via Temporal.io and low-code interfaces.
+- **Platform Overview**: Open-source security automation platform integrating event-driven workflows with AI agents, leveraging FastAPI (backend), Next.js (frontend), and Temporal.io (orchestration) for scalable, low-code security operations.
 
-- **Key Features**: Supports LLM integration, OpenAPI specifications, and monitoring capabilities, enabling AI agents and teams to automate security workflows with minimal code.
+- **Technical Stack**: Python-based backend with Pydantic for data validation, OpenAPI for API specification, and LLM integration for AI-driven security tasks; supports real-time monitoring and workflow automation.
 
-- **Technical Stack**: Leverages temporalio for workflow execution, FastAPI for backend APIs, and Next.js for frontend, with security-focused design and extensibility via Python.
+- **Architecture**: Modular design with temporal workflow engine for stateful orchestration, enabling parallel task execution, retries, and error handling in security automation pipelines.
 
 ## Why It Matters
 

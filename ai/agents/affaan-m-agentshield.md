@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/affaan-m/agentshield
-collected_at: '2026-08-08T18:48:25.413479+05:30'
+collected_at: '2026-08-08T21:22:14.361221+05:30'
 published_at: '2026-08-08T02:03:14Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - typescript
 stars: 1054
 language: TypeScript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-11T06:31:44Z'
 pushed_at: '2026-07-22T07:01:25Z'
 resource_id: github:affaan-m/agentshield
-first_seen: '2026-08-08T18:48:25.413479+05:30'
-last_seen: '2026-08-08T18:48:25.413479+05:30'
-last_checked: '2026-08-08T18:48:25.413479+05:30'
+first_seen: '2026-08-08T21:22:14.361221+05:30'
+last_seen: '2026-08-08T21:22:14.361221+05:30'
+last_checked: '2026-08-08T21:22:14.361221+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format Security Scanner**: CLI, GitHub Action, ECC plugin, and GitHub App integration for detecting vulnerabilities in AI agent configurations, MCP servers, and tool permissions.
-- **Technical Scope**: Focuses on security analysis of agent frameworks (Anthropic, Claude Code, Opus) and MCP (Model Context Protocol) server interactions.
-- **Language & Ecosystem**: Built in TypeScript, targets AI agent security with active development (last updated Aug 2026) and 1,054+ GitHub stars.
+- **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions.
+- **Features**: Available as CLI, GitHub Action, ECC plugin, and GitHub App integration for security enforcement.
+- **Compatibility**: Supports TypeScript, integrates with Anthropic's Claude Code and Opus, and is optimized for MCP-based AI agents.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-08-08T18:48:35.391013+05:30'
+collected_at: '2026-08-08T21:22:24.404552+05:30'
 published_at: '2026-08-08T09:39:42Z'
 tags:
 - agents
@@ -14,6 +14,7 @@ tags:
 - javascript
 - meta-ai
 - models
+- workflows
 stars: 4478
 language: JavaScript
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-07-24T15:40:39Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-08-08T18:48:35.391013+05:30'
-last_seen: '2026-08-08T18:48:35.391013+05:30'
-last_checked: '2026-08-08T18:48:35.391013+05:30'
+first_seen: '2026-08-08T21:22:24.404552+05:30'
+last_seen: '2026-08-08T21:22:24.404552+05:30'
+last_checked: '2026-08-08T21:22:24.404552+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models and focusing on core concepts like function calling, memory management, and ReAct (Reasoning and Acting) patterns.
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency and understanding of core concepts like function calling, memory, and ReAct patterns.
 
-- **Technical Implementation**: Utilizes JavaScript and `node-llama-cpp` to construct AI agents, demonstrating practical integration of function calling and React-based agent architectures for real-world applications.
+- **Technical Stack**: Implements agents in JavaScript with `node-llama-cpp` for local LLM integration, supporting React-based agent architectures and function-calling workflows.
 
-- **Repository Metrics**: Maintained by `pguso` with 4,478 stars, 656 forks, and last updated on August 8, 2026, indicating active community engagement and continuous updates.
+- **Key Features**: Focuses on demystifying AI agents by avoiding black-box approaches, enabling real-world comprehension of agent behaviors and decision-making processes.
 
 ## Why It Matters
 

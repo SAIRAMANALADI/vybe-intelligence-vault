@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-08T18:47:55.400002+05:30'
+collected_at: '2026-08-08T21:21:44.379381+05:30'
 published_at: '2026-08-08T08:48:27Z'
 tags:
 - frontend_ui
@@ -14,6 +14,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 39394
 language: Python
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-08T18:47:55.400002+05:30'
-last_seen: '2026-08-08T18:47:55.400002+05:30'
-last_checked: '2026-08-08T18:47:55.400002+05:30'
+first_seen: '2026-08-08T21:21:44.379381+05:30'
+last_seen: '2026-08-08T21:21:44.379381+05:30'
+last_checked: '2026-08-08T21:21:44.379381+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization and easy embedding in existing products.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization (LLMs, vector stores, file types).
 
-- **Multi-LLM & Vectorstore Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse AI and database backends.
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss), with Dockerized deployment and API-first architecture for flexible integration into existing products.
 
-- **Full-Stack Integration**: Provides a Python-based backend with Docker support, React frontend, and TypeScript/JavaScript compatibility, facilitating end-to-end GenAI application development with privacy and security features.
+- **Tech Stack**: Built in Python with React/TypeScript frontend, supporting PostgreSQL, security/privacy features, and extensible for custom workflows (e.g., file ingestion, chatbot logic).
 
 ## Why It Matters
 

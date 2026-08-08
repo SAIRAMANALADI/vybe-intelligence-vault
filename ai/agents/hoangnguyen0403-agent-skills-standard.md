@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-08T18:49:10.448030+05:30'
+collected_at: '2026-08-08T21:22:59.423086+05:30'
 published_at: '2026-08-07T03:48:17Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
-- workflows
 stars: 538
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-08T18:49:10.448030+05:30'
-last_seen: '2026-08-08T18:49:10.448030+05:30'
-last_checked: '2026-08-08T18:49:10.448030+05:30'
+first_seen: '2026-08-08T21:22:59.423086+05:30'
+last_seen: '2026-08-08T21:22:59.423086+05:30'
+last_checked: '2026-08-08T21:22:59.423086+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., React, Angular, Spring Boot, Laravel), designed to guide AI agents in adhering to coding standards.
-- **Scope & Topics**: Covers 19+ languages/frameworks (Android, Flutter, NestJS, Next.js, etc.) and includes topics like `agentic-ai`, `coding-standards`, and `cursor-rules` for AI-driven development workflows.
-- **Metadata**: 538 stars, 157 forks; last updated on **2026-08-07** (future-dated). URL: [GitHub Repository](https://github.com/HoangNguyen0403/agent-skills-standard).
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks and languages (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
+
+- **Purpose & Scope**: Provides structured guidelines (e.g., `cursor-rules`) to ensure AI agents adhere to language/framework-specific conventions, enhancing code quality and consistency across projects.
+
+- **Metadata**: 538 stars, 157 forks, last updated August 7, 2026; includes topics like `agentic-ai`, `coding-standards`, and `react-native`.
 
 ## Why It Matters
 

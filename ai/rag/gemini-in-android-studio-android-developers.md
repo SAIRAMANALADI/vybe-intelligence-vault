@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com/gemini-in-android
-published_at: '2026-08-08T18:57:41.121536+05:30'
-collected_at: '2026-08-08T18:57:41.121555+05:30'
+published_at: '2026-08-08T21:29:14.288619+05:30'
+collected_at: '2026-08-08T21:29:14.288635+05:30'
 tags:
 - agents
 - producthunt
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-in-android-studio-android-developers
-first_seen: '2026-08-08T18:57:41.121555+05:30'
-last_seen: '2026-08-08T18:57:41.121555+05:30'
-last_checked: '2026-08-08T18:57:41.121555+05:30'
+first_seen: '2026-08-08T21:29:14.288635+05:30'
+last_seen: '2026-08-08T21:29:14.288635+05:30'
+last_checked: '2026-08-08T21:29:14.288635+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Integration**: Gemini in Android Studio provides agentic AI capabilities (e.g., Agent Mode) to handle multi-stage development tasks like unit test generation, UI alterations, and error fixing across multiple project files, with iterative feedback and execution plans.
+- **Agentic AI Integration**: Android Studio Quail 3 integrates Gemini, an agentic AI assistant, to automate multi-stage development tasks (e.g., unit test generation, UI refactoring, crash analytics) while maintaining context within the IDE, reducing context-switching overhead.
 
-- **Multimodal & IDE-Specific Features**: Supports multimodal inputs (e.g., image-based UI prototyping, screenshot-based debugging) and Android-specific optimizations (e.g., Compose UI assistance, Gradle error resolution, crash analytics) while maintaining IDE-native workflows.
+- **Multimodal & Context-Aware Features**: Supports multimodal inputs (e.g., UI wireframes via image attachment) and specialized Android development tasks (e.g., Compose UI generation, Gradle error resolution, App Quality Insights crash analysis) with enterprise-grade privacy controls via `.aiexclude` configurations.
 
-- **Enterprise-Grade Privacy & Scalability**: Free tier includes core features, while paid tiers (Gemini Code Assist) offer IP indemnification, VPC-SC compliance, customized code suggestions from Git repositories, and enterprise management tools (admin controls, productivity metrics).
+- **Tiered Access & Licensing**: Free tier includes core features (Agent Mode, Gemini chat, code completion), while paid tiers (Standard at $19/user/month, Enterprise at $45/user/month) add IP indemnification, VPC-SC compliance, custom code suggestions from Git repositories, and access to advanced tools like Gemini in Firebase and BigQuery.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T18:57:41.121536+05:30
+- Published: 2026-08-08T21:29:14.288619+05:30
 
 ## Related Tags
 

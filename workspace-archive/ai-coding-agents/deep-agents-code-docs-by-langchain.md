@@ -1,6 +1,6 @@
 ---
 title: Deep Agents Code - Docs by LangChain
-archive_category: model-providers
+archive_category: ai-coding-agents
 source_category: ai/rag
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
 resource_id: blog:deep-agents-code-docs-by-langchain
@@ -15,8 +15,8 @@ tags:
 - anthropic
 - producthunt
 - rag
-- reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -27,7 +27,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Model Providers`
+- Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
@@ -36,15 +36,17 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Model & Provider Agnostic**: Supports any LLM with seamless provider/model switching via the Deep Agents SDK.
-- **Core Features**: Persistent memory for cross-session context, customizable skills for behavior shaping, and approval controls for secure code execution.
-- **Advanced Capabilities**: Remote sandboxes, subagents for parallel task delegation, MCP tool integration, and LangSmith tracing for observability.
+- **Modular Coding Agent**: Open-source `dcode` agent built on Deep Agents SDK, compatible with any LLM, featuring persistent memory, customizable skills, and execution approval controls.
+
+- **Advanced Capabilities**: Supports remote sandboxes, goals/rubrics, subagents for parallel task delegation, MCP tool integration, and LangSmith tracing for observability.
+
+- **Configurable Workflow**: Enables human-in-the-loop approvals, context compaction, and extensible skills via `config.toml`, environme
 
 ## Use Cases
 
-- API key selection
-- Cost/capability profiling
-- Provider fallback routing
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 

@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-08T18:46:45.335322+05:30'
-published_at: '2026-08-08T11:44:15Z'
+collected_at: '2026-08-08T21:20:34.301422+05:30'
+published_at: '2026-08-08T15:36:24Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
-stars: 36894
+stars: 36898
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-08T18:46:45.335322+05:30'
-last_seen: '2026-08-08T18:46:45.335322+05:30'
-last_checked: '2026-08-08T18:46:45.335322+05:30'
+first_seen: '2026-08-08T21:20:34.301422+05:30'
+last_seen: '2026-08-08T21:20:34.301422+05:30'
+last_checked: '2026-08-08T21:20:34.301422+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Provides advanced tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and real-world AI agent implementations, structured in Jupyter Notebook format.
-
-- **Technical Scope**: Covers AI engineering topics including multi-agent systems (MCP), machine learning workflows, and production-grade AI deployment strategies.
-
-- **Repository Metrics**: 36,894 stars, 6,093 forks, last updated August 8, 2026, with a focus on practical, hands-on AI engineering resources.
+- **Comprehensive LLM & RAG Tutorials**: Repository offers detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures, including implementation in Jupyter Notebooks.
+- **AI Agent Applications**: Focuses on real-world deployments of AI agents, covering end-to-end workflows, MCP (Model Context Protocol) integrations, and practical use cases.
+- **Active Maintenance & Community**: Last updated in August 2026, with 36,898 stars and 6,094 forks, indicating strong community engagement and ongoing development in AI engineering practices.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36894
-- Forks: 6093
+- Stars: 36898
+- Forks: 6094
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-08-08T11:44:15Z
+- Last Updated: 2026-08-08T15:36:24Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

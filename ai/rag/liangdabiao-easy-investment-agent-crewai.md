@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-08T18:50:45.557900+05:30'
+collected_at: '2026-08-08T21:24:34.511155+05:30'
 published_at: '2026-08-06T03:13:58Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-08T18:50:45.557900+05:30'
-last_seen: '2026-08-08T18:50:45.557900+05:30'
-last_checked: '2026-08-08T18:50:45.557900+05:30'
+first_seen: '2026-08-08T21:24:34.511155+05:30'
+last_seen: '2026-08-08T21:24:34.511155+05:30'
+last_checked: '2026-08-08T21:24:34.511155+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **Multi-Agent System**: Implements 4 specialized AI agents for A-share market analysis, leveraging CrewAI for collaborative decision-making.
-- **Data Integration**: Utilizes AKShare for real-time A-share data (pricing, financials, fund flows, sentiment) with Chinese market-specific optimizations.
-- **Automated Investment Insights**: Generates actionable investment recommendations through automated analysis of structured financial data.
+- **Data Integration**: Utilizes AKShare for real-time A-share data (quotes, financials, fund flows, sentiment) and provides automated investment recommendations.
+- **China-Specific Optimization**: Tailored for A-share market dynamics, offering localized financial analysis and investment strategies.
 
 ## Why It Matters
 

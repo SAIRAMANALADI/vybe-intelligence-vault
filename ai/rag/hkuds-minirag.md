@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-08T18:47:10.360404+05:30'
+collected_at: '2026-08-08T21:20:59.327590+05:30'
 published_at: '2026-08-05T06:55:03Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 1996
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-08T18:47:10.360404+05:30'
-last_seen: '2026-08-08T18:47:10.360404+05:30'
-last_checked: '2026-08-08T18:47:10.360404+05:30'
+first_seen: '2026-08-08T21:20:59.327590+05:30'
+last_seen: '2026-08-08T21:20:59.327590+05:30'
+last_checked: '2026-08-08T21:20:59.327590+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified Retrieval-Augmented Generation (RAG) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
 
-- **Key Technical Contributions**: Proposes architectural optimizations (e.g., lightweight retrieval mechanisms, model distillation) to enable efficient RAG with minimal resource requirements, targeting edge deployment and low-cost inference.
+- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms tailored for SLMs, enabling faster inference and lower memory usage compared to traditional RAG systems.
 
-- **Open-Source Implementation**: Provides a Python-based repository with modular components for retrieval, reranking, and generation, optimized for small LLMs (e.g., <1B parameters) and compatible with standard RAG toolchains.
+- **Open-Source Implementation**: Provides a Python-based, modular codebase (`HKUDS/MiniRAG`) with 1,996 stars and 257 forks, facilitating reproducibility and community-driven improvements.
 
 ## Why It Matters
 

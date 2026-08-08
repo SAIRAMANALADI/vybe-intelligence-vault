@@ -1,70 +1,56 @@
 ---
-title: huggingface/sentence-transformers
+title: sentence-transformers/sentence_transformers/sentence_transformer/model.py at
+  main · huggingface/sentence-transformers ·
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/huggingface/sentence-transformers
-collected_at: '2026-08-06T17:13:21.622033+05:30'
-published_at: '2026-08-06T09:40:31Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/huggingface/sentence-transformers/blob/main/sentence_transformers/sentence_transformer/model.py#L41-L1160
+published_at: '2026-08-08T21:29:02.899315+05:30'
+collected_at: '2026-08-08T21:29:02.899334+05:30'
 tags:
+- benchmark
 - dataset
-- github-repo
 - models
-- python
 - rag
-stars: 18975
-language: Python
+- reddit
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2019-07-24T10:53:51Z'
-pushed_at: '2026-08-06T11:37:29Z'
 resource_id: github:huggingface/sentence-transformers
-first_seen: '2026-08-06T17:13:21.622033+05:30'
-last_seen: '2026-08-06T17:13:21.622033+05:30'
-last_checked: '2026-08-06T17:13:21.622033+05:30'
+first_seen: '2026-08-08T21:29:02.899334+05:30'
+last_seen: '2026-08-08T21:29:02.899334+05:30'
+last_checked: '2026-08-08T21:29:02.899334+05:30'
 health_score: 100
 ---
 
-# huggingface/sentence-transformers
+# sentence-transformers/sentence_transformers/sentence_transformer/model.py at main · huggingface/sentence-transformers ·
 
 ## Summary
 
-- **Framework**: Python-based library for generating state-of-the-art sentence embeddings, retrieval, and reranking models using deep learning architectures (e.g., Transformer-based models like BERT, RoBERTa).
-- **Key Features**: Supports pre-trained models optimized for semantic similarity, cross-encoder reranking, and efficient retrieval via FAISS or similar libraries; includes modular APIs for fine-tuning and inference.
-- **Integration**: Compatible with Hugging Face ecosystem (e.g., `transformers`, `datasets`) and optimized for GPU acceleration; actively maintained with frequent updates (last commit: 2026-08-06).
+- **Model Architecture**: `SentenceTransformer` class inherits from `BaseModel` and `FitMixin`, combining transformer-based text encoding with fine-tuning capabilities; supports custom modules, device placement (CPU/GPU/NPU), and precision quantization (float32, int8, uint8, binary, ubinary).
+
+- **Initialization & Config**: Supports loading from Hugging Face Hub, local paths, or custom modules; includes advanced config via `model_kwargs` (e.g., `torch_dtype`, `attn_implementation`, `device_map`) and `processor_kwargs` for tokenizer customization.
+
+- **Embedding Generation**: Implements `encode()` for text-to-dense-vector conversion with optional prompt prepending, truncation (`truncate_dim`), and similarity metric selection (`cosine`, `dot`, `euclidean`, `manhattan`); backend options include `torch`, `onnx`, and `openvino`.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: huggingface
-- Stars: 18975
-- Forks: 2848
-- Language: Python
-- Topics: None
-- Last Updated: 2026-08-06T09:40:31Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2019-07-24T10:53:51Z
-- Pushed At: 2026-08-06T11:37:29Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-08T21:29:02.899315+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- benchmark
+- dataset
+- models
+- rag
+- reddit
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/huggingface/sentence-transformers
+Original source: https://github.com/huggingface/sentence-transformers/blob/main/sentence_transformers/sentence_transformer/model.py#L41-L1160
