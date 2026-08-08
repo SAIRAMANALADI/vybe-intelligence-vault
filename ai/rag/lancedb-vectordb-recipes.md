@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-07T08:50:33.827590+05:30'
+collected_at: '2026-08-08T12:48:48.610705+05:30'
 published_at: '2026-08-03T11:47:39Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-07T08:50:33.827590+05:30'
-last_seen: '2026-08-07T08:50:33.827590+05:30'
-last_checked: '2026-08-07T08:50:33.827590+05:30'
+first_seen: '2026-08-08T12:48:48.610705+05:30'
+last_seen: '2026-08-08T12:48:48.610705+05:30'
+last_checked: '2026-08-08T12:48:48.610705+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI applications, integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
-- **Vector Database Integration**: Demonstrates workflows using LanceDB as the vector database for efficient embedding storage, retrieval, and similarity search in AI pipelines.
-- **Agent & Fine-Tuning Workflows**: Includes recipes for building AI agents, fine-tuning models, and leveraging OpenAI embeddings for tasks spanning deep learning, multimodal processing, and LLM-driven applications.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based recipes for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+
+- **Vector Database Integration**: Demonstrates practical applications of LanceDB (vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines.
+
+- **Agent & LLM Tooling**: Includes examples for building AI agents with OpenAI APIs, deep learning frameworks, and fine-tuning workflows for multimodal and text-based models.
 
 ## Why It Matters
 

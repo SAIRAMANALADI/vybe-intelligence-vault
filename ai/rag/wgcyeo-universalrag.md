@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-07T08:52:03.944711+05:30'
+collected_at: '2026-08-08T12:50:18.641493+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-07T08:52:03.944711+05:30'
-last_seen: '2026-08-07T08:52:03.944711+05:30'
-last_checked: '2026-08-07T08:52:03.944711+05:30'
+first_seen: '2026-08-08T12:50:18.641493+05:30'
+last_seen: '2026-08-08T12:50:18.641493+05:30'
+last_checked: '2026-08-08T12:50:18.641493+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework for retrieval-augmented generation (RAG) that handles diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence) via modality-specific encoders and hierarchical retrieval.
-- **Modular Architecture**: Implements a plug-and-play system with modality-agnostic retrievers, modality-specific encoders (e.g., CLIP for vision, T5 for text), and a fusion module to integrate heterogeneous retrieved data for LLM input.
-- **ACL 2026 Oral Contribution**: Presents empirical results demonstrating superior performance over traditional RAG baselines across multimodal benchmarks, with open-source implementation in Python leveraging PyTorch.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, entity-level) within a unified architecture.
+
+- **ACL 2026 Oral Presentation**: Highlighted as an oral presentation at ACL 2026, indicating significant advancements in cross-modal retrieval and generation capabilities.
+
+- **Modular Python Implementation**: Provides an open-source Python-based implementation with extensible components for custom retrieval strategies, fusion mechanisms, and generation pipelines across modalities.
 
 ## Why It Matters
 

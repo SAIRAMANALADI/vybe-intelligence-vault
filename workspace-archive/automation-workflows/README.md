@@ -9,23 +9,23 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 ## Top Matched Resources
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
-- [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
-- [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) (template - ESSENTIAL Tier)
-- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) (template - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
+- [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (framework - ESSENTIAL Tier)
+- [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
+- [Stainless · GitHub](https://github.com/stainless-api)
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
+- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
 - [OpenAI · GitHub](https://github.com/openai)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-07 09:08 IST*
+*Last updated: 2026-08-08 13:05 IST*

@@ -1,41 +1,39 @@
 ---
-title: 'feat(sdk,code,quickjs)!: make the `ToDoListMiddleware` list opt-in by davibinboi
-  · Pull Request #4929 · langchain-ai/dee'
+title: deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/langchain-ai/deepagents/pull/4929
-published_at: '2026-08-06T01:38:12.515000+05:30'
-collected_at: '2026-08-06T01:38:12.515011+05:30'
+source_url: https://github.com/langchain-ai/deepagents/blob/main/libs/code/CHANGELOG.md
+published_at: '2026-08-08T12:55:35.019065+05:30'
+collected_at: '2026-08-08T12:55:35.019079+05:30'
 tags:
 - agents
 - anthropic
-- benchmark
-- frontend_ui
-- hackernews
+- meta-ai
+- models
 - openai
+- producthunt
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:langchain-ai/deepagents
-first_seen: '2026-08-06T01:38:12.515011+05:30'
-last_seen: '2026-08-06T01:38:12.515011+05:30'
-last_checked: '2026-08-06T01:38:12.515011+05:30'
+first_seen: '2026-08-08T12:55:35.019079+05:30'
+last_seen: '2026-08-08T12:55:35.019079+05:30'
+last_checked: '2026-08-08T12:55:35.019079+05:30'
 health_score: 100
 ---
 
-# feat(sdk,code,quickjs)!: make the `ToDoListMiddleware` list opt-in by davibinboi · Pull Request #4929 · langchain-ai/dee
+# deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub
 
 ## Summary
 
-- **Breaking Change**: `TodoListMiddleware` is no longer default; agents must explicitly pass `middleware=[TodoListMiddleware()]` to `create_deep_agent` to restore `write_todos` tool, `todos` state channel, and todo-planning prompt.
+- Added Meta `muse-spark-1.2` to model switcher and improved diff readability with word-level highlights and quieter hunks ([#5389](https://github.com/langchain-ai/deepagents/issues/5389), [#5106](https://github.com/langchain-ai/deepagents/issues/5106)).
 
-- **Performance Impact**: Benchmarks across GPT-5.6 Terra, Claude Opus 4.8, and GLM 5.2 showed no statistically significant accuracy improvement with `TodoListMiddleware`, while increasing token usage on two of three models.
+- Implemented Hooks v2 with plugin support, session transcripts, and hardened command execution; raised agent recursion limit to 2000 with configurability ([#4916](https://github.com/langchain-ai/deepagents/issues/4916), [#4918](https://github.com/langchain-ai/deepagents/issues/4918), [#4994](https://github.com/langchain-ai/deepagents/issues/4994)).
 
-- **Implementation Details**: Removed default middleware from main agent, general-purpose subagent, and declarative subagents; opt-in is mirrored for subagents if main agent opts in; OpenAI Codex profile retains it via `extra_middleware`.
+- Added auto-approval classifier configuration with model selection and timeout, and integrated Baseten pricing overrides with local fallback for missing `genai-prices` data ([#5205](https://github.com/langchain-ai/deepagents/issues/5205), [#5312](https://github.com/langchain-ai/deepagents/issues/5312)).
 
 ## Why It Matters
 
@@ -45,22 +43,21 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T01:38:12.515000+05:30
+- Published: 2026-08-08T12:55:35.019065+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
-- benchmark
-- frontend_ui
-- hackernews
+- meta-ai
+- models
 - openai
+- producthunt
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube
 
 ## Source
 
-Original source: https://github.com/langchain-ai/deepagents/pull/4929
+Original source: https://github.com/langchain-ai/deepagents/blob/main/libs/code/CHANGELOG.md

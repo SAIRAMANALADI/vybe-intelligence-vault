@@ -4,25 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-07T08:52:33.971137+05:30'
-published_at: '2026-08-07T02:38:03Z'
+collected_at: '2026-08-08T12:50:48.704912+05:30'
+published_at: '2026-08-08T05:30:06Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-stars: 10499
+- workflows
+stars: 10510
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-08-07T02:52:26Z'
+pushed_at: '2026-08-07T22:59:42Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-07T08:52:33.971137+05:30'
-last_seen: '2026-08-07T08:52:33.971137+05:30'
-last_checked: '2026-08-07T08:52:33.971137+05:30'
+first_seen: '2026-08-08T12:50:48.704912+05:30'
+last_seen: '2026-08-08T12:50:48.704912+05:30'
+last_checked: '2026-08-08T12:50:48.704912+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous multi-agent system for automated code generation, debugging, and testing with parallel task execution.
-- **Multi-LLM Integration**: Supports OpenAI, Anthropic (ClaudeCode), and other LLM backends for dynamic agent collaboration.
-- **Python-Based Framework**: Built on Python with modular architecture for extensibility and real-time task orchestration.
+- **Asynchronous Coding Agent**: Implements a non-blocking, event-driven architecture for parallelized code generation, execution, and validation using asyncio and concurrent.futures.
+- **Multi-Provider LLM Integration**: Supports asynchronous interactions with OpenAI, Anthropic (ClaudeCode), and other LLM providers via standardized async API clients.
+- **Stateful Workflow Management**: Tracks task progress, dependencies, and artifacts (e.g., code, logs) in a structured state machine, enabling fault tolerance and resumable workflows.
 
 ## Why It Matters
 
@@ -41,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10499
+- Stars: 10510
 - Forks: 1220
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-07T02:38:03Z
+- Last Updated: 2026-08-08T05:30:06Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-08-07T02:52:26Z
+- Pushed At: 2026-08-07T22:59:42Z
 
 ## Possible Use Cases
 

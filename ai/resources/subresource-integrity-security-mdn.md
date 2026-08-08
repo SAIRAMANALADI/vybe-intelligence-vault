@@ -3,17 +3,17 @@ title: Subresource Integrity - Security | MDN
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
-published_at: '2026-08-07T08:58:56.921396+05:30'
-collected_at: '2026-08-07T08:58:56.921404+05:30'
+source_url: https://developer.mozilla.org/docs/Web/Security/Subresource_Integrity
+published_at: '2026-08-08T12:59:29.330449+05:30'
+collected_at: '2026-08-08T12:59:29.330459+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:subresource-integrity-security-mdn
-first_seen: '2026-08-07T08:58:56.921404+05:30'
-last_seen: '2026-08-07T08:58:56.921404+05:30'
-last_checked: '2026-08-07T08:58:56.921404+05:30'
+first_seen: '2026-08-08T12:59:29.330459+05:30'
+last_seen: '2026-08-08T12:59:29.330459+05:30'
+last_checked: '2026-08-08T12:59:29.330459+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Mechanism**: Subresource Integrity (SRI) enforces cryptographic hash verification of fetched resources (e.g., from CDNs) to detect tampering, using attributes like `integrity` (e.g., `sha384-<base64-hash>`) in `<script>`/`<link>` tags to block mismatched content.
+- **SRI Mechanism**: Enables browsers to verify fetched resources (e.g., from CDNs) by comparing cryptographic hashes (`SHA-256`, `SHA-384`, `SHA-512`) embedded in the `integrity` attribute of `<script>`/`<link>` tags against the resource's actual content to detect tampering or corruption.
 
-- **CORS Interaction**: SRI requires `crossorigin="anonymous"` for cross-origin resources to function; `no-cors` mode explicitly blocks SRI enforcement to prevent side-channel attacks (e.g., hash-based content inference via load success/failure).
+- **CORS Dependency**: Requires the `crossorigin` attribute (e.g., `crossorigin="anonymous"`) for cross-origin resources to enforce SRI; `no-cors` mode explicitly blocks SRI validation to prevent side-channel attacks.
 
-- **Policy Enforcement**: The `Integrity-Policy` header (or `Integrity-Policy-Report-Only`) mandates SRI for scripts/styles, blocking non-compliant requests (e.g., `no-cors` or missing `integrity`) and reporting violations via the Reporting API with structured `integrity-violation` reports.
+- **Policy Enforcement**: Uses `Integrity-Policy`/`Integrity-Policy-Report-Only` headers to mandate `integrity` attributes on scripts/styles, blocking violations (or reporting them) via structured dictionaries (`blocked-destinations`, `endpoints`), with violation reports sent to configured endpoints.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-07T08:58:56.921396+05:30
+- Published: 2026-08-08T12:59:29.330449+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
+Original source: https://developer.mozilla.org/docs/Web/Security/Subresource_Integrity

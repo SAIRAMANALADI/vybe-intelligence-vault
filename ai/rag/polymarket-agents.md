@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Polymarket/agents
-collected_at: '2026-08-07T08:53:49.049407+05:30'
-published_at: '2026-08-06T15:21:56Z'
+collected_at: '2026-08-08T12:52:03.821275+05:30'
+published_at: '2026-08-08T03:20:08Z'
 tags:
 - agents
 - github-repo
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-07-03T22:44:18Z'
 pushed_at: '2024-11-05T15:40:29Z'
 resource_id: github:polymarket/agents
-first_seen: '2026-08-07T08:53:49.049407+05:30'
-last_seen: '2026-08-07T08:53:49.049407+05:30'
-last_checked: '2026-08-07T08:53:49.049407+05:30'
+first_seen: '2026-08-08T12:52:03.821275+05:30'
+last_seen: '2026-08-08T12:52:03.821275+05:30'
+last_checked: '2026-08-08T12:52:03.821275+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades on Polymarket, leveraging market-making and predictive models for automated decision-making.
-
-- **Modular Architecture**: Designed with extensible components for strategy implementation, order execution, and real-time data processing via Polymarket’s API.
-
-- **Open-Source Toolkit**: Provides foundational codebase (3.7k+ stars) for deploying AI-driven trading bots, with community-driven contributions and updates (last commit: 2026-08-06).
+- **Autonomous Trading Framework**: Python-based repository enabling AI-driven autonomous trading on Polymarket, leveraging market-making and prediction strategies.
+- **Modular Architecture**: Implements extensible agent-based design for real-time market interaction, order execution, and risk management.
+- **Open-Source Toolkit**: Provides SDK and CLI tools for agent deployment, backtesting, and integration with Polymarket’s conditional token API.
 
 ## Why It Matters
 
@@ -43,10 +41,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Polymarket
 - Stars: 3763
-- Forks: 824
+- Forks: 825
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-06T15:21:56Z
+- Last Updated: 2026-08-08T03:20:08Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-07-03T22:44:18Z

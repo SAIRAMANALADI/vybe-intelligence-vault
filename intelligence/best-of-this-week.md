@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [Reliability-Asymmetric Spacecraft Autonomy: Co-Designing a Capable Learned GNC Stack with a Verified, Adaptation-Aware Runtime Shield](https://arxiv.org/abs/2606.25366) (Score: 70) - Category: `ai-coding-agents/`
-*   [Non-Asymptotic Best Policy Identification Guarantees in Online Reinforcement Learning](https://arxiv.org/abs/2607.17201) (Score: 70) - Category: `ai-coding-agents/`
-*   [OpenAI · GitHub](https://github.com/openai) (Score: 70) - Category: `ai-coding-agents/`
-*   [Don't Make Models Guess Security and Safety: Symbolic Guardrails for Domain-Specific AI Agents](https://arxiv.org/abs/2604.15579) (Score: 70) - Category: `ai-coding-agents/`
-*   [EvoDRC: A Self-Evolving Agentic Framework for Automated DRC Violation Repair](https://arxiv.org/abs/2607.20019) (Score: 70) - Category: `ai-coding-agents/`
-*   [EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments](https://arxiv.org/abs/2607.05155) (Score: 70) - Category: `ai-coding-agents/`
-*   [Explain Before You Answer: A Survey on Compositional Visual Reasoning](https://arxiv.org/abs/2508.17298) (Score: 70) - Category: `ai-coding-agents/`
-*   [Moral Hazard in Multi-Agent Language Models](https://arxiv.org/abs/2607.23982) (Score: 70) - Category: `ai-coding-agents/`
-*   [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) (Score: 70) - Category: `ai-coding-agents/`
-*   [ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability](https://arxiv.org/abs/2607.02686) (Score: 70) - Category: `ai-coding-agents/`
-*   [Towards Robust Tool Use in Agents via Experience-Driven Adaptive Guidance](https://arxiv.org/abs/2608.03403) (Score: 70) - Category: `ai-coding-agents/`
-*   [From Trajectories to Prefixes: Reusing Teacher Trajectories via Replayed Prefixes and Online Continuation](https://arxiv.org/abs/2607.19395) (Score: 70) - Category: `ai-coding-agents/`
-*   [STRIDE: Strategic Trajectory Reasoning via Discriminative Estimation for Verifiable Reinforcement Learning](https://arxiv.org/abs/2606.15866) (Score: 70) - Category: `ai-coding-agents/`
-*   [TheAgentCompany/TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany) (Score: 70) - Category: `ai-coding-agents/`
-*   [Studying, Identifying, and Fixing Hidden Technical Debt in AI-Intensive Cyber-Physical Systems](https://arxiv.org/abs/2608.02638) (Score: 70) - Category: `ai-coding-agents/`
+*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
+*   [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (Score: 70) - Category: `ai-coding-agents/`
+*   [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) (Score: 70) - Category: `ai-coding-agents/`
+*   [bbPress Codex](https://codex.bbpress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [Blog | Bluesky](https://docs.bsky.app/blog) (Score: 70) - Category: `ai-coding-agents/`
+*   [Photojournal - NASA Science](https://photojournal.jpl.nasa.gov/index.html) (Score: 70) - Category: `ai-coding-agents/`
+*   [Mintlify · GitHub](https://github.com/mintlify) (Score: 70) - Category: `ai-coding-agents/`
+*   [How your Apple Card application is evaluated - Apple Support](https://support.apple.com/kb/HT209218) (Score: 70) - Category: `ai-coding-agents/`
+*   [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (Score: 70) - Category: `ai-coding-agents/`
+*   [OpenResearch](https://openresearch.sh/compute) (Score: 70) - Category: `ai-coding-agents/`
+*   [extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at master · firebase/extensions · GitHub](https://github.com/firebase/extensions/blob/master/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md) (Score: 70) - Category: `ai-coding-agents/`
+*   [Stylised pathways to “well below 2°C”](https://cicero.oslo.no/en/articles/stylised-pathways-to-well-below-2c) (Score: 70) - Category: `ai-coding-agents/`
+*   [Building custom connectors - Claude.ai Documentation](https://claude.com/docs/connectors/building) (Score: 70) - Category: `ai-coding-agents/`
+*   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [Graph Neural Network-based Algorithm Selection for the Traveling Salesman Problem: A Systematic Study of Cost and Rank Losses under Distinct Budget Regimes](https://arxiv.org/abs/2607.18632) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

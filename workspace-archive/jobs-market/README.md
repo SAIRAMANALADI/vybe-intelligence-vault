@@ -10,9 +10,9 @@ Aligning skill development with current hiring signals helps developers optimize
 
 - [JobMatchAI-An Intelligent Job Matching Platform Using Knowledge Graphs, Semantic Search and Explainable AI](https://arxiv.org/abs/2603.14558) (framework - USEFUL Tier)
 - [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (tutorial - USEFUL Tier)
+- [Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](https://arxiv.org/abs/2606.11663) (framework - USEFUL Tier)
 - [Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models](https://arxiv.org/abs/2607.16201) (template - USEFUL Tier)
 - [The Eric and Wendy Schmidt AI in Science Fellowship – University of Chicago](https://aiscience.uchicago.edu) (framework - USEFUL Tier)
-- [Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](https://arxiv.org/abs/2606.11663) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -32,4 +32,4 @@ Aligning skill development with current hiring signals helps developers optimize
 
 ---
 
-*Last updated: 2026-08-07 09:08 IST*
+*Last updated: 2026-08-08 13:05 IST*

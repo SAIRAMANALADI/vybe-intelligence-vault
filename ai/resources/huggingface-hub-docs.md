@@ -4,24 +4,24 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huggingface/hub-docs
-collected_at: '2026-08-07T09:00:11.086539+05:30'
-published_at: '2026-08-06T16:27:19Z'
+collected_at: '2026-08-08T12:56:49.621734+05:30'
+published_at: '2026-08-08T03:34:15Z'
 tags:
 - dataset
 - github-repo
 - hackernews
 - handlebars
-stars: 581
+stars: 582
 language: Handlebars
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2022-03-16T13:26:14Z'
-pushed_at: '2026-08-06T14:31:46Z'
+pushed_at: '2026-08-08T03:34:12Z'
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-08-07T09:00:11.086539+05:30'
-last_seen: '2026-08-07T09:00:11.086539+05:30'
-last_checked: '2026-08-07T09:00:11.086539+05:30'
+first_seen: '2026-08-08T12:56:49.621734+05:30'
+last_seen: '2026-08-08T12:56:49.621734+05:30'
+last_checked: '2026-08-08T12:56:49.621734+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Official documentation source for the Hugging Face Hub, written in Handlebars, covering ML model hosting, dataset management, and inference APIs.
-- **Metadata**: 581 stars, 479 forks, last updated 2026-08-06; includes `hacktoberfest` and `machine-learning` topics.
-- **Purpose**: Serves as a technical reference for integrating with or extending the Hugging Face Hub ecosystem.
+- **Repository Purpose**: Hosts documentation for the Hugging Face Hub, a platform for sharing and collaborating on machine learning models, datasets, and applications.
+- **Technical Stack**: Utilizes Handlebars for templating, with integration for hacktoberfest contributions and machine learning-focused content.
+- **Metadata**: Maintained under MIT License, last updated on 2026-08-08, with 582 stars and 480 forks.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: huggingface
-- Stars: 581
-- Forks: 479
+- Stars: 582
+- Forks: 480
 - Language: Handlebars
 - Topics: hacktoberfest, machine-learning
-- Last Updated: 2026-08-06T16:27:19Z
+- Last Updated: 2026-08-08T03:34:15Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2022-03-16T13:26:14Z
-- Pushed At: 2026-08-06T14:31:46Z
+- Pushed At: 2026-08-08T03:34:12Z
 
 ## Possible Use Cases
 

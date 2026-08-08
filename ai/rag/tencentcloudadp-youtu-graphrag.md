@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-07T08:51:58.908008+05:30'
+collected_at: '2026-08-08T12:50:13.646285+05:30'
 published_at: '2026-08-07T02:22:41Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-07T08:51:58.908008+05:30'
-last_seen: '2026-08-07T08:51:58.908008+05:30'
-last_checked: '2026-08-07T08:51:58.908008+05:30'
+first_seen: '2026-08-08T12:50:13.646285+05:30'
+last_seen: '2026-08-08T12:50:13.646285+05:30'
+last_checked: '2026-08-08T12:50:13.646285+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-awareness.
+- **Vertically Unified Agents**: Introduces a novel framework integrating multiple specialized agents (e.g., retrieval, reasoning, planning) for complex graph-based tasks, optimizing vertical task decomposition and coordination.
 
-- **Graph Retrieval-Augmented Generation (GraphRAG)**: Extends traditional RAG by integrating graph-based knowledge retrieval, enabling agents to dynamically access and synthesize structured relational data for improved reasoning accuracy.
+- **Graph Retrieval-Augmented Complex Reasoning (GraphRAG)**: Combines graph neural networks (GNNs) with retrieval-augmented generation (RAG) to enhance multi-hop reasoning over large-scale knowledge graphs, improving factual accuracy and contextual understanding.
 
-- **ICLR 2026 Contribution**: Proposes a novel vertical unification paradigm for agents, optimizing graph-augmented reasoning with empirical validation on large-scale benchmarks, demonstrating superior performance over baseline RAG and LLM agents.
+- **Modular Python Implementation**: Provides an open-source Python library with scalable, extensible components for graph construction, agent orchestration, and reasoning pipelines, leveraging PyTorch and DGL for efficient graph processing.
 
 ## Why It Matters
 

@@ -10,11 +10,11 @@ Context window management, prompt engineering, few-shot prompting, API rate limi
 LiteLLM, LangChain, OpenAI API, Anthropic SDK.
 
 ## Recommended Resources from the Vault
-*   [deepset, makers of Haystack - YouTube](https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw)
-*   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
-*   [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](https://github.com/deepset-ai/haystack-tutorials/blob/main/Contributing.md#contributing-to-haystack-tutorials)
 *   [deepset-ai/haystack-integrations](https://github.com/deepset-ai/haystack-integrations)
-*   [Nemotron/use-case-examples/nemotron-voice-rag-agent-example at main · NVIDIA-NeMo/Nemotron · GitHub](https://github.com/NVIDIA-NeMo/Nemotron/tree/main/use-case-examples/nemotron-voice-rag-agent-example)
+*   [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](https://github.com/deepset-ai/haystack-tutorials/blob/main/Contributing.md#contributing-to-haystack-tutorials)
+*   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
+*   [deepset, makers of Haystack - YouTube](https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw)
+*   [Type Checking Project Haystack Grids using JSON Schema and Pydantic](https://arxiv.org/abs/2606.24891)
 
 ## Project Ideas
 *   Build an API router that fallbacks to a smaller LLM when rate limits are hit.

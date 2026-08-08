@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
-collected_at: '2026-08-07T08:54:14.092358+05:30'
-published_at: '2026-08-06T16:54:36Z'
+collected_at: '2026-08-08T12:52:28.835527+05:30'
+published_at: '2026-08-07T14:06:59Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - jupyter notebook
 - rag
 - workflows
-stars: 18298
+stars: 18299
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-22T11:59:02Z'
 pushed_at: '2026-06-14T05:25:52Z'
 resource_id: github:google-gemini/gemini-fullstack-langgraph-quickstart
-first_seen: '2026-08-07T08:54:14.092358+05:30'
-last_seen: '2026-08-07T08:54:14.092358+05:30'
-last_checked: '2026-08-07T08:54:14.092358+05:30'
+first_seen: '2026-08-08T12:52:28.835527+05:30'
+last_seen: '2026-08-08T12:52:28.835527+05:30'
+last_checked: '2026-08-08T12:52:28.835527+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates full-stack agent development using **Gemini 2.5** and **LangGraph**, providing a starter template for building AI-driven applications.
-
-- **Technical Stack**: Implemented in **Jupyter Notebook**, leveraging the **Gemini API** for LLM integration and **LangGraph** for workflow orchestration.
-
-- **Key Features**: Includes preconfigured agent workflows, API interaction examples, and modular components for rapid prototyping of full-stack AI agents.
+- **Purpose**: Demonstrates building full-stack AI agents using **Gemini 2.5** and **LangGraph** for modular agent workflows.
+- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging the **Gemini API** for LLM interactions and **LangGraph** for agent orchestration.
+- **Key Features**: Provides a starter template for integrating Gemini models into agentic systems with structured state management and tool-calling capabilities.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: google-gemini
-- Stars: 18298
-- Forks: 3077
+- Stars: 18299
+- Forks: 3076
 - Language: Jupyter Notebook
 - Topics: gemini, gemini-api
-- Last Updated: 2026-08-06T16:54:36Z
+- Last Updated: 2026-08-07T14:06:59Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-22T11:59:02Z

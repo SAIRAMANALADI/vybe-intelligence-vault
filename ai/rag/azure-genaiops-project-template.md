@@ -4,15 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-07T08:50:43.816534+05:30'
+collected_at: '2026-08-08T12:48:58.622485+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
-- benchmark
 - bicep
 - github-repo
-- openai
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -22,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-07T08:50:43.816534+05:30'
-last_seen: '2026-08-07T08:50:43.816534+05:30'
-last_checked: '2026-08-07T08:50:43.816534+05:30'
+first_seen: '2026-08-08T12:48:58.622485+05:30'
+last_seen: '2026-08-08T12:48:58.622485+05:30'
+last_checked: '2026-08-08T12:48:58.622485+05:30'
 health_score: 100
 ---
 
@@ -32,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Ops (GenAIOps) project, enabling repeatable Azure resource provisioning (e.g., compute, networking, storage) for RAG pipelines.
+- **Bicep-based IaC Template**: Provides Infrastructure-as-Code (IaC) for deploying a Generative AI Ops (GenAIOps) solution using Azure Bicep, enabling reproducible RAG pipeline infrastructure.
 
-- **RAG Pipeline Foundation**: Includes pre-configured components for Retrieval-Augmented Generation (RAG) workflows, such as vector databases, embedding models, and LLM integration, optimized for Azure services (e.g., Azure AI Search, Azure OpenAI).
+- **RAG Pipeline Foundation**: Includes core components for Retrieval-Augmented Generation (RAG) workflows, such as vector databases, compute resources, and API endpoints for AI model integration.
 
-- **Ops-Ready Features**: Embeds monitoring, logging (via Azure Monitor), and CI/CD integration (GitHub Actions) to support GenAIOps best practices like model versioning, prompt management, and automated evaluation.
+- **Azure-Optimized Deployment**: Leverages Azure-native services (e.g., Azure AI Search, Azure Kubernetes Service) for scalable, secure, and managed GenAIOps operations.
 
 ## Why It Matters
 
@@ -46,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Azure
 - Stars: 44
-- Forks: 56
+- Forks: 57
 - Language: Bicep
 - Topics: None
 - Last Updated: 2026-05-21T00:52:07Z

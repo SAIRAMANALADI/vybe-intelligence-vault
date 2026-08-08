@@ -4,14 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-08-07T08:51:08.873634+05:30'
+collected_at: '2026-08-08T12:49:23.614032+05:30'
 published_at: '2026-08-04T10:08:15Z'
 tags:
-- anthropic
 - github-repo
-- mistral
-- models
-- openai
 - rag
 - typescript
 stars: 165
@@ -22,9 +18,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-08-07T08:51:08.873634+05:30'
-last_seen: '2026-08-07T08:51:08.873634+05:30'
-last_checked: '2026-08-07T08:51:08.873634+05:30'
+first_seen: '2026-08-08T12:49:23.614032+05:30'
+last_seen: '2026-08-08T12:49:23.614032+05:30'
+last_checked: '2026-08-08T12:49:23.614032+05:30'
 health_score: 100
 ---
 
@@ -32,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Observability & Integration**: Implements LLM observability via Langfuse, enabling real-time monitoring, logging, and debugging of RAG pipeline interactions and LLM outputs.
+- **Observability & Scalability**: Integrates Langfuse for LLM observability and LiteLLM for 100+ LLM provider support, enabling monitoring, debugging, and multi-provider compatibility in a production-ready setup.
 
-- **Multi-Provider Compatibility**: Supports 100+ LLM providers through LiteLLM, abstracting API differences and enabling seamless switching between models (e.g., OpenAI, Anthropic, Mistral).
+- **Strict Type Safety & Testing**: Fully TypeScript-based with 100% test coverage, ensuring type correctness and reliability across the application.
 
-- **Production-Grade Features**: Fully Dockerized with TypeScript strict typing, 100% test coverage, and modular architecture for scalable, maintainable RAG deployments.
+- **Containerized & Modern Stack**: Dockerized deployment with modern tooling (e.g., full type-checking) for seamless scalability and maintainability.
 
 ## Why It Matters
 

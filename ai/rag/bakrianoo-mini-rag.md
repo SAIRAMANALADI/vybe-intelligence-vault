@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-08-07T08:51:48.894715+05:30'
+collected_at: '2026-08-08T12:50:03.657658+05:30'
 published_at: '2026-08-06T17:08:25Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-08-07T08:51:48.894715+05:30'
-last_seen: '2026-08-07T08:51:48.894715+05:30'
-last_checked: '2026-08-07T08:51:48.894715+05:30'
+first_seen: '2026-08-08T12:50:03.657658+05:30'
+last_seen: '2026-08-08T12:50:03.657658+05:30'
+last_checked: '2026-08-08T12:50:03.657658+05:30'
 health_score: 100
 ---
 
@@ -30,8 +30,8 @@ health_score: 100
 ## Summary
 
 - **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker.
-- **Modular Architecture**: Implements a structured, containerized setup with FastAPI for backend services and Docker for deployment, emphasizing scalability and maintainability.
-- **GenAI Integration**: Demonstrates integration with generative AI models, focusing on efficient retrieval mechanisms and API-driven workflows for real-world applications.
+- **Modular Architecture**: Implements a scalable microservices-based design with FastAPI for backend, Docker for containerization, and integrates GenAI models for retrieval and generation.
+- **Open-Source Toolkit**: Repository includes pre-configured infrastructure (Docker, FastAPI) and educational resources to demonstrate end-to-end RAG workflows with practical examples.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: bakrianoo
 - Stars: 680
-- Forks: 303
+- Forks: 304
 - Language: Python
 - Topics: docker, education, fastapi, genai, python, rag
 - Last Updated: 2026-08-06T17:08:25Z

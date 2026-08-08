@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-07T08:51:03.864839+05:30'
-published_at: '2026-08-03T13:16:53Z'
+collected_at: '2026-08-08T12:49:18.615841+05:30'
+published_at: '2026-08-07T11:55:59Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
 - workflows
-stars: 157
+stars: 158
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-07T08:51:03.864839+05:30'
-last_seen: '2026-08-07T08:51:03.864839+05:30'
-last_checked: '2026-08-07T08:51:03.864839+05:30'
+first_seen: '2026-08-08T12:49:18.615841+05:30'
+last_seen: '2026-08-08T12:49:18.615841+05:30'
+last_checked: '2026-08-08T12:49:18.615841+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval using LangChain and a vectorstore for enhanced RAG performance.
+- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with keyword-based retrieval (BM25) for enhanced RAG performance using LangChain and FAISS/Chroma vector stores.
 
-- **Streamlit Frontend**: Provides a web interface built with Streamlit to interact with the RAG pipeline, enabling user queries and result visualization.
+- **Streamlit UI Integration**: Provides a web interface for querying and visualizing RAG results, with components for input prompts, retrieved context, and generated responses.
 
-- **LangChain RAG Pipeline**: Implements a retrieval-augmented generation workflow using LangChain's modular components (e.g., retrievers, LLMs) for dynamic document querying and response generation.
+- **Modular LangChain Pipeline**: Implements a configurable RAG workflow with document loaders, text splitters, embeddings (e.g., HuggingFace), and LLM inference (e.g., OpenAI/Groq) via LangChain's `RetrievalQA` chain.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: streamlit
-- Stars: 157
+- Stars: 158
 - Forks: 80
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-03T13:16:53Z
+- Last Updated: 2026-08-07T11:55:59Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-01T22:26:37Z

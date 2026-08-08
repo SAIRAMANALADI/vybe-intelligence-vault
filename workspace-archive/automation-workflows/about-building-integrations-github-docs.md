@@ -1,16 +1,17 @@
 ---
 title: About building integrations - GitHub Docs
 archive_category: automation-workflows
-source_category: ai/resources
-source_url: https://docs.github.com/integrations/concepts/about-building-integrations
+source_category: ai/rag
+source_url: https://docs.github.com/get-started/exploring-integrations/about-building-integrations
 resource_id: blog:about-building-integrations-github-docs
-local_vault_path: ai/resources/about-building-integrations-github-docs.md
+local_vault_path: ai/rag/about-building-integrations-github-docs.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- rag
 - reddit
 - scripts
 - web-crawled
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- GitHub integrations extend functionality via **GitHub Apps** (server/device-hosted), **GitHub Actions workflows** (event-triggered automation), or **custom actions** (reusable workflow components).
-- Integrations interact with GitHub via **REST/GraphQL APIs** for data operations and **webhooks** for real-time event notifications.
-- **GitHub Marketplace** supports publishing GitHub Apps/custom actions, while **GitHub Copilot** enables AI-powered workflows for generative AI integrations.
+- **Integration Types**: GitHub integrations extend functionality via GitHub Apps (server/device-hosted), GitHub Actions workflows (event-triggered), or custom actions (executable code within workflows).
+
+- **API & Webhook Support**: Integrations interact with GitHub using REST/GraphQL APIs for data operations and webhooks to monitor events (e.g., issue/PR activity).
+
+- **Publishing & AI Integration**: GitHub Apps/custom actions can be published to GitHub Marketplace; AI-powered workflows levera
 
 ## Use Cases
 
@@ -45,8 +48,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com/integrations/concepts/about-building-integrations
+Original source URL: https://docs.github.com/get-started/exploring-integrations/about-building-integrations
 
 ## Local Vault File
 
-Path: [about-building-integrations-github-docs.md](../../ai/resources/about-building-integrations-github-docs.md)
+Path: [about-building-integrations-github-docs.md](../../ai/rag/about-building-integrations-github-docs.md)

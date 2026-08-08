@@ -9,13 +9,13 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 ## Top Matched Resources
 
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
-- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag) (template - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (tutorial - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (framework - ESSENTIAL Tier)
-- [List of CommonMark Implementations · commonmark/commonmark-spec Wiki · GitHub](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations) (framework - ESSENTIAL Tier)
-- [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (mcp-server - ESSENTIAL Tier)
-- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
+- [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
+- [malonge/RaGOO](https://github.com/malonge/RaGOO) (workflow - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/run-llama/llama_index (LlamaIndex)
 https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
-- [List of CommonMark Implementations · commonmark/commonmark-spec Wiki · GitHub](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- [mongodb · GitHub](https://github.com/mongodb)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-08-07 09:07 IST*
+*Last updated: 2026-08-08 13:04 IST*

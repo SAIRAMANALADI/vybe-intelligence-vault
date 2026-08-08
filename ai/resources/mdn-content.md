@@ -5,15 +5,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/mdn/content/blob/main/files/en-us/web/security/defenses/subresource_integrity/index.md?plain=1
-published_at: '2026-08-06T09:19:27.557943+05:30'
-collected_at: '2026-08-06T09:19:27.557959+05:30'
+published_at: '2026-08-08T12:56:36.289078+05:30'
+collected_at: '2026-08-08T12:56:36.289088+05:30'
 tags:
 - web-crawled
+- youtube
 status: active
 resource_id: github:mdn/content
-first_seen: '2026-08-06T09:19:27.557959+05:30'
-last_seen: '2026-08-06T09:19:27.557959+05:30'
-last_checked: '2026-08-06T09:19:27.557959+05:30'
+first_seen: '2026-08-08T12:56:36.289088+05:30'
+last_seen: '2026-08-08T12:56:36.289088+05:30'
+last_checked: '2026-08-08T12:56:36.289088+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Subresource Integrity (SRI)** enforces cryptographic hash verification of fetched resources (e.g., from CDNs) to detect tampering, using `sha256`, `sha384`, or `sha512` hashes in the `integrity` attribute of `<script>` or `<link>` elements.
+- **Subresource Integrity (SRI)** mechanism enforces cryptographic hash validation (SHA-256/384/512) on fetched resources (scripts/stylesheets) to detect tampering, mitigating supply-chain attacks via CDNs or third-party hosts.
 
-- **CORS enforcement** is mandatory for SRI; resources must include the `crossorigin` attribute and the server must respond with `Access-Control-Allow-Origin` headers to permit cross-origin access.
+- **CORS Requirement**: SRI mandates `crossorigin` attribute and proper `Access-Control-Allow-Origin` headers for cross-origin requests, blocking `no-cors` mode to prevent hash-based side-channel attacks.
 
-- **Integrity Policy headers** (`Integrity-Policy`/`Integrity-Policy-Report-Only`) enforce mandatory `integrity` attributes on scripts/stylesheets, blocking or reporting violations via the Reporting API with structured violation reports.
+- **Integrity Policy Headers**: `Integrity-Policy` (blocking) and `Integrity-Policy-Report-Only` headers enforce mandatory `integrity` attributes, with violation reports sent via Reporting API when misconfigured.
 
 ## Why It Matters
 
@@ -35,11 +36,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-06T09:19:27.557943+05:30
+- Published: 2026-08-08T12:56:36.289078+05:30
 
 ## Related Tags
 
 - web-crawled
+- youtube
 
 ## Source
 

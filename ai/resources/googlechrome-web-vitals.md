@@ -4,22 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleChrome/web-vitals
-collected_at: '2026-08-01T14:16:33.740209+05:30'
-published_at: '2026-08-01T02:29:17Z'
+collected_at: '2026-08-08T12:57:18.059552+05:30'
+published_at: '2026-08-07T11:04:22Z'
 tags:
 - github-repo
 - javascript
-stars: 8569
+stars: 8578
 language: JavaScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2020-03-23T18:31:05Z'
-pushed_at: '2026-07-27T10:21:37Z'
+pushed_at: '2026-08-05T19:55:47Z'
 resource_id: github:googlechrome/web-vitals
-first_seen: '2026-08-01T14:16:33.740209+05:30'
-last_seen: '2026-08-01T14:16:33.740209+05:30'
-last_checked: '2026-08-01T14:16:33.740209+05:30'
+first_seen: '2026-08-08T12:57:18.059552+05:30'
+last_seen: '2026-08-08T12:57:18.059552+05:30'
+last_checked: '2026-08-08T12:57:18.059552+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: JavaScript library providing standardized metrics (e.g., Largest Contentful Paint, Cumulative Layout Shift) to quantify user-perceived performance of web pages.
-- **Key Features**: Includes lightweight (~1KB) JavaScript modules for real-user monitoring (RUM) and synthetic testing, with support for modern browsers and frameworks.
-- **Integration**: Designed for seamless integration with analytics tools (e.g., Google Analytics) and web performance monitoring services via standardized APIs.
+- **Core Purpose**: Provides JavaScript libraries to measure and report key web performance metrics (e.g., Largest Contentful Paint, First Input Delay, Cumulative Layout Shift) for real-user monitoring (RUM).
+- **Key Features**: Includes `web-vitals.js` (lightweight library) and `attribution-build.js` (debugging tool) to quantify and debug Core Web Vitals (CWV) per Google’s specifications.
+- **Implementation**: Supports both standard and attribution builds, enabling performance optimization and granular debugging via browser APIs (e.g., `PerformanceObserver`).
 
 ## Why It Matters
 
@@ -38,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: GoogleChrome
-- Stars: 8569
+- Stars: 8578
 - Forks: 519
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-08-01T02:29:17Z
+- Last Updated: 2026-08-07T11:04:22Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2020-03-23T18:31:05Z
-- Pushed At: 2026-07-27T10:21:37Z
+- Pushed At: 2026-08-05T19:55:47Z
 
 ## Possible Use Cases
 

@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - openai
 - web-crawled
 selection_reason:
@@ -32,7 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **No technical content provided in the input text to summarize.**
+- **AI Model Training & Data Usage**: ChatGPT's interactions may be reviewed and utilized to enhance AI model performance, as outlined in OpenAI's Terms and Privacy Policy.
+- **User Agreement**: By engaging with ChatGPT, users consent to OpenAI's Terms of Service and Privacy Policy.
+- **Transparency & Compliance**: OpenAI provides resources (e.g., [help article](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance)) detailing data usage for model improve
 
 ## Use Cases
 

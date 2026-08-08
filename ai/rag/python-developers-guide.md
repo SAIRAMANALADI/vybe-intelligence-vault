@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://devguide.python.org/
-published_at: '2026-07-19T14:15:15.634515+05:30'
-collected_at: '2026-07-19T14:15:15.634528+05:30'
+published_at: '2026-08-08T12:58:40.933328+05:30'
+collected_at: '2026-08-08T12:58:40.933366+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:python-developers-guide
-first_seen: '2026-07-19T14:15:15.634528+05:30'
-last_seen: '2026-07-19T14:15:15.634528+05:30'
-last_checked: '2026-07-19T14:15:15.634528+05:30'
+first_seen: '2026-08-08T12:58:40.933366+05:30'
+last_seen: '2026-08-08T12:58:40.933366+05:30'
+last_checked: '2026-08-08T12:58:40.933366+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Contribution Pathways**: Python’s developer guide provides structured pathways for contributing via documentation, code, or issue triage, with dedicated sections for setup, PR lifecycle, and testing frameworks (e.g., `patchcheck` for validation).
+- **Contribution Pathways**: Python contributions are segmented into **documentation**, **code**, and **triage**, with structured guides for each (e.g., [PEP 7](https://peps.python.org/pep-0007/) for C, [PEP 8](https://peps.python.org/pep-0008/) for Python, and [issue tracker](https://github.com/python/cpython/issues) workflows).
 
-- **Technical Workflows**: Core workflows include building CPython from source (C/Python hybrid), managing Git forks/remotes, and adhering to style guides (PEP 7/8) for C/Python code, with tooling support for debugging (GDB, Clang) and CI (Buildbot).
+- **Development Workflow**: Requires **Git setup**, **source compilation** (C/Python), **test execution**, and **PR lifecycle management** (e.g., [Git bootcamp](https://devguide.python.org/getting-started/git-boot-camp/), [PR lifecycle](https://devguide.python.org/getting-started/pull-request-lifecycle/)).
 
-- **Governance & Ecosystem**: Contributions are governed by the PSF Code of Conduct; alternative Python implementations (PyPy, GraalPy, MicroPython) exist alongside CPython, each targeting specific environments (JVM, .NET, microcontrollers).
+- **Interpreter Focus**: **CPython** (reference interpreter, C core + Python stdlib) is the primary target, but alternatives like **PyPy** (JIT), **GraalPy** (JVM), and **MicroPython** (embedded) exist for specialized use cases.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T14:15:15.634515+05:30
+- Published: 2026-08-08T12:58:40.933328+05:30
 
 ## Related Tags
 

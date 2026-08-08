@@ -9,12 +9,12 @@ WebGL/WebGPU and 3D creative design elevate traditional UI pages into wow-worthy
 ## Top Matched Resources
 
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (tool - USEFUL Tier)
-- [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) (tool - USEFUL Tier)
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) (framework - USEFUL Tier)
-- [pixiv/three-vrm](https://github.com/pixiv/three-vrm) (tool - USEFUL Tier)
-- [spite/Wagner](https://github.com/spite/wagner) (tool - USEFUL Tier)
+- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) (framework - USEFUL Tier)
+- [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu) (tutorial - USEFUL Tier)
+- [playcanvas/engine](https://github.com/playcanvas/engine) (tool - USEFUL Tier)
+- [benjaminmiles/react-three-vite](https://github.com/benjaminmiles/react-three-vite) (template - USEFUL Tier)
+- [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols) (tool - USEFUL Tier)
 - [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (tutorial - USEFUL Tier)
-- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer) (template - USEFUL Tier)
 - [whoisryosuke/r3f-next-starter](https://github.com/whoisryosuke/r3f-next-starter) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -22,10 +22,11 @@ WebGL/WebGPU and 3D creative design elevate traditional UI pages into wow-worthy
 https://github.com/mrdoob/three.js (Three.js)
 https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter)
-- [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples)
-- [pixiv/three-vrm](https://github.com/pixiv/three-vrm)
-- [spite/Wagner](https://github.com/spite/wagner)
-- [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator)
+- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia)
+- [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu)
+- [playcanvas/engine](https://github.com/playcanvas/engine)
+- [benjaminmiles/react-three-vite](https://github.com/benjaminmiles/react-three-vite)
+- [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)
 
 ## Best Learning Resources
 
@@ -43,4 +44,4 @@ https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 
 ---
 
-*Last updated: 2026-08-07 09:08 IST*
+*Last updated: 2026-08-08 13:05 IST*

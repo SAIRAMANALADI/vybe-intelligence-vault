@@ -3,9 +3,9 @@ title: android Git repositories - Git at Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://android.googlesource.com
-published_at: '2026-08-06T04:03:32.987499+05:30'
-collected_at: '2026-08-06T04:03:32.987520+05:30'
+source_url: https://android.googlesource.com
+published_at: '2026-08-08T12:55:32.886470+05:30'
+collected_at: '2026-08-08T12:55:32.886477+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-08-06T04:03:32.987520+05:30'
-last_seen: '2026-08-06T04:03:32.987520+05:30'
-last_checked: '2026-08-06T04:03:32.987520+05:30'
+first_seen: '2026-08-08T12:55:32.886477+05:30'
+last_seen: '2026-08-08T12:55:32.886477+05:30'
+last_checked: '2026-08-08T12:55:32.886477+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Official Android Open Source Project (AOSP) Git repositories** hosted at `android.googlesource.com` with extensive device-specific and accessory-specific branches (e.g., `device/google/bluejay`, `device/asus/flo-kernel`, `device/google/cuttlefish`).
+- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted at `android.googlesource.com`, providing version control for the entire Android Open Source Project (AOSP), including device-specific kernels, vendor blobs, and accessory support.
 
-- **Kernel and SELinux policy repositories** segregated by device (e.g., `device/google/lynx-kernel`, `device/google/lynx-sepolicy`) and versioned branches (e.g., `5.10`, `6.1` kernels) for hardware-specific Android development.
+- **Device-Specific Branching & Kernel Support**: Many device repositories (e.g., `device/google/bluejay`, `device/google/lynx`) include kernel branches for multiple Linux versions (e.g., `5.10`, `6.1`) and SELinux policies, enabling cross-version compatibility and security hardening.
 
-- **Supporting infrastructure** includes Gerrit-based code review (`android-review.googlesource.com`), OAuth2 authentication for secure access, and manifest repositories (e.g., `accessories/manifest`, `brillo/manifest`) for dependency management.
+- **Hardware Abstraction & Emulation**: Generic device trees (e.g., `device/generic/arm64`, `device/generic/x86_64`) and emulator-specific configurations (e.g., `device/generic/qemu`, `device/generic/goldfish`) facilitate hardware-agnostic development and testing.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T04:03:32.987499+05:30
+- Published: 2026-08-08T12:55:32.886470+05:30
 
 ## Related Tags
 
@@ -66,4 +66,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://android.googlesource.com
+Original source: https://android.googlesource.com

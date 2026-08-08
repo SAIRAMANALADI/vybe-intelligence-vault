@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://modelcontextprotocol.io/specification/latest/server/tools
-published_at: '2026-07-08T14:26:13.682651+05:30'
-collected_at: '2026-07-08T14:26:13.682667+05:30'
+published_at: '2026-08-08T12:58:29.145329+05:30'
+collected_at: '2026-08-08T12:58:29.145369+05:30'
 tags:
 - reddit
 - web-crawled
+- workflows
 status: active
 resource_id: blog:tools-model-context-protocol
-first_seen: '2026-07-08T14:26:13.682667+05:30'
-last_seen: '2026-07-08T14:26:13.682667+05:30'
-last_checked: '2026-07-08T14:26:13.682667+05:30'
+first_seen: '2026-08-08T12:58:29.145369+05:30'
+last_seen: '2026-08-08T12:58:29.145369+05:30'
+last_checked: '2026-08-08T12:58:29.145369+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Tool Definition & Discovery**: Tools are uniquely identified by name, described via JSON Schema (`inputSchema`/`outputSchema`), and exposed via `tools/list` requests with pagination support; servers must declare the `tools` capability (including `listChanged` for dynamic updates).
+- **Tool Discovery & Invocation**: MCP servers expose tools via `tools/list` (JSON-RPC) for discovery and `tools/call` for invocation, with tools defined by unique names, JSON Schema-based `inputSchema`/`outputSchema`, and optional metadata like `icons` and `annotations`.
 
-- **Invocation & Response**: Tools are invoked via `tools/call` with structured arguments, returning results as unstructured (text/image/audio/resource links) or structured content (validated against `outputSchema`); errors are flagged via `isError: true`.
+- **Stateful & Interactive Workflow**: Tools support multi-round-trip interactions via `InputRequiredResult` responses, enabling servers to request additional input (`inputResponses`) before completing execution, with `requestState` for session continuity.
 
-- **Security & Human Oversight**: MCP enforces human-in-the-loop validation for tool calls, requires UI indicators for exposed tools, and mandates client-side validation of untrusted tool annotations unless sourced from trusted servers.
+- **Security & Capabilities**: Servers declare `tools` capability (with `listChanged` support) and enforce human-in-the-loop controls; tool names follow strict syntax rules (A-Z, 0-9, `_`, `-`, `.`), while `x-mcp-header` enables HTTP header injection for Streamable HTTP transport.
 
 ## Why It Matters
 
@@ -35,12 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-08T14:26:13.682651+05:30
+- Published: 2026-08-08T12:58:29.145329+05:30
 
 ## Related Tags
 
 - reddit
 - web-crawled
+- workflows
 
 ## Source
 

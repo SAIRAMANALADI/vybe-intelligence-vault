@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial
-collected_at: '2026-08-07T08:54:14.090408+05:30'
+collected_at: '2026-08-08T12:52:28.820045+05:30'
 published_at: '2026-08-05T01:18:12Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-12-14T14:33:57Z'
 pushed_at: '2025-09-18T07:01:44Z'
 resource_id: github:langchain-opentutorial/langchain-opentutorial
-first_seen: '2026-08-07T08:54:14.090408+05:30'
-last_seen: '2026-08-07T08:54:14.090408+05:30'
-last_checked: '2026-08-07T08:54:14.090408+05:30'
+first_seen: '2026-08-08T12:52:28.820045+05:30'
+last_seen: '2026-08-08T12:52:28.820045+05:30'
+last_checked: '2026-08-08T12:52:28.820045+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Educational repository providing comprehensive tutorials on LangChain and LangGraph frameworks, designed for broad accessibility.
-- **Content**: Primarily consists of Jupyter Notebooks covering agents, LangChain, and LangGraph implementations.
-- **Metadata**: 1,105 stars, 345 forks, last updated August 5, 2026.
+- **Purpose**: Educational repository providing open tutorials on LangChain and LangGraph for building AI agents.
+- **Content**: Jupyter Notebook-based tutorials covering agent development, LangChain, and LangGraph frameworks.
+- **Metadata**: 1,105 stars, 345 forks, last updated 2026-08-05.
 
 ## Why It Matters
 

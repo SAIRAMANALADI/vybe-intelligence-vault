@@ -4,20 +4,19 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.langchain.com/
-published_at: '2026-08-07T08:56:16.354422+05:30'
-collected_at: '2026-08-07T08:56:16.354434+05:30'
+published_at: '2026-08-08T12:54:32.678041+05:30'
+collected_at: '2026-08-08T12:54:32.678055+05:30'
 tags:
 - agents
 - benchmark
 - producthunt
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:langchain-blog
-first_seen: '2026-08-07T08:56:16.354434+05:30'
-last_seen: '2026-08-07T08:56:16.354434+05:30'
-last_checked: '2026-08-07T08:56:16.354434+05:30'
+first_seen: '2026-08-08T12:54:32.678055+05:30'
+last_seen: '2026-08-08T12:54:32.678055+05:30'
+last_checked: '2026-08-08T12:54:32.678055+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Deep Agents** are autonomous, stateful agents with built-in memory, tool use, and multi-step reasoning, designed for production-grade agentic workflows, unlike LangChain’s modular chains or LangGraph’s graph-based orchestration.
+- **Managed Deep Agents Public Beta**: LangSmith introduces managed deep agents in public beta, enabling scalable, production-grade autonomous agent deployment with integrated observability and evaluation.
 
-- **LangSmith LLM Gateway** introduces runtime controls (e.g., rate limiting, model switching, fallback mechanisms) for production agents, enabling real-time monitoring and intervention in agentic systems.
+- **LangSmith LLM Gateway**: New runtime controls for production agents via LangSmith LLM Gateway, providing dynamic policy enforcement, cost optimization, and latency management for LLM-based agent workflows.
 
-- **Deep Agents v0.7** introduces enhanced benchmarking (e.g., ReviewBench for code review agents) and observability features, improving eval automation and performance tracking in agentic architectures.
+- **Deep Agents v0.7 Release**: Major update to Deep Agents framework with enhanced multi-agent orchestration, improved tool integration, and expanded benchmarking capabilities for autonomous agent systems.
 
 ## Why It Matters
 
@@ -39,14 +38,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-07T08:56:16.354422+05:30
+- Published: 2026-08-08T12:54:32.678041+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
 - producthunt
-- scripts
 - web-crawled
 - workflows
 

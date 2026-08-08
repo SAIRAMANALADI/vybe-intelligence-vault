@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
-collected_at: '2026-08-07T08:53:24.039831+05:30'
+collected_at: '2026-08-08T12:51:38.797107+05:30'
 published_at: '2026-08-06T15:31:41Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
 stars: 6536
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-01-31T16:03:06Z'
 pushed_at: '2026-07-21T23:42:40Z'
 resource_id: github:googlecloudplatform/agent-starter-pack
-first_seen: '2026-08-07T08:53:24.039831+05:30'
-last_seen: '2026-08-07T08:53:24.039831+05:30'
-last_checked: '2026-08-07T08:53:24.039831+05:30'
+first_seen: '2026-08-08T12:51:38.797107+05:30'
+last_seen: '2026-08-08T12:51:38.797107+05:30'
+last_checked: '2026-08-08T12:51:38.797107+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment from months to minutes.
+- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
 
-- **Gemini and GenAI integration** with built-in support for LLMops and MLOps workflows, enabling scalable, enterprise-grade generative AI agent development.
+- **Gemini and GenAI integration** with built-in support for LLMops and MLOps best practices, enabling scalable, enterprise-grade agent development.
 
-- **Python-based repository** with structured observability (logging, metrics, tracing) and modular templates for rapid agent prototyping and deployment on Google Cloud Platform.
+- **Python-based repository** with modular architecture, optimized for rapid prototyping and deployment of generative AI agents on Google Cloud Platform.
 
 ## Why It Matters
 

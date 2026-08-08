@@ -13,24 +13,24 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `93` | **Path**: [`weaviate-verba.md`](../../ai/rag/weaviate-verba.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`vercel-labs-ai-sdk-preview-rag.md`](../../ai/rag/vercel-labs-ai-sdk-preview-rag.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [weaviate/Verba](https://github.com/weaviate/Verba)
@@ -58,15 +58,15 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `88` | **Path**: [`arxiv-2407-18245.md`](../../ai/research/arxiv-2407-18245.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [List of CommonMark Implementations · commonmark/commonmark-spec Wiki · GitHub](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`commonmark-commonmark-spec.md`](../../ai/rag/commonmark-commonmark-spec.md)
+### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wagneragent-awesome-mcp-servers-devops.md`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [mongodb · GitHub](https://github.com/mongodb)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`mongodb-github.md`](../../ai/rag/mongodb-github.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-07 09:08 IST*
+*Last updated: 2026-08-08 13:05 IST*

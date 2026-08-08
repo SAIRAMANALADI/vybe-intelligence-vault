@@ -4,21 +4,20 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface
-published_at: '2026-08-07T08:56:20.363011+05:30'
-collected_at: '2026-08-07T08:56:20.363019+05:30'
+published_at: '2026-08-08T12:54:06.253575+05:30'
+collected_at: '2026-08-08T12:54:06.253589+05:30'
 tags:
 - agents
 - dataset
 - models
 - producthunt
-- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:hugging-face-github
-first_seen: '2026-08-07T08:56:20.363019+05:30'
-last_seen: '2026-08-07T08:56:20.363019+05:30'
-last_checked: '2026-08-07T08:56:20.363019+05:30'
+first_seen: '2026-08-08T12:54:06.253589+05:30'
+last_seen: '2026-08-08T12:54:06.253589+05:30'
+last_checked: '2026-08-08T12:54:06.253589+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: Hugging Face maintains key open-source libraries including `transformers` (163k+ stars) for state-of-the-art ML model definitions across modalities, `diffusers` (34.3k+ stars) for diffusion-based generative models, and `datasets` (21.8k+ stars) for large-scale, optimized data handling.
+- **Hugging Face** maintains a suite of open-source libraries for AI/ML, including **Transformers** (SOTA NLP/vision/audio/multimodal models), **Diffusers** (diffusion-based generative models), and **Datasets** (large-scale, optimized datasets for training).
 
-- **Efficiency & Optimization**: Tools like `peft` (21.5k+ stars) enable parameter-efficient fine-tuning, `accelerate` (9.8k+ stars) supports distributed training and mixed-precision (including FP8), and `optimum` (3.5k+ stars) optimizes inference/training via hardware-specific backends.
+- Core infrastructure libraries include **PEFT** (parameter-efficient fine-tuning), **Accelerate** (multi-device/precision training), and **Optimum** (hardware-optimized inference/training for Transformers/Diffusers).
 
-- **Infrastructure & Clients**: `tokenizers` (Rust-based, 10.9k+ stars) provides high-performance tokenization, `huggingface-hub` (Python/Rust clients) facilitates model/dataset sharing, and `xet-core` (Rust) underpins efficient data streaming for the Hub.
+- Additional projects span **TRL** (RL for language models), **LeRobot** (robotics learning), **Hugging Face Hub** (CLI/client for model/dataset hosting), and **PyTorch Image Models** (SOTA vision backbones).
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-07T08:56:20.363011+05:30
+- Published: 2026-08-08T12:54:06.253575+05:30
 
 ## Related Tags
 
@@ -48,7 +47,6 @@ General public resource representing technology updates, guides, or tutorials.
 - dataset
 - models
 - producthunt
-- reddit
 - web-crawled
 - youtube
 

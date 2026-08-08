@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-08-07T08:52:18.922089+05:30'
-published_at: '2026-08-07T03:15:25Z'
+collected_at: '2026-08-08T12:50:33.668072+05:30'
+published_at: '2026-08-08T07:07:40Z'
 tags:
 - agents
 - github-repo
@@ -13,8 +13,7 @@ tags:
 - models
 - python
 - rag
-- workflows
-stars: 3540
+stars: 3574
 language: Python
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-08-07T08:52:18.922089+05:30'
-last_seen: '2026-08-07T08:52:18.922089+05:30'
-last_checked: '2026-08-07T08:52:18.922089+05:30'
+first_seen: '2026-08-08T12:50:33.668072+05:30'
+last_seen: '2026-08-08T12:50:33.668072+05:30'
+last_checked: '2026-08-08T12:50:33.668072+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, and other frameworks/tools, including LLM, RAG, prompt engineering, and enterprise deployment/fine-tuning for AI Agent roles.
-
-- **Structured Learning Path**: Integrates hands-on projects, interview prep, and a curated Q&A database, aligning with AI Agent Developer job requirements from foundational concepts to production deployment.
-
-- **Multi-Faceted Technical Stack**: Encompasses agent frameworks (e.g., DeepAgents), skills, AIGC, and tools like Cursor, with a focus on end-to-end workflows from learning to deployment.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment.
+- **Hands-on Learning Path**: Features real-world projects, interview question bank, and skills aligned with Large Model Application Development Engineer roles.
+- **Technical Stack**: Python-based, integrates agent frameworks (LangChain, LangGraph), agentic AI tools (Coze, Dify), and MCP for modular AI agent development.
 
 ## Why It Matters
 
@@ -45,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 3540
-- Forks: 507
+- Stars: 3574
+- Forks: 510
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-08-07T03:15:25Z
+- Last Updated: 2026-08-08T07:07:40Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-29T02:49:11Z

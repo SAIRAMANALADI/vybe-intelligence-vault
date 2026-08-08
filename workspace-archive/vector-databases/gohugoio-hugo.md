@@ -32,11 +32,8 @@ selection_reason:
 
 ## Summary
 
-- Introduced dark/light mode support for Chroma highlighter styles and new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`) in Hugo v0.164.0.
-
-- Added Pandoc citation support, markup RST syntax highlighting option, and sub-path support in layouts for `Page.Render`.
-
-- Deprecated `resources.PostProcess` in favor of `templates.Defer` and fixed a performance regression introduced in v0.128.0.
+*   Introduced Chroma highlighter dark/light style pairs with new `hugo gen chromastyles` flags, and added `encoding.HexEncode`, `encoding.HexDecode`, and `crypto.Hash` template functions.
+*   Enhanced markup rendering with Pandoc citation support, a `markup.
 
 ## Use Cases
 

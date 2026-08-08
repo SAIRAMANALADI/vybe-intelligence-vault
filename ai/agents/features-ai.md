@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-08-07T08:56:24.480240+05:30'
-collected_at: '2026-08-07T08:56:24.480252+05:30'
+published_at: '2026-08-08T12:55:04.802422+05:30'
+collected_at: '2026-08-08T12:55:04.802434+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-07T08:56:24.480252+05:30'
-last_seen: '2026-08-07T08:56:24.480252+05:30'
-last_checked: '2026-08-07T08:56:24.480252+05:30'
+first_seen: '2026-08-08T12:55:04.802434+05:30'
+last_seen: '2026-08-08T12:55:04.802434+05:30'
+last_checked: '2026-08-08T12:55:04.802434+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Native Agent-Driven Development**: GitHub Copilot app is a desktop agent-driven development tool built natively on GitHub, supporting macOS, Windows, and Linux, with sessions isolated per task and deep integration into GitHub's ecosystem (issues, PRs, code).
+- **Native Agent-Driven Development**: GitHub Copilot app provides a desktop experience for agent-driven development, natively integrated with GitHub, supporting macOS, Windows, and Linux across all Copilot plans or custom API keys.
 
-- **Built-in Design & Automation**: Includes **Impeccable**, an open-source design skill with 23 commands (e.g., `/critique`, `/typeset`) for design system enforcement, plus automated workflows (e.g., scheduled issue triage) via customizable skills and MCP server integration.
+- **Multi-Session Workflow Management**: Enables parallel workflows with isolated sessions per task (issues, PRs, or prompts), including built-in validation (diffs, in-app browser previews, terminal checks) and automated workflows (scheduled tasks like "Morning triage").
 
-- **Tiered Pricing & Features**: Offers **Free** (2K completions/month), **Pro** ($10/user) with unlimited completions and Cloud agent access, **Pro+** ($39/user) with premium models (e.g., Opus), and **Max** ($100/user) for high-volume workflows with priority model access and 2.9x+ usage vs. Pro+.
+- **Extensible & Customizable**: Supports native GitHub context integration, custom skills/MCP servers (via local/HTTP config), and built-in design tools (e.g., Impeccable for design critiques/typography/layout polishing) with tiered pricing (Free, Pro, Pro+, Max) offering varying compute credits and model access.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-07T08:56:24.480240+05:30
+- Published: 2026-08-08T12:55:04.802422+05:30
 
 ## Related Tags
 

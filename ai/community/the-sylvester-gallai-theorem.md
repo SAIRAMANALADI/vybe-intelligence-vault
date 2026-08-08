@@ -13,13 +13,14 @@ collected_at: '2026-08-07T08:49:26.644010+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-sylvester-gallai-theorem
 first_seen: '2026-08-07T05:48:14.914631+05:30'
 last_seen: '2026-08-07T08:49:26.644010+05:30'
 last_checked: '2026-08-07T08:49:26.644010+05:30'
 health_score: 100
 ---
+
 
 # The Sylvester–Gallai Theorem
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://openai.com/index/introducing-our-next-generation-audio-models/
-published_at: '2026-08-03T09:32:18.295407+05:30'
-collected_at: '2026-08-03T09:32:18.295420+05:30'
+published_at: '2026-08-08T12:54:21.205094+05:30'
+collected_at: '2026-08-08T12:54:21.205105+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:introducing-next-generation-audio-models-in-the-ap
-first_seen: '2026-08-03T09:32:18.295420+05:30'
-last_seen: '2026-08-03T09:32:18.295420+05:30'
-last_checked: '2026-08-03T09:32:18.295420+05:30'
+first_seen: '2026-08-08T12:54:21.205105+05:30'
+last_seen: '2026-08-08T12:54:21.205105+05:30'
+last_checked: '2026-08-08T12:54:21.205105+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **New speech-to-text models** (`gpt-4o-transcribe`, `gpt-4o-mini-transcribe`) achieve state-of-the-art Word Error Rate (WER) improvements over Whisper, excelling in multilingual benchmarks (e.g., FLEURS) and noisy/accented speech scenarios via reinforcement learning and midtraining on diverse audio datasets.
+- **New speech-to-text models (`gpt-4o-transcribe`, `gpt-4o-mini-transcribe`)** leverage reinforcement learning and midtraining on diverse audio datasets, achieving state-of-the-art Word Error Rate (WER) improvements over Whisper models, particularly in multilingual and noisy environments.
 
-- **Text-to-speech model** (`gpt-4o-mini-tts`) introduces steerable synthesis, enabling fine-grained control over vocal style (e.g., "sympathetic customer service agent") while maintaining synthetic voice consistency through constrained preset monitoring.
+- **Text-to-speech model (`gpt-4o-mini-tts`)** introduces steerability via natural language instructions (e.g., "talk like a sympathetic agent"), enabling dynamic voice customization while maintaining synthetic voice consistency.
 
-- **Technical innovations** include pretraining on authentic audio datasets, advanced distillation via self-play for conversational realism, and RL-driven optimization for speech-to-text accuracy, all exposed via API with Agents SDK integration for low-latency voice agent development.
+- **Technical innovations** include pretraining on authentic audio datasets, advanced distillation with self-play methodologies for conversational realism, and RL-based optimization for speech-to-text precision and hallucination reduction.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T09:32:18.295407+05:30
+- Published: 2026-08-08T12:54:21.205094+05:30
 
 ## Related Tags
 

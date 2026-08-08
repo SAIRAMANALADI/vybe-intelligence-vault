@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-07T08:55:22.921579+05:30'
-collected_at: '2026-08-07T08:55:22.921588+05:30'
+published_at: '2026-08-08T12:53:30.487286+05:30'
+collected_at: '2026-08-08T12:53:30.487300+05:30'
 tags:
 - agents
 - anthropic
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-07T08:55:22.921588+05:30'
-last_seen: '2026-08-07T08:55:22.921588+05:30'
-last_checked: '2026-08-07T08:55:22.921588+05:30'
+first_seen: '2026-08-08T12:53:30.487300+05:30'
+last_seen: '2026-08-08T12:53:30.487300+05:30'
+last_checked: '2026-08-08T12:53:30.487300+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Annotation & Dataset APIs**: Public API now supports full CRUD operations for annotation queue items (runs/threads) via `/api/v1/platform` endpoints, with fixes for CSV/JSONL uploads (including Windows browser MIME type issues and uppercase filenames) and improved metadata rendering in experiment grids.
-
-- **Engine & Tracing Enhancements**: Engine issue boards now reopen when new matching traces are linked; trace exports include optional `feedbacks` column (JSON array); deprecated v1 endpoints (e.g., `/api/v1/runs/stats`) return proper 404s with `Sunset: 2027-01-31` headers; token/cost filters default to total metrics.
-
-- **LLM Gateway & Sandbox Updates**: Gateway policies enforce non-blank names; usage charts show top 12 spenders; sandboxes support streaming SSE execution and include `langsmith` CLI v0.2.44; OAuth/SSO fixes for Remote MCP in self-hosted deployments.
+- **Annotation & Dataset APIs**: Public API endpoints for annotation queue items (add, list, update, delete, count, position, review) now support run/thread queue items; dataset uploads accept `.csv`/`.jsonl` regardless of browser-reported `Content-Type` (e.g., Windows Excel-type `.csv`); legacy endpoints (`v1 runs`, `POST /api/v1/datasets/{dataset_id}/runs`) deprecated with `Sunset: Jan 31, 2027`.
+- **Tracing & Feedback Enhancements**: Trace detail panes use elevated backgrounds; bulk exports include optional `feedbacks` column (JSON array of feedback entries); negative feedback-key filters now work correctly with optimized ClickHouse runs tables; PDF/document attachments render in full-width preview.
+- **LLM Gateway & Sandbox Updates**: Gateway policies with blank names fall back to ID display; sandbox streaming execute requests return stdout/stderr via Server-Sent Events; `langsmith` CLI v0.2.44 preinstalled in sandboxes; Gateway Credits purchase UI shows post-purchase balance and fee-inclusive total.
 
 ## Why It Matters
 
@@ -47,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T08:55:22.921579+05:30
+- Published: 2026-08-08T12:53:30.487286+05:30
 
 ## Related Tags
 

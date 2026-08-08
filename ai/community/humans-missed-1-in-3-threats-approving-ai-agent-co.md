@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:humans-missed-1-in-3-threats-approving-ai-agent-co
 first_seen: '2026-08-06T20:07:32.639355+05:30'
 last_seen: '2026-08-07T08:49:26.745458+05:30'
 last_checked: '2026-08-07T08:49:26.745458+05:30'
 health_score: 100
 ---
+
 
 # Humans missed 1 in 3 threats approving AI agent commands across 40k game runs
 

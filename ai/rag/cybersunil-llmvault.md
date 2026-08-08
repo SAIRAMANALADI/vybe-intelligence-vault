@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CyberSunil/LLMVault
-collected_at: '2026-08-07T08:51:38.849132+05:30'
+collected_at: '2026-08-08T12:49:53.635668+05:30'
 published_at: '2026-08-06T18:05:59Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 stars: 268
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-07-15T08:18:22Z'
 pushed_at: '2026-08-02T20:25:20Z'
 resource_id: github:cybersunil/llmvault
-first_seen: '2026-08-07T08:51:38.849132+05:30'
-last_seen: '2026-08-07T08:51:38.849132+05:30'
-last_checked: '2026-08-07T08:51:38.849132+05:30'
+first_seen: '2026-08-08T12:49:53.635668+05:30'
+last_seen: '2026-08-08T12:49:53.635668+05:30'
+last_checked: '2026-08-08T12:49:53.635668+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Intentionally vulnerable training platform simulating OWASP LLM Top 10 vulnerabilities for AI security, prompt injection, RAG security, agent security, and GenAI penetration testing.
-- **Features**: Includes CTF challenges, Docker deployment, and modules for LLM security testing (e.g., prompt injection, RAG exploitation).
-- **Tech Stack**: Python-based, with Docker support for isolated lab environments; last updated August 2026.
+- **Purpose**: Intentionally vulnerable training platform simulating OWASP LLM Top 10 risks (e.g., prompt injection, RAG/agent security, GenAI threats) for AI security and penetration testing practice.
+- **Technical Stack**: Python-based, containerized via Docker, supporting CTF-style exploitation scenarios for LLM security research.
+- **Scope**: Covers OWASP LLM Top 10 vulnerabilities, red-team tactics, and GenAI attack vectors with modular labs for hands-on testing.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: CyberSunil
 - Stars: 268
-- Forks: 64
+- Forks: 67
 - Language: Python
 - Topics: agent-security, ai-security, ai-security-tool, artificial-intelligence, ctf, docker, genai, large-language-models, llm, llm-security, llm-security-testing, owasp, owasp-llm-top-10, penetration-testing, prompt-injection, prompt-injection-llm-security, python, rag, red-team, vulnerable-lab
 - Last Updated: 2026-08-06T18:05:59Z

@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-07T08:51:58.944619+05:30'
+collected_at: '2026-08-08T12:50:13.660747+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 257
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-07T08:51:58.944619+05:30'
-last_seen: '2026-08-07T08:51:58.944619+05:30'
-last_checked: '2026-08-07T08:51:58.944619+05:30'
+first_seen: '2026-08-08T12:50:13.660747+05:30'
+last_seen: '2026-08-08T12:50:13.660747+05:30'
+last_checked: '2026-08-08T12:50:13.660747+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation for enhanced context fusion.
-- **Efficiency Optimizations**: Uses lightweight graph pruning and dynamic query routing to reduce computational overhead while maintaining retrieval precision.
-- **Python Implementation**: Provides modular components for graph construction, retrieval, and generation, with AAAI 2026 benchmarking support.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (local-to-global) and semantic aggregation for improved context relevance in generation tasks.
+
+- **Efficiency Optimizations**: Designed for low-latency inference with lightweight graph traversal and pruning techniques, reducing computational overhead while maintaining retrieval accuracy.
+
+- **AAAI 2026 Framework**: Open-source Python library (v1.0+) supporting modular integration with LLM backends, graph databases (e.g., Neo4j), and customizable aggregation policies for domain-specific applications.
 
 ## Why It Matters
 

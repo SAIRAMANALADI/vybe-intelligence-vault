@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/retrieval-agent-template
-collected_at: '2026-08-07T08:54:09.165228+05:30'
+collected_at: '2026-08-08T12:52:23.889733+05:30'
 published_at: '2026-08-05T21:18:08Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 168
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-08-21T20:47:35Z'
 pushed_at: '2026-08-05T21:16:43Z'
 resource_id: github:langchain-ai/retrieval-agent-template
-first_seen: '2026-08-07T08:54:09.165228+05:30'
-last_seen: '2026-08-07T08:54:09.165228+05:30'
-last_checked: '2026-08-07T08:54:09.165228+05:30'
+first_seen: '2026-08-08T12:52:23.889733+05:30'
+last_seen: '2026-08-08T12:52:23.889733+05:30'
+last_checked: '2026-08-08T12:52:23.889733+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,8 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter implementation for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
-- **Key Components**: Leverages `langgraph` and `langgraph-python` for graph-based workflow orchestration, enabling modular agent pipelines with retrieval capabilities.
-- **Technical Stack**: Pure Python implementation, last updated on 2026-08-05, with 168 stars and 53 forks on GitHub.
+*   Python-based LangGraph template for retrieval agent development.
+*   Leverages the
 
 ## Why It Matters
 

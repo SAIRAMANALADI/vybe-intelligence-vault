@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-08-07T08:57:08.389637+05:30'
-collected_at: '2026-08-07T08:57:08.389643+05:30'
+published_at: '2026-08-08T12:54:10.686145+05:30'
+collected_at: '2026-08-08T12:54:10.686155+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-08-07T08:57:08.389643+05:30'
-last_seen: '2026-08-07T08:57:08.389643+05:30'
-last_checked: '2026-08-07T08:57:08.389643+05:30'
+first_seen: '2026-08-08T12:54:10.686155+05:30'
+last_seen: '2026-08-08T12:54:10.686155+05:30'
+last_checked: '2026-08-08T12:54:10.686155+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Hashing Function**: `crypto.Hash` computes checksums of input strings using cryptographic hash algorithms (`md5`, `sha1`, `sha256`, `sha384`, `sha512`), defaulting to `sha256` if unspecified.
-- **Output Format**: Returns a hexadecimal-encoded string representing the hash digest (e.g., `64ec88ca00b268e5ba1a35678a1b5316d212f4f366b2477232534a8aeca37f3c` for SHA-256).
-- **SRI Integration**: Supports Subresource Integrity (SRI) hash construction by combining with `encoding.HexDecode` and `encoding.Base64Encode` (e.g., `sha256-<base64-encoded-hash>`).
+- **Hashing Functionality**: The `crypto.Hash` function in Hugo supports multiple cryptographic hash algorithms (`md5`, `sha1`, `sha256` (default), `sha384`, `sha512`) to generate hexadecimal-encoded checksums from input strings.
+
+- **Default Algorithm**: If no algorithm is specified, `sha256` is used by default for hashing operations.
+
+- **SRI Hash Construction**: The function can be combined with `encoding.HexDecode` and `encoding.Base64Encode` to generate Subresource Integrity (SRI) hashes for resources, e.g., `{{ printf "%s-%s" $algo ($input | crypto.Hash $algo | encoding.HexDecode | encoding.Base64Encode) }}`.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-07T08:57:08.389637+05:30
+- Published: 2026-08-08T12:54:10.686145+05:30
 
 ## Related Tags
 

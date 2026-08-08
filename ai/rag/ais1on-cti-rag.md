@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Ais1on/CTI-RAG
-collected_at: '2026-08-07T08:51:43.909335+05:30'
-published_at: '2026-08-06T11:15:43Z'
+collected_at: '2026-08-08T12:49:58.641123+05:30'
+published_at: '2026-08-08T01:01:22Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-stars: 300
+stars: 297
 language: Python
 status: active
 license: GPL-3.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2026-04-11T14:46:53Z'
 pushed_at: '2026-05-12T07:19:10Z'
 resource_id: github:ais1on/cti-rag
-first_seen: '2026-08-07T08:51:43.909335+05:30'
-last_seen: '2026-08-07T08:51:43.909335+05:30'
-last_checked: '2026-08-07T08:51:43.909335+05:30'
+first_seen: '2026-08-08T12:49:58.641123+05:30'
+last_seen: '2026-08-08T12:49:58.641123+05:30'
+last_checked: '2026-08-08T12:49:58.641123+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: CTI-RAG is a Python-based Retrieval-Augmented Generation (RAG) framework tailored for Cyber Threat Intelligence (CTI), combining knowledge graph integration and causal reasoning for threat analysis.
-
-- **Core Features**: Enables intelligent threat intelligence analysis by leveraging structured knowledge graphs and causal inference to enhance contextual understanding and decision-making for security analysts.
-
-- **Repository Stats**: Maintained as a GitHub project with 300 stars, 25 forks, and last updated on 2026-08-06.
+- **Framework Integration**: Combines Retrieval-Augmented Generation (RAG) with knowledge graph and causal reasoning for Cyber Threat Intelligence (CTI) analysis.
+- **Technical Stack**: Implemented in Python, leveraging advanced AI techniques for threat intelligence augmentation.
+- **Repository Metadata**: 297 stars, 25 forks, last updated on 2026-08-08.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Ais1on
-- Stars: 300
+- Stars: 297
 - Forks: 25
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-06T11:15:43Z
+- Last Updated: 2026-08-08T01:01:22Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2026-04-11T14:46:53Z

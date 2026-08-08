@@ -2,7 +2,7 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: http://developer.android.com/index.html
+source_url: https://developer.android.com
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Jetpack Compose 5th Anniversary**: Celebrates 5 years since launch, marking its evolution into the industry-standard declarative UI toolkit for modern Android development, with AOSP source code now live for Android 17 (API 37).
-- **Android XR Platform Expansion**: Introduces new tools and resources for building, testing, and scaling XR (Extended Reality) experiences across Android’s ecosystem, including expanded engine support.
-- **SDK License Constraints**: Restricts SDK usage to Android ap
+- **Jetpack Compose 5th Anniversary**: Celebrates 5 years since Jetpack Compose's inception, highlighting its evolution into the industry standard for modern Android UI development, with AOSP source code now live for Android 17 (API 37).
+
+- **Android XR Platform Expansion**: Introduces updated tools and resources for building, testing, and scaling Android XR experiences, including expanded engine support and new development kits.
+
+- **SDK License Agreement (Quail 3 | 2026.1.3)**: Grants a limite
 
 ## Use Cases
 
@@ -47,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://developer.android.com/index.html
+Original source URL: https://developer.android.com
 
 ## Local Vault File
 

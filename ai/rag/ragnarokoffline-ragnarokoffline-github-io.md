@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-08-07T08:50:18.761303+05:30'
-published_at: '2026-07-29T00:57:07Z'
+collected_at: '2026-08-08T12:48:33.572458+05:30'
+published_at: '2026-08-08T00:07:40Z'
 tags:
 - github-repo
-- hackernews
 - html
 - rag
+- scripts
 stars: 18
 language: HTML
 status: active
 archived: false
 created_at: '2025-02-06T11:16:38Z'
-pushed_at: '2026-07-18T12:35:00Z'
+pushed_at: '2026-08-08T00:07:27Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-08-07T08:50:18.761303+05:30'
-last_seen: '2026-08-07T08:50:18.761303+05:30'
-last_checked: '2026-08-07T08:50:18.761303+05:30'
+first_seen: '2026-08-08T12:48:33.572458+05:30'
+last_seen: '2026-08-08T12:48:33.572458+05:30'
+last_checked: '2026-08-08T12:48:33.572458+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Hosts the Ragnarok Offline Pre-Renewal Pack, a static HTML-based resource for *Ragnarok Online* private server emulation.
-- **Technical Stack**: Utilizes HTML for content delivery, with dependencies on *OpenKore*, *rAthena*, and *Ragnarok Online* assets.
-- **Maintenance Status**: Last updated on **2026-07-29**, indicating active but infrequent updates (18 stars, 8 forks).
+- **Static Site Repository**: Hosts a pre-renewal Ragnarok Online resource pack for OpenKore, deployed via GitHub Pages (HTML-based).
+- **Integration Focus**: Designed for compatibility with `rathena` server emulation and OpenKore automation tools.
+- **Last Updated**: 2026-08-08 (future-dated commit), indicating active but infrequent maintenance.
 
 ## Why It Matters
 
@@ -43,10 +43,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 8
 - Language: HTML
 - Topics: openkore, ragnarok, ragnarokoffline, ragnarokonline, rathena
-- Last Updated: 2026-07-29T00:57:07Z
+- Last Updated: 2026-08-08T00:07:40Z
 - Archived: No
 - Created At: 2025-02-06T11:16:38Z
-- Pushed At: 2026-07-18T12:35:00Z
+- Pushed At: 2026-08-08T00:07:27Z
 
 ## Possible Use Cases
 

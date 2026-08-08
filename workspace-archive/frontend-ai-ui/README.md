@@ -10,23 +10,23 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (benchmark - USEFUL Tier)
-- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
-- [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4) (template - USEFUL Tier)
+- [reliverse/relivator](https://github.com/reliverse/relivator) (template - USEFUL Tier)
+- [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) (template - USEFUL Tier)
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (template - USEFUL Tier)
-- [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) (template - USEFUL Tier)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (template - USEFUL Tier)
 - [enesien/venefish](https://github.com/enesien/venefish) (template - USEFUL Tier)
+- [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4) (template - USEFUL Tier)
+- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
-- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
-- [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)
+- [reliverse/relivator](https://github.com/reliverse/relivator)
+- [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
-- [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
 - [enesien/venefish](https://github.com/enesien/venefish)
+- [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)
+- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-08-07 09:08 IST*
+*Last updated: 2026-08-08 13:05 IST*

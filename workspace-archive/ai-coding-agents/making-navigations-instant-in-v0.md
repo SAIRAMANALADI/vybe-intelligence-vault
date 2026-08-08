@@ -1,5 +1,5 @@
 ---
-title: Making navigations instant in v0
+title: Making Navigations Instant in v0
 archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://nextjs.org/blog/making-v0-navigations-instant
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Making navigations instant in v0
+# Making Navigations Instant in v0
 
 ## Why This Is In The Archive
 

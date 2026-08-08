@@ -4,14 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-07T08:51:53.943345+05:30'
-published_at: '2026-08-07T02:57:10Z'
+collected_at: '2026-08-08T12:50:08.689228+05:30'
+published_at: '2026-08-08T04:32:06Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
-stars: 3255
+stars: 3259
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +22,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-07T08:51:53.943345+05:30'
-last_seen: '2026-08-07T08:51:53.943345+05:30'
-last_checked: '2026-08-07T08:51:53.943345+05:30'
+first_seen: '2026-08-08T12:50:08.689228+05:30'
+last_seen: '2026-08-08T12:50:08.689228+05:30'
+last_checked: '2026-08-08T12:50:08.689228+05:30'
 health_score: 100
 ---
 
@@ -29,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long-form video content via multi-modal embeddings and retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and chat with videos via multi-modal inputs (e.g., frames, audio, transcripts).
 
-- **Multi-Modal Integration**: Combines visual, audio, and textual modalities using advanced encoders (e.g., CLIP, Whisper) to enhance long-video understanding and contextual retrieval.
+- **Technical Architecture**: Leverages multi-modal embeddings (vision + language) for video chunking, retrieval, and generation, optimized for long-form video Q&A with hierarchical indexing.
 
-- **Efficient Retrieval**: Implements hierarchical or chunk-based retrieval strategies to handle video data at scale, optimizing for both accuracy and computational efficiency in LLM interactions.
+- **Performance & Scalability**: Benchmarked on KDD'2026 datasets, demonstrating superior accuracy in temporal reasoning and context-aware responses for videos up to 1+ hour in duration.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 3255
+- Stars: 3259
 - Forks: 463
 - Language: Python
 - Topics: large-language-models, llms, long-video-understanding, multi-modal-llms, rag, retrieval-augmented-generation
-- Last Updated: 2026-08-07T02:57:10Z
+- Last Updated: 2026-08-08T04:32:06Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-02-03T03:59:11Z
