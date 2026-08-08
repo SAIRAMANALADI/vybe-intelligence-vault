@@ -3,19 +3,19 @@ title: Google Colab
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
-published_at: '2026-08-08T21:30:53.875325+05:30'
-collected_at: '2026-08-08T21:30:53.875338+05:30'
+source_url: https://colab.research.google.com/github/huggingface/sentence-transformers/blob/main/examples/sentence_transformer/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb
+published_at: '2026-08-09T03:31:35.342549+05:30'
+collected_at: '2026-08-09T03:31:35.342562+05:30'
 tags:
-- hackernews
-- models
 - rag
+- reddit
 - web-crawled
+- workflows
 status: active
 resource_id: blog:google-colab
-first_seen: '2026-08-08T21:30:53.875338+05:30'
-last_seen: '2026-08-08T21:30:53.875338+05:30'
-last_checked: '2026-08-08T21:30:53.875338+05:30'
+first_seen: '2026-08-09T03:31:35.342562+05:30'
+last_seen: '2026-08-09T03:31:35.342562+05:30'
+last_checked: '2026-08-09T03:31:35.342562+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Resource Unavailable**: The provided link requires authentication (Google Sign-In) and does not grant access to the underlying technical content.
+- **Retrieve & Rerank Pipeline**: Demonstrates a two-stage retrieval-reranking architecture using `sentence-transformers` for semantic search on Wikipedia data, combining efficient retrieval (via FAISS or similar) with precise reranking (via cross-encoder models).
 
-- **Contextual Clue**: The URL suggests the resource pertains to **LoRA (Low-Rank Adaptation) tuning** for **Gemma** (Google's lightweight open model), likely hosted in a Jupyter Notebook (`.ipynb`) format.
+- **Model Integration**: Utilizes `all-mpnet-base-v2` for embeddings (bi-encoder) and a distilled cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) for reranking, optimizing both speed and accuracy in document relevance scoring.
 
-- **Technical Focus**: The target content (if accessible) would detail **parameter-efficient fine-tuning** techniques for large language models (LLMs), specifically leveraging **LoRA** to adapt Gemma with minimal computational overhead.
+- **Colab Notebook**: Implements a reproducible workflow in Google Colab, leveraging Hugging Face’s `sentence-transformers` library to fetch, encode, and rerank Wikipedia passages with minimal setup overhead.
 
 ## Why It Matters
 
@@ -37,15 +37,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T21:30:53.875325+05:30
+- Published: 2026-08-09T03:31:35.342549+05:30
 
 ## Related Tags
 
-- hackernews
-- models
 - rag
+- reddit
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+Original source: https://colab.research.google.com/github/huggingface/sentence-transformers/blob/main/examples/sentence_transformer/applications/retrieve_rerank/retrieve_rerank_simple_wikipedia.ipynb

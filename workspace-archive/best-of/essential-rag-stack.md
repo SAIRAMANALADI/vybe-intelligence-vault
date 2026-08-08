@@ -13,15 +13,25 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `93` | **Path**: [`weaviate-verba.md`](../../ai/rag/weaviate-verba.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`lancedb-vectordb-recipes.md`](../../ai/rag/lancedb-vectordb-recipes.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
+### [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`microsoft-trec-2019-deep-learning.md`](../../ai/resources/microsoft-trec-2019-deep-learning.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -33,19 +43,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `90` | **Path**: [`rag-application-tutorial-2025-build-production-rea.md`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`lancedb-vectordb-recipes.md`](../../ai/rag/lancedb-vectordb-recipes.md)
+### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [weaviate/Verba](https://github.com/weaviate/Verba)
@@ -58,15 +63,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`zilliztech-milvus-cli.md`](../../ai/rag/zilliztech-milvus-cli.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245)
-- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `88` | **Path**: [`arxiv-2407-18245.md`](../../ai/research/arxiv-2407-18245.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
+- **Score**: `88` | **Path**: [`elasticsearch-the-official-distributed-search-anal.md`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-08 21:37 IST*
+*Last updated: 2026-08-09 03:37 IST*

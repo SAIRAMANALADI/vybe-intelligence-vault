@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/strnad/CrewAI-Studio
-collected_at: '2026-08-08T18:50:45.519214+05:30'
+collected_at: '2026-08-09T03:24:41.128845+05:30'
 published_at: '2026-08-08T03:26:50Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-05-30T08:15:40Z'
 pushed_at: '2026-08-03T11:44:15Z'
 resource_id: github:strnad/crewai-studio
-first_seen: '2026-08-08T18:50:45.519214+05:30'
-last_seen: '2026-08-08T18:50:45.519214+05:30'
-last_checked: '2026-08-08T18:50:45.519214+05:30'
+first_seen: '2026-08-09T03:24:41.128845+05:30'
+last_seen: '2026-08-09T03:24:41.128845+05:30'
+last_checked: '2026-08-09T03:24:41.128845+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-platform GUI** for managing and executing CrewAI agents/tasks without coding, built with Streamlit and supporting Conda/virtual environments.
-- **No-code interface** enabling agent/task configuration via GUI, with real-time monitoring and execution control.
-- **Python-based** project with 1,335 stars and 316 forks, last updated in August 2026.
+- **Multi-platform GUI** for CrewAI agent/task management, built with **Streamlit**, enabling no-code orchestration across environments.
+- **Environment agnostic**: Supports **Conda** and **virtual environments** for dependency isolation without requiring Python code.
+- **Real-time updates**: Last modified **2026-08-08**, with **1,335 stars** and **316 forks**, indicating active community adoption.
 
 ## Why It Matters
 

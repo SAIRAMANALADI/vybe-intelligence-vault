@@ -8,23 +8,23 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 ## Top Matched Resources
 
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (template - ESSENTIAL Tier)
+- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) (template - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [Stainless · GitHub](https://github.com/stainless-api)
 - [OpenAI · GitHub](https://github.com/openai)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 
 ## Best Learning Resources
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-08 21:37 IST*
+*Last updated: 2026-08-09 03:37 IST*

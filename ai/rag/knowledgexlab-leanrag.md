@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-08T21:22:04.427109+05:30'
+collected_at: '2026-08-09T03:22:11.103872+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 257
@@ -17,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-08T21:22:04.427109+05:30'
-last_seen: '2026-08-08T21:22:04.427109+05:30'
-last_checked: '2026-08-08T21:22:04.427109+05:30'
+first_seen: '2026-08-09T03:22:11.103872+05:30'
+last_seen: '2026-08-09T03:22:11.103872+05:30'
+last_checked: '2026-08-09T03:22:11.103872+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships for improved contextual relevance in generation tasks.
-
-- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval strategy to progressively extract and synthesize information from knowledge graphs, optimizing both precision and recall.
-
-- **LeanRAG Framework**: Python-based system designed for efficient knowledge-graph-driven generation, with modular components for semantic aggregation and hierarchical retrieval, as presented at AAAI 2026.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity, relation, subgraph) and semantic aggregation for improved context relevance (AAAI 2026).
+- **Efficiency Optimizations**: Uses lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval quality.
+- **Python Implementation**: Provides modular components for KG construction, retrieval, and generation, with dependencies on PyTorch/DGL for graph operations.
 
 ## Why It Matters
 

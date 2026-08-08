@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-08T21:20:59.305425+05:30'
+collected_at: '2026-08-09T03:21:05.941742+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
+- dataset
 - github-repo
 - jupyter notebook
-- meta-ai
 - models
 - rag
 stars: 1222
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-08T21:20:59.305425+05:30'
-last_seen: '2026-08-08T21:20:59.305425+05:30'
-last_checked: '2026-08-08T21:20:59.305425+05:30'
+first_seen: '2026-08-09T03:21:05.941742+05:30'
+last_seen: '2026-08-09T03:21:05.941742+05:30'
+last_checked: '2026-08-09T03:21:05.941742+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source Python tool using Streamlit for interactive visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and analysis of LLM-based systems.
-- **Features**: Supports dynamic exploration of RAG components (retrievers, embeddings, prompts) via Jupyter Notebooks, with real-time metrics and dependency graphs.
-- **Tech Stack**: Built with Python, Streamlit (web UI), and integrates with common LLM frameworks (e.g., LangChain, LlamaIndex) for modular RAG pipeline inspection.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and analyzing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
+
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing real-time visualization of RAG components (e.g., retrieval mechanisms, prompt engineering, and model outputs) with dynamic, web-based interactivity.
+
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines, dataset integration, and visualization of metrics (e.g., retrieval relevance, latency, or hallucination patterns).
 
 ## Why It Matters
 

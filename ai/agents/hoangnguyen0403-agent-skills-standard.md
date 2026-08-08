@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-08T21:22:59.423086+05:30'
+collected_at: '2026-08-09T03:23:06.080587+05:30'
 published_at: '2026-08-07T03:48:17Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-08T21:22:59.423086+05:30'
-last_seen: '2026-08-08T21:22:59.423086+05:30'
-last_checked: '2026-08-08T21:22:59.423086+05:30'
+first_seen: '2026-08-09T03:23:06.080587+05:30'
+last_seen: '2026-08-09T03:23:06.080587+05:30'
+last_checked: '2026-08-09T03:23:06.080587+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks and languages (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
+- **Multi-Language & Framework Best Practices Repository**: Curates standardized coding guidelines and best practices for TypeScript, Kotlin, Go, Dart (Flutter), Swift (iOS), Kotlin (Android), Java (Spring Boot), PHP (Laravel), JavaScript/TypeScript (React, Next.js, NestJS), and more, optimized for AI agent adherence.
 
-- **Purpose & Scope**: Provides structured guidelines (e.g., `cursor-rules`) to ensure AI agents adhere to language/framework-specific conventions, enhancing code quality and consistency across projects.
+- **Structured Agent Skill Standards**: Provides framework-specific rulesets (e.g., Cursor Rules, React patterns, NestJS architecture) to enforce consistency in AI-generated code across diverse tech stacks.
 
-- **Metadata**: 538 stars, 157 forks, last updated August 7, 2026; includes topics like `agentic-ai`, `coding-standards`, and `react-native`.
+- **Active Maintenance & Community-Driven**: Last updated in August 2026 with 538 stars and 157 forks, indicating ongoing contributions and adoption for AI agent skill standardization.
 
 ## Why It Matters
 

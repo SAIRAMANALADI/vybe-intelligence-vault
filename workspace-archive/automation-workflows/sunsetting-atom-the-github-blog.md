@@ -1,16 +1,17 @@
 ---
 title: Sunsetting Atom - The GitHub Blog
 archive_category: automation-workflows
-source_category: ai/resources
+source_category: ai/rag
 source_url: https://atom.io/
 resource_id: blog:sunsetting-atom-the-github-blog
-local_vault_path: ai/resources/sunsetting-atom-the-github-blog.md
+local_vault_path: ai/rag/sunsetting-atom-the-github-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- rag
 - reddit
 - web-crawled
 - workflows
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Developer Platform**: GitHub integrates AI capabilities across its platform to enhance developer experience and productivity.
-- **Built-in Security**: Security features are embedded at every stage of the development lifecycle, ensuring continuous protection.
-- **Innovation Focus**: Designed to enable developers to innovate with confidence through a seamless, secure, and AI-enhanced workflow.
+- **Developer Experience & AI Integration**: GitHub positions itself as the premier developer platform, leveraging AI to enhance workflows and integrate security measures at every stage.
+- **Security-First Approach**: The platform embeds security into its core infrastructure, ensuring protection is inherent in the development lifecycle rather than an afterthought.
+- **Innovation Enablement**: Designed to empower developers to innovate confidently with built-in AI and security features, reducing
 
 ## Use Cases
 
@@ -48,4 +49,4 @@ Original source URL: https://atom.io/
 
 ## Local Vault File
 
-Path: [sunsetting-atom-the-github-blog.md](../../ai/resources/sunsetting-atom-the-github-blog.md)
+Path: [sunsetting-atom-the-github-blog.md](../../ai/rag/sunsetting-atom-the-github-blog.md)

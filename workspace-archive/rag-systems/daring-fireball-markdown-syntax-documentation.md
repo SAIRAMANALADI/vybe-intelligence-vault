@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Markdown Syntax**: Designed for readability and ease of use, Markdown uses punctuation characters to represent formatting (e.g., `*emphasis*`, `# Headers`), inspired by plain text email conventions.
-- **Inline HTML Support**: Markdown allows embedded HTML for unsupported elements but processes Markdown syntax within span-level tags (e.g., `<em>`, `<strong>`).
-- **Automatic Escaping**: Handles special characters (`<`, `&`) automatically, converting them to HTML entities (e.g., `AT&T` → `AT&T`
+- **Syntax Design**: Markdown uses punctuation characters (e.g., `*`, `#`, `>`) to represent formatting (emphasis, headers, blockquotes) while remaining readable in plain text, inspired by email conventions and designed for web writing.
+
+- **HTML Integration**: Supports inline HTML for unsupported tags; block-level HTML requires blank-line separation, while span-level tags allow Markdown processing inside them.
+
+- **Automatic Escaping**: Handles `<`, `&`, and other special characters automatical
 
 ## Use Cases
 

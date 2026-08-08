@@ -28,6 +28,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` | 70 |
 | 2026-05-08 | [CALLE-AI/awesome-phone-call-agents](https://github.com/CALLE-AI/awesome-phone-call-agents) | `ai-coding-agents/` | 70 |
+| 2026-05-08 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | `ai-coding-agents/` | 70 |
 | 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` | 70 |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` | 70 |
@@ -35,6 +36,5 @@ Update cycle: Refreshed every 3 hours.
 | 2026-04-23 | [crazyaiml/nl-2-sql-agent](https://github.com/crazyaiml/nl-2-sql-agent) | `rag-systems/` | 70 |
 | 2026-04-22 | [aigateway-sh/awesome-ai-gateway](https://github.com/aigateway-sh/awesome-ai-gateway) | `evals-and-benchmarks/` | 70 |
 | 2026-04-21 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | `rag-systems/` | 70 |
-| 2026-04-17 | [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-08-08T21:26:13.017968+05:30'
-collected_at: '2026-08-08T21:26:13.017976+05:30'
+published_at: '2026-08-09T03:26:06.976311+05:30'
+collected_at: '2026-08-09T03:26:06.976326+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-08-08T21:26:13.017976+05:30'
-last_seen: '2026-08-08T21:26:13.017976+05:30'
-last_checked: '2026-08-08T21:26:13.017976+05:30'
+first_seen: '2026-08-09T03:26:06.976326+05:30'
+last_seen: '2026-08-09T03:26:06.976326+05:30'
+last_checked: '2026-08-09T03:26:06.976326+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- Computes cryptographic hashes (MD5, SHA-1, SHA-256, SHA-384, SHA-512) of input strings, defaulting to SHA-256 if no algorithm is specified.
-- Supports hexadecimal output encoding; can be combined with `encoding.HexDecode` and `encoding.Base64Encode` for Subresource Integrity (SRI) hash construction.
-- Syntax: `crypto.Hash [ALGORITHM] INPUT` (e.g., `{{ crypto.Hash "sha256" "Hello world" }}`).
+- **Hashing Function**: `crypto.Hash` computes checksums using algorithms like `md5`, `sha1`, `sha256` (default), `sha384`, or `sha512`, returning the result as a hexadecimal string.
+- **Default Behavior**: If no algorithm is specified, `sha256` is used automatically.
+- **SRI Integration**: Supports Subresource Integrity (SRI) hash construction when combined with `encoding.HexDecode` and `encoding.Base64Encode` for fingerprinted resources.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T21:26:13.017968+05:30
+- Published: 2026-08-09T03:26:06.976311+05:30
 
 ## Related Tags
 

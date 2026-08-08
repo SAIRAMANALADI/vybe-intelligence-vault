@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-08T21:24:34.511155+05:30'
+collected_at: '2026-08-09T03:24:41.160162+05:30'
 published_at: '2026-08-06T03:13:58Z'
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 477
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-08T21:24:34.511155+05:30'
-last_seen: '2026-08-08T21:24:34.511155+05:30'
-last_checked: '2026-08-08T21:24:34.511155+05:30'
+first_seen: '2026-08-09T03:24:41.160162+05:30'
+last_seen: '2026-08-09T03:24:41.160162+05:30'
+last_checked: '2026-08-09T03:24:41.160162+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements 4 specialized AI agents for A-share market analysis, leveraging CrewAI for collaborative decision-making.
-- **Data Integration**: Utilizes AKShare for real-time A-share data (quotes, financials, fund flows, sentiment) and provides automated investment recommendations.
-- **China-Specific Optimization**: Tailored for A-share market dynamics, offering localized financial analysis and investment strategies.
+- **Multi-Agent A-Shares Analysis System**: Utilizes 4 specialized AI agents (data retrieval, financial analysis, sentiment evaluation, and decision synthesis) collaborating via CrewAI to perform real-time A-shares (China stock market) analysis, integrating AKShare for financial data, market sentiment, and fund flows.
+
+- **Technical Stack & Data Integration**: Leverages AKShare API for comprehensive A-shares data (quotes, financials, capital flows) and Python-based CrewAI framework for agent orchestration, enabling automated, multi-dimensional investment analysis.
+
+- **Output & Optimization**: Generates structured investment recommendations by synthesizing real-time market data, financial metrics, and sentiment analysis, tailored to A-shares market dynamics (e.g., volatility, regulatory factors).
 
 ## Why It Matters
 
@@ -40,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: liangdabiao
 - Stars: 477
-- Forks: 97
+- Forks: 98
 - Language: Python
 - Topics: agent
 - Last Updated: 2026-08-06T03:13:58Z

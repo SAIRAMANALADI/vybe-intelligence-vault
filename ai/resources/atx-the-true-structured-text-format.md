@@ -3,17 +3,17 @@ title: atx, the true structured text format
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: http://www.aaronsw.com/2002/atx
-published_at: '2026-06-24T21:14:08.560337+05:30'
-collected_at: '2026-06-24T21:14:08.560347+05:30'
+source_url: http://www.aaronsw.com/2002/atx/
+published_at: '2026-08-09T03:30:49.653720+05:30'
+collected_at: '2026-08-09T03:30:49.653734+05:30'
 tags:
 - scripts
 - web-crawled
 status: active
 resource_id: blog:atx-the-true-structured-text-format
-first_seen: '2026-06-24T21:14:08.560347+05:30'
-last_seen: '2026-06-24T21:14:08.560347+05:30'
-last_checked: '2026-06-24T21:14:08.560347+05:30'
+first_seen: '2026-08-09T03:30:49.653734+05:30'
+last_seen: '2026-08-09T03:30:49.653734+05:30'
+last_checked: '2026-08-09T03:30:49.653734+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **ATX** is a lightweight, structured plaintext markup format designed to simplify document formatting by eliminating angle brackets and complex typographic rules.
-- **Syntax** relies on simple markers (e.g., `#` for headings, `*` for lists) to define document structure, enabling easy conversion to HTML via provided Python script (`atx.py`).
-- **Goal** is to reduce friction in text formatting while maintaining readability and machine-parsability, contrasting with verbose formats like Markdown or reStructuredText.
+- **Simplified Markup Syntax**: ATX replaces angle brackets (`< >`) with simpler `#` characters for headings (e.g., `# Heading 1`), eliminating the need for explicit HTML tags.
+- **Em-Dash Handling**: Uses `--` for em-dashes (e.g., `word--word`) instead of requiring precise Unicode or HTML entities (`&mdash;`).
+- **Python-Based Conversion**: Provides a Python script (`atx.py`) to parse ATX into HTML, enabling programmatic document processing without manual formatting.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:14:08.560337+05:30
+- Published: 2026-08-09T03:30:49.653720+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://www.aaronsw.com/2002/atx
+Original source: http://www.aaronsw.com/2002/atx/

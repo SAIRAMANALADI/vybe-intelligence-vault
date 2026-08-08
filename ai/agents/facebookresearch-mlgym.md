@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-08-08T21:23:19.497420+05:30'
+collected_at: '2026-08-09T03:23:26.121952+05:30'
 published_at: '2026-08-07T17:28:51Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
+- workflows
 stars: 616
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-08-08T21:23:19.497420+05:30'
-last_seen: '2026-08-08T21:23:19.497420+05:30'
-last_checked: '2026-08-08T21:23:19.497420+05:30'
+first_seen: '2026-08-09T03:23:26.121952+05:30'
+last_seen: '2026-08-09T03:23:26.121952+05:30'
+last_checked: '2026-08-09T03:23:26.121952+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: MLGym is a modular Python framework for developing and benchmarking AI research agents, emphasizing reproducibility and scalability in machine learning experiments.
+- **Framework & Benchmark**: MLGym is a Python-based framework and benchmark designed to advance AI research agents, enabling systematic evaluation and development of autonomous research systems.
 
-- **Benchmark Suite**: Includes standardized tasks and metrics to evaluate AI agents' performance across diverse research scenarios, enabling systematic comparison of methodologies.
+- **Scalability & Modularity**: The framework emphasizes modular design for extensibility, supporting distributed training and evaluation across heterogeneous hardware configurations.
 
-- **Architecture**: Implements a client-server model with decoupled components for experiment management, agent training, and evaluation, supporting distributed execution.
+- **Benchmark Suite**: Includes standardized tasks and metrics to assess AI agents' performance in machine learning research workflows, facilitating reproducible and comparable experiments.
 
 ## Why It Matters
 

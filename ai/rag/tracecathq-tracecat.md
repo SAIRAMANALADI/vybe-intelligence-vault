@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-08T21:23:29.504495+05:30'
+collected_at: '2026-08-09T03:23:36.108309+05:30'
 published_at: '2026-08-07T18:43:50Z'
 tags:
 - agents
@@ -21,11 +21,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-08-08T04:50:44Z'
+pushed_at: '2026-08-08T21:06:21Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-08T21:23:29.504495+05:30'
-last_seen: '2026-08-08T21:23:29.504495+05:30'
-last_checked: '2026-08-08T21:23:29.504495+05:30'
+first_seen: '2026-08-09T03:23:36.108309+05:30'
+last_seen: '2026-08-09T03:23:36.108309+05:30'
+last_checked: '2026-08-09T03:23:36.108309+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Open-source security automation platform integrating event-driven workflows with AI agents, leveraging FastAPI (backend), Next.js (frontend), and Temporal.io (orchestration) for scalable, low-code security operations.
+- **Platform Architecture**: Open-source security automation platform leveraging FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration) with event-driven architecture for low-code security operations.
 
-- **Technical Stack**: Python-based backend with Pydantic for data validation, OpenAPI for API specification, and LLM integration for AI-driven security tasks; supports real-time monitoring and workflow automation.
+- **Technical Stack**: Python-based backend using Pydantic for data validation, OpenAPI for API specification, and integrates LLMs for AI-driven automation and monitoring workflows.
 
-- **Architecture**: Modular design with temporal workflow engine for stateful orchestration, enabling parallel task execution, retries, and error handling in security automation pipelines.
+- **Deployment & Scalability**: Designed for teams and AI agents with modular workflow engine, supports high scalability via temporal.io, and includes monitoring capabilities for security event handling.
 
 ## Why It Matters
 
@@ -54,7 +54,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-08-08T04:50:44Z
+- Pushed At: 2026-08-08T21:06:21Z
 
 ## Possible Use Cases
 

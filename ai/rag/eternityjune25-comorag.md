@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-08T21:22:04.397269+05:30'
+collected_at: '2026-08-09T03:22:11.028394+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-08T21:22:04.397269+05:30'
-last_seen: '2026-08-08T21:22:04.397269+05:30'
-last_checked: '2026-08-08T21:22:04.397269+05:30'
+first_seen: '2026-08-09T03:22:11.028394+05:30'
+last_seen: '2026-08-09T03:22:11.028394+05:30'
+last_checked: '2026-08-09T03:22:11.028394+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework (`ComoRAG`) inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
-- **Stateful Reasoning**: Implements dynamic memory retrieval and update mechanisms to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
-- **AAAI 2026 Poster**: Presented as a novel approach for enhancing RAG systems with memory-driven reasoning, validated through benchmarks in long-form narrative comprehension tasks.
+- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework mimicking human memory organization (e.g., episodic/semantic memory) to enhance stateful long-form narrative reasoning, addressing limitations in traditional RAG systems for extended contexts.
+
+- **Memory-Organized Retrieval**: Implements a hierarchical memory structure (short-term/long-term) with dynamic retrieval policies, optimizing context relevance and coherence for multi-turn narratives by leveraging cognitive memory consolidation principles.
+
+- **AAAI 2026 Contribution**: Proposes a novel evaluation framework for stateful reasoning, demonstrating superior performance in long narrative tasks (e.g., storytelling, procedural reasoning) via empirical benchmarks against existing RAG baselines.
 
 ## Why It Matters
 

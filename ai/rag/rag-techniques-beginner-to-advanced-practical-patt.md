@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-08-08T21:20:30.173805+05:30'
-collected_at: '2026-08-08T21:20:30.173819+05:30'
+published_at: '2026-08-09T03:20:36.470677+05:30'
+collected_at: '2026-08-09T03:20:36.470693+05:30'
 tags:
 - agents
 - anthropic
@@ -20,12 +20,11 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-08-08T21:20:30.173819+05:30'
-last_seen: '2026-08-08T21:20:30.173819+05:30'
-last_checked: '2026-08-08T21:20:30.173819+05:30'
+first_seen: '2026-08-09T03:20:36.470693+05:30'
+last_seen: '2026-08-09T03:20:36.470693+05:30'
+last_checked: '2026-08-09T03:20:36.470693+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Minimal RAG Pipeline**: Implements a basic RAG system using `sentence-transformers` for embeddings, FAISS for vector search, and Flan-T5 for generation; includes document indexing and retrieval+generation workflows.
-- **Core RAG Components**: Defines retriever (dense/sparse), generator (LLM), embeddings (e.g., `all-MiniLM-L6-v2`), chunking strategies, reranking (e.g., `monoT5`), and hybrid retrieval (sparse+dense) for improved precision/recall.
-- **Advanced Techniques**: Covers multi-hop retrieval, GraphRAG/knowledge graphs, multi-vector retrievers, context compression, agentic RAG, and safety/grounding guarantees for production-grade RAG systems.
+- **Core RAG Architecture**: Combines dense (embeddings + vector search) and sparse (BM25/TF-IDF) retrieval with an LLM generator; uses FAISS/Chroma for vector storage and sentence-transformers for embeddings.
+
+- **Intermediate Optimization Techniques**: Implements hybrid retrieval (dense + sparse), reranking (cross-encoders like monoT5), query expansion (HyDE/multi-query), and metadata filtering for precision/recall trade-offs.
+
+- **Advanced Patterns**: Enables multi-hop retrieval, GraphRAG (knowledge graphs), agentic RAG (tool integration), and context compression; emphasizes production-grade evaluation, observability, and latency/cost optimizations.
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T21:20:30.173805+05:30
+- Published: 2026-08-09T03:20:36.470677+05:30
 
 ## Related Tags
 
@@ -61,7 +62,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

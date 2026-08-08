@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-08T21:22:04.425098+05:30'
+collected_at: '2026-08-09T03:22:11.009064+05:30'
 published_at: '2026-08-08T09:17:04Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-08T21:22:04.425098+05:30'
-last_seen: '2026-08-08T21:22:04.425098+05:30'
-last_checked: '2026-08-08T21:22:04.425098+05:30'
+first_seen: '2026-08-09T03:22:11.009064+05:30'
+last_seen: '2026-08-09T03:22:11.009064+05:30'
+last_checked: '2026-08-09T03:22:11.009064+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context.
+- **Vertically Unified Agents**: Introduces a multi-agent system where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-aware decision-making.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph-based knowledge retrieval with LLM reasoning, enabling dynamic subgraph extraction and iterative refinement for improved factual accuracy and contextual understanding.
+- **Graph Retrieval-Augmented Generation (GraphRAG)**: Integrates graph-based knowledge retrieval with LLMs, enabling dynamic subgraph extraction and structured reasoning to improve factual accuracy and contextual relevance in outputs.
 
-- **ICLR 2026 Contribution**: Proposes a vertically unified framework combining graph neural networks (GNNs) with retrieval-augmented generation (RAG), optimizing multi-hop reasoning and scalability for large-scale knowledge graphs.
+- **Optimized for Complex Queries**: Designed to handle multi-hop reasoning and long-form dependency tasks by combining graph traversal algorithms (e.g., neighborhood sampling) with agent-driven RAG pipelines, achieving state-of-the-art performance in ICLR 2026 benchmarks.
 
 ## Why It Matters
 

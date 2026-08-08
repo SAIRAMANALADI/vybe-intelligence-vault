@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-08T15:31:56.931598+05:30'
-published_at: '2026-08-08T09:33:35Z'
+collected_at: '2026-08-09T03:23:51.098734+05:30'
+published_at: '2026-08-08T16:49:49Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 26767
+stars: 26772
 language: Python
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-08-03T21:08:08Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-08T15:31:56.931598+05:30'
-last_seen: '2026-08-08T15:31:56.931598+05:30'
-last_checked: '2026-08-08T15:31:56.931598+05:30'
+first_seen: '2026-08-09T03:23:51.098734+05:30'
+last_seen: '2026-08-09T03:23:51.098734+05:30'
+last_checked: '2026-08-09T03:23:51.098734+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Local-first autonomous agent framework** leveraging **DeepSeek-R1** for reasoning, browsing, and code execution without external APIs or cloud dependencies.
-- **Cost-efficient execution** via local compute (GPU/CPU), eliminating recurring fees (e.g., $200/month) while maintaining high autonomy.
-- **Multi-modal capabilities**: Supports text, web interaction, and voice assistant functionality via Python-based LLM agent architecture.
+- **Local-First Autonomous Agent**: Fully local implementation of Manus AI using Python, eliminating API dependencies and cloud costs; operates autonomously with web browsing, reasoning, and code execution capabilities.
+- **DeepSeek-R1 Integration**: Leverages DeepSeek-R1 LLM for high-performance reasoning and decision-making without external API calls.
+- **Cost Efficiency**: Operates solely on local compute resources (electricity cost), avoiding recurring cloud/API expenses (~$200/month savings).
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Fosowl
-- Stars: 26767
-- Forks: 2996
+- Stars: 26772
+- Forks: 2995
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
-- Last Updated: 2026-08-08T09:33:35Z
+- Last Updated: 2026-08-08T16:49:49Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-02-19T18:03:06Z

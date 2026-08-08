@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-96%2C343-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-164%2C589-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--09-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **96,343 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **164,589 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,551</p>
-        <p><b>Active:</b> 17,039 | <b>Inactive:</b> 512</p>
+        <p><b>Resources tracked:</b> 18,583</p>
+        <p><b>Active:</b> 18,069 | <b>Inactive:</b> 514</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,203</p>
+        <p><b>Archive Files:</b> 69,438</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 96,343 files</p>
-        <p><b>Last Update:</b> 2026-08-09 03:03 IST</p>
+        <p><b>Total Vault Size:</b> 164,589 files</p>
+        <p><b>Last Update:</b> 2026-08-09 03:37 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[SentenceTransformers Documentation — Sentence Transformers documentation](ai/rag/sentencetransformers-documentation-sentence-transf.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[embeddings-benchmark/mteb](ai/rag/embeddings-benchmark-mteb.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Google Colab](ai/rag/google-colab.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[gitiles - Git at Google](ai/resources/gitiles-git-at-google.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[trekhleb/javascript-algorithms](ai/resources/trekhleb-javascript-algorithms.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[A domain can now say it is for sale, in DNS](ai/community/a-domain-can-now-say-it-is-for-sale-in-dns.md)** • <kbd>+196 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[What happens if an entire class of workers loses faith in their careers](ai/community/what-happens-if-an-entire-class-of-workers-loses-f.md)** • <kbd>+99 pts</kbd>
+- 🔼 **[Gentoo bugzilla closed due AI bot scraper overload](ai/community/gentoo-bugzilla-closed-due-ai-bot-scraper-overload.md)** • <kbd>+90 pts</kbd>
+- 🔼 **[sentence-transformers/sentence_transformers/sentence_transformer/model.py at main · huggingface/sentence-transformers ·](ai/rag/huggingface-sentence-transformers.md)** • Rank: <kbd>+38</kbd>
+- 🔼 **[Sphinx — Sphinx documentation](ai/resources/sphinx-sphinx-documentation.md)** • Rank: <kbd>+1311</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Timeline of the OpenAI accidental attack against Hugging Face](ai/community/now-we-have-a-timeline-of-the-openai-accidental-at.md)** • Score: `130`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](ai/community/denmark-requires-oral-defenses-for-students-writte.md)** • Score: `365`
+- 🆕 **[Timeline of the OpenAI accidental attack against Hugging Face](ai/community/now-we-have-a-timeline-of-the-openai-accidental-at.md)** • Score: `275`
+- 🆕 **[Fastmail offers EU data region](ai/community/fastmail-offers-eu-data-region.md)** • Score: `262`
+- 🆕 **[TinySol, a tiny solitaire game for DOS](ai/community/tinysol-a-tiny-solitaire-game-for-dos.md)** • Score: `28`
+- 🆕 **[HKUNLP/UnifiedSKG](ai/rag/hkunlp-unifiedskg.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Managing AI Coding Costs at Scale](ai/community/managing-ai-coding-costs-at-scale.md)**
+- 💤 **[Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All](ai/community/sensitive-info-goes-into-no-reply-emails-constantl.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

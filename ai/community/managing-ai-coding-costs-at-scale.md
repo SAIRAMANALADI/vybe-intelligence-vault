@@ -13,13 +13,14 @@ collected_at: '2026-08-08T21:19:33.578892+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:managing-ai-coding-costs-at-scale
 first_seen: '2026-08-08T12:47:40.892662+05:30'
 last_seen: '2026-08-08T21:19:33.578892+05:30'
 last_checked: '2026-08-08T21:19:33.578892+05:30'
 health_score: 100
 ---
+
 
 # Managing AI Coding Costs at Scale
 

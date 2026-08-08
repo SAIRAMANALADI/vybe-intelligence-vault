@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-08-08T21:22:34.396118+05:30'
-published_at: '2026-08-08T12:14:53Z'
+collected_at: '2026-08-09T03:22:41.025554+05:30'
+published_at: '2026-08-08T21:01:51Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - html
 - scripts
-stars: 3890
+stars: 3892
 language: HTML
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-08-08T21:22:34.396118+05:30'
-last_seen: '2026-08-08T21:22:34.396118+05:30'
-last_checked: '2026-08-08T21:22:34.396118+05:30'
+first_seen: '2026-08-09T03:22:41.025554+05:30'
+last_seen: '2026-08-09T03:22:41.025554+05:30'
+last_checked: '2026-08-09T03:22:41.025554+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,7 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, including SOUL.md configurations categorized across 19 domains.
-- **Technical Scope**: Supports AI automation, multi-agent systems, and no-code solutions with integrations for Docker, MCP, Anthropic, and Telegram bots.
-- **Community & Contribution**: Open-source project with 3,890 stars, 630 forks, and a submission-based model for expanding agent templates. Last updated August 8, 2026.
+*   Offers 162 production-ready AI agent templates specifically designed for the OpenCl
 
 ## Why It Matters
 
@@ -42,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3890
+- Stars: 3892
 - Forks: 630
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-08-08T12:14:53Z
+- Last Updated: 2026-08-08T21:01:51Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-05T10:51:17Z

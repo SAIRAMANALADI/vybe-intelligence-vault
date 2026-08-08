@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-08T12:51:08.728828+05:30'
+collected_at: '2026-08-09T03:23:06.065780+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
+- frontend_ui
 - github-repo
 - rag
 - reddit
 - unknown
-- workflows
 stars: 205
 language: Unknown
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-08T12:51:08.728828+05:30'
-last_seen: '2026-08-08T12:51:08.728828+05:30'
-last_checked: '2026-08-08T12:51:08.728828+05:30'
+first_seen: '2026-08-09T03:23:06.065780+05:30'
+last_seen: '2026-08-09T03:23:06.065780+05:30'
+last_checked: '2026-08-09T03:23:06.065780+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic retries for failed requests.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic retries for failed queries.
 
-- **Router Best Practices for AI Agents**: Implements dynamic route handling with TanStack Router, leveraging lazy-loaded routes and type-safe navigation to minimize bundle size and improve performance in agent-based UIs.
+- **TanStack Router Best Practices**: Implements dynamic route matching, lazy-loaded route segments, and type-safe navigation for AI agents, leveraging TanStack Router’s file-based routing and built-in search param handling for stateful agent interactions.
 
-- **Start Framework Integration**: Provides boilerplate for TanStack Start (meta-framework) to streamline SSR/SSG setups, with pre-configured error boundaries and hydration optimizations tailored for AI agent workflows.
+- **TanStack Start Optimization**: Focuses on server-side rendering (SSR) and edge-compatible hydration for AI agents, utilizing TanStack Start’s zero-config performance optimizations and fine-grained reactivity to minimize client-side bundle size while maintaining real-time updates.
 
 ## Why It Matters
 

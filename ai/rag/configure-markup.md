@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-08-08T18:53:00.575999+05:30'
-collected_at: '2026-08-08T18:53:00.576018+05:30'
+published_at: '2026-08-09T03:26:11.988370+05:30'
+collected_at: '2026-08-09T03:26:11.988387+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-08-08T18:53:00.576018+05:30'
-last_seen: '2026-08-08T18:53:00.576018+05:30'
-last_checked: '2026-08-08T18:53:00.576018+05:30'
+first_seen: '2026-08-09T03:26:11.988387+05:30'
+last_seen: '2026-08-09T03:26:11.988387+05:30'
+last_checked: '2026-08-09T03:26:11.988387+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Markdown Handler Configuration**: Hugo defaults to Goldmark for Markdown rendering (`defaultMarkdownHandler: goldmark`), but supports alternative renderers (AsciiDoc, Org, Pandoc, reStructuredText) via configuration; requires external tooling and security policy updates for non-default handlers.
+- **Default Markdown Handler**: Hugo defaults to **Goldmark** for Markdown rendering, with alternative handlers (`asciidocext`, `org`, `pandoc`, `rst`) requiring external dependencies and security policy updates.
 
-- **Goldmark Extensibility**: Goldmark’s default extensions (footnote, linkify, strikethrough, table, taskList, typographer) are enabled by default; additional features (Extras, Passthrough) require explicit activation, with potential conflicts (e.g., disabling `strikethrough` when enabling `subscript`).
+- **Goldmark Configuration**: Core settings include `duplicateResourceFiles`, `parser.wrapStandAloneImageWithinParagraph`, `parser.autoHeadingID`, and extensions like `footnote`, `linkify`, `strikethrough`, and `typographer` (e.g., `...` → `…`).
 
-- **Goldmark Parser/Renderer Settings**: Key configurations include `parser.autoHeadingID` (auto-generates heading IDs), `parser.wrapStandAloneImageWithinParagraph` (controls standalone image wrapping), and `duplicateResourceFiles` (affects multilingual resource handling); `unsafe: false` prevents raw HTML rendering by default.
+- **Extras & Passthrough**: The `extras` extension enables subscript/superscript (`H~2~O` → `H₂O`) but conflicts with `strikethrough`; `passthrough` allows LaTeX math rendering via configurable delimiters.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T18:53:00.575999+05:30
+- Published: 2026-08-09T03:26:11.988370+05:30
 
 ## Related Tags
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/syntax-highlighting-styles.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Syntax highlighting styles
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- Hugo supports syntax highlighting via `transform.Highlight` in templates, `highlight` shortcode, or fenced Markdown code blocks.
-- Default style set in `markup.highlight.style` (e.g., `monokai`); external CSS generated via `hugo gen chromastyles` when `noClasses=false`.
-- Light/dark mode styles available (e.g., `catppuccin-latte`/`mocha`, `github`/`github-dark`), configurable per environment.
+- Hugo supports syntax highlighting via `transform.Highlight` function, `highlight` shortcode, or fenced code blocks in Markdown.
+- Syntax highlighting styles can be configured in `markup.highlight.style` (e.g., `monokai`) and support light/dark mode variants (e.g., `catppuccin-latte`/`catppuccin-mocha`).
+- External CSS stylesheets can be generated with `hugo gen chromastyles` by setting `markup.highlight.noClasses = false` in configuration.
 
 ## Use Cases
 

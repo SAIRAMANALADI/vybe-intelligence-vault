@@ -4,13 +4,14 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/trekhleb/javascript-algorithms
-collected_at: '2026-08-08T21:30:37.592354+05:30'
-published_at: '2026-08-08T15:32:51Z'
+collected_at: '2026-08-09T03:30:53.912656+05:30'
+published_at: '2026-08-08T20:07:46Z'
 tags:
 - github-repo
 - hackernews
 - javascript
-stars: 196414
+- paper
+stars: 196417
 language: JavaScript
 status: active
 license: MIT
@@ -18,9 +19,9 @@ archived: false
 created_at: '2018-03-24T07:47:04Z'
 pushed_at: '2026-07-26T02:43:08Z'
 resource_id: github:trekhleb/javascript-algorithms
-first_seen: '2026-08-08T21:30:37.592354+05:30'
-last_seen: '2026-08-08T21:30:37.592354+05:30'
-last_checked: '2026-08-08T21:30:37.592354+05:30'
+first_seen: '2026-08-09T03:30:53.912656+05:30'
+last_seen: '2026-08-09T03:30:53.912656+05:30'
+last_checked: '2026-08-09T03:30:53.912656+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive JS Implementation**: Repository containing JavaScript implementations of classic algorithms and data structures (e.g., sorting, graph traversals, dynamic programming) with detailed explanations and references for further study.
+- **Comprehensive JS Implementation**: Repository contains 50+ algorithms (sorting, searching, graph, dynamic programming) and 30+ data structures (trees, heaps, graphs) fully implemented in JavaScript with ES6+ syntax.
 
-- **Interview Preparation Focus**: Curated collection aligned with technical interview requirements, covering topics like time/space complexity, common patterns, and problem-solving techniques in JavaScript.
+- **Educational Resources**: Each implementation includes detailed explanations, time/space complexity analysis, and curated links to academic papers, Wikipedia, and additional learning materials.
 
-- **Active Maintenance & Community**: Regularly updated (last commit: Aug 2026) with 196K+ stars and 31K+ forks, indicating strong community adoption and collaborative development.
+- **Interview-Ready**: Structured for technical interview prep with categorized problems, LeetCode-style solutions, and cross-referenced topics covering CS fundamentals and JavaScript-specific optimizations.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: trekhleb
-- Stars: 196414
-- Forks: 31036
+- Stars: 196417
+- Forks: 31037
 - Language: JavaScript
 - Topics: algorithm, algorithms, computer-science, data-structures, interview, interview-preparation, javascript, javascript-algorithms
-- Last Updated: 2026-08-08T15:32:51Z
+- Last Updated: 2026-08-08T20:07:46Z
 - License: MIT
 - Archived: No
 - Created At: 2018-03-24T07:47:04Z

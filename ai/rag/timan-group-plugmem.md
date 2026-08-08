@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIMAN-group/PlugMem
-collected_at: '2026-08-08T21:22:09.421655+05:30'
-published_at: '2026-08-08T10:49:29Z'
+collected_at: '2026-08-09T03:22:16.047874+05:30'
+published_at: '2026-08-08T21:33:23Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 271
+stars: 272
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-09T22:43:38Z'
 pushed_at: '2026-07-09T05:51:21Z'
 resource_id: github:timan-group/plugmem
-first_seen: '2026-08-08T21:22:09.421655+05:30'
-last_seen: '2026-08-08T21:22:09.421655+05:30'
-last_checked: '2026-08-08T21:22:09.421655+05:30'
+first_seen: '2026-08-09T03:22:16.047874+05:30'
+last_seen: '2026-08-09T03:22:16.047874+05:30'
+last_checked: '2026-08-09T03:22:16.047874+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Plug-and-play long-term memory integration**: Introduces a modular framework enabling LLMs to dynamically attach/detach persistent memory modules without retraining, enhancing adaptability for agent-based tasks.
+- **Plug-and-play long-term memory integration**: Enables LLMs to dynamically attach and detach long-term memory modules without retraining, enhancing adaptability in agent-based systems.
 
-- **Hybrid memory architecture**: Combines retrieval-augmented generation (RAG) with structured memory storage, optimizing context retention and scalability for long-horizon agent interactions.
+- **Memory-augmented agent framework**: Implements Retrieval-Augmented Generation (RAG) for efficient storage/retrieval of episodic and semantic memory, optimizing context-aware decision-making.
 
-- **ICML 2026 submission**: Open-source Python implementation (`PlugMem`) with 271 stars, supporting agent-memory, LLM-agent, and RAG workflows, last updated August 2026.
+- **ICML 2026 submission**: Open-source Python library (`PlugMem`) with modular design for extensible memory architectures in LLM agents, last updated August 2026.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TIMAN-group
-- Stars: 271
+- Stars: 272
 - Forks: 25
 - Language: Python
 - Topics: agent-memory, llm-agent, rag
-- Last Updated: 2026-08-08T10:49:29Z
+- Last Updated: 2026-08-08T21:33:23Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-09T22:43:38Z

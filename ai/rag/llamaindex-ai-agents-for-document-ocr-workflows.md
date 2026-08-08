@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-08-08T15:32:52.674823+05:30'
-collected_at: '2026-08-08T15:32:52.674834+05:30'
+published_at: '2026-08-09T03:24:46.717949+05:30'
+collected_at: '2026-08-09T03:24:46.717966+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-08-08T15:32:52.674834+05:30'
-last_seen: '2026-08-08T15:32:52.674834+05:30'
-last_checked: '2026-08-08T15:32:52.674834+05:30'
+first_seen: '2026-08-09T03:24:46.717966+05:30'
+last_seen: '2026-08-09T03:24:46.717966+05:30'
+last_checked: '2026-08-09T03:24:46.717966+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs a Vision-Language Model (VLM)-powered agentic OCR system with specialized experts for text, charts, tables, and handwritten content, featuring auto-correction loops for recursive error detection and correction.
+- **Agentic OCR & Structured Extraction**: LlamaParse uses Vision-Language Model (VLM)-powered agents for layout-aware document parsing, converting unstructured documents (PDFs, images, handwritten notes) into structured, LLM-ready outputs with schema-based extraction and auto-correction loops for high accuracy.
 
-- **Schema-Based Extraction**: Supports structured extraction of unstructured documents (50+ formats) into defined schemas without training, enabling LLM-ready outputs with semantic understanding and layout-aware parsing.
+- **Multi-Format & Multi-Modal Support**: Processes 50+ file types, including embedded images, complex layouts, multi-page tables, charts, and handwritten text, with specialized agents for text, tables, and charts, and recursive error correction for messy scans.
 
-- **Enterprise-Grade Features**: Offers 10K free credits/month (~1K pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible cloud/VPC deployment, and benchmark-leading performance in parsing accuracy for complex multi-modal documents.
+- **Enterprise-Grade Performance & Security**: Offers 99.9% uptime, HIPAA/GDPR/SOC2 compliance, granular access controls, and flexible deployment (cloud or VPC), with benchmarks outperforming proprietary VLM and commercial IDP solutions in parsing, table, and chart extraction tasks.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T15:32:52.674823+05:30
+- Published: 2026-08-09T03:24:46.717949+05:30
 
 ## Related Tags
 

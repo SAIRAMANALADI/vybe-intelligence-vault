@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tonykipkemboi/trip_planner_agent
-collected_at: '2026-08-08T21:24:39.510456+05:30'
+collected_at: '2026-08-09T03:24:46.141410+05:30'
 published_at: '2026-05-18T04:13:15Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 143
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-01-16T09:09:17Z'
 pushed_at: '2024-06-19T15:04:05Z'
 resource_id: github:tonykipkemboi/trip_planner_agent
-first_seen: '2026-08-08T21:24:39.510456+05:30'
-last_seen: '2026-08-08T21:24:39.510456+05:30'
-last_checked: '2026-08-08T21:24:39.510456+05:30'
+first_seen: '2026-08-09T03:24:46.141410+05:30'
+last_seen: '2026-08-09T03:24:46.141410+05:30'
+last_checked: '2026-08-09T03:24:46.141410+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent CrewAI Framework**: Implements CrewAI agents for autonomous trip planning, leveraging LLMs (e.g., OpenAI) to orchestrate tasks like itinerary generation, booking, and optimization.
-- **Python-Based Open-Source Toolkit**: Built in Python with modular agent components, enabling extensibility for custom travel planning workflows (e.g., flight/hotel recommendations, activity scheduling).
-- **Integration with LLMs**: Utilizes OpenAI's API for natural language processing, allowing dynamic interaction with user inputs to refine trip plans based on real-time data (e.g., weather, pricing).
+- **CrewAI-based Multi-Agent System**: Implements autonomous AI agents using CrewAI framework to collaboratively plan vacations via LLM-driven task decomposition and execution.
+
+- **Open-Source Python Implementation**: Provides a Python-based, open-source toolkit leveraging OpenAI LLMs for itinerary generation, dynamic scheduling, and real-time travel recommendations.
+
+- **Modular Architecture**: Features extensible agent roles (e.g., researcher, planner) with GitHub-hosted codebase (143 stars, 63 forks) and active updates (last commit: 2026-05-18).
 
 ## Why It Matters
 

@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-08T21:20:54.312558+05:30'
+collected_at: '2026-08-09T03:21:00.987095+05:30'
 published_at: '2026-08-08T09:05:46Z'
 tags:
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 stars: 25692
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-08T21:20:54.312558+05:30'
-last_seen: '2026-08-08T21:20:54.312558+05:30'
-last_checked: '2026-08-08T21:20:54.312558+05:30'
+first_seen: '2026-08-09T03:21:00.987095+05:30'
+last_seen: '2026-08-09T03:21:00.987095+05:30'
+last_checked: '2026-08-09T03:21:00.987095+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Document Interaction**: Kotaemon is an open-source tool leveraging Retrieval-Augmented Generation (RAG) to enable conversational querying of uploaded documents, enhancing contextual responses via document retrieval and LLM integration.
-
-- **Python Implementation**: The project is primarily developed in Python, utilizing modern libraries and frameworks for document processing, vector embeddings (e.g., FAISS, Chroma), and LLM inference (e.g., Hugging Face Transformers).
-
-- **Modular Architecture**: Designed with extensibility in mind, Kotaemon supports custom document loaders, retrievers, and LLM backends, with a focus on scalability and integration with tools like LangChain or LlamaIndex.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs.
+- **Open-Source Python Framework**: Provides a modular, extensible toolkit for document ingestion, retrieval, and LLM integration under the Apache 2.0 license.
+- **Scalable Deployment**: Supports local and cloud-based setups with optimized vector storage (e.g., FAISS, Chroma) and retrieval pipelines for large document collections.
 
 ## Why It Matters
 
@@ -44,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Cinnamon
 - Stars: 25692
-- Forks: 2139
+- Forks: 2138
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
 - Last Updated: 2026-08-08T09:05:46Z

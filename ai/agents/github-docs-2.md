@@ -1,32 +1,35 @@
 ---
-title: docs/content/copilot/get-started/what-is-github-copilot.md at main · github/docs
-  · GitHub
+title: docs/content/index.md at main · github/docs · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/github/docs/blob/main/content/copilot/get-started/what-is-github-copilot.md
-published_at: '2026-08-06T04:00:24.095495+05:30'
-collected_at: '2026-08-06T04:00:24.095511+05:30'
+source_url: https://github.com/github/docs/blob/main/content/index.md
+published_at: '2026-08-09T03:30:08.666841+05:30'
+collected_at: '2026-08-09T03:30:08.666857+05:30'
 tags:
 - agents
+- hackernews
+- scripts
 - web-crawled
+- workflows
+- youtube
 status: active
 resource_id: github:github/docs
-first_seen: '2026-08-06T04:00:24.095511+05:30'
-last_seen: '2026-08-06T04:00:24.095511+05:30'
-last_checked: '2026-08-06T04:00:24.095511+05:30'
+first_seen: '2026-08-09T03:30:08.666857+05:30'
+last_seen: '2026-08-09T03:30:08.666857+05:30'
+last_checked: '2026-08-09T03:30:08.666857+05:30'
 health_score: 100
 ---
 
-# docs/content/copilot/get-started/what-is-github-copilot.md at main · github/docs · GitHub
+# docs/content/index.md at main · github/docs · GitHub
 
 ## Summary
 
-- **AI-Powered Coding Assistant**: GitHub Copilot is an AI-driven tool integrated into IDEs, command lines, and GitHub platforms to provide real-time code suggestions, automate repetitive tasks, and assist in debugging, planning, and PR generation.
+- GitHub Help Documentation provides structured technical guides across **15+ categories**, including authentication, CI/CD, security, and enterprise policies, with version-specific support for **GitHub Free (fpt), GitHub Enterprise Server (ghes), and GitHub Enterprise Cloud (ghec)**.
 
-- **Multi-Model Access & Data Residency**: Supports individual (free/paid tiers) and enterprise plans (Copilot Business/Enterprise) with features like geographic data residency enforcement for {% data variables.product.prodname_ghe_cloud %} and higher-tier model access.
+- Key technical resources include **SSH setup, repository management, pull request syntax, GitHub Actions, CodeQL, and Copilot CLI**, with direct links to IDE integration and code vulnerability scanning workflows.
 
-- **Cross-Platform Integration**: Deployable across IDEs (e.g., VS Code), GitHub Mobile, Windows Terminal, CLI, and the GitHub Copilot desktop app, enabling agent-driven development and contextual chat-based assistance.
+- Additional documentation covers **REST/GQL APIs, webhooks, CLI tools, and policy enforcement** (e.g., GitHub Policies for supply chain security), alongside deprecated resources like the **GitHub AE Data Protection Agreement**.
 
 ## Why It Matters
 
@@ -36,13 +39,17 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-06T04:00:24.095495+05:30
+- Published: 2026-08-09T03:30:08.666841+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
+- scripts
 - web-crawled
+- workflows
+- youtube
 
 ## Source
 
-Original source: https://github.com/github/docs/blob/main/content/copilot/get-started/what-is-github-copilot.md
+Original source: https://github.com/github/docs/blob/main/content/index.md

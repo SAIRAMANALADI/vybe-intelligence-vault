@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-08T21:21:39.368101+05:30'
+collected_at: '2026-08-09T03:21:46.011382+05:30'
 published_at: '2026-08-08T03:47:36Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 503
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-08T21:21:39.368101+05:30'
-last_seen: '2026-08-08T21:21:39.368101+05:30'
-last_checked: '2026-08-08T21:21:39.368101+05:30'
+first_seen: '2026-08-09T03:21:46.011382+05:30'
+last_seen: '2026-08-09T03:21:46.011382+05:30'
+last_checked: '2026-08-09T03:21:46.011382+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Introduces `EnterpriseRAG-Bench`, a specialized dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems against proprietary enterprise knowledge bases.
-*   Facilitates LLM and RAG evaluation by providing resources for question-answering, information retrieval, and semantic search within an enterprise context.
-*   Leverages synthetic data generation to address the challenges of benchmarking RAG performance on internal company documents.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of performance in real-world scenarios.
+
+- **Dataset Features**: Includes synthetic data generation for enterprise knowledge bases, supporting evaluation of semantic search, information retrieval, and LLM-based QA systems with a focus on internal document contexts.
+
+- **Technical Scope**: Covers Python-based tools for RAG evaluation, LLM performance metrics, and retrieval mechanisms, with modular design for extensibility across enterprise search and generative AI applications.
 
 ## Why It Matters
 

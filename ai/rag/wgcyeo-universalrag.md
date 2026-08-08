@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-08T21:22:09.416151+05:30'
+collected_at: '2026-08-09T03:22:16.012978+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
-- models
 - python
 - rag
 stars: 174
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-08T21:22:09.416151+05:30'
-last_seen: '2026-08-08T21:22:09.416151+05:30'
-last_checked: '2026-08-08T21:22:09.416151+05:30'
+first_seen: '2026-08-09T03:22:16.012978+05:30'
+last_seen: '2026-08-09T03:22:16.012978+05:30'
+last_checked: '2026-08-09T03:22:16.012978+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) without requiring modality-specific fine-tuning.
-
-- **Unified Retrieval Mechanism**: Implements a modality-agnostic retrieval system using contrastive learning and cross-modal attention to align heterogeneous data representations into a shared embedding space.
-
-- **Dynamic Adaptation**: Supports dynamic corpus updates and adaptive retrieval strategies, leveraging a lightweight adapter module to optimize performance for new modalities or granularities without full retraining.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, entity-level).
+- **Unified Retrieval Mechanism**: Implements a single retrieval pipeline with modality-agnostic encoders and adaptive granularity selection for efficient cross-modal knowledge integration.
+- **ACL 2026 Oral Contribution**: Presents a novel architecture with empirical validation on heterogeneous corpora, demonstrating superior performance in multimodal downstream tasks.
 
 ## Why It Matters
 

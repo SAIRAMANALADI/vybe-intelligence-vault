@@ -8,14 +8,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`llmware-ai-llmware.md`](../../ai/rag/llmware-ai-llmware.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
@@ -33,14 +33,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+### [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`the-pocket-pocketflow-template-python.md`](../../ai/agents/the-pocket-pocketflow-template-python.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
@@ -53,14 +58,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`explosion-spacy.md`](../../ai/rag/explosion-spacy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`jamwithai-production-agentic-rag-course.md`](../../ai/rag/jamwithai-production-agentic-rag-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+### [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Score**: `87` | **Path**: [`llmware-ai-llmware.md`](../../ai/rag/llmware-ai-llmware.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [cli/cli](https://github.com/cli/cli)
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-08 21:37 IST*
+*Last updated: 2026-08-09 03:37 IST*

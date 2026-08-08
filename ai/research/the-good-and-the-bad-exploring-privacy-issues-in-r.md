@@ -18,11 +18,11 @@ authors:
 - Yi Chang
 - Jiliang Tang
 year: 2024
-citation_count: 230
+citation_count: 232
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-08-01T14:04:53.282161+05:30'
+collected_at: '2026-08-09T03:19:46.750589+05:30'
 tags:
 - augmented
 - generation
@@ -34,8 +34,8 @@ tags:
 status: active
 resource_id: blog:the-good-and-the-bad-exploring-privacy-issues-in-r
 first_seen: '2026-07-19T16:15:03.004028+05:30'
-last_seen: '2026-08-01T14:04:53.282161+05:30'
-last_checked: '2026-08-01T14:04:53.282161+05:30'
+last_seen: '2026-08-09T03:19:46.750589+05:30'
+last_checked: '2026-08-09T03:19:46.750589+05:30'
 health_score: 100
 ---
 
@@ -53,7 +53,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Shenglai Zeng, Jiankun Zhang, Pengfei He, Yue Xing, Yiding Liu, Han Xu, Jie Ren, Shuaiqiang Wang, Dawei Yin, Yi Chang, Jiliang Tang
 - Publication Year: 2024
-- Citation Count: 230
+- Citation Count: 232
 - Paper Link: https://semanticscholar.org/paper/ea89b058ce619ed16d4de633126b02a8179457c8
 - Code Link: None
 - Code Stars: N/A

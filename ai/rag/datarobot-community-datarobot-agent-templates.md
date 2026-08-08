@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-08-08T21:24:24.583477+05:30'
+collected_at: '2026-08-09T03:24:31.203218+05:30'
 published_at: '2026-07-31T15:53:17Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
+- scripts
 - workflows
 stars: 20
 language: Python
@@ -22,9 +24,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-31T15:56:17Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-08-08T21:24:24.583477+05:30'
-last_seen: '2026-08-08T21:24:24.583477+05:30'
-last_checked: '2026-08-08T21:24:24.583477+05:30'
+first_seen: '2026-08-09T03:24:31.203218+05:30'
+last_seen: '2026-08-09T03:24:31.203218+05:30'
+last_checked: '2026-08-09T03:24:31.203218+05:30'
 health_score: 100
 ---
 
@@ -32,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Templates for Agentic Workflows**: Repository provides structured templates for building agentic AI workflows using frameworks like CrewAI, LangGraph, and LlamaIndex, optimized for DataRobot integration.
-
-- **Python-Based Implementation**: All templates are implemented in Python, leveraging libraries such as `crewai`, `langgraph`, and `llama-index` for LLM orchestration and agentic task execution.
-
-- **DataRobot-Centric Design**: Templates are tailored for DataRobot environments, enabling seamless deployment of agentic workflows with DataRobot’s AI/ML capabilities. Last updated July 2026.
+- **Purpose**: Provides modular templates for building agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+- **Technical Stack**: Python-based templates leveraging DataRobot's API, agentic AI paradigms, and retrieval-augmented generation (RAG) via LlamaIndex for structured workflows.
+- **Key Features**: Includes pre-configured workflows for agentic tasks (e.g., data processing, model deployment) with support for multi-agent orchestration and dynamic LLM interactions.
 
 ## Why It Matters
 

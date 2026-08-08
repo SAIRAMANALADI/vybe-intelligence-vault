@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sickn33/agentic-awesome-skills
-collected_at: '2026-08-08T21:24:04.525167+05:30'
-published_at: '2026-08-08T15:47:38Z'
+collected_at: '2026-08-09T03:24:11.110214+05:30'
+published_at: '2026-08-08T19:30:23Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - python
 - workflows
-stars: 44650
+stars: 44652
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-14T17:48:09Z'
 pushed_at: '2026-08-08T07:06:12Z'
 resource_id: github:sickn33/agentic-awesome-skills
-first_seen: '2026-08-08T21:24:04.525167+05:30'
-last_seen: '2026-08-08T21:24:04.525167+05:30'
-last_checked: '2026-08-08T21:24:04.525167+05:30'
+first_seen: '2026-08-09T03:24:11.110214+05:30'
+last_seen: '2026-08-09T03:24:11.110214+05:30'
+last_checked: '2026-08-09T03:24:11.110214+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agent-First Control Plane**: AAS Core provides local orchestration for agentic systems, enabling catalog discovery, agent-driven skill selection, stack validation, and planning via 2,005+ prebuilt agentic skills.
-
-- **Multi-Tool Integration**: Supports CLI, local MCP, plugins, and Workbench, with compatibility for frameworks like Claude Code, Cursor, Gemini CLI, and Codex CLI.
-
-- **Python-Based Skill Library**: Hosts a rapidly growing repository of AI agent skills (`agent-skills`, `antigravity-skills`, etc.) optimized for AI coding, workflows, and developer tooling.
+- **AAS Core**: Local, agent-first control plane enabling catalog discovery, agent-owned skill selection, stack validation, and planning, with support for 2,005+ agentic skills.
+- **Features**: Includes CLI, local MCP, catalog, plugins, and Workbench; supports Python-based agent skills and integrations with tools like Claude Code, Cursor, and Gemini CLI.
+- **Repository Stats**: 44,652 stars, 6,553 forks; last updated 2026-08-08; focuses on AI agent skills, developer tools, and MCP-based workflows.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sickn33
-- Stars: 44650
+- Stars: 44652
 - Forks: 6553
 - Language: Python
 - Topics: agent-skills, agentic-skills, ai-agent-skills, ai-agents, ai-coding, ai-workflows, antigravity, antigravity-skills, claude-code, claude-code-skills, codex-cli, codex-skills, cursor, cursor-skills, developer-tools, gemini-cli, gemini-skills, kiro, mcp, skill-library
-- Last Updated: 2026-08-08T15:47:38Z
+- Last Updated: 2026-08-08T19:30:23Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-14T17:48:09Z

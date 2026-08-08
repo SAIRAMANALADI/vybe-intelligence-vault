@@ -1,20 +1,17 @@
 ---
 title: Hugging Face – The AI community building the future.
 archive_category: evals-and-benchmarks
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://huggingface.co/
 resource_id: blog:hugging-face-the-ai-community-building-the-future
-local_vault_path: ai/rag/hugging-face-the-ai-community-building-the-future.md
+local_vault_path: ai/resources/hugging-face-the-ai-community-building-the-future.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- dataset
-- hackernews
-- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -26,19 +23,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Architecture**: MiniMax-H3 is a 30B parameter decoder-only transformer model optimized for high-performance text generation, leveraging advanced attention mechanisms and efficient scaling techniques.
+- **Model Architecture**: MiniMax-H3 is a large-scale language model developed by MiniMaxAI, optimized for high-performance natural language processing tasks.
 
-- **Training Data**: Trained on a curated dataset exceeding 1T tokens, incorporating diverse multilingual and domain-specific corpora to enhance contextual understanding and output quality.
+- **Performance Metrics**: The model demonstrates strong capabilities in reasoning, coding, and multilingual understanding, with benchmark scores competitive against leading LLMs.
 
-- **Performance Metrics**: Achieves state-of-the-art results in benchmark evaluations (e.g., MMLU,
+- **Access & Usage**: Available on Hugging Face Hub under the identifier `MiniMaxAI/MiniMax-H3`, with 26.7k downloads and 3.09k likes, indicating active commun
 
 ## Use Cases
 
@@ -52,4 +49,4 @@ Original source URL: https://huggingface.co/
 
 ## Local Vault File
 
-Path: [hugging-face-the-ai-community-building-the-future.md](../../ai/rag/hugging-face-the-ai-community-building-the-future.md)
+Path: [hugging-face-the-ai-community-building-the-future.md](../../ai/resources/hugging-face-the-ai-community-building-the-future.md)

@@ -9,13 +9,13 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 ## Top Matched Resources
 
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (template - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) (benchmark - ESSENTIAL Tier)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (tutorial - ESSENTIAL Tier)
+- [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (dataset - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,7 +25,7 @@ https://github.com/microsoft/graphrag (GraphRAG)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
-- [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-08-08 21:36 IST*
+*Last updated: 2026-08-09 03:36 IST*

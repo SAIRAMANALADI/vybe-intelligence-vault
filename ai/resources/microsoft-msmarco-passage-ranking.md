@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/MSMARCO-Passage-Ranking
-collected_at: '2026-08-03T23:02:16.163530+05:30'
+collected_at: '2026-08-09T03:27:19.873566+05:30'
 published_at: '2026-08-01T11:41:51Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: true
 created_at: '2019-05-15T18:44:59Z'
 pushed_at: '2023-06-12T18:21:59Z'
 resource_id: github:microsoft/msmarco-passage-ranking
-first_seen: '2026-08-03T23:02:16.163530+05:30'
-last_seen: '2026-08-03T23:02:16.163530+05:30'
-last_checked: '2026-08-03T23:02:16.163530+05:30'
+first_seen: '2026-08-09T03:27:19.873566+05:30'
+last_seen: '2026-08-09T03:27:19.873566+05:30'
+last_checked: '2026-08-09T03:27:19.873566+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Task Definition**: Rerank 1,000 BM25-retrieved passages for a given query to maximize the rank of the most relevant passage, evaluated using **Mean Reciprocal Rank (MRR)**.
-- **Dataset Characteristics**: MS MARCO Passage Ranking is a large-scale dataset for machine reading comprehension, question answering, and passage ranking, with human-labeled relevance for a subset of passages.
-- **Evaluation Metric**: **MRR** is used to assess system performance, prioritizing the highest-ranked relevant passage.
+- **Dataset Purpose**: MS MARCO is a large-scale dataset for machine reading comprehension, question answering, and passage ranking, with a variant used in TREC and AFIRM 2019.
+- **Task Definition**: Given a query and 1,000 BM25-retrieved passages, the objective is to rerank the most relevant passage as high as possible, evaluated using Mean Reciprocal Rank (MRR).
+- **Evaluation Metric**: Performance is measured by MRR, with some passages lacking human relevance labels.
 
 ## Why It Matters
 

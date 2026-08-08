@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-08-08T21:23:24.459999+05:30'
+collected_at: '2026-08-09T03:23:31.057686+05:30'
 published_at: '2026-08-07T10:15:27Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
-- workflows
 stars: 1956
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-07-31T16:27:20Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-08-08T21:23:24.459999+05:30'
-last_seen: '2026-08-08T21:23:24.459999+05:30'
-last_checked: '2026-08-08T21:23:24.459999+05:30'
+first_seen: '2026-08-09T03:23:31.057686+05:30'
+last_seen: '2026-08-09T03:23:31.057686+05:30'
+last_checked: '2026-08-09T03:23:31.057686+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner designed for AI red teaming, enabling automated evaluation of LLM security vulnerabilities, jailbreaks, and prompt injection risks.
-- **Features**: Includes an agentic framework for LLM fuzzing, aggregation of test results, and guardrail testing to assess robustness against adversarial inputs.
-- **Technical Stack**: Implemented in Python, supporting extensible agent-based workflows for LLM security research and vulnerability assessment.
+- **Agentic LLM Security Toolkit**: Python-based framework (`msoedov/agentic_security`) for red teaming and vulnerability scanning of LLM-powered agents, supporting jailbreak detection, prompt testing, and security evaluation.
+
+- **Multi-Faceted Fuzzing & Guardrails**: Implements LLM fuzzing, aggregator tools, and guardrail mechanisms to identify vulnerabilities, test prompt robustness, and enforce security constraints in agentic systems.
+
+- **Active Development & Community**: Last updated in Aug 2026, with 1.9K+ stars and 271 forks, indicating strong adoption for AI security research and LLM evaluation frameworks.
 
 ## Why It Matters
 

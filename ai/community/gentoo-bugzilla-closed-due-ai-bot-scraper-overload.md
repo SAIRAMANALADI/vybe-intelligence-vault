@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://social.treehouse.systems/@mgorny/117058483039362779
 hn_url: https://news.ycombinator.com/item?id=49221864
-score: 53
+score: 143
 author: happosai
-comments_count: 16
+comments_count: 93
 published_at: '2026-08-08T19:25:42+05:30'
-collected_at: '2026-08-08T21:19:31.180259+05:30'
+collected_at: '2026-08-09T03:19:48.719107+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:gentoo-bugzilla-closed-due-ai-bot-scraper-overload
 first_seen: '2026-08-08T21:19:31.180259+05:30'
-last_seen: '2026-08-08T21:19:31.180259+05:30'
-last_checked: '2026-08-08T21:19:31.180259+05:30'
+last_seen: '2026-08-09T03:19:48.719107+05:30'
+last_checked: '2026-08-09T03:19:48.719107+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by happosai. Score: 53, Comments: 16.
+Hacker News story by happosai. Score: 143, Comments: 93.
 Original Link: https://social.treehouse.systems/@mgorny/117058483039362779
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: happosai
-- Score: 53 Upvotes
-- Comments: 16 Discussions
+- Score: 143 Upvotes
+- Comments: 93 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49221864
 - Original Article: https://social.treehouse.systems/@mgorny/117058483039362779
 

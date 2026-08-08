@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-08T21:21:24.359553+05:30'
+collected_at: '2026-08-09T03:21:30.969178+05:30'
 published_at: '2026-08-07T05:37:10Z'
 tags:
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 1340
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-08T21:21:24.359553+05:30'
-last_seen: '2026-08-08T21:21:24.359553+05:30'
-last_checked: '2026-08-08T21:21:24.359553+05:30'
+first_seen: '2026-08-09T03:21:30.969178+05:30'
+last_seen: '2026-08-09T03:21:30.969178+05:30'
+last_checked: '2026-08-09T03:21:30.969178+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository aggregating advanced techniques, tools, and research papers on **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), including embeddings, retrieval methods, and hybrid architectures.
-- **Technical Scope**: Covers **RAG-embeddings**, **retrieval-information** mechanisms, and integration strategies to enhance LLM performance via external knowledge augmentation.
-- **Community Metrics**: 1,340 stars, 92 forks, last updated **2026-08-07**, with active contributions in **embeddings**, **LLM optimization**, and **information retrieval** methodologies.
+- **Curated Resource**: A comprehensive, community-maintained repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating advanced techniques, tools, and research in **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs).
+- **Technical Scope**: Focuses on **embeddings**, **retrieval mechanisms**, and **RAG-augmented LLM architectures**, covering topics like retrieval-information optimization and LLM integration.
+- **Metadata**: 1,340 stars, 92 forks, last updated **2026-08-07**; categorized under embeddings, LLMs, and RAG-specific subtopics.
 
 ## Why It Matters
 

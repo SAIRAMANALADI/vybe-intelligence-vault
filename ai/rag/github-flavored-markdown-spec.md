@@ -3,9 +3,9 @@ title: GitHub Flavored Markdown Spec
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.github.com/gfm/
-published_at: '2026-08-07T08:58:50.764849+05:30'
-collected_at: '2026-08-07T08:58:50.764863+05:30'
+source_url: https://github.github.com/gfm/#task-list-items-extension-
+published_at: '2026-08-09T03:27:08.154171+05:30'
+collected_at: '2026-08-09T03:27:08.154194+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:github-flavored-markdown-spec
-first_seen: '2026-08-07T08:58:50.764863+05:30'
-last_seen: '2026-08-07T08:58:50.764863+05:30'
-last_checked: '2026-08-07T08:58:50.764863+05:30'
+first_seen: '2026-08-09T03:27:08.154194+05:30'
+last_seen: '2026-08-09T03:27:08.154194+05:30'
+last_checked: '2026-08-09T03:27:08.154194+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GFM as a CommonMark Superset**: GitHub Flavored Markdown (GFM) is a strict superset of CommonMark, incorporating all CommonMark features while adding GitHub-specific extensions (e.g., tables, task lists) and enforcing additional post-processing/sanitization for security.
+- **GFM Specification**: Based on CommonMark, GFM (GitHub Flavored Markdown) is a strict superset defining syntax/semantics for GitHub.com and GitHub Enterprise, with extensions for unsupported CommonMark features.
 
-- **Syntax Ambiguities Resolved**: GFM’s formal specification (v0.29-gfm) resolves ambiguities in Markdown’s original syntax (e.g., indentation rules for sublists, precedence of inline/block structures) by defining unambiguous parsing rules for edge cases.
+- **Parsing Phases**: GFM parsing occurs in two phases: (1) **block structure** (identifying structural elements like lists, code blocks, and headings) and (2) **inline structure** (processing emphasis, links, and other inline elements).
 
-- **Unicode and Whitespace Handling**: GFM treats lines as sequences of Unicode code points, with explicit definitions for whitespace (`U+0020`, `U+0009`, `U+000A`, etc.), blank lines, and line endings (`\n`, `\r`, `\r\n`), ensuring consistent cross-platform rendering.
+- **Security & Post-Processing**: GitHub applies additional sanitization and post-processing to GFM-converted HTML to ensure security and consistency, beyond the formal spec.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T08:58:50.764849+05:30
+- Published: 2026-08-09T03:27:08.154171+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.github.com/gfm/
+Original source: https://github.github.com/gfm/#task-list-items-extension-

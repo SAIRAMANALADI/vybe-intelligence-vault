@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-08T21:20:34.271354+05:30'
+collected_at: '2026-08-09T03:20:40.926860+05:30'
 published_at: '2026-08-03T17:47:21Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 965
@@ -19,9 +17,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-08T21:20:34.271354+05:30'
-last_seen: '2026-08-08T21:20:34.271354+05:30'
-last_checked: '2026-08-08T21:20:34.271354+05:30'
+first_seen: '2026-08-09T03:20:40.926860+05:30'
+last_seen: '2026-08-09T03:20:40.926860+05:30'
+last_checked: '2026-08-09T03:20:40.926860+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates how to deploy and utilize local large language models (LLMs) within a RAG (Retrieval-Augmented Generation) pipeline, avoiding dependency on cloud-based APIs.
-
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval freshness without full reindexing.
-
-- **Testing & Evaluation Framework**: Includes automated testing for RAG components (e.g., retrieval quality, response generation) with metrics like precision/recall or custom evaluators to validate performance.
+- **Local LLM Integration**: Demonstrates implementation of Retrieval-Augmented Generation (RAG) using local large language models (LLMs) via LangChain, eliminating dependency on cloud-based APIs.
+- **Dynamic Database Updates**: Includes mechanisms for real-time or periodic updates to the vector database (e.g., Chroma or FAISS) to ensure retrieval relevance with evolving data.
+- **Testing Framework**: Provides structured testing methodologies for RAG pipelines, covering retrieval accuracy, generation quality, and end-to-end performance validation.
 
 ## Why It Matters
 

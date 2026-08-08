@@ -8,8 +8,8 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 ## Top Matched Resources
 
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (prompt - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
 - [Beyond Generalist LLMs: Specialist Agentic Systems for Structured Code Workflow Execution](https://arxiv.org/abs/2607.14456) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
@@ -21,11 +21,11 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
-- [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-08-08 21:36 IST*
+*Last updated: 2026-08-09 03:36 IST*

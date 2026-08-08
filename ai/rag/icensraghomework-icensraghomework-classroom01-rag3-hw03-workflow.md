@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow
-collected_at: '2026-08-08T21:20:24.319759+05:30'
+collected_at: '2026-08-09T03:20:30.973197+05:30'
 published_at: '2025-02-14T09:55:08Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-12-13T09:08:07Z'
 pushed_at: '2025-02-14T09:55:04Z'
 resource_id: github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow
-first_seen: '2026-08-08T21:20:24.319759+05:30'
-last_seen: '2026-08-08T21:20:24.319759+05:30'
-last_checked: '2026-08-08T21:20:24.319759+05:30'
+first_seen: '2026-08-09T03:20:30.973197+05:30'
+last_seen: '2026-08-09T03:20:30.973197+05:30'
+last_checked: '2026-08-09T03:20:30.973197+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ health_score: 100
 
 - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (Python-based)
 - **Metadata**: 66 forks, last updated 2025-02-14T09:55:08Z
-- **Purpose**: GitHub Classroom assignment template (no additional topics or stars)
+- **Purpose**: GitHub Classroom assignment template for RAG3 homework workflow
 
 ## Why It Matters
 

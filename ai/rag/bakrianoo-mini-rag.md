@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-08-08T21:21:54.355777+05:30'
-published_at: '2026-08-06T17:08:25Z'
+collected_at: '2026-08-09T03:22:00.973881+05:30'
+published_at: '2026-08-08T17:27:42Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 680
+stars: 681
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-08-08T21:21:54.355777+05:30'
-last_seen: '2026-08-08T21:21:54.355777+05:30'
-last_checked: '2026-08-08T21:21:54.355777+05:30'
+first_seen: '2026-08-09T03:22:00.973881+05:30'
+last_seen: '2026-08-09T03:22:00.973881+05:30'
+last_checked: '2026-08-09T03:22:00.973881+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-grade Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, with a focus on GenAI integration.
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application, covering architecture, implementation, and deployment.
 
-- **Modular Architecture**: Demonstrates a scalable microservices-based design, separating components like vector storage, retrieval, and LLM inference for maintainability and performance.
+- **Tech Stack**: Utilizes **FastAPI** for backend, **Python** for core logic, **Docker** for containerization, and integrates **GenAI** models for retrieval and generation tasks.
 
-- **Deployment-Ready**: Includes Docker configurations and best practices for containerization, ensuring reproducibility and ease of deployment in cloud or on-premise environments.
+- **Project Structure**: Includes modular components for indexing, retrieval, and inference, with documentation and examples for scalability and modularity in GenAI applications.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: bakrianoo
-- Stars: 680
-- Forks: 306
+- Stars: 681
+- Forks: 307
 - Language: Python
 - Topics: docker, education, fastapi, genai, python, rag
-- Last Updated: 2026-08-06T17:08:25Z
+- Last Updated: 2026-08-08T17:27:42Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-02-27T13:39:48Z

@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-08T21:22:04.449959+05:30'
+collected_at: '2026-08-09T03:22:11.028037+05:30'
 published_at: '2026-08-06T15:31:51Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-08T21:22:04.449959+05:30'
-last_seen: '2026-08-08T21:22:04.449959+05:30'
-last_checked: '2026-08-08T21:22:04.449959+05:30'
+first_seen: '2026-08-09T03:22:11.028037+05:30'
+last_seen: '2026-08-09T03:22:11.028037+05:30'
+last_checked: '2026-08-09T03:22:11.028037+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance via graph-based indexing and retrieval mechanisms.
+- **LinearRAG Framework**: Introduces a linear graph retrieval mechanism for RAG, optimizing large-scale corpus retrieval by transforming retrieval into a linear-time graph traversal problem, reducing complexity from exponential to linear.
 
-- **Scalability & Efficiency**: Introduces linear-time graph algorithms to handle massive datasets, reducing retrieval latency while maintaining high accuracy in knowledge augmentation for LLMs.
+- **ICLR 2026 Contribution**: Proposes a novel approach to integrate graph-based retrieval with LLMs, enhancing scalability and efficiency for handling massive document corpora while maintaining retrieval accuracy.
 
-- **ICLR 2026 Contribution**: Presents empirical results demonstrating superior performance over traditional RAG methods in both retrieval quality and computational efficiency on benchmark corpora.
+- **Implementation**: Provides a Python-based open-source implementation, leveraging graph structures to enable efficient retrieval-augmented generation for real-world applications.
 
 ## Why It Matters
 

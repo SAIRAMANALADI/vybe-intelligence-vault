@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/VoltAgent/awesome-ai-agent-papers
-collected_at: '2026-08-08T21:22:09.377506+05:30'
-published_at: '2026-08-08T03:48:57Z'
+collected_at: '2026-08-09T03:22:16.049845+05:30'
+published_at: '2026-08-08T16:28:32Z'
 tags:
 - agents
 - benchmark
@@ -13,9 +13,10 @@ tags:
 - hackernews
 - paper
 - rag
+- scripts
 - unknown
 - workflows
-stars: 1664
+stars: 1665
 language: Unknown
 status: active
 license: MIT
@@ -23,9 +24,9 @@ archived: false
 created_at: '2026-02-10T10:58:31Z'
 pushed_at: '2026-08-07T19:22:41Z'
 resource_id: github:voltagent/awesome-ai-agent-papers
-first_seen: '2026-08-08T21:22:09.377506+05:30'
-last_seen: '2026-08-08T21:22:09.377506+05:30'
-last_checked: '2026-08-08T21:22:09.377506+05:30'
+first_seen: '2026-08-09T03:22:16.049845+05:30'
+last_seen: '2026-08-09T03:22:16.049845+05:30'
+last_checked: '2026-08-09T03:22:16.049845+05:30'
 health_score: 100
 ---
 
@@ -33,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated 2026 AI Agent Research**: Repository aggregates 2026 publications on AI agents, spanning agent engineering, memory mechanisms, evaluation frameworks, workflow optimization, and autonomous systems.
-- **Technical Scope**: Focuses on LLM-driven agents, Retrieval-Augmented Generation (RAG), and memory-augmented architectures, with emphasis on scalability and autonomy.
-- **Metadata**: 1,664 stars, 171 forks, last updated 2026-08-08; topics include `ai-agents`, `llm-agents`, and `memory` systems.
+- **Curated 2026 AI Agent Research**: Repository aggregates peer-reviewed papers on AI agents, focusing on agent engineering, memory systems, evaluation frameworks, workflow automation, and autonomous architectures.
+- **Technical Scope**: Encompasses LLM-driven agents, Retrieval-Augmented Generation (RAG) integration, and memory-augmented architectures for enhanced reasoning and task execution.
+- **Metadata**: 1,665 stars, 171 forks; last updated August 8, 2026; categorized under `ai-agents`, `llm`, and `research-papers`.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: VoltAgent
-- Stars: 1664
+- Stars: 1665
 - Forks: 171
 - Language: Unknown
 - Topics: ai-agents, awesome, awesome-list, llm, llm-agents, memory, rag, research-paper
-- Last Updated: 2026-08-08T03:48:57Z
+- Last Updated: 2026-08-08T16:28:32Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T10:58:31Z
