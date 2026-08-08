@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-08T15:30:16.872013+05:30'
+collected_at: '2026-08-08T18:48:15.405299+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-08T15:30:16.872013+05:30'
-last_seen: '2026-08-08T15:30:16.872013+05:30'
-last_checked: '2026-08-08T15:30:16.872013+05:30'
+first_seen: '2026-08-08T18:48:15.405299+05:30'
+last_seen: '2026-08-08T18:48:15.405299+05:30'
+last_checked: '2026-08-08T18:48:15.405299+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long-form narrative reasoning.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
 
-- **Stateful Reasoning**: Implements dynamic memory retrieval and organization to maintain contextual coherence across extended interactions, addressing limitations in traditional RAG systems.
+- **Stateful Reasoning**: Implements dynamic memory organization to maintain contextual coherence across extended interactions, addressing limitations of traditional RAG systems in long-form reasoning tasks.
 
-- **AAAI 2026 Contribution**: Proposes a novel approach to long narrative reasoning, validated through empirical benchmarks and theoretical analysis, positioning it as a significant advancement in AI memory systems.
+- **AAAI 2026 Poster**: Presented as a novel approach at AAAI 2026, featuring Python-based implementation with potential for scalable, memory-efficient reasoning in generative AI applications.
 
 ## Why It Matters
 

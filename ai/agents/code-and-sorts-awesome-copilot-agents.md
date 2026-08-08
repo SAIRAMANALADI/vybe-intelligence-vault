@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-08-08T15:30:31.874747+05:30'
+collected_at: '2026-08-08T18:48:30.508792+05:30'
 published_at: '2026-08-06T01:09:09Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 555
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-08-08T15:30:31.874747+05:30'
-last_seen: '2026-08-08T15:30:31.874747+05:30'
-last_checked: '2026-08-08T15:30:31.874747+05:30'
+first_seen: '2026-08-08T18:48:30.508792+05:30'
+last_seen: '2026-08-08T18:48:30.508792+05:30'
+last_checked: '2026-08-08T18:48:30.508792+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) providing a structured collection of GitHub Copilot customization files, including instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdowns to enhance AI interactions.
-- **Technical Scope**: Focuses on advanced Copilot customization with TypeScript-based implementations, covering agent skills, prompt engineering, and VS Code Copilot Chat integrations for AI-driven development workflows.
-- **Metadata**: 555 stars, 91 forks, last updated August 6, 2026; categorized under topics like `agent-skills`, `ai-agents`, and `prompt-engineering`.
+- **Curated Resource**: Repository containing GitHub Copilot enhancement materials, including instructions, prompts, skills, MCP files, and agent markdowns for AI agent development.
+- **Technical Scope**: Focuses on `agent-skills`, `prompt-engineering`, `custom-agents`, and `MCP` (Model Context Protocol) integration for VSCode Copilot Chat.
+- **Metadata**: 555 stars, 91 forks, TypeScript-based, last updated 2026-08-06, covering `copilot-instructions`, `copilot-prompting`, and `awesome-list` topics.
 
 ## Why It Matters
 

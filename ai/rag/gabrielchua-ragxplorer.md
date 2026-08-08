@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-08T15:29:11.822026+05:30'
+collected_at: '2026-08-08T18:47:10.336943+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
-- benchmark
+- dataset
 - github-repo
+- hackernews
 - jupyter notebook
+- models
 - rag
 - workflows
 stars: 1222
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-08T15:29:11.822026+05:30'
-last_seen: '2026-08-08T15:29:11.822026+05:30'
-last_checked: '2026-08-08T15:29:11.822026+05:30'
+first_seen: '2026-08-08T18:47:10.336943+05:30'
+last_seen: '2026-08-08T18:47:10.336943+05:30'
+last_checked: '2026-08-08T18:47:10.336943+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and performance evaluation.
-
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically explore RAG components (e.g., retrieval, generation) and their interactions via visual graphs and metrics.
-
-- **Python-Based Modular Design**: Supports custom RAG workflows with modular Python components, facilitating integration with LLMs and vector databases while providing pre-built visualization tools for prompt/response analysis.
+- **Purpose**: Open-source tool for interactive visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and analysis of LLM-based systems.
+- **Technical Stack**: Built with Python, Streamlit (for UI), and Jupyter Notebooks; leverages visualization techniques to dissect RAG components (retrieval, generation, and intermediate steps).
+- **Features**: Real-time interactive exploration of RAG workflows, including query processing, document retrieval, and model outputs, with support for custom dataset integration.
 
 ## Why It Matters
 

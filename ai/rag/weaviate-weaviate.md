@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-08-08T15:34:11.619518+05:30'
+collected_at: '2026-08-08T18:51:48.093509+05:30'
 published_at: '2026-08-08T08:57:01Z'
 tags:
 - github-repo
 - go
 - hackernews
 - rag
+- workflows
 stars: 16706
 language: Go
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2016-03-30T15:03:17Z'
 pushed_at: '2026-08-08T09:34:17Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-08-08T15:34:11.619518+05:30'
-last_seen: '2026-08-08T15:34:11.619518+05:30'
-last_checked: '2026-08-08T15:34:11.619518+05:30'
+first_seen: '2026-08-08T18:51:48.093509+05:30'
+last_seen: '2026-08-08T18:51:48.093509+05:30'
+last_checked: '2026-08-08T18:51:48.093509+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Architecture**: Weaviate combines structured data storage with vector embeddings in a single system, enabling both exact and approximate nearest neighbor (ANN) searches (HNSW-based) while supporting hybrid queries (vector + keyword/filters).
-
-- **Cloud-Native & Scalable**: Built in Go, it offers fault tolerance, horizontal scalability, and gRPC-based APIs, designed for MLOps and production-grade deployments with support for semantic, image, and hybrid search.
-
-- **Multi-Modal & Generative Integration**: Supports neural search, generative AI pipelines (e.g., RAG), and integrates with ML models for tasks like recommender systems, leveraging modular vector indexing and retrieval.
+- **Hybrid Architecture**: Weaviate integrates **vector embeddings** (via HNSW for approximate nearest neighbor search) with **structured data storage**, enabling combined **vector search** and **filtering** in a single query.
+- **Cloud-Native & Scalable**: Built in **Go**, it supports **gRPC** for high-performance communication and is designed for **fault tolerance** and **horizontal scalability** in distributed environments.
+- **Multi-Modal & ML-Ops Ready**: Supports **semantic, hybrid, and generative search**, with native integrations for **image search**, **recommender systems**, and **MLOps workflows** via its modular plugin system.
 
 ## Why It Matters
 

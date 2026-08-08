@@ -8,7 +8,7 @@ local_vault_path: ai/rag/learning-center-cloudflare.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - rag
@@ -17,7 +17,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Learning Center | Cloudflare
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **DDoS Attacks**: Distributed denial-of-service (DDoS) attacks involve coordinated networks of computers overwhelming a target's access point, rendering services unavailable to legitimate users.
+- **DDoS Attacks**: Distributed denial-of-service attacks leverage coordinated botnets to flood network access points, overwhelming servers and denying legitimate users access to services.
 
-- **Content Delivery Networks (CDNs)**: CDNs utilize distributed servers to cache and deliver internet content, enhancing loading speed, reliability, and reducing latency for end-users.
+- **CDN Architecture**: Content delivery networks utilize distributed edge servers to cache and serve static/dynamic content, reducing latency and improving reliability via Anycast routing.
 
-- **Domain Name System (DNS)**: DNS functions as the internet's phonebook, translating human-readable domain names
+- **SASE Framework**: Secure Access Service Edge integrates SD-WAN with cloud-native security services (e.g., Zero Trus
 
 ## Use Cases
 

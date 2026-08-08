@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-08-08T15:33:31.520889+05:30'
+collected_at: '2026-08-08T18:51:38.081269+05:30'
 published_at: '2026-08-08T08:42:46Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2019-11-14T09:05:28Z'
 pushed_at: '2026-08-07T18:24:41Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-08-08T15:33:31.520889+05:30'
-last_seen: '2026-08-08T15:33:31.520889+05:30'
-last_checked: '2026-08-08T15:33:31.520889+05:30'
+first_seen: '2026-08-08T18:51:38.081269+05:30'
+last_seen: '2026-08-08T18:51:38.081269+05:30'
+last_checked: '2026-08-08T18:51:38.081269+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Python-based framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with context-engineered pipelines and agent workflows.
+- **Modular AI Orchestration**: Python-based framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
 
-- **Scalable Agent & RAG Support**: Designed for scalable agents, retrieval-augmented generation (RAG), multimodal applications, semantic search, and conversational systems with modular pipeline architecture.
+- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal applications, semantic search, and conversational systems, leveraging context-engineering techniques.
 
-- **Extensible & Production-Grade**: Supports multi-agent systems, MCP (Model Context Protocol), and integrates seamlessly with generative AI workflows while maintaining scalability for enterprise deployments.
+- **Extensible Architecture**: Supports agentic AI, multi-agent systems, and MCP integration, optimized for high-performance information retrieval and generative AI workflows.
 
 ## Why It Matters
 

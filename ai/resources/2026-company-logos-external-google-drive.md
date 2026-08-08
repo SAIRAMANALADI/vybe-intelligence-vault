@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://drive.google.com/drive/folders/1cc_Wdd8k7J5wUONBMvtfIZH_BaYvonym
-published_at: '2026-08-08T15:36:16.634438+05:30'
-collected_at: '2026-08-08T15:36:16.634453+05:30'
+published_at: '2026-08-08T18:53:08.333507+05:30'
+collected_at: '2026-08-08T18:53:08.333523+05:30'
 tags:
+- hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:2026-company-logos-external-google-drive
-first_seen: '2026-08-08T15:36:16.634453+05:30'
-last_seen: '2026-08-08T15:36:16.634453+05:30'
-last_checked: '2026-08-08T15:36:16.634453+05:30'
+first_seen: '2026-08-08T18:53:08.333523+05:30'
+last_seen: '2026-08-08T18:53:08.333523+05:30'
+last_checked: '2026-08-08T18:53:08.333523+05:30'
 health_score: 100
 ---
 
@@ -21,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Asset Repository**: Google Drive folder contains brand assets including logos (LangChain, LangSmith, open-source frameworks) and founder photos, last modified between Mar 1–8.
-- **Sorting & Access**: Files can be sorted by name or date modified, with options to display folders first or mixed with files.
-- **Browser Compatibility Warning**: Unsupported browser detected; requires upgrade for full functionality.
+- **Google Drive UI Elements**: The snippet displays a Google Drive interface with file listings, including columns for *Name*, *Date modified*, *File size*, and sort options (e.g., A-Z, Z-A, folders on top).
+- **File Metadata**: Four entries are listed with names (e.g., *Founder Photos*, *LangChain and LangSmith Logos*) and modification dates (March 1–8), but no file sizes are shown (indicated by "—").
+- **Technical Constraints**: The page requires JavaScript and a supported browser; unsupported browsers trigger an upgrade prompt, and the content is inaccessible without enabling scripts.
 
 ## Why It Matters
 
@@ -33,10 +34,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T15:36:16.634438+05:30
+- Published: 2026-08-08T18:53:08.333507+05:30
 
 ## Related Tags
 
+- hackernews
 - reddit
 - web-crawled
 

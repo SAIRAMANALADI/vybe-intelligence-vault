@@ -1,68 +1,49 @@
 ---
-title: gohugoio/hugo
+title: Release v0.164.0 · gohugoio/hugo · GitHub
 category: ai/resources
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/gohugoio/hugo
-collected_at: '2026-08-08T15:34:11.815661+05:30'
-published_at: '2026-08-08T06:24:13Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/gohugoio/hugo/releases/tag/v0.164.0
+published_at: '2026-08-08T18:51:49.082205+05:30'
+collected_at: '2026-08-08T18:51:49.082222+05:30'
 tags:
-- github-repo
-- go
-- workflows
-stars: 89370
-language: Go
+- frontend_ui
+- reddit
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2013-07-04T15:26:26Z'
-pushed_at: '2026-08-07T09:31:59Z'
 resource_id: github:gohugoio/hugo
-first_seen: '2026-08-08T15:34:11.815661+05:30'
-last_seen: '2026-08-08T15:34:11.815661+05:30'
-last_checked: '2026-08-08T15:34:11.815661+05:30'
+first_seen: '2026-08-08T18:51:49.082222+05:30'
+last_seen: '2026-08-08T18:51:49.082222+05:30'
+last_checked: '2026-08-08T18:51:49.082222+05:30'
 health_score: 100
 ---
 
-# gohugoio/hugo
+# Release v0.164.0 · gohugoio/hugo · GitHub
 
 ## Summary
 
-- **Static Site Generator**: Hugo is a high-performance static site generator written in Go, optimized for speed and efficiency in building websites.
-- **Content Management**: Supports structured content management via Markdown, YAML, JSON, and TOML, with built-in templating (Go templates) and asset pipelines.
-- **Extensibility & Ecosystem**: Provides a modular architecture with themes, plugins, and CLI tools, enabling rapid deployment and customization for blogs, documentation, and CMS-like workflows.
+- **Syntax Highlighting Enhancements**: Introduced dark/light mode pairs in Chroma highlighter styles and added new flags to `hugo gen chromastyles` command; added `markup.rst.syntaxHighlight` option and Pandoc citation support.
+
+- **New Template Functions & Performance Fix**: Added `encoding.HexEncode`, `encoding.HexDecode`, and `crypto.Hash` template functions; fixed a performance regression introduced in v0.128.0 affecting larger sites.
+
+- **Deprecations & Template Improvements**: Deprecated `resources.PostProcess` in favor of `templates.Defer`; improved template name lookup case-insensitivity and sub-path support in `.Render` method.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: gohugoio
-- Stars: 89370
-- Forks: 8329
-- Language: Go
-- Topics: blog-engine, cms, content-management-system, documentation-tool, go, hugo, static-site-generator
-- Last Updated: 2026-08-08T06:24:13Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2013-07-04T15:26:26Z
-- Pushed At: 2026-08-07T09:31:59Z
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-08-08T18:51:49.082205+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- frontend_ui
+- reddit
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugo
+Original source: https://github.com/gohugoio/hugo/releases/tag/v0.164.0

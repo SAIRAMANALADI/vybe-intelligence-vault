@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-08T15:30:16.873548+05:30'
+collected_at: '2026-08-08T18:48:15.450872+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-08T15:30:16.873548+05:30'
-last_seen: '2026-08-08T15:30:16.873548+05:30'
-last_checked: '2026-08-08T15:30:16.873548+05:30'
+first_seen: '2026-08-08T18:48:15.450872+05:30'
+last_seen: '2026-08-08T18:48:15.450872+05:30'
+last_checked: '2026-08-08T18:48:15.450872+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that enhances retrieval via semantic aggregation and multi-level hierarchical indexing, optimizing context relevance for generation tasks.
+- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, enhancing contextual relevance in generation tasks.
 
-- **AAAI 2026 Contribution**: Proposes a novel architecture for knowledge-graph-augmented generation, addressing inefficiencies in traditional RAG by integrating structured semantic relationships and dynamic retrieval strategies.
+- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval mechanism to dynamically extract and prioritize knowledge from structured knowledge graphs, optimizing retrieval efficiency and accuracy.
 
-- **Python Implementation**: Open-source codebase (MIT License) with modular design, supporting extensible knowledge graph integration, hierarchical retrieval, and semantic aggregation for downstream LLM tasks.
+- **AAAI 2026 Framework**: Designed as a lightweight (LeanRAG) framework for generative AI, integrating knowledge graphs to improve factual consistency and reduce hallucinations in large language models.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-08-08T12:50:43.701893+05:30'
-published_at: '2026-08-08T02:13:19Z'
+collected_at: '2026-08-08T18:48:45.481522+05:30'
+published_at: '2026-08-08T12:01:42Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 1180
+stars: 1181
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-08-05T16:47:35Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-08-08T12:50:43.701893+05:30'
-last_seen: '2026-08-08T12:50:43.701893+05:30'
-last_checked: '2026-08-08T12:50:43.701893+05:30'
+first_seen: '2026-08-08T18:48:45.481522+05:30'
+last_seen: '2026-08-08T18:48:45.481522+05:30'
+last_checked: '2026-08-08T18:48:45.481522+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform**: Visual AI workflow automation platform built with TypeScript for defining and orchestrating agent-based workflows.
-- **Features**: Enables drag-and-drop workflow construction with AI agents, supporting modular automation and integration patterns.
-- **Repository**: Open-source template (1180⭐, 232🍴) last updated 2026-08-08, hosted on Vercel Labs.
+- **Visual AI Workflow Automation**: Open-source platform enabling drag-and-drop creation of AI-driven workflows with TypeScript, leveraging Vercel’s ecosystem for deployment and scalability.
+
+- **Agent-Based Architecture**: Supports modular AI agents with configurable inputs/outputs, facilitating complex task automation via declarative workflow definitions.
+
+- **GitHub Integration**: Hosted on Vercel Labs with 1.1K+ stars, featuring continuous updates (last commit: 2026-08-08) and pre-built templates for rapid AI workflow prototyping.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1180
+- Stars: 1181
 - Forks: 232
 - Language: TypeScript
 - Topics: agents, ai, workflows
-- Last Updated: 2026-08-08T02:13:19Z
+- Last Updated: 2026-08-08T12:01:42Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-03T17:14:16Z

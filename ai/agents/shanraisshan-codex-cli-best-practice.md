@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-08T15:31:06.872591+05:30'
+collected_at: '2026-08-08T18:49:05.463030+05:30'
 published_at: '2026-08-07T14:11:28Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
+- scripts
 - workflows
 stars: 956
 language: Python
@@ -20,9 +22,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-08T15:31:06.872591+05:30'
-last_seen: '2026-08-08T15:31:06.872591+05:30'
-last_checked: '2026-08-08T15:31:06.872591+05:30'
+first_seen: '2026-08-08T18:49:05.463030+05:30'
+last_seen: '2026-08-08T18:49:05.463030+05:30'
+last_checked: '2026-08-08T18:49:05.463030+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured practices for transitioning from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular agentic workflows, hooks, and context engineering for AI-driven development.
+- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using OpenAI's Codex CLI, emphasizing modular agentic workflows for scalable AI-driven development.
 
-- **Codex CLI Skills & Commands**: Demonstrates advanced Codex CLI usage, including custom commands, skills, and hooks to automate and optimize AI agent interactions, with examples for OpenAI Codex integration.
+- **Codex CLI Best Practices**: Documents optimized commands, hooks, and skills for Codex CLI, including context engineering techniques to enhance AI agent efficiency, debugging, and task automation in Python-based environments.
 
-- **Best Practices & Scalability**: Focuses on scalable agentic engineering patterns, context management, and CLI-based AI agent orchestration, targeting Pakistani developers and OpenAI Codex users for production-grade AI workflows.
+- **Context & Skill Optimization**: Focuses on *context-engineering* principles and *codex-hooks* to dynamically manage AI agent state, enabling persistent, reusable, and context-aware coding agents for complex workflows.
 
 ## Why It Matters
 

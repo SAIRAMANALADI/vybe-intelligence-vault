@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://langfuse.com
-published_at: '2026-08-03T03:51:43.257908+05:30'
-collected_at: '2026-08-03T03:51:43.257916+05:30'
+published_at: '2026-08-08T18:53:44.893833+05:30'
+collected_at: '2026-08-08T18:53:44.893851+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langfuse
-first_seen: '2026-08-03T03:51:43.257916+05:30'
-last_seen: '2026-08-03T03:51:43.257916+05:30'
-last_checked: '2026-08-03T03:51:43.257916+05:30'
+first_seen: '2026-08-08T18:53:44.893851+05:30'
+last_seen: '2026-08-08T18:53:44.893851+05:30'
+last_checked: '2026-08-08T18:53:44.893851+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Adoption & Scale**: Deployed by **21 of the Fortune 50**, processing **10+ billion observations/month** with **100,000+ engineers** leveraging the platform for AI agent observability and evaluation.
+- **Adoption & Scale**: Deployed by **21 Fortune 500 companies**, processing **10+ billion observations/month** with **100,000+ engineers** leveraging the platform for AI agent development and observability.
 
-- **Unified AI Engineering Loop**: Integrates **tracing, monitoring, prompt management, experiments, and human feedback** into a single platform, enabling continuous improvement of AI agents via production data analysis and iterative testing.
+- **Core Capabilities**: Integrates **tracing, monitoring, prompt management, evaluation, and experimentation** in a single loop, enabling hierarchical trace capture, LLM-as-a-judge evaluations, and human-in-the-loop annotation workflows for AI agent debugging and optimization.
 
-- **Multi-Stack Compatibility**: Supports **OpenTelemetry (OTel) instrumentation** across languages (Python, TypeScript, Go, Java, .NET, Ruby, PHP, Swift) and integrates with **100+ frameworks** (LangChain, Vercel AI SDK, LiteLLM) and **model providers** (OpenAI, Anthropic, Mistral AI, Google Gemini).
+- **Multi-Framework & Multi-Model Support**: Compatible with **100+ integrations** (e.g., LangChain, Vercel AI SDK, LiteLLM) and **OTel-based instrumentation** across languages (Python, TypeScript, Go, Java, etc.), supporting **20+ model providers** (OpenAI, Anthropic, Mistral, etc.) with no vendor lock-in.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T03:51:43.257908+05:30
+- Published: 2026-08-08T18:53:44.893833+05:30
 
 ## Related Tags
 

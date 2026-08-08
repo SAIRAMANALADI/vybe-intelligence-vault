@@ -10,12 +10,12 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (template - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (benchmark - ESSENTIAL Tier)
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
 - [OpenAI · GitHub](https://github.com/openai)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-08-08 15:44 IST*
+*Last updated: 2026-08-08 19:02 IST*

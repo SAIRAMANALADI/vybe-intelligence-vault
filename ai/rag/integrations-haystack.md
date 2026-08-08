@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/integrations
-published_at: '2026-08-07T05:57:52.539144+05:30'
-collected_at: '2026-08-07T05:57:52.539161+05:30'
+published_at: '2026-08-08T18:52:22.247796+05:30'
+collected_at: '2026-08-08T18:52:22.247813+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:integrations-haystack
-first_seen: '2026-08-07T05:57:52.539161+05:30'
-last_seen: '2026-08-07T05:57:52.539161+05:30'
-last_checked: '2026-08-07T05:57:52.539161+05:30'
+first_seen: '2026-08-08T18:52:22.247813+05:30'
+last_seen: '2026-08-08T18:52:22.247813+05:30'
+last_checked: '2026-08-08T18:52:22.247813+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,16 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Integrations Ecosystem**: Supports 167+ integrations across categories like vector databases (FAISS, Chroma), model providers (Cohere, Anthropic), document stores (Elasticsearch, Azure CosmosDB), and monitoring tools (Datadog, Arize Phoenix), with both deepset-maintained and community-driven components.
+- **Haystack integrates with 167+ technologies** across categories like vector databases (FAISS, Chroma), model providers (Cohere, Anthropic), document stores (Elasticsearch, Azure CosmosDB), and monitoring tools (Datadog, Arize Phoenix), with both deepset-maintained and community-driven components.
 
-- **Integration Workflow**: Users can request new integrations via a form, contribute via GitHub, or create custom components following deepset’s documentation; examples include AIMLAPI (OpenAI-compatible models), Docling (PDF/DOCX parsing), and E2B (sandboxed tool execution).
+- **Key integration types include**:
+  - **Model Providers**: AIMLAPI, Amazon Bedrock, Azure OpenAI, Cohere, FastEmbed, etc.
+  - **Document Stores**: FAISS, Chroma, Elasticsearch, AstraDB, PostgreSQL (pgvector), etc.
+  - **Data Ingestion**: Amazon Textract, Azure Document Intelligence, Docling, Firecrawl, etc.
 
-- **Technical Scope**: Integrations span model serving (FastEmbed, Cerebras), data ingestion (Amazon Textract, Azure Document Intelligence), search (Brave, Exa), evaluation (DeepEval), and UI frameworks (Chainlit), enabling modular RAG pipeline construction with multi-cloud and multi-provider support.
+- **Contribution and governance**:
+  - Integrations are proposed/modified via [GitHub](https://github.com/deepset-ai/haystack-integrations).
+  - Governed by signed audit trails (e.g., Asqav) for tamper-evident pipeline records.
 
 ## Why It Matters
 
@@ -48,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T05:57:52.539144+05:30
+- Published: 2026-08-08T18:52:22.247796+05:30
 
 ## Related Tags
 

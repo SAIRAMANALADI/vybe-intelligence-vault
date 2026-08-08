@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-08T15:32:46.979529+05:30'
+collected_at: '2026-08-08T18:50:45.557900+05:30'
 published_at: '2026-08-06T03:13:58Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 477
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-08T15:32:46.979529+05:30'
-last_seen: '2026-08-08T15:32:46.979529+05:30'
-last_checked: '2026-08-08T15:32:46.979529+05:30'
+first_seen: '2026-08-08T18:50:45.557900+05:30'
+last_seen: '2026-08-08T18:50:45.557900+05:30'
+last_checked: '2026-08-08T18:50:45.557900+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent A-Shares Analysis System**: Leverages AKShare for real-time A-share data (quotes, financials, fund flows, sentiment) and CrewAI to orchestrate 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment scorer, decision generator) for collaborative investment insights.
-- **China-Specific Optimization**: Tailored for A-shares with localized data sources, market sentiment models, and financial metrics (e.g., PB/PE ratios, revenue growth) aligned with CN regulatory/tax frameworks.
-- **Automated Investment Pipeline**: End-to-end workflow from data ingestion → multi-agent analysis → structured recommendations (risk scores, target prices, sector allocations) with optional human-in-the-loop validation.
+- **Multi-Agent System**: Implements 4 specialized AI agents for A-share market analysis, leveraging CrewAI for collaborative decision-making.
+- **Data Integration**: Utilizes AKShare for real-time A-share data (pricing, financials, fund flows, sentiment) with Chinese market-specific optimizations.
+- **Automated Investment Insights**: Generates actionable investment recommendations through automated analysis of structured financial data.
 
 ## Why It Matters
 

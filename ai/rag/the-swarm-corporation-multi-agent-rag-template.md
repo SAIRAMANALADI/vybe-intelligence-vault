@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-08T15:32:42.119977+05:30'
+collected_at: '2026-08-08T18:50:40.622138+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-08T15:32:42.119977+05:30'
-last_seen: '2026-08-08T15:32:42.119977+05:30'
-last_checked: '2026-08-08T15:32:42.119977+05:30'
+first_seen: '2026-08-08T18:50:40.622138+05:30'
+last_seen: '2026-08-08T18:50:40.622138+05:30'
+last_checked: '2026-08-08T18:50:40.622138+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative framework using AI agents (e.g., CrewAI, AutoGen) to parallelize document processing, analysis, and insight generation via modular Python components.
+- **Multi-agent architecture**: Implements a collaborative system of AI agents using frameworks like CrewAI, AutoGen, and Swarms for parallel document processing, analysis, and insight generation.
 
-- **RAG Integration**: Supports retrieval-augmented generation (RAG) with vector databases (ChromaDB, Weaviate, Pinecone) and LLM APIs (OpenAI, Anthropic, GPT-3.5/4/5) for contextual document querying.
+- **RAG integration**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM providers (OpenAI, Anthropic, GPT-3.5/4/5) for retrieval-augmented generation (RAG) workflows.
 
-- **Scalability & Extensibility**: Designed for distributed workflows with Discord integration, enabling real-time agent coordination and modular expansion via Python-based agent orchestration.
+- **Extensible tooling**: Includes Discord integration and modular design for custom agent roles, enabling scalable multi-agent RAG pipelines with dynamic task delegation.
 
 ## Why It Matters
 

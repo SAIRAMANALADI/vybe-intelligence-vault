@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-08-08T15:31:31.979713+05:30'
+collected_at: '2026-08-08T18:49:30.487604+05:30'
 published_at: '2026-08-07T21:44:28Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-08-08T15:31:31.979713+05:30'
-last_seen: '2026-08-08T15:31:31.979713+05:30'
-last_checked: '2026-08-08T15:31:31.979713+05:30'
+first_seen: '2026-08-08T18:49:30.487604+05:30'
+last_seen: '2026-08-08T18:49:30.487604+05:30'
+last_checked: '2026-08-08T18:49:30.487604+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework integration**: Python SDK (`agentops`) supports monitoring, cost tracking, and benchmarking for AI agents across frameworks including CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
-
-- **LLM & cost management**: Tracks LLM usage metrics (e.g., token costs, latency) and integrates with providers like OpenAI, Anthropic, Mistral, Groq, and Ollama.
-
-- **Evaluation & observability**: Provides benchmarking, evaluation metrics (`evals`), and real-time monitoring for agent performance and cost efficiency.
+- **Multi-framework SDK**: Python-based monitoring and analytics tool for AI agents, supporting integration with CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
+- **LLM Cost & Performance Tracking**: Enables real-time cost estimation, benchmarking, and evaluation metrics for LLMs (e.g., OpenAI, Anthropic, Mistral, Groq) and agent frameworks.
+- **Extensible & Open-Source**: MIT-licensed repository with 5.7K+ stars, supporting Ollama, local LLMs, and custom agent frameworks via modular Python SDK.
 
 ## Why It Matters
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://noemamag.com/why-is-everyone-in-tech-so-sad
 hn_url: https://news.ycombinator.com/item?id=49209539
-score: 663
+score: 765
 author: RickJWagner
-comments_count: 737
+comments_count: 856
 published_at: '2026-08-07T18:12:27+05:30'
-collected_at: '2026-08-08T15:27:47.309099+05:30'
+collected_at: '2026-08-08T18:45:50.724559+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:what-happens-if-an-entire-class-of-workers-loses-f
 first_seen: '2026-08-08T12:47:40.402750+05:30'
-last_seen: '2026-08-08T15:27:47.309099+05:30'
-last_checked: '2026-08-08T15:27:47.309099+05:30'
+last_seen: '2026-08-08T18:45:50.724559+05:30'
+last_checked: '2026-08-08T18:45:50.724559+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by RickJWagner. Score: 663, Comments: 737.
+Hacker News story by RickJWagner. Score: 765, Comments: 856.
 Original Link: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: RickJWagner
-- Score: 663 Upvotes
-- Comments: 737 Discussions
+- Score: 765 Upvotes
+- Comments: 856 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49209539
 - Original Article: https://noemamag.com/why-is-everyone-in-tech-so-sad
 

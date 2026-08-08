@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-08T15:29:31.832867+05:30'
+collected_at: '2026-08-08T18:47:30.402825+05:30'
 published_at: '2026-08-06T18:43:03Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
-- workflows
 stars: 4382
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-08T15:29:31.832867+05:30'
-last_seen: '2026-08-08T15:29:31.832867+05:30'
-last_checked: '2026-08-08T15:29:31.832867+05:30'
+first_seen: '2026-08-08T18:47:30.402825+05:30'
+last_seen: '2026-08-08T18:47:30.402825+05:30'
+last_checked: '2026-08-08T18:47:30.402825+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides a free, hands-on curriculum for building production-ready LLM and RAG systems using LLMOps best practices, including 12+ lessons with source code and infrastructure-as-code (IaC) templates (Pulumi, Docker).
-
-- **Tech Stack**: Integrates AWS, Qdrant (vector DB), Bytewax (stream processing), Comet-ML (experiment tracking), and Qwak (MLOps platform) for scalable, end-to-end generative AI system deployment.
-
-- **Focus Areas**: Covers ML system design, LLM optimization, and production-grade MLOps workflows, emphasizing practical implementation of RAG pipelines and infrastructure automation.
+- **Course Structure**: Provides a free, hands-on guide to building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
+- **Technical Stack**: Implements AWS, Pulumi (IaC), Docker, Bytewax, Qdrant, Comet-ML, and Qwak for scalable ML pipelines and infrastructure management.
+- **Focus Areas**: Covers ML system design, MLOps, generative AI, and RAG optimization with topics like vector databases, monitoring, and deployment automation.
 
 ## Why It Matters
 

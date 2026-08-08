@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **npm Statuspage** provides real-time monitoring of npm services, including website uptime (100% over 90 days), package installation (99.99%), publishing (99.99%), search, and security audit, all currently operational.
-- **Incident Reporting**: Recent major outage on **July 30, 2026**, caused intermittent publish failures, resolved via monitoring after a fix was implemented.
-- **Notification System**: Supports email/SMS alerts for incident updates, with OTP-based verification and compliance to
+- **npm Statuspage** provides real-time operational metrics for npm services, including website uptime (100% over 90 days), package installation (99.99%), publishing (99.99%), search, security audit, and replication feed (all 100%).
+- **Incident Reporting**: Recent major outage on **Jul 30, 2026** caused intermittent publish failures, resolved after investigation and fix implementation (monitored post-resolution).
+- **Notification System**: Supports email/SMS alerts for incident updates via reCA
 
 ## Use Cases
 

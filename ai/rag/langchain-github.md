@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-08T15:34:12.147675+05:30'
-collected_at: '2026-08-08T15:34:12.147689+05:30'
+published_at: '2026-08-08T18:51:48.557755+05:30'
+collected_at: '2026-08-08T18:51:48.557770+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-08T15:34:12.147689+05:30'
-last_seen: '2026-08-08T15:34:12.147689+05:30'
-last_checked: '2026-08-08T15:34:12.147689+05:30'
+first_seen: '2026-08-08T18:51:48.557770+05:30'
+last_seen: '2026-08-08T18:51:48.557770+05:30'
+last_checked: '2026-08-08T18:51:48.557770+05:30'
 health_score: 100
 ---
 
@@ -25,19 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**:
-  - `LangChain`/`LangChain.js`: Modular frameworks for LLM application development with reusable components and integrations.
-  - `LangGraph`/`LangGraph.js`: Graph-based agent construction for complex workflow orchestration.
-  - `Deep Agents`/`Deep Agents.js`: Advanced agents supporting hierarchical planning, subagent delegation, and filesystem interactions.
+- **Core Libraries**: LangChain/LangChain.js provide modular components and integrations for LLM application development, while LangGraph/LangGraph.js enable agent construction via graph-based workflows; Deep Agents/Deep Agents.js support hierarchical agent planning with filesystem access.
 
-- **Commercial & OSS Extensions**:
-  - `LangSmith`: Production-grade platform for deploying, monitoring, and debugging LLM applications.
-  - `dcode`/`Open SWE`: Terminal-based and asynchronous coding agents for autonomous software engineering tasks.
-  - `Agent Protocol`: Framework-agnostic API standard for serving LLM agents in production environments.
+- **Commercial & OSS Extensions**: LangSmith offers a production-grade platform for monitoring and deploying LLM applications; extensions like `dcode` (terminal coding agent), Open SWE (asynchronous coding agent), and MCP Adapters (MCP tool compatibility) expand functionality, alongside Agent Protocol (standardized agent APIs) and OpenWiki (CLI-based codebase/wiki generation).
 
-- **Specialized Tools**:
-  - `MCP Adapters`: Enables compatibility between Model Context Protocol (MCP) tools and LangChain/LangGraph.
-  - `OpenWiki`: CLI-based agent for generating and maintaining codebase documentation and personal knowledge wikis.
+- **Ecosystem Tools**: Unified documentation via [docs.langchain.com](https://docs.langchain.com/), community forums, and free LangChain Academy courses facilitate adoption and learning.
 
 ## Why It Matters
 
@@ -47,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T15:34:12.147675+05:30
+- Published: 2026-08-08T18:51:48.557755+05:30
 
 ## Related Tags
 

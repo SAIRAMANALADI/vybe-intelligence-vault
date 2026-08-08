@@ -12,10 +12,10 @@ Discovering modern AI productivity tools allows developers to streamline their d
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
 - [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook/) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
-- [Android Developers Blog: Celebrating 5 years of Jetpack Compose](https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html) (tutorial - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
 - [Nonuniformity Principle in Human-AI Coworking](https://arxiv.org/abs/2607.16530) (framework - USEFUL Tier)
+- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,8 +23,8 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Mintlify · GitHub](https://github.com/mintlify)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 - [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook/)
-- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
+- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai)
 
 ## Best Learning Resources
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-08 15:45 IST*
+*Last updated: 2026-08-08 19:03 IST*

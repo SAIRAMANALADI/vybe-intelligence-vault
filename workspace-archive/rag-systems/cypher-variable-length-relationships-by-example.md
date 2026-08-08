@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- Variable-length relationships in Cypher are defined using the `*n..m` syntax, where `n` is the minimum and `m` the maximum path length (e.g., `-[:KNOWS*2..3]->` matches paths with 2 or 3 relationships).
-- Zero-length paths (`*0`) allow binding the same node to multiple variables in a single pattern, simplifying queries for optional relationships (e.g., `-[:PREVIOUS_POST*0..1]->`).
-- Infinite-length paths (`*`) should be avoided in production due to performance risks; always specify upper bound
+- Variable-length relationships in Cypher are defined using the `*n..m` syntax, where `n` is the minimum path length and `m` is the maximum (e.g., `-[:KNOWS*2..3]->` matches paths of 2 or 3 relationships).
+- Zero-length paths (`*0`) allow binding the same node to multiple variables in a single pattern, simplifying queries for nodes with optional relationships (e.g., `()-[:REL*0..1]->`).
+- Infinite-length paths (`*`) should be avoided in production due to performance risks; always specify upper b
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://hackage.haskell.org/package/pandoc
-published_at: '2026-08-05T17:12:46.098739+05:30'
-collected_at: '2026-08-05T17:12:46.098748+05:30'
+published_at: '2026-08-08T18:56:39.108730+05:30'
+collected_at: '2026-08-08T18:56:39.108745+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pandoc-conversion-between-markup-formats
-first_seen: '2026-08-05T17:12:46.098748+05:30'
-last_seen: '2026-08-05T17:12:46.098748+05:30'
-last_checked: '2026-08-05T17:12:46.098748+05:30'
+first_seen: '2026-08-08T18:56:39.108745+05:30'
+last_seen: '2026-08-08T18:56:39.108745+05:30'
+last_checked: '2026-08-08T18:56:39.108745+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format conversion**: Pandoc is a Haskell library for converting between 30+ markup formats, including Markdown variants, LaTeX, HTML, EPUB, Docx, Jupyter notebooks, and more, with support for mathematical content conversion across TeX, MathML, and Word equations.
+- **Multi-format conversion engine**: Pandoc is a Haskell library enabling bidirectional conversion between 30+ markup formats, including Markdown variants, LaTeX, HTML5, EPUB, Docx, Jupyter notebooks, and Typst, with extensible readers/writers via Lua scripting.
 
-- **Extensible architecture**: Features a modular design with Lua-based customization via templates, filters, and readers/writers, alongside built-in support for automatic citations, bibliographies, and cross-references.
+- **Mathematical and bibliographic processing**: Supports TeX-to-MathML/Word equations/Typst conversion, automatic citation handling (BibTeX/BibLaTeX/CSL), and template-driven document generation with filters.
 
-- **Hackage integration**: Hosted on Hackage with GPL licensing, versioned modules (e.g., `Text.Pandoc.Readers.LaTeX`, `Text.Pandoc.Writers.Docx`), and CLI tooling via the `pandoc-cli` package.
+- **Modular Haskell architecture**: Organized into 100+ modules (e.g., `Text.Pandoc.Readers.LaTeX`, `Text.Pandoc.Writers.Docx`) with core functionality in `Text.Pandoc.Class` for IO, parsing, and extensibility via `Text.Pandoc.Filter`.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T17:12:46.098739+05:30
+- Published: 2026-08-08T18:56:39.108730+05:30
 
 ## Related Tags
 

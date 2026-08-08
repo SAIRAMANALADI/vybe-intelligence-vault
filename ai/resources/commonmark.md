@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://commonmark.org
-published_at: '2026-08-01T14:15:21.108318+05:30'
-collected_at: '2026-08-01T14:15:21.108332+05:30'
+published_at: '2026-08-08T18:56:39.305088+05:30'
+collected_at: '2026-08-08T18:56:39.305102+05:30'
 tags:
 - hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:commonmark
-first_seen: '2026-08-01T14:15:21.108332+05:30'
-last_seen: '2026-08-01T14:15:21.108332+05:30'
-last_checked: '2026-08-01T14:15:21.108332+05:30'
+first_seen: '2026-08-08T18:56:39.305102+05:30'
+last_seen: '2026-08-08T18:56:39.305102+05:30'
+last_checked: '2026-08-08T18:56:39.305102+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: CommonMark was developed to resolve ambiguities in John Gruber's original Markdown specification (2004) by providing a **unambiguous, standardized syntax** and **comprehensive test suite** for consistent parsing across implementations.
-- **Technical Specifications**: The [CommonMark spec](https://spec.commonmark.org/) defines a **formal grammar** and **parsing rules**, eliminating reliance on buggy legacy implementations like `Markdown.pl` (last updated 2004).
-- **Adoption & Tools**: Widely adopted by platforms (GitHub, GitLab, Reddit, Stack Overflow) and supported by **reference implementations** in multiple languages, along with tools like the [dingus](https://spec.commonmark.org/dingus/) live tester and [Babelmark 3](https://babelmark.github.io/) for cross-implementation validation.
+- **CommonMark** is a standardized, unambiguous specification for Markdown, addressing syntax inconsistencies and divergences in implementations like `Markdown.pl` (last updated in 2004) by providing a formal syntax definition and comprehensive test suite.
+- Developed by a community of Markdown experts (e.g., John MacFarlane, Vicent Marti, Jeff Atwood) from organizations like GitHub, Pandoc, and Stack Overflow, CommonMark aims to ensure interoperability across platforms (e.g., GitHub, Reddit, GitLab).
+- The specification ([spec.commonmark.org](https://spec.commonmark.org/)) and reference implementations in multiple languages are open-source, with tools like the "dingus" live tester and community-driven discussions ([talk.commonmark.org](https://talk.commonmark.org/)) facilitating adoption and validation.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T14:15:21.108318+05:30
+- Published: 2026-08-08T18:56:39.305088+05:30
 
 ## Related Tags
 

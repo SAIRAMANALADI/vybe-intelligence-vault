@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-08T15:30:21.862461+05:30'
+collected_at: '2026-08-08T18:48:20.402178+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
+- paper
 - python
 - rag
 stars: 174
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-08T15:30:21.862461+05:30'
-last_seen: '2026-08-08T15:30:21.862461+05:30'
-last_checked: '2026-08-08T15:30:21.862461+05:30'
+first_seen: '2026-08-08T18:48:20.402178+05:30'
+last_seen: '2026-08-08T18:48:20.402178+05:30'
+last_checked: '2026-08-08T18:48:20.402178+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **UniversalRAG Framework**: Introduces a retrieval-augmented generation (RAG) system designed to handle diverse modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans) within a unified architecture, leveraging modality-agnostic embeddings and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling Retrieval-Augmented Generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence, entity-level), leveraging unified embeddings and retrieval mechanisms.
 
-- **Multimodal Retrieval Mechanism**: Implements a hierarchical retrieval strategy combining coarse-grained (document-level) and fine-grained (chunk/sentence-level) retrieval across modalities, with a unified relevance scoring function for cross-modal alignment.
+- **ACL 2026 Oral Paper**: Presents a novel architecture with cross-modal retrieval strategies, dynamic granularity selection, and modality-agnostic indexing to optimize generation quality for heterogeneous corpora.
 
-- **ACL 2026 Oral Contribution**: Proposes a novel training pipeline for modality- and granularity-agnostic RAG, including a dynamic modality routing module and a unified decoder for generating coherent responses across heterogeneous input sources.
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for modality-specific encoders, retrieval pipelines, and generation integration, supporting extensibility for custom corpora and tasks.
 
 ## Why It Matters
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code
 hn_url: https://news.ycombinator.com/item?id=49213754
-score: 471
+score: 491
 author: delduca
-comments_count: 332
+comments_count: 353
 published_at: '2026-08-07T23:06:30+05:30'
-collected_at: '2026-08-08T15:27:48.885906+05:30'
+collected_at: '2026-08-08T18:45:53.018283+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:oracle-bans-ai-generated-code-from-openjdk
 first_seen: '2026-08-08T12:47:41.498931+05:30'
-last_seen: '2026-08-08T15:27:48.885906+05:30'
-last_checked: '2026-08-08T15:27:48.885906+05:30'
+last_seen: '2026-08-08T18:45:53.018283+05:30'
+last_checked: '2026-08-08T18:45:53.018283+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by delduca. Score: 471, Comments: 332.
+Hacker News story by delduca. Score: 491, Comments: 353.
 Original Link: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: delduca
-- Score: 471 Upvotes
-- Comments: 332 Discussions
+- Score: 491 Upvotes
+- Comments: 353 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49213754
 - Original Article: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code
 

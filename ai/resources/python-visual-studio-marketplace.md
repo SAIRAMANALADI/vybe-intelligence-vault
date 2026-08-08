@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://marketplace.visualstudio.com/items?itemName=ms-python.python
-published_at: '2026-07-17T14:13:10.307912+05:30'
-collected_at: '2026-07-17T14:13:10.307926+05:30'
+published_at: '2026-08-08T18:56:53.534041+05:30'
+collected_at: '2026-08-08T18:56:53.534056+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:python-visual-studio-marketplace
-first_seen: '2026-07-17T14:13:10.307926+05:30'
-last_seen: '2026-07-17T14:13:10.307926+05:30'
-last_checked: '2026-07-17T14:13:10.307926+05:30'
+first_seen: '2026-08-08T18:56:53.534056+05:30'
+last_seen: '2026-08-08T18:56:53.534056+05:30'
+last_checked: '2026-08-08T18:56:53.534056+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Features**: Provides Python language support in VS Code via extension, including IntelliSense (Pylance), debugging (Python Debugger), linting, formatting, refactoring, unit tests, and environment management (via new Python Environments Extension).
+- **Core Features**: Provides IntelliSense (via Pylance), debugging (Python Debugger), linting, formatting, refactoring, unit testing, and environment management for Python in VS Code, supporting all actively maintained Python versions.
 
-- **Extensibility & Dependencies**: Automatically installs optional dependencies (Pylance, Python Debugger, Python Environments) for enhanced functionality; supports third-party formatters/linters (e.g., black, Pylint) and Jupyter notebooks via dedicated extension.
+- **Extensibility & Integration**: Automatically installs optional dependencies (Pylance, Python Debugger, Python Environments) for enhanced workflows, while allowing customization via VS Code’s extension system and third-party formatters/linters.
 
-- **Configuration & Workflow**: Enables interpreter selection, test configuration, and environment switching; supports 15+ locales; telemetry collection is configurable via `telemetry.telemetryLevel`.
+- **Cross-Platform Support**: Enables partial IntelliSense on `vscode.dev`/`github.dev`, full Jupyter Notebook integration, and multi-language locale support (e.g., `zh-cn`, `fr`, `de`), with telemetry opt-out via `telemetry.telemetryLevel`.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-17T14:13:10.307912+05:30
+- Published: 2026-08-08T18:56:53.534041+05:30
 
 ## Related Tags
 

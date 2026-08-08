@@ -3,23 +3,21 @@ title: Cloudflare Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.cloudflarestatus.com
-published_at: '2026-06-24T10:29:53.567597+05:30'
-collected_at: '2026-06-24T10:29:53.567620+05:30'
+source_url: https://www.cloudflarestatus.com/
+published_at: '2026-08-08T18:53:42.788398+05:30'
+collected_at: '2026-08-08T18:53:42.788415+05:30'
 tags:
-- dataset
-- frontend_ui
 - hackernews
+- models
 - producthunt
 - rag
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:cloudflare-status
-first_seen: '2026-06-24T10:29:53.567620+05:30'
-last_seen: '2026-06-24T10:29:53.567620+05:30'
-last_checked: '2026-06-24T10:29:53.567620+05:30'
+first_seen: '2026-08-08T18:53:42.788415+05:30'
+last_seen: '2026-08-08T18:53:42.788415+05:30'
+last_checked: '2026-08-08T18:53:42.788415+05:30'
 health_score: 100
 ---
 
@@ -27,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Scheduled Maintenance in ARN (Stockholm)**: Cloudflare is performing scheduled maintenance in the ARN (Stockholm) datacenter on 2026-06-24 between 00:00 and 05:00 UTC, potentially causing increased latency and traffic failover for affected users.
+- **R2 Storage Degradation (ENAM)**: Writes to a subset of R2 buckets in Eastern North America (ENAM) were impacted between 14:52–17:02 UTC on Aug 7, 2026, due to an identified cause; recovery efforts are ongoing as of Aug 8, 2026.
 
-- **Workers AI Degraded Performance**: Cloudflare is investigating degraded availability in specific Workers AI models (`@cf/moonshotai/kimi-k2.6` and `@cf/moonshotai/kimi-k2.7-code`), with the issue currently under investigation.
+- **Network Outage in Istanbul**: Dark fiber loss in Istanbul caused network performance degradation; vendor coordination is underway to restore connectivity as of Aug 8, 2026.
 
-- **Regional Operational Status**: Cloudflare's global network status shows partial outages in select regions (e.g., Africa, Asia, Europe) and under maintenance in others (e.g., ARN, Bangalore, Bangkok), while most services remain operational.
+- **Regional Service Status**: Cloudflare’s status page indicates **degraded performance** for R2 globally, **partial outages** in multiple regions (e.g., Johannesburg, Kochi, Lyon), and **under maintenance** status for nodes like Istanbul, Kyiv, and Minsk.
 
 ## Why It Matters
 
@@ -41,19 +39,17 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:29:53.567597+05:30
+- Published: 2026-08-08T18:53:42.788398+05:30
 
 ## Related Tags
 
-- dataset
-- frontend_ui
 - hackernews
+- models
 - producthunt
 - rag
-- scripts
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://www.cloudflarestatus.com
+Original source: https://www.cloudflarestatus.com/

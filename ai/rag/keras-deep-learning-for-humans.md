@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://keras.io/keras_3/
-published_at: '2026-08-08T15:35:20.876797+05:30'
-collected_at: '2026-08-08T15:35:20.876811+05:30'
+published_at: '2026-08-08T18:57:40.635328+05:30'
+collected_at: '2026-08-08T18:57:40.635346+05:30'
 tags:
 - benchmark
 - dataset
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:keras-deep-learning-for-humans
-first_seen: '2026-08-08T15:35:20.876811+05:30'
-last_seen: '2026-08-08T15:35:20.876811+05:30'
-last_checked: '2026-08-08T15:35:20.876811+05:30'
+first_seen: '2026-08-08T18:57:40.635346+05:30'
+last_seen: '2026-08-08T18:57:40.635346+05:30'
+last_checked: '2026-08-08T18:57:40.635346+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Backend Architecture**: Keras 3 enables cross-framework compatibility with JAX, TensorFlow, PyTorch, and OpenVINO (inference-only), allowing dynamic backend selection for optimal performance without code changes.
+- **Multi-Backend Architecture**: Keras 3.0 enables cross-framework compatibility with JAX, TensorFlow, PyTorch, and OpenVINO (inference-only), allowing dynamic backend selection for optimal performance without code changes.
 
-- **Unified API & Stateless Operations**: Implements a full Keras API across backends with stateless methods (`stateless_call()`, `stateless_apply()`) for functional programming and JAX compatibility, while maintaining backward compatibility with Keras 2.
+- **Unified API & Stateless Operations**: Implements a full Keras API across backends with stateless methods (`stateless_call`, `stateless_apply`, etc.) for JAX functional programming compatibility and seamless integration with native training loops.
 
-- **Advanced Distribution & Data Pipeline Support**: Introduces a new `keras.distribution` API for model/data parallelism (JAX-first, expanding to TensorFlow/PyTorch) and supports heterogeneous data pipelines (e.g., `tf.data.Dataset`, PyTorch `DataLoader`, NumPy arrays).
+- **Advanced Distribution & Ecosystem Integration**: Introduces `keras.distribution` for model/data parallelism (JAX-first, others coming) and supports multi-framework data pipelines (`tf.data`, PyTorch `DataLoader`, NumPy/Pandas) and pretrained models (e.g., BERT, StableDiffusion) across all backends.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T15:35:20.876797+05:30
+- Published: 2026-08-08T18:57:40.635328+05:30
 
 ## Related Tags
 

@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIMAN-group/PlugMem
-collected_at: '2026-08-08T15:30:21.902234+05:30'
-published_at: '2026-08-08T07:19:05Z'
+collected_at: '2026-08-08T18:48:20.450403+05:30'
+published_at: '2026-08-08T10:49:29Z'
 tags:
 - agents
-- benchmark
 - github-repo
+- models
 - python
 - rag
-- workflows
-stars: 270
+stars: 271
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-09T22:43:38Z'
 pushed_at: '2026-07-09T05:51:21Z'
 resource_id: github:timan-group/plugmem
-first_seen: '2026-08-08T15:30:21.902234+05:30'
-last_seen: '2026-08-08T15:30:21.902234+05:30'
-last_checked: '2026-08-08T15:30:21.902234+05:30'
+first_seen: '2026-08-08T18:48:20.450403+05:30'
+last_seen: '2026-08-08T18:48:20.450403+05:30'
+last_checked: '2026-08-08T18:48:20.450403+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Plug-and-play long-term memory integration**: Enables LLM agents to dynamically attach/detach persistent memory modules without retraining, leveraging modular memory architectures for scalable context retention.
-
-- **Hybrid memory retrieval**: Combines dense (vector-based) and sparse (keyword/rule-based) retrieval mechanisms to optimize long-term dependency modeling and reduce hallucination risks in agentic workflows.
-
-- **ICML 2026 framework**: Open-source Python implementation with modular APIs for seamless integration with existing LLM agents, supporting RAG pipelines and agent-memory benchmarks.
+- **Plug-and-play long-term memory integration** for LLM agents, enabling persistent contextual retention without fine-tuning, as proposed for ICML 2026.
+- **Modular architecture** leveraging Retrieval-Augmented Generation (RAG) to dynamically store, retrieve, and update agent memory via Python-based implementation.
+- **Open-source repository** (`TIMAN-group/PlugMem`) with 271 stars and 25 forks, last updated August 2026, focusing on agent-memory optimization.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TIMAN-group
-- Stars: 270
+- Stars: 271
 - Forks: 25
 - Language: Python
 - Topics: agent-memory, llm-agent, rag
-- Last Updated: 2026-08-08T07:19:05Z
+- Last Updated: 2026-08-08T10:49:29Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-09T22:43:38Z

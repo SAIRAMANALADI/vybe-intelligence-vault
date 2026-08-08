@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain Community Events**: Platform aggregates LangChain-hosted and community-driven meetups globally, including NY, Mexico City, San Francisco, Hamburg, and London, covering topics like LLM wikis, agent context management, and production deployment.
+- **Event Aggregation Platform**: Luma hosts a centralized calendar for LangChain-related events, including both LangChain-hosted and community-organized meetups, with submission and approval workflows for event organizers.
 
-- **Event Hosting & Submission**: Supports both LangChain-organized and third-party events, with a submission workflow requiring admin approval; events appear publicly post-approval.
+- **Upcoming Events**: Featured events include *LangChain NY Meetup* (LLM Wikis & Agent Context), *Agents In Production* (Mexico City), *Apache DataFusion Meetup* (San Francisco), and *Building Great Agents* (Hamburg), with RSVP/waitlist functionality.
 
-- **Conference Series**: Hosts "Interrupt" conferences in
+- **Conferences**: La
 
 ## Use Cases
 

@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Publishing & Integration**: Google Workspace Marketplace supports publishing of Google Workspace add-ons, Editor add-ons, Google Chat apps, Classroom add-ons, Drive apps, and Web apps for third-party integration.
+- **Publishing Scope**: Google Workspace Marketplace supports publishing of Google Workspace add-ons, Editor add-ons, Google Chat apps, Classroom add-ons, Drive apps, and Web apps.
 
-- **App Review Process**: All apps undergo Google’s pre-publication review to ensure compliance with safety, content, and style guidelines before being listed.
+- **App Review Process**: Google enforces pre-publication reviews to ensure apps comply with safety, content, and style guidelines before listing.
 
-- **Developer Resources**: Provides documentation for publishing (`how-to-publish`), listing multiple integrations (`list
+- **Developer Resources**: Provides documentation for publishing (`how-to-publish`), listing multiple integrations (`list-multiple-app-integrations`), and retrieving inst
 
 ## Use Cases
 

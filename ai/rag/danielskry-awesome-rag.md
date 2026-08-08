@@ -4,13 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-08-08T15:29:36.797842+05:30'
-published_at: '2026-08-07T12:41:04Z'
+collected_at: '2026-08-08T18:47:35.357554+05:30'
+published_at: '2026-08-08T11:37:22Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - rag
 - unknown
-stars: 1327
+- workflows
+stars: 1328
 language: Unknown
 status: active
 license: CC0-1.0
@@ -18,9 +21,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-07-09T14:58:23Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-08-08T15:29:36.797842+05:30'
-last_seen: '2026-08-08T15:29:36.797842+05:30'
-last_checked: '2026-08-08T15:29:36.797842+05:30'
+first_seen: '2026-08-08T18:47:35.357554+05:30'
+last_seen: '2026-08-08T18:47:35.357554+05:30'
+last_checked: '2026-08-08T18:47:35.357554+05:30'
 health_score: 100
 ---
 
@@ -28,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering large language models (LLMs) and retrieval mechanisms.
-- **Active Maintenance**: Last updated in August 2026, ensuring relevance with ongoing contributions and updates to the repository.
-- **Community Engagement**: High star (1327) and fork (184) counts indicate strong community adoption and collaborative development in the RAG ecosystem.
+- **Curated RAG Applications**: Repository aggregates open-source and commercial Retrieval-Augmented Generation (RAG) implementations across domains like LLMs, chatbots, and QA systems.
+- **Multi-Topic Coverage**: Encompasses RAG frameworks, vector databases, evaluation tools, and deployment strategies for generative AI workflows.
+- **Active Maintenance**: Last updated in 2026, indicating ongoing updates to include emerging RAG techniques and tools.
 
 ## Why It Matters
 
@@ -39,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Danielskry
-- Stars: 1327
-- Forks: 184
+- Stars: 1328
+- Forks: 186
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-08-07T12:41:04Z
+- Last Updated: 2026-08-08T11:37:22Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-04-12T14:45:44Z

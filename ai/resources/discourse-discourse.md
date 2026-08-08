@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/discourse/discourse
-collected_at: '2026-08-08T15:38:22.833379+05:30'
+collected_at: '2026-08-08T18:56:21.392736+05:30'
 published_at: '2026-08-08T08:46:26Z'
 tags:
 - github-repo
@@ -16,11 +16,11 @@ status: active
 license: GPL-2.0
 archived: false
 created_at: '2013-01-12T00:25:55Z'
-pushed_at: '2026-08-08T03:29:48Z'
+pushed_at: '2026-08-08T12:16:21Z'
 resource_id: github:discourse/discourse
-first_seen: '2026-08-08T15:38:22.833379+05:30'
-last_seen: '2026-08-08T15:38:22.833379+05:30'
-last_checked: '2026-08-08T15:38:22.833379+05:30'
+first_seen: '2026-08-08T18:56:21.392736+05:30'
+last_seen: '2026-08-08T18:56:21.392736+05:30'
+last_checked: '2026-08-08T18:56:21.392736+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Ruby on Rails-based platform**: Discourse is a modern, open-source discussion platform built using Ruby on Rails, PostgreSQL, and Ember.js, enabling scalable and real-time community interactions.
+- **Platform Overview**: Discourse is an open-source, community discussion platform built with Ruby on Rails, PostgreSQL, and Ember.js, supporting real-time interactions and structured forums.
 
-- **Technical stack**: Frontend relies on Ember.js, backend uses Ruby on Rails with PostgreSQL for data persistence, and JavaScript for dynamic client-side functionality.
+- **Technical Stack**: Frontend utilizes Ember.js and JavaScript; backend relies on Ruby on Rails with PostgreSQL for data persistence.
 
-- **Modular architecture**: Designed for extensibility with plugin support, enabling customization via Ember components, Rails engines, and JavaScript-based UI enhancements.
+- **Repository Stats**: 47,622 stars, 8,980 forks, last updated on 2026-08-08, with active development in discourse-related topics.
 
 ## Why It Matters
 
@@ -42,14 +42,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: discourse
 - Stars: 47622
-- Forks: 8979
+- Forks: 8980
 - Language: Ruby
 - Topics: discourse, ember, forum, javascript, postgresql, rails, ruby
 - Last Updated: 2026-08-08T08:46:26Z
 - License: GPL-2.0
 - Archived: No
 - Created At: 2013-01-12T00:25:55Z
-- Pushed At: 2026-08-08T03:29:48Z
+- Pushed At: 2026-08-08T12:16:21Z
 
 ## Possible Use Cases
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://buildwithfern.com/
-published_at: '2026-06-25T23:09:26.835391+05:30'
-collected_at: '2026-06-25T23:09:26.835400+05:30'
+published_at: '2026-08-08T18:56:54.574929+05:30'
+collected_at: '2026-08-08T18:56:54.574947+05:30'
 tags:
 - agents
 - anthropic
 - openai
+- producthunt
 - rag
 - reddit
 - web-crawled
@@ -17,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:fern-docs-sdks-and-clis-for-your-api
-first_seen: '2026-06-25T23:09:26.835400+05:30'
-last_seen: '2026-06-25T23:09:26.835400+05:30'
-last_checked: '2026-06-25T23:09:26.835400+05:30'
+first_seen: '2026-08-08T18:56:54.574947+05:30'
+last_seen: '2026-08-08T18:56:54.574947+05:30'
+last_checked: '2026-08-08T18:56:54.574947+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-protocol API support**: Generates Docs, SDKs, and CLI from a single source of truth for REST, WebSockets, GraphQL, AsyncAPI, and gRPC via OpenAPI specs.
+- **Multi-protocol API documentation & SDK generation**: Supports REST, WebSockets, GraphQL, AsyncAPI, and gRPC from a single source of truth, with auto-generated SDKs in multiple languages (e.g., 13,392 SDKs generated) and Postman collections.
 
-- **AI-native documentation features**: Includes AI chat, MCP server integration, auto-generated `llms.txt`, and AI-assisted authoring (e.g., Fern Writer) for real-time agent interactions and reduced hallucinations.
+- **AI-native developer experience**: Features include agent-friendly docs with MCP server integration, llms.txt for LLM compatibility, AI chat grounded in documentation (890,491 queries), and AI-assisted authoring for automated updates.
 
-- **Enterprise-grade scalability**: Supports multi-source docs aggregation, SAML/OIDC role-based access control, SOC 2 Type II compliance, self-hosting, localization, and native Postman collection generation with 99% reduction in time-to-first-API-call.
+- **Enterprise-grade scalability & security**: Supports multi-source documentation aggregation, self-hosting, localization, SOC 2 Type II compliance, role-based access control (SAML/OIDC), and uptime SLAs with 24/7 critical incident support.
 
 ## Why It Matters
 
@@ -41,13 +42,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:09:26.835391+05:30
+- Published: 2026-08-08T18:56:54.574929+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
 - openai
+- producthunt
 - rag
 - reddit
 - web-crawled

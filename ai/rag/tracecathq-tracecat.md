@@ -4,27 +4,28 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-07T08:53:24.073493+05:30'
-published_at: '2026-08-06T15:53:51Z'
+collected_at: '2026-08-08T18:49:40.540944+05:30'
+published_at: '2026-08-07T18:43:50Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
 - workflows
-stars: 3759
+stars: 3761
 language: Python
 status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-08-06T22:25:04Z'
+pushed_at: '2026-08-08T04:50:44Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-07T08:53:24.073493+05:30'
-last_seen: '2026-08-07T08:53:24.073493+05:30'
-last_checked: '2026-08-07T08:53:24.073493+05:30'
+first_seen: '2026-08-08T18:49:40.540944+05:30'
+last_seen: '2026-08-08T18:49:40.540944+05:30'
+last_checked: '2026-08-08T18:49:40.540944+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Python-based open-source security automation platform** leveraging FastAPI, Pydantic, and TemporalIO for event-driven orchestration, workflow management, and low-code automation tailored for security operations.
+- **Architecture**: Python-based open-source platform integrating FastAPI, Pydantic, and Next.js for event-driven security automation, with workflow orchestration via Temporal.io and low-code interfaces.
 
-- **Integrates AI agents and LLM capabilities** via Next.js frontend and OpenAPI specifications, enabling AI-driven security workflows and real-time monitoring with modular, extensible architecture.
+- **Key Features**: Supports LLM integration, OpenAPI specifications, and monitoring capabilities, enabling AI agents and teams to automate security workflows with minimal code.
 
-- **Supports scalable, distributed workflow execution** with temporal workflow engine, facilitating secure automation for teams while maintaining compatibility with modern security tooling and APIs.
+- **Technical Stack**: Leverages temporalio for workflow execution, FastAPI for backend APIs, and Next.js for frontend, with security-focused design and extensibility via Python.
 
 ## Why It Matters
 
@@ -45,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TracecatHQ
-- Stars: 3759
-- Forks: 398
+- Stars: 3761
+- Forks: 400
 - Language: Python
 - Topics: agents, automation, event-driven, fastapi, llm, low-code, monitoring, nextjs, openapi, orchestration, pydantic, security, temporalio, workflow-engine
-- Last Updated: 2026-08-06T15:53:51Z
+- Last Updated: 2026-08-07T18:43:50Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-08-06T22:25:04Z
+- Pushed At: 2026-08-08T04:50:44Z
 
 ## Possible Use Cases
 

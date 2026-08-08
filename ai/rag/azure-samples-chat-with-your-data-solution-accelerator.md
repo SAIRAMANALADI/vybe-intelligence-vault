@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-08T15:29:36.853896+05:30'
+collected_at: '2026-08-08T18:47:35.470143+05:30'
 published_at: '2026-08-05T20:45:57Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- workflows
 stars: 1172
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-08-07T07:18:46Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-08T15:29:36.853896+05:30'
-last_seen: '2026-08-08T15:29:36.853896+05:30'
-last_checked: '2026-08-08T15:29:36.853896+05:30'
+first_seen: '2026-08-08T18:47:35.470143+05:30'
+last_seen: '2026-08-08T18:47:35.470143+05:30'
+last_checked: '2026-08-08T18:47:35.470143+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following best practices.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generating ChatGPT-style and Q&A responses.
 
-- **Key Components**: Includes **Python-based** implementation with **AZD templates**, leveraging Azure services for scalable, production-ready RAG workflows.
+- **Key Components**: Includes **Python-based** solution with **AZD templates** for deployment, adhering to best practices for integrating Azure services (AI Search, OpenAI) and handling common RAG requirements.
 
-- **Features**: Provides end-to-end solution with common requirements (e.g., indexing, retrieval, prompting) and supports **ChatGPT-style** and **Q&A** interactions. Last updated **2026-08-05**.
+- **Features**: Supports **semantic search**, **document processing**, and **LLM-powered interactions**, optimized for scalable, production-grade AI-driven chat/Q&A experiences in Azure.
 
 ## Why It Matters
 

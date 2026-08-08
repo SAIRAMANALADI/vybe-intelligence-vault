@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-08T15:33:33.834667+05:30'
-collected_at: '2026-08-08T15:33:33.834682+05:30'
+published_at: '2026-08-08T18:53:33.261339+05:30'
+collected_at: '2026-08-08T18:53:33.261348+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,15 +15,14 @@ tags:
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-08T15:33:33.834682+05:30'
-last_seen: '2026-08-08T15:33:33.834682+05:30'
-last_checked: '2026-08-08T15:33:33.834682+05:30'
+first_seen: '2026-08-08T18:53:33.261348+05:30'
+last_seen: '2026-08-08T18:53:33.261348+05:30'
+last_checked: '2026-08-08T18:53:33.261348+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps (Gradio, Docker, static HTML/JS) directly on user/organization profiles with optional GPU acceleration for performance-critical workloads.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps via Gradio, Docker, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
 
-- **Multi-SDK Support**: Supports Gradio for rapid Python-based app development, arbitrary Dockerfiles for full customization, and static web apps for lightweight deployments.
+- **Integration & Customization**: Supports Python-based custom apps, GitHub Actions for CI/CD, and embeddable demos, with configurable storage, dependencies, and organization-specific settings.
 
-- **Advanced Features**: Provides dev mode, disk/storage management, custom domains, embedding options, and GitHub Actions integration for CI/CD pipelines.
+- **Advanced Features**: Includes Dev Mode for debugging, disk/storage management, custom domains, and API endpoints, with detailed documentation for security, OAuth, and hardware configurations.
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T15:33:33.834667+05:30
+- Published: 2026-08-08T18:53:33.261339+05:30
 
 ## Related Tags
 
@@ -57,7 +56,6 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows

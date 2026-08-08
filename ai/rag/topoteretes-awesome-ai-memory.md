@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-08-08T15:29:41.873543+05:30'
+collected_at: '2026-08-08T18:47:40.434705+05:30'
 published_at: '2026-08-08T02:52:09Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 stars: 833
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-08-08T15:29:41.873543+05:30'
-last_seen: '2026-08-08T15:29:41.873543+05:30'
-last_checked: '2026-08-08T15:29:41.873543+05:30'
+first_seen: '2026-08-08T18:47:40.434705+05:30'
+last_seen: '2026-08-08T18:47:40.434705+05:30'
+last_checked: '2026-08-08T18:47:40.434705+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates 833+ curated projects focused on AI memory systems, including RAG (Retrieval-Augmented Generation), agent-based memory architectures, and memory management frameworks, primarily implemented in Python.
-- **Technical Scope**: Encompasses topics such as long-term memory integration, context retention in AI agents, and memory optimization techniques for LLMs, with last update timestamped **2026-08-08T02:52:09Z**.
-- **Community Metrics**: Maintains 107 forks and 833 stars, indicating active community engagement and collaborative development in AI memory research and tooling.
+- **Curated list** of AI memory projects, frameworks, and tools focused on memory management, RAG, and agent-based systems.
+- **Python-centric** repository with 833 stars and 107 forks, last updated in August 2026.
+- **Topics** include AI agents, memory systems, RAG, and ML integration for persistent AI state management.
 
 ## Why It Matters
 

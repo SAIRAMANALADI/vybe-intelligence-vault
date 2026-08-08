@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/affaan-m/agentshield
-collected_at: '2026-08-08T15:30:26.864446+05:30'
+collected_at: '2026-08-08T18:48:25.413479+05:30'
 published_at: '2026-08-08T02:03:14Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
-- workflows
 stars: 1054
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-11T06:31:44Z'
 pushed_at: '2026-07-22T07:01:25Z'
 resource_id: github:affaan-m/agentshield
-first_seen: '2026-08-08T15:30:26.864446+05:30'
-last_seen: '2026-08-08T15:30:26.864446+05:30'
-last_checked: '2026-08-08T15:30:26.864446+05:30'
+first_seen: '2026-08-08T18:48:25.413479+05:30'
+last_seen: '2026-08-08T18:48:25.413479+05:30'
+last_checked: '2026-08-08T18:48:25.413479+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format AI agent security scanner** written in TypeScript, supporting CLI, GitHub Action, ECC plugin, and GitHub App integration for vulnerability detection in agent configurations, MCP servers, and tool permissions.
-
-- **Targets AI agent ecosystems** (Anthropic, Claude Code, MCP, Opus) to identify misconfigurations and permission escalation risks in agentic workflows.
-
-- **Actively maintained** (last updated Aug 2026) with 1,054 stars and 223 forks, indicating community adoption for agent security hardening.
+- **Multi-format Security Scanner**: CLI, GitHub Action, ECC plugin, and GitHub App integration for detecting vulnerabilities in AI agent configurations, MCP servers, and tool permissions.
+- **Technical Scope**: Focuses on security analysis of agent frameworks (Anthropic, Claude Code, Opus) and MCP (Model Context Protocol) server interactions.
+- **Language & Ecosystem**: Built in TypeScript, targets AI agent security with active development (last updated Aug 2026) and 1,054+ GitHub stars.
 
 ## Why It Matters
 
@@ -44,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: affaan-m
 - Stars: 1054
-- Forks: 223
+- Forks: 224
 - Language: TypeScript
 - Topics: ai-agent, anthropic, claude-code, hackathon, mcp, opus, security
 - Last Updated: 2026-08-08T02:03:14Z
