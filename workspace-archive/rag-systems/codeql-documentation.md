@@ -2,7 +2,7 @@
 title: CodeQL documentation
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://codeql.github.com/docs/
+source_url: https://codeql.github.com/docs
 resource_id: blog:codeql-documentation
 local_vault_path: ai/rag/codeql-documentation.md
 quality_score: 70
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities across supported languages/frameworks via declarative QL queries.
-- **Core Resources**: Provides CLI releases, VS Code extension, and open-source repository ([github/codeql](https://github.com/github/codeql)) for libraries/queries.
-- **Documentation**: Includes QL language reference, standard libraries, and query help for CWE coverage and execution across codebases.
+- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities via custom queries, with support for multiple languages, libraries, and frameworks.
+- **Query Development & Execution**: Provides tools for writing (puzzle-based learning), running (CLI/IDE integration), and sharing CodeQL queries to improve code security.
+- **Documentation & Resources**: Offers comprehensive references (QL language, standard libraries), release notes, and system requirements for CodeQ
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://codeql.github.com/docs/
+Original source URL: https://codeql.github.com/docs
 
 ## Local Vault File
 

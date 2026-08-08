@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://knative.dev/docs/
-published_at: '2026-08-01T09:31:49.374218+05:30'
-collected_at: '2026-08-01T09:31:49.374227+05:30'
+published_at: '2026-08-08T15:38:04.328279+05:30'
+collected_at: '2026-08-08T15:38:04.328289+05:30'
 tags:
 - benchmark
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:overview-knative
-first_seen: '2026-08-01T09:31:49.374227+05:30'
-last_seen: '2026-08-01T09:31:49.374227+05:30'
-last_checked: '2026-08-01T09:31:49.374227+05:30'
+first_seen: '2026-08-08T15:38:04.328289+05:30'
+last_seen: '2026-08-08T15:38:04.328289+05:30'
+last_checked: '2026-08-08T15:38:04.328289+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- Knative is a Kubernetes-native platform providing **Serving**, **Eventing**, and **Functions** components for serverless workloads, enabling automatic scaling, event-driven architectures, and simplified function deployment via CRDs.
+- **Knative Serving** provides Kubernetes-native HTTP-triggered autoscaling for stateless workloads using CRDs (Services, Routes, Configurations, Revisions) with features like scale-to-zero, traffic splitting, and GPU resource support for ML inference.
 
-- **Serving** manages stateless HTTP services with **scale-to-zero**, traffic splitting (blue-green/canary), and GPU/ML inference support via Kubernetes-native pod resources.
+- **Knative Eventing** implements a CloudEvents-compliant event mesh with loosely coupled components (Sources, Brokers, Triggers, Sinks) enabling asynchronous event routing and processing across heterogeneous systems.
 
-- **Eventing** routes CloudEvents between loosely coupled producers (sources) and consumers (sinks) using **Brokers**, **Triggers**, and **Channels**, decoupling event producers/consumers.
+- **Knative Functions** offers a simplified developer experience for building/deploying functions via standardized abstractions, leveraging Serving/Eventing while abstracting Kubernetes complexity.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T09:31:49.374218+05:30
+- Published: 2026-08-08T15:38:04.328279+05:30
 
 ## Related Tags
 

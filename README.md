@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-96%2C133-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-164%2C258-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--08-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **96,133 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **164,258 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,527</p>
-        <p><b>Active:</b> 17,018 | <b>Inactive:</b> 509</p>
+        <p><b>Resources tracked:</b> 18,545</p>
+        <p><b>Active:</b> 18,035 | <b>Inactive:</b> 510</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,194</p>
+        <p><b>Archive Files:</b> 69,323</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 96,133 files</p>
-        <p><b>Last Update:</b> 2026-08-08 15:11 IST</p>
+        <p><b>Total Vault Size:</b> 164,258 files</p>
+        <p><b>Last Update:</b> 2026-08-08 15:45 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Subresource Integrity - Security | MDN](ai/resources/subresource-integrity-security-mdn.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[owasp/www-project-ai-maturity-assessment](ai/resources/owasp-www-project-ai-maturity-assessment.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[OWASP Top 10:2025](ai/resources/owasp-top-10-2025.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[OWASP/Top10](ai/resources/owasp-top10.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[docker image build | Docker Docs](ai/resources/docker-image-build-docker-docs.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[What happens if an entire class of workers loses faith in their careers](ai/community/what-happens-if-an-entire-class-of-workers-loses-f.md)** • <kbd>+99 pts</kbd>
+- 🔼 **[Oracle bans AI-generated code from OpenJDK](ai/community/oracle-bans-ai-generated-code-from-openjdk.md)** • <kbd>+25 pts</kbd>
+- 🔼 **[Managing AI Coding Costs at Scale](ai/community/managing-ai-coding-costs-at-scale.md)** • <kbd>+21 pts</kbd>
+- 🔼 **[Firebase · GitHub](ai/resources/firebase-github.md)** • Rank: <kbd>+93</kbd>
+- 🔼 **[modular/CONTRIBUTING.md at main · modular/modular · GitHub](ai/rag/modular-modular.md)** • Rank: <kbd>+6844</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Flutter - Build apps for any screen](ai/resources/flutter-build-apps-for-any-screen.md)** • Score: `0`
+- 🆕 **[Codenames, tags, and build numbers | Android Open Source Project](ai/resources/codenames-tags-and-build-numbers-android-open-sour.md)** • Score: `0`
+- 🆕 **[Simple unification-based type inference for GADTs - Microsoft Research](ai/resources/simple-unification-based-type-inference-for-gadts.md)** • Score: `0`
+- 🆕 **[Chrome Extensions | Chrome for Developers](ai/resources/chrome-extensions-chrome-for-developers.md)** • Score: `0`
+- 🆕 **[The WebM Project | Developer Overview](ai/rag/the-webm-project-developer-overview.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Mythos social engineering AISI INC-2026-07-28-01](ai/community/mythos-social-engineering-aisi-inc-2026-07-28-01.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

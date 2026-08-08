@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-08-08T12:51:28.797976+05:30'
+collected_at: '2026-08-08T15:31:31.984171+05:30'
 published_at: '2026-08-07T17:28:51Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-08-08T12:51:28.797976+05:30'
-last_seen: '2026-08-08T12:51:28.797976+05:30'
-last_checked: '2026-08-08T12:51:28.797976+05:30'
+first_seen: '2026-08-08T15:31:31.984171+05:30'
+last_seen: '2026-08-08T15:31:31.984171+05:30'
+last_checked: '2026-08-08T15:31:31.984171+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework for AI Research Agents**: MLGym is a modular Python framework designed to standardize and accelerate AI research by enabling the development, training, and evaluation of AI research agents through a unified interface.
+- **Framework Overview**: MLGym is a Python-based framework designed to advance AI research agents by providing a modular and scalable environment for training, evaluating, and benchmarking reinforcement learning (RL) and machine learning (ML) algorithms.
 
-- **Benchmark Suite**: Includes a comprehensive benchmark suite to assess agent performance across diverse tasks, facilitating reproducible and comparable research in AI agent capabilities.
+- **Key Features**: The framework supports distributed training, hyperparameter optimization, and reproducible experimentation through a unified interface, enabling seamless integration with existing ML pipelines and tools like PyTorch and TensorFlow.
 
-- **Scalability & Extensibility**: Supports distributed training and evaluation, with pluggable components for custom algorithms, environments, and evaluation metrics, ensuring adaptability to evolving research needs.
+- **Benchmarking & Evaluation**: MLGym includes a standardized benchmark suite for AI research agents, facilitating fair comparisons across algorithms, tasks, and environments while supporting custom task definitions and evaluation metrics.
 
 ## Why It Matters
 

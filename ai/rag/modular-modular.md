@@ -1,70 +1,51 @@
 ---
-title: modular/modular
+title: modular/CONTRIBUTING.md at main · modular/modular · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/modular/modular
-collected_at: '2026-07-21T22:24:05.847136+05:30'
-published_at: '2026-07-21T16:34:53Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/modular/modular/blob/main/CONTRIBUTING.md
+published_at: '2026-08-08T15:39:15.107403+05:30'
+collected_at: '2026-08-08T15:39:15.107418+05:30'
 tags:
-- github-repo
-- hackernews
-- mojo
 - rag
 - reddit
-stars: 26595
-language: Mojo
+- web-crawled
+- workflows
 status: active
-license: NOASSERTION
-archived: false
-created_at: '2023-04-28T22:17:24Z'
-pushed_at: '2026-07-21T15:46:54Z'
 resource_id: github:modular/modular
-first_seen: '2026-07-21T22:24:05.847136+05:30'
-last_seen: '2026-07-21T22:24:05.847136+05:30'
-last_checked: '2026-07-21T22:24:05.847136+05:30'
+first_seen: '2026-08-08T15:39:15.107418+05:30'
+last_seen: '2026-08-08T15:39:15.107418+05:30'
+last_checked: '2026-08-08T15:39:15.107418+05:30'
 health_score: 100
 ---
 
-# modular/modular
+# modular/CONTRIBUTING.md at main · modular/modular · GitHub
 
 ## Summary
 
-- **Modular Platform**: Open-source framework featuring MAX (a high-level AI language) and Mojo (a systems programming language optimized for AI/ML workloads).
-- **Technical Stack**: Leverages Mojo for performance-critical operations while integrating with AI/ML ecosystems via MAX.
-- **Repository Activity**: Last updated July 2026, with 26.5K+ stars and 2.8K+ forks, indicating active community engagement.
+- **Contribution Workflow**: Non-trivial changes require an approved GitHub issue or proposal before PR submission; trivial fixes (typos, small bug fixes) can skip this step. Maintainers review and label issues within 10 days, with PRs receiving initial feedback within 3 weeks and subsequent reviews within 5 business days.
+
+- **PR Requirements**: Changes must be formatted using `./bazelw run format` or `pre-commit` hooks; validation includes running relevant tests, checking for regressions, and ensuring high-quality, well-scoped submissions. PRs must link to an approved issue and include a clear description.
+
+- **Review & Sync Process**: PRs undergo initial triage, subject-matter expert review, and internal sync via Copybara. Merged changes appear in nightly builds within 1–2 days; complex issues (e.g., compiler bugs) may cause delays, with status updates provided in the PR thread.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: modular
-- Stars: 26595
-- Forks: 2894
-- Language: Mojo
-- Topics: ai, language, machine-learning, max, modular, mojo, programming-language
-- Last Updated: 2026-07-21T16:34:53Z
-- License: NOASSERTION
-- Archived: No
-- Created At: 2023-04-28T22:17:24Z
-- Pushed At: 2026-07-21T15:46:54Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-08T15:39:15.107403+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- rag
+- reddit
+- web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.com/modular/modular
+Original source: https://github.com/modular/modular/blob/main/CONTRIBUTING.md

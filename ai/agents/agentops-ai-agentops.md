@@ -4,20 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-08-08T12:51:28.762683+05:30'
+collected_at: '2026-08-08T15:31:31.979713+05:30'
 published_at: '2026-08-07T21:44:28Z'
 tags:
 - agents
 - anthropic
 - benchmark
 - github-repo
-- hackernews
 - meta-ai
 - mistral
 - models
 - openai
 - python
-- workflows
 stars: 5758
 language: Python
 status: active
@@ -26,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-08-08T12:51:28.762683+05:30'
-last_seen: '2026-08-08T12:51:28.762683+05:30'
-last_checked: '2026-08-08T12:51:28.762683+05:30'
+first_seen: '2026-08-08T15:31:31.979713+05:30'
+last_seen: '2026-08-08T15:31:31.979713+05:30'
+last_checked: '2026-08-08T15:31:31.979713+05:30'
 health_score: 100
 ---
 
@@ -36,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Framework Integration**: Python SDK supporting monitoring, cost tracking, and benchmarking for AI agents across frameworks including CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI, with LLM compatibility for Anthropic, Groq, Mistral, Ollama, OpenAI, and others.
+- **Multi-framework integration**: Python SDK (`agentops`) supports monitoring, cost tracking, and benchmarking for AI agents across frameworks including CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
 
-- **Core Features**: Real-time agent monitoring, LLM cost estimation (token/usage-based), performance benchmarking, and evaluation metrics (e.g., latency, accuracy) with structured logging and telemetry.
+- **LLM & cost management**: Tracks LLM usage metrics (e.g., token costs, latency) and integrates with providers like OpenAI, Anthropic, Mistral, Groq, and Ollama.
 
-- **Technical Stack**: Python-based SDK with modular design for extensibility, supporting REST APIs for data ingestion, Prometheus/Grafana integration for metrics visualization, and async/await for high-throughput agent workflows.
+- **Evaluation & observability**: Provides benchmarking, evaluation metrics (`evals`), and real-time monitoring for agent performance and cost efficiency.
 
 ## Why It Matters
 

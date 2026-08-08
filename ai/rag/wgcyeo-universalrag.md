@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-08T12:50:18.641493+05:30'
+collected_at: '2026-08-08T15:30:21.862461+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-08T12:50:18.641493+05:30'
-last_seen: '2026-08-08T12:50:18.641493+05:30'
-last_checked: '2026-08-08T12:50:18.641493+05:30'
+first_seen: '2026-08-08T15:30:21.862461+05:30'
+last_seen: '2026-08-08T15:30:21.862461+05:30'
+last_checked: '2026-08-08T15:30:21.862461+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, entity-level) within a unified architecture.
+- **UniversalRAG Framework**: Introduces a retrieval-augmented generation (RAG) system designed to handle diverse modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans) within a unified architecture, leveraging modality-agnostic embeddings and retrieval mechanisms.
 
-- **ACL 2026 Oral Presentation**: Highlighted as an oral presentation at ACL 2026, indicating significant advancements in cross-modal retrieval and generation capabilities.
+- **Multimodal Retrieval Mechanism**: Implements a hierarchical retrieval strategy combining coarse-grained (document-level) and fine-grained (chunk/sentence-level) retrieval across modalities, with a unified relevance scoring function for cross-modal alignment.
 
-- **Modular Python Implementation**: Provides an open-source Python-based implementation with extensible components for custom retrieval strategies, fusion mechanisms, and generation pipelines across modalities.
+- **ACL 2026 Oral Contribution**: Proposes a novel training pipeline for modality- and granularity-agnostic RAG, including a dynamic modality routing module and a unified decoder for generating coherent responses across heterogeneous input sources.
 
 ## Why It Matters
 

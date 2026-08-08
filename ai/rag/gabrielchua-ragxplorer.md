@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-08T12:49:08.534560+05:30'
+collected_at: '2026-08-08T15:29:11.822026+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
-- models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-08T12:49:08.534560+05:30'
-last_seen: '2026-08-08T12:49:08.534560+05:30'
-last_checked: '2026-08-08T12:49:08.534560+05:30'
+first_seen: '2026-08-08T15:29:11.822026+05:30'
+last_seen: '2026-08-08T15:29:11.822026+05:30'
+last_checked: '2026-08-08T15:29:11.822026+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and performance assessment.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and performance evaluation.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (e.g., retrieval, generation) with Python-based dependencies for modular experimentation.
+- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically explore RAG components (e.g., retrieval, generation) and their interactions via visual graphs and metrics.
 
-- **Metrics & Debugging**: Supports visualization of retrieval quality, latency, and LLM response accuracy, with last update timestamped (Aug 2026) and 1.2K+ GitHub stars.
+- **Python-Based Modular Design**: Supports custom RAG workflows with modular Python components, facilitating integration with LLMs and vector databases while providing pre-built visualization tools for prompt/response analysis.
 
 ## Why It Matters
 

@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/firebase/
-published_at: '2026-08-08T12:54:16.061523+05:30'
-collected_at: '2026-08-08T12:54:16.061538+05:30'
+published_at: '2026-08-08T15:39:32.159696+05:30'
+collected_at: '2026-08-08T15:39:32.159712+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:firebase-github
-first_seen: '2026-08-08T12:54:16.061538+05:30'
-last_seen: '2026-08-08T12:54:16.061538+05:30'
-last_checked: '2026-08-08T12:54:16.061538+05:30'
+first_seen: '2026-08-08T15:39:32.159712+05:30'
+last_seen: '2026-08-08T15:39:32.159712+05:30'
+last_checked: '2026-08-08T15:39:32.159712+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- Firebase provides official SDKs for Android (Java/Kotlin), iOS (Swift/Objective-C), Web (TypeScript/JavaScript), Unity (C#), and C++ with open-source quickstart repositories demonstrating core integration patterns.
+- Firebase provides official SDKs for Android (Kotlin/Java), iOS (Swift/Objective-C), Web (TypeScript/JavaScript), Unity (C#), and C++ with open-source repositories like `firebase-android-sdk`, `firebase-ios-sdk`, `firebase-js-sdk`, and `firebase-cpp-sdk`.
 
-- Key repositories include `firebase-ios-sdk` (6.6k⭐, C++), `firebase-js-sdk` (5.1k⭐, TypeScript), `firebase-android-sdk` (2.5k⭐, Java), and `functions-samples` (12.2k⭐, JavaScript) for Cloud Functions examples.
+- The `functions-samples` repository contains 12.2k+ stars and demonstrates Cloud Functions for Firebase use cases, including authentication, Firestore, and Realtime Database integrations.
 
-- Firebase UI libraries like `firebaseui-web` (4.8k⭐) simplify authentication/UI components, while `firebase-tools-ui` offers a local-first emulator suite interface. All SDKs are Apache-2.0 licensed.
+- Firebase maintains language-specific quickstart repositories (e.g., `quickstart-android`, `quickstart-ios`) and UI libraries like `firebaseui-web` (4.8k+ stars) for simplifying authentication flows.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T12:54:16.061523+05:30
+- Published: 2026-08-08T15:39:32.159696+05:30
 
 ## Related Tags
 

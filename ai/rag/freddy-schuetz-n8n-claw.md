@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-08T12:51:53.818864+05:30'
+collected_at: '2026-08-08T15:31:56.949421+05:30'
 published_at: '2026-08-08T04:28:08Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - scripts
 - shell
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-06T12:31:03Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-08T12:51:53.818864+05:30'
-last_seen: '2026-08-08T12:51:53.818864+05:30'
-last_checked: '2026-08-08T12:51:53.818864+05:30'
+first_seen: '2026-08-08T15:31:56.949421+05:30'
+last_seen: '2026-08-08T15:31:56.949421+05:30'
+last_checked: '2026-08-08T15:31:56.949421+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **OpenClaw-inspired AI Agent**: Autonomous agent framework built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Capabilities**: Proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates tools like Crawl4AI for scraping, SearXNG for search, and Supabase for storage.
+- **Proactive Task & Media Management**: Supports proactive task scheduling, media understanding capabilities, and self-hosted deployment via a single setup script, leveraging Supabase for data persistence.
 
-- **Technical Stack**: Shell-based repository with dependencies on n8n, MCP, and frameworks like OpenClaw; supports AI agent development with modular components and scalable sub-agent delegation.
+- **Modular Tooling**: Integrates `crawl4ai` for web scraping, `SearXNG` for search functionality, and MCP templates for extensible Skills, enabling a self-contained, OpenClaw-compatible AI agent system.
 
 ## Why It Matters
 

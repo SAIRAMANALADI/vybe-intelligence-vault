@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/csmetrics/influencemap
-collected_at: '2026-08-03T09:33:08.177920+05:30'
-published_at: '2026-07-22T22:58:40Z'
+collected_at: '2026-08-08T15:34:39.290363+05:30'
+published_at: '2026-08-07T01:09:55Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 66
+stars: 67
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2017-12-01T00:52:58Z'
-pushed_at: '2026-07-10T00:49:59Z'
+pushed_at: '2026-08-05T00:16:44Z'
 resource_id: github:csmetrics/influencemap
-first_seen: '2026-08-03T09:33:08.177920+05:30'
-last_seen: '2026-08-03T09:33:08.177920+05:30'
-last_checked: '2026-08-03T09:33:08.177920+05:30'
+first_seen: '2026-08-08T15:34:39.290363+05:30'
+last_seen: '2026-08-08T15:34:39.290363+05:30'
+last_checked: '2026-08-08T15:34:39.290363+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ health_score: 100
 
 - **Purpose**: Constructs maps of intellectual influence from publication metadata using Python-based Jupyter Notebooks.
 - **Methodology**: Leverages academic-data processing techniques to analyze and visualize influence networks.
-- **Implementation**: Open-source repository with 66 stars and 17 forks, last updated July 22, 2026.
+- **Tech Stack**: Primarily implemented in Python, utilizing Jupyter Notebooks for interactive analysis and visualization.
 
 ## Why It Matters
 
@@ -39,14 +39,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: csmetrics
-- Stars: 66
+- Stars: 67
 - Forks: 17
 - Language: Jupyter Notebook
 - Topics: academic-data, python
-- Last Updated: 2026-07-22T22:58:40Z
+- Last Updated: 2026-08-07T01:09:55Z
 - Archived: No
 - Created At: 2017-12-01T00:52:58Z
-- Pushed At: 2026-07-10T00:49:59Z
+- Pushed At: 2026-08-05T00:16:44Z
 
 ## Possible Use Cases
 

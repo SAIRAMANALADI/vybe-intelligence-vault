@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-08T12:50:13.700468+05:30'
+collected_at: '2026-08-08T15:30:16.880288+05:30'
 published_at: '2026-08-07T04:51:50Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-08T12:50:13.700468+05:30'
-last_seen: '2026-08-08T12:50:13.700468+05:30'
-last_checked: '2026-08-08T12:50:13.700468+05:30'
+first_seen: '2026-08-08T15:30:16.880288+05:30'
+last_seen: '2026-08-08T15:30:16.880288+05:30'
+last_checked: '2026-08-08T15:30:16.880288+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent roles for ontology and graph construction.
+- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory mechanisms within a multi-agent architecture to enhance Graph Retrieval-Augmented Generation (GraphRAG), enabling dynamic knowledge integration and reasoning over graph-structured data.
 
-- **Graph & Ontology Construction**: Dynamically builds and integrates knowledge graphs with ontologies to enhance retrieval-augmented generation, enabling structured memory storage and query optimization.
+- **Graph Construction & Ontology Integration**: Implements an ontology-driven approach to graph construction, facilitating structured knowledge representation and enabling efficient retrieval and reasoning in RAG systems.
 
-- **Python-Based Framework**: Developed in Python, the repository integrates agent-memory mechanisms with GraphRAG pipelines, optimized for scalability and modularity in knowledge-intensive tasks.
+- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability and adaptability, supporting multi-agent collaboration and memory-based knowledge augmentation.
 
 ## Why It Matters
 

@@ -1,6 +1,6 @@
 ---
 title: Unlocking the power of unstructured data with RAG - The GitHub Blog
-archive_category: automation-workflows
+archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
@@ -11,10 +11,12 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - reddit
 - scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -24,7 +26,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Automation Workflows`
+- Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
@@ -33,15 +35,17 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Security Enhancements**: Nicole Choi discusses GitHub's latest security improvements in GitHub Actions, focusing on dependency scanning, secret scanning, and code scanning integrations to mitigate supply chain risks.
-- **Automated Dependency Management**: Highlights GitHub's automated dependency management features, including Dependabot updates and security advisories, to streamline vulnerability patching and reduce manual intervention.
-- **Policy-as-Code Integration**: Introd
+- **GitHub Actions Workflow Optimization**: Nicole Choi contributes to GitHub's technical documentation and best practices for GitHub Actions, focusing on workflow efficiency, security, and scalability in CI/CD pipelines.
+
+- **Open Source Advocacy**: Active in promoting open-source contributions, with a focus on improving developer tooling, automation, and collaborative workflows within the GitHub ecosystem.
+
+- **Technical Writing & Community Engagement**: Authored GitHub Blog posts and guides o
 
 ## Use Cases
 
-- Local cron scheduling
-- n8n pipeline setups
-- OS task automations
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
 
 ## Source
 

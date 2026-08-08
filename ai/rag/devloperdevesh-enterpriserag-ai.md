@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-08T12:49:58.643157+05:30'
+collected_at: '2026-08-08T15:30:01.845226+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-08T12:49:58.643157+05:30'
-last_seen: '2026-08-08T12:49:58.643157+05:30'
-last_checked: '2026-08-08T12:49:58.643157+05:30'
+first_seen: '2026-08-08T15:30:01.845226+05:30'
+last_seen: '2026-08-08T15:30:01.845226+05:30'
+last_checked: '2026-08-08T15:30:01.845226+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native components and eBPF (Extended Berkeley Packet Filter) for low-overhead runtime monitoring and enforcement.
-
-- **Enterprise-Grade RAG Pipeline**: Deploys a Retrieval-Augmented Generation (RAG) system with FastAPI backend, TypeScript frontend, and vector database integration for scalable, secure AI workloads in SaaS environments.
-
-- **Governance & Compliance Focus**: Designed for enterprise security and regulatory compliance, leveraging vector DBs and GenAI to enforce data governance policies across AI agent interactions.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement, optimized for Linux environments.
+- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, integrating vector databases for scalable GenAI workloads in SaaS contexts.
+- **Governance & Security Focus**: Enforces real-time policy compliance and threat detection for AI agents via a mesh architecture, combining LLM-driven governance with high-performance backend components.
 
 ## Why It Matters
 

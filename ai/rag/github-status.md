@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://githubstatus.com/
-published_at: '2026-08-08T12:54:31.246210+05:30'
-collected_at: '2026-08-08T12:54:31.246221+05:30'
+source_url: https://www.githubstatus.com
+published_at: '2026-08-08T15:38:31.171520+05:30'
+collected_at: '2026-08-08T15:38:31.171536+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-08T12:54:31.246221+05:30'
-last_seen: '2026-08-08T12:54:31.246221+05:30'
-last_checked: '2026-08-08T12:54:31.246221+05:30'
+first_seen: '2026-08-08T15:38:31.171536+05:30'
+last_seen: '2026-08-08T15:38:31.171536+05:30'
+last_checked: '2026-08-08T15:38:31.171536+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime (90-day metrics) for GitHub services (e.g., Git Operations 99.99%, Actions 99.42%, API Requests 99.91%).
-- **Incident Resolution (Aug 6–7, 2026)**: Actions Runner Controller (ARC) runners stuck in idle state; root cause involved invalid job assignments and self-hosted runner failures, mitigated via queue draining and fix deployment.
-- **Notification Channels**: Supports email, SMS (global), Slack, and webhook-based incident updates with privacy-compliant authentication (reCAPTCHA, Atlassian/GitHub policies).
+- **GitHub Actions Incident (Aug 6-7, 2026)**: A major outage affected GitHub Actions, Pages, Copilot services, and Enterprise Importer migrations due to runners being assigned invalid jobs and self-hosted runners failing to recover, causing workflow failures, queued jobs, and throttled webhook triggers (~15% throughput). Root cause involved Kubernetes ARC (Actions Runner Controller) pods stuck in idle states, with manual recovery steps required (e.g., `kubectl` pod deletion or ARC redeployment).
+
+- **Service Uptime Metrics**: GitHub’s status page reports 90-day uptime for core services: Git Operations (99.99%), Webhooks (100%), API Requests (99.91%), Issues/PRs (99.98%), Actions (99.42%), Packages (100%), Pages (99.64%), Copilot (99.93%), and Codespaces (99.97%). Regional status pages (AU/EU/JP/US) provide localized service monitoring.
+
+- **Notification & Integration Channels**: GitHub Status supports multi-channel incident notifications via email, SMS (global), Slack, and webhooks. Subscribers receive real-time updates for incident creation/resolution, with OTP-based authentication for security. Historical uptime data is available via Atom/RSS feeds or the status page’s 90-day uptime dashboard.
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T12:54:31.246210+05:30
+- Published: 2026-08-08T15:38:31.171520+05:30
 
 ## Related Tags
 
@@ -56,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://githubstatus.com/
+Original source: https://www.githubstatus.com

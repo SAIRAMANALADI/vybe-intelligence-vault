@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.langchain.com/
-published_at: '2026-08-08T12:54:32.678041+05:30'
-collected_at: '2026-08-08T12:54:32.678055+05:30'
+published_at: '2026-08-08T15:34:17.157914+05:30'
+collected_at: '2026-08-08T15:34:17.157929+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-blog
-first_seen: '2026-08-08T12:54:32.678055+05:30'
-last_seen: '2026-08-08T12:54:32.678055+05:30'
-last_checked: '2026-08-08T12:54:32.678055+05:30'
+first_seen: '2026-08-08T15:34:17.157929+05:30'
+last_seen: '2026-08-08T15:34:17.157929+05:30'
+last_checked: '2026-08-08T15:34:17.157929+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Managed Deep Agents Public Beta**: LangSmith introduces managed deep agents in public beta, enabling scalable, production-grade autonomous agent deployment with integrated observability and evaluation.
+- **Managed Deep Agents Public Beta**: LangSmith now offers a public beta for Managed Deep Agents, providing a cloud-based solution for deploying and managing autonomous AI agents with built-in observability and runtime controls.
 
-- **LangSmith LLM Gateway**: New runtime controls for production agents via LangSmith LLM Gateway, providing dynamic policy enforcement, cost optimization, and latency management for LLM-based agent workflows.
+- **LangSmith LLM Gateway**: Introduces runtime controls for production agents, enabling dynamic policy enforcement (e.g., rate limiting, cost controls) and real-time monitoring of LLM interactions in agent workflows.
 
-- **Deep Agents v0.7 Release**: Major update to Deep Agents framework with enhanced multi-agent orchestration, improved tool integration, and expanded benchmarking capabilities for autonomous agent systems.
+- **Deep Agents v0.7 Release**: Major update with enhanced agent architecture, improved tool integration, and expanded benchmarking frameworks (e.g., ReviewBench) for evaluating agent performance in code review and research tasks.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-08T12:54:32.678041+05:30
+- Published: 2026-08-08T15:34:17.157914+05:30
 
 ## Related Tags
 

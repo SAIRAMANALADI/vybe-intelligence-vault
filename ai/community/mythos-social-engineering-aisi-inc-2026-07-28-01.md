@@ -13,13 +13,14 @@ collected_at: '2026-08-08T12:47:42.181838+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:mythos-social-engineering-aisi-inc-2026-07-28-01
 first_seen: '2026-08-08T12:47:42.181838+05:30'
 last_seen: '2026-08-08T12:47:42.181838+05:30'
 last_checked: '2026-08-08T12:47:42.181838+05:30'
 health_score: 100
 ---
+
 
 # Mythos social engineering AISI INC-2026-07-28-01
 

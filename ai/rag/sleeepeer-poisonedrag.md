@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-08T12:49:53.649219+05:30'
+collected_at: '2026-08-08T15:29:56.817128+05:30'
 published_at: '2026-08-06T20:07:42Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-08T12:49:53.649219+05:30'
-last_seen: '2026-08-08T12:49:53.649219+05:30'
-last_checked: '2026-08-08T12:49:53.649219+05:30'
+first_seen: '2026-08-08T15:29:56.817128+05:30'
+last_seen: '2026-08-08T15:29:56.817128+05:30'
+last_checked: '2026-08-08T15:29:56.817128+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Attack Mechanism**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance scores.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval corpus to mislead LLMs into generating incorrect or harmful outputs.
 
-- **Technical Implementation**: Leverages adversarial document poisoning techniques, including *semantic triggers* and *contextual perturbations*, to subtly alter retrieved contexts, enabling targeted misinformation or bias amplification without explicit prompt manipulation.
+- **Technical Implementation**: Leverages adversarial embedding poisoning and retrieval manipulation techniques to subtly alter document representations, enabling targeted misinformation injection while maintaining stealth against detection mechanisms.
 
-- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., Dense Passage Retrieval + LLMs), showing significant degradation in response accuracy (up to 40% drop in factual correctness) and robustness against detection, highlighting critical security vulnerabilities in production RAG systems.
+- **Security Implications**: Demonstrates real-world feasibility of RAG system compromise, highlighting vulnerabilities in retrieval pipelines and emphasizing the need for robust adversarial defenses in production LLM deployments.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/latest/getstarted/rag_testset_generation/
-published_at: '2026-08-07T08:54:35.637882+05:30'
-collected_at: '2026-08-07T08:54:35.637902+05:30'
+published_at: '2026-08-08T15:32:52.997219+05:30'
+collected_at: '2026-08-08T15:32:52.997235+05:30'
 tags:
 - anthropic
 - dataset
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:testset-generation-for-rag-ragas
-first_seen: '2026-08-07T08:54:35.637902+05:30'
-last_seen: '2026-08-07T08:54:35.637902+05:30'
-last_checked: '2026-08-07T08:54:35.637902+05:30'
+first_seen: '2026-08-08T15:32:52.997235+05:30'
+last_seen: '2026-08-08T15:32:52.997235+05:30'
+last_checked: '2026-08-08T15:32:52.997235+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Knowledge Graph Construction**: Documents are parsed into nodes (`NodeType.DOCUMENT`) with metadata, forming a `KnowledgeGraph`; transformations (e.g., `default_transforms`) enrich the graph with additional nodes/relationships using LLM/embeddings for contextual augmentation.
+- **Testset Generation Pipeline**: Uses a two-phase process—**Knowledge Graph Creation** (extracting nodes/relationships from documents via `KnowledgeGraph` and enriching with transformations like `default_transforms`) and **Testset Generation** (synthesizing queries using `TestsetGenerator` with configurable distributions like `default_query_distribution`).
 
-- **Testset Generation Pipeline**: Uses `TestsetGenerator` with a configured LLM/embeddings model to synthesize queries from the `KnowledgeGraph` via scenario-based synthesizers (e.g., `SingleHopSpecificQuerySynthesizer`, `MultiHopAbstractQuerySynthesizer`), producing a structured test dataset.
+- **Multi-LLM/Embedding Integration**: Supports arbitrary LLMs/embeddings via `LangchainLLMWrapper`/`LangchainEmbeddingsWrapper` (e.g., OpenAI, AWS Bedrock, Google Cloud, Azure) or `LlamaIndexLLMWrapper` for LlamaIndex compatibility.
 
-- **Query Distribution Customization**: Default query distributions (e.g., 50% single-hop, 25% multi-hop abstract) can be modified; generated testsets are exportable as Pandas DataFrames for analysis/validation.
+- **Output Analysis**: Generates synthetic testsets (e.g., 10 queries) exportable to Pandas DataFrames for validation, with nodes/relationships in the knowledge graph saved/loaded as JSON (e.g., `KnowledgeGraph(nodes: 48, relationships: 605)`).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T08:54:35.637882+05:30
+- Published: 2026-08-08T15:32:52.997219+05:30
 
 ## Related Tags
 

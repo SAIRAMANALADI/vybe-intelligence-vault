@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-08T12:49:43.628799+05:30'
+collected_at: '2026-08-08T15:29:46.824485+05:30'
 published_at: '2026-08-06T17:19:02Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-08T12:49:43.628799+05:30'
-last_seen: '2026-08-08T12:49:43.628799+05:30'
-last_checked: '2026-08-08T12:49:43.628799+05:30'
+first_seen: '2026-08-08T15:29:46.824485+05:30'
+last_seen: '2026-08-08T15:29:46.824485+05:30'
+last_checked: '2026-08-08T15:29:46.824485+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG (Graph Retrieval-Augmented Generation) models, including datasets, metrics, and protocols for assessing performance across diverse tasks.
-
-- **Technical Scope**: Focuses on graph-based retrieval methods in RAG systems, analyzing when and how graph structures (e.g., knowledge graphs, document graphs) improve generation quality compared to traditional vector-based approaches.
-
-- **Implementation**: Open-source Python library with modular components for graph construction, retrieval strategies, and evaluation pipelines, designed for extensibility and reproducibility in research.
+- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG models, enabling comparative analysis of performance across different graph-based RAG architectures.
+- **Dataset & Analysis**: Includes curated datasets and a comprehensive study on optimal use cases for integrating graphs in RAG systems, with findings published in ICLR'26.
+- **Technical Implementation**: Implemented in Python, supporting modular evaluation of graph retrieval strategies, with active maintenance and updates as of August 2026.
 
 ## Why It Matters
 

@@ -20,12 +20,12 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
-- [modelscope/evalscope](https://github.com/modelscope/evalscope)
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
 - [brmson/dataset-sts](https://github.com/brmson/dataset-sts)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch)
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
+- [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-08-08 13:05 IST*
+*Last updated: 2026-08-08 15:45 IST*

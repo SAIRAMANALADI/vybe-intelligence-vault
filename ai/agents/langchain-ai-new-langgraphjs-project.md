@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/new-langgraphjs-project
-collected_at: '2026-08-08T12:52:23.871790+05:30'
+collected_at: '2026-08-08T15:32:26.990992+05:30'
 published_at: '2026-08-03T22:33:00Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - typescript
 - workflows
 stars: 73
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-09-17T00:58:59Z'
 pushed_at: '2026-08-03T22:33:00Z'
 resource_id: github:langchain-ai/new-langgraphjs-project
-first_seen: '2026-08-08T12:52:23.871790+05:30'
-last_seen: '2026-08-08T12:52:23.871790+05:30'
-last_checked: '2026-08-08T12:52:23.871790+05:30'
+first_seen: '2026-08-08T15:32:26.990992+05:30'
+last_seen: '2026-08-08T15:32:26.990992+05:30'
+last_checked: '2026-08-08T15:32:26.990992+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,15 @@ health_score: 100
 
 ## Summary
 
-- **Project Type**: Empty starter template for LangGraph.js, a TypeScript-based framework for building stateful, multi-actor workflows.
-- **Metadata**: 73 stars, 89 forks, last updated on 2026-08-03; categorized under `langgraph`, `langgraph-js`, and `langgraph-template`.
-- **Purpose**: Provides a minimal scaffold to initialize LangGraph.js projects with preconfigured dependencies and project structure.
+- **Template Structure**: Empty starter repository for LangGraph.js projects, providing a minimal foundation for building LangGraph-based applications in TypeScript.
+
+- **Metadata**:
+  - **Stars**: 73
+  - **Forks**: 89
+  - **Last Updated**: 2026-08-03T22:33:00Z
+  - **Topics**: `langgraph`, `langgraph-js`, `langgraph-template`
+
+- **Technical Stack**: TypeScript-based, designed for LangGraph.js workflows and integrations.
 
 ## Why It Matters
 

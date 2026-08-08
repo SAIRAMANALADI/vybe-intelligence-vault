@@ -4,19 +4,18 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://influencemap.cmlab.dev/
-published_at: '2026-08-05T17:07:51.198651+05:30'
-collected_at: '2026-08-05T17:07:51.198664+05:30'
+published_at: '2026-08-08T15:34:00.259401+05:30'
+collected_at: '2026-08-08T15:34:00.259414+05:30'
 tags:
 - dataset
 - paper
-- reddit
 - semantic-scholar
 - web-crawled
 status: active
 resource_id: blog:influenceflower
-first_seen: '2026-08-05T17:07:51.198664+05:30'
-last_seen: '2026-08-05T17:07:51.198664+05:30'
-last_checked: '2026-08-05T17:07:51.198664+05:30'
+first_seen: '2026-08-08T15:34:00.259414+05:30'
+last_seen: '2026-08-08T15:34:00.259414+05:30'
+last_checked: '2026-08-08T15:34:00.259414+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Visualization & Metrics**: Influence Flower uses blue arcs for incoming influence (thickness = references made) and red arcs for outgoing influence (thickness = citations received), with node sizes/colors reflecting influence volume and composition.
+- **Visualization Mechanism**: Influence Flower uses colored arcs (blue for incoming references, red for outgoing citations) and node attributes (size/color) to represent citation influence dynamics between academic entities (papers, authors, institutions, topics), with thickness proportional to influence magnitude.
 
-- **Influence Scoring**: Scores are computed from citation flows, normalized by cited entities to prevent bias; red edges indicate center-to-outer influence, blue edges indicate outer-to-center influence, and node color/size reflect influence imbalance and magnitude.
+- **Influence Scoring**: Influence scores are computed via normalized citation flows, where edge thickness reflects influence strength, node color indicates net influence direction (blue = entity influenced center more, red = center influenced entity more), and size denotes total influence volume.
 
-- **Data Pipeline**: Uses OpenAlex (268M papers, 2.64B citations) for influence computation, replacing MAG; discrepancies may arise from API vs. snapshot mismatches or indexing delays.
+- **Data Pipeline**: Uses OpenAlex dataset (268M papers, 103M authors, 2.64B citations) for scoring, with normalization preventing bias from multi-author papers; discrepancies may arise from API vs. snapshot inconsistencies.
 
 ## Why It Matters
 
@@ -38,13 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T17:07:51.198651+05:30
+- Published: 2026-08-08T15:34:00.259401+05:30
 
 ## Related Tags
 
 - dataset
 - paper
-- reddit
 - semantic-scholar
 - web-crawled
 

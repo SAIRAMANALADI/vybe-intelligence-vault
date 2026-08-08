@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-08-05T17:07:03.799520+05:30'
-collected_at: '2026-08-05T17:07:03.799535+05:30'
+published_at: '2026-08-08T15:33:07.980657+05:30'
+collected_at: '2026-08-08T15:33:07.980669+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-08-05T17:07:03.799535+05:30'
-last_seen: '2026-08-05T17:07:03.799535+05:30'
-last_checked: '2026-08-05T17:07:03.799535+05:30'
+first_seen: '2026-08-08T15:33:07.980669+05:30'
+last_seen: '2026-08-08T15:33:07.980669+05:30'
+last_checked: '2026-08-08T15:33:07.980669+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable embedding dimensions (default: 1536/3072) via the `dimensions` parameter, enabling trade-offs between performance and resource usage.
-
-- **Embedding Mechanics**: Text embeddings are vector representations (floating-point lists) where cosine distance measures semantic relatedness; generated via API calls (e.g., `openai.embeddings.create`) and billed per input token.
-
-- **Use Cases & Optimization**: Embeddings enable search, clustering, recommendations, and classification; dimension reduction (e.g., to 256) via `dimensions` or post-processing (with L2 normalization) reduces storage/compute costs without significant performance loss.
+- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer improved multilingual performance, lower costs, and configurable embedding dimensions (default: 1536/3072) with support for dynamic dimensionality reduction via API parameter.
+- **Embedding Mechanics**: Text embeddings are floating-point vectors measuring semantic relatedness via vector distance (e.g., cosine similarity), enabling applications like search, clustering, and anomaly detection; token-based pricing applies.
+- **Dimensionality Optimization**: Embedding vectors can be truncated (e.g., to 256D) using the `dimensions` parameter without significant loss of semantic fidelity, reducing storage/compute overhead while maintaining performance (e.g., `text-embedding-3-large` at 256D outperforms untruncated `text-embedding-ada-002` at 1536D).
 
 ## Why It Matters
 
@@ -40,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T17:07:03.799520+05:30
+- Published: 2026-08-08T15:33:07.980657+05:30
 
 ## Related Tags
 

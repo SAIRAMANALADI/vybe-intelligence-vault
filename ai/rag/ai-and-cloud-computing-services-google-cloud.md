@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cloud.google.com
-published_at: '2026-07-20T22:25:23.124836+05:30'
-collected_at: '2026-07-20T22:25:23.124851+05:30'
+published_at: '2026-08-08T15:36:04.813259+05:30'
+collected_at: '2026-08-08T15:36:04.813278+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-and-cloud-computing-services-google-cloud
-first_seen: '2026-07-20T22:25:23.124851+05:30'
-last_seen: '2026-07-20T22:25:23.124851+05:30'
-last_checked: '2026-07-20T22:25:23.124851+05:30'
+first_seen: '2026-08-08T15:36:04.813278+05:30'
+last_seen: '2026-08-08T15:36:04.813278+05:30'
+last_checked: '2026-08-08T15:36:04.813278+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AI Threat Defense**: Google Cloud introduces *AI Threat Defense* to proactively counter adversarial threats using AI-driven security analytics, integrating with Mandiant threat intelligence for real-time attack vector detection and mitigation.
+- **Gemini Enterprise Agent Platform**: Fully-managed AI development platform for building, orchestrating, and governing AI agents with access to Agent Studio and 200+ foundation models.
 
-- **Gemini Enterprise Agent Platform**: A fully-managed platform for developing, orchestrating, and governing AI agents, offering access to *Agent Studio* and 200+ foundation models, enabling rapid deployment of multi-agent systems with governance controls.
+- **AI Threat Defense**: Introduces agentic defense mechanisms to proactively detect, analyze, and mitigate AI-specific threats, leveraging Google’s threat intelligence and Mandiant expertise.
 
-- **AI Infrastructure Scaling**: Google Cloud’s *AI Hypercomputer* architecture scales for the "agentic era," leveraging custom TPUs/GPUs (e.g., Cloud TPU v5e) and Google Axion processors (Arm-based CPUs) to optimize performance for large-scale generative AI workloads.
+- **AI Infrastructure Scaling**: Google AI Hypercomputer architecture enables scaling for agentic AI workloads, integrating custom TPUs, GPUs, and Arm-based Axion processors for high-performance compute.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:25:23.124836+05:30
+- Published: 2026-08-08T15:36:04.813259+05:30
 
 ## Related Tags
 

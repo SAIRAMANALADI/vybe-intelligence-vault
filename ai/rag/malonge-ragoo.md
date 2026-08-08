@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/malonge/RaGOO
-collected_at: '2026-08-08T12:48:28.564202+05:30'
+collected_at: '2026-08-08T15:28:31.715818+05:30'
 published_at: '2026-06-18T17:12:07Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 173
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2018-02-01T16:24:07Z'
 pushed_at: '2021-05-30T18:18:23Z'
 resource_id: github:malonge/ragoo
-first_seen: '2026-08-08T12:48:28.564202+05:30'
-last_seen: '2026-08-08T12:48:28.564202+05:30'
-last_checked: '2026-08-08T12:48:28.564202+05:30'
+first_seen: '2026-08-08T15:28:31.715818+05:30'
+last_seen: '2026-08-08T15:28:31.715818+05:30'
+last_checked: '2026-08-08T15:28:31.715818+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RaGOO**: A discontinued Python-based tool for genome assembly and scaffolding, previously hosted on GitHub with 173 stars and 28 forks.
-- **Deprecation Notice**: Officially unsupported; users are directed to migrate to **RagTag** (https://github.com/malonge/RagTag) for continued development.
-- **Domain**: Specialized in bioinformatics, focusing on genome assembly and scaffolding workflows.
+- **Deprecation Notice**: RaGOO is no longer supported; users are directed to use its successor, **RagTag** ([GitHub](https://github.com/malonge/RagTag)).
+- **Technical Scope**: Designed for **bioinformatics**, specifically **genome assembly** and **scaffolding** in Python.
+- **Metadata**: 173 stars, 28 forks; last updated **2026-06-18**.
 
 ## Why It Matters
 

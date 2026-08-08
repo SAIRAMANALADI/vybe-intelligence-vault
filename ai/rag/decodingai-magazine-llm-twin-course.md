@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-08T12:49:28.670270+05:30'
+collected_at: '2026-08-08T15:29:31.832867+05:30'
 published_at: '2026-08-06T18:43:03Z'
 tags:
 - github-repo
 - python
 - rag
+- scripts
+- workflows
 stars: 4382
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-08T12:49:28.670270+05:30'
-last_seen: '2026-08-08T12:49:28.670270+05:30'
-last_checked: '2026-08-08T12:49:28.670270+05:30'
+first_seen: '2026-08-08T15:29:31.832867+05:30'
+last_seen: '2026-08-08T15:29:31.832867+05:30'
+last_checked: '2026-08-08T15:29:31.832867+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Overview**: Provides a hands-on guide to building production-ready **LLM & RAG systems** using **LLMOps best practices**, including **12 structured lessons** and **source code** for end-to-end deployment.
-- **Tech Stack**: Integrates **Python**, **AWS**, **Pulumi (IaC)**, **Bytewax**, **Qdrant**, **Comet-ML**, **Qwak**, and **Superlinked** for scalable ML infrastructure and vector search.
-- **Key Topics**: Covers **LLMOps**, **ML system design**, **Docker**, **MLOps**, and **Generative AI**, with a focus on **infrastructure-as-code** and **production-grade RAG pipelines**.
+- **Course Structure**: Provides a free, hands-on curriculum for building production-ready LLM and RAG systems using LLMOps best practices, including 12+ lessons with source code and infrastructure-as-code (IaC) templates (Pulumi, Docker).
+
+- **Tech Stack**: Integrates AWS, Qdrant (vector DB), Bytewax (stream processing), Comet-ML (experiment tracking), and Qwak (MLOps platform) for scalable, end-to-end generative AI system deployment.
+
+- **Focus Areas**: Covers ML system design, LLM optimization, and production-grade MLOps workflows, emphasizing practical implementation of RAG pipelines and infrastructure automation.
 
 ## Why It Matters
 

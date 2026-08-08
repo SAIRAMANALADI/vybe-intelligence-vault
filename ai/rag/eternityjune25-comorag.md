@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-08T12:50:13.654805+05:30'
+collected_at: '2026-08-08T15:30:16.872013+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-08T12:50:13.654805+05:30'
-last_seen: '2026-08-08T12:50:13.654805+05:30'
-last_checked: '2026-08-08T12:50:13.654805+05:30'
+first_seen: '2026-08-08T15:30:16.872013+05:30'
+last_seen: '2026-08-08T15:30:16.872013+05:30'
+last_checked: '2026-08-08T15:30:16.872013+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long-form narrative reasoning with structured memory retrieval.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long-form narrative reasoning.
 
-- **Memory-Organized RAG**: Implements hierarchical memory modules (short-term, long-term, and episodic) to dynamically organize and retrieve contextual information, improving coherence and reasoning in extended dialogues or narratives.
+- **Stateful Reasoning**: Implements dynamic memory retrieval and organization to maintain contextual coherence across extended interactions, addressing limitations in traditional RAG systems.
 
-- **AAAI 2026 Poster**: Presented as a cutting-edge approach for stateful reasoning, leveraging Python-based implementation with optimized retrieval mechanisms for scalable narrative understanding.
+- **AAAI 2026 Contribution**: Proposes a novel approach to long narrative reasoning, validated through empirical benchmarks and theoretical analysis, positioning it as a significant advancement in AI memory systems.
 
 ## Why It Matters
 

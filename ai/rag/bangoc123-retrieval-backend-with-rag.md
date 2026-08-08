@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-08T12:49:23.600977+05:30'
+collected_at: '2026-08-08T15:29:26.808637+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- models
 - python
 - rag
-- workflows
 stars: 265
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-08T12:49:23.600977+05:30'
-last_seen: '2026-08-08T12:49:23.600977+05:30'
-last_checked: '2026-08-08T12:49:23.600977+05:30'
+first_seen: '2026-08-08T15:29:26.808637+05:30'
+last_seen: '2026-08-08T15:29:26.808637+05:30'
+last_checked: '2026-08-08T15:29:26.808637+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically tailored for Vietnamese language processing, leveraging Python-based pipelines.
+- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) tailored for Vietnamese language processing, leveraging Python-based pipelines.
 
-- **Key Components**: Includes vector databases (e.g., FAISS, Chroma), embedding models (e.g., `vinai/phobert-base`), and retrieval-augmented generation workflows optimized for Vietnamese text.
+- **Modular Architecture**: Features a structured backend with components for document retrieval, embedding generation (likely using models like `sentence-transformers` or `vinai/phobert`), and integration with vector databases (e.g., FAISS, Chroma, or Weaviate).
 
-- **Performance & Scalability**: Designed for efficient document retrieval and generation, with modular architecture supporting customization for Vietnamese NLP tasks (e.g., QA, summarization). Last updated July 2026.
+- **Evaluation & Optimization**: Includes scripts for benchmarking retrieval quality (e.g., MRR, Recall@K) and fine-tuning embedding models on Vietnamese datasets, with support for hybrid search (dense + sparse retrieval).
 
 ## Why It Matters
 

@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-08T12:50:13.685666+05:30'
+collected_at: '2026-08-08T15:30:16.914743+05:30'
 published_at: '2026-08-06T15:31:51Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-08T12:50:13.685666+05:30'
-last_seen: '2026-08-08T12:50:13.685666+05:30'
-last_checked: '2026-08-08T12:50:13.685666+05:30'
+first_seen: '2026-08-08T15:30:16.914743+05:30'
+last_seen: '2026-08-08T15:30:16.914743+05:30'
+last_checked: '2026-08-08T15:30:16.914743+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework optimizing large-scale corpus retrieval via linear graph traversal, reducing computational overhead compared to traditional graph-based RAG methods.
+- **LinearRAG Framework**: Introduces a linear graph-based Retrieval-Augmented Generation (RAG) method for large-scale corpora, optimizing retrieval efficiency and scalability compared to traditional graph-based RAG approaches.
 
-- Leverages **linear graph structures** to enable efficient multi-hop reasoning and retrieval, scaling to large corpora while maintaining low latency and high relevance in LLM-generated responses.
+- **ICLR 2026 Contribution**: Proposes a novel linear graph structure to represent document relationships, enabling faster and more efficient retrieval while maintaining or improving generation quality in LLMs.
 
-- Achieves state-of-the-art performance on **ICLR 2026 benchmarks**, demonstrating significant improvements in retrieval accuracy and generation quality over existing RAG baselines.
+- **Implementation**: Provides an open-source Python implementation with modular components for graph construction, retrieval, and integration with LLMs, supporting scalability for large document collections.
 
 ## Why It Matters
 

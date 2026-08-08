@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-08T12:52:38.856544+05:30'
+collected_at: '2026-08-08T15:32:42.119977+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 59
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-08T12:52:38.856544+05:30'
-last_seen: '2026-08-08T12:52:38.856544+05:30'
-last_checked: '2026-08-08T12:52:38.856544+05:30'
+first_seen: '2026-08-08T15:32:42.119977+05:30'
+last_seen: '2026-08-08T15:32:42.119977+05:30'
+last_checked: '2026-08-08T15:32:42.119977+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Architecture**: Implements a collaborative framework using agents (e.g., CrewAI, AutoGen) to distribute document processing, analysis, and insight generation tasks across specialized AI models (GPT-3.5/4/5, Anthropic).
+- **Multi-Agent Architecture**: Implements a collaborative framework using AI agents (e.g., CrewAI, AutoGen) to parallelize document processing, analysis, and insight generation via modular Python components.
 
-- **Vector Database Integration**: Supports retrieval-augmented generation (RAG) with ChromaDB, Pinecone, or Weaviate for efficient document embedding storage and retrieval.
+- **RAG Integration**: Supports retrieval-augmented generation (RAG) with vector databases (ChromaDB, Weaviate, Pinecone) and LLM APIs (OpenAI, Anthropic, GPT-3.5/4/5) for contextual document querying.
 
-- **Deployment & Extensibility**: Includes Discord bot integration for real-time interaction and modular design for adding new agents or tools (LangChain, Swarms).
+- **Scalability & Extensibility**: Designed for distributed workflows with Discord integration, enabling real-time agent coordination and modular expansion via Python-based agent orchestration.
 
 ## Why It Matters
 

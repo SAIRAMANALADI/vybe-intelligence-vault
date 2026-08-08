@@ -4,23 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/discourse/discourse
-collected_at: '2026-08-02T16:31:19.640434+05:30'
-published_at: '2026-08-02T09:07:21Z'
+collected_at: '2026-08-08T15:38:22.833379+05:30'
+published_at: '2026-08-08T08:46:26Z'
 tags:
 - github-repo
 - hackernews
 - ruby
-stars: 47578
+stars: 47622
 language: Ruby
 status: active
 license: GPL-2.0
 archived: false
 created_at: '2013-01-12T00:25:55Z'
-pushed_at: '2026-08-01T13:58:15Z'
+pushed_at: '2026-08-08T03:29:48Z'
 resource_id: github:discourse/discourse
-first_seen: '2026-08-02T16:31:19.640434+05:30'
-last_seen: '2026-08-02T16:31:19.640434+05:30'
-last_checked: '2026-08-02T16:31:19.640434+05:30'
+first_seen: '2026-08-08T15:38:22.833379+05:30'
+last_seen: '2026-08-08T15:38:22.833379+05:30'
+last_checked: '2026-08-08T15:38:22.833379+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Ruby on Rails-based platform**: Discourse is built using Ruby on Rails (backend) and Ember.js (frontend), with PostgreSQL as the primary database, enabling scalable, real-time community discussions.
+- **Ruby on Rails-based platform**: Discourse is a modern, open-source discussion platform built using Ruby on Rails, PostgreSQL, and Ember.js, enabling scalable and real-time community interactions.
 
-- **Open-source forum software**: Free, open-source solution designed for moderation, scalability, and customization, with 47,578+ GitHub stars and 8,976+ forks.
+- **Technical stack**: Frontend relies on Ember.js, backend uses Ruby on Rails with PostgreSQL for data persistence, and JavaScript for dynamic client-side functionality.
 
-- **Technical stack**: Supports JavaScript (frontend interactivity), Ruby (backend logic), and PostgreSQL (data management), last updated on 2026-08-02.
+- **Modular architecture**: Designed for extensibility with plugin support, enabling customization via Ember components, Rails engines, and JavaScript-based UI enhancements.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: discourse
-- Stars: 47578
-- Forks: 8976
+- Stars: 47622
+- Forks: 8979
 - Language: Ruby
 - Topics: discourse, ember, forum, javascript, postgresql, rails, ruby
-- Last Updated: 2026-08-02T09:07:21Z
+- Last Updated: 2026-08-08T08:46:26Z
 - License: GPL-2.0
 - Archived: No
 - Created At: 2013-01-12T00:25:55Z
-- Pushed At: 2026-08-01T13:58:15Z
+- Pushed At: 2026-08-08T03:29:48Z
 
 ## Possible Use Cases
 

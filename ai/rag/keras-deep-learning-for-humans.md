@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://keras.io/keras_3/
-published_at: '2026-08-07T08:58:25.935907+05:30'
-collected_at: '2026-08-07T08:58:25.935915+05:30'
+published_at: '2026-08-08T15:35:20.876797+05:30'
+collected_at: '2026-08-08T15:35:20.876811+05:30'
 tags:
 - benchmark
 - dataset
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:keras-deep-learning-for-humans
-first_seen: '2026-08-07T08:58:25.935915+05:30'
-last_seen: '2026-08-07T08:58:25.935915+05:30'
-last_checked: '2026-08-07T08:58:25.935915+05:30'
+first_seen: '2026-08-08T15:35:20.876811+05:30'
+last_seen: '2026-08-08T15:35:20.876811+05:30'
+last_checked: '2026-08-08T15:35:20.876811+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Backend Compatibility**: Keras 3 enables seamless execution across JAX, TensorFlow, PyTorch, and OpenVINO (inference-only), allowing dynamic backend selection for optimal performance without code changes.
+- **Multi-Backend Architecture**: Keras 3 enables cross-framework compatibility with JAX, TensorFlow, PyTorch, and OpenVINO (inference-only), allowing dynamic backend selection for optimal performance without code changes.
 
-- **Cross-Framework Model Portability**: Models defined in Keras 3 can be instantiated as PyTorch `Module`, exported as TensorFlow `SavedModel`, or used as stateless JAX functions, ensuring compatibility with diverse ML ecosystems.
+- **Unified API & Stateless Operations**: Implements a full Keras API across backends with stateless methods (`stateless_call()`, `stateless_apply()`) for functional programming and JAX compatibility, while maintaining backward compatibility with Keras 2.
 
-- **Unified API & Stateless Operations**: Introduces `keras.ops` for framework-agnostic operations (e.g., NumPy API) and stateless methods (`stateless_call`, `stateless_apply`) for JAX functional programming compatibility.
+- **Advanced Distribution & Data Pipeline Support**: Introduces a new `keras.distribution` API for model/data parallelism (JAX-first, expanding to TensorFlow/PyTorch) and supports heterogeneous data pipelines (e.g., `tf.data.Dataset`, PyTorch `DataLoader`, NumPy arrays).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T08:58:25.935907+05:30
+- Published: 2026-08-08T15:35:20.876797+05:30
 
 ## Related Tags
 

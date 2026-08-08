@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-08T12:51:33.740091+05:30'
+collected_at: '2026-08-08T15:31:36.867943+05:30'
 published_at: '2026-08-07T19:57:51Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-08T12:51:33.740091+05:30'
-last_seen: '2026-08-08T12:51:33.740091+05:30'
-last_checked: '2026-08-08T12:51:33.740091+05:30'
+first_seen: '2026-08-08T15:31:36.867943+05:30'
+last_seen: '2026-08-08T15:31:36.867943+05:30'
+last_checked: '2026-08-08T15:31:36.867943+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Investigates prompt patterns, agent coordination mechanisms, and security classifications in agentic AI systems for coding tasks.
-- **Prompt Engineering & System Prompts**: Focuses on reconstructing and optimizing system prompts for agentic AI to enhance performance and reliability in coding assistance.
-- **Research & Implementation**: Provides a structured repository (2500+ stars, 1067+ forks) with technical insights into agentic AI workflows, updated as of 2026-08-07.
+- **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms for autonomous AI-driven software development workflows.
+
+- **Security Classification Framework**: Implements a structured security classification system for agentic AI prompts, addressing vulnerabilities in multi-agent interactions and prompt injection risks.
+
+- **Claude & Prompt Engineering Focus**: Specializes in system prompts and prompt engineering techniques optimized for agentic AI models like Claude, with empirical research on performance and reliability.
 
 ## Why It Matters
 

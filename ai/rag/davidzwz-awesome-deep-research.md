@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-08T12:50:18.673824+05:30'
+collected_at: '2026-08-08T15:30:21.821341+05:30'
 published_at: '2026-08-07T22:23:56Z'
 tags:
 - agents
+- benchmark
 - github-repo
-- paper
+- hackernews
 - rag
 - unknown
-- workflows
 stars: 837
 language: Unknown
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-08T12:50:18.673824+05:30'
-last_seen: '2026-08-08T12:50:18.673824+05:30'
-last_checked: '2026-08-08T12:50:18.673824+05:30'
+first_seen: '2026-08-08T15:30:21.821341+05:30'
+last_seen: '2026-08-08T15:30:21.821341+05:30'
+last_checked: '2026-08-08T15:30:21.821341+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: A comprehensive collection of state-of-the-art tools, papers, and frameworks focused on **agentic deep research**, including **Agentic RAG**, **search agents**, and **reasoning agents** for large language models (LLMs).
-- **ACL 2026 KnowFM Integration**: Aligns with **Knowledge Foundation Models (KnowFM)** research, emphasizing **multi-agent collaboration**, **long-form reasoning**, and **autonomous knowledge synthesis** in LLM-driven research workflows.
-- **Active Development & Maintenance**: Last updated **August 2026**, with **837 stars** and **69 forks**, indicating a growing, community-driven repository for cutting-edge deep research methodologies.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous LLM-driven reasoning, search, and RAG (Retrieval-Augmented Generation) systems for complex knowledge synthesis.
+- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026’s "Knowledge Foundation Models" (KnowFM) initiative, emphasizing scalable, interpretable deep research agents for factual accuracy and contextual reasoning.
+- **Technical Scope**: Encompasses multi-agent architectures, hybrid retrieval-reasoning pipelines, and benchmarks for evaluating deep research capabilities in LLMs, including reasoning-agent frameworks and search-agent optimization.
 
 ## Why It Matters
 

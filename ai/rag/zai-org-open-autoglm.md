@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-08-08T12:51:43.753032+05:30'
-published_at: '2026-08-08T03:23:36Z'
+collected_at: '2026-08-08T15:31:46.928560+05:30'
+published_at: '2026-08-08T07:48:16Z'
 tags:
 - agents
 - github-repo
-- hackernews
+- models
 - python
 - rag
 - scripts
-stars: 25965
+- workflows
+stars: 25964
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-08-08T12:51:43.753032+05:30'
-last_seen: '2026-08-08T12:51:43.753032+05:30'
-last_checked: '2026-08-08T12:51:43.753032+05:30'
+first_seen: '2026-08-08T15:31:46.928560+05:30'
+last_seen: '2026-08-08T15:31:46.928560+05:30'
+last_checked: '2026-08-08T15:31:46.928560+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-AutoGLM is an open-source Python framework designed for developing autonomous phone agent models, enabling AI-driven interactions with mobile devices.
-- **Key Features**: Supports multi-modal agent capabilities, integrates with phone OS APIs, and provides tools for task automation, including calls, messages, and app interactions.
-- **Technical Stack**: Built with Python, leveraging LLM-based decision-making, modular architecture for extensibility, and compatibility with Android/iOS via automation libraries.
+- **Framework Overview**: Open-AutoGLM is a Python-based open-source framework designed to enable autonomous AI agents for phone interactions, leveraging large language models (LLMs) to perform tasks like calls, messaging, and app navigation.
+
+- **Key Features**: Supports multi-modal inputs (text, speech, vision) and integrates with phone APIs (e.g., Android/iOS automation tools) to execute agent-driven workflows, including real-time decision-making and tool usage.
+
+- **Scalability & Extensibility**: Modular architecture allows integration with custom LLMs (e.g., GLM family) and supports fine-tuning for domain-specific phone automation tasks, with active community contributions and frequent updates.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zai-org
-- Stars: 25965
+- Stars: 25964
 - Forks: 4019
 - Language: Python
 - Topics: agent, phone-use-agent
-- Last Updated: 2026-08-08T03:23:36Z
+- Last Updated: 2026-08-08T07:48:16Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-12-08T09:23:44Z

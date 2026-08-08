@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-08T12:49:48.649207+05:30'
+collected_at: '2026-08-08T15:29:51.847636+05:30'
 published_at: '2026-08-08T03:47:36Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-08T12:49:48.649207+05:30'
-last_seen: '2026-08-08T12:49:48.649207+05:30'
-last_checked: '2026-08-08T12:49:48.649207+05:30'
+first_seen: '2026-08-08T15:29:51.847636+05:30'
+last_seen: '2026-08-08T15:29:51.847636+05:30'
+last_checked: '2026-08-08T15:29:51.847636+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Dataset and benchmark designed for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary or internal company documents, enabling standardized assessment of enterprise RAG performance.
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and internal search applications.
-- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering metrics for retrieval quality, generative AI accuracy, and end-to-end RAG system performance on enterprise-specific corpora.
+- **Benchmark & Dataset**: Provides a structured evaluation framework and synthetic dataset for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized testing of enterprise RAG models.
+
+- **Technical Scope**: Covers key RAG components including retrieval (semantic search), generative AI (LLM evaluation), and knowledge base integration, with a focus on enterprise-specific use cases like document Q&A and information retrieval.
+
+- **Tooling & Metrics**: Implements Python-based evaluation pipelines, supports synthetic data generation for controlled testing, and includes metrics for assessing retrieval accuracy, LLM performance, and end-to-end RAG efficacy.
 
 ## Why It Matters
 

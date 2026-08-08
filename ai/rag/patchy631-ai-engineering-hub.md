@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-08T12:48:43.584754+05:30'
-published_at: '2026-08-08T06:46:36Z'
+collected_at: '2026-08-08T15:28:46.758499+05:30'
+published_at: '2026-08-08T09:56:46Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 36890
+stars: 36892
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-08T12:48:43.584754+05:30'
-last_seen: '2026-08-08T12:48:43.584754+05:30'
-last_checked: '2026-08-08T12:48:43.584754+05:30'
+first_seen: '2026-08-08T15:28:46.758499+05:30'
+last_seen: '2026-08-08T15:28:46.758499+05:30'
+last_checked: '2026-08-08T15:28:46.758499+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Content Focus**: Repository provides advanced tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and practical implementations of AI agents in real-world scenarios.
-- **Technical Stack**: Primarily utilizes Jupyter Notebooks for demonstrations, covering topics such as AI engineering, machine learning, and Model Context Protocol (MCP) integrations.
-- **Metrics & Activity**: Highly active with 36,890 stars and 6,092 forks, last updated on August 8, 2026.
+- **Technical Stack**: Primarily utilizes Jupyter Notebooks for interactive, hands-on learning and experimentation with AI engineering concepts.
+- **Metadata**: Highly active with 36,892 stars and 6,093 forks, last updated August 8, 2026, covering topics like agents, MCP (Model Context Protocol), and machine learning.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36890
-- Forks: 6092
+- Stars: 36892
+- Forks: 6093
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-08-08T06:46:36Z
+- Last Updated: 2026-08-08T09:56:46Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

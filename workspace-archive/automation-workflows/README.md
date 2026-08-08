@@ -12,10 +12,10 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (framework - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,8 +24,8 @@ https://github.com/n8n-io/n8n (n8n)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - [Stainless · GitHub](https://github.com/stainless-api)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
 - [OpenAI · GitHub](https://github.com/openai)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-08 13:05 IST*
+*Last updated: 2026-08-08 15:45 IST*

@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-08T12:48:43.539095+05:30'
+collected_at: '2026-08-08T15:28:46.744238+05:30'
 published_at: '2026-08-03T17:47:21Z'
 tags:
+- benchmark
 - github-repo
 - meta-ai
 - models
 - python
 - rag
+- workflows
 stars: 965
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-08T12:48:43.539095+05:30'
-last_seen: '2026-08-08T12:48:43.539095+05:30'
-last_checked: '2026-08-08T12:48:43.539095+05:30'
+first_seen: '2026-08-08T15:28:46.744238+05:30'
+last_seen: '2026-08-08T15:28:46.744238+05:30'
+last_checked: '2026-08-08T15:28:46.744238+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates RAG implementation using local language models (e.g., Ollama, LM Studio) for privacy and offline capability.
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refreshes for real-time document ingestion and retrieval.
-- **Testing Framework**: Includes unit/integration tests (e.g., pytest) to validate RAG pipeline components (retriever, LLM, prompt engineering).
+- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally deployed language models (e.g., Ollama, LM Studio) for privacy and cost efficiency.
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, Qdrant) refresh mechanisms to ensure real-time retrieval accuracy.
+- **Testing & Evaluation Framework**: Includes unit tests and benchmarking scripts (e.g., RAGAS) to validate retrieval and generation performance.
 
 ## Why It Matters
 

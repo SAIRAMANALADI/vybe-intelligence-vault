@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-08T12:49:33.602305+05:30'
+collected_at: '2026-08-08T15:29:36.766143+05:30'
 published_at: '2026-08-07T05:37:10Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - models
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-08T12:49:33.602305+05:30'
-last_seen: '2026-08-08T12:49:33.602305+05:30'
-last_checked: '2026-08-08T12:49:33.602305+05:30'
+first_seen: '2026-08-08T15:29:36.766143+05:30'
+last_seen: '2026-08-08T15:29:36.766143+05:30'
+last_checked: '2026-08-08T15:29:36.766143+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and research papers for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Curated Resource**: A structured collection of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and papers for **Large Language Models (LLMs)**, focusing on retrieval mechanisms, embeddings, and integration strategies.
 
-- **Technical Focus**: Emphasizes state-of-the-art RAG methodologies, including hybrid retrieval, fine-tuning strategies, and evaluation benchmarks for optimizing LLM performance in knowledge-intensive tasks.
+- **Technical Scope**: Covers **RAG-specific embeddings**, **retrieval-information methods**, and **LLM augmentation** techniques, including hybrid retrieval, fine-tuning, and prompt engineering approaches.
 
-- **Dynamic Updates**: Actively maintained repository with frequent updates (last modified: 2026-08-07), ensuring inclusion of cutting-edge advancements in RAG architectures and LLM integration.
+- **Repository Metadata**: 1,340 stars, 92 forks, last updated **2026-08-07**, with topics spanning **embeddings**, **LLMs**, and **retrieval-augmented generation** methodologies.
 
 ## Why It Matters
 

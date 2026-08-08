@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.npmjs.com/
-published_at: '2026-08-07T08:56:10.164995+05:30'
-collected_at: '2026-08-07T08:56:10.165005+05:30'
+published_at: '2026-08-08T15:38:30.591651+05:30'
+collected_at: '2026-08-08T15:38:30.591661+05:30'
 tags:
+- scripts
 - web-crawled
 status: active
 resource_id: blog:npm-docs
-first_seen: '2026-08-07T08:56:10.165005+05:30'
-last_seen: '2026-08-07T08:56:10.165005+05:30'
-last_checked: '2026-08-07T08:56:10.165005+05:30'
+first_seen: '2026-08-08T15:38:30.591661+05:30'
+last_seen: '2026-08-08T15:38:30.591661+05:30'
+last_checked: '2026-08-08T15:38:30.591661+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **npm CLI**: Command-line interface for managing Node.js packages, including installation (`npm install`), dependency management (`package.json`), and script execution (`npm run`).
+- **Registry & CLI**: npm provides a public registry for JavaScript packages and a command-line interface (CLI) for package management, including `npm install`, `npm publish`, and dependency resolution via `package.json`.
 
-- **Package Registry**: Centralized repository for publishing, discovering, and installing Node.js packages (`npm publish`, `npm install <package>`), with versioning and semantic versioning (semver) support.
+- **Security & Policies**: npm enforces policies for package publishing, including scope restrictions, two-factor authentication (2FA), and vulnerability reporting, with threat mitigation strategies for malicious packages (e.g., typosquatting, dependency confusion).
 
-- **Security & Policies**: Enforces registry policies (e.g., package naming, access control) and provides threat mitigation strategies (e.g., dependency scanning, two-factor authentication for publishers).
+- **Organizations & Integrations**: Supports scoped packages, team-based access control via npm Organizations, and integrations with CI/CD pipelines, IDEs, and security tools (e.g., Snyk, GitHub Actions).
 
 ## Why It Matters
 
@@ -34,10 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-07T08:56:10.164995+05:30
+- Published: 2026-08-08T15:38:30.591651+05:30
 
 ## Related Tags
 
+- scripts
 - web-crawled
 
 ## Source

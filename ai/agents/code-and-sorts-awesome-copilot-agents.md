@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-08-08T12:50:28.741223+05:30'
+collected_at: '2026-08-08T15:30:31.874747+05:30'
 published_at: '2026-08-06T01:09:09Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
+- workflows
 stars: 555
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-08-08T12:50:28.741223+05:30'
-last_seen: '2026-08-08T12:50:28.741223+05:30'
-last_checked: '2026-08-08T12:50:28.741223+05:30'
+first_seen: '2026-08-08T15:30:31.874747+05:30'
+last_seen: '2026-08-08T15:30:31.874747+05:30'
+last_checked: '2026-08-08T15:30:31.874747+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Repository compiling GitHub Copilot enhancement materials including instructions, prompts, skills, MCPs, and agent markdown files for AI agent development.
-- **Technical Scope**: Focuses on agent-skills, AI-agents, prompt-engineering, and custom-agents with TypeScript-based implementations for VSCode Copilot Chat integration.
-- **Metadata**: 555 stars, 91 forks, last updated 2026-08-06; covers GitHub Copilot, MCP, and VSCode Copilot Chat optimization.
+- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) providing a structured collection of GitHub Copilot customization files, including instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdowns to enhance AI interactions.
+- **Technical Scope**: Focuses on advanced Copilot customization with TypeScript-based implementations, covering agent skills, prompt engineering, and VS Code Copilot Chat integrations for AI-driven development workflows.
+- **Metadata**: 555 stars, 91 forks, last updated August 6, 2026; categorized under topics like `agent-skills`, `ai-agents`, and `prompt-engineering`.
 
 ## Why It Matters
 

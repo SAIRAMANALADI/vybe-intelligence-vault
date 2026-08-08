@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-08T12:51:03.697612+05:30'
+collected_at: '2026-08-08T15:31:06.872591+05:30'
 published_at: '2026-08-07T14:11:28Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
-- scripts
 - workflows
 stars: 956
 language: Python
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-08T12:51:03.697612+05:30'
-last_seen: '2026-08-08T12:51:03.697612+05:30'
-last_checked: '2026-08-08T12:51:03.697612+05:30'
+first_seen: '2026-08-08T15:31:06.872591+05:30'
+last_seen: '2026-08-08T15:31:06.872591+05:30'
+last_checked: '2026-08-08T15:31:06.872591+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular agentic workflows, hooks, and context engineering for scalable AI-driven development.
+- **Agentic Workflow Integration**: Repository provides structured practices for transitioning from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular agentic workflows, hooks, and context engineering for AI-driven development.
 
-- **Codex CLI Best Practices**: Curates command patterns, skills, and CLI agent configurations to optimize OpenAI Codex interactions, including standardized hooks and context-engineering techniques for efficient task automation.
+- **Codex CLI Skills & Commands**: Demonstrates advanced Codex CLI usage, including custom commands, skills, and hooks to automate and optimize AI agent interactions, with examples for OpenAI Codex integration.
 
-- **Open-Source Contribution Framework**: Offers a Pakistani developer-centric template for collaborative AI agent development, with versioned practices (last updated 2026-08-07) and modular components for extensible Codex CLI agent ecosystems.
+- **Best Practices & Scalability**: Focuses on scalable agentic engineering patterns, context management, and CLI-based AI agent orchestration, targeting Pakistani developers and OpenAI Codex users for production-grade AI workflows.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-08-07T08:52:08.913081+05:30'
-published_at: '2026-08-07T02:23:02Z'
+collected_at: '2026-08-08T15:30:26.836950+05:30'
+published_at: '2026-08-08T06:52:03Z'
 tags:
 - agents
 - github-repo
@@ -14,17 +14,17 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 934
+stars: 944
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T03:22:26Z'
-pushed_at: '2026-08-07T02:22:22Z'
+pushed_at: '2026-08-08T01:08:34Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-08-07T08:52:08.913081+05:30'
-last_seen: '2026-08-07T08:52:08.913081+05:30'
-last_checked: '2026-08-07T08:52:08.913081+05:30'
+first_seen: '2026-08-08T15:30:26.836950+05:30'
+last_seen: '2026-08-08T15:30:26.836950+05:30'
+last_checked: '2026-08-08T15:30:26.836950+05:30'
 health_score: 100
 ---
 
@@ -33,8 +33,8 @@ health_score: 100
 ## Summary
 
 - **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese and English, automated via scheduled GitHub Actions workflows.
-- **Tech Stack**: Built in TypeScript; last updated on 2026-08-07, with 934 stars and 167 forks on GitHub.
+- **Bilingual Reporting**: Generates reports in both Chinese (ZH) and English (EN) with automated workflows.
+- **Technical Stack**: Built in TypeScript, last updated on 2026-08-08, with 944 stars and 169 forks.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: duanyytop
-- Stars: 934
-- Forks: 167
+- Stars: 944
+- Forks: 169
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-07T02:23:02Z
+- Last Updated: 2026-08-08T06:52:03Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T03:22:26Z
-- Pushed At: 2026-08-07T02:22:22Z
+- Pushed At: 2026-08-08T01:08:34Z
 
 ## Possible Use Cases
 

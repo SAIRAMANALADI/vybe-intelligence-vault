@@ -3,7 +3,7 @@ title: Release v0.164.0 · gohugoio/hugo · GitHub
 archive_category: vector-databases
 source_category: ai/resources
 source_url: https://github.com/gohugoio/hugo/releases/tag/v0.164.0
-resource_id: github:gohugoio/hugo
+resource_id: github:gohugoio/hugo-0a0b824f
 local_vault_path: ai/resources/gohugoio-hugo.md
 quality_score: 70
 archive_score: 77

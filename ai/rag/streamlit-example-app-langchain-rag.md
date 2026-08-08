@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-08T12:49:18.615841+05:30'
+collected_at: '2026-08-08T15:29:21.801598+05:30'
 published_at: '2026-08-07T11:55:59Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-08T12:49:18.615841+05:30'
-last_seen: '2026-08-08T12:49:18.615841+05:30'
-last_checked: '2026-08-08T12:49:18.615841+05:30'
+first_seen: '2026-08-08T15:29:21.801598+05:30'
+last_seen: '2026-08-08T15:29:21.801598+05:30'
+last_checked: '2026-08-08T15:29:21.801598+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with keyword-based retrieval (BM25) for enhanced RAG performance using LangChain and FAISS/Chroma vector stores.
+- **Hybrid Search Integration**: Demonstrates LangChain's RAG pipeline combining vector store retrieval with hybrid search (likely BM25 + dense embeddings) for improved document retrieval accuracy.
 
-- **Streamlit UI Integration**: Provides a web interface for querying and visualizing RAG results, with components for input prompts, retrieved context, and generated responses.
+- **Streamlit Frontend**: Implements a Streamlit-based UI to visualize and interact with the RAG workflow, including query input, retrieved context, and generated responses.
 
-- **Modular LangChain Pipeline**: Implements a configurable RAG workflow with document loaders, text splitters, embeddings (e.g., HuggingFace), and LLM inference (e.g., OpenAI/Groq) via LangChain's `RetrievalQA` chain.
+- **Modular Architecture**: Uses LangChain's composable components (e.g., retrievers, LLMs, prompt templates) to modularize the RAG pipeline, enabling customization of vector stores (e.g., FAISS, Chroma) and hybrid search strategies.
 
 ## Why It Matters
 

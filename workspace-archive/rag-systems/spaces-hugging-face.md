@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Video Generation**: MiniMax H3 generates videos with synchronized soundtracks, leveraging multimodal AI to align audio and visual content.
+- **Video Generation**: MiniMax H3 generates videos with synchronized soundtracks, integrating audio and visual modalities for coherent output.
 
-- **Model Architecture**: Utilizes a transformer-based architecture optimized for cross-modal alignment between video frames and audio tracks.
+- **Multimodal Integration**: Leverages a multimodal model architecture to align generated video content with corresponding audio, enhancing realism and synchronization.
 
-- **Deployment**: Deployed as a Hugging Face Space, enabling cloud-based inference for video generation tasks.
+- **Deployment**: Hosted as a Hugging Face Space (`multimodalart/minimax-h3`), enabling accessible inference via a web interface.
 
 ## Use Cases
 

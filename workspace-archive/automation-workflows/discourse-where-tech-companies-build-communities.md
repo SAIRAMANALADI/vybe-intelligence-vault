@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Scalable, open-source community platform** with built-in moderation, real-time chat, and SSO/SAML support, hosting 3M+ monthly posts and 1B+ page views across 22K+ communities.
-- **Enterprise-grade features** including dedicated infrastructure, AI-assisted moderation, white-glove onboarding, and full data sovereignty with self-hosting or managed options.
-- **Modular architecture** supporting custom themes/plugins, GitHub integration for dev communities, and structured workflows (e.g., produc
+- **Scalable Community Platform**: Discourse powers over 22,000 communities with features like customizable themes, real-time chat, private messaging, and AI-assisted moderation, supporting up to 100K+ monthly active users per site.
+
+- **Enterprise-Grade Features**: Offers dedicated infrastructure, SSO/SAML authentication, custom integrations, and white-glove onboarding, with full data sovereignty and open-source flexibility (GitHub-hosted).
+
+- **Multi-Use Case Support**: Facilitates support hub
 
 ## Use Cases
 
