@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:06:10.665124+05:30",
+  "generated_at": "2026-08-08T13:23:10.616631+05:30",
   "trending_resources": [
     {
       "id": "github:w3c/webappsec",
@@ -36,7 +36,7 @@
       "file_path": "ai/resources/subresource-integrity-security-mdn.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 29,
+      "rank_change": 30,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -49,7 +49,7 @@
       "file_path": "ai/rag/cli-cli.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12,
+      "rank_change": 13,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -62,7 +62,7 @@
       "file_path": "ai/resources/introduction-electron.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 83,
+      "rank_change": 84,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -75,7 +75,7 @@
       "file_path": "ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8049,
+      "rank_change": 8050,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +88,7 @@
       "file_path": "ai/resources/python-packaging-user-guide.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8049,
+      "rank_change": 8050,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +101,7 @@
       "file_path": "ai/rag/python-developers-guide.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8150,
+      "rank_change": 8151,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +114,7 @@
       "file_path": "ai/rag/jupyter-ai.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8028,
+      "rank_change": 8029,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,26 +127,13 @@
       "file_path": "ai/resources/the-linux-man-pages-project.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12233,
+      "rank_change": 12236,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
-      "id": "github:stanford-oval/storm",
-      "title": "stanford-oval/storm",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/stanford-oval/storm",
-      "file_path": "ai/rag/stanford-oval-storm.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 16472,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:the-linux-man-pages-project",
       "title": "The Linux man-pages project",
       "category": "ai/resources",
@@ -155,7 +142,7 @@
       "file_path": "ai/resources/the-linux-man-pages-project.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12233,
+      "rank_change": 12236,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +155,7 @@
       "file_path": "ai/resources/tools-model-context-protocol.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 10501,
+      "rank_change": 10504,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/rag/security-model.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8560,
+      "rank_change": 8584,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/rag/python-developers-guide.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8150,
+      "rank_change": 8151,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/rag/addyosmani-com-infinite-scroll-without-layout-shif.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8052,
+      "rank_change": 8062,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8049,
+      "rank_change": 8050,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +246,20 @@
       "file_path": "ai/resources/python-packaging-user-guide.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8049,
+      "rank_change": 8050,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:jupyter-ai",
+      "title": "Jupyter AI",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://jupyter-ai.readthedocs.io/en/latest",
+      "file_path": "ai/rag/jupyter-ai.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 8029,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -344,19 +344,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:can-i-use-support-tables-for-html5-css3-etc",
-      "title": "Can I use... Support tables for HTML5, CSS3, etc",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://caniuse.com",
-      "file_path": "ai/rag/can-i-use-support-tables-for-html5-css3-etc.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "github:owasp/www-project-ai-maturity-assessment",
       "title": "owasp/www-project-ai-maturity-assessment",
       "category": "ai/resources",
@@ -409,51 +396,64 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:alabaster-a-sphinx-theme-alabaster-documentation",
-      "title": "Alabaster: a Sphinx theme — Alabaster documentation",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://alabaster.readthedocs.io",
-      "file_path": "ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:lm-studio-github",
-      "title": "LM Studio · GitHub",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://github.com/lmstudio-ai",
-      "file_path": "ai/resources/lm-studio-github.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:lm-studio",
-      "title": "LM Studio",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://discord.gg/lmstudio",
-      "file_path": "ai/resources/lm-studio.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:chatgpt-plans-free-go-plus-pro-business-and-enterp",
       "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterprise",
       "category": "ai/rag",
       "source_type": "web",
       "url": "https://openai.com/chatgpt/pricing",
       "file_path": "ai/rag/chatgpt-plans-free-go-plus-pro-business-and-enterp.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:performance-panel-analyze-your-website-s-performan",
+      "title": "Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://developer.chrome.com/docs/devtools/performance/overview",
+      "file_path": "ai/resources/performance-panel-analyze-your-website-s-performan.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:using-html-form-validation-and-the-constraint-vali",
+      "title": "Using HTML form validation and the Constraint Validation API - HTML | MDN",
+      "category": "ai/agents",
+      "source_type": "web",
+      "url": "https://developer.mozilla.org/docs/web/html/constraint_validation",
+      "file_path": "ai/agents/using-html-form-validation-and-the-constraint-vali.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:owasp-ai-maturity-assessment-owasp-foundation",
+      "title": "OWASP AI Maturity Assessment | OWASP Foundation",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://owasp.org/www-project-ai-maturity-assessment",
+      "file_path": "ai/rag/owasp-ai-maturity-assessment-owasp-foundation.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:shprink/nonharmful-and-must-have-actions",
+      "title": "shprink/nonharmful-and-must-have-actions",
+      "category": "ai/resources",
+      "source_type": "github",
+      "url": "https://github.com/shprink/nonharmful-and-must-have-actions",
+      "file_path": "ai/resources/shprink-nonharmful-and-must-have-actions.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
