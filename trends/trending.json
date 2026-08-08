@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T19:03:57.101735+05:30",
+  "generated_at": "2026-08-08T19:20:02.297493+05:30",
   "trending_resources": [
     {
       "id": "hackernews:what-happens-if-an-entire-class-of-workers-loses-f",
@@ -54,19 +54,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:gemma-a-google-deepmind",
-      "title": "Gemma â Google DeepMind",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://deepmind.google/models/gemma",
-      "file_path": "ai/rag/gemma-a-google-deepmind.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 20,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:keras-deep-learning-for-humans",
       "title": "Keras: Deep Learning for humans",
       "category": "ai/rag",
@@ -75,7 +62,7 @@
       "file_path": "ai/rag/keras-deep-learning-for-humans.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 53,
+      "rank_change": 54,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +75,7 @@
       "file_path": "ai/resources/android-open-source-project.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 51,
+      "rank_change": 52,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +88,7 @@
       "file_path": "ai/resources/pypa-pip.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12214,
+      "rank_change": 12215,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +101,7 @@
       "file_path": "ai/resources/sphinx-sphinx-documentation.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1324,
+      "rank_change": 1325,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,12 +114,38 @@
       "file_path": "ai/resources/pradyunsg-furo.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7710,
+      "rank_change": 7711,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:new-york-city",
+      "title": "New York City",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://interrupt.langchain.com/nyc",
+      "file_path": "ai/rag/new-york-city.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 16,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
+    {
+      "id": "blog:medium",
+      "title": "Medium",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://blog.medium.com",
+      "file_path": "ai/rag/medium-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 17470,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
     {
       "id": "blog:cloudflare-status",
       "title": "Cloudflare Status",
@@ -142,7 +155,7 @@
       "file_path": "ai/rag/cloudflare-status.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 13450,
+      "rank_change": 13466,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +168,7 @@
       "file_path": "ai/rag/fern-docs-sdks-and-clis-for-your-api.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12234,
+      "rank_change": 12235,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +181,7 @@
       "file_path": "ai/resources/pypa-pip.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12214,
+      "rank_change": 12215,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +194,7 @@
       "file_path": "ai/agents/cloudflare-github.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 12203,
+      "rank_change": 12212,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,20 +207,7 @@
       "file_path": "ai/resources/python-visual-studio-marketplace.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8246,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:pradyunsg/furo",
-      "title": "pradyunsg/furo",
-      "category": "ai/resources",
-      "source_type": "github",
-      "url": "https://github.com/pradyunsg/furo",
-      "file_path": "ai/resources/pradyunsg-furo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 7710,
+      "rank_change": 8247,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,20 @@
       "file_path": "ai/agents/deepagents-pypi.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7698,
+      "rank_change": 7714,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:pradyunsg/furo",
+      "title": "pradyunsg/furo",
+      "category": "ai/resources",
+      "source_type": "github",
+      "url": "https://github.com/pradyunsg/furo",
+      "file_path": "ai/resources/pradyunsg-furo.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 7711,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +246,7 @@
       "file_path": "ai/agents/firecrawl-web-agent.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7696,
+      "rank_change": 7705,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,20 +259,7 @@
       "file_path": "ai/resources/supermlorg-superml-org-github.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7671,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:commonmark",
-      "title": "CommonMark",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://commonmark.org",
-      "file_path": "ai/resources/commonmark.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4054,
+      "rank_change": 7696,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -318,116 +318,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:npm-status",
-      "title": "npm Status",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://status.npmjs.com",
-      "file_path": "ai/rag/npm-status.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:latex-a-document-preparation-system",
-      "title": "LaTeX - A document preparation system",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://latex-project.org",
-      "file_path": "ai/rag/latex-a-document-preparation-system.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:microsoft-edge-webview2-microsoft-edge-developer",
-      "title": "Microsoft Edge WebView2 | Microsoft Edge Developer",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://developer.microsoft.com/en-us/microsoft-edge/webview2",
-      "file_path": "ai/rag/microsoft-edge-webview2-microsoft-edge-developer.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:find-information-about-your-windows-device-microso",
-      "title": "Find information about your Windows device | Microsoft Support",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://support.microsoft.com/en-us/windows/find-information-about-your-windows-device-a66d52c8-3323-44fd-8f34-a9497bb935e1",
-      "file_path": "ai/rag/find-information-about-your-windows-device-microso.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:apps-script-google-for-developers",
       "title": "Apps Script | Google for Developers",
       "category": "ai/agents",
       "source_type": "web",
       "url": "https://developers.google.com/apps-script",
       "file_path": "ai/agents/apps-script-google-for-developers.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:google-workspace-marketplace-google-for-developers",
-      "title": "Google Workspace Marketplace | Google for Developers",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://developers.google.com/workspace/marketplace",
-      "file_path": "ai/resources/google-workspace-marketplace-google-for-developers.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:review-github-code-using-gemini-code-assist-gemini",
-      "title": "Review GitHub code using Gemini Code Assist | Gemini for Google Cloud | Google Cloud Documentation",
-      "category": "ai/agents",
-      "source_type": "web",
-      "url": "https://developers.google.com/gemini-code-assist/docs/review-github-code",
-      "file_path": "ai/agents/review-github-code-using-gemini-code-assist-gemini.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:secure-installs-pip-documentation-v26-2-1",
-      "title": "Secure installs - pip documentation v26.2.1",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://pip.pypa.io/en/stable/topics/secure-installs",
-      "file_path": "ai/rag/secure-installs-pip-documentation-v26-1-2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:postman-the-world-s-leading-api-platform-sign-up-f",
-      "title": "Postman: The World's Leading API Platform | Sign Up for Free",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://postman.com",
-      "file_path": "ai/resources/postman-the-world-s-leading-api-platform-sign-up-f.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -454,6 +350,19 @@
       "source_type": "web",
       "url": "https://blog.cloudflare.com",
       "file_path": "ai/rag/the-cloudflare-blog.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
