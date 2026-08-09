@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-09T12:52:49.202214+05:30'
+collected_at: '2026-08-09T15:33:11.800058+05:30'
 published_at: '2026-08-05T15:22:57Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-09T12:52:49.202214+05:30'
-last_seen: '2026-08-09T12:52:49.202214+05:30'
-last_checked: '2026-08-09T12:52:49.202214+05:30'
+first_seen: '2026-08-09T15:33:11.800058+05:30'
+last_seen: '2026-08-09T15:33:11.800058+05:30'
+last_checked: '2026-08-09T15:33:11.800058+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized fine-tuning techniques.
-- **Scalable Serving Architecture**: Leverages Ray’s distributed computing to handle high-throughput LLM inference, with notebooks detailing deployment strategies for scalable production environments.
-- **Tooling & Integration**: Provides end-to-end examples for integrating Anyscale endpoints, custom fine-tuning, and vector databases, emphasizing reproducibility and performance in ML pipelines.
+- **RAG-based LLM Applications**: Provides a production-ready framework for building Retrieval-Augmented Generation (RAG) applications using LLMs, with integration examples for OpenAI, Llama2, and Anyscale models.
+
+- **Ray Integration**: Leverages Ray for scalable distributed computing, enabling efficient fine-tuning, serving, and deployment of LLM applications in production environments.
+
+- **Jupyter Notebooks**: Includes hands-on notebooks covering end-to-end workflows, from model fine-tuning to serving, with practical examples for real-world deployment.
 
 ## Why It Matters
 

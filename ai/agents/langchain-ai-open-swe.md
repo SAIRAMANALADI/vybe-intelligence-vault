@@ -4,26 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-09T12:53:29.255010+05:30'
-published_at: '2026-08-09T01:33:03Z'
+collected_at: '2026-08-09T15:33:51.841990+05:30'
+published_at: '2026-08-09T09:07:38Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-- workflows
-stars: 10518
+- scripts
+stars: 10519
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-08-08T14:42:31Z'
+pushed_at: '2026-08-09T08:17:55Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-09T12:53:29.255010+05:30'
-last_seen: '2026-08-09T12:53:29.255010+05:30'
-last_checked: '2026-08-09T12:53:29.255010+05:30'
+first_seen: '2026-08-09T15:33:51.841990+05:30'
+last_seen: '2026-08-09T15:33:51.841990+05:30'
+last_checked: '2026-08-09T15:33:51.841990+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent Framework**: Implements an event-driven, non-blocking architecture in Python for parallelized LLM-driven code generation, modification, and debugging workflows.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and execution using Python's asyncio, enabling concurrent task handling and non-blocking I/O operations.
 
-- **Multi-Provider LLM Integration**: Supports asynchronous interactions with OpenAI, Anthropic (ClaudeCode), and other LLM backends via standardized interfaces for real-time code execution and feedback.
+- **Multi-LLM Integration**: Supports multiple LLM providers (e.g., OpenAI, Anthropic) with dynamic model switching, enabling adaptive reasoning and code synthesis based on task complexity and provider capabilities.
 
-- **Stateful Agent Orchestration**: Manages persistent agent sessions with checkpointing, task prioritization, and dependency resolution for complex, multi-step software engineering tasks.
+- **Tool-Agnostic Execution**: Utilizes a modular tooling system for code execution, testing, and debugging, allowing seamless integration with external APIs, sandboxes, and CI/CD pipelines for end-to-end automation.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10518
+- Stars: 10519
 - Forks: 1221
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-09T01:33:03Z
+- Last Updated: 2026-08-09T09:07:38Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-08-08T14:42:31Z
+- Pushed At: 2026-08-09T08:17:55Z
 
 ## Possible Use Cases
 

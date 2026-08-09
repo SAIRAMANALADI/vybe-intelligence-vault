@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-09T12:56:19.581707+05:30'
-collected_at: '2026-08-09T12:56:19.581722+05:30'
+published_at: '2026-08-09T15:37:07.886351+05:30'
+collected_at: '2026-08-09T15:37:07.886362+05:30'
 tags:
 - agents
 - anthropic
@@ -17,15 +17,16 @@ tags:
 - openai
 - producthunt
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-09T12:56:19.581722+05:30'
-last_seen: '2026-08-09T12:56:19.581722+05:30'
-last_checked: '2026-08-09T12:56:19.581722+05:30'
+first_seen: '2026-08-09T15:37:07.886362+05:30'
+last_seen: '2026-08-09T15:37:07.886362+05:30'
+last_checked: '2026-08-09T15:37:07.886362+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Annotation & Dataset APIs**: Public API endpoints for annotation queue items (CRUD + positioning) now support `.csv`/`.jsonl` uploads regardless of browser-reported `Content-Type`, including uppercase filenames (e.g., `DATASET.CSV`). Legacy endpoints (e.g., v1 runs query) deprecated with sunset date of **Jan 31, 2027** and migration guide links.
+- **Annotation & Dataset APIs**: LangSmith Cloud exposes new annotation queue item endpoints (add/list/update/delete/count/position/review) via public API/SDK, with support for `.csv`/`.jsonl` uploads regardless of browser-reported `Content-Type` (fixes Windows Excel-type labeling issues) and uppercase filenames (e.g., `DATASET.CSV`).
 
-- **LLM Gateway Enhancements**: Policy management expanded to support organization/workspace/user-scoped spend caps/rate limits via custom `X-Gateway-*` headers. Credit purchase UI now shows fee-inclusive totals, and onboarding flow includes model access options (Gateway Credits vs. provider API keys).
+- **Legacy API Deprecation**: All legacy endpoints (v1 runs query/retrieve, v1 run sharing/public-read, `POST /api/v1/datasets/{dataset_id}/runs`, annotation queue run endpoints) are marked deprecated with `Sunset: January 31, 2027` and `Deprecation: true` headers, requiring migration to SmithDB SDK.
 
-- **Tracing & Sandbox Updates**: Trace deletion added to run details; sandboxes now include `langsmith` CLI v0.2.44 by default, with streaming execute requests (SSE) for non-WebSocket clients. Token/cost filters default to **total** metrics (input/output breakdowns retained).
+- **LLM Gateway Enhancements**: New LLM Gateway features include per-subject spend-cap/rate-limit policies (org/workspace/user/API-key-scoped), expanded default policy visibility, improved credit purchase UX (real-time balance display), and Google Gemini model support in connect samples.
 
 ## Why It Matters
 
@@ -47,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T12:56:19.581707+05:30
+- Published: 2026-08-09T15:37:07.886351+05:30
 
 ## Related Tags
 
@@ -61,6 +62,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - producthunt
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

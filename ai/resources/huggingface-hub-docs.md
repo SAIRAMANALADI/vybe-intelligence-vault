@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huggingface/hub-docs
-collected_at: '2026-08-09T12:57:28.041061+05:30'
+collected_at: '2026-08-09T15:38:12.790044+05:30'
 published_at: '2026-08-09T03:36:32Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2022-03-16T13:26:14Z'
 pushed_at: '2026-08-09T03:36:29Z'
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-08-09T12:57:28.041061+05:30'
-last_seen: '2026-08-09T12:57:28.041061+05:30'
-last_checked: '2026-08-09T12:57:28.041061+05:30'
+first_seen: '2026-08-09T15:38:12.790044+05:30'
+last_seen: '2026-08-09T15:38:12.790044+05:30'
+last_checked: '2026-08-09T15:38:12.790044+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Official documentation for the Hugging Face Hub, written in Handlebars, covering ML model hosting, sharing, and collaboration features.
+- **Repository Overview**: Official documentation for the Hugging Face Hub, implemented in Handlebars for templating.
 - **Metadata**: 582 stars, 480 forks, last updated 2026-08-09; includes `hacktoberfest` and `machine-learning` topics.
-- **Purpose**: Provides structured, template-based documentation for integrating with or contributing to the Hugging Face Hub ecosystem.
+- **Purpose**: Provides structured guidance and resources for users interacting with the Hugging Face Hub ecosystem.
 
 ## Why It Matters
 

@@ -4,25 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Shubhamsaboo/awesome-llm-apps
-collected_at: '2026-08-09T12:51:44.132537+05:30'
-published_at: '2026-08-09T07:18:01Z'
+collected_at: '2026-08-09T15:32:06.709620+05:30'
+published_at: '2026-08-09T09:57:29Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 131591
+- workflows
+stars: 131618
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-04-29T05:30:25Z'
-pushed_at: '2026-08-09T04:24:38Z'
+pushed_at: '2026-08-09T08:51:39Z'
 resource_id: github:shubhamsaboo/awesome-llm-apps
-first_seen: '2026-08-09T12:51:44.132537+05:30'
-last_seen: '2026-08-09T12:51:44.132537+05:30'
-last_checked: '2026-08-09T12:51:44.132537+05:30'
+first_seen: '2026-08-09T15:32:06.709620+05:30'
+last_seen: '2026-08-09T15:32:06.709620+05:30'
+last_checked: '2026-08-09T15:32:06.709620+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository hosting 100+ open-source AI agents, agent skills, and RAG applications, primarily implemented in Python.
-- **Technical Scope**: Focuses on large language models (LLMs), retrieval-augmented generation (RAG), and agent-based architectures.
-- **Community Metrics**: 131,591 stars and 19,385 forks as of the last update (2026-08-09).
+- **Repository Overview**: Curated collection of 100+ open-source AI agents, agent skills, and RAG applications implemented in Python, with 131,618 stars and 19,386 forks.
+- **Technical Scope**: Focuses on agent-based architectures, large language models (LLMs), and retrieval-augmented generation (RAG) pipelines for modular AI workflows.
+- **Maintenance**: Actively updated as of 2026-08-09, ensuring compatibility with evolving LLM and agent frameworks.
 
 ## Why It Matters
 
@@ -41,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Shubhamsaboo
-- Stars: 131591
-- Forks: 19385
+- Stars: 131618
+- Forks: 19386
 - Language: Python
 - Topics: agents, llms, python, rag
-- Last Updated: 2026-08-09T07:18:01Z
+- Last Updated: 2026-08-09T09:57:29Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-04-29T05:30:25Z
-- Pushed At: 2026-08-09T04:24:38Z
+- Pushed At: 2026-08-09T08:51:39Z
 
 ## Possible Use Cases
 

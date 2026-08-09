@@ -13,8 +13,8 @@ React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 *   [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
 *   [kartikk-k/dashboard-ui](https://github.com/kartikk-k/dashboard-ui)
 *   [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
-*   [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind)
 *   [GitHub - tailwindlabs/tailwindcss-typography: Beautiful typographic defaults for HTML you don't control. · GitHub](https://tailwindcss.com/docs/typography-plugin)
+*   [Configure security](https://gohugo.io/configuration/security/)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

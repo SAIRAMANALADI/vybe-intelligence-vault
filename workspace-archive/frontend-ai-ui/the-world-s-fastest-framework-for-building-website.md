@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Licensing & Community**: Distributed under Apache 2.0 License; 89,376 GitHub stars (as of Aug 2026); active community support via Hugo forums.
-- **Performance & Flexibility**: Go-based, optimized for speed; renders large sites in seconds; supports multilingual content, advanced taxonomies, and flexible templating.
-- **Asset Processing & Dev Server**: Built-in fast asset pipeline (image/Sass/JS processing, TailwindCSS); embedded live-reload web server for instant development feedback.
+- **License & Popularity**: Distributed under Apache 2.0 License; has 89,376 GitHub stars (as of Aug 8, 2026) with an active community and frequent releases.
+
+- **Performance & Flexibility**: Written in Go, optimized for speed (renders large sites in seconds); supports multilingual content, advanced taxonomies, and flexible templating for diverse site types.
+
+- **Asset Pipeline & Dev Server**: Features fast asset processing (image manipulation, JS bundling, Sass/TailwindCSS support) and an embed
 
 ## Use Cases
 

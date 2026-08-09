@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-08-09T12:51:16.763829+05:30'
-collected_at: '2026-08-09T12:51:16.763841+05:30'
+published_at: '2026-08-09T15:31:39.016522+05:30'
+collected_at: '2026-08-09T15:31:39.016534+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-08-09T12:51:16.763841+05:30'
-last_seen: '2026-08-09T12:51:16.763841+05:30'
-last_checked: '2026-08-09T12:51:16.763841+05:30'
+first_seen: '2026-08-09T15:31:39.016534+05:30'
+last_seen: '2026-08-09T15:31:39.016534+05:30'
+last_checked: '2026-08-09T15:31:39.016534+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid search, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
+- **RAG Architecture**: Combines retrieval (vector DB search), augmentation (injecting retrieved context), and generation (LLM producing grounded answers) to mitigate hallucinations, enable freshness, and handle private knowledge without retraining models.
 
-- **Core RAG Pipeline**: User query → retrieval (top-K relevant docs via vector/sparse search) → augmentation (context injection) → LLM generation (grounded answer with citations), with modular variants enabling routing, looping, and tool integration.
+- **Evolution of RAG**: Progressed from Naive RAG (basic vector search) → Advanced RAG (hybrid retrieval, reranking, query transformation) → Modular/Graph RAG (entity-relation graphs, multi-hop reasoning, tool integration) to address complex queries and relational reasoning.
 
-- **Technical Components**: Embeddings (e.g., `BAAI/bge-m3`), vector DBs (Chroma, Pinecone), rerankers (cross-encoders), and ANN algorithms (HNSW) underpin retrieval; Graph RAG leverages entity extraction and graph traversal for relational reasoning.
+- **Implementation Stack**: Uses frameworks like LangChain/LCEL for modular pipelines, vector DBs (Chroma/Qdrant) for ANN search, and embeddings (BGE-M3/E5) with optional rerankers (BAAI/bge-reranker-v2-m3) for scalable, production-grade retrieval-augmented systems.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T12:51:16.763829+05:30
+- Published: 2026-08-09T15:31:39.016522+05:30
 
 ## Related Tags
 

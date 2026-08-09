@@ -3,13 +3,12 @@ title: gohugoio/hugo-goldmark-extensions
 category: ai/resources
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file#extras-extension
-collected_at: '2026-08-04T01:39:21.093740+05:30'
+source_url: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file#passthrough-extension
+collected_at: '2026-08-09T15:38:40.553413+05:30'
 published_at: '2026-07-24T13:45:43Z'
 tags:
 - github-repo
 - go
-- hackernews
 stars: 34
 language: Go
 status: active
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-01-10T19:32:08Z'
 pushed_at: '2026-07-20T09:37:10Z'
 resource_id: github:gohugoio/hugo-goldmark-extensions
-first_seen: '2026-08-04T01:39:21.093740+05:30'
-last_seen: '2026-08-04T01:39:21.093740+05:30'
-last_checked: '2026-08-04T01:39:21.093740+05:30'
+first_seen: '2026-08-09T15:38:40.553413+05:30'
+last_seen: '2026-08-09T15:38:40.553413+05:30'
+last_checked: '2026-08-09T15:38:40.553413+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a suite of Goldmark extensions tailored for Hugo, enhancing Markdown processing capabilities.
-- **Key Components**: Includes extensions like `Extras` for additional Markdown syntax (e.g., footnotes, strikethrough, table alignment).
-- **Technical Stack**: Written in Go, designed to integrate seamlessly with Hugo's Goldmark-based Markdown rendering pipeline.
+- **Passthrough Extension**: Enables Goldmark to pass through raw content (e.g., LaTeX, HTML) without processing, preserving original syntax for Hugo static site generation.
+- **Go-Based Implementation**: Built as a Goldmark extension in Go, integrating seamlessly with Hugo’s Markdown pipeline for enhanced rendering control.
+- **Community-Driven**: Developed by the Hugo community, extending Goldmark’s default functionality for specialized use cases (e.g., academic/scientific documentation).
 
 ## Why It Matters
 
@@ -65,4 +64,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file#extras-extension
+Original source: https://github.com/gohugoio/hugo-goldmark-extensions?tab=readme-ov-file#passthrough-extension

@@ -8,10 +8,9 @@ local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - rag
 - reddit
 - scripts
@@ -19,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Unlocking the power of unstructured data with RAG - The GitHub Blog
@@ -28,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **GitHub Actions Workflow Optimization**: Nicole Choi specializes in enhancing CI/CD pipelines via GitHub Actions, focusing on reducing build times and improving workflow efficiency through caching, parallel jobs, and artifact management.
+- **GitHub Actions Workflow Optimization**: Nicole Choi specializes in enhancing CI/CD pipelines via GitHub Actions, focusing on performance tuning, caching strategies, and reducing workflow execution time.
 
-- **Open Source Contributions**: Actively contributes to GitHub’s open-source projects, including tooling for developer productivity, security scanning, and automation frameworks.
+- **Security Automation in DevOps**: Advocates for integrating security scanning (SAST/DAST) into GitHub Actions workflows, automating vulnerability detection and remediation in CI/CD pipelines.
 
-- **Technical Blogging & Advocacy**: Publishes technical articles on GitHub B
+- **Open-Source Contributions**: Active contributor to GitHub’s documentation and tooling, with
 
 ## Use Cases
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Contribution Workflow**: Submit GitHub issues for bug reports or new tutorial requests; edit/add `.ipynb` tutorials in the `tutorials` folder, following the template and naming conventions, then create a PR for review and CI validation.
-- **Environment Setup**: Install dependencies via `pip install -r requirements.txt` and enable pre-commit hooks (`pre-commit install`) for formatting checks before commits.
-- **Slug Customization**: Default slugs derive from filenames; optional `slug` entries
+- Contributions to Haystack tutorials can be made via GitHub issues (bug reports or new tutorial requests) or direct edits/PRs to `.ipynb` files in the `tutorials` folder.
+- New tutorials require copying the template, adhering to naming conventions (e.g., `XX_descriptive_name.ipynb`), updating `index.toml` (including `weight` and `colab` flags), and ensuring CI passes post-PR.
+- Slugs default to tutorial filenames but can be customized in `index.toml`; CI workflows validate tutorial execution on
 
 ## Use Cases
 

@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-09T12:55:29.272818+05:30'
+collected_at: '2026-08-09T15:35:51.965409+05:30'
 published_at: '2026-08-08T06:56:45Z'
 tags:
 - agents
 - github-repo
 - meta-ai
 - models
+- openai
 - python
 stars: 356
 language: Python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-09T12:55:29.272818+05:30'
-last_seen: '2026-08-09T12:55:29.272818+05:30'
-last_checked: '2026-08-09T12:55:29.272818+05:30'
+first_seen: '2026-08-09T15:35:51.965409+05:30'
+last_seen: '2026-08-09T15:35:51.965409+05:30'
+last_checked: '2026-08-09T15:35:51.965409+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements a collaborative multi-agent framework using CrewAI, enabling task delegation and parallel processing among specialized agents.
+- **Multi-Agent System**: Implements a cooperative multi-agent architecture using CrewAI, enabling parallel task execution and orchestration via FastAPI endpoints.
 
-- **API Service Layer**: Exposes agent interactions via FastAPI, allowing external integration with RESTful endpoints for model inference and agent orchestration.
+- **Model Agnostic Integration**: Supports diverse LLMs including OpenAI's GPT, domestic Chinese models, and local Ollama models, with dynamic model selection via API parameters.
 
-- **Model Agnostic Support**: Compatible with proprietary (e.g., GPT) and open-source models (e.g., Ollama, domestic LLMs) through standardized API interfaces.
+- **API-First Design**: Exposes RESTful endpoints for agent interaction, task submission, and result retrieval, with real-time updates and async task handling.
 
 ## Why It Matters
 

@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-09T12:52:34.168526+05:30'
+collected_at: '2026-08-09T15:32:56.750000+05:30'
 published_at: '2026-08-09T05:32:34Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
+- meta-ai
+- models
 - python
 - rag
 - reddit
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-09T12:52:34.168526+05:30'
-last_seen: '2026-08-09T12:52:34.168526+05:30'
-last_checked: '2026-08-09T12:52:34.168526+05:30'
+first_seen: '2026-08-09T15:32:56.750000+05:30'
+last_seen: '2026-08-09T15:32:56.750000+05:30'
+last_checked: '2026-08-09T15:32:56.750000+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting the external knowledge base to manipulate LLM outputs, demonstrated in USENIX Security 2025.
-- **Mechanism**: Exploits vulnerabilities in RAG pipelines by injecting adversarial documents into the retrieval corpus, causing LLMs to generate incorrect or biased responses while maintaining high retrieval relevance scores.
-- **Evaluation & Impact**: Validates attack efficacy on multiple RAG models, showing significant degradation in response accuracy and proposing mitigation strategies to enhance robustness against such knowledge corruption.
+- **Attack Mechanism**: Introduces *PoisonedRAG*, a novel knowledge corruption attack targeting Retrieval-Augmented Generation (RAG) systems by poisoning the external knowledge base, causing LLMs to generate malicious or incorrect outputs while maintaining high retrieval relevance.
+
+- **Technical Implementation**: Demonstrates attack feasibility by injecting adversarial documents into the retrieval corpus, exploiting vulnerabilities in embedding models and retrieval pipelines to manipulate top-k document selection and downstream generation.
+
+- **Impact & Mitigation**: Evaluates attack effectiveness across multiple RAG frameworks (e.g., LangChain, LlamaIndex) and proposes preliminary defense strategies, including retrieval robustness checks and adversarial filtering of the knowledge base.
 
 ## Why It Matters
 

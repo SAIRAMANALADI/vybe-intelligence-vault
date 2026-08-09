@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adityatelange/hugo-PaperMod/
-collected_at: '2026-08-09T08:08:05.971783+05:30'
+collected_at: '2026-08-09T15:35:56.932937+05:30'
 published_at: '2026-08-08T16:44:29Z'
 tags:
 - creative_dev
@@ -20,9 +20,9 @@ archived: false
 created_at: '2020-07-21T04:45:10Z'
 pushed_at: '2026-08-02T18:00:13Z'
 resource_id: github:adityatelange/hugo-papermod
-first_seen: '2026-08-09T08:08:05.971783+05:30'
-last_seen: '2026-08-09T08:08:05.971783+05:30'
-last_checked: '2026-08-09T08:08:05.971783+05:30'
+first_seen: '2026-08-09T15:35:56.932937+05:30'
+last_seen: '2026-08-09T15:35:56.932937+05:30'
+last_checked: '2026-08-09T15:35:56.932937+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Hugo-PaperMod**: A high-performance, responsive Hugo theme optimized for blogs, portfolios, and multilingual content with a clean, grayscale design.
-- **Features**: Supports fast rendering, feature-rich templates, and is MIT-licensed with extensive documentation.
-- **Technical**: Built in HTML, last updated in 2026, with 13,830 stars and 3,427 forks on GitHub.
+- **Features**: Supports fast rendering, rich customization, and is MIT-licensed with extensive documentation and modular components.
+- **Technical Stack**: Built in HTML, compatible with Hugo static site generator, and designed for scalability and performance.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-09T12:52:29.184356+05:30'
+collected_at: '2026-08-09T15:32:51.787787+05:30'
 published_at: '2026-08-08T03:47:36Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-09T12:52:29.184356+05:30'
-last_seen: '2026-08-09T12:52:29.184356+05:30'
-last_checked: '2026-08-09T12:52:29.184356+05:30'
+first_seen: '2026-08-09T15:32:51.787787+05:30'
+last_seen: '2026-08-09T15:32:51.787787+05:30'
+last_checked: '2026-08-09T15:32:51.787787+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge bases.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in enterprise contexts.
 
-- **Dataset Composition**: Includes synthetic and real-world enterprise data, covering diverse domains (e.g., finance, legal) with structured/unstructured documents, paired with domain-specific question-answer pairs for RAG evaluation.
+- **Dataset Composition**: Includes synthetic data generation tools for creating domain-specific Q&A pairs, documents, and retrieval tasks, with focus on enterprise knowledge bases and internal document structures.
 
-- **Evaluation Metrics**: Implements multi-dimensional metrics (e.g., retrieval precision, answer correctness, latency) to assess RAG pipelines across semantic search, context relevance, and generative AI output quality.
+- **Evaluation Metrics**: Supports comprehensive RAG evaluation via metrics for retrieval quality, answer correctness, and end-to-end system performance, with Python-based tooling for automated benchmarking.
 
 ## Why It Matters
 

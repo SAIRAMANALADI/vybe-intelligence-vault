@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-08-09T12:52:44.199720+05:30'
-published_at: '2026-08-08T16:08:24Z'
+collected_at: '2026-08-09T15:33:06.776614+05:30'
+published_at: '2026-08-09T09:31:55Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
-stars: 21258
+stars: 21260
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-07-31T21:07:09Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-08-09T12:52:44.199720+05:30'
-last_seen: '2026-08-09T12:52:44.199720+05:30'
-last_checked: '2026-08-09T12:52:44.199720+05:30'
+first_seen: '2026-08-09T15:33:06.776614+05:30'
+last_seen: '2026-08-09T15:33:06.776614+05:30'
+last_checked: '2026-08-09T15:33:06.776614+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: End-to-end, code-first tutorials for developing production-grade GenAI agents, covering prototype to enterprise deployment workflows.
-- **Technical Stack**: Python-based implementation using Jupyter Notebooks, integrating frameworks like LangGraph, MCP, and RAG with MLOps and observability tools.
-- **Scope**: Covers multi-agent systems, LLM integration, agent frameworks, and deployment strategies for GenAI applications.
+- **Repository**: `NirDiamant/agents-towards-production` provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototype to enterprise deployment.
+- **Technical Scope**: Focuses on agent frameworks, multi-agent systems, LangGraph, MCP, RAG, LLMs, MLOps, and observability, with implementations in Python and Jupyter Notebooks.
+- **Key Features**: Includes tutorials on deployment, scalability, and enterprise integration, last updated on **2026-08-09**.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 21258
+- Stars: 21260
 - Forks: 2817
 - Language: Jupyter Notebook
 - Topics: agent, agent-framework, agentic-ai, agents, ai-agents, deployment, genai, generative-ai, langgraph, llm, llms, mcp, mlops, multi-agent-systems, observability, production, python, rag, tutorials
-- Last Updated: 2026-08-08T16:08:24Z
+- Last Updated: 2026-08-09T09:31:55Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-06-16T17:33:44Z

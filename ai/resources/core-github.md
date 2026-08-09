@@ -4,21 +4,20 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/oacore
-published_at: '2026-08-08T21:26:09.357503+05:30'
-collected_at: '2026-08-08T21:26:09.357510+05:30'
+published_at: '2026-08-09T15:37:24.566147+05:30'
+collected_at: '2026-08-09T15:37:24.566160+05:30'
 tags:
 - frontend_ui
 - hackernews
 - paper
 - reddit
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:core-github
-first_seen: '2026-08-08T21:26:09.357510+05:30'
-last_seen: '2026-08-08T21:26:09.357510+05:30'
-last_checked: '2026-08-08T21:26:09.357510+05:30'
+first_seen: '2026-08-09T15:37:24.566160+05:30'
+last_seen: '2026-08-09T15:37:24.566160+05:30'
+last_checked: '2026-08-09T15:37:24.566160+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,14 @@ health_score: 100
 
 ## Summary
 
-- **CORE GitHub Organization**: Hosts open-source projects including a React-based design system (`design`), a PDF viewer (`reader`), and API clients in Python (`pyoacore`) and Java (`oacore4j`), all under MIT license.
+- **CORE Organization**: GitHub organization (`oacore`) based in Milton Keynes, UK, hosting 46 public repositories primarily in JavaScript, Python, PHP, and Java, with a focus on open-access academic content tools and APIs.
 
-- **Key Repositories**: Includes `recommender-bundle` (PHP), `resync-proto-server` (Python), and `ojs-core` (PHP), focusing on academic paper processing, resource synchronization, and Open Journal Systems integration.
+- **Key Repositories**:
+  - `pyoacore`: Python client for CORE API (MIT license, 5 stars).
+  - `oacore4j`: Java client for CORE API (MIT license, 0 stars, 3 open issues labeled "help wanted").
+  - `reader`: Full-featured PDF viewer optimized for academic papers (21 stars).
 
-- **Technical Stack**: Frontend components in JavaScript/TypeScript, backend services in PHP/Python/Java, with workflows for DevOps automation and architecture documentation in HTML.
+- **Technical Stack**: Frontend libraries (`design`, `search`) built with React/JavaScript; backend tools include PHP (Symfony), Python, and Java for API clients and data processing workflows.
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T21:26:09.357503+05:30
+- Published: 2026-08-09T15:37:24.566147+05:30
 
 ## Related Tags
 
@@ -48,7 +50,6 @@ General public resource representing technology updates, guides, or tutorials.
 - hackernews
 - paper
 - reddit
-- scripts
 - web-crawled
 - workflows
 

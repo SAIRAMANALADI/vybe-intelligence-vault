@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://langfuse.com
-published_at: '2026-08-09T10:19:07.214693+05:30'
-collected_at: '2026-08-09T10:19:07.214702+05:30'
+published_at: '2026-08-09T15:40:22.443888+05:30'
+collected_at: '2026-08-09T15:40:22.443902+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langfuse
-first_seen: '2026-08-09T10:19:07.214702+05:30'
-last_seen: '2026-08-09T10:19:07.214702+05:30'
-last_checked: '2026-08-09T10:19:07.214702+05:30'
+first_seen: '2026-08-09T15:40:22.443902+05:30'
+last_seen: '2026-08-09T15:40:22.443902+05:30'
+last_checked: '2026-08-09T15:40:22.443902+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Adoption & Scale**: Deployed by **21** of the Fortune 50, processing **10+ billion** observations/month with **100,000+** engineers building on the platform.
+- **Adoption & Scale**: Deployed by 21 Fortune 50 companies, processing 10+ billion observations/month with 100,000+ engineers building on the platform.
 
-- **Unified AI Agent Lifecycle Management**: Integrates **tracing, monitoring, prompt management, evaluation, experiments, and human feedback** in a single platform for continuous LLM agent improvement.
+- **Core Features**: Integrates tracing, monitoring, prompt management, evaluation, and human-in-the-loop workflows in a single platform for LLM agent observability and optimization.
 
-- **Multi-Language & Framework Agnostic**: Supports **OTel instrumentation** across **Python, TypeScript, Go, Java, .NET, Ruby, PHP, Swift**, with **100+ integrations** (e.g., LangChain, Vercel AI SDK, OpenAI, Anthropic) and no vendor lock-in.
+- **Multi-Framework Support**: Compatible with any stack via OpenTelemetry (Python, TypeScript, Go, Java, .NET, etc.) and supports 100+ integrations (LangChain, Vercel AI SDK, LiteLLM, OpenAI, Anthropic, etc.).
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T10:19:07.214693+05:30
+- Published: 2026-08-09T15:40:22.443888+05:30
 
 ## Related Tags
 

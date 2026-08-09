@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-09T12:52:24.193212+05:30'
+collected_at: '2026-08-09T15:32:46.759965+05:30'
 published_at: '2026-08-07T07:48:15Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 298
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-09T12:52:24.193212+05:30'
-last_seen: '2026-08-09T12:52:24.193212+05:30'
-last_checked: '2026-08-09T12:52:24.193212+05:30'
+first_seen: '2026-08-09T15:32:46.759965+05:30'
+last_seen: '2026-08-09T15:32:46.759965+05:30'
+last_checked: '2026-08-09T15:32:46.759965+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: CRAG is a **Comprehensive benchmark** designed to evaluate **Retrieval-Augmented Generation (RAG)** systems, providing standardized metrics and datasets for assessing performance across diverse tasks.
+- **Benchmark Framework**: CRAG is a comprehensive benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems, providing standardized metrics and datasets for performance assessment.
 
-- **Implementation**: The repository is structured as **Jupyter Notebooks**, enabling interactive and reproducible evaluation of RAG pipelines, including retrieval, generation, and hybrid components.
+- **Technical Components**: Implemented in Jupyter Notebooks, it includes diverse evaluation tasks (e.g., factuality, hallucination detection, and context relevance) to rigorously test RAG pipelines.
 
-- **Scope**: Focuses on **systematic benchmarking** of RAG models, covering aspects like **retrieval quality, factual accuracy, and contextual relevance** in generative tasks.
+- **Repository Status**: Last updated in August 2026, with 298 stars and 37 forks, indicating active community engagement and potential for future contributions.
 
 ## Why It Matters
 

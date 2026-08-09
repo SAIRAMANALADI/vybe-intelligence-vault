@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.framer.com
-published_at: '2026-08-09T08:13:49.638488+05:30'
-collected_at: '2026-08-09T08:13:49.638506+05:30'
+published_at: '2026-08-09T15:39:29.705878+05:30'
+collected_at: '2026-08-09T15:39:29.705888+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:framer-ai-website-builder-for-professional-sites
-first_seen: '2026-08-09T08:13:49.638506+05:30'
-last_seen: '2026-08-09T08:13:49.638506+05:30'
-last_checked: '2026-08-09T08:13:49.638506+05:30'
+first_seen: '2026-08-09T15:39:29.705888+05:30'
+last_seen: '2026-08-09T15:39:29.705888+05:30'
+last_checked: '2026-08-09T15:39:29.705888+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Native Design Agent**: Framer integrates a professional design agent directly into the canvas, enabling in-place generation and refinement of UI elements with real-time visibility and full user control.
+- **Native AI Design Agents**: Framer integrates professional AI agents directly into the canvas for real-time, in-place design generation/refinement, with all changes visible, editable, and user-controlled.
 
-- **CMS & Code Automation**: Agents manage, organize, and update CMS collections while converting high-level prompts into functional code components, ensuring design-content synchronization and rapid deployment.
+- **Unified CMS & Code Automation**: Agents manage CMS setup/organization and convert high-level ideas into production-ready code (including complex interactions), while supporting external AI tool integration (e.g., Cursor, Claude Code) for cross-platform workflows.
 
-- **Multi-Tool Integration**: Supports external AI agents (e.g., Cursor, Claude Code) for cross-platform workflows, enabling actions like Slack-driven copy updates or GitHub PR-triggered deployments via terminal commands.
+- **Performance-Optimized Publishing**: Framer provides built-in Core Web Vitals optimization (LCP: 1.1s, INP: 95ms, CLS: 0.01) and direct CMS-to-design synchronization for accelerated, scalable deployment.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-09T08:13:49.638488+05:30
+- Published: 2026-08-09T15:39:29.705878+05:30
 
 ## Related Tags
 

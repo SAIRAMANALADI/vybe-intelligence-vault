@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-09T12:51:49.137159+05:30'
+collected_at: '2026-08-09T15:32:11.751031+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-09T12:51:49.137159+05:30'
-last_seen: '2026-08-09T12:51:49.137159+05:30'
-last_checked: '2026-08-09T12:51:49.137159+05:30'
+first_seen: '2026-08-09T15:32:11.751031+05:30'
+last_seen: '2026-08-09T15:32:11.751031+05:30'
+last_checked: '2026-08-09T15:32:11.751031+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and analyzing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Leverages Streamlit for a user-friendly web interface, facilitating real-time interaction with RAG components (e.g., retrieval mechanisms, prompt engineering, and model outputs) via dynamic visualizations.
+- **Streamlit-Powered UI**: Leverages Streamlit for an interactive web interface, facilitating real-time manipulation and visualization of RAG components (e.g., retrieval mechanisms, LLM outputs) without requiring frontend development.
 
-- **Modular Python Framework**: Designed for extensibility, supporting custom RAG pipelines with Python-based integrations (e.g., LLMs, vector databases) and modular visualization components for debugging and optimization.
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines, retrieval strategies, and LLM integrations while providing pre-built visualization templates for quick deployment.
 
 ## Why It Matters
 

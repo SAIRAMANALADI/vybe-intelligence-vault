@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://fastmail.com/blog/fastmail-offers-eu-data-region
 hn_url: https://news.ycombinator.com/item?id=49223082
-score: 381
+score: 417
 author: groomlake
-comments_count: 192
+comments_count: 216
 published_at: '2026-08-08T21:34:51+05:30'
-collected_at: '2026-08-09T12:50:23.670298+05:30'
+collected_at: '2026-08-09T15:30:53.455057+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:fastmail-offers-eu-data-region
 first_seen: '2026-08-09T03:19:46.178940+05:30'
-last_seen: '2026-08-09T12:50:23.670298+05:30'
-last_checked: '2026-08-09T12:50:23.670298+05:30'
+last_seen: '2026-08-09T15:30:53.455057+05:30'
+last_checked: '2026-08-09T15:30:53.455057+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by groomlake. Score: 381, Comments: 192.
+Hacker News story by groomlake. Score: 417, Comments: 216.
 Original Link: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: groomlake
-- Score: 381 Upvotes
-- Comments: 192 Discussions
+- Score: 417 Upvotes
+- Comments: 216 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49223082
 - Original Article: https://fastmail.com/blog/fastmail-offers-eu-data-region
 

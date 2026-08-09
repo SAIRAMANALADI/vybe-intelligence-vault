@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-09T12:52:54.221089+05:30'
+collected_at: '2026-08-09T15:33:16.808281+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-09T12:52:54.221089+05:30'
-last_seen: '2026-08-09T12:52:54.221089+05:30'
-last_checked: '2026-08-09T12:52:54.221089+05:30'
+first_seen: '2026-08-09T15:33:16.808281+05:30'
+last_seen: '2026-08-09T15:33:16.808281+05:30'
+last_checked: '2026-08-09T15:33:16.808281+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → document) to optimize context relevance and reduce noise in generated outputs.
-- **Efficiency Optimizations**: Uses lightweight graph traversal (e.g., pruning, caching) and semantic aggregation (e.g., embeddings, attention) to balance retrieval granularity and computational overhead.
-- **AAAI 2026 Benchmarking**: Evaluates performance on knowledge-intensive tasks (e.g., QA, summarization) with metrics like precision, recall, and latency, demonstrating superiority over traditional dense retrieval baselines.
+- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based retrieval framework that aggregates semantic relationships to enhance contextual relevance in RAG pipelines.
+
+- **Hierarchical Retrieval Strategy**: Utilizes multi-layered retrieval (e.g., node/edge-level) to dynamically prioritize high-impact knowledge snippets, improving generation accuracy.
+
+- **Efficiency Optimization**: Designed for low-latency inference with Python-based lightweight implementations, leveraging graph pruning and caching for scalable performance.
 
 ## Why It Matters
 

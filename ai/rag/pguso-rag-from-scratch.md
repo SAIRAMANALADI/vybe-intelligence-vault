@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-09T12:51:29.135007+05:30'
-published_at: '2026-08-09T06:04:25Z'
+collected_at: '2026-08-09T15:31:51.713823+05:30'
+published_at: '2026-08-09T08:37:59Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-stars: 1538
+stars: 1539
 language: JavaScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-09T12:51:29.135007+05:30'
-last_seen: '2026-08-09T12:51:29.135007+05:30'
-last_checked: '2026-08-09T12:51:29.135007+05:30'
+first_seen: '2026-08-09T15:31:51.713823+05:30'
+last_seen: '2026-08-09T15:31:51.713823+05:30'
+last_checked: '2026-08-09T15:31:51.713823+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 - **Educational RAG Pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) implementation from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Node.js-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, ensuring transparency and full control over the RAG pipeline components.
+- **JavaScript-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, enabling a self-contained, reproducible RAG pipeline without external cloud services.
 
-- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for developers to understand and build RAG systems, including agents, chatbots, and retrieval pipelines, with last updates as of August 2026.
+- **Open-Source Tutorial**: Provides a step-by-step guide for constructing RAG systems, including agents, chatbots, and pipelines, with a focus on transparency and educational value (1539 stars, 189 forks). Last updated August 2026.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1538
+- Stars: 1539
 - Forks: 189
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-08-09T06:04:25Z
+- Last Updated: 2026-08-09T08:37:59Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

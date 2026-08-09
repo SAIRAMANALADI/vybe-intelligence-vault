@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-09T10:15:08.988180+05:30'
+collected_at: '2026-08-09T15:34:41.901613+05:30'
 published_at: '2026-08-07T18:43:50Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-08-09T04:22:03Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-09T10:15:08.988180+05:30'
-last_seen: '2026-08-09T10:15:08.988180+05:30'
-last_checked: '2026-08-09T10:15:08.988180+05:30'
+first_seen: '2026-08-09T15:34:41.901613+05:30'
+last_seen: '2026-08-09T15:34:41.901613+05:30'
+last_checked: '2026-08-09T15:34:41.901613+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Architecture**: Tracecat is an open-source, event-driven security automation platform built with Python (FastAPI backend) and Next.js (frontend), leveraging Temporal.io for workflow orchestration and Pydantic for data validation.
+- **Event-Driven Security Automation Platform**: Tracecat is an open-source, Python-based platform designed for security automation, leveraging FastAPI, Pydantic, and TemporalIO for workflow orchestration and event-driven task execution.
 
-- **Key Features**: Supports low-code automation, LLM integration, and security-focused workflows with OpenAPI-based API design, enabling AI agents and teams to execute and monitor security operations.
+- **AI Agent & Low-Code Integration**: Supports AI agents and low-code workflows with Next.js frontend, OpenAPI schema generation, and LLM-driven automation for security monitoring and response.
 
-- **Technical Stack**: Utilizes temporalio for temporal workflows, FastAPI for REST APIs, and Next.js for the UI, with dependencies on Pydantic for schema validation and OpenAPI for API documentation.
+- **Modular Architecture**: Built with security-focused components (e.g., workflow engine, monitoring) and scalable backend (FastAPI, TemporalIO) for team collaboration and automation.
 
 ## Why It Matters
 

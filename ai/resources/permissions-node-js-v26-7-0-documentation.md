@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/api/permissions.html#permission-model
-published_at: '2026-08-09T08:11:43.507355+05:30'
-collected_at: '2026-08-09T08:11:43.507372+05:30'
+published_at: '2026-08-09T15:38:41.697742+05:30'
+collected_at: '2026-08-09T15:38:41.697756+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:permissions-node-js-v26-7-0-documentation
-first_seen: '2026-08-09T08:11:43.507372+05:30'
-last_seen: '2026-08-09T08:11:43.507372+05:30'
-last_checked: '2026-08-09T08:11:43.507372+05:30'
+first_seen: '2026-08-09T15:38:41.697756+05:30'
+last_seen: '2026-08-09T15:38:41.697756+05:30'
+last_checked: '2026-08-09T15:38:41.697756+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Permission Model**: Introduced in v20.0.0, this model restricts access to system resources via CLI flags (`--permission`, `--permission-audit`). Enforce mode denies unauthorized operations (throws `ERR_ACCESS_DENIED`), while audit mode logs violations without blocking execution.
+- **Permission Model**: Introduced in Node.js v20.0.0, this model restricts access to system resources via a `--permission` flag, operating in **enforce mode** (denies unauthorized access) or **audit mode** (logs violations without blocking execution).
 
-- **Runtime API**: Provides `permission.has(scope[, reference])` to check permissions and `permission.drop(scope[, reference])` to revoke them dynamically during runtime.
+- **Runtime API**: Provides `permission.has(scope[, reference])` to check permissions and `permission.drop(scope[, reference])` to revoke them, enabling granular control over file system, network, and process operations.
 
-- **Resource Restrictions**: Disables file system access, network operations, process spawning, worker threads, native addons, WASI, FFI, and inspector by default; permissions can be selectively enabled via flags like `--allow-child-process` or `--allow-worker`.
+- **CLI Flags**: Enables/disables permissions via `--permission` (enforce) or `--permission-audit` (logging), with additional flags like `--allow-child-process` and `--allow-worker` to selectively grant restricted capabilities.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T08:11:43.507355+05:30
+- Published: 2026-08-09T15:38:41.697742+05:30
 
 ## Related Tags
 

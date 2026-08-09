@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-09T12:54:34.246850+05:30'
+collected_at: '2026-08-09T15:34:56.868479+05:30'
 published_at: '2026-08-08T04:28:08Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - scripts
 - shell
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-06T12:31:03Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-09T12:54:34.246850+05:30'
-last_seen: '2026-08-09T12:54:34.246850+05:30'
-last_checked: '2026-08-09T12:54:34.246850+05:30'
+first_seen: '2026-08-09T15:34:56.868479+05:30'
+last_seen: '2026-08-09T15:34:56.868479+05:30'
+last_checked: '2026-08-09T15:34:56.868479+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP (Model Context Protocol) for Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
 
-- **Capabilities**: Features proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates tools like Crawl4AI for scraping, SearXNG for search, and Supabase for data persistence.
+- **Multi-agent architecture** with **delegated sub-agents**, **MCP-based Skills**, and **proactive task management**, supporting **media understanding** and **self-hosted deployment** via a single setup script.
 
-- **Technical Stack**: Shell-based repository with dependencies on n8n, MCP, Supabase, Crawl4AI, and SearXNG; supports AI agent orchestration, skill templating, and modular agent delegation for scalable autonomous workflows.
+- **Integration stack** includes **Crawl4AI** for web scraping, **SearXNG** for search, **Supabase** for storage, and **Model Context Protocol (MCP)** for extensible agent capabilities.
 
 ## Why It Matters
 

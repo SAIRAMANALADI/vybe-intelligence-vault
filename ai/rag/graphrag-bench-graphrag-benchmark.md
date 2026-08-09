@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-09T12:52:24.169894+05:30'
+collected_at: '2026-08-09T15:32:46.739589+05:30'
 published_at: '2026-08-09T07:11:34Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-09T12:52:24.169894+05:30'
-last_seen: '2026-08-09T12:52:24.169894+05:30'
-last_checked: '2026-08-09T12:52:24.169894+05:30'
+first_seen: '2026-08-09T15:32:46.739589+05:30'
+last_seen: '2026-08-09T15:32:46.739589+05:30'
+last_checked: '2026-08-09T15:32:46.739589+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, including datasets and metrics to assess performance in graph-based retrieval-augmented generation (RAG) tasks.
-- **Technical Scope**: Focuses on analyzing when graph structures improve RAG performance, covering retrieval strategies, graph construction methods, and model architectures.
-- **Implementation**: Open-source Python repository with modular components for dataset generation, evaluation pipelines, and comparative analysis against traditional RAG baselines.
+- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, with a focus on determining optimal use cases for graph-based RAG systems (ICLR'26).
+- **Technical Scope**: Implements a comprehensive analysis pipeline for GraphRAG, including dataset curation, benchmarking methodologies, and performance metrics tailored for graph-structured data retrieval and generation.
+- **Repository Metrics**: Hosted in Python, with 477 stars and 55 forks, last updated on 2026-08-09, emphasizing active development and community engagement in graph-based RAG research.
 
 ## Why It Matters
 

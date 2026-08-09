@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/onyx
-collected_at: '2026-08-09T12:51:54.158521+05:30'
-published_at: '2026-08-09T06:03:29Z'
+collected_at: '2026-08-09T15:32:16.756352+05:30'
+published_at: '2026-08-09T08:29:32Z'
 tags:
 - frontend_ui
 - github-repo
 - openai
 - python
 - rag
-stars: 31509
+stars: 31511
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-04-27T06:04:01Z'
-pushed_at: '2026-08-09T07:10:23Z'
+pushed_at: '2026-08-09T09:34:14Z'
 resource_id: github:onyx-dot-app/onyx
-first_seen: '2026-08-09T12:51:54.158521+05:30'
-last_seen: '2026-08-09T12:51:54.158521+05:30'
-last_checked: '2026-08-09T12:51:54.158521+05:30'
+first_seen: '2026-08-09T15:32:16.756352+05:30'
+last_seen: '2026-08-09T15:32:16.756352+05:30'
+last_checked: '2026-08-09T15:32:16.756352+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform (`Onyx`) designed to integrate seamlessly with any Large Language Model (LLM), supporting advanced features like RAG (Retrieval-Augmented Generation) and vector search for enterprise-grade information retrieval.
+- **Multi-LLM Integration**: Open-source AI chat platform supporting seamless interaction with any Large Language Model (LLM) via modular architecture, enabling compatibility across diverse model ecosystems.
 
-- **Full-Stack Architecture**: Combines a **Next.js** frontend with a **Python** backend, enabling self-hosted deployment with modular components for chat UI, enterprise search, and LLM interaction.
+- **Enterprise-Grade Features**: Implements Retrieval-Augmented Generation (RAG), vector search, and advanced information retrieval for scalable, self-hosted deployments with robust data handling.
 
-- **Scalable & Extensible**: Features include **vector search**, **self-hosting**, and **enterprise search**, with active development (last updated Aug 2026) and a large community (31.5k+ stars, 4.3k+ forks).
+- **Tech Stack**: Built with Python (backend) and Next.js (frontend), combining Gen-AI capabilities with a modular UI for chat, enterprise search, and vector database integration.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: onyx-dot-app
-- Stars: 31509
+- Stars: 31511
 - Forks: 4341
 - Language: Python
 - Topics: ai, ai-chat, chatgpt, chatui, enterprise-search, gen-ai, information-retrieval, llm, llm-ui, nextjs, python, rag, self-hosted, vector-search
-- Last Updated: 2026-08-09T06:03:29Z
+- Last Updated: 2026-08-09T08:29:32Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-04-27T06:04:01Z
-- Pushed At: 2026-08-09T07:10:23Z
+- Pushed At: 2026-08-09T09:34:14Z
 
 ## Possible Use Cases
 

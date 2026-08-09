@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-09T12:52:34.178812+05:30'
+collected_at: '2026-08-09T15:32:56.789746+05:30'
 published_at: '2026-08-09T04:31:09Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-09T12:52:34.178812+05:30'
-last_seen: '2026-08-09T12:52:34.178812+05:30'
-last_checked: '2026-08-09T12:52:34.178812+05:30'
+first_seen: '2026-08-09T15:32:56.789746+05:30'
+last_seen: '2026-08-09T15:32:56.789746+05:30'
+last_checked: '2026-08-09T15:32:56.789746+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-*   Opinionated RAG framework designed for streamlined GenAI integration, abstracting underlying complexities for application developers.
-*   Provides broad LLM (e.g., GPT-4, Groq, Llama) and vector store (e.g., PGVector, Faiss) agnosticism, supporting diverse data ingestion.
-*   Facilitates rapid integration into existing products via a customizable API, leveraging Python, React/TypeScript, and PostgreSQL for its stack.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for diverse use cases without requiring deep RAG expertise.
+
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across different AI models and storage backends while accommodating various file types.
+
+- **Full-Stack Integration**: Provides a Python-based backend with Docker support, a React/TypeScript frontend, and APIs for easy integration into existing products, emphasizing privacy, security, and extensibility.
 
 ## Why It Matters
 

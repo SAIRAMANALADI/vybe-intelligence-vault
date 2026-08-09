@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raga-ai-hub/raga-llm-hub
-collected_at: '2026-08-09T12:52:39.254465+05:30'
+collected_at: '2026-08-09T15:33:01.795618+05:30'
 published_at: '2026-06-11T18:44:18Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-02T18:32:13Z'
 pushed_at: '2024-09-09T10:53:31Z'
 resource_id: github:raga-ai-hub/raga-llm-hub
-first_seen: '2026-08-09T12:52:39.254465+05:30'
-last_seen: '2026-08-09T12:52:39.254465+05:30'
-last_checked: '2026-08-09T12:52:39.254465+05:30'
+first_seen: '2026-08-09T15:33:01.795618+05:30'
+last_seen: '2026-08-09T15:33:01.795618+05:30'
+last_checked: '2026-08-09T15:33:01.795618+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose-built framework** for evaluating, securing, and implementing guardrails in Large Language Models (LLMs) with a focus on **LLMOps** and operationalization.
-- **Modular Python library** enabling integration of **evaluation metrics**, **security policies**, and **real-time guardrails** for LLM applications.
-- **Open-source repository** (MIT License) with **114 stars** and **14 forks**, last updated **June 2026**, supporting **LLM security**, **evaluation**, and **guardrail enforcement**.
+- **LLM Evaluation & Guardrails**: Provides a structured framework for assessing large language models (LLMs) and enforcing guardrails to ensure safe, controlled outputs.
+- **Security & Compliance**: Implements security protocols and compliance checks for LLM deployments, addressing risks like prompt injection and data leakage.
+- **Python-Based Toolkit**: Open-source Python library supporting LLM operations (LLMOps) with modular components for evaluation, monitoring, and security enforcement.
 
 ## Why It Matters
 

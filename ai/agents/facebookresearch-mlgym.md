@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-08-09T12:54:09.288564+05:30'
+collected_at: '2026-08-09T15:34:31.861534+05:30'
 published_at: '2026-08-07T17:28:51Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-08-09T12:54:09.288564+05:30'
-last_seen: '2026-08-09T12:54:09.288564+05:30'
-last_checked: '2026-08-09T12:54:09.288564+05:30'
+first_seen: '2026-08-09T15:34:31.861534+05:30'
+last_seen: '2026-08-09T15:34:31.861534+05:30'
+last_checked: '2026-08-09T15:34:31.861534+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: MLGym is a modular Python framework designed to standardize and benchmark AI research agents, enabling reproducible experimentation and comparison across diverse tasks.
+- **Framework Purpose**: MLGym is a Python-based framework designed to advance AI research agents by providing a structured environment for training, evaluating, and benchmarking reinforcement learning (RL) and machine learning (ML) algorithms.
 
-- **Key Features**: Provides a structured environment for defining, training, and evaluating AI agents with built-in support for distributed computing, hyperparameter optimization, and extensible task pipelines.
+- **Key Features**: It offers modular components for defining tasks, environments, and agents, enabling reproducible research and standardized comparisons across diverse AI research scenarios.
 
-- **Benchmarking**: Introduces a comprehensive benchmark suite to assess agent performance across multiple domains, facilitating systematic advancement in AI research methodologies.
+- **Benchmarking & Scalability**: The framework includes built-in benchmarking tools to assess agent performance across multiple tasks, with support for distributed training and scalable execution on heterogeneous hardware.
 
 ## Why It Matters
 
