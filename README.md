@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C081-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C098-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--09-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **101,081 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **101,098 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -197,8 +197,8 @@ score_threshold: 0.65
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 101,081 files</p>
-        <p><b>Last Update:</b> 2026-08-09 13:30 IST</p>
+        <p><b>Total Vault Size:</b> 101,098 files</p>
+        <p><b>Last Update:</b> 2026-08-09 14:17 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,20 +210,16 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Melatonin impairs morning cognition in healthy young adults (2023)](ai/community/melatonin-impairs-morning-cognition-in-healthy-you.md)** • <kbd>+72 pts</kbd>
-- 🔼 **[Fastmail offers EU data region](ai/community/fastmail-offers-eu-data-region.md)** • <kbd>+29 pts</kbd>
-- 🔼 **[Stream Firestore to BigQuery | Firebase Extensions Hub](ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md)** • Rank: <kbd>+1712</kbd>
-- 🔼 **[JakeWharton/mosaic](ai/rag/jakewharton-mosaic.md)** • Rank: <kbd>+4018</kbd>
-- 🔼 **[run-llama/llama-parse-cli](ai/rag/run-llama-llama-parse-cli.md)** • Rank: <kbd>+1341</kbd>
+- 🔼 **[Base barrier cells provide compartmentalization of choroid plexus, brain and CSF | Nature Neuroscience](ai/rag/base-barrier-cells-provide-compartmentalization-of.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Stream Firestore to BigQuery | Firebase Extensions Hub](ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Roosmarijn Vandenbroucke Lab - Home](ai/agents/roosmarijn-vandenbroucke-lab-home.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[JakeWharton/mosaic](ai/rag/jakewharton-mosaic.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[run-llama/llama-parse-cli](ai/rag/run-llama-llama-parse-cli.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The original URL for this prediction will no longer be available in 11 years (2011)](ai/community/the-original-url-for-this-prediction-will-no-longe.md)** • Score: `106`
-- 🆕 **[Real-time MCP interceptor that blocks .env reads and dangerous commands agents](ai/community/real-time-mcp-interceptor-that-blocks-env-reads-an.md)** • Score: `8`
-- 🆕 **[Base barrier cells provide compartmentalization of choroid plexus, brain and CSF | Nature Neuroscience](ai/rag/base-barrier-cells-provide-compartmentalization-of.md)** • Score: `0`
-- 🆕 **[Roosmarijn Vandenbroucke Lab - Home](ai/agents/roosmarijn-vandenbroucke-lab-home.md)** • Score: `0`
-- 🆕 **[Installing Packages - Python Packaging User Guide](ai/rag/installing-packages-python-packaging-user-guide.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
