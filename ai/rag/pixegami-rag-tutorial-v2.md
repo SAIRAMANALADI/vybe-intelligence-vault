@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-09T15:31:46.634704+05:30'
+collected_at: '2026-08-09T18:51:41.372344+05:30'
 published_at: '2026-08-03T17:47:21Z'
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 stars: 965
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-09T15:31:46.634704+05:30'
-last_seen: '2026-08-09T15:31:46.634704+05:30'
-last_checked: '2026-08-09T15:31:46.634704+05:30'
+first_seen: '2026-08-09T18:51:41.372344+05:30'
+last_seen: '2026-08-09T18:51:41.372344+05:30'
+last_checked: '2026-08-09T18:51:41.372344+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Ollama) for offline inference, reducing dependency on cloud APIs.
-- **Dynamic Database Updates**: Implements mechanisms to refresh vector databases (e.g., Chroma) with new documents, ensuring retrieval relevance over time.
-- **Testing Framework**: Includes unit/integration tests (e.g., pytest) to validate RAG components (retrieval, generation) and benchmark performance metrics.
+- **Local LLM Integration**: Demonstrates advanced RAG pipelines using locally hosted large language models (LLMs) for enhanced privacy and reduced dependency on cloud APIs.
+- **Dynamic Database Updates**: Implements automated vector database refresh mechanisms to ensure retrieval relevance with evolving document corpora.
+- **Testing Framework**: Includes a structured evaluation suite for RAG components (retrieval, generation, and end-to-end performance) with reproducible benchmarks.
 
 ## Why It Matters
 

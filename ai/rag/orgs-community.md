@@ -4,21 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/orgs/community/discussions
-published_at: '2026-08-04T22:45:30.459453+05:30'
-collected_at: '2026-08-04T22:45:30.459461+05:30'
+published_at: '2026-08-09T18:59:37.081115+05:30'
+collected_at: '2026-08-09T18:59:37.081127+05:30'
 tags:
+- agents
 - frontend_ui
 - hackernews
 - rag
 - scripts
-- threejs
 - web-crawled
 - workflows
 status: active
 resource_id: github:orgs/community
-first_seen: '2026-08-04T22:45:30.459461+05:30'
-last_seen: '2026-08-04T22:45:30.459461+05:30'
-last_checked: '2026-08-04T22:45:30.459461+05:30'
+first_seen: '2026-08-09T18:59:37.081127+05:30'
+last_seen: '2026-08-09T18:59:37.081127+05:30'
+last_checked: '2026-08-09T18:59:37.081127+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,9 @@ health_score: 100
 
 ## Summary
 
-- GitHub Community serves as a central hub for GitHub-related discussions, repositories, and announcements, including dedicated sections for AI/Copilot, automation, education, and security.
-
-- The platform enforces structured categorization of discussions (e.g., `GitHub Education`, `Pull Requests`, `Code Security`) with filtering options for open/closed threads and sorting by activity or relevance.
-
-- Key features include pinned announcements (e.g., Copilot metrics dashboard, stacked PRs public preview) and community-driven Q&A, with moderation via labels like `🚀 Shipped` or `Question`.
+- GitHub Community serves as a central hub for GitHub's organizational discussions, repositories, packages, and user interactions, with dedicated categories for accessibility, AI/Copilot, automation, security, and education.
+- Key pinned discussions include GitHub Code Quality general availability, Copilot usage metrics dashboard, and a survey targeting small teams (5-10 members) for Copilot feedback.
+- Active unanswered threads highlight user-reported issues such as billing discrepancies, GitHub Education Pack rejections, and anti-detection browser requests, indicating unresolved technical and policy-related concerns.
 
 ## Why It Matters
 
@@ -40,15 +38,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T22:45:30.459453+05:30
+- Published: 2026-08-09T18:59:37.081115+05:30
 
 ## Related Tags
 
+- agents
 - frontend_ui
 - hackernews
 - rag
 - scripts
-- threejs
 - web-crawled
 - workflows
 

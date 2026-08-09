@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-09T15:32:36.772418+05:30'
+collected_at: '2026-08-09T18:52:31.459035+05:30'
 published_at: '2026-08-05T20:45:57Z'
 tags:
-- benchmark
 - github-repo
+- models
 - openai
 - python
 - rag
+- workflows
 stars: 1172
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-08-07T07:18:46Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-09T15:32:36.772418+05:30'
-last_seen: '2026-08-09T15:32:36.772418+05:30'
-last_checked: '2026-08-09T15:32:36.772418+05:30'
+first_seen: '2026-08-09T18:52:31.459035+05:30'
+last_seen: '2026-08-09T18:52:31.459035+05:30'
+last_checked: '2026-08-09T18:52:31.459035+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure, leveraging **Azure AI Search** for vector retrieval and **Azure OpenAI** LLMs for generating ChatGPT-style/Q&A responses.
-- **Key Components**: Includes pre-configured **Python-based** pipelines with **AZD templates**, adhering to Azure best practices for scalability, security, and performance.
-- **Deployment**: Provides end-to-end solution accelerator with **pre-built integrations** for common enterprise requirements (e.g., authentication, data ingestion, and evaluation).
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** models (e.g., GPT-4) for generation, enabling ChatGPT-style and Q&A interactions.
+- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding generation, and retrieval-augmented chat, adhering to Azure best practices for scalability and security.
+- **Deployment**: Provides **Azure Developer CLI (azd)** templates for rapid deployment, supporting Python-based workflows and integration with Azure Monitor for observability.
 
 ## Why It Matters
 

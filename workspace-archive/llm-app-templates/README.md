@@ -22,7 +22,7 @@ Starter kits and application templates drastically accelerate the deployment of 
 https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [truefoundry/cognita](https://github.com/truefoundry/cognita)
-- [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-08-09 15:47 IST*
+*Last updated: 2026-08-09 19:07 IST*

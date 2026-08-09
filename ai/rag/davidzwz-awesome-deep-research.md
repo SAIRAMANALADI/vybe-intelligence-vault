@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-09T15:33:21.785497+05:30'
+collected_at: '2026-08-09T18:53:16.426943+05:30'
 published_at: '2026-08-08T12:55:17Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- paper
 - rag
+- scripts
 - unknown
 stars: 838
 language: Unknown
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-09T15:33:21.785497+05:30'
-last_seen: '2026-08-09T15:33:21.785497+05:30'
-last_checked: '2026-08-09T15:33:21.785497+05:30'
+first_seen: '2026-08-09T18:53:16.426943+05:30'
+last_seen: '2026-08-09T18:53:16.426943+05:30'
+last_checked: '2026-08-09T18:53:16.426943+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge papers, tools, and frameworks (e.g., agentic RAG, deep research agents) from ACL 2026 KnowFM, focusing on autonomous reasoning and search agents.
-- **Technical Scope**: Covers large language models (LLMs), reasoning architectures, and hybrid retrieval-augmented generation (RAG) systems for deep research tasks.
-- **Dynamic Repository**: Actively maintained (last updated Aug 2026) with 838 stars and 71 forks, indicating community engagement in agentic AI research.
+- **Curated Resource**: A GitHub repository (`DavidZWZ/Awesome-Deep-Research`) compiling cutting-edge research on **agentic deep research**, including **LLMs**, **RAG**, and **reasoning agents**, with a focus on **ACL 2026 KnowFM** contributions.
+
+- **Key Topics**: Covers **agentic AI**, **deep research agents**, **search agents**, **multi-agent systems**, and **advanced retrieval-augmented generation (RAG)** techniques for complex reasoning tasks.
+
+- **Metadata**: 838 stars, 71 forks, last updated **2026-08-08**; language unspecified but targets **LLM-driven research automation** and **AI reasoning frameworks**.
 
 ## Why It Matters
 

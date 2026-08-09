@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama_deploy
-collected_at: '2026-07-20T03:50:28.359465+05:30'
-published_at: '2026-07-08T12:33:40Z'
+collected_at: '2026-08-09T18:58:29.064739+05:30'
+published_at: '2026-08-04T14:35:45Z'
 tags:
 - agents
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 2066
+stars: 2067
 language: Python
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-05-29T16:52:16Z'
 pushed_at: '2026-04-06T20:36:41Z'
 resource_id: github:run-llama/llama_deploy
-first_seen: '2026-07-20T03:50:28.359465+05:30'
-last_seen: '2026-07-20T03:50:28.359465+05:30'
-last_checked: '2026-07-20T03:50:28.359465+05:30'
+first_seen: '2026-08-09T18:58:29.064739+05:30'
+last_seen: '2026-08-09T18:58:29.064739+05:30'
+last_checked: '2026-08-09T18:58:29.064739+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Framework for deploying agentic workflows to production, leveraging LLMs (via LlamaIndex) and multi-agent architectures.
-- **Key Features**: Supports scalable, distributed agent deployments with Python-based orchestration and workflow management.
-- **Integration**: Designed for seamless integration with LlamaIndex and LLM-driven applications, optimized for production-grade deployments.
+- **Framework Purpose**: Enables production deployment of agentic workflows, leveraging LLM integration via LlamaIndex for multi-agent orchestration in Python.
+- **Key Features**: Supports scalable, modular agentic systems with built-in deployment tools for LLM-driven workflows.
+- **Ecosystem**: Integrates with LlamaIndex, designed for multi-agent architectures, and optimized for production-grade AI workflows.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 2066
-- Forks: 224
+- Stars: 2067
+- Forks: 223
 - Language: Python
 - Topics: agents, deployment, framework, llamaindex, llm, multi-agents
-- Last Updated: 2026-07-08T12:33:40Z
+- Last Updated: 2026-08-04T14:35:45Z
 - License: MIT
 - Archived: No
 - Created At: 2024-05-29T16:52:16Z

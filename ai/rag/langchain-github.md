@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-09T15:37:19.258842+05:30'
-collected_at: '2026-08-09T15:37:19.258865+05:30'
+published_at: '2026-08-09T18:56:54.577548+05:30'
+collected_at: '2026-08-09T18:56:54.577561+05:30'
 tags:
 - agents
 - anthropic
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-09T15:37:19.258865+05:30'
-last_seen: '2026-08-09T15:37:19.258865+05:30'
-last_checked: '2026-08-09T15:37:19.258865+05:30'
+first_seen: '2026-08-09T18:56:54.577561+05:30'
+last_seen: '2026-08-09T18:56:54.577561+05:30'
+last_checked: '2026-08-09T18:56:54.577561+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core OSS Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support complex tasks via planning, subagents, and file system interactions.
+- **Core Libraries**: `LangChain`/`LangChain.js` provide reusable components and integrations for LLM applications, while `LangGraph`/`LangGraph.js` enable building LLM agents as graphs; `Deep Agents`/`Deep Agents.js` support planning, subagents, and file system interactions.
 
-- **Commercial & OSS Extensions**: LangSmith offers a platform for production-grade LLM application development and monitoring; extensions like `dcode`, Open SWE, MCP Adapters, Agent Protocol, and OpenWiki provide specialized agent capabilities (e.g., coding, tool compatibility, framework-agnostic APIs, and wiki generation).
+- **Commercial & OSS Extensions**: `LangSmith` offers a platform for production-grade LLM app development/monitoring; OSS tools like `Deep Agents Code` (terminal-based coding agent), `Open SWE` (asynchronous coding agent), and `MCP Adapters` bridge MCP tools with LangChain/LangGraph.
 
-- **Documentation & Community**: Unified documentation ([docs.langchain.com](https://docs.langchain.com/)) covers all LangChain projects, complemented by a community forum, free courses via LangChain Academy, and open-source repositories for extensibility.
+- **Standardization & Documentation**: `Agent Protocol` defines framework-agnostic APIs for serving LLM agents; unified docs, community forums, and free courses via `LangChain Academy` support learning and adoption.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T15:37:19.258842+05:30
+- Published: 2026-08-09T18:56:54.577548+05:30
 
 ## Related Tags
 

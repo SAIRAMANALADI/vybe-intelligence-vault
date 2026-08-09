@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/methods/page/render/#article
-published_at: '2026-08-09T15:37:49.472091+05:30'
-collected_at: '2026-08-09T15:37:49.472104+05:30'
+published_at: '2026-08-09T18:57:31.953947+05:30'
+collected_at: '2026-08-09T18:57:31.953956+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:render
-first_seen: '2026-08-09T15:37:49.472104+05:30'
-last_seen: '2026-08-09T15:37:49.472104+05:30'
-last_checked: '2026-08-09T15:37:49.472104+05:30'
+first_seen: '2026-08-09T18:57:31.953956+05:30'
+last_seen: '2026-08-09T18:57:31.953956+05:30'
+last_checked: '2026-08-09T18:57:31.953956+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Syntax & Return**: `PAGE.Render VIEW` renders a view template with the given page as context, returning `template.HTML`. Introduced in Hugo v0.164.0, the `VIEW` argument supports slash-separated directory paths without file extensions.
-
-- **Template Resolution**: Hugo resolves the `VIEW` template via the [template lookup order](https://gohugo.io/templates/lookup-order/), allowing the same `VIEW` value to map to different templates based on page type (e.g., `layouts/books/summary.html` for `books` type, otherwise `layouts/summary.html`).
-
-- **Key Differences from `partial`**: `Render` auto-passes the `Page` object as context (no additional parameters allowed), while `partial` requires explicit context and restricts templates to `layouts/_partials/`.
+- **`Render` Method**: Renders a view template with the current `Page` object as context, returning `template.HTML`; introduced in Hugo v0.164.0.
+- **Template Resolution**: Supports slash-separated directory paths in the `VIEW` argument, resolved via Hugo's template lookup order, enabling type-specific or generic template selection.
+- **Key Differences**: Unlike `partial`, `Render` auto-passes the `Page` context and resolves templates globally, while `partial` requires explicit context and paths relative to `layouts/_partials`.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T15:37:49.472091+05:30
+- Published: 2026-08-09T18:57:31.953947+05:30
 
 ## Related Tags
 

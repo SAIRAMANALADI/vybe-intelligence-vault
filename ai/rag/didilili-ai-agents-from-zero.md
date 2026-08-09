@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-08-09T15:33:36.790324+05:30'
-published_at: '2026-08-09T08:35:08Z'
+collected_at: '2026-08-09T18:53:31.417882+05:30'
+published_at: '2026-08-09T12:15:30Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 3600
+stars: 3602
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-08-09T15:33:36.790324+05:30'
-last_seen: '2026-08-09T15:33:36.790324+05:30'
-last_checked: '2026-08-09T15:33:36.790324+05:30'
+first_seen: '2026-08-09T18:53:31.417882+05:30'
+last_seen: '2026-08-09T18:53:31.417882+05:30'
+last_checked: '2026-08-09T18:53:31.417882+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide (2026)**: Covers end-to-end AI agent engineering, from foundational concepts (LLMs, RAG, prompts) to enterprise deployment, fine-tuning, and production-grade projects, aligned with 2026 industry standards for AI application development roles.
+- **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment and fine-tuning, with a focus on real-world projects and interview preparation for AI application development roles.
 
-- **Multi-Framework & Toolchain Integration**: Includes hands-on implementations with LangChain, LangGraph, Coze, Dify, MCP, and Skills, alongside deployment strategies for real-world applications.
+- **Multi-Framework & Tool Integration**: Includes hands-on implementation with agent frameworks (LangChain, LangGraph), agent platforms (Coze, Dify), and MCP (Model Context Protocol) for skill integration, alongside RAG pipelines and LLM optimization.
 
-- **Interview & Project-Ready Resources**: Provides a structured learning path with 3,600+ star-rated repository, practical projects, interview question banks, and deployment workflows for roles like AI Agent Engineer.
+- **End-to-End Development Pipeline**: Guides from foundational learning to production deployment, featuring enterprise-grade deployment strategies, project deployment workflows, and a curated interview question database for AI agent engineering roles.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 3600
+- Stars: 3602
 - Forks: 513
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-08-09T08:35:08Z
+- Last Updated: 2026-08-09T12:15:30Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-29T02:49:11Z

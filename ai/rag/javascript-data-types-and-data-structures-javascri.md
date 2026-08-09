@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.mozilla.org/docs/Web/JavaScript/Data_structures#string_type
-published_at: '2026-08-09T15:40:05.740986+05:30'
-collected_at: '2026-08-09T15:40:05.740999+05:30'
+published_at: '2026-08-09T19:00:28.672225+05:30'
+collected_at: '2026-08-09T19:00:28.672235+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:javascript-data-types-and-data-structures-javascri
-first_seen: '2026-08-09T15:40:05.740999+05:30'
-last_seen: '2026-08-09T15:40:05.740999+05:30'
-last_checked: '2026-08-09T15:40:05.740999+05:30'
+first_seen: '2026-08-09T19:00:28.672235+05:30'
+last_seen: '2026-08-09T19:00:28.672235+05:30'
+last_checked: '2026-08-09T19:00:28.672235+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Dynamic & Weak Typing**: JavaScript uses dynamic typing (variables can hold any type) and weak typing (implicit type coercion), enabling operations like `42 + "1" → "421"` but risking subtle bugs due to unexpected conversions (e.g., `null`/`undefined` coercion failures).
+- JavaScript is a **dynamically and weakly typed** language; variables can hold any type, and implicit type coercion occurs during operations (e.g., `42 + "1"` yields `"421"`), though certain conversions (e.g., `Symbol`/`BigInt`) are intentionally restricted.
 
-- **Primitive Types**: JavaScript has 7 primitive types (`null`, `undefined`, `boolean`, `number`, `bigint`, `string`, `symbol`), all immutable except `Object`; `typeof null` incorrectly returns `"object"`, requiring strict equality checks (`=== null`).
+- **Primitive values** (immutable, tested via `typeof`) include `null` (returns `"object"`), `undefined`, `Boolean`, `Number`, `BigInt`, `String`, and `Symbol`, each with corresponding wrapper objects (except `null`/`undefined`) for method access.
 
-- **Number Representation**: Numbers are IEEE 754 double-precision floats with safe integer range `-(2^53-1)` to `2^53-1`; out-of-range values convert to `±Infinity` or `±0`, while `NaN` is the only non-self-equal value (e.g., `NaN !== NaN`).
+- The `Number` type is a **64-bit IEEE 754 double-precision** floating-point format with safe integer range `-(2^53 - 1)` to `2^53 - 1`; values outside this range lose precision, and `NaN` is the only value not equal to itself.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T15:40:05.740986+05:30
+- Published: 2026-08-09T19:00:28.672225+05:30
 
 ## Related Tags
 

@@ -6,19 +6,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: http://longbets.org/601
 hn_url: https://news.ycombinator.com/item?id=49228458
-score: 145
+score: 169
 author: doubletwoyou
-comments_count: 61
+comments_count: 76
 published_at: '2026-08-09T10:00:26+05:30'
-collected_at: '2026-08-09T15:30:53.600756+05:30'
+collected_at: '2026-08-09T18:50:42.471390+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:the-original-url-for-this-prediction-will-no-longe
 first_seen: '2026-08-09T12:50:23.057095+05:30'
-last_seen: '2026-08-09T15:30:53.600756+05:30'
-last_checked: '2026-08-09T15:30:53.600756+05:30'
+last_seen: '2026-08-09T18:50:42.471390+05:30'
+last_checked: '2026-08-09T18:50:42.471390+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by doubletwoyou. Score: 145, Comments: 61.
+Hacker News story by doubletwoyou. Score: 169, Comments: 76.
 Original Link: http://longbets.org/601/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: doubletwoyou
-- Score: 145 Upvotes
-- Comments: 61 Discussions
+- Score: 169 Upvotes
+- Comments: 76 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49228458
 - Original Article: http://longbets.org/601
 

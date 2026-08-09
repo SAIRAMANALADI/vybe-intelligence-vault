@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations
-published_at: '2026-07-19T19:39:07.085019+05:30'
-collected_at: '2026-07-19T19:39:07.085032+05:30'
+published_at: '2026-08-09T19:02:34.295232+05:30'
+collected_at: '2026-08-09T19:02:34.295243+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: github:commonmark/commonmark-spec
-first_seen: '2026-07-19T19:39:07.085032+05:30'
-last_seen: '2026-07-19T19:39:07.085032+05:30'
-last_checked: '2026-07-19T19:39:07.085032+05:30'
+first_seen: '2026-08-09T19:02:34.295243+05:30'
+last_seen: '2026-08-09T19:02:34.295243+05:30'
+last_checked: '2026-08-09T19:02:34.295243+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Reference Implementations**: `commonmark.js` (JavaScript) and `cmark` (C) serve as the official reference implementations, with `cmark` also providing a high-performance executable and library.
+- **Reference Implementations**: `commonmark.js` (JavaScript) and `cmark` (C) serve as the official reference implementations, with `cmark` providing a high-performance executable and library.
 
-- **Language-Specific Ports**: Multiple language-specific implementations exist, including pure implementations (`commonmark-java`, `commonmark-hs`, `markdown-rs`) and wrappers around the C library (`cmark-lua`, `CommonMarker`, `cmark-scala`).
+- **Language-Specific Ports**: Multiple language-specific implementations exist, including `CommonMark.NET` (C#), `goldmark` (Go), `pulldown-cmark` (Rust), and `commonmark-java` (Java), each offering varying degrees of performance and extensibility.
 
-- **Extensions & Variants**: GitHub's `cmark-gfm` extends CommonMark with tables and other features, while `comrak` (Rust) and `koino` (Zig) offer GitHub-flavored Markdown (GFM) compatibility.
+- **Extensions & Variants**: `cmark-gfm` (GitHub Flavored Markdown) extends `cmark` with tables and other features, while `markdown-it` (JavaScript) and `flexmark-java` (Java) provide pluggable architectures for custom extensions.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T19:39:07.085019+05:30
+- Published: 2026-08-09T19:02:34.295232+05:30
 
 ## Related Tags
 

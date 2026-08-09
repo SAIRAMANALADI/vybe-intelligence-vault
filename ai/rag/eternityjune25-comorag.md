@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-09T15:33:16.786220+05:30'
+collected_at: '2026-08-09T18:53:11.441658+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-09T15:33:16.786220+05:30'
-last_seen: '2026-08-09T15:33:16.786220+05:30'
-last_checked: '2026-08-09T15:33:16.786220+05:30'
+first_seen: '2026-08-09T18:53:11.441658+05:30'
+last_seen: '2026-08-09T18:53:11.441658+05:30'
+last_checked: '2026-08-09T18:53:11.441658+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies for dynamic context retention.
+- **Cognitive Architecture Integration**: ComoRAG implements a memory-organized Retrieval-Augmented Generation (RAG) system inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Reasoning Mechanism**: Implements a multi-layered memory system (short-term, long-term, and episodic) to maintain coherence in extended dialogues or narratives, leveraging retrieval-augmented generation (RAG) for adaptive context augmentation.
+- **Stateful Long-Context Handling**: The framework dynamically organizes and retrieves contextual information across extended narratives, leveraging episodic and semantic memory layers to maintain coherence in multi-turn reasoning tasks.
 
-- **AAAI 2026 Poster Submission**: Proposes novel evaluation metrics for stateful reasoning, demonstrating superior performance in benchmarks requiring multi-turn reasoning, temporal coherence, and contextual memory retention over extended interactions.
+- **AAAI 2026 Poster Submission**: The repository presents a novel approach to RAG, emphasizing memory-driven reasoning for complex, long-form narratives, with Python-based implementation and active development (last updated July 2026).
 
 ## Why It Matters
 

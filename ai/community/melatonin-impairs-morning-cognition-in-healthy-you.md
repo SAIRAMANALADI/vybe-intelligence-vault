@@ -13,13 +13,14 @@ collected_at: '2026-08-09T15:30:53.078620+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:melatonin-impairs-morning-cognition-in-healthy-you
 first_seen: '2026-08-09T10:11:15.145009+05:30'
 last_seen: '2026-08-09T15:30:53.078620+05:30'
 last_checked: '2026-08-09T15:30:53.078620+05:30'
 health_score: 100
 ---
+
 
 # Melatonin impairs morning cognition in healthy young adults (2023)
 

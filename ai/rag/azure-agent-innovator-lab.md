@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/agent-innovator-lab
-collected_at: '2026-08-09T15:32:36.778383+05:30'
+collected_at: '2026-08-09T18:52:31.457809+05:30'
 published_at: '2026-07-27T08:49:39Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-01-02T08:11:52Z'
 pushed_at: '2026-02-20T14:45:01Z'
 resource_id: github:azure/agent-innovator-lab
-first_seen: '2026-08-09T15:32:36.778383+05:30'
-last_seen: '2026-08-09T15:32:36.778383+05:30'
-last_checked: '2026-08-09T15:32:36.778383+05:30'
+first_seen: '2026-08-09T18:52:31.457809+05:30'
+last_seen: '2026-08-09T18:52:31.457809+05:30'
+last_checked: '2026-08-09T18:52:31.457809+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`Azure/agent-innovator-lab`) focused on constructing AI agents on Azure, covering search optimization, agent architecture, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
+- **Repository Overview**: Azure/agent-innovator-lab provides a Jupyter Notebook-based framework for designing, optimizing, and evaluating AI agents on Azure, with a focus on search optimization, agent architecture, and Retrieval-Augmented Generation (RAG) methodologies.
 
-- **Technical Stack**: Implemented primarily in Jupyter Notebooks, with last update on **2026-07-27**; repository has **58 stars** and **34 forks**.
+- **Key Components**: Includes modules for agent design patterns, evaluation metrics, and RAG best practices, enabling reproducible experimentation and benchmarking of AI agent systems.
 
-- **Purpose**: Provides practical guidance and hands-on examples for developing, optimizing, and evaluating AI agents in Azure environments.
+- **Technical Stack**: Leverages Azure services (e.g., Azure AI Search, Azure Machine Learning) and Python-based tools (e.g., LangChain, Jupyter) for agent development and evaluation. Last updated: July 27, 2026.
 
 ## Why It Matters
 

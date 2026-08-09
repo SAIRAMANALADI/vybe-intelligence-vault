@@ -3,7 +3,7 @@ title: supermlorg/superml-java · Discussions · GitHub
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://github.com/supermlorg/superml-java/discussions
-resource_id: github:supermlorg/superml-java
+resource_id: github:supermlorg/superml-java-5471a5f6
 local_vault_path: ai/resources/supermlorg-superml-java.md
 quality_score: 70
 archive_score: 79

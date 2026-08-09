@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by hiding lower-level details, enabling focus on high-level functionalities.
-- **Modularity**: Divides systems into independent, interchangeable components for easier maintenance and scalability.
-- **Encapsulation**: Bundles data and methods within a single unit (e.g., class) while restricting direct access to internal states.
+- **Abstraction**: Simplifies complex systems by hiding unnecessary details, enabling focus on high-level functionality.
+- **Modularity**: Divides systems into independent, interchangeable components, enhancing maintainability and scalability.
+- **Encapsulation**: Bundles data and methods within a single unit (e.g., class/object), restricting direct access to some components.
 
 ## Use Cases
 

@@ -3,16 +3,16 @@ title: Subresource Integrity - Security | MDN
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
-published_at: '2026-08-09T15:42:07.823651+05:30'
-collected_at: '2026-08-09T15:42:07.823666+05:30'
+source_url: https://developer.mozilla.org/docs/Web/Security/Subresource_Integrity
+published_at: '2026-08-09T19:02:04.284500+05:30'
+collected_at: '2026-08-09T19:02:04.284512+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:subresource-integrity-security-mdn
-first_seen: '2026-08-09T15:42:07.823666+05:30'
-last_seen: '2026-08-09T15:42:07.823666+05:30'
-last_checked: '2026-08-09T15:42:07.823666+05:30'
+first_seen: '2026-08-09T19:02:04.284512+05:30'
+last_seen: '2026-08-09T19:02:04.284512+05:30'
+last_checked: '2026-08-09T19:02:04.284512+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Mechanism**: Subresource Integrity (SRI) verifies fetched resources (e.g., from CDNs) by enforcing cryptographic hash matching to prevent supply chain attacks via unexpected file manipulation.
-
-- **Implementation**: Requires `integrity` attribute in `<script>`/`<link>` tags with base64-encoded hashes (e.g., `sha384-...`) and `crossorigin` attribute for CORS-enabled validation.
-
-- **Policy Enforcement**: Uses `Integrity-Policy`/`Integrity-Policy-Report-Only` headers to block or report violations for scripts/styles without integrity metadata, with structured reporting via `Reporting-Endpoints`.
+- **SRI Mechanism**: Enables browsers to verify fetched resources (e.g., from CDNs) using cryptographic hashes to detect tampering or supply chain attacks.
+- **CORS Restriction**: Blocks `no-cors` mode requests with SRI to prevent XS-Leak attacks where attackers infer resource content via hash validation failures.
+- **Integrity Policy Headers**: Uses `Integrity-Policy`/`Integrity-Policy-Report-Only` to enforce or monitor SRI requirements, generating violation reports via the Reporting API when resources lack integrity metadata or violate policy.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T15:42:07.823651+05:30
+- Published: 2026-08-09T19:02:04.284500+05:30
 
 ## Related Tags
 
@@ -42,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
+Original source: https://developer.mozilla.org/docs/Web/Security/Subresource_Integrity

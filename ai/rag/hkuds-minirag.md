@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-09T15:32:11.725741+05:30'
+collected_at: '2026-08-09T18:52:06.402182+05:30'
 published_at: '2026-08-05T06:55:03Z'
 tags:
-- agents
 - github-repo
+- hackernews
+- models
 - python
 - rag
+- workflows
 stars: 1996
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-09T15:32:11.725741+05:30'
-last_seen: '2026-08-09T15:32:11.725741+05:30'
-last_checked: '2026-08-09T15:32:11.725741+05:30'
+first_seen: '2026-08-09T18:52:06.402182+05:30'
+last_seen: '2026-08-09T18:52:06.402182+05:30'
+last_checked: '2026-08-09T18:52:06.402182+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
-
-- **Key Innovation**: Proposes architectural optimizations (e.g., lightweight encoders, efficient retrieval mechanisms) to enable efficient RAG with models <1B parameters, targeting edge deployment and low-resource environments.
-
-- **Open-Source Toolkit**: Provides a Python-based repository with modular components for retrieval, reranking, and generation, supporting customization for domain-specific applications (e.g., document QA, conversational agents).
+- **Proposes MiniRAG**: A simplified RAG framework leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
+- **Key Innovation**: Optimizes retrieval-augmented generation (RAG) by compressing model size and improving efficiency through distillation and quantization techniques.
+- **Open-Source Implementation**: Provides a Python-based repository with modular components for easy integration, supporting large-language-model (LLM) and RAG workflows.
 
 ## Why It Matters
 

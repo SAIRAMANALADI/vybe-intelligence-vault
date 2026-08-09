@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-08-09T15:31:38.273545+05:30'
-collected_at: '2026-08-09T15:31:38.273557+05:30'
+published_at: '2026-08-09T18:51:33.698923+05:30'
+collected_at: '2026-08-09T18:51:33.698933+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-08-09T15:31:38.273557+05:30'
-last_seen: '2026-08-09T15:31:38.273557+05:30'
-last_checked: '2026-08-09T15:31:38.273557+05:30'
+first_seen: '2026-08-09T18:51:33.698933+05:30'
+last_seen: '2026-08-09T18:51:33.698933+05:30'
+last_checked: '2026-08-09T18:51:33.698933+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Modular framework with 105k+ GitHub stars, offering data connection interfaces, model flexibility, and retrieval components for RAG pipelines; integrates with LangSmith and LangGraph for debugging and workflow management (`pip install -U langchain`).
+- **LangChain**: Open-source framework (105k⭐) for chaining LLM components, offering modular RAG pipelines, model flexibility, and evaluation tools; integrates with LangSmith/LangGraph for debugging/workflow management.
 
-- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document parsing (PDFs, tables, layouts) with GraphRAG support, agentic reasoning, and dual storage backends (Elasticsearch/Infinity); deployable via Docker (slim: 2GB, full: 9GB).
+- **RAGFlow**: Open-source RAG engine (48.5k⭐) with deep document parsing (PDFs/tables), GraphRAG support, and visual web interface; supports Elasticsearch/Infinity storage and agentic reasoning.
 
-- **Milvus**: High-performance vector database (33.9k stars) optimized for ANN search, hybrid queries, and multi-modal embeddings; scales horizontally for billions of vectors and integrates with major RAG frameworks; deployable via Docker for standalone instances.
+- **Milvus**: High-performance vector database (33.9k⭐) optimized for ANN search, scalable to billions of vectors, with hybrid search and multi-modal support; integrates with LangChain/LlamaIndex for RAG workflows.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T15:31:38.273545+05:30
+- Published: 2026-08-09T18:51:33.698923+05:30
 
 ## Related Tags
 

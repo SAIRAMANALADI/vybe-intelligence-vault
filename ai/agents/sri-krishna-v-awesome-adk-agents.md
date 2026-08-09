@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-08-09T08:06:15.867458+05:30'
+collected_at: '2026-08-09T18:54:06.461396+05:30'
 published_at: '2026-08-07T17:28:19Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - scripts
+- workflows
 stars: 333
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-07-26T06:21:31Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-08-09T08:06:15.867458+05:30'
-last_seen: '2026-08-09T08:06:15.867458+05:30'
-last_checked: '2026-08-09T08:06:15.867458+05:30'
+first_seen: '2026-08-09T18:54:06.461396+05:30'
+last_seen: '2026-08-09T18:54:06.461396+05:30'
+last_checked: '2026-08-09T18:54:06.461396+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across research, business, automation, and education.
-- **Technical Scope**: Focuses on Python-based ADK implementations (`adk-python`, `adk-web`) with support for multi-agent systems, agentic AI, and integration with Google's Gemini AI.
-- **Metadata**: 333 stars, 48 forks, last updated 2026-08-07; categorized under topics like `awesome-list`, `agent-samples`, and `google-adk`.
+- **Collection Focus**: Curated repository of AI agents built with Google’s Agent Development Kit (ADK), featuring templates, best practices, and production-ready examples across research, business, automation, and education.
+- **Technical Scope**: Supports ADK-Python and ADK-Web, emphasizing agentic AI, multi-agent systems, and integration with Google’s Gemini AI for scalable agentic workflows.
+- **Metadata**: 333 stars, 48 forks, last updated 2026-08-07, primarily Python-based with topics including ADK, agent samples, and Google ADK ecosystem.
 
 ## Why It Matters
 

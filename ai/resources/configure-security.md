@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-08-09T15:37:38.782817+05:30'
-collected_at: '2026-08-09T15:37:38.782832+05:30'
+published_at: '2026-08-09T18:57:27.269644+05:30'
+collected_at: '2026-08-09T18:57:27.269656+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-08-09T15:37:38.782832+05:30'
-last_seen: '2026-08-09T15:37:38.782832+05:30'
-last_checked: '2026-08-09T15:37:38.782832+05:30'
+first_seen: '2026-08-09T18:57:27.269656+05:30'
+last_seen: '2026-08-09T18:57:27.269656+05:30'
+last_checked: '2026-08-09T18:57:27.269656+05:30'
 health_score: 100
 ---
 
@@ -22,17 +22,16 @@ health_score: 100
 
 ## Summary
 
-- **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote operations, and other high-risk features unless explicitly permitted; violations trigger detailed failure messages.
+- **Default Security Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and other high-risk operations unless explicitly permitted; builds fail with detailed errors if unauthorized actions are attempted.
 
-- **Granular Allowlists**: Security policies are configured via regex-based allowlists for:
-  - **Executables** (`exec.allow`): Restricts external commands (e.g., `go`, `git`, `node`).
-  - **Env Vars** (`exec.osEnv`, `funcs.getenv`): Controls OS environment variable access (e.g., `HUGO_*`, `CI`).
-  - **HTTP** (`http.methods`, `urls`): Limits `resources.GetRemote` to specific methods/URLs (e.g., blocks `localhost`, numeric IPs).
-  - **Node.js Permissions** (`node.permissions`): Restricts file system access, child processes, and addons (e.g., `tailwindcss`).
+- **Key Security Configurations**:
+  - `exec.allow`: Whitelists external executables (e.g., `sass`, `go`, `git`, `node`).
+  - `http.urls`: Restricts remote resource access via regex patterns (e.g., allows `https://[a-z0-9]` but denies `localhost` or IP-based URLs).
+  - `node.permissions`: Controls Node.js tool access (e.g., `allowRead: ["."]`, `allowWrite: []`).
 
-- **Negation & Overrides**:
-  - **Deny Rules**: Prefix regex patterns with `!` to explicitly block (e.g., `! ^text/html$` denies HTML content).
-  - **Environment Variables**: Override config via `HUGO_SECURITY_*` vars (e.g., `HUGO_SECURITY_HTTP_URLS=none` blocks all remote URLs).
+- **Negation & Environment Overrides**:
+  - Deny rules (prefixed with `!`) override allow rules; empty allowlists reject all.
+  - Environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) can override config settings dynamically.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T15:37:38.782817+05:30
+- Published: 2026-08-09T18:57:27.269644+05:30
 
 ## Related Tags
 

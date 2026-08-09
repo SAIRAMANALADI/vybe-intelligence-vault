@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-08-09T15:40:09.933572+05:30'
-collected_at: '2026-08-09T15:40:09.933585+05:30'
+published_at: '2026-08-09T18:57:13.878580+05:30'
+collected_at: '2026-08-09T18:57:13.878589+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-08-09T15:40:09.933585+05:30'
-last_seen: '2026-08-09T15:40:09.933585+05:30'
-last_checked: '2026-08-09T15:40:09.933585+05:30'
+first_seen: '2026-08-09T18:57:13.878589+05:30'
+last_seen: '2026-08-09T18:57:13.878589+05:30'
+last_checked: '2026-08-09T18:57:13.878589+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Hashing Functionality**: The `crypto.Hash` function in Hugo supports multiple cryptographic hash algorithms (`md5`, `sha1`, `sha256` (default), `sha384`, `sha512`) to generate hexadecimal-encoded checksums from input strings.
+- **Functionality**: The `crypto.Hash` function computes a checksum of the input string using a specified cryptographic hash algorithm (`md5`, `sha1`, `sha256` (default), `sha384`, or `sha512`) and returns the result as a hexadecimal string.
 
-- **Default Algorithm**: If no algorithm is specified, `sha256` is used by default for hashing operations.
+- **Syntax**: `crypto.Hash [ALGORITHM] INPUT` where `ALGORITHM` is optional and defaults to `sha256`; supports piped input (`"Hello world" | crypto.Hash "sha512"`).
 
-- **SRI Hash Construction**: The function can be combined with `encoding.HexDecode` and `encoding.Base64Encode` to generate Subresource Integrity (SRI) hashes for resources, e.g., `{{ $integrity := printf "%s-%s" $algo ("Hello world" | crypto.Hash $algo | encoding.HexDecode | encoding.Base64Encode) }}`.
+- **Integration**: Can be combined with `encoding.HexDecode` and `encoding.Base64Encode` to generate Subresource Integrity (SRI) hashes for resources (e.g., `printf "%s-%s" $algo ("Hello world" | crypto.Hash $algo | encoding.HexDecode | encoding.Base64Encode)`).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T15:40:09.933572+05:30
+- Published: 2026-08-09T18:57:13.878580+05:30
 
 ## Related Tags
 

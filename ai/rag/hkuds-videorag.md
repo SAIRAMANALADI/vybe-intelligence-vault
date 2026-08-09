@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-09T15:33:11.816263+05:30'
+collected_at: '2026-08-09T18:53:06.444627+05:30'
 published_at: '2026-08-09T08:42:52Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-09T15:33:11.816263+05:30'
-last_seen: '2026-08-09T15:33:11.816263+05:30'
-last_checked: '2026-08-09T15:33:11.816263+05:30'
+first_seen: '2026-08-09T18:53:06.444627+05:30'
+last_seen: '2026-08-09T18:53:06.444627+05:30'
+last_checked: '2026-08-09T18:53:06.444627+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, metadata).
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to interactively query and analyze video content via multi-modal embeddings and retrieval mechanisms.
 
-- **Technical Architecture**: Leverages Python-based multi-modal LLMs to segment, index, and retrieve video segments dynamically, optimizing for temporal and semantic relevance in queries.
+- **Multi-Modal Integration**: Combines vision-language models (e.g., CLIP, BLIP) with LLMs to process and retrieve relevant video segments, frames, and metadata for context-aware responses.
 
-- **KDD'2026 Contribution**: Proposes novel retrieval mechanisms for scalable video-QA, addressing challenges in long-form video comprehension and real-time interaction.
+- **Scalable Architecture**: Optimized for handling long-form videos (e.g., lectures, meetings) with chunking, hierarchical retrieval, and dynamic memory management to mitigate computational overhead.
 
 ## Why It Matters
 

@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sickn33/agentic-awesome-skills
-collected_at: '2026-08-09T15:35:16.962046+05:30'
-published_at: '2026-08-09T09:34:53Z'
+collected_at: '2026-08-09T18:55:11.526819+05:30'
+published_at: '2026-08-09T13:05:29Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - python
 - workflows
-stars: 44666
+stars: 44671
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-14T17:48:09Z'
 pushed_at: '2026-08-09T07:04:32Z'
 resource_id: github:sickn33/agentic-awesome-skills
-first_seen: '2026-08-09T15:35:16.962046+05:30'
-last_seen: '2026-08-09T15:35:16.962046+05:30'
-last_checked: '2026-08-09T15:35:16.962046+05:30'
+first_seen: '2026-08-09T18:55:11.526819+05:30'
+last_seen: '2026-08-09T18:55:11.526819+05:30'
+last_checked: '2026-08-09T18:55:11.526819+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Local Agent-First Control Plane**: AAS Core enables complete catalog discovery, agent-owned skill selection, stack validation, and planning via a local MCP server, supporting 2,005+ agentic skills with CLI and Workbench integration.
-
-- **Multi-Tool & Framework Support**: Compatible with AI coding agents (Claude Code, Cursor, Codex-CLI), AI workflows (Gemini-CLI), and MCP-based tools, facilitating cross-platform agentic skill execution.
-
-- **Python-Based Skill Library**: Hosts a curated repository of 44,666+ stars and 6,554 forks, structured as a skill library for AI agents with topics covering agent-skills, developer-tools, and antigravity-skills.
+- **Agent-First Control Plane**: Local MCP-based system enabling autonomous discovery, selection, validation, and planning of AI agentic skills (2,005+ supported) via CLI, Workbench, and plugin architecture.
+- **Cross-Platform Skill Integration**: Supports agentic skills for major AI frameworks (Claude Code, Cursor, Gemini CLI, Codex CLI) and tools (MCP, antigravity) with Python-based extensibility.
+- **Developer Tooling Ecosystem**: Provides catalog management, stack validation, and local agent orchestration with rapid updates (last commit: 2026-08-09) and high community adoption (44.6k+ stars).
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sickn33
-- Stars: 44666
-- Forks: 6554
+- Stars: 44671
+- Forks: 6553
 - Language: Python
 - Topics: agent-skills, agentic-skills, ai-agent-skills, ai-agents, ai-coding, ai-workflows, antigravity, antigravity-skills, claude-code, claude-code-skills, codex-cli, codex-skills, cursor, cursor-skills, developer-tools, gemini-cli, gemini-skills, kiro, mcp, skill-library
-- Last Updated: 2026-08-09T09:34:53Z
+- Last Updated: 2026-08-09T13:05:29Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-14T17:48:09Z

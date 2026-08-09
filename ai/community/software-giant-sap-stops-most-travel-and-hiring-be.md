@@ -13,13 +13,14 @@ collected_at: '2026-08-09T15:30:55.339307+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:software-giant-sap-stops-most-travel-and-hiring-be
 first_seen: '2026-08-09T15:30:55.339307+05:30'
 last_seen: '2026-08-09T15:30:55.339307+05:30'
 last_checked: '2026-08-09T15:30:55.339307+05:30'
 health_score: 100
 ---
+
 
 # Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost
 

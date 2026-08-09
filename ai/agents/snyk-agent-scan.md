@@ -4,12 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/snyk/agent-scan
-collected_at: '2026-08-09T15:34:36.881912+05:30'
+collected_at: '2026-08-09T18:54:31.572492+05:30'
 published_at: '2026-08-09T08:00:54Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
+- workflows
 stars: 2893
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-04-07T14:31:26Z'
 pushed_at: '2026-08-08T00:52:08Z'
 resource_id: github:snyk/agent-scan
-first_seen: '2026-08-09T15:34:36.881912+05:30'
-last_seen: '2026-08-09T15:34:36.881912+05:30'
-last_checked: '2026-08-09T15:34:36.881912+05:30'
+first_seen: '2026-08-09T18:54:31.572492+05:30'
+last_seen: '2026-08-09T18:54:31.572492+05:30'
+last_checked: '2026-08-09T18:54:31.572492+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Security scanner designed to detect vulnerabilities in AI agents, MCP servers, and agent skills.
-- **Key Features**: Analyzes Python-based AI systems for security risks using Snyk's vulnerability database.
-- **Integration**: Supports Model Context Protocol (MCP) and agent frameworks, with automated scanning capabilities.
+- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
+- **Technical Stack**: Implemented in Python with integration support for the Model Context Protocol (MCP) for context-aware security analysis.
+- **Features**: Static and dynamic analysis capabilities to detect security flaws in AI-driven workflows, including dependency and privilege escalation risks.
 
 ## Why It Matters
 

@@ -3,16 +3,16 @@ title: Sign in to GitHub · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/gohugoio/hugoDocs/edit/master/content/en/methods/page/Render.md
-published_at: '2026-08-09T15:38:50.557910+05:30'
-collected_at: '2026-08-09T15:38:50.557925+05:30'
+source_url: https://github.com/gohugoio/hugoDocs/edit/master/content/en/quick-reference/syntax-highlighting-styles.md
+published_at: '2026-08-09T19:02:21.029634+05:30'
+collected_at: '2026-08-09T19:02:21.029644+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugodocs
-first_seen: '2026-08-09T15:38:50.557925+05:30'
-last_seen: '2026-08-09T15:38:50.557925+05:30'
-last_checked: '2026-08-09T15:38:50.557925+05:30'
+first_seen: '2026-08-09T19:02:21.029644+05:30'
+last_seen: '2026-08-09T19:02:21.029644+05:30'
+last_checked: '2026-08-09T19:02:21.029644+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- GitHub login interface encountered a loading error, requiring a page reload.
-- New users can create an account via the provided signup link.
-- Passkey-based authentication is supported as an alternative sign-in method.
+- **Authentication Error**: The GitHub login page encountered an error while loading, prompting a page reload.
+- **Account Recovery**: Users can initiate a password reset via the provided "Forgot password?" link.
+- **New Account Creation**: Non-users can register via the "Create an account" link, redirecting to GitHub's signup page.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T15:38:50.557910+05:30
+- Published: 2026-08-09T19:02:21.029634+05:30
 
 ## Related Tags
 
@@ -40,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugoDocs/edit/master/content/en/methods/page/Render.md
+Original source: https://github.com/gohugoio/hugoDocs/edit/master/content/en/quick-reference/syntax-highlighting-styles.md

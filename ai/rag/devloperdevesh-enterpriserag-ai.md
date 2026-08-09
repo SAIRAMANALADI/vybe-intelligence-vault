@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-09T15:33:01.754880+05:30'
+collected_at: '2026-08-09T18:52:56.397959+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-09T15:33:01.754880+05:30'
-last_seen: '2026-08-09T15:33:01.754880+05:30'
-last_checked: '2026-08-09T15:33:01.754880+05:30'
+first_seen: '2026-08-09T18:52:56.397959+05:30'
+last_seen: '2026-08-09T18:52:56.397959+05:30'
+last_checked: '2026-08-09T18:52:56.397959+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: The project leverages Linux-native capabilities and eBPF (Extended Berkeley Packet Filter) for low-level system monitoring and security enforcement in AI agent workloads, enabling real-time governance and threat detection.
+- **Linux-Native & eBPF Integration**: Leverages eBPF for low-level system monitoring and security enforcement in AI agent workloads, ensuring kernel-level governance and performance optimization.
 
-- **Enterprise-Grade RAG Architecture**: Implements a Retrieval-Augmented Generation (RAG) framework optimized for SaaS-scale AI deployments, integrating FastAPI for backend services and vector databases for efficient semantic search and context retrieval.
+- **Enterprise-Grade RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) framework with FastAPI backend, TypeScript, and vector databases for scalable, secure, and governed AI-driven SaaS applications.
 
-- **TypeScript-Based Governance Mesh**: Provides a TypeScript-driven governance layer for AI agents, ensuring policy enforcement, auditability, and compliance across distributed workloads while supporting GenAI and LLM integration.
+- **Security & Governance Mesh**: Provides a structured mesh for AI workloads with built-in compliance, audit trails, and real-time threat detection via eBPF-powered instrumentation.
 
 ## Why It Matters
 

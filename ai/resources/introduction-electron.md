@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://electronjs.org/docs/latest
-published_at: '2026-08-09T15:40:25.555386+05:30'
-collected_at: '2026-08-09T15:40:25.555400+05:30'
+published_at: '2026-08-09T18:58:08.324115+05:30'
+collected_at: '2026-08-09T18:58:08.324125+05:30'
 tags:
 - producthunt
 - web-crawled
+- workflows
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-08-09T15:40:25.555400+05:30'
-last_seen: '2026-08-09T15:40:25.555400+05:30'
-last_checked: '2026-08-09T15:40:25.555400+05:30'
+first_seen: '2026-08-09T18:58:08.324125+05:30'
+last_seen: '2026-08-09T18:58:08.324125+05:30'
+last_checked: '2026-08-09T18:58:08.324125+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run on Windows, macOS, and Linux without native development.
+- **Cross-platform desktop apps**: Electron combines Chromium (for rendering) and Node.js (for native APIs) into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run on Windows, macOS, and Linux without native development.
 
-- **Electron Fiddle**: A sandbox tool for prototyping and testing Electron APIs, integrating with documentation via "Open in Fiddle" buttons for seamless example execution.
+- **Core components**: A minimal Electron app consists of `main.js` (main process), `preload.js` (bridge for secure IPC), and `index.html` (UI), with `BrowserWindow` managing the Chromium instance and `app` handling lifecycle events.
 
-- **Core app structure**: Electron apps consist of `main.js` (process management), `preload.js` (bridge between Node.js and renderer), and `index.html` (UI), with `BrowserWindow` handling window creation and lifecycle events.
+- **Documentation structure**: Official docs include tutorials (end-to-end guides), process references (main/renderer isolation), best practices (security/performance), examples (feature snippets), and distribution/testing workflows.
 
 ## Why It Matters
 
@@ -35,12 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T15:40:25.555386+05:30
+- Published: 2026-08-09T18:58:08.324115+05:30
 
 ## Related Tags
 
 - producthunt
 - web-crawled
+- workflows
 
 ## Source
 

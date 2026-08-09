@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-08-09T08:07:05.955170+05:30'
+collected_at: '2026-08-09T18:54:56.565726+05:30'
 published_at: '2026-07-17T03:59:58Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - scripts
 - unknown
+- workflows
 stars: 24
 language: Unknown
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-08-09T08:07:05.955170+05:30'
-last_seen: '2026-08-09T08:07:05.955170+05:30'
-last_checked: '2026-08-09T08:07:05.955170+05:30'
+first_seen: '2026-08-09T18:54:56.565726+05:30'
+last_seen: '2026-08-09T18:54:56.565726+05:30'
+last_checked: '2026-08-09T18:54:56.565726+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Development Framework**: Converts a GitHub repository into an AI-driven Scrum team using GitHub Actions and Anthropic's Claude to orchestrate AI agents for issue-based project management and development.
+- **Autonomous DevOps Framework**: Converts GitHub repositories into an AI-driven Scrum team using GitHub Actions and Claude to orchestrate AI agents for issue-based project management and development.
 
-- **Scrum Orchestration via Issues**: Manages development cycles directly from GitHub Issues, automating task breakdown, sprint planning, and agent coordination under the Scrum framework.
+- **Scrum Orchestration**: Implements a Scrum framework via automated workflows, where AI agents handle backlog refinement, sprint planning, task execution, and progress tracking directly from GitHub Issues.
 
-- **Open-Source Template**: Provides a pre-configured, extensible template for autonomous AI agent teams, last updated on **2026-07-17** with 24 stars and 7 forks.
+- **Open-Source Template**: Provides a pre-configured, extensible template for autonomous software development, enabling seamless integration of AI agents into existing CI/CD pipelines.
 
 ## Why It Matters
 

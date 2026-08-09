@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-09T15:31:56.764009+05:30'
+collected_at: '2026-08-09T18:51:51.413045+05:30'
 published_at: '2026-08-08T19:12:52Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-07T04:07:30Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-09T15:31:56.764009+05:30'
-last_seen: '2026-08-09T15:31:56.764009+05:30'
-last_checked: '2026-08-09T15:31:56.764009+05:30'
+first_seen: '2026-08-09T18:51:51.413045+05:30'
+last_seen: '2026-08-09T18:51:51.413045+05:30'
+last_checked: '2026-08-09T18:51:51.413045+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, featuring AI agents, RAG, streaming, authentication, and 20+ integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI/Deep).
+- **Full-stack AI Agent Template**: Boilerplate for FastAPI (Python) + Next.js (TypeScript) applications with pre-integrated AI agents, RAG (Retrieval-Augmented Generation), real-time streaming, authentication, and 20+ third-party integrations.
 
-- **Key Features**: Pre-configured Docker setup, PostgreSQL database, WebSocket support, and modular architecture for rapid deployment of AI-driven applications with built-in agent frameworks and LLM integrations.
+- **Tech Stack**: Leverages FastAPI (backend), Next.js (frontend), PostgreSQL (database), Docker (containerization), WebSocket (real-time communication), and supports multiple AI frameworks (LangChain, LangGraph, CrewAI, Pydantic-AI, Pydantic-Deep).
 
-- **Scalability & Maintenance**: Actively maintained (last updated Aug 2026) with 1.7k+ stars and 319 forks, emphasizing extensibility via Pydantic models, Pydantic-AI, and deep integration patterns.
+- **Key Features**: Pre-configured AI agent architecture, modular design for rapid deployment, and built-in support for authentication, RAG pipelines, and streaming responses with minimal setup.
 
 ## Why It Matters
 

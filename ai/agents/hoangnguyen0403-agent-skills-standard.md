@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-09T15:34:11.823983+05:30'
+collected_at: '2026-08-09T18:54:06.486678+05:30'
 published_at: '2026-08-07T03:48:17Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-09T15:34:11.823983+05:30'
-last_seen: '2026-08-09T15:34:11.823983+05:30'
-last_checked: '2026-08-09T15:34:11.823983+05:30'
+first_seen: '2026-08-09T18:54:06.486678+05:30'
+last_seen: '2026-08-09T18:54:06.486678+05:30'
+last_checked: '2026-08-09T18:54:06.486678+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Coding Standards Repository**: Hosts standardized best practices for multiple programming languages and frameworks (e.g., TypeScript, Kotlin, Spring Boot, React, Flutter) to guide AI agents in adhering to industry-standard coding conventions.
+- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and JavaScript frameworks (React, Next.js, NestJS) to guide AI agents in framework-specific development.
 
-- **Multi-Framework & Multi-Platform Support**: Covers backend (NestJS, Laravel, Spring Boot), frontend (React, Angular, Next.js), and mobile (Android, iOS, React Native, Flutter) frameworks, ensuring cross-domain consistency for AI-driven development.
+- **Agent-Oriented Standards**: Defines structured `cursor-rules` and `agent-skills` for consistent AI agent behavior across Android, iOS, and web frameworks (React Native, Angular), ensuring predictable code generation and adherence to language-specific conventions.
 
-- **Active Maintenance & Community Engagement**: Last updated in August 2026, with 538 stars and 157 forks, indicating ongoing contributions and adoption by developers for refining agent-assisted programming workflows.
+- **Active Maintenance & Community**: Last updated in August 2026 with 538 stars and 157 forks, indicating ongoing community engagement and iterative improvements to support evolving AI agent capabilities in software development workflows.
 
 ## Why It Matters
 

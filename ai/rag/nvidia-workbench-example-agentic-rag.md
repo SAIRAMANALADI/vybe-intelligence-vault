@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-08-09T15:32:16.755116+05:30'
+collected_at: '2026-08-09T18:52:11.405094+05:30'
 published_at: '2026-08-04T15:42:47Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - jupyter notebook
 - rag
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-08-09T15:32:16.755116+05:30'
-last_seen: '2026-08-09T15:32:16.755116+05:30'
-last_checked: '2026-08-09T15:32:16.755116+05:30'
+first_seen: '2026-08-09T18:52:11.405094+05:30'
+last_seen: '2026-08-09T18:52:11.405094+05:30'
+last_checked: '2026-08-09T18:52:11.405094+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an agentic Retrieval-Augmented Generation (RAG) system using NVIDIA AI Workbench, integrating retrieval and generative AI components for dynamic decision-making.
+- **Purpose**: Demonstrates an Agentic Retrieval Augmented Generation (RAG) workflow using NVIDIA AI Workbench, integrating autonomous agents with RAG pipelines for dynamic information retrieval and generation.
 
-- **Jupyter Notebook-Based**: Entirely implemented as a Jupyter Notebook, providing an interactive, reproducible environment for experimentation and deployment of agentic RAG workflows.
+- **Implementation**: Developed as a Jupyter Notebook, leveraging modular components for agent orchestration, retrieval strategies, and LLM integration, optimized for NVIDIA’s AI stack.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA AI Workbench for streamlined development, dependency management, and scalable execution of agentic AI pipelines.
+- **Key Features**: Includes agentic decision-making for query decomposition, adaptive retrieval, and context-aware generation, with example workflows for evaluation and scalability.
 
 ## Why It Matters
 

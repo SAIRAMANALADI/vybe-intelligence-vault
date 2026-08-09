@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-09T15:32:31.766538+05:30'
+collected_at: '2026-08-09T18:52:26.415313+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
+- reddit
 - workflows
 stars: 36
 language: Java
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-09T15:32:31.766538+05:30'
-last_seen: '2026-08-09T15:32:31.766538+05:30'
-last_checked: '2026-08-09T15:32:31.766538+05:30'
+first_seen: '2026-08-09T18:52:26.415313+05:30'
+last_seen: '2026-08-09T18:52:26.415313+05:30'
+last_checked: '2026-08-09T18:52:26.415313+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Implements AI Q&A system** using Spring AI with Aliyun services, featuring **Server-Sent Events (SSE) streaming**, **Agent-based workflows**, and **Retrieval-Augmented Generation (RAG)** with knowledge graphs.
-- **Supports multimodal AI** via **image generation/understanding**, **function calling**, **embedding models**, and **vector database integration** (e.g., Milvus, Weaviate) for semantic search.
-- **Enhances conversational context** with **historical message handling**, **vector-based RAG**, and **customizable pipelines** for enterprise-grade AI applications in Java.
+- **Multi-modal RAG Integration**: Implements Retrieval-Augmented Generation (RAG) with vector databases (Embedding) for text-based Q&A, image generation (via AI models), and image understanding (OCR/visual QA) using SSE streaming for real-time agent interactions.
+
+- **Agentic Workflows**: Supports FunctionCall-based agent orchestration with historical message context retention, enabling stateful multi-turn conversations and dynamic tool invocation (e.g., API calls, tool execution) within Spring AI/AliCloud ecosystems.
+
+- **Knowledge Graph & Vector Hybrid Search**: Combines knowledge graph retrieval (for structured data) with vector similarity search (for unstructured data) to enhance accuracy in domain-specific AI applications, optimized for Java-based Spring AI integrations.
 
 ## Why It Matters
 

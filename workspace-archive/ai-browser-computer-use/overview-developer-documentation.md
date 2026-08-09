@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
 - web-crawled
 selection_reason:
 - Valuable developer reference
@@ -29,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-- **No content provided for summarization.**
+- No technical content provided in the "Introduction" section to summarize.
 
 ## Use Cases
 

@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-09T10:14:38.922174+05:30'
+collected_at: '2026-08-09T18:54:06.497337+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
+- frontend_ui
 - github-repo
 - rag
 - reddit
 - unknown
-- workflows
 stars: 205
 language: Unknown
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-09T10:14:38.922174+05:30'
-last_seen: '2026-08-09T10:14:38.922174+05:30'
-last_checked: '2026-08-09T10:14:38.922174+05:30'
+first_seen: '2026-08-09T18:54:06.497337+05:30'
+last_seen: '2026-08-09T18:54:06.497337+05:30'
+last_checked: '2026-08-09T18:54:06.497337+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Patterns**: Implements advanced caching, background updates, and stale-while-revalidate strategies to minimize redundant API calls and improve data consistency in AI-driven applications.
+- **Optimized TanStack Query Integration**: Implements best practices for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), reducing redundant network requests and improving state management.
 
-- **Router Integration for AI Workflows**: Leverages TanStack Router’s file-based routing and dynamic segments to enable seamless state synchronization between UI components and AI agent decision paths.
+- **Advanced TanStack Router Configuration**: Demonstrates structured routing patterns for AI agents, leveraging TanStack Router’s type-safe navigation and dynamic route handling to streamline client-side transitions and parameter validation.
 
-- **Start Framework Enhancements**: Utilizes TanStack Start’s SSR/SSG capabilities to pre-render agent-optimized routes, reducing hydration latency and enabling faster AI response execution.
+- **TanStack Start (Next.js) Optimization**: Provides guidelines for integrating TanStack Start with AI agents, focusing on server-side rendering (SSR) and static site generation (SSG) optimizations to enhance performance and scalability.
 
 ## Why It Matters
 

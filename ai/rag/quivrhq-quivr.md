@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-09T15:32:56.789746+05:30'
+collected_at: '2026-08-09T18:52:51.446622+05:30'
 published_at: '2026-08-09T04:31:09Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-09T15:32:56.789746+05:30'
-last_seen: '2026-08-09T15:32:56.789746+05:30'
-last_checked: '2026-08-09T15:32:56.789746+05:30'
+first_seen: '2026-08-09T18:52:51.446622+05:30'
+last_seen: '2026-08-09T18:52:51.446622+05:30'
+last_checked: '2026-08-09T18:52:51.446622+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for diverse use cases without requiring deep RAG expertise.
+- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss) with customizable pipelines.
 
-- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across different AI models and storage backends while accommodating various file types.
+- **Multi-Format & Multi-Store Support**: Handles diverse file types and integrates with any vector database, enabling flexible deployment while prioritizing privacy and security for enterprise use.
 
-- **Full-Stack Integration**: Provides a Python-based backend with Docker support, a React/TypeScript frontend, and APIs for easy integration into existing products, emphasizing privacy, security, and extensibility.
+- **Full-Stack Toolkit**: Provides a Python-based backend with Docker support, a React/TypeScript frontend, and APIs for easy embedding into existing products, alongside PostgreSQL for structured data management.
 
 ## Why It Matters
 

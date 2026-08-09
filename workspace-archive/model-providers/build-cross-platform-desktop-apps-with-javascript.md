@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Runtime Architecture**: Electron combines Chromium for rendering and Node.js for backend integration, enabling cross-platform desktop apps with JavaScript/TypeScript.
-- **Security & Stability**: Releases align with Chromium updates for immediate security patches and stable rendering targets (e.g., Chromium 150.0.7871.212 in Electron 43.3.0).
-- **Tooling & Ecosystem**: Supports npm packages, native add-ons, and frameworks (React, Angular, Vue) via Electron Forge for packaging/distribution (e.
+- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
+
+- **Security & Maintenance**: Releases align with Chromium updates for timely security patches, while `crashReporter` and `autoUpdater` modules provide crash analytics and seamless updates.
+
+- **Tooling & Ecosystem**: Supports npm packages, native add-ons, and frameworks (React, Vue, Angular), with Electron Forge for standardized b
 
 ## Use Cases
 

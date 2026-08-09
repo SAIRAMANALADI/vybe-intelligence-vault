@@ -4,10 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-08-09T15:32:46.794065+05:30'
+collected_at: '2026-08-09T18:52:41.397916+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
+- meta-ai
+- models
 - paper
 - python
 - rag
@@ -19,9 +23,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-08-09T15:32:46.794065+05:30'
-last_seen: '2026-08-09T15:32:46.794065+05:30'
-last_checked: '2026-08-09T15:32:46.794065+05:30'
+first_seen: '2026-08-09T18:52:41.397916+05:30'
+last_seen: '2026-08-09T18:52:41.397916+05:30'
+last_checked: '2026-08-09T18:52:41.397916+05:30'
 health_score: 100
 ---
 
@@ -29,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository compiles high-impact research papers, frameworks, and tools focused on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
-- **Python-Centric**: Primarily Python-based, facilitating integration with popular ML/NLP libraries (e.g., Hugging Face, LangChain) for RAG implementation and experimentation.
-- **Last Updated**: Repository metadata indicates active maintenance with the latest update on **2026-07-01**, ensuring relevance to current RAG advancements.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) architectures, methodologies, and applications.
+- **Python-Centric Tooling**: Includes open-source implementations, frameworks (e.g., LangChain, LlamaIndex), and evaluation benchmarks primarily in Python for RAG system development.
+- **Last Updated**: Repository metadata indicates latest synchronization on **2026-07-01T02:40:05Z**, reflecting recent additions to the curated list.
 
 ## Why It Matters
 

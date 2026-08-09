@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-09T15:32:31.730788+05:30'
+collected_at: '2026-08-09T18:52:26.379757+05:30'
 published_at: '2026-08-09T00:54:37Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 189
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-07T20:01:09Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-09T15:32:31.730788+05:30'
-last_seen: '2026-08-09T15:32:31.730788+05:30'
-last_checked: '2026-08-09T15:32:31.730788+05:30'
+first_seen: '2026-08-09T18:52:26.379757+05:30'
+last_seen: '2026-08-09T18:52:26.379757+05:30'
+last_checked: '2026-08-09T18:52:26.379757+05:30'
 health_score: 100
 ---
 
@@ -28,7 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Curates battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Aug
+- **Curated resources**: Repository provides a vetted collection of tools, frameworks, and best practices for deploying scalable, production-grade RAG systems, emphasizing battle-tested solutions.
+- **Technical scope**: Covers core components including embeddings, vector databases, LLM integration (LangChain), and MLOps/LLMOps pipelines for end-to-end RAG workflows.
+- **Python-centric**: Focuses on Python-based implementations, with last update timestamped **2026-08-09T00:54:37Z** and 189 stars/49 forks.
 
 ## Why It Matters
 
@@ -38,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Yigtwxx
 - Stars: 189
-- Forks: 48
+- Forks: 49
 - Language: Python
 - Topics: ai, ai-engineering, artificial-intelligence, awesome, awesome-list, curated-list, embeddings, generative-ai, langchain, large-language-models, list, llm, llmops, machine-learning, mlops, production, python, rag, retrieval-augmented-generation, vector-database
 - Last Updated: 2026-08-09T00:54:37Z

@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C171-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C487-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--09-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **101,171 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **169,487 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,632</p>
-        <p><b>Active:</b> 17,110 | <b>Inactive:</b> 522</p>
+        <p><b>Resources tracked:</b> 18,644</p>
+        <p><b>Active:</b> 18,120 | <b>Inactive:</b> 524</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,222</p>
+        <p><b>Archive Files:</b> 69,548</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 101,171 files</p>
-        <p><b>Last Update:</b> 2026-08-09 18:22 IST</p>
+        <p><b>Total Vault Size:</b> 169,487 files</p>
+        <p><b>Last Update:</b> 2026-08-09 19:09 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,26 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[deepset-ai/haystack-cookbook](ai/rag/deepset-ai-haystack-cookbook.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[GitHub - golang/proposal: Go Project Design Documents · GitHub](ai/rag/github-golang-proposal-go-project-design-documents.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[cmd/go: add minimal support for vgo transition · Issue #25069 · golang/go · GitHub](ai/resources/cmd-go-add-minimal-support-for-vgo-transition-issu.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[vgo - Git at Google](ai/resources/vgo-git-at-google.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Russ Cox](ai/rag/russ-cox.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Fastmail offers EU data region](ai/community/fastmail-offers-eu-data-region.md)** • <kbd>+35 pts</kbd>
+- 🔼 **[The original URL for this prediction will no longer be available in 11 years (2011)](ai/community/the-original-url-for-this-prediction-will-no-longe.md)** • <kbd>+24 pts</kbd>
+- 🔼 **[List of CommonMark Implementations · commonmark/commonmark-spec Wiki · GitHub](ai/rag/commonmark-commonmark-spec.md)** • Rank: <kbd>+8211</kbd>
+- 🔼 **[withastro/astro](ai/rag/withastro-astro.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[UnoCSS: The instant on-demand Atomic CSS engine](ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Amazon circumvents Gilroy community vote for AI data center](ai/community/amazon-circumvents-gilroy-community-vote-for-ai-da.md)** • Score: `16`
+- 🆕 **[Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta](ai/community/israeli-startup-was-linked-to-rogue-ai-hacks-at-op.md)** • Score: `7`
+- 🆕 **[Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](ai/rag/tailwind-css-rapidly-build-modern-websites-without.md)** • Score: `0`
+- 🆕 **[Lexical grammar - JavaScript | MDN](ai/rag/lexical-grammar-javascript-mdn.md)** • Score: `0`
+- 🆕 **[babelmark3 | Compare Markdown Implementations](ai/resources/babelmark3-compare-markdown-implementations.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Melatonin impairs morning cognition in healthy young adults (2023)](ai/community/melatonin-impairs-morning-cognition-in-healthy-you.md)**
+- 💤 **[Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost](ai/community/software-giant-sap-stops-most-travel-and-hiring-be.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-08-09T15:31:31.619188+05:30'
+collected_at: '2026-08-09T18:51:26.313423+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-08-09T15:31:31.619188+05:30'
-last_seen: '2026-08-09T15:31:31.619188+05:30'
-last_checked: '2026-08-09T15:31:31.619188+05:30'
+first_seen: '2026-08-09T18:51:26.313423+05:30'
+last_seen: '2026-08-09T18:51:26.313423+05:30'
+last_checked: '2026-08-09T18:51:26.313423+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Jekyll-based static site generator**: Repository contains the source code for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
-- **GitHub Pages hosting**: Hosted on GitHub Pages, leveraging GitHub's infrastructure for deployment and version control.
-- **Minimal metadata**: Repository has sparse metadata (no topics, 30 stars, 60 forks) and was last updated in July 2026, suggesting low maintenance activity.
+- **Jekyll Static Site Generator**: Repository contains the source for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
+- **GitHub Pages Hosting**: Deployed as a GitHub Pages repository, enabling automatic site generation and hosting from the `gh-pages` branch.
+- **Minimal Metadata**: No additional topics or descriptions provided; last commit was on `2026-07-08T15:07:53Z`, indicating recent but unspecified updates.
 
 ## Why It Matters
 

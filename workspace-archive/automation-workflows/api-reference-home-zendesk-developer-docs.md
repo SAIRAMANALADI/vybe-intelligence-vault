@@ -2,7 +2,7 @@
 title: API Reference Home | Zendesk Developer Docs
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://developer.zendesk.com/api-reference
+source_url: https://developer.zendesk.com/api-reference/
 resource_id: blog:api-reference-home-zendesk-developer-docs
 local_vault_path: ai/agents/api-reference-home-zendesk-developer-docs.md
 quality_score: 70
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- Zendesk APIs are organized by product capabilities (e.g., ticketing, help center, AI agents, messaging, voice, custom data) with detailed endpoints, authentication, and examples documented per API.
-- Embedding Zendesk is supported via Web Widget, SDKs (Android/iOS/Unity), and Answer Bot APIs, enabling controlled data flow and interactive features.
-- Extensibility is provided through Apps Core/Support/Sell/Chat APIs and Zendesk Integration Services (ZIS) for building custom apps and integration
+- **API Organization**: Zendesk APIs are structured by product capabilities (e.g., ticketing, help center, AI agents, messaging) with detailed endpoints, authentication methods, and examples provided for each.
+- **Embedding & SDKs**: Zendesk offers APIs and SDKs (Android, iOS, Unity) for embedding functionality (e.g., Web Widget, Answer Bot) and controlling data flow in mobile/embedded applications.
+- **Extensibility & Integrations**: Provides APIs for building apps (Support, Sell, Chat) and int
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.zendesk.com/api-reference
+Original source URL: https://developer.zendesk.com/api-reference/
 
 ## Local Vault File
 

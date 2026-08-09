@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-08-09T15:34:41.901613+05:30'
+collected_at: '2026-08-09T18:54:36.571318+05:30'
 published_at: '2026-08-07T18:43:50Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-08-09T04:22:03Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-08-09T15:34:41.901613+05:30'
-last_seen: '2026-08-09T15:34:41.901613+05:30'
-last_checked: '2026-08-09T15:34:41.901613+05:30'
+first_seen: '2026-08-09T18:54:36.571318+05:30'
+last_seen: '2026-08-09T18:54:36.571318+05:30'
+last_checked: '2026-08-09T18:54:36.571318+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Event-Driven Security Automation Platform**: Tracecat is an open-source, Python-based platform designed for security automation, leveraging FastAPI, Pydantic, and TemporalIO for workflow orchestration and event-driven task execution.
-
-- **AI Agent & Low-Code Integration**: Supports AI agents and low-code workflows with Next.js frontend, OpenAPI schema generation, and LLM-driven automation for security monitoring and response.
-
-- **Modular Architecture**: Built with security-focused components (e.g., workflow engine, monitoring) and scalable backend (FastAPI, TemporalIO) for team collaboration and automation.
+- **Architecture**: Python-based open-source security automation platform leveraging FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration) with event-driven architecture for real-time processing.
+- **Core Features**: Low-code workflow engine with OpenAPI/Pydantic validation, LLM integration for AI agent-driven security operations, and modular design for extensible security automation.
+- **Technical Stack**: Built on FastAPI (API layer), Pydantic (data validation), Temporal.io (temporal workflows), with monitoring and automation capabilities via Python-based agents and workflows.
 
 ## Why It Matters
 

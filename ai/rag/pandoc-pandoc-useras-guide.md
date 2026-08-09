@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pandoc.org/MANUAL.html
-published_at: '2026-06-24T23:25:34.560604+05:30'
-collected_at: '2026-06-24T23:25:34.560618+05:30'
+published_at: '2026-08-09T19:02:30.031120+05:30'
+collected_at: '2026-08-09T19:02:30.031133+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:pandoc-pandoc-useras-guide
-first_seen: '2026-06-24T23:25:34.560618+05:30'
-last_seen: '2026-06-24T23:25:34.560618+05:30'
-last_checked: '2026-06-24T23:25:34.560618+05:30'
+first_seen: '2026-08-09T19:02:30.031133+05:30'
+last_seen: '2026-08-09T19:02:30.031133+05:30'
+last_checked: '2026-08-09T19:02:30.031133+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Conversion Engine**: Pandoc is a Haskell-based tool/library with a modular architecture consisting of readers (input formats) and writers (output formats), enabling conversion between formats (e.g., Markdown, HTML, LaTeX, DOCX) via an intermediate AST; custom filters can modify the AST during processing.
+- **Modular Architecture**: Pandoc is a Haskell-based tool with a modular design, consisting of readers (input formats) and writers (output formats) that convert between an intermediate abstract syntax tree (AST), enabling extensibility via custom filters.
 
-- **Format-Specific Limitations**: Conversions are structural (preserving document elements like tables/footnotes) but lossy for formatting details (e.g., margins, complex tables) due to Pandoc’s simplified document model; perfect conversions are only guaranteed from Pandoc’s Markdown to other formats.
+- **Multi-Format Conversion**: Supports bidirectional conversion between numerous markup formats (e.g., Markdown, HTML, LaTeX, DOCX) and can generate PDFs via LaTeX, ConTeXt, or other intermediate formats, with lossy conversions for complex structures.
 
-- **PDF Generation Workflow**: PDF output requires a LaTeX engine (or alternatives like ConTeXt/HTML) via `--pdf-engine`; intermediate formats (e.g., `.tex`) can be debugged, and LaTeX compilation demands specific packages (e.g., `amsmath`, `unicode-math`, `babel`) for full functionality.
+- **Encoding & Workflow**: Uses UTF-8 by default; requires explicit encoding handling for non-UTF-8 systems, and supports direct web input via HTTP with customizable headers.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T23:25:34.560604+05:30
+- Published: 2026-08-09T19:02:30.031120+05:30
 
 ## Related Tags
 

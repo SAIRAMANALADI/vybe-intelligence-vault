@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-09T15:33:11.800058+05:30'
+collected_at: '2026-08-09T18:53:06.518946+05:30'
 published_at: '2026-08-05T15:22:57Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-09T15:33:11.800058+05:30'
-last_seen: '2026-08-09T15:33:11.800058+05:30'
-last_checked: '2026-08-09T15:33:11.800058+05:30'
+first_seen: '2026-08-09T18:53:06.518946+05:30'
+last_seen: '2026-08-09T18:53:06.518946+05:30'
+last_checked: '2026-08-09T18:53:06.518946+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based LLM Applications**: Provides a production-ready framework for building Retrieval-Augmented Generation (RAG) applications using LLMs, with integration examples for OpenAI, Llama2, and Anyscale models.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows leveraging Ray for distributed computing, with modular components for retrieval, prompt engineering, and LLM inference.
 
-- **Ray Integration**: Leverages Ray for scalable distributed computing, enabling efficient fine-tuning, serving, and deployment of LLM applications in production environments.
+- **Multi-LLM Framework Support**: Provides examples for integrating heterogeneous LLMs (e.g., Llama2, OpenAI) with unified serving via Ray Serve, including fine-tuning and inference optimization techniques.
 
-- **Jupyter Notebooks**: Includes hands-on notebooks covering end-to-end workflows, from model fine-tuning to serving, with practical examples for real-world deployment.
+- **Scalable Deployment Patterns**: Includes Jupyter Notebooks for end-to-end deployment strategies, covering batch inference, real-time serving, and cost-efficient scaling using Anyscale-managed Ray clusters.
 
 ## Why It Matters
 

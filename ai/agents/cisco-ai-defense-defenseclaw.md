@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-08-09T15:34:41.896910+05:30'
+collected_at: '2026-08-09T18:54:36.568453+05:30'
 published_at: '2026-08-09T01:14:48Z'
 tags:
 - agents
 - github-repo
 - go
-- hackernews
+- workflows
 stars: 816
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-03-23T00:51:19Z'
-pushed_at: '2026-08-09T09:56:42Z'
+pushed_at: '2026-08-09T11:14:37Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-08-09T15:34:41.896910+05:30'
-last_seen: '2026-08-09T15:34:41.896910+05:30'
-last_checked: '2026-08-09T15:34:41.896910+05:30'
+first_seen: '2026-08-09T18:54:36.568453+05:30'
+last_seen: '2026-08-09T18:54:36.568453+05:30'
+last_checked: '2026-08-09T18:54:36.568453+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: DefenseClaw is a Go-based framework designed for **security governance of agentic AI systems**, enabling policy enforcement, threat detection, and compliance monitoring in AI-driven environments.
+- **Purpose**: DefenseClaw provides a security governance framework for agentic AI systems, ensuring compliance, risk management, and operational integrity in AI-driven environments.
 
-- **Key Features**: Implements **real-time security controls** for AI agents, including authentication, authorization, audit logging, and runtime policy enforcement to mitigate risks like adversarial attacks or unauthorized actions.
+- **Implementation**: Developed in Go, it offers modular, scalable tools for enforcing security policies, monitoring agent behavior, and mitigating adversarial threats in AI workflows.
 
-- **Technical Stack**: Built in **Go** for performance and scalability, with integration capabilities for AI frameworks (e.g., LangChain, AutoGen) and security tools (e.g., SIEM, SOAR platforms).
+- **Status**: Actively maintained with the latest update on August 9, 2026, indicating ongoing development and community engagement.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-23T00:51:19Z
-- Pushed At: 2026-08-09T09:56:42Z
+- Pushed At: 2026-08-09T11:14:37Z
 
 ## Possible Use Cases
 
