@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-08-09T17:03:16.423838+05:30
+### Run: 2026-08-09T18:22:13.889763+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `deepset-ai/haystack-cookbook`: Rank rose by +3
 - **[Rank Rise]** `GitHub - golang/proposal: Go Project Design Documents · GitHub`: Rank rose by +3
@@ -17102,7 +17102,7 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `RUC-NLPIR/FlashRAG`: Rank dropped by -16846
 - **[Rank Drop]** `stanford-oval/storm`: Rank dropped by -15322
 
-### Run: 2026-08-09T16:08:33.937857+05:30
+### Run: 2026-08-09T17:03:16.423838+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `deepset-ai/haystack-cookbook`: Rank rose by +3
 - **[Rank Rise]** `GitHub - golang/proposal: Go Project Design Documents · GitHub`: Rank rose by +3
