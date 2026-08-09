@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C290-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C592-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--10-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **101,290 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **169,592 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,645</p>
-        <p><b>Active:</b> 17,119 | <b>Inactive:</b> 526</p>
+        <p><b>Resources tracked:</b> 18,653</p>
+        <p><b>Active:</b> 18,124 | <b>Inactive:</b> 529</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,240</p>
+        <p><b>Archive Files:</b> 69,554</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 101,290 files</p>
-        <p><b>Last Update:</b> 2026-08-10 00:14 IST</p>
+        <p><b>Total Vault Size:</b> 169,592 files</p>
+        <p><b>Last Update:</b> 2026-08-10 00:54 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,27 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Trainer · Hugging Face](ai/rag/huggingface-docs-transformers.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[pytorch/torchcodec](ai/resources/pytorch-torchcodec.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Get Started](ai/resources/get-started.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[AudioDecoder — TorchCodec 0.15 Documentation](ai/resources/audiodecoder-torchcodec-0-15-documentation.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[VideoDecoder — TorchCodec 0.15 Documentation](ai/resources/videodecoder-torchcodec-0-15-documentation.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Show HN: Airy – Free, fast, and simple voice content creation](ai/community/show-hn-airy-free-fast-and-simple-voice-content-cr.md)** • <kbd>+12 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[Chrome for Developers](ai/agents/chrome-for-developers.md)** • Rank: <kbd>+39</kbd>
+- 🔼 **[:has() CSS pseudo-class - CSS | MDN](ai/rag/has-css-pseudo-class-css-mdn.md)** • Rank: <kbd>+1544</kbd>
+- 🔼 **[Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers](ai/resources/performance-panel-analyze-your-website-s-performan.md)** • Rank: <kbd>+1720</kbd>
+- 🔼 **[GoogleChrome/web-vitals](ai/resources/googlechrome-web-vitals.md)** • Rank: <kbd>+1512</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Human vs. AI – Diff-based line-level provenance for text under agentic editing](ai/community/eighttrigrams-us-vs-them.md)** • Score: `25`
+- 🆕 **[An OpenAI Strategist Says AI Labs Should Rival Government Power](ai/community/an-openai-strategist-says-ai-labs-should-rival-gov.md)** • Score: `15`
+- 🆕 **[Show HN: A replayable A2A jury for tracing how agents influence decisions](ai/community/nmaroulis-protolink.md)** • Score: `7`
+- 🆕 **[Cross-compilation with Wails (2025)](ai/community/cross-compilation-with-wails-2025.md)** • Score: `3`
+- 🆕 **[superproject](ai/resources/superproject.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Fastmail offers EU data region](ai/community/fastmail-offers-eu-data-region.md)**
+- 💤 **[The original URL for this prediction will no longer be available in 11 years (2011)](ai/community/the-original-url-for-this-prediction-will-no-longe.md)**
+- 💤 **[70% of AI revenue comes from OpenAI and Anthropic](ai/community/youtube-68x8yeatepq.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

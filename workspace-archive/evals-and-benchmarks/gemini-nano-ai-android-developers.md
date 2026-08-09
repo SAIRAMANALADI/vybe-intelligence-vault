@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **On-device AI with Gemini Nano**: Runs via Android's AICore system service, enabling low-latency, offline generative AI with privacy safeguards by processing data locally on-device.
-- **ML Kit GenAI APIs**: High-level interfaces leveraging Gemini Nano for tasks like text generation, summarization, proofreading, rewriting, image description, and speech recognition, all executed via AICore.
-- **AICore Architecture**: Isolated system module with restricted internet access (via Private Compute Se
+- **ML Kit GenAI APIs**: High-level APIs (e.g., text generation, summarization, proofreading) built on AICore for common use cases, adhering to strict privacy via Private Compute Core principles.
+- **AICore Architecture**: Isolated system module with hardware-accelerated inference, safety filters, and indirect int
 
 ## Use Cases
 

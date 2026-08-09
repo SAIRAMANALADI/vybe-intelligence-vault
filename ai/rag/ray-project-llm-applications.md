@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-09T21:24:04.852498+05:30'
+collected_at: '2026-08-10T00:38:37.793101+05:30'
 published_at: '2026-08-05T15:22:57Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-09T21:24:04.852498+05:30'
-last_seen: '2026-08-09T21:24:04.852498+05:30'
-last_checked: '2026-08-09T21:24:04.852498+05:30'
+first_seen: '2026-08-10T00:38:37.793101+05:30'
+last_seen: '2026-08-10T00:38:37.793101+05:30'
+last_checked: '2026-08-10T00:38:37.793101+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, including retrieval, fine-tuning, and inference optimization for LLMs like Llama2.
-- **Multi-Model Compatibility**: Supports integration with OpenAI and Anyscale APIs, enabling hybrid LLM deployment strategies and seamless model switching for performance tuning.
-- **End-to-End Tooling**: Provides Jupyter Notebook-based examples for fine-tuning, serving, and benchmarking, with Ray’s ecosystem for scalable compute and fault tolerance.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
+
+- **Fine-Tuning & Serving Integration**: Provides Jupyter Notebook-based guides for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve, with examples leveraging Anyscale for scalable compute.
+
+- **End-to-End Production Guide**: Covers MLOps best practices, including model serving, retrieval augmentation, and system-level optimizations for low-latency LLM applications in production environments.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama_deploy
-collected_at: '2026-08-09T18:58:29.064739+05:30'
+collected_at: '2026-08-10T00:44:25.298921+05:30'
 published_at: '2026-08-04T14:35:45Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-05-29T16:52:16Z'
 pushed_at: '2026-04-06T20:36:41Z'
 resource_id: github:run-llama/llama_deploy
-first_seen: '2026-08-09T18:58:29.064739+05:30'
-last_seen: '2026-08-09T18:58:29.064739+05:30'
-last_checked: '2026-08-09T18:58:29.064739+05:30'
+first_seen: '2026-08-10T00:44:25.298921+05:30'
+last_seen: '2026-08-10T00:44:25.298921+05:30'
+last_checked: '2026-08-10T00:44:25.298921+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Enables production deployment of agentic workflows, leveraging LLM integration via LlamaIndex for multi-agent orchestration in Python.
-- **Key Features**: Supports scalable, modular agentic systems with built-in deployment tools for LLM-driven workflows.
-- **Ecosystem**: Integrates with LlamaIndex, designed for multi-agent architectures, and optimized for production-grade AI workflows.
+- **Multi-agent orchestration framework**: Enables deployment of agentic workflows with support for parallel and sequential task execution across multiple agents.
+- **Integration with LlamaIndex & LLMs**: Provides native compatibility with LlamaIndex for data indexing and retrieval, alongside LLM inference capabilities for agent reasoning.
+- **Production-ready deployment**: Supports scalable, containerized deployments with configurable APIs, state management, and fault tolerance for enterprise-grade workflows.
 
 ## Why It Matters
 

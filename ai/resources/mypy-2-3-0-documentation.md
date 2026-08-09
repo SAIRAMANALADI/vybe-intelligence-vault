@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://mypy.readthedocs.io/
-published_at: '2026-07-17T14:10:27.157798+05:30'
-collected_at: '2026-07-17T14:10:27.157812+05:30'
+published_at: '2026-08-10T00:47:26.973950+05:30'
+collected_at: '2026-08-10T00:47:26.973963+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:mypy-2-3-0-documentation
-first_seen: '2026-07-17T14:10:27.157812+05:30'
-last_seen: '2026-07-17T14:10:27.157812+05:30'
-last_checked: '2026-07-17T14:10:27.157812+05:30'
+first_seen: '2026-08-10T00:47:26.973963+05:30'
+last_seen: '2026-08-10T00:47:26.973963+05:30'
+last_checked: '2026-08-10T00:47:26.973963+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Static Type Checking**: Mypy is a static type checker for Python that enforces type correctness via PEP 484 type hints without executing the code, catching errors early (e.g., `str` vs. `int` operations).
-- **Gradual Typing & Compatibility**: Supports gradual adoption of static typing with backward compatibility, allowing dynamic typing where needed while enabling features like generics, unions, and structural subtyping.
-- **Advanced Type System**: Implements type inference, callable/union/tuple types, protocols, and `TypedDict`, with runtime-safe annotations via PEP 563 (`from __future__ import annotations`).
+- **Static type checking**: Mypy is a static type checker for Python that validates type hints (PEP 484) without executing code, catching type errors early (e.g., `str + int` operations) while preserving runtime behavior.
+
+- **Gradual typing & type system**: Supports incremental adoption with features like type inference, generics, union types, structural subtyping (protocols), and `Any` for dynamic typing, enhancing maintainability without enforcing strict typing.
+
+- **Configuration & extensibility**: Provides strict mode, stub file support for library types, and advanced features like `TypedDict`, `Literal` types, and metaclass validation, with backward-compatibility warnings for major version changes.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-17T14:10:27.157798+05:30
+- Published: 2026-08-10T00:47:26.973950+05:30
 
 ## Related Tags
 

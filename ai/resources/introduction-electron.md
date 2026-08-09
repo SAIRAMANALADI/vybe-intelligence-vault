@@ -3,17 +3,17 @@ title: Introduction | Electron
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://electronjs.org/docs/latest
-published_at: '2026-08-09T21:32:35.043586+05:30'
-collected_at: '2026-08-09T21:32:35.043601+05:30'
+source_url: https://www.electronjs.org/docs/latest
+published_at: '2026-08-10T00:46:13.373446+05:30'
+collected_at: '2026-08-10T00:46:13.373459+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-08-09T21:32:35.043601+05:30'
-last_seen: '2026-08-09T21:32:35.043601+05:30'
-last_checked: '2026-08-09T21:32:35.043601+05:30'
+first_seen: '2026-08-10T00:46:13.373459+05:30'
+last_seen: '2026-08-10T00:46:13.373459+05:30'
+last_checked: '2026-08-10T00:46:13.373459+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop applications that run natively on Windows, macOS, and Linux without requiring native development expertise.
+- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based cross-platform desktop applications without native development.
 
-- **Core components**: Electron apps consist of a main process (`main.js`) managing app lifecycle via `app` and `BrowserWindow`, a preload script (`preload.js`) bridging Node.js APIs to the renderer, and an HTML/JS/CSS frontend (`index.html`) for UI rendering.
+- **Core components**: Electron apps consist of `main.js` (main process), `preload.js` (preload script), and `index.html` (renderer process), with `BrowserWindow` managing the GUI and Node.js APIs accessible via `webPreferences`.
 
-- **Development ecosystem**: Electron provides official documentation (tutorials, APIs, best practices), a sandboxed prototyping tool (Electron Fiddle), and community resources (Discord, GitHub issues) for debugging, testing, and distribution.
+- **Documentation structure**: Official docs include tutorials, process models, best practices, examples, distribution guides, debugging/testing tools, and contribution guidelines for Electron development.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T21:32:35.043586+05:30
+- Published: 2026-08-10T00:46:13.373446+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://electronjs.org/docs/latest
+Original source: https://www.electronjs.org/docs/latest

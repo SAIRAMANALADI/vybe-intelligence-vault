@@ -3,17 +3,18 @@ title: Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha docum
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.jupyter.org
-published_at: '2026-08-08T12:56:00.134305+05:30'
-collected_at: '2026-08-08T12:56:00.134316+05:30'
+source_url: https://docs.jupyter.org/en/latest/
+published_at: '2026-08-10T00:47:40.359896+05:30'
+collected_at: '2026-08-10T00:47:40.359908+05:30'
 tags:
 - reddit
 - web-crawled
+- workflows
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-08-08T12:56:00.134316+05:30'
-last_seen: '2026-08-08T12:56:00.134316+05:30'
-last_checked: '2026-08-08T12:56:00.134316+05:30'
+first_seen: '2026-08-10T00:47:40.359908+05:30'
+last_seen: '2026-08-10T00:47:40.359908+05:30'
+last_checked: '2026-08-10T00:47:40.359908+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular, extensible framework centered on interactive computing via computational notebooks, supporting code execution, rich visualizations, and narrative documentation in a single document format.
+- **Jupyter Ecosystem**: A modular, extensible framework for interactive computing with computational notebooks (e.g., Jupyter Notebook, JupyterLab), supporting code execution, rich visualizations, and collaborative workflows via standardized formats (e.g., `nbformat`) and messaging protocols (e.g., `jupyter-client`).
 
-- **Core components**: Includes JupyterLab (feature-rich IDE), Jupyter Notebook (lightweight editor), kernels (e.g., IPython, IRkernel), and tools for notebook lifecycle management (e.g., `nbconvert`, `nbclient`, `nbformat`).
+- **Sub-Projects & Kernels**: Includes specialized tools like `nbconvert` (conversion), `nbviewer` (rendering), `JupyterHub` (multi-user deployment), and language-specific kernels (e.g., IPython, IRkernel, IJulia), enabling cross-language notebook environments.
 
-- **Deployment & extensibility**: Supports multi-user environments via JupyterHub (with authenticators/spawners), Docker/Kubernetes integrations, and customizable widgets; also enables AI integration (e.g., `jupyter-ai`) and third-party kernel development.
+- **Deployment & Extensibility**: Supports scalable deployments via Docker/Kubernetes (e.g., `JupyterHub`, `Enterprise Gateway`) and customization through widgets (`ipywidgets`), AI integrations (`jupyter-ai`), and extension APIs for tailored interactive computing solutions.
 
 ## Why It Matters
 
@@ -35,13 +36,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T12:56:00.134305+05:30
+- Published: 2026-08-10T00:47:40.359896+05:30
 
 ## Related Tags
 
 - reddit
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://docs.jupyter.org
+Original source: https://docs.jupyter.org/en/latest/

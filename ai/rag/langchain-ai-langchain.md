@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langchain
-collected_at: '2026-08-09T21:26:14.998495+05:30'
-published_at: '2026-08-09T15:54:20Z'
+collected_at: '2026-08-10T00:40:42.951052+05:30'
+published_at: '2026-08-09T18:58:57Z'
 tags:
 - agents
 - anthropic
@@ -14,17 +14,17 @@ tags:
 - python
 - rag
 - workflows
-stars: 143797
+stars: 143809
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2022-10-17T02:58:36Z'
-pushed_at: '2026-08-09T15:46:48Z'
+pushed_at: '2026-08-09T17:31:19Z'
 resource_id: github:langchain-ai/langchain
-first_seen: '2026-08-09T21:26:14.998495+05:30'
-last_seen: '2026-08-09T21:26:14.998495+05:30'
-last_checked: '2026-08-09T21:26:14.998495+05:30'
+first_seen: '2026-08-10T00:40:42.951052+05:30'
+last_seen: '2026-08-10T00:40:42.951052+05:30'
+last_checked: '2026-08-10T00:40:42.951052+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent orchestration framework**: LangChain provides a Python-based platform for building, deploying, and managing AI agents with support for multi-agent systems, workflows, and tool integration (e.g., RAG, LLM APIs like OpenAI, Anthropic, Gemini).
-
-- **Modular architecture**: Built on Pydantic for data validation, it offers extensible components (e.g., `langgraph` for stateful workflows) and supports enterprise-grade features like observability, caching, and async operations.
-
-- **Cross-platform compatibility**: Supports Python (primary) and TypeScript (via `@langchain/core`), with integrations for vector stores, APIs, and enterprise tools, enabling scalable generative AI applications.
+- **Multi-agent & LLM Framework**: Python-based open-source framework (`langchain`) supporting multi-agent systems, LLM integrations (OpenAI, Anthropic, Gemini), and agent orchestration via `LangGraph`.
+- **Enterprise & RAG Capabilities**: Supports Retrieval-Augmented Generation (RAG), enterprise-grade workflows, and structured data handling via `Pydantic`.
+- **Polyglot & Tooling**: TypeScript compatibility, TypeScript SDK (`langgraph`), and tooling for generative AI, chatbots, and deep learning agents.
 
 ## Why It Matters
 
@@ -45,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 143797
-- Forks: 23957
+- Stars: 143809
+- Forks: 23958
 - Language: Python
 - Topics: agents, ai, ai-agents, anthropic, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag, typescript
-- Last Updated: 2026-08-09T15:54:20Z
+- Last Updated: 2026-08-09T18:58:57Z
 - License: MIT
 - Archived: No
 - Created At: 2022-10-17T02:58:36Z
-- Pushed At: 2026-08-09T15:46:48Z
+- Pushed At: 2026-08-09T17:31:19Z
 
 ## Possible Use Cases
 

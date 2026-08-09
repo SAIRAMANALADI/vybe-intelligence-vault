@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/scotthavird/crewai-template
-collected_at: '2026-08-09T12:55:19.304347+05:30'
+collected_at: '2026-08-10T00:41:13.055946+05:30'
 published_at: '2026-04-29T02:05:35Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - producthunt
 - python
 - rag
+- workflows
 stars: 1
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-02-01T18:48:16Z'
 pushed_at: '2026-04-29T02:05:32Z'
 resource_id: github:scotthavird/crewai-template
-first_seen: '2026-08-09T12:55:19.304347+05:30'
-last_seen: '2026-08-09T12:55:19.304347+05:30'
-last_checked: '2026-08-09T12:55:19.304347+05:30'
+first_seen: '2026-08-10T00:41:13.055946+05:30'
+last_seen: '2026-08-10T00:41:13.055946+05:30'
+last_checked: '2026-08-10T00:41:13.055946+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Minimalist Dockerized Scaffold**: Provides a lightweight, pre-configured Docker Compose setup for rapid CrewAI project deployment, optimized for minimal overhead and quick initialization.
+- **Minimal Dockerized Scaffold**: Provides a lightweight, pre-configured `docker-compose.yml` setup for CrewAI projects, enabling rapid deployment with standardized dependencies and environment variables.
 
-- **Python-Based Framework**: Leverages Python for CrewAI integration, ensuring compatibility with AI agent orchestration while maintaining dependency isolation via Docker.
+- **Python-Based Template**: Leverages Python for CrewAI integration, ensuring compatibility with CrewAI’s agent/task orchestration framework while maintaining minimal overhead.
 
-- **Pre-Built Best Practices**: Includes standardized configurations (e.g., environment variables, service dependencies) to streamline development and enforce scalable project structures.
+- **Best Practices Included**: Incorporates structured project layout, configuration files, and Docker optimizations to streamline development workflows and scalability.
 
 ## Why It Matters
 

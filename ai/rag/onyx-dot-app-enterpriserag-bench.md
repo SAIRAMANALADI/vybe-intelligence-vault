@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-09T21:23:44.825559+05:30'
+collected_at: '2026-08-10T00:38:17.790508+05:30'
 published_at: '2026-08-08T03:47:36Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-09T21:23:44.825559+05:30'
-last_seen: '2026-08-09T21:23:44.825559+05:30'
-last_checked: '2026-08-09T21:23:44.825559+05:30'
+first_seen: '2026-08-10T00:38:17.790508+05:30'
+last_seen: '2026-08-10T00:38:17.790508+05:30'
+last_checked: '2026-08-10T00:38:17.790508+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,14 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of RAG performance in real-world scenarios.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary/enterprise internal documents, enabling standardized assessment of performance in real-world scenarios.
 
-- **Features**: Includes synthetic data generation, semantic search, and evaluation tools for LLM-based question-answering, with support for Python and multiple RAG-related tasks (e.g., retrieval, generative AI, knowledge base integration).
+- **Key Features**:
+  - Synthetic data generation for enterprise knowledge bases.
+  - Evaluation framework for semantic search, information retrieval, and LLM-based QA.
+  - Supports Python-based RAG pipelines with metrics for generative AI and LLM performance.
 
-- **Scope**: Covers enterprise search, information retrieval, and LLM evaluation, with last updates as of August 2026, targeting large-scale internal knowledge base applications.
+- **Scope**: Covers enterprise-specific use cases (e.g., internal search, knowledge base augmentation) with tools for synthetic data creation and retrieval evaluation.
 
 ## Why It Matters
 

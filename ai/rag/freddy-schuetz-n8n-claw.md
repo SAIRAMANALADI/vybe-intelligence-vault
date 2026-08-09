@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-09T21:25:49.914870+05:30'
+collected_at: '2026-08-10T00:40:22.893855+05:30'
 published_at: '2026-08-09T15:06:33Z'
 tags:
 - agents
 - github-repo
 - rag
-- scripts
 - shell
 - workflows
 stars: 544
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-06T12:31:03Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-09T21:25:49.914870+05:30'
-last_seen: '2026-08-09T21:25:49.914870+05:30'
-last_checked: '2026-08-09T21:25:49.914870+05:30'
+first_seen: '2026-08-10T00:40:22.893855+05:30'
+last_seen: '2026-08-10T00:40:22.893855+05:30'
+last_checked: '2026-08-10T00:40:22.893855+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, Skills via MCP templates, and Expert Agents with delegated sub-agents for proactive task management.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory for dynamic knowledge retention and retrieval.
 
-- **Media & Web Integration**: Supports media understanding and web scraping via `crawl4ai` and `searxng` for real-time data retrieval, with self-hosted deployment via a single setup script.
+- **Core Features**: Supports Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, and media understanding capabilities, all self-hosted via a single setup script.
 
-- **Tech Stack & Storage**: Utilizes Supabase for data storage, Shell for scripting, and MCP (Model Context Protocol) for modular agent interactions, enabling a scalable, self-contained AI agent ecosystem.
+- **Integration & Deployment**: Combines components like Crawl4AI scraper, SearXNG engine, and Supabase for backend storage, with language support primarily in Shell, enabling modular and scalable AI agent orchestration.
 
 ## Why It Matters
 

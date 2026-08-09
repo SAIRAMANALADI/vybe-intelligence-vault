@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-08-09T21:24:24.827844+05:30'
+collected_at: '2026-08-10T00:38:57.769138+05:30'
 published_at: '2026-08-09T13:30:32Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
 - workflows
 stars: 8319
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-08-09T21:24:24.827844+05:30'
-last_seen: '2026-08-09T21:24:24.827844+05:30'
-last_checked: '2026-08-09T21:24:24.827844+05:30'
+first_seen: '2026-08-10T00:38:57.769138+05:30'
+last_seen: '2026-08-10T00:38:57.769138+05:30'
+last_checked: '2026-08-10T00:38:57.769138+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Remote MCP Server for GitHub**: Provides a TypeScript-based, open-source MCP server enabling remote interaction with any GitHub repository to mitigate AI code hallucinations.
-- **Agentic AI Integration**: Supports agentic workflows for tools like Claude, Copilot, and Cursor, facilitating structured GitHub project interactions via MCP protocol.
-- **Real-Time Updates & Scalability**: Last updated in 2026, the server offers real-time GitHub data access with 8,319+ stars and 744 forks, indicating strong community adoption.
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured, real-time access to GitHub repositories for AI agents, mitigating code hallucinations by ensuring accurate, up-to-date context.
+
+- **Technical Stack**: Implemented in TypeScript, GitMCP enables seamless integration with AI tools (e.g., Claude, Copilot, Cursor) via the MCP framework, facilitating agentic workflows with direct GitHub repository interactions.
+
+- **Features**: Supports real-time repository access, context-aware AI operations, and extensibility for custom GitHub workflows, with last updates as of August 9, 2026.
 
 ## Why It Matters
 

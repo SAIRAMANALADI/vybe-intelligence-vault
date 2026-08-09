@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-09T21:22:44.788069+05:30'
-published_at: '2026-08-09T15:04:49Z'
+collected_at: '2026-08-10T00:37:17.724347+05:30'
+published_at: '2026-08-09T17:56:28Z'
 tags:
 - agents
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - models
 - rag
 - workflows
-stars: 1541
+stars: 1542
 language: JavaScript
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-09T21:22:44.788069+05:30'
-last_seen: '2026-08-09T21:22:44.788069+05:30'
-last_checked: '2026-08-09T21:22:44.788069+05:30'
+first_seen: '2026-08-10T00:37:17.724347+05:30'
+last_seen: '2026-08-10T00:37:17.724347+05:30'
+last_checked: '2026-08-10T00:37:17.724347+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM inference, avoiding proprietary APIs or black-box systems.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Core Components**: Covers end-to-end RAG workflow—embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval augmentation, and context-aware prompt engineering for generation.
+- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a modular architecture for embedding generation, vector storage, and retrieval-augmented generation.
 
-- **Educational Focus**: Provides a hands-on tutorial to dissect RAG mechanics, emphasizing transparency in embeddings, retrieval strategies, and integration with local LLMs for reproducible, interpretable results.
+- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for implementing RAG locally, emphasizing transparency and real-world understanding of AI agent workflows.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1541
+- Stars: 1542
 - Forks: 189
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-08-09T15:04:49Z
+- Last Updated: 2026-08-09T17:56:28Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

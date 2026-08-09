@@ -14,13 +14,14 @@ collected_at: '2026-08-09T21:21:45.214734+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-original-url-for-this-prediction-will-no-longe
 first_seen: '2026-08-09T12:50:23.057095+05:30'
 last_seen: '2026-08-09T21:21:45.214734+05:30'
 last_checked: '2026-08-09T21:21:45.214734+05:30'
 health_score: 100
 ---
+
 
 # The original URL for this prediction will no longer be available in 11 years (2011)
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-08-09T21:23:19.778173+05:30'
+collected_at: '2026-08-10T00:37:52.725356+05:30'
 published_at: '2026-08-04T10:08:15Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-08-09T21:23:19.778173+05:30'
-last_seen: '2026-08-09T21:23:19.778173+05:30'
-last_checked: '2026-08-09T21:23:19.778173+05:30'
+first_seen: '2026-08-10T00:37:52.725356+05:30'
+last_seen: '2026-08-10T00:37:52.725356+05:30'
+last_checked: '2026-08-10T00:37:52.725356+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source TypeScript application with Dockerized deployment, supporting 100+ LLM providers via LiteLLM integration for scalable retrieval-augmented generation (RAG) pipelines.
-
-- **Observability & Testing**: Built-in LLM observability via Langfuse for monitoring/debugging, with full TypeScript type-checking and 100% test coverage for reliability.
-
-- **Observability & Testing**: Built-in LLM observability via Langfuse for monitoring/debugging, with full TypeScript type-checking and 100% test coverage for reliability.
+- **Tech Stack**: TypeScript-based RAG application with full type-checking, 100% test coverage, and Dockerized deployment.
+- **Observability & Integration**: Implements LLM observability via Langfuse and supports 100+ LLM providers through LiteLLM.
+- **Metadata**: 165 stars, 24 forks, last updated August 4, 2026, with topics including AI, LLM, and RAG.
 
 ## Why It Matters
 

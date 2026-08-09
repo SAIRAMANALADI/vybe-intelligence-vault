@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Lake-Native Architecture**: Milvus 3.0 introduces a lake-native design with S3-based storage, decoupling compute and storage for horizontal scalability and cost-efficient handling of tens of billions of vectors.
-
-- **Enhanced Retrieval Engine**: The updated retrieval engine improves query performance via optimized indexing (e.g., Global Index) and supports advanced features like hybrid search, metadata filtering, and multi-vector retrieval.
-
-- **Multi-Modal Deployment Options**: Supports lig
+- **Lake-Native Architecture**: Milvus 3.0 introduces a lake-native design with S3-based storage, decoupling compute and storage for scalable, cost-efficient vector search across tens of billions of vectors.
+- **Enhanced Retrieval Engine**: Upgraded retrieval engine with improved performance, supporting advanced features like metadata filtering, hybrid search, and multi-vector search for GenAI applications.
+- **Deployment Flexibility**: Supports multiple deployment models (Milvus Lite, Standalon
 
 ## Use Cases
 

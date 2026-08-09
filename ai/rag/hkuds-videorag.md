@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-09T21:24:09.879631+05:30'
+collected_at: '2026-08-10T00:38:37.794758+05:30'
 published_at: '2026-08-09T08:42:52Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-09T21:24:09.879631+05:30'
-last_seen: '2026-08-09T21:24:09.879631+05:30'
-last_checked: '2026-08-09T21:24:09.879631+05:30'
+first_seen: '2026-08-10T00:38:37.794758+05:30'
+last_seen: '2026-08-10T00:38:37.794758+05:30'
+last_checked: '2026-08-10T00:38:37.794758+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long videos via multi-modal embeddings and retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat" with video content by integrating multi-modal retrieval with generative models.
 
-- **Multi-Modal Integration**: Combines visual, audio, and textual features from videos using advanced encoders (e.g., CLIP, Whisper) for unified representation in LLM-based Q&A.
+- **Multi-Modal Integration**: Combines visual, audio, and textual modalities to enhance video comprehension, leveraging advanced embeddings and cross-modal attention mechanisms for robust long-video analysis.
 
-- **Efficiency & Scalability**: Optimizes long-video understanding with hierarchical chunking, adaptive retrieval, and GPU-accelerated processing, supporting up to 10-hour videos with minimal latency.
+- **KDD'2026 Contribution**: Proposes a novel pipeline for scalable video-based Q&A, addressing challenges in temporal reasoning and dynamic scene understanding through optimized retrieval and generation strategies.
 
 ## Why It Matters
 

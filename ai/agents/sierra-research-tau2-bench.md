@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-08-09T21:25:19.959588+05:30'
+collected_at: '2026-08-10T00:39:52.906642+05:30'
 published_at: '2026-08-09T15:23:56Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - python
-- reddit
 stars: 1765
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-08-07T04:26:31Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-08-09T21:25:19.959588+05:30'
-last_seen: '2026-08-09T21:25:19.959588+05:30'
-last_checked: '2026-08-09T21:25:19.959588+05:30'
+first_seen: '2026-08-10T00:39:52.906642+05:30'
+last_seen: '2026-08-10T00:39:52.906642+05:30'
+last_checked: '2026-08-10T00:39:52.906642+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and language model agents with integrated tool-use capabilities.
-
-- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool selection, and dynamic adaptation in complex, domain-specific scenarios.
-
-- **Evaluation Metrics**: Measures performance via task completion rates, interaction efficiency, and robustness to user/tool variability, providing standardized metrics for LLM-agent systems.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
+- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool-use efficiency, and adaptability in dynamic user-agent-tool environments.
+- **Evaluation Metrics**: Measures performance in task completion, error recovery, and user satisfaction, providing standardized metrics for tool-agent systems.
 
 ## Why It Matters
 

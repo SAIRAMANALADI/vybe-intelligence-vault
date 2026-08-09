@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-09T21:24:09.857620+05:30'
+collected_at: '2026-08-10T00:38:42.781927+05:30'
 published_at: '2026-08-08T09:17:04Z'
 tags:
 - agents
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 1235
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-09T21:24:09.857620+05:30'
-last_seen: '2026-08-09T21:24:09.857620+05:30'
-last_checked: '2026-08-09T21:24:09.857620+05:30'
+first_seen: '2026-08-10T00:38:42.781927+05:30'
+last_seen: '2026-08-10T00:38:42.781927+05:30'
+last_checked: '2026-08-10T00:38:42.781927+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for contextual augmentation.
+- **Vertically Unified Agents**: Introduces a novel framework integrating specialized agents for graph-based retrieval and complex reasoning, optimizing vertical task decomposition in GraphRAG systems.
 
-- **Graph Retrieval-Augmented Reasoning**: Integrates graph-based retrieval with LLMs to enhance long-form reasoning by dynamically constructing and querying knowledge graphs from unstructured data, improving factual consistency and coherence.
+- **Graph Retrieval-Augmented Complex Reasoning**: Enhances multi-hop reasoning by leveraging graph structures to augment LLM outputs, improving factual accuracy and contextual relevance in knowledge-intensive tasks.
 
-- **ICLR 2026 Submission**: Proposes a novel architecture combining graph neural networks (GNNs) and retrieval-augmented generation (RAG) to optimize agent-based reasoning pipelines, with empirical validation on large-scale datasets.
+- **Python Implementation**: Provides an open-source Python library optimized for large-scale graph operations, LLM integration, and agent-based workflows, with modular design for extensibility.
 
 ## Why It Matters
 

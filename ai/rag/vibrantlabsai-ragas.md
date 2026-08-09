@@ -1,47 +1,73 @@
 ---
-title: ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
+title: vibrantlabsai/ragas
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md
-published_at: '2026-08-09T21:29:10.926016+05:30'
-collected_at: '2026-08-09T21:29:10.926030+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/vibrantlabsai/ragas
+collected_at: '2026-08-10T00:43:10.108029+05:30'
+published_at: '2026-08-09T16:24:48Z'
 tags:
+- benchmark
+- dataset
+- github-repo
+- python
 - rag
-- web-crawled
+- workflows
+stars: 15228
+language: Python
 status: active
+license: Apache-2.0
+archived: false
+created_at: '2023-05-08T17:48:04Z'
+pushed_at: '2026-02-24T07:47:19Z'
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-08-09T21:29:10.926030+05:30'
-last_seen: '2026-08-09T21:29:10.926030+05:30'
-last_checked: '2026-08-09T21:29:10.926030+05:30'
+first_seen: '2026-08-10T00:43:10.108029+05:30'
+last_seen: '2026-08-10T00:43:10.108029+05:30'
+last_checked: '2026-08-10T00:43:10.108029+05:30'
 health_score: 100
 ---
 
-# ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
+# vibrantlabsai/ragas
 
 ## Summary
 
-- **Metrics Overview**: Ragas provides a structured framework for evaluating RAG (Retrieval-Augmented Generation) pipelines, focusing on key dimensions like faithfulness, answer relevance, context precision, context recall, and answer correctness, with design principles centered on modularity and extensibility.
+- **Framework for LLM Evaluations**: Open-source Python library (`ragas`) designed to assess RAG-based LLM applications with 10+ metrics (e.g., faithfulness, context relevance, answer correctness) via synthetic or human-labeled datasets.
 
-- **Faithfulness Metric**: Measures the factual consistency between the generated answer and the provided context, using entailment-based scoring to detect hallucinations or unsupported claims.
+- **Metric Computation**: Implements automated evaluation pipelines leveraging LLMs-as-judges for scalable, reproducible scoring of generated responses against ground truth or context.
 
-- **Context Precision/Recall**: Precision evaluates the relevancy of retrieved context to the generated answer, while recall assesses the extent to which the context covers the necessary information to answer the query.
+- **Integration & Extensibility**: Supports custom metrics, integrates with LangChain/Weaviate, and provides CLI tools for batch evaluation, enabling CI/CD workflows for LLMops.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-08-09T21:29:10.926016+05:30
+- Owner: vibrantlabsai
+- Stars: 15228
+- Forks: 1610
+- Language: Python
+- Topics: evaluation, llm, llmops
+- Last Updated: 2026-08-09T16:24:48Z
+- License: Apache-2.0
+- Archived: No
+- Created At: 2023-05-08T17:48:04Z
+- Pushed At: 2026-02-24T07:47:19Z
 
-## Related Tags
+## Possible Use Cases
 
-- rag
-- web-crawled
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md
+Original source: https://github.com/vibrantlabsai/ragas

@@ -4,28 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/uber/ADR
-collected_at: '2026-08-09T21:25:24.944779+05:30'
-published_at: '2026-08-09T15:34:35Z'
+collected_at: '2026-08-10T00:39:57.898281+05:30'
+published_at: '2026-08-09T18:13:55Z'
 tags:
 - agents
 - anthropic
 - benchmark
 - github-repo
-- hackernews
 - python
 - reddit
-- workflows
-stars: 1311
+stars: 1315
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-04-19T18:01:42Z'
-pushed_at: '2026-08-08T16:00:08Z'
+pushed_at: '2026-08-09T17:11:03Z'
 resource_id: github:uber/adr
-first_seen: '2026-08-09T21:25:24.944779+05:30'
-last_seen: '2026-08-09T21:25:24.944779+05:30'
-last_checked: '2026-08-09T21:25:24.944779+05:30'
+first_seen: '2026-08-10T00:39:57.898281+05:30'
+last_seen: '2026-08-10T00:39:57.898281+05:30'
+last_checked: '2026-08-10T00:39:57.898281+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose & Scope**: ADR (Agent Defense Runtime) secures enterprise AI agents via observability, security benchmarking, and real-time threat detection, with deployment at Uber.
-- **Technical Stack**: Python-based tool supporting security for AI agents (e.g., Claude, Cursor, Codex) with focus on prompt injection, LLM security, and MCP (Model Context Protocol) threats.
-- **Features**: Includes benchmarking, threat detection mechanisms, and integration with enterprise AI agent workflows for runtime security enforcement.
+- **Purpose**: ADR (Agent Defense Runtime) secures enterprise AI agents via observability, security benchmarking, and threat detection, deployed at Uber.
+- **Features**: Detects prompt injection, enforces security policies, and evaluates agent resilience against adversarial attacks.
+- **Integration**: Supports MCP (Model Context Protocol) and tools like Claude, Codex, and Cursor for runtime agent security.
 
 ## Why It Matters
 
@@ -44,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: uber
-- Stars: 1311
+- Stars: 1315
 - Forks: 108
 - Language: Python
 - Topics: agent-security, ai-agents, ai-security, benchmark, claude, claude-code, codex, cursor, llm-security, mcp, model-context-protocol, prompt-injection, threat-detection
-- Last Updated: 2026-08-09T15:34:35Z
+- Last Updated: 2026-08-09T18:13:55Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-19T18:01:42Z
-- Pushed At: 2026-08-08T16:00:08Z
+- Pushed At: 2026-08-09T17:11:03Z
 
 ## Possible Use Cases
 

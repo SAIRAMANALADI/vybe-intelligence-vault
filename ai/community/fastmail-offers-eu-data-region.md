@@ -13,13 +13,14 @@ collected_at: '2026-08-09T21:21:44.626644+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fastmail-offers-eu-data-region
 first_seen: '2026-08-09T03:19:46.178940+05:30'
 last_seen: '2026-08-09T21:21:44.626644+05:30'
 last_checked: '2026-08-09T21:21:44.626644+05:30'
 health_score: 100
 ---
+
 
 # Fastmail offers EU data region
 

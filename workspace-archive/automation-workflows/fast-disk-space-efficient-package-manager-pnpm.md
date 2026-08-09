@@ -1,10 +1,10 @@
 ---
 title: Fast, disk space efficient package manager | pnpm
 archive_category: automation-workflows
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://pnpm.io/
 resource_id: blog:fast-disk-space-efficient-package-manager-pnpm
-local_vault_path: ai/rag/fast-disk-space-efficient-package-manager-pnpm.md
+local_vault_path: ai/resources/fast-disk-space-efficient-package-manager-pnpm.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -13,7 +13,6 @@ importance: medium
 tags:
 - frontend_ui
 - openai
-- rag
 - web-crawled
 - workflows
 selection_reason:
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Optimized Dependency Management**: pnpm uses a content-addressable store to avoid redundant package storage, reducing disk usage by up to 60% compared to npm/yarn and enabling faster installations via hard links and symlinks.
-
-- **Monorepo & Workspace Support**: Implements efficient workspace linking, allowing shared dependencies across projects without duplication, and supports parallel task execution for CI/CD pipelines.
-
-- **Security & Supply Chain Resilience**: Enforces stricter dependen
+- **Optimized Dependency Resolution**: Uses a content-addressable store and hard links to avoid redundant package installations, reducing disk usage by up to 60% compared to npm/yarn.
+- **Monorepo & Workspace Support**: Native support for multi-package repositories with efficient dependency hoisting and isolated linking, improving build performance in large-scale projects.
+- **Security & Supply Chain Resilience**: Implements `minimumReleaseAge` and restricts post-install scripts by default, miti
 
 ## Use Cases
 
@@ -52,4 +49,4 @@ Original source URL: https://pnpm.io/
 
 ## Local Vault File
 
-Path: [fast-disk-space-efficient-package-manager-pnpm.md](../../ai/rag/fast-disk-space-efficient-package-manager-pnpm.md)
+Path: [fast-disk-space-efficient-package-manager-pnpm.md](../../ai/resources/fast-disk-space-efficient-package-manager-pnpm.md)

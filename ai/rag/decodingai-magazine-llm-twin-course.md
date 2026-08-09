@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-09T21:23:24.844183+05:30'
+collected_at: '2026-08-10T00:37:57.771077+05:30'
 published_at: '2026-08-09T14:02:07Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 4381
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-09T21:23:24.844183+05:30'
-last_seen: '2026-08-09T21:23:24.844183+05:30'
-last_checked: '2026-08-09T21:23:24.844183+05:30'
+first_seen: '2026-08-10T00:37:57.771077+05:30'
+last_seen: '2026-08-10T00:37:57.771077+05:30'
+last_checked: '2026-08-10T00:37:57.771077+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides a hands-on, 12-lesson curriculum for building production-ready LLM and RAG systems using LLMOps best practices, including source code and Docker-based deployment.
-- **Technical Stack**: Integrates AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Comet ML (experiment tracking), and Qwak (MLOps platform) for scalable MLOps pipelines.
-- **Focus Areas**: Covers ML system design, infrastructure-as-code, and generative AI deployment, emphasizing production-grade RAG implementation with Qdrant and Superlinked for vector search optimization.
+- **Course Structure**: Provides hands-on lessons (12 sessions) and source code for building production-ready LLM & RAG systems using LLMOps best practices, covering end-to-end development, deployment, and optimization.
+
+- **Tech Stack**: Integrates AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Superlinked (embeddings), and Qwak (MLOps), with monitoring via Comet-ML and containerization via Docker.
+
+- **Focus Areas**: Covers MLOps, ML system design, generative AI, and infrastructure-as-code (IaC) for scalable, production-grade LLM/RAG deployments.
 
 ## Why It Matters
 

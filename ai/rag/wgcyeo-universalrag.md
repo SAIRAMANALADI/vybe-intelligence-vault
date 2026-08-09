@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-09T21:24:14.831466+05:30'
+collected_at: '2026-08-10T00:38:47.757618+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-09T21:24:14.831466+05:30'
-last_seen: '2026-08-09T21:24:14.831466+05:30'
-last_checked: '2026-08-09T21:24:14.831466+05:30'
+first_seen: '2026-08-10T00:38:47.757618+05:30'
+last_seen: '2026-08-10T00:38:47.757618+05:30'
+last_checked: '2026-08-10T00:38:47.757618+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence, entity), leveraging unified embeddings and cross-modal retrieval.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, entity-level), leveraging unified embeddings and retrieval mechanisms.
 
-- **Modular Architecture**: Implements a plug-and-play system with modality-specific encoders, a shared retrieval index, and a modality-agnostic generator, optimized via contrastive learning and modality alignment losses.
+- **Modality-Agnostic Retrieval**: Implements a modality-agnostic encoder (e.g., using cross-modal attention or modality-specific adapters) to encode heterogeneous corpora into a shared embedding space, enabling joint retrieval and generation.
 
-- **ACL 2026 Oral Contribution**: Proposes novel evaluation protocols for cross-modal RAG, demonstrating state-of-the-art performance on benchmarks spanning text, vision, and structured data, while addressing challenges like modality mismatch and granularity heterogeneity.
+- **Adaptive Generation Pipeline**: Proposes a dynamic retrieval-generation loop where the LLM adaptively selects retrieval strategies (e.g., dense vs. sparse retrieval) and granularity levels based on query complexity and corpus structure, optimizing for factuality and coherence.
 
 ## Why It Matters
 

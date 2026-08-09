@@ -4,23 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-09T21:23:34.778636+05:30'
-published_at: '2026-08-07T05:37:10Z'
+collected_at: '2026-08-10T00:38:02.734652+05:30'
+published_at: '2026-08-09T16:07:20Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
-stars: 1340
+stars: 1341
 language: Unknown
 status: active
 archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-09T21:23:34.778636+05:30'
-last_seen: '2026-08-09T21:23:34.778636+05:30'
-last_checked: '2026-08-09T21:23:34.778636+05:30'
+first_seen: '2026-08-10T00:38:02.734652+05:30'
+last_seen: '2026-08-10T00:38:02.734652+05:30'
+last_checked: '2026-08-10T00:38:02.734652+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Compilation of advanced retrieval augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), including embeddings, retrieval methods, and integration strategies.
+- **Curated RAG Resources**: A comprehensive repository aggregating advanced techniques, tools, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval methods, and integration strategies.
 
-- **Comprehensive Coverage**: Encompasses topics such as RAG embeddings, retrieval-information mechanisms, and LLM-specific optimizations, with a focus on enhancing factual accuracy and contextual relevance in generated outputs.
+- **Technical Focus**: Encompasses topics such as RAG embeddings, retrieval-information mechanisms, and LLM-specific optimizations, providing curated links to cutting-edge implementations and theoretical advancements.
 
-- **Active Maintenance**: Last updated in August 2026, indicating ongoing updates and community engagement with 1,340 stars and 92 forks on GitHub.
+- **Dynamic Updates**: Last updated in August 2026, ensuring inclusion of recent developments in RAG architectures, hybrid retrieval-augmentation methods, and performance benchmarks for LLMs.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jxzhangjhu
-- Stars: 1340
+- Stars: 1341
 - Forks: 92
 - Language: Unknown
 - Topics: embeddings, large-language-models, llm, rag, rag-embeddings, retrieval-augmented-generation, retrieval-information
-- Last Updated: 2026-08-07T05:37:10Z
+- Last Updated: 2026-08-09T16:07:20Z
 - Archived: No
 - Created At: 2023-10-26T17:47:05Z
 - Pushed At: 2026-07-22T03:17:18Z

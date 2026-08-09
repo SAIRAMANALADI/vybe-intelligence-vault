@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-08-09T21:30:02.622471+05:30'
-collected_at: '2026-08-09T21:30:02.622485+05:30'
+published_at: '2026-08-10T00:44:10.019253+05:30'
+collected_at: '2026-08-10T00:44:10.019266+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-09T21:30:02.622485+05:30'
-last_seen: '2026-08-09T21:30:02.622485+05:30'
-last_checked: '2026-08-09T21:30:02.622485+05:30'
+first_seen: '2026-08-10T00:44:10.019266+05:30'
+last_seen: '2026-08-10T00:44:10.019266+05:30'
+last_checked: '2026-08-10T00:44:10.019266+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 - **Native Agent-Driven Development**: GitHub Copilot app provides a desktop experience for agent-driven development, natively integrated with GitHub, supporting macOS, Windows, and Linux across all Copilot plans.
 
-- **Isolated, Parallel Workflows**: Sessions are isolated workspaces for branches, files, and conversations, enabling parallel workflows with deep GitHub context (issues, PRs, search) and built-in validation (diffs, terminal checks, PR merging).
+- **Isolated, Parallel Workflows**: Each session operates in isolated workspaces with parallel workflows, enabling multi-tasking via separate branches, files, and conversations, with built-in validation (diffs, previews, terminal checks) and direct PR merging.
 
-- **Extensible & Automated**: Supports custom MCP servers, skills, and automated workflows (e.g., scheduled issue triage), with pricing tiers offering varying completion limits, model access, and credits (Free: 2K/month, Pro+: 4x Pro usage).
+- **Extensible & Automated**: Supports custom MCP servers, plugins, and skills (e.g., Impeccable for design), with automated workflows (e.g., scheduled tasks) and native GitHub context integration; pricing tiers range from Free ($0) to Max ($100/month) with varying credits and model access.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-09T21:30:02.622471+05:30
+- Published: 2026-08-10T00:44:10.019253+05:30
 
 ## Related Tags
 

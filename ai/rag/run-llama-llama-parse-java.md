@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-java
-collected_at: '2026-08-08T15:34:29.301881+05:30'
+collected_at: '2026-08-10T00:43:15.168018+05:30'
 published_at: '2026-07-23T17:43:22Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-06-15T21:38:33Z'
 pushed_at: '2026-08-08T02:25:17Z'
 resource_id: github:run-llama/llama-parse-java
-first_seen: '2026-08-08T15:34:29.301881+05:30'
-last_seen: '2026-08-08T15:34:29.301881+05:30'
-last_checked: '2026-08-08T15:34:29.301881+05:30'
+first_seen: '2026-08-10T00:43:15.168018+05:30'
+last_seen: '2026-08-10T00:43:15.168018+05:30'
+last_checked: '2026-08-10T00:43:15.168018+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Java/Kotlin SDK**: Provides a Java-based interface (Kotlin implementation) for cloud-based OCR and document parsing using LlamaParse.
-- **Cloud Integration**: Enables document processing in the cloud, leveraging LlamaParse's OCR and parsing capabilities.
-- **Minimal Activity**: Repository has low engagement (1 star, 1 fork) and was last updated in July 2026.
+- **Java/Kotlin SDK**: Provides a cloud-based OCR and document parsing interface for LlamaParse, leveraging Kotlin for JVM compatibility.
+- **Cloud Integration**: Enables server-side document processing with OCR capabilities, likely via LlamaParse's cloud API.
+- **Minimal Activity**: Repository has 1 star and 1 fork, with the last update in July 2026, indicating limited community engagement.
 
 ## Why It Matters
 

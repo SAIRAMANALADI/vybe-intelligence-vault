@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-09T21:22:24.787551+05:30'
+collected_at: '2026-08-10T00:36:57.713727+05:30'
 published_at: '2026-08-06T20:35:40Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-09T21:22:24.787551+05:30'
-last_seen: '2026-08-09T21:22:24.787551+05:30'
-last_checked: '2026-08-09T21:22:24.787551+05:30'
+first_seen: '2026-08-10T00:36:57.713727+05:30'
+last_seen: '2026-08-10T00:36:57.713727+05:30'
+last_checked: '2026-08-10T00:36:57.713727+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve trustworthiness in Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Scope**: Provides a Python-based framework for generating, annotating, and benchmarking hallucination datasets, enabling systematic assessment of RAG model reliability against factual inconsistencies.
+- **Technical Scope**: Provides a structured dataset with labeled instances of hallucinations (e.g., factual inaccuracies, unsupported claims) to benchmark RAG models' reliability and hallucination mitigation strategies.
 
-- **Repository Details**: Hosted on GitHub with 260 stars and 35 forks; last updated August 6, 2026, supporting reproducibility and community contributions in trustworthy AI research.
+- **Implementation**: Python-based repository with tools for dataset generation, evaluation metrics, and baseline model comparisons to facilitate research in hallucination detection and correction.
 
 ## Why It Matters
 

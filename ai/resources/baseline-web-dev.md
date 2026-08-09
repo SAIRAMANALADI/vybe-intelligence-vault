@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/baseline
-published_at: '2026-08-09T08:10:59.516557+05:30'
-collected_at: '2026-08-09T08:10:59.516571+05:30'
+published_at: '2026-08-10T00:45:24.347445+05:30'
+collected_at: '2026-08-10T00:45:24.347453+05:30'
 tags:
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:baseline-web-dev
-first_seen: '2026-08-09T08:10:59.516571+05:30'
-last_seen: '2026-08-09T08:10:59.516571+05:30'
-last_checked: '2026-08-09T08:10:59.516571+05:30'
+first_seen: '2026-08-10T00:45:24.347453+05:30'
+last_seen: '2026-08-10T00:45:24.347453+05:30'
+last_checked: '2026-08-10T00:45:24.347453+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Baseline Framework**: Defined by the WebDX Community Group, Baseline provides a standardized reference for browser support of web platform features, categorized into *Newly available* (interoperable across core browsers) and *Widely available* (30 months post-interoperability), with core browsers including Chrome, Edge, Firefox, and Safari.
+- **Baseline Framework**: Defined by the WebDX Community Group, Baseline provides a two-stage browser support standard—**Newly available** (all core browsers support the feature) and **Widely available** (30 months post-interoperability)—to guide web feature adoption.
 
-- **Tooling Integration**: Baseline is integrated into development workflows via tools like Lighthouse (Baseline Features audit), Browserslist (support for Baseline queries), ESLint (CSS linting), Chrome DevTools (CSS property support), and the Web Platform Dashboard (HTTP API for querying Baseline data).
+- **Core Browser Set**: Baseline compliance is evaluated across **Chrome (desktop/Android), Edge, Firefox (desktop/Android), and Safari (macOS/iOS)**, ensuring interoperability before feature inclusion.
 
-- **Adoption & Case Studies**: Organizations like Target and Cybozu have adopted Baseline to simplify browser support criteria, while tools like the Baseline Netlify extension and VS Code plugin further streamline its implementation in real-world projects.
+- **Tooling Integration**: Baseline is embedded in developer workflows via **Lighthouse audits, Browserslist queries, ESLint CSS linting, Chrome DevTools, VS Code extensions, and Netlify plugins**, enabling automated compatibility checks and adoption tracking.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T08:10:59.516557+05:30
+- Published: 2026-08-10T00:45:24.347445+05:30
 
 ## Related Tags
 

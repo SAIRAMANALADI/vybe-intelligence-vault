@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-08-09T10:12:09.589479+05:30'
-collected_at: '2026-08-09T10:12:09.589486+05:30'
+published_at: '2026-08-10T00:37:08.514035+05:30'
+collected_at: '2026-08-10T00:37:08.514045+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-08-09T10:12:09.589486+05:30'
-last_seen: '2026-08-09T10:12:09.589486+05:30'
-last_checked: '2026-08-09T10:12:09.589486+05:30'
+first_seen: '2026-08-10T00:37:08.514045+05:30'
+last_seen: '2026-08-10T00:37:08.514045+05:30'
+last_checked: '2026-08-10T00:37:08.514045+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Minimal RAG Pipeline**: Uses `sentence-transformers` (e.g., `all-MiniLM-L6-v2`) for embeddings, FAISS for vector search, and Flan-T5 for generation; documents are chunked and indexed with normalized embeddings for cosine similarity.
+- **Core RAG Architecture**: Combines a retriever (dense embeddings + vector search or sparse lexical methods like BM25) with a generator (LLM) to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
 
-- **Intermediate Techniques**: Includes chunking with overlap, metadata filtering, hybrid retrieval (BM25 + dense embeddings), reranking (e.g., `bge-reranker`), query expansion (HyDE/multi-query), and latency optimizations via vector DBs (FAISS, Chroma, Milvus).
+- **Minimal Pipeline Implementation**: Uses `sentence-transformers` for embeddings, FAISS for vector storage/indexing, and a lightweight LLM (e.g., Flan-T5) for generation; documents are chunked, embedded, and indexed for retrieval.
 
-- **Advanced Methods**: Implements multi-hop retrieval, GraphRAG (knowledge graphs), multi-vector retrievers, context compression (e.g., LLMLingua), agentic RAG (tool integration), and safety grounding via citation-based verification.
+- **Intermediate/Advanced Enhancements**: Techniques like hybrid retrieval (sparse + dense), reranking (cross-encoders), query expansion (HyDE/multi-query), multi-hop reasoning, GraphRAG (knowledge graphs), and context optimization improve precision, recall, and efficiency in production systems.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T10:12:09.589479+05:30
+- Published: 2026-08-10T00:37:08.514035+05:30
 
 ## Related Tags
 

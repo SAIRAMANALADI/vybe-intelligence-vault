@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/analyticsworld1/RAG_Techniques2025-main
-collected_at: '2026-08-09T21:22:34.733745+05:30'
+collected_at: '2026-08-10T00:37:07.713988+05:30'
 published_at: '2025-04-21T16:40:43Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-28T02:16:34Z'
 pushed_at: '2025-04-21T16:40:39Z'
 resource_id: github:analyticsworld1/rag_techniques2025-main
-first_seen: '2026-08-09T21:22:34.733745+05:30'
-last_seen: '2026-08-09T21:22:34.733745+05:30'
-last_checked: '2026-08-09T21:22:34.733745+05:30'
+first_seen: '2026-08-10T00:37:07.713988+05:30'
+last_seen: '2026-08-10T00:37:07.713988+05:30'
+last_checked: '2026-08-10T00:37:07.713988+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Single-starred GitHub repository (`analyticsworld1/RAG_Techniques2025-main`) containing Jupyter Notebooks focused on Gen AI and RAG techniques, last updated April 21, 2025.
-- **Content Scope**: Dedicated to advanced RAG (Retrieval-Augmented Generation) methodologies, with no additional metadata or topics specified.
-- **Minimal Activity**: Zero forks, indicating limited community engagement or collaborative development.
+- **Repository Overview**: Single-starred GitHub repo (`analyticsworld1/RAG_Techniques2025-main`) containing Jupyter Notebooks focused on Gen AI RAG techniques, last updated April 21, 2025.
+- **Technical Stack**: Exclusively Jupyter Notebooks, implying Python-based implementations for Retrieval-Augmented Generation (RAG) methodologies.
+- **Status**: Unforked, with no listed topics or additional metadata beyond the 2025 update timestamp.
 
 ## Why It Matters
 

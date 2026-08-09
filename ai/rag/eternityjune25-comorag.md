@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-09T21:24:09.846748+05:30'
+collected_at: '2026-08-10T00:38:42.770575+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-09T21:24:09.846748+05:30'
-last_seen: '2026-08-09T21:24:09.846748+05:30'
-last_checked: '2026-08-09T21:24:09.846748+05:30'
+first_seen: '2026-08-10T00:38:42.770575+05:30'
+last_seen: '2026-08-10T00:38:42.770575+05:30'
+last_checked: '2026-08-10T00:38:42.770575+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
 
-- **Stateful Reasoning**: Implements dynamic memory organization to maintain context across extended interactions, enhancing coherence and relevance in multi-turn reasoning tasks.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence over extended interactions, addressing limitations of traditional RAG systems in long-form reasoning tasks.
 
-- **AAAI 2026 Contribution**: Proposes a novel approach to long-form narrative reasoning, leveraging memory organization for improved performance in complex, state-dependent scenarios.
+- **AAAI 2026 Contribution**: Proposes a novel approach to enhance RAG systems with cognitive memory organization, validated through empirical results on long narrative reasoning benchmarks, demonstrating superior performance over baseline methods.
 
 ## Why It Matters
 

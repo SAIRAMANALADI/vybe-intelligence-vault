@@ -3,21 +3,20 @@ title: Web Vitals | Articles | web.dev
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://web.dev/articles/vitals
-published_at: '2026-08-09T10:19:37.576097+05:30'
-collected_at: '2026-08-09T10:19:37.576105+05:30'
+source_url: https://web.dev/articles/vitals/
+published_at: '2026-08-10T00:45:19.049413+05:30'
+collected_at: '2026-08-10T00:45:19.049421+05:30'
 tags:
 - creative_dev
 - frontend_ui
-- hackernews
 - producthunt
 - reddit
 - web-crawled
 status: active
 resource_id: blog:web-vitals-articles-web-dev
-first_seen: '2026-08-09T10:19:37.576105+05:30'
-last_seen: '2026-08-09T10:19:37.576105+05:30'
-last_checked: '2026-08-09T10:19:37.576105+05:30'
+first_seen: '2026-08-10T00:45:19.049421+05:30'
+last_seen: '2026-08-10T00:45:19.049421+05:30'
+last_checked: '2026-08-10T00:45:19.049421+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Web Vitals (CWV)**: Three stable metrics—**LCP** (<2.5s), **INP** (<200ms), and **CLS** (<0.1)—measured at the **75th percentile** across mobile/desktop to quantify user experience; tools include Chrome UX Report, PageSpeed Insights, and Search Console.
+- **Core Web Vitals Metrics**: Defines three key user-centric metrics—**LCP** (loading performance, ≤2.5s), **INP** (interactivity, ≤200ms), and **CLS** (visual stability, ≤0.1)—measured at the **75th percentile** across mobile/desktop for compliance.
 
-- **Lifecycle & Evolution**: Metrics progress through **experimental → pending → stable** phases; INP replaced FID in 2024, with annual updates to stable metrics (e.g., definition refinements) communicated via changelogs.
+- **Lifecycle Phases**: Metrics progress through **experimental** (development/testing), **pending** (6+ month adaptation period), and **stable** (finalized, ≤1 annual change) phases, with **INP replacing FID** as a stable metric in 2024.
 
-- **Measurement Tools**: **Field tools** (CrUX, RUM via `web-vitals` JS library) capture real-user data; **lab tools** (Lighthouse, DevTools) proxy INP via TBT; optimization guides target LCP/INP/CLS via resource prioritization, interaction responsiveness, and layout stability techniques.
+- **Measurement Tools**: Supports **field tools** (CrUX, PageSpeed Insights, Search Console) and **lab tools** (Chrome DevTools, Lighthouse) for LCP/CLS, while INP requires real-user monitoring (RUM) via the [web-vitals](https://github.com/GoogleChrome/web-vitals) library for accurate JavaScript-based tracking.
 
 ## Why It Matters
 
@@ -39,17 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T10:19:37.576097+05:30
+- Published: 2026-08-10T00:45:19.049413+05:30
 
 ## Related Tags
 
 - creative_dev
 - frontend_ui
-- hackernews
 - producthunt
 - reddit
 - web-crawled
 
 ## Source
 
-Original source: https://web.dev/articles/vitals
+Original source: https://web.dev/articles/vitals/

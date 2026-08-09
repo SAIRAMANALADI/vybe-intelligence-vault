@@ -1,10 +1,10 @@
 ---
 title: Training and Finetuning Embedding Models with Sentence Transformers
 archive_category: evals-and-benchmarks
-source_category: ai/resources
+source_category: ai/rag
 source_url: https://huggingface.co/blog/train-sentence-transformers
 resource_id: huggingface:blog/train-sentence-transformers
-local_vault_path: ai/resources/huggingface-blog-train-sentence-transformers.md
+local_vault_path: ai/rag/huggingface-blog-train-sentence-transformers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -12,6 +12,8 @@ resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
+- models
+- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Architecture**: `microsoft/mpnet-base` is a BERT-based encoder model with **110M parameters**, optimized for **masked language modeling (MLM)** tasks.
-- **Training Objective**: Utilizes **replaced token detection (RTD)** and **permutation language modeling (PLM)** during pretraining for improved contextual understanding.
-- **Performance**: Achieves **state-of-the-art results** on GLUE, SuperGLUE, and SQuAD benchmarks, with **faster inference** compared to larger models due to its compa
+- **Architecture**: `MPNet-base` is a BERT-like encoder model with 12 layers, 768 hidden dimensions, and 12 attention heads, totaling ~109M parameters.
+- **Pretraining Objective**: Combines masked language modeling (MLM) and permuted language modeling (PLM) to leverage both local and global context, improving downstream performance.
+- **Performance**: Achieves state-of-the-art results on benchmarks like GLUE and SQuAD, with strong zero-shot and fine-tuning capabilities.
 
 ## Use Cases
 
@@ -47,4 +49,4 @@ Original source URL: https://huggingface.co/blog/train-sentence-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-sentence-transformers.md](../../ai/resources/huggingface-blog-train-sentence-transformers.md)
+Path: [huggingface-blog-train-sentence-transformers.md](../../ai/rag/huggingface-blog-train-sentence-transformers.md)

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-08-08T12:55:59.877671+05:30'
-collected_at: '2026-08-08T12:55:59.877680+05:30'
+published_at: '2026-08-10T00:43:44.926901+05:30'
+collected_at: '2026-08-10T00:43:44.926909+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:3-14-7-documentation
-first_seen: '2026-08-08T12:55:59.877680+05:30'
-last_seen: '2026-08-08T12:55:59.877680+05:30'
-last_checked: '2026-08-08T12:55:59.877680+05:30'
+first_seen: '2026-08-10T00:43:44.926909+05:30'
+last_seen: '2026-08-10T00:43:44.926909+05:30'
+last_checked: '2026-08-10T00:43:44.926909+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Documentation Structure**: Official Python 3.14.7 docs include sections for *What's New*, *Tutorial*, *Library Reference*, *Language Reference*, *Setup/Usage*, *HOWTOs*, and deprecated features, with additional resources like PEPs, packaging guides, and C API references.
+- **Python 3.14.7** is the latest stable release, with **3.15 (pre-release)** and **3.16 (in development)** available for testing; versions **3.9+** are designated **EOL** except for **3.10-3.12**, which receive security fixes.
 
-- **Version Support Matrix**: Active versions (3.14+ stable, 3.12/3.11/3.10 security-fixes) contrasted with EOL releases (3.9 and below), including in-development (3.16) and pre-release (3.15) branches.
+- **Official documentation** includes structured sections: **Tutorial**, **Library/Reference Manual**, **C API**, **PEP Index**, and **Packaging Guide**, alongside **FAQs**, **HOWTOs**, and **deprecation notices**.
 
-- **Licensing & Contribution**: Documentation licensed under PSF 2.0 + Zero-Clause BSD; contributions via [devguide](https://devguide.python.org), with Sphinx 8.2.3 used for generation and a non-profit PSF governing the project.
+- **Documentation is generated via Sphinx 8.2.3**, licensed under **PSF 2.0/Zero-Clause BSD**, with **searchable indices** (module, general, glossary) and **contribution pathways** via the **Python Developer’s Guide**.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T12:55:59.877671+05:30
+- Published: 2026-08-10T00:43:44.926901+05:30
 
 ## Related Tags
 

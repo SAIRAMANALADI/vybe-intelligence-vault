@@ -16,13 +16,14 @@ tags:
 - hackernews
 - openai
 - youtube
-status: active
+status: inactive
 resource_id: youtube:68X8yEatepQ
 first_seen: '2026-08-09T21:21:46.191759+05:30'
 last_seen: '2026-08-09T21:21:46.191759+05:30'
 last_checked: '2026-08-09T21:21:46.191759+05:30'
 health_score: 100
 ---
+
 
 # 70% of AI revenue comes from OpenAI and Anthropic
 

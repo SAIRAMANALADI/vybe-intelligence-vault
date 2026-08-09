@@ -1,69 +1,61 @@
 ---
-title: withastro/astro
+title: astro/CONTRIBUTING.md at main · withastro/astro · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/withastro/astro
-collected_at: '2026-08-09T19:02:34.096108+05:30'
-published_at: '2026-08-09T13:01:59Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/withastro/astro/blob/main/CONTRIBUTING.md
+published_at: '2026-08-10T00:46:02.690515+05:30'
+collected_at: '2026-08-10T00:46:02.690528+05:30'
 tags:
+- benchmark
 - frontend_ui
-- github-repo
+- hackernews
 - rag
-- typescript
-stars: 61656
-language: TypeScript
+- reddit
+- scripts
+- web-crawled
+- workflows
+- youtube
 status: active
-license: NOASSERTION
-archived: false
-created_at: '2021-03-15T17:19:47Z'
-pushed_at: '2026-08-09T11:11:18Z'
 resource_id: github:withastro/astro
-first_seen: '2026-08-09T19:02:34.096108+05:30'
-last_seen: '2026-08-09T19:02:34.096108+05:30'
-last_checked: '2026-08-09T19:02:34.096108+05:30'
+first_seen: '2026-08-10T00:46:02.690528+05:30'
+last_seen: '2026-08-10T00:46:02.690528+05:30'
+last_checked: '2026-08-10T00:46:02.690528+05:30'
 health_score: 100
 ---
 
-# withastro/astro
+# astro/CONTRIBUTING.md at main · withastro/astro · GitHub
 
 ## Summary
 
-- **Hybrid Rendering Engine**: Astro combines static site generation (SSG), server-side rendering (SSR), and client-side hydration via the "islands" architecture, enabling optimized performance for content-driven websites.
-- **Component Framework Agnostic**: Supports React, Vue, Svelte, Preact, and others via adapters, allowing developers to use their preferred UI libraries while leveraging Astro’s zero-JS-by-default approach.
-- **Unified Build System**: Compiles to static HTML at build time with optional dynamic routes, enabling hybrid static/SSR deployments while maintaining minimal client-side JavaScript overhead.
+- **Environment Setup**: Requires Node.js `>=22.12.0` and PNPM `>=10.28.0` (preferably via Corepack); local setup involves `pnpm install` at root, `pnpm run build`, and Git config for `.git-blame-ignore-revs` to exclude formatting commits.
+
+- **Testing Workflow**: Supports multiple testing methods—examples (`pnpm --filter @example/minimal run dev`), unit tests (`pnpm run test` or `node --test`), and E2E tests via Playwright (`pnpm run test:e2e`); single-test isolation requires `.only` modifiers and `--test-only` flag.
+
+- **Debugging & Benchmarking**: Vite debugging via `DEBUG=vite:* astro dev`, test debugging in CI with `--parallel`, and benchmark execution via `pnpm run benchmark` (or specific benchmarks like `memory`); PRs can trigger CI benchmarks with `!bench` comments.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: withastro
-- Stars: 61656
-- Forks: 3697
-- Language: TypeScript
-- Topics: astro, blog, browser, components, hybrid, islands, node, server, static, static-site-generator, universal
-- Last Updated: 2026-08-09T13:01:59Z
-- License: NOASSERTION
-- Archived: No
-- Created At: 2021-03-15T17:19:47Z
-- Pushed At: 2026-08-09T11:11:18Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-10T00:46:02.690515+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- benchmark
+- frontend_ui
+- hackernews
+- rag
+- reddit
+- scripts
+- web-crawled
+- workflows
+- youtube
 
 ## Source
 
-Original source: https://github.com/withastro/astro
+Original source: https://github.com/withastro/astro/blob/main/CONTRIBUTING.md

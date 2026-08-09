@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-08-09T21:23:39.819303+05:30'
+collected_at: '2026-08-10T00:38:12.768458+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - paper
 - python
 - rag
+- scripts
 stars: 136
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-08-09T21:23:39.819303+05:30'
-last_seen: '2026-08-09T21:23:39.819303+05:30'
-last_checked: '2026-08-09T21:23:39.819303+05:30'
+first_seen: '2026-08-10T00:38:12.768458+05:30'
+last_seen: '2026-08-10T00:38:12.768458+05:30'
+last_checked: '2026-08-10T00:38:12.768458+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports focused on Retrieval-Augmented Generation (RAG) architectures, techniques, and applications.
-- **Python-Centric**: All listed resources are Python-based, with implementations primarily leveraging libraries like `transformers`, `langchain`, and `sentence-transformers` for RAG pipelines.
-- **Last Updated**: Repository was last synchronized on **July 1, 2026**, ensuring inclusion of recent advancements in RAG research (e.g., hybrid retrieval, long-context RAG, and evaluation frameworks).
+- **Curated RAG Resources**: Repository containing a structured collection of research papers, frameworks, and tools focused on retrieval-augmented generation (RAG) methodologies.
+- **Python-Based Index**: All resources are organized and accessible via Python scripts, facilitating programmatic retrieval and analysis of RAG-related literature.
+- **Last Updated**: Repository metadata indicates the last update occurred on **July 1, 2026**, ensuring recent inclusion of relevant research.
 
 ## Why It Matters
 

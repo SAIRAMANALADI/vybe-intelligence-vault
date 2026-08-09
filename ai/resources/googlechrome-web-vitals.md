@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleChrome/web-vitals
-collected_at: '2026-08-09T10:21:23.243792+05:30'
+collected_at: '2026-08-10T00:47:56.028358+05:30'
 published_at: '2026-08-08T15:00:36Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2020-03-23T18:31:05Z'
 pushed_at: '2026-08-05T19:55:47Z'
 resource_id: github:googlechrome/web-vitals
-first_seen: '2026-08-09T10:21:23.243792+05:30'
-last_seen: '2026-08-09T10:21:23.243792+05:30'
-last_checked: '2026-08-09T10:21:23.243792+05:30'
+first_seen: '2026-08-10T00:47:56.028358+05:30'
+last_seen: '2026-08-10T00:47:56.028358+05:30'
+last_checked: '2026-08-10T00:47:56.028358+05:30'
 health_score: 100
 ---
 
@@ -27,16 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides JavaScript libraries to measure and report key web performance metrics (e.g., Largest Contentful Paint, Cumulative Layout Shift, First Input Delay) for real-user monitoring (RUM) and lab testing.
-
-- **Core Features**:
-  - Lightweight (~1KB gzipped) and modular (`getLCP`, `getFID`, `getCLS` functions).
-  - Supports modern browsers (Chrome, Firefox, Safari, Edge) and polyfills for older versions.
-  - Integrates with Google Analytics, Google Tag Manager, or custom endpoints via `sendToAnalytics()`.
-
-- **Implementation**:
-  - Uses the [Performance API](https://developer.mozilla.org/en-US/docs/Web/API/Performance_API) (e.g., `performance.getEntries()`) and [Event Timing API](https://developer.mozilla.org/en-US/docs/Web/API/EventTiming_API).
-  - Provides TypeScript definitions and supports custom reporting thresholds.
+- **Purpose**: Library for measuring real user performance metrics (e.g., Largest Contentful Paint, Cumulative Layout Shift, First Input Delay) to assess web page health.
+- **Key Features**: Lightweight JavaScript implementation with support for modern web APIs (e.g., `PerformanceObserver`), custom metric tracking, and compatibility with analytics tools.
+- **Usage**: Designed for integration into web applications to monitor and optimize Core Web Vitals, enabling data-driven performance improvements.
 
 ## Why It Matters
 

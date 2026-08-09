@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.langchain.com/
-published_at: '2026-08-09T15:37:15.442635+05:30'
-collected_at: '2026-08-09T15:37:15.442649+05:30'
+published_at: '2026-08-10T00:43:17.107011+05:30'
+collected_at: '2026-08-10T00:43:17.107021+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-blog
-first_seen: '2026-08-09T15:37:15.442649+05:30'
-last_seen: '2026-08-09T15:37:15.442649+05:30'
-last_checked: '2026-08-09T15:37:15.442649+05:30'
+first_seen: '2026-08-10T00:43:17.107021+05:30'
+last_seen: '2026-08-10T00:43:17.107021+05:30'
+last_checked: '2026-08-10T00:43:17.107021+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Managed Deep Agents Public Beta**: LangSmith now offers managed deep agents in public beta, providing runtime controls for production agents via the LLM Gateway, enabling real-time policy enforcement and observability.
+- **Managed Deep Agents Public Beta**: LangSmith introduces Managed Deep Agents in public beta, enabling autonomous agent orchestration with built-in observability, evals, and deployment controls for production environments.
 
-- **NVIDIA Deep Agents Blueprint**: LangChain and NVIDIA launched the NemoClaw Deep Agents Blueprint, integrating GPU-accelerated deep agent architectures for high-performance autonomous systems.
+- **LangSmith LLM Gateway**: Runtime controls for production agents via LangSmith LLM Gateway, providing dynamic routing, rate limiting, and model switching to enforce policies and optimize LLM interactions in real-time.
 
-- **Deep Agents v0.7 Release**: Introduced in v0.7, deep agents now support enhanced agentic workflows, improved tool integration, and expanded benchmarking frameworks for evaluating agent performance and reliability.
+- **Deep Agents v0.7 Release**: Major update to Deep Agents framework with enhanced modularity, improved state management, and expanded tool integration for Kubernetes-native agent deployments and SRE workflows.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-09T15:37:15.442635+05:30
+- Published: 2026-08-10T00:43:17.107011+05:30
 
 ## Related Tags
 

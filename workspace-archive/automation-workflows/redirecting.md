@@ -3,7 +3,7 @@ title: Redirecting...
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://central.sonatype.org/publish-ea/publish-ea-guide/
-resource_id: blog:redirecting
+resource_id: blog:redirecting-f2b6de33
 local_vault_path: ai/resources/redirecting.md
 quality_score: 70
 archive_score: 72

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-09T21:22:39.746048+05:30'
-published_at: '2026-08-09T12:50:02Z'
+collected_at: '2026-08-10T00:37:12.674967+05:30'
+published_at: '2026-08-09T18:53:51Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 36913
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-09T21:22:39.746048+05:30'
-last_seen: '2026-08-09T21:22:39.746048+05:30'
-last_checked: '2026-08-09T21:22:39.746048+05:30'
+first_seen: '2026-08-10T00:37:12.674967+05:30'
+last_seen: '2026-08-10T00:37:12.674967+05:30'
+last_checked: '2026-08-10T00:37:12.674967+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository offers detailed, hands-on guides covering Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and their integration in real-world AI applications.
+- **Content Focus**: Repository provides in-depth tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**, with practical implementations in Jupyter Notebooks.
 
-- **AI Agent Applications**: Includes practical implementations and case studies for deploying AI agents, leveraging MCP (Model Context Protocol) for enhanced functionality.
+- **Technical Scope**: Covers **agents**, **LLMs**, **machine learning**, **Model Context Protocol (MCP)**, and **RAG**, emphasizing hands-on engineering and deployment strategies.
 
-- **Jupyter Notebook-Based Learning**: All content is structured as executable Jupyter Notebooks, enabling interactive, reproducible experimentation with AI engineering concepts.
+- **Metrics & Updates**: Maintains **36,913 stars** and **6,092 forks**, last updated on **2026-08-09**, reflecting active community engagement and evolving technical content.
 
 ## Why It Matters
 
@@ -46,7 +47,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 6092
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-08-09T12:50:02Z
+- Last Updated: 2026-08-09T18:53:51Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

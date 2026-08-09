@@ -6,10 +6,10 @@ source_url: https://developer.android.com
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - producthunt
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Jetpack Compose** marks 5 years since its inception, solidifying its role as the industry-standard declarative UI framework for modern Android development, with continued evolution in tooling and ecosystem support.
-
-- **Android 17 (API 37)** is officially released, with AOSP source code available and Pixel devices receiving OTA updates; key updates focus on app readiness, adaptive layouts, and new platform capabilities.
-
-- **Android XR** expands engine support and introduces new resources fo
+- **Jetpack Compose**: Celebrated 5 years as the industry standard for modern Android UI development, reshaping declarative UI paradigms and tooling integration.
+- **Android 17 & XR Updates**: Android 17 (API 37) source code is live on AOSP with Pixel rollout; Android XR expands engine support and introduces new resources for immersive app development.
+- **SDK License Agreement**: Google grants limited, royalty-free use of the Android SDK solely for compatible Android app development, with stric
 
 ## Use Cases
 

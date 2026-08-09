@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-09T21:22:39.752798+05:30'
+collected_at: '2026-08-10T00:37:12.788982+05:30'
 published_at: '2026-08-03T17:47:21Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
 stars: 965
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-09T21:22:39.752798+05:30'
-last_seen: '2026-08-09T21:22:39.752798+05:30'
-last_checked: '2026-08-09T21:22:39.752798+05:30'
+first_seen: '2026-08-10T00:37:12.788982+05:30'
+last_seen: '2026-08-10T00:37:12.788982+05:30'
+last_checked: '2026-08-10T00:37:12.788982+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced Retrieval-Augmented Generation (RAG) using locally deployed language models (e.g., Llama, Mistral) via Ollama or LM Studio, avoiding cloud dependency.
+- **Local LLM Integration**: Demonstrates deployment and use of local large language models (LLMs) within a Retrieval-Augmented Generation (RAG) pipeline, leveraging frameworks like LangChain for efficient context-aware generation.
 
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh mechanisms to incorporate new documents without full reindexing, ensuring up-to-date retrieval context.
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS), ensuring the RAG system retrieves the most current and relevant information for responses.
 
-- **Testing & Evaluation Framework**: Includes structured testing pipelines (e.g., RAGAS, TruLens) for assessing retrieval quality, answer correctness, and latency, with reproducible metrics.
+- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to validate RAG performance, with tools for benchmarking against custom datasets or metrics.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-08-09T21:23:34.805768+05:30'
+collected_at: '2026-08-10T00:38:07.751556+05:30'
 published_at: '2026-08-09T09:37:15Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-08-09T09:03:41Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-08-09T21:23:34.805768+05:30'
-last_seen: '2026-08-09T21:23:34.805768+05:30'
-last_checked: '2026-08-09T21:23:34.805768+05:30'
+first_seen: '2026-08-10T00:38:07.751556+05:30'
+last_seen: '2026-08-10T00:38:07.751556+05:30'
+last_checked: '2026-08-10T00:38:07.751556+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Open-Source AI Repository**: Hosts a meticulously maintained list of truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance.
-- **Technical Breadth**: Encompasses key AI domains including agents, generative AI, LLMs, MLOps, and RAG, with primary implementation in Python.
-- **Community & Maintenance**: Actively maintained (last update: 2026-08-09), with 4,454 stars and 575 forks, reflecting strong community engagement and collaborative development.
+- **Curated Collection**: Aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance.
+- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLops, RAG, and other core AI/ML domains, primarily implemented in Python.
+- **Community & Maintenance**: Maintained by `alvinreal` with 4,454 stars, 576 forks, and last updated on 2026-08-09.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: alvinreal
 - Stars: 4454
-- Forks: 575
+- Forks: 576
 - Language: Python
 - Topics: agents, ai, artificial-intelligence, awesome, awesome-list, generative-ai, llm, machine-learning, mlops, open-source, open-source-ai, rag
 - Last Updated: 2026-08-09T09:37:15Z

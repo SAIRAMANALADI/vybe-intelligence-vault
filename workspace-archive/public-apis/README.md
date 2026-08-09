@@ -12,7 +12,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) (workflow - USEFUL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
 - [Scite - YouTube](https://www.youtube.com/channel/UCso9-KdHZ6vfbYgM59zp9EA) (tutorial - USEFUL Tier)
 - [register](https://clients.iban.com/register) (tutorial - USEFUL Tier)
 - [- YouTube](https://www.youtube.com/watch?v=Yy3JH6dDugc) (framework - USEFUL Tier)
@@ -22,7 +22,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-08-09 21:39 IST*
+*Last updated: 2026-08-10 00:54 IST*

@@ -3,7 +3,7 @@ title: Contributors to gohugoio/hugo · GitHub
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://github.com/gohugoio/hugo/graphs/contributors
-resource_id: github:gohugoio/hugo
+resource_id: github:gohugoio/hugo-2d37b3f6
 local_vault_path: ai/resources/gohugoio-hugo.md
 quality_score: 70
 archive_score: 77

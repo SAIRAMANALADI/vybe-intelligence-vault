@@ -8,9 +8,9 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 
 ## Top Matched Resources
 
+- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (framework - ESSENTIAL Tier)
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (framework - ESSENTIAL Tier)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (workflow - ESSENTIAL Tier)
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (benchmark - ESSENTIAL Tier)
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (framework - USEFUL Tier)
 - [MUGEN: A Unified Framework for Efficient Motion Understanding and Generation](https://arxiv.org/abs/2607.27581) (framework - USEFUL Tier)
@@ -22,9 +22,9 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 https://github.com/ollama/ollama (Ollama)
 https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
-- [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
-- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
+- [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
+- [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
 - [microsoft/tutel](https://github.com/microsoft/tutel)
 
 ## Best Learning Resources
@@ -43,4 +43,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-08-09 21:39 IST*
+*Last updated: 2026-08-10 00:53 IST*

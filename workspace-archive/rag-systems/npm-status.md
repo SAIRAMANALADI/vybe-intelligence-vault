@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **npm Statuspage** provides real-time operational metrics for npm services (website, package installation/publishing/search, security audit, replication feed) with 99.99–100% uptime over the past 90 days.
-- **Incident reporting** includes historical data (e.g., July 30, 2026, intermittent publish failures resolved via monitoring fixes) and current status indicators (Operational/Degraded/Outage).
-- **Notification system** supports email/SMS alerts for incident updates, with OTP-based verificati
+- **Operational Metrics**: npm services (website, package installation/publishing/search, security audit, replication feed) maintained 99.99–100% uptime over the past 90 days, with no major outages reported in the last 14 days.
+- **Incident Resolution**: A recent intermittent publish failure (July 30, 2026) was resolved after investigation and implementation of a fix, with monitoring confirming stability.
+- **Notification System**: Users can subscribe to email/SMS alerts for incident updates via
 
 ## Use Cases
 

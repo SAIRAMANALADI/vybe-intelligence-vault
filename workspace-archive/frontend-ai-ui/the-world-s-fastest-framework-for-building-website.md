@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Licensing & Adoption**: Distributed under Apache 2.0 License; 89,376 GitHub stars (as of Aug 8, 2026); active community with forums and frequent releases.
-- **Performance & Architecture**: Go-based, optimized for speed; renders large sites in seconds; supports advanced templating, multilingual content, and flexible taxonomies.
-- **Asset & Development Workflow**: Fast asset pipeline (image/Sass/JS processing, TailwindCSS); embedded web server for real-time development preview.
+- **License & Popularity**: Distributed under Apache 2.0 License; 89,376 GitHub stars (as of Aug 8, 2026).
+- **Performance & Flexibility**: Go-based, optimized for speed; supports multilingual content, advanced taxonomies, and rapid asset processing (images, JS, Sass, TailwindCSS).
+- **Development Workflow**: Includes embedded web server for real-time preview of changes; frequent releases with active community support.
 
 ## Use Cases
 

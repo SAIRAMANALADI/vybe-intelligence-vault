@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Abstraction**: The process of reducing complexity by hiding unnecessary details, focusing on high-level operations while abstracting low-level implementations.
-
-- **Modularity**: A design principle that divides a system into distinct, interchangeable components (modules) to enhance maintainability, scalability, and reusability.
-
-- **Scalability**: The capability of a system to handle increased load (e.g., data volume, users) efficiently, often through horizontal (adding nodes) or vertical (u
+- **Abstraction**: Simplifies complex systems by modeling classes/objects with high-level attributes/methods, hiding implementation details.
+- **Encapsulation**: Bundles data (attributes) and methods (functions) into a single unit (class), restricting direct access to some components.
+- **Polymorphism**: Enables objects of different classes to be treated as objects of a common superclass, facilitating method overriding/interface implementation.
 
 ## Use Cases
 

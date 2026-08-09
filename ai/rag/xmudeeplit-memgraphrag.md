@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-09T21:24:14.878292+05:30'
+collected_at: '2026-08-10T00:38:42.848039+05:30'
 published_at: '2026-08-09T07:14:32Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 169
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-09T21:24:14.878292+05:30'
-last_seen: '2026-08-09T21:24:14.878292+05:30'
-last_checked: '2026-08-09T21:24:14.878292+05:30'
+first_seen: '2026-08-10T00:38:42.848039+05:30'
+last_seen: '2026-08-10T00:38:42.848039+05:30'
+last_checked: '2026-08-10T00:38:42.848039+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Implements a **graph retrieval-augmented generation (GraphRAG)** framework where multiple agents collaborate using **shared memory** for dynamic graph construction and retrieval, optimizing context-aware generation.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent interactions for enhanced knowledge retrieval and generation.
 
-- **Ontology-Driven Graph Construction**: Utilizes **ontology-based graph construction** to structure knowledge, enabling efficient **multi-hop reasoning** and **semantic retrieval** for enhanced LLM performance in downstream tasks.
+- **Graph & Ontology Construction**: Dynamically constructs and integrates graph structures and ontologies to enable efficient semantic reasoning and context-aware retrieval in RAG pipelines.
 
-- **Python Implementation**: Provides a **modular Python library** with tools for **agent-memory integration**, **graph-based RAG pipelines**, and **ontology management**, designed for scalability and adaptability in KDD 2026 research workflows.
+- **Python-Based Implementation**: Provides a Python-based framework with modular components for agent-memory management, graph operations, and ontology-driven retrieval, optimized for KDD 2026 research standards.
 
 ## Why It Matters
 

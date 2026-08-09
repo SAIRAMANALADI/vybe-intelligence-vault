@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-09T21:25:04.880676+05:30'
+collected_at: '2026-08-10T00:39:37.835516+05:30'
 published_at: '2026-08-07T03:48:17Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-09T21:25:04.880676+05:30'
-last_seen: '2026-08-09T21:25:04.880676+05:30'
-last_checked: '2026-08-09T21:25:04.880676+05:30'
+first_seen: '2026-08-10T00:39:37.835516+05:30'
+last_seen: '2026-08-10T00:39:37.835516+05:30'
+last_checked: '2026-08-10T00:39:37.835516+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for AI agents across multiple programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
+- **Comprehensive Best Practices Repository**: Centralized collection of coding standards and best practices for multiple programming languages (TypeScript, Kotlin, Go, Java, etc.) and frameworks (React, Angular, Spring Boot, Laravel, etc.), designed to guide AI agents in adhering to industry-standard development practices.
 
-- **Key Features**: Provides structured guidelines for AI agents to adhere to coding standards and framework-specific best practices, including `cursor-rules` for IDE configurations.
+- **Multi-Platform Support**: Includes guidelines for cross-platform development (Android, iOS, Flutter, React Native) and backend frameworks (NestJS, Next.js, Laravel), ensuring consistency across diverse tech stacks.
 
-- **Scope & Maintenance**: Covers 19+ topics, last updated in August 2026, with 538 stars and 157 forks, indicating active community engagement.
+- **Tooling Integration**: Features Cursor Rules and structured documentation to enforce standardized coding patterns, enhancing AI agent reliability and output quality in collaborative development environments.
 
 ## Why It Matters
 

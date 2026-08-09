@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-09T21:23:54.810120+05:30'
+collected_at: '2026-08-10T00:38:27.750077+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
 stars: 14
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-09T21:23:54.810120+05:30'
-last_seen: '2026-08-09T21:23:54.810120+05:30'
-last_checked: '2026-08-09T21:23:54.810120+05:30'
+first_seen: '2026-08-10T00:38:27.750077+05:30'
+last_seen: '2026-08-10T00:38:27.750077+05:30'
+last_checked: '2026-08-10T00:38:27.750077+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native technologies and eBPF for runtime monitoring and enforcement.
-- **Enterprise-Grade RAG Pipeline**: Features a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript components, optimized for vector database operations and GenAI workloads.
-- **SaaS-Ready Architecture**: Designed for scalable, multi-tenant AI deployments with governance controls, supporting LLM integration and backend services for enterprise environments.
+- **Linux-Native & eBPF Integration**: Implements a Linux-native security and governance framework for AI agent workloads, leveraging eBPF for low-overhead runtime monitoring and enforcement.
+
+- **Enterprise-Grade RAG Architecture**: Combines FastAPI backend with TypeScript, vector databases, and GenAI/LLM pipelines to enable scalable, secure Retrieval-Augmented Generation (RAG) for SaaS AI applications.
+
+- **Security & Governance Mesh**: Provides a governance layer for AI workloads, ensuring compliance, auditability, and runtime security via a mesh architecture designed for enterprise deployments.
 
 ## Why It Matters
 

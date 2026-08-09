@@ -18,9 +18,9 @@ tags:
 - models
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt evaluation and code generation in Google AI Studio.
-- **On-Device & Custom AI Solutions**: Supports deploying AI models locally (Gemini Nano on Android, Chrome APIs) and customizing open models (Gemma) for tailored applications.
-- **Responsible AI Development**: Offers frameworks (SAIF) and toolkits for secure, ethical AI deployment, including code analysis
+- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt development and code transformation in Google AI Studio.
+- **On-Device & Edge AI**: Supports deployment of AI models (e.g., Gemini Nano) across mobile, web, and embedded systems via Google AI Edge, ensuring low-latency, cost-effective, and privacy-preserving solutions.
+- **Responsible AI Development**: Offers frameworks (e.g., Secure AI Framework) and tools
 
 ## Use Cases
 

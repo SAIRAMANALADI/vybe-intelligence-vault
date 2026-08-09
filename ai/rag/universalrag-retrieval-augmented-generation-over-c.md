@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://universalrag.github.io/
-published_at: '2026-08-09T21:22:30.112351+05:30'
-collected_at: '2026-08-09T21:22:30.112361+05:30'
+published_at: '2026-08-10T00:37:03.249132+05:30'
+collected_at: '2026-08-10T00:37:03.249139+05:30'
 tags:
 - benchmark
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:universalrag-retrieval-augmented-generation-over-c
-first_seen: '2026-08-09T21:22:30.112361+05:30'
-last_seen: '2026-08-09T21:22:30.112361+05:30'
-last_checked: '2026-08-09T21:22:30.112361+05:30'
+first_seen: '2026-08-10T00:37:03.249139+05:30'
+last_seen: '2026-08-10T00:37:03.249139+05:30'
+last_checked: '2026-08-10T00:37:03.249139+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **UniversalRAG** introduces an any-to-any retrieval-augmented generation (RAG) framework that integrates heterogeneous knowledge sources across diverse modalities (e.g., text, images, videos) and granularities, addressing limitations of single-modality RAG systems.
+- **UniversalRAG Framework**: Introduces an any-to-any RAG system that retrieves and integrates knowledge from heterogeneous sources with diverse modalities (e.g., text, images, videos) and granularities, addressing limitations of single-modality or unified-corpus approaches.
 
-- **Modality-aware routing** dynamically selects the most relevant modality-specific corpus for retrieval, mitigating the *modality gap* issue where queries bias retrieval toward their own modality, with theoretical justification provided for its effectiveness.
+- **Modality-Aware Routing**: Proposes dynamic retrieval via modality-specific corpora to mitigate the *modality gap*, where retrieval favors items from the same modality as the query, supported by theoretical analysis.
 
-- Evaluated on 10 benchmarks spanning multiple modalities, UniversalRAG outperforms both modality-specific and unified RAG baselines by enabling fine-grained retrieval tailored to query complexity and scope.
+- **Granularity-Level Organization**: Structures each modality into multiple granularity levels for fine-tuned retrieval, optimizing performance across 10 benchmarks and outperforming modality-specific and unified baselines.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T21:22:30.112351+05:30
+- Published: 2026-08-10T00:37:03.249132+05:30
 
 ## Related Tags
 

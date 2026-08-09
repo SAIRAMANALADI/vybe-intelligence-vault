@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
-collected_at: '2026-08-09T21:25:39.924458+05:30'
-published_at: '2026-08-08T12:31:13Z'
+collected_at: '2026-08-10T00:40:07.899767+05:30'
+published_at: '2026-08-09T18:43:03Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
 stars: 6535
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-01-31T16:03:06Z'
 pushed_at: '2026-07-21T23:42:40Z'
 resource_id: github:googlecloudplatform/agent-starter-pack
-first_seen: '2026-08-09T21:25:39.924458+05:30'
-last_seen: '2026-08-09T21:25:39.924458+05:30'
-last_checked: '2026-08-09T21:25:39.924458+05:30'
+first_seen: '2026-08-10T00:40:07.899767+05:30'
+last_seen: '2026-08-10T00:40:07.899767+05:30'
+last_checked: '2026-08-10T00:40:07.899767+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Production-ready AI agent templates**: Pre-configured Python-based starter kits for deploying AI agents on Google Cloud Platform (GCP) with integrated CI/CD pipelines.
+- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
 
-- **Built-in MLOps & Observability**: Includes evaluation frameworks, monitoring tools, and logging for GenAI agents, ensuring reliability and performance tracking.
+- **Gemini and GenAI integration** with built-in support for LLMops and MLOps best practices, enabling scalable generative AI agent development.
 
-- **Gemini & Generative AI Integration**: Supports Google's Gemini models and other generative AI frameworks, optimized for LLMops workflows.
+- **Python-based repository** with modular components for rapid agent prototyping and deployment, last updated with enterprise-grade reliability (Aug 2026).
 
 ## Why It Matters
 
@@ -47,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 1501
 - Language: Python
 - Topics: agents, gcp, gemini, genai-agents, generative-ai, llmops, mlops, observability
-- Last Updated: 2026-08-08T12:31:13Z
+- Last Updated: 2026-08-09T18:43:03Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-01-31T16:03:06Z
