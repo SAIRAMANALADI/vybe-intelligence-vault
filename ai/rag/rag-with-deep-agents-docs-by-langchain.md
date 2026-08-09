@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://python.langchain.com/docs/use_cases/question_answering/
-published_at: '2026-08-08T12:53:00.316155+05:30'
-collected_at: '2026-08-08T12:53:00.316169+05:30'
+published_at: '2026-08-09T08:08:13.350801+05:30'
+collected_at: '2026-08-09T08:08:13.350818+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-with-deep-agent
-first_seen: '2026-08-08T12:53:00.316169+05:30'
-last_seen: '2026-08-08T12:53:00.316169+05:30'
-last_checked: '2026-08-08T12:53:00.316169+05:30'
+first_seen: '2026-08-09T08:08:13.350818+05:30'
+last_seen: '2026-08-09T08:08:13.350818+05:30'
+last_checked: '2026-08-09T08:08:13.350818+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows; combines custom retrieval tools, filesystem backends, subagents, skills, and grading rubrics for flexible Q&A systems.
+- **RAG Patterns in Deep Agents**: Supports skills-guided retrieval, rubric-checked grounding, todo-driven investigation, and retrieve-offload-delegate workflows; leverages custom retrieval tools, filesystem backends, subagents, skills, and grading rubrics for dynamic orchestration.
 
-- **Retrieval-Augmented Generation (RAG) Pipeline**: Indexes LangChain docs via vector store (load → split → embed → store), retrieves relevant chunks at query time, offloads to filesystem, and delegates analysis to subagents for parallel processing and synthesis.
+- **Retrieval-Augmented Workflow**: Indexes LangChain docs via vector store, retrieves relevant chunks at query time, offloads them to filesystem, and delegates analysis to subagents to maintain clean orchestrator context and ensure grounding in source data.
 
-- **Prerequisites & Setup**: Requires API keys for chat/embeddings models (e.g., OpenAI, Anthropic) and LangSmith for tracing; dependencies include `deepagents`, `langchain`, `langchain-text-splitters`, and vector store integrations.
+- **Prerequisites & Setup**: Requires API keys for chat model and embeddings (e.g., OpenAI); setup involves project initialization, dependency installation (`deepagents`, `langchain`, `langchain-text-splitters`), and LangSmith tracing for observability.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T12:53:00.316155+05:30
+- Published: 2026-08-09T08:08:13.350801+05:30
 
 ## Related Tags
 

@@ -4,24 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/electron
-collected_at: '2026-08-09T03:25:29.700830+05:30'
-published_at: '2026-08-08T20:16:09Z'
+collected_at: '2026-08-09T08:09:12.853539+05:30'
+published_at: '2026-08-09T02:30:43Z'
 tags:
 - c++
 - github-repo
-- hackernews
 - rag
-stars: 122394
+stars: 122400
 language: C++
 status: active
 license: MIT
 archived: false
 created_at: '2013-04-12T01:47:36Z'
-pushed_at: '2026-08-08T17:07:32Z'
+pushed_at: '2026-08-09T02:38:09Z'
 resource_id: github:electron/electron
-first_seen: '2026-08-09T03:25:29.700830+05:30'
-last_seen: '2026-08-09T03:25:29.700830+05:30'
-last_checked: '2026-08-09T03:25:29.700830+05:30'
+first_seen: '2026-08-09T08:09:12.853539+05:30'
+last_seen: '2026-08-09T08:09:12.853539+05:30'
+last_checked: '2026-08-09T08:09:12.853539+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron enables development of desktop applications using JavaScript, HTML, and CSS, leveraging Chromium for rendering and Node.js for backend integration.
-
-- **Core technologies**: Built on V8 (JavaScript engine), Node.js (runtime), and Chromium (browser engine), with C++ as the primary implementation language for performance-critical components.
-
-- **Ecosystem integration**: Supports modern web technologies (HTML/CSS/JS) and integrates with Node.js APIs, enabling access to native system functionalities while maintaining cross-platform compatibility.
+- **Cross-platform desktop app framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like apps using HTML, CSS, and JavaScript.
+- **Core architecture** combines a C++ runtime with a multi-process model (BrowserWindow, main/renderer processes) to ensure performance, security, and IPC (Inter-Process Communication) via Electron’s `ipcRenderer`/`ipcMain`.
+- **Extensible ecosystem** supports native modules, Chromium’s Blink engine, and integrates with tools like `electron-builder` for packaging across Windows, macOS, and Linux.
 
 ## Why It Matters
 
@@ -42,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: electron
-- Stars: 122394
+- Stars: 122400
 - Forks: 17392
 - Language: C++
 - Topics: c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces
-- Last Updated: 2026-08-08T20:16:09Z
+- Last Updated: 2026-08-09T02:30:43Z
 - License: MIT
 - Archived: No
 - Created At: 2013-04-12T01:47:36Z
-- Pushed At: 2026-08-08T17:07:32Z
+- Pushed At: 2026-08-09T02:38:09Z
 
 ## Possible Use Cases
 

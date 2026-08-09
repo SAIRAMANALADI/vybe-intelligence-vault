@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://astro.build
-published_at: '2026-06-24T23:12:05.762185+05:30'
-collected_at: '2026-06-24T23:12:05.762198+05:30'
+published_at: '2026-08-09T08:08:08.345014+05:30'
+collected_at: '2026-08-09T08:08:08.345030+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:astro
-first_seen: '2026-06-24T23:12:05.762198+05:30'
-last_seen: '2026-06-24T23:12:05.762198+05:30'
-last_checked: '2026-06-24T23:12:05.762198+05:30'
+first_seen: '2026-08-09T08:08:08.345030+05:30'
+last_seen: '2026-08-09T08:08:08.345030+05:30'
+last_checked: '2026-08-09T08:08:08.345030+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Type-safe Content Management**: Astro's Content Collections feature integrates TypeScript for compile-time validation of frontmatter fields, ensuring type safety across Markdown/MDX content.
-- **Frontmatter Schema Validation**: Enforces structured content definitions via Zod schemas, preventing runtime errors and enabling IDE autocompletion for frontmatter properties.
-- **Unified Content API**: Exposes a programmatic API (`getCollection()`) to fetch and query validated content, streamlining data access in Astro components with zero runtime overhead.
+- **Type-Safe Content Management**: Astro's Content Collections feature provides built-in TypeScript type-safety for Markdown and MDX files, ensuring frontmatter validation and reducing runtime errors.
+- **Structured Content Organization**: Enables explicit schema definitions for content collections, allowing for consistent frontmatter fields and validation rules across projects.
+- **Automatic Type Generation**: Generates TypeScript types from content schemas, enabling IDE autocompletion and compile-time checks for content structure and frontmatter fields.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T23:12:05.762185+05:30
+- Published: 2026-08-09T08:08:08.345014+05:30
 
 ## Related Tags
 

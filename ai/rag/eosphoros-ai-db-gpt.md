@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-08-09T03:21:56.019089+05:30'
-published_at: '2026-08-08T16:17:45Z'
+collected_at: '2026-08-09T08:05:05.830064+05:30'
+published_at: '2026-08-09T01:24:01Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,8 @@ tags:
 - openai
 - python
 - rag
-stars: 19672
+- workflows
+stars: 19673
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-08-08T09:31:45Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-08-09T03:21:56.019089+05:30'
-last_seen: '2026-08-09T03:21:56.019089+05:30'
-last_checked: '2026-08-09T03:21:56.019089+05:30'
+first_seen: '2026-08-09T08:05:05.830064+05:30'
+last_seen: '2026-08-09T08:05:05.830064+05:30'
+last_checked: '2026-08-09T08:05:05.830064+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Framework**: Open-source Python-based system integrating LLMs (e.g., GPT-4, DeepSeek, Vicuna) with database interaction capabilities for autonomous data assistant tasks.
-- **Privacy & Security Focus**: Implements RAG (Retrieval-Augmented Generation) and private LLM deployment strategies to ensure secure, on-premise data processing.
-- **Modular Architecture**: Supports BGI (Big Data Intelligence) and hacktoberfest contributions, enabling extensibility for database agents and AI-driven analytics.
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., DeepSeek, GPT-4, Vicuna) for query generation, analysis, and RAG-based augmentation.
+- **Multi-Model & Private Deployment**: Supports integration with proprietary/vicuna models while emphasizing data security and private LLM deployment for enterprise use.
+- **Modular Architecture**: Extensible Python-based system with agent-based workflows, optimized for hacktoberfest contributions and integration with BGI (likely a proprietary or specialized component).
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: eosphoros-ai
-- Stars: 19672
+- Stars: 19673
 - Forks: 2861
 - Language: Python
 - Topics: agents, bgi, database, deepseek, gpt, gpt-4, hacktoberfest, llm, private, rag, security, vicuna
-- Last Updated: 2026-08-08T16:17:45Z
+- Last Updated: 2026-08-09T01:24:01Z
 - License: MIT
 - Archived: No
 - Created At: 2023-04-13T14:52:43Z

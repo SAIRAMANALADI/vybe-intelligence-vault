@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-09T03:21:51.002695+05:30'
+collected_at: '2026-08-09T08:05:00.836879+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-08-06T19:58:27Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-09T03:21:51.002695+05:30'
-last_seen: '2026-08-09T03:21:51.002695+05:30'
-last_checked: '2026-08-09T03:21:51.002695+05:30'
+first_seen: '2026-08-09T08:05:00.836879+05:30'
+last_seen: '2026-08-09T08:05:00.836879+05:30'
+last_checked: '2026-08-09T08:05:00.836879+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data monitoring, with modular design for extensibility in cybersecurity workflows.
+- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data ingestion, with modular design for skill-based expansion in threat detection and response workflows.
 
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to construct and query historical behavioral patterns, enabling contextual anomaly validation via LLMs.
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory from historical logs, enabling adaptive anomaly validation and contextual threat hunting via LLMs.
 
-- **LLM-Driven Anomaly Detection**: Validates real-time anomalies by cross-referencing current events with RAG-based memory, automating threat detection and hunting in SOC environments.
+- **LLM-Powered Anomaly Validation**: Dynamically cross-references real-time telemetry with RAG-stored patterns to validate anomalies, reducing false positives and enhancing autonomous threat detection in SOC environments.
 
 ## Why It Matters
 

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://srihash.org/
-published_at: '2026-08-08T12:56:35.437231+05:30'
-collected_at: '2026-08-08T12:56:35.437243+05:30'
+published_at: '2026-08-09T08:14:13.324805+05:30'
+collected_at: '2026-08-09T08:14:13.324819+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:sri-hash-generator
-first_seen: '2026-08-08T12:56:35.437243+05:30'
-last_seen: '2026-08-08T12:56:35.437243+05:30'
-last_checked: '2026-08-08T12:56:35.437243+05:30'
+first_seen: '2026-08-09T08:14:13.324819+05:30'
+last_seen: '2026-08-09T08:14:13.324819+05:30'
+last_checked: '2026-08-09T08:14:13.324819+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Subresource Integrity (SRI) is a W3C specification enabling verification that third-party hosted resources remain unaltered, mitigating server-side tampering risks even when using HTTPS.
-- **Implementation**: Integrity hashes (SHA-256/SHA-384/SHA-512) are generated via tools like `openssl dgst -sha384 -binary FILENAME.js | openssl base64 -A` and enforced via `<script integrity="...">` attributes.
-- **Requirements**: The `crossorigin="anonymous"` attribute is mandatory for cross-origin requests to prevent "fail-open" behavior, ensuring SRI validation occurs without credential leakage.
+- **Subresource Integrity (SRI)** is a W3C specification enabling verification of third-party resource integrity via cryptographic hashes (SHA-256, SHA-384, SHA-512) to detect tampering, complementing TLS encryption.
+
+- **Integrity verification requires `crossorigin="anonymous"`** to enforce SRI checks; omitting it causes browsers to "fail-open," bypassing integrity validation and negating security benefits.
+
+- **Hash generation** can be performed via the [SRI Hash Generator](https://srihash.org/#app) or CLI using `openssl dgst -sha384 -binary FILENAME.js | openssl base64 -A`.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T12:56:35.437231+05:30
+- Published: 2026-08-09T08:14:13.324805+05:30
 
 ## Related Tags
 

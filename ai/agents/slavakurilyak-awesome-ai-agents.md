@@ -4,13 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-08-09T03:23:11.078323+05:30'
-published_at: '2026-08-08T20:03:43Z'
+collected_at: '2026-08-09T08:06:20.900454+05:30'
+published_at: '2026-08-09T00:52:59Z'
 tags:
 - agents
 - github-repo
+- hackernews
+- paper
 - python
-stars: 2149
+- workflows
+stars: 2151
 language: Python
 status: active
 license: MIT
@@ -18,9 +21,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-08-09T03:23:11.078323+05:30'
-last_seen: '2026-08-09T03:23:11.078323+05:30'
-last_checked: '2026-08-09T03:23:11.078323+05:30'
+first_seen: '2026-08-09T08:06:20.900454+05:30'
+last_seen: '2026-08-09T08:06:20.900454+05:30'
+last_checked: '2026-08-09T08:06:20.900454+05:30'
 health_score: 100
 ---
 
@@ -28,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository hosting 300+ agentic AI resources, categorized for research and development.
-- **Metadata**: 2,149 stars, 520 forks, primarily Python-based, last updated August 8, 2026.
-- **Focus**: Dedicated to agentic AI systems, emphasizing autonomous agent frameworks and applications.
+- **Curated Resource**: GitHub repository containing 300+ curated links to agentic AI tools, frameworks, libraries, research papers, and educational materials.
+- **Technical Scope**: Primarily Python-based, covering agent architectures, multi-agent systems, autonomous agents, and agentic workflows.
+- **Community Metrics**: 2,151 stars, 521 forks, last updated August 9, 2026.
 
 ## Why It Matters
 
@@ -39,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 2149
-- Forks: 520
+- Stars: 2151
+- Forks: 521
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-08-08T20:03:43Z
+- Last Updated: 2026-08-09T00:52:59Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

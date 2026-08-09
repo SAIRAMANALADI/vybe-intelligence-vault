@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://marketplace.visualstudio.com/items?itemName=ms-python.python
-published_at: '2026-08-08T18:56:53.534041+05:30'
-collected_at: '2026-08-08T18:56:53.534056+05:30'
+published_at: '2026-08-09T08:10:49.767683+05:30'
+collected_at: '2026-08-09T08:10:49.767698+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:python-visual-studio-marketplace
-first_seen: '2026-08-08T18:56:53.534056+05:30'
-last_seen: '2026-08-08T18:56:53.534056+05:30'
-last_checked: '2026-08-08T18:56:53.534056+05:30'
+first_seen: '2026-08-09T08:10:49.767698+05:30'
+last_seen: '2026-08-09T08:10:49.767698+05:30'
+last_checked: '2026-08-09T08:10:49.767698+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Features**: Provides IntelliSense (via Pylance), debugging (Python Debugger), linting, formatting, refactoring, unit testing, and environment management for Python in VS Code, supporting all actively maintained Python versions.
+- **Core Features**: Provides IntelliSense (via Pylance), debugging (Python Debugger), linting, formatting, refactoring, unit testing, and environment management for Python in VS Code, with support for all actively maintained Python versions.
 
-- **Extensibility & Integration**: Automatically installs optional dependencies (Pylance, Python Debugger, Python Environments) for enhanced workflows, while allowing customization via VS Code’s extension system and third-party formatters/linters.
+- **Extensibility & Dependencies**: Automatically installs optional extensions (Pylance, Python Debugger, Python Environments) for enhanced functionality; supports third-party formatters/linters (e.g., black, pytest) and integrates with Jupyter Notebooks via the Jupyter extension.
 
-- **Cross-Platform Support**: Enables partial IntelliSense on `vscode.dev`/`github.dev`, full Jupyter Notebook integration, and multi-language locale support (e.g., `zh-cn`, `fr`, `de`), with telemetry opt-out via `telemetry.telemetryLevel`.
+- **Environment & Workflow**: Enables interpreter selection, virtual/conda environment management, and debugging via status bar/Command Palette; includes partial IntelliSense support for `vscode.dev`/`github.dev` and telemetry collection for product improvement.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T18:56:53.534041+05:30
+- Published: 2026-08-09T08:10:49.767683+05:30
 
 ## Related Tags
 

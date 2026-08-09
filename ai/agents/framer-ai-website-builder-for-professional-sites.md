@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.framer.com
-published_at: '2026-08-06T04:03:38.825527+05:30'
-collected_at: '2026-08-06T04:03:38.825541+05:30'
+published_at: '2026-08-09T08:13:49.638488+05:30'
+collected_at: '2026-08-09T08:13:49.638506+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:framer-ai-website-builder-for-professional-sites
-first_seen: '2026-08-06T04:03:38.825541+05:30'
-last_seen: '2026-08-06T04:03:38.825541+05:30'
-last_checked: '2026-08-06T04:03:38.825541+05:30'
+first_seen: '2026-08-09T08:13:49.638506+05:30'
+last_seen: '2026-08-09T08:13:49.638506+05:30'
+last_checked: '2026-08-09T08:13:49.638506+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Design Agents**: Framer integrates native AI agents for real-time, in-place design generation and refinement, enabling iterative, editable modifications directly on the canvas while maintaining user control.
+- **Native Design Agent**: Framer integrates a professional design agent directly into the canvas, enabling in-place generation and refinement of UI elements with real-time visibility and full user control.
 
-- **CMS Automation via Agents**: AI-driven CMS agents automate setup, organization, and updates, synchronizing content and design through direct canvas integration, reducing manual workflows and accelerating publishing.
+- **CMS & Code Automation**: Agents manage, organize, and update CMS collections while converting high-level prompts into functional code components, ensuring design-content synchronization and rapid deployment.
 
-- **Multi-Tool AI Integration**: Supports external AI agents (e.g., Cursor, Claude Code, Codex) for cross-platform actions (e.g., Slack, terminal, GitHub PRs), enabling seamless automation of design, CMS, and code workflows.
+- **Multi-Tool Integration**: Supports external AI agents (e.g., Cursor, Claude Code) for cross-platform workflows, enabling actions like Slack-driven copy updates or GitHub PR-triggered deployments via terminal commands.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-06T04:03:38.825527+05:30
+- Published: 2026-08-09T08:13:49.638488+05:30
 
 ## Related Tags
 

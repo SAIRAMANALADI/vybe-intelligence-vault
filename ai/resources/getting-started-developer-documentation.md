@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.llamaindex.ai/llamacloud/getting_started
-published_at: '2026-08-06T14:35:18.157656+05:30'
-collected_at: '2026-08-06T14:35:18.157668+05:30'
+published_at: '2026-08-09T08:13:17.343207+05:30'
+collected_at: '2026-08-09T08:13:17.343223+05:30'
 tags:
 - meta-ai
 - models
 - web-crawled
 status: active
 resource_id: blog:getting-started-developer-documentation
-first_seen: '2026-08-06T14:35:18.157668+05:30'
-last_seen: '2026-08-06T14:35:18.157668+05:30'
-last_checked: '2026-08-06T14:35:18.157668+05:30'
+first_seen: '2026-08-09T08:13:17.343223+05:30'
+last_seen: '2026-08-09T08:13:17.343223+05:30'
+last_checked: '2026-08-09T08:13:17.343223+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Concurrency Settings Impact**: LlamaParse's maximum processable pages per parse mode and model in self-hosted LlamaCloud are directly determined by concurrency settings, which must be tuned in alignment with available system resources and model capabilities.
+- **Concurrency Settings Impact**: LlamaParse's throughput scales with configured concurrency (`MAX_CONCURRENCY`, `WORKER_THREADS`) and parse mode/model, directly affecting maximum processable pages per second (e.g., `FAST` vs. `ACCURATE` modes).
 
-- **Helm Configuration Tuning**: Helm charts enable granular control over concurrency parameters (e.g., `workerCount`, `batchSize`) to optimize throughput, requiring adjustments based on workload demands and infrastructure constraints.
+- **Helm Tuning Parameters**: Adjust `resources.limits.cpu/memory`, `replicaCount`, and `horizontalPodAutoscaler` in Helm charts to balance CPU-bound parsing workloads and avoid throttling under high load.
 
-- **Rate-Limit Troubleshooting**: Throughput bottlenecks often stem from API rate limits or resource contention; monitoring tools (e.g., Prometheus, Grafana) and Helm-based scaling (e.g., `autoscaling`) are critical for diagnosing and resolving performance degradation.
+- **Rate-Limit Troubleshooting**: Monitor `429 Too Many Requests` errors; tune `RATE_LIMIT` (env var) or implement backpressure via `queue_size` and `batch_delay` to align with API/model constraints.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-06T14:35:18.157656+05:30
+- Published: 2026-08-09T08:13:17.343207+05:30
 
 ## Related Tags
 

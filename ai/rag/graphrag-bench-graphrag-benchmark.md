@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-09T03:21:40.975185+05:30'
+collected_at: '2026-08-09T08:04:50.799669+05:30'
 published_at: '2026-08-06T17:19:02Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
+- paper
 - python
 - rag
 stars: 476
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-09T03:21:40.975185+05:30'
-last_seen: '2026-08-09T03:21:40.975185+05:30'
-last_checked: '2026-08-09T03:21:40.975185+05:30'
+first_seen: '2026-08-09T08:04:50.799669+05:30'
+last_seen: '2026-08-09T08:04:50.799669+05:30'
+last_checked: '2026-08-09T08:04:50.799669+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models with standardized metrics and datasets.
-- **Technical Scope**: Focuses on analyzing when graph structures enhance RAG performance, providing comparative insights for graph-based vs. traditional RAG approaches.
-- **Implementation**: Python-based, includes benchmarking tools, datasets, and evaluation protocols for reproducibility and extensibility in ICLR'26 research.
+- **GraphRAG-Benchmark**: Official repository for evaluating Graph Retrieval-Augmented Generation (GraphRAG) models, introduced in the ICLR'26 paper *"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation"*.
+
+- **Technical Scope**: Provides a benchmarking framework with datasets and analysis tools to assess GraphRAG performance, implemented in Python for modular evaluation of graph-based RAG systems.
+
+- **Repository Metrics**: 476 stars, 54 forks; last updated 2026-08-06, focusing on graphrag, benchmarking, and dataset curation for RAG research.
 
 ## Why It Matters
 

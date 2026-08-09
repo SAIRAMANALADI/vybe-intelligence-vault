@@ -13,13 +13,14 @@ collected_at: '2026-08-09T03:19:46.616359+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-domain-can-now-say-it-is-for-sale-in-dns
 first_seen: '2026-08-08T21:19:30.284855+05:30'
 last_seen: '2026-08-09T03:19:46.616359+05:30'
 last_checked: '2026-08-09T03:19:46.616359+05:30'
 health_score: 100
 ---
+
 
 # A domain can now say it is for sale, in DNS
 

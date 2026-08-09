@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.mozilla.org/docs/Web/CSS/:has
-published_at: '2026-08-01T09:32:55.331942+05:30'
-collected_at: '2026-08-01T09:32:55.331951+05:30'
+published_at: '2026-08-09T08:13:03.488885+05:30'
+collected_at: '2026-08-09T08:13:03.488900+05:30'
 tags:
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:has-css-pseudo-class-css-mdn
-first_seen: '2026-08-01T09:32:55.331951+05:30'
-last_seen: '2026-08-01T09:32:55.331951+05:30'
-last_checked: '2026-08-01T09:32:55.331951+05:30'
+first_seen: '2026-08-09T08:13:03.488900+05:30'
+last_seen: '2026-08-09T08:13:03.488900+05:30'
+last_checked: '2026-08-09T08:13:03.488900+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Functionality**: The `:has()` pseudo-class enables selection of an element if any relative selector passed as an argument matches at least one descendant, allowing parent/previous-sibling selection via relative selector lists (e.g., `h1:has(+ p)`).
-- **Specificity & Nesting**: Inherits specificity from the most specific selector in its arguments (like `:is()`/`:not()`), cannot nest `:has()` within another `:has()`, and rejects pseudo-elements or invalid anchors to prevent cyclic querying.
-- **Performance**: Broad anchoring (e.g., `:root`, `body`) or unconstrained inner selectors (e.g., `.ancestor:has(.foo)`) degrades performance; use specific containers (e.g., `.container:has(.sidebar-expanded)`) and tight combinators (`>`, `+`) to limit subtree traversal.
+- **Functionality**: The `:has()` CSS pseudo-class enables selection of an element if any of its relative selectors match at least one descendant, allowing parent/sibling selection via relative selector lists (e.g., `h1:has(+ p)` for styling `h1` if immediately followed by `p`).
+
+- **Syntax & Constraints**: Takes a relative selector list as an argument, inherits specificity from its most specific selector, and cannot be nested or use pseudo-elements; unsupported browsers fail the entire selector block unless in forgiving lists like `:is()`.
+
+- **Performance Considerations**: Broad anchoring (e.g., `body:has(.x)`) or unconstrained inner selectors (e.g., `.ancestor:has(.foo)`) degrade performance during DOM mutations; optimize by using specific containers and tight combinators (e.g., `.container:has(> .foo)`).
 
 ## Why It Matters
 
@@ -34,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-01T09:32:55.331942+05:30
+- Published: 2026-08-09T08:13:03.488885+05:30
 
 ## Related Tags
 

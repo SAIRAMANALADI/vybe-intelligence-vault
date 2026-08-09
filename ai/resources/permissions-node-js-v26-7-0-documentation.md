@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/api/permissions.html#permission-model
-published_at: '2026-08-09T03:27:10.400659+05:30'
-collected_at: '2026-08-09T03:27:10.400676+05:30'
+published_at: '2026-08-09T08:11:43.507355+05:30'
+collected_at: '2026-08-09T08:11:43.507372+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:permissions-node-js-v26-7-0-documentation
-first_seen: '2026-08-09T03:27:10.400676+05:30'
-last_seen: '2026-08-09T03:27:10.400676+05:30'
-last_checked: '2026-08-09T03:27:10.400676+05:30'
+first_seen: '2026-08-09T08:11:43.507372+05:30'
+last_seen: '2026-08-09T08:11:43.507372+05:30'
+last_checked: '2026-08-09T08:11:43.507372+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Permission Model API**: Introduces `permission.has(scope[, reference])` and `permission.drop(scope[, reference])` for runtime permission checks and revocations, with enforce mode denying restricted operations and audit mode logging violations without blocking execution.
+- **Permission Model**: Introduced in v20.0.0, this model restricts access to system resources via CLI flags (`--permission`, `--permission-audit`). Enforce mode denies unauthorized operations (throws `ERR_ACCESS_DENIED`), while audit mode logs violations without blocking execution.
 
-- **CLI Flag Integration**: Enabled via `--permission`, restricting file system, network, process spawning, worker threads, native addons, WASI, FFI, and inspector access by default; granular overrides via `--allow-*` flags (e.g., `--allow-child-process`).
+- **Runtime API**: Provides `permission.has(scope[, reference])` to check permissions and `permission.drop(scope[, reference])` to revoke them dynamically during runtime.
 
-- **Operational Modes**: Enforce mode (default) throws `ERR_ACCESS_DENIED` on restricted operations; audit mode (`--permission-audit`) logs violations via diagnostics channel without denying access, aiding permission requirement discovery.
+- **Resource Restrictions**: Disables file system access, network operations, process spawning, worker threads, native addons, WASI, FFI, and inspector by default; permissions can be selectively enabled via flags like `--allow-child-process` or `--allow-worker`.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T03:27:10.400659+05:30
+- Published: 2026-08-09T08:11:43.507355+05:30
 
 ## Related Tags
 

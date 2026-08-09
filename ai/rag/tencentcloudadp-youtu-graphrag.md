@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-09T03:22:11.009064+05:30'
+collected_at: '2026-08-09T08:05:20.851795+05:30'
 published_at: '2026-08-08T09:17:04Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 1235
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-09T03:22:11.009064+05:30'
-last_seen: '2026-08-09T03:22:11.009064+05:30'
-last_checked: '2026-08-09T03:22:11.009064+05:30'
+first_seen: '2026-08-09T08:05:20.851795+05:30'
+last_seen: '2026-08-09T08:05:20.851795+05:30'
+last_checked: '2026-08-09T08:05:20.851795+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent system where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-aware decision-making.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
 
-- **Graph Retrieval-Augmented Generation (GraphRAG)**: Integrates graph-based knowledge retrieval with LLMs, enabling dynamic subgraph extraction and structured reasoning to improve factual accuracy and contextual relevance in outputs.
+- **Graph Retrieval-Augmented Reasoning**: Integrates graph-based retrieval with large language models (LLMs) to dynamically extract and synthesize structured knowledge, improving accuracy in multi-hop reasoning and long-form question answering.
 
-- **Optimized for Complex Queries**: Designed to handle multi-hop reasoning and long-form dependency tasks by combining graph traversal algorithms (e.g., neighborhood sampling) with agent-driven RAG pipelines, achieving state-of-the-art performance in ICLR 2026 benchmarks.
+- **Optimized for ICLR 2026**: Implements advanced techniques like adaptive graph pruning, dynamic agent routing, and memory-augmented reasoning to achieve state-of-the-art performance in graph-centric complex reasoning benchmarks.
 
 ## Why It Matters
 

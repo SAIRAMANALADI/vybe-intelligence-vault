@@ -13,13 +13,14 @@ collected_at: '2026-08-09T03:19:48.374783+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-happens-if-an-entire-class-of-workers-loses-f
 first_seen: '2026-08-08T12:47:40.402750+05:30'
 last_seen: '2026-08-09T03:19:48.374783+05:30'
 last_checked: '2026-08-09T03:19:48.374783+05:30'
 health_score: 100
 ---
+
 
 # What happens if an entire class of workers loses faith in their careers
 

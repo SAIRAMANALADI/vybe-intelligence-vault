@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-08-09T03:20:32.307378+05:30'
-collected_at: '2026-08-09T03:20:32.307397+05:30'
+published_at: '2026-08-09T08:03:43.178569+05:30'
+collected_at: '2026-08-09T08:03:43.178585+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-08-09T03:20:32.307397+05:30'
-last_seen: '2026-08-09T03:20:32.307397+05:30'
-last_checked: '2026-08-09T03:20:32.307397+05:30'
+first_seen: '2026-08-09T08:03:43.178585+05:30'
+last_seen: '2026-08-09T08:03:43.178585+05:30'
+last_checked: '2026-08-09T08:03:43.178585+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
+- **RAG (Retrieval-Augmented Generation)** integrates retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing issues like hallucinations, data freshness, and private knowledge limitations.
 
-- **Core RAG Pipeline**: Standard RAG consists of chunking → embedding → retrieval (vector/BM25) → LLM generation, with advanced variants adding hybrid search, query rewriting, and modular routing for improved accuracy and flexibility.
+- **Evolution of RAG** spans four generations: *Naive RAG* (basic vector search), *Advanced RAG* (hybrid retrieval, reranking, query transformation), *Modular RAG* (adaptive routing, tool integration), and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning).
 
-- **Key Trade-offs**: Graph RAG excels in relational reasoning but incurs higher graph construction costs, while Naive RAG offers simplicity but struggles with ambiguous queries; Advanced RAG balances performance with operational complexity.
+- **Key Techniques** include *BM25* (sparse retrieval), *dense embeddings* (e.g., `BAAI/bge-m3`), *RRF* (result fusion), *HyDE* (hypothetical document embeddings), and frameworks like *LangChain* (LCEL) for modular pipeline construction.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T03:20:32.307378+05:30
+- Published: 2026-08-09T08:03:43.178569+05:30
 
 ## Related Tags
 

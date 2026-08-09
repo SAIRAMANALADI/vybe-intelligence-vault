@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-08-09T03:21:25.964682+05:30'
+collected_at: '2026-08-09T08:04:35.784371+05:30'
 published_at: '2026-07-27T10:21:07Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 95
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-08-09T03:21:25.964682+05:30'
-last_seen: '2026-08-09T03:21:25.964682+05:30'
-last_checked: '2026-08-09T03:21:25.964682+05:30'
+first_seen: '2026-08-09T08:04:35.784371+05:30'
+last_seen: '2026-08-09T08:04:35.784371+05:30'
+last_checked: '2026-08-09T08:04:35.784371+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices for large language models (LLMs), focusing on retrieval quality, context integration, and generation tuning.
-
-- **Python-Based Implementation**: Provides a modular Python repository with tools for embedding generation, vector database integration, and prompt engineering for RAG pipelines.
-
-- **Evaluation & Benchmarking**: Includes methodologies for assessing RAG performance metrics (e.g., retrieval precision, answer relevance) and optimizing hyperparameters for production deployment.
+- **Implementation Focus**: Repository provides Python-based best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), emphasizing optimized retrieval and generation workflows.
+- **Technical Scope**: Covers advanced techniques for efficient document retrieval, context integration, and prompt engineering to enhance LLM performance in knowledge-intensive tasks.
+- **Repository Stats**: Maintained with 95 stars and 10 forks, last updated on 2026-07-27, indicating active but niche community engagement.
 
 ## Why It Matters
 

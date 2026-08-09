@@ -13,13 +13,14 @@ collected_at: '2026-08-09T03:19:48.719107+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:gentoo-bugzilla-closed-due-ai-bot-scraper-overload
 first_seen: '2026-08-08T21:19:31.180259+05:30'
 last_seen: '2026-08-09T03:19:48.719107+05:30'
 last_checked: '2026-08-09T03:19:48.719107+05:30'
 health_score: 100
 ---
+
 
 # Gentoo bugzilla closed due AI bot scraper overload
 

@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-08-09T03:22:31.007477+05:30'
-published_at: '2026-08-08T21:39:06Z'
+collected_at: '2026-08-09T08:05:40.846836+05:30'
+published_at: '2026-08-09T02:25:11Z'
 tags:
 - agents
 - github-repo
 - go
 - hackernews
-- scripts
 - workflows
-stars: 5794
+stars: 5795
 language: Go
 status: active
 archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-08-08T07:30:53Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-08-09T03:22:31.007477+05:30'
-last_seen: '2026-08-09T03:22:31.007477+05:30'
-last_checked: '2026-08-09T03:22:31.007477+05:30'
+first_seen: '2026-08-09T08:05:40.846836+05:30'
+last_seen: '2026-08-09T08:05:40.846836+05:30'
+last_checked: '2026-08-09T08:05:40.846836+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Workshop Objective**: Provides a structured guide to building a **standalone coding agent** (similar to Cursor, Cline, or OpenCode) using **Go**, covering core architecture, tool integration, and AI-driven workflow automation.
-
-- **Technical Stack**: Implements **Go** for backend logic, with modular design for extensibility (e.g., LSP integration, API bridges, or local AI inference).
-
-- **Key Components**: Includes tutorials on **agent orchestration**, **context-aware code analysis**, and **multi-tool execution** (e.g., shell, editor APIs, or Git operations) for autonomous coding tasks.
+- **Purpose**: Workshop guide for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering architecture, tooling, and AI integration.
+- **Key Components**: Focuses on **agent-based workflows**, **LLM interactions**, and **IDE/tooling integration** (e.g., Cursor, Windsurf) for autonomous coding tasks.
+- **Technical Stack**: Primarily **Go** with extensions for AI model APIs, CLI tools, and repository interaction (e.g., Git). Last updated **Aug 2026**.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ghuntley
-- Stars: 5794
+- Stars: 5795
 - Forks: 651
 - Language: Go
 - Topics: agent, ai, cursor, tutorial, workshop
-- Last Updated: 2026-08-08T21:39:06Z
+- Last Updated: 2026-08-09T02:25:11Z
 - Archived: No
 - Created At: 2025-07-24T03:56:29Z
 - Pushed At: 2026-08-08T07:30:53Z

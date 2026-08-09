@@ -15,6 +15,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-07-06 | [crazyaiml/attribute-knowledge-rag](https://github.com/crazyaiml/attribute-knowledge-rag) | `rag-systems/` | 70 |
 | 2026-07-03 | [Speechify-AI/tts-shims](https://github.com/Speechify-AI/tts-shims) | `ai-coding-agents/` | 70 |
 | 2026-07-02 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | `agent-frameworks/` | 70 |
+| 2026-07-01 | [mistralai/LeanstralSafeVerify](https://github.com/mistralai/LeanstralSafeVerify) | `ai-coding-agents/` | 70 |
 | 2026-06-26 | [crazyaiml/VAR](https://github.com/crazyaiml/VAR) | `ai-coding-agents/` | 70 |
 | 2026-06-25 | [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) | `ai-coding-agents/` | 70 |
 | 2026-06-15 | [run-llama/llama-parse-cli](https://github.com/run-llama/llama-parse-cli) | `rag-systems/` | 70 |
@@ -24,7 +25,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-06-03 | [antins-labs/SearchOS](https://github.com/antins-labs/SearchOS) | `ai-coding-agents/` | 70 |
 | 2026-05-31 | [PentesterFlow/agent](https://github.com/PentesterFlow/agent) | `ai-coding-agents/` | 70 |
 | 2026-05-27 | [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) | `rag-systems/` | 70 |
-| 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` | 70 |
+| 2026-05-18 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `rag-systems/` | 70 |
 | 2026-05-15 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` | 70 |
 | 2026-05-08 | [CALLE-AI/awesome-phone-call-agents](https://github.com/CALLE-AI/awesome-phone-call-agents) | `ai-coding-agents/` | 70 |
@@ -35,6 +36,5 @@ Update cycle: Refreshed every 3 hours.
 | 2026-04-26 | [DenCabinetmaker/Rust-Rage](https://github.com/DenCabinetmaker/Rust-Rage) | `rag-systems/` | 70 |
 | 2026-04-23 | [crazyaiml/nl-2-sql-agent](https://github.com/crazyaiml/nl-2-sql-agent) | `rag-systems/` | 70 |
 | 2026-04-22 | [aigateway-sh/awesome-ai-gateway](https://github.com/aigateway-sh/awesome-ai-gateway) | `evals-and-benchmarks/` | 70 |
-| 2026-04-21 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | `rag-systems/` | 70 |
 
 More resources will appear as the harvester collects them.

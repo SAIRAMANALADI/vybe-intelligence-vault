@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/caramaschiHG/awesome-ai-agents-2026
-collected_at: '2026-08-09T03:23:11.072083+05:30'
-published_at: '2026-08-08T03:14:05Z'
+collected_at: '2026-08-09T08:06:20.886736+05:30'
+published_at: '2026-08-08T21:59:24Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - unknown
 stars: 1548
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-07T13:21:09Z'
 pushed_at: '2026-06-10T16:46:10Z'
 resource_id: github:caramaschihg/awesome-ai-agents-2026
-first_seen: '2026-08-09T03:23:11.072083+05:30'
-last_seen: '2026-08-09T03:23:11.072083+05:30'
-last_checked: '2026-08-09T03:23:11.072083+05:30'
+first_seen: '2026-08-09T08:06:20.886736+05:30'
+last_seen: '2026-08-09T08:06:20.886736+05:30'
+last_checked: '2026-08-09T08:06:20.886736+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools categorized into 20+ topics, updated monthly for 2026.
-- **Multi-Framework Support**: Includes resources for LangChain, LLMs, ChatGPT, and other AI/ML tools.
-- **High Activity Metrics**: 1,548 stars and 517 forks, indicating strong community engagement and relevance.
+- **Comprehensive AI Agent Resource**: Curated list of 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly for 2026.
+- **Technical Scope**: Covers ChatGPT, LangChain, LLMs, and machine learning tools, with a focus on AI agent ecosystems.
+- **Active Maintenance**: Last updated on 2026-08-08, with 1,548 stars and 517 forks, indicating strong community engagement.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 517
 - Language: Unknown
 - Topics: 2026, ai-agents, artificial-intelligence, awesome-list, chatgpt, langchain, llm, machine-learning
-- Last Updated: 2026-08-08T03:14:05Z
+- Last Updated: 2026-08-08T21:59:24Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2026-03-07T13:21:09Z

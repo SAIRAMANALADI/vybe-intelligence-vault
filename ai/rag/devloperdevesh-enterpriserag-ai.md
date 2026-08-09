@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-09T03:21:55.992536+05:30'
+collected_at: '2026-08-09T08:05:05.824665+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-09T03:21:55.992536+05:30'
-last_seen: '2026-08-09T03:21:55.992536+05:30'
-last_checked: '2026-08-09T03:21:55.992536+05:30'
+first_seen: '2026-08-09T08:05:05.824665+05:30'
+last_seen: '2026-08-09T08:05:05.824665+05:30'
+last_checked: '2026-08-09T08:05:05.824665+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 - **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for real-time monitoring, enforcement, and low-overhead runtime security.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, optimized for SaaS-scale AI workloads and vector database integration.
+- **Enterprise-Grade RAG Pipeline**: Features a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript components, optimized for SaaS AI deployments and vector database integration.
 
-- **Governance & Compliance Focus**: Enforces enterprise security policies, audit trails, and governance controls across AI agent interactions while maintaining performance via eBPF-driven instrumentation.
+- **Multi-Tenant Governance**: Supports scalable, policy-driven governance for AI workloads with modular design for extensibility across GenAI, LLM, and vector DB backends.
 
 ## Why It Matters
 

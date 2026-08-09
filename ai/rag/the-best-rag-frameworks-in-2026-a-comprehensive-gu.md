@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems/
-published_at: '2026-08-09T03:20:31.236858+05:30'
-collected_at: '2026-08-09T03:20:31.236871+05:30'
+published_at: '2026-08-09T08:03:41.088782+05:30'
+collected_at: '2026-08-09T08:03:41.088797+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-best-rag-frameworks-in-2026-a-comprehensive-gu
-first_seen: '2026-08-09T03:20:31.236871+05:30'
-last_seen: '2026-08-09T03:20:31.236871+05:30'
-last_checked: '2026-08-09T03:20:31.236871+05:30'
+first_seen: '2026-08-09T08:03:41.088797+05:30'
+last_seen: '2026-08-09T08:03:41.088797+05:30'
+last_checked: '2026-08-09T08:03:41.088797+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Dominates RAG with 700+ integrations, modular chains, and LangGraph for agentic workflows; supports dense/sparse retrieval and vector stores (Pinecone, Weaviate); features LangSmith for observability and production deployment.
+- **LangChain**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; supports dense/sparse retrieval and vector stores like Pinecone/Weaviate, with production-grade observability via LangSmith.
 
-- **LlamaIndex**: Optimized for advanced indexing and retrieval of multimodal data (text, images, PDFs); offers sophisticated routers, query engines, and 100+ data source integrations; excels in enterprise-scale knowledge bases.
+- **LlamaIndex**: Optimized for advanced indexing and retrieval of complex/multimodal data, featuring query engines, routers, and evaluation tools; excels in enterprise-scale knowledge bases with 100+ data source integrations.
 
-- **Haystack**: Enterprise-grade framework with pipeline abstractions for custom RAG flows; supports dense/sparse retrieval, Elasticsearch/Weaviate integration, built-in evaluation, and scalability; includes visual DAG editor and security features for production environments.
+- **Haystack**: Enterprise-focused framework with modular pipelines for dense/sparse retrieval, Elasticsearch integration, and built-in evaluation; supports custom RAG flows and future visual DAG editors for production-scale document search/QA systems.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T03:20:31.236858+05:30
+- Published: 2026-08-09T08:03:41.088782+05:30
 
 ## Related Tags
 

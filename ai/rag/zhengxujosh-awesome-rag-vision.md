@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-09T03:21:35.983284+05:30'
+collected_at: '2026-08-09T08:04:45.790788+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 339
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-09T03:21:35.983284+05:30'
-last_seen: '2026-08-09T03:21:35.983284+05:30'
-last_checked: '2026-08-09T03:21:35.983284+05:30'
+first_seen: '2026-08-09T08:04:45.790788+05:30'
+last_seen: '2026-08-09T08:04:45.790788+05:30'
+last_checked: '2026-08-09T08:04:45.790788+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models (VLMs), and retrieval-augmented visual question answering (VQA) systems.
-
-- **Multimodal Integration**: Focuses on methods combining **visual retrieval** (e.g., image/feature retrieval) with **generative models** to enhance tasks like image captioning, object detection, and scene understanding via external knowledge augmentation.
-
-- **Cutting-Edge Frameworks**: Highlights state-of-the-art tools/libraries (e.g., **CLIP-based retrieval**, **DINOv2 embeddings**, **LangChain for vision**) and benchmarks for evaluating RAG-enhanced CV models.
+- **Curated RAG-Vision Resources**: A specialized repository aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods, papers, and tools.
+- **Multi-Modal Integration**: Focuses on combining **vision-language models (VLMs)** with RAG to enhance tasks like image captioning, visual question answering (VQA), and cross-modal retrieval.
+- **Cutting-Edge Frameworks**: Includes implementations of **vision-specific RAG architectures**, such as **CLIP-based retrieval**, **DETR for object grounding**, and **diffusion models for generative RAG**.
 
 ## Why It Matters
 

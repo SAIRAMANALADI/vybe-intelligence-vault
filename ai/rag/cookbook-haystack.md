@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-08-08T18:53:49.697639+05:30'
-collected_at: '2026-08-08T18:53:49.697656+05:30'
+published_at: '2026-08-09T08:11:22.806321+05:30'
+collected_at: '2026-08-09T08:11:22.806337+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-08-08T18:53:49.697656+05:30'
-last_seen: '2026-08-08T18:53:49.697656+05:30'
-last_checked: '2026-08-08T18:53:49.697656+05:30'
+first_seen: '2026-08-09T08:11:22.806337+05:30'
+last_seen: '2026-08-09T08:11:22.806337+05:30'
+last_checked: '2026-08-09T08:11:22.806337+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 49 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, categorized by topics like Agents, RAG, Advanced Retrieval, and Multimodal processing.
-
-- **Key recipe categories** include Agentic workflows (e.g., Computer-Use Agent, Cost-Aware Agent), RAG pipelines (e.g., Hybrid RAG with breakpoints, Query Decomposition), and specialized integrations (e.g., vLLM inference engine, Mem0 memory store, OpenStreetMap itinerary planning).
-
-- **Advanced techniques** covered include metadata enrichment, hallucination scoring, sparse embedding retrieval, multimodal text generation, and observability tools like Arize Phoenix for RAG evaluation.
+- **Haystack Cookbook**: Repository of 49 technical recipes demonstrating model providers, vector databases, retrieval techniques, and integrations (e.g., Azure AI Search, vLLM, FastEmbed) with Haystack pipelines.
+- **Agentic & RAG Workflows**: Examples include cost-aware agents, hybrid RAG with breakpoints, metadata enrichment, and multimodal pipelines (e.g., Gemma 4, Llama 3.2 3B) with tools like MCP and OpenStreetMap.
+- **Advanced Techniques**: Covers query decomposition, HyDE for retrieval, sparse embeddings (Qdrant + FastEmbed), and evaluation frameworks (RAGAS, DeepEval, Prometheus 2) for optimizing RAG performance.
 
 ## Why It Matters
 
@@ -44,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T18:53:49.697639+05:30
+- Published: 2026-08-09T08:11:22.806321+05:30
 
 ## Related Tags
 

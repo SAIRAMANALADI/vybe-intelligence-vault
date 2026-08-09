@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elder-plinius/T3MP3ST
-collected_at: '2026-08-08T21:23:24.417310+05:30'
-published_at: '2026-08-08T13:45:13Z'
+collected_at: '2026-08-09T08:06:40.893368+05:30'
+published_at: '2026-08-09T00:22:22Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - typescript
-- workflows
-stars: 5477
+stars: 5483
 language: TypeScript
 status: active
 license: AGPL-3.0
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-07-02T17:53:55Z'
 pushed_at: '2026-08-02T21:17:28Z'
 resource_id: github:elder-plinius/t3mp3st
-first_seen: '2026-08-08T21:23:24.417310+05:30'
-last_seen: '2026-08-08T21:23:24.417310+05:30'
-last_checked: '2026-08-08T21:23:24.417310+05:30'
+first_seen: '2026-08-09T08:06:40.893368+05:30'
+last_seen: '2026-08-09T08:06:40.893368+05:30'
+last_checked: '2026-08-09T08:06:40.893368+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Offensive Security Framework**: T3MP3ST is an autonomous red teaming platform leveraging a TypeScript-based meta-harness to coordinate multiple AI agents for offensive security operations, enabling automated penetration testing and adversarial simulations.
+- **Autonomous Red Teaming Platform**: Open-source TypeScript-based framework designed for autonomous offensive security operations, enabling multi-agent systems to simulate cyberattacks and assess vulnerabilities without manual intervention.
 
-- **Dynamic Agent Orchestration**: The system supports dynamic agent collaboration, allowing real-time task delegation, adaptive response strategies, and modular agent interactions to simulate complex attack vectors and evasion techniques.
+- **Multi-Agent Offensive-Security Meta-Harness**: Integrates specialized AI agents to dynamically coordinate attack vectors, adapt to target environments, and execute complex red teaming scenarios with minimal human oversight.
 
-- **Extensible & Scalable Architecture**: Built with TypeScript, T3MP3ST provides a modular design for integrating custom agents, tools, and workflows, facilitating scalable red teaming operations across diverse environments and attack surfaces.
+- **Scalable & Extensible Architecture**: Supports modular agent interactions, real-time threat modeling, and customizable attack payloads, leveraging TypeScript for cross-platform compatibility and rapid iteration in security research.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: elder-plinius
-- Stars: 5477
-- Forks: 1138
+- Stars: 5483
+- Forks: 1140
 - Language: TypeScript
 - Topics: agents, ai, multi-agent, offensive-security, redteam
-- Last Updated: 2026-08-08T13:45:13Z
+- Last Updated: 2026-08-09T00:22:22Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-07-02T17:53:55Z

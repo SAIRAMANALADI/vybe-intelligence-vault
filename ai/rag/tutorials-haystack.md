@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-08-08T21:26:07.701632+05:30'
-collected_at: '2026-08-08T21:26:07.701642+05:30'
+published_at: '2026-08-09T08:11:17.797384+05:30'
+collected_at: '2026-08-09T08:11:17.797400+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-08-08T21:26:07.701642+05:30'
-last_seen: '2026-08-08T21:26:07.701642+05:30'
-last_checked: '2026-08-08T21:26:07.701642+05:30'
+first_seen: '2026-08-09T08:11:17.797400+05:30'
+last_seen: '2026-08-09T08:11:17.797400+05:30'
+last_checked: '2026-08-09T08:11:17.797400+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Evaluation Guide**: Provides a structured walkthrough for implementing evaluation metrics in RAG pipelines, covering both statistical and model-based approaches for assessing performance.
+- **Haystack Evaluation Guide**: Provides a structured walkthrough for assessing RAG pipeline performance using statistical and model-based metrics, critical for benchmarking generative QA systems.
 
-- **Multimodal RAG Pipeline**: Demonstrates the construction of a vision+text RAG system capable of answering queries grounded in both image and textual data, leveraging multimodal embeddings and retrieval.
+- **Multimodal & Tool-Calling Agents**: Covers advanced implementations including vision+text RAG pipelines, tool-calling agents with web search integration, and multi-agent systems for modular workflows.
 
-- **KV Cache Compression with TurboQuant**: Details the integration of TurboQuant for KV cache compression in Haystack, enabling efficient execution of large LLMs on consumer GPUs with reduced memory overhead.
+- **Optimization & Serialization**: Includes techniques for KV cache compression (TurboQuant) to reduce memory usage, pipeline serialization (YAML/Python), and hybrid retrieval combining keyword and dense methods.
 
 ## Why It Matters
 
@@ -41,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T21:26:07.701632+05:30
+- Published: 2026-08-09T08:11:17.797384+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

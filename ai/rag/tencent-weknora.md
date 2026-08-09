@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-08-09T03:21:05.966756+05:30'
-published_at: '2026-08-08T21:36:00Z'
+collected_at: '2026-08-09T08:04:15.797750+05:30'
+published_at: '2026-08-09T02:26:34Z'
 tags:
 - agents
 - benchmark
@@ -15,17 +15,17 @@ tags:
 - models
 - openai
 - rag
-stars: 19526
+stars: 19531
 language: Go
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-07-22T08:01:23Z'
-pushed_at: '2026-08-07T10:10:17Z'
+pushed_at: '2026-08-09T00:46:17Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-08-09T03:21:05.966756+05:30'
-last_seen: '2026-08-09T03:21:05.966756+05:30'
-last_checked: '2026-08-09T03:21:05.966756+05:30'
+first_seen: '2026-08-09T08:04:15.797750+05:30'
+last_seen: '2026-08-09T08:04:15.797750+05:30'
+last_checked: '2026-08-09T08:04:15.797750+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model RAG & Agent Framework**: Implements Retrieval-Augmented Generation (RAG) with support for OpenAI, Ollama, and other LLM providers, enabling autonomous reasoning agents and self-maintaining wiki generation from raw documents.
+- **Multi-modal RAG & Agentic Framework**: WeKnora transforms raw documents into a queryable Retrieval-Augmented Generation (RAG) system, supports autonomous reasoning agents, and maintains a self-updating Wiki, all in Go.
 
-- **Vector & Semantic Search Pipeline**: Integrates embeddings, reranking, and vector search for high-precision document retrieval, optimized for multi-tenant knowledge bases with semantic query capabilities.
+- **Vector & Semantic Search Pipeline**: Implements vector search, embeddings, reranking, and semantic search with support for multi-model (Ollama/OpenAI) and multi-tenant architectures for scalable knowledge retrieval.
 
-- **Go-Based Scalable Architecture**: Built in Go for performance, supporting multimodal models, evaluation tools, and chatbot interfaces with modular design for extensibility.
+- **Evaluation & Chatbot Integration**: Includes built-in evaluation tools for LLM performance, supports chatbot deployment, and enables structured question-answering with a knowledge base backend.
 
 ## Why It Matters
 
@@ -46,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 19526
+- Stars: 19531
 - Forks: 2795
 - Language: Go
 - Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-08-08T21:36:00Z
+- Last Updated: 2026-08-09T02:26:34Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z
-- Pushed At: 2026-08-07T10:10:17Z
+- Pushed At: 2026-08-09T00:46:17Z
 
 ## Possible Use Cases
 

@@ -8,24 +8,24 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
-- [llmware-ai/llmware](https://github.com/llmware-ai/llmware) (framework - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook/) (framework - ESSENTIAL Tier)
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (product - ESSENTIAL Tier)
+- [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
 - [Nonuniformity Principle in Human-AI Coworking](https://arxiv.org/abs/2607.16530) (framework - USEFUL Tier)
+- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
 - [Mintlify · GitHub](https://github.com/mintlify)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
-- [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook/)
-- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- [Pinecone · GitHub](https://github.com/pinecone-io)
+- [continuedev/continue](https://github.com/continuedev/continue)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-09 03:37 IST*
+*Last updated: 2026-08-09 08:20 IST*

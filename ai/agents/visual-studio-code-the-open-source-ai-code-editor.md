@@ -5,8 +5,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/
-published_at: '2026-08-04T03:59:53.108353+05:30'
-collected_at: '2026-08-04T03:59:53.108370+05:30'
+published_at: '2026-08-09T08:09:11.694177+05:30'
+collected_at: '2026-08-09T08:09:11.694194+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:visual-studio-code-the-open-source-ai-code-editor
-first_seen: '2026-08-04T03:59:53.108370+05:30'
-last_seen: '2026-08-04T03:59:53.108370+05:30'
-last_checked: '2026-08-04T03:59:53.108370+05:30'
+first_seen: '2026-08-09T08:09:11.694194+05:30'
+last_seen: '2026-08-09T08:09:11.694194+05:30'
+last_checked: '2026-08-09T08:09:11.694194+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Component Extraction**: Refactored `MailList.tsx` to abstract individual mail items into a standalone `MailListItem` component, reducing complexity and improving maintainability while preserving keyboard navigation and accessibility features.
+- **Component Refactoring**: Extracted `MailListItem` into a standalone component with typed props (`email`, `isSelected`, `onOpen`), reducing `MailList.tsx` complexity from 30 to 6 lines while preserving keyboard navigation, selection state, and accessibility features.
 
-- **Performance Optimization**: Achieved a **66% reduction in render time** (41ms → 12ms) for a 10k-message fixture by extracting `MailListItem` and optimizing component composition.
+- **Batch Processing Optimization**: Implemented a `POST /process/batch` endpoint in Go with parallel processing (8 concurrent workers), per-request 30s timeout, OpenTelemetry tracing, and structured logging, reducing 64-image batch processing time from 184ms to 31ms.
 
-- **Batch Processing Endpoint**: Implemented a `POST /process/batch` endpoint in Go with parallel processing (8-file cap), OpenTelemetry tracing, and structured logging, reducing end-to-end latency for a 64-image batch from **184ms to 31ms**.
+- **Performance Improvement**: Refactored `MailList` to use `React.memo` for `MailListItem`, achieving a 41ms → 12ms render time reduction on a 10k-message fixture while maintaining all functionality and virtualization behavior.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-04T03:59:53.108353+05:30
+- Published: 2026-08-09T08:09:11.694177+05:30
 
 ## Related Tags
 

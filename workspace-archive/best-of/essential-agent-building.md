@@ -8,6 +8,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- **Category**: `ai/agents` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
+- **Score**: `95` | **Path**: [`addyosmani-agent-skills.md`](../../ai/agents/addyosmani-agent-skills.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [Mintlify · GitHub](https://github.com/mintlify)
 - **Category**: `ai/resources` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`mintlify-github.md`](../../ai/resources/mintlify-github.md)
@@ -16,11 +21,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
 - **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`firecrawl-firecrawl-mcp-server.md`](../../ai/resources/firecrawl-firecrawl-mcp-server.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`microsoft-ai-agents-for-beginners.md`](../../ai/rag/microsoft-ai-agents-for-beginners.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429)
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-09 03:37 IST*
+*Last updated: 2026-08-09 08:20 IST*

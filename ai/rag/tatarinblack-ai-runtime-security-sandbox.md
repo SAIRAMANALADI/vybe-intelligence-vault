@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TatarinBlack/ai-runtime-security-sandbox
-collected_at: '2026-08-09T03:21:56.002070+05:30'
+collected_at: '2026-08-09T08:05:05.797440+05:30'
 published_at: '2026-08-05T14:56:30Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 35
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-07-11T11:39:26Z'
 pushed_at: '2026-08-05T14:54:14Z'
 resource_id: github:tatarinblack/ai-runtime-security-sandbox
-first_seen: '2026-08-09T03:21:56.002070+05:30'
-last_seen: '2026-08-09T03:21:56.002070+05:30'
-last_checked: '2026-08-09T03:21:56.002070+05:30'
+first_seen: '2026-08-09T08:05:05.797440+05:30'
+last_seen: '2026-08-09T08:05:05.797440+05:30'
+last_checked: '2026-08-09T08:05:05.797440+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates runtime security vulnerabilities in AI systems, including prompt injection, tool abuse, and excessive agency, via a live RAG chatbot sandbox.
-- **Technical Stack**: Implemented in Python, leveraging Retrieval-Augmented Generation (RAG) for dynamic context retrieval and interaction.
-- **Repository Status**: Updated on 2026-08-05, with 35 stars and 24 forks, indicating active community engagement and interest in AI security research.
+- **Purpose**: Demonstrates runtime security risks in AI systems, focusing on prompt injection, tool abuse, and excessive agency vulnerabilities.
+- **Implementation**: Python-based sandbox environment showcasing live attacks and defenses for Retrieval-Augmented Generation (RAG) chatbots.
+- **Last Updated**: 2026-08-05T14:56:30Z, indicating ongoing development and relevance to current AI security challenges.
 
 ## Why It Matters
 

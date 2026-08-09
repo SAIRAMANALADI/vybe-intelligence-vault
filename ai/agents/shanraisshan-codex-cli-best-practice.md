@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-09T03:23:01.038437+05:30'
+collected_at: '2026-08-09T08:06:10.887773+05:30'
 published_at: '2026-08-07T14:11:28Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
 - scripts
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-09T03:23:01.038437+05:30'
-last_seen: '2026-08-09T03:23:01.038437+05:30'
-last_checked: '2026-08-09T03:23:01.038437+05:30'
+first_seen: '2026-08-09T08:06:10.887773+05:30'
+last_seen: '2026-08-09T08:06:10.887773+05:30'
+last_checked: '2026-08-09T08:06:10.887773+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using OpenAI Codex CLI, emphasizing modular hooks, context engineering, and CLI-based agentic workflows for scalable AI-driven development.
 
-- **Codex CLI Best Practices**: Provides a curated set of commands, skills, and hooks for OpenAI’s Codex CLI, optimizing agentic coding tasks via reusable templates, context management, and CLI-based agent orchestration.
+- **Codex CLI Best Practices**: Provides a curated set of *codex-cli-commands*, *skills*, and *hooks* for optimizing AI agent interactions, including context management, skill chaining, and stateful execution for reproducible AI engineering.
 
-- **Pakistani Developer Contributions**: Open-source project led by a Pakistani developer, focusing on scalable AI agent frameworks, with 956 stars and 64 forks, serving as a technical reference for agentic workflows in Python.
+- **Pakistani Developer Contribution**: Open-source project led by a Pakistani developer, offering localized insights (e.g., `pakistan` tag) while serving as a global reference for agentic AI workflows, CLI-based automation, and OpenAI Codex integration.
 
 ## Why It Matters
 

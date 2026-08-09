@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-09T03:20:50.975674+05:30'
+collected_at: '2026-08-09T08:04:00.770781+05:30'
 published_at: '2026-08-08T19:12:52Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-07T04:07:30Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-09T03:20:50.975674+05:30'
-last_seen: '2026-08-09T03:20:50.975674+05:30'
-last_checked: '2026-08-09T03:20:50.975674+05:30'
+first_seen: '2026-08-09T08:04:00.770781+05:30'
+last_seen: '2026-08-09T08:04:00.770781+05:30'
+last_checked: '2026-08-09T08:04:00.770781+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL for storage, and Docker for containerization.
+- **Full-stack AI app generator** with FastAPI (backend) and Next.js (frontend), pre-integrated with **20+ AI tools** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI/Deep) and **PostgreSQL** for structured data storage.
 
-- **AI Features**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for AI agents, RAG pipelines, real-time streaming, and LLM interactions.
+- **Key features** include **AI Agents**, **RAG (Retrieval-Augmented Generation)**, real-time **streaming**, **authentication**, and **WebSocket** support for dynamic interactions.
 
-- **Out-of-the-Box Capabilities**: Includes authentication, 20+ third-party integrations, WebSocket support, and Pydantic-Deep validation, enabling rapid deployment of scalable AI applications.
+- **Deployment-ready** via Docker, with **TypeScript/React** for frontend and **Python** for backend, optimized for scalability and modular AI agent development.
 
 ## Why It Matters
 

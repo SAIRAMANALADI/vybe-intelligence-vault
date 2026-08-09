@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-09T03:23:51.098734+05:30'
+collected_at: '2026-08-09T08:07:00.925242+05:30'
 published_at: '2026-08-08T16:49:49Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 26772
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-08-03T21:08:08Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-09T03:23:51.098734+05:30'
-last_seen: '2026-08-09T03:23:51.098734+05:30'
-last_checked: '2026-08-09T03:23:51.098734+05:30'
+first_seen: '2026-08-09T08:07:00.925242+05:30'
+last_seen: '2026-08-09T08:07:00.925242+05:30'
+last_checked: '2026-08-09T08:07:00.925242+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Local-First Autonomous Agent**: Fully local implementation of Manus AI using Python, eliminating API dependencies and cloud costs; operates autonomously with web browsing, reasoning, and code execution capabilities.
-- **DeepSeek-R1 Integration**: Leverages DeepSeek-R1 LLM for high-performance reasoning and decision-making without external API calls.
-- **Cost Efficiency**: Operates solely on local compute resources (electricity cost), avoiding recurring cloud/API expenses (~$200/month savings).
+- **Fully Local AI Agent**: Implements an autonomous agent (`agenticSeek`) using local LLMs (e.g., DeepSeek-R1) without external APIs or cloud dependencies, relying solely on local compute and electricity costs.
+
+- **Multi-Modal Capabilities**: Supports autonomous web browsing, code execution, and voice assistant functionality entirely offline, leveraging Python-based agentic workflows.
+
+- **Open-Source & Cost-Effective**: Released under an open-source license (MIT), reducing operational costs to hardware/electricity while maintaining high autonomy and extensibility.
 
 ## Why It Matters
 

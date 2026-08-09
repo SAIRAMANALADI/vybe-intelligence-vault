@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/docker/compose-for-agents
-collected_at: '2026-08-08T15:30:56.947333+05:30'
+collected_at: '2026-08-09T08:06:00.919117+05:30'
 published_at: '2026-08-08T08:43:18Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2025-05-09T09:20:04Z'
 pushed_at: '2026-06-04T18:15:29Z'
 resource_id: github:docker/compose-for-agents
-first_seen: '2026-08-08T15:30:56.947333+05:30'
-last_seen: '2026-08-08T15:30:56.947333+05:30'
-last_checked: '2026-08-08T15:30:56.947333+05:30'
+first_seen: '2026-08-09T08:06:00.919117+05:30'
+last_seen: '2026-08-09T08:06:00.919117+05:30'
+last_checked: '2026-08-09T08:06:00.919117+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides Docker Compose configurations for deploying and orchestrating open-source AI agents, LLMs (e.g., llama.cpp), tools, and agent runtimes in a self-hosted environment.
-- **Key Features**: Includes pre-configured examples for agentic workflows, integrating components like OpenAI-compatible APIs, self-hosted LLMs, and tooling via Docker Compose.
-- **Technical Stack**: TypeScript-based repository with Docker-centric orchestration, supporting self-hosted AI agent deployments and modular component integration.
+- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate AI agents, integrating open-source LLMs (e.g., llama.cpp), tools, and agent runtimes for self-hosted agentic workflows.
+- **Technical Stack**: TypeScript-based examples with Docker/Docker Compose for containerized agent deployment, supporting LLMs, OpenAI Gym environments, and agent frameworks.
+- **Use Case**: Ready-to-use templates for building scalable, modular AI agent systems with self-hosted infrastructure, updated as of August 2026.
 
 ## Why It Matters
 

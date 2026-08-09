@@ -13,13 +13,14 @@ collected_at: '2026-08-09T03:19:46.051788+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:denmark-requires-oral-defenses-for-students-writte
 first_seen: '2026-08-09T03:19:46.051788+05:30'
 last_seen: '2026-08-09T03:19:46.051788+05:30'
 last_checked: '2026-08-09T03:19:46.051788+05:30'
 health_score: 100
 ---
+
 
 # Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
 

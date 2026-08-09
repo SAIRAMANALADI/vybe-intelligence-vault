@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-08-09T03:24:06.179584+05:30'
-published_at: '2026-08-07T09:52:12Z'
+collected_at: '2026-08-09T08:07:15.982520+05:30'
+published_at: '2026-08-09T01:58:26Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
 - workflows
-stars: 810
+stars: 811
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-21T19:57:32Z'
 pushed_at: '2026-08-05T08:27:00Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-08-09T03:24:06.179584+05:30'
-last_seen: '2026-08-09T03:24:06.179584+05:30'
-last_checked: '2026-08-09T03:24:06.179584+05:30'
+first_seen: '2026-08-09T08:07:15.982520+05:30'
+last_seen: '2026-08-09T08:07:15.982520+05:30'
+last_checked: '2026-08-09T08:07:15.982520+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, enabling iterative decision-making via tool usage and environment interaction.
+- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, facilitating iterative decision-making and tool interaction.
 
-- **Key Components**: Utilizes LangGraph for stateful workflow orchestration, integrating reasoning (LLM-based) and acting (tool execution) cycles in a structured graph-based pipeline.
+- **Key Components**: Utilizes LangGraph for state management and workflow orchestration, enabling structured agent behavior with tool-calling and reasoning cycles.
 
-- **Repository Status**: Actively maintained (last updated Aug 2026), with 810 stars and 698 forks, indicating community adoption for building modular agentic systems.
+- **Repository Stats**: 811 stars, 698 forks, last updated August 9, 2026, with a focus on LangGraph-specific tooling and templates.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 810
+- Stars: 811
 - Forks: 698
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-08-07T09:52:12Z
+- Last Updated: 2026-08-09T01:58:26Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-21T19:57:32Z

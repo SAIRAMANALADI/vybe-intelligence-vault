@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-08-09T03:24:16.182586+05:30'
-published_at: '2026-08-08T21:51:50Z'
+collected_at: '2026-08-09T08:07:25.975960+05:30'
+published_at: '2026-08-09T02:36:43Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 96416
+stars: 96522
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-28T03:31:08Z'
 pushed_at: '2026-07-18T15:55:05Z'
 resource_id: github:tauricresearch/tradingagents
-first_seen: '2026-08-09T03:24:16.182586+05:30'
-last_seen: '2026-08-09T03:24:16.182586+05:30'
-last_checked: '2026-08-09T03:24:16.182586+05:30'
+first_seen: '2026-08-09T08:07:25.975960+05:30'
+last_seen: '2026-08-09T08:07:25.975960+05:30'
+last_checked: '2026-08-09T08:07:25.975960+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent LLM Framework**: Implements a financial trading system leveraging multiple LLM-based agents for decision-making, strategy execution, and market analysis.
-- **Python-Based Architecture**: Utilizes Python with modular design for extensibility, supporting custom agent configurations and trading strategies.
-- **Open-Source & Active Development**: Hosted on GitHub with 96K+ stars, frequent updates (last commit: 2026-08-08), and topics covering finance, multi-agent systems, and LLMs.
+- **Multi-Agent LLM Framework**: Implements a collaborative multi-agent system using large language models (LLMs) for financial trading, enabling distributed decision-making and strategy execution.
+- **Python-Based Architecture**: Built in Python with modular components for data processing, agent interaction, and trading execution, leveraging modern ML/LLM libraries.
+- **Open-Source & Scalable**: Public repository with 96.5K+ stars, supporting extensibility via custom agents, backtesting, and integration with financial APIs/data sources.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TauricResearch
-- Stars: 96416
-- Forks: 18645
+- Stars: 96522
+- Forks: 18660
 - Language: Python
 - Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-08-08T21:51:50Z
+- Last Updated: 2026-08-09T02:36:43Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-28T03:31:08Z

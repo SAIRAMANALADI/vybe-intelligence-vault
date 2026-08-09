@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-09T03:21:51.010636+05:30'
+collected_at: '2026-08-09T08:05:00.829279+05:30'
 published_at: '2026-08-08T21:48:25Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-09T03:21:51.010636+05:30'
-last_seen: '2026-08-09T03:21:51.010636+05:30'
-last_checked: '2026-08-09T03:21:51.010636+05:30'
+first_seen: '2026-08-09T08:05:00.829279+05:30'
+last_seen: '2026-08-09T08:05:00.829279+05:30'
+last_checked: '2026-08-09T08:05:00.829279+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization of LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss) with minimal overhead.
+- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization and compatibility with any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss).
 
-- **Multi-Format & Multi-Store Support**: Enables integration with any file type and vector database backend, offering flexibility for diverse use cases while maintaining compatibility with existing products via APIs.
+- **Multi-Format & Multi-Store Support**: Enables integration with any file type and provides flexibility in choosing vector databases, with pre-built support for PostgreSQL, Faiss, and others, facilitating easy deployment in existing systems.
 
-- **Tech Stack**: Built in Python with a React/TypeScript frontend, Dockerized deployment, and support for PostgreSQL, HTML, and JavaScript, emphasizing privacy, security, and scalability.
+- **Full-Stack Toolkit**: Offers a Python-based backend with Docker support, a React/TypeScript frontend, and APIs for secure, privacy-focused chatbot development, optimized for rapid deployment and scalability.
 
 ## Why It Matters
 

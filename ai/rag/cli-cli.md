@@ -3,9 +3,9 @@ title: cli/cli
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/cli/cli
-collected_at: '2026-08-09T03:28:01.628310+05:30'
-published_at: '2026-08-08T18:15:53Z'
+source_url: https://github.com/cli/cli#installation
+collected_at: '2026-08-09T08:12:20.965769+05:30'
+published_at: '2026-08-09T00:41:42Z'
 tags:
 - github-repo
 - go
@@ -13,7 +13,7 @@ tags:
 - rag
 - scripts
 - workflows
-stars: 45742
+stars: 45744
 language: Go
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2019-10-03T15:24:53Z'
 pushed_at: '2026-08-07T15:47:01Z'
 resource_id: github:cli/cli
-first_seen: '2026-08-09T03:28:01.628310+05:30'
-last_seen: '2026-08-09T03:28:01.628310+05:30'
-last_checked: '2026-08-09T03:28:01.628310+05:30'
+first_seen: '2026-08-09T08:12:20.965769+05:30'
+last_seen: '2026-08-09T08:12:20.965769+05:30'
+last_checked: '2026-08-09T08:12:20.965769+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Official GitHub CLI tool (`gh`) for interacting with GitHub repositories, issues, PRs, and APIs via command line.
-- **Technical Stack**: Built in Go, leveraging GitHub’s GraphQL API v4 (`github-api-v4`) for efficient data fetching.
-- **Features**: Supports Git operations, GitHub API interactions, and workflow automation with 45.7k+ stars and 8.8k+ forks.
+- **Purpose**: Official GitHub CLI tool (`gh`) for interacting with GitHub repositories and APIs via command line.
+- **Technical Stack**: Built in Go, leveraging GitHub's GraphQL API v4 (`github-api-v4`) for efficient data fetching.
+- **Features**: Supports Git operations, GitHub API interactions, and workflow automation; last updated on 2026-08-09.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cli
-- Stars: 45742
-- Forks: 8834
+- Stars: 45744
+- Forks: 8835
 - Language: Go
 - Topics: cli, git, github-api-v4, golang
-- Last Updated: 2026-08-08T18:15:53Z
+- Last Updated: 2026-08-09T00:41:42Z
 - License: MIT
 - Archived: No
 - Created At: 2019-10-03T15:24:53Z
@@ -68,4 +68,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/cli/cli
+Original source: https://github.com/cli/cli#installation

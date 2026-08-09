@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://classicbits.net/coding-and-software/my-software/monosol
 hn_url: https://news.ycombinator.com/item?id=49224020
-score: 28
+score: 49
 author: skibz
-comments_count: 7
+comments_count: 12
 published_at: '2026-08-08T23:12:40+05:30'
-collected_at: '2026-08-09T03:19:47.386966+05:30'
+collected_at: '2026-08-09T08:02:57.776122+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:tinysol-a-tiny-solitaire-game-for-dos
 first_seen: '2026-08-09T03:19:47.386966+05:30'
-last_seen: '2026-08-09T03:19:47.386966+05:30'
-last_checked: '2026-08-09T03:19:47.386966+05:30'
+last_seen: '2026-08-09T08:02:57.776122+05:30'
+last_checked: '2026-08-09T08:02:57.776122+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by skibz. Score: 28, Comments: 7.
+Hacker News story by skibz. Score: 49, Comments: 12.
 Original Link: https://classicbits.net/coding-and-software/my-software/monosol/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: skibz
-- Score: 28 Upvotes
-- Comments: 7 Discussions
+- Score: 49 Upvotes
+- Comments: 12 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49224020
 - Original Article: https://classicbits.net/coding-and-software/my-software/monosol
 

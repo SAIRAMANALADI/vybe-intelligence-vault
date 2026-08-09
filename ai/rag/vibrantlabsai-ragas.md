@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/index.md
-published_at: '2026-08-09T03:25:39.955800+05:30'
-collected_at: '2026-08-09T03:25:39.955816+05:30'
+published_at: '2026-08-09T08:09:18.045707+05:30'
+collected_at: '2026-08-09T08:09:18.045724+05:30'
 tags:
 - benchmark
 - dataset
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-08-09T03:25:39.955816+05:30'
-last_seen: '2026-08-09T03:25:39.955816+05:30'
-last_checked: '2026-08-09T03:25:39.955816+05:30'
+first_seen: '2026-08-09T08:09:18.045724+05:30'
+last_seen: '2026-08-09T08:09:18.045724+05:30'
+last_checked: '2026-08-09T08:09:18.045724+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-driven evaluation framework**: Ragas replaces traditional metrics with LLM-powered evaluation loops, enabling systematic, scalable assessment of LLM applications via customizable metrics and experiments.
+- **LLM-Driven Evaluation Framework**: Ragas replaces traditional metrics with LLM-based evaluation, enabling systematic, scalable assessment of LLM applications through customizable metrics and continuous experimentation loops.
 
-- **Experiments-first workflow**: Facilitates iterative improvement by tracking changes, running evaluations, and analyzing results through built-in dataset management and result tracking.
+- **Experiments-First Architecture**: Supports structured evaluation workflows with built-in dataset management, result tracking, and integration with frameworks like LangChain and LlamaIndex, facilitating iterative improvements.
 
-- **Framework-agnostic integration**: Supports seamless integration with popular AI frameworks (e.g., LangChain, LlamaIndex) and offers extensible metrics via decorators or pre-built libraries.
+- **Modular & Extensible**: Provides a library of predefined metrics and allows custom metric creation via decorators, ensuring adaptability to diverse use cases while maintaining ease of integration.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T03:25:39.955800+05:30
+- Published: 2026-08-09T08:09:18.045707+05:30
 
 ## Related Tags
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL VS Code Extension**: Enables CodeQL query execution, data flow visualization for security triage, and IntelliSense for writing custom queries/libraries; integrates with GitHub’s open-source security query repository.
-- **Setup & Workflow**: Requires VS Code ≥1.39; auto-manages CodeQL CLI or allows manual CLI configuration; supports database import from GitHub and query execution via CLI or UI commands.
-- **Telemetry & Licensing**: MIT-licensed extension with optional GitHub telemetry
+- **Integration & Features**: VS Code extension enabling CodeQL queries for static analysis, including data flow visualization, access to open-source security queries, and IntelliSense for query development.
+- **Setup & Workflow**: Requires VS Code ≥1.39; automates CLI management but allows manual override; uses starter workspace (`github/vscode-codeql-starter`) for preconfigured libraries/queries.
+- **Execution Pipeline**: Supports importing GitHub-generated databases, running queries via CLI,
 
 ## Use Cases
 

@@ -1,36 +1,36 @@
 ---
-title: sentence-transformers/sentence_transformers/sentence_transformer/model.py at
-  main · huggingface/sentence-transformers ·
+title: sentence-transformers/examples/cross_encoder/applications/README.md at main
+  · huggingface/sentence-transformers · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/huggingface/sentence-transformers/blob/main/sentence_transformers/sentence_transformer/model.py#L41-L1160
-published_at: '2026-08-09T03:32:24.724935+05:30'
-collected_at: '2026-08-09T03:32:24.724952+05:30'
+source_url: https://github.com/huggingface/sentence-transformers/blob/main/examples/cross_encoder/applications/README.md
+published_at: '2026-08-09T08:09:13.440236+05:30'
+collected_at: '2026-08-09T08:09:13.440249+05:30'
 tags:
-- benchmark
 - dataset
-- models
+- paper
 - rag
 - reddit
 - web-crawled
+- workflows
 status: active
 resource_id: github:huggingface/sentence-transformers
-first_seen: '2026-08-09T03:32:24.724952+05:30'
-last_seen: '2026-08-09T03:32:24.724952+05:30'
-last_checked: '2026-08-09T03:32:24.724952+05:30'
+first_seen: '2026-08-09T08:09:13.440249+05:30'
+last_seen: '2026-08-09T08:09:13.440249+05:30'
+last_checked: '2026-08-09T08:09:13.440249+05:30'
 health_score: 100
 ---
 
-# sentence-transformers/sentence_transformers/sentence_transformer/model.py at main · huggingface/sentence-transformers ·
+# sentence-transformers/examples/cross_encoder/applications/README.md at main · huggingface/sentence-transformers · GitHub
 
 ## Summary
 
-- **Library Overview**: `sentence-transformers` is a Hugging Face library for generating dense vector embeddings from text using PyTorch-based models, with 19k+ stars and 2.9k forks on GitHub.
+- **Architecture & Input Handling**: Cross-Encoders process sentence pairs jointly via a Transformer, outputting a similarity score (0-1), whereas Bi-Encoders generate independent embeddings for single sentences, enabling cosine similarity comparisons.
 
-- **Core Class**: `SentenceTransformer` class inherits from `BaseModel` and `FitMixin`, enabling model loading (from disk/Hugging Face Hub), custom module composition, and fine-tuning with support for multi-modal inputs.
+- **Performance vs. Scalability Trade-off**: Cross-Encoders achieve higher accuracy but are computationally expensive (e.g., O(n²) comparisons), making them impractical for large-scale tasks like clustering; Bi-Encoders are preferred for efficiency (e.g., semantic search).
 
-- **Key Features**: Supports dynamic precision quantization (`float32`, `int8`, `uint8`, `binary`), custom prompts, multiple backends (`torch`, `onnx`, `openvino`), and similarity functions (`cosine`, `dot`, `euclidean`, `manhattan`), with automatic device placement (GPU/CPU/NPU).
+- **Hybrid Workflow**: Combines Bi-Encoder for fast candidate retrieval (top-*k*) and Cross-Encoder for precise re-ranking, optimizing both speed and accuracy in applications like semantic search.
 
 ## Why It Matters
 
@@ -40,17 +40,17 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T03:32:24.724935+05:30
+- Published: 2026-08-09T08:09:13.440236+05:30
 
 ## Related Tags
 
-- benchmark
 - dataset
-- models
+- paper
 - rag
 - reddit
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.com/huggingface/sentence-transformers/blob/main/sentence_transformers/sentence_transformer/model.py#L41-L1160
+Original source: https://github.com/huggingface/sentence-transformers/blob/main/examples/cross_encoder/applications/README.md

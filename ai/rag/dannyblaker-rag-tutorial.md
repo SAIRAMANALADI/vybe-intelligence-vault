@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-08-09T03:20:35.908921+05:30'
+collected_at: '2026-08-09T08:03:45.750284+05:30'
 published_at: '2026-07-22T13:21:53Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-08-09T03:20:35.908921+05:30'
-last_seen: '2026-08-09T03:20:35.908921+05:30'
-last_checked: '2026-08-09T03:20:35.908921+05:30'
+first_seen: '2026-08-09T08:03:45.750284+05:30'
+last_seen: '2026-08-09T08:03:45.750284+05:30'
+last_checked: '2026-08-09T08:03:45.750284+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6-step guide covering embeddings, vector databases, LLMs, and advanced techniques with reusable Python utilities and hands-on demos.
-- **Zero-to-Production Focus**: Provides working code examples and practical implementations for building production-ready RAG systems.
-- **Metadata**: Last updated July 22, 2026; 8 stars, 0 forks; Python-based repository with no additional topics.
+- **Progressive Tutorial Structure**: 6-step guide covering RAG fundamentals to production deployment, with incremental complexity and hands-on coding exercises.
+- **Technical Components**: Covers embeddings, vector databases (e.g., FAISS/Chroma), LLMs (e.g., Hugging Face transformers), and advanced RAG techniques (e.g., query rewriting, reranking).
+- **Resources Included**: Working Python code examples, reusable utilities, and demo projects for local testing and deployment.
 
 ## Why It Matters
 

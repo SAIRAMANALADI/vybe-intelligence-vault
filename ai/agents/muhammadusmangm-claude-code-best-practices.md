@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-09T03:23:06.050737+05:30'
+collected_at: '2026-08-09T08:06:15.871719+05:30'
 published_at: '2026-08-04T06:02:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
 stars: 68
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-09T03:23:06.050737+05:30'
-last_seen: '2026-08-09T03:23:06.050737+05:30'
-last_checked: '2026-08-09T03:23:06.050737+05:30'
+first_seen: '2026-08-09T08:06:15.871719+05:30'
+last_seen: '2026-08-09T08:06:15.871719+05:30'
+last_checked: '2026-08-09T08:06:15.871719+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, covering setup, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tools**, **LLM integration**, and **MCP (Model Context Protocol)** patterns, with Shell scripting as the primary language.
-- **Metadata**: 68 stars, 15 forks, last updated **2026-08-04**; categorized under **AI/ML developer tools**, **Anthropic ecosystem**, and **template-driven workflows**.
+- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+
+- **Technical Focus**: Primarily shell-based repository (`Shell` language) with resources for **agentic AI**, **CLI tools**, **LLM integration**, and **MCP (Model Context Protocol)** workflows, targeting **Anthropic’s Claude** ecosystem.
+
+- **Metadata**: 68 stars, 15 forks, last updated **2026-08-04**; topics include `agentic-ai`, `best-practices`, `developer-tools`, and `templates` for optimizing AI-driven development workflows.
 
 ## Why It Matters
 

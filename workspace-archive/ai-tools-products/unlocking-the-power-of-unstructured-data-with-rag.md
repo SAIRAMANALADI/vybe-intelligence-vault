@@ -14,7 +14,6 @@ tags:
 - hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Workflow Optimization**: Nicole Choi contributes to GitHub's technical documentation and best practices for GitHub Actions, focusing on workflow efficiency, security, and scalability in CI/CD pipelines.
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to GitHub Blog with a focus on developer tools and workflows.
 
-- **Open Source Advocacy**: Active in promoting open-source contributions, with a focus on improving developer tooling, automation, and collaborative workflows within the GitHub ecosystem.
+- **GitHub Contributions**: Active contributor to GitHub’s documentation and community resources, specializing in clarifying complex technical concepts for developers.
 
-- **Technical Writing & Community Engagement**: Authored GitHub Blog posts and guides o
+- **Social Presence**: Maintains a professional GitHub profile ([nicchoi29](https://github.com/nicchoi29)) and is a verified author on GitHub Blog.
 
 ## Use Cases
 

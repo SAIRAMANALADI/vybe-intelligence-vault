@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AvdLee/SwiftUI-Agent-Skill
-collected_at: '2026-08-09T03:23:01.042882+05:30'
-published_at: '2026-08-08T18:09:01Z'
+collected_at: '2026-08-09T08:06:10.854928+05:30'
+published_at: '2026-08-09T00:03:42Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-stars: 3384
+- workflows
+stars: 3385
 language: Python
 status: active
 license: MIT
@@ -18,9 +20,9 @@ archived: false
 created_at: '2026-01-21T14:42:30Z'
 pushed_at: '2026-08-07T13:14:58Z'
 resource_id: github:avdlee/swiftui-agent-skill
-first_seen: '2026-08-09T03:23:01.042882+05:30'
-last_seen: '2026-08-09T03:23:01.042882+05:30'
-last_checked: '2026-08-09T03:23:01.042882+05:30'
+first_seen: '2026-08-09T08:06:10.854928+05:30'
+last_seen: '2026-08-09T08:06:10.854928+05:30'
+last_checked: '2026-08-09T08:06:10.854928+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides expert SwiftUI best practices as an AI coding tool skill in the Agent Skills open format, enabling AI agents to generate SwiftUI code adhering to industry standards.
-
-- **Implementation**: Written in Python, it likely parses SwiftUI best practices and converts them into structured prompts or rules for AI agents to follow during code generation.
-
-- **Maintenance**: Last updated on **2026-08-08**, indicating active development or updates to ensure alignment with evolving SwiftUI best practices.
+- **Purpose**: Provides expert SwiftUI best practices guidance in the Agent Skills open format for AI coding tools.
+- **Technical Stack**: Implemented in Python, designed to integrate with AI agents for SwiftUI development workflows.
+- **Metadata**: 3,385 stars, 153 forks, last updated 2026-08-09.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: AvdLee
-- Stars: 3384
+- Stars: 3385
 - Forks: 153
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-08T18:09:01Z
+- Last Updated: 2026-08-09T00:03:42Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-21T14:42:30Z

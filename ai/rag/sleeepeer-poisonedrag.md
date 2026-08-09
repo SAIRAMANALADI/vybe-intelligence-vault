@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-09T03:21:51.012467+05:30'
+collected_at: '2026-08-09T08:05:00.844743+05:30'
 published_at: '2026-08-06T20:07:42Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-09T03:21:51.012467+05:30'
-last_seen: '2026-08-09T03:21:51.012467+05:30'
-last_checked: '2026-08-09T03:21:51.012467+05:30'
+first_seen: '2026-08-09T08:05:00.844743+05:30'
+last_seen: '2026-08-09T08:05:00.844743+05:30'
+last_checked: '2026-08-09T08:05:00.844743+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval corpus to alter LLM outputs without direct model access.
+- **Attack Mechanism**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate targeted misinformation or biased outputs.
 
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by injecting adversarial documents into the retrieval database, causing the model to retrieve and prioritize poisoned content, leading to biased or incorrect responses.
+- **Technical Implementation**: Leverages adversarial document poisoning techniques to manipulate the retrieval process, exploiting vulnerabilities in RAG pipelines where the model's output depends on retrieved context, enabling stealthy and persistent attacks.
 
-- **Evaluation & Impact**: Validated on multiple LLMs and datasets, showing significant degradation in response quality (e.g., up to 40% increase in error rates) while maintaining stealthiness via subtle perturbations in retrieved data.
+- **Evaluation & Impact**: Validated on multiple RAG benchmarks (e.g., MS MARCO, NaturalQuestions), showing significant degradation in model reliability, with attack success rates up to **90%** under optimized conditions, highlighting critical security risks in production RAG systems.
 
 ## Why It Matters
 
