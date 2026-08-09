@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C571-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C261-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--09-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **169,571 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **101,261 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,650</p>
-        <p><b>Active:</b> 18,124 | <b>Inactive:</b> 526</p>
+        <p><b>Resources tracked:</b> 17,645</p>
+        <p><b>Active:</b> 17,119 | <b>Inactive:</b> 526</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 69,576</p>
+        <p><b>Archive Files:</b> 2,240</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 169,571 files</p>
-        <p><b>Last Update:</b> 2026-08-09 21:39 IST</p>
+        <p><b>Total Vault Size:</b> 101,261 files</p>
+        <p><b>Last Update:</b> 2026-08-09 22:09 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Fastmail offers EU data region](ai/community/fastmail-offers-eu-data-region.md)** • <kbd>+21 pts</kbd>
-- 🔼 **[The original URL for this prediction will no longer be available in 11 years (2011)](ai/community/the-original-url-for-this-prediction-will-no-longe.md)** • <kbd>+15 pts</kbd>
-- 🔼 **[sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** • Rank: <kbd>+1300</kbd>
-- 🔼 **[Trainer · Hugging Face](ai/rag/huggingface-docs-transformers.md)** • Rank: <kbd>+1568</kbd>
-- 🔼 **[sentence-transformers/examples/sentence_transformer/training/nli/training_nli_v2.py at main · huggingface/sentence-trans](ai/rag/huggingface-sentence-transformers.md)** • Rank: <kbd>+1521</kbd>
+- 🔼 **[Trainer · Hugging Face](ai/rag/huggingface-docs-transformers.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[pytorch/torchcodec](ai/resources/pytorch-torchcodec.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Get Started](ai/resources/get-started.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[AudioDecoder — TorchCodec 0.15 Documentation](ai/resources/audiodecoder-torchcodec-0-15-documentation.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[VideoDecoder — TorchCodec 0.15 Documentation](ai/resources/videodecoder-torchcodec-0-15-documentation.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[70% of AI revenue comes from OpenAI and Anthropic](ai/community/youtube-68x8yeatepq.md)** • Score: `41`
-- 🆕 **[Show HN: Airy – Free, fast, and simple voice content creation](ai/community/show-hn-airy-free-fast-and-simple-voice-content-cr.md)** • Score: `17`
-- 🆕 **[Models compatible with the sentence-transformers library – Hugging Face](ai/resources/models-compatible-with-the-sentence-transformers-l.md)** • Score: `0`
-- 🆕 **[pytorch/torchcodec](ai/resources/pytorch-torchcodec.md)** • Score: `0`
-- 🆕 **[Get Started](ai/resources/get-started.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Amazon circumvents Gilroy community vote for AI data center](ai/community/amazon-circumvents-gilroy-community-vote-for-ai-da.md)**
-- 💤 **[Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta](ai/community/israeli-startup-was-linked-to-rogue-ai-hacks-at-op.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
