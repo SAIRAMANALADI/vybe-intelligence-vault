@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C407-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C141-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--09-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **169,407 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **101,141 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,631</p>
-        <p><b>Active:</b> 18,109 | <b>Inactive:</b> 522</p>
+        <p><b>Resources tracked:</b> 17,632</p>
+        <p><b>Active:</b> 17,110 | <b>Inactive:</b> 522</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 69,521</p>
+        <p><b>Archive Files:</b> 2,222</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 169,407 files</p>
-        <p><b>Last Update:</b> 2026-08-09 15:49 IST</p>
+        <p><b>Total Vault Size:</b> 101,141 files</p>
+        <p><b>Last Update:</b> 2026-08-09 16:08 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Melatonin impairs morning cognition in healthy young adults (2023)](ai/community/melatonin-impairs-morning-cognition-in-healthy-you.md)** • <kbd>+43 pts</kbd>
-- 🔼 **[The original URL for this prediction will no longer be available in 11 years (2011)](ai/community/the-original-url-for-this-prediction-will-no-longe.md)** • <kbd>+39 pts</kbd>
-- 🔼 **[Fastmail offers EU data region](ai/community/fastmail-offers-eu-data-region.md)** • <kbd>+36 pts</kbd>
-- 🔼 **[Docs • Svelte](ai/resources/docs-svelte.md)** • Rank: <kbd>+8336</kbd>
-- 🔼 **[withastro/astro](ai/rag/withastro-astro.md)** • Rank: <kbd>+1432</kbd>
+- 🔼 **[deepset-ai/haystack-cookbook](ai/rag/deepset-ai-haystack-cookbook.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[GitHub - golang/proposal: Go Project Design Documents · GitHub](ai/rag/github-golang-proposal-go-project-design-documents.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[cmd/go: add minimal support for vgo transition · Issue #25069 · golang/go · GitHub](ai/resources/cmd-go-add-minimal-support-for-vgo-transition-issu.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[vgo - Git at Google](ai/resources/vgo-git-at-google.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Russ Cox](ai/rag/russ-cox.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost](ai/community/software-giant-sap-stops-most-travel-and-hiring-be.md)** • Score: `18`
-- 🆕 **[fly.io · GitHub](ai/agents/fly-io-github.md)** • Score: `0`
-- 🆕 **[Install Tailwind CSS with Astro - Tailwind CSS](web-development/tailwind/install-tailwind-css-with-astro-tailwind-css.md)** • Score: `0`
-- 🆕 **[Fly.io Status](ai/rag/fly-io-status.md)** • Score: `0`
-- 🆕 **[Stylus | An expressive, robust, feature-rich CSS language built for Node.js](ai/resources/stylus-an-expressive-robust-feature-rich-css-langu.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Real-time MCP interceptor that blocks .env reads and dangerous commands agents](ai/community/real-time-mcp-interceptor-that-blocks-env-reads-an.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
