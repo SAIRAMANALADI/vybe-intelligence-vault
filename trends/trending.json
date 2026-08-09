@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:08:04.362988+05:30",
+  "generated_at": "2026-08-09T13:30:16.227814+05:30",
   "trending_resources": [
     {
       "id": "hackernews:melatonin-impairs-morning-cognition-in-healthy-you",
@@ -36,7 +36,7 @@
       "file_path": "ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1711,
+      "rank_change": 1712,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -49,7 +49,7 @@
       "file_path": "ai/rag/jakewharton-mosaic.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4017,
+      "rank_change": 4018,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -62,7 +62,7 @@
       "file_path": "ai/rag/run-llama-llama-parse-cli.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1340,
+      "rank_change": 1341,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -75,7 +75,7 @@
       "file_path": "ai/agents/b-spdx-license-expressions-spdx-specification-3-0.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8127,
+      "rank_change": 8128,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +88,7 @@
       "file_path": "ai/agents/run-llama-llama-parse-py.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 61,
+      "rank_change": 62,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +101,7 @@
       "file_path": "ai/resources/control-your-online-safety-and-privacy-google-safe.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2184,
+      "rank_change": 2186,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +114,7 @@
       "file_path": "ai/resources/delete-your-google-account-google-account-help.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3447,
+      "rank_change": 3449,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,12 +127,25 @@
       "file_path": "ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2179,
+      "rank_change": 2181,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
+    {
+      "id": "blog:medium",
+      "title": "Medium",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://blog.medium.com",
+      "file_path": "ai/rag/medium-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 17333,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
     {
       "id": "blog:data-intelligence-lab-hku",
       "title": "Data Intelligence Lab@HKU",
@@ -142,20 +155,7 @@
       "file_path": "ai/rag/data-intelligence-lab-hku.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 13413,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:youtube-tv-watch-dvr-live-sports-shows-news",
-      "title": "YouTube TV - Watch & DVR Live Sports, Shows & News",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://tv.youtube.com",
-      "file_path": "ai/rag/youtube-tv-watch-dvr-live-sports-shows-news.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 8159,
+      "rank_change": 13438,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/agents/b-spdx-license-expressions-spdx-specification-3-0.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 8127,
+      "rank_change": 8128,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +181,7 @@
       "file_path": "ai/resources/everpass.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7766,
+      "rank_change": 7771,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/rag/nfl-sunday-ticket-for-business.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7745,
+      "rank_change": 7757,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/rag/firecrawl-firesearch.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 6884,
+      "rank_change": 6908,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/rag/jakewharton-mosaic.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4017,
+      "rank_change": 4018,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/resources/advancing-research-in-basic-science-and-mathematic.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3965,
+      "rank_change": 3981,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/resources/delete-your-google-account-google-account-help.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3447,
+      "rank_change": 3449,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +259,7 @@
       "file_path": "ai/agents/docker-model-runner-docker-docs.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3409,
+      "rank_change": 3417,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -286,19 +286,6 @@
       "url": "https://marketnow.site",
       "file_path": "ai/community/real-time-mcp-interceptor-that-blocks-env-reads-an.md",
       "score": 8,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-firestore-with-algolia-firebase-extensions",
-      "title": "Search Firestore with Algolia | Firebase Extensions Hub",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://extensions.dev/extensions/algolia/firestore-algolia-search",
-      "file_path": "ai/rag/search-firestore-with-algolia-firebase-extensions.md",
-      "score": 0,
       "score_change": 0,
       "rank_change": 0,
       "new_resource": true,
@@ -344,19 +331,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:privacy-practices-protections-google-safety-center",
-      "title": "Privacy Practices & Protections - Google Safety Center",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://safety.google/principles",
-      "file_path": "ai/resources/privacy-practices-protections-google-safety-center.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:transparency-center-google-product-policies-and-po",
       "title": "Transparency Center - Google Product Policies and Policy Areas",
       "category": "ai/resources",
@@ -376,32 +350,6 @@
       "source_type": "web",
       "url": "https://support.google.com/accounts/answer/27441?hl=en_US",
       "file_path": "ai/resources/create-a-google-account-computer-google-account-he.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:protect-privacy-online-with-google-google-safety-c",
-      "title": "Protect Privacy Online with Google - Google Safety Center",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://safety.google/security-privacy",
-      "file_path": "ai/rag/protect-privacy-online-with-google-google-safety-c.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:maps-sdk-for-android-quickstart-google-for-develop",
-      "title": "Maps SDK for Android Quickstart | Google for Developers",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://developers.google.com/maps/documentation/android-sdk/start",
-      "file_path": "ai/rag/maps-sdk-for-android-quickstart-google-for-develop.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -435,12 +383,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:how-klarna-s-ai-assistant-redefined-customer-suppo",
-      "title": "How Klarna's AI assistant redefined customer support at scale for 85 million active users",
-      "category": "ai/rag",
+      "id": "blog:docker-scout-docker-docs",
+      "title": "Docker Scout | Docker Docs",
+      "category": "ai/resources",
       "source_type": "web",
-      "url": "https://blog.langchain.com/customers-klarna",
-      "file_path": "ai/rag/how-klarna-s-ai-assistant-redefined-customer-suppo.md",
+      "url": "https://docs.docker.com/scout",
+      "file_path": "ai/resources/docker-scout-docker-docs.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -448,12 +396,64 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:docker-scout-docker-docs",
-      "title": "Docker Scout | Docker Docs",
+      "id": "blog:newly-identified-barrier-cells-seal-off-choroid-pl",
+      "title": "Newly identified barrier cells seal off choroid plexus from CSF, rest of brain | The Transmitter: Neuroscience News and",
       "category": "ai/resources",
       "source_type": "web",
-      "url": "https://docs.docker.com/scout",
-      "file_path": "ai/resources/docker-scout-docker-docs.md",
+      "url": "https://thetransmitter.org/choroid-plexus/newly-identified-barrier-cells-seal-off-choroid-plexus-from-csf-rest-of-brain",
+      "file_path": "ai/resources/newly-identified-barrier-cells-seal-off-choroid-pl.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:fused-location-provider-api-google-for-developers",
+      "title": "Fused Location Provider API | Google for Developers",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://developers.google.com/location-context/fused-location-provider",
+      "file_path": "ai/resources/fused-location-provider-api-google-for-developers.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:build-cross-platform-desktop-apps-with-javascript",
+      "title": "Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://electronjs.org",
+      "file_path": "ai/rag/build-cross-platform-desktop-apps-with-javascript.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:docker/extensions-sdk",
+      "title": "docker/extensions-sdk",
+      "category": "ai/resources",
+      "source_type": "github",
+      "url": "https://github.com/docker/extensions-sdk",
+      "file_path": "ai/resources/docker-extensions-sdk.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:learn-about-google-play-services-android-help",
+      "title": "Learn about Google Play services - Android Help",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://support.google.com/android/answer/10546414",
+      "file_path": "ai/rag/learn-about-google-play-services-android-help.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
