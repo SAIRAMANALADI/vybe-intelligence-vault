@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-09T08:05:25.844695+05:30'
+collected_at: '2026-08-09T10:13:48.848328+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- benchmark
-- dataset
 - github-repo
+- paper
 - python
 - rag
 stars: 174
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-09T08:05:25.844695+05:30'
-last_seen: '2026-08-09T08:05:25.844695+05:30'
-last_checked: '2026-08-09T08:05:25.844695+05:30'
+first_seen: '2026-08-09T10:13:48.848328+05:30'
+last_seen: '2026-08-09T10:13:48.848328+05:30'
+last_checked: '2026-08-09T10:13:48.848328+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework for retrieval-augmented generation (RAG) over diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, etc.), enabling unified retrieval and generation across heterogeneous corpora.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends RAG beyond text by supporting diverse modalities (e.g., images, tables) and granularities (e.g., documents, paragraphs, entities) via unified retrieval and generation mechanisms.
 
-- **ACL 2026 Oral Contribution**: Presents a novel architecture with cross-modal retrieval mechanisms, dynamic granularity selection, and modality-agnostic indexing to optimize retrieval relevance and generation coherence in multimodal settings.
+- **ACL 2026 Oral Paper**: The system introduces novel architectures and training strategies enabling seamless integration of heterogeneous corpora into a single retrieval-augmented pipeline for LLMs.
 
-- **Open-Source Python Implementation**: Provides a modular, extensible codebase with pre-trained models, retrieval pipelines, and evaluation tools, supporting custom datasets and integration with existing LLM backbones.
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for customization, including retrieval, fusion, and generation modules optimized for multimodal inputs.
 
 ## Why It Matters
 

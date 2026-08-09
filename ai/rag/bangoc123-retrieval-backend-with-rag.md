@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-09T08:04:30.767456+05:30'
+collected_at: '2026-08-09T10:12:53.772100+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 265
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-09T08:04:30.767456+05:30'
-last_seen: '2026-08-09T08:04:30.767456+05:30'
-last_checked: '2026-08-09T08:04:30.767456+05:30'
+first_seen: '2026-08-09T10:12:53.772100+05:30'
+last_seen: '2026-08-09T10:12:53.772100+05:30'
+last_checked: '2026-08-09T10:12:53.772100+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, leveraging Python-based pipelines.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for Vietnamese Retrieval-Augmented Generation (RAG) using Python, focusing on efficient document retrieval and context-aware generation.
 
-- **Modular Architecture**: Features a structured backend with components for document retrieval, embedding generation (e.g., using `sentence-transformers`), and LLM integration (e.g., `vllm` or `transformers`).
+- **Modular Architecture**: Features a structured backend with components for embedding generation (e.g., using `sentence-transformers` for Vietnamese), vector storage (e.g., FAISS or Weaviate), and retrieval-augmented generation pipelines.
 
-- **Evaluation & Optimization**: Includes Vietnamese-specific evaluation metrics (e.g., `VietText` benchmarks) and techniques for chunking, indexing (FAISS/Weaviate), and prompt engineering tailored to Vietnamese NLP tasks.
+- **Optimized Workflow**: Includes preprocessing for Vietnamese text (e.g., ViTokenizer, VnCoreNLP), hybrid retrieval (dense + sparse), and evaluation metrics tailored for low-resource language performance.
 
 ## Why It Matters
 

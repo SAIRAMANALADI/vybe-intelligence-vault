@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-09T08:05:20.882539+05:30'
+collected_at: '2026-08-09T10:13:43.869786+05:30'
 published_at: '2026-08-09T00:39:07Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-09T08:05:20.882539+05:30'
-last_seen: '2026-08-09T08:05:20.882539+05:30'
-last_checked: '2026-08-09T08:05:20.882539+05:30'
+first_seen: '2026-08-09T10:13:43.869786+05:30'
+last_seen: '2026-08-09T10:13:43.869786+05:30'
+last_checked: '2026-08-09T10:13:43.869786+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework optimized for large-scale corpora, leveraging linear graph structures to enhance retrieval efficiency and scalability.
-- Proposes a **linear graph retrieval mechanism** that reduces computational overhead while maintaining high retrieval accuracy, addressing limitations of traditional graph-based RAG methods.
-- Demonstrates **state-of-the-art performance** on ICLR 2026 benchmarks, improving both inference speed and contextual relevance in LLM-based generation tasks.
+- **LinearRAG Framework**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency for LLMs by leveraging linear graph structures to reduce computational overhead while maintaining retrieval accuracy.
+
+- **ICLR 2026 Contribution**: Proposes a novel approach to GraphRAG by replacing traditional hierarchical or dense retrieval with linear traversal, enabling scalable and efficient augmentation of LLMs with structured knowledge graphs derived from large corpora.
+
+- **Implementation**: Provides a Python-based implementation optimized for scalability, with modular components for graph construction, linear retrieval, and integration with LLMs, demonstrated on benchmark corpora.
 
 ## Why It Matters
 

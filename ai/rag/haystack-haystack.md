@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/
-published_at: '2026-08-09T08:07:56.425009+05:30'
-collected_at: '2026-08-09T08:07:56.425020+05:30'
+published_at: '2026-08-09T10:16:19.175718+05:30'
+collected_at: '2026-08-09T10:16:19.175727+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:haystack-haystack
-first_seen: '2026-08-09T08:07:56.425020+05:30'
-last_seen: '2026-08-09T08:07:56.425020+05:30'
-last_checked: '2026-08-09T08:07:56.425020+05:30'
+first_seen: '2026-08-09T10:16:19.175727+05:30'
+last_seen: '2026-08-09T10:16:19.175727+05:30'
+last_checked: '2026-08-09T10:16:19.175727+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-grade AI agents with full visibility into retrieval, reasoning, memory, and tool integration, supporting hybrid retrieval and self-correction loops for advanced RAG pipelines.
+- **Modular AI Orchestration Framework**: Haystack provides a transparent, modular framework for building production-grade AI agents with full visibility into retrieval, reasoning, memory, and tool integration, supporting components like OpenAI, Hugging Face, Weaviate, and Elasticsearch without vendor lock-in.
 
-- **Vendor-Neutral Integration**: Supports seamless integration with diverse AI models (OpenAI, Anthropic, Mistral, etc.) and vector databases (Weaviate, Pinecone, Elasticsearch) via an open architecture, avoiding vendor lock-in and enabling flexible, composable workflows.
+- **Enterprise-Grade Scalability**: Supports cloud-agnostic, Kubernetes-ready pipelines with built-in reliability, observability, and deployment guides, enabling seamless transition from prototype to production with unified tooling for testing and shipping.
 
-- **Enterprise-Ready Deployment**: Offers cloud-agnostic, Kubernetes-ready pipelines with built-in reliability, observability, and scalable deployment options (on-prem/cloud), alongside enterprise support for secure, auditable, and high-performance AI orchestration.
+- **Multi-Use Case Support**: Enables advanced RAG pipelines, AI agents with standardized tool calling, multimodal processing (text, image, audio), conversational AI, and flexible content generation via Jinja-2 templates, all within a single composable architecture.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T08:07:56.425009+05:30
+- Published: 2026-08-09T10:16:19.175718+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-09T08:06:15.869702+05:30'
+collected_at: '2026-08-09T10:14:38.922174+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - rag
 - reddit
 - unknown
+- workflows
 stars: 205
 language: Unknown
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-09T08:06:15.869702+05:30'
-last_seen: '2026-08-09T08:06:15.869702+05:30'
-last_checked: '2026-08-09T08:06:15.869702+05:30'
+first_seen: '2026-08-09T10:14:38.922174+05:30'
+last_seen: '2026-08-09T10:14:38.922174+05:30'
+last_checked: '2026-08-09T10:14:38.922174+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Implements advanced caching strategies, prefetching, and stale-while-revalidate patterns to minimize API calls and improve AI agent response latency.
-- **Dynamic Router Configuration**: Leverages TanStack Router’s file-based routing and type-safe navigation for AI-generated dynamic UIs with minimal runtime overhead.
-- **Start Framework Optimization**: Integrates TanStack Start for server-side rendering (SSR) and edge runtime support, enabling AI agents to deploy optimized, low-latency applications across environments.
+- **Optimized TanStack Query Patterns**: Implements advanced caching, background updates, and stale-while-revalidate strategies to minimize redundant API calls and improve data consistency in AI-driven applications.
+
+- **Router Integration for AI Workflows**: Leverages TanStack Router’s file-based routing and dynamic segments to enable seamless state synchronization between UI components and AI agent decision paths.
+
+- **Start Framework Enhancements**: Utilizes TanStack Start’s SSR/SSG capabilities to pre-render agent-optimized routes, reducing hydration latency and enabling faster AI response execution.
 
 ## Why It Matters
 

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-08-09T08:05:10.808123+05:30'
+collected_at: '2026-08-09T10:13:33.847803+05:30'
 published_at: '2026-08-08T16:08:24Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 stars: 21258
 language: Jupyter Notebook
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-07-31T21:07:09Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-08-09T08:05:10.808123+05:30'
-last_seen: '2026-08-09T08:05:10.808123+05:30'
-last_checked: '2026-08-09T08:05:10.808123+05:30'
+first_seen: '2026-08-09T10:13:33.847803+05:30'
+last_seen: '2026-08-09T10:13:33.847803+05:30'
+last_checked: '2026-08-09T10:13:33.847803+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials covering the entire lifecycle of building production-grade GenAI agents, from initial prototyping to enterprise deployment.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
 
-- **Multi-Framework & Tool Integration**: Focuses on key frameworks (e.g., LangGraph) and tools (e.g., MCP, RAG, LLMs) for multi-agent systems, observability, and MLOps, emphasizing practical implementation in Python.
+- **Multi-Framework & Tool Integration**: Supports advanced agentic AI workflows using frameworks like LangGraph, MCP, and multi-agent systems, with integration for RAG, LLMs, and MLOps pipelines.
 
-- **Production-Ready Resources**: Includes tutorials on deployment strategies, scalability, and observability, ensuring agents meet enterprise-grade requirements.
+- **Observability & Deployment Focus**: Includes tutorials on production-grade deployment, scalability, and observability for GenAI agents, leveraging Python and Jupyter Notebooks for hands-on learning.
 
 ## Why It Matters
 

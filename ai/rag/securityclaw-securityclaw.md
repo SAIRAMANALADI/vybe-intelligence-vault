@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-09T08:05:00.836879+05:30'
+collected_at: '2026-08-09T10:13:23.868074+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 263
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-08-06T19:58:27Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-09T08:05:00.836879+05:30'
-last_seen: '2026-08-09T08:05:00.836879+05:30'
-last_checked: '2026-08-09T08:05:00.836879+05:30'
+first_seen: '2026-08-09T10:13:23.868074+05:30'
+last_seen: '2026-08-09T10:13:23.868074+05:30'
+last_checked: '2026-08-09T10:13:23.868074+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data ingestion, with modular design for skill-based expansion in threat detection and response workflows.
-
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory from historical logs, enabling adaptive anomaly validation and contextual threat hunting via LLMs.
-
-- **LLM-Powered Anomaly Validation**: Dynamically cross-references real-time telemetry with RAG-stored patterns to validate anomalies, reducing false positives and enhancing autonomous threat detection in SOC environments.
+- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for Security Operations Center (SOC) automation, integrating OpenSearch/Elasticsearch data monitoring and real-time anomaly validation.
+- **RAG Memory & LLM Validation**: Implements Retrieval-Augmented Generation (RAG) for behavioral memory construction and leverages Large Language Models (LLMs) to validate and contextualize detected anomalies.
+- **Threat Detection & Hunting**: Enables automated threat detection and hunting with modular components for SOC automation, supporting AI-driven cybersecurity operations and anomaly triage.
 
 ## Why It Matters
 

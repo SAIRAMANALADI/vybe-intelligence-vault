@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daimon111/daimon-template
-collected_at: '2026-08-09T08:07:00.923471+05:30'
+collected_at: '2026-08-09T10:15:23.967919+05:30'
 published_at: '2026-04-24T07:15:56Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-02-20T11:11:45Z'
 pushed_at: '2026-02-20T14:27:26Z'
 resource_id: github:daimon111/daimon-template
-first_seen: '2026-08-09T08:07:00.923471+05:30'
-last_seen: '2026-08-09T08:07:00.923471+05:30'
-last_checked: '2026-08-09T08:07:00.923471+05:30'
+first_seen: '2026-08-09T10:15:23.967919+05:30'
+last_seen: '2026-08-09T10:15:23.967919+05:30'
+last_checked: '2026-08-09T10:15:23.967919+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `daimon111/daimon-template` - A JavaScript-based template for spawning autonomous agents ("daimons"), forked from a base repository with 2 stars and 17 forks.
-- **Purpose**: Designed as a starter framework for building autonomous agents, requiring customization post-forking for specific agent implementations.
-- **Metadata**: Last updated on **2026-04-24**, with no associated topics or additional technical specifications provided.
+- **Purpose**: Scaffolding repository for deploying autonomous agents ("daimons") via JavaScript-based template fork.
+- **Technical Stack**: JavaScript-only implementation with no additional dependencies or topics specified.
+- **Update Status**: Last synchronized on **2026-04-24T07:15:56Z**, with minimal community adoption (2 stars, 17 forks).
 
 ## Why It Matters
 

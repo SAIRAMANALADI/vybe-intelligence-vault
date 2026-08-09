@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/LlamaIndexTS
-collected_at: '2026-08-07T08:58:10.772911+05:30'
+collected_at: '2026-08-09T10:19:09.819624+05:30'
 published_at: '2026-08-05T16:56:00Z'
 tags:
 - agents
@@ -25,9 +25,9 @@ archived: true
 created_at: '2023-06-13T06:41:20Z'
 pushed_at: '2026-03-11T20:07:07Z'
 resource_id: github:run-llama/llamaindexts
-first_seen: '2026-08-07T08:58:10.772911+05:30'
-last_seen: '2026-08-07T08:58:10.772911+05:30'
-last_checked: '2026-08-07T08:58:10.772911+05:30'
+first_seen: '2026-08-09T10:19:09.819624+05:30'
+last_seen: '2026-08-09T10:19:09.819624+05:30'
+last_checked: '2026-08-09T10:19:09.819624+05:30'
 health_score: 100
 ---
 
@@ -35,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based LLM Data Framework**: LlamaIndexTS is a server-side data framework designed for LLM applications, enabling structured data integration and retrieval for TypeScript/JavaScript environments.
+- **TypeScript-based LLM Data Framework**: LlamaIndexTS provides a server-side solution for LLM applications, enabling structured data integration and retrieval for TypeScript/JavaScript environments.
 
-- **Modular Architecture**: Supports embedding, indexing, and querying workflows with integrations for OpenAI, Groq, and Llama models, optimized for Node.js and React-based applications.
+- **Modular Architecture**: Supports agents, chatbots, and embeddings with integrations for OpenAI, Groq, Llama3, and other LLM providers via a plugin-based system.
 
-- **Agent & Chatbot Toolkit**: Provides utilities for building autonomous agents and chatbots with advanced retrieval-augmented generation (RAG) capabilities, last updated in August 2026.
+- **React/Node.js Compatibility**: Designed for full-stack JavaScript/TypeScript workflows, offering React hooks and Node.js server utilities for scalable LLM application development.
 
 ## Why It Matters
 

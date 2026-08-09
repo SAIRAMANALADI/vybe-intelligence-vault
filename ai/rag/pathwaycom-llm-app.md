@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/llm-app
-collected_at: '2026-08-09T08:04:05.799582+05:30'
+collected_at: '2026-08-09T10:12:28.824318+05:30'
 published_at: '2026-08-08T20:25:45Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-07-05T17:59:07Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-08-09T08:04:05.799582+05:30'
-last_seen: '2026-08-09T08:04:05.799582+05:30'
-last_checked: '2026-08-09T08:04:05.799582+05:30'
+first_seen: '2026-08-09T10:12:28.824318+05:30'
+last_seen: '2026-08-09T10:12:28.824318+05:30'
+last_checked: '2026-08-09T10:12:28.824318+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Cloud-native RAG & AI pipeline templates**: Pre-configured, Dockerized solutions for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization.
-- **Multi-source data integration**: Supports real-time sync with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs via Jupyter Notebook-based workflows.
-- **Enterprise-grade features**: Includes LLM prompting, security, and local/remote model compatibility (Hugging Face, OpenAI) with vector database indexing for scalable retrieval.
+- **Cloud-native RAG & AI pipeline templates** with Docker compatibility, enabling real-time enterprise search and AI workflows via pre-configured cloud deployments.
+
+- **Live data synchronization** across SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs, ensuring up-to-date retrieval-augmented generation (RAG) and AI model inputs.
+
+- **Modular architecture** leveraging Hugging Face, OpenAI, and local LLM integration, with vector database support for efficient retrieval and prompting in production-grade LLMOps workflows.
 
 ## Why It Matters
 

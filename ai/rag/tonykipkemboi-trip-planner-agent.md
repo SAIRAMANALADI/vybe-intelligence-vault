@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tonykipkemboi/trip_planner_agent
-collected_at: '2026-08-09T03:24:46.141410+05:30'
+collected_at: '2026-08-09T10:16:19.033729+05:30'
 published_at: '2026-05-18T04:13:15Z'
 tags:
 - agents
 - github-repo
+- models
 - openai
 - python
 - rag
+- workflows
 stars: 143
 language: Python
 status: active
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-01-16T09:09:17Z'
 pushed_at: '2024-06-19T15:04:05Z'
 resource_id: github:tonykipkemboi/trip_planner_agent
-first_seen: '2026-08-09T03:24:46.141410+05:30'
-last_seen: '2026-08-09T03:24:46.141410+05:30'
-last_checked: '2026-08-09T03:24:46.141410+05:30'
+first_seen: '2026-08-09T10:16:19.033729+05:30'
+last_seen: '2026-08-09T10:16:19.033729+05:30'
+last_checked: '2026-08-09T10:16:19.033729+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **CrewAI-based Multi-Agent System**: Implements autonomous AI agents using CrewAI framework to collaboratively plan vacations via LLM-driven task decomposition and execution.
-
-- **Open-Source Python Implementation**: Provides a Python-based, open-source toolkit leveraging OpenAI LLMs for itinerary generation, dynamic scheduling, and real-time travel recommendations.
-
-- **Modular Architecture**: Features extensible agent roles (e.g., researcher, planner) with GitHub-hosted codebase (143 stars, 63 forks) and active updates (last commit: 2026-05-18).
+- **CrewAI Integration**: Implements multi-agent system using CrewAI framework for autonomous trip planning with specialized roles (e.g., researcher, planner, travel agent).
+- **LLM-Driven Logic**: Utilizes OpenAI's LLM (likely GPT-4 or newer) for natural language processing to generate itineraries, optimize routes, and personalize recommendations.
+- **Modular Python Architecture**: Python-based implementation with structured agent workflows, leveraging CrewAI's task delegation and memory systems for dynamic trip customization.
 
 ## Why It Matters
 

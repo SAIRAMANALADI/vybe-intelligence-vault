@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-09T08:03:46.173024+05:30'
-collected_at: '2026-08-09T08:03:46.173039+05:30'
+published_at: '2026-08-09T10:12:09.338853+05:30'
+collected_at: '2026-08-09T10:12:09.338865+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-09T08:03:46.173039+05:30'
-last_seen: '2026-08-09T08:03:46.173039+05:30'
-last_checked: '2026-08-09T08:03:46.173039+05:30'
+first_seen: '2026-08-09T10:12:09.338865+05:30'
+last_seen: '2026-08-09T10:12:09.338865+05:30'
+last_checked: '2026-08-09T10:12:09.338865+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Core Components**: Combines a retriever (vector/lexical) for external knowledge lookup, a vector store/index for embeddings, an LLM generator conditioned on retrieved context, and optional rerankers/query rewriters for precision/efficiency.
+- **RAG Architecture & Pipeline**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional rerankers/query rewriters; orchestration layers (caching, metadata) optimize performance and cost.
 
-- **Chunking & Embedding Optimization**: Structured chunking (preserving paragraphs/sections) with overlap, semantic or LLM-based chunking for coherence; domain-specific embedding fine-tuning and vector normalization for retrieval quality.
+- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality normalization, and hybrid retrieval (BM25 + vector) for precision/recall trade-offs.
 
-- **Multi-Stage Retrieval & Context Management**: Two-stage retrieval (ANN + cross-encoder rerankers) for precision, hybrid BM25+vector search for recall, iterative multi-hop retrieval for complex queries, and context distillation to reduce hallucinations.
+- **Advanced Retrieval & Context Management**: Multi-hop retrieval, iterative decomposition, and GraphRAG enable complex reasoning; context distillation (LLM-based summarization) and autocut techniques reduce hallucinations while managing token budgets and latency.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T08:03:46.173024+05:30
+- Published: 2026-08-09T10:12:09.338853+05:30
 
 ## Related Tags
 

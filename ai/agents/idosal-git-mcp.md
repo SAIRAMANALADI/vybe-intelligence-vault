@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-08-09T08:05:35.827090+05:30'
+collected_at: '2026-08-09T10:13:58.872391+05:30'
 published_at: '2026-08-08T23:17:42Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-08-09T08:05:35.827090+05:30'
-last_seen: '2026-08-09T08:05:35.827090+05:30'
-last_checked: '2026-08-09T08:05:35.827090+05:30'
+first_seen: '2026-08-09T10:13:58.872391+05:30'
+last_seen: '2026-08-09T10:13:58.872391+05:30'
+last_checked: '2026-08-09T10:13:58.872391+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   GitMCP is a TypeScript-based remote Master Control Program (MCP) server designed to mitigate AI code hallucinations within GitHub project workflows.
-*   It functions as an agentic AI layer, integrating with LLM-powered coding assistants (e.g., Copilot, Cursor, Claude) to validate and correct generated code.
-*   The system provides an open-source framework for enforcing code quality and correctness against AI-driven development outputs.
+- **GitMCP**: Open-source TypeScript-based remote MCP server enabling AI agents (e.g., Claude, Copilot, Cursor) to interact with any GitHub repository via structured API calls.
+- **Purpose**: Mitigates "code hallucinations" by providing real-time, accurate GitHub data access for AI-driven development workflows.
+- **Features**: Supports repository cloning, file retrieval, commit history, and branch management with minimal latency.
 
 ## Why It Matters
 

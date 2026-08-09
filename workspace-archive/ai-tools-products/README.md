@@ -9,8 +9,8 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (product - ESSENTIAL Tier)
 - [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
+- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) (benchmark - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
@@ -21,11 +21,11 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Mintlify · GitHub](https://github.com/mintlify)
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [Pinecone · GitHub](https://github.com/pinecone-io)
+- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 - [continuedev/continue](https://github.com/continuedev/continue)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
-- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-09 08:20 IST*
+*Last updated: 2026-08-09 10:28 IST*

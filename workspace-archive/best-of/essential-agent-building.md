@@ -8,11 +8,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-- **Category**: `ai/agents` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
-- **Score**: `95` | **Path**: [`addyosmani-agent-skills.md`](../../ai/agents/addyosmani-agent-skills.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [Mintlify · GitHub](https://github.com/mintlify)
 - **Category**: `ai/resources` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`mintlify-github.md`](../../ai/resources/mintlify-github.md)
@@ -68,6 +63,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`golf-mcp-golf.md`](../../ai/agents/golf-mcp-golf.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
+- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sonarsource-sonarqube-mcp-server.md`](../../ai/agents/sonarsource-sonarqube-mcp-server.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-09 08:20 IST*
+*Last updated: 2026-08-09 10:28 IST*

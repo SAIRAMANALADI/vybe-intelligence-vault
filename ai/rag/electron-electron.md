@@ -4,23 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/electron
-collected_at: '2026-08-09T08:09:12.853539+05:30'
-published_at: '2026-08-09T02:30:43Z'
+collected_at: '2026-08-09T10:21:36.092660+05:30'
+published_at: '2026-08-09T03:59:12Z'
 tags:
 - c++
 - github-repo
+- hackernews
 - rag
-stars: 122400
+stars: 122401
 language: C++
 status: active
 license: MIT
 archived: false
 created_at: '2013-04-12T01:47:36Z'
-pushed_at: '2026-08-09T02:38:09Z'
+pushed_at: '2026-08-09T04:39:55Z'
 resource_id: github:electron/electron
-first_seen: '2026-08-09T08:09:12.853539+05:30'
-last_seen: '2026-08-09T08:09:12.853539+05:30'
-last_checked: '2026-08-09T08:09:12.853539+05:30'
+first_seen: '2026-08-09T10:21:36.092660+05:30'
+last_seen: '2026-08-09T10:21:36.092660+05:30'
+last_checked: '2026-08-09T10:21:36.092660+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like apps using HTML, CSS, and JavaScript.
-- **Core architecture** combines a C++ runtime with a multi-process model (BrowserWindow, main/renderer processes) to ensure performance, security, and IPC (Inter-Process Communication) via Electron’s `ipcRenderer`/`ipcMain`.
-- **Extensible ecosystem** supports native modules, Chromium’s Blink engine, and integrates with tools like `electron-builder` for packaging across Windows, macOS, and Linux.
+- **Cross-platform desktop app framework**: Electron enables development of native desktop applications using web technologies (JavaScript, HTML, CSS) via Chromium for rendering and Node.js for backend integration.
+
+- **Core architecture**: Built on Chromium (V8 engine) and Node.js, Electron combines a multi-process model (main/renderer processes) with IPC (Inter-Process Communication) for secure, efficient desktop app execution.
+
+- **Key dependencies**: Leverages V8 (JS engine), libuv (async I/O), and Blink (rendering engine) to deliver performance, while supporting native OS APIs through C++ bindings.
 
 ## Why It Matters
 
@@ -39,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: electron
-- Stars: 122400
+- Stars: 122401
 - Forks: 17392
 - Language: C++
 - Topics: c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces
-- Last Updated: 2026-08-09T02:30:43Z
+- Last Updated: 2026-08-09T03:59:12Z
 - License: MIT
 - Archived: No
 - Created At: 2013-04-12T01:47:36Z
-- Pushed At: 2026-08-09T02:38:09Z
+- Pushed At: 2026-08-09T04:39:55Z
 
 ## Possible Use Cases
 

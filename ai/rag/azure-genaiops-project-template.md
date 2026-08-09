@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-09T08:04:05.817512+05:30'
+collected_at: '2026-08-09T10:12:28.849017+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-09T08:04:05.817512+05:30'
-last_seen: '2026-08-09T08:04:05.817512+05:30'
-last_checked: '2026-08-09T08:04:05.817512+05:30'
+first_seen: '2026-08-09T10:12:28.849017+05:30'
+last_seen: '2026-08-09T10:12:28.849017+05:30'
+last_checked: '2026-08-09T10:12:28.849017+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC Template**: Infrastructure-as-Code (IaC) template for deploying Azure resources, leveraging Bicep for declarative provisioning of GenAI Ops components (e.g., RAG pipelines, compute, storage).
+- **Infrastructure-as-Code (IaC) Template**: Uses Bicep for deploying Azure resources required for a Generative AI Operations (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline, enabling reproducible and scalable cloud deployments.
 
-- **RAG Pipeline Integration**: Pre-configured Retrieval-Augmented Generation (RAG) workflows with Azure services (e.g., Azure Cognitive Search, OpenAI) for production-grade GenAI applications.
+- **RAG Pipeline Integration**: Provides a structured template for implementing RAG workflows, including components for document retrieval, vector databases, and LLM inference orchestration within Azure.
 
-- **Ops-Ready Features**: Includes CI/CD (GitHub Actions), monitoring (Azure Monitor), and security (RBAC) blueprints for scalable GenAI Ops deployments.
+- **CI/CD & Ops Readiness**: Designed for GenAIOps practices, supporting MLOps/CI-CD pipelines for continuous deployment, monitoring, and lifecycle management of AI-driven applications.
 
 ## Why It Matters
 

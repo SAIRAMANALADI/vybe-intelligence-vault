@@ -1,12 +1,12 @@
 ---
 title: Milvus | High-Performance Vector Database Built for Scale
-archive_category: vector-databases
+archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://milvus.io
 resource_id: blog:milvus-high-performance-vector-database-built-for
 local_vault_path: ai/rag/milvus-high-performance-vector-database-built-for.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -27,8 +27,8 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -36,15 +36,17 @@ selection_reason:
 
 ## Summary
 
-- **Scalability**: Milvus supports elastic scaling to handle tens of billions of vectors via a fully distributed architecture, ensuring minimal performance degradation at scale.
-- **Performance**: Implements a Global Index for high-speed, accurate similarity searches regardless of dataset size, optimized for GenAI workloads.
-- **Deployment Flexibility**: Offers multiple deployment models (Milvus Lite, Standalone, Distributed, and Zilliz Cloud) with seamless integration into AI pipelines via libr
+- **Lake-Native Architecture**: Milvus 3.0 introduces a lake-native design with S3-based storage, decoupling compute and storage for horizontal scalability and cost-efficient handling of tens of billions of vectors.
+
+- **Enhanced Retrieval Engine**: The updated retrieval engine improves query performance via optimized indexing (e.g., Global Index) and supports advanced features like hybrid search, metadata filtering, and multi-vector retrieval.
+
+- **Multi-Modal Deployment Options**: Supports lig
 
 ## Use Cases
 
-- Semantic search store
-- Document embedding indices
-- Memory vector caches
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 

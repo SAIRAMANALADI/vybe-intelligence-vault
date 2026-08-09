@@ -3,9 +3,9 @@ title: GitHub Copilot app · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/features/ai/github-app?utm_source=blog-header-button-cta&utm_medium=blog&utm_campaign=github-app-cli-Q1-push
-published_at: '2026-08-08T21:24:54.740675+05:30'
-collected_at: '2026-08-08T21:24:54.740687+05:30'
+source_url: https://github.com/features/ai/github-app
+published_at: '2026-08-09T10:18:46.898861+05:30'
+collected_at: '2026-08-09T10:18:46.898867+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-08T21:24:54.740687+05:30'
-last_seen: '2026-08-08T21:24:54.740687+05:30'
-last_checked: '2026-08-08T21:24:54.740687+05:30'
+first_seen: '2026-08-09T10:18:46.898867+05:30'
+last_seen: '2026-08-09T10:18:46.898867+05:30'
+last_checked: '2026-08-09T10:18:46.898867+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,13 @@ health_score: 100
 
 ## Summary
 
-- **Native Agent-Driven Development**: GitHub Copilot app integrates agent-driven workflows directly into GitHub, supporting macOS, Windows, and Linux, with sessions isolated per task (issues/PRs/prompts) and built-in validation (diffs, in-app browser, terminal checks, PR merging).
-
-- **Design & Automation Features**: Includes open-source **Impeccable** design skill (23 commands like `/critique`, `/polish`) for design system adherence, plus automated workflows (e.g., scheduled issue triage) and extensibility via MCP servers, plugins, and custom skills.
-
-- **Multi-Tier Pricing Model**: Free tier (2K completions/month), **Pro** ($10/user) for unlimited completions/3rd-party agents, **Pro+** ($39) for premium models (Opus) and audit logs, and **Max** ($100) for high-volume workflows with priority access and 2.9x+ usage vs. Pro+.
+- **Native Agent-Driven Development**: GitHub Copilot app integrates agent workflows directly into GitHub, supporting macOS, Windows, and Linux, with sessions isolated per task (issues/PRs/prompts) and built-in validation (diffs, in-app previews, terminal checks, PR merges).
+- **Design & Customization**: Includes open-source **Impeccable** design skill (23 commands like `/critique`, `/polish`) with system-level design context retention; supports MCP servers, custom skills, and external data via local/HTTP configs for extensibility.
+- **Pricing Tiers**:
+  - **Free**: 2K completions/month.
+  - **Pro ($10)**: Unlimited completions, Cloud agent, 3rd-party agents (Claude Code/Codex), $15 credits.
+  - **Pro+ ($39)**: Premium models (e.g., Opus), audit logs, $70 credits.
+  - **Max ($100)**: Priority access, 2.9x Pro+ usage, $200 credits.
 
 ## Why It Matters
 
@@ -39,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-08T21:24:54.740675+05:30
+- Published: 2026-08-09T10:18:46.898861+05:30
 
 ## Related Tags
 
@@ -52,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/features/ai/github-app?utm_source=blog-header-button-cta&utm_medium=blog&utm_campaign=github-app-cli-Q1-push
+Original source: https://github.com/features/ai/github-app

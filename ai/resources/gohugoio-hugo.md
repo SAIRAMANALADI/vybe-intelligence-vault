@@ -1,28 +1,30 @@
 ---
-title: Sign in to GitHub · GitHub
+title: Release v0.164.0 · gohugoio/hugo · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/gohugoio/hugo/issues/new
-published_at: '2026-08-09T08:12:05.855486+05:30'
-collected_at: '2026-08-09T08:12:05.855500+05:30'
+source_url: https://github.com/gohugoio/hugo/releases/tag/v0.164.0
+published_at: '2026-08-09T10:17:21.253416+05:30'
+collected_at: '2026-08-09T10:17:21.253426+05:30'
 tags:
+- frontend_ui
+- reddit
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-08-09T08:12:05.855500+05:30'
-last_seen: '2026-08-09T08:12:05.855500+05:30'
-last_checked: '2026-08-09T08:12:05.855500+05:30'
+first_seen: '2026-08-09T10:17:21.253426+05:30'
+last_seen: '2026-08-09T10:17:21.253426+05:30'
+last_checked: '2026-08-09T10:17:21.253426+05:30'
 health_score: 100
 ---
 
-# Sign in to GitHub · GitHub
+# Release v0.164.0 · gohugoio/hugo · GitHub
 
 ## Summary
 
-- **Authentication Error**: The GitHub login page encountered an error while loading, requiring a manual page reload.
-- **Account Creation Option**: Users without an account can create one via the provided signup link.
-- **Passkey Support**: GitHub offers passkey-based authentication as an alternative login method.
+- **Syntax Highlighting & Template Enhancements**: Introduced dark/light mode pairs for Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and RST syntax highlighting support via `markup.rst.syntaxHighlight`.
+- **Performance & Compatibility Fixes**: Addressed a performance regression from v0.128.0, added Pandoc citation support, and improved template name lookup case-insensitivity.
+- **Deprecations & Dependency Updates**: Deprecated `resources.PostProcess` in favor of `templates.Defer`, updated Go dependencies (e.g., `golang.org/x/tools` v0.45.0→v0.47.0), and added Chroma dark/light mode support.
 
 ## Why It Matters
 
@@ -32,12 +34,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T08:12:05.855486+05:30
+- Published: 2026-08-09T10:17:21.253416+05:30
 
 ## Related Tags
 
+- frontend_ui
+- reddit
 - web-crawled
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugo/issues/new
+Original source: https://github.com/gohugoio/hugo/releases/tag/v0.164.0

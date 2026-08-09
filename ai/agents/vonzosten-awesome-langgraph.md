@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vonzosten/awesome-LangGraph
-collected_at: '2026-08-09T08:07:25.925359+05:30'
+collected_at: '2026-08-09T10:15:49.014268+05:30'
 published_at: '2026-08-08T15:30:03Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-11-02T15:54:00Z'
 pushed_at: '2026-07-10T12:16:13Z'
 resource_id: github:vonzosten/awesome-langgraph
-first_seen: '2026-08-09T08:07:25.925359+05:30'
-last_seen: '2026-08-09T08:07:25.925359+05:30'
-last_checked: '2026-08-09T08:07:25.925359+05:30'
+first_seen: '2026-08-09T10:15:49.014268+05:30'
+last_seen: '2026-08-09T10:15:49.014268+05:30'
+last_checked: '2026-08-09T10:15:49.014268+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Ecosystem Index**: A structured repository of tools, templates, and guides for building LLM and multi-agent applications using **LangChain** and **LangGraph**, covering concepts, projects, and best practices.
-- **Technical Scope**: Focuses on **JavaScript**-based implementations, with emphasis on **LLM agents**, workflow orchestration, and integration patterns within the LangGraph ecosystem.
-- **Community & Maintenance**: Actively maintained (last updated **2026-08-08**), with **1,949 stars** and **251 forks**, reflecting a growing developer interest in multi-agent LLM architectures.
+- **Curated Ecosystem Index**: A structured repository aggregating LangChain and LangGraph resources, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
+- **Technical Breadth**: Encompasses JavaScript-based implementations and covers advanced topics like LLM orchestration, agent workflows, and ecosystem integration within the LangGraph framework.
+- **Community-Driven Maintenance**: Actively updated (last commit: 2026-08-08) with 1,949 stars and 251 forks, reflecting ongoing contributions and relevance in the AI/agent development space.
 
 ## Why It Matters
 

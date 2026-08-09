@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PrimeIntellect-ai/prime-agent
-collected_at: '2026-08-09T03:24:06.118152+05:30'
-published_at: '2026-08-08T21:53:29Z'
+collected_at: '2026-08-09T10:15:39.019787+05:30'
+published_at: '2026-08-09T04:45:18Z'
 tags:
 - agents
 - github-repo
 - typescript
 - workflows
-stars: 8695
+stars: 9238
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-05-08T01:42:41Z'
-pushed_at: '2026-08-08T04:54:12Z'
+pushed_at: '2026-08-09T01:55:56Z'
 resource_id: github:primeintellect-ai/prime-agent
-first_seen: '2026-08-09T03:24:06.118152+05:30'
-last_seen: '2026-08-09T03:24:06.118152+05:30'
-last_checked: '2026-08-09T03:24:06.118152+05:30'
+first_seen: '2026-08-09T10:15:39.019787+05:30'
+last_seen: '2026-08-09T10:15:39.019787+05:30'
+last_checked: '2026-08-09T10:15:39.019787+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Self-Improving RLM Agent**: A TypeScript-based autonomous agent designed for coding workflows and long-running tasks, with built-in self-improvement capabilities.
-- **Repository Metrics**: 8,695 stars, 787 forks, last updated on 2026-08-08.
-- **Tech Stack**: Implemented in TypeScript, optimized for autonomous task execution and iterative enhancement.
+- **Self-Improving RLM Agent**: Implements a TypeScript-based autonomous agent framework designed for coding workflows and long-running tasks with continuous self-improvement capabilities.
+- **Repository Metrics**: High engagement with 9,238 stars and 891 forks, indicating strong community interest and adoption potential.
+- **Last Updated**: Actively maintained as of August 9, 2026, with the latest commit timestamped at 04:45:18 UTC.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PrimeIntellect-ai
-- Stars: 8695
-- Forks: 787
+- Stars: 9238
+- Forks: 891
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-08T21:53:29Z
+- Last Updated: 2026-08-09T04:45:18Z
 - License: MIT
 - Archived: No
 - Created At: 2026-05-08T01:42:41Z
-- Pushed At: 2026-08-08T04:54:12Z
+- Pushed At: 2026-08-09T01:55:56Z
 
 ## Possible Use Cases
 

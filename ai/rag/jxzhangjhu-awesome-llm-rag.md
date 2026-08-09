@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-09T08:04:40.777514+05:30'
+collected_at: '2026-08-09T10:13:03.793482+05:30'
 published_at: '2026-08-07T05:37:10Z'
 tags:
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 1340
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-09T08:04:40.777514+05:30'
-last_seen: '2026-08-09T08:04:40.777514+05:30'
-last_checked: '2026-08-09T08:04:40.777514+05:30'
+first_seen: '2026-08-09T10:13:03.793482+05:30'
+last_seen: '2026-08-09T10:13:03.793482+05:30'
+last_checked: '2026-08-09T10:13:03.793482+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A structured compilation of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and tools for **Large Language Models (LLMs)**, focusing on retrieval mechanisms, embeddings, and integration strategies.
+- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and research papers for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
 
-- **Technical Scope**: Covers **embedding models**, **retrieval optimization**, and **LLM augmentation** methods, including hybrid retrieval, multi-modal RAG, and domain-specific adaptations.
+- **Technical Focus**: Includes resources on RAG-specific embeddings, retrieval-information optimization, and hybrid approaches combining LLMs with external knowledge bases for enhanced factual accuracy and context-aware generation.
 
-- **Dynamic Updates**: Actively maintained with recent advancements (last updated **2026-08-07**), ensuring relevance for cutting-edge RAG research and deployment.
+- **Active Maintenance**: Repository is actively updated (last commit: 2026-08-07) with 1,340+ stars and 92 forks, reflecting ongoing community contributions and evolving RAG methodologies.
 
 ## Why It Matters
 

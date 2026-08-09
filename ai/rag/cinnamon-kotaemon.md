@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-09T08:04:10.793616+05:30'
-published_at: '2026-08-08T23:50:04Z'
+collected_at: '2026-08-09T10:12:33.914797+05:30'
+published_at: '2026-08-09T04:27:22Z'
 tags:
 - github-repo
 - python
 - rag
-- reddit
-stars: 25693
+stars: 25692
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-09T08:04:10.793616+05:30'
-last_seen: '2026-08-09T08:04:10.793616+05:30'
-last_checked: '2026-08-09T08:04:10.793616+05:30'
+first_seen: '2026-08-09T10:12:33.914797+05:30'
+last_seen: '2026-08-09T10:12:33.914797+05:30'
+last_checked: '2026-08-09T10:12:33.914797+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual chat with uploaded documents, leveraging LLMs for dynamic responses.
-- **Python Framework**: Built in Python with modular architecture, supporting extensibility for custom document parsers, embedders, and LLMs.
-- **Open-Source & Scalable**: Released under an open-source license, optimized for deployment with Docker/Kubernetes, and integrates with vector databases (e.g., FAISS, Chroma) for efficient retrieval.
+*   Open-source Python framework implementing Retrieval-Augmented Generation (RAG) for document-based conversational AI.
+*   Leverages Large Language Models (LLMs) to enable interactive querying and synthesis of information from user documents.
+*   Functions as a chatbot application focused on enhanced information retrieval and user engagement with proprietary data.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Cinnamon
-- Stars: 25693
+- Stars: 25692
 - Forks: 2138
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-08-08T23:50:04Z
+- Last Updated: 2026-08-09T04:27:22Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

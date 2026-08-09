@@ -4,13 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Pocket/PocketFlow-Template-Python
-collected_at: '2026-08-09T08:07:20.966951+05:30'
+collected_at: '2026-08-09T10:15:43.975174+05:30'
 published_at: '2026-07-31T19:50:50Z'
 tags:
 - agents
-- anthropic
 - github-repo
-- openai
 - python
 - workflows
 stars: 394
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-02-18T04:15:32Z'
 pushed_at: '2025-08-04T00:27:57Z'
 resource_id: github:the-pocket/pocketflow-template-python
-first_seen: '2026-08-09T08:07:20.966951+05:30'
-last_seen: '2026-08-09T08:07:20.966951+05:30'
-last_checked: '2026-08-09T08:07:20.966951+05:30'
+first_seen: '2026-08-09T10:15:43.975174+05:30'
+last_seen: '2026-08-09T10:15:43.975174+05:30'
+last_checked: '2026-08-09T10:15:43.975174+05:30'
 health_score: 100
 ---
 
@@ -31,8 +29,10 @@ health_score: 100
 ## Summary
 
 - **Agentic Coding Framework**: Python-based template for autonomous AI-driven code generation, modification, and optimization using agentic workflows.
-- **Project Structure**: Pre-configured modular architecture with standardized directories (e.g., `agents/`, `tasks/`, `configs/`) for scalable agentic coding pipelines.
-- **Integration-Ready**: Supports LLM APIs (e.g., OpenAI, Anthropic) and tooling (e.g., Git, Docker) for end-to-end agentic development workflows.
+
+- **Project Structure**: Pre-configured modular architecture with standardized directories for agents, tools, configurations, and outputs to streamline agentic development.
+
+- **Integration-Ready**: Supports seamless integration with LLM APIs, version control systems, and CI/CD pipelines for scalable agentic coding workflows.
 
 ## Why It Matters
 

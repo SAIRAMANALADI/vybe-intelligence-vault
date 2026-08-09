@@ -4,10 +4,9 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huggingface/hub-docs
-collected_at: '2026-08-09T03:26:19.219707+05:30'
-published_at: '2026-08-08T03:34:15Z'
+collected_at: '2026-08-09T10:21:01.612974+05:30'
+published_at: '2026-08-09T03:36:32Z'
 tags:
-- dataset
 - github-repo
 - hackernews
 - handlebars
@@ -17,11 +16,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2022-03-16T13:26:14Z'
-pushed_at: '2026-08-08T03:34:12Z'
+pushed_at: '2026-08-09T03:36:29Z'
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-08-09T03:26:19.219707+05:30'
-last_seen: '2026-08-09T03:26:19.219707+05:30'
-last_checked: '2026-08-09T03:26:19.219707+05:30'
+first_seen: '2026-08-09T10:21:01.612974+05:30'
+last_seen: '2026-08-09T10:21:01.612974+05:30'
+last_checked: '2026-08-09T10:21:01.612974+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Official documentation for the Hugging Face Hub, written in Handlebars, covering model hosting, dataset management, and inference APIs.
-- **Metadata**: 582 stars, 480 forks, last updated 2026-08-08, with topics including `hacktoberfest` and `machine-learning`.
-- **Purpose**: Serves as a technical reference for integrating with or contributing to the Hugging Face Hub ecosystem.
+- **Purpose**: Documentation repository for the Hugging Face Hub, providing technical guides and references for integration and usage.
+- **Technical Stack**: Utilizes Handlebars for templating, supporting dynamic content generation for ML-related resources.
+- **Metadata**: Updated as of August 9, 2026, with 582 stars and 480 forks, indicating active community engagement in machine learning tooling.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 480
 - Language: Handlebars
 - Topics: hacktoberfest, machine-learning
-- Last Updated: 2026-08-08T03:34:15Z
+- Last Updated: 2026-08-09T03:36:32Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2022-03-16T13:26:14Z
-- Pushed At: 2026-08-08T03:34:12Z
+- Pushed At: 2026-08-09T03:36:29Z
 
 ## Possible Use Cases
 

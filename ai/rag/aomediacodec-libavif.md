@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aomediacodec/libavif
-collected_at: '2026-08-08T18:54:31.801340+05:30'
+collected_at: '2026-08-09T10:19:38.276522+05:30'
 published_at: '2026-08-08T01:41:18Z'
 tags:
 - c
 - github-repo
 - rag
+- reddit
 stars: 2153
 language: C
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2019-06-10T17:54:32Z'
 pushed_at: '2026-08-07T15:32:58Z'
 resource_id: github:aomediacodec/libavif
-first_seen: '2026-08-08T18:54:31.801340+05:30'
-last_seen: '2026-08-08T18:54:31.801340+05:30'
-last_checked: '2026-08-08T18:54:31.801340+05:30'
+first_seen: '2026-08-09T10:19:38.276522+05:30'
+last_seen: '2026-08-09T10:19:38.276522+05:30'
+last_checked: '2026-08-09T10:19:38.276522+05:30'
 health_score: 100
 ---
 
@@ -29,8 +30,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: C-based library for encoding and decoding AVIF (AV1 Image File Format) files, leveraging the AV1 codec for high-efficiency compression.
-- **Key Features**: Supports both lossy and lossless encoding/decoding, with integration of libaom (AOMedia's AV1 codec) and optional support for other AV1 encoders/decoders.
-- **Compatibility**: Designed for cross-platform use, with dependencies on libaom, libavif, and other standard C libraries for image processing.
+- **Features**: Supports both lossy and lossless encoding/decoding, with integration for libaom (AOMedia AV1 encoder/decoder) and other AV1-compatible backends.
+- **Dependencies**: Requires libaom or alternative AV1 implementations (e.g., dav1d) for core functionality; minimal external dependencies for portability.
 
 ## Why It Matters
 

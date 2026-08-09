@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-09T08:04:35.810794+05:30'
+collected_at: '2026-08-09T10:12:58.799008+05:30'
 published_at: '2026-08-09T00:54:37Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
 stars: 189
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-07T20:01:09Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-09T08:04:35.810794+05:30'
-last_seen: '2026-08-09T08:04:35.810794+05:30'
-last_checked: '2026-08-09T08:04:35.810794+05:30'
+first_seen: '2026-08-09T10:12:58.799008+05:30'
+last_seen: '2026-08-09T10:12:58.799008+05:30'
+last_checked: '2026-08-09T10:12:58.799008+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Repository provides a structured list of production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, covering LLMs, vector databases, and MLOps pipelines.
-
-- **Technical Scope**: Focuses on battle-tested solutions in Python, including LangChain, embeddings, and vector DBs, with emphasis on LLMops, generative AI, and AI engineering workflows.
-
-- **Community & Updates**: Maintained repository with 189 stars, 48 forks, and last updated in August 2026, ensuring relevance for cutting-edge RAG deployments.
+- **Curated Resources**: A GitHub repository (`Yigtwxx/awesome-rag-production`) listing production-grade RAG tools, frameworks, and best practices for scalable, enterprise-level deployment.
+- **Technical Scope**: Focuses on Python-based implementations, covering LLMOps, embeddings, vector databases, and integration with frameworks like LangChain for RAG pipelines.
+- **Community & Updates**: Maintained repository with 189 stars, 48 forks, and last updated in August 2026, emphasizing AI/ML engineering and generative AI tooling.
 
 ## Why It Matters
 

@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Supports curation, annotation, and versioning of multimodal datasets (vision, audio, LLM) with lineage tracking, CI/CD/CT integration, and interactive pipelines.
-- **Scalable Experiment Tracking & Model Registry**: Enables unlimited public/private repositories, experiment tracking (MLflow-compatible), model versioning, and deployment with RBAC controls (Team/Enterprise tiers).
-- **Enterprise-Grade Deployment**: Offers petabyte-scale storage, VPC/air-gapp
+- **Unified AI Data & Model Management**: Supports versioning, lineage tracking, and annotation for multimodal datasets (vision, audio, LLM) with petabyte-scale storage, CI/CD/CT integration, and interactive pipelines.
+
+- **Experiment Tracking & Model Registry**: Enables MLflow-compatible experiment tracking, model versioning, and deployment with full lineage from data to model, including RBAC and team collaboration features.
+
+- **Enterprise-Grade Deployment**: Offers on-prem, air-gapped, or clo
 
 ## Use Cases
 

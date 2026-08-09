@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-09T08:05:20.840550+05:30'
+collected_at: '2026-08-09T10:13:43.900957+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-09T08:05:20.840550+05:30'
-last_seen: '2026-08-09T08:05:20.840550+05:30'
-last_checked: '2026-08-09T08:05:20.840550+05:30'
+first_seen: '2026-08-09T10:13:43.900957+05:30'
+last_seen: '2026-08-09T10:13:43.900957+05:30'
+last_checked: '2026-08-09T10:13:43.900957+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) with multi-level retrieval (semantic aggregation + hierarchical KG traversal) to enhance contextual relevance in generation tasks.
+- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, enhancing contextual relevance in generation tasks.
 
-- **Efficiency Optimizations**: Designed for AAAI 2026, emphasizing lightweight architecture (Python-based) with reduced computational overhead via pruned retrieval paths and adaptive aggregation strategies.
+- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval mechanism to dynamically extract and prioritize information from knowledge graphs, optimizing both precision and recall.
 
-- **Dynamic Knowledge Integration**: Supports real-time updates to the knowledge graph, enabling scalable and context-aware generation while maintaining low-latency inference.
+- **Efficiency Optimization**: Designed for AAAI 2026, the framework (LeanRAG) emphasizes lightweight, scalable architecture in Python to balance computational cost with performance in RAG systems.
 
 ## Why It Matters
 

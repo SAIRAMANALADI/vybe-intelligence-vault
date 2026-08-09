@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-08-09T08:07:15.908271+05:30'
+collected_at: '2026-08-09T10:15:38.975380+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-08-09T08:07:15.908271+05:30'
-last_seen: '2026-08-09T08:07:15.908271+05:30'
-last_checked: '2026-08-09T08:07:15.908271+05:30'
+first_seen: '2026-08-09T10:15:38.975380+05:30'
+last_seen: '2026-08-09T10:15:38.975380+05:30'
+last_checked: '2026-08-09T10:15:38.975380+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a pre-structured folder layout, reproducible environment specifications, and documentation templates to streamline Agentic AI App Hackathon submissions and judging.
+- **Standardized Framework**: Provides a pre-structured repository template with predefined folders, environment specifications, and documentation templates to ensure consistency across hackathon submissions.
 
-- **Reproducible Environment**: Includes environment spec files (e.g., `requirements.txt`, `environment.yml`, or Dockerfile) to ensure consistent setup across teams and judging environments.
+- **Reproducible Environment**: Includes a reproducible setup (e.g., `requirements.txt`, `Dockerfile`, or `conda.yml`) to ensure consistent execution and judging of agentic AI applications.
 
-- **Placeholder Documentation**: Contains structured placeholders for key documentation (e.g., `README.md`, `setup.md`, `evaluation_criteria.md`) to guide teams in organizing their submissions.
+- **Judging Optimization**: Designed to streamline submission and evaluation processes with placeholders for key documentation (e.g., `README.md`, `eval_metrics.json`) to facilitate automated or manual judging.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-09T08:03:35.777987+05:30'
+collected_at: '2026-08-09T10:11:58.920800+05:30'
 published_at: '2026-08-06T20:35:40Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-09T08:03:35.777987+05:30'
-last_seen: '2026-08-09T08:03:35.777987+05:30'
-last_checked: '2026-08-09T08:03:35.777987+05:30'
+first_seen: '2026-08-09T10:11:58.920800+05:30'
+last_seen: '2026-08-09T10:11:58.920800+05:30'
+last_checked: '2026-08-09T10:11:58.920800+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and categorizing hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Composition**: Contains structured hallucination annotations (e.g., factual inaccuracies, unsupported claims) paired with retrieval contexts, enabling fine-grained analysis of RAG model failures in real-world scenarios.
+- **Technical Composition**: Contains Python-based tools for generating, annotating, and benchmarking hallucinations in RAG systems, leveraging synthetic and real-world data to simulate retrieval errors and model confabulations.
 
-- **Implementation**: Provides Python-based tools for dataset construction, evaluation metrics, and baseline model training, facilitating reproducibility and benchmarking against hallucination mitigation techniques.
+- **Evaluation Framework**: Provides metrics and methodologies for assessing hallucination rates, enabling developers to fine-tune RAG pipelines for factual consistency and reliability in downstream tasks.
 
 ## Why It Matters
 

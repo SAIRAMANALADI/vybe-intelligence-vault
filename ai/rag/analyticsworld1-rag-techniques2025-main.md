@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/analyticsworld1/RAG_Techniques2025-main
-collected_at: '2026-08-09T08:03:45.741717+05:30'
+collected_at: '2026-08-09T10:12:08.778142+05:30'
 published_at: '2025-04-21T16:40:43Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-28T02:16:34Z'
 pushed_at: '2025-04-21T16:40:39Z'
 resource_id: github:analyticsworld1/rag_techniques2025-main
-first_seen: '2026-08-09T08:03:45.741717+05:30'
-last_seen: '2026-08-09T08:03:45.741717+05:30'
-last_checked: '2026-08-09T08:03:45.741717+05:30'
+first_seen: '2026-08-09T10:12:08.778142+05:30'
+last_seen: '2026-08-09T10:12:08.778142+05:30'
+last_checked: '2026-08-09T10:12:08.778142+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Single-starred, zero-fork Jupyter Notebook repository focused on Gen AI RAG techniques, last updated April 21, 2025.
-- **Technical Stack**: Implemented entirely in Jupyter Notebook format, with no additional metadata or documentation.
-- **Access**: Publicly available at `https://github.com/analyticsworld1/RAG_Techniques2025-main`.
+- **Repository Overview**: Single-starred Jupyter Notebook repository focused on Gen AI and RAG techniques, last updated April 21, 2025.
+- **Technical Stack**: Entirely notebook-based (Jupyter), with no additional metadata or documentation beyond the code.
+- **Accessibility**: Minimal public engagement (0 forks), hosted on GitHub with no associated topics or descriptive tags.
 
 ## Why It Matters
 

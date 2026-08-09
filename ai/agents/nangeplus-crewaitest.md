@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-09T08:07:55.968515+05:30'
+collected_at: '2026-08-09T10:16:19.167059+05:30'
 published_at: '2026-08-08T06:56:45Z'
 tags:
 - agents
 - github-repo
 - meta-ai
 - models
-- openai
 - python
 stars: 356
 language: Python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-09T08:07:55.968515+05:30'
-last_seen: '2026-08-09T08:07:55.968515+05:30'
-last_checked: '2026-08-09T08:07:55.968515+05:30'
+first_seen: '2026-08-09T10:16:19.167059+05:30'
+last_seen: '2026-08-09T10:16:19.167059+05:30'
+last_checked: '2026-08-09T10:16:19.167059+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 - **Multi-Agent System**: Implements a collaborative multi-agent framework using CrewAI, enabling task delegation and coordination among specialized agents.
 
-- **API Integration**: Exposes FastAPI endpoints to serve the multi-agent system, facilitating external interactions and model inference requests.
+- **API Service Layer**: Exposes agent interactions via FastAPI, providing RESTful endpoints for external integration and model inference.
 
-- **Model Support**: Compatible with multiple LLM backends, including OpenAI's GPT, domestic Chinese models, and local Ollama deployments.
+- **Model Agnostic Support**: Compatible with GPT, domestic LLMs (e.g., ERNIE, GLM), and local models via Ollama, with dynamic backend switching.
 
 ## Why It Matters
 

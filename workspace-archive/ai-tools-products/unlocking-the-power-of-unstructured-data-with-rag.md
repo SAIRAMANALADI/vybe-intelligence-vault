@@ -11,9 +11,9 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to GitHub Blog with a focus on developer tools and workflows.
+- **GitHub Actions Enhancements**: Nicole Choi contributes to GitHub's CI/CD pipeline improvements, focusing on workflow optimization and security hardening in GitHub Actions.
 
-- **GitHub Contributions**: Active contributor to GitHub’s documentation and community resources, specializing in clarifying complex technical concepts for developers.
+- **Open Source Advocacy**: Active in promoting open-source security best practices, including dependency management and vulnerability remediation in GitHub repositories.
 
-- **Social Presence**: Maintains a professional GitHub profile ([nicchoi29](https://github.com/nicchoi29)) and is a verified author on GitHub Blog.
+- **Developer Tooling**: Works on tooling for developers, such as improving GitHub's CLI (`gh`) and integrating security tools into developer workflows
 
 ## Use Cases
 

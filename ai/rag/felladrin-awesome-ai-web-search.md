@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-08-09T08:04:45.787401+05:30'
-published_at: '2026-08-07T13:18:27Z'
+collected_at: '2026-08-09T10:13:08.816209+05:30'
+published_at: '2026-08-09T02:59:49Z'
 tags:
 - github-repo
 - hackernews
 - html
 - rag
+- workflows
 stars: 1408
 language: HTML
 status: active
 license: CC0-1.0
 archived: false
 created_at: '2024-11-09T19:13:37Z'
-pushed_at: '2026-07-28T18:48:15Z'
+pushed_at: '2026-08-09T02:59:45Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-08-09T08:04:45.787401+05:30'
-last_seen: '2026-08-09T08:04:45.787401+05:30'
-last_checked: '2026-08-09T08:04:45.787401+05:30'
+first_seen: '2026-08-09T10:13:08.816209+05:30'
+last_seen: '2026-08-09T10:13:08.816209+05:30'
+last_checked: '2026-08-09T10:13:08.816209+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
-- **Covers generative AI projects** including inference-based search engines, AI assistants, and retrieval-augmented generation (RAG) implementations for web-scale queries.
-- **GitHub repository** (HTML-based) with 1,408 stars, last updated 2026-08-07, aggregating tools across AI search, metasearch, and generative AI domains.
+- **Curated List**: Repository hosting a comprehensive, community-maintained list of AI-powered web search tools, frameworks, and applications, categorized under topics like generative AI, RAG, and metasearch.
+
+- **Technical Scope**: Encompasses tools leveraging LLMs, RAG pipelines, and inference optimizations for enhanced web-based Q&A, information retrieval, and AI-driven search workflows.
+
+- **Resources**: Includes links to Hugging Face Spaces demo (`hf.co/spaces/felladrin/awesome-ai-web-search`) and GitHub repository (`github.com/felladrin/awesome-ai-web-search`), with 1.4K+ stars and 121 forks as of last update (2026-08-09).
 
 ## Why It Matters
 
@@ -44,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 121
 - Language: HTML
 - Topics: ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome, awesome-list, generative-ai, generative-ai-projects, generative-ai-tools, information-retrieval, llm-inference, metasearch, question-answering, rag, retrieval-augmented-generation, web-search
-- Last Updated: 2026-08-07T13:18:27Z
+- Last Updated: 2026-08-09T02:59:49Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-11-09T19:13:37Z
-- Pushed At: 2026-07-28T18:48:15Z
+- Pushed At: 2026-08-09T02:59:45Z
 
 ## Possible Use Cases
 

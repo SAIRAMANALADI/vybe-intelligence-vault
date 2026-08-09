@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Dataset Source**: CrUX is a public dataset of real-world Chrome user experience metrics, including all Core Web Vitals, collected from eligible Chrome browsers globally.
+- **Dataset Source**: CrUX is a public dataset from Google, derived from real Chrome browser usage worldwide, representing real-world user experiences for popular web destinations.
 
-- **Eligibility & Criteria**: Data is gathered only from publicly discoverable origins/pages with sufficient traffic to ensure statistical significance, excluding origins without enough visitors.
+- **Core Web Vitals Integration**: Contains all user-centric Core Web Vitals metrics (e.g., LCP, FID, CLS) to assess site performance and user experience.
 
-- **Applications**: CrUX data is used by Google Search for the page experience ranking factor and is accessible via Google tools
+- **Eligibility & Accessibility**: Data is collected based on strict eligibility criteria (e.g., public discoverability, sufficient traffic) and is publicly acces
 
 ## Use Cases
 

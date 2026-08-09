@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elder-plinius/T3MP3ST
-collected_at: '2026-08-09T08:06:40.893368+05:30'
-published_at: '2026-08-09T00:22:22Z'
+collected_at: '2026-08-09T10:15:03.954663+05:30'
+published_at: '2026-08-09T02:58:42Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 5483
+stars: 5484
 language: TypeScript
 status: active
 license: AGPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-02T17:53:55Z'
 pushed_at: '2026-08-02T21:17:28Z'
 resource_id: github:elder-plinius/t3mp3st
-first_seen: '2026-08-09T08:06:40.893368+05:30'
-last_seen: '2026-08-09T08:06:40.893368+05:30'
-last_checked: '2026-08-09T08:06:40.893368+05:30'
+first_seen: '2026-08-09T10:15:03.954663+05:30'
+last_seen: '2026-08-09T10:15:03.954663+05:30'
+last_checked: '2026-08-09T10:15:03.954663+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Red Teaming Platform**: Open-source TypeScript-based framework designed for autonomous offensive security operations, enabling multi-agent systems to simulate cyberattacks and assess vulnerabilities without manual intervention.
+- **Multi-Agent Offensive Security Framework**: TypeScript-based autonomous red teaming platform enabling coordinated multi-agent offensive operations for penetration testing and adversarial simulations.
 
-- **Multi-Agent Offensive-Security Meta-Harness**: Integrates specialized AI agents to dynamically coordinate attack vectors, adapt to target environments, and execute complex red teaming scenarios with minimal human oversight.
+- **Dynamic Meta-Harness Architecture**: Integrates modular agent systems with adaptive orchestration for real-time attack vector generation, privilege escalation, and lateral movement in simulated environments.
 
-- **Scalable & Extensible Architecture**: Supports modular agent interactions, real-time threat modeling, and customizable attack payloads, leveraging TypeScript for cross-platform compatibility and rapid iteration in security research.
+- **AI-Driven Attack Simulation**: Leverages AI models to autonomously refine attack strategies, bypass defenses, and emulate advanced persistent threats (APTs) with minimal human intervention.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: elder-plinius
-- Stars: 5483
-- Forks: 1140
+- Stars: 5484
+- Forks: 1142
 - Language: TypeScript
 - Topics: agents, ai, multi-agent, offensive-security, redteam
-- Last Updated: 2026-08-09T00:22:22Z
+- Last Updated: 2026-08-09T02:58:42Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-07-02T17:53:55Z

@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-09T08:06:40.910329+05:30'
+collected_at: '2026-08-09T10:15:03.951167+05:30'
 published_at: '2026-08-08T18:21:55Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
-- workflows
 stars: 2500
 language: Unknown
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-09T08:06:40.910329+05:30'
-last_seen: '2026-08-09T08:06:40.910329+05:30'
-last_checked: '2026-08-09T08:06:40.910329+05:30'
+first_seen: '2026-08-09T10:15:03.951167+05:30'
+last_seen: '2026-08-09T10:15:03.951167+05:30'
+last_checked: '2026-08-09T10:15:03.951167+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows, focusing on multi-agent collaboration and task decomposition.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding assistants, emphasizing multi-agent collaboration and task decomposition.
 
-- **Security Classification Framework**: Introduces a security taxonomy for agentic AI systems, categorizing risks (e.g., prompt injection, data leakage) and mitigation strategies in AI-assisted development environments.
+- **Security Classification**: Investigates security risks and mitigation strategies in agentic AI systems, including prompt injection, data leakage, and adversarial attacks, with a classification framework for threat modeling.
 
-- **System Prompt Optimization**: Documents techniques for crafting high-fidelity system prompts to enhance agent reliability, context retention, and adherence to user-defined constraints in coding tasks.
+- **System Prompts & Tools**: Analyzes system prompts for Claude and other agentic frameworks, optimizing for context retention, tool integration (e.g., code execution, API calls), and adaptive reasoning in dynamic environments.
 
 ## Why It Matters
 

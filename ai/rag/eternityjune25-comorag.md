@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-09T08:05:20.823030+05:30'
+collected_at: '2026-08-09T10:13:43.857157+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-09T08:05:20.823030+05:30'
-last_seen: '2026-08-09T08:05:20.823030+05:30'
-last_checked: '2026-08-09T08:05:20.823030+05:30'
+first_seen: '2026-08-09T10:13:43.857157+05:30'
+last_seen: '2026-08-09T10:13:43.857157+05:30'
+last_checked: '2026-08-09T10:13:43.857157+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) system inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
 
-- **Stateful Reasoning**: Implements dynamic memory retrieval and integration mechanisms to maintain context coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
 
-- **AAAI 2026 Contribution**: Proposes a novel RAG variant optimized for long-form reasoning tasks, validated through poster presentation at AAAI 2026.
+- **AAAI 2026 Poster Submission**: Presented as a novel approach for advanced RAG systems, emphasizing scalability and efficiency in handling complex, multi-turn reasoning tasks.
 
 ## Why It Matters
 

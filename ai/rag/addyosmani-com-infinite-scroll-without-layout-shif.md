@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/
-published_at: '2026-08-08T12:57:17.672508+05:30'
-collected_at: '2026-08-08T12:57:17.672521+05:30'
+published_at: '2026-08-09T10:21:21.012528+05:30'
+collected_at: '2026-08-09T10:21:21.012537+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:addyosmani-com-infinite-scroll-without-layout-shif
-first_seen: '2026-08-08T12:57:17.672521+05:30'
-last_seen: '2026-08-08T12:57:17.672521+05:30'
-last_checked: '2026-08-08T12:57:17.672521+05:30'
+first_seen: '2026-08-09T10:21:21.012537+05:30'
+last_seen: '2026-08-09T10:21:21.012537+05:30'
+last_checked: '2026-08-09T10:21:21.012537+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Layout shifts in infinite scroll** occur when dynamically loaded content pushes down existing elements (e.g., footers) or lacks reserved space for new items, violating [Cumulative Layout Shift (CLS)](https://web.dev/cls/) thresholds, especially if shifts persist beyond 500ms post-user interaction.
-
-- **Mitigation strategies** include reserving space via skeleton placeholders, prefetching content/images, or removing fixed footers; libraries like [react-window](https://github.com/bvaughn/react-window) optimize rendering by virtualizing only visible items, reducing layout instability.
-
-- **Accessibility and SEO trade-offs**: Infinite scroll complicates keyboard navigation, footer access, and URL-based navigation, while Googlebot requires explicit pagination support for SEO compliance; "Load More" patterns often balance engagement and usability better.
+- **Layout Shifts in Infinite Scroll**: Infinite scroll can cause Cumulative Layout Shift (CLS) by pushing page footers or dynamically loaded content down, violating Core Web Vitals thresholds if shifts occur >500ms post-user interaction.
+- **Space Reservation & Prefetching**: Mitigate CLS by reserving DOM space (e.g., skeleton placeholders) for dynamically loaded content and prefetching data/images to ensure content renders within the 500ms threshold.
+- **Virtualization & Accessibility Trade-offs**: Use list virtualization (e.g., `react-window`) to optimize rendering, but note that infinite scroll poses accessibility challenges (e.g., keyboard navigation, footer access) compared to "Load More" patterns.
 
 ## Why It Matters
 
@@ -39,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T12:57:17.672508+05:30
+- Published: 2026-08-09T10:21:21.012528+05:30
 
 ## Related Tags
 

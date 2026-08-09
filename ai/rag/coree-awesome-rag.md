@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-08-09T08:04:45.782070+05:30'
+collected_at: '2026-08-09T10:13:08.825668+05:30'
 published_at: '2026-08-09T00:02:58Z'
 tags:
+- benchmark
+- dataset
 - github-repo
-- hackernews
+- paper
 - rag
 - unknown
 stars: 432
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-08-09T08:04:45.782070+05:30'
-last_seen: '2026-08-09T08:04:45.782070+05:30'
-last_checked: '2026-08-09T08:04:45.782070+05:30'
+first_seen: '2026-08-09T10:13:08.825668+05:30'
+last_seen: '2026-08-09T10:13:08.825668+05:30'
+last_checked: '2026-08-09T10:13:08.825668+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Curated list of technical resources for Retrieval-Augmented Generation (RAG) within Large Language Models (LLMs).
-*   Encompasses key RAG components: embeddings, LLM integration, and various retrieval system architectures.
-*   Functions as a comprehensive hub for researchers and developers focused on RAG model development and optimization.
+- **Curated RAG resources**: Repository aggregates tools, papers, frameworks, and datasets for retrieval-augmented generation (RAG) in LLMs, including embeddings, retrieval systems, and model architectures.
+- **Multi-format collection**: Encompasses code repositories, research papers, tutorials, and benchmark datasets across domains like open-domain QA, conversational AI, and domain-specific RAG implementations.
+- **Active maintenance**: Last updated in 2026, indicating ongoing updates with contributions from the community, covering advancements in vector databases, hybrid retrieval methods, and evaluation metrics for RAG systems.
 
 ## Why It Matters
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-08-09T03:24:16.143808+05:30'
+collected_at: '2026-08-09T10:15:48.986183+05:30'
 published_at: '2026-07-23T22:24:29Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-08-09T03:24:16.143808+05:30'
-last_seen: '2026-08-09T03:24:16.143808+05:30'
-last_checked: '2026-08-09T03:24:16.143808+05:30'
+first_seen: '2026-08-09T10:15:48.986183+05:30'
+last_seen: '2026-08-09T10:15:48.986183+05:30'
+last_checked: '2026-08-09T10:15:48.986183+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI for backend, MCP (Model Context Protocol) for agentic orchestration, and LangGraph for workflow management, enabling scalable, modular agent systems.
-- **Observability & Storage**: Includes Prometheus/Grafana for monitoring, Langfuse for LLM evaluation/tracing, and Supabase/SQLModel for PostgreSQL-based data persistence.
-- **Deployment**: Pre-configured with Nginx for reverse proxy and supports containerized deployment (e.g., Docker) for rapid iteration and production-grade scalability.
+- **Architecture**: Template integrates **FastAPI** backend with **LangGraph** for agentic orchestration, **MCP** for model control protocol, and **SQLModel** for database interactions, enabling modular agent workflows.
+
+- **Observability & Scalability**: Pre-configured with **Prometheus** (metrics), **Grafana** (dashboards), **Langfuse** (tracing), and **Nginx** (load balancing) for production-grade monitoring and horizontal scaling.
+
+- **Data & Deployment**: Uses **Supabase** for PostgreSQL-based auth/storage, **Docker**-compatible for containerization, and includes CI/CD-ready structures for rapid iteration and scalable cloud deployment.
 
 ## Why It Matters
 

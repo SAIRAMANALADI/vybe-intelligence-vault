@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:timeline-of-the-openai-accidental-attack-against-h
 first_seen: '2026-08-08T18:45:51.228783+05:30'
 last_seen: '2026-08-09T08:02:56.952692+05:30'
 last_checked: '2026-08-09T08:02:56.952692+05:30'
 health_score: 100
 ---
+
 
 # Timeline of the OpenAI accidental attack against Hugging Face
 

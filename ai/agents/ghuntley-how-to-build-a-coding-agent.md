@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-08-09T08:05:40.846836+05:30'
+collected_at: '2026-08-09T10:14:03.849344+05:30'
 published_at: '2026-08-09T02:25:11Z'
 tags:
 - agents
 - github-repo
 - go
 - hackernews
-- workflows
 stars: 5795
 language: Go
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-08-08T07:30:53Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-08-09T08:05:40.846836+05:30'
-last_seen: '2026-08-09T08:05:40.846836+05:30'
-last_checked: '2026-08-09T08:05:40.846836+05:30'
+first_seen: '2026-08-09T10:14:03.849344+05:30'
+last_seen: '2026-08-09T10:14:03.849344+05:30'
+last_checked: '2026-08-09T10:14:03.849344+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Workshop guide for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering architecture, tooling, and AI integration.
-- **Key Components**: Focuses on **agent-based workflows**, **LLM interactions**, and **IDE/tooling integration** (e.g., Cursor, Windsurf) for autonomous coding tasks.
-- **Technical Stack**: Primarily **Go** with extensions for AI model APIs, CLI tools, and repository interaction (e.g., Git). Last updated **Aug 2026**.
+- **Purpose**: Workshop guide for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering AI integration and agent architecture.
+- **Key Components**: Focuses on **agent-based systems**, **AI tooling**, and **workshop-based learning** for autonomous code generation/editing.
+- **Technical Stack**: Primarily **Go**, with alignment to modern AI-driven development tools (e.g., LLM APIs, CLI interfaces).
 
 ## Why It Matters
 

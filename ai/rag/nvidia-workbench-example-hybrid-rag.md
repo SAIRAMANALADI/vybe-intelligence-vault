@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-09T08:04:20.845348+05:30'
+collected_at: '2026-08-09T10:12:43.852172+05:30'
 published_at: '2026-08-06T15:56:15Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-09T08:04:20.845348+05:30'
-last_seen: '2026-08-09T08:04:20.845348+05:30'
-last_checked: '2026-08-09T08:04:20.845348+05:30'
+first_seen: '2026-08-09T10:12:43.852172+05:30'
+last_seen: '2026-08-09T10:12:43.852172+05:30'
+last_checked: '2026-08-09T10:12:43.852172+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document search and generation in Python.
+- **Hybrid RAG Pipeline**: Demonstrates a hybrid Retrieval-Augmented Generation (RAG) system combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for improved document search and context augmentation in LLM responses.
 
-- **NVIDIA AI Workbench Integration**: Provides a reference architecture for deploying hybrid RAG workflows using NVIDIA's AI Workbench, leveraging GPU-accelerated components (e.g., FAISS, Triton Inference Server).
+- **NVIDIA AI Workbench Integration**: Provides a reference implementation for deploying hybrid RAG workflows using NVIDIA's AI Workbench, showcasing GPU-accelerated retrieval and generation with optimized inference pipelines.
 
-- **Modular Python Framework**: Includes reusable components for document preprocessing, retrieval, and LLM inference, with example configurations for local and cloud-based deployments.
+- **Modular Python Framework**: Implements a scalable Python-based architecture with components for document preprocessing, retrieval (FAISS/BM25), LLM inference (e.g., NVIDIA NeMo or vLLM), and evaluation metrics for hybrid RAG systems.
 
 ## Why It Matters
 

@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-08-09T08:04:25.927858+05:30'
+collected_at: '2026-08-09T10:12:48.892338+05:30'
 published_at: '2026-08-06T08:41:57Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 1485
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-08-04T15:11:21Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-08-09T08:04:25.927858+05:30'
-last_seen: '2026-08-09T08:04:25.927858+05:30'
-last_checked: '2026-08-09T08:04:25.927858+05:30'
+first_seen: '2026-08-09T10:12:48.892338+05:30'
+last_seen: '2026-08-09T10:12:48.892338+05:30'
+last_checked: '2026-08-09T10:12:48.892338+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) across use cases like generative AI, embeddings, RAG, and knowledge bases.
-- **Technical Stack**: Implemented primarily in Jupyter Notebooks, with integrations for LangChain and AWS services (e.g., Bedrock, Knowledge Base).
-- **Metadata**: 1,485 stars, 713 forks, last updated August 6, 2026. Topics include `amazon-bedrock`, `generative-ai`, `rag`, and `langchain`.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, covering core functionalities and use cases.
+
+- **Multi-Model & Tool Integration**: Includes examples for Amazon Titan, embeddings, LangChain integration, RAG (Retrieval-Augmented Generation), and knowledge base implementations.
+
+- **AWS Best Practices & Deployment**: Demonstrates AWS-native patterns for generative AI workflows, with structured samples for quick experimentation and production-ready implementations.
 
 ## Why It Matters
 
