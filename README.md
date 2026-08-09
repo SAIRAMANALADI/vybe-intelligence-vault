@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C241-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C043-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--09-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **169,241 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **101,043 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,597</p>
-        <p><b>Active:</b> 18,076 | <b>Inactive:</b> 521</p>
+        <p><b>Resources tracked:</b> 17,603</p>
+        <p><b>Active:</b> 17,082 | <b>Inactive:</b> 521</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 69,455</p>
+        <p><b>Archive Files:</b> 2,213</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 169,241 files</p>
-        <p><b>Last Update:</b> 2026-08-09 10:29 IST</p>
+        <p><b>Total Vault Size:</b> 101,043 files</p>
+        <p><b>Last Update:</b> 2026-08-09 12:30 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Fastmail offers EU data region](ai/community/fastmail-offers-eu-data-region.md)** • <kbd>+24 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[gradio-app/gradio](ai/resources/gradio-app-gradio.md)** • Rank: <kbd>+1371</kbd>
-- 🔼 **[LlamaIndex - YouTube](ai/rag/llamaindex-youtube.md)** • Rank: <kbd>+2853</kbd>
-- 🔼 **[UnoCSS: The instant on-demand Atomic CSS engine](ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md)** • Rank: <kbd>+4098</kbd>
-- 🔼 **[Overview of Parse | Developer Documentation](ai/resources/overview-of-parse-developer-documentation.md)** • Rank: <kbd>+1629</kbd>
+- 🔼 **[UnoCSS: The instant on-demand Atomic CSS engine](ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[deepset-ai/haystack · Discussions · GitHub](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[deepset-ai/haystack-cookbook](ai/rag/deepset-ai-haystack-cookbook.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[GitHub Shop](ai/rag/github-shop.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Open Source Friday | This Friday, invest a few hours contributing to the software you use and love.](ai/rag/open-source-friday-this-friday-invest-a-few-hours.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Melatonin impairs morning cognition in healthy young adults](ai/community/melatonin-impairs-morning-cognition-in-healthy-you.md)** • Score: `9`
-- 🆕 **[Spaces - Hugging Face](ai/rag/spaces-hugging-face.md)** • Score: `0`
-- 🆕 **[GitHub - tailwindlabs/tailwindcss-typography: Beautiful typographic defaults for HTML you don't control. · GitHub](web-development/tailwind/github-tailwindlabs-tailwindcss-typography-beautif.md)** • Score: `0`
-- 🆕 **[Getting started | Less.js](ai/resources/getting-started-less-js.md)** • Score: `0`
-- 🆕 **[Image & Video API, Agentic DAM, Creative Automation: Complete Visual Media Platform | ImageKit.io](ai/rag/image-video-api-agentic-dam-creative-automation-co.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Timeline of the OpenAI accidental attack against Hugging Face](ai/community/now-we-have-a-timeline-of-the-openai-accidental-at.md)**
-- 💤 **[TinySol, a tiny solitaire game for DOS](ai/community/tinysol-a-tiny-solitaire-game-for-dos.md)**
-- 💤 **[The AI Apocalypse Is Here](ai/community/the-ai-apocalypse-is-here.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
