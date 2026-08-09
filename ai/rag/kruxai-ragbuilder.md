@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-08-10T00:38:32.827698+05:30'
+collected_at: '2026-08-10T03:25:10.590357+05:30'
 published_at: '2026-08-07T17:04:40Z'
 tags:
+- benchmark
 - dataset
 - github-repo
-- models
 - python
 - rag
 - workflows
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-08-10T00:38:32.827698+05:30'
-last_seen: '2026-08-10T00:38:32.827698+05:30'
-last_checked: '2026-08-10T00:38:32.827698+05:30'
+first_seen: '2026-08-10T03:25:10.590357+05:30'
+last_seen: '2026-08-10T03:25:10.590357+05:30'
+last_checked: '2026-08-10T03:25:10.590357+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Toolkit**: Provides a Python-based framework for constructing production-ready Retrieval Augmented Generation (RAG) pipelines, optimizing data retrieval and generation workflows.
+- **RAG Optimization Toolkit**: Provides a Python-based framework for constructing production-ready Retrieval Augmented Generation (RAG) pipelines optimized for specific datasets.
 
-- **Modular Architecture**: Supports customizable components (e.g., embedders, retrievers, LLMs) for fine-tuning RAG performance across diverse datasets and use cases.
+- **Modular Architecture**: Implements configurable components (e.g., embedders, retrievers, LLMs) to enable customization of indexing, retrieval, and generation workflows.
 
-- **Open-Source & Scalable**: Designed for extensibility with 1.5K+ GitHub stars, enabling community-driven enhancements for enterprise-grade RAG deployments.
+- **Performance-Focused**: Includes benchmarks and tools for evaluating RAG system efficiency, latency, and accuracy to ensure deployment-ready configurations.
 
 ## Why It Matters
 

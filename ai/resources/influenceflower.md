@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://influencemap.cmlab.dev/
-published_at: '2026-08-08T15:34:00.259401+05:30'
-collected_at: '2026-08-08T15:34:00.259414+05:30'
+published_at: '2026-08-10T03:29:51.462246+05:30'
+collected_at: '2026-08-10T03:29:51.462254+05:30'
 tags:
 - dataset
 - paper
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:influenceflower
-first_seen: '2026-08-08T15:34:00.259414+05:30'
-last_seen: '2026-08-08T15:34:00.259414+05:30'
-last_checked: '2026-08-08T15:34:00.259414+05:30'
+first_seen: '2026-08-10T03:29:51.462254+05:30'
+last_seen: '2026-08-10T03:29:51.462254+05:30'
+last_checked: '2026-08-10T03:29:51.462254+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Visualization Mechanism**: Influence Flower uses colored arcs (blue for incoming references, red for outgoing citations) and node attributes (size/color) to represent citation influence dynamics between academic entities (papers, authors, institutions, topics), with thickness proportional to influence magnitude.
+- **Visualization Methodology**: Influence Flower uses blue arcs for incoming influence (thickness = reference count) and red arcs for outgoing influence (thickness = citation count), with node size/color representing influence volume and composition.
 
-- **Influence Scoring**: Influence scores are computed via normalized citation flows, where edge thickness reflects influence strength, node color indicates net influence direction (blue = entity influenced center more, red = center influenced entity more), and size denotes total influence volume.
+- **Influence Scoring Mechanism**: Scores are derived from citation flows, normalized by entity count per paper to prevent bias; node color indicates net influence direction (blue = entity influenced center more, red = center influenced entity more).
 
-- **Data Pipeline**: Uses OpenAlex dataset (268M papers, 103M authors, 2.64B citations) for scoring, with normalization preventing bias from multi-author papers; discrepancies may arise from API vs. snapshot inconsistencies.
+- **Data Pipeline**: Computed using OpenAlex (2025-05-30 release) with 268M papers, 103M authors, and 2.64B citations; scoring uses snapshot data while entity names are fetched live, potentially causing minor discrepancies.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T15:34:00.259401+05:30
+- Published: 2026-08-10T03:29:51.462246+05:30
 
 ## Related Tags
 

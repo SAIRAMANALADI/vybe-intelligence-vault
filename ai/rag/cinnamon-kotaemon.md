@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-10T00:37:32.733548+05:30'
-published_at: '2026-08-09T12:13:43Z'
+collected_at: '2026-08-10T03:24:10.548066+05:30'
+published_at: '2026-08-09T21:01:09Z'
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
-stars: 25692
+stars: 25691
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-10T00:37:32.733548+05:30'
-last_seen: '2026-08-10T00:37:32.733548+05:30'
-last_checked: '2026-08-10T00:37:32.733548+05:30'
+first_seen: '2026-08-10T03:24:10.548066+05:30'
+last_seen: '2026-08-10T03:24:10.548066+05:30'
+last_checked: '2026-08-10T03:24:10.548066+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-Based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, dynamically retrieving and synthesizing information from user-provided documents for contextual responses.
+- **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based conversational AI, dynamically fetching and integrating relevant document snippets during inference.
 
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization of pipelines and models.
+- **Modular Design**: Built in Python with a modular framework supporting customizable pipelines for document ingestion, retrieval, and LLM interaction, leveraging libraries like LangChain and LlamaIndex.
 
-- **Open-Source Deployment**: Released under an open-source license, facilitating self-hosting, community contributions, and integration with external LLM providers or vector databases.
+- **Scalability & Extensibility**: Optimized for large-scale document processing with support for vector databases (e.g., FAISS, Chroma) and multi-modal inputs, enabling deployment in enterprise-grade environments.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Cinnamon
-- Stars: 25692
+- Stars: 25691
 - Forks: 2138
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-08-09T12:13:43Z
+- Last Updated: 2026-08-09T21:01:09Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

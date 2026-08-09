@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-10T00:40:22.893855+05:30'
+collected_at: '2026-08-10T03:27:00.655112+05:30'
 published_at: '2026-08-09T15:06:33Z'
 tags:
 - agents
 - github-repo
 - rag
+- scripts
 - shell
 - workflows
 stars: 544
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-06T12:31:03Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-10T00:40:22.893855+05:30'
-last_seen: '2026-08-10T00:40:22.893855+05:30'
-last_checked: '2026-08-10T00:40:22.893855+05:30'
+first_seen: '2026-08-10T03:27:00.655112+05:30'
+last_seen: '2026-08-10T03:27:00.655112+05:30'
+last_checked: '2026-08-10T03:27:00.655112+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory for dynamic knowledge retention and retrieval.
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in **n8n**, leveraging **adaptive RAG-powered memory** for dynamic context retention and retrieval.
 
-- **Core Features**: Supports Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, and media understanding capabilities, all self-hosted via a single setup script.
+- **Multi-agent architecture** with **Skills via MCP templates**, **Expert Agents** delegating tasks to sub-agents, and **proactive task management**, including **media understanding** capabilities.
 
-- **Integration & Deployment**: Combines components like Crawl4AI scraper, SearXNG engine, and Supabase for backend storage, with language support primarily in Shell, enabling modular and scalable AI agent orchestration.
+- **Self-hosted deployment** via a single setup script, integrating **Crawl4AI** for scraping, **SearXNG** for search, and **Supabase** for persistent storage.
 
 ## Why It Matters
 

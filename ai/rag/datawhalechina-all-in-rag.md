@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-10T00:36:52.699260+05:30'
+collected_at: '2026-08-10T03:23:30.447961+05:30'
 published_at: '2026-08-09T18:42:43Z'
 tags:
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-10T00:36:52.699260+05:30'
-last_seen: '2026-08-10T00:36:52.699260+05:30'
-last_checked: '2026-08-10T00:36:52.699260+05:30'
+first_seen: '2026-08-10T03:23:30.447961+05:30'
+last_seen: '2026-08-10T03:23:30.447961+05:30'
+last_checked: '2026-08-10T03:23:30.447961+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: A full-stack technical manual for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation with Python, including embedding models, vector databases (e.g., Milvus), and LLM frameworks (LangChain, LlamaIndex).
+- **Comprehensive RAG Guide**: A full-stack technical manual for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation strategies, model integration, and deployment workflows.
 
-- **Multi-Technology Integration**: Demonstrates integration with advanced AI models (DeepSeek, Kimi-K2), multimodal systems, and graph databases (Neo4j) for enhanced retrieval and generation workflows.
+- **Multi-Tool & Framework Support**: Demonstrates RAG pipelines using Python with libraries/frameworks like LangChain, LlamaIndex, and integrates embedding models (e.g., DeepSeek), vector databases (e.g., Milvus), and graph databases (e.g., Neo4j).
 
-- **Practical Implementation**: Provides hands-on code examples and deployment strategies, optimized for scalability and real-world AI application development.
+- **Advanced Features**: Includes multimodal RAG, hybrid retrieval methods, and optimization techniques for large-scale LLM applications, with updates as of August 2026.
 
 ## Why It Matters
 

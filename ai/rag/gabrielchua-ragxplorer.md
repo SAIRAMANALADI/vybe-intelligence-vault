@@ -4,16 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-10T00:37:37.725507+05:30'
+collected_at: '2026-08-10T03:24:15.489058+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - jupyter notebook
 - models
 - rag
-- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -22,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-10T00:37:37.725507+05:30'
-last_seen: '2026-08-10T00:37:37.725507+05:30'
-last_checked: '2026-08-10T00:37:37.725507+05:30'
+first_seen: '2026-08-10T03:24:15.489058+05:30'
+last_seen: '2026-08-10T03:24:15.489058+05:30'
+last_checked: '2026-08-10T03:24:15.489058+05:30'
 health_score: 100
 ---
 
@@ -32,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions and data retrieval processes.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, allowing users to analyze RAG components (e.g., embeddings, retrieval mechanisms, and LLM outputs) in real-time with minimal setup.
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing dynamic visualization of RAG components (e.g., retrieval steps, context relevance, and model outputs) with real-time updates.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG workflows, dataset integration, and performance benchmarking via interactive notebooks.
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines and visualization of metrics (e.g., retrieval accuracy, latency) via Jupyter Notebook integration.
 
 ## Why It Matters
 

@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-10T00:38:42.801241+05:30'
+collected_at: '2026-08-10T03:25:20.543295+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
+- models
 - python
 - rag
 stars: 257
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-10T00:38:42.801241+05:30'
-last_seen: '2026-08-10T00:38:42.801241+05:30'
-last_checked: '2026-08-10T00:38:42.801241+05:30'
+first_seen: '2026-08-10T03:25:20.543295+05:30'
+last_seen: '2026-08-10T03:25:20.543295+05:30'
+last_checked: '2026-08-10T03:25:20.543295+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, improving contextual relevance in RAG pipelines.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity, subgraph, and global levels) and semantic aggregation for improved context relevance in generation tasks.
 
-- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system (e.g., entity → subgraph → full graph) to dynamically adjust granularity based on query complexity, optimizing both precision and recall.
+- **Efficiency Optimizations**: Utilizes lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy, as demonstrated in AAAI 2026 benchmarks.
 
-- **Efficiency Optimization**: Leverages lightweight graph traversal and caching techniques to reduce computational overhead, achieving near-linear scalability for large-scale knowledge graphs.
+- **Modular Python Implementation**: Provides a scalable, open-source Python library (`LeanRAG`) with pluggable components for knowledge graph integration, retrieval strategies, and LLM fine-tuning.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/integrations
-published_at: '2026-08-08T18:52:22.247796+05:30'
-collected_at: '2026-08-08T18:52:22.247813+05:30'
+published_at: '2026-08-10T03:29:32.038763+05:30'
+collected_at: '2026-08-10T03:29:32.038774+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:integrations-haystack
-first_seen: '2026-08-08T18:52:22.247813+05:30'
-last_seen: '2026-08-08T18:52:22.247813+05:30'
-last_checked: '2026-08-08T18:52:22.247813+05:30'
+first_seen: '2026-08-10T03:29:32.038774+05:30'
+last_seen: '2026-08-10T03:29:32.038774+05:30'
+last_checked: '2026-08-10T03:29:32.038774+05:30'
 health_score: 100
 ---
 
@@ -34,16 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack integrates with 167+ technologies** across categories like vector databases (FAISS, Chroma), model providers (Cohere, Anthropic), document stores (Elasticsearch, Azure CosmosDB), and monitoring tools (Datadog, Arize Phoenix), with both deepset-maintained and community-driven components.
+- **Haystack ecosystem supports 167 integrations** across categories including vector databases (e.g., FAISS, Chroma), model providers (e.g., Cohere, Anthropic), monitoring tools (e.g., Arize Phoenix), and data ingestion frameworks (e.g., Amazon Textract, Azure Document Intelligence).
 
-- **Key integration types include**:
-  - **Model Providers**: AIMLAPI, Amazon Bedrock, Azure OpenAI, Cohere, FastEmbed, etc.
-  - **Document Stores**: FAISS, Chroma, Elasticsearch, AstraDB, PostgreSQL (pgvector), etc.
-  - **Data Ingestion**: Amazon Textract, Azure Document Intelligence, Docling, Firecrawl, etc.
+- **Integrations are maintained by deepset or community contributors**, with official documentation and contribution guidelines available via GitHub and Haystack’s docs.
 
-- **Contribution and governance**:
-  - Integrations are proposed/modified via [GitHub](https://github.com/deepset-ai/haystack-integrations).
-  - Governed by signed audit trails (e.g., Asqav) for tamper-evident pipeline records.
+- **Key integration examples** include AIMLAPI (OpenAI-compatible models), AstraDB (document store with vector search), and fastRAG (optimized RAG pipelines).
 
 ## Why It Matters
 
@@ -53,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T18:52:22.247796+05:30
+- Published: 2026-08-10T03:29:32.038763+05:30
 
 ## Related Tags
 

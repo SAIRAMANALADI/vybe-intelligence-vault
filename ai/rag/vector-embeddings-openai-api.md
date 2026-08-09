@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-08-09T15:36:00.878587+05:30'
-collected_at: '2026-08-09T15:36:00.878601+05:30'
+published_at: '2026-08-10T03:28:06.513223+05:30'
+collected_at: '2026-08-10T03:28:06.513234+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-08-09T15:36:00.878601+05:30'
-last_seen: '2026-08-09T15:36:00.878601+05:30'
-last_checked: '2026-08-09T15:36:00.878601+05:30'
+first_seen: '2026-08-10T03:28:06.513234+05:30'
+last_seen: '2026-08-10T03:28:06.513234+05:30'
+last_checked: '2026-08-10T03:28:06.513234+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536-dim vectors, ~62.5k pages/USD) and `text-embedding-3-large` (3072-dim vectors, ~9.6k pages/USD) offer lower costs and improved multilingual performance; both support dynamic dimension reduction via the `dimensions` parameter.
-- **Embedding Mechanics**: Vectors represent text relatedness via cosine distance; default dimensions can be truncated (e.g., to 256) without significant loss of semantic fidelity, enabling cost/performance trade-offs.
-- **API Integration**: Embeddings are generated via `/v1/embeddings` endpoint with token-based pricing; response includes vector data and metadata (e.g., `prompt_tokens`, `total_tokens`).
+- **Model Specifications**: `text-embedding-3-small` (1536D vector, 62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072D vector, 9.6k pages/USD, 64.6% MTEB) support dimensionality reduction via `dimensions` parameter while maintaining performance.
+
+- **API Integration**: Embeddings are generated via API call with input text, returning a vector of floats; token-based pricing applies, with default dimensions of 1536/3072 for small/large models.
+
+- **Use Cases**: Enables semantic search, clustering, recommendations, anomaly detection, and classification by measuring vector distances (e.g., cosine similarity) between embeddings.
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T15:36:00.878587+05:30
+- Published: 2026-08-10T03:28:06.513223+05:30
 
 ## Related Tags
 

@@ -2,7 +2,7 @@
 title: Firebase | Google's Mobile and Web App Development Platform
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://firebase.google.com
+source_url: https://firebase.google.com/
 resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
 local_vault_path: ai/rag/firebase-google-s-mobile-and-web-app-development-p.md
 quality_score: 70
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++ to streamline app development across multiple platforms.
+- **Platform Services**: Firebase provides a suite of managed backend services (e.g., Firestore, Authentication, Cloud Functions) for scalable app development, with AI integration via Firebase AI Logic and Gemini for generative AI workflows.
 
-- **AI/ML Integration**: Offers Firebase AI Logic for generative AI workflows, Agent Skills for AI agent interactions, and pre-built integrations with Google’s Gemini and Vertex AI.
+- **Cross-Platform SDKs**: Supports iOS, Android, Web, Flutter, Unity, and C++ with unified APIs for real-time database (Firestore/Realtime DB), hosting, and storage.
 
-- **Modular Backend Services**: Includes Firestore (NoSQL), Realtime Database, Authentication, Cloud Functions, Hosting, and Extensions for pre-packaged b
+- **Integrations & Extensions**: Offers pre-built extensions (e.g., Stripe payments, Algo
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firebase.google.com
+Original source URL: https://firebase.google.com/
 
 ## Local Vault File
 

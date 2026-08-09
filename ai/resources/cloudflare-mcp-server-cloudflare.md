@@ -4,22 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/mcp-server-cloudflare
-collected_at: '2026-07-21T22:19:18.527287+05:30'
-published_at: '2026-07-21T15:39:12Z'
+collected_at: '2026-08-10T03:29:20.593428+05:30'
+published_at: '2026-08-09T17:31:02Z'
 tags:
 - github-repo
+- scripts
 - typescript
-stars: 3971
+stars: 4046
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-11-27T22:07:30Z'
-pushed_at: '2026-07-21T14:05:50Z'
+pushed_at: '2026-08-07T15:28:10Z'
 resource_id: github:cloudflare/mcp-server-cloudflare
-first_seen: '2026-07-21T22:19:18.527287+05:30'
-last_seen: '2026-07-21T22:19:18.527287+05:30'
-last_checked: '2026-07-21T22:19:18.527287+05:30'
+first_seen: '2026-08-10T03:29:20.593428+05:30'
+last_seen: '2026-08-10T03:29:20.593428+05:30'
+last_checked: '2026-08-10T03:29:20.593428+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP server** for integrating Cloudflare services (e.g., Workers, KV, R2) with Model Context Protocol (MCP) clients.
-- **Repository stats**: 3,971 stars, 450 forks, last updated July 21, 2026.
-- **Purpose**: Enables programmatic interaction with Cloudflare’s ecosystem via MCP-compliant interfaces.
+- **TypeScript MCP Server for Cloudflare**: A TypeScript-based implementation of a Model Context Protocol (MCP) server providing programmatic access to Cloudflare's services and APIs.
+- **Repository Metrics**: 4,046 stars and 473 forks as of the last update (2026-08-09), indicating moderate community engagement.
+- **Purpose**: Enables integration of Cloudflare's infrastructure (e.g., Workers, KV, R2) with MCP-compatible clients for automation and tooling.
 
 ## Why It Matters
 
@@ -38,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cloudflare
-- Stars: 3971
-- Forks: 450
+- Stars: 4046
+- Forks: 473
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-21T15:39:12Z
+- Last Updated: 2026-08-09T17:31:02Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-27T22:07:30Z
-- Pushed At: 2026-07-21T14:05:50Z
+- Pushed At: 2026-08-07T15:28:10Z
 
 ## Possible Use Cases
 

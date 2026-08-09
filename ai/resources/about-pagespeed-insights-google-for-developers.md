@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/speed/docs/insights/v5/about
-published_at: '2026-08-09T10:21:22.757108+05:30'
-collected_at: '2026-08-09T10:21:22.757115+05:30'
+published_at: '2026-08-10T03:32:20.859112+05:30'
+collected_at: '2026-08-10T03:32:20.859124+05:30'
 tags:
 - creative_dev
 - dataset
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:about-pagespeed-insights-google-for-developers
-first_seen: '2026-08-09T10:21:22.757115+05:30'
-last_seen: '2026-08-09T10:21:22.757115+05:30'
-last_checked: '2026-08-09T10:21:22.757115+05:30'
+first_seen: '2026-08-10T03:32:20.859124+05:30'
+last_seen: '2026-08-10T03:32:20.859124+05:30'
+last_checked: '2026-08-10T03:32:20.859124+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Sources & Metrics**: PageSpeed Insights (PSI) evaluates web performance using **real-world data** from the Chrome User Experience Report (CrUX) (e.g., FCP, LCP, CLS, INP, TTFB) and **lab data** via Lighthouse (e.g., Speed Index, TBT, TTI), with thresholds for Good/Needs Improvement/Poor classifications.
-- **Core Web Vitals Assessment**: PSI aggregates CrUX data at the 75th percentile to determine Core Web Vitals compliance (LCP ≤ 2.5s, CLS ≤ 0.1, INP ≤ 200ms), requiring all three metrics to meet "Good" thresholds for a passing assessment.
-- **Diagnostics & Variability**: Lab diagnostics (Lighthouse) simulate mid-tier mobile (4G) and desktop (wired) conditions, while field data reflects real-world variability; scores may fluctuate due to network/hardware differences, and insufficient CrUX samples fall back to origin-level granularity.
+- **PageSpeed Insights (PSI)** evaluates web page performance using **lab data (Lighthouse)** and **real-world data (CrUX)**, providing optimization suggestions and categorizing experiences as *Good*, *Needs Improvement*, or *Poor* based on Core Web Vitals (LCP, CLS, INP) and other metrics.
+
+- **Real-user data** from CrUX includes FCP, INP, LCP, CLS, and experimental TTFB, aggregated over 28 days, with insufficient data falling back to origin-level granularity; PSI uses **75th percentile thresholds** to assess performance quality.
+
+- **Lab diagnostics** via Lighthouse simulate mid-tier mobile (4G) and desktop (wired) conditions, scoring Performance, Accessibility, Best Practices, and SEO, with audits to guide optimizations; lab/field discrepancies arise from controlled vs. real-world testing environments.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T10:21:22.757108+05:30
+- Published: 2026-08-10T03:32:20.859112+05:30
 
 ## Related Tags
 

@@ -15,13 +15,14 @@ tags:
 - hackernews
 - openai
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:an-openai-strategist-says-ai-labs-should-rival-gov
 first_seen: '2026-08-10T00:36:13.307500+05:30'
 last_seen: '2026-08-10T00:36:13.307500+05:30'
 last_checked: '2026-08-10T00:36:13.307500+05:30'
 health_score: 100
 ---
+
 
 # An OpenAI Strategist Says AI Labs Should Rival Government Power
 

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/learn/nflsundayticket
-published_at: '2026-08-09T12:57:39.927139+05:30'
-collected_at: '2026-08-09T12:57:39.927154+05:30'
+published_at: '2026-08-10T03:33:50.380991+05:30'
+collected_at: '2026-08-10T03:33:50.381004+05:30'
 tags:
 - agents
+- hackernews
 - models
 - rag
 - reddit
@@ -15,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-08-09T12:57:39.927154+05:30'
-last_seen: '2026-08-09T12:57:39.927154+05:30'
-last_checked: '2026-08-09T12:57:39.927154+05:30'
+first_seen: '2026-08-10T03:33:50.381004+05:30'
+last_seen: '2026-08-10T03:33:50.381004+05:30'
+last_checked: '2026-08-10T03:33:50.381004+05:30'
 health_score: 100
 ---
 
@@ -25,11 +26,18 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Offer Details**: New users pay **$240/yr** (8 payments of **$30/mo**) for NFL Sunday Ticket + YouTube TV; returning users pay **$378/yr** (8 payments of **$47.25/mo**). Standalone NFL Sunday Ticket is **$240/yr** (new) or **$480/yr** (returning) with 8 non-cancelable payments.
+- **Pricing & Availability**:
+  - New users: NFL Sunday Ticket + YouTube TV = $240 (8x $30/mo) or standalone = $240 (8x $30/mo).
+  - Returning users: NFL Sunday Ticket + YouTube TV = $378 (8x $47.25/mo) or standalone = $480 (8x $60/mo).
+  - Requires active YouTube TV plan; cancellation revokes access.
 
-- **Coverage & Features**: Includes **all out-of-market Sunday NFL games** (32 teams, AFC/NFC) and local/national games via YouTube TV (ABC, CBS, FOX, ESPN). Supports **multiview (4 games simultaneously)**, **NFL RedZone**, and **unlimited DVR storage** with active YouTube TV subscription.
+- **Coverage & Features**:
+  - Out-of-market Sunday NFL games (all 32 teams) + local/national games (ABC, CBS, FOX, ESPN) via YouTube TV bundle.
+  - Supports multiview (4 games), NFL RedZone (touchdown-focused), and unlimited in-home streaming.
 
-- **Requirements & Restrictions**: Requires **high-speed internet (7+ Mbps recommended)** and a **compatible device** (YouTube/YouTube TV apps). **No refunds**, non-cancelable payments, and **commercial use excluded**. Canceling YouTube TV revokes access to NFL Sunday Ticket.
+- **Technical Requirements**:
+  - Minimum 3 Mbps internet (7+ Mbps recommended) on supported devices (YouTube/YouTube TV apps).
+  - Digital-only games excluded; commercial use prohibited.
 
 ## Why It Matters
 
@@ -39,11 +47,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T12:57:39.927139+05:30
+- Published: 2026-08-10T03:33:50.380991+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - models
 - rag
 - reddit

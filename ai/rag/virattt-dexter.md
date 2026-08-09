@@ -4,26 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/virattt/dexter
-collected_at: '2026-08-10T00:40:32.883256+05:30'
-published_at: '2026-08-09T12:44:19Z'
+collected_at: '2026-08-10T03:27:10.641162+05:30'
+published_at: '2026-08-09T21:16:08Z'
 tags:
 - agents
-- dataset
 - github-repo
-- hackernews
 - rag
 - typescript
 - workflows
-stars: 27512
+stars: 27510
 language: TypeScript
 status: active
 archived: false
 created_at: '2025-10-14T21:02:00Z'
 pushed_at: '2026-08-04T15:20:42Z'
 resource_id: github:virattt/dexter
-first_seen: '2026-08-10T00:40:32.883256+05:30'
-last_seen: '2026-08-10T00:40:32.883256+05:30'
-last_checked: '2026-08-10T00:40:32.883256+05:30'
+first_seen: '2026-08-10T03:27:10.641162+05:30'
+last_seen: '2026-08-10T03:27:10.641162+05:30'
+last_checked: '2026-08-10T03:27:10.641162+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Financial Research Agent**: Dexter is a TypeScript-based autonomous agent designed to conduct deep financial research, leveraging AI-driven data analysis and decision-making for market insights.
-- **High Scalability & Modularity**: The repository structure supports extensibility with customizable modules for data ingestion, processing, and analysis, enabling integration with diverse financial datasets and APIs.
-- **Real-Time Market Interaction**: Implements automated workflows for continuous monitoring of financial markets, utilizing NLP and ML techniques to generate actionable research outputs autonomously.
+- **Autonomous Financial Research Agent**: Dexter is a TypeScript-based autonomous agent designed for deep financial research, leveraging AI to automate data collection, analysis, and insights generation from financial markets.
+
+- **High Scalability & Modularity**: Built with extensibility in mind, Dexter supports custom plugins, APIs, and workflows, enabling integration with diverse financial data sources (e.g., SEC filings, earnings calls, market data feeds).
+
+- **Open-Source & Community-Driven**: Hosted on GitHub with 27.5K+ stars and 3.4K+ forks, Dexter encourages collaborative development, allowing users to contribute to or fork the project for tailored financial research applications.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: virattt
-- Stars: 27512
+- Stars: 27510
 - Forks: 3413
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-09T12:44:19Z
+- Last Updated: 2026-08-09T21:16:08Z
 - Archived: No
 - Created At: 2025-10-14T21:02:00Z
 - Pushed At: 2026-08-04T15:20:42Z

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://z4hid.github.io/blog/building-rag-systems-from-scratch/
-published_at: '2026-08-10T00:37:08.273680+05:30'
-collected_at: '2026-08-10T00:37:08.273692+05:30'
+published_at: '2026-08-10T03:23:47.221879+05:30'
+collected_at: '2026-08-10T03:23:47.221891+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:building-rag-systems-from-scratch-a-practical-guid
-first_seen: '2026-08-10T00:37:08.273692+05:30'
-last_seen: '2026-08-10T00:37:08.273692+05:30'
-last_checked: '2026-08-10T00:37:08.273692+05:30'
+first_seen: '2026-08-10T03:23:47.221891+05:30'
+last_seen: '2026-08-10T03:23:47.221891+05:30'
+last_checked: '2026-08-10T03:23:47.221891+05:30'
 health_score: 100
 ---
 
@@ -29,14 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Two-phase process—**indexing** (documents → chunking → embedding → vector storage) and **querying** (query embedding → vector search → top-K retrieval → LLM generation with cited context).
-- **Critical Components & Trade-offs**:
-  - **Chunking**: Optimal size (500–800 tokens) balances context retention and retrieval precision; semantic chunking improves topic coherence but increases compute cost.
-  - **Embedding Models**: OpenAI `text-embedding-3-small` (1536D, $0.02/M tokens) offers cost-effective performance; BAAI `BGE-large` (1024D) is a strong open-source alternative for self-hosted deployments.
-- **Production Optimization**:
-  - **Hybrid Retrieval**: Combines semantic (vector) and keyword (BM25) search to handle both semantic and exact-match queries.
-  - **Evaluation Metrics**: Use **RAGAS** for automated assessment of faithfulness, answer relevance, and context precision; aim for >80% recall@K in retrieval.
-  - **Deployment Strategies**: Implement nightly index updates, semantic caching for frequent queries, and strict context length limits (3–5 chunks) to reduce latency and hallucinations.
+- **RAG Pipeline Architecture**: Indexing involves loading documents (PDFs, Markdown, web content), chunking (e.g., 800 tokens with 200 overlap), embedding (e.g., OpenAI `text-embedding-3-small` or open-source `BGE-large-en-v1.5`), and storing in a vector DB (e.g., Chroma, Pinecone, Qdrant). Querying embeds the user input, retrieves top-*k* relevant chunks (with optional hybrid search or re-ranking), and generates answers using an LLM (e.g., GPT-4o) with a structured prompt enforcing context-only responses and citations.
+
+- **Critical Optimization Techniques**: Chunking strategy (fixed-size vs. semantic) and embedding model selection (e.g., 1536D OpenAI vs. 1024D BAAI) directly impact retrieval precision. Hybrid search (combining BM25 + vector similarity) and re-ranking (e.g., Cohere’s cross-encoder) improve relevance, while metadata filtering narrows search scope. Evaluation metrics (e.g., RAGAS for faithfulness, context precision) quantify system performance beyond basic similarity metrics.
+
+- **Production Considerations**: Index updates require automated pipelines (batch or event-driven), semantic caching reduces latency/cost for repeated queries, and comprehensive logging (query, retrieval, generation) enables debugging. Context length must be constrained (3–5 chunks), and fallback behaviors (e.g., "I don’t know" responses) must be defined for edge cases like empty retrievals or out-of-domain queries.
 
 ## Why It Matters
 
@@ -46,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T00:37:08.273680+05:30
+- Published: 2026-08-10T03:23:47.221879+05:30
 
 ## Related Tags
 

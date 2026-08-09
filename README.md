@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-101%2C320-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-169%2C689-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--10-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **101,320 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **169,689 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,654</p>
-        <p><b>Active:</b> 17,125 | <b>Inactive:</b> 529</p>
+        <p><b>Resources tracked:</b> 18,678</p>
+        <p><b>Active:</b> 18,144 | <b>Inactive:</b> 534</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,241</p>
+        <p><b>Archive Files:</b> 69,608</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 101,320 files</p>
-        <p><b>Last Update:</b> 2026-08-10 03:05 IST</p>
+        <p><b>Total Vault Size:</b> 169,689 files</p>
+        <p><b>Last Update:</b> 2026-08-10 03:41 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Redirecting…](ai/resources/redirecting.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[:has() CSS pseudo-class - CSS | MDN](ai/rag/has-css-pseudo-class-css-mdn.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers](ai/resources/performance-panel-analyze-your-website-s-performan.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[GoogleChrome/web-vitals](ai/resources/googlechrome-web-vitals.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Eliminate render-blocking resources | Lighthouse | Chrome for Developers](ai/resources/eliminate-render-blocking-resources-lighthouse-chr.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Making sure you're not a bot!](ai/resources/making-sure-you-re-not-a-bot.md)** • Rank: <kbd>+1815</kbd>
+- 🔼 **[Learn More About Google's Secure and Protected Accounts - Google](ai/resources/learn-more-about-google-s-secure-and-protected-acc.md)** • Rank: <kbd>+2930</kbd>
+- 🔼 **[Syntax highlighting styles](ai/rag/syntax-highlighting-styles.md)** • Rank: <kbd>+71</kbd>
+- 🔼 **[The WebM Project | Developer Overview](ai/rag/the-webm-project-developer-overview.md)** • Rank: <kbd>+1696</kbd>
+- 🔼 **[Configure markup](ai/rag/configure-markup.md)** • Rank: <kbd>+70</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[How I use LLMs to learn complex topics](ai/community/how-i-use-llms-to-learn-complex-topics.md)** • Score: `204`
+- 🆕 **[Ransomware gangs skip the CEO, head straight for the 40-something IT manager](ai/community/ransomware-gangs-skip-the-ceo-head-straight-for-th.md)** • Score: `55`
+- 🆕 **[The tragedy of the commons, AI edition](ai/community/the-tragedy-of-the-commons-ai-edition.md)** • Score: `31`
+- 🆕 **[The Hacker's Renaissance](ai/community/the-hacker-s-renaissance.md)** • Score: `15`
+- 🆕 **[Tuxedo No. 2 – Cocktail recipes](ai/community/tuxedo-no-2-cocktail-recipes.md)** • Score: `7`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Show HN: Airy – Free, fast, and simple voice content creation](ai/community/show-hn-airy-free-fast-and-simple-voice-content-cr.md)**
+- 💤 **[Human vs. AI – Diff-based line-level provenance for text under agentic editing](ai/community/eighttrigrams-us-vs-them.md)**
+- 💤 **[An OpenAI Strategist Says AI Labs Should Rival Government Power](ai/community/an-openai-strategist-says-ai-labs-should-rival-gov.md)**
+- 💤 **[Show HN: A replayable A2A jury for tracing how agents influence decisions](ai/community/nmaroulis-protolink.md)**
+- 💤 **[Cross-compilation with Wails (2025)](ai/community/cross-compilation-with-wails-2025.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

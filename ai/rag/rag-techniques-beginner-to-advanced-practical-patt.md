@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-08-10T00:37:08.514035+05:30'
-collected_at: '2026-08-10T00:37:08.514045+05:30'
+published_at: '2026-08-10T03:23:46.302113+05:30'
+collected_at: '2026-08-10T03:23:46.302127+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-08-10T00:37:08.514045+05:30'
-last_seen: '2026-08-10T00:37:08.514045+05:30'
-last_checked: '2026-08-10T00:37:08.514045+05:30'
+first_seen: '2026-08-10T03:23:46.302127+05:30'
+last_seen: '2026-08-10T03:23:46.302127+05:30'
+last_checked: '2026-08-10T03:23:46.302127+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines a retriever (dense embeddings + vector search or sparse lexical methods like BM25) with a generator (LLM) to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
+- **Minimal RAG Pipeline**: Uses `sentence-transformers` (all-MiniLM-L6-v2) for embeddings, FAISS (IndexFlatIP) for vector search, and Flan-T5-small for generation; documents indexed with normalized embeddings and stored in FAISS index and pickle file.
 
-- **Minimal Pipeline Implementation**: Uses `sentence-transformers` for embeddings, FAISS for vector storage/indexing, and a lightweight LLM (e.g., Flan-T5) for generation; documents are chunked, embedded, and indexed for retrieval.
+- **Hybrid Retrieval Techniques**: Combines sparse (BM25) and dense (FAISS) retrieval for improved precision/recall; includes reranking with cross-encoders (e.g., monoT5, bge-reranker) and query expansion methods (HyDE, multi-query) to enhance retrieval quality.
 
-- **Intermediate/Advanced Enhancements**: Techniques like hybrid retrieval (sparse + dense), reranking (cross-encoders), query expansion (HyDE/multi-query), multi-hop reasoning, GraphRAG (knowledge graphs), and context optimization improve precision, recall, and efficiency in production systems.
+- **Advanced RAG Patterns**: Implements multi-hop retrieval, GraphRAG (knowledge graphs), multi-vector/learned retrievers, context optimization (e.g., compression), agentic RAG (tool integration), and safety/grounding mechanisms for production-grade systems.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T00:37:08.514035+05:30
+- Published: 2026-08-10T03:23:46.302113+05:30
 
 ## Related Tags
 

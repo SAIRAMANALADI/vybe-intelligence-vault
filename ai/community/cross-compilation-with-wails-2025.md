@@ -13,13 +13,14 @@ collected_at: '2026-08-10T00:36:13.973047+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:cross-compilation-with-wails-2025
 first_seen: '2026-08-10T00:36:13.973047+05:30'
 last_seen: '2026-08-10T00:36:13.973047+05:30'
 last_checked: '2026-08-10T00:36:13.973047+05:30'
 health_score: 100
 ---
+
 
 # Cross-compilation with Wails (2025)
 

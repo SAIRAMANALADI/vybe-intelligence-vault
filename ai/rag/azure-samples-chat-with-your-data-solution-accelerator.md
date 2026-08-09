@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-10T00:38:02.807829+05:30'
+collected_at: '2026-08-10T03:24:40.594657+05:30'
 published_at: '2026-08-05T20:45:57Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-08-09T13:48:10Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-10T00:38:02.807829+05:30'
-last_seen: '2026-08-10T00:38:02.807829+05:30'
-last_checked: '2026-08-10T00:38:02.807829+05:30'
+first_seen: '2026-08-10T03:24:40.594657+05:30'
+last_seen: '2026-08-10T03:24:40.594657+05:30'
+last_checked: '2026-08-10T03:24:40.594657+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following best practices for production-grade deployments.
-
-- **Key Components**: Includes **Python-based** solution with **AZD templates** for deployment, integrating Azure services (AI Search, OpenAI) and supporting common enterprise requirements (scalability, security, monitoring).
-
-- **Use Case**: Enables **ChatGPT-style interactions** over private data with **semantic search** capabilities, optimized for Azure cloud environments and designed for rapid deployment via infrastructure-as-code templates.
+- **Architecture**: Implements **Retrieval-Augmented Generation (RAG)** pattern in Azure, leveraging **Azure AI Search** for retrieval and **Azure OpenAI** for LLM-powered chat/Q&A experiences.
+- **Key Components**: Includes **Python-based** solution with **AZD templates**, adhering to **best practices** for integrating Azure AI Search and Azure OpenAI services.
+- **Updates & Usage**: Last updated **2026-08-05**, with **1172 stars** and **641 forks**, providing a scalable template for enterprise-grade RAG deployments.
 
 ## Why It Matters
 

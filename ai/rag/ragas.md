@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/
-published_at: '2026-08-10T00:41:34.144031+05:30'
-collected_at: '2026-08-10T00:41:34.144040+05:30'
+published_at: '2026-08-10T03:28:08.594248+05:30'
+collected_at: '2026-08-10T03:28:08.594258+05:30'
 tags:
 - benchmark
 - dataset
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ragas
-first_seen: '2026-08-10T00:41:34.144040+05:30'
-last_seen: '2026-08-10T00:41:34.144040+05:30'
-last_checked: '2026-08-10T00:41:34.144040+05:30'
+first_seen: '2026-08-10T03:28:08.594258+05:30'
+last_seen: '2026-08-10T03:28:08.594258+05:30'
+last_checked: '2026-08-10T03:28:08.594258+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Driven Evaluation Framework**: Ragas provides a systematic evaluation loop for LLM applications using LLM-driven metrics and customizable experimentation, replacing ad-hoc "vibe checks" with reproducible, scalable evaluation processes.
+- **LLM-driven evaluation framework**: Ragas replaces traditional metrics with LLM-based evaluation, enabling systematic experimentation and continuous improvement loops for LLM applications via customizable metrics and experiments.
 
-- **Modular Metrics & Integration**: Supports creation of custom metrics via decorators and includes built-in dataset management, with native compatibility for frameworks like LangChain and LlamaIndex for seamless integration.
+- **Integration-ready tooling**: Supports built-in dataset management, result tracking, and seamless integration with frameworks like LangChain and LlamaIndex, facilitating scalable and reproducible evaluations.
 
-- **Continuous Improvement Workflow**: Implements an experiments-first approach, enabling iterative testing of changes, result tracking, and performance optimization for AI applications through structured evaluation loops.
+- **Modular and extensible**: Provides decorators for custom metric creation, a library of predefined metrics, and structured documentation (quickstart, core concepts, how-to guides) to streamline adoption and technical implementation.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T00:41:34.144031+05:30
+- Published: 2026-08-10T03:28:08.594248+05:30
 
 ## Related Tags
 

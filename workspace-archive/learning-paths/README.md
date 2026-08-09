@@ -11,11 +11,11 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - ESSENTIAL Tier)
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (benchmark - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
+- [LangChain Community: Connect, Learn & Build AI Agents](https://www.langchain.com/community) (framework - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Kotlin and Android | Android Developers](https://developer.android.com/kotlin) (framework - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
-- [Postman Inc. · GitHub](https://github.com/postmanlabs) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,6 +24,7 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [Collections · GitHub](https://github.com/collections)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
 - [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
@@ -40,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-10 00:54 IST*
+*Last updated: 2026-08-10 03:40 IST*

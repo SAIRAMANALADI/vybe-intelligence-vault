@@ -13,13 +13,14 @@ collected_at: '2026-08-10T00:36:14.714127+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-airy-free-fast-and-simple-voice-content-cr
 first_seen: '2026-08-09T21:21:46.001385+05:30'
 last_seen: '2026-08-10T00:36:14.714127+05:30'
 last_checked: '2026-08-10T00:36:14.714127+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Airy – Free, fast, and simple voice content creation
 

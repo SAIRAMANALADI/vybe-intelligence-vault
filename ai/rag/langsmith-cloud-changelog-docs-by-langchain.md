@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-10T00:42:24.810719+05:30'
-collected_at: '2026-08-10T00:42:24.810728+05:30'
+published_at: '2026-08-10T03:32:09.300678+05:30'
+collected_at: '2026-08-10T03:32:09.300691+05:30'
 tags:
 - agents
 - anthropic
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-10T00:42:24.810728+05:30'
-last_seen: '2026-08-10T00:42:24.810728+05:30'
-last_checked: '2026-08-10T00:42:24.810728+05:30'
+first_seen: '2026-08-10T03:32:09.300691+05:30'
+last_seen: '2026-08-10T03:32:09.300691+05:30'
+last_checked: '2026-08-10T03:32:09.300691+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Annotation & Dataset APIs**: LangSmith introduced public API endpoints for annotation queue items (add/list/update/delete/count/position/review) and improved dataset uploads (supports `.csv`/`.jsonl`, Windows browser compatibility, uppercase filenames).
-- **Engine & Tracing Enhancements**: Engine issue boards now reopen when new matching traces appear; trace exports include `feedbacks` column; token/cost filters default to total metrics; legacy API endpoints marked deprecated (Sunset: Jan 31, 2027).
-- **LLM Gateway Updates**: Gateway policies enforce non-blank names; usage charts display top 12 spenders; onboarding supports Gateway Credits vs. BYO API keys; spend caps now work across org/workspace/user scopes.
+- **Annotation & Dataset APIs**: LangSmith introduced public API endpoints for annotation queue items (CRUD + positioning/review) and improved dataset uploads (CSV/JSONL, case-insensitive filenames, metadata rendering in experiment grids). Legacy endpoints (v1 runs, datasets, annotation queues) are deprecated with a sunset date of Jan 31, 2027.
+
+- **Tracing & Engine Enhancements**: Trace exports now support a `feedbacks` column for JSON feedback arrays. Engine issue boards auto-reopen when new matching traces are linked, and tracing project sorting is fixed for self-hosted Redis <6.2. Token/cost filters default to total metrics (input/output breakdowns remain available).
+
+- **LLM Gateway & Sandbox Updates**: Gateway policies enforce non-blank names, usage charts show top 12 spenders, and onboarding supports Gateway Credits (prepaid) or BYO API keys. Sandboxes now include `langsmith` CLI v0.2.44, streaming execute via SSE, and WebSocket auth fixes for self-hosted deployments.
 
 ## Why It Matters
 
@@ -45,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T00:42:24.810719+05:30
+- Published: 2026-08-10T03:32:09.300678+05:30
 
 ## Related Tags
 

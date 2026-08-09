@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gptme/gptme-agent-template
-collected_at: '2026-08-10T00:40:22.919236+05:30'
+collected_at: '2026-08-10T03:27:00.671004+05:30'
 published_at: '2026-08-07T20:49:07Z'
 tags:
 - agents
 - github-repo
 - hackernews
+- scripts
 - shell
+- workflows
 stars: 50
 language: Shell
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-11-21T09:16:40Z'
 pushed_at: '2026-07-02T02:07:21Z'
 resource_id: github:gptme/gptme-agent-template
-first_seen: '2026-08-10T00:40:22.919236+05:30'
-last_seen: '2026-08-10T00:40:22.919236+05:30'
-last_checked: '2026-08-10T00:40:22.919236+05:30'
+first_seen: '2026-08-10T03:27:00.671004+05:30'
+last_seen: '2026-08-10T03:27:00.671004+05:30'
+last_checked: '2026-08-10T03:27:00.671004+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured workspace for creating persistent, autonomous agents using `gptme`, enabling capabilities like building, learning, socializing, and task assistance.
-- **Technical Stack**: Implemented in Shell, facilitating agent initialization, configuration, and execution within a standardized environment.
-- **Repository Status**: Last updated on 2026-08-07, with 50 stars and 28 forks, indicating moderate community engagement.
+- **Purpose**: Provides a structured workspace template for building persistent, autonomous agents using `gptme`, enabling capabilities like task execution, learning, social interaction, and user assistance.
+- **Technical Stack**: Primarily implemented in Shell, facilitating agent orchestration, environment setup, and workflow automation.
+- **Metadata**: 50 stars, 28 forks, last updated on 2026-08-07; serves as a foundational template for agent development workflows.
 
 ## Why It Matters
 

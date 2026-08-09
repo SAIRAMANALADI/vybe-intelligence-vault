@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **PageSpeed Insights** provides performance analysis and optimization suggestions via a web-based tool, scoring websites and recommending fixes to enhance loading speed.
+- **PageSpeed Tools**: Google provides online **PageSpeed Insights** for analyzing website performance and generating optimization suggestions, along with **PageSpeed Modules** for Apache/Nginx to automatically rewrite and optimize resources.
 
-- **PageSpeed Modules** (open-source) integrate with Apache/Nginx to automatically optimize and rewrite web resources, improving server-side performance.
+- **Infrastructure Leveraging**: **Google Public DNS** improves browsing speed/security, while **hosted libraries** (e.g., jQuery) are served via Google’s CDN to reduce latency.
 
-- **Google Public DNS** and **hosted libraries** leverage Google’s infrastructure to accelerate DNS resolution and serve popular JS libraries, reducing latency and load tim
+- **Performance Standards & Best Practices**: Google promotes **WebP** for im
 
 ## Use Cases
 

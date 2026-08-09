@@ -24,8 +24,8 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
 - [brmson/dataset-sts](https://github.com/brmson/dataset-sts)
+- [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch)
-- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-08-10 00:53 IST*
+*Last updated: 2026-08-10 03:40 IST*

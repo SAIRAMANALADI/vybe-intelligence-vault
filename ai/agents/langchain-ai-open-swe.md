@@ -4,16 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-09T15:33:51.841990+05:30'
-published_at: '2026-08-09T09:07:38Z'
+collected_at: '2026-08-10T03:25:55.624426+05:30'
+published_at: '2026-08-09T21:10:28Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-- scripts
-stars: 10519
+- workflows
+stars: 10521
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-08-09T08:17:55Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-09T15:33:51.841990+05:30'
-last_seen: '2026-08-09T15:33:51.841990+05:30'
-last_checked: '2026-08-09T15:33:51.841990+05:30'
+first_seen: '2026-08-10T03:25:55.624426+05:30'
+last_seen: '2026-08-10T03:25:55.624426+05:30'
+last_checked: '2026-08-10T03:25:55.624426+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and execution using Python's asyncio, enabling concurrent task handling and non-blocking I/O operations.
+- **Asynchronous Coding Agent**: Implements an asynchronous, multi-agent system for automated software engineering tasks using Python, designed for parallelized workflows.
 
-- **Multi-LLM Integration**: Supports multiple LLM providers (e.g., OpenAI, Anthropic) with dynamic model switching, enabling adaptive reasoning and code synthesis based on task complexity and provider capabilities.
+- **Multi-Model LLM Integration**: Supports OpenAI, Anthropic (ClaudeCode), and other LLM providers for dynamic task execution and decision-making in coding workflows.
 
-- **Tool-Agnostic Execution**: Utilizes a modular tooling system for code execution, testing, and debugging, allowing seamless integration with external APIs, sandboxes, and CI/CD pipelines for end-to-end automation.
+- **Open-Source & Scalable**: Repository provides a modular, extensible framework for AI-driven software engineering with 10.5K+ stars, optimized for async task handling and agent collaboration.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10519
-- Forks: 1221
+- Stars: 10521
+- Forks: 1223
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-09T09:07:38Z
+- Last Updated: 2026-08-09T21:10:28Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

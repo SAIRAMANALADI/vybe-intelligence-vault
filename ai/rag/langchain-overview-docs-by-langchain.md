@@ -3,9 +3,9 @@ title: LangChain overview - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://python.langchain.com/docs/concepts/text_splitters/
-published_at: '2026-08-09T21:27:03.755856+05:30'
-collected_at: '2026-08-09T21:27:03.755871+05:30'
+source_url: https://js.langchain.com
+published_at: '2026-08-10T03:28:06.810547+05:30'
+collected_at: '2026-08-10T03:28:06.810557+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-08-09T21:27:03.755871+05:30'
-last_seen: '2026-08-09T21:27:03.755871+05:30'
-last_checked: '2026-08-09T21:27:03.755871+05:30'
+first_seen: '2026-08-10T03:28:06.810557+05:30'
+last_seen: '2026-08-10T03:28:06.810557+05:30'
+last_checked: '2026-08-10T03:28:06.810557+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Agent Harness**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases with support for multiple LLM providers (OpenAI, Anthropic, Google, etc.).
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic, Google) with tools, prompts, and middleware, enabling custom agent construction for specific use cases.
 
-- **Multi-Framework Ecosystem**: Agents can be built using `create_agent` (customizable), `Deep Agents` (batteries-included with auto-context compression), or `LangGraph` (low-level orchestration for deterministic/agentic workflows), with observability via LangSmith for tracing and debugging.
+- **Multi-Provider Abstraction**: Supports a standardized interface for chat models, embeddings, and tools across providers (e.g., Azure OpenAI, AWS Bedrock, Ollama), allowing seamless model switching with minimal code changes.
 
-- **Standardized Interface & Debugging**: Unified model interface across providers for portability, incremental harness customization via middleware, and built-in LangSmith integration for trace analysis, tool call inspection, and failure mode detection.
+- **Observability & Debugging**: Integrates with LangSmith for tracing, debugging, and evaluating agent behavior via execution data, including tool calls, state transitions, and latency metrics.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T21:27:03.755856+05:30
+- Published: 2026-08-10T03:28:06.810547+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://python.langchain.com/docs/concepts/text_splitters/
+Original source: https://js.langchain.com

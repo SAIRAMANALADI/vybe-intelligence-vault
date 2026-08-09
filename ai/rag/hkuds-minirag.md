@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-10T00:37:37.728658+05:30'
+collected_at: '2026-08-10T03:24:15.533557+05:30'
 published_at: '2026-08-05T06:55:03Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 1996
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-10T00:37:37.728658+05:30'
-last_seen: '2026-08-10T00:37:37.728658+05:30'
-last_checked: '2026-08-10T00:37:37.728658+05:30'
+first_seen: '2026-08-10T03:24:15.533557+05:30'
+last_seen: '2026-08-10T03:24:15.533557+05:30'
+last_checked: '2026-08-10T03:24:15.533557+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified Retrieval-Augmented Generation (RAG) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as presented at ACL 2026.
 
-- **Efficiency Optimizations**: Implements lightweight retrieval mechanisms and model architectures tailored for SLMs, enabling faster inference and lower resource consumption compared to traditional RAG systems.
+- **Technical Innovation**: Proposes a lightweight architecture combining efficient retrieval mechanisms with compact LLMs, optimizing for both inference speed and memory efficiency without sacrificing accuracy.
 
-- **Open-Source & Reproducibility**: Provides a fully open-sourced Python implementation with modular components, facilitating research and deployment in resource-constrained environments.
+- **Open-Source Implementation**: Provides a Python-based, modular repository (`HKUDS/MiniRAG`) with 1,996 stars, featuring tools for easy integration, customization, and deployment of RAG systems in resource-constrained environments.
 
 ## Why It Matters
 

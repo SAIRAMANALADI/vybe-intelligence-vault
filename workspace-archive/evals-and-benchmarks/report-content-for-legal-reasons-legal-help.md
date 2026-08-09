@@ -2,7 +2,7 @@
 title: Report Content for Legal Reasons - Legal Help
 archive_category: evals-and-benchmarks
 source_category: ai/resources
-source_url: https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859
+source_url: https://support.google.com/legal/answer/3110420
 resource_id: blog:report-content-for-legal-reasons-legal-help
 local_vault_path: ai/resources/report-content-for-legal-reasons-legal-help.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Legal Removal Process**: Google allows users to request removal of content violating laws or policies via [legal troubleshooter](https://support.google.com/legal/troubleshooter/1114905), requiring specific URLs, violative content details, and background information for evaluation.
-- **Multi-Product Handling**: Separate notices must be filed for content appearing across multiple Google products, with responses prioritized based on validity and urgency.
-- **Limited Scope of Removal**: Google c
+- **Removal Process**: Google allows users to request removal of content violating laws or policies via [legal troubleshooter](https://support.google.com/legal/troubleshooter/1114905), requiring specific URLs, violative content details, and justification for evaluation.
+- **Multi-Product Handling**: Separate notices must be submitted for content appearing across multiple Google products, with responses prioritized based on validity and urgency.
+- **Limitations & Alternatives**: Google can restri
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859
+Original source URL: https://support.google.com/legal/answer/3110420
 
 ## Local Vault File
 

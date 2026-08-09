@@ -13,13 +13,14 @@ collected_at: '2026-08-10T00:36:12.481841+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: github:nmaroulis/protolink
 first_seen: '2026-08-10T00:36:12.481841+05:30'
 last_seen: '2026-08-10T00:36:12.481841+05:30'
 last_checked: '2026-08-10T00:36:12.481841+05:30'
 health_score: 100
 ---
+
 
 # Show HN: A replayable A2A jury for tracing how agents influence decisions
 

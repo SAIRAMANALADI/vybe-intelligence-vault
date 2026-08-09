@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-10T00:37:42.763254+05:30'
+collected_at: '2026-08-10T03:24:20.564054+05:30'
 published_at: '2026-08-06T15:56:15Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-10T00:37:42.763254+05:30'
-last_seen: '2026-08-10T00:37:42.763254+05:30'
-last_checked: '2026-08-10T00:37:42.763254+05:30'
+first_seen: '2026-08-10T03:24:20.564054+05:30'
+last_seen: '2026-08-10T03:24:20.564054+05:30'
+last_checked: '2026-08-10T03:24:20.564054+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating retrieval and generative AI for enhanced contextual responses.
+- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods to enhance document grounding and response accuracy in NVIDIA AI Workbench.
 
-- **Technical Stack**: Implemented in Python, leveraging NVIDIA's AI Workbench for hybrid RAG workflows, combining vector search with large language models (LLMs).
+- **Modular Python Implementation**: Provides a structured Python-based framework with configurable components (retrievers, rerankers, LLMs) for end-to-end RAG workflows, leveraging NVIDIA’s ecosystem (e.g., NeMo, Triton).
 
-- **Key Features**: Includes retrieval mechanisms (e.g., vector databases) and generative components, optimized for hybrid RAG architectures with modular Python-based implementation.
+- **Example Workflow**: Demonstrates a reproducible pipeline for deploying a hybrid RAG system, including data ingestion, retrieval, prompt augmentation, and generation, optimized for NVIDIA GPUs/accelerators.
 
 ## Why It Matters
 

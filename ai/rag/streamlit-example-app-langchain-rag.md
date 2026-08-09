@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-10T00:37:47.781666+05:30'
+collected_at: '2026-08-10T03:24:25.547704+05:30'
 published_at: '2026-08-07T11:55:59Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
+- workflows
 stars: 158
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-10T00:37:47.781666+05:30'
-last_seen: '2026-08-10T00:37:47.781666+05:30'
-last_checked: '2026-08-10T00:37:47.781666+05:30'
+first_seen: '2026-08-10T03:24:25.547704+05:30'
+last_seen: '2026-08-10T03:24:25.547704+05:30'
+last_checked: '2026-08-10T03:24:25.547704+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector-based similarity search with traditional keyword-based retrieval in a LangChain-powered RAG pipeline for enhanced document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS) for retrieval-augmented generation (RAG), combining vector similarity and keyword-based search for enhanced document retrieval.
 
-- **Streamlit UI for RAG**: Provides a Streamlit-based frontend to interact with a LangChain RAG system, enabling users to query and visualize retrieved results with hybrid search capabilities.
+- **Modular Architecture**: Implements a structured workflow with components for document loading (e.g., PyPDFLoader), text splitting (RecursiveCharacterTextSplitter), embedding (e.g., HuggingFace embeddings), and retrieval (vector store + hybrid search).
 
-- **Vectorstore & LLM Orchestration**: Utilizes a vector database (e.g., FAISS/Chroma) for embeddings storage and retrieval, coupled with LangChain’s framework to chain LLM-based generation with retrieved context.
+- **Streamlit UI**: Provides an interactive frontend for querying the RAG system, displaying retrieved context, and generating responses using a language model (e.g., LLM via LangChain's `ChatOpenAI` or similar).
 
 ## Why It Matters
 

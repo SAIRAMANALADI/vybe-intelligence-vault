@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-08-09T15:38:17.797601+05:30'
-collected_at: '2026-08-09T15:38:17.797615+05:30'
+published_at: '2026-08-10T03:30:25.261740+05:30'
+collected_at: '2026-08-10T03:30:25.261754+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-08-09T15:38:17.797615+05:30'
-last_seen: '2026-08-09T15:38:17.797615+05:30'
-last_checked: '2026-08-09T15:38:17.797615+05:30'
+first_seen: '2026-08-10T03:30:25.261754+05:30'
+last_seen: '2026-08-10T03:30:25.261754+05:30'
+last_checked: '2026-08-10T03:30:25.261754+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Coding Agent**: Open-source `dcode` agent built on Deep Agents SDK, supporting LLM-agnostic model switching, persistent memory for cross-session context, and customizable skills/approval controls for secure code execution.
+- **Multi-Model & Provider Agnostic**: `dcode` operates as an open-source coding agent compatible with any LLM, enabling seamless switching between providers or models while maintaining persistent memory for cross-session context.
 
-- **Advanced Execution Features**: Supports remote sandboxes, goals/rubrics for task validation, subagents for parallel task delegation, context compaction for memory efficiency, and MCP tool integration for external tool loading.
+- **Modular & Extensible Architecture**: Supports remote sandboxes, subagents for parallel task delegation, MCP tool integration, custom skills via configuration (`config.toml`), and human-in-the-loop approval for sensitive operations.
 
-- **Observability & Integration**: Provides LangSmith tracing for debugging, human-in-the-loop approvals for sensitive operations, and MCP-based integration with IDEs (e.g., VSCode) for real-time assistance.
+- **Observability & Debugging**: Features LangSmith tracing for agent operations, context compaction for efficient memory management, and goals/rubrics for measurable task completion validation.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T15:38:17.797601+05:30
+- Published: 2026-08-10T03:30:25.261740+05:30
 
 ## Related Tags
 

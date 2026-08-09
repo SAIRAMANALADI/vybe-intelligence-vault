@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://srihash.org/
-published_at: '2026-08-09T18:59:51.508986+05:30'
-collected_at: '2026-08-09T18:59:51.508995+05:30'
+published_at: '2026-08-10T03:34:12.206674+05:30'
+collected_at: '2026-08-10T03:34:12.206686+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:sri-hash-generator
-first_seen: '2026-08-09T18:59:51.508995+05:30'
-last_seen: '2026-08-09T18:59:51.508995+05:30'
-last_checked: '2026-08-09T18:59:51.508995+05:30'
+first_seen: '2026-08-10T03:34:12.206686+05:30'
+last_seen: '2026-08-10T03:34:12.206686+05:30'
+last_checked: '2026-08-10T03:34:12.206686+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Subresource Integrity (SRI) is a W3C specification enabling verification that third-party hosted resources (e.g., JavaScript, CSS) remain unmodified via cryptographic hash comparison (`SHA-256`, `SHA-384`, `SHA-512`), mitigating server-side tampering risks even with valid TLS certificates.
+- **Subresource Integrity (SRI)** is a W3C specification enabling verification of third-party resource integrity via cryptographic hashes (SHA-256/384/512) to detect tampering, complementing TLS by ensuring resource authenticity beyond transport security.
 
-- **Implementation Requirement**: SRI requires the `crossorigin="anonymous"` attribute for cross-origin resources to enforce integrity checks; omitting it triggers "fail-open" behavior, bypassing SRI security entirely by loading resources without validation.
+- **Integrity Hash Generation**: Hashes are computed using `openssl dgst -sha384 -binary FILENAME.js | openssl base64 -A` or via the provided generator; the `crossorigin="anonymous"` attribute is mandatory for cross-origin requests to enforce SRI checks (omission triggers "fail-open" behavior).
 
-- **Hash Generation**: Integrity hashes can be generated via the [SRI Hash Generator](https://srihash.org/#app) or CLI command: `openssl dgst -sha384 -binary FILENAME.js | openssl base64 -A`, ensuring alignment with W3C SRI standards for deployment.
+- **Browser Support & Implementation**: SRI requires `crossorigin` attribute for cross-origin resources; compatibility can be verified via [caniuse.com](https://caniuse.com/#feat=subresource-integrity) or [WPT test](https://wpt.live/subresource-integrity/subresource-integrity.html).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T18:59:51.508986+05:30
+- Published: 2026-08-10T03:34:12.206674+05:30
 
 ## Related Tags
 

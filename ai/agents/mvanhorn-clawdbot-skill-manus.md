@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mvanhorn/clawdbot-skill-manus
-collected_at: '2026-08-08T15:32:01.928393+05:30'
+collected_at: '2026-08-10T03:27:05.625457+05:30'
 published_at: '2026-07-27T07:13:14Z'
 tags:
 - agents
 - github-repo
 - scripts
 - shell
-- workflows
 stars: 26
 language: Shell
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-01-22T01:48:25Z'
 pushed_at: '2026-03-16T05:09:31Z'
 resource_id: github:mvanhorn/clawdbot-skill-manus
-first_seen: '2026-08-08T15:32:01.928393+05:30'
-last_seen: '2026-08-08T15:32:01.928393+05:30'
-last_checked: '2026-08-08T15:32:01.928393+05:30'
+first_seen: '2026-08-10T03:27:05.625457+05:30'
+last_seen: '2026-08-10T03:27:05.625457+05:30'
+last_checked: '2026-08-10T03:27:05.625457+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Task Automation Framework**: Shell-based OpenClaw skill enabling delegation of complex tasks (web research, report generation, code building, data scraping) to Manus AI via predefined task templates.
-- **Monitoring & Cost Tracking**: Integrated system for real-time task monitoring, progress tracking, and cost management of AI-driven operations.
-- **Autonomous Agent Integration**: Supports autonomous AI-agent workflows (ClawHub/Manus) with web browsing, scraping, and structured output generation.
+- **Task Delegation Framework**: OpenClaw skill enabling autonomous delegation of complex tasks (e.g., web research, report generation, code building, data scraping) to Manus AI via structured task templates and monitoring systems.
+
+- **Cost & Performance Tracking**: Implements real-time cost tracking and performance metrics for AI-driven task execution, ensuring transparency and optimization of resource usage.
+
+- **Shell-Based Automation**: Built as a Shell-based skill for ClawHub, integrating with Manus AI to extend functionality for AI-agent orchestration, web browsing, and autonomous task execution.
 
 ## Why It Matters
 

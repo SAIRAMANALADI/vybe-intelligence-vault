@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/deepset
-published_at: '2026-08-09T15:39:00.045050+05:30'
-collected_at: '2026-08-09T15:39:00.045063+05:30'
+published_at: '2026-08-10T03:33:23.220766+05:30'
+collected_at: '2026-08-10T03:33:23.220777+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:deepset-github
-first_seen: '2026-08-09T15:39:00.045063+05:30'
-last_seen: '2026-08-09T15:39:00.045063+05:30'
-last_checked: '2026-08-09T15:39:00.045063+05:30'
+first_seen: '2026-08-10T03:33:23.220777+05:30'
+last_seen: '2026-08-10T03:33:23.220777+05:30'
+last_checked: '2026-08-10T03:33:23.220777+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,15 @@ health_score: 100
 
 ## Summary
 
-- **Organization Profile**: `deepset` is a GitHub organization with 5 public repositories, 0 projects, 0 packages, and 0 stars, indicating minimal public activity or visibility.
+- **Organization Profile**: `deepset` is a GitHub organization with 5 public repositories, primarily focused on Go (Golang) projects including design patterns, HTTP tools, and log analysis utilities.
 
-- **Repository Focus**: Primary repositories include `httphashtool` (Go-based HTTP hash tool), `go-patterns` (curated Go design patterns), and `most-active-cookie` (Go utility for binary search-based log analysis).
+- **Key Repositories**:
+  - [`httphashtool`](https://github.com/deepset/httphashtool): A Go-based tool for HTTP hash operations.
+  - [`most-active-cookie`](https://github.com/deepset/most-active-cookie): A Go application to identify the most frequent cookie in a log file using binary search.
 
-- **Tooling & Utilities**: The organization hosts tools like `tweether` (JSON data parser) and `node-express-course` (Node.js/Express.js educational content), suggesting a focus on backend development and data processing utilities.
+- **Additional Projects**:
+  - [`go-patterns`](https://github.com/deepset/go-patterns): A curated collection of Go design patterns, idioms, and recipes (forked from `tmrts/go-patterns`).
+  - [`node-express-course`](https://github.com/deepset/node-express-course): An educational repository introducing Node.js and Express.js server development.
 
 ## Why It Matters
 
@@ -34,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T15:39:00.045050+05:30
+- Published: 2026-08-10T03:33:23.220766+05:30
 
 ## Related Tags
 

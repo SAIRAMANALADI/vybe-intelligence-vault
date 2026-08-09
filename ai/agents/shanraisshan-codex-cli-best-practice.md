@@ -4,12 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-08-10T00:39:32.807877+05:30'
+collected_at: '2026-08-10T03:26:10.575295+05:30'
 published_at: '2026-08-09T17:59:39Z'
 tags:
 - agents
-- benchmark
 - github-repo
+- hackernews
 - openai
 - python
 - workflows
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-08-10T00:39:32.807877+05:30'
-last_seen: '2026-08-10T00:39:32.807877+05:30'
-last_checked: '2026-08-10T00:39:32.807877+05:30'
+first_seen: '2026-08-10T03:26:10.575295+05:30'
+last_seen: '2026-08-10T03:26:10.575295+05:30'
+last_checked: '2026-08-10T03:26:10.575295+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies for transitioning from *vibe coding* to *agentic engineering* using OpenAI's Codex CLI, emphasizing modular agentic workflows, hooks, and context engineering for scalable AI-driven development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using OpenAI Codex CLI, emphasizing modular agent-based workflows for scalable AI-driven development.
 
-- **Codex CLI Skills & Commands**: Demonstrates advanced Codex CLI usage with custom skills, hooks, and commands to automate agentic workflows, including context-aware task decomposition, multi-agent collaboration, and dynamic skill injection.
+- **Codex CLI Skills & Hooks**: Implements custom `codex-cli-skills` and `codex-hooks` for dynamic context engineering, enabling real-time task decomposition, tool orchestration, and stateful agent interactions via Python-based CLI commands.
 
-- **Best Practices for AI Agents**: Outlines Pakistan-specific developer practices for optimizing Codex CLI agents, including repository structure, skill chaining, error handling, and performance benchmarking for agentic engineering in production environments.
+- **Best Practices Framework**: Provides a curated set of *codex-cli-best-practices* for Pakistan-based developers, including standardized agentic workflows, context management techniques, and performance optimization strategies for AI-assisted coding.
 
 ## Why It Matters
 

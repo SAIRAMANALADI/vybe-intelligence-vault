@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.apple.com/privacy/use-of-cookies/
-published_at: '2026-07-21T01:38:36.739016+05:30'
-collected_at: '2026-07-21T01:38:36.739033+05:30'
+published_at: '2026-08-10T03:33:52.181667+05:30'
+collected_at: '2026-08-10T03:33:52.181680+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:legal-use-of-cookies-apple
-first_seen: '2026-07-21T01:38:36.739033+05:30'
-last_seen: '2026-07-21T01:38:36.739033+05:30'
-last_checked: '2026-07-21T01:38:36.739033+05:30'
+first_seen: '2026-08-10T03:33:52.181680+05:30'
+last_seen: '2026-08-10T03:33:52.181680+05:30'
+last_checked: '2026-08-10T03:33:52.181680+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Cookie Categories**: Apple uses three cookie categories: *Strictly Necessary* (essential for core functions like shopping carts), *Performance* (aggregate usage data for optimization and affiliate tracking), and *Functionality* (store user preferences and localized settings).
+- **Cookie Categories**: Apple categorizes cookies into three types: **Strictly Necessary** (essential for site functionality), **Performance** (aggregate user behavior data for optimization), and **Functionality** (store user preferences/settings).
 
-- **Browser-Specific Controls**: Cookies can be disabled in Safari via *Preferences > Privacy* (macOS/iOS) or *Settings > Safari > Cookies* (iOS), while other browsers require provider-specific methods.
+- **Cookie Management**: Users can disable cookies in Safari via **Preferences > Privacy** (macOS) or **Settings > Safari > Cookies** (iOS/iPadOS); other browsers require provider-specific methods.
 
-- **Impact of Disabling**: Disabling cookies may break critical site features (e.g., shopping baskets) and prevent personalized/localized experiences, as strictly necessary cookies are required for core functionality.
+- **Impact of Disabling**: Disabling cookies may **disable core features** (e.g., shopping carts, billing) or **limit personalized experiences** (e.g., localization, preference retention).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T01:38:36.739016+05:30
+- Published: 2026-08-10T03:33:52.181667+05:30
 
 ## Related Tags
 

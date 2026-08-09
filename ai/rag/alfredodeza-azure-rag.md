@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alfredodeza/azure-rag
-collected_at: '2026-08-10T00:37:42.719915+05:30'
+collected_at: '2026-08-10T03:24:20.506632+05:30'
 published_at: '2026-04-23T18:04:11Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- workflows
 stars: 53
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-12-26T16:03:29Z'
 pushed_at: '2024-01-03T12:16:36Z'
 resource_id: github:alfredodeza/azure-rag
-first_seen: '2026-08-10T00:37:42.719915+05:30'
-last_seen: '2026-08-10T00:37:42.719915+05:30'
-last_checked: '2026-08-10T00:37:42.719915+05:30'
+first_seen: '2026-08-10T03:24:20.506632+05:30'
+last_seen: '2026-08-10T03:24:20.506632+05:30'
+last_checked: '2026-08-10T03:24:20.506632+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating Azure Cognitive Search for retrieval and Azure OpenAI for generation in a Python-based workflow.
+- **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating vector search with Azure Cognitive Search and LLM APIs for enhanced generative responses.
 
-- **Architecture**: Leverages Azure's AI ecosystem, combining vector search capabilities with large language models (LLMs) to enhance contextual responses with retrieved data.
+- **Python-Based**: Entirely implemented in Python, leveraging Azure SDKs (e.g., `azure-search-documents`, `azure-ai-inference`) for document processing, embedding generation, and query orchestration.
 
-- **Deployment**: Provides a structured example for deploying RAG pipelines on Azure, including configuration for search indexes, embeddings, and LLM interactions.
+- **Azure Integration**: Utilizes Azure services like Azure OpenAI for embeddings/LLM inference, Azure Blob Storage for document storage, and Azure Cognitive Search for vector indexing and retrieval.
 
 ## Why It Matters
 

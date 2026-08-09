@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-10T00:38:42.770575+05:30'
+collected_at: '2026-08-10T03:25:20.562756+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-10T00:38:42.770575+05:30'
-last_seen: '2026-08-10T00:38:42.770575+05:30'
-last_checked: '2026-08-10T00:38:42.770575+05:30'
+first_seen: '2026-08-10T03:25:20.562756+05:30'
+last_seen: '2026-08-10T03:25:20.562756+05:30'
+last_checked: '2026-08-10T03:25:20.562756+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and dynamic context management.
 
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence over extended interactions, addressing limitations of traditional RAG systems in long-form reasoning tasks.
+- **Stateful Long-Form Reasoning**: Implements hierarchical memory organization (short-term, long-term, and episodic memory) to maintain coherence and relevance across extended dialogues or narratives, improving multi-turn reasoning performance.
 
-- **AAAI 2026 Contribution**: Proposes a novel approach to enhance RAG systems with cognitive memory organization, validated through empirical results on long narrative reasoning benchmarks, demonstrating superior performance over baseline methods.
+- **AAAI 2026 Poster Submission**: Proposes novel evaluation metrics and benchmarks for stateful reasoning, demonstrating superior performance over traditional RAG systems in tasks requiring sustained contextual understanding.
 
 ## Why It Matters
 

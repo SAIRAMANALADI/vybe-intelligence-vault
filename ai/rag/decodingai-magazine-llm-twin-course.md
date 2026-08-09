@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-10T00:37:57.771077+05:30'
+collected_at: '2026-08-10T03:24:35.521982+05:30'
 published_at: '2026-08-09T14:02:07Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 4381
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-10T00:37:57.771077+05:30'
-last_seen: '2026-08-10T00:37:57.771077+05:30'
-last_checked: '2026-08-10T00:37:57.771077+05:30'
+first_seen: '2026-08-10T03:24:35.521982+05:30'
+last_seen: '2026-08-10T03:24:35.521982+05:30'
+last_checked: '2026-08-10T03:24:35.521982+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides hands-on lessons (12 sessions) and source code for building production-ready LLM & RAG systems using LLMOps best practices, covering end-to-end development, deployment, and optimization.
-
-- **Tech Stack**: Integrates AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Superlinked (embeddings), and Qwak (MLOps), with monitoring via Comet-ML and containerization via Docker.
-
-- **Focus Areas**: Covers MLOps, ML system design, generative AI, and infrastructure-as-code (IaC) for scalable, production-grade LLM/RAG deployments.
+- **Course Structure**: Provides a free, hands-on guide to building production-ready LLM and RAG systems using LLMOps best practices, including 12 structured lessons and source code.
+- **Technical Stack**: Implements AWS, Pulumi (IaC), Bytewax, Qdrant, Comet-ML, and Qwak for scalable ML pipelines, with Docker for containerization and Superlinked for vector search.
+- **MLOps Integration**: Covers end-to-end workflows including infrastructure-as-code (Pulumi), MLOps (Qwak), monitoring (Comet-ML), and RAG optimization with Qdrant for vector databases.
 
 ## Why It Matters
 

@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev
-published_at: '2026-08-07T08:58:18.799329+05:30'
-collected_at: '2026-08-07T08:58:18.799341+05:30'
+published_at: '2026-08-10T03:30:57.542170+05:30'
+collected_at: '2026-08-10T03:30:57.542183+05:30'
 tags:
 - creative_dev
 - hackernews
 - web-crawled
 status: active
 resource_id: blog:web-dev
-first_seen: '2026-08-07T08:58:18.799341+05:30'
-last_seen: '2026-08-07T08:58:18.799341+05:30'
-last_checked: '2026-08-07T08:58:18.799341+05:30'
+first_seen: '2026-08-10T03:30:57.542183+05:30'
+last_seen: '2026-08-10T03:30:57.542183+05:30'
+last_checked: '2026-08-10T03:30:57.542183+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Web Vitals Optimization**: Interaction to Next Paint (INP) is now a Core Web Vital metric; resources provide guidance on measuring and optimizing INP, alongside best practices for improving Largest Contentful Paint (LCP) beyond image optimization.
+- **Core Web Vitals Optimization**: Interaction to Next Paint (INP) is now a Core Web Vital metric; resources provide guidance on measuring and optimizing INP, alongside best practices for improving Core Web Vitals performance, including debunking misconceptions about Largest Contentful Paint (LCP) optimization.
 
-- **Cross-Browser API Support**: New CSS color spaces/functions and `TransformStream` are now interoperable across major browsers, enabling advanced features like subgrid and stream-based processing in PWAs.
+- **Web Platform Evolution**: The web platform offers structured pathways for exploring browser features and APIs, with dedicated sections for HTML (document structure), CSS (presentation layer), and JavaScript (interactivity), including beginner-to-expert courses and updates on new CSS color spaces, functions, and subgrid interoperability.
 
-- **Accessibility & Security Enhancements**: Updated courses and tools focus on accessible design (e.g., color contrast testing, semantic HTML navigation) and modern authentication (passkeys for passwordless logins).
+- **Accessibility & Security Enhancements**: Resources focus on building accessible websites (e.g., navigation, color contrast testing) and modern authentication methods (e.g., passkeys for passwordless logins), alongside Web Payments best practices to streamline user flows and improve conversions.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-07T08:58:18.799329+05:30
+- Published: 2026-08-10T03:30:57.542170+05:30
 
 ## Related Tags
 

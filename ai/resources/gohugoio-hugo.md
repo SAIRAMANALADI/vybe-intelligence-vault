@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases/tag/v0.164.0
-published_at: '2026-08-10T00:42:28.667330+05:30'
-collected_at: '2026-08-10T00:42:28.667343+05:30'
+published_at: '2026-08-10T03:29:10.772823+05:30'
+collected_at: '2026-08-10T03:29:10.772836+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-08-10T00:42:28.667343+05:30'
-last_seen: '2026-08-10T00:42:28.667343+05:30'
-last_checked: '2026-08-10T00:42:28.667343+05:30'
+first_seen: '2026-08-10T03:29:10.772836+05:30'
+last_seen: '2026-08-10T03:29:10.772836+05:30'
+last_checked: '2026-08-10T03:29:10.772836+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Syntax Highlighting & Template Enhancements**: Introduced dark/light mode pairs for Chroma highlighter styles, added `encoding.HexEncode`, `encoding.HexDecode`, and `crypto.Hash` template functions, and included a new `markup.rst.syntaxHighlight` option for RST markup processing.
+- **Syntax Highlighting & Template Enhancements**: Introduced dark/light mode pairs for Chroma highlighter styles and added new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), along with Pandoc citation support and `markup.rst.syntaxHighlight` configuration.
 
-- **Performance & Compatibility Fixes**: Resolved a performance regression introduced in v0.128.0, added Pandoc citation support, and deprecated `resources.PostProcess` in favor of `templates.Defer` for improved resource handling.
+- **Performance & Deprecation**: Fixed a performance regression from v0.128.0, deprecated `resources.PostProcess` in favor of `templates.Defer`, and improved template name lookup case-insensitivity.
 
-- **Dependency Updates & Bug Fixes**: Updated Go modules (`golang.org/x/tools`, `golang.org/x/net`, etc.) and dependencies (Chroma, esbuild), while fixing template name lookup case-insensitivity and improving `.Render` error handling for missing templates.
+- **Dependency Updates**: Upgraded key dependencies (e.g., `esbuild`, `Chroma`, `golang.org/x/tools`) and added sub-path support in `.Render` layouts.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T00:42:28.667330+05:30
+- Published: 2026-08-10T03:29:10.772823+05:30
 
 ## Related Tags
 

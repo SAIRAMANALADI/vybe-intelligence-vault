@@ -3,13 +3,12 @@ title: Gemini Code Assist for teams and businesses
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://codeassist.google/
-published_at: '2026-08-08T15:38:05.201585+05:30'
-collected_at: '2026-08-08T15:38:05.201600+05:30'
+source_url: https://cloud.google.com/products/gemini/code-assist
+published_at: '2026-08-10T03:30:49.987254+05:30'
+collected_at: '2026-08-10T03:30:49.987268+05:30'
 tags:
 - agents
 - hackernews
-- models
 - producthunt
 - rag
 - reddit
@@ -19,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-code-assist-for-teams-and-businesses
-first_seen: '2026-08-08T15:38:05.201600+05:30'
-last_seen: '2026-08-08T15:38:05.201600+05:30'
-last_checked: '2026-08-08T15:38:05.201600+05:30'
+first_seen: '2026-08-10T03:30:49.987268+05:30'
+last_seen: '2026-08-10T03:30:49.987268+05:30'
+last_checked: '2026-08-10T03:30:49.987268+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Gemini 3 Integration**: Leverages Google's most advanced LLM (1M token context window) for AI-assisted coding, with fine-tuning across open-source code, security data, and Google Cloud documentation to enable code completion, generation, and natural language chat in IDEs and terminal environments.
+- **Gemini Code Assist** integrates **Gemini 3** (1M token context window) for AI-assisted development across the SDLC, including code completion, generation, and natural language chat in IDEs (VS Code, JetBrains) and Google Cloud services (Firebase, BigQuery, Apigee).
 
-- **Agentic Workflows**: Supports AI-driven agents for end-to-end development tasks (e.g., multi-file edits, dependency updates) via MCP integration, with Human-in-the-Loop (HiTL) oversight, and offers smart actions/commands for automated tasks like error fixing and code explanation.
+- **Agent Mode & CLI Tools**: Supports **autonomous agents** for multi-file edits, project-wide changes, and tool integration (MCP), alongside **Gemini CLI** for terminal-based AI-driven coding, debugging, and file manipulation.
 
-- **Enterprise Security & Compliance**: Enforces strict data governance (no training on customer data/IP), provides source citation for license compliance, and meets certifications (SOC 1/2/3, ISO 27001/17/18/701), with granular IAM controls and VPC Service Controls for secure adoption.
+- **Enterprise Features**: Includes **private codebase customization**, **IP compliance tools** (source citations, indemnification), **VPC controls**, and **industry certifications** (SOC 2, ISO 27001) for secure, compliant AI-assisted development.
 
 ## Why It Matters
 
@@ -43,13 +42,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T15:38:05.201585+05:30
+- Published: 2026-08-10T03:30:49.987254+05:30
 
 ## Related Tags
 
 - agents
 - hackernews
-- models
 - producthunt
 - rag
 - reddit
@@ -60,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://codeassist.google/
+Original source: https://cloud.google.com/products/gemini/code-assist

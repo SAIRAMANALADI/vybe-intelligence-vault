@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:eighttrigrams/us-vs-them
 first_seen: '2026-08-10T00:36:11.683548+05:30'
 last_seen: '2026-08-10T00:36:11.683548+05:30'
 last_checked: '2026-08-10T00:36:11.683548+05:30'
 health_score: 100
 ---
+
 
 # Human vs. AI – Diff-based line-level provenance for text under agentic editing
 

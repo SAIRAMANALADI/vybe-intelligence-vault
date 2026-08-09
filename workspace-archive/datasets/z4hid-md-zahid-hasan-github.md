@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Profile Overview**: GitHub user `@z4hid` (Md. Zahid Hasan) with a B.Sc. in Computer Science & Engineering, specializing in ML-driven intelligent systems; based in Dhaka, Bangladesh.
-
-- **Repository Stats**: 32 public repositories, 5 stars, and contributions in Python, Jupyter Notebook, and Astro; includes projects like `flower-image-classification` and `customerFeedbackAnalyzer`.
-
-- **Social Links**: LinkedIn ([in/z4hid](https://linkedin.com/in/z4hid/)) and X ([@z4hidhasan](https://twitter.c
+- **Profile Overview**: GitHub user `@z4hid` with 32 repositories, 5 stars, and a focus on machine learning (ML) and intelligent systems; holds a B.Sc. in Computer Science & Engineering.
+- **Key Projects**: Includes `flower-image-classification` (deep learning for flower species prediction), `byteX` (Python-based tool), and `customerFeedbackAnalyzer` (Jupyter Notebook for sentiment analysis).
+- **Location & Links**: Based in Dhaka, Bangladesh; linked to LinkedIn (`in/z4hid`) and X (`@z4hidhasan`
 
 ## Use Cases
 

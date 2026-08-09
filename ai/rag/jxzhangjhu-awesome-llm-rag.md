@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-10T00:38:02.734652+05:30'
+collected_at: '2026-08-10T03:24:40.511475+05:30'
 published_at: '2026-08-09T16:07:20Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
+- models
 - paper
 - rag
 - unknown
@@ -20,9 +22,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-10T00:38:02.734652+05:30'
-last_seen: '2026-08-10T00:38:02.734652+05:30'
-last_checked: '2026-08-10T00:38:02.734652+05:30'
+first_seen: '2026-08-10T03:24:40.511475+05:30'
+last_seen: '2026-08-10T03:24:40.511475+05:30'
+last_checked: '2026-08-10T03:24:40.511475+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive repository aggregating advanced techniques, tools, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval methods, and integration strategies.
+- **Curated Resource**: A comprehensive, community-maintained repository aggregating state-of-the-art techniques, papers, tools, and frameworks for **Retrieval-Augmented Generation (RAG)** in Large Language Models (LLMs), including embeddings, retrieval mechanisms, and hybrid architectures.
 
-- **Technical Focus**: Encompasses topics such as RAG embeddings, retrieval-information mechanisms, and LLM-specific optimizations, providing curated links to cutting-edge implementations and theoretical advancements.
+- **Technical Scope**: Encompasses advanced topics such as **dense retrieval (e.g., DPR, Contriever)**, **hybrid retrieval (sparse + dense)**, **RAG-specific fine-tuning**, **evaluation benchmarks**, and **latency optimization** for real-world deployment.
 
-- **Dynamic Updates**: Last updated in August 2026, ensuring inclusion of recent developments in RAG architectures, hybrid retrieval-augmentation methods, and performance benchmarks for LLMs.
+- **Dynamic Updates**: Actively maintained with the latest research (last updated **2026-08-09**), featuring contributions from academia and industry, and categorized by **retrieval methods**, **LLM integration strategies**, and **benchmark datasets** (e.g., KILT, BEIR).
 
 ## Why It Matters
 

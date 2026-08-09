@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-10T00:39:37.835516+05:30'
+collected_at: '2026-08-10T03:26:15.580088+05:30'
 published_at: '2026-08-07T03:48:17Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-10T00:39:37.835516+05:30'
-last_seen: '2026-08-10T00:39:37.835516+05:30'
-last_checked: '2026-08-10T00:39:37.835516+05:30'
+first_seen: '2026-08-10T03:26:15.580088+05:30'
+last_seen: '2026-08-10T03:26:15.580088+05:30'
+last_checked: '2026-08-10T03:26:15.580088+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Best Practices Repository**: Centralized collection of coding standards and best practices for multiple programming languages (TypeScript, Kotlin, Go, Java, etc.) and frameworks (React, Angular, Spring Boot, Laravel, etc.), designed to guide AI agents in adhering to industry-standard development practices.
+- **Comprehensive Coding Standards Repository**: Hosts standardized best practices for multiple programming languages (TypeScript, Kotlin, Go, Java) and frameworks (React, Angular, Spring Boot, Laravel), structured for AI agent guidance.
 
-- **Multi-Platform Support**: Includes guidelines for cross-platform development (Android, iOS, Flutter, React Native) and backend frameworks (NestJS, Next.js, Laravel), ensuring consistency across diverse tech stacks.
+- **Multi-Platform & Framework Support**: Covers mobile (Android, iOS, Flutter), web (React, Next.js), backend (NestJS, Spring Boot), and enterprise (Laravel) ecosystems with curated rules for consistency.
 
-- **Tooling Integration**: Features Cursor Rules and structured documentation to enforce standardized coding patterns, enhancing AI agent reliability and output quality in collaborative development environments.
+- **Agent-Optimized Tooling**: Integrates `.cursorrules` and structured guidelines to enforce coding standards, ensuring AI agents adhere to language/framework-specific conventions efficiently.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-10T00:38:12.738740+05:30'
+collected_at: '2026-08-10T03:24:50.531250+05:30'
 published_at: '2026-08-09T07:11:34Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-10T00:38:12.738740+05:30'
-last_seen: '2026-08-10T00:38:12.738740+05:30'
-last_checked: '2026-08-10T00:38:12.738740+05:30'
+first_seen: '2026-08-10T03:24:50.531250+05:30'
+last_seen: '2026-08-10T03:24:50.531250+05:30'
+last_checked: '2026-08-10T03:24:50.531250+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized evaluation framework for Graph Retrieval-Augmented Generation (GraphRAG) models, including datasets and metrics for assessing performance in graph-based RAG tasks.
-- **Technical Scope**: Focuses on analyzing when and how graph structures enhance RAG performance, covering retrieval, generation, and integration challenges in ICLR'26.
-- **Implementation**: Python-based repository with modular components for dataset curation, model evaluation, and benchmarking, last updated August 2026.
+- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG models, focusing on graph-based retrieval-augmented generation (RAG) systems, with structured datasets and metrics for performance analysis.
+
+- **ICLR'26 Contribution**: Introduces a comprehensive analysis framework to determine optimal use cases for graphs in RAG, including experimental setups, baseline implementations, and comparative studies against traditional RAG methods.
+
+- **Technical Implementation**: Python-based repository featuring modular components for graph construction, retrieval strategies, and evaluation pipelines, with support for custom datasets and model integration.
 
 ## Why It Matters
 

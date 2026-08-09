@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-10T00:39:37.800433+05:30'
+collected_at: '2026-08-10T03:26:15.606696+05:30'
 published_at: '2026-08-04T06:02:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
 stars: 68
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-10T00:39:37.800433+05:30'
-last_seen: '2026-08-10T00:39:37.800433+05:30'
-last_checked: '2026-08-10T00:39:37.800433+05:30'
+first_seen: '2026-08-10T03:26:15.606696+05:30'
+last_seen: '2026-08-10T03:26:15.606696+05:30'
+last_checked: '2026-08-10T03:26:15.606696+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Stack & Integration**: Primarily uses **Shell scripts** for automation, with focus on **CLI tools**, **LLM integration**, **MCP (Model Context Protocol)**, and **Anthropic’s Claude** ecosystem for agentic AI workflows.
-- **Key Features**: Includes **developer tooling templates**, **multi-agent collaboration patterns**, and **resource optimization techniques** for efficient AI-driven development workflows. Last updated **2026-08-04**.
+- **Repository Structure**: Contains a curated wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily Shell-based, covering CLI tools, MCP (Model Context Protocol), and integration with Anthropic's LLM frameworks for agentic AI workflows.
+- **Resource Scope**: Provides templates and documentation for optimizing developer tools, multi-agent systems, and cost-efficient LLM interactions.
 
 ## Why It Matters
 

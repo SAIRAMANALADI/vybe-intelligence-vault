@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/WenyuChiou/awesome-agentic-ai-zh
-collected_at: '2026-08-10T00:39:27.815855+05:30'
+collected_at: '2026-08-10T03:26:05.613628+05:30'
 published_at: '2026-08-09T18:24:57Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-05-04T22:18:51Z'
 pushed_at: '2026-08-05T11:16:58Z'
 resource_id: github:wenyuchiou/awesome-agentic-ai-zh
-first_seen: '2026-08-10T00:39:27.815855+05:30'
-last_seen: '2026-08-10T00:39:27.815855+05:30'
-last_checked: '2026-08-10T00:39:27.815855+05:30'
+first_seen: '2026-08-10T03:26:05.613628+05:30'
+last_seen: '2026-08-10T03:26:05.613628+05:30'
+last_checked: '2026-08-10T03:26:05.613628+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, with 240+ curated resources in Traditional Chinese, English, and Simplified Chinese, including hands-on examples.
-- **Technical Scope**: Encompasses LLM agents, agentic workflows, prompt engineering, RAG, MCP, CLI tools (e.g., `claude-code`, `claude-skills`), and multi-agent system architectures.
-- **Repository Metrics**: 5,128 stars, 695 forks, primarily Python-based, last updated 2026-08-09, with topics spanning agentic AI, model-context protocol, and Chinese LLM ecosystems.
+- **Trilingual Agentic AI Learning Roadmap**: Curated collection of 240+ resources spanning LLM fundamentals to multi-agent systems, available in Traditional Chinese, Simplified Chinese, and English, with hands-on Python examples.
+
+- **Comprehensive Topics Covered**: Includes agentic AI workflows, LLM agents, prompt engineering, RAG, CLI tools, MCP (Model Context Protocol), and multi-agent architectures, with integration examples for tools like Claude Code and Claude Skills.
+
+- **High-Activity Repository**: Maintained with 5,128 stars and 695 forks, last updated August 9, 2026, serving as a dynamic resource for AI agent development and deployment.
 
 ## Why It Matters
 
