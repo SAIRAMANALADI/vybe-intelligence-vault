@@ -4,17 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-08-09T18:54:16.508570+05:30'
+collected_at: '2026-08-09T21:25:14.904091+05:30'
 published_at: '2026-08-09T06:51:11Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - meta-ai
 - models
 - openai
 - python
-- scripts
 - workflows
 stars: 1451
 language: Python
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-07-14T09:53:56Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-08-09T18:54:16.508570+05:30'
-last_seen: '2026-08-09T18:54:16.508570+05:30'
-last_checked: '2026-08-09T18:54:16.508570+05:30'
+first_seen: '2026-08-09T21:25:14.904091+05:30'
+last_seen: '2026-08-09T21:25:14.904091+05:30'
+last_checked: '2026-08-09T21:25:14.904091+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated LLM/Agent Skills Repository**: Hosts a structured collection of tools, frameworks, and resources for customizing AI agent workflows, compatible with platforms like **Claude Code**, **Codex**, **Gemini CLI**, and custom agents.
-
-- **Multi-Model & Tool Integration**: Supports **Anthropic**, **OpenAI**, **Google (Gemini)**, **Qwen**, and **Llama**, with CLI tools (e.g., `claude-skills`, `gemini-cli`) and SDKs for extending agent capabilities.
-
-- **Python-Based & Open-Source**: Repository is **Python-centric**, actively maintained (last updated **2026-08-09**), with **1,451 stars** and **258 forks**, focusing on **LLM skills**, **agent automation**, and **code generation** workflows.
+- **Curated Resource**: Repository providing a structured list of tools, libraries, and frameworks for customizing LLM and AI Agent workflows, compatible with platforms like Claude Code, Codex, and Gemini CLI.
+- **Technical Scope**: Focuses on Python-based implementations, covering skills for Anthropic, OpenAI, Qwen, and Llama models, including CLI tools (e.g., Codex CLI, Gemini CLI) and agent integration.
+- **Metadata**: 1,451 stars, 258 forks; last updated August 9, 2026; includes topics like `awesome-list`, `claude-skills`, and `llms`.
 
 ## Why It Matters
 

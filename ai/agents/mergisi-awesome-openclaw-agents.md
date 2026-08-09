@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-08-09T18:53:41.456787+05:30'
-published_at: '2026-08-09T04:14:27Z'
+collected_at: '2026-08-09T21:24:39.815403+05:30'
+published_at: '2026-08-09T13:32:03Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - html
 - scripts
-stars: 3894
+stars: 3895
 language: HTML
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-08-09T18:53:41.456787+05:30'
-last_seen: '2026-08-09T18:53:41.456787+05:30'
-last_checked: '2026-08-09T18:53:41.456787+05:30'
+first_seen: '2026-08-09T21:24:39.815403+05:30'
+last_seen: '2026-08-09T21:24:39.815403+05:30'
+last_checked: '2026-08-09T21:24:39.815403+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories.
-- **Technical Scope**: Supports multi-agent systems, MCP integration, Docker deployment, and no-code configurations via SOUL.md for automation and productivity tools.
-- **Community & Contribution**: Open-source project with 3,894 stars and 630 forks, accepting community submissions for additional agent templates.
+- **Repository Content**: Hosts **162 production-ready AI agent templates** for **OpenClaw**, utilizing **SOUL.md configurations** across **19 categories**, with a submission process for community contributions.
+- **Technical Stack**: Primarily **HTML-based**, supporting **multi-agent systems**, **LLMs**, **MCP**, and **no-code automation**, with integrations for **Docker**, **Telegram bots**, and **Anthropic/Claude frameworks**.
+- **Metadata**: **3,895 stars**, **630 forks**, last updated **2026-08-09**, covering **AI automation**, **crew-based agents**, and **productivity tools** under the **OpenClaw ecosystem**.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3894
+- Stars: 3895
 - Forks: 630
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-08-09T04:14:27Z
+- Last Updated: 2026-08-09T13:32:03Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-05T10:51:17Z

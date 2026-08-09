@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Cost Review & IAM Least-Privilege Checks**: Automated validation of AWS IAM policies to enforce least-privilege access and cost optimization via CLI-based audits.
-- **Safe Resource Changes**: Pre-approved, CLI-driven AWS resource modifications with built-in safeguards to prevent unintended disruptions.
-- **AWS CLI Integration**: Skill pack designed for seamless execution of security and cost governance tasks directly through AWS CLI commands.
+- **Cost Review**: Automates AWS cost analysis via CLI to identify and optimize expenditure.
+- **IAM Least-Privilege Checks**: Validates and enforces minimal IAM permissions using AWS CLI policies.
+- **Safe Resource Changes**: Implements controlled AWS resource modifications with pre-approval validation.
 
 ## Use Cases
 

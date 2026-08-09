@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-09T18:53:16.477880+05:30'
+collected_at: '2026-08-09T21:24:14.831466+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 174
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-09T18:53:16.477880+05:30'
-last_seen: '2026-08-09T18:53:16.477880+05:30'
-last_checked: '2026-08-09T18:53:16.477880+05:30'
+first_seen: '2026-08-09T21:24:14.831466+05:30'
+last_seen: '2026-08-09T21:24:14.831466+05:30'
+last_checked: '2026-08-09T21:24:14.831466+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system capable of processing diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence) within a single pipeline.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence, entity), leveraging unified embeddings and cross-modal retrieval.
 
-- **Modular Architecture**: Employs a flexible, plug-and-play design with modality-specific encoders, retrievers, and fusion mechanisms, enabling dynamic adaptation to heterogeneous corpora.
+- **Modular Architecture**: Implements a plug-and-play system with modality-specific encoders, a shared retrieval index, and a modality-agnostic generator, optimized via contrastive learning and modality alignment losses.
 
-- **ACL 2026 Oral Contribution**: Presents novel techniques for cross-modal retrieval, granularity-aware indexing, and context-aware generation, achieving state-of-the-art performance on multimodal benchmarks.
+- **ACL 2026 Oral Contribution**: Proposes novel evaluation protocols for cross-modal RAG, demonstrating state-of-the-art performance on benchmarks spanning text, vision, and structured data, while addressing challenges like modality mismatch and granularity heterogeneity.
 
 ## Why It Matters
 

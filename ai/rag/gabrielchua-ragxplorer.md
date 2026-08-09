@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-09T18:52:06.351819+05:30'
+collected_at: '2026-08-09T21:23:04.799991+05:30'
 published_at: '2026-08-04T00:25:48Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - jupyter notebook
 - models
 - rag
+- workflows
 stars: 1222
 language: Jupyter Notebook
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-09T18:52:06.351819+05:30'
-last_seen: '2026-08-09T18:52:06.351819+05:30'
-last_checked: '2026-08-09T18:52:06.351819+05:30'
+first_seen: '2026-08-09T21:23:04.799991+05:30'
+last_seen: '2026-08-09T21:23:04.799991+05:30'
+last_checked: '2026-08-09T21:23:04.799991+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions and data flows.
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to analyze RAG components (retrievers, LLMs, prompts) with real-time feedback and customizable visualizations.
-- **Python-Based & Modular**: Built in Python with modular design for extensibility; supports integration with custom RAG frameworks, datasets, and evaluation metrics (e.g., retrieval quality, answer correctness).
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and debugging of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time analysis of retrieval and generation processes.
+
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive exploration of RAG components, including query-document relevance, retrieval latency, and model output analysis, with modular Python-based workflows.
+
+- **LLM & Python-Centric Design**: Leverages Python libraries for RAG pipeline instrumentation, supporting custom model integration (e.g., LLMs) and multi-modal data visualization for performance optimization.
 
 ## Why It Matters
 

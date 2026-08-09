@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-09T18:51:36.967056+05:30'
-collected_at: '2026-08-09T18:51:36.967065+05:30'
+published_at: '2026-08-09T21:22:35.186683+05:30'
+collected_at: '2026-08-09T21:22:35.186712+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-09T18:51:36.967065+05:30'
-last_seen: '2026-08-09T18:51:36.967065+05:30'
-last_checked: '2026-08-09T18:51:36.967065+05:30'
+first_seen: '2026-08-09T21:22:35.186712+05:30'
+last_seen: '2026-08-09T21:22:35.186712+05:30'
+last_checked: '2026-08-09T21:22:35.186712+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval (vector/lexical search over external knowledge) with generative LLMs to ground outputs in retrieved context, improving factuality and reducing hallucinations without retraining the base model.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional rerankers, query rewriters, caching, and orchestration layers enhance precision/efficiency.
 
-- **Key Components**: Retriever (vector/BM25), vector store (ANN indexes like HNSW), reranker (cross-encoders for precision), and LLM generator; hybrid retrieval (vector + BM25) and query rewriting enhance recall and relevance.
+- **Chunking & Embeddings**: Chunking strategies (fixed-size, overlap, semantic, structure-aware, LLM-based) directly impact retrieval quality; embeddings require domain fine-tuning, normalization, and modality/language support for optimal performance.
 
-- **Advanced Techniques**: Multi-hop/iterative retrieval (GraphRAG), context distillation (LLM-based summarization), and retrieval-aware fine-tuning (end-to-end training) optimize performance, while operational concerns include latency, cost, and evaluation (nDCG, hallucination rate).
+- **Hybrid Retrieval & Multi-Hop Reasoning**: Hybrid (BM25 + vector) search improves recall; cross-encoder rerankers enhance precision; multi-hop retrieval and GraphRAG enable iterative, structured reasoning for complex queries.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T18:51:36.967056+05:30
+- Published: 2026-08-09T21:22:35.186683+05:30
 
 ## Related Tags
 

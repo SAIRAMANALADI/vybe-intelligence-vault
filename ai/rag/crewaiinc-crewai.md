@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI
-collected_at: '2026-08-09T10:16:14.095744+05:30'
-published_at: '2026-08-09T04:30:04Z'
+collected_at: '2026-08-09T21:26:39.994023+05:30'
+published_at: '2026-08-09T15:55:44Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 56820
+- workflows
+stars: 56857
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-10-27T03:26:59Z'
-pushed_at: '2026-08-09T04:24:06Z'
+pushed_at: '2026-08-09T14:30:56Z'
 resource_id: github:crewaiinc/crewai
-first_seen: '2026-08-09T10:16:14.095744+05:30'
-last_seen: '2026-08-09T10:16:14.095744+05:30'
-last_checked: '2026-08-09T10:16:14.095744+05:30'
+first_seen: '2026-08-09T21:26:39.994023+05:30'
+last_seen: '2026-08-09T21:26:39.994023+05:30'
+last_checked: '2026-08-09T21:26:39.994023+05:30'
 health_score: 100
 ---
 
@@ -30,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Orchestration Framework**: CrewAI is a Python-based framework designed to coordinate role-playing, autonomous AI agents, enabling seamless collaboration for complex task execution.
-- **Collaborative Intelligence**: Agents in CrewAI work together via structured role-playing, leveraging shared goals to enhance problem-solving efficiency.
-- **LLM Integration**: Supports large language models (LLMs) for agent interaction, with active development (last updated 2026-08-09) and a large community (56.8K+ stars, 8.1K+ forks).
+- **Collaborative Intelligence**: Agents within CrewAI operate as a unified system, leveraging shared intelligence to enhance problem-solving and workflow efficiency.
+- **LLM Integration**: Supports large language models (LLMs) for agentic workflows, with active development (last updated Aug 2026) and high community adoption (56.8K+ stars).
 
 ## Why It Matters
 
@@ -40,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 56820
-- Forks: 8101
+- Stars: 56857
+- Forks: 8108
 - Language: Python
 - Topics: agents, ai, ai-agents, aiagentframework, llms
-- Last Updated: 2026-08-09T04:30:04Z
+- Last Updated: 2026-08-09T15:55:44Z
 - License: MIT
 - Archived: No
 - Created At: 2023-10-27T03:26:59Z
-- Pushed At: 2026-08-09T04:24:06Z
+- Pushed At: 2026-08-09T14:30:56Z
 
 ## Possible Use Cases
 

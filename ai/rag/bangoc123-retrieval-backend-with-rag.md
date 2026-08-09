@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-09T18:52:21.338238+05:30'
+collected_at: '2026-08-09T21:23:19.796302+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - github-repo
+- models
 - python
 - rag
 stars: 265
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-09T18:52:21.338238+05:30'
-last_seen: '2026-08-09T18:52:21.338238+05:30'
-last_checked: '2026-08-09T18:52:21.338238+05:30'
+first_seen: '2026-08-09T21:23:19.796302+05:30'
+last_seen: '2026-08-09T21:23:19.796302+05:30'
+last_checked: '2026-08-09T21:23:19.796302+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including document retrieval and generation pipelines.
+- **Vietnamese RAG Implementation**: Provides a retrieval-augmented generation (RAG) backend optimized for Vietnamese language processing, leveraging vector databases and embedding models tailored for Vietnamese text.
 
-- **Python-Based Architecture**: Utilizes Python with libraries like `transformers`, `sentence-transformers`, and `FAISS` for embedding, retrieval, and vector storage in a scalable backend setup.
+- **Modular Architecture**: Implements a scalable pipeline with components for document retrieval, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert-base`), and LLM integration (e.g., `vllm` or `transformers`).
 
-- **Modular Design**: Features a structured repository with components for data preprocessing, embedding generation, vector database management, and LLM integration, enabling customization for Vietnamese-specific use cases.
+- **Deployment-Ready**: Includes Docker support, FastAPI endpoints for retrieval/querying, and pre-configured Vietnamese-specific models (e.g., `bkai-foundation-models/vietnamese-llm-lora`).
 
 ## Why It Matters
 

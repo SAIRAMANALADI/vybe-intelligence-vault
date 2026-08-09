@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/
-published_at: '2026-08-09T10:16:24.799913+05:30'
-collected_at: '2026-08-09T10:16:24.799920+05:30'
+published_at: '2026-08-09T21:26:55.484177+05:30'
+collected_at: '2026-08-09T21:26:55.484192+05:30'
 tags:
 - benchmark
 - dataset
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ragas
-first_seen: '2026-08-09T10:16:24.799920+05:30'
-last_seen: '2026-08-09T10:16:24.799920+05:30'
-last_checked: '2026-08-09T10:16:24.799920+05:30'
+first_seen: '2026-08-09T21:26:55.484192+05:30'
+last_seen: '2026-08-09T21:26:55.484192+05:30'
+last_checked: '2026-08-09T21:26:55.484192+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Driven Evaluation Framework**: Ragas provides a systematic approach to evaluate LLM applications using LLM-based metrics and continuous experimentation loops, replacing manual "vibe checks" with scalable, automated evaluation.
+- **LLM-Driven Evaluation Framework**: Ragas provides a structured approach to evaluate LLM applications using customizable, LLM-powered metrics (e.g., faithfulness, relevance) and systematic experimentation loops (`experiments`) for continuous improvement.
 
-- **Modular Metrics & Integration**: Supports custom metric creation via decorators and includes built-in dataset management, with native compatibility for frameworks like LangChain and LlamaIndex.
+- **Integration & Scalability**: Supports seamless integration with popular frameworks (LangChain, LlamaIndex) and offers built-in dataset management, result tracking, and custom metric creation via decorators or pre-built libraries.
 
-- **Experiment-Centric Workflow**: Enables consistent evaluation of changes through experiments, facilitating iterative improvements via tracked results and predefined metrics.
+- **Production-Grade Tooling**: Designed for scalable evaluation with an experiments-first workflow, enabling consistent comparisons of model changes and facilitating iterative optimization of AI applications.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T10:16:24.799913+05:30
+- Published: 2026-08-09T21:26:55.484177+05:30
 
 ## Related Tags
 

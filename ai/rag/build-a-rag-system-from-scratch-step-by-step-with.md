@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
-published_at: '2026-08-05T22:26:47.076457+05:30'
-collected_at: '2026-08-05T22:26:47.076469+05:30'
+published_at: '2026-08-09T21:22:46.366627+05:30'
+collected_at: '2026-08-09T21:22:46.366642+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
-first_seen: '2026-08-05T22:26:47.076469+05:30'
-last_seen: '2026-08-05T22:26:47.076469+05:30'
-last_checked: '2026-08-05T22:26:47.076469+05:30'
+first_seen: '2026-08-09T21:22:46.366642+05:30'
+last_seen: '2026-08-09T21:22:46.366642+05:30'
+last_checked: '2026-08-09T21:22:46.366642+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Implements BM25 keyword search + vector similarity search (OpenAI `text-embedding-3-small`) for improved recall, followed by cross-encoder reranking using `sentence-transformers` (`all-MiniLM-L6-v2`) to reorder top-20 candidates by relevance before final selection.
+- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search (rank-bm25) with vector similarity search (OpenAI `text-embedding-3-small` in ChromaDB) to improve recall for exact matches while maintaining semantic relevance.
 
-- **Reranking Mechanism**: Uses a lightweight cross-encoder (no API dependency) to score query-document pairs, significantly improving precision over standalone BM25 or vector search by leveraging contextual understanding of relevance.
+- **Cross-Encoder Reranking**: Uses a free cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank hybrid search results, boosting precision by re-scoring top-k candidates based on contextual relevance.
 
-- **Performance Metrics**: Integrates RAGAS (`0.2.15`) for automated evaluation across 4 dimensions (faithfulness, answer relevance, context precision, context recall) to quantify retrieval and generation quality.
+- **Implementation**: Implements a two-stage retrieval system where BM25 retrieves initial candidates, vector search expands results, and the cross-encoder reranks final candidates before passing to the RAG chain for generation.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T22:26:47.076457+05:30
+- Published: 2026-08-09T21:22:46.366627+05:30
 
 ## Related Tags
 

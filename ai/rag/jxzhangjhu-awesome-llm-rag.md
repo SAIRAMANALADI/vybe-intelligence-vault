@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-09T18:52:31.421579+05:30'
+collected_at: '2026-08-09T21:23:34.778636+05:30'
 published_at: '2026-08-07T05:37:10Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-09T18:52:31.421579+05:30'
-last_seen: '2026-08-09T18:52:31.421579+05:30'
-last_checked: '2026-08-09T18:52:31.421579+05:30'
+first_seen: '2026-08-09T21:23:34.778636+05:30'
+last_seen: '2026-08-09T21:23:34.778636+05:30'
+last_checked: '2026-08-09T21:23:34.778636+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including state-of-the-art methods in embeddings and retrieval-augmented architectures.
+- **Curated RAG Resources**: Compilation of advanced retrieval augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), including embeddings, retrieval methods, and integration strategies.
 
-- **Key Focus Areas**: Emphasizes **RAG-specific embeddings**, **retrieval mechanisms**, and **information augmentation** to enhance LLM performance, with topics spanning `llm`, `rag`, `embeddings`, and `retrieval-information`.
+- **Comprehensive Coverage**: Encompasses topics such as RAG embeddings, retrieval-information mechanisms, and LLM-specific optimizations, with a focus on enhancing factual accuracy and contextual relevance in generated outputs.
 
-- **Metadata**: Last updated **2026-08-07**, with **1340 stars**, **92 forks**, and no explicit primary language specified (likely multi-language).
+- **Active Maintenance**: Last updated in August 2026, indicating ongoing updates and community engagement with 1,340 stars and 92 forks on GitHub.
 
 ## Why It Matters
 

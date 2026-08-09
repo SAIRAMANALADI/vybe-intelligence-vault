@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/stable/concepts/metrics/
-published_at: '2026-08-03T22:57:15.939639+05:30'
-collected_at: '2026-08-03T22:57:15.939654+05:30'
+published_at: '2026-08-09T21:27:03.356619+05:30'
+collected_at: '2026-08-09T21:27:03.356632+05:30'
 tags:
 - benchmark
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:metrics-ragas
-first_seen: '2026-08-03T22:57:15.939654+05:30'
-last_seen: '2026-08-03T22:57:15.939654+05:30'
-last_checked: '2026-08-03T22:57:15.939654+05:30'
+first_seen: '2026-08-09T21:27:03.356632+05:30'
+last_seen: '2026-08-09T21:27:03.356632+05:30'
+last_checked: '2026-08-09T21:27:03.356632+05:30'
 health_score: 100
 ---
 
@@ -23,14 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Metric Design Principles**: Ragas metrics are structured around four core principles—**faithfulness**, **answer relevance**, **context precision**, and **context recall**—to evaluate RAG pipeline performance by comparing ground truth with generated outputs and retrieved contexts.
-
-- **Available Metrics**:
-  - **Faithfulness**: Measures factual consistency between the answer and retrieved context using entailment-based validation.
-  - **Answer Relevance**: Evaluates how well the answer addresses the query using semantic similarity and question-answer alignment.
-  - **Context Precision/Recall**: Quantifies the relevance and sufficiency of retrieved context via precision (correct context) and recall (coverage of ground truth).
-
-- **Implementation**: Metrics are computed using LLM-based evaluators (e.g., `ragas.evaluate()`) with optional customization for domain-specific adjustments, supporting both single-turn and multi-turn RAG evaluations.
+- **Ragas Metrics Framework**: Provides a structured approach to evaluating RAG (Retrieval-Augmented Generation) pipelines via modular, extensible metrics covering factuality, relevance, and correctness.
+- **Core Metric Categories**: Includes **Faithfulness** (measures hallucination), **Answer Relevance** (assesses response alignment with query), and **Context Precision/Recall** (evaluates retrieval quality).
+- **Implementation**: Metrics leverage LLM-based scoring (e.g., pairwise comparisons) and deterministic checks (e.g., token overlap) for hybrid evaluation, with open-source availability via GitHub.
 
 ## Why It Matters
 
@@ -40,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T22:57:15.939639+05:30
+- Published: 2026-08-09T21:27:03.356619+05:30
 
 ## Related Tags
 

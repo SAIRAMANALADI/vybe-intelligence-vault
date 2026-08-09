@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/virattt/dexter
-collected_at: '2026-08-09T18:55:01.533989+05:30'
+collected_at: '2026-08-09T21:25:59.915099+05:30'
 published_at: '2026-08-09T12:44:19Z'
 tags:
 - agents
-- dataset
 - github-repo
+- hackernews
 - rag
-- scripts
 - typescript
 stars: 27512
 language: TypeScript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-10-14T21:02:00Z'
 pushed_at: '2026-08-04T15:20:42Z'
 resource_id: github:virattt/dexter
-first_seen: '2026-08-09T18:55:01.533989+05:30'
-last_seen: '2026-08-09T18:55:01.533989+05:30'
-last_checked: '2026-08-09T18:55:01.533989+05:30'
+first_seen: '2026-08-09T21:25:59.915099+05:30'
+last_seen: '2026-08-09T21:25:59.915099+05:30'
+last_checked: '2026-08-09T21:25:59.915099+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Financial Research Agent**: Dexter is a TypeScript-based autonomous agent designed to perform deep financial research, leveraging AI-driven data analysis and decision-making for market insights.
-
-- **High Scalability & Modularity**: The repository emphasizes a modular architecture, enabling extensibility for financial datasets, APIs, and analytical models while supporting high-throughput research tasks.
-
-- **Open-Source & Community-Driven**: With 27.5K+ stars and 3.4K+ forks, Dexter is a rapidly growing open-source project focused on collaborative financial research automation.
+- **Autonomous Financial Research Agent**: Dexter is a TypeScript-based autonomous agent designed for deep financial research, leveraging AI-driven data analysis and decision-making.
+- **High Scalability & Modularity**: The repository structure supports extensibility for integrating additional financial data sources, APIs, and analytical models.
+- **Active Development**: Last updated in 2026, indicating ongoing maintenance and potential integration of cutting-edge financial research techniques.
 
 ## Why It Matters
 
@@ -44,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: virattt
 - Stars: 27512
-- Forks: 3412
+- Forks: 3413
 - Language: TypeScript
 - Topics: None
 - Last Updated: 2026-08-09T12:44:19Z

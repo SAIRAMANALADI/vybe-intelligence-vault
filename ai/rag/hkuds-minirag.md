@@ -4,15 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-09T18:52:06.402182+05:30'
+collected_at: '2026-08-09T21:23:04.778352+05:30'
 published_at: '2026-08-05T06:55:03Z'
 tags:
 - github-repo
-- hackernews
-- models
 - python
 - rag
-- workflows
 stars: 1996
 language: Python
 status: active
@@ -21,9 +18,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-09T18:52:06.402182+05:30'
-last_seen: '2026-08-09T18:52:06.402182+05:30'
-last_checked: '2026-08-09T18:52:06.402182+05:30'
+first_seen: '2026-08-09T21:23:04.778352+05:30'
+last_seen: '2026-08-09T21:23:04.778352+05:30'
+last_checked: '2026-08-09T21:23:04.778352+05:30'
 health_score: 100
 ---
 
@@ -31,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Proposes MiniRAG**: A simplified RAG framework leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
-- **Key Innovation**: Optimizes retrieval-augmented generation (RAG) by compressing model size and improving efficiency through distillation and quantization techniques.
-- **Open-Source Implementation**: Provides a Python-based repository with modular components for easy integration, supporting large-language-model (LLM) and RAG workflows.
+- **MiniRAG Framework**: Introduces a simplified Retrieval-Augmented Generation (RAG) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as presented at ACL 2026.
+
+- **Architectural Efficiency**: Implements a lightweight retrieval mechanism paired with a compact LLM (e.g., <1B parameters) to optimize inference speed and memory usage without sacrificing output quality.
+
+- **Open-Source Implementation**: Provides a Python-based, publicly accessible repository (`HKUDS/MiniRAG`) with modular components for customization, supporting rapid deployment in resource-constrained environments.
 
 ## Why It Matters
 

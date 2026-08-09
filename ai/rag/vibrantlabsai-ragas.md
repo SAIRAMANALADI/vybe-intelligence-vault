@@ -1,37 +1,31 @@
 ---
-title: ragas/docs/index.md at main · vibrantlabsai/ragas · GitHub
+title: ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/index.md
-published_at: '2026-08-09T10:17:43.654726+05:30'
-collected_at: '2026-08-09T10:17:43.654735+05:30'
+source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md
+published_at: '2026-08-09T21:29:10.926016+05:30'
+collected_at: '2026-08-09T21:29:10.926030+05:30'
 tags:
-- benchmark
-- dataset
-- hackernews
-- meta-ai
-- models
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-08-09T10:17:43.654735+05:30'
-last_seen: '2026-08-09T10:17:43.654735+05:30'
-last_checked: '2026-08-09T10:17:43.654735+05:30'
+first_seen: '2026-08-09T21:29:10.926030+05:30'
+last_seen: '2026-08-09T21:29:10.926030+05:30'
+last_checked: '2026-08-09T21:29:10.926030+05:30'
 health_score: 100
 ---
 
-# ragas/docs/index.md at main · vibrantlabsai/ragas · GitHub
+# ragas/docs/concepts/metrics/index.md at main · vibrantlabsai/ragas · GitHub
 
 ## Summary
 
-- **LLM-Driven Evaluation Framework**: Ragas provides a systematic approach to evaluate LLM applications using LLM-based metrics, replacing manual "vibe checks" with scalable, automated evaluation loops.
+- **Metrics Overview**: Ragas provides a structured framework for evaluating RAG (Retrieval-Augmented Generation) pipelines, focusing on key dimensions like faithfulness, answer relevance, context precision, context recall, and answer correctness, with design principles centered on modularity and extensibility.
 
-- **Experiments-First Workflow**: Supports consistent evaluation of changes via `experiments`, enabling iterative improvements through dataset management, result tracking, and integration with frameworks like LangChain and LlamaIndex.
+- **Faithfulness Metric**: Measures the factual consistency between the generated answer and the provided context, using entailment-based scoring to detect hallucinations or unsupported claims.
 
-- **Customizable Metrics & Integration**: Offers a library of predefined metrics and tools to create custom metrics via decorators, facilitating tailored evaluation for specific use cases while ensuring ease of integration.
+- **Context Precision/Recall**: Precision evaluates the relevancy of retrieved context to the generated answer, while recall assesses the extent to which the context covers the necessary information to answer the query.
 
 ## Why It Matters
 
@@ -41,19 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T10:17:43.654726+05:30
+- Published: 2026-08-09T21:29:10.926016+05:30
 
 ## Related Tags
 
-- benchmark
-- dataset
-- hackernews
-- meta-ai
-- models
 - rag
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://github.com/vibrantlabsai/ragas/blob/master/docs/index.md
+Original source: https://github.com/vibrantlabsai/ragas/blob/master/docs/concepts/metrics/index.md

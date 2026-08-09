@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format document parsing**: Supports 90+ formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction, multimodal context (tables, charts, images), and handwriting recognition.
-- **Scalable, multilingual OCR**: Processes 1B+ documents/month with 100+ language support, granular parsing modes (cost/accuracy trade-offs), and enterprise-grade concurrency/local cloud deployment.
-- **Developer-optimized SDKs**: Provides TypeScript/Python SDKs with live notebooks, workf
+- **High-accuracy parsing** of 90+ document formats (PDFs, scanned docs, handwriting, tables, charts) with layout-aware OCR, multimodal context extraction, and granular parsing modes for cost/accuracy optimization.
+
+- **Enterprise-grade scalability** supporting 1B+ processed docs, 25M+ monthly downloads, multilingual (100+ languages) processing, and local/cloud deployment with high concurrency.
+
+- **Workflow integration** via TypeScript/Python SDKs with live notebooks, designed for developers, a
 
 ## Use Cases
 

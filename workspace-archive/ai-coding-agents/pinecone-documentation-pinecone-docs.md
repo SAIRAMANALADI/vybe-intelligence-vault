@@ -2,11 +2,11 @@
 title: Pinecone documentation - Pinecone Docs
 archive_category: ai-coding-agents
 source_category: ai/rag
-source_url: https://docs.pinecone.io/
+source_url: https://docs.pinecone.io
 resource_id: blog:pinecone-documentation-pinecone-docs
 local_vault_path: ai/rag/pinecone-documentation-pinecone-docs.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Pinecone** is a vector database optimized for AI agents, semantic search, knowledge retrieval, and scalable long-term memory.
-- **Quickstart Guides**: Provides structured paths for semantic search (Database), AI assistants (Assistant), context compilation (Nexus), and no-code apps (Marketplace).
-- **Development Tools**: Supports IDEs/CLIs (e.g., Claude Code, Cursor), MCP server integration, API/SDK references, notebooks, and third-party integrations (LangChain, LlamaIndex).
+- **Pinecone** is a scalable vector database optimized for semantic search, knowledge retrieval, and long-term memory in AI applications and agents.
+- **Quickstart guides** provide structured paths for semantic search (Database), AI assistants (Assistant), contextual querying (Nexus), and no-code app deployment (Marketplace).
+- **Development resources** include IDE/CLI support (e.g., Claude Code, Gemini CLI), MCP server integration, API/SDK references, third-party integrations (LangChain, LlamaI
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.pinecone.io/
+Original source URL: https://docs.pinecone.io
 
 ## Local Vault File
 

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-09T18:52:46.427276+05:30'
+collected_at: '2026-08-09T21:23:44.825559+05:30'
 published_at: '2026-08-08T03:47:36Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 503
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-09T18:52:46.427276+05:30'
-last_seen: '2026-08-09T18:52:46.427276+05:30'
-last_checked: '2026-08-09T18:52:46.427276+05:30'
+first_seen: '2026-08-09T21:23:44.825559+05:30'
+last_seen: '2026-08-09T21:23:44.825559+05:30'
+last_checked: '2026-08-09T21:23:44.825559+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in enterprise search and QA tasks.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of RAG performance in real-world scenarios.
 
-- **Features**: Includes synthetic data generation, semantic search evaluation, and metrics for large language model (LLM) performance in enterprise knowledge base retrieval and question-answering scenarios.
+- **Features**: Includes synthetic data generation, semantic search, and evaluation tools for LLM-based question-answering, with support for Python and multiple RAG-related tasks (e.g., retrieval, generative AI, knowledge base integration).
 
-- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering retrieval quality, generative AI accuracy, and enterprise-specific semantic search benchmarks.
+- **Scope**: Covers enterprise search, information retrieval, and LLM evaluation, with last updates as of August 2026, targeting large-scale internal knowledge base applications.
 
 ## Why It Matters
 

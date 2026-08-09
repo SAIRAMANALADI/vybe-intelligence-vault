@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-09T18:52:01.359445+05:30'
+collected_at: '2026-08-09T21:22:59.817178+05:30'
 published_at: '2026-08-09T12:13:43Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-09T18:52:01.359445+05:30'
-last_seen: '2026-08-09T18:52:01.359445+05:30'
-last_checked: '2026-08-09T18:52:01.359445+05:30'
+first_seen: '2026-08-09T21:22:59.817178+05:30'
+last_seen: '2026-08-09T21:22:59.817178+05:30'
+last_checked: '2026-08-09T21:22:59.817178+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Document Chat Tool**: Open-source Python application enabling conversational interaction with documents using Retrieval-Augmented Generation (RAG) architecture.
-- **Core Features**: Supports document ingestion, retrieval, and contextual chat via LLMs, optimized for extensibility and modularity.
-- **Tech Stack & Metadata**: Python-based; 25.7k+ stars, 2.1k+ forks; last updated Aug 2026; categorized under chatbots, LLMs, and open-source RAG systems.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs, leveraging vector embeddings and retrieval mechanisms for contextual responses.
+
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding generation (e.g., Sentence-BERT), vector storage (FAISS/Chroma), and LLM integration (e.g., Hugging Face models).
+
+- **Open-Source Deployment**: Supports self-hosted deployment with Docker, includes a web UI for document uploads/chats, and integrates with popular LLM backends (e.g., vLLM, FastAPI).
 
 ## Why It Matters
 

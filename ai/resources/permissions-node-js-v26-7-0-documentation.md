@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/api/permissions.html#permission-model
-published_at: '2026-08-09T18:58:39.012671+05:30'
-collected_at: '2026-08-09T18:58:39.012684+05:30'
+published_at: '2026-08-09T21:31:54.145265+05:30'
+collected_at: '2026-08-09T21:31:54.145280+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:permissions-node-js-v26-7-0-documentation
-first_seen: '2026-08-09T18:58:39.012684+05:30'
-last_seen: '2026-08-09T18:58:39.012684+05:30'
-last_checked: '2026-08-09T18:58:39.012684+05:30'
+first_seen: '2026-08-09T21:31:54.145280+05:30'
+last_seen: '2026-08-09T21:31:54.145280+05:30'
+last_checked: '2026-08-09T21:31:54.145280+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Node.js Permission Model**: Introduced in v20.0.0, this model restricts access to system resources via the `--permission` CLI flag, operating in **enforce mode** (denies access, throws `ERR_ACCESS_DENIED`) or **audit mode** (logs violations without blocking execution).
-- **Runtime API Methods**: Provides `permission.has(scope[, reference])` to check permissions and `permission.drop(scope[, reference])` to revoke them dynamically during execution.
-- **Resource Restrictions**: Enabled via `--permission`, it blocks file system, network, child processes, worker threads, native addons, WASI, FFI, and inspector access by default, with granular control via flags like `--allow-child-process` or `--allow-worker`.
+- **Permission Model**: Introduced in v20.0.0, this model restricts access to system resources via the `--permission` CLI flag, operating in **Enforce** (denies access, throws `ERR_ACCESS_DENIED`) or **Audit** (logs violations without blocking) modes.
+
+- **Runtime API**: Provides `permission.has(scope[, reference])` to check permissions and `permission.drop(scope[, reference])` to revoke them, enabling granular control over file system, network, child processes, and other resource access.
+
+- **CLI Flags**: `--permission` enables the model, while `--permission-audit` logs violations; additional flags like `--allow-child-process` and `--allow-worker` selectively grant restricted permissions (e.g., spawning processes, worker threads).
 
 ## Why It Matters
 
@@ -34,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T18:58:39.012671+05:30
+- Published: 2026-08-09T21:31:54.145265+05:30
 
 ## Related Tags
 

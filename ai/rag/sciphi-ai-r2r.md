@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-08-09T18:53:06.446618+05:30'
+collected_at: '2026-08-09T21:24:04.868447+05:30'
 published_at: '2026-08-07T16:55:45Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-08-09T18:53:06.446618+05:30'
-last_seen: '2026-08-09T18:53:06.446618+05:30'
-last_checked: '2026-08-09T18:53:06.446618+05:30'
+first_seen: '2026-08-09T21:24:04.868447+05:30'
+last_seen: '2026-08-09T21:24:04.868447+05:30'
+last_checked: '2026-08-09T21:24:04.868447+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Production-ready, state-of-the-art retrieval-augmented generation (RAG) framework with RESTful API support, enabling dynamic agent-based retrieval for AI applications.
+- **Agentic RAG System**: Implements an agentic Retrieval-Augmented Generation (RAG) architecture with RESTful API endpoints for production-grade AI retrieval, enabling dynamic interaction between retrieval and generation components.
 
-- **Modular Python Architecture**: Implemented in Python with extensible components for indexing, retrieval, and generation, optimized for large-scale language model integration.
+- **Python-Based Framework**: Built in Python, leveraging modern AI/ML libraries for efficient indexing, retrieval, and generation workflows, optimized for large-scale question-answering and search applications.
 
-- **Advanced Retrieval & QA**: Supports hybrid search, metadata filtering, and structured retrieval pipelines, with built-in support for question-answering and document processing workflows.
+- **State-of-the-Art (SoTA) Retrieval**: Integrates cutting-edge retrieval techniques (e.g., vector search, hybrid retrieval) with LLMs to enhance accuracy, context-awareness, and real-time adaptability in RAG pipelines.
 
 ## Why It Matters
 

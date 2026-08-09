@@ -3,9 +3,9 @@ title: Configure imaging
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/configuration/imaging/#avif-images
-published_at: '2026-08-09T13:00:16.624184+05:30'
-collected_at: '2026-08-09T13:00:16.624197+05:30'
+source_url: https://gohugo.io/configuration/imaging/#avif
+published_at: '2026-08-09T21:29:41.300925+05:30'
+collected_at: '2026-08-09T21:29:41.300940+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-08-09T13:00:16.624197+05:30'
-last_seen: '2026-08-09T13:00:16.624197+05:30'
-last_checked: '2026-08-09T13:00:16.624197+05:30'
+first_seen: '2026-08-09T21:29:41.300940+05:30'
+last_seen: '2026-08-09T21:29:41.300940+05:30'
+last_checked: '2026-08-09T21:29:41.300940+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,15 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's `imaging` settings control image processing with format-specific parameters (e.g., AVIF, JPEG, WebP), including `anchor` (cropping/filling focal point), `resampleFilter` (e.g., `lanczos`, `box`), and `bgColor` (hex RGB for transparency conversion).
+- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific defaults for AVIF (`quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`quality: 75`, `method: 2`).
 
-- **Format-Specific Encoding**: AVIF (`lossy`/`lossless` compression, `encoderSpeed` 1-10, `hint` for content type), JPEG (`quality` 1-100), and WebP (`method` 0-6, `useSharpYuv` for RGB-to-YUV conversion) support configurable trade-offs between quality, speed, and file size.
+- **Format-Specific Configurations**:
+  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed` (1-10), `hint` (e.g., `photo`, `text`), and `quality` (1-100).
+  - **WebP**: Configurable via `compression`, `hint`, `method` (0-6), `quality` (1-100), and `useSharpYuv` (bool).
 
-- **Metadata Handling**: The `meta` method filters EXIF/IPTC/XMP fields via `fields` (glob patterns) and `sources` (e.g., `exif`, `iptc`), with defaults excluding technical metadata (e.g., `GPS`, `Sharp`) to optimize performance.
+- **Metadata Control**:
+  - **Exif Filtering**: Excludes fields like `GPS`, `Exif`, `Contrast`, etc., by default; configurable via `excludeFields` and `includeFields`.
+  - **Meta Method**: Allows granular selection of metadata sources (`exif`, `iptc`, `xmp`) and fields using glob patterns.
 
 ## Why It Matters
 
@@ -37,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T13:00:16.624184+05:30
+- Published: 2026-08-09T21:29:41.300925+05:30
 
 ## Related Tags
 
@@ -48,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://gohugo.io/configuration/imaging/#avif-images
+Original source: https://gohugo.io/configuration/imaging/#avif

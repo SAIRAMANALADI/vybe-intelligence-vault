@@ -4,22 +4,22 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/run-llama/
-published_at: '2026-08-09T18:56:23.558741+05:30'
-collected_at: '2026-08-09T18:56:23.558749+05:30'
+published_at: '2026-08-09T21:28:19.210373+05:30'
+collected_at: '2026-08-09T21:28:19.210388+05:30'
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
-- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-08-09T18:56:23.558749+05:30'
-last_seen: '2026-08-09T18:56:23.558749+05:30'
-last_checked: '2026-08-09T18:56:23.558749+05:30'
+first_seen: '2026-08-09T21:28:19.210388+05:30'
+last_seen: '2026-08-09T21:28:19.210388+05:30'
+last_checked: '2026-08-09T21:28:19.210388+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides cloud-based OCR/document parsing via `Parse` and `Extract` APIs, leveraging state-of-the-art (SOTA) agentic OCR for document workflows and LLM integration.
+- **LlamaParse Cloud Services**: Provides state-of-the-art agentic OCR via `Parse` (document parsing), `Extract` (structured data extraction), and comprehensive platform documentation for cloud-based document workflows.
 
-- **Open-Source Tooling**: Offers `LiteParse` (lightweight OCR), `LlamaAgents` (modular agent framework), and `LlamaIndex` (Python library) for document indexing and retrieval, with full documentation and GitHub repositories.
+- **Open-Source Tooling**: Includes `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and `LlamaIndex` (Python library) with full documentation for local/self-hosted document processing and agent orchestration.
 
-- **Multi-Platform Support**: Includes social media presence (X/Twitter, LinkedIn, YouTube) for community engagement and updates, alongside cloud and open-source documentation for developers.
+- **Multi-Channel Support**: Maintains active development and community engagement via Twitter, LinkedIn, and YouTube for updates, tutorials, and technical discussions.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T18:56:23.558741+05:30
+- Published: 2026-08-09T21:28:19.210373+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
-- reddit
 - web-crawled
 - workflows
 - youtube

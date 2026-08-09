@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CALLE-AI/awesome-phone-call-agents
-collected_at: '2026-08-09T18:53:56.682603+05:30'
+collected_at: '2026-08-09T21:24:59.934353+05:30'
 published_at: '2026-08-09T02:14:42Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-05-08T06:45:28Z'
 pushed_at: '2026-08-09T02:14:37Z'
 resource_id: github:calle-ai/awesome-phone-call-agents
-first_seen: '2026-08-09T18:53:56.682603+05:30'
-last_seen: '2026-08-09T18:53:56.682603+05:30'
-last_checked: '2026-08-09T18:53:56.682603+05:30'
+first_seen: '2026-08-09T21:24:59.934353+05:30'
+last_seen: '2026-08-09T21:24:59.934353+05:30'
+last_checked: '2026-08-09T21:24:59.934353+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of portable phone-call agent skills, applications, examples, adapters, and scheduler recipes for AI agents.
-- **Metadata**: 51 stars, 87 forks, last updated on 2026-08-09.
-- **Purpose**: Designed to facilitate the development and deployment of AI-driven phone-call agents with modular components and scheduling capabilities.
+- **Repository Overview**: A TypeScript-based collection of portable phone-call agent skills, applications, examples, adapters, and scheduler recipes for AI agents, maintained by CALLE-AI.
+
+- **Repository Metrics**: Currently has 51 stars and 87 forks, last updated on August 9, 2026.
+
+- **Purpose**: Designed to provide modular and reusable components for implementing AI-driven phone-call agents across different applications.
 
 ## Why It Matters
 

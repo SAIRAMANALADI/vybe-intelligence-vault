@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FudanDNN-NLP/RAG
-collected_at: '2026-08-09T18:52:26.402735+05:30'
+collected_at: '2026-08-09T21:23:24.819533+05:30'
 published_at: '2026-07-26T08:08:37Z'
 tags:
-- benchmark
 - github-repo
 - paper
 - python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-06-29T13:07:50Z'
 pushed_at: '2024-12-21T07:32:41Z'
 resource_id: github:fudandnn-nlp/rag
-first_seen: '2026-08-09T18:52:26.402735+05:30'
-last_seen: '2026-08-09T18:52:26.402735+05:30'
-last_checked: '2026-08-09T18:52:26.402735+05:30'
+first_seen: '2026-08-09T21:23:24.819533+05:30'
+last_seen: '2026-08-09T21:23:24.819533+05:30'
+last_checked: '2026-08-09T21:23:24.819533+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Provides a Python-based implementation of retrieval-augmented generation (RAG) systems, aligned with best practices outlined in the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation."
-
-- **Architecture**: Focuses on optimizing RAG pipelines by integrating retrieval mechanisms with generative models to enhance factual accuracy and contextual relevance in outputs.
-
-- **Evaluation**: Includes benchmarking tools and methodologies to assess performance across key metrics such as retrieval precision, generation quality, and end-to-end system efficiency.
+*   Implements the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation".
+*   Provides a Python-based framework for empirical investigation and optimization of RAG methodologies.
+*   Focuses on evaluating and identifying effective strategies within Retrieval-Augmented Generation systems.
 
 ## Why It Matters
 

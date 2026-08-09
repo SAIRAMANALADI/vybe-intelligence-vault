@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/llm-app
-collected_at: '2026-08-09T18:51:56.356363+05:30'
+collected_at: '2026-08-09T21:22:59.820949+05:30'
 published_at: '2026-08-09T12:28:19Z'
 tags:
 - github-repo
 - jupyter notebook
-- openai
 - rag
 - workflows
 stars: 59091
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-07-05T17:59:07Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-08-09T18:51:56.356363+05:30'
-last_seen: '2026-08-09T18:51:56.356363+05:30'
-last_checked: '2026-08-09T18:51:56.356363+05:30'
+first_seen: '2026-08-09T21:22:59.820949+05:30'
+last_seen: '2026-08-09T21:22:59.820949+05:30'
+last_checked: '2026-08-09T21:22:59.820949+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cloud-native RAG & AI pipeline templates** with Docker support, enabling real-time enterprise search and AI workflows via SharePoint, Google Drive, S3, Kafka, PostgreSQL, and live APIs.
+- **Cloud-native RAG & AI pipelines**: Docker-ready templates for retrieval-augmented generation (RAG), AI workflows, and enterprise search with live data synchronization across SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs.
 
-- **Live data synchronization** across structured/unstructured sources, featuring vector databases, real-time indexing, and Hugging Face/ OpenAI LLM integrations for retrieval-augmented generation (RAG).
+- **Multi-source integration**: Supports dynamic data ingestion from structured (PostgreSQL) and unstructured (Google Drive, S3) sources, with real-time updates via Kafka and REST APIs.
 
-- **LLMOps-ready** with security-focused prompting, local LLM deployment, and Jupyter Notebook-based templates for scalable, production-grade AI pipelines.
+- **Security & scalability**: Includes LLM security best practices, Hugging Face compatibility, and vector database indexing for optimized retrieval, designed for enterprise-grade LLMops deployments.
 
 ## Why It Matters
 

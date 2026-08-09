@@ -8,12 +8,12 @@ AI coding agents represent the next leap in software engineering, moving from co
 
 ## Top Matched Resources
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (workflow - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (framework - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (prompt - ESSENTIAL Tier)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
 
@@ -23,10 +23,10 @@ https://github.com/features/copilot (GitHub Copilot)
 https://github.com/addy-dcl/cline (Cline)
 https://github.com/features/claude-code (Claude Code)
 https://github.com/All-Hands-AI/OpenHands (OpenHands)
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [Mintlify · GitHub](https://github.com/mintlify)
 - [OpenAI · GitHub](https://github.com/openai)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/All-Hands-AI/OpenHands (OpenHands)
 
 ---
 
-*Last updated: 2026-08-09 19:07 IST*
+*Last updated: 2026-08-09 21:38 IST*

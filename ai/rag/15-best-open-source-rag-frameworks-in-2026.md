@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-08-09T18:51:33.698923+05:30'
-collected_at: '2026-08-09T18:51:33.698933+05:30'
+published_at: '2026-08-09T21:22:31.177656+05:30'
+collected_at: '2026-08-09T21:22:31.177672+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-08-09T18:51:33.698933+05:30'
-last_seen: '2026-08-09T18:51:33.698933+05:30'
-last_checked: '2026-08-09T18:51:33.698933+05:30'
+first_seen: '2026-08-09T21:22:31.177672+05:30'
+last_seen: '2026-08-09T21:22:31.177672+05:30'
+last_checked: '2026-08-09T21:22:31.177672+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source framework (105k⭐) for chaining LLM components, offering modular RAG pipelines, model flexibility, and evaluation tools; integrates with LangSmith/LangGraph for debugging/workflow management.
+- **Firecrawl**: Web data extraction API enabling structured markdown conversion, LLM-friendly text generation (`llms.txt`), and dynamic site crawling via agent-based or deep research endpoints for RAG pipeline enrichment.
 
-- **RAGFlow**: Open-source RAG engine (48.5k⭐) with deep document parsing (PDFs/tables), GraphRAG support, and visual web interface; supports Elasticsearch/Infinity storage and agentic reasoning.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (tables, layouts) supporting GraphRAG, agentic reasoning, and dual storage backends (Elasticsearch/Infinity) via Python SDK/REST APIs.
 
-- **Milvus**: High-performance vector database (33.9k⭐) optimized for ANN search, scalable to billions of vectors, with hybrid search and multi-modal support; integrates with LangChain/LlamaIndex for RAG workflows.
+- **Milvus**: Cloud-native vector database optimized for billion-scale ANN search, hybrid multi-modal retrieval, and seamless integration with LangChain/LlamaIndex, featuring horizontal scalability and enterprise-grade consistency.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T18:51:33.698923+05:30
+- Published: 2026-08-09T21:22:31.177656+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://z4hid.github.io/blog/building-rag-systems-from-scratch/
-published_at: '2026-08-09T10:12:09.463949+05:30'
-collected_at: '2026-08-09T10:12:09.463957+05:30'
+published_at: '2026-08-09T21:22:35.049286+05:30'
+collected_at: '2026-08-09T21:22:35.049299+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:building-rag-systems-from-scratch-a-practical-guid
-first_seen: '2026-08-09T10:12:09.463957+05:30'
-last_seen: '2026-08-09T10:12:09.463957+05:30'
-last_checked: '2026-08-09T10:12:09.463957+05:30'
+first_seen: '2026-08-09T21:22:35.049299+05:30'
+last_seen: '2026-08-09T21:22:35.049299+05:30'
+last_checked: '2026-08-09T21:22:35.049299+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: RAG systems operate in two phases: *indexing* (documents → chunking → embedding → vector storage) and *querying* (user query → embedding → vector search → top-*k* retrieval → LLM generation). Key components include chunking strategies (e.g., 800-token chunks with 200-token overlap), embedding models (e.g., `text-embedding-3-small` for cost-efficiency), and vector databases (e.g., Chroma for prototyping, Pinecone/Qdrant for production).
+- **Core RAG Pipeline Architecture**: Two-phase process—**indexing** (documents → chunking → embedding → vector storage) and **querying** (query embedding → vector search → top-K retrieval → LLM generation)—with critical dependencies on chunking strategy, embedding model selection, and vector database performance.
 
-- **Retrieval Optimization**: Hybrid search (combining semantic + BM25) and re-ranking (e.g., Cohere’s cross-encoder) improve precision. Metadata filtering (e.g., version-specific docs) narrows search scope. Retrieval quality is measured via *Recall@K*, *Precision@K*, and *MRR*, while generation quality uses *faithfulness* and *answer relevance* (evaluated with tools like RAGAS).
+- **Key Technical Trade-offs**: Chunk size (200–1500 tokens) balances context retention vs. retrieval precision; embedding model choice (e.g., OpenAI `text-embedding-3-small` vs. BAAI `BGE-large-en-v1.5`) impacts semantic accuracy; hybrid retrieval (semantic + BM25) and re-ranking improve relevance but add latency.
 
-- **Production Considerations**: Index updates require batch/real-time pipelines; frequent queries benefit from semantic caching. Logging (query, retrieval, generation) and fallback behaviors (e.g., "no relevant docs found") are critical. Context length limits (3–5 chunks) prevent model confusion, and edge cases (e.g., unavailable vector stores) must be handled explicitly.
+- **Production Hardening**: Requires **incremental indexing** (change detection + re-embedding), **semantic caching**, **comprehensive logging** (query, retrieval, generation), and **edge-case handling** (fallback responses, context limits) to transition from prototype to reliable system.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T10:12:09.463949+05:30
+- Published: 2026-08-09T21:22:35.049286+05:30
 
 ## Related Tags
 

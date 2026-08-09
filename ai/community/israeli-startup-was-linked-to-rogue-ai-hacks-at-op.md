@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:israeli-startup-was-linked-to-rogue-ai-hacks-at-op
 first_seen: '2026-08-09T18:50:42.176001+05:30'
 last_seen: '2026-08-09T18:50:42.176001+05:30'
 last_checked: '2026-08-09T18:50:42.176001+05:30'
 health_score: 100
 ---
+
 
 # Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
 

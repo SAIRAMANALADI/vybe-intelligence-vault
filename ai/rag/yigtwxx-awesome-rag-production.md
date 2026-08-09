@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-09T18:52:26.379757+05:30'
+collected_at: '2026-08-09T21:23:24.778955+05:30'
 published_at: '2026-08-09T00:54:37Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 189
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-07T20:01:09Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-09T18:52:26.379757+05:30'
-last_seen: '2026-08-09T18:52:26.379757+05:30'
-last_checked: '2026-08-09T18:52:26.379757+05:30'
+first_seen: '2026-08-09T21:23:24.778955+05:30'
+last_seen: '2026-08-09T21:23:24.778955+05:30'
+last_checked: '2026-08-09T21:23:24.778955+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resources**: Repository provides a vetted collection of tools, frameworks, and best practices for deploying scalable, production-grade RAG systems, emphasizing battle-tested solutions.
-- **Technical scope**: Covers core components including embeddings, vector databases, LLM integration (LangChain), and MLOps/LLMOps pipelines for end-to-end RAG workflows.
-- **Python-centric**: Focuses on Python-based implementations, with last update timestamped **2026-08-09T00:54:37Z** and 189 stars/49 forks.
+- **Curated Production-Grade RAG Tools**: Repository aggregates battle-tested frameworks, libraries, and tools (e.g., LangChain, vector databases) optimized for scalable, production-grade Retrieval-Augmented Generation (RAG) systems.
+
+- **MLOps & AI Engineering Focus**: Includes resources for MLOps, embeddings, LLMOps, and large language model (LLM) integration, emphasizing deployment, monitoring, and scalability in AI production environments.
+
+- **Python-Centric & Topic-Specific**: Primarily Python-based, covering topics like generative AI, vector databases, and RAG best practices, with last update timestamped **2026-08-09T00:54:37Z**.
 
 ## Why It Matters
 

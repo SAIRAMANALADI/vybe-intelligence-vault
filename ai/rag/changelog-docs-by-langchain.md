@@ -3,15 +3,13 @@ title: Changelog - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.langchain.com/oss/javascript/releases/changelog
-published_at: '2026-08-09T15:37:15.073509+05:30'
-collected_at: '2026-08-09T15:37:15.073521+05:30'
+source_url: https://docs.langchain.com/oss/python/releases/changelog
+published_at: '2026-08-09T21:29:09.758511+05:30'
+collected_at: '2026-08-09T21:29:09.758526+05:30'
 tags:
 - agents
 - anthropic
-- hackernews
-- meta-ai
-- models
+- benchmark
 - openai
 - producthunt
 - rag
@@ -20,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:changelog-docs-by-langchain
-first_seen: '2026-08-09T15:37:15.073521+05:30'
-last_seen: '2026-08-09T15:37:15.073521+05:30'
-last_checked: '2026-08-09T15:37:15.073521+05:30'
+first_seen: '2026-08-09T21:29:09.758526+05:30'
+last_seen: '2026-08-09T21:29:09.758526+05:30'
+last_checked: '2026-08-09T21:29:09.758526+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **`deepagents` v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks (requires LangSmith Deployment) and **BackendProtocolV2** with structured `Result` objects, multi-modal file support (`Uint8Array` for binary files), simplified method names, and backward compatibility via `adaptBackendProtocol`.
+- **`deepagents` v0.7.0**: Input tokens reduced by **65%** (5,395 → 1,895) via leaner default prompts and trimmed tool schemas; new filesystem tools (`delete`, `write_file` overwrite), middleware overrides, and expanded prompt-caching support (Bedrock, Fireworks, NVIDIA Nemotron 3 Ultra harness).
 
-- **LangGraph v1.1.0**: Adds **StateSchema** for schema-first graph state definition with Standard JSON Schema support (Zod 4, Valibot, etc.), new primitives (`ReducedValue`, `UntrackedValue`, `MessagesValue`), and type utilities (`GraphNode`, `ConditionalEdgeRouter`).
+- **`langgraph` v1.2.0**: Introduces `DeltaChannel` (beta) for incremental state storage, per-node timeouts/error handlers, graceful shutdown via `RunControl`, and `version="v3"` streaming API with typed, per-channel projections.
 
-- **LangChain v1.2.0–v1.3.0**: Introduces structured output `strict` mode, server-side tool support (file/web search, code interpreter, etc.) in `@langchain/openai`/Anthropic, model profiles for feature detection, and middleware for retry, moderation, and summarization.
+- **Breaking changes in `deepagents` v0.7.0**: Planning `todos` opt-in, removed backend shims (`BackendFactory`, `BACKEND_TYPES`), and updated output formats (e.g., `No files found` for empty `ls`/`glob`). Requires migration for `BackendProtocol` instances, `StoreBackend` namespace config, and tool output parsers.
 
 ## Why It Matters
 
@@ -44,15 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T15:37:15.073509+05:30
+- Published: 2026-08-09T21:29:09.758511+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
-- hackernews
-- meta-ai
-- models
+- benchmark
 - openai
 - producthunt
 - rag
@@ -62,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.langchain.com/oss/javascript/releases/changelog
+Original source: https://docs.langchain.com/oss/python/releases/changelog

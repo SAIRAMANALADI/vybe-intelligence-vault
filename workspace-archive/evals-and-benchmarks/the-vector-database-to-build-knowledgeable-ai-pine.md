@@ -2,7 +2,7 @@
 title: The vector database to build knowledgeable AI | Pinecone
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.pinecone.io
+source_url: https://www.pinecone.io/
 resource_id: blog:the-vector-database-to-build-knowledgeable-ai-pine
 local_vault_path: ai/rag/the-vector-database-to-build-knowledgeable-ai-pine.md
 quality_score: 70
@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Vector Database Architecture**: Pinecone is a fully managed vector database with automatic indexing, <100ms write acknowledgment, and parallelized queries maintaining p99 latency consistency at scale.
-
-- **Nexus Knowledge Engine**: Compiles enterprise data into governed knowledge once, reducing token usage by 90% and improving accuracy by 20% over hybrid search via single-query structured responses (30x faster than agentic RAG).
-
-- **Enterprise Compliance**: SOC 2 Type II, HIPAA, GDPR, and I
+- **Performance & Scalability**: Pinecone provides <100ms write acknowledgment, automatic indexing with no tuning required, and consistent p99 query latency at any scale, with all data searched in parallel.
+- **Cost Efficiency**: Knowledge is compiled once and reused, reducing token usage by 90% and operational costs compared to traditional RAG pipelines, with pricing based on read/write units and storage.
+- **Enterprise-Grade Features**: Offers SOC 2 Type II, HIPAA, GDPR, and ISO 27001 complian
 
 ## Use Cases
 
@@ -50,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.pinecone.io
+Original source URL: https://www.pinecone.io/
 
 ## Local Vault File
 

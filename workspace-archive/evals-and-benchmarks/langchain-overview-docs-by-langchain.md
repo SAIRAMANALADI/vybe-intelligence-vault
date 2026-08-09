@@ -3,7 +3,7 @@ title: LangChain overview - Docs by LangChain
 archive_category: evals-and-benchmarks
 source_category: ai/rag
 source_url: https://js.langchain.com
-resource_id: blog:langchain-overview-docs-by-langchain
+resource_id: blog:langchain-overview-docs-by-langchain-2f591c3b
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
 archive_score: 72

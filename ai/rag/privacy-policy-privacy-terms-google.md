@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://myaccount.google.com/privacypolicy?hl=en-US
-published_at: '2026-08-09T12:59:21.191104+05:30'
-collected_at: '2026-08-09T12:59:21.191118+05:30'
+source_url: https://policies.google.com/privacy
+published_at: '2026-08-09T21:28:14.995141+05:30'
+collected_at: '2026-08-09T21:28:14.995151+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-08-09T12:59:21.191118+05:30'
-last_seen: '2026-08-09T12:59:21.191118+05:30'
-last_checked: '2026-08-09T12:59:21.191118+05:30'
+first_seen: '2026-08-09T21:28:14.995151+05:30'
+last_seen: '2026-08-09T21:28:14.995151+05:30'
+last_checked: '2026-08-09T21:28:14.995151+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across apps, browsers, and devices, including unique identifiers, IP addresses, sensor data, and activity logs (e.g., searches, interactions, location), both for signed-in users (linked to accounts) and anonymous sessions (browser/device-bound).
+- **Data Collection Scope**: Google collects user data across services (e.g., Search, YouTube, Chrome) including account-linked info (emails, photos), device identifiers, IP addresses, location data (GPS, Wi-Fi, cell towers), and activity logs (searches, interactions, purchases) even when signed out, tied to browser/device IDs.
 
-- **Personal vs. Non-Personal Data**: Signed-in users provide explicit personal data (e.g., name, email, payment info), while non-account interactions rely on device/browser-specific identifiers (e.g., Chrome sync, Android telemetry) to maintain cross-session preferences.
+- **Technical Mechanisms**: Data is gathered via cookies, pixel tags, local storage (browser/web storage), and device telemetry (e.g., Android periodic server contacts for crash reports, app installations, and usage metrics).
 
-- **Retention & Compliance**: Data retention varies by service and user settings (e.g., Timeline, Web & App Activity), with compliance mechanisms for regulatory cooperation, export/deletion controls, and adherence to frameworks like GDPR/CCPA.
+- **Third-Party & Public Data**: Google aggregates data from publicly accessible sources (e.g., news articles) and trusted partners (e.g., marketing, security, or directory services) for ads, abuse prevention, and business services, with retention policies varying by product and user settings.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T12:59:21.191104+05:30
+- Published: 2026-08-09T21:28:14.995141+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://myaccount.google.com/privacypolicy?hl=en-US
+Original source: https://policies.google.com/privacy

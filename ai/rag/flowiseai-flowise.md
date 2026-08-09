@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FlowiseAI/Flowise
-collected_at: '2026-08-09T18:54:46.540157+05:30'
-published_at: '2026-08-09T13:08:43Z'
+collected_at: '2026-08-09T21:25:44.952887+05:30'
+published_at: '2026-08-09T15:00:10Z'
 tags:
 - agents
 - frontend_ui
@@ -15,7 +15,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 55268
+stars: 55273
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-03-31T12:23:09Z'
 pushed_at: '2026-08-07T05:55:02Z'
 resource_id: github:flowiseai/flowise
-first_seen: '2026-08-09T18:54:46.540157+05:30'
-last_seen: '2026-08-09T18:54:46.540157+05:30'
-last_checked: '2026-08-09T18:54:46.540157+05:30'
+first_seen: '2026-08-09T21:25:44.952887+05:30'
+last_seen: '2026-08-09T21:25:44.952887+05:30'
+last_checked: '2026-08-09T21:25:44.952887+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and multi-agent systems with drag-and-drop workflows, leveraging LangChain and large language models (LLMs).
+- **Visual AI Agent Builder**: Open-source, low/no-code platform (TypeScript/React) for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
 
-- **Multi-Model & RAG Integration**: Supports OpenAI, LangChain, and retrieval-augmented generation (RAG) workflows, enabling dynamic agent interactions, chatbots, and automated workflows with minimal coding.
+- **Multi-Agent & RAG Support**: Enables agentic workflows, multi-agent systems, and retrieval-augmented generation (RAG) pipelines with modular, drag-and-drop interface.
 
-- **Scalable Deployment**: Designed for agentic AI, workflow automation, and multi-agent orchestration, with active community maintenance (55K+ stars, 24K+ forks) and recent updates (2026-08-09).
+- **Extensible Architecture**: Integrates with JavaScript/TypeScript ecosystems, supports custom components, and facilitates workflow automation for chatbots and AI-driven applications.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: FlowiseAI
-- Stars: 55268
-- Forks: 24874
+- Stars: 55273
+- Forks: 24873
 - Language: TypeScript
 - Topics: agentic-ai, agentic-workflow, agents, artificial-intelligence, chatbot, chatgpt, javascript, langchain, large-language-models, low-code, multiagent-systems, no-code, openai, rag, react, typescript, workflow-automation
-- Last Updated: 2026-08-09T13:08:43Z
+- Last Updated: 2026-08-09T15:00:10Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-03-31T12:23:09Z

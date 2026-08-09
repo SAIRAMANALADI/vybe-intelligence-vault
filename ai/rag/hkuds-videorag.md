@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-09T18:53:06.444627+05:30'
+collected_at: '2026-08-09T21:24:09.879631+05:30'
 published_at: '2026-08-09T08:42:52Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-09T18:53:06.444627+05:30'
-last_seen: '2026-08-09T18:53:06.444627+05:30'
-last_checked: '2026-08-09T18:53:06.444627+05:30'
+first_seen: '2026-08-09T21:24:09.879631+05:30'
+last_seen: '2026-08-09T21:24:09.879631+05:30'
+last_checked: '2026-08-09T21:24:09.879631+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to interactively query and analyze video content via multi-modal embeddings and retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long videos via multi-modal embeddings and retrieval mechanisms.
 
-- **Multi-Modal Integration**: Combines vision-language models (e.g., CLIP, BLIP) with LLMs to process and retrieve relevant video segments, frames, and metadata for context-aware responses.
+- **Multi-Modal Integration**: Combines visual, audio, and textual features from videos using advanced encoders (e.g., CLIP, Whisper) for unified representation in LLM-based Q&A.
 
-- **Scalable Architecture**: Optimized for handling long-form videos (e.g., lectures, meetings) with chunking, hierarchical retrieval, and dynamic memory management to mitigate computational overhead.
+- **Efficiency & Scalability**: Optimizes long-video understanding with hierarchical chunking, adaptive retrieval, and GPU-accelerated processing, supporting up to 10-hour videos with minimal latency.
 
 ## Why It Matters
 

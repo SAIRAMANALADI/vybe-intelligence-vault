@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-08-09T18:53:11.463302+05:30'
+collected_at: '2026-08-09T21:24:09.857620+05:30'
 published_at: '2026-08-08T09:17:04Z'
 tags:
 - agents
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-08-09T18:53:11.463302+05:30'
-last_seen: '2026-08-09T18:53:11.463302+05:30'
-last_checked: '2026-08-09T18:53:11.463302+05:30'
+first_seen: '2026-08-09T21:24:09.857620+05:30'
+last_seen: '2026-08-09T21:24:09.857620+05:30'
+last_checked: '2026-08-09T21:24:09.857620+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Graph-Based RAG Framework**: Introduces Youtu-GraphRAG, a vertically integrated system combining graph structures with retrieval-augmented generation (RAG) to enhance complex reasoning in large language models (LLMs) via hierarchical agent orchestration.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for contextual augmentation.
 
-- **Multi-Agent Hierarchical Architecture**: Implements specialized agents (e.g., retrieval, reasoning, and synthesis) that interact through a graph-based knowledge representation, enabling dynamic, context-aware reasoning across interconnected data nodes.
+- **Graph Retrieval-Augmented Reasoning**: Integrates graph-based retrieval with LLMs to enhance long-form reasoning by dynamically constructing and querying knowledge graphs from unstructured data, improving factual consistency and coherence.
 
-- **Performance Optimization for ICLR 2026**: Demonstrates state-of-the-art results in complex reasoning tasks by leveraging graph-augmented LLM prompting, dynamic memory updates, and adaptive retrieval strategies for scalable knowledge synthesis.
+- **ICLR 2026 Submission**: Proposes a novel architecture combining graph neural networks (GNNs) and retrieval-augmented generation (RAG) to optimize agent-based reasoning pipelines, with empirical validation on large-scale datasets.
 
 ## Why It Matters
 

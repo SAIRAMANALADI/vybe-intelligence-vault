@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-08-09T18:52:11.405094+05:30'
+collected_at: '2026-08-09T21:23:09.833377+05:30'
 published_at: '2026-08-04T15:42:47Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - jupyter notebook
 - rag
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-08-09T18:52:11.405094+05:30'
-last_seen: '2026-08-09T18:52:11.405094+05:30'
-last_checked: '2026-08-09T18:52:11.405094+05:30'
+first_seen: '2026-08-09T21:23:09.833377+05:30'
+last_seen: '2026-08-09T21:23:09.833377+05:30'
+last_checked: '2026-08-09T21:23:09.833377+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates an Agentic Retrieval Augmented Generation (RAG) workflow using NVIDIA AI Workbench, integrating autonomous agents with RAG pipelines for dynamic information retrieval and generation.
-
-- **Implementation**: Developed as a Jupyter Notebook, leveraging modular components for agent orchestration, retrieval strategies, and LLM integration, optimized for NVIDIA’s AI stack.
-
-- **Key Features**: Includes agentic decision-making for query decomposition, adaptive retrieval, and context-aware generation, with example workflows for evaluation and scalability.
+- **Agentic RAG Implementation**: Demonstrates an agentic Retrieval-Augmented Generation (RAG) system using NVIDIA AI Workbench, integrating retrieval and generative AI workflows.
+- **Jupyter Notebook Format**: Provides a structured, executable example in Jupyter Notebook for interactive development and testing.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench for streamlined deployment and experimentation of agentic RAG pipelines.
 
 ## Why It Matters
 

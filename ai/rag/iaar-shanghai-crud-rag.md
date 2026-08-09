@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-09T18:52:46.420966+05:30'
+collected_at: '2026-08-09T21:23:44.832600+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-09T18:52:46.420966+05:30'
-last_seen: '2026-08-09T18:52:46.420966+05:30'
-last_checked: '2026-08-09T18:52:46.420966+05:30'
+first_seen: '2026-08-09T21:23:44.832600+05:30'
+last_seen: '2026-08-09T21:23:44.832600+05:30'
+last_checked: '2026-08-09T21:23:44.832600+05:30'
 health_score: 100
 ---
 
@@ -28,7 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   **CRUD-RAG** is a comprehensive benchmark for evaluating Retrieval-Augmented Generation
+- Introduces **CRUD-RAG**, a Chinese benchmark dataset designed to evaluate **Retrieval-Augmented Generation (RAG)** performance in Large Language Models (LLMs), covering **Create, Read, Update, Delete** operations.
+- Comprises **402+ tasks** across diverse domains (e.g., QA, summarization, reasoning) with **31+ retrieval sources**, enabling comprehensive assessment of RAG systems.
+- Provides **Python-based evaluation framework** with standardized metrics (e.g., EM, F1) and supports **multi-modal retrieval** (text, tables, knowledge graphs).
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/pinecone-claude-code-plugin
-collected_at: '2026-08-07T05:59:20.114636+05:30'
+collected_at: '2026-08-09T21:31:21.169728+05:30'
 published_at: '2026-08-05T21:32:51Z'
 tags:
 - anthropic
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 stars: 67
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-17T17:02:50Z'
 pushed_at: '2026-08-05T21:40:21Z'
 resource_id: github:pinecone-io/pinecone-claude-code-plugin
-first_seen: '2026-08-07T05:59:20.114636+05:30'
-last_seen: '2026-08-07T05:59:20.114636+05:30'
-last_checked: '2026-08-07T05:59:20.114636+05:30'
+first_seen: '2026-08-09T21:31:21.169728+05:30'
+last_seen: '2026-08-09T21:31:21.169728+05:30'
+last_checked: '2026-08-09T21:31:21.169728+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Official Pinecone marketplace repository for deploying Claude Code Plugins, enabling integration with Pinecone's vector database for RAG and semantic/hybrid search workflows.
-- **Technical Stack**: Python-based plugin system leveraging Pinecone's MCP (Model Context Protocol) for vector search, hybrid retrieval, and skills augmentation in Anthropic's Claude Code environment.
-- **Key Features**: Supports Pinecone's vector DB capabilities (semantic/hybrid search), retrieval-augmented generation (RAG), and plugin marketplace functionality for extending Claude Code with domain-specific skills.
+- **Purpose**: Official Pinecone marketplace repository for Claude Code Plugins, enabling integration with Anthropic's Claude Code ecosystem.
+- **Key Features**: Supports hybrid search, semantic search, and retrieval-augmented generation (RAG) via Pinecone's vector database and MCP (Model Context Protocol).
+- **Technical Stack**: Python-based plugin with dependencies on Pinecone's vector search and hybrid retrieval capabilities.
 
 ## Why It Matters
 

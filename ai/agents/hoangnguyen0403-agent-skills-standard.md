@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-09T18:54:06.486678+05:30'
+collected_at: '2026-08-09T21:25:04.880676+05:30'
 published_at: '2026-08-07T03:48:17Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
-- workflows
 stars: 538
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-09T18:54:06.486678+05:30'
-last_seen: '2026-08-09T18:54:06.486678+05:30'
-last_checked: '2026-08-09T18:54:06.486678+05:30'
+first_seen: '2026-08-09T21:25:04.880676+05:30'
+last_seen: '2026-08-09T21:25:04.880676+05:30'
+last_checked: '2026-08-09T21:25:04.880676+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and JavaScript frameworks (React, Next.js, NestJS) to guide AI agents in framework-specific development.
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for AI agents across multiple programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
 
-- **Agent-Oriented Standards**: Defines structured `cursor-rules` and `agent-skills` for consistent AI agent behavior across Android, iOS, and web frameworks (React Native, Angular), ensuring predictable code generation and adherence to language-specific conventions.
+- **Key Features**: Provides structured guidelines for AI agents to adhere to coding standards and framework-specific best practices, including `cursor-rules` for IDE configurations.
 
-- **Active Maintenance & Community**: Last updated in August 2026 with 538 stars and 157 forks, indicating ongoing community engagement and iterative improvements to support evolving AI agent capabilities in software development workflows.
+- **Scope & Maintenance**: Covers 19+ topics, last updated in August 2026, with 538 stars and 157 forks, indicating active community engagement.
 
 ## Why It Matters
 

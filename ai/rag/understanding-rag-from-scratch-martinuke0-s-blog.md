@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-26-understanding-rag-from-scratch/
-published_at: '2026-08-09T18:51:37.027203+05:30'
-collected_at: '2026-08-09T18:51:37.027211+05:30'
+published_at: '2026-08-09T21:22:35.135601+05:30'
+collected_at: '2026-08-09T21:22:35.135616+05:30'
 tags:
 - anthropic
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:understanding-rag-from-scratch-martinuke0-s-blog
-first_seen: '2026-08-09T18:51:37.027211+05:30'
-last_seen: '2026-08-09T18:51:37.027211+05:30'
-last_checked: '2026-08-09T18:51:37.027211+05:30'
+first_seen: '2026-08-09T21:22:35.135616+05:30'
+last_seen: '2026-08-09T21:22:35.135616+05:30'
+last_checked: '2026-08-09T21:22:35.135616+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: Four-step process—(1) **Ingest & Extract** raw text from sources (PDFs, HTML, DBs), preserving metadata; (2) **Chunking** into semantically coherent segments (token-aware, sentence-aware, or semantic boundaries); (3) **Embedding & Indexing** via models (e.g., SBERT, OpenAI) stored in vector DBs (FAISS, Pinecone) with ANN indexes (HNSW, IVF+PQ); (4) **Retrieval → Augmentation → Generation** where queries are encoded, top-*k* chunks retrieved (cosine/L2 similarity), reranked (cross-encoders/BM25), and fed to LLM with structured prompts.
+- **RAG Pipeline**: Four-step process—(1) **Ingest & Extract** raw content from diverse sources (HTML, PDFs, databases), (2) **Chunking** into semantically coherent segments (500-token chunks with 50-token overlap), (3) **Embedding & Indexing** using models like `sentence-transformers` or OpenAI embeddings stored in vector DBs (FAISS, Milvus, Pinecone) with ANN indexes (HNSW/IVF+PQ), and (4) **Retrieval→Augmentation→Generation** where queries are encoded, top-*k* chunks retrieved via semantic search (cosine similarity), reranked (cross-encoders/BM25), and fed to LLM with structured prompts.
 
-- **Chunking & Embedding Trade-offs**: Chunk size (500 tokens, 50-token overlap) balances context fidelity and retrieval granularity; embedding dimensionality (768–1536) trades memory/latency for accuracy; hybrid search (dense + sparse) improves recall; vector stores optimize for persistence, replication, and ANN latency.
+- **Chunking & Embedding Trade-offs**: Chunk size/overlap balances token limits and semantic coherence; embedding dimensionality (768–1536) trades accuracy vs. index size/compute. Hybrid retrieval (dense + sparse BM25) improves recall/precision, while vector stores optimize for persistence, latency, and multi-tenancy (e.g., FAISS for offline, Pinecone for managed).
 
-- **Operational Challenges**: Incremental indexing (event-driven, soft deletes) mitigates re-indexing overhead; vector DB costs addressed via caching, sharding, or quantization; memory footprint reduced via dimensionality reduction (PCA, PQ) or smaller embeddings; hallucinations mitigated via source citation enforcement, post-processing verification, and reranking.
+- **Operational Challenges**: Mitigate **re-indexing inefficiency** via incremental ingestion (event-driven, change logs) and soft deletes; **cost/latency** of vector DBs via caching, sharding, quantization (PQ), or hybrid search; **memory footprint** via dimensionality reduction (PCA) or smaller embedding models; **hallucinations** via cross-verification (verifier LLMs, source citations) and reranking.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T18:51:37.027203+05:30
+- Published: 2026-08-09T21:22:35.135601+05:30
 
 ## Related Tags
 

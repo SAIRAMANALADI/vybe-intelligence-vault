@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Jetpack Compose**: Celebrated 5 years as the industry-standard declarative UI toolkit for Android, reshaping modern development with its composable architecture and deep integration into Android Studio.
+- **Jetpack Compose** marks 5 years since its inception, solidifying its role as the industry-standard declarative UI framework for modern Android development, with continued evolution in tooling and ecosystem support.
 
-- **Android 17 & XR Updates**: Android 17 (API 37) is officially released with AOSP source code and Pixel rollout, while Android XR expands engine support and resources for immersive app development.
+- **Android 17 (API 37)** is officially released, with AOSP source code available and Pixel devices receiving OTA updates; key updates focus on app readiness, adaptive layouts, and new platform capabilities.
 
-- **License Agreement (SDK 35)**: Google’s SDK License Agreement (v35) enforces strict usag
+- **Android XR** expands engine support and introduces new resources fo
 
 ## Use Cases
 

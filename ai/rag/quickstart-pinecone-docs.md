@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.pinecone.io/guides/get-started/quickstart
-published_at: '2026-08-09T08:12:10.612937+05:30'
-collected_at: '2026-08-09T08:12:10.612953+05:30'
+published_at: '2026-08-09T21:31:20.525864+05:30'
+collected_at: '2026-08-09T21:31:20.525881+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:quickstart-pinecone-docs
-first_seen: '2026-08-09T08:12:10.612953+05:30'
-last_seen: '2026-08-09T08:12:10.612953+05:30'
-last_checked: '2026-08-09T08:12:10.612953+05:30'
+first_seen: '2026-08-09T21:31:20.525881+05:30'
+last_seen: '2026-08-09T21:31:20.525881+05:30'
+last_checked: '2026-08-09T21:31:20.525881+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Pinecone Setup**: Requires account creation (Starter/Builder/Standard plans) and API key generation via console; supports serverless indexes with integrated embedding (e.g., `llama-text-embed-v2`) and record-based data modeling.
+- **Pinecone Setup**: Requires a Pinecone account and API key; supports Starter (free), Builder ($20/month), or Standard trial (21 days, $300 credits) plans with region-specific index creation.
 
-- **SDK Integration**: Python SDK v9+ uses `create_index_for_model`, `upsert_records`, and `search` with `inputs` (not `query`/`vector`); supports reranking via models like `bge-reranker-v2-m3`; requires `_id` and field-mapped payloads (e.g., `{"_id": "rec1", "content": "..."}`).
+- **Index & Data Operations**: Use `create_index_for_model` with integrated embedding (e.g., `llama-text-embed-v2`) and `upsert_records` to populate a namespace with structured data (e.g., `_id`, `content`, `category`).
 
-- **Agent Workflow**: Demonstrates knowledge retrieval agent pattern with Anthropic/OpenAI API keys; loads structured records (e.g., policies/specs) into Pinecone index, then queries via semantic search with reranking for accuracy.
+- **Search & Reranking**: Execute `search()` with `inputs` for query text and `rerank` (e.g., `bge-reranker-v2-m3`) to optimize top-k results; latency (~5s) required post-upsert for searchable records.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T08:12:10.612937+05:30
+- Published: 2026-08-09T21:31:20.525864+05:30
 
 ## Related Tags
 

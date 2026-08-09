@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-09T18:51:41.325956+05:30'
+collected_at: '2026-08-09T21:22:39.746048+05:30'
 published_at: '2026-08-09T12:50:02Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-09T18:51:41.325956+05:30'
-last_seen: '2026-08-09T18:51:41.325956+05:30'
-last_checked: '2026-08-09T18:51:41.325956+05:30'
+first_seen: '2026-08-09T21:22:39.746048+05:30'
+last_seen: '2026-08-09T21:22:39.746048+05:30'
+last_checked: '2026-08-09T21:22:39.746048+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository provides in-depth, hands-on guides for Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, including implementation details in Jupyter Notebooks.
+- **Comprehensive LLM & RAG Tutorials**: Repository offers detailed, hands-on guides covering Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and their integration in real-world AI applications.
 
-- **Real-World AI Agent Applications**: Focuses on deploying practical AI agents, covering architecture, integration, and optimization strategies for production environments.
+- **AI Agent Applications**: Includes practical implementations and case studies for deploying AI agents, leveraging MCP (Model Context Protocol) for enhanced functionality.
 
-- **Active Development & Community**: Maintained with recent updates (Aug 2026), featuring 36.9K+ stars, 6K+ forks, and contributions across topics like MCP (Model Context Protocol) and machine learning.
+- **Jupyter Notebook-Based Learning**: All content is structured as executable Jupyter Notebooks, enabling interactive, reproducible experimentation with AI engineering concepts.
 
 ## Why It Matters
 

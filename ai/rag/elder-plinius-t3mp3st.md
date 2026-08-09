@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elder-plinius/T3MP3ST
-collected_at: '2026-08-09T18:54:31.518046+05:30'
+collected_at: '2026-08-09T21:25:29.888193+05:30'
 published_at: '2026-08-09T12:15:09Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 5486
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-07-02T17:53:55Z'
 pushed_at: '2026-08-02T21:17:28Z'
 resource_id: github:elder-plinius/t3mp3st
-first_seen: '2026-08-09T18:54:31.518046+05:30'
-last_seen: '2026-08-09T18:54:31.518046+05:30'
-last_checked: '2026-08-09T18:54:31.518046+05:30'
+first_seen: '2026-08-09T21:25:29.888193+05:30'
+last_seen: '2026-08-09T21:25:29.888193+05:30'
+last_checked: '2026-08-09T21:25:29.888193+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent offensive security framework** leveraging TypeScript for autonomous red teaming operations, enabling coordinated attack simulations via AI-driven agents.
+- **Autonomous Red Teaming Framework**: T3MP3ST is a TypeScript-based multi-agent offensive security platform designed for autonomous red teaming operations, enabling automated penetration testing and security assessments.
 
-- **Meta-harness architecture** integrating modular components for dynamic payload generation, lateral movement, and privilege escalation in simulated penetration tests.
+- **Multi-Agent Offensive-Security Meta-Harness**: The system integrates multiple AI-driven agents to dynamically orchestrate offensive security tasks, leveraging collaborative agent interactions for complex attack simulations.
 
-- **Open-source collaborative platform** (5.4k+ stars) with 1.1k+ forks, supporting extensible agent-based workflows for offensive security research and training.
+- **Dynamic Attack Simulation & Adaptability**: Supports real-time adaptive offensive strategies, with agents dynamically adjusting tactics based on encountered defenses, making it highly effective for simulating advanced persistent threats (APTs).
 
 ## Why It Matters
 

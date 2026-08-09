@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.githubstatus.com
-published_at: '2026-08-09T18:59:36.723978+05:30'
-collected_at: '2026-08-09T18:59:36.723987+05:30'
+published_at: '2026-08-09T21:32:27.785211+05:30'
+collected_at: '2026-08-09T21:32:27.785229+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-08-09T18:59:36.723987+05:30'
-last_seen: '2026-08-09T18:59:36.723987+05:30'
-last_checked: '2026-08-09T18:59:36.723987+05:30'
+first_seen: '2026-08-09T21:32:27.785229+05:30'
+last_seen: '2026-08-09T21:32:27.785229+05:30'
+last_checked: '2026-08-09T21:32:27.785229+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Actions, API, Pages) with 90-day uptime metrics, incident tracking, and historical data via Atom/RSS feeds.
-- **Incident Resolution (Aug 6-7, 2026)** involved a multi-hour outage in GitHub Actions due to stuck ARC runner pods, invalid job assignments, and throttled webhooks, requiring manual pod deletion and automated recovery fixes.
-- **Notification & Integration Options** include email, SMS (global), Slack, and webhook-based incident alerts, with compliance to Atlassian/GitHub privacy policies and reCAPTCHA protection.
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Actions) with 90-day uptime metrics and incident history.
+- **Incident Resolution (Aug 6–7, 2026)**: Actions Runner Controller (ARC) runners stuck in idle state caused workflow failures; fixes included draining queues, restoring webhook throughput, and deploying automatic recovery mechanisms.
+- **Notification Subscriptions**: Supports email, SMS (global), Slack, and webhook-based incident alerts with regional status pages (AU/EU/JP/US) for GitHub Enterprise Cloud.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T18:59:36.723978+05:30
+- Published: 2026-08-09T21:32:27.785211+05:30
 
 ## Related Tags
 

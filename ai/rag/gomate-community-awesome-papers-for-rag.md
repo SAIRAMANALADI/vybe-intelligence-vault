@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-08-09T18:52:41.397916+05:30'
+collected_at: '2026-08-09T21:23:39.819303+05:30'
 published_at: '2026-07-01T02:40:05Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- meta-ai
-- models
 - paper
 - python
 - rag
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-08-09T18:52:41.397916+05:30'
-last_seen: '2026-08-09T18:52:41.397916+05:30'
-last_checked: '2026-08-09T18:52:41.397916+05:30'
+first_seen: '2026-08-09T21:23:39.819303+05:30'
+last_seen: '2026-08-09T21:23:39.819303+05:30'
+last_checked: '2026-08-09T21:23:39.819303+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) architectures, methodologies, and applications.
-- **Python-Centric Tooling**: Includes open-source implementations, frameworks (e.g., LangChain, LlamaIndex), and evaluation benchmarks primarily in Python for RAG system development.
-- **Last Updated**: Repository metadata indicates latest synchronization on **2026-07-01T02:40:05Z**, reflecting recent additions to the curated list.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports focused on Retrieval-Augmented Generation (RAG) architectures, techniques, and applications.
+- **Python-Centric**: All listed resources are Python-based, with implementations primarily leveraging libraries like `transformers`, `langchain`, and `sentence-transformers` for RAG pipelines.
+- **Last Updated**: Repository was last synchronized on **July 1, 2026**, ensuring inclusion of recent advancements in RAG research (e.g., hybrid retrieval, long-context RAG, and evaluation frameworks).
 
 ## Why It Matters
 

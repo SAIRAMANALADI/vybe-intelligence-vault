@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-09T18:54:06.497337+05:30'
+collected_at: '2026-08-09T21:25:09.853917+05:30'
 published_at: '2026-08-03T07:49:22Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - rag
 - reddit
 - unknown
+- workflows
 stars: 205
 language: Unknown
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-09T18:54:06.497337+05:30'
-last_seen: '2026-08-09T18:54:06.497337+05:30'
-last_checked: '2026-08-09T18:54:06.497337+05:30'
+first_seen: '2026-08-09T21:25:09.853917+05:30'
+last_seen: '2026-08-09T21:25:09.853917+05:30'
+last_checked: '2026-08-09T21:25:09.853917+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Implements best practices for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), reducing redundant network requests and improving state management.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **Advanced TanStack Router Configuration**: Demonstrates structured routing patterns for AI agents, leveraging TanStack Router’s type-safe navigation and dynamic route handling to streamline client-side transitions and parameter validation.
+- **Router Best Practices for AI Agents**: Provides structured guidance on implementing TanStack Router for dynamic, type-safe routing in AI coding agents, ensuring seamless navigation and state management.
 
-- **TanStack Start (Next.js) Optimization**: Provides guidelines for integrating TanStack Start with AI agents, focusing on server-side rendering (SSR) and static site generation (SSG) optimizations to enhance performance and scalability.
+- **TanStack Start for AI Workflows**: Highlights integration strategies for TanStack Start to streamline AI agent workflows, focusing on modularity, scalability, and real-time data handling.
 
 ## Why It Matters
 

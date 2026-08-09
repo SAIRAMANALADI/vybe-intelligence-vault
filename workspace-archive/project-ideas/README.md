@@ -8,7 +8,7 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Top Matched Resources
 
-- [truefoundry/cognita](https://github.com/truefoundry/cognita) (framework - ESSENTIAL Tier)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - ESSENTIAL Tier)
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (prompt - USEFUL Tier)
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (benchmark - USEFUL Tier)
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (framework - USEFUL Tier)
@@ -19,12 +19,12 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Best GitHub Repositories
 
-- [truefoundry/cognita](https://github.com/truefoundry/cognita)
-- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
-- [masumi-network/crewai-masumi-quickstart-template](https://github.com/masumi-network/crewai-masumi-quickstart-template)
-- [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai)
 - [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
+- [muhammad-uzair-yasin/CrewAi_starter_template](https://github.com/muhammad-uzair-yasin/CrewAi_starter_template)
+- [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai)
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
+- [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-08-09 19:08 IST*
+*Last updated: 2026-08-09 21:39 IST*

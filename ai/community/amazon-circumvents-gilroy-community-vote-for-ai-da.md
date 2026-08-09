@@ -13,13 +13,14 @@ collected_at: '2026-08-09T18:50:41.420534+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:amazon-circumvents-gilroy-community-vote-for-ai-da
 first_seen: '2026-08-09T18:50:41.420534+05:30'
 last_seen: '2026-08-09T18:50:41.420534+05:30'
 last_checked: '2026-08-09T18:50:41.420534+05:30'
 health_score: 100
 ---
+
 
 # Amazon circumvents Gilroy community vote for AI data center
 

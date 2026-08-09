@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-08-09T18:51:33.463126+05:30'
-collected_at: '2026-08-09T18:51:33.463137+05:30'
+published_at: '2026-08-09T21:22:31.914425+05:30'
+collected_at: '2026-08-09T21:22:31.914444+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-08-09T18:51:33.463137+05:30'
-last_seen: '2026-08-09T18:51:33.463137+05:30'
-last_checked: '2026-08-09T18:51:33.463137+05:30'
+first_seen: '2026-08-09T21:22:31.914444+05:30'
+last_seen: '2026-08-09T21:22:31.914444+05:30'
+last_checked: '2026-08-09T21:22:31.914444+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines *Retrieval + Augmentation + Generation* to dynamically pull external knowledge into LLMs, addressing limitations in freshness, private data, and hallucinations by indexing documents and retrieving top-*k* relevant chunks for grounded responses.
+- **RAG (Retrieval-Augmented Generation)** integrates retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing issues like hallucinations, outdated knowledge, and private data limitations.
 
-- **Evolution of RAG**: Progressed from *Naive RAG* (basic vector search) → *Advanced RAG* (hybrid retrieval, reranking, query transformation) → *Modular RAG* (agentic routing, tool integration) → *Graph RAG* (entity-relation graphs for multi-hop reasoning).
+- **Evolution of RAG**: Naive RAG (basic retrieval + generation) → Advanced RAG (hybrid retrieval, reranking, query transformation) → Modular/Graph RAG (entity-relation graphs, multi-hop reasoning, tool integration) with trade-offs in complexity, scalability, and reasoning depth.
 
-- **Operational Considerations**: Requires evaluation metrics (e.g., RRF for multi-retriever fusion, MMR for diversity), production checklists (e.g., embedding model selection like `BAAI/bge-m3`), and trade-offs between retrieval accuracy, latency, and graph construction overhead.
+- **Key Techniques**: Hybrid retrieval (dense + sparse), RRF for multi-retriever fusion, MMR for diversity, and Graph RAG for relational reasoning, with frameworks like LangChain/LlamaIndex and vector DBs (Chroma, Pinecone) enabling scalable implementations.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T18:51:33.463126+05:30
+- Published: 2026-08-09T21:22:31.914425+05:30
 
 ## Related Tags
 

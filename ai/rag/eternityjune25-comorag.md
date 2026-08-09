@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-09T18:53:11.441658+05:30'
+collected_at: '2026-08-09T21:24:09.846748+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-09T18:53:11.441658+05:30'
-last_seen: '2026-08-09T18:53:11.441658+05:30'
-last_checked: '2026-08-09T18:53:11.441658+05:30'
+first_seen: '2026-08-09T21:24:09.846748+05:30'
+last_seen: '2026-08-09T21:24:09.846748+05:30'
+last_checked: '2026-08-09T21:24:09.846748+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: ComoRAG implements a memory-organized Retrieval-Augmented Generation (RAG) system inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
 
-- **Stateful Long-Context Handling**: The framework dynamically organizes and retrieves contextual information across extended narratives, leveraging episodic and semantic memory layers to maintain coherence in multi-turn reasoning tasks.
+- **Stateful Reasoning**: Implements dynamic memory organization to maintain context across extended interactions, enhancing coherence and relevance in multi-turn reasoning tasks.
 
-- **AAAI 2026 Poster Submission**: The repository presents a novel approach to RAG, emphasizing memory-driven reasoning for complex, long-form narratives, with Python-based implementation and active development (last updated July 2026).
+- **AAAI 2026 Contribution**: Proposes a novel approach to long-form narrative reasoning, leveraging memory organization for improved performance in complex, state-dependent scenarios.
 
 ## Why It Matters
 

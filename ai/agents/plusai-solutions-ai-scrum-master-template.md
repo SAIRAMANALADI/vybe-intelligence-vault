@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-08-09T18:54:56.565726+05:30'
+collected_at: '2026-08-09T21:25:54.986302+05:30'
 published_at: '2026-07-17T03:59:58Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - scripts
 - unknown
-- workflows
 stars: 24
 language: Unknown
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-08-09T18:54:56.565726+05:30'
-last_seen: '2026-08-09T18:54:56.565726+05:30'
-last_checked: '2026-08-09T18:54:56.565726+05:30'
+first_seen: '2026-08-09T21:25:54.986302+05:30'
+last_seen: '2026-08-09T21:25:54.986302+05:30'
+last_checked: '2026-08-09T21:25:54.986302+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous DevOps Framework**: Converts GitHub repositories into an AI-driven Scrum team using GitHub Actions and Claude to orchestrate AI agents for issue-based project management and development.
-
-- **Scrum Orchestration**: Implements a Scrum framework via automated workflows, where AI agents handle backlog refinement, sprint planning, task execution, and progress tracking directly from GitHub Issues.
-
-- **Open-Source Template**: Provides a pre-configured, extensible template for autonomous software development, enabling seamless integration of AI agents into existing CI/CD pipelines.
+- **Autonomous DevOps Framework**: GitHub Actions and Claude orchestrate AI agents to autonomously manage development under Scrum, converting Issues into executable tasks.
+- **Scrum-Based AI Agents**: Agents operate within a Scrum framework, handling sprint planning, task breakdown, and execution directly from GitHub Issues.
+- **Open-Source Template**: Enables any repository to function as an AI-driven autonomous development team with minimal setup.
 
 ## Why It Matters
 

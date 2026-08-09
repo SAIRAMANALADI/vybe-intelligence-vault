@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-09T18:53:11.509353+05:30'
+collected_at: '2026-08-09T21:24:14.878292+05:30'
 published_at: '2026-08-09T07:14:32Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 169
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-09T18:53:11.509353+05:30'
-last_seen: '2026-08-09T18:53:11.509353+05:30'
-last_checked: '2026-08-09T18:53:11.509353+05:30'
+first_seen: '2026-08-09T21:24:14.878292+05:30'
+last_seen: '2026-08-09T21:24:14.878292+05:30'
+last_checked: '2026-08-09T21:24:14.878292+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent-memory to enhance graph-based knowledge retrieval.
+- **Memory-based Multi-Agent System**: Implements a **graph retrieval-augmented generation (GraphRAG)** framework where multiple agents collaborate using **shared memory** for dynamic graph construction and retrieval, optimizing context-aware generation.
 
-- **Ontology & Graph Construction**: Dynamically constructs ontologies and graph structures to enable efficient knowledge representation and retrieval, optimizing contextual relevance in RAG pipelines.
+- **Ontology-Driven Graph Construction**: Utilizes **ontology-based graph construction** to structure knowledge, enabling efficient **multi-hop reasoning** and **semantic retrieval** for enhanced LLM performance in downstream tasks.
 
-- **Python Implementation**: Provides a Python-based framework with modular components for ontology construction, graph-based memory management, and multi-agent coordination, targeting KDD 2026 research standards.
+- **Python Implementation**: Provides a **modular Python library** with tools for **agent-memory integration**, **graph-based RAG pipelines**, and **ontology management**, designed for scalability and adaptability in KDD 2026 research workflows.
 
 ## Why It Matters
 

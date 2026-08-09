@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Hugo** is a static site generator (SSG) written in Go, maintained by the `gohugoio` organization on GitHub.
-- Repository metrics: **89.4k stars**, **8.3k forks**, **212 open issues**, and **20 pull requests** as of the last update.
-- Provides GitHub Actions, dependency graphs, and contributor analytics for open-source development tracking.
+- **Repository Overview**: Hugo is a static site generator written in Go, hosted on GitHub under `gohugoio/hugo`, with 89.4k stars and 8.3k forks as of the latest data.
+
+- **Development Metrics**: The repository tracks 212 open issues, 21 pull requests, and includes CI/CD via GitHub Actions, along with security and quality monitoring.
+
+- **Insights & Contributions**: Provides analytics via Pulse, contributor graphs, commit activity, and dependency tracking, though some visualizations failed to l
 
 ## Use Cases
 
