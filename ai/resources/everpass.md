@@ -3,16 +3,18 @@ title: EverPass
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://manager.upshow.tv/
-published_at: '2026-07-20T22:23:22.399496+05:30'
-collected_at: '2026-07-20T22:23:22.399504+05:30'
+source_url: https://help.upshow.tv/hc/en-us
+published_at: '2026-08-09T13:00:47.958013+05:30'
+collected_at: '2026-08-09T13:00:47.958025+05:30'
 tags:
+- hackernews
 - web-crawled
+- workflows
 status: active
 resource_id: blog:everpass
-first_seen: '2026-07-20T22:23:22.399504+05:30'
-last_seen: '2026-07-20T22:23:22.399504+05:30'
-last_checked: '2026-07-20T22:23:22.399504+05:30'
+first_seen: '2026-08-09T13:00:47.958025+05:30'
+last_seen: '2026-08-09T13:00:47.958025+05:30'
+last_checked: '2026-08-09T13:00:47.958025+05:30'
 health_score: 100
 ---
 
@@ -20,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Requirement**: The application mandates JavaScript execution for full functionality.
-- **Browser Dependency**: Core app operations rely on client-side JavaScript execution, blocking access if disabled.
-- **Fallback Limitation**: Without JavaScript, users encounter a static placeholder ("You need to enable JavaScript to run this app") instead of interactive content.
+- **Platform Overview**: Centralized hub for managing EverPass infrastructure, including device deployment, streaming configurations, and analytics dashboards for live sports broadcasting in venues.
+
+- **Streaming Readiness**: Technical guidelines for optimizing network bandwidth, device compatibility (e.g., Spectrum Xumo integration), and staff training to ensure low-latency, high-reliability live event streaming.
+
+- **Device Management**: End-to-end workflow for ordering, installing, and troubleshooting EverPass-compatible hardware, with support resources for hardware diagnostics and firmware updates.
 
 ## Why It Matters
 
@@ -32,12 +36,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T22:23:22.399496+05:30
+- Published: 2026-08-09T13:00:47.958013+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://manager.upshow.tv/
+Original source: https://help.upshow.tv/hc/en-us

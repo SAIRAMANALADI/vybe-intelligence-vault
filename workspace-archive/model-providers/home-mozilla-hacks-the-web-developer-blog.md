@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Firefox 151 introduces Web Serial API support**, enabling direct web application communication with serial-connected hardware (e.g., microcontrollers, 3D printers) without native software dependencies.
+- **Firefox 151 introduces Web Serial API support**, enabling direct web-based communication with serial-connected hardware (e.g., microcontrollers, 3D printers) without native software dependencies.
 
-- **Firefox 148 ships the standardized Sanitizer API**, replacing `innerHTML` with `setHTML` to mitigate XSS vulnerabilities by sanitizing untrusted HTML before DOM insertion.
+- **Firefox 148 implements the Sanitizer API**, providing standardized XSS protection by sanitizing untrusted HTML before DOM insertion, mitigating cross-site scripting vulnerabilities.
 
-- **Mozilla deployed CRLite in Firefox**, providing fast, private certificate revocation checks without exposing use
+- **Mozilla deployed CRLite in Firefox**, enabling fast, private, and comprehensive TLS certificate revocation c
 
 ## Use Cases
 

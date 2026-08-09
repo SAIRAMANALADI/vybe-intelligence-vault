@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-09T10:12:58.848298+05:30'
+collected_at: '2026-08-09T12:52:09.200398+05:30'
 published_at: '2026-08-06T18:43:03Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 4382
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-09T10:12:58.848298+05:30'
-last_seen: '2026-08-09T10:12:58.848298+05:30'
-last_checked: '2026-08-09T10:12:58.848298+05:30'
+first_seen: '2026-08-09T12:52:09.200398+05:30'
+last_seen: '2026-08-09T12:52:09.200398+05:30'
+last_checked: '2026-08-09T12:52:09.200398+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: End-to-end guide for building production-ready LLM & RAG systems using LLMOps best practices, including source code and 12 hands-on lessons.
-
-- **Technical Stack**: Integrates AWS, Bytewax, Comet-ML, Docker, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps), and Superlinked for infrastructure and ML pipeline orchestration.
-
-- **Focus Areas**: Covers generative AI, MLOps, ML system design, and infrastructure-as-code (IaC) with Python-based implementations, updated as of 2026-08-06.
+- **Course Structure**: Provides a 12-lesson hands-on guide to building a production-ready LLM and RAG system using LLMOps best practices, including source code and infrastructure-as-code (IaC) templates.
+- **Tech Stack**: Implements a Python-based pipeline integrating AWS, Pulumi (IaC), Bytewax (stream processing), Qdrant (vector DB), Comet-ML (experiment tracking), and Qwak (ML deployment).
+- **Deployment Focus**: Covers end-to-end MLOps workflows, including containerization (Docker), ML system design, and scalable generative AI infrastructure for real-world applications.
 
 ## Why It Matters
 

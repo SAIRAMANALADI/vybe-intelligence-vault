@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent architecture**: Klarna deployed a LangGraph-based controllable agent system to route requests and handle diverse tasks, reducing latency, improving reliability, and lowering operational costs.
-
-- **Context-aware optimization**: Dynamic prompt tailoring via LangSmith ensured contextually relevant responses, reducing token costs and latency while enhancing response quality.
-
-- **Test-driven refinement**: LangSmith enabled step-by-step debugging, LLM evaluations, and prompt iteratio
+- **Multi-agent architecture**: Klarna deployed a controllable, scalable multi-agent system using LangGraph to route requests, handle tasks, and reduce latency/costs while improving reliability.
+- **Context-aware optimization**: Dynamic prompt tailoring via LangSmith ensured contextually relevant responses, reducing token costs and latency while enabling meta-prompting for iterative improvements.
+- **Performance validation**: LangSmith’s observability and LLM evaluations enabled rigorous testing
 
 ## Use Cases
 

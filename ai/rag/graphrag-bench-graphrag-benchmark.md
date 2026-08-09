@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-09T10:13:13.996315+05:30'
-published_at: '2026-08-06T17:19:02Z'
+collected_at: '2026-08-09T12:52:24.169894+05:30'
+published_at: '2026-08-09T07:11:34Z'
 tags:
 - benchmark
 - dataset
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - python
 - rag
-stars: 476
+stars: 477
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-09T10:13:13.996315+05:30'
-last_seen: '2026-08-09T10:13:13.996315+05:30'
-last_checked: '2026-08-09T10:13:13.996315+05:30'
+first_seen: '2026-08-09T12:52:24.169894+05:30'
+last_seen: '2026-08-09T12:52:24.169894+05:30'
+last_checked: '2026-08-09T12:52:24.169894+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, with a focus on assessing when graph structures enhance RAG performance.
-
-- **Technical Scope**: Includes comprehensive analysis tools and datasets for GraphRAG, supporting Python-based implementations and benchmarking against ICLR'26 standards.
-
-- **Repository Metrics**: 476 stars, 54 forks, last updated 2026-08-06, emphasizing active development in graph-based RAG evaluation.
+- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, including datasets and metrics to assess performance in graph-based retrieval-augmented generation (RAG) tasks.
+- **Technical Scope**: Focuses on analyzing when graph structures improve RAG performance, covering retrieval strategies, graph construction methods, and model architectures.
+- **Implementation**: Open-source Python repository with modular components for dataset generation, evaluation pipelines, and comparative analysis against traditional RAG baselines.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: GraphRAG-Bench
-- Stars: 476
-- Forks: 54
+- Stars: 477
+- Forks: 55
 - Language: Python
 - Topics: analysis, benchmark, dataset, graphrag, graphrag-bench, graphrag-benchmark, graphragdataset
-- Last Updated: 2026-08-06T17:19:02Z
+- Last Updated: 2026-08-09T07:11:34Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T03:34:06Z

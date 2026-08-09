@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-08-09T03:22:41.025554+05:30'
-published_at: '2026-08-08T21:01:51Z'
+collected_at: '2026-08-09T12:53:24.228142+05:30'
+published_at: '2026-08-09T04:14:27Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - html
 - scripts
-stars: 3892
+stars: 3894
 language: HTML
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-08-09T03:22:41.025554+05:30'
-last_seen: '2026-08-09T03:22:41.025554+05:30'
-last_checked: '2026-08-09T03:22:41.025554+05:30'
+first_seen: '2026-08-09T12:53:24.228142+05:30'
+last_seen: '2026-08-09T12:53:24.228142+05:30'
+last_checked: '2026-08-09T12:53:24.228142+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ health_score: 100
 
 ## Summary
 
-*   Offers 162 production-ready AI agent templates specifically designed for the OpenCl
+*   **Aggregates 162 production-ready AI agent templates specifically for the
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3892
+- Stars: 3894
 - Forks: 630
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-08-08T21:01:51Z
+- Last Updated: 2026-08-09T04:14:27Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-05T10:51:17Z

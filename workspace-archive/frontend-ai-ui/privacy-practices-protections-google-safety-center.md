@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Minimization & Auto-Deletion**: Default 18-month auto-deletion for activity data (e.g., Location History, Web & App Activity), with user controls to adjust or disable; sensitive data (e.g., health, religion) explicitly excluded from ad targeting.
-- **Privacy-Preserving Technologies**: Implements differential privacy, federated learning, and anonymization (e.g., Private Join and Compute) to derive insights without exposing raw user data; open-sourced for broader adoption.
-- **User Contro
+- **Data Minimization & Auto-Deletion**: Default auto-delete controls (18 months) for Location History and Web & App Activity, with no use of sensitive data (e.g., health, race, religion) for ads or personalization.
+- **Privacy-Preserving Technologies**: Deployment of anonymization (e.g., differential privacy), federated learning, and open-source tools (e.g., Private Join and Compute) to process data without exposing raw user information.
+- **User Control & Transparency**: Granular privacy contr
 
 ## Use Cases
 

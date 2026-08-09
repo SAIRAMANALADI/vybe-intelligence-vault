@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-08-09T10:14:53.935995+05:30'
+collected_at: '2026-08-09T12:54:04.227277+05:30'
 published_at: '2026-08-09T00:23:15Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -22,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-08-02T12:42:17Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-08-09T10:14:53.935995+05:30'
-last_seen: '2026-08-09T10:14:53.935995+05:30'
-last_checked: '2026-08-09T10:14:53.935995+05:30'
+first_seen: '2026-08-09T12:54:04.227277+05:30'
+last_seen: '2026-08-09T12:54:04.227277+05:30'
+last_checked: '2026-08-09T12:54:04.227277+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports **60+ detectors** for tabular, time series, graph, text, image, and audio data, enabling multimodal anomaly detection across domains like fraud, NLP, and computer vision.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for automated model selection and evaluation.
 
-- **Advanced Orchestration & Agentic Workflows**: Features **ADEngine** for benchmark-backed detector orchestration and an **agentic workflow** for AI-driven anomaly detection, integrating foundation models and deep learning techniques.
+- **Agentic Workflow Integration**: Enables AI agents to autonomously execute anomaly detection pipelines, leveraging foundation models and multimodal capabilities for adaptive detection strategies.
 
-- **Scalable & Research-Backed**: Actively maintained with **9,954+ stars** and **1,490+ forks**, PyOD leverages unsupervised learning, outlier ensembles, and novelty detection, with recent updates (2026-08-09) ensuring cutting-edge performance.
+- **Active Development & Ecosystem**: Maintained repository (last updated Aug 2026) with 9.9K+ stars, 1.4K+ forks, and topics spanning fraud detection, graph/image anomaly detection, and out-of-distribution (OOD) detection.
 
 ## Why It Matters
 

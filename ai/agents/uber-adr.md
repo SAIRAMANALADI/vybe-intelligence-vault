@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/uber/ADR
-collected_at: '2026-08-09T10:14:58.999429+05:30'
+collected_at: '2026-08-09T12:54:09.276469+05:30'
 published_at: '2026-08-09T04:29:17Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-04-19T18:01:42Z'
 pushed_at: '2026-08-08T16:00:08Z'
 resource_id: github:uber/adr
-first_seen: '2026-08-09T10:14:58.999429+05:30'
-last_seen: '2026-08-09T10:14:58.999429+05:30'
-last_checked: '2026-08-09T10:14:58.999429+05:30'
+first_seen: '2026-08-09T12:54:09.276469+05:30'
+last_seen: '2026-08-09T12:54:09.276469+05:30'
+last_checked: '2026-08-09T12:54:09.276469+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose & Deployment**: ADR (Agent Defense Runtime) is an enterprise-grade security framework for AI agents, providing observability, security benchmarking, and threat detection, with production deployment at Uber.
-- **Technical Scope**: Implements security measures against prompt injection, LLM-specific threats, and Model Context Protocol (MCP) risks, supporting tools like Claude, Codex, and Cursor.
-- **Implementation**: Python-based, integrates threat detection mechanisms, and includes benchmarking for evaluating AI agent security postures.
+- **Purpose**: ADR (Agent Defense Runtime) secures enterprise AI agents via observability, security benchmarking, and threat detection, deployed at Uber.
+- **Features**: Supports detection of prompt injection, LLM security threats, and integrates with MCP (Model Context Protocol) for agent security.
+- **Technical Stack**: Python-based, compatible with agents/tools like Claude, Codex, and Cursor for AI security enforcement.
 
 ## Why It Matters
 

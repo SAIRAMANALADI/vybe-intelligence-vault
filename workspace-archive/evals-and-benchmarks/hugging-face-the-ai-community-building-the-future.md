@@ -8,10 +8,11 @@ local_vault_path: ai/resources/hugging-face-the-ai-community-building-the-future
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
+- dataset
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -24,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Architecture**: MiniMax-H3 is a large-scale language model developed by MiniMaxAI, optimized for high-performance natural language processing tasks with advanced transformer-based architecture.
+- **Model Architecture**: MiniMax-H3 is a large-scale, decoder-only transformer model optimized for high-performance text generation, with undisclosed but likely billions of parameters.
 
-- **Performance Metrics**: The model achieves state-of-the-art results in benchmark evaluations, with a reported 3.12k citations and significant adoption (26.7k updates) in the Hugging Face community.
+- **Training Data**: Trained on a proprietary, high-quality dataset curated for advanced reasoning, coding, and multilingual capabilities, though specifics remain undisclosed.
 
-- **Deployment & Accessibility**: Hosted on Hugging Face, the model is publicly accessible fo
+- **Performance Metrics**: Benchmarked for superior performance in instruction-following, coding tasks, and multilingual understanding,
 
 ## Use Cases
 

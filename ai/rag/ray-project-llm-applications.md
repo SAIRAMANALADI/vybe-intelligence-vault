@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-09T10:13:38.861591+05:30'
+collected_at: '2026-08-09T12:52:49.202214+05:30'
 published_at: '2026-08-05T15:22:57Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-09T10:13:38.861591+05:30'
-last_seen: '2026-08-09T10:13:38.861591+05:30'
-last_checked: '2026-08-09T10:13:38.861591+05:30'
+first_seen: '2026-08-09T12:52:49.202214+05:30'
+last_seen: '2026-08-09T12:52:49.202214+05:30'
+last_checked: '2026-08-09T12:52:49.202214+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2, OpenAI, and Anyscale endpoints.
-- **Fine-Tuning & Optimization**: Includes Jupyter Notebooks for fine-tuning LLMs and optimizing inference pipelines, with focus on latency reduction and cost-efficiency in large-scale deployments.
-- **Modular Architecture**: Provides a scalable framework for LLM application development, featuring modular components for retrieval, generation, and serving, with Ray as the orchestration backbone.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized fine-tuning techniques.
+- **Scalable Serving Architecture**: Leverages Ray’s distributed computing to handle high-throughput LLM inference, with notebooks detailing deployment strategies for scalable production environments.
+- **Tooling & Integration**: Provides end-to-end examples for integrating Anyscale endpoints, custom fine-tuning, and vector databases, emphasizing reproducibility and performance in ML pipelines.
 
 ## Why It Matters
 

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-09T10:13:43.900957+05:30'
+collected_at: '2026-08-09T12:52:54.221089+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -17,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-09T10:13:43.900957+05:30'
-last_seen: '2026-08-09T10:13:43.900957+05:30'
-last_checked: '2026-08-09T10:13:43.900957+05:30'
+first_seen: '2026-08-09T12:52:54.221089+05:30'
+last_seen: '2026-08-09T12:52:54.221089+05:30'
+last_checked: '2026-08-09T12:52:54.221089+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, enhancing contextual relevance in generation tasks.
-
-- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval mechanism to dynamically extract and prioritize information from knowledge graphs, optimizing both precision and recall.
-
-- **Efficiency Optimization**: Designed for AAAI 2026, the framework (LeanRAG) emphasizes lightweight, scalable architecture in Python to balance computational cost with performance in RAG systems.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → document) to optimize context relevance and reduce noise in generated outputs.
+- **Efficiency Optimizations**: Uses lightweight graph traversal (e.g., pruning, caching) and semantic aggregation (e.g., embeddings, attention) to balance retrieval granularity and computational overhead.
+- **AAAI 2026 Benchmarking**: Evaluates performance on knowledge-intensive tasks (e.g., QA, summarization) with metrics like precision, recall, and latency, demonstrating superiority over traditional dense retrieval baselines.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial
-collected_at: '2026-08-09T10:12:23.803359+05:30'
+collected_at: '2026-08-09T12:51:34.106213+05:30'
 published_at: '2026-07-28T13:49:36Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-04-05T21:12:53Z'
 pushed_at: '2024-04-08T10:45:53Z'
 resource_id: github:rsrohan99/rag-stream-intermediate-events-tutorial
-first_seen: '2026-08-09T10:12:23.803359+05:30'
-last_seen: '2026-08-09T10:12:23.803359+05:30'
-last_checked: '2026-08-09T10:12:23.803359+05:30'
+first_seen: '2026-08-09T12:51:34.106213+05:30'
+last_seen: '2026-08-09T12:51:34.106213+05:30'
+last_checked: '2026-08-09T12:51:34.106213+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- Demonstrates streaming intermediate LlamaIndex RAG events via Server-Sent Events (SSE) to the Vercel AI SDK for real-time client-side processing.
-- Implements TypeScript-based event handling to bridge LlamaIndex's event system with Vercel AI SDK's streaming interface.
-- Provides a tutorial with practical examples for integrating intermediate RAG events into a Vercel-compatible streaming pipeline.
+- **Implementation**: Demonstrates streaming intermediate LlamaIndex RAG events to Vercel AI SDK via Server-Sent Events (SSE) for real-time processing.
+- **Tech Stack**: Uses TypeScript with LlamaIndex for RAG and Vercel AI SDK for event handling.
+- **Key Feature**: Enables incremental event transmission (e.g., retrieval, synthesis steps) to improve latency and user feedback in AI pipelines.
 
 ## Why It Matters
 

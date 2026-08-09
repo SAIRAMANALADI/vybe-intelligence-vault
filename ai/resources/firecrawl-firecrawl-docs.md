@@ -3,16 +3,16 @@ title: Sign in to GitHub · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/firecrawl/firecrawl-docs/edit/main/api-reference/introduction.mdx
-published_at: '2026-08-08T18:54:26.866111+05:30'
-collected_at: '2026-08-08T18:54:26.866128+05:30'
+source_url: https://github.com/firecrawl/firecrawl-docs/edit/main/features/alpha/deep-research.mdx
+published_at: '2026-08-09T12:56:27.474939+05:30'
+collected_at: '2026-08-09T12:56:27.474962+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:firecrawl/firecrawl-docs
-first_seen: '2026-08-08T18:54:26.866128+05:30'
-last_seen: '2026-08-08T18:54:26.866128+05:30'
-last_checked: '2026-08-08T18:54:26.866128+05:30'
+first_seen: '2026-08-09T12:56:27.474962+05:30'
+last_seen: '2026-08-09T12:56:27.474962+05:30'
+last_checked: '2026-08-09T12:56:27.474962+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Error**: The GitHub login page encountered a loading error, preventing access to the sign-in interface.
-- **Account Creation Link**: A new account can be created via the provided signup URL, bypassing the failed login attempt.
-- **Passkey Alternative**: GitHub supports passkey-based authentication as an alternative to traditional username/password credentials.
+- **Authentication Failure**: The error indicates a failed page load during GitHub authentication, potentially due to session, network, or server-side issues.
+
+- **Recovery Options**: Users can attempt to reload the page or reset their password via the provided `password_reset` link if credentials are lost.
+
+- **Account Creation**: New users are directed to `github.com/signup` to register, with a return path to the `firecrawl-docs` repository for editing.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-08T18:54:26.866111+05:30
+- Published: 2026-08-09T12:56:27.474939+05:30
 
 ## Related Tags
 
@@ -40,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/firecrawl/firecrawl-docs/edit/main/api-reference/introduction.mdx
+Original source: https://github.com/firecrawl/firecrawl-docs/edit/main/features/alpha/deep-research.mdx

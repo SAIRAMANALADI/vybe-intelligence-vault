@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-08-09T10:13:33.861203+05:30'
+collected_at: '2026-08-09T12:52:44.232580+05:30'
 published_at: '2026-08-07T17:04:40Z'
 tags:
-- benchmark
+- dataset
 - github-repo
-- meta-ai
-- models
+- hackernews
 - python
 - rag
 - workflows
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-08-09T10:13:33.861203+05:30'
-last_seen: '2026-08-09T10:13:33.861203+05:30'
-last_checked: '2026-08-09T10:13:33.861203+05:30'
+first_seen: '2026-08-09T12:52:44.232580+05:30'
+last_seen: '2026-08-09T12:52:44.232580+05:30'
+last_checked: '2026-08-09T12:52:44.232580+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose-built RAG Optimization**: Provides a Python-based toolkit to design and deploy production-grade Retrieval Augmented Generation (RAG) pipelines, emphasizing end-to-end optimization for data ingestion, retrieval, and generation workflows.
-
-- **Modular Architecture**: Implements a flexible framework with configurable components (e.g., embedders, retrievers, LLMs) to tailor RAG setups for specific use cases, supporting customization of indexing, chunking, and prompt engineering strategies.
-
-- **Scalability & Deployment**: Includes utilities for benchmarking, monitoring, and scaling RAG systems, with integrations for cloud-native deployment (e.g., Docker, Kubernetes) and compatibility with popular GenAI frameworks (e.g., LangChain, LlamaIndex).
+- **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for user-specific datasets.
+- **Key Features**: Supports end-to-end RAG workflows including data ingestion, embedding generation, vector storage, retrieval, and LLM integration with customizable configurations.
+- **Technical Stack**: Leverages Python with modular design for extensibility, targeting developer tools and GenAI applications with active community maintenance (last updated 2026-08-07).
 
 ## Why It Matters
 

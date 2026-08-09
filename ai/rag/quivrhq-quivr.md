@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-09T10:13:23.862624+05:30'
+collected_at: '2026-08-09T12:52:34.178812+05:30'
 published_at: '2026-08-09T04:31:09Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-09T10:13:23.862624+05:30'
-last_seen: '2026-08-09T10:13:23.862624+05:30'
-last_checked: '2026-08-09T10:13:23.862624+05:30'
+first_seen: '2026-08-09T12:52:34.178812+05:30'
+last_seen: '2026-08-09T12:52:34.178812+05:30'
+last_checked: '2026-08-09T12:52:34.178812+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while offering customization for LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss).
-
-- **Multi-Platform Compatibility**: Supports integration with any file type, LLM backend, or vector database, with Dockerized deployment and APIs for Python/TypeScript (React frontend), enabling cross-platform scalability and flexibility.
-
-- **Privacy & Security Focus**: Emphasizes data privacy and security, supporting PostgreSQL for structured storage and offering customizable access controls, while enabling local LLM deployment for enhanced control over sensitive data.
+*   Opinionated RAG framework designed for streamlined GenAI integration, abstracting underlying complexities for application developers.
+*   Provides broad LLM (e.g., GPT-4, Groq, Llama) and vector store (e.g., PGVector, Faiss) agnosticism, supporting diverse data ingestion.
+*   Facilitates rapid integration into existing products via a customizable API, leveraging Python, React/TypeScript, and PostgreSQL for its stack.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://collabnix.com/rag-retrieval-augmented-generation-the-complete-guide-to-building-intelligent-ai-systems-in-2025/
-published_at: '2026-08-04T03:50:39.732311+05:30'
-collected_at: '2026-08-04T03:50:39.732357+05:30'
+published_at: '2026-08-09T12:51:20.753542+05:30'
+collected_at: '2026-08-09T12:51:20.753555+05:30'
 tags:
 - agents
 - benchmark
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-complete-guide
-first_seen: '2026-08-04T03:50:39.732357+05:30'
-last_seen: '2026-08-04T03:50:39.732357+05:30'
-last_checked: '2026-08-04T03:50:39.732357+05:30'
+first_seen: '2026-08-09T12:51:20.753555+05:30'
+last_seen: '2026-08-09T12:51:20.753555+05:30'
+last_checked: '2026-08-09T12:51:20.753555+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines LLM generation with external knowledge retrieval via a document processing pipeline (chunking, OCR), vector database integration (Pinecone/Weaviate/FAISS), and a retrieval mechanism (semantic search) to dynamically augment responses with real-time, domain-specific data.
+- **RAG Architecture**: Combines LLM generation with external knowledge retrieval via a document processing pipeline, vector database integration (e.g., Pinecone, Weaviate), semantic retrieval mechanisms, and augmented generation components to mitigate hallucinations and outdated knowledge.
 
-- **RAG vs Fine-Tuning Trade-offs**: RAG excels for dynamic knowledge needs, large knowledge bases, and quick deployment, while fine-tuning is preferred for specific writing styles, behavior modification, or latency-sensitive applications; hybrid approaches often optimize both.
+- **Performance Optimization**: Requires strategic chunking (e.g., 1000-token segments with 20% overlap), embedding model selection (e.g., Sentence-BERT, E5), and vector database tuning (e.g., FAISS, HNSW indices) to balance latency, accuracy, and scalability.
 
-- **Core RAG Components**: Document processing (chunking/OCR), vector database storage (embeddings), retrieval (semantic search), and generation (LLM augmentation) form the pipeline, with performance dependent on chunking strategies, embedding models, and vector DB optimization.
+- **Implementation Trade-offs**: Prefers RAG for dynamic/large-scale knowledge needs (e.g., real-time updates) over fine-tuning, which excels in static, domain-specific tasks; hybrid approaches often optimize cost/performance for enterprise use cases.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T03:50:39.732311+05:30
+- Published: 2026-08-09T12:51:20.753542+05:30
 
 ## Related Tags
 

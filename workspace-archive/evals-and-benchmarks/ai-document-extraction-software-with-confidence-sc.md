@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Schema-driven extraction**: Enables iterative schema development with support for custom field definitions or auto-detection, optimizing granular control via configurable parsing modes for cost-accuracy trade-offs.
+- **Field-Level Confidence Scoring**: Provides granular confidence metrics for each extracted field, enabling precise quantification of extraction certainty and reliability.
 
-- **Context-aware parsing**: Leverages layout and reasoning-based models to accurately extract multi-field data (e.g., names, dates, decisions) from complex documents with nested tables and spatial layouts.
+- **Layout + Context-Aware Extraction**: Utilizes advanced reasoning to parse complex document structures (e.g., nested tables, spatial layouts) with superior accuracy compared to traditional OCR-based methods.
 
-- **Confidence scoring & traceability**: Provides field-level confidence
+- **Iterative Schema Development & Granular Control**: Supports custom schema definition or auto-detection of fie
 
 ## Use Cases
 

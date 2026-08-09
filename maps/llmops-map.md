@@ -14,7 +14,7 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 *   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
 *   [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study)
 *   [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
+*   [EverPass](https://help.upshow.tv/hc/en-us)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

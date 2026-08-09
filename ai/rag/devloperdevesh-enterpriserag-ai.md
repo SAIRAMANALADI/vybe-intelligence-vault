@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-09T10:13:29.011314+05:30'
+collected_at: '2026-08-09T12:52:39.228109+05:30'
 published_at: '2026-08-01T05:44:27Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-09T10:13:29.011314+05:30'
-last_seen: '2026-08-09T10:13:29.011314+05:30'
-last_checked: '2026-08-09T10:13:29.011314+05:30'
+first_seen: '2026-08-09T12:52:39.228109+05:30'
+last_seen: '2026-08-09T12:52:39.228109+05:30'
+last_checked: '2026-08-09T12:52:39.228109+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a Linux-native security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement, ensuring real-time security compliance.
+- **Linux-Native & eBPF-Powered**: Implements eBPF (extended Berkeley Packet Filter) for low-overhead, kernel-level monitoring and governance of AI agent workloads, ensuring security and compliance in Linux environments.
 
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript, integrating vector databases for scalable, high-performance AI agent orchestration in SaaS environments.
+- **Enterprise-Grade RAG Pipeline**: Integrates FastAPI backend with TypeScript, vector databases, and GenAI/LLM models to provide a scalable Retrieval-Augmented Generation (RAG) framework optimized for SaaS AI deployments.
 
-- **GenAI Governance & Observability**: Provides governance controls for generative AI workloads, combining LLM integration with SaaS-optimized monitoring to enforce security policies and audit agent interactions.
+- **Security & Governance Mesh**: Enables real-time policy enforcement, audit logging, and workload isolation for AI agents, leveraging vector DBs for contextual governance in multi-tenant environments.
 
 ## Why It Matters
 

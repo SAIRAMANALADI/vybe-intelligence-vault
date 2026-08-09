@@ -13,9 +13,9 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) (mcp-server - USEFUL Tier)
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
 - [Scite - YouTube](https://www.youtube.com/channel/UCso9-KdHZ6vfbYgM59zp9EA) (tutorial - USEFUL Tier)
 - [register](https://clients.iban.com/register) (tutorial - USEFUL Tier)
+- [- YouTube](https://www.youtube.com/watch?v=Yy3JH6dDugc) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,7 +23,6 @@ https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
 ## Best Learning Resources
 
@@ -41,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-08-09 10:28 IST*
+*Last updated: 2026-08-09 13:07 IST*

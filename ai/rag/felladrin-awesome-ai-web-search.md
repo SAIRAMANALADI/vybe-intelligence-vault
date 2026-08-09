@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-08-09T10:13:08.816209+05:30'
+collected_at: '2026-08-09T12:52:19.168191+05:30'
 published_at: '2026-08-09T02:59:49Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-08-09T02:59:45Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-08-09T10:13:08.816209+05:30'
-last_seen: '2026-08-09T10:13:08.816209+05:30'
-last_checked: '2026-08-09T10:13:08.816209+05:30'
+first_seen: '2026-08-09T12:52:19.168191+05:30'
+last_seen: '2026-08-09T12:52:19.168191+05:30'
+last_checked: '2026-08-09T12:52:19.168191+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated List**: Repository hosting a comprehensive, community-maintained list of AI-powered web search tools, frameworks, and applications, categorized under topics like generative AI, RAG, and metasearch.
-
-- **Technical Scope**: Encompasses tools leveraging LLMs, RAG pipelines, and inference optimizations for enhanced web-based Q&A, information retrieval, and AI-driven search workflows.
-
-- **Resources**: Includes links to Hugging Face Spaces demo (`hf.co/spaces/felladrin/awesome-ai-web-search`) and GitHub repository (`github.com/felladrin/awesome-ai-web-search`), with 1.4K+ stars and 121 forks as of last update (2026-08-09).
+- **Curated List**: Repository hosting a structured, community-maintained list of AI-powered web search tools leveraging generative AI, LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
+- **Technical Scope**: Focuses on projects integrating artificial intelligence for web search, including retrieval-augmented generation (RAG), LLM inference, and generative AI tools optimized for metasearch and Q&A workflows.
+- **Metadata**: 1.4K+ stars, 121 forks, last updated August 2026; primarily HTML-based with topics spanning AI search engines, generative AI projects, and information retrieval systems.
 
 ## Why It Matters
 

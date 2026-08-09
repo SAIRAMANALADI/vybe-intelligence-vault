@@ -2,7 +2,7 @@
 title: GitHub CLI | Take GitHub to the command line
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://cli.github.com/
+source_url: https://cli.github.com
 resource_id: blog:github-cli-take-github-to-the-command-line
 local_vault_path: ai/agents/github-cli-take-github-to-the-command-line.md
 quality_score: 70
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub CLI (`gh`)** provides a terminal-based interface for GitHub operations, enabling direct interaction with repositories, issues, pull requests, releases, and checks without leaving the command line.
-
-- **Cross-platform installation** is supported via package managers (`brew`, `winget`, `apt`, `dnf`, `zypper`) or direct binary downloads for macOS, Windows, and Linux.
-
-- **Key commands** include `gh issue list`, `gh pr status/checkout/create/checks`, `gh release create`, `gh repo view`, a
+- **GitHub CLI (`gh`)** integrates GitHub workflows into the terminal, enabling native CLI operations for issues, PRs, releases, and repository management via direct API interactions.
+- **Cross-platform installation** supports macOS (Homebrew/binary), Windows (WinGet/MSI), and Linux (apt/dnf/zypper/.deb/.rpm/.tar.gz) with version-specific package references (e.g., `gh_2.97.0`).
+- **Key commands** include `gh issue list`, `gh pr status/checkout/create`, `gh release create`, `gh repo view`, and al
 
 ## Use Cases
 
@@ -49,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://cli.github.com/
+Original source URL: https://cli.github.com
 
 ## Local Vault File
 

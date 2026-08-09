@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/claude-code-best-practice
-collected_at: '2026-08-09T10:14:33.888613+05:30'
-published_at: '2026-08-09T04:28:38Z'
+collected_at: '2026-08-09T12:53:44.235041+05:30'
+published_at: '2026-08-09T06:40:50Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - hackernews
 - html
 - workflows
-stars: 64181
+stars: 64186
 language: HTML
 status: active
 license: MIT
 archived: false
 created_at: '2025-10-31T14:15:28Z'
-pushed_at: '2026-08-09T04:28:30Z'
+pushed_at: '2026-08-09T06:40:39Z'
 resource_id: github:shanraisshan/claude-code-best-practice
-first_seen: '2026-08-09T10:14:33.888613+05:30'
-last_seen: '2026-08-09T10:14:33.888613+05:30'
-last_checked: '2026-08-09T10:14:33.888613+05:30'
+first_seen: '2026-08-09T12:53:44.235041+05:30'
+last_seen: '2026-08-09T12:53:44.235041+05:30'
+last_checked: '2026-08-09T12:53:44.235041+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Evolution**: Repository documents the transition from *vibe coding* to *agentic engineering* for optimizing Claude Code workflows, emphasizing structured practices over unstructured experimentation.
+- **Agentic Workflow Transition**: Repository documents the evolution from traditional "vibe coding" to structured agentic engineering practices for Claude Code, emphasizing systematic workflows over ad-hoc development.
 
-- **Technical Best Practices**: Provides curated guidelines for `claude-code` commands, context engineering, and agentic workflows, including skill optimization and command structuring for efficiency.
+- **Technical Best Practices**: Curates command patterns, skills optimization, and context engineering techniques to enhance Claude Code agent performance, including Anthropic-compatible workflows.
 
-- **Community & Scalability**: Highlights contributions from Pakistani developers, showcases 64K+ stars, and serves as a centralized resource for `claude-code` best practices, tools, and agentic engineering methodologies.
+- **Community-Driven Resource**: Open-source repository with 64K+ stars, serving as a centralized hub for Pakistani developers and global contributors to share and refine Claude Code best practices.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: shanraisshan
-- Stars: 64181
-- Forks: 6378
+- Stars: 64186
+- Forks: 6380
 - Language: HTML
 - Topics: agentic-ai, agentic-coding, agentic-engineering, agentic-workflow, ai, ai-agents, anthropic, best-practices, boris, claude, claude-ai, claude-code, claude-code-agents, claude-code-best-practices, claude-code-commands, claude-code-skills, context-engineering, pakistan, pakistani-developer, vibe-coding
-- Last Updated: 2026-08-09T04:28:38Z
+- Last Updated: 2026-08-09T06:40:50Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-31T14:15:28Z
-- Pushed At: 2026-08-09T04:28:30Z
+- Pushed At: 2026-08-09T06:40:39Z
 
 ## Possible Use Cases
 

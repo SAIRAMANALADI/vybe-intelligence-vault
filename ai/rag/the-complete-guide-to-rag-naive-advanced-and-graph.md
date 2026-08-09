@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-08-09T10:12:05.675052+05:30'
-collected_at: '2026-08-09T10:12:05.675062+05:30'
+published_at: '2026-08-09T12:51:16.763829+05:30'
+collected_at: '2026-08-09T12:51:16.763841+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-08-09T10:12:05.675062+05:30'
-last_seen: '2026-08-09T10:12:05.675062+05:30'
-last_checked: '2026-08-09T10:12:05.675062+05:30'
+first_seen: '2026-08-09T12:51:16.763841+05:30'
+last_seen: '2026-08-09T12:51:16.763841+05:30'
+last_checked: '2026-08-09T12:51:16.763841+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Evolution**: RAG systems progress from *Naive* (basic retrieval + generation) to *Advanced* (hybrid retrieval, reranking, query rewriting) to *Graph RAG* (entity-relation graph traversal for multi-hop reasoning), addressing limitations in accuracy, freshness, and hallucination mitigation.
+- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid search, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
 
-- **Core RAG Architecture**: Standard RAG pipelines involve *chunking* documents, embedding via models (e.g., `BAAI/bge-m3`), similarity search (ANN/HNSW), and LLM generation constrained by retrieved context, with modular enhancements like HyDE, MMR, and cross-encoder reranking.
+- **Core RAG Pipeline**: User query → retrieval (top-K relevant docs via vector/sparse search) → augmentation (context injection) → LLM generation (grounded answer with citations), with modular variants enabling routing, looping, and tool integration.
 
-- **Graph RAG Mechanics**: Graph-based RAG extracts *(entity, relation)* triples from documents, storing them in graph DBs (e.g., NetworkX, Neo4j) to enable multi-hop reasoning via graph traversal, contrasting with traditional chunk-based retrieval for relational knowledge domains.
+- **Technical Components**: Embeddings (e.g., `BAAI/bge-m3`), vector DBs (Chroma, Pinecone), rerankers (cross-encoders), and ANN algorithms (HNSW) underpin retrieval; Graph RAG leverages entity extraction and graph traversal for relational reasoning.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T10:12:05.675052+05:30
+- Published: 2026-08-09T12:51:16.763829+05:30
 
 ## Related Tags
 

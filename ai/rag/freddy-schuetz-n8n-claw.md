@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-09T10:15:23.954327+05:30'
+collected_at: '2026-08-09T12:54:34.246850+05:30'
 published_at: '2026-08-08T04:28:08Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-06T12:31:03Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-09T10:15:23.954327+05:30'
-last_seen: '2026-08-09T10:15:23.954327+05:30'
-last_checked: '2026-08-09T10:15:23.954327+05:30'
+first_seen: '2026-08-09T12:54:34.246850+05:30'
+last_seen: '2026-08-09T12:54:34.246850+05:30'
+last_checked: '2026-08-09T12:54:34.246850+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive Retrieval-Augmented Generation (RAG) for dynamic memory management and self-hosted deployment via a single setup script.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP (Model Context Protocol) for Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Core Features**: Supports Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, and media understanding capabilities; integrates with Supabase for storage and SearXNG for search functionality.
+- **Capabilities**: Features proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates tools like Crawl4AI for scraping, SearXNG for search, and Supabase for data persistence.
 
-- **Technical Stack**: Primarily Shell-based, with dependencies on n8n, Crawl4AI for scraping, and MCP for modular agent interactions; designed for extensibility and modularity in AI agent orchestration.
+- **Technical Stack**: Shell-based repository with dependencies on n8n, MCP, Supabase, Crawl4AI, and SearXNG; supports AI agent orchestration, skill templating, and modular agent delegation for scalable autonomous workflows.
 
 ## Why It Matters
 

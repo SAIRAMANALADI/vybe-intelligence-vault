@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-08-09T10:15:48.986183+05:30'
+collected_at: '2026-08-09T12:54:59.291331+05:30'
 published_at: '2026-07-23T22:24:29Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 554
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-08-09T10:15:48.986183+05:30'
-last_seen: '2026-08-09T10:15:48.986183+05:30'
-last_checked: '2026-08-09T10:15:48.986183+05:30'
+first_seen: '2026-08-09T12:54:59.291331+05:30'
+last_seen: '2026-08-09T12:54:59.291331+05:30'
+last_checked: '2026-08-09T12:54:59.291331+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates **FastAPI** backend with **LangGraph** for agentic orchestration, **MCP** for model control protocol, and **SQLModel** for database interactions, enabling modular agent workflows.
-
-- **Observability & Scalability**: Pre-configured with **Prometheus** (metrics), **Grafana** (dashboards), **Langfuse** (tracing), and **Nginx** (load balancing) for production-grade monitoring and horizontal scaling.
-
-- **Data & Deployment**: Uses **Supabase** for PostgreSQL-based auth/storage, **Docker**-compatible for containerization, and includes CI/CD-ready structures for rapid iteration and scalable cloud deployment.
+- **Architecture**: Template integrates FastAPI, MCP (Model Context Protocol), and LangGraph for agentic orchestration with modular, scalable design.
+- **Observability & Storage**: Includes Prometheus/Grafana for monitoring, Langfuse for tracing, and Supabase/SQLModel for data persistence.
+- **Deployment**: Pre-configured with Nginx for reverse proxy and supports CI/CD-ready structures for rapid iteration and production deployment.
 
 ## Why It Matters
 

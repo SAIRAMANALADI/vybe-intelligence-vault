@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-09T10:11:58.920800+05:30'
+collected_at: '2026-08-09T12:51:09.170428+05:30'
 published_at: '2026-08-06T20:35:40Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-09T10:11:58.920800+05:30'
-last_seen: '2026-08-09T10:11:58.920800+05:30'
-last_checked: '2026-08-09T10:11:58.920800+05:30'
+first_seen: '2026-08-09T12:51:09.170428+05:30'
+last_seen: '2026-08-09T12:51:09.170428+05:30'
+last_checked: '2026-08-09T12:51:09.170428+05:30'
 health_score: 100
 ---
 
@@ -32,10 +32,8 @@ health_score: 100
 ## Summary
 
 - **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by identifying and quantifying hallucinations in generated outputs.
-
-- **Technical Composition**: Contains Python-based tools for generating, annotating, and benchmarking hallucinations in RAG systems, leveraging synthetic and real-world data to simulate retrieval errors and model confabulations.
-
-- **Evaluation Framework**: Provides metrics and methodologies for assessing hallucination rates, enabling developers to fine-tune RAG pipelines for factual consistency and reliability in downstream tasks.
+- **Technical Scope**: Provides a Python-based framework for generating, annotating, and benchmarking hallucination datasets, enabling systematic analysis of RAG model reliability.
+- **Repository Details**: Last updated in August 2026, with 260 stars and 35 forks, hosted on GitHub under the MIT License.
 
 ## Why It Matters
 

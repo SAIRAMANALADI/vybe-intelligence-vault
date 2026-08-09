@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-09T10:12:28.849017+05:30'
+collected_at: '2026-08-09T12:51:39.162664+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
 - rag
-- workflows
 stars: 44
 language: Bicep
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-09T10:12:28.849017+05:30'
-last_seen: '2026-08-09T10:12:28.849017+05:30'
-last_checked: '2026-08-09T10:12:28.849017+05:30'
+first_seen: '2026-08-09T12:51:39.162664+05:30'
+last_seen: '2026-08-09T12:51:39.162664+05:30'
+last_checked: '2026-08-09T12:51:39.162664+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Uses Bicep for deploying Azure resources required for a Generative AI Operations (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline, enabling reproducible and scalable cloud deployments.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for Generative AI Ops with Retrieval-Augmented Generation (RAG) workloads, enabling automated Azure resource provisioning.
 
-- **RAG Pipeline Integration**: Provides a structured template for implementing RAG workflows, including components for document retrieval, vector databases, and LLM inference orchestration within Azure.
+- **Modular Design**: Organized into reusable Bicep modules for core components (e.g., compute, storage, networking) to streamline GenAI pipeline deployment.
 
-- **CI/CD & Ops Readiness**: Designed for GenAIOps practices, supporting MLOps/CI-CD pipelines for continuous deployment, monitoring, and lifecycle management of AI-driven applications.
+- **GitHub Integration**: Designed for CI/CD pipelines with last update timestamp (2026-05-21) indicating active maintenance for evolving Azure GenAI services.
 
 ## Why It Matters
 

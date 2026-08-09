@@ -20,75 +20,75 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 536 resources matched in the intelligence vault.
 Recently detected signals:
-- [LlamaIndex | AI Agents for Document OCR + Workflows](../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md) (Source: Unknown Source) - Collected 2026-08-09
-- [run-llama/llama-parse-go](../ai/resources/run-llama-llama-parse-go.md) (Source: Unknown Source) - Collected 2026-08-09
-- [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) (Source: Unknown Source) - Collected 2026-08-09
+- [HKUDS/UrbanGPT](../ai/rag/hkuds-urbangpt.md) (Source: Unknown Source) - Collected 2026-08-09
 - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-08-09
-- [langchain-ai/langchain](../ai/rag/langchain-ai-langchain.md) (Source: Unknown Source) - Collected 2026-08-09
+- [Deep Research | Firecrawl](../ai/agents/deep-research-firecrawl.md) (Source: Unknown Source) - Collected 2026-08-09
+- [Firecrawl - The context API to search, scrape, and interact with the web at scale.](../ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md) (Source: Unknown Source) - Collected 2026-08-09
+- [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) (Source: Unknown Source) - Collected 2026-08-09
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
+### 1. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
-- Description: - **Trilingual Learning Roadmap**: Curates 240+ resources spanning LLM fundamentals to multi-agent systems, available in Traditional Chinese, Simplified Chinese, and English.
+- Description: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployme...
 
-### 2. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+### 2. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path from zero to enterprise deployment with f...
+- Description: - **Comprehensive trilingual learning roadmap** covering agentic AI from LLM fundamentals to multi-agent systems, featuring **240+ curated resources** and **hands-on examples** in Python.
 
-### 3. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK in a Next.js application, combining vector search with LLM inference for contextual respon...
-
-### 4. [langchain-ai/langchain](../ai/rag/langchain-ai-langchain.md) ([GitHub](https://github.com/langchain-ai/langchain))
-- Stars: 0
-- Language: Unknown
-- Description: - **Framework**: Open-source Python library (`langchain`) for building AI agents, supporting LLMs (OpenAI, Anthropic, Gemini), multi-agent systems, and enterprise-grade workflows.
-
-### 5. [`langchain-google-genai` 4.0.0 Released! (Consolidated SDK, Vertex deprecations, and more) · langchain-ai/langchain-goog](../ai/rag/langchain-ai-langchain-google.md) ([GitHub](https://github.com/langchain-ai/langchain-google))
+### 3. [`langchain-google-genai` 4.0.0 Released! (Consolidated SDK, Vertex deprecations, and more) · langchain-ai/langchain-goog](../ai/rag/langchain-ai-langchain-google.md) ([GitHub](https://github.com/langchain-ai/langchain-google))
 - Stars: 0
 - Language: Unknown
 - Description: - **SDK Consolidation**: Migration from `langchain-google-genai` to unified [`google-genai`](https://googleapis.github.io/python-genai/) SDK, deprecating legacy `google-ai-generativelanguage` and o...
 
-### 6. [langfuse/langfuse](../ai/agents/langfuse-langfuse.md) ([GitHub](https://github.com/langfuse/langfuse))
+### 4. [langfuse/langfuse](../ai/agents/langfuse-langfuse.md) ([GitHub](https://github.com/langfuse/langfuse))
 - Stars: 0
 - Language: Unknown
 - Description: - **Platform Capabilities**: Open-source AI engineering platform for LLM evaluation, observability, metrics, prompt management, and interactive playgrounds, with dataset support.
 
-### 7. [mvanhorn/clawdbot-skill-manus](../ai/agents/mvanhorn-clawdbot-skill-manus.md) ([GitHub](https://github.com/mvanhorn/clawdbot-skill-manus))
+### 5. [mvanhorn/clawdbot-skill-manus](../ai/agents/mvanhorn-clawdbot-skill-manus.md) ([GitHub](https://github.com/mvanhorn/clawdbot-skill-manus))
 - Stars: 0
 - Language: Unknown
 - Description: - **Task Automation Framework**: Shell-based OpenClaw skill enabling delegation of complex tasks (web research, report generation, code building, data scraping) to Manus AI via predefined task temp...
 
-### 8. [KruxAI/ragbuilder](../ai/rag/kruxai-ragbuilder.md) ([GitHub](https://github.com/kruxai/ragbuilder))
+### 6. [chaoql/rag-best-practices](../ai/rag/chaoql-rag-best-practices.md) ([GitHub](https://github.com/chaoql/rag-best-practices))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose-built RAG Optimization**: Provides a Python-based toolkit to design and deploy production-grade Retrieval Augmented Generation (RAG) pipelines, emphasizing end-to-end optimization for d...
+- Description: - **Repository Overview**: Open-source Python repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last upd...
 
-### 9. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
+### 7. [gabrielchua/RAGxplorer](../ai/rag/gabrielchua-ragxplorer.md) ([GitHub](https://github.com/gabrielchua/ragxplorer))
 - Stars: 0
 - Language: Unknown
-- Description: - **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding assistants, emphasizing multi-agent collabor...
+- Description: - **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and analyzing Retrieval-Augmented Generation (RAG) pipelines, enabling intera...
 
-### 10. [HKUNLP/instructor-embedding](../ai/rag/hkunlp-instructor-embedding.md) ([GitHub](https://github.com/hkunlp/instructor-embedding))
+### 8. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
+- Stars: 0
+- Language: Unknown
+- Description: - **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows.
+
+### 9. [HKUNLP/instructor-embedding](../ai/rag/hkunlp-instructor-embedding.md) ([GitHub](https://github.com/hkunlp/instructor-embedding))
 - Stars: 0
 - Language: Unknown
 - Description: - Introduces **Instructor**, a text embedding model fine-tuned with instructions to generalize across diverse tasks (e.g., classification, retrieval, clustering) without task-specific retraining.
 
-### 11. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
+### 10. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
 - Stars: 0
 - Language: Unknown
 - Description: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
 
-### 12. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([GitHub](https://github.com/code-and-sorts/awesome-copilot-agents))
+### 11. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Resource**: GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) providing structured GitHub Copilot AI enhancements, including instructions, prompts, skills, MCPs, and agent mar...
+- Description: - **AI SDK for TypeScript**: Open-source library by Vercel for building AI-powered apps and agents, supporting models like Anthropic, Gemini, OpenAI, and LLMs with TypeScript-first design.
+
+### 12. [HKUDS/UrbanGPT](../ai/rag/hkuds-urbangpt.md) ([GitHub](https://github.com/hkuds/urbangpt))
+- Stars: 0
+- Language: Unknown
+- Description: - Introduces **UrbanGPT**, a spatio-temporal Large Language Model (LLM) for urban computing tasks, leveraging instruction-tuning on pre-trained models to handle complex urban data patterns.
 
 ### 13. [bigscience-workshop/promptsource](../ai/resources/bigscience-workshop-promptsource.md) ([GitHub](https://github.com/bigscience-workshop/promptsource))
 - Stars: 0
@@ -108,7 +108,7 @@ Recently detected signals:
 ### 16. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Resources**: Repository aggregates community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI integ...
+- Description: - **Curated Resources**: GitHub repository aggregating community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage.
 
 ### 17. [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md) ([GitHub](https://github.com/stanfordnlp/dspy))
 - Stars: 0
@@ -160,4 +160,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-08-09T10:27:04.660460+05:30.374294+05:30.656753+05:30.847068+05:30.542578+05:30.517188+05:30.247423+05:30.252786+05:30.388649+05:30.392342+05:30.467900+05:30.521605+05:30.353195+05:30.688590+05:30.168607+05:30.544112+05:30.106060+05:30.614591+05:30.958525+05:30.577646+05:30.020635+05:30.690886+05:30.014309+05:30.199049+05:30.494771+05:30.144751+05:30.044447+05:30.154726+05:30.800675+05:30.434809+05:30.170068+05:30.426107+05:30.219667+05:30.018941+05:30.018241+05:30.882771+05:30.792476+05:30.902567+05:30.257052+05:30.321166+05:30.884057+05:30.539117+05:30.993417+05:30.164563+05:30.255542+05:30.485249+05:30.540217+05:30.856039+05:30.488261+05:30.946179+05:30.991584+05:30.561159+05:30.304297+05:30.554104+05:30.766955+05:30.259603+05:30.535965+05:30.862617+05:30.965895+05:30.537710+05:30.737989+05:30.293638+05:30.316697+05:30.256191+05:30.655013+05:30.522699+05:30.069042+05:30.655951+05:30.127347+05:30.457240+05:30.351426+05:30.989356+05:30.346883+05:30.768330+05:30.972354+05:30.443745+05:30.928648+05:30.570021+05:30.074470+05:30.718812+05:30.784310+05:30.053521+05:30.839194+05:30.785791+05:30.431282+05:30.900403+05:30.321102+05:30.741735+05:30.830398+05:30.420902+05:30.520185+05:30.099407+05:30.241381+05:30.787705+05:30.531596+05:30.441738+05:30.293456+05:30.509769+05:30.054209+05:30.271288+05:30.926998+05:30.294234+05:30.970094+05:30.533943+05:30.771466+05:30.797579+05:30.579488+05:30.244825+05:30.395678+05:30.571425+05:30.587288+05:30.146322+05:30.309609+05:30.196830+05:30.695248+05:30.446523+05:30.671659+05:30.006993+05:30.397725+05:30.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-08-09T13:06:15.231983+05:30.660460+05:30.374294+05:30.656753+05:30.847068+05:30.542578+05:30.517188+05:30.247423+05:30.252786+05:30.388649+05:30.392342+05:30.467900+05:30.521605+05:30.353195+05:30.688590+05:30.168607+05:30.544112+05:30.106060+05:30.614591+05:30.958525+05:30.577646+05:30.020635+05:30.690886+05:30.014309+05:30.199049+05:30.494771+05:30.144751+05:30.044447+05:30.154726+05:30.800675+05:30.434809+05:30.170068+05:30.426107+05:30.219667+05:30.018941+05:30.018241+05:30.882771+05:30.792476+05:30.902567+05:30.257052+05:30.321166+05:30.884057+05:30.539117+05:30.993417+05:30.164563+05:30.255542+05:30.485249+05:30.540217+05:30.856039+05:30.488261+05:30.946179+05:30.991584+05:30.561159+05:30.304297+05:30.554104+05:30.766955+05:30.259603+05:30.535965+05:30.862617+05:30.965895+05:30.537710+05:30.737989+05:30.293638+05:30.316697+05:30.256191+05:30.655013+05:30.522699+05:30.069042+05:30.655951+05:30.127347+05:30.457240+05:30.351426+05:30.989356+05:30.346883+05:30.768330+05:30.972354+05:30.443745+05:30.928648+05:30.570021+05:30.074470+05:30.718812+05:30.784310+05:30.053521+05:30.839194+05:30.785791+05:30.431282+05:30.900403+05:30.321102+05:30.741735+05:30.830398+05:30.420902+05:30.520185+05:30.099407+05:30.241381+05:30.787705+05:30.531596+05:30.441738+05:30.293456+05:30.509769+05:30.054209+05:30.271288+05:30.926998+05:30.294234+05:30.970094+05:30.533943+05:30.771466+05:30.797579+05:30.579488+05:30.244825+05:30.395678+05:30.571425+05:30.587288+05:30.146322+05:30.309609+05:30.196830+05:30.695248+05:30.446523+05:30.671659+05:30.006993+05:30.397725+05:30.895171+05:30.442877+05:30.058410+05:30.599921+05:30.978407+05:30.741321+05:30.852913+05:30.727510+05:30.954461+05:30.856247+05:30.640771+05:30.674145+05:30.286656+05:30.198622+05:30.334265+05:30.606069+05:30.969440+05:30.888730+05:30.300450+05:30.432366+05:30.541189+05:30.363472+05:30.159452+05:30.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

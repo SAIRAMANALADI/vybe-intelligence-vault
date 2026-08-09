@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-08-09T10:12:13.835357+05:30'
-published_at: '2026-08-09T01:17:26Z'
+collected_at: '2026-08-09T12:51:24.146182+05:30'
+published_at: '2026-08-09T07:03:58Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,8 @@ tags:
 - models
 - openai
 - rag
-stars: 28991
+- workflows
+stars: 28993
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -23,9 +24,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-07-31T21:07:02Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-08-09T10:12:13.835357+05:30'
-last_seen: '2026-08-09T10:12:13.835357+05:30'
-last_checked: '2026-08-09T10:12:13.835357+05:30'
+first_seen: '2026-08-09T12:51:24.146182+05:30'
+last_seen: '2026-08-09T12:51:24.146182+05:30'
+last_checked: '2026-08-09T12:51:24.146182+05:30'
 health_score: 100
 ---
 
@@ -33,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, and vector databases.
-- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and Python for LLM-based retrieval-augmented generation.
-- **Metrics**: 28,991 stars, 3,530 forks; last updated August 9, 2026.
+- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
+- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and Python for LLM-based retrieval-augmented generation workflows.
+- **Metrics**: 28.9K stars, 3.5K forks, last updated Aug 2026, with topics spanning generative AI, NLP, and machine learning.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 28991
+- Stars: 28993
 - Forks: 3530
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-08-09T01:17:26Z
+- Last Updated: 2026-08-09T07:03:58Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z

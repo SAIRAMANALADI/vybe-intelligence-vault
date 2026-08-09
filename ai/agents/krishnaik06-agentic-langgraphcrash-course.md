@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/Agentic-LanggraphCrash-course
-collected_at: '2026-08-09T10:16:04.011913+05:30'
+collected_at: '2026-08-09T12:55:14.271471+05:30'
 published_at: '2026-08-08T13:58:52Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
-- workflows
 stars: 191
 language: Jupyter Notebook
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-18T17:08:17Z'
 pushed_at: '2025-08-02T11:48:08Z'
 resource_id: github:krishnaik06/agentic-langgraphcrash-course
-first_seen: '2026-08-09T10:16:04.011913+05:30'
-last_seen: '2026-08-09T10:16:04.011913+05:30'
-last_checked: '2026-08-09T10:16:04.011913+05:30'
+first_seen: '2026-08-09T12:55:14.271471+05:30'
+last_seen: '2026-08-09T12:55:14.271471+05:30'
+last_checked: '2026-08-09T12:55:14.271471+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on an "Agentic-LanggraphCrash-course," containing Jupyter Notebooks for hands-on learning.
-- **Activity Metrics**: 191 stars, 185 forks, last updated on August 8, 2026.
-- **Technical Stack**: Utilizes LangGraph (likely for agentic workflows) within a Jupyter Notebook environment.
+*   Focuses on agentic system development utilizing the Langgraph framework.
+*   Structured as a crash course, implying practical, tutorial-based content.
+*   Implemented entirely within Jupyter Notebooks, indicating interactive, code-centric learning modules.
 
 ## Why It Matters
 

@@ -3,7 +3,7 @@ title: Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electr
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://electronjs.org/
-resource_id: blog:build-cross-platform-desktop-apps-with-javascript
+resource_id: blog:build-cross-platform-desktop-apps-with-javascript-fb7f29ef
 local_vault_path: ai/rag/build-cross-platform-desktop-apps-with-javascript.md
 quality_score: 70
 archive_score: 72

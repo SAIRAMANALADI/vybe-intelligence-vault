@@ -3,9 +3,9 @@ title: Google Terms of Service – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://accounts.google.com/TOS?loc=US&hl=en-US
-published_at: '2026-08-08T12:55:24.481161+05:30'
-collected_at: '2026-08-08T12:55:24.481173+05:30'
+source_url: https://myaccount.google.com/termsofservice?hl=en-US
+published_at: '2026-08-09T12:59:26.140000+05:30'
+collected_at: '2026-08-09T12:59:26.140015+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-08-08T12:55:24.481173+05:30'
-last_seen: '2026-08-08T12:55:24.481173+05:30'
-last_checked: '2026-08-08T12:55:24.481173+05:30'
+first_seen: '2026-08-09T12:59:26.140015+05:30'
+last_seen: '2026-08-09T12:59:26.140015+05:30'
+last_checked: '2026-08-09T12:59:26.140015+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, US laws) provides services under a contractual agreement where users must comply with [Terms of Service](https://accounts.google.com/terms?gl=US&hl=en-US) and [Privacy Policy](https://accounts.google.com/privacy?gl=US&hl=en-US), with age requirements enforced for Google Accounts and service-specific policies.
+- **Legal Entity & Jurisdiction**: Google services are provided by Google LLC, a Delaware-registered entity operating under U.S. laws, headquartered at 1600 Amphitheatre Parkway, Mountain View, CA 94043.
 
-- **Service Usage & Modifications**: Users are granted access to Google services (e.g., Search, Maps, Pixel devices) under strict compliance with terms, including prohibitions on abuse (e.g., malware, phishing, reverse engineering) and automated scraping (e.g., violating `robots.txt`). Google reserves rights to modify/terminate services with advance notice (except for urgent legal/security issues) and provides export tools (e.g., Google Takeout).
+- **Service Provision & Updates**: Google grants access to services (e.g., Search, Maps, Pixel devices) under these terms, with continuous improvements via AI/ML (e.g., spam detection, translations) and automatic software updates, subject to material change notifications and user export rights via Google Takeout.
 
-- **Content & Intellectual Property**: Users retain rights to their content but grant Google a license to host, process, and improve services (including AI/ML-driven features). Prohibited actions include generating AI content to train competing models, misrepresenting AI-generated output as human-created, and violating others' IP/privacy rights. Google’s [Generative AI Prohibited Use Policy](https://accounts.google.com/terms/generative-ai/use-policy?gl=US&hl=en-US) further restricts misuse.
+- **User Obligations & Restrictions**: Users must comply with terms, service-specific policies (e.g., age requirements, Generative AI Prohibited Use Policy), and prohibitions against abuse (e.g., malware, reverse engineering, automated scraping, AI-generated content misuse), while respecting intellectual property and privacy rights.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T12:55:24.481161+05:30
+- Published: 2026-08-09T12:59:26.140000+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://accounts.google.com/TOS?loc=US&hl=en-US
+Original source: https://myaccount.google.com/termsofservice?hl=en-US

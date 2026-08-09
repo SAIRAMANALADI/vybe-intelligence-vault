@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-09T10:15:23.952477+05:30'
+collected_at: '2026-08-09T12:54:34.248928+05:30'
 published_at: '2026-08-08T16:49:49Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- scripts
 stars: 26772
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-08-03T21:08:08Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-09T10:15:23.952477+05:30'
-last_seen: '2026-08-09T10:15:23.952477+05:30'
-last_checked: '2026-08-09T10:15:23.952477+05:30'
+first_seen: '2026-08-09T12:54:34.248928+05:30'
+last_seen: '2026-08-09T12:54:34.248928+05:30'
+last_checked: '2026-08-09T12:54:34.248928+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Fully Local AI Agent**: Implements an autonomous agent (`agenticSeek`) using Python with no external APIs or cloud dependencies, relying solely on local compute for inference and execution.
-- **DeepSeek-R1 Integration**: Leverages the DeepSeek-R1 model for reasoning, browsing, and code generation tasks, enabling agentic behavior without recurring costs.
-- **Multi-Modal Capabilities**: Supports voice assistant functionality and web browsing via LLM-driven agents, with all processing handled locally (cost: electricity only).
+- **Fully Local AI Agent**: Implements an autonomous agent (Manus AI) running entirely locally with no external APIs or cloud dependencies, eliminating subscription costs (e.g., $200/month) and relying solely on local compute resources.
+- **Multi-Modal Capabilities**: Supports autonomous web browsing, code execution, and voice assistant functionality via a Python-based framework, leveraging local LLM inference (e.g., DeepSeek-R1) for reasoning and task automation.
+- **Open-Source & Cost-Effective**: Released under an open-source license (Python), with 26.7k+ stars and 3k+ forks, enabling community-driven development and deployment on consumer-grade hardware.
 
 ## Why It Matters
 

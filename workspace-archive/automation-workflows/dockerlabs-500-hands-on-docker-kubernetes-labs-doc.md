@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Docker 101 & Inner Loop**: Covers container fundamentals, `docker init`, Compose Watch, and a Product Catalog app for development, testing, and security workflows.
+- **Docker 101 & Inner Loop**: Covers container fundamentals, `docker init`, Compose Watch, and a Product Catalog app for development, testing, building, and securing containerized applications.
 
-- **Docker & AI Agents**: Demonstrates building AI agents using Docker Agent, Model Runner, MCP Catalog, Agentic Compose, and multi-agent systems.
+- **Docker & AI Agents**: Focuses on building AI agents using Docker Agent, Model Runner, MCP Catalog, Agentic Compose, and multi-agent systems for agentic workflows.
 
-- **Supply Chain Security**: Focuses on hardening containers via Docker Scout scans, adopting Docker Hardened Images with `dhictl`, and enforcing security policies.
+- **Supply Chain Security**: Addresses container hardening, vulnerability scanning with Docker Scout, and adoption of Docker Hardened Im
 
 ## Use Cases
 

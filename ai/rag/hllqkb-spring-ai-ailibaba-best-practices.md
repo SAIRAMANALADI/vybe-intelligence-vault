@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-09T10:12:58.795414+05:30'
+collected_at: '2026-08-09T12:52:09.131546+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - java
 - rag
+- scripts
 - workflows
 stars: 36
 language: Java
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-09T10:12:58.795414+05:30'
-last_seen: '2026-08-09T10:12:58.795414+05:30'
-last_checked: '2026-08-09T10:12:58.795414+05:30'
+first_seen: '2026-08-09T12:52:09.131546+05:30'
+last_seen: '2026-08-09T12:52:09.131546+05:30'
+last_checked: '2026-08-09T12:52:09.131546+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Spring AI integration with Alibaba Cloud services, covering SSE streaming, Agent-based workflows, and RAG pipelines with knowledge graphs.
-- **Features**: Supports function calling, historical message handling, image generation/understanding, embedding models, and vector database operations (e.g., Chroma, Milvus).
-- **Technical Stack**: Java-based, leverages Spring AI, Alibaba Cloud SDKs, and vector DB clients for end-to-end AI workflows.
+- **Implementation of RAG with Knowledge Graph Integration**: Demonstrates Retrieval-Augmented Generation (RAG) using a knowledge graph for structured data retrieval, combined with embedding-based vector search for hybrid query resolution in Java.
+
+- **Agentic Workflows with Function Calling**: Features AI agent architectures leveraging Spring AI and Alibaba Cloud services, enabling dynamic function calls, tool integration, and multi-step reasoning for complex task automation.
+
+- **Multimodal and Streaming Capabilities**: Supports Server-Sent Events (SSE) for real-time streaming responses, image generation/understanding via AI models, and persistent conversation history with vector database-backed message storage.
 
 ## Why It Matters
 

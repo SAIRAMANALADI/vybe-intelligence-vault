@@ -3,7 +3,7 @@ title: Transparency Center - Google Product Policies and Policy Areas
 archive_category: rag-systems
 source_category: ai/rag
 source_url: https://transparency.google/?hl=en_US
-resource_id: blog:transparency-center-google-product-policies-and-po
+resource_id: blog:transparency-center-google-product-policies-and-po-658b927c
 local_vault_path: ai/rag/transparency-center-google-product-policies-and-po.md
 quality_score: 70
 archive_score: 72

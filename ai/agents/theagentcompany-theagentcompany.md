@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TheAgentCompany/TheAgentCompany
-collected_at: '2026-08-09T10:14:58.962520+05:30'
+collected_at: '2026-08-09T12:54:09.261978+05:30'
 published_at: '2026-08-06T02:09:51Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-11T09:08:11Z'
 pushed_at: '2025-11-17T20:31:16Z'
 resource_id: github:theagentcompany/theagentcompany
-first_seen: '2026-08-09T10:14:58.962520+05:30'
-last_seen: '2026-08-09T10:14:58.962520+05:30'
-last_checked: '2026-08-09T10:14:58.962520+05:30'
+first_seen: '2026-08-09T12:54:09.261978+05:30'
+last_seen: '2026-08-09T12:54:09.261978+05:30'
+last_checked: '2026-08-09T12:54:09.261978+05:30'
 health_score: 100
 ---
 
@@ -32,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Benchmark Framework**: Simulated software company environment for evaluating AI agents on complex, multi-step tasks.
-- **Technical Stack**: Python-based implementation with focus on agent orchestration, task decomposition, and performance metrics.
-- **Research Utility**: Designed for LLM benchmarking, AI agent evaluation, and comparative analysis of agentic workflows.
+- **Technical Stack**: Python-based implementation with focus on agent orchestration, task decomposition, and real-world software workflows.
+- **Evaluation Metrics**: Designed to assess agent performance in software engineering tasks, including debugging, feature implementation, and collaboration.
 
 ## Why It Matters
 

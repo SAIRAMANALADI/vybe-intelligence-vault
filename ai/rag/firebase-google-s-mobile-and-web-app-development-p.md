@@ -3,22 +3,22 @@ title: Firebase | Google's Mobile and Web App Development Platform
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://firebase.google.com/
-published_at: '2026-08-09T10:21:22.866213+05:30'
-collected_at: '2026-08-09T10:21:22.866220+05:30'
+source_url: https://firebase.google.com
+published_at: '2026-08-09T12:59:53.396132+05:30'
+collected_at: '2026-08-09T12:59:53.396147+05:30'
 tags:
 - agents
 - hackernews
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
-first_seen: '2026-08-09T10:21:22.866220+05:30'
-last_seen: '2026-08-09T10:21:22.866220+05:30'
-last_checked: '2026-08-09T10:21:22.866220+05:30'
+first_seen: '2026-08-09T12:59:53.396147+05:30'
+last_seen: '2026-08-09T12:59:53.396147+05:30'
+last_checked: '2026-08-09T12:59:53.396147+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- Firebase is a unified backend-as-a-service (BaaS) platform from Google, providing managed infrastructure (e.g., App Hosting, Firestore, Cloud Functions) for scalable, AI-powered app development across iOS, Android, Web, and cross-platform frameworks like Flutter.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
 
-- Key product categories include **Build** (e.g., Authentication, AI Logic, SQL Connect), **Run** (e.g., Crashlytics, Remote Config, App Distribution), and **Generative AI** (e.g., Agent Skills, Firebase AI Logic) with pre-packaged Extensions for automation (e.g., BigQuery exports, Stripe payments).
+- **AI/ML Integration**: Offers Firebase AI Logic and Agent Skills for integrating generative AI (e.g., Google’s Gemini) into apps, alongside pre-built extensions (e.g., Stripe payments, Algolia search) to automate workflows.
 
-- Offers $300 credit for new billing accounts, integrates with Google Cloud/Gemini, and supports third-party tools (e.g., Slack, Jira, BigQuery) while being adopted by major apps (e.g., Duolingo, Venmo).
+- **Scalable Backend Services**: Includes Firestore (NoSQL), Realtime Database, Authentication, Cloud Functions, and Hosting, with built-in monitoring (Crashlytics, Performance Monitoring) and CI/CD (App Distribution, Test Lab) for production-grade deployment.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T10:21:22.866213+05:30
+- Published: 2026-08-09T12:59:53.396132+05:30
 
 ## Related Tags
 
@@ -49,9 +49,9 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://firebase.google.com/
+Original source: https://firebase.google.com

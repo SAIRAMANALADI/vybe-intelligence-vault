@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-09T10:13:43.880004+05:30'
-published_at: '2026-08-07T04:51:50Z'
+collected_at: '2026-08-09T12:52:54.259682+05:30'
+published_at: '2026-08-09T07:14:32Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 168
+stars: 169
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-09T10:13:43.880004+05:30'
-last_seen: '2026-08-09T10:13:43.880004+05:30'
-last_checked: '2026-08-09T10:13:43.880004+05:30'
+first_seen: '2026-08-09T12:52:54.259682+05:30'
+last_seen: '2026-08-09T12:52:54.259682+05:30'
+last_checked: '2026-08-09T12:52:54.259682+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent roles for graph construction and retrieval.
+- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents to enhance Graph Retrieval-Augmented Generation (GraphRAG) by dynamically constructing and querying knowledge graphs for improved contextual retrieval.
 
-- **Ontology-Driven Graph Construction**: Dynamically constructs and maintains a graph-based knowledge structure using ontology principles, enabling efficient semantic retrieval and reasoning over unstructured data.
+- **Ontology-Guided Graph Construction**: Implements ontology-driven graph construction to formalize entity relationships, enabling structured knowledge representation and efficient multi-hop reasoning in RAG pipelines.
 
-- **Memory-Integrated RAG Pipeline**: Integrates agent memory with GraphRAG to enhance context-aware generation, optimizing long-term dependency handling and improving factual accuracy in downstream tasks.
+- **Dynamic Knowledge Integration**: Utilizes a memory-based mechanism to iteratively refine graph structures and agent interactions, optimizing retrieval precision and adaptability for evolving knowledge domains.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: XMUDeepLIT
-- Stars: 168
+- Stars: 169
 - Forks: 31
 - Language: Python
 - Topics: agent-memory, graph-construction, graphrag, multi-agent, ontology, ontology-construction, rag
-- Last Updated: 2026-08-07T04:51:50Z
+- Last Updated: 2026-08-09T07:14:32Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-02T03:16:55Z
