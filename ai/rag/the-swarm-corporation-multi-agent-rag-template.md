@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-10T16:17:01.396562+05:30'
+collected_at: '2026-08-10T19:23:39.549815+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 59
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-10T16:17:01.396562+05:30'
-last_seen: '2026-08-10T16:17:01.396562+05:30'
-last_checked: '2026-08-10T16:17:01.396562+05:30'
+first_seen: '2026-08-10T19:23:39.549815+05:30'
+last_seen: '2026-08-10T19:23:39.549815+05:30'
+last_checked: '2026-08-10T19:23:39.549815+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent RAG architecture**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) using Python to process, analyze, and extract insights from documents via retrieval-augmented generation (RAG).
-- **Integration stack**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM providers (OpenAI GPT-3.5/4/5, Anthropic) with LangChain for orchestration.
-- **Deployment & extensibility**: Includes Discord bot integration and modular design for scaling agent teams, last updated July 2026.
+- **Multi-Agent Architecture**: Implements a collaborative system of AI agents using frameworks like AutoGen, CrewAI, and Swarms to process, analyze, and generate insights from documents via Retrieval-Augmented Generation (RAG).
+
+- **Integration Stack**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and LLM providers (OpenAI GPT-3.5/4/5, Anthropic) with LangChain for orchestration, enabling scalable document retrieval and agent coordination.
+
+- **Deployment & Extensibility**: Includes Discord bot integration for real-time interaction, modular agent roles, and Python-based implementation for customizable multi-agent workflows in document processing and analysis.
 
 ## Why It Matters
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-10T16:14:06.178293+05:30'
+collected_at: '2026-08-10T19:20:44.383177+05:30'
 published_at: '2026-08-07T07:48:15Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - jupyter notebook
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-10T16:14:06.178293+05:30'
-last_seen: '2026-08-10T16:14:06.178293+05:30'
-last_checked: '2026-08-10T16:14:06.178293+05:30'
+first_seen: '2026-08-10T19:20:44.383177+05:30'
+last_seen: '2026-08-10T19:20:44.383177+05:30'
+last_checked: '2026-08-10T19:20:44.383177+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: CRAG is a **Comprehensive benchmark for Retrieval-Augmented Generation (RAG)**, designed to evaluate RAG systems across multiple dimensions (e.g., retrieval quality, generation accuracy, robustness).
-- **Implementation**: Provided as **Jupyter Notebooks**, enabling interactive evaluation and reproducibility of RAG pipelines with standardized metrics and datasets.
-- **Scope**: Focuses on **systematic assessment** of RAG components (retrievers, generators, and their interplay) with extensible frameworks for custom benchmarks.
+- **CRAG**: A comprehensive benchmarking framework for Retrieval-Augmented Generation (RAG) systems, designed to evaluate performance across diverse retrieval and generation tasks.
+
+- **Implementation**: Developed in Jupyter Notebooks, enabling modular and reproducible experimentation with RAG pipelines, including retrieval, augmentation, and generation components.
+
+- **Evaluation Scope**: Covers multiple dimensions (e.g., retrieval accuracy, answer correctness, hallucination rates) to assess RAG systems under varying conditions, with updates as of August 2026.
 
 ## Why It Matters
 

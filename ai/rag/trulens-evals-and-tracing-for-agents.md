@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.trulens.org
-published_at: '2026-08-10T10:35:38.894272+05:30'
-collected_at: '2026-08-10T10:35:38.894281+05:30'
+published_at: '2026-08-10T19:23:54.882483+05:30'
+collected_at: '2026-08-10T19:23:54.882496+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:trulens-evals-and-tracing-for-ai-agents
-first_seen: '2026-08-10T10:35:38.894281+05:30'
-last_seen: '2026-08-10T10:35:38.894281+05:30'
-last_checked: '2026-08-10T10:35:38.894281+05:30'
+first_seen: '2026-08-10T19:23:54.882496+05:30'
+last_seen: '2026-08-10T19:23:54.882496+05:30'
+last_checked: '2026-08-10T19:23:54.882496+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **OpenTelemetry-native tracing**: TruLens provides granular tracing of AI agents, recording per-step latency, inputs, outputs, tokens, and cost, enabling root-cause analysis of failures via structured spans (e.g., retrieval, tool use, generation).
+- **OpenTelemetry-native tracing**: Captures per-span latency, inputs/outputs, token/cost metrics across agent steps (retrieval, tool use, generation) for root-cause analysis of failures.
 
-- **Benchmark-grade evaluation metrics**: Implements domain-tunable judges (e.g., Context Relevance, Groundedness, Tool Selection) with SOTA performance (e.g., 95% error detection on TRAIL/GAIA, 0.81 F1 on LLM-AggreFact) and supports custom rubrics/examples for alignment.
+- **Domain-adaptive evaluation**: Provides state-of-the-art judges (e.g., 95% error detection on TRAIL/GAIA) with customizable rubrics, few-shot examples, and scale adjustments for domain-specific alignment.
 
-- **Framework-agnostic instrumentation**: Integrates with LangChain, LangGraph, LlamaIndex, and MCP via auto-instrumentation or manual OpenTelemetry hooks, enabling evaluation across heterogeneous agentic workflows without code rewrite.
+- **Unified observability pipeline**: Supports live tracing and batch evaluation over datasets, integrating with frameworks (LangChain, LangGraph, LlamaIndex) and outputting metrics to leaderboards for version comparison and quality/cost optimization.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:35:38.894272+05:30
+- Published: 2026-08-10T19:23:54.882483+05:30
 
 ## Related Tags
 

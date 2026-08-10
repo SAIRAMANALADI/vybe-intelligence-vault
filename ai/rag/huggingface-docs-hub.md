@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-10T16:18:24.963364+05:30'
-collected_at: '2026-08-10T16:18:24.963384+05:30'
+published_at: '2026-08-10T19:24:36.728912+05:30'
+collected_at: '2026-08-10T19:24:36.728928+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-10T16:18:24.963384+05:30'
-last_seen: '2026-08-10T16:18:24.963384+05:30'
-last_checked: '2026-08-10T16:18:24.963384+05:30'
+first_seen: '2026-08-10T19:24:36.728928+05:30'
+last_seen: '2026-08-10T19:24:36.728928+05:30'
+last_checked: '2026-08-10T19:24:36.728928+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting with support for Gradio SDK, Docker containers, and static HTML/JS apps, deployable on user/organization profiles with optional GPU acceleration.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript; GPU/accelerated hardware upgrades available via [Spaces GPU Upgrades](https://huggingface.co/docs/hub/spaces-gpus).
 
-- **Storage & Compute**: Supports disk usage tracking, GPU upgrades, and ZeroGPU configurations; integrates with GitHub Actions for CI/CD and provides APIs for embedding/custom domains.
+- **Storage & Compute**: Supports custom Python environments, OpenCV integration, and GitHub Actions for CI/CD; disk usage/storage management detailed in [Spaces Disk Usage & Storage](https://huggingface.co/docs/hub/spaces-storage).
 
-- **Advanced Features**: Includes dev mode, MCP server integration, agent tool deployment, and OAuth-based authentication for secure, scalable ML application hosting.
+- **Advanced Features**: Enables embedding Spaces, custom domains, and MCP server/agent tool integrations; configuration reference provided in [Spaces Config Reference](https://huggingface.co/docs/hub/spaces-config-reference).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T16:18:24.963364+05:30
+- Published: 2026-08-10T19:24:36.728912+05:30
 
 ## Related Tags
 

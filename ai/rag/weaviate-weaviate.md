@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-08-10T16:18:31.677659+05:30'
-published_at: '2026-08-10T09:40:00Z'
+collected_at: '2026-08-10T19:25:10.490982+05:30'
+published_at: '2026-08-10T12:42:27Z'
 tags:
 - github-repo
 - go
 - hackernews
 - rag
-- workflows
-stars: 16715
+stars: 16716
 language: Go
 status: active
 license: BSD-3-Clause
 archived: false
 created_at: '2016-03-30T15:03:17Z'
-pushed_at: '2026-08-10T10:47:27Z'
+pushed_at: '2026-08-10T13:53:48Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-08-10T16:18:31.677659+05:30'
-last_seen: '2026-08-10T16:18:31.677659+05:30'
-last_checked: '2026-08-10T16:18:31.677659+05:30'
+first_seen: '2026-08-10T19:25:10.490982+05:30'
+last_seen: '2026-08-10T19:25:10.490982+05:30'
+last_checked: '2026-08-10T19:25:10.490982+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Architecture**: Weaviate combines structured data storage with vector embeddings, enabling both traditional filtering and vector similarity search within a single system.
+- **Hybrid Architecture**: Combines structured data storage with vector embeddings, enabling both exact and approximate nearest neighbor (ANN) search via HNSW indexing for high-dimensional vector data.
 
-- **Scalable & Fault-Tolerant**: Built as a cloud-native vector database in Go, it leverages HNSW for approximate nearest neighbor (ANN) search and supports gRPC for high-performance distributed operations.
+- **Cloud-Native & Scalable**: Implements fault tolerance, horizontal scaling, and gRPC-based communication, optimized for MLOps and production-grade semantic search workloads.
 
-- **Multi-Modal Search Capabilities**: Supports semantic, hybrid, and generative search across text, images, and other modalities, with integrations for MLOps, recommender systems, and neural search workflows.
+- **Multi-Modal Search**: Supports hybrid (vector + keyword), generative, and cross-modal (e.g., image-to-text) search via modular vectorization and retrieval pipelines.
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: weaviate
-- Stars: 16715
+- Stars: 16716
 - Forks: 1362
 - Language: Go
 - Topics: approximate-nearest-neighbor-search, generative-search, grpc, hnsw, hybrid-search, image-search, information-retrieval, mlops, nearest-neighbor-search, neural-search, recommender-system, search-engine, semantic-search, semantic-search-engine, similarity-search, vector-database, vector-search, vector-search-engine, vectors, weaviate
-- Last Updated: 2026-08-10T09:40:00Z
+- Last Updated: 2026-08-10T12:42:27Z
 - License: BSD-3-Clause
 - Archived: No
 - Created At: 2016-03-30T15:03:17Z
-- Pushed At: 2026-08-10T10:47:27Z
+- Pushed At: 2026-08-10T13:53:48Z
 
 ## Possible Use Cases
 

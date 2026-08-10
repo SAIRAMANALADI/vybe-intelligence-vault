@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-08-10T16:23:47.891695+05:30'
-collected_at: '2026-08-10T16:23:47.891706+05:30'
+published_at: '2026-08-10T19:30:10.223289+05:30'
+collected_at: '2026-08-10T19:30:10.223304+05:30'
 tags:
-- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:3-14-7-documentation
-first_seen: '2026-08-10T16:23:47.891706+05:30'
-last_seen: '2026-08-10T16:23:47.891706+05:30'
-last_checked: '2026-08-10T16:23:47.891706+05:30'
+first_seen: '2026-08-10T19:30:10.223304+05:30'
+last_seen: '2026-08-10T19:30:10.223304+05:30'
+last_checked: '2026-08-10T19:30:10.223304+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Version Management**: Official Python documentation provides access to all versions, including stable (3.14/3.13), pre-release (3.15), in-development (3.16), and EOL releases (3.9 and below), with security updates for 3.10–3.12.
-
-- **Core Documentation Sections**: Includes "What's New" (3.14), Tutorial, Library/Reference Manuals, Language Specifications, HOWTOs, C API, and FAQs, covering syntax, modules, and extension mechanisms.
-
-- **Supporting Resources**: Offers PEPs, packaging guides, static typing docs, developer/contribution guides, and searchable indices (module, general, glossary) via Sphinx-generated HTML.
+- **Version Support Matrix**: Python 3.14 (stable), 3.13 (stable), 3.12/3.11/3.10 (security-fixes), and all prior versions marked EOL (End of Life), with 3.16 in active development.
+- **Documentation Structure**: Organized into tutorials, library/language references, setup/usage guides, HOWTOs, C API docs, and FAQs, with additional resources like PEPs, packaging guides, and static typing documentation.
+- **Licensing & Contribution**: Python docs licensed under PSF License v2 (Zero Clause BSD for code examples), with contribution guidelines via the [Python Developer’s Guide](https://devguide.python.org) and Sphinx 8.2.3 used for documentation generation.
 
 ## Why It Matters
 
@@ -36,11 +33,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T16:23:47.891695+05:30
+- Published: 2026-08-10T19:30:10.223289+05:30
 
 ## Related Tags
 
-- reddit
 - web-crawled
 - youtube
 

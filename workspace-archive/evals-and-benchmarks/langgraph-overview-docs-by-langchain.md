@@ -6,10 +6,10 @@ source_url: https://docs.langchain.com/oss/python/langgraph/overview
 resource_id: blog:langgraph-overview-docs-by-langchain
 local_vault_path: ai/agents/langgraph-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,8 +36,10 @@ selection_reason:
 ## Summary
 
 - **Low-level orchestration framework** for building stateful, long-running agents with fine-grained control over deterministic and LLM-driven steps in a single graph.
-- **Core features** include durable execution, persistence, human-in-the-loop workflows, streaming, and comprehensive state management for auditable, production-ready agents.
-- **Ecosystem integration** with LangSmith for observability, debugging, and deployment, while remaining framework-agnostic (e.g., usable without LangChain).
+
+- **Core features** include durable execution, streaming, human-in-the-loop interaction, persistence, and comprehensive memory for stateful workflows.
+
+- **Integration with LangChain ecosystem** (LangSmith, Deep Agents) for observability, debugging, deployment, and scalable agent management.
 
 ## Use Cases
 

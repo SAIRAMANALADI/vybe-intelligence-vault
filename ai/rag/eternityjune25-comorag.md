@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-10T16:14:36.161706+05:30'
+collected_at: '2026-08-10T19:21:14.366126+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-10T16:14:36.161706+05:30'
-last_seen: '2026-08-10T16:14:36.161706+05:30'
-last_checked: '2026-08-10T16:14:36.161706+05:30'
+first_seen: '2026-08-10T19:21:14.366126+05:30'
+last_seen: '2026-08-10T19:21:14.366126+05:30'
+last_checked: '2026-08-10T19:21:14.366126+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long-form narrative reasoning via structured memory hierarchies.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning.
 
-- **Memory Organization**: Implements a multi-tiered memory system (e.g., episodic, semantic, procedural) to dynamically store, retrieve, and synthesize contextual information for coherent multi-turn reasoning.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended dialogues or narratives, addressing limitations in traditional RAG systems.
 
-- **AAAI 2026 Contribution**: Proposes a novel approach to mitigate long-context limitations in LLMs by leveraging cognitive memory principles, validated through empirical benchmarks on narrative reasoning tasks.
+- **AAAI 2026 Contribution**: Proposes a novel approach for structured memory organization, validated through experiments demonstrating superior performance in long-form reasoning tasks compared to baseline RAG models.
 
 ## Why It Matters
 

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/agentic-inbox
-collected_at: '2026-08-10T16:16:41.289956+05:30'
+collected_at: '2026-08-10T19:23:19.520938+05:30'
 published_at: '2026-08-10T10:29:27Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 6792
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-04-10T00:26:27Z'
 pushed_at: '2026-04-23T21:04:17Z'
 resource_id: github:cloudflare/agentic-inbox
-first_seen: '2026-08-10T16:16:41.289956+05:30'
-last_seen: '2026-08-10T16:16:41.289956+05:30'
-last_checked: '2026-08-10T16:16:41.289956+05:30'
+first_seen: '2026-08-10T19:23:19.520938+05:30'
+last_seen: '2026-08-10T19:23:19.520938+05:30'
+last_checked: '2026-08-10T19:23:19.520938+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Cloudflare Workers-based self-hosted email client with integrated AI agent, leveraging serverless compute for scalability and low latency.
-- **Implementation**: TypeScript-based, utilizing Cloudflare’s edge network for real-time email processing, storage, and AI inference without backend infrastructure.
-- **Features**: Supports AI-driven email triage, filtering, and agent-assisted workflows while maintaining end-to-end privacy via local execution.
+- **Self-hosted email client** leveraging **Cloudflare Workers** for serverless execution, enabling low-latency, globally distributed email processing.
+- **AI agent integration** via TypeScript, utilizing Cloudflare’s AI APIs (e.g., Workers AI) for on-device email summarization, classification, and automated responses.
+- **Zero-trust architecture** with end-to-end encryption (E2EE) support, ensuring secure email handling without external dependencies.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: cloudflare
 - Stars: 6792
-- Forks: 855
+- Forks: 856
 - Language: TypeScript
 - Topics: None
 - Last Updated: 2026-08-10T10:29:27Z

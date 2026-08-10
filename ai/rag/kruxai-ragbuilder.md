@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-08-10T16:14:26.232320+05:30'
-published_at: '2026-08-07T17:04:40Z'
+collected_at: '2026-08-10T19:21:04.383461+05:30'
+published_at: '2026-08-10T11:29:30Z'
 tags:
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - workflows
-stars: 1541
+stars: 1542
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-08-10T16:14:26.232320+05:30'
-last_seen: '2026-08-10T16:14:26.232320+05:30'
-last_checked: '2026-08-10T16:14:26.232320+05:30'
+first_seen: '2026-08-10T19:21:04.383461+05:30'
+last_seen: '2026-08-10T19:21:04.383461+05:30'
+last_checked: '2026-08-10T19:21:04.383461+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for user data.
-- **Technical Stack**: Python-based implementation with support for GenAI and developer tooling workflows.
-- **Key Features**: Modular design for scalable RAG deployment, with active updates (last commit: 2026-08-07).
+- **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for user data integration.
+
+- **Key Features**: Includes modular components for data ingestion, embedding generation, vector storage, retrieval, and LLM integration to streamline RAG deployment.
+
+- **Technical Stack**: Leverages Python with dependencies optimized for GenAI workflows, supporting scalable vector databases and LLM fine-tuning for enhanced retrieval performance.
 
 ## Why It Matters
 
@@ -41,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: KruxAI
-- Stars: 1541
+- Stars: 1542
 - Forks: 127
 - Language: Python
 - Topics: developer-tools, genai, rag
-- Last Updated: 2026-08-07T17:04:40Z
+- Last Updated: 2026-08-10T11:29:30Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-06-24T07:25:00Z

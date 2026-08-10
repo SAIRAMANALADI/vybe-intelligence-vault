@@ -4,13 +4,14 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huggingface/hub-docs
-collected_at: '2026-08-10T10:37:31.103330+05:30'
-published_at: '2026-08-10T03:39:33Z'
+collected_at: '2026-08-10T19:25:59.212091+05:30'
+published_at: '2026-08-10T05:09:01Z'
 tags:
+- dataset
 - github-repo
+- hackernews
 - handlebars
-- workflows
-stars: 582
+stars: 583
 language: Handlebars
 status: active
 license: Apache-2.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2022-03-16T13:26:14Z'
 pushed_at: '2026-08-10T03:39:29Z'
 resource_id: github:huggingface/hub-docs
-first_seen: '2026-08-10T10:37:31.103330+05:30'
-last_seen: '2026-08-10T10:37:31.103330+05:30'
-last_checked: '2026-08-10T10:37:31.103330+05:30'
+first_seen: '2026-08-10T19:25:59.212091+05:30'
+last_seen: '2026-08-10T19:25:59.212091+05:30'
+last_checked: '2026-08-10T19:25:59.212091+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Official documentation for the Hugging Face Hub, written in Handlebars, covering ML model hosting, sharing, and collaboration features.
-- **Community Metrics**: 582 stars, 481 forks, with active maintenance (last updated 2026-08-10).
-- **Focus Areas**: Targets machine learning workflows, supports `hacktoberfest`, and integrates with Hugging Face ecosystem tools.
+- **Repository Purpose**: Official documentation for the Hugging Face Hub, a platform for hosting, sharing, and collaborating on machine learning models, datasets, and applications.
+
+- **Technical Stack**: Utilizes **Handlebars.js** for templating, with integration into the Hugging Face ecosystem for ML model/dataset management.
+
+- **Maintenance & Contributions**: Actively maintained (last updated **2026-08-10**), with **583 stars** and **482 forks**, supporting **hacktoberfest** contributions.
 
 ## Why It Matters
 
@@ -39,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: huggingface
-- Stars: 582
-- Forks: 481
+- Stars: 583
+- Forks: 482
 - Language: Handlebars
 - Topics: hacktoberfest, machine-learning
-- Last Updated: 2026-08-10T03:39:33Z
+- Last Updated: 2026-08-10T05:09:01Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2022-03-16T13:26:14Z

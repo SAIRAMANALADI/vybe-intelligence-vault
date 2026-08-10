@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-10T16:13:41.179914+05:30'
+collected_at: '2026-08-10T19:20:19.338200+05:30'
 published_at: '2026-08-10T03:43:25Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 159
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-10T16:13:41.179914+05:30'
-last_seen: '2026-08-10T16:13:41.179914+05:30'
-last_checked: '2026-08-10T16:13:41.179914+05:30'
+first_seen: '2026-08-10T19:20:19.338200+05:30'
+last_seen: '2026-08-10T19:20:19.338200+05:30'
+last_checked: '2026-08-10T19:20:19.338200+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) for retrieval-augmented generation (RAG), combining dense and sparse retrieval methods (e.g., BM25 + embeddings) for enhanced query accuracy.
+- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval and generation.
 
-- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` or `ConversationalRetrievalChain` with customizable retrievers, memory (e.g., `ConversationBufferMemory`), and LLM integration (e.g., OpenAI, HuggingFace) for dynamic response generation.
+- **Modular Architecture**: Uses LangChain’s retrieval-augmented generation (RAG) components, including document loaders, text splitters, embeddings (e.g., HuggingFace), and a retriever with hybrid search support.
 
-- **Streamlit UI for RAG**: Provides an interactive frontend with components like `st.chat_message`, `st.text_input`, and `st.expander` to visualize retrieved documents, intermediate steps (e.g., reranking), and generated answers in real-time.
+- **Streamlit UI**: Provides a real-time interactive interface for querying and visualizing RAG outputs, with dynamic updates to retrieved documents and generated responses.
 
 ## Why It Matters
 

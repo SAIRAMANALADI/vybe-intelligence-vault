@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CALLE-AI/awesome-phone-call-agents
-collected_at: '2026-08-10T16:15:21.228291+05:30'
-published_at: '2026-08-10T06:53:52Z'
+collected_at: '2026-08-10T19:21:59.424199+05:30'
+published_at: '2026-08-10T11:36:41Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-05-08T06:45:28Z'
-pushed_at: '2026-08-10T06:53:42Z'
+pushed_at: '2026-08-10T11:36:36Z'
 resource_id: github:calle-ai/awesome-phone-call-agents
-first_seen: '2026-08-10T16:15:21.228291+05:30'
-last_seen: '2026-08-10T16:15:21.228291+05:30'
-last_checked: '2026-08-10T16:15:21.228291+05:30'
+first_seen: '2026-08-10T19:21:59.424199+05:30'
+last_seen: '2026-08-10T19:21:59.424199+05:30'
+last_checked: '2026-08-10T19:21:59.424199+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of portable phone-call agent skills, applications, examples, adapters, and scheduler recipes for AI agents.
-- **Metrics**: 52 stars, 91 forks, last updated on 2026-08-10.
-- **Focus**: Designed for AI-driven phone-call automation with modular, reusable components.
+- **Repository Overview**: GitHub repository hosting portable phone-call agent skills, applications, examples, adapters, and scheduler recipes for AI agents, implemented in TypeScript.
+- **Metadata**: 52 stars, 91 forks, last updated on 2026-08-10T11:36:41Z.
+- **Focus**: Specialized in AI-driven phone-call automation with modular components for agent deployment and scheduling.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 91
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-10T06:53:52Z
+- Last Updated: 2026-08-10T11:36:41Z
 - License: MIT
 - Archived: No
 - Created At: 2026-05-08T06:45:28Z
-- Pushed At: 2026-08-10T06:53:42Z
+- Pushed At: 2026-08-10T11:36:36Z
 
 ## Possible Use Cases
 

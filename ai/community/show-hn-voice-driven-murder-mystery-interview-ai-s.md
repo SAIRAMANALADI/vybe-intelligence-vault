@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://whodunnitai.com
 hn_url: https://news.ycombinator.com/item?id=49238851
-score: 96
+score: 132
 author: MrRowTheBoat
-comments_count: 35
+comments_count: 53
 published_at: '2026-08-10T08:48:40+05:30'
-collected_at: '2026-08-10T16:12:08.841189+05:30'
+collected_at: '2026-08-10T19:18:44.397258+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:show-hn-voice-driven-murder-mystery-interview-ai-s
 first_seen: '2026-08-10T10:29:12.793226+05:30'
-last_seen: '2026-08-10T16:12:08.841189+05:30'
-last_checked: '2026-08-10T16:12:08.841189+05:30'
+last_seen: '2026-08-10T19:18:44.397258+05:30'
+last_checked: '2026-08-10T19:18:44.397258+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by MrRowTheBoat. Score: 96, Comments: 35.
+Hacker News story by MrRowTheBoat. Score: 132, Comments: 53.
 Original Link: https://www.whodunnitai.com/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: MrRowTheBoat
-- Score: 96 Upvotes
-- Comments: 35 Discussions
+- Score: 132 Upvotes
+- Comments: 53 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49238851
 - Original Article: https://whodunnitai.com
 

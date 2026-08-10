@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-10T16:13:06.109224+05:30'
+collected_at: '2026-08-10T19:19:44.265795+05:30'
 published_at: '2026-08-03T17:47:21Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - meta-ai
+- mistral
 - models
 - python
 - rag
-- workflows
 stars: 965
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-10T16:13:06.109224+05:30'
-last_seen: '2026-08-10T16:13:06.109224+05:30'
-last_checked: '2026-08-10T16:13:06.109224+05:30'
+first_seen: '2026-08-10T19:19:44.265795+05:30'
+last_seen: '2026-08-10T19:19:44.265795+05:30'
+last_checked: '2026-08-10T19:19:44.265795+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama) with LangChain, avoiding cloud dependency.
-- **Dynamic Database Updates**: Implements automated document ingestion and vector database (e.g., Chroma) refresh via LangChain’s `RecursiveUrlLoader` and embedding pipelines.
-- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for retrieval, generation, and end-to-end RAG workflows, with evaluation metrics like `faiss` or `sentence-transformers`.
+- **Local LLM Integration**: Demonstrates LangChain-based RAG pipeline leveraging local LLMs (e.g., Llama, Mistral) for offline inference with optimized prompt engineering and model quantization.
+
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh mechanisms via incremental document ingestion and embedding recalculation for real-time knowledge base synchronization.
+
+- **Testing & Evaluation Framework**: Includes unit tests for retrieval accuracy, generation quality, and end-to-end RAG performance metrics (e.g., context precision/recall, answer faithfulness) using synthetic and real-world datasets.
 
 ## Why It Matters
 

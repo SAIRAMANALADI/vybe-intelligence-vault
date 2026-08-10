@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-08-10T16:15:11.196856+05:30'
+collected_at: '2026-08-10T19:21:49.391862+05:30'
 published_at: '2026-08-09T15:07:02Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-08-10T16:15:11.196856+05:30'
-last_seen: '2026-08-10T16:15:11.196856+05:30'
-last_checked: '2026-08-10T16:15:11.196856+05:30'
+first_seen: '2026-08-10T19:21:49.391862+05:30'
+last_seen: '2026-08-10T19:21:49.391862+05:30'
+last_checked: '2026-08-10T19:21:49.391862+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based starter template for deploying AI agents on the Phala Network using OpenAI's API, facilitating on-chain inference and agentic workflows.
+- **Template Overview**: Provides a TypeScript-based starter kit for deploying AI agents on the Phala Network using OpenAI's API, facilitating secure off-chain computation via Trusted Execution Environments (TEEs).
 
-- **Key Components**: Includes pre-configured contracts for agent initialization, OpenAI API integration, and secure off-chain computation via Phala's Trusted Execution Environment (TEE).
+- **Core Components**: Integrates OpenAI's function-calling API for agent orchestration, Phala's `phat.js` SDK for on-chain interactions, and a pre-configured Hardhat setup for local development and testing.
 
-- **Deployment & Execution**: Enables seamless deployment of AI agents with OpenAI's LLM integration, leveraging Phala's decentralized compute for privacy-preserving and verifiable execution.
+- **Deployment Workflow**: Supports compilation to WASM for on-chain deployment, includes example scripts for agent initialization, and leverages Phala's confidential computing to ensure data privacy during execution.
 
 ## Why It Matters
 

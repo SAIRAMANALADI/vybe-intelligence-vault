@@ -2,7 +2,7 @@
 title: Firebase | Google's Mobile and Web App Development Platform
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://firebase.google.com
+source_url: https://firebase.google.com/
 resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
 local_vault_path: ai/rag/firebase-google-s-mobile-and-web-app-development-p.md
 quality_score: 70
@@ -16,7 +16,6 @@ tags:
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++ to streamline app development across platforms.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++ to streamline multi-platform app development and deployment.
 
-- **AI/ML Integration**: Supports generative AI workflows via **Firebase AI Logic** and **Agent Skills**, enabling AI-powered features with Google Cloud’s managed infrastructure.
+- **AI/ML Integration**: Supports generative AI workflows via **Firebase AI Logic**, **Agent Skills**, and integrations with **Gemini**, enabling AI-powered app features and managed infrastructure scaling.
 
-- **Modular Ecosystem**: Offers 30+ products (e.g., **Firestore**, **Crashlytics**, **App Hosting**) for building, scaling, and monitoring apps, with pre-packaged **E
+- **Modular Ecosystem**: Offers **Build** (e.g., App Hosting, Firestore), **Run** (e.g., Crashlytics, Remote Config), and **Ex
 
 ## Use Cases
 
@@ -51,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firebase.google.com
+Original source URL: https://firebase.google.com/
 
 ## Local Vault File
 

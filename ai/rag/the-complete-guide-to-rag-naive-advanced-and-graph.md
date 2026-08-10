@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-08-10T16:12:58.323177+05:30'
-collected_at: '2026-08-10T16:12:58.323193+05:30'
+published_at: '2026-08-10T19:19:36.602301+05:30'
+collected_at: '2026-08-10T19:19:36.602317+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-08-10T16:12:58.323193+05:30'
-last_seen: '2026-08-10T16:12:58.323193+05:30'
-last_checked: '2026-08-10T16:12:58.323193+05:30'
+first_seen: '2026-08-10T19:19:36.602317+05:30'
+last_seen: '2026-08-10T19:19:36.602317+05:30'
+last_checked: '2026-08-10T19:19:36.602317+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: RAG combines retrieval (vector/sparse search), augmentation (context injection), and generation (LLM reasoning) to address LLM limitations (stale knowledge, private data, hallucinations) by dynamically fetching relevant external documents at query time.
+- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning).
 
-- **RAG Generations**: Naive RAG (basic retrieval), Advanced RAG (hybrid search, reranking, query transformation), Modular RAG (agentic routing, tool integration), and Graph RAG (entity-relation graph traversal for multi-hop reasoning).
+- **Core RAG Components**: Retrieval (vector/BM25), augmentation (top-k docs + prompt), and generation (LLM with citations), addressing freshness, private knowledge, and hallucination issues.
 
-- **Implementation Stack**: Uses frameworks like LangChain/LCEL for pipelines, vector DBs (Chroma, Qdrant) for embeddings, and techniques like BM25, HyDE, and RRF for retrieval optimization, with evaluation metrics (e.g., EM, F1) for performance benchmarking.
+- **Implementation Stack**: LangChain/LCEL for orchestration, Chroma/Weaviate for vector storage, and HuggingFace embeddings (e.g., `BAAI/bge-m3`) with rerankers (`BAAI/bge-reranker-v2-m3`) for scalable, modular RAG pipelines.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T16:12:58.323177+05:30
+- Published: 2026-08-10T19:19:36.602301+05:30
 
 ## Related Tags
 

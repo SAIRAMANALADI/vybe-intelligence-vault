@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-08-10T16:14:11.161345+05:30'
-published_at: '2026-08-10T10:38:58Z'
+collected_at: '2026-08-10T19:20:49.342922+05:30'
+published_at: '2026-08-10T13:46:32Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-stars: 3218
+- workflows
+stars: 3219
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-08-10T10:38:11Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-08-10T16:14:11.161345+05:30'
-last_seen: '2026-08-10T16:14:11.161345+05:30'
-last_checked: '2026-08-10T16:14:11.161345+05:30'
+first_seen: '2026-08-10T19:20:49.342922+05:30'
+last_seen: '2026-08-10T19:20:49.342922+05:30'
+last_checked: '2026-08-10T19:20:49.342922+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with performance metrics.
-- **Key Features**: Supports evaluation across tasks including RAG, with modular design for extensibility and reproducibility.
-- **Repository Stats**: 3,218 stars, 440 forks; last updated 2026-08-10.
+- **Framework Purpose**: EvalScope is a Python-based framework designed for efficient evaluation and benchmarking of large models, including LLMs, VLMs, and AIGC, with a focus on customization and streamlined workflows.
+
+- **Key Features**: Supports evaluation across multiple domains (e.g., RAG, performance metrics) and enables modular integration of custom evaluation pipelines for large models.
+
+- **Repository Stats**: Maintained with 3,219 stars and 441 forks as of the last update (August 10, 2026), indicating active community engagement and adoption.
 
 ## Why It Matters
 
@@ -40,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: modelscope
-- Stars: 3218
-- Forks: 440
+- Stars: 3219
+- Forks: 441
 - Language: Python
 - Topics: evaluation, llm, performance, rag, vlm
-- Last Updated: 2026-08-10T10:38:58Z
+- Last Updated: 2026-08-10T13:46:32Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z

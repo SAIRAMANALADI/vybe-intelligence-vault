@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-10T16:13:46.101537+05:30'
+collected_at: '2026-08-10T19:20:24.343467+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-10T16:13:46.101537+05:30'
-last_seen: '2026-08-10T16:13:46.101537+05:30'
-last_checked: '2026-08-10T16:13:46.101537+05:30'
+first_seen: '2026-08-10T19:20:24.343467+05:30'
+last_seen: '2026-08-10T19:20:24.343467+05:30'
+last_checked: '2026-08-10T19:20:24.343467+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) tailored for Vietnamese language processing, leveraging Python-based pipelines for document retrieval and generation.
-
-- **Modular Architecture**: Project includes components for Vietnamese text preprocessing, embedding generation (e.g., using `sentence-transformers` or `Vietnamese-specific models`), vector storage (e.g., FAISS or Weaviate), and retrieval-augmented generation with LLMs (e.g., `vinai/PhoGPT` or `bloom-vi`).
-
-- **Evaluation & Optimization**: Provides scripts for benchmarking retrieval performance (e.g., precision@k, MRR) and generation quality (e.g., BLEU, ROUGE) on Vietnamese datasets, with optimizations for chunking, indexing, and prompt engineering.
+- Implements **Retrieval-Augmented Generation (RAG)** optimized for Vietnamese text processing using Python
+- Demonstrates best practices for **vector databases**, **embedding models**, and **query optimization** tailored to Vietnamese language semantics
+- Provides a **modular backend architecture** with pre-configured pipelines for document retrieval and generation
 
 ## Why It Matters
 

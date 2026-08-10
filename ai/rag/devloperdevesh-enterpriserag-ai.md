@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-10T16:14:21.144416+05:30'
+collected_at: '2026-08-10T19:20:59.382205+05:30'
 published_at: '2026-08-10T02:04:17Z'
 tags:
 - agents
 - github-repo
 - rag
-- scripts
 - typescript
 stars: 15
 language: TypeScript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-07-24T08:10:54Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-10T16:14:21.144416+05:30'
-last_seen: '2026-08-10T16:14:21.144416+05:30'
-last_checked: '2026-08-10T16:14:21.144416+05:30'
+first_seen: '2026-08-10T19:20:59.382205+05:30'
+last_seen: '2026-08-10T19:20:59.382205+05:30'
+last_checked: '2026-08-10T19:20:59.382205+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement, optimized for Linux environments.
+- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using Linux-native eBPF for runtime monitoring, enforcement, and policy-based control.
 
-- **Enterprise-Grade RAG Pipeline**: Features a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript components, supporting vector databases for scalable, high-performance AI workloads.
+- **Enterprise-Grade RAG Pipeline**: Features a FastAPI-backed Retrieval-Augmented Generation (RAG) system with TypeScript components, optimized for SaaS AI deployments and vector database integration.
 
-- **SaaS-AI Governance Framework**: Designed for multi-tenant AI deployments with built-in security, audit, and compliance controls, leveraging GenAI and LLM integration for governance automation.
+- **Governance & Scalability**: Designed for multi-tenant SaaS environments with built-in security policies, audit logging, and horizontal scalability for LLM-driven workloads.
 
 ## Why It Matters
 

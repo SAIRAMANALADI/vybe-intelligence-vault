@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Article Galaxy MCP Integration (Spring 2026)**: Introduces a Model Context Protocol (MCP) server for AI-native literature access, enabling structured, programmatic interaction with research content repositories.
+- **AI-Ready Content Rights**: Spring 2026 introduces AI-ready content rights management, enabling seamless integration of licensed content into AI-driven workflows with granular re-use permissions.
 
-- **AI-Ready Content Rights (Spring 2026)**: Implements granular, machine-readable usage rights at the article level, facilitating automated compliance and reuse in AI/ML workflows.
+- **Article Galaxy MCP Integration**: Enhanced Article Galaxy MCP (Model Context Protocol) support for structured, machine-readable citation intelligence and deeper semantic interoperability in research pipelines.
 
-- **Enhanced Citation Intelligence (Spring 2026)**: Deploys full-text citation search capabilities w
+- **Full-Text Citation Search (Summer 2025)**: Implemented full-text citation search
 
 ## Use Cases
 

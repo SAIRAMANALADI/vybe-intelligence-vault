@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-08-10T10:33:48.288256+05:30'
+collected_at: '2026-08-10T19:22:09.395537+05:30'
 published_at: '2026-08-09T17:06:33Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - scripts
+- workflows
 stars: 332
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-08-09T16:51:32Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-08-10T10:33:48.288256+05:30'
-last_seen: '2026-08-10T10:33:48.288256+05:30'
-last_checked: '2026-08-10T10:33:48.288256+05:30'
+first_seen: '2026-08-10T19:22:09.395537+05:30'
+last_seen: '2026-08-10T19:22:09.395537+05:30'
+last_checked: '2026-08-10T19:22:09.395537+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples across research, business, automation, and education.
-
-- **Multi-Topic Repository**: Focuses on ADK (Python/Web), agentic AI, multi-agent systems, and Google’s Gemini AI integration, with structured samples and templates for rapid deployment.
-
-- **Active Development**: Last updated August 2026, with 332 stars and 48 forks, indicating ongoing community engagement and contributions.
+- **Curated ADK Resources**: Repository containing templates, best practices, and production-ready examples for building AI agents using Google's Agent Development Kit (ADK) in Python, covering research, business, automation, and education.
+- **Multi-Agent & Web Integration**: Includes samples for multi-agent systems and ADK-Web, enabling deployment of agentic AI workflows with Gemini AI integration.
+- **Active Maintenance**: Last updated in August 2026, with 332 stars and 48 forks, reflecting ongoing community engagement and updates.
 
 ## Why It Matters
 

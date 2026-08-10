@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-10T16:14:36.217848+05:30'
+collected_at: '2026-08-10T19:21:14.390923+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-10T16:14:36.217848+05:30'
-last_seen: '2026-08-10T16:14:36.217848+05:30'
-last_checked: '2026-08-10T16:14:36.217848+05:30'
+first_seen: '2026-08-10T19:21:14.390923+05:30'
+last_seen: '2026-08-10T19:21:14.390923+05:30'
+last_checked: '2026-08-10T19:21:14.390923+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (entity → subgraph → global) and semantic aggregation for enhanced context relevance.
+- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, enhancing contextual relevance in generation tasks.
 
-- **Efficiency Optimizations**: Uses lightweight graph pruning and dynamic indexing to reduce retrieval latency while maintaining high precision in knowledge-grounded generation.
+- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval mechanism to dynamically select and prioritize knowledge sources based on query complexity and graph structure.
 
-- **AAAI 2026 Benchmark Performance**: Achieves state-of-the-art results on knowledge-intensive tasks by leveraging hierarchical graph traversal and adaptive fusion of retrieved subgraphs.
+- **Efficiency Optimization**: Designed for lightweight, scalable RAG (Retrieval-Augmented Generation) with reduced computational overhead, leveraging graph pruning and semantic caching.
 
 ## Why It Matters
 

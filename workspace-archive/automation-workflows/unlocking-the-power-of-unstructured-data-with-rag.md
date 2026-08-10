@@ -6,12 +6,12 @@ source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructur
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
-archive_score: 84
+archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
-importance: high
+resource_kind: framework
+importance: medium
 tags:
-- hackernews
+- agents
 - rag
 - reddit
 - scripts
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Unlocking the power of unstructured data with RAG - The GitHub Blog
@@ -27,19 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 84 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **GitHub Actions Security Enhancements**: Nicole Choi's work focuses on improving security in GitHub Actions, including vulnerability detection in workflows and dependency scanning for CI/CD pipelines.
-
-- **Open Source Contributions**: Actively contributes to open-source projects, particularly in the security and DevOps domains, with a focus on automation and tooling.
-
-- **Technical Blog Author**: Writes for GitHub's official blog, covering topics such as secure coding practices, CI/CD securit
+- **GitHub Actions Security Enhancements**: Introduced new security features in GitHub Actions to mitigate supply chain risks, including dependency review and secret scanning for workflows.
+- **Automated Dependency Management**: Highlighted improvements in automated dependency updates and security advisories to streamline vulnerability patching in repositories.
+- **Policy-as-Code Integration**: Discussed the integration of policy-as-code frameworks (e.g., Open Policy Agent) to enforce security a
 
 ## Use Cases
 

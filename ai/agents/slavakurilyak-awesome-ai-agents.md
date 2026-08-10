@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-08-10T16:15:36.217342+05:30'
+collected_at: '2026-08-10T19:22:14.428989+05:30'
 published_at: '2026-08-10T07:30:09Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-08-10T16:15:36.217342+05:30'
-last_seen: '2026-08-10T16:15:36.217342+05:30'
-last_checked: '2026-08-10T16:15:36.217342+05:30'
+first_seen: '2026-08-10T19:22:14.428989+05:30'
+last_seen: '2026-08-10T19:22:14.428989+05:30'
+last_checked: '2026-08-10T19:22:14.428989+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: GitHub repository `slavakurilyak/awesome-ai-agents` containing 300+ resources focused on agentic AI, last updated on **2026-08-10**.
-- **Technical Metadata**: Primarily implemented in **Python**, with **2,155 stars** and **524 forks** as of the latest update.
-- **Resource Scope**: Encompasses tools, frameworks, research papers, and libraries dedicated to **AI agents** and **agentic systems**.
+- **Comprehensive Resource**: Curated list of 300+ agentic AI tools, frameworks, and research papers, maintained as an open-source repository.
+- **Technical Scope**: Focuses on AI agents, agentic systems, and related Python-based implementations, with active community contributions.
+- **Metadata**: 2,155 stars, 524 forks, last updated August 10, 2026; hosted on GitHub with Python as the primary language.
 
 ## Why It Matters
 

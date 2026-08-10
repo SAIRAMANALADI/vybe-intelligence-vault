@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/deepset
-published_at: '2026-08-10T16:19:31.110779+05:30'
-collected_at: '2026-08-10T16:19:31.110808+05:30'
+published_at: '2026-08-10T19:25:25.532505+05:30'
+collected_at: '2026-08-10T19:25:25.532517+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:deepset-github
-first_seen: '2026-08-10T16:19:31.110808+05:30'
-last_seen: '2026-08-10T16:19:31.110808+05:30'
-last_checked: '2026-08-10T16:19:31.110808+05:30'
+first_seen: '2026-08-10T19:25:25.532517+05:30'
+last_seen: '2026-08-10T19:25:25.532517+05:30'
+last_checked: '2026-08-10T19:25:25.532517+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: `deepset` maintains 5 public repositories primarily focused on Go programming, including tools like `httphashtool`, `go-patterns`, and `most-active-cookie` for log analysis via binary search.
+- **Organization Profile**: `deepset` is a GitHub organization with 5 public repositories, 0 projects, 0 packages, and 0 stars; it has 10 followers and 1 following account.
 
-- **Project & Package Status**: No active projects or packages are listed under the organization’s profile, indicating a focus on repository-based contributions rather than project management or package distribution.
+- **Repository Highlights**: Key repositories include `httphashtool` (Go-based HTTP hash tool), `go-patterns` (curated Go design patterns), and `most-active-cookie` (Go app for finding the most frequent cookie in a log file via binary search).
 
-- **User Metrics**: The organization has 10 followers and 1 following, with no stars or additional metadata visible, suggesting limited public engagement or visibility.
+- **Additional Repositories**: Other notable repos are `node-express-course` (Node.js/Express.js introduction) and `tweether` (Go-based JSON data parser).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T16:19:31.110779+05:30
+- Published: 2026-08-10T19:25:25.532505+05:30
 
 ## Related Tags
 

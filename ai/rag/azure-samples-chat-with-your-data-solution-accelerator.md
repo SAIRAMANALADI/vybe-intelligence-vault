@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-10T16:13:56.222552+05:30'
+collected_at: '2026-08-10T19:20:34.351099+05:30'
 published_at: '2026-08-10T05:57:37Z'
 tags:
-- dataset
 - github-repo
 - openai
 - python
 - rag
-- reddit
+- workflows
 stars: 1172
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-08-10T06:02:23Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-10T16:13:56.222552+05:30'
-last_seen: '2026-08-10T16:13:56.222552+05:30'
-last_checked: '2026-08-10T16:13:56.222552+05:30'
+first_seen: '2026-08-10T19:20:34.351099+05:30'
+last_seen: '2026-08-10T19:20:34.351099+05:30'
+last_checked: '2026-08-10T19:20:34.351099+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences, following best practices.
-
-- **Components**: Includes **Python-based** solution with **AZD templates**, integrating Azure OpenAI for LLM inference and Azure AI Search for vector/keyword-based document retrieval.
-
-- **Features**: Provides a production-ready accelerator with common RAG requirements, enabling **ChatGPT-style interactions** and **Q&A systems** over custom datasets.
+- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs (e.g., GPT models) for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** for deployment, incorporating best practices for **authentication, indexing, and orchestration** within Azure’s ecosystem.
+- **Python-Based**: Provides a **Python-based solution accelerator** with modular components for data ingestion, retrieval, and chat orchestration, optimized for scalability and enterprise-grade RAG workflows.
 
 ## Why It Matters
 

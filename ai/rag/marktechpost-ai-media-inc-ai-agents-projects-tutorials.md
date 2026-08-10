@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-10T16:14:56.204307+05:30'
+collected_at: '2026-08-10T19:21:34.418820+05:30'
 published_at: '2026-08-10T10:08:28Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-09T11:17:00Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-10T16:14:56.204307+05:30'
-last_seen: '2026-08-10T16:14:56.204307+05:30'
-last_checked: '2026-08-10T16:14:56.204307+05:30'
+first_seen: '2026-08-10T19:21:34.418820+05:30'
+last_seen: '2026-08-10T19:21:34.418820+05:30'
+last_checked: '2026-08-10T19:21:34.418820+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- Repository focuses on **multi-agent systems**, **memory management**, **planning**, and **reasoning loops** in AI agents.
-- Contains **Jupyter Notebooks** covering **agentic AI development**, **RAG workflows**, and **coding frameworks**.
-- Last updated **2026-08-10**, with **2,863 stars** and **618 forks**, covering topics like **agentic engineering** and **AI agent skills**.
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, workflows, and reasoning loops for complex task execution.
+- **Memory & Planning**: Includes tutorials on integrating memory architectures and hierarchical planning for persistent agentic behavior.
+- **Agentic RAG & Frameworks**: Demonstrates advanced Retrieval-Augmented Generation (RAG) and modular frameworks for agentic AI development in Jupyter Notebooks.
 
 ## Why It Matters
 

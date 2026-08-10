@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/accounts/answer/40695
-published_at: '2026-07-21T09:23:55.680204+05:30'
-collected_at: '2026-07-21T09:23:55.680214+05:30'
+published_at: '2026-08-10T19:27:08.383315+05:30'
+collected_at: '2026-08-10T19:27:08.383328+05:30'
 tags:
 - agents
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:your-account-is-disabled-google-account-help
-first_seen: '2026-07-21T09:23:55.680214+05:30'
-last_seen: '2026-07-21T09:23:55.680214+05:30'
-last_checked: '2026-07-21T09:23:55.680214+05:30'
+first_seen: '2026-08-10T19:27:08.383328+05:30'
+last_seen: '2026-08-10T19:27:08.383328+05:30'
+last_checked: '2026-08-10T19:27:08.383328+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Account Disabling**: Google disables accounts violating policies (e.g., hacking, spam, child exploitation, terrorism) or legal requests, restricting access to all Google services and potentially deleting the account if unresolved.
+- **Account Disabling Mechanism**: Google disables entire accounts for policy violations, including Terms of Service breaches, product-specific misconduct (e.g., YouTube Community Guidelines), or severe violations like child exploitation, impersonation, or malware distribution. Disabling restricts access to all Google services and may involve legal reporting (e.g., NCMEC for child abuse).
 
-- **Appeal Process**: Users can submit up to 2 appeals for policy violations; EU users have additional redress options. Appeals must be submitted via the disabled account page, with no guarantee of restoration.
+- **Appeal Process & Limitations**: Users can appeal via the "Start Appeal" option during sign-in, with up to 2 reviews for certain violations. Appeals may be denied, leading to permanent account deletion. EU users have additional redress options under the Digital Services Act.
 
-- **Data Export & Violations**: Some disabled accounts allow data export, except for severe violations (e.g., legal requests, child abuse, hijacking). Violations include impersonation, malware, harassment, and sanctions-related activities.
+- **Data Export Restrictions**: Disabled accounts may lose access to data export tools, especially for severe violations (e.g., legal requests, hijacking, or egregious content). Even with access, export is blocked for violations like child exploitation or terrorism-related content.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T09:23:55.680204+05:30
+- Published: 2026-08-10T19:27:08.383315+05:30
 
 ## Related Tags
 

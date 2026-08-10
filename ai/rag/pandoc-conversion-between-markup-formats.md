@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://hackage.haskell.org/package/pandoc
-published_at: '2026-08-09T19:00:07.185775+05:30'
-collected_at: '2026-08-09T19:00:07.185787+05:30'
+published_at: '2026-08-10T19:29:08.795543+05:30'
+collected_at: '2026-08-10T19:29:08.795559+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pandoc-conversion-between-markup-formats
-first_seen: '2026-08-09T19:00:07.185787+05:30'
-last_seen: '2026-08-09T19:00:07.185787+05:30'
-last_checked: '2026-08-09T19:00:07.185787+05:30'
+first_seen: '2026-08-10T19:29:08.795559+05:30'
+last_seen: '2026-08-10T19:29:08.795559+05:30'
+last_checked: '2026-08-10T19:29:08.795559+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Haskell Library for Markup Conversion**: Pandoc is a Haskell library that converts between 30+ markup formats, including Markdown variants, LaTeX, HTML, EPUB, Docx, Jupyter notebooks, and more, with support for mathematical content conversion (TeX, MathML, Word equations) and automated citations via CSL.
+- **Multi-format conversion engine**: Pandoc is a Haskell library supporting bidirectional conversion between 40+ markup formats, including Markdown variants, LaTeX, HTML, EPUB, Docx, Jupyter notebooks, and more, with mathematical content conversion (TeX, MathML, Word equations, etc.).
 
-- **Modular Architecture**: Composed of 100+ modules (e.g., `Text.Pandoc.Readers.*`, `Text.Pandoc.Writers.*`) for parsing/rendering specific formats, with extensibility via Lua filters, custom readers/writers, and templates for output customization.
+- **Extensible processing pipeline**: Features a modular architecture with Lua-based custom readers/writers, template-driven output, and built-in citation/bibliography systems (BibTeX, CSL JSON/YAML), enabling programmatic document transformation.
 
-- **CLI and PDF Support**: Distributed as `pandoc` (CLI tool) and `pandoc-cli` package; PDF generation requires external tools (pdflatex, wkhtmltopdf) while other formats are natively supported.
+- **Hackage integration**: Hosted on Hackage with GPL licensing, providing module-level documentation (e.g., `Text.Pandoc.Readers.*`/`Writers.*`), CLI via `pandoc-cli`, and vulnerability reporting via GitHub advisories.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T19:00:07.185775+05:30
+- Published: 2026-08-10T19:29:08.795543+05:30
 
 ## Related Tags
 

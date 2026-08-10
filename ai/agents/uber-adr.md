@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/uber/ADR
-collected_at: '2026-08-10T16:15:51.246671+05:30'
-published_at: '2026-08-10T10:13:46Z'
+collected_at: '2026-08-10T19:22:29.466744+05:30'
+published_at: '2026-08-10T13:05:59Z'
 tags:
 - agents
 - anthropic
@@ -14,7 +14,7 @@ tags:
 - hackernews
 - python
 - reddit
-stars: 1329
+stars: 1334
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-04-19T18:01:42Z'
 pushed_at: '2026-08-10T04:24:27Z'
 resource_id: github:uber/adr
-first_seen: '2026-08-10T16:15:51.246671+05:30'
-last_seen: '2026-08-10T16:15:51.246671+05:30'
-last_checked: '2026-08-10T16:15:51.246671+05:30'
+first_seen: '2026-08-10T19:22:29.466744+05:30'
+last_seen: '2026-08-10T19:22:29.466744+05:30'
+last_checked: '2026-08-10T19:22:29.466744+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose & Deployment**: ADR (Agent Defense Runtime) secures enterprise AI agents via observability, security benchmarking, and threat detection, with production deployment at Uber.
-- **Technical Scope**: Implements defenses against prompt injection, LLM security threats, and integrates with MCP (Model Context Protocol) for secure agent interactions.
-- **Language & Ecosystem**: Primarily written in Python, supports security benchmarking for agents using tools like Claude, Codex, and Cursor.
+- **Purpose & Deployment**: ADR (Agent Defense Runtime) is an enterprise-grade security framework for AI agents, providing observability, security benchmarking, and threat detection; currently deployed at Uber.
+- **Core Features**: Implements threat detection against prompt injection, model theft, and adversarial attacks; includes benchmarking for evaluating agent security posture.
+- **Technical Stack**: Python-based, supports MCP (Model Context Protocol), and integrates with tools like Claude, Cursor, and Codex for agent security enforcement.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: uber
-- Stars: 1329
+- Stars: 1334
 - Forks: 112
 - Language: Python
 - Topics: agent-security, ai-agents, ai-security, benchmark, claude, claude-code, codex, cursor, llm-security, mcp, model-context-protocol, prompt-injection, threat-detection
-- Last Updated: 2026-08-10T10:13:46Z
+- Last Updated: 2026-08-10T13:05:59Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-19T18:01:42Z

@@ -4,17 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-08-10T13:42:36.589004+05:30'
-published_at: '2026-08-08T12:01:42Z'
+collected_at: '2026-08-10T19:21:44.413577+05:30'
+published_at: '2026-08-10T13:39:46Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
 - rag
 - scripts
 - typescript
 - workflows
-stars: 1181
+stars: 1183
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-08-05T16:47:35Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-08-10T13:42:36.589004+05:30'
-last_seen: '2026-08-10T13:42:36.589004+05:30'
-last_checked: '2026-08-10T13:42:36.589004+05:30'
+first_seen: '2026-08-10T19:21:44.413577+05:30'
+last_seen: '2026-08-10T19:21:44.413577+05:30'
+last_checked: '2026-08-10T19:21:44.413577+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Workflow Automation**: Open-source template for building and deploying AI-driven workflow automation systems using TypeScript, enabling agent-based task orchestration via a visual interface.
-
-- **Vercel Integration**: Optimized for Vercel’s serverless architecture, leveraging edge functions and Next.js for scalable, low-latency workflow execution.
-
-- **Modular Agent System**: Pre-configured template with extensible agent nodes (e.g., LLM APIs, data processing) and state management for dynamic, multi-step AI workflows.
+- **Platform**: Visual AI workflow automation platform leveraging TypeScript for agent-based orchestration.
+- **Repository Stats**: 1,183 stars, 232 forks, last updated 2026-08-10.
+- **Core Features**: Enables AI-driven workflow automation with modular agent interactions and visual composition.
 
 ## Why It Matters
 
@@ -45,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1181
+- Stars: 1183
 - Forks: 232
 - Language: TypeScript
 - Topics: agents, ai, workflows
-- Last Updated: 2026-08-08T12:01:42Z
+- Last Updated: 2026-08-10T13:39:46Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-03T17:14:16Z

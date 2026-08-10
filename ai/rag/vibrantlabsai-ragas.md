@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/index.md
-published_at: '2026-08-10T16:19:15.774592+05:30'
-collected_at: '2026-08-10T16:19:15.774606+05:30'
+published_at: '2026-08-10T19:25:15.828419+05:30'
+collected_at: '2026-08-10T19:25:15.828434+05:30'
 tags:
 - benchmark
 - dataset
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-08-10T16:19:15.774606+05:30'
-last_seen: '2026-08-10T16:19:15.774606+05:30'
-last_checked: '2026-08-10T16:19:15.774606+05:30'
+first_seen: '2026-08-10T19:25:15.828434+05:30'
+last_seen: '2026-08-10T19:25:15.828434+05:30'
+last_checked: '2026-08-10T19:25:15.828434+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Driven Evaluation Framework**: Ragas provides a systematic approach to evaluate LLM applications using customizable, LLM-based metrics and continuous experimentation loops, replacing ad-hoc "vibe checks" with reproducible evaluation pipelines.
-
-- **Modular Metrics & Integration**: Supports custom metric creation via decorators and offers pre-built metrics; integrates seamlessly with frameworks like LangChain and LlamaIndex, including dataset management and result tracking.
-
-- **Scalable Workflow**: Enables structured experimentation (changes → evaluation → iteration) and provides resources (quickstart, how-to guides, API docs) to operationalize evaluation for AI application improvement.
+- **LLM-Driven Evaluation Framework**: Ragas replaces traditional metrics with LLM-powered evaluation, enabling systematic and scalable assessment of LLM applications through customizable metrics and experiments.
+- **Experiments-First Workflow**: Facilitates continuous improvement via structured experimentation loops, integrating dataset management, result tracking, and seamless compatibility with frameworks like LangChain and LlamaIndex.
+- **Modular & Extensible**: Offers custom metric creation via decorators and provides pre-built metrics, with comprehensive documentation for core concepts, integration guides, and API references.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T16:19:15.774592+05:30
+- Published: 2026-08-10T19:25:15.828419+05:30
 
 ## Related Tags
 

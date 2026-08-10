@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/
-published_at: '2026-08-10T13:48:14.942269+05:30'
-collected_at: '2026-08-10T13:48:14.942282+05:30'
+published_at: '2026-08-10T19:29:10.332423+05:30'
+collected_at: '2026-08-10T19:29:10.332438+05:30'
 tags:
 - hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:privacy-terms-google
-first_seen: '2026-08-10T13:48:14.942282+05:30'
-last_seen: '2026-08-10T13:48:14.942282+05:30'
-last_checked: '2026-08-10T13:48:14.942282+05:30'
+first_seen: '2026-08-10T19:29:10.332438+05:30'
+last_seen: '2026-08-10T19:29:10.332438+05:30'
+last_checked: '2026-08-10T19:29:10.332438+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Usage**: Google's [Privacy Policy](https://policies.google.com/privacy) details the types of data collected (e.g., personal info, usage data, device info), purposes (e.g., service provision, personalization, security), and user rights (e.g., access, deletion, opt-out mechanisms).
+- **Data Collection & Usage**: Google's [Privacy Policy](https://policies.google.com/privacy) outlines the types of data collected (e.g., personal info, usage data, device info), purposes (e.g., service delivery, personalization, security), and user rights (e.g., access, deletion, opt-out mechanisms).
 
-- **Terms of Service Compliance**: The [Terms of Service](https://policies.google.com/terms) outline user obligations, prohibited activities, and Google’s rights/responsibilities, including liability limitations and jurisdiction-specific clauses.
+- **Terms of Service Compliance**: The [Terms of Service](https://policies.google.com/terms) define legal obligations for users, including prohibited activities, content policies, and service-specific rules (e.g., API usage, ads policies).
 
-- **Security & Privacy Principles**: Google enforces [Privacy & Security Principles](https://safety.google/principles) (e.g., data minimization, transparency, user control) and provides tools like the [Product Privacy Guide](https://policies.google.com/technologies/product-privacy) to manage privacy settings across services (e.g., Gmail, Search, YouTube).
+- **Privacy & Security Principles**: Google enforces [privacy-by-design](https://safety.google/principles) principles, integrating transparency, user control, and security measures (e.g., encryption, access controls) across products like Gmail, Search, and YouTube.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T13:48:14.942269+05:30
+- Published: 2026-08-10T19:29:10.332423+05:30
 
 ## Related Tags
 

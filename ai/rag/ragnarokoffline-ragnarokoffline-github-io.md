@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-08-10T16:12:56.075263+05:30'
+collected_at: '2026-08-10T19:19:34.293814+05:30'
 published_at: '2026-08-09T17:11:05Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-02-06T11:16:38Z'
 pushed_at: '2026-08-08T00:07:27Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-08-10T16:12:56.075263+05:30'
-last_seen: '2026-08-10T16:12:56.075263+05:30'
-last_checked: '2026-08-10T16:12:56.075263+05:30'
+first_seen: '2026-08-10T19:19:34.293814+05:30'
+last_seen: '2026-08-10T19:19:34.293814+05:30'
+last_checked: '2026-08-10T19:19:34.293814+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Hosts the **Ragnarok Offline Pre-Renewal Pack**, a static website (HTML) for an offline version of *Ragnarok Online* using **OpenKore** and **rAthena** infrastructure.
-- **Technical Stack**: Pure **HTML** with integration points for *Ragnarok Online* modding tools (`OpenKore`, `rAthena`).
-- **Maintenance**: Last updated **2026-08-09**, indicating active but infrequent development (19 stars, 9 forks).
+- **Repository Overview**: GitHub repository hosting the Ragnarok Offline Pre-Renewal Pack, a static HTML-based project for offline Ragnarok Online gameplay.
+- **Technical Stack**: Primarily HTML, with integration support for OpenKore, rAthena, and compatibility with Ragnarok Online Pre-Renewal mechanics.
+- **Metadata**: 19 stars, 9 forks, last updated on **2026-08-09**; focuses on offline Ragnarok Online modding and server emulation tools.
 
 ## Why It Matters
 

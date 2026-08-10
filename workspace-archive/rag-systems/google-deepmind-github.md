@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **AlphaFold3**: Open-source inference pipeline for protein structure prediction, leveraging deep learning to model molecular interactions with improved accuracy over AlphaFold2.
+- **AlphaFold3**: Open-source inference pipeline for protein structure prediction, leveraging deep learning to model interactions between proteins, DNA, RNA, and small molecules.
 
-- **MuJoCo**: High-performance C++ physics simulator for multi-joint dynamics with contact, widely used in robotics and reinforcement learning research for accurate rigid-body simulations.
+- **MuJoCo**: High-performance C++ physics simulator for robotics and reinforcement learning, optimized for multi-joint dynamics with contact modeling.
 
-- **dm-haiku**: JAX-based neural network library optimized for large-scale deep learning, enabling efficient model development wi
+- **JAX-based Libraries**: `dm-haiku` (neural network library) and `jax_privacy` (privacy-preserving ML algorithms) demonstrate DeepMind's focus on scalable, different
 
 ## Use Cases
 

@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
-published_at: '2026-08-10T16:21:45.503051+05:30'
-collected_at: '2026-08-10T16:21:45.503065+05:30'
+published_at: '2026-08-10T19:27:04.464677+05:30'
+collected_at: '2026-08-10T19:27:04.464690+05:30'
 tags:
 - web-crawled
+- youtube
 status: active
 resource_id: blog:subresource-integrity-security-mdn
-first_seen: '2026-08-10T16:21:45.503065+05:30'
-last_seen: '2026-08-10T16:21:45.503065+05:30'
-last_checked: '2026-08-10T16:21:45.503065+05:30'
+first_seen: '2026-08-10T19:27:04.464690+05:30'
+last_seen: '2026-08-10T19:27:04.464690+05:30'
+last_checked: '2026-08-10T19:27:04.464690+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Mechanism**: Subresource Integrity (SRI) enforces cryptographic hash validation (`sha256`, `sha384`, or `sha512`) on fetched resources (e.g., CDN-hosted scripts/styles) via the `integrity` attribute, blocking mismatched content to mitigate supply chain attacks.
+- **Mechanism**: Subresource Integrity (SRI) enforces cryptographic hash verification of fetched resources (e.g., from CDNs) to detect tampering by comparing the resource's hash against a precomputed value in the `integrity` attribute.
 
-- **CORS Dependency**: SRI requires `crossorigin="anonymous"` for cross-origin resources to enable integrity checks; `no-cors` mode explicitly blocks SRI enforcement to prevent XS-Leak attacks.
+- **Security Constraints**: Browsers enforce SRI by blocking `no-cors` requests with integrity checks to prevent side-channel attacks (e.g., hash-based content inference via load success/failure monitoring).
 
-- **Policy Enforcement**: HTTP headers `Integrity-Policy` (blocking) and `Integrity-Policy-Report-Only` (monitoring) enforce integrity metadata requirements for scripts/styles, with violation reports sent to configured endpoints via the Reporting API.
+- **Policy Enforcement**: The `Integrity-Policy` header mandates SRI for scripts/styles, blocking non-compliant requests and generating violation reports via the Reporting API, while `Integrity-Policy-Report-Only` allows monitoring without enforcement.
 
 ## Why It Matters
 
@@ -34,11 +35,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T16:21:45.503051+05:30
+- Published: 2026-08-10T19:27:04.464677+05:30
 
 ## Related Tags
 
 - web-crawled
+- youtube
 
 ## Source
 

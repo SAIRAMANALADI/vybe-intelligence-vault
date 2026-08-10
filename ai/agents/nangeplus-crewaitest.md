@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-10T16:17:16.280974+05:30'
+collected_at: '2026-08-10T19:23:54.471934+05:30'
 published_at: '2026-08-10T08:09:46Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - meta-ai
 - models
 - python
-- workflows
 stars: 357
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-10T16:17:16.280974+05:30'
-last_seen: '2026-08-10T16:17:16.280974+05:30'
-last_checked: '2026-08-10T16:17:16.280974+05:30'
+first_seen: '2026-08-10T19:23:54.471934+05:30'
+last_seen: '2026-08-10T19:23:54.471934+05:30'
+last_checked: '2026-08-10T19:23:54.471934+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements a collaborative multi-agent architecture using **CrewAI** for task delegation and coordination, with **FastAPI** providing RESTful endpoints for external interactions.
-
-- **Model Agnostic Integration**: Supports **GPT**, domestic large models (e.g., ERNIE, GLM), and **Ollama** for local LLM deployment, enabling flexible model switching via unified API interfaces.
-
-- **Production-Ready API**: Exposes agentic workflows as scalable microservices, with last update timestamp (`2026-08-10T08:09:46Z`) indicating active maintenance for enterprise-grade deployments.
+- **Multi-Agent System**: Implements a collaborative multi-agent architecture using **CrewAI** for task orchestration and **FastAPI** for API service provision.
+- **Model Agnostic**: Supports **GPT**, **domestic large models**, and **Ollama** (local) LLMs via unified interfaces.
+- **Deployment**: Provides a scalable backend with **Python**, last updated on **2026-08-10**, with **357 stars** and **83 forks**.
 
 ## Why It Matters
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-08-10T16:13:01.640476+05:30'
-collected_at: '2026-08-10T16:13:01.640492+05:30'
+published_at: '2026-08-10T19:19:39.826695+05:30'
+collected_at: '2026-08-10T19:19:39.826709+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-08-10T16:13:01.640492+05:30'
-last_seen: '2026-08-10T16:13:01.640492+05:30'
-last_checked: '2026-08-10T16:13:01.640492+05:30'
+first_seen: '2026-08-10T19:19:39.826709+05:30'
+last_seen: '2026-08-10T19:19:39.826709+05:30'
+last_checked: '2026-08-10T19:19:39.826709+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines dense (embedding-based) and sparse (BM25/TF-IDF) retrieval with a generator LLM; uses FAISS/Chroma for vector search and cross-encoders (e.g., monoT5) for reranking to optimize precision/recall.
+- **Minimal RAG Pipeline**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and `transformers` (Flan-T5) for generation; replaceable with any LLM provider (OpenAI, Anthropic, etc.).
 
-- **Minimal Pipeline Implementation**: Indexes documents via `SentenceTransformer` embeddings stored in FAISS, retrieves top-*k* chunks via vector similarity, and generates answers using Flan-T5 with prompt templates for citation grounding.
+- **Core Components**: Retriever (dense/sparse), generator (LLM), embeddings (e.g., `all-MiniLM-L6-v2`), chunking (400–1000 tokens with overlap), reranker (cross-encoder like `monoT5`), and hybrid retrieval (BM25 + embeddings).
 
-- **Advanced Enhancements**: Implements hybrid retrieval (dense + sparse), query expansion (HyDE/multi-query), multi-hop decomposition, GraphRAG (knowledge graphs), and context compression to improve factuality, reduce latency, and enable agentic tool use.
+- **Indexing & Querying**: Documents indexed via FAISS (inner product for cosine similarity); retrieval involves embedding query, searching index, and prompting LLM with top-*k* passages for grounded generation.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T16:13:01.640476+05:30
+- Published: 2026-08-10T19:19:39.826695+05:30
 
 ## Related Tags
 
