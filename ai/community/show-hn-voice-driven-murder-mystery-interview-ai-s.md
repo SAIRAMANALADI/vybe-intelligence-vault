@@ -13,13 +13,14 @@ collected_at: '2026-08-10T21:46:27.991042+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-voice-driven-murder-mystery-interview-ai-s
 first_seen: '2026-08-10T10:29:12.793226+05:30'
 last_seen: '2026-08-10T21:46:27.991042+05:30'
 last_checked: '2026-08-10T21:46:27.991042+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Voice driven murder mystery, Interview AI suspects with your voice
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-08-10T19:21:29.383582+05:30'
+collected_at: '2026-08-11T00:56:34.076396+05:30'
 published_at: '2026-08-10T09:10:07Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 8321
 language: TypeScript
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-08-10T19:21:29.383582+05:30'
-last_seen: '2026-08-10T19:21:29.383582+05:30'
-last_checked: '2026-08-10T19:21:29.383582+05:30'
+first_seen: '2026-08-11T00:56:34.076396+05:30'
+last_seen: '2026-08-11T00:56:34.076396+05:30'
+last_checked: '2026-08-11T00:56:34.076396+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide AI agents with real-time, accurate access to any GitHub repository, mitigating code hallucinations by ensuring factual code retrieval and context.
+- **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate "code hallucinations" by providing structured, real-time access to GitHub repositories for AI agents and LLMs.
 
-- **Technical Implementation**: Built in TypeScript, it acts as a bridge between AI agents (e.g., Claude, Copilot, Cursor) and GitHub repositories, enabling dynamic, context-aware interactions with codebases via the MCP standard.
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with agentic AI tools (e.g., Claude, Copilot, Cursor) via the MCP protocol for repository interactions.
 
-- **Features**: Supports real-time repository access, version control integration, and agentic workflows, with last updates as of August 10, 2026.
+- **Features**: Supports real-time Git operations (e.g., cloning, diffing, file access) and exposes a standardized interface for AI-driven code analysis and generation.
 
 ## Why It Matters
 

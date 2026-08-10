@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-10T21:48:41.913441+05:30'
+collected_at: '2026-08-11T00:55:59.077906+05:30'
 published_at: '2026-08-09T05:32:34Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-10T21:48:41.913441+05:30'
-last_seen: '2026-08-10T21:48:41.913441+05:30'
-last_checked: '2026-08-10T21:48:41.913441+05:30'
+first_seen: '2026-08-11T00:55:59.077906+05:30'
+last_seen: '2026-08-11T00:55:59.077906+05:30'
+last_checked: '2026-08-11T00:55:59.077906+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Attack Mechanism**: Introduces *PoisonedRAG*, a novel attack framework that corrupts the knowledge base of Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents, causing LLMs to generate manipulated or incorrect outputs while maintaining high retrieval relevance.
+- **Attack Mechanism**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance.
 
-- **Technical Implementation**: Leverages *trigger-based poisoning* and *semantic similarity attacks* to subtly alter document embeddings, ensuring poisoned content ranks highly in retrieval while evading detection via standard sanitization or filtering.
+- **Technical Implementation**: Leverages adversarial document poisoning techniques to manipulate the embedding space and retrieval rankings, exploiting vulnerabilities in the RAG pipeline’s reliance on vector similarity for document selection.
 
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., dense retrieval + LLMs), showing significant degradation in response accuracy, factual consistency, and robustness, with potential real-world implications for AI-driven decision systems.
+- **Security Implications**: Highlights critical risks to RAG-based applications (e.g., chatbots, QA systems) by showing how attackers can subtly alter retrieved context to bias model responses, emphasizing the need for robust detection and mitigation strategies in production systems.
 
 ## Why It Matters
 

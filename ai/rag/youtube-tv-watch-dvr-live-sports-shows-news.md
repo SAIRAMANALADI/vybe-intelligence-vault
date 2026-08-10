@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/
-published_at: '2026-08-10T13:47:15.462644+05:30'
-collected_at: '2026-08-10T13:47:15.462659+05:30'
+published_at: '2026-08-11T01:02:01.627977+05:30'
+collected_at: '2026-08-11T01:02:01.627994+05:30'
 tags:
 - agents
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:youtube-tv-watch-dvr-live-sports-shows-news
-first_seen: '2026-08-10T13:47:15.462659+05:30'
-last_seen: '2026-08-10T13:47:15.462659+05:30'
-last_checked: '2026-08-10T13:47:15.462659+05:30'
+first_seen: '2026-08-11T01:02:01.627994+05:30'
+last_seen: '2026-08-11T01:02:01.627994+05:30'
+last_checked: '2026-08-11T01:02:01.627994+05:30'
 health_score: 100
 ---
 
@@ -24,18 +24,17 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Plans**:
-  - Main YouTube TV plan: **$67.99/month for first 3 months** (save $45), then **$82.99/month**; offer valid until **August 26, 2026**.
-  - New **Sports Plan**: **$54.99/month for first 12 months** (save $120), then **$64.99/month**; same end date.
+- **Pricing & Promotions**:
+  - Main YouTube TV plan: $67.99/month for first 3 months (save $45), then $82.99/month; offer valid until 8/26/2026 for new users.
+  - Sports Plan: $54.99/month for first 12 months (save $120), then $64.99/month; same end date and user restrictions.
 
-- **Core Features**:
-  - **Unlimited DVR storage**, **multiview support** (up to 4 streams), **6 household accounts**, and **3 simultaneous streams**.
-  - **No contracts, hidden fees, or installation costs**; includes **4K Plus add-on** ($9.99/month) for offline downloads and unlimited home streams.
+- **Plan Features**:
+  - Main plan: 100+ channels, unlimited DVR, multiview, 6 household accounts, 3 simultaneous streams.
+  - Sports Plan: 30+ channels focused on sports, same DVR/unlimited streams/multiview perks.
 
-- **Add-Ons & Extras**:
-  - **Entertainment Plus bundle** ($29.99/month) combines HBO Max, Paramount+, and STARZ.
-  - **Sports Plus** ($10.99/month) adds NFL RedZone, beIN SPORTS, and more.
-  - **Spanish TV add-on** ($14.99/month) includes FOX Deportes, El Último Rey, and Mexican soccer.
+- **Add-Ons & Flexibility**:
+  - Optional add-ons include 4K Plus ($9.99/month), Entertainment Plus ($29.99/month), Sports Plus ($10.99/month), and Spanish TV ($14.99/month).
+  - No contracts, no hidden fees (e.g., DVR/broadcast fees), and 21-day free trial available.
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T13:47:15.462644+05:30
+- Published: 2026-08-11T01:02:01.627977+05:30
 
 ## Related Tags
 

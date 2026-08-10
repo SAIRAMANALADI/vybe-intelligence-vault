@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-08-10T21:47:26.865269+05:30'
+collected_at: '2026-08-11T00:54:43.981723+05:30'
 published_at: '2026-07-22T13:21:53Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-08-10T21:47:26.865269+05:30'
-last_seen: '2026-08-10T21:47:26.865269+05:30'
-last_checked: '2026-08-10T21:47:26.865269+05:30'
+first_seen: '2026-08-11T00:54:43.981723+05:30'
+last_seen: '2026-08-11T00:54:43.981723+05:30'
+last_checked: '2026-08-11T00:54:43.981723+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6-step guide covering embeddings, vector databases, LLMs, and advanced RAG techniques with reusable Python utilities and hands-on demos.
-- **Production-Ready Code**: Includes working examples and reusable components for building RAG systems from scratch.
-- **Updated Repository**: Last modified on 2026-07-22 with Python as the primary language.
+- **Progressive RAG Tutorial**: Six structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
+- **Technical Stack**: Focuses on embeddings, vector databases, and large language models (LLMs), integrating hands-on demos for practical implementation.
+- **Python-Based Repository**: Provides a Python-centric framework for building and scaling RAG systems, last updated July 2026.
 
 ## Why It Matters
 

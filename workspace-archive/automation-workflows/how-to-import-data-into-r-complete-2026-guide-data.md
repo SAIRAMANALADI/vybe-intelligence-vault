@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Core R packages for data import**: `readr::read_csv()` for CSV, `readxl::read_excel()` for Excel, `rjson::fromJSON()` for JSON, `DBI`/`RSQLite` for SQL databases, and `haven` for SAS/SPSS/Stata files.
-- **Optimized functions for large datasets**: `data.table::fread()` outperforms base R for files ≥1GB, while `arrow::read_parquet()` handles columnar storage efficiently.
-- **Specialized parsing tools**: `xml2` for XML, `rvest::html_table()` for web-scraped HTML tables, and `R.matlab::readMat()
+- **Primary R packages for data import**: `readr::read_csv()` for CSV, `readxl::read_excel()` for Excel, `rjson::fromJSON()` for JSON, `DBI`/`RSQLite` for SQL databases, and `haven` for SAS/SPSS/Stata files.
+- **Optimized functions for large datasets**: `data.table::fread()` outperforms base R for files >1GB due to memory efficiency and speed.
+- **Specialized parsing tools**: `xml2` for XML, `rvest::html_table()` for web-scraped HTML tables, and `arrow::read_parquet()` for columnar storage forma
 
 ## Use Cases
 

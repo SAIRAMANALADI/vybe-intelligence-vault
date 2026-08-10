@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-10T21:48:41.953053+05:30'
+collected_at: '2026-08-11T00:55:59.110161+05:30'
 published_at: '2026-08-10T15:31:06Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-10T21:48:41.953053+05:30'
-last_seen: '2026-08-10T21:48:41.953053+05:30'
-last_checked: '2026-08-10T21:48:41.953053+05:30'
+first_seen: '2026-08-11T00:55:59.110161+05:30'
+last_seen: '2026-08-11T00:55:59.110161+05:30'
+last_checked: '2026-08-11T00:55:59.110161+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while offering customization for diverse use cases.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while supporting customization for existing products.
 
-- **Multi-LLM & Vectorstore Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across infrastructures with support for various file types and integration methods.
+- **Multi-LLM & Vectorstore Agnostic**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector databases (e.g., PGVector, Faiss), enabling flexible deployment across diverse GenAI ecosystems.
 
-- **Tech Stack & Deployment**: Built in Python with React/TypeScript frontend, Dockerized for deployment, and supports PostgreSQL for structured data, emphasizing privacy, security, and ease of integration into existing products.
+- **Full-Stack Integration**: Python-based backend with React/TypeScript frontend, Docker support, and compatibility with various file types, APIs, and databases (PostgreSQL, etc.), emphasizing privacy and security.
 
 ## Why It Matters
 

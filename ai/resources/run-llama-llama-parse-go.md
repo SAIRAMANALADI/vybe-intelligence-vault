@@ -4,13 +4,14 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-go
-collected_at: '2026-08-09T10:18:18.606783+05:30'
+collected_at: '2026-08-11T01:00:26.038508+05:30'
 published_at: '2026-07-31T09:11:24Z'
 tags:
 - github-repo
 - go
 - meta-ai
 - models
+- workflows
 stars: 4
 language: Go
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-06-15T21:38:11Z'
 pushed_at: '2026-08-08T02:14:20Z'
 resource_id: github:run-llama/llama-parse-go
-first_seen: '2026-08-09T10:18:18.606783+05:30'
-last_seen: '2026-08-09T10:18:18.606783+05:30'
-last_checked: '2026-08-09T10:18:18.606783+05:30'
+first_seen: '2026-08-11T01:00:26.038508+05:30'
+last_seen: '2026-08-11T01:00:26.038508+05:30'
+last_checked: '2026-08-11T01:00:26.038508+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Go SDK for LlamaParse**: Provides a Go-based interface for cloud-based OCR and document parsing using LlamaParse's API.
-- **Minimal Repository**: Currently has 4 stars, 0 forks, and no listed topics as of the last update (2026-07-31).
-- **Direct Integration**: Enables Go applications to parse documents (e.g., PDFs) via LlamaParse's cloud service for structured output.
+- **Go SDK for LlamaParse**: Provides a Go-based interface for cloud-based OCR and document parsing using LlamaParse, enabling structured extraction from unstructured documents.
+
+- **Minimal Repository Metrics**: Extremely low adoption with only 4 stars, 0 forks, and no listed topics as of the last update (July 31, 2026).
+
+- **Direct Integration**: Designed for seamless integration with LlamaParse’s cloud services, facilitating document processing workflows in Go applications.
 
 ## Why It Matters
 

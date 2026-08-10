@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-10T21:48:57.006754+05:30'
+collected_at: '2026-08-11T00:56:19.108261+05:30'
 published_at: '2026-08-05T15:22:57Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-10T21:48:57.006754+05:30'
-last_seen: '2026-08-10T21:48:57.006754+05:30'
-last_checked: '2026-08-10T21:48:57.006754+05:30'
+first_seen: '2026-08-11T00:56:19.108261+05:30'
+last_seen: '2026-08-11T00:56:19.108261+05:30'
+last_checked: '2026-08-11T00:56:19.108261+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computing, integrating Llama2 and OpenAI models with fine-tuning capabilities for optimized performance.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows leveraging Ray for distributed computing, with modular components for retrieval, vector storage (e.g., FAISS/Weaviate), and LLM inference (e.g., Llama2, OpenAI APIs).
 
-- **Modular Architecture**: Provides Jupyter Notebook-based examples for scalable LLM serving, retrieval systems, and fine-tuning pipelines, leveraging Ray’s parallel processing for efficient batch inference and training.
+- **Fine-Tuning & Serving Optimization**: Includes notebooks for fine-tuning LLMs (e.g., LoRA adapters) and deploying optimized models via Ray Serve, with benchmarks for latency/throughput in multi-GPU environments.
 
-- **Tooling & Integration**: Includes support for Anyscale endpoints, OpenAI API compatibility, and end-to-end deployment strategies for LLMs, with focus on low-latency serving and cost-effective scaling.
+- **End-to-End Tooling**: Provides reference architectures for CI/CD integration (e.g., Anyscale endpoints), evaluation frameworks (e.g., RAGAS), and cost-efficient serving strategies (e.g., vLLM, speculative decoding).
 
 ## Why It Matters
 

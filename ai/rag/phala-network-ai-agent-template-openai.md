@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-08-10T19:21:49.391862+05:30'
+collected_at: '2026-08-11T00:56:54.145128+05:30'
 published_at: '2026-08-09T15:07:02Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - rag
 - typescript
-- workflows
 stars: 221
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-08-10T19:21:49.391862+05:30'
-last_seen: '2026-08-10T19:21:49.391862+05:30'
-last_checked: '2026-08-10T19:21:49.391862+05:30'
+first_seen: '2026-08-11T00:56:54.145128+05:30'
+last_seen: '2026-08-11T00:56:54.145128+05:30'
+last_checked: '2026-08-11T00:56:54.145128+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Overview**: Provides a TypeScript-based starter kit for deploying AI agents on the Phala Network using OpenAI's API, facilitating secure off-chain computation via Trusted Execution Environments (TEEs).
+- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling decentralized AI agent execution.
 
-- **Core Components**: Integrates OpenAI's function-calling API for agent orchestration, Phala's `phat.js` SDK for on-chain interactions, and a pre-configured Hardhat setup for local development and testing.
+- **Key Components**: Includes pre-configured interfaces for OpenAI API interactions, Phala Network SDK integration, and contract deployment scripts for AI agent logic.
 
-- **Deployment Workflow**: Supports compilation to WASM for on-chain deployment, includes example scripts for agent initialization, and leverages Phala's confidential computing to ensure data privacy during execution.
+- **Technical Stack**: Leverages TypeScript for contract development, OpenAI's API for AI model interactions, and Phala Network's confidential computing for secure off-chain computation.
 
 ## Why It Matters
 

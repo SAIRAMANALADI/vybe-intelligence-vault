@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-10T21:47:36.835482+05:30'
+collected_at: '2026-08-11T00:54:54.042434+05:30'
 published_at: '2026-08-10T12:24:21Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-10T21:47:36.835482+05:30'
-last_seen: '2026-08-10T21:47:36.835482+05:30'
-last_checked: '2026-08-10T21:47:36.835482+05:30'
+first_seen: '2026-08-11T00:54:54.042434+05:30'
+last_seen: '2026-08-11T00:54:54.042434+05:30'
+last_checked: '2026-08-11T00:54:54.042434+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step, from-scratch guide to building Retrieval-Augmented Generation (RAG) systems using local LLMs, emphasizing transparency by avoiding black-box components.
+- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Technical Stack**: Utilizes JavaScript/Node.js with `node-llama-cpp` for local LLM inference, covering embeddings, vector search, retrieval, and context-augmented generation in a single pipeline.
+- **JavaScript-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and demonstrating a full-stack, self-contained RAG pipeline.
 
-- **Purpose & Scope**: Designed as a tutorial for developers to gain hands-on understanding of RAG components, including agents, chatbots, and retrieval pipelines, with no external dependencies on proprietary APIs.
+- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for developers to understand and implement RAG systems locally, emphasizing transparency and educational value.
 
 ## Why It Matters
 

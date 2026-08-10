@@ -4,16 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveebbelaar/ai-cookbook
-collected_at: '2026-08-10T21:49:22.005827+05:30'
-published_at: '2026-08-09T01:25:48Z'
+collected_at: '2026-08-11T00:56:39.121372+05:30'
+published_at: '2026-08-10T17:06:02Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - openai
 - python
 - reddit
-stars: 4363
+- workflows
+stars: 4364
 language: Python
 status: active
 license: MIT
@@ -21,9 +23,9 @@ archived: false
 created_at: '2025-01-30T15:14:29Z'
 pushed_at: '2026-07-09T07:55:18Z'
 resource_id: github:daveebbelaar/ai-cookbook
-first_seen: '2026-08-10T21:49:22.005827+05:30'
-last_seen: '2026-08-10T21:49:22.005827+05:30'
-last_checked: '2026-08-10T21:49:22.005827+05:30'
+first_seen: '2026-08-11T00:56:39.121372+05:30'
+last_seen: '2026-08-11T00:56:39.121372+05:30'
+last_checked: '2026-08-11T00:56:39.121372+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `daveebbelaar/ai-cookbook` provides practical examples and tutorials for building AI systems, with a focus on Python-based implementations.
-
-- **Key Features**: Covers topics such as AI agents, large language models (LLMs), and integrations with Anthropic, OpenAI, and other AI frameworks.
-
-- **Metadata**: 4,363 stars, 1,544 forks, last updated on August 9, 2026, with active development in AI/ML tooling and applications.
+- **Repository Overview**: Python-based AI cookbook with 4,364 stars and 1,544 forks, featuring examples and tutorials for building AI systems using agents, LLMs, and APIs from Anthropic and OpenAI.
+- **Technical Focus**: Demonstrates practical implementations of AI workflows, including agent-based architectures and LLM integrations, optimized for Python.
+- **Last Updated**: Repository last modified on **2026-08-10**, ensuring recent examples and compatibility with current AI tooling.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: daveebbelaar
-- Stars: 4363
+- Stars: 4364
 - Forks: 1544
 - Language: Python
 - Topics: agents, ai, anthropic, llm, openai, python
-- Last Updated: 2026-08-09T01:25:48Z
+- Last Updated: 2026-08-10T17:06:02Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-30T15:14:29Z

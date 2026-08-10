@@ -4,23 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-10T21:51:32.092338+05:30'
-published_at: '2026-08-10T15:03:28Z'
+collected_at: '2026-08-11T00:58:49.266895+05:30'
+published_at: '2026-08-10T17:57:24Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 576
+- workflows
+stars: 580
 language: Python
 status: active
 archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-10T21:51:32.092338+05:30'
-last_seen: '2026-08-10T21:51:32.092338+05:30'
-last_checked: '2026-08-10T21:51:32.092338+05:30'
+first_seen: '2026-08-11T00:58:49.266895+05:30'
+last_seen: '2026-08-11T00:58:49.266895+05:30'
+last_checked: '2026-08-11T00:58:49.266895+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements 4 specialized AI agents for A-share market analysis, leveraging CrewAI for coordinated collaboration.
-- **Data Integration**: Utilizes AKShare for real-time A-share data, including stock quotes, financials, fund flows, and market sentiment.
-- **Optimized Analysis**: Tailored for Chinese stock market nuances, providing automated investment recommendations via structured data processing.
+- **Multi-Agent System**: Implements 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision maker) using CrewAI for collaborative A-share investment analysis.
+- **Data Integration**: Leverages AKShare for real-time A-share metrics (quotes, financials, fund flows, sentiment) and optimizes analysis for Chinese market nuances.
+- **Automated Insights**: Generates actionable investment recommendations by synthesizing multi-source data through agentic workflows.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: liangdabiao
-- Stars: 576
-- Forks: 115
+- Stars: 580
+- Forks: 116
 - Language: Python
 - Topics: agent
-- Last Updated: 2026-08-10T15:03:28Z
+- Last Updated: 2026-08-10T17:57:24Z
 - Archived: No
 - Created At: 2025-09-26T11:16:52Z
 - Pushed At: 2026-05-07T01:07:08Z

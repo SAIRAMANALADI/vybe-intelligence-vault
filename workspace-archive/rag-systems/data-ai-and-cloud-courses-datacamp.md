@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- Covers Python fundamentals for data science, including interface and package usage (e.g., NumPy, pandas).
-- Targets beginners with a 4-hour duration and 4.8+ average rating from 9,367 reviews.
-- Focuses on practical data analysis skills without prior programming experience required.
+- Covers Python fundamentals for data science, including syntax, data structures, and basic operations in a 4-hour introductory course.
+- Introduces key Python packages for data analysis (e.g., NumPy, Pandas) and demonstrates their practical applications.
+- Designed for beginners, requiring no prior programming experience, with hands-on exercises and a 4.8+ average rating from 9,387 reviews.
 
 ## Use Cases
 

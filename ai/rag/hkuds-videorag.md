@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-08-10T21:49:02.006435+05:30'
+collected_at: '2026-08-11T00:56:19.116328+05:30'
 published_at: '2026-08-10T16:01:27Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-08-10T21:49:02.006435+05:30'
-last_seen: '2026-08-10T21:49:02.006435+05:30'
-last_checked: '2026-08-10T21:49:02.006435+05:30'
+first_seen: '2026-08-11T00:56:19.116328+05:30'
+last_seen: '2026-08-11T00:56:19.116328+05:30'
+last_checked: '2026-08-11T00:56:19.116328+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interact with video content via multi-modal embeddings and retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long videos via multi-modal inputs (video + text), leveraging temporal segmentation and hierarchical retrieval for efficient long-video understanding.
 
-- **Technical Stack**: Implements Python-based multi-modal LLMs with support for long-video processing, leveraging advanced retrieval techniques for context-aware video queries.
+- **Architecture**: Implements a two-stage pipeline—(1) **video chunking** with adaptive temporal segmentation to handle variable-length content, and (2) **multi-modal retrieval** combining visual, audio, and textual features for context-aware LLM responses.
 
-- **KDD'2026 Contribution**: Proposes a novel approach to video-LLM interaction, optimizing for scalable retrieval and generation in untrimmed video scenarios.
+- **Optimizations**: Features dynamic keyframe selection, cross-modal attention mechanisms, and a lightweight indexing system to reduce latency while maintaining high retrieval accuracy for long-duration videos.
 
 ## Why It Matters
 

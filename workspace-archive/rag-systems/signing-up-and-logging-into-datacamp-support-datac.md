@@ -6,10 +6,10 @@ source_url: https://support.datacamp.com/hc/en-us/articles/360010018054
 resource_id: blog:signing-up-and-logging-into-datacamp-support-datac
 local_vault_path: ai/rag/signing-up-and-logging-into-datacamp-support-datac.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - rag
 - web-crawled
@@ -23,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Account Creation**: Users can sign up via email/password or third-party OAuth (Google, LinkedIn, Facebook); email uniqueness enforced; no social password storage.
-- **Authentication**: Login via email/password or OAuth; password reset supported via [DataCamp’s official guide](https://support.datacamp.com/hc/en-us/articles/360002261654).
-- **Subscription Access**: Post-registration, users must purchase a subscription to unlock premium content; plans outlined [here](https://support.datacamp.co
+- **Account Creation**: Users can sign up via email/password or OAuth (Google, LinkedIn, Facebook); email must be unique, and OAuth accounts avoid password storage by DataCamp.
+- **Authentication**: Login requires email/password or OAuth integration; password reset is supported via [DataCamp’s password reset guide](https://support.datacamp.com/hc/en-us/articles/360002261654).
+- **Access Control**: Post-authentication, users must subscribe to access content; subscription plans are detailed [here]
 
 ## Use Cases
 

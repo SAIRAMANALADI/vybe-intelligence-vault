@@ -13,13 +13,14 @@ collected_at: '2026-08-10T21:46:25.282343+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pervert-glasses-backlash-against-meta-s-smart-glas
 first_seen: '2026-08-10T21:46:25.282343+05:30'
 last_seen: '2026-08-10T21:46:25.282343+05:30'
 last_checked: '2026-08-10T21:46:25.282343+05:30'
 health_score: 100
 ---
+
 
 # 'Pervert glasses': Backlash against Meta's smart glasses grows
 

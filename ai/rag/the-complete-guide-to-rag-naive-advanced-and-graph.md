@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-08-10T21:47:34.292669+05:30'
-collected_at: '2026-08-10T21:47:34.292680+05:30'
+published_at: '2026-08-11T00:54:53.841460+05:30'
+collected_at: '2026-08-11T00:54:53.841474+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-08-10T21:47:34.292680+05:30'
-last_seen: '2026-08-10T21:47:34.292680+05:30'
-last_checked: '2026-08-10T21:47:34.292680+05:30'
+first_seen: '2026-08-11T00:54:53.841474+05:30'
+last_seen: '2026-08-11T00:54:53.841474+05:30'
+last_checked: '2026-08-11T00:54:53.841474+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** integrates external knowledge retrieval with LLM generation to address limitations in freshness, private knowledge, and hallucination, evolving through Naive, Advanced, Modular, and Graph-based architectures.
+- **RAG (Retrieval-Augmented Generation)** combines retrieval, augmentation, and generation, formalized by Lewis et al. (2020), addressing LLM limitations in freshness, private knowledge, and hallucination by dynamically pulling external, up-to-date, and verifiable data during inference.
 
-- **Advanced RAG** enhances retrieval via hybrid search, query rewriting, reranking, and contextual compression, while **Graph RAG** leverages entity-relation graphs for multi-hop reasoning, improving accuracy in relational knowledge tasks.
+- **Evolution of RAG** spans four generations: *Naive RAG* (basic vector search + LLM generation), *Advanced RAG* (hybrid retrieval, reranking, query transformation), *Modular RAG* (dynamic routing, tool integration, self-evaluation), and *Graph RAG* (entity-relation graph traversal for multi-hop reasoning, e.g., Microsoft GraphRAG).
 
-- **Operational considerations** include evaluation metrics, production checklists, and alternatives like LLM Wiki systems, with modular tooling (LangChain, LlamaIndex) and vector/graph databases (Chroma, Qdrant, Neo4j) enabling scalable implementations.
+- **Key Techniques & Tools**: Dense/sparse retrieval (BM25, HNSW), modular frameworks (LangChain LCEL, LlamaIndex), and vector/graph databases (Chroma, Weaviate, NetworkX) enable scalable, hybrid, and graph-based RAG implementations with evaluation metrics (e.g., RRF, MMR) for performance optimization.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T21:47:34.292669+05:30
+- Published: 2026-08-11T00:54:53.841460+05:30
 
 ## Related Tags
 

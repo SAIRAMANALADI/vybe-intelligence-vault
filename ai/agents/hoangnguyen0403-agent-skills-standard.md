@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-10T21:49:56.980349+05:30'
+collected_at: '2026-08-11T00:57:14.241686+05:30'
 published_at: '2026-08-10T10:46:21Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- reddit
 - typescript
-- workflows
 stars: 539
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-10T21:49:56.980349+05:30'
-last_seen: '2026-08-10T21:49:56.980349+05:30'
-last_checked: '2026-08-10T21:49:56.980349+05:30'
+first_seen: '2026-08-11T00:57:14.241686+05:30'
+last_seen: '2026-08-11T00:57:14.241686+05:30'
+last_checked: '2026-08-11T00:57:14.241686+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized **Agent Skills** and best practices for programming languages/frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot) to guide AI agents in adhering to framework-specific coding standards.
-
-- **Key Features**: Provides **cursor rules**, **coding standards**, and **best-practice guidelines** for AI agents to optimize code generation, maintainability, and framework-specific conventions across multiple tech stacks.
-
-- **Metadata**: 539 stars, 158 forks, last updated **2026-08-10**; structured as a reference repository for AI-driven development workflows.
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages and frameworks, designed to guide AI agents in adhering to coding standards.
+- **Scope & Topics**: Covers best practices for Android, Angular, Flutter, Go, iOS, Kotlin, Laravel, NestJS, Next.js, React, React Native, Spring Boot, and TypeScript, with structured rules for AI agents.
+- **Metadata**: 539 stars, 158 forks, last updated on 2026-08-10, and includes `.cursor/rules` files for agent guidance.
 
 ## Why It Matters
 

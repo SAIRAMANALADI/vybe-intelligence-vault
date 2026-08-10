@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-08-10T21:53:11.334061+05:30'
-collected_at: '2026-08-10T21:53:11.334071+05:30'
+published_at: '2026-08-11T01:00:26.481047+05:30'
+collected_at: '2026-08-11T01:00:26.481057+05:30'
 tags:
 - agents
 - anthropic
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-08-10T21:53:11.334071+05:30'
-last_seen: '2026-08-10T21:53:11.334071+05:30'
-last_checked: '2026-08-10T21:53:11.334071+05:30'
+first_seen: '2026-08-11T01:00:26.481057+05:30'
+last_seen: '2026-08-11T01:00:26.481057+05:30'
+last_checked: '2026-08-11T01:00:26.481057+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
+- **Core Libraries**: LangChain/LangChain.js provide modular components and integrations for LLM application development, while LangGraph/LangGraph.js enable agent construction via graph-based workflows; Deep Agents/Deep Agents.js support hierarchical agent planning with filesystem access.
 
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for advanced task execution.
+- **Commercial & Extensible Tools**: LangSmith offers a production-grade platform for deploying and monitoring LLM applications; extensions like `dcode` (terminal-based coding agent), Open SWE (asynchronous coding agent), and MCP Adapters bridge tooling compatibility.
 
-- **Commercial & OSS Extensions**: LangSmith offers production-grade LLM application monitoring, while tools like `dcode`, Open SWE, and MCP Adapters extend functionality for coding, automation, and tool integration.
+- **Standardization & Documentation**: Agent Protocol defines framework-agnostic APIs for production agent serving; OpenWiki generates/maintains codebase wikis; unified documentation and community resources (forum, academy) support ecosystem adoption.
 
 ## Why It Matters
 
@@ -40,14 +39,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T21:53:11.334061+05:30
+- Published: 2026-08-11T01:00:26.481047+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube

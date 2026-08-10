@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-08-10T21:50:27.262874+05:30'
-published_at: '2026-08-10T07:50:31Z'
+collected_at: '2026-08-11T00:57:49.153740+05:30'
+published_at: '2026-08-10T19:03:19Z'
 tags:
 - agents
 - github-repo
 - go
-- hackernews
 stars: 817
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-03-23T00:51:19Z'
-pushed_at: '2026-08-10T13:37:45Z'
+pushed_at: '2026-08-10T19:02:34Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-08-10T21:50:27.262874+05:30'
-last_seen: '2026-08-10T21:50:27.262874+05:30'
-last_checked: '2026-08-10T21:50:27.262874+05:30'
+first_seen: '2026-08-11T00:57:49.153740+05:30'
+last_seen: '2026-08-11T00:57:49.153740+05:30'
+last_checked: '2026-08-11T00:57:49.153740+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: DefenseClaw is a security governance framework designed to secure agentic AI systems by enforcing policy-driven controls, monitoring agent behavior, and mitigating risks in real-time.
+- **Purpose**: DefenseClaw is a Go-based framework designed for security governance in agentic AI systems, enabling policy enforcement and compliance monitoring.
 
-- **Technical Stack**: Implemented in Go, it provides low-latency policy enforcement, agent activity logging, and integration with AI orchestration platforms for dynamic threat detection.
+- **Key Features**: Implements runtime security controls, audit logging, and threat detection mechanisms tailored for AI agents.
 
-- **Features**: Includes role-based access control (RBAC), audit trails, and automated incident response for AI agents, ensuring compliance with security policies and regulatory requirements.
+- **Repository Status**: Last updated on 2026-08-10, with 817 stars and 140 forks, indicating active community engagement.
 
 ## Why It Matters
 
@@ -46,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 140
 - Language: Go
 - Topics: None
-- Last Updated: 2026-08-10T07:50:31Z
+- Last Updated: 2026-08-10T19:03:19Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-23T00:51:19Z
-- Pushed At: 2026-08-10T13:37:45Z
+- Pushed At: 2026-08-10T19:02:34Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-10T21:48:06.940130+05:30'
+collected_at: '2026-08-11T00:55:24.123515+05:30'
 published_at: '2026-08-10T03:43:25Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-10T21:48:06.940130+05:30'
-last_seen: '2026-08-10T21:48:06.940130+05:30'
-last_checked: '2026-08-10T21:48:06.940130+05:30'
+first_seen: '2026-08-11T00:55:24.123515+05:30'
+last_seen: '2026-08-11T00:55:24.123515+05:30'
+last_checked: '2026-08-11T00:55:24.123515+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in a LangChain-based RAG pipeline for enhanced document retrieval accuracy.
+- **Hybrid Search Integration**: Demonstrates combining vector-based similarity search with keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval performance.
 
-- **Streamlit UI**: Provides a web interface using Streamlit to interact with the RAG system, enabling users to input queries and view retrieved results with hybrid search.
+- **LangChain RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) workflow with a vector store (e.g., FAISS or Chroma) for document storage and retrieval, integrated with a language model (e.g., Hugging Face transformers) for contextual generation.
 
-- **Vectorstore Utilization**: Implements a vector database (e.g., FAISS, Chroma) for storing and querying embeddings, integrated with LangChain’s retrieval and generation workflows.
+- **Streamlit UI**: Provides a real-time interactive web interface via Streamlit to visualize and query the RAG system, including dynamic input/output handling and result display.
 
 ## Why It Matters
 

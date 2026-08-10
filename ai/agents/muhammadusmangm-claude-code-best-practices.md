@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-10T21:49:56.985387+05:30'
+collected_at: '2026-08-11T00:57:19.139556+05:30'
 published_at: '2026-08-04T06:02:01Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
 stars: 68
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-10T21:49:56.985387+05:30'
-last_seen: '2026-08-10T21:49:56.985387+05:30'
-last_checked: '2026-08-10T21:49:56.985387+05:30'
+first_seen: '2026-08-11T00:57:19.139556+05:30'
+last_seen: '2026-08-11T00:57:19.139556+05:30'
+last_checked: '2026-08-11T00:57:19.139556+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tooling**, **LLM integration**, and **MCP (Model Context Protocol)** patterns, with Shell scripts for automation and configuration.
-- **Metadata**: 68 stars, 15 forks, last updated **2026-08-04**; topics include `agentic-ai`, `anthropic`, `claude-code`, and `developer-tools`.
+- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily shell-based repository covering CLI tools, MCP (Model Context Protocol), and integration with Anthropic's LLM frameworks.
+- **Maintenance & Updates**: Last updated in August 2026, with 68 stars and 15 forks, indicating active community engagement in agentic AI and developer tooling.
 
 ## Why It Matters
 

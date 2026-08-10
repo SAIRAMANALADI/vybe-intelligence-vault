@@ -4,19 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog
-published_at: '2026-08-09T03:25:31.537020+05:30'
-collected_at: '2026-08-09T03:25:31.537036+05:30'
+published_at: '2026-08-11T01:01:05.602255+05:30'
+collected_at: '2026-08-11T01:01:05.602270+05:30'
 tags:
 - rag
 - reddit
-- scripts
 - web-crawled
-- workflows
 status: active
 resource_id: blog:home-the-github-blog
-first_seen: '2026-08-09T03:25:31.537036+05:30'
-last_seen: '2026-08-09T03:25:31.537036+05:30'
-last_checked: '2026-08-09T03:25:31.537036+05:30'
+first_seen: '2026-08-11T01:01:05.602270+05:30'
+last_seen: '2026-08-11T01:01:05.602270+05:30'
+last_checked: '2026-08-11T01:01:05.602270+05:30'
 health_score: 100
 ---
 
@@ -24,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Slash commands in GitHub Copilot app** enable advanced workflows by extending beyond basic chat interactions, allowing users to **plan, collaborate, automate, and customize** development processes via structured inputs.
+- **Java Integration**: GitHub Copilot SDK enables enterprise Java developers to programmatically interact with Copilot using idiomatic Java, leveraging annotations and virtual threads for enhanced performance and usability.
 
-- **Key slash commands** include `/plan` for task breakdown, `/automate` for workflow scripting, and `/customize` for tool configuration, facilitating **context-aware automation** within the IDE.
+- **Annotations & Virtual Threads**: The SDK supports annotations for seamless integration and virtual threads for efficient concurrency, allowing developers to drive Copilot's capabilities directly from Java code.
 
-- **Integration with GitHub ecosystem** ensures slash commands leverage repository data, enabling **real-time collaboration** and **contextual AI assistance** for developers.
+- **Enterprise Use Case**: Designed for enterprise Java environments, the SDK provides a robust framework for integrating Copilot's AI-driven features into existing Java applications.
 
 ## Why It Matters
 
@@ -38,15 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T03:25:31.537020+05:30
+- Published: 2026-08-11T01:01:05.602255+05:30
 
 ## Related Tags
 
 - rag
 - reddit
-- scripts
 - web-crawled
-- workflows
 
 ## Source
 

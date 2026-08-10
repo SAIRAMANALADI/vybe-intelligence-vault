@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub Learn provides interactive, hands-on tutorials for mastering Git and GitHub workflows.
-- Skills include version control, branching, pull requests, and CI/CD integration via guided exercises.
-- Tracks cover foundational to advanced topics with real-world project simulations.
+- GitHub Learn provides interactive, project-based tutorials for mastering Git and GitHub workflows.
+- Skills include version control, branching, pull requests, and CI/CD integration via hands-on exercises.
+- Content is structured for beginners to advanced users, with real-world scenarios and automated feedback.
 
 ## Use Cases
 

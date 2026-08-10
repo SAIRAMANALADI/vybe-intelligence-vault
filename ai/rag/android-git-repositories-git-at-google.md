@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-08-10T21:56:43.379618+05:30'
-collected_at: '2026-08-10T21:56:43.379633+05:30'
+published_at: '2026-08-11T01:03:21.744154+05:30'
+collected_at: '2026-08-11T01:03:21.744172+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-08-10T21:56:43.379633+05:30'
-last_seen: '2026-08-10T21:56:43.379633+05:30'
-last_checked: '2026-08-10T21:56:43.379633+05:30'
+first_seen: '2026-08-11T01:03:21.744172+05:30'
+last_seen: '2026-08-11T01:03:21.744172+05:30'
+last_checked: '2026-08-11T01:03:21.744172+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS, kernel, device-specific code, and accessories.
+- **Official Android Git Repository**: Hosted at `android.googlesource.com`, containing kernel, device, and accessory-specific repositories (e.g., `device/google/bluejay`, `device/google/coral`) with associated kernel (`*-kernel`) and SELinux policy (`*-sepolicy`) branches.
 
-- **Device-Specific Branches**: Multiple device-specific repositories (e.g., `device/google/bluejay`, `device/google/pantah`) include kernel (`*-kernel`), sepolicy (`*-sepolicy`), and kernel version branches (e.g., `5.10`, `6.1`) for hardware-specific development.
+- **Hardware-Specific Branches**: Multiple device-specific kernels (e.g., `*-kernels/6.1`) and SELinux policies (`*-sepolicy`) for platforms like `barbet`, `bluejay`, `lynx`, and `pantah`, indicating active development for Android 12/13+ (kernel 5.10/6.1).
 
-- **Accessory & Emulator Support**: Repositories like `device/google/accessory/arduino` and `device/generic/mini-emulator-*` provide hardware accessory integration and emulator configurations for ARM, x86, and MIPS architectures.
+- **Accessory & Emulation Support**: Includes repositories for Android accessories (e.g., `device/google/accessory/arduino`) and emulator/device emulation (e.g., `device/generic/goldfish`, `device/generic/arm64`), alongside Cuttlefish virtual device support (`device/google/cuttlefish*`).
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T21:56:43.379618+05:30
+- Published: 2026-08-11T01:03:21.744154+05:30
 
 ## Related Tags
 

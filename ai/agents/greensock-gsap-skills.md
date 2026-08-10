@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-08-10T21:49:52.007833+05:30'
-published_at: '2026-08-10T15:42:56Z'
+collected_at: '2026-08-11T00:57:09.141642+05:30'
+published_at: '2026-08-10T19:23:29Z'
 tags:
 - agents
 - animation
 - github-repo
 - hackernews
 - unknown
-- workflows
-stars: 13353
+stars: 13361
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-07-29T17:36:08Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-08-10T21:49:52.007833+05:30'
-last_seen: '2026-08-10T21:49:52.007833+05:30'
-last_checked: '2026-08-10T21:49:52.007833+05:30'
+first_seen: '2026-08-11T00:57:09.141642+05:30'
+last_seen: '2026-08-11T00:57:09.141642+05:30'
+last_checked: '2026-08-11T00:57:09.141642+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured training for AI agents to master GSAP (GreenSock Animation Platform), covering animation best practices, common patterns, and plugin integration.
-- **Technical Focus**: Includes optimization techniques, performance considerations, and advanced animation workflows for scalable GSAP implementations.
-- **Repository Metadata**: 13,353 stars, 788 forks, last updated 2026-08-10; language unspecified but likely JavaScript/TypeScript-based given GSAP's ecosystem.
+- **GSAP AI Skills Repository**: Provides structured training for AI agents to master GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
+- **Technical Scope**: Focuses on teaching AI-driven coding agents optimal GSAP usage, including performance considerations and advanced animation techniques.
+- **Metadata**: 13,361 stars, 788 forks; last updated August 10, 2026. Language and topics unspecified in the provided data.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 13353
+- Stars: 13361
 - Forks: 788
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-10T15:42:56Z
+- Last Updated: 2026-08-10T19:23:29Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/enescingoz/awesome-n8n-templates
-collected_at: '2026-08-10T21:47:41.881559+05:30'
-published_at: '2026-08-10T15:32:34Z'
+collected_at: '2026-08-11T00:54:59.017369+05:30'
+published_at: '2026-08-10T19:07:17Z'
 tags:
 - agents
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - scripts
 - unknown
 - workflows
-stars: 24582
+stars: 24590
 language: Unknown
 status: active
 license: NOASSERTION
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-05-08T18:34:01Z'
 pushed_at: '2026-08-07T20:22:44Z'
 resource_id: github:enescingoz/awesome-n8n-templates
-first_seen: '2026-08-10T21:47:41.881559+05:30'
-last_seen: '2026-08-10T21:47:41.881559+05:30'
-last_checked: '2026-08-10T21:47:41.881559+05:30'
+first_seen: '2026-08-11T00:54:59.017369+05:30'
+last_seen: '2026-08-11T00:54:59.017369+05:30'
+last_checked: '2026-08-11T00:54:59.017369+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Extensive Template Library**: 280+ pre-built n8n automation workflows covering integrations with Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more.
-- **Diverse Use Cases**: Includes AI agents, RAG chatbots, email automation, social media management, DevOps pipelines, and document processing workflows.
-- **Open-Source & Self-Hostable**: Curated collection of low-code/no-code templates for n8n, optimized for self-hosted automation with 24.5k+ stars and 6.3k+ forks.
+- **Collection**: 280+ open-source n8n automation templates covering Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more.
+- **Features**: Includes AI agents, RAG chatbots, email automation, social media, DevOps, and document processing workflows.
+- **Metadata**: 24,590 stars, 6,353 forks, last updated 2026-08-10, categorized under AI automation, low-code/no-code, and self-hosted integrations.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: enescingoz
-- Stars: 24582
+- Stars: 24590
 - Forks: 6353
 - Language: Unknown
 - Topics: ai-agents, ai-automation, automation, automation-templates, awesome, awesome-list, integration, low-code, n8n, n8n-automation, n8n-template, no-code-ai, no-code-automation, self-hosted, telegram-bot, workflow-automation
-- Last Updated: 2026-08-10T15:32:34Z
+- Last Updated: 2026-08-10T19:07:17Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-05-08T18:34:01Z

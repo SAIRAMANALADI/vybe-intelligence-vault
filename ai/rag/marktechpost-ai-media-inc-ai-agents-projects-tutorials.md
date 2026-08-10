@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-10T21:49:21.992737+05:30'
+collected_at: '2026-08-11T00:56:39.134681+05:30'
 published_at: '2026-08-10T10:08:28Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-09T11:17:00Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-10T21:49:21.992737+05:30'
-last_seen: '2026-08-10T21:49:21.992737+05:30'
-last_checked: '2026-08-10T21:49:21.992737+05:30'
+first_seen: '2026-08-11T00:56:39.134681+05:30'
+last_seen: '2026-08-11T00:56:39.134681+05:30'
+last_checked: '2026-08-11T00:56:39.134681+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed tasks, communication protocols, and role specialization for complex workflows.
-- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning cycles to enhance agent decision-making and task execution.
-- **Agentic frameworks**: Provides tutorials on building autonomous AI agents with skills like planning, RAG integration, and adaptive workflow orchestration.
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed roles, communication protocols, and task delegation for complex workflows.
+- **Memory & Reasoning Loops**: Implements persistent memory architectures (e.g., vector databases, graph-based storage) and iterative reasoning loops for adaptive decision-making.
+- **Agentic Frameworks**: Demonstrates agentic RAG (Retrieval-Augmented Generation), planning algorithms, and modular agentic development using Jupyter Notebooks.
 
 ## Why It Matters
 

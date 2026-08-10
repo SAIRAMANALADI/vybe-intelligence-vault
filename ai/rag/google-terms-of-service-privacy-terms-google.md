@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/terms
-published_at: '2026-08-10T19:25:20.948369+05:30'
-collected_at: '2026-08-10T19:25:20.948384+05:30'
+published_at: '2026-08-11T01:00:18.054754+05:30'
+collected_at: '2026-08-11T01:00:18.054768+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-08-10T19:25:20.948384+05:30'
-last_seen: '2026-08-10T19:25:20.948384+05:30'
-last_checked: '2026-08-10T19:25:20.948384+05:30'
+first_seen: '2026-08-11T01:00:18.054768+05:30'
+last_seen: '2026-08-11T01:00:18.054768+05:30'
+last_checked: '2026-08-11T01:00:18.054768+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Jurisdiction**: Google LLC, headquartered in Mountain View, CA (USA), operates under Delaware state laws and U.S. federal regulations, serving as the contracting entity for all Google services.
+- **Legal Entity & Jurisdiction**: Google LLC, a Delaware-registered entity under U.S. law, provides services from Mountain View, California, with service-specific terms and age requirements enforced.
 
-- **Automated Updates & AI Integration**: Google services employ AI/ML for real-time improvements (e.g., spam detection, translations) with automatic software updates; material changes require advance notice unless urgent (e.g., security fixes).
+- **Service Provision & AI Integration**: Google services (Search, Maps, Shopping, etc.) are continuously developed using AI/ML for features like real-time translation, spam detection, and automated updates, with material changes requiring advance notice unless urgent.
 
-- **Content & Abuse Policies**: Users retain IP rights to their content but grant Google a license for service operation; prohibited activities include reverse engineering, AI-generated content misuse, automated scraping (e.g., violating `robots.txt`), and fraudulent impersonation.
+- **User Obligations & Content Licensing**: Users must comply with terms prohibiting abuse (e.g., malware, reverse engineering, AI model training from outputs) while granting Google a license to use submitted content, retaining user IP rights.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T19:25:20.948369+05:30
+- Published: 2026-08-11T01:00:18.054754+05:30
 
 ## Related Tags
 

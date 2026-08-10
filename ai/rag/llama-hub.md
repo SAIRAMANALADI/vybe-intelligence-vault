@@ -3,9 +3,9 @@ title: Llama Hub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://llamahub.ai/
-published_at: '2026-08-09T19:02:31.182419+05:30'
-collected_at: '2026-08-09T19:02:31.182431+05:30'
+source_url: https://llamahub.ai
+published_at: '2026-08-11T01:02:08.073187+05:30'
+collected_at: '2026-08-11T01:02:08.073202+05:30'
 tags:
 - agents
 - dataset
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:llama-hub
-first_seen: '2026-08-09T19:02:31.182431+05:30'
-last_seen: '2026-08-09T19:02:31.182431+05:30'
-last_checked: '2026-08-09T19:02:31.182431+05:30'
+first_seen: '2026-08-11T01:02:08.073202+05:30'
+last_seen: '2026-08-11T01:02:08.073202+05:30'
+last_checked: '2026-08-11T01:02:08.073202+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: LlamaHub provides a repository of plug-and-play components (Data Loaders, Agent Tools, Llama Packs, and Datasets) to accelerate custom RAG application development, compatible with frameworks like LlamaIndex and LangChain.
+- **Modular RAG Framework**: LlamaHub provides a repository of modular components (Data Loaders, Agent Tools, LlamaPacks, and LlamaDatasets) to rapidly prototype and customize Retrieval-Augmented Generation (RAG) applications across frameworks like LlamaIndex, LangChain, etc.
 
-- **Extensible Integration System**: Supports dynamic addition of new data sources and utilities via GitHub contributions, enabling community-driven expansion of supported formats and tools.
+- **Integration-Centric Design**: Supports seamless integration with diverse data sources and knowledge bases via standardized interfaces, enabling plug-and-play functionality for LLM applications.
 
-- **Multi-Language Support**: Offers Python-based core tools (LlamaIndex) and TypeScript alternatives (LlamaIndex TS), with documentation and SDKs for cross-language RAG deployment.
+- **Open-Source Ecosystem**: Hosted on GitHub with contributor-friendly guidelines, facilitating community-driven expansion of supported tools, datasets, and integrations.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T19:02:31.182419+05:30
+- Published: 2026-08-11T01:02:08.073187+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://llamahub.ai/
+Original source: https://llamahub.ai

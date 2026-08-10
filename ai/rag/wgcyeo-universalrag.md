@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-10T21:49:06.973047+05:30'
+collected_at: '2026-08-11T00:56:24.096156+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
+- benchmark
+- dataset
 - github-repo
-- paper
 - python
 - rag
 stars: 174
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-10T21:49:06.973047+05:30'
-last_seen: '2026-08-10T21:49:06.973047+05:30'
-last_checked: '2026-08-10T21:49:06.973047+05:30'
+first_seen: '2026-08-11T00:56:24.096156+05:30'
+last_seen: '2026-08-11T00:56:24.096156+05:30'
+last_checked: '2026-08-11T00:56:24.096156+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, entity-level) within a unified architecture.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence, entity-level), leveraging unified embeddings and cross-modal retrieval mechanisms.
 
-- **Modality-Agnostic Retrieval**: Implements a flexible retrieval mechanism using modality-specific encoders and a shared embedding space, enabling cross-modal retrieval and fusion for improved generation quality.
+- **ACL 2026 Oral Contribution**: Presents an advanced RAG system with novel architecture for handling heterogeneous corpora, integrating modality-specific encoders, a unified retrieval index, and a generative model optimized for cross-modal synthesis.
 
-- **ACL 2026 Oral Presentation**: Presented as an oral paper at ACL 2026, highlighting advancements in universal RAG systems for heterogeneous corpora, with open-source implementation in Python.
+- **Open-Source Implementation**: Provides a Python-based, modular implementation with pre-trained models, retrieval pipelines, and evaluation tools, supporting extensibility for custom datasets and modalities.
 
 ## Why It Matters
 

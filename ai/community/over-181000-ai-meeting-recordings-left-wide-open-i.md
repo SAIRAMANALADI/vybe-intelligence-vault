@@ -13,13 +13,14 @@ collected_at: '2026-08-10T21:46:25.760720+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:over-181000-ai-meeting-recordings-left-wide-open-i
 first_seen: '2026-08-10T19:18:43.893871+05:30'
 last_seen: '2026-08-10T21:46:25.760720+05:30'
 last_checked: '2026-08-10T21:46:25.760720+05:30'
 health_score: 100
 ---
+
 
 # Over 181,000 AI meeting recordings left wide open in note taking app
 

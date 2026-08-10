@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-10T21:48:16.867793+05:30'
+collected_at: '2026-08-11T00:55:34.082462+05:30'
 published_at: '2026-08-09T19:25:31Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 192
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-07T20:01:09Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-10T21:48:16.867793+05:30'
-last_seen: '2026-08-10T21:48:16.867793+05:30'
-last_checked: '2026-08-10T21:48:16.867793+05:30'
+first_seen: '2026-08-11T00:55:34.082462+05:30'
+last_seen: '2026-08-11T00:55:34.082462+05:30'
+last_checked: '2026-08-11T00:55:34.082462+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: Repository compiling production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, emphasizing battle-tested solutions.
-
-- **Technical scope**: Focuses on Python-based implementations, covering embeddings, vector databases, LLM integration (LangChain), and MLOps/LLMops practices for AI engineering.
-
-- **Metadata**: 192 stars, 49 forks, last updated 2026-08-09; includes topics like generative AI, large language models (LLMs), and retrieval-augmented generation (RAG).
+- **Curated Resource**: Repository providing a vetted collection of production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, emphasizing deployment-ready solutions.
+- **Technical Scope**: Focuses on Python-based implementations covering embeddings, vector databases, LLM integration (LangChain), and MLOps/LLMOps workflows for end-to-end RAG pipelines.
+- **Community & Updates**: Actively maintained (last updated Aug 2026) with 192 stars and 50 forks, targeting AI/ML engineers and researchers building enterprise-grade generative AI systems.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Yigtwxx
 - Stars: 192
-- Forks: 49
+- Forks: 50
 - Language: Python
 - Topics: ai, ai-engineering, artificial-intelligence, awesome, awesome-list, curated-list, embeddings, generative-ai, langchain, large-language-models, list, llm, llmops, machine-learning, mlops, production, python, rag, retrieval-augmented-generation, vector-database
 - Last Updated: 2026-08-09T19:25:31Z

@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-10T21:49:02.007898+05:30'
+collected_at: '2026-08-11T00:56:19.111909+05:30'
 published_at: '2026-08-09T00:39:07Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-10T21:49:02.007898+05:30'
-last_seen: '2026-08-10T21:49:02.007898+05:30'
-last_checked: '2026-08-10T21:49:02.007898+05:30'
+first_seen: '2026-08-11T00:56:19.111909+05:30'
+last_seen: '2026-08-11T00:56:19.111909+05:30'
+last_checked: '2026-08-11T00:56:19.111909+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework optimized for large-scale corpora, leveraging linear graph structures for efficient retrieval.
-- Proposes a **linear-time retrieval mechanism** that reduces computational complexity compared to traditional graph-based RAG methods, enabling scalable LLM augmentation.
-- Demonstrates **state-of-the-art performance** on ICLR 2026 benchmarks, improving retrieval accuracy and generation quality in large document collections.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing LLM performance by reducing computational overhead in graph traversal.
+- **ICLR 2026 Contribution**: Proposes a linear-time graph retrieval mechanism, enabling scalable and memory-efficient augmentation of LLMs with structured knowledge graphs, outperforming traditional dense retrieval methods in both speed and accuracy.
+- **Implementation**: Provides a Python-based open-source repository (`LinearRAG`) with tools for graph construction, retrieval, and integration with LLMs, supporting large-scale corpora and modular extensions for custom graph configurations.
 
 ## Why It Matters
 

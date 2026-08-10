@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs
 hn_url: https://news.ycombinator.com/item?id=49244085
-score: 4
+score: 41
 author: sshh12
-comments_count: 0
+comments_count: 6
 published_at: '2026-08-10T19:50:41+05:30'
-collected_at: '2026-08-10T21:46:27.112511+05:30'
+collected_at: '2026-08-11T00:52:57.089856+05:30'
 tags:
 - ai
 - anthropic
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:exploring-claude-gpt-knowledge-cutoffs-and-pre-tra
 first_seen: '2026-08-10T21:46:27.112511+05:30'
-last_seen: '2026-08-10T21:46:27.112511+05:30'
-last_checked: '2026-08-10T21:46:27.112511+05:30'
+last_seen: '2026-08-11T00:52:57.089856+05:30'
+last_checked: '2026-08-11T00:52:57.089856+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by sshh12. Score: 4, Comments: 0.
+Hacker News story by sshh12. Score: 41, Comments: 6.
 Original Link: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: sshh12
-- Score: 4 Upvotes
-- Comments: 0 Discussions
+- Score: 41 Upvotes
+- Comments: 6 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49244085
 - Original Article: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs
 

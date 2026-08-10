@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sphinx-doc.org/
-published_at: '2026-08-10T19:27:39.683382+05:30'
-collected_at: '2026-08-10T19:27:39.683395+05:30'
+published_at: '2026-08-11T01:00:31.086249+05:30'
+collected_at: '2026-08-11T01:00:31.086262+05:30'
 tags:
 - hackernews
+- scripts
 - web-crawled
 status: active
 resource_id: blog:sphinx-sphinx-documentation
-first_seen: '2026-08-10T19:27:39.683395+05:30'
-last_seen: '2026-08-10T19:27:39.683395+05:30'
-last_checked: '2026-08-10T19:27:39.683395+05:30'
+first_seen: '2026-08-11T01:00:31.086262+05:30'
+last_seen: '2026-08-11T01:00:31.086262+05:30'
+last_checked: '2026-08-11T01:00:31.086262+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Documentation Generation**: Sphinx supports authoring in reStructuredText or MyST Markdown, enabling structured technical documentation with tables, code blocks, math notations, and cross-references across projects via Intersphinx.
-
-- **Multi-Format Output**: Generates documentation in HTML, LaTeX (PDF), ePub, Texinfo, and other formats with extensible theme support (built-in and third-party) and customization via `sphinxsetup`.
-
-- **Automated & Extensible**: Automatically generates API documentation from docstrings (Python/C++), supports internationalization (i18n), and offers robust extension mechanisms for custom functionality (e.g., diagrams, testing).
+- **Documentation Authoring**: Supports reStructuredText and MyST Markdown for structured technical documentation with tables, code blocks, math notations, and cross-references.
+- **Multi-Format Output**: Generates documentation in HTML, LaTeX (PDF), ePub, Texinfo, and other formats via extensible builders.
+- **API & Automation**: Automatically generates API documentation from docstrings for Python, C++, and other domains using the `autodoc` extension.
 
 ## Why It Matters
 
@@ -35,11 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T19:27:39.683382+05:30
+- Published: 2026-08-11T01:00:31.086249+05:30
 
 ## Related Tags
 
 - hackernews
+- scripts
 - web-crawled
 
 ## Source

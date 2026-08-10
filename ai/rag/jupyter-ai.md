@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyter-ai.readthedocs.io/en/latest/
-published_at: '2026-08-10T00:45:09.926160+05:30'
-collected_at: '2026-08-10T00:45:09.926184+05:30'
+published_at: '2026-08-11T01:04:28.632647+05:30'
+collected_at: '2026-08-11T01:04:28.632655+05:30'
 tags:
 - agents
 - anthropic
@@ -14,13 +14,14 @@ tags:
 - openai
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:jupyter-ai
-first_seen: '2026-08-10T00:45:09.926184+05:30'
-last_seen: '2026-08-10T00:45:09.926184+05:30'
-last_checked: '2026-08-10T00:45:09.926184+05:30'
+first_seen: '2026-08-11T01:04:28.632655+05:30'
+last_seen: '2026-08-11T01:04:28.632655+05:30'
+last_checked: '2026-08-11T01:04:28.632655+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language Support**: Jupyter AI integrates with Python, R, Julia, Scala, and Haskell, alongside data science libraries (NumPy, Pandas, Matplotlib, SciPy, Scikit-learn) and deep learning frameworks (TensorFlow, PyTorch).
+- **Multi-language & Framework Support**: Jupyter AI integrates with Python, R, Julia, Scala, NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch, SQLite, Haskell, and Apache Spark for computational workflows.
 
-- **AI Agent Integration**: Supports frontier AI models (OpenAI, Anthropic, Mistral Vibe) and coding assistants (GitHub Copilot, Goose, Kilo, Kiro, OpenCode) via MCP servers for real-time collaboration in JupyterLab.
+- **AI Agent Integration**: Supports frontier agents (Claude, Codex, GitHub Copilot, Goose, Kilo, Kiro, Mistral Vibe, OpenCode) via direct JupyterLab interaction with guardrails for file/command execution permissions.
 
-- **Security & Extensibility**: Implements guardrails for file/command execution, real-time UI updates via RTC backend, and allows custom AI personas or MCP server integration for extensible workflows.
+- **Real-Time Collaboration & Extensibility**: Enables collaborative chats, real-time UI edits via RTC backend, and custom AI personas or MCP servers for notebook automation and debugging.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T00:45:09.926160+05:30
+- Published: 2026-08-11T01:04:28.632647+05:30
 
 ## Related Tags
 
@@ -53,6 +54,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 

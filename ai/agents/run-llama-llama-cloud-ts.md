@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-cloud-ts
-collected_at: '2026-08-10T16:19:20.666220+05:30'
+collected_at: '2026-08-11T01:04:19.624291+05:30'
 published_at: '2026-07-23T17:43:35Z'
 tags:
 - agents
@@ -19,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-06T21:59:46Z'
-pushed_at: '2026-08-10T06:35:20Z'
+pushed_at: '2026-08-10T18:24:47Z'
 resource_id: github:run-llama/llama-cloud-ts
-first_seen: '2026-08-10T16:19:20.666220+05:30'
-last_seen: '2026-08-10T16:19:20.666220+05:30'
-last_checked: '2026-08-10T16:19:20.666220+05:30'
+first_seen: '2026-08-11T01:04:19.624291+05:30'
+last_seen: '2026-08-11T01:04:19.624291+05:30'
+last_checked: '2026-08-11T01:04:19.624291+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities with a TypeScript interface, enabling structured extraction from documents via LlamaParse.
-- **Document Processing & Information Extraction**: Supports parsing unstructured documents (e.g., PDFs, images) into structured formats for downstream tasks like information extraction and agent-based workflows.
-- **Integration with Llama Cloud**: Designed to work seamlessly with LlamaParse’s cloud services, offering scalable document processing for AI-driven applications.
+- **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities, enabling structured extraction of text and data from documents via LlamaParse.
+- **Document Processing & Information Extraction**: Supports advanced parsing workflows, including agent-based document processing and structured information extraction for downstream AI/ML tasks.
+- **Integration with Llama Cloud**: Designed to work seamlessly with LlamaParse, facilitating scalable document processing in cloud environments with TypeScript.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-11-06T21:59:46Z
-- Pushed At: 2026-08-10T06:35:20Z
+- Pushed At: 2026-08-10T18:24:47Z
 
 ## Possible Use Cases
 

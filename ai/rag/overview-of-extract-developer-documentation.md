@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.llamaindex.ai/llamaextract/getting_started
-published_at: '2026-08-10T21:56:35.336835+05:30'
-collected_at: '2026-08-10T21:56:35.336846+05:30'
+published_at: '2026-08-11T01:02:07.749613+05:30'
+collected_at: '2026-08-11T01:02:07.749624+05:30'
 tags:
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 status: active
 resource_id: blog:overview-of-extract-developer-documentation
-first_seen: '2026-08-10T21:56:35.336846+05:30'
-last_seen: '2026-08-10T21:56:35.336846+05:30'
-last_checked: '2026-08-10T21:56:35.336846+05:30'
+first_seen: '2026-08-11T01:02:07.749624+05:30'
+last_seen: '2026-08-11T01:02:07.749624+05:30'
+last_checked: '2026-08-11T01:02:07.749624+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Prompt-Driven Parsing**: User-provided instructions (`user_prompt`) dynamically reshape LlamaParse's output, filtering extracted data to focus solely on line-item prices and the total amount from a receipt.
+- **Input Refinement**: User-provided prompts (`user_prompt`) dynamically adjust LlamaParse's extraction behavior, filtering irrelevant receipt data (e.g., vendor names, dates) to focus solely on structured financial details.
 
-- **Structured Output Extraction**: LlamaParse processes the receipt, leveraging the prompt to isolate and return only the required numerical fields (line items and total), discarding irrelevant data like vendor details or dates.
+- **Structured Output**: Post-processing yields a minimalist JSON/CSV output containing only line-item prices and the total, leveraging prompt-guided parsing to ignore non-numeric or extraneous text.
 
-- **Customizable Parsing Logic**: The system demonstrates adaptive parsing where the `user_prompt` acts as a directive, enabling targeted extraction of specific fields (e.g., prices) without altering the underlying parsing model or pipeline.
+- **Prompt-Driven Parsing**: LlamaParse's underlying OCR/transformer pipeline integrates user instructions to suppress noise (e.g., logos, headers) and prioritize numerical fields, demonstrating adaptive document understanding.
 
 ## Why It Matters
 
@@ -37,13 +38,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T21:56:35.336835+05:30
+- Published: 2026-08-11T01:02:07.749613+05:30
 
 ## Related Tags
 
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 
 ## Source

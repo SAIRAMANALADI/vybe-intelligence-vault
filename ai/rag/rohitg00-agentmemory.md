@@ -4,17 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rohitg00/agentmemory
-collected_at: '2026-08-10T21:50:12.026067+05:30'
-published_at: '2026-08-10T15:28:14Z'
+collected_at: '2026-08-11T00:57:29.110617+05:30'
+published_at: '2026-08-10T18:38:55Z'
 tags:
 - agents
 - anthropic
 - benchmark
 - github-repo
+- hackernews
 - rag
 - typescript
 - workflows
-stars: 26832
+stars: 26837
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -22,9 +23,9 @@ archived: false
 created_at: '2026-02-25T07:32:52Z'
 pushed_at: '2026-08-10T06:13:27Z'
 resource_id: github:rohitg00/agentmemory
-first_seen: '2026-08-10T21:50:12.026067+05:30'
-last_seen: '2026-08-10T21:50:12.026067+05:30'
-last_checked: '2026-08-10T21:50:12.026067+05:30'
+first_seen: '2026-08-11T00:57:29.110617+05:30'
+last_seen: '2026-08-11T00:57:29.110617+05:30'
+last_checked: '2026-08-11T00:57:29.110617+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Persistent Memory System**: Provides long-term storage and retrieval for AI coding agents, optimized for real-world benchmarks and agent workflows.
-
-- **TypeScript-Based Implementation**: Built in TypeScript with modular architecture for seamless integration with AI coding tools (e.g., Claude, Cursor, Copilot).
-
-- **Benchmark-Driven Design**: Evaluated against standardized metrics to ensure reliability, scalability, and performance in agent-based environments.
+- **Purpose**: Provides persistent memory storage for AI coding agents, validated by real-world benchmarks.
+- **Technical Stack**: Implemented in TypeScript, supporting integration with tools like Claude, Cursor, and Copilot.
+- **Key Features**: Enables memory retention and context management for AI-driven development workflows.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: rohitg00
-- Stars: 26832
+- Stars: 26837
 - Forks: 2280
 - Language: TypeScript
 - Topics: agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw
-- Last Updated: 2026-08-10T15:28:14Z
+- Last Updated: 2026-08-10T18:38:55Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-25T07:32:52Z

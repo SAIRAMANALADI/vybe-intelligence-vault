@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/caramaschiHG/awesome-ai-agents-2026
-collected_at: '2026-08-10T21:50:06.992931+05:30'
+collected_at: '2026-08-11T00:57:24.156849+05:30'
 published_at: '2026-08-10T16:05:31Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - openai
 - unknown
+- workflows
 stars: 1553
 language: Unknown
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-07T13:21:09Z'
 pushed_at: '2026-06-10T16:46:10Z'
 resource_id: github:caramaschihg/awesome-ai-agents-2026
-first_seen: '2026-08-10T21:50:06.992931+05:30'
-last_seen: '2026-08-10T21:50:06.992931+05:30'
-last_checked: '2026-08-10T21:50:06.992931+05:30'
+first_seen: '2026-08-11T00:57:24.156849+05:30'
+last_seen: '2026-08-11T00:57:24.156849+05:30'
+last_checked: '2026-08-11T00:57:24.156849+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated AI Agent Resources**: GitHub repository hosting 300+ AI agents, frameworks, and tools categorized into 20+ sections, updated monthly.
-- **Technical Scope**: Covers ChatGPT, LangChain, LLMs, machine learning, and AI agent development tools for 2026.
-- **Metadata**: 1,553 stars, 520 forks, last updated 2026-08-10T16:05:31Z.
+- **Comprehensive AI Agent Resource Hub**: Curated list of 300+ AI agents, frameworks, and tools categorized into 20+ sections, updated monthly for 2026.
+- **Technical Breadth**: Covers key AI domains including LLM integration (LangChain, ChatGPT), machine learning workflows, and agent-based architectures.
+- **Active Maintenance**: Last updated August 10, 2026, with 1,553 stars and 519 forks, indicating strong community engagement.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: caramaschiHG
 - Stars: 1553
-- Forks: 520
+- Forks: 519
 - Language: Unknown
 - Topics: 2026, ai-agents, artificial-intelligence, awesome-list, chatgpt, langchain, llm, machine-learning
 - Last Updated: 2026-08-10T16:05:31Z

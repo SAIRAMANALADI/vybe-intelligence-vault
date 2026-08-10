@@ -13,7 +13,6 @@ importance: medium
 tags:
 - frontend_ui
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Licensing & Community**: Distributed under Apache 2.0 License; 89,386 GitHub stars (as of Aug 9, 2026) with active community support via [Hugo forums](https://discourse.gohugo.io).
+- **License & Popularity**: Distributed under Apache 2.0 License; has 89,386 GitHub stars (as of Aug 9, 2026).
 
-- **Performance & Architecture**: Go-based, optimized for speed; renders large sites in seconds with advanced templating, multilingual support, and flexible taxonomy system.
+- **Performance & Flexibility**: Go-based, optimized for speed; renders large sites in seconds with advanced templating and asset pipelines.
 
-- **Asset & Development Workflow**: Supports image/Sass/JS processing (e.g., tree-shaking, TailwindCSS), EXIF extraction, and live reloadin
+- **Features**: Supports multilingual content, taxonomies, image/Sass/JS processing, TailwindCSS, and includes an embedded web server for live reloading.
 
 ## Use Cases
 

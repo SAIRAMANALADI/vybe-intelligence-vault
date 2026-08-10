@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.jupyter.org
-published_at: '2026-08-10T19:30:10.850754+05:30'
-collected_at: '2026-08-10T19:30:10.850769+05:30'
+published_at: '2026-08-11T01:02:26.634536+05:30'
+collected_at: '2026-08-11T01:02:26.634550+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-08-10T19:30:10.850769+05:30'
-last_seen: '2026-08-10T19:30:10.850769+05:30'
-last_checked: '2026-08-10T19:30:10.850769+05:30'
+first_seen: '2026-08-11T01:02:26.634550+05:30'
+last_seen: '2026-08-11T01:02:26.634550+05:30'
+last_checked: '2026-08-11T01:02:26.634550+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter Ecosystem**: A modular framework centered around interactive computing, featuring core tools like Jupyter Notebook (lightweight) and JupyterLab (feature-rich, extensible IDE) for notebook authoring, data visualization, and collaborative prototyping via computational notebooks.
+- **Jupyter ecosystem**: A modular framework centered around interactive computing, primarily using computational notebooks (e.g., Jupyter Notebook, JupyterLab) that integrate code, visualizations, and narrative text in a single document.
 
-- **Sub-Projects & Kernels**: Includes specialized components such as nbconvert (notebook conversion), nbclient (execution), JupyterHub (multi-user deployment), and kernels (IPython, IRkernel, IJulia) supporting polyglot computing across Python, Julia, and other languages.
+- **Sub-projects**: The ecosystem includes specialized tools such as `nbconvert` (conversion), `nbclient` (execution), `jupyter-client` (messaging protocol), and kernels (e.g., IPython, IRkernel, IJulia) for multi-language support.
 
-- **Architecture & Standards**: Defined by the Jupyter Messaging Protocol (jupyter-client), nbformat (notebook serialization), and modular components like jupyter-server, jupyterlab-server, and configurable HTTP proxy for scalable deployments (e.g., Kubernetes, Docker).
+- **Deployment & Extensibility**: Supports scalable deployments via JupyterHub (with authenticators/spawners like Docker/Kubernetes) and allows customization through extensions, widgets (`ipywidgets`), and AI integrations (e.g., `jupyter-ai`).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T19:30:10.850754+05:30
+- Published: 2026-08-11T01:02:26.634536+05:30
 
 ## Related Tags
 

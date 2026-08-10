@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-s-new-device-will-be-hockey-puck-sized-and
 first_seen: '2026-08-10T21:46:26.387982+05:30'
 last_seen: '2026-08-10T21:46:26.387982+05:30'
 last_checked: '2026-08-10T21:46:26.387982+05:30'
 health_score: 100
 ---
+
 
 # OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300
 

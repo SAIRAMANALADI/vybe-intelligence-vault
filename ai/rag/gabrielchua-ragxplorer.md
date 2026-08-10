@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-10T21:47:56.854834+05:30'
+collected_at: '2026-08-11T00:55:14.017737+05:30'
 published_at: '2026-08-10T15:31:13Z'
 tags:
+- dataset
 - github-repo
 - jupyter notebook
-- models
 - rag
+- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-10T21:47:56.854834+05:30'
-last_seen: '2026-08-10T21:47:56.854834+05:30'
-last_checked: '2026-08-10T21:47:56.854834+05:30'
+first_seen: '2026-08-11T00:55:14.017737+05:30'
+last_seen: '2026-08-11T00:55:14.017737+05:30'
+last_checked: '2026-08-11T00:55:14.017737+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation dynamics.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and optimization of LLM interactions.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly web interface, facilitating dynamic parameter adjustments (e.g., retrieval strategies, chunking methods) and real-time visualization of RAG performance metrics.
+- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically explore RAG components (e.g., retrieval mechanisms, prompt engineering, and LLM outputs) with minimal setup.
 
-- **Modular Python Framework**: Built with Python, supporting customizable RAG components (e.g., embeddings, retrievers, LLMs) and extensible for research/debugging via Jupyter Notebook integration.
+- **Modular Python Framework**: Designed for extensibility, supporting custom RAG pipelines, dataset integration, and performance metrics (e.g., latency, relevance scoring) via Python-based workflows.
 
 ## Why It Matters
 

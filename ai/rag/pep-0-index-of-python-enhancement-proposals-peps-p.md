@@ -3,9 +3,9 @@ title: PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://peps.python.org
-published_at: '2026-08-10T19:30:04.481808+05:30'
-collected_at: '2026-08-10T19:30:04.481825+05:30'
+source_url: https://peps.python.org/
+published_at: '2026-08-11T01:04:21.874027+05:30'
+collected_at: '2026-08-11T01:04:21.874042+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
-first_seen: '2026-08-10T19:30:04.481825+05:30'
-last_seen: '2026-08-10T19:30:04.481825+05:30'
-last_checked: '2026-08-10T19:30:04.481825+05:30'
+first_seen: '2026-08-11T01:04:21.874042+05:30'
+last_seen: '2026-08-11T01:04:21.874042+05:30'
+last_checked: '2026-08-11T01:04:21.874042+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **PEP Index Structure**: PEP 0 serves as a centralized index for all Python Enhancement Proposals (PEPs), organized numerically, by category (e.g., Process, Informational, API), and by topic (e.g., Governance, Packaging, Typing), with metadata accessible via a JSON API (`peps.json`).
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records stored in GitHub; includes a JSON API (`peps.json`) for metadata access.
 
-- **PEP Lifecycle & Status**: PEPs are categorized by status (e.g., *Accepted*, *Finished*, *Rejected*, *Deferred*) and include meta-PEPs defining governance, infrastructure, and backward compatibility policies (e.g., PEP 1, PEP 387, PEP 676).
+- **Categorization Framework**: PEPs are classified by status (e.g., *Accepted*, *Finished*, *Rejected*) and topic (e.g., *Governance*, *Packaging*, *Typing*), with specialized indices for process/meta-PEPs (e.g., PEP 1, PEP 8) and informational PEPs (e.g., PEP 20, PEP 333).
 
-- **PEP Assignment & Versioning**: PEP numbers are immutable once assigned by the PEP editors, and their historical records are preserved via version control (GitHub `python/peps`), ensuring traceability of changes and decisions.
+- **Structural PEPs**: Defines foundational standards like PEP 333 (WSGI), PEP 248/249 (DB-API), and PEP 457/483 (type hinting theory), alongside governance PEPs (e.g., PEP 13, PEP 811) and infrastructure PEPs (e.g., PEP 676, PEP 772).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T19:30:04.481808+05:30
+- Published: 2026-08-11T01:04:21.874027+05:30
 
 ## Related Tags
 
@@ -54,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://peps.python.org
+Original source: https://peps.python.org/

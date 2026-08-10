@@ -18,6 +18,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-06-25 | [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) | `ai-coding-agents/` |
 | 2026-06-15 | [run-llama/llama-parse-cli](https://github.com/run-llama/llama-parse-cli) | `rag-systems/` |
 | 2026-06-15 | [run-llama/llama-parse-java](https://github.com/run-llama/llama-parse-java) | `rag-systems/` |
+| 2026-06-15 | [run-llama/llama-parse-go](https://github.com/run-llama/llama-parse-go) | `automation-workflows/` |
 | 2026-06-11 | [Jhonata-Matias/crewai-hackathon-2026](https://github.com/Jhonata-Matias/crewai-hackathon-2026) | `ai-coding-agents/` |
 | 2026-06-04 | [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability) | `ai-coding-agents/` |
 | 2026-06-03 | [antins-labs/SearchOS](https://github.com/antins-labs/SearchOS) | `ai-coding-agents/` |
@@ -33,4 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` |
 | 2026-04-26 | [DenCabinetmaker/Rust-Rage](https://github.com/DenCabinetmaker/Rust-Rage) | `rag-systems/` |
 | 2026-04-23 | [crazyaiml/nl-2-sql-agent](https://github.com/crazyaiml/nl-2-sql-agent) | `rag-systems/` |
-| 2026-04-22 | [aigateway-sh/awesome-ai-gateway](https://github.com/aigateway-sh/awesome-ai-gateway) | `evals-and-benchmarks/` |
