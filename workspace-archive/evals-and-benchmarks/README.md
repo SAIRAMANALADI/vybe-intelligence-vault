@@ -13,9 +13,9 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
-- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (framework - ESSENTIAL Tier)
 - [pypi/warehouse](https://github.com/pypi/warehouse) (benchmark - ESSENTIAL Tier)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (benchmark - ESSENTIAL Tier)
+- [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-08-11 01:10 IST*
+*Last updated: 2026-08-11 03:50 IST*

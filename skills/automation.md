@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 3649 resources matched in the intelligence vault.
+Active signals: 3647 resources matched in the intelligence vault.
 Recently detected signals:
-- [Get our developer newsletter · GitHub](../ai/rag/get-our-developer-newsletter-github.md) (Source: Unknown Source) - Collected 2026-08-11
-- [Learn More About Google's Secure and Protected Accounts - Google](../ai/resources/learn-more-about-google-s-secure-and-protected-acc.md) (Source: Unknown Source) - Collected 2026-08-11
-- [GitHub Status](../ai/rag/github-status.md) (Source: Unknown Source) - Collected 2026-08-11
-- [content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub](../ai/resources/mdn-content.md) (Source: Unknown Source) - Collected 2026-08-11
-- [Redirecting to GitHub Learn](../ai/resources/redirecting-to-github-learn.md) (Source: Unknown Source) - Collected 2026-08-11
+- [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) (Source: Unknown Source) - Collected 2026-08-11
+- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-08-11
+- [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) (Source: Unknown Source) - Collected 2026-08-11
+- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-08-11
+- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](../ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md) (Source: Unknown Source) - Collected 2026-08-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -175,35 +175,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **GitHub Core Functionality**: GitHub relies on Git (open-source VCS) for local operations; supports SSH for secure remote connections; repositories enable file storage, collaboration, and manage...
 
-### 30. [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md) ([GitHub](https://github.com/plusai-solutions/ai-scrum-master-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **Autonomous Development Framework**: Converts GitHub repositories into self-managing teams via GitHub Actions and Claude, orchestrating AI agents to operate under Scrum methodology directly from...
-
-### 31. [feiskyer/claude-code-settings](../ai/rag/feiskyer-claude-code-settings.md) ([GitHub](https://github.com/feiskyer/claude-code-settings))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository Purpose**: Provides curated skills, sub-agents, and configuration templates to enhance **Claude Code** functionality, including research, image generation, and GitHub automation.
-
-### 32. [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md) ([GitHub](https://github.com/alexpeclub/ai-coding-starter-kit))
+### 30. [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md) ([GitHub](https://github.com/alexpeclub/ai-coding-starter-kit))
 - Stars: 0
 - Language: Unknown
 - Description: - **Next.js Template**: Production-ready starter kit with TypeScript, optimized for AI-driven development workflows.
 
-### 33. [The-Pocket/PocketFlow-Template-Python](../ai/agents/the-pocket-pocketflow-template-python.md) ([GitHub](https://github.com/the-pocket/pocketflow-template-python))
+### 31. [The-Pocket/PocketFlow-Template-Python](../ai/agents/the-pocket-pocketflow-template-python.md) ([GitHub](https://github.com/the-pocket/pocketflow-template-python))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic Coding Framework**: Provides a structured Python template for autonomous AI-driven software development, enabling iterative code generation, testing, and refinement.
 
-### 34. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
+### 32. [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md) ([GitHub](https://github.com/plusai-solutions/ai-scrum-master-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **Autonomous Development Framework**: Converts GitHub repositories into self-managing teams via GitHub Actions and Claude, orchestrating AI agents to operate under Scrum methodology directly from...
+
+### 33. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
 - Stars: 0
 - Language: Unknown
 - Description: - **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using the Vercel AI SDK, integrating document retrieval with LLM inference for contextual responses.
 
-### 35. [reworkd/AgentGPT](../ai/rag/reworkd-agentgpt.md) ([GitHub](https://github.com/reworkd/agentgpt))
+### 34. [reworkd/AgentGPT](../ai/rag/reworkd-agentgpt.md) ([GitHub](https://github.com/reworkd/agentgpt))
 - Stars: 0
 - Language: Unknown
 - Description: - **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging modern web technologies.
+
+### 35. [feiskyer/claude-code-settings](../ai/rag/feiskyer-claude-code-settings.md) ([GitHub](https://github.com/feiskyer/claude-code-settings))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository Purpose**: Provides curated skills, sub-agents, and configuration templates to enhance **Claude Code** functionality, including research, image generation, and GitHub automation.
 
 ### 36. [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) ([GitHub](https://github.com/azure-samples/azure-openai-rag-workshop-template))
 - Stars: 0
@@ -245,35 +245,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling decentralized AI agent execution.
 
-### 44. [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md) ([GitHub](https://github.com/qwenlm/qwen-agent))
-- Stars: 0
-- Language: Unknown
-- Description: - **Framework Overview**: Qwen-Agent is a Python-based agent framework built on Qwen>=3.0, supporting advanced features like Function Calling, MCP (Model Context Protocol), Code Interpreter, RAG (R...
-
-### 45. [Nemotron/use-case-examples/nemotron-voice-rag-agent-example at main · NVIDIA-NeMo/Nemotron · GitHub](../ai/rag/nvidia-nemo-nemotron.md) ([GitHub](https://github.com/nvidia-nemo/nemotron))
-- Stars: 0
-- Language: Unknown
-- Description: - **Voice-to-Text & Multimodal RAG Pipeline**: Uses NVIDIA Nemotron Speech ASR (`nvidia/nemotron-speech-streaming-en-0.6b`) for real-time transcription and `nvidia/llama-nemotron-embed-vl-1b-v2` em...
-
-### 46. [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md) ([GitHub](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
-- Stars: 0
-- Language: Unknown
-- Description: - **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth authentication with `--host` support), `copilot init` (repository custom instructions), `copilot...
-
-### 47. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
+### 44. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository**: `muhammad-uzair-yasin/CrewAi_starter_template` – A minimal Python starter template for CrewAI, a framework for orchestrating role-playing autonomous AI agents.
 
-### 48. [ConardLi/garden-skills](../ai/rag/conardli-garden-skills.md) ([GitHub](https://github.com/conardli/garden-skills))
+### 45. [ConardLi/garden-skills](../ai/rag/conardli-garden-skills.md) ([GitHub](https://github.com/conardli/garden-skills))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Domain Technical Repository**: Open-source collection covering web design (CSS), knowledge retrieval (RAG), and image generation (GPT-Image-2), with agent-based automation support.
 
-### 49. [Azure/GenAIOps-project-template](../ai/rag/azure-genaiops-project-template.md) ([GitHub](https://github.com/azure/genaiops-project-template))
+### 46. [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md) ([GitHub](https://github.com/qwenlm/qwen-agent))
+- Stars: 0
+- Language: Unknown
+- Description: - **Framework Overview**: Qwen-Agent is a Python-based agent framework built on Qwen>=3.0, supporting advanced features like Function Calling, MCP (Model Context Protocol), Code Interpreter, RAG (R...
+
+### 47. [Azure/GenAIOps-project-template](../ai/rag/azure-genaiops-project-template.md) ([GitHub](https://github.com/azure/genaiops-project-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Infrastructure as Code (IaC) Template**: Uses Bicep to deploy a Generative AI Ops (GenAIOps) solution with Retrieval-Augmented Generation (RAG) capabilities on Azure.
+
+### 48. [Nemotron/use-case-examples/nemotron-voice-rag-agent-example at main · NVIDIA-NeMo/Nemotron · GitHub](../ai/rag/nvidia-nemo-nemotron.md) ([GitHub](https://github.com/nvidia-nemo/nemotron))
+- Stars: 0
+- Language: Unknown
+- Description: - **Voice-to-Text & Multimodal RAG Pipeline**: Uses NVIDIA Nemotron Speech ASR (`nvidia/nemotron-speech-streaming-en-0.6b`) for real-time transcription and `nvidia/llama-nemotron-embed-vl-1b-v2` em...
+
+### 49. [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md) ([GitHub](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
+- Stars: 0
+- Language: Unknown
+- Description: - **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth authentication with `--host` support), `copilot init` (repository custom instructions), `copilot...
 
 ### 50. [wxmb01/codex-app-autonomous-runs](../ai/rag/wxmb01-codex-app-autonomous-runs.md) ([GitHub](https://github.com/wxmb01/codex-app-autonomous-runs))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-08-11T01:09:44.212004+05:30.681041+05:30.982296+05:30.839918+05:30.554662+05:30.769449+05:30.881368+05:30.633041+05:30.401934+05:30.186129+05:30.256045+05:30.990794+05:30.256556+05:30.863365+05:30.695327+05:30.850597+05:30.155185+05:30.841383+05:30.807914+05:30.430097+05:30.537570+05:30.567729+05:30.685556+05:30.754762+05:30.776319+05:30.643227+05:30.835911+05:30.430564+05:30.814471+05:30.262964+05:30.928623+05:30.067906+05:30.685194+05:30.120957+05:30.765828+05:30.071062+05:30.273142+05:30.667570+05:30.325348+05:30.111103+05:30.210058+05:30.953694+05:30.522396+05:30.341562+05:30.479522+05:30.355022+05:30.070422+05:30.918427+05:30.936729+05:30.604552+05:30.948420+05:30.310480+05:30.376217+05:30.930625+05:30.570135+05:30.023674+05:30.298351+05:30.284245+05:30.599914+05:30.638146+05:30.590580+05:30.428442+05:30.942653+05:30.071927+05:30.645852+05:30.140964+05:30.536982+05:30.746877+05:30.255379+05:30.627063+05:30.853443+05:30.947963+05:30.502000+05:30.699738+05:30.255320+05:30.281370+05:30.311451+05:30.618430+05:30.220932+05:30.987525+05:30.580473+05:30.049055+05:30.370871+05:30.281615+05:30.982372+05:30.263224+05:30.758347+05:30.875780+05:30.367374+05:30.831820+05:30.488093+05:30.054779+05:30.486208+05:30.703982+05:30.042243+05:30.825857+05:30.700576+05:30.418602+05:30.880802+05:30.079689+05:30.639836+05:30.728817+05:30.313243+05:30.430918+05:30.079612+05:30.234423+05:30.736922+05:30.390703+05:30.327705+05:30.160338+05:30.390159+05:30.938054+05:30.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-08-11T03:49:36.654232+05:30.212004+05:30.681041+05:30.982296+05:30.839918+05:30.554662+05:30.769449+05:30.881368+05:30.633041+05:30.401934+05:30.186129+05:30.256045+05:30.990794+05:30.256556+05:30.863365+05:30.695327+05:30.850597+05:30.155185+05:30.841383+05:30.807914+05:30.430097+05:30.537570+05:30.567729+05:30.685556+05:30.754762+05:30.776319+05:30.643227+05:30.835911+05:30.430564+05:30.814471+05:30.262964+05:30.928623+05:30.067906+05:30.685194+05:30.120957+05:30.765828+05:30.071062+05:30.273142+05:30.667570+05:30.325348+05:30.111103+05:30.210058+05:30.953694+05:30.522396+05:30.341562+05:30.479522+05:30.355022+05:30.070422+05:30.918427+05:30.936729+05:30.604552+05:30.948420+05:30.310480+05:30.376217+05:30.930625+05:30.570135+05:30.023674+05:30.298351+05:30.284245+05:30.599914+05:30.638146+05:30.590580+05:30.428442+05:30.942653+05:30.071927+05:30.645852+05:30.140964+05:30.536982+05:30.746877+05:30.255379+05:30.627063+05:30.853443+05:30.947963+05:30.502000+05:30.699738+05:30.255320+05:30.281370+05:30.311451+05:30.618430+05:30.220932+05:30.987525+05:30.580473+05:30.049055+05:30.370871+05:30.281615+05:30.982372+05:30.263224+05:30.758347+05:30.875780+05:30.367374+05:30.831820+05:30.488093+05:30.054779+05:30.486208+05:30.703982+05:30.042243+05:30.825857+05:30.700576+05:30.418602+05:30.880802+05:30.079689+05:30.639836+05:30.728817+05:30.313243+05:30.430918+05:30.079612+05:30.234423+05:30.736922+05:30.390703+05:30.327705+05:30.160338+05:30.390159+05:30.938054+05:30.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

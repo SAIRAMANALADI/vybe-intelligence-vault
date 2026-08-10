@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
 hn_url: https://news.ycombinator.com/item?id=49243880
-score: 133
+score: 258
 author: root-parent
-comments_count: 145
+comments_count: 316
 published_at: '2026-08-10T19:36:22+05:30'
-collected_at: '2026-08-11T00:52:53.572644+05:30'
+collected_at: '2026-08-11T03:33:42.196338+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r
 first_seen: '2026-08-10T21:46:28.440943+05:30'
-last_seen: '2026-08-11T00:52:53.572644+05:30'
-last_checked: '2026-08-11T00:52:53.572644+05:30'
+last_seen: '2026-08-11T03:33:42.196338+05:30'
+last_checked: '2026-08-11T03:33:42.196338+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by root-parent. Score: 133, Comments: 145.
+Hacker News story by root-parent. Score: 258, Comments: 316.
 Original Link: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: root-parent
-- Score: 133 Upvotes
-- Comments: 145 Discussions
+- Score: 258 Upvotes
+- Comments: 316 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49243880
 - Original Article: https://ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
 

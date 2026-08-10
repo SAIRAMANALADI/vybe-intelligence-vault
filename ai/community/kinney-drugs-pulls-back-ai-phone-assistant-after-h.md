@@ -13,13 +13,14 @@ collected_at: '2026-08-11T00:52:57.224354+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:kinney-drugs-pulls-back-ai-phone-assistant-after-h
 first_seen: '2026-08-10T21:46:25.445872+05:30'
 last_seen: '2026-08-11T00:52:57.224354+05:30'
 last_checked: '2026-08-11T00:52:57.224354+05:30'
 health_score: 100
 ---
+
 
 # Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints
 

@@ -16,7 +16,6 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
 | [Privacy Practices & Protections - Google Safety Center](https://safety.google/principles) | `frontend-ai-ui/` | 70 |
 | [Troubleshoot video removals - YouTube Help](https://support.google.com/youtube/answer/6395024) | `frontend-ai-ui/` | 70 |
-| [The world's fastest framework for building websites](https://gohugo.io/) | `frontend-ai-ui/` | 70 |
 | [GitHub - algolia/firestore-algolia-search at 36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe · GitHub](https://github.com/algolia/firestore-algolia-search/tree/36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe) | `frontend-ai-ui/` | 70 |
 | [Docker Scout | Docker Docs](https://docs.docker.com/scout/) | `frontend-ai-ui/` | 70 |
 | [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites) | `frontend-ai-ui/` | 70 |
@@ -24,5 +23,6 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [brendan-duncan/webgpu_inspector](https://github.com/brendan-duncan/webgpu_inspector) | `webdev-3d-creative/` | 70 |
 | [GEngine-js/GEngine](https://github.com/gengine-js/gengine) | `webdev-3d-creative/` | 70 |
 | [gnikoloff/webgpu-sponza-demo](https://github.com/gnikoloff/webgpu-sponza-demo) | `webdev-3d-creative/` | 70 |
+| [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) | `webdev-3d-creative/` | 70 |
 
 More resources will appear as the harvester collects them.

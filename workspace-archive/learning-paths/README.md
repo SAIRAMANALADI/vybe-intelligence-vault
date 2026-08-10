@@ -14,8 +14,8 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [LangChain Community: Connect, Learn & Build AI Agents](https://www.langchain.com/community) (framework - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
-- [Career-building data science learning paths | DataCamp](https://www.datacamp.com/tracks/career) (tutorial - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
+- [Postman Inc. · GitHub](https://github.com/postmanlabs) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-11 01:11 IST*
+*Last updated: 2026-08-11 03:51 IST*

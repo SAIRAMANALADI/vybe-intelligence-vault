@@ -20,11 +20,11 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 140 resources matched in the intelligence vault.
 Recently detected signals:
-- [Jupyter AI](../ai/rag/jupyter-ai.md) (Source: Unknown Source) - Collected 2026-08-11
-- [GitHub Copilot app · GitHub](../ai/agents/features-ai.md) (Source: Unknown Source) - Collected 2026-08-11
-- [Spaces · Hugging Face](../ai/rag/huggingface-docs-hub.md) (Source: Unknown Source) - Collected 2026-08-11
-- [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md) (Source: Unknown Source) - Collected 2026-08-11
-- [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) (Source: Unknown Source) - Collected 2026-08-11
+- [Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](../ai/rag/arxiv-2608-06305.md) (Source: Unknown Source) - Collected 2026-08-11
+- [Agentic AI: User Empowerment or Enclosure?](../ai/agents/arxiv-2608-06510.md) (Source: Unknown Source) - Collected 2026-08-11
+- [How to Build an MCP Server with Gradio](../ai/models/huggingface-blog-gradio-mcp.md) (Source: Unknown Source) - Collected 2026-08-11
+- [Upskill your LLMs With Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-08-11
+- [Building the Hugging Face MCP Server](../ai/models/huggingface-blog-building-hf-mcp.md) (Source: Unknown Source) - Collected 2026-08-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -150,40 +150,40 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth authentication with `--host` support), `copilot init` (repository custom instructions), `copilot...
 
-### 25. [braincrew-lab/langgraph-mcp-agents](../ai/agents/braincrew-lab-langgraph-mcp-agents.md) ([GitHub](https://github.com/braincrew-lab/langgraph-mcp-agents))
-- Stars: 0
-- Language: Unknown
-- Description: - **LangGraph ReAct Agent**: Implements a ReAct (Reasoning and Acting) agent architecture using LangGraph, enabling dynamic reasoning and tool-use workflows.
-
-### 26. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
-- Stars: 0
-- Language: Unknown
-- Description: One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.
-
-### 27. [microsoft/playwright-mcp](../ai/rag/microsoft-playwright-mcp.md) ([GitHub](https://github.com/microsoft/playwright-mcp))
-- Stars: 0
-- Language: Unknown
-- Description: - **Purpose**: Provides a Model Context Protocol (MCP) server implementation for Playwright, enabling programmatic browser automation and testing via standardized MCP interfaces.
-
-### 28. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
-- Stars: 0
-- Language: Unknown
-- Description: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with ...
-
-### 29. [MuhammadUsmanGM/claude-code-best-practices](../ai/agents/muhammadusmangm-claude-code-best-practices.md) ([GitHub](https://github.com/muhammadusmangm/claude-code-best-practices))
+### 25. [MuhammadUsmanGM/claude-code-best-practices](../ai/agents/muhammadusmangm-claude-code-best-practices.md) ([GitHub](https://github.com/muhammadusmangm/claude-code-best-practices))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
 
-### 30. [uber/ADR](../ai/agents/uber-adr.md) ([GitHub](https://github.com/uber/adr))
+### 26. [uber/ADR](../ai/agents/uber-adr.md) ([GitHub](https://github.com/uber/adr))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose & Deployment**: ADR (Agent Defense Runtime) secures enterprise AI agents via observability, security benchmarking, and threat detection, with production deployment at Uber.
 
-### 31. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
+### 27. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate "code hallucinations" by providing structured, real-time access to GitHub repositories for AI agents and LLMs.
+
+### 28. [braincrew-lab/langgraph-mcp-agents](../ai/agents/braincrew-lab-langgraph-mcp-agents.md) ([GitHub](https://github.com/braincrew-lab/langgraph-mcp-agents))
+- Stars: 0
+- Language: Unknown
+- Description: - **LangGraph ReAct Agent**: Implements a ReAct (Reasoning and Acting) agent architecture using LangGraph, enabling dynamic reasoning and tool-use workflows.
+
+### 29. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
+- Stars: 0
+- Language: Unknown
+- Description: One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.
+
+### 30. [microsoft/playwright-mcp](../ai/rag/microsoft-playwright-mcp.md) ([GitHub](https://github.com/microsoft/playwright-mcp))
+- Stars: 0
+- Language: Unknown
+- Description: - **Purpose**: Provides a Model Context Protocol (MCP) server implementation for Playwright, enabling programmatic browser automation and testing via standardized MCP interfaces.
+
+### 31. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
+- Stars: 0
+- Language: Unknown
+- Description: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with ...
 
 ### 32. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md) ([GitHub](https://github.com/0x4m4/hexstrike-ai))
 - Stars: 0
@@ -220,30 +220,30 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions using MCP-native tools, contextual attack-chain awareness, and...
 
-### 39. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([GitHub](https://github.com/features/copilot))
-- Stars: 0
-- Language: Unknown
-- Description: - **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing...
-
-### 40. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
-- Stars: 0
-- Language: Unknown
-- Description: Scan MCP servers for potential threats & security findings.
-
-### 41. [GitHub Copilot app · GitHub](../ai/agents/features-ai.md) ([GitHub](https://github.com/features/ai))
+### 39. [GitHub Copilot app · GitHub](../ai/agents/features-ai.md) ([GitHub](https://github.com/features/ai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Native Agent-Driven Development**: GitHub Copilot app integrates agent workflows directly into GitHub, supporting macOS, Windows, and Linux, with features like isolated sessions, built-in valid...
 
-### 42. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
+### 40. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([GitHub](https://github.com/features/copilot))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing...
+
+### 41. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
 - Stars: 0
 - Language: Unknown
 - Description: - **AI Agent Security Scanner**: Detects vulnerabilities in agent configurations, MCP servers, and tool permissions with multiple integration options (CLI, GitHub Action, ECC plugin, GitHub App).
 
-### 43. [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) ([GitHub](https://github.com/sickn33/agentic-awesome-skills))
+### 42. [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) ([GitHub](https://github.com/sickn33/agentic-awesome-skills))
 - Stars: 0
 - Language: Unknown
 - Description: - **Core Functionality**: Local, agent-first control plane enabling catalog discovery, agent-owned skill selection, stack validation, and planning via 2,005+ agentic skills, with CLI, local MCP, ca...
+
+### 43. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
+- Stars: 0
+- Language: Unknown
+- Description: Scan MCP servers for potential threats & security findings.
 
 ### 44. [Mintlify · GitHub](../ai/resources/mintlify-github.md) ([GitHub](https://github.com/mintlify))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-08-11T01:09:42.740664+05:30.059161+05:30.419356+05:30.262146+05:30.341588+05:30.334611+05:30.475122+05:30.230844+05:30.994777+05:30.652992+05:30.832816+05:30.610143+05:30.067475+05:30.467824+05:30.162707+05:30.466101+05:30.638188+05:30.333566+05:30.325110+05:30.057815+05:30.048419+05:30.199544+05:30.184851+05:30.263294+05:30.320788+05:30.145800+05:30.504343+05:30.965937+05:30.340256+05:30.920920+05:30.213209+05:30.782572+05:30.400800+05:30.845256+05:30.518379+05:30.840886+05:30.028042+05:30.300687+05:30.973116+05:30.874435+05:30.985872+05:30.616645+05:30.260875+05:30.979450+05:30.257388+05:30.047242+05:30.851724+05:30.873877+05:30.712018+05:30.659980+05:30.734630+05:30.086340+05:30.151109+05:30.716194+05:30.373885+05:30.828737+05:30.981538+05:30.089838+05:30.305344+05:30.364889+05:30.738260+05:30.339311+05:30.784338+05:30.809197+05:30.384303+05:30.170376+05:30.396249+05:30.609960+05:30.099410+05:30.360813+05:30.701354+05:30.807269+05:30.384108+05:30.582967+05:30.137067+05:30.162660+05:30.086951+05:30.501173+05:30.409625+05:30.921792+05:30.508734+05:30.980872+05:30.311420+05:30.202782+05:30.830683+05:30.201613+05:30.609968+05:30.828320+05:30.297002+05:30.783842+05:30.423144+05:30.918586+05:30.596961+05:30.638802+05:30.896144+05:30.681970+05:30.641481+05:30.271878+05:30.744636+05:30.200648+05:30.599459+05:30.687328+05:30.279088+05:30.374013+05:30.941914+05:30.083177+05:30.636450+05:30.395333+05:30.301110+05:30.155893+05:30.369910+05:30.914308+05:30.132211+05:30.780524+05:30.194117+05:30.824975+05:30.383436+05:30.656603+05:30.662221+05:30.432201+05:30.134071+05:30.257666+05:30.440781+05:30.460485+05:30.017833+05:30.184280+05:30.062716+05:30.572749+05:30.324421+05:30.547724+05:30.887063+05:30.275029+05:30.775939+05:30.332516+05:30.930901+05:30.491377+05:30.854012+05:30.609440+05:30.739784+05:30.601758+05:30.840139+05:30.746993+05:30.536104+05:30.557542+05:30.185287+05:30.096374+05:30.222971+05:30.512173+05:30.874345+05:30.793998+05:30.207109+05:30.331521+05:30.460601+05:30.272302+05:30.020679+05:30.249300+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-08-11T03:49:35.084741+05:30.740664+05:30.059161+05:30.419356+05:30.262146+05:30.341588+05:30.334611+05:30.475122+05:30.230844+05:30.994777+05:30.652992+05:30.832816+05:30.610143+05:30.067475+05:30.467824+05:30.162707+05:30.466101+05:30.638188+05:30.333566+05:30.325110+05:30.057815+05:30.048419+05:30.199544+05:30.184851+05:30.263294+05:30.320788+05:30.145800+05:30.504343+05:30.965937+05:30.340256+05:30.920920+05:30.213209+05:30.782572+05:30.400800+05:30.845256+05:30.518379+05:30.840886+05:30.028042+05:30.300687+05:30.973116+05:30.874435+05:30.985872+05:30.616645+05:30.260875+05:30.979450+05:30.257388+05:30.047242+05:30.851724+05:30.873877+05:30.712018+05:30.659980+05:30.734630+05:30.086340+05:30.151109+05:30.716194+05:30.373885+05:30.828737+05:30.981538+05:30.089838+05:30.305344+05:30.364889+05:30.738260+05:30.339311+05:30.784338+05:30.809197+05:30.384303+05:30.170376+05:30.396249+05:30.609960+05:30.099410+05:30.360813+05:30.701354+05:30.807269+05:30.384108+05:30.582967+05:30.137067+05:30.162660+05:30.086951+05:30.501173+05:30.409625+05:30.921792+05:30.508734+05:30.980872+05:30.311420+05:30.202782+05:30.830683+05:30.201613+05:30.609968+05:30.828320+05:30.297002+05:30.783842+05:30.423144+05:30.918586+05:30.596961+05:30.638802+05:30.896144+05:30.681970+05:30.641481+05:30.271878+05:30.744636+05:30.200648+05:30.599459+05:30.687328+05:30.279088+05:30.374013+05:30.941914+05:30.083177+05:30.636450+05:30.395333+05:30.301110+05:30.155893+05:30.369910+05:30.914308+05:30.132211+05:30.780524+05:30.194117+05:30.824975+05:30.383436+05:30.656603+05:30.662221+05:30.432201+05:30.134071+05:30.257666+05:30.440781+05:30.460485+05:30.017833+05:30.184280+05:30.062716+05:30.572749+05:30.324421+05:30.547724+05:30.887063+05:30.275029+05:30.775939+05:30.332516+05:30.930901+05:30.491377+05:30.854012+05:30.609440+05:30.739784+05:30.601758+05:30.840139+05:30.746993+05:30.536104+05:30.557542+05:30.185287+05:30.096374+05:30.222971+05:30.512173+05:30.874345+05:30.793998+05:30.207109+05:30.331521+05:30.460601+05:30.272302+05:30.020679+05:30.249300+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

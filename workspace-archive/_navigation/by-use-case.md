@@ -31,8 +31,8 @@ This index groups resources by direct developer use-cases and design goals.
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `rag-systems` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `rag-systems` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) (Category: `rag-systems` | [`Local File`](../../ai/rag/truefoundry-cognita.md))
-- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [Pinecone · GitHub](https://github.com/pinecone-io) (Category: `vector-databases` | [`Local File`](../../ai/rag/pinecone-github.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 
 ## Model Selection, Inference & Cost Profiling
 
@@ -52,9 +52,9 @@ This index groups resources by direct developer use-cases and design goals.
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/weaviate-verba.md))
-- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [pypi/warehouse](https://github.com/pypi/warehouse) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/resources/pypi-warehouse.md))
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/panniantong-agent-reach.md))
+- [Pinecone · GitHub](https://github.com/pinecone-io) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/pinecone-github.md))
 
 ## Script Automations & External API Integration
 
@@ -97,8 +97,8 @@ This index groups resources by direct developer use-cases and design goals.
 - [LangChain Community: Connect, Learn & Build AI Agents](https://www.langchain.com/community) (Category: `learning-paths` | [`Local File`](../../ai/agents/langchain-community-connect-learn-build-ai-agents.md))
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (Category: `learning-paths` | [`Local File`](../../ai/research/arxiv-2507-16696.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Category: `learning-paths` | [`Local File`](../../ai/rag/staircase-ai.md))
-- [Career-building data science learning paths | DataCamp](https://www.datacamp.com/tracks/career) (Category: `learning-paths` | [`Local File`](../../ai/rag/career-building-data-science-learning-paths-dataca.md))
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Category: `project-ideas` | [`Local File`](../../ai/agents/arxiv-2606-11874.md))
+- [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Category: `project-ideas` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
 
 ---
-*Last updated: 2026-08-11 01:11 IST*
+*Last updated: 2026-08-11 03:51 IST*

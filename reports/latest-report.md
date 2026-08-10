@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-11T03:18:38.304832+05:30`
+Generated at: `2026-08-11T03:51:57.101434+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Tail-call optimization in C is relatively recent (2025)** - Score: `99` in category `ai/community` ([Link](https://lwn.net/articles/1034703)) ([File](../ai/community/tail-call-optimization-in-c-is-relatively-recent.md))
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Tail-call optimization in C is relatively recent (2025)** - Score: `108` in category `ai/community` ([Link](https://lwn.net/articles/1034703)) ([File](../ai/community/tail-call-optimization-in-c-is-relatively-recent.md))
+- **Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots** - Score: `62` in category `ai/community` ([Link](https://cactuscompute.com/needle)) ([File](../ai/community/show-hn-needle2-14mb-agentic-llm-for-phones-wearab.md))
+- **How Claude marks AI-generated content** - Score: `11` in category `ai/community` ([Link](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)) ([File](../ai/community/how-claude-marks-ai-generated-content.md))
 
 ## Top Trending Resources
 
-- **Google DeepMind - YouTube** - Score: `0` (0), Rank Change: `+3` ([File](../ai/resources/google-deepmind-youtube.md))
-- **GitHub Status** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/github-status.md))
-- **SRI Hash Generator** - Score: `0` (0), Rank Change: `+3` ([File](../ai/resources/sri-hash-generator.md))
-- **content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub** - Score: `0` (0), Rank Change: `+3` ([File](../ai/resources/mdn-content.md))
-- **gradio-app/gradio** - Score: `0` (0), Rank Change: `+4` ([File](../ai/resources/gradio-app-gradio.md))
-- **Traitlets — traitlets 5.16.1 documentation** - Score: `0` (0), Rank Change: `+4` ([File](../ai/resources/traitlets-traitlets-5-16-1-documentation.md))
-- **Jupyter AI** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/jupyter-ai.md))
-- **Introduction to R Programming | DataCamp** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/introduction-to-r-programming-datacamp.md))
-- **PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org** - Score: `0` (0), Rank Change: `+6` ([File](../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md))
-- **run-llama/llama-cloud-ts** - Score: `0` (0), Rank Change: `+6` ([File](../ai/agents/run-llama-llama-cloud-ts.md))
+- **Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models** - Score: `258` (+125), Rank Change: `0` ([File](../ai/community/mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r.md))
+- **Docker Sandboxes – Disposable, isolated sandboxes for AI agents** - Score: `610` (+59), Rank Change: `0` ([File](../ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md))
+- **Humanising LLM Outputs Is Dumb** - Score: `100` (+47), Rank Change: `+2` ([File](../ai/community/humanising-llm-outputs-is-dumb.md))
+- **Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines** - Score: `78` (+37), Rank Change: `+4` ([File](../ai/community/exploring-claude-gpt-knowledge-cutoffs-and-pre-tra.md))
+- **Letter to Governor Abbott on responsible AI infrastructure in Texas** - Score: `72` (+14), Rank Change: `-1` ([File](../ai/community/letter-to-governor-abbott-on-responsible-ai-infras.md))
+- **Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers** - Score: `58` (+14), Rank Change: `0` ([File](../ai/community/launch-hn-stoa-markets-yc-s26-a-marketplace-for-gp.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+351` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+355` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+357` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+351` ([File](../ai/rag/datawhalechina-all-in-rag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+17213`) ([File](../ai/rag/medium-2.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1010`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+1010`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1010`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1010`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1010`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1010`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1010`) ([File](../ai/rag/arxiv-2606-09677.md))
-- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1010`) ([File](../ai/research/arxiv-2606-06379.md))
-- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1010`) ([File](../ai/agents/arxiv-2606-05050.md))
+- **Qwen/Qwen3-0.6B** - (Rank Change: `+1196`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
+- **amazon/chronos-2** - (Rank Change: `+1196`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
+- **BAAI/bge-m3** - (Rank Change: `+1196`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **lpiccinelli/unidepth-v2-vitl14** - (Rank Change: `+1196`) ([File](../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md))
+- **google/electra-base-discriminator** - (Rank Change: `+1196`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+1196`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+1196`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+1196`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
+- **google-bert/bert-base-uncased** - (Rank Change: `+1196`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
+- **sentence-transformers/all-MiniLM-L6-v2** - (Rank Change: `+1196`) ([File](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,5 +47,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints** (Category: `ai/community`) ([File](../ai/community/kinney-drugs-pulls-back-ai-phone-assistant-after-h.md))
+- **The Tragedy of the Cognitive Commons** (Category: `ai/community`) ([File](../ai/community/arxiv-2607-29380.md))
