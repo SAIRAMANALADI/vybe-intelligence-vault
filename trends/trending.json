@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:11:42.811736+05:30",
+  "generated_at": "2026-08-11T01:32:52.367263+05:30",
   "trending_resources": [
     {
       "id": "hackernews:kinney-drugs-pulls-back-ai-phone-assistant-after-h",
@@ -54,19 +54,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "hackernews:tail-call-optimization-in-c-is-relatively-recent",
-      "title": "Tail-call optimization in C is relatively recent (2025)",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://lwn.net/articles/1034703",
-      "file_path": "ai/community/tail-call-optimization-in-c-is-relatively-recent.md",
-      "score": 99,
-      "score_change": 24,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:control-your-online-safety-and-privacy-google-safe",
       "title": "Control Your Online Safety and Privacy - Google Safety Center",
       "category": "ai/resources",
@@ -80,32 +67,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:learn-more-about-google-s-secure-and-protected-acc",
-      "title": "Learn More About Google's Secure and Protected Accounts - Google",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://myaccount.google.com",
-      "file_path": "ai/resources/learn-more-about-google-s-secure-and-protected-acc.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1981,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:google-deepmind-github",
-      "title": "Google DeepMind · GitHub",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://github.com/google-deepmind",
-      "file_path": "ai/rag/google-deepmind-github.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 8,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:google-deepmind-youtube",
       "title": "Google DeepMind - YouTube",
       "category": "ai/resources",
@@ -114,7 +75,7 @@
       "file_path": "ai/resources/google-deepmind-youtube.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4584,
+      "rank_change": 4587,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,12 +88,64 @@
       "file_path": "ai/rag/github-status.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 30,
+      "rank_change": 33,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:sri-hash-generator",
+      "title": "SRI Hash Generator",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://srihash.org",
+      "file_path": "ai/resources/sri-hash-generator.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1332,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:mdn/content",
+      "title": "content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://github.com/mdn/content",
+      "file_path": "ai/resources/mdn-content.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1330,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:gradio-app/gradio",
+      "title": "gradio-app/gradio",
+      "category": "ai/resources",
+      "source_type": "github",
+      "url": "https://github.com/gradio-app/gradio",
+      "file_path": "ai/resources/gradio-app-gradio.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1341,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
+    {
+      "id": "blog:medium",
+      "title": "Medium",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://blog.medium.com",
+      "file_path": "ai/rag/medium-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 17195,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
     {
       "id": "blog:google-deepmind-youtube",
       "title": "Google DeepMind - YouTube",
@@ -142,20 +155,7 @@
       "file_path": "ai/resources/google-deepmind-youtube.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 4584,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:develop-for-android-android-developers",
-      "title": "Develop for Android | Android Developers",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://developer.android.com/docs",
-      "file_path": "ai/resources/develop-for-android-android-developers.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3485,
+      "rank_change": 4587,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/resources/tensor-playground.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3450,
+      "rank_change": 3464,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +181,7 @@
       "file_path": "ai/resources/vespa-engine-sample-apps.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3429,
+      "rank_change": 3447,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/rag/vespa-demos.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3429,
+      "rank_change": 3447,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/rag/vespa-engine-vespa.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3429,
+      "rank_change": 3447,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/agents/agent-firecrawl.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2293,
+      "rank_change": 2325,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/rag/introduction-to-r-programming-datacamp.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2290,
+      "rank_change": 2295,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/resources/datacamp-rdocumentation-2-0.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2287,
+      "rank_change": 2293,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,12 +259,25 @@
       "file_path": "ai/rag/keras-team-keras.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2269,
+      "rank_change": 2283,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
+    {
+      "id": "hackernews:tail-call-optimization-in-c-is-relatively-recent-2",
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://lwn.net/articles/1034703",
+      "file_path": "ai/community/tail-call-optimization-in-c-is-relatively-recent.md",
+      "score": 99,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
     {
       "id": "hackernews:letter-to-governor-abbott-on-responsible-ai-infras",
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -357,19 +370,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:protect-privacy-online-with-google-google-safety-c",
-      "title": "Protect Privacy Online with Google - Google Safety Center",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://safety.google/security-privacy",
-      "file_path": "ai/resources/protect-privacy-online-with-google-google-safety-c.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:traitlets-traitlets-5-16-1-documentation",
       "title": "Traitlets — traitlets 5.16.1 documentation",
       "category": "ai/resources",
@@ -383,51 +383,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "blog:get-started-datacamp",
-      "title": "Get Started | DataCamp",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://app.datacamp.com/sandbox/get-started/python-amazon-bedrock",
-      "file_path": "ai/rag/get-started-datacamp.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:how-to-import-data-into-r-complete-2026-guide-data",
-      "title": "How to Import Data Into R | Complete 2026 Guide | DataCamp",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://datacamp.com/tutorial/r-data-import-tutorial",
-      "file_path": "ai/rag/how-to-import-data-into-r-complete-2026-guide-data.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
       "id": "github:run-llama/llama-hub",
       "title": "run-llama/llama-hub",
       "category": "ai/rag",
       "source_type": "github",
       "url": "https://github.com/run-llama/llama-hub",
       "file_path": "ai/rag/run-llama-llama-hub.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:stainless-github",
-      "title": "Stainless · GitHub",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://github.com/stainless-api",
-      "file_path": "ai/resources/stainless-github.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -454,6 +415,45 @@
       "source_type": "web",
       "url": "https://github.com/langchain-ai/deepagents",
       "file_path": "ai/rag/langchain-ai-deepagents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:everpass-directv-for-business-nfl-sunday-ticket-fa",
+      "title": "EverPass & DIRECTV FOR BUSINESS: NFL Sunday Ticket FAQs – EverPass",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://help.everpass.com/hc/en-us/articles/42559597632535-everpass-directv-for-business-nfl-sunday-ticket-faqs",
+      "file_path": "ai/rag/everpass-directv-for-business-nfl-sunday-ticket-fa.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:youtube-tv-help",
+      "title": "YouTube TV Help",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://support.google.com/youtubetv",
+      "file_path": "ai/rag/youtube-tv-help.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:verizon-youtube",
+      "title": "Verizon - YouTube",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://youtube.com/user/verizon",
+      "file_path": "ai/resources/verizon-youtube.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
