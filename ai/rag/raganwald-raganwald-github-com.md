@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-08-10T08:10:33.684411+05:30'
+collected_at: '2026-08-10T10:31:08.136974+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
 - html
 - rag
+- scripts
 stars: 30
 language: HTML
 status: active
@@ -17,9 +18,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-08-10T08:10:33.684411+05:30'
-last_seen: '2026-08-10T08:10:33.684411+05:30'
-last_checked: '2026-08-10T08:10:33.684411+05:30'
+first_seen: '2026-08-10T10:31:08.136974+05:30'
+last_seen: '2026-08-10T10:31:08.136974+05:30'
+last_checked: '2026-08-10T10:31:08.136974+05:30'
 health_score: 100
 ---
 
@@ -28,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **Static Site Generator**: Uses Jekyll to compile Markdown/HTML into a static website hosted on GitHub Pages.
-- **GitHub Integration**: Repository is configured for GitHub Pages deployment with automatic builds from the `main` branch.
-- **Minimal Structure**: Contains only static assets (HTML, CSS, JS) with no backend logic or dynamic content generation.
+- **GitHub Integration**: Repository acts as the source for `raganwald.github.com`, with automatic deployment via GitHub Actions.
+- **Minimal Structure**: No additional dependencies or complex build tools; relies solely on Jekyll’s default configuration.
 
 ## Why It Matters
 

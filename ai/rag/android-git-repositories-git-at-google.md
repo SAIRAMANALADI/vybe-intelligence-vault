@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-08-10T08:21:12.309118+05:30'
-collected_at: '2026-08-10T08:21:12.309134+05:30'
+published_at: '2026-08-10T10:41:22.363794+05:30'
+collected_at: '2026-08-10T10:41:22.363808+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-08-10T08:21:12.309134+05:30'
-last_seen: '2026-08-10T08:21:12.309134+05:30'
-last_checked: '2026-08-10T08:21:12.309134+05:30'
+first_seen: '2026-08-10T10:41:22.363808+05:30'
+last_seen: '2026-08-10T10:41:22.363808+05:30'
+last_checked: '2026-08-10T10:41:22.363808+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Centralized Git repository hosting** for Android OS development, managed by Google via `android.googlesource.com`, containing kernel, device-specific, and accessory-related codebases.
-
-- **Device-specific repositories** organized by OEM/model (e.g., `device/google/bluejay`, `device/asus/flo`) with paired kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and variant branches (e.g., `5.10`, `6.1` kernels).
-
-- **Accessory and emulator support** includes legacy (e.g., `device/google/accessory/adk2012`) and emulator targets (e.g., `device/generic/x86_64`, `device/generic/goldfish`) with GPU/transport layers (e.g., `opengl-transport`, `vulkan-cereal`).
+- **Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS components, device-specific code, and accessory support (e.g., `device/google/bluejay`, `device/google/coral`).
+- **Device-Specific Branches**: Many repositories include kernel (`*-kernel`), sepolicy (`*-sepolicy`), and version-specific branches (e.g., `5.10`, `6.1`) for devices like `bluejay`, `lynx`, and `pantah`, indicating modular support for different Android versions.
+- **Accessory & Emulator Support**: Repositories include Android accessory frameworks (e.g., `arduino`, `demokit`) and emulator/device emulation targets (e.g., `goldfish`, `qemu`, `mini-emulator-x86`), enabling hardware-software co-development and testing.
 
 ## Why It Matters
 
@@ -46,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T08:21:12.309118+05:30
+- Published: 2026-08-10T10:41:22.363794+05:30
 
 ## Related Tags
 

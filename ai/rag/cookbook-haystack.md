@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-08-10T03:31:29.465891+05:30'
-collected_at: '2026-08-10T03:31:29.465904+05:30'
+published_at: '2026-08-10T10:36:31.180835+05:30'
+collected_at: '2026-08-10T10:36:31.180848+05:30'
 tags:
 - agents
 - benchmark
@@ -17,11 +17,12 @@ tags:
 - reddit
 - scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-08-10T03:31:29.465904+05:30'
-last_seen: '2026-08-10T03:31:29.465904+05:30'
-last_checked: '2026-08-10T03:31:29.465904+05:30'
+first_seen: '2026-08-10T10:36:31.180848+05:30'
+last_seen: '2026-08-10T10:36:31.180848+05:30'
+last_checked: '2026-08-10T10:36:31.180848+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Integration**: Demonstrates advanced **agentic retrieval** techniques using **Llama 3.2 3B** with structured metadata enrichment and query decomposition for improved RAG pipelines.
-- **Multimodal & Hybrid Retrieval**: Showcases **multimodal text generation** and **hybrid RAG pipelines** combining sparse embeddings (Qdrant + FastEmbed) with hierarchical document retrieval for enhanced accuracy.
-- **Observability & Evaluation**: Provides frameworks for **RAG evaluation** using **DeepEval** and **RAGAS**, alongside **Arize Phoenix** for tracing and monitoring in production environments.
+- **Haystack Cookbook** provides 49 technical recipes demonstrating integrations of model providers, vector databases, retrieval techniques, and advanced RAG pipelines (e.g., hybrid retrieval, query decomposition, HyDE) with tools like FastEmbed, Qdrant, and NVIDIA NIMs.
+
+- **Agentic Workflows** showcased include cost-aware agents, memory-augmented systems (Mem0), MCP-based browser agents, and domain-specific tools (e.g., GitHub PR creators, UI/UX reviewers) with human-in-the-loop validation.
+
+- **Observability & Evaluation** recipes cover hallucination scoring, RAG evaluation (RAGAS, Prometheus 2, DeepEval), safety moderation, and tracing with Arize Phoenix, alongside multimodal and multilingual RAG use cases.
 
 ## Why It Matters
 
@@ -41,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T03:31:29.465891+05:30
+- Published: 2026-08-10T10:36:31.180835+05:30
 
 ## Related Tags
 
@@ -55,6 +58,7 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
+- workflows
 
 ## Source
 

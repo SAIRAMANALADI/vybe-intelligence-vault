@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-08-10T08:10:58.830412+05:30'
+collected_at: '2026-08-10T10:31:33.273958+05:30'
 published_at: '2026-08-07T08:10:27Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +20,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-08-10T08:10:58.830412+05:30'
-last_seen: '2026-08-10T08:10:58.830412+05:30'
-last_checked: '2026-08-10T08:10:58.830412+05:30'
+first_seen: '2026-08-10T10:31:33.273958+05:30'
+last_seen: '2026-08-10T10:31:33.273958+05:30'
+last_checked: '2026-08-10T10:31:33.273958+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured foundation for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating modular integration of components like document retrieval, prompt engineering, and LLM inference.
-
-- **Key Components**: Includes pre-configured pipelines for document ingestion (e.g., loaders, text splitters), vector stores (e.g., FAISS, Chroma), and agent frameworks (e.g., LangChain’s `ConversationalRetrievalChain` or custom agents) for research-focused workflows.
-
-- **Technical Stack**: Primarily Python-based, leveraging LangChain’s ecosystem (e.g., `langchain-core`, `langchain-community`) and dependencies like `pydantic` for structured outputs, with extensibility for additional tools (e.g., APIs, search engines).
+- **Template Purpose**: Provides a structured starter kit for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for Python-based workflows.
+- **Key Components**: Includes pre-configured modules for document retrieval, vector storage (e.g., FAISS/Chroma), and agent orchestration with LangChain’s framework.
+- **Update Status**: Last synchronized on **2026-08-07**, indicating active maintenance with 313 stars and 74 forks in the community.
 
 ## Why It Matters
 

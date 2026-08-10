@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-08-09T21:24:44.879426+05:30'
+collected_at: '2026-08-10T10:33:28.293528+05:30'
 published_at: '2026-08-09T15:07:02Z'
 tags:
 - agents
 - github-repo
-- models
 - openai
 - rag
 - typescript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-08-09T21:24:44.879426+05:30'
-last_seen: '2026-08-09T21:24:44.879426+05:30'
-last_checked: '2026-08-09T21:24:44.879426+05:30'
+first_seen: '2026-08-10T10:33:28.293528+05:30'
+last_seen: '2026-08-10T10:33:28.293528+05:30'
+last_checked: '2026-08-10T10:33:28.293528+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based contract template for AI agents integrating with OpenAI's API, enabling secure and private agent execution on the Phala Network.
+- **Template Structure**: Provides a TypeScript-based starter template for deploying AI agents on the Phala Network using OpenAI's API, facilitating secure off-chain computation via confidential smart contracts.
 
-- **Phala Network Integration**: Leverages Phala's confidential computing (TEE-based) to ensure encrypted execution of AI agent logic, protecting sensitive data and computations.
+- **Key Components**: Includes pre-configured modules for agent initialization, OpenAI API integration, and Phala's TEE (Trusted Execution Environment) for privacy-preserving computations.
 
-- **OpenAI Compatibility**: Facilitates seamless interaction with OpenAI's models (e.g., GPT-4) via standardized API calls, abstracting infrastructure complexities for developers.
+- **Deployment Ready**: Optimized for quick setup with Phala's `phatjs` runtime, enabling seamless agent deployment and interaction with OpenAI models while leveraging Phala's decentralized execution.
 
 ## Why It Matters
 

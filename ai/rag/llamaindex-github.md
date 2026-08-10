@@ -4,23 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/run-llama/
-published_at: '2026-08-10T08:16:11.344222+05:30'
-collected_at: '2026-08-10T08:16:11.344236+05:30'
+published_at: '2026-08-10T10:36:29.221993+05:30'
+collected_at: '2026-08-10T10:36:29.221999+05:30'
 tags:
 - agents
-- hackernews
 - meta-ai
 - models
 - rag
-- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-08-10T08:16:11.344236+05:30'
-last_seen: '2026-08-10T08:16:11.344236+05:30'
-last_checked: '2026-08-10T08:16:11.344236+05:30'
+first_seen: '2026-08-10T10:36:29.221999+05:30'
+last_seen: '2026-08-10T10:36:29.221999+05:30'
+last_checked: '2026-08-10T10:36:29.221999+05:30'
 health_score: 100
 ---
 
@@ -28,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for high-fidelity document processing and structured data extraction in document workflows and agentic systems.
+- **LlamaParse** offers cloud-based OCR with state-of-the-art (SOTA) agentic capabilities for document processing workflows, including parsing, extraction, and platform documentation via [LlamaIndex Cloud](https://developers.llamaindex.ai/python/cloud/).
 
-- **Open-Source Tooling**: Includes `LiteParse` for lightweight parsing, `LlamaAgents` for orchestrating agent-based workflows, and the core `LlamaIndex (Python)` library for building RAG and document indexing pipelines.
+- **Open-source tools** include **LiteParse** (lightweight OCR), **LlamaAgents** (modular agent framework), and **LlamaIndex (Python)** (core indexing/retrieval library), all documented with GitHub-hosted resources.
 
-- **Multi-Channel Support**: Offers cross-platform engagement via Twitter/X, LinkedIn, and YouTube for community interaction, updates, and technical documentation dissemination.
+- **Community engagement** is facilitated through **X (Twitter)**, **LinkedIn**, and **YouTube**, providing updates and support channels for the LlamaIndex ecosystem.
 
 ## Why It Matters
 
@@ -42,16 +40,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T08:16:11.344222+05:30
+- Published: 2026-08-10T10:36:29.221993+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - meta-ai
 - models
 - rag
-- reddit
 - web-crawled
 - workflows
 - youtube

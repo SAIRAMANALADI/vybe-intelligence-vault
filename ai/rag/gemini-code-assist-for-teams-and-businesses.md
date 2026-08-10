@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cloud.google.com/products/gemini/code-assist
-published_at: '2026-08-10T03:30:49.987254+05:30'
-collected_at: '2026-08-10T03:30:49.987268+05:30'
+published_at: '2026-08-10T10:39:03.312849+05:30'
+collected_at: '2026-08-10T10:39:03.312860+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-code-assist-for-teams-and-businesses
-first_seen: '2026-08-10T03:30:49.987268+05:30'
-last_seen: '2026-08-10T03:30:49.987268+05:30'
-last_checked: '2026-08-10T03:30:49.987268+05:30'
+first_seen: '2026-08-10T10:39:03.312860+05:30'
+last_seen: '2026-08-10T10:39:03.312860+05:30'
+last_checked: '2026-08-10T10:39:03.312860+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Gemini Code Assist** integrates **Gemini 3** (1M token context window) for AI-assisted development across the SDLC, including code completion, generation, and natural language chat in IDEs (VS Code, JetBrains) and Google Cloud services (Firebase, BigQuery, Apigee).
+- **Gemini Code Assist** leverages **Gemini 3** (1M token context window) for AI-assisted development, offering code completion, generation, natural language chat, and agentic workflows across IDEs (VS Code, JetBrains) and Google Cloud services (Firebase, BigQuery, Apigee).
 
-- **Agent Mode & CLI Tools**: Supports **autonomous agents** for multi-file edits, project-wide changes, and tool integration (MCP), alongside **Gemini CLI** for terminal-based AI-driven coding, debugging, and file manipulation.
+- **Enterprise-grade features** include **local codebase awareness**, **customization via private repositories**, **MCP-integrated agents** for multi-file edits, **IP compliance tools** (source citation, indemnification), and **VPC/access controls** for security/privacy.
 
-- **Enterprise Features**: Includes **private codebase customization**, **IP compliance tools** (source citations, indemnification), **VPC controls**, and **industry certifications** (SOC 2, ISO 27001) for secure, compliant AI-assisted development.
+- **CLI and automation tools** like **Gemini CLI** (terminal-based AI coding) and **smart actions** (one-click test generation, code explanation) streamline developer workflows, with **usage metrics** and **enterprise certifications** (SOC 2, ISO 27001) ensuring compliance.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T03:30:49.987254+05:30
+- Published: 2026-08-10T10:39:03.312849+05:30
 
 ## Related Tags
 

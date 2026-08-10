@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-08-10T08:13:38.868784+05:30'
+collected_at: '2026-08-10T10:34:13.314726+05:30'
 published_at: '2026-08-08T18:21:55Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-08-10T08:13:38.868784+05:30'
-last_seen: '2026-08-10T08:13:38.868784+05:30'
-last_checked: '2026-08-10T08:13:38.868784+05:30'
+first_seen: '2026-08-10T10:34:13.314726+05:30'
+last_seen: '2026-08-10T10:34:13.314726+05:30'
+last_checked: '2026-08-10T10:34:13.314726+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Investigates prompt patterns, agent coordination mechanisms, and security classifications for autonomous AI-driven coding tools.
-- **Reconstructed Prompt Engineering**: Analyzes structured prompt frameworks enabling multi-agent collaboration in software development workflows.
-- **Security & System Prompts**: Classifies vulnerabilities in agentic AI systems and defines best practices for secure prompt design and execution.
+- **Agentic AI Coding Assistants**: Focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding assistants, emphasizing multi-agent collaboration and task decomposition.
+- **Security Classification Framework**: Implements a structured security classification system for agentic AI interactions, addressing vulnerabilities in prompt injection, data leakage, and unauthorized tool execution.
+- **System Prompt Optimization**: Analyzes and refines system prompts for AI agents (e.g., Claude) to improve reliability, context retention, and adherence to user-defined constraints in coding workflows.
 
 ## Why It Matters
 

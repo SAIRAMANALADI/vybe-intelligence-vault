@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-10T08:12:53.857482+05:30'
+collected_at: '2026-08-10T10:33:28.330316+05:30'
 published_at: '2026-08-10T01:23:38Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-08-09T08:17:55Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-10T08:12:53.857482+05:30'
-last_seen: '2026-08-10T08:12:53.857482+05:30'
-last_checked: '2026-08-10T08:12:53.857482+05:30'
+first_seen: '2026-08-10T10:33:28.330316+05:30'
+last_seen: '2026-08-10T10:33:28.330316+05:30'
+last_checked: '2026-08-10T10:33:28.330316+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and modification using LLMs (OpenAI, Anthropic Claude) with non-blocking I/O for improved efficiency.
+- **Asynchronous Coding Agent**: Implements a non-blocking, event-driven architecture for autonomous code generation and modification using LLMs (OpenAI, Anthropic) with async/await patterns in Python.
 
-- **Multi-Model Support**: Integrates with OpenAI's API and Anthropic's ClaudeCode for parallelized task execution, enabling dynamic switching between models based on context or performance.
+- **Multi-Provider LLM Integration**: Supports concurrent interactions with multiple LLM backends (OpenAI, Anthropic) via standardized async interfaces, enabling parallel task execution and dynamic provider switching.
 
-- **Open-Source Framework**: Provides a modular Python-based agent system for scalable, customizable autonomous software engineering workflows with extensible tooling and async-first design.
+- **Stateful Agent Workflow**: Manages persistent agent state across sessions with async task queues, enabling resumable operations, context retention, and distributed execution via asyncio and Redis-backed coordination.
 
 ## Why It Matters
 

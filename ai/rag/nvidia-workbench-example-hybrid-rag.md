@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-08-10T08:11:18.780964+05:30'
+collected_at: '2026-08-10T10:31:53.218240+05:30'
 published_at: '2026-08-09T22:56:20Z'
 tags:
 - github-repo
-- meta-ai
-- models
+- hackernews
 - python
 - rag
+- workflows
 stars: 372
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-08-10T08:11:18.780964+05:30'
-last_seen: '2026-08-10T08:11:18.780964+05:30'
-last_checked: '2026-08-10T08:11:18.780964+05:30'
+first_seen: '2026-08-10T10:31:53.218240+05:30'
+last_seen: '2026-08-10T10:31:53.218240+05:30'
+last_checked: '2026-08-10T10:31:53.218240+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation.
+- **Purpose**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating retrieval and generative models for enhanced LLM responses.
 
-- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG system using NVIDIA AI Workbench, leveraging GPU acceleration for efficient LLM inference and retrieval.
+- **Implementation**: Python-based project leveraging hybrid retrieval (dense + sparse) techniques to optimize context relevance and generation quality.
 
-- **Python-Based Pipeline**: Provides a modular Python framework with components for document preprocessing, retrieval (FAISS/BM25), and generation (e.g., Llama or other LLMs), optimized for NVIDIA GPUs.
+- **Key Features**: Example project structure for deploying RAG workflows, optimized for NVIDIA's AI Workbench ecosystem with modular components for scalability.
 
 ## Why It Matters
 

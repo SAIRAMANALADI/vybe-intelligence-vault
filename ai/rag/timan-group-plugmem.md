@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIMAN-group/PlugMem
-collected_at: '2026-08-10T08:12:23.864279+05:30'
+collected_at: '2026-08-10T10:32:58.275356+05:30'
 published_at: '2026-08-10T02:18:39Z'
 tags:
 - agents
-- benchmark
 - github-repo
+- models
 - python
 - rag
+- workflows
 stars: 280
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-09T22:43:38Z'
 pushed_at: '2026-07-09T05:51:21Z'
 resource_id: github:timan-group/plugmem
-first_seen: '2026-08-10T08:12:23.864279+05:30'
-last_seen: '2026-08-10T08:12:23.864279+05:30'
-last_checked: '2026-08-10T08:12:23.864279+05:30'
+first_seen: '2026-08-10T10:32:58.275356+05:30'
+last_seen: '2026-08-10T10:32:58.275356+05:30'
+last_checked: '2026-08-10T10:32:58.275356+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Plug-and-play long-term memory integration**: Enables LLM agents to dynamically attach/detach long-term memory modules without retraining, leveraging a modular architecture for flexible memory augmentation.
-
-- **Memory retrieval optimization**: Implements advanced retrieval mechanisms (e.g., hierarchical indexing, semantic caching) to efficiently query and update long-term memory while minimizing computational overhead.
-
-- **Benchmark-ready framework**: Designed for ICML 2026 with standardized evaluation protocols for long-term memory performance in agent-based tasks, supporting RAG integration and agent-memory interaction metrics.
+- **Plug-and-play long-term memory integration** for LLM agents, enabling persistent contextual retention without fine-tuning, as proposed in ICML 2026.
+- **Modular architecture** combining retrieval-augmented generation (RAG) with dynamic memory updates, optimizing agent decision-making over extended interactions.
+- **Python-based implementation** with open-source release (280 stars, 27 forks), supporting agent-memory, LLM-agent, and RAG workflows.
 
 ## Why It Matters
 

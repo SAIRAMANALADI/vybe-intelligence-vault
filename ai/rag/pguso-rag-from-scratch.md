@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-10T08:10:53.719263+05:30'
+collected_at: '2026-08-10T10:31:28.370882+05:30'
 published_at: '2026-08-10T02:03:32Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-10T08:10:53.719263+05:30'
-last_seen: '2026-08-10T08:10:53.719263+05:30'
-last_checked: '2026-08-10T08:10:53.719263+05:30'
+first_seen: '2026-08-10T10:31:28.370882+05:30'
+last_seen: '2026-08-10T10:31:28.370882+05:30'
+last_checked: '2026-08-10T10:31:28.370882+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM inference, avoiding proprietary APIs or black-box systems.
-- **Core Components**: Covers end-to-end RAG workflow—embeddings generation, vector search (likely via cosine similarity), retrieval, and context-augmented generation—with no external dependencies.
-- **Educational Focus**: Provides a hands-on tutorial to deconstruct RAG mechanics, emphasizing transparency in embeddings, retrieval strategies, and prompt augmentation for Node.js environments.
+- **Implementation**: JavaScript-based RAG pipeline using `node-llama-cpp` for local LLM inference, emphasizing transparency by avoiding proprietary APIs or black-box components.
+- **Core Components**: Demonstrates end-to-end workflow including embeddings generation, vector search (likely via cosine similarity), retrieval-augmented generation (RAG), and context-augmented prompting.
+- **Educational Focus**: Provides a hands-on tutorial for building RAG systems from scratch, covering agents, chatbot integration, and the underlying mechanics of retrieval pipelines.
 
 ## Why It Matters
 

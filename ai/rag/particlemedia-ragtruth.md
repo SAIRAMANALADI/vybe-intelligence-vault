@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-10T08:10:33.732807+05:30'
+collected_at: '2026-08-10T10:31:08.223552+05:30'
 published_at: '2026-08-06T20:35:40Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - hackernews
-- models
 - python
 - rag
-- workflows
 stars: 260
 language: Python
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-10T08:10:33.732807+05:30'
-last_seen: '2026-08-10T08:10:33.732807+05:30'
-last_checked: '2026-08-10T08:10:33.732807+05:30'
+first_seen: '2026-08-10T10:31:08.223552+05:30'
+last_seen: '2026-08-10T10:31:08.223552+05:30'
+last_checked: '2026-08-10T10:31:08.223552+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs.
-- **Dataset Features**: Contains annotated hallucination data (e.g., factual inconsistencies, unsupported claims) across diverse domains to benchmark RAG model reliability and fine-tuning.
-- **Technical Stack**: Implemented in Python, with structured datasets and evaluation tools for integration into RAG pipelines and hallucination detection workflows.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and mitigate hallucinations in Retrieval-Augmented Generation (RAG) models by providing annotated instances of factual inaccuracies.
+- **Technical Scope**: Contains Python-based resources for generating, analyzing, and benchmarking hallucinations in RAG systems, with structured datasets for training and testing.
+- **Repository Metadata**: Last updated on 2026-08-06, with 260 stars and 35 forks, indicating active community engagement in trustworthy RAG development.
 
 ## Why It Matters
 

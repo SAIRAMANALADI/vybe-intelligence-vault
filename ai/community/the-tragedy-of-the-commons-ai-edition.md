@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition
 hn_url: https://news.ycombinator.com/item?id=49235011
-score: 80
+score: 94
 author: simonpure
-comments_count: 42
+comments_count: 53
 published_at: '2026-08-10T01:13:52+05:30'
-collected_at: '2026-08-10T08:09:47.304708+05:30'
+collected_at: '2026-08-10T10:29:14.670813+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:the-tragedy-of-the-commons-ai-edition
 first_seen: '2026-08-10T03:22:47.555206+05:30'
-last_seen: '2026-08-10T08:09:47.304708+05:30'
-last_checked: '2026-08-10T08:09:47.304708+05:30'
+last_seen: '2026-08-10T10:29:14.670813+05:30'
+last_checked: '2026-08-10T10:29:14.670813+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by simonpure. Score: 80, Comments: 42.
+Hacker News story by simonpure. Score: 94, Comments: 53.
 Original Link: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: simonpure
-- Score: 80 Upvotes
-- Comments: 42 Discussions
+- Score: 94 Upvotes
+- Comments: 53 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49235011
 - Original Article: https://economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition
 

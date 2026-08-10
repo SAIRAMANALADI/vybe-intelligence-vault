@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-08-10T08:12:08.758668+05:30'
+collected_at: '2026-08-10T10:32:43.272551+05:30'
 published_at: '2026-08-10T00:01:37Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 stars: 8302
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-08-10T08:12:08.758668+05:30'
-last_seen: '2026-08-10T08:12:08.758668+05:30'
-last_checked: '2026-08-10T08:12:08.758668+05:30'
+first_seen: '2026-08-10T10:32:43.272551+05:30'
+last_seen: '2026-08-10T10:32:43.272551+05:30'
+last_checked: '2026-08-10T10:32:43.272551+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository for a production-focused course on agentic RAG (Retrieval-Augmented Generation) systems, containing 8,302 stars and 1,853 forks.
-- **Technical Stack**: Implemented in Python, targeting scalable, production-grade RAG architectures with agentic workflows.
-- **Last Updated**: Repository last modified on **August 10, 2026**, indicating active maintenance or development.
+- **Course Focus**: Production-grade implementation of Agentic RAG (Retrieval-Augmented Generation) systems in Python, emphasizing scalable, real-world deployment.
+- **Repository Metrics**: 8,302 stars, 1,853 forks, last updated August 10, 2026.
+- **Technical Stack**: Python-based framework for agentic RAG pipelines, optimized for production environments.
 
 ## Why It Matters
 

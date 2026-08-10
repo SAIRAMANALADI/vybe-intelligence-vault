@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-08-10T03:30:19.005030+05:30'
-collected_at: '2026-08-10T03:30:19.005039+05:30'
+published_at: '2026-08-10T10:38:28.819649+05:30'
+collected_at: '2026-08-10T10:38:28.819662+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-08-10T03:30:19.005039+05:30'
-last_seen: '2026-08-10T03:30:19.005039+05:30'
-last_checked: '2026-08-10T03:30:19.005039+05:30'
+first_seen: '2026-08-10T10:38:28.819662+05:30'
+last_seen: '2026-08-10T10:38:28.819662+05:30'
+last_checked: '2026-08-10T10:38:28.819662+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,17 @@ health_score: 100
 
 ## Summary
 
-- **Security Policy**: Hugo enforces a default-deny security policy via allowlists for `os/exec`, remote communication, and environment access, with detailed failure messages for unauthorized operations.
+- **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and similar operations unless explicitly permitted; unauthorized operations fail with detailed error messages.
 
-- **Configuration Structure**: Security settings are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), HTTP methods/URLs (`http.methods/urls`), and Node.js permissions (`node.permissions`), with negation rules (`!`) for deny overrides.
+- **Configurable Security Parameters**:
+  - `allowContent`: Regex-based allowlist for content media types (e.g., `! ^text/html$` denies HTML by default).
+  - `exec.allow`: Restricts external executables (e.g., `^(dart-)?sass(-embedded)?$`).
+  - `http.urls`: Limits remote resource access (e.g., `! ^https?://\d+\.` blocks IP-based URLs).
+  - `node.permissions`: Granular Node.js tool access control (e.g., `allowRead = ["."]` restricts file reads to the working directory).
 
-- **Environment Overrides**: Security policies can be dynamically adjusted via environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) or negated patterns in allowlists (e.g., `['.*', '! ^https?://evil\.example\.com']`).
+- **Negation & Override Rules**:
+  - Prefix patterns with `!` to create deny rules (e.g., `['.*', '! ^https?://evil\.example\.com']`).
+  - Environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none`) can override configurations dynamically.
 
 ## Why It Matters
 
@@ -36,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T03:30:19.005030+05:30
+- Published: 2026-08-10T10:38:28.819649+05:30
 
 ## Related Tags
 

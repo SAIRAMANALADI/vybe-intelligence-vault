@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-08-10T08:13:08.925208+05:30'
-published_at: '2026-08-10T02:33:05Z'
+collected_at: '2026-08-10T10:33:43.317850+05:30'
+published_at: '2026-08-10T04:45:19Z'
 tags:
 - agents
 - animation
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - unknown
 - workflows
-stars: 13311
+stars: 13313
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-07-29T17:36:08Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-08-10T08:13:08.925208+05:30'
-last_seen: '2026-08-10T08:13:08.925208+05:30'
-last_checked: '2026-08-10T08:13:08.925208+05:30'
+first_seen: '2026-08-10T10:33:43.317850+05:30'
+last_seen: '2026-08-10T10:33:43.317850+05:30'
+last_checked: '2026-08-10T10:33:43.317850+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured training for AI agents on GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Focus**: Includes optimized workflows, performance considerations, and common use cases for GSAP in automated coding environments.
-- **Repository Stats**: 13.3K+ stars, 787 forks, last updated August 2026.
+- **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering animation best practices, common patterns, and plugin integration.
+- **Technical Focus**: Designed to optimize AI coding agents' proficiency in GSAP, ensuring correct implementation and efficient animation workflows.
+- **Metadata**: 13.3K+ stars, 787 forks, last updated August 10, 2026.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 13311
+- Stars: 13313
 - Forks: 787
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-10T02:33:05Z
+- Last Updated: 2026-08-10T04:45:19Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-10T08:12:18.809572+05:30'
+collected_at: '2026-08-10T10:32:53.302178+05:30'
 published_at: '2026-08-09T07:14:32Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 stars: 169
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-10T08:12:18.809572+05:30'
-last_seen: '2026-08-10T08:12:18.809572+05:30'
-last_checked: '2026-08-10T08:12:18.809572+05:30'
+first_seen: '2026-08-10T10:32:53.302178+05:30'
+last_seen: '2026-08-10T10:32:53.302178+05:30'
+last_checked: '2026-08-10T10:32:53.302178+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent interactions for enhanced graph construction and retrieval.
+- **Memory-based Multi-Agent System**: Introduces a novel **KDD 2026** framework where multiple agents collaboratively construct and query **graph-based memory structures** for enhanced **Retrieval-Augmented Generation (RAG)**.
 
-- **Ontology-Guided Graph Construction**: Integrates ontology-driven techniques to dynamically build and refine knowledge graphs, ensuring structured and semantically rich graph representations for downstream tasks.
+- **Graph Construction & Ontology Integration**: Implements dynamic **ontology-driven graph construction** to model relationships between entities, enabling efficient **multi-hop reasoning** and structured knowledge retrieval.
 
-- **Memory-Augmented RAG Pipeline**: Utilizes agent memory mechanisms to optimize retrieval and generation processes, improving contextual relevance and coherence in generated outputs.
+- **Python Implementation**: Provides an open-source **Python-based** toolkit with modular components for **agent-memory management**, **graph retrieval**, and **ontology alignment**, optimized for scalability in knowledge-intensive tasks.
 
 ## Why It Matters
 

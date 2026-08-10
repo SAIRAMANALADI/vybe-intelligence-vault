@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-106%2C219-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-176%2C702-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--10-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **106,219 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **176,702 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,693</p>
-        <p><b>Active:</b> 17,158 | <b>Inactive:</b> 535</p>
+        <p><b>Resources tracked:</b> 19,106</p>
+        <p><b>Active:</b> 18,570 | <b>Inactive:</b> 536</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,247</p>
+        <p><b>Archive Files:</b> 71,339</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 106,219 files</p>
-        <p><b>Last Update:</b> 2026-08-10 09:29 IST</p>
+        <p><b>Total Vault Size:</b> 176,702 files</p>
+        <p><b>Last Update:</b> 2026-08-10 10:49 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,17 +210,20 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[pyannote/pyannote-audio](ai/resources/pyannote-pyannote-audio.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Code Llama: Open Foundation Models for Code | Research - AI at Meta](ai/rag/code-llama-open-foundation-models-for-code-researc.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[dom-examples/service-worker/simple-service-worker at main · mdn/dom-examples · GitHub](ai/resources/mdn-dom-examples.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models](ai/resources/arxiv-2106-09685.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Service Workers Nightly](ai/rag/service-workers-nightly.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[How I use LLMs to learn complex topics](ai/community/how-i-use-llms-to-learn-complex-topics.md)** • <kbd>+68 pts</kbd>
+- 🔼 **[Tuxedo No. 2 – Cocktail recipes](ai/community/tuxedo-no-2-cocktail-recipes.md)** • <kbd>+17 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[The tragedy of the commons, AI edition](ai/community/the-tragedy-of-the-commons-ai-edition.md)** • <kbd>+14 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Mac - Apple](ai/rag/mac-apple.md)** • Rank: <kbd>+3022</kbd>
+- 🔼 **[What is artificial intelligence? | web.dev](ai/rag/what-is-artificial-intelligence-web-dev.md)** • Rank: <kbd>+58</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The Hacker's Renaissance (2025)](ai/community/the-hacker-s-renaissance.md)** • Score: `97`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Show HN: Voice driven murder mystery, Interview AI suspects with your voice](ai/community/show-hn-voice-driven-murder-mystery-interview-ai-s.md)** • Score: `20`
+- 🆕 **[Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md)** • Score: `0`
+- 🆕 **[Build a payments page | Stripe Documentation](ai/resources/build-a-payments-page-stripe-documentation.md)** • Score: `0`
+- 🆕 **[Brand guidelines | Branding & Marketing | Android Developers](ai/resources/brand-guidelines-branding-marketing-android-develo.md)** • Score: `0`
+- 🆕 **[6. Modules — Python 3.14.7 documentation](ai/resources/6-modules-python-3-14-7-documentation.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

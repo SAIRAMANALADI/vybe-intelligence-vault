@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.framer.com
-published_at: '2026-08-10T00:43:23.554969+05:30'
-collected_at: '2026-08-10T00:43:23.554978+05:30'
+published_at: '2026-08-10T10:38:11.987895+05:30'
+collected_at: '2026-08-10T10:38:11.987907+05:30'
 tags:
 - agents
 - anthropic
@@ -14,13 +14,14 @@ tags:
 - openai
 - producthunt
 - reddit
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:framer-ai-website-builder-for-professional-sites
-first_seen: '2026-08-10T00:43:23.554978+05:30'
-last_seen: '2026-08-10T00:43:23.554978+05:30'
-last_checked: '2026-08-10T00:43:23.554978+05:30'
+first_seen: '2026-08-10T10:38:11.987907+05:30'
+last_seen: '2026-08-10T10:38:11.987907+05:30'
+last_checked: '2026-08-10T10:38:11.987907+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Native AI Design Agents**: Framer integrates professional design agents directly into its canvas, enabling real-time, in-place generation and refinement of UI components with full editability and user control, eliminating traditional design-development handoffs.
+- **Native AI Design Agents**: Framer integrates AI agents directly into the canvas for real-time, in-place design generation and refinement, enabling iterative, user-controlled modifications with full editability and visibility.
 
-- **Multi-Tool Agent Integration**: Supports external AI agents (e.g., Cursor, Claude Code, GitHub PRs) via API-driven workflows, allowing actions like CMS updates, content edits, or deployments triggered from terminals, Slack, or other external tools.
+- **Unified CMS & Code Automation**: The platform’s AI agents automate CMS setup, content updates, and code implementation, synchronizing design and content while converting high-level prompts into functional components and interactions.
 
-- **Performance-Optimized CMS & Code Generation**: Features a CMS agent for automated content structuring and a code agent for converting design requirements into production-ready components, while maintaining Core Web Vitals (LCP: 1.1s, INP: 95ms, CLS: 0.01) for optimized site performance.
+- **Cross-Platform AI Integration**: Supports external AI toolchains (e.g., Cursor, Claude Code) for workflow automation, enabling actions like Slack-driven copy updates, terminal-triggered CMS changes, and GitHub PR-based deployments.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-10T00:43:23.554969+05:30
+- Published: 2026-08-10T10:38:11.987895+05:30
 
 ## Related Tags
 
@@ -53,6 +54,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - producthunt
 - reddit
+- scripts
 - web-crawled
 - workflows
 

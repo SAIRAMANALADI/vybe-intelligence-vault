@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-08-10T08:14:44.001656+05:30'
+collected_at: '2026-08-10T10:35:18.507295+05:30'
 published_at: '2026-07-31T15:53:17Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - models
 - python
 - rag
+- scripts
 - workflows
 stars: 20
 language: Python
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-31T15:56:17Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-08-10T08:14:44.001656+05:30'
-last_seen: '2026-08-10T08:14:44.001656+05:30'
-last_checked: '2026-08-10T08:14:44.001656+05:30'
+first_seen: '2026-08-10T10:35:18.507295+05:30'
+last_seen: '2026-08-10T10:35:18.507295+05:30'
+last_checked: '2026-08-10T10:35:18.507295+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Workflow Templates**: Repository provides pre-built templates for agentic workflows integrating DataRobot, CrewAI, LangGraph, LlamaIndex, and LLM frameworks to automate AI-driven tasks.
+- **Agentic AI Workflow Templates**: Repository providing pre-built templates for agentic AI workflows using frameworks like CrewAI, LangGraph, and LlamaIndex, optimized for DataRobot integration.
 
-- **Python-Based Implementation**: All templates are implemented in Python, leveraging libraries like `crewai`, `langgraph`, and `llamaindex` for orchestration and LLM interactions.
+- **Multi-Framework Support**: Includes Python-based templates for orchestrating LLM-driven agents with DataRobot, enabling modular and scalable AI agent deployments.
 
-- **Modular & Extensible**: Templates are designed for modularity, enabling customization for DataRobot agentic workflows with support for multi-agent collaboration and LLM-driven decision-making.
+- **Community-Driven & Updated**: Actively maintained (last updated July 2026) with 20 stars and 12 forks, focusing on agentic AI, automation, and DataRobot-specific workflows.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-08-10T08:14:03.917858+05:30'
+collected_at: '2026-08-10T10:34:38.382063+05:30'
 published_at: '2026-07-17T03:59:58Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-08-10T08:14:03.917858+05:30'
-last_seen: '2026-08-10T08:14:03.917858+05:30'
-last_checked: '2026-08-10T08:14:03.917858+05:30'
+first_seen: '2026-08-10T10:34:38.382063+05:30'
+last_seen: '2026-08-10T10:34:38.382063+05:30'
+last_checked: '2026-08-10T10:34:38.382063+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Development Framework**: Transforms a GitHub repository into an AI-driven Scrum team using GitHub Actions and Claude to autonomously manage, plan, and execute tasks directly from GitHub Issues under the Scrum framework.
+- **Autonomous Development Framework**: Converts GitHub repositories into self-managing AI-driven teams using GitHub Actions and Claude to orchestrate AI agents under the Scrum methodology.
 
-- **AI Agent Orchestration**: Deploys specialized AI agents (e.g., planning, coding, testing) that collaborate via GitHub Actions workflows to handle issue resolution, task breakdown, and iterative development cycles without human intervention.
+- **Issue-Driven Execution**: AI agents autonomously process GitHub Issues, enabling direct project management and development without manual intervention.
 
-- **Open-Source Scaffolding**: Provides a structured, extensible template for integrating AI-driven Agile workflows, enabling rapid deployment of autonomous development pipelines with minimal configuration overhead.
+- **Open-Source Template**: Provides a reusable, configurable template for implementing AI-driven Scrum workflows, last updated July 17, 2026.
 
 ## Why It Matters
 

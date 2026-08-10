@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Shubhamsaboo/awesome-llm-apps
-collected_at: '2026-08-10T08:11:08.710755+05:30'
-published_at: '2026-08-10T02:40:14Z'
+collected_at: '2026-08-10T10:31:43.166132+05:30'
+published_at: '2026-08-10T04:58:53Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 131782
+stars: 131800
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-04-29T05:30:25Z'
 pushed_at: '2026-08-09T11:43:20Z'
 resource_id: github:shubhamsaboo/awesome-llm-apps
-first_seen: '2026-08-10T08:11:08.710755+05:30'
-last_seen: '2026-08-10T08:11:08.710755+05:30'
-last_checked: '2026-08-10T08:11:08.710755+05:30'
+first_seen: '2026-08-10T10:31:43.166132+05:30'
+last_seen: '2026-08-10T10:31:43.166132+05:30'
+last_checked: '2026-08-10T10:31:43.166132+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curates 100+ open-source AI agents, agent skills, and RAG (Retrieval-Augmented Generation) applications, primarily implemented in Python.
-- **Technical Scope**: Encompasses LLM-driven workflows, agentic systems, and retrieval-based pipelines, with a focus on modularity and extensibility.
-- **Community & Maintenance**: Highly active repository (131K+ stars, 19K+ forks) with recent updates (as of 2026-08-10), indicating sustained community engagement and development.
+- **Comprehensive Repository**: Curates 100+ open-source AI agents, agent skills, and RAG applications, primarily implemented in Python, with a focus on modularity and extensibility.
+
+- **Technical Scope**: Encompasses diverse LLM-driven applications, including agent-based workflows, retrieval-augmented generation (RAG) pipelines, and specialized skills for tasks like reasoning, tool-use, and multi-modal interactions.
+
+- **Community-Driven**: Maintained with active updates (last commit: 2026-08-10), high engagement (131.8k stars, 19.4k forks), and broad applicability across AI research and production deployments.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Shubhamsaboo
-- Stars: 131782
-- Forks: 19409
+- Stars: 131800
+- Forks: 19411
 - Language: Python
 - Topics: agents, llms, python, rag
-- Last Updated: 2026-08-10T02:40:14Z
+- Last Updated: 2026-08-10T04:58:53Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-04-29T05:30:25Z

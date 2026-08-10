@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-10T08:11:23.789664+05:30'
-published_at: '2026-08-07T11:55:59Z'
+collected_at: '2026-08-10T10:31:58.236416+05:30'
+published_at: '2026-08-10T03:43:25Z'
 tags:
 - github-repo
-- models
+- openai
 - python
 - rag
-stars: 158
+stars: 159
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-10T08:11:23.789664+05:30'
-last_seen: '2026-08-10T08:11:23.789664+05:30'
-last_checked: '2026-08-10T08:11:23.789664+05:30'
+first_seen: '2026-08-10T10:31:58.236416+05:30'
+last_seen: '2026-08-10T10:31:58.236416+05:30'
+last_checked: '2026-08-10T10:31:58.236416+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates a Streamlit app integrating LangChain for RAG, using a vector store (e.g., FAISS or Chroma) and hybrid search (combining dense + sparse retrieval) for document querying.
+- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS or Chroma) for hybrid search (combining dense and sparse retrieval) to enhance document retrieval accuracy.
 
-- **Architecture**: Combines LangChain’s retrieval chains with a vector database backend, enabling semantic search augmented by keyword-based retrieval for improved accuracy.
+- **LangChain Components**: Utilizes LangChain’s `RetrievalQA` chain with a custom retriever (e.g., `BM25Retriever` + `VectorStoreRetriever`) and a language model (e.g., OpenAI’s `gpt-3.5-turbo`) for augmented generation.
 
-- **Deployment**: Streamlit frontend interfaces with a backend RAG pipeline, showcasing real-time Q&A or document exploration with hybrid search capabilities.
+- **Streamlit UI**: Provides a minimalist web interface for querying the RAG system, displaying retrieved context and generated responses with real-time updates.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: streamlit
-- Stars: 158
+- Stars: 159
 - Forks: 80
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-07T11:55:59Z
+- Last Updated: 2026-08-10T03:43:25Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-01T22:26:37Z

@@ -24,8 +24,8 @@ https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
-- [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
 - [microsoft/tutel](https://github.com/microsoft/tutel)
+- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-08-10 08:27 IST*
+*Last updated: 2026-08-10 10:48 IST*

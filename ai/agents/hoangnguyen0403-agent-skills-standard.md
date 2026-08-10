@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-10T08:13:13.864829+05:30'
+collected_at: '2026-08-10T10:33:48.303798+05:30'
 published_at: '2026-08-07T03:48:17Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
+- workflows
 stars: 538
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-10T08:13:13.864829+05:30'
-last_seen: '2026-08-10T08:13:13.864829+05:30'
-last_checked: '2026-08-10T08:13:13.864829+05:30'
+first_seen: '2026-08-10T10:33:48.303798+05:30'
+last_seen: '2026-08-10T10:33:48.303798+05:30'
+last_checked: '2026-08-10T10:33:48.303798+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages such as Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot, and more.
+- **Multi-Language & Framework Best Practices**: Repository curates standardized coding practices and agentic AI guidelines for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and JavaScript frameworks (React, Next.js, Angular, NestJS).
 
-- **Purpose**: Designed to guide AI agents in adhering to industry-standard coding practices and framework-specific conventions to ensure high-quality, maintainable, and scalable code generation.
+- **Agent-Oriented Standards**: Provides structured `cursor-rules` and agent-skills templates to enforce consistent AI agent behavior across Android, iOS, and web development workflows.
 
-- **Metadata**: Maintained by HoangNguyen0403, with 538 stars, 157 forks, and last updated on August 7, 2026. Includes topics like `agentic-ai`, `coding-standards`, and `cursor-rules` for AI-assisted development.
+- **Active Maintenance & Community**: Last updated in 2026 with 538 stars and 157 forks, indicating ongoing contributions and adoption for AI-driven development standardization.
 
 ## Why It Matters
 

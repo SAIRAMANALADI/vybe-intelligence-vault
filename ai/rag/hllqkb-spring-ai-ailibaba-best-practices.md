@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-10T08:11:33.714514+05:30'
+collected_at: '2026-08-10T10:32:08.239282+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- workflows
+- reddit
 stars: 36
 language: Java
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-10T08:11:33.714514+05:30'
-last_seen: '2026-08-10T08:11:33.714514+05:30'
-last_checked: '2026-08-10T08:11:33.714514+05:30'
+first_seen: '2026-08-10T10:32:08.239282+05:30'
+last_seen: '2026-08-10T10:32:08.239282+05:30'
+last_checked: '2026-08-10T10:32:08.239282+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements a Spring AI-based AI Q&A system with **Server-Sent Events (SSE) streaming**, **Agent-based workflows**, **Knowledge Graph RAG**, **Function Calling**, and **message history** for conversational context.
+- **Implementation of AI Q&A Systems**: Demonstrates Stream-SSE (Server-Sent Events) for real-time AI responses, Agent-based intelligent agents, and RAG (Retrieval-Augmented Generation) with knowledge graphs for enhanced contextual understanding.
 
-- **Multimodal Capabilities**: Supports **image generation**, **image understanding**, **Embedding models**, **Vector Database integration**, and **RAG pipelines** for hybrid retrieval.
+- **Multi-Modal AI Capabilities**: Supports function calls, historical message management, image generation (e.g., via diffusion models), and image understanding (OCR/visual Q&A) using embedding models and vector databases.
 
-- **Tech Stack**: Built in **Java** with **Spring AI** and **Alibaba Cloud** integrations, leveraging **vector search**, **LLM APIs**, and **RAG optimizations** for production-grade AI applications.
+- **Java-Based AI Integration**: Leverages Spring AI with Alibaba Cloud services, featuring embedding models, vector database (e.g., Milvus/Weaviate), and RAG pipelines for scalable, production-grade AI applications.
 
 ## Why It Matters
 

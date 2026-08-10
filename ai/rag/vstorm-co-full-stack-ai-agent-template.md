@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-08-10T08:10:58.755073+05:30'
+collected_at: '2026-08-10T10:31:33.254841+05:30'
 published_at: '2026-08-08T19:12:52Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 1697
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-07T04:07:30Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-08-10T08:10:58.755073+05:30'
-last_seen: '2026-08-10T08:10:58.755073+05:30'
-last_checked: '2026-08-10T08:10:58.755073+05:30'
+first_seen: '2026-08-10T10:31:33.254841+05:30'
+last_seen: '2026-08-10T10:31:33.254841+05:30'
+last_checked: '2026-08-10T10:31:33.254841+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Combines FastAPI (backend), Next.js (frontend), PostgreSQL (database), and Docker (containerization) with AI agent frameworks (LangChain, LangGraph, CrewAI, Pydantic-AI) for full-stack AI app development.
+- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, featuring PostgreSQL for storage, Docker for containerization, and WebSocket for real-time streaming.
 
-- **Key Features**: Includes AI Agents, Retrieval-Augmented Generation (RAG), real-time streaming via WebSocket, authentication, and 20+ integrations out-of-the-box (e.g., LLMs, React, TypeScript).
+- **AI Capabilities**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for agent orchestration, RAG (Retrieval-Augmented Generation) pipelines, and LLM interactions, with 20+ third-party integrations.
 
-- **Architecture**: Modular template with Pydantic validation, Pydantic-Deep for structured data, and pre-configured PostgreSQL for persistent storage, optimized for scalable AI-driven applications.
+- **Features**: Built-in authentication, Pydantic-Deep for data validation, and modular architecture supporting streaming responses, agent workflows, and scalable AI agent deployments.
 
 ## Why It Matters
 

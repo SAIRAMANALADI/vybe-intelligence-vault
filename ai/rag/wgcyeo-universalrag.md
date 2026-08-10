@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-10T08:12:23.816818+05:30'
+collected_at: '2026-08-10T10:32:58.265732+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 174
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-10T08:12:23.816818+05:30'
-last_seen: '2026-08-10T08:12:23.816818+05:30'
-last_checked: '2026-08-10T08:12:23.816818+05:30'
+first_seen: '2026-08-10T10:32:58.265732+05:30'
+last_seen: '2026-08-10T10:32:58.265732+05:30'
+last_checked: '2026-08-10T10:32:58.265732+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **UniversalRAG Framework**: Introduces a unified RAG system capable of handling diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via modality-agnostic encoders and granularity-aware retrievers.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by supporting retrieval and generation over diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level).
 
-- **Multimodal Retrieval**: Implements a cross-modal retrieval mechanism leveraging contrastive learning and hierarchical indexing to align and retrieve relevant content across heterogeneous data sources.
+- **ACL 2026 Oral Presentation**: The system is highlighted as an oral presentation at ACL 2026, indicating its novelty and significance in advancing multimodal retrieval-augmented generation (RAG) architectures.
 
-- **Adaptive Generation**: Integrates a modality-aware decoder that dynamically adjusts to retrieved content, enabling coherent generation across mixed-modal inputs while preserving contextual relevance.
+- **Python-Based Implementation**: The framework is implemented in Python, leveraging modern AI/ML libraries for efficient multimodal embedding, retrieval, and generation workflows.
 
 ## Why It Matters
 

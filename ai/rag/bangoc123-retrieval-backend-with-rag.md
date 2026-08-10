@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-10T08:11:28.732932+05:30'
+collected_at: '2026-08-10T10:32:03.207227+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
+- benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 265
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-10T08:11:28.732932+05:30'
-last_seen: '2026-08-10T08:11:28.732932+05:30'
-last_checked: '2026-08-10T08:11:28.732932+05:30'
+first_seen: '2026-08-10T10:32:03.207227+05:30'
+last_seen: '2026-08-10T10:32:03.207227+05:30'
+last_checked: '2026-08-10T10:32:03.207227+05:30'
 health_score: 100
 ---
 
@@ -27,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for Retrieval-Augmented Generation (RAG) pipelines tailored for Vietnamese language processing, including document retrieval and generation components.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including embedding and retrieval strategies tailored to Vietnamese text.
 
-- **Python-Based Architecture**: Utilizes Python with libraries such as LangChain, FAISS (for vector storage), and Hugging Face Transformers for embedding and LLM integration.
+- **Modular Python Architecture**: Features a structured backend with components for document processing, vector storage (e.g., FAISS/Weaviate), and LLM integration (e.g., ViT5, PhoBERT) for end-to-end RAG pipelines.
 
-- **Modular Design**: Includes components for text preprocessing, vector embedding (e.g., `sentence-transformers`), retrieval (dense/sparse), and generation (e.g., `vinai/PhoGPT` for Vietnamese LLMs).
+- **Evaluation & Optimization**: Includes benchmarks for retrieval quality (e.g., precision@k) and generation performance, with tools for fine-tuning Vietnamese-specific embeddings or rerankers.
 
 ## Why It Matters
 

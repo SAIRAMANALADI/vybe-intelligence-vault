@@ -2,8 +2,8 @@
 title: Firebase | Google's Mobile and Web App Development Platform
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://firebase.google.com/
-resource_id: blog:firebase-google-s-mobile-and-web-app-development-p-ab24bd47
+source_url: https://firebase.google.com
+resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
 local_vault_path: ai/rag/firebase-google-s-mobile-and-web-app-development-p.md
 quality_score: 70
 archive_score: 72
@@ -17,7 +17,6 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Services**: Firebase provides a suite of managed backend services (e.g., Firestore, Authentication, Cloud Functions) for scalable app development, with AI integration via Firebase AI Logic and Gemini for generative AI workflows.
+- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++ to streamline app development across multiple environments.
 
-- **Cross-Platform SDKs**: Supports iOS, Android, Web, Flutter, Unity, and C++ with unified APIs for real-time database (Firestore/Realtime DB), hosting, and storage.
+- **AI Integration**: Offers managed infrastructure (e.g., Firebase AI Logic, Agent Skills) and generative AI tools (e.g., Gemini) for building and scaling AI-powered applications with Google Cloud backend.
 
-- **Integrations & Extensions**: Offers pre-built extensions (e.g., Stripe payments, Algo
+- **Modular Services**: Includes pre-packaged extensions (e.g., Firestore-BigQuery sync, Stripe payments) and core products (e
 
 ## Use Cases
 
@@ -50,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firebase.google.com/
+Original source URL: https://firebase.google.com
 
 ## Local Vault File
 

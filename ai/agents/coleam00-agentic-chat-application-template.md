@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coleam00/agentic-chat-application-template
-collected_at: '2026-08-10T00:40:42.974921+05:30'
+collected_at: '2026-08-10T10:34:53.401090+05:30'
 published_at: '2026-08-01T21:14:41Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- reddit
 - typescript
 stars: 59
 language: TypeScript
@@ -18,9 +19,9 @@ archived: false
 created_at: '2026-02-10T21:33:09Z'
 pushed_at: '2026-03-24T13:45:37Z'
 resource_id: github:coleam00/agentic-chat-application-template
-first_seen: '2026-08-10T00:40:42.974921+05:30'
-last_seen: '2026-08-10T00:40:42.974921+05:30'
-last_checked: '2026-08-10T00:40:42.974921+05:30'
+first_seen: '2026-08-10T10:34:53.401090+05:30'
+last_seen: '2026-08-10T10:34:53.401090+05:30'
+last_checked: '2026-08-10T10:34:53.401090+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based template using Next.js for frontend, TailwindCSS for styling, and Shadcn for UI components.
-- **Architecture**: Work-in-progress (WIP) agentic chat application template with modular design for extensibility.
-- **Metadata**: 59 stars, 57 forks, last updated on 2026-08-01.
+- **Tech Stack**: TypeScript-based agentic chat app template using Next.js for SSR/SSG, TailwindCSS for styling, and Shadcn for UI components.
+- **Architecture**: Work-in-progress (WIP) template designed for modular agent interactions with TypeScript-first tooling and Next.js App Router.
+- **Metadata**: 59 stars, 57 forks, last updated 2026-08-01; no additional topics or dependencies specified.
 
 ## Why It Matters
 

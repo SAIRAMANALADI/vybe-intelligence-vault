@@ -1,50 +1,67 @@
 ---
-title: extensions/firestore-bigquery-export/guides/GENERATE_SCHEMA_VIEWS.md at master
-  · firebase/extensions · GitHub
+title: firebase/extensions
 category: ai/resources
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/firebase/extensions/blob/master/firestore-bigquery-export/guides/GENERATE_SCHEMA_VIEWS.md
-published_at: '2026-08-10T08:20:39.257225+05:30'
-collected_at: '2026-08-10T08:20:39.257238+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/firebase/extensions
+collected_at: '2026-08-10T10:41:45.707533+05:30'
+published_at: '2026-08-04T09:28:15Z'
 tags:
-- dataset
-- reddit
-- web-crawled
+- github-repo
+- typescript
+stars: 976
+language: TypeScript
 status: active
+license: Apache-2.0
+archived: false
+created_at: '2019-08-20T01:00:45Z'
+pushed_at: '2026-08-10T04:01:59Z'
 resource_id: github:firebase/extensions
-first_seen: '2026-08-10T08:20:39.257238+05:30'
-last_seen: '2026-08-10T08:20:39.257238+05:30'
-last_checked: '2026-08-10T08:20:39.257238+05:30'
+first_seen: '2026-08-10T10:41:45.707533+05:30'
+last_seen: '2026-08-10T10:41:45.707533+05:30'
+last_checked: '2026-08-10T10:41:45.707533+05:30'
 health_score: 100
 ---
 
-# extensions/firestore-bigquery-export/guides/GENERATE_SCHEMA_VIEWS.md at master · firebase/extensions · GitHub
+# firebase/extensions
 
 ## Summary
 
-- **Schema Enrichment**: The `fs-bq-schema-views` script generates structured BigQuery views from raw Firestore changelog data, applying explicit data types (e.g., `STRING`, `NUMERIC`, `GEOGRAPHY`) to improve queryability while preserving raw data integrity.
-
-- **AI-Powered Schema Generation**: Utilizes Google’s Genkit SDK and Gemini AI to automatically infer and generate schema definitions from Firestore collections, supporting complex types (arrays, maps, geopoints) and resolving SQL reserved keywords via `column_name` aliases.
-
-- **Dual-View Output**: Creates two BigQuery views per schema file—`changelog` (historical changes) and `latest` (current document state)—with type-safe columns mapped from Firestore (e.g., `geopoint` → `GEOGRAPHY`, arrays → unnested `_member`/`_index` columns).
+- **Repository Overview**: Official Firebase extensions source code, written in TypeScript, with 976 stars and 427 forks.
+- **Maintenance**: Last updated on 2026-08-04T09:28:15Z.
+- **Access**: Available at [GitHub repository](https://github.com/firebase/extensions).
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/resources
-- Published: 2026-08-10T08:20:39.257225+05:30
+- Owner: firebase
+- Stars: 976
+- Forks: 427
+- Language: TypeScript
+- Topics: None
+- Last Updated: 2026-08-04T09:28:15Z
+- License: Apache-2.0
+- Archived: No
+- Created At: 2019-08-20T01:00:45Z
+- Pushed At: 2026-08-10T04:01:59Z
 
-## Related Tags
+## Possible Use Cases
 
-- dataset
-- reddit
-- web-crawled
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/firebase/extensions/blob/master/firestore-bigquery-export/guides/GENERATE_SCHEMA_VIEWS.md
+Original source: https://github.com/firebase/extensions

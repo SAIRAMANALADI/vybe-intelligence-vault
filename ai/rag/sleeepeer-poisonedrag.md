@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-10T08:11:58.777845+05:30'
+collected_at: '2026-08-10T10:32:33.240760+05:30'
 published_at: '2026-08-09T05:32:34Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-10T08:11:58.777845+05:30'
-last_seen: '2026-08-10T08:11:58.777845+05:30'
-last_checked: '2026-08-10T08:11:58.777845+05:30'
+first_seen: '2026-08-10T10:32:33.240760+05:30'
+last_seen: '2026-08-10T10:32:33.240760+05:30'
+last_checked: '2026-08-10T10:32:33.240760+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems, where adversaries manipulate retrieved documents to alter LLM outputs without direct model access.
+- **Attack Mechanism**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval database to inject adversarial content, causing LLMs to generate incorrect or harmful outputs while maintaining high semantic similarity to benign responses.
 
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or biased responses while maintaining high semantic similarity to benign inputs.
+- **Technical Implementation**: Leverages *trigger-based poisoning* where adversaries embed subtle, contextually relevant perturbations in the retrieval corpus (e.g., via synonym substitution or synthetic document insertion) to evade detection while ensuring the poisoned data remains retrievable under normal queries.
 
-- **Evaluation & Impact**: Validated on multiple LLMs and datasets, showing up to **90% attack success rate** with minimal perturbation, highlighting critical security risks in production RAG deployments.
+- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., dense retrieval + LLMs) with attack success rates up to **92%** in controlled experiments, highlighting vulnerabilities in current trustworthiness mechanisms and proposing mitigation strategies like adversarial training and retrieval sanitization.
 
 ## Why It Matters
 

@@ -1,32 +1,34 @@
 ---
-title: Use the Gemini Code Assist agent mode | Google for Developers
+title: Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud
+  Documentation
 category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer#before-you-begin
-published_at: '2026-08-04T20:21:54.985200+05:30'
-collected_at: '2026-08-04T20:21:54.985216+05:30'
+published_at: '2026-08-10T10:41:56.516433+05:30'
+collected_at: '2026-08-10T10:41:56.516447+05:30'
 tags:
 - agents
+- producthunt
 - reddit
 - web-crawled
 status: active
-resource_id: blog:use-the-gemini-code-assist-agent-mode-google-for-d
-first_seen: '2026-08-04T20:21:54.985216+05:30'
-last_seen: '2026-08-04T20:21:54.985216+05:30'
-last_checked: '2026-08-04T20:21:54.985216+05:30'
+resource_id: blog:use-the-gemini-code-assist-agent-mode-gemini-for-g
+first_seen: '2026-08-10T10:41:56.516447+05:30'
+last_seen: '2026-08-10T10:41:56.516447+05:30'
+last_checked: '2026-08-10T10:41:56.516447+05:30'
 health_score: 100
 ---
 
-# Use the Gemini Code Assist agent mode | Google for Developers
+# Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation
 
 ## Summary
 
-- **Agent Mode Functionality**: Gemini Code Assist agent mode acts as a pair programmer in your IDE, enabling multi-step task execution, code generation from design docs/issues, MCP server configuration, and tool-based context-aware responses, while lacking recitation and source citation features present in standard chat mode.
+- **Agent Mode Configuration**: Enables pair programming in VS Code/IntelliJ via `Gemini Code Assist` agent toggle, supporting high-level tasks (code generation, multi-step solutions) with tool access (file ops, terminal, MCP servers) but lacking recitation/citation features.
 
-- **Tool Configuration**: Agent mode supports granular control over built-in tools (e.g., file I/O, shell commands) via `coreTools`/`excludeTools` settings in `settings.json` (VS Code) or `mcp.json` (IntelliJ), with command-specific restrictions possible (e.g., `ShellTool(ls -l)`).
+- **Tool Control & MCP Integration**: Restrict built-in tools via `coreTools`/`excludeTools` in `~/.gemini/settings.json` (VS Code) or `mcp.json` (IntelliJ); MCP servers extend capabilities (e.g., GitHub, GitLab) with authentication via env vars/headers.
 
-- **MCP Server Integration**: MCP servers (local/remote) are configured in IDE-specific files (`settings.json` for VS Code, `mcp.json` for IntelliJ) with authentication handled via environment variables or HTTP headers, enabling extended agent capabilities (e.g., GitHub/GitLab integrations).
+- **Context Management**: Use `GEMINI.md`/`AGENT.md` files for project-specific rules; `/tools` and `/mcp` commands monitor active tools/MCP servers, while caution is advised for auto-approvals due to filesystem/terminal access.
 
 ## Why It Matters
 
@@ -36,11 +38,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-04T20:21:54.985200+05:30
+- Published: 2026-08-10T10:41:56.516433+05:30
 
 ## Related Tags
 
 - agents
+- producthunt
 - reddit
 - web-crawled
 

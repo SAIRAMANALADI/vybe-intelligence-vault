@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-10T08:12:18.806039+05:30'
+collected_at: '2026-08-10T10:32:53.274146+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-10T08:12:18.806039+05:30'
-last_seen: '2026-08-10T08:12:18.806039+05:30'
-last_checked: '2026-08-10T08:12:18.806039+05:30'
+first_seen: '2026-08-10T10:32:53.274146+05:30'
+last_seen: '2026-08-10T10:32:53.274146+05:30'
+last_checked: '2026-08-10T10:32:53.274146+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) that mimics human-like stateful reasoning for long narrative comprehension, leveraging structured memory hierarchies to maintain context coherence.
 
-- **Stateful Reasoning**: Implements dynamic memory retrieval and integration mechanisms to maintain contextual coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to handle extended, multi-turn narratives, enabling the model to retain and utilize prior interactions for improved contextual understanding and response generation.
 
-- **AAAI 2026 Poster**: Presented as a cutting-edge contribution to long-form reasoning in AI, leveraging Python-based implementation for modularity and scalability in memory-augmented RAG systems.
+- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in the AAAI 2026 conference, emphasizing its novel integration of cognitive memory principles with RAG for enhanced reasoning in complex, state-dependent scenarios.
 
 ## Why It Matters
 

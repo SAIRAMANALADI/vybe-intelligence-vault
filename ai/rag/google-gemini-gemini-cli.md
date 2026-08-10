@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/google-gemini/gemini-cli
-collected_at: '2026-08-06T17:18:03.019791+05:30'
-published_at: '2026-08-06T11:06:25Z'
+collected_at: '2026-08-10T10:41:50.685070+05:30'
+published_at: '2026-08-10T04:54:47Z'
 tags:
 - agents
 - github-repo
 - rag
+- scripts
 - typescript
-stars: 106392
+- workflows
+stars: 106434
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-04-17T17:04:31Z'
-pushed_at: '2026-08-06T02:06:27Z'
+pushed_at: '2026-08-10T01:16:01Z'
 resource_id: github:google-gemini/gemini-cli
-first_seen: '2026-08-06T17:18:03.019791+05:30'
-last_seen: '2026-08-06T17:18:03.019791+05:30'
-last_checked: '2026-08-06T17:18:03.019791+05:30'
+first_seen: '2026-08-10T10:41:50.685070+05:30'
+last_seen: '2026-08-10T10:41:50.685070+05:30'
+last_checked: '2026-08-10T10:41:50.685070+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **CLI Integration**: Open-source TypeScript-based agent (`gemini-cli`) enabling direct terminal interaction with Google's Gemini AI models via a command-line interface.
-
-- **MCP Architecture**: Implements **Model Context Protocol (MCP)** as both client (`mcp-client`) and server (`mcp-server`) for extensible AI agent capabilities.
-
-- **API & Tooling**: Leverages the **Gemini API** for AI inference, supports multi-modal inputs, and includes features like session management, tool execution, and plugin-based extensibility.
+- **TypeScript-based CLI agent** integrating Google's Gemini API for terminal-based AI interactions, supporting MCP (Model Context Protocol) client/server architecture.
+- **Open-source repository** with 106K+ stars and 14K+ forks, last updated in August 2026, enabling local AI agent deployment.
+- **Features AI-driven terminal workflows**, leveraging Gemini's capabilities for code assistance, automation, and real-time agentic tasks.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: google-gemini
-- Stars: 106392
-- Forks: 14398
+- Stars: 106434
+- Forks: 14411
 - Language: TypeScript
 - Topics: ai, ai-agents, cli, gemini, gemini-api, mcp-client, mcp-server
-- Last Updated: 2026-08-06T11:06:25Z
+- Last Updated: 2026-08-10T04:54:47Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-17T17:04:31Z
-- Pushed At: 2026-08-06T02:06:27Z
+- Pushed At: 2026-08-10T01:16:01Z
 
 ## Possible Use Cases
 

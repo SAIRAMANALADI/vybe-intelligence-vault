@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.langchain.com/
-published_at: '2026-08-10T00:43:17.107011+05:30'
-collected_at: '2026-08-10T00:43:17.107021+05:30'
+published_at: '2026-08-10T10:37:42.020594+05:30'
+collected_at: '2026-08-10T10:37:42.020607+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-blog
-first_seen: '2026-08-10T00:43:17.107021+05:30'
-last_seen: '2026-08-10T00:43:17.107021+05:30'
-last_checked: '2026-08-10T00:43:17.107021+05:30'
+first_seen: '2026-08-10T10:37:42.020607+05:30'
+last_seen: '2026-08-10T10:37:42.020607+05:30'
+last_checked: '2026-08-10T10:37:42.020607+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Managed Deep Agents Public Beta**: LangSmith introduces Managed Deep Agents in public beta, enabling autonomous agent orchestration with built-in observability, evals, and deployment controls for production environments.
+- **Managed Deep Agents Public Beta**: LangSmith introduces public beta for Managed Deep Agents, enabling scalable, production-ready autonomous agent deployments with integrated observability and evaluation frameworks.
 
-- **LangSmith LLM Gateway**: Runtime controls for production agents via LangSmith LLM Gateway, providing dynamic routing, rate limiting, and model switching to enforce policies and optimize LLM interactions in real-time.
+- **LangSmith LLM Gateway**: Runtime control layer for production agents, providing dynamic LLM routing, rate limiting, and policy enforcement to ensure compliance and performance in multi-agent systems.
 
-- **Deep Agents v0.7 Release**: Major update to Deep Agents framework with enhanced modularity, improved state management, and expanded tool integration for Kubernetes-native agent deployments and SRE workflows.
+- **Deep Agents v0.7 Release**: Introduces enhanced agent orchestration, improved state management, and expanded tooling for Kubernetes-native deployments, alongside NVIDIA NemoClaw Deep Agents Blueprint for GPU-accelerated agent workflows.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-10T00:43:17.107011+05:30
+- Published: 2026-08-10T10:37:42.020594+05:30
 
 ## Related Tags
 

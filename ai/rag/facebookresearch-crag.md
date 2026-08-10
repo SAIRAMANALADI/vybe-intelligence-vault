@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-10T08:11:48.803286+05:30'
+collected_at: '2026-08-10T10:32:23.284218+05:30'
 published_at: '2026-08-07T07:48:15Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - jupyter notebook
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-10T08:11:48.803286+05:30'
-last_seen: '2026-08-10T08:11:48.803286+05:30'
-last_checked: '2026-08-10T08:11:48.803286+05:30'
+first_seen: '2026-08-10T10:32:23.284218+05:30'
+last_seen: '2026-08-10T10:32:23.284218+05:30'
+last_checked: '2026-08-10T10:32:23.284218+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRAG is a comprehensive benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems, providing standardized metrics and datasets for assessing performance across diverse tasks.
-
-- **Technical Implementation**: The repository is implemented in Jupyter Notebooks, facilitating modular experimentation and reproducibility with structured evaluation pipelines for RAG components (retrieval, generation, and integration).
-
-- **Evaluation Scope**: Focuses on rigorous testing of RAG pipelines under varying conditions (e.g., noise, latency, and domain shifts), enabling comparative analysis of retrieval strategies, model architectures, and hybrid approaches.
+- **CRAG Benchmark**: A comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse retrieval and generation tasks.
+- **Technical Scope**: Implemented in Jupyter Notebooks, enabling modular testing of RAG pipelines, including retrieval accuracy, context relevance, and answer correctness metrics.
+- **Benchmark Metrics**: Evaluates systems on factuality, hallucination reduction, and robustness under noisy or incomplete retrieval conditions, with updates as of August 2026.
 
 ## Why It Matters
 

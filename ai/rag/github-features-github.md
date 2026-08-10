@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features
-published_at: '2026-08-10T08:19:29.483537+05:30'
-collected_at: '2026-08-10T08:19:29.483550+05:30'
+published_at: '2026-08-10T10:38:41.255004+05:30'
+collected_at: '2026-08-10T10:38:41.255017+05:30'
 tags:
 - rag
 - scripts
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-features-github
-first_seen: '2026-08-10T08:19:29.483550+05:30'
-last_seen: '2026-08-10T08:19:29.483550+05:30'
-last_checked: '2026-08-10T08:19:29.483550+05:30'
+first_seen: '2026-08-10T10:38:41.255017+05:30'
+last_seen: '2026-08-10T10:38:41.255017+05:30'
+last_checked: '2026-08-10T10:38:41.255017+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Copilot & AI Integration**: Provides inline code suggestions (whole lines/functions) via AI, with advanced features like Copilot Chat, Autofix (90% alert remediation in JS/TS/Java/Python), and secret scanning using AI to detect elusive secrets (e.g., passwords).
+- **GitHub Copilot**: AI-powered code completion and generation within IDEs, providing whole-line or function-level suggestions; includes Copilot Chat for conversational AI assistance and Copilot Autofix for automated vulnerability remediation in supported languages (JavaScript, TypeScript, Java, Python).
 
-- **Automation & CI/CD**: GitHub Actions enables workflow automation (build/test/deploy) with 10K+ community actions, self-hosted/hosted runners (Linux/macOS/Windows/ARM/GPU), and workflow visualization/templates for standardized scaling of best practices.
+- **GitHub Advanced Security (GHAS)**: Integrated security suite featuring CodeQL-based static analysis, secret scanning, dependency vulnerability alerts (Dependabot), and AI-driven remediation (e.g., security campaigns targeting up to 1,000 alerts with autofixes).
 
-- **Security & Supply Chain**: GitHub Advanced Security (GHAS) integrates code scanning (CodeQL), secret scanning, Dependabot (vulnerability alerts/updates), dependency graph, and private vulnerability reporting to detect/fix vulnerabilities and manage supply chain risks.
+- **GitHub Actions & CI/CD**: Cloud-hosted automation platform with GitHub-hosted runners (Linux/macOS/Windows/ARM/GPU) and self-hosted runner support; includes workflow visualization, preconfigured templates, and Marketplace integrations for standardized, scalable CI/CD pipelines.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T08:19:29.483537+05:30
+- Published: 2026-08-10T10:38:41.255004+05:30
 
 ## Related Tags
 

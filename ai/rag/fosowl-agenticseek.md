@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-10T08:13:58.888204+05:30'
-published_at: '2026-08-10T00:10:02Z'
+collected_at: '2026-08-10T10:34:33.352667+05:30'
+published_at: '2026-08-10T04:49:17Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 26776
+stars: 26774
 language: Python
 status: active
 license: GPL-3.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-08-03T21:08:08Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-10T08:13:58.888204+05:30'
-last_seen: '2026-08-10T08:13:58.888204+05:30'
-last_checked: '2026-08-10T08:13:58.888204+05:30'
+first_seen: '2026-08-10T10:34:33.352667+05:30'
+last_seen: '2026-08-10T10:34:33.352667+05:30'
+last_checked: '2026-08-10T10:34:33.352667+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Local-first autonomous agent** leveraging deepseek-r1 for reasoning, browsing, and code execution without external APIs or cloud dependencies.
-- **Python-based implementation** optimized for low-cost, electricity-only operation (no subscription fees or API costs).
-- **Supports multimodal interactions** including voice assistance and agentic workflows for autonomous task completion.
+- **Local-first autonomous agent framework** leveraging DeepSeek-R1 for reasoning, eliminating dependency on cloud APIs or external services.
+- **Multi-modal capabilities** include web browsing, code execution, and voice assistant integration via Python-based implementation.
+- **Cost-efficient deployment** operates solely on local hardware, with performance scaling limited by computational resources and electricity costs.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Fosowl
-- Stars: 26776
+- Stars: 26774
 - Forks: 2995
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
-- Last Updated: 2026-08-10T00:10:02Z
+- Last Updated: 2026-08-10T04:49:17Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-02-19T18:03:06Z

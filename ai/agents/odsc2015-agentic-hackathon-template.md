@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-08-10T08:14:13.899009+05:30'
+collected_at: '2026-08-10T10:34:48.344333+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - unknown
-- workflows
 stars: 19
 language: Unknown
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-08-10T08:14:13.899009+05:30'
-last_seen: '2026-08-10T08:14:13.899009+05:30'
-last_checked: '2026-08-10T08:14:13.899009+05:30'
+first_seen: '2026-08-10T10:34:48.344333+05:30'
+last_seen: '2026-08-10T10:34:48.344333+05:30'
+last_checked: '2026-08-10T10:34:48.344333+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a preconfigured folder structure, environment specifications (e.g., `requirements.txt` or `environment.yml`), and documentation templates to ensure consistency across hackathon submissions.
+- **Standardized Starter Repository**: Provides a pre-configured folder structure, environment specifications, and documentation templates for Agentic AI App Hackathon submissions.
 
-- **Reproducibility Focus**: Includes version-locked dependencies and environment files to guarantee identical execution environments for judging and evaluation.
+- **Reproducible Environment**: Includes a reproducible setup (likely via `requirements.txt`, `environment.yml`, or Docker) to ensure consistent execution across teams and judging environments.
 
-- **Hackathon Optimization**: Designed to streamline submission workflows with placeholders for key components (e.g., model code, evaluation metrics) and last-updated timestamp for version control.
+- **Judging Optimization**: Designed to streamline submission and evaluation processes with placeholders for required documentation and structured output formats.
 
 ## Why It Matters
 

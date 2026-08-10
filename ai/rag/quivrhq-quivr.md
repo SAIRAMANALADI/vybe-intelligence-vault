@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-10T08:11:58.809220+05:30'
-published_at: '2026-08-09T21:10:49Z'
+collected_at: '2026-08-10T10:32:33.242588+05:30'
+published_at: '2026-08-10T04:49:46Z'
 tags:
 - frontend_ui
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-10T08:11:58.809220+05:30'
-last_seen: '2026-08-10T08:11:58.809220+05:30'
-last_checked: '2026-08-10T08:11:58.809220+05:30'
+first_seen: '2026-08-10T10:32:33.242588+05:30'
+last_seen: '2026-08-10T10:32:33.242588+05:30'
+last_checked: '2026-08-10T10:32:33.242588+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization and compatibility with any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss).
-
-- **Multi-Format & Multi-Store Support**: Enables integration with any file type and supports flexible deployment across multiple vector databases (PostgreSQL, Faiss) and LLMs, with Docker-based containerization for scalability.
-
-- **Full-Stack Integration**: Provides a TypeScript/JavaScript frontend (React) with HTML/CSS, a Python backend, and RESTful API support, emphasizing privacy, security, and extensibility for enterprise-grade applications.
+*   Provides an opinionated RAG framework for GenAI integration, abstracting underlying RAG complexities for application developers.
+*   Features LLM and vector store agnosticism, supporting diverse models (e.g., GPT4, Groq, Llama) and databases (e.g., PGVector, Faiss).
+*   Built primarily with Python, designed for Docker deployment, and includes a React/TypeScript frontend with PostgreSQL backend integration.
 
 ## Why It Matters
 
@@ -49,7 +47,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 3724
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-08-09T21:10:49Z
+- Last Updated: 2026-08-10T04:49:46Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

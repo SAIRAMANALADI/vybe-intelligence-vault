@@ -13,13 +13,14 @@ collected_at: '2026-08-10T08:09:49.962922+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-hacker-s-renaissance
 first_seen: '2026-08-10T03:22:47.296569+05:30'
 last_seen: '2026-08-10T08:09:49.962922+05:30'
 last_checked: '2026-08-10T08:09:49.962922+05:30'
 health_score: 100
 ---
+
 
 # The Hacker's Renaissance (2025)
 

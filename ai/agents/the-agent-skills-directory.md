@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://skills.sh
-published_at: '2026-08-10T08:18:35.594711+05:30'
-collected_at: '2026-08-10T08:18:35.594727+05:30'
+published_at: '2026-08-10T10:37:37.433619+05:30'
+collected_at: '2026-08-10T10:37:37.433632+05:30'
 tags:
 - agents
 - anthropic
@@ -18,13 +18,12 @@ tags:
 - reddit
 - scripts
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:the-agent-skills-directory
-first_seen: '2026-08-10T08:18:35.594727+05:30'
-last_seen: '2026-08-10T08:18:35.594727+05:30'
-last_checked: '2026-08-10T08:18:35.594727+05:30'
+first_seen: '2026-08-10T10:37:37.433632+05:30'
+last_seen: '2026-08-10T10:37:37.433632+05:30'
+last_checked: '2026-08-10T10:37:37.433632+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Top Skills by Install Count**: `find-skills` (Vercel Labs) leads with **2.9M installs**, followed by `grill-me` (**808.3K**) and `frontend-design` (**759.1K**), indicating high demand for AI-driven skill discovery and frontend development tools.
-
-- **Dominant Publishers**: **mattpocock/skills** (15+ entries, e.g., `grill-with-docs`, `tdd`) and **microsoft/azure-skills** (10+ entries, e.g., `azure-ai`, `azure-rbac`) dominate the leaderboard, reflecting strong ecosystem-specific tooling adoption.
-
-- **Niche Specializations**: Skills like `hyperframes-cli` (**353K**), `supabase-postgres-best-practices** (**337.9K**), and `entra-agent-id** (**232.9K**) highlight emerging domains in AI-driven media processing, database optimization, and identity management.
+- **Top 3 Skills by Install Count**: `find-skills` (2.9M), `grill-me` (809.2K), `frontend-design` (759.4K), all hosted on `skills.sh` with varying 8W activity metrics.
+- **Dominant Publishers**: `mattpocock/skills` (12+ entries, e.g., `grill-with-docs`, `tdd`, `codebase-design`) and `microsoft/azure-skills` (10+ entries, e.g., `azure-ai`, `azure-rbac`) dominate the leaderboard with high install counts.
+- **Niche Specializations**: Skills like `hyperframes` (Heygen) and `caveman` (Julius Brussee) target specific domains (video generation, AI-assisted development), while `larksuite/cli` entries (e.g., `lark-markdown`, `lark-okr`) focus on productivity tooling with moderate adoption.
 
 ## Why It Matters
 
@@ -46,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-10T08:18:35.594711+05:30
+- Published: 2026-08-10T10:37:37.433619+05:30
 
 ## Related Tags
 
@@ -61,7 +58,6 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
-- workflows
 - youtube
 
 ## Source
