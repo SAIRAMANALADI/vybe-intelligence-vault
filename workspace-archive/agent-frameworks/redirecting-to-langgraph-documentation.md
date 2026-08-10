@@ -8,15 +8,14 @@ local_vault_path: ai/agents/redirecting-to-langgraph-documentation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Redirecting to LangGraph Documentation
@@ -25,16 +24,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
 - LangGraph documentation relocated to [docs.langchain.com](https://docs.langchain.com/oss/python/langgraph/overview)
-- New URL replaces prior hosting location for LangGraph technical resources
-- Redirect mechanism automatically forwards legacy links to updated documentation site
+- New URL replaces prior hosting for LangGraph's open-source Python framework docs
+- Redirect mechanism auto-forwards legacy links to updated documentation site
 
 ## Use Cases
 

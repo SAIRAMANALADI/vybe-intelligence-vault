@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-08-10T13:50:09.646012+05:30'
-collected_at: '2026-08-10T13:50:09.646025+05:30'
+published_at: '2026-08-10T16:23:41.704850+05:30'
+collected_at: '2026-08-10T16:23:41.704867+05:30'
 tags:
 - agents
 - benchmark
@@ -19,9 +19,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-08-10T13:50:09.646025+05:30'
-last_seen: '2026-08-10T13:50:09.646025+05:30'
-last_checked: '2026-08-10T13:50:09.646025+05:30'
+first_seen: '2026-08-10T16:23:41.704867+05:30'
+last_seen: '2026-08-10T16:23:41.704867+05:30'
+last_checked: '2026-08-10T16:23:41.704867+05:30'
 health_score: 100
 ---
 
@@ -29,14 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook**: Repository of 49 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and more, with most showcasing small, specific demos across 25+ topics (e.g., Agents, RAG, Multimodal, Model Serving).
-
-- **Key Technical Recipes**:
-  - **Agentic Systems**: Includes Computer-Use Agent with Skills, Cost-Aware Agents with Hooks, and Browser Agents with Gemini + Playwright MCP.
-  - **Advanced RAG**: Covers Hybrid RAG with Breakpoints, Query Decomposition/Expansion, HyDE for Retrieval, and Automated Metadata Enrichment.
-  - **Integration & Optimization**: Features vLLM inference engine, FastEmbed for embeddings, NVIDIA NIMs for self-deployed models, and DSPy for prompt optimization.
-
-- **Evaluation & Observability**: Recipes for RAG evaluation using Prometheus 2, DeepEval, RAGAS, and Arize Phoenix for tracing and safety moderation with open language models.
+- **Haystack Cookbook** provides 49 technical recipes demonstrating integrations of model providers, vector databases, retrieval techniques, and advanced RAG pipelines (e.g., query decomposition, HyDE, hybrid retrieval) with frameworks like Haystack.
+- **Key focus areas** include agents (function calling, cost-aware, browser-based), multimodal processing, metadata enrichment, and observability/evaluation (e.g., Arize Phoenix, RAGAS, DeepEval).
+- **Deployment and optimization** recipes cover async pipelines, vLLM inference, NVIDIA NIMs, DSPy prompt optimization, and domain-specific RAG (e.g., legal analysis, SQL chat, podcast multilingual RAG).
 
 ## Why It Matters
 
@@ -46,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T13:50:09.646012+05:30
+- Published: 2026-08-10T16:23:41.704850+05:30
 
 ## Related Tags
 

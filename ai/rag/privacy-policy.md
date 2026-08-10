@@ -1,33 +1,34 @@
 ---
-title: Privacy Policy
+title: Privacy policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://cohere.com/privacy
-published_at: '2026-08-05T14:36:23.283142+05:30'
-collected_at: '2026-08-05T14:36:23.283156+05:30'
+source_url: https://www.langchain.com/privacy-policy
+published_at: '2026-08-10T16:21:05.366743+05:30'
+collected_at: '2026-08-10T16:21:05.366755+05:30'
 tags:
 - agents
 - hackernews
 - rag
+- reddit
 - web-crawled
 status: active
 resource_id: blog:privacy-policy
-first_seen: '2026-08-05T14:36:23.283156+05:30'
-last_seen: '2026-08-05T14:36:23.283156+05:30'
-last_checked: '2026-08-05T14:36:23.283156+05:30'
+first_seen: '2026-08-10T16:21:05.366755+05:30'
+last_seen: '2026-08-10T16:21:05.366755+05:30'
+last_checked: '2026-08-10T16:21:05.366755+05:30'
 health_score: 100
 ---
 
-# Privacy Policy
+# Privacy policy
 
 ## Summary
 
-- **Data Collection Scope**: Personal information is collected from Job Applicants, Visitors, Researchers, Trial Users, Enterprise Users, and End Users, with specific handling governed by role-specific policies (e.g., [Enterprise Data Commitments](https://cohere.com/enterprise-data-commitments), [Model Training Privacy Notice](https://cohere.com/model-training-privacy-notice)).
+- **Data Collection Scope**: Collects personal information (e.g., email, payment details, business contact info) via account registration, third-party integrations, and automated tracking (cookies, web beacons, device/IP data) for service operation, marketing, and compliance.
 
-- **Processing for R&D & Compliance**: Trial/Research Users’ inputs/outputs may be used for model improvement after de-identification; Enterprise Users can control training via DPAs; all data is processed for security, fraud detection, legal compliance, and support ticket resolution.
+- **Processing & Legal Bases**: Uses personal data for service provision, research, marketing, and legal compliance, with processing justified under legitimate interests, contractual necessity, consent, or legal obligations (per UK/EU GDPR).
 
-- **Third-Party Disclosures**: Personal data is shared with affiliates, vendors (e.g., cloud/storage, analytics), and under legal obligations (e.g., court orders), with sub-processors listed in [Cohere’s Trust Center](https://trustcenter.cohere.com/subprocessors).
+- **Data Sharing & Rights**: Shares data with service providers, affiliates, and authorities; transfers data internationally. Users retain rights to access, rectify, erase, or restrict processing, with mechanisms for opt-out and complaint lodging to supervisory authorities.
 
 ## Why It Matters
 
@@ -37,15 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T14:36:23.283142+05:30
+- Published: 2026-08-10T16:21:05.366743+05:30
 
 ## Related Tags
 
 - agents
 - hackernews
 - rag
+- reddit
 - web-crawled
 
 ## Source
 
-Original source: https://cohere.com/privacy
+Original source: https://www.langchain.com/privacy-policy

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-10T10:33:28.330316+05:30'
-published_at: '2026-08-10T01:23:38Z'
+collected_at: '2026-08-10T16:15:11.255403+05:30'
+published_at: '2026-08-10T10:28:34Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - openai
 - python
 - workflows
-stars: 10521
+stars: 10525
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-08-09T08:17:55Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-10T10:33:28.330316+05:30'
-last_seen: '2026-08-10T10:33:28.330316+05:30'
-last_checked: '2026-08-10T10:33:28.330316+05:30'
+first_seen: '2026-08-10T16:15:11.255403+05:30'
+last_seen: '2026-08-10T16:15:11.255403+05:30'
+last_checked: '2026-08-10T16:15:11.255403+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements a non-blocking, event-driven architecture for autonomous code generation and modification using LLMs (OpenAI, Anthropic) with async/await patterns in Python.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for multi-agent collaboration in Python, enabling concurrent task execution and non-blocking I/O operations for LLM interactions.
 
-- **Multi-Provider LLM Integration**: Supports concurrent interactions with multiple LLM backends (OpenAI, Anthropic) via standardized async interfaces, enabling parallel task execution and dynamic provider switching.
+- **Multi-LLM Integration**: Supports dynamic switching between OpenAI, Anthropic (ClaudeCode), and other LLM providers via modular adapters, facilitating adaptive agent behavior based on task requirements.
 
-- **Stateful Agent Workflow**: Manages persistent agent state across sessions with async task queues, enabling resumable operations, context retention, and distributed execution via asyncio and Redis-backed coordination.
+- **Open-Source Framework**: Provides a pluggable, extensible agent system with built-in concurrency primitives (e.g., asyncio) for scalable, production-grade coding workflows.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10521
-- Forks: 1223
+- Stars: 10525
+- Forks: 1224
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-10T01:23:38Z
+- Last Updated: 2026-08-10T10:28:34Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

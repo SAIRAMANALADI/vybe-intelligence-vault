@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-10T13:41:46.320812+05:30'
+collected_at: '2026-08-10T16:14:16.162169+05:30'
 published_at: '2026-08-10T04:49:46Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-10T13:41:46.320812+05:30'
-last_seen: '2026-08-10T13:41:46.320812+05:30'
-last_checked: '2026-08-10T13:41:46.320812+05:30'
+first_seen: '2026-08-10T16:14:16.162169+05:30'
+last_seen: '2026-08-10T16:14:16.162169+05:30'
+last_checked: '2026-08-10T16:14:16.162169+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM & Vector Store Agnostic RAG Framework**: Supports any LLM (GPT4, Groq, Llama) and vector stores (PGVector, Faiss) with customizable integration for seamless GenAI adoption in existing products.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for diverse use cases.
 
-- **Opinionated RAG with Privacy & Security**: Prioritizes developer experience with built-in privacy controls, Dockerized deployment, and support for PostgreSQL, while enabling customization for any file type or use case.
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT-4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), with flexible file ingestion and API-driven integration for existing products.
 
-- **Full-Stack GenAI Integration**: Combines Python backend with React/TypeScript frontend, offering REST API support, HTML/JS SDKs, and modular architecture for scalable, production-ready RAG implementations.
+- **Tech Stack**: Built in Python with React/TypeScript frontend, Dockerized deployment, and support for PostgreSQL, security, and privacy features for scalable, production-ready GenAI applications.
 
 ## Why It Matters
 

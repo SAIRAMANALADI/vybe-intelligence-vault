@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-10T13:41:46.291895+05:30'
+collected_at: '2026-08-10T16:14:16.204288+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 263
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-08-06T19:58:27Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-10T13:41:46.291895+05:30'
-last_seen: '2026-08-10T13:41:46.291895+05:30'
-last_checked: '2026-08-10T13:41:46.291895+05:30'
+first_seen: '2026-08-10T16:14:16.204288+05:30'
+last_seen: '2026-08-10T16:14:16.204288+05:30'
+last_checked: '2026-08-10T16:14:16.204288+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time log monitoring, with modular components for extensibility in cybersecurity operations.
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to construct and query contextual behavioral patterns from historical security data for anomaly validation.
-- **LLM-Driven Anomaly Detection**: Uses large language models (LLMs) to dynamically validate and triage real-time anomalies, combining threat detection and hunting capabilities in an autonomous SOC workflow.
+- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time monitoring, with modular components for extensibility in cybersecurity operations.
+
+- **RAG-Powered Behavioral Memory**: Builds Retrieval-Augmented Generation (RAG) memory from historical data to contextualize anomalies and improve threat detection accuracy.
+
+- **LLM-Validated Anomaly Detection**: Uses Large Language Models (LLMs) to validate and prioritize real-time anomalies, enabling autonomous threat hunting and SOC automation.
 
 ## Why It Matters
 

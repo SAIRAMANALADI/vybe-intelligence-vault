@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.llamaindex.ai/python/cloud/llamaparse/
-published_at: '2026-08-10T00:44:20.713295+05:30'
-collected_at: '2026-08-10T00:44:20.713304+05:30'
+published_at: '2026-08-10T16:20:36.369351+05:30'
+collected_at: '2026-08-10T16:20:36.369366+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:overview-of-parse-developer-documentation
-first_seen: '2026-08-10T00:44:20.713304+05:30'
-last_seen: '2026-08-10T00:44:20.713304+05:30'
-last_checked: '2026-08-10T00:44:20.713304+05:30'
+first_seen: '2026-08-10T16:20:36.369366+05:30'
+last_seen: '2026-08-10T16:20:36.369366+05:30'
+last_checked: '2026-08-10T16:20:36.369366+05:30'
 health_score: 100
 ---
 
@@ -21,8 +21,8 @@ health_score: 100
 ## Summary
 
 - **SDK Installation & API Key**: Install the SDK and obtain an API key for platform access.
-- **Single-Platform Operations**: Execute Parse, Extract, Classify, Split, Sheets, or Index functions via unified platform.
-- **First Call Execution**: Run initial API call to validate setup and functionality.
+- **Multi-Function Integration**: Supports Parse, Extract, Classify, Split, Sheets, and Index operations.
+- **Unified Platform Execution**: Execute first call against any supported function via a single integrated platform.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T00:44:20.713295+05:30
+- Published: 2026-08-10T16:20:36.369351+05:30
 
 ## Related Tags
 

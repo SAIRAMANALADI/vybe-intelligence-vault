@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/withastro/astro/blob/main/CONTRIBUTING.md
-published_at: '2026-08-10T00:46:02.690515+05:30'
-collected_at: '2026-08-10T00:46:02.690528+05:30'
+published_at: '2026-08-10T16:19:16.056252+05:30'
+collected_at: '2026-08-10T16:19:16.056270+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: github:withastro/astro
-first_seen: '2026-08-10T00:46:02.690528+05:30'
-last_seen: '2026-08-10T00:46:02.690528+05:30'
-last_checked: '2026-08-10T00:46:02.690528+05:30'
+first_seen: '2026-08-10T16:19:16.056270+05:30'
+last_seen: '2026-08-10T16:19:16.056270+05:30'
+last_checked: '2026-08-10T16:19:16.056270+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Environment Setup**: Requires Node.js `>=22.12.0` and PNPM `>=10.28.0` (preferably via Corepack); local setup involves `pnpm install` at root, `pnpm run build`, and Git config for `.git-blame-ignore-revs` to exclude formatting commits.
+- **Environment Setup**: Requires Node.js `>=22.12.0` and PNPM `>=10.28.0`; use Corepack for dependency management. Configure Git blame to ignore formatting revisions via `.git-blame-ignore-revs` and set up PNPM merge driver for `pnpm-lock.yaml` conflict resolution.
 
-- **Testing Workflow**: Supports multiple testing methods—examples (`pnpm --filter @example/minimal run dev`), unit tests (`pnpm run test` or `node --test`), and E2E tests via Playwright (`pnpm run test:e2e`); single-test isolation requires `.only` modifiers and `--test-only` flag.
+- **Testing & Debugging**: Run `pnpm run dev` for live-reload development, `pnpm run test` for all tests, or `pnpm run test:e2e` for Playwright-based end-to-end tests. Debug Vite with `DEBUG=vite:* astro dev` and isolate failing tests using `node --test --test-only`.
 
-- **Debugging & Benchmarking**: Vite debugging via `DEBUG=vite:* astro dev`, test debugging in CI with `--parallel`, and benchmark execution via `pnpm run benchmark` (or specific benchmarks like `memory`); PRs can trigger CI benchmarks with `!bench` comments.
+- **Benchmarking & PR Workflow**: Execute benchmarks via `pnpm run benchmark [name]` or trigger CI benchmarks with `!bench [name]`. For PRs, use `pnpm exec changeset` to document changes (excluding non-package directories like `examples/*`).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T00:46:02.690515+05:30
+- Published: 2026-08-10T16:19:16.056252+05:30
 
 ## Related Tags
 

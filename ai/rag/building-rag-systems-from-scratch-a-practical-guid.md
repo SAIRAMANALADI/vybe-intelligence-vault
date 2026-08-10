@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://z4hid.github.io/blog/building-rag-systems-from-scratch/
-published_at: '2026-08-10T03:23:47.221879+05:30'
-collected_at: '2026-08-10T03:23:47.221891+05:30'
+published_at: '2026-08-10T16:13:01.430610+05:30'
+collected_at: '2026-08-10T16:13:01.430626+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:building-rag-systems-from-scratch-a-practical-guid
-first_seen: '2026-08-10T03:23:47.221891+05:30'
-last_seen: '2026-08-10T03:23:47.221891+05:30'
-last_checked: '2026-08-10T03:23:47.221891+05:30'
+first_seen: '2026-08-10T16:13:01.430626+05:30'
+last_seen: '2026-08-10T16:13:01.430626+05:30'
+last_checked: '2026-08-10T16:13:01.430626+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,16 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Indexing involves loading documents (PDFs, Markdown, web content), chunking (e.g., 800 tokens with 200 overlap), embedding (e.g., OpenAI `text-embedding-3-small` or open-source `BGE-large-en-v1.5`), and storing in a vector DB (e.g., Chroma, Pinecone, Qdrant). Querying embeds the user input, retrieves top-*k* relevant chunks (with optional hybrid search or re-ranking), and generates answers using an LLM (e.g., GPT-4o) with a structured prompt enforcing context-only responses and citations.
+- **RAG Pipeline Architecture**: Two-phase process—**indexing** (documents → chunking → embedding → vector storage) and **querying** (query embedding → vector search → top-K retrieval → LLM generation)—with critical dependencies on chunking strategy, embedding model choice, and vector database performance.
 
-- **Critical Optimization Techniques**: Chunking strategy (fixed-size vs. semantic) and embedding model selection (e.g., 1536D OpenAI vs. 1024D BAAI) directly impact retrieval precision. Hybrid search (combining BM25 + vector similarity) and re-ranking (e.g., Cohere’s cross-encoder) improve relevance, while metadata filtering narrows search scope. Evaluation metrics (e.g., RAGAS for faithfulness, context precision) quantify system performance beyond basic similarity metrics.
+- **Key Technical Components**:
+  - **Chunking**: Optimal size (500–800 tokens) balances context and precision; semantic chunking improves topic coherence but increases computational cost.
+  - **Embedding Models**: Trade-offs between proprietary (OpenAI `text-embedding-3-large`, 3072D, $0.13/1M tokens) and open-source (BAAI `BGE-large`, 1024D, self-hosted) models dictate retrieval accuracy and cost.
+  - **Vector Databases**: Chroma (embedded, <1M vectors) for prototyping vs. Pinecone/Qdrant (cloud/self-hosted, billions of vectors) for production-scale systems with metadata filtering and hybrid search (BM25 + vector similarity).
 
-- **Production Considerations**: Index updates require automated pipelines (batch or event-driven), semantic caching reduces latency/cost for repeated queries, and comprehensive logging (query, retrieval, generation) enables debugging. Context length must be constrained (3–5 chunks), and fallback behaviors (e.g., "I don’t know" responses) must be defined for edge cases like empty retrievals or out-of-domain queries.
+- **Evaluation & Production Considerations**:
+  - **Metrics**: Retrieval quality (Recall@K, MRR) and generation fidelity (faithfulness, relevance) via tools like RAGAS; hybrid search and re-ranking (e.g., Cohere cross-encoder) improve precision by 15–25%.
+  - **Operationalization**: Nightly index updates, semantic caching for frequent queries, exhaustive logging (query, retrieval scores, LLM prompts/responses), and fallback mechanisms for edge cases (e.g., no relevant docs found).
 
 ## Why It Matters
 
@@ -43,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T03:23:47.221879+05:30
+- Published: 2026-08-10T16:13:01.430610+05:30
 
 ## Related Tags
 

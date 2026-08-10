@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FudanDNN-NLP/RAG
-collected_at: '2026-08-10T13:41:21.299901+05:30'
+collected_at: '2026-08-10T16:13:51.160998+05:30'
 published_at: '2026-07-26T08:08:37Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - paper
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-06-29T13:07:50Z'
 pushed_at: '2024-12-21T07:32:41Z'
 resource_id: github:fudandnn-nlp/rag
-first_seen: '2026-08-10T13:41:21.299901+05:30'
-last_seen: '2026-08-10T13:41:21.299901+05:30'
-last_checked: '2026-08-10T13:41:21.299901+05:30'
+first_seen: '2026-08-10T16:13:51.160998+05:30'
+last_seen: '2026-08-10T16:13:51.160998+05:30'
+last_checked: '2026-08-10T16:13:51.160998+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"* with focus on RAG optimization techniques.
-- **Repository Metadata**: 348 stars, 21 forks, last updated on 2026-07-26, with no specified topics.
-- **Technical Stack**: Pure Python implementation, no additional language dependencies or frameworks specified.
+- **Implementation of EMNLP2024 Paper**: Provides a codebase for evaluating best practices in Retrieval-Augmented Generation (RAG) systems, focusing on retrieval and generation optimization strategies.
+- **Python-Based Framework**: Built in Python, likely leveraging libraries like `transformers`, `faiss`, or `sentence-transformers` for retrieval and generation tasks.
+- **Benchmarking & Best Practices**: Includes experimental setups to compare retrieval methods (e.g., dense vs. sparse retrieval) and generation strategies (e.g., prompt tuning, fusion techniques) for RAG systems.
 
 ## Why It Matters
 

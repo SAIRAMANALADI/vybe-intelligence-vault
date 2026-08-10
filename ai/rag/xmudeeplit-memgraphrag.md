@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-10T13:42:06.395485+05:30'
+collected_at: '2026-08-10T16:14:36.212448+05:30'
 published_at: '2026-08-09T07:14:32Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-10T13:42:06.395485+05:30'
-last_seen: '2026-08-10T13:42:06.395485+05:30'
-last_checked: '2026-08-10T13:42:06.395485+05:30'
+first_seen: '2026-08-10T16:14:36.212448+05:30'
+last_seen: '2026-08-10T16:14:36.212448+05:30'
+last_checked: '2026-08-10T16:14:36.212448+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-Based Multi-Agent Framework**: Introduces a novel **KDD 2026** system (`MemGraphRAG`) leveraging **memory-driven multi-agent collaboration** for **Graph Retrieval-Augmented Generation (GraphRAG)**, enabling dynamic knowledge graph construction and retrieval.
+- **Memory-Based Multi-Agent Framework**: Introduces a novel **memory-augmented multi-agent system** for **Graph Retrieval-Augmented Generation (GraphRAG)**, leveraging agent-memory interactions to enhance structured knowledge retrieval and generation.
 
-- **Ontology-Guided Graph Construction**: Implements an **ontology-aware pipeline** to autonomously build and refine **semantic graphs** from unstructured data, integrating **agent-memory** for adaptive knowledge representation.
+- **Graph & Ontology Construction**: Implements **dynamic graph construction** and **ontology learning** to model relationships between entities, enabling efficient **context-aware retrieval** and **multi-hop reasoning** in RAG pipelines.
 
-- **Python-Based Implementation**: Provides an open-source Python repository with **169+ stars**, featuring modular components for **graph construction, multi-agent coordination, and RAG integration**, last updated **2026-08-09**.
+- **KDD 2026 Contribution**: Proposes a **scalable, ontology-driven GraphRAG architecture** with Python-based implementation, optimizing **long-term memory retention** and **collaborative agent reasoning** for improved LLM performance.
 
 ## Why It Matters
 

@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/security
-published_at: '2026-08-09T21:30:02.794823+05:30'
-collected_at: '2026-08-09T21:30:02.794836+05:30'
+published_at: '2026-08-10T16:22:51.675947+05:30'
+collected_at: '2026-08-10T16:22:51.675964+05:30'
 tags:
 - hackernews
 - paper
 - rag
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:github-security-github
-first_seen: '2026-08-09T21:30:02.794836+05:30'
-last_seen: '2026-08-09T21:30:02.794836+05:30'
-last_checked: '2026-08-09T21:30:02.794836+05:30'
+first_seen: '2026-08-10T16:22:51.675964+05:30'
+last_seen: '2026-08-10T16:22:51.675964+05:30'
+last_checked: '2026-08-10T16:22:51.675964+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Advanced Security (GHAS)** integrates static analysis, AI-driven remediation, and vulnerability management directly into developer workflows via GitHub Actions, enabling proactive security debt resolution.
+- **GitHub Advanced Security (GHAS)** integrates static analysis, secret protection, and supply chain security into developer workflows via push protection, AI-driven remediation, and dependency tracking.
 
-- **Secret Protection** employs push protection to block exposed secrets (e.g., API keys, tokens) at commit/push time, while **Code Security** leverages CodeQL for static analysis and AI-assisted fixes to detect vulnerabilities (e.g., XSS, SSRF) in real-time.
+- **Secret Protection** blocks accidental secret exposure in commits (e.g., API keys) pre-repository push, while **Code Security** leverages static analysis (CodeQL) and AI to proactively detect/remediate vulnerabilities.
 
-- **Software Supply Chain Security** mitigates open-source risks through dependency tracking, auto-updates, and build attestation, complemented by the **GitHub Security Lab** and **Advisory Database** for vulnerability research and CVE coverage.
+- **Supply Chain Security** mitigates open-source risks via dependency tracking, auto-updates, and build attestation, supported by the **Security Advisory Database** (CVEs + GitHub advisories).
 
 ## Why It Matters
 
@@ -39,14 +38,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T21:30:02.794823+05:30
+- Published: 2026-08-10T16:22:51.675947+05:30
 
 ## Related Tags
 
 - hackernews
 - paper
 - rag
-- scripts
 - web-crawled
 - workflows
 

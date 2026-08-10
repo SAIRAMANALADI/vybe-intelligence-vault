@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-08-10T13:45:25.704761+05:30'
+collected_at: '2026-08-10T16:18:21.702873+05:30'
 published_at: '2026-08-10T08:05:13Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -19,11 +18,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2019-11-14T09:05:28Z'
-pushed_at: '2026-08-10T08:05:42Z'
+pushed_at: '2026-08-10T10:18:09Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-08-10T13:45:25.704761+05:30'
-last_seen: '2026-08-10T13:45:25.704761+05:30'
-last_checked: '2026-08-10T13:45:25.704761+05:30'
+first_seen: '2026-08-10T16:18:21.702873+05:30'
+last_seen: '2026-08-10T16:18:21.702873+05:30'
+last_checked: '2026-08-10T16:18:21.702873+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 - **Modular AI Orchestration**: Python-based framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
 
-- **Context-Engineered Applications**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI through context-engineering techniques and explicit component integration.
+- **Context-Engineered Applications**: Supports scalable agents, RAG, multimodal systems, semantic search, and conversational AI through explicit control over context engineering and retrieval-augmented generation (RAG).
 
-- **Production-Grade Features**: Designed for high scalability with explicit control over retrieval, routing, memory, and generation, optimized for deployment in enterprise-grade AI systems.
+- **Production-Ready Features**: Designed for scalability with explicit control over MCP, multi-agent systems, and generative AI workflows, optimized for deployment in enterprise-grade applications.
 
 ## Why It Matters
 
@@ -45,14 +44,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: deepset-ai
 - Stars: 26164
-- Forks: 2991
+- Forks: 2992
 - Language: Python
 - Topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents, context-engineering, framework, genai, generative-ai, information-retrieval, large-language-models, llm, mcp, multi-agent, orchestration, python, rag, retrieval-augmented-generation, semantic-search
 - Last Updated: 2026-08-10T08:05:13Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z
-- Pushed At: 2026-08-10T08:05:42Z
+- Pushed At: 2026-08-10T10:18:09Z
 
 ## Possible Use Cases
 

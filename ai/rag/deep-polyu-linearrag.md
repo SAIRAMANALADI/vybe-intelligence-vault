@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-10T13:42:06.375634+05:30'
+collected_at: '2026-08-10T16:14:36.191087+05:30'
 published_at: '2026-08-09T00:39:07Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 532
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-10T13:42:06.375634+05:30'
-last_seen: '2026-08-10T13:42:06.375634+05:30'
-last_checked: '2026-08-10T13:42:06.375634+05:30'
+first_seen: '2026-08-10T16:14:36.191087+05:30'
+last_seen: '2026-08-10T16:14:36.191087+05:30'
+last_checked: '2026-08-10T16:14:36.191087+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval and augmentation in large-scale corpora, targeting ICLR 2026.
-- **Scalability & Efficiency**: Optimizes graph-based retrieval by linearizing graph traversal, reducing computational overhead while maintaining high accuracy in LLM augmentation.
-- **Python Implementation**: Repository provides an open-source Python implementation, supporting graphRAG, LLMs, and RAG workflows, with recent updates as of August 2026.
+- Introduces **LinearRAG**, a novel **Graph Retrieval-Augmented Generation (GraphRAG)** framework optimizing large-scale corpus retrieval via linear graph traversal, reducing computational overhead compared to traditional hierarchical GraphRAG methods.
+
+- Leverages **linear graph structures** to enable efficient subgraph retrieval, improving scalability for **large-scale corpora** while maintaining retrieval accuracy for downstream LLM tasks.
+
+- Implements **Python-based** toolkit with modular components for graph construction, linear traversal, and retrieval integration, validated on **ICLR 2026** benchmarks for generative QA and knowledge-intensive tasks.
 
 ## Why It Matters
 

@@ -3,16 +3,16 @@ title: Feedback!
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://forms.gle/7GmvvjW6juLP6ith7
-published_at: '2026-08-10T13:44:47.303169+05:30'
-collected_at: '2026-08-10T13:44:47.303182+05:30'
+source_url: https://docs.google.com/forms/d/e/1FAIpQLSfeT0rtTPL6eu3zHQzG9Kt4GshYarxVb7U9Yvo_nIHFG58fAA/viewform?usp%3Dsend_form
+published_at: '2026-08-10T16:18:28.172329+05:30'
+collected_at: '2026-08-10T16:18:28.172343+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:feedback
-first_seen: '2026-08-10T13:44:47.303182+05:30'
-last_seen: '2026-08-10T13:44:47.303182+05:30'
-last_checked: '2026-08-10T13:44:47.303182+05:30'
+first_seen: '2026-08-10T16:18:28.172343+05:30'
+last_seen: '2026-08-10T16:18:28.172343+05:30'
+last_checked: '2026-08-10T16:18:28.172343+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Form Submission via Google Forms**: The provided content is a Google Forms feedback submission interface requiring authentication via Google Account to save progress, with fields for email and feedback input.
-
-- **Security & Compliance Notices**: The form explicitly warns against submitting passwords and includes links to Google’s Terms of Service and Privacy Policy, clarifying it is neither created nor endorsed by Google.
-
-- **Reporting & Accessibility**: Includes a "Report" link for suspicious forms and a "Help and feedback" section with options to contact the form owner, improve Forms, or report issues.
+- **Form Submission**: Google Forms requires user authentication via Google Account to submit feedback, ensuring traceability and preventing spam.
+- **Security Notice**: Explicitly warns against submitting passwords through the form, adhering to Google’s security policies.
+- **Reporting Mechanism**: Provides an abuse reporting link for suspicious forms, maintaining platform integrity.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T13:44:47.303169+05:30
+- Published: 2026-08-10T16:18:28.172329+05:30
 
 ## Related Tags
 
@@ -42,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://forms.gle/7GmvvjW6juLP6ith7
+Original source: https://docs.google.com/forms/d/e/1FAIpQLSfeT0rtTPL6eu3zHQzG9Kt4GshYarxVb7U9Yvo_nIHFG58fAA/viewform?usp%3Dsend_form

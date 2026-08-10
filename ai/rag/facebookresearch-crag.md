@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-10T13:41:36.306779+05:30'
+collected_at: '2026-08-10T16:14:06.178293+05:30'
 published_at: '2026-08-07T07:48:15Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-10T13:41:36.306779+05:30'
-last_seen: '2026-08-10T13:41:36.306779+05:30'
-last_checked: '2026-08-10T13:41:36.306779+05:30'
+first_seen: '2026-08-10T16:14:06.178293+05:30'
+last_seen: '2026-08-10T16:14:06.178293+05:30'
+last_checked: '2026-08-10T16:14:06.178293+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRAG provides a comprehensive benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on factuality, robustness, and efficiency across diverse datasets and tasks.
-
-- **Evaluation Metrics**: Implements standardized metrics for assessing RAG performance, including answer correctness, retrieval precision/recall, and computational overhead under varying conditions (e.g., noisy inputs, adversarial queries).
-
-- **Open-Source Toolkit**: Distributed as a Jupyter Notebook-based repository, enabling reproducibility and extensibility with modular components for custom dataset integration and metric computation.
+- **Purpose**: CRAG is a **Comprehensive benchmark for Retrieval-Augmented Generation (RAG)**, designed to evaluate RAG systems across multiple dimensions (e.g., retrieval quality, generation accuracy, robustness).
+- **Implementation**: Provided as **Jupyter Notebooks**, enabling interactive evaluation and reproducibility of RAG pipelines with standardized metrics and datasets.
+- **Scope**: Focuses on **systematic assessment** of RAG components (retrievers, generators, and their interplay) with extensible frameworks for custom benchmarks.
 
 ## Why It Matters
 

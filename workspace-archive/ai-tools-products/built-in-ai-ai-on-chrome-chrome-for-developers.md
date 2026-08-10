@@ -1,6 +1,6 @@
 ---
 title: Built-in AI | AI on Chrome | Chrome for Developers
-archive_category: model-providers
+archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://developer.chrome.com/docs/ai/built-in
 resource_id: blog:built-in-ai-ai-on-chrome-chrome-for-developers
@@ -16,6 +16,7 @@ tags:
 - rag
 - threejs
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -25,7 +26,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Model Providers`
+- Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: prompt
 - Selection reasons:
@@ -34,17 +35,15 @@ selection_reason:
 
 ## Summary
 
-- **Built-in AI APIs in Chrome**: Chrome provides browser-managed AI models (e.g., Gemini Nano) via APIs for tasks like text summarization, translation, proofreading, and language detection, enabling client-side AI inference without external dependencies.
-
-- **Hybrid AI Workloads**: Supports hybrid approaches combining on-device AI (via APIs like Prompt API, Task API) with cloud fallback (e.g., Firebase AI Logic) for scalability and fault tolerance.
-
-- **Performance & UX Best Practices**: Includ
+- **Built-in AI APIs**: Chrome provides browser-managed AI models (e.g., Gemini Nano) via APIs like `Proofreader`, `Writer`, `Rewriter`, `Translator`, `Language Detector`, and `Summarizer` for on-device text processing.
+- **Polyfills & Hybrid Workloads**: Chrome offers polyfills (`Prompt API`, `Task API`) and supports hybrid AI workflows (e.g., Firebase AI Logic) for cross-browser compatibility and cloud fallback.
+- **Performance & Best Practices**: Chrome supports model caching, streaming LLM r
 
 ## Use Cases
 
-- API key selection
-- Cost/capability profiling
-- Provider fallback routing
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
 
 ## Source
 

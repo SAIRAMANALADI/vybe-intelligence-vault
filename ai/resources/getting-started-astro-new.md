@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://astro.new/
-published_at: '2026-08-09T10:18:42.450745+05:30'
-collected_at: '2026-08-09T10:18:42.450751+05:30'
+published_at: '2026-08-10T16:19:13.878427+05:30'
+collected_at: '2026-08-10T16:19:13.878444+05:30'
 tags:
-- frontend_ui
 - web-crawled
 status: active
 resource_id: blog:getting-started-astro-new
-first_seen: '2026-08-09T10:18:42.450751+05:30'
-last_seen: '2026-08-09T10:18:42.450751+05:30'
-last_checked: '2026-08-09T10:18:42.450751+05:30'
+first_seen: '2026-08-10T16:19:13.878444+05:30'
+last_seen: '2026-08-10T16:19:13.878444+05:30'
+last_checked: '2026-08-10T16:19:13.878444+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- Astro v3.0+ supports **partial hydration** for components via `client:` directives (e.g., `client:load`, `client:idle`), enabling selective client-side interactivity without full bundle overhead.
+- **Astro Basics**: A minimal starter template demonstrating core Astro functionality, including static site generation (SSG) and component-based architecture.
 
-- **Islands architecture** is core to Astro, where UI components are isolated "islands" of interactivity, reducing JavaScript payload by default.
+- **Multi-Platform Support**: Provides direct integration with StackBlitz, Firebase Studio, and CodeSandbox for instant cloud-based development and preview.
 
-- **Zero-config SSR** is available in Astro v3.0+, allowing seamless server-side rendering with frameworks like React, Vue, or Svelte via adapters (e.g., `@astrojs/node`).
+- **CLI Command**: Can be initialized via `npm create astro@latest -- --template basics` for local setup and customization.
 
 ## Why It Matters
 
@@ -35,11 +34,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T10:18:42.450745+05:30
+- Published: 2026-08-10T16:19:13.878427+05:30
 
 ## Related Tags
 
-- frontend_ui
 - web-crawled
 
 ## Source

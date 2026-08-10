@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-08-10T13:46:09.882262+05:30'
-collected_at: '2026-08-10T13:46:09.882275+05:30'
+published_at: '2026-08-10T16:20:07.312303+05:30'
+collected_at: '2026-08-10T16:20:07.312318+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-08-10T13:46:09.882275+05:30'
-last_seen: '2026-08-10T13:46:09.882275+05:30'
-last_checked: '2026-08-10T13:46:09.882275+05:30'
+first_seen: '2026-08-10T16:20:07.312318+05:30'
+last_seen: '2026-08-10T16:20:07.312318+05:30'
+last_checked: '2026-08-10T16:20:07.312318+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- `crypto.Hash` computes checksums of input strings using cryptographic hash algorithms (`md5`, `sha1`, `sha256`, `sha384`, `sha512`), defaulting to `sha256` if unspecified.
-- Output is a hexadecimal-encoded string representing the digest (e.g., `64ec88ca00b268e5ba1a35678a1b5316d212f4f366b2477232534a8aeca37f3c` for SHA-256 of `"Hello world"`).
-- Supports integration with `encoding.HexDecode` and `encoding.Base64Encode` for constructing Subresource Integrity (SRI) hashes (e.g., `sha256-64ec88ca00b268e5ba1a35678a1b5316d212f4f366b2477232534a8aeca37f3c`).
+- **Hashing Functionality**: The `crypto.Hash` function in Hugo supports multiple cryptographic hash algorithms (`md5`, `sha1`, `sha256` (default), `sha384`, `sha512`) to generate hexadecimal-encoded checksums from input strings.
+
+- **Default Behavior**: If no algorithm is specified, `sha256` is used by default for hashing operations.
+
+- **SRI Hash Construction**: The function can be combined with `encoding.HexDecode` and `encoding.Base64Encode` to generate Subresource Integrity (SRI) hashes for resources, enabling secure integrity checks in web development.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T13:46:09.882262+05:30
+- Published: 2026-08-10T16:20:07.312303+05:30
 
 ## Related Tags
 

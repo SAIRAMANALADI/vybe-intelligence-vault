@@ -2,13 +2,13 @@
 title: 'AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex'
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.llamaindex.ai/llamaparse
+source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
 local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Layout-aware parsing** with support for 90+ formats, including headers, footers, split sections, tables, charts, handwriting, checkboxes, and images, converting them into clean markdown for AI processing.
+- **High-accuracy parsing engine** supporting 90+ document formats with layout-aware OCR, multimodal analysis (tables/charts/images), and 100+ language support for enterprise-grade document processing.
 
-- **Multimodal and multilingual support** with granular parsing modes for cost-accuracy optimization, enterprise-grade scalability (1B+ documents processed), and compatibility with 100+ languages.
+- **Scalable, modular architecture** with granular parsing modes (cost/accuracy trade-offs), multi-page PDF handling, and enterprise features (local/cloud deployment, high concurrency, dedicated support).
 
-- **Developer-focused SDKs** (TypeScript, Python) with live notebooks, examples, and workflo
+- **Proven performance** with 1B+ documents processed, 25M+ monthly package downloads, and
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.llamaindex.ai/llamaparse
+Original source URL: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
 
 ## Local Vault File
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-10T13:40:41.203532+05:30'
+collected_at: '2026-08-10T16:13:11.139784+05:30'
 published_at: '2026-08-10T02:03:32Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-10T13:40:41.203532+05:30'
-last_seen: '2026-08-10T13:40:41.203532+05:30'
-last_checked: '2026-08-10T13:40:41.203532+05:30'
+first_seen: '2026-08-10T16:13:11.139784+05:30'
+last_seen: '2026-08-10T16:13:11.139784+05:30'
+last_checked: '2026-08-10T16:13:11.139784+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Implementation**: Provides a step-by-step, from-scratch JavaScript-based RAG pipeline using `node-llama-cpp` for local LLMs, emphasizing transparency in embeddings, vector search, retrieval, and context-augmented generation without proprietary black boxes.
 
-- **JavaScript/Node.js Stack**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and vector operations, ensuring no proprietary dependencies.
+- **Technical Stack**: Leverages Node.js and `node-llama-cpp` to build a functional RAG system, targeting developers seeking hands-on understanding of core RAG components (e.g., embedding models, vector databases, and retrieval-augmented generation).
 
-- **Modular Pipeline**: Implements a complete RAG pipeline with modular components for embedding generation, vector storage/retrieval (e.g., FAISS or similar), and context-augmented prompt engineering for LLM inference.
+- **Purpose & Scope**: Designed as a tutorial repository to demystify RAG architectures, covering agents, AI-agents, and RAG pipelines, with a focus on practical implementation and educational value for Node.js developers.
 
 ## Why It Matters
 

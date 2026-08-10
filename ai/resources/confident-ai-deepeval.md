@@ -4,23 +4,24 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/confident-ai/deepeval
-collected_at: '2026-08-04T20:16:34.779806+05:30'
-published_at: '2026-08-04T14:36:32Z'
+collected_at: '2026-08-10T16:17:26.312982+05:30'
+published_at: '2026-08-10T10:20:23Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
-stars: 17397
+stars: 17500
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-08-10T05:35:04Z'
-pushed_at: '2026-08-03T12:53:51Z'
+pushed_at: '2026-08-10T07:24:38Z'
 resource_id: github:confident-ai/deepeval
-first_seen: '2026-08-04T20:16:34.779806+05:30'
-last_seen: '2026-08-04T20:16:34.779806+05:30'
-last_checked: '2026-08-04T20:16:34.779806+05:30'
+first_seen: '2026-08-10T16:17:26.312982+05:30'
+last_seen: '2026-08-10T16:17:26.312982+05:30'
+last_checked: '2026-08-10T16:17:26.312982+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: A Python-based framework for evaluating Large Language Models (LLMs) with built-in metrics and evaluation tools.
-- **Key Features**: Supports evaluation metrics (e.g., hallucination, bias, toxicity) and integrates with popular LLM providers for automated testing.
-- **Use Case**: Enables developers to benchmark and improve LLM performance systematically with reproducible results.
+- **Framework Overview**: DeepEval is a Python-based evaluation framework designed specifically for Large Language Models (LLMs), providing structured methodologies to assess LLM performance across various tasks.
+
+- **Key Features**: Includes built-in evaluation metrics (e.g., hallucination detection, answer relevancy, toxicity) and supports custom metric integration, enabling comprehensive LLM benchmarking.
+
+- **Technical Stack**: Built in Python, with modular architecture for extensibility, and actively maintained (last updated August 2026) with a large community (17.5k+ stars, 1.7k+ forks).
 
 ## Why It Matters
 
@@ -39,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: confident-ai
-- Stars: 17397
-- Forks: 1757
+- Stars: 17500
+- Forks: 1777
 - Language: Python
 - Topics: evaluation-framework, evaluation-metrics, llm-evaluation, llm-evaluation-framework, llm-evaluation-metrics, python
-- Last Updated: 2026-08-04T14:36:32Z
+- Last Updated: 2026-08-10T10:20:23Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-08-10T05:35:04Z
-- Pushed At: 2026-08-03T12:53:51Z
+- Pushed At: 2026-08-10T07:24:38Z
 
 ## Possible Use Cases
 

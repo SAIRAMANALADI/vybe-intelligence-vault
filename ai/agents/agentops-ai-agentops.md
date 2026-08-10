@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-08-10T13:43:16.362288+05:30'
+collected_at: '2026-08-10T16:15:46.280891+05:30'
 published_at: '2026-08-09T20:35:32Z'
 tags:
 - agents
@@ -16,7 +16,6 @@ tags:
 - models
 - openai
 - python
-- workflows
 stars: 5762
 language: Python
 status: active
@@ -25,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-08-10T13:43:16.362288+05:30'
-last_seen: '2026-08-10T13:43:16.362288+05:30'
-last_checked: '2026-08-10T13:43:16.362288+05:30'
+first_seen: '2026-08-10T16:15:46.280891+05:30'
+last_seen: '2026-08-10T16:15:46.280891+05:30'
+last_checked: '2026-08-10T16:15:46.280891+05:30'
 health_score: 100
 ---
 
@@ -35,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework SDK**: Python-based monitoring tool for AI agents, supporting integration with CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI, enabling cross-framework observability and cost tracking.
-
-- **LLM Agnostic Cost & Performance Tracking**: Captures real-time LLM token usage, API costs, and performance metrics across providers (OpenAI, Anthropic, Mistral, Groq, Ollama) with built-in benchmarking and evaluation metrics.
-
-- **Production-Grade Observability**: Provides structured logging, evaluation metrics (e.g., evals), and debugging capabilities for agent workflows, including latency, error rates, and cost breakdowns per agent or task.
+- **Python SDK** for AI agent monitoring, LLM cost tracking, and benchmarking, with support for **CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI**.
+- **Multi-LLM integration** including **Anthropic, Groq, Mistral, Ollama, OpenAI**, and others for cost estimation and evaluation metrics.
+- **Last updated (2026-08-09)** with active development, featuring **evals, evaluation metrics**, and seamless integration across agent frameworks.
 
 ## Why It Matters
 

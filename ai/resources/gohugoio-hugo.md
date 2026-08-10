@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases/tag/v0.164.0
-published_at: '2026-08-10T13:45:26.002054+05:30'
-collected_at: '2026-08-10T13:45:26.002067+05:30'
+published_at: '2026-08-10T16:18:26.859728+05:30'
+collected_at: '2026-08-10T16:18:26.859742+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-08-10T13:45:26.002067+05:30'
-last_seen: '2026-08-10T13:45:26.002067+05:30'
-last_checked: '2026-08-10T13:45:26.002067+05:30'
+first_seen: '2026-08-10T16:18:26.859742+05:30'
+last_seen: '2026-08-10T16:18:26.859742+05:30'
+last_checked: '2026-08-10T16:18:26.859742+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Syntax Highlighting & Template Enhancements**: Introduced dark/light mode pairs in Chroma highlighter styles, new template functions (`encoding.HexEncode`, `encoding.HexDecode`, `crypto.Hash`), and added `markup.rst.syntaxHighlight` configuration option.
+- **Syntax Highlighting & Encoding Enhancements**: Introduced dark/light mode pairs in Chroma highlighter styles and added new template functions `encoding.HexEncode`, `encoding.HexDecode`, and `crypto.Hash` for advanced encoding/decryption operations.
 
-- **Performance & Compatibility Fixes**: Resolved a performance regression introduced in v0.128.0, added Pandoc citation support, and deprecated `resources.PostProcess` in favor of `templates.Defer`.
+- **Performance & Compatibility Fixes**: Resolved a performance regression introduced in v0.128.0, optimized `hugio.hasBytesWriter`, and added Pandoc citation support alongside `markup.rst.syntaxHighlight` configuration.
 
-- **Template & Layout Improvements**: Added support for sub-paths in layouts passed to `.Render`, made template name lookup case-insensitive, and improved error handling for missing templates.
+- **Template & Dependency Updates**: Deprecated `resources.PostProcess` in favor of `templates.Defer`, added sub-path support in `.Render` layouts, and updated dependencies including Chroma and Go tooling (e.g., `golang.org/x/tools` v0.47.0).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T13:45:26.002054+05:30
+- Published: 2026-08-10T16:18:26.859728+05:30
 
 ## Related Tags
 

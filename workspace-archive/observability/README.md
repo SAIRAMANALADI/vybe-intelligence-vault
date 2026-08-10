@@ -25,7 +25,7 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-08-10 13:56 IST*
+*Last updated: 2026-08-10 16:29 IST*

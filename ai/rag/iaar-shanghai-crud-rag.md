@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-10T13:41:41.282110+05:30'
+collected_at: '2026-08-10T16:14:11.159501+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-10T13:41:41.282110+05:30'
-last_seen: '2026-08-10T13:41:41.282110+05:30'
-last_checked: '2026-08-10T13:41:41.282110+05:30'
+first_seen: '2026-08-10T16:14:11.159501+05:30'
+last_seen: '2026-08-10T16:14:11.159501+05:30'
+last_checked: '2026-08-10T16:14:11.159501+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **CRUD-RAG**, a Chinese benchmark dataset designed to evaluate **Retrieval-Augmented Generation (RAG)** systems for **Large Language Models (LLMs)**, focusing on **Create, Read, Update, Delete (CRUD)** operations.
-- Provides a **comprehensive evaluation framework** with standardized metrics for assessing **retrieval quality, generation coherence, and task-specific performance** in Chinese language contexts.
-- Implements **Python-based tooling** for benchmarking, including **automated pipelines** for dataset curation, retrieval, and generation tasks, with open-source availability for reproducibility.
+- **Benchmark Framework**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems for Large Language Models (LLMs) with a focus on comprehensive performance assessment across multiple dimensions.
+
+- **Evaluation Metrics**: Implements structured evaluation metrics covering retrieval accuracy, generation quality, and end-to-end RAG performance, enabling standardized comparison of RAG models in Chinese contexts.
+
+- **Open-Source Toolkit**: Provides a Python-based repository with tools for dataset curation, model evaluation, and benchmarking, facilitating reproducibility and community-driven improvements in RAG research.
 
 ## Why It Matters
 

@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://forms.fillout.com/t/3ioiagnP7mus
-published_at: '2026-08-01T14:11:29.904341+05:30'
-collected_at: '2026-08-01T14:11:29.904354+05:30'
+published_at: '2026-08-10T16:19:54.284394+05:30'
+collected_at: '2026-08-10T16:19:54.284409+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:mailing-list-subscription-form
-first_seen: '2026-08-01T14:11:29.904354+05:30'
-last_seen: '2026-08-01T14:11:29.904354+05:30'
-last_checked: '2026-08-01T14:11:29.904354+05:30'
+first_seen: '2026-08-10T16:19:54.284409+05:30'
+last_seen: '2026-08-10T16:19:54.284409+05:30'
+last_checked: '2026-08-10T16:19:54.284409+05:30'
 health_score: 100
 ---
 
@@ -20,7 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Article/Resource Not Provided**: No content was supplied for summarization.
+- **Definition**: "Powered by" denotes a system or service utilizing a specific technology, engine, or platform as its underlying foundation.
+- **Usage Context**: Commonly employed in software, hardware, and service descriptions to indicate dependency or integration with a proprietary or third-party technology.
+- **Technical Implications**: Implies that the referenced technology provides core functionality, performance, or features, often with licensing or attribution requirements.
 
 ## Why It Matters
 
@@ -30,10 +33,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-01T14:11:29.904341+05:30
+- Published: 2026-08-10T16:19:54.284394+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source

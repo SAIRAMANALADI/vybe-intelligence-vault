@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tuxedono2.com
 hn_url: https://news.ycombinator.com/item?id=49235697
-score: 83
+score: 96
 author: smartmic
-comments_count: 22
+comments_count: 28
 published_at: '2026-08-10T02:18:46+05:30'
-collected_at: '2026-08-10T13:39:20.298171+05:30'
+collected_at: '2026-08-10T16:12:10.468628+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:tuxedo-no-2-cocktail-recipes
 first_seen: '2026-08-10T03:22:47.950108+05:30'
-last_seen: '2026-08-10T13:39:20.298171+05:30'
-last_checked: '2026-08-10T13:39:20.298171+05:30'
+last_seen: '2026-08-10T16:12:10.468628+05:30'
+last_checked: '2026-08-10T16:12:10.468628+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by smartmic. Score: 83, Comments: 22.
+Hacker News story by smartmic. Score: 96, Comments: 28.
 Original Link: https://tuxedono2.com
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: smartmic
-- Score: 83 Upvotes
-- Comments: 22 Discussions
+- Score: 96 Upvotes
+- Comments: 28 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49235697
 - Original Article: https://tuxedono2.com
 

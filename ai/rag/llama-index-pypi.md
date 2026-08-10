@@ -4,11 +4,10 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pypi.org/project/llama-index/
-published_at: '2026-08-10T10:39:56.124596+05:30'
-collected_at: '2026-08-10T10:39:56.124607+05:30'
+published_at: '2026-08-10T16:20:37.034572+05:30'
+collected_at: '2026-08-10T16:20:37.034587+05:30'
 tags:
 - agents
-- dataset
 - hackernews
 - meta-ai
 - models
@@ -21,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llama-index-pypi
-first_seen: '2026-08-10T10:39:56.124607+05:30'
-last_seen: '2026-08-10T10:39:56.124607+05:30'
-last_checked: '2026-08-10T10:39:56.124607+05:30'
+first_seen: '2026-08-10T16:20:37.034587+05:30'
+last_seen: '2026-08-10T16:20:37.034587+05:30'
+last_checked: '2026-08-10T16:20:37.034587+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: LlamaIndex v0.14.23 is an open-source data framework designed to interface LLMs with private datasets, offering data connectors, structured indexing (indices/graphs), and retrieval/query interfaces for RAG pipelines.
+- **Framework Purpose**: LlamaIndex 0.14.23 is an open-source framework designed to bridge large language models (LLMs) with private data, enabling structured ingestion, indexing, and retrieval for LLM augmentation.
 
-- **Architecture & Installation**: Supports two installation modes—`llama-index` (starter package with core + curated integrations) and `llama-index-core` (modular core for custom integrations via 300+ LlamaHub packages).
+- **Core Components**: Provides modular APIs for data connectors (ingestion), indices (structured data representation), and query engines (retrieval), with support for 300+ integrations via LlamaHub for LLMs, embeddings, and vector stores.
 
-- **LlamaParse Integration**: Standalone enterprise platform for agentic OCR/document parsing (130+ formats), structured extraction, and document agent deployment, usable with or without LlamaIndex framework.
+- **Deployment Options**: Available as `llama-index` (starter package) or `llama-index-core` (customizable core), with enterprise features via LlamaParse (OCR, structured extraction, and document agents).
 
 ## Why It Matters
 
@@ -45,12 +44,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:39:56.124596+05:30
+- Published: 2026-08-10T16:20:37.034572+05:30
 
 ## Related Tags
 
 - agents
-- dataset
 - hackernews
 - meta-ai
 - models

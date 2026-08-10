@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-10T14:56:08.271864+05:30`
+Generated at: `2026-08-10T16:30:24.151399+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,47 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Tail-Call Interpreters in Rust – Jimmy Ostler** - Score: `18` in category `ai/community` ([Link](https://lordgoati.us/blog/tail-call)) ([File](../ai/community/tail-call-interpreters-in-rust-jimmy-ostler.md))
+- **The browser that puts you first | Brave** - Score: `0` in category `ai/rag` ([Link](https://brave.com)) ([File](../ai/rag/the-browser-that-puts-you-first-brave.md))
+- **Delete your Safari history, cache and cookies on iPhone – Apple Support (UK)** - Score: `0` in category `ai/resources` ([Link](https://support.apple.com/en-gb/105082)) ([File](../ai/resources/delete-your-safari-history-cache-and-cookies-on-ip.md))
+- **Stainless · GitHub** - Score: `0` in category `ai/resources` ([Link](https://github.com/stainless-api)) ([File](../ai/resources/stainless-github.md))
+- **pnpm - Open Collective** - Score: `0` in category `ai/rag` ([Link](https://opencollective.com/pnpm)) ([File](../ai/rag/pnpm-open-collective.md))
+- **mochajs/mocha** - Score: `0` in category `ai/rag` ([Link](https://github.com/mochajs/mocha)) ([File](../ai/rag/mochajs-mocha.md))
+- **microsoft/playwright** - Score: `0` in category `ai/resources` ([Link](https://github.com/microsoft/playwright)) ([File](../ai/resources/microsoft-playwright.md))
+- **Build your first end-to-end test with Playwright - Training | Microsoft Learn** - Score: `0` in category `ai/resources` ([Link](https://learn.microsoft.com/en-us/training/modules/build-with-playwright)) ([File](../ai/resources/build-your-first-end-to-end-test-with-playwright-t.md))
+- **Headless Adobe Commerce storefront (React, Next.js) — Headless Magento with GraphCommerce®** - Score: `0` in category `ai/rag` ([Link](https://graphcommerce.org)) ([File](../ai/rag/headless-adobe-commerce-storefront-react-next-js-h.md))
+- **WebdriverIO Â· Next-gen browser and mobile automation test framework for Node.js | WebdriverIO** - Score: `0` in category `ai/rag` ([Link](https://webdriver.io)) ([File](../ai/rag/webdriverio-a-next-gen-browser-and-mobile-automati.md))
+- **Hugging Face – The AI community building the future.** - Score: `0` in category `ai/rag` ([Link](https://huggingface.co)) ([File](../ai/rag/hugging-face-the-ai-community-building-the-future.md))
+- **pnpm link | pnpm** - Score: `0` in category `ai/resources` ([Link](https://pnpm.io/cli/link)) ([File](../ai/resources/pnpm-link-pnpm.md))
+- **Fast and reliable end-to-end testing for modern web apps | Playwright** - Score: `0` in category `ai/rag` ([Link](https://playwright.dev)) ([File](../ai/rag/fast-and-reliable-end-to-end-testing-for-modern-we.md))
+- **Mocha | Classic, reliable, trusted. ☕** - Score: `0` in category `ai/agents` ([Link](https://mochajs.org)) ([File](../ai/agents/mocha-classic-reliable-trusted.md))
+- **Software for Complex Networks — NetworkX 3.7rc0.dev0 documentation** - Score: `0` in category `ai/resources` ([Link](https://networkx.org/documentation/latest)) ([File](../ai/resources/software-for-complex-networks-networkx-3-7rc0-dev0.md))
 
 ## Top Trending Resources
 
-- **Report Content for Legal Reasons - Legal Help** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/report-content-for-legal-reasons-legal-help.md))
-- **Google Cloud Privacy Notice** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/google-cloud-privacy-notice.md))
-- **Find & control your Web & App Activity - Computer - Google Search Help** - Score: `0` (0), Rank Change: `+1` ([File](../ai/resources/find-control-your-web-app-activity-computer-google.md))
-- **Google Analytics opt-out browser add-on - Analytics Help** - Score: `0` (0), Rank Change: `+2` ([File](../ai/resources/google-analytics-opt-out-browser-add-on-analytics.md))
-- **Safeguarding your data - Analytics Help** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/safeguarding-your-data-analytics-help.md))
-- **deepset · GitHub** - Score: `0` (0), Rank Change: `+2` ([File](../ai/resources/deepset-github.md))
-- **🧑‍🍳 Cookbook | Haystack** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/cookbook-haystack.md))
-- **content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub** - Score: `0` (0), Rank Change: `+2` ([File](../ai/resources/mdn-content.md))
-- **SRI Hash Generator** - Score: `0` (0), Rank Change: `+2` ([File](../ai/resources/sri-hash-generator.md))
-- **run-llama/llama-parse-cli** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/run-llama-llama-parse-cli.md))
+- **Docker Sandboxes – Disposable, isolated sandboxes for AI agents** - Score: `233` (+110), Rank Change: `0` ([File](../ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md))
+- **How I use LLMs to learn complex topics** - Score: `647` (+39), Rank Change: `0` ([File](../ai/community/how-i-use-llms-to-learn-complex-topics.md))
+- **Show HN: Voice driven murder mystery, Interview AI suspects with your voice** - Score: `96` (+34), Rank Change: `+1` ([File](../ai/community/show-hn-voice-driven-murder-mystery-interview-ai-s.md))
+- **Tuxedo No. 2 – Cocktail recipes** - Score: `96` (+13), Rank Change: `-1` ([File](../ai/community/tuxedo-no-2-cocktail-recipes.md))
+- **The tragedy of the commons, AI edition** - Score: `125` (+11), Rank Change: `0` ([File](../ai/community/the-tragedy-of-the-commons-ai-edition.md))
+- **PageSpeed Insights** - Score: `0` (0), Rank Change: `+26` ([File](../ai/resources/pagespeed-insights.md))
+- **web.dev** - Score: `0` (0), Rank Change: `+1884` ([File](../ai/resources/web-dev.md))
+- **Colab | Google for Developers** - Score: `0` (0), Rank Change: `+23` ([File](../ai/rag/colab-google-for-developers.md))
+- **Keras: Deep Learning for humans** - Score: `0` (0), Rank Change: `+1827` ([File](../ai/rag/keras-deep-learning-for-humans.md))
+- **Built-in AI | AI on Chrome | Chrome for Developers** - Score: `0` (0), Rank Change: `+67` ([File](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+17246`) ([File](../ai/rag/medium-2.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1013`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+1013`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1013`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1013`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1013`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1013`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1013`) ([File](../ai/rag/arxiv-2606-09677.md))
-- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1013`) ([File](../ai/research/arxiv-2606-06379.md))
-- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1013`) ([File](../ai/agents/arxiv-2606-05050.md))
+- **Mailing list Subscription Form** - (Rank Change: `+4631`) ([File](../ai/resources/mailing-list-subscription-form.md))
+- **networkx/networkx** - (Rank Change: `+4527`) ([File](../ai/resources/networkx-networkx.md))
+- **run-llama/llama-cloud-ts** - (Rank Change: `+3976`) ([File](../ai/agents/run-llama-llama-cloud-ts.md))
+- **confident-ai/deepeval** - (Rank Change: `+3385`) ([File](../ai/resources/confident-ai-deepeval.md))
+- **Privacy policy** - (Rank Change: `+2843`) ([File](../ai/rag/privacy-policy.md))
+- **Sign up** - (Rank Change: `+2718`) ([File](../ai/rag/sign-up.md))
+- **What is the Model Context Protocol (MCP)? - Model Context Protocol** - (Rank Change: `+2262`) ([File](../ai/agents/what-is-the-model-context-protocol-mcp-model-conte.md))
+- **Python Packaging User Guide** - (Rank Change: `+2245`) ([File](../ai/resources/python-packaging-user-guide.md))
+- **braincrew-lab/langgraph-mcp-agents** - (Rank Change: `+2201`) ([File](../ai/agents/braincrew-lab-langgraph-mcp-agents.md))
+- **Weaviate vector database - YouTube** - (Rank Change: `+2113`) ([File](../ai/rag/weaviate-vector-database-youtube.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +59,4 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **The Philippines' big offshoring industry is growing despite AI** (Category: `ai/community`) ([File](../ai/community/the-philippines-big-offshoring-industry-is-growing.md))

@@ -3,9 +3,9 @@ title: Python Developer’s Guide
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://devguide.python.org/
-published_at: '2026-08-10T00:45:08.402307+05:30'
-collected_at: '2026-08-10T00:45:08.402316+05:30'
+source_url: https://devguide.python.org
+published_at: '2026-08-10T16:23:47.788104+05:30'
+collected_at: '2026-08-10T16:23:47.788118+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:python-developers-guide
-first_seen: '2026-08-10T00:45:08.402316+05:30'
-last_seen: '2026-08-10T00:45:08.402316+05:30'
-last_checked: '2026-08-10T00:45:08.402316+05:30'
+first_seen: '2026-08-10T16:23:47.788118+05:30'
+last_seen: '2026-08-10T16:23:47.788118+05:30'
+last_checked: '2026-08-10T16:23:47.788118+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Contribution Workflow**: Python contributions span documentation (PEP 8, reStructuredText), code (CPython C/Python), and issue triage, with structured guides for setup, PR lifecycle, and testing (e.g., `patchcheck`, NEWS updates).
-- **Core Development Focus**: CPython (C-based interpreter) prioritizes stdlib additions, language changes (via PEPs), and tooling (GDB, Clang dynamic analysis), while other implementations (PyPy, GraalPy) target niche environments (JIT, JVM, microcontrollers).
-- **Key Resources**: Official guides (PEP 7/8), issue tracker, Buildbot CI, and Git workflows (forking, PR creation, backporting) are critical; contributions require adherence to PSF Code of Conduct and modular PR practices.
+- **Contribution Workflows**: Python’s contribution guide outlines workflows for documentation, code, and issue triage, including setup/building, PR lifecycle, testing, and Git best practices (e.g., [PEP 7](https://peps.python.org/pep-0007/), [PEP 8](https://peps.python.org/pep-0008/)).
+
+- **Core Development Focus**: Targets CPython (C/Python hybrid interpreter) with resources for modifying the standard library, language grammar, and low-level internals (e.g., [Buildbot](https://buildbot.python.org/), [GDB/Clang tools](https://devguide.python.org/development-tools/)).
+
+- **Alternate Implementations**: Lists other Python interpreters (PyPy, GraalPy, Jython, etc.) optimized for specific environments (JIT, JVM, .NET, microcontrollers).
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T00:45:08.402307+05:30
+- Published: 2026-08-10T16:23:47.788104+05:30
 
 ## Related Tags
 
@@ -52,4 +54,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://devguide.python.org/
+Original source: https://devguide.python.org

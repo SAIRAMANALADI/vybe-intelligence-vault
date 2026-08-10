@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-08-10T13:40:28.971146+05:30'
-collected_at: '2026-08-10T13:40:28.971159+05:30'
+published_at: '2026-08-10T16:12:58.323177+05:30'
+collected_at: '2026-08-10T16:12:58.323193+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-08-10T13:40:28.971159+05:30'
-last_seen: '2026-08-10T13:40:28.971159+05:30'
-last_checked: '2026-08-10T13:40:28.971159+05:30'
+first_seen: '2026-08-10T16:12:58.323193+05:30'
+last_seen: '2026-08-10T16:12:58.323193+05:30'
+last_checked: '2026-08-10T16:12:58.323193+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Overview**: RAG integrates retrieval, augmentation, and generation to address LLM limitations (freshness, private knowledge, hallucinations) by dynamically pulling relevant external data during inference, transforming closed-book to open-book reasoning.
+- **RAG Architecture**: RAG combines retrieval (vector/sparse search), augmentation (context injection), and generation (LLM reasoning) to address LLM limitations (stale knowledge, private data, hallucinations) by dynamically fetching relevant external documents at query time.
 
-- **RAG Evolution**: Four generations—Naive (basic retrieval), Advanced (hybrid search, reranking, query transformation), Modular (routing, looping, tools), and Graph (entity-relation graphs for multi-hop reasoning)—each addressing scalability and accuracy gaps in prior versions.
+- **RAG Generations**: Naive RAG (basic retrieval), Advanced RAG (hybrid search, reranking, query transformation), Modular RAG (agentic routing, tool integration), and Graph RAG (entity-relation graph traversal for multi-hop reasoning).
 
-- **Implementation Stack**: Core components include vector DBs (Chroma, Pinecone), embedding models (BAAI/bge-m3, E5), retrieval techniques (BM25, ANN, HyDE), and frameworks (LangChain, LlamaIndex), with trade-offs in latency, cost, and complexity.
+- **Implementation Stack**: Uses frameworks like LangChain/LCEL for pipelines, vector DBs (Chroma, Qdrant) for embeddings, and techniques like BM25, HyDE, and RRF for retrieval optimization, with evaluation metrics (e.g., EM, F1) for performance benchmarking.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T13:40:28.971146+05:30
+- Published: 2026-08-10T16:12:58.323177+05:30
 
 ## Related Tags
 

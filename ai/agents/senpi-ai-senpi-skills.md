@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Senpi-ai/senpi-skills
-collected_at: '2026-08-10T13:43:51.415491+05:30'
+collected_at: '2026-08-10T16:16:21.301900+05:30'
 published_at: '2026-08-08T00:40:11Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-02-23T19:28:09Z'
 pushed_at: '2026-08-08T15:54:28Z'
 resource_id: github:senpi-ai/senpi-skills
-first_seen: '2026-08-10T13:43:51.415491+05:30'
-last_seen: '2026-08-10T13:43:51.415491+05:30'
-last_checked: '2026-08-10T13:43:51.415491+05:30'
+first_seen: '2026-08-10T16:16:21.301900+05:30'
+last_seen: '2026-08-10T16:16:21.301900+05:30'
+last_checked: '2026-08-10T16:16:21.301900+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Open-source Python-based system for deploying AI-driven trading strategies on Hyperliquid, supporting crypto, equities, commodities, and indices with two-phase trailing-stop (DSL) exit mechanisms.
-
-- **Strategy Templates**: Provides 80+ pre-built strategy templates for autonomous trading, enabling rapid development and deployment of quantitative models.
-
-- **Risk Protection & Updates**: Implements protective measures for deployed strategies and is actively maintained with the latest commit from August 8, 2026.
+- **Open-source AI agent framework** for autonomous trading on Hyperliquid, supporting crypto, equities, commodities, and indices with 80+ strategy templates.
+- **Two-phase trailing-stop (DSL) exits** for dynamic profit protection and risk management in automated trading strategies.
+- **Python-based** implementation with deployment-ready components for building, testing, and protecting trading strategies.
 
 ## Why It Matters
 

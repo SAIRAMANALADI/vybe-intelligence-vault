@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-10T13:41:21.240392+05:30'
+collected_at: '2026-08-10T16:13:51.129481+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
+- workflows
 stars: 36
 language: Java
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-10T13:41:21.240392+05:30'
-last_seen: '2026-08-10T13:41:21.240392+05:30'
-last_checked: '2026-08-10T13:41:21.240392+05:30'
+first_seen: '2026-08-10T16:13:51.129481+05:30'
+last_seen: '2026-08-10T16:13:51.129481+05:30'
+last_checked: '2026-08-10T16:13:51.129481+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements AI Q&A system with SSE streaming, Agent-based intelligence, and knowledge graph RAG using Spring AI and Alibaba Cloud services.
-- **Features**: Supports function calling, historical message management, image generation/understanding, embedding/vector database integration, and RAG pipelines.
-- **Tech Stack**: Java-based, leveraging Alibaba Cloud AI services, vector databases, and Spring AI framework.
+- Implements **Server-Sent Events (SSE)** for real-time AI response streaming in a Spring-based system.
+- Integrates **RAG (Retrieval-Augmented Generation)** with **vector databases**, **embeddings**, and **knowledge graphs** for enhanced contextual retrieval.
+- Supports **Agent workflows**, **Function Calling**, **image generation/understanding**, and **historical message handling** within a Java-based AI pipeline.
 
 ## Why It Matters
 

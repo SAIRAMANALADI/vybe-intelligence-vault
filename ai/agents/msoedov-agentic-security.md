@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-08-10T13:43:26.329475+05:30'
+collected_at: '2026-08-10T16:15:56.257376+05:30'
 published_at: '2026-08-10T07:15:33Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
+- workflows
 stars: 1959
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-07-31T16:27:20Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-08-10T13:43:26.329475+05:30'
-last_seen: '2026-08-10T13:43:26.329475+05:30'
-last_checked: '2026-08-10T13:43:26.329475+05:30'
+first_seen: '2026-08-10T16:15:56.257376+05:30'
+last_seen: '2026-08-10T16:15:56.257376+05:30'
+last_checked: '2026-08-10T16:15:56.257376+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Agentic LLM-based framework for automated vulnerability scanning and AI red teaming.
-*   Utilizes LLM fuzzing, prompt testing, and jailbreaking methodologies to identify security weaknesses.
-*   Evaluates LLM guardrails, detects LLM vulnerabilities, and assesses agent security posture.
+- **Purpose**: Agentic LLM Vulnerability Scanner and AI red-teaming toolkit for evaluating LLM security, jailbreaks, and prompt injection risks.
+- **Features**: Supports LLM fuzzing, evaluation frameworks, guardrails testing, and vulnerability aggregation across agentic systems.
+- **Technical Stack**: Python-based framework with extensible modules for LLM security assessment and automated red teaming workflows.
 
 ## Why It Matters
 

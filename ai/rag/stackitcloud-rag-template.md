@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-08-10T13:40:51.284021+05:30'
+collected_at: '2026-08-10T16:13:21.154774+05:30'
 published_at: '2026-08-09T00:21:24Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 86
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-08-09T01:15:39Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-08-10T13:40:51.284021+05:30'
-last_seen: '2026-08-10T13:40:51.284021+05:30'
-last_checked: '2026-08-10T13:40:51.284021+05:30'
+first_seen: '2026-08-10T16:13:21.154774+05:30'
+last_seen: '2026-08-10T16:13:21.154774+05:30'
+last_checked: '2026-08-10T16:13:21.154774+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Provides a FastAPI-based template for Retrieval-Augmented Generation (RAG) with vector search capabilities, enabling AI chatbots and document management via embeddings and retrieval mechanisms.
-
-- **Multi-Environment Deployment**: Supports Docker for containerization and Kubernetes for orchestration, facilitating scalable deployment of RAG systems with integrated LLM (e.g., Ollama) and vector database backends.
-
-- **Modular Architecture**: Designed for extensibility with Python, offering pre-configured components for document ingestion, embedding generation, and retrieval workflows, optimized for STACKIT cloud integration.
+- **Architecture**: Template for RAG-based AI chatbots/document management using FastAPI, vector search, and Retrieval-Augmented Generation (RAG) with Ollama and STACKIT integration.
+- **Deployment**: Supports Docker and Kubernetes for containerized orchestration, with FastAPI as the backend framework.
+- **Key Components**: Includes vector database integration, LLM (Ollama), and retrieval pipelines for document processing and chatbot interactions.
 
 ## Why It Matters
 

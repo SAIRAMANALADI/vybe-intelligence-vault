@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-08-10T13:40:36.229702+05:30'
-published_at: '2026-08-10T08:00:48Z'
+collected_at: '2026-08-10T16:13:06.095114+05:30'
+published_at: '2026-08-10T08:57:04Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - jupyter notebook
 - rag
 - workflows
-stars: 36920
+stars: 36921
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-07-27T18:43:06Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-08-10T13:40:36.229702+05:30'
-last_seen: '2026-08-10T13:40:36.229702+05:30'
-last_checked: '2026-08-10T13:40:36.229702+05:30'
+first_seen: '2026-08-10T16:13:06.095114+05:30'
+last_seen: '2026-08-10T16:13:06.095114+05:30'
+last_checked: '2026-08-10T16:13:06.095114+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Content Focus**: Repository provides advanced tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and real-world AI agent implementations.
-- **Technical Stack**: Primarily uses Jupyter Notebooks for demonstrations, covering AI engineering topics like MCP (Model Context Protocol) and machine learning workflows.
-- **Metrics**: Highly active with 36,920 stars, 6,094 forks, and last updated in August 2026, indicating ongoing development and community engagement.
+- **Comprehensive LLM & RAG Tutorials**: Repository provides in-depth, hands-on tutorials covering Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures, including implementation and optimization techniques.
+
+- **Real-World AI Agent Applications**: Includes practical examples and case studies of deploying AI agents in production environments, demonstrating integration with MCP (Model Context Protocol) and other frameworks.
+
+- **Jupyter Notebook-Based Learning**: All tutorials and examples are delivered as executable Jupyter Notebooks, enabling interactive experimentation with AI models, RAG pipelines, and agent workflows.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36920
+- Stars: 36921
 - Forks: 6094
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-08-10T08:00:48Z
+- Last Updated: 2026-08-10T08:57:04Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

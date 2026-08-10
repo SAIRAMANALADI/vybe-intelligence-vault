@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://skills.sh
-published_at: '2026-08-10T13:49:18.997183+05:30'
-collected_at: '2026-08-10T13:49:18.997198+05:30'
+published_at: '2026-08-10T16:23:18.269637+05:30'
+collected_at: '2026-08-10T16:23:18.269656+05:30'
 tags:
 - agents
 - anthropic
@@ -18,12 +18,13 @@ tags:
 - reddit
 - scripts
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:the-agent-skills-directory
-first_seen: '2026-08-10T13:49:18.997198+05:30'
-last_seen: '2026-08-10T13:49:18.997198+05:30'
-last_checked: '2026-08-10T13:49:18.997198+05:30'
+first_seen: '2026-08-10T16:23:18.269656+05:30'
+last_seen: '2026-08-10T16:23:18.269656+05:30'
+last_checked: '2026-08-10T16:23:18.269656+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Top 3 Skills by Install Count**: `find-skills` (2.9M), `grill-me` (810.2K), `frontend-design` (759.6K), all hosted on Vercel Labs, Matt Pocock, and Anthropic respectively.
+- **Top 3 skills by install count**: `find-skills` (2.9M), `grill-me` (812.9K), `frontend-design` (760.3K), all part of Vercel Labs/mattpocock/anthropics ecosystems.
 
-- **Dominant Publishers**: `mattpocock/skills` (15 skills, 7.6M total installs), `open.feishu.cn` (12 skills, 12.1M total installs), and `microsoft/azure-skills` (13 skills, 7.1M total installs) lead in skill distribution and cumulative installs.
+- **Dominant contributors**: `mattpocock/skills` (12 entries, 5.1M+ installs), `microsoft/azure-skills` (13 entries, 7.1M+ installs), and `larksuite/cli` (18 entries, 20M+ installs) dominate the leaderboard.
 
-- **Emerging Categories**: High activity in AI/ML (`azure-ai`, `supabase-postgres-best-practices`), design systems (`frontend-design`, `ui-ux-pro-max`), and automation tools (`lark-approval`, `lark-okr`) with sub-500K but rapidly growing install bases.
+- **Skill categories**: Heavy focus on **AI/agent frameworks** (e.g., `agent-browser`, `vercel-react-best-practices`), **documentation/tools** (e.g., `lark-doc`, `lark-markdown`), and **development workflows** (e.g., `tdd`, `code-review`, `domain-modeling`).
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-10T13:49:18.997183+05:30
+- Published: 2026-08-10T16:23:18.269637+05:30
 
 ## Related Tags
 
@@ -60,6 +61,7 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
+- workflows
 - youtube
 
 ## Source

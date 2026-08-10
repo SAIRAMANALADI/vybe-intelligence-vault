@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-10T10:36:21.579350+05:30'
-collected_at: '2026-08-10T10:36:21.579363+05:30'
+published_at: '2026-08-10T16:18:24.963364+05:30'
+collected_at: '2026-08-10T16:18:24.963384+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-10T10:36:21.579363+05:30'
-last_seen: '2026-08-10T10:36:21.579363+05:30'
-last_checked: '2026-08-10T10:36:21.579363+05:30'
+first_seen: '2026-08-10T16:18:24.963384+05:30'
+last_seen: '2026-08-10T16:18:24.963384+05:30'
+last_checked: '2026-08-10T16:18:24.963384+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles via Gradio, Docker, or static HTML/JS, with optional GPU acceleration for performance-critical applications.
+- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting with support for Gradio SDK, Docker containers, and static HTML/JS apps, deployable on user/organization profiles with optional GPU acceleration.
 
-- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, and embeddable Spaces; allows custom Dockerfiles, Python scripts, and GPU/accelerated hardware upgrades for scalable inference.
+- **Storage & Compute**: Supports disk usage tracking, GPU upgrades, and ZeroGPU configurations; integrates with GitHub Actions for CI/CD and provides APIs for embedding/custom domains.
 
-- **Analytics & Collaboration**: Provides disk/storage monitoring, download analytics, and collaborative features (e.g., pull requests, discussions) with enterprise-grade access control and security policies.
+- **Advanced Features**: Includes dev mode, MCP server integration, agent tool deployment, and OAuth-based authentication for secure, scalable ML application hosting.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:36:21.579350+05:30
+- Published: 2026-08-10T16:18:24.963364+05:30
 
 ## Related Tags
 

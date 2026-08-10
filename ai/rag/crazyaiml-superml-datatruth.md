@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crazyaiml/Superml.DataTruth
-collected_at: '2026-08-09T21:26:59.985919+05:30'
+collected_at: '2026-08-10T16:17:31.318538+05:30'
 published_at: '2026-05-16T00:04:25Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-12-31T17:08:30Z'
 pushed_at: '2026-06-26T01:37:44Z'
 resource_id: github:crazyaiml/superml.datatruth
-first_seen: '2026-08-09T21:26:59.985919+05:30'
-last_seen: '2026-08-09T21:26:59.985919+05:30'
-last_checked: '2026-08-09T21:26:59.985919+05:30'
+first_seen: '2026-08-10T16:17:31.318538+05:30'
+last_seen: '2026-08-10T16:17:31.318538+05:30'
+last_checked: '2026-08-10T16:17:31.318538+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **NLP-Powered Data Querying**: Enables users to query data using natural language, eliminating the need for SQL by leveraging NLP and semantic parsing.
-- **Real-Time Visualization & Insights**: Provides instant visualization of insights derived from queried data, facilitating rapid decision-making.
-- **Semantic Layer for Data Quality**: Enforces data quality at the semantic layer, ensuring consistency and reliability without manual SQL-based validation.
+- **Natural Language Query Engine**: Enables SQL-free data querying via NLP, translating user prompts into executable analytics without manual SQL scripting.
+- **Real-Time Semantic Visualization**: Instantly generates data visualizations from natural language queries, leveraging an AI-native semantic layer for dynamic insights.
+- **Semantic Data Quality Enforcement**: Integrates automated data quality checks at the semantic layer, ensuring consistency and reliability of analytics outputs without explicit SQL validation.
 
 ## Why It Matters
 
