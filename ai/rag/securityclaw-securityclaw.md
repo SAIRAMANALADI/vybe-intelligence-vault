@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-10T19:20:54.371548+05:30'
+collected_at: '2026-08-10T21:48:41.947662+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 263
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-08-06T19:58:27Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-10T19:20:54.371548+05:30'
-last_seen: '2026-08-10T19:20:54.371548+05:30'
-last_checked: '2026-08-10T19:20:54.371548+05:30'
+first_seen: '2026-08-10T21:48:41.947662+05:30'
+last_seen: '2026-08-10T21:48:41.947662+05:30'
+last_checked: '2026-08-10T21:48:41.947662+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time data monitoring, with modular components for extensibility in cybersecurity operations.
-- **RAG-Enhanced Behavioral Memory**: Utilizes Retrieval-Augmented Generation (RAG) to build and query contextual behavioral memory, enabling adaptive threat detection and historical anomaly correlation.
-- **LLM-Driven Anomaly Validation**: Employs Large Language Models (LLMs) to validate real-time anomalies, combining retrieval-augmented insights with generative reasoning for automated threat assessment.
+- **Modular SOC Agent**: Implements a skill-based autonomous SOC agent in Python, integrating OpenSearch/Elasticsearch for real-time log monitoring and anomaly detection.
+
+- **RAG-Enhanced Memory & Validation**: Utilizes Retrieval-Augmented Generation (RAG) to build behavioral memory from monitored data, while LLMs validate anomalies in real-time for adaptive threat detection.
+
+- **Threat Hunting & Automation**: Supports SOC automation, threat hunting, and cybersecurity operations via modular components, enabling scalable and efficient security workflows.
 
 ## Why It Matters
 

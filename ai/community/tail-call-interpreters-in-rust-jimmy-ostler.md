@@ -13,13 +13,14 @@ collected_at: '2026-08-10T19:18:44.462905+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tail-call-interpreters-in-rust-jimmy-ostler
 first_seen: '2026-08-10T16:12:08.978058+05:30'
 last_seen: '2026-08-10T19:18:44.462905+05:30'
 last_checked: '2026-08-10T19:18:44.462905+05:30'
 health_score: 100
 ---
+
 
 # Tail-Call Interpreters in Rust – Jimmy Ostler
 

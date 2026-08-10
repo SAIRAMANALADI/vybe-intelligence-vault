@@ -21,9 +21,9 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 
 https://github.com/danielmiessler/fabric (Fabric)
 https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
-- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm)
 - [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp)
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-08-10 19:36 IST*
+*Last updated: 2026-08-10 22:04 IST*

@@ -4,7 +4,7 @@ title: GitHub - firebase/extensions at 1ac8343194b1b009bbfee5d6da492ab499d4d030 
 archive_category: frontend-ai-ui
 source_category: ai/resources
 source_url: https://github.com/firebase/extensions/tree/1ac834319
-resource_id: github:firebase/extensions
+resource_id: github:firebase/extensions-d98f9a49
 local_vault_path: ai/resources/firebase-extensions.md
 quality_score: 70
 archive_score: 87

@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIMAN-group/PlugMem
-collected_at: '2026-08-10T19:21:19.408363+05:30'
+collected_at: '2026-08-10T21:49:06.954695+05:30'
 published_at: '2026-08-10T02:18:39Z'
 tags:
 - agents
+- benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 280
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-09T22:43:38Z'
 pushed_at: '2026-07-09T05:51:21Z'
 resource_id: github:timan-group/plugmem
-first_seen: '2026-08-10T19:21:19.408363+05:30'
-last_seen: '2026-08-10T19:21:19.408363+05:30'
-last_checked: '2026-08-10T19:21:19.408363+05:30'
+first_seen: '2026-08-10T21:49:06.954695+05:30'
+last_seen: '2026-08-10T21:49:06.954695+05:30'
+last_checked: '2026-08-10T21:49:06.954695+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Plug-and-play long-term memory integration** for LLM agents, enabling persistent contextual retention without fine-tuning (ICML 2026 submission).
-- **Modular architecture** leveraging Retrieval-Augmented Generation (RAG) to dynamically store, retrieve, and update agent memories via Python-based implementation.
-- **Open-source framework** with 280 stars and 27 forks, last updated August 2026, designed for seamless integration with agent-memory systems.
+- **Plug-and-play long-term memory integration**: Introduces a modular framework enabling LLMs to dynamically attach/detach long-term memory modules without retraining, enhancing adaptability for agent-based tasks.
+
+- **Memory-augmented agent architecture**: Implements a retrieval-augmented generation (RAG) pipeline with persistent, scalable memory storage for LLM agents, optimizing context retention and decision-making over extended interactions.
+
+- **ICML 2026 contribution**: Proposes a novel memory plugin system for LLMs, evaluated on agent-memory benchmarks, with open-source Python implementation supporting extensible memory backends and retrieval mechanisms.
 
 ## Why It Matters
 

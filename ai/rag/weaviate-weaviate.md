@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/weaviate/weaviate
-collected_at: '2026-08-10T19:25:10.490982+05:30'
+collected_at: '2026-08-10T21:52:40.126225+05:30'
 published_at: '2026-08-10T12:42:27Z'
 tags:
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: BSD-3-Clause
 archived: false
 created_at: '2016-03-30T15:03:17Z'
-pushed_at: '2026-08-10T13:53:48Z'
+pushed_at: '2026-08-10T16:21:45Z'
 resource_id: github:weaviate/weaviate
-first_seen: '2026-08-10T19:25:10.490982+05:30'
-last_seen: '2026-08-10T19:25:10.490982+05:30'
-last_checked: '2026-08-10T19:25:10.490982+05:30'
+first_seen: '2026-08-10T21:52:40.126225+05:30'
+last_seen: '2026-08-10T21:52:40.126225+05:30'
+last_checked: '2026-08-10T21:52:40.126225+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Architecture**: Combines structured data storage with vector embeddings, enabling both exact and approximate nearest neighbor (ANN) search via HNSW indexing for high-dimensional vector data.
+- **Hybrid Vector & Structured Data Storage**: Weaviate combines vector embeddings with structured data in a single database, enabling vector search with SQL-like filtering while maintaining cloud-native scalability and fault tolerance.
 
-- **Cloud-Native & Scalable**: Implements fault tolerance, horizontal scaling, and gRPC-based communication, optimized for MLOps and production-grade semantic search workloads.
+- **Multi-Modal & Semantic Search Capabilities**: Supports hybrid search (vector + BM25), generative search (RAG), and multi-modal retrieval (text, images) via HNSW indexing and gRPC APIs.
 
-- **Multi-Modal Search**: Supports hybrid (vector + keyword), generative, and cross-modal (e.g., image-to-text) search via modular vectorization and retrieval pipelines.
+- **MLOps & Production-Grade Features**: Optimized for MLOps with approximate nearest neighbor (ANN) search, neural search pipelines, and distributed deployment via Go-based microservices architecture.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: BSD-3-Clause
 - Archived: No
 - Created At: 2016-03-30T15:03:17Z
-- Pushed At: 2026-08-10T13:53:48Z
+- Pushed At: 2026-08-10T16:21:45Z
 
 ## Possible Use Cases
 

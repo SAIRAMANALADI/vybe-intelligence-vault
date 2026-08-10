@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflarestatus.com/
-published_at: '2026-08-08T18:53:42.788398+05:30'
-collected_at: '2026-08-08T18:53:42.788415+05:30'
+published_at: '2026-08-10T21:54:47.335841+05:30'
+collected_at: '2026-08-10T21:54:47.335852+05:30'
 tags:
 - hackernews
 - models
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cloudflare-status
-first_seen: '2026-08-08T18:53:42.788415+05:30'
-last_seen: '2026-08-08T18:53:42.788415+05:30'
-last_checked: '2026-08-08T18:53:42.788415+05:30'
+first_seen: '2026-08-10T21:54:47.335852+05:30'
+last_seen: '2026-08-10T21:54:47.335852+05:30'
+last_checked: '2026-08-10T21:54:47.335852+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **R2 Storage Degradation (ENAM)**: Writes to a subset of R2 buckets in Eastern North America (ENAM) were impacted between 14:52–17:02 UTC on Aug 7, 2026, due to an identified cause; recovery efforts are ongoing as of Aug 8, 2026.
+- **Scheduled Maintenance in IAD & STL Datacenters**: Cloudflare is performing scheduled maintenance in **IAD (Ashburn)** from **2026-08-10 10:00 to 2026-08-11 06:00 UTC** and in **STL (St. Louis)** from **2026-08-10 09:00 to 21:00 UTC**, with potential latency increases and traffic failover for affected regions.
 
-- **Network Outage in Istanbul**: Dark fiber loss in Istanbul caused network performance degradation; vendor coordination is underway to restore connectivity as of Aug 8, 2026.
+- **Global Edge Network Status**: Cloudflare’s status page lists **operational** and **partial outage** states for various global PoPs, including **Africa (e.g., Harare, Kinshasa)**, **Asia (e.g., Ahmedabad, Jakarta)**, and **Europe (e.g., Lyon, Istanbul, Kyiv)**.
 
-- **Regional Service Status**: Cloudflare’s status page indicates **degraded performance** for R2 globally, **partial outages** in multiple regions (e.g., Johannesburg, Kochi, Lyon), and **under maintenance** status for nodes like Istanbul, Kyiv, and Minsk.
+- **Incident Notifications & API Access**: Users can subscribe to incident updates via **email, PagerDuty, or webhooks** (per plan) and access status data via **Atom/RSS feeds** or the **Cloudflare Status API**.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T18:53:42.788398+05:30
+- Published: 2026-08-10T21:54:47.335841+05:30
 
 ## Related Tags
 

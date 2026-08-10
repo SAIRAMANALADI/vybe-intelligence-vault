@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-08-10T19:28:43.277534+05:30'
-collected_at: '2026-08-10T19:28:43.277551+05:30'
+published_at: '2026-08-10T21:56:43.379618+05:30'
+collected_at: '2026-08-10T21:56:43.379633+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-08-10T19:28:43.277551+05:30'
-last_seen: '2026-08-10T19:28:43.277551+05:30'
-last_checked: '2026-08-10T19:28:43.277551+05:30'
+first_seen: '2026-08-10T21:56:43.379633+05:30'
+last_seen: '2026-08-10T21:56:43.379633+05:30'
+last_checked: '2026-08-10T21:56:43.379633+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Official Android Git Repository**: Hosted at `android.googlesource.com`, this is the primary Git repository for Android OS development, including device-specific kernels, hardware abstraction layers (HALs), and accessory support (e.g., `device/google/accessory/arduino`).
+- **Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS, kernel, device-specific code, and accessories.
 
-- **Device-Specific Branches**: Contains per-device kernel and device tree repositories (e.g., `device/google/bluejay-kernel`, `device/asus/flo-kernel`) with versioned branches (e.g., `5.10`, `6.1`) for different Android releases, alongside SELinux policies (`device/google/bluejay-sepolicy`).
+- **Device-Specific Branches**: Multiple device-specific repositories (e.g., `device/google/bluejay`, `device/google/pantah`) include kernel (`*-kernel`), sepolicy (`*-sepolicy`), and kernel version branches (e.g., `5.10`, `6.1`) for hardware-specific development.
 
-- **Emulation & Testing Targets**: Includes generic emulator targets (`device/generic/x86_64`, `device/generic/goldfish`) and virtualization-focused devices (`device/google/cuttlefish`) for Android Virtual Device (AVD) and CI/CD pipeline testing.
+- **Accessory & Emulator Support**: Repositories like `device/google/accessory/arduino` and `device/generic/mini-emulator-*` provide hardware accessory integration and emulator configurations for ARM, x86, and MIPS architectures.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T19:28:43.277534+05:30
+- Published: 2026-08-10T21:56:43.379618+05:30
 
 ## Related Tags
 

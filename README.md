@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-106%2C765-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-176%2C938-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--10-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **106,765 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **176,938 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,136</p>
-        <p><b>Active:</b> 17,598 | <b>Inactive:</b> 538</p>
+        <p><b>Resources tracked:</b> 19,162</p>
+        <p><b>Active:</b> 18,619 | <b>Inactive:</b> 543</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,259</p>
+        <p><b>Archive Files:</b> 71,428</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 106,765 files</p>
-        <p><b>Last Update:</b> 2026-08-10 21:38 IST</p>
+        <p><b>Total Vault Size:</b> 176,938 files</p>
+        <p><b>Last Update:</b> 2026-08-10 22:05 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[AI software reliability platform | incident.io](ai/agents/ai-software-reliability-platform-incident-io.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Privacy Policy](ai/rag/privacy-policy.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Research Solutions - YouTube](ai/resources/research-solutions-youtube.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation](ai/resources/project-jupyter-documentation-jupyter-documentatio.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[sphinx-doc/sphinx](ai/resources/sphinx-doc-sphinx.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Over 181,000 AI meeting recordings left wide open in note taking app](ai/community/over-181000-ai-meeting-recordings-left-wide-open-i.md)** • <kbd>+220 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)** • <kbd>+103 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Show HN: Voice driven murder mystery, Interview AI suspects with your voice](ai/community/show-hn-voice-driven-murder-mystery-interview-ai-s.md)** • <kbd>+34 pts</kbd>
+- 🔼 **[Tail-call optimization in C is relatively recent](ai/community/tail-call-optimization-in-c-is-relatively-recent.md)** • <kbd>+29 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[youtube/api-samples](ai/resources/youtube-api-samples.md)** • Rank: <kbd>+1938</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](ai/community/mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r.md)** • Score: `81`
+- 🆕 **['Pervert glasses': Backlash against Meta's smart glasses grows](ai/community/pervert-glasses-backlash-against-meta-s-smart-glas.md)** • Score: `51`
+- 🆕 **[OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300](ai/community/openai-s-new-device-will-be-hockey-puck-sized-and.md)** • Score: `23`
+- 🆕 **[Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](ai/community/kinney-drugs-pulls-back-ai-phone-assistant-after-h.md)** • Score: `9`
+- 🆕 **[Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](ai/community/exploring-claude-gpt-knowledge-cutoffs-and-pre-tra.md)** • Score: `4`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[How I use LLMs to learn complex topics](ai/community/how-i-use-llms-to-learn-complex-topics.md)**
+- 💤 **[Tuxedo No. 2 – Cocktail recipes](ai/community/tuxedo-no-2-cocktail-recipes.md)**
+- 💤 **[Because It's Not Fun Enough: why languages fail](ai/community/because-it-s-not-fun-enough-why-languages-fail.md)**
+- 💤 **[Tail-Call Interpreters in Rust – Jimmy Ostler](ai/community/tail-call-interpreters-in-rust-jimmy-ostler.md)**
+- 💤 **[Defending my own brain against enshittification](ai/community/defending-my-own-brain-against-enshittification.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

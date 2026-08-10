@@ -2,7 +2,7 @@
 title: "Gemini 3.5 â\x80\x94 Google DeepMind"
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://deepmind.google/technologies/gemini/
+source_url: https://deepmind.google/gemini
 resource_id: blog:gemini-3-5-a-google-deepmind
 local_vault_path: ai/rag/gemini-3-5-a-google-deepmind.md
 quality_score: 70
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Optimized for Token Efficiency**: Flash is designed to minimize token usage in coding, knowledge work, and multimodal tasks, improving cost-performance ratio for inference.
-
-- **Enhanced Multimodal Capabilities**: Supports integrated text, image, video, and audio processing with optimized latency and throughput for real-time applications.
-
-- **Scalable Architecture**: Built on lightweight transformer-based models with efficient attention mechanisms (e.g., grouped-query attention) for high-th
+- **Efficiency**: Optimized for high token efficiency in coding, knowledge-intensive tasks, and multimodal processing, reducing computational overhead while maintaining performance.
+- **Use Cases**: Designed for tasks requiring rapid inference, such as real-time coding assistance, document analysis, and cross-modal understanding (text, image, audio).
+- **Architecture**: Leverages a distilled or compressed variant of the Gemini model, balancing speed and accuracy for low-latency applications.
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://deepmind.google/technologies/gemini/
+Original source URL: https://deepmind.google/gemini
 
 ## Local Vault File
 

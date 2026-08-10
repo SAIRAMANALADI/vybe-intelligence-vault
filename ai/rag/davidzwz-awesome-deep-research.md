@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-08-10T19:21:19.385633+05:30'
+collected_at: '2026-08-10T21:49:06.920524+05:30'
 published_at: '2026-08-10T11:58:53Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
+- paper
 - rag
 - unknown
 stars: 839
@@ -20,9 +22,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-08-10T19:21:19.385633+05:30'
-last_seen: '2026-08-10T19:21:19.385633+05:30'
-last_checked: '2026-08-10T19:21:19.385633+05:30'
+first_seen: '2026-08-10T21:49:06.920524+05:30'
+last_seen: '2026-08-10T21:49:06.920524+05:30'
+last_checked: '2026-08-10T21:49:06.920524+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on LLM-driven reasoning, search, and retrieval-augmented generation (RAG) systems for autonomous knowledge synthesis.
-- **Key Topics Covered**: Includes agentic AI, deep research agents, multi-agent collaboration, long-form reasoning, and evaluation frameworks for autonomous research tasks.
-- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026’s "Knowledge Foundation Models" initiative, emphasizing scalable, verifiable, and interpretable deep research methodologies.
+- **Curated Collection**: Aggregates cutting-edge resources (papers, tools, frameworks) on agentic deep research, focusing on autonomous LLM-driven reasoning, search, and multi-agent systems for complex knowledge synthesis.
+- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026's "Knowledge Frontier Modeling" (KnowFM) initiative, emphasizing structured, evidence-backed deep research agents for academic and industrial applications.
+- **Technical Breadth**: Covers agentic RAG, multi-agent collaboration, reasoning architectures, and evaluation benchmarks for deep research tasks, with 839+ curated resources.
 
 ## Why It Matters
 

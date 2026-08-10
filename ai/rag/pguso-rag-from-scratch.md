@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-10T19:19:49.314615+05:30'
+collected_at: '2026-08-10T21:47:36.835482+05:30'
 published_at: '2026-08-10T12:24:21Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-10T19:19:49.314615+05:30'
-last_seen: '2026-08-10T19:19:49.314615+05:30'
-last_checked: '2026-08-10T19:19:49.314615+05:30'
+first_seen: '2026-08-10T21:47:36.835482+05:30'
+last_seen: '2026-08-10T21:47:36.835482+05:30'
+last_checked: '2026-08-10T21:47:36.835482+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step implementation of Retrieval-Augmented Generation (RAG) from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies.
-- **Core Components**: Demonstrates embeddings generation, vector search, retrieval mechanisms, and context-augmented generation, emphasizing real-world understanding over abstract frameworks.
-- **Practical Tutorial**: Targets developers with a hands-on approach to building RAG chatbots, covering agents, Node.js integration, and pipeline optimization (last updated Aug 2026).
+- **Educational RAG Implementation**: Provides a step-by-step, from-scratch guide to building Retrieval-Augmented Generation (RAG) systems using local LLMs, emphasizing transparency by avoiding black-box components.
+
+- **Technical Stack**: Utilizes JavaScript/Node.js with `node-llama-cpp` for local LLM inference, covering embeddings, vector search, retrieval, and context-augmented generation in a single pipeline.
+
+- **Purpose & Scope**: Designed as a tutorial for developers to gain hands-on understanding of RAG components, including agents, chatbots, and retrieval pipelines, with no external dependencies on proprietary APIs.
 
 ## Why It Matters
 

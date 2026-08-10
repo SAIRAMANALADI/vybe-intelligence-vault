@@ -7,18 +7,17 @@ source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
 local_vault_path: ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: framework
-importance: medium
+resource_kind: dataset
+importance: high
 tags:
-- hackernews
 - rag
 - web-crawled
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube
@@ -26,19 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, creator monetization, advertising, and developer APIs (via [developers.google.com/youtube](https://developers.google.com/youtube)).
+- **YouTube's Official Documentation**: Provides links to corporate, legal, and developer resources including press, copyright, contact, creator support, advertising, API documentation (via Google Developers), terms of service, privacy policy, and safety guidelines.
 
-- **Technical Infrastructure**: Utilizes Retrieval Augmented Generation (RAG) for AI-driven features, enabling dynamic content retrieval and generation (e.g., personalized recommendations, automated captions).
+- **YouTube Platform Overview**: Includes "How YouTube Works" (explaining infrastructure, algorithms, and monetization) and "Test New Features" for experimental tools.
 
-- **Developer & Policy Framew
+- **NFL Sunday Ticket Integration**: Highlights YouTube TV’s ex
 
 ## Use Cases
 

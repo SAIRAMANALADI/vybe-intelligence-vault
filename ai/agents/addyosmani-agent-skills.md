@@ -4,17 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/addyosmani/agent-skills
-collected_at: '2026-08-10T19:22:49.423327+05:30'
-published_at: '2026-08-10T13:49:31Z'
+collected_at: '2026-08-10T21:50:37.051732+05:30'
+published_at: '2026-08-10T16:18:58Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
 - javascript
-- scripts
 - workflows
-stars: 85534
+stars: 85610
 language: JavaScript
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-02-15T20:20:26Z'
 pushed_at: '2026-08-08T21:05:57Z'
 resource_id: github:addyosmani/agent-skills
-first_seen: '2026-08-10T19:22:49.423327+05:30'
-last_seen: '2026-08-10T19:22:49.423327+05:30'
-last_checked: '2026-08-10T19:22:49.423327+05:30'
+first_seen: '2026-08-10T21:50:37.051732+05:30'
+last_seen: '2026-08-10T21:50:37.051732+05:30'
+last_checked: '2026-08-10T21:50:37.051732+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `cursor`, and `codex`.
-
-- **Technical Scope**: Focuses on JavaScript-based implementations, covering advanced agent workflows, automation, and anti-pattern mitigation (`antigravity`).
-
-- **Metrics**: Highly active with 85,534 stars, 9,202 forks, and last updated on 2026-08-10.
+- **Repository Overview**: `agent-skills` by addyosmani provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `codex`, and `cursor`.
+- **Technical Scope**: Focuses on advanced JavaScript-based workflows, including `antigravity` (simulated anti-gravity physics) and agent-specific skill integrations.
+- **Metrics**: Highly starred (85.6k) and forked (9.2k), last updated on 2026-08-10, indicating active community engagement and maintenance.
 
 ## Why It Matters
 
@@ -45,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: addyosmani
-- Stars: 85534
-- Forks: 9202
+- Stars: 85610
+- Forks: 9215
 - Language: JavaScript
 - Topics: agent-skills, antigravity, claude-code, codex, cursor, skills
-- Last Updated: 2026-08-10T13:49:31Z
+- Last Updated: 2026-08-10T16:18:58Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-15T20:20:26Z

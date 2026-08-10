@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Senpi-ai/senpi-skills
-collected_at: '2026-08-10T19:22:59.461742+05:30'
+collected_at: '2026-08-10T21:50:47.069129+05:30'
 published_at: '2026-08-08T00:40:11Z'
 tags:
 - agents
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-02-23T19:28:09Z'
-pushed_at: '2026-08-10T13:48:44Z'
+pushed_at: '2026-08-10T13:58:43Z'
 resource_id: github:senpi-ai/senpi-skills
-first_seen: '2026-08-10T19:22:59.461742+05:30'
-last_seen: '2026-08-10T19:22:59.461742+05:30'
-last_checked: '2026-08-10T19:22:59.461742+05:30'
+first_seen: '2026-08-10T21:50:47.069129+05:30'
+last_seen: '2026-08-10T21:50:47.069129+05:30'
+last_checked: '2026-08-10T21:50:47.069129+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source framework for autonomous trading agents, offering AI-driven skills and 80+ strategy templates optimized for Hyperliquid exchange.
-- **Features**: Supports multi-asset trading (crypto, equities, commodities, indices) with two-phase trailing-stop (DSL) exit mechanisms for risk management.
-- **Technical Stack**: Python-based implementation with last update on 2026-08-08, designed for deployment and protection of trading strategies.
+- **Purpose**: Open-source framework for autonomous trading on Hyperliquid, enabling strategy development, deployment, and protection across crypto, equities, commodities, and indices.
+- **Key Features**: Includes 80+ strategy templates and a Domain-Specific Language (DSL) for two-phase trailing-stop exits.
+- **Technical Stack**: Implemented in Python, last updated on 2026-08-08.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2026-02-23T19:28:09Z
-- Pushed At: 2026-08-10T13:48:44Z
+- Pushed At: 2026-08-10T13:58:43Z
 
 ## Possible Use Cases
 

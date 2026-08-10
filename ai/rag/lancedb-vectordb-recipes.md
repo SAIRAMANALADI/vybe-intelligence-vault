@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-10T19:19:49.330096+05:30'
+collected_at: '2026-08-10T21:47:36.907772+05:30'
 published_at: '2026-08-10T08:17:40Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-10T19:19:49.330096+05:30'
-last_seen: '2026-08-10T19:19:49.330096+05:30'
-last_checked: '2026-08-10T19:19:49.330096+05:30'
+first_seen: '2026-08-10T21:47:36.907772+05:30'
+last_seen: '2026-08-10T21:47:36.907772+05:30'
+last_checked: '2026-08-10T21:47:36.907772+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI workflows, integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides practical examples and tutorials for integrating vector search with LLMs (e.g., GPT-4-Vision, Llama-Index, LangChain) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
 
-- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings storage, and retrieval in AI/ML pipelines.
+- **Vector Database-Centric Workflows**: Demonstrates efficient use of LanceDB (a vector database) for storing, indexing, and querying embeddings in machine learning and deep learning applications, including fine-tuning and agent-based systems.
 
-- **Tooling & Integration**: Covers fine-tuning, OpenAI API interactions, and agent-based systems, showcasing end-to-end workflows for deep learning and multimodal applications.
+- **Tooling & Integration**: Showcases recipes for combining OpenAI embeddings, LangChain/Llama-Index frameworks, and vector search to deploy production-ready AI agents and multimodal models with optimized performance.
 
 ## Why It Matters
 

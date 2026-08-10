@@ -8,7 +8,7 @@ local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Android Mobile App Developer Tools - Android Developers
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Jetpack Compose**: Celebrated 5 years as the industry-standard declarative UI toolkit for Android, reshaping modern development with its composable architecture and deep integration into the Android ecosystem.
+- **Jetpack Compose**: Celebrated 5 years as the industry-standard declarative UI toolkit for Android, reshaping modern development with its composable architecture and deep integration with Android Studio.
 
-- **Android 17 (API 37)**: Released with AOSP source code and Pixel rollout, introducing key updates requiring app optimization for new APIs, adaptive layouts, and enhanced media/health integrations.
+- **Android 17 & XR Updates**: Android 17 (API 37) launched with AOSP source code rollout and Pixel device updates, alongside expanded Android XR platform support for immersive experiences across devices.
 
-- **Android XR Platform**: Expanded engine support and new resources for building, t
+- **Developer Tools & Licensing**: Android Studio Quail 3 (2026.1.3) released with str
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dspy.ai/
-published_at: '2026-08-10T10:35:29.232518+05:30'
-collected_at: '2026-08-10T10:35:29.232531+05:30'
+published_at: '2026-08-10T21:51:42.468455+05:30'
+collected_at: '2026-08-10T21:51:42.468467+05:30'
 tags:
 - agents
 - benchmark
@@ -14,12 +14,13 @@ tags:
 - openai
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:dspy
-first_seen: '2026-08-10T10:35:29.232531+05:30'
-last_seen: '2026-08-10T10:35:29.232531+05:30'
-last_checked: '2026-08-10T10:35:29.232531+05:30'
+first_seen: '2026-08-10T21:51:42.468467+05:30'
+last_seen: '2026-08-10T21:51:42.468467+05:30'
+last_checked: '2026-08-10T21:51:42.468467+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **ReActV2 Module & LM/BaseLM Improvements**: Introduces an enhanced ReActV2 module for improved reasoning and tool integration, alongside optimizations to the base language model (LM) and BaseLM classes for better performance and stability.
-
-- **Structured Task Definition via Signatures**: Enforces typed input/output fields for tasks (e.g., `email: str → event_name: str, date: str`), enabling modular, maintainable, and optimizable AI programs without manual prompt engineering.
-
-- **Optimization & Composition Framework**: Supports programmatic optimization (e.g., `dspy.GEPA`) against metrics (e.g., F1 score) and composes reusable modules (e.g., `ChainOfThought`, `ReAct`) with tool integration (e.g., `search`, `calc`) for scalable AI systems.
+- **ReActV2 Module**: Introduces enhanced reasoning-action loops with improved tool integration and modular execution strategies for complex LLM workflows.
+- **Improved LM/BaseLM**: Updated base language model handling with optimized inference and modular LM switching (e.g., `dspy.LM("openai/gpt-5.4-nano")`) for better performance and flexibility.
+- **Structured Task Optimization**: Signatures enforce typed I/O (e.g., `email: str → event_name: str`), while optimizers like GEPA compile programs against metrics (e.g., semantic F1) to achieve up to 89% accuracy improvements.
 
 ## Why It Matters
 
@@ -41,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:35:29.232518+05:30
+- Published: 2026-08-10T21:51:42.468455+05:30
 
 ## Related Tags
 
@@ -52,6 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

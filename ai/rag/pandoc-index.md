@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pandoc.org/
-published_at: '2026-08-10T19:27:05.506590+05:30'
-collected_at: '2026-08-10T19:27:05.506603+05:30'
+published_at: '2026-08-10T21:56:13.631561+05:30'
+collected_at: '2026-08-10T21:56:13.631570+05:30'
 tags:
 - hackernews
 - paper
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:pandoc-index
-first_seen: '2026-08-10T19:27:05.506603+05:30'
-last_seen: '2026-08-10T19:27:05.506603+05:30'
-last_checked: '2026-08-10T19:27:05.506603+05:30'
+first_seen: '2026-08-10T21:56:13.631570+05:30'
+last_seen: '2026-08-10T21:56:13.631570+05:30'
+last_checked: '2026-08-10T21:56:13.631570+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Format Conversion**: Pandoc supports bidirectional conversion between 40+ markup, document, and data formats, including Markdown, LaTeX, HTML, EPUB, Word (docx), and Jupyter notebooks, via modular Haskell-based readers/writers.
-
-- **Advanced Features**: Supports LaTeX math, citations (BibTeX/CSL), metadata, tables, syntax-highlighted code blocks, and custom Lua-based readers/writers for extensibility.
-
-- **Output Rendering**: Converts documents to PDF via LaTeX engines or tools like `wkhtmltopdf`, with HTML math rendered via MathJax/MathML and slide decks generated for frameworks like reveal.js.
+- **Format Conversion**: Pandoc supports bidirectional conversion between 30+ markup formats (e.g., Markdown, LaTeX, HTML, EPUB, docx) and unidirectional conversion for additional formats (e.g., CSV, PowerPoint, Jupyter notebooks).
+- **Markdown Extensions & Math Support**: Enables advanced Markdown features (footnotes, tables, LaTeX math, citations) with customizable CSL bibliography styles and LaTeX math rendering (unicode, MathML, Word equations).
+- **Architecture & Extensibility**: Modular Haskell library with CLI tool, supports custom readers/writers in Lua, and provides templating/filters for document customization.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T19:27:05.506590+05:30
+- Published: 2026-08-10T21:56:13.631561+05:30
 
 ## Related Tags
 

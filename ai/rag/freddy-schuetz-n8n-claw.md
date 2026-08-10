@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-08-10T19:22:54.431301+05:30'
+collected_at: '2026-08-10T21:50:42.012936+05:30'
 published_at: '2026-08-09T15:06:33Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - shell
 - workflows
 stars: 544
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-06T12:31:03Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-08-10T19:22:54.431301+05:30'
-last_seen: '2026-08-10T19:22:54.431301+05:30'
-last_checked: '2026-08-10T19:22:54.431301+05:30'
+first_seen: '2026-08-10T21:50:42.012936+05:30'
+last_seen: '2026-08-10T21:50:42.012936+05:30'
+last_checked: '2026-08-10T21:50:42.012936+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for proactive task management.
+- **Architecture**: OpenClaw-inspired autonomous AI agent implemented entirely in `n8n`, leveraging adaptive RAG-powered memory, MCP (Model Context Protocol) for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Capabilities**: Supports media understanding, self-hosted deployment via a single setup script, and integrates with tools like Crawl4AI, SearXNG, and Supabase for enhanced functionality.
+- **Capabilities**: Features proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates tools like `Crawl4AI` for web scraping and `SearXNG` for search engine functionality.
 
-- **Technical Stack**: Shell-based repository with dependencies on n8n, MCP, OpenClaw, and related AI/agent frameworks, last updated on 2026-08-09.
+- **Tech Stack**: Primarily Shell-based with dependencies on `Supabase` for storage, `n8n` for workflow orchestration, and MCP templates for extensible agent skills.
 
 ## Why It Matters
 

@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-10T19:21:19.414628+05:30'
+collected_at: '2026-08-10T21:49:06.973047+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- benchmark
 - github-repo
+- paper
 - python
 - rag
 stars: 174
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-10T19:21:19.414628+05:30'
-last_seen: '2026-08-10T19:21:19.414628+05:30'
-last_checked: '2026-08-10T19:21:19.414628+05:30'
+first_seen: '2026-08-10T21:49:06.973047+05:30'
+last_seen: '2026-08-10T21:49:06.973047+05:30'
+last_checked: '2026-08-10T21:49:06.973047+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans), leveraging a unified encoder-decoder architecture.
+- **Multimodal RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, entity-level) within a unified architecture.
 
-- **Modality-Agnostic Retrieval & Fusion**: Implements a cross-modal attention mechanism and modality-agnostic embeddings to dynamically fuse heterogeneous data sources during retrieval and generation, optimizing for both relevance and coherence.
+- **Modality-Agnostic Retrieval**: Implements a flexible retrieval mechanism using modality-specific encoders and a shared embedding space, enabling cross-modal retrieval and fusion for improved generation quality.
 
-- **ACL 2026 Oral Contribution**: Introduces a novel benchmark suite (UniversalBench) for evaluating RAG systems across modalities and granularities, demonstrating state-of-the-art performance in multimodal retrieval and generation tasks.
+- **ACL 2026 Oral Presentation**: Presented as an oral paper at ACL 2026, highlighting advancements in universal RAG systems for heterogeneous corpora, with open-source implementation in Python.
 
 ## Why It Matters
 

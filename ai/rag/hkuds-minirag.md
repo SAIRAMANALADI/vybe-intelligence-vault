@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-08-10T19:20:09.349097+05:30'
+collected_at: '2026-08-10T21:47:56.882681+05:30'
 published_at: '2026-08-10T08:23:43Z'
 tags:
 - github-repo
+- models
 - python
 - rag
 stars: 1997
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-08-10T19:20:09.349097+05:30'
-last_seen: '2026-08-10T19:20:09.349097+05:30'
-last_checked: '2026-08-10T19:20:09.349097+05:30'
+first_seen: '2026-08-10T21:47:56.882681+05:30'
+last_seen: '2026-08-10T21:47:56.882681+05:30'
+last_checked: '2026-08-10T21:47:56.882681+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified Retrieval-Augmented Generation (RAG) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
 
-- **Modular Design**: Implements a lightweight architecture with decoupled retrieval and generation components, enabling efficient integration with small LLMs (e.g., <1B parameters) without sacrificing retrieval quality.
+- **Optimized Architecture**: Implements lightweight retrieval and generation components, enabling efficient deployment on resource-constrained hardware without sacrificing accuracy in downstream tasks.
 
-- **Optimized Retrieval**: Utilizes dense retrieval (e.g., bi-encoder or late-interaction models) and dynamic prompt compression to enhance context relevance for small LLMs, improving end-to-end efficiency.
+- **Open-Source Implementation**: Provides a Python-based, modular codebase with pre-trained models and fine-tuning scripts, facilitating reproducibility and community-driven improvements in RAG systems.
 
 ## Why It Matters
 

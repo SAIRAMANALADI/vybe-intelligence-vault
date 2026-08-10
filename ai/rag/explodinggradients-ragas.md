@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/explodinggradients/ragas
-collected_at: '2026-08-10T10:35:38.649721+05:30'
-published_at: '2026-08-10T02:16:08Z'
+collected_at: '2026-08-10T21:51:52.324535+05:30'
+published_at: '2026-08-10T15:31:05Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- leaderboard
 - python
 - rag
-stars: 15238
+- workflows
+stars: 15259
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-05-08T17:48:04Z'
 pushed_at: '2026-02-24T07:47:19Z'
 resource_id: github:explodinggradients/ragas
-first_seen: '2026-08-10T10:35:38.649721+05:30'
-last_seen: '2026-08-10T10:35:38.649721+05:30'
-last_checked: '2026-08-10T10:35:38.649721+05:30'
+first_seen: '2026-08-10T21:51:52.324535+05:30'
+last_seen: '2026-08-10T21:51:52.324535+05:30'
+last_checked: '2026-08-10T21:51:52.324535+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAGAS Framework**: Open-source Python library for evaluating Retrieval-Augmented Generation (RAG) and LLM applications with 18+ metrics (e.g., faithfulness, answer relevance, context precision/recall).
+- **RAGAS Framework**: A Python-based library designed for evaluating LLM applications, particularly those leveraging Retrieval-Augmented Generation (RAG), with a focus on metrics like faithfulness, answer relevance, and context precision.
 
-- **Modular & Extensible**: Supports custom metrics, datasets, and evaluation pipelines; integrates with LangChain, TruLens, and other LLMops tools.
+- **Key Features**: Provides modular, customizable evaluation pipelines for assessing RAG and generative AI systems, including automated metrics computation and integration with popular ML frameworks.
 
-- **Automated Benchmarking**: Provides CLI/API for batch evaluation, synthetic data generation, and performance tracking with leaderboard-style comparisons.
+- **Adoption & Ecosystem**: Actively maintained (last updated Aug 2026) with 15K+ GitHub stars, supporting LLM Ops workflows and offering extensible APIs for benchmarking and optimization.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: explodinggradients
-- Stars: 15238
-- Forks: 1612
+- Stars: 15259
+- Forks: 1618
 - Language: Python
 - Topics: evaluation, llm, llmops
-- Last Updated: 2026-08-10T02:16:08Z
+- Last Updated: 2026-08-10T15:31:05Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-08T17:48:04Z

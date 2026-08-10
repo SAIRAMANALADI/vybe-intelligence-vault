@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-10T19:20:54.347373+05:30'
-published_at: '2026-08-10T11:43:50Z'
+collected_at: '2026-08-10T21:48:41.953053+05:30'
+published_at: '2026-08-10T15:31:06Z'
 tags:
 - frontend_ui
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-10T19:20:54.347373+05:30'
-last_seen: '2026-08-10T19:20:54.347373+05:30'
-last_checked: '2026-08-10T19:20:54.347373+05:30'
+first_seen: '2026-08-10T21:48:41.953053+05:30'
+last_seen: '2026-08-10T21:48:41.953053+05:30'
+last_checked: '2026-08-10T21:48:41.953053+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for product-specific needs without deep RAG expertise.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while offering customization for diverse use cases.
 
-- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse infrastructures while handling arbitrary file types.
+- **Multi-LLM & Vectorstore Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across infrastructures with support for various file types and integration methods.
 
-- **Full-Stack Toolkit**: Provides a Python-based backend with Docker, PostgreSQL, and API support, alongside a React/TypeScript frontend, emphasizing privacy, security, and easy integration into existing products.
+- **Tech Stack & Deployment**: Built in Python with React/TypeScript frontend, Dockerized for deployment, and supports PostgreSQL for structured data, emphasizing privacy, security, and ease of integration into existing products.
 
 ## Why It Matters
 
@@ -49,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 3724
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-08-10T11:43:50Z
+- Last Updated: 2026-08-10T15:31:06Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

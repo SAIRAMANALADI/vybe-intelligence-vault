@@ -13,13 +13,14 @@ collected_at: '2026-08-10T19:18:44.947305+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:defending-my-own-brain-against-enshittification
 first_seen: '2026-08-10T19:18:44.947305+05:30'
 last_seen: '2026-08-10T19:18:44.947305+05:30'
 last_checked: '2026-08-10T19:18:44.947305+05:30'
 health_score: 100
 ---
+
 
 # Defending my own brain against enshittification
 

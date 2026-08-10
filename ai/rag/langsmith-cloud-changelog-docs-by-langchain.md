@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-10T19:24:34.334863+05:30'
-collected_at: '2026-08-10T19:24:34.334875+05:30'
+published_at: '2026-08-10T21:52:28.495111+05:30'
+collected_at: '2026-08-10T21:52:28.495123+05:30'
 tags:
 - agents
 - anthropic
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-10T19:24:34.334875+05:30'
-last_seen: '2026-08-10T19:24:34.334875+05:30'
-last_checked: '2026-08-10T19:24:34.334875+05:30'
+first_seen: '2026-08-10T21:52:28.495123+05:30'
+last_seen: '2026-08-10T21:52:28.495123+05:30'
+last_checked: '2026-08-10T21:52:28.495123+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Annotation & Dataset APIs**: LangSmith introduced public API endpoints for annotation queue items (CRUD operations, positioning, reviewing) and improved dataset uploads (CSV/JSONL support, case-insensitive filenames, metadata rendering in experiment grids).
+- **Annotation & Dataset APIs**: Public API/SDK now supports full CRUD operations for annotation queue items (runs/threads), with fixes for CSV/JSONL uploads (including Windows browser MIME type issues and uppercase filenames) and improved dataset experiment table sorting/filtering.
 
-- **Tracing & Engine Enhancements**: Trace deletion, bulk export with feedback columns, and token/cost filter defaults updated; Engine issue tracking now reopens automatically when new traces match unresolved issues.
+- **Engine & Tracing Enhancements**: Engine issue boards now reopen when new matching traces are linked; trace exports include optional `feedbacks` column; bulk run deletion and negative feedback-key filtering are supported; token/cost filters default to total metrics.
 
-- **LLM Gateway & Sandbox Updates**: Gateway policies enforce non-blank names, usage charts show top spenders, and sandbox streaming executes via SSE; CLI pre-installed in sandboxes for direct API interactions.
+- **LLM Gateway & UI Improvements**: Gateway policies enforce non-blank names; spend charts show top 12 spenders; onboarding flow integrates Gateway Credits; sandbox CLI (`langsmith v0.2.44`) resolves `/api` path issues; UI fixes include chart standardization and OAuth/SSO endpoint corrections.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T19:24:34.334863+05:30
+- Published: 2026-08-10T21:52:28.495111+05:30
 
 ## Related Tags
 

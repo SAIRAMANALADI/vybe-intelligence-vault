@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-10T19:20:49.362325+05:30'
+collected_at: '2026-08-10T21:48:36.959337+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-10T19:20:49.362325+05:30'
-last_seen: '2026-08-10T19:20:49.362325+05:30'
-last_checked: '2026-08-10T19:20:49.362325+05:30'
+first_seen: '2026-08-10T21:48:36.959337+05:30'
+last_seen: '2026-08-10T21:48:36.959337+05:30'
+last_checked: '2026-08-10T21:48:36.959337+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **CRUD-RAG**, a Chinese benchmark dataset designed to evaluate **Retrieval-Augmented Generation (RAG)** performance in large language models (LLMs), focusing on **Create, Read, Update, Delete (CRUD)** operations.
-- Provides a standardized framework for assessing **retrieval quality, generation accuracy, and end-to-end RAG system efficiency** in Chinese language contexts.
-- Implements **Python-based evaluation pipelines** with open-source contributions, enabling reproducibility and benchmarking across diverse RAG architectures.
+- **Benchmark Framework**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on Large Language Models (LLMs) with metrics for retrieval quality, generation performance, and end-to-end efficiency.
+
+- **CRUD Operations Integration**: The benchmark incorporates Create, Read, Update, and Delete (CRUD) operations to simulate dynamic real-world scenarios, assessing LLMs' adaptability to evolving knowledge bases and retrieval contexts.
+
+- **Open-Source Toolkit**: Provides a Python-based toolkit for standardized evaluation, including datasets, retrieval models, and evaluation scripts, enabling reproducible research and fair comparisons across RAG systems.
 
 ## Why It Matters
 

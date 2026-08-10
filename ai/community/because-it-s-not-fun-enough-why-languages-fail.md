@@ -13,13 +13,14 @@ collected_at: '2026-08-10T19:18:45.085435+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:because-it-s-not-fun-enough-why-languages-fail
 first_seen: '2026-08-10T19:18:45.085435+05:30'
 last_seen: '2026-08-10T19:18:45.085435+05:30'
 last_checked: '2026-08-10T19:18:45.085435+05:30'
 health_score: 100
 ---
+
 
 # Because It's Not Fun Enough: why languages fail
 

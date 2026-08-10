@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-08-10T19:20:09.311667+05:30'
-published_at: '2026-08-04T00:25:48Z'
+collected_at: '2026-08-10T21:47:56.854834+05:30'
+published_at: '2026-08-10T15:31:13Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
+- models
 - rag
-stars: 1222
+stars: 1221
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-08-10T19:20:09.311667+05:30'
-last_seen: '2026-08-10T19:20:09.311667+05:30'
-last_checked: '2026-08-10T19:20:09.311667+05:30'
+first_seen: '2026-08-10T21:47:56.854834+05:30'
+last_seen: '2026-08-10T21:47:56.854834+05:30'
+last_checked: '2026-08-10T21:47:56.854834+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source Python-based tool (`RAGxplorer`) for interactive visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, implemented in Jupyter Notebooks.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation dynamics.
 
-- **Key Features**: Supports Streamlit for web-based interactivity, enabling users to inspect LLM outputs, retrieval mechanisms, and performance metrics in real-time.
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly web interface, facilitating dynamic parameter adjustments (e.g., retrieval strategies, chunking methods) and real-time visualization of RAG performance metrics.
 
-- **Technical Stack**: Built with Python, leveraging libraries for LLM integration, data visualization, and dynamic UI components; last updated August 2026.
+- **Modular Python Framework**: Built with Python, supporting customizable RAG components (e.g., embeddings, retrievers, LLMs) and extensible for research/debugging via Jupyter Notebook integration.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: gabrielchua
-- Stars: 1222
+- Stars: 1221
 - Forks: 113
 - Language: Jupyter Notebook
 - Topics: interactive, llm, python, rag, streamlit, visualization
-- Last Updated: 2026-08-04T00:25:48Z
+- Last Updated: 2026-08-10T15:31:13Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-11T15:31:36Z

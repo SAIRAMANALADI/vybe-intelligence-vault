@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-08-10T19:19:59.352884+05:30'
+collected_at: '2026-08-10T21:47:46.909678+05:30'
 published_at: '2026-08-09T00:21:24Z'
 tags:
 - github-repo
@@ -12,6 +12,7 @@ tags:
 - models
 - python
 - rag
+- reddit
 - workflows
 stars: 86
 language: Python
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-08-09T01:15:39Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-08-10T19:19:59.352884+05:30'
-last_seen: '2026-08-10T19:19:59.352884+05:30'
-last_checked: '2026-08-10T19:19:59.352884+05:30'
+first_seen: '2026-08-10T21:47:46.909678+05:30'
+last_seen: '2026-08-10T21:47:46.909678+05:30'
+last_checked: '2026-08-10T21:47:46.909678+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI**.
-- **Key Components**: Integrates **Ollama** for LLM inference, **FastAPI** for REST endpoints, and supports **Docker** and **Kubernetes** deployments; includes **vector database** integration for semantic search.
-- **Tech Stack**: Python-based, leveraging **STACKIT** cloud infrastructure, optimized for **LLM** and **RAG-chatbot** workflows.
+- **Architecture**: Implements a Retrieval-Augmented Generation (RAG) system with FastAPI backend, vector search capabilities, and Docker/Kubernetes deployment support for scalable document management and AI chatbots.
+
+- **Components**: Integrates Python-based LLM (Ollama), vector database for embeddings, and FastAPI for RESTful API endpoints to handle document ingestion, retrieval, and generation workflows.
+
+- **Deployment**: Provides containerized setup (Docker) and Kubernetes manifests for orchestration, optimized for cloud-native environments with STACKIT integration.
 
 ## Why It Matters
 

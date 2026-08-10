@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/labring/sealos
-collected_at: '2026-08-10T16:14:46.268304+05:30'
+collected_at: '2026-08-10T21:49:11.984846+05:30'
 published_at: '2026-08-10T04:25:59Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2018-08-15T12:22:50Z'
 pushed_at: '2026-08-10T09:40:12Z'
 resource_id: github:labring/sealos
-first_seen: '2026-08-10T16:14:46.268304+05:30'
-last_seen: '2026-08-10T16:14:46.268304+05:30'
-last_checked: '2026-08-10T16:14:46.268304+05:30'
+first_seen: '2026-08-10T21:49:11.984846+05:30'
+last_seen: '2026-08-10T21:49:11.984846+05:30'
+last_checked: '2026-08-10T21:49:11.984846+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Deploys and manages real-world projects from GitHub or AI coding agents using Kubernetes (`kubeadm`, `kubelet`), with HA support via `IPVS` load balancing.
-- **Tech Stack**: Primarily TypeScript (frontend) with Go (`golang`) for backend operations, leveraging Docker for containerization and Kubernetes for orchestration.
-- **Features**: AI-driven lifecycle management (deployment, scaling, operations) and supports cloud-native OS (`cloudos`) integration for seamless infrastructure provisioning.
+- **Sealos** is a TypeScript-based tool for deploying GitHub projects or AI-generated code as containerized applications, with automated Kubernetes (kubeadm) orchestration and high availability (HA) support via IPVS load balancing.
+- **Features** include GitHub/Git repository integration, AI-driven operations for continuous deployment, and built-in support for Docker containerization and Kubernetes cluster management.
+- **Architecture** leverages `kubeadm` for cluster setup, IPVS for load balancing, and integrates with cloud providers (cloudos) for scalable, production-grade deployments.
 
 ## Why It Matters
 

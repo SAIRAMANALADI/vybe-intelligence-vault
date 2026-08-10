@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-10T19:24:36.728912+05:30'
-collected_at: '2026-08-10T19:24:36.728928+05:30'
+published_at: '2026-08-10T21:52:31.514459+05:30'
+collected_at: '2026-08-10T21:52:31.514472+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-10T19:24:36.728928+05:30'
-last_seen: '2026-08-10T19:24:36.728928+05:30'
-last_checked: '2026-08-10T19:24:36.728928+05:30'
+first_seen: '2026-08-10T21:52:31.514472+05:30'
+last_seen: '2026-08-10T21:52:31.514472+05:30'
+last_checked: '2026-08-10T21:52:31.514472+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript; GPU/accelerated hardware upgrades available via [Spaces GPU Upgrades](https://huggingface.co/docs/hub/spaces-gpus).
+- **Spaces Hosting**: Hugging Face Spaces enables hosting ML demo apps (Gradio, Docker, static HTML/JS) directly on user/organization profiles with GPU/accelerated hardware support for enhanced performance.
 
-- **Storage & Compute**: Supports custom Python environments, OpenCV integration, and GitHub Actions for CI/CD; disk usage/storage management detailed in [Spaces Disk Usage & Storage](https://huggingface.co/docs/hub/spaces-storage).
+- **Deployment Options**: Supports Gradio for rapid Python app development, arbitrary Dockerfiles for full flexibility, and static Spaces for lightweight JavaScript/HTML-based demos.
 
-- **Advanced Features**: Enables embedding Spaces, custom domains, and MCP server/agent tool integrations; configuration reference provided in [Spaces Config Reference](https://huggingface.co/docs/hub/spaces-config-reference).
+- **Advanced Features**: Includes Dev Mode for iterative development, GPU upgrades for compute-intensive tasks, disk/storage management, and embeddable/custom domains via Spaces configuration.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T19:24:36.728912+05:30
+- Published: 2026-08-10T21:52:31.514459+05:30
 
 ## Related Tags
 

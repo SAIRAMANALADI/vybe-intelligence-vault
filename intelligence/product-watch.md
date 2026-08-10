@@ -23,6 +23,6 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Black Forest Labs · GitHub](https://github.com/black-forest-labs) | `mcp-registry/` | 70 |
 | [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | `mcp-registry/` | 70 |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | `mcp-registry/` | 70 |
-| [Scite Status](https://status.scite.ai) | `mcp-registry/` | 70 |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

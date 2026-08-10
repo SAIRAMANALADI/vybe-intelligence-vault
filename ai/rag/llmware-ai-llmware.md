@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-08-10T19:25:15.531721+05:30'
+collected_at: '2026-08-10T21:53:10.906336+05:30'
 published_at: '2026-08-10T09:46:23Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
-- workflows
 stars: 14854
 language: Python
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-08-10T19:25:15.531721+05:30'
-last_seen: '2026-08-10T19:25:15.531721+05:30'
-last_checked: '2026-08-10T19:25:15.531721+05:30'
+first_seen: '2026-08-10T21:53:10.906336+05:30'
+last_seen: '2026-08-10T21:53:10.906336+05:30'
+last_checked: '2026-08-10T21:53:10.906336+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,15 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides an end-to-end Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
+- **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models (e.g., ONNX, OpenVINO, llama.cpp) for efficiency and scalability.
 
-- **Multi-Backend Support**: Integrates with multiple inference engines (e.g., llama.cpp, ONNX, OpenVINO) and supports modular components for parsing, retrieval, and generation, enabling flexible deployment across diverse hardware environments.
+- **Key Features**:
+  - Supports parsing, retrieval, and generation with modular components.
+  - Integrates with generative AI tools and lightweight inference engines for low-resource deployment.
 
-- **Enterprise-Centric Design**: Focuses on scalability, security, and modularity for production-grade AI applications, with tools for agent orchestration and seamless integration into existing enterprise workflows.
+- **Technical Stack**:
+  - Compatible with LLM backends (e.g., llamacpp) and optimized for edge/on-premise use cases.
+  - Last updated August 2026; actively maintained with 14.8K+ GitHub stars and 2.9K+ forks.
 
 ## Why It Matters
 

@@ -4,17 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-08-10T19:22:24.452393+05:30'
+collected_at: '2026-08-10T21:50:12.060474+05:30'
 published_at: '2026-08-10T11:22:28Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - hackernews
-- models
 - openai
 - python
-- scripts
 - workflows
 stars: 1680
 language: Python
@@ -24,9 +22,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-08-10T19:22:24.452393+05:30'
-last_seen: '2026-08-10T19:22:24.452393+05:30'
-last_checked: '2026-08-10T19:22:24.452393+05:30'
+first_seen: '2026-08-10T21:50:12.060474+05:30'
+last_seen: '2026-08-10T21:50:12.060474+05:30'
+last_checked: '2026-08-10T21:50:12.060474+05:30'
 health_score: 100
 ---
 
@@ -34,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter tuning, and deployment.
-- **Technical Implementation**: Written in Python, it likely integrates with ML frameworks (e.g., PyTorch, TensorFlow) and automation tools (e.g., Weights & Biases, MLflow) to simulate real-world workflows.
-- **Evaluation Metrics**: Measures performance via standardized tasks (e.g., accuracy, latency, reproducibility) and agent adaptability across diverse ML scenarios (e.g., tabular data, vision, NLP).
+- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter optimization, and deployment.
+
+- **Technical Implementation**: Implemented in Python, the benchmark provides a standardized framework for testing agents' ability to handle real-world ML workflows through executable tasks and automated evaluation metrics.
+
+- **Update Status**: Last updated on August 10, 2026, with 1,680 stars and 258 forks, indicating active community engagement and potential ongoing development.
 
 ## Why It Matters
 

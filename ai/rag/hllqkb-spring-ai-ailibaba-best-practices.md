@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-10T19:20:29.312435+05:30'
+collected_at: '2026-08-10T21:48:21.921365+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
-- workflows
 stars: 36
 language: Java
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-10T19:20:29.312435+05:30'
-last_seen: '2026-08-10T19:20:29.312435+05:30'
-last_checked: '2026-08-10T19:20:29.312435+05:30'
+first_seen: '2026-08-10T21:48:21.921365+05:30'
+last_seen: '2026-08-10T21:48:21.921365+05:30'
+last_checked: '2026-08-10T21:48:21.921365+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based Q&A system leveraging **SSE (Server-Sent Events) streams**, **Agent-based workflows**, and **RAG (Retrieval-Augmented Generation)** with **knowledge graphs** for enhanced contextual responses.
-- **Multi-modal & Advanced Features**: Supports **function calling**, **historical message management**, **image generation/understanding**, and integrates **Embedding models**, **vector databases**, and **RAG pipelines** for semantic search and retrieval.
-- **Java-Based Architecture**: Built using **Spring AI** and **Alibaba Cloud AI services**, optimized for **Java ecosystems** with modular components for extensibility and scalability.
+- **Architecture**: Implements a Spring AI-based AI Q&A system with SSE streaming, multi-agent architecture, and RAG enhanced by knowledge graphs, function calls, and historical message management.
+
+- **Capabilities**: Supports image generation/understanding, embedding/vector database integration, and RAG pipelines for contextual retrieval and response generation.
+
+- **Technical Stack**: Built in Java using Spring AI and Alibaba Cloud services, with last update on 2026-07-25 (36 ⭐, 10 🍴).
 
 ## Why It Matters
 

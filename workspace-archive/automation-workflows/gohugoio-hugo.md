@@ -3,7 +3,7 @@ title: Contributors to gohugoio/hugo · GitHub
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://github.com/gohugoio/hugo/graphs/contributors
-resource_id: github:gohugoio/hugo-2d37b3f6
+resource_id: github:gohugoio/hugo
 local_vault_path: ai/resources/gohugoio-hugo.md
 quality_score: 70
 archive_score: 77
@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hugo is a static site generator written in Go, hosted on GitHub under `gohugoio/hugo`, with 89.4k stars and 8.3k forks as of the latest data.
+- **Hugo**: A static site generator written in Go, maintained by the `gohugoio` organization on GitHub, with 89.4k stars and 8.3k forks.
 
-- **Development Metrics**: The repository tracks 212 open issues, 21 pull requests, and includes CI/CD via GitHub Actions, along with security and quality monitoring.
+- **Repository Metrics**: Contains 211 open issues, 22 pull requests, and 11 security/quality advisories; includes CI/CD via GitHub Actions.
 
-- **Insights & Contributions**: Provides analytics via Pulse, contributor graphs, commit activity, and dependency tracking, though some visualizations failed to l
+- **Insights**: Provides contributor activity, commit frequency, dependency graph, and network topology; data is updated dynamically for master branch.
 
 ## Use Cases
 

@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-08-10T19:23:19.487223+05:30'
-published_at: '2026-08-10T13:50:10Z'
+collected_at: '2026-08-10T21:51:07.117074+05:30'
+published_at: '2026-08-10T16:18:53Z'
 tags:
 - agents
 - github-repo
 - hackernews
+- openai
 - python
 - rag
-stars: 96995
+stars: 97061
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-12-28T03:31:08Z'
 pushed_at: '2026-07-18T15:55:05Z'
 resource_id: github:tauricresearch/tradingagents
-first_seen: '2026-08-10T19:23:19.487223+05:30'
-last_seen: '2026-08-10T19:23:19.487223+05:30'
-last_checked: '2026-08-10T19:23:19.487223+05:30'
+first_seen: '2026-08-10T21:51:07.117074+05:30'
+last_seen: '2026-08-10T21:51:07.117074+05:30'
+last_checked: '2026-08-10T21:51:07.117074+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based `TradingAgents` leverages **multi-agent LLM architectures** for autonomous financial trading, integrating specialized agents (e.g., analysts, risk managers) to simulate market interactions.
-- **Key Features**: Supports **real-time data processing**, **strategy backtesting**, and **adaptive decision-making** via LLM-driven agent collaboration, with modular design for extensibility (e.g., custom agent roles, trading algorithms).
-- **Technical Stack**: Built on **Python**, with dependencies for **LLM inference** (e.g., transformers), **financial data APIs** (e.g., yfinance), and **multi-agent orchestration** (e.g., Ray, Mesa). Last updated Aug 2026.
+- **Framework Overview**: Open-source Python-based multi-agent LLM framework (`TauricResearch/TradingAgents`) designed for financial trading, integrating agent-based modeling with large language models (LLMs) for decision-making.
+
+- **Key Features**: Supports modular agent architectures (e.g., traders, analysts, risk managers) with LLM-driven reasoning for market analysis, strategy execution, and adaptive trading behaviors.
+
+- **Technical Stack**: Leverages Python with dependencies on LLM APIs (e.g., OpenAI, Hugging Face) and financial data libraries (e.g., `yfinance`, `TA-Lib`) for real-time market interaction and backtesting.
 
 ## Why It Matters
 
@@ -41,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TauricResearch
-- Stars: 96995
-- Forks: 18714
+- Stars: 97061
+- Forks: 18721
 - Language: Python
 - Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-08-10T13:50:10Z
+- Last Updated: 2026-08-10T16:18:53Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-28T03:31:08Z

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-08-10T19:19:36.602301+05:30'
-collected_at: '2026-08-10T19:19:36.602317+05:30'
+published_at: '2026-08-10T21:47:34.292669+05:30'
+collected_at: '2026-08-10T21:47:34.292680+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-08-10T19:19:36.602317+05:30'
-last_seen: '2026-08-10T19:19:36.602317+05:30'
-last_checked: '2026-08-10T19:19:36.602317+05:30'
+first_seen: '2026-08-10T21:47:34.292680+05:30'
+last_seen: '2026-08-10T21:47:34.292680+05:30'
+last_checked: '2026-08-10T21:47:34.292680+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning).
+- **RAG (Retrieval-Augmented Generation)** integrates external knowledge retrieval with LLM generation to address limitations in freshness, private knowledge, and hallucination, evolving through Naive, Advanced, Modular, and Graph-based architectures.
 
-- **Core RAG Components**: Retrieval (vector/BM25), augmentation (top-k docs + prompt), and generation (LLM with citations), addressing freshness, private knowledge, and hallucination issues.
+- **Advanced RAG** enhances retrieval via hybrid search, query rewriting, reranking, and contextual compression, while **Graph RAG** leverages entity-relation graphs for multi-hop reasoning, improving accuracy in relational knowledge tasks.
 
-- **Implementation Stack**: LangChain/LCEL for orchestration, Chroma/Weaviate for vector storage, and HuggingFace embeddings (e.g., `BAAI/bge-m3`) with rerankers (`BAAI/bge-reranker-v2-m3`) for scalable, modular RAG pipelines.
+- **Operational considerations** include evaluation metrics, production checklists, and alternatives like LLM Wiki systems, with modular tooling (LangChain, LlamaIndex) and vector/graph databases (Chroma, Qdrant, Neo4j) enabling scalable implementations.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T19:19:36.602301+05:30
+- Published: 2026-08-10T21:47:34.292669+05:30
 
 ## Related Tags
 

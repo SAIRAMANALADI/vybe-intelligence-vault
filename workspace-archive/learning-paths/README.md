@@ -25,7 +25,7 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
 - [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke)
-- [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-10 19:36 IST*
+*Last updated: 2026-08-10 22:04 IST*

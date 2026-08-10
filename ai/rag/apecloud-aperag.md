@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-08-10T19:21:09.404584+05:30'
+collected_at: '2026-08-10T21:48:56.976411+05:30'
 published_at: '2026-08-06T14:55:53Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 1291
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-08-10T19:21:09.404584+05:30'
-last_seen: '2026-08-10T19:21:09.404584+05:30'
-last_checked: '2026-08-10T19:21:09.404584+05:30'
+first_seen: '2026-08-10T21:48:56.976411+05:30'
+last_seen: '2026-08-10T21:48:56.976411+05:30'
+last_checked: '2026-08-10T21:48:56.976411+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal indexing & GraphRAG**: Implements a production-ready GraphRAG system with support for structured/unstructured data (text, images, etc.) and knowledge graph integration for enhanced retrieval-augmented generation (RAG).
-- **AI agents & MCP integration**: Incorporates autonomous AI agents for dynamic workflows and supports the Model Context Protocol (MCP) for standardized LLM interaction and tool orchestration.
-- **Scalable Kubernetes deployment**: Designed for cloud-native scalability with Helm charts and K8s manifests, enabling distributed graph processing and high-availability RAG pipelines.
+- **Multi-modal indexing & GraphRAG**: Implements production-ready GraphRAG with support for structured/unstructured data (text, images, etc.) via vector + knowledge graph hybrid indexing for enhanced retrieval.
+- **AI agents & MCP integration**: Incorporates autonomous AI agents for dynamic query processing and supports Model Context Protocol (MCP) for standardized tooling and interoperability.
+- **Scalable Kubernetes deployment**: Designed for horizontal scalability with Kubernetes-native deployment, enabling distributed processing and fault tolerance in production environments.
 
 ## Why It Matters
 

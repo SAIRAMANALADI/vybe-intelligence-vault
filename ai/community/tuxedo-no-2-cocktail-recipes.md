@@ -13,13 +13,14 @@ collected_at: '2026-08-10T19:18:45.411164+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tuxedo-no-2-cocktail-recipes
 first_seen: '2026-08-10T03:22:47.950108+05:30'
 last_seen: '2026-08-10T19:18:45.411164+05:30'
 last_checked: '2026-08-10T19:18:45.411164+05:30'
 health_score: 100
 ---
+
 
 # Tuxedo No. 2 – Cocktail recipes
 

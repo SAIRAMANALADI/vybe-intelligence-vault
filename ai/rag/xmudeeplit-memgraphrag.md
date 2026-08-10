@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-10T19:21:14.380522+05:30'
+collected_at: '2026-08-10T21:49:06.953054+05:30'
 published_at: '2026-08-10T12:24:05Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-10T19:21:14.380522+05:30'
-last_seen: '2026-08-10T19:21:14.380522+05:30'
-last_checked: '2026-08-10T19:21:14.380522+05:30'
+first_seen: '2026-08-10T21:49:06.953054+05:30'
+last_seen: '2026-08-10T21:49:06.953054+05:30'
+last_checked: '2026-08-10T21:49:06.953054+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System with Memory Integration**: Introduces a memory-based multi-agent framework (`MemGraphRAG`) that enhances Graph Retrieval-Augmented Generation (GraphRAG) by leveraging agent-specific memory for dynamic graph construction and retrieval.
+- **Memory-based Multi-Agent System**: Introduces a novel framework (MemGraphRAG) leveraging memory-augmented agents for graph-based retrieval-augmented generation (RAG), enabling dynamic knowledge integration and reasoning over structured graphs.
 
-- **Ontology-Guided Graph Construction**: Implements an ontology-driven approach to graph construction, enabling structured knowledge representation and efficient retrieval of contextual information for large language models (LLMs).
+- **Graph Construction & Ontology Integration**: Implements an ontology-driven graph construction pipeline to model relationships and entities, enhancing contextual retrieval and multi-agent collaboration for improved generation quality.
 
-- **Python-Based Implementation**: Provides a Python-based open-source repository with modular components for agent-memory management, graph construction, and retrieval augmentation, optimized for scalability and adaptability in KDD 2026 research contexts.
+- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability, with modular components for graph construction, memory management, and multi-agent coordination.
 
 ## Why It Matters
 

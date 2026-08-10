@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-10T19:19:29.302031+05:30'
+collected_at: '2026-08-10T21:47:16.911625+05:30'
 published_at: '2026-08-06T20:35:40Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-10T19:19:29.302031+05:30'
-last_seen: '2026-08-10T19:19:29.302031+05:30'
-last_checked: '2026-08-10T19:19:29.302031+05:30'
+first_seen: '2026-08-10T21:47:16.911625+05:30'
+last_seen: '2026-08-10T21:47:16.911625+05:30'
+last_checked: '2026-08-10T21:47:16.911625+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) systems by identifying and categorizing hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the reliability of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures across different types (e.g., factual, contextual, or semantic inconsistencies).
+- **Technical Composition**: Contains structured datasets (Python-based) with annotated hallucinations, enabling fine-grained analysis of model errors in factual consistency, context adherence, and retrieval grounding.
 
-- **Implementation**: Python-based repository offering tools for dataset generation, evaluation metrics, and baseline models to benchmark RAG systems against hallucination risks.
+- **Evaluation Framework**: Provides tools and benchmarks for assessing RAG models' trustworthiness, including metrics for hallucination detection, mitigation strategies, and comparative performance analysis against baseline models.
 
 ## Why It Matters
 

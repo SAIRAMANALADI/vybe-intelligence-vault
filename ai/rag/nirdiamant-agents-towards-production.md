@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-08-10T19:21:04.343749+05:30'
+collected_at: '2026-08-10T21:48:51.908078+05:30'
 published_at: '2026-08-10T13:38:31Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 stars: 21267
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-07-31T21:07:09Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-08-10T19:21:04.343749+05:30'
-last_seen: '2026-08-10T19:21:04.343749+05:30'
-last_checked: '2026-08-10T19:21:04.343749+05:30'
+first_seen: '2026-08-10T21:48:51.908078+05:30'
+last_seen: '2026-08-10T21:48:51.908078+05:30'
+last_checked: '2026-08-10T21:48:51.908078+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering prototyping to enterprise deployment with frameworks like LangGraph and MCP.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering stages from prototype to enterprise deployment.
 
-- **Multi-Faceted Technical Scope**: Covers agentic AI, multi-agent systems, RAG, LLM integration, MLOps, and observability, with a focus on Python and Jupyter Notebook implementations.
+- **Multi-Framework & Tool Integration**: Focuses on modern agent frameworks (e.g., LangGraph), MCP, RAG, and multi-agent systems, with Python-based Jupyter Notebooks for hands-on implementation.
 
-- **Enterprise-Ready Tooling**: Includes tutorials on deployment, scalability, and observability for GenAI agents, leveraging modern AI/ML stacks for production environments.
+- **Production & Observability Focus**: Includes MLOps practices, deployment strategies, and observability tools for scalable, enterprise-ready GenAI agent systems.
 
 ## Why It Matters
 

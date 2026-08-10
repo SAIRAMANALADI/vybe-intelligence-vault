@@ -4,17 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-08-10T19:19:44.265795+05:30'
+collected_at: '2026-08-10T21:47:36.835216+05:30'
 published_at: '2026-08-03T17:47:21Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - meta-ai
-- mistral
 - models
 - python
 - rag
+- workflows
 stars: 965
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-08-10T19:19:44.265795+05:30'
-last_seen: '2026-08-10T19:19:44.265795+05:30'
-last_checked: '2026-08-10T19:19:44.265795+05:30'
+first_seen: '2026-08-10T21:47:36.835216+05:30'
+last_seen: '2026-08-10T21:47:36.835216+05:30'
+last_checked: '2026-08-10T21:47:36.835216+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates LangChain-based RAG pipeline leveraging local LLMs (e.g., Llama, Mistral) for offline inference with optimized prompt engineering and model quantization.
+- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally deployed language models (e.g., Ollama) for privacy and cost efficiency, avoiding cloud API dependencies.
 
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh mechanisms via incremental document ingestion and embedding recalculation for real-time knowledge base synchronization.
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma) refresh mechanisms to ensure retrieval relevance with new or updated documents.
 
-- **Testing & Evaluation Framework**: Includes unit tests for retrieval accuracy, generation quality, and end-to-end RAG performance metrics (e.g., context precision/recall, answer faithfulness) using synthetic and real-world datasets.
+- **Testing & Evaluation Framework**: Includes structured testing pipelines (e.g., RAGAS metrics) for assessing retrieval accuracy, answer correctness, and end-to-end performance.
 
 ## Why It Matters
 

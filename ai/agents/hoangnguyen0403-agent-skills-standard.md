@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-10T19:22:09.392450+05:30'
+collected_at: '2026-08-10T21:49:56.980349+05:30'
 published_at: '2026-08-10T10:46:21Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
+- workflows
 stars: 539
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-10T19:22:09.392450+05:30'
-last_seen: '2026-08-10T19:22:09.392450+05:30'
-last_checked: '2026-08-10T19:22:09.392450+05:30'
+first_seen: '2026-08-10T21:49:56.980349+05:30'
+last_seen: '2026-08-10T21:49:56.980349+05:30'
+last_checked: '2026-08-10T21:49:56.980349+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering multiple frameworks (e.g., Angular, React, NestJS, Spring Boot) and platforms (Android, iOS, Flutter).
+- **Repository Overview**: A TypeScript-based collection of standardized **Agent Skills** and best practices for programming languages/frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot) to guide AI agents in adhering to framework-specific coding standards.
 
-- **Scope & Topics**: Encompasses agentic AI, coding standards, and framework-specific rules (e.g., cursor-rules, Laravel, Next.js) to ensure AI agents adhere to optimized development practices.
+- **Key Features**: Provides **cursor rules**, **coding standards**, and **best-practice guidelines** for AI agents to optimize code generation, maintainability, and framework-specific conventions across multiple tech stacks.
 
-- **Metadata**: 539 stars, 158 forks, last updated on **2026-08-10**; designed to guide AI agents in multi-language/framework environments.
+- **Metadata**: 539 stars, 158 forks, last updated **2026-08-10**; structured as a reference repository for AI-driven development workflows.
 
 ## Why It Matters
 
