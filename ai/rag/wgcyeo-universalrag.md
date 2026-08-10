@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-10T03:25:25.542774+05:30'
+collected_at: '2026-08-10T08:12:23.816818+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-10T03:25:25.542774+05:30'
-last_seen: '2026-08-10T03:25:25.542774+05:30'
-last_checked: '2026-08-10T03:25:25.542774+05:30'
+first_seen: '2026-08-10T08:12:23.816818+05:30'
+last_seen: '2026-08-10T08:12:23.816818+05:30'
+last_checked: '2026-08-10T08:12:23.816818+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a universal RAG framework supporting diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) via unified embedding and retrieval mechanisms.
+- **UniversalRAG Framework**: Introduces a unified RAG system capable of handling diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via modality-agnostic encoders and granularity-aware retrievers.
 
-- **ACL 2026 Oral**: Presents an advanced retrieval-augmented generation system with cross-modal alignment, enabling seamless integration of heterogeneous corpora for enhanced LLM performance.
+- **Multimodal Retrieval**: Implements a cross-modal retrieval mechanism leveraging contrastive learning and hierarchical indexing to align and retrieve relevant content across heterogeneous data sources.
 
-- **Python Implementation**: Provides an open-source Python library with modular components for embedding, retrieval, and generation, optimized for scalability and adaptability to new modalities.
+- **Adaptive Generation**: Integrates a modality-aware decoder that dynamically adjusts to retrieved content, enabling coherent generation across mixed-modal inputs while preserving contextual relevance.
 
 ## Why It Matters
 

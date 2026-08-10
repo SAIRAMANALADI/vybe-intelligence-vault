@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-08-10T03:24:35.510654+05:30'
+collected_at: '2026-08-10T08:11:33.706099+05:30'
 published_at: '2026-08-09T19:25:31Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 192
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-07T20:01:09Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-08-10T03:24:35.510654+05:30'
-last_seen: '2026-08-10T03:24:35.510654+05:30'
-last_checked: '2026-08-10T03:24:35.510654+05:30'
+first_seen: '2026-08-10T08:11:33.706099+05:30'
+last_seen: '2026-08-10T08:11:33.706099+05:30'
+last_checked: '2026-08-10T08:11:33.706099+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Repository offering a vetted collection of production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, emphasizing deployment-ready solutions.
+- **Curated Resource**: A GitHub repository (`Yigtwxx/awesome-rag-production`) listing production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, with 192 stars and 49 forks.
 
-- **Technical Scope**: Covers critical components like embeddings, vector databases, LLMOps, and MLOps, with Python-centric implementations and integrations (e.g., LangChain) for large language models (LLMs).
+- **Technical Scope**: Focuses on Python-based RAG implementations, covering embeddings, vector databases, LLMops, and MLOps, with integrations for LangChain and large language models (LLMs).
 
-- **Operational Focus**: Highlights production-grade considerations (scalability, reliability) and includes curated lists for AI/ML engineering, last updated in 2026.
+- **Maintenance & Updates**: Last updated on **2026-08-09**, ensuring relevance for modern AI engineering workflows in generative AI and retrieval-augmented systems.
 
 ## Why It Matters
 

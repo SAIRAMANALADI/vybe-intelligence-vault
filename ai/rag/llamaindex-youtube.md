@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/@LlamaIndex
-published_at: '2026-08-09T10:23:02.470517+05:30'
-collected_at: '2026-08-09T10:23:02.470530+05:30'
+published_at: '2026-08-10T08:17:49.124905+05:30'
+collected_at: '2026-08-10T08:17:49.124919+05:30'
 tags:
 - hackernews
 - meta-ai
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llamaindex-youtube
-first_seen: '2026-08-09T10:23:02.470530+05:30'
-last_seen: '2026-08-09T10:23:02.470530+05:30'
-last_checked: '2026-08-09T10:23:02.470530+05:30'
+first_seen: '2026-08-10T08:17:49.124919+05:30'
+last_seen: '2026-08-10T08:17:49.124919+05:30'
+last_checked: '2026-08-10T08:17:49.124919+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, providing services for uploading, viewing, sharing, and commenting on videos, with monetization options for creators via ads and subscriptions.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers.
 
-- **Developer & API Access**: Offers a robust [YouTube Data API](https://developers.google.com/youtube) for programmatic access to video metadata, uploads, and analytics, enabling integration with third-party applications.
+- **Technical Infrastructure**: Utilizes Google’s infrastructure for scalability, including CDN for global content delivery, AI-driven recommendation systems, and proprietary algorithms for content moderation and monetization.
 
-- **Technical Infrastructure**: The ["How YouTube Works"](https://www.youtube.com/howyoutubeworks) page details backend systems, including content delivery networks (CDNs), recommendation algorithms, and scalable storage solutions for global video distribution.
+- **Developer & API Access**: Provides a robust [YouTube Data API](https://developers.google.com/youtube) for programmatic access to video metadata, analytics, and upload functionality, supporting integration with third-party applications.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T10:23:02.470517+05:30
+- Published: 2026-08-10T08:17:49.124905+05:30
 
 ## Related Tags
 

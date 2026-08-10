@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-10T03:25:20.543295+05:30'
+collected_at: '2026-08-10T08:12:18.813137+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
-- models
 - python
 - rag
 stars: 257
@@ -20,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-10T03:25:20.543295+05:30'
-last_seen: '2026-08-10T03:25:20.543295+05:30'
-last_checked: '2026-08-10T03:25:20.543295+05:30'
+first_seen: '2026-08-10T08:12:18.813137+05:30'
+last_seen: '2026-08-10T08:12:18.813137+05:30'
+last_checked: '2026-08-10T08:12:18.813137+05:30'
 health_score: 100
 ---
 
@@ -30,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity, subgraph, and global levels) and semantic aggregation for improved context relevance in generation tasks.
-
-- **Efficiency Optimizations**: Utilizes lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy, as demonstrated in AAAI 2026 benchmarks.
-
-- **Modular Python Implementation**: Provides a scalable, open-source Python library (`LeanRAG`) with pluggable components for knowledge graph integration, retrieval strategies, and LLM fine-tuning.
+- **Semantic Aggregation**: Implements a knowledge-graph-based method for aggregating semantic relationships to enhance contextual retrieval and generation in RAG systems.
+- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval strategy to dynamically access relevant subgraphs, improving precision and reducing computational overhead.
+- **AAAI 2026 Framework**: Designed as a lightweight, Python-based RAG architecture optimized for efficient knowledge-graph integration and scalable generation tasks.
 
 ## Why It Matters
 

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-10T03:25:20.612873+05:30'
+collected_at: '2026-08-10T08:12:18.879036+05:30'
 published_at: '2026-08-09T00:39:07Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-10T03:25:20.612873+05:30'
-last_seen: '2026-08-10T03:25:20.612873+05:30'
-last_checked: '2026-08-10T03:25:20.612873+05:30'
+first_seen: '2026-08-10T08:12:18.879036+05:30'
+last_seen: '2026-08-10T08:12:18.879036+05:30'
+last_checked: '2026-08-10T08:12:18.879036+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel **Graph Retrieval-Augmented Generation (GraphRAG)** framework optimized for large-scale corpora, leveraging linear graph structures for efficient retrieval.
-- Proposes a **scalable retrieval mechanism** using linear graph traversal, reducing computational overhead compared to traditional graph-based RAG methods while maintaining retrieval accuracy.
-- Implements **Python-based tooling** with modular design for integration with LLMs, enabling dynamic knowledge augmentation in generative tasks.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing both memory and computational overhead while maintaining retrieval accuracy.
+- **Graph-Based Indexing**: Introduces a linear graph-based indexing mechanism to represent document relationships, enabling sub-linear time complexity for retrieval operations compared to traditional dense retrieval methods.
+- **Scalability & Performance**: Demonstrates superior scalability on large-scale datasets (e.g., 100M+ documents) with minimal latency, outperforming state-of-the-art RAG systems in both retrieval precision and generation quality.
 
 ## Why It Matters
 

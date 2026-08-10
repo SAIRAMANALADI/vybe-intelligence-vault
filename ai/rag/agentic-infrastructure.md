@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://vercel.com
-published_at: '2026-07-21T20:03:27.768085+05:30'
-collected_at: '2026-07-21T20:03:27.768098+05:30'
+published_at: '2026-08-10T08:20:05.522300+05:30'
+collected_at: '2026-08-10T08:20:05.522312+05:30'
 tags:
 - agents
 - rag
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:agentic-infrastructure-vercel
-first_seen: '2026-07-21T20:03:27.768098+05:30'
-last_seen: '2026-07-21T20:03:27.768098+05:30'
-last_checked: '2026-07-21T20:03:27.768098+05:30'
+first_seen: '2026-08-10T08:20:05.522312+05:30'
+last_seen: '2026-08-10T08:20:05.522312+05:30'
+last_checked: '2026-08-10T08:20:05.522312+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Infrastructure**: Vercel provides a deployment platform for AI agents and applications, enabling autonomous error investigation, planning fixes, and PR creation via agentic workflows, with support for sandboxed VMs and durable backends.
+- **Agentic Deployment Infrastructure**: Enables autonomous deployment of apps and agents via Vercel's API, CLI, MCP, and Skills, with sandboxed VMs, durable backends, and multi-model support for error investigation, planning, and PR automation.
 
-- **Multi-Model & Multi-Language Support**: Enables agents to deploy in their native languages using Vercel’s API, CLI, MCP, and Skills, with AI Model Gateway facilitating access to hundreds of models.
+- **Scalable Serverless Platform**: Supports zero-to-millions scaling with global delivery, serverless functions, and WAF, exemplified by Zapier’s 100M+ monthly visits on Vercel.
 
-- **Scalable Hosting Features**: Offers global delivery, serverless functions, tenant isolation, and custom SSL certificates, supporting platforms like Notion, Zapier, and Mintlify with zero-to-millions scalability.
+- **Multi-Tenant Hosting Features**: Provides tenant isolation, domain management, custom SSL, and preview URLs, as demonstrated by Mintlify’s 20K+ company documentation deployments.
 
 ## Why It Matters
 
@@ -37,12 +38,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-21T20:03:27.768085+05:30
+- Published: 2026-08-10T08:20:05.522300+05:30
 
 ## Related Tags
 
 - agents
 - rag
+- scripts
 - web-crawled
 - workflows
 

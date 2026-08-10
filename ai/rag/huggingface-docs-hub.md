@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-10T03:29:50.321510+05:30'
-collected_at: '2026-08-10T03:29:50.321523+05:30'
+published_at: '2026-08-10T08:16:08.899046+05:30'
+collected_at: '2026-08-10T08:16:08.899059+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-10T03:29:50.321523+05:30'
-last_seen: '2026-08-10T03:29:50.321523+05:30'
-last_checked: '2026-08-10T03:29:50.321523+05:30'
+first_seen: '2026-08-10T08:16:08.899059+05:30'
+last_seen: '2026-08-10T08:16:08.899059+05:30'
+last_checked: '2026-08-10T08:16:08.899059+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript, including GPU acceleration options.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JS, including GPU/accelerated hardware upgrades.
 
-- **Storage & Compute**: Supports disk usage tracking, custom domains, and advanced configurations like ZeroGPU, Dev Mode, and MCP server integration for agent-based workflows.
+- **Storage & Compute**: Supports disk usage/storage management, dependency handling, and GitHub Actions integration for CI/CD workflows in Space management.
 
-- **Integration & Extensibility**: Provides SDKs for Gradio/Streamlit/Docker, GitHub Actions for CI/CD, OAuth for authentication, and API endpoints for embedding or serving Spaces as tools/endpoints.
+- **Customization & Integration**: Offers SDKs for Python (Gradio), Dockerfiles, and static web apps; supports embedding Spaces, custom domains, and OAuth-based authentication.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T03:29:50.321510+05:30
+- Published: 2026-08-10T08:16:08.899046+05:30
 
 ## Related Tags
 

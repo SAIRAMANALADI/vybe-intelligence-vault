@@ -3,7 +3,7 @@ title: Firebase | Google's Mobile and Web App Development Platform
 archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://firebase.google.com/
-resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
+resource_id: blog:firebase-google-s-mobile-and-web-app-development-p-ab24bd47
 local_vault_path: ai/rag/firebase-google-s-mobile-and-web-app-development-p.md
 quality_score: 70
 archive_score: 72

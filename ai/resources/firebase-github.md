@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/firebase/
-published_at: '2026-08-09T13:00:51.611869+05:30'
-collected_at: '2026-08-09T13:00:51.611883+05:30'
+published_at: '2026-08-10T08:18:54.641058+05:30'
+collected_at: '2026-08-10T08:18:54.641071+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:firebase-github
-first_seen: '2026-08-09T13:00:51.611883+05:30'
-last_seen: '2026-08-09T13:00:51.611883+05:30'
-last_checked: '2026-08-09T13:00:51.611883+05:30'
+first_seen: '2026-08-10T08:18:54.641071+05:30'
+last_seen: '2026-08-10T08:18:54.641071+05:30'
+last_checked: '2026-08-10T08:18:54.641071+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- Firebase provides official SDKs and quickstart samples for Android (Kotlin), iOS (Swift), Web (TypeScript), Unity (C#), and C++ (GitHub repositories: `quickstart-android`, `quickstart-ios`, `quickstart-js`, `quickstart-unity`, `quickstart-cpp`).
+- Firebase provides official SDKs for Android (Kotlin/Java), iOS (Swift/Objective-C), Web (TypeScript/JavaScript), Unity (C#), and C++ with open-source repositories like `firebase-android-sdk`, `firebase-ios-sdk`, and `quickstart-{platform}`.
 
-- Core repositories include `firebase-ios-sdk` (6.6k⭐, C++/Objective-C), `firebase-tools` (4.4k⭐, TypeScript CLI), and `functions-samples` (12.2k⭐, JavaScript for Cloud Functions use cases).
+- Key repositories include `firebase-tools` (CLI for Firebase), `flutterfire` (Flutter plugins), and `functions-samples` (Cloud Functions use cases), all under Apache-2.0 or MIT licenses.
 
-- Firebase’s repositories are primarily licensed under Apache-2.0, with active maintenance (e.g., `firebase-ios-sdk` has 310 open issues and 125 PRs as of Aug 2026).
+- Firebase’s GitHub organization hosts 102+ repositories, including SDKs, quickstart samples, and tools, with active maintenance (e.g., `firebase-android-sdk` has 2.5k+ stars and 708 forks).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T13:00:51.611869+05:30
+- Published: 2026-08-10T08:18:54.641058+05:30
 
 ## Related Tags
 

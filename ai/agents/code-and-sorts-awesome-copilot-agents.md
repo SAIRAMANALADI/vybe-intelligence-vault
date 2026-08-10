@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-08-10T03:25:35.613148+05:30'
+collected_at: '2026-08-10T08:12:33.953989+05:30'
 published_at: '2026-08-09T08:55:19Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
+- workflows
 stars: 556
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-08-10T03:25:35.613148+05:30'
-last_seen: '2026-08-10T03:25:35.613148+05:30'
-last_checked: '2026-08-10T03:25:35.613148+05:30'
+first_seen: '2026-08-10T08:12:33.953989+05:30'
+last_seen: '2026-08-10T08:12:33.953989+05:30'
+last_checked: '2026-08-10T08:12:33.953989+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) containing structured GitHub Copilot instructions, prompts, skills, MCPs (Model Context Protocols), and agent markdown files to optimize AI interactions.
-- **Technical Scope**: Focuses on `TypeScript`-based agent skills, prompt engineering, and custom agent configurations for GitHub Copilot, VS Code Copilot Chat, and MCP integrations.
-- **Metadata**: 556 stars, 91 forks; last updated `2026-08-09T08:55:19Z`; categorized under `agent-skills`, `ai-agents`, and `prompt-engineering`.
+- **Curated Repository**: Hosts a structured collection of GitHub Copilot custom instructions, prompts, skills, MCPs, and agent markdown files to optimize AI-driven development workflows.
+- **Technical Scope**: Focuses on TypeScript-based agent skills, prompt engineering, and integration with VS Code Copilot Chat for advanced AI agent orchestration.
+- **Community Metrics**: Maintains 556 stars, 91 forks, and was last updated on 2026-08-09, emphasizing active maintenance and community engagement.
 
 ## Why It Matters
 

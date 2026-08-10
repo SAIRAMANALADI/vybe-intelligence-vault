@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:ransomware-gangs-skip-the-ceo-head-straight-for-th
 first_seen: '2026-08-10T03:22:49.689918+05:30'
 last_seen: '2026-08-10T03:22:49.689918+05:30'
 last_checked: '2026-08-10T03:22:49.689918+05:30'
 health_score: 100
 ---
+
 
 # Ransomware gangs skip the CEO, head straight for the 40-something IT manager
 

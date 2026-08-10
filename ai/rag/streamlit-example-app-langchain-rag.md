@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-10T03:24:25.547704+05:30'
+collected_at: '2026-08-10T08:11:23.789664+05:30'
 published_at: '2026-08-07T11:55:59Z'
 tags:
 - github-repo
-- openai
+- models
 - python
 - rag
-- workflows
 stars: 158
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-10T03:24:25.547704+05:30'
-last_seen: '2026-08-10T03:24:25.547704+05:30'
-last_checked: '2026-08-10T03:24:25.547704+05:30'
+first_seen: '2026-08-10T08:11:23.789664+05:30'
+last_seen: '2026-08-10T08:11:23.789664+05:30'
+last_checked: '2026-08-10T08:11:23.789664+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS) for retrieval-augmented generation (RAG), combining vector similarity and keyword-based search for enhanced document retrieval.
+- **Implementation**: Demonstrates a Streamlit app integrating LangChain for RAG, using a vector store (e.g., FAISS or Chroma) and hybrid search (combining dense + sparse retrieval) for document querying.
 
-- **Modular Architecture**: Implements a structured workflow with components for document loading (e.g., PyPDFLoader), text splitting (RecursiveCharacterTextSplitter), embedding (e.g., HuggingFace embeddings), and retrieval (vector store + hybrid search).
+- **Architecture**: Combines LangChain’s retrieval chains with a vector database backend, enabling semantic search augmented by keyword-based retrieval for improved accuracy.
 
-- **Streamlit UI**: Provides an interactive frontend for querying the RAG system, displaying retrieved context, and generating responses using a language model (e.g., LLM via LangChain's `ChatOpenAI` or similar).
+- **Deployment**: Streamlit frontend interfaces with a backend RAG pipeline, showcasing real-time Q&A or document exploration with hybrid search capabilities.
 
 ## Why It Matters
 

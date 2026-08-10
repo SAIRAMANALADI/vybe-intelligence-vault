@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-08-08T21:29:33.050284+05:30'
-collected_at: '2026-08-08T21:29:33.050300+05:30'
+published_at: '2026-08-10T08:21:12.309118+05:30'
+collected_at: '2026-08-10T08:21:12.309134+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-08-08T21:29:33.050300+05:30'
-last_seen: '2026-08-08T21:29:33.050300+05:30'
-last_checked: '2026-08-08T21:29:33.050300+05:30'
+first_seen: '2026-08-10T08:21:12.309134+05:30'
+last_seen: '2026-08-10T08:21:12.309134+05:30'
+last_checked: '2026-08-10T08:21:12.309134+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to hardware-specific device trees, kernels, and platform adaptations (e.g., `device/google/bluejay-kernel`, `device/asus/flo`).
+- **Centralized Git repository hosting** for Android OS development, managed by Google via `android.googlesource.com`, containing kernel, device-specific, and accessory-related codebases.
 
-- **Kernel Version Stratification**: Device repositories include kernel branches for specific Android versions (e.g., `device/google/akita-kernels/5.15`, `device/google/lynx-kernels/6.1`), enabling targeted development for different kernel releases (5.10, 5.15, 6.1).
+- **Device-specific repositories** organized by OEM/model (e.g., `device/google/bluejay`, `device/asus/flo`) with paired kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and variant branches (e.g., `5.10`, `6.1` kernels).
 
-- **Security Policy & Manifest Management**: Projects like `device/google/gs-common` and `accessories/manifest` define SELinux policies (`sepolicy`) and repository manifests, ensuring consistent security enforcement and dependency resolution across devices.
+- **Accessory and emulator support** includes legacy (e.g., `device/google/accessory/adk2012`) and emulator targets (e.g., `device/generic/x86_64`, `device/generic/goldfish`) with GPU/transport layers (e.g., `opengl-transport`, `vulkan-cereal`).
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-08T21:29:33.050284+05:30
+- Published: 2026-08-10T08:21:12.309118+05:30
 
 ## Related Tags
 

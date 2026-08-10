@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-08-10T03:26:30.620816+05:30'
+collected_at: '2026-08-10T08:13:28.864241+05:30'
 published_at: '2026-08-09T15:41:48Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
+- scripts
 - workflows
 stars: 9956
 language: Python
@@ -22,9 +22,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-08-02T12:42:17Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-08-10T03:26:30.620816+05:30'
-last_seen: '2026-08-10T03:26:30.620816+05:30'
-last_checked: '2026-08-10T03:26:30.620816+05:30'
+first_seen: '2026-08-10T08:13:28.864241+05:30'
+last_seen: '2026-08-10T08:13:28.864241+05:30'
+last_checked: '2026-08-10T08:13:28.864241+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for model evaluation and comparison.
+- **Multimodal Anomaly Detection**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, enabling cross-domain anomaly detection with unified APIs.
 
-- **Agentic Workflow & Multimodal Support**: Implements an agentic workflow for AI-driven anomaly detection and integrates multimodal capabilities (NLP, vision, audio) alongside traditional methods (unsupervised, deep learning, outlier ensembles).
+- **Agentic & Benchmark-Driven Workflow**: Features ADEngine for orchestrating anomaly detection pipelines and an agentic workflow for AI-driven automation, leveraging benchmark-backed configurations.
 
-- **Fraud & Graph Anomaly Detection**: Specialized modules for fraud detection, graph anomaly detection, and novelty/out-of-distribution (OOD) detection, leveraging foundation models and deep learning techniques.
+- **Foundation for Fraud & OOD Detection**: Specialized tools for fraud detection, graph anomaly detection, and out-of-distribution (OOD) scenarios, with support for unsupervised learning and deep learning-based methods.
 
 ## Why It Matters
 

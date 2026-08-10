@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/promptflow-rag-project-template
-collected_at: '2026-08-10T03:24:10.550995+05:30'
+collected_at: '2026-08-10T08:11:08.805524+05:30'
 published_at: '2026-07-21T11:30:26Z'
 tags:
 - benchmark
 - github-repo
 - jupyter notebook
 - rag
+- reddit
+- workflows
 stars: 60
 language: Jupyter Notebook
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-12-14T01:47:16Z'
 pushed_at: '2024-09-06T22:11:58Z'
 resource_id: github:microsoft/promptflow-rag-project-template
-first_seen: '2026-08-10T03:24:10.550995+05:30'
-last_seen: '2026-08-10T03:24:10.550995+05:30'
-last_checked: '2026-08-10T03:24:10.550995+05:30'
+first_seen: '2026-08-10T08:11:08.805524+05:30'
+last_seen: '2026-08-10T08:11:08.805524+05:30'
+last_checked: '2026-08-10T08:11:08.805524+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Implementation**: Demonstrates a complete Retrieval-Augmented Generation (RAG) pipeline using Promptflow, covering development, evaluation, experimentation, and deployment phases.
-
-- **Multi-Search Backend Integration**: Supports search products including CosmosDB, PostgreSQL, and Azure AI Search for vector and keyword-based retrieval.
-
-- **Jupyter Notebook-Based**: Provides a structured, executable template in Jupyter Notebook format for reproducibility and hands-on experimentation.
+- **End-to-End RAG Pipeline**: Demonstrates a complete Retrieval-Augmented Generation (RAG) workflow using Promptflow, covering development, evaluation, experimentation, and deployment phases.
+- **Multi-Search Backend Integration**: Supports heterogeneous search products (CosmosDB, PostgresSQL, Azure AI Search) for vector/keyword-based retrieval in RAG systems.
+- **Jupyter Notebook-Based Implementation**: Provides a structured, reproducible template in Jupyter Notebook format for rapid prototyping and experimentation with RAG architectures.
 
 ## Why It Matters
 

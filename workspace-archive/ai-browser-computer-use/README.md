@@ -13,9 +13,9 @@ Computer-use and browser agents transition AI from text engines to active workfl
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) (framework - ESSENTIAL Tier)
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) (framework - ESSENTIAL Tier)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -26,7 +26,7 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq)
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-08-10 03:40 IST*
+*Last updated: 2026-08-10 08:27 IST*

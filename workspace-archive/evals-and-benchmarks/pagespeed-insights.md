@@ -1,17 +1,16 @@
 ---
 title: PageSpeed Insights
 archive_category: evals-and-benchmarks
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://pagespeed.web.dev
 resource_id: blog:pagespeed-insights
-local_vault_path: ai/rag/pagespeed-insights.md
+local_vault_path: ai/resources/pagespeed-insights.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on mobile and desktop using real-world data (CrUX) and lab data, providing optimization suggestions.
-
-- **Scoring Mechanism**: Scores are based on Core Web Vitals (LCP, FID, CLS) and other performance metrics, with thresholds for "Good", "Needs Improvement", and "Poor" performance.
-
-- **Optimization Recommendations**: Provides actionable insights (e.g., image compression, JavaScript/CSS minification, leve
+- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on both mobile and desktop devices using real-world data (CrUX) and lab data, providing optimization suggestions.
+- **Scoring Metrics**: Utilizes Core Web Vitals (LCP, FID, CLS) and additional performance audits to generate a 0-100 score, highlighting areas for improvement.
+- **Optimization Recommendations**: Provides actionable insights (e.g., image compression, JavaScript minification, caching strategie
 
 ## Use Cases
 
@@ -49,4 +46,4 @@ Original source URL: https://pagespeed.web.dev
 
 ## Local Vault File
 
-Path: [pagespeed-insights.md](../../ai/rag/pagespeed-insights.md)
+Path: [pagespeed-insights.md](../../ai/resources/pagespeed-insights.md)

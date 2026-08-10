@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-08-10T03:23:55.618279+05:30'
+collected_at: '2026-08-10T08:10:53.708434+05:30'
 published_at: '2026-08-09T00:22:10Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-08-10T03:23:55.618279+05:30'
-last_seen: '2026-08-10T03:23:55.618279+05:30'
-last_checked: '2026-08-10T03:23:55.618279+05:30'
+first_seen: '2026-08-10T08:10:53.708434+05:30'
+last_seen: '2026-08-10T08:10:53.708434+05:30'
+last_checked: '2026-08-10T08:10:53.708434+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search, LLMs (e.g., GPT-4 Vision), and frameworks like LangChain/LlamaIndex.
 
-- **Vector Database Integration**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings, and fine-tuning workflows in AI pipelines.
+- **Vector Database Integration**: Demonstrates LanceDB as a vector database for efficient storage and retrieval of embeddings, supporting deep learning and fine-tuning workflows.
 
-- **Agent & Tooling Workflows**: Includes tutorials for building AI agents with vector search-backed tools, covering topics like OpenAI embeddings, deep learning models, and multimodal data processing.
+- **Agent & Pipeline Examples**: Includes tutorials for building AI agents, leveraging OpenAI APIs, and optimizing multimodal pipelines with embeddings and vector search.
 
 ## Why It Matters
 

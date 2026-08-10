@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-08-10T03:24:40.496901+05:30'
+collected_at: '2026-08-10T08:11:38.779557+05:30'
 published_at: '2026-08-09T15:57:08Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-07-09T14:58:23Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-08-10T03:24:40.496901+05:30'
-last_seen: '2026-08-10T03:24:40.496901+05:30'
-last_checked: '2026-08-10T03:24:40.496901+05:30'
+first_seen: '2026-08-10T08:11:38.779557+05:30'
+last_seen: '2026-08-10T08:11:38.779557+05:30'
+last_checked: '2026-08-10T08:11:38.779557+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Curated repository of Retrieval-Augmented Generation (RAG) applications.
-*   Catalogs practical implementations leveraging Generative AI and Large Language Models (LLMs).
-*   Serves as a centralized resource for RAG development and research.
+- **Curated RAG Applications**: Repository aggregating Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools in Generative AI, spanning 1332+ starred projects.
+- **Multi-Topic Scope**: Focuses on RAG, large language models (LLMs), and generative AI applications, with metadata tracking via topics like `artificial-intelligence` and `retrieval-augmented-generation`.
+- **Maintenance Status**: Last updated on **2026-08-09**, indicating active curation with 188 forks and multi-language support (unspecified primary language).
 
 ## Why It Matters
 

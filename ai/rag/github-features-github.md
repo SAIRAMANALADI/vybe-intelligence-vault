@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features
-published_at: '2026-08-10T03:31:00.218634+05:30'
-collected_at: '2026-08-10T03:31:00.218649+05:30'
+published_at: '2026-08-10T08:19:29.483537+05:30'
+collected_at: '2026-08-10T08:19:29.483550+05:30'
 tags:
 - rag
 - scripts
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-features-github
-first_seen: '2026-08-10T03:31:00.218649+05:30'
-last_seen: '2026-08-10T03:31:00.218649+05:30'
-last_checked: '2026-08-10T03:31:00.218649+05:30'
+first_seen: '2026-08-10T08:19:29.483550+05:30'
+last_seen: '2026-08-10T08:19:29.483550+05:30'
+last_checked: '2026-08-10T08:19:29.483550+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Copilot**: AI-powered code suggestions for whole lines/functions integrated into editors, with AI-driven code review and autofix capabilities for 90% of security alerts in supported languages (JavaScript, TypeScript, Java, Python).
+- **GitHub Copilot & AI Integration**: Provides inline code suggestions (whole lines/functions) via AI, with advanced features like Copilot Chat, Autofix (90% alert remediation in JS/TS/Java/Python), and secret scanning using AI to detect elusive secrets (e.g., passwords).
 
-- **GitHub Actions & Automation**: CI/CD workflow automation with GitHub-hosted/self-hosted runners, preconfigured templates, and 10,000+ community actions; includes dependency management via Dependabot and security scanning via CodeQL.
+- **Automation & CI/CD**: GitHub Actions enables workflow automation (build/test/deploy) with 10K+ community actions, self-hosted/hosted runners (Linux/macOS/Windows/ARM/GPU), and workflow visualization/templates for standardized scaling of best practices.
 
-- **GitHub Advanced Security (GHAS)**: Real-time vulnerability detection (CodeQL, secret scanning), automated remediation (Copilot Autofix), dependency vulnerability tracking, and private vulnerability reporting with GitHub Advisory Database integration.
+- **Security & Supply Chain**: GitHub Advanced Security (GHAS) integrates code scanning (CodeQL), secret scanning, Dependabot (vulnerability alerts/updates), dependency graph, and private vulnerability reporting to detect/fix vulnerabilities and manage supply chain risks.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T03:31:00.218634+05:30
+- Published: 2026-08-10T08:19:29.483537+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-08-10T03:24:30.535763+05:30'
+collected_at: '2026-08-10T08:11:28.754861+05:30'
 published_at: '2026-08-09T13:54:34Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-08-10T03:24:30.535763+05:30'
-last_seen: '2026-08-10T03:24:30.535763+05:30'
-last_checked: '2026-08-10T03:24:30.535763+05:30'
+first_seen: '2026-08-10T08:11:28.754861+05:30'
+last_seen: '2026-08-10T08:11:28.754861+05:30'
+last_checked: '2026-08-10T08:11:28.754861+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-ready systems.
-- **Technical Focus**: Includes fine-tuning LLMs, evaluation methodologies, and ML system design, with hands-on Python implementations for AWS environments.
-- **Repository Structure**: Organized for practical learning, featuring topics like GenAI, MLOps, and RAG, last updated in 2026 with 5,272 stars and 1,278 forks.
+- **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
+
+- **Technical Focus Areas**: Includes fine-tuning LLMs, LLM evaluation, ML system design, and MLOps, with hands-on Python implementations and AWS integration.
+
+- **Repository Contents**: Provides practical examples and methodologies for deploying, optimizing, and maintaining LLM/RAG systems in cloud environments, updated as of August 2026.
 
 ## Why It Matters
 

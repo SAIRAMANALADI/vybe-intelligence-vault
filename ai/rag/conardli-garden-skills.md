@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ConardLi/garden-skills
-collected_at: '2026-08-10T03:24:15.484729+05:30'
-published_at: '2026-08-09T20:22:17Z'
+collected_at: '2026-08-10T08:11:13.719935+05:30'
+published_at: '2026-08-10T02:31:53Z'
 tags:
 - agents
 - anthropic
@@ -14,8 +14,7 @@ tags:
 - hackernews
 - rag
 - scripts
-- workflows
-stars: 10186
+stars: 10190
 language: CSS
 status: active
 license: MIT
@@ -23,9 +22,9 @@ archived: false
 created_at: '2026-04-21T11:56:17Z'
 pushed_at: '2026-07-12T14:36:31Z'
 resource_id: github:conardli/garden-skills
-first_seen: '2026-08-10T03:24:15.484729+05:30'
-last_seen: '2026-08-10T03:24:15.484729+05:30'
-last_checked: '2026-08-10T03:24:15.484729+05:30'
+first_seen: '2026-08-10T08:11:13.719935+05:30'
+last_seen: '2026-08-10T08:11:13.719935+05:30'
+last_checked: '2026-08-10T08:11:13.719935+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-domain technical repository** containing open-source implementations for web design, knowledge retrieval (RAG), and image generation (GPT-Image-2) using AI agents (e.g., Claude).
-- **Technology stack**: Primarily built with **CSS** for styling, with integrations for AI-driven workflows (RAG, image generation) and agent-based automation.
-- **Metadata**: 10,186 stars, 1,345 forks, last updated **2026-08-09**; categorized under topics like `agent`, `rag`, and `web-design`.
+- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills, implemented primarily in CSS.
+- **Technical Stack**: Integrates tools like GPT-Image-2 for image generation, RAG (Retrieval-Augmented Generation) for knowledge retrieval, and agents for automation.
+- **Metadata**: 10,190 stars, 1,345 forks, last updated August 10, 2026, with topics including agent frameworks, Claude, and web design.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ConardLi
-- Stars: 10186
+- Stars: 10190
 - Forks: 1345
 - Language: CSS
 - Topics: agent, claude, gpt-image-2, rag, skills, web-design
-- Last Updated: 2026-08-09T20:22:17Z
+- Last Updated: 2026-08-10T02:31:53Z
 - License: MIT
 - Archived: No
 - Created At: 2026-04-21T11:56:17Z

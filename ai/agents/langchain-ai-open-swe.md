@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-10T03:25:55.624426+05:30'
-published_at: '2026-08-09T21:10:28Z'
+collected_at: '2026-08-10T08:12:53.857482+05:30'
+published_at: '2026-08-10T01:23:38Z'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-08-09T08:17:55Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-10T03:25:55.624426+05:30'
-last_seen: '2026-08-10T03:25:55.624426+05:30'
-last_checked: '2026-08-10T03:25:55.624426+05:30'
+first_seen: '2026-08-10T08:12:53.857482+05:30'
+last_seen: '2026-08-10T08:12:53.857482+05:30'
+last_checked: '2026-08-10T08:12:53.857482+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, multi-agent system for automated software engineering tasks using Python, designed for parallelized workflows.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and modification using LLMs (OpenAI, Anthropic Claude) with non-blocking I/O for improved efficiency.
 
-- **Multi-Model LLM Integration**: Supports OpenAI, Anthropic (ClaudeCode), and other LLM providers for dynamic task execution and decision-making in coding workflows.
+- **Multi-Model Support**: Integrates with OpenAI's API and Anthropic's ClaudeCode for parallelized task execution, enabling dynamic switching between models based on context or performance.
 
-- **Open-Source & Scalable**: Repository provides a modular, extensible framework for AI-driven software engineering with 10.5K+ stars, optimized for async task handling and agent collaboration.
+- **Open-Source Framework**: Provides a modular Python-based agent system for scalable, customizable autonomous software engineering workflows with extensible tooling and async-first design.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 1223
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-09T21:10:28Z
+- Last Updated: 2026-08-10T01:23:38Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

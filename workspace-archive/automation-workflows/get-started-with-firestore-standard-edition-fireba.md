@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Firestore Enterprise Edition (Native Mode)**: New enterprise-grade offering with advanced features like multi-region replication, higher throughput, and enhanced security controls for large-scale applications.
-- **Multi-Platform SDK Support**: Native SDKs for Android, iOS, Web, C#, Go, Java, Node.js, PHP, Python, and Ruby, enabling direct client-server communication with Firestore Security Rules and Firebase Authentication.
-- **Local Emulator Suite Integration**: Supports prototyping/testing
+- **Firestore Enterprise Edition (Native Mode)**: New enterprise-tier offering with advanced features like pipelines, enhanced scalability, and performance optimizations for large-scale applications.
+- **Multi-Platform SDK Support**: Firestore provides native SDKs for Android, iOS, Web, and server-side libraries (C#, Go, Java, Node.js, PHP, Python, Ruby) for privileged server access.
+- **Local Emulator Suite**: Enables offline prototyping/testing with a Firestore emulator, allowing developers to
 
 ## Use Cases
 

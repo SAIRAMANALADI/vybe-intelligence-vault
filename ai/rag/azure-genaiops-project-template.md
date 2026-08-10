@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-08-10T03:24:05.545801+05:30'
+collected_at: '2026-08-10T08:11:03.792512+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
-- scripts
-- workflows
 stars: 44
 language: Bicep
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-08-10T03:24:05.545801+05:30'
-last_seen: '2026-08-10T03:24:05.545801+05:30'
-last_checked: '2026-08-10T03:24:05.545801+05:30'
+first_seen: '2026-08-10T08:11:03.792512+05:30'
+last_seen: '2026-08-10T08:11:03.792512+05:30'
+last_checked: '2026-08-10T08:11:03.792512+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC template** for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling infrastructure-as-code (IaC) automation for AI workloads.
-- **Pre-configured Azure resources** (e.g., AI Search, Cosmos DB, ACR, AKS) to support **end-to-end RAG workflows**, including data ingestion, vector storage, and LLM inference.
-- **Modular design** with extensible Bicep modules for **scalable, production-grade GenAIOps deployments**, optimized for CI/CD integration and compliance with Azure best practices.
+- **Purpose**: Provides a Bicep-based infrastructure-as-code (IaC) template for deploying a **Generative AI Ops (GenAIOps) Retrieval-Augmented Generation (RAG) pipeline** on Azure.
+- **Key Components**: Includes modular Bicep templates for provisioning Azure resources (e.g., Azure OpenAI, Cognitive Search, Key Vault, and compute) required for a production-grade RAG system.
+- **Deployment Target**: Designed for Azure cloud environments, enabling automated CI/CD pipelines for GenAIOps workloads with scalability and security best practices.
 
 ## Why It Matters
 

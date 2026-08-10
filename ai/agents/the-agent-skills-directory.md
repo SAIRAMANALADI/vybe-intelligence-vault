@@ -4,13 +4,12 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://skills.sh
-published_at: '2026-08-02T16:29:51.448460+05:30'
-collected_at: '2026-08-02T16:29:51.448474+05:30'
+published_at: '2026-08-10T08:18:35.594711+05:30'
+collected_at: '2026-08-10T08:18:35.594727+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
-- hackernews
 - leaderboard
 - meta-ai
 - models
@@ -19,12 +18,13 @@ tags:
 - reddit
 - scripts
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:the-agent-skills-directory
-first_seen: '2026-08-02T16:29:51.448474+05:30'
-last_seen: '2026-08-02T16:29:51.448474+05:30'
-last_checked: '2026-08-02T16:29:51.448474+05:30'
+first_seen: '2026-08-10T08:18:35.594727+05:30'
+last_seen: '2026-08-10T08:18:35.594727+05:30'
+last_checked: '2026-08-10T08:18:35.594727+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Top Skills by Install Count**: `find-skills` (2.8M), `frontend-design` (731.3K), and `grill-me` (727.7K) lead the leaderboard, with `find-skills` significantly ahead in total installs.
-- **Dominant Contributors**: `mattpocock/skills` (e.g., `grill-me`, `tdd`, `codebase-design`) and `microsoft/azure-skills` (e.g., `azure-messaging`, `azure-rbac`) are major contributors, with multiple high-ranking skills.
-- **Specialized Categories**: Skills are segmented into categories like AI/video generation (`ai-video-generation`), UI/UX design (`design-taste-frontend`), and Azure infrastructure (`azure-compute`), reflecting diverse technical domains.
+- **Top Skills by Install Count**: `find-skills` (Vercel Labs) leads with **2.9M installs**, followed by `grill-me` (**808.3K**) and `frontend-design` (**759.1K**), indicating high demand for AI-driven skill discovery and frontend development tools.
+
+- **Dominant Publishers**: **mattpocock/skills** (15+ entries, e.g., `grill-with-docs`, `tdd`) and **microsoft/azure-skills** (10+ entries, e.g., `azure-ai`, `azure-rbac`) dominate the leaderboard, reflecting strong ecosystem-specific tooling adoption.
+
+- **Niche Specializations**: Skills like `hyperframes-cli` (**353K**), `supabase-postgres-best-practices** (**337.9K**), and `entra-agent-id** (**232.9K**) highlight emerging domains in AI-driven media processing, database optimization, and identity management.
 
 ## Why It Matters
 
@@ -44,14 +46,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T16:29:51.448460+05:30
+- Published: 2026-08-10T08:18:35.594711+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
 - frontend_ui
-- hackernews
 - leaderboard
 - meta-ai
 - models
@@ -60,6 +61,7 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
+- workflows
 - youtube
 
 ## Source

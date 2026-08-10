@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-106%2C192-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-174%2C572-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--10-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **106,192 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **174,572 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,681</p>
-        <p><b>Active:</b> 17,147 | <b>Inactive:</b> 534</p>
+        <p><b>Resources tracked:</b> 18,692</p>
+        <p><b>Active:</b> 18,157 | <b>Inactive:</b> 535</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,238</p>
+        <p><b>Archive Files:</b> 69,629</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 106,192 files</p>
-        <p><b>Last Update:</b> 2026-08-10 07:06 IST</p>
+        <p><b>Total Vault Size:</b> 174,572 files</p>
+        <p><b>Last Update:</b> 2026-08-10 08:28 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The WebM Project | Developer Overview](ai/rag/the-webm-project-developer-overview.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Configure markup](ai/rag/configure-markup.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub](ai/resources/mdn-content.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Binaries · openssl/openssl Wiki · GitHub](ai/rag/openssl-openssl.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[SRI Hash Generator](ai/resources/sri-hash-generator.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[How I use LLMs to learn complex topics](ai/community/how-i-use-llms-to-learn-complex-topics.md)** • <kbd>+245 pts</kbd>
+- 🔼 **[The Hacker's Renaissance (2025)](ai/community/the-hacker-s-renaissance.md)** • <kbd>+82 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[The tragedy of the commons, AI edition](ai/community/the-tragedy-of-the-commons-ai-edition.md)** • <kbd>+49 pts</kbd>
+- 🔼 **[Tuxedo No. 2 – Cocktail recipes](ai/community/tuxedo-no-2-cocktail-recipes.md)** • <kbd>+44 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[android Git repositories - Git at Google](ai/rag/android-git-repositories-git-at-google.md)** • Rank: <kbd>+1702</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Kotlin/kotlinx.coroutines](ai/resources/kotlin-kotlinx-coroutines.md)** • Score: `0`
+- 🆕 **[superproject](ai/resources/superproject.md)** • Score: `0`
+- 🆕 **[pyannote/pyannote-audio](ai/resources/pyannote-pyannote-audio.md)** • Score: `0`
+- 🆕 **[Code Llama: Open Foundation Models for Code | Research - AI at Meta](ai/rag/code-llama-open-foundation-models-for-code-researc.md)** • Score: `0`
+- 🆕 **[dom-examples/service-worker/simple-service-worker at main · mdn/dom-examples · GitHub](ai/resources/mdn-dom-examples.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Ransomware gangs skip the CEO, head straight for the 40-something IT manager](ai/community/ransomware-gangs-skip-the-ceo-head-straight-for-th.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

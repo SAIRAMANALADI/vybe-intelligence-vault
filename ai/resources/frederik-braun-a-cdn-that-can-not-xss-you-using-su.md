@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://frederikbraun.de/using-subresource-integrity.html
-published_at: '2026-08-09T18:59:52.451721+05:30'
-collected_at: '2026-08-09T18:59:52.451733+05:30'
+published_at: '2026-08-10T08:18:34.891499+05:30'
+collected_at: '2026-08-10T08:18:34.891511+05:30'
 tags:
 - hackernews
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:frederik-braun-a-cdn-that-can-not-xss-you-using-su
-first_seen: '2026-08-09T18:59:52.451733+05:30'
-last_seen: '2026-08-09T18:59:52.451733+05:30'
-last_checked: '2026-08-09T18:59:52.451733+05:30'
+first_seen: '2026-08-10T08:18:34.891511+05:30'
+last_seen: '2026-08-10T08:18:34.891511+05:30'
+last_checked: '2026-08-10T08:18:34.891511+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose & Mechanism**: Subresource Integrity (SRI) is a W3C standard enabling cryptographic verification of third-party JavaScript/CSS integrity via hash digests (`integrity` attribute) to prevent unauthorized modifications during transit or at the CDN.
-- **Syntax & Requirements**: The `integrity` attribute uses a micro-syntax (e.g., `sha256-<base64-hash>`), requires CORS-enabled CDNs (via `crossorigin` attribute), and supports multiple hashes for redundancy or algorithm agility.
-- **Implementation & Limitations**: SRI is supported in modern browsers (Firefox/Chrome) with polyfill options; lacks native error recovery, necessitating fallback mechanisms (e.g., local copies) or error reporting via `navigator.sendBeacon`.
+- **Subresource Integrity (SRI)** is a W3C standard enabling cryptographic verification of third-party JavaScript/CSS resources via hash-based integrity checks in HTML tags (`integrity` attribute), preventing unauthorized modifications.
+
+- **Implementation requires CORS support** (`crossorigin` attribute) to fetch and validate external resources; browsers prioritize strongest hash algorithms and support multiple hashes for redundancy or versioning.
+
+- **Error recovery is manual** (fallback to self-hosted resources) due to lack of native error handling; tooling like `sri-toolbox` automates hash generation, with partial browser support (Firefox/Chrome) and polyfill availability.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-09T18:59:52.451721+05:30
+- Published: 2026-08-10T08:18:34.891499+05:30
 
 ## Related Tags
 

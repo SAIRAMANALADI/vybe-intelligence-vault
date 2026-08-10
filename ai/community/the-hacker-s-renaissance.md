@@ -1,31 +1,31 @@
 ---
-title: The Hacker's Renaissance
+title: The Hacker's Renaissance (2025)
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://phrack.org/issues/72/19
 hn_url: https://news.ycombinator.com/item?id=49235378
-score: 15
+score: 97
 author: yu3zhou4
-comments_count: 6
+comments_count: 69
 published_at: '2026-08-10T01:48:44+05:30'
-collected_at: '2026-08-10T03:22:47.296569+05:30'
+collected_at: '2026-08-10T08:09:49.962922+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:the-hacker-s-renaissance
 first_seen: '2026-08-10T03:22:47.296569+05:30'
-last_seen: '2026-08-10T03:22:47.296569+05:30'
-last_checked: '2026-08-10T03:22:47.296569+05:30'
+last_seen: '2026-08-10T08:09:49.962922+05:30'
+last_checked: '2026-08-10T08:09:49.962922+05:30'
 health_score: 100
 ---
 
-# The Hacker's Renaissance
+# The Hacker's Renaissance (2025)
 
 ## Summary
 
-Hacker News story by yu3zhou4. Score: 15, Comments: 6.
+Hacker News story by yu3zhou4. Score: 97, Comments: 69.
 Original Link: https://phrack.org/issues/72/19#article
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: yu3zhou4
-- Score: 15 Upvotes
-- Comments: 6 Discussions
+- Score: 97 Upvotes
+- Comments: 69 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49235378
 - Original Article: https://phrack.org/issues/72/19
 

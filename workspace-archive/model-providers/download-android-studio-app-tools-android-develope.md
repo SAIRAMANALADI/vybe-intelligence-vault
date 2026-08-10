@@ -2,7 +2,7 @@
 title: Download Android Studio & App Tools - Android Developers
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://developer.android.com/studio
+source_url: https://developer.android.com/studio/
 resource_id: blog:download-android-studio-app-tools-android-develope
 local_vault_path: ai/rag/download-android-studio-app-tools-android-develope.md
 quality_score: 70
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Development**: Android Studio Quail 3 integrates **Gemini**, an AI assistant for code generation, debugging, and Android-specific queries, enhancing productivity via natural language interactions.
-
-- **Cross-Device Testing**: **Android Device Streaming** enables real-device testing directly from Android Studio, supporting diverse screen sizes, OEMs, and Android versions to validate app compatibility.
-
-- **Modular Build & Optimization**: The **Gradle-based build system** supports m
+- **AI-Powered Development**: Android Studio Quail 3 integrates **Gemini**, an AI assistant for code generation, debugging, and Android-specific queries, enhancing developer productivity.
+- **Multi-Device Testing**: Supports **Android Device Streaming** for real-device testing across diverse screen sizes, OEMs, and Android versions, alongside an emulator for foldables, Wear OS, TV, and ChromeOS.
+- **Build & Optimization Tools**: Features a **Gradle-based flexible build system** for multi-variant
 
 ## Use Cases
 
@@ -49,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com/studio
+Original source URL: https://developer.android.com/studio/
 
 ## Local Vault File
 

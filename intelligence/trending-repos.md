@@ -7,7 +7,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [pmndrs/triplex](https://github.com/pmndrs/triplex) | `ai-coding-agents/` | 70 |
 | [Mintlify · GitHub](https://github.com/mintlify) | `ai-coding-agents/` | 70 |
 | [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | `ai-coding-agents/` | 70 |
-| [extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at master · firebase/extensions · GitHub](https://github.com/firebase/extensions/blob/master/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md) | `ai-coding-agents/` | 70 |
 | [golf-mcp/golf](https://github.com/golf-mcp/golf) | `ai-coding-agents/` | 70 |
 | [HKUDS/OpenPhone](https://github.com/HKUDS/OpenPhone) | `ai-coding-agents/` | 70 |
 | [trycua/cua](https://github.com/trycua/cua) | `ai-coding-agents/` | 70 |
@@ -29,5 +28,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) | `ai-coding-agents/` | 70 |
 | [iuyup/AgentFlow](https://github.com/iuyup/AgentFlow) | `ai-coding-agents/` | 70 |
 | [Flux159/mcp-chat](https://github.com/flux159/mcp-chat) | `ai-coding-agents/` | 70 |
+| [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-08-10T03:24:50.531250+05:30'
+collected_at: '2026-08-10T08:11:48.733072+05:30'
 published_at: '2026-08-09T07:11:34Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-08-10T03:24:50.531250+05:30'
-last_seen: '2026-08-10T03:24:50.531250+05:30'
-last_checked: '2026-08-10T03:24:50.531250+05:30'
+first_seen: '2026-08-10T08:11:48.733072+05:30'
+last_seen: '2026-08-10T08:11:48.733072+05:30'
+last_checked: '2026-08-10T08:11:48.733072+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG models, focusing on graph-based retrieval-augmented generation (RAG) systems, with structured datasets and metrics for performance analysis.
+- **Benchmark Framework**: Provides an official evaluation suite (`GraphRAG-Bench`) for GraphRAG models, designed to assess performance in graph-based retrieval-augmented generation (RAG) scenarios, with a focus on ICLR'26 standards.
 
-- **ICLR'26 Contribution**: Introduces a comprehensive analysis framework to determine optimal use cases for graphs in RAG, including experimental setups, baseline implementations, and comparative studies against traditional RAG methods.
+- **Dataset & Analysis**: Includes a comprehensive dataset and analysis tools to determine optimal use cases for graph structures in RAG pipelines, enabling empirical validation of graph-enhanced retrieval strategies.
 
-- **Technical Implementation**: Python-based repository featuring modular components for graph construction, retrieval strategies, and evaluation pipelines, with support for custom datasets and model integration.
+- **Technical Stack**: Implemented in Python, the repository supports modular benchmarking with dependencies for graph processing, retrieval evaluation, and generation metrics, last updated on 2026-08-09.
 
 ## Why It Matters
 

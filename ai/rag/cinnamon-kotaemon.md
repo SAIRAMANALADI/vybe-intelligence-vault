@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-08-10T03:24:10.548066+05:30'
-published_at: '2026-08-09T21:01:09Z'
+collected_at: '2026-08-10T08:11:08.766643+05:30'
+published_at: '2026-08-10T01:18:50Z'
 tags:
 - github-repo
-- meta-ai
-- models
 - python
 - rag
-stars: 25691
+stars: 25692
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-08-10T03:24:10.548066+05:30'
-last_seen: '2026-08-10T03:24:10.548066+05:30'
-last_checked: '2026-08-10T03:24:10.548066+05:30'
+first_seen: '2026-08-10T08:11:08.766643+05:30'
+last_seen: '2026-08-10T08:11:08.766643+05:30'
+last_checked: '2026-08-10T08:11:08.766643+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based conversational AI, dynamically fetching and integrating relevant document snippets during inference.
+- **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based conversational AI, combining retrieval of relevant document chunks with LLM-based response generation.
 
-- **Modular Design**: Built in Python with a modular framework supporting customizable pipelines for document ingestion, retrieval, and LLM interaction, leveraging libraries like LangChain and LlamaIndex.
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM interaction, supporting customization via plugins.
 
-- **Scalability & Extensibility**: Optimized for large-scale document processing with support for vector databases (e.g., FAISS, Chroma) and multi-modal inputs, enabling deployment in enterprise-grade environments.
+- **Open-Source Deployment**: Licensed for open-source use, facilitating self-hosted deployment with support for local or cloud-based LLMs and vector databases.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Cinnamon
-- Stars: 25691
+- Stars: 25692
 - Forks: 2138
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-08-09T21:01:09Z
+- Last Updated: 2026-08-10T01:18:50Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

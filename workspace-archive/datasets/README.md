@@ -9,7 +9,7 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Top Matched Resources
 
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (framework - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
 - [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (framework - ESSENTIAL Tier)
 - [A Framework for Evaluating Agentic Skills at Scale](https://arxiv.org/abs/2606.17819) (framework - ESSENTIAL Tier)
@@ -21,11 +21,11 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
 - [brmson/dataset-sts](https://github.com/brmson/dataset-sts)
-- [sierra-research/tau2-bench](https://github.com/sierra-research/tau2-bench)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch)
+- [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-08-10 03:40 IST*
+*Last updated: 2026-08-10 08:27 IST*

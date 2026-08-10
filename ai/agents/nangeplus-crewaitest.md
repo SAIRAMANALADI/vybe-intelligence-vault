@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-10T03:27:55.733588+05:30'
+collected_at: '2026-08-10T08:14:58.952836+05:30'
 published_at: '2026-08-08T06:56:45Z'
 tags:
 - agents
 - github-repo
 - meta-ai
 - models
-- openai
 - python
 stars: 356
 language: Python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-10T03:27:55.733588+05:30'
-last_seen: '2026-08-10T03:27:55.733588+05:30'
-last_checked: '2026-08-10T03:27:55.733588+05:30'
+first_seen: '2026-08-10T08:14:58.952836+05:30'
+last_seen: '2026-08-10T08:14:58.952836+05:30'
+last_checked: '2026-08-10T08:14:58.952836+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Framework**: Implements a CrewAI-based system for orchestrating multiple AI agents with FastAPI, enabling collaborative task execution and API-driven interactions.
-
-- **Model Agnostic Integration**: Supports multiple LLM backends including OpenAI's GPT, domestic Chinese models, and local Ollama deployments via unified API interfaces.
-
-- **Production-Ready API**: Exposes RESTful endpoints for agent coordination, task delegation, and response streaming with last update timestamp (2026-08-08) indicating active maintenance.
+- **Multi-Agent System**: Implements a cooperative multi-agent framework using CrewAI, enabling task delegation and collaboration among specialized agents.
+- **API Integration**: Exposes functionality via FastAPI, allowing remote interaction with the agent system through RESTful endpoints.
+- **Model Flexibility**: Supports multiple LLM backends (GPT, domestic models, Ollama local models) with configurable provider selection.
 
 ## Why It Matters
 

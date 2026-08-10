@@ -4,24 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-08-10T03:27:50.684627+05:30'
-published_at: '2026-08-09T21:38:36Z'
+collected_at: '2026-08-10T08:14:48.986564+05:30'
+published_at: '2026-08-10T01:53:55Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 544
+stars: 554
 language: Python
 status: active
 archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-08-10T03:27:50.684627+05:30'
-last_seen: '2026-08-10T03:27:50.684627+05:30'
-last_checked: '2026-08-10T03:27:50.684627+05:30'
+first_seen: '2026-08-10T08:14:48.986564+05:30'
+last_seen: '2026-08-10T08:14:48.986564+05:30'
+last_checked: '2026-08-10T08:14:48.986564+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements **4 specialized AI agents** collaborating for A-share investment analysis, leveraging **CrewAI** for orchestration and **AKShare** for real-time A-share data (quotes, financials, fund flows, sentiment).
-- **A-Share Optimization**: Tailored analysis for **Chinese stock market** (e.g., 20% daily limit rules, market sentiment metrics) with **AKShare’s professional-grade data sources** for accurate, localized insights.
-- **Automated Decision Support**: Generates **investment recommendations** via multi-agent synthesis of technical, fundamental, and sentiment-driven signals, outputting actionable strategies.
+- **Multi-Agent System**: Implements 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision-maker) collaborating via CrewAI to perform end-to-end A-share investment analysis.
+- **Data Integration**: Leverages AKShare for real-time A-share metrics (quotes, financials, fund flows, sentiment) and integrates structured/unstructured data for holistic market assessment.
+- **Decision Optimization**: Outputs actionable investment recommendations by synthesizing quantitative metrics and qualitative market signals, tailored for China’s A-share market dynamics.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: liangdabiao
-- Stars: 544
-- Forks: 108
+- Stars: 554
+- Forks: 110
 - Language: Python
 - Topics: agent
-- Last Updated: 2026-08-09T21:38:36Z
+- Last Updated: 2026-08-10T01:53:55Z
 - Archived: No
 - Created At: 2025-09-26T11:16:52Z
 - Pushed At: 2026-05-07T01:07:08Z

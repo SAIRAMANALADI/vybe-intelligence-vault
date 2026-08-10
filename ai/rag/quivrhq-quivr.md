@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-10T03:25:00.562492+05:30'
+collected_at: '2026-08-10T08:11:58.809220+05:30'
 published_at: '2026-08-09T21:10:49Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-10T03:25:00.562492+05:30'
-last_seen: '2026-08-10T03:25:00.562492+05:30'
-last_checked: '2026-08-10T03:25:00.562492+05:30'
+first_seen: '2026-08-10T08:11:58.809220+05:30'
+last_seen: '2026-08-10T08:11:58.809220+05:30'
+last_checked: '2026-08-10T08:11:58.809220+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss) without vendor lock-in.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization and compatibility with any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss).
 
-- **Multi-Format & Multi-Store Support**: Enables ingestion and processing of any file type while allowing flexible integration with diverse vector databases, APIs, and frontend stacks (React, TypeScript, HTML/JavaScript), prioritizing adaptability for existing products.
+- **Multi-Format & Multi-Store Support**: Enables integration with any file type and supports flexible deployment across multiple vector databases (PostgreSQL, Faiss) and LLMs, with Docker-based containerization for scalability.
 
-- **Privacy & Security Focus**: Implements robust security measures (e.g., Dockerized deployment, PostgreSQL-backed storage) and emphasizes data privacy, positioning itself as a self-hostable alternative to proprietary GenAI solutions.
+- **Full-Stack Integration**: Provides a TypeScript/JavaScript frontend (React) with HTML/CSS, a Python backend, and RESTful API support, emphasizing privacy, security, and extensibility for enterprise-grade applications.
 
 ## Why It Matters
 

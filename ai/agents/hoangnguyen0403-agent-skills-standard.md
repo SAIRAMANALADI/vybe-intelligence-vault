@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-10T03:26:15.580088+05:30'
+collected_at: '2026-08-10T08:13:13.864829+05:30'
 published_at: '2026-08-07T03:48:17Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-10T03:26:15.580088+05:30'
-last_seen: '2026-08-10T03:26:15.580088+05:30'
-last_checked: '2026-08-10T03:26:15.580088+05:30'
+first_seen: '2026-08-10T08:13:13.864829+05:30'
+last_seen: '2026-08-10T08:13:13.864829+05:30'
+last_checked: '2026-08-10T08:13:13.864829+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Coding Standards Repository**: Hosts standardized best practices for multiple programming languages (TypeScript, Kotlin, Go, Java) and frameworks (React, Angular, Spring Boot, Laravel), structured for AI agent guidance.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages such as Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot, and more.
 
-- **Multi-Platform & Framework Support**: Covers mobile (Android, iOS, Flutter), web (React, Next.js), backend (NestJS, Spring Boot), and enterprise (Laravel) ecosystems with curated rules for consistency.
+- **Purpose**: Designed to guide AI agents in adhering to industry-standard coding practices and framework-specific conventions to ensure high-quality, maintainable, and scalable code generation.
 
-- **Agent-Optimized Tooling**: Integrates `.cursorrules` and structured guidelines to enforce coding standards, ensuring AI agents adhere to language/framework-specific conventions efficiently.
+- **Metadata**: Maintained by HoangNguyen0403, with 538 stars, 157 forks, and last updated on August 7, 2026. Includes topics like `agentic-ai`, `coding-standards`, and `cursor-rules` for AI-assisted development.
 
 ## Why It Matters
 

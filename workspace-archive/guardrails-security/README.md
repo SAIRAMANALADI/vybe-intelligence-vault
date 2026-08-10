@@ -10,12 +10,12 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (framework - USEFUL Tier)
+- [msoedov/agentic_security](https://github.com/msoedov/agentic_security) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) (framework - USEFUL Tier)
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (framework - USEFUL Tier)
 - [GEAR | Google Developer Program | Google for Developers](https://developers.google.com/program/gear) (template - USEFUL Tier)
 - [EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi](https://arxiv.org/abs/2607.09090) (framework - USEFUL Tier)
-- [LLMs Prompted for Legal Context Object More: Overrefusal from Small On-Premises LLMs in Criminal Legal Context](https://arxiv.org/abs/2606.24585) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
 - [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
+- [uber/ADR](https://github.com/uber/ADR)
 - [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
-- [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit)
-- [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability)
+- [raga-ai-hub/raga-llm-hub](https://github.com/raga-ai-hub/raga-llm-hub)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-08-10 03:40 IST*
+*Last updated: 2026-08-10 08:27 IST*

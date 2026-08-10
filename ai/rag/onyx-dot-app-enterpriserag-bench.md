@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-08-10T03:24:55.567615+05:30'
+collected_at: '2026-08-10T08:11:53.797055+05:30'
 published_at: '2026-08-08T03:47:36Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 503
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-08-10T03:24:55.567615+05:30'
-last_seen: '2026-08-10T03:24:55.567615+05:30'
-last_checked: '2026-08-10T03:24:55.567615+05:30'
+first_seen: '2026-08-10T08:11:53.797055+05:30'
+last_seen: '2026-08-10T08:11:53.797055+05:30'
+last_checked: '2026-08-10T08:11:53.797055+05:30'
 health_score: 100
 ---
 
@@ -30,14 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of performance in real-world scenarios.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
 
-- **Key Features**:
-  - Synthetic data generation for enterprise knowledge bases.
-  - Evaluation framework for semantic search, information retrieval, and LLM-based QA.
-  - Supports Python-based RAG pipelines with modular evaluation metrics.
+- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA testing across enterprise knowledge bases, with Python-based tooling for reproducibility.
 
-- **Scope**: Covers enterprise search, LLM evaluation, and generative AI applications, with a focus on internal document retrieval and synthetic data augmentation.
+- **Scope**: Covers 19 technical topics (e.g., `llm-evaluation`, `semantic-search`) and supports metrics for retrieval quality, generative accuracy, and end-to-end RAG pipeline efficiency.
 
 ## Why It Matters
 

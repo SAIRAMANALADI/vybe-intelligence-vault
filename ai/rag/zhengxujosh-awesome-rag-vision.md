@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-10T03:24:45.512544+05:30'
+collected_at: '2026-08-10T08:11:43.762683+05:30'
 published_at: '2026-07-15T09:29:13Z'
 tags:
-- dataset
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 339
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-10T03:24:45.512544+05:30'
-last_seen: '2026-08-10T03:24:45.512544+05:30'
-last_checked: '2026-08-10T03:24:45.512544+05:30'
+first_seen: '2026-08-10T08:11:43.762683+05:30'
+last_seen: '2026-08-10T08:11:43.762683+05:30'
+last_checked: '2026-08-10T08:11:43.762683+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models (VLMs), and cross-modal retrieval methods.
-
-- **Multimodal Integration Focus**: Highlights cutting-edge approaches that combine **visual and textual data** for enhanced RAG pipelines, such as **image-text retrieval**, **vision-language pretraining**, and **context-aware visual question answering (VQA)**.
-
-- **Research & Implementation Hub**: Provides structured links to **papers, frameworks, datasets, and tools** (e.g., CLIP, BLIP, Flamingo, LLaVA) for implementing RAG in vision-centric applications, with emphasis on **scalability, efficiency, and real-world deployment**.
+*   Aggregates advanced Retrieval Augmented Generation (RAG) methodologies tailored for Computer Vision applications.
+*   Catalogs techniques integrating external knowledge retrieval with generative models for visual data processing.
+*   Provides a curated resource for research into multimodal RAG architectures leveraging visual context.
 
 ## Why It Matters
 
