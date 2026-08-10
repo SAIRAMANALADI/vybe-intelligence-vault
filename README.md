@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 106,866 files</p>
-        <p><b>Last Update:</b> 2026-08-11 01:32 IST</p>
+        <p><b>Last Update:</b> 2026-08-11 02:17 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,28 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](ai/community/kinney-drugs-pulls-back-ai-phone-assistant-after-h.md)** • <kbd>+102 pts</kbd> • Rank: <kbd>+5</kbd>
-- 🔼 **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)** • <kbd>+97 pts</kbd>
-- 🔼 **[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](ai/community/mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r.md)** • <kbd>+52 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](ai/community/exploring-claude-gpt-knowledge-cutoffs-and-pre-tra.md)** • <kbd>+37 pts</kbd>
-- 🔼 **[Control Your Online Safety and Privacy - Google Safety Center](ai/resources/control-your-online-safety-and-privacy-google-safe.md)** • Rank: <kbd>+2154</kbd>
+- 🔼 **[Google DeepMind - YouTube](ai/resources/google-deepmind-youtube.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[GitHub Status](ai/rag/github-status.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[SRI Hash Generator](ai/resources/sri-hash-generator.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub](ai/resources/mdn-content.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[gradio-app/gradio](ai/resources/gradio-app-gradio.md)** • Rank: <kbd>+4</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
 - 🆕 **[Tail-call optimization in C is relatively recent (2025)](ai/community/tail-call-optimization-in-c-is-relatively-recent.md)** • Score: `99`
-- 🆕 **[Letter to Governor Abbott on responsible AI infrastructure in Texas](ai/community/letter-to-governor-abbott-on-responsible-ai-infras.md)** • Score: `58`
-- 🆕 **[Humanising LLM Outputs Is Dumb](ai/community/humanising-llm-outputs-is-dumb.md)** • Score: `53`
-- 🆕 **[The Tragedy of the Cognitive Commons](ai/community/arxiv-2607-29380.md)** • Score: `48`
-- 🆕 **[Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](ai/community/launch-hn-stoa-markets-yc-s26-a-marketplace-for-gp.md)** • Score: `44`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Over 181,000 AI meeting recordings left wide open in note taking app](ai/community/over-181000-ai-meeting-recordings-left-wide-open-i.md)**
-- 💤 **[Show HN: Voice driven murder mystery, Interview AI suspects with your voice](ai/community/show-hn-voice-driven-murder-mystery-interview-ai-s.md)**
-- 💤 **['Pervert glasses': Backlash against Meta's smart glasses grows](ai/community/pervert-glasses-backlash-against-meta-s-smart-glas.md)**
-- 💤 **[OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300](ai/community/openai-s-new-device-will-be-hockey-puck-sized-and.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
