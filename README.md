@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-176%2C938-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-106%2C807-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--10-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **176,938 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **106,807 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,162</p>
-        <p><b>Active:</b> 18,619 | <b>Inactive:</b> 543</p>
+        <p><b>Resources tracked:</b> 18,158</p>
+        <p><b>Active:</b> 17,615 | <b>Inactive:</b> 543</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 71,428</p>
+        <p><b>Archive Files:</b> 2,257</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 176,938 files</p>
-        <p><b>Last Update:</b> 2026-08-10 22:05 IST</p>
+        <p><b>Total Vault Size:</b> 106,807 files</p>
+        <p><b>Last Update:</b> 2026-08-10 22:37 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -214,7 +214,7 @@ score_threshold: 0.65
 - 🔼 **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)** • <kbd>+103 pts</kbd> • Rank: <kbd>+1</kbd>
 - 🔼 **[Show HN: Voice driven murder mystery, Interview AI suspects with your voice](ai/community/show-hn-voice-driven-murder-mystery-interview-ai-s.md)** • <kbd>+34 pts</kbd>
 - 🔼 **[Tail-call optimization in C is relatively recent](ai/community/tail-call-optimization-in-c-is-relatively-recent.md)** • <kbd>+29 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[youtube/api-samples](ai/resources/youtube-api-samples.md)** • Rank: <kbd>+1938</kbd>
+- 🔼 **[youtube/api-samples](ai/resources/youtube-api-samples.md)** • Rank: <kbd>+1939</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
