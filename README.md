@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-176%2C748-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-106%2C675-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--10-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **176,748 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **106,675 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,119</p>
-        <p><b>Active:</b> 18,583 | <b>Inactive:</b> 536</p>
+        <p><b>Resources tracked:</b> 18,108</p>
+        <p><b>Active:</b> 17,572 | <b>Inactive:</b> 536</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 71,362</p>
+        <p><b>Archive Files:</b> 2,259</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 176,748 files</p>
-        <p><b>Last Update:</b> 2026-08-10 13:57 IST</p>
+        <p><b>Total Vault Size:</b> 106,675 files</p>
+        <p><b>Last Update:</b> 2026-08-10 14:56 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,20 +210,16 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[How I use LLMs to learn complex topics](ai/community/how-i-use-llms-to-learn-complex-topics.md)** • <kbd>+91 pts</kbd>
-- 🔼 **[Show HN: Voice driven murder mystery, Interview AI suspects with your voice](ai/community/show-hn-voice-driven-murder-mystery-interview-ai-s.md)** • <kbd>+42 pts</kbd>
-- 🔼 **[The tragedy of the commons, AI edition](ai/community/the-tragedy-of-the-commons-ai-edition.md)** • <kbd>+20 pts</kbd>
-- 🔼 **[Tuxedo No. 2 – Cocktail recipes](ai/community/tuxedo-no-2-cocktail-recipes.md)** • <kbd>+15 pts</kbd>
-- 🔼 **[Google Accessibility Help](ai/resources/google-accessibility-help.md)** • Rank: <kbd>+4044</kbd>
+- 🔼 **[Report Content for Legal Reasons - Legal Help](ai/resources/report-content-for-legal-reasons-legal-help.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Google Cloud Privacy Notice](ai/rag/google-cloud-privacy-notice.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Find & control your Web & App Activity - Computer - Google Search Help](ai/resources/find-control-your-web-app-activity-computer-google.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Google Analytics opt-out browser add-on - Analytics Help](ai/resources/google-analytics-opt-out-browser-add-on-analytics.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Safeguarding your data - Analytics Help](ai/rag/safeguarding-your-data-analytics-help.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)** • Score: `123`
-- 🆕 **[The Philippines' big offshoring industry is growing despite AI](ai/community/the-philippines-big-offshoring-industry-is-growing.md)** • Score: `35`
-- 🆕 **[Report Content for Legal Reasons - Legal Help](ai/resources/report-content-for-legal-reasons-legal-help.md)** • Score: `0`
-- 🆕 **[Google Dashboard](ai/resources/google-dashboard.md)** • Score: `0`
-- 🆕 **[Get extra features on YouTube TV with 4K Plus - Computer - YouTube TV Help](ai/resources/get-extra-features-on-youtube-tv-with-4k-plus-comp.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
