@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn
 hn_url: https://news.ycombinator.com/item?id=49234675
-score: 517
+score: 608
 author: laurentiurad
-comments_count: 290
+comments_count: 361
 published_at: '2026-08-10T00:46:49+05:30'
-collected_at: '2026-08-10T10:29:12.643440+05:30'
+collected_at: '2026-08-10T13:39:18.471583+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:how-i-use-llms-to-learn-complex-topics
 first_seen: '2026-08-10T03:22:46.488265+05:30'
-last_seen: '2026-08-10T10:29:12.643440+05:30'
-last_checked: '2026-08-10T10:29:12.643440+05:30'
+last_seen: '2026-08-10T13:39:18.471583+05:30'
+last_checked: '2026-08-10T13:39:18.471583+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by laurentiurad. Score: 517, Comments: 290.
+Hacker News story by laurentiurad. Score: 608, Comments: 361.
 Original Link: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: laurentiurad
-- Score: 517 Upvotes
-- Comments: 290 Discussions
+- Score: 608 Upvotes
+- Comments: 361 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49234675
 - Original Article: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn
 

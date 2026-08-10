@@ -4,26 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-10T10:31:08.202167+05:30'
-published_at: '2026-08-10T03:19:30Z'
+collected_at: '2026-08-10T13:40:21.280770+05:30'
+published_at: '2026-08-10T07:24:40Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - meta-ai
 - models
 - python
 - rag
-stars: 10204
+stars: 10209
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-10T10:31:08.202167+05:30'
-last_seen: '2026-08-10T10:31:08.202167+05:30'
-last_checked: '2026-08-10T10:31:08.202167+05:30'
+first_seen: '2026-08-10T13:40:21.280770+05:30'
+last_seen: '2026-08-10T13:40:21.280770+05:30'
+last_checked: '2026-08-10T13:40:21.280770+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: Provides a full-stack technical reference for Retrieval-Augmented Generation (RAG) applications, covering architecture, implementation, and deployment with modern frameworks (LangChain, LlamaIndex).
+- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, integrating multiple frameworks (LangChain, LlamaIndex) and tools (Milvus, Neo4j) for AI application development.
 
-- **Multi-Model & Tool Integration**: Demonstrates integration with cutting-edge LLMs (DeepSeek, Kimi-K2) and vector databases (Milvus), alongside graph-based (Neo4j) and multimodal RAG techniques.
+- **Multi-Model & Multimodal Support**: Focuses on advanced RAG techniques, including deep learning models (DeepSeek, Kimi-K2), embedding strategies, and multimodal data processing for enhanced LLM performance.
 
-- **Practical Implementation**: Includes hands-on Python-based examples and benchmarks, optimized for production-grade RAG pipelines with performance considerations and scalability.
+- **Practical Implementation in Python**: Provides hands-on code examples and best practices for deploying RAG systems, optimized for scalability and real-world AI applications.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 10204
-- Forks: 5087
+- Stars: 10209
+- Forks: 5089
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-08-10T03:19:30Z
+- Last Updated: 2026-08-10T07:24:40Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-07-29T11:43:11Z

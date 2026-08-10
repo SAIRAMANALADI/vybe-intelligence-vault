@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-08-10T03:23:47.146796+05:30'
-collected_at: '2026-08-10T03:23:47.146808+05:30'
+published_at: '2026-08-10T13:40:32.737630+05:30'
+collected_at: '2026-08-10T13:40:32.737643+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-08-10T03:23:47.146808+05:30'
-last_seen: '2026-08-10T03:23:47.146808+05:30'
-last_checked: '2026-08-10T03:23:47.146808+05:30'
+first_seen: '2026-08-10T13:40:32.737643+05:30'
+last_seen: '2026-08-10T13:40:32.737643+05:30'
+last_checked: '2026-08-10T13:40:32.737643+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via token usage strategies), vector database storage (e.g., Supabase), and retrieval-augmented generation with advanced strategies like hybrid search (dense + sparse retrieval) and query expansion.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings via vector DB like Supabase) with generative models (LangChain) for contextual augmentation, optimizing chunking strategies and embedding models for precision.
 
-- **Production Optimization**: Key considerations involve caching strategies, load balancing across multiple models, deployment via Cloudflare Workers, and observability via Sentry integration with performance metrics tracking (e.g., latency breakdown, retrieval quality).
+- **Production Optimization**: Implements hybrid search (dense + sparse retrieval), query expansion, caching, and load balancing across multiple models; deploys via Cloudflare Workers with latency benchmarks and cost-performance trade-offs.
 
-- **Advanced Patterns & Troubleshooting**: Supports multi-modal RAG (images/PDFs), conversational memory, and addresses common issues like hallucinations (prevented via retrieval grounding), high latency (mitigated via hybrid search), and inconsistent responses (resolved via chunking optimization).
+- **Observability & Scalability**: Integrates Sentry for monitoring, enforces token usage limits, and supports multi-modal RAG (text/images/PDFs) with conversational memory, while addressing hallucinations and security/privacy constraints.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T03:23:47.146796+05:30
+- Published: 2026-08-10T13:40:32.737630+05:30
 
 ## Related Tags
 

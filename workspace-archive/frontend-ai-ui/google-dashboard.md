@@ -2,7 +2,7 @@
 title: Google Dashboard
 archive_category: frontend-ai-ui
 source_category: ai/resources
-source_url: https://myaccount.google.com/dashboard
+source_url: https://myaccount.google.com/dashboard?utm_source=pp
 resource_id: blog:google-dashboard
 local_vault_path: ai/resources/google-dashboard.md
 quality_score: 70
@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Endpoints**: Google Account access via `https://myaccount.google.com/` and `https://accounts.google.com/ServiceLogin` with OAuth 2.0 parameters (`passive=1209600`, `osid=1`, `continue`, `followup`, `ec=GAZAwAE`).
-
-- **Session Management**: Persistent session handling with `passive=1209600` (2-week idle timeout) and post-authentication redirect to dashboard (`/intro/dashboard`).
-
-- **UI Assets**: Static sign-in card images hosted on `https://www.gstatic.com/identity/boq/account
+- **Authentication Flow**: Uses OAuth 2.0 with `passive=1209600` (2-week session persistence) and `osid=1` (OpenID Connect) for secure sign-in.
+- **Session Management**: Redirects via `continue` and `followup` parameters to maintain state across authentication steps.
+- **UI Components**: Serves static assets (e.g., `signincard_dashboard_*.png`) from `gstatic.com` for consistent rendering across devices.
 
 ## Use Cases
 
@@ -44,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://myaccount.google.com/dashboard
+Original source URL: https://myaccount.google.com/dashboard?utm_source=pp
 
 ## Local Vault File
 

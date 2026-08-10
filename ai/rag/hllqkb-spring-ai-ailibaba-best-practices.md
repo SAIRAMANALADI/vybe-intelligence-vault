@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-08-10T10:32:08.239282+05:30'
+collected_at: '2026-08-10T13:41:21.240392+05:30'
 published_at: '2026-07-25T03:18:55Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- reddit
 stars: 36
 language: Java
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-08-10T10:32:08.239282+05:30'
-last_seen: '2026-08-10T10:32:08.239282+05:30'
-last_checked: '2026-08-10T10:32:08.239282+05:30'
+first_seen: '2026-08-10T13:41:21.240392+05:30'
+last_seen: '2026-08-10T13:41:21.240392+05:30'
+last_checked: '2026-08-10T13:41:21.240392+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of AI Q&A Systems**: Demonstrates Stream-SSE (Server-Sent Events) for real-time AI responses, Agent-based intelligent agents, and RAG (Retrieval-Augmented Generation) with knowledge graphs for enhanced contextual understanding.
-
-- **Multi-Modal AI Capabilities**: Supports function calls, historical message management, image generation (e.g., via diffusion models), and image understanding (OCR/visual Q&A) using embedding models and vector databases.
-
-- **Java-Based AI Integration**: Leverages Spring AI with Alibaba Cloud services, featuring embedding models, vector database (e.g., Milvus/Weaviate), and RAG pipelines for scalable, production-grade AI applications.
+- **Architecture**: Implements AI Q&A system with SSE streaming, Agent-based intelligence, and knowledge graph RAG using Spring AI and Alibaba Cloud services.
+- **Features**: Supports function calling, historical message management, image generation/understanding, embedding/vector database integration, and RAG pipelines.
+- **Tech Stack**: Java-based, leveraging Alibaba Cloud AI services, vector databases, and Spring AI framework.
 
 ## Why It Matters
 

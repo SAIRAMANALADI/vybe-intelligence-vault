@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-08-10T10:31:14.902828+05:30'
-collected_at: '2026-08-10T10:31:14.902842+05:30'
+published_at: '2026-08-10T13:40:28.399525+05:30'
+collected_at: '2026-08-10T13:40:28.399535+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-08-10T10:31:14.902842+05:30'
-last_seen: '2026-08-10T10:31:14.902842+05:30'
-last_checked: '2026-08-10T10:31:14.902842+05:30'
+first_seen: '2026-08-10T13:40:28.399535+05:30'
+last_seen: '2026-08-10T13:40:28.399535+05:30'
+last_checked: '2026-08-10T13:40:28.399535+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: Web data extraction API providing structured markdown conversion, LLM-friendly text aggregation (`llms.txt`), and deep research endpoints for dynamic site data collection in RAG pipelines.
+- **Firecrawl**: Web data extraction API enabling structured markdown conversion, LLM-friendly dataset generation (`llms.txt`), and dynamic site crawling via REST endpoints for RAG pipeline enrichment.
 
-- **RAGFlow**: Open-source RAG engine with deep document parsing (tables, layouts) via visual interface, GraphRAG support for knowledge graphs, and dual storage backends (Elasticsearch/Infinity) for complex document retrieval.
+- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables), GraphRAG support, and visual interface for structured data extraction and knowledge graph construction.
 
-- **Milvus**: Cloud-native vector database optimized for ANN search, offering hybrid retrieval (vector + scalar filtering), multi-modal support, and horizontal scalability for large-scale RAG deployments with enterprise-grade consistency.
+- **Milvus**: Scalable vector database optimized for ANN similarity search, supporting hybrid queries (vector + scalar filtering) and multi-modal embeddings for high-performance RAG deployments.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:31:14.902828+05:30
+- Published: 2026-08-10T13:40:28.399525+05:30
 
 ## Related Tags
 

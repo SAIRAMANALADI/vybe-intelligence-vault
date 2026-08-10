@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-08-10T10:34:08.345578+05:30'
+collected_at: '2026-08-10T13:43:21.435906+05:30'
 published_at: '2026-08-07T17:28:51Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
+- workflows
 stars: 616
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-08-10T10:34:08.345578+05:30'
-last_seen: '2026-08-10T10:34:08.345578+05:30'
-last_checked: '2026-08-10T10:34:08.345578+05:30'
+first_seen: '2026-08-10T13:43:21.435906+05:30'
+last_seen: '2026-08-10T13:43:21.435906+05:30'
+last_checked: '2026-08-10T13:43:21.435906+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: MLGym is a Python-based framework designed to advance AI research agents by providing a modular, scalable, and reproducible environment for training and evaluating reinforcement learning (RL) and machine learning (ML) algorithms.
+- **Framework Overview**: MLGym is a Python-based framework designed to advance AI research agents by providing a modular and scalable environment for training and evaluating reinforcement learning (RL) and machine learning (ML) algorithms.
 
-- **Benchmark Suite**: Includes a comprehensive benchmark suite to standardize evaluation of AI research agents across diverse tasks, enabling fair comparison and reproducibility in ML research.
+- **Benchmark Suite**: Includes a comprehensive benchmark suite to standardize evaluation across tasks, enabling reproducible and comparable results for AI research agents in diverse environments.
 
-- **Key Features**: Supports distributed training, integrates with popular ML libraries (e.g., PyTorch, JAX), and offers tools for experiment tracking, hyperparameter optimization, and automated reporting.
+- **Modular Architecture**: Features a highly modular architecture with configurable components (e.g., environments, agents, trainers) to support rapid prototyping and experimentation in AI research workflows.
 
 ## Why It Matters
 

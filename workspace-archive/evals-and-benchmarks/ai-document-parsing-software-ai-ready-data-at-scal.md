@@ -2,13 +2,13 @@
 title: 'AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex'
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
+source_url: https://www.llamaindex.ai/llamaparse
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
 local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Supports 90+ formats** with layout-aware parsing, multimodal extraction (tables/charts/images), and granular control via different parsing modes for cost-accuracy optimization.
+- **Layout-aware parsing** with support for 90+ formats, including headers, footers, split sections, tables, charts, handwriting, checkboxes, and images, converting them into clean markdown for AI processing.
 
-- **Enterprise-grade scalability** with multilingual support (100+ languages), local/cloud deployment, high concurrency, and dedicated customer success for large-scale document processing.
+- **Multimodal and multilingual support** with granular parsing modes for cost-accuracy optimization, enterprise-grade scalability (1B+ documents processed), and compatibility with 100+ languages.
 
-- **Proven accuracy** in parsing complex documents (e.g., technical docs, invoices, healthcare forms) with structured outputs, v
+- **Developer-focused SDKs** (TypeScript, Python) with live notebooks, examples, and workflo
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
+Original source URL: https://www.llamaindex.ai/llamaparse
 
 ## Local Vault File
 

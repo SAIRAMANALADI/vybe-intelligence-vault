@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-08-10T10:32:53.274146+05:30'
+collected_at: '2026-08-10T13:42:06.300399+05:30'
 published_at: '2026-07-26T09:24:24Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-08-10T10:32:53.274146+05:30'
-last_seen: '2026-08-10T10:32:53.274146+05:30'
-last_checked: '2026-08-10T10:32:53.274146+05:30'
+first_seen: '2026-08-10T13:42:06.300399+05:30'
+last_seen: '2026-08-10T13:42:06.300399+05:30'
+last_checked: '2026-08-10T13:42:06.300399+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) that mimics human-like stateful reasoning for long narrative comprehension, leveraging structured memory hierarchies to maintain context coherence.
+- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long-form narrative reasoning with structured memory hierarchies.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to handle extended, multi-turn narratives, enabling the model to retain and utilize prior interactions for improved contextual understanding and response generation.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers for enhanced reasoning.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in the AAAI 2026 conference, emphasizing its novel integration of cognitive memory principles with RAG for enhanced reasoning in complex, state-dependent scenarios.
+- **AAAI 2026 Poster Submission**: Proposes a novel approach to long-context reasoning in RAG systems, validated through experimental benchmarks demonstrating superior performance in narrative consistency and memory retention compared to traditional RAG models.
 
 ## Why It Matters
 

@@ -3,9 +3,9 @@ title: Google Cloud Privacy Notice
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://cloud.google.com/terms/cloud-privacy-notice
-published_at: '2026-08-04T17:17:21.395352+05:30'
-collected_at: '2026-08-04T17:17:21.395367+05:30'
+source_url: https://cloud.google.com/terms/cloud-privacy-notice?hl=en_US
+published_at: '2026-08-10T13:50:31.931285+05:30'
+collected_at: '2026-08-10T13:50:31.931299+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-cloud-privacy-notice
-first_seen: '2026-08-04T17:17:21.395367+05:30'
-last_seen: '2026-08-04T17:17:21.395367+05:30'
-last_checked: '2026-08-04T17:17:21.395367+05:30'
+first_seen: '2026-08-10T13:50:31.931299+05:30'
+last_seen: '2026-08-10T13:50:31.931299+05:30'
+last_checked: '2026-08-10T13:50:31.931299+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Data Definition & Processing Scope**: Service Data includes account info (usernames, contact details), billing records, cloud configurations, usage metrics (IPs, device IDs), and support communications—exclusively for Cloud Services (GCP, Workspace, etc.). Processing excludes Customer/Partner Data, governed by separate DPAs.
+- **Service Data Definition & Scope**: Service Data includes personal information collected by Google during Cloud Services provision (e.g., account details, billing records, usage metrics, technical logs) but excludes Customer/Partner Data; processing is governed by the [Cloud Data Processing Addendum](https://cloud.google.com/terms/data-processing-addendum/).
 
-- **Global Data Handling & Security**: Service Data is processed across global data centers (EU/UK/Switzerland compliance via legal frameworks) with encryption (at rest/transit), role-based access controls, and automated threat detection. Third-party sharing is restricted to admin access, legal requests, or user-consented integrations.
+- **Processing Purposes & Methods**: Service Data is processed for service delivery, security, legal compliance, and optimization via automated algorithms, manual reviews, and aggregation; transfers outside EEA/UK/Switzerland comply with [Google’s privacy frameworks](https://policies.google.com/privacy/frameworks).
 
-- **Retention & User Control**: Retention periods vary (default 180 days, extended for security/fraud cases). Users/admins can export data via Google Cloud tools; deletion/anonymization occurs post-retention. Legal/merger scenarios preserve confidentiality per policy.
+- **Data Retention & Security Controls**: Service Data is retained up to 180 days (longer for security/fraud prevention) and protected via encryption (at rest/transit), role-based access, and third-party confidentiality obligations; shared only for legal compliance, admin access, or third-party services with user consent.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T17:17:21.395352+05:30
+- Published: 2026-08-10T13:50:31.931285+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://cloud.google.com/terms/cloud-privacy-notice
+Original source: https://cloud.google.com/terms/cloud-privacy-notice?hl=en_US

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-08-10T10:32:48.262124+05:30'
+collected_at: '2026-08-10T13:42:01.347320+05:30'
 published_at: '2026-08-05T15:22:57Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-08-10T10:32:48.262124+05:30'
-last_seen: '2026-08-10T10:32:48.262124+05:30'
-last_checked: '2026-08-10T10:32:48.262124+05:30'
+first_seen: '2026-08-10T13:42:01.347320+05:30'
+last_seen: '2026-08-10T13:42:01.347320+05:30'
+last_checked: '2026-08-10T13:42:01.347320+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with integration examples for Llama2, OpenAI, and Anyscale models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs and optimizing inference performance via Ray’s distributed compute framework.
-- **End-to-End Deployment**: Provides templates for deploying LLM applications in production, covering retrieval, generation, and serving components with modular Ray-based architecture.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating LLMs (e.g., Llama2) with vector databases and APIs (OpenAI/Anyscale) for scalable inference.
+
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) with Ray’s distributed training tools, emphasizing low-latency serving and cost-efficiency in cloud/on-prem environments.
+
+- **Deployment & Monitoring**: Provides end-to-end deployment templates for LLMs using Ray Serve, with examples for batch/real-time inference, logging, and performance benchmarking in production settings.
 
 ## Why It Matters
 

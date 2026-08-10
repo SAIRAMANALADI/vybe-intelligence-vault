@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-10T10:31:28.370882+05:30'
+collected_at: '2026-08-10T13:40:41.203532+05:30'
 published_at: '2026-08-10T02:03:32Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1549
 language: JavaScript
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-10T10:31:28.370882+05:30'
-last_seen: '2026-08-10T10:31:28.370882+05:30'
-last_checked: '2026-08-10T10:31:28.370882+05:30'
+first_seen: '2026-08-10T13:40:41.203532+05:30'
+last_seen: '2026-08-10T13:40:41.203532+05:30'
+last_checked: '2026-08-10T13:40:41.203532+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: JavaScript-based RAG pipeline using `node-llama-cpp` for local LLM inference, emphasizing transparency by avoiding proprietary APIs or black-box components.
-- **Core Components**: Demonstrates end-to-end workflow including embeddings generation, vector search (likely via cosine similarity), retrieval-augmented generation (RAG), and context-augmented prompting.
-- **Educational Focus**: Provides a hands-on tutorial for building RAG systems from scratch, covering agents, chatbot integration, and the underlying mechanics of retrieval pipelines.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+
+- **JavaScript/Node.js Stack**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and vector operations, ensuring no proprietary dependencies.
+
+- **Modular Pipeline**: Implements a complete RAG pipeline with modular components for embedding generation, vector storage/retrieval (e.g., FAISS or similar), and context-augmented prompt engineering for LLM inference.
 
 ## Why It Matters
 

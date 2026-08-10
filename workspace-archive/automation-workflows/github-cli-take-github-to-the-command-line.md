@@ -14,7 +14,6 @@ tags:
 - agents
 - producthunt
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub CLI (`gh`)** integrates GitHub workflows into the terminal, enabling native CLI operations for issues, PRs, releases, and repository management via commands like `gh issue list`, `gh pr create`, and `gh release create`.
-- **Cross-platform support** is provided via package managers (Homebrew, WinGet, apt, dnf, zypper) and direct binary downloads for macOS, Windows, and Linux.
-- **Extensibility** includes GitHub Copilot CLI integration, API scripting, and custom command aliases (e.g., `
+- **GitHub CLI (`gh`)** integrates GitHub workflows directly into the terminal, enabling native command-line interactions with repositories, issues, pull requests, releases, and checks without context switching.
+
+- **Cross-platform installation** supported via package managers (Homebrew, WinGet, apt, dnf, zypper) or direct downloads (`.deb`, `.rpm`, `.msi`, `.zip`, `.tar.gz`), with version `2.97.0` as the latest stable release.
+
+- **Extensible features** include GitHub Copilot CLI integration, c
 
 ## Use Cases
 

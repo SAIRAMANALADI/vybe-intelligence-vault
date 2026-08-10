@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FlowiseAI/Flowise
-collected_at: '2026-08-10T10:34:28.354308+05:30'
-published_at: '2026-08-10T04:35:33Z'
+collected_at: '2026-08-10T13:43:41.404565+05:30'
+published_at: '2026-08-10T08:04:06Z'
 tags:
 - agents
 - frontend_ui
@@ -15,17 +15,17 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 55282
+stars: 55290
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-03-31T12:23:09Z'
-pushed_at: '2026-08-07T05:55:02Z'
+pushed_at: '2026-08-10T08:04:19Z'
 resource_id: github:flowiseai/flowise
-first_seen: '2026-08-10T10:34:28.354308+05:30'
-last_seen: '2026-08-10T10:34:28.354308+05:30'
-last_checked: '2026-08-10T10:34:28.354308+05:30'
+first_seen: '2026-08-10T13:43:41.404565+05:30'
+last_seen: '2026-08-10T13:43:41.404565+05:30'
+last_checked: '2026-08-10T13:43:41.404565+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code TypeScript framework for constructing AI agents and multi-agent systems with drag-and-drop workflows, leveraging LangChain for LLM orchestration and RAG pipelines.
+- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
 
-- **Multi-Model & Tool Integration**: Supports OpenAI, LangChain, and custom APIs, enabling dynamic agent interactions with tools, databases, and external services via modular node-based architecture.
+- **Agentic & Multi-Agent Systems**: Supports agentic AI, multi-agent collaboration, and workflow automation with RAG (Retrieval-Augmented Generation) for enhanced LLM capabilities.
 
-- **React-Based Frontend**: Built with React and TypeScript, offering a real-time visual editor for designing agent workflows, deployable as standalone chatbots or integrated into applications.
+- **Extensible & Scalable**: Built on Node.js with modular architecture, enabling integration with custom tools, APIs, and databases for enterprise-grade agentic workflows.
 
 ## Why It Matters
 
@@ -46,15 +46,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: FlowiseAI
-- Stars: 55282
-- Forks: 24871
+- Stars: 55290
+- Forks: 24870
 - Language: TypeScript
 - Topics: agentic-ai, agentic-workflow, agents, artificial-intelligence, chatbot, chatgpt, javascript, langchain, large-language-models, low-code, multiagent-systems, no-code, openai, rag, react, typescript, workflow-automation
-- Last Updated: 2026-08-10T04:35:33Z
+- Last Updated: 2026-08-10T08:04:06Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-03-31T12:23:09Z
-- Pushed At: 2026-08-07T05:55:02Z
+- Pushed At: 2026-08-10T08:04:19Z
 
 ## Possible Use Cases
 

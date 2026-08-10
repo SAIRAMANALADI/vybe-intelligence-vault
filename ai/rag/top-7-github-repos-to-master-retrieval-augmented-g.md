@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://aidailypost.com/news/7-top-github-repos-offering-tutorials-code-master-rag-system
-published_at: '2026-08-10T10:31:20.112127+05:30'
-collected_at: '2026-08-10T10:31:20.112139+05:30'
+published_at: '2026-08-10T13:40:32.814674+05:30'
+collected_at: '2026-08-10T13:40:32.814682+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-7-github-repos-to-master-retrieval-augmented-g
-first_seen: '2026-08-10T10:31:20.112139+05:30'
-last_seen: '2026-08-10T10:31:20.112139+05:30'
-last_checked: '2026-08-10T10:31:20.112139+05:30'
+first_seen: '2026-08-10T13:40:32.814682+05:30'
+last_seen: '2026-08-10T13:40:32.814682+05:30'
+last_checked: '2026-08-10T13:40:32.814682+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain** provides a modular Python/JS/TS framework for end-to-end RAG pipelines, integrating document loaders, text splitters, vector stores (FAISS), embeddings (OpenAI/Hugging Face), and LLM chains (RetrievalQA) with built-in agent workflows and multi-provider support.
+- **LangChain** provides a modular Python/JS/TS framework for end-to-end RAG pipelines, integrating document loaders, text splitters, vector stores (e.g., FAISS), embeddings (OpenAI/Hugging Face), and LLM chains (e.g., `RetrievalQA`) with built-in agent workflows and multi-provider support.
 
-- **Top RAG GitHub repos** (e.g., `RAG_Techniques`, `LangChain-Chroma`, `FastRAG`) offer battle-tested implementations addressing real-world challenges like chunking strategies, embedding failures, and retrieval optimization, bridging theory-to-practice gaps in production systems.
+- **RAG-Techniques** (10k+ GitHub stars) offers curated tutorials and code for advanced RAG optimization, including chunking strategies, embedding failure handling, retrieval tuning, and hybrid search implementations across databases (e.g., Weaviate, Pinecone).
 
-- **Core RAG concepts** (retrieval + augmentation) are stabilizing despite tooling churn; repositories emphasize practical patterns (e.g., vector DB integration, prompt tuning, memory management) to ship functional systems while future-proofing against evolving frameworks.
+- **Minimalist RAG repos** (e.g., `fastRAG`, `RAGatouille`) focus on lightweight, production-ready implementations with optimized retrieval (e.g., ColBERTv2) and generation workflows, emphasizing low-latency inference and cost-efficient scaling for specific use cases.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:31:20.112127+05:30
+- Published: 2026-08-10T13:40:32.814674+05:30
 
 ## Related Tags
 

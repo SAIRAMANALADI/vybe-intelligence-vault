@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/pinecone-io
-published_at: '2026-08-09T21:29:15.799040+05:30'
-collected_at: '2026-08-09T21:29:15.799055+05:30'
+published_at: '2026-08-10T13:47:00.871812+05:30'
+collected_at: '2026-08-10T13:47:00.871825+05:30'
 tags:
 - agents
-- hackernews
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:pinecone-github
-first_seen: '2026-08-09T21:29:15.799055+05:30'
-last_seen: '2026-08-09T21:29:15.799055+05:30'
-last_checked: '2026-08-09T21:29:15.799055+05:30'
+first_seen: '2026-08-10T13:47:00.871825+05:30'
+last_seen: '2026-08-10T13:47:00.871825+05:30'
+last_checked: '2026-08-10T13:47:00.871825+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Specialized Vector Database**: Pinecone is a purpose-built vector database designed to enable AI applications to perform similarity search and retrieval-augmented generation (RAG) with low-latency, high scalability, and real-time updates.
+- **Specialized Vector Database**: Pinecone is a managed vector database optimized for high-performance similarity search and retrieval-augmented generation (RAG) in AI applications, enabling scalable long-term memory for LLMs.
 
-- **Hybrid Search Capabilities**: Supports both exact and approximate nearest neighbor (ANN) search via configurable indexes (e.g., HNSW, IVF, or brute-force), optimized for high-dimensional vector embeddings (e.g., from models like BERT, CLIP, or LLMs).
+- **Multi-Language SDK Support**: Provides official client libraries in Python, TypeScript, Go, and Java, along with infrastructure-as-code support via a Terraform provider for declarative deployment.
 
-- **Managed Infrastructure & SDKs**: Offers fully managed cloud deployment with official client libraries in Python, TypeScript, Go, and Java, alongside Terraform support for infrastructure-as-code (IaC) provisioning.
+- **Enterprise-Grade Integrations**: Supports AI coding tools, MCP (Model Context Protocol), and sample applications/Notebooks for rapid prototyping, trusted by 9,000+ companies and 800,000+ developers.
 
 ## Why It Matters
 
@@ -38,12 +37,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T21:29:15.799040+05:30
+- Published: 2026-08-10T13:47:00.871812+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - rag
 - web-crawled
 - youtube

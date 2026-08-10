@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-10T10:32:13.254731+05:30'
+collected_at: '2026-08-10T13:41:26.264062+05:30'
 published_at: '2026-08-09T16:07:20Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 1341
@@ -20,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-10T10:32:13.254731+05:30'
-last_seen: '2026-08-10T10:32:13.254731+05:30'
-last_checked: '2026-08-10T10:32:13.254731+05:30'
+first_seen: '2026-08-10T13:41:26.264062+05:30'
+last_seen: '2026-08-10T13:41:26.264062+05:30'
+last_checked: '2026-08-10T13:41:26.264062+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive, community-maintained repository aggregating advanced techniques, tools, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
-
-- **Technical Scope**: Focuses on cutting-edge RAG methodologies, including hybrid retrieval (dense + sparse), adaptive retrieval, multi-modal RAG, and optimization techniques for improving factuality, context relevance, and computational efficiency in LLM-based systems.
-
-- **Dynamic Updates & Community**: Actively updated (last commit: 2026-08-09) with contributions from 92 forks and 1341 stars, reflecting ongoing advancements and collaborative research in RAG architectures, evaluation benchmarks, and deployment frameworks.
+- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), including embeddings, retrieval methods, and hybrid architectures.
+- **Technical Focus**: Covers cutting-edge topics such as RAG embeddings, retrieval optimization, and integration with LLMs for enhanced factual accuracy and context-aware generation.
+- **Community-Driven**: Actively maintained repository with frequent updates, fostering collaboration among researchers and practitioners in LLM-RAG applications.
 
 ## Why It Matters
 

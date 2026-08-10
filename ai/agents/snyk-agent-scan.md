@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/snyk/agent-scan
-collected_at: '2026-08-10T03:26:40.656926+05:30'
-published_at: '2026-08-09T18:48:48Z'
+collected_at: '2026-08-10T13:43:26.434037+05:30'
+published_at: '2026-08-10T07:15:41Z'
 tags:
 - agents
 - github-repo
 - python
-stars: 2895
+stars: 2897
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-04-07T14:31:26Z'
-pushed_at: '2026-08-08T00:52:08Z'
+pushed_at: '2026-08-10T07:55:11Z'
 resource_id: github:snyk/agent-scan
-first_seen: '2026-08-10T03:26:40.656926+05:30'
-last_seen: '2026-08-10T03:26:40.656926+05:30'
-last_checked: '2026-08-10T03:26:40.656926+05:30'
+first_seen: '2026-08-10T13:43:26.434037+05:30'
+last_seen: '2026-08-10T13:43:26.434037+05:30'
+last_checked: '2026-08-10T13:43:26.434037+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
-- **Features**: Supports static and dynamic analysis of agent frameworks, MCP protocol interactions, and skill implementations.
-- **Implementation**: Python-based tool with integration capabilities for CI/CD pipelines and agent runtime environments.
+*   Provides security scanning for AI agents and their associated skills.
+*   Targets vulnerability detection within Model Context Protocol (MCP) servers.
+*   Implemented in Python, focusing on security posture assessment for AI agent ecosystems.
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: snyk
-- Stars: 2895
-- Forks: 257
+- Stars: 2897
+- Forks: 258
 - Language: Python
 - Topics: agent, ai, mcp, modelcontextprotocol, security
-- Last Updated: 2026-08-09T18:48:48Z
+- Last Updated: 2026-08-10T07:15:41Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-07T14:31:26Z
-- Pushed At: 2026-08-08T00:52:08Z
+- Pushed At: 2026-08-10T07:55:11Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-10T10:32:53.302178+05:30'
+collected_at: '2026-08-10T13:42:06.395485+05:30'
 published_at: '2026-08-09T07:14:32Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-10T10:32:53.302178+05:30'
-last_seen: '2026-08-10T10:32:53.302178+05:30'
-last_checked: '2026-08-10T10:32:53.302178+05:30'
+first_seen: '2026-08-10T13:42:06.395485+05:30'
+last_seen: '2026-08-10T13:42:06.395485+05:30'
+last_checked: '2026-08-10T13:42:06.395485+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel **KDD 2026** framework where multiple agents collaboratively construct and query **graph-based memory structures** for enhanced **Retrieval-Augmented Generation (RAG)**.
+- **Memory-Based Multi-Agent Framework**: Introduces a novel **KDD 2026** system (`MemGraphRAG`) leveraging **memory-driven multi-agent collaboration** for **Graph Retrieval-Augmented Generation (GraphRAG)**, enabling dynamic knowledge graph construction and retrieval.
 
-- **Graph Construction & Ontology Integration**: Implements dynamic **ontology-driven graph construction** to model relationships between entities, enabling efficient **multi-hop reasoning** and structured knowledge retrieval.
+- **Ontology-Guided Graph Construction**: Implements an **ontology-aware pipeline** to autonomously build and refine **semantic graphs** from unstructured data, integrating **agent-memory** for adaptive knowledge representation.
 
-- **Python Implementation**: Provides an open-source **Python-based** toolkit with modular components for **agent-memory management**, **graph retrieval**, and **ontology alignment**, optimized for scalability in knowledge-intensive tasks.
+- **Python-Based Implementation**: Provides an open-source Python repository with **169+ stars**, featuring modular components for **graph construction, multi-agent coordination, and RAG integration**, last updated **2026-08-09**.
 
 ## Why It Matters
 

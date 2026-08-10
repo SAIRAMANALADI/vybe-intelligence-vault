@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on both mobile and desktop devices using real-world data (CrUX) and lab data, providing optimization suggestions.
-- **Scoring Metrics**: Utilizes Core Web Vitals (LCP, FID, CLS) and additional performance audits to generate a 0-100 score, highlighting areas for improvement.
-- **Optimization Recommendations**: Provides actionable insights (e.g., image compression, JavaScript minification, caching strategie
+- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on both mobile and desktop, providing optimization suggestions based on Core Web Vitals and other metrics.
+
+- **Scoring System**: Scores (0-100) are derived from Lighthouse audits, measuring metrics like First Contentful Paint (FCP), Largest Contentful Paint (LCP), and Cumulative Layout Shift (CLS).
+
+- **Optimization Recommendations**: Generates actionable insights (e.g., image compression, JavaScript min
 
 ## Use Cases
 

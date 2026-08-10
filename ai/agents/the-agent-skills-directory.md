@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://skills.sh
-published_at: '2026-08-10T10:37:37.433619+05:30'
-collected_at: '2026-08-10T10:37:37.433632+05:30'
+published_at: '2026-08-10T13:49:18.997183+05:30'
+collected_at: '2026-08-10T13:49:18.997198+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-agent-skills-directory
-first_seen: '2026-08-10T10:37:37.433632+05:30'
-last_seen: '2026-08-10T10:37:37.433632+05:30'
-last_checked: '2026-08-10T10:37:37.433632+05:30'
+first_seen: '2026-08-10T13:49:18.997198+05:30'
+last_seen: '2026-08-10T13:49:18.997198+05:30'
+last_checked: '2026-08-10T13:49:18.997198+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Top 3 Skills by Install Count**: `find-skills` (2.9M), `grill-me` (809.2K), `frontend-design` (759.4K), all hosted on `skills.sh` with varying 8W activity metrics.
-- **Dominant Publishers**: `mattpocock/skills` (12+ entries, e.g., `grill-with-docs`, `tdd`, `codebase-design`) and `microsoft/azure-skills` (10+ entries, e.g., `azure-ai`, `azure-rbac`) dominate the leaderboard with high install counts.
-- **Niche Specializations**: Skills like `hyperframes` (Heygen) and `caveman` (Julius Brussee) target specific domains (video generation, AI-assisted development), while `larksuite/cli` entries (e.g., `lark-markdown`, `lark-okr`) focus on productivity tooling with moderate adoption.
+- **Top 3 Skills by Install Count**: `find-skills` (2.9M), `grill-me` (810.2K), `frontend-design` (759.6K), all hosted on Vercel Labs, Matt Pocock, and Anthropic respectively.
+
+- **Dominant Publishers**: `mattpocock/skills` (15 skills, 7.6M total installs), `open.feishu.cn` (12 skills, 12.1M total installs), and `microsoft/azure-skills` (13 skills, 7.1M total installs) lead in skill distribution and cumulative installs.
+
+- **Emerging Categories**: High activity in AI/ML (`azure-ai`, `supabase-postgres-best-practices`), design systems (`frontend-design`, `ui-ux-pro-max`), and automation tools (`lark-approval`, `lark-okr`) with sub-500K but rapidly growing install bases.
 
 ## Why It Matters
 
@@ -43,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-10T10:37:37.433619+05:30
+- Published: 2026-08-10T13:49:18.997183+05:30
 
 ## Related Tags
 

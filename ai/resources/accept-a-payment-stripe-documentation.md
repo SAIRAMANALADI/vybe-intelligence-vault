@@ -3,19 +3,19 @@ title: Accept a payment | Stripe Documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://stripe.com/docs/payments/accept-a-payment?platform=react-native&ui=payment-sheet
-published_at: '2026-08-04T04:00:08.144547+05:30'
-collected_at: '2026-08-04T04:00:08.144563+05:30'
+source_url: https://stripe.com/docs/payments/accept-a-payment?platform=android&ui=payment-sheet
+published_at: '2026-08-10T13:48:48.090419+05:30'
+collected_at: '2026-08-10T13:48:48.090433+05:30'
 tags:
-- frontend_ui
+- producthunt
 - reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:accept-a-payment-stripe-documentation
-first_seen: '2026-08-04T04:00:08.144563+05:30'
-last_seen: '2026-08-04T04:00:08.144563+05:30'
-last_checked: '2026-08-04T04:00:08.144563+05:30'
+first_seen: '2026-08-10T13:48:48.090433+05:30'
+last_seen: '2026-08-10T13:48:48.090433+05:30'
+last_checked: '2026-08-10T13:48:48.090433+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration Components**: Stripe's React Native SDK (`@stripe/stripe-react-native`) requires server-side endpoints to interact with Stripe API (e.g., creating `PaymentIntent`, `Customer`, or `CustomerSession` objects) and client-side initialization via `StripeProvider` or `initStripe` with a publishable key.
+- **Integration Requirements**: Requires Stripe Android SDK (`com.stripe:stripe-android:23.14.0`) for client-side implementation and server-side endpoints to interact with Stripe API (e.g., creating `PaymentIntent`, `Customer`, or `CustomerSession`).
 
-- **Payment Flow**: The `PaymentSheet` (mobile) or `initPaymentSheet`/`presentPaymentSheet` (React Native) handles payment collection, requiring a `PaymentIntent` client secret, customer/account ID, and ephemeral key from the server to process transactions.
+- **Payment Flow**: Uses `PaymentIntent` to track payment state, with optional `Customer`/`Account` objects for saved payment methods; `CustomerSession` provides scoped access to sensitive customer data.
 
-- **Platform-Specific Requirements**: iOS requires a custom URL scheme for return URLs to handle app exits (e.g., banking authentication), configured via `Linking` and `handleURLCallback` in the Stripe SDK.
+- **PaymentSheet UI**: Android `PaymentSheet` class enables prebuilt checkout UI; `presentWithPaymentIntent()` displays the sheet, and `PaymentSheetResult` handles post-payment callbacks (e.g., success/failure).
 
 ## Why It Matters
 
@@ -37,15 +37,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-04T04:00:08.144547+05:30
+- Published: 2026-08-10T13:48:48.090419+05:30
 
 ## Related Tags
 
-- frontend_ui
+- producthunt
 - reddit
 - web-crawled
 - workflows
 
 ## Source
 
-Original source: https://stripe.com/docs/payments/accept-a-payment?platform=react-native&ui=payment-sheet
+Original source: https://stripe.com/docs/payments/accept-a-payment?platform=android&ui=payment-sheet

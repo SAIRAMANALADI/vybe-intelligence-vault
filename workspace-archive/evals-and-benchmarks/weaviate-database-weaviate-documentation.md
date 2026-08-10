@@ -6,7 +6,7 @@ source_url: https://weaviate.io/developers/weaviate
 resource_id: blog:weaviate-database-weaviate-documentation
 local_vault_path: ai/rag/weaviate-database-weaviate-documentation.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -16,6 +16,7 @@ tags:
 - hackernews
 - producthunt
 - rag
+- reddit
 - web-crawled
 - workflows
 selection_reason:
@@ -28,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Open-source vector database** storing both data objects and their vector embeddings for semantic search, hybrid search, and RAG workflows.
-- **Multi-deployment options**: Weaviate Cloud (managed), Docker (local), Kubernetes (scalable), and Embedded (Python/JS/TS).
-- **Ecosystem components**: Weaviate Cloud, Query Agent, Embeddings service, and third-party model integrations for AI-native applications.
+- **Open-source vector database**: Weaviate is an open-source vector database storing both data objects and their vector embeddings, enabling semantic search via vector similarity rather than keyword matching.
+
+- **Core capabilities**: Supports semantic/hybrid search, retrieval-augmented generation (RAG), and agent-driven workflows, leveraging vector embeddings for context-aware AI applications.
+
+- **Deployment options**: Available as self-hosted (Docker/Kubernetes) or managed cloud service (Wea
 
 ## Use Cases
 

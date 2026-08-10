@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TatarinBlack/ai-runtime-security-sandbox
-collected_at: '2026-08-10T10:32:38.233534+05:30'
+collected_at: '2026-08-10T13:41:51.234800+05:30'
 published_at: '2026-08-05T14:56:30Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-07-11T11:39:26Z'
 pushed_at: '2026-08-05T14:54:14Z'
 resource_id: github:tatarinblack/ai-runtime-security-sandbox
-first_seen: '2026-08-10T10:32:38.233534+05:30'
-last_seen: '2026-08-10T10:32:38.233534+05:30'
-last_checked: '2026-08-10T10:32:38.233534+05:30'
+first_seen: '2026-08-10T13:41:51.234800+05:30'
+last_seen: '2026-08-10T13:41:51.234800+05:30'
+last_checked: '2026-08-10T13:41:51.234800+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates runtime security risks in AI systems, including prompt injection, tool abuse, and excessive agent autonomy.
-- **Implementation**: Python-based sandbox environment for live testing and exploitation of AI runtime vulnerabilities.
-- **Last Updated**: August 5, 2026, with 35 stars and 24 forks on GitHub.
+- **Purpose**: Demonstrates live runtime security risks in AI systems, focusing on prompt injection, tool abuse, and excessive agent autonomy.
+- **Implementation**: Python-based sandbox environment simulating adversarial attacks on RAG chatbots.
+- **Metrics**: 35 stars, 24 forks; last updated 2026-08-05.
 
 ## Why It Matters
 

@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-08-10T10:32:13.273148+05:30'
-published_at: '2026-08-05T20:45:57Z'
+collected_at: '2026-08-10T13:41:26.285653+05:30'
+published_at: '2026-08-10T05:57:37Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- workflows
 stars: 1172
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-08-09T13:48:10Z'
+pushed_at: '2026-08-10T06:02:23Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-08-10T10:32:13.273148+05:30'
-last_seen: '2026-08-10T10:32:13.273148+05:30'
-last_checked: '2026-08-10T10:32:13.273148+05:30'
+first_seen: '2026-08-10T13:41:26.285653+05:30'
+last_seen: '2026-08-10T13:41:26.285653+05:30'
+last_checked: '2026-08-10T13:41:26.285653+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
-- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based implementation, including AZD templates for deployment and best practices for production-grade RAG systems.
-- **Scalable Architecture**: Designed for extensibility with modular components, supporting custom data sources, retrieval strategies, and LLM configurations while adhering to Azure’s enterprise-grade security and compliance standards.
+- **Architecture**: Implements **Retrieval-Augmented Generation (RAG)** pattern in Azure, leveraging **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A experiences.
+- **Components**: Includes **Python-based** solution with **AZD templates**, adhering to best practices for AI-driven applications.
+- **Features**: Supports **ChatGPT-style interactions** and **Q&A workflows**, optimized for Azure cloud deployment.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 641
 - Language: Python
 - Topics: ai-search, azd-templates, azure, azure-openai, openai
-- Last Updated: 2026-08-05T20:45:57Z
+- Last Updated: 2026-08-10T05:57:37Z
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-08-09T13:48:10Z
+- Pushed At: 2026-08-10T06:02:23Z
 
 ## Possible Use Cases
 

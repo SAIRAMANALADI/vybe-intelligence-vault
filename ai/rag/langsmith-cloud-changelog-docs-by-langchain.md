@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-08-10T10:36:23.374425+05:30'
-collected_at: '2026-08-10T10:36:23.374435+05:30'
+published_at: '2026-08-10T13:47:41.161599+05:30'
+collected_at: '2026-08-10T13:47:41.161612+05:30'
 tags:
 - agents
 - anthropic
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-08-10T10:36:23.374435+05:30'
-last_seen: '2026-08-10T10:36:23.374435+05:30'
-last_checked: '2026-08-10T10:36:23.374435+05:30'
+first_seen: '2026-08-10T13:47:41.161612+05:30'
+last_seen: '2026-08-10T13:47:41.161612+05:30'
+last_checked: '2026-08-10T13:47:41.161612+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Annotation & Experiment Enhancements**: LangSmith introduces public API endpoints for annotation queue items (add/list/update/delete/position/review) and improves dataset uploads (CSV/JSONL support, uppercase filenames). Legacy endpoints (v1 runs, sharing, datasets) are deprecated with a sunset date of January 31, 2027, and migration guidance provided.
+- **Annotation Queue & Dataset APIs**: Public API endpoints for annotation queue items (add/list/update/delete/count/position/review) now support run/thread queue items; CSV/JSONL dataset uploads now handle Windows browser-reported Content-Types and uppercase filenames; legacy endpoints (v1 runs, sharing, datasets/runs) deprecated with `Sunset: 2027-01-31` and migration guide links.
 
-- **Tracing & Feedback Improvements**: Trace exports now include a `feedbacks` column (JSON array of feedback entries), and negative feedback-key filters work correctly with optimized ClickHouse runs tables. PDF/document attachments render in full-width previews, and playground errors now display provider-specific messages instead of generic server errors.
+- **Tracing & Feedback Enhancements**: Trace detail panes use elevated backgrounds; bulk exports now support `feedbacks` column (JSON array of run feedback); negative feedback-key filters fixed for ClickHouse optimized runs; PDF/document attachments render in full-width preview; playground run errors now show provider-specific messages instead of generic 500s.
 
-- **LLM Gateway & Sandbox Updates**: LLM Gateway adds streaming execute requests for sandboxes (stdout/stderr via Server-Sent Events), enforces policy name validation, and improves credit purchase UX. Sandboxes now include the `langsmith` CLI by default, and self-hosted deployments authenticate sandbox commands via WebSocket with deployment service keys.
+- **LLM Gateway & Sandbox Updates**: LLM Gateway policies now enforce blank-name validation; usage spend chart shows top 12 spenders per bucket; sandboxes support streaming execute requests (Server-Sent Events) and include `langsmith` CLI v0.2.44; Gateway Credits purchase dialog displays fee-inclusive total and post-purchase balance.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:36:23.374425+05:30
+- Published: 2026-08-10T13:47:41.161599+05:30
 
 ## Related Tags
 

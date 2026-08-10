@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-10T10:32:58.265732+05:30'
+collected_at: '2026-08-10T13:42:11.338444+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 174
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-10T10:32:58.265732+05:30'
-last_seen: '2026-08-10T10:32:58.265732+05:30'
-last_checked: '2026-08-10T10:32:58.265732+05:30'
+first_seen: '2026-08-10T13:42:11.338444+05:30'
+last_seen: '2026-08-10T13:42:11.338444+05:30'
+last_checked: '2026-08-10T13:42:11.338444+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by supporting retrieval and generation over diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level).
+- **Multimodal & Multi-Granularity RAG**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans), leveraging unified indexing and retrieval mechanisms.
 
-- **ACL 2026 Oral Presentation**: The system is highlighted as an oral presentation at ACL 2026, indicating its novelty and significance in advancing multimodal retrieval-augmented generation (RAG) architectures.
+- **ACL 2026 Oral Contribution**: Introduces a novel framework with cross-modal retrieval strategies, dynamic granularity selection, and adaptive fusion techniques to optimize generation quality across heterogeneous corpora.
 
-- **Python-Based Implementation**: The framework is implemented in Python, leveraging modern AI/ML libraries for efficient multimodal embedding, retrieval, and generation workflows.
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for modality-specific encoders, retrieval pipelines, and generation integration, supporting extensibility for custom datasets and models.
 
 ## Why It Matters
 

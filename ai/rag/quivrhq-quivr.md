@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-10T10:32:33.242588+05:30'
+collected_at: '2026-08-10T13:41:46.320812+05:30'
 published_at: '2026-08-10T04:49:46Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-10T10:32:33.242588+05:30'
-last_seen: '2026-08-10T10:32:33.242588+05:30'
-last_checked: '2026-08-10T10:32:33.242588+05:30'
+first_seen: '2026-08-10T13:41:46.320812+05:30'
+last_seen: '2026-08-10T13:41:46.320812+05:30'
+last_checked: '2026-08-10T13:41:46.320812+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-*   Provides an opinionated RAG framework for GenAI integration, abstracting underlying RAG complexities for application developers.
-*   Features LLM and vector store agnosticism, supporting diverse models (e.g., GPT4, Groq, Llama) and databases (e.g., PGVector, Faiss).
-*   Built primarily with Python, designed for Docker deployment, and includes a React/TypeScript frontend with PostgreSQL backend integration.
+- **Multi-LLM & Vector Store Agnostic RAG Framework**: Supports any LLM (GPT4, Groq, Llama) and vector stores (PGVector, Faiss) with customizable integration for seamless GenAI adoption in existing products.
+
+- **Opinionated RAG with Privacy & Security**: Prioritizes developer experience with built-in privacy controls, Dockerized deployment, and support for PostgreSQL, while enabling customization for any file type or use case.
+
+- **Full-Stack GenAI Integration**: Combines Python backend with React/TypeScript frontend, offering REST API support, HTML/JS SDKs, and modular architecture for scalable, production-ready RAG implementations.
 
 ## Why It Matters
 

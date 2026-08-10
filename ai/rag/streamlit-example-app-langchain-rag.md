@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-08-10T10:31:58.236416+05:30'
+collected_at: '2026-08-10T13:41:11.320479+05:30'
 published_at: '2026-08-10T03:43:25Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
+- workflows
 stars: 159
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-08-10T10:31:58.236416+05:30'
-last_seen: '2026-08-10T10:31:58.236416+05:30'
-last_checked: '2026-08-10T10:31:58.236416+05:30'
+first_seen: '2026-08-10T13:41:11.320479+05:30'
+last_seen: '2026-08-10T13:41:11.320479+05:30'
+last_checked: '2026-08-10T13:41:11.320479+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS or Chroma) for hybrid search (combining dense and sparse retrieval) to enhance document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS) and hybrid search (combining dense and sparse retrieval) for enhanced document retrieval and generation.
 
-- **LangChain Components**: Utilizes LangChain’s `RetrievalQA` chain with a custom retriever (e.g., `BM25Retriever` + `VectorStoreRetriever`) and a language model (e.g., OpenAI’s `gpt-3.5-turbo`) for augmented generation.
+- **Modular Architecture**: Implements a retrieval-augmented generation (RAG) workflow with components for document ingestion, embedding (e.g., HuggingFace models), vector storage, and LLM-based response synthesis.
 
-- **Streamlit UI**: Provides a minimalist web interface for querying the RAG system, displaying retrieved context and generated responses with real-time updates.
+- **Streamlit UI**: Provides an interactive frontend for querying the RAG system, visualizing retrieved documents, and displaying generated responses, with real-time updates.
 
 ## Why It Matters
 

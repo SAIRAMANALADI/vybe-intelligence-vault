@@ -23,9 +23,9 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus)
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+- [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
 - [brmson/dataset-sts](https://github.com/brmson/dataset-sts)
-- [langwatch/langwatch](https://github.com/langwatch/langwatch)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-08-10 10:48 IST*
+*Last updated: 2026-08-10 13:56 IST*

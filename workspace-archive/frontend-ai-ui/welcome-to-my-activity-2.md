@@ -3,7 +3,7 @@ title: Welcome to My Activity
 archive_category: frontend-ai-ui
 source_category: ai/resources
 source_url: https://myactivity.google.com/myactivity?utm_source=pp
-resource_id: blog:welcome-to-my-activity-ea791b28
+resource_id: blog:welcome-to-my-activity
 local_vault_path: ai/resources/welcome-to-my-activity.md
 quality_score: 70
 archive_score: 72
@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Activity Tracking**: Aggregates user data (searches, website visits, video views) via Google services to enhance personalization and service utility.
-- **Data Management Interface**: Provides authenticated users with a centralized dashboard to review, search, and delete stored activity logs across Google platforms.
-- **Privacy & Compliance**: Operates under Google’s [Privacy Policy](https://myaccount.google.com/privacypolicy?hl=en-US) and [Terms of Service](https://myaccount.google.com/terms
+- **Activity Tracking**: Aggregates and stores user data (searches, website visits, video views) via Google services to enhance personalization and service utility.
+
+- **Data Management Interface**: Provides authenticated users with a centralized dashboard to review, search, filter, and delete stored activity logs across Google platforms.
+
+- **Privacy & Compliance**: Operates under Google’s privacy policy and terms of service, enabling users to control data retention and sharing settings via [My
 
 ## Use Cases
 

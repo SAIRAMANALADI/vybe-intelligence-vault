@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-08-10T10:33:48.303798+05:30'
+collected_at: '2026-08-10T13:43:01.334333+05:30'
 published_at: '2026-08-07T03:48:17Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-07-14T18:34:58Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-08-10T10:33:48.303798+05:30'
-last_seen: '2026-08-10T10:33:48.303798+05:30'
-last_checked: '2026-08-10T10:33:48.303798+05:30'
+first_seen: '2026-08-10T13:43:01.334333+05:30'
+last_seen: '2026-08-10T13:43:01.334333+05:30'
+last_checked: '2026-08-10T13:43:01.334333+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language & Framework Best Practices**: Repository curates standardized coding practices and agentic AI guidelines for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and JavaScript frameworks (React, Next.js, Angular, NestJS).
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks (e.g., Angular, NestJS, Spring Boot) and programming languages (e.g., Go, Kotlin, Flutter).
 
-- **Agent-Oriented Standards**: Provides structured `cursor-rules` and agent-skills templates to enforce consistent AI agent behavior across Android, iOS, and web development workflows.
+- **Key Features**: Includes language/framework-specific guidelines, cursor rules, and agentic AI best practices to ensure consistency and efficiency in AI-driven development workflows.
 
-- **Active Maintenance & Community**: Last updated in 2026 with 538 stars and 157 forks, indicating ongoing contributions and adoption for AI-driven development standardization.
+- **Metadata**: 538 stars, 157 forks, last updated on 2026-08-07, with topics spanning agentic AI, mobile (Android/iOS), and web frameworks (React, Next.js).
 
 ## Why It Matters
 

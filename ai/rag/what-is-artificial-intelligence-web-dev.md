@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/articles/ai-overview
-published_at: '2026-08-10T10:41:55.875987+05:30'
-collected_at: '2026-08-10T10:41:55.875999+05:30'
+published_at: '2026-08-10T13:49:10.048718+05:30'
+collected_at: '2026-08-10T13:49:10.048731+05:30'
 tags:
 - anthropic
 - dataset
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:what-is-artificial-intelligence-web-dev
-first_seen: '2026-08-10T10:41:55.875999+05:30'
-last_seen: '2026-08-10T10:41:55.875999+05:30'
-last_checked: '2026-08-10T10:41:55.875999+05:30'
+first_seen: '2026-08-10T13:49:10.048731+05:30'
+last_seen: '2026-08-10T13:49:10.048731+05:30'
+last_checked: '2026-08-10T13:49:10.048731+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI Fundamentals**: AI encompasses non-human programs/models performing complex problem-solving and creativity, including generative AI which creates new content; capabilities vary widely across technologies like machine learning (ML), deep learning (DL), and natural language processing (NLP).
+- **AI Fundamentals**: AI encompasses non-human programs/models leveraging machine learning (ML) to perform tasks like problem-solving, creativity, and generative content creation (e.g., LLMs, SLMs, foundation models) via training on curated datasets and inference on new data.
 
-- **AI Deployment Models**: Client-side AI runs in-browser (e.g., Transformers.js, TensorFlow.js) for low-latency, privacy-preserving inference, while server-side AI leverages cloud-based LLMs (e.g., Gemini) for higher computational power; hybrid approaches combine both.
+- **AI Deployment Models**: AI inference occurs either client-side (browser-based, e.g., Transformers.js, TensorFlow.js) for low-latency/privacy or server-side (cloud-based, e.g., Gemini) for high-capacity tasks; hybrid models combine both approaches for scalability.
 
-- **Key Challenges**: AI adoption faces issues like data quality/recency, ethical bias (e.g., MST scale mitigation), security/privacy risks (mitigated via client-side AI), and tuning techniques (e.g., RLHF, LoRA) to adapt pre-trained models for specific use cases.
+- **Key Challenges**: AI adoption faces issues like data quality/recency, ethical biases (e.g., MST Scale mitigation), security/privacy risks (third-party exposure), and requires techniques like RLHF/LoRA for model tuning to align with specific use cases.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:41:55.875987+05:30
+- Published: 2026-08-10T13:49:10.048718+05:30
 
 ## Related Tags
 

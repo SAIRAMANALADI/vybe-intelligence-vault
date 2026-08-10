@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-08-10T08:16:16.940598+05:30'
-collected_at: '2026-08-10T08:16:16.940612+05:30'
+published_at: '2026-08-10T13:46:05.330707+05:30'
+collected_at: '2026-08-10T13:46:05.330725+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-08-10T08:16:16.940612+05:30'
-last_seen: '2026-08-10T08:16:16.940612+05:30'
-last_checked: '2026-08-10T08:16:16.940612+05:30'
+first_seen: '2026-08-10T13:46:05.330725+05:30'
+last_seen: '2026-08-10T13:46:05.330725+05:30'
+last_checked: '2026-08-10T13:46:05.330725+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Markdown Handler**: Hugo defaults to Goldmark for Markdown rendering (`.md`, `.mdown`, `.markdown`), with alternative handlers (`asciidocext`, `org`, `pandoc`, `rst`) configurable via `defaultMarkdownHandler`; Goldmark is recommended for speed, CommonMark/GFM compliance, and maintenance.
+- **Markup Handler Configuration**: Hugo defaults to Goldmark for Markdown rendering (`defaultMarkdownHandler: goldmark`), but supports alternatives like AsciiDoc, Org, Pandoc, or reStructuredText via configuration; requires external renderer installation and security policy updates for non-default handlers.
 
-- **Goldmark Configuration**: Goldmark’s default settings include extensions like `footnote`, `linkify`, `strikethrough`, `table`, `taskList`, and `typographer`; customization is possible via `markup.goldmark` in YAML/TOML/JSON, with options for enabling/disabling features (e.g., `extras`, `passthrough`).
+- **Goldmark Extensions**: Default Goldmark setup includes CJK, definition lists, footnotes, linkify, strikethrough, tables, task lists, and typographer; extras (deleted/inserted text, mark, sub/superscript) and passthrough (e.g., LaTeX math) require explicit enablement.
 
-- **Key Settings**: Critical Goldmark settings include `duplicateResourceFiles` (for multilingual projects), `parser.wrapStandAloneImageWithinParagraph` (controls standalone image rendering), `autoHeadingID` (auto-generates heading IDs), and `autoIDType` (defines ID generation strategy).
+- **Goldmark Parser/Renderer Settings**: Key parser settings include `autoHeadingID` (auto-generates heading IDs), `wrapStandAloneImageWithinParagraph` (controls standalone image wrapping), and `duplicateResourceFiles` (affects multilingual resource handling); renderer options include `hardWraps`, `unsafe` (raw HTML), and `xhtml` compliance.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T08:16:16.940598+05:30
+- Published: 2026-08-10T13:46:05.330707+05:30
 
 ## Related Tags
 

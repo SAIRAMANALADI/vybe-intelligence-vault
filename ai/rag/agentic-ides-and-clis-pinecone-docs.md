@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.pinecone.io/guides/get-started/ai-coding-tools
-published_at: '2026-08-09T08:12:15.141211+05:30'
-collected_at: '2026-08-09T08:12:15.141224+05:30'
+published_at: '2026-08-10T13:48:32.430363+05:30'
+collected_at: '2026-08-10T13:48:32.430372+05:30'
 tags:
 - agents
 - anthropic
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:agentic-ides-and-clis-pinecone-docs
-first_seen: '2026-08-09T08:12:15.141224+05:30'
-last_seen: '2026-08-09T08:12:15.141224+05:30'
-last_checked: '2026-08-09T08:12:15.141224+05:30'
+first_seen: '2026-08-10T13:48:32.430372+05:30'
+last_seen: '2026-08-10T13:48:32.430372+05:30'
+last_checked: '2026-08-10T13:48:32.430372+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Pinecone MCP Server**: Enables natural language interaction with Pinecone vector databases via Model Context Protocol (MCP), supporting index management, semantic search, and RAG workflows across IDEs and CLIs.
+- **Pinecone MCP Server**: Enables natural language-driven vector database operations (index management, semantic search, RAG workflows) via Model Context Protocol (MCP) for agentic IDEs/CLIs (e.g., Claude Code, Cursor) and direct terminal access via the `pc` CLI.
 
-- **Agentic IDE/CLI Tools**: Provides official plugins/extensions for **Claude Code**, **Gemini CLI**, **Cursor**, and **Pinecone CLI** (`pc`), enabling direct vector database operations (e.g., index creation, upserting, querying) without manual API calls.
+- **Tool-Specific Integrations**: Official plugins/extensions for IDEs (Claude Code, Cursor, Gemini CLI) and universal agent skills (e.g., GitHub Copilot) provide slash commands and MCP tools for Pinecone operations, all requiring a Pinecone API key.
 
-- **Skill Libraries**: Includes modular skills (e.g., `query`, `assistant`, `full-text-search`) for Pinecone MCP server, CLI, and integrations (e.g., n8n, GitHub Copilot), with capabilities like vector search, document Q&A, and full-text indexing.
+- **Core Skills & MCP Tools**: Includes `query`, `assistant`, `cli`, and `full-text-search` capabilities; MCP server exposes low-level tools for index CRUD, vector upsert/search, and reranking, with additional integrations for n8n workflows.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-09T08:12:15.141211+05:30
+- Published: 2026-08-10T13:48:32.430363+05:30
 
 ## Related Tags
 

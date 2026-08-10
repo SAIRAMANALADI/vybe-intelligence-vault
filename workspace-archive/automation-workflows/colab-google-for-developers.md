@@ -8,7 +8,7 @@ local_vault_path: ai/rag/colab-google-for-developers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Zero-setup cloud notebooks**: Hosted Jupyter Notebook environment with pre-configured runtimes, free GPU/TPU access, and seamless Google Drive integration for collaborative workflows.
+- **Zero-setup cloud Jupyter Notebook service** with pre-configured runtimes, free GPUs/TPUs, and seamless Google Drive integration for instant collaboration and storage.
 
-- **AI-driven coding assistance**: Real-time code generation, explanation, debugging, and autonomous analysis via Gemini, enabling effortless transformation and optimization of existing code.
+- **AI-driven coding assistant** (Gemini) enabling natural language code generation, real-time debugging, autonomous analysis, and effortless transformation of existing code via single prompts.
 
-- **Enterprise-grade scalability**: Secure, IAM-controlled workspaces with regional storage, Vertex AI integration, an
+- **Enterprise-grade security & scalability** via Vertex AI/Google Cloud, featuring IAM-controlled workspaces, regional Dataform stor
 
 ## Use Cases
 

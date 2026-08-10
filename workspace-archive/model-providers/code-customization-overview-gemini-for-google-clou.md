@@ -34,9 +34,9 @@ selection_reason:
 
 - **Code Customization in Gemini Code Assist Enterprise** enables IDE-integrated code suggestions aligned with an organization's private repositories via remote context indexing, refreshed every 24 hours to maintain relevance.
 
-- **Security & Access Controls** enforce single-tenant storage, administrative access restrictions, and IAM permissions, ensuring private code is not used for model training or shared across customers.
+- **Security & Access Controls** enforce single-tenant storage, administrative access restrictions, and IAM permissions, ensuring private code is not used for model training or shared externally.
 
-- **Supported Languages & Limitations** include indexing for 12 langu
+- **Supported Environments & Limitations** include VS Code, IntelliJ, Cloud
 
 ## Use Cases
 

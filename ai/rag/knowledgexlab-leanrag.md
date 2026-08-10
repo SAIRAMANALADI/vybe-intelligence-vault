@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-10T10:32:53.310176+05:30'
+collected_at: '2026-08-10T13:42:06.478766+05:30'
 published_at: '2026-08-04T08:00:33Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 stars: 257
@@ -17,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-10T10:32:53.310176+05:30'
-last_seen: '2026-08-10T10:32:53.310176+05:30'
-last_checked: '2026-08-10T10:32:53.310176+05:30'
+first_seen: '2026-08-10T13:42:06.478766+05:30'
+last_seen: '2026-08-10T13:42:06.478766+05:30'
+last_checked: '2026-08-10T13:42:06.478766+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG pipeline with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to enhance context relevance and reduce noise.
-
-- **Efficiency Optimizations**: Leverages lightweight graph traversal (e.g., pruning, caching) and dynamic query routing to minimize computational overhead while maintaining retrieval accuracy.
-
-- **Python Implementation**: Provides a modular framework with PyTorch/DGL integration for scalable KG-augmented generation, supporting customizable graph schemas and retrieval strategies.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → global) and semantic aggregation to enhance context relevance.
+- **Efficiency Optimizations**: Uses lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
+- **Python Implementation**: Provides modular, open-source codebase with dependencies (e.g., PyTorch, DGL) for scalable knowledge-graph-enhanced generation.
 
 ## Why It Matters
 

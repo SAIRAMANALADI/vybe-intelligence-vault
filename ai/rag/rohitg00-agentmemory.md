@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rohitg00/agentmemory
-collected_at: '2026-08-10T10:33:58.317191+05:30'
-published_at: '2026-08-10T04:56:56Z'
+collected_at: '2026-08-10T13:43:11.338787+05:30'
+published_at: '2026-08-10T08:07:21Z'
 tags:
 - agents
 - anthropic
@@ -14,17 +14,17 @@ tags:
 - rag
 - typescript
 - workflows
-stars: 26803
+stars: 26813
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-02-25T07:32:52Z'
-pushed_at: '2026-08-09T12:31:00Z'
+pushed_at: '2026-08-10T06:13:27Z'
 resource_id: github:rohitg00/agentmemory
-first_seen: '2026-08-10T10:33:58.317191+05:30'
-last_seen: '2026-08-10T10:33:58.317191+05:30'
-last_checked: '2026-08-10T10:33:58.317191+05:30'
+first_seen: '2026-08-10T13:43:11.338787+05:30'
+last_seen: '2026-08-10T13:43:11.338787+05:30'
+last_checked: '2026-08-10T13:43:11.338787+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Persistent Memory Framework**: Provides structured, long-term memory storage for AI coding agents, optimized for real-world benchmark performance and seamless integration with agent workflows.
+- **Persistent Memory System**: Implements a TypeScript-based framework for AI coding agents, enabling long-term memory storage and retrieval optimized for real-world benchmarks.
 
-- **TypeScript Implementation**: Built entirely in TypeScript, ensuring type safety, scalability, and compatibility with modern AI agent ecosystems (e.g., ClaudeCode, Cursor, Copilot).
+- **Benchmark-Driven Design**: Evaluated against standardized benchmarks to ensure performance and reliability in agent-based coding workflows.
 
-- **Benchmark-Driven Design**: Prioritizes efficiency and reliability based on empirical benchmarks, with active community contributions (26.8K+ stars, 2.3K+ forks) and frequent updates (last commit: 2026-08-10).
+- **Integration-Focused**: Supports tools like Claude, Cursor, and Copilot, facilitating seamless memory management across AI-driven development environments.
 
 ## Why It Matters
 
@@ -45,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: rohitg00
-- Stars: 26803
-- Forks: 2279
+- Stars: 26813
+- Forks: 2280
 - Language: TypeScript
 - Topics: agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw
-- Last Updated: 2026-08-10T04:56:56Z
+- Last Updated: 2026-08-10T08:07:21Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-25T07:32:52Z
-- Pushed At: 2026-08-09T12:31:00Z
+- Pushed At: 2026-08-10T06:13:27Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-10T10:32:28.294132+05:30'
+collected_at: '2026-08-10T13:41:41.282110+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-10T10:32:28.294132+05:30'
-last_seen: '2026-08-10T10:32:28.294132+05:30'
-last_checked: '2026-08-10T10:32:28.294132+05:30'
+first_seen: '2026-08-10T13:41:41.282110+05:30'
+last_seen: '2026-08-10T13:41:41.282110+05:30'
+last_checked: '2026-08-10T13:41:41.282110+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive metrics across **C**reate, **R**etrieve, **U**pdate, and **D**elete operations in LLMs.
-- **Dataset & Evaluation**: Includes a large-scale Chinese corpus with annotated queries, supporting multi-task evaluation for retrieval quality, generation accuracy, and dynamic knowledge updates.
-- **Open-Source Toolkit**: Provides a Python-based framework with standardized APIs for benchmarking RAG models, enabling reproducible research and fair comparisons.
+- Introduces **CRUD-RAG**, a Chinese benchmark dataset designed to evaluate **Retrieval-Augmented Generation (RAG)** systems for **Large Language Models (LLMs)**, focusing on **Create, Read, Update, Delete (CRUD)** operations.
+- Provides a **comprehensive evaluation framework** with standardized metrics for assessing **retrieval quality, generation coherence, and task-specific performance** in Chinese language contexts.
+- Implements **Python-based tooling** for benchmarking, including **automated pipelines** for dataset curation, retrieval, and generation tasks, with open-source availability for reproducibility.
 
 ## Why It Matters
 

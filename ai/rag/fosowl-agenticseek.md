@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Fosowl/agenticSeek
-collected_at: '2026-08-10T10:34:33.352667+05:30'
+collected_at: '2026-08-10T13:43:46.318206+05:30'
 published_at: '2026-08-10T04:49:17Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- scripts
+- workflows
 stars: 26774
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-02-19T18:03:06Z'
 pushed_at: '2026-08-03T21:08:08Z'
 resource_id: github:fosowl/agenticseek
-first_seen: '2026-08-10T10:34:33.352667+05:30'
-last_seen: '2026-08-10T10:34:33.352667+05:30'
-last_checked: '2026-08-10T10:34:33.352667+05:30'
+first_seen: '2026-08-10T13:43:46.318206+05:30'
+last_seen: '2026-08-10T13:43:46.318206+05:30'
+last_checked: '2026-08-10T13:43:46.318206+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Local-first autonomous agent framework** leveraging DeepSeek-R1 for reasoning, eliminating dependency on cloud APIs or external services.
-- **Multi-modal capabilities** include web browsing, code execution, and voice assistant integration via Python-based implementation.
-- **Cost-efficient deployment** operates solely on local hardware, with performance scaling limited by computational resources and electricity costs.
+- **Local-first autonomous agent**: Implements a fully local AI system (Manus AI) leveraging DeepSeek-R1 for reasoning, eliminating API dependencies and cloud costs, operating solely on local compute resources.
+
+- **Multi-modal agent capabilities**: Integrates web browsing, code execution, and voice assistant functionality within a single Python-based framework, enabling end-to-end task automation without external services.
+
+- **Open-source & cost-efficient**: Released under an open-source license (Python), minimizing operational expenses to electricity costs while supporting autonomous agent workflows for research and production use.
 
 ## Why It Matters
 
@@ -41,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Fosowl
 - Stars: 26774
-- Forks: 2995
+- Forks: 2996
 - Language: Python
 - Topics: agentic-ai, agents, ai, autonomous-agents, deepseek-r1, llm, llm-agents, voice-assistant
 - Last Updated: 2026-08-10T04:49:17Z

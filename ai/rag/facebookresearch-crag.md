@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-10T10:32:23.284218+05:30'
+collected_at: '2026-08-10T13:41:36.306779+05:30'
 published_at: '2026-08-07T07:48:15Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 stars: 298
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-10T10:32:23.284218+05:30'
-last_seen: '2026-08-10T10:32:23.284218+05:30'
-last_checked: '2026-08-10T10:32:23.284218+05:30'
+first_seen: '2026-08-10T13:41:36.306779+05:30'
+last_seen: '2026-08-10T13:41:36.306779+05:30'
+last_checked: '2026-08-10T13:41:36.306779+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **CRAG Benchmark**: A comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse retrieval and generation tasks.
-- **Technical Scope**: Implemented in Jupyter Notebooks, enabling modular testing of RAG pipelines, including retrieval accuracy, context relevance, and answer correctness metrics.
-- **Benchmark Metrics**: Evaluates systems on factuality, hallucination reduction, and robustness under noisy or incomplete retrieval conditions, with updates as of August 2026.
+- **Benchmark Framework**: CRAG provides a comprehensive benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on factuality, robustness, and efficiency across diverse datasets and tasks.
+
+- **Evaluation Metrics**: Implements standardized metrics for assessing RAG performance, including answer correctness, retrieval precision/recall, and computational overhead under varying conditions (e.g., noisy inputs, adversarial queries).
+
+- **Open-Source Toolkit**: Distributed as a Jupyter Notebook-based repository, enabling reproducibility and extensibility with modular components for custom dataset integration and metric computation.
 
 ## Why It Matters
 

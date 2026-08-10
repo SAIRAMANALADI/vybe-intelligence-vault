@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/learn/nflsundayticket
-published_at: '2026-08-10T10:35:39.181802+05:30'
-collected_at: '2026-08-10T10:35:39.181811+05:30'
+published_at: '2026-08-10T13:44:52.182125+05:30'
+collected_at: '2026-08-10T13:44:52.182138+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-08-10T10:35:39.181811+05:30'
-last_seen: '2026-08-10T10:35:39.181811+05:30'
-last_checked: '2026-08-10T10:35:39.181811+05:30'
+first_seen: '2026-08-10T13:44:52.182138+05:30'
+last_seen: '2026-08-10T13:44:52.182138+05:30'
+last_checked: '2026-08-10T13:44:52.182138+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Availability**: New users can access NFL Sunday Ticket via YouTube TV for **8 non-cancelable payments of $30/month ($240 total)** or **$378 for returning users ($47.25/month)**; standalone pricing is **$240 (new) or $480 (returning)**. Requires active YouTube TV plan; cancellation terminates access.
+- **Pricing & Availability**: New users can access NFL Sunday Ticket bundled with YouTube TV for **$240 (8x $30/mo)** or standalone for **$240 (8x $30/mo)**; returning users pay **$378 (8x $47.25/mo)** or **$480 (8x $60/mo)**. Requires active YouTube TV plan; cancellation revokes access.
 
-- **Content Coverage**: Provides **all out-of-market Sunday NFL games** (32 teams, both AFC/NFC conferences) via multiview (up to 4 games simultaneously), fantasy tracking, and key-play highlights. Excludes digital-only games and commercial use.
+- **Coverage & Features**: Provides **all out-of-market Sunday NFL games** (32 teams, AFC/NFC) and integrates with YouTube TV for **local/national games** (e.g., Sunday Night Football). Includes **multiview (4 games), fantasy tracking, and key-play highlights**.
 
-- **Technical Requirements**: Requires **minimum 3 Mbps (7+ Mbps recommended)** internet connection. Supported on **YouTube/YouTube TV apps** across devices (no satellite dish or 2-year contract). Accessible via **tv.youtube.com** or mobile apps.
+- **Technical Requirements**: Requires **3+ Mbps (7+ Mbps recommended)** internet; supported on **YouTube/YouTube TV apps** (devices listed in support docs). Excludes **digital-only games, commercial use, and refunds**.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:35:39.181802+05:30
+- Published: 2026-08-10T13:44:52.182125+05:30
 
 ## Related Tags
 

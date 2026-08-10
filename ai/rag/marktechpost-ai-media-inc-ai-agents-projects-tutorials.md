@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-08-10T10:33:13.302310+05:30'
+collected_at: '2026-08-10T13:42:26.304770+05:30'
 published_at: '2026-08-10T04:27:07Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-09T11:17:00Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-08-10T10:33:13.302310+05:30'
-last_seen: '2026-08-10T10:33:13.302310+05:30'
-last_checked: '2026-08-10T10:33:13.302310+05:30'
+first_seen: '2026-08-10T13:42:26.304770+05:30'
+last_seen: '2026-08-10T13:42:26.304770+05:30'
+last_checked: '2026-08-10T13:42:26.304770+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent architectures**: Repository focuses on advanced multi-agent systems integrating memory, planning, and reasoning loops for agentic AI development.
-- **Technical implementations**: Contains Jupyter Notebooks demonstrating agentic frameworks, RAG (Retrieval-Augmented Generation), and workflow optimization techniques.
-- **Cutting-edge AI agentics**: Covers agent skills, coding, and engineering with up-to-date methodologies (last updated Aug 2026), targeting AI agent development and deployment.
+- **Multi-agent systems**: Repository focuses on frameworks and implementations for coordinating multiple AI agents, emphasizing distributed task execution and inter-agent communication protocols.
+
+- **Memory & reasoning loops**: Includes tutorials on integrating short-term/long-term memory systems and cyclic reasoning mechanisms (e.g., reflection, self-correction) for agentic workflows.
+
+- **Agentic RAG & workflows**: Demonstrates Retrieval-Augmented Generation (RAG) pipelines with agentic control, and end-to-end workflows for planning, tool-use, and dynamic decision-making in Jupyter Notebooks.
 
 ## Why It Matters
 

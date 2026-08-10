@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-08-10T10:31:18.717173+05:30'
-collected_at: '2026-08-10T10:31:18.717187+05:30'
+published_at: '2026-08-10T13:40:31.778965+05:30'
+collected_at: '2026-08-10T13:40:31.778987+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-08-10T10:31:18.717187+05:30'
-last_seen: '2026-08-10T10:31:18.717187+05:30'
-last_checked: '2026-08-10T10:31:18.717187+05:30'
+first_seen: '2026-08-10T13:40:31.778987+05:30'
+last_seen: '2026-08-10T13:40:31.778987+05:30'
+last_checked: '2026-08-10T13:40:31.778987+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval (vector/lexical) with generative LLMs to ground outputs in external context, improving factuality and reducing hallucinations while avoiding costly retraining.
+- **RAG Architecture**: Combines retrieval (vector/lexical search over external knowledge) with generation (LLM conditioned on retrieved context) to improve factuality and reduce hallucinations without retraining the base model.
 
-- **Core Techniques**: Two-stage retrieval (efficient retriever + cross-encoder reranker), hybrid search (BM25 + vector fusion), and query rewriting (expansion, paraphrasing) to enhance precision and recall.
+- **Key Optimization Techniques**: Multi-stage retrieval (retriever + reranker), hybrid search (BM25 + vector), query rewriting, and context distillation to enhance precision, recall, and efficiency.
 
-- **Operational Considerations**: Requires chunking strategies (semantic/structure-aware), context distillation, iterative multi-hop retrieval for complex queries, and rigorous evaluation (nDCG, hallucination rate) for production deployment.
+- **Operational Considerations**: Latency/throughput trade-offs from embedding lookups, cost of reranking, token budgeting for context windows, and evaluation metrics spanning retrieval (nDCG/MRR) and generation (factuality/hallucination rate).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T10:31:18.717173+05:30
+- Published: 2026-08-10T13:40:31.778965+05:30
 
 ## Related Tags
 

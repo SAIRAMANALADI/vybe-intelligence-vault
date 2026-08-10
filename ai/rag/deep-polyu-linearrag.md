@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-08-10T10:32:53.293311+05:30'
+collected_at: '2026-08-10T13:42:06.375634+05:30'
 published_at: '2026-08-09T00:39:07Z'
 tags:
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 532
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-08-10T10:32:53.293311+05:30'
-last_seen: '2026-08-10T10:32:53.293311+05:30'
-last_checked: '2026-08-10T10:32:53.293311+05:30'
+first_seen: '2026-08-10T13:42:06.375634+05:30'
+last_seen: '2026-08-10T13:42:06.375634+05:30'
+last_checked: '2026-08-10T13:42:06.375634+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval and augmentation in large-scale corpora, optimized for ICLR 2026.
-- **Scalability & Efficiency**: Implements linear-time graph traversal and retrieval mechanisms, enabling scalable RAG on massive datasets while maintaining low computational overhead.
-- **Python Implementation**: Provides an open-source Python-based toolkit with modular components for graph construction, retrieval, and LLM integration, supporting extensibility for custom corpora.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval and augmentation in large-scale corpora, targeting ICLR 2026.
+- **Scalability & Efficiency**: Optimizes graph-based retrieval by linearizing graph traversal, reducing computational overhead while maintaining high accuracy in LLM augmentation.
+- **Python Implementation**: Repository provides an open-source Python implementation, supporting graphRAG, LLMs, and RAG workflows, with recent updates as of August 2026.
 
 ## Why It Matters
 

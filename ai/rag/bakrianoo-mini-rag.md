@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-08-10T10:32:43.268724+05:30'
+collected_at: '2026-08-10T13:41:56.261919+05:30'
 published_at: '2026-08-09T12:54:10Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-08-10T10:32:43.268724+05:30'
-last_seen: '2026-08-10T10:32:43.268724+05:30'
-last_checked: '2026-08-10T10:32:43.268724+05:30'
+first_seen: '2026-08-10T13:41:56.261919+05:30'
+last_seen: '2026-08-10T13:41:56.261919+05:30'
+last_checked: '2026-08-10T13:41:56.261919+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application in Python, covering architecture, deployment, and scalability.
-- **Tech Stack**: Utilizes FastAPI for backend, Docker for containerization, and integrates GenAI models with a modular Python implementation.
-- **Key Features**: Includes retrieval mechanisms, vector database integration, and end-to-end workflow optimization for real-world RAG applications.
+- **Educational RAG Pipeline**: Provides a step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
+
+- **GenAI Integration**: Demonstrates integration with generative AI models (e.g., LLMs) via FastAPI endpoints, emphasizing retrieval-augmented workflows for enhanced context-aware responses.
+
+- **Containerized Deployment**: Includes Docker configuration for scalable, isolated execution of the RAG pipeline, with modular components for vector storage, retrieval, and inference.
 
 ## Why It Matters
 

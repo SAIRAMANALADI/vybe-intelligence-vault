@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-08-10T10:32:33.271231+05:30'
+collected_at: '2026-08-10T13:41:46.291895+05:30'
 published_at: '2026-07-30T10:49:09Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 263
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-08-06T19:58:27Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-08-10T10:32:33.271231+05:30'
-last_seen: '2026-08-10T10:32:33.271231+05:30'
-last_checked: '2026-08-10T10:32:33.271231+05:30'
+first_seen: '2026-08-10T13:41:46.291895+05:30'
+last_seen: '2026-08-10T13:41:46.291895+05:30'
+last_checked: '2026-08-10T13:41:46.291895+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch logs and events.
-- **RAG-Enhanced Behavioral Memory**: Leverages Retrieval-Augmented Generation (RAG) to build contextual threat detection models, storing and retrieving historical anomalies for improved validation.
-- **LLM-Driven Anomaly Validation**: Uses Large Language Models (LLMs) to dynamically validate real-time anomalies, enabling adaptive threat detection and reducing false positives.
+- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time log monitoring, with modular components for extensibility in cybersecurity operations.
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to construct and query contextual behavioral patterns from historical security data for anomaly validation.
+- **LLM-Driven Anomaly Detection**: Uses large language models (LLMs) to dynamically validate and triage real-time anomalies, combining threat detection and hunting capabilities in an autonomous SOC workflow.
 
 ## Why It Matters
 

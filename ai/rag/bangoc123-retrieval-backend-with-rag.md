@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-10T10:32:03.207227+05:30'
+collected_at: '2026-08-10T13:41:16.254093+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 265
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-10T10:32:03.207227+05:30'
-last_seen: '2026-08-10T10:32:03.207227+05:30'
-last_checked: '2026-08-10T10:32:03.207227+05:30'
+first_seen: '2026-08-10T13:41:16.254093+05:30'
+last_seen: '2026-08-10T13:41:16.254093+05:30'
+last_checked: '2026-08-10T13:41:16.254093+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including embedding and retrieval strategies tailored to Vietnamese text.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including text preprocessing, embedding models, and retrieval strategies tailored for Vietnamese corpora.
 
-- **Modular Python Architecture**: Features a structured backend with components for document processing, vector storage (e.g., FAISS/Weaviate), and LLM integration (e.g., ViT5, PhoBERT) for end-to-end RAG pipelines.
+- **Modular Python Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS/Weaviate), retrieval pipelines, and LLM integration, leveraging libraries like `sentence-transformers`, `langchain`, and `fastapi`.
 
-- **Evaluation & Optimization**: Includes benchmarks for retrieval quality (e.g., precision@k) and generation performance, with tools for fine-tuning Vietnamese-specific embeddings or rerankers.
+- **Evaluation & Optimization**: Includes benchmarking tools for Vietnamese RAG performance (e.g., retrieval accuracy, response quality) and optimizations for low-resource Vietnamese NLP tasks, with configs for hyperparameter tuning and deployment-ready Docker support.
 
 ## Why It Matters
 
