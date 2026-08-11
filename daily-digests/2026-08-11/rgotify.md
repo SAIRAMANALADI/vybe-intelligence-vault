@@ -1,40 +1,40 @@
 ---
-title: "dinglebear-ai/rgotify"
+title: "jmagar/rgotify"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "HTTP", "CLI", "npm", "Docker"]
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP", "CLI", "npm", "Docker", "TOML", "JSON"]
 quality_score: 9
 rag_relevance: 7
 deployment_complexity: "Medium"
-tags: ["MCP server", "push notifications", "Gotify integration", "Rust CLI", "AI agent tools"]
-source: "https://github.com/dinglebear-ai/rgotify"
+tags: ["MCP server", "push notifications", "Gotify integration", "Rust CLI", "agent tooling"]
+source: "https://github.com/jmagar/rgotify"
 stars: 1
 language: "Rust"
-last_updated: "2026-08-01T03:35:47Z"
-discovered_at: "2026-08-01T03:44:14Z"
+last_updated: "2026-07-19T23:47:20Z"
+discovered_at: "2026-07-19T23:56:10Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Rust-based MCP server and CLI for Gotify that enables agents to send push notifications, manage messages, and interact with Gotify's API via stdio or HTTP. It bridges MCP clients with Gotify's push notification system for AI-driven workflows.
+A Rust-based MCP server and CLI for interfacing with a self-hosted Gotify push notification server. It enables agents to send notifications, manage applications/clients, and inspect server health via stdio or HTTP MCP transports.
 
 ## Key Features
-- Exposes a single MCP tool (`gotify`) for managing Gotify resources (messages, apps, clients) and sending notifications
-- Supports both stdio and HTTP transport for MCP clients (Claude Code, Codex, etc.)
-- CLI parity with MCP tooling for scripting and debugging
-- Destructive actions require explicit confirmation for safety
-- Supports static bearer tokens and OAuth via `lab-auth`
+- Exposes a single MCP tool (`gotify`) for managing Gotify server interactions
+- Supports both stdio and HTTP MCP transports for agent integration
+- Provides CLI (`rgotify`) for direct command-line access and scripting
+- Includes destructive action gates requiring explicit confirmation
+- Supports authentication via client/app tokens, static bearer tokens, or OAuth
 
 ## Why It Matters for RAG Builders
-It enables AI agents to directly interact with Gotify's push notification system, streamlining real-time alerting and message management within AI-driven workflows.
+It bridges agents with self-hosted Gotify servers for real-time push notifications and server management, enabling seamless integration into AI workflows.
 
 ## Tech Stack Deep Dive
 ### Rust
 Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### HTTP
 Automated review identified **HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -47,6 +47,12 @@ Automated review identified **npm** as a key module contributing to infrastructu
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### TOML
+Automated review identified **TOML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JSON
+Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
