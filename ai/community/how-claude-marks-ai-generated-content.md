@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-claude-marks-ai-generated-content
 first_seen: '2026-08-11T03:33:42.450654+05:30'
 last_seen: '2026-08-11T03:33:42.450654+05:30'
 last_checked: '2026-08-11T03:33:42.450654+05:30'
 health_score: 100
 ---
+
 
 # How Claude marks AI-generated content
 

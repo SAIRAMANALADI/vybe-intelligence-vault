@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-111%2C868-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-181%2C996-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--11-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **111,868 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **181,996 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,178</p>
-        <p><b>Active:</b> 17,629 | <b>Inactive:</b> 549</p>
+        <p><b>Resources tracked:</b> 19,156</p>
+        <p><b>Active:</b> 18,605 | <b>Inactive:</b> 551</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,253</p>
+        <p><b>Archive Files:</b> 71,425</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 111,868 files</p>
-        <p><b>Last Update:</b> 2026-08-11 07:06 IST</p>
+        <p><b>Total Vault Size:</b> 181,996 files</p>
+        <p><b>Last Update:</b> 2026-08-11 08:22 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Get our developer newsletter · GitHub](ai/rag/get-our-developer-newsletter-github.md)** • Rank: <kbd>+974</kbd>
-- 🔼 **[Privacy Practices & Protections - Google Safety Center](ai/resources/privacy-practices-protections-google-safety-center.md)** • Rank: <kbd>+974</kbd>
-- 🔼 **[Control Your Online Safety and Privacy - Google Safety Center](ai/resources/control-your-online-safety-and-privacy-google-safe.md)** • Rank: <kbd>+974</kbd>
-- 🔼 **[Transparency Center - Google Product Policies and Policy Areas](ai/rag/transparency-center-google-product-policies-and-po.md)** • Rank: <kbd>+974</kbd>
-- 🔼 **[Google DeepMind - YouTube](ai/resources/google-deepmind-youtube.md)** • Rank: <kbd>+974</kbd>
+- 🔼 **[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](ai/community/mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r.md)** • <kbd>+130 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](ai/community/show-hn-needle2-14mb-agentic-llm-for-phones-wearab.md)** • <kbd>+128 pts</kbd> • Rank: <kbd>+5</kbd>
+- 🔼 **[Humanising LLM Outputs Is Dumb](ai/community/humanising-llm-outputs-is-dumb.md)** • <kbd>+63 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](ai/community/exploring-claude-gpt-knowledge-cutoffs-and-pre-tra.md)** • <kbd>+31 pts</kbd>
+- 🔼 **[Letter to Governor Abbott on responsible AI infrastructure in Texas](ai/community/letter-to-governor-abbott-on-responsible-ai-infras.md)** • <kbd>+22 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[What's the best programming language for coding agents?](ai/community/what-s-the-best-programming-language-for-coding-ag.md)** • Score: `70`
+- 🆕 **[Confessions of a Long-Distance Sailor](ai/community/confessions-of-a-long-distance-sailor.md)** • Score: `67`
+- 🆕 **[The “mechanical miracle” that ruined Mark Twain’s life](ai/community/the-mechanical-miracle-that-ruined-mark-twains-lif.md)** • Score: `57`
+- 🆕 **[World Train Map – 1247 train routes around the world](ai/community/world-train-map-1247-train-routes-around-the-world.md)** • Score: `49`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)**
+- 💤 **[How Claude marks AI-generated content](ai/community/how-claude-marks-ai-generated-content.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

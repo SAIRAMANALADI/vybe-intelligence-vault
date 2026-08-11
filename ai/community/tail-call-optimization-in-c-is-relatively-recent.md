@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://lwn.net/articles/1034703
 hn_url: https://news.ycombinator.com/item?id=49242297
-score: 108
+score: 126
 author: prakashqwerty
-comments_count: 101
+comments_count: 123
 published_at: '2026-08-10T17:04:40+05:30'
-collected_at: '2026-08-11T03:33:45.596404+05:30'
+collected_at: '2026-08-11T08:03:32.892281+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:tail-call-optimization-in-c-is-relatively-recent-2
 first_seen: '2026-08-10T19:18:43.739578+05:30'
-last_seen: '2026-08-11T03:33:45.596404+05:30'
-last_checked: '2026-08-11T03:33:45.596404+05:30'
+last_seen: '2026-08-11T08:03:32.892281+05:30'
+last_checked: '2026-08-11T08:03:32.892281+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by prakashqwerty. Score: 108, Comments: 101.
+Hacker News story by prakashqwerty. Score: 126, Comments: 123.
 Original Link: https://lwn.net/Articles/1034703/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: prakashqwerty
-- Score: 108 Upvotes
-- Comments: 101 Discussions
+- Score: 126 Upvotes
+- Comments: 123 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49242297
 - Original Article: https://lwn.net/articles/1034703
 

@@ -14829,15 +14829,17 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](../ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)
+  - [Confessions of a Long-Distance Sailor](../ai/community/confessions-of-a-long-distance-sailor.md)
   - [Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](../ai/community/exploring-claude-gpt-knowledge-cutoffs-and-pre-tra.md)
-  - [How Claude marks AI-generated content](../ai/community/how-claude-marks-ai-generated-content.md)
   - [Humanising LLM Outputs Is Dumb](../ai/community/humanising-llm-outputs-is-dumb.md)
   - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](../ai/community/launch-hn-stoa-markets-yc-s26-a-marketplace-for-gp.md)
   - [Letter to Governor Abbott on responsible AI infrastructure in Texas](../ai/community/letter-to-governor-abbott-on-responsible-ai-infras.md)
   - [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](../ai/community/mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r.md)
   - [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](../ai/community/show-hn-needle2-14mb-agentic-llm-for-phones-wearab.md)
   - [Tail-call optimization in C is relatively recent (2025)](../ai/community/tail-call-optimization-in-c-is-relatively-recent.md)
+  - [The “mechanical miracle” that ruined Mark Twain’s life](../ai/community/the-mechanical-miracle-that-ruined-mark-twains-lif.md)
+  - [What's the best programming language for coding agents?](../ai/community/what-s-the-best-programming-language-for-coding-ag.md)
+  - [World Train Map – 1247 train routes around the world](../ai/community/world-train-map-1247-train-routes-around-the-world.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -18648,4 +18650,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-11T03:49:55.363974+05:30*
+*Index generated on 2026-08-11T08:19:46.405424+05:30*

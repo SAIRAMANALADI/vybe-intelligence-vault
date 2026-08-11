@@ -22923,6 +22923,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://conda-forge.org>
 
+* **[Confessions of a Long-Distance Sailor](ai/community/confessions-of-a-long-distance-sailor.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by AntiRush. Score: 67, Comments: 15. Original Link: https://arachnoid.com/lutusp/sailbook.html
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://arachnoid.com/lutusp/sailbook.html>
+
 * **[Confidently Wrong: Exception Chain Collapse in Frontier LLM Rule Evaluation](ai/rag/arxiv-2607-23386.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2607.23386v1 Announce Type: new Abstract: We document a failure class in frontier large language models -- exception chain collapse -- observed in eligibility evaluation under nested conditional rules of the form "A is required UNLESS B applies
   * Tags: `anthropic`, `benchmark`, `rag`, `workflows`
@@ -23218,11 +23223,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.22653>
 
-* **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by etoxin. Score: 610, Comments: 339. Original Link: https://www.docker.com/products/docker-sandboxes/
-  * Tags: `agents`, `ai`, `hackernews`
-  * Source URL: <https://docker.com/products/docker-sandboxes>
-
 * **[DocLang](ai/rag/doclang.md)** (`tutorial` | `useful` tier)
   * Summary: - **AI-native structured format**: DocLang is a constrained XML-based standard designed for direct LLM tokenization, eliminating translation overhead by encoding semantic roles, bounding boxes, and reading order natively (e.g., tables via OTSL with 5
   * Tags: `agents`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -23414,7 +23414,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://alphaxiv.org/>
 
 * **[Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](ai/community/exploring-claude-gpt-knowledge-cutoffs-and-pre-tra.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sshh12. Score: 78, Comments: 11. Original Link: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs
+  * Summary: Hacker News story by sshh12. Score: 109, Comments: 14. Original Link: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs>
 
@@ -24013,11 +24013,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `creative_dev`, `deepmind`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://developers.googleblog.com>
 
-* **[How Claude marks AI-generated content](ai/community/how-claude-marks-ai-generated-content.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mfiguiere. Score: 11, Comments: 5. Original Link: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content
-  * Tags: `ai`, `anthropic`, `hackernews`
-  * Source URL: <https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content>
-
 * **[How does downsampling affect needle electromyography signals? A generalisable workflow for understanding downsampling effects on high-frequency time series](ai/research/arxiv-2601-10191.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.10191v2 Announce Type: replace Abstract: Automated analysis of needle electromyography (nEMG) signals is emerging as a tool to support the detection of neuromuscular diseases (NMDs), yet the signals' high and heterogeneous sampling rates p
   * Tags: `workflows`
@@ -24079,7 +24074,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17824>
 
 * **[Humanising LLM Outputs Is Dumb](ai/community/humanising-llm-outputs-is-dumb.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by kuberwastaken. Score: 100, Comments: 57. Original Link: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb
+  * Summary: Hacker News story by kuberwastaken. Score: 163, Comments: 92. Original Link: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb
   * Tags: `hackernews`, `llm`
   * Source URL: <https://kuber.studio/blog/reflections/humanising-llm-outputs-is-actually-dumb>
 
@@ -24419,7 +24414,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
 
 * **[Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](ai/community/launch-hn-stoa-markets-yc-s26-a-marketplace-for-gp.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by erenberke. Score: 58, Comments: 33. Original Link: https://www.stoaexchange.com
+  * Summary: Hacker News story by erenberke. Score: 66, Comments: 40. Original Link: https://www.stoaexchange.com
   * Tags: `ai`, `hackernews`, `producthunt`
   * Source URL: <https://stoaexchange.com>
 
@@ -24459,7 +24454,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://letsencrypt.status.io/>
 
 * **[Letter to Governor Abbott on responsible AI infrastructure in Texas](ai/community/letter-to-governor-abbott-on-responsible-ai-infras.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by hackerBanana. Score: 72, Comments: 137. Original Link: https://openai.com/index/responsible-ai-infrastructure-texas/
+  * Summary: Hacker News story by hackerBanana. Score: 94, Comments: 175. Original Link: https://openai.com/index/responsible-ai-infrastructure-texas/
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://openai.com/index/responsible-ai-infrastructure-texas>
 
@@ -24634,7 +24629,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.15027>
 
 * **[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](ai/community/mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by root-parent. Score: 258, Comments: 316. Original Link: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
+  * Summary: Hacker News story by root-parent. Score: 388, Comments: 390. Original Link: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
   * Tags: `ai`, `hackernews`
   * Source URL: <https://ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878>
 
@@ -25699,7 +25694,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](ai/community/show-hn-needle2-14mb-agentic-llm-for-phones-wearab.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by HenryNdubuaku. Score: 62, Comments: 34. Original Link: https://cactuscompute.com/needle
+  * Summary: Hacker News story by HenryNdubuaku. Score: 190, Comments: 82. Original Link: https://cactuscompute.com/needle
   * Tags: `agents`, `hackernews`, `llm`
   * Source URL: <https://cactuscompute.com/needle>
 
@@ -25928,7 +25923,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12387>
 
 * **[Tail-call optimization in C is relatively recent (2025)](ai/community/tail-call-optimization-in-c-is-relatively-recent.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by prakashqwerty. Score: 108, Comments: 101. Original Link: https://lwn.net/Articles/1034703/
+  * Summary: Hacker News story by prakashqwerty. Score: 126, Comments: 123. Original Link: https://lwn.net/Articles/1034703/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://lwn.net/articles/1034703>
 
@@ -26051,6 +26046,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Core Components**: WebM Project provides open-source repositories including `libvpx` (VP8/VP9 codec SDK), `libwebm` (WebM file parser), and `webm-tools` (alpha-channel, encryption, and streaming tools), all hosted on Chromium's Gerrit for version
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.webmproject.org/code/#webp-repositories>
+
+* **[The “mechanical miracle” that ruined Mark Twain’s life](ai/community/the-mechanical-miracle-that-ruined-mark-twains-lif.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by benbreen. Score: 57, Comments: 12. Original Link: https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined>
 
 * **[The-Swarm-Corporation/Multi-Agent-RAG-Template](ai/rag/the-swarm-corporation-multi-agent-rag-template.md)** (`template` | `useful` tier)
   * Summary: - **Multi-Agent RAG Framework**: Implements a Python-based template using frameworks like CrewAI, LangChain, and AutoGen to orchestrate a team of AI agents for collaborative document processing, analysis, and insight generation via Retrieval-Augmente
@@ -26467,6 +26467,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.29090>
 
+* **[What's the best programming language for coding agents?](ai/community/what-s-the-best-programming-language-for-coding-ag.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by chaychoong. Score: 70, Comments: 56. Original Link: http://danluu.com/pl-tokens/
+  * Tags: `agents`, `hackernews`
+  * Source URL: <http://danluu.com/pl-tokens>
+
 * **[When Are Scoring Rules Proper? Bridging Theory and Practice in Survival Model Evaluation](ai/rag/arxiv-2212-05260.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2212.05260v4 Announce Type: replace-cross Abstract: Proper scoring rules encourage probabilistic predictions that match the true underlying distribution and are central to model evaluation, with increasing relevance in automated workflows such
   * Tags: `benchmark`, `rag`, `workflows`
@@ -26521,6 +26526,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **NVIDIA AI Platforms**: Offers DGX Cloud (AI factory in cloud), HGX (supercomputer for AI/HPC), and MGX (modular accelerated servers), alongside Jetson (embedded systems), DRIVE AGX (autonomous vehicles), and IGX (edge AI with functional safety).
   * Tags: `agents`, `anthropic`, `dataset`, `deepmind`, `frontend_ui`, `hackernews`, `models`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.nvidia.com/>
+
+* **[World Train Map – 1247 train routes around the world](ai/community/world-train-map-1247-train-routes-around-the-world.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Flightmussy. Score: 49, Comments: 13. Original Link: https://worldtrainmap.com/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://worldtrainmap.com>
 
 * **[Writing and publishing your first story – Medium Help Center](ai/resources/writing-and-publishing-your-first-story-medium-hel.md)** (`tutorial` | `useful` tier)
   * Summary: - **Draft Creation & Autosave**: New stories begin as drafts, automatically saved to the Medium account and accessible via the Stories page; web app uses the **Write** button, while mobile apps require the green plus button in the profile menu. - **E
@@ -43474,7 +43484,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.25743>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9504, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9505, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -71347,7 +71357,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5196, Downloads: 240967501)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5195, Downloads: 240967501)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -85541,7 +85551,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3381, Downloads: 32432096)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3382, Downloads: 32432096)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -85551,7 +85561,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/BAAI/bge-reranker-v2-m3>
 
 * **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 527, Downloads: 67563435)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 528, Downloads: 67563435)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
@@ -87685,8 +87695,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`dataset` | `useful` tier)
-  * Summary: * Comprehensive RAG full-stack guide for LLM application development, encompassing practical implementation across various components. * Utilizes LangChain and LlamaIndex for RAG orchestration, integrating vector databases like Milvus and knowledge g
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive RAG full-stack guide leveraging `langchain` and `llama-
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -87696,7 +87706,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Offers a foundational curriculum for LLM application development. * Focuses on practical implementation using LangChain, specifically demonstrating RAG architectures. * Delivers interactive, code-centric tutorials primarily via Jupyter Notebooks.
+  * Summary: * Provides a Jupyter Notebook-based tutorial for large language model (LLM) application
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 

@@ -1116,7 +1116,6 @@ Resources organized by keyword tags.
   - [Docker Developer Tools | Dockertools - A Curated List of Developers Tools](../ai/rag/docker-developer-tools-dockertools-a-curated-list.md)
   - [Docker Hub Container Image Library | App Containerization](../ai/rag/docker-hub-container-image-library-app-containeriz.md)
   - [Docker Model Runner | Docker Docs](../ai/agents/docker-model-runner-docker-docs.md)
-  - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](../ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)
   - [Docker | Weaviate Documentation](../ai/rag/docker-weaviate-documentation.md)
   - [Docker: Accelerated Container Application Development](../ai/rag/docker-accelerated-container-application-developme.md)
   - [Docs: API Reference, Tutorials, and Integration | Twilio](../ai/rag/docs-api-reference-tutorials-and-integration-twili.md)
@@ -3768,6 +3767,7 @@ Resources organized by keyword tags.
   - [What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents](../ai/agents/arxiv-2607-08032.md)
   - [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](../ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md)
   - [What's new in Aspire 13.1 | Aspire](../ai/agents/what-s-new-in-aspire-13-1-aspire.md)
+  - [What's the best programming language for coding agents?](../ai/community/what-s-the-best-programming-language-for-coding-ag.md)
   - [When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments](../ai/rag/arxiv-2407-18957.md)
   - [When Agent Automation Becomes Profitable: Quantifying and Insuring Autonomous AI Risk through Trace-Economic Underwriting](../ai/agents/arxiv-2606-16465.md)
   - [When Agents Disagree: The Selection Bottleneck in Multi-Agent LLM Pipelines](../ai/agents/arxiv-2603-20324.md)
@@ -4202,13 +4202,14 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](../ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)
+  - [Confessions of a Long-Distance Sailor](../ai/community/confessions-of-a-long-distance-sailor.md)
   - [Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](../ai/community/exploring-claude-gpt-knowledge-cutoffs-and-pre-tra.md)
-  - [How Claude marks AI-generated content](../ai/community/how-claude-marks-ai-generated-content.md)
   - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](../ai/community/launch-hn-stoa-markets-yc-s26-a-marketplace-for-gp.md)
   - [Letter to Governor Abbott on responsible AI infrastructure in Texas](../ai/community/letter-to-governor-abbott-on-responsible-ai-infras.md)
   - [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](../ai/community/mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r.md)
   - [Tail-call optimization in C is relatively recent (2025)](../ai/community/tail-call-optimization-in-c-is-relatively-recent.md)
+  - [The “mechanical miracle” that ruined Mark Twain’s life](../ai/community/the-mechanical-miracle-that-ruined-mark-twains-lif.md)
+  - [World Train Map – 1247 train routes around the world](../ai/community/world-train-map-1247-train-routes-around-the-world.md)
 
 ## animation
 
@@ -4448,7 +4449,6 @@ Resources organized by keyword tags.
   - [Home - Schmidt Sciences](../ai/agents/home-schmidt-sciences.md)
   - [Honeypot Protocol](../ai/research/arxiv-2604-13301.md)
   - [How Anthropic teams use Claude Code | Claude by Anthropic](../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md)
-  - [How Claude marks AI-generated content](../ai/community/how-claude-marks-ai-generated-content.md)
   - [How Closely Do LLM Reviews Align with Human Peer Review?](../ai/research/arxiv-2608-03659.md)
   - [How We Use n8n to Build and Control AI Agents – Keeping Business in Focus | beezwax blog](../ai/rag/how-we-use-n8n-to-build-and-control-ai-agents-keep.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
@@ -17162,6 +17162,7 @@ Resources organized by keyword tags.
   - [Concrete Subspace Learning based Interference Elimination for Multi-task Model Fusion](../ai/research/arxiv-2312-06173.md)
   - [Conditional Local Importance by Quantile Expectations](../ai/research/arxiv-2411-08821.md)
   - [Conditioned Direct Feedback Alignment via Activity and Error Geometry](../ai/rag/arxiv-2607-18574.md)
+  - [Confessions of a Long-Distance Sailor](../ai/community/confessions-of-a-long-distance-sailor.md)
   - [Configure imaging](../ai/rag/configure-imaging.md)
   - [Configuring setuptools using pyproject.toml files - setuptools 84.0.0 documentation](../ai/rag/configuring-setuptools-using-pyproject-toml-files.md)
   - [Configuring your environment - Mastodon documentation](../ai/rag/configuring-your-environment-mastodon-documentatio.md)
@@ -17328,7 +17329,6 @@ Resources organized by keyword tags.
   - [Docker - YouTube](../ai/resources/docker-youtube.md)
   - [Docker Cheatsheet: Essential Commands & Tips](../ai/agents/docker-cheatsheet-essential-commands-tips.md)
   - [Docker Developer Tools | Dockertools - A Curated List of Developers Tools](../ai/rag/docker-developer-tools-dockertools-a-curated-list.md)
-  - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](../ai/community/docker-sandboxes-disposable-isolated-sandboxes-for.md)
   - [Docker | Weaviate Documentation](../ai/rag/docker-weaviate-documentation.md)
   - [Docs: API Reference, Tutorials, and Integration | Twilio](../ai/rag/docs-api-reference-tutorials-and-integration-twili.md)
   - [Documentation Home | Zendesk Developer Docs](../ai/agents/documentation-home-zendesk-developer-docs.md)
@@ -17772,7 +17772,6 @@ Resources organized by keyword tags.
   - [How Annotation Trains Annotators: Competence Development in Social Influence Recognition](../ai/research/arxiv-2604-02951.md)
   - [How Anthropic teams use Claude Code | Claude by Anthropic](../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md)
   - [How Can Machine Learning Emulators Best Support Climate Science?](../ai/research/arxiv-2603-22320.md)
-  - [How Claude marks AI-generated content](../ai/community/how-claude-marks-ai-generated-content.md)
   - [How Content Assistant raised the design quality bar without slowing us down - Inside Atlassian](../ai/rag/how-content-assistant-raised-the-design-quality-ba.md)
   - [How Environment and Urbanization Shape Bird Diversity in Sri Lanka](../ai/research/arxiv-2607-00582.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
@@ -18953,6 +18952,7 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
+  - [The “mechanical miracle” that ruined Mark Twain’s life](../ai/community/the-mechanical-miracle-that-ruined-mark-twains-lif.md)
   - [The-Swarm-Corporation/Multi-Agent-Template-App](../ai/agents/the-swarm-corporation-multi-agent-template-app.md)
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
@@ -19182,6 +19182,7 @@ Resources organized by keyword tags.
   - [What's Different About This Book? - The Rust Programming Language](../ai/rag/what-s-different-about-this-book-the-rust-programm.md)
   - [What's in a Smoothness Constant? Tighter Rates for Local SGD with Bounded Second-order Heterogeneity](../ai/rag/arxiv-2607-14731.md)
   - [What's new in Aspire 13.1 | Aspire](../ai/agents/what-s-new-in-aspire-13-1-aspire.md)
+  - [What's the best programming language for coding agents?](../ai/community/what-s-the-best-programming-language-for-coding-ag.md)
   - [When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](../ai/research/arxiv-2512-04124.md)
   - [When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents](../ai/rag/arxiv-2607-06595.md)
   - [When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs](../ai/rag/arxiv-2510-22228.md)
@@ -19205,6 +19206,7 @@ Resources organized by keyword tags.
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
   - [World Leader in Artificial Intelligence Computing | NVIDIA](../ai/rag/world-leader-in-artificial-intelligence-computing.md)
+  - [World Train Map – 1247 train routes around the world](../ai/community/world-train-map-1247-train-routes-around-the-world.md)
   - [Writing a Research Paper: 2nd Edition | Nature Masterclasses](../ai/resources/writing-a-research-paper-2nd-edition-nature-master.md)
   - [X+Slides: Benchmarking Audience-Conditioned Slide Generation](../ai/rag/arxiv-2606-19256.md)
   - [XMix: Combating Extremely Noisy Labels via Local Smoothness in Self-Supervised Feature Space](../ai/rag/arxiv-2607-23865.md)
@@ -43345,4 +43347,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-11T03:49:55.157102+05:30*
+*Index generated on 2026-08-11T08:19:46.200740+05:30*

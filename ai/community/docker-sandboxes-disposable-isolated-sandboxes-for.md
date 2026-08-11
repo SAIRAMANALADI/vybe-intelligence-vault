@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:docker-sandboxes-disposable-isolated-sandboxes-for
 first_seen: '2026-08-10T13:39:17.657843+05:30'
 last_seen: '2026-08-11T03:33:46.222745+05:30'
 last_checked: '2026-08-11T03:33:46.222745+05:30'
 health_score: 100
 ---
+
 
 # Docker Sandboxes – Disposable, isolated sandboxes for AI agents
 
