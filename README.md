@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 117,390 files</p>
-        <p><b>Last Update:</b> 2026-08-12 22:39 IST</p>
+        <p><b>Last Update:</b> 2026-08-12 23:43 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,28 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)** • <kbd>+45 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Delphi 13 Community Edition Is Now Available](ai/community/delphi-13-community-edition-is-now-available.md)** • <kbd>+42 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)** • <kbd>+15 pts</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** • Rank: <kbd>+1794</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+988</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[elder-plinius/T3MP3ST](ai/rag/elder-plinius-t3mp3st.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[Code-and-Sorts/awesome-copilot-agents](ai/agents/code-and-sorts-awesome-copilot-agents.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[XMUDeepLIT/MemGraphRAG](ai/rag/xmudeeplit-memgraphrag.md)** • Rank: <kbd>+975</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[AI is removing the middle class of software engineering](ai/community/ai-is-removing-the-middle-class-of-software-engine.md)** • Score: `267`
-- 🆕 **[Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)** • Score: `216`
-- 🆕 **[What sort of maths are LLMs good at?](ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)** • Score: `186`
-- 🆕 **[Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)** • Score: `79`
-- 🆕 **[German advocacy group lodges criminal complaint over Meta AI glasses](ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)** • Score: `62`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Stealing Reasoning Traces from Proprietary LLM APIs](ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)**
-- 💤 **[OpenAI’s head of ethics leaves less than a year after joining](ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)**
-- 💤 **[Facebook is paying controversial creators to produce rage-bait content](ai/community/facebook-is-paying-controversial-creators-to-produ.md)**
-- 💤 **[US hires over 2k video gamers as air traffic controllers](ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
