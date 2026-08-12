@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:letter-to-governor-abbott-on-responsible-ai-infras
 first_seen: '2026-08-11T00:52:55.425711+05:30'
 last_seen: '2026-08-11T08:03:32.382301+05:30'
 last_checked: '2026-08-11T08:03:32.382301+05:30'
 health_score: 100
 ---
+
 
 # Letter to Governor Abbott on responsible AI infrastructure in Texas
 

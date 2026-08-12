@@ -13,13 +13,14 @@ collected_at: '2026-08-11T08:03:31.013883+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:confessions-of-a-long-distance-sailor
 first_seen: '2026-08-11T08:03:31.013883+05:30'
 last_seen: '2026-08-11T08:03:31.013883+05:30'
 last_checked: '2026-08-11T08:03:31.013883+05:30'
 health_score: 100
 ---
+
 
 # Confessions of a Long-Distance Sailor
 

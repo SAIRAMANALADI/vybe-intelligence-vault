@@ -13,13 +13,14 @@ collected_at: '2026-08-11T08:03:30.328878+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r
 first_seen: '2026-08-10T21:46:28.440943+05:30'
 last_seen: '2026-08-11T08:03:30.328878+05:30'
 last_checked: '2026-08-11T08:03:30.328878+05:30'
 health_score: 100
 ---
+
 
 # Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
 

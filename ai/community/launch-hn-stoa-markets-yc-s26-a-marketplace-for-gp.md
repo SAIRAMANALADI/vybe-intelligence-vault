@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-stoa-markets-yc-s26-a-marketplace-for-gp
 first_seen: '2026-08-11T00:52:53.436810+05:30'
 last_seen: '2026-08-11T08:03:32.065340+05:30'
 last_checked: '2026-08-11T08:03:32.065340+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers
 

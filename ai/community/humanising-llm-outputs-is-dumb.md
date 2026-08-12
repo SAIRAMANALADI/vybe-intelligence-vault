@@ -13,13 +13,14 @@ collected_at: '2026-08-11T08:03:31.618338+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:humanising-llm-outputs-is-dumb
 first_seen: '2026-08-11T00:52:56.040117+05:30'
 last_seen: '2026-08-11T08:03:31.618338+05:30'
 last_checked: '2026-08-11T08:03:31.618338+05:30'
 health_score: 100
 ---
+
 
 # Humanising LLM Outputs Is Dumb
 

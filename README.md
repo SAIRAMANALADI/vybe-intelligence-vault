@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-116%2C872-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-189%2C553-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--12-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **116,872 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **189,553 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,182</p>
-        <p><b>Active:</b> 17,631 | <b>Inactive:</b> 551</p>
+        <p><b>Resources tracked:</b> 19,657</p>
+        <p><b>Active:</b> 19,095 | <b>Inactive:</b> 562</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,253</p>
+        <p><b>Archive Files:</b> 73,480</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 116,872 files</p>
-        <p><b>Last Update:</b> 2026-08-12 09:47 IST</p>
+        <p><b>Total Vault Size:</b> 189,553 files</p>
+        <p><b>Last Update:</b> 2026-08-12 10:58 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+974</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+974</kbd>
-- 🔼 **[Get our developer newsletter · GitHub](ai/rag/get-our-developer-newsletter-github.md)** • Rank: <kbd>+974</kbd>
-- 🔼 **[Privacy Practices & Protections - Google Safety Center](ai/resources/privacy-practices-protections-google-safety-center.md)** • Rank: <kbd>+974</kbd>
-- 🔼 **[Control Your Online Safety and Privacy - Google Safety Center](ai/resources/control-your-online-safety-and-privacy-google-safe.md)** • Rank: <kbd>+974</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+6</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+1299</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Search & information retrieval](ai/companies/search-information-retrieval.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Stealing Reasoning Traces from Proprietary LLM APIs](ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)** • Score: `558`
+- 🆕 **[OpenAI’s head of ethics leaves less than a year after joining](ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)** • Score: `351`
+- 🆕 **[Go is an ideal language for AI-assisted software engineering](ai/community/go-is-an-ideal-language-for-ai-assisted-software-e.md)** • Score: `311`
+- 🆕 **[Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](ai/community/company-offering-100-human-written-never-ai-medica.md)** • Score: `89`
+- 🆕 **[Show HN: Line9 – A Mermaid rendering engine with its own layout](ai/community/show-hn-line9-a-mermaid-rendering-engine-with-its.md)** • Score: `46`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](ai/community/mark-zuckerberg-attacks-closed-ai-rivals-as-meta-r.md)**
+- 💤 **[Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](ai/community/show-hn-needle2-14mb-agentic-llm-for-phones-wearab.md)**
+- 💤 **[Humanising LLM Outputs Is Dumb](ai/community/humanising-llm-outputs-is-dumb.md)**
+- 💤 **[Tail-call optimization in C is relatively recent (2025)](ai/community/tail-call-optimization-in-c-is-relatively-recent.md)**
+- 💤 **[Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](ai/community/exploring-claude-gpt-knowledge-cutoffs-and-pre-tra.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

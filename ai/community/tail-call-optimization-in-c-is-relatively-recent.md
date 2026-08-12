@@ -13,13 +13,14 @@ collected_at: '2026-08-11T08:03:32.892281+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tail-call-optimization-in-c-is-relatively-recent-2
 first_seen: '2026-08-10T19:18:43.739578+05:30'
 last_seen: '2026-08-11T08:03:32.892281+05:30'
 last_checked: '2026-08-11T08:03:32.892281+05:30'
 health_score: 100
 ---
+
 
 # Tail-call optimization in C is relatively recent (2025)
 

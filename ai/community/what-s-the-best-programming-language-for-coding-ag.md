@@ -13,13 +13,14 @@ collected_at: '2026-08-11T08:03:32.793132+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-s-the-best-programming-language-for-coding-ag
 first_seen: '2026-08-11T08:03:32.793132+05:30'
 last_seen: '2026-08-11T08:03:32.793132+05:30'
 last_checked: '2026-08-11T08:03:32.793132+05:30'
 health_score: 100
 ---
+
 
 # What's the best programming language for coding agents?
 

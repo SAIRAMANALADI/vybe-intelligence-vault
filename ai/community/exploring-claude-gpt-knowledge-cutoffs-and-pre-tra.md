@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:exploring-claude-gpt-knowledge-cutoffs-and-pre-tra
 first_seen: '2026-08-10T21:46:27.112511+05:30'
 last_seen: '2026-08-11T08:03:32.588455+05:30'
 last_checked: '2026-08-11T08:03:32.588455+05:30'
 health_score: 100
 ---
+
 
 # Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines
 

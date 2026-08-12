@@ -18,10 +18,10 @@ This index groups curated resources by target developer skills.
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2502-12445.md))
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) (Tier: `useful` | [`Local File`](../../ai/agents/msoedov-agentic-security.md))
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-08282.md))
+- [Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/abs/2608.08311) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-08311.md))
 - [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-15899.md))
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-13405.md))
 - [GEAR | Google Developer Program | Google for Developers](https://developers.google.com/program/gear) (Tier: `useful` | [`Local File`](../../ai/agents/gear-google-developer-program-google-for-developer.md))
-- [EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi](https://arxiv.org/abs/2607.09090) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09090.md))
 
 ## API Design
 
@@ -85,9 +85,9 @@ This index groups curated resources by target developer skills.
 - [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer#before-you-begin) (Tier: `useful` | [`Local File`](../../ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md))
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (Tier: `useful` | [`Local File`](../../ai/agents/next-js-16-2-ai-improvements.md))
 - [How Anthropic teams use Claude Code | Claude by Anthropic](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code) (Tier: `useful` | [`Local File`](../../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md))
+- [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](https://arxiv.org/abs/2608.11095) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-11095.md))
 - [Introducing LangSmith Context Hub](https://www.langchain.com/blog/introducing-context-hub) (Tier: `useful` | [`Local File`](../../ai/rag/introducing-langsmith-context-hub.md))
 - [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (Tier: `useful` | [`Local File`](../../ai/rag/introduction-wordpress-playground.md))
-- [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2602-11988.md))
 
 ## Data Curation
 
@@ -117,10 +117,10 @@ This index groups curated resources by target developer skills.
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2502-12445.md))
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) (Tier: `useful` | [`Local File`](../../ai/agents/msoedov-agentic-security.md))
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-08282.md))
+- [Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/abs/2608.08311) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-08311.md))
 - [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-15899.md))
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-13405.md))
 - [GEAR | Google Developer Program | Google for Developers](https://developers.google.com/program/gear) (Tier: `useful` | [`Local File`](../../ai/agents/gear-google-developer-program-google-for-developer.md))
-- [EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi](https://arxiv.org/abs/2607.09090) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09090.md))
 
 ## Distributed Tracing
 
@@ -218,8 +218,8 @@ This index groups curated resources by target developer skills.
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
 - [MUGEN: A Unified Framework for Efficient Motion Understanding and Generation](https://arxiv.org/abs/2607.27581) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-27581.md))
+- [Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models](https://arxiv.org/abs/2608.10214) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-10214.md))
 - [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](https://arxiv.org/abs/2603.08173) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2603-08173.md))
-- [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](https://arxiv.org/abs/2601.21626) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-21626.md))
 
 ## MCP Integrations
 
@@ -238,10 +238,10 @@ This index groups curated resources by target developer skills.
 - [Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help](https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA) (Tier: `useful` | [`Local File`](../../ai/resources/purchase-watch-primetime-channels-on-youtube-compu.md))
 - [An Agentic Interface for End-to-End Probabilistic Seismic Hazard and Risk Analysis](https://arxiv.org/abs/2607.16249) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-16249.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Tier: `useful` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
-- [KAYROS: An Anytime and Exact Open-Source Solver for Duration-Minimization Time-Dependent Vehicle Routing. A Technical Report and a Case Study in Human-AI Engineering](https://arxiv.org/abs/2607.23116) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-23116.md))
 - [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://arxiv.org/abs/2607.09802) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09802.md))
 - [A Control Theory of Predictability in Latent World Models](https://arxiv.org/abs/2607.10362) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-10362.md))
 - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](https://n8n.io/workflows/9942-rag-powered-document-chat-with-google-drive-openai-and-pinecone-assistant/) (Tier: `useful` | [`Local File`](../../ai/rag/rag-powered-document-chat-with-google-drive-openai.md))
+- [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
 
 ## Market Analysis
 
@@ -259,8 +259,8 @@ This index groups curated resources by target developer skills.
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
 - [MUGEN: A Unified Framework for Efficient Motion Understanding and Generation](https://arxiv.org/abs/2607.27581) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-27581.md))
+- [Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models](https://arxiv.org/abs/2608.10214) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-10214.md))
 - [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](https://arxiv.org/abs/2603.08173) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2603-08173.md))
-- [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](https://arxiv.org/abs/2601.21626) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-21626.md))
 
 ## Model Selection
 
@@ -313,9 +313,9 @@ This index groups curated resources by target developer skills.
 - [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer#before-you-begin) (Tier: `useful` | [`Local File`](../../ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md))
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (Tier: `useful` | [`Local File`](../../ai/agents/next-js-16-2-ai-improvements.md))
 - [How Anthropic teams use Claude Code | Claude by Anthropic](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code) (Tier: `useful` | [`Local File`](../../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md))
+- [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](https://arxiv.org/abs/2608.11095) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-11095.md))
 - [Introducing LangSmith Context Hub](https://www.langchain.com/blog/introducing-context-hub) (Tier: `useful` | [`Local File`](../../ai/rag/introducing-langsmith-context-hub.md))
 - [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (Tier: `useful` | [`Local File`](../../ai/rag/introduction-wordpress-playground.md))
-- [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2602-11988.md))
 
 ## Prompt Engineering
 
@@ -389,10 +389,10 @@ This index groups curated resources by target developer skills.
 - [Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help](https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA) (Tier: `useful` | [`Local File`](../../ai/resources/purchase-watch-primetime-channels-on-youtube-compu.md))
 - [An Agentic Interface for End-to-End Probabilistic Seismic Hazard and Risk Analysis](https://arxiv.org/abs/2607.16249) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-16249.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Tier: `useful` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
-- [KAYROS: An Anytime and Exact Open-Source Solver for Duration-Minimization Time-Dependent Vehicle Routing. A Technical Report and a Case Study in Human-AI Engineering](https://arxiv.org/abs/2607.23116) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-23116.md))
 - [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://arxiv.org/abs/2607.09802) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09802.md))
 - [A Control Theory of Predictability in Latent World Models](https://arxiv.org/abs/2607.10362) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-10362.md))
 - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](https://n8n.io/workflows/9942-rag-powered-document-chat-with-google-drive-openai-and-pinecone-assistant/) (Tier: `useful` | [`Local File`](../../ai/rag/rag-powered-document-chat-with-google-drive-openai.md))
+- [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
 
 ## Scripting
 
@@ -527,4 +527,4 @@ This index groups curated resources by target developer skills.
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 
 ---
-*Last updated: 2026-08-11 08:21 IST*
+*Last updated: 2026-08-12 10:57 IST*

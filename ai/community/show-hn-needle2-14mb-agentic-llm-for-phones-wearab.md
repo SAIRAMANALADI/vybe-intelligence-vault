@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:show-hn-needle2-14mb-agentic-llm-for-phones-wearab
 first_seen: '2026-08-11T03:33:41.853708+05:30'
 last_seen: '2026-08-11T08:03:30.187484+05:30'
 last_checked: '2026-08-11T08:03:30.187484+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots
 

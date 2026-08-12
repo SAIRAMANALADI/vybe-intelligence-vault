@@ -13,13 +13,14 @@ collected_at: '2026-08-11T08:03:30.046310+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-mechanical-miracle-that-ruined-mark-twains-lif
 first_seen: '2026-08-11T08:03:30.046310+05:30'
 last_seen: '2026-08-11T08:03:30.046310+05:30'
 last_checked: '2026-08-11T08:03:30.046310+05:30'
 health_score: 100
 ---
+
 
 # The “mechanical miracle” that ruined Mark Twain’s life
 

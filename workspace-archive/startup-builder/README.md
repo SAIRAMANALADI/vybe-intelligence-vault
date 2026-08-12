@@ -12,10 +12,10 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 - [Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help](https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA) (tutorial - USEFUL Tier)
 - [An Agentic Interface for End-to-End Probabilistic Seismic Hazard and Risk Analysis](https://arxiv.org/abs/2607.16249) (framework - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
-- [KAYROS: An Anytime and Exact Open-Source Solver for Duration-Minimization Time-Dependent Vehicle Routing. A Technical Report and a Case Study in Human-AI Engineering](https://arxiv.org/abs/2607.23116) (benchmark - USEFUL Tier)
 - [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://arxiv.org/abs/2607.09802) (framework - USEFUL Tier)
 - [A Control Theory of Predictability in Latent World Models](https://arxiv.org/abs/2607.10362) (framework - USEFUL Tier)
 - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](https://n8n.io/workflows/9942-rag-powered-document-chat-with-google-drive-openai-and-pinecone-assistant/) (template - USEFUL Tier)
+- [reliverse/relivator](https://github.com/reliverse/relivator) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-08-11 08:21 IST*
+*Last updated: 2026-08-12 10:57 IST*
