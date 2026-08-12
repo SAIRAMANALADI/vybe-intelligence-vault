@@ -4314,12 +4314,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Beef and dairy drive 41% of biodiversity damage linked to global farmland](../ai/community/beef-and-dairy-drive-41-of-biodiversity-damage-lin.md)
-  - [Dutch Train Map Simulator](../ai/community/dutch-train-map-simulator.md)
+  - [Delphi 13 Community Edition Is Now Available](../ai/community/delphi-13-community-edition-is-now-available.md)
   - [Facebook is paying controversial creators to produce rage-bait content](../ai/community/facebook-is-paying-controversial-creators-to-produ.md)
   - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)
   - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [OpenAI’s head of ethics leaves less than a year after joining](../ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)
+  - [US hires over 2k video gamers as air traffic controllers](../ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)
 
 ## animation
 
@@ -17370,7 +17370,6 @@ Resources organized by keyword tags.
   - [Bayesian Tensor Decomposition with Diffusion Model Prior](../ai/research/arxiv-2606-03212.md)
   - [Be Well Bruin | Be Well Bruin](../ai/resources/be-well-bruin-be-well-bruin.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
-  - [Beef and dairy drive 41% of biodiversity damage linked to global farmland](../ai/community/beef-and-dairy-drive-41-of-biodiversity-damage-lin.md)
   - [Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report](../ai/rag/arxiv-2607-07370.md)
   - [Benchmark Evaluation of Feredated Learning on Multi-organ Images](../ai/research/arxiv-2607-08219.md)
   - [Benchmarking Action Spaces in Reinforcement Learning for Vision-based Robotic Manipulation](../ai/research/arxiv-2606-18594.md)
@@ -17708,6 +17707,7 @@ Resources organized by keyword tags.
   - [Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI](../ai/research/arxiv-2606-12713.md)
   - [Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](../ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md)
   - [Delocalization of bias in unadjusted Hamiltonian Monte Carlo and underdamped Langevin](../ai/research/arxiv-2607-15208.md)
+  - [Delphi 13 Community Edition Is Now Available](../ai/community/delphi-13-community-edition-is-now-available.md)
   - [Delta-Based Target Reformulation for Short-Term Electricity Load Forecasting Using LSTM and Transformer Models](../ai/research/arxiv-2606-17692.md)
   - [Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference](../ai/research/arxiv-2608-04428.md)
   - [Democratizing Advanced High-Throughput Imaging via Cross-Instrument Deep Learning-Enabled Modality Transfer](../ai/research/arxiv-2403-18026.md)
@@ -17790,7 +17790,6 @@ Resources organized by keyword tags.
   - [Dual-Level Atomic and Coordination Geometry Learning for Crystal Property Prediction Using Graph Neural Networks](../ai/research/arxiv-2607-24818.md)
   - [DualHNIE: Dual-Channel Hypergraph Learning for Node Importance Estimation in Heterogeneous Knowledge Graphs](../ai/research/arxiv-2512-12477.md)
   - [Durable Execution Solutions | Temporal](../ai/agents/durable-execution-solutions-temporal.md)
-  - [Dutch Train Map Simulator](../ai/community/dutch-train-map-simulator.md)
   - [DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence](../ai/research/arxiv-2607-10098.md)
   - [DynaWM: Dynamics-Aware Distillation with World Model and Momentum Targets for Smooth Locomotion over Continuous Stairs](../ai/research/arxiv-2606-24089.md)
   - [DynamiQ: Accelerating Gradient Synchronization using Compressed Multi-hop All-reduce](../ai/research/arxiv-2602-08923.md)
@@ -19421,7 +19420,6 @@ Resources organized by keyword tags.
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Tightening the Score Matching Gap for Diffusion Models](../ai/research/arxiv-2607-04442.md)
-  - [Tim Gowers: What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
   - [Tim Kadlec](../ai/rag/tim-kadlec.md)
   - [Time to First Byte (TTFB) | Articles | web.dev](../ai/resources/time-to-first-byte-ttfb-articles-web-dev.md)
   - [To Erase, or Not to Erase: Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion](../ai/research/arxiv-2607-23492.md)
@@ -19516,6 +19514,7 @@ Resources organized by keyword tags.
   - [UNVaMP: Neural Knowledge Tracing with Variational Regularization of Latent Knowledge Dynamics](../ai/research/arxiv-2608-03811.md)
   - [URL Pattern Standard](../ai/rag/url-pattern-standard.md)
   - [URL Standard](../ai/rag/url-standard.md)
+  - [US hires over 2k video gamers as air traffic controllers](../ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)
   - [US privacy policy | OpenAI](../ai/agents/us-privacy-policy-openai.md)
   - [UT Austin Computer Science](../ai/rag/ut-austin-computer-science.md)
   - [UTS #18: Unicode Regular Expressions](../ai/rag/uts-18-unicode-regular-expressions.md)
@@ -19644,6 +19643,7 @@ Resources organized by keyword tags.
   - [What is Retrieval-Augmented Generation (RAG)? | NVIDIA Glossary](../ai/rag/what-is-retrieval-augmented-generation-rag-nvidia.md)
   - [What is a Container? | Docker](../ai/rag/what-is-a-container-docker.md)
   - [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md)
+  - [What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
   - [What's Different About This Book? - The Rust Programming Language](../ai/rag/what-s-different-about-this-book-the-rust-programm.md)
   - [What's in a Smoothness Constant? Tighter Rates for Local SGD with Bounded Second-order Heterogeneity](../ai/rag/arxiv-2607-14731.md)
   - [What's new in Aspire 13.1 | Aspire](../ai/agents/what-s-new-in-aspire-13-1-aspire.md)
@@ -19770,7 +19770,6 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -20462,7 +20461,7 @@ Resources organized by keyword tags.
 ## llm
 
   - [Stealing Reasoning Traces from Proprietary LLM APIs](../ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)
-  - [Tim Gowers: What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
+  - [What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
 
 ## mdx
 
@@ -24063,6 +24062,7 @@ Resources organized by keyword tags.
   - [SwiftRepertoire: Few-Shot Immune-Signature Synthesis via Dynamic Kernel Codes](../ai/research/arxiv-2602-01051.md)
   - [SwinIFS: Landmark Guided Swin Transformer For Identity Preserving Face Super Resolution](../ai/research/arxiv-2601-01406.md)
   - [Sycophancy as Material Failure under Pushback Loading: A Multi-Axis Characterization Across Three Loading Cases and up to Seventeen Material Charges](../ai/rag/arxiv-2606-16617.md)
+  - [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md)
   - [Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups](../ai/research/arxiv-2607-27232.md)
   - [Symplectic Transversality and Endpoint Green Estimates for Finite-Horizon Pontryagin Systems](../ai/research/arxiv-2606-17762.md)
   - [SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection](../ai/research/arxiv-2604-26633.md)
@@ -43938,6 +43938,7 @@ Resources organized by keyword tags.
   - [Two-Layer Linear Auto-Regressive Models Estimate Latent States](../ai/research/arxiv-2606-12691.md)
   - [U.S. Copyright Office | U.S. Copyright Office](../ai/resources/u-s-copyright-office-u-s-copyright-office.md)
   - [UCLA - Official Athletics Website](../ai/resources/ucla-official-athletics-website.md)
+  - [US hires over 2k video gamers as air traffic controllers](../ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)
   - [US privacy policy | OpenAI](../ai/agents/us-privacy-policy-openai.md)
   - [Uncertainty Modeling for Multi-Objective RTA Interception with Distillation Acceleration](../ai/research/arxiv-2511-05582.md)
   - [Uncertainty-Guided LLM Semantic Augmentation for Heterogeneous Treatment Effect Estimation](../ai/rag/arxiv-2607-26599.md)
@@ -44200,4 +44201,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-12T16:14:42.885550+05:30*
+*Index generated on 2026-08-12T19:38:57.252393+05:30*

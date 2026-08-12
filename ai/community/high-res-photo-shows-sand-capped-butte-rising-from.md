@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars
 hn_url: https://news.ycombinator.com/item?id=49194856
-score: 3
+score: 70
 author: bookofjoe
-comments_count: 0
+comments_count: 5
 published_at: '2026-08-06T15:59:50+05:30'
-collected_at: '2026-08-12T15:58:27.399717+05:30'
+collected_at: '2026-08-12T19:22:44.004498+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:high-res-photo-shows-sand-capped-butte-rising-from
 first_seen: '2026-08-12T15:58:27.399717+05:30'
-last_seen: '2026-08-12T15:58:27.399717+05:30'
-last_checked: '2026-08-12T15:58:27.399717+05:30'
+last_seen: '2026-08-12T19:22:44.004498+05:30'
+last_checked: '2026-08-12T19:22:44.004498+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by bookofjoe. Score: 3, Comments: 0.
+Hacker News story by bookofjoe. Score: 70, Comments: 5.
 Original Link: https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: bookofjoe
-- Score: 3 Upvotes
-- Comments: 0 Discussions
+- Score: 70 Upvotes
+- Comments: 5 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49194856
 - Original Article: https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars
 

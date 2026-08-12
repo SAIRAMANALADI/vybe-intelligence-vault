@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://discoveredmaterials.com/research
 hn_url: https://news.ycombinator.com/item?id=49269090
-score: 17
+score: 35
 author: advaith08
-comments_count: 5
+comments_count: 11
 published_at: '2026-08-12T13:21:20+05:30'
-collected_at: '2026-08-12T15:58:26.417786+05:30'
+collected_at: '2026-08-12T19:22:44.799724+05:30'
 tags:
 - agents
 - ai
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-discovered-materials-yc-p26-ai-agents-to
 first_seen: '2026-08-12T15:58:26.417786+05:30'
-last_seen: '2026-08-12T15:58:26.417786+05:30'
-last_checked: '2026-08-12T15:58:26.417786+05:30'
+last_seen: '2026-08-12T19:22:44.799724+05:30'
+last_checked: '2026-08-12T19:22:44.799724+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by advaith08. Score: 17, Comments: 5.
+Hacker News story by advaith08. Score: 35, Comments: 11.
 Original Link: https://discoveredmaterials.com/research/
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: advaith08
-- Score: 17 Upvotes
-- Comments: 5 Discussions
+- Score: 35 Upvotes
+- Comments: 11 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49269090
 - Original Article: https://discoveredmaterials.com/research
 

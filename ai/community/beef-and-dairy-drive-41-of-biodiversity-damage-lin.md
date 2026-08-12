@@ -13,13 +13,14 @@ collected_at: '2026-08-12T15:58:25.506326+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:beef-and-dairy-drive-41-of-biodiversity-damage-lin
 first_seen: '2026-08-12T15:58:25.506326+05:30'
 last_seen: '2026-08-12T15:58:25.506326+05:30'
 last_checked: '2026-08-12T15:58:25.506326+05:30'
 health_score: 100
 ---
+
 
 # Beef and dairy drive 41% of biodiversity damage linked to global farmland
 

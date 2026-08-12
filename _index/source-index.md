@@ -15323,14 +15323,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Beef and dairy drive 41% of biodiversity damage linked to global farmland](../ai/community/beef-and-dairy-drive-41-of-biodiversity-damage-lin.md)
-  - [Dutch Train Map Simulator](../ai/community/dutch-train-map-simulator.md)
+  - [Delphi 13 Community Edition Is Now Available](../ai/community/delphi-13-community-edition-is-now-available.md)
   - [Facebook is paying controversial creators to produce rage-bait content](../ai/community/facebook-is-paying-controversial-creators-to-produ.md)
   - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)
   - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [OpenAI’s head of ethics leaves less than a year after joining](../ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)
   - [Stealing Reasoning Traces from Proprietary LLM APIs](../ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)
-  - [Tim Gowers: What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
+  - [US hires over 2k video gamers as air traffic controllers](../ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)
+  - [What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19142,4 +19142,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-12T16:14:43.078418+05:30*
+*Index generated on 2026-08-12T19:38:57.455723+05:30*
