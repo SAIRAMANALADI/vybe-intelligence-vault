@@ -37,9 +37,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | play.google.com | 8 |
 | en.wikipedia.org | 8 |
 | ico.org.uk | 8 |
-| medium.com | 8 |
 | creativecommons.org | 7 |
 | help.medium.com | 7 |
+| medium.com | 7 |
 | twilio.com | 7 |
 | github.blog | 6 |
 | blog.langchain.com | 6 |
@@ -471,6 +471,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | michelf.ca | 1 |
 | ts.llamaindex.ai | 1 |
 | kangsankim07.github.io | 1 |
+| blog.medium.com | 1 |
 | www4.law.cornell.edu | 1 |
 | santaclaraprinciples.org | 1 |
 | datahack.analyticsvidhya.com | 1 |
