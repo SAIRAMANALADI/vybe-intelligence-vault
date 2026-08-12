@@ -13,13 +13,14 @@ collected_at: '2026-08-12T10:38:22.168749+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: github:rimironenko/rag-staleness-check
 first_seen: '2026-08-12T10:38:22.168749+05:30'
 last_seen: '2026-08-12T10:38:22.168749+05:30'
 last_checked: '2026-08-12T10:38:22.168749+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors
 

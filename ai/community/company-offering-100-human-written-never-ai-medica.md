@@ -13,13 +13,14 @@ collected_at: '2026-08-12T10:38:20.771762+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:company-offering-100-human-written-never-ai-medica
 first_seen: '2026-08-12T10:38:20.771762+05:30'
 last_seen: '2026-08-12T10:38:20.771762+05:30'
 last_checked: '2026-08-12T10:38:20.771762+05:30'
 health_score: 100
 ---
+
 
 # Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI
 

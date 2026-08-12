@@ -8,14 +8,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [ElevenLabs · GitHub](https://github.com/elevenlabs)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`elevenlabs-github.md`](../../ai/rag/elevenlabs-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 - **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`azure-samples-chat-with-your-data-solution-accelerator.md`](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [ElevenLabs · GitHub](https://github.com/elevenlabs)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`elevenlabs-github.md`](../../ai/rag/elevenlabs-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
@@ -48,14 +48,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2504-01407.md`](../../ai/agents/arxiv-2504-01407.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626)
-- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2607-07626.md`](../../ai/research/arxiv-2607-07626.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2406-00238.md`](../../ai/research/arxiv-2406-00238.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626)
+- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2607-07626.md`](../../ai/research/arxiv-2607-07626.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
@@ -63,9 +63,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2606-24937.md`](../../ai/rag/arxiv-2606-24937.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [An End-to-End Agent Auditing Engine](https://arxiv.org/abs/2608.07346)
+### [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2608-07346.md`](../../ai/rag/arxiv-2608-07346.md)
+- **Score**: `82` | **Path**: [`arxiv-2608-06931.md`](../../ai/rag/arxiv-2608-06931.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-12 10:57 IST*
+*Last updated: 2026-08-12 13:46 IST*

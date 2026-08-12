@@ -12,9 +12,9 @@ Claude Desktop, MCP Python SDK, MCP TypeScript SDK.
 ## Recommended Resources from the Vault
 *   [Jpisnice/shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server)
 *   [udecode/plate](https://github.com/udecode/plate)
-*   [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp)
 *   [Upskill your LLMs With Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-servers)
-*   [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp)
+*   [How to Build an MCP Server with Gradio](https://huggingface.co/blog/gradio-mcp)
+*   [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini)
 
 ## Project Ideas
 *   Create an MCP server that retrieves database schemas and writes SQL queries.

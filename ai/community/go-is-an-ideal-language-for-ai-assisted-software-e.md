@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering
 hn_url: https://news.ycombinator.com/item?id=49261133
-score: 311
+score: 357
 author: '0xedb'
-comments_count: 370
+comments_count: 408
 published_at: '2026-08-11T22:27:09+05:30'
-collected_at: '2026-08-12T10:38:21.606168+05:30'
+collected_at: '2026-08-12T13:28:32.974416+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:go-is-an-ideal-language-for-ai-assisted-software-e
 first_seen: '2026-08-12T10:38:21.606168+05:30'
-last_seen: '2026-08-12T10:38:21.606168+05:30'
-last_checked: '2026-08-12T10:38:21.606168+05:30'
+last_seen: '2026-08-12T13:28:32.974416+05:30'
+last_checked: '2026-08-12T13:28:32.974416+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by 0xedb. Score: 311, Comments: 370.
+Hacker News story by 0xedb. Score: 357, Comments: 408.
 Original Link: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: 0xedb
-- Score: 311 Upvotes
-- Comments: 370 Discussions
+- Score: 357 Upvotes
+- Comments: 408 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49261133
 - Original Article: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering
 

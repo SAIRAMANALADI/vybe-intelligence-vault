@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elder-plinius/T3MP3ST
-collected_at: '2026-08-11T00:57:39.194219+05:30'
-published_at: '2026-08-10T18:49:28Z'
+collected_at: '2026-08-12T13:32:53.172468+05:30'
+published_at: '2026-08-12T06:12:04Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
-stars: 5512
+stars: 5538
 language: TypeScript
 status: active
 license: AGPL-3.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-07-02T17:53:55Z'
 pushed_at: '2026-08-02T21:17:28Z'
 resource_id: github:elder-plinius/t3mp3st
-first_seen: '2026-08-11T00:57:39.194219+05:30'
-last_seen: '2026-08-11T00:57:39.194219+05:30'
-last_checked: '2026-08-11T00:57:39.194219+05:30'
+first_seen: '2026-08-12T13:32:53.172468+05:30'
+last_seen: '2026-08-12T13:32:53.172468+05:30'
+last_checked: '2026-08-12T13:32:53.172468+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Red Teaming Framework**: Open-source TypeScript-based platform enabling autonomous offensive security operations via multi-agent orchestration, designed for autonomous penetration testing and adversarial simulation.
-
-- **Multi-Agent Offensive-Security Meta-Harness**: Integrates specialized AI agents for reconnaissance, exploitation, lateral movement, and persistence, dynamically adapting attack strategies based on real-time feedback and environmental interactions.
-
-- **Modular & Extensible Architecture**: Supports custom agent development, plugin integration, and scalable deployment, leveraging TypeScript for cross-platform compatibility and rapid iteration in offensive security workflows.
+*   Autonomous red teaming platform utilizing a multi-agent offensive-security meta-harness.
+*   Leverages AI-driven, multi-agent architectures for advanced adversarial simulation.
+*   Implemented predominantly in TypeScript, indicating a modern, type-safe codebase for offensive security tooling.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: elder-plinius
-- Stars: 5512
-- Forks: 1143
+- Stars: 5538
+- Forks: 1152
 - Language: TypeScript
 - Topics: agents, ai, multi-agent, offensive-security, redteam
-- Last Updated: 2026-08-10T18:49:28Z
+- Last Updated: 2026-08-12T06:12:04Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-07-02T17:53:55Z
