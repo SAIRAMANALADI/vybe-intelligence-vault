@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at
 hn_url: https://news.ycombinator.com/item?id=49270022
-score: 208
+score: 221
 author: ColinWright
-comments_count: 105
+comments_count: 127
 published_at: '2026-08-12T15:34:25+05:30'
-collected_at: '2026-08-13T00:57:16.121197+05:30'
+collected_at: '2026-08-13T03:39:51.349973+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:what-sort-of-maths-are-llms-good-at
 first_seen: '2026-08-12T15:58:25.121576+05:30'
-last_seen: '2026-08-13T00:57:16.121197+05:30'
-last_checked: '2026-08-13T00:57:16.121197+05:30'
+last_seen: '2026-08-13T03:39:51.349973+05:30'
+last_checked: '2026-08-13T03:39:51.349973+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ColinWright. Score: 208, Comments: 105.
+Hacker News story by ColinWright. Score: 221, Comments: 127.
 Original Link: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ColinWright
-- Score: 208 Upvotes
-- Comments: 105 Discussions
+- Score: 221 Upvotes
+- Comments: 127 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49270022
 - Original Article: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at
 

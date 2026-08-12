@@ -13,13 +13,14 @@ collected_at: '2026-08-13T00:57:16.731916+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:high-res-photo-shows-sand-capped-butte-rising-from
 first_seen: '2026-08-12T15:58:27.399717+05:30'
 last_seen: '2026-08-13T00:57:16.731916+05:30'
 last_checked: '2026-08-13T00:57:16.731916+05:30'
 health_score: 100
 ---
+
 
 # High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons
 

@@ -527,4 +527,4 @@ This index groups curated resources by target developer skills.
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 
 ---
-*Last updated: 2026-08-13 01:15 IST*
+*Last updated: 2026-08-13 03:57 IST*

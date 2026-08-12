@@ -2040,6 +2040,7 @@ Resources organized by keyword tags.
   - [Latent Actions from Factorized Transition Effects under Agent Ambiguity](../ai/agents/arxiv-2606-30544.md)
   - [Latent Collaboration in Multi-Agent Systems](../ai/rag/arxiv-2511-20639.md)
   - [LatentGym: A Testbed For Cross-Task Experiential Learning With Controllable Latent Structure](../ai/agents/arxiv-2606-15306.md)
+  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory](../ai/rag/arxiv-2607-22690.md)
   - [Leadership as Coordination Control: Behavioral Signatures and the Recovery-Advantage Boundary in Multi-Agent LLM Teams](../ai/agents/arxiv-2606-19111.md)
@@ -4313,13 +4314,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI is removing the middle class of software engineering](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
-  - [Delphi 13 Community Edition Is Now Available](../ai/community/delphi-13-community-edition-is-now-available.md)
-  - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)
+  - [AI is removing the middle class of software engineering?](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
+  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
+  - [Lovable raises $400M Series C](../ai/community/we-just-raised-400m-in-series-c.md)
   - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
-  - [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](../ai/community/spacexai-s-grok-4-6-scores-61-on-the-artificial-an.md)
   - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)
-  - [We just raised $400M in Series C](../ai/community/we-just-raised-400m-in-series-c.md)
 
 ## animation
 
@@ -10257,7 +10256,6 @@ Resources organized by keyword tags.
   - [SovereignNegotiation-Bench: Evaluating User-Owned Personal Agents In Delegated Bargaining Under Privacy, Consent, Evidence, And Institutional Pressure](../ai/agents/arxiv-2607-02814.md)
   - [SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints](../ai/agents/arxiv-2607-05363.md)
   - [Soyeong Jeong](../ai/rag/soyeong-jeong.md)
-  - [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](../ai/community/spacexai-s-grok-4-6-scores-61-on-the-artificial-an.md)
   - [SparSEEty: Extracting Tokens from Sparsity-Exploiting LLM Serving Systems via Deterministic Side Channels](../ai/rag/arxiv-2608-02995.md)
   - [Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](../ai/rag/arxiv-2607-18080.md)
   - [Sparse probes and murky physics: a case study of interpretability challenges in a foundation model for continuum dynamics](../ai/research/arxiv-2606-11657.md)
@@ -17177,7 +17175,7 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
-  - [AI is removing the middle class of software engineering](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
+  - [AI is removing the middle class of software engineering?](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -17710,7 +17708,6 @@ Resources organized by keyword tags.
   - [Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI](../ai/research/arxiv-2606-12713.md)
   - [Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](../ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md)
   - [Delocalization of bias in unadjusted Hamiltonian Monte Carlo and underdamped Langevin](../ai/research/arxiv-2607-15208.md)
-  - [Delphi 13 Community Edition Is Now Available](../ai/community/delphi-13-community-edition-is-now-available.md)
   - [Delta-Based Target Reformulation for Short-Term Electricity Load Forecasting Using LSTM and Transformer Models](../ai/research/arxiv-2606-17692.md)
   - [Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference](../ai/research/arxiv-2608-04428.md)
   - [Democratizing Advanced High-Throughput Imaging via Cross-Instrument Deep Learning-Enabled Modality Transfer](../ai/research/arxiv-2403-18026.md)
@@ -18183,7 +18180,6 @@ Resources organized by keyword tags.
   - [HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS](../ai/research/arxiv-2607-11746.md)
   - [Hierarchical Reinforcement Learning with Optimal Level Synchronization Based on Flow-Based Deep Generative Model](../ai/rag/arxiv-2107-08183.md)
   - [Hierarchical Wireless Foundation Model for Multi-Task Optimization](../ai/research/arxiv-2607-16877.md)
-  - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)
   - [High-accuracy Low-Bit KV-Cache Quantization via Local Distribution Restoration](../ai/research/arxiv-2607-16248.md)
   - [Higher-Order Certified Robustness for Regression](../ai/research/arxiv-2607-05536.md)
   - [Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning](../ai/rag/arxiv-2606-24133.md)
@@ -18420,6 +18416,7 @@ Resources organized by keyword tags.
   - [Latency optimization | OpenAI API](../ai/rag/latency-optimization-openai-api.md)
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
+  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -18498,6 +18495,7 @@ Resources organized by keyword tags.
   - [Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits](../ai/rag/arxiv-2607-22564.md)
   - [Losses — Sentence Transformers documentation](../ai/rag/losses-sentence-transformers-documentation.md)
   - [Lost in Transmission: An Information-Theoretic Account of Unsupervised Software Traceability](../ai/rag/arxiv-2412-04704.md)
+  - [Lovable raises $400M Series C](../ai/community/we-just-raised-400m-in-series-c.md)
   - [Low-Cost Neuromorphic Fall Detection Using Synthetic Event Data and Hybrid SNNs](../ai/rag/arxiv-2606-18732.md)
   - [Low-Overhead Error-Corrected QCNNs Using Bivariate Bicycle Codes](../ai/research/arxiv-2607-05724.md)
   - [Low-Precision Training of Large Language Models: Methods, Challenges, and Opportunities](../ai/rag/arxiv-2505-01043.md)
@@ -19205,7 +19203,6 @@ Resources organized by keyword tags.
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [Soyeong Jeong](../ai/rag/soyeong-jeong.md)
   - [Space Telecommunications, Astronomy and Radiation Laboratory - MIT AeroAstro](../ai/resources/space-telecommunications-astronomy-and-radiation-l.md)
-  - [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](../ai/community/spacexai-s-grok-4-6-scores-61-on-the-artificial-an.md)
   - [Spaces - Hugging Face](../ai/rag/spaces-hugging-face.md)
   - [Spam and Sentiment Detection in Arabic Tweets Using MARBERT Model](../ai/research/arxiv-2606-25495.md)
   - [Sparse Covariance Neural Networks](../ai/rag/arxiv-2410-01669.md)
@@ -19604,7 +19601,6 @@ Resources organized by keyword tags.
   - [WasmAssembly](../ai/resources/wasmassembly.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
-  - [We just raised $400M in Series C](../ai/community/we-just-raised-400m-in-series-c.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -19771,6 +19767,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -23400,6 +23397,7 @@ Resources organized by keyword tags.
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
@@ -28635,6 +28633,7 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
+  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -44198,4 +44197,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-13T01:13:41.364480+05:30*
+*Index generated on 2026-08-13T03:56:04.194818+05:30*
