@@ -1,59 +1,49 @@
 ---
-title: CoinLobster/agent-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-12
-tech_stack:
-- JavaScript
-- HTTP/REST APIs
-- MCP (Model Context Protocol)
-- JSON
-- Curl
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: Low
-tags:
-- crypto trading
-- whale tracking
-- real-time data
-- agent skills
-- keyless API
-source: https://github.com/CoinLobster/agent-skills
-stars: 1
-language: JavaScript
-last_updated: '2026-08-07T06:02:13Z'
-discovered_at: '2026-08-07T06:13:29Z'
-evaluated_by: mistral-small-latest
+title: "paradedb/agent-skills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Shell", "PostgreSQL", "BM25", "Full-text search", "AI agent integration"]
+quality_score: 8
+rag_relevance: 7
+deployment_complexity: "Low"
+tags: ["AI agent skills", "PostgreSQL search", "BM25", "documentation retrieval", "Elasticsearch alternative"]
+source: "https://github.com/paradedb/agent-skills"
+stars: 8
+language: "Shell"
+last_updated: "2026-07-20T02:29:05Z"
+discovered_at: "2026-07-20T02:45:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A collection of six AI agent skills designed to teach agents how to analyze live crypto whale flow and trading activity across 15 exchanges and multiple blockchains. The skills leverage a keyless public API to provide real-time, auditable data on whale trades, liquidations, and market snapshots with methodological guidance.
+A specialized AI agent skill for ParadeDB that enables agents to fetch and utilize the latest ParadeDB documentation dynamically. It provides expertise on BM25 indexing, full-text search in PostgreSQL, and Elasticsearch alternatives.
 
 ## Key Features
-- Six pre-built agent skills for live crypto whale flow analysis (whale-flow, whale-radar, crypto-liquidations, crypto-market-snapshot, crypto-trade-context, coinlobster-api)
-- Leverages a keyless public API with auditable curl calls for transparency and trust
-- Provides real-time executed whale trades, liquidations, and market snapshots across 15 exchanges and Ethereum/Base/Arbitrum blockchains
-- Includes methodological guidance for interpreting whale activity and signal outcomes with sample sizes and recorded history
-- Designed for integration with AI agents (Claude Code, Cursor, Copilot, etc.) via MCP or direct REST calls
+- Dynamic documentation fetching for up-to-date ParadeDB knowledge
+- Lightweight script-based integration with AI agents
+- Supports BM25 indexing and full-text search in PostgreSQL
+- Provides curated prompt examples for agent interactions
+- Ensures agent access to latest docs without static bundling
 
 ## Why It Matters for RAG Builders
-It enables AI agents to access real-time, auditable crypto whale flow data and trading insights without requiring API keys, bridging the gap between agent reasoning and live market intelligence.
+It enables AI agents to dynamically access and leverage ParadeDB's latest documentation, enhancing their ability to provide accurate and current guidance on PostgreSQL-based search and retrieval.
 
 ## Tech Stack Deep Dive
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Shell
+Automated review identified **Shell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### HTTP/REST APIs
-Automated review identified **HTTP/REST APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### BM25
+Automated review identified **BM25** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON
-Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Full-text search
+Automated review identified **Full-text search** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Curl
-Automated review identified **Curl** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### AI agent integration
+Automated review identified **AI agent integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-12T22:06:01.295087+05:30`
+Generated at: `2026-08-12T22:39:58.512732+05:30`
 
 ## Executive Summary
 
@@ -13,8 +13,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **What sort of maths are LLMs good at?** - Score: `186` in category `ai/community` ([Link](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at)) ([File](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md))
 - **Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot** - Score: `79` in category `ai/community` ([Link](https://knownagents.com/insights)) ([File](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md))
 - **German advocacy group lodges criminal complaint over Meta AI glasses** - Score: `62` in category `ai/community` ([Link](https://reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12)) ([File](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md))
-- **LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/liquidai/lfm2-5-vl-3b)) ([File](../ai/models/huggingface-blog-liquidai-lfm2-5-vl-3b.md))
-- **Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis** - Score: `0` in category `ai/rag` ([Link](https://huggingface.co/blog/allenai/olmoearth-embeddings)) ([File](../ai/rag/huggingface-blog-allenai-olmoearth-embeddings.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -24,23 +23,23 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+1794` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
 - **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+988` ([File](../ai/rag/particlemedia-ragtruth.md))
 - **malonge/RaGOO** - Score: `0` (0), Rank Change: `+986` ([File](../ai/rag/malonge-ragoo.md))
-- **Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants** - Score: `0` (0), Rank Change: `+68` ([File](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
-- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - Score: `0` (0), Rank Change: `+68` ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
-- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - Score: `0` (0), Rank Change: `+68` ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
-- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - Score: `0` (0), Rank Change: `+68` ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
+- **elder-plinius/T3MP3ST** - Score: `0` (0), Rank Change: `+972` ([File](../ai/rag/elder-plinius-t3mp3st.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+972` ([File](../ai/rag/airweave-ai-airweave.md))
+- **Code-and-Sorts/awesome-copilot-agents** - Score: `0` (0), Rank Change: `+972` ([File](../ai/agents/code-and-sorts-awesome-copilot-agents.md))
+- **XMUDeepLIT/MemGraphRAG** - Score: `0` (0), Rank Change: `+972` ([File](../ai/rag/xmudeeplit-memgraphrag.md))
 
 ## 🚀 Fastest Rising Tools
 
 - **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1794`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
 - **ParticleMedia/RAGTruth** - (Rank Change: `+988`) ([File](../ai/rag/particlemedia-ragtruth.md))
 - **malonge/RaGOO** - (Rank Change: `+986`) ([File](../ai/rag/malonge-ragoo.md))
-- **Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants** - (Rank Change: `+68`) ([File](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
-- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - (Rank Change: `+68`) ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
-- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - (Rank Change: `+68`) ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
-- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - (Rank Change: `+68`) ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
-- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - (Rank Change: `+68`) ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
-- **Jul 27, 2026AnnouncementsOur position on open-weights models** - (Rank Change: `+68`) ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
-- **Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations** - (Rank Change: `+68`) ([File](../ai/companies/anthropic/jul-30-2026investigating-three-real-world-incident.md))
+- **microsoft/rag-time** - (Rank Change: `+976`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-22216.md))
 
 ## 🔄 Essential Tier Transitions
 
