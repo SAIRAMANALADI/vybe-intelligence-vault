@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-189%2C550-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-117%2C376-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--12-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **189,550 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **117,376 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,658</p>
-        <p><b>Active:</b> 19,094 | <b>Inactive:</b> 564</p>
+        <p><b>Resources tracked:</b> 18,683</p>
+        <p><b>Active:</b> 18,119 | <b>Inactive:</b> 564</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 73,476</p>
+        <p><b>Archive Files:</b> 2,255</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 189,550 files</p>
-        <p><b>Last Update:</b> 2026-08-12 13:46 IST</p>
+        <p><b>Total Vault Size:</b> 117,376 files</p>
+        <p><b>Last Update:</b> 2026-08-12 15:42 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,23 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[OpenAI’s head of ethics leaves less than a year after joining](ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)** • <kbd>+54 pts</kbd>
-- 🔼 **[Go is an ideal language for AI-assisted software engineering](ai/community/go-is-an-ideal-language-for-ai-assisted-software-e.md)** • <kbd>+46 pts</kbd>
-- 🔼 **[Stealing Reasoning Traces from Proprietary LLM APIs](ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)** • <kbd>+45 pts</kbd>
-- 🔼 **[Show HN: Line9 – A Mermaid rendering engine with its own layout](ai/community/show-hn-line9-a-mermaid-rendering-engine-with-its.md)** • <kbd>+19 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[elder-plinius/T3MP3ST](ai/rag/elder-plinius-t3mp3st.md)** • Rank: <kbd>+1626</kbd>
+- 🔼 **[OpenVisTool: An Open Recipe for Synthesizing Instructive Visual Tool-Use Trajectories](ai/rag/arxiv-2608-08557.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[Population-Level Generative Modeling for Ranking Data](ai/rag/arxiv-2608-08422.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[Failure-Mechanism Transferability of Cumulative-Damage Features for Health State Estimation of SiC Power Modules](ai/rag/arxiv-2608-08365.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[Physics-Informed Condition Monitoring of SiC Power Modules](ai/research/arxiv-2608-08363.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[SearchArt: Training Long-Horizon Search Agent with Scalable Synthetic and Verified Task](ai/agents/arxiv-2607-24850.md)** • Rank: <kbd>+975</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[AI agent hacks gym to get its user a spot in pilates class](ai/community/ai-agent-hacks-gym-to-get-its-user-a-spot-in-pilat.md)** • Score: `19`
-- 🆕 **[[QUALITY] - ](.github/ISSUE_TEMPLATE/quality-feedback.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](ai/community/company-offering-100-human-written-never-ai-medica.md)**
-- 💤 **[Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors](ai/community/rimironenko-rag-staleness-check.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
