@@ -13,13 +13,14 @@ collected_at: '2026-08-12T13:28:32.974416+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:go-is-an-ideal-language-for-ai-assisted-software-e
 first_seen: '2026-08-12T10:38:21.606168+05:30'
 last_seen: '2026-08-12T13:28:32.974416+05:30'
 last_checked: '2026-08-12T13:28:32.974416+05:30'
 health_score: 100
 ---
+
 
 # Go is an ideal language for AI-assisted software engineering
 

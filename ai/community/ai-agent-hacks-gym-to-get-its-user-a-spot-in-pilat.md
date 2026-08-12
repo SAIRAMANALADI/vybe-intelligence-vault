@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-agent-hacks-gym-to-get-its-user-a-spot-in-pilat
 first_seen: '2026-08-12T13:28:29.823192+05:30'
 last_seen: '2026-08-12T13:28:29.823192+05:30'
 last_checked: '2026-08-12T13:28:29.823192+05:30'
 health_score: 100
 ---
+
 
 # AI agent hacks gym to get its user a spot in pilates class
 

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0
 hn_url: https://news.ycombinator.com/item?id=49257160
-score: 405
+score: 438
 author: ilamont
-comments_count: 401
+comments_count: 420
 published_at: '2026-08-11T17:53:07+05:30'
-collected_at: '2026-08-12T13:28:31.632008+05:30'
+collected_at: '2026-08-12T15:58:27.086213+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:openais-head-of-ethics-leaves-less-than-a-year-aft
 first_seen: '2026-08-12T10:38:20.640027+05:30'
-last_seen: '2026-08-12T13:28:31.632008+05:30'
-last_checked: '2026-08-12T13:28:31.632008+05:30'
+last_seen: '2026-08-12T15:58:27.086213+05:30'
+last_checked: '2026-08-12T15:58:27.086213+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ilamont. Score: 405, Comments: 401.
+Hacker News story by ilamont. Score: 438, Comments: 420.
 Original Link: https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ilamont
-- Score: 405 Upvotes
-- Comments: 401 Discussions
+- Score: 438 Upvotes
+- Comments: 420 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49257160
 - Original Article: https://ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0
 

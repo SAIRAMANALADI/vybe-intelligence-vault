@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://stolen-thoughts.com
 hn_url: https://news.ycombinator.com/item?id=49257876
-score: 603
+score: 626
 author: quantumgarbage
-comments_count: 272
+comments_count: 283
 published_at: '2026-08-11T18:52:00+05:30'
-collected_at: '2026-08-12T13:28:31.416546+05:30'
+collected_at: '2026-08-12T15:58:26.882311+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:stealing-reasoning-traces-from-proprietary-llm-api
 first_seen: '2026-08-12T10:38:20.356764+05:30'
-last_seen: '2026-08-12T13:28:31.416546+05:30'
-last_checked: '2026-08-12T13:28:31.416546+05:30'
+last_seen: '2026-08-12T15:58:26.882311+05:30'
+last_checked: '2026-08-12T15:58:26.882311+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by quantumgarbage. Score: 603, Comments: 272.
+Hacker News story by quantumgarbage. Score: 626, Comments: 283.
 Original Link: https://stolen-thoughts.com/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: quantumgarbage
-- Score: 603 Upvotes
-- Comments: 272 Discussions
+- Score: 626 Upvotes
+- Comments: 283 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49257876
 - Original Article: https://stolen-thoughts.com
 
