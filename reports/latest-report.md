@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-12T19:41:16.622434+05:30`
+Generated at: `2026-08-12T20:36:48.230063+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **US hires over 2k video gamers as air traffic controllers** - Score: `156` in category `ai/community` ([Link](https://cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy)) ([File](../ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md))
-- **Delphi 13 Community Edition Is Now Available** - Score: `57` in category `ai/community` ([Link](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available)) ([File](../ai/community/delphi-13-community-edition-is-now-available.md))
+- **What sort of maths are LLMs good at?** - Score: `143` in category `ai/community` ([Link](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at)) ([File](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Facebook is paying controversial creators to produce rage-bait content** - Score: `318` (+268), Rank Change: `+1` ([File](../ai/community/facebook-is-paying-controversial-creators-to-produ.md))
-- **What sort of maths are LLMs good at?** - Score: `143` (+124), Rank Change: `+1` ([File](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md))
-- **High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons** - Score: `70` (+67), Rank Change: `+2` ([File](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md))
-- **OpenAI’s head of ethics leaves less than a year after joining** - Score: `483` (+45), Rank Change: `0` ([File](../ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md))
-- **Stealing Reasoning Traces from Proprietary LLM APIs** - Score: `659` (+33), Rank Change: `0` ([File](../ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md))
-- **Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials** - Score: `35` (+18), Rank Change: `-1` ([File](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+987` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+986` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants** - Score: `0` (0), Rank Change: `+7` ([File](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
-- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - Score: `0` (0), Rank Change: `+7` ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
+- **elder-plinius/T3MP3ST** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/elder-plinius-t3mp3st.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/airweave-ai-airweave.md))
+- **Code-and-Sorts/awesome-copilot-agents** - Score: `0` (0), Rank Change: `+975` ([File](../ai/agents/code-and-sorts-awesome-copilot-agents.md))
+- **XMUDeepLIT/MemGraphRAG** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/xmudeeplit-memgraphrag.md))
+- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/bakrianoo-mini-rag.md))
+- **Ais1on/CTI-RAG** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/ais1on-cti-rag.md))
+- **ali-bahrainian/RAG_best_practices** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/ali-bahrainian-rag-best-practices.md))
+- **alfredodeza/azure-rag** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/alfredodeza-azure-rag.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **datawhalechina/llm-universe** - (Rank Change: `+987`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+986`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Applied AI** - (Rank Change: `+835`) ([File](../ai/companies/openai/applied-ai.md))
-- **AI Adoption** - (Rank Change: `+835`) ([File](../ai/companies/openai/ai-adoption.md))
-- **Global Affairs** - (Rank Change: `+835`) ([File](../ai/companies/openai/global-affairs.md))
-- **Engineering** - (Rank Change: `+835`) ([File](../ai/companies/openai/engineering.md))
-- **allenai/c4** - (Rank Change: `+8`) ([File](../ai/models/huggingface-datasets-allenai.md))
-- **banned-historical-archives/banned-historical-archives** - (Rank Change: `+8`) ([File](../ai/models/huggingface-datasets-banned-historical-archives.md))
-- **ayuo/hd_tmp** - (Rank Change: `+8`) ([File](../ai/models/huggingface-datasets-ayuo.md))
-- **hf-doc-build/doc-build-dev** - (Rank Change: `+8`) ([File](../ai/models/huggingface-datasets-hf-doc-build.md))
+- **microsoft/rag-time** - (Rank Change: `+976`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+976`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2605-12153.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,5 +46,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Beef and dairy drive 41% of biodiversity damage linked to global farmland** (Category: `ai/community`) ([File](../ai/community/beef-and-dairy-drive-41-of-biodiversity-damage-lin.md))
-- **Dutch Train Map Simulator** (Category: `ai/community`) ([File](../ai/community/dutch-train-map-simulator.md))
+No recently active resources transitioned to inactive.
+
