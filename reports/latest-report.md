@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-13T03:58:10.275506+05:30`
+Generated at: `2026-08-13T04:19:25.805240+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials** - Score: `107` in category `ai/community` ([Link](https://discoveredmaterials.com/research)) ([File](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md))
-- **Lovable raises $400M Series C** - Score: `74` in category `ai/community` ([Link](https://lovable.dev/blog/series-c)) ([File](../ai/community/we-just-raised-400m-in-series-c.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug** - Score: `680` (+150), Rank Change: `0` ([File](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md))
-- **AI is removing the middle class of software engineering?** - Score: `642` (+134), Rank Change: `0` ([File](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md))
-- **Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot** - Score: `205` (+49), Rank Change: `+1` ([File](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md))
-- **What sort of maths are LLMs good at?** - Score: `221` (+13), Rank Change: `0` ([File](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md))
-- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+1978` ([File](../ai/agents/agent0ai-agent-zero.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+976` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md))
-- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/malonge-ragoo.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **elder-plinius/T3MP3ST** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/elder-plinius-t3mp3st.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/airweave-ai-airweave.md))
+- **Code-and-Sorts/awesome-copilot-agents** - Score: `0` (0), Rank Change: `+975` ([File](../ai/agents/code-and-sorts-awesome-copilot-agents.md))
+- **XMUDeepLIT/MemGraphRAG** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/xmudeeplit-memgraphrag.md))
+- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/bakrianoo-mini-rag.md))
+- **Ais1on/CTI-RAG** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/ais1on-cti-rag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **agent0ai/agent-zero** - (Rank Change: `+1978`) ([File](../ai/agents/agent0ai-agent-zero.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+980`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **datawhalechina/all-in-rag** - (Rank Change: `+979`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **ParticleMedia/RAGTruth** - (Rank Change: `+976`) ([File](../ai/rag/particlemedia-ragtruth.md))
-- **Applied AI** - (Rank Change: `+856`) ([File](../ai/companies/openai/applied-ai.md))
-- **AI Adoption** - (Rank Change: `+856`) ([File](../ai/companies/openai/ai-adoption.md))
-- **Global Affairs** - (Rank Change: `+856`) ([File](../ai/companies/openai/global-affairs.md))
-- **Engineering** - (Rank Change: `+856`) ([File](../ai/companies/openai/engineering.md))
-- **facebook/MusicGen** - (Rank Change: `+846`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+846`) ([File](../ai/models/huggingface-spaces-ap123.md))
+- **microsoft/rag-time** - (Rank Change: `+976`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+976`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2605-12153.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index** (Category: `ai/community`) ([File](../ai/community/spacexai-s-grok-4-6-scores-61-on-the-artificial-an.md))
-- **Delphi 13 Community Edition Is Now Available** (Category: `ai/community`) ([File](../ai/community/delphi-13-community-edition-is-now-available.md))
-- **High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons** (Category: `ai/community`) ([File](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md))
+No recently active resources transitioned to inactive.
+

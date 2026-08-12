@@ -1,59 +1,64 @@
 ---
-title: emekdahl/skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-12
-tech_stack:
-- Python
-- Markdown
-- CLI
-- Skills Framework (skills.sh)
-- LLM Evaluation Harness
-quality_score: 9
+title: "Mehrvarz24/skills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "YAML", "Bash", "Hermes Agent", "Git", "LaTeX", "HuggingFace Hub", "llama.cpp", "vLLM", "W&B"]
+quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- code review
-- architecture validation
-- AI agent skill
-- SRE practices
-- security review
-source: https://github.com/emekdahl/skills
+deployment_complexity: "Low"
+tags: ["agent-skills", "modular-skills", "hermes-agent", "ai-workflows", "production-ready"]
+source: "https://github.com/Mehrvarz24/skills"
 stars: 0
-language: Python
-last_updated: '2026-07-13T13:17:05Z'
-discovered_at: '2026-07-13T13:22:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T19:31:41Z"
+discovered_at: "2026-08-04T19:32:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A specialized AI skill that acts as a blunt, experienced code reviewer and architecture planner, stress-testing designs before implementation and reviewing code changes with severity-graded feedback. It leverages research-backed checklists and eval harnesses to ensure high-quality, actionable reviews.
+A comprehensive library of 108 production-ready skills for the Hermes Agent by Nous Research, covering AI agents, development, creative work, research, productivity, and MLOps. Skills are modular, auto-detected, and designed for seamless integration with Hermes Agent.
 
 ## Key Features
-- Stress-tests architecture plans and code changes with severity-graded feedback (Critical/Major/Minor)
-- Uses research-grounded checklists (e.g., Google SRE, CWE Top 25, DEVOPS.md, SECURITY.md)
-- Includes an eval harness with seeded defect patterns and false-positive grading
-- Saves full reviews to files for persistence and auditability
-- Employs a calibrated, blunt tone designed to mimic experienced senior engineers
+- 108 pre-built skills across 20 categories for immediate use
+- Auto-detection and integration with Hermes Agent (no config required)
+- Structured skill format with YAML frontmatter for metadata
+- Supports autonomous AI agents, coding, DevOps, creative work, research, and MLOps
+- Includes advanced tools like computer-use, UI/UX design, and research paper writing
 
 ## Why It Matters for RAG Builders
-It automates high-quality, experienced-based code and architecture reviews, reducing critical flaws before they reach production and improving AI agent reliability.
+Provides a ready-to-use skill library that accelerates Hermes Agent deployment and extends its capabilities across diverse AI and productivity tasks.
 
 ## Tech Stack Deep Dive
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI
-Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Bash
+Automated review identified **Bash** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Skills Framework (skills.sh)
-Automated review identified **Skills Framework (skills.sh)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Hermes Agent
+Automated review identified **Hermes Agent** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM Evaluation Harness
-Automated review identified **LLM Evaluation Harness** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### LaTeX
+Automated review identified **LaTeX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### HuggingFace Hub
+Automated review identified **HuggingFace Hub** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### llama.cpp
+Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### vLLM
+Automated review identified **vLLM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### W&B
+Automated review identified **W&B** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
