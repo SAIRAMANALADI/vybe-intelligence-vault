@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-189%2C560-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-117%2C382-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--12-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **189,560 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **117,382 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,664</p>
-        <p><b>Active:</b> 19,097 | <b>Inactive:</b> 567</p>
+        <p><b>Resources tracked:</b> 18,689</p>
+        <p><b>Active:</b> 18,122 | <b>Inactive:</b> 567</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 73,480</p>
+        <p><b>Archive Files:</b> 2,255</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 189,560 files</p>
-        <p><b>Last Update:</b> 2026-08-12 16:16 IST</p>
+        <p><b>Total Vault Size:</b> 117,382 files</p>
+        <p><b>Last Update:</b> 2026-08-12 17:24 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[OpenAI’s head of ethics leaves less than a year after joining](ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)** • <kbd>+33 pts</kbd>
-- 🔼 **[Stealing Reasoning Traces from Proprietary LLM APIs](ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)** • <kbd>+23 pts</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+11</kbd>
-- 🔼 **[Search & information retrieval](ai/companies/search-information-retrieval.md)** • Rank: <kbd>+11</kbd>
+- 🔼 **[elder-plinius/T3MP3ST](ai/rag/elder-plinius-t3mp3st.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[Code-and-Sorts/awesome-copilot-agents](ai/agents/code-and-sorts-awesome-copilot-agents.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[XMUDeepLIT/MemGraphRAG](ai/rag/xmudeeplit-memgraphrag.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[bakrianoo/mini-rag](ai/rag/bakrianoo-mini-rag.md)** • Rank: <kbd>+975</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Beef and dairy drive 41% of biodiversity damage linked to global farmland](ai/community/beef-and-dairy-drive-41-of-biodiversity-damage-lin.md)** • Score: `64`
-- 🆕 **[Facebook is paying controversial creators to produce rage-bait content](ai/community/facebook-is-paying-controversial-creators-to-produ.md)** • Score: `50`
-- 🆕 **[Dutch Train Map Simulator](ai/community/dutch-train-map-simulator.md)** • Score: `27`
-- 🆕 **[Tim Gowers: What sort of maths are LLMs good at?](ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)** • Score: `19`
-- 🆕 **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)** • Score: `17`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Go is an ideal language for AI-assisted software engineering](ai/community/go-is-an-ideal-language-for-ai-assisted-software-e.md)**
-- 💤 **[Show HN: Line9 – A Mermaid rendering engine with its own layout](ai/community/show-hn-line9-a-mermaid-rendering-engine-with-its.md)**
-- 💤 **[AI agent hacks gym to get its user a spot in pilates class](ai/community/ai-agent-hacks-gym-to-get-its-user-a-spot-in-pilat.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
