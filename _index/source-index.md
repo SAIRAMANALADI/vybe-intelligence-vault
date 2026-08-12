@@ -15325,11 +15325,11 @@ Resources organized by publisher feed and query sources.
 
   - [AI is removing the middle class of software engineering](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
   - [Delphi 13 Community Edition Is Now Available](../ai/community/delphi-13-community-edition-is-now-available.md)
-  - [German advocacy group lodges criminal complaint over Meta AI glasses](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)
   - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
+  - [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](../ai/community/spacexai-s-grok-4-6-scores-61-on-the-artificial-an.md)
   - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)
+  - [We just raised $400M in Series C](../ai/community/we-just-raised-400m-in-series-c.md)
   - [What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
 
 ## Unknown Source (type: huggingface)
@@ -19142,4 +19142,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-12T22:03:42.255547+05:30*
+*Index generated on 2026-08-13T01:13:41.578899+05:30*

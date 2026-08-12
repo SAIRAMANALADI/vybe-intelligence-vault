@@ -17,10 +17,10 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## LLMOps, Evals & Model Infrastructure
 
-- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (14781 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
+- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (14782 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (903 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (8054 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
-- **[Model Providers](../model-providers/README.md)** (2201 files): Public metadata and documentation links for model APIs and provider ecosystems.
+- **[Model Providers](../model-providers/README.md)** (2202 files): Public metadata and documentation links for model APIs and provider ecosystems.
 - **[Inference and Local LLM](../inference-local-llm/README.md)** (1169 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
 
 ## Prompt Libraries & Automation Workflows
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (157 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-08-12 22:05 IST*
+*Last updated: 2026-08-13 01:15 IST*

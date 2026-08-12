@@ -2040,7 +2040,6 @@ Resources organized by keyword tags.
   - [Latent Actions from Factorized Transition Effects under Agent Ambiguity](../ai/agents/arxiv-2606-30544.md)
   - [Latent Collaboration in Multi-Agent Systems](../ai/rag/arxiv-2511-20639.md)
   - [LatentGym: A Testbed For Cross-Task Experiential Learning With Controllable Latent Structure](../ai/agents/arxiv-2606-15306.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory](../ai/rag/arxiv-2607-22690.md)
   - [Leadership as Coordination Control: Behavioral Signatures and the Recovery-Advantage Boundary in Multi-Agent LLM Teams](../ai/agents/arxiv-2606-19111.md)
@@ -4316,11 +4315,11 @@ Resources organized by keyword tags.
 
   - [AI is removing the middle class of software engineering](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
   - [Delphi 13 Community Edition Is Now Available](../ai/community/delphi-13-community-edition-is-now-available.md)
-  - [German advocacy group lodges criminal complaint over Meta AI glasses](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)
   - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
+  - [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](../ai/community/spacexai-s-grok-4-6-scores-61-on-the-artificial-an.md)
   - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)
+  - [We just raised $400M in Series C](../ai/community/we-just-raised-400m-in-series-c.md)
 
 ## animation
 
@@ -10258,6 +10257,7 @@ Resources organized by keyword tags.
   - [SovereignNegotiation-Bench: Evaluating User-Owned Personal Agents In Delegated Bargaining Under Privacy, Consent, Evidence, And Institutional Pressure](../ai/agents/arxiv-2607-02814.md)
   - [SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints](../ai/agents/arxiv-2607-05363.md)
   - [Soyeong Jeong](../ai/rag/soyeong-jeong.md)
+  - [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](../ai/community/spacexai-s-grok-4-6-scores-61-on-the-artificial-an.md)
   - [SparSEEty: Extracting Tokens from Sparsity-Exploiting LLM Serving Systems via Deterministic Side Channels](../ai/rag/arxiv-2608-02995.md)
   - [Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection](../ai/rag/arxiv-2607-18080.md)
   - [Sparse probes and murky physics: a case study of interpretability challenges in a foundation model for continuum dynamics](../ai/research/arxiv-2606-11657.md)
@@ -18050,7 +18050,6 @@ Resources organized by keyword tags.
   - [Geometric Capacity of Transformers: A Tropical Geometry Perspective](../ai/research/arxiv-2604-14727.md)
   - [Geometric origin of adversarial vulnerability in deep learning](../ai/rag/arxiv-2509-01235.md)
   - [Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning](../ai/research/arxiv-2601-00791.md)
-  - [German advocacy group lodges criminal complaint over Meta AI glasses](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)
   - [GestaltMML: Enhancing Rare Genetic Disease Diagnosis through Multimodal Machine Learning Combining Facial Images and Clinical Text](../ai/research/arxiv-2312-15320.md)
   - [Get Help | IT@Cornell](../ai/agents/get-help-it-cornell.md)
   - [Get More Storage, More AI capabilities, and More Features - Google One](../ai/rag/get-more-storage-more-ai-capabilities-and-more-fea.md)
@@ -18421,7 +18420,6 @@ Resources organized by keyword tags.
   - [Latency optimization | OpenAI API](../ai/rag/latency-optimization-openai-api.md)
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -19207,6 +19205,7 @@ Resources organized by keyword tags.
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [Soyeong Jeong](../ai/rag/soyeong-jeong.md)
   - [Space Telecommunications, Astronomy and Radiation Laboratory - MIT AeroAstro](../ai/resources/space-telecommunications-astronomy-and-radiation-l.md)
+  - [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](../ai/community/spacexai-s-grok-4-6-scores-61-on-the-artificial-an.md)
   - [Spaces - Hugging Face](../ai/rag/spaces-hugging-face.md)
   - [Spam and Sentiment Detection in Arabic Tweets Using MARBERT Model](../ai/research/arxiv-2606-25495.md)
   - [Sparse Covariance Neural Networks](../ai/rag/arxiv-2410-01669.md)
@@ -19605,6 +19604,7 @@ Resources organized by keyword tags.
   - [WasmAssembly](../ai/resources/wasmassembly.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
+  - [We just raised $400M in Series C](../ai/community/we-just-raised-400m-in-series-c.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -20648,7 +20648,6 @@ Resources organized by keyword tags.
   - [GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR](../ai/research/arxiv-2601-09361.md)
   - [Geometric Analysis of Token Selection in Multi-Head Attention](../ai/research/arxiv-2602-01893.md)
   - [Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice](../ai/rag/arxiv-2606-22327.md)
-  - [German advocacy group lodges criminal complaint over Meta AI glasses](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)
   - [GitHub - FlagOpen/FlagEmbedding: Retrieval and Retrieval-augmented LLMs · GitHub](../ai/rag/flagopen-flagembedding.md)
   - [GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting](../ai/rag/arxiv-2601-05353.md)
   - [GoQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization](../ai/research/arxiv-2605-26092.md)
@@ -28636,7 +28635,6 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -44200,4 +44198,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-12T22:03:42.045983+05:30*
+*Index generated on 2026-08-13T01:13:41.364480+05:30*

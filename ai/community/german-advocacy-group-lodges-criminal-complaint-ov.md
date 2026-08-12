@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - meta-ai
-status: active
+status: inactive
 resource_id: hackernews:german-advocacy-group-lodges-criminal-complaint-ov
 first_seen: '2026-08-12T21:47:25.134274+05:30'
 last_seen: '2026-08-12T21:47:25.134274+05:30'
 last_checked: '2026-08-12T21:47:25.134274+05:30'
 health_score: 100
 ---
+
 
 # German advocacy group lodges criminal complaint over Meta AI glasses
 

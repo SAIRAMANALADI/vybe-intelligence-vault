@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-discovered-materials-yc-p26-ai-agents-to
 first_seen: '2026-08-12T15:58:26.417786+05:30'
 last_seen: '2026-08-12T21:47:25.257896+05:30'
 last_checked: '2026-08-12T21:47:25.257896+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials
 

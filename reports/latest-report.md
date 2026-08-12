@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-13T00:55:21.176573+05:30`
+Generated at: `2026-08-13T01:16:02.666771+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index** - Score: `187` in category `ai/community` ([Link](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)) ([File](../ai/community/spacexai-s-grok-4-6-scores-61-on-the-artificial-an.md))
+- **We just raised $400M in Series C** - Score: `48` in category `ai/community` ([Link](https://lovable.dev/blog/series-c)) ([File](../ai/community/we-just-raised-400m-in-series-c.md))
 
 ## Top Trending Resources
 
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **elder-plinius/T3MP3ST** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/elder-plinius-t3mp3st.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/airweave-ai-airweave.md))
-- **Code-and-Sorts/awesome-copilot-agents** - Score: `0` (0), Rank Change: `+975` ([File](../ai/agents/code-and-sorts-awesome-copilot-agents.md))
-- **XMUDeepLIT/MemGraphRAG** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/xmudeeplit-memgraphrag.md))
-- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/bakrianoo-mini-rag.md))
-- **Ais1on/CTI-RAG** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/ais1on-cti-rag.md))
-- **ali-bahrainian/RAG_best_practices** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/ali-bahrainian-rag-best-practices.md))
-- **alfredodeza/azure-rag** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/alfredodeza-azure-rag.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug** - Score: `530` (+314), Rank Change: `+1` ([File](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md))
+- **AI is removing the middle class of software engineering** - Score: `508` (+241), Rank Change: `-1` ([File](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md))
+- **Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot** - Score: `156` (+77), Rank Change: `+1` ([File](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md))
+- **Delphi 13 Community Edition Is Now Available** - Score: `136` (+37), Rank Change: `-1` ([File](../ai/community/delphi-13-community-edition-is-now-available.md))
+- **What sort of maths are LLMs good at?** - Score: `208` (+22), Rank Change: `0` ([File](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md))
+- **High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons** - Score: `135` (+20), Rank Change: `-3` ([File](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+5` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+5` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+5` ([File](../ai/companies/human-computer-interaction.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **microsoft/rag-time** - (Rank Change: `+976`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+976`) ([File](../ai/agents/arxiv-2605-27882.md))
-- **CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2605-12153.md))
+- **Sentence Transformers is joining Hugging Face!** - (Rank Change: `+18`) ([File](../ai/models/huggingface-blog-sentence-transformers-joins-hf.md))
+- **Hugging Face and VirusTotal collaborate to strengthen AI security** - (Rank Change: `+18`) ([File](../ai/models/huggingface-blog-virustotal.md))
+- **Building the Open Agent Ecosystem Together: Introducing OpenEnv** - (Rank Change: `+18`) ([File](../ai/agents/huggingface-blog-openenv.md))
+- **LeRobot v0.4.0: Supercharging OSS Robot Learning** - (Rank Change: `+18`) ([File](../ai/models/huggingface-blog-lerobot-release-v040.md))
+- **huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning** - (Rank Change: `+18`) ([File](../ai/models/huggingface-blog-huggingface-hub-v1.md))
+- **Streaming datasets: 100x More Efficient** - (Rank Change: `+18`) ([File](../ai/models/huggingface-blog-streaming-datasets.md))
+- **Voice Cloning with Consent** - (Rank Change: `+18`) ([File](../ai/models/huggingface-blog-voice-consent-gate.md))
+- **Granite 4.0 Nano: Just how small can you go?** - (Rank Change: `+18`) ([File](../ai/models/huggingface-blog-ibm-granite-granite-4-nano.md))
+- **How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare** - (Rank Change: `+18`) ([File](../ai/models/huggingface-blog-nvidia-nvidia-isaac-for-healthcare.md))
+- **Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac** - (Rank Change: `+18`) ([File](../ai/models/huggingface-blog-lerobotxnvidia-healthcare.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +46,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **German advocacy group lodges criminal complaint over Meta AI glasses** (Category: `ai/community`) ([File](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md))
+- **Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials** (Category: `ai/community`) ([File](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md))
