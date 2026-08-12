@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:us-hires-over-2k-video-gamers-as-air-traffic-contr
 first_seen: '2026-08-12T19:22:45.484465+05:30'
 last_seen: '2026-08-12T19:22:45.484465+05:30'
 last_checked: '2026-08-12T19:22:45.484465+05:30'
 health_score: 100
 ---
+
 
 # US hires over 2k video gamers as air traffic controllers
 

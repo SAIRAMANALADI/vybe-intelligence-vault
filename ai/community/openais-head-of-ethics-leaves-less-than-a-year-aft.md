@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openais-head-of-ethics-leaves-less-than-a-year-aft
 first_seen: '2026-08-12T10:38:20.640027+05:30'
 last_seen: '2026-08-12T19:22:45.177140+05:30'
 last_checked: '2026-08-12T19:22:45.177140+05:30'
 health_score: 100
 ---
+
 
 # OpenAI’s head of ethics leaves less than a year after joining
 

@@ -1075,7 +1075,6 @@ Resources organized by keyword tags.
   - [Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines](../ai/rag/arxiv-2607-24692.md)
   - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
   - [Dense Temporal Contrast Synthesis via Conditioned Latent Transport](../ai/agents/arxiv-2607-29394.md)
-  - [Deploy local agents everywhere with LFM2.5-2.6B](../ai/agents/huggingface-blog-liquidai-lfm2-5-2-6b.md)
   - [Deployment-Time Memorization in Foundation-Model Agents](../ai/agents/arxiv-2606-10062.md)
   - [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](../ai/research/describe-explain-plan-and-select-interactive-plann.md)
   - [Design and Develop a RAG Solution - Azure Architecture Center | Microsoft Learn](../ai/rag/design-and-develop-a-rag-solution-azure-architectu.md)
@@ -3260,6 +3259,7 @@ Resources organized by keyword tags.
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
   - [Solutions | Cloudflare](../ai/rag/solutions-cloudflare.md)
   - [Some Large Language Models Exhibit Consistent Risk Attitudes](../ai/agents/arxiv-2607-16197.md)
+  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
   - [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server.md)
   - [Sorries Are Not the Hard Part: An Expert-Review Case Study of a Semi-Autonomous Formalization](../ai/agents/arxiv-2606-13925.md)
   - [SorryDB: Can AI Provers Complete Real-World Lean Theorems?](../ai/agents/arxiv-2603-02668.md)
@@ -4314,12 +4314,13 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI is removing the middle class of software engineering](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
   - [Delphi 13 Community Edition Is Now Available](../ai/community/delphi-13-community-edition-is-now-available.md)
-  - [Facebook is paying controversial creators to produce rage-bait content](../ai/community/facebook-is-paying-controversial-creators-to-produ.md)
+  - [German advocacy group lodges criminal complaint over Meta AI glasses](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)
   - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)
   - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
-  - [OpenAI’s head of ethics leaves less than a year after joining](../ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)
-  - [US hires over 2k video gamers as air traffic controllers](../ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)
+  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
+  - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)
 
 ## animation
 
@@ -4745,6 +4746,7 @@ Resources organized by keyword tags.
   - [SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe](../ai/agents/arxiv-2607-03451.md)
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
+  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
   - [Sonatype Guide](../ai/rag/sonatype-guide.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [SpatialThinker: Reinforcing Scene Graph-Grounded Spatial Reasoning via Dense Rewards](../ai/rag/arxiv-2511-07403.md)
@@ -17175,6 +17177,7 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
+  - [AI is removing the middle class of software engineering](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -17907,7 +17910,6 @@ Resources organized by keyword tags.
   - [FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization](../ai/rag/arxiv-2607-20382.md)
   - [FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing](../ai/rag/arxiv-2508-02092.md)
   - [Face De-Identification: A Domain-Centric Survey from Capture to Processing](../ai/research/arxiv-2607-25926.md)
-  - [Facebook is paying controversial creators to produce rage-bait content](../ai/community/facebook-is-paying-controversial-creators-to-produ.md)
   - [Fail-Aware and Explainable Test Oracle Prediction](../ai/research/arxiv-2607-11342.md)
   - [FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation](../ai/research/arxiv-2607-28934.md)
   - [Fairness in Augmented Graph Learning: A Survey](../ai/research/arxiv-2504-21296.md)
@@ -18048,6 +18050,7 @@ Resources organized by keyword tags.
   - [Geometric Capacity of Transformers: A Tropical Geometry Perspective](../ai/research/arxiv-2604-14727.md)
   - [Geometric origin of adversarial vulnerability in deep learning](../ai/rag/arxiv-2509-01235.md)
   - [Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning](../ai/research/arxiv-2601-00791.md)
+  - [German advocacy group lodges criminal complaint over Meta AI glasses](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)
   - [GestaltMML: Enhancing Rare Genetic Disease Diagnosis through Multimodal Machine Learning Combining Facial Images and Clinical Text](../ai/research/arxiv-2312-15320.md)
   - [Get Help | IT@Cornell](../ai/agents/get-help-it-cornell.md)
   - [Get More Storage, More AI capabilities, and More Features - Google One](../ai/rag/get-more-storage-more-ai-capabilities-and-more-fea.md)
@@ -18730,7 +18733,6 @@ Resources organized by keyword tags.
   - [Open Source Guides | Learn how to launch and grow your project.](../ai/rag/open-source-guides-learn-how-to-launch-and-grow-yo.md)
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
-  - [OpenAI’s head of ethics leaves less than a year after joining](../ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)
   - [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](../ai/research/arxiv-2606-19149.md)
   - [OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods](../ai/research/arxiv-2510-21859.md)
   - [OpenJS Foundation · GitHub](../ai/resources/openjs-foundation-github.md)
@@ -18784,7 +18786,6 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Continual Fine-Tuning: A Survey](../ai/research/arxiv-2504-13822.md)
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Patch-Based 3D Variational Autoencoder for Super-Resolution of Turbulent Channel Flow](../ai/rag/arxiv-2507-22082.md)
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
@@ -19198,6 +19199,7 @@ Resources organized by keyword tags.
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
   - [Solution Space Path Planning: A Real-Time Human-Centered Path Planning Algorithm for En-Route Air Traffic Control](../ai/rag/arxiv-2607-00064.md)
   - [Solver-Guided Reasoning for Mixed-Equilibrium Strategies](../ai/research/arxiv-2608-06741.md)
+  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
   - [Something from Nothing: Data Augmentation for Robust Severity Level Estimation of Dysarthric Speech](../ai/rag/arxiv-2603-15988.md)
   - [Sound Probabilistic Safety Bounds for Large Language Models](../ai/rag/arxiv-2607-20286.md)
   - [Soundwaves settle debate about elusive quantum particle | Cornell Chronicle](../ai/rag/soundwaves-settle-debate-about-elusive-quantum-par.md)
@@ -19242,7 +19244,6 @@ Resources organized by keyword tags.
   - [Startups | OpenAI](../ai/agents/startups-openai.md)
   - [Startup’s nuclear-inspired cooling system could make data centers more sustainable | MIT News | Massachusetts Institute](../ai/rag/startups-nuclear-inspired-cooling-system-could-mak.md)
   - [Statistical inverse learning and $\ell^1$-regularization](../ai/research/arxiv-2607-07468.md)
-  - [Stealing Reasoning Traces from Proprietary LLM APIs](../ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)
   - [Steerable Cultural Preference Optimization of Reward Models](../ai/research/arxiv-2606-18606.md)
   - [Steering Emotional Dynamics for Art Therapy: Controllable Narrative Script Generation through Hierarchically Guided LLM Agents](../ai/agents/arxiv-2606-16481.md)
   - [Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence](../ai/rag/arxiv-2607-08641.md)
@@ -19300,6 +19301,7 @@ Resources organized by keyword tags.
   - [TXYZ: How AI Tools Help Students in Academic Research](../ai/resources/txyz-how-ai-tools-help-students-in-academic-resear.md)
   - [TabPFN Extensions for Interpretable Geotechnical Modelling](../ai/rag/arxiv-2603-21033.md)
   - [Tail-Aware Information-Theoretic Bounds for LLM Alignment under Heavy-Tailed Rewards](../ai/research/arxiv-2604-10727.md)
+  - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
   - [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md)
@@ -19514,7 +19516,6 @@ Resources organized by keyword tags.
   - [UNVaMP: Neural Knowledge Tracing with Variational Regularization of Latent Knowledge Dynamics](../ai/research/arxiv-2608-03811.md)
   - [URL Pattern Standard](../ai/rag/url-pattern-standard.md)
   - [URL Standard](../ai/rag/url-standard.md)
-  - [US hires over 2k video gamers as air traffic controllers](../ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)
   - [US privacy policy | OpenAI](../ai/agents/us-privacy-policy-openai.md)
   - [UT Austin Computer Science](../ai/rag/ut-austin-computer-science.md)
   - [UTS #18: Unicode Regular Expressions](../ai/rag/uts-18-unicode-regular-expressions.md)
@@ -20460,7 +20461,6 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Stealing Reasoning Traces from Proprietary LLM APIs](../ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)
   - [What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
 
 ## mdx
@@ -20648,6 +20648,7 @@ Resources organized by keyword tags.
   - [GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR](../ai/research/arxiv-2601-09361.md)
   - [Geometric Analysis of Token Selection in Multi-Head Attention](../ai/research/arxiv-2602-01893.md)
   - [Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice](../ai/rag/arxiv-2606-22327.md)
+  - [German advocacy group lodges criminal complaint over Meta AI glasses](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)
   - [GitHub - FlagOpen/FlagEmbedding: Retrieval and Retrieval-augmented LLMs · GitHub](../ai/rag/flagopen-flagembedding.md)
   - [GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting](../ai/rag/arxiv-2601-05353.md)
   - [GoQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization](../ai/research/arxiv-2605-26092.md)
@@ -25056,7 +25057,6 @@ Resources organized by keyword tags.
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
-  - [OpenAI’s head of ethics leaves less than a year after joining](../ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)
   - [Optimizing Databricks LLM Pipelines with DSPy | Databricks Blog](../ai/rag/optimizing-databricks-llm-pipelines-with-dspy-data.md)
   - [PEC-Home: Interpretation of Progressively Elliptical Commands in Smart Homes](../ai/research/arxiv-2606-18636.md)
   - [PHASE-Tree: Modeling Character-State Evolution in Long-Horizon Role-Playing Dialogue](../ai/research/arxiv-2608-06975.md)
@@ -30963,7 +30963,6 @@ Resources organized by keyword tags.
   - [FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation](../ai/rag/arxiv-2607-05252.md)
   - [FVRuleLearner: Operator-Level Reasoning Tree (Op-Tree)-Based Rules Learning for Formal Verification](../ai/rag/arxiv-2604-03245.md)
   - [FacProcessTwin: An LLM-Based System for Process Twin Development](../ai/rag/arxiv-2606-17666.md)
-  - [Facebook is paying controversial creators to produce rage-bait content](../ai/community/facebook-is-paying-controversial-creators-to-produ.md)
   - [FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds](../ai/rag/arxiv-2608-01049.md)
   - [FactoryLLM: A Safe and Open-Source AI Playground for Evaluating LLMs in Smart Factories](../ai/rag/arxiv-2606-14119.md)
   - [Failure Modes of Always-On Inter-Cluster Repulsion in Replay-Based Continual Learning](../ai/rag/arxiv-2510-07648.md)
@@ -31785,6 +31784,7 @@ Resources organized by keyword tags.
   - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md)
   - [Introducing Gridstore: Qdrant's Custom Key-Value Store](../ai/rag/introducing-gridstore-qdrant-s-custom-key-value-st.md)
   - [Introducing LangSmith Context Hub](../ai/rag/introducing-langsmith-context-hub.md)
+  - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](../ai/rag/huggingface-blog-allenai-olmoearth-embeddings.md)
   - [Introducing OpenAI o3 and o4-mini | OpenAI](../ai/rag/introducing-openai-o3-and-o4-mini-openai.md)
   - [Introducing Storage Buckets on the Hugging Face Hub](../ai/rag/huggingface-blog-storage-buckets.md)
   - [Introducing Storage Regions on the HF Hub](../ai/rag/huggingface-blog-regions.md)
@@ -43938,7 +43938,6 @@ Resources organized by keyword tags.
   - [Two-Layer Linear Auto-Regressive Models Estimate Latent States](../ai/research/arxiv-2606-12691.md)
   - [U.S. Copyright Office | U.S. Copyright Office](../ai/resources/u-s-copyright-office-u-s-copyright-office.md)
   - [UCLA - Official Athletics Website](../ai/resources/ucla-official-athletics-website.md)
-  - [US hires over 2k video gamers as air traffic controllers](../ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)
   - [US privacy policy | OpenAI](../ai/agents/us-privacy-policy-openai.md)
   - [Uncertainty Modeling for Multi-Objective RTA Interception with Distillation Acceleration](../ai/research/arxiv-2511-05582.md)
   - [Uncertainty-Guided LLM Semantic Augmentation for Heterogeneous Treatment Effect Estimation](../ai/rag/arxiv-2607-26599.md)
@@ -44201,4 +44200,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-12T19:38:57.252393+05:30*
+*Index generated on 2026-08-12T22:03:42.045983+05:30*

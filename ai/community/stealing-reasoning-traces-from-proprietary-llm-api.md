@@ -13,13 +13,14 @@ collected_at: '2026-08-12T19:22:45.281329+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:stealing-reasoning-traces-from-proprietary-llm-api
 first_seen: '2026-08-12T10:38:20.356764+05:30'
 last_seen: '2026-08-12T19:22:45.281329+05:30'
 last_checked: '2026-08-12T19:22:45.281329+05:30'
 health_score: 100
 ---
+
 
 # Stealing Reasoning Traces from Proprietary LLM APIs
 

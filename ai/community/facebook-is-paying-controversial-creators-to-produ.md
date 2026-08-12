@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:facebook-is-paying-controversial-creators-to-produ
 first_seen: '2026-08-12T15:58:26.065719+05:30'
 last_seen: '2026-08-12T19:22:44.110199+05:30'
 last_checked: '2026-08-12T19:22:44.110199+05:30'
 health_score: 100
 ---
+
 
 # Facebook is paying controversial creators to produce rage-bait content
 

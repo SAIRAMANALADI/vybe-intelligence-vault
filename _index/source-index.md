@@ -15323,13 +15323,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI is removing the middle class of software engineering](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
   - [Delphi 13 Community Edition Is Now Available](../ai/community/delphi-13-community-edition-is-now-available.md)
-  - [Facebook is paying controversial creators to produce rage-bait content](../ai/community/facebook-is-paying-controversial-creators-to-produ.md)
+  - [German advocacy group lodges criminal complaint over Meta AI glasses](../ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)
   - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](../ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)
   - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
-  - [OpenAI’s head of ethics leaves less than a year after joining](../ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)
-  - [Stealing Reasoning Traces from Proprietary LLM APIs](../ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)
-  - [US hires over 2k video gamers as air traffic controllers](../ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)
+  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
+  - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)
   - [What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
 
 ## Unknown Source (type: huggingface)
@@ -15506,7 +15506,6 @@ Resources organized by publisher feed and query sources.
   - [Deploy Livebook notebooks as apps to Hugging Face Spaces](../ai/models/huggingface-blog-livebook-app-deployment.md)
   - [Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI](../ai/models/huggingface-blog-llama31-on-vertex-ai.md)
   - [Deploy MusicGen in no time with Inference Endpoints](../ai/models/huggingface-blog-run-musicgen-as-an-api.md)
-  - [Deploy local agents everywhere with LFM2.5-2.6B](../ai/agents/huggingface-blog-liquidai-lfm2-5-2-6b.md)
   - [Deploy models on AWS Inferentia2 from Hugging Face](../ai/models/huggingface-blog-inferentia-inference-endpoints.md)
   - [Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action](../ai/models/huggingface-blog-deploy-deepfloydif-using-bentoml.md)
   - [Deploying Speech-to-Speech on Hugging Face](../ai/models/huggingface-blog-s2s-endpoint.md)
@@ -15737,6 +15736,7 @@ Resources organized by publisher feed and query sources.
   - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](../ai/models/huggingface-blog-modular-diffusers.md)
   - [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](../ai/models/huggingface-blog-npc-gigax-cubzh.md)
   - [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](../ai/agents/huggingface-blog-nvidia-nemotron-3-nano-omni-multimodal-intelligence.md)
+  - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](../ai/rag/huggingface-blog-allenai-olmoearth-embeddings.md)
   - [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](../ai/models/huggingface-blog-hardware-partners-program.md)
   - [Introducing Prodigy-HF: a direct integration with Hugging Face](../ai/models/huggingface-blog-prodigy-hf.md)
   - [Introducing Pull Requests and Discussions 🥳](../ai/models/huggingface-blog-community-update.md)
@@ -15802,6 +15802,7 @@ Resources organized by publisher feed and query sources.
   - [Kimina-Prover-RL](../ai/models/huggingface-blog-ai-mo-kimina-prover-rl.md)
   - [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](../ai/models/huggingface-blog-ai-mo-kimina-prover.md)
   - [LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)
+  - [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](../ai/models/huggingface-blog-liquidai-lfm2-5-vl-3b.md)
   - [LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](../ai/models/huggingface-blog-llm-inference-on-edge.md)
   - [Large Language Models: A New Moore's Law?](../ai/models/huggingface-blog-large-language-models.md)
   - [Large-scale Near-deduplication Behind BigCode](../ai/models/huggingface-blog-dedup.md)
@@ -16081,7 +16082,6 @@ Resources organized by publisher feed and query sources.
   - [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../ai/models/huggingface-blog-transformersjs-v3.md)
   - [Transformers.js v4: Now Available on NPM!](../ai/models/huggingface-blog-transformersjs-v4.md)
   - [Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](../ai/models/huggingface-blog-faster-transformers.md)
-  - [TutorMoments: Do AI tutors know when to help and when to hold back?](../ai/models/huggingface-blog-allenai-tutormoments.md)
   - [Ulysses Sequence Parallelism: Training with Million-Token Contexts](../ai/models/huggingface-blog-ulysses-sp.md)
   - [Understanding BigBird's Block Sparse Attention](../ai/models/huggingface-blog-big-bird.md)
   - [Universal Assisted Generation: Faster Decoding with Any Assistant Model](../ai/models/huggingface-blog-universal-assisted-generation.md)
@@ -19142,4 +19142,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-12T19:38:57.455723+05:30*
+*Index generated on 2026-08-12T22:03:42.255547+05:30*

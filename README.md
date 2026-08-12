@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-117%2C384-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-189%2C562-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--12-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **117,384 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **189,562 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 18,691</p>
-        <p><b>Active:</b> 18,122 | <b>Inactive:</b> 569</p>
+        <p><b>Resources tracked:</b> 19,670</p>
+        <p><b>Active:</b> 19,097 | <b>Inactive:</b> 573</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,255</p>
+        <p><b>Archive Files:</b> 73,476</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 117,384 files</p>
-        <p><b>Last Update:</b> 2026-08-12 21:39 IST</p>
+        <p><b>Total Vault Size:</b> 189,562 files</p>
+        <p><b>Last Update:</b> 2026-08-12 22:06 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,28 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[elder-plinius/T3MP3ST](ai/rag/elder-plinius-t3mp3st.md)** • Rank: <kbd>+975</kbd>
-- 🔼 **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** • Rank: <kbd>+975</kbd>
-- 🔼 **[Code-and-Sorts/awesome-copilot-agents](ai/agents/code-and-sorts-awesome-copilot-agents.md)** • Rank: <kbd>+975</kbd>
-- 🔼 **[XMUDeepLIT/MemGraphRAG](ai/rag/xmudeeplit-memgraphrag.md)** • Rank: <kbd>+975</kbd>
-- 🔼 **[bakrianoo/mini-rag](ai/rag/bakrianoo-mini-rag.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](ai/community/high-res-photo-shows-sand-capped-butte-rising-from.md)** • <kbd>+45 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[Delphi 13 Community Edition Is Now Available](ai/community/delphi-13-community-edition-is-now-available.md)** • <kbd>+42 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)** • <kbd>+15 pts</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** • Rank: <kbd>+1794</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+988</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[What sort of maths are LLMs good at?](ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)** • Score: `143`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[AI is removing the middle class of software engineering](ai/community/ai-is-removing-the-middle-class-of-software-engine.md)** • Score: `267`
+- 🆕 **[Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)** • Score: `216`
+- 🆕 **[What sort of maths are LLMs good at?](ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)** • Score: `186`
+- 🆕 **[Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)** • Score: `79`
+- 🆕 **[German advocacy group lodges criminal complaint over Meta AI glasses](ai/community/german-advocacy-group-lodges-criminal-complaint-ov.md)** • Score: `62`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Stealing Reasoning Traces from Proprietary LLM APIs](ai/community/stealing-reasoning-traces-from-proprietary-llm-api.md)**
+- 💤 **[OpenAI’s head of ethics leaves less than a year after joining](ai/community/openais-head-of-ethics-leaves-less-than-a-year-aft.md)**
+- 💤 **[Facebook is paying controversial creators to produce rage-bait content](ai/community/facebook-is-paying-controversial-creators-to-produ.md)**
+- 💤 **[US hires over 2k video gamers as air traffic controllers](ai/community/us-hires-over-2k-video-gamers-as-air-traffic-contr.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
