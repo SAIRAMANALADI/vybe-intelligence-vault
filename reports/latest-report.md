@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-13T04:19:25.805240+05:30`
+Generated at: `2026-08-13T05:19:46.869016+05:30`
 
 ## Executive Summary
 
@@ -25,16 +25,16 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🚀 Fastest Rising Tools
 
-- **microsoft/rag-time** - (Rank Change: `+976`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+976`) ([File](../ai/agents/arxiv-2605-27882.md))
-- **CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2605-12153.md))
+- **infiniflow/ragflow** - (Rank Change: `+18299`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium** - (Rank Change: `+17179`) ([File](../ai/rag/medium-2.md))
+- **zhengxuJosh/Awesome-RAG-Vision** - (Rank Change: `+976`) ([File](../ai/rag/zhengxujosh-awesome-rag-vision.md))
+- **topoteretes/awesome-ai-memory** - (Rank Change: `+976`) ([File](../ai/rag/topoteretes-awesome-ai-memory.md))
+- **DEEP-PolyU/Awesome-GraphRAG** - (Rank Change: `+976`) ([File](../ai/rag/deep-polyu-awesome-graphrag.md))
+- **coree/awesome-rag** - (Rank Change: `+976`) ([File](../ai/rag/coree-awesome-rag.md))
+- **alvinreal/awesome-opensource-ai** - (Rank Change: `+976`) ([File](../ai/rag/alvinreal-awesome-opensource-ai.md))
+- **jxzhangjhu/Awesome-LLM-RAG** - (Rank Change: `+976`) ([File](../ai/rag/jxzhangjhu-awesome-llm-rag.md))
+- **Azure/agent-innovator-lab** - (Rank Change: `+976`) ([File](../ai/rag/azure-agent-innovator-lab.md))
+- **Azure-Samples/chat-with-your-data-solution-accelerator** - (Rank Change: `+976`) ([File](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
 
 ## 🔄 Essential Tier Transitions
 
