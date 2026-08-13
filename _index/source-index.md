@@ -15751,7 +15751,12 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Choosing an AI model: one prompt, 11 models, different results](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
+  - [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](../ai/community/graduate-student-proves-a-quantum-uncertainty-prin.md)
+  - [Heart aerospace completes first flight of largest electric aircraft](../ai/community/heart-aerospace-completes-first-flight-of-largest.md)
+  - [I built a 500k-domain search engine for makers in a weekend for $10](../ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)
+  - [Text AI watermarks will always be trivial to remove](../ai/community/text-ai-watermarks-will-always-be-trivial-to-remov.md)
+  - [The mathematical physics of rainbows and glories (2001) [pdf]](../ai/community/the-mathematical-physics-of-rainbows-and-glories-2.md)
+  - [We eliminated 1,400 CVEs in NanoClaw's container images](../ai/community/we-eliminated-1400-cves-in-nanoclaw-s-container-im.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19561,4 +19566,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-13T19:40:58.522365+05:30*
+*Index generated on 2026-08-13T22:05:40.235556+05:30*

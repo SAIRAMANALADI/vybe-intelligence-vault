@@ -2100,7 +2100,6 @@ Resources organized by keyword tags.
   - [Latent Actions from Factorized Transition Effects under Agent Ambiguity](../ai/agents/arxiv-2606-30544.md)
   - [Latent Collaboration in Multi-Agent Systems](../ai/rag/arxiv-2511-20639.md)
   - [LatentGym: A Testbed For Cross-Task Experiential Learning With Controllable Latent Structure](../ai/agents/arxiv-2606-15306.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory](../ai/rag/arxiv-2607-22690.md)
   - [Leadership as Coordination Control: Behavioral Signatures and the Recovery-Advantage Boundary in Multi-Agent LLM Teams](../ai/agents/arxiv-2606-19111.md)
@@ -4422,7 +4421,12 @@ Resources organized by keyword tags.
 ## ai
 
   - [Choosing an AI model: one prompt, 11 models, different results](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
+  - [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](../ai/community/graduate-student-proves-a-quantum-uncertainty-prin.md)
+  - [Heart aerospace completes first flight of largest electric aircraft](../ai/community/heart-aerospace-completes-first-flight-of-largest.md)
+  - [I built a 500k-domain search engine for makers in a weekend for $10](../ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)
+  - [Text AI watermarks will always be trivial to remove](../ai/community/text-ai-watermarks-will-always-be-trivial-to-remov.md)
+  - [The mathematical physics of rainbows and glories (2001) [pdf]](../ai/community/the-mathematical-physics-of-rainbows-and-glories-2.md)
+  - [We eliminated 1,400 CVEs in NanoClaw's container images](../ai/community/we-eliminated-1400-cves-in-nanoclaw-s-container-im.md)
 
 ## animation
 
@@ -9420,7 +9424,6 @@ Resources organized by keyword tags.
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass the Baton: Trajectory-Relayed On-Policy Distillation](../ai/rag/arxiv-2607-26057.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
@@ -14577,7 +14580,6 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
@@ -18551,6 +18553,7 @@ Resources organized by keyword tags.
   - [Gradient-based inverse lithography for EUV masks via the waveguide method and a physics-informed neural operator](../ai/research/arxiv-2606-25753.md)
   - [Gradio](../ai/rag/gradio.md)
   - [Graduate Certificate in Artificial Intelligence and Machine Learning | Computer & Data Science Online](../ai/rag/graduate-certificate-in-artificial-intelligence-an.md)
+  - [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](../ai/community/graduate-student-proves-a-quantum-uncertainty-prin.md)
   - [GrahamDumpleton/wsgiorg](../ai/resources/grahamdumpleton-wsgiorg.md)
   - [Graph Coloring Approach to Solving Sudoku with Oscillatory Neural Networks](../ai/research/arxiv-2607-15814.md)
   - [Graph Neural Networks for RFID-Based Spatial Geometry Inference in Spatial AI Systems](../ai/rag/arxiv-2607-10822.md)
@@ -18601,6 +18604,7 @@ Resources organized by keyword tags.
   - [Health System Scale Semantic Search Across Unstructured Clinical Notes](../ai/rag/arxiv-2604-25605.md)
   - [Healthcare - Apple](../ai/rag/healthcare-apple.md)
   - [Healthcare Has More Data Than Ever—Why Are Patients Still Searching For Answers?](../ai/rag/healthcare-has-more-data-than-ever-why-are-patient.md)
+  - [Heart aerospace completes first flight of largest electric aircraft](../ai/community/heart-aerospace-completes-first-flight-of-largest.md)
   - [Heise Business Services | heise](../ai/rag/heise-business-services-heise.md)
   - [Helping kids and teens learn and grow online on Safer Internet Day](../ai/rag/helping-kids-and-teens-learn-and-grow-online-on-sa.md)
   - [Heterogeneous Element-Aware Cross-Version Differencing of Scientific Documents via Layout-Aware Alignment and Structure-Aware Reasoning](../ai/research/arxiv-2607-14117.md)
@@ -18680,6 +18684,7 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
+  - [I built a 500k-domain search engine for makers in a weekend for $10](../ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
@@ -18846,7 +18851,6 @@ Resources organized by keyword tags.
   - [Latency optimization | OpenAI API](../ai/rag/latency-optimization-openai-api.md)
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -19786,6 +19790,7 @@ Resources organized by keyword tags.
   - [Test-Time Augmentation for Tabular-to-Image Classifiers under Distribution Shifts](../ai/rag/arxiv-2608-03557.md)
   - [Testing For Distribution Shifts with Conditional Conformal Test Martingales](../ai/research/arxiv-2602-13848.md)
   - [Texas AI](../ai/rag/texas-ai.md)
+  - [Text AI watermarks will always be trivial to remove](../ai/community/text-ai-watermarks-will-always-be-trivial-to-remov.md)
   - [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md)
   - [ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures](../ai/rag/arxiv-2607-17091.md)
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
@@ -19850,6 +19855,7 @@ Resources organized by keyword tags.
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
+  - [The mathematical physics of rainbows and glories (2001) [pdf]](../ai/community/the-mathematical-physics-of-rainbows-and-glories-2.md)
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
@@ -20046,6 +20052,7 @@ Resources organized by keyword tags.
   - [WasmAssembly](../ai/resources/wasmassembly.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
+  - [We eliminated 1,400 CVEs in NanoClaw's container images](../ai/community/we-eliminated-1400-cves-in-nanoclaw-s-container-im.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -20211,6 +20218,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -28595,6 +28603,7 @@ Resources organized by keyword tags.
   - [The algebra of Krom logic programs](../ai/research/arxiv-2606-15719.md)
   - [The embrace of open science: An analysis of a decade of AI research and 56 800 conference papers](../ai/research/arxiv-2606-16974.md)
   - [The latest on DevSecOps - The GitHub Blog](../ai/rag/the-latest-on-devsecops-the-github-blog.md)
+  - [The mathematical physics of rainbows and glories (2001) [pdf]](../ai/community/the-mathematical-physics-of-rainbows-and-glories-2.md)
   - [The vector database to build knowledgeable AI | Pinecone](../ai/rag/the-vector-database-to-build-knowledgeable-ai-pine.md)
   - [TheoremGraph: Bridging Formal and Informal Mathematics](../ai/rag/arxiv-2606-25363.md)
   - [Theoretical Grounding of Out-Of-Distribution Detection With Reinforcement Learning Optimizer](../ai/research/arxiv-2606-17477.md)
@@ -29254,7 +29263,6 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
-  - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -44981,4 +44989,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-13T19:40:58.309105+05:30*
+*Index generated on 2026-08-13T22:05:40.016002+05:30*

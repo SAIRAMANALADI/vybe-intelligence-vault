@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-122%2C823-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-196%2C804-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--13-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **122,823 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **196,804 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,125</p>
-        <p><b>Active:</b> 18,541 | <b>Inactive:</b> 584</p>
+        <p><b>Resources tracked:</b> 20,106</p>
+        <p><b>Active:</b> 19,521 | <b>Inactive:</b> 585</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,259</p>
+        <p><b>Archive Files:</b> 75,281</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 122,823 files</p>
-        <p><b>Last Update:</b> 2026-08-13 21:41 IST</p>
+        <p><b>Total Vault Size:</b> 196,804 files</p>
+        <p><b>Last Update:</b> 2026-08-13 22:08 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[huangjia2019/ai-agents](ai/agents/huangjia2019-ai-agents.md)** • Rank: <kbd>+975</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+975</kbd>
-- 🔼 **[greensock/gsap-skills](ai/agents/greensock-gsap-skills.md)** • Rank: <kbd>+975</kbd>
-- 🔼 **[viktoriasemaan/multi-agent](ai/agents/viktoriasemaan-multi-agent.md)** • Rank: <kbd>+975</kbd>
-- 🔼 **[kylestratis/ai_agents_mcp_examples](ai/agents/kylestratis-ai-agents-mcp-examples.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[Choosing an AI model: one prompt, 11 models, different results](ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)** • <kbd>+54 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+974</kbd>
+- 🔼 **[React Canaries: Enabling Incremental Feature Rollout Outside Meta](web-development/react-canaries-enabling-incremental-feature-rollou.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[Sunsetting Create React App](ai/rag/sunsetting-create-react-app.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** • Rank: <kbd>+836</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Heart aerospace completes first flight of largest electric aircraft](ai/community/heart-aerospace-completes-first-flight-of-largest.md)** • Score: `77`
+- 🆕 **[I built a 500k-domain search engine for makers in a weekend for $10](ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)** • Score: `47`
+- 🆕 **[We eliminated 1,400 CVEs in NanoClaw's container images](ai/community/we-eliminated-1400-cves-in-nanoclaw-s-container-im.md)** • Score: `26`
+- 🆕 **[Text AI watermarks will always be trivial to remove](ai/community/text-ai-watermarks-will-always-be-trivial-to-remov.md)** • Score: `21`
+- 🆕 **[Graduate Student Proves a Quantum Uncertainty Principle for Fractals](ai/community/graduate-student-proves-a-quantum-uncertainty-prin.md)** • Score: `16`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
