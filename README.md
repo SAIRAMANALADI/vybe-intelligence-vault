@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-122%2C822-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-196%2C809-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--13-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **122,822 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **196,809 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,126</p>
-        <p><b>Active:</b> 18,548 | <b>Inactive:</b> 578</p>
+        <p><b>Resources tracked:</b> 20,101</p>
+        <p><b>Active:</b> 19,519 | <b>Inactive:</b> 582</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,257</p>
+        <p><b>Archive Files:</b> 75,291</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 122,822 files</p>
-        <p><b>Last Update:</b> 2026-08-13 11:58 IST</p>
+        <p><b>Total Vault Size:</b> 196,809 files</p>
+        <p><b>Last Update:</b> 2026-08-13 13:49 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,24 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)** • <kbd>+73 pts</kbd>
-- 🔼 **[AI is removing the middle class of software engineering?](ai/community/ai-is-removing-the-middle-class-of-software-engine.md)** • <kbd>+54 pts</kbd>
-- 🔼 **[Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)** • <kbd>+17 pts</kbd>
-- 🔼 **[Lovable raises $400M Series C](ai/community/we-just-raised-400m-in-series-c.md)** • <kbd>+13 pts</kbd>
-- 🔼 **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)** • <kbd>+11 pts</kbd>
+- 🔼 **[Lovable raises $400M Series C](ai/community/we-just-raised-400m-in-series-c.md)** • <kbd>+19 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)** • <kbd>+12 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)** • <kbd>+4 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[greensock/gsap-skills](ai/agents/greensock-gsap-skills.md)** • Rank: <kbd>+2092</kbd>
+- 🔼 **[viktoriasemaan/multi-agent](ai/agents/viktoriasemaan-multi-agent.md)** • Rank: <kbd>+2097</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[What sort of maths are LLMs good at?](ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)** • Score: `250`
-- 🆕 **[Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning](ai/rag/arxiv-2608-09507.md)** • Score: `0`
-- 🆕 **[Rethinking Medical Landmark Localization with Prototype Learning-based Progressive Offset Correction](ai/rag/arxiv-2608-09182.md)** • Score: `0`
-- 🆕 **[Epistemic Transfer in AI-Assisted Verification: A Framework and Evaluation Protocol](ai/research/arxiv-2608-08882.md)** • Score: `0`
-- 🆕 **[Do Evaluation Metrics Detect Errors in Classical Chinese to English Translations?](ai/research/arxiv-2608-08283.md)** • Score: `0`
+- No new discoveries in this run.
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Waits: Arthur Samuel's Checkers](ai/community/waits-arthur-samuel-s-checkers.md)**
+- 💤 **[Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)**
+- 💤 **[AI is removing the middle class of software engineering?](ai/community/ai-is-removing-the-middle-class-of-software-engine.md)**
+- 💤 **[What sort of maths are LLMs good at?](ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)**
+- 💤 **[Show HN: Ballet – Workflow automation that writes integrations against any API](ai/community/show-hn-ballet-workflow-automation-that-writes-int.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

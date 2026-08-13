@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/docker/compose-for-agents
-collected_at: '2026-08-11T00:57:04.172784+05:30'
+collected_at: '2026-08-13T13:33:43.784091+05:30'
 published_at: '2026-08-10T03:35:27Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - openai
@@ -24,9 +23,9 @@ archived: false
 created_at: '2025-05-09T09:20:04Z'
 pushed_at: '2026-06-04T18:15:29Z'
 resource_id: github:docker/compose-for-agents
-first_seen: '2026-08-11T00:57:04.172784+05:30'
-last_seen: '2026-08-11T00:57:04.172784+05:30'
-last_checked: '2026-08-11T00:57:04.172784+05:30'
+first_seen: '2026-08-13T13:33:43.784091+05:30'
+last_seen: '2026-08-13T13:33:43.784091+05:30'
+last_checked: '2026-08-13T13:33:43.784091+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,7 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate AI agents, integrating open-source LLMs, tools, and agent runtimes.
-- **Key Features**: Includes pre-built examples for self-hosting agentic workflows using technologies like `llama-cpp`, `OpenAI Gym`, and Docker-based orchestration.
-- **Technical Stack**: TypeScript-based repository with Docker Compose for managing multi-container AI agent environments.
+*   Orchestrates multi-component AI agent systems via Docker Compose, integrating open-
 
 ## Why It Matters
 
@@ -46,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: docker
 - Stars: 1020
-- Forks: 458
+- Forks: 461
 - Language: TypeScript
 - Topics: agentic-workflows, ai-agents, docker, docker-compose, examples, large-language-models, llama-cpp, openai-gym, self-hosted
 - Last Updated: 2026-08-10T03:35:27Z

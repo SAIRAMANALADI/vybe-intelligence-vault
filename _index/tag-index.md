@@ -4424,12 +4424,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI is removing the middle class of software engineering?](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
   - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Lovable raises $400M Series C](../ai/community/we-just-raised-400m-in-series-c.md)
-  - [Show HN: Ballet – Workflow automation that writes integrations against any API](../ai/community/show-hn-ballet-workflow-automation-that-writes-int.md)
   - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
-  - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)
 
 ## animation
 
@@ -12364,7 +12361,6 @@ Resources organized by keyword tags.
   - [Anatomically-conditioned Latent Diffusion Model for Data-Efficient Few-Shot Cross-Domain 3D Glioma MRI Synthesis](../ai/research/arxiv-2606-25390.md)
   - [Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal](../ai/research/arxiv-2606-12360.md)
   - [AnchorKV: Anchor-Residual KV Cache Compression](../ai/research/arxiv-2608-02901.md)
-  - [Andrew-Jang/RAGHub](../ai/rag/andrew-jang-raghub.md)
   - [Angular Gaussian Supervised Contrastive Learning for Long-Tailed Electrocardiogram Arrhythmia Diagnosis](../ai/rag/arxiv-2607-14613.md)
   - [Animating Petascale Time-varying Data on Commodity Hardware with LLM-assisted Scripting](../ai/research/arxiv-2603-07053.md)
   - [Annotation-Assisted Learning of Treatment Policies From Multimodal Electronic Health Records](../ai/rag/arxiv-2507-20993.md)
@@ -15859,6 +15855,7 @@ Resources organized by keyword tags.
   - [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../ai/rag/arxiv-2512-06143.md)
+  - [greensock/gsap-skills](../ai/agents/greensock-gsap-skills.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [hkunlp/instructor-large · Hugging Face](../ai/rag/huggingface-hkunlp-instructor-large.md)
   - [huggingface/datasets](../ai/resources/huggingface-datasets.md)
@@ -17594,7 +17591,6 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
-  - [AI is removing the middle class of software engineering?](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -17716,6 +17712,7 @@ Resources organized by keyword tags.
   - [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../ai/research/arxiv-2601-10774.md)
   - [Anamnesis: An Open-Source Platform for Large-Scale Backstory-Conditioned Survey Simulation](../ai/research/arxiv-2607-10628.md)
   - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](../ai/agents/huggingface-blog-agent-intrusion-technical-timeline.md)
+  - [Andrew-Jang/RAGHub](../ai/rag/andrew-jang-raghub.md)
   - [Android Apps on Google Play](../ai/rag/android-apps-on-google-play.md)
   - [Android Developers](../ai/rag/android-developers.md)
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
@@ -19610,7 +19607,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Ballet – Workflow automation that writes integrations against any API](../ai/community/show-hn-ballet-workflow-automation-that-writes-int.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -19756,7 +19752,6 @@ Resources organized by keyword tags.
   - [TXYZ: How AI Tools Help Students in Academic Research](../ai/resources/txyz-how-ai-tools-help-students-in-academic-resear.md)
   - [TabPFN Extensions for Interpretable Geotechnical Modelling](../ai/rag/arxiv-2603-21033.md)
   - [Tail-Aware Information-Theoretic Bounds for LLM Alignment under Heavy-Tailed Rewards](../ai/research/arxiv-2604-10727.md)
-  - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
   - [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md)
@@ -20102,7 +20097,6 @@ Resources organized by keyword tags.
   - [What is Retrieval-Augmented Generation (RAG)? | NVIDIA Glossary](../ai/rag/what-is-retrieval-augmented-generation-rag-nvidia.md)
   - [What is a Container? | Docker](../ai/rag/what-is-a-container-docker.md)
   - [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md)
-  - [What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
   - [What's Different About This Book? - The Rust Programming Language](../ai/rag/what-s-different-about-this-book-the-rust-programm.md)
   - [What's in a Smoothness Constant? Tighter Rates for Local SGD with Bounded Second-order Heterogeneity](../ai/rag/arxiv-2607-14731.md)
   - [What's new in Aspire 13.1 | Aspire](../ai/agents/what-s-new-in-aspire-13-1-aspire.md)
@@ -20243,7 +20237,6 @@ Resources organized by keyword tags.
   - [disintegration/imaging](../ai/rag/disintegration-imaging.md)
   - [djot](../ai/resources/djot.md)
   - [docker image build | Docker Docs](../ai/resources/docker-image-build-docker-docs.md)
-  - [docker/compose-for-agents](../ai/agents/docker-compose-for-agents.md)
   - [docs/content/index.md at main · github/docs · GitHub](../ai/agents/github-docs-2.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
   - [electron/forge](../ai/rag/electron-forge.md)
@@ -20272,7 +20265,6 @@ Resources organized by keyword tags.
   - [googleapis/googleapis](../ai/resources/googleapis-googleapis.md)
   - [gptme/gptme-agent-template](../ai/agents/gptme-gptme-agent-template.md)
   - [graspologic-org/graspologic](../ai/rag/graspologic-org-graspologic.md)
-  - [greensock/gsap-skills](../ai/agents/greensock-gsap-skills.md)
   - [home - h-node.org](../ai/rag/home-h-node-org.md)
   - [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills.md)
   - [huggingface/hub-docs](../ai/resources/huggingface-hub-docs.md)
@@ -20293,7 +20285,6 @@ Resources organized by keyword tags.
   - [krishnaik06/Agentic-LanggraphCrash-course](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md)
   - [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md)
   - [ksm26/Multi-AI-Agent-Systems-with-crewAI](../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md)
-  - [kylestratis/ai_agents_mcp_examples](../ai/agents/kylestratis-ai-agents-mcp-examples.md)
   - [kyrolabs/awesome-agents](../ai/rag/kyrolabs-awesome-agents.md)
   - [labring/sealos](../ai/rag/labring-sealos.md)
   - [langchain-ai/data-enrichment](../ai/agents/langchain-ai-data-enrichment.md)
@@ -20410,7 +20401,6 @@ Resources organized by keyword tags.
   - [vercel-labs/knowledge-agent-template](../ai/rag/vercel-labs-knowledge-agent-template.md)
   - [vespa-engine/vespa](../ai/rag/vespa-engine-vespa.md)
   - [vibecon](../ai/rag/vibecon.md)
-  - [viktoriasemaan/multi-agent](../ai/agents/viktoriasemaan-multi-agent.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
   - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
@@ -20919,10 +20909,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
 
 ## mdx
 
@@ -23940,7 +23926,6 @@ Resources organized by keyword tags.
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
@@ -25209,7 +25194,6 @@ Resources organized by keyword tags.
   - [google/medgemma-27b-it · Hugging Face](../ai/resources/huggingface-google-medgemma-27b-it.md)
   - [hectorpine/multiple-model-crew](../ai/rag/hectorpine-multiple-model-crew.md)
   - [hkunlp/instructor-large · Hugging Face](../ai/rag/huggingface-hkunlp-instructor-large.md)
-  - [huangjia2019/ai-agents](../ai/agents/huangjia2019-ai-agents.md)
   - [huggingface/peft](../ai/resources/huggingface-peft.md)
   - [iCloud](../ai/rag/icloud.md)
   - [iFLYTEK-Embodied-Omni Technical Report](../ai/agents/arxiv-2607-02542.md)
@@ -37879,7 +37863,6 @@ Resources organized by keyword tags.
   - [Selective Prediction Reduces the Negative Effects of Automation Bias Overall but Increases False Negatives](../ai/research/arxiv-2508-07617.md)
   - [Send new RSS feed entries via email](../ai/rag/send-new-rss-feed-entries-via-email.md)
   - [Senpi-ai/senpi-skills](../ai/agents/senpi-ai-senpi-skills.md)
-  - [Show HN: Ballet – Workflow automation that writes integrations against any API](../ai/community/show-hn-ballet-workflow-automation-that-writes-int.md)
   - [SilvaScenes: Tree Detection and Species Classification from Under-Canopy Images in Natural Forests](../ai/rag/arxiv-2510-09458.md)
   - [Simon Willison: Prompt injection](../ai/rag/simon-willison-prompt-injection.md)
   - [Simple, Flexible, Trustworthy CI/CD Tools - Travis CI](../ai/rag/simple-flexible-trustworthy-ci-cd-tools-travis-ci.md)
@@ -42505,7 +42488,6 @@ Resources organized by keyword tags.
   - [Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces](../ai/agents/arxiv-2605-10913.md)
   - [Shibuya](../ai/resources/shibuya.md)
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
-  - [Show HN: Ballet – Workflow automation that writes integrations against any API](../ai/community/show-hn-ballet-workflow-automation-that-writes-int.md)
   - [Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](../ai/research/arxiv-2606-18430.md)
   - [SimMOF: AI agent for Automated MOF Simulations](../ai/agents/arxiv-2603-29152.md)
   - [Simple, Flexible, Trustworthy CI/CD Tools - Travis CI](../ai/rag/simple-flexible-trustworthy-ci-cd-tools-travis-ci.md)
@@ -42786,6 +42768,7 @@ Resources organized by keyword tags.
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [czl9707/build-your-own-openclaw](../ai/agents/czl9707-build-your-own-openclaw.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md)
@@ -45029,4 +45012,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-13T10:59:10.334479+05:30*
+*Index generated on 2026-08-13T13:46:46.274291+05:30*

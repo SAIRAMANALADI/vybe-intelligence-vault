@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1509, Downloads: 27629624)
+Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1509, Downloads: 28918182)
 
 ## Use Cases
 

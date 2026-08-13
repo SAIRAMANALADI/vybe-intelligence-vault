@@ -15750,13 +15750,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI is removing the middle class of software engineering?](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md)
   - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
   - [Lovable raises $400M Series C](../ai/community/we-just-raised-400m-in-series-c.md)
-  - [Show HN: Ballet – Workflow automation that writes integrations against any API](../ai/community/show-hn-ballet-workflow-automation-that-writes-int.md)
   - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
-  - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md)
-  - [What sort of maths are LLMs good at?](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19568,4 +19564,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-13T10:59:10.540127+05:30*
+*Index generated on 2026-08-13T13:46:46.489865+05:30*

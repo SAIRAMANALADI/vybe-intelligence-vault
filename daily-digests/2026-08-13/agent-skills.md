@@ -1,19 +1,29 @@
 ---
-title: "CoinLobster/agent-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "HTTP/REST APIs", "MCP (Model Context Protocol)", "JSON", "Curl"]
+title: CoinLobster/agent-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-08-13
+tech_stack:
+- JavaScript
+- HTTP/REST APIs
+- MCP (Model Context Protocol)
+- JSON
+- Curl
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["crypto trading", "whale tracking", "real-time data", "agent skills", "keyless API"]
-source: "https://github.com/CoinLobster/agent-skills"
+deployment_complexity: Low
+tags:
+- crypto trading
+- whale tracking
+- real-time data
+- agent skills
+- keyless API
+source: https://github.com/CoinLobster/agent-skills
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-07T06:02:13Z"
-discovered_at: "2026-08-07T06:13:29Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T06:02:13Z'
+discovered_at: '2026-08-07T06:13:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

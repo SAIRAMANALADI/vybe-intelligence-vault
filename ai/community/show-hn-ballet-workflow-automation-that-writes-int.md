@@ -16,13 +16,14 @@ tags:
 - hackernews
 - scripts
 - workflows
-status: active
+status: inactive
 resource_id: hackernews:show-hn-ballet-workflow-automation-that-writes-int
 first_seen: '2026-08-13T08:23:46.723485+05:30'
 last_seen: '2026-08-13T10:41:42.207129+05:30'
 last_checked: '2026-08-13T10:41:42.207129+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Ballet – Workflow automation that writes integrations against any API
 
