@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:23:17.170614+05:30",
+  "generated_at": "2026-08-14T03:25:56.195010+05:30",
   "trending_resources": [
     {
       "id": "blog:retrieval-augmented-generation-rag-chatbots-for-ed",
@@ -134,28 +134,28 @@
   ],
   "fastest_rising_tools": [
     {
-      "id": "github:ruc-nlpir/flashrag",
-      "title": "RUC-NLPIR/FlashRAG",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/ruc-nlpir/flashrag",
-      "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 18334,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "blog:medium-privacy-policy-by-medium-medium-policy",
       "title": "Medium Privacy Policy | by Medium | Medium Policy",
       "category": "ai/rag",
       "source_type": "web",
       "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
-      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
+      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9236,
+      "rank_change": 979,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:ruc-nlpir/flashrag",
+      "title": "RUC-NLPIR/FlashRAG",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/ruc-nlpir/flashrag",
+      "file_path": "ai/rag/ruc-nlpir-flashrag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/rag/microsoft-rag-time.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +181,7 @@
       "file_path": "ai/research/arxiv-2608-02392.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/rag/arxiv-2608-02046.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/rag/arxiv-2608-01791.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/rag/arxiv-2608-01207.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/research/arxiv-2606-23462.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/research/arxiv-2606-22216.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,7 +259,7 @@
       "file_path": "ai/research/arxiv-2606-09123.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     }

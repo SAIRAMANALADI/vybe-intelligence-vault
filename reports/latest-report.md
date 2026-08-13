@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-14T02:23:17.170614+05:30`
+Generated at: `2026-08-14T03:25:56.195010+05:30`
 
 ## Executive Summary
 
@@ -25,16 +25,16 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18334`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9236`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+979`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+979`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+979`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+979`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+979`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+979`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+979`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+979`) ([File](../ai/research/arxiv-2606-09123.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+979`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+979`) ([File](../ai/rag/ruc-nlpir-flashrag.md))
+- **microsoft/rag-time** - (Rank Change: `+978`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+978`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+978`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+978`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
