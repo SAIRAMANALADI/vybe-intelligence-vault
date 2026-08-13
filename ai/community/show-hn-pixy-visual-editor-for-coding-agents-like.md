@@ -13,13 +13,14 @@ collected_at: '2026-08-14T00:58:19.363456+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-pixy-visual-editor-for-coding-agents-like
 first_seen: '2026-08-14T00:58:19.363456+05:30'
 last_seen: '2026-08-14T00:58:19.363456+05:30'
 last_checked: '2026-08-14T00:58:19.363456+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Pixy, visual editor for coding agents, like Figma on your live site
 

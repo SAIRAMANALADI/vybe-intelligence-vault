@@ -3284,7 +3284,6 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
-  - [Show HN: Pixy, visual editor for coding agents, like Figma on your live site](../ai/community/show-hn-pixy-visual-editor-for-coding-agents-like.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
@@ -4424,8 +4423,9 @@ Resources organized by keyword tags.
 
   - [AI At Home Part 1: A Box Of Scraps](../ai/community/ai-at-home-part-1-a-box-of-scraps.md)
   - [Choosing an AI model: one prompt, 11 models, different results](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)
-  - [Graduate student proves a quantum uncertainty principle for fractals](../ai/community/graduate-student-proves-a-quantum-uncertainty-prin.md)
+  - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
   - [I built a 500k-domain search engine for makers in a weekend for $10](../ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)
+  - [Nine PBS sues Iron Mountain over blocked access to archival data](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)
 
 ## animation
 
@@ -18559,7 +18559,6 @@ Resources organized by keyword tags.
   - [Gradient-based inverse lithography for EUV masks via the waveguide method and a physics-informed neural operator](../ai/research/arxiv-2606-25753.md)
   - [Gradio](../ai/rag/gradio.md)
   - [Graduate Certificate in Artificial Intelligence and Machine Learning | Computer & Data Science Online](../ai/rag/graduate-certificate-in-artificial-intelligence-an.md)
-  - [Graduate student proves a quantum uncertainty principle for fractals](../ai/community/graduate-student-proves-a-quantum-uncertainty-prin.md)
   - [GrahamDumpleton/wsgiorg](../ai/resources/grahamdumpleton-wsgiorg.md)
   - [Graph Coloring Approach to Solving Sudoku with Oscillatory Neural Networks](../ai/research/arxiv-2607-15814.md)
   - [Graph Neural Networks for RFID-Based Spatial Geometry Inference in Spatial AI Systems](../ai/rag/arxiv-2607-10822.md)
@@ -18661,6 +18660,7 @@ Resources organized by keyword tags.
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
   - [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment](../ai/research/arxiv-2607-14174.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
+  - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
   - [How ServiceNow uses LangSmith to get visibility into its customer success agents](../ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md)
   - [How We Handle Ads, Funding, and Data Security - Google - About Google](../ai/resources/how-we-handle-ads-funding-and-data-security-google.md)
@@ -19112,6 +19112,7 @@ Resources organized by keyword tags.
   - [News | Android Developers](../ai/resources/news-android-developers.md)
   - [Newton-Schulz Retraction-Based Inference Enables Hidden Quantum Markov Models to Outperform Classical HMMs](../ai/rag/arxiv-2608-06554.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
+  - [Nine PBS sues Iron Mountain over blocked access to archival data](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
@@ -19607,7 +19608,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Pixy, visual editor for coding agents, like Figma on your live site](../ai/community/show-hn-pixy-visual-editor-for-coding-agents-like.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -25508,6 +25508,7 @@ Resources organized by keyword tags.
   - [Home | Enterprise Technology](../ai/rag/home-enterprise-technology.md)
   - [How Closely Do LLM Reviews Align with Human Peer Review?](../ai/research/arxiv-2608-03659.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
+  - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
   - [How We Use n8n to Build and Control AI Agents – Keeping Business in Focus | beezwax blog](../ai/rag/how-we-use-n8n-to-build-and-control-ai-agents-keep.md)
   - [How Well Can AI Generate Backlogs from App Mockups?](../ai/rag/arxiv-2607-22902.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
@@ -45000,4 +45001,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-14T01:14:57.007355+05:30*
+*Index generated on 2026-08-14T03:57:05.736336+05:30*

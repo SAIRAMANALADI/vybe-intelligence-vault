@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html
 hn_url: https://news.ycombinator.com/item?id=49285718
-score: 97
+score: 128
 author: dreamforever
-comments_count: 58
+comments_count: 71
 published_at: '2026-08-13T19:06:19+05:30'
-collected_at: '2026-08-14T00:58:19.696342+05:30'
+collected_at: '2026-08-14T03:40:55.991126+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:i-built-a-500k-domain-search-engine-for-makers-in
 first_seen: '2026-08-13T21:49:24.502197+05:30'
-last_seen: '2026-08-14T00:58:19.696342+05:30'
-last_checked: '2026-08-14T00:58:19.696342+05:30'
+last_seen: '2026-08-14T03:40:55.991126+05:30'
+last_checked: '2026-08-14T03:40:55.991126+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by dreamforever. Score: 97, Comments: 58.
+Hacker News story by dreamforever. Score: 128, Comments: 71.
 Original Link: https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: dreamforever
-- Score: 97 Upvotes
-- Comments: 58 Discussions
+- Score: 128 Upvotes
+- Comments: 71 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49285718
 - Original Article: https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html
 

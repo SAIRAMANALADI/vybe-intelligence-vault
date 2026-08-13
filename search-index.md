@@ -23331,7 +23331,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
 * **[AI At Home Part 1: A Box Of Scraps](ai/community/ai-at-home-part-1-a-box-of-scraps.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by timmmmmmay. Score: 37, Comments: 17. Original Link: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html
+  * Summary: Hacker News story by timmmmmmay. Score: 69, Comments: 36. Original Link: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html>
 
@@ -23836,7 +23836,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://bitbucket.org/product/code-repository>
 
 * **[Choosing an AI model: one prompt, 11 models, different results](ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)** (`prompt` | `useful` tier)
-  * Summary: Hacker News story by toddmorey. Score: 134, Comments: 58. Original Link: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/
+  * Summary: Hacker News story by toddmorey. Score: 157, Comments: 68. Original Link: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://netlify.com/blog/one-prompt-11-models-very-different-results>
 
@@ -24995,11 +24995,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `creative_dev`, `dataset`, `hackernews`, `models`, `paper`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://cdso.utexas.edu/caiml>
 
-* **[Graduate student proves a quantum uncertainty principle for fractals](ai/community/graduate-student-proves-a-quantum-uncertainty-prin.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by bookofjoe. Score: 50, Comments: 6. Original Link: https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812>
-
 * **[Graph Retrieval-Augmented Generation: A Survey](ai/research/graph-retrieval-augmented-generation-a-survey.md)** (`framework` | `useful` tier)
   * Summary: Recently, Retrieval-Augmented Generation (RAG) has achieved remarkable success in addressing the challenges of Large Language Models (LLMs) without necessitating retraining. By referencing an external knowledge base, RAG refines LLM outputs, effectiv
   * Tags: `augmented`, `benchmark`, `generation`, `hackernews`, `paper`, `rag`, `retrieval`, `semantic-scholar`, `workflows`
@@ -25135,6 +25130,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `openai`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.12236>
 
+* **[How Organizations Use AI: Evidence from ChatGPT [pdf]](ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by malshe. Score: 37, Comments: 18. Original Link: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
+  * Tags: `ai`, `hackernews`, `openai`
+  * Source URL: <https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>
+
 * **[How ServiceNow uses LangSmith to get visibility into its customer success agents](ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md)** (`dataset` | `useful` tier)
   * Summary: - **Multi-agent orchestration**: ServiceNow implemented a LangGraph-based supervisor agent system with specialized subagents for lead qualification, opportunity discovery, economic buyer identification, onboarding, adoption tracking, renewal/expansio
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `producthunt`, `rag`, `scripts`, `web-crawled`, `workflows`
@@ -25186,7 +25186,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.23983>
 
 * **[I built a 500k-domain search engine for makers in a weekend for $10](ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dreamforever. Score: 97, Comments: 58. Original Link: https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html
+  * Summary: Hacker News story by dreamforever. Score: 128, Comments: 71. Original Link: https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html>
 
@@ -25196,7 +25196,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11722>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based repository for a Retrieval-Augmented Generation (RAG) workflow homework assignment
+  * Summary: * GitHub Classroom assignment for Retrieval Augmented Generation (RAG) workflow development. * Implemented
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
@@ -25954,6 +25954,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Architecture**: Template integrates FastAPI for REST endpoints, MCP (Model Context Protocol) for agentic orchestration, and LangGraph for stateful workflows, enabling scalable agentic systems with Python. - **Observability & Storage**: Includes P
   * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/NicholasGoh/fastapi-mcp-langgraph-template>
+
+* **[Nine PBS sues Iron Mountain over blocked access to archival data](ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by vinayakborkar. Score: 167, Comments: 81. Original Link: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data>
 
 * **[Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI](ai/rag/nixtla-enterprise-adds-foundation-models-mcp-and-a.md)** (`dataset` | `useful` tier)
   * Summary: - **Multi-Model Integration**: Nixtla Enterprise now supports multiple foundation models (e.g., Chronos, TimesFM) alongside TimeGPT via a unified `NixtlaClient` interface, enabling benchmarking and selection without tool-switching or API fragmentatio
@@ -26794,11 +26799,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
-
-* **[Show HN: Pixy, visual editor for coding agents, like Figma on your live site](ai/community/show-hn-pixy-visual-editor-for-coding-agents-like.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by astroscout. Score: 4, Comments: 1. Original Link: https://pixydesignapp.com/
-  * Tags: `agents`, `hackernews`
-  * Source URL: <https://pixydesignapp.com>
 
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
@@ -52447,7 +52447,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.15240>
 
 * **[enzostvs/deepsite](ai/models/huggingface-spaces-enzostvs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: enzostvs/deepsite (Likes: 16618, Downloads: 0)
+  * Summary: Trending Hugging Face space: enzostvs/deepsite (Likes: 16610, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/enzostvs>
 
@@ -91425,7 +91425,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Full-stack guide to Retrieval-Augmented Generation (RAG) technology, emphasizing
+  * Summary: * Comprehensive guide to Retrieval Augmented Generation (RAG) techniques, emphasizing full-
   * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -100274,7 +100274,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`. * Leverages GitHub Pages hosting via the `raganwald
+  * Summary: * Jekyll source repository for raganwald.com, indicating static site generation.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -102923,8 +102923,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
-* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based Retrieval-Augmented Generation (RAG) system. * Facilitates conversational querying of ingested GitHub repository content. * Enables practical interaction with codebase documentation and structure via natural language.
+* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`tool` | `useful` tier)
+  * Summary: * RAG-based system enabling conversational interaction with downloaded GitHub repository content. * Implemented in Python for practical deployment. * Designed for knowledge extraction and querying of GitHub project data via natural language.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

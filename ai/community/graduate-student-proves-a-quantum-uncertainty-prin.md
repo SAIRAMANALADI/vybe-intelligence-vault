@@ -13,13 +13,14 @@ collected_at: '2026-08-14T00:58:20.147766+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:graduate-student-proves-a-quantum-uncertainty-prin
 first_seen: '2026-08-13T21:49:25.218350+05:30'
 last_seen: '2026-08-14T00:58:20.147766+05:30'
 last_checked: '2026-08-14T00:58:20.147766+05:30'
 health_score: 100
 ---
+
 
 # Graduate student proves a quantum uncertainty principle for fractals
 

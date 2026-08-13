@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://netlify.com/blog/one-prompt-11-models-very-different-results
 hn_url: https://news.ycombinator.com/item?id=49285327
-score: 134
+score: 157
 author: toddmorey
-comments_count: 58
+comments_count: 68
 published_at: '2026-08-13T18:35:29+05:30'
-collected_at: '2026-08-14T00:58:19.256076+05:30'
+collected_at: '2026-08-14T03:40:55.873180+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:choosing-an-ai-model-one-prompt-11-models-differen
 first_seen: '2026-08-13T19:24:45.278034+05:30'
-last_seen: '2026-08-14T00:58:19.256076+05:30'
-last_checked: '2026-08-14T00:58:19.256076+05:30'
+last_seen: '2026-08-14T03:40:55.873180+05:30'
+last_checked: '2026-08-14T03:40:55.873180+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by toddmorey. Score: 134, Comments: 58.
+Hacker News story by toddmorey. Score: 157, Comments: 68.
 Original Link: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: toddmorey
-- Score: 134 Upvotes
-- Comments: 58 Discussions
+- Score: 157 Upvotes
+- Comments: 68 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49285327
 - Original Article: https://netlify.com/blog/one-prompt-11-models-very-different-results
 
