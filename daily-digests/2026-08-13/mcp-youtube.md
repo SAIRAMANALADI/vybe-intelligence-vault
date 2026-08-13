@@ -1,67 +1,49 @@
 ---
-title: win2013/MCP-Youtube
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-13
-tech_stack:
-- Python
-- Modern Context Protocol (MCP)
-- YouTube Data API v3
-- FastAPI
-- OpenAI API
-- TCP/STDIO/SSE Transport
-- Pytest
+title: "pipeworx-io/mcp-youtube"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "YouTube Data API v3", "REST", "Node.js"]
 quality_score: 7
-rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- YouTube integration
-- MCP server
-- video processing
-- content extraction
-- LLM orchestration
-source: https://github.com/win2013/MCP-Youtube
+rag_relevance: 8
+deployment_complexity: "Low"
+tags: ["YouTube", "MCP", "API wrapper", "data retrieval", "AI agents"]
+source: "https://github.com/pipeworx-io/mcp-youtube"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T12:45:04Z'
-discovered_at: '2026-08-09T12:50:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:31:59Z"
+discovered_at: "2026-08-04T07:41:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-MCP-Youtube is a Modern Context Protocol (MCP) server that integrates YouTube functionality into AI workflows by retrieving video metadata, transcripts, summaries, and similar videos. It supports multiple transport methods and enables content translation via external APIs.
+mcp-youtube is a Model Context Protocol (MCP) server that wraps the YouTube Data API v3, enabling AI agents to search, retrieve video details, channel information, and comments from YouTube. It is part of the Pipeworx gateway, which connects AI agents to over 1,394 live data sources.
 
 ## Key Features
-- Retrieves YouTube video metadata (title, description, thumbnail)
-- Extracts and processes video transcripts
-- Generates video summaries and finds similar videos
-- Supports translation of content to different languages
-- Offers multiple transport methods (TCP, STDIO, SSE)
+- Provides MCP-compatible tools for YouTube data access (search, video details, channel info, comments)
+- Integrates with Pipeworx gateway for unified access to 1,394+ data sources
+- Supports plain English queries via ask_pipeworx for simplified agent interactions
+- Returns structured metadata including titles, descriptions, statistics, and thumbnails
+- Requires BYO YouTube API key for authentication
 
 ## Why It Matters for RAG Builders
-MCP-Youtube enables seamless integration of YouTube content into RAG pipelines, enhancing AI systems with real-time video data extraction and processing capabilities.
+It enables AI agents to seamlessly integrate YouTube data into RAG pipelines, enhancing context with real-time video, channel, and comment information.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Modern Context Protocol (MCP)
-Automated review identified **Modern Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### YouTube Data API v3
 Automated review identified **YouTube Data API v3** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST
+Automated review identified **REST** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### TCP/STDIO/SSE Transport
-Automated review identified **TCP/STDIO/SSE Transport** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Pytest
-Automated review identified **Pytest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

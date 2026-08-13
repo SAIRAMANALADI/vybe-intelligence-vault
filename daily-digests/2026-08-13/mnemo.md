@@ -1,67 +1,58 @@
 ---
-title: DanceNitra/mnemo
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-13
-tech_stack:
-- Python
-- JSON
-- Ed25519 (cryptography)
-- BM25 (lexical retrieval)
-- Reciprocal Rank Fusion (hybrid retrieval)
-- Hash-chaining (tamper-evident storage)
-- Neural Network Inversion (vector store auditing)
+title: "sattyamjjain/mnemo"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "DuckDB", "PostgreSQL", "SHA-256", "MCP (Model Context Protocol)", "ONNX", "Ollama", "Apache-2.0"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- agent memory
-- memory layer
-- RAG optimization
-- tamper-evident storage
-- adversarial resilience
-source: https://github.com/DanceNitra/mnemo
-stars: 0
-language: Python
-last_updated: '2026-07-13T16:27:21Z'
-discovered_at: '2026-07-13T16:31:33Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["auditable memory", "MCP-native", "on-prem", "compliance", "tamper-evident"]
+source: "https://github.com/sattyamjjain/mnemo"
+stars: 4
+language: "Rust"
+last_updated: "2026-08-08T08:37:47Z"
+discovered_at: "2026-08-08T08:43:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Mnemo is a lightweight, zero-dependency memory layer for AI agents designed to handle recall, consolidation, correction, and governance in production environments. It powers autonomous research systems and is optimized for integrity, adversarial resilience, and tamper-evident erasure.
+Mnemo is an on-prem, MCP-native embedded database designed for regulated AI deployments, offering cryptographically auditable memory primitives (REMEMBER, RECALL, FORGET, SHARE) with SHA-256 hash-chained write logs for tamper-evident verification. It supports DuckDB and PostgreSQL backends and integrates with AI agents via the Model Context Protocol (MCP).
 
 ## Key Features
-- Zero-dependency, single-file implementation for easy integration
-- Measured integrity with first-class correction operations (revert, lineage-aware retraction)
-- Tamper-evident governance primitives (anchors, erasure tombstones, cross-store auditing)
-- Poison-resistant recall via influence-gating and corroboration
-- Hybrid retrieval (lexical + semantic) with Reciprocal Rank Fusion for high accuracy
+- SHA-256 hash-chained memory write logs for offline verification by external auditors
+- MCP-native integration enabling AI agents to directly interact with memory primitives (REMEMBER, RECALL, FORGET, SHARE)
+- Hybrid vector and lexical search with support for multiple embedders (e.g., nomic-embed-text, ONNX MiniLM)
+- Regulatory compliance features for EU AI Act, India DPDP, and HIPAA with signed audit logs and consent records
+- Measured security benchmarks against memory poisoning and tampering attacks (ASI06 compliance)
 
 ## Why It Matters for RAG Builders
-Mnemo provides a production-grade, integrity-focused memory layer essential for building reliable RAG systems that require correction, governance, and adversarial resilience.
+Mnemo provides a critical foundation for building trustworthy, auditable RAG systems in regulated environments by ensuring memory integrity and compliance without relying on hosted tiers.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON
-Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### DuckDB
+Automated review identified **DuckDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ed25519 (cryptography)
-Automated review identified **Ed25519 (cryptography)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### BM25 (lexical retrieval)
-Automated review identified **BM25 (lexical retrieval)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SHA-256
+Automated review identified **SHA-256** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Reciprocal Rank Fusion (hybrid retrieval)
-Automated review identified **Reciprocal Rank Fusion (hybrid retrieval)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Hash-chaining (tamper-evident storage)
-Automated review identified **Hash-chaining (tamper-evident storage)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### ONNX
+Automated review identified **ONNX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Neural Network Inversion (vector store auditing)
-Automated review identified **Neural Network Inversion (vector store auditing)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Apache-2.0
+Automated review identified **Apache-2.0** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

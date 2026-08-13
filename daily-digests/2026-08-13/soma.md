@@ -1,75 +1,73 @@
 ---
-title: sunyan999999/soma
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-13
-tech_stack:
-- Python
-- ONNX Runtime
-- SQLite
-- FastAPI
-- Vue 3
-- AST Parsing
-- Embedding Models
-- Ebbinghaus Forgetting Curves
-- Graph Chain Inference
+title: "dinglebear-ai/soma"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "REST API", "HTTP/Streamable MCP", "CLI", "Python", "WASM", "Docker", "OpenAPI", "OAuth", "JWT", "Axum", "GitHub Actions"]
 quality_score: 9
-rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Cognitive Architecture
-- Memory Management
-- Reasoning Framework
-- Multi-Agent Systems
-- Self-Evolving AI
-source: https://github.com/sunyan999999/soma
-stars: 7
-language: Python
-last_updated: '2026-08-03T22:06:21Z'
-discovered_at: '2026-08-03T22:09:31Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 9
+deployment_complexity: "Medium"
+tags: ["agent runtime", "provider-backed", "RMCP", "multi-surface", "scaffold automation"]
+source: "https://github.com/dinglebear-ai/soma"
+stars: 1
+language: "Rust"
+last_updated: "2026-08-01T03:22:40Z"
+discovered_at: "2026-08-01T03:44:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-SOMA is a cognitive kernel for AI agents that enables advanced memory management, reasoning, collaboration, and self-evolution through a seven-law reasoning framework and three-tier memory system. Unlike traditional vector databases, SOMA actively decomposes problems before retrieval, providing systematic analysis rather than pattern-matching.
+Soma is a production-ready RMCP runtime for building provider-backed agents with CLI, REST, HTTP MCP, and plugin support. It simplifies deploying agent capabilities by offering a batteries-included server runtime with dynamic provider loading, authentication, observability, and scaffold automation.
 
 ## Key Features
-- Seven-law reasoning framework (first-principles, systems thinking, contradiction analysis, etc.)
-- Three-tier memory system (L1 episodic, L2 scene blocks, L3 user profile) with Ebbinghaus decay
-- Autonomous cognitive loop (Perceive → Reason → Act → Feedback → Evolve) with zero external LLM calls for simple tasks
-- Multi-agent collaboration with expert routing, consensus protocols, and distributed evolution
-- Code memory with AST parsing, structured triples, and real-time health monitoring via ONNX latency tracking
+- Batteries-included runtime for MCP, CLI, REST, and HTTP transports with minimal custom Rust required
+- Dynamic provider loading from JSON, Python, WASM, and Rust modules with structured manifests
+- Built-in authentication (OAuth, JWT, bearer tokens), observability, and plugin support
+- Scaffold automation for generating distributable agent projects with locked-in production patterns
+- Multi-profile deployment options (local-adapter, server, full) with feature-gated customization
 
 ## Why It Matters for RAG Builders
-SOMA provides a next-generation reasoning and memory framework that enables AI agents to think critically, collaborate effectively, and evolve autonomously, surpassing traditional vector databases in capability and adaptability.
+Soma provides a unified runtime and scaffolding system that accelerates the deployment of provider-backed agents across multiple interfaces while enforcing production-grade security and observability patterns.
 
 ## Tech Stack Deep Dive
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### HTTP/Streamable MCP
+Automated review identified **HTTP/Streamable MCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### ONNX Runtime
-Automated review identified **ONNX Runtime** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WASM
+Automated review identified **WASM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenAPI
+Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vue 3
-Automated review identified **Vue 3** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OAuth
+Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### AST Parsing
-Automated review identified **AST Parsing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JWT
+Automated review identified **JWT** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Embedding Models
-Automated review identified **Embedding Models** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Axum
+Automated review identified **Axum** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ebbinghaus Forgetting Curves
-Automated review identified **Ebbinghaus Forgetting Curves** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Graph Chain Inference
-Automated review identified **Graph Chain Inference** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### GitHub Actions
+Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
