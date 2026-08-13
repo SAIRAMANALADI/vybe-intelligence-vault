@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 122,829 files</p>
-        <p><b>Last Update:</b> 2026-08-13 22:41 IST</p>
+        <p><b>Last Update:</b> 2026-08-13 23:44 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Choosing an AI model: one prompt, 11 models, different results](ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)** • <kbd>+54 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+974</kbd>
-- 🔼 **[huangjia2019/ai-agents](ai/agents/huangjia2019-ai-agents.md)** • Rank: <kbd>+969</kbd>
-- 🔼 **[greensock/gsap-skills](ai/agents/greensock-gsap-skills.md)** • Rank: <kbd>+970</kbd>
-- 🔼 **[viktoriasemaan/multi-agent](ai/agents/viktoriasemaan-multi-agent.md)** • Rank: <kbd>+970</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[huangjia2019/ai-agents](ai/agents/huangjia2019-ai-agents.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[greensock/gsap-skills](ai/agents/greensock-gsap-skills.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[viktoriasemaan/multi-agent](ai/agents/viktoriasemaan-multi-agent.md)** • Rank: <kbd>+975</kbd>
+- 🔼 **[kylestratis/ai_agents_mcp_examples](ai/agents/kylestratis-ai-agents-mcp-examples.md)** • Rank: <kbd>+975</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Heart aerospace completes first flight of largest electric aircraft](ai/community/heart-aerospace-completes-first-flight-of-largest.md)** • Score: `77`
-- 🆕 **[I built a 500k-domain search engine for makers in a weekend for $10](ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)** • Score: `47`
-- 🆕 **[We eliminated 1,400 CVEs in NanoClaw's container images](ai/community/we-eliminated-1400-cves-in-nanoclaw-s-container-im.md)** • Score: `26`
-- 🆕 **[Text AI watermarks will always be trivial to remove](ai/community/text-ai-watermarks-will-always-be-trivial-to-remov.md)** • Score: `21`
-- 🆕 **[Graduate Student Proves a Quantum Uncertainty Principle for Fractals](ai/community/graduate-student-proves-a-quantum-uncertainty-prin.md)** • Score: `16`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
