@@ -3352,7 +3352,6 @@ Resources organized by keyword tags.
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
   - [Solutions | Cloudflare](../ai/rag/solutions-cloudflare.md)
   - [Some Large Language Models Exhibit Consistent Risk Attitudes](../ai/agents/arxiv-2607-16197.md)
-  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
   - [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server.md)
   - [Sorries Are Not the Hard Part: An Expert-Review Case Study of a Semi-Autonomous Formalization](../ai/agents/arxiv-2606-13925.md)
   - [SorryDB: Can AI Provers Complete Real-World Lean Theorems?](../ai/agents/arxiv-2603-02668.md)
@@ -4422,9 +4421,8 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Choosing an AI model: one prompt, 11 models, different results](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)
   - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
-  - [Lovable raises $400M Series C](../ai/community/we-just-raised-400m-in-series-c.md)
-  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
 
 ## animation
 
@@ -4858,7 +4856,6 @@ Resources organized by keyword tags.
   - [SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe](../ai/agents/arxiv-2607-03451.md)
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
-  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
   - [Sonatype Guide](../ai/rag/sonatype-guide.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [SpatialThinker: Reinforcing Scene Graph-Grounded Spatial Reasoning via Dense Rewards](../ai/rag/arxiv-2511-07403.md)
@@ -17945,6 +17942,7 @@ Resources organized by keyword tags.
   - [CheckMIABench: Firm Foundations For Membership Inference Attacks on Language Models](../ai/rag/arxiv-2606-17464.md)
   - [ChiEngMixBench: Evaluating Large Language Models on Expert-Style Chinese-English Terminology Mixing](../ai/research/arxiv-2601-16217.md)
   - [Choose how to use n8n | n8n Docs](../ai/rag/choose-how-to-use-n8n-n8n-docs.md)
+  - [Choosing an AI model: one prompt, 11 models, different results](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)
   - [Chroma - YouTube](../ai/resources/chroma-youtube.md)
   - [Chroma - open-source search infrastructure for AI](../ai/rag/chroma-open-source-search-infrastructure-for-ai.md)
   - [Chrome DevTools | Chrome for Developers](../ai/rag/chrome-devtools-chrome-for-developers.md)
@@ -18930,7 +18928,6 @@ Resources organized by keyword tags.
   - [Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits](../ai/rag/arxiv-2607-22564.md)
   - [Losses — Sentence Transformers documentation](../ai/rag/losses-sentence-transformers-documentation.md)
   - [Lost in Transmission: An Information-Theoretic Account of Unsupervised Software Traceability](../ai/rag/arxiv-2412-04704.md)
-  - [Lovable raises $400M Series C](../ai/community/we-just-raised-400m-in-series-c.md)
   - [Low-Cost Neuromorphic Fall Detection Using Synthetic Event Data and Hybrid SNNs](../ai/rag/arxiv-2606-18732.md)
   - [Low-Overhead Error-Corrected QCNNs Using Bivariate Bicycle Codes](../ai/research/arxiv-2607-05724.md)
   - [Low-Precision Training of Large Language Models: Methods, Challenges, and Opportunities](../ai/rag/arxiv-2505-01043.md)
@@ -19641,7 +19638,6 @@ Resources organized by keyword tags.
   - [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](../ai/agents/arxiv-2607-08681.md)
   - [Solution Space Path Planning: A Real-Time Human-Centered Path Planning Algorithm for En-Route Air Traffic Control](../ai/rag/arxiv-2607-00064.md)
   - [Solver-Guided Reasoning for Mixed-Equilibrium Strategies](../ai/research/arxiv-2608-06741.md)
-  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
   - [Something from Nothing: Data Augmentation for Robust Severity Level Estimation of Dysarthric Speech](../ai/rag/arxiv-2603-15988.md)
   - [Sound Probabilistic Safety Bounds for Large Language Models](../ai/rag/arxiv-2607-20286.md)
   - [Soundwaves settle debate about elusive quantum particle | Cornell Chronicle](../ai/rag/soundwaves-settle-debate-about-elusive-quantum-par.md)
@@ -42744,7 +42740,6 @@ Resources organized by keyword tags.
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [czl9707/build-your-own-openclaw](../ai/agents/czl9707-build-your-own-openclaw.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md)
@@ -44986,4 +44981,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-13T16:15:48.872322+05:30*
+*Index generated on 2026-08-13T19:40:58.309105+05:30*

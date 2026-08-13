@@ -15750,9 +15750,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Choosing an AI model: one prompt, 11 models, different results](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)
   - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md)
-  - [Lovable raises $400M Series C](../ai/community/we-just-raised-400m-in-series-c.md)
-  - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19562,4 +19561,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-13T16:15:49.040418+05:30*
+*Index generated on 2026-08-13T19:40:58.522365+05:30*
