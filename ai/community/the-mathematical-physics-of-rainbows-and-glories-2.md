@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - paper
-status: active
+status: inactive
 resource_id: hackernews:the-mathematical-physics-of-rainbows-and-glories-2
 first_seen: '2026-08-13T21:49:25.558912+05:30'
 last_seen: '2026-08-13T21:49:25.558912+05:30'
 last_checked: '2026-08-13T21:49:25.558912+05:30'
 health_score: 100
 ---
+
 
 # The mathematical physics of rainbows and glories (2001) [pdf]
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-13T21:49:24.948700+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:heart-aerospace-completes-first-flight-of-largest
 first_seen: '2026-08-13T21:49:24.948700+05:30'
 last_seen: '2026-08-13T21:49:24.948700+05:30'
 last_checked: '2026-08-13T21:49:24.948700+05:30'
 health_score: 100
 ---
+
 
 # Heart aerospace completes first flight of largest electric aircraft
 

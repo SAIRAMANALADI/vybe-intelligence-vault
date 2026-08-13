@@ -14,11 +14,11 @@ authors:
 - Pengjun Xie
 - Feng Zhao
 year: 2025
-citation_count: 68
+citation_count: 69
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-08-09T03:19:46.750542+05:30'
+collected_at: '2026-08-14T00:58:16.739120+05:30'
 tags:
 - agents
 - augmented
@@ -34,8 +34,8 @@ tags:
 status: active
 resource_id: blog:vidorag-visual-document-retrieval-augmented-genera
 first_seen: '2026-07-19T16:15:03.004002+05:30'
-last_seen: '2026-08-09T03:19:46.750542+05:30'
-last_checked: '2026-08-09T03:19:46.750542+05:30'
+last_seen: '2026-08-14T00:58:16.739120+05:30'
+last_checked: '2026-08-14T00:58:16.739120+05:30'
 health_score: 100
 ---
 
@@ -53,7 +53,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Qiuchen Wang, Ruixue Ding, Zehui Chen, Weiqi Wu, Shihang Wang, Pengjun Xie, Feng Zhao
 - Publication Year: 2025
-- Citation Count: 68
+- Citation Count: 69
 - Paper Link: https://semanticscholar.org/paper/afa3685b3a2bd6986346330c9dc990b64407e4ca
 - Code Link: None
 - Code Stars: N/A

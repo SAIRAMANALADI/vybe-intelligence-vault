@@ -13,13 +13,14 @@ collected_at: '2026-08-13T21:49:26.173056+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:text-ai-watermarks-will-always-be-trivial-to-remov
 first_seen: '2026-08-13T21:49:26.173056+05:30'
 last_seen: '2026-08-13T21:49:26.173056+05:30'
 last_checked: '2026-08-13T21:49:26.173056+05:30'
 health_score: 100
 ---
+
 
 # Text AI watermarks will always be trivial to remove
 
