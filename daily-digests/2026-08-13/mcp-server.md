@@ -1,46 +1,64 @@
 ---
-title: "sv-number/mcp-server"
+title: "Correctover/mcp-server"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "Node.js", "API Integration"]
+tech_stack: ["Python", "TypeScript", "Node.js", "MCP Protocol", "FastAPI", "NPM", "PyPI", "Docker", "JSON Schema", "LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "SMS verification", "AI agent tools", "phone number ordering", "multi-country support"]
-source: "https://github.com/sv-number/mcp-server"
-stars: 532
-language: "JavaScript"
-last_updated: "2026-08-10T18:59:16Z"
-discovered_at: "2026-08-10T19:01:31Z"
+rag_relevance: 10
+deployment_complexity: "Medium"
+tags: ["runtime security", "MCP validation", "AI agent governance", "failover automation", "conformance standard"]
+source: "https://github.com/Correctover/mcp-server"
+stars: 1
+language: "Python"
+last_updated: "2026-07-17T10:42:59Z"
+discovered_at: "2026-07-17T10:46:36Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-An MCP server that provides phone numbers as tools for AI agents, enabling them to order private numbers in 200+ countries, receive SMS verification codes via API, and return the codes for activation. It abstracts the complexity of handling phone number verification for AI-driven workflows.
+Correctover provides a runtime security layer for the MCP ecosystem, enforcing security conformance on every MCP tool call with 6-dimensional output validation, failover mechanisms, and real-time threat detection at 22μs latency. It includes an MCP server, governance SDK, and a formal conformance standard (CCS v1.0) backed by real-world API trace validation.
 
 ## Key Features
-- Orders private phone numbers in 200+ countries via API
-- Automatically retrieves and parses SMS verification codes
-- Supports 9 tools over stdio for seamless agent integration
-- Provides real-time balance checks and country/operator listings
-- Handles polling for codes with configurable intervals and timeouts
+- 6-dimensional real-time output validation (structure, schema, latency, cost, identity, integrity)
+- Self-healing failover engine with 97.4% auto-recovery rate
+- Formal CCS v1.0 conformance standard for agentic runtime verification
+- Real-world API trace validation with 20,000+ verified records
+- Cross-framework governance SDK (Python) for fail-closed tool execution
 
 ## Why It Matters for RAG Builders
-It streamlines phone number verification for AI agents, reducing manual setup and enabling scalable, automated workflows across global services.
+It provides critical runtime security and validation for AI agent ecosystems, ensuring safe and reliable tool execution while preventing injection attacks, credential hijacking, and other runtime vulnerabilities.
 
 ## Tech Stack Deep Dive
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### API Integration
-Automated review identified **API Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP Protocol
+Automated review identified **MCP Protocol** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### NPM
+Automated review identified **NPM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PyPI
+Automated review identified **PyPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JSON Schema
+Automated review identified **JSON Schema** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)
+Automated review identified **LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
