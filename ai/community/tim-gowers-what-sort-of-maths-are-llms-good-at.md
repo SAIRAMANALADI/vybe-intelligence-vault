@@ -13,13 +13,14 @@ collected_at: '2026-08-13T03:39:51.349973+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:what-sort-of-maths-are-llms-good-at
 first_seen: '2026-08-12T15:58:25.121576+05:30'
 last_seen: '2026-08-13T03:39:51.349973+05:30'
 last_checked: '2026-08-13T03:39:51.349973+05:30'
 health_score: 100
 ---
+
 
 # What sort of maths are LLMs good at?
 

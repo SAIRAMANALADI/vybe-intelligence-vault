@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tailscale.com/blog/sqlite-wal-reset-bug
 hn_url: https://news.ycombinator.com/item?id=49272832
-score: 680
+score: 832
 author: ropbear
-comments_count: 110
+comments_count: 156
 published_at: '2026-08-12T19:52:30+05:30'
-collected_at: '2026-08-13T03:39:49.455633+05:30'
+collected_at: '2026-08-13T08:23:45.367231+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:tailscale-traces-database-corruption-to-16y-o-sqli
 first_seen: '2026-08-12T21:47:20.802886+05:30'
-last_seen: '2026-08-13T03:39:49.455633+05:30'
-last_checked: '2026-08-13T03:39:49.455633+05:30'
+last_seen: '2026-08-13T08:23:45.367231+05:30'
+last_checked: '2026-08-13T08:23:45.367231+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ropbear. Score: 680, Comments: 110.
+Hacker News story by ropbear. Score: 832, Comments: 156.
 Original Link: https://tailscale.com/blog/sqlite-wal-reset-bug
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ropbear
-- Score: 680 Upvotes
-- Comments: 110 Discussions
+- Score: 832 Upvotes
+- Comments: 156 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49272832
 - Original Article: https://tailscale.com/blog/sqlite-wal-reset-bug
 

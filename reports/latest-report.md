@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-13T07:28:39.558271+05:30`
+Generated at: `2026-08-13T08:41:24.206065+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Show HN: Ballet – Workflow automation that writes integrations against any API** - Score: `18` in category `ai/community` ([Link](https://ballet.dev)) ([File](../ai/community/show-hn-ballet-workflow-automation-that-writes-int.md))
+- **Waits: Arthur Samuel's Checkers** - Score: `6` in category `ai/community` ([Link](https://timereshared.com/waits-samuel-checkers)) ([File](../ai/community/waits-arthur-samuel-s-checkers.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/malonge-ragoo.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **elder-plinius/T3MP3ST** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/elder-plinius-t3mp3st.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/airweave-ai-airweave.md))
-- **Code-and-Sorts/awesome-copilot-agents** - Score: `0` (0), Rank Change: `+975` ([File](../ai/agents/code-and-sorts-awesome-copilot-agents.md))
-- **XMUDeepLIT/MemGraphRAG** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/xmudeeplit-memgraphrag.md))
-- **bakrianoo/mini-rag** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/bakrianoo-mini-rag.md))
-- **Ais1on/CTI-RAG** - Score: `0` (0), Rank Change: `+975` ([File](../ai/rag/ais1on-cti-rag.md))
+- **Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug** - Score: `832` (+152), Rank Change: `0` ([File](../ai/community/tailscale-traces-database-corruption-to-16y-o-sqli.md))
+- **AI is removing the middle class of software engineering?** - Score: `747` (+105), Rank Change: `0` ([File](../ai/community/ai-is-removing-the-middle-class-of-software-engine.md))
+- **Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot** - Score: `240` (+35), Rank Change: `+1` ([File](../ai/community/someone-is-running-mass-vulnerability-scans-spoofi.md))
+- **Lovable raises $400M Series C** - Score: `101` (+27), Rank Change: `+1` ([File](../ai/community/we-just-raised-400m-in-series-c.md))
+- **Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials** - Score: `118` (+11), Rank Change: `+1` ([File](../ai/community/launch-hn-discovered-materials-yc-p26-ai-agents-to.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+10` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+10` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - Score: `0` (0), Rank Change: `+10` ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
+- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - Score: `0` (0), Rank Change: `+10` ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **microsoft/rag-time** - (Rank Change: `+976`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+976`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+976`) ([File](../ai/agents/arxiv-2605-27882.md))
-- **CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research** - (Rank Change: `+976`) ([File](../ai/research/arxiv-2605-12153.md))
+- **infiniflow/ragflow** - (Rank Change: `+17323`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium** - (Rank Change: `+16203`) ([File](../ai/rag/medium-2.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+977`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+10`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - (Rank Change: `+10`) ([File](../ai/rag/sunsetting-create-react-app.md))
+- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - (Rank Change: `+10`) ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
+- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - (Rank Change: `+10`) ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
+- **Next.js 6 and Nextjs.org** - (Rank Change: `+10`) ([File](../web-development/nextjs/next-js-6-and-nextjs-org.md))
+- **Next.js 6.1** - (Rank Change: `+10`) ([File](../web-development/nextjs/next-js-6-1.md))
+- **Next.js 7** - (Rank Change: `+10`) ([File](../web-development/nextjs/next-js-7.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +47,4 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **What sort of maths are LLMs good at?** (Category: `ai/community`) ([File](../ai/community/tim-gowers-what-sort-of-maths-are-llms-good-at.md))
