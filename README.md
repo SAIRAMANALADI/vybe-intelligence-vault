@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 128,274 files</p>
-        <p><b>Last Update:</b> 2026-08-15 03:56 IST</p>
+        <p><b>Last Update:</b> 2026-08-15 04:56 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,24 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** • <kbd>+85 pts</kbd>
-- 🔼 **[AI by Hand](ai/community/ai-by-hand.md)** • <kbd>+54 pts</kbd>
-- 🔼 **[codebasics/ai-agents](ai/agents/codebasics-ai-agents.md)** • Rank: <kbd>+996</kbd>
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+985</kbd>
+- 🔼 **[CALLE-AI/awesome-phone-call-agents](ai/agents/calle-ai-awesome-phone-call-agents.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[slavakurilyak/awesome-ai-agents](ai/agents/slavakurilyak-awesome-ai-agents.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Anthropic Risk August 2026 [pdf]](ai/community/anthropic-risk-august-2026-pdf.md)** • Score: `48`
-- 🆕 **[What You Gain by Building Your Own Game Engine](ai/community/what-you-gain-by-building-your-own-game-engine.md)** • Score: `19`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[HashAgent – Share an AI agent as a URL, runs locally via WebGPU](ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)**
-- 💤 **[AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
