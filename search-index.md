@@ -24596,6 +24596,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2604.07590>
 
+* **[Dear people who work at the airport](ai/community/dear-people-who-work-at-the-airport.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by nivethan. Score: 59, Comments: 33. Original Link: https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport>
+
 * **[Decoupling Inference from State Updates in Low-Latency Feature Engines via Probabilistic Thinning](ai/rag/arxiv-2606-16981.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16981v1 Announce Type: cross Abstract: Streaming data systems increasingly underpin Machine Learning workflows that maintain large numbers of continuously updated aggregations. In production settings, each incoming event typically triggers
   * Tags: `rag`, `workflows`
@@ -25597,7 +25602,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.12236>
 
 * **[How Organizations Use AI: Evidence from ChatGPT [pdf]](ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by malshe. Score: 110, Comments: 71. Original Link: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
+  * Summary: Hacker News story by malshe. Score: 117, Comments: 94. Original Link: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>
 
@@ -26417,7 +26422,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/NicholasGoh/fastapi-mcp-langgraph-template>
 
 * **[Nine PBS sues Iron Mountain over blocked access to archival data](ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by vinayakborkar. Score: 316, Comments: 182. Original Link: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/
+  * Summary: Hacker News story by vinayakborkar. Score: 350, Comments: 201. Original Link: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data>
 
@@ -27082,7 +27087,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial>
 
 * **[Ruby 4.0 Universal RCE Deserialization Gadget Chain](ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pentestercrab. Score: 31, Comments: 8. Original Link: https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain
+  * Summary: Hacker News story by pentestercrab. Score: 56, Comments: 15. Original Link: https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain
   * Tags: `ai`, `hackernews`
   * Source URL: <https://elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain>
 
@@ -42572,7 +42577,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.09235>
 
 * **[allenai/c4](ai/models/huggingface-datasets-allenai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 628, Downloads: 1428826)
+  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 629, Downloads: 1428826)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/allenai>
 
@@ -61428,7 +61433,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11210, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11211, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -66257,7 +66262,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7613, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7614, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -68484,7 +68489,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06625>
 
 * **[open-llm-leaderboard/open_llm_leaderboard](ai/models/huggingface-spaces-open-llm-leaderboard.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14072, Downloads: 0)
+  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14074, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/open-llm-leaderboard>
 
@@ -71922,7 +71927,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1510, Downloads: 29660008)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1511, Downloads: 29660008)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -75653,7 +75658,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5205, Downloads: 254892100)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5206, Downloads: 254892100)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -93095,8 +93100,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides a comprehensive, practical guide to Retrieval Augmented Generation (RAG) for large language model (LLM) application development. * Leverages LangChain and LlamaIndex for RAG orchestration, integrating vector databases (Milvus) and graph da
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+  * Summary: * Comprehensive guide to Retrieval Augmented Generation (RAG) technology, emphasizing full-stack
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -101079,8 +101084,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized hallucination corpus designed for evaluating and mitigating factual inconsistencies
-  * Tags: `github-repo`, `python`, `rag`
+  * Summary: * Introduces RAGTruth, a specialized corpus designed for the identification and analysis of hallucinations in Retrieval-Augmented Language Models (RAGs). * Facilitates the development and evaluation of robust RAG systems by providing a benchmark for
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[PASE: Leveraging the Phonological Prior of WavLM for Low-Hallucination Generative Speech Enhancement](ai/rag/arxiv-2511-13300.md)** (`framework` | `useful` tier)
@@ -102174,7 +102179,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * GitHub repository `raganwald/raganwald.github.com` serves as the
+  * Summary: * Jekyll-based static site generator source for `raganwald.com`. *
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -104894,7 +104899,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for GitHub repositories. * Facilitates downloading and interactive conversational querying of repository content. * Developed using Python.
+  * Summary: * Implements a Retrieval-Augmented Generation (RAG) architecture for contextualized responses from
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

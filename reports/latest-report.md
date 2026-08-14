@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-14T18:46:23.609133+05:30`
+Generated at: `2026-08-14T19:39:34.407028+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Dear people who work at the airport** - Score: `59` in category `ai/community` ([Link](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport)) ([File](../ai/community/dear-people-who-work-at-the-airport.md))
 
 ## Top Trending Resources
 
-- **vin67/crewai_docker** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/vin67-crewai-docker.md))
-- **masumi-network/crewai-masumi-quickstart-template** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
-- **AlexPEClub/ai-coding-starter-kit** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- **vercel-labs/coding-agent-template** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/vercel-labs-coding-agent-template.md))
-- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
-- **sleeepeer/PoisonedRAG** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/sleeepeer-poisonedrag.md))
-- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
-- **codebasics/ai-agents** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/codebasics-ai-agents.md))
-- **didilili/ai-agents-from-zero** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/didilili-ai-agents-from-zero.md))
-- **ghuntley/how-to-build-a-coding-agent** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/ghuntley-how-to-build-a-coding-agent.md))
+- **Nine PBS sues Iron Mountain over blocked access to archival data** - Score: `350` (+34), Rank Change: `0` ([File](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md))
+- **Ruby 4.0 Universal RCE Deserialization Gadget Chain** - Score: `56` (+25), Rank Change: `-1` ([File](../ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md))
+- **How Organizations Use AI: Evidence from ChatGPT [pdf]** - Score: `117` (+7), Rank Change: `0` ([File](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+991` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+990` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+77` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+77` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - Score: `0` (0), Rank Change: `+7` ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
+- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - Score: `0` (0), Rank Change: `+7` ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
+- **Next.js 6 and Nextjs.org** - Score: `0` (0), Rank Change: `+7` ([File](../web-development/nextjs/next-js-6-and-nextjs-org.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18332`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9236`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+979`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+979`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+979`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+979`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+979`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+979`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+979`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+979`) ([File](../ai/research/arxiv-2606-09123.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+991`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+990`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+77`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - (Rank Change: `+77`) ([File](../ai/rag/sunsetting-create-react-app.md))
+- **banned-historical-archives/banned-historical-archives** - (Rank Change: `+13`) ([File](../ai/models/huggingface-datasets-banned-historical-archives.md))
+- **allenai/c4** - (Rank Change: `+13`) ([File](../ai/models/huggingface-datasets-allenai.md))
+- **IPEC-COMMUNITY/language_table_lerobot** - (Rank Change: `+13`) ([File](../ai/models/huggingface-datasets-ipec-community.md))
+- **ayuo/hd_tmp** - (Rank Change: `+13`) ([File](../ai/models/huggingface-datasets-ayuo.md))
+- **Salesforce/wikitext** - (Rank Change: `+13`) ([File](../ai/models/huggingface-datasets-salesforce.md))
+- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+13`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
 
 ## 🔄 Essential Tier Transitions
 

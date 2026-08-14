@@ -16175,6 +16175,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Dear people who work at the airport](../ai/community/dear-people-who-work-at-the-airport.md)
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
   - [Nine PBS sues Iron Mountain over blocked access to archival data](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)
   - [Ruby 4.0 Universal RCE Deserialization Gadget Chain](../ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md)
@@ -19990,4 +19991,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-14T16:12:01.239039+05:30*
+*Index generated on 2026-08-14T19:37:09.892998+05:30*

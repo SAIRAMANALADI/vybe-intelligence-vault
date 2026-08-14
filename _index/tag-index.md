@@ -4521,6 +4521,7 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Dear people who work at the airport](../ai/community/dear-people-who-work-at-the-airport.md)
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
   - [Nine PBS sues Iron Mountain over blocked access to archival data](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)
   - [Ruby 4.0 Universal RCE Deserialization Gadget Chain](../ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md)
@@ -9629,6 +9630,7 @@ Resources organized by keyword tags.
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass the Baton: Trajectory-Relayed On-Policy Distillation](../ai/rag/arxiv-2607-26057.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
@@ -18485,6 +18487,7 @@ Resources organized by keyword tags.
   - [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](../ai/rag/arxiv-2603-14830.md)
   - [Datenschutzrichtlinie - Shure Germany](../ai/rag/datenschutzrichtlinie-shure-germany.md)
   - [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md)
+  - [Dear people who work at the airport](../ai/community/dear-people-who-work-at-the-airport.md)
   - [Debian considers the Ubuntu font family "non-free". Why? - Open Source Stack Exchange](../ai/resources/debian-considers-the-ubuntu-font-family-non-free-w.md)
   - [Decentralized Federated Learning by Partial Message Exchange](../ai/research/arxiv-2603-01730.md)
   - [Decision-Driven Geosteering Under Uncertainty: A Unified Framework for Sequential Decision Optimization](../ai/research/arxiv-2606-17331.md)
@@ -20622,6 +20625,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -45748,4 +45752,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-14T16:12:01.039184+05:30*
+*Index generated on 2026-08-14T19:37:09.674820+05:30*
