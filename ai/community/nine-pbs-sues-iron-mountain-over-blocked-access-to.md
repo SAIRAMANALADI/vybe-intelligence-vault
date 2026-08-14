@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data
 hn_url: https://news.ycombinator.com/item?id=49285418
-score: 277
+score: 299
 author: vinayakborkar
-comments_count: 161
+comments_count: 168
 published_at: '2026-08-13T18:44:12+05:30'
-collected_at: '2026-08-14T10:40:10.256199+05:30'
+collected_at: '2026-08-14T13:28:01.056813+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:nine-pbs-sues-iron-mountain-over-blocked-access-to
 first_seen: '2026-08-14T03:40:54.814217+05:30'
-last_seen: '2026-08-14T10:40:10.256199+05:30'
-last_checked: '2026-08-14T10:40:10.256199+05:30'
+last_seen: '2026-08-14T13:28:01.056813+05:30'
+last_checked: '2026-08-14T13:28:01.056813+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by vinayakborkar. Score: 277, Comments: 161.
+Hacker News story by vinayakborkar. Score: 299, Comments: 168.
 Original Link: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: vinayakborkar
-- Score: 277 Upvotes
-- Comments: 161 Discussions
+- Score: 299 Upvotes
+- Comments: 168 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49285418
 - Original Article: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data
 

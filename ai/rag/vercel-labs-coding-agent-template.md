@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-08-11T00:56:49.168886+05:30'
-published_at: '2026-08-07T01:48:08Z'
+collected_at: '2026-08-14T13:31:12.945105+05:30'
+published_at: '2026-08-13T20:10:48Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
-stars: 1758
+stars: 1762
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-07-30T00:17:35Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-08-11T00:56:49.168886+05:30'
-last_seen: '2026-08-11T00:56:49.168886+05:30'
-last_checked: '2026-08-11T00:56:49.168886+05:30'
+first_seen: '2026-08-14T13:31:12.945105+05:30'
+last_seen: '2026-08-14T13:31:12.945105+05:30'
+last_checked: '2026-08-14T13:31:12.945105+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and Vercel AI Gateway for API orchestration.
-- **Tech Stack**: Built in TypeScript, integrates with Vercel’s infrastructure for scalable, serverless agent-based workflows.
-- **Key Features**: Enables collaborative AI-driven coding tasks with real-time sandboxed execution and API-based agent coordination.
+*   Orchestrates a multi-agent AI system for automated code generation and manipulation.
+*   Leverages Vercel Sandbox for secure, isolated execution environments for agent operations.
+*   Integrates Vercel AI Gateway to manage and proxy AI model interactions for agent intelligence.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1758
+- Stars: 1762
 - Forks: 292
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-07T01:48:08Z
+- Last Updated: 2026-08-13T20:10:48Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

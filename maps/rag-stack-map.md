@@ -10,11 +10,11 @@ Semantic search, vector embeddings, chunking strategies, reranking, hybrid searc
 Qdrant, Pinecone, Milvus, pgvector, llamaindex, LangChain.
 
 ## Recommended Resources from the Vault
-*   [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components)
-*   [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui)
-*   [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui)
-*   [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy)
-*   [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio)
+*   [reliverse/relivator](https://github.com/reliverse/relivator)
+*   [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)
+*   [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
+*   [enesien/venefish](https://github.com/enesien/venefish)
+*   [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)
 
 ## Project Ideas
 *   PDF QA script that processes papers and saves vector embeddings to pgvector.

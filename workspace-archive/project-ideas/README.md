@@ -10,18 +10,18 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (prompt - USEFUL Tier)
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (benchmark - USEFUL Tier)
-- [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (dataset - USEFUL Tier)
-- [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (prompt - USEFUL Tier)
-- [A New Perspective on Precision and Recall for Generative Models](https://arxiv.org/abs/2511.02414) (framework - USEFUL Tier)
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (framework - USEFUL Tier)
 - [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (dataset - USEFUL Tier)
-- [From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health](https://arxiv.org/abs/2606.11214) (framework - USEFUL Tier)
+- [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (dataset - USEFUL Tier)
+- [A New Perspective on Precision and Recall for Generative Models](https://arxiv.org/abs/2511.02414) (framework - USEFUL Tier)
+- [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (prompt - USEFUL Tier)
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
-- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
@@ -40,4 +40,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-08-14 10:59 IST*
+*Last updated: 2026-08-14 13:45 IST*

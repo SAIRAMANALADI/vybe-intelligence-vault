@@ -13,13 +13,14 @@ collected_at: '2026-08-14T10:40:12.256850+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-at-home-part-1-a-box-of-scraps
 first_seen: '2026-08-14T00:58:18.922714+05:30'
 last_seen: '2026-08-14T10:40:12.256850+05:30'
 last_checked: '2026-08-14T10:40:12.256850+05:30'
 health_score: 100
 ---
+
 
 # AI At Home Part 1: A Box Of Scraps
 

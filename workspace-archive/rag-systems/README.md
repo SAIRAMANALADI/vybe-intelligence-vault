@@ -14,8 +14,8 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) (framework - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
 - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (dataset - ESSENTIAL Tier)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
-- [zilliztech/milvus_cli](https://github.com/zilliztech/milvus_cli) (framework - ESSENTIAL Tier)
+- [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -26,7 +26,7 @@ https://github.com/microsoft/graphrag (GraphRAG)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - [truefoundry/cognita](https://github.com/truefoundry/cognita)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
+- [Pinecone · GitHub](https://github.com/pinecone-io)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-08-14 10:58 IST*
+*Last updated: 2026-08-14 13:44 IST*
