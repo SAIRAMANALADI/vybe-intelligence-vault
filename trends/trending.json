@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:00:12.286450+05:30",
+  "generated_at": "2026-08-14T11:56:13.019610+05:30",
   "trending_resources": [
     {
       "id": "hackernews:nine-pbs-sues-iron-mountain-over-blocked-access-to",
@@ -91,6 +91,45 @@
       "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
+    },
+    {
+      "id": "blog:retrieval-augmented-generation-rag-chatbots-for-ed",
+      "title": "Retrieval-Augmented Generation (RAG) Chatbots for Education: A Survey of Applications",
+      "category": "ai/research",
+      "source_type": "research",
+      "url": "https://semanticscholar.org/paper/4790cc01fdf69b5f61fde69d16ad21712adb8a77",
+      "file_path": "ai/research/retrieval-augmented-generation-rag-chatbots-for-ed.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 551,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:huangjia2019/ai-agents",
+      "title": "huangjia2019/ai-agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/huangjia2019/ai-agents",
+      "file_path": "ai/agents/huangjia2019-ai-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 551,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:greensock/gsap-skills",
+      "title": "greensock/gsap-skills",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/greensock/gsap-skills",
+      "file_path": "ai/agents/greensock-gsap-skills.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 551,
+      "new_resource": false,
+      "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
@@ -134,15 +173,93 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
+      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
+      "title": "Medium Privacy Policy | by Medium | Medium Policy",
       "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1,
+      "rank_change": 553,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:ruc-nlpir/flashrag",
+      "title": "RUC-NLPIR/FlashRAG",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/ruc-nlpir/flashrag",
+      "file_path": "ai/rag/ruc-nlpir-flashrag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 553,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:microsoft/rag-time",
+      "title": "microsoft/rag-time",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/microsoft/rag-time",
+      "file_path": "ai/rag/microsoft-rag-time.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 552,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02392",
+      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.02392",
+      "file_path": "ai/research/arxiv-2608-02392.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 552,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02046",
+      "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.02046",
+      "file_path": "ai/rag/arxiv-2608-02046.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 552,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01791",
+      "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01791",
+      "file_path": "ai/rag/arxiv-2608-01791.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 552,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01207",
+      "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01207",
+      "file_path": "ai/rag/arxiv-2608-01207.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 552,
       "new_resource": false,
       "tier": "tier-3"
     }

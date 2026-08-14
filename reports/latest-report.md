@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-14T11:00:12.286450+05:30`
+Generated at: `2026-08-14T11:56:13.019610+05:30`
 
 ## Executive Summary
 
@@ -33,13 +33,22 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-all-in-rag.md))
 - **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/sylphai-inc-githubchat.md))
 - **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **Retrieval-Augmented Generation (RAG) Chatbots for Education: A Survey of Applications** - Score: `0` (0), Rank Change: `+551` ([File](../ai/research/retrieval-augmented-generation-rag-chatbots-for-ed.md))
+- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+551` ([File](../ai/agents/huangjia2019-ai-agents.md))
+- **greensock/gsap-skills** - Score: `0` (0), Rank Change: `+551` ([File](../ai/agents/greensock-gsap-skills.md))
 
 ## 🚀 Fastest Rising Tools
 
 - **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+980`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
 - **SylphAI-Inc/GithubChat** - (Rank Change: `+979`) ([File](../ai/rag/sylphai-inc-githubchat.md))
 - **raganwald/raganwald.github.com** - (Rank Change: `+979`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/all-in-rag** - (Rank Change: `+1`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+553`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+553`) ([File](../ai/rag/ruc-nlpir-flashrag.md))
+- **microsoft/rag-time** - (Rank Change: `+552`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+552`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+552`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+552`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+552`) ([File](../ai/rag/arxiv-2608-01207.md))
 
 ## 🔄 Essential Tier Transitions
 
