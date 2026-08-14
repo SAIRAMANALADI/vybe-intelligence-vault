@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 128,263 files</p>
-        <p><b>Last Update:</b> 2026-08-14 16:44 IST</p>
+        <p><b>Last Update:</b> 2026-08-14 17:37 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,11 +210,11 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Ruby 4.0 Universal RCE Deserialization Gadget Chain](ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md)** • <kbd>+25 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Nine PBS sues Iron Mountain over blocked access to archival data](ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)** • <kbd>+17 pts</kbd>
-- 🔼 **[How Organizations Use AI: Evidence from ChatGPT [pdf]](ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)** • <kbd>+8 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+1433</kbd>
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+11</kbd>
+- 🔼 **[vin67/crewai_docker](ai/agents/vin67-crewai-docker.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[masumi-network/crewai-masumi-quickstart-template](ai/agents/masumi-network-crewai-masumi-quickstart-template.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[AlexPEClub/ai-coding-starter-kit](ai/agents/alexpeclub-ai-coding-starter-kit.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[vercel-labs/coding-agent-template](ai/rag/vercel-labs-coding-agent-template.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[mergisi/awesome-openclaw-agents](ai/agents/mergisi-awesome-openclaw-agents.md)** • Rank: <kbd>+977</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
@@ -224,7 +224,7 @@ score_threshold: 0.65
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Choosing an AI model: one prompt, 11 models, different results](ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
