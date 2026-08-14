@@ -13,13 +13,14 @@ collected_at: '2026-08-14T19:20:55.846494+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ruby-4-0-universal-rce-deserialization-gadget-chai
 first_seen: '2026-08-14T13:28:01.923602+05:30'
 last_seen: '2026-08-14T19:20:55.846494+05:30'
 last_checked: '2026-08-14T19:20:55.846494+05:30'
 health_score: 100
 ---
+
 
 # Ruby 4.0 Universal RCE Deserialization Gadget Chain
 

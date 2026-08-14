@@ -1808,6 +1808,7 @@ Resources organized by keyword tags.
   - [Harnessing X-ray Absorption Spectroscopy Data through Multimodal Mining of Battery Literature](../ai/rag/arxiv-2607-23886.md)
   - [Harnessing agent memory to build lifelong AI partners for materials scientists](../ai/rag/arxiv-2608-11224.md)
   - [Harnessing the Synergy between LLM Agents and Knowledge Graphs for Urban Socioeconomic Prediction](../ai/rag/arxiv-2411-00028.md)
+  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
   - [Haystack Enterprise Platform Trial | Sign Up](../ai/rag/haystack-enterprise-platform-trial-sign-up.md)
   - [Haystack Enterprise Starter](../ai/rag/haystack-enterprise-starter.md)
   - [Haystack | Haystack](../ai/rag/haystack-haystack.md)
@@ -4521,10 +4522,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Dear people who work at the airport](../ai/community/dear-people-who-work-at-the-airport.md)
-  - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
-  - [Nine PBS sues Iron Mountain over blocked access to archival data](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)
-  - [Ruby 4.0 Universal RCE Deserialization Gadget Chain](../ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md)
+  - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](../ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)
+  - [When Genius Fails: The Intellectual Arrogance of the AI Labs](../ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md)
 
 ## animation
 
@@ -9630,7 +9629,6 @@ Resources organized by keyword tags.
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass the Baton: Trajectory-Relayed On-Policy Distillation](../ai/rag/arxiv-2607-26057.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
@@ -17928,6 +17926,7 @@ Resources organized by keyword tags.
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
   - [AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages](../ai/research/arxiv-2505-10300.md)
   - [AI Literacy for Legal Translation: Developing Digital Resilience](../ai/research/arxiv-2608-04641.md)
+  - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](../ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)
   - [AI Model Catalog | Microsoft Foundry Models](../ai/agents/ai-model-catalog-microsoft-foundry-models.md)
   - [AI Outperforms Law Professors in Stanford Law Study - SLS News and Announcements - Stanford Law School](../ai/rag/ai-outperforms-law-professors-in-stanford-law-stud.md)
   - [AI Pluralism and the Worlds It Misses](../ai/research/arxiv-2606-16167.md)
@@ -18487,7 +18486,6 @@ Resources organized by keyword tags.
   - [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](../ai/rag/arxiv-2603-14830.md)
   - [Datenschutzrichtlinie - Shure Germany](../ai/rag/datenschutzrichtlinie-shure-germany.md)
   - [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md)
-  - [Dear people who work at the airport](../ai/community/dear-people-who-work-at-the-airport.md)
   - [Debian considers the Ubuntu font family "non-free". Why? - Open Source Stack Exchange](../ai/resources/debian-considers-the-ubuntu-font-family-non-free-w.md)
   - [Decentralized Federated Learning by Partial Message Exchange](../ai/research/arxiv-2603-01730.md)
   - [Decision-Driven Geosteering Under Uncertainty: A Unified Framework for Sequential Decision Optimization](../ai/research/arxiv-2606-17331.md)
@@ -18982,6 +18980,7 @@ Resources organized by keyword tags.
   - [Harvard Digital Accessibility Policy revised, expanded — Harvard Gazette](../ai/resources/harvard-digital-accessibility-policy-revised-expan.md)
   - [Harvard University Digital Accessibility Policy | Digital Accessibility​ Services](../ai/rag/harvard-university-digital-accessibility-policy-di.md)
   - [HarvardSites Platform Information Gathering Practices Statement | Harvard Web Publishing](../ai/resources/harvardsites-platform-information-gathering-practi.md)
+  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
   - [Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](../ai/research/arxiv-2607-00143.md)
   - [Haystack Enterprise Starter](../ai/rag/haystack-enterprise-starter.md)
   - [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](../ai/research/arxiv-2601-21626.md)
@@ -19040,7 +19039,6 @@ Resources organized by keyword tags.
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
   - [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment](../ai/research/arxiv-2607-14174.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
-  - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
   - [How ServiceNow uses LangSmith to get visibility into its customer success agents](../ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md)
   - [How We Handle Ads, Funding, and Data Security - Google - About Google](../ai/resources/how-we-handle-ads-funding-and-data-security-google.md)
@@ -19505,7 +19503,6 @@ Resources organized by keyword tags.
   - [News | Android Developers](../ai/resources/news-android-developers.md)
   - [Newton-Schulz Retraction-Based Inference Enables Hidden Quantum Markov Models to Outperform Classical HMMs](../ai/rag/arxiv-2608-06554.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
-  - [Nine PBS sues Iron Mountain over blocked access to archival data](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
@@ -19903,7 +19900,6 @@ Resources organized by keyword tags.
   - [RooseBERT: A New Deal For Political Language Modelling](../ai/rag/arxiv-2508-03250.md)
   - [Routing | Docusaurus](../ai/rag/routing-docusaurus.md)
   - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](../ai/agents/arxiv-2607-06411.md)
-  - [Ruby 4.0 Universal RCE Deserialization Gadget Chain](../ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md)
   - [Running hardware-aware neural architecture search on embedded devices under 512MB of RAM](../ai/research/arxiv-2606-14824.md)
   - [Russ Cox](../ai/rag/russ-cox.md)
   - [Russia-Ukraine Disinformation Tracking Center - NewsGuard](../ai/rag/russia-ukraine-disinformation-tracking-center-news.md)
@@ -20506,6 +20502,7 @@ Resources organized by keyword tags.
   - [When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](../ai/research/arxiv-2512-04124.md)
   - [When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents](../ai/rag/arxiv-2607-06595.md)
   - [When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs](../ai/rag/arxiv-2510-22228.md)
+  - [When Genius Fails: The Intellectual Arrogance of the AI Labs](../ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md)
   - [When One Point Is Not Enough: Addressing Ambiguous Instances in Dimensionality Reduction by Splitting](../ai/research/arxiv-2605-23540.md)
   - [When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities](../ai/rag/arxiv-2607-08605.md)
   - [When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models](../ai/rag/arxiv-2607-14169.md)
@@ -20774,7 +20771,6 @@ Resources organized by keyword tags.
   - [semantic-mediawiki.org](../ai/rag/semantic-mediawiki-org.md)
   - [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md)
   - [sierra-research/tau2-bench](../ai/agents/sierra-research-tau2-bench.md)
-  - [slavakurilyak/awesome-ai-agents](../ai/agents/slavakurilyak-awesome-ai-agents.md)
   - [snyk/agent-scan](../ai/agents/snyk-agent-scan.md)
   - [spaceweather.gfz.de - Space Weather](../ai/resources/spaceweather-gfz-de-space-weather.md)
   - [spacing - Fraction bar crashes into superscript exponent in manually-drawn TikZ fraction - TeX - LaTeX Stack Exchange](../ai/agents/spacing-fraction-bar-crashes-into-superscript-expo.md)
@@ -25991,7 +25987,6 @@ Resources organized by keyword tags.
   - [Home | Enterprise Technology](../ai/rag/home-enterprise-technology.md)
   - [How Closely Do LLM Reviews Align with Human Peer Review?](../ai/research/arxiv-2608-03659.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
-  - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
   - [How We Use n8n to Build and Control AI Agents – Keeping Business in Focus | beezwax blog](../ai/rag/how-we-use-n8n-to-build-and-control-ai-agents-keep.md)
   - [How Well Can AI Generate Backlogs from App Mockups?](../ai/rag/arxiv-2607-22902.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
@@ -29585,7 +29580,6 @@ Resources organized by keyword tags.
   - [sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu](../ai/rag/huggingface-sentence-transformers.md)
   - [sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub](../ai/resources/ukplab-sentence-transformers.md)
   - [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md)
-  - [slavakurilyak/awesome-ai-agents](../ai/agents/slavakurilyak-awesome-ai-agents.md)
   - [spacing - Fraction bar crashes into superscript exponent in manually-drawn TikZ fraction - TeX - LaTeX Stack Exchange](../ai/agents/spacing-fraction-bar-crashes-into-superscript-expo.md)
   - [tap: A File-Based Protocol for Heterogeneous LLM Agent Collaboration](../ai/agents/arxiv-2606-14445.md)
   - [vLLM](../ai/rag/vllm.md)
@@ -38986,6 +38980,7 @@ Resources organized by keyword tags.
   - [Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](../ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md)
   - [HYDRA: Hyperbolic Dynamic Representation Architecture for Kolmogorov-Arnold Networks](../ai/research/arxiv-2608-12194.md)
   - [Hardware-Oriented Inference Complexity of Kolmogorov-Arnold Networks](../ai/research/arxiv-2604-03345.md)
+  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
   - [Home - Google Developers Blog](../ai/rag/home-google-developers-blog.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
@@ -42073,6 +42068,10 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
+## webgpu
+
+  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
+
 ## workflows
 
   - ["Skill Issues'': Data-Centric Optimization of Lakehouse Agents](../ai/agents/arxiv-2606-01185.md)
@@ -43609,7 +43608,6 @@ Resources organized by keyword tags.
   - [shprink/nonharmful-and-must-have-actions](../ai/resources/shprink-nonharmful-and-must-have-actions.md)
   - [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md)
   - [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md)
-  - [slavakurilyak/awesome-ai-agents](../ai/agents/slavakurilyak-awesome-ai-agents.md)
   - [snyk/agent-scan](../ai/agents/snyk-agent-scan.md)
   - [spaCy · Industrial-strength Natural Language Processing in Python](../ai/agents/spacy-industrial-strength-natural-language-process.md)
   - [sphinx-doc/sphinx](../ai/resources/sphinx-doc-sphinx.md)
@@ -45752,4 +45750,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-14T19:37:09.674820+05:30*
+*Index generated on 2026-08-14T21:53:31.326551+05:30*

@@ -16175,10 +16175,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Dear people who work at the airport](../ai/community/dear-people-who-work-at-the-airport.md)
-  - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
-  - [Nine PBS sues Iron Mountain over blocked access to archival data](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)
-  - [Ruby 4.0 Universal RCE Deserialization Gadget Chain](../ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md)
+  - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](../ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)
+  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
+  - [When Genius Fails: The Intellectual Arrogance of the AI Labs](../ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -16859,6 +16858,7 @@ Resources organized by publisher feed and query sources.
   - [StarCoder2 and The Stack v2](../ai/models/huggingface-blog-starcoder2.md)
   - [StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation](../ai/models/huggingface-blog-sc2-instruct.md)
   - [StarCoder: A State-of-the-Art LLM for Code](../ai/models/huggingface-blog-starcoder.md)
+  - [State of Open Models: Summer 2026 Observations](../ai/models/huggingface-blog-state-of-open-models-summer-2026.md)
   - [State of Open Source on Hugging Face: Spring 2026](../ai/models/huggingface-blog-huggingface-state-of-os-hf-spring-2026.md)
   - [State of open video generation models in Diffusers](../ai/models/huggingface-blog-video-gen.md)
   - [Streaming datasets: 100x More Efficient](../ai/models/huggingface-blog-streaming-datasets.md)
@@ -19991,4 +19991,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-14T19:37:09.892998+05:30*
+*Index generated on 2026-08-14T21:53:31.556259+05:30*

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:how-organizations-use-ai-evidence-from-chatgpt-pdf
 first_seen: '2026-08-14T03:40:54.535431+05:30'
 last_seen: '2026-08-14T19:20:56.989752+05:30'
 last_checked: '2026-08-14T19:20:56.989752+05:30'
 health_score: 100
 ---
+
 
 # How Organizations Use AI: Evidence from ChatGPT [pdf]
 
