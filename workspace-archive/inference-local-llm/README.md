@@ -13,9 +13,9 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (benchmark - ESSENTIAL Tier)
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (framework - USEFUL Tier)
+- [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (framework - USEFUL Tier)
 - [FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](https://arxiv.org/abs/2607.05711) (framework - USEFUL Tier)
 - [Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models](https://arxiv.org/abs/2608.10214) (framework - USEFUL Tier)
-- [Shift-and-Sum Quantization for Visual Autoregressive Models](https://arxiv.org/abs/2606.16131) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -43,4 +43,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-08-14 08:41 IST*
+*Last updated: 2026-08-14 10:59 IST*

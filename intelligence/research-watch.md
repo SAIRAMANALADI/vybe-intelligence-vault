@@ -14,6 +14,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Computation, Condensation, and the Incompleteness Between Them: A Coupled Foundation of Intelligence](https://arxiv.org/abs/2303.04203) | `ai-coding-agents/` | 70 |
 | [Failure as a Process: An Anatomy of CLI Coding Agent Trajectories](https://arxiv.org/abs/2607.09510) | `ai-coding-agents/` | 70 |
 | [From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation](https://arxiv.org/abs/2607.09664) | `ai-coding-agents/` | 70 |
+| [A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456) | `ai-coding-agents/` | 70 |
 | [Why Git Is the Memory Solution for the Agentic Development Lifecycle](https://arxiv.org/abs/2607.14390) | `ai-coding-agents/` | 70 |
 | [Strategic Buying Agents](https://arxiv.org/abs/2607.04708) | `ai-coding-agents/` | 70 |
 | [ARROW: Augmented Replay for RObust World models](https://arxiv.org/abs/2603.11395) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [FlowBot: Inducing LLM Workflows with Bilevel Optimization and Textual Gradients](https://arxiv.org/abs/2604.26258) | `ai-coding-agents/` | 70 |
 | [Same physical state, different collective dynamics: state encodings select synchronization outcomes in language-model agents](https://arxiv.org/abs/2608.06968) | `ai-coding-agents/` | 70 |
 | [BatteryLake: Agentic, Physics-Grounded Curation of Heterogeneous Battery Aging Data and Benchmarking](https://arxiv.org/abs/2607.09762) | `ai-coding-agents/` | 70 |
-| [AgentFairBench: Do LLM Agents Discriminate When They Act?](https://arxiv.org/abs/2606.16723) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

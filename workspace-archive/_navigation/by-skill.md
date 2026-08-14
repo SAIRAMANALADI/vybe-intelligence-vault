@@ -93,23 +93,23 @@ This index groups curated resources by target developer skills.
 
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (Tier: `essential` | [`Local File`](../../ai/resources/microsoft-trec-2019-deep-learning.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
+- [CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data Fidelity and Downstream Utility](https://arxiv.org/abs/2608.12805) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-12805.md))
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2407-18245.md))
 - [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-23327.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [A Framework for Evaluating Agentic Skills at Scale](https://arxiv.org/abs/2606.17819) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-17819.md))
 - [PEMAND: Persona-Enriched Multi-Agent Negotiation for Household Decision-Making](https://arxiv.org/abs/2604.10475) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2604-10475.md))
-- [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-16898.md))
 
 ## Data Engineering
 
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (Tier: `essential` | [`Local File`](../../ai/resources/microsoft-trec-2019-deep-learning.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
+- [CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data Fidelity and Downstream Utility](https://arxiv.org/abs/2608.12805) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-12805.md))
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2407-18245.md))
 - [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-23327.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [A Framework for Evaluating Agentic Skills at Scale](https://arxiv.org/abs/2606.17819) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-17819.md))
 - [PEMAND: Persona-Enriched Multi-Agent Negotiation for Household Decision-Making](https://arxiv.org/abs/2604.10475) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2604-10475.md))
-- [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-16898.md))
 
 ## Data Redaction
 
@@ -128,10 +128,10 @@ This index groups curated resources by target developer skills.
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2511-05522.md))
 - [RAPiD: Reward-Guided Consistency Distillation of Diffusion Planners for Real-Time Autonomous Driving](https://arxiv.org/abs/2602.07339) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2602-07339.md))
+- [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 - [Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-17979.md))
 - [ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments](https://arxiv.org/abs/2606.25207) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-25207.md))
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-08282.md))
-- [The Economics of Autonomy: Real-Time Risk Indexing for Insurable AI-Driven 6G Systems](https://arxiv.org/abs/2607.18267) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-18267.md))
 
 ## Embedding Vectors
 
@@ -205,10 +205,10 @@ This index groups curated resources by target developer skills.
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2511-05522.md))
 - [RAPiD: Reward-Guided Consistency Distillation of Diffusion Planners for Real-Time Autonomous Driving](https://arxiv.org/abs/2602.07339) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2602-07339.md))
+- [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 - [Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-17979.md))
 - [ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments](https://arxiv.org/abs/2606.25207) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-25207.md))
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-08282.md))
-- [The Economics of Autonomy: Real-Time Risk Indexing for Insurable AI-Driven 6G Systems](https://arxiv.org/abs/2607.18267) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-18267.md))
 
 ## Local LLMs
 
@@ -217,9 +217,9 @@ This index groups curated resources by target developer skills.
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
+- [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 - [FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](https://arxiv.org/abs/2607.05711) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-05711.md))
 - [Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models](https://arxiv.org/abs/2608.10214) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-10214.md))
-- [Shift-and-Sum Quantization for Visual Autoregressive Models](https://arxiv.org/abs/2606.16131) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-16131.md))
 
 ## MCP Integrations
 
@@ -259,9 +259,9 @@ This index groups curated resources by target developer skills.
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
+- [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 - [FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](https://arxiv.org/abs/2607.05711) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-05711.md))
 - [Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models](https://arxiv.org/abs/2608.10214) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-10214.md))
-- [Shift-and-Sum Quantization for Visual Autoregressive Models](https://arxiv.org/abs/2606.16131) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-16131.md))
 
 ## Model Selection
 
@@ -528,4 +528,4 @@ This index groups curated resources by target developer skills.
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 
 ---
-*Last updated: 2026-08-14 08:41 IST*
+*Last updated: 2026-08-14 10:59 IST*

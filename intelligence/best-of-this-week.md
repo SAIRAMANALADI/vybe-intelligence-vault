@@ -16,8 +16,8 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Computation, Condensation, and the Incompleteness Between Them: A Coupled Foundation of Intelligence](https://arxiv.org/abs/2303.04203) (Score: 70) - Category: `ai-coding-agents/`
 *   [Failure as a Process: An Anatomy of CLI Coding Agent Trajectories](https://arxiv.org/abs/2607.09510) (Score: 70) - Category: `ai-coding-agents/`
 *   [From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation](https://arxiv.org/abs/2607.09664) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456) (Score: 70) - Category: `ai-coding-agents/`
 *   [Why Git Is the Memory Solution for the Agentic Development Lifecycle](https://arxiv.org/abs/2607.14390) (Score: 70) - Category: `ai-coding-agents/`
 *   [Strategic Buying Agents](https://arxiv.org/abs/2607.04708) (Score: 70) - Category: `ai-coding-agents/`
-*   [The FHIR collaboration platform - SIMPLIFIER.NET](https://simplifier.net) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.
