@@ -4523,7 +4523,9 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](../ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)
-  - [When Genius Fails: The Intellectual Arrogance of the AI Labs](../ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md)
+  - [AI by Hand](../ai/community/ai-by-hand.md)
+  - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
+  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
 
 ## animation
 
@@ -4604,6 +4606,7 @@ Resources organized by keyword tags.
   - [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md)
   - [AssemblyAI | AI models to transcribe and understand speech](../ai/agents/assemblyai-ai-models-to-transcribe-and-understand.md)
   - [Auditing Alignment Controllability in LLMs via Political Axes](../ai/research/arxiv-2607-23519.md)
+  - [Aug 12, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Authoring Agent Skills: A Software-Engineering Approach](../ai/agents/arxiv-2607-25032.md)
@@ -4803,7 +4806,6 @@ Resources organized by keyword tags.
   - [JetBrains AI - The JetBrains Blog](../ai/rag/jetbrains-ai-the-jetbrains-blog.md)
   - [Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs](../ai/research/arxiv-2607-18086.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
-  - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
@@ -5102,9 +5104,9 @@ Resources organized by keyword tags.
 
 ## anthropic-news
 
+  - [Aug 12, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
-  - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
@@ -12091,6 +12093,7 @@ Resources organized by keyword tags.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
+  - [Aug 12, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Code & data](../ai/companies/code-data.md)
@@ -12103,7 +12106,6 @@ Resources organized by keyword tags.
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
   - [Introducing Shieldstral.](../ai/companies/mistral/introducing-shieldstral.md)
-  - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
@@ -17944,6 +17946,7 @@ Resources organized by keyword tags.
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
+  - [AI by Hand](../ai/community/ai-by-hand.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
@@ -18245,7 +18248,6 @@ Resources organized by keyword tags.
   - [C2PA | Verifying Media Content Sources](../ai/resources/c2pa-verifying-media-content-sources.md)
   - [CADET: Context-Conditioned Ads CTR Prediction With a Decoder-Only Transformer](../ai/rag/arxiv-2602-11410.md)
   - [CAF-Gen: A Multi-Agent System for Enriching Argumentation Structures](../ai/agents/arxiv-2606-06646.md)
-  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [CAPRA: Scaling Feedback on Software Architecture Deliverables with a Multi-Agent LLM System](../ai/agents/arxiv-2606-18976.md)
   - [CASD - Centre d'accès sécurisé aux données](../ai/rag/casd-centre-d-acces-securise-aux-donnees.md)
   - [CAW | Your Partner in Product Engineering](../ai/resources/caw-your-partner-in-product-engineering.md)
@@ -18924,6 +18926,7 @@ Resources organized by keyword tags.
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
+  - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
   - [Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority](../ai/agents/arxiv-2607-04613.md)
@@ -20502,7 +20505,6 @@ Resources organized by keyword tags.
   - [When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](../ai/research/arxiv-2512-04124.md)
   - [When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents](../ai/rag/arxiv-2607-06595.md)
   - [When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs](../ai/rag/arxiv-2510-22228.md)
-  - [When Genius Fails: The Intellectual Arrogance of the AI Labs](../ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md)
   - [When One Point Is Not Enough: Addressing Ambiguous Instances in Dimensionality Reduction by Splitting](../ai/research/arxiv-2605-23540.md)
   - [When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities](../ai/rag/arxiv-2607-08605.md)
   - [When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models](../ai/rag/arxiv-2607-14169.md)
@@ -42068,10 +42070,6 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
-## webgpu
-
-  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
-
 ## workflows
 
   - ["Skill Issues'': Data-Centric Optimization of Lakehouse Agents](../ai/agents/arxiv-2606-01185.md)
@@ -45750,4 +45748,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-14T21:53:31.326551+05:30*
+*Index generated on 2026-08-15T01:02:22.226882+05:30*

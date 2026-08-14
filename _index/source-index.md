@@ -15268,6 +15268,7 @@ Resources organized by publisher feed and query sources.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
+  - [Aug 12, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Code & data](../ai/companies/code-data.md)
@@ -15280,7 +15281,6 @@ Resources organized by publisher feed and query sources.
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
   - [Introducing Shieldstral.](../ai/companies/mistral/introducing-shieldstral.md)
-  - [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
@@ -16176,8 +16176,9 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](../ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)
+  - [AI by Hand](../ai/community/ai-by-hand.md)
+  - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
   - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
-  - [When Genius Fails: The Intellectual Arrogance of the AI Labs](../ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19991,4 +19992,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-14T21:53:31.556259+05:30*
+*Index generated on 2026-08-15T01:02:22.449759+05:30*

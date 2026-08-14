@@ -2915,8 +2915,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.04663>
 
 * **[CALLE-AI/awesome-phone-call-agents](ai/agents/calle-ai-awesome-phone-call-agents.md)** (`tool` | `useful` tier)
-  * Summary: - **Repository Overview**: GitHub repository (`CALLE-AI/awesome-phone-call-agents`) providing portable phone-call agent skills, applications, examples, adapters, and scheduler recipes for AI agents. - **Technical Details**: Implemented in TypeScript;
-  * Tags: `agents`, `github-repo`, `hackernews`, `typescript`
+  * Summary: * Compiles portable AI agent skills and applications for phone call processing. *
+  * Tags: `agents`, `github-repo`, `typescript`
   * Source URL: <https://github.com/CALLE-AI/awesome-phone-call-agents>
 
 * **[CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games](ai/agents/arxiv-2607-26393.md)** (`framework` | `useful` tier)
@@ -23781,6 +23781,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
+* **[AI by Hand](ai/community/ai-by-hand.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by sans_souse. Score: 78, Comments: 9. Original Link: https://www.byhand.ai/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://byhand.ai>
+
 * **[AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)** (`framework` | `useful` tier)
   * Summary: - **Multi-format & multimodal parsing**: Supports 90+ document formats (PDFs, invoices, healthcare forms, etc.) with layout-aware OCR, table/chart extraction, handwriting recognition, and checkbox detection for high-fidelity markdown conversion. - **
   * Tags: `benchmark`, `hackernews`, `meta-ai`, `models`, `paper`, `rag`, `scripts`, `web-crawled`, `workflows`
@@ -23802,7 +23807,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2505.10300>
 
 * **[AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by bj-rn. Score: 13, Comments: 3. Original Link: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0
+  * Summary: Hacker News story by bj-rn. Score: 36, Comments: 5. Original Link: https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0
   * Tags: `ai`, `hackernews`
   * Source URL: <https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0>
 
@@ -25421,6 +25426,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `dataset`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://googleapis.github.io/python-genai/>
 
+* **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by u1hcw9nx. Score: 110, Comments: 71. Original Link: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption>
+
 * **[Google Play Android Developer API | Google Play Developer API | Google for Developers](ai/rag/google-play-android-developer-api-google-play-deve.md)** (`tutorial` | `useful` tier)
   * Summary: - **Edit-Based Workflow**: The API enforces a structured workflow where developers must `insert` an `Edit`, apply changes (e.g., APKs, bundles, metadata), and then `commit` or `validate` the edit before deployment. - **Comprehensive Resource Coverage
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
@@ -25667,7 +25677,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based repository for a Retrieval-Augmented Generation (RAG) workflow homework
+  * Summary: * Python-based implementation of a Retrieval Augmented Generation (RAG) workflow. *
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow>
 
@@ -28064,11 +28074,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.22025v2 Announce Type: replace-cross Abstract: Evaluating Large Language Model (LLM) applications differs from conventional software testing because outputs are probabilistic, semantically variable, and sensitive to prompt and model change
   * Tags: `agents`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2601.22025>
-
-* **[When Genius Fails: The Intellectual Arrogance of the AI Labs](ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by gmays. Score: 99, Comments: 76. Original Link: https://weightythoughts.com/p/when-genius-failsthe-intellectual
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://weightythoughts.com/p/when-genius-failsthe-intellectual>
 
 * **[When Routes Run Out: Adversarial Co-Learning and Explainable Robustness in Quantum Repeater Networks](ai/rag/arxiv-2607-09378.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.09378v1 Announce Type: cross Abstract: We study an adversarial bandit problem for entanglement-based quantum-network routing over a modest graph corpus. Alice selects an end-to-end repeater route for an Ekert-91 protocol (E91) representing
@@ -45508,7 +45513,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.12403>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9509, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9511, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -49379,7 +49384,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2501.19401>
 
 * **[dalle-mini/dalle-mini](ai/models/huggingface-spaces-dalle-mini.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5711, Downloads: 0)
+  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5712, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/dalle-mini>
 
@@ -54425,7 +54430,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/1707.00835>
 
 * **[facebook/MusicGen](ai/models/huggingface-spaces-facebook.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: facebook/MusicGen (Likes: 5082, Downloads: 0)
+  * Summary: Trending Hugging Face space: facebook/MusicGen (Likes: 5083, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/facebook>
 
@@ -61905,7 +61910,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05061>
 
 * **[Kwai-Kolors/Kolors-Virtual-Try-On](ai/models/huggingface-spaces-kwai-kolors.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10158, Downloads: 0)
+  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10159, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/kwai-kolors>
 
@@ -86592,6 +86597,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `microsoft-research-blog`
   * Source URL: <https://microsoft.com/en-us/research/research-area/audio-acoustics>
 
+* **[Aug 12, 2026AnnouncementsHow Claude’s text watermark works](ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Aug 12, 2026AnnouncementsHow Claude’s text watermark works
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/claude-text-watermark>
+
 * **[Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
@@ -86681,11 +86691,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Mistral AI News Blog: Introducing Shieldstral.
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
   * Source URL: <https://mistral.ai/news/shieldstral>
-
-* **[Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/rare-disease-research-grants>
 
 * **[Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action
@@ -93093,8 +93098,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive guide to Retrieval Augmented Generation (RAG) technology, emphasizing full-stack
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive RAG guide detailing full-stack LLM application development, emphasizing practical implementation. * Covers integration of vector databases (Milvus), graph databases (Neo4j), and orchestration frameworks (LangChain, LlamaIndex). * Expl
   * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -93103,8 +93108,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides foundational tutorials for large language model (LLM) application development. * Emphasizes practical implementation using LangChain, specifically covering Retrieval-Augmented Generation (RAG) architectures. * Content is delivered through
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * LLM application development tutorial focusing on practical implementation for novice developers. * Emphasizes the LangChain framework and Retrieval-Augmented Generation (RAG) architectures. * Content delivered via Jupyter Notebooks, facilitating in
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -98976,7 +98981,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Deprecated Python-based bioinformatics tool for genome assembly and scaffolding. * Functionality superseded by the successor project, RagTag. * Primary application domain: genome-scale sequence reconstruction and ordering.
+  * Summary: * Deprecated Python-based bioinformatics tool for *de novo* genome assembly and scaffolding. * Functionality superseded by RagTag (mal
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -102173,12 +102178,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for a static site, `raganwald.com
+  * Summary: * Jekyll static site generator source for `raganwald.com`. * Hosted
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
 * **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** (`tool` | `useful` tier)
-  * Summary: * Distributes a Pre-Renewal content pack specifically for Ragnarok Offline environments. *
+  * Summary: * Provides a Pre-Renewal Ragnarok Offline pack, targeting a specific game era for self-
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/ragnarokoffline/ragnarokoffline.github.io>
 
@@ -108113,8 +108118,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.03345>
 
 * **[HashAgent – Share an AI agent as a URL, runs locally via WebGPU](ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by masonhsu. Score: 23, Comments: 3. Original Link: https://hashagent.pages.dev/
-  * Tags: `agents`, `hackernews`, `threejs`, `webgpu`
+  * Summary: Hacker News story by masonhsu. Score: 38, Comments: 4. Original Link: https://hashagent.pages.dev/
+  * Tags: `agents`, `ai`, `hackernews`, `threejs`
   * Source URL: <https://hashagent.pages.dev>
 
 * **[hjlld/LearningWebGPU](web-development/webgpu/hjlld-learningwebgpu.md)** (`tutorial` | `useful` tier)
