@@ -1,81 +1,29 @@
 {
-  "generated_at": "2026-08-15T01:23:33.395204+05:30",
+  "generated_at": "2026-08-15T02:05:35.963789+05:30",
   "trending_resources": [
     {
-      "id": "hackernews:ai-model-atlas-visualizing-populations-of-ml-model",
-      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "file_path": "ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md",
-      "score": 36,
-      "score_change": 23,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:hashagent-share-an-ai-agent-as-a-url-runs-locally",
-      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-      "category": "ai/agents",
-      "source_type": "hackernews",
-      "url": "https://hashagent.pages.dev",
-      "file_path": "ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md",
-      "score": 38,
-      "score_change": 15,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:calle-ai/awesome-phone-call-agents",
-      "title": "CALLE-AI/awesome-phone-call-agents",
+      "id": "github:slavakurilyak/awesome-ai-agents",
+      "title": "slavakurilyak/awesome-ai-agents",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/calle-ai/awesome-phone-call-agents",
-      "file_path": "ai/agents/calle-ai-awesome-phone-call-agents.md",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "file_path": "ai/agents/slavakurilyak-awesome-ai-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2533,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "id": "github:particlemedia/ragtruth",
+      "title": "ParticleMedia/RAGTruth",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
+      "url": "https://github.com/particlemedia/ragtruth",
+      "file_path": "ai/rag/particlemedia-ragtruth.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1432,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:ragnarokoffline/ragnarokoffline.github.io",
-      "title": "ragnarokoffline/ragnarokoffline.github.io",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/ragnarokoffline/ragnarokoffline.github.io",
-      "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 993,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +36,7 @@
       "file_path": "ai/rag/sylphai-inc-githubchat.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 973,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +49,7 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 974,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +62,7 @@
       "file_path": "ai/agents/vin67-crewai-docker.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 974,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +75,59 @@
       "file_path": "ai/agents/masumi-network-crewai-masumi-quickstart-template.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 974,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:alexpeclub/ai-coding-starter-kit",
+      "title": "AlexPEClub/ai-coding-starter-kit",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/alexpeclub/ai-coding-starter-kit",
+      "file_path": "ai/agents/alexpeclub-ai-coding-starter-kit.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:vercel-labs/coding-agent-template",
+      "title": "vercel-labs/coding-agent-template",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/vercel-labs/coding-agent-template",
+      "file_path": "ai/rag/vercel-labs-coding-agent-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:mergisi/awesome-openclaw-agents",
+      "title": "mergisi/awesome-openclaw-agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/mergisi/awesome-openclaw-agents",
+      "file_path": "ai/agents/mergisi-awesome-openclaw-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:sleeepeer/poisonedrag",
+      "title": "sleeepeer/PoisonedRAG",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/sleeepeer/poisonedrag",
+      "file_path": "ai/rag/sleeepeer-poisonedrag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 18332,
+      "rank_change": 18333,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,46 +155,7 @@
       "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9236,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:calle-ai/awesome-phone-call-agents",
-      "title": "CALLE-AI/awesome-phone-call-agents",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/calle-ai/awesome-phone-call-agents",
-      "file_path": "ai/agents/calle-ai-awesome-phone-call-agents.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2533,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1432,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:ragnarokoffline/ragnarokoffline.github.io",
-      "title": "ragnarokoffline/ragnarokoffline.github.io",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/ragnarokoffline/ragnarokoffline.github.io",
-      "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 993,
+      "rank_change": 9237,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +168,7 @@
       "file_path": "ai/rag/microsoft-rag-time.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 980,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +181,7 @@
       "file_path": "ai/research/arxiv-2608-02392.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 980,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +194,7 @@
       "file_path": "ai/rag/arxiv-2608-02046.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 980,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +207,7 @@
       "file_path": "ai/rag/arxiv-2608-01791.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 980,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,38 +220,51 @@
       "file_path": "ai/rag/arxiv-2608-01207.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 979,
+      "rank_change": 980,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.23462",
+      "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.23462",
+      "file_path": "ai/research/arxiv-2606-23462.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 980,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.22216",
+      "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.22216",
+      "file_path": "ai/research/arxiv-2606-22216.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 980,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09123",
+      "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09123",
+      "file_path": "ai/research/arxiv-2606-09123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 980,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
-    {
-      "id": "hackernews:google-is-making-private-ai-practical-with-homomor",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "file_path": "ai/community/google-is-making-private-ai-practical-with-homomor.md",
-      "score": 110,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ai-by-hand",
-      "title": "AI by Hand",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://byhand.ai",
-      "file_path": "ai/community/ai-by-hand.md",
-      "score": 78,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
@@ -305,16 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:when-genius-fails-the-intellectual-arrogance-of-th",
-      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "file_path": "ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

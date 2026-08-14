@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 128,272 files</p>
-        <p><b>Last Update:</b> 2026-08-15 01:23 IST</p>
+        <p><b>Last Update:</b> 2026-08-15 02:05 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,23 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)** • <kbd>+23 pts</kbd>
-- 🔼 **[HashAgent – Share an AI agent as a URL, runs locally via WebGPU](ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)** • <kbd>+15 pts</kbd>
-- 🔼 **[CALLE-AI/awesome-phone-call-agents](ai/agents/calle-ai-awesome-phone-call-agents.md)** • Rank: <kbd>+2533</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** • Rank: <kbd>+1432</kbd>
-- 🔼 **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** • Rank: <kbd>+993</kbd>
+- 🔼 **[slavakurilyak/awesome-ai-agents](ai/agents/slavakurilyak-awesome-ai-agents.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[vin67/crewai_docker](ai/agents/vin67-crewai-docker.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** • Score: `110`
-- 🆕 **[AI by Hand](ai/community/ai-by-hand.md)** • Score: `78`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[When Genius Fails: The Intellectual Arrogance of the AI Labs](ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
