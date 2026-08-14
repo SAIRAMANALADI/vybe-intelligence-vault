@@ -15268,7 +15268,7 @@ Resources organized by publisher feed and query sources.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Aug 12, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)
+  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Code & data](../ai/companies/code-data.md)
@@ -16175,10 +16175,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](../ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)
   - [AI by Hand](../ai/community/ai-by-hand.md)
+  - [Anthropic Risk August 2026 [pdf]](../ai/community/anthropic-risk-august-2026-pdf.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
-  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
+  - [What You Gain by Building Your Own Game Engine](../ai/community/what-you-gain-by-building-your-own-game-engine.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19992,4 +19992,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T01:02:22.449759+05:30*
+*Index generated on 2026-08-15T03:28:02.345068+05:30*

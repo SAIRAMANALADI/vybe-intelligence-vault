@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - threejs
-status: active
+status: inactive
 resource_id: hackernews:hashagent-share-an-ai-agent-as-a-url-runs-locally
 first_seen: '2026-08-14T21:37:15.881775+05:30'
 last_seen: '2026-08-15T00:46:08.063127+05:30'
 last_checked: '2026-08-15T00:46:08.063127+05:30'
 health_score: 100
 ---
+
 
 # HashAgent – Share an AI agent as a URL, runs locally via WebGPU
 

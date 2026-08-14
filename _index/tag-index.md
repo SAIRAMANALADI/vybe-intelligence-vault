@@ -1808,7 +1808,6 @@ Resources organized by keyword tags.
   - [Harnessing X-ray Absorption Spectroscopy Data through Multimodal Mining of Battery Literature](../ai/rag/arxiv-2607-23886.md)
   - [Harnessing agent memory to build lifelong AI partners for materials scientists](../ai/rag/arxiv-2608-11224.md)
   - [Harnessing the Synergy between LLM Agents and Knowledge Graphs for Urban Socioeconomic Prediction](../ai/rag/arxiv-2411-00028.md)
-  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
   - [Haystack Enterprise Platform Trial | Sign Up](../ai/rag/haystack-enterprise-platform-trial-sign-up.md)
   - [Haystack Enterprise Starter](../ai/rag/haystack-enterprise-starter.md)
   - [Haystack | Haystack](../ai/rag/haystack-haystack.md)
@@ -4522,10 +4521,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](../ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)
   - [AI by Hand](../ai/community/ai-by-hand.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
-  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
+  - [What You Gain by Building Your Own Game Engine](../ai/community/what-you-gain-by-building-your-own-game-engine.md)
 
 ## animation
 
@@ -4600,13 +4598,14 @@ Resources organized by keyword tags.
   - [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../ai/agents/arxiv-2608-12249.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
+  - [Anthropic Risk August 2026 [pdf]](../ai/community/anthropic-risk-august-2026-pdf.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
   - [Argos · Product quality for the age of AI agents](../ai/rag/argos-product-quality-for-the-age-of-ai-agents.md)
   - [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md)
   - [AssemblyAI | AI models to transcribe and understand speech](../ai/agents/assemblyai-ai-models-to-transcribe-and-understand.md)
   - [Auditing Alignment Controllability in LLMs via Political Axes](../ai/research/arxiv-2607-23519.md)
-  - [Aug 12, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)
+  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Authoring Agent Skills: A Software-Engineering Approach](../ai/agents/arxiv-2607-25032.md)
@@ -5104,7 +5103,7 @@ Resources organized by keyword tags.
 
 ## anthropic-news
 
-  - [Aug 12, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)
+  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
@@ -12093,7 +12092,7 @@ Resources organized by keyword tags.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Aug 12, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)
+  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Code & data](../ai/companies/code-data.md)
@@ -17928,7 +17927,6 @@ Resources organized by keyword tags.
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
   - [AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages](../ai/research/arxiv-2505-10300.md)
   - [AI Literacy for Legal Translation: Developing Digital Resilience](../ai/research/arxiv-2608-04641.md)
-  - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](../ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)
   - [AI Model Catalog | Microsoft Foundry Models](../ai/agents/ai-model-catalog-microsoft-foundry-models.md)
   - [AI Outperforms Law Professors in Stanford Law Study - SLS News and Announcements - Stanford Law School](../ai/rag/ai-outperforms-law-professors-in-stanford-law-stud.md)
   - [AI Pluralism and the Worlds It Misses](../ai/research/arxiv-2606-16167.md)
@@ -18082,6 +18080,7 @@ Resources organized by keyword tags.
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
+  - [Anthropic Risk August 2026 [pdf]](../ai/community/anthropic-risk-august-2026-pdf.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
@@ -18983,7 +18982,6 @@ Resources organized by keyword tags.
   - [Harvard Digital Accessibility Policy revised, expanded — Harvard Gazette](../ai/resources/harvard-digital-accessibility-policy-revised-expan.md)
   - [Harvard University Digital Accessibility Policy | Digital Accessibility​ Services](../ai/rag/harvard-university-digital-accessibility-policy-di.md)
   - [HarvardSites Platform Information Gathering Practices Statement | Harvard Web Publishing](../ai/resources/harvardsites-platform-information-gathering-practi.md)
-  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
   - [Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](../ai/research/arxiv-2607-00143.md)
   - [Haystack Enterprise Starter](../ai/rag/haystack-enterprise-starter.md)
   - [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](../ai/research/arxiv-2601-21626.md)
@@ -20494,6 +20492,7 @@ Resources organized by keyword tags.
   - [What Is Retrieval Augmented Generation? | deepset Blog](../ai/rag/what-is-retrieval-augmented-generation-deepset-blo.md)
   - [What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](../ai/rag/arxiv-2607-27966.md)
   - [What We Know about Responsible AI Practices in Industry: A Half Decade of Empirical Research](../ai/research/arxiv-2608-10431.md)
+  - [What You Gain by Building Your Own Game Engine](../ai/community/what-you-gain-by-building-your-own-game-engine.md)
   - [What are Diffusion Models? | IBM](../ai/rag/what-are-diffusion-models-ibm.md)
   - [What does AUTHORIZED_FETCH actually do? | Sunny Garden Hub](../ai/rag/what-does-authorized-fetch-actually-do-sunny-garde.md)
   - [What is Retrieval-Augmented Generation (RAG)? | NVIDIA Glossary](../ai/rag/what-is-retrieval-augmented-generation-rag-nvidia.md)
@@ -20624,7 +20623,6 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -38982,7 +38980,6 @@ Resources organized by keyword tags.
   - [Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](../ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md)
   - [HYDRA: Hyperbolic Dynamic Representation Architecture for Kolmogorov-Arnold Networks](../ai/research/arxiv-2608-12194.md)
   - [Hardware-Oriented Inference Complexity of Kolmogorov-Arnold Networks](../ai/research/arxiv-2604-03345.md)
-  - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](../ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)
   - [Home - Google Developers Blog](../ai/rag/home-google-developers-blog.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
@@ -45748,4 +45745,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T01:02:22.226882+05:30*
+*Index generated on 2026-08-15T03:28:02.129317+05:30*

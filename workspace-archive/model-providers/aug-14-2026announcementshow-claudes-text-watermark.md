@@ -1,10 +1,10 @@
 ---
-title: Aug 12, 2026AnnouncementsHow Claude’s text watermark works
+title: Aug 14, 2026AnnouncementsHow Claude’s text watermark works
 archive_category: model-providers
 source_category: ai/companies/anthropic
 source_url: https://anthropic.com/news/claude-text-watermark
-resource_id: blog:aug-12-2026announcementshow-claudes-text-watermark
-local_vault_path: ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md
+resource_id: blog:aug-14-2026announcementshow-claudes-text-watermark
+local_vault_path: ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -19,7 +19,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Aug 12, 2026AnnouncementsHow Claude’s text watermark works
+# Aug 14, 2026AnnouncementsHow Claude’s text watermark works
 
 ## Why This Is In The Archive
 
@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Anthropic News Blog: Aug 12, 2026AnnouncementsHow Claude’s text watermark works
+Recent update from Anthropic News Blog: Aug 14, 2026AnnouncementsHow Claude’s text watermark works
 
 ## Use Cases
 
@@ -46,4 +46,4 @@ Original source URL: https://anthropic.com/news/claude-text-watermark
 
 ## Local Vault File
 
-Path: [aug-12-2026announcementshow-claudes-text-watermark.md](../../ai/companies/anthropic/aug-12-2026announcementshow-claudes-text-watermark.md)
+Path: [aug-14-2026announcementshow-claudes-text-watermark.md](../../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
