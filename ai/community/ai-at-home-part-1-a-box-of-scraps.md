@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html
 hn_url: https://news.ycombinator.com/item?id=49288293
-score: 69
+score: 94
 author: timmmmmmay
-comments_count: 36
+comments_count: 48
 published_at: '2026-08-13T21:52:05+05:30'
-collected_at: '2026-08-14T03:40:55.387385+05:30'
+collected_at: '2026-08-14T08:23:46.179337+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-at-home-part-1-a-box-of-scraps
 first_seen: '2026-08-14T00:58:18.922714+05:30'
-last_seen: '2026-08-14T03:40:55.387385+05:30'
-last_checked: '2026-08-14T03:40:55.387385+05:30'
+last_seen: '2026-08-14T08:23:46.179337+05:30'
+last_checked: '2026-08-14T08:23:46.179337+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by timmmmmmay. Score: 69, Comments: 36.
+Hacker News story by timmmmmmay. Score: 94, Comments: 48.
 Original Link: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: timmmmmmay
-- Score: 69 Upvotes
-- Comments: 36 Discussions
+- Score: 94 Upvotes
+- Comments: 48 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49288293
 - Original Article: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html
 

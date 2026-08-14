@@ -15751,9 +15751,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI At Home Part 1: A Box Of Scraps](../ai/community/ai-at-home-part-1-a-box-of-scraps.md)
-  - [Choosing an AI model: one prompt, 11 models, different results](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
-  - [I built a 500k-domain search engine for makers in a weekend for $10](../ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)
   - [Nine PBS sues Iron Mountain over blocked access to archival data](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)
 
 ## Unknown Source (type: huggingface)
@@ -19567,4 +19565,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-14T03:57:05.954204+05:30*
+*Index generated on 2026-08-14T08:39:54.951176+05:30*

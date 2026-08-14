@@ -7,7 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **979** new resources across our source networks.
+During this cycle, we discovered **977** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -28,12 +28,12 @@ This week had strong activity around frontend tools.
 | ai/resources | 167 |
 | web-development/nextjs | 62 |
 | web-development | 25 |
-| ai/companies | 10 |
-| ai/companies/mistral | 10 |
 | ai/companies/anthropic | 10 |
+| ai/companies/mistral | 10 |
+| ai/companies | 10 |
 | ai/companies/deepmind | 5 |
-| ai/community | 5 |
 | ai/companies/openai | 4 |
+| ai/community | 3 |
 
 ## Most Common Tags
 
@@ -43,8 +43,8 @@ This week had strong activity around frontend tools.
 | benchmark | 780 |
 | agents | 742 |
 | models | 483 |
-| dataset | 420 |
-| hackernews | 417 |
+| dataset | 419 |
+| hackernews | 414 |
 | web-crawled | 354 |
 | github-repo | 332 |
 | paper | 322 |
@@ -57,488 +57,486 @@ This week had strong activity around frontend tools.
 
 ## Weekly Community Updates
 
-1. [Nine PBS sues Iron Mountain over blocked access to archival data](../../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md) ([Source](https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data)) (HN Score: 167) - `ai/community`
-2. [Choosing an AI model: one prompt, 11 models, different results](../../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md) ([Source](https://netlify.com/blog/one-prompt-11-models-very-different-results)) (HN Score: 157) - `ai/community`
-3. [I built a 500k-domain search engine for makers in a weekend for $10](../../ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md) ([Source](https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html)) (HN Score: 128) - `ai/community`
-4. [AI At Home Part 1: A Box Of Scraps](../../ai/community/ai-at-home-part-1-a-box-of-scraps.md) ([Source](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)) (HN Score: 69) - `ai/community`
-5. [How Organizations Use AI: Evidence from ChatGPT [pdf]](../../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md) ([Source](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)) (HN Score: 37) - `ai/community`
-6. [LangChain Community: Connect, Learn & Build AI Agents](../../ai/agents/langchain-community-connect-learn-build-ai-agents.md) ([Source](https://langchain.com/community)) - `ai/agents`
-7. [docs/content/index.md at main · github/docs · GitHub](../../ai/agents/github-docs-2.md) ([Source](https://github.com/github/docs)) - `ai/agents`
-8. [Introduction | Firecrawl](../../ai/agents/introduction-firecrawl.md) ([Source](https://docs.firecrawl.dev/introduction)) - `ai/agents`
-9. [Copyright Help Center - Legal Help](../../ai/agents/copyright-help-center-legal-help.md) ([Source](https://support.google.com/legal/topic/4558877)) - `ai/agents`
-10. [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](../../ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md) ([Source](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer)) - `ai/agents`
-11. [The Agent Skills Directory](../../ai/agents/the-agent-skills-directory.md) ([Source](https://skills.sh)) - `ai/agents`
-12. [[2310.03714] DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](../../ai/agents/arxiv-2310-03714.md) ([Source](https://arxiv.org/abs/2310.03714)) - `ai/agents`
-13. [Google for Developers | Build with Gemini](../../ai/agents/google-for-developers-build-with-gemini.md) ([Source](https://developers.google.com)) - `ai/agents`
-14. [Home - Schmidt Sciences](../../ai/agents/home-schmidt-sciences.md) ([Source](https://schmidtsciences.org)) - `ai/agents`
-15. [AI software reliability platform | incident.io](../../ai/agents/ai-software-reliability-platform-incident-io.md) ([Source](https://incident.io)) - `ai/agents`
-16. [Mojo](../../ai/agents/mojo.md) ([Source](https://modular.com/mojo)) - `ai/agents`
-17. [[2310.03714] DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](../../ai/agents/2310-03714-dspy-compiling-declarative-language-mod.md) ([Source](https://doi.org/10.48550/arxiv.2310.03714)) - `ai/agents`
-18. [Framer: AI design agent](../../ai/agents/framer-ai-website-builder-for-professional-sites.md) ([Source](https://framer.com)) - `ai/agents`
-19. [Hugging Face · GitHub](../../ai/agents/hugging-face-github.md) ([Source](https://github.com/huggingface)) - `ai/agents`
-20. [Agent | Firecrawl](../../ai/agents/agent-firecrawl.md) ([Source](https://docs.firecrawl.dev/features/agent)) - `ai/agents`
-21. [What is the Model Context Protocol (MCP)? - Model Context Protocol](../../ai/agents/what-is-the-model-context-protocol-mcp-model-conte.md) ([Source](https://modelcontextprotocol.io)) - `ai/agents`
-22. [Resources to help you build, secure, and scale with GitHub · GitHub](../../ai/agents/resources-to-help-you-build-secure-and-scale-with.md) ([Source](https://resources.github.com)) - `ai/agents`
-23. [Google Cloud Platform · GitHub](../../ai/agents/google-cloud-platform-github.md) ([Source](https://github.com/googlecloudplatform)) - `ai/agents`
-24. [GitHub Copilot app · GitHub](../../ai/agents/features-ai.md) ([Source](https://github.com/features/ai)) - `ai/agents`
-25. [LangGraph Skill Pack — SuperML.org](../../ai/agents/langgraph-skill-pack-superml-org.md) ([Source](https://superml.org/tutorials/langgraph-skill-pack)) - `ai/agents`
-26. [GitHub CLI | Take GitHub to the command line](../../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source](https://cli.github.com)) - `ai/agents`
-27. [Cursor: AI coding agent](../../ai/agents/cursor-ai-coding-agent.md) ([Source](https://cursor.com)) - `ai/agents`
-28. [OpenAI · GitHub](../../ai/agents/openai-github.md) ([Source](https://github.com/openai)) - `ai/agents`
-29. [LangChain Blog](../../ai/agents/langchain-blog.md) ([Source](https://blog.langchain.com)) - `ai/agents`
-30. [Chrome for Developers](../../ai/agents/chrome-for-developers.md) ([Source](https://developer.chrome.com/home)) - `ai/agents`
-31. [CORE · GitHub](../../ai/resources/core-github.md) ([Source](https://github.com/oacore)) - `ai/resources`
-32. [alphaXiv](../../ai/resources/alphaxiv.md) ([Source](https://discord.com/invite/macv3wtqky)) - `ai/resources`
-33. [Chrome for Developers - YouTube](../../ai/resources/chrome-for-developers-youtube.md) ([Source](https://youtube.com/user/chromedevelopers)) - `ai/resources`
-34. [[2205.13147] Matryoshka Representation Learning](../../ai/resources/arxiv-2205-13147.md) ([Source](https://arxiv.org/abs/2205.13147)) - `ai/resources`
-35. [Google Accessibility Help](../../ai/resources/google-accessibility-help.md) ([Source](https://support.google.com/accessibility?sjid=2138668768838005940-NA)) - `ai/resources`
-36. [Traitlets — traitlets 5.16.1 documentation](../../ai/resources/traitlets-traitlets-5-16-1-documentation.md) ([Source](https://traitlets.readthedocs.io/en/stable)) - `ai/resources`
-37. [npm Docs](../../ai/resources/npm-docs.md) ([Source](https://docs.npmjs.com)) - `ai/resources`
-38. [deepset · GitHub](../../ai/resources/deepset-github.md) ([Source](https://github.com/deepset)) - `ai/resources`
-39. [Overview of Parse | Developer Documentation](../../ai/resources/overview-of-parse-developer-documentation.md) ([Source](https://developers.llamaindex.ai/python/cloud/llamaparse)) - `ai/resources`
-40. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source](https://developers.google.com/android/images)) - `ai/resources`
-41. [encoding.HexEncode](../../ai/resources/encoding-hexencode.md) ([Source](https://gohugo.io/functions/encoding/hexencode)) - `ai/resources`
-42. [Baseline | web.dev](../../ai/resources/baseline-web-dev.md) ([Source](https://web.dev/baseline)) - `ai/resources`
-43. [afirstenberg (Allen Firstenberg) · GitHub](../../ai/resources/afirstenberg-allen-firstenberg-github.md) ([Source](https://github.com/afirstenberg)) - `ai/resources`
-44. [Firebase Extensions](../../ai/resources/firebase-extensions-2.md) ([Source](https://firebase.google.com/docs/extensions)) - `ai/resources`
-45. [org.superml/superml-core 3.1.2 | Sonatype Guide | Sonatype Guide](../../ai/resources/org-superml-superml-core-3-1-2-sonatype-guide-sona.md) ([Source](https://guide.sonatype.com/component/maven/org.superml:superml-core/3.1.2)) - `ai/resources`
-46. [Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine](../../ai/resources/internet-archive-digital-library-of-free-borrowabl.md) ([Source](https://archive.org)) - `ai/resources`
-47. [Lighthouse | Chrome for Developers](../../ai/resources/lighthouse-chrome-for-developers.md) ([Source](https://developer.chrome.com/docs/lighthouse)) - `ai/resources`
-48. [3.14.7 Documentation](../../ai/resources/3-14-6-documentation.md) ([Source](https://docs.python.org)) - `ai/resources`
-49. [GitHub - algolia/firestore-algolia-search at 36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe · GitHub](../../ai/resources/algolia-firestore-algolia-search.md) ([Source](https://github.com/algolia/firestore-algolia-search)) - `ai/resources`
-50. [pnpm link | pnpm](../../ai/resources/pnpm-link-pnpm.md) ([Source](https://pnpm.io/cli/link)) - `ai/resources`
-51. [arXiv Labs - arXiv info](../../ai/resources/arxiv-labs-arxiv-info.md) ([Source](https://labs.arxiv.org)) - `ai/resources`
-52. [Workshop Studio](../../ai/resources/workshop-studio.md) ([Source](https://streaming-analytics.workshop.aws/beam-on-kda)) - `ai/resources`
-53. [LangChain - YouTube](../../ai/resources/langchain-youtube.md) ([Source](https://youtube.com/@langchain)) - `ai/resources`
-54. [Ars Technica (@arstechnica@mastodon.social) - Mastodon](../../ai/resources/ars-technica-arstechnica-mastodon-social-mastodon.md) ([Source](https://mastodon.social/@arstechnica)) - `ai/resources`
-55. [HTTP Archive: Tech Report](../../ai/resources/http-archive-tech-report.md) ([Source](https://httparchive.org/reports/techreport/tech?client=mobile&tech=Astro%2CWordPress%2CGatsby%2CNext.js%2CNuxt.js&geo=ALL&rank=ALL&page=1)) - `ai/resources`
-56. [Home - RDocumentation](../../ai/resources/home-rdocumentation.md) ([Source](https://rdocumentation.org)) - `ai/resources`
-57. [Tensor playground](../../ai/resources/tensor-playground.md) ([Source](https://docs.vespa.ai/playground)) - `ai/resources`
-58. [DagsHub](../../ai/resources/dagshub.md) ([Source](https://discord.com/invite/9gu36y6)) - `ai/resources`
-59. [Cursor - YouTube](../../ai/resources/cursor-youtube.md) ([Source](https://youtube.com/@cursor_ai)) - `ai/resources`
-60. [Litmaps | Your Literature Review Assistant](../../ai/resources/litmaps-your-literature-review-assistant.md) ([Source](https://litmaps.co)) - `ai/resources`
-61. [Build your first end-to-end test with Playwright - Training | Microsoft Learn](../../ai/resources/build-your-first-end-to-end-test-with-playwright-t.md) ([Source](https://learn.microsoft.com/en-us/training/modules/build-with-playwright)) - `ai/resources`
-62. [Learn about YouTube TV Plans - YouTube TV Help](../../ai/resources/learn-about-youtube-tv-plans-youtube-tv-help.md) ([Source](https://support.google.com/youtubetv/answer/16865391?hl=en)) - `ai/resources`
-63. [Legal - Use of Cookies - Apple](../../ai/resources/legal-use-of-cookies-apple.md) ([Source](https://apple.com/privacy/use-of-cookies)) - `ai/resources`
-64. [About Lumen - Legal Help](../../ai/resources/about-lumen-legal-help.md) ([Source](https://support.google.com/legal/answer/12158374)) - `ai/resources`
-65. [Getting Started | astro.new](../../ai/resources/getting-started-astro-new.md) ([Source](https://astro.new)) - `ai/resources`
-66. [[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models](../../ai/resources/arxiv-2106-09685.md) ([Source](https://arxiv.org/abs/2106.09685)) - `ai/resources`
-67. [A Guide to Large Language Model Abstractions - Two Sigma](../../ai/resources/a-guide-to-large-language-model-abstractions-two-s.md) ([Source](https://twosigma.com/articles/a-guide-to-large-language-model-abstractions)) - `ai/resources`
-68. [Google Analytics opt-out browser add-on - Analytics Help](../../ai/resources/google-analytics-opt-out-browser-add-on-analytics.md) ([Source](https://support.google.com/analytics/answer/181881?hl=en)) - `ai/resources`
-69. [Node.js — Run JavaScript Everywhere](../../ai/resources/node-js-run-javascript-everywhere.md) ([Source](https://nodejs.org)) - `ai/resources`
-70. [Report Content for Legal Reasons - Legal Help](../../ai/resources/report-content-for-legal-reasons-legal-help.md) ([Source](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859&hl=en_US)) - `ai/resources`
-71. [web.dev](../../ai/resources/web-dev.md) ([Source](https://web.dev)) - `ai/resources`
-72. [A safe and modern home for JavaScript technologies | OpenJS Foundation](../../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md) ([Source](https://openjsf.org)) - `ai/resources`
-73. [Overview of CrUX | Chrome UX Report | Chrome for Developers](../../ai/resources/overview-of-crux-chrome-ux-report-chrome-for-devel.md) ([Source](https://developer.chrome.com/docs/crux)) - `ai/resources`
-74. [Google Analytics Opt-out Browser Add-on Download Page](../../ai/resources/google-analytics-opt-out-browser-add-on-download-p.md) ([Source](https://tools.google.com/dlpage/gaoptout)) - `ai/resources`
-75. [InfluenceFlower](../../ai/resources/influenceflower.md) ([Source](https://influencemap.cmlab.dev)) - `ai/resources`
-76. [[1910.10683] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](../../ai/resources/arxiv-1910-10683.md) ([Source](https://arxiv.org/abs/1910.10683)) - `ai/resources`
-77. [Firestore | Firebase](../../ai/resources/firestore-firebase.md) ([Source](https://firebase.google.com/docs/firestore)) - `ai/resources`
-78. [Brand guidelines | Branding & Marketing | Android Developers](../../ai/resources/brand-guidelines-branding-marketing-android-develo.md) ([Source](https://developer.android.com/distribute/marketing-tools/brand-guidelines)) - `ai/resources`
-79. [Google Drive Terms of Service - Google Drive Help](../../ai/resources/google-drive-terms-of-service-google-drive-help.md) ([Source](https://support.google.com/drive/answer/2450387?hl=en-US)) - `ai/resources`
-80. [Android Developer Newsletters | Android Developers](../../ai/resources/android-developer-newsletters-android-developers.md) ([Source](https://developer.android.com/newsletter/index.html)) - `ai/resources`
-81. [mypy 2.3.0 documentation](../../ai/resources/mypy-2-3-0-documentation.md) ([Source](https://mypy.readthedocs.io)) - `ai/resources`
-82. [Verizon - YouTube](../../ai/resources/verizon-youtube.md) ([Source](https://youtube.com/user/verizon)) - `ai/resources`
-83. [extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at master · firebase/extensions · GitHub](../../ai/resources/firebase-extensions.md) ([Source](https://github.com/firebase/extensions)) - `ai/resources`
-84. [Litmaps - YouTube](../../ai/resources/litmaps-youtube.md) ([Source](https://youtube.com/channel/ucxr6etbi7zzklfe_7ongitg)) - `ai/resources`
-85. [SRI Hash Generator](../../ai/resources/sri-hash-generator.md) ([Source](https://srihash.org)) - `ai/resources`
-86. [Maven Central: org.superml:superml-core](../../ai/resources/maven-central-org-superml-superml-core.md) ([Source](https://central.sonatype.com/artifact/org.superml/superml-core)) - `ai/resources`
-87. [- YouTube](../../ai/resources/youtube-8g36uoq5uyo.md) ([Source](https://youtube.com/watch?v=8G36Uoq5Uyo)) - `ai/resources`
-88. [Affiliates providing business services](../../ai/resources/affiliates-providing-business-services.md) ([Source](https://privacy.google.com/businesses/affiliates)) - `ai/resources`
-89. [Time to First Byte (TTFB) | Articles | web.dev](../../ai/resources/time-to-first-byte-ttfb-articles-web-dev.md) ([Source](https://web.dev/articles/ttfb)) - `ai/resources`
-90. [Web Vitals | Articles | web.dev](../../ai/resources/web-vitals-articles-web-dev.md) ([Source](https://web.dev/articles/vitals)) - `ai/resources`
-91. [Turn on Match Dynamic Range or Match Frame Rate on your Apple TV - Apple Support](../../ai/resources/turn-on-match-dynamic-range-or-match-frame-rate-on.md) ([Source](https://support.apple.com/en-us/ht208288)) - `ai/resources`
-92. [[1907.12748] Influence Flowers of Academic Entities](../../ai/resources/1907-12748-influence-flowers-of-academic-entities.md) ([Source](https://doi.org/10.48550/arxiv.1907.12748)) - `ai/resources`
-93. [content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub](../../ai/resources/mdn-content.md) ([Source](https://github.com/mdn/content)) - `ai/resources`
-94. [CommonMark](../../ai/resources/commonmark.md) ([Source](https://commonmark.org)) - `ai/resources`
-95. [YouTube Viewers - YouTube](../../ai/resources/youtube-viewers-youtube.md) ([Source](https://youtube.com/channel/ucmdqxm7cux3yxkfeha5zjiq)) - `ai/resources`
-96. [6. Modules — Python 3.14.7 documentation](../../ai/resources/6-modules-python-3-14-7-documentation.md) ([Source](https://docs.python.org/3/tutorial/modules.html)) - `ai/resources`
-97. [Google Drive - Report Abuse](../../ai/resources/google-drive-report-abuse.md) ([Source](https://docs.google.com/forms/d/e/1faipqlsfet0rttpl6eu3zhqzg9kt4gshyarxvb7u9yvo_nihfg58faa/abuse)) - `ai/resources`
-98. [Get an app for Mastodon - Mastodon](../../ai/resources/get-an-app-for-mastodon-mastodon.md) ([Source](https://joinmastodon.org/apps)) - `ai/resources`
-99. [dom-examples/service-worker/simple-service-worker at main · mdn/dom-examples · GitHub](../../ai/resources/mdn-dom-examples.md) ([Source](https://github.com/mdn/dom-examples)) - `ai/resources`
-100. [Sign in to GitHub · GitHub](../../ai/resources/langchain-ai-docs.md) ([Source](https://github.com/langchain-ai/docs)) - `ai/resources`
-101. [Accept a payment | Stripe Documentation](../../ai/resources/accept-a-payment-stripe-documentation.md) ([Source](https://stripe.com/docs/payments/accept-a-payment?platform=android&ui=payment-sheet)) - `ai/resources`
-102. [EverPass](../../ai/resources/everpass.md) ([Source](https://help.upshow.tv/hc/en-us)) - `ai/resources`
-103. [Research Solutions - YouTube](../../ai/resources/research-solutions-youtube.md) ([Source](https://youtube.com/channel/ucdp_fvzip9lds2h37pgtbkg)) - `ai/resources`
-104. [Veo 3.1 â Google DeepMind](../../ai/resources/veo-3-1-a-google-deepmind.md) ([Source](https://deepmind.google/technologies/veo/veo-2)) - `ai/resources`
-105. [Privacy Practices & Protections - Google Safety Center](../../ai/resources/privacy-practices-protections-google-safety-center.md) ([Source](https://safety.google/principles)) - `ai/resources`
-106. [Privacy & Terms – Google](../../ai/resources/privacy-terms-google.md) ([Source](https://policies.google.com)) - `ai/resources`
-107. [Distribute Your Apps & Games on Google Play | Android Developers](../../ai/resources/distribute-your-apps-games-on-google-play-android.md) ([Source](https://developer.android.com/distribute)) - `ai/resources`
-108. [Frederik Braun: A CDN that can not XSS you: Using Subresource Integrity](../../ai/resources/frederik-braun-a-cdn-that-can-not-xss-you-using-su.md) ([Source](https://frederikbraun.de/using-subresource-integrity.html)) - `ai/resources`
-109. [Making sure you're not a bot!](../../ai/resources/making-sure-you-re-not-a-bot.md) ([Source](https://lumendatabase.org/pages/about)) - `ai/resources`
-110. [Android Open Source Project](../../ai/resources/android-open-source-project.md) ([Source](https://source.android.com)) - `ai/resources`
-111. [Subresource Integrity - Security | MDN](../../ai/resources/subresource-integrity-security-mdn.md) ([Source](https://developer.mozilla.org/en-us/docs/web/security/subresource_integrity)) - `ai/resources`
-112. [TXYZ](../../ai/resources/txyz.md) ([Source](https://discord.gg/mqpsd9qvpp)) - `ai/resources`
-113. [Connected Papers | Find and explore academic papers](../../ai/resources/connected-papers-find-and-explore-academic-papers.md) ([Source](https://connectedpapers.com/about)) - `ai/resources`
-114. [Forbes - Apps on Google Play](../../ai/resources/forbes-apps-on-google-play.md) ([Source](https://play.google.com/store/apps/details?id=com.forbes.forbesreader.android&hl=en_US)) - `ai/resources`
-115. [clemenspeters (Clemens Peters) · GitHub](../../ai/resources/clemenspeters-clemens-peters-github.md) ([Source](https://github.com/clemenspeters)) - `ai/resources`
-116. [dblp: computer science bibliography](../../ai/resources/dblp-computer-science-bibliography.md) ([Source](https://dblp.uni-trier.de)) - `ai/resources`
-117. [[2002.05202] GLU Variants Improve Transformer](../../ai/resources/arxiv-2002-05202.md) ([Source](https://arxiv.org/abs/2002.05202)) - `ai/resources`
-118. [Mailing list Subscription Form](../../ai/resources/mailing-list-subscription-form.md) ([Source](https://forms.fillout.com/t/3ioiagnp7mus)) - `ai/resources`
-119. [Static Typing with Python — typing documentation](../../ai/resources/static-typing-with-python-typing-documentation.md) ([Source](https://typing.python.org)) - `ai/resources`
-120. [Google DeepMind - YouTube](../../ai/resources/google-deepmind-youtube.md) ([Source](https://youtube.com/@googledeepmind)) - `ai/resources`
-121. [Ars Technica - YouTube](../../ai/resources/ars-technica-youtube.md) ([Source](https://youtube.com/@arstechnica)) - `ai/resources`
-122. [Sign in to GitHub · GitHub](../../ai/resources/gohugoio-hugodocs.md) ([Source](https://github.com/gohugoio/hugodocs)) - `ai/resources`
-123. [Eliminate render-blocking resources | Lighthouse | Chrome for Developers](../../ai/resources/eliminate-render-blocking-resources-lighthouse-chr.md) ([Source](https://developer.chrome.com/docs/lighthouse/performance/render-blocking-resources)) - `ai/resources`
-124. [Shows | web.dev](../../ai/resources/shows-web-dev.md) ([Source](https://web.dev/shows)) - `ai/resources`
-125. [Introduction | Electron](../../ai/resources/introduction-electron.md) ([Source](https://electronjs.org/docs/latest)) - `ai/resources`
-126. [Render](../../ai/resources/render.md) ([Source](https://gohugo.io/methods/page/render)) - `ai/resources`
-127. [News | Android Developers](../../ai/resources/news-android-developers.md) ([Source](https://developer.android.com/news)) - `ai/resources`
-128. [Framer - YouTube](../../ai/resources/framer-youtube.md) ([Source](https://youtube.com/@framer)) - `ai/resources`
-129. [typing/conformance at main · python/typing · GitHub](../../ai/resources/python-typing.md) ([Source](https://github.com/python/typing)) - `ai/resources`
-130. [Welcome to The Apache Software Foundation | Apache Software Foundation](../../ai/resources/welcome-to-the-apache-software-foundation-apache-s.md) ([Source](https://apache.org)) - `ai/resources`
-131. [Security Checkup](../../ai/resources/security-checkup.md) ([Source](https://myaccount.google.com/security-checkup)) - `ai/resources`
-132. [ParDo](../../ai/resources/pardo.md) ([Source](https://beam.apache.org/releases/javadoc/2.0.0/org/apache/beam/sdk/transforms/pardo.html)) - `ai/resources`
-133. [Configure security](../../ai/resources/configure-security.md) ([Source](https://gohugo.io/configuration/security)) - `ai/resources`
-134. [crypto.Hash](../../ai/resources/crypto-hash.md) ([Source](https://gohugo.io/functions/crypto/hash)) - `ai/resources`
-135. [langchainjs/docs/core_docs/docs at v0.3 · langchain-ai/langchainjs · GitHub](../../ai/resources/langchain-ai-langchainjs.md) ([Source](https://github.com/langchain-ai/langchainjs)) - `ai/resources`
-136. [alphaXiv - YouTube](../../ai/resources/alphaxiv-youtube.md) ([Source](https://youtube.com/@askalphaxiv)) - `ai/resources`
-137. [ML Kit | Google for Developers](../../ai/resources/ml-kit-google-for-developers.md) ([Source](https://developers.google.com/ml-kit)) - `ai/resources`
-138. [Git](../../ai/resources/git.md) ([Source](https://git-scm.com)) - `ai/resources`
-139. [News from arXiv – News and updates from arxiv.org](../../ai/resources/news-from-arxiv-news-and-updates-from-arxiv-org.md) ([Source](https://blog.arxiv.org)) - `ai/resources`
-140. [Google Issue Tracker](../../ai/resources/google-issue-tracker.md) ([Source](https://issuetracker.google.com/issues?q=status%3Aopen+componentid%3A190923)) - `ai/resources`
-141. [Client Challenge](../../ai/resources/client-challenge-2.md) ([Source](https://support.mozilla.org)) - `ai/resources`
-142. [Fast, disk space efficient package manager | pnpm](../../ai/resources/fast-disk-space-efficient-package-manager-pnpm.md) ([Source](https://pnpm.io)) - `ai/resources`
-143. [Privacy Checkup](../../ai/resources/privacy-checkup.md) ([Source](https://myaccount.google.com/privacycheckup)) - `ai/resources`
-144. [Installation — JupyterLab 4.7.0a1 documentation](../../ai/resources/installation-jupyterlab-4-6-0-documentation.md) ([Source](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html)) - `ai/resources`
-145. [SFI - Simons Foundation International](../../ai/resources/sfi-simons-foundation-international.md) ([Source](https://sfi.org.bm)) - `ai/resources`
-146. [superml-java/superml-core at master · supermlorg/superml-java · GitHub](../../ai/resources/supermlorg-superml-java.md) ([Source](https://github.com/supermlorg/superml-java)) - `ai/resources`
-147. [라떼군 이야기 - YouTube](../../ai/resources/raddegun-iyagi-youtube.md) ([Source](https://youtube.com/@mrlattestory)) - `ai/resources`
-148. [Find & control your Web & App Activity - Computer - Google Search Help](../../ai/resources/find-control-your-web-app-activity-computer-google.md) ([Source](https://support.google.com/websearch/answer/54068)) - `ai/resources`
-149. [Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation](../../ai/resources/project-jupyter-documentation-jupyter-documentatio.md) ([Source](https://docs.jupyter.org)) - `ai/resources`
-150. [Sphinx — Sphinx documentation](../../ai/resources/sphinx-sphinx-documentation.md) ([Source](https://sphinx-doc.org)) - `ai/resources`
-151. [Sign in to GitHub · GitHub](../../ai/resources/cloudflare-workers-sdk.md) ([Source](https://github.com/cloudflare/workers-sdk)) - `ai/resources`
-152. [âForbes App - App Store](../../ai/resources/aforbes-app-app-store.md) ([Source](https://apps.apple.com/app/apple-store/id1638757310?pt=220691&ct=Site_Global_Nav&mt=8)) - `ai/resources`
-153. [Control Your Online Safety and Privacy - Google Safety Center](../../ai/resources/control-your-online-safety-and-privacy-google-safe.md) ([Source](https://safety.google)) - `ai/resources`
-154. [Integrations | Astro](../../ai/resources/integrations-astro.md) ([Source](https://astro.build/integrations)) - `ai/resources`
-155. [Release v0.164.0 · gohugoio/hugo · GitHub](../../ai/resources/gohugoio-hugo.md) ([Source](https://github.com/gohugoio/hugo)) - `ai/resources`
-156. [ElevenLabs - YouTube](../../ai/resources/elevenlabs-youtube.md) ([Source](https://youtube.com/@elevenlabs?sub_confirmation=1)) - `ai/resources`
-157. [Manage your home area or current location for YouTube TV - Computer - YouTube TV Help](../../ai/resources/manage-your-home-area-or-current-location-for-yout.md) ([Source](https://support.google.com/youtubetv/answer/7129768?hl=en&ref_topic=7071745)) - `ai/resources`
-158. [Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers](../../ai/resources/performance-panel-analyze-your-website-s-performan.md) ([Source](https://developer.chrome.com/docs/devtools/performance/overview)) - `ai/resources`
-159. [Feedback!](../../ai/resources/feedback.md) ([Source](https://forms.gle/7gmvvjw6julp6ith7)) - `ai/resources`
-160. [Delete your Safari history, cache and cookies on iPhone – Apple Support (UK)](../../ai/resources/delete-your-safari-history-cache-and-cookies-on-ip.md) ([Source](https://support.apple.com/en-gb/105082)) - `ai/resources`
-161. [Overview Â· Cloudflare Workers AI docs](../../ai/rag/overview-a-cloudflare-workers-ai-docs.md) ([Source](https://developers.cloudflare.com/workers-ai)) - `ai/rag`
-162. [Chat LangChain](../../ai/rag/chat-langchain.md) ([Source](https://chat.langchain.com)) - `ai/rag`
-163. [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md) ([Source](https://github.com)) - `ai/rag`
-164. [Terms of Service](../../ai/rag/terms-of-service.md) ([Source](https://scite.ai/terms)) - `ai/rag`
-165. [Android is Compose-first | Jetpack Compose | Android Developers](../../ai/rag/android-is-compose-first-jetpack-compose-android-d.md) ([Source](https://developer.android.com/develop/ui/compose/first)) - `ai/rag`
-166. [Unified DevSecOps Solutions Built for Security | GitHub · GitHub](../../ai/rag/solutions-use-case.md) ([Source](https://github.com/solutions/use-case)) - `ai/rag`
-167. [Weaviate Database | Weaviate Documentation](../../ai/rag/weaviate-database-weaviate-documentation.md) ([Source](https://weaviate.io/developers/weaviate)) - `ai/rag`
-168. [Packaging Python Projects - Python Packaging User Guide](../../ai/rag/packaging-python-projects-python-packaging-user-gu.md) ([Source](https://packaging.python.org/tutorials/packaging-projects)) - `ai/rag`
-169. [Tune Gemini models by using supervised fine-tuning | Gemini Enterprise Agent Platform | Google Cloud Documentation](../../ai/rag/tune-gemini-models-by-using-supervised-fine-tuning.md) ([Source](https://cloud.google.com/gemini-enterprise-agent-platform/models/gemini-use-supervised-tuning)) - `ai/rag`
-170. [Introduction to tables | BigQuery | Google Cloud Documentation](../../ai/rag/introduction-to-tables-bigquery-google-cloud-docum.md) ([Source](https://cloud.google.com/bigquery/docs/tables-intro)) - `ai/rag`
-171. [LlamaIndex | AI Agents for Document OCR + Workflows](../../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md) ([Source](https://llamaindex.ai)) - `ai/rag`
-172. [Auto Classes · Hugging Face](../../ai/rag/huggingface-docs-transformers.md) ([Source](https://huggingface.co/docs/transformers)) - `ai/rag`
-173. [LlamaIndex - YouTube](../../ai/rag/llamaindex-youtube.md) ([Source](https://youtube.com/@llamaindex)) - `ai/rag`
-174. [Deep Agents Code - Docs by LangChain](../../ai/rag/deep-agents-code-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/deepagents/code/overview)) - `ai/rag`
-175. [Apache BeamÂ®](../../ai/rag/apache-beama-r.md) ([Source](https://beam.apache.org)) - `ai/rag`
-176. [YouTube TV Help](../../ai/rag/youtube-tv-help.md) ([Source](https://support.google.com/youtubetv)) - `ai/rag`
-177. [[2305.14314] QLoRA: Efficient Finetuning of Quantized LLMs](../../ai/rag/arxiv-2305-14314.md) ([Source](https://arxiv.org/abs/2305.14314)) - `ai/rag`
-178. [Google Terms of Service – Privacy & Terms – Google](../../ai/rag/google-terms-of-service-privacy-terms-google.md) ([Source](https://policies.google.com/terms)) - `ai/rag`
-179. [GitHub Features · GitHub](../../ai/rag/github-features-github.md) ([Source](https://github.com/features)) - `ai/rag`
-180. [Google Help](../../ai/rag/google-help.md) ([Source](https://support.google.com)) - `ai/rag`
-181. [Neon — Postgres backends for apps and agents](../../ai/rag/neon-postgres-backends-for-apps-and-agents.md) ([Source](https://neon.com)) - `ai/rag`
-182. [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md) ([Source](https://sysdebug.com/posts/rag-application-tutorial-production-guide)) - `ai/rag`
-183. [Gemini Code Assist overview | Google for Developers](../../ai/rag/gemini-code-assist-overview-google-for-developers.md) ([Source](https://developers.google.com/gemini-code-assist/docs/overview)) - `ai/rag`
-184. [AddyOsmani.com - Infinite Scroll without Layout Shifts](../../ai/rag/addyosmani-com-infinite-scroll-without-layout-shif.md) ([Source](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts)) - `ai/rag`
-185. [Send and update your data - Algolia](../../ai/rag/send-and-update-your-data-algolia.md) ([Source](https://algolia.com/doc/guides/sending-and-managing-data/send-and-update-your-data)) - `ai/rag`
-186. [Introduction to Haystack | Haystack Documentation](../../ai/rag/introduction-to-haystack-haystack-documentation.md) ([Source](https://docs.haystack.deepset.ai/docs/intro?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57)) - `ai/rag`
-187. [llama-index · PyPI](../../ai/rag/llama-index-pypi.md) ([Source](https://pypi.org/project/llama-index)) - `ai/rag`
-188. [Why Billionaire Wendy Schmidt Is ‘Doubling Down’ On Climate Science In The Age Of Trump](../../ai/rag/why-billionaire-wendy-schmidt-is-doubling-down-on.md) ([Source](https://forbes.com/sites/elisabethbrier/2025/09/18/why-billionaire-wendy-schmidt-is-doubling-down-on-climate-science-in-the-age-of-trump)) - `ai/rag`
-189. [Largest Contentful Paint (LCP) | Articles | web.dev](../../ai/rag/largest-contentful-paint-lcp-articles-web-dev.md) ([Source](https://web.dev/articles/lcp)) - `ai/rag`
-190. [(Deprecated) Android Room with a View - Kotlin | Android Developers](../../ai/rag/deprecated-android-room-with-a-view-kotlin-android.md) ([Source](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin)) - `ai/rag`
-191. [ScienceCast - Share Your Research](../../ai/rag/sciencecast-share-your-research.md) ([Source](https://sciencecast.org/welcome)) - `ai/rag`
-192. [Ragas](../../ai/rag/ragas.md) ([Source](https://docs.ragas.io)) - `ai/rag`
-193. [Indexing overview - Pinecone Docs](../../ai/rag/indexing-overview-pinecone-docs.md) ([Source](https://docs.pinecone.io/docs/namespaces)) - `ai/rag`
-194. [Jupyter Widgets — Jupyter Widgets 8.1.8 documentation](../../ai/rag/jupyter-widgets-jupyter-widgets-8-1-8-documentatio.md) ([Source](https://ipywidgets.readthedocs.io)) - `ai/rag`
-195. [Agentic IDEs and CLIs - Pinecone Docs](../../ai/rag/agentic-ides-and-clis-pinecone-docs.md) ([Source](https://docs.pinecone.io/guides/get-started/ai-coding-tools)) - `ai/rag`
-196. [Google's products and services - About Google](../../ai/rag/google-s-products-and-services-about-google.md) ([Source](https://about.google/products)) - `ai/rag`
-197. [Android Jetpack Dev Resources - Android Developers](../../ai/rag/android-jetpack-dev-resources-android-developers.md) ([Source](https://developer.android.com/jetpack)) - `ai/rag`
-198. [🧑‍🍳 Cookbook | Haystack](../../ai/rag/cookbook-haystack.md) ([Source](https://haystack.deepset.ai/cookbook)) - `ai/rag`
-199. [DagsHub: Everything you need to manage multimodal AI](../../ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md) ([Source](https://dagshub.com)) - `ai/rag`
-200. [Explore | alphaXiv](../../ai/rag/explore-alphaxiv.md) ([Source](https://alphaxiv.org)) - `ai/rag`
-201. [LangSmith Cloud changelog - Docs by LangChain](../../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md) ([Source](https://changelog.langchain.com)) - `ai/rag`
-202. [Cloudflare Developer Docs | Cloudflare Docs](../../ai/rag/cloudflare-developer-docs-cloudflare-docs.md) ([Source](https://developers.cloudflare.com)) - `ai/rag`
-203. [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md) ([Source](https://aidailypost.com/news/7-top-github-repos-offering-tutorials-code-master-rag-system)) - `ai/rag`
-204. [TXYZ - Integrate all paths to knowledge](../../ai/rag/txyz-integrate-all-paths-to-knowledge.md) ([Source](https://txyz.ai)) - `ai/rag`
-205. [Optimizing Databricks LLM Pipelines with DSPy | Databricks Blog](../../ai/rag/optimizing-databricks-llm-pipelines-with-dspy-data.md) ([Source](https://databricks.com/blog/optimizing-databricks-llm-pipelines-dspy)) - `ai/rag`
-206. [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../../ai/rag/resources-whitepapers.md) ([Source](https://github.com/resources/whitepapers)) - `ai/rag`
-207. [DSPy](../../ai/rag/dspy.md) ([Source](https://dspy.ai)) - `ai/rag`
-208. [MedGemma: Our most capable open models for health AI development](../../ai/rag/medgemma-our-most-capable-open-models-for-health-a.md) ([Source](https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development)) - `ai/rag`
-209. [Run Payments with Stripe | Firebase Extensions Hub](../../ai/rag/run-payments-with-stripe-firebase-extensions-hub.md) ([Source](https://extensions.dev/extensions/stripe/firestore-stripe-payments)) - `ai/rag`
-210. [GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](../../ai/rag/github-enterprise-the-ai-powered-developer-platfor.md) ([Source](https://github.com/enterprise)) - `ai/rag`
-211. [Pricing · Plans for every developer · GitHub](../../ai/rag/pricing-plans-for-every-developer-github.md) ([Source](https://github.com/pricing)) - `ai/rag`
-212. [The Shift from Models to Compound AI Systems – The Berkeley Artificial Intelligence Research Blog](../../ai/rag/the-shift-from-models-to-compound-ai-systems-the-b.md) ([Source](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems)) - `ai/rag`
-213. [DagsHub - YouTube](../../ai/rag/dagshub-youtube.md) ([Source](https://youtube.com/c/dagshub)) - `ai/rag`
-214. [Google Cloud Privacy Notice](../../ai/rag/google-cloud-privacy-notice.md) ([Source](https://cloud.google.com/terms/cloud-privacy-notice)) - `ai/rag`
-215. [NFL Sunday Ticket for Business](../../ai/rag/nfl-sunday-ticket-for-business.md) ([Source](https://everpass.com/live-sports/nfl-sunday-ticket)) - `ai/rag`
-216. [Open Source Guides | Learn how to launch and grow your project.](../../ai/rag/open-source-guides-learn-how-to-launch-and-grow-yo.md) ([Source](https://opensource.guide)) - `ai/rag`
-217. [SentenceTransformers Documentation — Sentence Transformers documentation](../../ai/rag/sentencetransformers-documentation-sentence-transf.md) ([Source](https://sbert.net)) - `ai/rag`
-218. [Create & manage a shared YouTube TV membership, or family group - YouTube TV Help](../../ai/rag/create-manage-a-shared-youtube-tv-membership-or-fa.md) ([Source](https://support.google.com/youtubetv/answer/7251139?hl=en)) - `ai/rag`
-219. [Intro | Zod](../../ai/rag/intro-zod.md) ([Source](https://zod.dev)) - `ai/rag`
-220. [Python Developer’s Guide](../../ai/rag/python-developers-guide.md) ([Source](https://devguide.python.org)) - `ai/rag`
-221. [Sponsor @jgm on GitHub Sponsors · GitHub](../../ai/rag/users-jgm.md) ([Source](https://github.com/users/jgm)) - `ai/rag`
-222. [Headless Adobe Commerce storefront (React, Next.js) — Headless Magento with GraphCommerce®](../../ai/rag/headless-adobe-commerce-storefront-react-next-js-h.md) ([Source](https://graphcommerce.org)) - `ai/rag`
-223. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
-224. [Your account is disabled - Google Account Help](../../ai/rag/your-account-is-disabled-google-account-help.md) ([Source](https://support.google.com/accounts/answer/40695)) - `ai/rag`
-225. [The browser that puts you first | Brave](../../ai/rag/the-browser-that-puts-you-first-brave.md) ([Source](https://brave.com)) - `ai/rag`
-226. [pandoc: Conversion between markup formats](../../ai/rag/pandoc-conversion-between-markup-formats.md) ([Source](https://hackage.haskell.org/package/pandoc)) - `ai/rag`
-227. [PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](../../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md) ([Source](https://peps.python.org)) - `ai/rag`
-228. [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../../ai/rag/universalrag-retrieval-augmented-generation-over-c.md) ([Source](https://universalrag.github.io)) - `ai/rag`
-229. [Pandoc - index](../../ai/rag/pandoc-index.md) ([Source](https://pandoc.org)) - `ai/rag`
-230. [Service Workers Nightly](../../ai/rag/service-workers-nightly.md) ([Source](https://w3c.github.io/serviceworker)) - `ai/rag`
-231. [YouTube Policies Crafted for Openness - How YouTube Works](../../ai/rag/youtube-policies-crafted-for-openness-how-youtube.md) ([Source](https://youtube.com/about/policies)) - `ai/rag`
-232. [Gradio](../../ai/rag/gradio.md) ([Source](https://gradio.app)) - `ai/rag`
-233. [deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub](../../ai/rag/langchain-ai-deepagents.md) ([Source](https://github.com/langchain-ai/deepagents)) - `ai/rag`
-234. [EverPass & DIRECTV FOR BUSINESS: NFL Sunday Ticket FAQs – EverPass](../../ai/rag/everpass-directv-for-business-nfl-sunday-ticket-fa.md) ([Source](https://help.everpass.com/hc/en-us/articles/42559597632535-everpass-directv-for-business-nfl-sunday-ticket-faqs)) - `ai/rag`
-235. [:has() CSS pseudo-class - CSS | MDN](../../ai/rag/has-css-pseudo-class-css-mdn.md) ([Source](https://developer.mozilla.org/docs/web/css/:has)) - `ai/rag`
-236. [Learning Center | Cloudflare](../../ai/rag/learning-center-cloudflare.md) ([Source](https://cloudflare.com/learning)) - `ai/rag`
-237. [Privacy Policy](../../ai/rag/privacy-policy.md) ([Source](https://scite.ai/policy)) - `ai/rag`
-238. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) ([Source](https://dasroot.net/posts/2026/03/python-rag-projects-github)) - `ai/rag`
-239. [GitHub Status](../../ai/rag/github-status.md) ([Source](https://githubstatus.com)) - `ai/rag`
-240. [WebdriverIO Â· Next-gen browser and mobile automation test framework for Node.js | WebdriverIO](../../ai/rag/webdriverio-a-next-gen-browser-and-mobile-automati.md) ([Source](https://webdriver.io)) - `ai/rag`
-241. [🧩 Integrations | Haystack](../../ai/rag/integrations-haystack.md) ([Source](https://haystack.deepset.ai/integrations)) - `ai/rag`
-242. [Firebase Authentication](../../ai/rag/firebase-authentication.md) ([Source](https://firebase.google.com/docs/auth)) - `ai/rag`
-243. [Introduction to materialized views | BigQuery | Google Cloud Documentation](../../ai/rag/introduction-to-materialized-views-bigquery-google.md) ([Source](https://cloud.google.com/bigquery/docs/materialized-views-intro)) - `ai/rag`
-244. [Sign up](../../ai/rag/sign-up.md) ([Source](https://login.llamaindex.ai/sign-up)) - `ai/rag`
-245. [Langfuse](../../ai/rag/langfuse.md) ([Source](https://langfuse.com)) - `ai/rag`
-246. [Overview - Knative](../../ai/rag/overview-knative.md) ([Source](https://knative.dev/docs)) - `ai/rag`
-247. [Android Mobile App Developer Tools - Android Developers](../../ai/rag/android-mobile-app-developer-tools-android-develop.md) ([Source](https://developer.android.com)) - `ai/rag`
-248. [typing â Support for type hints — Python 3.14.7 documentation](../../ai/rag/typing-a-support-for-type-hints-python-3-14-7-docu.md) ([Source](https://docs.python.org/3/library/typing.html)) - `ai/rag`
-249. [sanjeed5 (Sanjeed) · GitHub](../../ai/rag/sanjeed5-sanjeed-github.md) ([Source](https://github.com/sanjeed5)) - `ai/rag`
-250. [The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](../../ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md) ([Source](https://tv.youtube.com/learn/nflsundayticket)) - `ai/rag`
-251. [LangChain · GitHub](../../ai/rag/langchain-github.md) ([Source](https://github.com/langchain-ai)) - `ai/rag`
-252. [community · Discussions · GitHub](../../ai/rag/orgs-community.md) ([Source](https://github.com/orgs/community)) - `ai/rag`
-253. [Artificial Intelligence | web.dev](../../ai/rag/artificial-intelligence-web-dev.md) ([Source](https://web.dev/explore/ai)) - `ai/rag`
-254. [Stream Firestore to BigQuery | Firebase Extensions Hub](../../ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md) ([Source](https://extensions.dev/extensions/firebase/firestore-bigquery-export)) - `ai/rag`
-255. [Haystack Enterprise Starter](../../ai/rag/haystack-enterprise-starter.md) ([Source](https://deepset.ai/products-and-services/haystack-enterprise)) - `ai/rag`
-256. [VaultGemma: The world's most capable differentially private LLM](../../ai/rag/vaultgemma-the-world-s-most-capable-differentially.md) ([Source](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm)) - `ai/rag`
-257. [Vector embeddings | OpenAI API](../../ai/rag/vector-embeddings-openai-api.md) ([Source](https://platform.openai.com/docs/guides/embeddings)) - `ai/rag`
-258. [Weaviate vector database - YouTube](../../ai/rag/weaviate-vector-database-youtube.md) ([Source](https://youtube.com/@weaviate)) - `ai/rag`
-259. [Gemini Apps Privacy Hub - Gemini Apps Help](../../ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md) ([Source](https://support.google.com/gemini/answer/13594961)) - `ai/rag`
-260. [android Git repositories - Git at Google](../../ai/rag/android-git-repositories-git-at-google.md) ([Source](https://android.googlesource.com)) - `ai/rag`
-261. [Changelog - Docs by LangChain](../../ai/rag/changelog-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/javascript/releases/changelog)) - `ai/rag`
-262. [The vector database to build knowledgeable AI | Pinecone](../../ai/rag/the-vector-database-to-build-knowledgeable-ai-pine.md) ([Source](https://pinecone.io)) - `ai/rag`
-263. [Quickstart - Pinecone Docs](../../ai/rag/quickstart-pinecone-docs.md) ([Source](https://docs.pinecone.io/guides/get-started/quickstart)) - `ai/rag`
-264. [Spaces · Hugging Face](../../ai/rag/huggingface-docs-hub.md) ([Source](https://huggingface.co/docs/hub)) - `ai/rag`
-265. [Quickstart — Sentence Transformers documentation](../../ai/rag/quickstart-sentence-transformers-documentation.md) ([Source](https://sbert.net/docs/quickstart.html)) - `ai/rag`
-266. [Client libraries and Cloud APIs explained | Google Cloud SDK | Google Cloud Documentation](../../ai/rag/client-libraries-and-cloud-apis-explained-google-c.md) ([Source](https://cloud.google.com/apis/docs/client-libraries-explained)) - `ai/rag`
-267. [Pretrained Models — Sentence Transformers documentation](../../ai/rag/pretrained-models-sentence-transformers-documentat.md) ([Source](https://sbert.net/docs/sentence_transformer/pretrained_models.html)) - `ai/rag`
-268. [cwebp | WebP | Google for Developers](../../ai/rag/cwebp-webp-google-for-developers.md) ([Source](https://developers.google.com/speed/webp/docs/cwebp)) - `ai/rag`
-269. [Create an application using Apache Beam - Managed Service for Apache Flink](../../ai/rag/create-an-application-using-apache-beam-managed-se.md) ([Source](https://docs.aws.amazon.com/kinesisanalytics/latest/java/examples-beam.html)) - `ai/rag`
-270. [[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../../ai/rag/arxiv-2504-20734.md) ([Source](https://arxiv.org/abs/2504.20734)) - `ai/rag`
-271. [Privacy Policy – Privacy & Terms – Google](../../ai/rag/privacy-policy-privacy-terms-google.md) ([Source](https://policies.google.com/privacy)) - `ai/rag`
-272. [Machine Learning Glossary | Google for Developers](../../ai/rag/machine-learning-glossary-google-for-developers.md) ([Source](https://developers.google.com/machine-learning/glossary)) - `ai/rag`
-273. [Standard JSON Schema](../../ai/rag/standard-json-schema.md) ([Source](https://standardschema.dev/json-schema)) - `ai/rag`
-274. [ElevenLabs · GitHub](../../ai/rag/elevenlabs-github.md) ([Source](https://github.com/elevenlabs)) - `ai/rag`
-275. [7 Best GitHub Repositories For Mastering RAG Systems](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
-276. [Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](../../ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md) ([Source](https://deepset.ai/products-and-services/deepset-ai-platform)) - `ai/rag`
-277. [Home - Google Developers Blog](../../ai/rag/home-google-developers-blog.md) ([Source](https://developers.googleblog.com)) - `ai/rag`
-278. [Gemini 3.5 â Google DeepMind](../../ai/rag/gemini-3-5-a-google-deepmind.md) ([Source](https://deepmind.google/technologies/gemini)) - `ai/rag`
-279. [Cloud Firestore Data model | Firebase](../../ai/rag/cloud-firestore-data-model-firebase.md) ([Source](https://firebase.google.com/docs/firestore/data-model)) - `ai/rag`
-280. [Vespa Demos](../../ai/rag/vespa-demos.md) ([Source](https://vespa-demos.ai)) - `ai/rag`
-281. [Computers for agents · Fly](../../ai/rag/computers-for-agents-fly.md) ([Source](http://fly.io)) - `ai/rag`
-282. [sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu](../../ai/rag/huggingface-sentence-transformers.md) ([Source](https://github.com/huggingface/sentence-transformers)) - `ai/rag`
-283. [Overview of Extract | Developer Documentation](../../ai/rag/overview-of-extract-developer-documentation.md) ([Source](https://docs.cloud.llamaindex.ai/llamaextract/getting_started)) - `ai/rag`
-284. [Configure markup](../../ai/rag/configure-markup.md) ([Source](https://gohugo.io/configuration/markup)) - `ai/rag`
-285. [Using a knowledge graph to implement a RAG application](../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
-286. [[2410.05779] LightRAG: Simple and Fast Retrieval-Augmented Generation](../../ai/rag/arxiv-2410-05779.md) ([Source](https://arxiv.org/abs/2410.05779)) - `ai/rag`
-287. [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md) ([Source](https://huggingface.co/sentence-transformers/msmarco-bert-base-dot-v5)) - `ai/rag`
-288. [LangChain overview - Docs by LangChain](../../ai/rag/langchain-overview-docs-by-langchain.md) ([Source](https://js.langchain.com)) - `ai/rag`
-289. [Category Taxonomy](../../ai/rag/category-taxonomy.md) ([Source](https://arxiv.org/category_taxonomy)) - `ai/rag`
-290. [Getting Started | Electron Forge](../../ai/rag/getting-started-electron-forge.md) ([Source](https://electronforge.io)) - `ai/rag`
-291. [astro/CONTRIBUTING.md at main · withastro/astro · GitHub](../../ai/rag/withastro-astro.md) ([Source](https://github.com/withastro/astro)) - `ai/rag`
-292. [npm Status](../../ai/rag/npm-status.md) ([Source](https://status.npmjs.com)) - `ai/rag`
-293. [Mac - Apple](../../ai/rag/mac-apple.md) ([Source](https://apple.com/mac)) - `ai/rag`
-294. [The WebM Project | Developer Overview](../../ai/rag/the-webm-project-developer-overview.md) ([Source](https://webmproject.org/code)) - `ai/rag`
-295. [Configure imaging](../../ai/rag/configure-imaging.md) ([Source](https://gohugo.io/configuration/imaging)) - `ai/rag`
-296. [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md) ([Source](https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide)) - `ai/rag`
-297. [Configuring setuptools using pyproject.toml files - setuptools 84.0.0 documentation](../../ai/rag/configuring-setuptools-using-pyproject-toml-files.md) ([Source](https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html)) - `ai/rag`
-298. [GitHub Universe 2026](../../ai/rag/github-universe-2026.md) ([Source](https://githubuniverse.com)) - `ai/rag`
-299. [Llama Hub](../../ai/rag/llama-hub.md) ([Source](https://llamahub.ai)) - `ai/rag`
-300. [Code Llama: Open Foundation Models for Code | Research - AI at Meta](../../ai/rag/code-llama-open-foundation-models-for-code-researc.md) ([Source](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code)) - `ai/rag`
-301. [Gemini Code Assist for teams and businesses](../../ai/rag/gemini-code-assist-for-teams-and-businesses.md) ([Source](https://cloud.google.com/products/gemini/code-assist)) - `ai/rag`
-302. [Fast and reliable end-to-end testing for modern web apps | Playwright](../../ai/rag/fast-and-reliable-end-to-end-testing-for-modern-we.md) ([Source](https://playwright.dev)) - `ai/rag`
-303. [LlamaIndex · GitHub](../../ai/rag/llamaindex-github.md) ([Source](https://github.com/run-llama)) - `ai/rag`
-304. [Legal - App Store & Privacy- Apple](../../ai/rag/legal-app-store-privacy-apple.md) ([Source](https://apple.com/legal/privacy/data/en/app-store)) - `ai/rag`
-305. [Forbes - PARS](../../ai/rag/forbes-pars.md) ([Source](https://parsintl.com/publications/forbes)) - `ai/rag`
-306. [TruLens: Evals and Tracing for AI Agents](../../ai/rag/trulens-evals-and-tracing-for-agents.md) ([Source](https://trulens.org)) - `ai/rag`
-307. [Download Android Studio & App Tools - Android Developers](../../ai/rag/download-android-studio-app-tools-android-develope.md) ([Source](https://developer.android.com/studio)) - `ai/rag`
-308. [The latest on DevSecOps - The GitHub Blog](../../ai/rag/the-latest-on-devsecops-the-github-blog.md) ([Source](https://github.blog/enterprise-software/devsecops)) - `ai/rag`
-309. [Jupyter AI](../../ai/rag/jupyter-ai.md) ([Source](https://jupyter-ai.readthedocs.io/en/latest)) - `ai/rag`
-310. [Get our developer newsletter · GitHub](../../ai/rag/get-our-developer-newsletter-github.md) ([Source](https://resources.github.com/newsletter)) - `ai/rag`
-311. [RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog](../../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md) ([Source](https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources)) - `ai/rag`
-312. [Keras 2 <> Keras 3 incompatibilities · Issue #18467 · keras-team/keras · GitHub](../../ai/rag/keras-team-keras.md) ([Source](https://github.com/keras-team/keras)) - `ai/rag`
-313. [Cloudflare Status](../../ai/rag/cloudflare-status.md) ([Source](https://cloudflarestatus.com)) - `ai/rag`
-314. [Functional programming - Wikipedia](../../ai/rag/functional-programming-wikipedia.md) ([Source](https://en.wikipedia.org/wiki/functional_programming)) - `ai/rag`
-315. [Keras: Deep Learning for humans](../../ai/rag/keras-deep-learning-for-humans.md) ([Source](https://keras.io/keras_3)) - `ai/rag`
-316. [PEFT · Hugging Face](../../ai/rag/huggingface-docs-peft.md) ([Source](https://huggingface.co/docs/peft)) - `ai/rag`
-317. [AI for Research | Scite](../../ai/rag/scite-ai-for-research.md) ([Source](https://scite.ai)) - `ai/rag`
-318. [MongoDB Compass | MongoDB](../../ai/rag/mongodb-compass-mongodb.md) ([Source](https://mongodb.com/products/compass)) - `ai/rag`
-319. [Cache - Web APIs | MDN](../../ai/rag/cache-web-apis-mdn.md) ([Source](https://developer.mozilla.org/docs/web/api/cache)) - `ai/rag`
-320. [Gemini in Android Studio - Android Developers](../../ai/rag/gemini-in-android-studio-android-developers.md) ([Source](https://developer.android.com/gemini-in-android)) - `ai/rag`
-321. [GitHub Security · GitHub](../../ai/rag/github-security-github.md) ([Source](https://github.com/security)) - `ai/rag`
-322. [Subresource Integrity](../../ai/rag/subresource-integrity.md) ([Source](https://w3c.github.io/webappsec/specs/subresourceintegrity)) - `ai/rag`
-323. [Expert Services | GitHub · GitHub](../../ai/rag/expert-services-github-github.md) ([Source](https://services.github.com)) - `ai/rag`
-324. [Former Google CEO plans to singlehandedly fund a Hubble telescope replacement - Ars Technica](../../ai/rag/former-google-ceo-plans-to-singlehandedly-fund-a-h.md) ([Source](https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement)) - `ai/rag`
-325. [pnpm - Open Collective](../../ai/rag/pnpm-open-collective.md) ([Source](https://opencollective.com/pnpm)) - `ai/rag`
-326. [[2510.08847] What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment](../../ai/rag/arxiv-2510-08847.md) ([Source](https://arxiv.org/abs/2510.08847)) - `ai/rag`
-327. [[2407.10930] Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](../../ai/rag/arxiv-2407-10930.md) ([Source](https://arxiv.org/abs/2407.10930)) - `ai/rag`
-328. [LangSmith Observability - Docs by LangChain](../../ai/rag/langsmith-observability-docs-by-langchain.md) ([Source](https://docs.langchain.com/langsmith/home)) - `ai/rag`
-329. [Styles and CSS | Docs](../../ai/rag/styles-and-css-docs.md) ([Source](https://docs.astro.build/en/guides/styling)) - `ai/rag`
-330. [Google Account Help](../../ai/rag/google-account-help.md) ([Source](https://support.google.com/accounts?hl=en_US)) - `ai/rag`
-331. [Cloud Storage for Firebase | Store and serve content with ease](../../ai/rag/cloud-storage-for-firebase-store-and-serve-content.md) ([Source](https://firebase.google.com/products/storage)) - `ai/rag`
-332. [Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](../../ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md) ([Source](https://support.google.com/chrome/answer/95647)) - `ai/rag`
-333. [Pinecone · GitHub](../../ai/rag/pinecone-github.md) ([Source](https://github.com/pinecone-io)) - `ai/rag`
-334. [YouTube TV - Watch & DVR Live Sports, Shows & News](../../ai/rag/youtube-tv-watch-dvr-live-sports-shows-news.md) ([Source](https://tv.youtube.com)) - `ai/rag`
-335. [Chunking Strategies for LLM Applications | Pinecone](../../ai/rag/chunking-strategies-for-llm-applications-pinecone.md) ([Source](https://pinecone.io/learn/chunking-strategies)) - `ai/rag`
-336. [Scite – Research Solutions Help & Support Center](../../ai/rag/scite-research-solutions-help-support-center.md) ([Source](https://help.researchsolutions.com/hc/en-us/categories/31947397460116-scite)) - `ai/rag`
-337. [JavaScript data types and data structures - JavaScript | MDN](../../ai/rag/javascript-data-types-and-data-structures-javascri.md) ([Source](https://developer.mozilla.org/docs/web/javascript/data_structures)) - `ai/rag`
-338. [Unlocking the power of unstructured data with RAG - The GitHub Blog](../../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md) ([Source](https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag)) - `ai/rag`
-339. [Introduction to R Programming | DataCamp](../../ai/rag/introduction-to-r-programming-datacamp.md) ([Source](https://datacamp.com/courses/free-introduction-to-r)) - `ai/rag`
-340. [Home - The GitHub Blog](../../ai/rag/home-the-github-blog.md) ([Source](https://github.blog)) - `ai/rag`
-341. [Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥](../../ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md) ([Source](https://firecrawl.dev/blog)) - `ai/rag`
-342. [[1907.12748] Influence Flowers of Academic Entities](../../ai/rag/arxiv-1907-12748.md) ([Source](https://arxiv.org/abs/1907.12748)) - `ai/rag`
-343. [Gemma â Google DeepMind](../../ai/rag/gemma-a-google-deepmind.md) ([Source](https://deepmind.google/models/gemma)) - `ai/rag`
-344. [Transformers.js · Hugging Face](../../ai/rag/huggingface-docs-transformers-js.md) ([Source](https://huggingface.co/docs/transformers.js)) - `ai/rag`
-345. [Transparency Center - Google Product Policies and Policy Areas](../../ai/rag/transparency-center-google-product-policies-and-po.md) ([Source](https://transparency.google)) - `ai/rag`
-346. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source](https://llamaindex.ai/llamaparse)) - `ai/rag`
-347. [Safeguarding your data - Analytics Help](../../ai/rag/safeguarding-your-data-analytics-help.md) ([Source](https://support.google.com/analytics/answer/6004245?hl=en)) - `ai/rag`
-348. [Colab | Google for Developers](../../ai/rag/colab-google-for-developers.md) ([Source](https://colab.google)) - `ai/rag`
-349. [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md) ([Source](https://aimultiple.com/rag-evaluation-tools)) - `ai/rag`
-350. [Building RAG Systems from Scratch: A Practical Guide | Md. Zahid Hasan](../../ai/rag/building-rag-systems-from-scratch-a-practical-guid.md) ([Source](https://z4hid.github.io/blog/building-rag-systems-from-scratch)) - `ai/rag`
-351. [Binaries · openssl/openssl Wiki · GitHub](../../ai/rag/openssl-openssl.md) ([Source](https://github.com/openssl/openssl)) - `ai/rag`
-352. [Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube](../../ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md) ([Source](https://youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY)) - `ai/rag`
-353. [Quickstart | Milvus Documentation](../../ai/rag/quickstart-milvus-documentation.md) ([Source](https://milvus.io/docs/example_code.md)) - `ai/rag`
-354. [Haystack | Haystack](../../ai/rag/haystack-haystack.md) ([Source](https://haystack.deepset.ai)) - `ai/rag`
-355. [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](../../ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md) ([Source](https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1782744530064.1782887335051.6&__hssc=17958374.15.1782887335051&__hsfp=f0d584f5cf03caae536faced7333acfe)) - `ai/rag`
-356. [What is artificial intelligence? | web.dev](../../ai/rag/what-is-artificial-intelligence-web-dev.md) ([Source](https://web.dev/articles/ai-overview)) - `ai/rag`
-357. [Improve performance and UX for client-side AI | web.dev](../../ai/rag/improve-performance-and-ux-for-client-side-ai-web.md) ([Source](https://web.dev/articles/client-side-ai-performance)) - `ai/rag`
-358. [Gemini Nano | AI | Android Developers](../../ai/rag/gemini-nano-ai-android-developers.md) ([Source](https://developer.android.com/ai/gemini-nano)) - `ai/rag`
-359. [LightRAG](../../ai/rag/lightrag.md) ([Source](https://lightrag.github.io)) - `ai/rag`
-360. [The React Foundation: A New Home for React Hosted by the Linux Foundation](../../web-development/the-react-foundation-a-new-home-for-react-hosted-b.md) ([Source](https://react.dev/blog/2026/02/24/the-react-foundation)) - `web-development`
-361. [Denial of Service and Source Code Exposure in React Server Components](../../web-development/denial-of-service-and-source-code-exposure-in-reac.md) ([Source](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)) - `web-development`
-362. [Critical Security Vulnerability in React Server Components](../../web-development/critical-security-vulnerability-in-react-server-co.md) ([Source](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)) - `web-development`
-363. [React Conf 2025 Recap](../../web-development/react-conf-2025-recap.md) ([Source](https://react.dev/blog/2025/10/16/react-conf-2025-recap)) - `web-development`
-364. [React Compiler v1.0](../../web-development/react-compiler-v1-0.md) ([Source](https://react.dev/blog/2025/10/07/react-compiler-1)) - `web-development`
-365. [Introducing the React Foundation](../../web-development/introducing-the-react-foundation.md) ([Source](https://react.dev/blog/2025/10/07/introducing-the-react-foundation)) - `web-development`
-366. [React 19.2](../../web-development/react-19-2.md) ([Source](https://react.dev/blog/2025/10/01/react-19-2)) - `web-development`
-367. [React Labs: View Transitions, Activity, and more](../../web-development/react-labs-view-transitions-activity-and-more.md) ([Source](https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more)) - `web-development`
-368. [React v19](../../web-development/react-v19.md) ([Source](https://react.dev/blog/2024/12/05/react-19)) - `web-development`
-369. [React Compiler Beta Release](../../web-development/react-compiler-beta-release.md) ([Source](https://react.dev/blog/2024/10/21/react-compiler-beta-release)) - `web-development`
-370. [React Conf 2024 Recap](../../web-development/react-conf-2024-recap.md) ([Source](https://react.dev/blog/2024/05/22/react-conf-2024-recap)) - `web-development`
-371. [React 19 Upgrade Guide](../../web-development/react-19-upgrade-guide.md) ([Source](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)) - `web-development`
-372. [React Labs: What We've Been Working On – February 2024](../../web-development/react-labs-what-we-ve-been-working-on-february-202.md) ([Source](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)) - `web-development`
-373. [React Labs: What We've Been Working On – March 2023](../../web-development/react-labs-what-we-ve-been-working-on-march-2023.md) ([Source](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)) - `web-development`
-374. [Introducing react.dev](../../web-development/introducing-react-dev.md) ([Source](https://react.dev/blog/2023/03/16/introducing-react-dev)) - `web-development`
-375. [React Labs: What We've Been Working On – June 2022](../../web-development/react-labs-what-we-ve-been-working-on-june-2022.md) ([Source](https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022)) - `web-development`
-376. [React v18.0](../../web-development/react-v18-0.md) ([Source](https://react.dev/blog/2022/03/29/react-v18)) - `web-development`
-377. [How to Upgrade to React 18](../../web-development/how-to-upgrade-to-react-18.md) ([Source](https://react.dev/blog/2022/03/08/react-18-upgrade-guide)) - `web-development`
-378. [React Conf 2021 Recap](../../web-development/react-conf-2021-recap.md) ([Source](https://react.dev/blog/2021/12/17/react-conf-2021-recap)) - `web-development`
-379. [The Plan for React 18](../../web-development/the-plan-for-react-18.md) ([Source](https://react.dev/blog/2021/06/08/the-plan-for-react-18)) - `web-development`
-380. [Introducing Zero-Bundle-Size React Server Components](../../web-development/introducing-zero-bundle-size-react-server-componen.md) ([Source](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)) - `web-development`
-381. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
-382. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
-383. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
-384. [React Canaries: Enabling Incremental Feature Rollout Outside Meta](../../web-development/react-canaries-enabling-incremental-feature-rollou.md) ([Source](https://react.dev/blog/2023/05/03/react-canaries)) - `web-development`
-385. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
-386. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
-387. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
-388. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
-389. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
-390. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
-391. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
-392. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
-393. [Turbopack: What's New in Next.js 16.3](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3-turbopack)) - `web-development/nextjs`
-394. [Next.js 16.3: Instant Navigations](../../web-development/nextjs/next-js-16-3-instant-navigations.md) ([Source](https://nextjs.org/blog/next-16-3-instant-navigations)) - `web-development/nextjs`
-395. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
-396. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
-397. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
-398. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
+1. [Nine PBS sues Iron Mountain over blocked access to archival data](../../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md) ([Source](https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data)) (HN Score: 255) - `ai/community`
+2. [AI At Home Part 1: A Box Of Scraps](../../ai/community/ai-at-home-part-1-a-box-of-scraps.md) ([Source](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)) (HN Score: 94) - `ai/community`
+3. [How Organizations Use AI: Evidence from ChatGPT [pdf]](../../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md) ([Source](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)) (HN Score: 71) - `ai/community`
+4. [LangChain Community: Connect, Learn & Build AI Agents](../../ai/agents/langchain-community-connect-learn-build-ai-agents.md) ([Source](https://langchain.com/community)) - `ai/agents`
+5. [docs/content/index.md at main · github/docs · GitHub](../../ai/agents/github-docs-2.md) ([Source](https://github.com/github/docs)) - `ai/agents`
+6. [Introduction | Firecrawl](../../ai/agents/introduction-firecrawl.md) ([Source](https://docs.firecrawl.dev/introduction)) - `ai/agents`
+7. [Copyright Help Center - Legal Help](../../ai/agents/copyright-help-center-legal-help.md) ([Source](https://support.google.com/legal/topic/4558877)) - `ai/agents`
+8. [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](../../ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md) ([Source](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer)) - `ai/agents`
+9. [The Agent Skills Directory](../../ai/agents/the-agent-skills-directory.md) ([Source](https://skills.sh)) - `ai/agents`
+10. [[2310.03714] DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](../../ai/agents/arxiv-2310-03714.md) ([Source](https://arxiv.org/abs/2310.03714)) - `ai/agents`
+11. [Google for Developers | Build with Gemini](../../ai/agents/google-for-developers-build-with-gemini.md) ([Source](https://developers.google.com)) - `ai/agents`
+12. [Home - Schmidt Sciences](../../ai/agents/home-schmidt-sciences.md) ([Source](https://schmidtsciences.org)) - `ai/agents`
+13. [AI software reliability platform | incident.io](../../ai/agents/ai-software-reliability-platform-incident-io.md) ([Source](https://incident.io)) - `ai/agents`
+14. [Mojo](../../ai/agents/mojo.md) ([Source](https://modular.com/mojo)) - `ai/agents`
+15. [[2310.03714] DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](../../ai/agents/2310-03714-dspy-compiling-declarative-language-mod.md) ([Source](https://doi.org/10.48550/arxiv.2310.03714)) - `ai/agents`
+16. [Framer: AI design agent](../../ai/agents/framer-ai-website-builder-for-professional-sites.md) ([Source](https://framer.com)) - `ai/agents`
+17. [Hugging Face · GitHub](../../ai/agents/hugging-face-github.md) ([Source](https://github.com/huggingface)) - `ai/agents`
+18. [Agent | Firecrawl](../../ai/agents/agent-firecrawl.md) ([Source](https://docs.firecrawl.dev/features/agent)) - `ai/agents`
+19. [What is the Model Context Protocol (MCP)? - Model Context Protocol](../../ai/agents/what-is-the-model-context-protocol-mcp-model-conte.md) ([Source](https://modelcontextprotocol.io)) - `ai/agents`
+20. [Resources to help you build, secure, and scale with GitHub · GitHub](../../ai/agents/resources-to-help-you-build-secure-and-scale-with.md) ([Source](https://resources.github.com)) - `ai/agents`
+21. [Google Cloud Platform · GitHub](../../ai/agents/google-cloud-platform-github.md) ([Source](https://github.com/googlecloudplatform)) - `ai/agents`
+22. [GitHub Copilot app · GitHub](../../ai/agents/features-ai.md) ([Source](https://github.com/features/ai)) - `ai/agents`
+23. [LangGraph Skill Pack — SuperML.org](../../ai/agents/langgraph-skill-pack-superml-org.md) ([Source](https://superml.org/tutorials/langgraph-skill-pack)) - `ai/agents`
+24. [GitHub CLI | Take GitHub to the command line](../../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source](https://cli.github.com)) - `ai/agents`
+25. [Cursor: AI coding agent](../../ai/agents/cursor-ai-coding-agent.md) ([Source](https://cursor.com)) - `ai/agents`
+26. [OpenAI · GitHub](../../ai/agents/openai-github.md) ([Source](https://github.com/openai)) - `ai/agents`
+27. [LangChain Blog](../../ai/agents/langchain-blog.md) ([Source](https://blog.langchain.com)) - `ai/agents`
+28. [Chrome for Developers](../../ai/agents/chrome-for-developers.md) ([Source](https://developer.chrome.com/home)) - `ai/agents`
+29. [CORE · GitHub](../../ai/resources/core-github.md) ([Source](https://github.com/oacore)) - `ai/resources`
+30. [alphaXiv](../../ai/resources/alphaxiv.md) ([Source](https://discord.com/invite/macv3wtqky)) - `ai/resources`
+31. [Chrome for Developers - YouTube](../../ai/resources/chrome-for-developers-youtube.md) ([Source](https://youtube.com/user/chromedevelopers)) - `ai/resources`
+32. [[2205.13147] Matryoshka Representation Learning](../../ai/resources/arxiv-2205-13147.md) ([Source](https://arxiv.org/abs/2205.13147)) - `ai/resources`
+33. [Google Accessibility Help](../../ai/resources/google-accessibility-help.md) ([Source](https://support.google.com/accessibility?sjid=2138668768838005940-NA)) - `ai/resources`
+34. [Traitlets — traitlets 5.16.1 documentation](../../ai/resources/traitlets-traitlets-5-16-1-documentation.md) ([Source](https://traitlets.readthedocs.io/en/stable)) - `ai/resources`
+35. [npm Docs](../../ai/resources/npm-docs.md) ([Source](https://docs.npmjs.com)) - `ai/resources`
+36. [deepset · GitHub](../../ai/resources/deepset-github.md) ([Source](https://github.com/deepset)) - `ai/resources`
+37. [Overview of Parse | Developer Documentation](../../ai/resources/overview-of-parse-developer-documentation.md) ([Source](https://developers.llamaindex.ai/python/cloud/llamaparse)) - `ai/resources`
+38. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source](https://developers.google.com/android/images)) - `ai/resources`
+39. [encoding.HexEncode](../../ai/resources/encoding-hexencode.md) ([Source](https://gohugo.io/functions/encoding/hexencode)) - `ai/resources`
+40. [Baseline | web.dev](../../ai/resources/baseline-web-dev.md) ([Source](https://web.dev/baseline)) - `ai/resources`
+41. [afirstenberg (Allen Firstenberg) · GitHub](../../ai/resources/afirstenberg-allen-firstenberg-github.md) ([Source](https://github.com/afirstenberg)) - `ai/resources`
+42. [Firebase Extensions](../../ai/resources/firebase-extensions-2.md) ([Source](https://firebase.google.com/docs/extensions)) - `ai/resources`
+43. [org.superml/superml-core 3.1.2 | Sonatype Guide | Sonatype Guide](../../ai/resources/org-superml-superml-core-3-1-2-sonatype-guide-sona.md) ([Source](https://guide.sonatype.com/component/maven/org.superml:superml-core/3.1.2)) - `ai/resources`
+44. [Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine](../../ai/resources/internet-archive-digital-library-of-free-borrowabl.md) ([Source](https://archive.org)) - `ai/resources`
+45. [Lighthouse | Chrome for Developers](../../ai/resources/lighthouse-chrome-for-developers.md) ([Source](https://developer.chrome.com/docs/lighthouse)) - `ai/resources`
+46. [3.14.7 Documentation](../../ai/resources/3-14-6-documentation.md) ([Source](https://docs.python.org)) - `ai/resources`
+47. [GitHub - algolia/firestore-algolia-search at 36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe · GitHub](../../ai/resources/algolia-firestore-algolia-search.md) ([Source](https://github.com/algolia/firestore-algolia-search)) - `ai/resources`
+48. [pnpm link | pnpm](../../ai/resources/pnpm-link-pnpm.md) ([Source](https://pnpm.io/cli/link)) - `ai/resources`
+49. [arXiv Labs - arXiv info](../../ai/resources/arxiv-labs-arxiv-info.md) ([Source](https://labs.arxiv.org)) - `ai/resources`
+50. [Workshop Studio](../../ai/resources/workshop-studio.md) ([Source](https://streaming-analytics.workshop.aws/beam-on-kda)) - `ai/resources`
+51. [LangChain - YouTube](../../ai/resources/langchain-youtube.md) ([Source](https://youtube.com/@langchain)) - `ai/resources`
+52. [Ars Technica (@arstechnica@mastodon.social) - Mastodon](../../ai/resources/ars-technica-arstechnica-mastodon-social-mastodon.md) ([Source](https://mastodon.social/@arstechnica)) - `ai/resources`
+53. [HTTP Archive: Tech Report](../../ai/resources/http-archive-tech-report.md) ([Source](https://httparchive.org/reports/techreport/tech?client=mobile&tech=Astro%2CWordPress%2CGatsby%2CNext.js%2CNuxt.js&geo=ALL&rank=ALL&page=1)) - `ai/resources`
+54. [Home - RDocumentation](../../ai/resources/home-rdocumentation.md) ([Source](https://rdocumentation.org)) - `ai/resources`
+55. [Tensor playground](../../ai/resources/tensor-playground.md) ([Source](https://docs.vespa.ai/playground)) - `ai/resources`
+56. [DagsHub](../../ai/resources/dagshub.md) ([Source](https://discord.com/invite/9gu36y6)) - `ai/resources`
+57. [Cursor - YouTube](../../ai/resources/cursor-youtube.md) ([Source](https://youtube.com/@cursor_ai)) - `ai/resources`
+58. [Litmaps | Your Literature Review Assistant](../../ai/resources/litmaps-your-literature-review-assistant.md) ([Source](https://litmaps.co)) - `ai/resources`
+59. [Build your first end-to-end test with Playwright - Training | Microsoft Learn](../../ai/resources/build-your-first-end-to-end-test-with-playwright-t.md) ([Source](https://learn.microsoft.com/en-us/training/modules/build-with-playwright)) - `ai/resources`
+60. [Learn about YouTube TV Plans - YouTube TV Help](../../ai/resources/learn-about-youtube-tv-plans-youtube-tv-help.md) ([Source](https://support.google.com/youtubetv/answer/16865391?hl=en)) - `ai/resources`
+61. [Legal - Use of Cookies - Apple](../../ai/resources/legal-use-of-cookies-apple.md) ([Source](https://apple.com/privacy/use-of-cookies)) - `ai/resources`
+62. [About Lumen - Legal Help](../../ai/resources/about-lumen-legal-help.md) ([Source](https://support.google.com/legal/answer/12158374)) - `ai/resources`
+63. [Getting Started | astro.new](../../ai/resources/getting-started-astro-new.md) ([Source](https://astro.new)) - `ai/resources`
+64. [[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models](../../ai/resources/arxiv-2106-09685.md) ([Source](https://arxiv.org/abs/2106.09685)) - `ai/resources`
+65. [A Guide to Large Language Model Abstractions - Two Sigma](../../ai/resources/a-guide-to-large-language-model-abstractions-two-s.md) ([Source](https://twosigma.com/articles/a-guide-to-large-language-model-abstractions)) - `ai/resources`
+66. [Google Analytics opt-out browser add-on - Analytics Help](../../ai/resources/google-analytics-opt-out-browser-add-on-analytics.md) ([Source](https://support.google.com/analytics/answer/181881?hl=en)) - `ai/resources`
+67. [Node.js — Run JavaScript Everywhere](../../ai/resources/node-js-run-javascript-everywhere.md) ([Source](https://nodejs.org)) - `ai/resources`
+68. [Report Content for Legal Reasons - Legal Help](../../ai/resources/report-content-for-legal-reasons-legal-help.md) ([Source](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859&hl=en_US)) - `ai/resources`
+69. [web.dev](../../ai/resources/web-dev.md) ([Source](https://web.dev)) - `ai/resources`
+70. [A safe and modern home for JavaScript technologies | OpenJS Foundation](../../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md) ([Source](https://openjsf.org)) - `ai/resources`
+71. [Overview of CrUX | Chrome UX Report | Chrome for Developers](../../ai/resources/overview-of-crux-chrome-ux-report-chrome-for-devel.md) ([Source](https://developer.chrome.com/docs/crux)) - `ai/resources`
+72. [Google Analytics Opt-out Browser Add-on Download Page](../../ai/resources/google-analytics-opt-out-browser-add-on-download-p.md) ([Source](https://tools.google.com/dlpage/gaoptout)) - `ai/resources`
+73. [InfluenceFlower](../../ai/resources/influenceflower.md) ([Source](https://influencemap.cmlab.dev)) - `ai/resources`
+74. [[1910.10683] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](../../ai/resources/arxiv-1910-10683.md) ([Source](https://arxiv.org/abs/1910.10683)) - `ai/resources`
+75. [Firestore | Firebase](../../ai/resources/firestore-firebase.md) ([Source](https://firebase.google.com/docs/firestore)) - `ai/resources`
+76. [Brand guidelines | Branding & Marketing | Android Developers](../../ai/resources/brand-guidelines-branding-marketing-android-develo.md) ([Source](https://developer.android.com/distribute/marketing-tools/brand-guidelines)) - `ai/resources`
+77. [Google Drive Terms of Service - Google Drive Help](../../ai/resources/google-drive-terms-of-service-google-drive-help.md) ([Source](https://support.google.com/drive/answer/2450387?hl=en-US)) - `ai/resources`
+78. [Android Developer Newsletters | Android Developers](../../ai/resources/android-developer-newsletters-android-developers.md) ([Source](https://developer.android.com/newsletter/index.html)) - `ai/resources`
+79. [mypy 2.3.0 documentation](../../ai/resources/mypy-2-3-0-documentation.md) ([Source](https://mypy.readthedocs.io)) - `ai/resources`
+80. [Verizon - YouTube](../../ai/resources/verizon-youtube.md) ([Source](https://youtube.com/user/verizon)) - `ai/resources`
+81. [extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at master · firebase/extensions · GitHub](../../ai/resources/firebase-extensions.md) ([Source](https://github.com/firebase/extensions)) - `ai/resources`
+82. [Litmaps - YouTube](../../ai/resources/litmaps-youtube.md) ([Source](https://youtube.com/channel/ucxr6etbi7zzklfe_7ongitg)) - `ai/resources`
+83. [SRI Hash Generator](../../ai/resources/sri-hash-generator.md) ([Source](https://srihash.org)) - `ai/resources`
+84. [Maven Central: org.superml:superml-core](../../ai/resources/maven-central-org-superml-superml-core.md) ([Source](https://central.sonatype.com/artifact/org.superml/superml-core)) - `ai/resources`
+85. [- YouTube](../../ai/resources/youtube-8g36uoq5uyo.md) ([Source](https://youtube.com/watch?v=8G36Uoq5Uyo)) - `ai/resources`
+86. [Affiliates providing business services](../../ai/resources/affiliates-providing-business-services.md) ([Source](https://privacy.google.com/businesses/affiliates)) - `ai/resources`
+87. [Time to First Byte (TTFB) | Articles | web.dev](../../ai/resources/time-to-first-byte-ttfb-articles-web-dev.md) ([Source](https://web.dev/articles/ttfb)) - `ai/resources`
+88. [Web Vitals | Articles | web.dev](../../ai/resources/web-vitals-articles-web-dev.md) ([Source](https://web.dev/articles/vitals)) - `ai/resources`
+89. [Turn on Match Dynamic Range or Match Frame Rate on your Apple TV - Apple Support](../../ai/resources/turn-on-match-dynamic-range-or-match-frame-rate-on.md) ([Source](https://support.apple.com/en-us/ht208288)) - `ai/resources`
+90. [[1907.12748] Influence Flowers of Academic Entities](../../ai/resources/1907-12748-influence-flowers-of-academic-entities.md) ([Source](https://doi.org/10.48550/arxiv.1907.12748)) - `ai/resources`
+91. [content/files/en-us/web/security/defenses/subresource_integrity/index.md at main · mdn/content · GitHub](../../ai/resources/mdn-content.md) ([Source](https://github.com/mdn/content)) - `ai/resources`
+92. [CommonMark](../../ai/resources/commonmark.md) ([Source](https://commonmark.org)) - `ai/resources`
+93. [YouTube Viewers - YouTube](../../ai/resources/youtube-viewers-youtube.md) ([Source](https://youtube.com/channel/ucmdqxm7cux3yxkfeha5zjiq)) - `ai/resources`
+94. [6. Modules — Python 3.14.7 documentation](../../ai/resources/6-modules-python-3-14-7-documentation.md) ([Source](https://docs.python.org/3/tutorial/modules.html)) - `ai/resources`
+95. [Google Drive - Report Abuse](../../ai/resources/google-drive-report-abuse.md) ([Source](https://docs.google.com/forms/d/e/1faipqlsfet0rttpl6eu3zhqzg9kt4gshyarxvb7u9yvo_nihfg58faa/abuse)) - `ai/resources`
+96. [Get an app for Mastodon - Mastodon](../../ai/resources/get-an-app-for-mastodon-mastodon.md) ([Source](https://joinmastodon.org/apps)) - `ai/resources`
+97. [dom-examples/service-worker/simple-service-worker at main · mdn/dom-examples · GitHub](../../ai/resources/mdn-dom-examples.md) ([Source](https://github.com/mdn/dom-examples)) - `ai/resources`
+98. [Sign in to GitHub · GitHub](../../ai/resources/langchain-ai-docs.md) ([Source](https://github.com/langchain-ai/docs)) - `ai/resources`
+99. [Accept a payment | Stripe Documentation](../../ai/resources/accept-a-payment-stripe-documentation.md) ([Source](https://stripe.com/docs/payments/accept-a-payment?platform=android&ui=payment-sheet)) - `ai/resources`
+100. [EverPass](../../ai/resources/everpass.md) ([Source](https://help.upshow.tv/hc/en-us)) - `ai/resources`
+101. [Research Solutions - YouTube](../../ai/resources/research-solutions-youtube.md) ([Source](https://youtube.com/channel/ucdp_fvzip9lds2h37pgtbkg)) - `ai/resources`
+102. [Veo 3.1 â Google DeepMind](../../ai/resources/veo-3-1-a-google-deepmind.md) ([Source](https://deepmind.google/technologies/veo/veo-2)) - `ai/resources`
+103. [Privacy Practices & Protections - Google Safety Center](../../ai/resources/privacy-practices-protections-google-safety-center.md) ([Source](https://safety.google/principles)) - `ai/resources`
+104. [Privacy & Terms – Google](../../ai/resources/privacy-terms-google.md) ([Source](https://policies.google.com)) - `ai/resources`
+105. [Distribute Your Apps & Games on Google Play | Android Developers](../../ai/resources/distribute-your-apps-games-on-google-play-android.md) ([Source](https://developer.android.com/distribute)) - `ai/resources`
+106. [Frederik Braun: A CDN that can not XSS you: Using Subresource Integrity](../../ai/resources/frederik-braun-a-cdn-that-can-not-xss-you-using-su.md) ([Source](https://frederikbraun.de/using-subresource-integrity.html)) - `ai/resources`
+107. [Making sure you're not a bot!](../../ai/resources/making-sure-you-re-not-a-bot.md) ([Source](https://lumendatabase.org/pages/about)) - `ai/resources`
+108. [Android Open Source Project](../../ai/resources/android-open-source-project.md) ([Source](https://source.android.com)) - `ai/resources`
+109. [Subresource Integrity - Security | MDN](../../ai/resources/subresource-integrity-security-mdn.md) ([Source](https://developer.mozilla.org/en-us/docs/web/security/subresource_integrity)) - `ai/resources`
+110. [TXYZ](../../ai/resources/txyz.md) ([Source](https://discord.gg/mqpsd9qvpp)) - `ai/resources`
+111. [Connected Papers | Find and explore academic papers](../../ai/resources/connected-papers-find-and-explore-academic-papers.md) ([Source](https://connectedpapers.com/about)) - `ai/resources`
+112. [Forbes - Apps on Google Play](../../ai/resources/forbes-apps-on-google-play.md) ([Source](https://play.google.com/store/apps/details?id=com.forbes.forbesreader.android&hl=en_US)) - `ai/resources`
+113. [clemenspeters (Clemens Peters) · GitHub](../../ai/resources/clemenspeters-clemens-peters-github.md) ([Source](https://github.com/clemenspeters)) - `ai/resources`
+114. [dblp: computer science bibliography](../../ai/resources/dblp-computer-science-bibliography.md) ([Source](https://dblp.uni-trier.de)) - `ai/resources`
+115. [[2002.05202] GLU Variants Improve Transformer](../../ai/resources/arxiv-2002-05202.md) ([Source](https://arxiv.org/abs/2002.05202)) - `ai/resources`
+116. [Mailing list Subscription Form](../../ai/resources/mailing-list-subscription-form.md) ([Source](https://forms.fillout.com/t/3ioiagnp7mus)) - `ai/resources`
+117. [Static Typing with Python — typing documentation](../../ai/resources/static-typing-with-python-typing-documentation.md) ([Source](https://typing.python.org)) - `ai/resources`
+118. [Google DeepMind - YouTube](../../ai/resources/google-deepmind-youtube.md) ([Source](https://youtube.com/@googledeepmind)) - `ai/resources`
+119. [Ars Technica - YouTube](../../ai/resources/ars-technica-youtube.md) ([Source](https://youtube.com/@arstechnica)) - `ai/resources`
+120. [Sign in to GitHub · GitHub](../../ai/resources/gohugoio-hugodocs.md) ([Source](https://github.com/gohugoio/hugodocs)) - `ai/resources`
+121. [Eliminate render-blocking resources | Lighthouse | Chrome for Developers](../../ai/resources/eliminate-render-blocking-resources-lighthouse-chr.md) ([Source](https://developer.chrome.com/docs/lighthouse/performance/render-blocking-resources)) - `ai/resources`
+122. [Shows | web.dev](../../ai/resources/shows-web-dev.md) ([Source](https://web.dev/shows)) - `ai/resources`
+123. [Introduction | Electron](../../ai/resources/introduction-electron.md) ([Source](https://electronjs.org/docs/latest)) - `ai/resources`
+124. [Render](../../ai/resources/render.md) ([Source](https://gohugo.io/methods/page/render)) - `ai/resources`
+125. [News | Android Developers](../../ai/resources/news-android-developers.md) ([Source](https://developer.android.com/news)) - `ai/resources`
+126. [Framer - YouTube](../../ai/resources/framer-youtube.md) ([Source](https://youtube.com/@framer)) - `ai/resources`
+127. [typing/conformance at main · python/typing · GitHub](../../ai/resources/python-typing.md) ([Source](https://github.com/python/typing)) - `ai/resources`
+128. [Welcome to The Apache Software Foundation | Apache Software Foundation](../../ai/resources/welcome-to-the-apache-software-foundation-apache-s.md) ([Source](https://apache.org)) - `ai/resources`
+129. [Security Checkup](../../ai/resources/security-checkup.md) ([Source](https://myaccount.google.com/security-checkup)) - `ai/resources`
+130. [ParDo](../../ai/resources/pardo.md) ([Source](https://beam.apache.org/releases/javadoc/2.0.0/org/apache/beam/sdk/transforms/pardo.html)) - `ai/resources`
+131. [Configure security](../../ai/resources/configure-security.md) ([Source](https://gohugo.io/configuration/security)) - `ai/resources`
+132. [crypto.Hash](../../ai/resources/crypto-hash.md) ([Source](https://gohugo.io/functions/crypto/hash)) - `ai/resources`
+133. [langchainjs/docs/core_docs/docs at v0.3 · langchain-ai/langchainjs · GitHub](../../ai/resources/langchain-ai-langchainjs.md) ([Source](https://github.com/langchain-ai/langchainjs)) - `ai/resources`
+134. [alphaXiv - YouTube](../../ai/resources/alphaxiv-youtube.md) ([Source](https://youtube.com/@askalphaxiv)) - `ai/resources`
+135. [ML Kit | Google for Developers](../../ai/resources/ml-kit-google-for-developers.md) ([Source](https://developers.google.com/ml-kit)) - `ai/resources`
+136. [Git](../../ai/resources/git.md) ([Source](https://git-scm.com)) - `ai/resources`
+137. [News from arXiv – News and updates from arxiv.org](../../ai/resources/news-from-arxiv-news-and-updates-from-arxiv-org.md) ([Source](https://blog.arxiv.org)) - `ai/resources`
+138. [Google Issue Tracker](../../ai/resources/google-issue-tracker.md) ([Source](https://issuetracker.google.com/issues?q=status%3Aopen+componentid%3A190923)) - `ai/resources`
+139. [Client Challenge](../../ai/resources/client-challenge-2.md) ([Source](https://support.mozilla.org)) - `ai/resources`
+140. [Fast, disk space efficient package manager | pnpm](../../ai/resources/fast-disk-space-efficient-package-manager-pnpm.md) ([Source](https://pnpm.io)) - `ai/resources`
+141. [Privacy Checkup](../../ai/resources/privacy-checkup.md) ([Source](https://myaccount.google.com/privacycheckup)) - `ai/resources`
+142. [Installation — JupyterLab 4.7.0a1 documentation](../../ai/resources/installation-jupyterlab-4-6-0-documentation.md) ([Source](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html)) - `ai/resources`
+143. [SFI - Simons Foundation International](../../ai/resources/sfi-simons-foundation-international.md) ([Source](https://sfi.org.bm)) - `ai/resources`
+144. [superml-java/superml-core at master · supermlorg/superml-java · GitHub](../../ai/resources/supermlorg-superml-java.md) ([Source](https://github.com/supermlorg/superml-java)) - `ai/resources`
+145. [라떼군 이야기 - YouTube](../../ai/resources/raddegun-iyagi-youtube.md) ([Source](https://youtube.com/@mrlattestory)) - `ai/resources`
+146. [Find & control your Web & App Activity - Computer - Google Search Help](../../ai/resources/find-control-your-web-app-activity-computer-google.md) ([Source](https://support.google.com/websearch/answer/54068)) - `ai/resources`
+147. [Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation](../../ai/resources/project-jupyter-documentation-jupyter-documentatio.md) ([Source](https://docs.jupyter.org)) - `ai/resources`
+148. [Sphinx — Sphinx documentation](../../ai/resources/sphinx-sphinx-documentation.md) ([Source](https://sphinx-doc.org)) - `ai/resources`
+149. [Sign in to GitHub · GitHub](../../ai/resources/cloudflare-workers-sdk.md) ([Source](https://github.com/cloudflare/workers-sdk)) - `ai/resources`
+150. [âForbes App - App Store](../../ai/resources/aforbes-app-app-store.md) ([Source](https://apps.apple.com/app/apple-store/id1638757310?pt=220691&ct=Site_Global_Nav&mt=8)) - `ai/resources`
+151. [Control Your Online Safety and Privacy - Google Safety Center](../../ai/resources/control-your-online-safety-and-privacy-google-safe.md) ([Source](https://safety.google)) - `ai/resources`
+152. [Integrations | Astro](../../ai/resources/integrations-astro.md) ([Source](https://astro.build/integrations)) - `ai/resources`
+153. [Release v0.164.0 · gohugoio/hugo · GitHub](../../ai/resources/gohugoio-hugo.md) ([Source](https://github.com/gohugoio/hugo)) - `ai/resources`
+154. [ElevenLabs - YouTube](../../ai/resources/elevenlabs-youtube.md) ([Source](https://youtube.com/@elevenlabs?sub_confirmation=1)) - `ai/resources`
+155. [Manage your home area or current location for YouTube TV - Computer - YouTube TV Help](../../ai/resources/manage-your-home-area-or-current-location-for-yout.md) ([Source](https://support.google.com/youtubetv/answer/7129768?hl=en&ref_topic=7071745)) - `ai/resources`
+156. [Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers](../../ai/resources/performance-panel-analyze-your-website-s-performan.md) ([Source](https://developer.chrome.com/docs/devtools/performance/overview)) - `ai/resources`
+157. [Feedback!](../../ai/resources/feedback.md) ([Source](https://forms.gle/7gmvvjw6julp6ith7)) - `ai/resources`
+158. [Delete your Safari history, cache and cookies on iPhone – Apple Support (UK)](../../ai/resources/delete-your-safari-history-cache-and-cookies-on-ip.md) ([Source](https://support.apple.com/en-gb/105082)) - `ai/resources`
+159. [Overview Â· Cloudflare Workers AI docs](../../ai/rag/overview-a-cloudflare-workers-ai-docs.md) ([Source](https://developers.cloudflare.com/workers-ai)) - `ai/rag`
+160. [Chat LangChain](../../ai/rag/chat-langchain.md) ([Source](https://chat.langchain.com)) - `ai/rag`
+161. [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md) ([Source](https://github.com)) - `ai/rag`
+162. [Terms of Service](../../ai/rag/terms-of-service.md) ([Source](https://scite.ai/terms)) - `ai/rag`
+163. [Android is Compose-first | Jetpack Compose | Android Developers](../../ai/rag/android-is-compose-first-jetpack-compose-android-d.md) ([Source](https://developer.android.com/develop/ui/compose/first)) - `ai/rag`
+164. [Unified DevSecOps Solutions Built for Security | GitHub · GitHub](../../ai/rag/solutions-use-case.md) ([Source](https://github.com/solutions/use-case)) - `ai/rag`
+165. [Weaviate Database | Weaviate Documentation](../../ai/rag/weaviate-database-weaviate-documentation.md) ([Source](https://weaviate.io/developers/weaviate)) - `ai/rag`
+166. [Packaging Python Projects - Python Packaging User Guide](../../ai/rag/packaging-python-projects-python-packaging-user-gu.md) ([Source](https://packaging.python.org/tutorials/packaging-projects)) - `ai/rag`
+167. [Tune Gemini models by using supervised fine-tuning | Gemini Enterprise Agent Platform | Google Cloud Documentation](../../ai/rag/tune-gemini-models-by-using-supervised-fine-tuning.md) ([Source](https://cloud.google.com/gemini-enterprise-agent-platform/models/gemini-use-supervised-tuning)) - `ai/rag`
+168. [Introduction to tables | BigQuery | Google Cloud Documentation](../../ai/rag/introduction-to-tables-bigquery-google-cloud-docum.md) ([Source](https://cloud.google.com/bigquery/docs/tables-intro)) - `ai/rag`
+169. [LlamaIndex | AI Agents for Document OCR + Workflows](../../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md) ([Source](https://llamaindex.ai)) - `ai/rag`
+170. [Auto Classes · Hugging Face](../../ai/rag/huggingface-docs-transformers.md) ([Source](https://huggingface.co/docs/transformers)) - `ai/rag`
+171. [LlamaIndex - YouTube](../../ai/rag/llamaindex-youtube.md) ([Source](https://youtube.com/@llamaindex)) - `ai/rag`
+172. [Deep Agents Code - Docs by LangChain](../../ai/rag/deep-agents-code-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/deepagents/code/overview)) - `ai/rag`
+173. [Apache BeamÂ®](../../ai/rag/apache-beama-r.md) ([Source](https://beam.apache.org)) - `ai/rag`
+174. [YouTube TV Help](../../ai/rag/youtube-tv-help.md) ([Source](https://support.google.com/youtubetv)) - `ai/rag`
+175. [[2305.14314] QLoRA: Efficient Finetuning of Quantized LLMs](../../ai/rag/arxiv-2305-14314.md) ([Source](https://arxiv.org/abs/2305.14314)) - `ai/rag`
+176. [Google Terms of Service – Privacy & Terms – Google](../../ai/rag/google-terms-of-service-privacy-terms-google.md) ([Source](https://policies.google.com/terms)) - `ai/rag`
+177. [GitHub Features · GitHub](../../ai/rag/github-features-github.md) ([Source](https://github.com/features)) - `ai/rag`
+178. [Google Help](../../ai/rag/google-help.md) ([Source](https://support.google.com)) - `ai/rag`
+179. [Neon — Postgres backends for apps and agents](../../ai/rag/neon-postgres-backends-for-apps-and-agents.md) ([Source](https://neon.com)) - `ai/rag`
+180. [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md) ([Source](https://sysdebug.com/posts/rag-application-tutorial-production-guide)) - `ai/rag`
+181. [Gemini Code Assist overview | Google for Developers](../../ai/rag/gemini-code-assist-overview-google-for-developers.md) ([Source](https://developers.google.com/gemini-code-assist/docs/overview)) - `ai/rag`
+182. [AddyOsmani.com - Infinite Scroll without Layout Shifts](../../ai/rag/addyosmani-com-infinite-scroll-without-layout-shif.md) ([Source](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts)) - `ai/rag`
+183. [Send and update your data - Algolia](../../ai/rag/send-and-update-your-data-algolia.md) ([Source](https://algolia.com/doc/guides/sending-and-managing-data/send-and-update-your-data)) - `ai/rag`
+184. [Introduction to Haystack | Haystack Documentation](../../ai/rag/introduction-to-haystack-haystack-documentation.md) ([Source](https://docs.haystack.deepset.ai/docs/intro?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1781253286645.1781267739228.2&__hssc=17958374.1.1781267739228&__hsfp=3cf80f0816efe74df689359050c87c57)) - `ai/rag`
+185. [llama-index · PyPI](../../ai/rag/llama-index-pypi.md) ([Source](https://pypi.org/project/llama-index)) - `ai/rag`
+186. [Why Billionaire Wendy Schmidt Is ‘Doubling Down’ On Climate Science In The Age Of Trump](../../ai/rag/why-billionaire-wendy-schmidt-is-doubling-down-on.md) ([Source](https://forbes.com/sites/elisabethbrier/2025/09/18/why-billionaire-wendy-schmidt-is-doubling-down-on-climate-science-in-the-age-of-trump)) - `ai/rag`
+187. [Largest Contentful Paint (LCP) | Articles | web.dev](../../ai/rag/largest-contentful-paint-lcp-articles-web-dev.md) ([Source](https://web.dev/articles/lcp)) - `ai/rag`
+188. [(Deprecated) Android Room with a View - Kotlin | Android Developers](../../ai/rag/deprecated-android-room-with-a-view-kotlin-android.md) ([Source](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin)) - `ai/rag`
+189. [ScienceCast - Share Your Research](../../ai/rag/sciencecast-share-your-research.md) ([Source](https://sciencecast.org/welcome)) - `ai/rag`
+190. [Ragas](../../ai/rag/ragas.md) ([Source](https://docs.ragas.io)) - `ai/rag`
+191. [Indexing overview - Pinecone Docs](../../ai/rag/indexing-overview-pinecone-docs.md) ([Source](https://docs.pinecone.io/docs/namespaces)) - `ai/rag`
+192. [Jupyter Widgets — Jupyter Widgets 8.1.8 documentation](../../ai/rag/jupyter-widgets-jupyter-widgets-8-1-8-documentatio.md) ([Source](https://ipywidgets.readthedocs.io)) - `ai/rag`
+193. [Agentic IDEs and CLIs - Pinecone Docs](../../ai/rag/agentic-ides-and-clis-pinecone-docs.md) ([Source](https://docs.pinecone.io/guides/get-started/ai-coding-tools)) - `ai/rag`
+194. [Google's products and services - About Google](../../ai/rag/google-s-products-and-services-about-google.md) ([Source](https://about.google/products)) - `ai/rag`
+195. [Android Jetpack Dev Resources - Android Developers](../../ai/rag/android-jetpack-dev-resources-android-developers.md) ([Source](https://developer.android.com/jetpack)) - `ai/rag`
+196. [🧑‍🍳 Cookbook | Haystack](../../ai/rag/cookbook-haystack.md) ([Source](https://haystack.deepset.ai/cookbook)) - `ai/rag`
+197. [DagsHub: Everything you need to manage multimodal AI](../../ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md) ([Source](https://dagshub.com)) - `ai/rag`
+198. [Explore | alphaXiv](../../ai/rag/explore-alphaxiv.md) ([Source](https://alphaxiv.org)) - `ai/rag`
+199. [LangSmith Cloud changelog - Docs by LangChain](../../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md) ([Source](https://changelog.langchain.com)) - `ai/rag`
+200. [Cloudflare Developer Docs | Cloudflare Docs](../../ai/rag/cloudflare-developer-docs-cloudflare-docs.md) ([Source](https://developers.cloudflare.com)) - `ai/rag`
+201. [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md) ([Source](https://aidailypost.com/news/7-top-github-repos-offering-tutorials-code-master-rag-system)) - `ai/rag`
+202. [TXYZ - Integrate all paths to knowledge](../../ai/rag/txyz-integrate-all-paths-to-knowledge.md) ([Source](https://txyz.ai)) - `ai/rag`
+203. [Optimizing Databricks LLM Pipelines with DSPy | Databricks Blog](../../ai/rag/optimizing-databricks-llm-pipelines-with-dspy-data.md) ([Source](https://databricks.com/blog/optimizing-databricks-llm-pipelines-dspy)) - `ai/rag`
+204. [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../../ai/rag/resources-whitepapers.md) ([Source](https://github.com/resources/whitepapers)) - `ai/rag`
+205. [DSPy](../../ai/rag/dspy.md) ([Source](https://dspy.ai)) - `ai/rag`
+206. [MedGemma: Our most capable open models for health AI development](../../ai/rag/medgemma-our-most-capable-open-models-for-health-a.md) ([Source](https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development)) - `ai/rag`
+207. [Run Payments with Stripe | Firebase Extensions Hub](../../ai/rag/run-payments-with-stripe-firebase-extensions-hub.md) ([Source](https://extensions.dev/extensions/stripe/firestore-stripe-payments)) - `ai/rag`
+208. [GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](../../ai/rag/github-enterprise-the-ai-powered-developer-platfor.md) ([Source](https://github.com/enterprise)) - `ai/rag`
+209. [Pricing · Plans for every developer · GitHub](../../ai/rag/pricing-plans-for-every-developer-github.md) ([Source](https://github.com/pricing)) - `ai/rag`
+210. [The Shift from Models to Compound AI Systems – The Berkeley Artificial Intelligence Research Blog](../../ai/rag/the-shift-from-models-to-compound-ai-systems-the-b.md) ([Source](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems)) - `ai/rag`
+211. [DagsHub - YouTube](../../ai/rag/dagshub-youtube.md) ([Source](https://youtube.com/c/dagshub)) - `ai/rag`
+212. [Google Cloud Privacy Notice](../../ai/rag/google-cloud-privacy-notice.md) ([Source](https://cloud.google.com/terms/cloud-privacy-notice)) - `ai/rag`
+213. [NFL Sunday Ticket for Business](../../ai/rag/nfl-sunday-ticket-for-business.md) ([Source](https://everpass.com/live-sports/nfl-sunday-ticket)) - `ai/rag`
+214. [Open Source Guides | Learn how to launch and grow your project.](../../ai/rag/open-source-guides-learn-how-to-launch-and-grow-yo.md) ([Source](https://opensource.guide)) - `ai/rag`
+215. [SentenceTransformers Documentation — Sentence Transformers documentation](../../ai/rag/sentencetransformers-documentation-sentence-transf.md) ([Source](https://sbert.net)) - `ai/rag`
+216. [Create & manage a shared YouTube TV membership, or family group - YouTube TV Help](../../ai/rag/create-manage-a-shared-youtube-tv-membership-or-fa.md) ([Source](https://support.google.com/youtubetv/answer/7251139?hl=en)) - `ai/rag`
+217. [Intro | Zod](../../ai/rag/intro-zod.md) ([Source](https://zod.dev)) - `ai/rag`
+218. [Python Developer’s Guide](../../ai/rag/python-developers-guide.md) ([Source](https://devguide.python.org)) - `ai/rag`
+219. [Sponsor @jgm on GitHub Sponsors · GitHub](../../ai/rag/users-jgm.md) ([Source](https://github.com/users/jgm)) - `ai/rag`
+220. [Headless Adobe Commerce storefront (React, Next.js) — Headless Magento with GraphCommerce®](../../ai/rag/headless-adobe-commerce-storefront-react-next-js-h.md) ([Source](https://graphcommerce.org)) - `ai/rag`
+221. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
+222. [Your account is disabled - Google Account Help](../../ai/rag/your-account-is-disabled-google-account-help.md) ([Source](https://support.google.com/accounts/answer/40695)) - `ai/rag`
+223. [The browser that puts you first | Brave](../../ai/rag/the-browser-that-puts-you-first-brave.md) ([Source](https://brave.com)) - `ai/rag`
+224. [pandoc: Conversion between markup formats](../../ai/rag/pandoc-conversion-between-markup-formats.md) ([Source](https://hackage.haskell.org/package/pandoc)) - `ai/rag`
+225. [PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](../../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md) ([Source](https://peps.python.org)) - `ai/rag`
+226. [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../../ai/rag/universalrag-retrieval-augmented-generation-over-c.md) ([Source](https://universalrag.github.io)) - `ai/rag`
+227. [Pandoc - index](../../ai/rag/pandoc-index.md) ([Source](https://pandoc.org)) - `ai/rag`
+228. [Service Workers Nightly](../../ai/rag/service-workers-nightly.md) ([Source](https://w3c.github.io/serviceworker)) - `ai/rag`
+229. [YouTube Policies Crafted for Openness - How YouTube Works](../../ai/rag/youtube-policies-crafted-for-openness-how-youtube.md) ([Source](https://youtube.com/about/policies)) - `ai/rag`
+230. [Gradio](../../ai/rag/gradio.md) ([Source](https://gradio.app)) - `ai/rag`
+231. [deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub](../../ai/rag/langchain-ai-deepagents.md) ([Source](https://github.com/langchain-ai/deepagents)) - `ai/rag`
+232. [EverPass & DIRECTV FOR BUSINESS: NFL Sunday Ticket FAQs – EverPass](../../ai/rag/everpass-directv-for-business-nfl-sunday-ticket-fa.md) ([Source](https://help.everpass.com/hc/en-us/articles/42559597632535-everpass-directv-for-business-nfl-sunday-ticket-faqs)) - `ai/rag`
+233. [:has() CSS pseudo-class - CSS | MDN](../../ai/rag/has-css-pseudo-class-css-mdn.md) ([Source](https://developer.mozilla.org/docs/web/css/:has)) - `ai/rag`
+234. [Learning Center | Cloudflare](../../ai/rag/learning-center-cloudflare.md) ([Source](https://cloudflare.com/learning)) - `ai/rag`
+235. [Privacy Policy](../../ai/rag/privacy-policy.md) ([Source](https://scite.ai/policy)) - `ai/rag`
+236. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) ([Source](https://dasroot.net/posts/2026/03/python-rag-projects-github)) - `ai/rag`
+237. [GitHub Status](../../ai/rag/github-status.md) ([Source](https://githubstatus.com)) - `ai/rag`
+238. [WebdriverIO Â· Next-gen browser and mobile automation test framework for Node.js | WebdriverIO](../../ai/rag/webdriverio-a-next-gen-browser-and-mobile-automati.md) ([Source](https://webdriver.io)) - `ai/rag`
+239. [🧩 Integrations | Haystack](../../ai/rag/integrations-haystack.md) ([Source](https://haystack.deepset.ai/integrations)) - `ai/rag`
+240. [Firebase Authentication](../../ai/rag/firebase-authentication.md) ([Source](https://firebase.google.com/docs/auth)) - `ai/rag`
+241. [Introduction to materialized views | BigQuery | Google Cloud Documentation](../../ai/rag/introduction-to-materialized-views-bigquery-google.md) ([Source](https://cloud.google.com/bigquery/docs/materialized-views-intro)) - `ai/rag`
+242. [Sign up](../../ai/rag/sign-up.md) ([Source](https://login.llamaindex.ai/sign-up)) - `ai/rag`
+243. [Langfuse](../../ai/rag/langfuse.md) ([Source](https://langfuse.com)) - `ai/rag`
+244. [Overview - Knative](../../ai/rag/overview-knative.md) ([Source](https://knative.dev/docs)) - `ai/rag`
+245. [Android Mobile App Developer Tools - Android Developers](../../ai/rag/android-mobile-app-developer-tools-android-develop.md) ([Source](https://developer.android.com)) - `ai/rag`
+246. [typing â Support for type hints — Python 3.14.7 documentation](../../ai/rag/typing-a-support-for-type-hints-python-3-14-7-docu.md) ([Source](https://docs.python.org/3/library/typing.html)) - `ai/rag`
+247. [sanjeed5 (Sanjeed) · GitHub](../../ai/rag/sanjeed5-sanjeed-github.md) ([Source](https://github.com/sanjeed5)) - `ai/rag`
+248. [The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](../../ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md) ([Source](https://tv.youtube.com/learn/nflsundayticket)) - `ai/rag`
+249. [LangChain · GitHub](../../ai/rag/langchain-github.md) ([Source](https://github.com/langchain-ai)) - `ai/rag`
+250. [community · Discussions · GitHub](../../ai/rag/orgs-community.md) ([Source](https://github.com/orgs/community)) - `ai/rag`
+251. [Artificial Intelligence | web.dev](../../ai/rag/artificial-intelligence-web-dev.md) ([Source](https://web.dev/explore/ai)) - `ai/rag`
+252. [Stream Firestore to BigQuery | Firebase Extensions Hub](../../ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md) ([Source](https://extensions.dev/extensions/firebase/firestore-bigquery-export)) - `ai/rag`
+253. [Haystack Enterprise Starter](../../ai/rag/haystack-enterprise-starter.md) ([Source](https://deepset.ai/products-and-services/haystack-enterprise)) - `ai/rag`
+254. [VaultGemma: The world's most capable differentially private LLM](../../ai/rag/vaultgemma-the-world-s-most-capable-differentially.md) ([Source](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm)) - `ai/rag`
+255. [Vector embeddings | OpenAI API](../../ai/rag/vector-embeddings-openai-api.md) ([Source](https://platform.openai.com/docs/guides/embeddings)) - `ai/rag`
+256. [Weaviate vector database - YouTube](../../ai/rag/weaviate-vector-database-youtube.md) ([Source](https://youtube.com/@weaviate)) - `ai/rag`
+257. [Gemini Apps Privacy Hub - Gemini Apps Help](../../ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md) ([Source](https://support.google.com/gemini/answer/13594961)) - `ai/rag`
+258. [android Git repositories - Git at Google](../../ai/rag/android-git-repositories-git-at-google.md) ([Source](https://android.googlesource.com)) - `ai/rag`
+259. [Changelog - Docs by LangChain](../../ai/rag/changelog-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/javascript/releases/changelog)) - `ai/rag`
+260. [The vector database to build knowledgeable AI | Pinecone](../../ai/rag/the-vector-database-to-build-knowledgeable-ai-pine.md) ([Source](https://pinecone.io)) - `ai/rag`
+261. [Quickstart - Pinecone Docs](../../ai/rag/quickstart-pinecone-docs.md) ([Source](https://docs.pinecone.io/guides/get-started/quickstart)) - `ai/rag`
+262. [Spaces · Hugging Face](../../ai/rag/huggingface-docs-hub.md) ([Source](https://huggingface.co/docs/hub)) - `ai/rag`
+263. [Quickstart — Sentence Transformers documentation](../../ai/rag/quickstart-sentence-transformers-documentation.md) ([Source](https://sbert.net/docs/quickstart.html)) - `ai/rag`
+264. [Client libraries and Cloud APIs explained | Google Cloud SDK | Google Cloud Documentation](../../ai/rag/client-libraries-and-cloud-apis-explained-google-c.md) ([Source](https://cloud.google.com/apis/docs/client-libraries-explained)) - `ai/rag`
+265. [Pretrained Models — Sentence Transformers documentation](../../ai/rag/pretrained-models-sentence-transformers-documentat.md) ([Source](https://sbert.net/docs/sentence_transformer/pretrained_models.html)) - `ai/rag`
+266. [cwebp | WebP | Google for Developers](../../ai/rag/cwebp-webp-google-for-developers.md) ([Source](https://developers.google.com/speed/webp/docs/cwebp)) - `ai/rag`
+267. [Create an application using Apache Beam - Managed Service for Apache Flink](../../ai/rag/create-an-application-using-apache-beam-managed-se.md) ([Source](https://docs.aws.amazon.com/kinesisanalytics/latest/java/examples-beam.html)) - `ai/rag`
+268. [[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../../ai/rag/arxiv-2504-20734.md) ([Source](https://arxiv.org/abs/2504.20734)) - `ai/rag`
+269. [Privacy Policy – Privacy & Terms – Google](../../ai/rag/privacy-policy-privacy-terms-google.md) ([Source](https://policies.google.com/privacy)) - `ai/rag`
+270. [Machine Learning Glossary | Google for Developers](../../ai/rag/machine-learning-glossary-google-for-developers.md) ([Source](https://developers.google.com/machine-learning/glossary)) - `ai/rag`
+271. [Standard JSON Schema](../../ai/rag/standard-json-schema.md) ([Source](https://standardschema.dev/json-schema)) - `ai/rag`
+272. [ElevenLabs · GitHub](../../ai/rag/elevenlabs-github.md) ([Source](https://github.com/elevenlabs)) - `ai/rag`
+273. [7 Best GitHub Repositories For Mastering RAG Systems](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
+274. [Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](../../ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md) ([Source](https://deepset.ai/products-and-services/deepset-ai-platform)) - `ai/rag`
+275. [Home - Google Developers Blog](../../ai/rag/home-google-developers-blog.md) ([Source](https://developers.googleblog.com)) - `ai/rag`
+276. [Gemini 3.5 â Google DeepMind](../../ai/rag/gemini-3-5-a-google-deepmind.md) ([Source](https://deepmind.google/technologies/gemini)) - `ai/rag`
+277. [Cloud Firestore Data model | Firebase](../../ai/rag/cloud-firestore-data-model-firebase.md) ([Source](https://firebase.google.com/docs/firestore/data-model)) - `ai/rag`
+278. [Vespa Demos](../../ai/rag/vespa-demos.md) ([Source](https://vespa-demos.ai)) - `ai/rag`
+279. [Computers for agents · Fly](../../ai/rag/computers-for-agents-fly.md) ([Source](http://fly.io)) - `ai/rag`
+280. [sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu](../../ai/rag/huggingface-sentence-transformers.md) ([Source](https://github.com/huggingface/sentence-transformers)) - `ai/rag`
+281. [Overview of Extract | Developer Documentation](../../ai/rag/overview-of-extract-developer-documentation.md) ([Source](https://docs.cloud.llamaindex.ai/llamaextract/getting_started)) - `ai/rag`
+282. [Configure markup](../../ai/rag/configure-markup.md) ([Source](https://gohugo.io/configuration/markup)) - `ai/rag`
+283. [Using a knowledge graph to implement a RAG application](../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
+284. [[2410.05779] LightRAG: Simple and Fast Retrieval-Augmented Generation](../../ai/rag/arxiv-2410-05779.md) ([Source](https://arxiv.org/abs/2410.05779)) - `ai/rag`
+285. [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md) ([Source](https://huggingface.co/sentence-transformers/msmarco-bert-base-dot-v5)) - `ai/rag`
+286. [LangChain overview - Docs by LangChain](../../ai/rag/langchain-overview-docs-by-langchain.md) ([Source](https://js.langchain.com)) - `ai/rag`
+287. [Category Taxonomy](../../ai/rag/category-taxonomy.md) ([Source](https://arxiv.org/category_taxonomy)) - `ai/rag`
+288. [Getting Started | Electron Forge](../../ai/rag/getting-started-electron-forge.md) ([Source](https://electronforge.io)) - `ai/rag`
+289. [astro/CONTRIBUTING.md at main · withastro/astro · GitHub](../../ai/rag/withastro-astro.md) ([Source](https://github.com/withastro/astro)) - `ai/rag`
+290. [npm Status](../../ai/rag/npm-status.md) ([Source](https://status.npmjs.com)) - `ai/rag`
+291. [Mac - Apple](../../ai/rag/mac-apple.md) ([Source](https://apple.com/mac)) - `ai/rag`
+292. [The WebM Project | Developer Overview](../../ai/rag/the-webm-project-developer-overview.md) ([Source](https://webmproject.org/code)) - `ai/rag`
+293. [Configure imaging](../../ai/rag/configure-imaging.md) ([Source](https://gohugo.io/configuration/imaging)) - `ai/rag`
+294. [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md) ([Source](https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide)) - `ai/rag`
+295. [Configuring setuptools using pyproject.toml files - setuptools 84.0.0 documentation](../../ai/rag/configuring-setuptools-using-pyproject-toml-files.md) ([Source](https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html)) - `ai/rag`
+296. [GitHub Universe 2026](../../ai/rag/github-universe-2026.md) ([Source](https://githubuniverse.com)) - `ai/rag`
+297. [Llama Hub](../../ai/rag/llama-hub.md) ([Source](https://llamahub.ai)) - `ai/rag`
+298. [Code Llama: Open Foundation Models for Code | Research - AI at Meta](../../ai/rag/code-llama-open-foundation-models-for-code-researc.md) ([Source](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code)) - `ai/rag`
+299. [Gemini Code Assist for teams and businesses](../../ai/rag/gemini-code-assist-for-teams-and-businesses.md) ([Source](https://cloud.google.com/products/gemini/code-assist)) - `ai/rag`
+300. [Fast and reliable end-to-end testing for modern web apps | Playwright](../../ai/rag/fast-and-reliable-end-to-end-testing-for-modern-we.md) ([Source](https://playwright.dev)) - `ai/rag`
+301. [LlamaIndex · GitHub](../../ai/rag/llamaindex-github.md) ([Source](https://github.com/run-llama)) - `ai/rag`
+302. [Legal - App Store & Privacy- Apple](../../ai/rag/legal-app-store-privacy-apple.md) ([Source](https://apple.com/legal/privacy/data/en/app-store)) - `ai/rag`
+303. [Forbes - PARS](../../ai/rag/forbes-pars.md) ([Source](https://parsintl.com/publications/forbes)) - `ai/rag`
+304. [TruLens: Evals and Tracing for AI Agents](../../ai/rag/trulens-evals-and-tracing-for-agents.md) ([Source](https://trulens.org)) - `ai/rag`
+305. [Download Android Studio & App Tools - Android Developers](../../ai/rag/download-android-studio-app-tools-android-develope.md) ([Source](https://developer.android.com/studio)) - `ai/rag`
+306. [The latest on DevSecOps - The GitHub Blog](../../ai/rag/the-latest-on-devsecops-the-github-blog.md) ([Source](https://github.blog/enterprise-software/devsecops)) - `ai/rag`
+307. [Jupyter AI](../../ai/rag/jupyter-ai.md) ([Source](https://jupyter-ai.readthedocs.io/en/latest)) - `ai/rag`
+308. [Get our developer newsletter · GitHub](../../ai/rag/get-our-developer-newsletter-github.md) ([Source](https://resources.github.com/newsletter)) - `ai/rag`
+309. [RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog](../../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md) ([Source](https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources)) - `ai/rag`
+310. [Keras 2 <> Keras 3 incompatibilities · Issue #18467 · keras-team/keras · GitHub](../../ai/rag/keras-team-keras.md) ([Source](https://github.com/keras-team/keras)) - `ai/rag`
+311. [Cloudflare Status](../../ai/rag/cloudflare-status.md) ([Source](https://cloudflarestatus.com)) - `ai/rag`
+312. [Functional programming - Wikipedia](../../ai/rag/functional-programming-wikipedia.md) ([Source](https://en.wikipedia.org/wiki/functional_programming)) - `ai/rag`
+313. [Keras: Deep Learning for humans](../../ai/rag/keras-deep-learning-for-humans.md) ([Source](https://keras.io/keras_3)) - `ai/rag`
+314. [PEFT · Hugging Face](../../ai/rag/huggingface-docs-peft.md) ([Source](https://huggingface.co/docs/peft)) - `ai/rag`
+315. [AI for Research | Scite](../../ai/rag/scite-ai-for-research.md) ([Source](https://scite.ai)) - `ai/rag`
+316. [MongoDB Compass | MongoDB](../../ai/rag/mongodb-compass-mongodb.md) ([Source](https://mongodb.com/products/compass)) - `ai/rag`
+317. [Cache - Web APIs | MDN](../../ai/rag/cache-web-apis-mdn.md) ([Source](https://developer.mozilla.org/docs/web/api/cache)) - `ai/rag`
+318. [Gemini in Android Studio - Android Developers](../../ai/rag/gemini-in-android-studio-android-developers.md) ([Source](https://developer.android.com/gemini-in-android)) - `ai/rag`
+319. [GitHub Security · GitHub](../../ai/rag/github-security-github.md) ([Source](https://github.com/security)) - `ai/rag`
+320. [Subresource Integrity](../../ai/rag/subresource-integrity.md) ([Source](https://w3c.github.io/webappsec/specs/subresourceintegrity)) - `ai/rag`
+321. [Expert Services | GitHub · GitHub](../../ai/rag/expert-services-github-github.md) ([Source](https://services.github.com)) - `ai/rag`
+322. [Former Google CEO plans to singlehandedly fund a Hubble telescope replacement - Ars Technica](../../ai/rag/former-google-ceo-plans-to-singlehandedly-fund-a-h.md) ([Source](https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement)) - `ai/rag`
+323. [pnpm - Open Collective](../../ai/rag/pnpm-open-collective.md) ([Source](https://opencollective.com/pnpm)) - `ai/rag`
+324. [[2510.08847] What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment](../../ai/rag/arxiv-2510-08847.md) ([Source](https://arxiv.org/abs/2510.08847)) - `ai/rag`
+325. [[2407.10930] Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](../../ai/rag/arxiv-2407-10930.md) ([Source](https://arxiv.org/abs/2407.10930)) - `ai/rag`
+326. [LangSmith Observability - Docs by LangChain](../../ai/rag/langsmith-observability-docs-by-langchain.md) ([Source](https://docs.langchain.com/langsmith/home)) - `ai/rag`
+327. [Styles and CSS | Docs](../../ai/rag/styles-and-css-docs.md) ([Source](https://docs.astro.build/en/guides/styling)) - `ai/rag`
+328. [Google Account Help](../../ai/rag/google-account-help.md) ([Source](https://support.google.com/accounts?hl=en_US)) - `ai/rag`
+329. [Cloud Storage for Firebase | Store and serve content with ease](../../ai/rag/cloud-storage-for-firebase-store-and-serve-content.md) ([Source](https://firebase.google.com/products/storage)) - `ai/rag`
+330. [Delete, allow, and manage cookies in Chrome - Computer - Google Chrome Help](../../ai/rag/delete-allow-and-manage-cookies-in-chrome-computer.md) ([Source](https://support.google.com/chrome/answer/95647)) - `ai/rag`
+331. [Pinecone · GitHub](../../ai/rag/pinecone-github.md) ([Source](https://github.com/pinecone-io)) - `ai/rag`
+332. [YouTube TV - Watch & DVR Live Sports, Shows & News](../../ai/rag/youtube-tv-watch-dvr-live-sports-shows-news.md) ([Source](https://tv.youtube.com)) - `ai/rag`
+333. [Chunking Strategies for LLM Applications | Pinecone](../../ai/rag/chunking-strategies-for-llm-applications-pinecone.md) ([Source](https://pinecone.io/learn/chunking-strategies)) - `ai/rag`
+334. [Scite – Research Solutions Help & Support Center](../../ai/rag/scite-research-solutions-help-support-center.md) ([Source](https://help.researchsolutions.com/hc/en-us/categories/31947397460116-scite)) - `ai/rag`
+335. [JavaScript data types and data structures - JavaScript | MDN](../../ai/rag/javascript-data-types-and-data-structures-javascri.md) ([Source](https://developer.mozilla.org/docs/web/javascript/data_structures)) - `ai/rag`
+336. [Unlocking the power of unstructured data with RAG - The GitHub Blog](../../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md) ([Source](https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag)) - `ai/rag`
+337. [Introduction to R Programming | DataCamp](../../ai/rag/introduction-to-r-programming-datacamp.md) ([Source](https://datacamp.com/courses/free-introduction-to-r)) - `ai/rag`
+338. [Home - The GitHub Blog](../../ai/rag/home-the-github-blog.md) ([Source](https://github.blog)) - `ai/rag`
+339. [Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥](../../ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md) ([Source](https://firecrawl.dev/blog)) - `ai/rag`
+340. [[1907.12748] Influence Flowers of Academic Entities](../../ai/rag/arxiv-1907-12748.md) ([Source](https://arxiv.org/abs/1907.12748)) - `ai/rag`
+341. [Gemma â Google DeepMind](../../ai/rag/gemma-a-google-deepmind.md) ([Source](https://deepmind.google/models/gemma)) - `ai/rag`
+342. [Transformers.js · Hugging Face](../../ai/rag/huggingface-docs-transformers-js.md) ([Source](https://huggingface.co/docs/transformers.js)) - `ai/rag`
+343. [Transparency Center - Google Product Policies and Policy Areas](../../ai/rag/transparency-center-google-product-policies-and-po.md) ([Source](https://transparency.google)) - `ai/rag`
+344. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source](https://llamaindex.ai/llamaparse)) - `ai/rag`
+345. [Safeguarding your data - Analytics Help](../../ai/rag/safeguarding-your-data-analytics-help.md) ([Source](https://support.google.com/analytics/answer/6004245?hl=en)) - `ai/rag`
+346. [Colab | Google for Developers](../../ai/rag/colab-google-for-developers.md) ([Source](https://colab.google)) - `ai/rag`
+347. [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md) ([Source](https://aimultiple.com/rag-evaluation-tools)) - `ai/rag`
+348. [Building RAG Systems from Scratch: A Practical Guide | Md. Zahid Hasan](../../ai/rag/building-rag-systems-from-scratch-a-practical-guid.md) ([Source](https://z4hid.github.io/blog/building-rag-systems-from-scratch)) - `ai/rag`
+349. [Binaries · openssl/openssl Wiki · GitHub](../../ai/rag/openssl-openssl.md) ([Source](https://github.com/openssl/openssl)) - `ai/rag`
+350. [Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube](../../ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md) ([Source](https://youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY)) - `ai/rag`
+351. [Quickstart | Milvus Documentation](../../ai/rag/quickstart-milvus-documentation.md) ([Source](https://milvus.io/docs/example_code.md)) - `ai/rag`
+352. [Haystack | Haystack](../../ai/rag/haystack-haystack.md) ([Source](https://haystack.deepset.ai)) - `ai/rag`
+353. [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](../../ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md) ([Source](https://docs.cloud.deepset.ai/docs/getting-started?__hstc=17958374.34708e2a09562f4972500c174140941c.1781253286645.1782744530064.1782887335051.6&__hssc=17958374.15.1782887335051&__hsfp=f0d584f5cf03caae536faced7333acfe)) - `ai/rag`
+354. [What is artificial intelligence? | web.dev](../../ai/rag/what-is-artificial-intelligence-web-dev.md) ([Source](https://web.dev/articles/ai-overview)) - `ai/rag`
+355. [Improve performance and UX for client-side AI | web.dev](../../ai/rag/improve-performance-and-ux-for-client-side-ai-web.md) ([Source](https://web.dev/articles/client-side-ai-performance)) - `ai/rag`
+356. [Gemini Nano | AI | Android Developers](../../ai/rag/gemini-nano-ai-android-developers.md) ([Source](https://developer.android.com/ai/gemini-nano)) - `ai/rag`
+357. [LightRAG](../../ai/rag/lightrag.md) ([Source](https://lightrag.github.io)) - `ai/rag`
+358. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
+359. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
+360. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
+361. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
+362. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
+363. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
+364. [lpiccinelli/unidepth-v2-vitl14](../../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md) ([Source](https://huggingface.co/lpiccinelli/unidepth-v2-vitl14)) - `ai/models`
+365. [amazon/chronos-2](../../ai/models/huggingface-amazon-chronos-2.md) ([Source](https://huggingface.co/amazon/chronos-2)) - `ai/models`
+366. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
+367. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
+368. [k9cli/video-vec2wav2-tokenizer](../../ai/models/huggingface-datasets-k9cli.md) ([Source](https://huggingface.co/datasets/k9cli)) - `ai/models`
+369. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
+370. [anisoleai/fineweb-tokenized](../../ai/models/huggingface-datasets-anisoleai.md) ([Source](https://huggingface.co/datasets/anisoleai)) - `ai/models`
+371. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
+372. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
+373. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
+374. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
+375. [allenai/c4](../../ai/models/huggingface-datasets-allenai.md) ([Source](https://huggingface.co/datasets/allenai)) - `ai/models`
+376. [banned-historical-archives/banned-historical-archives](../../ai/models/huggingface-datasets-banned-historical-archives.md) ([Source](https://huggingface.co/datasets/banned-historical-archives)) - `ai/models`
+377. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
+378. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
+379. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
+380. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
+381. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
+382. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
+383. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
+384. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
+385. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
+386. [facebook/MusicGen](../../ai/models/huggingface-spaces-facebook.md) ([Source](https://huggingface.co/spaces/facebook)) - `ai/models`
+387. [Making Navigations Instant in v0](../../ai/agents/making-navigations-instant-in-v0.md) ([Source](https://nextjs.org/blog/making-v0-navigations-instant)) - `ai/agents`
+388. [Next.js 16.3](../../ai/agents/next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3)) - `ai/agents`
+389. [July 2026 Security Release](../../web-development/nextjs/july-2026-security-release.md) ([Source](https://nextjs.org/blog/july-2026-security-release)) - `web-development/nextjs`
+390. [Next.js Security Release and Our Next Patch Release](../../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md) ([Source](https://nextjs.org/blog/next-security-release-program)) - `web-development/nextjs`
+391. [Turbopack: What's New in Next.js 16.3](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3-turbopack)) - `web-development/nextjs`
+392. [Next.js 16.3: AI Improvements](../../ai/agents/next-js-16-3-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-3-ai-improvements)) - `ai/agents`
+393. [Next.js 16.3: Instant Navigations](../../web-development/nextjs/next-js-16-3-instant-navigations.md) ([Source](https://nextjs.org/blog/next-16-3-instant-navigations)) - `web-development/nextjs`
+394. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
+395. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
+396. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
+397. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
+398. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
 399. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
-400. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
-401. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
-402. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
-403. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
-404. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
-405. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
-406. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
-407. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
-408. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
-409. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
-410. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
-411. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
-412. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
-413. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
-414. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
-415. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
-416. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
-417. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
-418. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
-419. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
-420. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
-421. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
-422. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
-423. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
-424. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
-425. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
-426. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
-427. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
-428. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
-429. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
-430. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
-431. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
-432. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
-433. [Next.js Security Release and Our Next Patch Release](../../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md) ([Source](https://nextjs.org/blog/next-security-release-program)) - `web-development/nextjs`
-434. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
-435. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
-436. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
-437. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
-438. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
-439. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
-440. [July 2026 Security Release](../../web-development/nextjs/july-2026-security-release.md) ([Source](https://nextjs.org/blog/july-2026-security-release)) - `web-development/nextjs`
-441. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
-442. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
-443. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
-444. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
-445. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
-446. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
-447. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
-448. [Making Navigations Instant in v0](../../ai/agents/making-navigations-instant-in-v0.md) ([Source](https://nextjs.org/blog/making-v0-navigations-instant)) - `ai/agents`
-449. [Next.js 16.3: AI Improvements](../../ai/agents/next-js-16-3-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-3-ai-improvements)) - `ai/agents`
-450. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
-451. [Next.js 16.3](../../ai/agents/next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3)) - `ai/agents`
-452. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
-453. [facebook/MusicGen](../../ai/models/huggingface-spaces-facebook.md) ([Source](https://huggingface.co/spaces/facebook)) - `ai/models`
-454. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
-455. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
-456. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
-457. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
-458. [lpiccinelli/unidepth-v2-vitl14](../../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md) ([Source](https://huggingface.co/lpiccinelli/unidepth-v2-vitl14)) - `ai/models`
-459. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
-460. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
-461. [amazon/chronos-2](../../ai/models/huggingface-amazon-chronos-2.md) ([Source](https://huggingface.co/amazon/chronos-2)) - `ai/models`
-462. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
-463. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
-464. [anisoleai/fineweb-tokenized](../../ai/models/huggingface-datasets-anisoleai.md) ([Source](https://huggingface.co/datasets/anisoleai)) - `ai/models`
-465. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
-466. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
-467. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
-468. [allenai/c4](../../ai/models/huggingface-datasets-allenai.md) ([Source](https://huggingface.co/datasets/allenai)) - `ai/models`
-469. [k9cli/video-vec2wav2-tokenizer](../../ai/models/huggingface-datasets-k9cli.md) ([Source](https://huggingface.co/datasets/k9cli)) - `ai/models`
-470. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
-471. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
-472. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
-473. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
-474. [banned-historical-archives/banned-historical-archives](../../ai/models/huggingface-datasets-banned-historical-archives.md) ([Source](https://huggingface.co/datasets/banned-historical-archives)) - `ai/models`
-475. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
-476. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
-477. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
-478. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
-479. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
-480. [Sunsetting Create React App](../../ai/rag/sunsetting-create-react-app.md) ([Source](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)) - `ai/rag`
-481. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
-482. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
+400. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
+401. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
+402. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
+403. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
+404. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
+405. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
+406. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
+407. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
+408. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
+409. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
+410. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
+411. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
+412. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
+413. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
+414. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
+415. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
+416. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
+417. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
+418. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
+419. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
+420. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
+421. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
+422. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
+423. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
+424. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
+425. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
+426. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
+427. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
+428. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
+429. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
+430. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
+431. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
+432. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
+433. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
+434. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
+435. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
+436. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
+437. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
+438. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
+439. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
+440. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
+441. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
+442. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
+443. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
+444. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
+445. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
+446. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
+447. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
+448. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
+449. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
+450. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
+451. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
+452. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
+453. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
+454. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
+455. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
+456. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
+457. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
+458. [The React Foundation: A New Home for React Hosted by the Linux Foundation](../../web-development/the-react-foundation-a-new-home-for-react-hosted-b.md) ([Source](https://react.dev/blog/2026/02/24/the-react-foundation)) - `web-development`
+459. [Denial of Service and Source Code Exposure in React Server Components](../../web-development/denial-of-service-and-source-code-exposure-in-reac.md) ([Source](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)) - `web-development`
+460. [Critical Security Vulnerability in React Server Components](../../web-development/critical-security-vulnerability-in-react-server-co.md) ([Source](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)) - `web-development`
+461. [React Conf 2025 Recap](../../web-development/react-conf-2025-recap.md) ([Source](https://react.dev/blog/2025/10/16/react-conf-2025-recap)) - `web-development`
+462. [React Compiler v1.0](../../web-development/react-compiler-v1-0.md) ([Source](https://react.dev/blog/2025/10/07/react-compiler-1)) - `web-development`
+463. [Introducing the React Foundation](../../web-development/introducing-the-react-foundation.md) ([Source](https://react.dev/blog/2025/10/07/introducing-the-react-foundation)) - `web-development`
+464. [React 19.2](../../web-development/react-19-2.md) ([Source](https://react.dev/blog/2025/10/01/react-19-2)) - `web-development`
+465. [React Labs: View Transitions, Activity, and more](../../web-development/react-labs-view-transitions-activity-and-more.md) ([Source](https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more)) - `web-development`
+466. [Sunsetting Create React App](../../ai/rag/sunsetting-create-react-app.md) ([Source](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)) - `ai/rag`
+467. [React v19](../../web-development/react-v19.md) ([Source](https://react.dev/blog/2024/12/05/react-19)) - `web-development`
+468. [React Compiler Beta Release](../../web-development/react-compiler-beta-release.md) ([Source](https://react.dev/blog/2024/10/21/react-compiler-beta-release)) - `web-development`
+469. [React Conf 2024 Recap](../../web-development/react-conf-2024-recap.md) ([Source](https://react.dev/blog/2024/05/22/react-conf-2024-recap)) - `web-development`
+470. [React 19 Upgrade Guide](../../web-development/react-19-upgrade-guide.md) ([Source](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)) - `web-development`
+471. [React Labs: What We've Been Working On – February 2024](../../web-development/react-labs-what-we-ve-been-working-on-february-202.md) ([Source](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)) - `web-development`
+472. [React Canaries: Enabling Incremental Feature Rollout Outside Meta](../../web-development/react-canaries-enabling-incremental-feature-rollou.md) ([Source](https://react.dev/blog/2023/05/03/react-canaries)) - `web-development`
+473. [React Labs: What We've Been Working On – March 2023](../../web-development/react-labs-what-we-ve-been-working-on-march-2023.md) ([Source](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)) - `web-development`
+474. [Introducing react.dev](../../web-development/introducing-react-dev.md) ([Source](https://react.dev/blog/2023/03/16/introducing-react-dev)) - `web-development`
+475. [React Labs: What We've Been Working On – June 2022](../../web-development/react-labs-what-we-ve-been-working-on-june-2022.md) ([Source](https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022)) - `web-development`
+476. [React v18.0](../../web-development/react-v18-0.md) ([Source](https://react.dev/blog/2022/03/29/react-v18)) - `web-development`
+477. [How to Upgrade to React 18](../../web-development/how-to-upgrade-to-react-18.md) ([Source](https://react.dev/blog/2022/03/08/react-18-upgrade-guide)) - `web-development`
+478. [React Conf 2021 Recap](../../web-development/react-conf-2021-recap.md) ([Source](https://react.dev/blog/2021/12/17/react-conf-2021-recap)) - `web-development`
+479. [The Plan for React 18](../../web-development/the-plan-for-react-18.md) ([Source](https://react.dev/blog/2021/06/08/the-plan-for-react-18)) - `web-development`
+480. [Introducing Zero-Bundle-Size React Server Components](../../web-development/introducing-zero-bundle-size-react-server-componen.md) ([Source](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)) - `web-development`
 
 ## Weekly Research Insights
 
@@ -1716,1171 +1714,1171 @@ This week had strong activity around frontend tools.
 1172. [A New First-Order Meta-Learning Algorithm with Convergence Guarantees](../../ai/rag/arxiv-2409-03682.md) ([Source](https://arxiv.org/abs/2409.03682)) - `ai/rag`
 1173. [Program Semantic Inequivalence Game with Large Language Models](../../ai/agents/arxiv-2505-03818.md) ([Source](https://arxiv.org/abs/2505.03818)) - `ai/agents`
 1174. [Computational Algebra with Attention: Transformer Oracles for Border Basis Algorithms](../../ai/research/arxiv-2505-23696.md) ([Source](https://arxiv.org/abs/2505.23696)) - `ai/research`
-1175. [Learning Multi-Timescale Interventions under Safety and Resource Constraints](../../ai/agents/arxiv-2508-03875.md) ([Source](https://arxiv.org/abs/2508.03875)) - `ai/agents`
-1176. [Local Cluster Cardinality Estimation for Adaptive Mean Shift](../../ai/research/arxiv-2508-12450.md) ([Source](https://arxiv.org/abs/2508.12450)) - `ai/research`
-1177. [Patch-based Memory Gate Model in Time Series Foundation Model](../../ai/research/arxiv-2509-18751.md) ([Source](https://arxiv.org/abs/2509.18751)) - `ai/research`
-1178. [Variational Mixture of Graph Neural Experts for Alzheimer's Disease Recognition across Frequency Bands in EEG Brain Networks](../../ai/research/arxiv-2510-11917.md) ([Source](https://arxiv.org/abs/2510.11917)) - `ai/research`
-1179. [Adaptive Online Learning with LSTM Networks for Energy Price Prediction](../../ai/rag/arxiv-2510-16898.md) ([Source](https://arxiv.org/abs/2510.16898)) - `ai/rag`
-1180. [Reliable Inference in Edge-Cloud Model Cascades via Conformal Alignment](../../ai/rag/arxiv-2510-17543.md) ([Source](https://arxiv.org/abs/2510.17543)) - `ai/rag`
-1181. [LoRAQuant: Mixed-Precision Quantization of LoRA to Ultra-Low Bits](../../ai/research/arxiv-2510-26690.md) ([Source](https://arxiv.org/abs/2510.26690)) - `ai/research`
-1182. [Accelerating Time Series Foundation Models with Speculative Decoding](../../ai/research/arxiv-2511-18191.md) ([Source](https://arxiv.org/abs/2511.18191)) - `ai/research`
-1183. [BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents](../../ai/rag/arxiv-2511-20597.md) ([Source](https://arxiv.org/abs/2511.20597)) - `ai/rag`
-1184. [A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation](../../ai/research/arxiv-2512-06547.md) ([Source](https://arxiv.org/abs/2512.06547)) - `ai/research`
-1185. [Grounding Large Language Models as Generalizable Policies in Network Control](../../ai/research/arxiv-2512-11839.md) ([Source](https://arxiv.org/abs/2512.11839)) - `ai/research`
-1186. [Federated Learning for the Design of Parametric Insurance Indices under Heterogeneous Renewable Production Losses](../../ai/rag/arxiv-2601-12178.md) ([Source](https://arxiv.org/abs/2601.12178)) - `ai/rag`
-1187. [Probably Approximately Correct Maximum A Posteriori Inference](../../ai/research/arxiv-2601-16083.md) ([Source](https://arxiv.org/abs/2601.16083)) - `ai/research`
-1188. [Superposition Without Interference? Towards Isolated Interventions via Almost Orthogonal Features in Language Models](../../ai/research/arxiv-2602-04718.md) ([Source](https://arxiv.org/abs/2602.04718)) - `ai/research`
-1189. [A Theoretical Framework for Modular Learning of Robust Generative Models](../../ai/research/arxiv-2602-17554.md) ([Source](https://arxiv.org/abs/2602.17554)) - `ai/research`
-1190. [Representation Finetuning for Continual Learning](../../ai/research/arxiv-2603-11201.md) ([Source](https://arxiv.org/abs/2603.11201)) - `ai/research`
-1191. [Stochastic Dimension Zeroth-Order Estimator: Stable and Memory-Efficient Training of PINNs](../../ai/rag/arxiv-2603-24002.md) ([Source](https://arxiv.org/abs/2603.24002)) - `ai/rag`
-1192. [Weaves, Wires, and Morphisms: Formalizing and Implementing the Algebra of Deep Learning](../../ai/research/arxiv-2604-07242.md) ([Source](https://arxiv.org/abs/2604.07242)) - `ai/research`
-1193. [Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection](../../ai/research/arxiv-2604-22753.md) ([Source](https://arxiv.org/abs/2604.22753)) - `ai/research`
-1194. [Optimized Deferral for Imbalanced Settings](../../ai/rag/arxiv-2604-27723.md) ([Source](https://arxiv.org/abs/2604.27723)) - `ai/rag`
-1195. [Mind the Gap: Structure-Aware Consistency in Preference Learning](../../ai/research/arxiv-2604-27733.md) ([Source](https://arxiv.org/abs/2604.27733)) - `ai/research`
-1196. [Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../../ai/research/arxiv-2604-27742.md) ([Source](https://arxiv.org/abs/2604.27742)) - `ai/research`
-1197. [Analytic Bridge Diffusions for Controlled Path Generation](../../ai/research/arxiv-2605-02961.md) ([Source](https://arxiv.org/abs/2605.02961)) - `ai/research`
-1198. [Pretraining large language models with MXFP4 on Native FP4 Hardware](../../ai/research/arxiv-2605-09825.md) ([Source](https://arxiv.org/abs/2605.09825)) - `ai/research`
-1199. [Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../../ai/research/arxiv-2606-00304.md) ([Source](https://arxiv.org/abs/2606.00304)) - `ai/research`
-1200. [Planar Symmetric Pattern Generation](../../ai/research/arxiv-2606-02073.md) ([Source](https://arxiv.org/abs/2606.02073)) - `ai/research`
-1201. [Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning](../../ai/agents/arxiv-2606-04923.md) ([Source](https://arxiv.org/abs/2606.04923)) - `ai/agents`
-1202. [Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models](../../ai/research/arxiv-2606-07303.md) ([Source](https://arxiv.org/abs/2606.07303)) - `ai/research`
-1203. [Detecting Explanatory Insufficiency in Learned Representations: A Framework for Representational Vigilance](../../ai/research/arxiv-2606-13172.md) ([Source](https://arxiv.org/abs/2606.13172)) - `ai/research`
-1204. [ATMA: Long-Context Language Modeling via Polar Attention and Gated-Delta Compression Memory](../../ai/research/arxiv-2606-25156.md) ([Source](https://arxiv.org/abs/2606.25156)) - `ai/research`
-1205. [Prompt-Driven Exploration](../../ai/research/arxiv-2607-08837.md) ([Source](https://arxiv.org/abs/2607.08837)) - `ai/research`
-1206. [Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity](../../ai/research/arxiv-2607-12269.md) ([Source](https://arxiv.org/abs/2607.12269)) - `ai/research`
-1207. [Gauge-Fixing the Forward-Forward Objective: A Whitened Goodness Derived from a Likelihood-Ratio Account](../../ai/research/arxiv-2607-12501.md) ([Source](https://arxiv.org/abs/2607.12501)) - `ai/research`
-1208. [Agentic Bayesian Optimization through Surrogate-Augmented Autoresearch](../../ai/agents/arxiv-2608-00316.md) ([Source](https://arxiv.org/abs/2608.00316)) - `ai/agents`
-1209. [Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning](../../ai/research/arxiv-2608-02168.md) ([Source](https://arxiv.org/abs/2608.02168)) - `ai/research`
-1210. [Unscented KalmanNet: Structure-Preserving Deep Learning with Calibrated Posterior Uncertainty under Incomplete Physics and Unknown Noise](../../ai/rag/arxiv-2608-04201.md) ([Source](https://arxiv.org/abs/2608.04201)) - `ai/rag`
-1211. [Continual Learning in Transition](../../ai/research/arxiv-2608-06216.md) ([Source](https://arxiv.org/abs/2608.06216)) - `ai/research`
-1212. [ED-CSP: Crystal Structure Prediction from Electron Diffraction](../../ai/research/arxiv-2608-06448.md) ([Source](https://arxiv.org/abs/2608.06448)) - `ai/research`
-1213. [Causal State-Space Model for Causal Inference: Estimating Longitudinal Individual Treatment Effects](../../ai/rag/arxiv-2608-08288.md) ([Source](https://arxiv.org/abs/2608.08288)) - `ai/rag`
-1214. [CurveFP: Co-Designing Numerical Representation and Product Arithmetic for Language Models](../../ai/research/arxiv-2608-10010.md) ([Source](https://arxiv.org/abs/2608.10010)) - `ai/research`
-1215. [Do Judges Behave Like Algorithms?](../../ai/research/arxiv-2608-10400.md) ([Source](https://arxiv.org/abs/2608.10400)) - `ai/research`
-1216. [Optimize Cheap, Deploy Strong: Cost-Aware Cross-Tier Transfer for Evolutionary Optimization](../../ai/agents/arxiv-2608-10694.md) ([Source](https://arxiv.org/abs/2608.10694)) - `ai/agents`
-1217. [Soft-Attention Improves Skin Cancer Classification Performance](../../ai/research/arxiv-2105-03358.md) ([Source](https://arxiv.org/abs/2105.03358)) - `ai/research`
-1218. [Heterogeneous transfer learning for high-dimensional regression with feature mismatch](../../ai/rag/arxiv-2412-18081.md) ([Source](https://arxiv.org/abs/2412.18081)) - `ai/rag`
-1219. [A Variational Analysis of Kernel Learning with Learnable Linear Transformations](../../ai/research/arxiv-2502-11665.md) ([Source](https://arxiv.org/abs/2502.11665)) - `ai/research`
-1220. [SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives](../../ai/research/arxiv-2509-13450.md) ([Source](https://arxiv.org/abs/2509.13450)) - `ai/research`
-1221. [End-to-end Differentiable Calibration and Reconstruction for Optical Particle Detectors](../../ai/research/arxiv-2602-24129.md) ([Source](https://arxiv.org/abs/2602.24129)) - `ai/research`
-1222. [Post-Training with Policy Gradients: Optimality and the Base Model Barrier](../../ai/research/arxiv-2603-06957.md) ([Source](https://arxiv.org/abs/2603.06957)) - `ai/research`
-1223. [LLM Router: Rethinking Routing with Prefill Activations](../../ai/research/arxiv-2603-20895.md) ([Source](https://arxiv.org/abs/2603.20895)) - `ai/research`
-1224. [CGRL: Causal-Guided Representation Learning for Node-Level Out-of-Distribution Generalization](../../ai/research/arxiv-2603-24304.md) ([Source](https://arxiv.org/abs/2603.24304)) - `ai/research`
-1225. [Trust Region Constrained Bayesian Optimization with Penalized Constraint Handling](../../ai/research/arxiv-2603-24567.md) ([Source](https://arxiv.org/abs/2603.24567)) - `ai/research`
-1226. [Diffusion-Guided Cooperative Policy Learning for Target Tracking Based on Underwater Mobile Agent Networks](../../ai/agents/arxiv-2603-29426.md) ([Source](https://arxiv.org/abs/2603.29426)) - `ai/agents`
-1227. [On Data-Driven Koopman Representations of Nonlinear Delay Differential Equations](../../ai/research/arxiv-2604-03086.md) ([Source](https://arxiv.org/abs/2604.03086)) - `ai/research`
-1228. [ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation of Large-Scale Repositories](../../ai/rag/arxiv-2604-07341.md) ([Source](https://arxiv.org/abs/2604.07341)) - `ai/rag`
-1229. [TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning](../../ai/rag/arxiv-2605-12236.md) ([Source](https://arxiv.org/abs/2605.12236)) - `ai/rag`
-1230. [Multilingual OCR-Aware Fine-Tuning and Prompt-Guided Chain-of-Thought Reasoning for Multimodal Large Language Models](../../ai/research/arxiv-2605-16409.md) ([Source](https://arxiv.org/abs/2605.16409)) - `ai/research`
-1231. [Large language models reorganize representational geometry during in-context learning](../../ai/research/arxiv-2605-28854.md) ([Source](https://arxiv.org/abs/2605.28854)) - `ai/research`
-1232. [Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning](../../ai/research/arxiv-2606-00671.md) ([Source](https://arxiv.org/abs/2606.00671)) - `ai/research`
-1233. [Ranking vs. Assignment: The Metric Mismatch in Multi-View Object Association](../../ai/research/arxiv-2606-02022.md) ([Source](https://arxiv.org/abs/2606.02022)) - `ai/research`
-1234. [RedditPersona: A Modular Framework for Community-Conditioned LLM Adaptation from Reddit](../../ai/research/arxiv-2606-06027.md) ([Source](https://arxiv.org/abs/2606.06027)) - `ai/research`
-1235. [FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning](../../ai/research/arxiv-2606-12406.md) ([Source](https://arxiv.org/abs/2606.12406)) - `ai/research`
-1236. [MMLA: How Memory Lets the Past Shape the Future](../../ai/research/arxiv-2606-28876.md) ([Source](https://arxiv.org/abs/2606.28876)) - `ai/research`
-1237. [Optimizing Expert-Designed Crystal Graph Networks for Band-Gap Prediction with an Autonomous LLM Research Loop](../../ai/agents/arxiv-2606-29717.md) ([Source](https://arxiv.org/abs/2606.29717)) - `ai/agents`
-1238. [WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution](../../ai/research/arxiv-2607-02097.md) ([Source](https://arxiv.org/abs/2607.02097)) - `ai/research`
-1239. [OrderMoE: An expert similarity driven distributed edge MoE inference](../../ai/rag/arxiv-2607-17154.md) ([Source](https://arxiv.org/abs/2607.17154)) - `ai/rag`
-1240. [PathRIR: Physics-Guided Acoustic Path Selection and Late-Tail Compensation for Fast Room Impulse Response Simulation](../../ai/research/arxiv-2607-23293.md) ([Source](https://arxiv.org/abs/2607.23293)) - `ai/research`
-1241. [DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution](../../ai/rag/arxiv-2607-26722.md) ([Source](https://arxiv.org/abs/2607.26722)) - `ai/rag`
-1242. [A Constitution-Grid Instrument for Data-Efficient RL Alignment (C-Guard)](../../ai/research/arxiv-2608-00180.md) ([Source](https://arxiv.org/abs/2608.00180)) - `ai/research`
-1243. [Rethinking Medical Landmark Localization with Prototype Learning-based Progressive Offset Correction](../../ai/rag/arxiv-2608-09182.md) ([Source](https://arxiv.org/abs/2608.09182)) - `ai/rag`
-1244. [Logit-Boundary Geometric Belief Interfaces and Sparse Sheaf-Enclave Protocols: A Self-Contained Substrate for Secure Network Electronic Health Record (EHR) Interoperability](../../ai/rag/arxiv-2608-10300.md) ([Source](https://arxiv.org/abs/2608.10300)) - `ai/rag`
-1245. [When Do Anchor-Based Pointwise LLM Rerankers Help? Retriever Quality, Statistical Scope, and Anchor Design](../../ai/research/arxiv-2608-10528.md) ([Source](https://arxiv.org/abs/2608.10528)) - `ai/research`
-1246. [Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](../../ai/research/arxiv-2608-10798.md) ([Source](https://arxiv.org/abs/2608.10798)) - `ai/research`
-1247. [Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes](../../ai/agents/arxiv-2608-11207.md) ([Source](https://arxiv.org/abs/2608.11207)) - `ai/agents`
-1248. [Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration](../../ai/agents/arxiv-2608-11210.md) ([Source](https://arxiv.org/abs/2608.11210)) - `ai/agents`
-1249. [A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph](../../ai/agents/arxiv-2608-11211.md) ([Source](https://arxiv.org/abs/2608.11211)) - `ai/agents`
-1250. [AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research](../../ai/agents/arxiv-2608-11216.md) ([Source](https://arxiv.org/abs/2608.11216)) - `ai/agents`
-1251. [LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs](../../ai/agents/arxiv-2608-11220.md) ([Source](https://arxiv.org/abs/2608.11220)) - `ai/agents`
-1252. [A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems](../../ai/rag/arxiv-2608-11221.md) ([Source](https://arxiv.org/abs/2608.11221)) - `ai/rag`
-1253. [Harnessing agent memory to build lifelong AI partners for materials scientists](../../ai/rag/arxiv-2608-11224.md) ([Source](https://arxiv.org/abs/2608.11224)) - `ai/rag`
-1254. [Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones](../../ai/agents/arxiv-2608-11225.md) ([Source](https://arxiv.org/abs/2608.11225)) - `ai/agents`
-1255. [Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet](../../ai/research/arxiv-2608-11226.md) ([Source](https://arxiv.org/abs/2608.11226)) - `ai/research`
-1256. [Synchronizing Beliefs with Second-Order Theory-of-Mind in Human-Autonomy Teams (Extended Version)](../../ai/agents/arxiv-2608-11229.md) ([Source](https://arxiv.org/abs/2608.11229)) - `ai/agents`
-1257. [The Edge-based Contiguous p-median Problem with Connections to Logistics Districting](../../ai/research/arxiv-2608-11230.md) ([Source](https://arxiv.org/abs/2608.11230)) - `ai/research`
-1258. [LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs](../../ai/research/arxiv-2608-11231.md) ([Source](https://arxiv.org/abs/2608.11231)) - `ai/research`
-1259. [InfraBench: Evaluating Infrastructure Agents Across Layers, Lifecycle, and Risk](../../ai/agents/arxiv-2608-11234.md) ([Source](https://arxiv.org/abs/2608.11234)) - `ai/agents`
-1260. [CORA-Diff: Confidence-Oriented Residual Acceptance for Efficient Diffusion Language Model Inference](../../ai/research/arxiv-2608-11235.md) ([Source](https://arxiv.org/abs/2608.11235)) - `ai/research`
-1261. [Geometry-aware Incremental Neural Operator for Long-Horizon PDE prediction](../../ai/research/arxiv-2608-11237.md) ([Source](https://arxiv.org/abs/2608.11237)) - `ai/research`
-1262. [Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability](../../ai/rag/arxiv-2608-11238.md) ([Source](https://arxiv.org/abs/2608.11238)) - `ai/rag`
-1263. [VQ-bench: A Composable Vector Quantization Framework](../../ai/research/arxiv-2608-11240.md) ([Source](https://arxiv.org/abs/2608.11240)) - `ai/research`
-1264. [RecSys Factory: Bounding LLM Agent Autonomy to Decision Points in the Industrial Recommender Lifecycle](../../ai/agents/arxiv-2608-11241.md) ([Source](https://arxiv.org/abs/2608.11241)) - `ai/agents`
-1265. [BEST-KAG: Enhancing Question Answering of Building Engineering Standards with Multimodal Knowledge Graph Modeling and Large Language Model](../../ai/research/arxiv-2608-11244.md) ([Source](https://arxiv.org/abs/2608.11244)) - `ai/research`
-1266. [Conformity Mitigations in Large Language Models Lie on a Single Resistance-Receptivity Frontier](../../ai/rag/arxiv-2608-11247.md) ([Source](https://arxiv.org/abs/2608.11247)) - `ai/rag`
-1267. [EvoGraph-Mem: Failure-Aware Editable Graph Memory for Long-Term Language Agents](../../ai/agents/arxiv-2608-11248.md) ([Source](https://arxiv.org/abs/2608.11248)) - `ai/agents`
-1268. [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](../../ai/agents/arxiv-2608-11250.md) ([Source](https://arxiv.org/abs/2608.11250)) - `ai/agents`
-1269. [Local verification cannot detect non-transportability: a cohomological theory of context preservation in agentic reasoning](../../ai/rag/arxiv-2608-11252.md) ([Source](https://arxiv.org/abs/2608.11252)) - `ai/rag`
-1270. [Adaptive Hybrid Particle Swarm Optimization with Gradient Descent](../../ai/research/arxiv-2608-11258.md) ([Source](https://arxiv.org/abs/2608.11258)) - `ai/research`
-1271. [Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning](../../ai/agents/arxiv-2608-11260.md) ([Source](https://arxiv.org/abs/2608.11260)) - `ai/agents`
-1272. [Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative Artificial Intelligence](../../ai/research/arxiv-2608-11341.md) ([Source](https://arxiv.org/abs/2608.11341)) - `ai/research`
-1273. [Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces](../../ai/research/arxiv-2608-11354.md) ([Source](https://arxiv.org/abs/2608.11354)) - `ai/research`
-1274. [Social Chain of Thought: A Multi-Agent Architecture Grounded in Medical Differential Diagnosis Methodology](../../ai/agents/arxiv-2608-11420.md) ([Source](https://arxiv.org/abs/2608.11420)) - `ai/agents`
-1275. [Benchmarking LLM Judges for Mobile Agent Evaluation](../../ai/agents/arxiv-2608-11434.md) ([Source](https://arxiv.org/abs/2608.11434)) - `ai/agents`
-1276. [Localizing Safety Alignment: MLP Layers and Mid-Network Blocks Encode Refusal Behavior in Large Language Models](../../ai/rag/arxiv-2608-11583.md) ([Source](https://arxiv.org/abs/2608.11583)) - `ai/rag`
-1277. [EnterpriseRAG: Benchmarking LLM Instruction Adherence and Robustness under Non-Ideal Enterprise Retrieval](../../ai/rag/arxiv-2608-11584.md) ([Source](https://arxiv.org/abs/2608.11584)) - `ai/rag`
-1278. [CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications](../../ai/agents/arxiv-2608-11588.md) ([Source](https://arxiv.org/abs/2608.11588)) - `ai/agents`
-1279. [Learning from Online User Feedback for Shopping Agents](../../ai/agents/arxiv-2608-11604.md) ([Source](https://arxiv.org/abs/2608.11604)) - `ai/agents`
-1280. [Foresight Without Seeing: Latent Futures for World Action Models](../../ai/rag/arxiv-2608-11605.md) ([Source](https://arxiv.org/abs/2608.11605)) - `ai/rag`
-1281. [Making AI-Generated Feedback Matter: From Provision to Student Enactment](../../ai/research/arxiv-2608-11625.md) ([Source](https://arxiv.org/abs/2608.11625)) - `ai/research`
-1282. [CLAIM: Leading Open-domain Active Clarification of Large Language Models with Uncertainty Measurement](../../ai/research/arxiv-2608-11631.md) ([Source](https://arxiv.org/abs/2608.11631)) - `ai/research`
-1283. [XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication](../../ai/agents/arxiv-2608-11676.md) ([Source](https://arxiv.org/abs/2608.11676)) - `ai/agents`
-1284. [AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection](../../ai/agents/arxiv-2608-11679.md) ([Source](https://arxiv.org/abs/2608.11679)) - `ai/agents`
-1285. [FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents](../../ai/agents/arxiv-2608-11683.md) ([Source](https://arxiv.org/abs/2608.11683)) - `ai/agents`
-1286. [HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting](../../ai/agents/arxiv-2608-11692.md) ([Source](https://arxiv.org/abs/2608.11692)) - `ai/agents`
-1287. [Making Your LLMs More Objective: Stabilizing LLM Safety Behavior Across Traits with Trait-Invariant Safety Tuning](../../ai/research/arxiv-2608-11705.md) ([Source](https://arxiv.org/abs/2608.11705)) - `ai/research`
-1288. [Proportional Analogies on Probability Distributions via Bayesian Updating](../../ai/research/arxiv-2608-11724.md) ([Source](https://arxiv.org/abs/2608.11724)) - `ai/research`
-1289. [Harness-IF: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents](../../ai/agents/arxiv-2608-11727.md) ([Source](https://arxiv.org/abs/2608.11727)) - `ai/agents`
-1290. [HyperANFIS: Enhancing Rule Representation and Interpretability in Adaptive Neuro-Fuzzy Systems via Hyperbolic Geometry](../../ai/research/arxiv-2608-11768.md) ([Source](https://arxiv.org/abs/2608.11768)) - `ai/research`
-1291. [The Sleeping Agent: What Gist-Based Context Compression Loses and Why](../../ai/agents/arxiv-2608-11775.md) ([Source](https://arxiv.org/abs/2608.11775)) - `ai/agents`
-1292. [Agent Skills Can Be Harmful: An Empirical Study of Skill-Induced Failures in LLM Agents](../../ai/agents/arxiv-2608-11888.md) ([Source](https://arxiv.org/abs/2608.11888)) - `ai/agents`
-1293. [OEIS Open: How many conjectures can language models turn into theorems?](../../ai/agents/arxiv-2608-11941.md) ([Source](https://arxiv.org/abs/2608.11941)) - `ai/agents`
-1294. [ExRole: From Team Trajectories to Executable Roles in Multi-Agent Language Models](../../ai/agents/arxiv-2608-11949.md) ([Source](https://arxiv.org/abs/2608.11949)) - `ai/agents`
-1295. [Retry, Switch, or Abstain? Learning Strategy-Aware Tool-Use Policies via Controlled Error Injection](../../ai/agents/arxiv-2608-11977.md) ([Source](https://arxiv.org/abs/2608.11977)) - `ai/agents`
-1296. [Claim-Level Reliability Assessment for Efficient Test-Time Reasoning](../../ai/research/arxiv-2608-11994.md) ([Source](https://arxiv.org/abs/2608.11994)) - `ai/research`
-1297. [CTBench: Evaluating Troubleshooting Capabilities of AI Agents in Realistic Telecom Network Operations](../../ai/agents/arxiv-2608-12002.md) ([Source](https://arxiv.org/abs/2608.12002)) - `ai/agents`
-1298. [Graph-Structured Rubrics: Compiling Rubrics into Typed Evaluation Graphs for LLM Judges](../../ai/research/arxiv-2608-12097.md) ([Source](https://arxiv.org/abs/2608.12097)) - `ai/research`
-1299. [GUIDE: Governed Unified Intelligence for Document-to-Artifact Generation in Enterprise Settings](../../ai/agents/arxiv-2608-12133.md) ([Source](https://arxiv.org/abs/2608.12133)) - `ai/agents`
-1300. [Who Thinks Best Depends on How Long You Let Them: Budget-Dependent Rankings in LLM Evaluation](../../ai/research/arxiv-2608-12150.md) ([Source](https://arxiv.org/abs/2608.12150)) - `ai/research`
-1301. [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../../ai/agents/arxiv-2608-12249.md) ([Source](https://arxiv.org/abs/2608.12249)) - `ai/agents`
-1302. [VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies](../../ai/agents/arxiv-2608-12282.md) ([Source](https://arxiv.org/abs/2608.12282)) - `ai/agents`
-1303. [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](../../ai/rag/arxiv-2608-12304.md) ([Source](https://arxiv.org/abs/2608.12304)) - `ai/rag`
-1304. [Evaluating LLM Generated Detection Rules in Cybersecurity](../../ai/research/arxiv-2509-16749.md) ([Source](https://arxiv.org/abs/2509.16749)) - `ai/research`
-1305. [Backtrader-Bench: Benchmarking LLM Agents on Algorithmic Trading with Self-Generated MCQs](../../ai/rag/arxiv-2608-11232.md) ([Source](https://arxiv.org/abs/2608.11232)) - `ai/rag`
-1306. [TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation](../../ai/rag/arxiv-2608-11236.md) ([Source](https://arxiv.org/abs/2608.11236)) - `ai/rag`
-1307. [Reinforcement Learning based DBMS Buffer Pool Auto-Tuning for Optimal Memory Utilization](../../ai/research/arxiv-2608-11239.md) ([Source](https://arxiv.org/abs/2608.11239)) - `ai/research`
-1308. [Lost in Compaction: Evaluating Side-Constraint Loss under Context Compaction](../../ai/rag/arxiv-2608-11242.md) ([Source](https://arxiv.org/abs/2608.11242)) - `ai/rag`
-1309. [Methodologies for Improving the Quality of AI Tutoring in K-12 Education](../../ai/rag/arxiv-2608-11259.md) ([Source](https://arxiv.org/abs/2608.11259)) - `ai/rag`
-1310. [Agent Safety Should Be a Runtime Contract](../../ai/agents/arxiv-2608-11274.md) ([Source](https://arxiv.org/abs/2608.11274)) - `ai/agents`
-1311. [Every pooling rule has its world: matching probability combination rules to situations and stakes](../../ai/rag/arxiv-2608-11275.md) ([Source](https://arxiv.org/abs/2608.11275)) - `ai/rag`
-1312. [Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models](../../ai/research/arxiv-2608-11283.md) ([Source](https://arxiv.org/abs/2608.11283)) - `ai/research`
-1313. [Backdoor Decontamination Dynamics in LLM Agents](../../ai/agents/arxiv-2608-11295.md) ([Source](https://arxiv.org/abs/2608.11295)) - `ai/agents`
-1314. [Socioduality: A Relational Process Framework for Human-AI Interaction](../../ai/research/arxiv-2608-11322.md) ([Source](https://arxiv.org/abs/2608.11322)) - `ai/research`
-1315. [Dual-Domain Cross-Modal Decoding for Clinical Text-Guided Medical Image Segmentation](../../ai/rag/arxiv-2608-11335.md) ([Source](https://arxiv.org/abs/2608.11335)) - `ai/rag`
-1316. [Self-evolving network verifiers](../../ai/rag/arxiv-2608-11340.md) ([Source](https://arxiv.org/abs/2608.11340)) - `ai/rag`
-1317. [Governing Agentic AI in FinTech](../../ai/agents/arxiv-2608-11344.md) ([Source](https://arxiv.org/abs/2608.11344)) - `ai/agents`
-1318. [Gaze Target Estimation Anywhere with Concepts](../../ai/research/arxiv-2608-11367.md) ([Source](https://arxiv.org/abs/2608.11367)) - `ai/research`
-1319. [AI Guardrail Survival under Single-Cycle Agentic Self-Summarization](../../ai/agents/arxiv-2608-11392.md) ([Source](https://arxiv.org/abs/2608.11392)) - `ai/agents`
-1320. [TRACES: A Benchmark for Epistemic Reliability in Scientific Reasoning by LLMs](../../ai/agents/arxiv-2608-11415.md) ([Source](https://arxiv.org/abs/2608.11415)) - `ai/agents`
-1321. [Herding End-to-End Autonomous Driving via Neuro-Symbolic Safety Guards](../../ai/rag/arxiv-2608-11451.md) ([Source](https://arxiv.org/abs/2608.11451)) - `ai/rag`
-1322. [TangPoetryBench: A Multi-Dimensional Benchmark and Rubric-Conditioned Evaluator for Poetry-to-Image Generation](../../ai/research/arxiv-2608-11452.md) ([Source](https://arxiv.org/abs/2608.11452)) - `ai/research`
-1323. [The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark](../../ai/rag/arxiv-2608-11469.md) ([Source](https://arxiv.org/abs/2608.11469)) - `ai/rag`
-1324. [Strengthening Full Justified Representation: Efficient Verification and Computation](../../ai/rag/arxiv-2608-11500.md) ([Source](https://arxiv.org/abs/2608.11500)) - `ai/rag`
-1325. [Conflict and Congruency Effects in Large Language Models: In-Weight and In-Context Competition in a Verbal Conflict Task](../../ai/research/arxiv-2608-11510.md) ([Source](https://arxiv.org/abs/2608.11510)) - `ai/research`
-1326. [Do Influence Tactics Matter? Investigating Prompt Framing Effects in LLM Code Generation](../../ai/research/arxiv-2608-11513.md) ([Source](https://arxiv.org/abs/2608.11513)) - `ai/research`
-1327. [Keep the Future, Drop the Rollout: RIFT for World Action Models](../../ai/rag/arxiv-2608-11521.md) ([Source](https://arxiv.org/abs/2608.11521)) - `ai/rag`
-1328. [A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era](../../ai/research/arxiv-2608-11540.md) ([Source](https://arxiv.org/abs/2608.11540)) - `ai/research`
-1329. [From Synthesis to Removal: Physics-Grounded Reflection Simulation and Diffusion-Based Video Dereflection](../../ai/research/arxiv-2608-11562.md) ([Source](https://arxiv.org/abs/2608.11562)) - `ai/research`
-1330. [Reinforcing Step-level Reasoning for Effective Self-Correction in LLMs](../../ai/research/arxiv-2608-11573.md) ([Source](https://arxiv.org/abs/2608.11573)) - `ai/research`
-1331. [RoadWeaver: Large-Scale Lane-Level HD Map Generation from Scratch for Autonomous Driving Simulation](../../ai/agents/arxiv-2608-11580.md) ([Source](https://arxiv.org/abs/2608.11580)) - `ai/agents`
-1332. [A Hybrid Framework of Vision Transformer and Gated Recurrent Unit for Detection of Mosquito Diseases](../../ai/research/arxiv-2608-11582.md) ([Source](https://arxiv.org/abs/2608.11582)) - `ai/research`
-1333. [Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs](../../ai/agents/arxiv-2608-11624.md) ([Source](https://arxiv.org/abs/2608.11624)) - `ai/agents`
-1334. [Deep Learning Based Relative Transfer Matrix Estimation for Multiple Sources and Multiple Microphones](../../ai/research/arxiv-2608-11627.md) ([Source](https://arxiv.org/abs/2608.11627)) - `ai/research`
-1335. [Beyond Memory: A Transactional Continuity Kernel for Long-Lived AI Agents](../../ai/rag/arxiv-2608-11632.md) ([Source](https://arxiv.org/abs/2608.11632)) - `ai/rag`
-1336. [Motion-as-Prompt: Enhancing Motion Reasoning in Multimodal Large Language Models via Motion-Guided Cross-Frame Visual Prompting](../../ai/rag/arxiv-2608-11655.md) ([Source](https://arxiv.org/abs/2608.11655)) - `ai/rag`
-1337. [Semantic Lenia: Emergence of Homeostatic Solitons within the Semantic Space of Large Language Models](../../ai/agents/arxiv-2608-11657.md) ([Source](https://arxiv.org/abs/2608.11657)) - `ai/agents`
-1338. [Learning from Multimodal Pseudo-Labels for Robust Open-Vocabulary Instance and Panoptic Segmentation](../../ai/rag/arxiv-2608-11681.md) ([Source](https://arxiv.org/abs/2608.11681)) - `ai/rag`
-1339. [The Wording Effect: Quantifying Two-Way Drift in LLM Benchmark Performance](../../ai/rag/arxiv-2608-11694.md) ([Source](https://arxiv.org/abs/2608.11694)) - `ai/rag`
-1340. [When the API Speaks the Wrong Language: Revisiting Post-Training for Multilingual Tool Use](../../ai/research/arxiv-2608-11715.md) ([Source](https://arxiv.org/abs/2608.11715)) - `ai/research`
-1341. [Fingerprinting Text-to-Image Diffusion Models via Collapsed Generation](../../ai/rag/arxiv-2608-11732.md) ([Source](https://arxiv.org/abs/2608.11732)) - `ai/rag`
-1342. [A 12-CNOT Double Qubit Excitation Gate](../../ai/research/arxiv-2608-11733.md) ([Source](https://arxiv.org/abs/2608.11733)) - `ai/research`
-1343. [Advancing MLLM-based UAV Image Understanding and Reasoning: A Benchmark and a Training-Free Multi-Agent System](../../ai/rag/arxiv-2608-11738.md) ([Source](https://arxiv.org/abs/2608.11738)) - `ai/rag`
-1344. [G0.5: One Autoregressive Stream for Robot Reasoning and Action](../../ai/research/arxiv-2608-11739.md) ([Source](https://arxiv.org/abs/2608.11739)) - `ai/research`
-1345. [JieZi: A Large-Scale Expert-Audited Dataset and Benchmark for Ancient Chinese Character Exegesis](../../ai/research/arxiv-2608-11741.md) ([Source](https://arxiv.org/abs/2608.11741)) - `ai/research`
-1346. [Instruction Alignment for Binary Code Representation Learning](../../ai/rag/arxiv-2608-11766.md) ([Source](https://arxiv.org/abs/2608.11766)) - `ai/rag`
-1347. [TELLME: Test-Enhanced Learning for Language Model Enrichment](../../ai/rag/arxiv-2608-11788.md) ([Source](https://arxiv.org/abs/2608.11788)) - `ai/rag`
-1348. [Toward Meaningful Transparency for AI Chatbots: Disclosing Persuasive Intent Reduces Persuasion](../../ai/research/arxiv-2608-11794.md) ([Source](https://arxiv.org/abs/2608.11794)) - `ai/research`
-1349. [Towards Model-based Run-time Cybersecurity: On Control-Flow Anomaly Detection, Attack Identification, and Hardware Monitoring](../../ai/research/arxiv-2608-11802.md) ([Source](https://arxiv.org/abs/2608.11802)) - `ai/research`
-1350. [How China-Origin Vision-Language Models Move from Refusal to Reframing in State Alignment](../../ai/research/arxiv-2608-11816.md) ([Source](https://arxiv.org/abs/2608.11816)) - `ai/research`
-1351. [LookBack: Where and How to Score LVLM Responses via Visual Reference Usage](../../ai/research/arxiv-2608-11847.md) ([Source](https://arxiv.org/abs/2608.11847)) - `ai/research`
-1352. [Two-Stage Deformable-Convolutional Inverse Design of Nanophotonic Absorbers from Optical Spectra](../../ai/research/arxiv-2608-11860.md) ([Source](https://arxiv.org/abs/2608.11860)) - `ai/research`
-1353. [CoQui: A Coordinate-Conditioned Quantum Implicit Generative Adversarial Network for End-to-End Image Generation](../../ai/research/arxiv-2608-11884.md) ([Source](https://arxiv.org/abs/2608.11884)) - `ai/research`
-1354. [DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation](../../ai/research/arxiv-2608-11889.md) ([Source](https://arxiv.org/abs/2608.11889)) - `ai/research`
-1355. [Benchmark-Based Comparative Assessment of Publicly Benchmarked Indian Foundation Models: A Capability and Evaluation-Maturity Framework](../../ai/rag/arxiv-2608-11891.md) ([Source](https://arxiv.org/abs/2608.11891)) - `ai/rag`
-1356. [Do You See What You Draw? A Semantic Closed-Loop Framework for Holistic Evaluation of Unified Multimodal Models](../../ai/rag/arxiv-2608-11907.md) ([Source](https://arxiv.org/abs/2608.11907)) - `ai/rag`
-1357. [Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians](../../ai/research/arxiv-2608-11911.md) ([Source](https://arxiv.org/abs/2608.11911)) - `ai/research`
-1358. [Accuracy and Order Sensitivity Diverge Under Label-Free Strategies](../../ai/research/arxiv-2608-11947.md) ([Source](https://arxiv.org/abs/2608.11947)) - `ai/research`
-1359. [Causal inference for group-contaminated structured outcomes: observable quotients, lossless reduction and exact randomization inference](../../ai/research/arxiv-2608-11954.md) ([Source](https://arxiv.org/abs/2608.11954)) - `ai/research`
-1360. [HCGRec: Hint-Conditioned Generative Recommendation with Semantic IDs](../../ai/research/arxiv-2608-11980.md) ([Source](https://arxiv.org/abs/2608.11980)) - `ai/research`
-1361. [RealisticTritonBench: A Benchmark for Triton-Kernel Generation in Real-World AI Frameworks](../../ai/research/arxiv-2608-12004.md) ([Source](https://arxiv.org/abs/2608.12004)) - `ai/research`
-1362. [From Safety Documentation to Safety Knowledge Support: An Evidence-Grounded LLM Framework for Medical Devices](../../ai/rag/arxiv-2608-12025.md) ([Source](https://arxiv.org/abs/2608.12025)) - `ai/rag`
-1363. [LoSA: Near-Lossless Sparse Attention for Training-Free Video Diffusion Acceleration](../../ai/research/arxiv-2608-12032.md) ([Source](https://arxiv.org/abs/2608.12032)) - `ai/research`
-1364. [How Far from Clinical Deployment? Evaluating the Complete Unsupervised Domain Adaptation Pipeline in Medical Imaging](../../ai/research/arxiv-2608-12035.md) ([Source](https://arxiv.org/abs/2608.12035)) - `ai/research`
-1365. [Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations](../../ai/rag/arxiv-2608-12062.md) ([Source](https://arxiv.org/abs/2608.12062)) - `ai/rag`
-1366. [Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL](../../ai/rag/arxiv-2608-12063.md) ([Source](https://arxiv.org/abs/2608.12063)) - `ai/rag`
-1367. [No One to Blame: A Framework of Constitutive AI Unaccountability](../../ai/agents/arxiv-2608-12104.md) ([Source](https://arxiv.org/abs/2608.12104)) - `ai/agents`
-1368. [QV-PIC: Query-Aware Visual Position-Independent Caching for Efficient RAG Serving](../../ai/rag/arxiv-2608-12121.md) ([Source](https://arxiv.org/abs/2608.12121)) - `ai/rag`
-1369. [Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control](../../ai/agents/arxiv-2608-12123.md) ([Source](https://arxiv.org/abs/2608.12123)) - `ai/agents`
-1370. [Do LLMs Take Care of Their Own? Similarity Signals Can Induce Cooperation](../../ai/agents/arxiv-2608-12125.md) ([Source](https://arxiv.org/abs/2608.12125)) - `ai/agents`
-1371. [Co-constructing sociotechnical AI governance: participatory system mapping using algorithm registers](../../ai/research/arxiv-2608-12166.md) ([Source](https://arxiv.org/abs/2608.12166)) - `ai/research`
-1372. [HSTGFormer: Hyper Spatial-Temporal Graph Transformer for 3D Human Pose Estimation](../../ai/research/arxiv-2608-12187.md) ([Source](https://arxiv.org/abs/2608.12187)) - `ai/research`
-1373. [Machine Learning-Based Cyber Defense for Cloud Infrastructure: An Adaptive Deep Q-Network Architecture for Intelligent Intrusion Detection and Automated Threat Mitigation](../../ai/rag/arxiv-2608-12190.md) ([Source](https://arxiv.org/abs/2608.12190)) - `ai/rag`
-1374. [M-Net: Integrating Spectral Features and Physical Field Operators into Deep Learning for Medical Image Segmentation](../../ai/research/arxiv-2608-12196.md) ([Source](https://arxiv.org/abs/2608.12196)) - `ai/research`
-1375. [NetlistBench: Evaluating LLM Reliability in SPICE Netlist Recognition and Manipulation](../../ai/research/arxiv-2608-12197.md) ([Source](https://arxiv.org/abs/2608.12197)) - `ai/research`
-1376. [Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge](../../ai/research/arxiv-2608-12218.md) ([Source](https://arxiv.org/abs/2608.12218)) - `ai/research`
-1377. [SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward](../../ai/research/arxiv-2608-12220.md) ([Source](https://arxiv.org/abs/2608.12220)) - `ai/research`
-1378. [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](../../ai/research/arxiv-2608-12227.md) ([Source](https://arxiv.org/abs/2608.12227)) - `ai/research`
-1379. [Few-Shot Ordinal Learning for Day-Wise Freshness Estimation with Hyperspectral Fish Images](../../ai/rag/arxiv-2608-12230.md) ([Source](https://arxiv.org/abs/2608.12230)) - `ai/rag`
-1380. [How Organizations Use AI: Evidence from ChatGPT](../../ai/research/arxiv-2608-12236.md) ([Source](https://arxiv.org/abs/2608.12236)) - `ai/research`
-1381. [HAMP-LIC: Hessian-Aware Mixed-Precision Post-Training Quantization for Learned Image Compression](../../ai/research/arxiv-2608-12239.md) ([Source](https://arxiv.org/abs/2608.12239)) - `ai/research`
-1382. [VICBench: A Multi-Language Benchmark for Code Vulnerability Detection](../../ai/rag/arxiv-2608-12246.md) ([Source](https://arxiv.org/abs/2608.12246)) - `ai/rag`
-1383. [Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams](../../ai/agents/arxiv-2608-12262.md) ([Source](https://arxiv.org/abs/2608.12262)) - `ai/agents`
-1384. [Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents](../../ai/agents/arxiv-2608-12273.md) ([Source](https://arxiv.org/abs/2608.12273)) - `ai/agents`
-1385. [A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery](../../ai/research/arxiv-2608-12274.md) ([Source](https://arxiv.org/abs/2608.12274)) - `ai/research`
-1386. [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](../../ai/research/arxiv-2608-12278.md) ([Source](https://arxiv.org/abs/2608.12278)) - `ai/research`
-1387. [Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence](../../ai/agents/arxiv-2608-12290.md) ([Source](https://arxiv.org/abs/2608.12290)) - `ai/agents`
-1388. [Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations](../../ai/rag/arxiv-2608-12299.md) ([Source](https://arxiv.org/abs/2608.12299)) - `ai/rag`
-1389. [DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](../../ai/agents/arxiv-2608-12308.md) ([Source](https://arxiv.org/abs/2608.12308)) - `ai/agents`
-1390. [Causal Agent based on Large Language Model](../../ai/agents/arxiv-2408-06849.md) ([Source](https://arxiv.org/abs/2408.06849)) - `ai/agents`
-1391. [On Benchmarking Human-Like Intelligence in Machines](../../ai/research/arxiv-2502-20502.md) ([Source](https://arxiv.org/abs/2502.20502)) - `ai/research`
-1392. [OpenAg: Democratizing Agricultural Intelligence](../../ai/agents/arxiv-2506-04571.md) ([Source](https://arxiv.org/abs/2506.04571)) - `ai/agents`
-1393. [Deep Fictitious Play-Based Potential Differential Games for Learning Human-Like Interaction at Unsignalized Intersections](../../ai/rag/arxiv-2506-12283.md) ([Source](https://arxiv.org/abs/2506.12283)) - `ai/rag`
-1394. [DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation](../../ai/rag/arxiv-2507-14267.md) ([Source](https://arxiv.org/abs/2507.14267)) - `ai/rag`
-1395. [On the Definition of Intelligence](../../ai/research/arxiv-2507-22423.md) ([Source](https://arxiv.org/abs/2507.22423)) - `ai/research`
-1396. [Behavior and Representation in Open-Weight Large Language Models for Combinatorial Optimization: From Feature Extraction to Algorithm Selection](../../ai/research/arxiv-2512-13374.md) ([Source](https://arxiv.org/abs/2512.13374)) - `ai/research`
-1397. [Credo: Declarative Control of LLM Pipelines via Beliefs and Policies](../../ai/agents/arxiv-2604-14401.md) ([Source](https://arxiv.org/abs/2604.14401)) - `ai/agents`
-1398. [Towards Human Motion World Models via Executable Behaviour Representations](../../ai/rag/arxiv-2604-18064.md) ([Source](https://arxiv.org/abs/2604.18064)) - `ai/rag`
-1399. [Tools as Continuous Flow for Evolving Agentic Reasoning](../../ai/rag/arxiv-2605-07339.md) ([Source](https://arxiv.org/abs/2605.07339)) - `ai/rag`
-1400. [Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching](../../ai/agents/arxiv-2605-29055.md) ([Source](https://arxiv.org/abs/2605.29055)) - `ai/agents`
-1401. [Teaching agentic AI to learn expert reasoning for rare disease diagnosis](../../ai/agents/arxiv-2606-16149.md) ([Source](https://arxiv.org/abs/2606.16149)) - `ai/agents`
-1402. [Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising](../../ai/agents/arxiv-2607-00407.md) ([Source](https://arxiv.org/abs/2607.00407)) - `ai/agents`
-1403. [The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy](../../ai/agents/arxiv-2607-11175.md) ([Source](https://arxiv.org/abs/2607.11175)) - `ai/agents`
-1404. [SportD: How do VLMs physically strategize?](../../ai/research/arxiv-2607-14616.md) ([Source](https://arxiv.org/abs/2607.14616)) - `ai/research`
-1405. [The Human-AI Substitution Principle: When will you be replaced by AI in your organization?](../../ai/research/arxiv-2607-20781.md) ([Source](https://arxiv.org/abs/2607.20781)) - `ai/research`
-1406. [A foundation model of numerical intelligence with cross-disciplinary generalization](../../ai/agents/arxiv-2607-28432.md) ([Source](https://arxiv.org/abs/2607.28432)) - `ai/agents`
-1407. [Grounded Well-Condition Anomaly Detection on the Volve Field: Constructed Labels, a Baseline, and a Dual-Head Model](../../ai/research/arxiv-2608-05685.md) ([Source](https://arxiv.org/abs/2608.05685)) - `ai/research`
-1408. [Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains](../../ai/research/arxiv-2608-07474.md) ([Source](https://arxiv.org/abs/2608.07474)) - `ai/research`
-1409. [HexEval: An Evidence-Driven Hexagonal Framework for Multidimensional Scholar Assessment](../../ai/rag/arxiv-2608-10584.md) ([Source](https://arxiv.org/abs/2608.10584)) - `ai/rag`
-1410. [ComBodied Agents: a New Paradigm of Human-Centric Agentic AI](../../ai/rag/arxiv-2608-10915.md) ([Source](https://arxiv.org/abs/2608.10915)) - `ai/rag`
-1411. [ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation](../../ai/research/arxiv-2411-15122.md) ([Source](https://arxiv.org/abs/2411.15122)) - `ai/research`
-1412. [Explainability in Practice: A Survey of Explainable NLP Across Various Domains](../../ai/research/arxiv-2502-00837.md) ([Source](https://arxiv.org/abs/2502.00837)) - `ai/research`
-1413. [Proportional Committee Elections with Positive and Negative Votes](../../ai/rag/arxiv-2503-01985.md) ([Source](https://arxiv.org/abs/2503.01985)) - `ai/rag`
-1414. [COLORA: Efficient Fine-Tuning for Convolutional Models with a Study Case on Optical Coherence Tomography Image Classification](../../ai/research/arxiv-2505-18315.md) ([Source](https://arxiv.org/abs/2505.18315)) - `ai/research`
-1415. [P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments](../../ai/research/arxiv-2506-17332.md) ([Source](https://arxiv.org/abs/2506.17332)) - `ai/research`
-1416. [Small Data Explainer -- The impact of small data methods in everyday life](../../ai/rag/arxiv-2507-11773.md) ([Source](https://arxiv.org/abs/2507.11773)) - `ai/rag`
-1417. [Commonsense on Demand: Generating and Selectively Integrating Commonsense Knowledge for Natural Language Inference](../../ai/research/arxiv-2507-15100.md) ([Source](https://arxiv.org/abs/2507.15100)) - `ai/research`
-1418. [Quantization-Aware Neuromorphic Architecture for Skin Lesion Classification on Resource-Constrained Devices](../../ai/rag/arxiv-2507-15958.md) ([Source](https://arxiv.org/abs/2507.15958)) - `ai/rag`
-1419. [Empowering Children to Create AI-Enabled Augmented Reality Experiences](../../ai/research/arxiv-2508-08467.md) ([Source](https://arxiv.org/abs/2508.08467)) - `ai/research`
-1420. [Ethics Practices in AI Development: An Empirical Study Across Roles and Regions](../../ai/research/arxiv-2508-09219.md) ([Source](https://arxiv.org/abs/2508.09219)) - `ai/research`
-1421. [CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D](../../ai/rag/arxiv-2509-24528.md) ([Source](https://arxiv.org/abs/2509.24528)) - `ai/rag`
-1422. [LiDAR-based 3D Change Detection at City Scale](../../ai/research/arxiv-2510-21112.md) ([Source](https://arxiv.org/abs/2510.21112)) - `ai/research`
-1423. [MicroAUNet: Boundary-Enhanced Multi-scale Fusion with Knowledge Distillation for Colonoscopy Polyp Image Segmentation](../../ai/research/arxiv-2511-01143.md) ([Source](https://arxiv.org/abs/2511.01143)) - `ai/research`
-1424. [LLM-Powered Automatic Translation and Urgency in Crisis Scenarios](../../ai/research/arxiv-2602-13452.md) ([Source](https://arxiv.org/abs/2602.13452)) - `ai/research`
-1425. [How effective are VLMs in assisting humans in inferring the quality of mental models from Multimodal short answers?](../../ai/research/arxiv-2603-00056.md) ([Source](https://arxiv.org/abs/2603.00056)) - `ai/research`
-1426. [A Simple Efficiency Incremental Learning Framework via Vision-Language Model with Nonlinear Multi-Adapters](../../ai/research/arxiv-2603-11211.md) ([Source](https://arxiv.org/abs/2603.11211)) - `ai/research`
-1427. [Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](../../ai/research/arxiv-2603-13891.md) ([Source](https://arxiv.org/abs/2603.13891)) - `ai/research`
-1428. [VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation](../../ai/research/arxiv-2603-17450.md) ([Source](https://arxiv.org/abs/2603.17450)) - `ai/research`
-1429. [REVERE: Reflective Evolving Research Engineer](../../ai/agents/arxiv-2603-20667.md) ([Source](https://arxiv.org/abs/2603.20667)) - `ai/agents`
-1430. [Designing Agentic AI-Based Screening for Portfolio Investment](../../ai/agents/arxiv-2603-23300.md) ([Source](https://arxiv.org/abs/2603.23300)) - `ai/agents`
-1431. [Evaluation and Hardening of LLM System Instructions Against Extraction via Encoding Attacks](../../ai/agents/arxiv-2604-01039.md) ([Source](https://arxiv.org/abs/2604.01039)) - `ai/agents`
-1432. [Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting](../../ai/rag/arxiv-2604-02512.md) ([Source](https://arxiv.org/abs/2604.02512)) - `ai/rag`
-1433. [Uncertainty as a Planning Signal: Multi-Turn Decision Making for Goal-Oriented Conversation](../../ai/research/arxiv-2604-03924.md) ([Source](https://arxiv.org/abs/2604.03924)) - `ai/research`
-1434. [TEMPER: Testing Emotional Perturbation in Quantitative Reasoning](../../ai/research/arxiv-2604-07801.md) ([Source](https://arxiv.org/abs/2604.07801)) - `ai/research`
-1435. [DORA Explorer: Improving the Exploration Ability of LLMs Without Training](../../ai/agents/arxiv-2604-17244.md) ([Source](https://arxiv.org/abs/2604.17244)) - `ai/agents`
-1436. [Making Gaussian Kolmogorov-Arnold Networks Reliable and Accurate](../../ai/research/arxiv-2604-21174.md) ([Source](https://arxiv.org/abs/2604.21174)) - `ai/research`
-1437. [Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents](../../ai/rag/arxiv-2604-27143.md) ([Source](https://arxiv.org/abs/2604.27143)) - `ai/rag`
-1438. [CAR: Query-Guided Confidence-Aware Reranking for Retrieval-Augmented Generation](../../ai/rag/arxiv-2605-04495.md) ([Source](https://arxiv.org/abs/2605.04495)) - `ai/rag`
-1439. [Text Corpora as Concept Fields: Black-Box Hallucination and Novelty Measurement](../../ai/rag/arxiv-2605-05103.md) ([Source](https://arxiv.org/abs/2605.05103)) - `ai/rag`
-1440. [Cavity-Enhanced Collective Quantum Processing with Polarization-Encoded Qubits](../../ai/research/arxiv-2605-10473.md) ([Source](https://arxiv.org/abs/2605.10473)) - `ai/research`
-1441. [memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](../../ai/rag/arxiv-2606-01138.md) ([Source](https://arxiv.org/abs/2606.01138)) - `ai/rag`
-1442. [ArtiFact: A Large-Scale Multi-Modal Cultural Heritage Dataset](../../ai/research/arxiv-2606-09648.md) ([Source](https://arxiv.org/abs/2606.09648)) - `ai/research`
-1443. [From World Models to World Action Models: A Concise Tutorial for Robotics](../../ai/research/arxiv-2607-00836.md) ([Source](https://arxiv.org/abs/2607.00836)) - `ai/research`
-1444. [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](../../ai/rag/arxiv-2607-12310.md) ([Source](https://arxiv.org/abs/2607.12310)) - `ai/rag`
-1445. [Cryptographically verifiable authorization for autonomous AI agents: A falsifiable hypothesis and proof-of-concept](../../ai/agents/arxiv-2607-21325.md) ([Source](https://arxiv.org/abs/2607.21325)) - `ai/agents`
-1446. [Beyond Representational Similarity: Source-Conditioned Description-Length Gain for Generative Plagiarism Detection and Candidate Source Reranking](../../ai/research/arxiv-2608-03859.md) ([Source](https://arxiv.org/abs/2608.03859)) - `ai/research`
-1447. [Do Evaluation Metrics Detect Errors in Classical Chinese to English Translations?](../../ai/research/arxiv-2608-08283.md) ([Source](https://arxiv.org/abs/2608.08283)) - `ai/research`
-1448. [Epistemic Transfer in AI-Assisted Verification: A Framework and Evaluation Protocol](../../ai/research/arxiv-2608-08882.md) ([Source](https://arxiv.org/abs/2608.08882)) - `ai/research`
-1449. [Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning](../../ai/rag/arxiv-2608-09507.md) ([Source](https://arxiv.org/abs/2608.09507)) - `ai/rag`
-1450. [From Reasoning Depth to Reasoning Breadth: Evaluating Multi-Point Associative Reasoning in Large Language Models](../../ai/agents/arxiv-2608-10444.md) ([Source](https://arxiv.org/abs/2608.10444)) - `ai/agents`
-1451. [Persistent Recursive Worlds Enable Autonomous Software Evolution](../../ai/agents/arxiv-2608-10450.md) ([Source](https://arxiv.org/abs/2608.10450)) - `ai/agents`
-1452. [Inferential Capability Does Not Determine Legal Scope](../../ai/agents/arxiv-2608-10601.md) ([Source](https://arxiv.org/abs/2608.10601)) - `ai/agents`
-1453. [ENTLORE: A Graph-Grounded Benchmark for Latent Organizational Reasoning in Enterprise Question Answering](../../ai/research/arxiv-2608-10679.md) ([Source](https://arxiv.org/abs/2608.10679)) - `ai/research`
-1454. [Surfacing the Unsaid: CUE-Bench for Affective Stance in Chinese Discourse](../../ai/rag/arxiv-2608-10810.md) ([Source](https://arxiv.org/abs/2608.10810)) - `ai/rag`
-1455. [Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation](../../ai/rag/arxiv-2608-10812.md) ([Source](https://arxiv.org/abs/2608.10812)) - `ai/rag`
-1456. [Policy Convergence and Divergence Across National and Within Regional AI Strategies: A Policy Design Element Analysis](../../ai/research/arxiv-2608-11006.md) ([Source](https://arxiv.org/abs/2608.11006)) - `ai/research`
-1457. [Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons](../../ai/agents/arxiv-2506-03392.md) ([Source](https://arxiv.org/abs/2506.03392)) - `ai/research`
-1458. [Reducing Per-Sample Interference in Stochastic Optimization](../../ai/rag/arxiv-2607-16261.md) ([Source](https://arxiv.org/abs/2607.16261)) - `ai/research`
+1175. [Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons](../../ai/agents/arxiv-2506-03392.md) ([Source](https://arxiv.org/abs/2506.03392)) - `ai/research`
+1176. [Learning Multi-Timescale Interventions under Safety and Resource Constraints](../../ai/agents/arxiv-2508-03875.md) ([Source](https://arxiv.org/abs/2508.03875)) - `ai/agents`
+1177. [Local Cluster Cardinality Estimation for Adaptive Mean Shift](../../ai/research/arxiv-2508-12450.md) ([Source](https://arxiv.org/abs/2508.12450)) - `ai/research`
+1178. [Patch-based Memory Gate Model in Time Series Foundation Model](../../ai/research/arxiv-2509-18751.md) ([Source](https://arxiv.org/abs/2509.18751)) - `ai/research`
+1179. [Variational Mixture of Graph Neural Experts for Alzheimer's Disease Recognition across Frequency Bands in EEG Brain Networks](../../ai/research/arxiv-2510-11917.md) ([Source](https://arxiv.org/abs/2510.11917)) - `ai/research`
+1180. [Adaptive Online Learning with LSTM Networks for Energy Price Prediction](../../ai/rag/arxiv-2510-16898.md) ([Source](https://arxiv.org/abs/2510.16898)) - `ai/rag`
+1181. [Reliable Inference in Edge-Cloud Model Cascades via Conformal Alignment](../../ai/rag/arxiv-2510-17543.md) ([Source](https://arxiv.org/abs/2510.17543)) - `ai/rag`
+1182. [LoRAQuant: Mixed-Precision Quantization of LoRA to Ultra-Low Bits](../../ai/research/arxiv-2510-26690.md) ([Source](https://arxiv.org/abs/2510.26690)) - `ai/research`
+1183. [Accelerating Time Series Foundation Models with Speculative Decoding](../../ai/research/arxiv-2511-18191.md) ([Source](https://arxiv.org/abs/2511.18191)) - `ai/research`
+1184. [BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents](../../ai/rag/arxiv-2511-20597.md) ([Source](https://arxiv.org/abs/2511.20597)) - `ai/rag`
+1185. [A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation](../../ai/research/arxiv-2512-06547.md) ([Source](https://arxiv.org/abs/2512.06547)) - `ai/research`
+1186. [Grounding Large Language Models as Generalizable Policies in Network Control](../../ai/research/arxiv-2512-11839.md) ([Source](https://arxiv.org/abs/2512.11839)) - `ai/research`
+1187. [Federated Learning for the Design of Parametric Insurance Indices under Heterogeneous Renewable Production Losses](../../ai/rag/arxiv-2601-12178.md) ([Source](https://arxiv.org/abs/2601.12178)) - `ai/rag`
+1188. [Probably Approximately Correct Maximum A Posteriori Inference](../../ai/research/arxiv-2601-16083.md) ([Source](https://arxiv.org/abs/2601.16083)) - `ai/research`
+1189. [Superposition Without Interference? Towards Isolated Interventions via Almost Orthogonal Features in Language Models](../../ai/research/arxiv-2602-04718.md) ([Source](https://arxiv.org/abs/2602.04718)) - `ai/research`
+1190. [A Theoretical Framework for Modular Learning of Robust Generative Models](../../ai/research/arxiv-2602-17554.md) ([Source](https://arxiv.org/abs/2602.17554)) - `ai/research`
+1191. [Representation Finetuning for Continual Learning](../../ai/research/arxiv-2603-11201.md) ([Source](https://arxiv.org/abs/2603.11201)) - `ai/research`
+1192. [Stochastic Dimension Zeroth-Order Estimator: Stable and Memory-Efficient Training of PINNs](../../ai/rag/arxiv-2603-24002.md) ([Source](https://arxiv.org/abs/2603.24002)) - `ai/rag`
+1193. [Weaves, Wires, and Morphisms: Formalizing and Implementing the Algebra of Deep Learning](../../ai/research/arxiv-2604-07242.md) ([Source](https://arxiv.org/abs/2604.07242)) - `ai/research`
+1194. [Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection](../../ai/research/arxiv-2604-22753.md) ([Source](https://arxiv.org/abs/2604.22753)) - `ai/research`
+1195. [Optimized Deferral for Imbalanced Settings](../../ai/rag/arxiv-2604-27723.md) ([Source](https://arxiv.org/abs/2604.27723)) - `ai/rag`
+1196. [Mind the Gap: Structure-Aware Consistency in Preference Learning](../../ai/research/arxiv-2604-27733.md) ([Source](https://arxiv.org/abs/2604.27733)) - `ai/research`
+1197. [Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../../ai/research/arxiv-2604-27742.md) ([Source](https://arxiv.org/abs/2604.27742)) - `ai/research`
+1198. [Analytic Bridge Diffusions for Controlled Path Generation](../../ai/research/arxiv-2605-02961.md) ([Source](https://arxiv.org/abs/2605.02961)) - `ai/research`
+1199. [Pretraining large language models with MXFP4 on Native FP4 Hardware](../../ai/research/arxiv-2605-09825.md) ([Source](https://arxiv.org/abs/2605.09825)) - `ai/research`
+1200. [Modeling Spectral Energy Shifts in Spatio-Temporal Graph Anomaly Detection](../../ai/research/arxiv-2606-00304.md) ([Source](https://arxiv.org/abs/2606.00304)) - `ai/research`
+1201. [Planar Symmetric Pattern Generation](../../ai/research/arxiv-2606-02073.md) ([Source](https://arxiv.org/abs/2606.02073)) - `ai/research`
+1202. [Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning](../../ai/agents/arxiv-2606-04923.md) ([Source](https://arxiv.org/abs/2606.04923)) - `ai/agents`
+1203. [Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models](../../ai/research/arxiv-2606-07303.md) ([Source](https://arxiv.org/abs/2606.07303)) - `ai/research`
+1204. [Detecting Explanatory Insufficiency in Learned Representations: A Framework for Representational Vigilance](../../ai/research/arxiv-2606-13172.md) ([Source](https://arxiv.org/abs/2606.13172)) - `ai/research`
+1205. [ATMA: Long-Context Language Modeling via Polar Attention and Gated-Delta Compression Memory](../../ai/research/arxiv-2606-25156.md) ([Source](https://arxiv.org/abs/2606.25156)) - `ai/research`
+1206. [Prompt-Driven Exploration](../../ai/research/arxiv-2607-08837.md) ([Source](https://arxiv.org/abs/2607.08837)) - `ai/research`
+1207. [Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity](../../ai/research/arxiv-2607-12269.md) ([Source](https://arxiv.org/abs/2607.12269)) - `ai/research`
+1208. [Gauge-Fixing the Forward-Forward Objective: A Whitened Goodness Derived from a Likelihood-Ratio Account](../../ai/research/arxiv-2607-12501.md) ([Source](https://arxiv.org/abs/2607.12501)) - `ai/research`
+1209. [Reducing Per-Sample Interference in Stochastic Optimization](../../ai/rag/arxiv-2607-16261.md) ([Source](https://arxiv.org/abs/2607.16261)) - `ai/research`
+1210. [Agentic Bayesian Optimization through Surrogate-Augmented Autoresearch](../../ai/agents/arxiv-2608-00316.md) ([Source](https://arxiv.org/abs/2608.00316)) - `ai/agents`
+1211. [Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning](../../ai/research/arxiv-2608-02168.md) ([Source](https://arxiv.org/abs/2608.02168)) - `ai/research`
+1212. [Unscented KalmanNet: Structure-Preserving Deep Learning with Calibrated Posterior Uncertainty under Incomplete Physics and Unknown Noise](../../ai/rag/arxiv-2608-04201.md) ([Source](https://arxiv.org/abs/2608.04201)) - `ai/rag`
+1213. [Continual Learning in Transition](../../ai/research/arxiv-2608-06216.md) ([Source](https://arxiv.org/abs/2608.06216)) - `ai/research`
+1214. [ED-CSP: Crystal Structure Prediction from Electron Diffraction](../../ai/research/arxiv-2608-06448.md) ([Source](https://arxiv.org/abs/2608.06448)) - `ai/research`
+1215. [Causal State-Space Model for Causal Inference: Estimating Longitudinal Individual Treatment Effects](../../ai/rag/arxiv-2608-08288.md) ([Source](https://arxiv.org/abs/2608.08288)) - `ai/rag`
+1216. [CurveFP: Co-Designing Numerical Representation and Product Arithmetic for Language Models](../../ai/research/arxiv-2608-10010.md) ([Source](https://arxiv.org/abs/2608.10010)) - `ai/research`
+1217. [Do Judges Behave Like Algorithms?](../../ai/research/arxiv-2608-10400.md) ([Source](https://arxiv.org/abs/2608.10400)) - `ai/research`
+1218. [Optimize Cheap, Deploy Strong: Cost-Aware Cross-Tier Transfer for Evolutionary Optimization](../../ai/agents/arxiv-2608-10694.md) ([Source](https://arxiv.org/abs/2608.10694)) - `ai/agents`
+1219. [Soft-Attention Improves Skin Cancer Classification Performance](../../ai/research/arxiv-2105-03358.md) ([Source](https://arxiv.org/abs/2105.03358)) - `ai/research`
+1220. [Heterogeneous transfer learning for high-dimensional regression with feature mismatch](../../ai/rag/arxiv-2412-18081.md) ([Source](https://arxiv.org/abs/2412.18081)) - `ai/rag`
+1221. [A Variational Analysis of Kernel Learning with Learnable Linear Transformations](../../ai/research/arxiv-2502-11665.md) ([Source](https://arxiv.org/abs/2502.11665)) - `ai/research`
+1222. [SteeringSafety: Benchmarking Representation Steering in LLMs Across Safety Perspectives](../../ai/research/arxiv-2509-13450.md) ([Source](https://arxiv.org/abs/2509.13450)) - `ai/research`
+1223. [End-to-end Differentiable Calibration and Reconstruction for Optical Particle Detectors](../../ai/research/arxiv-2602-24129.md) ([Source](https://arxiv.org/abs/2602.24129)) - `ai/research`
+1224. [Post-Training with Policy Gradients: Optimality and the Base Model Barrier](../../ai/research/arxiv-2603-06957.md) ([Source](https://arxiv.org/abs/2603.06957)) - `ai/research`
+1225. [LLM Router: Rethinking Routing with Prefill Activations](../../ai/research/arxiv-2603-20895.md) ([Source](https://arxiv.org/abs/2603.20895)) - `ai/research`
+1226. [CGRL: Causal-Guided Representation Learning for Node-Level Out-of-Distribution Generalization](../../ai/research/arxiv-2603-24304.md) ([Source](https://arxiv.org/abs/2603.24304)) - `ai/research`
+1227. [Trust Region Constrained Bayesian Optimization with Penalized Constraint Handling](../../ai/research/arxiv-2603-24567.md) ([Source](https://arxiv.org/abs/2603.24567)) - `ai/research`
+1228. [Diffusion-Guided Cooperative Policy Learning for Target Tracking Based on Underwater Mobile Agent Networks](../../ai/agents/arxiv-2603-29426.md) ([Source](https://arxiv.org/abs/2603.29426)) - `ai/agents`
+1229. [On Data-Driven Koopman Representations of Nonlinear Delay Differential Equations](../../ai/research/arxiv-2604-03086.md) ([Source](https://arxiv.org/abs/2604.03086)) - `ai/research`
+1230. [ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation of Large-Scale Repositories](../../ai/rag/arxiv-2604-07341.md) ([Source](https://arxiv.org/abs/2604.07341)) - `ai/rag`
+1231. [TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning](../../ai/rag/arxiv-2605-12236.md) ([Source](https://arxiv.org/abs/2605.12236)) - `ai/rag`
+1232. [Multilingual OCR-Aware Fine-Tuning and Prompt-Guided Chain-of-Thought Reasoning for Multimodal Large Language Models](../../ai/research/arxiv-2605-16409.md) ([Source](https://arxiv.org/abs/2605.16409)) - `ai/research`
+1233. [Large language models reorganize representational geometry during in-context learning](../../ai/research/arxiv-2605-28854.md) ([Source](https://arxiv.org/abs/2605.28854)) - `ai/research`
+1234. [Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning](../../ai/research/arxiv-2606-00671.md) ([Source](https://arxiv.org/abs/2606.00671)) - `ai/research`
+1235. [Ranking vs. Assignment: The Metric Mismatch in Multi-View Object Association](../../ai/research/arxiv-2606-02022.md) ([Source](https://arxiv.org/abs/2606.02022)) - `ai/research`
+1236. [RedditPersona: A Modular Framework for Community-Conditioned LLM Adaptation from Reddit](../../ai/research/arxiv-2606-06027.md) ([Source](https://arxiv.org/abs/2606.06027)) - `ai/research`
+1237. [FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning](../../ai/research/arxiv-2606-12406.md) ([Source](https://arxiv.org/abs/2606.12406)) - `ai/research`
+1238. [MMLA: How Memory Lets the Past Shape the Future](../../ai/research/arxiv-2606-28876.md) ([Source](https://arxiv.org/abs/2606.28876)) - `ai/research`
+1239. [Optimizing Expert-Designed Crystal Graph Networks for Band-Gap Prediction with an Autonomous LLM Research Loop](../../ai/agents/arxiv-2606-29717.md) ([Source](https://arxiv.org/abs/2606.29717)) - `ai/agents`
+1240. [WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution](../../ai/research/arxiv-2607-02097.md) ([Source](https://arxiv.org/abs/2607.02097)) - `ai/research`
+1241. [OrderMoE: An expert similarity driven distributed edge MoE inference](../../ai/rag/arxiv-2607-17154.md) ([Source](https://arxiv.org/abs/2607.17154)) - `ai/rag`
+1242. [PathRIR: Physics-Guided Acoustic Path Selection and Late-Tail Compensation for Fast Room Impulse Response Simulation](../../ai/research/arxiv-2607-23293.md) ([Source](https://arxiv.org/abs/2607.23293)) - `ai/research`
+1243. [DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution](../../ai/rag/arxiv-2607-26722.md) ([Source](https://arxiv.org/abs/2607.26722)) - `ai/rag`
+1244. [A Constitution-Grid Instrument for Data-Efficient RL Alignment (C-Guard)](../../ai/research/arxiv-2608-00180.md) ([Source](https://arxiv.org/abs/2608.00180)) - `ai/research`
+1245. [Rethinking Medical Landmark Localization with Prototype Learning-based Progressive Offset Correction](../../ai/rag/arxiv-2608-09182.md) ([Source](https://arxiv.org/abs/2608.09182)) - `ai/rag`
+1246. [Logit-Boundary Geometric Belief Interfaces and Sparse Sheaf-Enclave Protocols: A Self-Contained Substrate for Secure Network Electronic Health Record (EHR) Interoperability](../../ai/rag/arxiv-2608-10300.md) ([Source](https://arxiv.org/abs/2608.10300)) - `ai/rag`
+1247. [When Do Anchor-Based Pointwise LLM Rerankers Help? Retriever Quality, Statistical Scope, and Anchor Design](../../ai/research/arxiv-2608-10528.md) ([Source](https://arxiv.org/abs/2608.10528)) - `ai/research`
+1248. [Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](../../ai/research/arxiv-2608-10798.md) ([Source](https://arxiv.org/abs/2608.10798)) - `ai/research`
+1249. [Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes](../../ai/agents/arxiv-2608-11207.md) ([Source](https://arxiv.org/abs/2608.11207)) - `ai/agents`
+1250. [Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration](../../ai/agents/arxiv-2608-11210.md) ([Source](https://arxiv.org/abs/2608.11210)) - `ai/agents`
+1251. [A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph](../../ai/agents/arxiv-2608-11211.md) ([Source](https://arxiv.org/abs/2608.11211)) - `ai/agents`
+1252. [AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research](../../ai/agents/arxiv-2608-11216.md) ([Source](https://arxiv.org/abs/2608.11216)) - `ai/agents`
+1253. [LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs](../../ai/agents/arxiv-2608-11220.md) ([Source](https://arxiv.org/abs/2608.11220)) - `ai/agents`
+1254. [A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems](../../ai/rag/arxiv-2608-11221.md) ([Source](https://arxiv.org/abs/2608.11221)) - `ai/rag`
+1255. [Harnessing agent memory to build lifelong AI partners for materials scientists](../../ai/rag/arxiv-2608-11224.md) ([Source](https://arxiv.org/abs/2608.11224)) - `ai/rag`
+1256. [Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones](../../ai/agents/arxiv-2608-11225.md) ([Source](https://arxiv.org/abs/2608.11225)) - `ai/agents`
+1257. [Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet](../../ai/research/arxiv-2608-11226.md) ([Source](https://arxiv.org/abs/2608.11226)) - `ai/research`
+1258. [Synchronizing Beliefs with Second-Order Theory-of-Mind in Human-Autonomy Teams (Extended Version)](../../ai/agents/arxiv-2608-11229.md) ([Source](https://arxiv.org/abs/2608.11229)) - `ai/agents`
+1259. [The Edge-based Contiguous p-median Problem with Connections to Logistics Districting](../../ai/research/arxiv-2608-11230.md) ([Source](https://arxiv.org/abs/2608.11230)) - `ai/research`
+1260. [LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs](../../ai/research/arxiv-2608-11231.md) ([Source](https://arxiv.org/abs/2608.11231)) - `ai/research`
+1261. [InfraBench: Evaluating Infrastructure Agents Across Layers, Lifecycle, and Risk](../../ai/agents/arxiv-2608-11234.md) ([Source](https://arxiv.org/abs/2608.11234)) - `ai/agents`
+1262. [CORA-Diff: Confidence-Oriented Residual Acceptance for Efficient Diffusion Language Model Inference](../../ai/research/arxiv-2608-11235.md) ([Source](https://arxiv.org/abs/2608.11235)) - `ai/research`
+1263. [Geometry-aware Incremental Neural Operator for Long-Horizon PDE prediction](../../ai/research/arxiv-2608-11237.md) ([Source](https://arxiv.org/abs/2608.11237)) - `ai/research`
+1264. [Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability](../../ai/rag/arxiv-2608-11238.md) ([Source](https://arxiv.org/abs/2608.11238)) - `ai/rag`
+1265. [VQ-bench: A Composable Vector Quantization Framework](../../ai/research/arxiv-2608-11240.md) ([Source](https://arxiv.org/abs/2608.11240)) - `ai/research`
+1266. [RecSys Factory: Bounding LLM Agent Autonomy to Decision Points in the Industrial Recommender Lifecycle](../../ai/agents/arxiv-2608-11241.md) ([Source](https://arxiv.org/abs/2608.11241)) - `ai/agents`
+1267. [BEST-KAG: Enhancing Question Answering of Building Engineering Standards with Multimodal Knowledge Graph Modeling and Large Language Model](../../ai/research/arxiv-2608-11244.md) ([Source](https://arxiv.org/abs/2608.11244)) - `ai/research`
+1268. [Conformity Mitigations in Large Language Models Lie on a Single Resistance-Receptivity Frontier](../../ai/rag/arxiv-2608-11247.md) ([Source](https://arxiv.org/abs/2608.11247)) - `ai/rag`
+1269. [EvoGraph-Mem: Failure-Aware Editable Graph Memory for Long-Term Language Agents](../../ai/agents/arxiv-2608-11248.md) ([Source](https://arxiv.org/abs/2608.11248)) - `ai/agents`
+1270. [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](../../ai/agents/arxiv-2608-11250.md) ([Source](https://arxiv.org/abs/2608.11250)) - `ai/agents`
+1271. [Local verification cannot detect non-transportability: a cohomological theory of context preservation in agentic reasoning](../../ai/rag/arxiv-2608-11252.md) ([Source](https://arxiv.org/abs/2608.11252)) - `ai/rag`
+1272. [Adaptive Hybrid Particle Swarm Optimization with Gradient Descent](../../ai/research/arxiv-2608-11258.md) ([Source](https://arxiv.org/abs/2608.11258)) - `ai/research`
+1273. [Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning](../../ai/agents/arxiv-2608-11260.md) ([Source](https://arxiv.org/abs/2608.11260)) - `ai/agents`
+1274. [Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative Artificial Intelligence](../../ai/research/arxiv-2608-11341.md) ([Source](https://arxiv.org/abs/2608.11341)) - `ai/research`
+1275. [Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces](../../ai/research/arxiv-2608-11354.md) ([Source](https://arxiv.org/abs/2608.11354)) - `ai/research`
+1276. [Social Chain of Thought: A Multi-Agent Architecture Grounded in Medical Differential Diagnosis Methodology](../../ai/agents/arxiv-2608-11420.md) ([Source](https://arxiv.org/abs/2608.11420)) - `ai/agents`
+1277. [Benchmarking LLM Judges for Mobile Agent Evaluation](../../ai/agents/arxiv-2608-11434.md) ([Source](https://arxiv.org/abs/2608.11434)) - `ai/agents`
+1278. [Localizing Safety Alignment: MLP Layers and Mid-Network Blocks Encode Refusal Behavior in Large Language Models](../../ai/rag/arxiv-2608-11583.md) ([Source](https://arxiv.org/abs/2608.11583)) - `ai/rag`
+1279. [EnterpriseRAG: Benchmarking LLM Instruction Adherence and Robustness under Non-Ideal Enterprise Retrieval](../../ai/rag/arxiv-2608-11584.md) ([Source](https://arxiv.org/abs/2608.11584)) - `ai/rag`
+1280. [CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications](../../ai/agents/arxiv-2608-11588.md) ([Source](https://arxiv.org/abs/2608.11588)) - `ai/agents`
+1281. [Learning from Online User Feedback for Shopping Agents](../../ai/agents/arxiv-2608-11604.md) ([Source](https://arxiv.org/abs/2608.11604)) - `ai/agents`
+1282. [Foresight Without Seeing: Latent Futures for World Action Models](../../ai/rag/arxiv-2608-11605.md) ([Source](https://arxiv.org/abs/2608.11605)) - `ai/rag`
+1283. [Making AI-Generated Feedback Matter: From Provision to Student Enactment](../../ai/research/arxiv-2608-11625.md) ([Source](https://arxiv.org/abs/2608.11625)) - `ai/research`
+1284. [CLAIM: Leading Open-domain Active Clarification of Large Language Models with Uncertainty Measurement](../../ai/research/arxiv-2608-11631.md) ([Source](https://arxiv.org/abs/2608.11631)) - `ai/research`
+1285. [XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication](../../ai/agents/arxiv-2608-11676.md) ([Source](https://arxiv.org/abs/2608.11676)) - `ai/agents`
+1286. [AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection](../../ai/agents/arxiv-2608-11679.md) ([Source](https://arxiv.org/abs/2608.11679)) - `ai/agents`
+1287. [FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents](../../ai/agents/arxiv-2608-11683.md) ([Source](https://arxiv.org/abs/2608.11683)) - `ai/agents`
+1288. [HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting](../../ai/agents/arxiv-2608-11692.md) ([Source](https://arxiv.org/abs/2608.11692)) - `ai/agents`
+1289. [Making Your LLMs More Objective: Stabilizing LLM Safety Behavior Across Traits with Trait-Invariant Safety Tuning](../../ai/research/arxiv-2608-11705.md) ([Source](https://arxiv.org/abs/2608.11705)) - `ai/research`
+1290. [Proportional Analogies on Probability Distributions via Bayesian Updating](../../ai/research/arxiv-2608-11724.md) ([Source](https://arxiv.org/abs/2608.11724)) - `ai/research`
+1291. [Harness-IF: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents](../../ai/agents/arxiv-2608-11727.md) ([Source](https://arxiv.org/abs/2608.11727)) - `ai/agents`
+1292. [HyperANFIS: Enhancing Rule Representation and Interpretability in Adaptive Neuro-Fuzzy Systems via Hyperbolic Geometry](../../ai/research/arxiv-2608-11768.md) ([Source](https://arxiv.org/abs/2608.11768)) - `ai/research`
+1293. [The Sleeping Agent: What Gist-Based Context Compression Loses and Why](../../ai/agents/arxiv-2608-11775.md) ([Source](https://arxiv.org/abs/2608.11775)) - `ai/agents`
+1294. [Agent Skills Can Be Harmful: An Empirical Study of Skill-Induced Failures in LLM Agents](../../ai/agents/arxiv-2608-11888.md) ([Source](https://arxiv.org/abs/2608.11888)) - `ai/agents`
+1295. [OEIS Open: How many conjectures can language models turn into theorems?](../../ai/agents/arxiv-2608-11941.md) ([Source](https://arxiv.org/abs/2608.11941)) - `ai/agents`
+1296. [ExRole: From Team Trajectories to Executable Roles in Multi-Agent Language Models](../../ai/agents/arxiv-2608-11949.md) ([Source](https://arxiv.org/abs/2608.11949)) - `ai/agents`
+1297. [Retry, Switch, or Abstain? Learning Strategy-Aware Tool-Use Policies via Controlled Error Injection](../../ai/agents/arxiv-2608-11977.md) ([Source](https://arxiv.org/abs/2608.11977)) - `ai/agents`
+1298. [Claim-Level Reliability Assessment for Efficient Test-Time Reasoning](../../ai/research/arxiv-2608-11994.md) ([Source](https://arxiv.org/abs/2608.11994)) - `ai/research`
+1299. [CTBench: Evaluating Troubleshooting Capabilities of AI Agents in Realistic Telecom Network Operations](../../ai/agents/arxiv-2608-12002.md) ([Source](https://arxiv.org/abs/2608.12002)) - `ai/agents`
+1300. [Graph-Structured Rubrics: Compiling Rubrics into Typed Evaluation Graphs for LLM Judges](../../ai/research/arxiv-2608-12097.md) ([Source](https://arxiv.org/abs/2608.12097)) - `ai/research`
+1301. [GUIDE: Governed Unified Intelligence for Document-to-Artifact Generation in Enterprise Settings](../../ai/agents/arxiv-2608-12133.md) ([Source](https://arxiv.org/abs/2608.12133)) - `ai/agents`
+1302. [Who Thinks Best Depends on How Long You Let Them: Budget-Dependent Rankings in LLM Evaluation](../../ai/research/arxiv-2608-12150.md) ([Source](https://arxiv.org/abs/2608.12150)) - `ai/research`
+1303. [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../../ai/agents/arxiv-2608-12249.md) ([Source](https://arxiv.org/abs/2608.12249)) - `ai/agents`
+1304. [VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies](../../ai/agents/arxiv-2608-12282.md) ([Source](https://arxiv.org/abs/2608.12282)) - `ai/agents`
+1305. [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](../../ai/rag/arxiv-2608-12304.md) ([Source](https://arxiv.org/abs/2608.12304)) - `ai/rag`
+1306. [Evaluating LLM Generated Detection Rules in Cybersecurity](../../ai/research/arxiv-2509-16749.md) ([Source](https://arxiv.org/abs/2509.16749)) - `ai/research`
+1307. [Backtrader-Bench: Benchmarking LLM Agents on Algorithmic Trading with Self-Generated MCQs](../../ai/rag/arxiv-2608-11232.md) ([Source](https://arxiv.org/abs/2608.11232)) - `ai/rag`
+1308. [TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation](../../ai/rag/arxiv-2608-11236.md) ([Source](https://arxiv.org/abs/2608.11236)) - `ai/rag`
+1309. [Reinforcement Learning based DBMS Buffer Pool Auto-Tuning for Optimal Memory Utilization](../../ai/research/arxiv-2608-11239.md) ([Source](https://arxiv.org/abs/2608.11239)) - `ai/research`
+1310. [Lost in Compaction: Evaluating Side-Constraint Loss under Context Compaction](../../ai/rag/arxiv-2608-11242.md) ([Source](https://arxiv.org/abs/2608.11242)) - `ai/rag`
+1311. [Methodologies for Improving the Quality of AI Tutoring in K-12 Education](../../ai/rag/arxiv-2608-11259.md) ([Source](https://arxiv.org/abs/2608.11259)) - `ai/rag`
+1312. [Agent Safety Should Be a Runtime Contract](../../ai/agents/arxiv-2608-11274.md) ([Source](https://arxiv.org/abs/2608.11274)) - `ai/agents`
+1313. [Every pooling rule has its world: matching probability combination rules to situations and stakes](../../ai/rag/arxiv-2608-11275.md) ([Source](https://arxiv.org/abs/2608.11275)) - `ai/rag`
+1314. [Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models](../../ai/research/arxiv-2608-11283.md) ([Source](https://arxiv.org/abs/2608.11283)) - `ai/research`
+1315. [Backdoor Decontamination Dynamics in LLM Agents](../../ai/agents/arxiv-2608-11295.md) ([Source](https://arxiv.org/abs/2608.11295)) - `ai/agents`
+1316. [Socioduality: A Relational Process Framework for Human-AI Interaction](../../ai/research/arxiv-2608-11322.md) ([Source](https://arxiv.org/abs/2608.11322)) - `ai/research`
+1317. [Dual-Domain Cross-Modal Decoding for Clinical Text-Guided Medical Image Segmentation](../../ai/rag/arxiv-2608-11335.md) ([Source](https://arxiv.org/abs/2608.11335)) - `ai/rag`
+1318. [Self-evolving network verifiers](../../ai/rag/arxiv-2608-11340.md) ([Source](https://arxiv.org/abs/2608.11340)) - `ai/rag`
+1319. [Governing Agentic AI in FinTech](../../ai/agents/arxiv-2608-11344.md) ([Source](https://arxiv.org/abs/2608.11344)) - `ai/agents`
+1320. [Gaze Target Estimation Anywhere with Concepts](../../ai/research/arxiv-2608-11367.md) ([Source](https://arxiv.org/abs/2608.11367)) - `ai/research`
+1321. [AI Guardrail Survival under Single-Cycle Agentic Self-Summarization](../../ai/agents/arxiv-2608-11392.md) ([Source](https://arxiv.org/abs/2608.11392)) - `ai/agents`
+1322. [TRACES: A Benchmark for Epistemic Reliability in Scientific Reasoning by LLMs](../../ai/agents/arxiv-2608-11415.md) ([Source](https://arxiv.org/abs/2608.11415)) - `ai/agents`
+1323. [Herding End-to-End Autonomous Driving via Neuro-Symbolic Safety Guards](../../ai/rag/arxiv-2608-11451.md) ([Source](https://arxiv.org/abs/2608.11451)) - `ai/rag`
+1324. [TangPoetryBench: A Multi-Dimensional Benchmark and Rubric-Conditioned Evaluator for Poetry-to-Image Generation](../../ai/research/arxiv-2608-11452.md) ([Source](https://arxiv.org/abs/2608.11452)) - `ai/research`
+1325. [The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark](../../ai/rag/arxiv-2608-11469.md) ([Source](https://arxiv.org/abs/2608.11469)) - `ai/rag`
+1326. [Strengthening Full Justified Representation: Efficient Verification and Computation](../../ai/rag/arxiv-2608-11500.md) ([Source](https://arxiv.org/abs/2608.11500)) - `ai/rag`
+1327. [Conflict and Congruency Effects in Large Language Models: In-Weight and In-Context Competition in a Verbal Conflict Task](../../ai/research/arxiv-2608-11510.md) ([Source](https://arxiv.org/abs/2608.11510)) - `ai/research`
+1328. [Do Influence Tactics Matter? Investigating Prompt Framing Effects in LLM Code Generation](../../ai/research/arxiv-2608-11513.md) ([Source](https://arxiv.org/abs/2608.11513)) - `ai/research`
+1329. [Keep the Future, Drop the Rollout: RIFT for World Action Models](../../ai/rag/arxiv-2608-11521.md) ([Source](https://arxiv.org/abs/2608.11521)) - `ai/rag`
+1330. [A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era](../../ai/research/arxiv-2608-11540.md) ([Source](https://arxiv.org/abs/2608.11540)) - `ai/research`
+1331. [From Synthesis to Removal: Physics-Grounded Reflection Simulation and Diffusion-Based Video Dereflection](../../ai/research/arxiv-2608-11562.md) ([Source](https://arxiv.org/abs/2608.11562)) - `ai/research`
+1332. [Reinforcing Step-level Reasoning for Effective Self-Correction in LLMs](../../ai/research/arxiv-2608-11573.md) ([Source](https://arxiv.org/abs/2608.11573)) - `ai/research`
+1333. [RoadWeaver: Large-Scale Lane-Level HD Map Generation from Scratch for Autonomous Driving Simulation](../../ai/agents/arxiv-2608-11580.md) ([Source](https://arxiv.org/abs/2608.11580)) - `ai/agents`
+1334. [A Hybrid Framework of Vision Transformer and Gated Recurrent Unit for Detection of Mosquito Diseases](../../ai/research/arxiv-2608-11582.md) ([Source](https://arxiv.org/abs/2608.11582)) - `ai/research`
+1335. [Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs](../../ai/agents/arxiv-2608-11624.md) ([Source](https://arxiv.org/abs/2608.11624)) - `ai/agents`
+1336. [Deep Learning Based Relative Transfer Matrix Estimation for Multiple Sources and Multiple Microphones](../../ai/research/arxiv-2608-11627.md) ([Source](https://arxiv.org/abs/2608.11627)) - `ai/research`
+1337. [Beyond Memory: A Transactional Continuity Kernel for Long-Lived AI Agents](../../ai/rag/arxiv-2608-11632.md) ([Source](https://arxiv.org/abs/2608.11632)) - `ai/rag`
+1338. [Motion-as-Prompt: Enhancing Motion Reasoning in Multimodal Large Language Models via Motion-Guided Cross-Frame Visual Prompting](../../ai/rag/arxiv-2608-11655.md) ([Source](https://arxiv.org/abs/2608.11655)) - `ai/rag`
+1339. [Semantic Lenia: Emergence of Homeostatic Solitons within the Semantic Space of Large Language Models](../../ai/agents/arxiv-2608-11657.md) ([Source](https://arxiv.org/abs/2608.11657)) - `ai/agents`
+1340. [Learning from Multimodal Pseudo-Labels for Robust Open-Vocabulary Instance and Panoptic Segmentation](../../ai/rag/arxiv-2608-11681.md) ([Source](https://arxiv.org/abs/2608.11681)) - `ai/rag`
+1341. [The Wording Effect: Quantifying Two-Way Drift in LLM Benchmark Performance](../../ai/rag/arxiv-2608-11694.md) ([Source](https://arxiv.org/abs/2608.11694)) - `ai/rag`
+1342. [When the API Speaks the Wrong Language: Revisiting Post-Training for Multilingual Tool Use](../../ai/research/arxiv-2608-11715.md) ([Source](https://arxiv.org/abs/2608.11715)) - `ai/research`
+1343. [Fingerprinting Text-to-Image Diffusion Models via Collapsed Generation](../../ai/rag/arxiv-2608-11732.md) ([Source](https://arxiv.org/abs/2608.11732)) - `ai/rag`
+1344. [A 12-CNOT Double Qubit Excitation Gate](../../ai/research/arxiv-2608-11733.md) ([Source](https://arxiv.org/abs/2608.11733)) - `ai/research`
+1345. [Advancing MLLM-based UAV Image Understanding and Reasoning: A Benchmark and a Training-Free Multi-Agent System](../../ai/rag/arxiv-2608-11738.md) ([Source](https://arxiv.org/abs/2608.11738)) - `ai/rag`
+1346. [G0.5: One Autoregressive Stream for Robot Reasoning and Action](../../ai/research/arxiv-2608-11739.md) ([Source](https://arxiv.org/abs/2608.11739)) - `ai/research`
+1347. [JieZi: A Large-Scale Expert-Audited Dataset and Benchmark for Ancient Chinese Character Exegesis](../../ai/research/arxiv-2608-11741.md) ([Source](https://arxiv.org/abs/2608.11741)) - `ai/research`
+1348. [Instruction Alignment for Binary Code Representation Learning](../../ai/rag/arxiv-2608-11766.md) ([Source](https://arxiv.org/abs/2608.11766)) - `ai/rag`
+1349. [TELLME: Test-Enhanced Learning for Language Model Enrichment](../../ai/rag/arxiv-2608-11788.md) ([Source](https://arxiv.org/abs/2608.11788)) - `ai/rag`
+1350. [Toward Meaningful Transparency for AI Chatbots: Disclosing Persuasive Intent Reduces Persuasion](../../ai/research/arxiv-2608-11794.md) ([Source](https://arxiv.org/abs/2608.11794)) - `ai/research`
+1351. [Towards Model-based Run-time Cybersecurity: On Control-Flow Anomaly Detection, Attack Identification, and Hardware Monitoring](../../ai/research/arxiv-2608-11802.md) ([Source](https://arxiv.org/abs/2608.11802)) - `ai/research`
+1352. [How China-Origin Vision-Language Models Move from Refusal to Reframing in State Alignment](../../ai/research/arxiv-2608-11816.md) ([Source](https://arxiv.org/abs/2608.11816)) - `ai/research`
+1353. [LookBack: Where and How to Score LVLM Responses via Visual Reference Usage](../../ai/research/arxiv-2608-11847.md) ([Source](https://arxiv.org/abs/2608.11847)) - `ai/research`
+1354. [Two-Stage Deformable-Convolutional Inverse Design of Nanophotonic Absorbers from Optical Spectra](../../ai/research/arxiv-2608-11860.md) ([Source](https://arxiv.org/abs/2608.11860)) - `ai/research`
+1355. [CoQui: A Coordinate-Conditioned Quantum Implicit Generative Adversarial Network for End-to-End Image Generation](../../ai/research/arxiv-2608-11884.md) ([Source](https://arxiv.org/abs/2608.11884)) - `ai/research`
+1356. [DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation](../../ai/research/arxiv-2608-11889.md) ([Source](https://arxiv.org/abs/2608.11889)) - `ai/research`
+1357. [Benchmark-Based Comparative Assessment of Publicly Benchmarked Indian Foundation Models: A Capability and Evaluation-Maturity Framework](../../ai/rag/arxiv-2608-11891.md) ([Source](https://arxiv.org/abs/2608.11891)) - `ai/rag`
+1358. [Do You See What You Draw? A Semantic Closed-Loop Framework for Holistic Evaluation of Unified Multimodal Models](../../ai/rag/arxiv-2608-11907.md) ([Source](https://arxiv.org/abs/2608.11907)) - `ai/rag`
+1359. [Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians](../../ai/research/arxiv-2608-11911.md) ([Source](https://arxiv.org/abs/2608.11911)) - `ai/research`
+1360. [Accuracy and Order Sensitivity Diverge Under Label-Free Strategies](../../ai/research/arxiv-2608-11947.md) ([Source](https://arxiv.org/abs/2608.11947)) - `ai/research`
+1361. [Causal inference for group-contaminated structured outcomes: observable quotients, lossless reduction and exact randomization inference](../../ai/research/arxiv-2608-11954.md) ([Source](https://arxiv.org/abs/2608.11954)) - `ai/research`
+1362. [HCGRec: Hint-Conditioned Generative Recommendation with Semantic IDs](../../ai/research/arxiv-2608-11980.md) ([Source](https://arxiv.org/abs/2608.11980)) - `ai/research`
+1363. [RealisticTritonBench: A Benchmark for Triton-Kernel Generation in Real-World AI Frameworks](../../ai/research/arxiv-2608-12004.md) ([Source](https://arxiv.org/abs/2608.12004)) - `ai/research`
+1364. [From Safety Documentation to Safety Knowledge Support: An Evidence-Grounded LLM Framework for Medical Devices](../../ai/rag/arxiv-2608-12025.md) ([Source](https://arxiv.org/abs/2608.12025)) - `ai/rag`
+1365. [LoSA: Near-Lossless Sparse Attention for Training-Free Video Diffusion Acceleration](../../ai/research/arxiv-2608-12032.md) ([Source](https://arxiv.org/abs/2608.12032)) - `ai/research`
+1366. [How Far from Clinical Deployment? Evaluating the Complete Unsupervised Domain Adaptation Pipeline in Medical Imaging](../../ai/research/arxiv-2608-12035.md) ([Source](https://arxiv.org/abs/2608.12035)) - `ai/research`
+1367. [Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations](../../ai/rag/arxiv-2608-12062.md) ([Source](https://arxiv.org/abs/2608.12062)) - `ai/rag`
+1368. [Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL](../../ai/rag/arxiv-2608-12063.md) ([Source](https://arxiv.org/abs/2608.12063)) - `ai/rag`
+1369. [No One to Blame: A Framework of Constitutive AI Unaccountability](../../ai/agents/arxiv-2608-12104.md) ([Source](https://arxiv.org/abs/2608.12104)) - `ai/agents`
+1370. [QV-PIC: Query-Aware Visual Position-Independent Caching for Efficient RAG Serving](../../ai/rag/arxiv-2608-12121.md) ([Source](https://arxiv.org/abs/2608.12121)) - `ai/rag`
+1371. [Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control](../../ai/agents/arxiv-2608-12123.md) ([Source](https://arxiv.org/abs/2608.12123)) - `ai/agents`
+1372. [Do LLMs Take Care of Their Own? Similarity Signals Can Induce Cooperation](../../ai/agents/arxiv-2608-12125.md) ([Source](https://arxiv.org/abs/2608.12125)) - `ai/agents`
+1373. [Co-constructing sociotechnical AI governance: participatory system mapping using algorithm registers](../../ai/research/arxiv-2608-12166.md) ([Source](https://arxiv.org/abs/2608.12166)) - `ai/research`
+1374. [HSTGFormer: Hyper Spatial-Temporal Graph Transformer for 3D Human Pose Estimation](../../ai/research/arxiv-2608-12187.md) ([Source](https://arxiv.org/abs/2608.12187)) - `ai/research`
+1375. [Machine Learning-Based Cyber Defense for Cloud Infrastructure: An Adaptive Deep Q-Network Architecture for Intelligent Intrusion Detection and Automated Threat Mitigation](../../ai/rag/arxiv-2608-12190.md) ([Source](https://arxiv.org/abs/2608.12190)) - `ai/rag`
+1376. [M-Net: Integrating Spectral Features and Physical Field Operators into Deep Learning for Medical Image Segmentation](../../ai/research/arxiv-2608-12196.md) ([Source](https://arxiv.org/abs/2608.12196)) - `ai/research`
+1377. [NetlistBench: Evaluating LLM Reliability in SPICE Netlist Recognition and Manipulation](../../ai/research/arxiv-2608-12197.md) ([Source](https://arxiv.org/abs/2608.12197)) - `ai/research`
+1378. [Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge](../../ai/research/arxiv-2608-12218.md) ([Source](https://arxiv.org/abs/2608.12218)) - `ai/research`
+1379. [SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward](../../ai/research/arxiv-2608-12220.md) ([Source](https://arxiv.org/abs/2608.12220)) - `ai/research`
+1380. [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](../../ai/research/arxiv-2608-12227.md) ([Source](https://arxiv.org/abs/2608.12227)) - `ai/research`
+1381. [Few-Shot Ordinal Learning for Day-Wise Freshness Estimation with Hyperspectral Fish Images](../../ai/rag/arxiv-2608-12230.md) ([Source](https://arxiv.org/abs/2608.12230)) - `ai/rag`
+1382. [How Organizations Use AI: Evidence from ChatGPT](../../ai/research/arxiv-2608-12236.md) ([Source](https://arxiv.org/abs/2608.12236)) - `ai/research`
+1383. [HAMP-LIC: Hessian-Aware Mixed-Precision Post-Training Quantization for Learned Image Compression](../../ai/research/arxiv-2608-12239.md) ([Source](https://arxiv.org/abs/2608.12239)) - `ai/research`
+1384. [VICBench: A Multi-Language Benchmark for Code Vulnerability Detection](../../ai/rag/arxiv-2608-12246.md) ([Source](https://arxiv.org/abs/2608.12246)) - `ai/rag`
+1385. [Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams](../../ai/agents/arxiv-2608-12262.md) ([Source](https://arxiv.org/abs/2608.12262)) - `ai/agents`
+1386. [Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents](../../ai/agents/arxiv-2608-12273.md) ([Source](https://arxiv.org/abs/2608.12273)) - `ai/agents`
+1387. [A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery](../../ai/research/arxiv-2608-12274.md) ([Source](https://arxiv.org/abs/2608.12274)) - `ai/research`
+1388. [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](../../ai/research/arxiv-2608-12278.md) ([Source](https://arxiv.org/abs/2608.12278)) - `ai/research`
+1389. [Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence](../../ai/agents/arxiv-2608-12290.md) ([Source](https://arxiv.org/abs/2608.12290)) - `ai/agents`
+1390. [Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations](../../ai/rag/arxiv-2608-12299.md) ([Source](https://arxiv.org/abs/2608.12299)) - `ai/rag`
+1391. [DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](../../ai/agents/arxiv-2608-12308.md) ([Source](https://arxiv.org/abs/2608.12308)) - `ai/agents`
+1392. [Causal Agent based on Large Language Model](../../ai/agents/arxiv-2408-06849.md) ([Source](https://arxiv.org/abs/2408.06849)) - `ai/agents`
+1393. [On Benchmarking Human-Like Intelligence in Machines](../../ai/research/arxiv-2502-20502.md) ([Source](https://arxiv.org/abs/2502.20502)) - `ai/research`
+1394. [OpenAg: Democratizing Agricultural Intelligence](../../ai/agents/arxiv-2506-04571.md) ([Source](https://arxiv.org/abs/2506.04571)) - `ai/agents`
+1395. [Deep Fictitious Play-Based Potential Differential Games for Learning Human-Like Interaction at Unsignalized Intersections](../../ai/rag/arxiv-2506-12283.md) ([Source](https://arxiv.org/abs/2506.12283)) - `ai/rag`
+1396. [DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation](../../ai/rag/arxiv-2507-14267.md) ([Source](https://arxiv.org/abs/2507.14267)) - `ai/rag`
+1397. [On the Definition of Intelligence](../../ai/research/arxiv-2507-22423.md) ([Source](https://arxiv.org/abs/2507.22423)) - `ai/research`
+1398. [Behavior and Representation in Open-Weight Large Language Models for Combinatorial Optimization: From Feature Extraction to Algorithm Selection](../../ai/research/arxiv-2512-13374.md) ([Source](https://arxiv.org/abs/2512.13374)) - `ai/research`
+1399. [Credo: Declarative Control of LLM Pipelines via Beliefs and Policies](../../ai/agents/arxiv-2604-14401.md) ([Source](https://arxiv.org/abs/2604.14401)) - `ai/agents`
+1400. [Towards Human Motion World Models via Executable Behaviour Representations](../../ai/rag/arxiv-2604-18064.md) ([Source](https://arxiv.org/abs/2604.18064)) - `ai/rag`
+1401. [Tools as Continuous Flow for Evolving Agentic Reasoning](../../ai/rag/arxiv-2605-07339.md) ([Source](https://arxiv.org/abs/2605.07339)) - `ai/rag`
+1402. [Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching](../../ai/agents/arxiv-2605-29055.md) ([Source](https://arxiv.org/abs/2605.29055)) - `ai/agents`
+1403. [Teaching agentic AI to learn expert reasoning for rare disease diagnosis](../../ai/agents/arxiv-2606-16149.md) ([Source](https://arxiv.org/abs/2606.16149)) - `ai/agents`
+1404. [Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising](../../ai/agents/arxiv-2607-00407.md) ([Source](https://arxiv.org/abs/2607.00407)) - `ai/agents`
+1405. [The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy](../../ai/agents/arxiv-2607-11175.md) ([Source](https://arxiv.org/abs/2607.11175)) - `ai/agents`
+1406. [SportD: How do VLMs physically strategize?](../../ai/research/arxiv-2607-14616.md) ([Source](https://arxiv.org/abs/2607.14616)) - `ai/research`
+1407. [The Human-AI Substitution Principle: When will you be replaced by AI in your organization?](../../ai/research/arxiv-2607-20781.md) ([Source](https://arxiv.org/abs/2607.20781)) - `ai/research`
+1408. [A foundation model of numerical intelligence with cross-disciplinary generalization](../../ai/agents/arxiv-2607-28432.md) ([Source](https://arxiv.org/abs/2607.28432)) - `ai/agents`
+1409. [Grounded Well-Condition Anomaly Detection on the Volve Field: Constructed Labels, a Baseline, and a Dual-Head Model](../../ai/research/arxiv-2608-05685.md) ([Source](https://arxiv.org/abs/2608.05685)) - `ai/research`
+1410. [Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains](../../ai/research/arxiv-2608-07474.md) ([Source](https://arxiv.org/abs/2608.07474)) - `ai/research`
+1411. [HexEval: An Evidence-Driven Hexagonal Framework for Multidimensional Scholar Assessment](../../ai/rag/arxiv-2608-10584.md) ([Source](https://arxiv.org/abs/2608.10584)) - `ai/rag`
+1412. [ComBodied Agents: a New Paradigm of Human-Centric Agentic AI](../../ai/rag/arxiv-2608-10915.md) ([Source](https://arxiv.org/abs/2608.10915)) - `ai/rag`
+1413. [ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation](../../ai/research/arxiv-2411-15122.md) ([Source](https://arxiv.org/abs/2411.15122)) - `ai/research`
+1414. [Explainability in Practice: A Survey of Explainable NLP Across Various Domains](../../ai/research/arxiv-2502-00837.md) ([Source](https://arxiv.org/abs/2502.00837)) - `ai/research`
+1415. [Proportional Committee Elections with Positive and Negative Votes](../../ai/rag/arxiv-2503-01985.md) ([Source](https://arxiv.org/abs/2503.01985)) - `ai/rag`
+1416. [COLORA: Efficient Fine-Tuning for Convolutional Models with a Study Case on Optical Coherence Tomography Image Classification](../../ai/research/arxiv-2505-18315.md) ([Source](https://arxiv.org/abs/2505.18315)) - `ai/research`
+1417. [P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments](../../ai/research/arxiv-2506-17332.md) ([Source](https://arxiv.org/abs/2506.17332)) - `ai/research`
+1418. [Small Data Explainer -- The impact of small data methods in everyday life](../../ai/rag/arxiv-2507-11773.md) ([Source](https://arxiv.org/abs/2507.11773)) - `ai/rag`
+1419. [Commonsense on Demand: Generating and Selectively Integrating Commonsense Knowledge for Natural Language Inference](../../ai/research/arxiv-2507-15100.md) ([Source](https://arxiv.org/abs/2507.15100)) - `ai/research`
+1420. [Quantization-Aware Neuromorphic Architecture for Skin Lesion Classification on Resource-Constrained Devices](../../ai/rag/arxiv-2507-15958.md) ([Source](https://arxiv.org/abs/2507.15958)) - `ai/rag`
+1421. [Empowering Children to Create AI-Enabled Augmented Reality Experiences](../../ai/research/arxiv-2508-08467.md) ([Source](https://arxiv.org/abs/2508.08467)) - `ai/research`
+1422. [Ethics Practices in AI Development: An Empirical Study Across Roles and Regions](../../ai/research/arxiv-2508-09219.md) ([Source](https://arxiv.org/abs/2508.09219)) - `ai/research`
+1423. [CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D](../../ai/rag/arxiv-2509-24528.md) ([Source](https://arxiv.org/abs/2509.24528)) - `ai/rag`
+1424. [LiDAR-based 3D Change Detection at City Scale](../../ai/research/arxiv-2510-21112.md) ([Source](https://arxiv.org/abs/2510.21112)) - `ai/research`
+1425. [MicroAUNet: Boundary-Enhanced Multi-scale Fusion with Knowledge Distillation for Colonoscopy Polyp Image Segmentation](../../ai/research/arxiv-2511-01143.md) ([Source](https://arxiv.org/abs/2511.01143)) - `ai/research`
+1426. [LLM-Powered Automatic Translation and Urgency in Crisis Scenarios](../../ai/research/arxiv-2602-13452.md) ([Source](https://arxiv.org/abs/2602.13452)) - `ai/research`
+1427. [How effective are VLMs in assisting humans in inferring the quality of mental models from Multimodal short answers?](../../ai/research/arxiv-2603-00056.md) ([Source](https://arxiv.org/abs/2603.00056)) - `ai/research`
+1428. [A Simple Efficiency Incremental Learning Framework via Vision-Language Model with Nonlinear Multi-Adapters](../../ai/research/arxiv-2603-11211.md) ([Source](https://arxiv.org/abs/2603.11211)) - `ai/research`
+1429. [Large Language Models Reproduce Racial Stereotypes When Used for Text Annotation](../../ai/research/arxiv-2603-13891.md) ([Source](https://arxiv.org/abs/2603.13891)) - `ai/research`
+1430. [VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation](../../ai/research/arxiv-2603-17450.md) ([Source](https://arxiv.org/abs/2603.17450)) - `ai/research`
+1431. [REVERE: Reflective Evolving Research Engineer](../../ai/agents/arxiv-2603-20667.md) ([Source](https://arxiv.org/abs/2603.20667)) - `ai/agents`
+1432. [Designing Agentic AI-Based Screening for Portfolio Investment](../../ai/agents/arxiv-2603-23300.md) ([Source](https://arxiv.org/abs/2603.23300)) - `ai/agents`
+1433. [Evaluation and Hardening of LLM System Instructions Against Extraction via Encoding Attacks](../../ai/agents/arxiv-2604-01039.md) ([Source](https://arxiv.org/abs/2604.01039)) - `ai/agents`
+1434. [Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting](../../ai/rag/arxiv-2604-02512.md) ([Source](https://arxiv.org/abs/2604.02512)) - `ai/rag`
+1435. [Uncertainty as a Planning Signal: Multi-Turn Decision Making for Goal-Oriented Conversation](../../ai/research/arxiv-2604-03924.md) ([Source](https://arxiv.org/abs/2604.03924)) - `ai/research`
+1436. [TEMPER: Testing Emotional Perturbation in Quantitative Reasoning](../../ai/research/arxiv-2604-07801.md) ([Source](https://arxiv.org/abs/2604.07801)) - `ai/research`
+1437. [DORA Explorer: Improving the Exploration Ability of LLMs Without Training](../../ai/agents/arxiv-2604-17244.md) ([Source](https://arxiv.org/abs/2604.17244)) - `ai/agents`
+1438. [Making Gaussian Kolmogorov-Arnold Networks Reliable and Accurate](../../ai/research/arxiv-2604-21174.md) ([Source](https://arxiv.org/abs/2604.21174)) - `ai/research`
+1439. [Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents](../../ai/rag/arxiv-2604-27143.md) ([Source](https://arxiv.org/abs/2604.27143)) - `ai/rag`
+1440. [CAR: Query-Guided Confidence-Aware Reranking for Retrieval-Augmented Generation](../../ai/rag/arxiv-2605-04495.md) ([Source](https://arxiv.org/abs/2605.04495)) - `ai/rag`
+1441. [Text Corpora as Concept Fields: Black-Box Hallucination and Novelty Measurement](../../ai/rag/arxiv-2605-05103.md) ([Source](https://arxiv.org/abs/2605.05103)) - `ai/rag`
+1442. [Cavity-Enhanced Collective Quantum Processing with Polarization-Encoded Qubits](../../ai/research/arxiv-2605-10473.md) ([Source](https://arxiv.org/abs/2605.10473)) - `ai/research`
+1443. [memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](../../ai/rag/arxiv-2606-01138.md) ([Source](https://arxiv.org/abs/2606.01138)) - `ai/rag`
+1444. [ArtiFact: A Large-Scale Multi-Modal Cultural Heritage Dataset](../../ai/research/arxiv-2606-09648.md) ([Source](https://arxiv.org/abs/2606.09648)) - `ai/research`
+1445. [From World Models to World Action Models: A Concise Tutorial for Robotics](../../ai/research/arxiv-2607-00836.md) ([Source](https://arxiv.org/abs/2607.00836)) - `ai/research`
+1446. [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](../../ai/rag/arxiv-2607-12310.md) ([Source](https://arxiv.org/abs/2607.12310)) - `ai/rag`
+1447. [Cryptographically verifiable authorization for autonomous AI agents: A falsifiable hypothesis and proof-of-concept](../../ai/agents/arxiv-2607-21325.md) ([Source](https://arxiv.org/abs/2607.21325)) - `ai/agents`
+1448. [Beyond Representational Similarity: Source-Conditioned Description-Length Gain for Generative Plagiarism Detection and Candidate Source Reranking](../../ai/research/arxiv-2608-03859.md) ([Source](https://arxiv.org/abs/2608.03859)) - `ai/research`
+1449. [Do Evaluation Metrics Detect Errors in Classical Chinese to English Translations?](../../ai/research/arxiv-2608-08283.md) ([Source](https://arxiv.org/abs/2608.08283)) - `ai/research`
+1450. [Epistemic Transfer in AI-Assisted Verification: A Framework and Evaluation Protocol](../../ai/research/arxiv-2608-08882.md) ([Source](https://arxiv.org/abs/2608.08882)) - `ai/research`
+1451. [Learning Preference Adaptation for Large Language Model Personalization via Verbal Reinforcement Learning](../../ai/rag/arxiv-2608-09507.md) ([Source](https://arxiv.org/abs/2608.09507)) - `ai/rag`
+1452. [From Reasoning Depth to Reasoning Breadth: Evaluating Multi-Point Associative Reasoning in Large Language Models](../../ai/agents/arxiv-2608-10444.md) ([Source](https://arxiv.org/abs/2608.10444)) - `ai/agents`
+1453. [Persistent Recursive Worlds Enable Autonomous Software Evolution](../../ai/agents/arxiv-2608-10450.md) ([Source](https://arxiv.org/abs/2608.10450)) - `ai/agents`
+1454. [Inferential Capability Does Not Determine Legal Scope](../../ai/agents/arxiv-2608-10601.md) ([Source](https://arxiv.org/abs/2608.10601)) - `ai/agents`
+1455. [ENTLORE: A Graph-Grounded Benchmark for Latent Organizational Reasoning in Enterprise Question Answering](../../ai/research/arxiv-2608-10679.md) ([Source](https://arxiv.org/abs/2608.10679)) - `ai/research`
+1456. [Surfacing the Unsaid: CUE-Bench for Affective Stance in Chinese Discourse](../../ai/rag/arxiv-2608-10810.md) ([Source](https://arxiv.org/abs/2608.10810)) - `ai/rag`
+1457. [Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation](../../ai/rag/arxiv-2608-10812.md) ([Source](https://arxiv.org/abs/2608.10812)) - `ai/rag`
+1458. [Policy Convergence and Divergence Across National and Within Regional AI Strategies: A Policy Design Element Analysis](../../ai/research/arxiv-2608-11006.md) ([Source](https://arxiv.org/abs/2608.11006)) - `ai/research`
 
 ## Weekly Company Updates
 
-1. [Computer vision](../../ai/companies/computer-vision.md) ([Source](https://microsoft.com/en-us/research/research-area/computer-vision)) - `ai/companies`
-2. [Human language technologies](../../ai/companies/human-language-technologies.md) ([Source](https://microsoft.com/en-us/research/research-area/human-language-technologies)) - `ai/companies`
-3. [Code & data](../../ai/companies/code-data.md) ([Source](https://microsoft.com/en-us/research/tools)) - `ai/companies`
-4. [Graphics & multimedia](../../ai/companies/graphics-multimedia.md) ([Source](https://microsoft.com/en-us/research/research-area/graphics-and-multimedia)) - `ai/companies`
-5. [Artificial intelligence](../../ai/companies/artificial-intelligence.md) ([Source](https://microsoft.com/en-us/research/focus-area/ai-and-microsoft-research)) - `ai/companies`
-6. [Search & information retrieval](../../ai/companies/search-information-retrieval.md) ([Source](https://microsoft.com/en-us/research/research-area/search-information-retrieval)) - `ai/companies`
-7. [Human-computer interaction](../../ai/companies/human-computer-interaction.md) ([Source](https://microsoft.com/en-us/research/research-area/human-computer-interaction)) - `ai/companies`
-8. [Microsoft Research blog](../../ai/companies/microsoft-research-blog.md) ([Source](https://microsoft.com/en-us/research/blog)) - `ai/companies`
-9. [Publications](../../ai/companies/publications.md) ([Source](https://microsoft.com/en-us/research/publications)) - `ai/companies`
-10. [Audio & acoustics](../../ai/companies/audio-acoustics.md) ([Source](https://microsoft.com/en-us/research/research-area/audio-acoustics)) - `ai/companies`
-11. [In-region inference, open models, and new European infrastructure for sovereign AI.](../../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md) ([Source](https://mistral.ai/news/regional-inference-open-models-new-compute)) - `ai/companies/mistral`
-12. [Introducing Shieldstral.](../../ai/companies/mistral/introducing-shieldstral.md) ([Source](https://mistral.ai/news/shieldstral)) - `ai/companies/mistral`
-13. [Voxtral TTS](../../ai/companies/mistral/voxtral-tts.md) ([Source](https://mistral.ai/news/voxtral-tts)) - `ai/companies/mistral`
-14. [Mistral Small 4](../../ai/companies/mistral/mistral-small-4.md) ([Source](https://mistral.ai/news/mistral-small-4)) - `ai/companies/mistral`
-15. [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md) ([Source](https://mistral.ai/news/robostral-navigate)) - `ai/companies/mistral`
-16. [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md) ([Source](https://mistral.ai/news/more-control-over-connectors)) - `ai/companies/mistral`
-17. [Your Prompts and Skills need a system of record.](../../ai/companies/mistral/your-prompts-and-skills-need-a-system-of-record.md) ([Source](https://mistral.ai/news/manage-prompts-and-skills-in-studio)) - `ai/companies/mistral`
-18. [Mistral Medium 3.5](../../ai/companies/mistral/mistral-medium-3-5.md) ([Source](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5)) - `ai/companies/mistral`
-19. [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md) ([Source](https://mistral.ai/news/leanstral-1-5)) - `ai/companies/mistral`
-20. [Mistral OCR 4](../../ai/companies/mistral/mistral-ocr-4.md) ([Source](https://mistral.ai/news/ocr-4)) - `ai/companies/mistral`
-21. [Global Affairs](../../ai/companies/openai/global-affairs.md) ([Source](https://openai.com/news/global-affairs)) - `ai/companies/openai`
-22. [AI Adoption](../../ai/companies/openai/ai-adoption.md) ([Source](https://openai.com/news/ai-adoption)) - `ai/companies/openai`
-23. [Engineering](../../ai/companies/openai/engineering.md) ([Source](https://openai.com/news/engineering)) - `ai/companies/openai`
-24. [Applied AI](../../ai/companies/openai/applied-ai.md) ([Source](https://openai.com/news/applied-ai)) - `ai/companies/openai`
-25. [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md) ([Source](https://anthropic.com/news/rare-disease-research-grants)) - `ai/companies/anthropic`
-26. [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md) ([Source](https://anthropic.com/news/anthropic-economic-index-connector)) - `ai/companies/anthropic`
-27. [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md) ([Source](https://anthropic.com/news/improving-fable-5-s-biology-safeguards)) - `ai/companies/anthropic`
-28. [Jul 27, 2026AnnouncementsOur position on open-weights models](../../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md) ([Source](https://anthropic.com/news/position-open-weights-models)) - `ai/companies/anthropic`
-29. [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md) ([Source](https://anthropic.com/news/cognizant-anthropic)) - `ai/companies/anthropic`
-30. [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md) ([Source](https://anthropic.com/news/economic-futures-research-fund-agenda)) - `ai/companies/anthropic`
-31. [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md) ([Source](https://anthropic.com/news/tino-cuellar)) - `ai/companies/anthropic`
-32. [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md) ([Source](https://anthropic.com/news/claude-sonnet-5)) - `ai/companies/anthropic`
-33. [Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations](../../ai/companies/anthropic/jul-30-2026investigating-three-real-world-incident.md) ([Source](https://anthropic.com/news/investigating-incidents-cybersecurity-evals)) - `ai/companies/anthropic`
-34. [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md) ([Source](https://anthropic.com/news/donation-public-first-action)) - `ai/companies/anthropic`
-35. [NewsDiscover our latest AI breakthroughs, projects, and updates](../../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md) ([Source](https://deepmind.google/blog)) - `ai/companies/deepmind`
-36. [SIMA 2An agent that plays, reasons, and learns with you](../../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md) ([Source](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds)) - `ai/companies/deepmind`
-37. [Learn more](../../ai/companies/deepmind/learn-more.md) ([Source](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands)) - `ai/companies/deepmind`
-38. [AlphaEvolveDesign advanced algorithms for math and applications in computing](../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md) ([Source](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms)) - `ai/companies/deepmind`
-39. [AlphaEarthMap our planet in unprecedented detail](../../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md) ([Source](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail)) - `ai/companies/deepmind`
-40. [Building the Open Agent Ecosystem Together: Introducing OpenEnv](../../ai/agents/huggingface-blog-openenv.md) ([Source](https://huggingface.co/blog/openenv)) - `ai/agents`
-41. [DeepSeek-V4: a million-token context that agents can actually use](../../ai/agents/huggingface-blog-deepseekv4.md) ([Source](https://huggingface.co/blog/deepseekv4)) - `ai/agents`
-42. [DABStep: Data Agent Benchmark for Multi-step Reasoning](../../ai/agents/huggingface-blog-dabstep.md) ([Source](https://huggingface.co/blog/dabstep)) - `ai/agents`
-43. [ScreenSuite - The most comprehensive evaluation suite for GUI Agents!](../../ai/agents/huggingface-blog-screensuite.md) ([Source](https://huggingface.co/blog/screensuite)) - `ai/agents`
-44. [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](../../ai/agents/huggingface-blog-agent-intrusion-technical-timeline.md) ([Source](https://huggingface.co/blog/agent-intrusion-technical-timeline)) - `ai/agents`
-45. [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](../../ai/agents/huggingface-blog-amazon-strands-lerobot-hub-to-hardware.md) ([Source](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware)) - `ai/agents`
-46. [AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](../../ai/agents/huggingface-blog-ibm-research-assetopsbench-playground-on-hugging-face.md) ([Source](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face)) - `ai/agents`
-47. [ScreenEnv: Deploy your full stack Desktop Agent](../../ai/agents/huggingface-blog-screenenv.md) ([Source](https://huggingface.co/blog/screenenv)) - `ai/agents`
-48. [Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system](../../ai/agents/huggingface-blog-aivsai.md) ([Source](https://huggingface.co/blog/aivsai)) - `ai/agents`
-49. [Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent](../../ai/agents/huggingface-blog-jat.md) ([Source](https://huggingface.co/blog/jat)) - `ai/agents`
-50. [Agentic Resource Discovery: Let agents search](../../ai/agents/huggingface-blog-agentic-resource-discovery-launch.md) ([Source](https://huggingface.co/blog/agentic-resource-discovery-launch)) - `ai/agents`
-51. [Back to The Future: Evaluating AI Agents on Predicting Future Events](../../ai/agents/huggingface-blog-futurebench.md) ([Source](https://huggingface.co/blog/futurebench)) - `ai/agents`
-52. [AI Agents Are Here. What Now?](../../ai/agents/huggingface-blog-ethics-soc-7.md) ([Source](https://huggingface.co/blog/ethics-soc-7)) - `ai/agents`
-53. [Is it agentic enough? Benchmarking open models on your own tooling](../../ai/agents/huggingface-blog-is-it-agentic-enough.md) ([Source](https://huggingface.co/blog/is-it-agentic-enough)) - `ai/agents`
-54. [Designing the hf CLI as an agent-optimized way to work with the Hub](../../ai/agents/huggingface-blog-hf-cli-for-agents.md) ([Source](https://huggingface.co/blog/hf-cli-for-agents)) - `ai/agents`
-55. [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](../../ai/agents/huggingface-blog-ibm-research-scarfbench.md) ([Source](https://huggingface.co/blog/ibm-research/scarfbench)) - `ai/agents`
-56. [The Open Source Community is backing OpenEnv for Agentic RL](../../ai/agents/huggingface-blog-openenv-agentic-rl.md) ([Source](https://huggingface.co/blog/openenv-agentic-rl)) - `ai/agents`
-57. [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](../../ai/agents/huggingface-blog-nvidia-nemotron-3-nano-omni-multimodal-intelligence.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence)) - `ai/agents`
-58. [License to Call: Introducing Transformers Agents 2.0](../../ai/agents/huggingface-blog-agents.md) ([Source](https://huggingface.co/blog/agents)) - `ai/agents`
-59. [Introducing Snowball Fight ☃️, our first ML-Agents environment](../../ai/agents/huggingface-blog-snowball-fight.md) ([Source](https://huggingface.co/blog/snowball-fight)) - `ai/agents`
-60. [NVIDIA brings agents to life with DGX Spark and Reachy Mini](../../ai/agents/huggingface-blog-nvidia-reachy-mini.md) ([Source](https://huggingface.co/blog/nvidia-reachy-mini)) - `ai/agents`
-61. [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](../../ai/agents/huggingface-blog-muse-glimmer.md) ([Source](https://huggingface.co/blog/muse-glimmer)) - `ai/agents`
-62. [Open-source DeepResearch – Freeing our search agents](../../ai/agents/huggingface-blog-open-deep-research.md) ([Source](https://huggingface.co/blog/open-deep-research)) - `ai/agents`
-63. [Holo3.1: Fast & Local Computer Use Agents](../../ai/agents/huggingface-blog-hcompany-holo31.md) ([Source](https://huggingface.co/blog/hcompany/holo31)) - `ai/agents`
-64. [Gaia2 and ARE: Empowering the community to study agents](../../ai/agents/huggingface-blog-gaia2.md) ([Source](https://huggingface.co/blog/gaia2)) - `ai/agents`
-65. [Trace & Evaluate your Agent with Arize Phoenix](../../ai/agents/huggingface-blog-smolagents-phoenix.md) ([Source](https://huggingface.co/blog/smolagents-phoenix)) - `ai/agents`
-66. [MosaicLeaks: Can your research agent keep a secret?](../../ai/agents/huggingface-blog-servicenow-mosaicleaks.md) ([Source](https://huggingface.co/blog/servicenow/mosaicleaks)) - `ai/agents`
-67. [DeepMath: A lightweight math reasoning Agent with smolagents](../../ai/agents/huggingface-blog-intel-deepmath.md) ([Source](https://huggingface.co/blog/intel-deepmath)) - `ai/agents`
-68. [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](../../ai/agents/huggingface-blog-agent-glossary.md) ([Source](https://huggingface.co/blog/agent-glossary)) - `ai/agents`
-69. [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](../../ai/agents/huggingface-blog-nvidia-magpie-tts-multilingual-voice-agents.md) ([Source](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents)) - `ai/agents`
-70. [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](../../ai/agents/huggingface-blog-ecom-rlve.md) ([Source](https://huggingface.co/blog/ecom-rlve)) - `ai/agents`
-71. [Holotron-12B - High Throughput Computer Use Agent](../../ai/agents/huggingface-blog-hcompany-holotron-12b.md) ([Source](https://huggingface.co/blog/hcompany/holotron-12b)) - `ai/agents`
-72. [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](../../ai/agents/huggingface-blog-intel-qwen3-agent.md) ([Source](https://huggingface.co/blog/intel-qwen3-agent)) - `ai/agents`
-73. [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](../../ai/agents/huggingface-blog-ibm-research-agent-logic-and-scalable-ai-adoption.md) ([Source](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption)) - `ai/agents`
-74. [Our Transformers Code Agent beats the GAIA benchmark 🏅](../../ai/agents/huggingface-blog-beating-gaia.md) ([Source](https://huggingface.co/blog/beating-gaia)) - `ai/agents`
-75. [Open-source LLMs as LangChain Agents](../../ai/agents/huggingface-blog-open-source-llms-as-agents.md) ([Source](https://huggingface.co/blog/open-source-llms-as-agents)) - `ai/agents`
-76. [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](../../ai/agents/huggingface-blog-hcompany-holo1.md) ([Source](https://huggingface.co/blog/hcompany/holo1)) - `ai/agents`
-77. [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](../../ai/agents/huggingface-blog-openenv-turing.md) ([Source](https://huggingface.co/blog/openenv-turing)) - `ai/agents`
-78. [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](../../ai/agents/huggingface-blog-ibm-research-itbenchandmast.md) ([Source](https://huggingface.co/blog/ibm-research/itbenchandmast)) - `ai/agents`
-79. [Jupyter Agents: training LLMs to reason with notebooks](../../ai/agents/huggingface-blog-jupyter-agent-2.md) ([Source](https://huggingface.co/blog/jupyter-agent-2)) - `ai/agents`
+1. [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](../../ai/rag/huggingface-blog-amazon-strands-lerobot-streaming-data-loop.md) ([Source](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)) - `ai/rag`
+2. [What We Learned by Reproducing 2,200 papers from ICML](../../ai/models/huggingface-blog-icml-2026-open-reproductions.md) ([Source](https://huggingface.co/blog/icml-2026-open-reproductions)) - `ai/models`
+3. [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](../../ai/rag/huggingface-blog-allenai-olmoearth-embeddings.md) ([Source](https://huggingface.co/blog/allenai/olmoearth-embeddings)) - `ai/rag`
+4. [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](../../ai/models/huggingface-blog-liquidai-lfm2-5-vl-3b.md) ([Source](https://huggingface.co/blog/liquidai/lfm2-5-vl-3b)) - `ai/models`
+5. [Thinking of ACE? We Can Do It with Fewer Tokens](../../ai/models/huggingface-blog-ibm-research-altk-evolve-sldd.md) ([Source](https://huggingface.co/blog/ibm-research/altk-evolve-sldd)) - `ai/models`
+6. [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](../../ai/agents/huggingface-blog-nvidia-magpie-tts-multilingual-voice-agents.md) ([Source](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents)) - `ai/agents`
+7. [Making Knowledge Distillation Cheap Enough to Run at Scale](../../ai/models/huggingface-blog-multiversecomputingcai-efficient-knowledge-distillation.md) ([Source](https://huggingface.co/blog/multiversecomputingcai/efficient-knowledge-distillation)) - `ai/models`
+8. [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](../../ai/agents/huggingface-blog-muse-glimmer.md) ([Source](https://huggingface.co/blog/muse-glimmer)) - `ai/agents`
+9. [Baseten on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-baseten.md) ([Source](https://huggingface.co/blog/baseten)) - `ai/models`
+10. [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](../../ai/models/huggingface-blog-dharma-ai-gpu-management.md) ([Source](https://huggingface.co/blog/dharma-ai/gpu-management)) - `ai/models`
+11. [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](../../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md) ([Source](https://huggingface.co/blog/nvidia/cosmos-h-dreams)) - `ai/models`
+12. [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](../../ai/agents/huggingface-blog-agent-intrusion-technical-timeline.md) ([Source](https://huggingface.co/blog/agent-intrusion-technical-timeline)) - `ai/agents`
+13. [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](../../ai/models/huggingface-blog-nunchaku-diffusers.md) ([Source](https://huggingface.co/blog/nunchaku-diffusers)) - `ai/models`
+14. [Grabette: an open system to record robot-manipulation data](../../ai/models/huggingface-blog-grabette.md) ([Source](https://huggingface.co/blog/grabette)) - `ai/models`
+15. [Newer Models, Same Advantage](../../ai/models/huggingface-blog-dharma-ai-newer-models-same-advantages.md) ([Source](https://huggingface.co/blog/dharma-ai/newer-models-same-advantages)) - `ai/models`
+16. [Security incident disclosure — July 2026](../../ai/models/huggingface-blog-security-incident-july-2026.md) ([Source](https://huggingface.co/blog/security-incident-july-2026)) - `ai/models`
+17. [Model Routing Is Simple. Until It Isn’t.](../../ai/models/huggingface-blog-ibm-research-model-routing-is-simple-until-it-isnt.md) ([Source](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt)) - `ai/models`
+18. [Welcome Inkling by Thinking Machines](../../ai/models/huggingface-blog-thinkingmachines-inkling.md) ([Source](https://huggingface.co/blog/thinkingmachines-inkling)) - `ai/models`
+19. [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](../../ai/models/huggingface-blog-real-world-voiceeq.md) ([Source](https://huggingface.co/blog/real-world-voiceeq)) - `ai/models`
+20. [Profiling in PyTorch (Part 3): Attention is all you profile](../../ai/models/huggingface-blog-torch-attention-profile.md) ([Source](https://huggingface.co/blog/torch-attention-profile)) - `ai/models`
+21. [Native-speed vLLM transformers modeling backend](../../ai/models/huggingface-blog-native-speed-vllm-transformers-backend.md) ([Source](https://huggingface.co/blog/native-speed-vllm-transformers-backend)) - `ai/models`
+22. [From Hugging Face to Amazon SageMaker Studio in one click](../../ai/models/huggingface-blog-amazon-one-click-to-sagemaker-studio.md) ([Source](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio)) - `ai/models`
+23. [Hugging Face Models on Foundry Managed Compute](../../ai/models/huggingface-blog-microsoft-foundry-managed-compute.md) ([Source](https://huggingface.co/blog/microsoft/foundry-managed-compute)) - `ai/models`
+24. [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](../../ai/rag/huggingface-blog-skypilot-hf-storage.md) ([Source](https://huggingface.co/blog/skypilot-hf-storage)) - `ai/rag`
+25. [LeRobot v0.6.0: Imagine, Evaluate, Improve](../../ai/models/huggingface-blog-lerobot-release-v060.md) ([Source](https://huggingface.co/blog/lerobot-release-v060)) - `ai/models`
+26. [PRX Part 4: Our Data Strategy](../../ai/models/huggingface-blog-photoroom-prx-part4-data.md) ([Source](https://huggingface.co/blog/photoroom/prx-part4-data)) - `ai/models`
+27. [🤗 Kernels: Major Updates](../../ai/models/huggingface-blog-revamped-kernels.md) ([Source](https://huggingface.co/blog/revamped-kernels)) - `ai/models`
+28. [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](../../ai/models/huggingface-blog-cerebras-gemma4-voice-ai.md) ([Source](https://huggingface.co/blog/cerebras-gemma4-voice-ai)) - `ai/models`
+29. [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](../../ai/agents/huggingface-blog-ibm-research-scarfbench.md) ([Source](https://huggingface.co/blog/ibm-research/scarfbench)) - `ai/agents`
+30. [Why Specialization Is Inevitable](../../ai/models/huggingface-blog-dharma-ai-why-specialization-is-inevitable.md) ([Source](https://huggingface.co/blog/dharma-ai/why-specialization-is-inevitable)) - `ai/models`
+31. [Featuring Every Eval Ever Results on Hugging Face Model Pages](../../ai/models/huggingface-blog-eee-community-evals.md) ([Source](https://huggingface.co/blog/eee-community-evals)) - `ai/models`
+32. [DiScoFormer: One transformer for density and score, across distributions](../../ai/models/huggingface-blog-allenai-discoformer.md) ([Source](https://huggingface.co/blog/allenai/discoformer)) - `ai/models`
+33. [Run a vLLM Server on HF Jobs in One Command](../../ai/models/huggingface-blog-vllm-jobs.md) ([Source](https://huggingface.co/blog/vllm-jobs)) - `ai/models`
+34. [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](../../ai/models/huggingface-blog-nvidia-accelerating-fine-tuning-nvidia-nemo-automodel.md) ([Source](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel)) - `ai/models`
+35. [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](../../ai/models/huggingface-blog-ffasr-leaderboard.md) ([Source](https://huggingface.co/blog/ffasr-leaderboard)) - `ai/models`
+36. [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](../../ai/models/huggingface-blog-huggingface-hub-release-ci.md) ([Source](https://huggingface.co/blog/huggingface-hub-release-ci)) - `ai/models`
+37. [Experimenting with the proposed Cross-Origin Storage API in Transformers.js](../../ai/rag/huggingface-blog-cross-origin-storage.md) ([Source](https://huggingface.co/blog/cross-origin-storage)) - `ai/rag`
+38. [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](../../ai/models/huggingface-blog-paddlepaddle-pp-ocrv6.md) ([Source](https://huggingface.co/blog/paddlepaddle/pp-ocrv6)) - `ai/models`
+39. [We got local models to triage the OpenClaw repo for FREE!*](../../ai/models/huggingface-blog-local-models-pr-triage.md) ([Source](https://huggingface.co/blog/local-models-pr-triage)) - `ai/models`
+40. [MosaicLeaks: Can your research agent keep a secret?](../../ai/agents/huggingface-blog-servicenow-mosaicleaks.md) ([Source](https://huggingface.co/blog/servicenow/mosaicleaks)) - `ai/agents`
+41. [Beyond LoRA: Can you beat the most popular fine-tuning technique?](../../ai/models/huggingface-blog-peft-beyond-lora.md) ([Source](https://huggingface.co/blog/peft-beyond-lora)) - `ai/models`
+42. [Is it agentic enough? Benchmarking open models on your own tooling](../../ai/agents/huggingface-blog-is-it-agentic-enough.md) ([Source](https://huggingface.co/blog/is-it-agentic-enough)) - `ai/agents`
+43. [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](../../ai/agents/huggingface-blog-amazon-strands-lerobot-hub-to-hardware.md) ([Source](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware)) - `ai/agents`
+44. [GLM-5.2: Built for Long-Horizon Tasks](../../ai/models/huggingface-blog-zai-org-glm-52-blog.md) ([Source](https://huggingface.co/blog/zai-org/glm-52-blog)) - `ai/models`
+45. [Agentic Resource Discovery: Let agents search](../../ai/agents/huggingface-blog-agentic-resource-discovery-launch.md) ([Source](https://huggingface.co/blog/agentic-resource-discovery-launch)) - `ai/agents`
+46. [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](../../ai/models/huggingface-blog-torch-mlp-fusion.md) ([Source](https://huggingface.co/blog/torch-mlp-fusion)) - `ai/models`
+47. [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](../../ai/agents/huggingface-blog-mishig-spaces-agents-md.md) ([Source](https://huggingface.co/blog/mishig/spaces-agents-md)) - `ai/agents`
+48. [Migrating Your GitHub CI to Hugging Face Jobs](../../ai/models/huggingface-blog-github-ci-hf-jobs.md) ([Source](https://huggingface.co/blog/github-ci-hf-jobs)) - `ai/models`
+49. [The Open Source Community is backing OpenEnv for Agentic RL](../../ai/agents/huggingface-blog-openenv-agentic-rl.md) ([Source](https://huggingface.co/blog/openenv-agentic-rl)) - `ai/agents`
+50. [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](../../ai/models/huggingface-blog-nvidia-nemotron-3-5-content-safety.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety)) - `ai/models`
+51. [Designing the hf CLI as an agent-optimized way to work with the Hub](../../ai/agents/huggingface-blog-hf-cli-for-agents.md) ([Source](https://huggingface.co/blog/hf-cli-for-agents)) - `ai/agents`
+52. [Direct Preference Optimization Beyond Chatbots](../../ai/models/huggingface-blog-dharma-ai-direct-preference-optimization-beyond-chatbots.md) ([Source](https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots)) - `ai/models`
+53. [Adding MCP Tools to Reachy Mini](../../ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md) ([Source](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini)) - `ai/models`
+54. [Holo3.1: Fast & Local Computer Use Agents](../../ai/agents/huggingface-blog-hcompany-holo31.md) ([Source](https://huggingface.co/blog/hcompany/holo31)) - `ai/agents`
+55. [Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](../../ai/models/huggingface-blog-jetbrains-mellum2-launch.md) ([Source](https://huggingface.co/blog/jetbrains/mellum2-launch)) - `ai/models`
+56. [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](../../ai/agents/huggingface-blog-ibm-research-agent-logic-and-scalable-ai-adoption.md) ([Source](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption)) - `ai/agents`
+57. [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](../../ai/models/huggingface-blog-torch-profiler.md) ([Source](https://huggingface.co/blog/torch-profiler)) - `ai/models`
+58. [Reachy Mini goes fully local](../../ai/models/huggingface-blog-local-reachy-mini-conversation.md) ([Source](https://huggingface.co/blog/local-reachy-mini-conversation)) - `ai/models`
+59. [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](../../ai/models/huggingface-blog-delta-weight-sync.md) ([Source](https://huggingface.co/blog/delta-weight-sync)) - `ai/models`
+60. [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](../../ai/agents/huggingface-blog-agent-glossary.md) ([Source](https://huggingface.co/blog/agent-glossary)) - `ai/agents`
+61. [OlmoEarth v1.1: A more efficient family of Earth observation models](../../ai/models/huggingface-blog-allenai-olmoearth-v1-1.md) ([Source](https://huggingface.co/blog/allenai/olmoearth-v1-1)) - `ai/models`
+62. [Introducing the Ettin Reranker Family](../../ai/models/huggingface-blog-ettin-reranker.md) ([Source](https://huggingface.co/blog/ettin-reranker)) - `ai/models`
+63. [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](../../ai/models/huggingface-blog-paddlepaddle-paddleocr-transformers.md) ([Source](https://huggingface.co/blog/paddlepaddle/paddleocr-transformers)) - `ai/models`
+64. [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../../ai/rag/huggingface-blog-ibm-granite-granite-embedding-multilingual-r2.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2)) - `ai/rag`
+65. [Unlocking asynchronicity in continuous batching](../../ai/models/huggingface-blog-continuous-async.md) ([Source](https://huggingface.co/blog/continuous_async)) - `ai/models`
+66. [Building Blocks for Foundation Model Training and Inference on AWS](../../ai/models/huggingface-blog-amazon-foundation-model-building-blocks.md) ([Source](https://huggingface.co/blog/amazon/foundation-model-building-blocks)) - `ai/models`
+67. [vLLM V0 to V1: Correctness Before Corrections in RL](../../ai/models/huggingface-blog-servicenow-ai-correctness-before-corrections.md) ([Source](https://huggingface.co/blog/servicenow-ai/correctness-before-corrections)) - `ai/models`
+68. [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](../../ai/models/huggingface-blog-open-asr-leaderboard-private-data.md) ([Source](https://huggingface.co/blog/open-asr-leaderboard-private-data)) - `ai/models`
+69. [Granite 4.1 LLMs: How They’re Built](../../ai/models/huggingface-blog-ibm-granite-granite-4-1.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-1)) - `ai/models`
+70. [DeepInfra on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-deepinfra.md) ([Source](https://huggingface.co/blog/inference-providers-deepinfra)) - `ai/models`
+71. [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](../../ai/agents/huggingface-blog-nvidia-nemotron-3-nano-omni-multimodal-intelligence.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence)) - `ai/agents`
+72. [How to build scalable web apps with OpenAI's Privacy Filter](../../ai/models/huggingface-blog-openai-privacy-filter-web-apps.md) ([Source](https://huggingface.co/blog/openai-privacy-filter-web-apps)) - `ai/models`
+73. [DeepSeek-V4: a million-token context that agents can actually use](../../ai/agents/huggingface-blog-deepseekv4.md) ([Source](https://huggingface.co/blog/deepseekv4)) - `ai/agents`
+74. [How to Use Transformers.js in a Chrome Extension](../../ai/models/huggingface-blog-transformersjs-chrome-extension.md) ([Source](https://huggingface.co/blog/transformersjs-chrome-extension)) - `ai/models`
+75. [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](../../ai/models/huggingface-blog-tiiuae-qimma-arabic-leaderboard.md) ([Source](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard)) - `ai/models`
+76. [AI and the Future of Cybersecurity: Why Openness Matters](../../ai/models/huggingface-blog-cybersecurity-openness.md) ([Source](https://huggingface.co/blog/cybersecurity-openness)) - `ai/models`
+77. [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](../../ai/agents/huggingface-blog-ecom-rlve.md) ([Source](https://huggingface.co/blog/ecom-rlve)) - `ai/agents`
+78. [The PR you would have opened yourself](../../ai/models/huggingface-blog-transformers-to-mlx.md) ([Source](https://huggingface.co/blog/transformers-to-mlx)) - `ai/models`
+79. [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](../../ai/models/huggingface-blog-train-multimodal-sentence-transformers.md) ([Source](https://huggingface.co/blog/train-multimodal-sentence-transformers)) - `ai/models`
 80. [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](../../ai/agents/huggingface-blog-ibm-research-vakra-benchmark-analysis.md) ([Source](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis)) - `ai/agents`
-81. [Aligning to What? Rethinking Agent Generalization in MiniMax M2](../../ai/agents/huggingface-blog-minimax-ai-aligning-to-what.md) ([Source](https://huggingface.co/blog/minimax-ai/aligning-to-what)) - `ai/agents`
-82. [Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective](../../ai/agents/huggingface-blog-linkedin-gpt-oss-agentic-rl.md) ([Source](https://huggingface.co/blog/linkedin/gpt-oss-agentic-rl)) - `ai/agents`
-83. [Tiny Agents in Python: a MCP-powered agent in ~70 lines of code](../../ai/agents/huggingface-blog-python-tiny-agents.md) ([Source](https://huggingface.co/blog/python-tiny-agents)) - `ai/agents`
-84. [Introducing Agents.js: Give tools to your LLMs using JavaScript](../../ai/agents/huggingface-blog-agents-js.md) ([Source](https://huggingface.co/blog/agents-js)) - `ai/agents`
-85. [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](../../ai/agents/huggingface-blog-mishig-spaces-agents-md.md) ([Source](https://huggingface.co/blog/mishig/spaces-agents-md)) - `ai/agents`
-86. [Smol2Operator: Post-Training GUI Agents for Computer Use](../../ai/agents/huggingface-blog-smol2operator.md) ([Source](https://huggingface.co/blog/smol2operator)) - `ai/agents`
-87. [CodeAgents + Structure: A Better Way to Execute Actions](../../ai/agents/huggingface-blog-structured-codeagent.md) ([Source](https://huggingface.co/blog/structured-codeagent)) - `ai/agents`
-88. [We now support VLMs in smolagents!](../../ai/agents/huggingface-blog-smolagents-can-see.md) ([Source](https://huggingface.co/blog/smolagents-can-see)) - `ai/agents`
-89. [Introducing smolagents: simple agents that write actions in code.](../../ai/agents/huggingface-blog-smolagents.md) ([Source](https://huggingface.co/blog/smolagents)) - `ai/agents`
-90. [A New Framework for Evaluating Voice Agents (EVA)](../../ai/agents/huggingface-blog-servicenow-ai-eva.md) ([Source](https://huggingface.co/blog/servicenow-ai/eva)) - `ai/agents`
-91. [Tiny Agents: an MCP-powered agent in 50 lines of code](../../ai/agents/huggingface-blog-tiny-agents.md) ([Source](https://huggingface.co/blog/tiny-agents)) - `ai/agents`
-92. [CUGA on Hugging Face: Democratizing Configurable AI Agents](../../ai/agents/huggingface-blog-ibm-research-cuga-on-hugging-face.md) ([Source](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face)) - `ai/agents`
-93. [What Makes a Dialog Agent Useful?](../../ai/agents/huggingface-blog-dialog-agents.md) ([Source](https://huggingface.co/blog/dialog-agents)) - `ai/agents`
-94. [Pollen-Vision: Unified interface for Zero-Shot vision models in robotics](../../ai/models/huggingface-blog-pollen-vision.md) ([Source](https://huggingface.co/blog/pollen-vision)) - `ai/models`
-95. [Results of the Open Source AI Game Jam](../../ai/models/huggingface-blog-game-jam-first-edition-results.md) ([Source](https://huggingface.co/blog/game-jam-first-edition-results)) - `ai/models`
-96. [Benchmarking Text Generation Inference](../../ai/models/huggingface-blog-tgi-benchmarking.md) ([Source](https://huggingface.co/blog/tgi-benchmarking)) - `ai/models`
-97. [Scaling AI-based Data Processing with Hugging Face + Dask](../../ai/models/huggingface-blog-dask-scaling.md) ([Source](https://huggingface.co/blog/dask-scaling)) - `ai/models`
-98. [CO2 Emissions and the 🤗 Hub: Leading the Charge](../../ai/models/huggingface-blog-carbon-emissions-on-the-hub.md) ([Source](https://huggingface.co/blog/carbon-emissions-on-the-hub)) - `ai/models`
-99. [One Year Since the “DeepSeek Moment”](../../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment.md) ([Source](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment)) - `ai/models`
-100. [Open LLM Leaderboard: DROP deep dive](../../ai/models/huggingface-blog-open-llm-leaderboard-drop.md) ([Source](https://huggingface.co/blog/open-llm-leaderboard-drop)) - `ai/models`
-101. [Accelerated Inference with Optimum and Transformers Pipelines](../../ai/models/huggingface-blog-optimum-inference.md) ([Source](https://huggingface.co/blog/optimum-inference)) - `ai/models`
-102. [Block Sparse Matrices for Smaller and Faster Language Models](../../ai/models/huggingface-blog-pytorch-block-sparse.md) ([Source](https://huggingface.co/blog/pytorch_block_sparse)) - `ai/models`
-103. [Training and Finetuning Sparse Embedding Models with Sentence Transformers](../../ai/models/huggingface-blog-train-sparse-encoder.md) ([Source](https://huggingface.co/blog/train-sparse-encoder)) - `ai/models`
-104. [Hugging Face models in Amazon Bedrock](../../ai/models/huggingface-blog-bedrock-marketplace.md) ([Source](https://huggingface.co/blog/bedrock-marketplace)) - `ai/models`
-105. [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](../../ai/models/huggingface-blog-delta-weight-sync.md) ([Source](https://huggingface.co/blog/delta-weight-sync)) - `ai/models`
-106. [Introducing the Hugging Face LLM Inference Container for Amazon SageMaker](../../ai/models/huggingface-blog-sagemaker-huggingface-llm.md) ([Source](https://huggingface.co/blog/sagemaker-huggingface-llm)) - `ai/models`
-107. [Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?](../../ai/models/huggingface-blog-leaderboard-contextual.md) ([Source](https://huggingface.co/blog/leaderboard-contextual)) - `ai/models`
-108. [The 4 Things Qwen-3’s Chat Template Teaches Us](../../ai/models/huggingface-blog-qwen-3-chat-template-deep-dive.md) ([Source](https://huggingface.co/blog/qwen-3-chat-template-deep-dive)) - `ai/models`
-109. [Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI](../../ai/models/huggingface-blog-llama31-on-vertex-ai.md) ([Source](https://huggingface.co/blog/llama31-on-vertex-ai)) - `ai/models`
-110. [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../../ai/models/huggingface-blog-leaderboard-nphardeval.md) ([Source](https://huggingface.co/blog/leaderboard-nphardeval)) - `ai/models`
-111. [Learn the Hugging Face Kernel Hub in 5 Minutes](../../ai/models/huggingface-blog-hello-hf-kernels.md) ([Source](https://huggingface.co/blog/hello-hf-kernels)) - `ai/models`
-112. [Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem](../../ai/models/huggingface-blog-leaderboard-upstage.md) ([Source](https://huggingface.co/blog/leaderboard-upstage)) - `ai/models`
-113. [Hugging Face Text Generation Inference available for AWS Inferentia2](../../ai/models/huggingface-blog-text-generation-inference-on-inferentia2.md) ([Source](https://huggingface.co/blog/text-generation-inference-on-inferentia2)) - `ai/models`
-114. [Training Design for Text-to-Image Models: Lessons from Ablations](../../ai/models/huggingface-blog-photoroom-prx-part2.md) ([Source](https://huggingface.co/blog/photoroom/prx-part2)) - `ai/models`
-115. [Welcoming Llama Guard 4 on Hugging Face Hub](../../ai/models/huggingface-blog-llama-guard-4.md) ([Source](https://huggingface.co/blog/llama-guard-4)) - `ai/models`
-116. [Deploy MusicGen in no time with Inference Endpoints](../../ai/models/huggingface-blog-run-musicgen-as-an-api.md) ([Source](https://huggingface.co/blog/run-musicgen-as-an-api)) - `ai/models`
-117. [Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1](../../ai/models/huggingface-blog-intel-sapphire-rapids.md) ([Source](https://huggingface.co/blog/intel-sapphire-rapids)) - `ai/models`
-118. [🧨 Stable Diffusion in JAX / Flax !](../../ai/models/huggingface-blog-stable-diffusion-jax.md) ([Source](https://huggingface.co/blog/stable_diffusion_jax)) - `ai/models`
-119. [Supercharged Searching on the 🤗 Hub](../../ai/models/huggingface-blog-searching-the-hub.md) ([Source](https://huggingface.co/blog/searching-the-hub)) - `ai/models`
-120. [Announcing the Open Source AI Game Jam 🎮](../../ai/models/huggingface-blog-game-jam.md) ([Source](https://huggingface.co/blog/game-jam)) - `ai/models`
-121. [Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face](../../ai/models/huggingface-blog-trackio.md) ([Source](https://huggingface.co/blog/trackio)) - `ai/models`
-122. [Custom Kernels for All from Codex and Claude](../../ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md) ([Source](https://huggingface.co/blog/custom-cuda-kernels-agent-skills)) - `ai/models`
-123. [Hugging Face and Graphcore partner for IPU-optimized Transformers](../../ai/models/huggingface-blog-graphcore.md) ([Source](https://huggingface.co/blog/graphcore)) - `ai/models`
-124. [Dell Enterprise Hub is all you need to build AI on premises](../../ai/models/huggingface-blog-dell-ai-applications.md) ([Source](https://huggingface.co/blog/dell-ai-applications)) - `ai/models`
-125. [Constitutional AI with Open LLMs](../../ai/models/huggingface-blog-constitutional-ai.md) ([Source](https://huggingface.co/blog/constitutional_ai)) - `ai/models`
-126. [Fine-Tuning Gemma Models in Hugging Face](../../ai/models/huggingface-blog-gemma-peft.md) ([Source](https://huggingface.co/blog/gemma-peft)) - `ai/models`
-127. [The Hugging Face Hub for Galleries, Libraries, Archives and Museums](../../ai/models/huggingface-blog-hf-hub-glam-guide.md) ([Source](https://huggingface.co/blog/hf-hub-glam-guide)) - `ai/models`
-128. [How to host a Unity game in a Space](../../ai/models/huggingface-blog-unity-in-spaces.md) ([Source](https://huggingface.co/blog/unity-in-spaces)) - `ai/models`
-129. [Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-w2v2-bert.md) ([Source](https://huggingface.co/blog/fine-tune-w2v2-bert)) - `ai/models`
-130. [Liftoff! How to get started with your first ML project 🚀](../../ai/models/huggingface-blog-your-first-ml-project.md) ([Source](https://huggingface.co/blog/your-first-ml-project)) - `ai/models`
-131. [Welcome fastai to the Hugging Face Hub](../../ai/models/huggingface-blog-fastai.md) ([Source](https://huggingface.co/blog/fastai)) - `ai/models`
-132. [Making ML-powered web games with Transformers.js](../../ai/models/huggingface-blog-ml-web-games.md) ([Source](https://huggingface.co/blog/ml-web-games)) - `ai/models`
-133. [Fit More and Train Faster With ZeRO via DeepSpeed and FairScale](../../ai/models/huggingface-blog-zero-deepspeed-fairscale.md) ([Source](https://huggingface.co/blog/zero-deepspeed-fairscale)) - `ai/models`
-134. [Introducing the Red-Teaming Resistance Leaderboard](../../ai/models/huggingface-blog-leaderboard-haizelab.md) ([Source](https://huggingface.co/blog/leaderboard-haizelab)) - `ai/models`
-135. [Introducing Pull Requests and Discussions 🥳](../../ai/models/huggingface-blog-community-update.md) ([Source](https://huggingface.co/blog/community-update)) - `ai/models`
-136. [Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub](../../ai/models/huggingface-blog-nvidia-llama-nemotron-nano-vl.md) ([Source](https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl)) - `ai/models`
-137. [Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases](../../ai/models/huggingface-blog-leaderboard-patronus.md) ([Source](https://huggingface.co/blog/leaderboard-patronus)) - `ai/models`
-138. [Community Evals: Because we're done trusting black-box leaderboards over the community](../../ai/models/huggingface-blog-community-evals.md) ([Source](https://huggingface.co/blog/community-evals)) - `ai/models`
-139. [Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face](../../ai/models/huggingface-blog-gpt-oss-on-intel-xeon.md) ([Source](https://huggingface.co/blog/gpt-oss-on-intel-xeon)) - `ai/models`
-140. [LeRobot goes to driving school: World’s largest open-source self-driving dataset](../../ai/models/huggingface-blog-lerobot-goes-to-driving-school.md) ([Source](https://huggingface.co/blog/lerobot-goes-to-driving-school)) - `ai/models`
-141. [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](../../ai/models/huggingface-blog-huggingface-hub-v1.md) ([Source](https://huggingface.co/blog/huggingface-hub-v1)) - `ai/models`
-142. [GLM-5.2: Built for Long-Horizon Tasks](../../ai/models/huggingface-blog-zai-org-glm-52-blog.md) ([Source](https://huggingface.co/blog/zai-org/glm-52-blog)) - `ai/models`
-143. [Deploy LLMs with Hugging Face Inference Endpoints](../../ai/models/huggingface-blog-inference-endpoints-llm.md) ([Source](https://huggingface.co/blog/inference-endpoints-llm)) - `ai/models`
-144. [Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!](../../ai/models/huggingface-blog-writer-announcing-palmyra-mini.md) ([Source](https://huggingface.co/blog/writer/announcing-palmyra-mini)) - `ai/models`
-145. [🚀 Accelerating LLM Inference with TGI on Intel Gaudi](../../ai/models/huggingface-blog-intel-gaudi-backend-for-tgi.md) ([Source](https://huggingface.co/blog/intel-gaudi-backend-for-tgi)) - `ai/models`
-146. [The 5 Most Under-Rated Tools on Hugging Face](../../ai/models/huggingface-blog-unsung-heroes.md) ([Source](https://huggingface.co/blog/unsung-heroes)) - `ai/models`
-147. [CinePile 2.0 - making stronger datasets with adversarial refinement](../../ai/models/huggingface-blog-cinepile2.md) ([Source](https://huggingface.co/blog/cinepile2)) - `ai/models`
-148. [Interactively explore your Huggingface dataset with one line of code](../../ai/models/huggingface-blog-scalable-data-inspection.md) ([Source](https://huggingface.co/blog/scalable-data-inspection)) - `ai/models`
-149. [Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](../../ai/models/huggingface-blog-finetune-florence2.md) ([Source](https://huggingface.co/blog/finetune-florence2)) - `ai/models`
-150. [🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?](../../ai/models/huggingface-blog-filbench.md) ([Source](https://huggingface.co/blog/filbench)) - `ai/models`
-151. [We Raised $100 Million for Open & Collaborative Machine Learning 🚀](../../ai/models/huggingface-blog-series-c.md) ([Source](https://huggingface.co/blog/series-c)) - `ai/models`
-152. [Fine-Tune a Semantic Segmentation Model with a Custom Dataset](../../ai/models/huggingface-blog-fine-tune-segformer.md) ([Source](https://huggingface.co/blog/fine-tune-segformer)) - `ai/models`
-153. [LeMaterial: an open source initiative to accelerate materials discovery and research](../../ai/models/huggingface-blog-lematerial.md) ([Source](https://huggingface.co/blog/lematerial)) - `ai/models`
-154. [Welcome to the Falcon 3 Family of Open Models!](../../ai/models/huggingface-blog-falcon3.md) ([Source](https://huggingface.co/blog/falcon3)) - `ai/models`
-155. [Towards Encrypted Large Language Models with FHE](../../ai/models/huggingface-blog-encrypted-llm.md) ([Source](https://huggingface.co/blog/encrypted-llm)) - `ai/models`
-156. [Instruction-tuning Stable Diffusion with InstructPix2Pix](../../ai/models/huggingface-blog-instruction-tuning-sd.md) ([Source](https://huggingface.co/blog/instruction-tuning-sd)) - `ai/models`
-157. [(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware](../../ai/models/huggingface-blog-flux-qlora.md) ([Source](https://huggingface.co/blog/flux-qlora)) - `ai/models`
-158. [Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints](../../ai/models/huggingface-blog-asr-diarization.md) ([Source](https://huggingface.co/blog/asr-diarization)) - `ai/models`
-159. [Code Llama: Llama 2 learns to code](../../ai/models/huggingface-blog-codellama.md) ([Source](https://huggingface.co/blog/codellama)) - `ai/models`
-160. [XetHub is joining Hugging Face!](../../ai/models/huggingface-blog-xethub-joins-hf.md) ([Source](https://huggingface.co/blog/xethub-joins-hf)) - `ai/models`
-161. [Mixture of Experts Explained](../../ai/models/huggingface-blog-moe.md) ([Source](https://huggingface.co/blog/moe)) - `ai/models`
-162. [TTS Arena: Benchmarking Text-to-Speech Models in the Wild](../../ai/models/huggingface-blog-arena-tts.md) ([Source](https://huggingface.co/blog/arena-tts)) - `ai/models`
-163. [Multivariate Probabilistic Time Series Forecasting with Informer](../../ai/models/huggingface-blog-informer.md) ([Source](https://huggingface.co/blog/informer)) - `ai/models`
-164. [Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2](../../ai/models/huggingface-blog-intel-sapphire-rapids-inference.md) ([Source](https://huggingface.co/blog/intel-sapphire-rapids-inference)) - `ai/models`
-165. [How we sped up transformer inference 100x for 🤗 API customers](../../ai/models/huggingface-blog-accelerated-inference.md) ([Source](https://huggingface.co/blog/accelerated-inference)) - `ai/models`
-166. [Creating custom kernels for the AMD MI300](../../ai/models/huggingface-blog-mi300kernels.md) ([Source](https://huggingface.co/blog/mi300kernels)) - `ai/models`
-167. [Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution](../../ai/models/huggingface-blog-sovereign-data-solution-case-study.md) ([Source](https://huggingface.co/blog/sovereign-data-solution-case-study)) - `ai/models`
-168. [LeRobot v0.4.0: Supercharging OSS Robot Learning](../../ai/models/huggingface-blog-lerobot-release-v040.md) ([Source](https://huggingface.co/blog/lerobot-release-v040)) - `ai/models`
-169. [Meet HoloTab by HCompany. Your AI browser companion.](../../ai/models/huggingface-blog-hcompany-holotab.md) ([Source](https://huggingface.co/blog/hcompany/holotab)) - `ai/models`
-170. [Unlocking asynchronicity in continuous batching](../../ai/models/huggingface-blog-continuous-async.md) ([Source](https://huggingface.co/blog/continuous_async)) - `ai/models`
-171. [Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](../../ai/models/huggingface-blog-cosmopedia.md) ([Source](https://huggingface.co/blog/cosmopedia)) - `ai/models`
-172. [Neural Super Sampling is here!](../../ai/models/huggingface-blog-arm-neural-super-sampling.md) ([Source](https://huggingface.co/blog/arm/neural-super-sampling)) - `ai/models`
-173. [Deploying TensorFlow Vision Models in Hugging Face with TF Serving](../../ai/models/huggingface-blog-tf-serving-vision.md) ([Source](https://huggingface.co/blog/tf-serving-vision)) - `ai/models`
-174. [What We Learned by Reproducing 2,200 papers from ICML](../../ai/models/huggingface-blog-icml-2026-open-reproductions.md) ([Source](https://huggingface.co/blog/icml-2026-open-reproductions)) - `ai/models`
-175. [Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub](../../ai/models/huggingface-blog-huggy-lingo.md) ([Source](https://huggingface.co/blog/huggy-lingo)) - `ai/models`
-176. [Fine-Tune ViT for Image Classification with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-vit.md) ([Source](https://huggingface.co/blog/fine-tune-vit)) - `ai/models`
-177. [Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive](../../ai/models/huggingface-blog-sdxl-ort-inference.md) ([Source](https://huggingface.co/blog/sdxl_ort_inference)) - `ai/models`
-178. [Zero-shot image segmentation with CLIPSeg](../../ai/models/huggingface-blog-clipseg-zero-shot.md) ([Source](https://huggingface.co/blog/clipseg-zero-shot)) - `ai/models`
-179. [Hugging Face and AWS partner to make AI more accessible](../../ai/models/huggingface-blog-aws-partnership.md) ([Source](https://huggingface.co/blog/aws-partnership)) - `ai/models`
-180. [Image Similarity with Hugging Face Datasets and Transformers](../../ai/models/huggingface-blog-image-similarity.md) ([Source](https://huggingface.co/blog/image-similarity)) - `ai/models`
-181. [Train AI models with Unsloth and Hugging Face Jobs for FREE](../../ai/models/huggingface-blog-unsloth-jobs.md) ([Source](https://huggingface.co/blog/unsloth-jobs)) - `ai/models`
-182. [Machine Learning Experts - Lewis Tunstall](../../ai/models/huggingface-blog-lewis-tunstall-interview.md) ([Source](https://huggingface.co/blog/lewis-tunstall-interview)) - `ai/models`
-183. [An Introduction to AI Secure LLM Safety Leaderboard](../../ai/models/huggingface-blog-leaderboard-decodingtrust.md) ([Source](https://huggingface.co/blog/leaderboard-decodingtrust)) - `ai/models`
-184. [Finetune Stable Diffusion Models with DDPO via TRL](../../ai/models/huggingface-blog-trl-ddpo.md) ([Source](https://huggingface.co/blog/trl-ddpo)) - `ai/models`
-185. [WWDC 24: Running Mistral 7B with Core ML](../../ai/models/huggingface-blog-mistral-coreml.md) ([Source](https://huggingface.co/blog/mistral-coreml)) - `ai/models`
-186. [Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](../../ai/models/huggingface-blog-jetbrains-mellum2-launch.md) ([Source](https://huggingface.co/blog/jetbrains/mellum2-launch)) - `ai/models`
-187. [Generating Human-level Text with Contrastive Search in Transformers 🤗](../../ai/models/huggingface-blog-introducing-csearch.md) ([Source](https://huggingface.co/blog/introducing-csearch)) - `ai/models`
-188. [How to build scalable web apps with OpenAI's Privacy Filter](../../ai/models/huggingface-blog-openai-privacy-filter-web-apps.md) ([Source](https://huggingface.co/blog/openai-privacy-filter-web-apps)) - `ai/models`
-189. [Welcome, Gradio 5](../../ai/models/huggingface-blog-gradio-5.md) ([Source](https://huggingface.co/blog/gradio-5)) - `ai/models`
-190. [Happy 1st anniversary 🤗 Diffusers!](../../ai/models/huggingface-blog-diffusers-turns-1.md) ([Source](https://huggingface.co/blog/diffusers-turns-1)) - `ai/models`
-191. [Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](../../ai/models/huggingface-blog-reachy-mini.md) ([Source](https://huggingface.co/blog/reachy-mini)) - `ai/models`
-192. [Chat Templates: An End to the Silent Performance Killer](../../ai/models/huggingface-blog-chat-templates.md) ([Source](https://huggingface.co/blog/chat-templates)) - `ai/models`
-193. [Tool Use, Unified](../../ai/models/huggingface-blog-unified-tool-use.md) ([Source](https://huggingface.co/blog/unified-tool-use)) - `ai/models`
-194. [Grabette: an open system to record robot-manipulation data](../../ai/models/huggingface-blog-grabette.md) ([Source](https://huggingface.co/blog/grabette)) - `ai/models`
-195. [Welcome Llama 4 Maverick & Scout on Hugging Face](../../ai/models/huggingface-blog-llama4-release.md) ([Source](https://huggingface.co/blog/llama4-release)) - `ai/models`
-196. [“Llama 3.2 in Keras”](../../ai/models/huggingface-blog-keras-llama-32.md) ([Source](https://huggingface.co/blog/keras-llama-32)) - `ai/models`
-197. [Introduction to ggml](../../ai/models/huggingface-blog-introduction-to-ggml.md) ([Source](https://huggingface.co/blog/introduction-to-ggml)) - `ai/models`
-198. [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](../../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md) ([Source](https://huggingface.co/blog/nvidia/cosmos-h-dreams)) - `ai/models`
-199. [Welcome fastText to the Hugging Face Hub](../../ai/models/huggingface-blog-fasttext.md) ([Source](https://huggingface.co/blog/fasttext)) - `ai/models`
-200. [The Transformers Library: standardizing model definitions](../../ai/models/huggingface-blog-transformers-model-definition.md) ([Source](https://huggingface.co/blog/transformers-model-definition)) - `ai/models`
-201. [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](../../ai/models/huggingface-blog-tiiuae-falcon-h1-arabic.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-h1-arabic)) - `ai/models`
-202. [Codex is Open Sourcing AI models](../../ai/models/huggingface-blog-hf-skills-training-codex.md) ([Source](https://huggingface.co/blog/hf-skills-training-codex)) - `ai/models`
-203. [Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia](../../ai/models/huggingface-blog-bert-inferentia-sagemaker.md) ([Source](https://huggingface.co/blog/bert-inferentia-sagemaker)) - `ai/models`
-204. [AI for Game Development: Creating a Farming Game in 5 Days. Part 2](../../ai/models/huggingface-blog-ml-for-games-2.md) ([Source](https://huggingface.co/blog/ml-for-games-2)) - `ai/models`
-205. [Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL](../../ai/models/huggingface-blog-unsloth-trl.md) ([Source](https://huggingface.co/blog/unsloth-trl)) - `ai/models`
-206. [No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL](../../ai/models/huggingface-blog-vllm-colocate.md) ([Source](https://huggingface.co/blog/vllm-colocate)) - `ai/models`
-207. [Introducing Prodigy-HF: a direct integration with Hugging Face](../../ai/models/huggingface-blog-prodigy-hf.md) ([Source](https://huggingface.co/blog/prodigy-hf)) - `ai/models`
-208. [Fine-tune Llama 2 with DPO](../../ai/models/huggingface-blog-dpo-trl.md) ([Source](https://huggingface.co/blog/dpo-trl)) - `ai/models`
-209. [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](../../ai/models/huggingface-blog-paddlepaddle-paddleocr-transformers.md) ([Source](https://huggingface.co/blog/paddlepaddle/paddleocr-transformers)) - `ai/models`
-210. [Judge Arena: Benchmarking LLMs as Evaluators](../../ai/models/huggingface-blog-arena-atla.md) ([Source](https://huggingface.co/blog/arena-atla)) - `ai/models`
-211. [Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore](../../ai/models/huggingface-blog-vision-transformers.md) ([Source](https://huggingface.co/blog/vision-transformers)) - `ai/models`
-212. [Evaluating Audio Reasoning with Big Bench Audio](../../ai/models/huggingface-blog-big-bench-audio-release.md) ([Source](https://huggingface.co/blog/big-bench-audio-release)) - `ai/models`
-213. [SOTA OCR with Core ML and dots.ocr](../../ai/models/huggingface-blog-dots-ocr-ne.md) ([Source](https://huggingface.co/blog/dots-ocr-ne)) - `ai/models`
-214. [Exploring simple optimizations for SDXL](../../ai/models/huggingface-blog-simple-sdxl-optimizations.md) ([Source](https://huggingface.co/blog/simple_sdxl_optimizations)) - `ai/models`
-215. [Hugging Face x LangChain : A new partner package](../../ai/models/huggingface-blog-langchain.md) ([Source](https://huggingface.co/blog/langchain)) - `ai/models`
-216. [Pre-Train BERT with Hugging Face Transformers and Habana Gaudi](../../ai/models/huggingface-blog-pretraining-bert.md) ([Source](https://huggingface.co/blog/pretraining-bert)) - `ai/models`
-217. [Introducing the Chatbot Guardrails Arena](../../ai/models/huggingface-blog-arena-lighthouz.md) ([Source](https://huggingface.co/blog/arena-lighthouz)) - `ai/models`
-218. [Llama can now see and run on your device - welcome Llama 3.2](../../ai/models/huggingface-blog-llama32.md) ([Source](https://huggingface.co/blog/llama32)) - `ai/models`
-219. [Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB](../../ai/models/huggingface-blog-habana-gaudi-2-benchmark.md) ([Source](https://huggingface.co/blog/habana-gaudi-2-benchmark)) - `ai/models`
-220. [The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](../../ai/models/huggingface-blog-leaderboard-hallucinations.md) ([Source](https://huggingface.co/blog/leaderboard-hallucinations)) - `ai/models`
-221. [Welcome PaddlePaddle to the Hugging Face Hub](../../ai/models/huggingface-blog-paddlepaddle.md) ([Source](https://huggingface.co/blog/paddlepaddle)) - `ai/models`
-222. [The Technology Behind BLOOM Training](../../ai/models/huggingface-blog-bloom-megatron-deepspeed.md) ([Source](https://huggingface.co/blog/bloom-megatron-deepspeed)) - `ai/models`
-223. [20x Faster TRL Fine-tuning with RapidFire AI](../../ai/models/huggingface-blog-rapidfireai.md) ([Source](https://huggingface.co/blog/rapidfireai)) - `ai/models`
-224. [Building for an Open Future - our new partnership with Google Cloud](../../ai/models/huggingface-blog-google-cloud.md) ([Source](https://huggingface.co/blog/google-cloud)) - `ai/models`
-225. [Running Privacy-Preserving Inferences on Hugging Face Endpoints](../../ai/models/huggingface-blog-fhe-endpoints.md) ([Source](https://huggingface.co/blog/fhe-endpoints)) - `ai/models`
-226. [TimeScope: How Long Can Your Video Large Multimodal Model Go?](../../ai/models/huggingface-blog-timescope-video-lmm-benchmark.md) ([Source](https://huggingface.co/blog/timescope-video-lmm-benchmark)) - `ai/models`
-227. [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](../../ai/models/huggingface-blog-open-asr-leaderboard-private-data.md) ([Source](https://huggingface.co/blog/open-asr-leaderboard-private-data)) - `ai/models`
-228. [KV Cache from scratch in nanoVLM](../../ai/models/huggingface-blog-kv-cache.md) ([Source](https://huggingface.co/blog/kv-cache)) - `ai/models`
-229. [Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models](../../ai/models/huggingface-blog-servicenow-ai-apriel-h1.md) ([Source](https://huggingface.co/blog/servicenow-ai/apriel-h1)) - `ai/models`
-230. [Universal Assisted Generation: Faster Decoding with Any Assistant Model](../../ai/models/huggingface-blog-universal-assisted-generation.md) ([Source](https://huggingface.co/blog/universal_assisted_generation)) - `ai/models`
-231. [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../../ai/models/huggingface-blog-lora.md) ([Source](https://huggingface.co/blog/lora)) - `ai/models`
-232. [Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs](../../ai/models/huggingface-blog-leaderboard-livecodebench.md) ([Source](https://huggingface.co/blog/leaderboard-livecodebench)) - `ai/models`
-233. [Differential Transformer V2](../../ai/models/huggingface-blog-microsoft-diff-attn-v2.md) ([Source](https://huggingface.co/blog/microsoft/diff-attn-v2)) - `ai/models`
-234. [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](../../ai/models/huggingface-blog-tiiuae-qimma-arabic-leaderboard.md) ([Source](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard)) - `ai/models`
-235. [Transformers v5: Simple model definitions powering the AI ecosystem](../../ai/models/huggingface-blog-transformers-v5.md) ([Source](https://huggingface.co/blog/transformers-v5)) - `ai/models`
-236. [Introducing the Open Leaderboard for Hebrew LLMs!](../../ai/models/huggingface-blog-leaderboard-hebrew.md) ([Source](https://huggingface.co/blog/leaderboard-hebrew)) - `ai/models`
-237. [SmolVLM - small yet mighty Vision Language Model](../../ai/models/huggingface-blog-smolvlm.md) ([Source](https://huggingface.co/blog/smolvlm)) - `ai/models`
-238. [Running IF with 🧨 diffusers on a Free Tier Google Colab](../../ai/models/huggingface-blog-if.md) ([Source](https://huggingface.co/blog/if)) - `ai/models`
-239. [Summer at Hugging Face](../../ai/models/huggingface-blog-summer-at-huggingface.md) ([Source](https://huggingface.co/blog/summer-at-huggingface)) - `ai/models`
-240. [VQ-Diffusion](../../ai/models/huggingface-blog-vq-diffusion.md) ([Source](https://huggingface.co/blog/vq-diffusion)) - `ai/models`
-241. [Transformer-based Encoder-Decoder Models](../../ai/models/huggingface-blog-encoder-decoder.md) ([Source](https://huggingface.co/blog/encoder-decoder)) - `ai/models`
-242. [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](../../ai/models/huggingface-blog-real-world-voiceeq.md) ([Source](https://huggingface.co/blog/real-world-voiceeq)) - `ai/models`
-243. [Hosting your Models and Datasets on Hugging Face Spaces using Streamlit](../../ai/models/huggingface-blog-streamlit-spaces.md) ([Source](https://huggingface.co/blog/streamlit-spaces)) - `ai/models`
-244. [17 Reasons Why Gradio Isn't Just Another UI Library](../../ai/models/huggingface-blog-why-gradio-stands-out.md) ([Source](https://huggingface.co/blog/why-gradio-stands-out)) - `ai/models`
-245. [Introducing SyGra Studio](../../ai/models/huggingface-blog-servicenow-ai-sygra-studio.md) ([Source](https://huggingface.co/blog/servicenow-ai/sygra-studio)) - `ai/models`
-246. [Upskill your LLMs With Gradio MCP Servers](../../ai/models/huggingface-blog-gradio-mcp-servers.md) ([Source](https://huggingface.co/blog/gradio-mcp-servers)) - `ai/models`
-247. [Consilium: When Multiple LLMs Collaborate](../../ai/models/huggingface-blog-consilium-multi-llm.md) ([Source](https://huggingface.co/blog/consilium-multi-llm)) - `ai/models`
-248. [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](../../ai/models/huggingface-blog-nvidia-nemotron-3-nano-evaluation-recipe.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe)) - `ai/models`
-249. [Announcing New Dataset Search Features](../../ai/models/huggingface-blog-datasets-filters.md) ([Source](https://huggingface.co/blog/datasets-filters)) - `ai/models`
-250. [Letting Large Models Debate: The First Multilingual LLM Debate Competition](../../ai/models/huggingface-blog-debate.md) ([Source](https://huggingface.co/blog/debate)) - `ai/models`
-251. [TRL v1.0: Post-Training Library Built to Move with the Field](../../ai/models/huggingface-blog-trl-v1.md) ([Source](https://huggingface.co/blog/trl-v1)) - `ai/models`
-252. [Introducing SafeCoder](../../ai/models/huggingface-blog-safecoder.md) ([Source](https://huggingface.co/blog/safecoder)) - `ai/models`
-253. [How Hugging Face Scaled Secrets Management for AI Infrastructure](../../ai/models/huggingface-blog-scaling-secrets-management.md) ([Source](https://huggingface.co/blog/scaling-secrets-management)) - `ai/models`
-254. [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](../../ai/models/huggingface-blog-pi0.md) ([Source](https://huggingface.co/blog/pi0)) - `ai/models`
-255. [StarCoder2 and The Stack v2](../../ai/models/huggingface-blog-starcoder2.md) ([Source](https://huggingface.co/blog/starcoder2)) - `ai/models`
-256. [FineVideo: behind the scenes](../../ai/models/huggingface-blog-fine-video.md) ([Source](https://huggingface.co/blog/fine-video)) - `ai/models`
-257. [Introducing BERTopic Integration with the Hugging Face Hub](../../ai/models/huggingface-blog-bertopic.md) ([Source](https://huggingface.co/blog/bertopic)) - `ai/models`
-258. [Accelerating over 130,000 Hugging Face models with ONNX Runtime](../../ai/models/huggingface-blog-ort-accelerating-hf-models.md) ([Source](https://huggingface.co/blog/ort-accelerating-hf-models)) - `ai/models`
-259. [Run a vLLM Server on HF Jobs in One Command](../../ai/models/huggingface-blog-vllm-jobs.md) ([Source](https://huggingface.co/blog/vllm-jobs)) - `ai/models`
-260. [Deploy Livebook notebooks as apps to Hugging Face Spaces](../../ai/models/huggingface-blog-livebook-app-deployment.md) ([Source](https://huggingface.co/blog/livebook-app-deployment)) - `ai/models`
-261. [How to Build an MCP Server with Gradio](../../ai/models/huggingface-blog-gradio-mcp.md) ([Source](https://huggingface.co/blog/gradio-mcp)) - `ai/models`
-262. [The State of Computer Vision at Hugging Face 🤗](../../ai/models/huggingface-blog-cv-state.md) ([Source](https://huggingface.co/blog/cv_state)) - `ai/models`
-263. [Creating Privacy Preserving AI with Substra](../../ai/models/huggingface-blog-owkin-substra.md) ([Source](https://huggingface.co/blog/owkin-substra)) - `ai/models`
-264. [SmolLM - blazingly fast and remarkably powerful](../../ai/models/huggingface-blog-smollm.md) ([Source](https://huggingface.co/blog/smollm)) - `ai/models`
-265. [Can foundation models label data like humans?](../../ai/models/huggingface-blog-open-llm-leaderboard-rlhf.md) ([Source](https://huggingface.co/blog/open-llm-leaderboard-rlhf)) - `ai/models`
-266. [PaliGemma 2 Mix - New Instruction Vision Language Models by Google](../../ai/models/huggingface-blog-paligemma2mix.md) ([Source](https://huggingface.co/blog/paligemma2mix)) - `ai/models`
-267. [Making a web app generator with open ML models](../../ai/models/huggingface-blog-text-to-webapp.md) ([Source](https://huggingface.co/blog/text-to-webapp)) - `ai/models`
-268. [Optimize and deploy with Optimum-Intel and OpenVINO GenAI](../../ai/models/huggingface-blog-deploy-with-openvino.md) ([Source](https://huggingface.co/blog/deploy-with-openvino)) - `ai/models`
-269. [Patch Time Series Transformer in Hugging Face](../../ai/models/huggingface-blog-patchtst.md) ([Source](https://huggingface.co/blog/patchtst)) - `ai/models`
-270. [Train a Sentence Embedding Model with 1B Training Pairs](../../ai/models/huggingface-blog-1b-sentence-embeddings.md) ([Source](https://huggingface.co/blog/1b-sentence-embeddings)) - `ai/models`
-271. [Remote VAEs for decoding with Inference Endpoints 🤗](../../ai/models/huggingface-blog-remote-vae.md) ([Source](https://huggingface.co/blog/remote_vae)) - `ai/models`
-272. [🪆 Introduction to Matryoshka Embedding Models](../../ai/models/huggingface-blog-matryoshka.md) ([Source](https://huggingface.co/blog/matryoshka)) - `ai/models`
-273. [Supercharged Customer Service with Machine Learning](../../ai/models/huggingface-blog-supercharge-customer-service-with-machine-learning.md) ([Source](https://huggingface.co/blog/supercharge-customer-service-with-machine-learning)) - `ai/models`
-274. [Faster assisted generation support for Intel Gaudi](../../ai/models/huggingface-blog-assisted-generation-support-gaudi.md) ([Source](https://huggingface.co/blog/assisted-generation-support-gaudi)) - `ai/models`
-275. [Welcome Stable-baselines3 to the Hugging Face Hub 🤗](../../ai/models/huggingface-blog-sb3.md) ([Source](https://huggingface.co/blog/sb3)) - `ai/models`
-276. [Benchmarking Language Model Performance on 5th Gen Xeon at GCP](../../ai/models/huggingface-blog-intel-gcp-c4.md) ([Source](https://huggingface.co/blog/intel-gcp-c4)) - `ai/models`
-277. [Creating a Coding Assistant with StarCoder](../../ai/models/huggingface-blog-starchat-alpha.md) ([Source](https://huggingface.co/blog/starchat-alpha)) - `ai/models`
-278. [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../../ai/models/huggingface-blog-trl-peft.md) ([Source](https://huggingface.co/blog/trl-peft)) - `ai/models`
-279. [A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake](../../ai/models/huggingface-blog-phi2-intel-meteor-lake.md) ([Source](https://huggingface.co/blog/phi2-intel-meteor-lake)) - `ai/models`
-280. [HuggingFace, IISc partner to supercharge model building on India's diverse languages](../../ai/models/huggingface-blog-iisc-huggingface-collab.md) ([Source](https://huggingface.co/blog/iisc-huggingface-collab)) - `ai/models`
-281. [Putting ethical principles at the core of the research lifecycle](../../ai/models/huggingface-blog-ethical-charter-multimodal.md) ([Source](https://huggingface.co/blog/ethical-charter-multimodal)) - `ai/models`
-282. [Featuring Every Eval Ever Results on Hugging Face Model Pages](../../ai/models/huggingface-blog-eee-community-evals.md) ([Source](https://huggingface.co/blog/eee-community-evals)) - `ai/models`
-283. [Make your ZeroGPU Spaces go brrr with ahead-of-time compilation](../../ai/models/huggingface-blog-zerogpu-aoti.md) ([Source](https://huggingface.co/blog/zerogpu-aoti)) - `ai/models`
-284. [Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers](../../ai/models/huggingface-blog-asr-chunking.md) ([Source](https://huggingface.co/blog/asr-chunking)) - `ai/models`
-285. [Synthetic data: save money, time and carbon with open source](../../ai/models/huggingface-blog-synthetic-data-save-costs.md) ([Source](https://huggingface.co/blog/synthetic-data-save-costs)) - `ai/models`
-286. [The Age of Machine Learning As Code Has Arrived](../../ai/models/huggingface-blog-the-age-of-ml-as-code.md) ([Source](https://huggingface.co/blog/the-age-of-ml-as-code)) - `ai/models`
-287. [Ettin Suite: SoTA Paired Encoders and Decoders](../../ai/models/huggingface-blog-ettin.md) ([Source](https://huggingface.co/blog/ettin)) - `ai/models`
-288. [Beyond LoRA: Can you beat the most popular fine-tuning technique?](../../ai/models/huggingface-blog-peft-beyond-lora.md) ([Source](https://huggingface.co/blog/peft-beyond-lora)) - `ai/models`
-289. [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](../../ai/models/huggingface-blog-npc-gigax-cubzh.md) ([Source](https://huggingface.co/blog/npc-gigax-cubzh)) - `ai/models`
-290. [Announcing Evaluation on the Hub](../../ai/models/huggingface-blog-eval-on-the-hub.md) ([Source](https://huggingface.co/blog/eval-on-the-hub)) - `ai/models`
-291. [XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face](../../ai/models/huggingface-blog-xlscout-case-study.md) ([Source](https://huggingface.co/blog/xlscout-case-study)) - `ai/models`
-292. [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](../../ai/models/huggingface-blog-nvidia-nvidia-cosmos-reason-2-brings-advanced-reasoning.md) ([Source](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning)) - `ai/models`
-293. [Training and Finetuning Reranker Models with Sentence Transformers](../../ai/models/huggingface-blog-train-reranker.md) ([Source](https://huggingface.co/blog/train-reranker)) - `ai/models`
-294. [AI for Food Allergies](../../ai/models/huggingface-blog-hugging-science-ai-for-food-allergies.md) ([Source](https://huggingface.co/blog/hugging-science/ai-for-food-allergies)) - `ai/models`
-295. [Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration](../../ai/models/huggingface-blog-intel.md) ([Source](https://huggingface.co/blog/intel)) - `ai/models`
-296. [Announcing New Hugging Face and KerasHub integration](../../ai/models/huggingface-blog-keras-hub-integration.md) ([Source](https://huggingface.co/blog/keras-hub-integration)) - `ai/models`
-297. [Mastering Long Contexts in LLMs with KVPress](../../ai/models/huggingface-blog-nvidia-kvpress.md) ([Source](https://huggingface.co/blog/nvidia/kvpress)) - `ai/models`
-298. [Deploying 🤗 ViT on Vertex AI](../../ai/models/huggingface-blog-deploy-vertex-ai.md) ([Source](https://huggingface.co/blog/deploy-vertex-ai)) - `ai/models`
-299. [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../../ai/models/huggingface-blog-tgi-multi-backend.md) ([Source](https://huggingface.co/blog/tgi-multi-backend)) - `ai/models`
-300. [Deploy models on AWS Inferentia2 from Hugging Face](../../ai/models/huggingface-blog-inferentia-inference-endpoints.md) ([Source](https://huggingface.co/blog/inferentia-inference-endpoints)) - `ai/models`
-301. [Arc Virtual Cell Challenge: A Primer](../../ai/models/huggingface-blog-virtual-cell-challenge.md) ([Source](https://huggingface.co/blog/virtual-cell-challenge)) - `ai/models`
-302. [Using & Mixing Hugging Face Models with Gradio 2.0](../../ai/models/huggingface-blog-gradio.md) ([Source](https://huggingface.co/blog/gradio)) - `ai/models`
-303. [Fast LoRA inference for Flux with Diffusers and PEFT](../../ai/models/huggingface-blog-lora-fast.md) ([Source](https://huggingface.co/blog/lora-fast)) - `ai/models`
-304. [Hugging Face Machine Learning Demos on arXiv](../../ai/models/huggingface-blog-arxiv.md) ([Source](https://huggingface.co/blog/arxiv)) - `ai/models`
-305. [Arm & ExecuTorch 0.7: Bringing Generative AI to the masses](../../ai/models/huggingface-blog-arm-executorch-0-dot-7.md) ([Source](https://huggingface.co/blog/arm/executorch-0-dot-7)) - `ai/models`
-306. [Asynchronous Robot Inference: Decoupling Action Prediction and Execution](../../ai/models/huggingface-blog-async-robot-inference.md) ([Source](https://huggingface.co/blog/async-robot-inference)) - `ai/models`
-307. [Introducing Daggr: Chain apps programmatically, inspect visually](../../ai/models/huggingface-blog-daggr.md) ([Source](https://huggingface.co/blog/daggr)) - `ai/models`
-308. [BigCodeBench: The Next Generation of HumanEval](../../ai/models/huggingface-blog-leaderboard-bigcodebench.md) ([Source](https://huggingface.co/blog/leaderboard-bigcodebench)) - `ai/models`
-309. [The NLP Course is becoming the LLM Course](../../ai/models/huggingface-blog-llm-course.md) ([Source](https://huggingface.co/blog/llm-course)) - `ai/models`
-310. [Ethics and Society Newsletter #4: Bias in Text-to-Image Models](../../ai/models/huggingface-blog-ethics-soc-4.md) ([Source](https://huggingface.co/blog/ethics-soc-4)) - `ai/models`
-311. [FastRTC: The Real-Time Communication Library for Python](../../ai/models/huggingface-blog-fastrtc.md) ([Source](https://huggingface.co/blog/fastrtc)) - `ai/models`
-312. [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](../../ai/models/huggingface-blog-tokenizers.md) ([Source](https://huggingface.co/blog/tokenizers)) - `ai/models`
-313. [Introducing Skops](../../ai/models/huggingface-blog-skops.md) ([Source](https://huggingface.co/blog/skops)) - `ai/models`
-314. [Supercharge your OCR Pipelines with Open Models](../../ai/models/huggingface-blog-ocr-open-models.md) ([Source](https://huggingface.co/blog/ocr-open-models)) - `ai/models`
-315. [Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-wav2vec2-english.md) ([Source](https://huggingface.co/blog/fine-tune-wav2vec2-english)) - `ai/models`
-316. [How to train your model dynamically using adversarial data](../../ai/models/huggingface-blog-mnist-adversarial.md) ([Source](https://huggingface.co/blog/mnist-adversarial)) - `ai/models`
-317. [Swift Transformers Reaches 1.0 – and Looks to the Future](../../ai/models/huggingface-blog-swift-transformers.md) ([Source](https://huggingface.co/blog/swift-transformers)) - `ai/models`
-318. [Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](../../ai/models/huggingface-blog-open-asr-leaderboard.md) ([Source](https://huggingface.co/blog/open-asr-leaderboard)) - `ai/models`
-319. [Fixing Gradient Accumulation](../../ai/models/huggingface-blog-gradient-accumulation.md) ([Source](https://huggingface.co/blog/gradient_accumulation)) - `ai/models`
-320. [An overview of inference solutions on Hugging Face](../../ai/models/huggingface-blog-inference-update.md) ([Source](https://huggingface.co/blog/inference-update)) - `ai/models`
-321. [Bringing serverless GPU inference to Hugging Face users](../../ai/models/huggingface-blog-cloudflare-workers-ai.md) ([Source](https://huggingface.co/blog/cloudflare-workers-ai)) - `ai/models`
-322. [Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial](../../ai/models/huggingface-blog-open-r1-mini-r1-contdown-game.md) ([Source](https://huggingface.co/blog/open-r1/mini-r1-contdown-game)) - `ai/models`
-323. [Putting RL back in RLHF](../../ai/models/huggingface-blog-putting-rl-back-in-rlhf-with-rloo.md) ([Source](https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo)) - `ai/models`
-324. [Deep Q-Learning with Space Invaders](../../ai/models/huggingface-blog-deep-rl-dqn.md) ([Source](https://huggingface.co/blog/deep-rl-dqn)) - `ai/models`
-325. [Welcome Inkling by Thinking Machines](../../ai/models/huggingface-blog-thinkingmachines-inkling.md) ([Source](https://huggingface.co/blog/thinkingmachines-inkling)) - `ai/models`
-326. [Deploy Embedding Models with Hugging Face Inference Endpoints](../../ai/models/huggingface-blog-inference-endpoints-embeddings.md) ([Source](https://huggingface.co/blog/inference-endpoints-embeddings)) - `ai/models`
-327. [How 🤗 Accelerate runs very large models thanks to PyTorch](../../ai/models/huggingface-blog-accelerate-large-models.md) ([Source](https://huggingface.co/blog/accelerate-large-models)) - `ai/models`
-328. [SDXL in 4 steps with Latent Consistency LoRAs](../../ai/models/huggingface-blog-lcm-lora.md) ([Source](https://huggingface.co/blog/lcm_lora)) - `ai/models`
-329. [Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](../../ai/models/huggingface-blog-anylanguagemodel.md) ([Source](https://huggingface.co/blog/anylanguagemodel)) - `ai/models`
-330. [Overview of natively supported quantization schemes in 🤗 Transformers](../../ai/models/huggingface-blog-overview-quantization-transformers.md) ([Source](https://huggingface.co/blog/overview-quantization-transformers)) - `ai/models`
-331. [Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](../../ai/models/huggingface-blog-faster-transformers.md) ([Source](https://huggingface.co/blog/faster-transformers)) - `ai/models`
-332. [Introducing new audio and vision documentation in 🤗 Datasets](../../ai/models/huggingface-blog-datasets-docs-update.md) ([Source](https://huggingface.co/blog/datasets-docs-update)) - `ai/models`
-333. [📚 3LM: A Benchmark for Arabic LLMs in STEM and Code](../../ai/models/huggingface-blog-tiiuae-3lm-benchmark.md) ([Source](https://huggingface.co/blog/tiiuae/3lm-benchmark)) - `ai/models`
-334. [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](../../ai/models/huggingface-blog-infinity-cpu-performance.md) ([Source](https://huggingface.co/blog/infinity-cpu-performance)) - `ai/models`
-335. [Improving Hugging Face Model Access for Kaggle Users](../../ai/models/huggingface-blog-kaggle-integration.md) ([Source](https://huggingface.co/blog/kaggle-integration)) - `ai/models`
-336. [Proximal Policy Optimization (PPO)](../../ai/models/huggingface-blog-deep-rl-ppo.md) ([Source](https://huggingface.co/blog/deep-rl-ppo)) - `ai/models`
-337. [Introducing the Open Leaderboard for Japanese LLMs!](../../ai/models/huggingface-blog-leaderboard-japanese.md) ([Source](https://huggingface.co/blog/leaderboard-japanese)) - `ai/models`
-338. [Introducing the Synthetic Data Generator - Build Datasets with Natural Language](../../ai/models/huggingface-blog-synthetic-data-generator.md) ([Source](https://huggingface.co/blog/synthetic-data-generator)) - `ai/models`
-339. [Introducing Gradio's new Dataframe!](../../ai/models/huggingface-blog-gradio-dataframe-upgrade.md) ([Source](https://huggingface.co/blog/gradio-dataframe-upgrade)) - `ai/models`
-340. [Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨](../../ai/models/huggingface-blog-hf-cli.md) ([Source](https://huggingface.co/blog/hf-cli)) - `ai/models`
-341. [Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required](../../ai/models/huggingface-blog-argilla-ui-hub.md) ([Source](https://huggingface.co/blog/argilla-ui-hub)) - `ai/models`
-342. [Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora](../../ai/models/huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md) ([Source](https://huggingface.co/blog/lora-for-sequence-classification-with-roberta-llama-mistral)) - `ai/models`
-343. [Announcing the 🤗 AI Research Residency Program](../../ai/models/huggingface-blog-ai-residency.md) ([Source](https://huggingface.co/blog/ai-residency)) - `ai/models`
-344. [Finetuning olmOCR to be a faithful OCR-Engine](../../ai/models/huggingface-blog-tngtech-finetuning-olmocr-to-be-a-faithful-ocr-engine.md) ([Source](https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine)) - `ai/models`
-345. [Llama 2 is here - get it on Hugging Face](../../ai/models/huggingface-blog-llama2.md) ([Source](https://huggingface.co/blog/llama2)) - `ai/models`
-346. [Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too](../../ai/models/huggingface-blog-mantis-case-study.md) ([Source](https://huggingface.co/blog/mantis-case-study)) - `ai/models`
-347. [Introducing Training Cluster as a Service - a new collaboration with NVIDIA](../../ai/models/huggingface-blog-nvidia-training-cluster.md) ([Source](https://huggingface.co/blog/nvidia-training-cluster)) - `ai/models`
-348. [Advantage Actor Critic (A2C)](../../ai/models/huggingface-blog-deep-rl-a2c.md) ([Source](https://huggingface.co/blog/deep-rl-a2c)) - `ai/models`
-349. [Introducing the Ettin Reranker Family](../../ai/models/huggingface-blog-ettin-reranker.md) ([Source](https://huggingface.co/blog/ettin-reranker)) - `ai/models`
-350. [Build AI on premise with Dell Enterprise Hub](../../ai/models/huggingface-blog-dell-enterprise-hub.md) ([Source](https://huggingface.co/blog/dell-enterprise-hub)) - `ai/models`
-351. [Training a language model with 🤗 Transformers using TensorFlow and TPUs](../../ai/models/huggingface-blog-tf-tpu.md) ([Source](https://huggingface.co/blog/tf_tpu)) - `ai/models`
-352. [Investing in Performance: Fine-tune small models with LLM insights - a CFM case study](../../ai/models/huggingface-blog-cfm-case-study.md) ([Source](https://huggingface.co/blog/cfm-case-study)) - `ai/models`
-353. [The N Implementation Details of RLHF with PPO](../../ai/models/huggingface-blog-the-n-implementation-details-of-rlhf-with-ppo.md) ([Source](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo)) - `ai/models`
-354. [Accelerating Protein Language Model ProtST on Intel Gaudi 2](../../ai/models/huggingface-blog-intel-protein-language-model-protst.md) ([Source](https://huggingface.co/blog/intel-protein-language-model-protst)) - `ai/models`
-355. [A Dive into Text-to-Video Models](../../ai/models/huggingface-blog-text-to-video.md) ([Source](https://huggingface.co/blog/text-to-video)) - `ai/models`
-356. [Retrieval Augmented Generation with Huggingface Transformers and Ray](../../ai/models/huggingface-blog-ray-rag.md) ([Source](https://huggingface.co/blog/ray-rag)) - `ai/models`
-357. [Building Deep Research: How we Achieved State of the Art](../../ai/models/huggingface-blog-tavily-tavily-deep-research.md) ([Source](https://huggingface.co/blog/tavily/tavily-deep-research)) - `ai/models`
-358. [Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny](../../ai/models/huggingface-blog-sd-distillation.md) ([Source](https://huggingface.co/blog/sd_distillation)) - `ai/models`
-359. [AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU](../../ai/models/huggingface-blog-huggingface-and-optimum-amd.md) ([Source](https://huggingface.co/blog/huggingface-and-optimum-amd)) - `ai/models`
-360. [TextQuests: How Good are LLMs at Text-Based Video Games?](../../ai/models/huggingface-blog-textquests.md) ([Source](https://huggingface.co/blog/textquests)) - `ai/models`
-361. [Granite 4.1 LLMs: How They’re Built](../../ai/models/huggingface-blog-ibm-granite-granite-4-1.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-1)) - `ai/models`
-362. [Deep Learning with Proteins](../../ai/models/huggingface-blog-deep-learning-with-proteins.md) ([Source](https://huggingface.co/blog/deep-learning-with-proteins)) - `ai/models`
-363. [Getting Started with Sentiment Analysis using Python](../../ai/models/huggingface-blog-sentiment-analysis-python.md) ([Source](https://huggingface.co/blog/sentiment-analysis-python)) - `ai/models`
-364. [Introduction to 3D Gaussian Splatting](../../ai/models/huggingface-blog-gaussian-splatting.md) ([Source](https://huggingface.co/blog/gaussian-splatting)) - `ai/models`
-365. [BigCodeArena: Judging code generations end to end with code executions](../../ai/models/huggingface-blog-bigcode-arena.md) ([Source](https://huggingface.co/blog/bigcode/arena)) - `ai/models`
-366. [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance](../../ai/models/huggingface-blog-tiiuae-falcon-h1.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-h1)) - `ai/models`
-367. [Introducing Community Tools on HuggingChat](../../ai/models/huggingface-blog-community-tools.md) ([Source](https://huggingface.co/blog/community-tools)) - `ai/models`
-368. [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](../../ai/models/huggingface-blog-nvidia-nemotron-3-5-content-safety.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety)) - `ai/models`
-369. [Diffusers welcomes FLUX-2](../../ai/models/huggingface-blog-flux-2.md) ([Source](https://huggingface.co/blog/flux-2)) - `ai/models`
-370. [Diffusion Models Live Event](../../ai/models/huggingface-blog-diffusion-models-event.md) ([Source](https://huggingface.co/blog/diffusion-models-event)) - `ai/models`
-371. [Llama 2 on Amazon SageMaker a Benchmark](../../ai/models/huggingface-blog-llama-sagemaker-benchmark.md) ([Source](https://huggingface.co/blog/llama-sagemaker-benchmark)) - `ai/models`
-372. [Showcase Your Projects in Spaces using Gradio](../../ai/models/huggingface-blog-gradio-spaces.md) ([Source](https://huggingface.co/blog/gradio-spaces)) - `ai/models`
-373. [Introducing DOI: the Digital Object Identifier to Datasets and Models](../../ai/models/huggingface-blog-introducing-doi.md) ([Source](https://huggingface.co/blog/introducing-doi)) - `ai/models`
-374. [An Introduction to Q-Learning Part 1](../../ai/models/huggingface-blog-deep-rl-q-part1.md) ([Source](https://huggingface.co/blog/deep-rl-q-part1)) - `ai/models`
-375. [🐶Safetensors audited as really safe and becoming the default](../../ai/models/huggingface-blog-safetensors-security-audit.md) ([Source](https://huggingface.co/blog/safetensors-security-audit)) - `ai/models`
-376. [Accelerate Large Model Training using DeepSpeed](../../ai/models/huggingface-blog-accelerate-deepspeed.md) ([Source](https://huggingface.co/blog/accelerate-deepspeed)) - `ai/models`
-377. [PatchTSMixer in HuggingFace](../../ai/models/huggingface-blog-patchtsmixer.md) ([Source](https://huggingface.co/blog/patchtsmixer)) - `ai/models`
-378. [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](../../ai/models/huggingface-blog-paddlepaddle-pp-ocrv6.md) ([Source](https://huggingface.co/blog/paddlepaddle/pp-ocrv6)) - `ai/models`
-379. [Getting Started with Hugging Face Inference Endpoints](../../ai/models/huggingface-blog-inference-endpoints.md) ([Source](https://huggingface.co/blog/inference-endpoints)) - `ai/models`
-380. [Visualize and understand GPU memory in PyTorch](../../ai/models/huggingface-blog-train-memory.md) ([Source](https://huggingface.co/blog/train_memory)) - `ai/models`
-381. [New ViT and ALIGN Models From Kakao Brain](../../ai/models/huggingface-blog-vit-align.md) ([Source](https://huggingface.co/blog/vit-align)) - `ai/models`
-382. [My Journey to a serverless transformers pipeline on Google Cloud](../../ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md) ([Source](https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds)) - `ai/models`
-383. [Large-scale Near-deduplication Behind BigCode](../../ai/models/huggingface-blog-dedup.md) ([Source](https://huggingface.co/blog/dedup)) - `ai/models`
-384. [ControlNet in 🧨 Diffusers](../../ai/models/huggingface-blog-controlnet.md) ([Source](https://huggingface.co/blog/controlnet)) - `ai/models`
-385. [The Partnership: Amazon SageMaker and Hugging Face](../../ai/models/huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md) ([Source](https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face)) - `ai/models`
-386. [StackLLaMA: A hands-on guide to train LLaMA with RLHF](../../ai/models/huggingface-blog-stackllama.md) ([Source](https://huggingface.co/blog/stackllama)) - `ai/models`
-387. [Inference for PROs](../../ai/models/huggingface-blog-inference-pro.md) ([Source](https://huggingface.co/blog/inference-pro)) - `ai/models`
-388. [How to Install and Use the Hugging Face Unity API](../../ai/models/huggingface-blog-unity-api.md) ([Source](https://huggingface.co/blog/unity-api)) - `ai/models`
-389. [Sentence Transformers is joining Hugging Face!](../../ai/models/huggingface-blog-sentence-transformers-joins-hf.md) ([Source](https://huggingface.co/blog/sentence-transformers-joins-hf)) - `ai/models`
-390. [Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker](../../ai/models/huggingface-blog-gptj-sagemaker.md) ([Source](https://huggingface.co/blog/gptj-sagemaker)) - `ai/models`
-391. [We Got Claude to Build CUDA Kernels and teach open models!](../../ai/models/huggingface-blog-upskill.md) ([Source](https://huggingface.co/blog/upskill)) - `ai/models`
-392. [Serverless Inference with Hugging Face and NVIDIA NIM](../../ai/models/huggingface-blog-inference-dgx-cloud.md) ([Source](https://huggingface.co/blog/inference-dgx-cloud)) - `ai/models`
-393. [LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](../../ai/models/huggingface-blog-llm-inference-on-edge.md) ([Source](https://huggingface.co/blog/llm-inference-on-edge)) - `ai/models`
-394. [Introducing RTEB: A New Standard for Retrieval Evaluation](../../ai/models/huggingface-blog-rteb.md) ([Source](https://huggingface.co/blog/rteb)) - `ai/models`
-395. [Groq on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-groq.md) ([Source](https://huggingface.co/blog/inference-providers-groq)) - `ai/models`
-396. [Blazingly fast whisper transcriptions with Inference Endpoints](../../ai/models/huggingface-blog-fast-whisper-endpoints.md) ([Source](https://huggingface.co/blog/fast-whisper-endpoints)) - `ai/models`
-397. [We are hiring interns!](../../ai/models/huggingface-blog-interns-2023.md) ([Source](https://huggingface.co/blog/interns-2023)) - `ai/models`
-398. [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](../../ai/models/huggingface-blog-torch-mlp-fusion.md) ([Source](https://huggingface.co/blog/torch-mlp-fusion)) - `ai/models`
-399. [Hugging Face partners with Wiz Research to Improve AI Security](../../ai/models/huggingface-blog-hugging-face-wiz-security-blog.md) ([Source](https://huggingface.co/blog/hugging-face-wiz-security-blog)) - `ai/models`
-400. [Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face](../../ai/models/huggingface-blog-leaderboard-artificial-analysis.md) ([Source](https://huggingface.co/blog/leaderboard-artificial-analysis)) - `ai/models`
-401. [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](../../ai/models/huggingface-blog-swift-huggingface.md) ([Source](https://huggingface.co/blog/swift-huggingface)) - `ai/models`
-402. [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](../../ai/models/huggingface-blog-ggml-joins-hf.md) ([Source](https://huggingface.co/blog/ggml-joins-hf)) - `ai/models`
-403. [Image Classification with AutoTrain](../../ai/models/huggingface-blog-autotrain-image-classification.md) ([Source](https://huggingface.co/blog/autotrain-image-classification)) - `ai/models`
-404. [How Hugging Face Accelerated Development of Witty Works Writing Assistant](../../ai/models/huggingface-blog-classification-use-cases.md) ([Source](https://huggingface.co/blog/classification-use-cases)) - `ai/models`
-405. [DeepInfra on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-deepinfra.md) ([Source](https://huggingface.co/blog/inference-providers-deepinfra)) - `ai/models`
-406. [Continuous batching from first principles](../../ai/models/huggingface-blog-continuous-batching.md) ([Source](https://huggingface.co/blog/continuous_batching)) - `ai/models`
-407. [LeRobot v0.6.0: Imagine, Evaluate, Improve](../../ai/models/huggingface-blog-lerobot-release-v060.md) ([Source](https://huggingface.co/blog/lerobot-release-v060)) - `ai/models`
-408. [From Hugging Face to Amazon SageMaker Studio in one click](../../ai/models/huggingface-blog-amazon-one-click-to-sagemaker-studio.md) ([Source](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio)) - `ai/models`
-409. [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](../../ai/models/huggingface-blog-train-multimodal-sentence-transformers.md) ([Source](https://huggingface.co/blog/train-multimodal-sentence-transformers)) - `ai/models`
-410. [Hugging Face's TensorFlow Philosophy](../../ai/models/huggingface-blog-tensorflow-philosophy.md) ([Source](https://huggingface.co/blog/tensorflow-philosophy)) - `ai/models`
-411. [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](../../ai/models/huggingface-blog-lerobot-datasets-v3.md) ([Source](https://huggingface.co/blog/lerobot-datasets-v3)) - `ai/models`
-412. [Large Language Models: A New Moore's Law?](../../ai/models/huggingface-blog-large-language-models.md) ([Source](https://huggingface.co/blog/large-language-models)) - `ai/models`
-413. [Director of Machine Learning Insights](../../ai/models/huggingface-blog-ml-director-insights.md) ([Source](https://huggingface.co/blog/ml-director-insights)) - `ai/models`
-414. [Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs](../../ai/models/huggingface-blog-autoround.md) ([Source](https://huggingface.co/blog/autoround)) - `ai/models`
-415. [Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​](../../ai/models/huggingface-blog-rocketmoney-case-study.md) ([Source](https://huggingface.co/blog/rocketmoney-case-study)) - `ai/models`
-416. [From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community](../../ai/models/huggingface-blog-elixir-bumblebee.md) ([Source](https://huggingface.co/blog/elixir-bumblebee)) - `ai/models`
-417. [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes](../../ai/models/huggingface-blog-hf-bitsandbytes-integration.md) ([Source](https://huggingface.co/blog/hf-bitsandbytes-integration)) - `ai/models`
-418. [AI Policy @🤗: Response to the White House AI Action Plan RFI](../../ai/models/huggingface-blog-ai-action-wh-2025.md) ([Source](https://huggingface.co/blog/ai-action-wh-2025)) - `ai/models`
-419. [What's new in Diffusers? 🎨](../../ai/models/huggingface-blog-diffusers-2nd-month.md) ([Source](https://huggingface.co/blog/diffusers-2nd-month)) - `ai/models`
-420. [Deploy Hugging Face models easily with Amazon SageMaker](../../ai/models/huggingface-blog-deploy-hugging-face-models-easily-with-amazon-sagemaker.md) ([Source](https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker)) - `ai/models`
-421. [Stable Diffusion with 🧨 Diffusers](../../ai/models/huggingface-blog-stable-diffusion.md) ([Source](https://huggingface.co/blog/stable_diffusion)) - `ai/models`
-422. [Hugging Face + PyCharm](../../ai/models/huggingface-blog-pycharm-integration.md) ([Source](https://huggingface.co/blog/pycharm-integration)) - `ai/models`
-423. [Native-speed vLLM transformers modeling backend](../../ai/models/huggingface-blog-native-speed-vllm-transformers-backend.md) ([Source](https://huggingface.co/blog/native-speed-vllm-transformers-backend)) - `ai/models`
-424. [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](../../ai/models/huggingface-blog-huggingface-hub-release-ci.md) ([Source](https://huggingface.co/blog/huggingface-hub-release-ci)) - `ai/models`
-425. [Introducing the Private Hub: A New Way to Build With Machine Learning](../../ai/models/huggingface-blog-introducing-private-hub.md) ([Source](https://huggingface.co/blog/introducing-private-hub)) - `ai/models`
-426. [Ethics and Society Newsletter #1](../../ai/models/huggingface-blog-ethics-soc-1.md) ([Source](https://huggingface.co/blog/ethics-soc-1)) - `ai/models`
-427. [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](../../ai/models/huggingface-blog-dharma-ai-gpu-management.md) ([Source](https://huggingface.co/blog/dharma-ai/gpu-management)) - `ai/models`
-428. [Deprecation of Git Authentication using password](../../ai/models/huggingface-blog-password-git-deprecation.md) ([Source](https://huggingface.co/blog/password-git-deprecation)) - `ai/models`
-429. [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](../../ai/models/huggingface-blog-mixtral.md) ([Source](https://huggingface.co/blog/mixtral)) - `ai/models`
-430. [Open R1: Update #3](../../ai/models/huggingface-blog-open-r1-update-3.md) ([Source](https://huggingface.co/blog/open-r1/update-3)) - `ai/models`
-431. [Preference Tuning LLMs with Direct Preference Optimization Methods](../../ai/models/huggingface-blog-pref-tuning.md) ([Source](https://huggingface.co/blog/pref-tuning)) - `ai/models`
-432. [Practical 3D Asset Generation: A Step-by-Step Guide](../../ai/models/huggingface-blog-3d-assets.md) ([Source](https://huggingface.co/blog/3d-assets)) - `ai/models`
-433. [Efficient MultiModal Data Pipeline](../../ai/models/huggingface-blog-mmdp.md) ([Source](https://huggingface.co/blog/mmdp)) - `ai/models`
-434. [SafeCoder vs. Closed-source Code Assistants](../../ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md) ([Source](https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants)) - `ai/models`
-435. [2D Asset Generation: AI for Game Development #4](../../ai/models/huggingface-blog-ml-for-games-4.md) ([Source](https://huggingface.co/blog/ml-for-games-4)) - `ai/models`
-436. [From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate](../../ai/models/huggingface-blog-deepspeed-to-fsdp-and-back.md) ([Source](https://huggingface.co/blog/deepspeed-to-fsdp-and-back)) - `ai/models`
-437. [AI and the Future of Cybersecurity: Why Openness Matters](../../ai/models/huggingface-blog-cybersecurity-openness.md) ([Source](https://huggingface.co/blog/cybersecurity-openness)) - `ai/models`
-438. [Fine-tuning Llama 2 70B using PyTorch FSDP](../../ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md) ([Source](https://huggingface.co/blog/ram-efficient-pytorch-fsdp)) - `ai/models`
-439. [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](../../ai/models/huggingface-blog-fetch-case-study.md) ([Source](https://huggingface.co/blog/fetch-case-study)) - `ai/models`
-440. [AI Speech Recognition in Unity](../../ai/models/huggingface-blog-unity-asr.md) ([Source](https://huggingface.co/blog/unity-asr)) - `ai/models`
-441. [Hugging Face Models on Foundry Managed Compute](../../ai/models/huggingface-blog-microsoft-foundry-managed-compute.md) ([Source](https://huggingface.co/blog/microsoft/foundry-managed-compute)) - `ai/models`
-442. [From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub](../../ai/models/huggingface-blog-from-chunks-to-blocks.md) ([Source](https://huggingface.co/blog/from-chunks-to-blocks)) - `ai/models`
-443. [New in llama.cpp: Model Management](../../ai/models/huggingface-blog-ggml-org-model-management-in-llamacpp.md) ([Source](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp)) - `ai/models`
-444. [Make your llama generation time fly with AWS Inferentia2](../../ai/models/huggingface-blog-inferentia-llama2.md) ([Source](https://huggingface.co/blog/inferentia-llama2)) - `ai/models`
-445. [Getting Started with Transformers on Habana Gaudi](../../ai/models/huggingface-blog-getting-started-habana.md) ([Source](https://huggingface.co/blog/getting-started-habana)) - `ai/models`
-446. [Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS](../../ai/models/huggingface-blog-fetch-eap-case-study.md) ([Source](https://huggingface.co/blog/fetch-eap-case-study)) - `ai/models`
-447. [Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](../../ai/models/huggingface-blog-packing-with-fa2.md) ([Source](https://huggingface.co/blog/packing-with-fa2)) - `ai/models`
-448. [DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub](../../ai/models/huggingface-blog-hub-duckdb.md) ([Source](https://huggingface.co/blog/hub-duckdb)) - `ai/models`
-449. [AI Apps in a Flash with Gradio's Reload Mode](../../ai/models/huggingface-blog-gradio-reload.md) ([Source](https://huggingface.co/blog/gradio-reload)) - `ai/models`
-450. [Welcome GPT OSS, the new open-source model family from OpenAI!](../../ai/models/huggingface-blog-welcome-openai-gpt-oss.md) ([Source](https://huggingface.co/blog/welcome-openai-gpt-oss)) - `ai/models`
-451. [How Long Prompts Block Other Requests - Optimizing LLM Performance](../../ai/models/huggingface-blog-tngtech-llm-performance-blocked-by-long-prompts.md) ([Source](https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts)) - `ai/models`
-452. [Accelerating Document AI](../../ai/models/huggingface-blog-document-ai.md) ([Source](https://huggingface.co/blog/document-ai)) - `ai/models`
-453. [Building a Playlist Generator with Sentence Transformers](../../ai/models/huggingface-blog-playlist-generator.md) ([Source](https://huggingface.co/blog/playlist-generator)) - `ai/models`
-454. [Faster TensorFlow models in Hugging Face Transformers](../../ai/models/huggingface-blog-tf-serving.md) ([Source](https://huggingface.co/blog/tf-serving)) - `ai/models`
-455. [Jupyter X Hugging Face](../../ai/models/huggingface-blog-notebooks-hub.md) ([Source](https://huggingface.co/blog/notebooks-hub)) - `ai/models`
-456. [Improving Prompt Consistency with Structured Generations](../../ai/models/huggingface-blog-evaluation-structured-outputs.md) ([Source](https://huggingface.co/blog/evaluation-structured-outputs)) - `ai/models`
-457. [Vision Language Models Explained](../../ai/models/huggingface-blog-vlms.md) ([Source](https://huggingface.co/blog/vlms)) - `ai/models`
-458. [SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence](../../ai/models/huggingface-blog-sandboxaq-sair-data-accelerating-drug-discovery-with-ai.md) ([Source](https://huggingface.co/blog/sandboxaq/sair-data-accelerating-drug-discovery-with-ai)) - `ai/models`
-459. [Opinion Classification with Kili and HuggingFace AutoTrain](../../ai/models/huggingface-blog-opinion-classification-with-kili.md) ([Source](https://huggingface.co/blog/opinion-classification-with-kili)) - `ai/models`
-460. [Understanding BigBird's Block Sparse Attention](../../ai/models/huggingface-blog-big-bird.md) ([Source](https://huggingface.co/blog/big-bird)) - `ai/models`
-461. [Perceiver IO: a scalable, fully-attentional model that works on any modality](../../ai/models/huggingface-blog-perceiver.md) ([Source](https://huggingface.co/blog/perceiver)) - `ai/models`
-462. [Fine tuning CLIP with Remote Sensing (Satellite) images and captions](../../ai/models/huggingface-blog-fine-tune-clip-rsicd.md) ([Source](https://huggingface.co/blog/fine-tune-clip-rsicd)) - `ai/models`
-463. [From cloud to developers: Hugging Face and Microsoft Deepen Collaboration](../../ai/models/huggingface-blog-microsoft-collaboration.md) ([Source](https://huggingface.co/blog/microsoft-collaboration)) - `ai/models`
-464. [Introducing the Hugging Face Embedding Container for Amazon SageMaker](../../ai/models/huggingface-blog-sagemaker-huggingface-embedding.md) ([Source](https://huggingface.co/blog/sagemaker-huggingface-embedding)) - `ai/models`
-465. [Streaming datasets: 100x More Efficient](../../ai/models/huggingface-blog-streaming-datasets.md) ([Source](https://huggingface.co/blog/streaming-datasets)) - `ai/models`
-466. [Accelerating Hugging Face Transformers with AWS Inferentia2](../../ai/models/huggingface-blog-accelerate-transformers-with-inferentia2.md) ([Source](https://huggingface.co/blog/accelerate-transformers-with-inferentia2)) - `ai/models`
-467. [DiScoFormer: One transformer for density and score, across distributions](../../ai/models/huggingface-blog-allenai-discoformer.md) ([Source](https://huggingface.co/blog/allenai/discoformer)) - `ai/models`
-468. [Hugging Face and Google partner for open AI collaboration](../../ai/models/huggingface-blog-gcp-partnership.md) ([Source](https://huggingface.co/blog/gcp-partnership)) - `ai/models`
-469. [You could have designed state of the art positional encoding](../../ai/models/huggingface-blog-designing-positional-encoding.md) ([Source](https://huggingface.co/blog/designing-positional-encoding)) - `ai/models`
-470. [Welcome Gemma 4: Frontier multimodal intelligence on device](../../ai/models/huggingface-blog-gemma4.md) ([Source](https://huggingface.co/blog/gemma4)) - `ai/models`
-471. [Google Cloud TPUs made available to Hugging Face users](../../ai/models/huggingface-blog-tpu-inference-endpoints-spaces.md) ([Source](https://huggingface.co/blog/tpu-inference-endpoints-spaces)) - `ai/models`
-472. [Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B](../../ai/models/huggingface-blog-duckdb-nsql-7b.md) ([Source](https://huggingface.co/blog/duckdb-nsql-7b)) - `ai/models`
-473. [SetFit: Efficient Few-Shot Learning Without Prompts](../../ai/models/huggingface-blog-setfit.md) ([Source](https://huggingface.co/blog/setfit)) - `ai/models`
-474. [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](../../ai/models/huggingface-blog-async-rl-training-landscape.md) ([Source](https://huggingface.co/blog/async-rl-training-landscape)) - `ai/models`
-475. [Security incident disclosure — July 2026](../../ai/models/huggingface-blog-security-incident-july-2026.md) ([Source](https://huggingface.co/blog/security-incident-july-2026)) - `ai/models`
-476. [PaliGemma – Google's Cutting-Edge Open Vision Language Model](../../ai/models/huggingface-blog-paligemma.md) ([Source](https://huggingface.co/blog/paligemma)) - `ai/models`
-477. [Vision Language Model Alignment in TRL ⚡️](../../ai/models/huggingface-blog-trl-vlm-alignment.md) ([Source](https://huggingface.co/blog/trl-vlm-alignment)) - `ai/models`
-478. [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../../ai/models/huggingface-blog-stable-diffusion-xl-coreml.md) ([Source](https://huggingface.co/blog/stable-diffusion-xl-coreml)) - `ai/models`
-479. [nanoVLM: The simplest repository to train your VLM in pure PyTorch](../../ai/models/huggingface-blog-nanovlm.md) ([Source](https://huggingface.co/blog/nanovlm)) - `ai/models`
-480. [Introducing the Open Chain of Thought Leaderboard](../../ai/models/huggingface-blog-leaderboard-cot.md) ([Source](https://huggingface.co/blog/leaderboard-cot)) - `ai/models`
-481. [Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality](../../ai/models/huggingface-blog-ethics-soc-6.md) ([Source](https://huggingface.co/blog/ethics-soc-6)) - `ai/models`
-482. [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](../../ai/models/huggingface-blog-leaderboard-medicalllm.md) ([Source](https://huggingface.co/blog/leaderboard-medicalllm)) - `ai/models`
-483. [The AI tools for Art Newsletter - Issue 1](../../ai/models/huggingface-blog-ai-art-newsletter-jan-25.md) ([Source](https://huggingface.co/blog/ai-art-newsletter-jan-25)) - `ai/models`
-484. [Hugging Face Selected for the French Data Protection Agency Enhanced Support Program](../../ai/models/huggingface-blog-cnil.md) ([Source](https://huggingface.co/blog/cnil)) - `ai/models`
-485. [Exploring Quantization Backends in Diffusers](../../ai/models/huggingface-blog-diffusers-quantization.md) ([Source](https://huggingface.co/blog/diffusers-quantization)) - `ai/models`
-486. [An Introduction to Q-Learning Part 2/2](../../ai/models/huggingface-blog-deep-rl-q-part2.md) ([Source](https://huggingface.co/blog/deep-rl-q-part2)) - `ai/models`
-487. [Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac](../../ai/models/huggingface-blog-fast-diffusers-coreml.md) ([Source](https://huggingface.co/blog/fast-diffusers-coreml)) - `ai/models`
-488. [Accelerate 1.0.0](../../ai/models/huggingface-blog-accelerate-v1.md) ([Source](https://huggingface.co/blog/accelerate-v1)) - `ai/models`
-489. [Introducing the AMD 5th Gen EPYC™ CPU](../../ai/models/huggingface-blog-huggingface-amd-turin.md) ([Source](https://huggingface.co/blog/huggingface-amd-turin)) - `ai/models`
-490. [StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation](../../ai/models/huggingface-blog-sc2-instruct.md) ([Source](https://huggingface.co/blog/sc2-instruct)) - `ai/models`
-491. [Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders](../../ai/models/huggingface-blog-huggingface-and-ibm.md) ([Source](https://huggingface.co/blog/huggingface-and-ibm)) - `ai/models`
-492. [Ulysses Sequence Parallelism: Training with Million-Token Contexts](../../ai/models/huggingface-blog-ulysses-sp.md) ([Source](https://huggingface.co/blog/ulysses-sp)) - `ai/models`
-493. [LeRobot v0.5.0: Scaling Every Dimension](../../ai/models/huggingface-blog-lerobot-release-v050.md) ([Source](https://huggingface.co/blog/lerobot-release-v050)) - `ai/models`
-494. [Director of Machine Learning Insights [Part 3: Finance Edition]](../../ai/models/huggingface-blog-ml-director-insights-3.md) ([Source](https://huggingface.co/blog/ml-director-insights-3)) - `ai/models`
-495. [Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom](../../ai/models/huggingface-blog-arm-ai-sound-gen-on-arm.md) ([Source](https://huggingface.co/blog/arm/ai-sound-gen-on-arm)) - `ai/models`
-496. [Open Responses: What you need to know](../../ai/models/huggingface-blog-open-responses.md) ([Source](https://huggingface.co/blog/open-responses)) - `ai/models`
-497. [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](../../ai/models/huggingface-blog-nvidia-physical-ai.md) ([Source](https://huggingface.co/blog/nvidia-physical-ai)) - `ai/models`
-498. [Adding MCP Tools to Reachy Mini](../../ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md) ([Source](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini)) - `ai/models`
-499. [Fine-Tune MMS Adapter Models for low-resource ASR](../../ai/models/huggingface-blog-mms-adapters.md) ([Source](https://huggingface.co/blog/mms_adapters)) - `ai/models`
-500. [Welcome to Inference Providers on the Hub 🔥](../../ai/models/huggingface-blog-inference-providers.md) ([Source](https://huggingface.co/blog/inference-providers)) - `ai/models`
-501. [Diffusers welcomes Stable Diffusion 3.5 Large](../../ai/models/huggingface-blog-sd3-5.md) ([Source](https://huggingface.co/blog/sd3-5)) - `ai/models`
-502. [Generating Stories: AI for Game Development #5](../../ai/models/huggingface-blog-ml-for-games-5.md) ([Source](https://huggingface.co/blog/ml-for-games-5)) - `ai/models`
-503. [Guiding Text Generation with Constrained Beam Search in 🤗 Transformers](../../ai/models/huggingface-blog-constrained-beam-search.md) ([Source](https://huggingface.co/blog/constrained-beam-search)) - `ai/models`
-504. [Active Learning with AutoNLP and Prodigy](../../ai/models/huggingface-blog-autonlp-prodigy.md) ([Source](https://huggingface.co/blog/autonlp-prodigy)) - `ai/models`
-505. [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](../../ai/models/huggingface-blog-ffasr-leaderboard.md) ([Source](https://huggingface.co/blog/ffasr-leaderboard)) - `ai/models`
-506. [Machine Learning Experts - Margaret Mitchell](../../ai/models/huggingface-blog-meg-mitchell-interview.md) ([Source](https://huggingface.co/blog/meg-mitchell-interview)) - `ai/models`
-507. [Student Ambassador Program’s call for applications is open!](../../ai/models/huggingface-blog-ambassadors.md) ([Source](https://huggingface.co/blog/ambassadors)) - `ai/models`
-508. [Liberate your OpenClaw](../../ai/models/huggingface-blog-liberate-your-openclaw.md) ([Source](https://huggingface.co/blog/liberate-your-openclaw)) - `ai/models`
-509. [Train your ControlNet with diffusers](../../ai/models/huggingface-blog-train-your-controlnet.md) ([Source](https://huggingface.co/blog/train-your-controlnet)) - `ai/models`
-510. [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md) ([Source](https://huggingface.co/blog/4bit-transformers-bitsandbytes)) - `ai/models`
-511. [Open Preference Dataset for Text-to-Image Generation by the 🤗 Community](../../ai/models/huggingface-blog-image-preferences.md) ([Source](https://huggingface.co/blog/image-preferences)) - `ai/models`
-512. [An Introduction to Deep Reinforcement Learning](../../ai/models/huggingface-blog-deep-rl-intro.md) ([Source](https://huggingface.co/blog/deep-rl-intro)) - `ai/models`
-513. [Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator](../../ai/models/huggingface-blog-habana-gaudi-2-bloom.md) ([Source](https://huggingface.co/blog/habana-gaudi-2-bloom)) - `ai/models`
-514. [Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](../../ai/models/huggingface-blog-pytorch-fsdp.md) ([Source](https://huggingface.co/blog/pytorch-fsdp)) - `ai/models`
-515. [Journey to 1 Million Gradio Users!](../../ai/models/huggingface-blog-gradio-1m.md) ([Source](https://huggingface.co/blog/gradio-1m)) - `ai/models`
-516. [Getting Started with Sentiment Analysis on Twitter](../../ai/models/huggingface-blog-sentiment-analysis-twitter.md) ([Source](https://huggingface.co/blog/sentiment-analysis-twitter)) - `ai/models`
-517. [Public AI on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-publicai.md) ([Source](https://huggingface.co/blog/inference-providers-publicai)) - `ai/models`
-518. [🐯 Liger GRPO meets TRL](../../ai/models/huggingface-blog-liger-grpo.md) ([Source](https://huggingface.co/blog/liger-grpo)) - `ai/models`
-519. [Announcing the Hugging Face Fellowship Program](../../ai/models/huggingface-blog-fellowship.md) ([Source](https://huggingface.co/blog/fellowship)) - `ai/models`
-520. [Build a Domain-Specific Embedding Model in Under a Day](../../ai/models/huggingface-blog-nvidia-domain-specific-embedding-finetune.md) ([Source](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)) - `ai/models`
-521. [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md) ([Source](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api)) - `ai/models`
-522. [Direct Preference Optimization Beyond Chatbots](../../ai/models/huggingface-blog-dharma-ai-direct-preference-optimization-beyond-chatbots.md) ([Source](https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots)) - `ai/models`
-523. [Red-Teaming Large Language Models](../../ai/models/huggingface-blog-red-teaming.md) ([Source](https://huggingface.co/blog/red-teaming)) - `ai/models`
-524. [Newer Models, Same Advantage](../../ai/models/huggingface-blog-dharma-ai-newer-models-same-advantages.md) ([Source](https://huggingface.co/blog/dharma-ai/newer-models-same-advantages)) - `ai/models`
-525. [Open Source Developers Guide to the EU AI Act](../../ai/models/huggingface-blog-eu-ai-act-for-oss-developers.md) ([Source](https://huggingface.co/blog/eu-ai-act-for-oss-developers)) - `ai/models`
-526. [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](../../ai/models/huggingface-blog-hardware-partners-program.md) ([Source](https://huggingface.co/blog/hardware-partners-program)) - `ai/models`
-527. [Training mRNA Language Models Across 25 Species for $165](../../ai/models/huggingface-blog-openmed-training-mrna-models-25-species.md) ([Source](https://huggingface.co/blog/openmed/training-mrna-models-25-species)) - `ai/models`
-528. [How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](../../ai/models/huggingface-blog-keras-chatbot-arena.md) ([Source](https://huggingface.co/blog/keras-chatbot-arena)) - `ai/models`
-529. [Falcon Perception](../../ai/models/huggingface-blog-tiiuae-falcon-perception.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-perception)) - `ai/models`
-530. [Rearchitecting Hugging Face Uploads and Downloads](../../ai/models/huggingface-blog-rearchitecting-uploads-and-downloads.md) ([Source](https://huggingface.co/blog/rearchitecting-uploads-and-downloads)) - `ai/models`
-531. [Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face](../../ai/models/huggingface-blog-ryght-case-study.md) ([Source](https://huggingface.co/blog/ryght-case-study)) - `ai/models`
-532. [SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](../../ai/models/huggingface-blog-smolvla.md) ([Source](https://huggingface.co/blog/smolvla)) - `ai/models`
-533. [Migrating Your GitHub CI to Hugging Face Jobs](../../ai/models/huggingface-blog-github-ci-hf-jobs.md) ([Source](https://huggingface.co/blog/github-ci-hf-jobs)) - `ai/models`
-534. [PRX Part 3 — Training a Text-to-Image Model in 24h!](../../ai/models/huggingface-blog-photoroom-prx-part3.md) ([Source](https://huggingface.co/blog/photoroom/prx-part3)) - `ai/models`
-535. [From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease](../../ai/models/huggingface-blog-pytorch-ddp-accelerate-transformers.md) ([Source](https://huggingface.co/blog/pytorch-ddp-accelerate-transformers)) - `ai/models`
-536. [Get your VLM running in 3 simple steps on Intel CPUs](../../ai/models/huggingface-blog-openvino-vlm.md) ([Source](https://huggingface.co/blog/openvino-vlm)) - `ai/models`
-537. [Faster Text Generation with Self-Speculative Decoding](../../ai/models/huggingface-blog-layerskip.md) ([Source](https://huggingface.co/blog/layerskip)) - `ai/models`
-538. [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../../ai/models/huggingface-blog-setfit-absa.md) ([Source](https://huggingface.co/blog/setfit-absa)) - `ai/models`
-539. [Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](../../ai/models/huggingface-blog-tiiuae-emirati-benchmarks.md) ([Source](https://huggingface.co/blog/tiiuae/emirati-benchmarks)) - `ai/models`
-540. [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../../ai/models/huggingface-blog-transformersjs-v3.md) ([Source](https://huggingface.co/blog/transformersjs-v3)) - `ai/models`
-541. [Model Cards](../../ai/models/huggingface-blog-model-cards.md) ([Source](https://huggingface.co/blog/model-cards)) - `ai/models`
-542. [Memory-efficient Diffusion Transformers with Quanto and Diffusers](../../ai/models/huggingface-blog-quanto-diffusers.md) ([Source](https://huggingface.co/blog/quanto-diffusers)) - `ai/models`
-543. [AMD Pervasive AI Developer Contest!](../../ai/models/huggingface-blog-amd-pervasive-developer-ai-contest.md) ([Source](https://huggingface.co/blog/amd_pervasive_developer_ai_contest)) - `ai/models`
-544. [Simple considerations for simple people building fancy neural networks](../../ai/models/huggingface-blog-simple-considerations.md) ([Source](https://huggingface.co/blog/simple-considerations)) - `ai/models`
-545. [AI Watermarking 101: Tools and Techniques](../../ai/models/huggingface-blog-watermarking.md) ([Source](https://huggingface.co/blog/watermarking)) - `ai/models`
-546. [How to generate text: using different decoding methods for language generation with Transformers](../../ai/models/huggingface-blog-how-to-generate.md) ([Source](https://huggingface.co/blog/how-to-generate)) - `ai/models`
-547. [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](../../ai/models/huggingface-blog-waypoint-1-5.md) ([Source](https://huggingface.co/blog/waypoint-1-5)) - `ai/models`
-548. [Hugging Face on PyTorch / XLA TPUs](../../ai/models/huggingface-blog-pytorch-xla.md) ([Source](https://huggingface.co/blog/pytorch-xla)) - `ai/models`
-549. [Deploying the AI Comic Factory using the Inference API](../../ai/models/huggingface-blog-ai-comic-factory.md) ([Source](https://huggingface.co/blog/ai-comic-factory)) - `ai/models`
-550. [State of open video generation models in Diffusers](../../ai/models/huggingface-blog-video-gen.md) ([Source](https://huggingface.co/blog/video_gen)) - `ai/models`
-551. [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](../../ai/models/huggingface-blog-ai-mo-kimina-prover.md) ([Source](https://huggingface.co/blog/ai-mo/kimina-prover)) - `ai/models`
-552. [How to train a new language model from scratch using Transformers and Tokenizers](../../ai/models/huggingface-blog-how-to-train.md) ([Source](https://huggingface.co/blog/how-to-train)) - `ai/models`
-553. [OlmoEarth v1.1: A more efficient family of Earth observation models](../../ai/models/huggingface-blog-allenai-olmoearth-v1-1.md) ([Source](https://huggingface.co/blog/allenai/olmoearth-v1-1)) - `ai/models`
-554. [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](../../ai/models/huggingface-blog-ibm-granite-granite-4-vision.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-vision)) - `ai/models`
-555. [Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2](../../ai/models/huggingface-blog-bridgetower.md) ([Source](https://huggingface.co/blog/bridgetower)) - `ai/models`
-556. [Visible Watermarking with Gradio](../../ai/models/huggingface-blog-watermarking-with-gradio.md) ([Source](https://huggingface.co/blog/watermarking-with-gradio)) - `ai/models`
-557. [Docmatix - a huge dataset for Document Visual Question Answering](../../ai/models/huggingface-blog-docmatix.md) ([Source](https://huggingface.co/blog/docmatix)) - `ai/models`
-558. [Unlocking Longer Generation with Key-Value Cache Quantization](../../ai/models/huggingface-blog-kv-cache-quantization.md) ([Source](https://huggingface.co/blog/kv-cache-quantization)) - `ai/models`
-559. [Accelerate a World of LLMs on Hugging Face with NVIDIA NIM](../../ai/models/huggingface-blog-nvidia-multi-llm-nim.md) ([Source](https://huggingface.co/blog/nvidia/multi-llm-nim)) - `ai/models`
-560. [Director of Machine Learning Insights [Part 2: SaaS Edition]](../../ai/models/huggingface-blog-ml-director-insights-2.md) ([Source](https://huggingface.co/blog/ml-director-insights-2)) - `ai/models`
-561. [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](../../ai/models/huggingface-blog-servicenow-ai-aprielguard.md) ([Source](https://huggingface.co/blog/servicenow-ai/aprielguard)) - `ai/models`
-562. [Migrating the Hub from Git LFS to Xet](../../ai/models/huggingface-blog-migrating-the-hub-to-xet.md) ([Source](https://huggingface.co/blog/migrating-the-hub-to-xet)) - `ai/models`
-563. [Deep Learning over the Internet: Training Language Models Collaboratively](../../ai/models/huggingface-blog-collaborative-training.md) ([Source](https://huggingface.co/blog/collaborative-training)) - `ai/models`
-564. [Reachy Mini goes fully local](../../ai/models/huggingface-blog-local-reachy-mini-conversation.md) ([Source](https://huggingface.co/blog/local-reachy-mini-conversation)) - `ai/models`
-565. [Scaleway on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-scaleway.md) ([Source](https://huggingface.co/blog/inference-providers-scaleway)) - `ai/models`
-566. [Introducing our new pricing](../../ai/models/huggingface-blog-pricing-update.md) ([Source](https://huggingface.co/blog/pricing-update)) - `ai/models`
-567. [Welcome EmbeddingGemma, Google's new efficient embedding model](../../ai/models/huggingface-blog-embeddinggemma.md) ([Source](https://huggingface.co/blog/embeddinggemma)) - `ai/models`
-568. [Director of Machine Learning Insights [Part 4]](../../ai/models/huggingface-blog-ml-director-insights-4.md) ([Source](https://huggingface.co/blog/ml-director-insights-4)) - `ai/models`
-569. [Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community](../../ai/models/huggingface-blog-protectai.md) ([Source](https://huggingface.co/blog/protectai)) - `ai/models`
-570. [Kimina-Prover-RL](../../ai/models/huggingface-blog-ai-mo-kimina-prover-rl.md) ([Source](https://huggingface.co/blog/ai-mo/kimina-prover-rl)) - `ai/models`
-571. [On the Shifting Global Compute Landscape](../../ai/models/huggingface-blog-huggingface-shifting-compute-landscape.md) ([Source](https://huggingface.co/blog/huggingface/shifting-compute-landscape)) - `ai/models`
-572. [Course Launch Community Event](../../ai/models/huggingface-blog-course-launch-event.md) ([Source](https://huggingface.co/blog/course-launch-event)) - `ai/models`
-573. [A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality](../../ai/models/huggingface-blog-aya-expanse.md) ([Source](https://huggingface.co/blog/aya-expanse)) - `ai/models`
-574. [Hugging Face and FriendliAI partner to supercharge model deployment on the Hub](../../ai/models/huggingface-blog-friendliai-partnership.md) ([Source](https://huggingface.co/blog/friendliai-partnership)) - `ai/models`
-575. [Public Policy at Hugging Face](../../ai/models/huggingface-blog-policy-blog.md) ([Source](https://huggingface.co/blog/policy-blog)) - `ai/models`
-576. [MTEB: Massive Text Embedding Benchmark](../../ai/models/huggingface-blog-mteb.md) ([Source](https://huggingface.co/blog/mteb)) - `ai/models`
-577. [Google releases Gemma 2 2B, ShieldGemma and Gemma Scope](../../ai/models/huggingface-blog-gemma-july-update.md) ([Source](https://huggingface.co/blog/gemma-july-update)) - `ai/models`
-578. [Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action](../../ai/models/huggingface-blog-deploy-deepfloydif-using-bentoml.md) ([Source](https://huggingface.co/blog/deploy-deepfloydif-using-bentoml)) - `ai/models`
-579. [PipelineRL](../../ai/models/huggingface-blog-servicenow-pipelinerl.md) ([Source](https://huggingface.co/blog/servicenow/pipelinerl)) - `ai/models`
-580. [CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard](../../ai/models/huggingface-blog-leaderboard-emissions-analysis.md) ([Source](https://huggingface.co/blog/leaderboard-emissions-analysis)) - `ai/models`
-581. [mmBERT: ModernBERT goes Multilingual](../../ai/models/huggingface-blog-mmbert.md) ([Source](https://huggingface.co/blog/mmbert)) - `ai/models`
-582. [SegMoE: Segmind Mixture of Diffusion Experts](../../ai/models/huggingface-blog-segmoe.md) ([Source](https://huggingface.co/blog/segmoe)) - `ai/models`
-583. [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](../../ai/models/huggingface-blog-kernel-builder.md) ([Source](https://huggingface.co/blog/kernel-builder)) - `ai/models`
-584. [Boosting Wav2Vec2 with n-grams in 🤗 Transformers](../../ai/models/huggingface-blog-wav2vec2-with-ngram.md) ([Source](https://huggingface.co/blog/wav2vec2-with-ngram)) - `ai/models`
-585. [How to train a Language Model with Megatron-LM](../../ai/models/huggingface-blog-megatron-training.md) ([Source](https://huggingface.co/blog/megatron-training)) - `ai/models`
-586. [We got local models to triage the OpenClaw repo for FREE!*](../../ai/models/huggingface-blog-local-models-pr-triage.md) ([Source](https://huggingface.co/blog/local-models-pr-triage)) - `ai/models`
-587. [Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models](../../ai/models/huggingface-blog-databricks-case-study.md) ([Source](https://huggingface.co/blog/databricks-case-study)) - `ai/models`
-588. [Thinking of ACE? We Can Do It with Fewer Tokens](../../ai/models/huggingface-blog-ibm-research-altk-evolve-sldd.md) ([Source](https://huggingface.co/blog/ibm-research/altk-evolve-sldd)) - `ai/models`
-589. [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](../../ai/models/huggingface-blog-nxp-bringing-robotics-ai-to-embedded-platforms.md) ([Source](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms)) - `ai/models`
-590. [Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm](../../ai/models/huggingface-blog-nvidia-gr00t-n1-5-so101-tuning.md) ([Source](https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning)) - `ai/models`
-591. [Open-R1: Update #1](../../ai/models/huggingface-blog-open-r1-update-1.md) ([Source](https://huggingface.co/blog/open-r1/update-1)) - `ai/models`
-592. [Accelerate your models with 🤗 Optimum Intel and OpenVINO](../../ai/models/huggingface-blog-openvino.md) ([Source](https://huggingface.co/blog/openvino)) - `ai/models`
-593. [VibeGame: Exploring Vibe Coding Games](../../ai/models/huggingface-blog-vibegame.md) ([Source](https://huggingface.co/blog/vibegame)) - `ai/models`
-594. [How to Use Transformers.js in a Chrome Extension](../../ai/models/huggingface-blog-transformersjs-chrome-extension.md) ([Source](https://huggingface.co/blog/transformersjs-chrome-extension)) - `ai/models`
-595. [Introducing HELMET: Holistically Evaluating Long-context Language Models](../../ai/models/huggingface-blog-helmet.md) ([Source](https://huggingface.co/blog/helmet)) - `ai/models`
-596. [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](../../ai/models/huggingface-blog-liquidai-lfm2-5-vl-3b.md) ([Source](https://huggingface.co/blog/liquidai/lfm2-5-vl-3b)) - `ai/models`
-597. [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](../../ai/models/huggingface-blog-gradio-vton-mcp.md) ([Source](https://huggingface.co/blog/gradio-vton-mcp)) - `ai/models`
-598. [Announcing our new Content Guidelines and Policy](../../ai/models/huggingface-blog-content-guidelines-update.md) ([Source](https://huggingface.co/blog/content-guidelines-update)) - `ai/models`
-599. [Sentiment Analysis on Encrypted Data with Homomorphic Encryption](../../ai/models/huggingface-blog-sentiment-analysis-fhe.md) ([Source](https://huggingface.co/blog/sentiment-analysis-fhe)) - `ai/models`
-600. [A failed experiment: Infini-Attention, and why we should keep trying?](../../ai/models/huggingface-blog-infini-attention.md) ([Source](https://huggingface.co/blog/infini-attention)) - `ai/models`
-601. [Hugging Face partners with TruffleHog to Scan for Secrets](../../ai/models/huggingface-blog-trufflesecurity-partnership.md) ([Source](https://huggingface.co/blog/trufflesecurity-partnership)) - `ai/models`
-602. [Building the Hugging Face MCP Server](../../ai/models/huggingface-blog-building-hf-mcp.md) ([Source](https://huggingface.co/blog/building-hf-mcp)) - `ai/models`
-603. [Training Stable Diffusion with Dreambooth using Diffusers](../../ai/models/huggingface-blog-dreambooth.md) ([Source](https://huggingface.co/blog/dreambooth)) - `ai/models`
-604. [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](../../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-2.md) ([Source](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2)) - `ai/models`
-605. [Voice Cloning with Consent](../../ai/models/huggingface-blog-voice-consent-gate.md) ([Source](https://huggingface.co/blog/voice-consent-gate)) - `ai/models`
-606. [Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms](../../ai/models/huggingface-blog-huggingface-and-amd.md) ([Source](https://huggingface.co/blog/huggingface-and-amd)) - `ai/models`
-607. [Snorkel AI x Hugging Face: unlock foundation models for enterprises](../../ai/models/huggingface-blog-snorkel-case-study.md) ([Source](https://huggingface.co/blog/snorkel-case-study)) - `ai/models`
-608. [LoRA training scripts of the world, unite!](../../ai/models/huggingface-blog-sdxl-lora-advanced-script.md) ([Source](https://huggingface.co/blog/sdxl_lora_advanced_script)) - `ai/models`
-609. [Quanto: a PyTorch quantization backend for Optimum](../../ai/models/huggingface-blog-quanto-introduction.md) ([Source](https://huggingface.co/blog/quanto-introduction)) - `ai/models`
-610. [A Dive into Vision-Language Models](../../ai/models/huggingface-blog-vision-language-pretraining.md) ([Source](https://huggingface.co/blog/vision_language_pretraining)) - `ai/models`
-611. [StarCoder: A State-of-the-Art LLM for Code](../../ai/models/huggingface-blog-starcoder.md) ([Source](https://huggingface.co/blog/starcoder)) - `ai/models`
-612. [Faster Text Generation with TensorFlow and XLA](../../ai/models/huggingface-blog-tf-xla-generate.md) ([Source](https://huggingface.co/blog/tf-xla-generate)) - `ai/models`
-613. [Transformers.js v4: Now Available on NPM!](../../ai/models/huggingface-blog-transformersjs-v4.md) ([Source](https://huggingface.co/blog/transformersjs-v4)) - `ai/models`
-614. [Gradio 3.0 is Out!](../../ai/models/huggingface-blog-gradio-blocks.md) ([Source](https://huggingface.co/blog/gradio-blocks)) - `ai/models`
-615. [Comments on U.S. National AI Research Resource Interim Report](../../ai/models/huggingface-blog-us-national-ai-research-resource.md) ([Source](https://huggingface.co/blog/us-national-ai-research-resource)) - `ai/models`
-616. [Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding](../../ai/models/huggingface-blog-intel-starcoder-quantization.md) ([Source](https://huggingface.co/blog/intel-starcoder-quantization)) - `ai/models`
-617. [Illustrating Reinforcement Learning from Human Feedback (RLHF)](../../ai/models/huggingface-blog-rlhf.md) ([Source](https://huggingface.co/blog/rlhf)) - `ai/models`
-618. [Microsoft and Hugging Face expand collaboration](../../ai/models/huggingface-blog-azure-ai-foundry.md) ([Source](https://huggingface.co/blog/azure-ai-foundry)) - `ai/models`
-619. [3D Asset Generation: AI for Game Development #3](../../ai/models/huggingface-blog-ml-for-games-3.md) ([Source](https://huggingface.co/blog/ml-for-games-3)) - `ai/models`
-620. [Making LLMs lighter with AutoGPTQ and transformers](../../ai/models/huggingface-blog-gptq-integration.md) ([Source](https://huggingface.co/blog/gptq-integration)) - `ai/models`
-621. [Unlock the power of images with AI Sheets](../../ai/models/huggingface-blog-aisheets-unlock-images.md) ([Source](https://huggingface.co/blog/aisheets-unlock-images)) - `ai/models`
-622. [What's going on with the Open LLM Leaderboard?](../../ai/models/huggingface-blog-open-llm-leaderboard-mmlu.md) ([Source](https://huggingface.co/blog/open-llm-leaderboard-mmlu)) - `ai/models`
-623. [Welcome Llama 3 - Meta's new open LLM](../../ai/models/huggingface-blog-llama3.md) ([Source](https://huggingface.co/blog/llama3)) - `ai/models`
-624. [Visual Document Retrieval Goes Multilingual](../../ai/models/huggingface-blog-vdr-2b-multilingual.md) ([Source](https://huggingface.co/blog/vdr-2b-multilingual)) - `ai/models`
-625. [The Annotated Diffusion Model](../../ai/models/huggingface-blog-annotated-diffusion.md) ([Source](https://huggingface.co/blog/annotated-diffusion)) - `ai/models`
-626. [Non-engineers guide: Train a LLaMA 2 chatbot](../../ai/models/huggingface-blog-llama2-for-non-engineers.md) ([Source](https://huggingface.co/blog/llama2-for-non-engineers)) - `ai/models`
-627. [Introducing Idefics2: A Powerful 8B Vision-Language Model for the community](../../ai/models/huggingface-blog-idefics2.md) ([Source](https://huggingface.co/blog/idefics2)) - `ai/models`
-628. [Model Routing Is Simple. Until It Isn’t.](../../ai/models/huggingface-blog-ibm-research-model-routing-is-simple-until-it-isnt.md) ([Source](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt)) - `ai/models`
-629. [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](../../ai/models/huggingface-blog-1-58-llm-extreme-quantization.md) ([Source](https://huggingface.co/blog/1_58_llm_extreme_quantization)) - `ai/models`
-630. [How NuminaMath Won the 1st AIMO Progress Prize](../../ai/models/huggingface-blog-winning-aimo-progress-prize.md) ([Source](https://huggingface.co/blog/winning-aimo-progress-prize)) - `ai/models`
-631. [Introducing SynthID Text](../../ai/models/huggingface-blog-synthid-text.md) ([Source](https://huggingface.co/blog/synthid-text)) - `ai/models`
-632. [Easily Train Models with H100 GPUs on NVIDIA DGX Cloud](../../ai/models/huggingface-blog-train-dgx-cloud.md) ([Source](https://huggingface.co/blog/train-dgx-cloud)) - `ai/models`
-633. [🤗 PEFT welcomes new merging methods](../../ai/models/huggingface-blog-peft-merging.md) ([Source](https://huggingface.co/blog/peft_merging)) - `ai/models`
-634. [Improving Parquet Dedupe on Hugging Face Hub](../../ai/models/huggingface-blog-improve-parquet-dedupe.md) ([Source](https://huggingface.co/blog/improve_parquet_dedupe)) - `ai/models`
-635. [From OpenAI to Open LLMs with Messages API on Hugging Face](../../ai/models/huggingface-blog-tgi-messages-api.md) ([Source](https://huggingface.co/blog/tgi-messages-api)) - `ai/models`
-636. [Graph Classification with Transformers](../../ai/models/huggingface-blog-graphml-classification.md) ([Source](https://huggingface.co/blog/graphml-classification)) - `ai/models`
-637. [Timm ❤️ Transformers: Use any timm model with transformers](../../ai/models/huggingface-blog-timm-transformers.md) ([Source](https://huggingface.co/blog/timm-transformers)) - `ai/models`
-638. [One-Shot Any Web App with Gradio's gr.HTML](../../ai/models/huggingface-blog-gradio-html-one-shot-apps.md) ([Source](https://huggingface.co/blog/gradio-html-one-shot-apps)) - `ai/models`
-639. [Introducing Decision Transformers on Hugging Face 🤗](../../ai/models/huggingface-blog-decision-transformers.md) ([Source](https://huggingface.co/blog/decision-transformers)) - `ai/models`
-640. [Welcome Fireworks.ai on the Hub 🎆](../../ai/models/huggingface-blog-fireworks-ai.md) ([Source](https://huggingface.co/blog/fireworks-ai)) - `ai/models`
-641. [Safetensors is Joining the PyTorch Foundation](../../ai/models/huggingface-blog-safetensors-joins-pytorch-foundation.md) ([Source](https://huggingface.co/blog/safetensors-joins-pytorch-foundation)) - `ai/models`
-642. [Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings](../../ai/models/huggingface-blog-ethics-soc-5.md) ([Source](https://huggingface.co/blog/ethics-soc-5)) - `ai/models`
-643. [Ethical Guidelines for developing the Diffusers library](../../ai/models/huggingface-blog-ethics-diffusers.md) ([Source](https://huggingface.co/blog/ethics-diffusers)) - `ai/models`
-644. [Space secrets security update](../../ai/models/huggingface-blog-space-secrets-disclosure.md) ([Source](https://huggingface.co/blog/space-secrets-disclosure)) - `ai/models`
-645. [Build awesome datasets for video generation](../../ai/models/huggingface-blog-vid-ds-scripts.md) ([Source](https://huggingface.co/blog/vid_ds_scripts)) - `ai/models`
-646. [Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training](../../ai/models/huggingface-blog-accelerate-nd-parallel.md) ([Source](https://huggingface.co/blog/accelerate-nd-parallel)) - `ai/models`
-647. [Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models](../../ai/models/huggingface-blog-tiiuae-e2lm-competition.md) ([Source](https://huggingface.co/blog/tiiuae/e2lm-competition)) - `ai/models`
-648. [Speech Synthesis, Recognition, and More With SpeechT5](../../ai/models/huggingface-blog-speecht5.md) ([Source](https://huggingface.co/blog/speecht5)) - `ai/models`
-649. [Vision Language Models (Better, faster, stronger)](../../ai/models/huggingface-blog-vlms-2025.md) ([Source](https://huggingface.co/blog/vlms-2025)) - `ai/models`
-650. [How to deploy and fine-tune DeepSeek models on AWS](../../ai/models/huggingface-blog-deepseek-r1-aws.md) ([Source](https://huggingface.co/blog/deepseek-r1-aws)) - `ai/models`
-651. [Hugging Face and VirusTotal collaborate to strengthen AI security](../../ai/models/huggingface-blog-virustotal.md) ([Source](https://huggingface.co/blog/virustotal)) - `ai/models`
-652. [Introducing TextImage Augmentation for Document Images](../../ai/models/huggingface-blog-doc-aug-hf-alb.md) ([Source](https://huggingface.co/blog/doc_aug_hf_alb)) - `ai/models`
-653. [State of Open Source on Hugging Face: Spring 2026](../../ai/models/huggingface-blog-huggingface-state-of-os-hf-spring-2026.md) ([Source](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026)) - `ai/models`
-654. [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](../../ai/models/huggingface-blog-nvidia-accelerating-fine-tuning-nvidia-nemo-automodel.md) ([Source](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel)) - `ai/models`
-655. [Democratizing AI Safety with RiskRubric.ai](../../ai/models/huggingface-blog-riskrubric.md) ([Source](https://huggingface.co/blog/riskrubric)) - `ai/models`
-656. [Gradio is joining Hugging Face!](../../ai/models/huggingface-blog-gradio-joins-hf.md) ([Source](https://huggingface.co/blog/gradio-joins-hf)) - `ai/models`
-657. [Image search with 🤗 datasets](../../ai/models/huggingface-blog-image-search-datasets.md) ([Source](https://huggingface.co/blog/image-search-datasets)) - `ai/models`
-658. [Scaling up BERT-like model Inference on modern CPU - Part 2](../../ai/models/huggingface-blog-bert-cpu-scaling-part-2.md) ([Source](https://huggingface.co/blog/bert-cpu-scaling-part-2)) - `ai/models`
-659. [Optimizing your LLM in production](../../ai/models/huggingface-blog-optimize-llm.md) ([Source](https://huggingface.co/blog/optimize-llm)) - `ai/models`
-660. [Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models](../../ai/models/huggingface-blog-optimum-onnxruntime-training.md) ([Source](https://huggingface.co/blog/optimum-onnxruntime-training)) - `ai/models`
-661. [Introduction to Graph Machine Learning](../../ai/models/huggingface-blog-intro-graphml.md) ([Source](https://huggingface.co/blog/intro-graphml)) - `ai/models`
-662. [Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥](../../ai/models/huggingface-blog-inference-providers-nebius-novita-hyperbolic.md) ([Source](https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic)) - `ai/models`
-663. [Optimizing Bark using 🤗 Transformers](../../ai/models/huggingface-blog-optimizing-bark.md) ([Source](https://huggingface.co/blog/optimizing-bark)) - `ai/models`
-664. [Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method](../../ai/models/huggingface-blog-nystromformer.md) ([Source](https://huggingface.co/blog/nystromformer)) - `ai/models`
-665. [4M Models Scanned: Protect AI + Hugging Face 6 Months In](../../ai/models/huggingface-blog-pai-6-month.md) ([Source](https://huggingface.co/blog/pai-6-month)) - `ai/models`
-666. [Universal Image Segmentation with Mask2Former and OneFormer](../../ai/models/huggingface-blog-mask2former.md) ([Source](https://huggingface.co/blog/mask2former)) - `ai/models`
-667. [Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon](../../ai/models/huggingface-blog-setfit-optimum-intel.md) ([Source](https://huggingface.co/blog/setfit-optimum-intel)) - `ai/models`
-668. [Gradio-Lite: Serverless Gradio Running Entirely in Your Browser](../../ai/models/huggingface-blog-gradio-lite.md) ([Source](https://huggingface.co/blog/gradio-lite)) - `ai/models`
-669. [Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces](../../ai/models/huggingface-blog-community-datasets.md) ([Source](https://huggingface.co/blog/community-datasets)) - `ai/models`
-670. [PRX Part 4: Our Data Strategy](../../ai/models/huggingface-blog-photoroom-prx-part4-data.md) ([Source](https://huggingface.co/blog/photoroom/prx-part4-data)) - `ai/models`
-671. [Speculative Decoding for 2x Faster Whisper Inference](../../ai/models/huggingface-blog-whisper-speculative-decoding.md) ([Source](https://huggingface.co/blog/whisper-speculative-decoding)) - `ai/models`
-672. [We Got Claude to Fine-Tune an Open Source LLM](../../ai/models/huggingface-blog-hf-skills-training.md) ([Source](https://huggingface.co/blog/hf-skills-training)) - `ai/models`
-673. [Nemotron-Personas-India: Synthesized Data for Sovereign AI](../../ai/models/huggingface-blog-nvidia-nemotron-personas-india.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-personas-india)) - `ai/models`
-674. [Welcome PaliGemma 2 – New vision language models by Google](../../ai/models/huggingface-blog-paligemma2.md) ([Source](https://huggingface.co/blog/paligemma2)) - `ai/models`
-675. [Efficient Controllable Generation for SDXL with T2I-Adapters](../../ai/models/huggingface-blog-t2i-sdxl-adapters.md) ([Source](https://huggingface.co/blog/t2i-sdxl-adapters)) - `ai/models`
-676. [Federated Learning using Hugging Face and Flower](../../ai/models/huggingface-blog-fl-with-flower.md) ([Source](https://huggingface.co/blog/fl-with-flower)) - `ai/models`
-677. [Train 400x faster Static Embedding Models with Sentence Transformers](../../ai/models/huggingface-blog-static-embeddings.md) ([Source](https://huggingface.co/blog/static-embeddings)) - `ai/models`
-678. [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](../../ai/models/huggingface-blog-autoformer.md) ([Source](https://huggingface.co/blog/autoformer)) - `ai/models`
-679. [Open R1: Update #2](../../ai/models/huggingface-blog-open-r1-update-2.md) ([Source](https://huggingface.co/blog/open-r1/update-2)) - `ai/models`
-680. [Probabilistic Time Series Forecasting with 🤗 Transformers](../../ai/models/huggingface-blog-time-series-transformers.md) ([Source](https://huggingface.co/blog/time-series-transformers)) - `ai/models`
-681. [OVHcloud on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-ovhcloud-inference-providers-ovhcloud.md) ([Source](https://huggingface.co/blog/ovhcloud/inference-providers-ovhcloud)) - `ai/models`
-682. [Sentence Transformers in the Hugging Face Hub](../../ai/models/huggingface-blog-sentence-transformers-in-the-hub.md) ([Source](https://huggingface.co/blog/sentence-transformers-in-the-hub)) - `ai/models`
-683. [Fine-tune Any LLM from the Hugging Face Hub with Together AI](../../ai/models/huggingface-blog-togethercomputer-together-ft.md) ([Source](https://huggingface.co/blog/togethercomputer/together-ft)) - `ai/models`
-684. [Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo](../../ai/models/huggingface-blog-logits-processor-zoo.md) ([Source](https://huggingface.co/blog/logits-processor-zoo)) - `ai/models`
-685. [A Security Review of Gradio 5](../../ai/models/huggingface-blog-gradio-5-security.md) ([Source](https://huggingface.co/blog/gradio-5-security)) - `ai/models`
-686. [SmolVLM Grows Smaller – Introducing the 256M & 500M Models!](../../ai/models/huggingface-blog-smolervlm.md) ([Source](https://huggingface.co/blog/smolervlm)) - `ai/models`
-687. [Swift 🧨Diffusers - Fast Stable Diffusion for Mac](../../ai/models/huggingface-blog-fast-mac-diffusers.md) ([Source](https://huggingface.co/blog/fast-mac-diffusers)) - `ai/models`
-688. [Easily Build and Share ROCm Kernels with Hugging Face](../../ai/models/huggingface-blog-build-rocm-kernels.md) ([Source](https://huggingface.co/blog/build-rocm-kernels)) - `ai/models`
-689. [Run a Chatgpt-like Chatbot on a Single GPU with ROCm](../../ai/models/huggingface-blog-chatbot-amd-gpu.md) ([Source](https://huggingface.co/blog/chatbot-amd-gpu)) - `ai/models`
-690. [🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e](../../ai/models/huggingface-blog-sdxl-jax.md) ([Source](https://huggingface.co/blog/sdxl_jax)) - `ai/models`
-691. [Personal Copilot: Train Your Own Coding Assistant](../../ai/models/huggingface-blog-personal-copilot.md) ([Source](https://huggingface.co/blog/personal-copilot)) - `ai/models`
-692. [Accelerating PyTorch distributed fine-tuning with Intel technologies](../../ai/models/huggingface-blog-accelerating-pytorch.md) ([Source](https://huggingface.co/blog/accelerating-pytorch)) - `ai/models`
-693. [NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](../../ai/models/huggingface-blog-nvidia-multilingual-reasoning-v1.md) ([Source](https://huggingface.co/blog/nvidia/multilingual-reasoning-v1)) - `ai/models`
-694. [Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.](../../ai/models/huggingface-blog-tiiuae-falcon-edge.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-edge)) - `ai/models`
-695. [Japanese Stable Diffusion](../../ai/models/huggingface-blog-japanese-stable-diffusion.md) ([Source](https://huggingface.co/blog/japanese-stable-diffusion)) - `ai/models`
-696. [Train your first Decision Transformer](../../ai/models/huggingface-blog-train-decision-transformers.md) ([Source](https://huggingface.co/blog/train-decision-transformers)) - `ai/models`
-697. [Using Machine Learning to Aid Survivors and Race through Time](../../ai/models/huggingface-blog-using-ml-for-disasters.md) ([Source](https://huggingface.co/blog/using-ml-for-disasters)) - `ai/models`
-698. [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../../ai/models/huggingface-blog-peft.md) ([Source](https://huggingface.co/blog/peft)) - `ai/models`
-699. [Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](../../ai/models/huggingface-blog-websight.md) ([Source](https://huggingface.co/blog/websight)) - `ai/models`
-700. [Visual Salamandra: Pushing the Boundaries of Multimodal Understanding](../../ai/models/huggingface-blog-bsc-lt-visualsalamandra7b.md) ([Source](https://huggingface.co/blog/bsc-lt/visualsalamandra7b)) - `ai/models`
-701. [Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate](../../ai/models/huggingface-blog-bloom-inference-pytorch-scripts.md) ([Source](https://huggingface.co/blog/bloom-inference-pytorch-scripts)) - `ai/models`
-702. [Prefill and Decode for Concurrent Requests - Optimizing LLM Performance](../../ai/models/huggingface-blog-tngtech-llm-performance-prefill-decode-concurrent-requests.md) ([Source](https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests)) - `ai/models`
-703. [Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon](../../ai/models/huggingface-blog-generative-ai-models-on-intel-cpu.md) ([Source](https://huggingface.co/blog/generative-ai-models-on-intel-cpu)) - `ai/models`
-704. [Very Large Language Models and How to Evaluate Them](../../ai/models/huggingface-blog-zero-shot-eval-on-the-hub.md) ([Source](https://huggingface.co/blog/zero-shot-eval-on-the-hub)) - `ai/models`
-705. [A Short Summary of Chinese AI Global Expansion](../../ai/models/huggingface-blog-chinese-ai-expansion.md) ([Source](https://huggingface.co/blog/chinese-ai-expansion)) - `ai/models`
-706. [Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator](../../ai/models/huggingface-blog-textgen-pipe-gaudi.md) ([Source](https://huggingface.co/blog/textgen-pipe-gaudi)) - `ai/models`
-707. [Ethics and Society Newsletter #3: Ethical Openness at Hugging Face](../../ai/models/huggingface-blog-ethics-soc-3.md) ([Source](https://huggingface.co/blog/ethics-soc-3)) - `ai/models`
-708. [Introducing The World's Largest Open Multilingual Language Model: BLOOM](../../ai/models/huggingface-blog-bloom.md) ([Source](https://huggingface.co/blog/bloom)) - `ai/models`
-709. [TGI Multi-LoRA: Deploy Once, Serve 30 Models](../../ai/models/huggingface-blog-multi-lora-serving.md) ([Source](https://huggingface.co/blog/multi-lora-serving)) - `ai/models`
-710. [Introducing RWKV - An RNN with the advantages of a transformer](../../ai/models/huggingface-blog-rwkv.md) ([Source](https://huggingface.co/blog/rwkv)) - `ai/models`
-711. [Convert Transformers to ONNX with Hugging Face Optimum](../../ai/models/huggingface-blog-convert-transformers-to-onnx.md) ([Source](https://huggingface.co/blog/convert-transformers-to-onnx)) - `ai/models`
-712. [~Don't~ Repeat Yourself](../../ai/models/huggingface-blog-transformers-design-philosophy.md) ([Source](https://huggingface.co/blog/transformers-design-philosophy)) - `ai/models`
-713. [MCP for Research: How to Connect AI to Research Tools](../../ai/models/huggingface-blog-mcp-for-research.md) ([Source](https://huggingface.co/blog/mcp-for-research)) - `ai/models`
-714. [Scaling-up BERT Inference on CPU (Part 1)](../../ai/models/huggingface-blog-bert-cpu-scaling-part-1.md) ([Source](https://huggingface.co/blog/bert-cpu-scaling-part-1)) - `ai/models`
-715. [The PR you would have opened yourself](../../ai/models/huggingface-blog-transformers-to-mlx.md) ([Source](https://huggingface.co/blog/transformers-to-mlx)) - `ai/models`
-716. [2023, year of open LLMs](../../ai/models/huggingface-blog-2023-in-llms.md) ([Source](https://huggingface.co/blog/2023-in-llms)) - `ai/models`
-717. [Introducing 🤗 Accelerate](../../ai/models/huggingface-blog-accelerate-library.md) ([Source](https://huggingface.co/blog/accelerate-library)) - `ai/models`
-718. [The New and Fresh analytics in Inference Endpoints](../../ai/models/huggingface-blog-endpoint-analytics.md) ([Source](https://huggingface.co/blog/endpoint-analytics)) - `ai/models`
-719. [Machine Learning Experts - Sasha Luccioni](../../ai/models/huggingface-blog-sasha-luccioni-interview.md) ([Source](https://huggingface.co/blog/sasha-luccioni-interview)) - `ai/models`
-720. [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](../../ai/models/huggingface-blog-cerebras-gemma4-voice-ai.md) ([Source](https://huggingface.co/blog/cerebras-gemma4-voice-ai)) - `ai/models`
-721. [Making thousands of open LLMs bloom in the Vertex AI Model Garden](../../ai/models/huggingface-blog-google-cloud-model-garden.md) ([Source](https://huggingface.co/blog/google-cloud-model-garden)) - `ai/models`
-722. [Yay! Organizations can now publish blog Articles](../../ai/models/huggingface-blog-huggingface-blog-articles-for-orgs.md) ([Source](https://huggingface.co/blog/huggingface/blog-articles-for-orgs)) - `ai/models`
-723. [A Complete Guide to Audio Datasets](../../ai/models/huggingface-blog-audio-datasets.md) ([Source](https://huggingface.co/blog/audio-datasets)) - `ai/models`
-724. [Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model](../../ai/models/huggingface-blog-idefics.md) ([Source](https://huggingface.co/blog/idefics)) - `ai/models`
+81. [Meet HoloTab by HCompany. Your AI browser companion.](../../ai/models/huggingface-blog-hcompany-holotab.md) ([Source](https://huggingface.co/blog/hcompany/holotab)) - `ai/models`
+82. [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](../../ai/models/huggingface-blog-waypoint-1-5.md) ([Source](https://huggingface.co/blog/waypoint-1-5)) - `ai/models`
+83. [Multimodal Embedding & Reranker Models with Sentence Transformers](../../ai/models/huggingface-blog-multimodal-sentence-transformers.md) ([Source](https://huggingface.co/blog/multimodal-sentence-transformers)) - `ai/models`
+84. [Safetensors is Joining the PyTorch Foundation](../../ai/models/huggingface-blog-safetensors-joins-pytorch-foundation.md) ([Source](https://huggingface.co/blog/safetensors-joins-pytorch-foundation)) - `ai/models`
+85. [Welcome Gemma 4: Frontier multimodal intelligence on device](../../ai/models/huggingface-blog-gemma4.md) ([Source](https://huggingface.co/blog/gemma4)) - `ai/models`
+86. [Falcon Perception](../../ai/models/huggingface-blog-tiiuae-falcon-perception.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-perception)) - `ai/models`
+87. [Any Custom Frontend with Gradio's Backend](../../ai/models/huggingface-blog-introducing-gradio-server.md) ([Source](https://huggingface.co/blog/introducing-gradio-server)) - `ai/models`
+88. [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](../../ai/models/huggingface-blog-ibm-granite-granite-4-vision.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-vision)) - `ai/models`
+89. [Training mRNA Language Models Across 25 Species for $165](../../ai/models/huggingface-blog-openmed-training-mrna-models-25-species.md) ([Source](https://huggingface.co/blog/openmed/training-mrna-models-25-species)) - `ai/models`
+90. [TRL v1.0: Post-Training Library Built to Move with the Field](../../ai/models/huggingface-blog-trl-v1.md) ([Source](https://huggingface.co/blog/trl-v1)) - `ai/models`
+91. [Liberate your OpenClaw](../../ai/models/huggingface-blog-liberate-your-openclaw.md) ([Source](https://huggingface.co/blog/liberate-your-openclaw)) - `ai/models`
+92. [A New Framework for Evaluating Voice Agents (EVA)](../../ai/agents/huggingface-blog-servicenow-ai-eva.md) ([Source](https://huggingface.co/blog/servicenow-ai/eva)) - `ai/agents`
+93. [Build a Domain-Specific Embedding Model in Under a Day](../../ai/models/huggingface-blog-nvidia-domain-specific-embedding-finetune.md) ([Source](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)) - `ai/models`
+94. [State of Open Source on Hugging Face: Spring 2026](../../ai/models/huggingface-blog-huggingface-state-of-os-hf-spring-2026.md) ([Source](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026)) - `ai/models`
+95. [Holotron-12B - High Throughput Computer Use Agent](../../ai/agents/huggingface-blog-hcompany-holotron-12b.md) ([Source](https://huggingface.co/blog/hcompany/holotron-12b)) - `ai/agents`
+96. [Introducing Storage Buckets on the Hugging Face Hub](../../ai/rag/huggingface-blog-storage-buckets.md) ([Source](https://huggingface.co/blog/storage-buckets)) - `ai/rag`
+97. [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](../../ai/models/huggingface-blog-async-rl-training-landscape.md) ([Source](https://huggingface.co/blog/async-rl-training-landscape)) - `ai/models`
+98. [Ulysses Sequence Parallelism: Training with Million-Token Contexts](../../ai/models/huggingface-blog-ulysses-sp.md) ([Source](https://huggingface.co/blog/ulysses-sp)) - `ai/models`
+99. [LeRobot v0.5.0: Scaling Every Dimension](../../ai/models/huggingface-blog-lerobot-release-v050.md) ([Source](https://huggingface.co/blog/lerobot-release-v050)) - `ai/models`
+100. [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](../../ai/models/huggingface-blog-nxp-bringing-robotics-ai-to-embedded-platforms.md) ([Source](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms)) - `ai/models`
+101. [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](../../ai/models/huggingface-blog-modular-diffusers.md) ([Source](https://huggingface.co/blog/modular-diffusers)) - `ai/models`
+102. [PRX Part 3 — Training a Text-to-Image Model in 24h!](../../ai/models/huggingface-blog-photoroom-prx-part3.md) ([Source](https://huggingface.co/blog/photoroom/prx-part3)) - `ai/models`
+103. [Mixture of Experts (MoEs) in Transformers](../../ai/models/huggingface-blog-moe-transformers.md) ([Source](https://huggingface.co/blog/moe-transformers)) - `ai/models`
+104. [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](../../ai/models/huggingface-blog-ggml-joins-hf.md) ([Source](https://huggingface.co/blog/ggml-joins-hf)) - `ai/models`
+105. [Train AI models with Unsloth and Hugging Face Jobs for FREE](../../ai/models/huggingface-blog-unsloth-jobs.md) ([Source](https://huggingface.co/blog/unsloth-jobs)) - `ai/models`
+106. [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](../../ai/agents/huggingface-blog-ibm-research-itbenchandmast.md) ([Source](https://huggingface.co/blog/ibm-research/itbenchandmast)) - `ai/agents`
+107. [One-Shot Any Web App with Gradio's gr.HTML](../../ai/models/huggingface-blog-gradio-html-one-shot-apps.md) ([Source](https://huggingface.co/blog/gradio-html-one-shot-apps)) - `ai/models`
+108. [Custom Kernels for All from Codex and Claude](../../ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md) ([Source](https://huggingface.co/blog/custom-cuda-kernels-agent-skills)) - `ai/models`
+109. [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](../../ai/agents/huggingface-blog-openenv-turing.md) ([Source](https://huggingface.co/blog/openenv-turing)) - `ai/agents`
+110. [Transformers.js v4: Now Available on NPM!](../../ai/models/huggingface-blog-transformersjs-v4.md) ([Source](https://huggingface.co/blog/transformersjs-v4)) - `ai/models`
+111. [Introducing SyGra Studio](../../ai/models/huggingface-blog-servicenow-ai-sygra-studio.md) ([Source](https://huggingface.co/blog/servicenow-ai/sygra-studio)) - `ai/models`
+112. [Community Evals: Because we're done trusting black-box leaderboards over the community](../../ai/models/huggingface-blog-community-evals.md) ([Source](https://huggingface.co/blog/community-evals)) - `ai/models`
+113. [H Company's new Holo2 model takes the lead in UI Localization](../../ai/models/huggingface-blog-hcompany-introducing-holo2-235b-a22b.md) ([Source](https://huggingface.co/blog/hcompany/introducing-holo2-235b-a22b)) - `ai/models`
+114. [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](../../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-3.md) ([Source](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3)) - `ai/models`
+115. [Training Design for Text-to-Image Models: Lessons from Ablations](../../ai/models/huggingface-blog-photoroom-prx-part2.md) ([Source](https://huggingface.co/blog/photoroom/prx-part2)) - `ai/models`
+116. [Introducing Daggr: Chain apps programmatically, inspect visually](../../ai/models/huggingface-blog-daggr.md) ([Source](https://huggingface.co/blog/daggr)) - `ai/models`
+117. [We Got Claude to Build CUDA Kernels and teach open models!](../../ai/models/huggingface-blog-upskill.md) ([Source](https://huggingface.co/blog/upskill)) - `ai/models`
+118. [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](../../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-2.md) ([Source](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2)) - `ai/models`
+119. [Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](../../ai/models/huggingface-blog-tiiuae-emirati-benchmarks.md) ([Source](https://huggingface.co/blog/tiiuae/emirati-benchmarks)) - `ai/models`
+120. [Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective](../../ai/agents/huggingface-blog-linkedin-gpt-oss-agentic-rl.md) ([Source](https://huggingface.co/blog/linkedin/gpt-oss-agentic-rl)) - `ai/agents`
+121. [AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](../../ai/agents/huggingface-blog-ibm-research-assetopsbench-playground-on-hugging-face.md) ([Source](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face)) - `ai/agents`
+122. [One Year Since the “DeepSeek Moment”](../../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment.md) ([Source](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment)) - `ai/models`
+123. [Differential Transformer V2](../../ai/models/huggingface-blog-microsoft-diff-attn-v2.md) ([Source](https://huggingface.co/blog/microsoft/diff-attn-v2)) - `ai/models`
+124. [Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](../../ai/models/huggingface-blog-waypoint-1.md) ([Source](https://huggingface.co/blog/waypoint-1)) - `ai/models`
+125. [Open Responses: What you need to know](../../ai/models/huggingface-blog-open-responses.md) ([Source](https://huggingface.co/blog/open-responses)) - `ai/models`
+126. [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](../../ai/models/huggingface-blog-nvidia-nvidia-cosmos-reason-2-brings-advanced-reasoning.md) ([Source](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning)) - `ai/models`
+127. [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](../../ai/models/huggingface-blog-tiiuae-falcon-h1-arabic.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-h1-arabic)) - `ai/models`
+128. [NVIDIA brings agents to life with DGX Spark and Reachy Mini](../../ai/agents/huggingface-blog-nvidia-reachy-mini.md) ([Source](https://huggingface.co/blog/nvidia-reachy-mini)) - `ai/agents`
+129. [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](../../ai/models/huggingface-blog-servicenow-ai-aprielguard.md) ([Source](https://huggingface.co/blog/servicenow-ai/aprielguard)) - `ai/models`
+130. [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](../../ai/models/huggingface-blog-tokenizers.md) ([Source](https://huggingface.co/blog/tokenizers)) - `ai/models`
+131. [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](../../ai/models/huggingface-blog-nvidia-nemotron-3-nano-evaluation-recipe.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe)) - `ai/models`
+132. [CUGA on Hugging Face: Democratizing Configurable AI Agents](../../ai/agents/huggingface-blog-ibm-research-cuga-on-hugging-face.md) ([Source](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face)) - `ai/agents`
+133. [New in llama.cpp: Model Management](../../ai/models/huggingface-blog-ggml-org-model-management-in-llamacpp.md) ([Source](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp)) - `ai/models`
+134. [Codex is Open Sourcing AI models](../../ai/models/huggingface-blog-hf-skills-training-codex.md) ([Source](https://huggingface.co/blog/hf-skills-training-codex)) - `ai/models`
+135. [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](../../ai/models/huggingface-blog-swift-huggingface.md) ([Source](https://huggingface.co/blog/swift-huggingface)) - `ai/models`
+136. [DeepMath: A lightweight math reasoning Agent with smolagents](../../ai/agents/huggingface-blog-intel-deepmath.md) ([Source](https://huggingface.co/blog/intel-deepmath)) - `ai/agents`
+137. [We Got Claude to Fine-Tune an Open Source LLM](../../ai/models/huggingface-blog-hf-skills-training.md) ([Source](https://huggingface.co/blog/hf-skills-training)) - `ai/models`
+138. [Transformers v5: Simple model definitions powering the AI ecosystem](../../ai/models/huggingface-blog-transformers-v5.md) ([Source](https://huggingface.co/blog/transformers-v5)) - `ai/models`
+139. [Diffusers welcomes FLUX-2](../../ai/models/huggingface-blog-flux-2.md) ([Source](https://huggingface.co/blog/flux-2)) - `ai/models`
+140. [Continuous batching from first principles](../../ai/models/huggingface-blog-continuous-batching.md) ([Source](https://huggingface.co/blog/continuous_batching)) - `ai/models`
+141. [Building Deep Research: How we Achieved State of the Art](../../ai/models/huggingface-blog-tavily-tavily-deep-research.md) ([Source](https://huggingface.co/blog/tavily/tavily-deep-research)) - `ai/models`
+142. [OVHcloud on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-ovhcloud-inference-providers-ovhcloud.md) ([Source](https://huggingface.co/blog/ovhcloud/inference-providers-ovhcloud)) - `ai/models`
+143. [20x Faster TRL Fine-tuning with RapidFire AI](../../ai/models/huggingface-blog-rapidfireai.md) ([Source](https://huggingface.co/blog/rapidfireai)) - `ai/models`
+144. [Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](../../ai/models/huggingface-blog-open-asr-leaderboard.md) ([Source](https://huggingface.co/blog/open-asr-leaderboard)) - `ai/models`
+145. [Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](../../ai/models/huggingface-blog-anylanguagemodel.md) ([Source](https://huggingface.co/blog/anylanguagemodel)) - `ai/models`
+146. [Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models](../../ai/models/huggingface-blog-servicenow-ai-apriel-h1.md) ([Source](https://huggingface.co/blog/servicenow-ai/apriel-h1)) - `ai/models`
+147. [Easily Build and Share ROCm Kernels with Hugging Face](../../ai/models/huggingface-blog-build-rocm-kernels.md) ([Source](https://huggingface.co/blog/build-rocm-kernels)) - `ai/models`
+148. [Join the AMD Open Robotics Hackathon](../../ai/models/huggingface-blog-amd-openroboticshackathon.md) ([Source](https://huggingface.co/blog/amd/openroboticshackathon)) - `ai/models`
+149. [Building for an Open Future - our new partnership with Google Cloud](../../ai/models/huggingface-blog-google-cloud.md) ([Source](https://huggingface.co/blog/google-cloud)) - `ai/models`
+150. [Aligning to What? Rethinking Agent Generalization in MiniMax M2](../../ai/agents/huggingface-blog-minimax-ai-aligning-to-what.md) ([Source](https://huggingface.co/blog/minimax-ai/aligning-to-what)) - `ai/agents`
+151. [On the Shifting Global Compute Landscape](../../ai/models/huggingface-blog-huggingface-shifting-compute-landscape.md) ([Source](https://huggingface.co/blog/huggingface/shifting-compute-landscape)) - `ai/models`
+152. [Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](../../ai/models/huggingface-blog-lerobotxnvidia-healthcare.md) ([Source](https://huggingface.co/blog/lerobotxnvidia-healthcare)) - `ai/models`
+153. [How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](../../ai/models/huggingface-blog-nvidia-nvidia-isaac-for-healthcare.md) ([Source](https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare)) - `ai/models`
+154. [Granite 4.0 Nano: Just how small can you go?](../../ai/models/huggingface-blog-ibm-granite-granite-4-nano.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-nano)) - `ai/models`
+155. [Voice Cloning with Consent](../../ai/models/huggingface-blog-voice-consent-gate.md) ([Source](https://huggingface.co/blog/voice-consent-gate)) - `ai/models`
+156. [Streaming datasets: 100x More Efficient](../../ai/models/huggingface-blog-streaming-datasets.md) ([Source](https://huggingface.co/blog/streaming-datasets)) - `ai/models`
+157. [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](../../ai/models/huggingface-blog-huggingface-hub-v1.md) ([Source](https://huggingface.co/blog/huggingface-hub-v1)) - `ai/models`
+158. [LeRobot v0.4.0: Supercharging OSS Robot Learning](../../ai/models/huggingface-blog-lerobot-release-v040.md) ([Source](https://huggingface.co/blog/lerobot-release-v040)) - `ai/models`
+159. [Building the Open Agent Ecosystem Together: Introducing OpenEnv](../../ai/agents/huggingface-blog-openenv.md) ([Source](https://huggingface.co/blog/openenv)) - `ai/agents`
+160. [Hugging Face and VirusTotal collaborate to strengthen AI security](../../ai/models/huggingface-blog-virustotal.md) ([Source](https://huggingface.co/blog/virustotal)) - `ai/models`
+161. [Sentence Transformers is joining Hugging Face!](../../ai/models/huggingface-blog-sentence-transformers-joins-hf.md) ([Source](https://huggingface.co/blog/sentence-transformers-joins-hf)) - `ai/models`
+162. [Supercharge your OCR Pipelines with Open Models](../../ai/models/huggingface-blog-ocr-open-models.md) ([Source](https://huggingface.co/blog/ocr-open-models)) - `ai/models`
+163. [Unlock the power of images with AI Sheets](../../ai/models/huggingface-blog-aisheets-unlock-images.md) ([Source](https://huggingface.co/blog/aisheets-unlock-images)) - `ai/models`
+164. [AI for Food Allergies](../../ai/models/huggingface-blog-hugging-science-ai-for-food-allergies.md) ([Source](https://huggingface.co/blog/hugging-science/ai-for-food-allergies)) - `ai/models`
+165. [Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face](../../ai/models/huggingface-blog-gpt-oss-on-intel-xeon.md) ([Source](https://huggingface.co/blog/gpt-oss-on-intel-xeon)) - `ai/models`
+166. [Get your VLM running in 3 simple steps on Intel CPUs](../../ai/models/huggingface-blog-openvino-vlm.md) ([Source](https://huggingface.co/blog/openvino-vlm)) - `ai/models`
+167. [Nemotron-Personas-India: Synthesized Data for Sovereign AI](../../ai/models/huggingface-blog-nvidia-nemotron-personas-india.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-personas-india)) - `ai/models`
+168. [Arm will be @ PyTorch Conference, Join Us!](../../ai/models/huggingface-blog-arm-arm-at-pytorch-conference.md) ([Source](https://huggingface.co/blog/arm/arm-at-pytorch-conference)) - `ai/models`
+169. [BigCodeArena: Judging code generations end to end with code executions](../../ai/models/huggingface-blog-bigcode-arena.md) ([Source](https://huggingface.co/blog/bigcode/arena)) - `ai/models`
+170. [SOTA OCR with Core ML and dots.ocr](../../ai/models/huggingface-blog-dots-ocr-ne.md) ([Source](https://huggingface.co/blog/dots-ocr-ne)) - `ai/models`
+171. [Introducing RTEB: A New Standard for Retrieval Evaluation](../../ai/models/huggingface-blog-rteb.md) ([Source](https://huggingface.co/blog/rteb)) - `ai/models`
+172. [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](../../ai/agents/huggingface-blog-intel-qwen3-agent.md) ([Source](https://huggingface.co/blog/intel-qwen3-agent)) - `ai/agents`
+173. [VibeGame: Exploring Vibe Coding Games](../../ai/models/huggingface-blog-vibegame.md) ([Source](https://huggingface.co/blog/vibegame)) - `ai/models`
+174. [Nemotron-Personas-Japan: ソブリン AI のための合成データセット](../../ai/models/huggingface-blog-nvidia-nemotron-personas-japan-ja.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja)) - `ai/models`
+175. [Swift Transformers Reaches 1.0 – and Looks to the Future](../../ai/models/huggingface-blog-swift-transformers.md) ([Source](https://huggingface.co/blog/swift-transformers)) - `ai/models`
+176. [Smol2Operator: Post-Training GUI Agents for Computer Use](../../ai/agents/huggingface-blog-smol2operator.md) ([Source](https://huggingface.co/blog/smol2operator)) - `ai/agents`
+177. [SyGra: The One-Stop Framework for Building Data for LLMs and SLMs](../../ai/models/huggingface-blog-servicenow-ai-sygra-data-gen-framework.md) ([Source](https://huggingface.co/blog/servicenow-ai/sygra-data-gen-framework)) - `ai/models`
+178. [Gaia2 and ARE: Empowering the community to study agents](../../ai/agents/huggingface-blog-gaia2.md) ([Source](https://huggingface.co/blog/gaia2)) - `ai/agents`
+179. [Scaleway on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-scaleway.md) ([Source](https://huggingface.co/blog/inference-providers-scaleway)) - `ai/models`
+180. [Democratizing AI Safety with RiskRubric.ai](../../ai/models/huggingface-blog-riskrubric.md) ([Source](https://huggingface.co/blog/riskrubric)) - `ai/models`
+181. [Public AI on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-publicai.md) ([Source](https://huggingface.co/blog/inference-providers-publicai)) - `ai/models`
+182. [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](../../ai/models/huggingface-blog-lerobot-datasets-v3.md) ([Source](https://huggingface.co/blog/lerobot-datasets-v3)) - `ai/models`
+183. [Visible Watermarking with Gradio](../../ai/models/huggingface-blog-watermarking-with-gradio.md) ([Source](https://huggingface.co/blog/watermarking-with-gradio)) - `ai/models`
+184. [Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!](../../ai/models/huggingface-blog-writer-announcing-palmyra-mini.md) ([Source](https://huggingface.co/blog/writer/announcing-palmyra-mini)) - `ai/models`
+185. [Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](../../ai/models/huggingface-blog-faster-transformers.md) ([Source](https://huggingface.co/blog/faster-transformers)) - `ai/models`
+186. [Fine-tune Any LLM from the Hugging Face Hub with Together AI](../../ai/models/huggingface-blog-togethercomputer-together-ft.md) ([Source](https://huggingface.co/blog/togethercomputer/together-ft)) - `ai/models`
+187. [Jupyter Agents: training LLMs to reason with notebooks](../../ai/agents/huggingface-blog-jupyter-agent-2.md) ([Source](https://huggingface.co/blog/jupyter-agent-2)) - `ai/agents`
+188. [mmBERT: ModernBERT goes Multilingual](../../ai/models/huggingface-blog-mmbert.md) ([Source](https://huggingface.co/blog/mmbert)) - `ai/models`
+189. [Welcome EmbeddingGemma, Google's new efficient embedding model](../../ai/models/huggingface-blog-embeddinggemma.md) ([Source](https://huggingface.co/blog/embeddinggemma)) - `ai/models`
+190. [SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence](../../ai/models/huggingface-blog-sandboxaq-sair-data-accelerating-drug-discovery-with-ai.md) ([Source](https://huggingface.co/blog/sandboxaq/sair-data-accelerating-drug-discovery-with-ai)) - `ai/models`
+191. [Make your ZeroGPU Spaces go brrr with ahead-of-time compilation](../../ai/models/huggingface-blog-zerogpu-aoti.md) ([Source](https://huggingface.co/blog/zerogpu-aoti)) - `ai/models`
+192. [NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](../../ai/models/huggingface-blog-nvidia-multilingual-reasoning-v1.md) ([Source](https://huggingface.co/blog/nvidia/multilingual-reasoning-v1)) - `ai/models`
+193. [Generate Images with Claude and Hugging Face](../../ai/models/huggingface-blog-claude-and-mcp.md) ([Source](https://huggingface.co/blog/claude-and-mcp)) - `ai/models`
+194. [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](../../ai/models/huggingface-blog-kernel-builder.md) ([Source](https://huggingface.co/blog/kernel-builder)) - `ai/models`
+195. [MCP for Research: How to Connect AI to Research Tools](../../ai/models/huggingface-blog-mcp-for-research.md) ([Source](https://huggingface.co/blog/mcp-for-research)) - `ai/models`
+196. [Kimina-Prover-RL](../../ai/models/huggingface-blog-ai-mo-kimina-prover-rl.md) ([Source](https://huggingface.co/blog/ai-mo/kimina-prover-rl)) - `ai/models`
+197. [Arm & ExecuTorch 0.7: Bringing Generative AI to the masses](../../ai/models/huggingface-blog-arm-executorch-0-dot-7.md) ([Source](https://huggingface.co/blog/arm/executorch-0-dot-7)) - `ai/models`
+198. [Neural Super Sampling is here!](../../ai/models/huggingface-blog-arm-neural-super-sampling.md) ([Source](https://huggingface.co/blog/arm/neural-super-sampling)) - `ai/models`
+199. [TextQuests: How Good are LLMs at Text-Based Video Games?](../../ai/models/huggingface-blog-textquests.md) ([Source](https://huggingface.co/blog/textquests)) - `ai/models`
+200. [🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?](../../ai/models/huggingface-blog-filbench.md) ([Source](https://huggingface.co/blog/filbench)) - `ai/models`
+201. [Introducing AI Sheets: a tool to work with datasets using open AI models!](../../ai/models/huggingface-blog-aisheets.md) ([Source](https://huggingface.co/blog/aisheets)) - `ai/models`
+202. [Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training](../../ai/models/huggingface-blog-accelerate-nd-parallel.md) ([Source](https://huggingface.co/blog/accelerate-nd-parallel)) - `ai/models`
+203. [Vision Language Model Alignment in TRL ⚡️](../../ai/models/huggingface-blog-trl-vlm-alignment.md) ([Source](https://huggingface.co/blog/trl-vlm-alignment)) - `ai/models`
+204. [Welcome GPT OSS, the new open-source model family from OpenAI!](../../ai/models/huggingface-blog-welcome-openai-gpt-oss.md) ([Source](https://huggingface.co/blog/welcome-openai-gpt-oss)) - `ai/models`
+205. [Measuring Open-Source Llama Nemotron Models on DeepResearch Bench](../../ai/models/huggingface-blog-nvidia-ai-q-top-ranking-open-portable-deep-research-agent.md) ([Source](https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent)) - `ai/models`
+206. [📚 3LM: A Benchmark for Arabic LLMs in STEM and Code](../../ai/models/huggingface-blog-tiiuae-3lm-benchmark.md) ([Source](https://huggingface.co/blog/tiiuae/3lm-benchmark)) - `ai/models`
+207. [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](../../ai/models/huggingface-blog-gradio-vton-mcp.md) ([Source](https://huggingface.co/blog/gradio-vton-mcp)) - `ai/models`
+208. [Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face](../../ai/models/huggingface-blog-trackio.md) ([Source](https://huggingface.co/blog/trackio)) - `ai/models`
+209. [Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨](../../ai/models/huggingface-blog-hf-cli.md) ([Source](https://huggingface.co/blog/hf-cli)) - `ai/models`
+210. [Parquet Content-Defined Chunking](../../ai/rag/huggingface-blog-parquet-cdc.md) ([Source](https://huggingface.co/blog/parquet-cdc)) - `ai/rag`
+211. [TimeScope: How Long Can Your Video Large Multimodal Model Go?](../../ai/models/huggingface-blog-timescope-video-lmm-benchmark.md) ([Source](https://huggingface.co/blog/timescope-video-lmm-benchmark)) - `ai/models`
+212. [Fast LoRA inference for Flux with Diffusers and PEFT](../../ai/models/huggingface-blog-lora-fast.md) ([Source](https://huggingface.co/blog/lora-fast)) - `ai/models`
+213. [Accelerate a World of LLMs on Hugging Face with NVIDIA NIM](../../ai/models/huggingface-blog-nvidia-multi-llm-nim.md) ([Source](https://huggingface.co/blog/nvidia/multi-llm-nim)) - `ai/models`
+214. [Arc Virtual Cell Challenge: A Primer](../../ai/models/huggingface-blog-virtual-cell-challenge.md) ([Source](https://huggingface.co/blog/virtual-cell-challenge)) - `ai/models`
+215. [Consilium: When Multiple LLMs Collaborate](../../ai/models/huggingface-blog-consilium-multi-llm.md) ([Source](https://huggingface.co/blog/consilium-multi-llm)) - `ai/models`
+216. [Back to The Future: Evaluating AI Agents on Predicting Future Events](../../ai/agents/huggingface-blog-futurebench.md) ([Source](https://huggingface.co/blog/futurebench)) - `ai/agents`
+217. [Five Big Improvements to Gradio MCP Servers](../../ai/models/huggingface-blog-gradio-mcp-updates.md) ([Source](https://huggingface.co/blog/gradio-mcp-updates)) - `ai/models`
+218. [Ettin Suite: SoTA Paired Encoders and Decoders](../../ai/models/huggingface-blog-ettin.md) ([Source](https://huggingface.co/blog/ettin)) - `ai/models`
+219. [Migrating the Hub from Git LFS to Xet](../../ai/models/huggingface-blog-migrating-the-hub-to-xet.md) ([Source](https://huggingface.co/blog/migrating-the-hub-to-xet)) - `ai/models`
+220. [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](../../ai/models/huggingface-blog-ai-mo-kimina-prover.md) ([Source](https://huggingface.co/blog/ai-mo/kimina-prover)) - `ai/models`
+221. [Asynchronous Robot Inference: Decoupling Action Prediction and Execution](../../ai/models/huggingface-blog-async-robot-inference.md) ([Source](https://huggingface.co/blog/async-robot-inference)) - `ai/models`
+222. [ScreenEnv: Deploy your full stack Desktop Agent](../../ai/agents/huggingface-blog-screenenv.md) ([Source](https://huggingface.co/blog/screenenv)) - `ai/agents`
+223. [Building the Hugging Face MCP Server](../../ai/models/huggingface-blog-building-hf-mcp.md) ([Source](https://huggingface.co/blog/building-hf-mcp)) - `ai/models`
+224. [Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](../../ai/models/huggingface-blog-reachy-mini.md) ([Source](https://huggingface.co/blog/reachy-mini)) - `ai/models`
+225. [Creating custom kernels for the AMD MI300](../../ai/models/huggingface-blog-mi300kernels.md) ([Source](https://huggingface.co/blog/mi300kernels)) - `ai/models`
+226. [Upskill your LLMs With Gradio MCP Servers](../../ai/models/huggingface-blog-gradio-mcp-servers.md) ([Source](https://huggingface.co/blog/gradio-mcp-servers)) - `ai/models`
+227. [SmolLM3: smol, multilingual, long-context reasoner](../../ai/models/huggingface-blog-smollm3.md) ([Source](https://huggingface.co/blog/smollm3)) - `ai/models`
+228. [Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](../../ai/models/huggingface-blog-infrastructure-alerting.md) ([Source](https://huggingface.co/blog/infrastructure-alerting)) - `ai/models`
+229. [Efficient MultiModal Data Pipeline](../../ai/models/huggingface-blog-mmdp.md) ([Source](https://huggingface.co/blog/mmdp)) - `ai/models`
+230. [Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models](../../ai/models/huggingface-blog-tiiuae-e2lm-competition.md) ([Source](https://huggingface.co/blog/tiiuae/e2lm-competition)) - `ai/models`
+231. [Training and Finetuning Sparse Embedding Models with Sentence Transformers](../../ai/models/huggingface-blog-train-sparse-encoder.md) ([Source](https://huggingface.co/blog/train-sparse-encoder)) - `ai/models`
+232. [Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub](../../ai/models/huggingface-blog-nvidia-llama-nemotron-nano-vl.md) ([Source](https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl)) - `ai/models`
+233. [Gemma 3n fully available in the open-source ecosystem!](../../ai/models/huggingface-blog-gemma3n.md) ([Source](https://huggingface.co/blog/gemma3n)) - `ai/models`
+234. [Transformers backend integration in SGLang](../../ai/models/huggingface-blog-transformers-backend-sglang.md) ([Source](https://huggingface.co/blog/transformers-backend-sglang)) - `ai/models`
+235. [(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware](../../ai/models/huggingface-blog-flux-qlora.md) ([Source](https://huggingface.co/blog/flux-qlora)) - `ai/models`
+236. [Groq on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-groq.md) ([Source](https://huggingface.co/blog/inference-providers-groq)) - `ai/models`
+237. [How Long Prompts Block Other Requests - Optimizing LLM Performance](../../ai/models/huggingface-blog-tngtech-llm-performance-blocked-by-long-prompts.md) ([Source](https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts)) - `ai/models`
+238. [Learn the Hugging Face Kernel Hub in 5 Minutes](../../ai/models/huggingface-blog-hello-hf-kernels.md) ([Source](https://huggingface.co/blog/hello-hf-kernels)) - `ai/models`
+239. [Featherless AI on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-featherless.md) ([Source](https://huggingface.co/blog/inference-providers-featherless)) - `ai/models`
+240. [Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm](../../ai/models/huggingface-blog-nvidia-gr00t-n1-5-so101-tuning.md) ([Source](https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning)) - `ai/models`
+241. [Introducing Training Cluster as a Service - a new collaboration with NVIDIA](../../ai/models/huggingface-blog-nvidia-training-cluster.md) ([Source](https://huggingface.co/blog/nvidia-training-cluster)) - `ai/models`
+242. [ScreenSuite - The most comprehensive evaluation suite for GUI Agents!](../../ai/agents/huggingface-blog-screensuite.md) ([Source](https://huggingface.co/blog/screensuite)) - `ai/agents`
+243. [KV Cache from scratch in nanoVLM](../../ai/models/huggingface-blog-kv-cache.md) ([Source](https://huggingface.co/blog/kv-cache)) - `ai/models`
+244. [Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom](../../ai/models/huggingface-blog-arm-ai-sound-gen-on-arm.md) ([Source](https://huggingface.co/blog/arm/ai-sound-gen-on-arm)) - `ai/models`
+245. [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](../../ai/agents/huggingface-blog-hcompany-holo1.md) ([Source](https://huggingface.co/blog/hcompany/holo1)) - `ai/agents`
+246. [SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](../../ai/models/huggingface-blog-smolvla.md) ([Source](https://huggingface.co/blog/smolvla)) - `ai/models`
+247. [No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL](../../ai/models/huggingface-blog-vllm-colocate.md) ([Source](https://huggingface.co/blog/vllm-colocate)) - `ai/models`
+248. [CodeAgents + Structure: A Better Way to Execute Actions](../../ai/agents/huggingface-blog-structured-codeagent.md) ([Source](https://huggingface.co/blog/structured-codeagent)) - `ai/agents`
+249. [🐯 Liger GRPO meets TRL](../../ai/models/huggingface-blog-liger-grpo.md) ([Source](https://huggingface.co/blog/liger-grpo)) - `ai/models`
+250. [Dell Enterprise Hub is all you need to build AI on premises](../../ai/models/huggingface-blog-dell-ai-applications.md) ([Source](https://huggingface.co/blog/dell-ai-applications)) - `ai/models`
+251. [Tiny Agents in Python: a MCP-powered agent in ~70 lines of code](../../ai/agents/huggingface-blog-python-tiny-agents.md) ([Source](https://huggingface.co/blog/python-tiny-agents)) - `ai/agents`
+252. [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance](../../ai/models/huggingface-blog-tiiuae-falcon-h1.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-h1)) - `ai/models`
+253. [Falcon-Arabic: A Breakthrough in Arabic Language Models](../../ai/models/huggingface-blog-tiiuae-falcon-arabic.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-arabic)) - `ai/models`
+254. [Exploring Quantization Backends in Diffusers](../../ai/models/huggingface-blog-diffusers-quantization.md) ([Source](https://huggingface.co/blog/diffusers-quantization)) - `ai/models`
+255. [nanoVLM: The simplest repository to train your VLM in pure PyTorch](../../ai/models/huggingface-blog-nanovlm.md) ([Source](https://huggingface.co/blog/nanovlm)) - `ai/models`
+256. [Microsoft and Hugging Face expand collaboration](../../ai/models/huggingface-blog-azure-ai-foundry.md) ([Source](https://huggingface.co/blog/azure-ai-foundry)) - `ai/models`
+257. [Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.](../../ai/models/huggingface-blog-tiiuae-falcon-edge.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-edge)) - `ai/models`
+258. [The Transformers Library: standardizing model definitions](../../ai/models/huggingface-blog-transformers-model-definition.md) ([Source](https://huggingface.co/blog/transformers-model-definition)) - `ai/models`
+259. [Improving Hugging Face Model Access for Kaggle Users](../../ai/models/huggingface-blog-kaggle-integration.md) ([Source](https://huggingface.co/blog/kaggle-integration)) - `ai/models`
+260. [Blazingly fast whisper transcriptions with Inference Endpoints](../../ai/models/huggingface-blog-fast-whisper-endpoints.md) ([Source](https://huggingface.co/blog/fast-whisper-endpoints)) - `ai/models`
+261. [Vision Language Models (Better, faster, stronger)](../../ai/models/huggingface-blog-vlms-2025.md) ([Source](https://huggingface.co/blog/vlms-2025)) - `ai/models`
+262. [LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?](../../ai/models/huggingface-blog-lerobot-datasets.md) ([Source](https://huggingface.co/blog/lerobot-datasets)) - `ai/models`
+263. [How to Build an MCP Server with Gradio](../../ai/models/huggingface-blog-gradio-mcp.md) ([Source](https://huggingface.co/blog/gradio-mcp)) - `ai/models`
+264. [The 4 Things Qwen-3’s Chat Template Teaches Us](../../ai/models/huggingface-blog-qwen-3-chat-template-deep-dive.md) ([Source](https://huggingface.co/blog/qwen-3-chat-template-deep-dive)) - `ai/models`
+265. [Welcoming Llama Guard 4 on Hugging Face Hub](../../ai/models/huggingface-blog-llama-guard-4.md) ([Source](https://huggingface.co/blog/llama-guard-4)) - `ai/models`
+266. [Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs](../../ai/models/huggingface-blog-autoround.md) ([Source](https://huggingface.co/blog/autoround)) - `ai/models`
+267. [PipelineRL](../../ai/models/huggingface-blog-servicenow-pipelinerl.md) ([Source](https://huggingface.co/blog/servicenow/pipelinerl)) - `ai/models`
+268. [Tiny Agents: an MCP-powered agent in 50 lines of code](../../ai/agents/huggingface-blog-tiny-agents.md) ([Source](https://huggingface.co/blog/tiny-agents)) - `ai/agents`
+269. [Finetuning olmOCR to be a faithful OCR-Engine](../../ai/models/huggingface-blog-tngtech-finetuning-olmocr-to-be-a-faithful-ocr-engine.md) ([Source](https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine)) - `ai/models`
+270. [Prefill and Decode for Concurrent Requests - Optimizing LLM Performance](../../ai/models/huggingface-blog-tngtech-llm-performance-prefill-decode-concurrent-requests.md) ([Source](https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests)) - `ai/models`
+271. [17 Reasons Why Gradio Isn't Just Another UI Library](../../ai/models/huggingface-blog-why-gradio-stands-out.md) ([Source](https://huggingface.co/blog/why-gradio-stands-out)) - `ai/models`
+272. [Cohere on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-cohere.md) ([Source](https://huggingface.co/blog/inference-providers-cohere)) - `ai/models`
+273. [Introducing HELMET: Holistically Evaluating Long-context Language Models](../../ai/models/huggingface-blog-helmet.md) ([Source](https://huggingface.co/blog/helmet)) - `ai/models`
+274. [Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖](../../ai/models/huggingface-blog-hugging-face-pollen-robotics-acquisition.md) ([Source](https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition)) - `ai/models`
+275. [4M Models Scanned: Protect AI + Hugging Face 6 Months In](../../ai/models/huggingface-blog-pai-6-month.md) ([Source](https://huggingface.co/blog/pai-6-month)) - `ai/models`
+276. [Visual Salamandra: Pushing the Boundaries of Multimodal Understanding](../../ai/models/huggingface-blog-bsc-lt-visualsalamandra7b.md) ([Source](https://huggingface.co/blog/bsc-lt/visualsalamandra7b)) - `ai/models`
+277. [Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC](../../ai/models/huggingface-blog-fastrtc-cloudflare.md) ([Source](https://huggingface.co/blog/fastrtc-cloudflare)) - `ai/models`
+278. [Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More](../../ai/rag/huggingface-blog-leaderboard-3c3h-aragen-ifeval.md) ([Source](https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval)) - `ai/rag`
+279. [Welcome Llama 4 Maverick & Scout on Hugging Face](../../ai/models/huggingface-blog-llama4-release.md) ([Source](https://huggingface.co/blog/llama4-release)) - `ai/models`
+280. [Journey to 1 Million Gradio Users!](../../ai/models/huggingface-blog-gradio-1m.md) ([Source](https://huggingface.co/blog/gradio-1m)) - `ai/models`
+281. [The NLP Course is becoming the LLM Course](../../ai/models/huggingface-blog-llm-course.md) ([Source](https://huggingface.co/blog/llm-course)) - `ai/models`
+282. [Efficient Request Queueing – Optimizing LLM Performance](../../ai/models/huggingface-blog-tngtech-llm-performance-request-queueing.md) ([Source](https://huggingface.co/blog/tngtech/llm-performance-request-queueing)) - `ai/models`
+283. [How Hugging Face Scaled Secrets Management for AI Infrastructure](../../ai/models/huggingface-blog-scaling-secrets-management.md) ([Source](https://huggingface.co/blog/scaling-secrets-management)) - `ai/models`
+284. [🚀 Accelerating LLM Inference with TGI on Intel Gaudi](../../ai/models/huggingface-blog-intel-gaudi-backend-for-tgi.md) ([Source](https://huggingface.co/blog/intel-gaudi-backend-for-tgi)) - `ai/models`
+285. [Open R1: Update #4](../../ai/models/huggingface-blog-open-r1-update-4.md) ([Source](https://huggingface.co/blog/open-r1/update-4)) - `ai/models`
+286. [Training and Finetuning Reranker Models with Sentence Transformers](../../ai/models/huggingface-blog-train-reranker.md) ([Source](https://huggingface.co/blog/train-reranker)) - `ai/models`
+287. [Introducing Gradio's new Dataframe!](../../ai/models/huggingface-blog-gradio-dataframe-upgrade.md) ([Source](https://huggingface.co/blog/gradio-dataframe-upgrade)) - `ai/models`
+288. [The New and Fresh analytics in Inference Endpoints](../../ai/models/huggingface-blog-endpoint-analytics.md) ([Source](https://huggingface.co/blog/endpoint-analytics)) - `ai/models`
+289. [Open R1: How to use OlympicCoder locally for coding](../../ai/models/huggingface-blog-olympic-coder-lmstudio.md) ([Source](https://huggingface.co/blog/olympic-coder-lmstudio)) - `ai/models`
+290. [AI Policy @🤗: Response to the White House AI Action Plan RFI](../../ai/models/huggingface-blog-ai-action-wh-2025.md) ([Source](https://huggingface.co/blog/ai-action-wh-2025)) - `ai/models`
+291. [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](../../ai/models/huggingface-blog-nvidia-physical-ai.md) ([Source](https://huggingface.co/blog/nvidia-physical-ai)) - `ai/models`
+292. [Xet is on the Hub](../../ai/models/huggingface-blog-xet-on-the-hub.md) ([Source](https://huggingface.co/blog/xet-on-the-hub)) - `ai/models`
+293. [Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM](../../ai/models/huggingface-blog-gemma3.md) ([Source](https://huggingface.co/blog/gemma3)) - `ai/models`
+294. [Open R1: Update #3](../../ai/models/huggingface-blog-open-r1-update-3.md) ([Source](https://huggingface.co/blog/open-r1/update-3)) - `ai/models`
+295. [LeRobot goes to driving school: World’s largest open-source self-driving dataset](../../ai/models/huggingface-blog-lerobot-goes-to-driving-school.md) ([Source](https://huggingface.co/blog/lerobot-goes-to-driving-school)) - `ai/models`
+296. [LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](../../ai/models/huggingface-blog-llm-inference-on-edge.md) ([Source](https://huggingface.co/blog/llm-inference-on-edge)) - `ai/models`
+297. [Hugging Face and JFrog partner to make AI Security more transparent](../../ai/models/huggingface-blog-jfrog.md) ([Source](https://huggingface.co/blog/jfrog)) - `ai/models`
+298. [A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality](../../ai/models/huggingface-blog-aya-vision.md) ([Source](https://huggingface.co/blog/aya-vision)) - `ai/models`
+299. [Trace & Evaluate your Agent with Arize Phoenix](../../ai/agents/huggingface-blog-smolagents-phoenix.md) ([Source](https://huggingface.co/blog/smolagents-phoenix)) - `ai/agents`
+300. [HuggingFace, IISc partner to supercharge model building on India's diverse languages](../../ai/models/huggingface-blog-iisc-huggingface-collab.md) ([Source](https://huggingface.co/blog/iisc-huggingface-collab)) - `ai/models`
+301. [FastRTC: The Real-Time Communication Library for Python](../../ai/models/huggingface-blog-fastrtc.md) ([Source](https://huggingface.co/blog/fastrtc)) - `ai/models`
+302. [Remote VAEs for decoding with Inference Endpoints 🤗](../../ai/models/huggingface-blog-remote-vae.md) ([Source](https://huggingface.co/blog/remote_vae)) - `ai/models`
+303. [SigLIP 2: A better multilingual vision language encoder](../../ai/models/huggingface-blog-siglip2.md) ([Source](https://huggingface.co/blog/siglip2)) - `ai/models`
+304. [SmolVLM2: Bringing Video Understanding to Every Device](../../ai/models/huggingface-blog-smolvlm2.md) ([Source](https://huggingface.co/blog/smolvlm2)) - `ai/models`
+305. [PaliGemma 2 Mix - New Instruction Vision Language Models by Google](../../ai/models/huggingface-blog-paligemma2mix.md) ([Source](https://huggingface.co/blog/paligemma2mix)) - `ai/models`
+306. [Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥](../../ai/models/huggingface-blog-inference-providers-nebius-novita-hyperbolic.md) ([Source](https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic)) - `ai/models`
+307. [Welcome Fireworks.ai on the Hub 🎆](../../ai/models/huggingface-blog-fireworks-ai.md) ([Source](https://huggingface.co/blog/fireworks-ai)) - `ai/models`
+308. [Fixing Open LLM Leaderboard with Math-Verify](../../ai/models/huggingface-blog-math-verify-leaderboard.md) ([Source](https://huggingface.co/blog/math_verify_leaderboard)) - `ai/models`
+309. [1 Billion Classifications](../../ai/models/huggingface-blog-billion-classifications.md) ([Source](https://huggingface.co/blog/billion-classifications)) - `ai/models`
+310. [From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub](../../ai/models/huggingface-blog-from-chunks-to-blocks.md) ([Source](https://huggingface.co/blog/from-chunks-to-blocks)) - `ai/models`
+311. [Build awesome datasets for video generation](../../ai/models/huggingface-blog-vid-ds-scripts.md) ([Source](https://huggingface.co/blog/vid_ds_scripts)) - `ai/models`
+312. [Open R1: Update #2](../../ai/models/huggingface-blog-open-r1-update-2.md) ([Source](https://huggingface.co/blog/open-r1/update-2)) - `ai/models`
+313. [The Open Arabic LLM Leaderboard 2](../../ai/models/huggingface-blog-leaderboard-arabic-v2.md) ([Source](https://huggingface.co/blog/leaderboard-arabic-v2)) - `ai/models`
+314. [Open-source DeepResearch – Freeing our search agents](../../ai/agents/huggingface-blog-open-deep-research.md) ([Source](https://huggingface.co/blog/open-deep-research)) - `ai/agents`
+315. [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](../../ai/models/huggingface-blog-pi0.md) ([Source](https://huggingface.co/blog/pi0)) - `ai/models`
+316. [DABStep: Data Agent Benchmark for Multi-step Reasoning](../../ai/agents/huggingface-blog-dabstep.md) ([Source](https://huggingface.co/blog/dabstep)) - `ai/agents`
+317. [Open-R1: Update #1](../../ai/models/huggingface-blog-open-r1-update-1.md) ([Source](https://huggingface.co/blog/open-r1/update-1)) - `ai/models`
+318. [Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial](../../ai/models/huggingface-blog-open-r1-mini-r1-contdown-game.md) ([Source](https://huggingface.co/blog/open-r1/mini-r1-contdown-game)) - `ai/models`
+319. [The AI tools for Art Newsletter - Issue 1](../../ai/models/huggingface-blog-ai-art-newsletter-jan-25.md) ([Source](https://huggingface.co/blog/ai-art-newsletter-jan-25)) - `ai/models`
+320. [How to deploy and fine-tune DeepSeek models on AWS](../../ai/models/huggingface-blog-deepseek-r1-aws.md) ([Source](https://huggingface.co/blog/deepseek-r1-aws)) - `ai/models`
+321. [Welcome to Inference Providers on the Hub 🔥](../../ai/models/huggingface-blog-inference-providers.md) ([Source](https://huggingface.co/blog/inference-providers)) - `ai/models`
+322. [Open-R1: a fully open reproduction of DeepSeek-R1](../../ai/models/huggingface-blog-open-r1.md) ([Source](https://huggingface.co/blog/open-r1)) - `ai/models`
+323. [State of open video generation models in Diffusers](../../ai/models/huggingface-blog-video-gen.md) ([Source](https://huggingface.co/blog/video_gen)) - `ai/models`
+324. [We now support VLMs in smolagents!](../../ai/agents/huggingface-blog-smolagents-can-see.md) ([Source](https://huggingface.co/blog/smolagents-can-see)) - `ai/agents`
+325. [Mastering Long Contexts in LLMs with KVPress](../../ai/models/huggingface-blog-nvidia-kvpress.md) ([Source](https://huggingface.co/blog/nvidia/kvpress)) - `ai/models`
+326. [SmolVLM Grows Smaller – Introducing the 256M & 500M Models!](../../ai/models/huggingface-blog-smolervlm.md) ([Source](https://huggingface.co/blog/smolervlm)) - `ai/models`
+327. [Hugging Face and FriendliAI partner to supercharge model deployment on the Hub](../../ai/models/huggingface-blog-friendliai-partnership.md) ([Source](https://huggingface.co/blog/friendliai-partnership)) - `ai/models`
+328. [Yay! Organizations can now publish blog Articles](../../ai/models/huggingface-blog-huggingface-blog-articles-for-orgs.md) ([Source](https://huggingface.co/blog/huggingface/blog-articles-for-orgs)) - `ai/models`
+329. [Timm ❤️ Transformers: Use any timm model with transformers](../../ai/models/huggingface-blog-timm-transformers.md) ([Source](https://huggingface.co/blog/timm-transformers)) - `ai/models`
+330. [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../../ai/models/huggingface-blog-tgi-multi-backend.md) ([Source](https://huggingface.co/blog/tgi-multi-backend)) - `ai/models`
+331. [Train 400x faster Static Embedding Models with Sentence Transformers](../../ai/models/huggingface-blog-static-embeddings.md) ([Source](https://huggingface.co/blog/static-embeddings)) - `ai/models`
+332. [AI Agents Are Here. What Now?](../../ai/agents/huggingface-blog-ethics-soc-7.md) ([Source](https://huggingface.co/blog/ethics-soc-7)) - `ai/agents`
+333. [Visual Document Retrieval Goes Multilingual](../../ai/models/huggingface-blog-vdr-2b-multilingual.md) ([Source](https://huggingface.co/blog/vdr-2b-multilingual)) - `ai/models`
+334. [CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard](../../ai/models/huggingface-blog-leaderboard-emissions-analysis.md) ([Source](https://huggingface.co/blog/leaderboard-emissions-analysis)) - `ai/models`
+335. [Introducing smolagents: simple agents that write actions in code.](../../ai/agents/huggingface-blog-smolagents.md) ([Source](https://huggingface.co/blog/smolagents)) - `ai/agents`
+336. [Visualize and understand GPU memory in PyTorch](../../ai/models/huggingface-blog-train-memory.md) ([Source](https://huggingface.co/blog/train_memory)) - `ai/models`
+337. [Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo](../../ai/models/huggingface-blog-logits-processor-zoo.md) ([Source](https://huggingface.co/blog/logits-processor-zoo)) - `ai/models`
+338. [Evaluating Audio Reasoning with Big Bench Audio](../../ai/models/huggingface-blog-big-bench-audio-release.md) ([Source](https://huggingface.co/blog/big-bench-audio-release)) - `ai/models`
+339. [Finally, a Replacement for BERT: Introducing ModernBERT](../../ai/models/huggingface-blog-modernbert.md) ([Source](https://huggingface.co/blog/modernbert)) - `ai/models`
+340. [Bamba: Inference-Efficient Hybrid Mamba2 Model](../../ai/models/huggingface-blog-bamba.md) ([Source](https://huggingface.co/blog/bamba)) - `ai/models`
+341. [Welcome to the Falcon 3 Family of Open Models!](../../ai/models/huggingface-blog-falcon3.md) ([Source](https://huggingface.co/blog/falcon3)) - `ai/models`
+342. [Benchmarking Language Model Performance on 5th Gen Xeon at GCP](../../ai/models/huggingface-blog-intel-gcp-c4.md) ([Source](https://huggingface.co/blog/intel-gcp-c4)) - `ai/models`
+343. [Introducing the Synthetic Data Generator - Build Datasets with Natural Language](../../ai/models/huggingface-blog-synthetic-data-generator.md) ([Source](https://huggingface.co/blog/synthetic-data-generator)) - `ai/models`
+344. [LeMaterial: an open source initiative to accelerate materials discovery and research](../../ai/models/huggingface-blog-lematerial.md) ([Source](https://huggingface.co/blog/lematerial)) - `ai/models`
+345. [Hugging Face models in Amazon Bedrock](../../ai/models/huggingface-blog-bedrock-marketplace.md) ([Source](https://huggingface.co/blog/bedrock-marketplace)) - `ai/models`
+346. [Open Preference Dataset for Text-to-Image Generation by the 🤗 Community](../../ai/models/huggingface-blog-image-preferences.md) ([Source](https://huggingface.co/blog/image-preferences)) - `ai/models`
+347. [Welcome PaliGemma 2 – New vision language models by Google](../../ai/models/huggingface-blog-paligemma2.md) ([Source](https://huggingface.co/blog/paligemma2)) - `ai/models`
+348. [How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](../../ai/models/huggingface-blog-keras-chatbot-arena.md) ([Source](https://huggingface.co/blog/keras-chatbot-arena)) - `ai/models`
+349. [Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard](../../ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md) ([Source](https://huggingface.co/blog/leaderboard-3c3h-aragen)) - `ai/rag`
+350. [Investing in Performance: Fine-tune small models with LLM insights - a CFM case study](../../ai/models/huggingface-blog-cfm-case-study.md) ([Source](https://huggingface.co/blog/cfm-case-study)) - `ai/models`
+351. [Open Source Developers Guide to the EU AI Act](../../ai/models/huggingface-blog-eu-ai-act-for-oss-developers.md) ([Source](https://huggingface.co/blog/eu-ai-act-for-oss-developers)) - `ai/models`
+352. [Rearchitecting Hugging Face Uploads and Downloads](../../ai/models/huggingface-blog-rearchitecting-uploads-and-downloads.md) ([Source](https://huggingface.co/blog/rearchitecting-uploads-and-downloads)) - `ai/models`
+353. [SmolVLM - small yet mighty Vision Language Model](../../ai/models/huggingface-blog-smolvlm.md) ([Source](https://huggingface.co/blog/smolvlm)) - `ai/models`
+354. [You could have designed state of the art positional encoding](../../ai/models/huggingface-blog-designing-positional-encoding.md) ([Source](https://huggingface.co/blog/designing-positional-encoding)) - `ai/models`
+355. [Letting Large Models Debate: The First Multilingual LLM Debate Competition](../../ai/models/huggingface-blog-debate.md) ([Source](https://huggingface.co/blog/debate)) - `ai/models`
+356. [From Files to Chunks: Improving HF Storage Efficiency](../../ai/rag/huggingface-blog-from-files-to-chunks.md) ([Source](https://huggingface.co/blog/from-files-to-chunks)) - `ai/rag`
+357. [Faster Text Generation with Self-Speculative Decoding](../../ai/models/huggingface-blog-layerskip.md) ([Source](https://huggingface.co/blog/layerskip)) - `ai/models`
+358. [Introducing the Open Leaderboard for Japanese LLMs!](../../ai/models/huggingface-blog-leaderboard-japanese.md) ([Source](https://huggingface.co/blog/leaderboard-japanese)) - `ai/models`
+359. [Judge Arena: Benchmarking LLMs as Evaluators](../../ai/models/huggingface-blog-arena-atla.md) ([Source](https://huggingface.co/blog/arena-atla)) - `ai/models`
+360. [Share your open ML datasets on Hugging Face Hub!](../../ai/models/huggingface-blog-researcher-dataset-sharing.md) ([Source](https://huggingface.co/blog/researcher-dataset-sharing)) - `ai/models`
+361. [Hugging Face + PyCharm](../../ai/models/huggingface-blog-pycharm-integration.md) ([Source](https://huggingface.co/blog/pycharm-integration)) - `ai/models`
+362. [Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required](../../ai/models/huggingface-blog-argilla-ui-hub.md) ([Source](https://huggingface.co/blog/argilla-ui-hub)) - `ai/models`
+363. [Universal Assisted Generation: Faster Decoding with Any Assistant Model](../../ai/models/huggingface-blog-universal-assisted-generation.md) ([Source](https://huggingface.co/blog/universal_assisted_generation)) - `ai/models`
+364. [Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](../../ai/rag/huggingface-blog-digital-green-llm-judge.md) ([Source](https://huggingface.co/blog/digital-green-llm-judge)) - `ai/rag`
+365. [A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality](../../ai/models/huggingface-blog-aya-expanse.md) ([Source](https://huggingface.co/blog/aya-expanse)) - `ai/models`
+366. [Introducing SynthID Text](../../ai/models/huggingface-blog-synthid-text.md) ([Source](https://huggingface.co/blog/synthid-text)) - `ai/models`
+367. [Introducing HUGS - Scale your AI with Open Models](../../ai/models/huggingface-blog-hugs.md) ([Source](https://huggingface.co/blog/hugs)) - `ai/models`
+368. [CinePile 2.0 - making stronger datasets with adversarial refinement](../../ai/models/huggingface-blog-cinepile2.md) ([Source](https://huggingface.co/blog/cinepile2)) - `ai/models`
+369. [Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community](../../ai/models/huggingface-blog-protectai.md) ([Source](https://huggingface.co/blog/protectai)) - `ai/models`
+370. [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../../ai/models/huggingface-blog-transformersjs-v3.md) ([Source](https://huggingface.co/blog/transformersjs-v3)) - `ai/models`
+371. [Diffusers welcomes Stable Diffusion 3.5 Large](../../ai/models/huggingface-blog-sd3-5.md) ([Source](https://huggingface.co/blog/sd3-5)) - `ai/models`
+372. [Releasing Outlines-core 0.1.0: structured generation in Rust and Python](../../ai/models/huggingface-blog-outlines-core.md) ([Source](https://huggingface.co/blog/outlines-core)) - `ai/models`
+373. [Deploying Speech-to-Speech on Hugging Face](../../ai/models/huggingface-blog-s2s-endpoint.md) ([Source](https://huggingface.co/blog/s2s_endpoint)) - `ai/models`
+374. [“Llama 3.2 in Keras”](../../ai/models/huggingface-blog-keras-llama-32.md) ([Source](https://huggingface.co/blog/keras-llama-32)) - `ai/models`
+375. [Fixing Gradient Accumulation](../../ai/models/huggingface-blog-gradient-accumulation.md) ([Source](https://huggingface.co/blog/gradient_accumulation)) - `ai/models`
+376. [Introducing the AMD 5th Gen EPYC™ CPU](../../ai/models/huggingface-blog-huggingface-amd-turin.md) ([Source](https://huggingface.co/blog/huggingface-amd-turin)) - `ai/models`
+377. [A Security Review of Gradio 5](../../ai/models/huggingface-blog-gradio-5-security.md) ([Source](https://huggingface.co/blog/gradio-5-security)) - `ai/models`
+378. [Welcome, Gradio 5](../../ai/models/huggingface-blog-gradio-5.md) ([Source](https://huggingface.co/blog/gradio-5)) - `ai/models`
+379. [Scaling AI-based Data Processing with Hugging Face + Dask](../../ai/models/huggingface-blog-dask-scaling.md) ([Source](https://huggingface.co/blog/dask-scaling)) - `ai/models`
+380. [Faster Assisted Generation with Dynamic Speculation](../../ai/models/huggingface-blog-dynamic-speculation-lookahead.md) ([Source](https://huggingface.co/blog/dynamic_speculation_lookahead)) - `ai/models`
+381. [Improving Parquet Dedupe on Hugging Face Hub](../../ai/models/huggingface-blog-improve-parquet-dedupe.md) ([Source](https://huggingface.co/blog/improve_parquet_dedupe)) - `ai/models`
+382. [Introducing the Open FinLLM Leaderboard](../../ai/models/huggingface-blog-leaderboard-finbench.md) ([Source](https://huggingface.co/blog/leaderboard-finbench)) - `ai/models`
+383. [A Short Summary of Chinese AI Global Expansion](../../ai/models/huggingface-blog-chinese-ai-expansion.md) ([Source](https://huggingface.co/blog/chinese-ai-expansion)) - `ai/models`
+384. [🇨🇿 BenCzechMark - Can your LLM Understand Czech?](../../ai/models/huggingface-blog-benczechmark.md) ([Source](https://huggingface.co/blog/benczechmark)) - `ai/models`
+385. [Converting Vertex-Colored Meshes to Textured Meshes](../../ai/models/huggingface-blog-vertex-colored-to-textured-mesh.md) ([Source](https://huggingface.co/blog/vertex-colored-to-textured-mesh)) - `ai/models`
+386. [Llama can now see and run on your device - welcome Llama 3.2](../../ai/models/huggingface-blog-llama32.md) ([Source](https://huggingface.co/blog/llama32)) - `ai/models`
+387. [FineVideo: behind the scenes](../../ai/models/huggingface-blog-fine-video.md) ([Source](https://huggingface.co/blog/fine-video)) - `ai/models`
+388. [Exploring the Daily Papers Page on Hugging Face](../../ai/models/huggingface-blog-daily-papers.md) ([Source](https://huggingface.co/blog/daily-papers)) - `ai/models`
+389. [Optimize and deploy with Optimum-Intel and OpenVINO GenAI](../../ai/models/huggingface-blog-deploy-with-openvino.md) ([Source](https://huggingface.co/blog/deploy-with-openvino)) - `ai/models`
+390. [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](../../ai/models/huggingface-blog-1-58-llm-extreme-quantization.md) ([Source](https://huggingface.co/blog/1_58_llm_extreme_quantization)) - `ai/models`
+391. [Introducing the SQL Console on Datasets](../../ai/models/huggingface-blog-sql-console.md) ([Source](https://huggingface.co/blog/sql-console)) - `ai/models`
+392. [Introducing Community Tools on HuggingChat](../../ai/models/huggingface-blog-community-tools.md) ([Source](https://huggingface.co/blog/community-tools)) - `ai/models`
+393. [Accelerate 1.0.0](../../ai/models/huggingface-blog-accelerate-v1.md) ([Source](https://huggingface.co/blog/accelerate-v1)) - `ai/models`
+394. [Hugging Face partners with TruffleHog to Scan for Secrets](../../ai/models/huggingface-blog-trufflesecurity-partnership.md) ([Source](https://huggingface.co/blog/trufflesecurity-partnership)) - `ai/models`
+395. [Scaling robotics datasets with video encoding](../../ai/models/huggingface-blog-video-encoding.md) ([Source](https://huggingface.co/blog/video-encoding)) - `ai/models`
+396. [The 5 Most Under-Rated Tools on Hugging Face](../../ai/models/huggingface-blog-unsung-heroes.md) ([Source](https://huggingface.co/blog/unsung-heroes)) - `ai/models`
+397. [Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](../../ai/models/huggingface-blog-packing-with-fa2.md) ([Source](https://huggingface.co/blog/packing-with-fa2)) - `ai/models`
+398. [Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI](../../ai/models/huggingface-blog-llama31-on-vertex-ai.md) ([Source](https://huggingface.co/blog/llama31-on-vertex-ai)) - `ai/models`
+399. [A failed experiment: Infini-Attention, and why we should keep trying?](../../ai/models/huggingface-blog-infini-attention.md) ([Source](https://huggingface.co/blog/infini-attention)) - `ai/models`
+400. [Introduction to ggml](../../ai/models/huggingface-blog-introduction-to-ggml.md) ([Source](https://huggingface.co/blog/introduction-to-ggml)) - `ai/models`
+401. [Welcome Falcon Mamba: The first strong attention-free 7B model](../../ai/models/huggingface-blog-falconmamba.md) ([Source](https://huggingface.co/blog/falconmamba)) - `ai/models`
+402. [Tool Use, Unified](../../ai/models/huggingface-blog-unified-tool-use.md) ([Source](https://huggingface.co/blog/unified-tool-use)) - `ai/models`
+403. [XetHub is joining Hugging Face!](../../ai/models/huggingface-blog-xethub-joins-hf.md) ([Source](https://huggingface.co/blog/xethub-joins-hf)) - `ai/models`
+404. [2024 Security Feature Highlights](../../ai/models/huggingface-blog-2024-security-features.md) ([Source](https://huggingface.co/blog/2024-security-features)) - `ai/models`
+405. [Introducing TextImage Augmentation for Document Images](../../ai/models/huggingface-blog-doc-aug-hf-alb.md) ([Source](https://huggingface.co/blog/doc_aug_hf_alb)) - `ai/models`
+406. [Google releases Gemma 2 2B, ShieldGemma and Gemma Scope](../../ai/models/huggingface-blog-gemma-july-update.md) ([Source](https://huggingface.co/blog/gemma-july-update)) - `ai/models`
+407. [Memory-efficient Diffusion Transformers with Quanto and Diffusers](../../ai/models/huggingface-blog-quanto-diffusers.md) ([Source](https://huggingface.co/blog/quanto-diffusers)) - `ai/models`
+408. [Serverless Inference with Hugging Face and NVIDIA NIM](../../ai/models/huggingface-blog-inference-dgx-cloud.md) ([Source](https://huggingface.co/blog/inference-dgx-cloud)) - `ai/models`
+409. [LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](../../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md) ([Source](https://huggingface.co/blog/zero-shot-vqa-docmatix)) - `ai/models`
+410. [Llama 3.1 - 405B, 70B & 8B with multilinguality and long context](../../ai/models/huggingface-blog-llama31.md) ([Source](https://huggingface.co/blog/llama31)) - `ai/models`
+411. [WWDC 24: Running Mistral 7B with Core ML](../../ai/models/huggingface-blog-mistral-coreml.md) ([Source](https://huggingface.co/blog/mistral-coreml)) - `ai/models`
+412. [Docmatix - a huge dataset for Document Visual Question Answering](../../ai/models/huggingface-blog-docmatix.md) ([Source](https://huggingface.co/blog/docmatix)) - `ai/models`
+413. [TGI Multi-LoRA: Deploy Once, Serve 30 Models](../../ai/models/huggingface-blog-multi-lora-serving.md) ([Source](https://huggingface.co/blog/multi-lora-serving)) - `ai/models`
+414. [SmolLM - blazingly fast and remarkably powerful](../../ai/models/huggingface-blog-smollm.md) ([Source](https://huggingface.co/blog/smollm)) - `ai/models`
+415. [How we leveraged distilabel to create an Argilla 2.0 Chatbot](../../ai/rag/huggingface-blog-argilla-chatbot.md) ([Source](https://huggingface.co/blog/argilla-chatbot)) - `ai/rag`
+416. [How NuminaMath Won the 1st AIMO Progress Prize](../../ai/models/huggingface-blog-winning-aimo-progress-prize.md) ([Source](https://huggingface.co/blog/winning-aimo-progress-prize)) - `ai/models`
+417. [Announcing New Hugging Face and KerasHub integration](../../ai/models/huggingface-blog-keras-hub-integration.md) ([Source](https://huggingface.co/blog/keras-hub-integration)) - `ai/models`
+418. [Experimenting with Automatic PII Detection on the Hub using Presidio](../../ai/models/huggingface-blog-presidio-pii-detection.md) ([Source](https://huggingface.co/blog/presidio-pii-detection)) - `ai/models`
+419. [Preference Optimization for Vision Language Models](../../ai/models/huggingface-blog-dpo-vlm.md) ([Source](https://huggingface.co/blog/dpo_vlm)) - `ai/models`
+420. [Google Cloud TPUs made available to Hugging Face users](../../ai/models/huggingface-blog-tpu-inference-endpoints-spaces.md) ([Source](https://huggingface.co/blog/tpu-inference-endpoints-spaces)) - `ai/models`
+421. [Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution](../../ai/models/huggingface-blog-sovereign-data-solution-case-study.md) ([Source](https://huggingface.co/blog/sovereign-data-solution-case-study)) - `ai/models`
+422. [Announcing New Dataset Search Features](../../ai/models/huggingface-blog-datasets-filters.md) ([Source](https://huggingface.co/blog/datasets-filters)) - `ai/models`
+423. [Accelerating Protein Language Model ProtST on Intel Gaudi 2](../../ai/models/huggingface-blog-intel-protein-language-model-protst.md) ([Source](https://huggingface.co/blog/intel-protein-language-model-protst)) - `ai/models`
+424. [Our Transformers Code Agent beats the GAIA benchmark 🏅](../../ai/agents/huggingface-blog-beating-gaia.md) ([Source](https://huggingface.co/blog/beating-gaia)) - `ai/agents`
+425. [Welcome Gemma 2 - Google’s new open LLM](../../ai/models/huggingface-blog-gemma2.md) ([Source](https://huggingface.co/blog/gemma2)) - `ai/models`
+426. [XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face](../../ai/models/huggingface-blog-xlscout-case-study.md) ([Source](https://huggingface.co/blog/xlscout-case-study)) - `ai/models`
+427. [Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](../../ai/models/huggingface-blog-finetune-florence2.md) ([Source](https://huggingface.co/blog/finetune-florence2)) - `ai/models`
+428. [Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality](../../ai/models/huggingface-blog-ethics-soc-6.md) ([Source](https://huggingface.co/blog/ethics-soc-6)) - `ai/models`
+429. [Data Is Better Together: A Look Back and Forward](../../ai/models/huggingface-blog-dibt.md) ([Source](https://huggingface.co/blog/dibt)) - `ai/models`
+430. [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](../../ai/rag/huggingface-blog-prezi-case-study.md) ([Source](https://huggingface.co/blog/prezi-case-study)) - `ai/rag`
+431. [BigCodeBench: The Next Generation of HumanEval](../../ai/models/huggingface-blog-leaderboard-bigcodebench.md) ([Source](https://huggingface.co/blog/leaderboard-bigcodebench)) - `ai/models`
+432. [From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate](../../ai/models/huggingface-blog-deepspeed-to-fsdp-and-back.md) ([Source](https://huggingface.co/blog/deepspeed-to-fsdp-and-back)) - `ai/models`
+433. [Diffusers welcomes Stable Diffusion 3](../../ai/models/huggingface-blog-sd3.md) ([Source](https://huggingface.co/blog/sd3)) - `ai/models`
+434. [Putting RL back in RLHF](../../ai/models/huggingface-blog-putting-rl-back-in-rlhf-with-rloo.md) ([Source](https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo)) - `ai/models`
+435. [Making sense of this mess](../../ai/models/huggingface-blog-transformers-docs-redesign.md) ([Source](https://huggingface.co/blog/transformers-docs-redesign)) - `ai/models`
+436. [Introducing the Hugging Face Embedding Container for Amazon SageMaker](../../ai/models/huggingface-blog-sagemaker-huggingface-embedding.md) ([Source](https://huggingface.co/blog/sagemaker-huggingface-embedding)) - `ai/models`
+437. [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md) ([Source](https://huggingface.co/blog/leaderboard-artificial-analysis2)) - `ai/models`
+438. [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](../../ai/models/huggingface-blog-npc-gigax-cubzh.md) ([Source](https://huggingface.co/blog/npc-gigax-cubzh)) - `ai/models`
+439. [Faster assisted generation support for Intel Gaudi](../../ai/models/huggingface-blog-assisted-generation-support-gaudi.md) ([Source](https://huggingface.co/blog/assisted-generation-support-gaudi)) - `ai/models`
+440. [Space secrets security update](../../ai/models/huggingface-blog-space-secrets-disclosure.md) ([Source](https://huggingface.co/blog/space-secrets-disclosure)) - `ai/models`
+441. [Benchmarking Text Generation Inference](../../ai/models/huggingface-blog-tgi-benchmarking.md) ([Source](https://huggingface.co/blog/tgi-benchmarking)) - `ai/models`
+442. [Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages](../../ai/models/huggingface-blog-falcon2-11b.md) ([Source](https://huggingface.co/blog/falcon2-11b)) - `ai/models`
+443. [CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models](../../ai/models/huggingface-blog-leaderboard-llamaguard.md) ([Source](https://huggingface.co/blog/leaderboard-llamaguard)) - `ai/models`
+444. [Deploy models on AWS Inferentia2 from Hugging Face](../../ai/models/huggingface-blog-inferentia-inference-endpoints.md) ([Source](https://huggingface.co/blog/inferentia-inference-endpoints)) - `ai/models`
+445. [Introducing Spaces Dev Mode for a seamless developer experience](../../ai/models/huggingface-blog-spaces-dev-mode.md) ([Source](https://huggingface.co/blog/spaces-dev-mode)) - `ai/models`
+446. [Build AI on premise with Dell Enterprise Hub](../../ai/models/huggingface-blog-dell-enterprise-hub.md) ([Source](https://huggingface.co/blog/dell-enterprise-hub)) - `ai/models`
+447. [Hugging Face on AMD Instinct MI300 GPU](../../ai/models/huggingface-blog-huggingface-amd-mi300.md) ([Source](https://huggingface.co/blog/huggingface-amd-mi300)) - `ai/models`
+448. [From cloud to developers: Hugging Face and Microsoft Deepen Collaboration](../../ai/models/huggingface-blog-microsoft-collaboration.md) ([Source](https://huggingface.co/blog/microsoft-collaboration)) - `ai/models`
+449. [Unlocking Longer Generation with Key-Value Cache Quantization](../../ai/models/huggingface-blog-kv-cache-quantization.md) ([Source](https://huggingface.co/blog/kv-cache-quantization)) - `ai/models`
+450. [PaliGemma – Google's Cutting-Edge Open Vision Language Model](../../ai/models/huggingface-blog-paligemma.md) ([Source](https://huggingface.co/blog/paligemma)) - `ai/models`
+451. [Hugging Face x LangChain : A new partner package](../../ai/models/huggingface-blog-langchain.md) ([Source](https://huggingface.co/blog/langchain)) - `ai/models`
+452. [Introducing the Open Arabic LLM Leaderboard](../../ai/models/huggingface-blog-leaderboard-arabic.md) ([Source](https://huggingface.co/blog/leaderboard-arabic)) - `ai/models`
+453. [License to Call: Introducing Transformers Agents 2.0](../../ai/agents/huggingface-blog-agents.md) ([Source](https://huggingface.co/blog/agents)) - `ai/agents`
+454. [Subscribe to Enterprise Hub with your AWS Account](../../ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md) ([Source](https://huggingface.co/blog/enterprise-hub-aws-marketplace)) - `ai/models`
+455. [Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon](../../ai/rag/huggingface-blog-cost-efficient-rag-applications-with-intel.md) ([Source](https://huggingface.co/blog/cost-efficient-rag-applications-with-intel)) - `ai/rag`
+456. [Introducing the Open Leaderboard for Hebrew LLMs!](../../ai/models/huggingface-blog-leaderboard-hebrew.md) ([Source](https://huggingface.co/blog/leaderboard-hebrew)) - `ai/models`
+457. [Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face](../../ai/models/huggingface-blog-leaderboard-artificial-analysis.md) ([Source](https://huggingface.co/blog/leaderboard-artificial-analysis)) - `ai/models`
+458. [Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints](../../ai/models/huggingface-blog-asr-diarization.md) ([Source](https://huggingface.co/blog/asr-diarization)) - `ai/models`
+459. [Improving Prompt Consistency with Structured Generations](../../ai/models/huggingface-blog-evaluation-structured-outputs.md) ([Source](https://huggingface.co/blog/evaluation-structured-outputs)) - `ai/models`
+460. [StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation](../../ai/models/huggingface-blog-sc2-instruct.md) ([Source](https://huggingface.co/blog/sc2-instruct)) - `ai/models`
+461. [Introducing the Open Chain of Thought Leaderboard](../../ai/models/huggingface-blog-leaderboard-cot.md) ([Source](https://huggingface.co/blog/leaderboard-cot)) - `ai/models`
+462. [Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent](../../ai/agents/huggingface-blog-jat.md) ([Source](https://huggingface.co/blog/jat)) - `ai/agents`
+463. [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](../../ai/models/huggingface-blog-leaderboard-medicalllm.md) ([Source](https://huggingface.co/blog/leaderboard-medicalllm)) - `ai/models`
+464. [Welcome Llama 3 - Meta's new open LLM](../../ai/models/huggingface-blog-llama3.md) ([Source](https://huggingface.co/blog/llama3)) - `ai/models`
+465. [AI Apps in a Flash with Gradio's Reload Mode](../../ai/models/huggingface-blog-gradio-reload.md) ([Source](https://huggingface.co/blog/gradio-reload)) - `ai/models`
+466. [Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs](../../ai/models/huggingface-blog-leaderboard-livecodebench.md) ([Source](https://huggingface.co/blog/leaderboard-livecodebench)) - `ai/models`
+467. [Running Privacy-Preserving Inferences on Hugging Face Endpoints](../../ai/models/huggingface-blog-fhe-endpoints.md) ([Source](https://huggingface.co/blog/fhe-endpoints)) - `ai/models`
+468. [Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face](../../ai/models/huggingface-blog-ryght-case-study.md) ([Source](https://huggingface.co/blog/ryght-case-study)) - `ai/models`
+469. [Introducing Idefics2: A Powerful 8B Vision-Language Model for the community](../../ai/models/huggingface-blog-idefics2.md) ([Source](https://huggingface.co/blog/idefics2)) - `ai/models`
+470. [Vision Language Models Explained](../../ai/models/huggingface-blog-vlms.md) ([Source](https://huggingface.co/blog/vlms)) - `ai/models`
+471. [Making thousands of open LLMs bloom in the Vertex AI Model Garden](../../ai/models/huggingface-blog-google-cloud-model-garden.md) ([Source](https://huggingface.co/blog/google-cloud-model-garden)) - `ai/models`
+472. [CodeGemma - an official Google release for code LLMs](../../ai/models/huggingface-blog-codegemma.md) ([Source](https://huggingface.co/blog/codegemma)) - `ai/models`
+473. [Public Policy at Hugging Face](../../ai/models/huggingface-blog-policy-blog.md) ([Source](https://huggingface.co/blog/policy-blog)) - `ai/models`
+474. [Hugging Face partners with Wiz Research to Improve AI Security](../../ai/models/huggingface-blog-hugging-face-wiz-security-blog.md) ([Source](https://huggingface.co/blog/hugging-face-wiz-security-blog)) - `ai/models`
+475. [Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B](../../ai/models/huggingface-blog-duckdb-nsql-7b.md) ([Source](https://huggingface.co/blog/duckdb-nsql-7b)) - `ai/models`
+476. [Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon](../../ai/models/huggingface-blog-setfit-optimum-intel.md) ([Source](https://huggingface.co/blog/setfit-optimum-intel)) - `ai/models`
+477. [Bringing serverless GPU inference to Hugging Face users](../../ai/models/huggingface-blog-cloudflare-workers-ai.md) ([Source](https://huggingface.co/blog/cloudflare-workers-ai)) - `ai/models`
+478. [Pollen-Vision: Unified interface for Zero-Shot vision models in robotics](../../ai/models/huggingface-blog-pollen-vision.md) ([Source](https://huggingface.co/blog/pollen-vision)) - `ai/models`
+479. [Total noob’s intro to Hugging Face Transformers](../../ai/models/huggingface-blog-noob-intro-transformers.md) ([Source](https://huggingface.co/blog/noob_intro_transformers)) - `ai/models`
+480. [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](../../ai/models/huggingface-blog-embedding-quantization.md) ([Source](https://huggingface.co/blog/embedding-quantization)) - `ai/models`
+481. [Introducing the Chatbot Guardrails Arena](../../ai/models/huggingface-blog-arena-lighthouz.md) ([Source](https://huggingface.co/blog/arena-lighthouz)) - `ai/models`
+482. [A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake](../../ai/models/huggingface-blog-phi2-intel-meteor-lake.md) ([Source](https://huggingface.co/blog/phi2-intel-meteor-lake)) - `ai/models`
+483. [Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](../../ai/models/huggingface-blog-cosmopedia.md) ([Source](https://huggingface.co/blog/cosmopedia)) - `ai/models`
+484. [GaLore: Advancing Large Model Training on Consumer-grade Hardware](../../ai/models/huggingface-blog-galore.md) ([Source](https://huggingface.co/blog/galore)) - `ai/models`
+485. [Easily Train Models with H100 GPUs on NVIDIA DGX Cloud](../../ai/models/huggingface-blog-train-dgx-cloud.md) ([Source](https://huggingface.co/blog/train-dgx-cloud)) - `ai/models`
+486. [Quanto: a PyTorch quantization backend for Optimum](../../ai/models/huggingface-blog-quanto-introduction.md) ([Source](https://huggingface.co/blog/quanto-introduction)) - `ai/models`
+487. [CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG](../../ai/rag/huggingface-blog-intel-fast-embedding.md) ([Source](https://huggingface.co/blog/intel-fast-embedding)) - `ai/rag`
+488. [Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](../../ai/models/huggingface-blog-websight.md) ([Source](https://huggingface.co/blog/websight)) - `ai/models`
+489. [Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?](../../ai/models/huggingface-blog-leaderboard-contextual.md) ([Source](https://huggingface.co/blog/leaderboard-contextual)) - `ai/models`
+490. [Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces](../../ai/models/huggingface-blog-community-datasets.md) ([Source](https://huggingface.co/blog/community-datasets)) - `ai/models`
+491. [Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator](../../ai/models/huggingface-blog-textgen-pipe-gaudi.md) ([Source](https://huggingface.co/blog/textgen-pipe-gaudi)) - `ai/models`
+492. [StarCoder2 and The Stack v2](../../ai/models/huggingface-blog-starcoder2.md) ([Source](https://huggingface.co/blog/starcoder2)) - `ai/models`
+493. [TTS Arena: Benchmarking Text-to-Speech Models in the Wild](../../ai/models/huggingface-blog-arena-tts.md) ([Source](https://huggingface.co/blog/arena-tts)) - `ai/models`
+494. [AI Watermarking 101: Tools and Techniques](../../ai/models/huggingface-blog-watermarking.md) ([Source](https://huggingface.co/blog/watermarking)) - `ai/models`
+495. [Fine-Tuning Gemma Models in Hugging Face](../../ai/models/huggingface-blog-gemma-peft.md) ([Source](https://huggingface.co/blog/gemma-peft)) - `ai/models`
+496. [Introducing the Red-Teaming Resistance Leaderboard](../../ai/models/huggingface-blog-leaderboard-haizelab.md) ([Source](https://huggingface.co/blog/leaderboard-haizelab)) - `ai/models`
+497. [🪆 Introduction to Matryoshka Embedding Models](../../ai/models/huggingface-blog-matryoshka.md) ([Source](https://huggingface.co/blog/matryoshka)) - `ai/models`
+498. [Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem](../../ai/models/huggingface-blog-leaderboard-upstage.md) ([Source](https://huggingface.co/blog/leaderboard-upstage)) - `ai/models`
+499. [🤗 PEFT welcomes new merging methods](../../ai/models/huggingface-blog-peft-merging.md) ([Source](https://huggingface.co/blog/peft_merging)) - `ai/models`
+500. [Synthetic data: save money, time and carbon with open source](../../ai/models/huggingface-blog-synthetic-data-save-costs.md) ([Source](https://huggingface.co/blog/synthetic-data-save-costs)) - `ai/models`
+501. [AMD Pervasive AI Developer Contest!](../../ai/models/huggingface-blog-amd-pervasive-developer-ai-contest.md) ([Source](https://huggingface.co/blog/amd_pervasive_developer_ai_contest)) - `ai/models`
+502. [From OpenAI to Open LLMs with Messages API on Hugging Face](../../ai/models/huggingface-blog-tgi-messages-api.md) ([Source](https://huggingface.co/blog/tgi-messages-api)) - `ai/models`
+503. [SegMoE: Segmind Mixture of Diffusion Experts](../../ai/models/huggingface-blog-segmoe.md) ([Source](https://huggingface.co/blog/segmoe)) - `ai/models`
+504. [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../../ai/models/huggingface-blog-leaderboard-nphardeval.md) ([Source](https://huggingface.co/blog/leaderboard-nphardeval)) - `ai/models`
+505. [Constitutional AI with Open LLMs](../../ai/models/huggingface-blog-constitutional-ai.md) ([Source](https://huggingface.co/blog/constitutional_ai)) - `ai/models`
+506. [Hugging Face Text Generation Inference available for AWS Inferentia2](../../ai/models/huggingface-blog-text-generation-inference-on-inferentia2.md) ([Source](https://huggingface.co/blog/text-generation-inference-on-inferentia2)) - `ai/models`
+507. [Patch Time Series Transformer in Hugging Face](../../ai/models/huggingface-blog-patchtst.md) ([Source](https://huggingface.co/blog/patchtst)) - `ai/models`
+508. [Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases](../../ai/models/huggingface-blog-leaderboard-patronus.md) ([Source](https://huggingface.co/blog/leaderboard-patronus)) - `ai/models`
+509. [Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding](../../ai/models/huggingface-blog-intel-starcoder-quantization.md) ([Source](https://huggingface.co/blog/intel-starcoder-quantization)) - `ai/models`
+510. [The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](../../ai/models/huggingface-blog-leaderboard-hallucinations.md) ([Source](https://huggingface.co/blog/leaderboard-hallucinations)) - `ai/models`
+511. [An Introduction to AI Secure LLM Safety Leaderboard](../../ai/models/huggingface-blog-leaderboard-decodingtrust.md) ([Source](https://huggingface.co/blog/leaderboard-decodingtrust)) - `ai/models`
+512. [Hugging Face and Google partner for open AI collaboration](../../ai/models/huggingface-blog-gcp-partnership.md) ([Source](https://huggingface.co/blog/gcp-partnership)) - `ai/models`
+513. [Open-source LLMs as LangChain Agents](../../ai/agents/huggingface-blog-open-source-llms-as-agents.md) ([Source](https://huggingface.co/blog/open-source-llms-as-agents)) - `ai/agents`
+514. [Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-w2v2-bert.md) ([Source](https://huggingface.co/blog/fine-tune-w2v2-bert)) - `ai/models`
+515. [PatchTSMixer in HuggingFace](../../ai/models/huggingface-blog-patchtsmixer.md) ([Source](https://huggingface.co/blog/patchtsmixer)) - `ai/models`
+516. [Preference Tuning LLMs with Direct Preference Optimization Methods](../../ai/models/huggingface-blog-pref-tuning.md) ([Source](https://huggingface.co/blog/pref-tuning)) - `ai/models`
+517. [Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive](../../ai/models/huggingface-blog-sdxl-ort-inference.md) ([Source](https://huggingface.co/blog/sdxl_ort_inference)) - `ai/models`
+518. [Run ComfyUI workflows for free with Gradio on Hugging Face Spaces](../../ai/models/huggingface-blog-run-comfyui-workflows-on-spaces.md) ([Source](https://huggingface.co/blog/run-comfyui-workflows-on-spaces)) - `ai/models`
+519. [A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard](../../ai/models/huggingface-blog-leaderboard-vectara.md) ([Source](https://huggingface.co/blog/leaderboard-vectara)) - `ai/models`
+520. [Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL](../../ai/models/huggingface-blog-unsloth-trl.md) ([Source](https://huggingface.co/blog/unsloth-trl)) - `ai/models`
+521. [Welcome aMUSEd: Efficient Text-to-Image Generation](../../ai/models/huggingface-blog-amused.md) ([Source](https://huggingface.co/blog/amused)) - `ai/models`
+522. [LoRA training scripts of the world, unite!](../../ai/models/huggingface-blog-sdxl-lora-advanced-script.md) ([Source](https://huggingface.co/blog/sdxl_lora_advanced_script)) - `ai/models`
+523. [Speculative Decoding for 2x Faster Whisper Inference](../../ai/models/huggingface-blog-whisper-speculative-decoding.md) ([Source](https://huggingface.co/blog/whisper-speculative-decoding)) - `ai/models`
+524. [2023, year of open LLMs](../../ai/models/huggingface-blog-2023-in-llms.md) ([Source](https://huggingface.co/blog/2023-in-llms)) - `ai/models`
+525. [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](../../ai/models/huggingface-blog-mixtral.md) ([Source](https://huggingface.co/blog/mixtral)) - `ai/models`
+526. [Mixture of Experts Explained](../../ai/models/huggingface-blog-moe.md) ([Source](https://huggingface.co/blog/moe)) - `ai/models`
+527. [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../../ai/models/huggingface-blog-setfit-absa.md) ([Source](https://huggingface.co/blog/setfit-absa)) - `ai/models`
+528. [AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU](../../ai/models/huggingface-blog-huggingface-and-optimum-amd.md) ([Source](https://huggingface.co/blog/huggingface-and-optimum-amd)) - `ai/models`
+529. [Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code](../../ai/models/huggingface-blog-optimum-nvidia.md) ([Source](https://huggingface.co/blog/optimum-nvidia)) - `ai/models`
+530. [Goodbye cold boot - how we made LoRA Inference 300% faster](../../ai/models/huggingface-blog-lora-adapters-dynamic-loading.md) ([Source](https://huggingface.co/blog/lora-adapters-dynamic-loading)) - `ai/models`
+531. [Open LLM Leaderboard: DROP deep dive](../../ai/models/huggingface-blog-open-llm-leaderboard-drop.md) ([Source](https://huggingface.co/blog/open-llm-leaderboard-drop)) - `ai/models`
+532. [SDXL in 4 steps with Latent Consistency LoRAs](../../ai/models/huggingface-blog-lcm-lora.md) ([Source](https://huggingface.co/blog/lcm_lora)) - `ai/models`
+533. [Make your llama generation time fly with AWS Inferentia2](../../ai/models/huggingface-blog-inferentia-llama2.md) ([Source](https://huggingface.co/blog/inferentia-llama2)) - `ai/models`
+534. [Introducing Prodigy-HF: a direct integration with Hugging Face](../../ai/models/huggingface-blog-prodigy-hf.md) ([Source](https://huggingface.co/blog/prodigy-hf)) - `ai/models`
+535. [Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora](../../ai/models/huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md) ([Source](https://huggingface.co/blog/lora-for-sequence-classification-with-roberta-llama-mistral)) - `ai/models`
+536. [Introducing Storage Regions on the HF Hub](../../ai/rag/huggingface-blog-regions.md) ([Source](https://huggingface.co/blog/regions)) - `ai/rag`
+537. [Personal Copilot: Train Your Own Coding Assistant](../../ai/models/huggingface-blog-personal-copilot.md) ([Source](https://huggingface.co/blog/personal-copilot)) - `ai/models`
+538. [Interactively explore your Huggingface dataset with one line of code](../../ai/models/huggingface-blog-scalable-data-inspection.md) ([Source](https://huggingface.co/blog/scalable-data-inspection)) - `ai/models`
+539. [Deploy Embedding Models with Hugging Face Inference Endpoints](../../ai/models/huggingface-blog-inference-endpoints-embeddings.md) ([Source](https://huggingface.co/blog/inference-endpoints-embeddings)) - `ai/models`
+540. [The N Implementation Details of RLHF with PPO](../../ai/models/huggingface-blog-the-n-implementation-details-of-rlhf-with-ppo.md) ([Source](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo)) - `ai/models`
+541. [Exploring simple optimizations for SDXL](../../ai/models/huggingface-blog-simple-sdxl-optimizations.md) ([Source](https://huggingface.co/blog/simple_sdxl_optimizations)) - `ai/models`
+542. [Gradio-Lite: Serverless Gradio Running Entirely in Your Browser](../../ai/models/huggingface-blog-gradio-lite.md) ([Source](https://huggingface.co/blog/gradio-lite)) - `ai/models`
+543. [Accelerating over 130,000 Hugging Face models with ONNX Runtime](../../ai/models/huggingface-blog-ort-accelerating-hf-models.md) ([Source](https://huggingface.co/blog/ort-accelerating-hf-models)) - `ai/models`
+544. [🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e](../../ai/models/huggingface-blog-sdxl-jax.md) ([Source](https://huggingface.co/blog/sdxl_jax)) - `ai/models`
+545. [Chat Templates: An End to the Silent Performance Killer](../../ai/models/huggingface-blog-chat-templates.md) ([Source](https://huggingface.co/blog/chat-templates)) - `ai/models`
+546. [Deploying the AI Comic Factory using the Inference API](../../ai/models/huggingface-blog-ai-comic-factory.md) ([Source](https://huggingface.co/blog/ai-comic-factory)) - `ai/models`
+547. [Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings](../../ai/models/huggingface-blog-ethics-soc-5.md) ([Source](https://huggingface.co/blog/ethics-soc-5)) - `ai/models`
+548. [Finetune Stable Diffusion Models with DDPO via TRL](../../ai/models/huggingface-blog-trl-ddpo.md) ([Source](https://huggingface.co/blog/trl-ddpo)) - `ai/models`
+549. [Non-engineers guide: Train a LLaMA 2 chatbot](../../ai/models/huggingface-blog-llama2-for-non-engineers.md) ([Source](https://huggingface.co/blog/llama2-for-non-engineers)) - `ai/models`
+550. [Llama 2 on Amazon SageMaker a Benchmark](../../ai/models/huggingface-blog-llama-sagemaker-benchmark.md) ([Source](https://huggingface.co/blog/llama-sagemaker-benchmark)) - `ai/models`
+551. [Inference for PROs](../../ai/models/huggingface-blog-inference-pro.md) ([Source](https://huggingface.co/blog/inference-pro)) - `ai/models`
+552. [Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​](../../ai/models/huggingface-blog-rocketmoney-case-study.md) ([Source](https://huggingface.co/blog/rocketmoney-case-study)) - `ai/models`
+553. [Introduction to 3D Gaussian Splatting](../../ai/models/huggingface-blog-gaussian-splatting.md) ([Source](https://huggingface.co/blog/gaussian-splatting)) - `ai/models`
+554. [Object Detection Leaderboard](../../ai/models/huggingface-blog-object-detection-leaderboard.md) ([Source](https://huggingface.co/blog/object-detection-leaderboard)) - `ai/models`
+555. [Optimizing your LLM in production](../../ai/models/huggingface-blog-optimize-llm.md) ([Source](https://huggingface.co/blog/optimize-llm)) - `ai/models`
+556. [Introducing Würstchen: Fast Diffusion for Image Generation](../../ai/models/huggingface-blog-wuerstchen.md) ([Source](https://huggingface.co/blog/wuerstchen)) - `ai/models`
+557. [Fine-tuning Llama 2 70B using PyTorch FSDP](../../ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md) ([Source](https://huggingface.co/blog/ram-efficient-pytorch-fsdp)) - `ai/models`
+558. [Overview of natively supported quantization schemes in 🤗 Transformers](../../ai/models/huggingface-blog-overview-quantization-transformers.md) ([Source](https://huggingface.co/blog/overview-quantization-transformers)) - `ai/models`
+559. [SafeCoder vs. Closed-source Code Assistants](../../ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md) ([Source](https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants)) - `ai/models`
+560. [Efficient Controllable Generation for SDXL with T2I-Adapters](../../ai/models/huggingface-blog-t2i-sdxl-adapters.md) ([Source](https://huggingface.co/blog/t2i-sdxl-adapters)) - `ai/models`
+561. [Spread Your Wings: Falcon 180B is here](../../ai/models/huggingface-blog-falcon-180b.md) ([Source](https://huggingface.co/blog/falcon-180b)) - `ai/models`
+562. [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](../../ai/models/huggingface-blog-fetch-case-study.md) ([Source](https://huggingface.co/blog/fetch-case-study)) - `ai/models`
+563. [AudioLDM 2, but faster ⚡️](../../ai/models/huggingface-blog-audioldm2.md) ([Source](https://huggingface.co/blog/audioldm2)) - `ai/models`
+564. [Code Llama: Llama 2 learns to code](../../ai/models/huggingface-blog-codellama.md) ([Source](https://huggingface.co/blog/codellama)) - `ai/models`
+565. [Deprecation of Git Authentication using password](../../ai/models/huggingface-blog-password-git-deprecation.md) ([Source](https://huggingface.co/blog/password-git-deprecation)) - `ai/models`
+566. [Making LLMs lighter with AutoGPTQ and transformers](../../ai/models/huggingface-blog-gptq-integration.md) ([Source](https://huggingface.co/blog/gptq-integration)) - `ai/models`
+567. [Introducing SafeCoder](../../ai/models/huggingface-blog-safecoder.md) ([Source](https://huggingface.co/blog/safecoder)) - `ai/models`
+568. [Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model](../../ai/models/huggingface-blog-idefics.md) ([Source](https://huggingface.co/blog/idefics)) - `ai/models`
+569. [Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account](../../ai/models/huggingface-blog-aws-marketplace.md) ([Source](https://huggingface.co/blog/aws-marketplace)) - `ai/models`
+570. [Optimizing Bark using 🤗 Transformers](../../ai/models/huggingface-blog-optimizing-bark.md) ([Source](https://huggingface.co/blog/optimizing-bark)) - `ai/models`
+571. [Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action](../../ai/models/huggingface-blog-deploy-deepfloydif-using-bentoml.md) ([Source](https://huggingface.co/blog/deploy-deepfloydif-using-bentoml)) - `ai/models`
+572. [Fine-tune Llama 2 with DPO](../../ai/models/huggingface-blog-dpo-trl.md) ([Source](https://huggingface.co/blog/dpo-trl)) - `ai/models`
+573. [Releasing Swift Transformers: Run On-Device LLMs in Apple Devices](../../ai/models/huggingface-blog-swift-coreml-llm.md) ([Source](https://huggingface.co/blog/swift-coreml-llm)) - `ai/models`
+574. [Deploy MusicGen in no time with Inference Endpoints](../../ai/models/huggingface-blog-run-musicgen-as-an-api.md) ([Source](https://huggingface.co/blog/run-musicgen-as-an-api)) - `ai/models`
+575. [Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub](../../ai/models/huggingface-blog-huggy-lingo.md) ([Source](https://huggingface.co/blog/huggy-lingo)) - `ai/models`
+576. [Towards Encrypted Large Language Models with FHE](../../ai/models/huggingface-blog-encrypted-llm.md) ([Source](https://huggingface.co/blog/encrypted-llm)) - `ai/models`
+577. [Practical 3D Asset Generation: A Step-by-Step Guide](../../ai/models/huggingface-blog-3d-assets.md) ([Source](https://huggingface.co/blog/3d-assets)) - `ai/models`
+578. [Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny](../../ai/models/huggingface-blog-sd-distillation.md) ([Source](https://huggingface.co/blog/sd_distillation)) - `ai/models`
+579. [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../../ai/models/huggingface-blog-stable-diffusion-xl-coreml.md) ([Source](https://huggingface.co/blog/stable-diffusion-xl-coreml)) - `ai/models`
+580. [AI Policy @🤗: Open ML Considerations in the EU AI Act](../../ai/models/huggingface-blog-eu-ai-act-oss.md) ([Source](https://huggingface.co/blog/eu-ai-act-oss)) - `ai/models`
+581. [Introducing Agents.js: Give tools to your LLMs using JavaScript](../../ai/agents/huggingface-blog-agents-js.md) ([Source](https://huggingface.co/blog/agents-js)) - `ai/agents`
+582. [Results of the Open Source AI Game Jam](../../ai/models/huggingface-blog-game-jam-first-edition-results.md) ([Source](https://huggingface.co/blog/game-jam-first-edition-results)) - `ai/models`
+583. [Happy 1st anniversary 🤗 Diffusers!](../../ai/models/huggingface-blog-diffusers-turns-1.md) ([Source](https://huggingface.co/blog/diffusers-turns-1)) - `ai/models`
+584. [Llama 2 is here - get it on Hugging Face](../../ai/models/huggingface-blog-llama2.md) ([Source](https://huggingface.co/blog/llama2)) - `ai/models`
+585. [Building an AI WebTV](../../ai/models/huggingface-blog-ai-webtv.md) ([Source](https://huggingface.co/blog/ai-webtv)) - `ai/models`
+586. [Open-Source Text Generation & LLM Ecosystem at Hugging Face](../../ai/models/huggingface-blog-os-llms.md) ([Source](https://huggingface.co/blog/os-llms)) - `ai/models`
+587. [Fine-tuning Stable Diffusion models on Intel CPUs](../../ai/models/huggingface-blog-stable-diffusion-finetuning-intel.md) ([Source](https://huggingface.co/blog/stable-diffusion-finetuning-intel)) - `ai/models`
+588. [Making ML-powered web games with Transformers.js](../../ai/models/huggingface-blog-ml-web-games.md) ([Source](https://huggingface.co/blog/ml-web-games)) - `ai/models`
+589. [Deploy LLMs with Hugging Face Inference Endpoints](../../ai/models/huggingface-blog-inference-endpoints-llm.md) ([Source](https://huggingface.co/blog/inference-endpoints-llm)) - `ai/models`
+590. [Making a web app generator with open ML models](../../ai/models/huggingface-blog-text-to-webapp.md) ([Source](https://huggingface.co/blog/text-to-webapp)) - `ai/models`
+591. [Leveraging Hugging Face for complex generative AI use cases](../../ai/rag/huggingface-blog-writer-case-study.md) ([Source](https://huggingface.co/blog/writer-case-study)) - `ai/rag`
+592. [Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2](../../ai/models/huggingface-blog-bridgetower.md) ([Source](https://huggingface.co/blog/bridgetower)) - `ai/models`
+593. [Ethics and Society Newsletter #4: Bias in Text-to-Image Models](../../ai/models/huggingface-blog-ethics-soc-4.md) ([Source](https://huggingface.co/blog/ethics-soc-4)) - `ai/models`
+594. [What's going on with the Open LLM Leaderboard?](../../ai/models/huggingface-blog-open-llm-leaderboard-mmlu.md) ([Source](https://huggingface.co/blog/open-llm-leaderboard-mmlu)) - `ai/models`
+595. [Panel on Hugging Face](../../ai/models/huggingface-blog-panel-on-hugging-face.md) ([Source](https://huggingface.co/blog/panel-on-hugging-face)) - `ai/models`
+596. [AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability](../../ai/models/huggingface-blog-policy-ntia-rfc.md) ([Source](https://huggingface.co/blog/policy-ntia-rfc)) - `ai/models`
+597. [Fine-Tune MMS Adapter Models for low-resource ASR](../../ai/models/huggingface-blog-mms-adapters.md) ([Source](https://huggingface.co/blog/mms_adapters)) - `ai/models`
+598. [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](../../ai/models/huggingface-blog-autoformer.md) ([Source](https://huggingface.co/blog/autoformer)) - `ai/models`
+599. [Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac](../../ai/models/huggingface-blog-fast-diffusers-coreml.md) ([Source](https://huggingface.co/blog/fast-diffusers-coreml)) - `ai/models`
+600. [Deploy Livebook notebooks as apps to Hugging Face Spaces](../../ai/models/huggingface-blog-livebook-app-deployment.md) ([Source](https://huggingface.co/blog/livebook-app-deployment)) - `ai/models`
+601. [Announcing our new Content Guidelines and Policy](../../ai/models/huggingface-blog-content-guidelines-update.md) ([Source](https://huggingface.co/blog/content-guidelines-update)) - `ai/models`
+602. [Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms](../../ai/models/huggingface-blog-huggingface-and-amd.md) ([Source](https://huggingface.co/blog/huggingface-and-amd)) - `ai/models`
+603. [Can foundation models label data like humans?](../../ai/models/huggingface-blog-open-llm-leaderboard-rlhf.md) ([Source](https://huggingface.co/blog/open-llm-leaderboard-rlhf)) - `ai/models`
+604. [The Hugging Face Hub for Galleries, Libraries, Archives and Museums](../../ai/models/huggingface-blog-hf-hub-glam-guide.md) ([Source](https://huggingface.co/blog/hf-hub-glam-guide)) - `ai/models`
+605. [DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub](../../ai/models/huggingface-blog-hub-duckdb.md) ([Source](https://huggingface.co/blog/hub-duckdb)) - `ai/models`
+606. [Welcome fastText to the Hugging Face Hub](../../ai/models/huggingface-blog-fasttext.md) ([Source](https://huggingface.co/blog/fasttext)) - `ai/models`
+607. [The Falcon has landed in the Hugging Face ecosystem](../../ai/models/huggingface-blog-falcon.md) ([Source](https://huggingface.co/blog/falcon)) - `ai/models`
+608. [AI Speech Recognition in Unity](../../ai/models/huggingface-blog-unity-asr.md) ([Source](https://huggingface.co/blog/unity-asr)) - `ai/models`
+609. [Announcing the Open Source AI Game Jam 🎮](../../ai/models/huggingface-blog-game-jam.md) ([Source](https://huggingface.co/blog/game-jam)) - `ai/models`
+610. [Introducing the Hugging Face LLM Inference Container for Amazon SageMaker](../../ai/models/huggingface-blog-sagemaker-huggingface-llm.md) ([Source](https://huggingface.co/blog/sagemaker-huggingface-llm)) - `ai/models`
+611. [Introducing BERTopic Integration with the Hugging Face Hub](../../ai/models/huggingface-blog-bertopic.md) ([Source](https://huggingface.co/blog/bertopic)) - `ai/models`
+612. [Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum](../../ai/models/huggingface-blog-train-optimize-sd-intel.md) ([Source](https://huggingface.co/blog/train-optimize-sd-intel)) - `ai/models`
+613. [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md) ([Source](https://huggingface.co/blog/4bit-transformers-bitsandbytes)) - `ai/models`
+614. [Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure](../../ai/models/huggingface-blog-hugging-face-endpoints-on-azure.md) ([Source](https://huggingface.co/blog/hugging-face-endpoints-on-azure)) - `ai/models`
+615. [Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders](../../ai/models/huggingface-blog-huggingface-and-ibm.md) ([Source](https://huggingface.co/blog/huggingface-and-ibm)) - `ai/models`
+616. [🐶Safetensors audited as really safe and becoming the default](../../ai/models/huggingface-blog-safetensors-security-audit.md) ([Source](https://huggingface.co/blog/safetensors-security-audit)) - `ai/models`
+617. [Instruction-tuning Stable Diffusion with InstructPix2Pix](../../ai/models/huggingface-blog-instruction-tuning-sd.md) ([Source](https://huggingface.co/blog/instruction-tuning-sd)) - `ai/models`
+618. [Large-scale Near-deduplication Behind BigCode](../../ai/models/huggingface-blog-dedup.md) ([Source](https://huggingface.co/blog/dedup)) - `ai/models`
+619. [Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon](../../ai/models/huggingface-blog-generative-ai-models-on-intel-cpu.md) ([Source](https://huggingface.co/blog/generative-ai-models-on-intel-cpu)) - `ai/models`
+620. [Hugging Face Selected for the French Data Protection Agency Enhanced Support Program](../../ai/models/huggingface-blog-cnil.md) ([Source](https://huggingface.co/blog/cnil)) - `ai/models`
+621. [Run a Chatgpt-like Chatbot on a Single GPU with ROCm](../../ai/models/huggingface-blog-chatbot-amd-gpu.md) ([Source](https://huggingface.co/blog/chatbot-amd-gpu)) - `ai/models`
+622. [Introducing RWKV - An RNN with the advantages of a transformer](../../ai/models/huggingface-blog-rwkv.md) ([Source](https://huggingface.co/blog/rwkv)) - `ai/models`
+623. [Assisted Generation: a new direction toward low-latency text generation](../../ai/models/huggingface-blog-assisted-generation.md) ([Source](https://huggingface.co/blog/assisted-generation)) - `ai/models`
+624. [Creating a Coding Assistant with StarCoder](../../ai/models/huggingface-blog-starchat-alpha.md) ([Source](https://huggingface.co/blog/starchat-alpha)) - `ai/models`
+625. [A Dive into Text-to-Video Models](../../ai/models/huggingface-blog-text-to-video.md) ([Source](https://huggingface.co/blog/text-to-video)) - `ai/models`
+626. [StarCoder: A State-of-the-Art LLM for Code](../../ai/models/huggingface-blog-starcoder.md) ([Source](https://huggingface.co/blog/starcoder)) - `ai/models`
+627. [How to Install and Use the Hugging Face Unity API](../../ai/models/huggingface-blog-unity-api.md) ([Source](https://huggingface.co/blog/unity-api)) - `ai/models`
+628. [Training a language model with 🤗 Transformers using TensorFlow and TPUs](../../ai/models/huggingface-blog-tf-tpu.md) ([Source](https://huggingface.co/blog/tf_tpu)) - `ai/models`
+629. [Running IF with 🧨 diffusers on a Free Tier Google Colab](../../ai/models/huggingface-blog-if.md) ([Source](https://huggingface.co/blog/if)) - `ai/models`
+630. [Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models](../../ai/models/huggingface-blog-databricks-case-study.md) ([Source](https://huggingface.co/blog/databricks-case-study)) - `ai/models`
+631. [Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community](../../ai/models/huggingface-blog-chinese-language-blog.md) ([Source](https://huggingface.co/blog/chinese-language-blog)) - `ai/models`
+632. [How to host a Unity game in a Space](../../ai/models/huggingface-blog-unity-in-spaces.md) ([Source](https://huggingface.co/blog/unity-in-spaces)) - `ai/models`
+633. [Accelerating Hugging Face Transformers with AWS Inferentia2](../../ai/models/huggingface-blog-accelerate-transformers-with-inferentia2.md) ([Source](https://huggingface.co/blog/accelerate-transformers-with-inferentia2)) - `ai/models`
+634. [Graph Classification with Transformers](../../ai/models/huggingface-blog-graphml-classification.md) ([Source](https://huggingface.co/blog/graphml-classification)) - `ai/models`
+635. [Creating Privacy Preserving AI with Substra](../../ai/models/huggingface-blog-owkin-substra.md) ([Source](https://huggingface.co/blog/owkin-substra)) - `ai/models`
+636. [Snorkel AI x Hugging Face: unlock foundation models for enterprises](../../ai/models/huggingface-blog-snorkel-case-study.md) ([Source](https://huggingface.co/blog/snorkel-case-study)) - `ai/models`
+637. [StackLLaMA: A hands-on guide to train LLaMA with RLHF](../../ai/models/huggingface-blog-stackllama.md) ([Source](https://huggingface.co/blog/stackllama)) - `ai/models`
+638. [Ethics and Society Newsletter #3: Ethical Openness at Hugging Face](../../ai/models/huggingface-blog-ethics-soc-3.md) ([Source](https://huggingface.co/blog/ethics-soc-3)) - `ai/models`
+639. [Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator](../../ai/models/huggingface-blog-habana-gaudi-2-bloom.md) ([Source](https://huggingface.co/blog/habana-gaudi-2-bloom)) - `ai/models`
+640. [Accelerating Stable Diffusion Inference on Intel CPUs](../../ai/models/huggingface-blog-stable-diffusion-inference-intel.md) ([Source](https://huggingface.co/blog/stable-diffusion-inference-intel)) - `ai/models`
+641. [Federated Learning using Hugging Face and Flower](../../ai/models/huggingface-blog-fl-with-flower.md) ([Source](https://huggingface.co/blog/fl-with-flower)) - `ai/models`
+642. [Train your ControlNet with diffusers](../../ai/models/huggingface-blog-train-your-controlnet.md) ([Source](https://huggingface.co/blog/train-your-controlnet)) - `ai/models`
+643. [Jupyter X Hugging Face](../../ai/models/huggingface-blog-notebooks-hub.md) ([Source](https://huggingface.co/blog/notebooks-hub)) - `ai/models`
+644. [Multivariate Probabilistic Time Series Forecasting with Informer](../../ai/models/huggingface-blog-informer.md) ([Source](https://huggingface.co/blog/informer)) - `ai/models`
+645. [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../../ai/models/huggingface-blog-trl-peft.md) ([Source](https://huggingface.co/blog/trl-peft)) - `ai/models`
+646. [New ViT and ALIGN Models From Kakao Brain](../../ai/models/huggingface-blog-vit-align.md) ([Source](https://huggingface.co/blog/vit-align)) - `ai/models`
+647. [Using Machine Learning to Aid Survivors and Race through Time](../../ai/models/huggingface-blog-using-ml-for-disasters.md) ([Source](https://huggingface.co/blog/using-ml-for-disasters)) - `ai/models`
+648. [ControlNet in 🧨 Diffusers](../../ai/models/huggingface-blog-controlnet.md) ([Source](https://huggingface.co/blog/controlnet)) - `ai/models`
+649. [Ethical Guidelines for developing the Diffusers library](../../ai/models/huggingface-blog-ethics-diffusers.md) ([Source](https://huggingface.co/blog/ethics-diffusers)) - `ai/models`
+650. [How Hugging Face Accelerated Development of Witty Works Writing Assistant](../../ai/models/huggingface-blog-classification-use-cases.md) ([Source](https://huggingface.co/blog/classification-use-cases)) - `ai/models`
+651. [Red-Teaming Large Language Models](../../ai/models/huggingface-blog-red-teaming.md) ([Source](https://huggingface.co/blog/red-teaming)) - `ai/models`
+652. [Swift 🧨Diffusers - Fast Stable Diffusion for Mac](../../ai/models/huggingface-blog-fast-mac-diffusers.md) ([Source](https://huggingface.co/blog/fast-mac-diffusers)) - `ai/models`
+653. [Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS](../../ai/models/huggingface-blog-fetch-eap-case-study.md) ([Source](https://huggingface.co/blog/fetch-eap-case-study)) - `ai/models`
+654. [Hugging Face and AWS partner to make AI more accessible](../../ai/models/huggingface-blog-aws-partnership.md) ([Source](https://huggingface.co/blog/aws-partnership)) - `ai/models`
+655. [Zero-shot image-to-text generation with BLIP-2](../../ai/models/huggingface-blog-blip-2.md) ([Source](https://huggingface.co/blog/blip-2)) - `ai/models`
+656. [Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too](../../ai/models/huggingface-blog-mantis-case-study.md) ([Source](https://huggingface.co/blog/mantis-case-study)) - `ai/models`
+657. [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../../ai/models/huggingface-blog-peft.md) ([Source](https://huggingface.co/blog/peft)) - `ai/models`
+658. [Speech Synthesis, Recognition, and More With SpeechT5](../../ai/models/huggingface-blog-speecht5.md) ([Source](https://huggingface.co/blog/speecht5)) - `ai/models`
+659. [Generating Stories: AI for Game Development #5](../../ai/models/huggingface-blog-ml-for-games-5.md) ([Source](https://huggingface.co/blog/ml-for-games-5)) - `ai/models`
+660. [Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system](../../ai/agents/huggingface-blog-aivsai.md) ([Source](https://huggingface.co/blog/aivsai)) - `ai/agents`
+661. [Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2](../../ai/models/huggingface-blog-intel-sapphire-rapids-inference.md) ([Source](https://huggingface.co/blog/intel-sapphire-rapids-inference)) - `ai/models`
+662. [A Dive into Vision-Language Models](../../ai/models/huggingface-blog-vision-language-pretraining.md) ([Source](https://huggingface.co/blog/vision_language_pretraining)) - `ai/models`
+663. [The State of Computer Vision at Hugging Face 🤗](../../ai/models/huggingface-blog-cv-state.md) ([Source](https://huggingface.co/blog/cv_state)) - `ai/models`
+664. [2D Asset Generation: AI for Game Development #4](../../ai/models/huggingface-blog-ml-for-games-4.md) ([Source](https://huggingface.co/blog/ml-for-games-4)) - `ai/models`
+665. [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../../ai/models/huggingface-blog-lora.md) ([Source](https://huggingface.co/blog/lora)) - `ai/models`
+666. [What Makes a Dialog Agent Useful?](../../ai/agents/huggingface-blog-dialog-agents.md) ([Source](https://huggingface.co/blog/dialog-agents)) - `ai/agents`
+667. [Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models](../../ai/models/huggingface-blog-optimum-onnxruntime-training.md) ([Source](https://huggingface.co/blog/optimum-onnxruntime-training)) - `ai/models`
+668. [3D Asset Generation: AI for Game Development #3](../../ai/models/huggingface-blog-ml-for-games-3.md) ([Source](https://huggingface.co/blog/ml-for-games-3)) - `ai/models`
+669. [Universal Image Segmentation with Mask2Former and OneFormer](../../ai/models/huggingface-blog-mask2former.md) ([Source](https://huggingface.co/blog/mask2former)) - `ai/models`
+670. [Welcome PaddlePaddle to the Hugging Face Hub](../../ai/models/huggingface-blog-paddlepaddle.md) ([Source](https://huggingface.co/blog/paddlepaddle)) - `ai/models`
+671. [Image Similarity with Hugging Face Datasets and Transformers](../../ai/models/huggingface-blog-image-similarity.md) ([Source](https://huggingface.co/blog/image-similarity)) - `ai/models`
+672. [AI for Game Development: Creating a Farming Game in 5 Days. Part 2](../../ai/models/huggingface-blog-ml-for-games-2.md) ([Source](https://huggingface.co/blog/ml-for-games-2)) - `ai/models`
+673. [Introduction to Graph Machine Learning](../../ai/models/huggingface-blog-intro-graphml.md) ([Source](https://huggingface.co/blog/intro-graphml)) - `ai/models`
+674. [AI for Game Development: Creating a Farming Game in 5 Days. Part 1](../../ai/models/huggingface-blog-ml-for-games-1.md) ([Source](https://huggingface.co/blog/ml-for-games-1)) - `ai/models`
+675. [Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1](../../ai/models/huggingface-blog-intel-sapphire-rapids.md) ([Source](https://huggingface.co/blog/intel-sapphire-rapids)) - `ai/models`
+676. [Zero-shot image segmentation with CLIPSeg](../../ai/models/huggingface-blog-clipseg-zero-shot.md) ([Source](https://huggingface.co/blog/clipseg-zero-shot)) - `ai/models`
+677. [Model Cards](../../ai/models/huggingface-blog-model-cards.md) ([Source](https://huggingface.co/blog/model-cards)) - `ai/models`
+678. [Let's talk about biases in machine learning! Ethics and Society Newsletter #2](../../ai/models/huggingface-blog-ethics-soc-2.md) ([Source](https://huggingface.co/blog/ethics-soc-2)) - `ai/models`
+679. [A Complete Guide to Audio Datasets](../../ai/models/huggingface-blog-audio-datasets.md) ([Source](https://huggingface.co/blog/audio-datasets)) - `ai/models`
+680. [Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB](../../ai/models/huggingface-blog-habana-gaudi-2-benchmark.md) ([Source](https://huggingface.co/blog/habana-gaudi-2-benchmark)) - `ai/models`
+681. [Illustrating Reinforcement Learning from Human Feedback (RLHF)](../../ai/models/huggingface-blog-rlhf.md) ([Source](https://huggingface.co/blog/rlhf)) - `ai/models`
+682. [From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community](../../ai/models/huggingface-blog-elixir-bumblebee.md) ([Source](https://huggingface.co/blog/elixir-bumblebee)) - `ai/models`
+683. [Deep Learning with Proteins](../../ai/models/huggingface-blog-deep-learning-with-proteins.md) ([Source](https://huggingface.co/blog/deep-learning-with-proteins)) - `ai/models`
+684. [Using Stable Diffusion with Core ML on Apple Silicon](../../ai/models/huggingface-blog-diffusers-coreml.md) ([Source](https://huggingface.co/blog/diffusers-coreml)) - `ai/models`
+685. [Probabilistic Time Series Forecasting with 🤗 Transformers](../../ai/models/huggingface-blog-time-series-transformers.md) ([Source](https://huggingface.co/blog/time-series-transformers)) - `ai/models`
+686. [VQ-Diffusion](../../ai/models/huggingface-blog-vq-diffusion.md) ([Source](https://huggingface.co/blog/vq-diffusion)) - `ai/models`
+687. [We are hiring interns!](../../ai/models/huggingface-blog-interns-2023.md) ([Source](https://huggingface.co/blog/interns-2023)) - `ai/models`
+688. [Diffusion Models Live Event](../../ai/models/huggingface-blog-diffusion-models-event.md) ([Source](https://huggingface.co/blog/diffusion-models-event)) - `ai/models`
+689. [Director of Machine Learning Insights [Part 4]](../../ai/models/huggingface-blog-ml-director-insights-4.md) ([Source](https://huggingface.co/blog/ml-director-insights-4)) - `ai/models`
+690. [Accelerating Document AI](../../ai/models/huggingface-blog-document-ai.md) ([Source](https://huggingface.co/blog/document-ai)) - `ai/models`
+691. [An overview of inference solutions on Hugging Face](../../ai/models/huggingface-blog-inference-update.md) ([Source](https://huggingface.co/blog/inference-update)) - `ai/models`
+692. [Hugging Face Machine Learning Demos on arXiv](../../ai/models/huggingface-blog-arxiv.md) ([Source](https://huggingface.co/blog/arxiv)) - `ai/models`
+693. [Sentiment Analysis on Encrypted Data with Homomorphic Encryption](../../ai/models/huggingface-blog-sentiment-analysis-fhe.md) ([Source](https://huggingface.co/blog/sentiment-analysis-fhe)) - `ai/models`
+694. [Generating Human-level Text with Contrastive Search in Transformers 🤗](../../ai/models/huggingface-blog-introducing-csearch.md) ([Source](https://huggingface.co/blog/introducing-csearch)) - `ai/models`
+695. [Introducing our new pricing](../../ai/models/huggingface-blog-pricing-update.md) ([Source](https://huggingface.co/blog/pricing-update)) - `ai/models`
+696. [Training Stable Diffusion with Dreambooth using Diffusers](../../ai/models/huggingface-blog-dreambooth.md) ([Source](https://huggingface.co/blog/dreambooth)) - `ai/models`
+697. [Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-whisper.md) ([Source](https://huggingface.co/blog/fine-tune-whisper)) - `ai/models`
+698. [Accelerate your models with 🤗 Optimum Intel and OpenVINO](../../ai/models/huggingface-blog-openvino.md) ([Source](https://huggingface.co/blog/openvino)) - `ai/models`
+699. [Evaluating Language Model Bias with 🤗 Evaluate](../../ai/models/huggingface-blog-evaluating-llm-bias.md) ([Source](https://huggingface.co/blog/evaluating-llm-bias)) - `ai/models`
+700. [From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease](../../ai/models/huggingface-blog-pytorch-ddp-accelerate-transformers.md) ([Source](https://huggingface.co/blog/pytorch-ddp-accelerate-transformers)) - `ai/models`
+701. [MTEB: Massive Text Embedding Benchmark](../../ai/models/huggingface-blog-mteb.md) ([Source](https://huggingface.co/blog/mteb)) - `ai/models`
+702. [Getting Started with Hugging Face Inference Endpoints](../../ai/models/huggingface-blog-inference-endpoints.md) ([Source](https://huggingface.co/blog/inference-endpoints)) - `ai/models`
+703. [🧨 Stable Diffusion in JAX / Flax !](../../ai/models/huggingface-blog-stable-diffusion-jax.md) ([Source](https://huggingface.co/blog/stable_diffusion_jax)) - `ai/models`
+704. [Optimization story: Bloom inference](../../ai/models/huggingface-blog-bloom-inference-optimization.md) ([Source](https://huggingface.co/blog/bloom-inference-optimization)) - `ai/models`
+705. [Introducing DOI: the Digital Object Identifier to Datasets and Models](../../ai/models/huggingface-blog-introducing-doi.md) ([Source](https://huggingface.co/blog/introducing-doi)) - `ai/models`
+706. [Japanese Stable Diffusion](../../ai/models/huggingface-blog-japanese-stable-diffusion.md) ([Source](https://huggingface.co/blog/japanese-stable-diffusion)) - `ai/models`
+707. [Very Large Language Models and How to Evaluate Them](../../ai/models/huggingface-blog-zero-shot-eval-on-the-hub.md) ([Source](https://huggingface.co/blog/zero-shot-eval-on-the-hub)) - `ai/models`
+708. [Image Classification with AutoTrain](../../ai/models/huggingface-blog-autotrain-image-classification.md) ([Source](https://huggingface.co/blog/autotrain-image-classification)) - `ai/models`
+709. [How 🤗 Accelerate runs very large models thanks to PyTorch](../../ai/models/huggingface-blog-accelerate-large-models.md) ([Source](https://huggingface.co/blog/accelerate-large-models)) - `ai/models`
+710. [SetFit: Efficient Few-Shot Learning Without Prompts](../../ai/models/huggingface-blog-setfit.md) ([Source](https://huggingface.co/blog/setfit)) - `ai/models`
+711. [Ethics and Society Newsletter #1](../../ai/models/huggingface-blog-ethics-soc-1.md) ([Source](https://huggingface.co/blog/ethics-soc-1)) - `ai/models`
+712. [Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate](../../ai/models/huggingface-blog-bloom-inference-pytorch-scripts.md) ([Source](https://huggingface.co/blog/bloom-inference-pytorch-scripts)) - `ai/models`
+713. [What's new in Diffusers? 🎨](../../ai/models/huggingface-blog-diffusers-2nd-month.md) ([Source](https://huggingface.co/blog/diffusers-2nd-month)) - `ai/models`
+714. [Train your first Decision Transformer](../../ai/models/huggingface-blog-train-decision-transformers.md) ([Source](https://huggingface.co/blog/train-decision-transformers)) - `ai/models`
+715. [How to train a Language Model with Megatron-LM](../../ai/models/huggingface-blog-megatron-training.md) ([Source](https://huggingface.co/blog/megatron-training)) - `ai/models`
+716. [OpenRAIL: Towards open and responsible AI licensing frameworks](../../ai/models/huggingface-blog-open-rail.md) ([Source](https://huggingface.co/blog/open_rail)) - `ai/models`
+717. [Visualize proteins on Hugging Face Spaces](../../ai/models/huggingface-blog-spaces-3dmoljs.md) ([Source](https://huggingface.co/blog/spaces_3dmoljs)) - `ai/models`
+718. [Stable Diffusion with 🧨 Diffusers](../../ai/models/huggingface-blog-stable-diffusion.md) ([Source](https://huggingface.co/blog/stable_diffusion)) - `ai/models`
+719. [Pre-Train BERT with Hugging Face Transformers and Habana Gaudi](../../ai/models/huggingface-blog-pretraining-bert.md) ([Source](https://huggingface.co/blog/pretraining-bert)) - `ai/models`
+720. [Deploying 🤗 ViT on Vertex AI](../../ai/models/huggingface-blog-deploy-vertex-ai.md) ([Source](https://huggingface.co/blog/deploy-vertex-ai)) - `ai/models`
+721. [Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore](../../ai/models/huggingface-blog-vision-transformers.md) ([Source](https://huggingface.co/blog/vision-transformers)) - `ai/models`
+722. [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes](../../ai/models/huggingface-blog-hf-bitsandbytes-integration.md) ([Source](https://huggingface.co/blog/hf-bitsandbytes-integration)) - `ai/models`
+723. [Introducing Skops](../../ai/models/huggingface-blog-skops.md) ([Source](https://huggingface.co/blog/skops)) - `ai/models`
+724. [Hugging Face's TensorFlow Philosophy](../../ai/models/huggingface-blog-tensorflow-philosophy.md) ([Source](https://huggingface.co/blog/tensorflow-philosophy)) - `ai/models`
 725. [Deploying 🤗 ViT on Kubernetes with TF Serving](../../ai/models/huggingface-blog-deploy-tfserving-kubernetes.md) ([Source](https://huggingface.co/blog/deploy-tfserving-kubernetes)) - `ai/models`
-726. [The Open Arabic LLM Leaderboard 2](../../ai/models/huggingface-blog-leaderboard-arabic-v2.md) ([Source](https://huggingface.co/blog/leaderboard-arabic-v2)) - `ai/models`
-727. [Releasing Swift Transformers: Run On-Device LLMs in Apple Devices](../../ai/models/huggingface-blog-swift-coreml-llm.md) ([Source](https://huggingface.co/blog/swift-coreml-llm)) - `ai/models`
-728. [Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](../../ai/models/huggingface-blog-waypoint-1.md) ([Source](https://huggingface.co/blog/waypoint-1)) - `ai/models`
-729. [Hyperparameter Search with Transformers and Ray Tune](../../ai/models/huggingface-blog-ray-tune.md) ([Source](https://huggingface.co/blog/ray-tune)) - `ai/models`
-730. [Policy Gradient with PyTorch](../../ai/models/huggingface-blog-deep-rl-pg.md) ([Source](https://huggingface.co/blog/deep-rl-pg)) - `ai/models`
-731. [Open R1: Update #4](../../ai/models/huggingface-blog-open-r1-update-4.md) ([Source](https://huggingface.co/blog/open-r1/update-4)) - `ai/models`
-732. [Releasing Outlines-core 0.1.0: structured generation in Rust and Python](../../ai/models/huggingface-blog-outlines-core.md) ([Source](https://huggingface.co/blog/outlines-core)) - `ai/models`
-733. [Hugging Face and JFrog partner to make AI Security more transparent](../../ai/models/huggingface-blog-jfrog.md) ([Source](https://huggingface.co/blog/jfrog)) - `ai/models`
-734. [Multimodal Embedding & Reranker Models with Sentence Transformers](../../ai/models/huggingface-blog-multimodal-sentence-transformers.md) ([Source](https://huggingface.co/blog/multimodal-sentence-transformers)) - `ai/models`
-735. [GaLore: Advancing Large Model Training on Consumer-grade Hardware](../../ai/models/huggingface-blog-galore.md) ([Source](https://huggingface.co/blog/galore)) - `ai/models`
-736. [Gemma 3n fully available in the open-source ecosystem!](../../ai/models/huggingface-blog-gemma3n.md) ([Source](https://huggingface.co/blog/gemma3n)) - `ai/models`
-737. [A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality](../../ai/models/huggingface-blog-aya-vision.md) ([Source](https://huggingface.co/blog/aya-vision)) - `ai/models`
-738. [AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability](../../ai/models/huggingface-blog-policy-ntia-rfc.md) ([Source](https://huggingface.co/blog/policy-ntia-rfc)) - `ai/models`
-739. [vLLM V0 to V1: Correctness Before Corrections in RL](../../ai/models/huggingface-blog-servicenow-ai-correctness-before-corrections.md) ([Source](https://huggingface.co/blog/servicenow-ai/correctness-before-corrections)) - `ai/models`
-740. [Introducing the Open Arabic LLM Leaderboard](../../ai/models/huggingface-blog-leaderboard-arabic.md) ([Source](https://huggingface.co/blog/leaderboard-arabic)) - `ai/models`
-741. [Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training](../../ai/models/huggingface-blog-habana.md) ([Source](https://huggingface.co/blog/habana)) - `ai/models`
-742. [Experimenting with Automatic PII Detection on the Hub using Presidio](../../ai/models/huggingface-blog-presidio-pii-detection.md) ([Source](https://huggingface.co/blog/presidio-pii-detection)) - `ai/models`
-743. [Object Detection Leaderboard](../../ai/models/huggingface-blog-object-detection-leaderboard.md) ([Source](https://huggingface.co/blog/object-detection-leaderboard)) - `ai/models`
-744. [Efficient Request Queueing – Optimizing LLM Performance](../../ai/models/huggingface-blog-tngtech-llm-performance-request-queueing.md) ([Source](https://huggingface.co/blog/tngtech/llm-performance-request-queueing)) - `ai/models`
-745. [Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM](../../ai/models/huggingface-blog-gemma3.md) ([Source](https://huggingface.co/blog/gemma3)) - `ai/models`
-746. [Introducing HUGS - Scale your AI with Open Models](../../ai/models/huggingface-blog-hugs.md) ([Source](https://huggingface.co/blog/hugs)) - `ai/models`
-747. [Transformers backend integration in SGLang](../../ai/models/huggingface-blog-transformers-backend-sglang.md) ([Source](https://huggingface.co/blog/transformers-backend-sglang)) - `ai/models`
-748. [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](../../ai/models/huggingface-blog-modular-diffusers.md) ([Source](https://huggingface.co/blog/modular-diffusers)) - `ai/models`
-749. [Efficient Table Pre-training without Real Data: An Introduction to TAPEX](../../ai/models/huggingface-blog-tapex.md) ([Source](https://huggingface.co/blog/tapex)) - `ai/models`
-750. [Faster Assisted Generation with Dynamic Speculation](../../ai/models/huggingface-blog-dynamic-speculation-lookahead.md) ([Source](https://huggingface.co/blog/dynamic_speculation_lookahead)) - `ai/models`
-751. [Spread Your Wings: Falcon 180B is here](../../ai/models/huggingface-blog-falcon-180b.md) ([Source](https://huggingface.co/blog/falcon-180b)) - `ai/models`
-752. [Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖](../../ai/models/huggingface-blog-hugging-face-pollen-robotics-acquisition.md) ([Source](https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition)) - `ai/models`
-753. [Run ComfyUI workflows for free with Gradio on Hugging Face Spaces](../../ai/models/huggingface-blog-run-comfyui-workflows-on-spaces.md) ([Source](https://huggingface.co/blog/run-comfyui-workflows-on-spaces)) - `ai/models`
-754. [CodeGemma - an official Google release for code LLMs](../../ai/models/huggingface-blog-codegemma.md) ([Source](https://huggingface.co/blog/codegemma)) - `ai/models`
-755. [How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](../../ai/models/huggingface-blog-nvidia-nvidia-isaac-for-healthcare.md) ([Source](https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare)) - `ai/models`
-756. [Subscribe to Enterprise Hub with your AWS Account](../../ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md) ([Source](https://huggingface.co/blog/enterprise-hub-aws-marketplace)) - `ai/models`
-757. [Five Big Improvements to Gradio MCP Servers](../../ai/models/huggingface-blog-gradio-mcp-updates.md) ([Source](https://huggingface.co/blog/gradio-mcp-updates)) - `ai/models`
-758. [Assisted Generation: a new direction toward low-latency text generation](../../ai/models/huggingface-blog-assisted-generation.md) ([Source](https://huggingface.co/blog/assisted-generation)) - `ai/models`
-759. [Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account](../../ai/models/huggingface-blog-aws-marketplace.md) ([Source](https://huggingface.co/blog/aws-marketplace)) - `ai/models`
-760. [A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard](../../ai/models/huggingface-blog-leaderboard-vectara.md) ([Source](https://huggingface.co/blog/leaderboard-vectara)) - `ai/models`
-761. [Hugging Face Reads, Feb. 2021 - Long-range Transformers](../../ai/models/huggingface-blog-long-range-transformers.md) ([Source](https://huggingface.co/blog/long-range-transformers)) - `ai/models`
-762. [Finally, a Replacement for BERT: Introducing ModernBERT](../../ai/models/huggingface-blog-modernbert.md) ([Source](https://huggingface.co/blog/modernbert)) - `ai/models`
-763. [The Reformer - Pushing the limits of language modeling](../../ai/models/huggingface-blog-reformer.md) ([Source](https://huggingface.co/blog/reformer)) - `ai/models`
-764. [Measuring Open-Source Llama Nemotron Models on DeepResearch Bench](../../ai/models/huggingface-blog-nvidia-ai-q-top-ranking-open-portable-deep-research-agent.md) ([Source](https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent)) - `ai/models`
-765. [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](../../ai/models/huggingface-blog-torch-profiler.md) ([Source](https://huggingface.co/blog/torch-profiler)) - `ai/models`
-766. [Porting fairseq wmt19 translation system to transformers](../../ai/models/huggingface-blog-porting-fsmt.md) ([Source](https://huggingface.co/blog/porting-fsmt)) - `ai/models`
-767. [Cohere on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-cohere.md) ([Source](https://huggingface.co/blog/inference-providers-cohere)) - `ai/models`
-768. [Optimization story: Bloom inference](../../ai/models/huggingface-blog-bloom-inference-optimization.md) ([Source](https://huggingface.co/blog/bloom-inference-optimization)) - `ai/models`
-769. [Zero-shot image-to-text generation with BLIP-2](../../ai/models/huggingface-blog-blip-2.md) ([Source](https://huggingface.co/blog/blip-2)) - `ai/models`
-770. [Welcome Falcon Mamba: The first strong attention-free 7B model](../../ai/models/huggingface-blog-falconmamba.md) ([Source](https://huggingface.co/blog/falconmamba)) - `ai/models`
-771. [H Company's new Holo2 model takes the lead in UI Localization](../../ai/models/huggingface-blog-hcompany-introducing-holo2-235b-a22b.md) ([Source](https://huggingface.co/blog/hcompany/introducing-holo2-235b-a22b)) - `ai/models`
-772. [Open R1: How to use OlympicCoder locally for coding](../../ai/models/huggingface-blog-olympic-coder-lmstudio.md) ([Source](https://huggingface.co/blog/olympic-coder-lmstudio)) - `ai/models`
-773. [Llama 3.1 - 405B, 70B & 8B with multilinguality and long context](../../ai/models/huggingface-blog-llama31.md) ([Source](https://huggingface.co/blog/llama31)) - `ai/models`
-774. [Fine-tuning Stable Diffusion models on Intel CPUs](../../ai/models/huggingface-blog-stable-diffusion-finetuning-intel.md) ([Source](https://huggingface.co/blog/stable-diffusion-finetuning-intel)) - `ai/models`
-775. [Let's talk about biases in machine learning! Ethics and Society Newsletter #2](../../ai/models/huggingface-blog-ethics-soc-2.md) ([Source](https://huggingface.co/blog/ethics-soc-2)) - `ai/models`
-776. [Why Specialization Is Inevitable](../../ai/models/huggingface-blog-dharma-ai-why-specialization-is-inevitable.md) ([Source](https://huggingface.co/blog/dharma-ai/why-specialization-is-inevitable)) - `ai/models`
-777. [Evaluating Language Model Bias with 🤗 Evaluate](../../ai/models/huggingface-blog-evaluating-llm-bias.md) ([Source](https://huggingface.co/blog/evaluating-llm-bias)) - `ai/models`
-778. [LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](../../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md) ([Source](https://huggingface.co/blog/zero-shot-vqa-docmatix)) - `ai/models`
-779. [Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code](../../ai/models/huggingface-blog-optimum-nvidia.md) ([Source](https://huggingface.co/blog/optimum-nvidia)) - `ai/models`
-780. [Mixture of Experts (MoEs) in Transformers](../../ai/models/huggingface-blog-moe-transformers.md) ([Source](https://huggingface.co/blog/moe-transformers)) - `ai/models`
-781. [SyGra: The One-Stop Framework for Building Data for LLMs and SLMs](../../ai/models/huggingface-blog-servicenow-ai-sygra-data-gen-framework.md) ([Source](https://huggingface.co/blog/servicenow-ai/sygra-data-gen-framework)) - `ai/models`
-782. [Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker](../../ai/models/huggingface-blog-sagemaker-distributed-training-seq2seq.md) ([Source](https://huggingface.co/blog/sagemaker-distributed-training-seq2seq)) - `ai/models`
-783. [Fixing Open LLM Leaderboard with Math-Verify](../../ai/models/huggingface-blog-math-verify-leaderboard.md) ([Source](https://huggingface.co/blog/math_verify_leaderboard)) - `ai/models`
-784. [Granite 4.0 Nano: Just how small can you go?](../../ai/models/huggingface-blog-ibm-granite-granite-4-nano.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-nano)) - `ai/models`
-785. [The Falcon has landed in the Hugging Face ecosystem](../../ai/models/huggingface-blog-falcon.md) ([Source](https://huggingface.co/blog/falcon)) - `ai/models`
-786. [Nemotron-Personas-Japan: ソブリン AI のための合成データセット](../../ai/models/huggingface-blog-nvidia-nemotron-personas-japan-ja.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja)) - `ai/models`
-787. [AudioLDM 2, but faster ⚡️](../../ai/models/huggingface-blog-audioldm2.md) ([Source](https://huggingface.co/blog/audioldm2)) - `ai/models`
-788. [Share your open ML datasets on Hugging Face Hub!](../../ai/models/huggingface-blog-researcher-dataset-sharing.md) ([Source](https://huggingface.co/blog/researcher-dataset-sharing)) - `ai/models`
-789. [Welcome Gemma 2 - Google’s new open LLM](../../ai/models/huggingface-blog-gemma2.md) ([Source](https://huggingface.co/blog/gemma2)) - `ai/models`
-790. [SigLIP 2: A better multilingual vision language encoder](../../ai/models/huggingface-blog-siglip2.md) ([Source](https://huggingface.co/blog/siglip2)) - `ai/models`
-791. [Xet is on the Hub](../../ai/models/huggingface-blog-xet-on-the-hub.md) ([Source](https://huggingface.co/blog/xet-on-the-hub)) - `ai/models`
-792. [Welcome aMUSEd: Efficient Text-to-Image Generation](../../ai/models/huggingface-blog-amused.md) ([Source](https://huggingface.co/blog/amused)) - `ai/models`
-793. [Deploying Speech-to-Speech on Hugging Face](../../ai/models/huggingface-blog-s2s-endpoint.md) ([Source](https://huggingface.co/blog/s2s_endpoint)) - `ai/models`
-794. [Training CodeParrot 🦜 from Scratch](../../ai/models/huggingface-blog-codeparrot.md) ([Source](https://huggingface.co/blog/codeparrot)) - `ai/models`
-795. [Falcon-Arabic: A Breakthrough in Arabic Language Models](../../ai/models/huggingface-blog-tiiuae-falcon-arabic.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-arabic)) - `ai/models`
-796. [Exploring the Daily Papers Page on Hugging Face](../../ai/models/huggingface-blog-daily-papers.md) ([Source](https://huggingface.co/blog/daily-papers)) - `ai/models`
-797. [🤗 Kernels: Major Updates](../../ai/models/huggingface-blog-revamped-kernels.md) ([Source](https://huggingface.co/blog/revamped-kernels)) - `ai/models`
-798. [AI Policy @🤗: Open ML Considerations in the EU AI Act](../../ai/models/huggingface-blog-eu-ai-act-oss.md) ([Source](https://huggingface.co/blog/eu-ai-act-oss)) - `ai/models`
-799. [Bamba: Inference-Efficient Hybrid Mamba2 Model](../../ai/models/huggingface-blog-bamba.md) ([Source](https://huggingface.co/blog/bamba)) - `ai/models`
-800. [Building an AI WebTV](../../ai/models/huggingface-blog-ai-webtv.md) ([Source](https://huggingface.co/blog/ai-webtv)) - `ai/models`
-801. [Introducing Spaces Dev Mode for a seamless developer experience](../../ai/models/huggingface-blog-spaces-dev-mode.md) ([Source](https://huggingface.co/blog/spaces-dev-mode)) - `ai/models`
-802. [SmolVLM2: Bringing Video Understanding to Every Device](../../ai/models/huggingface-blog-smolvlm2.md) ([Source](https://huggingface.co/blog/smolvlm2)) - `ai/models`
-803. [AI for Game Development: Creating a Farming Game in 5 Days. Part 1](../../ai/models/huggingface-blog-ml-for-games-1.md) ([Source](https://huggingface.co/blog/ml-for-games-1)) - `ai/models`
-804. [Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure](../../ai/models/huggingface-blog-hugging-face-endpoints-on-azure.md) ([Source](https://huggingface.co/blog/hugging-face-endpoints-on-azure)) - `ai/models`
-805. [Data Is Better Together: A Look Back and Forward](../../ai/models/huggingface-blog-dibt.md) ([Source](https://huggingface.co/blog/dibt)) - `ai/models`
-806. [Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC](../../ai/models/huggingface-blog-fastrtc-cloudflare.md) ([Source](https://huggingface.co/blog/fastrtc-cloudflare)) - `ai/models`
-807. [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](../../ai/models/huggingface-blog-nunchaku-diffusers.md) ([Source](https://huggingface.co/blog/nunchaku-diffusers)) - `ai/models`
-808. [Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets](../../ai/models/huggingface-blog-data-measurements-tool.md) ([Source](https://huggingface.co/blog/data-measurements-tool)) - `ai/models`
-809. [Open-R1: a fully open reproduction of DeepSeek-R1](../../ai/models/huggingface-blog-open-r1.md) ([Source](https://huggingface.co/blog/open-r1)) - `ai/models`
-810. [Open-Source Text Generation & LLM Ecosystem at Hugging Face](../../ai/models/huggingface-blog-os-llms.md) ([Source](https://huggingface.co/blog/os-llms)) - `ai/models`
-811. [Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](../../ai/models/huggingface-blog-infrastructure-alerting.md) ([Source](https://huggingface.co/blog/infrastructure-alerting)) - `ai/models`
-812. [Total noob’s intro to Hugging Face Transformers](../../ai/models/huggingface-blog-noob-intro-transformers.md) ([Source](https://huggingface.co/blog/noob_intro_transformers)) - `ai/models`
-813. [Making sense of this mess](../../ai/models/huggingface-blog-transformers-docs-redesign.md) ([Source](https://huggingface.co/blog/transformers-docs-redesign)) - `ai/models`
-814. [Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-xlsr-wav2vec2.md) ([Source](https://huggingface.co/blog/fine-tune-xlsr-wav2vec2)) - `ai/models`
-815. [Introducing the Open FinLLM Leaderboard](../../ai/models/huggingface-blog-leaderboard-finbench.md) ([Source](https://huggingface.co/blog/leaderboard-finbench)) - `ai/models`
-816. [Introducing Würstchen: Fast Diffusion for Image Generation](../../ai/models/huggingface-blog-wuerstchen.md) ([Source](https://huggingface.co/blog/wuerstchen)) - `ai/models`
-817. [Introducing Hugging Face for Education 🤗](../../ai/models/huggingface-blog-education.md) ([Source](https://huggingface.co/blog/education)) - `ai/models`
-818. [Diffusers welcomes Stable Diffusion 3](../../ai/models/huggingface-blog-sd3.md) ([Source](https://huggingface.co/blog/sd3)) - `ai/models`
-819. [Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community](../../ai/models/huggingface-blog-chinese-language-blog.md) ([Source](https://huggingface.co/blog/chinese-language-blog)) - `ai/models`
-820. [Scaling robotics datasets with video encoding](../../ai/models/huggingface-blog-video-encoding.md) ([Source](https://huggingface.co/blog/video-encoding)) - `ai/models`
-821. [1 Billion Classifications](../../ai/models/huggingface-blog-billion-classifications.md) ([Source](https://huggingface.co/blog/billion-classifications)) - `ai/models`
-822. [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](../../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-3.md) ([Source](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3)) - `ai/models`
-823. [CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models](../../ai/models/huggingface-blog-leaderboard-llamaguard.md) ([Source](https://huggingface.co/blog/leaderboard-llamaguard)) - `ai/models`
-824. [Any Custom Frontend with Gradio's Backend](../../ai/models/huggingface-blog-introducing-gradio-server.md) ([Source](https://huggingface.co/blog/introducing-gradio-server)) - `ai/models`
-825. [Featherless AI on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-inference-providers-featherless.md) ([Source](https://huggingface.co/blog/inference-providers-featherless)) - `ai/models`
-826. [Converting Vertex-Colored Meshes to Textured Meshes](../../ai/models/huggingface-blog-vertex-colored-to-textured-mesh.md) ([Source](https://huggingface.co/blog/vertex-colored-to-textured-mesh)) - `ai/models`
-827. [Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum](../../ai/models/huggingface-blog-train-optimize-sd-intel.md) ([Source](https://huggingface.co/blog/train-optimize-sd-intel)) - `ai/models`
-828. [Accelerating Stable Diffusion Inference on Intel CPUs](../../ai/models/huggingface-blog-stable-diffusion-inference-intel.md) ([Source](https://huggingface.co/blog/stable-diffusion-inference-intel)) - `ai/models`
-829. [Train and Fine-Tune Sentence Transformers Models](../../ai/models/huggingface-blog-how-to-train-sentence-transformers.md) ([Source](https://huggingface.co/blog/how-to-train-sentence-transformers)) - `ai/models`
-830. [Profiling in PyTorch (Part 3): Attention is all you profile](../../ai/models/huggingface-blog-torch-attention-profile.md) ([Source](https://huggingface.co/blog/torch-attention-profile)) - `ai/models`
-831. [Getting Started with Hugging Face Transformers for IPUs with Optimum](../../ai/models/huggingface-blog-graphcore-getting-started.md) ([Source](https://huggingface.co/blog/graphcore-getting-started)) - `ai/models`
-832. [Join the AMD Open Robotics Hackathon](../../ai/models/huggingface-blog-amd-openroboticshackathon.md) ([Source](https://huggingface.co/blog/amd/openroboticshackathon)) - `ai/models`
-833. [Arm will be @ PyTorch Conference, Join Us!](../../ai/models/huggingface-blog-arm-arm-at-pytorch-conference.md) ([Source](https://huggingface.co/blog/arm/arm-at-pytorch-conference)) - `ai/models`
-834. [SmolLM3: smol, multilingual, long-context reasoner](../../ai/models/huggingface-blog-smollm3.md) ([Source](https://huggingface.co/blog/smollm3)) - `ai/models`
-835. [Welcome spaCy to the Hugging Face Hub](../../ai/models/huggingface-blog-spacy.md) ([Source](https://huggingface.co/blog/spacy)) - `ai/models`
-836. [Hugging Face on AMD Instinct MI300 GPU](../../ai/models/huggingface-blog-huggingface-amd-mi300.md) ([Source](https://huggingface.co/blog/huggingface-amd-mi300)) - `ai/models`
-837. [Using Stable Diffusion with Core ML on Apple Silicon](../../ai/models/huggingface-blog-diffusers-coreml.md) ([Source](https://huggingface.co/blog/diffusers-coreml)) - `ai/models`
-838. [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md) ([Source](https://huggingface.co/blog/leaderboard-artificial-analysis2)) - `ai/models`
-839. [Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers](../../ai/models/huggingface-blog-graphcore-update.md) ([Source](https://huggingface.co/blog/graphcore-update)) - `ai/models`
-840. [Building Blocks for Foundation Model Training and Inference on AWS](../../ai/models/huggingface-blog-amazon-foundation-model-building-blocks.md) ([Source](https://huggingface.co/blog/amazon/foundation-model-building-blocks)) - `ai/models`
-841. [Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages](../../ai/models/huggingface-blog-falcon2-11b.md) ([Source](https://huggingface.co/blog/falcon2-11b)) - `ai/models`
-842. [OpenRAIL: Towards open and responsible AI licensing frameworks](../../ai/models/huggingface-blog-open-rail.md) ([Source](https://huggingface.co/blog/open_rail)) - `ai/models`
-843. [Goodbye cold boot - how we made LoRA Inference 300% faster](../../ai/models/huggingface-blog-lora-adapters-dynamic-loading.md) ([Source](https://huggingface.co/blog/lora-adapters-dynamic-loading)) - `ai/models`
-844. [Generate Images with Claude and Hugging Face](../../ai/models/huggingface-blog-claude-and-mcp.md) ([Source](https://huggingface.co/blog/claude-and-mcp)) - `ai/models`
-845. [Visualize proteins on Hugging Face Spaces](../../ai/models/huggingface-blog-spaces-3dmoljs.md) ([Source](https://huggingface.co/blog/spaces_3dmoljs)) - `ai/models`
-846. [Introducing the SQL Console on Datasets](../../ai/models/huggingface-blog-sql-console.md) ([Source](https://huggingface.co/blog/sql-console)) - `ai/models`
-847. [🇨🇿 BenCzechMark - Can your LLM Understand Czech?](../../ai/models/huggingface-blog-benczechmark.md) ([Source](https://huggingface.co/blog/benczechmark)) - `ai/models`
-848. [LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?](../../ai/models/huggingface-blog-lerobot-datasets.md) ([Source](https://huggingface.co/blog/lerobot-datasets)) - `ai/models`
-849. [Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-whisper.md) ([Source](https://huggingface.co/blog/fine-tune-whisper)) - `ai/models`
-850. [Panel on Hugging Face](../../ai/models/huggingface-blog-panel-on-hugging-face.md) ([Source](https://huggingface.co/blog/panel-on-hugging-face)) - `ai/models`
-851. [BERT 101 - State Of The Art NLP Model Explained](../../ai/models/huggingface-blog-bert-101.md) ([Source](https://huggingface.co/blog/bert-101)) - `ai/models`
-852. [Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](../../ai/models/huggingface-blog-lerobotxnvidia-healthcare.md) ([Source](https://huggingface.co/blog/lerobotxnvidia-healthcare)) - `ai/models`
-853. [Making Knowledge Distillation Cheap Enough to Run at Scale](../../ai/models/huggingface-blog-multiversecomputingcai-efficient-knowledge-distillation.md) ([Source](https://huggingface.co/blog/multiversecomputingcai/efficient-knowledge-distillation)) - `ai/models`
-854. [Baseten on Hugging Face Inference Providers 🔥](../../ai/models/huggingface-blog-baseten.md) ([Source](https://huggingface.co/blog/baseten)) - `ai/models`
-855. [Introducing AI Sheets: a tool to work with datasets using open AI models!](../../ai/models/huggingface-blog-aisheets.md) ([Source](https://huggingface.co/blog/aisheets)) - `ai/models`
-856. [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](../../ai/models/huggingface-blog-embedding-quantization.md) ([Source](https://huggingface.co/blog/embedding-quantization)) - `ai/models`
-857. [2024 Security Feature Highlights](../../ai/models/huggingface-blog-2024-security-features.md) ([Source](https://huggingface.co/blog/2024-security-features)) - `ai/models`
-858. [Preference Optimization for Vision Language Models](../../ai/models/huggingface-blog-dpo-vlm.md) ([Source](https://huggingface.co/blog/dpo_vlm)) - `ai/models`
-859. [Experimenting with the proposed Cross-Origin Storage API in Transformers.js](../../ai/rag/huggingface-blog-cross-origin-storage.md) ([Source](https://huggingface.co/blog/cross-origin-storage)) - `ai/rag`
-860. [Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](../../ai/rag/huggingface-blog-digital-green-llm-judge.md) ([Source](https://huggingface.co/blog/digital-green-llm-judge)) - `ai/rag`
-861. [Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More](../../ai/rag/huggingface-blog-leaderboard-3c3h-aragen-ifeval.md) ([Source](https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval)) - `ai/rag`
-862. [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](../../ai/rag/huggingface-blog-amazon-strands-lerobot-streaming-data-loop.md) ([Source](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)) - `ai/rag`
-863. [CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG](../../ai/rag/huggingface-blog-intel-fast-embedding.md) ([Source](https://huggingface.co/blog/intel-fast-embedding)) - `ai/rag`
-864. [Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models](../../ai/rag/huggingface-blog-warm-starting-encoder-decoder.md) ([Source](https://huggingface.co/blog/warm-starting-encoder-decoder)) - `ai/rag`
-865. [Parquet Content-Defined Chunking](../../ai/rag/huggingface-blog-parquet-cdc.md) ([Source](https://huggingface.co/blog/parquet-cdc)) - `ai/rag`
-866. [Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon](../../ai/rag/huggingface-blog-cost-efficient-rag-applications-with-intel.md) ([Source](https://huggingface.co/blog/cost-efficient-rag-applications-with-intel)) - `ai/rag`
-867. [Getting Started With Embeddings](../../ai/rag/huggingface-blog-getting-started-with-embeddings.md) ([Source](https://huggingface.co/blog/getting-started-with-embeddings)) - `ai/rag`
-868. [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](../../ai/rag/huggingface-blog-sempre-health-eap-case-study.md) ([Source](https://huggingface.co/blog/sempre-health-eap-case-study)) - `ai/rag`
-869. [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](../../ai/rag/huggingface-blog-skypilot-hf-storage.md) ([Source](https://huggingface.co/blog/skypilot-hf-storage)) - `ai/rag`
-870. [Introducing Storage Buckets on the Hugging Face Hub](../../ai/rag/huggingface-blog-storage-buckets.md) ([Source](https://huggingface.co/blog/storage-buckets)) - `ai/rag`
-871. [Leveraging Hugging Face for complex generative AI use cases](../../ai/rag/huggingface-blog-writer-case-study.md) ([Source](https://huggingface.co/blog/writer-case-study)) - `ai/rag`
-872. [From Files to Chunks: Improving HF Storage Efficiency](../../ai/rag/huggingface-blog-from-files-to-chunks.md) ([Source](https://huggingface.co/blog/from-files-to-chunks)) - `ai/rag`
-873. [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](../../ai/rag/huggingface-blog-prezi-case-study.md) ([Source](https://huggingface.co/blog/prezi-case-study)) - `ai/rag`
-874. [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../../ai/rag/huggingface-blog-ibm-granite-granite-embedding-multilingual-r2.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2)) - `ai/rag`
-875. [How we leveraged distilabel to create an Argilla 2.0 Chatbot](../../ai/rag/huggingface-blog-argilla-chatbot.md) ([Source](https://huggingface.co/blog/argilla-chatbot)) - `ai/rag`
-876. [Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard](../../ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md) ([Source](https://huggingface.co/blog/leaderboard-3c3h-aragen)) - `ai/rag`
-877. [Introducing Storage Regions on the HF Hub](../../ai/rag/huggingface-blog-regions.md) ([Source](https://huggingface.co/blog/regions)) - `ai/rag`
-878. [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](../../ai/rag/huggingface-blog-allenai-olmoearth-embeddings.md) ([Source](https://huggingface.co/blog/allenai/olmoearth-embeddings)) - `ai/rag`
+726. [Train and Fine-Tune Sentence Transformers Models](../../ai/models/huggingface-blog-how-to-train-sentence-transformers.md) ([Source](https://huggingface.co/blog/how-to-train-sentence-transformers)) - `ai/models`
+727. [Proximal Policy Optimization (PPO)](../../ai/models/huggingface-blog-deep-rl-ppo.md) ([Source](https://huggingface.co/blog/deep-rl-ppo)) - `ai/models`
+728. [Introducing the Private Hub: A New Way to Build With Machine Learning](../../ai/models/huggingface-blog-introducing-private-hub.md) ([Source](https://huggingface.co/blog/introducing-private-hub)) - `ai/models`
+729. [Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method](../../ai/models/huggingface-blog-nystromformer.md) ([Source](https://huggingface.co/blog/nystromformer)) - `ai/models`
+730. [Comments on U.S. National AI Research Resource Interim Report](../../ai/models/huggingface-blog-us-national-ai-research-resource.md) ([Source](https://huggingface.co/blog/us-national-ai-research-resource)) - `ai/models`
+731. [Introducing new audio and vision documentation in 🤗 Datasets](../../ai/models/huggingface-blog-datasets-docs-update.md) ([Source](https://huggingface.co/blog/datasets-docs-update)) - `ai/models`
+732. [Faster Text Generation with TensorFlow and XLA](../../ai/models/huggingface-blog-tf-xla-generate.md) ([Source](https://huggingface.co/blog/tf-xla-generate)) - `ai/models`
+733. [Deploying TensorFlow Vision Models in Hugging Face with TF Serving](../../ai/models/huggingface-blog-tf-serving-vision.md) ([Source](https://huggingface.co/blog/tf-serving-vision)) - `ai/models`
+734. [Advantage Actor Critic (A2C)](../../ai/models/huggingface-blog-deep-rl-a2c.md) ([Source](https://huggingface.co/blog/deep-rl-a2c)) - `ai/models`
+735. [How to train your model dynamically using adversarial data](../../ai/models/huggingface-blog-mnist-adversarial.md) ([Source](https://huggingface.co/blog/mnist-adversarial)) - `ai/models`
+736. [The Technology Behind BLOOM Training](../../ai/models/huggingface-blog-bloom-megatron-deepspeed.md) ([Source](https://huggingface.co/blog/bloom-megatron-deepspeed)) - `ai/models`
+737. [Building a Playlist Generator with Sentence Transformers](../../ai/models/huggingface-blog-playlist-generator.md) ([Source](https://huggingface.co/blog/playlist-generator)) - `ai/models`
+738. [Introducing The World's Largest Open Multilingual Language Model: BLOOM](../../ai/models/huggingface-blog-bloom.md) ([Source](https://huggingface.co/blog/bloom)) - `ai/models`
+739. [Getting Started with Sentiment Analysis on Twitter](../../ai/models/huggingface-blog-sentiment-analysis-twitter.md) ([Source](https://huggingface.co/blog/sentiment-analysis-twitter)) - `ai/models`
+740. [Policy Gradient with PyTorch](../../ai/models/huggingface-blog-deep-rl-pg.md) ([Source](https://huggingface.co/blog/deep-rl-pg)) - `ai/models`
+741. [Liftoff! How to get started with your first ML project 🚀](../../ai/models/huggingface-blog-your-first-ml-project.md) ([Source](https://huggingface.co/blog/your-first-ml-project)) - `ai/models`
+742. [Accelerate Large Model Training using DeepSpeed](../../ai/models/huggingface-blog-accelerate-deepspeed.md) ([Source](https://huggingface.co/blog/accelerate-deepspeed)) - `ai/models`
+743. [Announcing Evaluation on the Hub](../../ai/models/huggingface-blog-eval-on-the-hub.md) ([Source](https://huggingface.co/blog/eval-on-the-hub)) - `ai/models`
+744. [Getting Started With Embeddings](../../ai/rag/huggingface-blog-getting-started-with-embeddings.md) ([Source](https://huggingface.co/blog/getting-started-with-embeddings)) - `ai/rag`
+745. [Convert Transformers to ONNX with Hugging Face Optimum](../../ai/models/huggingface-blog-convert-transformers-to-onnx.md) ([Source](https://huggingface.co/blog/convert-transformers-to-onnx)) - `ai/models`
+746. [Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration](../../ai/models/huggingface-blog-intel.md) ([Source](https://huggingface.co/blog/intel)) - `ai/models`
+747. [Director of Machine Learning Insights [Part 3: Finance Edition]](../../ai/models/huggingface-blog-ml-director-insights-3.md) ([Source](https://huggingface.co/blog/ml-director-insights-3)) - `ai/models`
+748. [The Annotated Diffusion Model](../../ai/models/huggingface-blog-annotated-diffusion.md) ([Source](https://huggingface.co/blog/annotated-diffusion)) - `ai/models`
+749. [Deep Q-Learning with Space Invaders](../../ai/models/huggingface-blog-deep-rl-dqn.md) ([Source](https://huggingface.co/blog/deep-rl-dqn)) - `ai/models`
+750. [Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers](../../ai/models/huggingface-blog-graphcore-update.md) ([Source](https://huggingface.co/blog/graphcore-update)) - `ai/models`
+751. [Introducing Pull Requests and Discussions 🥳](../../ai/models/huggingface-blog-community-update.md) ([Source](https://huggingface.co/blog/community-update)) - `ai/models`
+752. [Efficient Table Pre-training without Real Data: An Introduction to TAPEX](../../ai/models/huggingface-blog-tapex.md) ([Source](https://huggingface.co/blog/tapex)) - `ai/models`
+753. [An Introduction to Q-Learning Part 2/2](../../ai/models/huggingface-blog-deep-rl-q-part2.md) ([Source](https://huggingface.co/blog/deep-rl-q-part2)) - `ai/models`
+754. [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](../../ai/rag/huggingface-blog-sempre-health-eap-case-study.md) ([Source](https://huggingface.co/blog/sempre-health-eap-case-study)) - `ai/rag`
+755. [Putting ethical principles at the core of the research lifecycle](../../ai/models/huggingface-blog-ethical-charter-multimodal.md) ([Source](https://huggingface.co/blog/ethical-charter-multimodal)) - `ai/models`
+756. [An Introduction to Q-Learning Part 1](../../ai/models/huggingface-blog-deep-rl-q-part1.md) ([Source](https://huggingface.co/blog/deep-rl-q-part1)) - `ai/models`
+757. [Machine Learning Experts - Sasha Luccioni](../../ai/models/huggingface-blog-sasha-luccioni-interview.md) ([Source](https://huggingface.co/blog/sasha-luccioni-interview)) - `ai/models`
+758. [Announcing the Hugging Face Fellowship Program](../../ai/models/huggingface-blog-fellowship.md) ([Source](https://huggingface.co/blog/fellowship)) - `ai/models`
+759. [Gradio 3.0 is Out!](../../ai/models/huggingface-blog-gradio-blocks.md) ([Source](https://huggingface.co/blog/gradio-blocks)) - `ai/models`
+760. [Director of Machine Learning Insights [Part 2: SaaS Edition]](../../ai/models/huggingface-blog-ml-director-insights-2.md) ([Source](https://huggingface.co/blog/ml-director-insights-2)) - `ai/models`
+761. [Student Ambassador Program’s call for applications is open!](../../ai/models/huggingface-blog-ambassadors.md) ([Source](https://huggingface.co/blog/ambassadors)) - `ai/models`
+762. [Accelerated Inference with Optimum and Transformers Pipelines](../../ai/models/huggingface-blog-optimum-inference.md) ([Source](https://huggingface.co/blog/optimum-inference)) - `ai/models`
+763. [We Raised $100 Million for Open & Collaborative Machine Learning 🚀](../../ai/models/huggingface-blog-series-c.md) ([Source](https://huggingface.co/blog/series-c)) - `ai/models`
+764. [Welcome fastai to the Hugging Face Hub](../../ai/models/huggingface-blog-fastai.md) ([Source](https://huggingface.co/blog/fastai)) - `ai/models`
+765. [An Introduction to Deep Reinforcement Learning](../../ai/models/huggingface-blog-deep-rl-intro.md) ([Source](https://huggingface.co/blog/deep-rl-intro)) - `ai/models`
+766. [Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](../../ai/models/huggingface-blog-pytorch-fsdp.md) ([Source](https://huggingface.co/blog/pytorch-fsdp)) - `ai/models`
+767. [Opinion Classification with Kili and HuggingFace AutoTrain](../../ai/models/huggingface-blog-opinion-classification-with-kili.md) ([Source](https://huggingface.co/blog/opinion-classification-with-kili)) - `ai/models`
+768. [Director of Machine Learning Insights](../../ai/models/huggingface-blog-ml-director-insights.md) ([Source](https://huggingface.co/blog/ml-director-insights)) - `ai/models`
+769. [Getting Started with Transformers on Habana Gaudi](../../ai/models/huggingface-blog-getting-started-habana.md) ([Source](https://huggingface.co/blog/getting-started-habana)) - `ai/models`
+770. [Introducing Hugging Face for Education 🤗](../../ai/models/huggingface-blog-education.md) ([Source](https://huggingface.co/blog/education)) - `ai/models`
+771. [Supercharged Customer Service with Machine Learning](../../ai/models/huggingface-blog-supercharge-customer-service-with-machine-learning.md) ([Source](https://huggingface.co/blog/supercharge-customer-service-with-machine-learning)) - `ai/models`
+772. [CO2 Emissions and the 🤗 Hub: Leading the Charge](../../ai/models/huggingface-blog-carbon-emissions-on-the-hub.md) ([Source](https://huggingface.co/blog/carbon-emissions-on-the-hub)) - `ai/models`
+773. [Machine Learning Experts - Lewis Tunstall](../../ai/models/huggingface-blog-lewis-tunstall-interview.md) ([Source](https://huggingface.co/blog/lewis-tunstall-interview)) - `ai/models`
+774. [Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training](../../ai/models/huggingface-blog-habana.md) ([Source](https://huggingface.co/blog/habana)) - `ai/models`
+775. [~Don't~ Repeat Yourself](../../ai/models/huggingface-blog-transformers-design-philosophy.md) ([Source](https://huggingface.co/blog/transformers-design-philosophy)) - `ai/models`
+776. [Introducing Decision Transformers on Hugging Face 🤗](../../ai/models/huggingface-blog-decision-transformers.md) ([Source](https://huggingface.co/blog/decision-transformers)) - `ai/models`
+777. [Machine Learning Experts - Margaret Mitchell](../../ai/models/huggingface-blog-meg-mitchell-interview.md) ([Source](https://huggingface.co/blog/meg-mitchell-interview)) - `ai/models`
+778. [Announcing the 🤗 AI Research Residency Program](../../ai/models/huggingface-blog-ai-residency.md) ([Source](https://huggingface.co/blog/ai-residency)) - `ai/models`
+779. [Fine-Tune a Semantic Segmentation Model with a Custom Dataset](../../ai/models/huggingface-blog-fine-tune-segformer.md) ([Source](https://huggingface.co/blog/fine-tune-segformer)) - `ai/models`
+780. [Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia](../../ai/models/huggingface-blog-bert-inferentia-sagemaker.md) ([Source](https://huggingface.co/blog/bert-inferentia-sagemaker)) - `ai/models`
+781. [Image search with 🤗 datasets](../../ai/models/huggingface-blog-image-search-datasets.md) ([Source](https://huggingface.co/blog/image-search-datasets)) - `ai/models`
+782. [Guiding Text Generation with Constrained Beam Search in 🤗 Transformers](../../ai/models/huggingface-blog-constrained-beam-search.md) ([Source](https://huggingface.co/blog/constrained-beam-search)) - `ai/models`
+783. [BERT 101 - State Of The Art NLP Model Explained](../../ai/models/huggingface-blog-bert-101.md) ([Source](https://huggingface.co/blog/bert-101)) - `ai/models`
+784. [Fine-Tune ViT for Image Classification with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-vit.md) ([Source](https://huggingface.co/blog/fine-tune-vit)) - `ai/models`
+785. [Getting Started with Sentiment Analysis using Python](../../ai/models/huggingface-blog-sentiment-analysis-python.md) ([Source](https://huggingface.co/blog/sentiment-analysis-python)) - `ai/models`
+786. [Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers](../../ai/models/huggingface-blog-asr-chunking.md) ([Source](https://huggingface.co/blog/asr-chunking)) - `ai/models`
+787. [Supercharged Searching on the 🤗 Hub](../../ai/models/huggingface-blog-searching-the-hub.md) ([Source](https://huggingface.co/blog/searching-the-hub)) - `ai/models`
+788. [Welcome Stable-baselines3 to the Hugging Face Hub 🤗](../../ai/models/huggingface-blog-sb3.md) ([Source](https://huggingface.co/blog/sb3)) - `ai/models`
+789. [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](../../ai/models/huggingface-blog-infinity-cpu-performance.md) ([Source](https://huggingface.co/blog/infinity-cpu-performance)) - `ai/models`
+790. [Boosting Wav2Vec2 with n-grams in 🤗 Transformers](../../ai/models/huggingface-blog-wav2vec2-with-ngram.md) ([Source](https://huggingface.co/blog/wav2vec2-with-ngram)) - `ai/models`
+791. [Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker](../../ai/models/huggingface-blog-gptj-sagemaker.md) ([Source](https://huggingface.co/blog/gptj-sagemaker)) - `ai/models`
+792. [Active Learning with AutoNLP and Prodigy](../../ai/models/huggingface-blog-autonlp-prodigy.md) ([Source](https://huggingface.co/blog/autonlp-prodigy)) - `ai/models`
+793. [Gradio is joining Hugging Face!](../../ai/models/huggingface-blog-gradio-joins-hf.md) ([Source](https://huggingface.co/blog/gradio-joins-hf)) - `ai/models`
+794. [Perceiver IO: a scalable, fully-attentional model that works on any modality](../../ai/models/huggingface-blog-perceiver.md) ([Source](https://huggingface.co/blog/perceiver)) - `ai/models`
+795. [Training CodeParrot 🦜 from Scratch](../../ai/models/huggingface-blog-codeparrot.md) ([Source](https://huggingface.co/blog/codeparrot)) - `ai/models`
+796. [Introducing Snowball Fight ☃️, our first ML-Agents environment](../../ai/agents/huggingface-blog-snowball-fight.md) ([Source](https://huggingface.co/blog/snowball-fight)) - `ai/agents`
+797. [Getting Started with Hugging Face Transformers for IPUs with Optimum](../../ai/models/huggingface-blog-graphcore-getting-started.md) ([Source](https://huggingface.co/blog/graphcore-getting-started)) - `ai/models`
+798. [Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets](../../ai/models/huggingface-blog-data-measurements-tool.md) ([Source](https://huggingface.co/blog/data-measurements-tool)) - `ai/models`
+799. [Accelerating PyTorch distributed fine-tuning with Intel technologies](../../ai/models/huggingface-blog-accelerating-pytorch.md) ([Source](https://huggingface.co/blog/accelerating-pytorch)) - `ai/models`
+800. [Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-xlsr-wav2vec2.md) ([Source](https://huggingface.co/blog/fine-tune-xlsr-wav2vec2)) - `ai/models`
+801. [Scaling up BERT-like model Inference on modern CPU - Part 2](../../ai/models/huggingface-blog-bert-cpu-scaling-part-2.md) ([Source](https://huggingface.co/blog/bert-cpu-scaling-part-2)) - `ai/models`
+802. [Course Launch Community Event](../../ai/models/huggingface-blog-course-launch-event.md) ([Source](https://huggingface.co/blog/course-launch-event)) - `ai/models`
+803. [Large Language Models: A New Moore's Law?](../../ai/models/huggingface-blog-large-language-models.md) ([Source](https://huggingface.co/blog/large-language-models)) - `ai/models`
+804. [Train a Sentence Embedding Model with 1B Training Pairs](../../ai/models/huggingface-blog-1b-sentence-embeddings.md) ([Source](https://huggingface.co/blog/1b-sentence-embeddings)) - `ai/models`
+805. [The Age of Machine Learning As Code Has Arrived](../../ai/models/huggingface-blog-the-age-of-ml-as-code.md) ([Source](https://huggingface.co/blog/the-age-of-ml-as-code)) - `ai/models`
+806. [Fine tuning CLIP with Remote Sensing (Satellite) images and captions](../../ai/models/huggingface-blog-fine-tune-clip-rsicd.md) ([Source](https://huggingface.co/blog/fine-tune-clip-rsicd)) - `ai/models`
+807. [Hosting your Models and Datasets on Hugging Face Spaces using Streamlit](../../ai/models/huggingface-blog-streamlit-spaces.md) ([Source](https://huggingface.co/blog/streamlit-spaces)) - `ai/models`
+808. [Showcase Your Projects in Spaces using Gradio](../../ai/models/huggingface-blog-gradio-spaces.md) ([Source](https://huggingface.co/blog/gradio-spaces)) - `ai/models`
+809. [Summer at Hugging Face](../../ai/models/huggingface-blog-summer-at-huggingface.md) ([Source](https://huggingface.co/blog/summer-at-huggingface)) - `ai/models`
+810. [Hugging Face and Graphcore partner for IPU-optimized Transformers](../../ai/models/huggingface-blog-graphcore.md) ([Source](https://huggingface.co/blog/graphcore)) - `ai/models`
+811. [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](../../ai/models/huggingface-blog-hardware-partners-program.md) ([Source](https://huggingface.co/blog/hardware-partners-program)) - `ai/models`
+812. [Deep Learning over the Internet: Training Language Models Collaboratively](../../ai/models/huggingface-blog-collaborative-training.md) ([Source](https://huggingface.co/blog/collaborative-training)) - `ai/models`
+813. [Welcome spaCy to the Hugging Face Hub](../../ai/models/huggingface-blog-spacy.md) ([Source](https://huggingface.co/blog/spacy)) - `ai/models`
+814. [Deploy Hugging Face models easily with Amazon SageMaker](../../ai/models/huggingface-blog-deploy-hugging-face-models-easily-with-amazon-sagemaker.md) ([Source](https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker)) - `ai/models`
+815. [Sentence Transformers in the Hugging Face Hub](../../ai/models/huggingface-blog-sentence-transformers-in-the-hub.md) ([Source](https://huggingface.co/blog/sentence-transformers-in-the-hub)) - `ai/models`
+816. [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md) ([Source](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api)) - `ai/models`
+817. [Using & Mixing Hugging Face Models with Gradio 2.0](../../ai/models/huggingface-blog-gradio.md) ([Source](https://huggingface.co/blog/gradio)) - `ai/models`
+818. [Scaling-up BERT Inference on CPU (Part 1)](../../ai/models/huggingface-blog-bert-cpu-scaling-part-1.md) ([Source](https://huggingface.co/blog/bert-cpu-scaling-part-1)) - `ai/models`
+819. [Introducing 🤗 Accelerate](../../ai/models/huggingface-blog-accelerate-library.md) ([Source](https://huggingface.co/blog/accelerate-library)) - `ai/models`
+820. [Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker](../../ai/models/huggingface-blog-sagemaker-distributed-training-seq2seq.md) ([Source](https://huggingface.co/blog/sagemaker-distributed-training-seq2seq)) - `ai/models`
+821. [Understanding BigBird's Block Sparse Attention](../../ai/models/huggingface-blog-big-bird.md) ([Source](https://huggingface.co/blog/big-bird)) - `ai/models`
+822. [The Partnership: Amazon SageMaker and Hugging Face](../../ai/models/huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md) ([Source](https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face)) - `ai/models`
+823. [My Journey to a serverless transformers pipeline on Google Cloud](../../ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md) ([Source](https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds)) - `ai/models`
+824. [Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers](../../ai/models/huggingface-blog-fine-tune-wav2vec2-english.md) ([Source](https://huggingface.co/blog/fine-tune-wav2vec2-english)) - `ai/models`
+825. [Hugging Face Reads, Feb. 2021 - Long-range Transformers](../../ai/models/huggingface-blog-long-range-transformers.md) ([Source](https://huggingface.co/blog/long-range-transformers)) - `ai/models`
+826. [Simple considerations for simple people building fancy neural networks](../../ai/models/huggingface-blog-simple-considerations.md) ([Source](https://huggingface.co/blog/simple-considerations)) - `ai/models`
+827. [Retrieval Augmented Generation with Huggingface Transformers and Ray](../../ai/models/huggingface-blog-ray-rag.md) ([Source](https://huggingface.co/blog/ray-rag)) - `ai/models`
+828. [Hugging Face on PyTorch / XLA TPUs](../../ai/models/huggingface-blog-pytorch-xla.md) ([Source](https://huggingface.co/blog/pytorch-xla)) - `ai/models`
+829. [Faster TensorFlow models in Hugging Face Transformers](../../ai/models/huggingface-blog-tf-serving.md) ([Source](https://huggingface.co/blog/tf-serving)) - `ai/models`
+830. [Fit More and Train Faster With ZeRO via DeepSpeed and FairScale](../../ai/models/huggingface-blog-zero-deepspeed-fairscale.md) ([Source](https://huggingface.co/blog/zero-deepspeed-fairscale)) - `ai/models`
+831. [How we sped up transformer inference 100x for 🤗 API customers](../../ai/models/huggingface-blog-accelerated-inference.md) ([Source](https://huggingface.co/blog/accelerated-inference)) - `ai/models`
+832. [Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models](../../ai/rag/huggingface-blog-warm-starting-encoder-decoder.md) ([Source](https://huggingface.co/blog/warm-starting-encoder-decoder)) - `ai/rag`
+833. [Porting fairseq wmt19 translation system to transformers](../../ai/models/huggingface-blog-porting-fsmt.md) ([Source](https://huggingface.co/blog/porting-fsmt)) - `ai/models`
+834. [Hyperparameter Search with Transformers and Ray Tune](../../ai/models/huggingface-blog-ray-tune.md) ([Source](https://huggingface.co/blog/ray-tune)) - `ai/models`
+835. [Transformer-based Encoder-Decoder Models](../../ai/models/huggingface-blog-encoder-decoder.md) ([Source](https://huggingface.co/blog/encoder-decoder)) - `ai/models`
+836. [Block Sparse Matrices for Smaller and Faster Language Models](../../ai/models/huggingface-blog-pytorch-block-sparse.md) ([Source](https://huggingface.co/blog/pytorch_block_sparse)) - `ai/models`
+837. [The Reformer - Pushing the limits of language modeling](../../ai/models/huggingface-blog-reformer.md) ([Source](https://huggingface.co/blog/reformer)) - `ai/models`
+838. [How to generate text: using different decoding methods for language generation with Transformers](../../ai/models/huggingface-blog-how-to-generate.md) ([Source](https://huggingface.co/blog/how-to-generate)) - `ai/models`
+839. [How to train a new language model from scratch using Transformers and Tokenizers](../../ai/models/huggingface-blog-how-to-train.md) ([Source](https://huggingface.co/blog/how-to-train)) - `ai/models`
+840. [Engineering](../../ai/companies/openai/engineering.md) ([Source](https://openai.com/news/engineering)) - `ai/companies/openai`
+841. [Global Affairs](../../ai/companies/openai/global-affairs.md) ([Source](https://openai.com/news/global-affairs)) - `ai/companies/openai`
+842. [AI Adoption](../../ai/companies/openai/ai-adoption.md) ([Source](https://openai.com/news/ai-adoption)) - `ai/companies/openai`
+843. [Applied AI](../../ai/companies/openai/applied-ai.md) ([Source](https://openai.com/news/applied-ai)) - `ai/companies/openai`
+844. [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md) ([Source](https://anthropic.com/news/claude-sonnet-5)) - `ai/companies/anthropic`
+845. [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md) ([Source](https://anthropic.com/news/improving-fable-5-s-biology-safeguards)) - `ai/companies/anthropic`
+846. [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md) ([Source](https://anthropic.com/news/tino-cuellar)) - `ai/companies/anthropic`
+847. [Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations](../../ai/companies/anthropic/jul-30-2026investigating-three-real-world-incident.md) ([Source](https://anthropic.com/news/investigating-incidents-cybersecurity-evals)) - `ai/companies/anthropic`
+848. [Jul 27, 2026AnnouncementsOur position on open-weights models](../../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md) ([Source](https://anthropic.com/news/position-open-weights-models)) - `ai/companies/anthropic`
+849. [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md) ([Source](https://anthropic.com/news/cognizant-anthropic)) - `ai/companies/anthropic`
+850. [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md) ([Source](https://anthropic.com/news/economic-futures-research-fund-agenda)) - `ai/companies/anthropic`
+851. [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md) ([Source](https://anthropic.com/news/anthropic-economic-index-connector)) - `ai/companies/anthropic`
+852. [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md) ([Source](https://anthropic.com/news/donation-public-first-action)) - `ai/companies/anthropic`
+853. [Jul 20, 2026AnnouncementsApply for Anthropic’s AI for Science rare disease research grants](../../ai/companies/anthropic/jul-20-2026announcementsapply-for-anthropics-ai-fo.md) ([Source](https://anthropic.com/news/rare-disease-research-grants)) - `ai/companies/anthropic`
+854. [SIMA 2An agent that plays, reasons, and learns with you](../../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md) ([Source](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds)) - `ai/companies/deepmind`
+855. [AlphaEarthMap our planet in unprecedented detail](../../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md) ([Source](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail)) - `ai/companies/deepmind`
+856. [AlphaEvolveDesign advanced algorithms for math and applications in computing](../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md) ([Source](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms)) - `ai/companies/deepmind`
+857. [NewsDiscover our latest AI breakthroughs, projects, and updates](../../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md) ([Source](https://deepmind.google/blog)) - `ai/companies/deepmind`
+858. [Learn more](../../ai/companies/deepmind/learn-more.md) ([Source](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands)) - `ai/companies/deepmind`
+859. [Mistral OCR 4](../../ai/companies/mistral/mistral-ocr-4.md) ([Source](https://mistral.ai/news/ocr-4)) - `ai/companies/mistral`
+860. [Mistral Medium 3.5](../../ai/companies/mistral/mistral-medium-3-5.md) ([Source](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5)) - `ai/companies/mistral`
+861. [Mistral Small 4](../../ai/companies/mistral/mistral-small-4.md) ([Source](https://mistral.ai/news/mistral-small-4)) - `ai/companies/mistral`
+862. [Voxtral TTS](../../ai/companies/mistral/voxtral-tts.md) ([Source](https://mistral.ai/news/voxtral-tts)) - `ai/companies/mistral`
+863. [In-region inference, open models, and new European infrastructure for sovereign AI.](../../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md) ([Source](https://mistral.ai/news/regional-inference-open-models-new-compute)) - `ai/companies/mistral`
+864. [Introducing Shieldstral.](../../ai/companies/mistral/introducing-shieldstral.md) ([Source](https://mistral.ai/news/shieldstral)) - `ai/companies/mistral`
+865. [Your Prompts and Skills need a system of record.](../../ai/companies/mistral/your-prompts-and-skills-need-a-system-of-record.md) ([Source](https://mistral.ai/news/manage-prompts-and-skills-in-studio)) - `ai/companies/mistral`
+866. [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md) ([Source](https://mistral.ai/news/robostral-navigate)) - `ai/companies/mistral`
+867. [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md) ([Source](https://mistral.ai/news/leanstral-1-5)) - `ai/companies/mistral`
+868. [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md) ([Source](https://mistral.ai/news/more-control-over-connectors)) - `ai/companies/mistral`
+869. [Publications](../../ai/companies/publications.md) ([Source](https://microsoft.com/en-us/research/publications)) - `ai/companies`
+870. [Code & data](../../ai/companies/code-data.md) ([Source](https://microsoft.com/en-us/research/tools)) - `ai/companies`
+871. [Microsoft Research blog](../../ai/companies/microsoft-research-blog.md) ([Source](https://microsoft.com/en-us/research/blog)) - `ai/companies`
+872. [Artificial intelligence](../../ai/companies/artificial-intelligence.md) ([Source](https://microsoft.com/en-us/research/focus-area/ai-and-microsoft-research)) - `ai/companies`
+873. [Audio & acoustics](../../ai/companies/audio-acoustics.md) ([Source](https://microsoft.com/en-us/research/research-area/audio-acoustics)) - `ai/companies`
+874. [Computer vision](../../ai/companies/computer-vision.md) ([Source](https://microsoft.com/en-us/research/research-area/computer-vision)) - `ai/companies`
+875. [Graphics & multimedia](../../ai/companies/graphics-multimedia.md) ([Source](https://microsoft.com/en-us/research/research-area/graphics-and-multimedia)) - `ai/companies`
+876. [Human-computer interaction](../../ai/companies/human-computer-interaction.md) ([Source](https://microsoft.com/en-us/research/research-area/human-computer-interaction)) - `ai/companies`
+877. [Human language technologies](../../ai/companies/human-language-technologies.md) ([Source](https://microsoft.com/en-us/research/research-area/human-language-technologies)) - `ai/companies`
+878. [Search & information retrieval](../../ai/companies/search-information-retrieval.md) ([Source](https://microsoft.com/en-us/research/research-area/search-information-retrieval)) - `ai/companies`
 
 ## Weekly Videos & Demos
 
@@ -3032,21 +3030,21 @@ No updates collected under this section this week.
 142. [Ais1on/CTI-RAG](../../ai/rag/ais1on-cti-rag.md) ([Source](https://github.com/ais1on/cti-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
 143. [NVIDIA/workbench-example-hybrid-rag](../../ai/rag/nvidia-workbench-example-hybrid-rag.md) ([Source](https://github.com/nvidia/workbench-example-hybrid-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
 144. [vespa-engine/vespa](../../ai/rag/vespa-engine-vespa.md) ([Source](https://github.com/vespa-engine/vespa)) (Stars: 0, Language: Unknown) - `ai/rag`
-145. [ali-bahrainian/RAG_best_practices](../../ai/rag/ali-bahrainian-rag-best-practices.md) ([Source](https://github.com/ali-bahrainian/rag_best_practices)) (Stars: 0, Language: Unknown) - `ai/rag`
-146. [HKUDS/LightRAG](../../ai/rag/hkuds-lightrag.md) ([Source](https://github.com/hkuds/lightrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-147. [airweave-ai/airweave](../../ai/rag/airweave-ai-airweave.md) ([Source](https://github.com/airweave-ai/airweave)) (Stars: 0, Language: Unknown) - `ai/rag`
-148. [run-llama/llama_index](../../ai/rag/run-llama-llama-index.md) ([Source](https://github.com/run-llama/llama_index)) (Stars: 0, Language: Unknown) - `ai/rag`
-149. [pixegami/rag-tutorial-v2](../../ai/rag/pixegami-rag-tutorial-v2.md) ([Source](https://github.com/pixegami/rag-tutorial-v2)) (Stars: 0, Language: Unknown) - `ai/rag`
-150. [enescingoz/awesome-n8n-templates](../../ai/rag/enescingoz-awesome-n8n-templates.md) ([Source](https://github.com/enescingoz/awesome-n8n-templates)) (Stars: 0, Language: Unknown) - `ai/rag`
-151. [Tencent/WeKnora](../../ai/rag/tencent-weknora.md) ([Source](https://github.com/tencent/weknora)) (Stars: 0, Language: Unknown) - `ai/rag`
-152. [Shubhamsaboo/awesome-llm-apps](../../ai/rag/shubhamsaboo-awesome-llm-apps.md) ([Source](https://github.com/shubhamsaboo/awesome-llm-apps)) (Stars: 0, Language: Unknown) - `ai/rag`
-153. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-154. [TauricResearch/TradingAgents](../../ai/rag/tauricresearch-tradingagents.md) ([Source](https://github.com/tauricresearch/tradingagents)) (Stars: 0, Language: Unknown) - `ai/rag`
-155. [kyrolabs/awesome-agents](../../ai/rag/kyrolabs-awesome-agents.md) ([Source](https://github.com/kyrolabs/awesome-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-156. [TIMAN-group/PlugMem](../../ai/rag/timan-group-plugmem.md) ([Source](https://github.com/timan-group/plugmem)) (Stars: 0, Language: Unknown) - `ai/rag`
-157. [coree/awesome-rag](../../ai/rag/coree-awesome-rag.md) ([Source](https://github.com/coree/awesome-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-158. [Fosowl/agenticSeek](../../ai/rag/fosowl-agenticseek.md) ([Source](https://github.com/fosowl/agenticseek)) (Stars: 0, Language: Unknown) - `ai/rag`
-159. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
+145. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
+146. [ali-bahrainian/RAG_best_practices](../../ai/rag/ali-bahrainian-rag-best-practices.md) ([Source](https://github.com/ali-bahrainian/rag_best_practices)) (Stars: 0, Language: Unknown) - `ai/rag`
+147. [HKUDS/LightRAG](../../ai/rag/hkuds-lightrag.md) ([Source](https://github.com/hkuds/lightrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+148. [airweave-ai/airweave](../../ai/rag/airweave-ai-airweave.md) ([Source](https://github.com/airweave-ai/airweave)) (Stars: 0, Language: Unknown) - `ai/rag`
+149. [run-llama/llama_index](../../ai/rag/run-llama-llama-index.md) ([Source](https://github.com/run-llama/llama_index)) (Stars: 0, Language: Unknown) - `ai/rag`
+150. [pixegami/rag-tutorial-v2](../../ai/rag/pixegami-rag-tutorial-v2.md) ([Source](https://github.com/pixegami/rag-tutorial-v2)) (Stars: 0, Language: Unknown) - `ai/rag`
+151. [enescingoz/awesome-n8n-templates](../../ai/rag/enescingoz-awesome-n8n-templates.md) ([Source](https://github.com/enescingoz/awesome-n8n-templates)) (Stars: 0, Language: Unknown) - `ai/rag`
+152. [Tencent/WeKnora](../../ai/rag/tencent-weknora.md) ([Source](https://github.com/tencent/weknora)) (Stars: 0, Language: Unknown) - `ai/rag`
+153. [Shubhamsaboo/awesome-llm-apps](../../ai/rag/shubhamsaboo-awesome-llm-apps.md) ([Source](https://github.com/shubhamsaboo/awesome-llm-apps)) (Stars: 0, Language: Unknown) - `ai/rag`
+154. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+155. [TauricResearch/TradingAgents](../../ai/rag/tauricresearch-tradingagents.md) ([Source](https://github.com/tauricresearch/tradingagents)) (Stars: 0, Language: Unknown) - `ai/rag`
+156. [kyrolabs/awesome-agents](../../ai/rag/kyrolabs-awesome-agents.md) ([Source](https://github.com/kyrolabs/awesome-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+157. [TIMAN-group/PlugMem](../../ai/rag/timan-group-plugmem.md) ([Source](https://github.com/timan-group/plugmem)) (Stars: 0, Language: Unknown) - `ai/rag`
+158. [coree/awesome-rag](../../ai/rag/coree-awesome-rag.md) ([Source](https://github.com/coree/awesome-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+159. [Fosowl/agenticSeek](../../ai/rag/fosowl-agenticseek.md) ([Source](https://github.com/fosowl/agenticseek)) (Stars: 0, Language: Unknown) - `ai/rag`
 160. [KruxAI/ragbuilder](../../ai/rag/kruxai-ragbuilder.md) ([Source](https://github.com/kruxai/ragbuilder)) (Stars: 0, Language: Unknown) - `ai/rag`
 161. [GraphRAG-Bench/GraphRAG-Benchmark](../../ai/rag/graphrag-bench-graphrag-benchmark.md) ([Source](https://github.com/graphrag-bench/graphrag-benchmark)) (Stars: 0, Language: Unknown) - `ai/rag`
 162. [vndee/local-assistant-examples](../../ai/rag/vndee-local-assistant-examples.md) ([Source](https://github.com/vndee/local-assistant-examples)) (Stars: 0, Language: Unknown) - `ai/rag`
@@ -3088,38 +3086,38 @@ No updates collected under this section this week.
 198. [QuivrHQ/quivr](../../ai/rag/quivrhq-quivr.md) ([Source](https://github.com/quivrhq/quivr)) (Stars: 0, Language: Unknown) - `ai/rag`
 199. [langchain-ai/langchain](../../ai/rag/langchain-ai-langchain.md) ([Source](https://github.com/langchain-ai/langchain)) (Stars: 0, Language: Unknown) - `ai/rag`
 200. [langchain-ai/langgraph](../../ai/rag/langchain-ai-langgraph.md) ([Source](https://github.com/langchain-ai/langgraph)) (Stars: 0, Language: Unknown) - `ai/rag`
-201. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
-202. [pguso/rag-from-scratch](../../ai/rag/pguso-rag-from-scratch.md) ([Source](https://github.com/pguso/rag-from-scratch)) (Stars: 0, Language: Unknown) - `ai/rag`
-203. [zilliztech/milvus_cli](../../ai/rag/zilliztech-milvus-cli.md) ([Source](https://github.com/zilliztech/milvus_cli)) (Stars: 0, Language: Unknown) - `ai/rag`
-204. [scotthavird/crewai-template](../../ai/rag/scotthavird-crewai-template.md) ([Source](https://github.com/scotthavird/crewai-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-205. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
-206. [decodingai-magazine/llm-twin-course](../../ai/rag/decodingai-magazine-llm-twin-course.md) ([Source](https://github.com/decodingai-magazine/llm-twin-course)) (Stars: 0, Language: Unknown) - `ai/rag`
-207. [stackitcloud/rag-template](../../ai/rag/stackitcloud-rag-template.md) ([Source](https://github.com/stackitcloud/rag-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-208. [langchain-ai/langgraphjs](../../ai/rag/langchain-ai-langgraphjs.md) ([Source](https://github.com/langchain-ai/langgraphjs)) (Stars: 0, Language: Unknown) - `ai/rag`
-209. [onyx-dot-app/onyx](../../ai/rag/onyx-dot-app-onyx.md) ([Source](https://github.com/onyx-dot-app/onyx)) (Stars: 0, Language: Unknown) - `ai/rag`
-210. [run-llama/llama-parse-cli](../../ai/rag/run-llama-llama-parse-cli.md) ([Source](https://github.com/run-llama/llama-parse-cli)) (Stars: 0, Language: Unknown) - `ai/rag`
-211. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
-212. [chaoql/rag-best-practices](../../ai/rag/chaoql-rag-best-practices.md) ([Source](https://github.com/chaoql/rag-best-practices)) (Stars: 0, Language: Unknown) - `ai/rag`
-213. [nicknochnack/Llama2RAG](../../ai/rag/nicknochnack-llama2rag.md) ([Source](https://github.com/nicknochnack/llama2rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-214. [raga-ai-hub/raga-llm-hub](../../ai/rag/raga-ai-hub-raga-llm-hub.md) ([Source](https://github.com/raga-ai-hub/raga-llm-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
-215. [wgcyeo/UniversalRAG](../../ai/rag/wgcyeo-universalrag.md) ([Source](https://github.com/wgcyeo/universalrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-216. [bakrianoo/mini-rag](../../ai/rag/bakrianoo-mini-rag.md) ([Source](https://github.com/bakrianoo/mini-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-217. [SecurityClaw/SecurityClaw](../../ai/rag/securityclaw-securityclaw.md) ([Source](https://github.com/securityclaw/securityclaw)) (Stars: 0, Language: Unknown) - `ai/rag`
-218. [freddy-schuetz/n8n-claw](../../ai/rag/freddy-schuetz-n8n-claw.md) ([Source](https://github.com/freddy-schuetz/n8n-claw)) (Stars: 0, Language: Unknown) - `ai/rag`
-219. [weaviate/weaviate](../../ai/rag/weaviate-weaviate.md) ([Source](https://github.com/weaviate/weaviate)) (Stars: 0, Language: Unknown) - `ai/rag`
-220. [deepset-ai/haystack](../../ai/rag/deepset-ai-haystack.md) ([Source](https://github.com/deepset-ai/haystack)) (Stars: 0, Language: Unknown) - `ai/rag`
-221. [vercel-labs/workflow-builder-template](../../ai/rag/vercel-labs-workflow-builder-template.md) ([Source](https://github.com/vercel-labs/workflow-builder-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-222. [zilliztech/attu](../../ai/rag/zilliztech-attu.md) ([Source](https://github.com/zilliztech/attu)) (Stars: 0, Language: Unknown) - `ai/rag`
-223. [alfredodeza/azure-rag](../../ai/rag/alfredodeza-azure-rag.md) ([Source](https://github.com/alfredodeza/azure-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-224. [nodejs/node](../../ai/rag/nodejs-node.md) ([Source](https://github.com/nodejs/node)) (Stars: 0, Language: Unknown) - `ai/rag`
-225. [langchain-ai/rag-research-agent-template](../../ai/rag/langchain-ai-rag-research-agent-template.md) ([Source](https://github.com/langchain-ai/rag-research-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-226. [microsoft/promptflow-rag-project-template](../../ai/rag/microsoft-promptflow-rag-project-template.md) ([Source](https://github.com/microsoft/promptflow-rag-project-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-227. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([Source](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
-228. [TatarinBlack/ai-runtime-security-sandbox](../../ai/rag/tatarinblack-ai-runtime-security-sandbox.md) ([Source](https://github.com/tatarinblack/ai-runtime-security-sandbox)) (Stars: 0, Language: Unknown) - `ai/rag`
-229. [olegnazarov/rag-security-scanner](../../ai/rag/olegnazarov-rag-security-scanner.md) ([Source](https://github.com/olegnazarov/rag-security-scanner)) (Stars: 0, Language: Unknown) - `ai/rag`
-230. [adongwanai/AgentGuide](../../ai/rag/adongwanai-agentguide.md) ([Source](https://github.com/adongwanai/agentguide)) (Stars: 0, Language: Unknown) - `ai/rag`
-231. [jim-schwoebel/awesome_ai_agents](../../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([Source](https://github.com/jim-schwoebel/awesome_ai_agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-232. [crewAIInc/awesome-crewai](../../ai/rag/crewaiinc-awesome-crewai.md) ([Source](https://github.com/crewaiinc/awesome-crewai)) (Stars: 0, Language: Unknown) - `ai/rag`
+201. [pguso/rag-from-scratch](../../ai/rag/pguso-rag-from-scratch.md) ([Source](https://github.com/pguso/rag-from-scratch)) (Stars: 0, Language: Unknown) - `ai/rag`
+202. [zilliztech/milvus_cli](../../ai/rag/zilliztech-milvus-cli.md) ([Source](https://github.com/zilliztech/milvus_cli)) (Stars: 0, Language: Unknown) - `ai/rag`
+203. [scotthavird/crewai-template](../../ai/rag/scotthavird-crewai-template.md) ([Source](https://github.com/scotthavird/crewai-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+204. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
+205. [decodingai-magazine/llm-twin-course](../../ai/rag/decodingai-magazine-llm-twin-course.md) ([Source](https://github.com/decodingai-magazine/llm-twin-course)) (Stars: 0, Language: Unknown) - `ai/rag`
+206. [stackitcloud/rag-template](../../ai/rag/stackitcloud-rag-template.md) ([Source](https://github.com/stackitcloud/rag-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+207. [langchain-ai/langgraphjs](../../ai/rag/langchain-ai-langgraphjs.md) ([Source](https://github.com/langchain-ai/langgraphjs)) (Stars: 0, Language: Unknown) - `ai/rag`
+208. [onyx-dot-app/onyx](../../ai/rag/onyx-dot-app-onyx.md) ([Source](https://github.com/onyx-dot-app/onyx)) (Stars: 0, Language: Unknown) - `ai/rag`
+209. [run-llama/llama-parse-cli](../../ai/rag/run-llama-llama-parse-cli.md) ([Source](https://github.com/run-llama/llama-parse-cli)) (Stars: 0, Language: Unknown) - `ai/rag`
+210. [chaoql/rag-best-practices](../../ai/rag/chaoql-rag-best-practices.md) ([Source](https://github.com/chaoql/rag-best-practices)) (Stars: 0, Language: Unknown) - `ai/rag`
+211. [nicknochnack/Llama2RAG](../../ai/rag/nicknochnack-llama2rag.md) ([Source](https://github.com/nicknochnack/llama2rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+212. [raga-ai-hub/raga-llm-hub](../../ai/rag/raga-ai-hub-raga-llm-hub.md) ([Source](https://github.com/raga-ai-hub/raga-llm-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
+213. [wgcyeo/UniversalRAG](../../ai/rag/wgcyeo-universalrag.md) ([Source](https://github.com/wgcyeo/universalrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+214. [bakrianoo/mini-rag](../../ai/rag/bakrianoo-mini-rag.md) ([Source](https://github.com/bakrianoo/mini-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+215. [SecurityClaw/SecurityClaw](../../ai/rag/securityclaw-securityclaw.md) ([Source](https://github.com/securityclaw/securityclaw)) (Stars: 0, Language: Unknown) - `ai/rag`
+216. [freddy-schuetz/n8n-claw](../../ai/rag/freddy-schuetz-n8n-claw.md) ([Source](https://github.com/freddy-schuetz/n8n-claw)) (Stars: 0, Language: Unknown) - `ai/rag`
+217. [weaviate/weaviate](../../ai/rag/weaviate-weaviate.md) ([Source](https://github.com/weaviate/weaviate)) (Stars: 0, Language: Unknown) - `ai/rag`
+218. [deepset-ai/haystack](../../ai/rag/deepset-ai-haystack.md) ([Source](https://github.com/deepset-ai/haystack)) (Stars: 0, Language: Unknown) - `ai/rag`
+219. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+220. [vercel-labs/workflow-builder-template](../../ai/rag/vercel-labs-workflow-builder-template.md) ([Source](https://github.com/vercel-labs/workflow-builder-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+221. [zilliztech/attu](../../ai/rag/zilliztech-attu.md) ([Source](https://github.com/zilliztech/attu)) (Stars: 0, Language: Unknown) - `ai/rag`
+222. [alfredodeza/azure-rag](../../ai/rag/alfredodeza-azure-rag.md) ([Source](https://github.com/alfredodeza/azure-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+223. [nodejs/node](../../ai/rag/nodejs-node.md) ([Source](https://github.com/nodejs/node)) (Stars: 0, Language: Unknown) - `ai/rag`
+224. [langchain-ai/rag-research-agent-template](../../ai/rag/langchain-ai-rag-research-agent-template.md) ([Source](https://github.com/langchain-ai/rag-research-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+225. [microsoft/promptflow-rag-project-template](../../ai/rag/microsoft-promptflow-rag-project-template.md) ([Source](https://github.com/microsoft/promptflow-rag-project-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+226. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([Source](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
+227. [TatarinBlack/ai-runtime-security-sandbox](../../ai/rag/tatarinblack-ai-runtime-security-sandbox.md) ([Source](https://github.com/tatarinblack/ai-runtime-security-sandbox)) (Stars: 0, Language: Unknown) - `ai/rag`
+228. [olegnazarov/rag-security-scanner](../../ai/rag/olegnazarov-rag-security-scanner.md) ([Source](https://github.com/olegnazarov/rag-security-scanner)) (Stars: 0, Language: Unknown) - `ai/rag`
+229. [adongwanai/AgentGuide](../../ai/rag/adongwanai-agentguide.md) ([Source](https://github.com/adongwanai/agentguide)) (Stars: 0, Language: Unknown) - `ai/rag`
+230. [jim-schwoebel/awesome_ai_agents](../../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([Source](https://github.com/jim-schwoebel/awesome_ai_agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+231. [crewAIInc/awesome-crewai](../../ai/rag/crewaiinc-awesome-crewai.md) ([Source](https://github.com/crewaiinc/awesome-crewai)) (Stars: 0, Language: Unknown) - `ai/rag`
+232. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
 233. [explodinggradients/ragas](../../ai/rag/explodinggradients-ragas.md) ([Source](https://github.com/explodinggradients/ragas)) (Stars: 0, Language: Unknown) - `ai/rag`
 234. [ray-project/llm-applications](../../ai/rag/ray-project-llm-applications.md) ([Source](https://github.com/ray-project/llm-applications)) (Stars: 0, Language: Unknown) - `ai/rag`
 235. [awesome-opencode/awesome-opencode](../../ai/rag/awesome-opencode-awesome-opencode.md) ([Source](https://github.com/awesome-opencode/awesome-opencode)) (Stars: 0, Language: Unknown) - `ai/rag`
@@ -3215,23 +3213,23 @@ No updates collected under this section this week.
 325. [hectorpine/multiple-model-crew](../../ai/rag/hectorpine-multiple-model-crew.md) ([Source](https://github.com/hectorpine/multiple-model-crew)) (Stars: 0, Language: Unknown) - `ai/rag`
 326. [DEEP-PolyU/Awesome-GraphRAG](../../ai/rag/deep-polyu-awesome-graphrag.md) ([Source](https://github.com/deep-polyu/awesome-graphrag)) (Stars: 0, Language: Unknown) - `ai/rag`
 327. [rsrohan99/rag-stream-intermediate-events-tutorial](../../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([Source](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
-328. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
-329. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-330. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-331. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
+328. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+329. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
+330. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+331. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
 332. [infiniflow/ragflow](../../ai/rag/infiniflow-ragflow-2.md) ([Source](https://github.com/infiniflow/ragflow)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
 
-- [RAG](../../skills/rag.md) (1535 updates)
+- [RAG](../../skills/rag.md) (1529 updates)
 - [Vector Databases](../../skills/vector-databases.md) (843 updates)
-- [Workflow Automation](../../skills/automation.md) (687 updates)
-- [AI Coding Agents](../../skills/ai-coding-agents.md) (596 updates)
+- [Workflow Automation](../../skills/automation.md) (680 updates)
+- [AI Coding Agents](../../skills/ai-coding-agents.md) (592 updates)
 - [AI Agents](../../skills/ai-agents.md) (578 updates)
 - [LLMOps](../../skills/llmops.md) (146 updates)
-- [Local LLMs & Inference](../../skills/local-llm.md) (76 updates)
+- [Local LLMs & Inference](../../skills/local-llm.md) (75 updates)
 - [Prompt Engineering](../../skills/prompt-engineering.md) (74 updates)
-- [FastAPI](../../skills/fastapi.md) (68 updates)
+- [FastAPI](../../skills/fastapi.md) (67 updates)
 - [Model Context Protocol (MCP)](../../skills/mcp.md) (38 updates)
 
 ## Recommended Projects To Build
@@ -3241,4 +3239,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-08-14T03:56:59.382920+05:30
+2026-08-14T08:39:47.442094+05:30

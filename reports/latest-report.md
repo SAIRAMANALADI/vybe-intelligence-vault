@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-14T07:27:43.872611+05:30`
+Generated at: `2026-08-14T08:42:21.127204+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+No new discoveries tracked in this run.
+
 
 ## Top Trending Resources
 
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Retrieval-Augmented Generation (RAG) Chatbots for Education: A Survey of Applications** - Score: `0` (0), Rank Change: `+977` ([File](../ai/research/retrieval-augmented-generation-rag-chatbots-for-ed.md))
-- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **greensock/gsap-skills** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/greensock-gsap-skills.md))
-- **viktoriasemaan/multi-agent** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/viktoriasemaan-multi-agent.md))
-- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/airweave-ai-airweave.md))
-- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/docker-compose-for-agents.md))
+- **Nine PBS sues Iron Mountain over blocked access to archival data** - Score: `255` (+88), Rank Change: `0` ([File](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md))
+- **How Organizations Use AI: Evidence from ChatGPT [pdf]** - Score: `71` (+34), Rank Change: `+2` ([File](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md))
+- **AI At Home Part 1: A Box Of Scraps** - Score: `94` (+25), Rank Change: `+2` ([File](../ai/community/ai-at-home-part-1-a-box-of-scraps.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+997` ([File](../ai/rag/malonge-ragoo.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/graphics-multimedia.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+979`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy-2.md))
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+979`) ([File](../ai/rag/ruc-nlpir-flashrag.md))
-- **microsoft/rag-time** - (Rank Change: `+978`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+978`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+978`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+978`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2606-09123.md))
+- **malonge/RaGOO** - (Rank Change: `+997`) ([File](../ai/rag/malonge-ragoo.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+982`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+982`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Applied AI** - (Rank Change: `+861`) ([File](../ai/companies/openai/applied-ai.md))
+- **AI Adoption** - (Rank Change: `+861`) ([File](../ai/companies/openai/ai-adoption.md))
+- **Global Affairs** - (Rank Change: `+861`) ([File](../ai/companies/openai/global-affairs.md))
+- **Engineering** - (Rank Change: `+861`) ([File](../ai/companies/openai/engineering.md))
+- **Qwen/Qwen3-0.6B** - (Rank Change: `+837`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
+- **BAAI/bge-m3** - (Rank Change: `+837`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **amazon/chronos-2** - (Rank Change: `+837`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +46,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Choosing an AI model: one prompt, 11 models, different results** (Category: `ai/community`) ([File](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md))
+- **I built a 500k-domain search engine for makers in a weekend for $10** (Category: `ai/community`) ([File](../ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md))

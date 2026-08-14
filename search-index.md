@@ -23331,7 +23331,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
 * **[AI At Home Part 1: A Box Of Scraps](ai/community/ai-at-home-part-1-a-box-of-scraps.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by timmmmmmay. Score: 69, Comments: 36. Original Link: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html
+  * Summary: Hacker News story by timmmmmmay. Score: 94, Comments: 48. Original Link: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html>
 
@@ -23834,11 +23834,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Version Control System (VCS) Compatibility**: Repository hosting services must align with the underlying VCS (e.g., Git, Mercurial) to ensure seamless integration and functionality; incompatibility can hinder workflow efficiency. - **Key Feature
   * Tags: `rag`, `web-crawled`, `workflows`
   * Source URL: <https://bitbucket.org/product/code-repository>
-
-* **[Choosing an AI model: one prompt, 11 models, different results](ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)** (`prompt` | `useful` tier)
-  * Summary: Hacker News story by toddmorey. Score: 157, Comments: 68. Original Link: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://netlify.com/blog/one-prompt-11-models-very-different-results>
 
 * **[Chrome DevTools | Chrome for Developers](ai/rag/chrome-devtools-chrome-for-developers.md)** (`tutorial` | `useful` tier)
   * Summary: - **AI Integration in DevTools**: Chrome DevTools now includes AI-powered features (e.g., Gemini) for real-time analysis of styling, network activity, performance, and console errors, enhancing debugging efficiency. - **DevTools for Agents**: Enables
@@ -25131,7 +25126,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.12236>
 
 * **[How Organizations Use AI: Evidence from ChatGPT [pdf]](ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by malshe. Score: 37, Comments: 18. Original Link: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
+  * Summary: Hacker News story by malshe. Score: 71, Comments: 46. Original Link: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>
 
@@ -25184,11 +25179,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.23983v1 Announce Type: cross Abstract: Operational flood forecasting depends on tacit forecaster expertise that is difficult to formalize, audit, and transfer. Although artificial intelligence methods have advanced flood prediction and mod
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.23983>
-
-* **[I built a 500k-domain search engine for makers in a weekend for $10](ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dreamforever. Score: 128, Comments: 71. Original Link: https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html>
 
 * **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](ai/research/arxiv-2606-11722.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11722v1 Announce Type: new Abstract: Finding interpretable directions in language-model representations is critical for understanding and controlling model behavior. Sparse autoencoders (SAEs) have become the standard tool for this purpose
@@ -25956,7 +25946,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/NicholasGoh/fastapi-mcp-langgraph-template>
 
 * **[Nine PBS sues Iron Mountain over blocked access to archival data](ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by vinayakborkar. Score: 167, Comments: 81. Original Link: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/
+  * Summary: Hacker News story by vinayakborkar. Score: 255, Comments: 147. Original Link: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data>
 
@@ -44886,7 +44876,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.25743>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9508, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9509, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -53577,7 +53567,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/1707.00835>
 
 * **[facebook/MusicGen](ai/models/huggingface-spaces-facebook.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: facebook/MusicGen (Likes: 5081, Downloads: 0)
+  * Summary: Trending Hugging Face space: facebook/MusicGen (Likes: 5082, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/facebook>
 
@@ -60392,7 +60382,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11209, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11210, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -68136,11 +68126,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.02844v1 Announce Type: cross Abstract: We develop a class of diffusion-based stochastic particle optimisation methods for loss functions with intractable gradients. Specifically, we consider problems in which the loss gradient is an integr
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2608.02844>
-
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus designed for the evaluation and mitigation of hallucination in Retrieval-Augmented Language Models (RAGs). * Aims to facilitate the development of more trustworthy RAG systems by providing a benchmark for f
-  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning](ai/research/arxiv-2601-13020.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.13020v2 Announce Type: replace-cross Abstract: Continual instruction tuning (CIT) requires multimodal large language models (MLLMs) to adapt to a stream of tasks without forgetting prior capabilities. A common strategy is to isolate update
@@ -89185,7 +89170,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3394, Downloads: 34114402)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3395, Downloads: 34114402)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -91424,9 +91409,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive guide to Retrieval Augmented Generation (RAG) techniques, emphasizing full-
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive RAG architecture and implementation guide for LLM application development. * Lever
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -91435,7 +91420,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive tutorial for Large Language Model (LLM) application development. * Focuses on LangChain framework and Retrieval Augmented Generation (RAG) methodologies. * Content delivered through interactive Jupyter Notebooks.
+  * Summary: * Comprehensive LLM application development tutorial targeting novice developers. * Employs LangChain framework for application construction, emphasizing RAG architectures. * Educational content presented as executable Jupyter Notebooks.
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -97142,7 +97127,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Python-based bioinformatics tool designed for genome assembly and scaffolding. * Functionality encompasses ordering and orienting contigs into larger scaffolds. * Project is deprecated; users are directed to the successor tool, RagTag, for continue
+  * Summary: * Deprecated Python-based bioinformatics tool for genome assembly and scaffolding. * Functionality has
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -99207,6 +99192,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2604.20711v3 Announce Type: replace Abstract: AI-assisted consultation can speed large-scale public engagement, but concise summaries may reflect some submissions more closely than others. This paper introduces participatory provenance, a frame
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
+
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * Introduces RAGTruth, a specialized corpus designed for the detection and analysis of generative hallucinations. * Aids in the development and evaluation of trustworthy Retrieval-Augmented Language Models (RAG LMs). * Specifically targets the quanti
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[PASE: Leveraging the Phonological Prior of WavLM for Low-Hallucination Generative Speech Enhancement](ai/rag/arxiv-2511-13300.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2511.13300v1 Announce Type: cross Abstract: Generative models have shown remarkable performance in speech enhancement (SE), achieving superior perceptual quality over traditional discriminative approaches. However, existing generative SE approa

@@ -13,13 +13,14 @@ collected_at: '2026-08-14T03:40:55.873180+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:choosing-an-ai-model-one-prompt-11-models-differen
 first_seen: '2026-08-13T19:24:45.278034+05:30'
 last_seen: '2026-08-14T03:40:55.873180+05:30'
 last_checked: '2026-08-14T03:40:55.873180+05:30'
 health_score: 100
 ---
+
 
 # Choosing an AI model: one prompt, 11 models, different results
 

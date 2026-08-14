@@ -4422,9 +4422,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI At Home Part 1: A Box Of Scraps](../ai/community/ai-at-home-part-1-a-box-of-scraps.md)
-  - [Choosing an AI model: one prompt, 11 models, different results](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)
   - [How Organizations Use AI: Evidence from ChatGPT [pdf]](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)
-  - [I built a 500k-domain search engine for makers in a weekend for $10](../ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)
   - [Nine PBS sues Iron Mountain over blocked access to archival data](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)
 
 ## animation
@@ -14583,7 +14581,6 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
@@ -17950,7 +17947,6 @@ Resources organized by keyword tags.
   - [CheckMIABench: Firm Foundations For Membership Inference Attacks on Language Models](../ai/rag/arxiv-2606-17464.md)
   - [ChiEngMixBench: Evaluating Large Language Models on Expert-Style Chinese-English Terminology Mixing](../ai/research/arxiv-2601-16217.md)
   - [Choose how to use n8n | n8n Docs](../ai/rag/choose-how-to-use-n8n-n8n-docs.md)
-  - [Choosing an AI model: one prompt, 11 models, different results](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)
   - [Chroma - YouTube](../ai/resources/chroma-youtube.md)
   - [Chroma - open-source search infrastructure for AI](../ai/rag/chroma-open-source-search-infrastructure-for-ai.md)
   - [Chrome DevTools | Chrome for Developers](../ai/rag/chrome-devtools-chrome-for-developers.md)
@@ -18689,7 +18685,6 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
-  - [I built a 500k-domain search engine for makers in a weekend for $10](../ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
@@ -20223,7 +20218,6 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -45001,4 +44995,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-14T03:57:05.736336+05:30*
+*Index generated on 2026-08-14T08:39:54.727669+05:30*
