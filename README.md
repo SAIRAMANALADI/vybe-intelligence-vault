@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-204%2C006-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-128%2C268-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--14-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **204,006 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **128,268 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,544</p>
-        <p><b>Active:</b> 19,946 | <b>Inactive:</b> 598</p>
+        <p><b>Resources tracked:</b> 19,566</p>
+        <p><b>Active:</b> 18,968 | <b>Inactive:</b> 598</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 77,044</p>
+        <p><b>Archive Files:</b> 2,262</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 204,006 files</p>
-        <p><b>Last Update:</b> 2026-08-14 21:55 IST</p>
+        <p><b>Total Vault Size:</b> 128,268 files</p>
+        <p><b>Last Update:</b> 2026-08-14 22:25 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,27 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[slavakurilyak/awesome-ai-agents](ai/agents/slavakurilyak-awesome-ai-agents.md)** • Rank: <kbd>+2528</kbd>
-- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+1419</kbd>
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+979</kbd>
-- 🔼 **[Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Next.js 5.1: Faster Page Resolution, Environment Config & More](web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[vin67/crewai_docker](ai/agents/vin67-crewai-docker.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[masumi-network/crewai-masumi-quickstart-template](ai/agents/masumi-network-crewai-masumi-quickstart-template.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[When Genius Fails: The Intellectual Arrogance of the AI Labs](ai/community/when-genius-fails-the-intellectual-arrogance-of-th.md)** • Score: `99`
-- 🆕 **[HashAgent – Share an AI agent as a URL, runs locally via WebGPU](ai/agents/hashagent-share-an-ai-agent-as-a-url-runs-locally.md)** • Score: `23`
-- 🆕 **[AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](ai/community/ai-model-atlas-visualizing-populations-of-ml-model.md)** • Score: `13`
-- 🆕 **[State of Open Models: Summer 2026 Observations](ai/models/huggingface-blog-state-of-open-models-summer-2026.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Nine PBS sues Iron Mountain over blocked access to archival data](ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)**
-- 💤 **[How Organizations Use AI: Evidence from ChatGPT [pdf]](ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)**
-- 💤 **[Dear people who work at the airport](ai/community/dear-people-who-work-at-the-airport.md)**
-- 💤 **[Ruby 4.0 Universal RCE Deserialization Gadget Chain](ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
