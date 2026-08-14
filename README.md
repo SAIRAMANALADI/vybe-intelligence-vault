@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-203%2C996-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-128%2C263-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--14-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **203,996 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **128,263 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,539</p>
-        <p><b>Active:</b> 19,946 | <b>Inactive:</b> 593</p>
+        <p><b>Resources tracked:</b> 19,562</p>
+        <p><b>Active:</b> 18,969 | <b>Inactive:</b> 593</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 77,039</p>
+        <p><b>Archive Files:</b> 2,261</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 203,996 files</p>
-        <p><b>Last Update:</b> 2026-08-14 13:45 IST</p>
+        <p><b>Total Vault Size:</b> 128,263 files</p>
+        <p><b>Last Update:</b> 2026-08-14 15:42 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Nine PBS sues Iron Mountain over blocked access to archival data](ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)** • <kbd>+22 pts</kbd>
-- 🔼 **[Choosing an AI model: one prompt, 11 models, different results](ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)** • <kbd>+14 pts</kbd>
-- 🔼 **[How Organizations Use AI: Evidence from ChatGPT [pdf]](ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)** • <kbd>+14 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[vin67/crewai_docker](ai/agents/vin67-crewai-docker.md)** • Rank: <kbd>+2460</kbd>
-- 🔼 **[masumi-network/crewai-masumi-quickstart-template](ai/agents/masumi-network-crewai-masumi-quickstart-template.md)** • Rank: <kbd>+2460</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[TCS-BENCH: Benchmarking State-of-the-Art Generative AI Theoretical Computer Science Research Ability](ai/agents/arxiv-2608-09538.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[Private Etymology: Designing Relational Reuse of Shared Symbols in Long-Term Human-AI Interaction](ai/agents/arxiv-2608-08443.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[Coordinated incentives in AI-generated misinformation governance](ai/research/arxiv-2608-07070.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[Commit Locally, Exit Globally: Coordinating Adaptive Sampling and Early Exit in Diffusion Language Models](ai/research/arxiv-2607-28166.md)** • Rank: <kbd>+977</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Ruby 4.0 Universal RCE Deserialization Gadget Chain](ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md)** • Score: `6`
-- 🆕 **[tailoredtidings/ai-agent-tokenized-stock-os](world/public/vault/daily-digests/2026-07-21/ai-agent-tokenized-stock-os.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[AI At Home Part 1: A Box Of Scraps](ai/community/ai-at-home-part-1-a-box-of-scraps.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

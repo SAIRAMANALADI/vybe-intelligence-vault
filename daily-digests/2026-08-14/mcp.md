@@ -1,67 +1,43 @@
 ---
-title: cheapestinference/mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-14
-tech_stack:
-- Model Context Protocol (MCP)
-- OpenAI-compatible API
-- Anthropic-compatible API
-- USDC (ERC-20)
-- Base L2
-- EIP-191
-- x402 pay-per-request protocol
-quality_score: 8
-rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- LLM inference
-- subscription management
-- USDC payments
-- autonomous agents
-source: https://github.com/cheapestinference/mcp
-stars: 0
-language: None
-last_updated: '2026-07-11T09:23:16Z'
-discovered_at: '2026-07-11T09:27:29Z'
-evaluated_by: mistral-small-latest
+title: "xboxgameservice/mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "Windows OS", "Public Corporate Databases"]
+quality_score: 7
+rag_relevance: 7
+deployment_complexity: "Low"
+tags: ["corporate ownership", "AI agents", "data enrichment", "MCP server", "sales intelligence"]
+source: "https://github.com/xboxgameservice/mcp"
+stars: 1
+language: "None"
+last_updated: "2026-08-07T02:39:26Z"
+discovered_at: "2026-08-07T02:41:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A remote MCP server for CheapestInference that enables unlimited LLM inference via a flat monthly subscription or pay-per-request model. It allows agents and clients to subscribe, manage payments, and retrieve API keys programmatically without browser interaction.
+mcp is a tool that enables AI agents to access corporate ownership data, including parent companies, private equity backers, and corporate branches. It enhances AI research capabilities by integrating with public databases through the Model Context Protocol (MCP).
 
 ## Key Features
-- Unlimited LLM inference with flat-rate subscriptions or pay-per-request via x402
-- Programmatic subscription management (USDC on Base L2) with wallet signatures
-- OpenAI and Anthropic-compatible endpoints for seamless integration
-- Real-time pool browsing and pricing via MCP tools
-- Autonomous agent support with keyless pay-per-request workflows
+- Provides corporate hierarchy and parent company identification
+- Identifies private equity and investment ties for companies
+- Supports batch processing for large lists of entities
+- Integrates seamlessly with AI agents via MCP
+- Enriches company data to reduce AI errors in research
 
 ## Why It Matters for RAG Builders
-It simplifies cost-effective, scalable LLM inference access for AI agents and applications through standardized MCP integration and flexible payment models.
+It enables AI agents to accurately identify corporate relationships and ownership structures, improving the quality of business research and decision-making.
 
 ## Tech Stack Deep Dive
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI-compatible API
-Automated review identified **OpenAI-compatible API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Windows OS
+Automated review identified **Windows OS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Anthropic-compatible API
-Automated review identified **Anthropic-compatible API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### USDC (ERC-20)
-Automated review identified **USDC (ERC-20)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Base L2
-Automated review identified **Base L2** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### EIP-191
-Automated review identified **EIP-191** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### x402 pay-per-request protocol
-Automated review identified **x402 pay-per-request protocol** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Public Corporate Databases
+Automated review identified **Public Corporate Databases** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

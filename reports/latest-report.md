@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-14T13:45:54.879447+05:30`
+Generated at: `2026-08-14T15:42:24.209380+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Ruby 4.0 Universal RCE Deserialization Gadget Chain** - Score: `6` in category `ai/community` ([Link](https://elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)) ([File](../ai/community/ruby-4-0-universal-rce-deserialization-gadget-chai.md))
-- **tailoredtidings/ai-agent-tokenized-stock-os** - Score: `0` in category `daily-digests/2026-07-21` ([File](../world/public/vault/daily-digests/2026-07-21/ai-agent-tokenized-stock-os.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Nine PBS sues Iron Mountain over blocked access to archival data** - Score: `299` (+22), Rank Change: `0` ([File](../ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md))
-- **Choosing an AI model: one prompt, 11 models, different results** - Score: `200` (+14), Rank Change: `0` ([File](../ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md))
-- **How Organizations Use AI: Evidence from ChatGPT [pdf]** - Score: `102` (+14), Rank Change: `+1` ([File](../ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md))
-- **vin67/crewai_docker** - Score: `0` (0), Rank Change: `+2460` ([File](../ai/agents/vin67-crewai-docker.md))
-- **masumi-network/crewai-masumi-quickstart-template** - Score: `0` (0), Rank Change: `+2460` ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
-- **AlexPEClub/ai-coding-starter-kit** - Score: `0` (0), Rank Change: `+2528` ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- **vercel-labs/coding-agent-template** - Score: `0` (0), Rank Change: `+2529` ([File](../ai/rag/vercel-labs-coding-agent-template.md))
-- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+2530` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
-- **sleeepeer/PoisonedRAG** - Score: `0` (0), Rank Change: `+2570` ([File](../ai/rag/sleeepeer-poisonedrag.md))
-- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+2827` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **TCS-BENCH: Benchmarking State-of-the-Art Generative AI Theoretical Computer Science Research Ability** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/arxiv-2608-09538.md))
+- **Private Etymology: Designing Relational Reuse of Shared Symbols in Long-Term Human-AI Interaction** - Score: `0` (0), Rank Change: `+977` ([File](../ai/agents/arxiv-2608-08443.md))
+- **Coordinated incentives in AI-generated misinformation governance** - Score: `0` (0), Rank Change: `+977` ([File](../ai/research/arxiv-2608-07070.md))
+- **Commit Locally, Exit Globally: Coordinating Adaptive Sampling and Early Exit in Diffusion Language Models** - Score: `0` (0), Rank Change: `+977` ([File](../ai/research/arxiv-2607-28166.md))
+- **Early Warning Signals for OpenVLA Failure under Visual Distribution Shift** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/arxiv-2606-29699.md))
+- **Communication Heterogeneity and Collective Consensus in Neural Cellular Automata** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/arxiv-2606-21202.md))
+- **The Hidden Evolution of Disguised Visual Context inside the VLM** - Score: `0` (0), Rank Change: `+977` ([File](../ai/research/arxiv-2606-20077.md))
+- **Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/arxiv-2606-07316.md))
+- **Train, Test, Re-evaluate: Schedule-Sensitive Evaluation of Generative Data for Hand Detection** - Score: `0` (0), Rank Change: `+977` ([File](../ai/rag/arxiv-2606-01896.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+17355`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+8258`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **czl9707/build-your-own-openclaw** - (Rank Change: `+2827`) ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
-- **ghuntley/how-to-build-a-coding-agent** - (Rank Change: `+2706`) ([File](../ai/agents/ghuntley-how-to-build-a-coding-agent.md))
-- **sleeepeer/PoisonedRAG** - (Rank Change: `+2570`) ([File](../ai/rag/sleeepeer-poisonedrag.md))
-- **mergisi/awesome-openclaw-agents** - (Rank Change: `+2530`) ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
-- **vercel-labs/coding-agent-template** - (Rank Change: `+2529`) ([File](../ai/rag/vercel-labs-coding-agent-template.md))
-- **codebasics/ai-agents** - (Rank Change: `+2529`) ([File](../ai/agents/codebasics-ai-agents.md))
-- **didilili/ai-agents-from-zero** - (Rank Change: `+2529`) ([File](../ai/rag/didilili-ai-agents-from-zero.md))
-- **AlexPEClub/ai-coding-starter-kit** - (Rank Change: `+2528`) ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- **microsoft/rag-time** - (Rank Change: `+978`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+978`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+978`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+978`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+978`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research** - (Rank Change: `+978`) ([File](../ai/research/arxiv-2605-12153.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **AI At Home Part 1: A Box Of Scraps** (Category: `ai/community`) ([File](../ai/community/ai-at-home-part-1-a-box-of-scraps.md))
+No recently active resources transitioned to inactive.
+
