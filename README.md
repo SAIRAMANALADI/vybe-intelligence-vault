@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-201%2C817-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-127%2C837-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--14-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **201,817 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **127,837 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,113</p>
-        <p><b>Active:</b> 19,520 | <b>Inactive:</b> 593</p>
+        <p><b>Resources tracked:</b> 19,136</p>
+        <p><b>Active:</b> 18,543 | <b>Inactive:</b> 593</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 75,286</p>
+        <p><b>Archive Files:</b> 2,261</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 201,817 files</p>
-        <p><b>Last Update:</b> 2026-08-14 08:42 IST</p>
+        <p><b>Total Vault Size:</b> 127,837 files</p>
+        <p><b>Last Update:</b> 2026-08-14 09:51 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Nine PBS sues Iron Mountain over blocked access to archival data](ai/community/nine-pbs-sues-iron-mountain-over-blocked-access-to.md)** • <kbd>+88 pts</kbd>
-- 🔼 **[How Organizations Use AI: Evidence from ChatGPT [pdf]](ai/community/how-organizations-use-ai-evidence-from-chatgpt-pdf.md)** • <kbd>+34 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[AI At Home Part 1: A Box Of Scraps](ai/community/ai-at-home-part-1-a-box-of-scraps.md)** • <kbd>+25 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+997</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+982</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[Retrieval-Augmented Generation (RAG) Chatbots for Education: A Survey of Applications](ai/research/retrieval-augmented-generation-rag-chatbots-for-ed.md)** • Rank: <kbd>+977</kbd>
+- 🔼 **[huangjia2019/ai-agents](ai/agents/huangjia2019-ai-agents.md)** • Rank: <kbd>+977</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- No new discoveries in this run.
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Choosing an AI model: one prompt, 11 models, different results](ai/community/choosing-an-ai-model-one-prompt-11-models-differen.md)**
-- 💤 **[I built a 500k-domain search engine for makers in a weekend for $10](ai/community/i-built-a-500k-domain-search-engine-for-makers-in.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
