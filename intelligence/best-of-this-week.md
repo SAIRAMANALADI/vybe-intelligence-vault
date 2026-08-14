@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
 *   [Install Tailwind CSS with Astro - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides/astro) (Score: 70) - Category: `ai-coding-agents/`
-*   [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (Score: 70) - Category: `ai-coding-agents/`
-*   [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) (Score: 70) - Category: `ai-coding-agents/`
-*   [bbPress Codex](https://codex.bbpress.org) (Score: 70) - Category: `ai-coding-agents/`
-*   [Blog | Bluesky](https://docs.bsky.app/blog) (Score: 70) - Category: `ai-coding-agents/`
-*   [Photojournal - NASA Science](https://photojournal.jpl.nasa.gov/index.html) (Score: 70) - Category: `ai-coding-agents/`
-*   [Mintlify · GitHub](https://github.com/mintlify) (Score: 70) - Category: `ai-coding-agents/`
-*   [How your Apple Card application is evaluated - Apple Support](https://support.apple.com/kb/HT209218) (Score: 70) - Category: `ai-coding-agents/`
-*   [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (Score: 70) - Category: `ai-coding-agents/`
-*   [Cursor - YouTube](https://www.youtube.com/@cursor_ai) (Score: 70) - Category: `ai-coding-agents/`
-*   [Stylised pathways to “well below 2°C”](https://cicero.oslo.no/en/articles/stylised-pathways-to-well-below-2c) (Score: 70) - Category: `ai-coding-agents/`
-*   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
-*   [Graph Neural Network-based Algorithm Selection for the Traveling Salesman Problem: A Systematic Study of Cost and Rank Losses under Distinct Budget Regimes](https://arxiv.org/abs/2607.18632) (Score: 70) - Category: `ai-coding-agents/`
-*   [Algorithmic Constitutionalism](https://arxiv.org/abs/2606.12437) (Score: 70) - Category: `ai-coding-agents/`
+*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
+*   [CoWeaver: A Bi-directional, Learnable and Explainable Matching Engine for Mixed Human-Agent Science Collaboration](https://arxiv.org/abs/2607.15545) (Score: 70) - Category: `ai-coding-agents/`
+*   [Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation](https://arxiv.org/abs/2608.00794) (Score: 70) - Category: `ai-coding-agents/`
+*   [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](https://arxiv.org/abs/2607.13162) (Score: 70) - Category: `ai-coding-agents/`
+*   [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) (Score: 70) - Category: `ai-coding-agents/`
+*   [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797) (Score: 70) - Category: `ai-coding-agents/`
+*   [Closed-Loop Dynamic Validator Node Scaling in Private Substrate Blockchains Using Takagi-Sugeno Fuzzy Inference](https://arxiv.org/abs/2607.07901) (Score: 70) - Category: `ai-coding-agents/`
+*   [Share No More Than the Request Requires: Federated Disclosure for Perspective-Aware AI](https://arxiv.org/abs/2607.22953) (Score: 70) - Category: `ai-coding-agents/`
+*   [Computation, Condensation, and the Incompleteness Between Them: A Coupled Foundation of Intelligence](https://arxiv.org/abs/2303.04203) (Score: 70) - Category: `ai-coding-agents/`
+*   [Failure as a Process: An Anatomy of CLI Coding Agent Trajectories](https://arxiv.org/abs/2607.09510) (Score: 70) - Category: `ai-coding-agents/`
+*   [From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation](https://arxiv.org/abs/2607.09664) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456) (Score: 70) - Category: `ai-coding-agents/`
+*   [Why Git Is the Memory Solution for the Agentic Development Lifecycle](https://arxiv.org/abs/2607.14390) (Score: 70) - Category: `ai-coding-agents/`
+*   [Strategic Buying Agents](https://arxiv.org/abs/2607.04708) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

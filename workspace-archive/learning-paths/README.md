@@ -9,23 +9,23 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 ## Top Matched Resources
 
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - ESSENTIAL Tier)
+- [LangChain Community: Connect, Learn & Build AI Agents](https://www.langchain.com/community) (framework - USEFUL Tier)
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (benchmark - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
-- [LangChain Community: Connect, Learn & Build AI Agents](https://www.langchain.com/community) (framework - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
+- [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com) (tutorial - USEFUL Tier)
 - [Collections · GitHub](https://github.com/collections) (template - USEFUL Tier)
-- [Postman Inc. · GitHub](https://github.com/postmanlabs) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
+- [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
 - [Collections · GitHub](https://github.com/collections)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
-- [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
-- [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-08-14 13:45 IST*
+*Last updated: 2026-08-14 16:13 IST*

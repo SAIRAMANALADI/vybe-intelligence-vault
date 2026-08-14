@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
 hn_url: https://news.ycombinator.com/item?id=49290768
-score: 102
+score: 110
 author: malshe
-comments_count: 57
+comments_count: 71
 published_at: '2026-08-14T00:55:38+05:30'
-collected_at: '2026-08-14T13:28:01.533322+05:30'
+collected_at: '2026-08-14T15:55:47.058440+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:how-organizations-use-ai-evidence-from-chatgpt-pdf
 first_seen: '2026-08-14T03:40:54.535431+05:30'
-last_seen: '2026-08-14T13:28:01.533322+05:30'
-last_checked: '2026-08-14T13:28:01.533322+05:30'
+last_seen: '2026-08-14T15:55:47.058440+05:30'
+last_checked: '2026-08-14T15:55:47.058440+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by malshe. Score: 102, Comments: 57.
+Hacker News story by malshe. Score: 110, Comments: 71.
 Original Link: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: malshe
-- Score: 102 Upvotes
-- Comments: 57 Discussions
+- Score: 110 Upvotes
+- Comments: 71 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49290768
 - Original Article: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
 
