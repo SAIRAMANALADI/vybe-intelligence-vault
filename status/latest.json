@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-08-15T15:56:52.217302+05:30",
+  "last_run": "2026-08-15T16:55:23.398155+05:30",
   "trigger": "manual",
   "resources_scanned": 19569,
-  "resources_added": 4,
+  "resources_added": 1,
   "resources_updated": 10,
   "resources_removed": 0,
   "status": "success"

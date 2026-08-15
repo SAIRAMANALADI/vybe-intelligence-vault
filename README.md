@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 133,276 files</p>
-        <p><b>Last Update:</b> 2026-08-15 15:56 IST</p>
+        <p><b>Last Update:</b> 2026-08-15 16:55 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,18 +210,15 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** • <kbd>+31 pts</kbd>
-- 🔼 **[AI by Hand](ai/community/ai-by-hand.md)** • <kbd>+28 pts</kbd>
-- 🔼 **[Show HN: ThoughtDAG – An editable context graph for LLM conversations](ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)** • <kbd>+19 pts</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+11</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+19</kbd>
+- 🔼 **[caramaschiHG/awesome-ai-agents-2026](ai/agents/caramaschihg-awesome-ai-agents-2026.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[NirDiamant/RAG_TECHNIQUES](ai/rag/nirdiamant-rag-techniques.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[dannyblaker/rag-tutorial](ai/rag/dannyblaker-rag-tutorial.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[HKUDS/LightRAG](ai/rag/hkuds-lightrag.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[HKUDS/RAG-Anything](ai/rag/hkuds-rag-anything.md)** • Rank: <kbd>+979</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Show HN: Deltix – AI Driven Testing](ai/community/ai-driven-testing.md)** • Score: `30`
-- 🆕 **[Suspecting court of using AI, man injected prompts in filings to try to win case](ai/community/suspecting-court-of-using-ai-man-injected-prompts.md)** • Score: `18`
-- 🆕 **[RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)** • Score: `0`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
