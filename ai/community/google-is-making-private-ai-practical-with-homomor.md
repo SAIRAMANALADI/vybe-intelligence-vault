@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption
 hn_url: https://news.ycombinator.com/item?id=49300314
-score: 307
+score: 356
 author: u1hcw9nx
-comments_count: 181
+comments_count: 210
 published_at: '2026-08-14T21:13:10+05:30'
-collected_at: '2026-08-15T09:26:13.031151+05:30'
+collected_at: '2026-08-15T12:28:34.757688+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:google-is-making-private-ai-practical-with-homomor
 first_seen: '2026-08-15T00:46:03.951872+05:30'
-last_seen: '2026-08-15T09:26:13.031151+05:30'
-last_checked: '2026-08-15T09:26:13.031151+05:30'
+last_seen: '2026-08-15T12:28:34.757688+05:30'
+last_checked: '2026-08-15T12:28:34.757688+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by u1hcw9nx. Score: 307, Comments: 181.
+Hacker News story by u1hcw9nx. Score: 356, Comments: 210.
 Original Link: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: u1hcw9nx
-- Score: 307 Upvotes
-- Comments: 181 Discussions
+- Score: 356 Upvotes
+- Comments: 210 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49300314
 - Original Article: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption
 

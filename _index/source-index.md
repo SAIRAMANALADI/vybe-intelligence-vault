@@ -15432,7 +15432,7 @@ Resources organized by publisher feed and query sources.
   - [NanGePlus/CrewAITest](../ai/agents/nangeplus-crewaitest.md)
   - [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
-  - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
+  - [NirDiamant/RAG_TECHNIQUES](../ai/rag/nirdiamant-rag-techniques.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
   - [Nithador/crewai_demo](../ai/agents/nithador-crewai-demo.md)
   - [NotPBShaw/awesome-ai-governance](../ai/agents/notpbshaw-awesome-ai-governance.md)
@@ -16175,9 +16175,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Driven Testing](../ai/community/ai-driven-testing.md)
   - [AI by Hand](../ai/community/ai-by-hand.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
+  - [Show HN: Deltix – AI Driven Testing](../ai/community/ai-driven-testing.md)
+  - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -17690,7 +17691,7 @@ Resources organized by publisher feed and query sources.
   - [Community Providers: Ollama](../ai/rag/community-providers-ollama.md)
   - [CompSust-2023: 2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment](../ai/rag/compsust-2023-2023-neurips-workshop-on-computation.md)
   - [CompSustNet: Home](../ai/rag/compsustnet-home.md)
-  - [Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube](../ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md)
+  - [Complete RAG Tutorial 2026: Build AI Apps with Retrieval Augmented Generation - YouTube](../ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md)
   - [Comprehensive Data Protection | Atlassian](../ai/resources/comprehensive-data-protection-atlassian.md)
   - [Comprobador de IBAN: validación de número de cuenta bancaria internacional](../ai/resources/comprobador-de-iban-validacion-de-numero-de-cuenta.md)
   - [Compte Wise : compte multidevise | Compte en devise étrangère](../ai/resources/compte-wise-compte-multidevise-compte-en-devise-et.md)
@@ -19343,6 +19344,7 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
+  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -19991,4 +19993,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T09:42:30.200885+05:30*
+*Index generated on 2026-08-15T12:44:46.036008+05:30*

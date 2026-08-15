@@ -40,7 +40,7 @@ selection_reason:
 
 ## Summary
 
-*   Leading RAG frameworks in 2026, including LangChain, L
+*   Leading RAG frameworks in 2026 include LangChain for flexible, agent
 
 ## Use Cases
 
