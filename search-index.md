@@ -23532,7 +23532,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.25415>
 
 * **[A controversial Alzheimer's surgery is said to reverse symptoms](ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jeffreyrogers. Score: 86, Comments: 33. Original Link: https://www.nature.com/articles/d41586-026-02448-x
+  * Summary: Hacker News story by jeffreyrogers. Score: 124, Comments: 52. Original Link: https://www.nature.com/articles/d41586-026-02448-x
   * Tags: `ai`, `hackernews`
   * Source URL: <https://nature.com/articles/d41586-026-02448-x>
 
@@ -23796,13 +23796,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`, `dataset`, `hackernews`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.scite.ai/>
 
+* **[AI in drug discovery — what it is, where we stand and the path forward](ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by AnodicElegy. Score: 44, Comments: 26. Original Link: https://www.nature.com/articles/s41573-026-01496-2
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://nature.com/articles/s41573-026-01496-2>
+
 * **[AI in Science Fellowship - Schmidt Sciences](ai/resources/ai-in-science-fellowship-schmidt-sciences.md)** (`tutorial` | `useful` tier)
   * Summary: - **Program Scope**: Supports ~160 Postdoctoral Fellows and 20 Faculty Fellows annually across nine global universities to integrate AI into STEM research, addressing uneven adoption and accelerating scientific breakthroughs. - **Research Focus**: Ta
   * Tags: `hackernews`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.schmidtsciences.org/schmidt-ai-in-science-postdocs>
 
 * **[AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rzk. Score: 70, Comments: 52. Original Link: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
+  * Summary: Hacker News story by rzk. Score: 296, Comments: 254. Original Link: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
   * Tags: `ai`, `hackernews`
   * Source URL: <https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians>
 
@@ -24522,7 +24527,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://data.research.cornell.edu/>
 
 * **[Could a computer scientist build a brain?](ai/community/could-a-computer-scientist-build-a-brain.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ogundipeore. Score: 43, Comments: 28. Original Link: https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/
+  * Summary: Hacker News story by ogundipeore. Score: 73, Comments: 50. Original Link: https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain>
 
@@ -25425,11 +25430,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **SDK Overview**: The Google Gen AI Python SDK interfaces with Google’s generative models via the `Gemini Developer API` and `Gemini Enterprise Agent Platform API`, supporting both sync/async clients with Pydantic/typed dictionaries for parameter v
   * Tags: `agents`, `benchmark`, `dataset`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://googleapis.github.io/python-genai/>
-
-* **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by u1hcw9nx. Score: 471, Comments: 275. Original Link: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption>
 
 * **[Google Play Android Developer API | Google Play Developer API | Google for Developers](ai/rag/google-play-android-developer-api-google-play-deve.md)** (`tutorial` | `useful` tier)
   * Summary: - **Edit-Based Workflow**: The API enforces a structured workflow where developers must `insert` an `Edit`, apply changes (e.g., APKs, bundles, metadata), and then `commit` or `validate` the edit before deployment. - **Comprehensive Resource Coverage
@@ -28085,6 +28085,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://blog.beezwax.net/why-fast-growing-teams-outgrow-spreadsheets>
 
+* **[Why tech bosses keep sharing their manifestos about AI](ai/community/why-tech-bosses-keep-sharing-their-manifestos-abou.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by tcp_handshaker. Score: 15, Comments: 39. Original Link: https://www.bbc.com/news/articles/cz97ljy91zxo
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://bbc.com/news/articles/cz97ljy91zxo>
+
 * **[Wikimedia Commons](ai/rag/wikimedia-commons.md)** (`tutorial` | `useful` tier)
   * Summary: - **Wikimedia Commons** is a free media repository hosting **143,411,315** files (images, videos, sounds, 3D models) under open licenses, enabling public contribution and reuse via structured data and API endpoints (e.g., `featuredfeed` for syndicati
   * Tags: `hackernews`, `rag`, `web-crawled`, `workflows`, `youtube`
@@ -28106,7 +28111,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.11022>
 
 * **[Working with AI Feels More Like Leadership Than Coding](ai/community/working-with-ai-feels-more-like-leadership-than-co.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by allenb. Score: 180, Comments: 124. Original Link: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/
+  * Summary: Hacker News story by allenb. Score: 217, Comments: 156. Original Link: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://allen.bargi.org/notes/working-with-ai-feels-like-leadership>
 
@@ -28126,7 +28131,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.17745>
 
 * **[Yadda 3.0.0: BDD in the Age of AI Agents](ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by scresswell. Score: 44, Comments: 20. Original Link: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html
+  * Summary: Hacker News story by scresswell. Score: 49, Comments: 24. Original Link: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <http://stephen-cresswell.com/2026/08/15/yadda-3.0.0-bdd-in-the-age-of-ai-agents.html>
 
@@ -86184,6 +86189,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `leaderboard`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://datahack.analyticsvidhya.com/?ref=global_footer>
 
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive tutorial series on large language model (LLM) application development. * Leverages Jupyter Notebooks for hands-on, executable learning modules. * Covers key LLM frameworks and architectures, specifically LangChain and Retrieval-Augmen
+  * Tags: `github-repo`, `jupyter notebook`, `rag`
+  * Source URL: <https://github.com/datawhalechina/llm-universe>
+
 * **[Design Methodology and Performance Trade-offs Management for Distributed and Compound AI Systems](ai/research/arxiv-2606-14350.md)** (`tutorial` | `useful` tier)
   * Summary: arXiv:2606.14350v1 Announce Type: cross Abstract: Artificial Intelligence (AI) systems must typically satisfy service-level objectives including accuracy, latency, and cost. The prevailing model-centric approaches select a monolithic model at design
   * Tags: `hackernews`, `workflows`
@@ -93094,7 +93104,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive guide for RAG application development, covering full-stack implementation with Python. *
+  * Summary: * Comprehensive RAG development guide covering full-stack implementation strategies. * Leverages `langchain` and `llama-index` for RAG orchestration, integrating vector databases (`milvus`) and knowledge graphs (`neo4
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -93102,11 +93112,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Repository Overview**: GitHub repository `datawhalechina/hello-agents` provides a comprehensive tutorial (`《从零开始构建智能体》`) on building AI agents from scratch, covering principles and practical implementations. - **Technical Scope**: Focuses on agen
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
-
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Provides a comprehensive tutorial for large language model (LLM) application development. * Emphasizes practical implementation using the LangChain framework and Retrieval-Augmented Generation (RAG) techniques. * Content is delivered through Jupyte
-  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
-  * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
   * Summary: - **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments. - **Tutorial Integration**: Pro
@@ -102173,7 +102178,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, indicating a static site generated via
+  * Summary: * Jekyll source repository for a static website (`raganwald.com`). *
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

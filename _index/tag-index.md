@@ -4522,8 +4522,9 @@ Resources organized by keyword tags.
 
   - [A controversial Alzheimer's surgery is said to reverse symptoms](../ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md)
   - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
+  - [AI in drug discovery — what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
   - [Could a computer scientist build a brain?](../ai/community/could-a-computer-scientist-build-a-brain.md)
-  - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
+  - [Why tech bosses keep sharing their manifestos about AI](../ai/community/why-tech-bosses-keep-sharing-their-manifestos-abou.md)
   - [Working with AI Feels More Like Leadership Than Coding](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md)
   - [Yadda 3.0.0: BDD in the Age of AI Agents](../ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)
 
@@ -17942,6 +17943,7 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
+  - [AI in drug discovery — what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -18917,7 +18919,6 @@ Resources organized by keyword tags.
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
-  - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
   - [Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority](../ai/agents/arxiv-2607-04613.md)
@@ -20503,6 +20504,7 @@ Resources organized by keyword tags.
   - [Why Git Is the Memory Solution for the Agentic Development Lifecycle](../ai/agents/arxiv-2607-14390.md)
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
+  - [Why tech bosses keep sharing their manifestos about AI](../ai/community/why-tech-bosses-keep-sharing-their-manifestos-abou.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
   - [Wikifunctions](../ai/resources/wikifunctions.md)
@@ -20616,7 +20618,6 @@ Resources organized by keyword tags.
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -45710,4 +45711,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T00:36:18.307154+05:30*
+*Index generated on 2026-08-16T03:24:08.746740+05:30*

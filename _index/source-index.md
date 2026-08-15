@@ -16177,8 +16177,9 @@ Resources organized by publisher feed and query sources.
 
   - [A controversial Alzheimer's surgery is said to reverse symptoms](../ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md)
   - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
+  - [AI in drug discovery — what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
   - [Could a computer scientist build a brain?](../ai/community/could-a-computer-scientist-build-a-brain.md)
-  - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
+  - [Why tech bosses keep sharing their manifestos about AI](../ai/community/why-tech-bosses-keep-sharing-their-manifestos-abou.md)
   - [Working with AI Feels More Like Leadership Than Coding](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md)
   - [Yadda 3.0.0: BDD in the Age of AI Agents](../ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)
 
@@ -19990,4 +19991,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T00:36:18.526906+05:30*
+*Index generated on 2026-08-16T03:24:08.967986+05:30*

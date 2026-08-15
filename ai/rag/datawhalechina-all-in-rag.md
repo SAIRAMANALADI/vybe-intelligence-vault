@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-16T00:20:44.721506+05:30'
+collected_at: '2026-08-16T03:08:35.387239+05:30'
 published_at: '2026-08-15T15:57:13Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-16T00:20:44.721506+05:30'
-last_seen: '2026-08-16T00:20:44.721506+05:30'
-last_checked: '2026-08-16T00:20:44.721506+05:30'
+first_seen: '2026-08-16T03:08:35.387239+05:30'
+last_seen: '2026-08-16T03:08:35.387239+05:30'
+last_checked: '2026-08-16T03:08:35.387239+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,8 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive guide for RAG application development, covering full-stack implementation with Python.
-*
+*   Comprehensive RAG development guide covering full-stack implementation strategies.
+*   Leverages `langchain` and `llama-index` for RAG orchestration, integrating vector databases (`milvus`) and knowledge graphs (`neo4
 
 ## Why It Matters
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-16T00:20:07.545093+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-is-making-private-ai-practical-with-homomor
 first_seen: '2026-08-15T00:46:03.951872+05:30'
 last_seen: '2026-08-16T00:20:07.545093+05:30'
 last_checked: '2026-08-16T00:20:07.545093+05:30'
 health_score: 100
 ---
+
 
 # Google is making private AI practical with homomorphic encryption
 
