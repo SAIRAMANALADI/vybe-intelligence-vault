@@ -14,13 +14,14 @@ collected_at: '2026-08-15T15:11:26.841412+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:suspecting-court-of-using-ai-man-injected-prompts
 first_seen: '2026-08-15T15:11:26.841412+05:30'
 last_seen: '2026-08-15T15:11:26.841412+05:30'
 last_checked: '2026-08-15T15:11:26.841412+05:30'
 health_score: 100
 ---
+
 
 # Suspecting court of using AI, man injected prompts in filings to try to win case
 

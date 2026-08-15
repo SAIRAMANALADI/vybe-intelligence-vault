@@ -16176,10 +16176,9 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI by Hand](../ai/community/ai-by-hand.md)
+  - [Debian has begun voting on the future of AI/LLM contributions](../ai/community/debian-has-begun-voting-on-the-future-of-ai-llm-co.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
-  - [Show HN: Deltix – AI Driven Testing](../ai/community/ai-driven-testing.md)
   - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)
-  - [Suspecting court of using AI, man injected prompts in filings to try to win case](../ai/community/suspecting-court-of-using-ai-man-injected-prompts.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19989,4 +19988,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T15:27:41.072489+05:30*
+*Index generated on 2026-08-15T18:47:05.751699+05:30*

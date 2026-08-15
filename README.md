@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-133%2C276-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-208%2C987-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--15-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **133,276 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **208,987 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,569</p>
-        <p><b>Active:</b> 18,966 | <b>Inactive:</b> 603</p>
+        <p><b>Resources tracked:</b> 20,548</p>
+        <p><b>Active:</b> 19,943 | <b>Inactive:</b> 605</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,267</p>
+        <p><b>Archive Files:</b> 77,021</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 133,276 files</p>
-        <p><b>Last Update:</b> 2026-08-15 18:10 IST</p>
+        <p><b>Total Vault Size:</b> 208,987 files</p>
+        <p><b>Last Update:</b> 2026-08-15 18:49 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[caramaschiHG/awesome-ai-agents-2026](ai/agents/caramaschihg-awesome-ai-agents-2026.md)** • Rank: <kbd>+978</kbd>
-- 🔼 **[NirDiamant/RAG_TECHNIQUES](ai/rag/nirdiamant-rag-techniques.md)** • Rank: <kbd>+978</kbd>
-- 🔼 **[dannyblaker/rag-tutorial](ai/rag/dannyblaker-rag-tutorial.md)** • Rank: <kbd>+978</kbd>
-- 🔼 **[HKUDS/LightRAG](ai/rag/hkuds-lightrag.md)** • Rank: <kbd>+978</kbd>
-- 🔼 **[HKUDS/RAG-Anything](ai/rag/hkuds-rag-anything.md)** • Rank: <kbd>+979</kbd>
+- 🔼 **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** • <kbd>+41 pts</kbd>
+- 🔼 **[Show HN: ThoughtDAG – An editable context graph for LLM conversations](ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)** • <kbd>+30 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[AI by Hand](ai/community/ai-by-hand.md)** • <kbd>+28 pts</kbd>
+- 🔼 **[SamuelSchmidgall/AgentLaboratory](ai/rag/samuelschmidgall-agentlaboratory.md)** • Rank: <kbd>+2713</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Debian has begun voting on the future of AI/LLM contributions](ai/community/debian-has-begun-voting-on-the-future-of-ai-llm-co.md)** • Score: `43`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Show HN: Deltix – AI Driven Testing](ai/community/ai-driven-testing.md)**
+- 💤 **[Suspecting court of using AI, man injected prompts in filings to try to win case](ai/community/suspecting-court-of-using-ai-man-injected-prompts.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

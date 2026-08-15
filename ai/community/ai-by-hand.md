@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://byhand.ai
 hn_url: https://news.ycombinator.com/item?id=49300568
-score: 303
+score: 331
 author: sans_souse
-comments_count: 23
+comments_count: 24
 published_at: '2026-08-14T21:28:59+05:30'
-collected_at: '2026-08-15T15:11:24.990811+05:30'
+collected_at: '2026-08-15T18:30:57.720248+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-by-hand
 first_seen: '2026-08-15T00:46:04.122181+05:30'
-last_seen: '2026-08-15T15:11:24.990811+05:30'
-last_checked: '2026-08-15T15:11:24.990811+05:30'
+last_seen: '2026-08-15T18:30:57.720248+05:30'
+last_checked: '2026-08-15T18:30:57.720248+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by sans_souse. Score: 303, Comments: 23.
+Hacker News story by sans_souse. Score: 331, Comments: 24.
 Original Link: https://www.byhand.ai/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: sans_souse
-- Score: 303 Upvotes
-- Comments: 23 Discussions
+- Score: 331 Upvotes
+- Comments: 24 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49300568
 - Original Article: https://byhand.ai
 

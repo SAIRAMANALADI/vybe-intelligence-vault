@@ -4520,9 +4520,8 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI by Hand](../ai/community/ai-by-hand.md)
+  - [Debian has begun voting on the future of AI/LLM contributions](../ai/community/debian-has-begun-voting-on-the-future-of-ai-llm-co.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
-  - [Show HN: Deltix – AI Driven Testing](../ai/community/ai-driven-testing.md)
-  - [Suspecting court of using AI, man injected prompts in filings to try to win case](../ai/community/suspecting-court-of-using-ai-man-injected-prompts.md)
 
 ## animation
 
@@ -18475,6 +18474,7 @@ Resources organized by keyword tags.
   - [Datenschutzrichtlinie - Shure Germany](../ai/rag/datenschutzrichtlinie-shure-germany.md)
   - [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md)
   - [Debian considers the Ubuntu font family "non-free". Why? - Open Source Stack Exchange](../ai/resources/debian-considers-the-ubuntu-font-family-non-free-w.md)
+  - [Debian has begun voting on the future of AI/LLM contributions](../ai/community/debian-has-begun-voting-on-the-future-of-ai-llm-co.md)
   - [Decentralized Federated Learning by Partial Message Exchange](../ai/research/arxiv-2603-01730.md)
   - [Decision-Driven Geosteering Under Uncertainty: A Unified Framework for Sequential Decision Optimization](../ai/research/arxiv-2606-17331.md)
   - [Decision-oriented joint optimization of evidence fusion based on event-conditioned credibility](../ai/research/arxiv-2504-04128.md)
@@ -19989,7 +19989,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Deltix – AI Driven Testing](../ai/community/ai-driven-testing.md)
   - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -20120,7 +20119,6 @@ Resources organized by keyword tags.
   - [Surrogate Benchmarks for Model Merging Optimization](../ai/research/arxiv-2509-02555.md)
   - [Surveillance Self-Defense](../ai/resources/surveillance-self-defense.md)
   - [Surveying GenAI-based Automation in Printed Circuit Board Design and Test](../ai/research/arxiv-2606-17074.md)
-  - [Suspecting court of using AI, man injected prompts in filings to try to win case](../ai/community/suspecting-court-of-using-ai-man-injected-prompts.md)
   - [Sustainable Materials Discovery in the Era of Artificial Intelligence](../ai/research/arxiv-2601-21527.md)
   - [SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery](../ai/agents/arxiv-2607-02807.md)
   - [Symplectic Neural Networks for Learning Non-Separable Hamiltonians](../ai/rag/arxiv-2606-27029.md)
@@ -21299,6 +21297,7 @@ Resources organized by keyword tags.
 
 ## llm
 
+  - [Debian has begun voting on the future of AI/LLM contributions](../ai/community/debian-has-begun-voting-on-the-future-of-ai-llm-co.md)
   - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)
 
 ## mdx
@@ -45710,4 +45709,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T15:27:40.848875+05:30*
+*Index generated on 2026-08-15T18:47:05.532391+05:30*

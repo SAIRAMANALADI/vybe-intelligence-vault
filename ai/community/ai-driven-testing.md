@@ -13,13 +13,14 @@ collected_at: '2026-08-15T15:11:27.315688+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-deltix-ai-driven-testing
 first_seen: '2026-08-15T09:26:13.723047+05:30'
 last_seen: '2026-08-15T15:11:27.315688+05:30'
 last_checked: '2026-08-15T15:11:27.315688+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Deltix – AI Driven Testing
 
