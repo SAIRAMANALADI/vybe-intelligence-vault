@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-15T09:44:56.234204+05:30`
+Generated at: `2026-08-15T10:04:41.301916+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **AI Driven Testing** - Score: `6` in category `ai/community` ([Link](https://app.deltix.ai)) ([File](../ai/community/ai-driven-testing.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Google is making private AI practical with homomorphic encryption** - Score: `307` (+27), Rank Change: `0` ([File](../ai/community/google-is-making-private-ai-practical-with-homomor.md))
-- **AI by Hand** - Score: `229` (+24), Rank Change: `0` ([File](../ai/community/ai-by-hand.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **facebook/MusicGen** - Score: `0` (0), Rank Change: `+3` ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - Score: `0` (0), Rank Change: `+3` ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - Score: `0` (0), Rank Change: `+3` ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - Score: `0` (0), Rank Change: `+3` ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - Score: `0` (0), Rank Change: `+3` ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - Score: `0` (0), Rank Change: `+3` ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **codebasics/ai-agents** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/codebasics-ai-agents.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **slavakurilyak/awesome-ai-agents** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/slavakurilyak-awesome-ai-agents.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **vin67/crewai_docker** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/vin67-crewai-docker.md))
+- **masumi-network/crewai-masumi-quickstart-template** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **raganwald/raganwald.github.com** - (Rank Change: `+981`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **facebook/MusicGen** - (Rank Change: `+3`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+3`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+3`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+3`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+3`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+3`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+3`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
-- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+3`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
-- **enzostvs/deepsite** - (Rank Change: `+3`) ([File](../ai/models/huggingface-spaces-enzostvs.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18333`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9237`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+980`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+980`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+980`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+980`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+980`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+980`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+980`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+980`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
