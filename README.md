@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 133,287 files</p>
-        <p><b>Last Update:</b> 2026-08-16 03:56 IST</p>
+        <p><b>Last Update:</b> 2026-08-16 04:55 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,23 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** • <kbd>+226 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[A controversial Alzheimer's surgery is said to reverse symptoms](ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md)** • <kbd>+38 pts</kbd>
-- 🔼 **[Working with AI Feels More Like Leadership Than Coding](ai/community/working-with-ai-feels-more-like-leadership-than-co.md)** • <kbd>+37 pts</kbd>
-- 🔼 **[Could a computer scientist build a brain?](ai/community/could-a-computer-scientist-build-a-brain.md)** • <kbd>+30 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Yadda 3.0.0: BDD in the Age of AI Agents](ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)** • <kbd>+5 pts</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[SamuelSchmidgall/AgentLaboratory](ai/rag/samuelschmidgall-agentlaboratory.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[caramaschiHG/awesome-ai-agents-2026](ai/agents/caramaschihg-awesome-ai-agents-2026.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[AI in drug discovery — what it is, where we stand and the path forward](ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)** • Score: `44`
-- 🆕 **[Why tech bosses keep sharing their manifestos about AI](ai/community/why-tech-bosses-keep-sharing-their-manifestos-abou.md)** • Score: `15`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
