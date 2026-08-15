@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-16T00:38:44.893372+05:30`
+Generated at: `2026-08-16T00:58:18.322087+05:30`
 
 ## Executive Summary
 
@@ -10,6 +10,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 - **A controversial Alzheimer's surgery is said to reverse symptoms** - Score: `86` in category `ai/community` ([Link](https://nature.com/articles/d41586-026-02448-x)) ([File](../ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md))
 - **AI Isn't Outthinking Mathematicians. It's Out-Remembering Them** - Score: `70` in category `ai/community` ([Link](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)) ([File](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -20,22 +21,22 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
 - **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/raganwald-raganwald-github-com.md))
 - **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-computer-interaction.md))
+- **SamuelSchmidgall/AgentLaboratory** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/samuelschmidgall-agentlaboratory.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **caramaschiHG/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/caramaschihg-awesome-ai-agents-2026.md))
 
 ## 🚀 Fastest Rising Tools
 
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18326`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9237`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
 - **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+985`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **Applied AI** - (Rank Change: `+147`) ([File](../ai/companies/openai/applied-ai.md))
-- **AI Adoption** - (Rank Change: `+147`) ([File](../ai/companies/openai/ai-adoption.md))
-- **Global Affairs** - (Rank Change: `+147`) ([File](../ai/companies/openai/global-affairs.md))
-- **Engineering** - (Rank Change: `+147`) ([File](../ai/companies/openai/engineering.md))
-- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
-- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
-- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
-- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
-- **Jul 27, 2026AnnouncementsOur position on open-weights models** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
+- **HKUDS/RAG-Anything** - (Rank Change: `+980`) ([File](../ai/rag/hkuds-rag-anything.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+980`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+980`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+980`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **malonge/RaGOO** - (Rank Change: `+980`) ([File](../ai/rag/malonge-ragoo.md))
+- **codebasics/ai-agents** - (Rank Change: `+980`) ([File](../ai/agents/codebasics-ai-agents.md))
+- **CALLE-AI/awesome-phone-call-agents** - (Rank Change: `+980`) ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
 
 ## 🔄 Essential Tier Transitions
 
