@@ -1,94 +1,16 @@
 {
-  "generated_at": "2026-08-16T00:58:18.322087+05:30",
+  "generated_at": "2026-08-16T01:56:58.365991+05:30",
   "trending_resources": [
     {
-      "id": "hackernews:working-with-ai-feels-more-like-leadership-than-co",
-      "title": "Working with AI Feels More Like Leadership Than Coding",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-      "file_path": "ai/community/working-with-ai-feels-more-like-leadership-than-co.md",
-      "score": 180,
-      "score_change": 98,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:could-a-computer-scientist-build-a-brain",
-      "title": "Could a computer scientist build a brain?",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain",
-      "file_path": "ai/community/could-a-computer-scientist-build-a-brain.md",
-      "score": 43,
-      "score_change": 38,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:yadda-3-0-0-bdd-in-the-age-of-ai-agents",
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "http://stephen-cresswell.com/2026/08/15/yadda-3.0.0-bdd-in-the-age-of-ai-agents.html",
-      "file_path": "ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md",
-      "score": 44,
-      "score_change": 28,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:google-is-making-private-ai-practical-with-homomor",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "file_path": "ai/community/google-is-making-private-ai-practical-with-homomor.md",
-      "score": 471,
-      "score_change": 18,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 985,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,6 +49,84 @@
       "file_path": "ai/agents/caramaschihg-awesome-ai-agents-2026.md",
       "score": 0,
       "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:nirdiamant/rag_techniques",
+      "title": "NirDiamant/RAG_TECHNIQUES",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/nirdiamant/rag_techniques",
+      "file_path": "ai/rag/nirdiamant-rag-techniques.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:dannyblaker/rag-tutorial",
+      "title": "dannyblaker/rag-tutorial",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/dannyblaker/rag-tutorial",
+      "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:hkuds/lightrag",
+      "title": "HKUDS/LightRAG",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/hkuds/lightrag",
+      "file_path": "ai/rag/hkuds-lightrag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:hkuds/rag-anything",
+      "title": "HKUDS/RAG-Anything",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/hkuds/rag-anything",
+      "file_path": "ai/rag/hkuds-rag-anything.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 979,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 979,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:ragnarokoffline/ragnarokoffline.github.io",
+      "title": "ragnarokoffline/ragnarokoffline.github.io",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/ragnarokoffline/ragnarokoffline.github.io",
+      "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
+      "score": 0,
+      "score_change": 0,
       "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 18326,
+      "rank_change": 18325,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,20 +155,7 @@
       "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9237,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 985,
+      "rank_change": 9236,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +168,7 @@
       "file_path": "ai/rag/hkuds-rag-anything.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 980,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +181,7 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 980,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 980,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/rag/particlemedia-ragtruth.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 980,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/rag/malonge-ragoo.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 980,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/agents/codebasics-ai-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 980,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,38 +246,25 @@
       "file_path": "ai/agents/calle-ai-awesome-phone-call-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 980,
+      "rank_change": 979,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:slavakurilyak/awesome-ai-agents",
+      "title": "slavakurilyak/awesome-ai-agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "file_path": "ai/agents/slavakurilyak-awesome-ai-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
-    {
-      "id": "hackernews:a-controversial-alzheimer-s-surgery-is-said-to-rev",
-      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://nature.com/articles/d41586-026-02448-x",
-      "file_path": "ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md",
-      "score": 86,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ai-isn-t-outthinking-mathematicians-it-s-out-remem",
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "file_path": "ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md",
-      "score": 70,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
@@ -305,32 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:show-hn-thoughtdag-an-editable-context-graph-for-l",
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://chenxiachan.github.io/thoughtdag",
-      "file_path": "ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md"
-    },
-    {
-      "id": "hackernews:secondhand-book-sales-are-booming-is-it-because-of",
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://bbc.co.uk/news/articles/cp3rprx2wl4o",
-      "file_path": "ai/community/secondhand-book-sales-are-booming-is-it-because-of.md"
-    },
-    {
-      "id": "hackernews:brain-turns-listening-inward-during-rem-sleep-eeg",
-      "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-      "file_path": "ai/community/brain-turns-listening-inward-during-rem-sleep-eeg.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

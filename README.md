@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 133,285 files</p>
-        <p><b>Last Update:</b> 2026-08-16 00:58 IST</p>
+        <p><b>Last Update:</b> 2026-08-16 01:56 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Working with AI Feels More Like Leadership Than Coding](ai/community/working-with-ai-feels-more-like-leadership-than-co.md)** • <kbd>+98 pts</kbd>
-- 🔼 **[Could a computer scientist build a brain?](ai/community/could-a-computer-scientist-build-a-brain.md)** • <kbd>+38 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Yadda 3.0.0: BDD in the Age of AI Agents](ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)** • <kbd>+28 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** • <kbd>+18 pts</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+985</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[SamuelSchmidgall/AgentLaboratory](ai/rag/samuelschmidgall-agentlaboratory.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[caramaschiHG/awesome-ai-agents-2026](ai/agents/caramaschihg-awesome-ai-agents-2026.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[NirDiamant/RAG_TECHNIQUES](ai/rag/nirdiamant-rag-techniques.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[A controversial Alzheimer's surgery is said to reverse symptoms](ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md)** • Score: `86`
-- 🆕 **[AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** • Score: `70`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Show HN: ThoughtDAG – An editable context graph for LLM conversations](ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)**
-- 💤 **[Secondhand book sales are booming. Is it because of AI?](ai/community/secondhand-book-sales-are-booming-is-it-because-of.md)**
-- 💤 **[Brain turns listening inward during REM sleep, EEG recordings suggest](ai/community/brain-turns-listening-inward-during-rem-sleep-eeg.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
