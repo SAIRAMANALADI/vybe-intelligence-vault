@@ -4,23 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-08-15T07:21:52.624613+05:30'
-published_at: '2026-08-14T21:21:51Z'
+collected_at: '2026-08-15T09:26:57.361238+05:30'
+published_at: '2026-08-15T03:48:16Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-stars: 13776
+stars: 13780
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-07-28T13:47:59Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-08-15T07:21:52.624613+05:30'
-last_seen: '2026-08-15T07:21:52.624613+05:30'
-last_checked: '2026-08-15T07:21:52.624613+05:30'
+first_seen: '2026-08-15T09:26:57.361238+05:30'
+last_seen: '2026-08-15T09:26:57.361238+05:30'
+last_checked: '2026-08-15T09:26:57.361238+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a comprehensive tutorial for novice developers on large language model (LLM) application development.
-*   Leverages LangChain as a primary framework and implements Retrieval-Augmented Generation (RAG) techniques for enhanced LLM functionality.
-*   Content is delivered primarily through Jupyter Notebooks, enabling interactive code execution and practical learning.
+*   Comprehensive tutorial series on large language model (LLM) application development.
+*   Emphasizes practical implementation using the LangChain framework and Retrieval Augmented Generation (RAG) architectures.
+*   Content delivered through Jupyter Notebooks, facilitating interactive code-based learning.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 13776
+- Stars: 13780
 - Forks: 1398
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-08-14T21:21:51Z
+- Last Updated: 2026-08-15T03:48:16Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
 - Pushed At: 2026-07-28T13:47:59Z

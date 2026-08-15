@@ -16175,6 +16175,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI Driven Testing](../ai/community/ai-driven-testing.md)
   - [AI by Hand](../ai/community/ai-by-hand.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
 
@@ -19990,4 +19991,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T07:37:20.464979+05:30*
+*Index generated on 2026-08-15T09:42:30.200885+05:30*

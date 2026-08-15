@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [continuedev/continue](https://github.com/continuedev/continue) (Tier: `useful` | [`Local File`](../../ai/agents/continuedev-continue.md))
 
 ---
-*Last updated: 2026-08-15 07:39 IST*
+*Last updated: 2026-08-15 09:44 IST*

@@ -4521,6 +4521,7 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI Driven Testing](../ai/community/ai-driven-testing.md)
   - [AI by Hand](../ai/community/ai-by-hand.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
 
@@ -17922,6 +17923,7 @@ Resources organized by keyword tags.
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
   - [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)
+  - [AI Driven Testing](../ai/community/ai-driven-testing.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
   - [AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages](../ai/research/arxiv-2505-10300.md)
@@ -20621,7 +20623,6 @@ Resources organized by keyword tags.
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -45743,4 +45744,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T07:37:20.241260+05:30*
+*Index generated on 2026-08-15T09:42:29.987910+05:30*
