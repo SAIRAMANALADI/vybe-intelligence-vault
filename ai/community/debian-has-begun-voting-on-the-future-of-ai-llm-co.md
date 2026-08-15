@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:debian-has-begun-voting-on-the-future-of-ai-llm-co
 first_seen: '2026-08-15T18:30:58.295545+05:30'
 last_seen: '2026-08-15T18:30:58.295545+05:30'
 last_checked: '2026-08-15T18:30:58.295545+05:30'
 health_score: 100
 ---
+
 
 # Debian has begun voting on the future of AI/LLM contributions
 

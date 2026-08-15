@@ -4178,6 +4178,7 @@ Resources organized by keyword tags.
   - [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md)
   - [XMedFusion: A Knowledge-Guided Multimodal Perception and Reasoning Framework for Autonomous Medical Systems](../ai/agents/arxiv-2606-14766.md)
   - [YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate](../ai/rag/arxiv-2607-09706.md)
+  - [Yadda 3.0.0: BDD in the Age of AI Agents](../ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)
   - [YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications](../ai/rag/arxiv-2606-13722.md)
   - [You Live More Than Once: Towards Hierarchical Skill Meta-Evolving](../ai/agents/arxiv-2605-28390.md)
   - [YouTube API Services - Developer Policies | Google for Developers](../ai/rag/youtube-api-services-developer-policies-google-for.md)
@@ -4519,9 +4520,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI by Hand](../ai/community/ai-by-hand.md)
-  - [Debian has begun voting on the future of AI/LLM contributions](../ai/community/debian-has-begun-voting-on-the-future-of-ai-llm-co.md)
+  - [Brain turns listening inward during REM sleep, EEG recordings suggest](../ai/community/brain-turns-listening-inward-during-rem-sleep-eeg.md)
+  - [Could a computer scientist build a brain?](../ai/community/could-a-computer-scientist-build-a-brain.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
+  - [Secondhand book sales are booming. Is it because of AI?](../ai/community/secondhand-book-sales-are-booming-is-it-because-of.md)
+  - [Working with AI Feels More Like Leadership Than Coding](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md)
+  - [Yadda 3.0.0: BDD in the Age of AI Agents](../ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)
 
 ## animation
 
@@ -17933,7 +17937,6 @@ Resources organized by keyword tags.
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
-  - [AI by Hand](../ai/community/ai-by-hand.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
@@ -18203,6 +18206,7 @@ Resources organized by keyword tags.
   - [Bounding Box Label Propagation for Re-Annotation of Document Layout Analysis Datasets](../ai/rag/arxiv-2606-17644.md)
   - [Boğaziçi University](../ai/resources/bogazici-university.md)
   - [Boğaziçi Üniversitesi - Harita](../ai/resources/bogazici-universitesi-harita.md)
+  - [Brain turns listening inward during REM sleep, EEG recordings suggest](../ai/community/brain-turns-listening-inward-during-rem-sleep-eeg.md)
   - [BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding](../ai/agents/arxiv-2606-25400.md)
   - [Branch and Bound for Relational Verification of Neural Networks](../ai/research/arxiv-2608-13118.md)
   - [BrandPeng/Langchain1.0-Langgraph1.0-Learning](../ai/agents/brandpeng-langchain1-0-langgraph1-0-learning.md)
@@ -18422,6 +18426,7 @@ Resources organized by keyword tags.
   - [Cosmos 3: Omnimodal World Models for Physical AI](../ai/agents/arxiv-2606-02800.md)
   - [Cost-Sensitive Conformal Prediction and Human-in-the-Loop Abstention for Imbalanced High-Stakes Decision Support: A Multi-Domain Benchmark](../ai/rag/arxiv-2607-27143.md)
   - [CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification](../ai/research/arxiv-2606-14686.md)
+  - [Could a computer scientist build a brain?](../ai/community/could-a-computer-scientist-build-a-brain.md)
   - [Counterfactual Methods for Detecting Unfairness in Anti-Money Laundering Algorithms](../ai/rag/arxiv-2607-05101.md)
   - [CourseGraph: Finding overlaps and differences in Computer Science courses across universities](../ai/research/arxiv-2608-05910.md)
   - [Crawl | Firecrawl](../ai/rag/crawl-firecrawl.md)
@@ -18474,7 +18479,6 @@ Resources organized by keyword tags.
   - [Datenschutzrichtlinie - Shure Germany](../ai/rag/datenschutzrichtlinie-shure-germany.md)
   - [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md)
   - [Debian considers the Ubuntu font family "non-free". Why? - Open Source Stack Exchange](../ai/resources/debian-considers-the-ubuntu-font-family-non-free-w.md)
-  - [Debian has begun voting on the future of AI/LLM contributions](../ai/community/debian-has-begun-voting-on-the-future-of-ai-llm-co.md)
   - [Decentralized Federated Learning by Partial Message Exchange](../ai/research/arxiv-2603-01730.md)
   - [Decision-Driven Geosteering Under Uncertainty: A Unified Framework for Sequential Decision Optimization](../ai/research/arxiv-2606-17331.md)
   - [Decision-oriented joint optimization of evidence fusion based on event-conditioned credibility](../ai/research/arxiv-2504-04128.md)
@@ -19949,6 +19953,7 @@ Resources organized by keyword tags.
   - [Search Results – Stanford University](../ai/resources/search-results-stanford-university.md)
   - [Search | CSRC](../ai/rag/search-csrc.md)
   - [SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response](../ai/agents/arxiv-2607-26791.md)
+  - [Secondhand book sales are booming. Is it because of AI?](../ai/community/secondhand-book-sales-are-booming-is-it-because-of.md)
   - [Section 1201 - 2010 | U.S. Copyright Office](../ai/agents/section-1201-2010-u-s-copyright-office.md)
   - [Section 1201 Study | U.S. Copyright Office](../ai/agents/section-1201-study-u-s-copyright-office.md)
   - [Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling](../ai/research/arxiv-2607-08867.md)
@@ -20509,6 +20514,7 @@ Resources organized by keyword tags.
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
+  - [Working with AI Feels More Like Leadership Than Coding](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md)
   - [World Leader in Artificial Intelligence Computing | NVIDIA](../ai/rag/world-leader-in-artificial-intelligence-computing.md)
   - [Writing a Research Paper: 2nd Edition | Nature Masterclasses](../ai/resources/writing-a-research-paper-2nd-edition-nature-master.md)
   - [X+Slides: Benchmarking Audience-Conditioned Slide Generation](../ai/rag/arxiv-2606-19256.md)
@@ -20516,6 +20522,7 @@ Resources organized by keyword tags.
   - [XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models](../ai/research/arxiv-2606-14003.md)
   - [YAML Ain’t Markup Language (YAML™) revision 1.2.2](../ai/rag/yaml-aint-markup-language-yamltm-revision-1-2-2.md)
   - [YTClickbait21K: Human-Annotated Multimodal Dataset for YouTube Clickbait Detection Across Diverse Channels and Content Categories](../ai/research/arxiv-2606-14780.md)
+  - [Yadda 3.0.0: BDD in the Age of AI Agents](../ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)
   - [Yazılım Geliştirme Birimi sitesine hoşgeldiniz | Yazılım Geliştirme Birimi](../ai/resources/yazilim-gelistirme-birimi-sitesine-hosgeldiniz-yaz.md)
   - [Yes, And...Laughter Lab](../ai/rag/yes-and-laughter-lab.md)
   - [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md)
@@ -21297,7 +21304,6 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Debian has begun voting on the future of AI/LLM contributions](../ai/community/debian-has-begun-voting-on-the-future-of-ai-llm-co.md)
   - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)
 
 ## mdx
@@ -45709,4 +45715,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T18:47:05.532391+05:30*
+*Index generated on 2026-08-15T21:23:32.791858+05:30*

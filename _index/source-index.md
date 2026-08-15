@@ -16175,10 +16175,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI by Hand](../ai/community/ai-by-hand.md)
-  - [Debian has begun voting on the future of AI/LLM contributions](../ai/community/debian-has-begun-voting-on-the-future-of-ai-llm-co.md)
+  - [Brain turns listening inward during REM sleep, EEG recordings suggest](../ai/community/brain-turns-listening-inward-during-rem-sleep-eeg.md)
+  - [Could a computer scientist build a brain?](../ai/community/could-a-computer-scientist-build-a-brain.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
+  - [Secondhand book sales are booming. Is it because of AI?](../ai/community/secondhand-book-sales-are-booming-is-it-because-of.md)
   - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)
+  - [Working with AI Feels More Like Leadership Than Coding](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md)
+  - [Yadda 3.0.0: BDD in the Age of AI Agents](../ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19988,4 +19991,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T18:47:05.751699+05:30*
+*Index generated on 2026-08-15T21:23:33.025987+05:30*

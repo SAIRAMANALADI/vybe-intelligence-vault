@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://chenxiachan.github.io/thoughtdag
 hn_url: https://news.ycombinator.com/item?id=49307700
-score: 58
+score: 82
 author: chatchan
-comments_count: 15
+comments_count: 25
 published_at: '2026-08-15T10:12:07+05:30'
-collected_at: '2026-08-15T18:30:57.130478+05:30'
+collected_at: '2026-08-15T21:07:25.459219+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:show-hn-thoughtdag-an-editable-context-graph-for-l
 first_seen: '2026-08-15T12:28:35.310296+05:30'
-last_seen: '2026-08-15T18:30:57.130478+05:30'
-last_checked: '2026-08-15T18:30:57.130478+05:30'
+last_seen: '2026-08-15T21:07:25.459219+05:30'
+last_checked: '2026-08-15T21:07:25.459219+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by chatchan. Score: 58, Comments: 15.
+Hacker News story by chatchan. Score: 82, Comments: 25.
 Original Link: https://chenxiachan.github.io/thoughtdag/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: chatchan
-- Score: 58 Upvotes
-- Comments: 15 Discussions
+- Score: 82 Upvotes
+- Comments: 25 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49307700
 - Original Article: https://chenxiachan.github.io/thoughtdag
 

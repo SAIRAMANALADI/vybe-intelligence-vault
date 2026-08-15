@@ -13,13 +13,14 @@ collected_at: '2026-08-15T18:30:57.720248+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-by-hand
 first_seen: '2026-08-15T00:46:04.122181+05:30'
 last_seen: '2026-08-15T18:30:57.720248+05:30'
 last_checked: '2026-08-15T18:30:57.720248+05:30'
 health_score: 100
 ---
+
 
 # AI by Hand
 
