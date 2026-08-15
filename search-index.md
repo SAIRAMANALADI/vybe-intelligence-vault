@@ -23782,7 +23782,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
 * **[AI by Hand](ai/community/ai-by-hand.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sans_souse. Score: 132, Comments: 11. Original Link: https://www.byhand.ai/
+  * Summary: Hacker News story by sans_souse. Score: 205, Comments: 17. Original Link: https://www.byhand.ai/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://byhand.ai>
 
@@ -23895,11 +23895,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2603.07053v4 Announce Type: replace Abstract: Scientists face significant visualization challenges as time-varying datasets grow in speed and volume, often requiring specialized infrastructure and expertise to handle massive datasets. Petascale
   * Tags: `dataset`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2603.07053>
-
-* **[Anthropic Risk August 2026 [pdf]](ai/community/anthropic-risk-august-2026-pdf.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by artninja1988. Score: 48, Comments: 40. Original Link: https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf
-  * Tags: `anthropic`, `hackernews`
-  * Source URL: <https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/redacted%20risk%20report%20august%202026%20.pdf>
 
 * **[Antora](ai/resources/antora.md)** (`tutorial` | `useful` tier)
   * Summary: - **Multi-repository aggregation**: Antora retrieves and aggregates AsciiDoc documentation from one or more Git repositories (local, remote, private, or public), supporting versioning via branches and ignoring non-published branches, enabling decentr
@@ -25427,7 +25422,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://googleapis.github.io/python-genai/>
 
 * **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by u1hcw9nx. Score: 195, Comments: 126. Original Link: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/
+  * Summary: Hacker News story by u1hcw9nx. Score: 280, Comments: 169. Original Link: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption>
 
@@ -28054,11 +28049,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.29090v1 Announce Type: new Abstract: Postoperative adverse events, including mortality and morbidity, remain a major global burden, many of which are preventable through early identification of high-risk patients and targeted perioperative
   * Tags: `benchmark`, `dataset`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.29090>
-
-* **[What You Gain by Building Your Own Game Engine](ai/community/what-you-gain-by-building-your-own-game-engine.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by kwakwa_cat. Score: 19, Comments: 18. Original Link: https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html>
 
 * **[When Are Scoring Rules Proper? Bridging Theory and Practice in Survival Model Evaluation](ai/rag/arxiv-2212-05260.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2212.05260v4 Announce Type: replace-cross Abstract: Proper scoring rules encourage probabilistic predictions that match the true underlying distribution and are central to model evaluation, with increasing relevance in automated workflows such
@@ -71927,7 +71917,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1511, Downloads: 29660008)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1513, Downloads: 29660008)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -93103,8 +93093,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive RAG implementation guide covering foundational LLM integration, advanced retrieval strategies, and multimodal extensions. * Leverages prominent Python frameworks like LangChain and LlamaIndex for orchestrating RAG pipelines. * Explore
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive RAG full-stack guide leveraging `langchain` and `llama-index`
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -93113,9 +93103,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides a foundational tutorial for large language model (LLM) application development. * Employs LangChain for LLM orchestration and Retrieval-Augmented Generation (RAG) methodologies. * Implemented in Jupyter Notebooks, targeting practical appli
-  * Tags: `github-repo`, `jupyter notebook`, `rag`
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * Provides a comprehensive tutorial for novice developers on large language model (LLM) application development. * Leverages LangChain as a primary framework and implements Retrieval-Augmented Generation (RAG) techniques for enhanced LLM functionalit
+  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
@@ -98986,7 +98976,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Deprecated Python-based bioinformatics tool for *de novo* genome assembly and scaffolding. * Functionality superseded by RagTag (mal
+  * Summary: * Python-based bioinformatics tool for *de novo* genome assembly and scaffolding. * Functionally deprecated, with development transitioned to the successor RagTag project. * Primary application involves ordering and orienting contigs into chromosome-
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -101088,8 +101078,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces `RAGTruth`, a specialized corpus for identifying and quantifying hallucinations in
-  * Tags: `github-repo`, `python`, `rag`
+  * Summary: * Introduces RAGTruth, a specialized corpus designed for identifying and analyzing hallucinations. * Aims to enhance the trustworthiness and factual consistency of Retrieval-Augmented Language Models (RAGs). * Provides a benchmark for developing and
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[PASE: Leveraging the Phonological Prior of WavLM for Low-Hallucination Generative Speech Enhancement](ai/rag/arxiv-2511-13300.md)** (`framework` | `useful` tier)

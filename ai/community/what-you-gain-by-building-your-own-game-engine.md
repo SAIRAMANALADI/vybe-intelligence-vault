@@ -13,13 +13,14 @@ collected_at: '2026-08-15T03:11:44.711509+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-you-gain-by-building-your-own-game-engine
 first_seen: '2026-08-15T03:11:44.711509+05:30'
 last_seen: '2026-08-15T03:11:44.711509+05:30'
 last_checked: '2026-08-15T03:11:44.711509+05:30'
 health_score: 100
 ---
+
 
 # What You Gain by Building Your Own Game Engine
 

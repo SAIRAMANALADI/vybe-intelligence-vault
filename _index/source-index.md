@@ -16176,9 +16176,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI by Hand](../ai/community/ai-by-hand.md)
-  - [Anthropic Risk August 2026 [pdf]](../ai/community/anthropic-risk-august-2026-pdf.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
-  - [What You Gain by Building Your Own Game Engine](../ai/community/what-you-gain-by-building-your-own-game-engine.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19992,4 +19990,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T03:28:02.345068+05:30*
+*Index generated on 2026-08-15T07:37:20.464979+05:30*
