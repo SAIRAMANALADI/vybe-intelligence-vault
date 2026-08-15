@@ -4520,10 +4520,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Brain turns listening inward during REM sleep, EEG recordings suggest](../ai/community/brain-turns-listening-inward-during-rem-sleep-eeg.md)
+  - [A controversial Alzheimer's surgery is said to reverse symptoms](../ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md)
+  - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
   - [Could a computer scientist build a brain?](../ai/community/could-a-computer-scientist-build-a-brain.md)
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
-  - [Secondhand book sales are booming. Is it because of AI?](../ai/community/secondhand-book-sales-are-booming-is-it-because-of.md)
   - [Working with AI Feels More Like Leadership Than Coding](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md)
   - [Yadda 3.0.0: BDD in the Age of AI Agents](../ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)
 
@@ -17901,6 +17901,7 @@ Resources organized by keyword tags.
   - [A Unified Model for Cross-Domain Clone Detection via Model Merging](../ai/rag/arxiv-2608-04215.md)
   - [A VAE-Driven Multi-Task Satellite-Aided Semantic Communication Framework for 6G-Enabled Connected Autonomous Vehicles](../ai/rag/arxiv-2607-13494.md)
   - [A Van Trees Lower Bound for Fully Interactive Differentially Private Federated Learning](../ai/research/arxiv-2605-19813.md)
+  - [A controversial Alzheimer's surgery is said to reverse symptoms](../ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md)
   - [A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility](../ai/rag/arxiv-2607-24663.md)
   - [A matched-integrator evaluation of Hamiltonian neural networks on pendulum and Kepler dynamics](../ai/research/arxiv-2608-10235.md)
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
@@ -17918,6 +17919,7 @@ Resources organized by keyword tags.
   - [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
+  - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
   - [AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages](../ai/research/arxiv-2505-10300.md)
   - [AI Literacy for Legal Translation: Developing Digital Resilience](../ai/research/arxiv-2608-04641.md)
   - [AI Model Catalog | Microsoft Foundry Models](../ai/agents/ai-model-catalog-microsoft-foundry-models.md)
@@ -18206,7 +18208,6 @@ Resources organized by keyword tags.
   - [Bounding Box Label Propagation for Re-Annotation of Document Layout Analysis Datasets](../ai/rag/arxiv-2606-17644.md)
   - [Boğaziçi University](../ai/resources/bogazici-university.md)
   - [Boğaziçi Üniversitesi - Harita](../ai/resources/bogazici-universitesi-harita.md)
-  - [Brain turns listening inward during REM sleep, EEG recordings suggest](../ai/community/brain-turns-listening-inward-during-rem-sleep-eeg.md)
   - [BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding](../ai/agents/arxiv-2606-25400.md)
   - [Branch and Bound for Relational Verification of Neural Networks](../ai/research/arxiv-2608-13118.md)
   - [BrandPeng/Langchain1.0-Langgraph1.0-Learning](../ai/agents/brandpeng-langchain1-0-langgraph1-0-learning.md)
@@ -19953,7 +19954,6 @@ Resources organized by keyword tags.
   - [Search Results – Stanford University](../ai/resources/search-results-stanford-university.md)
   - [Search | CSRC](../ai/rag/search-csrc.md)
   - [SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response](../ai/agents/arxiv-2607-26791.md)
-  - [Secondhand book sales are booming. Is it because of AI?](../ai/community/secondhand-book-sales-are-booming-is-it-because-of.md)
   - [Section 1201 - 2010 | U.S. Copyright Office](../ai/agents/section-1201-2010-u-s-copyright-office.md)
   - [Section 1201 Study | U.S. Copyright Office](../ai/agents/section-1201-study-u-s-copyright-office.md)
   - [Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling](../ai/research/arxiv-2607-08867.md)
@@ -19994,7 +19994,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -21301,10 +21300,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)
 
 ## mdx
 
@@ -45715,4 +45710,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T21:23:32.791858+05:30*
+*Index generated on 2026-08-16T00:36:18.307154+05:30*

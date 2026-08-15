@@ -13,13 +13,14 @@ collected_at: '2026-08-15T21:07:23.145439+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:secondhand-book-sales-are-booming-is-it-because-of
 first_seen: '2026-08-15T21:07:23.145439+05:30'
 last_seen: '2026-08-15T21:07:23.145439+05:30'
 last_checked: '2026-08-15T21:07:23.145439+05:30'
 health_score: 100
 ---
+
 
 # Secondhand book sales are booming. Is it because of AI?
 

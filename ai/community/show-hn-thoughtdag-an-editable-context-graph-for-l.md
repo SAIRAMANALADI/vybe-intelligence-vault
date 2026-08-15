@@ -13,13 +13,14 @@ collected_at: '2026-08-15T21:07:25.459219+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:show-hn-thoughtdag-an-editable-context-graph-for-l
 first_seen: '2026-08-15T12:28:35.310296+05:30'
 last_seen: '2026-08-15T21:07:25.459219+05:30'
 last_checked: '2026-08-15T21:07:25.459219+05:30'
 health_score: 100
 ---
+
 
 # Show HN: ThoughtDAG – An editable context graph for LLM conversations
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-15T21:07:25.265650+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:brain-turns-listening-inward-during-rem-sleep-eeg
 first_seen: '2026-08-15T21:07:25.265650+05:30'
 last_seen: '2026-08-15T21:07:25.265650+05:30'
 last_checked: '2026-08-15T21:07:25.265650+05:30'
 health_score: 100
 ---
+
 
 # Brain turns listening inward during REM sleep, EEG recordings suggest
 

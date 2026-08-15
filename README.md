@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-133%2C282-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-208%2C996-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--16-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **133,282 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **208,996 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,575</p>
-        <p><b>Active:</b> 18,968 | <b>Inactive:</b> 607</p>
+        <p><b>Resources tracked:</b> 20,555</p>
+        <p><b>Active:</b> 19,945 | <b>Inactive:</b> 610</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,267</p>
+        <p><b>Archive Files:</b> 77,022</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 133,282 files</p>
-        <p><b>Last Update:</b> 2026-08-16 00:02 IST</p>
+        <p><b>Total Vault Size:</b> 208,996 files</p>
+        <p><b>Last Update:</b> 2026-08-16 00:38 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,24 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[SamuelSchmidgall/AgentLaboratory](ai/rag/samuelschmidgall-agentlaboratory.md)** • Rank: <kbd>+978</kbd>
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+978</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+978</kbd>
-- 🔼 **[caramaschiHG/awesome-ai-agents-2026](ai/agents/caramaschihg-awesome-ai-agents-2026.md)** • Rank: <kbd>+978</kbd>
-- 🔼 **[NirDiamant/RAG_TECHNIQUES](ai/rag/nirdiamant-rag-techniques.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[Working with AI Feels More Like Leadership Than Coding](ai/community/working-with-ai-feels-more-like-leadership-than-co.md)** • <kbd>+98 pts</kbd>
+- 🔼 **[Could a computer scientist build a brain?](ai/community/could-a-computer-scientist-build-a-brain.md)** • <kbd>+38 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Yadda 3.0.0: BDD in the Age of AI Agents](ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)** • <kbd>+28 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** • <kbd>+18 pts</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+985</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[A controversial Alzheimer's surgery is said to reverse symptoms](ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md)** • Score: `86`
+- 🆕 **[AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** • Score: `70`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Show HN: ThoughtDAG – An editable context graph for LLM conversations](ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)**
+- 💤 **[Secondhand book sales are booming. Is it because of AI?](ai/community/secondhand-book-sales-are-booming-is-it-because-of.md)**
+- 💤 **[Brain turns listening inward during REM sleep, EEG recordings suggest](ai/community/brain-turns-listening-inward-during-rem-sleep-eeg.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
