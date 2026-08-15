@@ -16179,6 +16179,7 @@ Resources organized by publisher feed and query sources.
   - [Google is making private AI practical with homomorphic encryption](../ai/community/google-is-making-private-ai-practical-with-homomor.md)
   - [Show HN: Deltix – AI Driven Testing](../ai/community/ai-driven-testing.md)
   - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)
+  - [Suspecting court of using AI, man injected prompts in filings to try to win case](../ai/community/suspecting-court-of-using-ai-man-injected-prompts.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -17539,7 +17540,6 @@ Resources organized by publisher feed and query sources.
   - [Building A Music-Based Combat System For Fretless: The Wrath of Riffson | Unity](../ai/resources/building-a-music-based-combat-system-for-fretless.md)
   - [Building Agentic Retrieval with LlamaParse Index](../ai/rag/building-agentic-retrieval-with-llamaparse-index.md)
   - [Building RAG Systems from Scratch: A Practical Guide | Md. Zahid Hasan](../ai/rag/building-rag-systems-from-scratch-a-practical-guid.md)
-  - [Building RAG Systems: From Zero to Hero - DEV Community](../ai/rag/building-rag-systems-from-zero-to-hero-dev-communi.md)
   - [Building RAG-based LLM Applications for Production](../ai/rag/building-rag-based-llm-applications-for-production.md)
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
   - [Building scalable AI agents with modular prompt transpilation - Google Developers Blog](../ai/rag/building-scalable-ai-agents-with-modular-prompt-tr.md)
@@ -17691,7 +17691,6 @@ Resources organized by publisher feed and query sources.
   - [Community Providers: Ollama](../ai/rag/community-providers-ollama.md)
   - [CompSust-2023: 2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment](../ai/rag/compsust-2023-2023-neurips-workshop-on-computation.md)
   - [CompSustNet: Home](../ai/rag/compsustnet-home.md)
-  - [Complete RAG Tutorial 2026: Build AI Apps with Retrieval Augmented Generation - YouTube](../ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md)
   - [Comprehensive Data Protection | Atlassian](../ai/resources/comprehensive-data-protection-atlassian.md)
   - [Comprobador de IBAN: validación de número de cuenta bancaria internacional](../ai/resources/comprobador-de-iban-validacion-de-numero-de-cuenta.md)
   - [Compte Wise : compte multidevise | Compte en devise étrangère](../ai/resources/compte-wise-compte-multidevise-compte-en-devise-et.md)
@@ -18984,7 +18983,6 @@ Resources organized by publisher feed and query sources.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md)
   - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)
@@ -19344,7 +19342,6 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
-  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -19496,7 +19493,6 @@ Resources organized by publisher feed and query sources.
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere” | MIT News | Massachuse](../ai/rag/universal-ai-is-a-pathway-to-ai-fluency-thats-acce.md)
-  - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [University Audit Office](../ai/resources/university-audit-office.md)
   - [University Corporation for Atmospheric Research | University Corporation for Atmospheric Research](../ai/resources/university-corporation-for-atmospheric-research-un.md)
   - [University of California | Office of The President](../ai/resources/university-of-california-office-of-the-president.md)
@@ -19993,4 +19989,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-15T12:44:46.036008+05:30*
+*Index generated on 2026-08-15T15:27:41.072489+05:30*

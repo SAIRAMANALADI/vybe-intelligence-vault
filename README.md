@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-133%2C275-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-208%2C988-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--15-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **133,275 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **208,988 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,568</p>
-        <p><b>Active:</b> 18,965 | <b>Inactive:</b> 603</p>
+        <p><b>Resources tracked:</b> 20,547</p>
+        <p><b>Active:</b> 19,944 | <b>Inactive:</b> 603</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,267</p>
+        <p><b>Archive Files:</b> 77,023</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 133,275 files</p>
-        <p><b>Last Update:</b> 2026-08-15 15:00 IST</p>
+        <p><b>Total Vault Size:</b> 208,988 files</p>
+        <p><b>Last Update:</b> 2026-08-15 15:30 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,18 +210,18 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[NirDiamant/RAG_TECHNIQUES](ai/rag/nirdiamant-rag-techniques.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[dannyblaker/rag-tutorial](ai/rag/dannyblaker-rag-tutorial.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[HKUDS/LightRAG](ai/rag/hkuds-lightrag.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[HKUDS/RAG-Anything](ai/rag/hkuds-rag-anything.md)** • Rank: <kbd>+7</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+7</kbd>
+- 🔼 **[Google is making private AI practical with homomorphic encryption](ai/community/google-is-making-private-ai-practical-with-homomor.md)** • <kbd>+31 pts</kbd>
+- 🔼 **[AI by Hand](ai/community/ai-by-hand.md)** • <kbd>+28 pts</kbd>
+- 🔼 **[Show HN: ThoughtDAG – An editable context graph for LLM conversations](ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md)** • <kbd>+19 pts</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+11</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+19</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Show HN: Deltix – AI Driven Testing](ai/community/ai-driven-testing.md)** • Score: `23`
+- 🆕 **[Show HN: Deltix – AI Driven Testing](ai/community/ai-driven-testing.md)** • Score: `30`
+- 🆕 **[Suspecting court of using AI, man injected prompts in filings to try to win case](ai/community/suspecting-court-of-using-ai-man-injected-prompts.md)** • Score: `18`
 - 🆕 **[RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)** • Score: `0`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

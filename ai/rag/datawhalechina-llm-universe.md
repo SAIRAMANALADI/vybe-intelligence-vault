@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-08-15T12:29:30.433850+05:30'
+collected_at: '2026-08-15T15:12:11.759084+05:30'
 published_at: '2026-08-15T04:47:20Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 13782
 language: Jupyter Notebook
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-07-28T13:47:59Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-08-15T12:29:30.433850+05:30'
-last_seen: '2026-08-15T12:29:30.433850+05:30'
-last_checked: '2026-08-15T12:29:30.433850+05:30'
+first_seen: '2026-08-15T15:12:11.759084+05:30'
+last_seen: '2026-08-15T15:12:11.759084+05:30'
+last_checked: '2026-08-15T15:12:11.759084+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive LLM application development tutorial, targeting practical implementation.
-*   Focuses on LangChain for workflow orchestration and RAG (Retrieval-Augmented Generation) for enhanced LLM capabilities.
-*   Content is structured as interactive Jupyter Notebooks, facilitating hands-on learning.
+*   Provides a Jupyter Notebook-based tutorial series on practical LLM application development.
+*   Emphasizes implementation using the LangChain framework for building LLM applications.
+*   Covers Retrieval-Augmented Generation (RAG) as a core technique for enhancing LLM capabilities.
 
 ## Why It Matters
 
