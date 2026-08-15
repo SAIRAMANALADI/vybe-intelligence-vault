@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-15T12:46:07.235838+05:30`
+Generated at: `2026-08-15T13:05:40.051841+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Show HN: ThoughtDAG – An editable context graph for LLM conversations** - Score: `9` in category `ai/community` ([Link](https://chenxiachan.github.io/thoughtdag)) ([File](../ai/community/show-hn-thoughtdag-an-editable-context-graph-for-l.md))
-- **Complete RAG Tutorial 2026: Build AI Apps with Retrieval Augmented Generation - YouTube** - Score: `0` in category `ai/rag` ([Link](https://youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY)) ([File](../ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md))
-- **The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar** - Score: `0` in category `ai/rag` ([Link](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems)) ([File](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md))
+- **Show HN: Deltix – AI Driven Testing** - Score: `23` in category `ai/community` ([Link](https://app.deltix.ai)) ([File](../ai/community/ai-driven-testing.md))
+- **RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium** - Score: `0` in category `ai/rag` ([Link](https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280)) ([File](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Google is making private AI practical with homomorphic encryption** - Score: `356` (+49), Rank Change: `0` ([File](../ai/community/google-is-making-private-ai-practical-with-homomor.md))
-- **AI by Hand** - Score: `275` (+46), Rank Change: `0` ([File](../ai/community/ai-by-hand.md))
-- **Show HN: Deltix – AI Driven Testing** - Score: `23` (+17), Rank Change: `0` ([File](../ai/community/ai-driven-testing.md))
-- **caramaschiHG/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+2526` ([File](../ai/agents/caramaschihg-awesome-ai-agents-2026.md))
-- **RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog** - Score: `0` (0), Rank Change: `+2642` ([File](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md))
-- **NirDiamant/RAG_TECHNIQUES** - Score: `0` (0), Rank Change: `+2636` ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **dannyblaker/rag-tutorial** - Score: `0` (0), Rank Change: `+2644` ([File](../ai/rag/dannyblaker-rag-tutorial.md))
-- **Medium** - Score: `0` (0), Rank Change: `+3731` ([File](../ai/rag/medium-2.md))
-- **Building RAG Systems: From Zero to Hero - DEV Community** - Score: `0` (0), Rank Change: `+3715` ([File](../ai/rag/building-rag-systems-from-zero-to-hero-dev-communi.md))
-- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** - Score: `0` (0), Rank Change: `+2643` ([File](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md))
+- **NirDiamant/RAG_TECHNIQUES** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/nirdiamant-rag-techniques.md))
+- **dannyblaker/rag-tutorial** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/dannyblaker-rag-tutorial.md))
+- **HKUDS/LightRAG** - Score: `0` (0), Rank Change: `+6` ([File](../ai/rag/hkuds-lightrag.md))
+- **HKUDS/RAG-Anything** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/hkuds-rag-anything.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/datawhalechina-llm-universe.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **HKUDS/RAG-Anything** - (Rank Change: `+12922`) ([File](../ai/rag/hkuds-rag-anything.md))
-- **Medium** - (Rank Change: `+3731`) ([File](../ai/rag/medium-2.md))
-- **Building RAG Systems: From Zero to Hero - DEV Community** - (Rank Change: `+3715`) ([File](../ai/rag/building-rag-systems-from-zero-to-hero-dev-communi.md))
-- **dannyblaker/rag-tutorial** - (Rank Change: `+2644`) ([File](../ai/rag/dannyblaker-rag-tutorial.md))
-- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** - (Rank Change: `+2643`) ([File](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md))
-- **RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog** - (Rank Change: `+2642`) ([File](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md))
-- **NirDiamant/RAG_TECHNIQUES** - (Rank Change: `+2636`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **infiniflow/ragflow** - (Rank Change: `+2611`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **caramaschiHG/awesome-ai-agents-2026** - (Rank Change: `+2526`) ([File](../ai/agents/caramaschihg-awesome-ai-agents-2026.md))
-- **HKUDS/LightRAG** - (Rank Change: `+2444`) ([File](../ai/rag/hkuds-lightrag.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18330`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9240`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **codebasics/ai-agents** - (Rank Change: `+985`) ([File](../ai/agents/codebasics-ai-agents.md))
+- **CALLE-AI/awesome-phone-call-agents** - (Rank Change: `+985`) ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **slavakurilyak/awesome-ai-agents** - (Rank Change: `+985`) ([File](../ai/agents/slavakurilyak-awesome-ai-agents.md))
+- **vin67/crewai_docker** - (Rank Change: `+985`) ([File](../ai/agents/vin67-crewai-docker.md))
+- **masumi-network/crewai-masumi-quickstart-template** - (Rank Change: `+985`) ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
+- **AlexPEClub/ai-coding-starter-kit** - (Rank Change: `+985`) ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- **vercel-labs/coding-agent-template** - (Rank Change: `+985`) ([File](../ai/rag/vercel-labs-coding-agent-template.md))
+- **mergisi/awesome-openclaw-agents** - (Rank Change: `+985`) ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
 
 ## 🔄 Essential Tier Transitions
 
