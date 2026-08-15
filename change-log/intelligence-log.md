@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-08-15T14:02:21.393684+05:30
+### Run: 2026-08-15T15:00:33.301714+05:30
 - **[New Discovery]** `Show HN: Deltix – AI Driven Testing` registered with score `23` in `ai/community`
 - **[New Discovery]** `RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium` registered with score `0` in `ai/rag`
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
@@ -18965,7 +18965,7 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `infiniflow/ragflow`: Rank dropped by -18949
 - **[Rank Drop]** `Medium`: Rank dropped by -18955
 
-### Run: 2026-08-15T13:05:40.051841+05:30
+### Run: 2026-08-15T14:02:21.393684+05:30
 - **[New Discovery]** `Show HN: Deltix – AI Driven Testing` registered with score `23` in `ai/community`
 - **[New Discovery]** `RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium` registered with score `0` in `ai/rag`
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
