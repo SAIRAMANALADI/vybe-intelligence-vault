@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-16T15:59:15.284992+05:30`
+Generated at: `2026-08-16T16:56:59.704638+05:30`
 
 ## Executive Summary
 
@@ -8,21 +8,20 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **What happens when an LLM never sees material beyond fifth grade?** - Score: `106` in category `ai/community` ([Link](https://littlelearner-ll.github.io)) ([File](../ai/community/what-happens-when-an-llm-never-sees-material-beyon.md))
 - **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **AI has access to a vastly larger working memory than the human brain** - Score: `494` (+22), Rank Change: `0` ([File](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md))
-- **AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code** - Score: `33` (+12), Rank Change: `-1` ([File](../ai/community/arxiv-2608-13122.md))
-- **AI in drug discovery – what it is, where we stand and the path forward** - Score: `138` (+9), Rank Change: `0` ([File](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/malonge-ragoo.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **SamuelSchmidgall/AgentLaboratory** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/samuelschmidgall-agentlaboratory.md))
-- **caramaschiHG/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/caramaschihg-awesome-ai-agents-2026.md))
-- **NirDiamant/RAG_TECHNIQUES** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/nirdiamant-rag-techniques.md))
+- **alexfazio/crewAI-quickstart** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/alexfazio-crewai-quickstart.md))
+- **adongwanai/AgentGuide** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/adongwanai-agentguide.md))
+- **muhammad-uzair-yasin/CrewAi_starter_template** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md))
+- **viktoriasemaan/multi-agent** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/viktoriasemaan-multi-agent.md))
+- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/airweave-ai-airweave.md))
+- **fetchai/innovation-lab-examples** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/fetchai-innovation-lab-examples.md))
+- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/docker-compose-for-agents.md))
 
 ## 🚀 Fastest Rising Tools
 
@@ -46,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Program with Paint Brushes, Not Pencils** (Category: `ai/community`) ([File](../ai/community/program-with-paint-brushes-not-pencils.md))
+No recently active resources transitioned to inactive.
+

@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 138,294 files</p>
-        <p><b>Last Update:</b> 2026-08-16 15:59 IST</p>
+        <p><b>Last Update:</b> 2026-08-16 16:56 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,22 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[AI has access to a vastly larger working memory than the human brain](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** • <kbd>+22 pts</kbd>
-- 🔼 **[AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](ai/community/arxiv-2608-13122.md)** • <kbd>+12 pts</kbd>
-- 🔼 **[AI in drug discovery – what it is, where we stand and the path forward](ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)** • <kbd>+9 pts</kbd>
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+15</kbd>
-- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+17</kbd>
+- 🔼 **[alexfazio/crewAI-quickstart](ai/agents/alexfazio-crewai-quickstart.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[adongwanai/AgentGuide](ai/rag/adongwanai-agentguide.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[muhammad-uzair-yasin/CrewAi_starter_template](ai/agents/muhammad-uzair-yasin-crewai-starter-template.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[viktoriasemaan/multi-agent](ai/agents/viktoriasemaan-multi-agent.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[CALLE-AI/awesome-phone-call-agents](ai/agents/calle-ai-awesome-phone-call-agents.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[What happens when an LLM never sees material beyond fifth grade?](ai/community/what-happens-when-an-llm-never-sees-material-beyon.md)** • Score: `106`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Program with Paint Brushes, Not Pencils](ai/community/program-with-paint-brushes-not-pencils.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
