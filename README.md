@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-214%2C023-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-138%2C303-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--17-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **214,023 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **138,303 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,571</p>
-        <p><b>Active:</b> 19,947 | <b>Inactive:</b> 624</p>
+        <p><b>Resources tracked:</b> 19,593</p>
+        <p><b>Active:</b> 18,969 | <b>Inactive:</b> 624</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 77,031</p>
+        <p><b>Archive Files:</b> 2,267</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 214,023 files</p>
-        <p><b>Last Update:</b> 2026-08-17 00:39 IST</p>
+        <p><b>Total Vault Size:</b> 138,303 files</p>
+        <p><b>Last Update:</b> 2026-08-17 00:59 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -214,7 +214,7 @@ score_threshold: 0.65
 - 🔼 **[The AI Credit Resale Economy](ai/community/the-ai-credit-resale-economy.md)** • <kbd>+107 pts</kbd> • Rank: <kbd>+1</kbd>
 - 🔼 **[Show HN: A public AI whose memory is shared across all users](ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md)** • <kbd>+39 pts</kbd>
 - 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+977</kbd>
-- 🔼 **[React Canaries: Enabling Incremental Feature Rollout Outside Meta](web-development/react-canaries-enabling-incremental-feature-rollou.md)** • Rank: <kbd>+915</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+974</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
@@ -223,6 +223,7 @@ score_threshold: 0.65
 - 🆕 **[AI Coding Without the Vibes](ai/community/ai-coding-without-the-vibes.md)** • Score: `58`
 - 🆕 **[Archie G. Norcross' Maine Forest Fire Maps (1918–22)](ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)** • Score: `15`
 - 🆕 **[The deep history behind the Road to Nowhere inside the Great Smoky Mountains](ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)** • Score: `8`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
