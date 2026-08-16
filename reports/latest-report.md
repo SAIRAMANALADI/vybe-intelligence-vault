@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-17T03:26:38.922529+05:30`
+Generated at: `2026-08-17T03:57:57.180643+05:30`
 
 ## Executive Summary
 
@@ -12,6 +12,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **The Case Against Formal Verification, 50 Years Later** - Score: `31` in category `ai/community` ([Link](https://ivan-gavran.github.io/0-social-processes-paper)) ([File](../ai/community/the-case-against-formal-verification-50-years-late.md))
 - **Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast** - Score: `9` in category `ai/community` ([Link](https://reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15)) ([File](../ai/community/anthropic-ipo-valuation-hinges-on-190-200b-2028-re.md))
 - **Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee** - Score: `5` in category `ai/community` ([Link](https://reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14)) ([File](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -20,24 +21,24 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core** - Score: `128` (+34), Rank Change: `0` ([File](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md))
 - **The deep history behind the Road to Nowhere inside the Great Smoky Mountains** - Score: `17` (+9), Rank Change: `0` ([File](../ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md))
 - **Archie G. Norcross' Maine Forest Fire Maps (1918–22)** - Score: `21` (+6), Rank Change: `0` ([File](../ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md))
-- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - Score: `0` (0), Rank Change: `+7` ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
-- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - Score: `0` (0), Rank Change: `+7` ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
-- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - Score: `0` (0), Rank Change: `+7` ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
-- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - Score: `0` (0), Rank Change: `+7` ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
-- **Jul 27, 2026AnnouncementsOur position on open-weights models** - Score: `0` (0), Rank Change: `+7` ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+976` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+976` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+976` ([File](../ai/rag/malonge-ragoo.md))
+- **alexfazio/crewAI-quickstart** - Score: `0` (0), Rank Change: `+976` ([File](../ai/agents/alexfazio-crewai-quickstart.md))
+- **adongwanai/AgentGuide** - Score: `0` (0), Rank Change: `+976` ([File](../ai/rag/adongwanai-agentguide.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-nvidia.md))
-- **allenai/c4** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-allenai.md))
-- **anisoleai/fineweb-tokenized** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-anisoleai.md))
-- **IPEC-COMMUNITY/language_table_lerobot** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-ipec-community.md))
-- **ayuo/hd_tmp** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-ayuo.md))
-- **Salesforce/wikitext** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-salesforce.md))
-- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
-- **huggingface/documentation-images** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-huggingface.md))
-- **k9cli/video-vec2wav2-tokenizer** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-k9cli.md))
-- **KakologArchives/KakologArchives** - (Rank Change: `+764`) ([File](../ai/models/huggingface-datasets-kakologarchives.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18323`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9234`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **HKUDS/RAG-Anything** - (Rank Change: `+977`) ([File](../ai/rag/hkuds-rag-anything.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+977`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **codebasics/ai-agents** - (Rank Change: `+977`) ([File](../ai/agents/codebasics-ai-agents.md))
+- **slavakurilyak/awesome-ai-agents** - (Rank Change: `+977`) ([File](../ai/agents/slavakurilyak-awesome-ai-agents.md))
+- **vin67/crewai_docker** - (Rank Change: `+977`) ([File](../ai/agents/vin67-crewai-docker.md))
+- **masumi-network/crewai-masumi-quickstart-template** - (Rank Change: `+977`) ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
+- **AlexPEClub/ai-coding-starter-kit** - (Rank Change: `+977`) ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- **vercel-labs/coding-agent-template** - (Rank Change: `+977`) ([File](../ai/rag/vercel-labs-coding-agent-template.md))
 
 ## 🔄 Essential Tier Transitions
 
