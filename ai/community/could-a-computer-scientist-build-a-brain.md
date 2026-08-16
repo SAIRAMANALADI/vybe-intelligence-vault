@@ -13,13 +13,14 @@ collected_at: '2026-08-16T03:07:57.993265+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:could-a-computer-scientist-build-a-brain
 first_seen: '2026-08-15T21:07:24.620595+05:30'
 last_seen: '2026-08-16T03:07:57.993265+05:30'
 last_checked: '2026-08-16T03:07:57.993265+05:30'
 health_score: 100
 ---
+
 
 # Could a computer scientist build a brain?
 

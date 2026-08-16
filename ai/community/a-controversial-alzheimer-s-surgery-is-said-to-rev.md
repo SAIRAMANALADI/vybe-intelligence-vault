@@ -13,13 +13,14 @@ collected_at: '2026-08-16T03:07:57.708024+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-controversial-alzheimer-s-surgery-is-said-to-rev
 first_seen: '2026-08-16T00:20:04.662241+05:30'
 last_seen: '2026-08-16T03:07:57.708024+05:30'
 last_checked: '2026-08-16T03:07:57.708024+05:30'
 health_score: 100
 ---
+
 
 # A controversial Alzheimer's surgery is said to reverse symptoms
 

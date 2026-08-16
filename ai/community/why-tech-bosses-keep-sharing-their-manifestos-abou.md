@@ -13,13 +13,14 @@ collected_at: '2026-08-16T03:07:58.706454+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:why-tech-bosses-keep-sharing-their-manifestos-abou
 first_seen: '2026-08-16T03:07:58.706454+05:30'
 last_seen: '2026-08-16T03:07:58.706454+05:30'
 last_checked: '2026-08-16T03:07:58.706454+05:30'
 health_score: 100
 ---
+
 
 # Why tech bosses keep sharing their manifestos about AI
 

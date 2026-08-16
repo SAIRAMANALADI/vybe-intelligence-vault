@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:yadda-3-0-0-bdd-in-the-age-of-ai-agents
 first_seen: '2026-08-15T21:07:23.575273+05:30'
 last_seen: '2026-08-16T03:07:58.553379+05:30'
 last_checked: '2026-08-16T03:07:58.553379+05:30'
 health_score: 100
 ---
+
 
 # Yadda 3.0.0: BDD in the Age of AI Agents
 
