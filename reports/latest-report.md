@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-16T09:50:07.241986+05:30`
+Generated at: `2026-08-16T10:10:59.478452+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **AI has access to a vastly larger working memory than the human brain** - Score: `443` in category `ai/community` ([Link](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)) ([File](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md))
-- **AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code** - Score: `14` in category `ai/community` ([Link](https://arxiv.org/abs/2608.13122)) ([File](../ai/community/arxiv-2608-13122.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **AI in drug discovery – what it is, where we stand and the path forward** - Score: `113` (+20), Rank Change: `0` ([File](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md))
-- **Working with AI feels more like leadership than coding** - Score: `283` (+13), Rank Change: `0` ([File](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+983` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/computer-vision.md))
-- **Audio & acoustics** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/audio-acoustics.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/malonge-ragoo.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **SamuelSchmidgall/AgentLaboratory** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/samuelschmidgall-agentlaboratory.md))
+- **caramaschiHG/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/caramaschihg-awesome-ai-agents-2026.md))
+- **NirDiamant/RAG_TECHNIQUES** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/nirdiamant-rag-techniques.md))
+- **dannyblaker/rag-tutorial** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/dannyblaker-rag-tutorial.md))
+- **HKUDS/LightRAG** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/hkuds-lightrag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **datawhalechina/all-in-rag** - (Rank Change: `+983`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **banned-historical-archives/banned-historical-archives** - (Rank Change: `+23`) ([File](../ai/models/huggingface-datasets-banned-historical-archives.md))
-- **allenai/c4** - (Rank Change: `+23`) ([File](../ai/models/huggingface-datasets-allenai.md))
-- **IPEC-COMMUNITY/language_table_lerobot** - (Rank Change: `+23`) ([File](../ai/models/huggingface-datasets-ipec-community.md))
-- **ayuo/hd_tmp** - (Rank Change: `+23`) ([File](../ai/models/huggingface-datasets-ayuo.md))
-- **Salesforce/wikitext** - (Rank Change: `+23`) ([File](../ai/models/huggingface-datasets-salesforce.md))
-- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+23`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
-- **anisoleai/fineweb-tokenized** - (Rank Change: `+23`) ([File](../ai/models/huggingface-datasets-anisoleai.md))
-- **huggingface/documentation-images** - (Rank Change: `+23`) ([File](../ai/models/huggingface-datasets-huggingface.md))
-- **k9cli/video-vec2wav2-tokenizer** - (Rank Change: `+23`) ([File](../ai/models/huggingface-datasets-k9cli.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18325`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9236`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **HKUDS/RAG-Anything** - (Rank Change: `+979`) ([File](../ai/rag/hkuds-rag-anything.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+979`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+979`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **codebasics/ai-agents** - (Rank Change: `+979`) ([File](../ai/agents/codebasics-ai-agents.md))
+- **CALLE-AI/awesome-phone-call-agents** - (Rank Change: `+979`) ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **slavakurilyak/awesome-ai-agents** - (Rank Change: `+979`) ([File](../ai/agents/slavakurilyak-awesome-ai-agents.md))
+- **vin67/crewai_docker** - (Rank Change: `+979`) ([File](../ai/agents/vin67-crewai-docker.md))
+- **masumi-network/crewai-masumi-quickstart-template** - (Rank Change: `+979`) ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **I Remain a Skeptic** (Category: `ai/community`) ([File](../ai/community/i-remain-a-skeptic.md))
-- **Jaithon 3, a fast programming language with the perfect syntax** (Category: `ai/community`) ([File](../ai/community/abhiramasonny-jaithon.md))
-- **The complete AI SEO playbook: from zero to 4.6M impressions in 3 months** (Category: `ai/community`) ([File](../ai/community/tracecohentech-ai-seo-playbook.md))
+No recently active resources transitioned to inactive.
+
