@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-08-16T16:56:59.704638+05:30
+### Run: 2026-08-16T18:12:21.769332+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `alexfazio/crewAI-quickstart`: Rank rose by +978
 - **[Rank Rise]** `adongwanai/AgentGuide`: Rank rose by +978
@@ -18962,16 +18962,25 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `stanford-oval/storm`: Rank dropped by -15202
 - **[Rank Drop]** `infiniflow/ragflow`: Rank dropped by -17956
 
-### Run: 2026-08-16T15:59:15.284992+05:30
-- **[New Discovery]** `What happens when an LLM never sees material beyond fifth grade?` registered with score `106` in `ai/community`
+### Run: 2026-08-16T16:56:59.704638+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
-- **[Score Increase]** `AI has access to a vastly larger working memory than the human brain`: 472 -> 494 (+22)
-- **[Score Increase]** `AI in drug discovery – what it is, where we stand and the path forward`: 129 -> 138 (+9)
-- **[Score Increase]** `AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code`: 21 -> 33 (+12)
-- **[Rank Rise]** `datawhalechina/llm-universe`: Rank rose by +15
-- **[Rank Rise]** `malonge/RaGOO`: Rank rose by +17
-- **[Rank Rise]** `raganwald/raganwald.github.com`: Rank rose by +17
-- **[Rank Rise]** `datawhalechina/all-in-rag`: Rank rose by +17
+- **[Rank Rise]** `alexfazio/crewAI-quickstart`: Rank rose by +978
+- **[Rank Rise]** `adongwanai/AgentGuide`: Rank rose by +978
+- **[Rank Rise]** `muhammad-uzair-yasin/CrewAi_starter_template`: Rank rose by +978
+- **[Rank Rise]** `viktoriasemaan/multi-agent`: Rank rose by +978
+- **[Rank Rise]** `CALLE-AI/awesome-phone-call-agents`: Rank rose by +978
+- **[Rank Rise]** `kylestratis/ai_agents_mcp_examples`: Rank rose by +978
+- **[Rank Rise]** `WenyuChiou/awesome-agentic-ai-zh`: Rank rose by +978
+- **[Rank Rise]** `airweave-ai/airweave`: Rank rose by +978
+- **[Rank Rise]** `fetchai/innovation-lab-examples`: Rank rose by +978
+- **[Rank Rise]** `docker/compose-for-agents`: Rank rose by +978
+- **[Rank Rise]** `coleam00/ottomator-agents`: Rank rose by +978
+- **[Rank Rise]** `huangjia2019/ai-agents`: Rank rose by +978
+- **[Rank Rise]** `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow`: Rank rose by +978
+- **[Rank Rise]** `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow`: Rank rose by +978
+- **[Rank Rise]** `ragnarokoffline/ragnarokoffline.github.io`: Rank rose by +978
+- **[Rank Rise]** `ParticleMedia/RAGTruth`: Rank rose by +978
+- **[Rank Rise]** `SylphAI-Inc/GithubChat`: Rank rose by +978
 - **[Rank Rise]** `SamuelSchmidgall/AgentLaboratory`: Rank rose by +978
 - **[Rank Rise]** `caramaschiHG/awesome-ai-agents-2026`: Rank rose by +978
 - **[Rank Rise]** `NirDiamant/RAG_TECHNIQUES`: Rank rose by +978
@@ -23953,14 +23962,5 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Rise]** `Atlassian Community | Learn, connect, and grow`: Rank rose by +979
 - **[Rank Rise]** `Unstructured Data & AI Engineering Blog | Unstructured`: Rank rose by +979
 - **[Rank Rise]** `How personalized ads work - Android - My Ad Center Help`: Rank rose by +979
-- **[Rank Rise]** `Ads that Respect Your Privacy - Google Safety Center`: Rank rose by +979
-- **[Rank Rise]** `Information Commissioner's Office (ICO) - YouTube`: Rank rose by +979
-- **[Rank Rise]** `Machine Learning in the Tidyverse Course | DataCamp`: Rank rose by +979
-- **[Rank Rise]** `Visual Studio Support - Customer Help & FAQs`: Rank rose by +979
-- **[Rank Rise]** `Atlassian Customer Agreement | Atlassian`: Rank rose by +979
-- **[Rank Rise]** `Docker | Weaviate Documentation`: Rank rose by +979
-- **[Rank Rise]** `Control your ad experience - My Ad Center Help`: Rank rose by +979
-- **[Rank Rise]** `Back up or import your blog - Blogger Help`: Rank rose by +979
-- **[Rank Rise]** `cpg/CHANGELOG.md at master · mozilla/cpg · GitHub`: Rank rose by +979
 
 ... (older logs truncated to save space) ...
