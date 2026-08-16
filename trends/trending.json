@@ -1,55 +1,16 @@
 {
-  "generated_at": "2026-08-17T00:59:39.020786+05:30",
+  "generated_at": "2026-08-17T01:57:39.373781+05:30",
   "trending_resources": [
     {
-      "id": "hackernews:research-papers-using-kidney-disappointment-instea",
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-      "file_path": "ai/community/research-papers-using-kidney-disappointment-instea.md",
-      "score": 267,
-      "score_change": 108,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:the-ai-credit-resale-economy",
-      "title": "The AI Credit Resale Economy",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "file_path": "ai/community/the-ai-credit-resale-economy.md",
-      "score": 150,
-      "score_change": 107,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:show-hn-a-public-ai-whose-memory-is-shared-across",
-      "title": "Show HN: A public AI whose memory is shared across all users",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://wildstatic.com",
-      "file_path": "ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md",
-      "score": 52,
-      "score_change": 39,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
+      "id": "github:particlemedia/ragtruth",
+      "title": "ParticleMedia/RAGTruth",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "url": "https://github.com/particlemedia/ragtruth",
+      "file_path": "ai/rag/particlemedia-ragtruth.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -62,7 +23,7 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 974,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -75,7 +36,7 @@
       "file_path": "ai/rag/malonge-ragoo.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 975,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +49,7 @@
       "file_path": "ai/agents/alexfazio-crewai-quickstart.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 975,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +62,7 @@
       "file_path": "ai/rag/adongwanai-agentguide.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 975,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +75,7 @@
       "file_path": "ai/agents/muhammad-uzair-yasin-crewai-starter-template.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 975,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +88,46 @@
       "file_path": "ai/agents/viktoriasemaan-multi-agent.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 975,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:calle-ai/awesome-phone-call-agents",
+      "title": "CALLE-AI/awesome-phone-call-agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/calle-ai/awesome-phone-call-agents",
+      "file_path": "ai/agents/calle-ai-awesome-phone-call-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:kylestratis/ai_agents_mcp_examples",
+      "title": "kylestratis/ai_agents_mcp_examples",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/kylestratis/ai_agents_mcp_examples",
+      "file_path": "ai/agents/kylestratis-ai-agents-mcp-examples.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:wenyuchiou/awesome-agentic-ai-zh",
+      "title": "WenyuChiou/awesome-agentic-ai-zh",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/wenyuchiou/awesome-agentic-ai-zh",
+      "file_path": "ai/rag/wenyuchiou-awesome-agentic-ai-zh.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 18322,
+      "rank_change": 18325,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,20 +155,7 @@
       "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9233,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 9236,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +168,7 @@
       "file_path": "ai/rag/hkuds-rag-anything.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +181,7 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/agents/codebasics-ai-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/agents/slavakurilyak-awesome-ai-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/agents/vin67-crewai-docker.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/agents/masumi-network-crewai-masumi-quickstart-template.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,64 +246,25 @@
       "file_path": "ai/agents/alexpeclub-ai-coding-starter-kit.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 979,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:vercel-labs/coding-agent-template",
+      "title": "vercel-labs/coding-agent-template",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/vercel-labs/coding-agent-template",
+      "file_path": "ai/rag/vercel-labs-coding-agent-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
-    {
-      "id": "hackernews:st-lucie-nuclear-reactor-unit-1-manually-shutdown",
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "category": "web-development/community",
-      "source_type": "hackernews",
-      "url": "https://wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "file_path": "web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md",
-      "score": 94,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ai-coding-without-the-vibes",
-      "title": "AI Coding Without the Vibes",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://peterbloem.nl/blog/craft-coding",
-      "file_path": "ai/community/ai-coding-without-the-vibes.md",
-      "score": 58,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:archie-g-norcross-maine-forest-fire-maps-1918-22",
-      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps",
-      "file_path": "ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md",
-      "score": 15,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:the-deep-history-behind-the-road-to-nowhere-inside",
-      "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
-      "file_path": "ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md",
-      "score": 8,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
@@ -331,16 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:ai-in-drug-discovery-what-it-is-where-we-stand-and",
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "file_path": "ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

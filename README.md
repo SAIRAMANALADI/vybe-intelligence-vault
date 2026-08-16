@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 138,303 files</p>
-        <p><b>Last Update:</b> 2026-08-17 00:59 IST</p>
+        <p><b>Last Update:</b> 2026-08-17 01:57 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Research papers using "kidney disappointment" instead of "kidney failure"](ai/community/research-papers-using-kidney-disappointment-instea.md)** • <kbd>+108 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[The AI Credit Resale Economy](ai/community/the-ai-credit-resale-economy.md)** • <kbd>+107 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Show HN: A public AI whose memory is shared across all users](ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md)** • <kbd>+39 pts</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+977</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+974</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[alexfazio/crewAI-quickstart](ai/agents/alexfazio-crewai-quickstart.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[adongwanai/AgentGuide](ai/rag/adongwanai-agentguide.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)** • Score: `94`
-- 🆕 **[AI Coding Without the Vibes](ai/community/ai-coding-without-the-vibes.md)** • Score: `58`
-- 🆕 **[Archie G. Norcross' Maine Forest Fire Maps (1918–22)](ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)** • Score: `15`
-- 🆕 **[The deep history behind the Road to Nowhere inside the Great Smoky Mountains](ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)** • Score: `8`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[AI in drug discovery – what it is, where we stand and the path forward](ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
