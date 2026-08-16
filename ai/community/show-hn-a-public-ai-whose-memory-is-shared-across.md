@@ -13,13 +13,14 @@ collected_at: '2026-08-17T00:20:44.832241+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-a-public-ai-whose-memory-is-shared-across
 first_seen: '2026-08-16T21:09:15.874164+05:30'
 last_seen: '2026-08-17T00:20:44.832241+05:30'
 last_checked: '2026-08-17T00:20:44.832241+05:30'
 health_score: 100
 ---
+
 
 # Show HN: A public AI whose memory is shared across all users
 

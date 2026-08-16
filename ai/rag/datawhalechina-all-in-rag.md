@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-17T00:21:28.891280+05:30'
+collected_at: '2026-08-17T03:09:14.983860+05:30'
 published_at: '2026-08-16T16:27:43Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 10382
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-17T00:21:28.891280+05:30'
-last_seen: '2026-08-17T00:21:28.891280+05:30'
-last_checked: '2026-08-17T00:21:28.891280+05:30'
+first_seen: '2026-08-17T03:09:14.983860+05:30'
+last_seen: '2026-08-17T03:09:14.983860+05:30'
+last_checked: '2026-08-17T03:09:14.983860+05:30'
 health_score: 100
 ---
 
@@ -30,8 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a full-stack RAG implementation guide, detailing practical development workflows.
-*
+*   Provides a full-stack, practical guide for Retrieval Augmented Generation (RAG) in large language model (LLM) application development.
+*   Demonstrates RAG implementation leveraging frameworks like LangChain and LlamaIndex, integrating vector databases (Milvus) and graph databases (Neo4j).
+*   Covers advanced RAG concepts including multimodal RAG, utilizing specific LLMs and embedding models such as
 
 ## Why It Matters
 

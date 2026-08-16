@@ -16176,12 +16176,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Coding Without the Vibes](../ai/community/ai-coding-without-the-vibes.md)
+  - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](../ai/community/anthropic-ipo-valuation-hinges-on-190-200b-2028-re.md)
   - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](../ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)
+  - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)
   - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
-  - [Show HN: A public AI whose memory is shared across all users](../ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md)
   - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)
+  - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](../ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
+  - [The Case Against Formal Verification, 50 Years Later](../ai/community/the-case-against-formal-verification-50-years-late.md)
   - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](../ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)
 
 ## Unknown Source (type: huggingface)
@@ -19992,4 +19994,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T00:36:57.539447+05:30*
+*Index generated on 2026-08-17T03:24:46.845017+05:30*

@@ -6,11 +6,11 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core
 hn_url: https://news.ycombinator.com/item?id=49320856
-score: 94
+score: 128
 author: toomuchtodo
-comments_count: 56
+comments_count: 94
 published_at: '2026-08-16T20:46:06+05:30'
-collected_at: '2026-08-17T00:20:42.470012+05:30'
+collected_at: '2026-08-17T03:08:28.865237+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:st-lucie-nuclear-reactor-unit-1-manually-shutdown
 first_seen: '2026-08-17T00:20:42.470012+05:30'
-last_seen: '2026-08-17T00:20:42.470012+05:30'
-last_checked: '2026-08-17T00:20:42.470012+05:30'
+last_seen: '2026-08-17T03:08:28.865237+05:30'
+last_checked: '2026-08-17T03:08:28.865237+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by toomuchtodo. Score: 94, Comments: 56.
+Hacker News story by toomuchtodo. Score: 128, Comments: 94.
 Original Link: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: toomuchtodo
-- Score: 94 Upvotes
-- Comments: 56 Discussions
+- Score: 128 Upvotes
+- Comments: 94 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49320856
 - Original Article: https://wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core
 

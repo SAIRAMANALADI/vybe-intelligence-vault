@@ -4520,11 +4520,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI Coding Without the Vibes](../ai/community/ai-coding-without-the-vibes.md)
   - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](../ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)
+  - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)
   - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
-  - [Show HN: A public AI whose memory is shared across all users](../ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md)
+  - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](../ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
+  - [The Case Against Formal Verification, 50 Years Later](../ai/community/the-case-against-formal-verification-50-years-late.md)
   - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](../ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)
 
 ## animation
@@ -4600,6 +4601,7 @@ Resources organized by keyword tags.
   - [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../ai/agents/arxiv-2608-12249.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
+  - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](../ai/community/anthropic-ipo-valuation-hinges-on-190-200b-2028-re.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
   - [Argos · Product quality for the age of AI agents](../ai/rag/argos-product-quality-for-the-age-of-ai-agents.md)
@@ -17919,7 +17921,6 @@ Resources organized by keyword tags.
   - [AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network](../ai/research/arxiv-2606-19185.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
-  - [AI Coding Without the Vibes](../ai/community/ai-coding-without-the-vibes.md)
   - [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
@@ -18077,6 +18078,7 @@ Resources organized by keyword tags.
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
+  - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](../ai/community/anthropic-ipo-valuation-hinges-on-190-200b-2028-re.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
@@ -19513,6 +19515,7 @@ Resources organized by keyword tags.
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
   - [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](../ai/research/arxiv-2608-04030.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
+  - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [ODRA: Synthesizing Cognitive Behavioral Therapy Sessions with Structured Chain-Of-Thought and Dynamic Patient Resistance](../ai/agents/arxiv-2608-04524.md)
   - [OECC2026](../ai/rag/oecc2026.md)
@@ -19997,7 +20000,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: A public AI whose memory is shared across all users](../ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -20105,6 +20107,7 @@ Resources organized by keyword tags.
   - [Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](../ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md)
   - [Streamlining RIPEstat: Building an Interface for the Future | RIPE Labs](../ai/resources/streamlining-ripestat-building-an-interface-for-th.md)
   - [Street Level Surveillance](../ai/resources/street-level-surveillance.md)
+  - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](../ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)
   - [Strong bounds for large-scale Minimum Sum-of-Squares Clustering](../ai/research/arxiv-2502-08397.md)
   - [Structural Preservation and the Logical Expressiveness of Graph Neural Networks](../ai/rag/arxiv-2606-17882.md)
   - [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](../ai/research/arxiv-2608-12278.md)
@@ -20204,6 +20207,7 @@ Resources organized by keyword tags.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era](../ai/agents/arxiv-2607-17940.md)
   - [The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion](../ai/rag/arxiv-2607-18162.md)
+  - [The Case Against Formal Verification, 50 Years Later](../ai/community/the-case-against-formal-verification-50-years-late.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing](../ai/rag/arxiv-2606-25108.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
@@ -20619,7 +20623,6 @@ Resources organized by keyword tags.
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -26069,6 +26072,7 @@ Resources organized by keyword tags.
   - [NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs](../ai/agents/arxiv-2608-07167.md)
   - [Not All Skills Help: Measuring and Repairing Agent Knowledge](../ai/agents/arxiv-2606-15390.md)
   - [NousResearch/hermes-agent](../ai/agents/nousresearch-hermes-agent.md)
+  - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [Observations API - Langfuse](../ai/rag/observations-api-langfuse.md)
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
@@ -29086,6 +29090,7 @@ Resources organized by keyword tags.
   - [The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities](../ai/agents/arxiv-2607-05743.md)
   - [The Bayesian Reflex: A Predictive Coding Engine for Artificial Intelligence](../ai/research/arxiv-2608-00492.md)
   - [The C-index illusion: discrimination without calibration in published survival models](../ai/research/arxiv-2607-19526.md)
+  - [The Case Against Formal Verification, 50 Years Later](../ai/community/the-case-against-formal-verification-50-years-late.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Checking Problem: What must be true before AI ships in a regulated firm](../ai/research/arxiv-2607-28666.md)
   - [The Cognitive Kardashev Scale: Quantifying the Material Envelope of Civilisational Computation](../ai/research/arxiv-2605-22840.md)
@@ -43461,7 +43466,6 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md)
@@ -45723,4 +45727,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T00:36:57.313882+05:30*
+*Index generated on 2026-08-17T03:24:46.653179+05:30*
