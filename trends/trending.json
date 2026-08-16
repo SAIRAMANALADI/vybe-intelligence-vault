@@ -1,71 +1,6 @@
 {
-  "generated_at": "2026-08-17T03:57:57.180643+05:30",
+  "generated_at": "2026-08-17T04:56:12.477015+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:research-papers-using-kidney-disappointment-instea",
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-      "file_path": "ai/community/research-papers-using-kidney-disappointment-instea.md",
-      "score": 338,
-      "score_change": 71,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:the-ai-credit-resale-economy",
-      "title": "The AI Credit Resale Economy",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "file_path": "ai/community/the-ai-credit-resale-economy.md",
-      "score": 191,
-      "score_change": 41,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:st-lucie-nuclear-reactor-unit-1-manually-shutdown",
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "category": "web-development/community",
-      "source_type": "hackernews",
-      "url": "https://wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "file_path": "web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md",
-      "score": 128,
-      "score_change": 34,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:the-deep-history-behind-the-road-to-nowhere-inside",
-      "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
-      "file_path": "ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md",
-      "score": 17,
-      "score_change": 9,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:archie-g-norcross-maine-forest-fire-maps-1918-22",
-      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps",
-      "file_path": "ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md",
-      "score": 21,
-      "score_change": 6,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
     {
       "id": "github:particlemedia/ragtruth",
       "title": "ParticleMedia/RAGTruth",
@@ -75,7 +10,7 @@
       "file_path": "ai/rag/particlemedia-ragtruth.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +23,7 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +36,7 @@
       "file_path": "ai/rag/malonge-ragoo.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +49,7 @@
       "file_path": "ai/agents/alexfazio-crewai-quickstart.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +62,72 @@
       "file_path": "ai/rag/adongwanai-agentguide.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 976,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:muhammad-uzair-yasin/crewai_starter_template",
+      "title": "muhammad-uzair-yasin/CrewAi_starter_template",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/muhammad-uzair-yasin/crewai_starter_template",
+      "file_path": "ai/agents/muhammad-uzair-yasin-crewai-starter-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:viktoriasemaan/multi-agent",
+      "title": "viktoriasemaan/multi-agent",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/viktoriasemaan/multi-agent",
+      "file_path": "ai/agents/viktoriasemaan-multi-agent.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:calle-ai/awesome-phone-call-agents",
+      "title": "CALLE-AI/awesome-phone-call-agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/calle-ai/awesome-phone-call-agents",
+      "file_path": "ai/agents/calle-ai-awesome-phone-call-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:kylestratis/ai_agents_mcp_examples",
+      "title": "kylestratis/ai_agents_mcp_examples",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/kylestratis/ai_agents_mcp_examples",
+      "file_path": "ai/agents/kylestratis-ai-agents-mcp-examples.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:wenyuchiou/awesome-agentic-ai-zh",
+      "title": "WenyuChiou/awesome-agentic-ai-zh",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/wenyuchiou/awesome-agentic-ai-zh",
+      "file_path": "ai/rag/wenyuchiou-awesome-agentic-ai-zh.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 978,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 18323,
+      "rank_change": 18325,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,7 +155,7 @@
       "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9234,
+      "rank_change": 9236,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +168,7 @@
       "file_path": "ai/rag/hkuds-rag-anything.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +181,7 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +194,7 @@
       "file_path": "ai/agents/codebasics-ai-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +207,7 @@
       "file_path": "ai/agents/slavakurilyak-awesome-ai-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +220,7 @@
       "file_path": "ai/agents/vin67-crewai-docker.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +233,7 @@
       "file_path": "ai/agents/masumi-network-crewai-masumi-quickstart-template.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +246,7 @@
       "file_path": "ai/agents/alexpeclub-ai-coding-starter-kit.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,64 +259,12 @@
       "file_path": "ai/rag/vercel-labs-coding-agent-template.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 977,
+      "rank_change": 979,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
-    {
-      "id": "hackernews:stripe-clinches-over-7b-deal-to-buy-ai-firm-openro",
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "file_path": "ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md",
-      "score": 37,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:the-case-against-formal-verification-50-years-late",
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-      "file_path": "ai/community/the-case-against-formal-verification-50-years-late.md",
-      "score": 31,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:anthropic-ipo-valuation-hinges-on-190-200b-2028-re",
-      "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
-      "file_path": "ai/community/anthropic-ipo-valuation-hinges-on-190-200b-2028-re.md",
-      "score": 9,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:nvidia-dramatically-reduces-amount-of-openai-infra",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "file_path": "ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md",
-      "score": 5,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
@@ -331,24 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:ai-coding-without-the-vibes",
-      "title": "AI Coding Without the Vibes",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://peterbloem.nl/blog/craft-coding",
-      "file_path": "ai/community/ai-coding-without-the-vibes.md"
-    },
-    {
-      "id": "hackernews:show-hn-a-public-ai-whose-memory-is-shared-across",
-      "title": "Show HN: A public AI whose memory is shared across all users",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://wildstatic.com",
-      "file_path": "ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
