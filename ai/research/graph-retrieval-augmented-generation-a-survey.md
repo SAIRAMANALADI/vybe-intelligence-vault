@@ -14,11 +14,11 @@ authors:
 - Yan Zhang
 - Siliang Tang
 year: 2024
-citation_count: 537
+citation_count: 539
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-08-14T00:58:16.739069+05:30'
+collected_at: '2026-08-16T12:31:43.435915+05:30'
 tags:
 - augmented
 - benchmark
@@ -32,8 +32,8 @@ tags:
 status: active
 resource_id: blog:graph-retrieval-augmented-generation-a-survey
 first_seen: '2026-08-01T14:04:53.282180+05:30'
-last_seen: '2026-08-14T00:58:16.739069+05:30'
-last_checked: '2026-08-14T00:58:16.739069+05:30'
+last_seen: '2026-08-16T12:31:43.435915+05:30'
+last_checked: '2026-08-16T12:31:43.435915+05:30'
 health_score: 100
 ---
 
@@ -51,7 +51,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Boci Peng, Yun Zhu, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang, Siliang Tang
 - Publication Year: 2024
-- Citation Count: 537
+- Citation Count: 539
 - Paper Link: https://semanticscholar.org/paper/9ab45aa875b56335303398e84a59a3756cd9d530
 - Code Link: None
 - Code Stars: N/A

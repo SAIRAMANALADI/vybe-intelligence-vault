@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-16T09:32:37.709237+05:30'
+collected_at: '2026-08-16T12:32:22.690327+05:30'
 published_at: '2026-08-11T12:33:34Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-16T09:32:37.709237+05:30'
-last_seen: '2026-08-16T09:32:37.709237+05:30'
-last_checked: '2026-08-16T09:32:37.709237+05:30'
+first_seen: '2026-08-16T12:32:22.690327+05:30'
+last_seen: '2026-08-16T12:32:22.690327+05:30'
+last_checked: '2026-08-16T12:32:22.690327+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Introduces RAGTruth, a specialized corpus designed for benchmarking and quantifying hallucination phenomena in Retrieval-Augmented Generation (RAG) models.
-*   Aims
+*   Introduces RAGTruth, a specialized corpus for quantifying and mitigating hallucinations in Retrieval-Augmented Language Models (RAGs).
+*   Designed to enhance the trustworthiness and factual consistency of RAG systems by providing targeted evaluation data.
+*   Offers a benchmark for assessing RAG model robustness against generative inaccuracies and improving factual grounding.
 
 ## Why It Matters
 

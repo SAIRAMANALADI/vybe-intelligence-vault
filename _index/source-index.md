@@ -15687,6 +15687,7 @@ Resources organized by publisher feed and query sources.
   - [facebookresearch/faiss](../ai/rag/facebookresearch-faiss.md)
   - [feiskyer/claude-code-settings](../ai/rag/feiskyer-claude-code-settings.md)
   - [felladrin/awesome-ai-web-search](../ai/rag/felladrin-awesome-ai-web-search.md)
+  - [fetchai/innovation-lab-examples](../ai/rag/fetchai-innovation-lab-examples.md)
   - [firecrawl/firecrawl-mcp-server](../ai/resources/firecrawl-firecrawl-mcp-server.md)
   - [firecrawl/firesearch](../ai/rag/firecrawl-firesearch.md)
   - [firecrawl/open-researcher](../ai/resources/firecrawl-open-researcher.md)
@@ -16178,7 +16179,7 @@ Resources organized by publisher feed and query sources.
   - [AI has access to a vastly larger working memory than the human brain](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
   - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
   - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](../ai/community/arxiv-2608-13122.md)
-  - [Working with AI feels more like leadership than coding](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md)
+  - [Program with Paint Brushes, Not Pencils](../ai/community/program-with-paint-brushes-not-pencils.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19988,4 +19989,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T09:48:07.133041+05:30*
+*Index generated on 2026-08-16T12:47:51.225904+05:30*

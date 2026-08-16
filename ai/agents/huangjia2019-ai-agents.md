@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huangjia2019/ai-agents
-collected_at: '2026-08-13T16:02:49.262729+05:30'
+collected_at: '2026-08-16T12:34:47.740542+05:30'
 published_at: '2026-08-13T05:44:57Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-05-10T10:40:28Z'
 pushed_at: '2025-11-05T04:12:34Z'
 resource_id: github:huangjia2019/ai-agents
-first_seen: '2026-08-13T16:02:49.262729+05:30'
-last_seen: '2026-08-13T16:02:49.262729+05:30'
-last_checked: '2026-08-13T16:02:49.262729+05:30'
+first_seen: '2026-08-16T12:34:47.740542+05:30'
+last_seen: '2026-08-16T12:34:47.740542+05:30'
+last_checked: '2026-08-16T12:34:47.740542+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides foundational Jupyter Notebook examples for constructing LLM-driven AI agents.
-*   Aims to onboard beginners into practical LLM application development, emphasizing core agentic patterns.
-*   Serves as an introductory guide, acknowledging the dynamic LLM landscape and directing users to advanced resources like OpenAI Cookbook and LangChain examples.
+*   Offers foundational Jupyter Notebook examples for constructing LLM-based AI agents.
+*   Focuses on introductory patterns for LLM application development, targeting beginner-level agent implementation.
+*   Serves as a high-level primer, directing users to OpenAI Cookbook and LangChain for advanced agentic architectures and codebases.
 
 ## Why It Matters
 

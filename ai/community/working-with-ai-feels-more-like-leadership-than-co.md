@@ -13,13 +13,14 @@ collected_at: '2026-08-16T09:32:00.100015+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:working-with-ai-feels-more-like-leadership-than-co
 first_seen: '2026-08-15T21:07:22.963488+05:30'
 last_seen: '2026-08-16T09:32:00.100015+05:30'
 last_checked: '2026-08-16T09:32:00.100015+05:30'
 health_score: 100
 ---
+
 
 # Working with AI feels more like leadership than coding
 

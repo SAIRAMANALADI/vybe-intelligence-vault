@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kylestratis/ai_agents_mcp_examples
-collected_at: '2026-08-13T13:33:48.790965+05:30'
+collected_at: '2026-08-16T12:34:52.770325+05:30'
 published_at: '2026-07-24T23:33:38Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-26T13:16:14Z'
 pushed_at: '2026-07-15T15:23:08Z'
 resource_id: github:kylestratis/ai_agents_mcp_examples
-first_seen: '2026-08-13T13:33:48.790965+05:30'
-last_seen: '2026-08-13T13:33:48.790965+05:30'
-last_checked: '2026-08-13T13:33:48.790965+05:30'
+first_seen: '2026-08-16T12:34:52.770325+05:30'
+last_seen: '2026-08-16T12:34:52.770325+05:30'
+last_checked: '2026-08-16T12:34:52.770325+05:30'
 health_score: 100
 ---
 
@@ -28,7 +28,8 @@ health_score: 100
 
 ## Summary
 
-*   Python-based repository `kylestratis/ai_agents_mcp
+*   Provides Python-based examples for AI agent implementations.
+*   Focuses on Multi
 
 ## Why It Matters
 
