@@ -16179,7 +16179,7 @@ Resources organized by publisher feed and query sources.
   - [AI has access to a vastly larger working memory than the human brain](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
   - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
   - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](../ai/community/arxiv-2608-13122.md)
-  - [Program with Paint Brushes, Not Pencils](../ai/community/program-with-paint-brushes-not-pencils.md)
+  - [What happens when an LLM never sees material beyond fifth grade?](../ai/community/what-happens-when-an-llm-never-sees-material-beyon.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -17032,9 +17032,9 @@ Resources organized by publisher feed and query sources.
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [anisoleai/fineweb-tokenized](../ai/models/huggingface-datasets-anisoleai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
-  - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
+  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
 
 ## Unknown Source (type: huggingface_model)
@@ -19989,4 +19989,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T12:47:51.225904+05:30*
+*Index generated on 2026-08-16T15:30:38.049517+05:30*

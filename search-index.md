@@ -23792,12 +23792,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.scite.ai/>
 
 * **[AI has access to a vastly larger working memory than the human brain](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rzk. Score: 472, Comments: 405. Original Link: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
+  * Summary: Hacker News story by rzk. Score: 494, Comments: 417. Original Link: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
   * Tags: `ai`, `hackernews`
   * Source URL: <https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians>
 
 * **[AI in drug discovery – what it is, where we stand and the path forward](ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by AnodicElegy. Score: 129, Comments: 64. Original Link: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
+  * Summary: Hacker News story by AnodicElegy. Score: 138, Comments: 73. Original Link: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
   * Tags: `ai`, `hackernews`
   * Source URL: <https://science.org/content/blog-post/so-how-ai-drug-discovery-doing-really>
 
@@ -23822,7 +23822,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.25879>
 
 * **[AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](ai/community/arxiv-2608-13122.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Jimmc414. Score: 21, Comments: 3. Original Link: https://arxiv.org/abs/2608.13122
+  * Summary: Hacker News story by Jimmc414. Score: 33, Comments: 4. Original Link: https://arxiv.org/abs/2608.13122
   * Tags: `ai`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2608.13122>
 
@@ -26756,11 +26756,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.cloudflare.com/products/>
 
-* **[Program with Paint Brushes, Not Pencils](ai/community/program-with-paint-brushes-not-pencils.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by skadamat. Score: 8, Comments: 1. Original Link: https://blog.pickcode.io/program-with-paint-brushes-not-pencils/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://blog.pickcode.io/program-with-paint-brushes-not-pencils>
-
 * **[Project Jupyter | Home](ai/rag/project-jupyter-home.md)** (`tutorial` | `useful` tier)
   * Summary: - **JupyterLab** is a modular, extensible web-based IDE supporting notebooks, code, and data with flexible workspace configurations (single/multi-document) for scientific computing and ML workflows. - **Jupyter Notebook** is a document-centric, web-b
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -28034,6 +28029,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Optimized Data Loading**: PyTorch tutorials cover advanced `DataLoader` configurations (e.g., `num_workers`, `pin_memory`, `persistent_workers`) to maximize training throughput by optimizing CPU-to-GPU data transfer and parallel data loading. - *
   * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `openai`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.pytorch.org/tutorials>
+
+* **[What happens when an LLM never sees material beyond fifth grade?](ai/community/what-happens-when-an-llm-never-sees-material-beyon.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by porridgeraisin. Score: 106, Comments: 66. Original Link: https://littlelearner-ll.github.io/
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://littlelearner-ll.github.io>
 
 * **[What is a Container? | Docker](ai/rag/what-is-a-container-docker.md)** (`framework` | `useful` tier)
   * Summary: - **Container Definition & Isolation**: Docker containers package applications with all dependencies (code, runtime, libraries, settings) into lightweight, isolated units that run uniformly across environments by sharing the host OS kernel via Docker
@@ -42562,7 +42562,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.09235>
 
 * **[allenai/c4](ai/models/huggingface-datasets-allenai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 630, Downloads: 1430934)
+  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 630, Downloads: 1416761)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/allenai>
 
@@ -42607,7 +42607,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
 
 * **[amazon/chronos-2](ai/models/huggingface-amazon-chronos-2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 398, Downloads: 37802040)
+  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 398, Downloads: 38076670)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/amazon/chronos-2>
 
@@ -43190,7 +43190,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.14613>
 
 * **[anisoleai/fineweb-tokenized](ai/models/huggingface-datasets-anisoleai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 31, Downloads: 1717378)
+  * Summary: Trending Hugging Face dataset: anisoleai/fineweb-tokenized (Likes: 31, Downloads: 1425951)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/anisoleai>
 
@@ -44363,7 +44363,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.07538>
 
 * **[ayuo/hd_tmp](ai/models/huggingface-datasets-ayuo.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 32, Downloads: 1464938)
+  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 32, Downloads: 1466769)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ayuo>
 
@@ -44450,11 +44450,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.03981v1 Announce Type: cross Abstract: Memes have become influential communication tools on social media, combining viral visuals with concise messaging to convey impactful ideas. While substantial research has examined the affective dimen
   * Tags: `benchmark`, `dataset`, `paper`
   * Source URL: <https://arxiv.org/abs/2607.03981>
-
-* **[banned-historical-archives/banned-historical-archives](ai/models/huggingface-datasets-banned-historical-archives.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 68, Downloads: 1386305)
-  * Tags: `dataset`, `hf-dataset`, `huggingface`
-  * Source URL: <https://huggingface.co/datasets/banned-historical-archives>
 
 * **[Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution](ai/models/huggingface-blog-sovereign-data-solution-case-study.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution
@@ -57611,7 +57606,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
 * **[google/electra-base-discriminator](ai/models/huggingface-google-electra-base-discriminator.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 153, Downloads: 56262567)
+  * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 153, Downloads: 56254790)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google/electra-base-discriminator>
 
@@ -59369,7 +59364,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/huggingface/datasets>
 
 * **[huggingface/documentation-images](ai/models/huggingface-datasets-huggingface.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 178, Downloads: 1954137)
+  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 178, Downloads: 1952608)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/huggingface>
 
@@ -61192,7 +61187,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.03043>
 
 * **[IPEC-COMMUNITY/language_table_lerobot](ai/models/huggingface-datasets-ipec-community.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: IPEC-COMMUNITY/language_table_lerobot (Likes: 15, Downloads: 1454947)
+  * Summary: Trending Hugging Face dataset: IPEC-COMMUNITY/language_table_lerobot (Likes: 15, Downloads: 1460488)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ipec-community>
 
@@ -61604,7 +61599,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02680>
 
 * **[k9cli/video-vec2wav2-tokenizer](ai/models/huggingface-datasets-k9cli.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 16, Downloads: 2314634)
+  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 16, Downloads: 2256597)
   * Tags: `dataset`, `hf-dataset`, `huggingface`, `youtube`
   * Source URL: <https://huggingface.co/datasets/k9cli>
 
@@ -61619,7 +61614,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.26832>
 
 * **[KakologArchives/KakologArchives](ai/models/huggingface-datasets-kakologarchives.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 75, Downloads: 2539660)
+  * Summary: Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 75, Downloads: 2540930)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/kakologarchives>
 
@@ -64142,7 +64137,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.04733>
 
 * **[lpiccinelli/unidepth-v2-vitl14](ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: lpiccinelli/unidepth-v2-vitl14 (Likes: 50, Downloads: 36727865)
+  * Summary: Trending Hugging Face model: lpiccinelli/unidepth-v2-vitl14 (Likes: 50, Downloads: 36718662)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/lpiccinelli/unidepth-v2-vitl14>
 
@@ -66247,7 +66242,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7617, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7618, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -67636,6 +67631,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/nvidia-physical-ai>
+
+* **[nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](ai/models/huggingface-datasets-nvidia.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim (Likes: 255, Downloads: 1404882)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/nvidia>
 
 * **[NVMOS: Non-Verbal Vocalization Quality Assessment in Speech](ai/research/arxiv-2606-15888.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15888v1 Announce Type: cross Abstract: Non-verbal vocalizations (NVs), such as laughter, sighs, and coughs, are important acoustic cues for emotion and intent. Existing speech quality assessment methods typically focus on overall naturalne
@@ -71912,7 +71912,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1514, Downloads: 30110264)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1514, Downloads: 29244641)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -74344,7 +74344,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.24894>
 
 * **[ryanmarten/OpenThoughts-1k-sample](ai/models/huggingface-datasets-ryanmarten.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 49, Downloads: 1589808)
+  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 49, Downloads: 1569976)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ryanmarten>
 
@@ -74500,7 +74500,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05259>
 
 * **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 758, Downloads: 1498204)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 758, Downloads: 1497102)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/salesforce>
 
@@ -75643,7 +75643,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5209, Downloads: 259675300)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5209, Downloads: 258119855)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -90779,7 +90779,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3402, Downloads: 35594133)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3402, Downloads: 35568785)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -90789,7 +90789,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/BAAI/bge-reranker-v2-m3>
 
 * **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 534, Downloads: 74277704)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 534, Downloads: 74056744)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
@@ -93083,8 +93083,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive guide to full-stack Retrieval-Augmented Generation (RAG) implementation. * Utilizes `LangChain` and `LlamaIndex` for RAG orchestration, integrating vector databases (`Milvus`) and graph databases (`Neo4j`) for knowledge management. *
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tool` | `useful` tier)
+  * Summary: * Full-stack RAG implementation for LLM application development, leveraging Python. *
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -93093,8 +93093,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive tutorial resource for large language model (LLM) application development. * Leverages LangChain framework for practical implementation examples. * Demonstrates Retrieval-Augmented Generation (RAG) architectures through Jupyter Noteboo
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
+  * Summary: * Curriculum for large language model (LLM) application development. * Lever
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -98976,7 +98976,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Python-implemented bioinformatics tool for genome assembly and scaffolding. * Project is
+  * Summary: * Deprecated Python-based bioinformatics tool for genome assembly and scaffolding. * Functionality superseded by the RagTag project (github.com/malonge/RagTag). * Developed within the malonge bioinformatics tool ecosystem.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -102168,7 +102168,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, indicating a GitHub Pages
+  * Summary: * Jekyll-based static site source for `raganwald.github.com`.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -103813,7 +103813,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.00558>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1345, Downloads: 57110276)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1345, Downloads: 56697927)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 

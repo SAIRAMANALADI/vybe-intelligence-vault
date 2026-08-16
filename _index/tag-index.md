@@ -4523,7 +4523,6 @@ Resources organized by keyword tags.
   - [AI has access to a vastly larger working memory than the human brain](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
   - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
   - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](../ai/community/arxiv-2608-13122.md)
-  - [Program with Paint Brushes, Not Pencils](../ai/community/program-with-paint-brushes-not-pencils.md)
 
 ## animation
 
@@ -16173,7 +16172,6 @@ Resources organized by keyword tags.
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [anisoleai/fineweb-tokenized](../ai/models/huggingface-datasets-anisoleai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
-  - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [beezwax blog](../ai/resources/beezwax-blog.md)
   - [bigscience-workshop/promptsource](../ai/resources/bigscience-workshop-promptsource.md)
   - [blog/train-sentence-transformers.md at main · huggingface/blog · GitHub](../ai/rag/huggingface-blog.md)
@@ -16218,6 +16216,7 @@ Resources organized by keyword tags.
   - [nvidia / llama-3.2-nv-embedqa-1b-v2](../ai/rag/nvidia-llama-3-2-nv-embedqa-1b-v2.md)
   - [nvidia / llama-3.2-nv-rerankqa-1b-v2](../ai/rag/nvidia-llama-3-2-nv-rerankqa-1b-v2.md)
   - [nvidia / nvidia-nemotron-nano-9b-v2](../ai/rag/nvidia-nvidia-nemotron-nano-9b-v2.md)
+  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [onyx-dot-app/EnterpriseRAG-Bench](../ai/rag/onyx-dot-app-enterpriserag-bench.md)
   - [path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting](../ai/research/arxiv-2607-07935.md)
@@ -19716,7 +19715,6 @@ Resources organized by keyword tags.
   - [Probing the limitations of multimodal language models for chemistry and materials research](../ai/research/probing-the-limitations-of-multimodal-language-mod.md)
   - [Product Privacy | Policy](../ai/rag/product-privacy-policy.md)
   - [Profiling and Evolution of Intellectual Property](../ai/research/arxiv-2204-09333.md)
-  - [Program with Paint Brushes, Not Pencils](../ai/community/program-with-paint-brushes-not-pencils.md)
   - [Program-Synthesis-Driven Autodesign of Universal Unitary Operators](../ai/agents/arxiv-2607-10295.md)
   - [Programmable current-sense amplifier or discrete instrumentation amplifier for accurate 10 mA–20 A high-side sensing? -](../ai/rag/programmable-current-sense-amplifier-or-discrete-i.md)
   - [Programming Courses | JetBrains Academy Catalog](../ai/resources/programming-courses-jetbrains-academy-catalog.md)
@@ -20486,6 +20484,7 @@ Resources organized by keyword tags.
   - [What We Know about Responsible AI Practices in Industry: A Half Decade of Empirical Research](../ai/research/arxiv-2608-10431.md)
   - [What are Diffusion Models? | IBM](../ai/rag/what-are-diffusion-models-ibm.md)
   - [What does AUTHORIZED_FETCH actually do? | Sunny Garden Hub](../ai/rag/what-does-authorized-fetch-actually-do-sunny-garde.md)
+  - [What happens when an LLM never sees material beyond fifth grade?](../ai/community/what-happens-when-an-llm-never-sees-material-beyon.md)
   - [What is Retrieval-Augmented Generation (RAG)? | NVIDIA Glossary](../ai/rag/what-is-retrieval-augmented-generation-rag-nvidia.md)
   - [What is a Container? | Docker](../ai/rag/what-is-a-container-docker.md)
   - [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md)
@@ -20837,9 +20836,9 @@ Resources organized by keyword tags.
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [anisoleai/fineweb-tokenized](../ai/models/huggingface-datasets-anisoleai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
-  - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
+  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
 
 ## hf-model
@@ -20902,7 +20901,6 @@ Resources organized by keyword tags.
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [anisoleai/fineweb-tokenized](../ai/models/huggingface-datasets-anisoleai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
-  - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [black-forest-labs/FLUX.1-dev](../ai/models/huggingface-spaces-black-forest-labs.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [dalle-mini/dalle-mini](../ai/models/huggingface-spaces-dalle-mini.md)
@@ -20915,6 +20913,7 @@ Resources organized by keyword tags.
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
   - [lpiccinelli/unidepth-v2-vitl14](../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md)
   - [mteb/leaderboard](../ai/models/huggingface-spaces-mteb.md)
+  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
@@ -21297,6 +21296,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [What happens when an LLM never sees material beyond fifth grade?](../ai/community/what-happens-when-an-llm-never-sees-material-beyon.md)
 
 ## mdx
 
@@ -45710,4 +45713,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T12:47:51.002411+05:30*
+*Index generated on 2026-08-16T15:30:37.833465+05:30*
