@@ -4520,10 +4520,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
+  - [AI Coding Without the Vibes](../ai/community/ai-coding-without-the-vibes.md)
+  - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](../ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)
   - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
   - [Show HN: A public AI whose memory is shared across all users](../ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
+  - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](../ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)
 
 ## animation
 
@@ -16792,6 +16794,7 @@ Resources organized by keyword tags.
   - [Sophisticated Policies from Epistemic Priors](../ai/research/arxiv-2607-19518.md)
   - [SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints](../ai/agents/arxiv-2607-05363.md)
   - [Spatiotemporal Graph Transformer for Traffic Intelligence in Edge Computing](../ai/rag/arxiv-2608-04075.md)
+  - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)
   - [Startup’s nuclear-inspired cooling system could make data centers more sustainable | MIT News | Massachusetts Institute](../ai/rag/startups-nuclear-inspired-cooling-system-could-mak.md)
   - [Statistical inverse learning and $\ell^1$-regularization](../ai/research/arxiv-2607-07468.md)
   - [Storyset | Customize, animate and download illustration for free](../ai/rag/storyset-customize-animate-and-download-illustrati.md)
@@ -17916,6 +17919,7 @@ Resources organized by keyword tags.
   - [AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network](../ai/research/arxiv-2606-19185.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
+  - [AI Coding Without the Vibes](../ai/community/ai-coding-without-the-vibes.md)
   - [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
@@ -17941,7 +17945,6 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
-  - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -18090,6 +18093,7 @@ Resources organized by keyword tags.
   - [Approximation and learning of anisotropic and mixed smooth functions by deep ReLU neural networks](../ai/research/arxiv-2605-31152.md)
   - [Approximation of Analytic Functions by ReLU Neural Networks with Adjustable Depth and Width](../ai/research/arxiv-2607-10589.md)
   - [AquaAugmentor: A Novel Feature Augmentation Algorithm for Water Potability Prediction](../ai/research/arxiv-2607-15775.md)
+  - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](../ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)
   - [Ari Juels](../ai/rag/ari-juels.md)
   - [Arnold: A multi-task, multi-embodiment muscle transformer policy](../ai/rag/arxiv-2508-18066.md)
   - [Ars Technica (@arstechnica@mastodon.social) - Mastodon](../ai/resources/ars-technica-arstechnica-mastodon-social-mastodon.md)
@@ -20071,6 +20075,7 @@ Resources organized by keyword tags.
   - [Springer Nature author service | Editing, translation & support](../ai/rag/springer-nature-author-service-editing-translation.md)
   - [SqLinear: Balanced Square Partitioning Makes Linear Interaction Sufficient for Large-Scale Traffic Forecasting](../ai/rag/arxiv-2606-21072.md)
   - [Sri-Krishna-V/awesome-adk-agents](../ai/agents/sri-krishna-v-awesome-adk-agents.md)
+  - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)
   - [Stability of AI Governance Systems: A Coupled Dynamics Model of Public Trust and Social Disruptions](../ai/rag/arxiv-2603-20248.md)
   - [Stable On-Policy Distillation through Adaptive Target Reformulation](../ai/research/arxiv-2601-07155.md)
   - [Stack Overflow connector - Microsoft 365 Copilot connectors | Microsoft Learn](../ai/resources/stack-overflow-connector-microsoft-365-copilot-con.md)
@@ -20251,6 +20256,7 @@ Resources organized by keyword tags.
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
+  - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](../ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
@@ -20613,6 +20619,7 @@ Resources organized by keyword tags.
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -36520,6 +36527,10 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
+## react
+
+  - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)
+
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -43450,6 +43461,7 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md)
@@ -45711,4 +45723,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T21:25:27.533442+05:30*
+*Index generated on 2026-08-17T00:36:57.313882+05:30*

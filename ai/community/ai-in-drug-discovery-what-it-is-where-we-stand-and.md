@@ -13,13 +13,14 @@ collected_at: '2026-08-16T21:09:17.719860+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-in-drug-discovery-what-it-is-where-we-stand-and
 first_seen: '2026-08-16T03:07:57.834585+05:30'
 last_seen: '2026-08-16T21:09:17.719860+05:30'
 last_checked: '2026-08-16T21:09:17.719860+05:30'
 health_score: 100
 ---
+
 
 # AI in drug discovery – what it is, where we stand and the path forward
 

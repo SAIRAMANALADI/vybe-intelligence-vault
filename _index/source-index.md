@@ -16176,10 +16176,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
+  - [AI Coding Without the Vibes](../ai/community/ai-coding-without-the-vibes.md)
+  - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](../ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)
   - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
   - [Show HN: A public AI whose memory is shared across all users](../ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md)
+  - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
+  - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](../ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19989,4 +19992,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T21:25:27.746706+05:30*
+*Index generated on 2026-08-17T00:36:57.539447+05:30*
