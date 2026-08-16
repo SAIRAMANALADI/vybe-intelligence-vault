@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-16T18:51:17.408949+05:30`
+Generated at: `2026-08-16T19:08:23.247789+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Research papers using "kidney disappointment" instead of "kidney failure"** - Score: `10` in category `ai/community` ([Link](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)) ([File](../ai/community/research-papers-using-kidney-disappointment-instea.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **What happens when an LLM never sees material beyond fifth grade?** - Score: `176` (+70), Rank Change: `+1` ([File](../ai/community/what-happens-when-an-llm-never-sees-material-beyon.md))
-- **AI has access to a vastly larger working memory than the human brain** - Score: `523` (+29), Rank Change: `0` ([File](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md))
-- **AI in drug discovery – what it is, where we stand and the path forward** - Score: `150` (+12), Rank Change: `-1` ([File](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md))
-- **AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code** - Score: `42` (+9), Rank Change: `0` ([File](../ai/community/arxiv-2608-13122.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+993` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+71` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+71` ([File](../ai/rag/sunsetting-create-react-app.md))
-- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - Score: `0` (0), Rank Change: `+1` ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
-- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - Score: `0` (0), Rank Change: `+1` ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/malonge-ragoo.md))
+- **alexfazio/crewAI-quickstart** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/alexfazio-crewai-quickstart.md))
+- **adongwanai/AgentGuide** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/adongwanai-agentguide.md))
+- **muhammad-uzair-yasin/CrewAi_starter_template** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md))
+- **viktoriasemaan/multi-agent** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/viktoriasemaan-multi-agent.md))
+- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+978` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/airweave-ai-airweave.md))
+- **fetchai/innovation-lab-examples** - Score: `0` (0), Rank Change: `+978` ([File](../ai/rag/fetchai-innovation-lab-examples.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+993`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **facebook/MusicGen** - (Rank Change: `+843`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+843`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+843`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+843`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+843`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+843`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+843`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
-- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+843`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
-- **enzostvs/deepsite** - (Rank Change: `+843`) ([File](../ai/models/huggingface-spaces-enzostvs.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18325`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9236`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **HKUDS/RAG-Anything** - (Rank Change: `+979`) ([File](../ai/rag/hkuds-rag-anything.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+979`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **codebasics/ai-agents** - (Rank Change: `+979`) ([File](../ai/agents/codebasics-ai-agents.md))
+- **slavakurilyak/awesome-ai-agents** - (Rank Change: `+979`) ([File](../ai/agents/slavakurilyak-awesome-ai-agents.md))
+- **vin67/crewai_docker** - (Rank Change: `+979`) ([File](../ai/agents/vin67-crewai-docker.md))
+- **masumi-network/crewai-masumi-quickstart-template** - (Rank Change: `+979`) ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
+- **AlexPEClub/ai-coding-starter-kit** - (Rank Change: `+979`) ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- **vercel-labs/coding-agent-template** - (Rank Change: `+979`) ([File](../ai/rag/vercel-labs-coding-agent-template.md))
 
 ## 🔄 Essential Tier Transitions
 

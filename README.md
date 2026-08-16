@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-214%2C011-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-138%2C295-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--16-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **214,011 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **138,295 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,565</p>
-        <p><b>Active:</b> 19,945 | <b>Inactive:</b> 620</p>
+        <p><b>Resources tracked:</b> 19,587</p>
+        <p><b>Active:</b> 18,967 | <b>Inactive:</b> 620</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 77,027</p>
+        <p><b>Archive Files:</b> 2,267</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 214,011 files</p>
-        <p><b>Last Update:</b> 2026-08-16 18:51 IST</p>
+        <p><b>Total Vault Size:</b> 138,295 files</p>
+        <p><b>Last Update:</b> 2026-08-16 19:08 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,16 +210,16 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[What happens when an LLM never sees material beyond fifth grade?](ai/community/what-happens-when-an-llm-never-sees-material-beyon.md)** • <kbd>+70 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[AI has access to a vastly larger working memory than the human brain](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** • <kbd>+29 pts</kbd>
-- 🔼 **[AI in drug discovery – what it is, where we stand and the path forward](ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)** • <kbd>+12 pts</kbd>
-- 🔼 **[AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](ai/community/arxiv-2608-13122.md)** • <kbd>+9 pts</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+993</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[alexfazio/crewAI-quickstart](ai/agents/alexfazio-crewai-quickstart.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[adongwanai/AgentGuide](ai/rag/adongwanai-agentguide.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[muhammad-uzair-yasin/CrewAi_starter_template](ai/agents/muhammad-uzair-yasin-crewai-starter-template.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[viktoriasemaan/multi-agent](ai/agents/viktoriasemaan-multi-agent.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Research papers using "kidney disappointment" instead of "kidney failure"](ai/community/research-papers-using-kidney-disappointment-instea.md)** • Score: `10`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
