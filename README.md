@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-214%2C002-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-138%2C290-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--16-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **214,002 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **138,290 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,560</p>
-        <p><b>Active:</b> 19,945 | <b>Inactive:</b> 615</p>
+        <p><b>Resources tracked:</b> 19,582</p>
+        <p><b>Active:</b> 18,967 | <b>Inactive:</b> 615</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 77,023</p>
+        <p><b>Archive Files:</b> 2,267</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 214,002 files</p>
-        <p><b>Last Update:</b> 2026-08-16 07:48 IST</p>
+        <p><b>Total Vault Size:</b> 138,290 files</p>
+        <p><b>Last Update:</b> 2026-08-16 08:36 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[AI has access to a vastly larger working memory than the human brain](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** • <kbd>+118 pts</kbd>
-- 🔼 **[Working with AI feels more like leadership than coding](ai/community/working-with-ai-feels-more-like-leadership-than-co.md)** • <kbd>+53 pts</kbd>
-- 🔼 **[AI in drug discovery – what it is, where we stand and the path forward](ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)** • <kbd>+49 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+994</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[SamuelSchmidgall/AgentLaboratory](ai/rag/samuelschmidgall-agentlaboratory.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[I Remain a Skeptic](ai/community/i-remain-a-skeptic.md)** • Score: `69`
-- 🆕 **[Jaithon 3, a fast programming language with the perfect syntax](ai/community/abhiramasonny-jaithon.md)** • Score: `25`
-- 🆕 **[The complete AI SEO playbook: from zero to 4.6M impressions in 3 months](ai/community/tracecohentech-ai-seo-playbook.md)** • Score: `4`
+- 🆕 **[AI has access to a vastly larger working memory than the human brain](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** • Score: `414`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[A controversial Alzheimer's surgery is said to reverse symptoms](ai/community/a-controversial-alzheimer-s-surgery-is-said-to-rev.md)**
-- 💤 **[Could a computer scientist build a brain?](ai/community/could-a-computer-scientist-build-a-brain.md)**
-- 💤 **[Yadda 3.0.0: BDD in the Age of AI Agents](ai/community/yadda-3-0-0-bdd-in-the-age-of-ai-agents.md)**
-- 💤 **[Why tech bosses keep sharing their manifestos about AI](ai/community/why-tech-bosses-keep-sharing-their-manifestos-abou.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
