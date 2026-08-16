@@ -23792,12 +23792,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.scite.ai/>
 
 * **[AI has access to a vastly larger working memory than the human brain](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rzk. Score: 494, Comments: 417. Original Link: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
+  * Summary: Hacker News story by rzk. Score: 523, Comments: 451. Original Link: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
   * Tags: `ai`, `hackernews`
   * Source URL: <https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians>
 
 * **[AI in drug discovery – what it is, where we stand and the path forward](ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by AnodicElegy. Score: 138, Comments: 73. Original Link: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
+  * Summary: Hacker News story by AnodicElegy. Score: 150, Comments: 84. Original Link: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
   * Tags: `ai`, `hackernews`
   * Source URL: <https://science.org/content/blog-post/so-how-ai-drug-discovery-doing-really>
 
@@ -23822,7 +23822,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.25879>
 
 * **[AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](ai/community/arxiv-2608-13122.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Jimmc414. Score: 33, Comments: 4. Original Link: https://arxiv.org/abs/2608.13122
+  * Summary: Hacker News story by Jimmc414. Score: 42, Comments: 5. Original Link: https://arxiv.org/abs/2608.13122
   * Tags: `ai`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2608.13122>
 
@@ -25662,7 +25662,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11722>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based workflow repository for a RAG (Retrieval Augmented Generation)
+  * Summary: * Python-based workflow for a Retrieval Augmented Generation (RAG) homework assignment. *
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
@@ -27001,6 +27001,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://support.google.com/youtube/answer/2802027>
 
+* **[Research papers using "kidney disappointment" instead of "kidney failure"](ai/community/research-papers-using-kidney-disappointment-instea.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Alifatisk. Score: 10, Comments: 4. Original Link: https://scholar.google.com/scholar?q=%22kidney+disappointment%22
+  * Tags: `ai`, `hackernews`, `paper`
+  * Source URL: <https://scholar.google.com/scholar?q=%22kidney+disappointment%22>
+
 * **[research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](ai/resources/research-process-how-do-researchers-stay-organized.md)** (`tutorial` | `useful` tier)
   * Summary: - **Time-blocking and prioritization**: Allocate dedicated time slots for each project (hourly/daily) and enforce strict boundaries; use a shared calendar and a simple to-do list to enforce focus and avoid multitasking overhead. - **Modular note-taki
   * Tags: `hackernews`, `paper`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`
@@ -28031,7 +28036,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.pytorch.org/tutorials>
 
 * **[What happens when an LLM never sees material beyond fifth grade?](ai/community/what-happens-when-an-llm-never-sees-material-beyon.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by porridgeraisin. Score: 106, Comments: 66. Original Link: https://littlelearner-ll.github.io/
+  * Summary: Hacker News story by porridgeraisin. Score: 176, Comments: 132. Original Link: https://littlelearner-ll.github.io/
   * Tags: `hackernews`, `llm`
   * Source URL: <https://littlelearner-ll.github.io>
 
@@ -61413,7 +61418,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11213, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11214, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -93083,9 +93088,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tool` | `useful` tier)
-  * Summary: * Full-stack RAG implementation for LLM application development, leveraging Python. *
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive full-stack guide on Retrieval Augmented Generation (RAG) techniques for large language model (LLM) application development. * Practical implementation leveraging frameworks like LangChain and LlamaIndex, integrating vector databases (
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -93093,8 +93098,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Curriculum for large language model (LLM) application development. * Lever
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
+  * Summary: * Guides novice developers through large language model (LLM) application development. * Lever
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -102168,7 +102173,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.github.com`.
+  * Summary: * Jekyll-based source repository for the `raganwald.com` personal website. * Leverages GitHub Pages for deployment, with HTML as the primary rendered language. * Exhibits moderate community engagement (30
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

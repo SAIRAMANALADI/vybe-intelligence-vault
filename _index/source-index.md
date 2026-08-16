@@ -16179,6 +16179,7 @@ Resources organized by publisher feed and query sources.
   - [AI has access to a vastly larger working memory than the human brain](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
   - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
   - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](../ai/community/arxiv-2608-13122.md)
+  - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
   - [What happens when an LLM never sees material beyond fifth grade?](../ai/community/what-happens-when-an-llm-never-sees-material-beyon.md)
 
 ## Unknown Source (type: huggingface)
@@ -19989,4 +19990,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T15:30:38.049517+05:30*
+*Index generated on 2026-08-16T18:49:55.921213+05:30*

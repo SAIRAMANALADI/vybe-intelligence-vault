@@ -4523,6 +4523,7 @@ Resources organized by keyword tags.
   - [AI has access to a vastly larger working memory than the human brain](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
   - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
   - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](../ai/community/arxiv-2608-13122.md)
+  - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
 
 ## animation
 
@@ -19849,6 +19850,7 @@ Resources organized by keyword tags.
   - [Research on Cross-media Science and Technology Information Data Retrieval](../ai/research/arxiv-2204-04887.md)
   - [Research on Domain Information Mining and Theme Evolution of Scientific Papers](../ai/research/arxiv-2204-08476.md)
   - [Research on Intellectual Property Resource Profile and Evolution Law](../ai/research/arxiv-2204-06221.md)
+  - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
   - [Research | Cornell University](../ai/rag/research-cornell-university.md)
   - [Research | OpenAI](../ai/rag/research-openai.md)
   - [Researching with GitHub Copilot CLI - GitHub Docs](../ai/agents/researching-with-github-copilot-cli-github-docs.md)
@@ -20611,6 +20613,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -28679,6 +28682,7 @@ Resources organized by keyword tags.
   - [Research Policy Handbook | DoResearch](../ai/agents/research-policy-handbook-doresearch.md)
   - [Research on Domain Information Mining and Theme Evolution of Scientific Papers](../ai/research/arxiv-2204-08476.md)
   - [Research on Intellectual Property Resource Profile and Evolution Law](../ai/research/arxiv-2204-06221.md)
+  - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
   - [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](../ai/rag/arxiv-2606-07591.md)
   - [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](../ai/research/arxiv-2607-04439.md)
   - [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](../ai/agents/arxiv-2607-04438.md)
@@ -45713,4 +45717,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T15:30:37.833465+05:30*
+*Index generated on 2026-08-16T18:49:55.765558+05:30*
