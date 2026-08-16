@@ -13,13 +13,14 @@ collected_at: '2026-08-16T07:30:31.465750+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:abhiramasonny/jaithon
 first_seen: '2026-08-16T07:30:31.465750+05:30'
 last_seen: '2026-08-16T07:30:31.465750+05:30'
 last_checked: '2026-08-16T07:30:31.465750+05:30'
 health_score: 100
 ---
+
 
 # Jaithon 3, a fast programming language with the perfect syntax
 

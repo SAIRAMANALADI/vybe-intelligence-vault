@@ -4521,9 +4521,7 @@ Resources organized by keyword tags.
 
   - [AI has access to a vastly larger working memory than the human brain](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
   - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
-  - [I Remain a Skeptic](../ai/community/i-remain-a-skeptic.md)
-  - [Jaithon 3, a fast programming language with the perfect syntax](../ai/community/abhiramasonny-jaithon.md)
-  - [The complete AI SEO playbook: from zero to 4.6M impressions in 3 months](../ai/community/tracecohentech-ai-seo-playbook.md)
+  - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](../ai/community/arxiv-2608-13122.md)
   - [Working with AI feels more like leadership than coding](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md)
 
 ## animation
@@ -14898,7 +14896,6 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
@@ -17949,6 +17946,7 @@ Resources organized by keyword tags.
   - [AI+X](../ai/resources/ai-x.md)
   - [AI, ML and Data Science Tutorial - GeeksforGeeks](../ai/agents/ai-ml-and-data-science-tutorial-geeksforgeeks.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
+  - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](../ai/community/arxiv-2608-13122.md)
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
@@ -19059,7 +19057,6 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
-  - [I Remain a Skeptic](../ai/community/i-remain-a-skeptic.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
@@ -19155,7 +19152,6 @@ Resources organized by keyword tags.
   - [JSON-LD - JSON for Linked Data](../ai/rag/json-ld-json-for-linked-data.md)
   - [Jaccard index - Wikipedia](../ai/rag/jaccard-index-wikipedia.md)
   - [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../ai/rag/arxiv-2602-24009.md)
-  - [Jaithon 3, a fast programming language with the perfect syntax](../ai/community/abhiramasonny-jaithon.md)
   - [JavaScript Tutorial - GeeksforGeeks](../ai/rag/javascript-tutorial-geeksforgeeks.md)
   - [JavaScript data types and data structures - JavaScript | MDN](../ai/rag/javascript-data-types-and-data-structures-javascri.md)
   - [Jira Cloud support | Jira Cloud | Atlassian Support](../ai/resources/jira-cloud-support-jira-cloud-atlassian-support.md)
@@ -20251,7 +20247,6 @@ Resources organized by keyword tags.
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
-  - [The complete AI SEO playbook: from zero to 4.6M impressions in 3 months](../ai/community/tracecohentech-ai-seo-playbook.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
@@ -20616,8 +20611,8 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -43449,6 +43444,7 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md)
@@ -45711,4 +45707,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T07:46:42.228402+05:30*
+*Index generated on 2026-08-16T09:48:06.933387+05:30*

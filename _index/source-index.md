@@ -16177,9 +16177,7 @@ Resources organized by publisher feed and query sources.
 
   - [AI has access to a vastly larger working memory than the human brain](../ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)
   - [AI in drug discovery – what it is, where we stand and the path forward](../ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)
-  - [I Remain a Skeptic](../ai/community/i-remain-a-skeptic.md)
-  - [Jaithon 3, a fast programming language with the perfect syntax](../ai/community/abhiramasonny-jaithon.md)
-  - [The complete AI SEO playbook: from zero to 4.6M impressions in 3 months](../ai/community/tracecohentech-ai-seo-playbook.md)
+  - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](../ai/community/arxiv-2608-13122.md)
   - [Working with AI feels more like leadership than coding](../ai/community/working-with-ai-feels-more-like-leadership-than-co.md)
 
 ## Unknown Source (type: huggingface)
@@ -19990,4 +19988,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-16T07:46:42.409644+05:30*
+*Index generated on 2026-08-16T09:48:07.133041+05:30*

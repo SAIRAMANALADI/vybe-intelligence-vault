@@ -6,11 +6,11 @@
     "ai-browser-computer-use": 3548,
     "ai-coding-agents": 3136,
     "ai-tools-products": 148,
-    "automation-workflows": 1592,
+    "automation-workflows": 1591,
     "datasets": 10997,
-    "evals-and-benchmarks": 15600,
+    "evals-and-benchmarks": 15601,
     "frontend-ai-ui": 197,
-    "guardrails-security": 8519,
+    "guardrails-security": 8520,
     "inference-local-llm": 1192,
     "jobs-market": 6,
     "learning-paths": 85,
@@ -23,8 +23,8 @@
     "public-apis": 46,
     "rag-systems": 16321,
     "startup-builder": 161,
-    "vector-databases": 6131,
+    "vector-databases": 6130,
     "webdev-3d-creative": 134
   },
-  "last_updated": "2026-08-16T07:47:55.966398+05:30"
+  "last_updated": "2026-08-16T09:49:32.087801+05:30"
 }

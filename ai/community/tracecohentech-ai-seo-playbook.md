@@ -13,13 +13,14 @@ collected_at: '2026-08-16T07:30:31.297542+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:tracecohentech/ai-seo-playbook
 first_seen: '2026-08-16T07:30:31.297542+05:30'
 last_seen: '2026-08-16T07:30:31.297542+05:30'
 last_checked: '2026-08-16T07:30:31.297542+05:30'
 health_score: 100
 ---
+
 
 # The complete AI SEO playbook: from zero to 4.6M impressions in 3 months
 
