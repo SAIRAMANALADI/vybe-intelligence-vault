@@ -13,13 +13,14 @@ collected_at: '2026-08-16T18:33:16.611893+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-has-access-to-a-vastly-larger-working-memory-th
 first_seen: '2026-08-16T00:20:03.594085+05:30'
 last_seen: '2026-08-16T18:33:16.611893+05:30'
 last_checked: '2026-08-16T18:33:16.611893+05:30'
 health_score: 100
 ---
+
 
 # AI has access to a vastly larger working memory than the human brain
 

@@ -23791,13 +23791,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`, `dataset`, `hackernews`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.scite.ai/>
 
-* **[AI has access to a vastly larger working memory than the human brain](ai/community/ai-isn-t-outthinking-mathematicians-it-s-out-remem.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rzk. Score: 523, Comments: 451. Original Link: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians>
-
 * **[AI in drug discovery – what it is, where we stand and the path forward](ai/community/ai-in-drug-discovery-what-it-is-where-we-stand-and.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by AnodicElegy. Score: 150, Comments: 84. Original Link: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
+  * Summary: Hacker News story by AnodicElegy. Score: 166, Comments: 84. Original Link: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
   * Tags: `ai`, `hackernews`
   * Source URL: <https://science.org/content/blog-post/so-how-ai-drug-discovery-doing-really>
 
@@ -23820,11 +23815,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25879v1 Announce Type: cross Abstract: Computational reproducibility remains difficult despite being central to scientific research. In this paper, we show how the international FABRIC testbed, combined with large language model (LLM) codi
   * Tags: `benchmark`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.25879>
-
-* **[AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](ai/community/arxiv-2608-13122.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Jimmc414. Score: 42, Comments: 5. Original Link: https://arxiv.org/abs/2608.13122
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://arxiv.org/abs/2608.13122>
 
 * **[AI-Assisted Knowledge Access for Legacy Enterprise Asset Management in Energy Operations: A Practical Retrieval System](ai/research/arxiv-2607-24792.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.24792v1 Announce Type: cross Abstract: Energy utilities still run engineering work management, engineering procurement, and inventory processes on long-lived enterprise asset management platforms. Replacing these platforms is often cost pr
@@ -27002,7 +26992,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://support.google.com/youtube/answer/2802027>
 
 * **[Research papers using "kidney disappointment" instead of "kidney failure"](ai/community/research-papers-using-kidney-disappointment-instea.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Alifatisk. Score: 10, Comments: 4. Original Link: https://scholar.google.com/scholar?q=%22kidney+disappointment%22
+  * Summary: Hacker News story by Alifatisk. Score: 159, Comments: 66. Original Link: https://scholar.google.com/scholar?q=%22kidney+disappointment%22
   * Tags: `ai`, `hackernews`, `paper`
   * Source URL: <https://scholar.google.com/scholar?q=%22kidney+disappointment%22>
 
@@ -27260,6 +27250,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
+
+* **[Show HN: A public AI whose memory is shared across all users](ai/community/show-hn-a-public-ai-whose-memory-is-shared-across.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by adjohu. Score: 13, Comments: 2. Original Link: https://wildstatic.com/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://wildstatic.com>
 
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
@@ -27569,6 +27564,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2512.02080v3 Announce Type: replace-cross Abstract: The integration of Formal Verification tools with Large Language Models (LLMs) offers a path to scale software verification beyond manual workflows. However, current methods remain unreliable:
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2512.02080>
+
+* **[The AI Credit Resale Economy](ai/community/the-ai-credit-resale-economy.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by mlenhard. Score: 43, Comments: 9. Original Link: https://vectoral.com/blog/who-are-the-token-brokers
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://vectoral.com/blog/who-are-the-token-brokers>
 
 * **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (`framework` | `useful` tier)
   * Summary: - **RAG (Retrieval-Augmented Generation)** combines retrieval, augmentation, and generation, formalized by Lewis et al. (2020), addressing LLM limitations in freshness, private knowledge, and hallucination by dynamically pulling external, up-to-date,
@@ -28034,11 +28034,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Optimized Data Loading**: PyTorch tutorials cover advanced `DataLoader` configurations (e.g., `num_workers`, `pin_memory`, `persistent_workers`) to maximize training throughput by optimizing CPU-to-GPU data transfer and parallel data loading. - *
   * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `openai`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.pytorch.org/tutorials>
-
-* **[What happens when an LLM never sees material beyond fifth grade?](ai/community/what-happens-when-an-llm-never-sees-material-beyon.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by porridgeraisin. Score: 176, Comments: 132. Original Link: https://littlelearner-ll.github.io/
-  * Tags: `hackernews`, `llm`
-  * Source URL: <https://littlelearner-ll.github.io>
 
 * **[What is a Container? | Docker](ai/rag/what-is-a-container-docker.md)** (`framework` | `useful` tier)
   * Summary: - **Container Definition & Isolation**: Docker containers package applications with all dependencies (code, runtime, libraries, settings) into lightweight, isolated units that run uniformly across environments by sharing the host OS kernel via Docker
@@ -45503,7 +45498,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.12403>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9513, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9514, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -93088,9 +93083,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive full-stack guide on Retrieval Augmented Generation (RAG) techniques for large language model (LLM) application development. * Practical implementation leveraging frameworks like LangChain and LlamaIndex, integrating vector databases (
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tool` | `useful` tier)
+  * Summary: * Comprehensive resource for full-stack RAG application development, covering practical implementation strategies.
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -93098,8 +93093,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Guides novice developers through large language model (LLM) application development. * Lever
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides a comprehensive tutorial on large language model (LLM) application development. * Emphasizes practical implementation using LangChain and Retrieval-Augmented Generation (RAG) architectures. * Content is structured as Jupyter Notebooks, fac
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -101083,7 +101078,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus for quantifying and mitigating hallucinations in Retrieval-Augmented Language Models (RAGs). * Designed to enhance the trustworthiness and factual consistency of RAG systems by providing targeted evaluation
+  * Summary: * RAGTruth is a specialized corpus designed for the identification and analysis of hallucinations. * Aids in the development and evaluation of trustworthy Retrieval-Augmented Language Models (RAGs). * Facilitates research into mitigating generative f
   * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 

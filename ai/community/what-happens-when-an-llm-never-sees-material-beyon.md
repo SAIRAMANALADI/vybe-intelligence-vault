@@ -13,13 +13,14 @@ collected_at: '2026-08-16T18:33:13.104309+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:what-happens-when-an-llm-never-sees-material-beyon
 first_seen: '2026-08-16T15:14:31.710203+05:30'
 last_seen: '2026-08-16T18:33:13.104309+05:30'
 last_checked: '2026-08-16T18:33:13.104309+05:30'
 health_score: 100
 ---
+
 
 # What happens when an LLM never sees material beyond fifth grade?
 

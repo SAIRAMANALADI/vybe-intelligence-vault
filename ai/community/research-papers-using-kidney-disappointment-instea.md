@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://scholar.google.com/scholar?q=%22kidney+disappointment%22
 hn_url: https://news.ycombinator.com/item?id=49319389
-score: 10
+score: 159
 author: Alifatisk
-comments_count: 4
+comments_count: 66
 published_at: '2026-08-16T17:52:20+05:30'
-collected_at: '2026-08-16T18:33:15.462473+05:30'
+collected_at: '2026-08-16T21:09:16.082702+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:research-papers-using-kidney-disappointment-instea
 first_seen: '2026-08-16T18:33:15.462473+05:30'
-last_seen: '2026-08-16T18:33:15.462473+05:30'
-last_checked: '2026-08-16T18:33:15.462473+05:30'
+last_seen: '2026-08-16T21:09:16.082702+05:30'
+last_checked: '2026-08-16T21:09:16.082702+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Alifatisk. Score: 10, Comments: 4.
+Hacker News story by Alifatisk. Score: 159, Comments: 66.
 Original Link: https://scholar.google.com/scholar?q=%22kidney+disappointment%22
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Alifatisk
-- Score: 10 Upvotes
-- Comments: 4 Discussions
+- Score: 159 Upvotes
+- Comments: 66 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49319389
 - Original Article: https://scholar.google.com/scholar?q=%22kidney+disappointment%22
 

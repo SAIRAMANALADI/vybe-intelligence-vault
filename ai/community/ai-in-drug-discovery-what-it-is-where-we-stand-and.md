@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
 hn_url: https://news.ycombinator.com/item?id=49313367
-score: 150
+score: 166
 author: AnodicElegy
 comments_count: 84
 published_at: '2026-08-16T00:42:53+05:30'
-collected_at: '2026-08-16T18:33:15.849415+05:30'
+collected_at: '2026-08-16T21:09:17.719860+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-in-drug-discovery-what-it-is-where-we-stand-and
 first_seen: '2026-08-16T03:07:57.834585+05:30'
-last_seen: '2026-08-16T18:33:15.849415+05:30'
-last_checked: '2026-08-16T18:33:15.849415+05:30'
+last_seen: '2026-08-16T21:09:17.719860+05:30'
+last_checked: '2026-08-16T21:09:17.719860+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by AnodicElegy. Score: 150, Comments: 84.
+Hacker News story by AnodicElegy. Score: 166, Comments: 84.
 Original Link: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
 
 ## Why It Matters
@@ -35,7 +35,7 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: AnodicElegy
-- Score: 150 Upvotes
+- Score: 166 Upvotes
 - Comments: 84 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49313367
 - Original Article: https://science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
