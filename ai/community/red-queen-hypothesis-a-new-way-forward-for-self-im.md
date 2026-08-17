@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai
 hn_url: https://news.ycombinator.com/item?id=49323136
-score: 45
+score: 63
 author: hardlianotion
-comments_count: 8
+comments_count: 15
 published_at: '2026-08-17T01:31:13+05:30'
-collected_at: '2026-08-17T12:51:28.073788+05:30'
+collected_at: '2026-08-17T15:33:52.036135+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:red-queen-hypothesis-a-new-way-forward-for-self-im
 first_seen: '2026-08-17T07:29:58.921872+05:30'
-last_seen: '2026-08-17T12:51:28.073788+05:30'
-last_checked: '2026-08-17T12:51:28.073788+05:30'
+last_seen: '2026-08-17T15:33:52.036135+05:30'
+last_checked: '2026-08-17T15:33:52.036135+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by hardlianotion. Score: 45, Comments: 8.
+Hacker News story by hardlianotion. Score: 63, Comments: 15.
 Original Link: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: hardlianotion
-- Score: 45 Upvotes
-- Comments: 8 Discussions
+- Score: 63 Upvotes
+- Comments: 15 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49323136
 - Original Article: https://cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai
 

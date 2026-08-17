@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
 hn_url: https://news.ycombinator.com/item?id=49325384
-score: 64
+score: 84
 author: spdegabrielle
-comments_count: 22
+comments_count: 26
 published_at: '2026-08-17T06:18:21+05:30'
-collected_at: '2026-08-17T12:51:25.691101+05:30'
+collected_at: '2026-08-17T15:33:50.542497+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:rhombus-1-1-is-now-available
 first_seen: '2026-08-17T07:29:55.618870+05:30'
-last_seen: '2026-08-17T12:51:25.691101+05:30'
-last_checked: '2026-08-17T12:51:25.691101+05:30'
+last_seen: '2026-08-17T15:33:50.542497+05:30'
+last_checked: '2026-08-17T15:33:50.542497+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by spdegabrielle. Score: 64, Comments: 22.
+Hacker News story by spdegabrielle. Score: 84, Comments: 26.
 Original Link: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: spdegabrielle
-- Score: 64 Upvotes
-- Comments: 22 Discussions
+- Score: 84 Upvotes
+- Comments: 26 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49325384
 - Original Article: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
 

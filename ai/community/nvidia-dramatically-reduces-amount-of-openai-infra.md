@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:nvidia-dramatically-reduces-amount-of-openai-infra
 first_seen: '2026-08-17T03:08:31.145685+05:30'
 last_seen: '2026-08-17T12:51:28.834111+05:30'
 last_checked: '2026-08-17T12:51:28.834111+05:30'
 health_score: 100
 ---
+
 
 # Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
 

@@ -16533,7 +16533,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)
+  - [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md)
+  - [HackEurope 2026: A short rant on AI and hackathons](../ai/community/hackeurope-2026-a-short-rant-on-ai-and-hackathons.md)
   - [Red queen hypothesis – A new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
   - [Rhombus 1.1 is now available](../ai/community/rhombus-1-1-is-now-available.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
@@ -17387,8 +17388,8 @@ Resources organized by publisher feed and query sources.
   - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
-  - [anisoleai/fineweb-tokenized](../ai/models/huggingface-datasets-anisoleai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
+  - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
   - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
@@ -20346,4 +20347,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T13:07:44.967126+05:30*
+*Index generated on 2026-08-17T15:50:16.646850+05:30*
