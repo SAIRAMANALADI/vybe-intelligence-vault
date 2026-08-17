@@ -16533,12 +16533,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Gmail might partially be to blame for receiving emails from other Sean Conners](../ai/community/gmail-might-partially-be-to-blame-for-receiving-em.md)
   - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)
-  - [Red queen hypothesis – a new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
+  - [Red queen hypothesis – A new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
   - [Rhombus 1.1 is now available](../ai/community/rhombus-1-1-is-now-available.md)
-  - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)
-  - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](../ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
 
 ## Unknown Source (type: huggingface)
@@ -20349,4 +20346,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T10:00:09.805319+05:30*
+*Index generated on 2026-08-17T13:07:44.967126+05:30*

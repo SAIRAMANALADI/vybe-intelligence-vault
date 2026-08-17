@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-08-11T00:56:54.157250+05:30'
-published_at: '2026-08-10T17:09:43Z'
+collected_at: '2026-08-17T12:54:40.693945+05:30'
+published_at: '2026-08-17T06:22:40Z'
 tags:
 - agents
 - github-repo
 - typescript
 - workflows
-stars: 35427
+stars: 35509
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-05-24T03:39:39Z'
-pushed_at: '2026-08-10T17:47:35Z'
+pushed_at: '2026-08-17T06:09:47Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-08-11T00:56:54.157250+05:30'
-last_seen: '2026-08-11T00:56:54.157250+05:30'
-last_checked: '2026-08-11T00:56:54.157250+05:30'
+first_seen: '2026-08-17T12:54:40.693945+05:30'
+last_seen: '2026-08-17T12:54:40.693945+05:30'
+last_checked: '2026-08-17T12:54:40.693945+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or semi-autonomous code generation, editing, and debugging via CLI.
-- **Modular architecture** supports extensibility with custom tools, models, and workflows, integrating with IDEs (VS Code, JetBrains) and local/remote LLMs.
-- **Active development** (last updated Aug 2026) with 35K+ GitHub stars, emphasizing collaborative coding assistance and developer productivity enhancements.
+*   TypeScript-implemented open-source coding agent, functioning as a CLI developer tool.
+*   Achieved substantial community traction with 35.5k stars and 5.2k forks.
+*   Focuses on AI-driven developer assistance and workflow integration.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 35427
-- Forks: 5207
+- Stars: 35509
+- Forks: 5241
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-08-10T17:09:43Z
+- Last Updated: 2026-08-17T06:22:40Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z
-- Pushed At: 2026-08-10T17:47:35Z
+- Pushed At: 2026-08-17T06:09:47Z
 
 ## Possible Use Cases
 

@@ -15,13 +15,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:st-lucie-nuclear-reactor-unit-1-manually-shutdown
 first_seen: '2026-08-17T00:20:42.470012+05:30'
 last_seen: '2026-08-17T09:36:13.168918+05:30'
 last_checked: '2026-08-17T09:36:13.168918+05:30'
 health_score: 100
 ---
+
 
 # St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core
 

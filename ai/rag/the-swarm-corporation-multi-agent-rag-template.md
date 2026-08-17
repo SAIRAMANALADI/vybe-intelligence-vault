@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-11T00:58:49.321608+05:30'
+collected_at: '2026-08-17T12:56:35.929193+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 59
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-11T00:58:49.321608+05:30'
-last_seen: '2026-08-11T00:58:49.321608+05:30'
-last_checked: '2026-08-11T00:58:49.321608+05:30'
+first_seen: '2026-08-17T12:56:35.929193+05:30'
+last_seen: '2026-08-17T12:56:35.929193+05:30'
+last_checked: '2026-08-17T12:56:35.929193+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent RAG Framework**: Implements a Python-based template using frameworks like CrewAI, LangChain, and AutoGen to orchestrate a team of AI agents for collaborative document processing, analysis, and insight generation via Retrieval-Augmented Generation (RAG).
-
-- **Integration of Vector Databases & LLMs**: Supports multiple vector databases (ChromaDB, Pinecone, Weaviate) and large language models (GPT-3.5/4, GPT-5, Anthropic) for document retrieval, contextual reasoning, and response synthesis.
-
-- **Scalable & Extensible**: Designed for modularity, enabling integration with Discord for real-time collaboration and additional tools (e.g., Swarms) to enhance multi-agent workflows, with last updates as of July 2026.
+*   Python-based template demonstrating multi-agent AI collaboration for document processing, analysis, and insight generation.
+*   Orchestrates agents using `autogen`, `crewai`, and `langchain`, supporting `OpenAI` (GPT-3.5/4/5) and `Anthropic` LLMs.
+*   Integrates Retrieval Augmented Generation (RAG) via vector databases including `ChromaDB`, `Pinecone`, and `Weaviate
 
 ## Why It Matters
 

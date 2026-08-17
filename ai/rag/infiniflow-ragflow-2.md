@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow
-collected_at: '2026-08-15T12:29:40.340056+05:30'
-published_at: '2026-08-15T06:59:17Z'
+collected_at: '2026-08-17T12:52:25.525010+05:30'
+published_at: '2026-08-17T07:20:08Z'
 tags:
 - agents
 - github-repo
 - go
 - rag
-stars: 88460
+stars: 88635
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-08-14T14:26:58Z'
+pushed_at: '2026-08-17T07:19:48Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-08-15T12:29:40.340056+05:30'
-last_seen: '2026-08-15T12:29:40.340056+05:30'
-last_checked: '2026-08-15T12:29:40.340056+05:30'
+first_seen: '2026-08-17T12:52:25.525010+05:30'
+last_seen: '2026-08-17T12:52:25.525010+05:30'
+last_checked: '2026-08-17T12:52:25.525010+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Fuses advanced Retrieval-Augmented Generation (RAG) with agentic capabilities to form a sophisticated LLM context engine.
-*   Provides a superior context layer for LLMs through integrated agentic retrieval and knowledge compilation.
-*   Leverages agent-harness and harness engineering methodologies for robust context management and LL
+*   Fuses advanced Retrieval-Augmented Generation (RAG) with agentic capabilities to construct
 
 ## Why It Matters
 
@@ -40,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 88460
-- Forks: 10381
+- Stars: 88635
+- Forks: 10399
 - Language: Go
 - Topics: agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-08-15T06:59:17Z
+- Last Updated: 2026-08-17T07:20:08Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-08-14T14:26:58Z
+- Pushed At: 2026-08-17T07:19:48Z
 
 ## Possible Use Cases
 

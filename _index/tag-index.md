@@ -4603,11 +4603,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Gmail might partially be to blame for receiving emails from other Sean Conners](../ai/community/gmail-might-partially-be-to-blame-for-receiving-em.md)
   - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)
-  - [Red queen hypothesis – a new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
+  - [Red queen hypothesis – A new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
   - [Rhombus 1.1 is now available](../ai/community/rhombus-1-1-is-now-available.md)
-  - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](../ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
 
 ## animation
@@ -9821,6 +9819,7 @@ Resources organized by keyword tags.
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass the Baton: Trajectory-Relayed On-Policy Distillation](../ai/rag/arxiv-2607-26057.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
@@ -15211,6 +15210,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
@@ -17139,7 +17139,6 @@ Resources organized by keyword tags.
   - [Sophisticated Policies from Epistemic Priors](../ai/research/arxiv-2607-19518.md)
   - [SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints](../ai/agents/arxiv-2607-05363.md)
   - [Spatiotemporal Graph Transformer for Traffic Intelligence in Edge Computing](../ai/rag/arxiv-2608-04075.md)
-  - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)
   - [Startup’s nuclear-inspired cooling system could make data centers more sustainable | MIT News | Massachusetts Institute](../ai/rag/startups-nuclear-inspired-cooling-system-could-mak.md)
   - [Statistical inverse learning and $\ell^1$-regularization](../ai/research/arxiv-2607-07468.md)
   - [Storyset | Customize, animate and download illustration for free](../ai/rag/storyset-customize-animate-and-download-illustrati.md)
@@ -18173,6 +18172,7 @@ Resources organized by keyword tags.
   - [- YouTube](../ai/rag/youtube-2swdr3z0wo.md)
   - [- YouTube](../ai/rag/youtube-pbcra-zart4.md)
   - [.NET and .NET Core official support policy | .NET](../ai/resources/net-and-net-core-official-support-policy-net.md)
+  - [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
@@ -19254,7 +19254,6 @@ Resources organized by keyword tags.
   - [Global Payments API: Send & Receive Money | Wise Platform](../ai/resources/global-payments-api-send-receive-money-wise-platfo.md)
   - [Global drivers and barriers to the public acceptance of autonomous vehicles: Evidence from 17 countries](../ai/agents/arxiv-2607-14436.md)
   - [Glossary](../ai/rag/glossary.md)
-  - [Gmail might partially be to blame for receiving emails from other Sean Conners](../ai/community/gmail-might-partially-be-to-blame-for-receiving-em.md)
   - [GnuTLS](../ai/resources/gnutls.md)
   - [Go Wiki: Go Modules - The Go Programming Language](../ai/rag/go-wiki-go-modules-the-go-programming-language.md)
   - [GoLand - YouTube](../ai/resources/goland-youtube.md)
@@ -20191,7 +20190,7 @@ Resources organized by keyword tags.
   - [Reconstructing Item Characteristic Curves using Fine-Tuned Large Language Models](../ai/rag/arxiv-2601-02580.md)
   - [Reconstructing Template-Memorized Images from Natural Prompts](../ai/rag/arxiv-2507-07947.md)
   - [Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops](../ai/agents/arxiv-2607-07663.md)
-  - [Red queen hypothesis – a new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
+  - [Red queen hypothesis – A new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
   - [Redirecting to Unicode Resources page](../ai/resources/redirecting-to-unicode-resources-page.md)
   - [Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices](../ai/research/arxiv-2606-12742.md)
   - [Refactoring](../ai/resources/refactoring.md)
@@ -20453,7 +20452,6 @@ Resources organized by keyword tags.
   - [Springer Nature author service | Editing, translation & support](../ai/rag/springer-nature-author-service-editing-translation.md)
   - [SqLinear: Balanced Square Partitioning Makes Linear Interaction Sufficient for Large-Scale Traffic Forecasting](../ai/rag/arxiv-2606-21072.md)
   - [Sri-Krishna-V/awesome-adk-agents](../ai/agents/sri-krishna-v-awesome-adk-agents.md)
-  - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)
   - [Stability of AI Governance Systems: A Coupled Dynamics Model of Public Trust and Social Disruptions](../ai/rag/arxiv-2603-20248.md)
   - [Stable On-Policy Distillation through Adaptive Target Reformulation](../ai/research/arxiv-2601-07155.md)
   - [Stack Overflow connector - Microsoft 365 Copilot connectors | Microsoft Learn](../ai/resources/stack-overflow-connector-microsoft-365-copilot-con.md)
@@ -20483,7 +20481,6 @@ Resources organized by keyword tags.
   - [Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](../ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md)
   - [Streamlining RIPEstat: Building an Interface for the Future | RIPE Labs](../ai/resources/streamlining-ripestat-building-an-interface-for-th.md)
   - [Street Level Surveillance](../ai/resources/street-level-surveillance.md)
-  - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](../ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)
   - [Strong bounds for large-scale Minimum Sum-of-Squares Clustering](../ai/research/arxiv-2502-08397.md)
   - [Structural Preservation and the Logical Expressiveness of Graph Neural Networks](../ai/rag/arxiv-2606-17882.md)
   - [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](../ai/research/arxiv-2608-12278.md)
@@ -21042,7 +21039,6 @@ Resources organized by keyword tags.
   - [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md)
   - [google/medgemma-27b-it · Hugging Face](../ai/resources/huggingface-google-medgemma-27b-it.md)
   - [googleapis/googleapis](../ai/resources/googleapis-googleapis.md)
-  - [gptme/gptme-agent-template](../ai/agents/gptme-gptme-agent-template.md)
   - [graspologic-org/graspologic](../ai/rag/graspologic-org-graspologic.md)
   - [home - h-node.org](../ai/rag/home-h-node-org.md)
   - [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills.md)
@@ -21131,7 +21127,6 @@ Resources organized by keyword tags.
   - [pydata/pydata-sphinx-theme](../ai/rag/pydata-pydata-sphinx-theme.md)
   - [quantization — Sentence Transformers documentation](../ai/rag/quantization-sentence-transformers-documentation.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
-  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../ai/research/arxiv-2602-07832.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
@@ -37190,10 +37185,6 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
-## react
-
-  - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)
-
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -42726,7 +42717,6 @@ Resources organized by keyword tags.
   - ["We'll have to see how it works": An interview study to understand collaborative practices in interdisciplinary artificial intelligence and healthcare research](../ai/research/arxiv-2311-18424.md)
   - [$S^3$: Improving Agent Safety through Multi-Stage Defense](../ai/agents/arxiv-2608-02683.md)
   - [(Human) Attention Is (Still) All You Need: Human oversight makes AI-assisted social science reliable](../ai/agents/arxiv-2606-12848.md)
-  - [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md)
   - [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
@@ -43972,7 +43962,6 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The xAI Platform for OCI Generative AI](../ai/agents/the-xai-platform-for-oci-generative-ai.md)
   - [The-Pocket/PocketFlow-Template-Python](../ai/agents/the-pocket-pocketflow-template-python.md)
-  - [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md)
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Think Before You Grid-Search: Floor-First Triage for LLM Serving](../ai/agents/arxiv-2607-05876.md)
   - [Three-Phase Evaluation of AI-Assisted Software Development Life Cycle](../ai/research/arxiv-2607-05125.md)
@@ -44216,6 +44205,7 @@ Resources organized by keyword tags.
   - [martinfowler.com](../ai/resources/martinfowler-com.md)
   - [mayooear/ai-pdf-chatbot-langchain](../ai/rag/mayooear-ai-pdf-chatbot-langchain.md)
   - [memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](../ai/rag/arxiv-2606-01138.md)
+  - [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md)
   - [meta-pytorch/torchcodec](../ai/rag/meta-pytorch-torchcodec.md)
   - [microsoft/agentsleague](../ai/agents/microsoft-agentsleague.md)
   - [microsoft/playwright-mcp](../ai/rag/microsoft-playwright-mcp.md)
@@ -44245,7 +44235,6 @@ Resources organized by keyword tags.
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
-  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [reworkd/AgentGPT](../ai/rag/reworkd-agentgpt.md)
@@ -46426,4 +46415,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T10:00:09.577803+05:30*
+*Index generated on 2026-08-17T13:07:44.742386+05:30*

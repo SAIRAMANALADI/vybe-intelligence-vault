@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-17T12:30:27.475339+05:30`
+Generated at: `2026-08-17T13:10:15.457734+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+No new discoveries tracked in this run.
+
 
 ## Top Trending Resources
 
-- **MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation** - Score: `0` (0), Rank Change: `+105` ([File](../ai/research/arxiv-2608-09035.md))
-- **Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach** - Score: `0` (0), Rank Change: `+105` ([File](../ai/rag/arxiv-2608-08636.md))
-- **DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects** - Score: `0` (0), Rank Change: `+105` ([File](../ai/research/arxiv-2608-08067.md))
-- **Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation** - Score: `0` (0), Rank Change: `+105` ([File](../ai/agents/arxiv-2608-02345.md))
-- **Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning** - Score: `0` (0), Rank Change: `+105` ([File](../ai/rag/arxiv-2608-01014.md))
-- **Teffic-Audio: Tell Fact from Fiction** - Score: `0` (0), Rank Change: `+105` ([File](../ai/research/arxiv-2607-28351.md))
-- **Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging** - Score: `0` (0), Rank Change: `+105` ([File](../ai/rag/arxiv-2607-28125.md))
-- **RepBench: Compiling Benchmarks into Capability Representations for Large Language Models** - Score: `0` (0), Rank Change: `+105` ([File](../ai/research/arxiv-2607-28008.md))
-- **Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration** - Score: `0` (0), Rank Change: `+105` ([File](../ai/rag/arxiv-2607-00033.md))
-- **Beyond aggregate scores: Deployment-aware and non-compensatory benchmarking of vision-based eye-state recognition models for driver monitoring** - Score: `0` (0), Rank Change: `+105` ([File](../ai/rag/arxiv-2606-08123.md))
+- **Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee** - Score: `193` (+47), Rank Change: `+2` ([File](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md))
+- **Rhombus 1.1 is now available** - Score: `64` (+32), Rank Change: `+2` ([File](../ai/community/rhombus-1-1-is-now-available.md))
+- **The AI Credit Resale Economy** - Score: `270` (+25), Rank Change: `0` ([File](../ai/community/the-ai-credit-resale-economy.md))
+- **Red queen hypothesis – A new way forward for self-improving AI** - Score: `45` (+23), Rank Change: `+2` ([File](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+2833` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **gptme/gptme-agent-template** - Score: `0` (0), Rank Change: `+2866` ([File](../ai/agents/gptme-gptme-agent-template.md))
+- **0x4m4/hexstrike-ai** - Score: `0` (0), Rank Change: `+2882` ([File](../ai/agents/0x4m4-hexstrike-ai.md))
+- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+1351` ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **continuedev/continue** - Score: `0` (0), Rank Change: `+2899` ([File](../ai/agents/continuedev-continue.md))
+- **AlexPEClub/ai-coding-starter-kit** - Score: `0` (0), Rank Change: `+1366` ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18326`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9237`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **HKUDS/RAG-Anything** - (Rank Change: `+980`) ([File](../ai/rag/hkuds-rag-anything.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+980`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **codebasics/ai-agents** - (Rank Change: `+980`) ([File](../ai/agents/codebasics-ai-agents.md))
-- **slavakurilyak/awesome-ai-agents** - (Rank Change: `+980`) ([File](../ai/agents/slavakurilyak-awesome-ai-agents.md))
-- **vin67/crewai_docker** - (Rank Change: `+980`) ([File](../ai/agents/vin67-crewai-docker.md))
-- **masumi-network/crewai-masumi-quickstart-template** - (Rank Change: `+980`) ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
-- **AlexPEClub/ai-coding-starter-kit** - (Rank Change: `+980`) ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- **vercel-labs/coding-agent-template** - (Rank Change: `+980`) ([File](../ai/rag/vercel-labs-coding-agent-template.md))
+- **Medium** - (Rank Change: `+20288`) ([File](../ai/rag/medium-2.md))
+- **continuedev/continue** - (Rank Change: `+2899`) ([File](../ai/agents/continuedev-continue.md))
+- **0x4m4/hexstrike-ai** - (Rank Change: `+2882`) ([File](../ai/agents/0x4m4-hexstrike-ai.md))
+- **gptme/gptme-agent-template** - (Rank Change: `+2866`) ([File](../ai/agents/gptme-gptme-agent-template.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - (Rank Change: `+2833`) ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **mergisi/awesome-openclaw-agents** - (Rank Change: `+1367`) ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
+- **AlexPEClub/ai-coding-starter-kit** - (Rank Change: `+1366`) ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- **infiniflow/ragflow** - (Rank Change: `+1357`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **coleam00/ottomator-agents** - (Rank Change: `+1351`) ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1348`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +46,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter** (Category: `ai/community`) ([File](../ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md))
+- **St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core** (Category: `web-development/community`) ([File](../web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md))
+- **Gmail might partially be to blame for receiving emails from other Sean Conners** (Category: `ai/community`) ([File](../ai/community/gmail-might-partially-be-to-blame-for-receiving-em.md))
