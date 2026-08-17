@@ -13,13 +13,14 @@ collected_at: '2026-08-17T18:40:18.137527+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:rhombus-1-1-is-now-available
 first_seen: '2026-08-17T07:29:55.618870+05:30'
 last_seen: '2026-08-17T18:40:18.137527+05:30'
 last_checked: '2026-08-17T18:40:18.137527+05:30'
 health_score: 100
 ---
+
 
 # Rhombus 1.1 is now available
 

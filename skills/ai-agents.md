@@ -21,11 +21,11 @@ AI agents represent the transition from passive text generation to active, goal-
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 3669 resources matched in the intelligence vault.
 Recently detected signals:
+- [cloudflare/agentic-inbox](../ai/rag/cloudflare-agentic-inbox.md) (Source: Unknown Source) - Collected 2026-08-17
 - [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md) (Source: Unknown Source) - Collected 2026-08-17
 - [Next.js 16.2: AI Improvements](../ai/agents/next-js-16-2-ai-improvements.md) (Source: Unknown Source) - Collected 2026-08-17
 - [Next.js 16.3: AI Improvements](../ai/agents/next-js-16-3-ai-improvements.md) (Source: Unknown Source) - Collected 2026-08-17
 - [Next.js 16.3](../ai/agents/next-js-16-3.md) (Source: Unknown Source) - Collected 2026-08-17
-- [Making Navigations Instant in v0](../ai/agents/making-navigations-instant-in-v0.md) (Source: Unknown Source) - Collected 2026-08-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -191,40 +191,40 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Tech Stack**: TypeScript, Next.js, TailwindCSS, and Shadcn UI components for building an agentic chat application.
 
-### 33. [cloudflare/agentic-inbox](../ai/rag/cloudflare-agentic-inbox.md) ([GitHub](https://github.com/cloudflare/agentic-inbox))
-- Stars: 0
-- Language: Unknown
-- Description: - **Architecture**: Self-hosted email client leveraging Cloudflare Workers for serverless execution, entirely written in TypeScript.
-
-### 34. [crewAIInc/crewAI-tools](../ai/agents/crewaiinc-crewai-tools.md) ([GitHub](https://github.com/crewaiinc/crewai-tools))
+### 33. [crewAIInc/crewAI-tools](../ai/agents/crewaiinc-crewai-tools.md) ([GitHub](https://github.com/crewaiinc/crewai-tools))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Extends CrewAI agents' functionality via modular Python tools, enabling enhanced agent capabilities.
 
-### 35. [Fosowl/agenticSeek](../ai/rag/fosowl-agenticseek.md) ([GitHub](https://github.com/fosowl/agenticseek))
+### 34. [Fosowl/agenticSeek](../ai/rag/fosowl-agenticseek.md) ([GitHub](https://github.com/fosowl/agenticseek))
 - Stars: 0
 - Language: Unknown
 - Description: - **Local-First Autonomous Agent Framework**: Implements a fully local, API-free autonomous agent system (`agenticSeek`) using Python, leveraging DeepSeek-R1 for reasoning and task execution withou...
 
-### 36. [liangdabiao/easy_investment_Agent_crewai](../ai/rag/liangdabiao-easy-investment-agent-crewai.md) ([GitHub](https://github.com/liangdabiao/easy_investment_agent_crewai))
+### 35. [liangdabiao/easy_investment_Agent_crewai](../ai/rag/liangdabiao-easy-investment-agent-crewai.md) ([GitHub](https://github.com/liangdabiao/easy_investment_agent_crewai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Agent System**: Implements 4 specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision maker) using CrewAI for collaborative A-share investment analysis.
 
-### 37. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
+### 36. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
 - Stars: 0
 - Language: Unknown
 - Description: - **End-to-end GenAI agent development**: Provides code-first tutorials covering the entire lifecycle from prototype to enterprise deployment, emphasizing production-grade implementations.
 
-### 38. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
+### 37. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed roles, communication protocols, and task delegation for complex workflows.
 
-### 39. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
+### 38. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
 - Stars: 0
 - Language: Unknown
 - Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
+
+### 39. [cloudflare/agentic-inbox](../ai/rag/cloudflare-agentic-inbox.md) ([GitHub](https://github.com/cloudflare/agentic-inbox))
+- Stars: 0
+- Language: Unknown
+- Description: *   AI-powered email agent integrated into a self-hosted client.
 
 ### 40. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-08-17T18:56:03.110464+05:30.186561+05:30.567085+05:30.966203+05:30.814515+05:30.418952+05:30.140686+05:30.863621+05:30.589699+05:30.165123+05:30.740885+05:30.377287+05:30.776024+05:30.744836+05:30.342838+05:30.721711+05:30.055333+05:30.725095+05:30.368605+05:30.474325+05:30.261470+05:30.847396+05:30.536295+05:30.894925+05:30.332557+05:30.815617+05:30.369142+05:30.386099+05:30.527978+05:30.958565+05:30.616243+05:30.691651+05:30.361368+05:30.590544+05:30.718791+05:30.503365+05:30.934362+05:30.040410+05:30.402269+05:30.230294+05:30.596719+05:30.231593+05:30.671428+05:30.344342+05:30.204361+05:30.736488+05:30.410728+05:30.683848+05:30.074778+05:30.916382+05:30.068440+05:30.013427+05:30.158805+05:30.916846+05:30.684640+05:30.316425+05:30.513533+05:30.304215+05:30.802023+05:30.151012+05:30.816672+05:30.159613+05:30.298017+05:30.997624+05:30.013593+05:30.748356+05:30.715314+05:30.794976+05:30.844419+05:30.932998+05:30.994056+05:30.806164+05:30.206127+05:30.638234+05:30.008233+05:30.617626+05:30.654993+05:30.491200+05:30.111071+05:30.556956+05:30.237489+05:30.568106+05:30.747322+05:30.996005+05:30.688904+05:30.592131+05:30.708429+05:30.317786+05:30.975626+05:30.670784+05:30.983791+05:30.764889+05:30.578419+05:30.640743+05:30.434780+05:30.451416+05:30.462750+05:30.815063+05:30.875446+05:30.439875+05:30.102679+05:30.568853+05:30.687453+05:30.821342+05:30.013414+05:30.090778+05:30.555477+05:30.109047+05:30.524750+05:30.534451+05:30.101528+05:30.952023+05:30.140302+05:30.353804+05:30.837497+05:30.078042+05:30.442039+05:30.550253+05:30.137633+05:30.328714+05:30.885826+05:30.908692+05:30.809380+05:30.254588+05:30.231841+05:30.681111+05:30.265574+05:30.741435+05:30.071974+05:30.958778+05:30.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-08-17T21:29:21.249530+05:30.110464+05:30.186561+05:30.567085+05:30.966203+05:30.814515+05:30.418952+05:30.140686+05:30.863621+05:30.589699+05:30.165123+05:30.740885+05:30.377287+05:30.776024+05:30.744836+05:30.342838+05:30.721711+05:30.055333+05:30.725095+05:30.368605+05:30.474325+05:30.261470+05:30.847396+05:30.536295+05:30.894925+05:30.332557+05:30.815617+05:30.369142+05:30.386099+05:30.527978+05:30.958565+05:30.616243+05:30.691651+05:30.361368+05:30.590544+05:30.718791+05:30.503365+05:30.934362+05:30.040410+05:30.402269+05:30.230294+05:30.596719+05:30.231593+05:30.671428+05:30.344342+05:30.204361+05:30.736488+05:30.410728+05:30.683848+05:30.074778+05:30.916382+05:30.068440+05:30.013427+05:30.158805+05:30.916846+05:30.684640+05:30.316425+05:30.513533+05:30.304215+05:30.802023+05:30.151012+05:30.816672+05:30.159613+05:30.298017+05:30.997624+05:30.013593+05:30.748356+05:30.715314+05:30.794976+05:30.844419+05:30.932998+05:30.994056+05:30.806164+05:30.206127+05:30.638234+05:30.008233+05:30.617626+05:30.654993+05:30.491200+05:30.111071+05:30.556956+05:30.237489+05:30.568106+05:30.747322+05:30.996005+05:30.688904+05:30.592131+05:30.708429+05:30.317786+05:30.975626+05:30.670784+05:30.983791+05:30.764889+05:30.578419+05:30.640743+05:30.434780+05:30.451416+05:30.462750+05:30.815063+05:30.875446+05:30.439875+05:30.102679+05:30.568853+05:30.687453+05:30.821342+05:30.013414+05:30.090778+05:30.555477+05:30.109047+05:30.524750+05:30.534451+05:30.101528+05:30.952023+05:30.140302+05:30.353804+05:30.837497+05:30.078042+05:30.442039+05:30.550253+05:30.137633+05:30.328714+05:30.885826+05:30.908692+05:30.809380+05:30.254588+05:30.231841+05:30.681111+05:30.265574+05:30.741435+05:30.071974+05:30.958778+05:30.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.

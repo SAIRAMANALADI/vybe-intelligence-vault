@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-17T21:04:23.627199+05:30`
+Generated at: `2026-08-17T21:32:14.275299+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,22 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **GitHub down again? no PR access** - Score: `209` in category `ai/community` ([Link](https://news.ycombinator.com/item?id=49330632)) ([File](../ai/community/github-down-again-no-pr-access.md))
+- **AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira** - Score: `61` in category `ai/community` ([Link](https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)) ([File](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md))
+- **How to disable or avoid intrusive AI** - Score: `44` in category `ai/community` ([Link](https://librarian.net/notoai)) ([File](../ai/community/how-to-disable-or-avoid-intrusive-ai.md))
+- **Show HN: Sokoban AI Solver** - Score: `32` in category `ai/community` ([Link](https://mkornreich.me/projects/sokoban)) ([File](../ai/community/show-hn-sokoban-ai-solver.md))
+- **Launch HN: Speko (YC S26) – OpenRouter for Voice AI** - Score: `7` in category `ai/community` ([Link](https://news.ycombinator.com/item?id=49332751)) ([File](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md))
 
 ## Top Trending Resources
 
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
-- **gptme/gptme-agent-template** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/gptme-gptme-agent-template.md))
-- **0x4m4/hexstrike-ai** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/0x4m4-hexstrike-ai.md))
-- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **continuedev/continue** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/continuedev-continue.md))
-- **AlexPEClub/ai-coding-starter-kit** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **Anthropic's 'watermark' text adulteration in Claude is a perversion of writing** - Score: `572` (+148), Rank Change: `0` ([File](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md))
+- **GPT 5.6 Sol is the best "vision" model OpenAI ever released** - Score: `151` (+132), Rank Change: `+2` ([File](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md))
+- **cloudflare/agentic-inbox** - Score: `0` (0), Rank Change: `+2850` ([File](../ai/rag/cloudflare-agentic-inbox.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18326`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9237`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+980`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+980`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+980`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **malonge/RaGOO** - (Rank Change: `+980`) ([File](../ai/rag/malonge-ragoo.md))
-- **MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation** - (Rank Change: `+980`) ([File](../ai/research/arxiv-2608-09035.md))
-- **Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach** - (Rank Change: `+980`) ([File](../ai/rag/arxiv-2608-08636.md))
-- **DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects** - (Rank Change: `+980`) ([File](../ai/research/arxiv-2608-08067.md))
-- **Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation** - (Rank Change: `+980`) ([File](../ai/agents/arxiv-2608-02345.md))
+- **cloudflare/agentic-inbox** - (Rank Change: `+2850`) ([File](../ai/rag/cloudflare-agentic-inbox.md))
+- **GPT 5.6 Sol is the best "vision" model OpenAI ever released** - (Rank Change: `+2`) ([File](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +34,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **The AI Credit Resale Economy** (Category: `ai/community`) ([File](../ai/community/the-ai-credit-resale-economy.md))
+- **Rhombus 1.1 is now available** (Category: `ai/community`) ([File](../ai/community/rhombus-1-1-is-now-available.md))
+- **Self hosted email continues to steeply decline** (Category: `ai/community`) ([File](../ai/community/self-hosted-email-continues-to-steeply-decline.md))

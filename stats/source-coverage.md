@@ -4,27 +4,32 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 15665 |
+| arxiv | 15666 |
 | github | 999 |
+| huggingface | 895 |
+| nextjs.org | 71 |
 | youtube | 65 |
 | semanticscholar.org | 62 |
 | support.google.com | 58 |
-| huggingface | 26 |
+| react.dev | 24 |
 | developers.google.com | 23 |
 | apple.com | 22 |
-| react.dev | 22 |
 | developer.chrome.com | 21 |
 | doi.org | 18 |
 | cloud.google.com | 18 |
 | developer.android.com | 16 |
 | web.dev | 16 |
+| openai.com | 14 |
 | firebase.google.com | 14 |
 | support.apple.com | 14 |
 | learn.microsoft.com | 14 |
+| microsoft.com | 13 |
 | gohugo.io | 13 |
 | geeksforgeeks.org | 13 |
+| anthropic.com | 12 |
 | developer.mozilla.org | 11 |
-| openai.com | 10 |
+| mistral.ai | 10 |
+| deepmind.google | 10 |
 | code.visualstudio.com | 10 |
 | atlassian.com | 10 |
 | nist.gov | 10 |
@@ -55,7 +60,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | energy.gov | 6 |
 | rfc-editor.org | 6 |
 | datacamp.com | 5 |
-| deepmind.google | 5 |
 | neo4j.com | 5 |
 | docs.aws.amazon.com | 5 |
 | weaviate.io | 5 |
@@ -107,7 +111,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tech.cornell.edu | 4 |
 | csrc.nist.gov | 4 |
 | daringfireball.net | 3 |
-| labs.ripe.net | 3 |
 | safety.google | 3 |
 | policies.google.com | 3 |
 | docs.python.org | 3 |
@@ -132,7 +135,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | resemble.ai | 3 |
 | chatgpt.com | 3 |
 | community.atlassian.com | 3 |
-| microsoft.com | 3 |
 | doc.rust-lang.org | 3 |
 | mozillafoundation.org | 3 |
 | cornell.edu | 3 |
@@ -163,7 +165,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-| nextjs.org | 3 |
+| news.ycombinator.com | 2 |
 | blog.roboflow.com | 2 |
 | android.googlesource.com | 2 |
 | firecrawl.dev | 2 |
@@ -229,7 +231,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | news.cornell.edu | 2 |
 | research.cornell.edu | 2 |
 | compsust.net | 2 |
-| anthropic.com | 2 |
 | android-developers.googleblog.com | 2 |
 | linuxfoundation.org | 2 |
 | harvardbusiness.org | 2 |
@@ -254,6 +255,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | numpy.org | 2 |
 | dsp.stackexchange.com | 2 |
 | snapcraft.io | 2 |
+| labs.ripe.net | 2 |
 | authy.com | 2 |
 | campus.w3schools.com | 2 |
 | techcommunity.microsoft.com | 2 |
@@ -301,8 +303,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| vectoral.com | 1 |
-| blog.racket-lang.org | 1 |
+| wiz.io | 1 |
+| librarian.net | 1 |
+| mkornreich.me | 1 |
 | transparency.google | 1 |
 | githubstatus.com | 1 |
 | srihash.org | 1 |

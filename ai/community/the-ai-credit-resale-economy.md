@@ -13,13 +13,14 @@ collected_at: '2026-08-17T18:40:18.835649+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-ai-credit-resale-economy
 first_seen: '2026-08-16T21:09:15.512144+05:30'
 last_seen: '2026-08-17T18:40:18.835649+05:30'
 last_checked: '2026-08-17T18:40:18.835649+05:30'
 health_score: 100
 ---
+
 
 # The AI Credit Resale Economy
 

@@ -179,6 +179,7 @@ Resources organized by keyword tags.
   - [AI, ML and Data Science Tutorial - GeeksforGeeks](../ai/agents/ai-ml-and-data-science-tutorial-geeksforgeeks.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
+  - [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI4BayesCode: From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers](../ai/agents/arxiv-2605-18476.md)
   - [AI4SLT: Empirical Processes in Lean 4 for Formal Statistical Learning Theory](../ai/agents/arxiv-2602-02285.md)
@@ -4603,10 +4604,12 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
-  - [Rhombus 1.1 is now available](../ai/community/rhombus-1-1-is-now-available.md)
-  - [Self hosted email continues to steeply decline](../ai/community/self-hosted-email-continues-to-steeply-decline.md)
-  - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
+  - [GitHub down again? no PR access](../ai/community/github-down-again-no-pr-access.md)
+  - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
+  - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
+  - [Show HN: Sokoban AI Solver](../ai/community/show-hn-sokoban-ai-solver.md)
 
 ## animation
 
@@ -18301,6 +18304,7 @@ Resources organized by keyword tags.
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
+  - [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [AI-interpreted Optical Scattering for Robust and Focal Depth-Aware Imaging](../ai/research/arxiv-2607-22867.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI.Gov | President Trump's AI Strategy and Action Plan](../ai/resources/ai-gov-president-trump-s-ai-strategy-and-action-pl.md)
@@ -19249,6 +19253,7 @@ Resources organized by keyword tags.
   - [GitHub Status](../ai/rag/github-status.md)
   - [GitHub Terms of Service - GitHub Docs](../ai/rag/github-terms-of-service-github-docs.md)
   - [GitHub Universe 2026](../ai/rag/github-universe-2026.md)
+  - [GitHub down again? no PR access](../ai/community/github-down-again-no-pr-access.md)
   - [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../ai/rag/resources-whitepapers.md)
   - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md)
   - [Global Automation Atlas](../ai/research/arxiv-2605-17086.md)
@@ -19412,6 +19417,7 @@ Resources organized by keyword tags.
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
+  - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
@@ -19601,6 +19607,7 @@ Resources organized by keyword tags.
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
+  - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -20258,7 +20265,6 @@ Resources organized by keyword tags.
   - [Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation](../ai/research/arxiv-2606-28998.md)
   - [Rewrite Once, Validate Anywhere: Producing OWL-Aware SHACL Constraints (Extended Version)](../ai/rag/arxiv-2608-14104.md)
   - [RhinoVLA Technical Report](../ai/research/arxiv-2606-07383.md)
-  - [Rhombus 1.1 is now available](../ai/community/rhombus-1-1-is-now-available.md)
   - [Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations](../ai/research/arxiv-2607-24773.md)
   - [Risk-Aware General-Utility Markov Decision Processes](../ai/agents/arxiv-2607-09298.md)
   - [Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs](../ai/rag/arxiv-2607-04281.md)
@@ -20350,7 +20356,6 @@ Resources organized by keyword tags.
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Selecting Hyperparameters for Tree-Boosting](../ai/rag/arxiv-2602-05786.md)
   - [Selecting an Image — Docker Stacks documentation](../ai/rag/selecting-an-image-docker-stacks-documentation.md)
-  - [Self hosted email continues to steeply decline](../ai/community/self-hosted-email-continues-to-steeply-decline.md)
   - [Self-Adaptive Learning and Model Predictive Control for Tracking Unknown Dynamics with No Regret](../ai/rag/arxiv-2607-26370.md)
   - [Self-Serve Subscription Agreement | Cloudflare](../ai/rag/self-serve-subscription-agreement-cloudflare.md)
   - [Self-Supervised Consistency Enhanced Disentangled Learning for Neural Decoding Generalization in Brain-Machine Interface](../ai/research/arxiv-2607-24023.md)
@@ -20377,6 +20382,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Sokoban AI Solver](../ai/community/show-hn-sokoban-ai-solver.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -20575,7 +20581,6 @@ Resources organized by keyword tags.
   - [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md)
   - [ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures](../ai/rag/arxiv-2607-17091.md)
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
-  - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
   - [The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems](../ai/agents/arxiv-2608-03214.md)
@@ -21001,7 +21006,6 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -30357,6 +30361,7 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
+  - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -38239,7 +38244,6 @@ Resources organized by keyword tags.
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Selecting an Image — Docker Stacks documentation](../ai/rag/selecting-an-image-docker-stacks-documentation.md)
   - [Selectors Level 4](../ai/rag/selectors-level-4.md)
-  - [Self hosted email continues to steeply decline](../ai/community/self-hosted-email-continues-to-steeply-decline.md)
   - [Semantic Textual Similarity — Sentence Transformers documentation](../ai/rag/semantic-textual-similarity-sentence-transformers.md)
   - [Semantic Versioning 2.0.0 | Semantic Versioning](../ai/rag/semantic-versioning-2-0-0-semantic-versioning.md)
   - [Send and update your data - Algolia](../ai/rag/send-and-update-your-data-algolia.md)
@@ -38818,6 +38822,7 @@ Resources organized by keyword tags.
   - [AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design](../ai/research/arxiv-2606-09831.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
+  - [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AMAP-ML/LongHorizon-Harness](../ai/agents/amap-ml-longhorizon-harness.md)
   - [API 2.3 Release - Meta Stack Exchange](../ai/rag/api-2-3-release-meta-stack-exchange.md)
@@ -46420,4 +46425,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T18:56:26.780037+05:30*
+*Index generated on 2026-08-17T21:29:45.190090+05:30*

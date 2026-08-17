@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:self-hosted-email-continues-to-steeply-decline
 first_seen: '2026-08-17T18:40:18.527404+05:30'
 last_seen: '2026-08-17T18:40:18.527404+05:30'
 last_checked: '2026-08-17T18:40:18.527404+05:30'
 health_score: 100
 ---
+
 
 # Self hosted email continues to steeply decline
 

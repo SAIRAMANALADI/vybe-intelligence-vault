@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-143%2C670-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-220%2C869-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--17-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **143,670 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **220,869 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,960</p>
-        <p><b>Active:</b> 19,323 | <b>Inactive:</b> 637</p>
+        <p><b>Resources tracked:</b> 20,944</p>
+        <p><b>Active:</b> 20,304 | <b>Inactive:</b> 640</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,267</p>
+        <p><b>Archive Files:</b> 78,504</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 143,670 files</p>
-        <p><b>Last Update:</b> 2026-08-17 21:04 IST</p>
+        <p><b>Total Vault Size:</b> 220,869 files</p>
+        <p><b>Last Update:</b> 2026-08-17 21:32 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+979</kbd>
-- 🔼 **[The-Swarm-Corporation/Multi-Agent-RAG-Template](ai/rag/the-swarm-corporation-multi-agent-rag-template.md)** • Rank: <kbd>+979</kbd>
-- 🔼 **[gptme/gptme-agent-template](ai/agents/gptme-gptme-agent-template.md)** • Rank: <kbd>+979</kbd>
-- 🔼 **[0x4m4/hexstrike-ai](ai/agents/0x4m4-hexstrike-ai.md)** • Rank: <kbd>+979</kbd>
-- 🔼 **[coleam00/ottomator-agents](ai/agents/coleam00-ottomator-agents.md)** • Rank: <kbd>+979</kbd>
+- 🔼 **[Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](ai/community/anthropic-s-watermark-text-adulteration-in-claude.md)** • <kbd>+148 pts</kbd>
+- 🔼 **[GPT 5.6 Sol is the best "vision" model OpenAI ever released](ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)** • <kbd>+132 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[cloudflare/agentic-inbox](ai/rag/cloudflare-agentic-inbox.md)** • Rank: <kbd>+2850</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[GitHub down again? no PR access](ai/community/github-down-again-no-pr-access.md)** • Score: `209`
+- 🆕 **[AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)** • Score: `61`
+- 🆕 **[How to disable or avoid intrusive AI](ai/community/how-to-disable-or-avoid-intrusive-ai.md)** • Score: `44`
+- 🆕 **[Show HN: Sokoban AI Solver](ai/community/show-hn-sokoban-ai-solver.md)** • Score: `32`
+- 🆕 **[Launch HN: Speko (YC S26) – OpenRouter for Voice AI](ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)** • Score: `7`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[The AI Credit Resale Economy](ai/community/the-ai-credit-resale-economy.md)**
+- 💤 **[Rhombus 1.1 is now available](ai/community/rhombus-1-1-is-now-available.md)**
+- 💤 **[Self hosted email continues to steeply decline](ai/community/self-hosted-email-continues-to-steeply-decline.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
