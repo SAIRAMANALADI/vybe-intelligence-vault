@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:10:15.457734+05:30",
+  "generated_at": "2026-08-17T13:32:11.647111+05:30",
   "trending_resources": [
     {
       "id": "hackernews:nvidia-dramatically-reduces-amount-of-openai-infra",
@@ -134,15 +134,28 @@
   ],
   "fastest_rising_tools": [
     {
-      "id": "blog:medium",
-      "title": "Medium",
+      "id": "github:ruc-nlpir/flashrag",
+      "title": "RUC-NLPIR/FlashRAG",
       "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91",
-      "file_path": "ai/rag/medium-2.md",
+      "source_type": "github",
+      "url": "https://github.com/ruc-nlpir/flashrag",
+      "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 20288,
+      "rank_change": 18329,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
+      "title": "Medium Privacy Policy | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 9240,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -225,19 +238,6 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:infiniflow/ragflow",
-      "title": "infiniflow/ragflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/infiniflow/ragflow",
-      "file_path": "ai/rag/infiniflow-ragflow-2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1357,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "github:coleam00/ottomator-agents",
       "title": "coleam00/ottomator-agents",
       "category": "ai/agents",
@@ -259,12 +259,26 @@
       "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1348,
+      "rank_change": 1350,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
-  "new_discoveries": [],
+  "new_discoveries": [
+    {
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    }
+  ],
   "recently_inactive_resources": [
     {
       "id": "hackernews:stripe-clinches-over-7b-deal-to-buy-ai-firm-openro",

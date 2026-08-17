@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-17T13:10:15.457734+05:30`
+Generated at: `2026-08-17T13:32:11.647111+05:30`
 
 ## Executive Summary
 
@@ -8,8 +8,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-No new discoveries tracked in this run.
-
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
@@ -26,16 +25,16 @@ No new discoveries tracked in this run.
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+20288`) ([File](../ai/rag/medium-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18329`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9240`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
 - **continuedev/continue** - (Rank Change: `+2899`) ([File](../ai/agents/continuedev-continue.md))
 - **0x4m4/hexstrike-ai** - (Rank Change: `+2882`) ([File](../ai/agents/0x4m4-hexstrike-ai.md))
 - **gptme/gptme-agent-template** - (Rank Change: `+2866`) ([File](../ai/agents/gptme-gptme-agent-template.md))
 - **The-Swarm-Corporation/Multi-Agent-RAG-Template** - (Rank Change: `+2833`) ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
 - **mergisi/awesome-openclaw-agents** - (Rank Change: `+1367`) ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
 - **AlexPEClub/ai-coding-starter-kit** - (Rank Change: `+1366`) ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- **infiniflow/ragflow** - (Rank Change: `+1357`) ([File](../ai/rag/infiniflow-ragflow-2.md))
 - **coleam00/ottomator-agents** - (Rank Change: `+1351`) ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1348`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1350`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
 
 ## 🔄 Essential Tier Transitions
 
