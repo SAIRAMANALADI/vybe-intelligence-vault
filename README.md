@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-220%2C861-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-143%2C666-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--17-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **220,861 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **143,666 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,935</p>
-        <p><b>Active:</b> 20,304 | <b>Inactive:</b> 631</p>
+        <p><b>Resources tracked:</b> 19,956</p>
+        <p><b>Active:</b> 19,325 | <b>Inactive:</b> 631</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 78,505</p>
+        <p><b>Archive Files:</b> 2,267</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 220,861 files</p>
-        <p><b>Last Update:</b> 2026-08-17 10:02 IST</p>
+        <p><b>Total Vault Size:</b> 143,666 files</p>
+        <p><b>Last Update:</b> 2026-08-17 11:13 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,20 +210,16 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)** • <kbd>+44 pts</kbd>
-- 🔼 **[Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)** • <kbd>+33 pts</kbd>
-- 🔼 **[The AI Credit Resale Economy](ai/community/the-ai-credit-resale-economy.md)** • <kbd>+18 pts</kbd>
-- 🔼 **[Rhombus 1.1 is now available](ai/community/rhombus-1-1-is-now-available.md)** • <kbd>+18 pts</kbd>
-- 🔼 **[Red queen hypothesis – a new way forward for self-improving AI](ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)** • <kbd>+11 pts</kbd>
+- 🔼 **[MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation](ai/research/arxiv-2608-09035.md)** • Rank: <kbd>+105</kbd>
+- 🔼 **[Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach](ai/rag/arxiv-2608-08636.md)** • Rank: <kbd>+105</kbd>
+- 🔼 **[DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects](ai/research/arxiv-2608-08067.md)** • Rank: <kbd>+105</kbd>
+- 🔼 **[Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation](ai/agents/arxiv-2608-02345.md)** • Rank: <kbd>+105</kbd>
+- 🔼 **[Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning](ai/rag/arxiv-2608-01014.md)** • Rank: <kbd>+105</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Gmail might partially be to blame for receiving emails from other Sean Conners](ai/community/gmail-might-partially-be-to-blame-for-receiving-em.md)** • Score: `7`
-- 🆕 **[MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation](ai/research/arxiv-2608-09035.md)** • Score: `0`
-- 🆕 **[Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach](ai/rag/arxiv-2608-08636.md)** • Score: `0`
-- 🆕 **[DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects](ai/research/arxiv-2608-08067.md)** • Score: `0`
-- 🆕 **[Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation](ai/agents/arxiv-2608-02345.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
