@@ -16533,12 +16533,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
-  - [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md)
+  - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
+  - [Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md)
   - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
-  - [GitHub down again? no PR access](../ai/community/github-down-again-no-pr-access.md)
   - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
   - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
+  - [On AI regulation and messaging](../ai/community/on-ai-regulation-and-messaging.md)
   - [Show HN: Sokoban AI Solver](../ai/community/show-hn-sokoban-ai-solver.md)
 
 ## Unknown Source (type: huggingface)
@@ -20349,4 +20349,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T21:29:45.413821+05:30*
+*Index generated on 2026-08-18T00:48:14.257829+05:30*

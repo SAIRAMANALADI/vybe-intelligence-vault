@@ -1,7 +1,7 @@
 {
   "status": "healthy",
-  "last_generated_at": "2026-08-17T21:31:31.583753+05:30",
-  "total_items": 76461,
+  "last_generated_at": "2026-08-18T00:49:51.026749+05:30",
+  "total_items": 76460,
   "category_counts": {
     "ai-coding-agents": 3197,
     "agent-instructions": 9,
@@ -15,7 +15,7 @@
     "model-providers": 2269,
     "inference-local-llm": 1204,
     "vector-databases": 6254,
-    "datasets": 11224,
+    "datasets": 11223,
     "prompt-libraries": 158,
     "automation-workflows": 1604,
     "public-apis": 46,

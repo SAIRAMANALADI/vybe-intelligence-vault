@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://librarian.net/notoai
 hn_url: https://news.ycombinator.com/item?id=49331220
-score: 44
+score: 162
 author: ColinWright
-comments_count: 12
+comments_count: 68
 published_at: '2026-08-17T19:37:56+05:30'
-collected_at: '2026-08-17T21:12:57.853859+05:30'
+collected_at: '2026-08-18T00:32:02.499266+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:how-to-disable-or-avoid-intrusive-ai
 first_seen: '2026-08-17T21:12:57.853859+05:30'
-last_seen: '2026-08-17T21:12:57.853859+05:30'
-last_checked: '2026-08-17T21:12:57.853859+05:30'
+last_seen: '2026-08-18T00:32:02.499266+05:30'
+last_checked: '2026-08-18T00:32:02.499266+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ColinWright. Score: 44, Comments: 12.
+Hacker News story by ColinWright. Score: 162, Comments: 68.
 Original Link: https://www.librarian.net/notoai/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ColinWright
-- Score: 44 Upvotes
-- Comments: 12 Discussions
+- Score: 162 Upvotes
+- Comments: 68 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49331220
 - Original Article: https://librarian.net/notoai
 
