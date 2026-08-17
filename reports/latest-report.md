@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-18T00:50:29.724880+05:30`
+Generated at: `2026-08-18T02:03:23.644321+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **On AI regulation and messaging** - Score: `215` in category `ai/community` ([Link](https://twitter.com/darioamodei/status/2088758816376807762)) ([File](../ai/community/on-ai-regulation-and-messaging.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira** - Score: `207` (+146), Rank Change: `0` ([File](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md))
-- **Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing** - Score: `705` (+133), Rank Change: `0` ([File](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md))
-- **How to disable or avoid intrusive AI** - Score: `162` (+118), Rank Change: `0` ([File](../ai/community/how-to-disable-or-avoid-intrusive-ai.md))
-- **GPT 5.6 Sol is the best "vision" model OpenAI ever released** - Score: `234` (+83), Rank Change: `+1` ([File](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md))
-- **Launch HN: Speko (YC S26) – OpenRouter for Voice AI** - Score: `62` (+55), Rank Change: `+1` ([File](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md))
-- **Show HN: Sokoban AI Solver** - Score: `53` (+21), Rank Change: `-1` ([File](../ai/community/show-hn-sokoban-ai-solver.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+984` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+994` ([File](../ai/rag/malonge-ragoo.md))
-- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - Score: `0` (0), Rank Change: `+9` ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
+- **cloudflare/agentic-inbox** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/cloudflare-agentic-inbox.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **gptme/gptme-agent-template** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/gptme-gptme-agent-template.md))
+- **0x4m4/hexstrike-ai** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/0x4m4-hexstrike-ai.md))
+- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **continuedev/continue** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/continuedev-continue.md))
+- **AlexPEClub/ai-coding-starter-kit** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **malonge/RaGOO** - (Rank Change: `+994`) ([File](../ai/rag/malonge-ragoo.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+984`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **ParticleMedia/RAGTruth** - (Rank Change: `+982`) ([File](../ai/rag/particlemedia-ragtruth.md))
-- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - (Rank Change: `+9`) ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
-- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - (Rank Change: `+9`) ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
-- **Next.js 6 and Nextjs.org** - (Rank Change: `+9`) ([File](../web-development/nextjs/next-js-6-and-nextjs-org.md))
-- **Next.js 6.1** - (Rank Change: `+9`) ([File](../web-development/nextjs/next-js-6-1.md))
-- **Next.js 7** - (Rank Change: `+9`) ([File](../web-development/nextjs/next-js-7.md))
-- **Next.js 8** - (Rank Change: `+9`) ([File](../web-development/nextjs/next-js-8.md))
-- **Next.js 8 Webpack Memory Improvements** - (Rank Change: `+9`) ([File](../web-development/nextjs/next-js-8-webpack-memory-improvements.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18326`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9237`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+980`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+980`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+980`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation** - (Rank Change: `+980`) ([File](../ai/research/arxiv-2608-09035.md))
+- **Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach** - (Rank Change: `+980`) ([File](../ai/rag/arxiv-2608-08636.md))
+- **DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects** - (Rank Change: `+980`) ([File](../ai/research/arxiv-2608-08067.md))
+- **Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation** - (Rank Change: `+980`) ([File](../ai/agents/arxiv-2608-02345.md))
+- **Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning** - (Rank Change: `+980`) ([File](../ai/rag/arxiv-2608-01014.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **GitHub down again? no PR access** (Category: `ai/community`) ([File](../ai/community/github-down-again-no-pr-access.md))
+No recently active resources transitioned to inactive.
+
