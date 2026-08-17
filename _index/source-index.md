@@ -16533,8 +16533,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [A simple fix for LLM tail latency](../ai/community/a-simple-fix-for-llm-tail-latency.md)
   - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
-  - [Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md)
+  - [AI;DR (AI; Didn't Read)](../ai/community/ai-dr-ai-didn-t-read.md)
+  - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
   - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
   - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
@@ -17178,6 +17180,7 @@ Resources organized by publisher feed and query sources.
   - [SOTA OCR with Core ML and dots.ocr](../ai/models/huggingface-blog-dots-ocr-ne.md)
   - [SafeCoder vs. Closed-source Code Assistants](../ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md)
   - [Safetensors is Joining the PyTorch Foundation](../ai/models/huggingface-blog-safetensors-joins-pytorch-foundation.md)
+  - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](../ai/models/huggingface-blog-dharma-ai-gpu-management-pt2.md)
   - [Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨](../ai/models/huggingface-blog-hf-cli.md)
   - [Scaleway on Hugging Face Inference Providers 🔥](../ai/models/huggingface-blog-inference-providers-scaleway.md)
   - [Scaling AI-based Data Processing with Hugging Face + Dask](../ai/models/huggingface-blog-dask-scaling.md)
@@ -20349,4 +20352,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T00:48:14.257829+05:30*
+*Index generated on 2026-08-18T03:31:31.944616+05:30*

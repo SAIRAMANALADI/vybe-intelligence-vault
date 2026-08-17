@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-18T00:32:41.616461+05:30'
+collected_at: '2026-08-18T03:15:53.854323+05:30'
 published_at: '2026-08-17T17:27:14Z'
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-18T00:32:41.616461+05:30'
-last_seen: '2026-08-18T00:32:41.616461+05:30'
-last_checked: '2026-08-18T00:32:41.616461+05:30'
+first_seen: '2026-08-18T03:15:53.854323+05:30'
+last_seen: '2026-08-18T03:15:53.854323+05:30'
+last_checked: '2026-08-18T03:15:53.854323+05:30'
 health_score: 100
 ---
 
@@ -29,8 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG application development guide, emphasizing practical full-stack implementation.
-*   Leverages LangChain and Llama
+*   Provides a full-stack RAG implementation guide, detailing practical development methodologies.
+*   Utilizes key frameworks such as LangChain and LlamaIndex for orchestration, integrating vector databases (Milvus) and graph databases (Neo4j) for knowledge retrieval.
+*   Demonstrates RAG system construction with specific LLMs (DeepSeek, Kimi-K2) and incorporates multimodal embedding techniques.
 
 ## Why It Matters
 

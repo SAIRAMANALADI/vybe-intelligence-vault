@@ -4604,7 +4604,10 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [A simple fix for LLM tail latency](../ai/community/a-simple-fix-for-llm-tail-latency.md)
   - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
+  - [AI;DR (AI; Didn't Read)](../ai/community/ai-dr-ai-didn-t-read.md)
+  - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
   - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
   - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
@@ -4685,7 +4688,6 @@ Resources organized by keyword tags.
   - [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../ai/agents/arxiv-2608-12249.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
-  - [Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
   - [Argos · Product quality for the age of AI agents](../ai/rag/argos-product-quality-for-the-age-of-ai-agents.md)
@@ -18259,6 +18261,7 @@ Resources organized by keyword tags.
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
   - [A safe and modern home for JavaScript technologies | OpenJS Foundation](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md)
+  - [A simple fix for LLM tail latency](../ai/community/a-simple-fix-for-llm-tail-latency.md)
   - [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md)
   - [A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem](../ai/research/arxiv-2607-28733.md)
   - [AAAI 2024 Conference - AAAI](../ai/resources/aaai-2024-conference-aaai.md)
@@ -18306,6 +18309,7 @@ Resources organized by keyword tags.
   - [AI-interpreted Optical Scattering for Robust and Focal Depth-Aware Imaging](../ai/research/arxiv-2607-22867.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI.Gov | President Trump's AI Strategy and Action Plan](../ai/resources/ai-gov-president-trump-s-ai-strategy-and-action-pl.md)
+  - [AI;DR (AI; Didn't Read)](../ai/community/ai-dr-ai-didn-t-read.md)
   - [AIP-9: Glossary](../ai/resources/aip-9-glossary.md)
   - [AIR-BENCH Live: An Evolving Safety Benchmark for Foundation Models](../ai/rag/arxiv-2607-22671.md)
   - [ALAS: Additive Learnable Alpha-Stable Kernels for Flexible Bayesian Optimization](../ai/research/arxiv-2607-18282.md)
@@ -18415,6 +18419,7 @@ Resources organized by keyword tags.
   - [An LLM-powered Agentic Recommendation System for Connected TV Content Discovery](../ai/rag/arxiv-2607-09988.md)
   - [An Unreasonably Deep Dive Into Project Euler Problem 4 - Adam Drake](../ai/rag/an-unreasonably-deep-dive-into-project-euler-probl.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
+  - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
   - [Analysing drivers and interdependencies in European electricity markets using XAI](../ai/research/arxiv-2606-19118.md)
   - [Analysis of Federated Aggregation under Model Poisoning and Backdoor Attacks: A Reconstructed Cross-Dataset and Cross-Architecture Benchmark](../ai/research/arxiv-2608-11423.md)
   - [Analysis of Motor Signatures of Social Adaptation in Autism for Efficient Human-Centric Systems](../ai/research/arxiv-2608-12548.md)
@@ -18428,7 +18433,6 @@ Resources organized by keyword tags.
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
-  - [Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
@@ -21004,6 +21008,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -21690,6 +21695,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [A simple fix for LLM tail latency](../ai/community/a-simple-fix-for-llm-tail-latency.md)
 
 ## mdx
 
@@ -46422,4 +46431,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T00:48:14.032672+05:30*
+*Index generated on 2026-08-18T03:31:31.735212+05:30*

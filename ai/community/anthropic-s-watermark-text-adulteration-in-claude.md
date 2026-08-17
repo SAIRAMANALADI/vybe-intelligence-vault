@@ -13,13 +13,14 @@ collected_at: '2026-08-18T00:32:04.100160+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-s-watermark-text-adulteration-in-claude
 first_seen: '2026-08-17T15:33:49.551025+05:30'
 last_seen: '2026-08-18T00:32:04.100160+05:30'
 last_checked: '2026-08-18T00:32:04.100160+05:30'
 health_score: 100
 ---
+
 
 # Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing
 
