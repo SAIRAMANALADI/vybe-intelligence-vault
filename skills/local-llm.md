@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 438 resources matched in the intelligence vault.
+Active signals: 437 resources matched in the intelligence vault.
 Recently detected signals:
+- [P2Skill: Privacy Preserving Skill Distillation for Cloud-Local LLM Inference Systems](../ai/agents/arxiv-2608-14094.md) (Source: Unknown Source) - Collected 2026-08-17
+- [Towards Efficient Multimodal and Multilingual Opinion Extraction for STI: A QLoRA-Based Fine-Tuning Approach](../ai/research/arxiv-2608-14152.md) (Source: Unknown Source) - Collected 2026-08-17
+- [QuaSAR: Quantization Compensation via Stable Activation-Aware Rank Truncation](../ai/rag/arxiv-2608-14149.md) (Source: Unknown Source) - Collected 2026-08-17
+- [Engineering Signals of Human-AI Collaboration in the Agentic Coding Era: A Longitudinal Analysis of 33,228 Pull Requests from vLLM and SGLang with Implications for Biomedical AI Agents and Bioinformatics Pipeline Developmen](../ai/agents/arxiv-2608-13884.md) (Source: Unknown Source) - Collected 2026-08-17
 - [KV Cache Compression Through the Lens of Transform Coding](../ai/research/arxiv-2608-14191.md) (Source: Unknown Source) - Collected 2026-08-17
-- [QUASAR: Lowering the Loss Floor of Quantization-Aware Training with Loss-Aware Reconstruction](../ai/rag/arxiv-2608-13966.md) (Source: Unknown Source) - Collected 2026-08-17
-- [Polar Code Based Federated Learning: Convergence Analysis and Resource Allocation](../ai/rag/arxiv-2608-13961.md) (Source: Unknown Source) - Collected 2026-08-17
-- [Post-training Quantization for Hybrid Iterative Generative Models](../ai/research/arxiv-2608-13932.md) (Source: Unknown Source) - Collected 2026-08-17
-- [The Integer Alibi: Localizing Cross-Kernel Divergence in INT8-Quantized LLM Inference](../ai/research/arxiv-2608-13756.md) (Source: Unknown Source) - Collected 2026-08-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -45,40 +45,40 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Multi-Model Support**: Enables local execution of advanced LLMs including Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma, and Llama3 variants via optimized Go-based inference.
 
-### 4. [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md) ([GitHub](https://github.com/prometheus-eval/prometheus-eval))
-- Stars: 0
-- Language: Unknown
-- Description: - **Benchmark Scope**: BiGGen-Bench evaluates LLMs across **9 capabilities** with **77 tasks** and **765 unique instances**, using a **1-5 scoring rubric** tailored to task-specific criteria for nu...
-
-### 5. [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md) ([GitHub](https://github.com/vndee/local-assistant-examples))
+### 4. [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md) ([GitHub](https://github.com/vndee/local-assistant-examples))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a local implementation of a ChatPDF system using Python, leveraging LangChain, LLMs, and Ollama for RAG (Retrieval-Augmented Generation).
 
-### 6. [eosphoros-ai/DB-GPT](../ai/rag/eosphoros-ai-db-gpt.md) ([GitHub](https://github.com/eosphoros-ai/db-gpt))
+### 5. [eosphoros-ai/DB-GPT](../ai/rag/eosphoros-ai-db-gpt.md) ([GitHub](https://github.com/eosphoros-ai/db-gpt))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Open-source agentic AI framework designed to serve as a data assistant for next-gen AI + Data products, enabling natural language interaction with databases via LLMs (e.g., DeepSeek,...
 
-### 7. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 6. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
 - Description: - **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector ...
 
-### 8. [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) ([GitHub](https://github.com/llmware-ai/llmware))
+### 7. [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) ([GitHub](https://github.com/llmware-ai/llmware))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models (e.g., ONNX, OpenVINO, llama...
 
-### 9. [Tencent/WeKnora](../ai/rag/tencent-weknora.md) ([GitHub](https://github.com/tencent/weknora))
+### 8. [Tencent/WeKnora](../ai/rag/tencent-weknora.md) ([GitHub](https://github.com/tencent/weknora))
 - Stars: 0
 - Language: Unknown
 - Description: - **Modular LLM Platform**: WeKnora converts raw documents into a queryable RAG (Retrieval-Augmented Generation) system, autonomous reasoning agent, and self-maintaining Wiki, supporting multi-tena...
 
-### 10. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
+### 9. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Architecture**: FastAPI-based template implementing Retrieval-Augmented Generation (RAG) with vector search for AI chatbots and document management.
+
+### 10. [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md) ([GitHub](https://github.com/prometheus-eval/prometheus-eval))
+- Stars: 0
+- Language: Unknown
+- Description: - **Benchmark Scope**: BiGGen-Bench evaluates LLMs across **9 capabilities** with **77 tasks** and **765 unique instances**, using a **1-5 scoring rubric** tailored to task-specific criteria for nu...
 
 ### 11. [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) ([GitHub](https://github.com/agentops-ai/agentops))
 - Stars: 0
@@ -180,4 +180,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-08-17T15:49:54.816877+05:30.192299+05:30.830827+05:30.359355+05:30.165103+05:30.713764+05:30.460233+05:30.503103+05:30.738537+05:30.316730+05:30.953415+05:30.002937+05:30.317398+05:30.911699+05:30.560618+05:30.851549+05:30.299389+05:30.294407+05:30.003345+05:30.826557+05:30.403923+05:30.099598+05:30.686444+05:30.903340+05:30.591738+05:30.567343+05:30.972358+05:30.068938+05:30.720700+05:30.014405+05:30.241587+05:30.874212+05:30.753666+05:30.243229+05:30.012194+05:30.128338+05:30.718960+05:30.934321+05:30.722174+05:30.040797+05:30.841658+05:30.925130+05:30.789626+05:30.587524+05:30.373810+05:30.868659+05:30.420981+05:30.693126+05:30.552288+05:30.112807+05:30.424191+05:30.524742+05:30.273647+05:30.045338+05:30.882111+05:30.905553+05:30.621768+05:30.804380+05:30.506061+05:30.400819+05:30.487186+05:30.852505+05:30.532729+05:30.448958+05:30.057499+05:30.222624+05:30.194663+05:30.378259+05:30.439504+05:30.444854+05:30.331843+05:30.451948+05:30.113740+05:30.494378+05:30.879716+05:30.267134+05:30.656247+05:30.272522+05:30.706355+05:30.334320+05:30.635367+05:30.844263+05:30.289606+05:30.900150+05:30.677254+05:30.770650+05:30.566059+05:30.094572+05:30.960521+05:30.038579+05:30.925392+05:30.628578+05:30.398286+05:30.498495+05:30.035230+05:30.503024+05:30.875695+05:30.937117+05:30.485266+05:30.117660+05:30.564664+05:30.901863+05:30.829318+05:30.191674+05:30.212574+05:30.975452+05:30.924419+05:30.472101+05:30.645620+05:30.218674+05:30.587840+05:30.056885+05:30.268350+05:30.783464+05:30.208406+05:30.378747+05:30.470023+05:30.008097+05:30.209092+05:30.764822+05:30.794150+05:30.874697+05:30.123168+05:30.590016+05:30.474549+05:30.072008+05:30.535883+05:30.854944+05:30.774037+05:30.508370+05:30.746843+05:30.284190+05:30.353776+05:30.863368+05:30.309081+05:30.974879+05:30.577410+05:30.895323+05:30.185680+05:30.568024+05:30.349026+05:30.183787+05:30.941348+05:30.401502+05:30.485745+05:30.118929+05:30.198289+05:30.778257+05:30.915176+05:30.601451+05:30.759713+05:30.239707+05:30.844355+05:30.794260+05:30.619581+05:30.854016+05:30.401384+05:30.612066+05:30.344134+05:30.236548+05:30.377713+05:30.973637+05:30.876239+05:30.091963+05:30.983238+05:30.319410+05:30.725011+05:30.829416+05:30.810784+05:30.385296+05:30.533110+05:30.496799+05:30.883476+05:30.630342+05:30.872853+05:30.179992+05:30.585961+05:30.090787+05:30.500607+05:30.289964+05:30.638312+05:30.180930+05:30.010139+05:30.946691+05:30.907244+05:30.063635+05:30.919364+05:30.670335+05:30.788692+05:30.277544+05:30.183659+05:30.405161+05:30.524351+05:30.952742+05:30.808471+05:30.221631+05:30.405691+05:30.329167+05:30.249300+05:30.450823+05:30.174840+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-08-17T18:56:05.716582+05:30.816877+05:30.192299+05:30.830827+05:30.359355+05:30.165103+05:30.713764+05:30.460233+05:30.503103+05:30.738537+05:30.316730+05:30.953415+05:30.002937+05:30.317398+05:30.911699+05:30.560618+05:30.851549+05:30.299389+05:30.294407+05:30.003345+05:30.826557+05:30.403923+05:30.099598+05:30.686444+05:30.903340+05:30.591738+05:30.567343+05:30.972358+05:30.068938+05:30.720700+05:30.014405+05:30.241587+05:30.874212+05:30.753666+05:30.243229+05:30.012194+05:30.128338+05:30.718960+05:30.934321+05:30.722174+05:30.040797+05:30.841658+05:30.925130+05:30.789626+05:30.587524+05:30.373810+05:30.868659+05:30.420981+05:30.693126+05:30.552288+05:30.112807+05:30.424191+05:30.524742+05:30.273647+05:30.045338+05:30.882111+05:30.905553+05:30.621768+05:30.804380+05:30.506061+05:30.400819+05:30.487186+05:30.852505+05:30.532729+05:30.448958+05:30.057499+05:30.222624+05:30.194663+05:30.378259+05:30.439504+05:30.444854+05:30.331843+05:30.451948+05:30.113740+05:30.494378+05:30.879716+05:30.267134+05:30.656247+05:30.272522+05:30.706355+05:30.334320+05:30.635367+05:30.844263+05:30.289606+05:30.900150+05:30.677254+05:30.770650+05:30.566059+05:30.094572+05:30.960521+05:30.038579+05:30.925392+05:30.628578+05:30.398286+05:30.498495+05:30.035230+05:30.503024+05:30.875695+05:30.937117+05:30.485266+05:30.117660+05:30.564664+05:30.901863+05:30.829318+05:30.191674+05:30.212574+05:30.975452+05:30.924419+05:30.472101+05:30.645620+05:30.218674+05:30.587840+05:30.056885+05:30.268350+05:30.783464+05:30.208406+05:30.378747+05:30.470023+05:30.008097+05:30.209092+05:30.764822+05:30.794150+05:30.874697+05:30.123168+05:30.590016+05:30.474549+05:30.072008+05:30.535883+05:30.854944+05:30.774037+05:30.508370+05:30.746843+05:30.284190+05:30.353776+05:30.863368+05:30.309081+05:30.974879+05:30.577410+05:30.895323+05:30.185680+05:30.568024+05:30.349026+05:30.183787+05:30.941348+05:30.401502+05:30.485745+05:30.118929+05:30.198289+05:30.778257+05:30.915176+05:30.601451+05:30.759713+05:30.239707+05:30.844355+05:30.794260+05:30.619581+05:30.854016+05:30.401384+05:30.612066+05:30.344134+05:30.236548+05:30.377713+05:30.973637+05:30.876239+05:30.091963+05:30.983238+05:30.319410+05:30.725011+05:30.829416+05:30.810784+05:30.385296+05:30.533110+05:30.496799+05:30.883476+05:30.630342+05:30.872853+05:30.179992+05:30.585961+05:30.090787+05:30.500607+05:30.289964+05:30.638312+05:30.180930+05:30.010139+05:30.946691+05:30.907244+05:30.063635+05:30.919364+05:30.670335+05:30.788692+05:30.277544+05:30.183659+05:30.405161+05:30.524351+05:30.952742+05:30.808471+05:30.221631+05:30.405691+05:30.329167+05:30.249300+05:30.450823+05:30.174840+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

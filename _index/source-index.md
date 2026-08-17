@@ -16534,9 +16534,9 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md)
-  - [HackEurope 2026: A short rant on AI and hackathons](../ai/community/hackeurope-2026-a-short-rant-on-ai-and-hackathons.md)
-  - [Red queen hypothesis – A new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
+  - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [Rhombus 1.1 is now available](../ai/community/rhombus-1-1-is-now-available.md)
+  - [Self hosted email continues to steeply decline](../ai/community/self-hosted-email-continues-to-steeply-decline.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
 
 ## Unknown Source (type: huggingface)
@@ -20347,4 +20347,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T15:50:16.646850+05:30*
+*Index generated on 2026-08-17T18:56:27.001461+05:30*

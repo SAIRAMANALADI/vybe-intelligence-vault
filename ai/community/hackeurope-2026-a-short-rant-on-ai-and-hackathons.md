@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:hackeurope-2026-a-short-rant-on-ai-and-hackathons
 first_seen: '2026-08-17T15:33:50.157951+05:30'
 last_seen: '2026-08-17T15:33:50.157951+05:30'
 last_checked: '2026-08-17T15:33:50.157951+05:30'
 health_score: 100
 ---
+
 
 # HackEurope 2026: A short rant on AI and hackathons
 

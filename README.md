@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-143%2C668-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-220%2C863-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--17-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **143,668 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **220,863 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 19,958</p>
-        <p><b>Active:</b> 19,323 | <b>Inactive:</b> 635</p>
+        <p><b>Resources tracked:</b> 20,939</p>
+        <p><b>Active:</b> 20,302 | <b>Inactive:</b> 637</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,267</p>
+        <p><b>Archive Files:</b> 78,503</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 143,668 files</p>
-        <p><b>Last Update:</b> 2026-08-17 18:18 IST</p>
+        <p><b>Total Vault Size:</b> 220,863 files</p>
+        <p><b>Last Update:</b> 2026-08-17 18:58 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,23 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The-Swarm-Corporation/Multi-Agent-RAG-Template](ai/rag/the-swarm-corporation-multi-agent-rag-template.md)** • Rank: <kbd>+979</kbd>
-- 🔼 **[gptme/gptme-agent-template](ai/agents/gptme-gptme-agent-template.md)** • Rank: <kbd>+979</kbd>
-- 🔼 **[0x4m4/hexstrike-ai](ai/agents/0x4m4-hexstrike-ai.md)** • Rank: <kbd>+979</kbd>
-- 🔼 **[coleam00/ottomator-agents](ai/agents/coleam00-ottomator-agents.md)** • Rank: <kbd>+979</kbd>
-- 🔼 **[continuedev/continue](ai/agents/continuedev-continue.md)** • Rank: <kbd>+979</kbd>
+- 🔼 **[Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](ai/community/anthropic-s-watermark-text-adulteration-in-claude.md)** • <kbd>+156 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[The AI Credit Resale Economy](ai/community/the-ai-credit-resale-economy.md)** • <kbd>+18 pts</kbd>
+- 🔼 **[Rhombus 1.1 is now available](ai/community/rhombus-1-1-is-now-available.md)** • <kbd>+14 pts</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+992</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+992</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Self hosted email continues to steeply decline](ai/community/self-hosted-email-continues-to-steeply-decline.md)** • Score: `69`
+- 🆕 **[GPT 5.6 Sol is the best "vision" model OpenAI ever released](ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)** • Score: `19`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Red queen hypothesis – A new way forward for self-improving AI](ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)**
+- 💤 **[HackEurope 2026: A short rant on AI and hackathons](ai/community/hackeurope-2026-a-short-rant-on-ai-and-hackathons.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

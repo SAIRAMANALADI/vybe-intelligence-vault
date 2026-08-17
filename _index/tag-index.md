@@ -4603,9 +4603,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [HackEurope 2026: A short rant on AI and hackathons](../ai/community/hackeurope-2026-a-short-rant-on-ai-and-hackathons.md)
-  - [Red queen hypothesis – A new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
+  - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [Rhombus 1.1 is now available](../ai/community/rhombus-1-1-is-now-available.md)
+  - [Self hosted email continues to steeply decline](../ai/community/self-hosted-email-continues-to-steeply-decline.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
 
 ## animation
@@ -15211,6 +15211,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Pathways of Visual Information Flow in Vision-Language Models](../ai/research/arxiv-2607-03358.md)
@@ -19178,6 +19179,7 @@ Resources organized by keyword tags.
   - [GMD - fair-calibrate v1.4.1: calibration, constraining, and validation of the FaIR simple climate model for reliable fut](../ai/rag/gmd-fair-calibrate-v1-4-1-calibration-constraining.md)
   - [GNOME Development](../ai/resources/gnome-development.md)
   - [GNU Mailman / Mailman Core · GitLab](../ai/resources/gnu-mailman-mailman-core-gitlab.md)
+  - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [GPU-Accelerated ANNS: Quantized for Speed, Built for Change](../ai/rag/arxiv-2601-07048.md)
   - [GR2 Technical Report](../ai/research/arxiv-2606-31984.md)
   - [GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech](../ai/research/arxiv-2607-02633.md)
@@ -19330,7 +19332,6 @@ Resources organized by keyword tags.
   - [HOME - National Privacy CommissionNational Privacy Commission](../ai/rag/home-national-privacy-commissionnational-privacy-c.md)
   - [HTTP Archive: Tech Report](../ai/resources/http-archive-tech-report.md)
   - [HTTP authentication - HTTP | MDN](../ai/agents/http-authentication-http-mdn.md)
-  - [HackEurope 2026: A short rant on AI and hackathons](../ai/community/hackeurope-2026-a-short-rant-on-ai-and-hackathons.md)
   - [Hackster.io - The community dedicated to learning hardware.](../ai/resources/hackster-io-the-community-dedicated-to-learning-ha.md)
   - [Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians](../ai/research/arxiv-2608-11911.md)
   - [HandFlow: Fully Generative 4D Hand Recovery with Flow Matching](../ai/research/arxiv-2607-11221.md)
@@ -20191,7 +20192,6 @@ Resources organized by keyword tags.
   - [Reconstructing Item Characteristic Curves using Fine-Tuned Large Language Models](../ai/rag/arxiv-2601-02580.md)
   - [Reconstructing Template-Memorized Images from Natural Prompts](../ai/rag/arxiv-2507-07947.md)
   - [Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops](../ai/agents/arxiv-2607-07663.md)
-  - [Red queen hypothesis – A new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
   - [Redirecting to Unicode Resources page](../ai/resources/redirecting-to-unicode-resources-page.md)
   - [Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices](../ai/research/arxiv-2606-12742.md)
   - [Refactoring](../ai/resources/refactoring.md)
@@ -20350,6 +20350,7 @@ Resources organized by keyword tags.
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Selecting Hyperparameters for Tree-Boosting](../ai/rag/arxiv-2602-05786.md)
   - [Selecting an Image — Docker Stacks documentation](../ai/rag/selecting-an-image-docker-stacks-documentation.md)
+  - [Self hosted email continues to steeply decline](../ai/community/self-hosted-email-continues-to-steeply-decline.md)
   - [Self-Adaptive Learning and Model Predictive Control for Tracking Unknown Dynamics with No Regret](../ai/rag/arxiv-2607-26370.md)
   - [Self-Serve Subscription Agreement | Cloudflare](../ai/rag/self-serve-subscription-agreement-cloudflare.md)
   - [Self-Supervised Consistency Enhanced Disentangled Learning for Neural Decoding Generalization in Brain-Machine Interface](../ai/research/arxiv-2607-24023.md)
@@ -24801,6 +24802,7 @@ Resources organized by keyword tags.
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
@@ -26409,6 +26411,7 @@ Resources organized by keyword tags.
   - [Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes](../ai/agents/arxiv-2605-28965.md)
   - [G1o22/awesome-ai-agents-2026](../ai/agents/g1o22-awesome-ai-agents-2026.md)
   - [GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning](../ai/agents/arxiv-2505-23399.md)
+  - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [Gainsight Certification Programs](../ai/rag/gainsight-certification-programs.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
   - [Gemma 4 - SGLang Documentation](../ai/rag/gemma-4-sglang-documentation.md)
@@ -37730,7 +37733,6 @@ Resources organized by keyword tags.
   - [Gunicorn - Python WSGI HTTP Server for UNIX](../ai/resources/gunicorn-python-wsgi-http-server-for-unix.md)
   - [HOME - National Privacy CommissionNational Privacy Commission](../ai/rag/home-national-privacy-commissionnational-privacy-c.md)
   - [HOME | mlai](../ai/resources/home-mlai.md)
-  - [HackEurope 2026: A short rant on AI and hackathons](../ai/community/hackeurope-2026-a-short-rant-on-ai-and-hackathons.md)
   - [HaineiFRDM: Structure-Preserving Diffusion for Film Restoration under Fast Motion and Diverse Defects](../ai/rag/arxiv-2512-24946.md)
   - [Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator](../ai/rag/arxiv-2607-07993.md)
   - [Harvard Business Publishing](../ai/resources/harvard-business-publishing.md)
@@ -38237,6 +38239,7 @@ Resources organized by keyword tags.
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Selecting an Image — Docker Stacks documentation](../ai/rag/selecting-an-image-docker-stacks-documentation.md)
   - [Selectors Level 4](../ai/rag/selectors-level-4.md)
+  - [Self hosted email continues to steeply decline](../ai/community/self-hosted-email-continues-to-steeply-decline.md)
   - [Semantic Textual Similarity — Sentence Transformers documentation](../ai/rag/semantic-textual-similarity-sentence-transformers.md)
   - [Semantic Versioning 2.0.0 | Semantic Versioning](../ai/rag/semantic-versioning-2-0-0-semantic-versioning.md)
   - [Send and update your data - Algolia](../ai/rag/send-and-update-your-data-algolia.md)
@@ -46417,4 +46420,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T15:50:16.427727+05:30*
+*Index generated on 2026-08-17T18:56:26.780037+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-08-17T15:33:52.036135+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:red-queen-hypothesis-a-new-way-forward-for-self-im
 first_seen: '2026-08-17T07:29:58.921872+05:30'
 last_seen: '2026-08-17T15:33:52.036135+05:30'
 last_checked: '2026-08-17T15:33:52.036135+05:30'
 health_score: 100
 ---
+
 
 # Red queen hypothesis – A new way forward for self-improving AI
 
