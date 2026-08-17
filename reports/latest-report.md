@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-17T15:52:45.997469+05:30`
+Generated at: `2026-08-17T17:03:33.043812+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Anthropic's 'watermark' text adulteration in Claude is a perversion of writing** - Score: `268` in category `ai/community` ([Link](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)) ([File](../ai/community/anthropic-s-watermark-text-adulteration-in-claude.md))
-- **HackEurope 2026: A short rant on AI and hackathons** - Score: `33` in category `ai/community` ([Link](https://duti.dev/blog/2026/spr)) ([File](../ai/community/hackeurope-2026-a-short-rant-on-ai-and-hackathons.md))
-- **banned-historical-archives/banned-historical-archives** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/banned-historical-archives)) ([File](../ai/models/huggingface-datasets-banned-historical-archives.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Rhombus 1.1 is now available** - Score: `84` (+20), Rank Change: `0` ([File](../ai/community/rhombus-1-1-is-now-available.md))
-- **The AI Credit Resale Economy** - Score: `289` (+19), Rank Change: `0` ([File](../ai/community/the-ai-credit-resale-economy.md))
-- **Red queen hypothesis – A new way forward for self-improving AI** - Score: `63` (+18), Rank Change: `0` ([File](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+16` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+10` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+11` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/graphics-multimedia.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+979` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **gptme/gptme-agent-template** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/gptme-gptme-agent-template.md))
+- **0x4m4/hexstrike-ai** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/0x4m4-hexstrike-ai.md))
+- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **continuedev/continue** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/continuedev-continue.md))
+- **AlexPEClub/ai-coding-starter-kit** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+979` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **allenai/c4** - (Rank Change: `+858`) ([File](../ai/models/huggingface-datasets-allenai.md))
-- **IPEC-COMMUNITY/language_table_lerobot** - (Rank Change: `+858`) ([File](../ai/models/huggingface-datasets-ipec-community.md))
-- **ayuo/hd_tmp** - (Rank Change: `+858`) ([File](../ai/models/huggingface-datasets-ayuo.md))
-- **Salesforce/wikitext** - (Rank Change: `+858`) ([File](../ai/models/huggingface-datasets-salesforce.md))
-- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+858`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
-- **huggingface/documentation-images** - (Rank Change: `+858`) ([File](../ai/models/huggingface-datasets-huggingface.md))
-- **k9cli/video-vec2wav2-tokenizer** - (Rank Change: `+858`) ([File](../ai/models/huggingface-datasets-k9cli.md))
-- **KakologArchives/KakologArchives** - (Rank Change: `+858`) ([File](../ai/models/huggingface-datasets-kakologarchives.md))
-- **nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim** - (Rank Change: `+856`) ([File](../ai/models/huggingface-datasets-nvidia.md))
-- **facebook/MusicGen** - (Rank Change: `+854`) ([File](../ai/models/huggingface-spaces-facebook.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18326`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9237`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+980`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+980`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+980`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+980`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+980`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **malonge/RaGOO** - (Rank Change: `+980`) ([File](../ai/rag/malonge-ragoo.md))
+- **MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation** - (Rank Change: `+980`) ([File](../ai/research/arxiv-2608-09035.md))
+- **Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach** - (Rank Change: `+980`) ([File](../ai/rag/arxiv-2608-08636.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -47,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee** (Category: `ai/community`) ([File](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md))
+No recently active resources transitioned to inactive.
+
