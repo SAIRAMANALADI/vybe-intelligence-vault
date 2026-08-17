@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - paper
-status: active
+status: inactive
 resource_id: hackernews:research-papers-using-kidney-disappointment-instea
 first_seen: '2026-08-16T18:33:15.462473+05:30'
 last_seen: '2026-08-17T03:08:31.285619+05:30'
 last_checked: '2026-08-17T03:08:31.285619+05:30'
 health_score: 100
 ---
+
 
 # Research papers using "kidney disappointment" instead of "kidney failure"
 

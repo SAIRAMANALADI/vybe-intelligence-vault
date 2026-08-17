@@ -13,13 +13,14 @@ collected_at: '2026-08-17T03:08:30.999464+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-deep-history-behind-the-road-to-nowhere-inside
 first_seen: '2026-08-17T00:20:44.103047+05:30'
 last_seen: '2026-08-17T03:08:30.999464+05:30'
 last_checked: '2026-08-17T03:08:30.999464+05:30'
 health_score: 100
 ---
+
 
 # The deep history behind the Road to Nowhere inside the Great Smoky Mountains
 

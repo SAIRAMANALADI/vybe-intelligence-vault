@@ -13,13 +13,14 @@ collected_at: '2026-08-17T03:08:29.705899+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-ipo-valuation-hinges-on-190-200b-2028-re
 first_seen: '2026-08-17T03:08:29.705899+05:30'
 last_seen: '2026-08-17T03:08:29.705899+05:30'
 last_checked: '2026-08-17T03:08:29.705899+05:30'
 health_score: 100
 ---
+
 
 # Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast
 

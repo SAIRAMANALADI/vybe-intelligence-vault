@@ -13,13 +13,14 @@ collected_at: '2026-08-17T03:08:30.195010+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:archie-g-norcross-maine-forest-fire-maps-1918-22
 first_seen: '2026-08-17T00:20:43.645992+05:30'
 last_seen: '2026-08-17T03:08:30.195010+05:30'
 last_checked: '2026-08-17T03:08:30.195010+05:30'
 health_score: 100
 ---
+
 
 # Archie G. Norcross' Maine Forest Fire Maps (1918–22)
 

@@ -4739,8 +4739,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.docker.com/ai/model-runner/>
 
 * **[docker/compose-for-agents](ai/agents/docker-compose-for-agents.md)** (`workflow` | `useful` tier)
-  * Summary: * Orchestrates AI agents, open-source LLMs (e.g., Llama.cpp), and tools using Docker Compose for containerized deployment. * Provides ready-to-use Docker Compose configurations for building and running self-hosted agentic workflows. * Supports develo
-  * Tags: `agents`, `github-repo`, `meta-ai`, `models`, `openai`, `reddit`, `typescript`, `workflows`
+  * Summary: * Provides Docker Compose configurations for orchestrating AI agents, integrating open-source LLMs, tools, and agent runtimes. * Offers ready-to-use examples for deploying complex agentic workflows in self-hosted environments. * Supports specific tec
+  * Tags: `agents`, `github-repo`, `hackernews`, `meta-ai`, `models`, `openai`, `reddit`, `typescript`, `workflows`
   * Source URL: <https://github.com/docker/compose-for-agents>
 
 * **[docksal/docksal](ai/agents/docksal-docksal.md)** (`framework` | `useful` tier)
@@ -23891,11 +23891,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2603.07053>
 
-* **[Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](ai/community/anthropic-ipo-valuation-hinges-on-190-200b-2028-re.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by root-parent. Score: 9, Comments: 2. Original Link: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/
-  * Tags: `anthropic`, `hackernews`
-  * Source URL: <https://reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15>
-
 * **[Antora](ai/resources/antora.md)** (`tutorial` | `useful` tier)
   * Summary: - **Multi-repository aggregation**: Antora retrieves and aggregates AsciiDoc documentation from one or more Git repositories (local, remote, private, or public), supporting versioning via branches and ignoring non-published branches, enabling decentr
   * Tags: `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -23930,11 +23925,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.14643v4 Announce Type: replace Abstract: Large language models struggle to maintain strict adherence to structured workflows in high-stakes domains such as healthcare triage. Monolithic approaches that encode entire decision structures wit
   * Tags: `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2602.14643>
-
-* **[Archie G. Norcross' Maine Forest Fire Maps (1918–22)](ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by samclemens. Score: 21, Comments: 3. Original Link: https://publicdomainreview.org/collection/maine-forest-fire-maps/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://publicdomainreview.org/collection/maine-forest-fire-maps>
 
 * **[Are LLM Evaluators Really Narcissists? Sanity Checking Self-Preference Evaluations](ai/research/arxiv-2601-22548.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.22548v4 Announce Type: replace-cross Abstract: Recent research has shown that large language models (LLMs) favor their own outputs when acting as judges, undermining the integrity of automated post-training and evaluation workflows. Howeve
@@ -26432,7 +26422,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://numfocus.org>
 
 * **[Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by root-parent. Score: 5, Comments: 0. Original Link: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/
+  * Summary: Hacker News story by root-parent. Score: 102, Comments: 34. Original Link: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14>
 
@@ -26961,6 +26951,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `paper`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2604.07341>
 
+* **[Red queen hypothesis – a new way forward for self-improving AI](ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by hardlianotion. Score: 11, Comments: 1. Original Link: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai>
+
 * **[REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming](ai/research/arxiv-2607-07738.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.07738v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly applied to reverse-engineering tasks, and recent threat-intelligence reporting shows them operating inside live offensive-security workflows. Claims about
   * Tags: `benchmark`, `paper`, `workflows`
@@ -27000,11 +26995,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - Reported YouTube content undergoes manual review per [Community Guidelines](https://youtube.com/t/community_guidelines), with violations removed or age-restricted; non-violative content remains unaffected regardless of report volume. - Reporting wo
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://support.google.com/youtube/answer/2802027>
-
-* **[Research papers using "kidney disappointment" instead of "kidney failure"](ai/community/research-papers-using-kidney-disappointment-instea.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Alifatisk. Score: 338, Comments: 119. Original Link: https://scholar.google.com/scholar?q=%22kidney+disappointment%22
-  * Tags: `ai`, `hackernews`, `paper`
-  * Source URL: <https://scholar.google.com/scholar?q=%22kidney+disappointment%22>
 
 * **[research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](ai/resources/research-process-how-do-researchers-stay-organized.md)** (`tutorial` | `useful` tier)
   * Summary: - **Time-blocking and prioritization**: Allocate dedicated time slots for each project (hourly/daily) and enforce strict boundaries; use a shared calendar and a simple to-do list to enforce focus and avoid multitasking overhead. - **Modular note-taki
@@ -27050,6 +27040,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging modern web technologies. - **Tech stack**: Built with **TypeScript**, **Next.js** (
   * Tags: `agents`, `frontend_ui`, `github-repo`, `hackernews`, `openai`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/reworkd/AgentGPT>
+
+* **[Rhombus 1.1 is now available](ai/community/rhombus-1-1-is-now-available.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by spdegabrielle. Score: 14, Comments: 5. Original Link: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://blog.racket-lang.org/2026/08/rhombus-v1.1.html>
 
 * **[ritik-prog/n8n-automation-templates-5000](ai/rag/ritik-prog-n8n-automation-templates-5000.md)** (`template` | `essential` tier)
   * Summary: - **Repository**: `ritik-prog/n8n-automation-templates-5000` contains **5000+ production-ready n8n workflow templates** spanning AI, CRM, finance, e-commerce, marketing, and RAG automation. - **Accessibility**: All templates are **open-source and fre
@@ -27412,7 +27407,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://hub.docker.com/r/squidfunk/mkdocs-material>
 
 * **[St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by toomuchtodo. Score: 128, Comments: 94. Original Link: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core
+  * Summary: Hacker News story by toomuchtodo. Score: 159, Comments: 125. Original Link: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core
   * Tags: `frontend_ui`, `hackernews`, `react`
   * Source URL: <https://wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core>
 
@@ -27456,7 +27451,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/streamlit/example-app-langchain-rag>
 
 * **[Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by zacharyozer. Score: 37, Comments: 24. Original Link: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion
+  * Summary: Hacker News story by zacharyozer. Score: 201, Comments: 145. Original Link: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion
   * Tags: `ai`, `hackernews`
   * Source URL: <https://bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion>
 
@@ -27581,24 +27576,14 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.02080>
 
 * **[The AI Credit Resale Economy](ai/community/the-ai-credit-resale-economy.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mlenhard. Score: 191, Comments: 70. Original Link: https://vectoral.com/blog/who-are-the-token-brokers
+  * Summary: Hacker News story by mlenhard. Score: 227, Comments: 89. Original Link: https://vectoral.com/blog/who-are-the-token-brokers
   * Tags: `ai`, `hackernews`
   * Source URL: <https://vectoral.com/blog/who-are-the-token-brokers>
-
-* **[The Case Against Formal Verification, 50 Years Later](ai/community/the-case-against-formal-verification-50-years-late.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ghuntley. Score: 31, Comments: 20. Original Link: https://ivan-gavran.github.io/0-social-processes-paper
-  * Tags: `ai`, `hackernews`, `paper`
-  * Source URL: <https://ivan-gavran.github.io/0-social-processes-paper>
 
 * **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (`framework` | `useful` tier)
   * Summary: - **RAG (Retrieval-Augmented Generation)** combines retrieval, augmentation, and generation, formalized by Lewis et al. (2020), addressing LLM limitations in freshness, private knowledge, and hallucination by dynamically pulling external, up-to-date,
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `leaderboard`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/>
-
-* **[The deep history behind the Road to Nowhere inside the Great Smoky Mountains](ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by yareally. Score: 17, Comments: 5. Original Link: https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains>
 
 * **[The Foreign Policy AI Evaluation Gap](ai/research/arxiv-2607-02955.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.02955v1 Announce Type: cross Abstract: We argue that AI systems used in conducting foreign policy tasks - broadly enacting 'statecraft' - should be a priority test case for technical AI governance research. In enacting foreign policy, we r
@@ -93108,8 +93093,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Provides a full-stack, practical guide for Retrieval Augmented Generation (RAG) in large language model (LLM) application development. * Demonstrates RAG implementation leveraging frameworks like LangChain and LlamaIndex, integrating vector databas
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
+  * Summary: * Provides a full-stack guide for RAG application development, covering foundational concepts to advanced implementations. * Demonstrates practical RAG orchestration using LangChain and LlamaIndex, integrating vector databases like Milvus and graph d
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -93118,8 +93103,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive LLM application development tutorial, specifically targeting novice developers. * Emphasizes practical implementation of RAG (Retrieval-Augmented Generation) architectures using the LangChain framework. * Content is delivered through
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
+  * Summary: * Provides `Jupyter Notebook`-based tutorials for practical LLM application development.
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -102193,7 +102178,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`. * Hosted as
+  * Summary: * Jekyll-based static site generator source for `raganwald.com`. *
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

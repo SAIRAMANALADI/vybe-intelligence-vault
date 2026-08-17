@@ -4520,13 +4520,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](../ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)
   - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](../ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)
-  - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
+  - [Red queen hypothesis – a new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
+  - [Rhombus 1.1 is now available](../ai/community/rhombus-1-1-is-now-available.md)
   - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](../ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)
   - [The AI Credit Resale Economy](../ai/community/the-ai-credit-resale-economy.md)
-  - [The Case Against Formal Verification, 50 Years Later](../ai/community/the-case-against-formal-verification-50-years-late.md)
-  - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](../ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)
 
 ## animation
 
@@ -4601,7 +4599,6 @@ Resources organized by keyword tags.
   - [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../ai/agents/arxiv-2608-12249.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
-  - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](../ai/community/anthropic-ipo-valuation-hinges-on-190-200b-2028-re.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
   - [Argos · Product quality for the age of AI agents](../ai/rag/argos-product-quality-for-the-age-of-ai-agents.md)
@@ -18078,7 +18075,6 @@ Resources organized by keyword tags.
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
-  - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](../ai/community/anthropic-ipo-valuation-hinges-on-190-200b-2028-re.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
@@ -18095,7 +18091,6 @@ Resources organized by keyword tags.
   - [Approximation and learning of anisotropic and mixed smooth functions by deep ReLU neural networks](../ai/research/arxiv-2605-31152.md)
   - [Approximation of Analytic Functions by ReLU Neural Networks with Adjustable Depth and Width](../ai/research/arxiv-2607-10589.md)
   - [AquaAugmentor: A Novel Feature Augmentation Algorithm for Water Potability Prediction](../ai/research/arxiv-2607-15775.md)
-  - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](../ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)
   - [Ari Juels](../ai/rag/ari-juels.md)
   - [Arnold: A multi-task, multi-embodiment muscle transformer policy](../ai/rag/arxiv-2508-18066.md)
   - [Ars Technica (@arstechnica@mastodon.social) - Mastodon](../ai/resources/ars-technica-arstechnica-mastodon-social-mastodon.md)
@@ -19821,6 +19816,7 @@ Resources organized by keyword tags.
   - [Reconstructing Item Characteristic Curves using Fine-Tuned Large Language Models](../ai/rag/arxiv-2601-02580.md)
   - [Reconstructing Template-Memorized Images from Natural Prompts](../ai/rag/arxiv-2507-07947.md)
   - [Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops](../ai/agents/arxiv-2607-07663.md)
+  - [Red queen hypothesis – a new way forward for self-improving AI](../ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)
   - [Redirecting to Unicode Resources page](../ai/resources/redirecting-to-unicode-resources-page.md)
   - [Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices](../ai/research/arxiv-2606-12742.md)
   - [Refactoring](../ai/resources/refactoring.md)
@@ -19855,7 +19851,6 @@ Resources organized by keyword tags.
   - [Research on Cross-media Science and Technology Information Data Retrieval](../ai/research/arxiv-2204-04887.md)
   - [Research on Domain Information Mining and Theme Evolution of Scientific Papers](../ai/research/arxiv-2204-08476.md)
   - [Research on Intellectual Property Resource Profile and Evolution Law](../ai/research/arxiv-2204-06221.md)
-  - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
   - [Research | Cornell University](../ai/rag/research-cornell-university.md)
   - [Research | OpenAI](../ai/rag/research-openai.md)
   - [Researching with GitHub Copilot CLI - GitHub Docs](../ai/agents/researching-with-github-copilot-cli-github-docs.md)
@@ -19885,6 +19880,7 @@ Resources organized by keyword tags.
   - [Reward-Driven LLM Agent Workflows: Synthesizing POMDP Routing and Self-Correction for Autonomous Decision-Making](../ai/agents/arxiv-2607-17038.md)
   - [Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation](../ai/research/arxiv-2606-28998.md)
   - [RhinoVLA Technical Report](../ai/research/arxiv-2606-07383.md)
+  - [Rhombus 1.1 is now available](../ai/community/rhombus-1-1-is-now-available.md)
   - [Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations](../ai/research/arxiv-2607-24773.md)
   - [Risk-Aware General-Utility Markov Decision Processes](../ai/agents/arxiv-2607-09298.md)
   - [Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs](../ai/rag/arxiv-2607-04281.md)
@@ -20207,7 +20203,6 @@ Resources organized by keyword tags.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era](../ai/agents/arxiv-2607-17940.md)
   - [The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion](../ai/rag/arxiv-2607-18162.md)
-  - [The Case Against Formal Verification, 50 Years Later](../ai/community/the-case-against-formal-verification-50-years-late.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing](../ai/rag/arxiv-2606-25108.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
@@ -20260,7 +20255,6 @@ Resources organized by keyword tags.
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
-  - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](../ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
@@ -20636,6 +20630,7 @@ Resources organized by keyword tags.
   - [disintegration/imaging](../ai/rag/disintegration-imaging.md)
   - [djot](../ai/resources/djot.md)
   - [docker image build | Docker Docs](../ai/resources/docker-image-build-docker-docs.md)
+  - [docker/compose-for-agents](../ai/agents/docker-compose-for-agents.md)
   - [docs/content/index.md at main · github/docs · GitHub](../ai/agents/github-docs-2.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
   - [electron/forge](../ai/rag/electron-forge.md)
@@ -28687,7 +28682,6 @@ Resources organized by keyword tags.
   - [Research Policy Handbook | DoResearch](../ai/agents/research-policy-handbook-doresearch.md)
   - [Research on Domain Information Mining and Theme Evolution of Scientific Papers](../ai/research/arxiv-2204-08476.md)
   - [Research on Intellectual Property Resource Profile and Evolution Law](../ai/research/arxiv-2204-06221.md)
-  - [Research papers using "kidney disappointment" instead of "kidney failure"](../ai/community/research-papers-using-kidney-disappointment-instea.md)
   - [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](../ai/rag/arxiv-2606-07591.md)
   - [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](../ai/research/arxiv-2607-04439.md)
   - [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](../ai/agents/arxiv-2607-04438.md)
@@ -29090,7 +29084,6 @@ Resources organized by keyword tags.
   - [The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities](../ai/agents/arxiv-2607-05743.md)
   - [The Bayesian Reflex: A Predictive Coding Engine for Artificial Intelligence](../ai/research/arxiv-2608-00492.md)
   - [The C-index illusion: discrimination without calibration in published survival models](../ai/research/arxiv-2607-19526.md)
-  - [The Case Against Formal Verification, 50 Years Later](../ai/community/the-case-against-formal-verification-50-years-late.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Checking Problem: What must be true before AI ships in a regulated firm](../ai/research/arxiv-2607-28666.md)
   - [The Cognitive Kardashev Scale: Quantifying the Material Envelope of Civilisational Computation](../ai/research/arxiv-2605-22840.md)
@@ -45727,4 +45720,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-17T03:24:46.653179+05:30*
+*Index generated on 2026-08-17T07:46:07.342061+05:30*

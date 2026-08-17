@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://vectoral.com/blog/who-are-the-token-brokers
 hn_url: https://news.ycombinator.com/item?id=49320611
-score: 191
+score: 227
 author: mlenhard
-comments_count: 70
+comments_count: 89
 published_at: '2026-08-16T20:14:55+05:30'
-collected_at: '2026-08-17T03:08:28.293179+05:30'
+collected_at: '2026-08-17T07:29:56.897315+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:the-ai-credit-resale-economy
 first_seen: '2026-08-16T21:09:15.512144+05:30'
-last_seen: '2026-08-17T03:08:28.293179+05:30'
-last_checked: '2026-08-17T03:08:28.293179+05:30'
+last_seen: '2026-08-17T07:29:56.897315+05:30'
+last_checked: '2026-08-17T07:29:56.897315+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by mlenhard. Score: 191, Comments: 70.
+Hacker News story by mlenhard. Score: 227, Comments: 89.
 Original Link: https://vectoral.com/blog/who-are-the-token-brokers
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: mlenhard
-- Score: 191 Upvotes
-- Comments: 70 Discussions
+- Score: 227 Upvotes
+- Comments: 89 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49320611
 - Original Article: https://vectoral.com/blog/who-are-the-token-brokers
 

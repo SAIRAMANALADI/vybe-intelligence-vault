@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - paper
-status: active
+status: inactive
 resource_id: hackernews:the-case-against-formal-verification-50-years-late
 first_seen: '2026-08-17T03:08:27.413345+05:30'
 last_seen: '2026-08-17T03:08:27.413345+05:30'
 last_checked: '2026-08-17T03:08:27.413345+05:30'
 health_score: 100
 ---
+
 
 # The Case Against Formal Verification, 50 Years Later
 

@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/docker/compose-for-agents
-collected_at: '2026-08-16T12:34:47.779714+05:30'
+collected_at: '2026-08-17T07:33:04.424815+05:30'
 published_at: '2026-08-15T14:30:57Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - meta-ai
 - models
 - openai
@@ -23,9 +24,9 @@ archived: false
 created_at: '2025-05-09T09:20:04Z'
 pushed_at: '2026-06-04T18:15:29Z'
 resource_id: github:docker/compose-for-agents
-first_seen: '2026-08-16T12:34:47.779714+05:30'
-last_seen: '2026-08-16T12:34:47.779714+05:30'
-last_checked: '2026-08-16T12:34:47.779714+05:30'
+first_seen: '2026-08-17T07:33:04.424815+05:30'
+last_seen: '2026-08-17T07:33:04.424815+05:30'
+last_checked: '2026-08-17T07:33:04.424815+05:30'
 health_score: 100
 ---
 
@@ -33,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-*   Orchestrates AI agents, open-source LLMs (e.g., Llama.cpp), and tools using Docker Compose for containerized deployment.
-*   Provides ready-to-use Docker Compose configurations for building and running self-hosted agentic workflows.
-*   Supports development of LLM-powered agents within containerized environments, including examples for agent runtimes and tool integration.
+*   Provides Docker Compose configurations for orchestrating AI agents, integrating open-source LLMs, tools, and agent runtimes.
+*   Offers ready-to-use examples for deploying complex agentic workflows in self-hosted environments.
+*   Supports specific technologies like `llama-cpp` for local LLM inference and `openai-gym` for agent environment interaction.
 
 ## Why It Matters
 
