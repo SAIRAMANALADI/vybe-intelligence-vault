@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 143,666 files</p>
-        <p><b>Last Update:</b> 2026-08-17 13:32 IST</p>
+        <p><b>Last Update:</b> 2026-08-17 14:20 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,11 +210,11 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)** • <kbd>+47 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Rhombus 1.1 is now available](ai/community/rhombus-1-1-is-now-available.md)** • <kbd>+32 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[The AI Credit Resale Economy](ai/community/the-ai-credit-resale-economy.md)** • <kbd>+25 pts</kbd>
-- 🔼 **[Red queen hypothesis – A new way forward for self-improving AI](ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)** • <kbd>+23 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[The-Swarm-Corporation/Multi-Agent-RAG-Template](ai/rag/the-swarm-corporation-multi-agent-rag-template.md)** • Rank: <kbd>+2833</kbd>
+- 🔼 **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
@@ -224,9 +224,7 @@ score_threshold: 0.65
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)**
-- 💤 **[St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)**
-- 💤 **[Gmail might partially be to blame for receiving emails from other Sean Conners](ai/community/gmail-might-partially-be-to-blame-for-receiving-em.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
