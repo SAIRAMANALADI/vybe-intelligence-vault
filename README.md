@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-219%2C027-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-143%2C309-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--17-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **219,027 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **143,309 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,577</p>
-        <p><b>Active:</b> 19,946 | <b>Inactive:</b> 631</p>
+        <p><b>Resources tracked:</b> 19,599</p>
+        <p><b>Active:</b> 18,968 | <b>Inactive:</b> 631</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 77,029</p>
+        <p><b>Archive Files:</b> 2,267</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 219,027 files</p>
-        <p><b>Last Update:</b> 2026-08-17 07:48 IST</p>
+        <p><b>Total Vault Size:</b> 143,309 files</p>
+        <p><b>Last Update:</b> 2026-08-17 08:37 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](ai/community/stripe-clinches-over-7b-deal-to-buy-ai-firm-openro.md)** • <kbd>+164 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](ai/community/nvidia-dramatically-reduces-amount-of-openai-infra.md)** • <kbd>+97 pts</kbd> • Rank: <kbd>+5</kbd>
-- 🔼 **[The AI Credit Resale Economy](ai/community/the-ai-credit-resale-economy.md)** • <kbd>+36 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](web-development/community/st-lucie-nuclear-reactor-unit-1-manually-shutdown.md)** • <kbd>+31 pts</kbd>
-- 🔼 **[docker/compose-for-agents](ai/agents/docker-compose-for-agents.md)** • Rank: <kbd>+996</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[alexfazio/crewAI-quickstart](ai/agents/alexfazio-crewai-quickstart.md)** • Rank: <kbd>+978</kbd>
+- 🔼 **[adongwanai/AgentGuide](ai/rag/adongwanai-agentguide.md)** • Rank: <kbd>+978</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Rhombus 1.1 is now available](ai/community/rhombus-1-1-is-now-available.md)** • Score: `14`
-- 🆕 **[Red queen hypothesis – a new way forward for self-improving AI](ai/community/red-queen-hypothesis-a-new-way-forward-for-self-im.md)** • Score: `11`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Research papers using "kidney disappointment" instead of "kidney failure"](ai/community/research-papers-using-kidney-disappointment-instea.md)**
-- 💤 **[The Case Against Formal Verification, 50 Years Later](ai/community/the-case-against-formal-verification-50-years-late.md)**
-- 💤 **[Archie G. Norcross' Maine Forest Fire Maps (1918–22)](ai/community/archie-g-norcross-maine-forest-fire-maps-1918-22.md)**
-- 💤 **[The deep history behind the Road to Nowhere inside the Great Smoky Mountains](ai/community/the-deep-history-behind-the-road-to-nowhere-inside.md)**
-- 💤 **[Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](ai/community/anthropic-ipo-valuation-hinges-on-190-200b-2028-re.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
