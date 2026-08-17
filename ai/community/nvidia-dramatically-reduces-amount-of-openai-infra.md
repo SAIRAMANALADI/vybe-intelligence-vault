@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14
 hn_url: https://news.ycombinator.com/item?id=49323686
-score: 102
+score: 146
 author: root-parent
-comments_count: 34
+comments_count: 57
 published_at: '2026-08-17T02:37:10+05:30'
-collected_at: '2026-08-17T07:29:57.970648+05:30'
+collected_at: '2026-08-17T09:36:12.138679+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:nvidia-dramatically-reduces-amount-of-openai-infra
 first_seen: '2026-08-17T03:08:31.145685+05:30'
-last_seen: '2026-08-17T07:29:57.970648+05:30'
-last_checked: '2026-08-17T07:29:57.970648+05:30'
+last_seen: '2026-08-17T09:36:12.138679+05:30'
+last_checked: '2026-08-17T09:36:12.138679+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by root-parent. Score: 102, Comments: 34.
+Hacker News story by root-parent. Score: 146, Comments: 57.
 Original Link: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: root-parent
-- Score: 102 Upvotes
-- Comments: 34 Discussions
+- Score: 146 Upvotes
+- Comments: 57 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49323686
 - Original Article: https://reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14
 
