@@ -25036,14 +25036,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.03742>
 
 * **[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by galnagli. Score: 375, Comments: 142. Original Link: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
+  * Summary: Hacker News story by galnagli. Score: 396, Comments: 149. Original Link: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
   * Tags: `agents`, `ai`, `hackernews`, `scripts`
   * Source URL: <https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug>
-
-* **[AI;DR (AI; Didn't Read)](ai/community/ai-dr-ai-didn-t-read.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mooreds. Score: 878, Comments: 538. Original Link: https://www.rickmanelius.com/p/aidr-ai-didnt-read
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://rickmanelius.com/p/aidr-ai-didnt-read>
 
 * **[AIPatient Arena: EHR-grounded evaluation of large language models in end-to-end clinical consultation workflows](ai/rag/arxiv-2606-17474.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17474v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly considered for use in clinical consultation tasks, yet most medical evaluations remain static, single-turn, or narrowly outcome-based, limiting their abil
@@ -25111,7 +25106,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.13380>
 
 * **[An update on leaving Gmail for Fastmail](ai/community/an-update-on-leaving-gmail-for-fastmail.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by neogodless. Score: 232, Comments: 142. Original Link: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/
+  * Summary: Hacker News story by neogodless. Score: 274, Comments: 174. Original Link: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail>
 
@@ -26256,7 +26251,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/facebook/docusaurus>
 
 * **[Fairphone 6 and PostmarketOS working main camera](ai/community/fairphone-6-and-postmarketos-working-main-camera.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pizzaiolo. Score: 195, Comments: 44. Original Link: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
+  * Summary: Hacker News story by pizzaiolo. Score: 246, Comments: 57. Original Link: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
   * Tags: `ai`, `hackernews`
   * Source URL: <https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera>
 
@@ -26695,6 +26690,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026>
 
+* **[Google buys crashed airline Spirit's data at auction, because AI](ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by pseudolus. Score: 222, Comments: 128. Original Link: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962>
+
 * **[Google Gen AI SDK documentation](ai/rag/google-gen-ai-sdk-documentation.md)** (`framework` | `useful` tier)
   * Summary: - **SDK Overview**: The Google Gen AI Python SDK interfaces with Google’s generative models via the `Gemini Developer API` and `Gemini Enterprise Agent Platform API`, supporting both sync/async clients with Pydantic/typed dictionaries for parameter v
   * Tags: `agents`, `benchmark`, `dataset`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -26731,7 +26731,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/google-gemini/gemini-cli>
 
 * **[GPT 5.6 Sol is the best "vision" model OpenAI ever released](ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by plurby. Score: 339, Comments: 162. Original Link: https://blog.roboflow.com/openai-gpt-5-6/
+  * Summary: Hacker News story by plurby. Score: 352, Comments: 164. Original Link: https://blog.roboflow.com/openai-gpt-5-6/
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://blog.roboflow.com/openai-gpt-5-6>
 
@@ -26900,11 +26900,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html>
 
-* **[How to disable or avoid intrusive AI](ai/community/how-to-disable-or-avoid-intrusive-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ColinWright. Score: 299, Comments: 178. Original Link: https://www.librarian.net/notoai/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://librarian.net/notoai>
-
 * **[How we optimized Dash's relevance judge with DSPy - Dropbox](ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)** (`framework` | `useful` tier)
   * Summary: - **DSPy Optimization Framework**: Dropbox used DSPy’s GEPA optimizer to systematically adapt a relevance judge from a high-cost proprietary model (OpenAI’s o3) to a lower-cost open-weight model (gpt-oss-120b), reducing NMSE by 45% (from 8.83 to 4.86
   * Tags: `benchmark`, `dataset`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -26941,7 +26936,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.23983>
 
 * **[IBM Simon (1994): the original smartphone, explained in its own ad [video]](ai/community/youtube-xotfywzppcc.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by kls0e. Score: 25, Comments: 1. Original Link: https://www.youtube.com/watch?v=xoTFywZpPcc
+  * Summary: Hacker News story by kls0e. Score: 53, Comments: 23. Original Link: https://www.youtube.com/watch?v=xoTFywZpPcc
   * Tags: `ai`, `hackernews`, `youtube`
   * Source URL: <https://youtube.com/watch?v=xoTFywZpPcc>
 
@@ -27101,7 +27096,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://ipython.readthedocs.io/en/stable>
 
 * **[Israel creates fake think tank in likely attempt to dupe AI chatbots](ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by DeepLogin. Score: 497, Comments: 319. Original Link: https://responsiblestatecraft.org/israel-influence-chatgpt/
+  * Summary: Hacker News story by DeepLogin. Score: 734, Comments: 425. Original Link: https://responsiblestatecraft.org/israel-influence-chatgpt/
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://responsiblestatecraft.org/israel-influence-chatgpt>
 
@@ -27279,11 +27274,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Inference speed optimization**: Latency is primarily driven by token processing rate (TPM/TPS), heavily influenced by model size—smaller models run faster. Techniques include using detailed prompts, few-shot examples, fine-tuning, or inference op
   * Tags: `hackernews`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
-
-* **[Launch HN: Speko (YC S26) – OpenRouter for Voice AI](ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by abdik. Score: 105, Comments: 58. Original Link: https://speko.ai/
-  * Tags: `ai`, `hackernews`, `producthunt`
-  * Source URL: <https://speko.ai>
 
 * **[Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](ai/rag/arxiv-2606-11686.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11686v1 Announce Type: cross Abstract: End-to-end task-success is the dominant way to evaluate LLM agents, but one aggregate number tells you that an agent regressed, not where. We present layer-isolated evaluation: a deployed ordering age
@@ -28336,7 +28326,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2505.17338>
 
 * **[Repair Cafe – Fix Your Broken Items](ai/community/repair-cafe-fix-your-broken-items.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rglover. Score: 108, Comments: 17. Original Link: https://www.repaircafe.org/
+  * Summary: Hacker News story by rglover. Score: 146, Comments: 30. Original Link: https://www.repaircafe.org/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://repaircafe.org>
 
@@ -29263,6 +29253,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **AI-Powered Content Enhancement**: Zendesk integrates OpenAI’s Enterprise GPT to provide generative AI features—**Expand**, **Simplify**, **Make more friendly**, and **Make more formal**—for refining help center content dynamically. - **Text Expan
   * Tags: `agents`, `hackernews`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://support.zendesk.com/hc/en-us/articles/6267360002714-Using-generative-AI-to-expand-and-enhance-help-center-content>
+
+* **[Using the railway network as a flatbed scanner](ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by otherayden. Score: 14, Comments: 1. Original Link: https://philo.gay/linecam/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://philo.gay/linecam>
 
 * **[Using Your Own Models — PeekingDuck developer documentation](ai/rag/using-your-own-models-peekingduck-developer-docume.md)** (`framework` | `useful` tier)
   * Summary: - **Custom Model Integration**: PeekingDuck supports integration of custom-trained models (e.g., CNN for defect classification) via custom `model` nodes, enabling inference within its pipeline framework. - **Training Workflow**: A TensorFlow-based CN
@@ -44236,7 +44231,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
 
 * **[amazon/chronos-2](ai/models/huggingface-amazon-chronos-2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 399, Downloads: 39015266)
+  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 400, Downloads: 39015266)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/amazon/chronos-2>
 
@@ -60460,7 +60455,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
 * **[google/electra-base-discriminator](ai/models/huggingface-google-electra-base-discriminator.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 153, Downloads: 56124815)
+  * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 154, Downloads: 56124815)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google/electra-base-discriminator>
 
@@ -79861,7 +79856,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5215, Downloads: 258193926)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5216, Downloads: 258193926)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -98373,8 +98368,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Provides a full-stack, practical guide for Retrieval Augmented Generation (RAG) application development. * Demonstrates integration of diverse RAG components, including LLM frameworks (LangChain, LlamaIndex), vector/graph databases (Milvus, Neo4j),
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`, `reddit`
+  * Summary: * Provides a full-stack, practical guide for RAG-based LLM application development, covering architectural patterns and implementation strategies. * Demonstrates integration of key frameworks (LangChain, LlamaIndex) with vector databases (Milvus) and
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -98383,7 +98378,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides practical tutorials for large language model (LLM) application development. * Emphasizes `langchain` for LLM orchestration and `RAG` (Retrieval-Augmented Generation) architectures. * Content is delivered via `Jupyter Notebook` format, faci
+  * Summary: * Offers foundational tutorials for Large Language Model (LLM) application development. * Focuses on practical implementation using `langchain` and Retrieval-Augmented Generation (RAG) architectures. * Content is delivered via `Jupyter Notebook` exam
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -108112,7 +108107,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary content language is HTML. * Repository shows moderate community engagement (30 stars, 60 forks) with a last update timestamp of 2026-07-08T15:07:53Z.
+  * Summary: * Jekyll-based GitHub Pages repository serving as the source for `raganwald.com
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -109872,7 +109867,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.00558>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1347, Downloads: 56248525)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1348, Downloads: 56248525)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 

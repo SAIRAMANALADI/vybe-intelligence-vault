@@ -17467,15 +17467,14 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
-  - [AI;DR (AI; Didn't Read)](../ai/community/ai-dr-ai-didn-t-read.md)
   - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
   - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
   - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
-  - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
+  - [Google buys crashed airline Spirit's data at auction, because AI](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
   - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
   - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
-  - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
   - [Repair Cafe – Fix Your Broken Items](../ai/community/repair-cafe-fix-your-broken-items.md)
+  - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -21286,4 +21285,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T15:42:12.545724+05:30*
+*Index generated on 2026-08-18T19:00:39.010799+05:30*

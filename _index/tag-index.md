@@ -4782,15 +4782,14 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
-  - [AI;DR (AI; Didn't Read)](../ai/community/ai-dr-ai-didn-t-read.md)
   - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
   - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
   - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
-  - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
+  - [Google buys crashed airline Spirit's data at auction, because AI](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
   - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
   - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
-  - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
   - [Repair Cafe – Fix Your Broken Items](../ai/community/repair-cafe-fix-your-broken-items.md)
+  - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
 
 ## animation
 
@@ -19172,7 +19171,6 @@ Resources organized by keyword tags.
   - [AI-interpreted Optical Scattering for Robust and Focal Depth-Aware Imaging](../ai/research/arxiv-2607-22867.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI.Gov | President Trump's AI Strategy and Action Plan](../ai/resources/ai-gov-president-trump-s-ai-strategy-and-action-pl.md)
-  - [AI;DR (AI; Didn't Read)](../ai/community/ai-dr-ai-didn-t-read.md)
   - [AIP-9: Glossary](../ai/resources/aip-9-glossary.md)
   - [AIR-BENCH Live: An Evolving Safety Benchmark for Foundation Models](../ai/rag/arxiv-2607-22671.md)
   - [ALAS: Additive Learnable Alpha-Stable Kernels for Flexible Bayesian Optimization](../ai/research/arxiv-2607-18282.md)
@@ -20178,6 +20176,7 @@ Resources organized by keyword tags.
   - [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md)
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
+  - [Google buys crashed airline Spirit's data at auction, because AI](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
@@ -20310,7 +20309,6 @@ Resources organized by keyword tags.
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
-  - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
@@ -20507,7 +20505,6 @@ Resources organized by keyword tags.
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
-  - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -21752,6 +21749,7 @@ Resources organized by keyword tags.
   - [Using Your Own Models — PeekingDuck developer documentation](../ai/rag/using-your-own-models-peekingduck-developer-docume.md)
   - [Using a knowledge graph to implement a RAG application](../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)
   - [Using generative AI to expand and enhance help center content – Zendesk help](../ai/rag/using-generative-ai-to-expand-and-enhance-help-cen.md)
+  - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
   - [Utility-Diversity Aware Online Batch Selection for LLM Supervised Fine-tuning](../ai/rag/arxiv-2510-16882.md)
   - [V-DAT Working Group | National Centers for Environmental Information (NCEI)](../ai/rag/v-dat-working-group-national-centers-for-environme.md)
   - [V8 JavaScript engine](../ai/resources/v8-javascript-engine.md)
@@ -21959,6 +21957,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -31714,7 +31713,6 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
-  - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -40284,7 +40282,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -48212,4 +48209,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T15:42:12.359837+05:30*
+*Index generated on 2026-08-18T19:00:38.831654+05:30*

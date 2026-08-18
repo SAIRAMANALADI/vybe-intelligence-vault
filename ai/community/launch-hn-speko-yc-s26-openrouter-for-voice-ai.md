@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-speko-yc-s26-openrouter-for-voice-ai
 first_seen: '2026-08-17T21:12:57.948165+05:30'
 last_seen: '2026-08-18T15:24:35.128293+05:30'
 last_checked: '2026-08-18T15:24:35.128293+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Speko (YC S26) – OpenRouter for Voice AI
 

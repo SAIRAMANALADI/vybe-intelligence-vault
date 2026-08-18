@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://responsiblestatecraft.org/israel-influence-chatgpt
 hn_url: https://news.ycombinator.com/item?id=49337392
-score: 497
+score: 734
 author: DeepLogin
-comments_count: 319
+comments_count: 425
 published_at: '2026-08-18T02:16:10+05:30'
-collected_at: '2026-08-18T15:24:33.416202+05:30'
+collected_at: '2026-08-18T18:43:54.410111+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:israel-creates-fake-think-tank-in-likely-attempt-t
 first_seen: '2026-08-18T07:25:59.479881+05:30'
-last_seen: '2026-08-18T15:24:33.416202+05:30'
-last_checked: '2026-08-18T15:24:33.416202+05:30'
+last_seen: '2026-08-18T18:43:54.410111+05:30'
+last_checked: '2026-08-18T18:43:54.410111+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by DeepLogin. Score: 497, Comments: 319.
+Hacker News story by DeepLogin. Score: 734, Comments: 425.
 Original Link: https://responsiblestatecraft.org/israel-influence-chatgpt/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: DeepLogin
-- Score: 497 Upvotes
-- Comments: 319 Discussions
+- Score: 734 Upvotes
+- Comments: 425 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49337392
 - Original Article: https://responsiblestatecraft.org/israel-influence-chatgpt
 
