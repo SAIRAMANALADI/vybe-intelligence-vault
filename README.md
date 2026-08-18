@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 149,621 files</p>
-        <p><b>Last Update:</b> 2026-08-18 19:24 IST</p>
+        <p><b>Last Update:</b> 2026-08-18 20:19 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,25 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Israel creates fake think tank in likely attempt to dupe AI chatbots](ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)** • <kbd>+237 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Fairphone 6 and PostmarketOS working main camera](ai/community/fairphone-6-and-postmarketos-working-main-camera.md)** • <kbd>+51 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[An update on leaving Gmail for Fastmail](ai/community/an-update-on-leaving-gmail-for-fastmail.md)** • <kbd>+42 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Repair Cafe – Fix Your Broken Items](ai/community/repair-cafe-fix-your-broken-items.md)** • <kbd>+38 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[IBM Simon (1994): the original smartphone, explained in its own ad [video]](ai/community/youtube-xotfywzppcc.md)** • <kbd>+28 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+980</kbd>
+- 🔼 **[tonykipkemboi/trip_planner_agent](ai/rag/tonykipkemboi-trip-planner-agent.md)** • Rank: <kbd>+980</kbd>
+- 🔼 **[adongwanai/AgentGuide](ai/rag/adongwanai-agentguide.md)** • Rank: <kbd>+980</kbd>
+- 🔼 **[scotthavird/crewai-template](ai/rag/scotthavird-crewai-template.md)** • Rank: <kbd>+980</kbd>
+- 🔼 **[strnad/CrewAI-Studio](ai/agents/strnad-crewai-studio.md)** • Rank: <kbd>+980</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Google buys crashed airline Spirit's data at auction, because AI](ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)** • Score: `222`
 - 🆕 **[Using the railway network as a flatbed scanner](ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)** • Score: `14`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[AI;DR (AI; Didn't Read)](ai/community/ai-dr-ai-didn-t-read.md)**
-- 💤 **[How to disable or avoid intrusive AI](ai/community/how-to-disable-or-avoid-intrusive-ai.md)**
-- 💤 **[Launch HN: Speko (YC S26) – OpenRouter for Voice AI](ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
