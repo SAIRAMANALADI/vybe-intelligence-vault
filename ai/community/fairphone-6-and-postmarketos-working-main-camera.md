@@ -13,13 +13,14 @@ collected_at: '2026-08-18T21:23:59.699827+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fairphone-6-and-postmarketos-working-main-camera
 first_seen: '2026-08-18T07:25:57.834145+05:30'
 last_seen: '2026-08-18T21:23:59.699827+05:30'
 last_checked: '2026-08-18T21:23:59.699827+05:30'
 health_score: 100
 ---
+
 
 # Fairphone 6 and PostmarketOS working main camera
 

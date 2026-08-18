@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:xoTFywZpPcc
 first_seen: '2026-08-18T15:24:32.825031+05:30'
 last_seen: '2026-08-18T21:23:59.817969+05:30'
 last_checked: '2026-08-18T21:23:59.817969+05:30'
 health_score: 100
 ---
+
 
 # IBM Simon (1994): the original smartphone, explained in its own ad [video]
 

@@ -17466,14 +17466,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Baking a Model: A Metaphor for LLM Training](../ai/community/baking-a-model-a-metaphor-for-llm-training.md)
-  - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
+  - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](../ai/community/data-centers-raise-nearby-temperatures-by-up-to-4.md)
   - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
-  - [Google buys crashed airline Spirit's data at auction](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
-  - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
-  - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
+  - [Google has acquired the data of failed US airline Spirit](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
+  - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](../ai/community/show-hn-pantheongpu-gpu-health-testing-and-ai-work.md)
+  - [Show HN: macOS data protection keychain for Electron apps](../ai/community/biw-keychain-store.md)
+  - [Universal health coverage could save $1T and 114k lives a year: study](../ai/community/universal-health-coverage-could-save-1t-and-114k-l.md)
   - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
-  - [What Happens If OpenAI Dies?](../ai/community/what-happens-if-openai-dies.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -17793,6 +17792,7 @@ Resources organized by publisher feed and query sources.
   - [How Hugging Face Accelerated Development of Witty Works Writing Assistant](../ai/models/huggingface-blog-classification-use-cases.md)
   - [How Hugging Face Scaled Secrets Management for AI Infrastructure](../ai/models/huggingface-blog-scaling-secrets-management.md)
   - [How Long Prompts Block Other Requests - Optimizing LLM Performance](../ai/models/huggingface-blog-tngtech-llm-performance-blocked-by-long-prompts.md)
+  - [How Much Memory Does Your Agent Actually Need?](../ai/agents/huggingface-blog-ibm-research-altk-evolve-hmm.md)
   - [How NuminaMath Won the 1st AIMO Progress Prize](../ai/models/huggingface-blog-winning-aimo-progress-prize.md)
   - [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](../ai/rag/huggingface-blog-sempre-health-eap-case-study.md)
   - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](../ai/agents/huggingface-blog-mishig-spaces-agents-md.md)
@@ -18198,7 +18198,6 @@ Resources organized by publisher feed and query sources.
   - [The State of Computer Vision at Hugging Face 🤗](../ai/models/huggingface-blog-cv-state.md)
   - [The Technology Behind BLOOM Training](../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
   - [The Transformers Library: standardizing model definitions](../ai/models/huggingface-blog-transformers-model-definition.md)
-  - [Thinking of ACE? We Can Do It with Fewer Tokens](../ai/models/huggingface-blog-ibm-research-altk-evolve-sldd.md)
   - [Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](../ai/models/huggingface-blog-infrastructure-alerting.md)
   - [TimeScope: How Long Can Your Video Large Multimodal Model Go?](../ai/models/huggingface-blog-timescope-video-lmm-benchmark.md)
   - [Timm ❤️ Transformers: Use any timm model with transformers](../ai/models/huggingface-blog-timm-transformers.md)
@@ -18426,6 +18425,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: rss)
 
   - [Building APIs with Next.js](../web-development/nextjs/building-apis-with-next-js.md)
+  - [Building App-like Experiences with Next.js 16.3](../web-development/nextjs/building-app-like-experiences-with-next-js-16-3.md)
   - [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md)
   - [Composable Caching with Next.js](../web-development/nextjs/composable-caching-with-next-js.md)
   - [Critical Security Vulnerability in React Server Components](../web-development/critical-security-vulnerability-in-react-server-co.md)
@@ -21285,4 +21285,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T21:40:18.305989+05:30*
+*Index generated on 2026-08-19T00:51:03.301679+05:30*

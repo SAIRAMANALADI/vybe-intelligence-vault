@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:what-happens-if-openai-dies
 first_seen: '2026-08-18T21:23:58.065283+05:30'
 last_seen: '2026-08-18T21:23:58.065283+05:30'
 last_checked: '2026-08-18T21:23:58.065283+05:30'
 health_score: 100
 ---
+
 
 # What Happens If OpenAI Dies?
 

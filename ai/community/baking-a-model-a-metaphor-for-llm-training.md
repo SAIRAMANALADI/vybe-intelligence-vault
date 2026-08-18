@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:baking-a-model-a-metaphor-for-llm-training
 first_seen: '2026-08-18T21:23:58.408021+05:30'
 last_seen: '2026-08-18T21:23:58.408021+05:30'
 last_checked: '2026-08-18T21:23:58.408021+05:30'
 health_score: 100
 ---
+
 
 # Baking a Model: A Metaphor for LLM Training
 

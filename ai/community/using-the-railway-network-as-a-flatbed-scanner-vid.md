@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://philo.gay/linecam
 hn_url: https://news.ycombinator.com/item?id=49344825
-score: 194
+score: 304
 author: otherayden
-comments_count: 37
+comments_count: 52
 published_at: '2026-08-18T18:13:54+05:30'
-collected_at: '2026-08-18T21:23:55.763005+05:30'
+collected_at: '2026-08-19T00:34:38.061212+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:using-the-railway-network-as-a-flatbed-scanner
 first_seen: '2026-08-01T01:22:50.183299+05:30'
-last_seen: '2026-08-18T21:23:55.763005+05:30'
-last_checked: '2026-08-18T21:23:55.763005+05:30'
+last_seen: '2026-08-19T00:34:38.061212+05:30'
+last_checked: '2026-08-19T00:34:38.061212+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by otherayden. Score: 194, Comments: 37.
+Hacker News story by otherayden. Score: 304, Comments: 52.
 Original Link: https://philo.gay/linecam/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: otherayden
-- Score: 194 Upvotes
-- Comments: 37 Discussions
+- Score: 304 Upvotes
+- Comments: 52 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49344825
 - Original Article: https://philo.gay/linecam
 

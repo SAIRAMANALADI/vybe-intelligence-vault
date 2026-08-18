@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-149%2C625-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-230%2C680-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--19-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **149,625 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **230,680 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,911</p>
-        <p><b>Active:</b> 20,259 | <b>Inactive:</b> 652</p>
+        <p><b>Resources tracked:</b> 21,897</p>
+        <p><b>Active:</b> 21,240 | <b>Inactive:</b> 657</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,270</p>
+        <p><b>Archive Files:</b> 82,360</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 149,625 files</p>
-        <p><b>Last Update:</b> 2026-08-19 00:20 IST</p>
+        <p><b>Total Vault Size:</b> 230,680 files</p>
+        <p><b>Last Update:</b> 2026-08-19 00:53 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[tonykipkemboi/trip_planner_agent](ai/rag/tonykipkemboi-trip-planner-agent.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[adongwanai/AgentGuide](ai/rag/adongwanai-agentguide.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[scotthavird/crewai-template](ai/rag/scotthavird-crewai-template.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[strnad/CrewAI-Studio](ai/agents/strnad-crewai-studio.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[Fairphone is now officially available in the United States](ai/community/fairphone-is-now-officially-available-in-the-unite.md)** • <kbd>+111 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Using the railway network as a flatbed scanner](ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)** • <kbd>+110 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Search & information retrieval](ai/companies/search-information-retrieval.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Human language technologies](ai/companies/human-language-technologies.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Google has acquired the data of failed US airline Spirit](ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)** • Score: `511`
+- 🆕 **[Universal health coverage could save $1T and 114k lives a year: study](ai/community/universal-health-coverage-could-save-1t-and-114k-l.md)** • Score: `510`
+- 🆕 **[Data centers raise nearby temperatures by up to 4 degrees in Phoenix](ai/community/data-centers-raise-nearby-temperatures-by-up-to-4.md)** • Score: `146`
+- 🆕 **[Show HN: macOS data protection keychain for Electron apps](ai/community/biw-keychain-store.md)** • Score: `10`
+- 🆕 **[Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](ai/community/show-hn-pantheongpu-gpu-health-testing-and-ai-work.md)** • Score: `4`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Israel creates fake think tank in likely attempt to dupe AI chatbots](ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)**
+- 💤 **[Fairphone 6 and PostmarketOS working main camera](ai/community/fairphone-6-and-postmarketos-working-main-camera.md)**
+- 💤 **[IBM Simon (1994): the original smartphone, explained in its own ad [video]](ai/community/youtube-xotfywzppcc.md)**
+- 💤 **[Baking a Model: A Metaphor for LLM Training](ai/community/baking-a-model-a-metaphor-for-llm-training.md)**
+- 💤 **[What Happens If OpenAI Dies?](ai/community/what-happens-if-openai-dies.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

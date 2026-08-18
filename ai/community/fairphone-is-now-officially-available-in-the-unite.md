@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more
 hn_url: https://news.ycombinator.com/item?id=49344811
-score: 180
+score: 291
 author: Vinnl
-comments_count: 86
+comments_count: 145
 published_at: '2026-08-18T18:12:53+05:30'
-collected_at: '2026-08-18T21:23:57.101808+05:30'
+collected_at: '2026-08-19T00:34:40.734607+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:fairphone-is-now-officially-available-in-the-unite
 first_seen: '2026-08-18T21:23:57.101808+05:30'
-last_seen: '2026-08-18T21:23:57.101808+05:30'
-last_checked: '2026-08-18T21:23:57.101808+05:30'
+last_seen: '2026-08-19T00:34:40.734607+05:30'
+last_checked: '2026-08-19T00:34:40.734607+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Vinnl. Score: 180, Comments: 86.
+Hacker News story by Vinnl. Score: 291, Comments: 145.
 Original Link: https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Vinnl
-- Score: 180 Upvotes
-- Comments: 86 Discussions
+- Score: 291 Upvotes
+- Comments: 145 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49344811
 - Original Article: https://fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more
 

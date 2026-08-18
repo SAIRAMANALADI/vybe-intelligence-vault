@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:israel-creates-fake-think-tank-in-likely-attempt-t
 first_seen: '2026-08-18T07:25:59.479881+05:30'
 last_seen: '2026-08-18T21:23:58.760367+05:30'
 last_checked: '2026-08-18T21:23:58.760367+05:30'
 health_score: 100
 ---
+
 
 # Israel creates fake think tank in likely attempt to dupe AI chatbots
 

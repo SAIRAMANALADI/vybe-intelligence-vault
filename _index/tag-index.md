@@ -1988,6 +1988,7 @@ Resources organized by keyword tags.
   - [How Klarna's AI assistant redefined customer support at scale for 85 million active users](../ai/rag/how-klarna-s-ai-assistant-redefined-customer-suppo.md)
   - [How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation](../ai/rag/arxiv-2605-06605.md)
   - [How Much Does Correctness Cost? Budgeted Placement of Strong Correctors in a Weak Multi-Agent Swarm](../ai/agents/arxiv-2607-09765.md)
+  - [How Much Memory Does Your Agent Actually Need?](../ai/agents/huggingface-blog-ibm-research-altk-evolve-hmm.md)
   - [How Much, Then Where: Credit-Conserving Action-to-Token Allocation for Multi-Turn Agent Reinforcement Learning](../ai/rag/arxiv-2608-07118.md)
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
   - [How ServiceNow uses LangSmith to get visibility into its customer success agents](../ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md)
@@ -4780,14 +4781,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Baking a Model: A Metaphor for LLM Training](../ai/community/baking-a-model-a-metaphor-for-llm-training.md)
-  - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
+  - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](../ai/community/data-centers-raise-nearby-temperatures-by-up-to-4.md)
   - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
-  - [Google buys crashed airline Spirit's data at auction](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
-  - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
-  - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
+  - [Google has acquired the data of failed US airline Spirit](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
+  - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](../ai/community/show-hn-pantheongpu-gpu-health-testing-and-ai-work.md)
+  - [Show HN: macOS data protection keychain for Electron apps](../ai/community/biw-keychain-store.md)
   - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
-  - [What Happens If OpenAI Dies?](../ai/community/what-happens-if-openai-dies.md)
 
 ## animation
 
@@ -11407,6 +11406,7 @@ Resources organized by keyword tags.
   - [Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning](../ai/research/arxiv-2607-09336.md)
   - [Shorter Reasoning, Earlier Answers? An Evaluation of Reasoning Interfaces](../ai/research/arxiv-2608-03401.md)
   - [Shot-based quantum encoding: a data-loading paradigm for quantum neural networks](../ai/research/arxiv-2604-06135.md)
+  - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](../ai/community/show-hn-pantheongpu-gpu-health-testing-and-ai-work.md)
   - [Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models](../ai/rag/arxiv-2512-18021.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
   - [Side-Channel Attacks Survive Noise Cancellation in 3D Printers](../ai/research/arxiv-2606-13952.md)
@@ -17560,6 +17560,7 @@ Resources organized by keyword tags.
   - [Build a User Management App with Next.js | Supabase Docs](../ai/rag/build-a-user-management-app-with-next-js-supabase.md)
   - [Build with AI | Firecrawl](../ai/rag/build-with-ai-firecrawl.md)
   - [Building APIs with Next.js](../web-development/nextjs/building-apis-with-next-js.md)
+  - [Building App-like Experiences with Next.js 16.3](../web-development/nextjs/building-app-like-experiences-with-next-js-16-3.md)
   - [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md)
   - [Buy the Rumor, Sell the News: When Is News Priced In?](../ai/rag/arxiv-2608-14014.md)
   - [C/C++ - Visual Studio Marketplace](../ai/resources/c-c-visual-studio-marketplace.md)
@@ -19368,7 +19369,6 @@ Resources organized by keyword tags.
   - [BYTE.com](../ai/rag/byte-com.md)
   - [BackgroundMellow: A Multi-Modal Cohesive Framework for Narrative-Driven Rich Cinematic Soundscape Generation](../ai/rag/arxiv-2607-11364.md)
   - [Badging at SLAC | Environment Safety & Health](../ai/resources/badging-at-slac-environment-safety-health.md)
-  - [Baking a Model: A Metaphor for LLM Training](../ai/community/baking-a-model-a-metaphor-for-llm-training.md)
   - [Balancing multiscale similarity and cartographic constraints: A similarity-driven optimization framework for line generalization](../ai/research/arxiv-2607-25474.md)
   - [Barchart | All Markets](../ai/rag/barchart-all-markets.md)
   - [Base barrier cells provide compartmentalization of choroid plexus, brain and CSF | Nature Neuroscience](../ai/rag/base-barrier-cells-provide-compartmentalization-of.md)
@@ -19705,6 +19705,7 @@ Resources organized by keyword tags.
   - [Data Center Company & Enterprise Network Technologies | Equinix](../ai/resources/data-center-company-enterprise-network-technologie.md)
   - [Data Intelligence Lab@HKU](../ai/rag/data-intelligence-lab-hku.md)
   - [Data Structures and Algorithms (DSA) Course + Certificate | W3Schools — W3Schools.com](../web-development/data-structures-and-algorithms-dsa-course-certific.md)
+  - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](../ai/community/data-centers-raise-nearby-temperatures-by-up-to-4.md)
   - [Data protection adequacy for non-EU countries](../ai/rag/data-protection-adequacy-for-non-eu-countries.md)
   - [Data tools | resources.data.gov](../ai/agents/data-tools-resources-data-gov.md)
   - [Data-Aware and Scalable Sensitivity Analysis for Decision Tree Ensembles](../ai/research/arxiv-2602-07453.md)
@@ -19960,7 +19961,6 @@ Resources organized by keyword tags.
   - [Fail-Aware and Explainable Test Oracle Prediction](../ai/research/arxiv-2607-11342.md)
   - [FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation](../ai/research/arxiv-2607-28934.md)
   - [Fairness in Augmented Graph Learning: A Survey](../ai/research/arxiv-2504-21296.md)
-  - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
   - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
   - [Faithful Autoformalization of Natural Language Assertions](../ai/rag/arxiv-2607-13303.md)
   - [FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking](../ai/rag/arxiv-2607-26641.md)
@@ -20173,8 +20173,8 @@ Resources organized by keyword tags.
   - [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md)
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
-  - [Google buys crashed airline Spirit's data at auction](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
+  - [Google has acquired the data of failed US airline Spirit](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
   - [Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority](../ai/agents/arxiv-2607-04613.md)
@@ -20327,7 +20327,6 @@ Resources organized by keyword tags.
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
-  - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
   - [IC3 – The Initiative for Cryptocurrencies and Contracts – Advancing the science and applications of blockchains](../ai/resources/ic3-the-initiative-for-cryptocurrencies-and-contra.md)
   - [ICO website user survey 2026 | ICO](../ai/resources/ico-website-user-survey-2026-ico.md)
   - [IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet](../ai/resources/ignet-council-of-the-inspectors-general-on-integri.md)
@@ -20415,7 +20414,6 @@ Resources organized by keyword tags.
   - [Is My Vision-Language Data in Your AI? Membership Inference Test (MINT) Demo 2](../ai/research/arxiv-2606-14748.md)
   - [Iso-Riemannian Optimization on Learned Data Manifolds](../ai/research/arxiv-2510-21033.md)
   - [Isotonic Bradley-Terry Model for Paired Comparison Data](../ai/research/arxiv-2608-02081.md)
-  - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
   - [Iterative Refinement Diffusion for Super-Resolved Data Assimilation of Multiscale Physical Systems](../ai/research/arxiv-2608-14744.md)
   - [JAMS: Mediation, Arbitration and ADR Services](../ai/resources/jams-mediation-arbitration-and-adr-services.md)
   - [JDK Release Notes](../ai/resources/jdk-release-notes.md)
@@ -21307,6 +21305,8 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](../ai/community/show-hn-pantheongpu-gpu-health-testing-and-ai-work.md)
+  - [Show HN: macOS data protection keychain for Electron apps](../ai/community/biw-keychain-store.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -21721,6 +21721,7 @@ Resources organized by keyword tags.
   - [Unity Documentation](../ai/resources/unity-documentation.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere” | MIT News | Massachuse](../ai/rag/universal-ai-is-a-pathway-to-ai-fluency-thats-acce.md)
+  - [Universal health coverage could save $1T and 114k lives a year: study](../ai/community/universal-health-coverage-could-save-1t-and-114k-l.md)
   - [University of California | Office of The President](../ai/resources/university-of-california-office-of-the-president.md)
   - [Unknown Unknowns: Model Misspecification in Machine Learning for Physics](../ai/research/arxiv-2608-13633.md)
   - [Unleashing the Potential of Large Language Models: A Blueprint for Real-Time, Enterprise-Ready Deployments](../ai/rag/arxiv-2608-00419.md)
@@ -21815,7 +21816,6 @@ Resources organized by keyword tags.
   - [What Do AI Agents Actually Change? An Empirical Taxonomy of Mutation Patterns in Performance-Improving Pull Requests](../ai/agents/arxiv-2607-05666.md)
   - [What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning](../ai/agents/arxiv-2607-16938.md)
   - [What Does It Mean to Break a Distillation Defense?](../ai/research/arxiv-2606-25059.md)
-  - [What Happens If OpenAI Dies?](../ai/community/what-happens-if-openai-dies.md)
   - [What Is Retrieval Augmented Generation? | deepset Blog](../ai/rag/what-is-retrieval-augmented-generation-deepset-blo.md)
   - [What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](../ai/rag/arxiv-2607-27966.md)
   - [What We Know about Responsible AI Practices in Industry: A Half Decade of Empirical Research](../ai/research/arxiv-2608-10431.md)
@@ -22646,10 +22646,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Baking a Model: A Metaphor for LLM Training](../ai/community/baking-a-model-a-metaphor-for-llm-training.md)
 
 ## mdx
 
@@ -27644,7 +27640,6 @@ Resources organized by keyword tags.
   - [Introduction - Chroma Docs](../ai/rag/introduction-chroma-docs.md)
   - [Introduction to Haystack | Haystack Documentation](../ai/rag/introduction-to-haystack-haystack-documentation.md)
   - [Is Your Agent Playing Dead? Deployed LLM Agents Exhibit Constraint-Evasive Fabrication and Thanatosis](../ai/agents/arxiv-2606-14831.md)
-  - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
   - [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../ai/rag/arxiv-2602-24009.md)
   - [JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](../ai/research/arxiv-2607-02825.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
@@ -27895,7 +27890,6 @@ Resources organized by keyword tags.
   - [Welcome to PyTorch Tutorials — PyTorch Tutorials 2.13.0+cu130 documentation](../ai/rag/welcome-to-pytorch-tutorials-pytorch-tutorials-2-1.md)
   - [Welcome to Unstructured! - Unstructured](../ai/agents/welcome-to-unstructured-unstructured.md)
   - [What Drives LLM Self-Reflection? A Controlled Ablation of Uncertainty Routing in Armed Conflict Forecasting](../ai/agents/arxiv-2608-12322.md)
-  - [What Happens If OpenAI Dies?](../ai/community/what-happens-if-openai-dies.md)
   - [What Is Retrieval Augmented Generation? | deepset Blog](../ai/rag/what-is-retrieval-augmented-generation-deepset-blo.md)
   - [What Predicts Correctness in Text-to-SQL? A Selective-Prediction Study](../ai/research/arxiv-2607-06799.md)
   - [What are Diffusion Models? | IBM](../ai/rag/what-are-diffusion-models-ibm.md)
@@ -38081,6 +38075,7 @@ Resources organized by keyword tags.
   - [Universal Algorithm-Implicit Learning](../ai/rag/arxiv-2602-14761.md)
   - [Universal BCI Personalization: One API for Frozen EEG Trunks and Foundation Models](../ai/rag/arxiv-2607-22397.md)
   - [Universal Thermodynamic Interatomic Potentials for Crystalline Materials](../ai/rag/arxiv-2608-14502.md)
+  - [Universal health coverage could save $1T and 114k lives a year: study](../ai/community/universal-health-coverage-could-save-1t-and-114k-l.md)
   - [Unlearning at Scale: State-Exact Trace-Preserving Deletion in Billion-Parameter Language Models](../ai/rag/arxiv-2508-12220.md)
   - [Unleashing the Potential of Large Language Models: A Blueprint for Real-Time, Enterprise-Ready Deployments](../ai/rag/arxiv-2608-00419.md)
   - [Unlimited, Flexible & Group Phone Plans & Rates - Google Fi Wireless](../ai/rag/unlimited-flexible-group-phone-plans-rates-google.md)
@@ -40088,6 +40083,7 @@ Resources organized by keyword tags.
   - [Unity Documentation](../ai/resources/unity-documentation.md)
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere” | MIT News | Massachuse](../ai/rag/universal-ai-is-a-pathway-to-ai-fluency-thats-acce.md)
+  - [Universal health coverage could save $1T and 114k lives a year: study](../ai/community/universal-health-coverage-could-save-1t-and-114k-l.md)
   - [University Audit Office](../ai/resources/university-audit-office.md)
   - [University of California | Office of The President](../ai/resources/university-of-california-office-of-the-president.md)
   - [Unlimited, Flexible & Group Phone Plans & Rates - Google Fi Wireless](../ai/rag/unlimited-flexible-group-phone-plans-rates-google.md)
@@ -40283,6 +40279,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -46946,7 +46943,6 @@ Resources organized by keyword tags.
   - [HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion](../ai/rag/arxiv-2607-03012.md)
   - [I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning](../ai/rag/arxiv-2608-07417.md)
   - [I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models](../ai/research/arxiv-2607-25522.md)
-  - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
   - [IC3 – The Initiative for Cryptocurrencies and Contracts – Advancing the science and applications of blockchains](../ai/resources/ic3-the-initiative-for-cryptocurrencies-and-contra.md)
   - [IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet](../ai/resources/ignet-council-of-the-inspectors-general-on-integri.md)
   - [IPython Documentation — IPython 9.14.1 documentation](../ai/resources/ipython-documentation-ipython-9-14-1-documentation.md)
@@ -48209,4 +48205,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T21:40:18.090602+05:30*
+*Index generated on 2026-08-19T00:51:03.069516+05:30*
