@@ -43,8 +43,8 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Dimension-Calibrated Unexplained Mass: An Interpretable Drift Statistic for Contamination Monitoring in Data Streams](https://arxiv.org/abs/2607.16811) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2607-16811.md))
 - [Efficient reduction of stellar contamination and noise in planetary transmission spectra using neural networks](https://arxiv.org/abs/2602.10330) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2602-10330.md))
 - [MacrOData: New Benchmarks of Thousands of Datasets for Tabular Outlier Detection](https://arxiv.org/abs/2602.09329) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2602-09329.md))
+- [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2603-24575.md))
 - [Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11930.md))
-- [CTC: The Composite Task Challenge for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.00345) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2502-00345.md))
 
 ## FRAMEWORK
 
@@ -97,6 +97,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2606-25760.md))
 - [ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation](https://arxiv.org/abs/2607.05750) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-05750.md))
+- [UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://arxiv.org/abs/2608.15930) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-15930.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments](https://arxiv.org/abs/2606.25207) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-25207.md))
 - [Agentic Calibration of Grey-Box Simulation Models: An LLM-Driven Alternative](https://arxiv.org/abs/2607.18308) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-18308.md))
@@ -104,12 +105,12 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure](https://arxiv.org/abs/2608.11079) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-11079.md))
 - [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-04077.md))
 - [Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18166.md))
-- [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-25760.md))
 
 ## REFERENCE
 
 - [Hierarchical Compositionality for An Assistive AI Agent](https://arxiv.org/abs/2608.10330) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-10330.md))
 - [QUASAR: Lowering the Loss Floor of Quantization-Aware Training with Loss-Aware Reconstruction](https://arxiv.org/abs/2608.13966) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-13966.md))
+- [Cross-Entropy Risk Estimation for Language Models: Inconsistency Must Be Dense, and the Holdout Method Is No Exception](https://arxiv.org/abs/2608.15798) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-15798.md))
 - [First-Order Predictable but Pairwise Fragile: Local Task Adaptation in Trained Transformers](https://arxiv.org/abs/2607.16821) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-16821.md))
 - [In-region inference, open models, and new European infrastructure for sovereign AI.](https://mistral.ai/news/regional-inference-open-models-new-compute) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md))
 - [Introducing Shieldstral.](https://mistral.ai/news/shieldstral) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/introducing-shieldstral.md))
@@ -119,7 +120,6 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](https://mistral.ai/news/more-control-over-connectors) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md))
 - [Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-medium-3-5.md))
 - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](https://mistral.ai/news/leanstral-1-5) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md))
-- [Mistral OCR 4](https://mistral.ai/news/ocr-4) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-ocr-4.md))
 
 ## TEMPLATE
 
@@ -169,17 +169,17 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 ## WORKFLOW
 
 - [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (Tier: `useful` | [`Local File`](../../ai/agents/hoodini-ai-agents-skills.md))
+- [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (Tier: `useful` | [`Local File`](../../ai/agents/addyosmani-agent-skills.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
+- [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 - [braincrew-lab/langgraph-mcp-agents](https://github.com/braincrew-lab/langgraph-mcp-agents) (Tier: `useful` | [`Local File`](../../ai/agents/braincrew-lab-langgraph-mcp-agents.md))
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa/) (Tier: `useful` | [`Local File`](../../ai/rag/vespa-engine-vespa.md))
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
-- [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
-- [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
-- [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) (Tier: `useful` | [`Local File`](../../ai/agents/ed1s0nz-cyberstrikeai.md))
+- [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
 
 ---
-*Last updated: 2026-08-18 07:43 IST*
+*Last updated: 2026-08-18 09:55 IST*

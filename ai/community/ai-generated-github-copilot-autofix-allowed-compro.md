@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
 hn_url: https://news.ycombinator.com/item?id=49331423
-score: 317
+score: 331
 author: galnagli
-comments_count: 125
+comments_count: 128
 published_at: '2026-08-17T19:48:38+05:30'
-collected_at: '2026-08-18T07:25:58.021528+05:30'
+collected_at: '2026-08-18T09:34:23.535455+05:30'
 tags:
 - agents
 - ai
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:ai-generated-github-copilot-autofix-allowed-compro
 first_seen: '2026-08-17T21:12:57.592635+05:30'
-last_seen: '2026-08-18T07:25:58.021528+05:30'
-last_checked: '2026-08-18T07:25:58.021528+05:30'
+last_seen: '2026-08-18T09:34:23.535455+05:30'
+last_checked: '2026-08-18T09:34:23.535455+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by galnagli. Score: 317, Comments: 125.
+Hacker News story by galnagli. Score: 331, Comments: 128.
 Original Link: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: galnagli
-- Score: 317 Upvotes
-- Comments: 125 Discussions
+- Score: 331 Upvotes
+- Comments: 128 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49331423
 - Original Article: https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
 

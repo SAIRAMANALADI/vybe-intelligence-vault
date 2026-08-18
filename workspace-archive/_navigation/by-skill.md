@@ -248,6 +248,7 @@ This index groups curated resources by target developer skills.
 - [JobMatchAI-An Intelligent Job Matching Platform Using Knowledge Graphs, Semantic Search and Explainable AI](https://arxiv.org/abs/2603.14558) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-14558.md))
 - [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (Tier: `useful` | [`Local File`](../../ai/resources/job-a-thon.md))
 - [Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](https://arxiv.org/abs/2606.11663) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-11663.md))
+- [Understanding AI Anxiety in the Workplace: A Multimethod Investigation Using Fear Acquisition Theory and the Technology Acceptance Model](https://arxiv.org/abs/2608.14609) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-14609.md))
 - [Lost in Phonation: Voice Quality Variation as an Evaluation Dimension for Speech Foundation Models](https://arxiv.org/abs/2510.25577) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2510-25577.md))
 - [Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models](https://arxiv.org/abs/2607.16201) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-16201.md))
 - [TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation](https://arxiv.org/abs/2608.11236) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-11236.md))
@@ -529,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 
 ---
-*Last updated: 2026-08-18 07:43 IST*
+*Last updated: 2026-08-18 09:55 IST*
