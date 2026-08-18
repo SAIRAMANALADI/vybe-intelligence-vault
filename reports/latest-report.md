@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-19T03:04:46.094496+05:30`
+Generated at: `2026-08-19T03:38:47.330388+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Norway Should Buy OpenAI** - Score: `161` in category `ai/community` ([Link](https://onethousandmeans.com/p/norway-should-buy-openai)) ([File](../ai/community/norway-should-buy-openai.md))
 
 ## Top Trending Resources
 
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **tonykipkemboi/trip_planner_agent** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/tonykipkemboi-trip-planner-agent.md))
-- **adongwanai/AgentGuide** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/adongwanai-agentguide.md))
-- **scotthavird/crewai-template** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/scotthavird-crewai-template.md))
-- **strnad/CrewAI-Studio** - Score: `0` (0), Rank Change: `+982` ([File](../ai/agents/strnad-crewai-studio.md))
-- **liangdabiao/easy_investment_Agent_crewai** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/liangdabiao-easy-investment-agent-crewai.md))
-- **muhammad-uzair-yasin/CrewAi_starter_template** - Score: `0` (0), Rank Change: `+982` ([File](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md))
-- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+982` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **Data centers raise nearby temperatures by up to 4 degrees in Phoenix** - Score: `263` (+117), Rank Change: `+1` ([File](../ai/community/data-centers-raise-nearby-temperatures-by-up-to-4.md))
+- **Universal health coverage could save $1T and 114k lives a year: study** - Score: `617` (+107), Rank Change: `+1` ([File](../ai/community/universal-health-coverage-could-save-1t-and-114k-l.md))
+- **Using the railway network as a flatbed scanner** - Score: `364` (+60), Rank Change: `+1` ([File](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md))
+- **Fairphone is now officially available in the United States** - Score: `335` (+44), Rank Change: `+1` ([File](../ai/community/fairphone-is-now-officially-available-in-the-unite.md))
+- **Show HN: macOS data protection keychain for Electron apps** - Score: `19` (+9), Rank Change: `0` ([File](../ai/community/biw-keychain-store.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+984` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+984` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+7` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - Score: `0` (0), Rank Change: `+2` ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18327`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9240`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+983`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation** - (Rank Change: `+983`) ([File](../ai/research/arxiv-2608-09035.md))
-- **Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach** - (Rank Change: `+983`) ([File](../ai/rag/arxiv-2608-08636.md))
-- **DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects** - (Rank Change: `+983`) ([File](../ai/research/arxiv-2608-08067.md))
-- **Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation** - (Rank Change: `+983`) ([File](../ai/agents/arxiv-2608-02345.md))
-- **Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning** - (Rank Change: `+983`) ([File](../ai/rag/arxiv-2608-01014.md))
-- **Teffic-Audio: Tell Fact from Fiction** - (Rank Change: `+983`) ([File](../ai/research/arxiv-2607-28351.md))
-- **Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging** - (Rank Change: `+983`) ([File](../ai/rag/arxiv-2607-28125.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+984`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+984`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **Qwen/Qwen3-0.6B** - (Rank Change: `+842`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
+- **lpiccinelli/unidepth-v2-vitl14** - (Rank Change: `+842`) ([File](../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md))
+- **BAAI/bge-m3** - (Rank Change: `+842`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **amazon/chronos-2** - (Rank Change: `+842`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
+- **google/electra-base-discriminator** - (Rank Change: `+842`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+842`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+842`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+842`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Google has acquired the data of failed US airline Spirit** (Category: `ai/community`) ([File](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md))
+- **Show HN: PantheonGPU – GPU health testing and AI workload benchmarking** (Category: `ai/community`) ([File](../ai/community/show-hn-pantheongpu-gpu-health-testing-and-ai-work.md))

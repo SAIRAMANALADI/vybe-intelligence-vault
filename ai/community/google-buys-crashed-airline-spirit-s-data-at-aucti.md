@@ -13,13 +13,14 @@ collected_at: '2026-08-19T00:34:40.950971+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-buys-crashed-airline-spirit-s-data-at-aucti
 first_seen: '2026-08-18T18:43:53.667783+05:30'
 last_seen: '2026-08-19T00:34:40.950971+05:30'
 last_checked: '2026-08-19T00:34:40.950971+05:30'
 health_score: 100
 ---
+
 
 # Google has acquired the data of failed US airline Spirit
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-pantheongpu-gpu-health-testing-and-ai-work
 first_seen: '2026-08-19T00:34:40.394062+05:30'
 last_seen: '2026-08-19T00:34:40.394062+05:30'
 last_checked: '2026-08-19T00:34:40.394062+05:30'
 health_score: 100
 ---
+
 
 # Show HN: PantheonGPU – GPU health testing and AI workload benchmarking
 

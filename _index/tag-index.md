@@ -4783,8 +4783,7 @@ Resources organized by keyword tags.
 
   - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](../ai/community/data-centers-raise-nearby-temperatures-by-up-to-4.md)
   - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
-  - [Google has acquired the data of failed US airline Spirit](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
-  - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](../ai/community/show-hn-pantheongpu-gpu-health-testing-and-ai-work.md)
+  - [Norway Should Buy OpenAI](../ai/community/norway-should-buy-openai.md)
   - [Show HN: macOS data protection keychain for Electron apps](../ai/community/biw-keychain-store.md)
   - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
 
@@ -11406,7 +11405,6 @@ Resources organized by keyword tags.
   - [Shortcut Trajectory Planning for Efficient Offline Reinforcement Learning](../ai/research/arxiv-2607-09336.md)
   - [Shorter Reasoning, Earlier Answers? An Evaluation of Reasoning Interfaces](../ai/research/arxiv-2608-03401.md)
   - [Shot-based quantum encoding: a data-loading paradigm for quantum neural networks](../ai/research/arxiv-2604-06135.md)
-  - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](../ai/community/show-hn-pantheongpu-gpu-health-testing-and-ai-work.md)
   - [Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models](../ai/rag/arxiv-2512-18021.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
   - [Side-Channel Attacks Survive Noise Cancellation in 3D Printers](../ai/research/arxiv-2606-13952.md)
@@ -20174,7 +20172,6 @@ Resources organized by keyword tags.
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
-  - [Google has acquired the data of failed US airline Spirit](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
   - [Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority](../ai/agents/arxiv-2607-04613.md)
@@ -20787,6 +20784,7 @@ Resources organized by keyword tags.
   - [Nondiscrimination Policy | Stanford University Bulletin](../ai/resources/nondiscrimination-policy-stanford-university-bulle.md)
   - [Nonlinear Laplacians Improve Signed-Directed Graph Learning](../ai/rag/arxiv-2608-00836.md)
   - [Nonparametric Control Koopman Operators](../ai/research/arxiv-2405-07312.md)
+  - [Norway Should Buy OpenAI](../ai/community/norway-should-buy-openai.md)
   - [Not All Neighbors Matter: Understanding the Impact of Graph Sparsification on GNN Pipelines](../ai/research/arxiv-2603-06952.md)
   - [Nothing Personal, a new editorial platform by Mozilla Foundation - Mozilla Foundation](../ai/rag/nothing-personal-a-new-editorial-platform-by-mozil.md)
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
@@ -21305,7 +21303,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](../ai/community/show-hn-pantheongpu-gpu-health-testing-and-ai-work.md)
   - [Show HN: macOS data protection keychain for Electron apps](../ai/community/biw-keychain-store.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -27711,6 +27708,7 @@ Resources organized by keyword tags.
   - [NirDiamant/RAG_TECHNIQUES](../ai/rag/nirdiamant-rag-techniques.md)
   - [NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs](../ai/agents/arxiv-2608-07167.md)
   - [Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery](../ai/rag/arxiv-2608-15919.md)
+  - [Norway Should Buy OpenAI](../ai/community/norway-should-buy-openai.md)
   - [Not All Skills Help: Measuring and Repairing Agent Knowledge](../ai/agents/arxiv-2606-15390.md)
   - [Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems](../ai/agents/arxiv-2608-13571.md)
   - [NousResearch/hermes-agent](../ai/agents/nousresearch-hermes-agent.md)
@@ -48205,4 +48203,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-19T00:51:03.069516+05:30*
+*Index generated on 2026-08-19T03:36:27.262222+05:30*
