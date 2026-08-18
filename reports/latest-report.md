@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-18T21:42:27.677649+05:30`
+Generated at: `2026-08-18T22:12:45.697307+05:30`
 
 ## Executive Summary
 
@@ -8,37 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Using the railway network as a flatbed scanner** - Score: `194` in category `ai/community` ([Link](https://philo.gay/linecam)) ([File](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md))
-- **Fairphone is now officially available in the United States** - Score: `180` in category `ai/community` ([Link](https://fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more)) ([File](../ai/community/fairphone-is-now-officially-available-in-the-unite.md))
-- **Baking a Model: A Metaphor for LLM Training** - Score: `22` in category `ai/community` ([Link](https://newsletter.kentbeck.com/p/baking-a-model)) ([File](../ai/community/baking-a-model-a-metaphor-for-llm-training.md))
-- **What Happens If OpenAI Dies?** - Score: `19` in category `ai/community` ([Link](https://wheresyoured.at/what-happens-if-openai-dies)) ([File](../ai/community/what-happens-if-openai-dies.md))
-- **Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/multi-vector-encoder)) ([File](../ai/models/huggingface-blog-multi-vector-encoder.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Google buys crashed airline Spirit's data at auction** - Score: `407` (+185), Rank Change: `+4` ([File](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md))
-- **Israel creates fake think tank in likely attempt to dupe AI chatbots** - Score: `901` (+167), Rank Change: `0` ([File](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md))
-- **Fairphone 6 and PostmarketOS working main camera** - Score: `267` (+21), Rank Change: `+2` ([File](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md))
-- **IBM Simon (1994): the original smartphone, explained in its own ad [video]** - Score: `71` (+18), Rank Change: `+2` ([File](../ai/community/youtube-xotfywzppcc.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/computer-vision.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **tonykipkemboi/trip_planner_agent** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/tonykipkemboi-trip-planner-agent.md))
+- **adongwanai/AgentGuide** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/adongwanai-agentguide.md))
+- **scotthavird/crewai-template** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/scotthavird-crewai-template.md))
+- **strnad/CrewAI-Studio** - Score: `0` (0), Rank Change: `+981` ([File](../ai/agents/strnad-crewai-studio.md))
+- **liangdabiao/easy_investment_Agent_crewai** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/liangdabiao-easy-investment-agent-crewai.md))
+- **muhammad-uzair-yasin/CrewAi_starter_template** - Score: `0` (0), Rank Change: `+981` ([File](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md))
+- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+981` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+981` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Spinning Conformal Correlators from Neural Networks** - (Rank Change: `+69`) ([File](../ai/research/arxiv-2608-15001.md))
-- **facebook/MusicGen** - (Rank Change: `+11`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+11`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+11`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+11`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+11`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+11`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+11`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
-- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+11`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
-- **enzostvs/deepsite** - (Rank Change: `+11`) ([File](../ai/models/huggingface-spaces-enzostvs.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18326`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9239`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+982`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation** - (Rank Change: `+982`) ([File](../ai/research/arxiv-2608-09035.md))
+- **Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach** - (Rank Change: `+982`) ([File](../ai/rag/arxiv-2608-08636.md))
+- **DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects** - (Rank Change: `+982`) ([File](../ai/research/arxiv-2608-08067.md))
+- **Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation** - (Rank Change: `+982`) ([File](../ai/agents/arxiv-2608-02345.md))
+- **Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning** - (Rank Change: `+982`) ([File](../ai/rag/arxiv-2608-01014.md))
+- **Teffic-Audio: Tell Fact from Fiction** - (Rank Change: `+982`) ([File](../ai/research/arxiv-2607-28351.md))
+- **Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging** - (Rank Change: `+982`) ([File](../ai/rag/arxiv-2607-28125.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -49,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira** (Category: `ai/community`) ([File](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md))
-- **GPT 5.6 Sol is the best "vision" model OpenAI ever released** (Category: `ai/community`) ([File](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md))
-- **An update on leaving Gmail for Fastmail** (Category: `ai/community`) ([File](../ai/community/an-update-on-leaving-gmail-for-fastmail.md))
-- **Repair Cafe – Fix Your Broken Items** (Category: `ai/community`) ([File](../ai/community/repair-cafe-fix-your-broken-items.md))
+No recently active resources transitioned to inactive.
+
