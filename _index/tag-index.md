@@ -4787,6 +4787,7 @@ Resources organized by keyword tags.
   - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
   - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
+  - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
   - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
   - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
   - [Repair Cafe – Fix Your Broken Items](../ai/community/repair-cafe-fix-your-broken-items.md)
@@ -20331,6 +20332,7 @@ Resources organized by keyword tags.
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
+  - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
   - [IC3 – The Initiative for Cryptocurrencies and Contracts – Advancing the science and applications of blockchains](../ai/resources/ic3-the-initiative-for-cryptocurrencies-and-contra.md)
   - [ICO website user survey 2026 | ICO](../ai/resources/ico-website-user-survey-2026-ico.md)
   - [IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet](../ai/resources/ignet-council-of-the-inspectors-general-on-integri.md)
@@ -25913,7 +25915,6 @@ Resources organized by keyword tags.
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
@@ -40283,6 +40284,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -46947,6 +46949,7 @@ Resources organized by keyword tags.
   - [HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion](../ai/rag/arxiv-2607-03012.md)
   - [I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning](../ai/rag/arxiv-2608-07417.md)
   - [I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models](../ai/research/arxiv-2607-25522.md)
+  - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
   - [IC3 – The Initiative for Cryptocurrencies and Contracts – Advancing the science and applications of blockchains](../ai/resources/ic3-the-initiative-for-cryptocurrencies-and-contra.md)
   - [IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet](../ai/resources/ignet-council-of-the-inspectors-general-on-integri.md)
   - [IPython Documentation — IPython 9.14.1 documentation](../ai/resources/ipython-documentation-ipython-9-14-1-documentation.md)
@@ -48209,4 +48212,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T12:56:28.466143+05:30*
+*Index generated on 2026-08-18T15:42:12.359837+05:30*

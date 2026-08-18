@@ -1,7 +1,7 @@
 {
   "status": "healthy",
-  "last_generated_at": "2026-08-18T12:58:22.524843+05:30",
-  "total_items": 80312,
+  "last_generated_at": "2026-08-18T15:43:27.605464+05:30",
+  "total_items": 80314,
   "category_counts": {
     "ai-coding-agents": 3335,
     "agent-instructions": 9,
@@ -9,7 +9,7 @@
     "agent-frameworks": 3422,
     "rag-systems": 17551,
     "llm-app-templates": 257,
-    "evals-and-benchmarks": 16847,
+    "evals-and-benchmarks": 16848,
     "observability": 988,
     "guardrails-security": 9225,
     "model-providers": 2327,
@@ -17,7 +17,7 @@
     "vector-databases": 6551,
     "datasets": 11835,
     "prompt-libraries": 160,
-    "automation-workflows": 1640,
+    "automation-workflows": 1641,
     "public-apis": 46,
     "ai-tools-products": 152,
     "ai-browser-computer-use": 3791,

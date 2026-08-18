@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail
 hn_url: https://news.ycombinator.com/item?id=49334409
-score: 189
+score: 232
 author: neogodless
-comments_count: 124
+comments_count: 142
 published_at: '2026-08-17T22:45:20+05:30'
-collected_at: '2026-08-18T12:40:10.246116+05:30'
+collected_at: '2026-08-18T15:24:33.828853+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:an-update-on-leaving-gmail-for-fastmail
 first_seen: '2026-08-18T03:15:17.356472+05:30'
-last_seen: '2026-08-18T12:40:10.246116+05:30'
-last_checked: '2026-08-18T12:40:10.246116+05:30'
+last_seen: '2026-08-18T15:24:33.828853+05:30'
+last_checked: '2026-08-18T15:24:33.828853+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by neogodless. Score: 189, Comments: 124.
+Hacker News story by neogodless. Score: 232, Comments: 142.
 Original Link: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: neogodless
-- Score: 189 Upvotes
-- Comments: 124 Discussions
+- Score: 232 Upvotes
+- Comments: 142 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49334409
 - Original Article: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail
 
