@@ -13,13 +13,14 @@ collected_at: '2026-08-18T18:43:56.122889+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:repair-cafe-fix-your-broken-items
 first_seen: '2026-08-18T07:25:59.265543+05:30'
 last_seen: '2026-08-18T18:43:56.122889+05:30'
 last_checked: '2026-08-18T18:43:56.122889+05:30'
 health_score: 100
 ---
+
 
 # Repair Cafe – Fix Your Broken Items
 

@@ -17466,15 +17466,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
-  - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
+  - [Baking a Model: A Metaphor for LLM Training](../ai/community/baking-a-model-a-metaphor-for-llm-training.md)
   - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
-  - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
-  - [Google buys crashed airline Spirit's data at auction, because AI](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
+  - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
+  - [Google buys crashed airline Spirit's data at auction](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
   - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
   - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
-  - [Repair Cafe – Fix Your Broken Items](../ai/community/repair-cafe-fix-your-broken-items.md)
   - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
+  - [What Happens If OpenAI Dies?](../ai/community/what-happens-if-openai-dies.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -18000,6 +17999,7 @@ Resources organized by publisher feed and query sources.
   - [Model Cards](../ai/models/huggingface-blog-model-cards.md)
   - [Model Routing Is Simple. Until It Isn’t.](../ai/models/huggingface-blog-ibm-research-model-routing-is-simple-until-it-isnt.md)
   - [MosaicLeaks: Can your research agent keep a secret?](../ai/agents/huggingface-blog-servicenow-mosaicleaks.md)
+  - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](../ai/models/huggingface-blog-multi-vector-encoder.md)
   - [Multimodal Embedding & Reranker Models with Sentence Transformers](../ai/models/huggingface-blog-multimodal-sentence-transformers.md)
   - [Multivariate Probabilistic Time Series Forecasting with Informer](../ai/models/huggingface-blog-informer.md)
   - [My Journey to a serverless transformers pipeline on Google Cloud](../ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md)
@@ -21285,4 +21285,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T19:00:39.010799+05:30*
+*Index generated on 2026-08-18T21:40:18.305989+05:30*

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:gpt-5-6-sol-is-the-best-vision-model-openai-ever-r
 first_seen: '2026-08-17T18:40:16.159784+05:30'
 last_seen: '2026-08-18T18:43:56.235720+05:30'
 last_checked: '2026-08-18T18:43:56.235720+05:30'
 health_score: 100
 ---
+
 
 # GPT 5.6 Sol is the best "vision" model OpenAI ever released
 

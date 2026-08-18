@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
 hn_url: https://news.ycombinator.com/item?id=49338285
-score: 246
+score: 267
 author: pizzaiolo
-comments_count: 57
+comments_count: 67
 published_at: '2026-08-18T03:31:17+05:30'
-collected_at: '2026-08-18T18:43:54.922535+05:30'
+collected_at: '2026-08-18T21:23:59.699827+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:fairphone-6-and-postmarketos-working-main-camera
 first_seen: '2026-08-18T07:25:57.834145+05:30'
-last_seen: '2026-08-18T18:43:54.922535+05:30'
-last_checked: '2026-08-18T18:43:54.922535+05:30'
+last_seen: '2026-08-18T21:23:59.699827+05:30'
+last_checked: '2026-08-18T21:23:59.699827+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by pizzaiolo. Score: 246, Comments: 57.
+Hacker News story by pizzaiolo. Score: 267, Comments: 67.
 Original Link: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: pizzaiolo
-- Score: 246 Upvotes
-- Comments: 57 Discussions
+- Score: 267 Upvotes
+- Comments: 67 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49338285
 - Original Article: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
 

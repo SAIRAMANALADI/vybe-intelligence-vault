@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - scripts
-status: active
+status: inactive
 resource_id: hackernews:ai-generated-github-copilot-autofix-allowed-compro
 first_seen: '2026-08-17T21:12:57.592635+05:30'
 last_seen: '2026-08-18T18:43:55.751528+05:30'
 last_checked: '2026-08-18T18:43:55.751528+05:30'
 health_score: 100
 ---
+
 
 # AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira
 

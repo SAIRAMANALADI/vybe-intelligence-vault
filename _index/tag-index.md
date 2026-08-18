@@ -182,7 +182,6 @@ Resources organized by keyword tags.
   - [AI, ML and Data Science Tutorial - GeeksforGeeks](../ai/agents/ai-ml-and-data-science-tutorial-geeksforgeeks.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
-  - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI4BayesCode: From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers](../ai/agents/arxiv-2605-18476.md)
   - [AI4SLT: Empirical Processes in Lean 4 for Formal Statistical Learning Theory](../ai/agents/arxiv-2602-02285.md)
@@ -4781,15 +4780,14 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
-  - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
+  - [Baking a Model: A Metaphor for LLM Training](../ai/community/baking-a-model-a-metaphor-for-llm-training.md)
   - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
-  - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
-  - [Google buys crashed airline Spirit's data at auction, because AI](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
+  - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
+  - [Google buys crashed airline Spirit's data at auction](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
   - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](../ai/community/youtube-xotfywzppcc.md)
   - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
-  - [Repair Cafe – Fix Your Broken Items](../ai/community/repair-cafe-fix-your-broken-items.md)
   - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
+  - [What Happens If OpenAI Dies?](../ai/community/what-happens-if-openai-dies.md)
 
 ## animation
 
@@ -19167,7 +19165,6 @@ Resources organized by keyword tags.
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
-  - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [AI-interpreted Optical Scattering for Robust and Focal Depth-Aware Imaging](../ai/research/arxiv-2607-22867.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI.Gov | President Trump's AI Strategy and Action Plan](../ai/resources/ai-gov-president-trump-s-ai-strategy-and-action-pl.md)
@@ -19286,7 +19283,6 @@ Resources organized by keyword tags.
   - [An LLM-powered Agentic Recommendation System for Connected TV Content Discovery](../ai/rag/arxiv-2607-09988.md)
   - [An Unreasonably Deep Dive Into Project Euler Problem 4 - Adam Drake](../ai/rag/an-unreasonably-deep-dive-into-project-euler-probl.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
-  - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
   - [Analysing drivers and interdependencies in European electricity markets using XAI](../ai/research/arxiv-2606-19118.md)
   - [Analysis of Federated Aggregation under Model Poisoning and Backdoor Attacks: A Reconstructed Cross-Dataset and Cross-Architecture Benchmark](../ai/research/arxiv-2608-11423.md)
   - [Analysis of Motor Signatures of Social Adaptation in Autism for Efficient Human-Centric Systems](../ai/research/arxiv-2608-12548.md)
@@ -19372,6 +19368,7 @@ Resources organized by keyword tags.
   - [BYTE.com](../ai/rag/byte-com.md)
   - [BackgroundMellow: A Multi-Modal Cohesive Framework for Narrative-Driven Rich Cinematic Soundscape Generation](../ai/rag/arxiv-2607-11364.md)
   - [Badging at SLAC | Environment Safety & Health](../ai/resources/badging-at-slac-environment-safety-health.md)
+  - [Baking a Model: A Metaphor for LLM Training](../ai/community/baking-a-model-a-metaphor-for-llm-training.md)
   - [Balancing multiscale similarity and cartographic constraints: A similarity-driven optimization framework for line generalization](../ai/research/arxiv-2607-25474.md)
   - [Barchart | All Markets](../ai/rag/barchart-all-markets.md)
   - [Base barrier cells provide compartmentalization of choroid plexus, brain and CSF | Nature Neuroscience](../ai/rag/base-barrier-cells-provide-compartmentalization-of.md)
@@ -19964,6 +19961,7 @@ Resources organized by keyword tags.
   - [FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation](../ai/research/arxiv-2607-28934.md)
   - [Fairness in Augmented Graph Learning: A Survey](../ai/research/arxiv-2504-21296.md)
   - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
+  - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
   - [Faithful Autoformalization of Natural Language Assertions](../ai/rag/arxiv-2607-13303.md)
   - [FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking](../ai/rag/arxiv-2607-26641.md)
   - [Falco](../ai/rag/falco.md)
@@ -20071,7 +20069,6 @@ Resources organized by keyword tags.
   - [GMD - fair-calibrate v1.4.1: calibration, constraining, and validation of the FaIR simple climate model for reliable fut](../ai/rag/gmd-fair-calibrate-v1-4-1-calibration-constraining.md)
   - [GNOME Development](../ai/resources/gnome-development.md)
   - [GNU Mailman / Mailman Core · GitLab](../ai/resources/gnu-mailman-mailman-core-gitlab.md)
-  - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [GPU-Accelerated ANNS: Quantized for Speed, Built for Change](../ai/rag/arxiv-2601-07048.md)
   - [GR2 Technical Report](../ai/research/arxiv-2606-31984.md)
   - [GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech](../ai/research/arxiv-2607-02633.md)
@@ -20176,7 +20173,7 @@ Resources organized by keyword tags.
   - [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md)
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
-  - [Google buys crashed airline Spirit's data at auction, because AI](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
+  - [Google buys crashed airline Spirit's data at auction](../ai/community/google-buys-crashed-airline-spirit-s-data-at-aucti.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
@@ -21145,7 +21142,6 @@ Resources organized by keyword tags.
   - [Remote sensing data imputation using deep learning for multispectral imagery](../ai/research/arxiv-2605-24003.md)
   - [Reoptimization Algorithms for Contextual Bandits with Knapsack Constraints](../ai/rag/arxiv-2608-11383.md)
   - [RepTran: Search-Based Repair of Transformer Models](../ai/rag/arxiv-2607-11193.md)
-  - [Repair Cafe – Fix Your Broken Items](../ai/community/repair-cafe-fix-your-broken-items.md)
   - [RepairFormer: Automated Repair of Structured Inputs Using Transformers](../ai/research/arxiv-2608-05060.md)
   - [Replication in Visual Diffusion Models: A Survey and Outlook](../ai/research/arxiv-2408-00001.md)
   - [Replit – Build apps and sites with AI - Replit](../ai/rag/replit-build-apps-and-sites-with-ai-replit.md)
@@ -21819,6 +21815,7 @@ Resources organized by keyword tags.
   - [What Do AI Agents Actually Change? An Empirical Taxonomy of Mutation Patterns in Performance-Improving Pull Requests](../ai/agents/arxiv-2607-05666.md)
   - [What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning](../ai/agents/arxiv-2607-16938.md)
   - [What Does It Mean to Break a Distillation Defense?](../ai/research/arxiv-2606-25059.md)
+  - [What Happens If OpenAI Dies?](../ai/community/what-happens-if-openai-dies.md)
   - [What Is Retrieval Augmented Generation? | deepset Blog](../ai/rag/what-is-retrieval-augmented-generation-deepset-blo.md)
   - [What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](../ai/rag/arxiv-2607-27966.md)
   - [What We Know about Responsible AI Practices in Industry: A Half Decade of Empirical Research](../ai/research/arxiv-2608-10431.md)
@@ -22649,6 +22646,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [Baking a Model: A Metaphor for LLM Training](../ai/community/baking-a-model-a-metaphor-for-llm-training.md)
 
 ## mdx
 
@@ -27586,7 +27587,6 @@ Resources organized by keyword tags.
   - [Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes](../ai/agents/arxiv-2605-28965.md)
   - [G1o22/awesome-ai-agents-2026](../ai/agents/g1o22-awesome-ai-agents-2026.md)
   - [GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning](../ai/agents/arxiv-2505-23399.md)
-  - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [Gainsight Certification Programs](../ai/rag/gainsight-certification-programs.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
   - [Gemma 4 - SGLang Documentation](../ai/rag/gemma-4-sglang-documentation.md)
@@ -27895,6 +27895,7 @@ Resources organized by keyword tags.
   - [Welcome to PyTorch Tutorials — PyTorch Tutorials 2.13.0+cu130 documentation](../ai/rag/welcome-to-pytorch-tutorials-pytorch-tutorials-2-1.md)
   - [Welcome to Unstructured! - Unstructured](../ai/agents/welcome-to-unstructured-unstructured.md)
   - [What Drives LLM Self-Reflection? A Controlled Ablation of Uncertainty Routing in Armed Conflict Forecasting](../ai/agents/arxiv-2608-12322.md)
+  - [What Happens If OpenAI Dies?](../ai/community/what-happens-if-openai-dies.md)
   - [What Is Retrieval Augmented Generation? | deepset Blog](../ai/rag/what-is-retrieval-augmented-generation-deepset-blo.md)
   - [What Predicts Correctness in Text-to-SQL? A Selective-Prediction Study](../ai/research/arxiv-2607-06799.md)
   - [What are Diffusion Models? | IBM](../ai/rag/what-are-diffusion-models-ibm.md)
@@ -40480,7 +40481,6 @@ Resources organized by keyword tags.
   - [AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design](../ai/research/arxiv-2606-09831.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
-  - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AMAP-ML/LongHorizon-Harness](../ai/agents/amap-ml-longhorizon-harness.md)
   - [API 2.3 Release - Meta Stack Exchange](../ai/rag/api-2-3-release-meta-stack-exchange.md)
@@ -48209,4 +48209,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T19:00:38.831654+05:30*
+*Index generated on 2026-08-18T21:40:18.090602+05:30*
