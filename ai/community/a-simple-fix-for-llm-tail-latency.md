@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:a-simple-fix-for-llm-tail-latency
 first_seen: '2026-08-18T03:15:17.536892+05:30'
 last_seen: '2026-08-18T09:34:25.729031+05:30'
 last_checked: '2026-08-18T09:34:25.729031+05:30'
 health_score: 100
 ---
+
 
 # A simple fix for LLM tail latency
 

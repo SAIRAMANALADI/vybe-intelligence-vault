@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-149%2C619-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-230%2C664-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--18-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **149,619 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **230,664 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 20,906</p>
-        <p><b>Active:</b> 20,261 | <b>Inactive:</b> 645</p>
+        <p><b>Resources tracked:</b> 21,886</p>
+        <p><b>Active:</b> 21,240 | <b>Inactive:</b> 646</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,269</p>
+        <p><b>Archive Files:</b> 82,356</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 149,619 files</p>
-        <p><b>Last Update:</b> 2026-08-18 12:20 IST</p>
+        <p><b>Total Vault Size:</b> 230,664 files</p>
+        <p><b>Last Update:</b> 2026-08-18 12:59 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Effect of Abstractions and Prompting Strategies on LLM-Guided High-Performance Optimizations](ai/research/arxiv-2608-08085.md)** • Rank: <kbd>+35</kbd>
-- 🔼 **[Multimodal Language Models Benchmarked Against the NRC Reactor Operator Licensing Examination: Fine-Tuning and Retrieval Strategies](ai/rag/arxiv-2607-22067.md)** • Rank: <kbd>+35</kbd>
-- 🔼 **[Safeguard-Conditioned Uplift: Measuring Utility-Risk Frontiers for Dual-Use Biology Assistants](ai/research/arxiv-2607-13039.md)** • Rank: <kbd>+35</kbd>
-- 🔼 **[Empowering Polymeric Materials Discovery by Artificial Intelligence](ai/rag/arxiv-2606-20753.md)** • Rank: <kbd>+35</kbd>
-- 🔼 **[Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design](ai/research/arxiv-2606-09041.md)** • Rank: <kbd>+35</kbd>
+- 🔼 **[Israel creates fake think tank in likely attempt to dupe AI chatbots](ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)** • <kbd>+161 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[AI;DR (AI; Didn't Read)](ai/community/ai-dr-ai-didn-t-read.md)** • <kbd>+120 pts</kbd>
+- 🔼 **[An update on leaving Gmail for Fastmail](ai/community/an-update-on-leaving-gmail-for-fastmail.md)** • <kbd>+46 pts</kbd>
+- 🔼 **[Fairphone 6 and PostmarketOS working main camera](ai/community/fairphone-6-and-postmarketos-working-main-camera.md)** • <kbd>+45 pts</kbd>
+- 🔼 **[Repair Cafe – Fix Your Broken Items](ai/community/repair-cafe-fix-your-broken-items.md)** • <kbd>+38 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- No new discoveries in this run.
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[A simple fix for LLM tail latency](ai/community/a-simple-fix-for-llm-tail-latency.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

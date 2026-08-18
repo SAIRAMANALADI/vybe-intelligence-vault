@@ -17466,7 +17466,6 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A simple fix for LLM tail latency](../ai/community/a-simple-fix-for-llm-tail-latency.md)
   - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [AI;DR (AI; Didn't Read)](../ai/community/ai-dr-ai-didn-t-read.md)
   - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
@@ -21286,4 +21285,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T09:53:39.917836+05:30*
+*Index generated on 2026-08-18T12:56:28.709815+05:30*

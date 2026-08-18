@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.roboflow.com/openai-gpt-5-6
 hn_url: https://news.ycombinator.com/item?id=49329575
-score: 312
+score: 330
 author: plurby
-comments_count: 156
+comments_count: 159
 published_at: '2026-08-17T17:39:42+05:30'
-collected_at: '2026-08-18T09:34:24.142366+05:30'
+collected_at: '2026-08-18T12:40:10.337084+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:gpt-5-6-sol-is-the-best-vision-model-openai-ever-r
 first_seen: '2026-08-17T18:40:16.159784+05:30'
-last_seen: '2026-08-18T09:34:24.142366+05:30'
-last_checked: '2026-08-18T09:34:24.142366+05:30'
+last_seen: '2026-08-18T12:40:10.337084+05:30'
+last_checked: '2026-08-18T12:40:10.337084+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by plurby. Score: 312, Comments: 156.
+Hacker News story by plurby. Score: 330, Comments: 159.
 Original Link: https://blog.roboflow.com/openai-gpt-5-6/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: plurby
-- Score: 312 Upvotes
-- Comments: 156 Discussions
+- Score: 330 Upvotes
+- Comments: 159 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49329575
 - Original Article: https://blog.roboflow.com/openai-gpt-5-6
 

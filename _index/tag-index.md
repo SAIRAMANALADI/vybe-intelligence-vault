@@ -4781,7 +4781,6 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A simple fix for LLM tail latency](../ai/community/a-simple-fix-for-llm-tail-latency.md)
   - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [AI;DR (AI; Didn't Read)](../ai/community/ai-dr-ai-didn-t-read.md)
   - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
@@ -19124,7 +19123,6 @@ Resources organized by keyword tags.
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
   - [A safe and modern home for JavaScript technologies | OpenJS Foundation](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md)
-  - [A simple fix for LLM tail latency](../ai/community/a-simple-fix-for-llm-tail-latency.md)
   - [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md)
   - [A survey of AI-generated voices and their detection](../ai/research/arxiv-2608-15411.md)
   - [A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem](../ai/research/arxiv-2607-28733.md)
@@ -21815,6 +21813,7 @@ Resources organized by keyword tags.
   - [Welcome | Lab of Atomic of Solid State Physics (LASSP)](../ai/resources/welcome-lab-of-atomic-of-solid-state-physics-lassp.md)
   - [Welcome | University Privacy](../ai/resources/welcome-university-privacy.md)
   - [Welcome, GraphAware](../ai/agents/welcome-graphaware.md)
+  - [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)
   - [Werkzeug · PyPI](../ai/agents/werkzeug-pypi.md)
   - [What Are AI Tokens? The Language and Currency Powering Modern AI | NVIDIA Blog](../ai/rag/what-are-ai-tokens-the-language-and-currency-power.md)
   - [What Do AI Agents Actually Change? An Empirical Taxonomy of Mutation Patterns in Performance-Improving Pull Requests](../ai/agents/arxiv-2607-05666.md)
@@ -21911,6 +21910,7 @@ Resources organized by keyword tags.
   - [activepieces/activepieces](../ai/rag/activepieces-activepieces.md)
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
   - [adityatelange/hugo-PaperMod](../ai/resources/adityatelange-hugo-papermod.md)
+  - [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md)
   - [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md)
   - [aiwaves-cn/agents](../ai/rag/aiwaves-cn-agents.md)
   - [akaxlh/MB-GMN](../ai/rag/akaxlh-mb-gmn.md)
@@ -22032,7 +22032,6 @@ Resources organized by keyword tags.
   - [llms.txt directory - Find llms.txt files across the web](../ai/rag/llms-txt-directory-find-llms-txt-files-across-the.md)
   - [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md)
   - [lttemplates - Templates in ltx-talk - TeX - LaTeX Stack Exchange](../ai/agents/lttemplates-templates-in-ltx-talk-tex-latex-stack.md)
-  - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
   - [martiansideofthemoon/rankgen](../ai/resources/martiansideofthemoon-rankgen.md)
   - [martinfowler.com](../ai/resources/martinfowler-com.md)
   - [mastodon/mastodon · Discussions · GitHub](../ai/resources/mastodon-mastodon.md)
@@ -22649,10 +22648,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [A simple fix for LLM tail latency](../ai/community/a-simple-fix-for-llm-tail-latency.md)
 
 ## mdx
 
@@ -41063,7 +41058,6 @@ Resources organized by keyword tags.
   - [rpki-client(8) - OpenBSD manual pages](../ai/agents/rpki-client-8-openbsd-manual-pages.md)
   - [scMIR: a vision-language foundation model for single-cell light microscopy image representation](../ai/research/arxiv-2607-22712.md)
   - [scadastrangelove/awesome-ai-security-tools](../ai/rag/scadastrangelove-awesome-ai-security-tools.md)
-  - [scotthavird/crewai-template](../ai/rag/scotthavird-crewai-template.md)
   - [seehiong/seehiong.github.io](../ai/agents/seehiong-seehiong-github-io.md)
   - [shprink/nonharmful-and-must-have-actions](../ai/resources/shprink-nonharmful-and-must-have-actions.md)
   - [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md)
@@ -44642,7 +44636,6 @@ Resources organized by keyword tags.
   - [C/C++ for Visual Studio Code](../ai/resources/c-c-for-visual-studio-code.md)
   - [C2PA | Verifying Media Content Sources](../ai/resources/c2pa-verifying-media-content-sources.md)
   - [CAGE-1: Control, Assurance, and Governance Evaluation for Enterprise Agentic AI](../ai/rag/arxiv-2607-03510.md)
-  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [CAPRI: Contract-Aware Proof Repair for Isabelle](../ai/research/arxiv-2608-13459.md)
   - [CARB: A Characterization-Guided Framework for CNN Inference Cost Prediction and Deployment Screening](../ai/research/arxiv-2608-10506.md)
   - [CAW | Your Partner in Product Engineering](../ai/resources/caw-your-partner-in-product-engineering.md)
@@ -45830,6 +45823,7 @@ Resources organized by keyword tags.
   - [activepieces/activepieces](../ai/rag/activepieces-activepieces.md)
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
   - [agentuniverse-ai/agentUniverse](../ai/rag/agentuniverse-ai-agentuniverse.md)
+  - [airweave-ai/airweave](../ai/rag/airweave-ai-airweave.md)
   - [alexfazio/crewAI-quickstart](../ai/agents/alexfazio-crewai-quickstart.md)
   - [allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen](../ai/rag/allauth-django-allauth-integrated-set-of-django-ap.md)
   - [astro/CONTRIBUTING.md at main · withastro/astro · GitHub](../ai/rag/withastro-astro.md)
@@ -45910,7 +45904,6 @@ Resources organized by keyword tags.
   - [langfuse/langfuse](../ai/agents/langfuse-langfuse.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
   - [lgesuellip/langgraph-whatsapp-agent](../ai/agents/lgesuellip-langgraph-whatsapp-agent.md)
-  - [liangdabiao/easy_investment_Agent_crewai](../ai/rag/liangdabiao-easy-investment-agent-crewai.md)
   - [library](../ai/rag/library.md)
   - [libvips](../ai/rag/libvips.md)
   - [lighthouse/docs/readme.md at main · GoogleChrome/lighthouse · GitHub](../ai/resources/googlechrome-lighthouse.md)
@@ -45919,7 +45912,6 @@ Resources organized by keyword tags.
   - [llm · PyPI](../ai/rag/llm-pypi.md)
   - [llms.txt directory - Find llms.txt files across the web](../ai/rag/llms-txt-directory-find-llms-txt-files-across-the.md)
   - [lttemplates - Templates in ltx-talk - TeX - LaTeX Stack Exchange](../ai/agents/lttemplates-templates-in-ltx-talk-tex-latex-stack.md)
-  - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
   - [martinfowler.com](../ai/resources/martinfowler-com.md)
   - [mayooear/ai-pdf-chatbot-langchain](../ai/rag/mayooear-ai-pdf-chatbot-langchain.md)
   - [memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](../ai/rag/arxiv-2606-01138.md)
@@ -45968,7 +45960,6 @@ Resources organized by keyword tags.
   - [run-llama/llama_index](../ai/rag/run-llama-llama-index.md)
   - [scMIR: a vision-language foundation model for single-cell light microscopy image representation](../ai/research/arxiv-2607-22712.md)
   - [scadastrangelove/awesome-ai-security-tools](../ai/rag/scadastrangelove-awesome-ai-security-tools.md)
-  - [scotthavird/crewai-template](../ai/rag/scotthavird-crewai-template.md)
   - [shanraisshan/claude-code-best-practice](../ai/agents/shanraisshan-claude-code-best-practice.md)
   - [shanraisshan/codex-cli-best-practice](../ai/agents/shanraisshan-codex-cli-best-practice.md)
   - [shprink/nonharmful-and-must-have-actions](../ai/resources/shprink-nonharmful-and-must-have-actions.md)
@@ -45982,6 +45973,7 @@ Resources organized by keyword tags.
   - [stratum: A System Infrastructure for Massive Agent-Centric ML Workloads](../ai/agents/arxiv-2603-03589.md)
   - [streamlit/example-app-langchain-rag](../ai/rag/streamlit-example-app-langchain-rag.md)
   - [stripe-firebase-extensions/firestore-stripe-payments at master · invertase/stripe-firebase-extensions · GitHub](../ai/resources/stripe-stripe-firebase-extensions.md)
+  - [strnad/CrewAI-Studio](../ai/agents/strnad-crewai-studio.md)
   - [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md)
   - [techwithtim/ProductionGradeRAGPythonApp](../ai/rag/techwithtim-productiongraderagpythonapp.md)
   - [temporalio/temporal](../ai/resources/temporalio-temporal.md)
@@ -48217,4 +48209,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T09:53:39.684974+05:30*
+*Index generated on 2026-08-18T12:56:28.466143+05:30*
