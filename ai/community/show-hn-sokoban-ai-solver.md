@@ -13,13 +13,14 @@ collected_at: '2026-08-18T03:15:19.162159+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-sokoban-ai-solver
 first_seen: '2026-08-17T21:12:58.501970+05:30'
 last_seen: '2026-08-18T03:15:19.162159+05:30'
 last_checked: '2026-08-18T03:15:19.162159+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Sokoban AI Solver
 

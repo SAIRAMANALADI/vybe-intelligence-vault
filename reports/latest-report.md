@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-18T05:12:00.222283+05:30`
+Generated at: `2026-08-18T07:43:58.978329+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,36 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Fairphone 6 and PostmarketOS working main camera** - Score: `81` in category `ai/community` ([Link](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)) ([File](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md))
+- **Israel creates fake think tank in likely attempt to dupe AI chatbots** - Score: `76` in category `ai/community` ([Link](https://responsiblestatecraft.org/israel-influence-chatgpt)) ([File](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md))
+- **My friends all hate AI; I just joined an AI startup** - Score: `26` in category `ai/community` ([Link](https://fast.ai/posts/2026-08-18-returning-to-ai)) ([File](../ai/community/my-friends-all-hate-ai-i-just-joined-an-ai-startup.md))
+- **Repair Cafe – Fix Your Broken Items** - Score: `15` in category `ai/community` ([Link](https://repaircafe.org)) ([File](../ai/community/repair-cafe-fix-your-broken-items.md))
 
 ## Top Trending Resources
 
+- **AI;DR (AI; Didn't Read)** - Score: `596` (+249), Rank Change: `0` ([File](../ai/community/ai-dr-ai-didn-t-read.md))
+- **An update on leaving Gmail for Fastmail** - Score: `112` (+57), Rank Change: `+3` ([File](../ai/community/an-update-on-leaving-gmail-for-fastmail.md))
+- **How to disable or avoid intrusive AI** - Score: `257` (+47), Rank Change: `+1` ([File](../ai/community/how-to-disable-or-avoid-intrusive-ai.md))
+- **AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira** - Score: `317` (+40), Rank Change: `0` ([File](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md))
+- **GPT 5.6 Sol is the best "vision" model OpenAI ever released** - Score: `302` (+25), Rank Change: `0` ([File](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md))
+- **A simple fix for LLM tail latency** - Score: `38` (+25), Rank Change: `0` ([File](../ai/community/a-simple-fix-for-llm-tail-latency.md))
+- **Launch HN: Speko (YC S26) – OpenRouter for Voice AI** - Score: `91` (+11), Rank Change: `0` ([File](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+982` ([File](../ai/rag/malonge-ragoo.md))
 - **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/malonge-ragoo.md))
-- **cloudflare/agentic-inbox** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/cloudflare-agentic-inbox.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
-- **gptme/gptme-agent-template** - Score: `0` (0), Rank Change: `+980` ([File](../ai/agents/gptme-gptme-agent-template.md))
-- **0x4m4/hexstrike-ai** - Score: `0` (0), Rank Change: `+980` ([File](../ai/agents/0x4m4-hexstrike-ai.md))
-- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+980` ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **continuedev/continue** - Score: `0` (0), Rank Change: `+980` ([File](../ai/agents/continuedev-continue.md))
-- **AlexPEClub/ai-coding-starter-kit** - Score: `0` (0), Rank Change: `+980` ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- **facebook/MusicGen** - Score: `0` (0), Rank Change: `+840` ([File](../ai/models/huggingface-spaces-facebook.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+18327`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9238`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+981`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+981`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation** - (Rank Change: `+981`) ([File](../ai/research/arxiv-2608-09035.md))
-- **Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach** - (Rank Change: `+981`) ([File](../ai/rag/arxiv-2608-08636.md))
-- **DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects** - (Rank Change: `+981`) ([File](../ai/research/arxiv-2608-08067.md))
-- **Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation** - (Rank Change: `+981`) ([File](../ai/agents/arxiv-2608-02345.md))
-- **Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning** - (Rank Change: `+981`) ([File](../ai/rag/arxiv-2608-01014.md))
-- **Teffic-Audio: Tell Fact from Fiction** - (Rank Change: `+981`) ([File](../ai/research/arxiv-2607-28351.md))
+- **malonge/RaGOO** - (Rank Change: `+982`) ([File](../ai/rag/malonge-ragoo.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+980`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **Qwen/Qwen3-0.6B** - (Rank Change: `+850`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
+- **BAAI/bge-m3** - (Rank Change: `+850`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **lpiccinelli/unidepth-v2-vitl14** - (Rank Change: `+850`) ([File](../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md))
+- **amazon/chronos-2** - (Rank Change: `+850`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
+- **google/electra-base-discriminator** - (Rank Change: `+850`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+850`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+850`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+850`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +48,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **On AI regulation and messaging** (Category: `ai/community`) ([File](../ai/community/on-ai-regulation-and-messaging.md))
+- **Show HN: Sokoban AI Solver** (Category: `ai/community`) ([File](../ai/community/show-hn-sokoban-ai-solver.md))

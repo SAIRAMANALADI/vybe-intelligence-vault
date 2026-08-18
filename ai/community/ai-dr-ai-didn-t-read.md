@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://rickmanelius.com/p/aidr-ai-didnt-read
 hn_url: https://news.ycombinator.com/item?id=49336573
-score: 347
+score: 596
 author: mooreds
-comments_count: 207
+comments_count: 373
 published_at: '2026-08-18T01:17:15+05:30'
-collected_at: '2026-08-18T03:15:16.308346+05:30'
+collected_at: '2026-08-18T07:25:58.123259+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-dr-ai-didn-t-read
 first_seen: '2026-08-18T03:15:16.308346+05:30'
-last_seen: '2026-08-18T03:15:16.308346+05:30'
-last_checked: '2026-08-18T03:15:16.308346+05:30'
+last_seen: '2026-08-18T07:25:58.123259+05:30'
+last_checked: '2026-08-18T07:25:58.123259+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by mooreds. Score: 347, Comments: 207.
+Hacker News story by mooreds. Score: 596, Comments: 373.
 Original Link: https://www.rickmanelius.com/p/aidr-ai-didnt-read
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: mooreds
-- Score: 347 Upvotes
-- Comments: 207 Discussions
+- Score: 596 Upvotes
+- Comments: 373 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49336573
 - Original Article: https://rickmanelius.com/p/aidr-ai-didnt-read
 

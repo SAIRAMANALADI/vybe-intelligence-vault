@@ -13,13 +13,14 @@ collected_at: '2026-08-18T03:15:19.074071+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:on-ai-regulation-and-messaging
 first_seen: '2026-08-18T00:32:04.932407+05:30'
 last_seen: '2026-08-18T03:15:19.074071+05:30'
 last_checked: '2026-08-18T03:15:19.074071+05:30'
 health_score: 100
 ---
+
 
 # On AI regulation and messaging
 

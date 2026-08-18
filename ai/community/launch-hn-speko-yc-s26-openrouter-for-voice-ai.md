@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://speko.ai
 hn_url: https://news.ycombinator.com/item?id=49332751
-score: 80
+score: 91
 author: abdik
-comments_count: 50
+comments_count: 51
 published_at: '2026-08-17T21:06:18+05:30'
-collected_at: '2026-08-18T03:15:17.259753+05:30'
+collected_at: '2026-08-18T07:25:59.593959+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-speko-yc-s26-openrouter-for-voice-ai
 first_seen: '2026-08-17T21:12:57.948165+05:30'
-last_seen: '2026-08-18T03:15:17.259753+05:30'
-last_checked: '2026-08-18T03:15:17.259753+05:30'
+last_seen: '2026-08-18T07:25:59.593959+05:30'
+last_checked: '2026-08-18T07:25:59.593959+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by abdik. Score: 80, Comments: 50.
+Hacker News story by abdik. Score: 91, Comments: 51.
 Original Link: https://speko.ai/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: abdik
-- Score: 80 Upvotes
-- Comments: 50 Discussions
+- Score: 91 Upvotes
+- Comments: 51 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49332751
 - Original Article: https://speko.ai
 

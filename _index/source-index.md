@@ -16537,11 +16537,13 @@ Resources organized by publisher feed and query sources.
   - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](../ai/community/ai-generated-github-copilot-autofix-allowed-compro.md)
   - [AI;DR (AI; Didn't Read)](../ai/community/ai-dr-ai-didn-t-read.md)
   - [An update on leaving Gmail for Fastmail](../ai/community/an-update-on-leaving-gmail-for-fastmail.md)
+  - [Fairphone 6 and PostmarketOS working main camera](../ai/community/fairphone-6-and-postmarketos-working-main-camera.md)
   - [GPT 5.6 Sol is the best "vision" model OpenAI ever released](../ai/community/gpt-5-6-sol-is-the-best-vision-model-openai-ever-r.md)
   - [How to disable or avoid intrusive AI](../ai/community/how-to-disable-or-avoid-intrusive-ai.md)
+  - [Israel creates fake think tank in likely attempt to dupe AI chatbots](../ai/community/israel-creates-fake-think-tank-in-likely-attempt-t.md)
   - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](../ai/community/launch-hn-speko-yc-s26-openrouter-for-voice-ai.md)
-  - [On AI regulation and messaging](../ai/community/on-ai-regulation-and-messaging.md)
-  - [Show HN: Sokoban AI Solver](../ai/community/show-hn-sokoban-ai-solver.md)
+  - [My friends all hate AI; I just joined an AI startup](../ai/community/my-friends-all-hate-ai-i-just-joined-an-ai-startup.md)
+  - [Repair Cafe – Fix Your Broken Items](../ai/community/repair-cafe-fix-your-broken-items.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -20352,4 +20354,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-18T03:31:31.944616+05:30*
+*Index generated on 2026-08-18T07:42:20.341920+05:30*
