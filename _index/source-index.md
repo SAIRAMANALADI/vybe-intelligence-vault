@@ -17840,8 +17840,11 @@ Resources organized by publisher feed and query sources.
 
   - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [Air Theremin – a browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
-  - [GrapheneOS in 2027 available on high-end Motorola phones](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
-  - [Show HN: Nikon F100 Film Camera Repair Notes](../ai/community/enthdegree-f100.md)
+  - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](../ai/community/arxiv-2503-08679.md)
+  - [Devices with GrapheneOS support should be available in 2027](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
+  - [Extensible Software in the age of LLMs](../ai/community/extensible-software-in-the-age-of-llms.md)
+  - [Mathematics in the Age of AI](../ai/community/arxiv-2608-16753.md)
+  - [Show HN: Frugal Tokens – explore costs and usage across coding agents](../ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -21654,4 +21657,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-19T21:41:15.894377+05:30*
+*Index generated on 2026-08-20T00:51:25.450551+05:30*

@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-155%2C012-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-237%2C653-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--20-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **155,012 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **237,653 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 21,294</p>
-        <p><b>Active:</b> 20,628 | <b>Inactive:</b> 666</p>
+        <p><b>Resources tracked:</b> 22,279</p>
+        <p><b>Active:</b> 21,612 | <b>Inactive:</b> 667</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,273</p>
+        <p><b>Archive Files:</b> 83,950</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 155,012 files</p>
-        <p><b>Last Update:</b> 2026-08-20 00:21 IST</p>
+        <p><b>Total Vault Size:</b> 237,653 files</p>
+        <p><b>Last Update:</b> 2026-08-20 00:54 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,25 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[didilili/ai-agents-from-zero](ai/rag/didilili-ai-agents-from-zero.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[cisco-ai-defense/defenseclaw](ai/agents/cisco-ai-defense-defenseclaw.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[TheAgentCompany/TheAgentCompany](ai/agents/theagentcompany-theagentcompany.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[JCodesMore/ai-website-cloner-template](ai/agents/jcodesmore-ai-website-cloner-template.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** • <kbd>+245 pts</kbd>
+- 🔼 **[Air Theremin – a browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)** • <kbd>+44 pts</kbd>
+- 🔼 **[Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)** • Rank: <kbd>+69</kbd>
+- 🔼 **[Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)** • Rank: <kbd>+69</kbd>
+- 🔼 **[Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)** • Rank: <kbd>+69</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Devices with GrapheneOS support should be available in 2027](ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)** • Score: `511`
+- 🆕 **[Extensible Software in the age of LLMs](ai/community/extensible-software-in-the-age-of-llms.md)** • Score: `47`
+- 🆕 **[Mathematics in the Age of AI](ai/community/arxiv-2608-16753.md)** • Score: `40`
+- 🆕 **[Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](ai/community/arxiv-2503-08679.md)** • Score: `33`
+- 🆕 **[Show HN: Frugal Tokens – explore costs and usage across coding agents](ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md)** • Score: `18`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Show HN: Nikon F100 Film Camera Repair Notes](ai/community/enthdegree-f100.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

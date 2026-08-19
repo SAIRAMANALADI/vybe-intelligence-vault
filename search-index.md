@@ -25158,7 +25158,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.25200>
 
 * **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by kareiva. Score: 252, Comments: 28. Original Link: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
+  * Summary: Hacker News story by kareiva. Score: 497, Comments: 66. Original Link: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war>
 
@@ -25428,7 +25428,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17474>
 
 * **[Air Theremin – a browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by gurov. Score: 147, Comments: 63. Original Link: https://theremin.bizibah.com/
+  * Summary: Hacker News story by gurov. Score: 191, Comments: 70. Original Link: https://theremin.bizibah.com/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://theremin.bizibah.com>
 
@@ -25856,6 +25856,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.11508v1 Announce Type: cross Abstract: Causal discovery, the process of recovering underlying causal structures from observational data, is a fundamental pursuit across scientific disciplines. Over the past decades, numerous algorithms hav
   * Tags: `dataset`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.11508>
+
+* **[Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](ai/community/arxiv-2503-08679.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by florianherrengt. Score: 33, Comments: 22. Original Link: https://arxiv.org/abs/2503.08679
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://arxiv.org/abs/2503.08679>
 
 * **[Chainlink: The Industry-Standard Oracle Platform](ai/rag/chainlink-the-industry-standard-oracle-platform.md)** (`tutorial` | `useful` tier)
   * Summary: - **Unified Oracle Infrastructure**: Chainlink provides a single platform integrating data feeds, cross-chain interoperability (CCIP), privacy (Chainlink Privacy Standard), asset management (DTA), compliance (ACE), and compute (Functions, Automation,
@@ -26332,6 +26337,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2603.04905>
 
+* **[Devices with GrapheneOS support should be available in 2027](ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by exceptione. Score: 511, Comments: 318. Original Link: https://grapheneos.social/@GrapheneOS/117078064184215730
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://grapheneos.social/@grapheneos/117078064184215730>
+
 * **[DevOps Tutorial - GeeksforGeeks](ai/resources/devops-tutorial-geeksforgeeks.md)** (`tutorial` | `useful` tier)
   * Summary: - **DevOps Core Principles**: Combines development and operations to enable faster, more reliable software delivery through automation, collaboration, and continuous delivery (CI/CD), reducing manual errors and improving system reliability. - **Conta
   * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -26626,6 +26636,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Text Marking & Annotation Engine**: A TypeScript-based tool for highlighting, annotating, and presenting source code on the web with support for syntax highlighting, diffs, and inline annotations. - **Modular & Extensible**: Designed for integrat
   * Tags: `github-repo`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/expressive-code/expressive-code#readme>
+
+* **[Extensible Software in the age of LLMs](ai/community/extensible-software-in-the-age-of-llms.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by coloneltcb. Score: 47, Comments: 20. Original Link: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms>
 
 * **[Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness](ai/research/arxiv-2606-18874.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18874v3 Announce Type: replace Abstract: AI systems can increasingly automate scientific workflows, but the reasoning that links prior evidence, generated ideas, experiments and final claims often remains implicit inside model inference. H
@@ -27146,11 +27161,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.19362v1 Announce Type: new Abstract: Graph RAG mitigates hallucinations and stale knowledge in LLMs, particularly for multi-hop question answering. However, existing approaches remain highly fragmented and incompatible. The structural hete
   * Tags: `rag`, `workflows`, `youtube`
   * Source URL: <https://arxiv.org/abs/2607.19362>
-
-* **[GrapheneOS in 2027 available on high-end Motorola phones](ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by exceptione. Score: 402, Comments: 236. Original Link: https://grapheneos.social/@GrapheneOS/117078064184215730
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://grapheneos.social/@grapheneos/117078064184215730>
 
 * **[Greenhouse | Applicant tracking software & hiring platform](ai/rag/greenhouse-applicant-tracking-software-hiring-plat.md)** (`tutorial` | `useful` tier)
   * Summary: - **AI-Powered Hiring Suite**: Integrates **Notetaker** (automated interview transcription/summarization), **Candidate Question Agent** (real-time Q&A for applicants), and **MCP** (modular candidate pipeline management) with existing tools via API/co
@@ -27891,6 +27901,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.16204v1 Announce Type: cross Abstract: Recent growth in reinforcement learning (RL) has surfaced a need for diverse, specialized training environments. Hand-curated environments with fixed task and reward difficulties become ineffective si
   * Tags: `agents`, `benchmark`, `mistral`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.16204>
+
+* **[Mathematics in the Age of AI](ai/community/arxiv-2608-16753.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by jonbaer. Score: 40, Comments: 21. Original Link: https://arxiv.org/abs/2608.16753
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://arxiv.org/abs/2608.16753>
 
 * **[mayooear/ai-pdf-chatbot-langchain](ai/rag/mayooear-ai-pdf-chatbot-langchain.md)** (`benchmark` | `useful` tier)
   * Summary: - **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain, LangGraph, Next.js, and OpenAI for document interaction and agent orchestration. - **Core Functionality**: Enables conversational querying over PDFs via a RAG (Retrieval-Augmente
@@ -28987,10 +29002,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
-* **[Show HN: Nikon F100 Film Camera Repair Notes](ai/community/enthdegree-f100.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by enthdegree. Score: 18, Comments: 6. Original Link: https://github.com/enthdegree/f100
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://github.com/enthdegree/f100>
+* **[Show HN: Frugal Tokens – explore costs and usage across coding agents](ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by dpc94. Score: 18, Comments: 5. Original Link: https://demo.frugaltokens.com/
+  * Tags: `agents`, `hackernews`
+  * Source URL: <https://demo.frugaltokens.com>
 
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
@@ -65398,7 +65413,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11218, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11219, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -73157,7 +73172,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06625>
 
 * **[open-llm-leaderboard/open_llm_leaderboard](ai/models/huggingface-spaces-open-llm-leaderboard.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14078, Downloads: 0)
+  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14079, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/open-llm-leaderboard>
 
@@ -99912,9 +99927,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive RAG guide for LLM application development, detailing full-stack implementation strategies. * Utilizes LangChain and LlamaIndex for RAG orchestration, integrating vector databases like Milvus and graph databases such as Neo4j for knowl
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive guide for RAG application development, leveraging frameworks like LangChain and LlamaIndex for practical implementation. * Explores diverse RAG architectures, integrating vector databases (Milvus), graph databases (Neo4j), and multimo
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -99922,9 +99937,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Comprehensive curriculum for large language model (LLM) application development, targeting novice developers.
-  * Tags: `github-repo`, `jupyter notebook`, `rag`
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * Provides a foundational LLM application development curriculum, primarily delivered through Jupyter Notebooks. * Focuses on practical implementation utilizing the LangChain framework for building LLM-powered applications. * Covers Retrieval-Augment
+  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
@@ -108587,7 +108602,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * RAGTruth: A specialized corpus designed for evaluating and mitigating hallucinations in Retrieval-Augmented
+  * Summary: * RAGTruth provides a dedicated hallucination corpus for evaluating RAG model fidelity
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 

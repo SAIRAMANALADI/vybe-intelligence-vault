@@ -13,13 +13,14 @@ collected_at: '2026-08-19T21:25:02.956364+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:enthdegree/f100
 first_seen: '2026-08-19T21:25:02.956364+05:30'
 last_seen: '2026-08-19T21:25:02.956364+05:30'
 last_checked: '2026-08-19T21:25:02.956364+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Nikon F100 Film Camera Repair Notes
 

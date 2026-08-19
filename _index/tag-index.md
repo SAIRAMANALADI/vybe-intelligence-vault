@@ -3622,6 +3622,7 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: Frugal Tokens – explore costs and usage across coding agents](../ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
@@ -4867,8 +4868,9 @@ Resources organized by keyword tags.
 
   - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [Air Theremin – a browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
-  - [GrapheneOS in 2027 available on high-end Motorola phones](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
-  - [Show HN: Nikon F100 Film Camera Repair Notes](../ai/community/enthdegree-f100.md)
+  - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](../ai/community/arxiv-2503-08679.md)
+  - [Devices with GrapheneOS support should be available in 2027](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
+  - [Mathematics in the Age of AI](../ai/community/arxiv-2608-16753.md)
 
 ## animation
 
@@ -19887,6 +19889,7 @@ Resources organized by keyword tags.
   - [Centre national de la recherche scientifique (CNRS)](../ai/resources/centre-national-de-la-recherche-scientifique-cnrs.md)
   - [Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](../ai/research/arxiv-2510-03520.md)
   - [Chaelsoo/Zetsu](../ai/rag/chaelsoo-zetsu.md)
+  - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](../ai/community/arxiv-2503-08679.md)
   - [Chainlink Fundamentals Course - Cyfrin Updraft](../ai/resources/chainlink-fundamentals-course-cyfrin-updraft.md)
   - [Chainlink Labs](../ai/resources/chainlink-labs.md)
   - [Chainlink: The Industry-Standard Oracle Platform](../ai/rag/chainlink-the-industry-standard-oracle-platform.md)
@@ -20130,6 +20133,7 @@ Resources organized by keyword tags.
   - [Developing your AI BS detector (v2) - Adam Drake](../ai/rag/developing-your-ai-bs-detector-v2-adam-drake.md)
   - [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](../ai/rag/arxiv-2607-29657.md)
   - [Device Invariance using Domain Adaptation on Acoustic Scene Classification](../ai/research/arxiv-2607-25887.md)
+  - [Devices with GrapheneOS support should be available in 2027](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
   - [Diagram Syntax | Mermaid](../ai/resources/diagram-syntax-mermaid.md)
   - [DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing](../ai/research/arxiv-2606-15796.md)
   - [DiffAttack: Evasion Attacks Against Face Recognition via Latent Diffusion Models](../ai/rag/arxiv-2607-28936.md)
@@ -20312,6 +20316,7 @@ Resources organized by keyword tags.
   - [Exploring the relationship between human-centric AI and firm idiosyncratic risks](../ai/research/arxiv-2606-24224.md)
   - [Exponential quantum advantage for learning signals with a single qubit](../ai/research/arxiv-2608-13521.md)
   - [Extended pseudo-spectral physics-informed neural networks for phase-field models](../ai/research/arxiv-2606-24660.md)
+  - [Extensible Software in the age of LLMs](../ai/community/extensible-software-in-the-age-of-llms.md)
   - [Externally Validated Breast Ultrasound Segmentation via Multi-task Learning with BI-RADS-Consistent Morphological Priors](../ai/research/arxiv-2511-15968.md)
   - [Extrapolating the emergence of Hamiltonian chaos with random-feature Hamiltonian neural networks](../ai/agents/arxiv-2607-28977.md)
   - [FADEx: Feature Attribution and Distortion-based Explanation of Dimensionality Reduction](../ai/rag/arxiv-2607-27463.md)
@@ -20563,7 +20568,6 @@ Resources organized by keyword tags.
   - [Graph neural networks in TensorFlow — The TensorFlow Blog](../ai/rag/graph-neural-networks-in-tensorflow-the-tensorflow.md)
   - [GraphAware - YouTube](../ai/resources/graphaware-youtube.md)
   - [GraphRAG-Bench/GraphRAG-Benchmark](../ai/rag/graphrag-bench-graphrag-benchmark.md)
-  - [GrapheneOS in 2027 available on high-end Motorola phones](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
   - [Graphical Models of False Information and Fact Checking Ecosystems](../ai/research/arxiv-2208-11582.md)
   - [Graphical-Probabilistic Modeling of Generative Flows in LLM-Native Software Systems](../ai/rag/arxiv-2606-15943.md)
   - [Graphics Processing Unit (GPU) - PlayStation Specifications - psx-spx](../ai/rag/graphics-processing-unit-gpu-playstation-specifica.md)
@@ -21014,6 +21018,7 @@ Resources organized by keyword tags.
   - [Materials and Molecular Design | Cornell Duffield Engineering](../ai/rag/materials-and-molecular-design-cornell-duffield-en.md)
   - [Materials in Human Experience | Materials Science and Engineering | MIT OpenCourseWare](../ai/resources/materials-in-human-experience-materials-science-an.md)
   - [MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](../ai/rag/arxiv-2604-18584.md)
+  - [Mathematics in the Age of AI](../ai/community/arxiv-2608-16753.md)
   - [Maven Central: org.superml:superml-core](../ai/resources/maven-central-org-superml-superml-core.md)
   - [Max Agency: A Podcast on Building Agents - YouTube](../ai/rag/max-agency-a-podcast-on-building-agents-youtube.md)
   - [Maximum Entropy Inverse Reinforcement Learning for Mean-Field Games with Average Reward](../ai/rag/arxiv-2606-16759.md)
@@ -21685,7 +21690,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Nikon F100 Film Camera Repair Notes](../ai/community/enthdegree-f100.md)
+  - [Show HN: Frugal Tokens – explore costs and usage across coding agents](../ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -22335,8 +22340,8 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -23033,6 +23038,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [Extensible Software in the age of LLMs](../ai/community/extensible-software-in-the-age-of-llms.md)
 
 ## mdx
 
@@ -48880,4 +48889,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-19T21:41:15.654999+05:30*
+*Index generated on 2026-08-20T00:51:25.204307+05:30*

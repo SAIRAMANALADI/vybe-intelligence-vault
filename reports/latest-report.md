@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-20T00:21:00.406379+05:30`
+Generated at: `2026-08-20T00:54:05.976580+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,37 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Devices with GrapheneOS support should be available in 2027** - Score: `511` in category `ai/community` ([Link](https://grapheneos.social/@grapheneos/117078064184215730)) ([File](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md))
+- **Extensible Software in the age of LLMs** - Score: `47` in category `ai/community` ([Link](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms)) ([File](../ai/community/extensible-software-in-the-age-of-llms.md))
+- **Mathematics in the Age of AI** - Score: `40` in category `ai/community` ([Link](https://arxiv.org/abs/2608.16753)) ([File](../ai/community/arxiv-2608-16753.md))
+- **Chain-of-Thought Reasoning in the Wild Is Not Always Faithful** - Score: `33` in category `ai/community` ([Link](https://arxiv.org/abs/2503.08679)) ([File](../ai/community/arxiv-2503-08679.md))
+- **Show HN: Frugal Tokens – explore costs and usage across coding agents** - Score: `18` in category `ai/community` ([Link](https://demo.frugaltokens.com)) ([File](../ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md))
 
 ## Top Trending Resources
 
-- **didilili/ai-agents-from-zero** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/didilili-ai-agents-from-zero.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **cisco-ai-defense/defenseclaw** - Score: `0` (0), Rank Change: `+981` ([File](../ai/agents/cisco-ai-defense-defenseclaw.md))
-- **TheAgentCompany/TheAgentCompany** - Score: `0` (0), Rank Change: `+981` ([File](../ai/agents/theagentcompany-theagentcompany.md))
-- **JCodesMore/ai-website-cloner-template** - Score: `0` (0), Rank Change: `+981` ([File](../ai/agents/jcodesmore-ai-website-cloner-template.md))
-- **SciPhi-AI/R2R** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/sciphi-ai-r2r.md))
-- **NirDiamant/agents-towards-production** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/nirdiamant-agents-towards-production.md))
-- **devloperdevesh/EnterpriseRAG-AI** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/devloperdevesh-enterpriserag-ai.md))
-- **RUC-NLPIR/FlashRAG** - Score: `0` (0), Rank Change: `+21592` ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **coree/awesome-rag** - Score: `0` (0), Rank Change: `+980` ([File](../ai/rag/coree-awesome-rag.md))
+- **A joke domain purchase turned in geopolitical warfare** - Score: `497` (+245), Rank Change: `0` ([File](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md))
+- **Air Theremin – a browser theremin you play by waving at your webcam** - Score: `191` (+44), Rank Change: `0` ([File](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md))
+- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - Score: `0` (0), Rank Change: `+69` ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
+- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - Score: `0` (0), Rank Change: `+69` ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
+- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - Score: `0` (0), Rank Change: `+69` ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
+- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - Score: `0` (0), Rank Change: `+69` ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
+- **Jul 27, 2026AnnouncementsOur position on open-weights models** - Score: `0` (0), Rank Change: `+69` ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
+- **Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations** - Score: `0` (0), Rank Change: `+69` ([File](../ai/companies/anthropic/jul-30-2026investigating-three-real-world-incident.md))
+- **Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer** - Score: `0` (0), Rank Change: `+69` ([File](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md))
+- **Aug 7, 2026ProductImproving Fable 5's biology safeguards** - Score: `0` (0), Rank Change: `+69` ([File](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21592`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9239`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+982`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+982`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+982`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+982`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+982`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+982`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+982`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+982`) ([File](../ai/research/arxiv-2606-09123.md))
+- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
+- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
+- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
+- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
+- **Jul 27, 2026AnnouncementsOur position on open-weights models** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
+- **Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/jul-30-2026investigating-three-real-world-incident.md))
+- **Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md))
+- **Aug 7, 2026ProductImproving Fable 5's biology safeguards** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md))
+- **Aug 14, 2026AnnouncementsHow Claude’s text watermark works** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md))
+- **ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.** - (Rank Change: `+69`) ([File](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +49,4 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Show HN: Nikon F100 Film Camera Repair Notes** (Category: `ai/community`) ([File](../ai/community/enthdegree-f100.md))
