@@ -17839,6 +17839,8 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI usage patterns in software teams](../ai/community/ai-usage-patterns-in-software-teams.md)
+  - [Air Theremin – a browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
+  - [GrapheneOS in 2027 available on high-end Motorola phones](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -21651,4 +21653,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-19T15:43:56.478484+05:30*
+*Index generated on 2026-08-19T19:03:38.745693+05:30*

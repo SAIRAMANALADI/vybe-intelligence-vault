@@ -4866,6 +4866,8 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI usage patterns in software teams](../ai/community/ai-usage-patterns-in-software-teams.md)
+  - [Air Theremin – a browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
+  - [GrapheneOS in 2027 available on high-end Motorola phones](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
 
 ## animation
 
@@ -16287,6 +16289,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Path2ST: Hierarchical Cell-Tissue Grounded Cross-Modal Translation for Spatial Transcriptomics](../ai/research/arxiv-2608-14710.md)
@@ -19610,6 +19613,7 @@ Resources organized by keyword tags.
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
+  - [Air Theremin – a browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
   - [Algebraic Decomposition Theory for Transformer Length Generalization](../ai/research/arxiv-2608-13433.md)
@@ -20559,6 +20563,7 @@ Resources organized by keyword tags.
   - [Graph neural networks in TensorFlow — The TensorFlow Blog](../ai/rag/graph-neural-networks-in-tensorflow-the-tensorflow.md)
   - [GraphAware - YouTube](../ai/resources/graphaware-youtube.md)
   - [GraphRAG-Bench/GraphRAG-Benchmark](../ai/rag/graphrag-bench-graphrag-benchmark.md)
+  - [GrapheneOS in 2027 available on high-end Motorola phones](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
   - [Graphical Models of False Information and Fact Checking Ecosystems](../ai/research/arxiv-2208-11582.md)
   - [Graphical-Probabilistic Modeling of Generative Flows in LLM-Native Software Systems](../ai/rag/arxiv-2606-15943.md)
   - [Graphics Processing Unit (GPU) - PlayStation Specifications - psx-spx](../ai/rag/graphics-processing-unit-gpu-playstation-specifica.md)
@@ -48871,4 +48876,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-19T15:43:56.246017+05:30*
+*Index generated on 2026-08-19T19:03:38.490032+05:30*
