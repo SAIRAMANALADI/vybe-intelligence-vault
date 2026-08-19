@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://linear.app/data
 hn_url: https://news.ycombinator.com/item?id=49353432
-score: 71
+score: 118
 author: giuliomagnifico
-comments_count: 37
+comments_count: 61
 published_at: '2026-08-19T03:38:07+05:30'
-collected_at: '2026-08-19T09:36:07.834265+05:30'
+collected_at: '2026-08-19T12:42:44.999611+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-usage-patterns-in-software-teams
 first_seen: '2026-08-19T07:30:04.634899+05:30'
-last_seen: '2026-08-19T09:36:07.834265+05:30'
-last_checked: '2026-08-19T09:36:07.834265+05:30'
+last_seen: '2026-08-19T12:42:44.999611+05:30'
+last_checked: '2026-08-19T12:42:44.999611+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by giuliomagnifico. Score: 71, Comments: 37.
+Hacker News story by giuliomagnifico. Score: 118, Comments: 61.
 Original Link: https://linear.app/data
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: giuliomagnifico
-- Score: 71 Upvotes
-- Comments: 37 Discussions
+- Score: 118 Upvotes
+- Comments: 61 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49353432
 - Original Article: https://linear.app/data
 

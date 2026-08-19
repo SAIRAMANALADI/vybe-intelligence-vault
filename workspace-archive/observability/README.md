@@ -24,8 +24,8 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-08-19 09:54 IST*
+*Last updated: 2026-08-19 13:00 IST*

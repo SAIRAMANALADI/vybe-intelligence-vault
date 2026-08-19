@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-08-11T00:56:04.097905+05:30'
-published_at: '2026-08-10T02:04:17Z'
+collected_at: '2026-08-19T12:44:55.741904+05:30'
+published_at: '2026-08-19T02:20:56Z'
 tags:
 - agents
 - github-repo
+- python
 - rag
-- typescript
-stars: 15
-language: TypeScript
+stars: 18
+language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-01-02T09:29:28Z'
-pushed_at: '2026-07-24T08:10:54Z'
+pushed_at: '2026-08-14T14:23:47Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-08-11T00:56:04.097905+05:30'
-last_seen: '2026-08-11T00:56:04.097905+05:30'
-last_checked: '2026-08-11T00:56:04.097905+05:30'
+first_seen: '2026-08-19T12:44:55.741904+05:30'
+last_seen: '2026-08-19T12:44:55.741904+05:30'
+last_checked: '2026-08-19T12:44:55.741904+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-level system monitoring and enforcement, optimized for Linux environments.
-
-- **Enterprise-Grade RAG Pipeline**: Deploys a FastAPI-based backend with TypeScript for vector database (RAG) operations, supporting scalable GenAI and LLM integrations for SaaS-AI applications.
-
-- **Governance & Security Focus**: Enforces enterprise-grade security policies and audit trails for AI workloads, leveraging vector DBs for contextual governance and compliance.
+*   Implements an eBPF-powered, Linux-native security and governance mesh specifically for AI agent workloads.
+*   Focuses on Enterprise Retrieval Augmented Generation (RAG) patterns, integrating LLMs and vector databases for GenAI applications.
+*   Developed in Python, utilizing FastAPI for the backend architecture to support scalable RAG and AI agent deployments.
 
 ## Why It Matters
 
@@ -42,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: devloperdevesh
-- Stars: 15
-- Forks: 61
-- Language: TypeScript
+- Stars: 18
+- Forks: 60
+- Language: Python
 - Topics: backend, fastapi, genai, llm, rag, saas-ai, vector-db
-- Last Updated: 2026-08-10T02:04:17Z
+- Last Updated: 2026-08-19T02:20:56Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-02T09:29:28Z
-- Pushed At: 2026-07-24T08:10:54Z
+- Pushed At: 2026-08-14T14:23:47Z
 
 ## Possible Use Cases
 

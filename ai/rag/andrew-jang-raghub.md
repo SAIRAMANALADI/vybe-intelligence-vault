@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Andrew-Jang/RAGHub
-collected_at: '2026-08-13T13:31:28.622800+05:30'
-published_at: '2026-08-12T16:02:55Z'
+collected_at: '2026-08-19T12:43:40.664805+05:30'
+published_at: '2026-08-17T21:57:34Z'
 tags:
 - github-repo
 - hackernews
-- models
 - rag
 - unknown
 stars: 1983
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-10-02T12:07:52Z'
 pushed_at: '2026-07-28T00:51:39Z'
 resource_id: github:andrew-jang/raghub
-first_seen: '2026-08-13T13:31:28.622800+05:30'
-last_seen: '2026-08-13T13:31:28.622800+05:30'
-last_checked: '2026-08-13T13:31:28.622800+05:30'
+first_seen: '2026-08-19T12:43:40.664805+05:30'
+last_seen: '2026-08-19T12:43:40.664805+05:30'
+last_checked: '2026-08-19T12:43:40.664805+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Aggregates RAG (Retrieval-Augmented Generation) frameworks, projects, and technical resources.
-*   Specializes in AI, LLM, and NLP applications within the RAG paradigm.
-*   Functions as an open-source, community-driven hub for RAG ecosystem development and exploration.
+*   Aggregates and curates a diverse collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and technical resources.
+*   Centralizes open-source RAG implementations, specifically targeting LLM and NLP application development.
+*   Functions as a community-driven hub for contributing to and exploring the evolving RAG ecosystem.
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 182
 - Language: Unknown
 - Topics: ai, artificial-intelligence, large-language-models, llm, machine-learning, natural-language-processing, nlp, open-source, rag, retrieval-augmented-generation
-- Last Updated: 2026-08-12T16:02:55Z
+- Last Updated: 2026-08-17T21:57:34Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-02T12:07:52Z

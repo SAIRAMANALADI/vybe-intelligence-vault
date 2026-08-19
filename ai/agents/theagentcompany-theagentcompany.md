@@ -4,16 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TheAgentCompany/TheAgentCompany
-collected_at: '2026-08-10T16:15:51.262510+05:30'
-published_at: '2026-08-06T02:09:51Z'
+collected_at: '2026-08-19T12:46:30.888221+05:30'
+published_at: '2026-08-17T11:12:42Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
-- workflows
-stars: 757
+stars: 766
 language: Python
 status: active
 license: MIT
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-03-11T09:08:11Z'
 pushed_at: '2025-11-17T20:31:16Z'
 resource_id: github:theagentcompany/theagentcompany
-first_seen: '2026-08-10T16:15:51.262510+05:30'
-last_seen: '2026-08-10T16:15:51.262510+05:30'
-last_checked: '2026-08-10T16:15:51.262510+05:30'
+first_seen: '2026-08-19T12:46:30.888221+05:30'
+last_seen: '2026-08-19T12:46:30.888221+05:30'
+last_checked: '2026-08-19T12:46:30.888221+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Simulated software company environment for benchmarking AI agents on complex, multi-step tasks.
-- **Technical Stack**: Python-based framework with LLM integration for evaluating agent performance in software development workflows.
-- **Metrics**: Focuses on task completion, efficiency, and adaptability in simulated professional scenarios.
+*   Python-based benchmark suite for evaluating AI agents in a simulated software company environment.
+*   Features tasks designed to assess LLM and general AI agent performance within a multi-agent operational context.
+*   Aims to provide a standardized evaluation framework for AI agent research and development.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TheAgentCompany
-- Stars: 757
+- Stars: 766
 - Forks: 121
 - Language: Python
 - Topics: agent, ai, ai-benchmark, ai-research, benchmark, llm
-- Last Updated: 2026-08-06T02:09:51Z
+- Last Updated: 2026-08-17T11:12:42Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-11T09:08:11Z
