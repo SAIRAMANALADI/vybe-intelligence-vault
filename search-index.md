@@ -25157,6 +25157,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `models`, `workflows`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.25200>
 
+* **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by kareiva. Score: 252, Comments: 28. Original Link: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
+  * Tags: `ai`, `hackernews`, `reddit`
+  * Source URL: <https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war>
+
 * **[A Machine Learning Surrogate for Component Criticality Ranking in Interdependent Power-Communication Networks](ai/research/arxiv-2607-08918.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.08918v2 Announce Type: replace Abstract: Cyber-physical power systems are vulnerable to cascading failures caused by interdependencies between power and communication infrastructures. Because evaluating large N-k contingency sets with a hi
   * Tags: `benchmark`, `paper`, `workflows`
@@ -25392,11 +25397,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.02679>
 
-* **[AI usage patterns in software teams](ai/community/ai-usage-patterns-in-software-teams.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by giuliomagnifico. Score: 157, Comments: 100. Original Link: https://linear.app/data
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://linear.app/data>
-
 * **[AI-Assisted Computational Reproducibility on the FABRIC Testbed](ai/research/arxiv-2606-25879.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25879v1 Announce Type: cross Abstract: Computational reproducibility remains difficult despite being central to scientific research. In this paper, we show how the international FABRIC testbed, combined with large language model (LLM) codi
   * Tags: `benchmark`, `paper`, `workflows`
@@ -25428,7 +25428,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17474>
 
 * **[Air Theremin – a browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by gurov. Score: 90, Comments: 42. Original Link: https://theremin.bizibah.com/
+  * Summary: Hacker News story by gurov. Score: 147, Comments: 63. Original Link: https://theremin.bizibah.com/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://theremin.bizibah.com>
 
@@ -27148,7 +27148,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.19362>
 
 * **[GrapheneOS in 2027 available on high-end Motorola phones](ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by exceptione. Score: 163, Comments: 70. Original Link: https://grapheneos.social/@GrapheneOS/117078064184215730
+  * Summary: Hacker News story by exceptione. Score: 402, Comments: 236. Original Link: https://grapheneos.social/@GrapheneOS/117078064184215730
   * Tags: `ai`, `hackernews`
   * Source URL: <https://grapheneos.social/@grapheneos/117078064184215730>
 
@@ -28986,6 +28986,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
+
+* **[Show HN: Nikon F100 Film Camera Repair Notes](ai/community/enthdegree-f100.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by enthdegree. Score: 18, Comments: 6. Original Link: https://github.com/enthdegree/f100
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://github.com/enthdegree/f100>
 
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
@@ -67277,9 +67282,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2607.08152>
 
-* **[LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](ai/models/huggingface-blog-liquidai-lfm2-5-vl-3b.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge
-  * Source URL: <https://huggingface.co/blog/liquidai/lfm2-5-vl-3b>
+* **[LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](ai/models/huggingface-blog-liquidai-qad.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/liquidai/qad>
 
 * **[LHM-Humanoid: Long-Horizon Human Motion Control for Continuous Object Transport in Cluttered Scenes](ai/research/arxiv-2508-16943.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2508.16943v3 Announce Type: replace-cross Abstract: Physics-based human motion control can make a simulated character walk, sit, and manipulate objects with high physical realism. Almost always, though, this happens in short, isolated clips tha
@@ -74101,11 +74107,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2608.02844>
 
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized hallucination corpus for evaluating and improving the trustworthiness of Retrieval-Augmented Language Models (RAG). * Facilitates the development of robust RAG architectures by providing a dataset for identifying
-  * Tags: `dataset`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
-
 * **[PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning](ai/research/arxiv-2601-13020.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.13020v2 Announce Type: replace-cross Abstract: Continual instruction tuning (CIT) requires multimodal large language models (MLLMs) to adapt to a stream of tasks without forgetting prior capabilities. A common strategy is to isolate update
   * Tags: `benchmark`, `models`
@@ -77005,7 +77006,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1520, Downloads: 28202544)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1521, Downloads: 28202544)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -81094,7 +81095,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5223, Downloads: 257979686)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5224, Downloads: 257979686)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -99911,9 +99912,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive RAG development guide covering full-stack implementation and practical application. *
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive RAG guide for LLM application development, detailing full-stack implementation strategies. * Utilizes LangChain and LlamaIndex for RAG orchestration, integrating vector databases like Milvus and graph databases such as Neo4j for knowl
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -99922,7 +99923,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Curriculum for Large Language Model (LLM) application development. * Implemented using
+  * Summary: * Comprehensive curriculum for large language model (LLM) application development, targeting novice developers.
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -108585,6 +108586,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * RAGTruth: A specialized corpus designed for evaluating and mitigating hallucinations in Retrieval-Augmented
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
+
 * **[PAS-QFL: Personalized Ansatz Selection for Quantum Federated Learning under Client Data Heterogeneity](ai/rag/arxiv-2608-14995.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.14995v1 Announce Type: cross Abstract: Quantum federated learning (QFL) lets multiple quantum clients collaboratively train quantum neural networks (QNNs) without sharing private local data. However, existing QFL methods commonly assume th
   * Tags: `paper`, `rag`
@@ -109781,7 +109787,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for raganwald.com. * Primary content rendered in HTML. * Features 30 stars, 60 forks, last updated 2026-07-08T15:07:53Z.
+  * Summary: * Jekyll source repository (`raganwald/raganwald.github.com`) for
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

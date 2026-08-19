@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-155%2C009-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-237%2C643-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--19-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **155,009 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **237,643 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 21,292</p>
-        <p><b>Active:</b> 20,627 | <b>Inactive:</b> 665</p>
+        <p><b>Resources tracked:</b> 22,275</p>
+        <p><b>Active:</b> 21,609 | <b>Inactive:</b> 666</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,272</p>
+        <p><b>Archive Files:</b> 83,945</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 155,009 files</p>
-        <p><b>Last Update:</b> 2026-08-19 20:16 IST</p>
+        <p><b>Total Vault Size:</b> 237,643 files</p>
+        <p><b>Last Update:</b> 2026-08-19 21:43 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,23 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[didilili/ai-agents-from-zero](ai/rag/didilili-ai-agents-from-zero.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[cisco-ai-defense/defenseclaw](ai/agents/cisco-ai-defense-defenseclaw.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[TheAgentCompany/TheAgentCompany](ai/agents/theagentcompany-theagentcompany.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[JCodesMore/ai-website-cloner-template](ai/agents/jcodesmore-ai-website-cloner-template.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[GrapheneOS in 2027 available on high-end Motorola phones](ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)** • <kbd>+239 pts</kbd>
+- 🔼 **[Air Theremin – a browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)** • <kbd>+57 pts</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+997</kbd>
+- 🔼 **[Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[Next.js 5.1: Faster Page Resolution, Environment Config & More](web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md)** • Rank: <kbd>+10</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** • Score: `252`
+- 🆕 **[Show HN: Nikon F100 Film Camera Repair Notes](ai/community/enthdegree-f100.md)** • Score: `18`
+- 🆕 **[LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](ai/models/huggingface-blog-liquidai-qad.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[AI usage patterns in software teams](ai/community/ai-usage-patterns-in-software-teams.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

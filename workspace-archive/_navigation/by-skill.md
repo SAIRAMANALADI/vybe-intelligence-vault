@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 
 ---
-*Last updated: 2026-08-19 19:05 IST*
+*Last updated: 2026-08-19 21:42 IST*

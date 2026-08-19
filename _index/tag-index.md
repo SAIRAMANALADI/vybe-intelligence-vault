@@ -4865,9 +4865,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI usage patterns in software teams](../ai/community/ai-usage-patterns-in-software-teams.md)
+  - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [Air Theremin – a browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
   - [GrapheneOS in 2027 available on high-end Motorola phones](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
+  - [Show HN: Nikon F100 Film Camera Repair Notes](../ai/community/enthdegree-f100.md)
 
 ## animation
 
@@ -16289,7 +16290,6 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
   - [Path2ST: Hierarchical Cell-Tissue Grounded Cross-Modal Translation for Spatial Transcriptomics](../ai/research/arxiv-2608-14710.md)
@@ -19468,6 +19468,7 @@ Resources organized by keyword tags.
   - [A Van Trees Lower Bound for Fully Interactive Differentially Private Federated Learning](../ai/research/arxiv-2605-19813.md)
   - [A Vision Transformer for ECG-Based Detection of Left Ventricular Systolic Dysfunction Across Multiple Clinical Sites](../ai/research/arxiv-2608-14723.md)
   - [A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility](../ai/rag/arxiv-2607-24663.md)
+  - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [A matched-integrator evaluation of Hamiltonian neural networks on pendulum and Kepler dynamics](../ai/research/arxiv-2608-10235.md)
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
@@ -19508,7 +19509,6 @@ Resources organized by keyword tags.
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
-  - [AI usage patterns in software teams](../ai/community/ai-usage-patterns-in-software-teams.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
   - [AI+X](../ai/resources/ai-x.md)
@@ -21685,6 +21685,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Nikon F100 Film Camera Repair Notes](../ai/community/enthdegree-f100.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -22334,6 +22335,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -25671,6 +25673,7 @@ Resources organized by keyword tags.
   - [LEMUR: Latent Entropy-aware Multimodal Unlearning via Visual-anchored Reasoning Redirection](../ai/rag/arxiv-2608-11691.md)
   - [LENS: In-Context Search via Latent Evidence Exploration over Dynamic Raw Documents](../ai/rag/arxiv-2608-16185.md)
   - [LEPO: Latent Reasoning Policy Optimization for Large Language Models](../ai/rag/arxiv-2604-17892.md)
+  - [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](../ai/models/huggingface-blog-liquidai-qad.md)
   - [LGQ: Learnable Geometric Quantization for Image Tokenization](../ai/rag/arxiv-2602-16086.md)
   - [LIBMoE: A Library for comprehensive benchmarking Mixture of Experts in Large Language Models](../ai/rag/arxiv-2411-00918.md)
   - [LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in Physics Informed Neural Networks](../ai/rag/arxiv-2607-14233.md)
@@ -39501,6 +39504,7 @@ Resources organized by keyword tags.
   - [A Missing Piece in Climate Models: Nature’s Own Emissions - Yale E360](../ai/rag/a-missing-piece-in-climate-models-natures-own-emis.md)
   - [A Tour of Gemini Code Assist Standard and Enterprise for Developers in Google Cloud Shell Editor | Google Codelabs](../ai/rag/a-tour-of-gemini-code-assist-standard-and-enterpri.md)
   - [A Unifying Lens on Reward Uncertainty in RLHF](../ai/research/arxiv-2606-09073.md)
+  - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md)
   - [A/B (seamless) system updates | Android Open Source Project](../ai/rag/a-b-seamless-system-updates-android-open-source-pr.md)
   - [AB 540 nonresident tuition exemption | UC Admissions](../ai/resources/ab-540-nonresident-tuition-exemption-uc-admissions.md)
@@ -48876,4 +48880,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-19T19:03:38.490032+05:30*
+*Index generated on 2026-08-19T21:41:15.654999+05:30*

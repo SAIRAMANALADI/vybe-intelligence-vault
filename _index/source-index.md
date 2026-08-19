@@ -17838,9 +17838,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI usage patterns in software teams](../ai/community/ai-usage-patterns-in-software-teams.md)
+  - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [Air Theremin – a browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
   - [GrapheneOS in 2027 available on high-end Motorola phones](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
+  - [Show HN: Nikon F100 Film Camera Repair Notes](../ai/community/enthdegree-f100.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -18313,7 +18314,7 @@ Resources organized by publisher feed and query sources.
   - [Kimina-Prover-RL](../ai/models/huggingface-blog-ai-mo-kimina-prover-rl.md)
   - [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](../ai/models/huggingface-blog-ai-mo-kimina-prover.md)
   - [LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)
-  - [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](../ai/models/huggingface-blog-liquidai-lfm2-5-vl-3b.md)
+  - [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](../ai/models/huggingface-blog-liquidai-qad.md)
   - [LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](../ai/models/huggingface-blog-llm-inference-on-edge.md)
   - [Large Language Models: A New Moore's Law?](../ai/models/huggingface-blog-large-language-models.md)
   - [Large-scale Near-deduplication Behind BigCode](../ai/models/huggingface-blog-dedup.md)
@@ -21653,4 +21654,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-19T19:03:38.745693+05:30*
+*Index generated on 2026-08-19T21:41:15.894377+05:30*
