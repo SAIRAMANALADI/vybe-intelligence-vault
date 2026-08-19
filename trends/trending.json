@@ -1,94 +1,29 @@
 {
-  "generated_at": "2026-08-20T03:58:55.891863+05:30",
+  "generated_at": "2026-08-20T04:57:58.716173+05:30",
   "trending_resources": [
     {
-      "id": "hackernews:a-joke-domain-purchase-turned-in-geopolitical-warf",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war",
-      "file_path": "ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md",
-      "score": 658,
-      "score_change": 161,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2608.16753",
-      "title": "Mathematics in the age of AI",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "file_path": "ai/community/arxiv-2608-16753.md",
-      "score": 87,
-      "score_change": 47,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:devices-with-grapheneos-support-should-be-availabl",
-      "title": "Devices with GrapheneOS support should be available in 2027",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://grapheneos.social/@grapheneos/117078064184215730",
-      "file_path": "ai/community/grapheneos-in-2027-available-on-high-end-motorola.md",
-      "score": 556,
-      "score_change": 45,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:extensible-software-in-the-age-of-llms",
-      "title": "Extensible Software in the age of LLMs",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-      "file_path": "ai/community/extensible-software-in-the-age-of-llms.md",
-      "score": 85,
-      "score_change": 38,
-      "rank_change": -2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:air-theremin-a-browser-theremin-you-play-by-waving",
-      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://theremin.bizibah.com",
-      "file_path": "ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md",
-      "score": 224,
-      "score_change": 33,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
+      "id": "github:datawhalechina/llm-universe",
+      "title": "datawhalechina/llm-universe",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "url": "https://github.com/datawhalechina/llm-universe",
+      "file_path": "ai/rag/datawhalechina-llm-universe.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 985,
+      "rank_change": 981,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
+      "id": "github:particlemedia/ragtruth",
+      "title": "ParticleMedia/RAGTruth",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
+      "url": "https://github.com/particlemedia/ragtruth",
+      "file_path": "ai/rag/particlemedia-ragtruth.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 2,
+      "rank_change": 981,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +36,7 @@
       "file_path": "ai/rag/didilili-ai-agents-from-zero.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 982,
+      "rank_change": 981,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +49,7 @@
       "file_path": "ai/rag/sylphai-inc-githubchat.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 982,
+      "rank_change": 981,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +62,72 @@
       "file_path": "ai/agents/cisco-ai-defense-defenseclaw.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 982,
+      "rank_change": 981,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:theagentcompany/theagentcompany",
+      "title": "TheAgentCompany/TheAgentCompany",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/theagentcompany/theagentcompany",
+      "file_path": "ai/agents/theagentcompany-theagentcompany.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 981,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:jcodesmore/ai-website-cloner-template",
+      "title": "JCodesMore/ai-website-cloner-template",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/jcodesmore/ai-website-cloner-template",
+      "file_path": "ai/agents/jcodesmore-ai-website-cloner-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 981,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:sciphi-ai/r2r",
+      "title": "SciPhi-AI/R2R",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/sciphi-ai/r2r",
+      "file_path": "ai/rag/sciphi-ai-r2r.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 981,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:nirdiamant/agents-towards-production",
+      "title": "NirDiamant/agents-towards-production",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/nirdiamant/agents-towards-production",
+      "file_path": "ai/rag/nirdiamant-agents-towards-production.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 981,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:devloperdevesh/enterpriserag-ai",
+      "title": "devloperdevesh/EnterpriseRAG-AI",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/devloperdevesh/enterpriserag-ai",
+      "file_path": "ai/rag/devloperdevesh-enterpriserag-ai.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 981,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -142,7 +142,7 @@
       "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 21593,
+      "rank_change": 21592,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -155,20 +155,7 @@
       "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 9240,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 985,
+      "rank_change": 9239,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +168,7 @@
       "file_path": "ai/rag/microsoft-rag-time.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 982,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +181,7 @@
       "file_path": "ai/research/arxiv-2608-02392.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 982,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/rag/arxiv-2608-02046.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 982,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/rag/arxiv-2608-01791.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 982,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/rag/arxiv-2608-01207.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 982,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/research/arxiv-2606-23462.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 982,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,25 +246,25 @@
       "file_path": "ai/research/arxiv-2606-22216.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 982,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09123",
+      "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09123",
+      "file_path": "ai/research/arxiv-2606-09123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 982,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
-    {
-      "id": "hackernews:google-replaced-git-tags-for-certain-source-code-w",
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://grapheneos.social/@grapheneos/117057099753905023",
-      "file_path": "ai/community/google-replaced-git-tags-for-certain-source-code-w.md",
-      "score": 137,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
@@ -292,24 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "arxiv:2503.08679",
-      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://arxiv.org/abs/2503.08679",
-      "file_path": "ai/community/arxiv-2503-08679.md"
-    },
-    {
-      "id": "hackernews:show-hn-frugal-tokens-explore-costs-and-usage-acro",
-      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://demo.frugaltokens.com",
-      "file_path": "ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 155,018 files</p>
-        <p><b>Last Update:</b> 2026-08-20 03:58 IST</p>
+        <p><b>Last Update:</b> 2026-08-20 04:57 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,23 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** • <kbd>+161 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Mathematics in the age of AI](ai/community/arxiv-2608-16753.md)** • <kbd>+47 pts</kbd>
-- 🔼 **[Devices with GrapheneOS support should be available in 2027](ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)** • <kbd>+45 pts</kbd>
-- 🔼 **[Extensible Software in the age of LLMs](ai/community/extensible-software-in-the-age-of-llms.md)** • <kbd>+38 pts</kbd>
-- 🔼 **[Air Theremin – A browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)** • <kbd>+33 pts</kbd>
+- 🔼 **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[didilili/ai-agents-from-zero](ai/rag/didilili-ai-agents-from-zero.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[cisco-ai-defense/defenseclaw](ai/agents/cisco-ai-defense-defenseclaw.md)** • Rank: <kbd>+981</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Google replaced Git tags for certain source code with obtaining via Google Drive](ai/community/google-replaced-git-tags-for-certain-source-code-w.md)** • Score: `137`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](ai/community/arxiv-2503-08679.md)**
-- 💤 **[Show HN: Frugal Tokens – explore costs and usage across coding agents](ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
