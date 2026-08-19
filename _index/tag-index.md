@@ -4781,10 +4781,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](../ai/community/data-centers-raise-nearby-temperatures-by-up-to-4.md)
-  - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
-  - [Norway Should Buy OpenAI](../ai/community/norway-should-buy-openai.md)
-  - [Show HN: macOS data protection keychain for Electron apps](../ai/community/biw-keychain-store.md)
+  - [AI usage patterns in software teams](../ai/community/ai-usage-patterns-in-software-teams.md)
+  - [Norway should buy OpenAI](../ai/community/norway-should-buy-openai.md)
   - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
 
 ## animation
@@ -19156,6 +19154,7 @@ Resources organized by keyword tags.
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
+  - [AI usage patterns in software teams](../ai/community/ai-usage-patterns-in-software-teams.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
   - [AI+X](../ai/resources/ai-x.md)
@@ -19703,7 +19702,6 @@ Resources organized by keyword tags.
   - [Data Center Company & Enterprise Network Technologies | Equinix](../ai/resources/data-center-company-enterprise-network-technologie.md)
   - [Data Intelligence Lab@HKU](../ai/rag/data-intelligence-lab-hku.md)
   - [Data Structures and Algorithms (DSA) Course + Certificate | W3Schools — W3Schools.com](../web-development/data-structures-and-algorithms-dsa-course-certific.md)
-  - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](../ai/community/data-centers-raise-nearby-temperatures-by-up-to-4.md)
   - [Data protection adequacy for non-EU countries](../ai/rag/data-protection-adequacy-for-non-eu-countries.md)
   - [Data tools | resources.data.gov](../ai/agents/data-tools-resources-data-gov.md)
   - [Data-Aware and Scalable Sensitivity Analysis for Decision Tree Ensembles](../ai/research/arxiv-2602-07453.md)
@@ -19959,7 +19957,6 @@ Resources organized by keyword tags.
   - [Fail-Aware and Explainable Test Oracle Prediction](../ai/research/arxiv-2607-11342.md)
   - [FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation](../ai/research/arxiv-2607-28934.md)
   - [Fairness in Augmented Graph Learning: A Survey](../ai/research/arxiv-2504-21296.md)
-  - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
   - [Faithful Autoformalization of Natural Language Assertions](../ai/rag/arxiv-2607-13303.md)
   - [FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking](../ai/rag/arxiv-2607-26641.md)
   - [Falco](../ai/rag/falco.md)
@@ -20784,7 +20781,7 @@ Resources organized by keyword tags.
   - [Nondiscrimination Policy | Stanford University Bulletin](../ai/resources/nondiscrimination-policy-stanford-university-bulle.md)
   - [Nonlinear Laplacians Improve Signed-Directed Graph Learning](../ai/rag/arxiv-2608-00836.md)
   - [Nonparametric Control Koopman Operators](../ai/research/arxiv-2405-07312.md)
-  - [Norway Should Buy OpenAI](../ai/community/norway-should-buy-openai.md)
+  - [Norway should buy OpenAI](../ai/community/norway-should-buy-openai.md)
   - [Not All Neighbors Matter: Understanding the Impact of Graph Sparsification on GNN Pipelines](../ai/research/arxiv-2603-06952.md)
   - [Nothing Personal, a new editorial platform by Mozilla Foundation - Mozilla Foundation](../ai/rag/nothing-personal-a-new-editorial-platform-by-mozil.md)
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
@@ -21303,7 +21300,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: macOS data protection keychain for Electron apps](../ai/community/biw-keychain-store.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -27708,7 +27704,7 @@ Resources organized by keyword tags.
   - [NirDiamant/RAG_TECHNIQUES](../ai/rag/nirdiamant-rag-techniques.md)
   - [NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs](../ai/agents/arxiv-2608-07167.md)
   - [Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery](../ai/rag/arxiv-2608-15919.md)
-  - [Norway Should Buy OpenAI](../ai/community/norway-should-buy-openai.md)
+  - [Norway should buy OpenAI](../ai/community/norway-should-buy-openai.md)
   - [Not All Skills Help: Measuring and Repairing Agent Knowledge](../ai/agents/arxiv-2606-15390.md)
   - [Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems](../ai/agents/arxiv-2608-13571.md)
   - [NousResearch/hermes-agent](../ai/agents/nousresearch-hermes-agent.md)
@@ -48203,4 +48199,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-19T03:36:27.262222+05:30*
+*Index generated on 2026-08-19T07:46:20.323970+05:30*

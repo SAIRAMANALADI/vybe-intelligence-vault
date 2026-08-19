@@ -13,13 +13,14 @@ collected_at: '2026-08-19T03:20:10.665593+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:biw/keychain-store
 first_seen: '2026-08-19T00:34:40.477944+05:30'
 last_seen: '2026-08-19T03:20:10.665593+05:30'
 last_checked: '2026-08-19T03:20:10.665593+05:30'
 health_score: 100
 ---
+
 
 # Show HN: macOS data protection keychain for Electron apps
 

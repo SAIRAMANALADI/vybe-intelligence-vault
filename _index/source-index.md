@@ -17466,10 +17466,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](../ai/community/data-centers-raise-nearby-temperatures-by-up-to-4.md)
-  - [Fairphone is now officially available in the United States](../ai/community/fairphone-is-now-officially-available-in-the-unite.md)
-  - [Norway Should Buy OpenAI](../ai/community/norway-should-buy-openai.md)
-  - [Show HN: macOS data protection keychain for Electron apps](../ai/community/biw-keychain-store.md)
+  - [AI usage patterns in software teams](../ai/community/ai-usage-patterns-in-software-teams.md)
+  - [Norway should buy OpenAI](../ai/community/norway-should-buy-openai.md)
   - [Universal health coverage could save $1T and 114k lives a year: study](../ai/community/universal-health-coverage-could-save-1t-and-114k-l.md)
   - [Using the railway network as a flatbed scanner](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md)
 
@@ -21284,4 +21282,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-19T03:36:27.492910+05:30*
+*Index generated on 2026-08-19T07:46:20.564421+05:30*

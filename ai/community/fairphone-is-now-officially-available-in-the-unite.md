@@ -13,13 +13,14 @@ collected_at: '2026-08-19T03:20:10.841578+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fairphone-is-now-officially-available-in-the-unite
 first_seen: '2026-08-18T21:23:57.101808+05:30'
 last_seen: '2026-08-19T03:20:10.841578+05:30'
 last_checked: '2026-08-19T03:20:10.841578+05:30'
 health_score: 100
 ---
+
 
 # Fairphone is now officially available in the United States
 

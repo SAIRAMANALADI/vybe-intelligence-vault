@@ -13,13 +13,14 @@ collected_at: '2026-08-19T03:20:10.480741+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:data-centers-raise-nearby-temperatures-by-up-to-4
 first_seen: '2026-08-19T00:34:39.243349+05:30'
 last_seen: '2026-08-19T03:20:10.480741+05:30'
 last_checked: '2026-08-19T03:20:10.480741+05:30'
 health_score: 100
 ---
+
 
 # Data centers raise nearby temperatures by up to 4 degrees in Phoenix
 
