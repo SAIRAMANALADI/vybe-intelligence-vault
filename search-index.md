@@ -25158,7 +25158,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.25200>
 
 * **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by kareiva. Score: 497, Comments: 66. Original Link: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
+  * Summary: Hacker News story by kareiva. Score: 658, Comments: 90. Original Link: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war>
 
@@ -25427,8 +25427,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.17474>
 
-* **[Air Theremin – a browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by gurov. Score: 191, Comments: 70. Original Link: https://theremin.bizibah.com/
+* **[Air Theremin – A browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by gurov. Score: 224, Comments: 79. Original Link: https://theremin.bizibah.com/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://theremin.bizibah.com>
 
@@ -25856,11 +25856,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.11508v1 Announce Type: cross Abstract: Causal discovery, the process of recovering underlying causal structures from observational data, is a fundamental pursuit across scientific disciplines. Over the past decades, numerous algorithms hav
   * Tags: `dataset`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.11508>
-
-* **[Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](ai/community/arxiv-2503-08679.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by florianherrengt. Score: 33, Comments: 22. Original Link: https://arxiv.org/abs/2503.08679
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://arxiv.org/abs/2503.08679>
 
 * **[Chainlink: The Industry-Standard Oracle Platform](ai/rag/chainlink-the-industry-standard-oracle-platform.md)** (`tutorial` | `useful` tier)
   * Summary: - **Unified Oracle Infrastructure**: Chainlink provides a single platform integrating data feeds, cross-chain interoperability (CCIP), privacy (Chainlink Privacy Standard), asset management (DTA), compliance (ACE), and compute (Functions, Automation,
@@ -26338,7 +26333,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.04905>
 
 * **[Devices with GrapheneOS support should be available in 2027](ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by exceptione. Score: 511, Comments: 318. Original Link: https://grapheneos.social/@GrapheneOS/117078064184215730
+  * Summary: Hacker News story by exceptione. Score: 556, Comments: 352. Original Link: https://grapheneos.social/@GrapheneOS/117078064184215730
   * Tags: `ai`, `hackernews`
   * Source URL: <https://grapheneos.social/@grapheneos/117078064184215730>
 
@@ -26638,7 +26633,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/expressive-code/expressive-code#readme>
 
 * **[Extensible Software in the age of LLMs](ai/community/extensible-software-in-the-age-of-llms.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by coloneltcb. Score: 47, Comments: 20. Original Link: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/
+  * Summary: Hacker News story by coloneltcb. Score: 85, Comments: 36. Original Link: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/
   * Tags: `hackernews`, `llm`
   * Source URL: <https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms>
 
@@ -27121,6 +27116,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Reduced Fees & Billing Flexibility**: Google Play introduces lower service fees and expanded billing options, including the *Billing Choice Program* and *User Choice Billing Pilot*, allowing developers to offer alternative payment methods beyond
   * Tags: `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://play.google.com/console>
+
+* **[Google replaced Git tags for certain source code with obtaining via Google Drive](ai/community/google-replaced-git-tags-for-certain-source-code-w.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Animux. Score: 137, Comments: 35. Original Link: https://grapheneos.social/@GrapheneOS/117057099753905023
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://grapheneos.social/@grapheneos/117057099753905023>
 
 * **[Google Research · GitHub](ai/resources/google-research-github.md)** (`framework` | `useful` tier)
   * Summary: - **Google Research GitHub Organization**: Hosts 350+ open-source repositories under Apache-2.0 license, primarily in Python, Jupyter Notebook, and C++, with 16.8k+ followers and 38.5k+ stars for flagship `google-research` repo. - **Key Projects**: -
@@ -27902,8 +27902,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `mistral`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.16204>
 
-* **[Mathematics in the Age of AI](ai/community/arxiv-2608-16753.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jonbaer. Score: 40, Comments: 21. Original Link: https://arxiv.org/abs/2608.16753
+* **[Mathematics in the age of AI](ai/community/arxiv-2608-16753.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by jonbaer. Score: 87, Comments: 70. Original Link: https://arxiv.org/abs/2608.16753
   * Tags: `ai`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2608.16753>
 
@@ -29001,11 +29001,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
-
-* **[Show HN: Frugal Tokens – explore costs and usage across coding agents](ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dpc94. Score: 18, Comments: 5. Original Link: https://demo.frugaltokens.com/
-  * Tags: `agents`, `hackernews`
-  * Source URL: <https://demo.frugaltokens.com>
 
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
@@ -65413,7 +65408,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11219, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11220, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -81110,7 +81105,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5224, Downloads: 257979686)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5225, Downloads: 257979686)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -97388,7 +97383,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/BAAI/bge-reranker-v2-m3>
 
 * **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 534, Downloads: 73267376)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 535, Downloads: 73267376)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
@@ -99927,8 +99922,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive guide for RAG application development, leveraging frameworks like LangChain and LlamaIndex for practical implementation. * Explores diverse RAG architectures, integrating vector databases (Milvus), graph databases (Neo4j), and multimo
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive full-stack guide to Retrieval Augmented Generation (RAG) system development, emphasizing practical
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -109802,7 +109797,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository (`raganwald/raganwald.github.com`) for
+  * Summary: * GitHub repository `raganwald/raganwald.github.com` hosts
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

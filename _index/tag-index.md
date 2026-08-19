@@ -3622,7 +3622,6 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
-  - [Show HN: Frugal Tokens – explore costs and usage across coding agents](../ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
@@ -4867,10 +4866,10 @@ Resources organized by keyword tags.
 ## ai
 
   - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
-  - [Air Theremin – a browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
-  - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](../ai/community/arxiv-2503-08679.md)
+  - [Air Theremin – A browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
   - [Devices with GrapheneOS support should be available in 2027](../ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)
-  - [Mathematics in the Age of AI](../ai/community/arxiv-2608-16753.md)
+  - [Google replaced Git tags for certain source code with obtaining via Google Drive](../ai/community/google-replaced-git-tags-for-certain-source-code-w.md)
+  - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
 
 ## animation
 
@@ -19615,7 +19614,7 @@ Resources organized by keyword tags.
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
-  - [Air Theremin – a browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
+  - [Air Theremin – A browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
   - [Algebraic Decomposition Theory for Transformer Length Generalization](../ai/research/arxiv-2608-13433.md)
@@ -19889,7 +19888,6 @@ Resources organized by keyword tags.
   - [Centre national de la recherche scientifique (CNRS)](../ai/resources/centre-national-de-la-recherche-scientifique-cnrs.md)
   - [Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](../ai/research/arxiv-2510-03520.md)
   - [Chaelsoo/Zetsu](../ai/rag/chaelsoo-zetsu.md)
-  - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](../ai/community/arxiv-2503-08679.md)
   - [Chainlink Fundamentals Course - Cyfrin Updraft](../ai/resources/chainlink-fundamentals-course-cyfrin-updraft.md)
   - [Chainlink Labs](../ai/resources/chainlink-labs.md)
   - [Chainlink: The Industry-Standard Oracle Platform](../ai/rag/chainlink-the-industry-standard-oracle-platform.md)
@@ -20543,6 +20541,7 @@ Resources organized by keyword tags.
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
+  - [Google replaced Git tags for certain source code with obtaining via Google Drive](../ai/community/google-replaced-git-tags-for-certain-source-code-w.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
   - [Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority](../ai/agents/arxiv-2607-04613.md)
@@ -21018,7 +21017,7 @@ Resources organized by keyword tags.
   - [Materials and Molecular Design | Cornell Duffield Engineering](../ai/rag/materials-and-molecular-design-cornell-duffield-en.md)
   - [Materials in Human Experience | Materials Science and Engineering | MIT OpenCourseWare](../ai/resources/materials-in-human-experience-materials-science-an.md)
   - [MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](../ai/rag/arxiv-2604-18584.md)
-  - [Mathematics in the Age of AI](../ai/community/arxiv-2608-16753.md)
+  - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
   - [Maven Central: org.superml:superml-core](../ai/resources/maven-central-org-superml-superml-core.md)
   - [Max Agency: A Podcast on Building Agents - YouTube](../ai/rag/max-agency-a-podcast-on-building-agents-youtube.md)
   - [Maximum Entropy Inverse Reinforcement Learning for Mean-Field Games with Average Reward](../ai/rag/arxiv-2606-16759.md)
@@ -21690,7 +21689,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Frugal Tokens – explore costs and usage across coding agents](../ai/community/show-hn-frugal-tokens-explore-costs-and-usage-acro.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -48889,4 +48887,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T00:51:25.204307+05:30*
+*Index generated on 2026-08-20T03:36:31.732736+05:30*

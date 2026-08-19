@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-20T00:35:40.619633+05:30'
+collected_at: '2026-08-20T03:20:51.502809+05:30'
 published_at: '2026-08-19T17:02:32Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-20T00:35:40.619633+05:30'
-last_seen: '2026-08-20T00:35:40.619633+05:30'
-last_checked: '2026-08-20T00:35:40.619633+05:30'
+first_seen: '2026-08-20T03:20:51.502809+05:30'
+last_seen: '2026-08-20T03:20:51.502809+05:30'
+last_checked: '2026-08-20T03:20:51.502809+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive guide for RAG application development, leveraging frameworks like LangChain and LlamaIndex for practical implementation.
-*   Explores diverse RAG architectures, integrating vector databases (Milvus), graph databases (Neo4j), and multimodal capabilities for advanced retrieval.
-*   Demonstrates RAG system construction using various LLMs (DeepSeek, Kimi-K2) and embedding models, focusing on full-stack deployment.
+*   Comprehensive full-stack guide to Retrieval Augmented Generation (RAG) system development, emphasizing practical
 
 ## Why It Matters
 

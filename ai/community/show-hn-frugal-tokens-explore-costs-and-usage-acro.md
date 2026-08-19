@@ -13,13 +13,14 @@ collected_at: '2026-08-20T00:34:54.090205+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-frugal-tokens-explore-costs-and-usage-acro
 first_seen: '2026-08-20T00:34:54.090205+05:30'
 last_seen: '2026-08-20T00:34:54.090205+05:30'
 last_checked: '2026-08-20T00:34:54.090205+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Frugal Tokens – explore costs and usage across coding agents
 
