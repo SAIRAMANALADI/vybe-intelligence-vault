@@ -11,7 +11,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
 [![Resources](https://img.shields.io/badge/Resources%20Indexed-155%2C012-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--19-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--20-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 155,012 files</p>
-        <p><b>Last Update:</b> 2026-08-19 23:13 IST</p>
+        <p><b>Last Update:</b> 2026-08-20 00:21 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
