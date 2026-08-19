@@ -25393,7 +25393,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.02679>
 
 * **[AI usage patterns in software teams](ai/community/ai-usage-patterns-in-software-teams.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by giuliomagnifico. Score: 118, Comments: 61. Original Link: https://linear.app/data
+  * Summary: Hacker News story by giuliomagnifico. Score: 139, Comments: 70. Original Link: https://linear.app/data
   * Tags: `ai`, `hackernews`
   * Source URL: <https://linear.app/data>
 
@@ -29570,11 +29570,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Unity Account Requirement**: A Unity Account is mandatory for accessing the Online and Asset Stores, participating in the Unity Community, and managing license portfolios, with login and account creation links provided. - **Issue Tracker Categori
   * Tags: `agents`, `creative_dev`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://issuetracker.unity3d.com>
-
-* **[Universal health coverage could save $1T and 114k lives a year: study](ai/community/universal-health-coverage-could-save-1t-and-114k-l.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by karakoram. Score: 826, Comments: 864. Original Link: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/
-  * Tags: `hackernews`, `rag`, `reddit`
-  * Source URL: <https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year>
 
 * **[Unlocking Latent Dimensions: Exploring Representations of Large-Scale X-ray Scattering Data using Variational Autoencoders](ai/research/arxiv-2606-14999.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14999v1 Announce Type: new Abstract: Scientific user facilities generate X-ray scattering data faster than traditional workflows can process them. We address this challenge across two settings, offline dataset exploration and live on-the-f
@@ -44633,11 +44628,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2607.09235>
 
-* **[allenai/c4](ai/models/huggingface-datasets-allenai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 630, Downloads: 1382008)
-  * Tags: `dataset`, `hf-dataset`, `huggingface`
-  * Source URL: <https://huggingface.co/datasets/allenai>
-
 * **[ALLUDE: A Unified Evaluation System for Configurable Attacks in Differentiable Environments](ai/research/arxiv-2607-17077.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.17077v1 Announce Type: cross Abstract: Adversarial attacks against vision models like object detectors are often evaluated under limited conditions, leaving their performance under-characterized. Bridging simulation and differentiable rend
   * Tags: `benchmark`
@@ -44684,7 +44674,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
 
 * **[amazon/chronos-2](ai/models/huggingface-amazon-chronos-2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 400, Downloads: 39015266)
+  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 400, Downloads: 39321377)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/amazon/chronos-2>
 
@@ -45496,7 +45486,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.01997>
 
 * **[AP123/IllusionDiffusion](ai/models/huggingface-spaces-ap123.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: AP123/IllusionDiffusion (Likes: 5429, Downloads: 0)
+  * Summary: Trending Hugging Face space: AP123/IllusionDiffusion (Likes: 5430, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/ap123>
 
@@ -46609,7 +46599,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.07538>
 
 * **[ayuo/hd_tmp](ai/models/huggingface-datasets-ayuo.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 32, Downloads: 1470731)
+  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 32, Downloads: 1474205)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ayuo>
 
@@ -46706,11 +46696,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.03981v1 Announce Type: cross Abstract: Memes have become influential communication tools on social media, combining viral visuals with concise messaging to convey impactful ideas. While substantial research has examined the affective dimen
   * Tags: `benchmark`, `dataset`, `paper`
   * Source URL: <https://arxiv.org/abs/2607.03981>
-
-* **[banned-historical-archives/banned-historical-archives](ai/models/huggingface-datasets-banned-historical-archives.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 68, Downloads: 1376294)
-  * Tags: `dataset`, `hf-dataset`, `huggingface`
-  * Source URL: <https://huggingface.co/datasets/banned-historical-archives>
 
 * **[Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution](ai/models/huggingface-blog-sovereign-data-solution-case-study.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution
@@ -62242,6 +62227,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11744v1 Announce Type: cross Abstract: Large language models are now widely used for everyday learning, but the underlying interactions are typically unstructured chats rather than following a curriculum. Unlike formal online learning syst
   * Source URL: <https://arxiv.org/abs/2606.11744>
 
+* **[hf-doc-build/doc-build-dev](ai/models/huggingface-datasets-hf-doc-build.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: hf-doc-build/doc-build-dev (Likes: 52, Downloads: 1374171)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/hf-doc-build>
+
 * **[HG-Bench: A Benchmark for Multi-Page Handwritten Answer-Region Grounding in Automated Homework Assessment](ai/research/arxiv-2606-25491.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.25491v1 Announce Type: cross Abstract: Automated homework assessment depends not only on recognizing student answers, but also on accurately locating where each answer and each intermediate reasoning step appears in noisy, multi-page handw
   * Tags: `benchmark`, `paper`
@@ -63166,7 +63156,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/huggingface/datasets>
 
 * **[huggingface/documentation-images](ai/models/huggingface-datasets-huggingface.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 178, Downloads: 1995374)
+  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 178, Downloads: 2003912)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/huggingface>
 
@@ -65138,7 +65128,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.14730>
 
 * **[IPEC-COMMUNITY/language_table_lerobot](ai/models/huggingface-datasets-ipec-community.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: IPEC-COMMUNITY/language_table_lerobot (Likes: 15, Downloads: 1447911)
+  * Summary: Trending Hugging Face dataset: IPEC-COMMUNITY/language_table_lerobot (Likes: 15, Downloads: 1477807)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ipec-community>
 
@@ -65589,7 +65579,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02680>
 
 * **[k9cli/video-vec2wav2-tokenizer](ai/models/huggingface-datasets-k9cli.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 16, Downloads: 2150998)
+  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 16, Downloads: 2106103)
   * Tags: `dataset`, `hf-dataset`, `huggingface`, `youtube`
   * Source URL: <https://huggingface.co/datasets/k9cli>
 
@@ -65604,7 +65594,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.26832>
 
 * **[KakologArchives/KakologArchives](ai/models/huggingface-datasets-kakologarchives.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 75, Downloads: 2577009)
+  * Summary: Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 75, Downloads: 2584362)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/kakologarchives>
 
@@ -68369,7 +68359,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.04733>
 
 * **[lpiccinelli/unidepth-v2-vitl14](ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: lpiccinelli/unidepth-v2-vitl14 (Likes: 50, Downloads: 34869865)
+  * Summary: Trending Hugging Face model: lpiccinelli/unidepth-v2-vitl14 (Likes: 50, Downloads: 33277082)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/lpiccinelli/unidepth-v2-vitl14>
 
@@ -70707,7 +70697,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7621, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7622, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -72234,7 +72224,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/nvidia-physical-ai>
 
 * **[nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](ai/models/huggingface-datasets-nvidia.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim (Likes: 255, Downloads: 1468969)
+  * Summary: Trending Hugging Face dataset: nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim (Likes: 255, Downloads: 1482227)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/nvidia>
 
@@ -77000,7 +76990,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1518, Downloads: 28826416)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1518, Downloads: 28202544)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -79673,7 +79663,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.24894>
 
 * **[ryanmarten/OpenThoughts-1k-sample](ai/models/huggingface-datasets-ryanmarten.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 49, Downloads: 1552322)
+  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 49, Downloads: 1541828)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ryanmarten>
 
@@ -79848,7 +79838,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05259>
 
 * **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 759, Downloads: 1506461)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 759, Downloads: 1510566)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/salesforce>
 
@@ -90859,6 +90849,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `youtube`
   * Source URL: <https://arxiv.org/abs/2607.11643>
 
+* **[xlangai/ubuntu_osworld_file_cache](ai/models/huggingface-datasets-xlangai.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: xlangai/ubuntu_osworld_file_cache (Likes: 46, Downloads: 1379959)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/xlangai>
+
 * **[XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face](ai/models/huggingface-blog-xlscout-case-study.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face
   * Source URL: <https://huggingface.co/blog/xlscout-case-study>
@@ -92517,7 +92512,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.14350>
 
 * **[didilili/ai-agents-from-zero](ai/rag/didilili-ai-agents-from-zero.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive AI Agent curriculum covering foundational LLM/RAG principles, prompt engineering, and enterprise-grade deployment/fine-tuning. * Practical implementation focuses on frameworks like LangChain, LangGraph, Coze, Dify, and MCP for agent d
+  * Summary: * Comprehensive AI Agent curriculum spanning foundational concepts to enterprise-grade deployment and fine-tuning. * Practical application of frameworks including LangChain, LangGraph, Coze, Dify, and MCP, integrating LLMs, RAG, and prompt engineerin
   * Tags: `agents`, `github-repo`, `models`, `python`, `rag`
   * Source URL: <https://github.com/didilili/ai-agents-from-zero>
 
@@ -97352,7 +97347,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3406, Downloads: 35595931)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3407, Downloads: 35606684)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -97362,7 +97357,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/BAAI/bge-reranker-v2-m3>
 
 * **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 534, Downloads: 73518672)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 534, Downloads: 73267376)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
@@ -99901,8 +99896,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive RAG guide covering full-stack development, integrating diverse LLMs (Deep
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides a full-stack RAG implementation guide leveraging LangChain and LlamaIndex for orchestration. * Integrates diverse LLMs (DeepSeek, Kimi-K2) and embedding models with vector (Milvus) and graph (Neo4j) databases for retrieval. * Covers advanc
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -109776,7 +109771,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site generator source for `raganwald.com`. *
+  * Summary: * Jekyll source repository for `raganwald.com`. * Utilizes GitHub
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -112705,7 +112700,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based RAG system for conversational querying of GitHub repository content. * Facilitates interactive analysis of downloaded codebases and documentation via generative AI. * Implements a practical Retrieval-Augmented Generation architecture f
+  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for contextualized querying
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

@@ -14,13 +14,14 @@ tags:
 - hackernews
 - rag
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:universal-health-coverage-could-save-1t-and-114k-l
 first_seen: '2026-08-19T00:34:40.816513+05:30'
 last_seen: '2026-08-19T12:42:45.978088+05:30'
 last_checked: '2026-08-19T12:42:45.978088+05:30'
 health_score: 100
 ---
+
 
 # Universal health coverage could save $1T and 114k lives a year: study
 

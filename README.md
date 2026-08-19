@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-155%2C007-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-237%2C634-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--19-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **155,007 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **237,634 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 21,290</p>
-        <p><b>Active:</b> 20,626 | <b>Inactive:</b> 664</p>
+        <p><b>Resources tracked:</b> 22,271</p>
+        <p><b>Active:</b> 21,606 | <b>Inactive:</b> 665</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,272</p>
+        <p><b>Archive Files:</b> 83,940</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 155,007 files</p>
-        <p><b>Last Update:</b> 2026-08-19 15:15 IST</p>
+        <p><b>Total Vault Size:</b> 237,634 files</p>
+        <p><b>Last Update:</b> 2026-08-19 15:46 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,22 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The-Pocket/PocketFlow-Template-Python](ai/agents/the-pocket-pocketflow-template-python.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[Spectrally Safe Neural Operator Warm-Starts for Large-Scale Newton Solvers](ai/rag/arxiv-2606-21828.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails](ai/research/arxiv-2606-06837.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[Memory by Design: Probabilistic Sequence Layers](ai/research/arxiv-2605-31163.md)** • Rank: <kbd>+981</kbd>
-- 🔼 **[Nonlinear GENERIC-Embedded Neural Networks (N-GENNs): Learning GENERIC dynamics with non-quadratic dissipation potentials](ai/research/arxiv-2605-09058.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[AI usage patterns in software teams](ai/community/ai-usage-patterns-in-software-teams.md)** • <kbd>+21 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[didilili/ai-agents-from-zero](ai/rag/didilili-ai-agents-from-zero.md)** • Rank: <kbd>+2704</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+17</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+18</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+14</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[hf-doc-build/doc-build-dev](ai/models/huggingface-datasets-hf-doc-build.md)** • Score: `0`
+- 🆕 **[xlangai/ubuntu_osworld_file_cache](ai/models/huggingface-datasets-xlangai.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Universal health coverage could save $1T and 114k lives a year: study](ai/community/universal-health-coverage-could-save-1t-and-114k-l.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
