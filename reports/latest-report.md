@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-19T13:01:02.646805+05:30`
+Generated at: `2026-08-19T15:15:11.798266+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-No new discoveries tracked in this run.
-
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Universal health coverage could save $1T and 114k lives a year: study** - Score: `826` (+62), Rank Change: `0` ([File](../ai/community/universal-health-coverage-could-save-1t-and-114k-l.md))
-- **AI usage patterns in software teams** - Score: `118` (+47), Rank Change: `+1` ([File](../ai/community/ai-usage-patterns-in-software-teams.md))
-- **cisco-ai-defense/defenseclaw** - Score: `0` (0), Rank Change: `+4186` ([File](../ai/agents/cisco-ai-defense-defenseclaw.md))
-- **TheAgentCompany/TheAgentCompany** - Score: `0` (0), Rank Change: `+4496` ([File](../ai/agents/theagentcompany-theagentcompany.md))
-- **JCodesMore/ai-website-cloner-template** - Score: `0` (0), Rank Change: `+5164` ([File](../ai/agents/jcodesmore-ai-website-cloner-template.md))
-- **SciPhi-AI/R2R** - Score: `0` (0), Rank Change: `+4235` ([File](../ai/rag/sciphi-ai-r2r.md))
-- **NirDiamant/agents-towards-production** - Score: `0` (0), Rank Change: `+4239` ([File](../ai/rag/nirdiamant-agents-towards-production.md))
-- **devloperdevesh/EnterpriseRAG-AI** - Score: `0` (0), Rank Change: `+4240` ([File](../ai/rag/devloperdevesh-enterpriserag-ai.md))
-- **RUC-NLPIR/FlashRAG** - Score: `0` (0), Rank Change: `+21599` ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **coree/awesome-rag** - Score: `0` (0), Rank Change: `+4257` ([File](../ai/rag/coree-awesome-rag.md))
+- **The-Pocket/PocketFlow-Template-Python** - Score: `0` (0), Rank Change: `+981` ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
+- **Spectrally Safe Neural Operator Warm-Starts for Large-Scale Newton Solvers** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/arxiv-2606-21828.md))
+- **SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails** - Score: `0` (0), Rank Change: `+981` ([File](../ai/research/arxiv-2606-06837.md))
+- **Memory by Design: Probabilistic Sequence Layers** - Score: `0` (0), Rank Change: `+981` ([File](../ai/research/arxiv-2605-31163.md))
+- **Nonlinear GENERIC-Embedded Neural Networks (N-GENNs): Learning GENERIC dynamics with non-quadratic dissipation potentials** - Score: `0` (0), Rank Change: `+981` ([File](../ai/research/arxiv-2605-09058.md))
+- **From Diffusion to Flow: Efficient Motion Generation in MotionGPT3** - Score: `0` (0), Rank Change: `+981` ([File](../ai/research/arxiv-2603-26747.md))
+- **Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/arxiv-2603-24472.md))
+- **Fermi-Dirac thermal measurements: A framework for quantum hypothesis testing and semidefinite optimization** - Score: `0` (0), Rank Change: `+981` ([File](../ai/research/arxiv-2603-04061.md))
+- **Large Language Models: A Mathematical Formulation** - Score: `0` (0), Rank Change: `+981` ([File](../ai/research/arxiv-2601-22170.md))
+- **SparsePixels: Efficient Convolution for Sparse Data on FPGAs** - Score: `0` (0), Rank Change: `+981` ([File](../ai/rag/arxiv-2512-06208.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21599`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **JCodesMore/ai-website-cloner-template** - (Rank Change: `+5164`) ([File](../ai/agents/jcodesmore-ai-website-cloner-template.md))
-- **TheAgentCompany/TheAgentCompany** - (Rank Change: `+4496`) ([File](../ai/agents/theagentcompany-theagentcompany.md))
-- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+4288`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **ajac-zero/example-rag-app** - (Rank Change: `+4270`) ([File](../ai/rag/ajac-zero-example-rag-app.md))
-- **Danielskry/Awesome-RAG** - (Rank Change: `+4263`) ([File](../ai/rag/danielskry-awesome-rag.md))
-- **coree/awesome-rag** - (Rank Change: `+4257`) ([File](../ai/rag/coree-awesome-rag.md))
-- **devloperdevesh/EnterpriseRAG-AI** - (Rank Change: `+4240`) ([File](../ai/rag/devloperdevesh-enterpriserag-ai.md))
-- **NirDiamant/agents-towards-production** - (Rank Change: `+4239`) ([File](../ai/rag/nirdiamant-agents-towards-production.md))
-- **SciPhi-AI/R2R** - (Rank Change: `+4235`) ([File](../ai/rag/sciphi-ai-r2r.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9240`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+983`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+983`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+983`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+983`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+983`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+983`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+983`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+983`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+983`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Using the railway network as a flatbed scanner** (Category: `ai/community`) ([File](../ai/community/using-the-railway-network-as-a-flatbed-scanner-vid.md))
+No recently active resources transitioned to inactive.
+
