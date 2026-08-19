@@ -7,6 +7,7 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Install Tailwind CSS with Astro - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides/astro) (Score: 70) - Category: `ai-coding-agents/`
 *   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
 *   [CoWeaver: A Bi-directional, Learnable and Explainable Matching Engine for Mixed Human-Agent Science Collaboration](https://arxiv.org/abs/2607.15545) (Score: 70) - Category: `ai-coding-agents/`
+*   [LLM-Derived Preference Judgments Are Not Self-Consistent](https://arxiv.org/abs/2608.17644) (Score: 70) - Category: `ai-coding-agents/`
 *   [Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation](https://arxiv.org/abs/2608.00794) (Score: 70) - Category: `ai-coding-agents/`
 *   [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](https://arxiv.org/abs/2607.13162) (Score: 70) - Category: `ai-coding-agents/`
 *   [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) (Score: 70) - Category: `ai-coding-agents/`
@@ -18,6 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation](https://arxiv.org/abs/2607.09664) (Score: 70) - Category: `ai-coding-agents/`
 *   [A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456) (Score: 70) - Category: `ai-coding-agents/`
 *   [Why Git Is the Memory Solution for the Agentic Development Lifecycle](https://arxiv.org/abs/2607.14390) (Score: 70) - Category: `ai-coding-agents/`
-*   [Strategic Buying Agents](https://arxiv.org/abs/2607.04708) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

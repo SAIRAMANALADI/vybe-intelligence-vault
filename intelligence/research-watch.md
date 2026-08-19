@@ -5,6 +5,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | Research / Paper | Vault Folder | Score |
 | :--- | :--- | :--- |
 | [CoWeaver: A Bi-directional, Learnable and Explainable Matching Engine for Mixed Human-Agent Science Collaboration](https://arxiv.org/abs/2607.15545) | `ai-coding-agents/` | 70 |
+| [LLM-Derived Preference Judgments Are Not Self-Consistent](https://arxiv.org/abs/2608.17644) | `ai-coding-agents/` | 70 |
 | [Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation](https://arxiv.org/abs/2608.00794) | `ai-coding-agents/` | 70 |
 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](https://arxiv.org/abs/2607.13162) | `ai-coding-agents/` | 70 |
 | [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) | `ai-coding-agents/` | 70 |
@@ -17,6 +18,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456) | `ai-coding-agents/` | 70 |
 | [Why Git Is the Memory Solution for the Agentic Development Lifecycle](https://arxiv.org/abs/2607.14390) | `ai-coding-agents/` | 70 |
 | [Strategic Buying Agents](https://arxiv.org/abs/2607.04708) | `ai-coding-agents/` | 70 |
+| [StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents](https://arxiv.org/abs/2608.18050) | `ai-coding-agents/` | 70 |
 | [ARROW: Augmented Replay for RObust World models](https://arxiv.org/abs/2603.11395) | `ai-coding-agents/` | 70 |
 | [Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery](https://arxiv.org/abs/2608.04651) | `ai-coding-agents/` | 70 |
 | [ScienceFlow: A long-horizon agent for ML research, scientific discovery and beyond](https://arxiv.org/abs/2608.14354) | `ai-coding-agents/` | 70 |
@@ -27,7 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [When Collaboration Becomes a Trigger: Collective Evidence-Threshold Backdoors in Multi-Agent Systems](https://arxiv.org/abs/2608.01085) | `ai-coding-agents/` | 70 |
 | [Agent-Based Modeling of Low-Emission Fertilizer Adoption for Dairy Farm Decarbonisation using Empirical Farm Data](https://arxiv.org/abs/2605.03648) | `ai-coding-agents/` | 70 |
 | [Behavioural Signatures of Risk-Sensitive Decision-Making in Large Language Models](https://arxiv.org/abs/2607.10251) | `ai-coding-agents/` | 70 |
-| [FlowBot: Inducing LLM Workflows with Bilevel Optimization and Textual Gradients](https://arxiv.org/abs/2604.26258) | `ai-coding-agents/` | 70 |
-| [Same physical state, different collective dynamics: state encodings select synchronization outcomes in language-model agents](https://arxiv.org/abs/2608.06968) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

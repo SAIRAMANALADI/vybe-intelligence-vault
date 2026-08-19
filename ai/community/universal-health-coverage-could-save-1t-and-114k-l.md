@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year
 hn_url: https://news.ycombinator.com/item?id=49332981
-score: 719
+score: 764
 author: karakoram
-comments_count: 802
+comments_count: 830
 published_at: '2026-08-17T21:19:57+05:30'
-collected_at: '2026-08-19T07:30:06.194602+05:30'
+collected_at: '2026-08-19T09:36:09.437841+05:30'
 tags:
 - hackernews
 - rag
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:universal-health-coverage-could-save-1t-and-114k-l
 first_seen: '2026-08-19T00:34:40.816513+05:30'
-last_seen: '2026-08-19T07:30:06.194602+05:30'
-last_checked: '2026-08-19T07:30:06.194602+05:30'
+last_seen: '2026-08-19T09:36:09.437841+05:30'
+last_checked: '2026-08-19T09:36:09.437841+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by karakoram. Score: 719, Comments: 802.
+Hacker News story by karakoram. Score: 764, Comments: 830.
 Original Link: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: karakoram
-- Score: 719 Upvotes
-- Comments: 802 Discussions
+- Score: 764 Upvotes
+- Comments: 830 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49332981
 - Original Article: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year
 

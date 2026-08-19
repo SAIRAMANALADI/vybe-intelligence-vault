@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:norway-should-buy-openai
 first_seen: '2026-08-19T03:20:10.023022+05:30'
 last_seen: '2026-08-19T07:30:06.487679+05:30'
 last_checked: '2026-08-19T07:30:06.487679+05:30'
 health_score: 100
 ---
+
 
 # Norway should buy OpenAI
 
