@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-08-20T23:03:01.503733+05:30
+### Run: 2026-08-21T00:12:56.836636+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `datawhalechina/all-in-rag`: Rank rose by +984
 - **[Rank Rise]** `raganwald/raganwald.github.com`: Rank rose by +984
@@ -20969,7 +20969,7 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `stanford-oval/storm`: Rank dropped by -15196
 - **[Rank Drop]** `infiniflow/ragflow`: Rank dropped by -18282
 
-### Run: 2026-08-20T22:10:41.379520+05:30
+### Run: 2026-08-20T23:03:01.503733+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `datawhalechina/all-in-rag`: Rank rose by +984
 - **[Rank Rise]** `raganwald/raganwald.github.com`: Rank rose by +984
