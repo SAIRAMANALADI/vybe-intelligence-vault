@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-160%2C372-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-244%2C477-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--20-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **160,372 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **244,477 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 21,651</p>
-        <p><b>Active:</b> 20,976 | <b>Inactive:</b> 675</p>
+        <p><b>Resources tracked:</b> 22,639</p>
+        <p><b>Active:</b> 21,959 | <b>Inactive:</b> 680</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,275</p>
+        <p><b>Archive Files:</b> 85,414</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 160,372 files</p>
-        <p><b>Last Update:</b> 2026-08-20 21:11 IST</p>
+        <p><b>Total Vault Size:</b> 244,477 files</p>
+        <p><b>Last Update:</b> 2026-08-20 21:40 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,21 +210,29 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)** • Rank: <kbd>+20</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+984</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+984</kbd>
-- 🔼 **[krishnaik06/Agentic-LanggraphCrash-course](ai/agents/krishnaik06-agentic-langgraphcrash-course.md)** • Rank: <kbd>+984</kbd>
-- 🔼 **[CALLE-AI/awesome-phone-call-agents](ai/agents/calle-ai-awesome-phone-call-agents.md)** • Rank: <kbd>+984</kbd>
+- 🔼 **[Show HN: I trained a 125M model to autocomplete piano on-device](ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)** • <kbd>+193 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[EvanThomasLuke/Awesome-AI-Hacking-Agents](ai/agents/evanthomasluke-awesome-ai-hacking-agents.md)** • Rank: <kbd>+4562</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** • Rank: <kbd>+1001</kbd>
+- 🔼 **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** • Rank: <kbd>+1004</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+1001</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[An American Mosaic (interactive map of ancestry census data)](ai/community/an-american-mosaic-interactive-map-of-ancestry-cen.md)** • Score: `21`
+- 🆕 **[Clean up Claude 5's token vomit with a separate LLM](ai/community/zachahn-vomit.md)** • Score: `15`
+- 🆕 **[Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](ai/community/show-hn-check-if-any-of-the-656m-in-unclaimed-roya.md)** • Score: `13`
+- 🆕 **[Anti-AI fonts are useless and harmful](ai/community/anti-ai-fonts-are-useless-and-harmful.md)** • Score: `8`
+- 🆕 **[Agentic Search. More accurate and efficient results from your AI systems.](ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)**
+- 💤 **[Don't Paste the AI, please](ai/community/don-t-paste-the-ai-please.md)**
+- 💤 **[Feature Request: Support AGENTS.md](ai/community/anthropics-claude-code.md)**
+- 💤 **[Mathematics in the age of AI](ai/community/arxiv-2608-16753.md)**
+- 💤 **[Australia passes law to levy tech giants that fail to pay for local news](ai/community/australia-passes-law-to-levy-tech-giants-that-fail.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-20T18:43:36.778302+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:don-t-paste-the-ai-please
 first_seen: '2026-08-20T15:23:28.088418+05:30'
 last_seen: '2026-08-20T18:43:36.778302+05:30'
 last_checked: '2026-08-20T18:43:36.778302+05:30'
 health_score: 100
 ---
+
 
 # Don't Paste the AI, please
 

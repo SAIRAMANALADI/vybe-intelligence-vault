@@ -422,6 +422,7 @@ Resources organized by keyword tags.
   - [Agentic Root Cause Analysis through Evidence-Grounded Reasoning](../ai/agents/arxiv-2607-22385.md)
   - [Agentic Routing: The Harness-Native Data Flywheel](../ai/agents/arxiv-2607-11399.md)
   - [Agentic SABRE: An Uncertainty-Aware Neuro-Symbolic Multi-Agent Framework for Adaptive Ransomware Detection](../ai/agents/arxiv-2607-04292.md)
+  - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [Agentic Skill Optimization over Lie Algebroids](../ai/agents/arxiv-2607-11493.md)
   - [Agentic Software Engineering: Foundational Pillars and a Research Roadmap](../ai/agents/arxiv-2509-06216.md)
   - [Agentic Software: How AI Agents Are Restructuring the Software Paradigm](../ai/agents/arxiv-2606-05608.md)
@@ -1628,7 +1629,6 @@ Resources organized by keyword tags.
   - [Fast A/B/n Testing: Exact Multi-Policy Comparison via Tree-Coupled Feedback Sharing](../ai/agents/arxiv-2608-12831.md)
   - [Fast and reliable end-to-end testing for modern web apps | Playwright](../ai/rag/fast-and-reliable-end-to-end-testing-for-modern-we.md)
   - [Fast-Fading Channel and Power Optimization of the Magnetic Inductive Cellular Network](../ai/agents/arxiv-2406-04737.md)
-  - [Feature Request: Support AGENTS.md](../ai/community/anthropics-claude-code.md)
   - [FeatureHospital: A Skill-Driven Multi-Agent Framework for Automated Algorithm Customization in Multi-View Multi-Label Feature Selection](../ai/agents/arxiv-2608-16148.md)
   - [FedCritic-MIMO: Communication-Efficient Serverless Federated Critic Learning for Massive-MIMO Resource Control in Open and Disaggregated 6G RANs](../ai/agents/arxiv-2608-03852.md)
   - [FedS2R: One-Shot Federated Domain Generalization for Synthetic-to-Real Semantic Segmentation in Autonomous Driving](../ai/agents/arxiv-2507-19881.md)
@@ -4943,10 +4943,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
-  - [Australia passes law to levy tech giants that fail to pay for local news](../ai/community/australia-passes-law-to-levy-tech-giants-that-fail.md)
-  - [Don't Paste the AI, please](../ai/community/don-t-paste-the-ai-please.md)
-  - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
+  - [An American Mosaic (interactive map of ancestry census data)](../ai/community/an-american-mosaic-interactive-map-of-ancestry-cen.md)
+  - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
+  - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](../ai/community/show-hn-check-if-any-of-the-656m-in-unclaimed-roya.md)
   - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
 
 ## animation
@@ -5082,6 +5081,7 @@ Resources organized by keyword tags.
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
   - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](../ai/agents/arxiv-2604-08523.md)
   - [ClawGym II: Exploring Black-Box RL on Agent Harness](../ai/agents/arxiv-2608-16798.md)
+  - [Clean up Claude 5's token vomit with a separate LLM](../ai/community/zachahn-vomit.md)
   - [Closing the Auto-Research Loop: An AI Co-Scientist for Production Search Ranking](../ai/rag/arxiv-2603-22376.md)
   - [ClosureBench: A Constructive Benchmark for Compositional Graph Reasoning](../ai/research/arxiv-2608-18242.md)
   - [Cloudflare Developer Docs | Cloudflare Docs](../ai/rag/cloudflare-developer-docs-cloudflare-docs.md)
@@ -5166,7 +5166,6 @@ Resources organized by keyword tags.
   - [Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences](../ai/research/arxiv-2607-09932.md)
   - [Fantastic Adaptive Taxonomies and How to Use Them](../ai/agents/arxiv-2607-16387.md)
   - [Fast and reliable end-to-end testing for modern web apps | Playwright](../ai/rag/fast-and-reliable-end-to-end-testing-for-modern-we.md)
-  - [Feature Request: Support AGENTS.md](../ai/community/anthropics-claude-code.md)
   - [Fern: Docs, SDKs, and CLIs for your API](../ai/rag/fern-docs-sdks-and-clis-for-your-api.md)
   - [FileMaker AI Integration Specialists | Transforming Digital](../ai/rag/filemaker-ai-integration-specialists-transforming.md)
   - [Filtering Harmful Actions Isn't Enough: Phantom Transfer in Agentic SDF](../ai/agents/arxiv-2607-10750.md)
@@ -13411,6 +13410,7 @@ Resources organized by keyword tags.
 ## blog-post
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
+  - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
   - [Applied AI](../ai/companies/openai/applied-ai.md)
@@ -13448,7 +13448,6 @@ Resources organized by keyword tags.
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
-  - [Your Prompts and Skills need a system of record.](../ai/companies/mistral/your-prompts-and-skills-need-a-system-of-record.md)
 
 ## c
 
@@ -19778,7 +19777,6 @@ Resources organized by keyword tags.
   - [A Van Trees Lower Bound for Fully Interactive Differentially Private Federated Learning](../ai/research/arxiv-2605-19813.md)
   - [A Vision Transformer for ECG-Based Detection of Left Ventricular Systolic Dysfunction Across Multiple Clinical Sites](../ai/research/arxiv-2608-14723.md)
   - [A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility](../ai/rag/arxiv-2607-24663.md)
-  - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [A matched-integrator evaluation of Hamiltonian neural networks on pendulum and Kepler dynamics](../ai/research/arxiv-2608-10235.md)
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
@@ -19936,6 +19934,7 @@ Resources organized by keyword tags.
   - [Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](../ai/research/arxiv-2512-04954.md)
   - [An Adaptive Differentially Private Federated Learning Framework](../ai/research/arxiv-2602-06838.md)
   - [An Agentic Framework Using Rules and LLMs for Embedding and Annotating Descriptive Document Layouts: A Plant Science Use Case](../ai/rag/arxiv-2608-14587.md)
+  - [An American Mosaic (interactive map of ancestry census data)](../ai/community/an-american-mosaic-interactive-map-of-ancestry-cen.md)
   - [An Approach to Simultaneous Acquisition of Real-Time MRI Video, EEG, and Surface EMG for Articulatory, Brain, and Muscle Activity During Speech Production](../ai/research/arxiv-2603-04840.md)
   - [An Efficient Black-Box Reduction from Online Learning to Multicalibration, and a New Route to $\Phi$-Regret Minimization](../ai/research/arxiv-2604-19592.md)
   - [An Empirical Investigation of Pre-Trained Deep Learning Model Reuse in the Scientific Process](../ai/research/arxiv-2603-13584.md)
@@ -19962,6 +19961,7 @@ Resources organized by keyword tags.
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
+  - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
@@ -20013,7 +20013,6 @@ Resources organized by keyword tags.
   - [AudioTQ: A Data-Oblivious 6-Bit CPU Audio Codec via Randomized Hadamard Rotation and Lloyd-Max Quantization](../ai/research/arxiv-2608-15369.md)
   - [Auditing Fairness-Privacy Trade-offs: Subpopulation-Level Effects of Fairness-Enhancing Algorithms](../ai/research/arxiv-2607-14607.md)
   - [Augmentation techniques for video surveillance in the visible and thermal spectral range](../ai/research/arxiv-2606-13042.md)
-  - [Australia passes law to levy tech giants that fail to pay for local news](../ai/community/australia-passes-law-to-levy-tech-giants-that-fail.md)
   - [Auto Research for Materials: Auditable AI-Scientist Workflows with Held-Out Transfer](../ai/rag/arxiv-2607-17100.md)
   - [Auto-DSM Under the Lens: A Black-Box Evaluation Framework for LLM-Based DSM Generation](../ai/rag/arxiv-2607-05985.md)
   - [Auto-adaptive Resonance Equalization using Dilated Residual Networks](../ai/research/arxiv-1807-08636.md)
@@ -20228,6 +20227,7 @@ Resources organized by keyword tags.
   - [Chunking Strategies for LLM Applications | Pinecone](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
+  - [Clean up Claude 5's token vomit with a separate LLM](../ai/community/zachahn-vomit.md)
   - [Clinical Feasibility of Low-Magnification Fluorescence Imaging for Breast Cancer Margin Detection Using Texture Analysis and Deep Learning](../ai/research/arxiv-2608-11317.md)
   - [Closing the AI Trust Gap: The Case for Independent Certification for Trustworthy AI](../ai/research/arxiv-2607-15992.md)
   - [Cloud Computing Services | Microsoft Azure](../ai/rag/cloud-computing-services-microsoft-azure.md)
@@ -20495,7 +20495,6 @@ Resources organized by keyword tags.
   - [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](../ai/research/arxiv-2608-12227.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
   - [Dominant Arm Identification with Mixing and Recycling Observed Samples](../ai/research/arxiv-2608-01545.md)
-  - [Don't Paste the AI, please](../ai/community/don-t-paste-the-ai-please.md)
   - [Données & Design par LINC](../ai/resources/donnees-design-par-linc.md)
   - [Dons des particuliers, legs - Fondation CNRS](../ai/resources/dons-des-particuliers-legs-fondation-cnrs.md)
   - [Dovecot | The Secure IMAP server](../ai/resources/dovecot-the-secure-imap-server.md)
@@ -20660,7 +20659,6 @@ Resources organized by keyword tags.
   - [FastAPI - FastAPI](../ai/rag/fastapi-fastapi.md)
   - [FastGFDs: Efficient Validation of Graph Functional Dependencies with Desbordante](../ai/rag/arxiv-2608-02321.md)
   - [Faster and Simpler Greedy Algorithm for $k$-Median and $k$-Means](../ai/research/arxiv-2407-11217.md)
-  - [Feature Request: Support AGENTS.md](../ai/community/anthropics-claude-code.md)
   - [Feature-Aware (Hyper)graph Generation via Next-Scale Prediction](../ai/research/arxiv-2506-01467.md)
   - [FedAvg for HAR: Exploring the Tradeoff Between Personalized and Generalization Accuracy](../ai/research/arxiv-2607-03334.md)
   - [FedCausal-Dyn: A Causal-Dynamic Paradigm for Federated Learning under Dynamic Feature Drift](../ai/rag/arxiv-2607-09695.md)
@@ -21348,7 +21346,6 @@ Resources organized by keyword tags.
   - [Materials and Molecular Design | Cornell Duffield Engineering](../ai/rag/materials-and-molecular-design-cornell-duffield-en.md)
   - [Materials in Human Experience | Materials Science and Engineering | MIT OpenCourseWare](../ai/resources/materials-in-human-experience-materials-science-an.md)
   - [MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](../ai/rag/arxiv-2604-18584.md)
-  - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
   - [Maven Central: org.superml:superml-core](../ai/resources/maven-central-org-superml-superml-core.md)
   - [Max Agency: A Podcast on Building Agents - YouTube](../ai/rag/max-agency-a-podcast-on-building-agents-youtube.md)
   - [Maximum Entropy Inverse Reinforcement Learning for Mean-Field Games with Average Reward](../ai/rag/arxiv-2606-16759.md)
@@ -22025,6 +22022,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](../ai/community/show-hn-check-if-any-of-the-656m-in-unclaimed-roya.md)
   - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -23378,6 +23376,10 @@ Resources organized by keyword tags.
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
 
+## llm
+
+  - [Clean up Claude 5's token vomit with a separate LLM](../ai/community/zachahn-vomit.md)
+
 ## mdx
 
   - [cloudflare/cloudflare-docs](../ai/resources/cloudflare-cloudflare-docs.md)
@@ -24043,6 +24045,7 @@ Resources organized by keyword tags.
   - [Advanced Topic Modeling Techniques for Categorizing Software Vulnerabilities](../ai/rag/arxiv-2607-03887.md)
   - [AgentLeak: A Benchmark for Internal-Channel Privacy Leakage in Multi-Agent LLM Systems](../ai/agents/arxiv-2602-11510.md)
   - [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md)
+  - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [Architecture-Dependent Causal Transfer of Activation States Across Large Language Models](../ai/research/arxiv-2608-16347.md)
   - [Are LLMs Safe Beyond Text: Do Emojis Expose Gaps in Safety Evaluation](../ai/research/arxiv-2608-18164.md)
   - [Auto Classes · Hugging Face](../ai/rag/huggingface-docs-transformers.md)
@@ -24173,7 +24176,6 @@ Resources organized by keyword tags.
   - [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](../ai/models/huggingface-blog-mixtral.md)
   - [XBridge: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication](../ai/agents/arxiv-2608-11676.md)
   - [YouTube Researcher Program Application - YouTube Help](../ai/rag/youtube-researcher-program-application-youtube-hel.md)
-  - [Your Prompts and Skills need a system of record.](../ai/companies/mistral/your-prompts-and-skills-need-a-system-of-record.md)
   - [[2407.10930] Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](../ai/rag/arxiv-2407-10930.md)
   - [[2603.25551] Voxtral TTS](../ai/rag/arxiv-2603-25551.md)
   - [`langchain-google-genai` 4.0.0 Released! (Consolidated SDK, Vertex deprecations, and more) · langchain-ai/langchain-goog](../ai/rag/langchain-ai-langchain-google.md)
@@ -24192,6 +24194,7 @@ Resources organized by keyword tags.
 
 ## mistral-ai-news
 
+  - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
   - [Introducing Shieldstral.](../ai/companies/mistral/introducing-shieldstral.md)
@@ -24201,7 +24204,6 @@ Resources organized by keyword tags.
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
-  - [Your Prompts and Skills need a system of record.](../ai/companies/mistral/your-prompts-and-skills-need-a-system-of-record.md)
 
 ## modelcontextprotocol-servers
 
@@ -24462,6 +24464,7 @@ Resources organized by keyword tags.
   - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](../ai/rag/arxiv-2605-18770.md)
   - [Agentic Graph Token Reasoning](../ai/agents/arxiv-2608-00542.md)
   - [Agentic Planning for Symbolic Execution](../ai/rag/arxiv-2608-06397.md)
+  - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [Agentic Transaction: Towards ACID-Compliant Agent Systems](../ai/agents/arxiv-2608-13900.md)
   - [Agentic Vulnerability Reasoning on COTS Binaries](../ai/agents/arxiv-2605-05000.md)
   - [Agentic misalignment: How LLMs could be insider threats \ Anthropic](../ai/rag/agentic-misalignment-how-llms-could-be-insider-thr.md)
@@ -28101,7 +28104,6 @@ Resources organized by keyword tags.
   - [YouTube Researcher Program Application - YouTube Help](../ai/rag/youtube-researcher-program-application-youtube-hel.md)
   - [Your "Pro" LLM Subscription May Actually Be "Free": Exposing Fingerprint Spoofing Risks in LLM Inference Services](../ai/rag/arxiv-2606-16100.md)
   - [Your Agent Has a Genome: Sequence-Level Behavioral Analysis and Runtime Governance of LLM-Powered Autonomous Agents](../ai/rag/arxiv-2606-15579.md)
-  - [Your Prompts and Skills need a system of record.](../ai/companies/mistral/your-prompts-and-skills-need-a-system-of-record.md)
   - [Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety](../ai/research/arxiv-2606-25034.md)
   - [Z-PEFT: Zero-shot Backdoor Detection in Parameter-Efficient Fine-Tuning via Canonical Spectral Signatures](../ai/research/arxiv-2608-02271.md)
   - [ZK-SR117: A Chunked Zero-Knowledge Attestation Design for Aggregated Fair-Lending Metrics, with a Control Mapping toward Full SR 11-7 Coverage](../ai/rag/arxiv-2608-02664.md)
@@ -40120,7 +40122,6 @@ Resources organized by keyword tags.
   - [A Missing Piece in Climate Models: Nature’s Own Emissions - Yale E360](../ai/rag/a-missing-piece-in-climate-models-natures-own-emis.md)
   - [A Tour of Gemini Code Assist Standard and Enterprise for Developers in Google Cloud Shell Editor | Google Codelabs](../ai/rag/a-tour-of-gemini-code-assist-standard-and-enterpri.md)
   - [A Unifying Lens on Reward Uncertainty in RLHF](../ai/research/arxiv-2606-09073.md)
-  - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md)
   - [A/B (seamless) system updates | Android Open Source Project](../ai/rag/a-b-seamless-system-updates-android-open-source-pr.md)
   - [AB 540 nonresident tuition exemption | UC Admissions](../ai/resources/ab-540-nonresident-tuition-exemption-uc-admissions.md)
@@ -49541,4 +49542,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T18:59:54.179792+05:30*
+*Index generated on 2026-08-20T21:37:43.204227+05:30*

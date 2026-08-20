@@ -13,13 +13,14 @@ collected_at: '2026-08-20T18:43:39.905363+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:australia-passes-law-to-levy-tech-giants-that-fail
 first_seen: '2026-08-20T18:43:39.905363+05:30'
 last_seen: '2026-08-20T18:43:39.905363+05:30'
 last_checked: '2026-08-20T18:43:39.905363+05:30'
 health_score: 100
 ---
+
 
 # Australia passes law to levy tech giants that fail to pay for local news
 

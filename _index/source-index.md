@@ -17272,6 +17272,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: company_blog)
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
+  - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
   - [Applied AI](../ai/companies/openai/applied-ai.md)
@@ -17309,7 +17310,6 @@ Resources organized by publisher feed and query sources.
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
-  - [Your Prompts and Skills need a system of record.](../ai/companies/mistral/your-prompts-and-skills-need-a-system-of-record.md)
 
 ## Unknown Source (type: github)
 
@@ -18185,11 +18185,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
-  - [Australia passes law to levy tech giants that fail to pay for local news](../ai/community/australia-passes-law-to-levy-tech-giants-that-fail.md)
-  - [Don't Paste the AI, please](../ai/community/don-t-paste-the-ai-please.md)
-  - [Feature Request: Support AGENTS.md](../ai/community/anthropics-claude-code.md)
-  - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
+  - [An American Mosaic (interactive map of ancestry census data)](../ai/community/an-american-mosaic-interactive-map-of-ancestry-cen.md)
+  - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
+  - [Clean up Claude 5's token vomit with a separate LLM](../ai/community/zachahn-vomit.md)
+  - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](../ai/community/show-hn-check-if-any-of-the-656m-in-unclaimed-roya.md)
   - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
 
 ## Unknown Source (type: huggingface)
@@ -22005,4 +22004,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T18:59:54.400693+05:30*
+*Index generated on 2026-08-20T21:37:43.434394+05:30*

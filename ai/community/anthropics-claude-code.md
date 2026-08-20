@@ -14,13 +14,14 @@ tags:
 - agents
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: github:anthropics/claude-code
 first_seen: '2026-08-20T07:23:48.989182+05:30'
 last_seen: '2026-08-20T18:43:40.096302+05:30'
 last_checked: '2026-08-20T18:43:40.096302+05:30'
 health_score: 100
 ---
+
 
 # Feature Request: Support AGENTS.md
 
