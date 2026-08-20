@@ -1,325 +1,289 @@
 <div align="center">
 
-[![Vybe Intelligence Vault](https://github.com/sairaman436/vybe-intelligence-vault/raw/main/assets/vault-hero.png)](https://github.com/sairaman436/vybe-intelligence-vault)
+# ⚡ Vybe Intelligence Vault
 
-# `vybe-intelligence-vault`
+**The Living, Self-Reinforcing Knowledge Graph for AI Engineers & Autonomous Agent Swarms.**
 
-**Automated knowledge harvesting for AI engineers.**  
-Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
+*Autonomous Discovery • LLM Evaluation • Semantic Graph • MCP Context Gateway • 3D WebGL Visualization*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
-[![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-160%2C377-1f2937?style=flat-square)](#)
-[![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--21-374151?style=flat-square)](#)
+<br/>
 
-[Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
+[![Pipeline Status](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester.yml?style=flat-square&label=Harvester%20Pipeline&color=10b981)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
+[![Sync Cadence](https://img.shields.io/badge/Sync%20Cadence-Every%204%20Hours-0ea5e9?style=flat-square)](#-how-it-works)
+[![Daily Commits](https://img.shields.io/badge/Commit%20Budget-%E2%89%A4%2015%2Fday%20Capped-6366f1?style=flat-square)](#-commit-budget--resilience)
+[![Indexed Resources](https://img.shields.io/badge/Indexed%20Nodes-160%2C000%2B-8b5cf6?style=flat-square)](#-intelligence-dashboard)
+[![MCP Protocol](https://img.shields.io/badge/MCP-Agent%20Ready-ec4899?style=flat-square)](./mcp-server)
+[![License](https://img.shields.io/badge/License-MIT-gray?style=flat-square)](./LICENSE)
+
+<br/>
+
+[Overview](#-overview) • [How It Works](#-how-it-works) • [Architecture](#-architecture) • [MCP Integration](#-mcp-server--agent-integration) • [Learning Tracks](#-learning-paths--builder-maps) • [Quick Start](#-quick-start) • [Repository Structure](#-repository-structure)
 
 </div>
 
 ---
 
-## 📌 Overview
+## 🧭 Overview
 
-Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelligence Vault doesn't — it runs itself.
+Most AI knowledge bases go stale within weeks of creation. Static "Awesome Lists" suffer from broken links, abandoned forks, and uncurated noise.
 
-A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
+**Vybe Intelligence Vault is a self-maintaining, autonomous knowledge graph.**
 
-The result: a self-reinforcing knowledge graph of **160,377 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+Every 4 hours, a distributed pipeline scours the AI ecosystem (GitHub, research preprints, technical disclosures, and model releases), grades them using a multi-dimensional LLM evaluator, establishes semantic graph relationships, and commits fresh intelligence directly into this repository.
 
-**Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
+### 🌟 Key Highlights
+- **Zero Human Overhead**: End-to-end automated discovery, LLM scoring, and git sync.
+- **Model Context Protocol (MCP)**: Native HTTP and stdio interfaces allowing Claude Desktop, Cursor, and agent swarms to query the vault dynamically.
+- **Semantic 3D Graph**: Real-time WebGL interactive visualizer powered by React 19, Three.js, and vector embeddings.
+- **Strict Quality Control**: Multi-tier scoring filters out low-signal boilerplate and surfaces high-momentum engineering paradigms.
 
 ---
 
 ## ⚙️ How It Works
 
 ```
-Every 3 hours:
-
-  GitHub Actions Cron
-       │
-       ▼
-  evaluate_repo.py          ← discovers candidate resources from configured topics
-       │
-       ▼
-  LLM Scoring Engine        ← qwen2.5:14b (local) or cloud fallback
-       │  scores: quality, rag_relevance, tech_stack match
-       ▼
-  vault-core/               ← ranked .md files committed back to repo
-       │
-       ├─▶ rebuild-index.yml  ← triggers on push
-       │         │
-       │         ▼
-       │   nomic-embed-text   ← local Ollama embeddings
-       │         │
-       │         ▼
-       │   vault-index.json   ← semantic node/edge graph (cosine sim > 0.75)
-       │         │
-       │         ▼
-       │   React 3D Map       ← WebGL intelligence visualization (SWR polling)
-       │
-       └─▶ Orchestrator :3456 ← MCP gateway for agent context injection
-```
-
-### Scoring Pipeline
-
-Each resource is evaluated across 4 dimensions:
-
-| Signal | Method |
-|---|---|
-| Content quality | LLM pass via `qwen2.5:14b` / cloud fallback |
-| RAG relevance | Keyword + semantic scoring |
-| Community velocity | Stars delta, fork rate |
-| Tech stack match | Tag overlap with `config.yaml` topics |
-
-### Semantic Graph
-
-Embeddings via `nomic-embed-text` (Ollama). Two nodes are linked if:
-- Cosine similarity `> 0.75` → `similar_to`
-- Shared tech stack → `depends_on`  
-- Same category + shared tags → `references`
-
-Edge weight = `cosine_sim + (shared_tags × 0.08)`
-
-### MCP Gateway
-
-HTTP bridge on `:3456`. Send a vault file path → receive a clean, LLM-formatted context block. Agents can pull any resource into their context window without reading the filesystem directly.
-
-```bash
-# Example agent request
-curl -X POST http://localhost:3456/inject \
-  -d '{"path": "ai/agents/tool-use-patterns.md"}'
+                        ┌────────────────────────────────────────────────────────┐
+                        │             ⏰ Scheduled Trigger (Every 4h)             │
+                        └───────────────────────────┬────────────────────────────┘
+                                                    │
+                                                    ▼
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 1. DISCOVERY & INGESTION (Dual Engine Synergy)                                                         │
+│    • Core Engine (vybe-intelligence-engine): Scrapes RSS, ArXiv, Hugging Face, Tech Blogs, PapersWithCode  │
+│    • v2.0 Harvester: Discovers trending GitHub repositories, libraries, and framework releases          │
+└───────────────────────────────────────────────────┬────────────────────────────────────────────────────┘
+                                                    │
+                                                    ▼
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 2. LLM EVALUATION & QUALITY FILTERING                                                                  │
+│    • Multi-dimensional grading: Quality (1-10), RAG Relevance (1-10), Deployment Complexity, Tech Stack   │
+│    • Synthesis: Generates structured Markdown digests with standardized YAML frontmatter                │
+└───────────────────────────────────────────────────┬────────────────────────────────────────────────────┘
+                                                    │
+                                                    ▼
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 3. SEMANTIC GRAPH INDEXING                                                                             │
+│    • Vector similarity pass across active intelligence nodes                                           │
+│    • Computes bidirectional graph edges (similar_to, depends_on, references)                           │
+│    • Generates optimized runtime index: vault-index.json                                               │
+└───────────────────────────────────────────────────┬────────────────────────────────────────────────────┘
+                                                    │
+                                                    ▼
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 4. ATOMIC CONSOLIDATED COMMIT (Commit Rate Controlled)                                                 │
+│    • Consolidates digests + graph index + statistics into 1 single atomic commit                       │
+│    • Strict budget: ≤ 6 runs/day × 1 commit = Max 6 commits/day for v2.0 Harvester                     │
+└───────────────────────────────────────────────────┬────────────────────────────────────────────────────┘
+                                                    │
+                        ┌───────────────────────────┴────────────────────────────┐
+                        │                                                        │
+                        ▼                                                        ▼
+           ┌──────────────────────────┐                             ┌──────────────────────────┐
+           │   🌐 3D WebGL Explorer   │                             │  🤖 MCP Agent Gateway    │
+           │  Interactive React Graph │                             │ Dynamic Context Injector │
+           └──────────────────────────┘                             └──────────────────────────┘
 ```
 
 ---
 
-## 🏗 Architecture
+## 📊 Multi-Dimensional Scoring Matrix
+
+Every candidate resource is evaluated across four core engineering dimensions before entering the vault:
+
+| Dimension | Evaluation Criteria | Weight |
+|---|---|:---:|
+| **Technical Quality** | Code architecture, documentation completeness, test coverage, and API design | `35%` |
+| **RAG & Agent Relevance** | Direct utility for retrieval-augmented generation, tool calling, or agent workflows | `30%` |
+| **Tech Stack Alignment** | Modern stack integration (PyTorch, LangGraph, vLLM, FastMCP, Next.js, WebGL) | `20%` |
+| **Community Momentum** | Real-world velocity, star momentum, active maintenance, and contributor activity | `15%` |
+
+---
+
+## 🤖 MCP Server & Agent Integration
+
+The vault exposes a native **Model Context Protocol (MCP)** server, enabling seamless context injection into AI development workflows.
+
+### 1. Claude Desktop Configuration
+Add the vault MCP server to your `claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "vybe-vault": {
+      "command": "node",
+      "args": ["/path/to/vybe-intelligence-vault/mcp-server/index.js"]
+    }
+  }
+}
+```
+
+### 2. Cursor IDE Configuration
+In `.cursorrules` or `.cursor/mcp.json`:
+
+```json
+{
+  "mcpServers": {
+    "vybe-intelligence-vault": {
+      "command": "node",
+      "args": ["scripts/orchestrator/context-injector.js"]
+    }
+  }
+}
+```
+
+### 3. Direct HTTP Context Gateway
+For custom agent frameworks (LangGraph, CrewAI, AutoGen):
+
+```bash
+# Query the context gateway
+curl -X POST http://localhost:3456/inject \
+  -H "Content-Type: application/json" \
+  -d '{"path": "ai/agents/vostride-agent-qa.md"}'
+```
+
+---
+
+## 🏗 Architecture & Ecosystem
 
 ```mermaid
 graph TD
-    A[⏰ Cron / Dispatch Trigger] -->|every 3h| B(evaluate_repo.py)
-    B -->|LLM score| C{Decision Engine}
-    C -->|pass threshold| D[vault-core/]
-    C -->|reject| X[❌ Discarded]
-    D -->|git push| E(rebuild-index.yml)
-    E -->|nomic-embed-text| F[vault-index.json]
-    F -->|SWR poll| G[🌐 React 3D Map]
-    H[🤖 AI Agent] -->|MCP request| I[Orchestrator :3456]
-    I -->|read + format| D
+    A[⏰ Cron: 0 */4 * * *] -->|Every 4h| B[GitHub Actions Runner]
+    B --> C[evaluate_repo.py]
+    C --> D{LLM Decision Engine}
+    D -->|Quality Score >= 7| E[daily-digests/YYYY-MM-DD/]
+    D -->|Low Signal| F[Discarded]
+    E --> G[node scripts/build-index.js]
+    G --> H[vault-index.json]
+    G --> I[React WebGL Public Bundle]
+    H --> J[Atomic Git Commit & Push]
+    
+    K[🤖 AI Agent / Developer] -->|MCP Tool Request| L[Orchestrator :3456]
+    L -->|Context Block| H
 
-    style A fill:#1f2937,color:#e5e7eb
-    style D fill:#111827,color:#e5e7eb
-    style G fill:#1f2937,color:#e5e7eb
-    style H fill:#374151,color:#e5e7eb
+    style A fill:#1e293b,stroke:#0ea5e9,stroke-width:2px,color:#f8fafc
+    style E fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#f8fafc
+    style H fill:#1e1e2e,stroke:#8b5cf6,stroke-width:2px,color:#f8fafc
+    style J fill:#064e3b,stroke:#059669,stroke-width:2px,color:#f8fafc
 ```
 
-### Key Design Decisions
+### Commit Budget & Rate Limiting
 
-**Write-lock state management** — `state.lock` prevents collision writes when multiple pipeline jobs run concurrently. All mutations are append-only to `vault-events.log` (JSONL). In-memory reads use a 30s TTL. → [`scripts/state-manager.js`](./scripts/state-manager.js)
+To keep git history concise and prevent repository bloat, commit creation across the entire ecosystem is strictly budgeted:
 
-**Hybrid inference** — Pipeline tries local Ollama first (zero cost, no rate limits). Falls back to cloud LLM if Ollama is unavailable. Scoring is deterministic via fixed seed. → [`scripts/evaluate_repo.py`](./scripts/evaluate_repo.py)
-
-**Bot commits on heatmap** — Git identity configured so automated commits register on the contribution graph. Pipeline runs as `vybe-bot` with a PAT scoped to `repo` only. → [`.github/workflows/harvester.yml`](./.github/workflows/harvester.yml)
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- [Ollama](https://ollama.com) installed and running
-- Node.js 18+
-- Python 3.10+
-
-### Setup
-
-```bash
-# Clone
-git clone https://github.com/sairaman436/vybe-intelligence-vault.git
-cd vybe-intelligence-vault
-
-# Pull required models
-ollama pull nomic-embed-text   # embeddings
-ollama pull qwen2.5:14b        # scoring
-
-# Install dependencies
-npm install
-pip install -r requirements.txt
-
-# Start everything (MCP server + orchestrator + web UI)
-bash scripts/vault-init.sh
-```
-
-### Verify
-
-```bash
-# Check service health, ports, and event log
-bash scripts/vault-status.sh
-```
-
-Open `http://localhost:3000` for the 3D intelligence map.
-
-### Configure Topics
-
-Edit `vault-core/config.yaml` to control what gets harvested:
-
-```yaml
-topics:
-  - ai-agents
-  - rag-architectures
-  - mcp-servers
-  - llm-inference
-  - next-gen-web
-
-token_budget: 4096
-score_threshold: 0.65
-```
-
----
-
-<!-- VAULT_STATS:START -->
-
-<div align="center">
-  <h2>📊 Intelligence Analytics Dashboard</h2>
-  <p><em>Real-time metrics generated from active vault contents.</em></p>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 21,655</p>
-        <p><b>Active:</b> 20,975 | <b>Inactive:</b> 680</p>
-      </td>
-      <td align="center">
-        <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,276</p>
-        <p><b>Builder Maps:</b> 8</p>
-      </td>
-      <td align="center">
-        <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 160,377 files</p>
-        <p><b>Last Update:</b> 2026-08-21 00:12 IST</p>
-        <p><b>Health:</b> 🟢 Optimal</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-### 📈 Trending Signals
-> Top rising resources based on momentum and community velocity.
-
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+984</kbd>
-- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+984</kbd>
-- 🔼 **[BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)** • Rank: <kbd>+984</kbd>
-- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+984</kbd>
-- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+984</kbd>
-
-### 🌟 New Discoveries
-> Fresh intelligence recently indexed into the vault.
-
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
-
-### 💤 Recently Inactive
-> Resources showing declined activity or relevance.
-
-- None.
-
-The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
-
-<!-- Automated Stats Injection Block -->
-
-<!-- VAULT_STATS:END -->
+- **v2.0 Harvester (`harvester.yml`)**: Every 4 hours &rarr; **Max 6 commits/day** (1 atomic commit per cycle)
+- **Core Engine (`harvester-core.yml`)**: Every 4 hours staggered &rarr; **Max 6 commits/day**
+- **Nightly Analytics (`vault-nightly-analytics.yml`)**: Daily at midnight &rarr; **Max 1 commit/day**
+- **Total Ecosystem Volume**: **&le; 13 commits/day maximum** (well below the 15/day limit)
 
 ---
 
 ## 📚 Learning Paths & Builder Maps
 
-The vault includes curated paths and essential guides to help you build faster:
+The vault includes curated educational pathways and production blueprints:
 
-### 8 Learning Paths
-* [7-Day Agent Builder](learning-paths/7-day-agent-builder.md)
-* [7-Day AI Engineering](learning-paths/7-day-ai-engineering.md)
-* [7-Day AI Frontend](learning-paths/7-day-ai-frontend.md)
-* [7-Day AI SaaS Builder](learning-paths/7-day-ai-saas-builder.md)
-* [7-Day Automation Builder](learning-paths/7-day-automation-builder.md)
-* [7-Day LLMOps](learning-paths/7-day-llmops.md)
-* [7-Day MCP Builder](learning-paths/7-day-mcp-builder.md)
-* [7-Day RAG Builder](learning-paths/7-day-rag-builder.md)
+### 🎓 8 Accelerated Learning Paths (7-Day Sprints)
+- 🤖 **[7-Day Agent Builder](learning-paths/7-day-agent-builder.md)** — Autonomous agent loops, tool use, and multi-agent coordination.
+- ⚡ **[7-Day AI Engineering](learning-paths/7-day-ai-engineering.md)** — Fine-tuning, quantization, evaluations, and structured outputs.
+- 🎨 **[7-Day AI Frontend](learning-paths/7-day-ai-frontend.md)** — Streaming UI, generative components, and WebGL integration.
+- 💼 **[7-Day AI SaaS Builder](learning-paths/7-day-ai-saas-builder.md)** — Production architecture, tenant isolation, and billing integration.
+- 🔄 **[7-Day Automation Builder](learning-paths/7-day-automation-builder.md)** — Background workflows, cron triggers, and fault-tolerant pipelines.
+- 📈 **[7-Day LLMOps](learning-paths/7-day-llmops.md)** — Observability, tracing, rate limiting, and cost optimization.
+- 🔌 **[7-Day MCP Builder](learning-paths/7-day-mcp-builder.md)** — Developing, testing, and deploying custom Model Context Protocol servers.
+- 🔍 **[7-Day RAG Builder](learning-paths/7-day-rag-builder.md)** — Chunking strategies, hybrid search, reranking, and vector databases.
 
-### 6 Best-Of Guides
-* [Essential 3D WebDev](workspace-archive/best-of/essential-3d-webdev.md)
-* [Essential Agent Building](workspace-archive/best-of/essential-agent-building.md)
-* [Essential AI Engineering](workspace-archive/best-of/essential-ai-engineering.md)
-* [Essential Automation](workspace-archive/best-of/essential-automation.md)
-* [Essential Frontend AI UI](workspace-archive/best-of/essential-frontend-ai-ui.md)
-* [Essential RAG Stack](workspace-archive/best-of/essential-rag-stack.md)
+### 🗺 6 Production Blueprints
+- 🌐 [Essential 3D WebDev Blueprint](workspace-archive/best-of/essential-3d-webdev.md)
+- 🤖 [Essential Agent Building Blueprint](workspace-archive/best-of/essential-agent-building.md)
+- 🧠 [Essential AI Engineering Blueprint](workspace-archive/best-of/essential-ai-engineering.md)
+- ⚙️ [Essential Automation Blueprint](workspace-archive/best-of/essential-automation.md)
+- 💻 [Essential Frontend AI UI Blueprint](workspace-archive/best-of/essential-frontend-ai-ui.md)
+- 📚 [Essential RAG Stack Blueprint](workspace-archive/best-of/essential-rag-stack.md)
 
 ---
 
-## 📁 Repository Layout
+## 🚀 Quick Start
+
+### 1. Clone & Setup
+```bash
+# Clone the repository
+git clone https://github.com/sairaman436/vybe-intelligence-vault.git
+cd vybe-intelligence-vault
+
+# Install dependencies
+npm install
+pip install -r requirements.txt
+```
+
+### 2. Run Local Smoke Tests
+```bash
+# Validate state manager, graph reader, and decision engine
+node scripts/test-smoke.js
+```
+
+### 3. Build & Update the Semantic Graph
+```bash
+# Compile vault-index.json and sync React public assets
+node scripts/build-index.js
+```
+
+### 4. Launch the 3D Intelligence Map
+```bash
+cd intelligence-map
+npm install
+npm run dev
+```
+Open [http://localhost:5173](http://localhost:5173) to explore the interactive 3D WebGL knowledge graph.
+
+---
+
+## 📁 Repository Structure
 
 ```
 vybe-intelligence-vault/
 ├── .github/
 │   └── workflows/
-│       ├── harvester.yml        # Main 1h cron pipeline
-│       └── rebuild-index.yml    # Triggered on vault-core/ push
+│       ├── harvester.yml           # 4-hour v2.0 discovery & atomic commit workflow
+│       ├── harvester-core.yml      # 4-hour core engine sync workflow
+│       └── vault-nightly-analytics.yml # Midnight health & trends digest
 │
-├── vault-core/
-│   ├── config.yaml              # Topics, token budgets, score thresholds
-│   ├── vault-index.json         # Compiled semantic node/edge graph
-│   └── vault-events.log         # Append-only JSONL event ledger
+├── daily-digests/                  # Date-indexed intelligence summaries
+│   └── YYYY-MM-DD/                 # Daily evaluated resources
 │
-├── intelligence-map/            # React 19 + WebGL 3D dashboard
+├── ai/                             # Categorized knowledge nodes
+│   ├── agents/                     # Agent frameworks & architectures
+│   ├── rag/                        # Retrieval & vector systems
+│   ├── models/                     # Foundation & open-weight models
+│   └── research/                   # Breakthrough papers & preprints
 │
-├── mcp-server/                  # FastMCP integration server
+├── learning-paths/                 # 7-day sprint roadmaps
+├── maps/                           # High-level architecture maps
+├── skills/                         # Guided domain checklists
+├── mcp-server/                     # Native FastMCP server implementation
 │
 ├── scripts/
-│   ├── evaluate_repo.py         # Resource discovery + LLM scoring
-│   ├── orchestrator/
-│   │   └── context-injector.js  # MCP context formatter
-│   ├── state-manager.js         # Lock-safe state writes
-│   ├── build-index.js           # Embedding + edge compiler
-│   ├── vault-init.sh            # Startup daemon (concurrent)
-│   └── vault-status.sh          # Port + health diagnostics
+│   ├── evaluate_repo.py            # Discovery & LLM evaluation engine
+│   ├── build-index.js              # Graph compiler & vector edge generator
+│   ├── state-manager.js            # Lock-safe atomic index reader/writer
+│   └── test-smoke.js               # Pipeline verification suite
 │
-├── ai/                          # Indexed resources by category
-│   ├── agents/
-│   ├── rag/
-│   ├── models/
-│   └── mcp/
-│
-└── search-index.md              # Flat searchable index
+├── intelligence-map/               # React 19 + Three.js 3D WebGL interface
+├── vault-index.json                # Master semantic graph index
+└── search-index.md                 # Fast plaintext lookup table
 ```
 
 ---
 
-## 🗺 Roadmap
+## 🤝 Contributing & Submitting Resources
 
-- [ ] Vector search API over `vault-index.json` (FastAPI endpoint)
-- [ ] Discord/Slack bot that answers "what's new in RAG this week?"
-- [ ] Contributor scoring — track who surfaces the highest-value resources
-- [ ] Export to Obsidian vault format
-- [ ] GitHub App so others can run their own vault instance
+We welcome community submissions of high-quality AI tools, libraries, research, and MCP servers!
 
----
-
-## 🤝 Contributing
-
-PRs welcome. Read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
-
-```bash
-# Run the scoring pipeline locally against a single URL
-python scripts/evaluate_repo.py --url https://github.com/your/repo --dry-run
-```
-
-Bug reports → [open an issue](https://github.com/sairaman436/vybe-intelligence-vault/issues)  
-MIT License — see [LICENSE](./LICENSE)
+- **Submit a Resource**: Open an issue using our [Resource Suggestion Template](https://github.com/sairaman436/vybe-intelligence-vault/issues/new?template=resource-suggestion.yml).
+- **Automated Ingestion**: Once approved, suggested resources are evaluated by the harvester pipeline and integrated into the graph.
 
 ---
 
 <div align="center">
-<sub>Built by <a href="https://github.com/sairaman436">@sairaman436</a> · Auto-updating since 2026</sub>
+
+<sub>Engineered with precision by <a href="https://github.com/sairaman436">@sairaman436</a> • Self-updating continuously since 2026</sub>
+
 </div>
