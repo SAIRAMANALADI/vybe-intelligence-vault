@@ -2,7 +2,7 @@ name: Harvest Public Vault Core
 
 on:
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "17 */4 * * *"
   workflow_dispatch:
     inputs:
       mode:
@@ -34,7 +34,7 @@ jobs:
       DISCOVERY_ENABLED: "true"
       DISCOVERY_MODE: "wide_net"
       ENABLE_DAEMON_SYNC: "false"
-      DEFAULT_POLL_INTERVAL_MINUTES: 180
+      DEFAULT_POLL_INTERVAL_MINUTES: 240
       LOCAL_VAULT_PATH: "./vault"
       VAULT_BRANCH: "main"
       RUN_MODE: ${{ github.event.inputs.mode || 'normal' }}
