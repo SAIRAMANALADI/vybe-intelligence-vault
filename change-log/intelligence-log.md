@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-08-20T17:02:21.134664+05:30
+### Run: 2026-08-20T18:20:25.027239+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `krishnaik06/Agentic-LanggraphCrash-course`: Rank rose by +984
 - **[Rank Rise]** `CALLE-AI/awesome-phone-call-agents`: Rank rose by +984
@@ -20969,7 +20969,7 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `stanford-oval/storm`: Rank dropped by -15196
 - **[Rank Drop]** `infiniflow/ragflow`: Rank dropped by -18283
 
-### Run: 2026-08-20T16:06:08.070240+05:30
+### Run: 2026-08-20T17:02:21.134664+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `krishnaik06/Agentic-LanggraphCrash-course`: Rank rose by +984
 - **[Rank Rise]** `CALLE-AI/awesome-phone-call-agents`: Rank rose by +984
