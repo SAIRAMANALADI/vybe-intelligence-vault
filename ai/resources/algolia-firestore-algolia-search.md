@@ -1,31 +1,31 @@
 ---
-title: GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1
+title: GitHub - algolia/firestore-algolia-search at 36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe
   · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/algolia/firestore-algolia-search/tree/6af4b6de9301f25718743af54105d37ebd0606f1
-published_at: '2026-07-18T16:57:24.975787+05:30'
-collected_at: '2026-07-18T16:57:24.975796+05:30'
+source_url: https://github.com/algolia/firestore-algolia-search/tree/36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe
+published_at: '2026-08-10T13:49:07.300510+05:30'
+collected_at: '2026-08-10T13:49:07.300523+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:algolia/firestore-algolia-search
-first_seen: '2026-07-18T16:57:24.975796+05:30'
-last_seen: '2026-07-18T16:57:24.975796+05:30'
-last_checked: '2026-07-18T16:57:24.975796+05:30'
+first_seen: '2026-08-10T13:49:07.300523+05:30'
+last_seen: '2026-08-10T13:49:07.300523+05:30'
+last_checked: '2026-08-10T13:49:07.300523+05:30'
 health_score: 100
 ---
 
-# GitHub - algolia/firestore-algolia-search at 6af4b6de9301f25718743af54105d37ebd0606f1 · GitHub
+# GitHub - algolia/firestore-algolia-search at 36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe · GitHub
 
 ## Summary
 
-- **Real-time Firestore-to-Algolia Sync**: Extension indexes Firestore documents (or specified fields) into Algolia as records, syncing CRUD operations (create/update/delete) bidirectionally using Firestore triggers and Algolia's API.
+- **Real-time Firestore-to-Algolia Sync**: Extension listens to Firestore collection/subcollection changes (create/update/delete) and propagates them to Algolia as indexed records, using Firestore document ID as Algolia object ID by default.
 
-- **Configurable Indexing & Relevance**: Supports field-specific indexing (comma-separated or all fields), custom Algolia object IDs (via document ID or path), and relevance tuning via Algolia dashboard/API; optional transform functions modify payloads before indexing.
+- **Configurable Indexing & Relevance**: Supports selective field indexing (comma-separated) with size limits; relevance tuning via Algolia dashboard/API; front-end search integration via Algolia InstantSearch libraries.
 
-- **Prerequisites & Billing**: Requires Firestore database + Algolia account; deploys Cloud Functions (Blaze plan) with costs for Firestore operations, Cloud Functions, and Algolia usage; initial sync may incur small charges.
+- **Advanced Configuration Options**: Optional fields include `Force Data Sync` (resolves race conditions), `Alternative Object ID` (custom Firestore property/path), and experimental `Transform Function` (pre-index data processing via Cloud Functions).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-18T16:57:24.975787+05:30
+- Published: 2026-08-10T13:49:07.300510+05:30
 
 ## Related Tags
 
@@ -43,4 +43,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/algolia/firestore-algolia-search/tree/6af4b6de9301f25718743af54105d37ebd0606f1
+Original source: https://github.com/algolia/firestore-algolia-search/tree/36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe

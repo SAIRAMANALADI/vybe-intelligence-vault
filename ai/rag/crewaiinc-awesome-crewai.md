@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/awesome-crewai
-collected_at: '2026-08-06T01:32:56.407299+05:30'
-published_at: '2026-08-05T02:52:27Z'
+collected_at: '2026-08-11T00:58:54.279988+05:30'
+published_at: '2026-08-09T11:45:48Z'
 tags:
 - agents
 - github-repo
 - rag
 - unknown
-stars: 509
+stars: 511
 language: Unknown
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-25T15:39:51Z'
 pushed_at: '2025-06-09T15:58:36Z'
 resource_id: github:crewaiinc/awesome-crewai
-first_seen: '2026-08-06T01:32:56.407299+05:30'
-last_seen: '2026-08-06T01:32:56.407299+05:30'
-last_checked: '2026-08-06T01:32:56.407299+05:30'
+first_seen: '2026-08-11T00:58:54.279988+05:30'
+last_seen: '2026-08-11T00:58:54.279988+05:30'
+last_checked: '2026-08-11T00:58:54.279988+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Open-Source Projects**: Repository showcasing community-built projects leveraging CrewAI for AI agent development.
-- **Collaborative Platform**: Enables discovery, contribution, and extension of AI agent capabilities through open-source initiatives.
-- **Metadata**: 509 stars, 135 forks, last updated 2026-08-05T02:52:27Z.
+- **Curated Open-Source Projects**: Repository listing community-built projects leveraging CrewAI, an AI agent framework, to enable discovery, contribution, and extension of AI agent capabilities.
+- **Metadata**: 511 stars, 137 forks, last updated on 2026-08-09; language and topics unspecified.
+- **Purpose**: Facilitates collaboration and innovation in AI agent development through open-source contributions.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 509
-- Forks: 135
+- Stars: 511
+- Forks: 137
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-05T02:52:27Z
+- Last Updated: 2026-08-09T11:45:48Z
 - License: MIT
 - Archived: No
 - Created At: 2024-11-25T15:39:51Z

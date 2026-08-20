@@ -11,11 +11,11 @@ authors:
 - Ruochen Xu
 - Xing Xie
 year: 2024
-citation_count: 66
+citation_count: 69
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-07-19T16:15:04.071955+05:30'
+collected_at: '2026-08-20T18:43:38.328557+05:30'
 tags:
 - agents
 - benchmark
@@ -27,8 +27,8 @@ tags:
 status: active
 resource_id: blog:dyval-2-dynamic-evaluation-of-large-language-model
 first_seen: '2026-07-19T16:15:04.071955+05:30'
-last_seen: '2026-07-19T16:15:04.071955+05:30'
-last_checked: '2026-07-19T16:15:04.071955+05:30'
+last_seen: '2026-08-20T18:43:38.328557+05:30'
+last_checked: '2026-08-20T18:43:38.328557+05:30'
 health_score: 100
 ---
 
@@ -46,7 +46,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Kaijie Zhu, Jindong Wang, Qinlin Zhao, Ruochen Xu, Xing Xie
 - Publication Year: 2024
-- Citation Count: 66
+- Citation Count: 69
 - Paper Link: https://semanticscholar.org/paper/0334987f094121c094d5043ab38f14ebf5852c05
 - Code Link: None
 - Code Stars: N/A

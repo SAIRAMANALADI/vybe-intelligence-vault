@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-08-07T08:51:58.944424+05:30'
-published_at: '2026-08-06T15:30:52Z'
+collected_at: '2026-08-12T13:31:38.207738+05:30'
+published_at: '2026-08-11T20:18:47Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 168
+stars: 171
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-08-07T08:51:58.944424+05:30'
-last_seen: '2026-08-07T08:51:58.944424+05:30'
-last_checked: '2026-08-07T08:51:58.944424+05:30'
+first_seen: '2026-08-12T13:31:38.207738+05:30'
+last_seen: '2026-08-12T13:31:38.207738+05:30'
+last_checked: '2026-08-12T13:31:38.207738+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Memory-Augmented Multi-Agent Framework**: Introduces a memory-based multi-agent system (`MemGraphRAG`) for graph retrieval-augmented generation (GraphRAG), leveraging agent-memory interactions to enhance structured knowledge retrieval and generation.
-
-- **Ontology-Guided Graph Construction**: Implements ontology-driven graph construction to dynamically build and refine knowledge graphs, enabling efficient subgraph retrieval and contextual reasoning for downstream tasks.
-
-- **KDD 2026 Contribution**: Proposes a novel approach to GraphRAG by integrating agent memory with graph-based retrieval, optimizing performance for large-scale knowledge-intensive applications.
+*   Implements a memory-based multi-agent system architecture.
+*   Leverages Graph Retrieval-Augmented Generation (RAG) for enhanced information synthesis.
+*   Features dynamic graph and ontology construction for knowledge representation and retrieval.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: XMUDeepLIT
-- Stars: 168
-- Forks: 31
+- Stars: 171
+- Forks: 32
 - Language: Python
 - Topics: agent-memory, graph-construction, graphrag, multi-agent, ontology, ontology-construction, rag
-- Last Updated: 2026-08-06T15:30:52Z
+- Last Updated: 2026-08-11T20:18:47Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-02T03:16:55Z

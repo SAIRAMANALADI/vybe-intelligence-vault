@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/labring/sealos
-collected_at: '2026-08-07T08:52:08.990923+05:30'
-published_at: '2026-08-06T21:09:34Z'
+collected_at: '2026-08-11T00:56:29.129976+05:30'
+published_at: '2026-08-10T04:25:59Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - typescript
-stars: 18318
+stars: 18317
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2018-08-15T12:22:50Z'
-pushed_at: '2026-08-07T01:56:57Z'
+pushed_at: '2026-08-10T09:40:12Z'
 resource_id: github:labring/sealos
-first_seen: '2026-08-07T08:52:08.990923+05:30'
-last_seen: '2026-08-07T08:52:08.990923+05:30'
-last_checked: '2026-08-07T08:52:08.990923+05:30'
+first_seen: '2026-08-11T00:56:29.129976+05:30'
+last_seen: '2026-08-11T00:56:29.129976+05:30'
+last_checked: '2026-08-11T00:56:29.129976+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Enables deployment of GitHub/AI-generated projects with AI-driven operations for continuous uptime, leveraging Kubernetes (kubeadm, HA) and containerization (Docker, IPVS).
-- **Tech Stack**: Primarily TypeScript with Go (Golang) components; supports cloud-native orchestration via Kubernetes and container management.
-- **Features**: Facilitates HA Kubernetes clusters, IPVS-based load balancing, and seamless project deployment from GitHub or AI agents with automated maintenance.
+- **Purpose**: Enables deployment of GitHub/AI-generated projects and ensures continuous operation via AI-driven management, leveraging Kubernetes for orchestration.
+
+- **Technical Stack**: Primarily written in TypeScript with Go components; integrates `kubeadm`, `IPVS`, and `Docker` for cluster setup, networking, and containerization.
+
+- **Features**: Supports Kubernetes HA (High Availability) deployments, simplifies cloud OS management, and provides tools for installation and scaling across clusters.
 
 ## Why It Matters
 
@@ -40,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: labring
-- Stars: 18318
+- Stars: 18317
 - Forks: 2476
 - Language: TypeScript
 - Topics: cloudos, container, docker, golang, install, ipvs, kubeadm, kubernetes, kubernetes-ha
-- Last Updated: 2026-08-06T21:09:34Z
+- Last Updated: 2026-08-10T04:25:59Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2018-08-15T12:22:50Z
-- Pushed At: 2026-08-07T01:56:57Z
+- Pushed At: 2026-08-10T09:40:12Z
 
 ## Possible Use Cases
 

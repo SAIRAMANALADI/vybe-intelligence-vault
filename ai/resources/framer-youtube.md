@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/@Framer
-published_at: '2026-08-02T14:18:07.154950+05:30'
-collected_at: '2026-08-02T14:18:07.154964+05:30'
+published_at: '2026-08-10T00:44:49.198944+05:30'
+collected_at: '2026-08-10T00:44:49.198958+05:30'
 tags:
 - hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:framer-youtube
-first_seen: '2026-08-02T14:18:07.154964+05:30'
-last_seen: '2026-08-02T14:18:07.154964+05:30'
-last_checked: '2026-08-02T14:18:07.154964+05:30'
+first_seen: '2026-08-10T00:44:49.198958+05:30'
+last_seen: '2026-08-10T00:44:49.198958+05:30'
+last_checked: '2026-08-10T00:44:49.198958+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services like content hosting, streaming, and monetization for creators via the YouTube Partner Program.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and creator tools under unified policies.
 
-- **Technical Infrastructure**: Utilizes Google’s infrastructure (e.g., CDN, AI-driven recommendations) for scalable video delivery, with APIs (YouTube Data/Player APIs) for developers to integrate functionality.
+- **Technical Infrastructure**: Utilizes Google’s distributed systems for scalable video delivery, with backend APIs (YouTube Data API v3) and developer resources for integration and innovation.
 
-- **Policy & Compliance**: Enforces strict copyright policies (Content ID system), privacy regulations (GDPR, COPPA), and community guidelines via automated and manual moderation tools.
+- **Policy & Compliance**: Enforces strict copyright, privacy, and safety policies via automated systems and human review, with regional legal compliance managed through Google’s global framework.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-02T14:18:07.154950+05:30
+- Published: 2026-08-10T00:44:49.198944+05:30
 
 ## Related Tags
 

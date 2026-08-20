@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pingwu/crewai-similar-framework-finder-template
-collected_at: '2026-08-07T08:54:24.081283+05:30'
+collected_at: '2026-08-11T00:58:44.222301+05:30'
 published_at: '2024-11-27T05:39:44Z'
 tags:
 - agents
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-11-10T19:48:54Z'
 pushed_at: '2024-11-10T21:06:54Z'
 resource_id: github:pingwu/crewai-similar-framework-finder-template
-first_seen: '2026-08-07T08:54:24.081283+05:30'
-last_seen: '2026-08-07T08:54:24.081283+05:30'
-last_checked: '2026-08-07T08:54:24.081283+05:30'
+first_seen: '2026-08-11T00:58:44.222301+05:30'
+last_seen: '2026-08-11T00:58:44.222301+05:30'
+last_checked: '2026-08-11T00:58:44.222301+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template for identifying Python frameworks similar to CrewAI, facilitating comparative analysis of multi-agent orchestration tools.
-- **Structure**: Python-based repository with minimal initial setup (1 star, 9 forks), last updated November 27, 2024.
-- **Functionality**: Likely automates framework discovery via metadata/API analysis, though no explicit implementation details are provided in the metadata.
+- **Purpose**: Template to identify and compare frameworks similar to CrewAI, a Python-based multi-agent orchestration framework.
+- **Tech Stack**: Implemented in Python, designed for extensibility and modular comparison of agentic AI frameworks.
+- **Metadata**: 1 star, 9 forks, last updated 2024-11-27. No active topics or tags.
 
 ## Why It Matters
 

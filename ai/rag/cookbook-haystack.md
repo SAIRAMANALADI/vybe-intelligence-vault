@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-08-07T05:56:20.747572+05:30'
-collected_at: '2026-08-07T05:56:20.747588+05:30'
+published_at: '2026-08-10T19:25:24.361041+05:30'
+collected_at: '2026-08-10T19:25:24.361053+05:30'
 tags:
 - agents
 - benchmark
@@ -17,12 +17,11 @@ tags:
 - reddit
 - scripts
 - web-crawled
-- workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-08-07T05:56:20.747588+05:30'
-last_seen: '2026-08-07T05:56:20.747588+05:30'
-last_checked: '2026-08-07T05:56:20.747588+05:30'
+first_seen: '2026-08-10T19:25:24.361053+05:30'
+last_seen: '2026-08-10T19:25:24.361053+05:30'
+last_checked: '2026-08-10T19:25:24.361053+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,14 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook**: Repository of 49 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and advanced features (e.g., agents, RAG, multimodal) with Haystack, including examples for PostgreSQL keyword search optimization and hybrid RAG pipelines.
+- **Haystack Cookbook** provides 49 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, covering topics like Agents, RAG, Advanced Retrieval, and Multimodal pipelines.
 
-- **Agentic & RAG Workflows**: Showcases agent-based retrieval (e.g., OpenStreetMap itinerary planning), cost-aware agents, memory integration (Mem0), and advanced RAG techniques like query decomposition, HyDE, and metadata enrichment for improved retrieval accuracy.
+- **Key Recipes Include**:
+  - **Agentic Systems**: Computer-use agents with skills, cost-aware agents, itinerary planning with OpenStreetMap, and GitHub issue resolvers.
+  - **Advanced RAG Techniques**: Query decomposition, HyDE for improved retrieval, hybrid RAG with breakpoints, and metadata enrichment.
+  - **Multimodal & Observability**: Multimodal text generation, RAG evaluation with Arize Phoenix, and safety moderation with guardrails.
 
-- **Tooling & Evaluation**: Covers model serving (vLLM, NVIDIA NIMs), observability (Arize Phoenix), guardrails (content moderation), and evaluation frameworks (DeepEval, RAGAS, Prometheus 2) for assessing RAG pipelines and agent performance.
+- **Integration Focus**: Recipes emphasize customization (e.g., DSPy for prompt optimization), model serving (e.g., vLLM, NVIDIA NIMs), and data processing (e.g., tabular data with Prior Labs MCP).
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T05:56:20.747572+05:30
+- Published: 2026-08-10T19:25:24.361041+05:30
 
 ## Related Tags
 
@@ -58,7 +60,6 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
-- workflows
 
 ## Source
 

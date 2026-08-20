@@ -1,31 +1,31 @@
 ---
-title: spec/cloudevents/spec.md at main · cloudevents/spec · GitHub
+title: spec/spec.md at v1.0 · cloudevents/spec · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/cloudevents/spec/blob/main/cloudevents/spec.md
-published_at: '2026-07-19T19:40:08.689128+05:30'
-collected_at: '2026-07-19T19:40:08.689142+05:30'
+source_url: https://github.com/cloudevents/spec/blob/v1.0/spec.md
+published_at: '2026-08-08T21:31:58.051454+05:30'
+collected_at: '2026-08-08T21:31:58.051467+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: github:cloudevents/spec
-first_seen: '2026-07-19T19:40:08.689142+05:30'
-last_seen: '2026-07-19T19:40:08.689142+05:30'
-last_checked: '2026-07-19T19:40:08.689142+05:30'
+first_seen: '2026-08-08T21:31:58.051467+05:30'
+last_seen: '2026-08-08T21:31:58.051467+05:30'
+last_checked: '2026-08-08T21:31:58.051467+05:30'
 health_score: 100
 ---
 
-# spec/cloudevents/spec.md at main · cloudevents/spec · GitHub
+# spec/spec.md at v1.0 · cloudevents/spec · GitHub
 
 ## Summary
 
-- **Standardized Event Format**: CloudEvents defines a vendor-neutral specification for structuring event data, ensuring interoperability across diverse systems, platforms, and services by providing a common schema for event representation.
+- **Standardized Event Format**: CloudEvents v1.0 defines a vendor-neutral specification for structuring event data, ensuring interoperability across services, platforms, and systems via common context attributes and data schemas.
 
-- **Core Attributes & Data Types**: Mandatory context attributes (e.g., `id`, `source`, `specversion`) and optional extensions are strictly typed (e.g., `String`, `Integer`, `Timestamp`, `URI`), with canonical string encodings (e.g., RFC 3339 for timestamps, RFC 3986 for URIs) enforced for cross-protocol consistency.
+- **Mandatory Context Attributes**: All CloudEvents must include `id` (unique event identifier), `source` (URI-reference of the event context), `specversion` (CloudEvents version, e.g., `1.0`), and `type` (event type descriptor), with strict type constraints (e.g., `String`, `URI-reference`).
 
-- **Message Serialization Modes**: Supports structured-mode (entire event in message body), binary-mode (attributes in metadata, data in body), and batch-mode (multiple events in a single message), with JSON as the mandatory default format and protocol bindings for transport (e.g., HTTP, AMQP, Kafka).
+- **Type System & Encoding**: Attributes must adhere to a canonical type system (`Boolean`, `Integer`, `String`, `Binary`, `URI`, `Timestamp`) with defined string encodings (e.g., RFC 3339 for timestamps, Base64 for binary data), ensuring consistent serialization across protocols (JSON, HTTP, AMQP, etc.).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-19T19:40:08.689128+05:30
+- Published: 2026-08-08T21:31:58.051454+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/cloudevents/spec/blob/main/cloudevents/spec.md
+Original source: https://github.com/cloudevents/spec/blob/v1.0/spec.md

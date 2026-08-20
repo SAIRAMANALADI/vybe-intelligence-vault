@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://privacy.google.com/businesses/affiliates
-published_at: '2026-08-05T01:37:36.727397+05:30'
-collected_at: '2026-08-05T01:37:36.727406+05:30'
+published_at: '2026-08-10T13:46:39.212545+05:30'
+collected_at: '2026-08-10T13:46:39.212558+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:affiliates-providing-business-services
-first_seen: '2026-08-05T01:37:36.727406+05:30'
-last_seen: '2026-08-05T01:37:36.727406+05:30'
-last_checked: '2026-08-05T01:37:36.727406+05:30'
+first_seen: '2026-08-10T13:46:39.212558+05:30'
+last_seen: '2026-08-10T13:46:39.212558+05:30'
+last_checked: '2026-08-10T13:46:39.212558+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- Lists EU-based Google affiliates providing business services, including subsidiaries in Austria, Belgium, Croatia, Czech Republic, Finland, France, Germany, Greece, Israel, Italy, Ireland, Hungary, Lithuania, Netherlands, Norway, Poland, Portugal, Romania, Turkey, Slovakia, Spain, Sweden, Switzerland, and the UK.
-- Last updated on **10 May 2018**, reflecting historical corporate structure.
-- All entities operate under the Google group umbrella, facilitating localized business services across the EU.
+- List of Google-affiliated entities in the EU and selected regions providing business services, including Google Austria, Google Belgium, Google Croatia, Google Czech Republic, Google Finland, Google France SARL, Google Germany GmbH, Google Greece EPE, Google Israel, Google Italy, Google Ireland Limited, Google Hungary, Google Lithuania UAB, Google Netherlands, Google Norway, Google Poland, Google Portugal, Google Romania, Google Turkey, Google Slovakia s.r.o., Google Spain, Google Sweden, Google Switzerland, and Google UK Ltd.
+- Entities are part of the Google group of companies, focused on business services within the European Union and additional listed regions.
+- Last documented update: **10 May 2018**.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T01:37:36.727397+05:30
+- Published: 2026-08-10T13:46:39.212545+05:30
 
 ## Related Tags
 

@@ -1,11 +1,11 @@
 ---
-title: Trainer · Hugging Face
+title: Auto Classes · Hugging Face
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://huggingface.co/docs/transformers/main/en/main_classes/trainer#transformers.TrainingArguments
-published_at: '2026-08-06T09:18:10.158734+05:30'
-collected_at: '2026-08-06T09:18:10.158753+05:30'
+source_url: https://huggingface.co/docs/transformers/main/en/model_doc/auto#transformers.AutoTokenizer.from_pretrained
+published_at: '2026-08-10T00:46:06.176195+05:30'
+collected_at: '2026-08-10T00:46:06.176212+05:30'
 tags:
 - agents
 - benchmark
@@ -14,30 +14,29 @@ tags:
 - meta-ai
 - mistral
 - models
-- paper
-- producthunt
+- openai
 - rag
 - reddit
+- threejs
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: huggingface:docs/transformers
-first_seen: '2026-08-06T09:18:10.158753+05:30'
-last_seen: '2026-08-06T09:18:10.158753+05:30'
-last_checked: '2026-08-06T09:18:10.158753+05:30'
+first_seen: '2026-08-10T00:46:06.176212+05:30'
+last_seen: '2026-08-10T00:46:06.176212+05:30'
+last_checked: '2026-08-10T00:46:06.176212+05:30'
 health_score: 100
 ---
 
-# Trainer · Hugging Face
+# Auto Classes · Hugging Face
 
 ## Summary
 
-- **Trainer API**: Provides a PyTorch-based training interface with support for distributed training (multi-GPU/TPU), mixed precision (NVIDIA/AMD GPUs), and `torch.amp`, integrated with `TrainingArguments` for full training customization.
+- **Auto Classes** dynamically instantiate the correct model, tokenizer, or config class from a pretrained model identifier via `from_pretrained()`, inferring architecture from `model_type` or model path (e.g., `AutoModel.from_pretrained("google-bert/bert-base-cased")` → `BertModel`).
 
-- **Model Compatibility**: Requires models to return `ModelOutput` tuples or subclasses, compute loss with `labels` argument, and avoid `"label"` as a label name; `Seq2SeqTrainer` extends this for sequence-to-sequence tasks.
+- **Extensibility** is supported by registering custom model/config pairs with `AutoConfig.register()` and `AutoModel.register()`, requiring `model_type` and `config_class` alignment for seamless integration.
 
-- **Key Parameters**: Accepts `model`, `args` (e.g., `TrainingArguments`), `data_collator`, datasets (`train_dataset`, `eval_dataset`), and optional `model_init`/`compute_metrics` for flexible training workflows.
+- **AutoConfig** is a factory class that loads and instantiates the appropriate configuration class (e.g., `BertConfig`, `BartConfig`) based on the `model_type` or model path, with optional overrides via `kwargs` and support for remote code execution (`trust_remote_code`).
 
 ## Why It Matters
 
@@ -47,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T09:18:10.158734+05:30
+- Published: 2026-08-10T00:46:06.176195+05:30
 
 ## Related Tags
 
@@ -58,14 +57,13 @@ General public resource representing technology updates, guides, or tutorials.
 - meta-ai
 - mistral
 - models
-- paper
-- producthunt
+- openai
 - rag
 - reddit
+- threejs
 - web-crawled
-- workflows
 - youtube
 
 ## Source
 
-Original source: https://huggingface.co/docs/transformers/main/en/main_classes/trainer#transformers.TrainingArguments
+Original source: https://huggingface.co/docs/transformers/main/en/model_doc/auto#transformers.AutoTokenizer.from_pretrained

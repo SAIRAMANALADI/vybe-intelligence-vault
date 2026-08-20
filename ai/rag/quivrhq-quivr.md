@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-08-07T08:51:38.905388+05:30'
-published_at: '2026-08-07T02:39:52Z'
+collected_at: '2026-08-11T00:55:59.110161+05:30'
+published_at: '2026-08-10T15:31:06Z'
 tags:
 - frontend_ui
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - openai
 - python
 - rag
-stars: 39394
+stars: 39390
 language: Python
 status: active
 license: NOASSERTION
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-08-07T08:51:38.905388+05:30'
-last_seen: '2026-08-07T08:51:38.905388+05:30'
-last_checked: '2026-08-07T08:51:38.905388+05:30'
+first_seen: '2026-08-11T00:55:59.110161+05:30'
+last_seen: '2026-08-11T00:55:59.110161+05:30'
+last_checked: '2026-08-11T00:55:59.110161+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while supporting customization for existing products.
 
-- **Multi-Platform Compatibility**: Built in Python with frontend support for React/TypeScript, the framework offers Docker deployment, API-driven integration, and compatibility with PostgreSQL, ensuring flexibility for diverse tech stacks.
+- **Multi-LLM & Vectorstore Agnostic**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector databases (e.g., PGVector, Faiss), enabling flexible deployment across diverse GenAI ecosystems.
 
-- **Privacy & Security Focus**: Emphasizes data privacy and security with configurable options for local LLM deployment, vector store encryption, and secure API handling, catering to enterprise-grade requirements.
+- **Full-Stack Integration**: Python-based backend with React/TypeScript frontend, Docker support, and compatibility with various file types, APIs, and databases (PostgreSQL, etc.), emphasizing privacy and security.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: QuivrHQ
-- Stars: 39394
+- Stars: 39390
 - Forks: 3724
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-08-07T02:39:52Z
+- Last Updated: 2026-08-10T15:31:06Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

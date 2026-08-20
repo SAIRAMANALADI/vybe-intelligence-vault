@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://learn.chatgpt.com/use-cases
-published_at: '2026-08-05T22:35:21.713840+05:30'
-collected_at: '2026-08-05T22:35:21.713855+05:30'
+published_at: '2026-08-09T21:29:07.878763+05:30'
+collected_at: '2026-08-09T21:29:07.878780+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:chatgpt-use-cases
-first_seen: '2026-08-05T22:35:21.713855+05:30'
-last_seen: '2026-08-05T22:35:21.713855+05:30'
-last_checked: '2026-08-05T22:35:21.713855+05:30'
+first_seen: '2026-08-09T21:29:07.878780+05:30'
+last_seen: '2026-08-09T21:29:07.878780+05:30'
+last_checked: '2026-08-09T21:29:07.878780+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Automated Code Review & Security Scanning**: Enables deep security scans, vulnerability backlog remediation, and dependency incident audits by analyzing code changes, pull requests, and repositories for regressions and vulnerabilities.
+- **Automated Code Review & Security Scanning**: Enables deep security scans of repositories to detect vulnerabilities and regression testing in pull requests or local diffs, including dependency incident audits for safe package management.
 
-- **AI-Powered Workflow Automation**: Facilitates task completion from messages (e.g., Slack/iMessage), GitHub PR reviews, and Zoom meeting follow-ups by integrating with tools to streamline workflows and automate repetitive tasks.
+- **AI-Driven Data Analysis & Reporting**: Converts raw datasets into interactive dashboards, financial models (e.g., DCF valuations), and structured reports with visualizations, while supporting real-time data updates and KPI root cause analysis.
 
-- **Cross-Domain Data Processing & Analysis**: Supports financial modeling (DCF, cash flow), biological data analysis (scRNA-seq, bulk RNA-seq), and business intelligence (KPI root cause analysis, leadership reporting) by transforming raw data into structured insights, dashboards, and reports.
+- **Cross-Platform Workflow Automation**: Integrates with tools (Slack, GitHub, Figma) to automate tasks (e.g., bug triage, UI design-to-code conversion) and orchestrates multi-step processes (e.g., iOS app development, deployment pipelines) using reusable Codex skills.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-05T22:35:21.713840+05:30
+- Published: 2026-08-09T21:29:07.878763+05:30
 
 ## Related Tags
 

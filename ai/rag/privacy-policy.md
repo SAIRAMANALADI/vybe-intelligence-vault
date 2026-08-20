@@ -3,19 +3,20 @@ title: Privacy Policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://cohere.com/privacy
-published_at: '2026-08-05T14:36:23.283142+05:30'
-collected_at: '2026-08-05T14:36:23.283156+05:30'
+source_url: https://scite.ai/policy
+published_at: '2026-08-10T19:30:17.909401+05:30'
+collected_at: '2026-08-10T19:30:17.909414+05:30'
 tags:
 - agents
 - hackernews
 - rag
 - web-crawled
+- youtube
 status: active
 resource_id: blog:privacy-policy
-first_seen: '2026-08-05T14:36:23.283156+05:30'
-last_seen: '2026-08-05T14:36:23.283156+05:30'
-last_checked: '2026-08-05T14:36:23.283156+05:30'
+first_seen: '2026-08-10T19:30:17.909414+05:30'
+last_seen: '2026-08-10T19:30:17.909414+05:30'
+last_checked: '2026-08-10T19:30:17.909414+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Personal information is collected from Job Applicants, Visitors, Researchers, Trial Users, Enterprise Users, and End Users, with specific handling governed by role-specific policies (e.g., [Enterprise Data Commitments](https://cohere.com/enterprise-data-commitments), [Model Training Privacy Notice](https://cohere.com/model-training-privacy-notice)).
+- **Data Collection Scope**: Collects identifiers (name, email, payment details), professional/employment info, user-generated content (publications, comments), and device/IP geolocation data, including sensitive payment info for transaction security and fraud prevention.
 
-- **Processing for R&D & Compliance**: Trial/Research Users’ inputs/outputs may be used for model improvement after de-identification; Enterprise Users can control training via DPAs; all data is processed for security, fraud detection, legal compliance, and support ticket resolution.
+- **Cookie & Tracking Policies**: Uses strictly necessary, analytics (Google Analytics), functional, and targeting cookies; allows opt-out via Global Privacy Control but does not honor "Do Not Track" signals.
 
-- **Third-Party Disclosures**: Personal data is shared with affiliates, vendors (e.g., cloud/storage, analytics), and under legal obligations (e.g., court orders), with sub-processors listed in [Cohere’s Trust Center](https://trustcenter.cohere.com/subprocessors).
+- **Data Sharing & Disclosure**: Shares data with service providers, public-facing content (e.g., authorship info), advertising networks, legal entities, and third parties during business transactions (e.g., mergers), with disclosures required by regional laws (GDPR, CCPA, etc.).
 
 ## Why It Matters
 
@@ -37,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T14:36:23.283142+05:30
+- Published: 2026-08-10T19:30:17.909401+05:30
 
 ## Related Tags
 
@@ -45,7 +46,8 @@ General public resource representing technology updates, guides, or tutorials.
 - hackernews
 - rag
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://cohere.com/privacy
+Original source: https://scite.ai/policy

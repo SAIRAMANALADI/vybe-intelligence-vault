@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/malonge/RaGOO
-collected_at: '2026-08-07T08:50:13.737817+05:30'
+collected_at: '2026-08-20T21:22:13.892236+05:30'
 published_at: '2026-06-18T17:12:07Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2018-02-01T16:24:07Z'
 pushed_at: '2021-05-30T18:18:23Z'
 resource_id: github:malonge/ragoo
-first_seen: '2026-08-07T08:50:13.737817+05:30'
-last_seen: '2026-08-07T08:50:13.737817+05:30'
-last_checked: '2026-08-07T08:50:13.737817+05:30'
+first_seen: '2026-08-20T21:22:13.892236+05:30'
+last_seen: '2026-08-20T21:22:13.892236+05:30'
+last_checked: '2026-08-20T21:22:13.892236+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RaGOO** is a Python-based tool for **genome assembly and scaffolding**, optimized for **bioinformatics** applications.
-- Development and support for RaGOO have been **discontinued**; users are directed to **RagTag** (`malonge/RagTag`) as the successor.
-- Repository metrics: **173 stars**, **28 forks**, last updated **2026-06-18**.
+*   Python-based bioinformatics tool for *de novo* genome assembly and scaffolding.
+*   Functionality focused on ordering and orienting contigs into chromosome-scale scaffolds.
+*   Project is deprecated; development has transitioned to its successor, RagTag.
 
 ## Why It Matters
 

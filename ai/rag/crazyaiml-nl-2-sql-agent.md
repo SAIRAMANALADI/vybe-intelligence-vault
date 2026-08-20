@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crazyaiml/nl-2-sql-agent
-collected_at: '2026-06-25T23:00:13.703987+05:30'
+collected_at: '2026-08-09T15:37:18.910244+05:30'
 published_at: '2026-05-12T03:38:34Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-04-23T05:50:00Z'
 pushed_at: '2026-05-12T03:38:31Z'
 resource_id: github:crazyaiml/nl-2-sql-agent
-first_seen: '2026-06-25T23:00:13.703987+05:30'
-last_seen: '2026-06-25T23:00:13.703987+05:30'
-last_checked: '2026-06-25T23:00:13.703987+05:30'
+first_seen: '2026-08-09T15:37:18.910244+05:30'
+last_seen: '2026-08-09T15:37:18.910244+05:30'
+last_checked: '2026-08-09T15:37:18.910244+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Schema & Context Learning**: Implements an iterative NL-to-SQL agent that dynamically learns database schema and domain context to generate analytical SQL queries.
+- **Schema & Context Learning**: Implements a guarded NL-to-SQL agent that dynamically learns database schema and domain context for accurate query generation.
 
-- **Guarded Reasoning**: Uses evidence-backed SQL generation with iterative refinement, ensuring correctness and mitigating hallucinations in query construction.
+- **Iterative Evidence-Backed SQL**: Uses iterative reasoning to construct SQL queries, ensuring answers are backed by retrieved evidence from the database.
 
-- **Tech Stack**: Built in Python with PostgreSQL integration, leveraging LLM-based agents and React-pattern for frontend interaction.
+- **Tech Stack**: Built in Python with PostgreSQL integration, leveraging LLM for natural language processing and React-pattern for frontend interaction.
 
 ## Why It Matters
 

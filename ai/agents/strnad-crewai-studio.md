@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/strnad/CrewAI-Studio
-collected_at: '2026-08-07T05:53:11.753106+05:30'
-published_at: '2026-08-06T08:23:14Z'
+collected_at: '2026-08-18T12:45:12.715027+05:30'
+published_at: '2026-08-16T04:51:41Z'
 tags:
 - agents
 - github-repo
 - python
 - workflows
-stars: 1334
+stars: 1343
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-05-30T08:15:40Z'
 pushed_at: '2026-08-03T11:44:15Z'
 resource_id: github:strnad/crewai-studio
-first_seen: '2026-08-07T05:53:11.753106+05:30'
-last_seen: '2026-08-07T05:53:11.753106+05:30'
-last_checked: '2026-08-07T05:53:11.753106+05:30'
+first_seen: '2026-08-18T12:45:12.715027+05:30'
+last_seen: '2026-08-18T12:45:12.715027+05:30'
+last_checked: '2026-08-18T12:45:12.715027+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **GUI for CrewAI Management**: Provides a no-code, multi-platform Streamlit-based interface for configuring, running, and managing CrewAI agents and tasks without requiring Python coding expertise.
-
-- **Environment Support**: Compatible with both Conda and virtual environments, ensuring flexible dependency management and isolation for CrewAI workflows.
-
-- **Multi-Agent Orchestration**: Enables concurrent execution of multiple AI agents with task dependencies, optimized via CrewAI's framework for collaborative workflows.
+*   Offers a multi-platform, no-code graphical user interface for managing and executing CrewAI agent workflows.
+*   Integrates support for isolated execution environments, including Conda and standard Python virtual environments.
+*   Developed in Python, utilizing Streamlit as the underlying framework for its interactive UI.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: strnad
-- Stars: 1334
-- Forks: 315
+- Stars: 1343
+- Forks: 320
 - Language: Python
 - Topics: agents, ai, crewai, crewaigui, crewaiui, gui, no-code, streamlit
-- Last Updated: 2026-08-06T08:23:14Z
+- Last Updated: 2026-08-16T04:51:41Z
 - License: MIT
 - Archived: No
 - Created At: 2024-05-30T08:15:40Z

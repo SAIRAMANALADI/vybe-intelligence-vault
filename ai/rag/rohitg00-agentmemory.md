@@ -4,27 +4,28 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rohitg00/agentmemory
-collected_at: '2026-08-07T08:53:03.975672+05:30'
-published_at: '2026-08-07T03:20:18Z'
+collected_at: '2026-08-11T00:57:29.110617+05:30'
+published_at: '2026-08-10T18:38:55Z'
 tags:
 - agents
 - anthropic
 - benchmark
 - github-repo
+- hackernews
 - rag
 - typescript
 - workflows
-stars: 26665
+stars: 26837
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-02-25T07:32:52Z'
-pushed_at: '2026-08-03T17:35:41Z'
+pushed_at: '2026-08-10T06:13:27Z'
 resource_id: github:rohitg00/agentmemory
-first_seen: '2026-08-07T08:53:03.975672+05:30'
-last_seen: '2026-08-07T08:53:03.975672+05:30'
-last_checked: '2026-08-07T08:53:03.975672+05:30'
+first_seen: '2026-08-11T00:57:29.110617+05:30'
+last_seen: '2026-08-11T00:57:29.110617+05:30'
+last_checked: '2026-08-11T00:57:29.110617+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Persistent Memory Framework**: Provides structured, long-term memory storage for AI coding agents, enabling context retention across sessions based on real-world benchmarks.
-
-- **TypeScript Implementation**: Built in TypeScript, supporting integration with major AI coding tools (Claude, Codex, Copilot, etc.) via modular interfaces.
-
-- **Benchmark-Driven Design**: Optimized for performance and scalability, with last update (Aug 2026) reflecting ongoing improvements for real-world agent workflows.
+- **Purpose**: Provides persistent memory storage for AI coding agents, validated by real-world benchmarks.
+- **Technical Stack**: Implemented in TypeScript, supporting integration with tools like Claude, Cursor, and Copilot.
+- **Key Features**: Enables memory retention and context management for AI-driven development workflows.
 
 ## Why It Matters
 
@@ -45,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: rohitg00
-- Stars: 26665
-- Forks: 2264
+- Stars: 26837
+- Forks: 2280
 - Language: TypeScript
 - Topics: agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw
-- Last Updated: 2026-08-07T03:20:18Z
+- Last Updated: 2026-08-10T18:38:55Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-25T07:32:52Z
-- Pushed At: 2026-08-03T17:35:41Z
+- Pushed At: 2026-08-10T06:13:27Z
 
 ## Possible Use Cases
 

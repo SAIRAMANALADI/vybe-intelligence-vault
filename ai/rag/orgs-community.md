@@ -4,21 +4,22 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/orgs/community/discussions
-published_at: '2026-08-04T22:45:30.459453+05:30'
-collected_at: '2026-08-04T22:45:30.459461+05:30'
+published_at: '2026-08-10T10:36:59.413321+05:30'
+collected_at: '2026-08-10T10:36:59.413334+05:30'
 tags:
+- agents
+- anthropic
 - frontend_ui
 - hackernews
 - rag
 - scripts
-- threejs
 - web-crawled
 - workflows
 status: active
 resource_id: github:orgs/community
-first_seen: '2026-08-04T22:45:30.459461+05:30'
-last_seen: '2026-08-04T22:45:30.459461+05:30'
-last_checked: '2026-08-04T22:45:30.459461+05:30'
+first_seen: '2026-08-10T10:36:59.413334+05:30'
+last_seen: '2026-08-10T10:36:59.413334+05:30'
+last_checked: '2026-08-10T10:36:59.413334+05:30'
 health_score: 100
 ---
 
@@ -26,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- GitHub Community serves as a central hub for GitHub-related discussions, repositories, and announcements, including dedicated sections for AI/Copilot, automation, education, and security.
+- **GitHub Community Discussions** serves as a centralized hub for GitHub-related topics, including announcements (e.g., GitHub Code Quality GA, Copilot metrics dashboard), API/webhook clarifications, and education domain issues.
 
-- The platform enforces structured categorization of discussions (e.g., `GitHub Education`, `Pull Requests`, `Code Security`) with filtering options for open/closed threads and sorting by activity or relevance.
+- **Structured categorization** of discussions into 15+ technical domains (e.g., AI & Copilot, Code Security, Automation & Developer Tools) with subcategories like *Copilot News* and *Apps API and Webhooks*.
 
-- Key features include pinned announcements (e.g., Copilot metrics dashboard, stacked PRs public preview) and community-driven Q&A, with moderation via labels like `🚀 Shipped` or `Question`.
+- **Active moderation and filtering** via labels (e.g., `Question`, `API`) and sorting options (e.g., `Latest activity`, `Top: Past week`) to streamline community-driven troubleshooting and feature feedback.
 
 ## Why It Matters
 
@@ -40,15 +41,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T22:45:30.459453+05:30
+- Published: 2026-08-10T10:36:59.413321+05:30
 
 ## Related Tags
 
+- agents
+- anthropic
 - frontend_ui
 - hackernews
 - rag
 - scripts
-- threejs
 - web-crawled
 - workflows
 

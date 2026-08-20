@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - scripts
-status: active
+status: inactive
 resource_id: hackernews:github-actions-and-pages-are-experiencing-degraded
 first_seen: '2026-08-07T05:48:14.356761+05:30'
 last_seen: '2026-08-07T08:49:25.880062+05:30'
 last_checked: '2026-08-07T08:49:25.880062+05:30'
 health_score: 100
 ---
+
 
 # GitHub Actions and Pages are experiencing degraded availability
 

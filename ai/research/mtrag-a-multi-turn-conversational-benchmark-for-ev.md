@@ -17,11 +17,11 @@ authors:
 - Danish Contractor
 - Marina Danilevsky
 year: 2025
-citation_count: 71
+citation_count: 80
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-08-05T03:54:38.507688+05:30'
+collected_at: '2026-08-20T18:43:37.367202+05:30'
 tags:
 - augmented
 - benchmark
@@ -34,8 +34,8 @@ tags:
 status: active
 resource_id: blog:mtrag-a-multi-turn-conversational-benchmark-for-ev
 first_seen: '2026-07-20T01:04:24.600049+05:30'
-last_seen: '2026-08-05T03:54:38.507688+05:30'
-last_checked: '2026-08-05T03:54:38.507688+05:30'
+last_seen: '2026-08-20T18:43:37.367202+05:30'
+last_checked: '2026-08-20T18:43:37.367202+05:30'
 health_score: 100
 ---
 
@@ -53,7 +53,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Yannis Katsis, Sara Rosenthal, Kshitij P. Fadnis, Chulaka Gunasekara, Young-Suk Lee, Lucian Popa, Vraj Shah, Huaiyu Zhu, Danish Contractor, Marina Danilevsky
 - Publication Year: 2025
-- Citation Count: 71
+- Citation Count: 80
 - Paper Link: https://semanticscholar.org/paper/bb7047071062aea5d846005ff6dcd7782d29103e
 - Code Link: None
 - Code Stars: N/A

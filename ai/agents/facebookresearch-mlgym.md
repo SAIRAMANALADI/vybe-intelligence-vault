@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-08-07T05:51:56.707530+05:30'
-published_at: '2026-08-03T07:51:12Z'
+collected_at: '2026-08-11T00:57:34.203680+05:30'
+published_at: '2026-08-07T17:28:51Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-stars: 614
+- workflows
+stars: 616
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-08-07T05:51:56.707530+05:30'
-last_seen: '2026-08-07T05:51:56.707530+05:30'
-last_checked: '2026-08-07T05:51:56.707530+05:30'
+first_seen: '2026-08-11T00:57:34.203680+05:30'
+last_seen: '2026-08-11T00:57:34.203680+05:30'
+last_checked: '2026-08-11T00:57:34.203680+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: MLGym is a Python-based framework designed to advance AI research agents by providing a modular and scalable environment for training and evaluating reinforcement learning (RL) algorithms.
+- **Framework Overview**: MLGym is a Python-based framework designed to standardize and benchmark AI research agents, enabling systematic evaluation of autonomous research capabilities in machine learning workflows.
 
-- **Benchmarking Suite**: Includes a comprehensive benchmarking system to standardize evaluation of AI agents across diverse tasks, enabling reproducible and comparable research outcomes.
+- **Key Features**: Provides a structured environment for AI agents to perform tasks like hyperparameter optimization, model selection, and experiment management with reproducible benchmarks.
 
-- **Modular Architecture**: Features a highly modular design with configurable components (e.g., environments, policies, trainers) to facilitate rapid experimentation and customization for AI research.
+- **Benchmarking System**: Introduces a novel benchmark suite to assess AI agents' performance across diverse ML tasks, facilitating comparative analysis and advancing research in autonomous AI-driven experimentation.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: facebookresearch
-- Stars: 614
+- Stars: 616
 - Forks: 59
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-03T07:51:12Z
+- Last Updated: 2026-08-07T17:28:51Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-02-18T18:26:47Z

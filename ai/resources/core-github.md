@@ -4,19 +4,21 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/oacore
-published_at: '2026-08-05T17:11:43.050035+05:30'
-collected_at: '2026-08-05T17:11:43.050051+05:30'
+published_at: '2026-08-10T19:27:59.291892+05:30'
+collected_at: '2026-08-10T19:27:59.291907+05:30'
 tags:
 - frontend_ui
+- hackernews
 - paper
 - reddit
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:core-github
-first_seen: '2026-08-05T17:11:43.050051+05:30'
-last_seen: '2026-08-05T17:11:43.050051+05:30'
-last_checked: '2026-08-05T17:11:43.050051+05:30'
+first_seen: '2026-08-10T19:27:59.291907+05:30'
+last_seen: '2026-08-10T19:27:59.291907+05:30'
+last_checked: '2026-08-10T19:27:59.291907+05:30'
 health_score: 100
 ---
 
@@ -24,14 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **CORE Organization**: GitHub organization (`oacore`) based in Milton Keynes, UK, hosting open-access research tools and libraries, including a React-based design system, search interface, and PDF viewer for academic papers.
+- **CORE Organization**: GitHub-based open-access research infrastructure with repositories in JavaScript, Python, Java, and PHP, including a React component library (`design`), PDF viewer (`reader`), and API clients (`pyoacore`, `oacore4j`).
 
-- **Key Repositories**:
-  - **`design`**: Shared React component library for CORE.
-  - **`reader`**: Full-featured PDF viewer optimized for academic papers.
-  - **`search`**: CORE’s search interface (JavaScript, MIT license).
+- **Key Projects**: `recommender-bundle` (PHP-based recommendation system), `resync-proto-server` (ResourceSync server implementation), and `ojs-core` (CORE plugin for Open Journal Systems).
 
-- **Tech Stack & Licensing**: Primary languages include JavaScript, TypeScript, and Python; repositories under MIT or CC-BY-4.0 licenses, with limited activity in some projects (e.g., `sdg_classification`, `devops-workflows`).
+- **Technical Stack**: Frontend (React/TypeScript), backend (PHP/Java/Python), and DevOps workflows (reusable GitHub Actions), with MIT licensing and active maintenance (last updated Aug 2026).
 
 ## Why It Matters
 
@@ -41,13 +40,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T17:11:43.050035+05:30
+- Published: 2026-08-10T19:27:59.291892+05:30
 
 ## Related Tags
 
 - frontend_ui
+- hackernews
 - paper
 - reddit
+- scripts
 - web-crawled
 - workflows
 

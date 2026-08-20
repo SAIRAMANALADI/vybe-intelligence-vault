@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/data-enrichment
-collected_at: '2026-08-06T17:10:54.951850+05:30'
+collected_at: '2026-08-10T19:23:24.584289+05:30'
 published_at: '2026-08-05T21:16:54Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:50:13Z'
 pushed_at: '2026-08-05T21:16:46Z'
 resource_id: github:langchain-ai/data-enrichment
-first_seen: '2026-08-06T17:10:54.951850+05:30'
-last_seen: '2026-08-06T17:10:54.951850+05:30'
-last_checked: '2026-08-06T17:10:54.951850+05:30'
+first_seen: '2026-08-10T19:23:24.584289+05:30'
+last_seen: '2026-08-10T19:23:24.584289+05:30'
+last_checked: '2026-08-10T19:23:24.584289+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a LangGraph Studio template for building an agent that performs web research to generate or enrich structured data.
-- **Technical Stack**: Implemented in Jupyter Notebook using LangGraph and LangGraph-Python libraries.
-- **Repository Metadata**: 243 stars, 60 forks, last updated on 2026-08-05.
+- **Purpose**: LangGraph Studio template for building agents that perform web research to generate or enrich structured data using LangGraph.
+- **Technical Stack**: Implemented in Jupyter Notebook with dependencies on `langgraph` and `langgraph-python`.
+- **Metadata**: 243 stars, 60 forks, last updated 2026-08-05.
 
 ## Why It Matters
 

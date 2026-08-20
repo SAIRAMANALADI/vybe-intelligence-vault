@@ -4,10 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.scite.ai/
-published_at: '2026-08-07T08:55:31.438635+05:30'
-collected_at: '2026-08-07T08:55:31.438644+05:30'
+published_at: '2026-08-10T19:26:11.831144+05:30'
+collected_at: '2026-08-10T19:26:11.831156+05:30'
 tags:
 - anthropic
+- benchmark
 - dataset
 - hackernews
 - openai
@@ -18,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ai-for-research-scite
-first_seen: '2026-08-07T08:55:31.438644+05:30'
-last_seen: '2026-08-07T08:55:31.438644+05:30'
-last_checked: '2026-08-07T08:55:31.438644+05:30'
+first_seen: '2026-08-10T19:26:11.831156+05:30'
+last_seen: '2026-08-10T19:26:11.831156+05:30'
+last_checked: '2026-08-10T19:26:11.831156+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Database & Coverage**: Scite indexes **1.6B+ citations** across **300M+ articles, preprints, books, patents, clinical trials, grants, and datasets**, with direct publisher agreements (e.g., Wiley, SAGE) enabling full-text search beyond abstracts.
+- **Database & Coverage**: Aggregates 300M+ scholarly items (articles, preprints, patents, datasets) with full-text search across 280M+ papers, leveraging direct publisher agreements (Wiley, SAGE, 40+ others) for licensed content access.
 
-- **Smart Citations & AI Assistant**: Uses **Smart Citations** to classify evidence as supporting, contrasting, or mentioning a claim, while the AI Assistant generates verifiable answers grounded in specific paper sentences with citation links for real-time verification.
+- **Smart Citation Analysis**: Implements *Smart Citations* to classify subsequent research as supporting, contradicting, or discussing a claim, enabling evidence-based evaluation of scientific claims via citation context.
 
-- **Integration & Workflow**: Supports **MCP-compatible tools (Claude/ChatGPT), Zotero, browser extensions, and APIs**, allowing seamless adoption without workflow disruption.
+- **AI Integration & Verification**: Provides AI-driven answers (via Scite Assistant) grounded in cited literature with direct sentence-level links, integrates with tools (Claude, ChatGPT, Zotero) via API/MCP, and supports workflows beyond traditional articles (clinical trials, grants, datasets).
 
 ## Why It Matters
 
@@ -42,11 +43,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T08:55:31.438635+05:30
+- Published: 2026-08-10T19:26:11.831144+05:30
 
 ## Related Tags
 
 - anthropic
+- benchmark
 - dataset
 - hackernews
 - openai

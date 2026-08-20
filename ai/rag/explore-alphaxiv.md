@@ -4,26 +4,27 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://alphaxiv.org/
-published_at: '2026-08-04T20:18:10.944784+05:30'
-collected_at: '2026-08-04T20:18:10.944802+05:30'
+published_at: '2026-08-10T03:28:57.711301+05:30'
+collected_at: '2026-08-10T03:28:57.711330+05:30'
 tags:
 - agents
 - benchmark
 - dataset
-- frontend_ui
+- deepmind
 - hackernews
+- mistral
 - models
-- openai
 - paper
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:explore-alphaxiv
-first_seen: '2026-08-04T20:18:10.944802+05:30'
-last_seen: '2026-08-04T20:18:10.944802+05:30'
-last_checked: '2026-08-04T20:18:10.944802+05:30'
+first_seen: '2026-08-10T03:28:57.711330+05:30'
+last_seen: '2026-08-10T03:28:57.711330+05:30'
+last_checked: '2026-08-10T03:28:57.711330+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Qwen3.8-Max**: First open-sourced Qwen-Max-class model (2.4T params, 95B active) enabling multi-day autonomous execution in software engineering, ML research, chip design, and business simulation; introduces RL infrastructure and multimodal agent feedback loops with vision as a control signal.
+- **Unsupervised On-Policy Self-Distillation (U-OPSD)**: Enables LLMs to improve reasoning without external supervision by generating multiple solutions, establishing a majority-vote pseudo-solution, and distilling it back into the model, achieving 8.5-10.7% performance gains on Qwen3 mathematical reasoning benchmarks.
 
-- **Ego2Robot**: Synthetic robot dataset generation pipeline converting egocentric human manipulation videos for pretraining vision-language-action models, improving OOD generalization across visual, scene, embodiment, and semantic shifts with real-robot performance gains in long-horizon tasks.
+- **Energy-Guided Flow Matching (EG-FM)**: Introduces a dynamic, sample-adaptive generative trajectory for pixel-space models by replacing the fixed clean-image endpoint with a moving spectral endpoint, enhancing generation quality and training efficiency across architectures and tasks.
 
-- **WorldExam Benchmark**: Diagnostic framework assessing "inherent reactivity" in video world models, revealing that current systems fail to infer plausible scene-conditioned consequences despite strong visual quality or control adherence, evaluated across 20 models.
+- **ωωω-0 Latent Predictive World Action Model**: Enables humanoid robots to perform concurrent locomotion and manipulation from language instructions with an 81.8% success rate on 11 real-world household tasks, supported by the new 40-hour multimodal ω-HOME dataset.
 
 ## Why It Matters
 
@@ -45,19 +46,20 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T20:18:10.944784+05:30
+- Published: 2026-08-10T03:28:57.711301+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
 - dataset
-- frontend_ui
+- deepmind
 - hackernews
+- mistral
 - models
-- openai
 - paper
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube

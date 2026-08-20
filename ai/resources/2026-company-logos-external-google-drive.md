@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://drive.google.com/drive/folders/1cc_Wdd8k7J5wUONBMvtfIZH_BaYvonym
-published_at: '2026-08-03T01:11:55.926380+05:30'
-collected_at: '2026-08-03T01:11:55.926396+05:30'
+published_at: '2026-08-09T21:31:07.878634+05:30'
+collected_at: '2026-08-09T21:31:07.878653+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:2026-company-logos-external-google-drive
-first_seen: '2026-08-03T01:11:55.926396+05:30'
-last_seen: '2026-08-03T01:11:55.926396+05:30'
-last_checked: '2026-08-03T01:11:55.926396+05:30'
+first_seen: '2026-08-09T21:31:07.878653+05:30'
+last_seen: '2026-08-09T21:31:07.878653+05:30'
+last_checked: '2026-08-09T21:31:07.878653+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Google Drive UI**: The provided content is a Google Drive folder interface displaying assets related to LangChain and LangSmith, including logos and product lockups, sorted by name and date modified.
-
-- **Browser Compatibility**: The page includes a deprecation notice for the current browser version, recommending an upgrade to a supported browser for full functionality.
-
-- **Accessibility & Metadata**: The interface includes accessibility feedback options and metadata columns (Name, Date modified, File size) for file sorting and management.
+- The provided content is a Google Drive folder interface snapshot, displaying asset files (e.g., logos, photos) with metadata (name, modification date, file size).
+- The folder contains design assets related to LangChain and LangSmith, including platform lockups and framework logos, dated between March 1–8.
+- The interface supports sorting/filtering (e.g., by name, date) and downloading files, but requires JavaScript and a modern browser for full functionality.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-03T01:11:55.926380+05:30
+- Published: 2026-08-09T21:31:07.878634+05:30
 
 ## Related Tags
 

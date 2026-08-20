@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ashishpatel26/500-AI-Agents-Projects
-collected_at: '2026-08-07T08:52:38.954890+05:30'
-published_at: '2026-08-07T03:18:03Z'
+collected_at: '2026-08-20T12:41:14.659201+05:30'
+published_at: '2026-08-20T06:58:02Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
-stars: 35939
+stars: 36722
 language: Python
 status: active
 license: MIT
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-12-20T13:37:15Z'
 pushed_at: '2026-07-27T05:40:40Z'
 resource_id: github:ashishpatel26/500-ai-agents-projects
-first_seen: '2026-08-07T08:52:38.954890+05:30'
-last_seen: '2026-08-07T08:52:38.954890+05:30'
-last_checked: '2026-08-07T08:52:38.954890+05:30'
+first_seen: '2026-08-20T12:41:14.659201+05:30'
+last_seen: '2026-08-20T12:41:14.659201+05:30'
+last_checked: '2026-08-20T12:41:14.659201+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated AI Agent Projects**: Repository containing 500+ open-source AI agent implementations across industries (healthcare, finance, education, retail) with practical use cases and implementation links.
-- **Technical Stack**: Primarily Python-based projects, categorized under `ai-agents` and `genai` topics, facilitating reproducibility and deployment.
-- **Metadata**: 35,939 stars, 6,403 forks; last updated 2026-08-07, ensuring recent and active community engagement.
+*   Curated repository of 500 AI agent use cases, providing links to open-source implementations across diverse industries.
+*   Demonstrates practical applications of Generative AI (GenAI) agents, illustrating sector-specific transformations (e.g., healthcare, finance).
+*   Python-based resource for developers exploring real-world AI agent deployment patterns and architectures.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ashishpatel26
-- Stars: 35939
-- Forks: 6403
+- Stars: 36722
+- Forks: 6550
 - Language: Python
 - Topics: ai-agents, genai
-- Last Updated: 2026-08-07T03:18:03Z
+- Last Updated: 2026-08-20T06:58:02Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-20T13:37:15Z

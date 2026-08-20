@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/peft
-published_at: '2026-08-06T09:18:09.272851+05:30'
-collected_at: '2026-08-06T09:18:09.272864+05:30'
+published_at: '2026-08-10T00:45:56.434131+05:30'
+collected_at: '2026-08-10T00:45:56.434143+05:30'
 tags:
 - agents
 - dataset
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: huggingface:docs/peft
-first_seen: '2026-08-06T09:18:09.272864+05:30'
-last_seen: '2026-08-06T09:18:09.272864+05:30'
-last_checked: '2026-08-06T09:18:09.272864+05:30'
+first_seen: '2026-08-10T00:45:56.434143+05:30'
+last_seen: '2026-08-10T00:45:56.434143+05:30'
+last_checked: '2026-08-10T00:45:56.434143+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Parameter-Efficient Fine-Tuning (PEFT)**: A library enabling efficient adaptation of large pretrained models by fine-tuning only a small subset of parameters, reducing computational/storage costs while maintaining performance comparable to full fine-tuning.
+- **PEFT** enables parameter-efficient fine-tuning (PEFT) of large pretrained models by modifying only a small subset of parameters, reducing computational/storage costs while maintaining performance comparable to full fine-tuning.
 
-- **Integration & Methods**: Supports integration with Transformers, Diffusers, and Accelerate libraries; provides a framework for arbitrary model adaptation methods (e.g., weight modification, layer wrapping, KV-cache manipulation) and implements numerous fine-tuning techniques (e.g., LoRA, AdaLoRA, prefix tuning).
+- **Integration & Methods**: Supports integration with Transformers, Diffusers, and Accelerate; implements diverse PEFT methods (e.g., LoRA, AdaLoRA, prefix tuning, IA³) via adapter-based or weight-modification techniques.
 
-- **Hardware Accessibility**: Designed to make training and inference of large models feasible on consumer hardware by minimizing resource requirements through parameter-efficient techniques.
+- **Technical Features**: Includes distributed training (DeepSpeed, FSDP), memory-efficient training, quantization, model merging, and low-level APIs for custom PEFT method implementation.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T09:18:09.272851+05:30
+- Published: 2026-08-10T00:45:56.434131+05:30
 
 ## Related Tags
 

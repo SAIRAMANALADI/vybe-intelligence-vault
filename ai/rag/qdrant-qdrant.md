@@ -1,69 +1,63 @@
 ---
-title: qdrant/qdrant
+title: Releases · qdrant/qdrant · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/qdrant/qdrant
-collected_at: '2026-06-25T23:00:18.550404+05:30'
-published_at: '2026-06-25T16:34:04Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/qdrant/qdrant/releases
+published_at: '2026-08-09T21:29:21.549757+05:30'
+collected_at: '2026-08-09T21:29:21.549774+05:30'
 tags:
-- github-repo
+- agents
+- frontend_ui
 - hackernews
+- models
 - rag
-- rust
-stars: 32646
-language: Rust
+- reddit
+- threejs
+- web-crawled
+- workflows
+- youtube
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2020-05-30T21:37:01Z'
-pushed_at: '2026-06-25T16:05:29Z'
 resource_id: github:qdrant/qdrant
-first_seen: '2026-06-25T23:00:18.550404+05:30'
-last_seen: '2026-06-25T23:00:18.550404+05:30'
-last_checked: '2026-06-25T23:00:18.550404+05:30'
+first_seen: '2026-08-09T21:29:21.549774+05:30'
+last_seen: '2026-08-09T21:29:21.549774+05:30'
+last_checked: '2026-08-09T21:29:21.549774+05:30'
 health_score: 100
 ---
 
-# qdrant/qdrant
+# Releases · qdrant/qdrant · GitHub
 
 ## Summary
 
-- **High-performance vector database**: Qdrant is a Rust-based, massive-scale vector search engine optimized for AI applications, leveraging HNSW (Hierarchical Navigable Small World) for efficient approximate nearest neighbor (ANN) search.
-- **Hybrid and multimodal search**: Supports hybrid search (combining vector + keyword/filters), image search, and neural search, enabling advanced similarity-based retrieval for recommender systems and ML pipelines.
-- **Scalable and cloud-ready**: Designed for MLOps integration, offers cloud deployment (https://cloud.qdrant.io/), and handles high-dimensional embeddings with low-latency queries.
+- **TurboQuant 4-bit Vector Storage**: Introduces 4-bit quantized vector storage (`TurboQuant`) as a primary vector storage datatype to reduce disk usage while maintaining search performance, with ~3x speedup in Hadamard rotation and symmetric L1 scoring optimizations.
+
+- **Fine-Grained Memory Management**: Unifies memory usage strategies for collection components via `"memory": "cold" | "cached" | "pinned"` configuration, enabling precise control over memory tiers and performance trade-offs.
+
+- **Global Quota API & Prefix Matching**: Adds a global quota API for resource management and introduces `"match": {"prefix": "..."}` filtering in keyword indexes for efficient prefix-based searches, along with slice filtering for deterministic sampling.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: qdrant
-- Stars: 32646
-- Forks: 2418
-- Language: Rust
-- Topics: ai-search, ai-search-engine, embeddings-similarity, hnsw, hybrid-search, image-search, knn-algorithm, machine-learning, mlops, nearest-neighbor-search, neural-network, neural-search, recommender-system, search, search-engine, search-engines, similarity-search, vector-database, vector-search, vector-search-engine
-- Last Updated: 2026-06-25T16:34:04Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2020-05-30T21:37:01Z
-- Pushed At: 2026-06-25T16:05:29Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-09T21:29:21.549757+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- frontend_ui
+- hackernews
+- models
+- rag
+- reddit
+- threejs
+- web-crawled
+- workflows
+- youtube
 
 ## Source
 
-Original source: https://github.com/qdrant/qdrant
+Original source: https://github.com/qdrant/qdrant/releases

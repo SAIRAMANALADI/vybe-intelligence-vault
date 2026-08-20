@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.langchain.com/customers-monday/
-published_at: '2026-08-05T17:11:32.585575+05:30'
-collected_at: '2026-08-05T17:11:32.585591+05:30'
+published_at: '2026-08-08T12:53:18.879219+05:30'
+collected_at: '2026-08-08T12:53:18.879230+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:monday-service-langsmith-building-a-code-first-eva
-first_seen: '2026-08-05T17:11:32.585591+05:30'
-last_seen: '2026-08-05T17:11:32.585591+05:30'
-last_checked: '2026-08-05T17:11:32.585591+05:30'
+first_seen: '2026-08-08T12:53:18.879230+05:30'
+last_seen: '2026-08-08T12:53:18.879230+05:30'
+last_checked: '2026-08-08T12:53:18.879230+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Dual-Layered Evaluation Framework**: Implemented offline evaluations (unit-test-like safety net with deterministic checks and LLM-as-judge semantic grading) and online evaluations (real-time, multi-turn LLM-as-judge scoring of production traces) to ensure agent reliability and business metric alignment.
+- **Dual-Layer Evaluation Framework**: Implemented offline evaluations (unit-test-like "safety net" with deterministic checks and LLM-as-judge semantic grading) and online evaluations (real-time, multi-turn LLM-as-judge monitoring of production traces) to ensure agent quality and business metric alignment.
 
-- **Performance Optimization**: Achieved 8.7x faster evaluation feedback loops (18s vs 162s) via parallelized Vitest execution with CPU-bound sharding and I/O-bound concurrency, enabling comprehensive testing of hundreds of examples in minutes.
+- **8.7x Faster Offline Evaluations**: Parallelized Vitest + LangSmith integration using CPU-bound test file distribution and I/O-bound LLM concurrency, reducing evaluation time from 162s to 18s for 20+ IT tickets while maintaining comprehensive coverage.
 
-- **Evaluations as Code (EaC)**: Managed evaluation logic as version-controlled TypeScript objects with CI/CD pipelines, enabling peer reviews, IDE integration, and pre-production validation of LLM judges for production deployment.
+- **Evaluations as Code (EaC)**: Managed multi-turn evaluator prompts as version-controlled TypeScript objects with CI/CD pipelines, enabling peer-reviewed, IDE-integrated development of judge logic and pre-production validation.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T17:11:32.585575+05:30
+- Published: 2026-08-08T12:53:18.879219+05:30
 
 ## Related Tags
 

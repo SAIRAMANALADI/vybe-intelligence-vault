@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-08-07T08:51:08.866351+05:30'
+collected_at: '2026-08-11T00:55:29.063259+05:30'
 published_at: '2026-07-17T22:50:34Z'
 tags:
 - benchmark
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-08-07T08:51:08.866351+05:30'
-last_seen: '2026-08-07T08:51:08.866351+05:30'
-last_checked: '2026-08-07T08:51:08.866351+05:30'
+first_seen: '2026-08-11T00:55:29.063259+05:30'
+last_seen: '2026-08-11T00:55:29.063259+05:30'
+last_checked: '2026-08-11T00:55:29.063259+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) tailored for Vietnamese language processing using Python.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for Retrieval-Augmented Generation (RAG) pipelines optimized for Vietnamese language processing, including text preprocessing, embedding models, and retrieval strategies tailored for Vietnamese corpora.
 
-- **Key Components**: Includes vector database integration (e.g., FAISS, Chroma), embedding models optimized for Vietnamese (e.g., `vinai/phobert-base`), and retrieval pipelines with BM25 or dense retrieval.
+- **Modular Architecture**: Features a scalable backend with modular components (e.g., vector databases, retrieval mechanisms, and LLM integration) using Python, enabling customization for Vietnamese-specific use cases.
 
-- **Deployment & Scalability**: Provides modular backend architecture with FastAPI for serving RAG models, supports dynamic document indexing, and includes evaluation scripts for Vietnamese-specific benchmarks.
+- **Evaluation Framework**: Includes benchmarking tools for Vietnamese RAG performance, assessing retrieval accuracy, response quality, and latency to ensure adherence to best practices in low-resource language scenarios.
 
 ## Why It Matters
 

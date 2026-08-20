@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://collabnix.com/docker-cheatsheet/
-published_at: '2026-08-04T03:57:26.539097+05:30'
-collected_at: '2026-08-04T03:57:26.539110+05:30'
+published_at: '2026-08-09T12:58:17.677743+05:30'
+collected_at: '2026-08-09T12:58:17.677754+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:docker-cheatsheet-essential-commands-tips
-first_seen: '2026-08-04T03:57:26.539110+05:30'
-last_seen: '2026-08-04T03:57:26.539110+05:30'
-last_checked: '2026-08-04T03:57:26.539110+05:30'
+first_seen: '2026-08-09T12:58:17.677754+05:30'
+last_seen: '2026-08-09T12:58:17.677754+05:30'
+last_checked: '2026-08-09T12:58:17.677754+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- Core Docker commands: `docker run` (execute in new container), `docker build` (create image from Dockerfile), `docker push/pull` (registry operations), `docker stop/rm` (container lifecycle management)
-- Container inspection & interaction: `docker ps -a` (list all containers), `docker exec -it <container> <cmd>` (run commands in running container), `docker logs [-f] <container>` (stream container output)
-- Image management & transfer: `docker images` (list local images), `docker tag/save/load` (image manipulation), `docker commit` (create image from container), `docker export/import` (tarball-based image transfer)
+- **Core Docker Commands**: `docker run` (execute commands in a new container), `docker build` (create images from Dockerfiles), `docker push/pull` (transfer images to/from registries), `docker stop/rm` (terminate/remove containers).
+- **Container Lifecycle Management**: `docker create` (initialize container), `docker start/stop/kill/restart` (control container state), `docker pause/unpause` (suspend/resume processes), `docker exec` (run commands in running containers).
+- **Multi-Stage Builds**: `FROM` (base image declaration), `RUN` (execute build steps), `COPY/ADD` (transfer files), `WORKDIR` (set working directory), `COPY --from` (transfer artifacts between stages).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-04T03:57:26.539097+05:30
+- Published: 2026-08-09T12:58:17.677743+05:30
 
 ## Related Tags
 

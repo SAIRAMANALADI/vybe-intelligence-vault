@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-08-07T05:51:11.688548+05:30'
-published_at: '2026-08-03T15:41:30Z'
+collected_at: '2026-08-11T00:56:49.091801+05:30'
+published_at: '2026-08-10T13:39:46Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 1178
+stars: 1183
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-08-05T16:47:35Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-08-07T05:51:11.688548+05:30'
-last_seen: '2026-08-07T05:51:11.688548+05:30'
-last_checked: '2026-08-07T05:51:11.688548+05:30'
+first_seen: '2026-08-11T00:56:49.091801+05:30'
+last_seen: '2026-08-11T00:56:49.091801+05:30'
+last_checked: '2026-08-11T00:56:49.091801+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Workflow Automation**: Template for building AI-powered workflow automation platforms with a visual interface, leveraging Vercel's infrastructure.
-
-- **TypeScript-Based Architecture**: Entirely written in TypeScript, enabling type-safe development and integration with modern JavaScript/TypeScript ecosystems.
-
-- **Agent & Workflow Orchestration**: Supports multi-agent systems and modular workflow composition, optimized for AI-driven task automation and scalability.
+- **Platform Overview**: Visual AI workflow automation platform enabling drag-and-drop construction of multi-agent systems using TypeScript.
+- **Repository Metrics**: 1,183 stars, 232 forks, last updated 2026-08-10T13:39:46Z.
+- **Core Features**: Supports agent-based workflows with AI integration, optimized for Vercel deployments.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1178
+- Stars: 1183
 - Forks: 232
 - Language: TypeScript
 - Topics: agents, ai, workflows
-- Last Updated: 2026-08-03T15:41:30Z
+- Last Updated: 2026-08-10T13:39:46Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-11-03T17:14:16Z

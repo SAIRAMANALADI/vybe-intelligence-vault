@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-08-07T08:51:53.946390+05:30'
-published_at: '2026-08-06T12:07:26Z'
+collected_at: '2026-08-19T12:45:11.123014+05:30'
+published_at: '2026-08-18T18:40:09Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 7948
+stars: 7973
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-08-07T08:51:53.946390+05:30'
-last_seen: '2026-08-07T08:51:53.946390+05:30'
-last_checked: '2026-08-07T08:51:53.946390+05:30'
+first_seen: '2026-08-19T12:45:11.123014+05:30'
+last_seen: '2026-08-19T12:45:11.123014+05:30'
+last_checked: '2026-08-19T12:45:11.123014+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Production-ready Retrieval-Augmented Generation (RAG) framework with RESTful API support, enabling dynamic, multi-step retrieval and generation workflows for AI applications.
-
-- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, vector search, and agentic reasoning, optimized for large-scale deployments.
-
-- **Advanced Retrieval & QA**: Integrates state-of-the-art retrieval mechanisms with question-answering capabilities, supporting hybrid search, metadata filtering, and structured output generation.
+*   Implements a SoTA, production-ready Agentic Retrieval-Augmented Generation (RAG) system.
+*   Provides a RESTful API for programmatic access and integration.
+*   Developed in Python, targeting large language models (LLMs) for question-answering and general retrieval system applications.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: SciPhi-AI
-- Stars: 7948
-- Forks: 642
+- Stars: 7973
+- Forks: 645
 - Language: Python
 - Topics: artificial-intelligence, large-language-models, python, question-answering, rag, retrieval-augmented-generation, retrieval-systems, search
-- Last Updated: 2026-08-06T12:07:26Z
+- Last Updated: 2026-08-18T18:40:09Z
 - License: MIT
 - Archived: No
 - Created At: 2024-02-12T03:24:27Z

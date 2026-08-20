@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://help.researchsolutions.com/hc/en-us/categories/31947397460116-Scite
-published_at: '2026-08-07T08:56:51.321806+05:30'
-collected_at: '2026-08-07T08:56:51.321814+05:30'
+published_at: '2026-08-10T19:28:01.793774+05:30'
+collected_at: '2026-08-10T19:28:01.793788+05:30'
 tags:
-- paper
 - rag
 - web-crawled
+- youtube
 status: active
 resource_id: blog:scite-research-solutions-help-support-center
-first_seen: '2026-08-07T08:56:51.321814+05:30'
-last_seen: '2026-08-07T08:56:51.321814+05:30'
-last_checked: '2026-08-07T08:56:51.321814+05:30'
+first_seen: '2026-08-10T19:28:01.793788+05:30'
+last_seen: '2026-08-10T19:28:01.793788+05:30'
+last_checked: '2026-08-10T19:28:01.793788+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Scite's citation indexing**: Classifies citations into supporting, mentioning, or contrasting based on context, differentiating it from traditional citation indexes by providing citation statement-level analysis.
+- **Scite Search Mechanics**: Scite employs **Citation Statement Search**, which indexes full-text articles to extract and classify citation contexts (supporting, mentioning, or contrasting) rather than just counting citations, enabling granular analysis of scholarly influence.
 
-- **Coverage and data sources**: Scite aggregates citations from a broad range of publishers and preprint servers, with coverage details available via their [Scite Coverage](https://help.researchsolutions.com/hc/en-us/articles/32070161683988-Scite-Coverage) documentation.
+- **Data Coverage & Gaps**: Scite covers **millions of articles** with citation contexts, but coverage gaps exist for pre-2000 publications and certain publishers; users can report missing citations via support channels for inclusion.
 
-- **Functionality and tools**: Offers features like Citation Statement Search, Reference Check, and Table Mode in Assistant to enhance literature review efficiency and expert identification.
+- **Citation Classification System**: Scite classifies citations into **three categories** (supporting, mentioning, or contrasting) using NLP and manual curation, allowing researchers to assess the nuanced impact of cited works beyond traditional citation counts.
 
 ## Why It Matters
 
@@ -36,13 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T08:56:51.321806+05:30
+- Published: 2026-08-10T19:28:01.793774+05:30
 
 ## Related Tags
 
-- paper
 - rag
 - web-crawled
+- youtube
 
 ## Source
 

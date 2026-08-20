@@ -4,22 +4,22 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
-collected_at: '2026-08-07T08:53:03.971343+05:30'
-published_at: '2026-08-06T08:41:06Z'
+collected_at: '2026-08-20T21:25:03.980731+05:30'
+published_at: '2026-08-19T16:45:53Z'
 tags:
 - agents
 - github-repo
 - unknown
-stars: 628
+stars: 642
 language: Unknown
 status: active
 archived: false
 created_at: '2026-02-06T02:08:01Z'
-pushed_at: '2026-08-02T01:39:42Z'
+pushed_at: '2026-08-10T17:33:31Z'
 resource_id: github:evanthomasluke/awesome-ai-hacking-agents
-first_seen: '2026-08-07T08:53:03.971343+05:30'
-last_seen: '2026-08-07T08:53:03.971343+05:30'
-last_checked: '2026-08-07T08:53:03.971343+05:30'
+first_seen: '2026-08-20T21:25:03.980731+05:30'
+last_seen: '2026-08-20T21:25:03.980731+05:30'
+last_checked: '2026-08-20T21:25:03.980731+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `Awesome-AI-Hacking-Agents` by EvanThomasLuke, last updated on **2026-08-06**, containing a curated list of AI-driven hacking agents.
-- **Metadata**: 628 stars, 98 forks, language unspecified, no topics tagged.
-- **Purpose**: Focuses on AI-powered tools/agents for offensive security, penetration testing, or automated exploitation frameworks.
+*   Curated repository indexing AI-driven offensive security agents.
+*   Catalogs autonomous systems designed for hacking methodologies and penetration testing.
+*   Serves as a directory for AI-powered vulnerability exploitation and reconnaissance tools.
 
 ## Why It Matters
 
@@ -38,14 +38,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: EvanThomasLuke
-- Stars: 628
-- Forks: 98
+- Stars: 642
+- Forks: 101
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-06T08:41:06Z
+- Last Updated: 2026-08-19T16:45:53Z
 - Archived: No
 - Created At: 2026-02-06T02:08:01Z
-- Pushed At: 2026-08-02T01:39:42Z
+- Pushed At: 2026-08-10T17:33:31Z
 
 ## Possible Use Cases
 

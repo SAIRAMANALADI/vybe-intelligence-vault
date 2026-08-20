@@ -9,9 +9,9 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-105%2C213-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-160%2C377-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
-[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--07-374151?style=flat-square)](#)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--20-374151?style=flat-square)](#)
 
 [Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **105,213 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **160,377 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 17,508</p>
-        <p><b>Active:</b> 17,003 | <b>Inactive:</b> 505</p>
+        <p><b>Resources tracked:</b> 21,655</p>
+        <p><b>Active:</b> 20,975 | <b>Inactive:</b> 680</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,188</p>
+        <p><b>Archive Files:</b> 2,276</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 105,213 files</p>
-        <p><b>Last Update:</b> 2026-08-07 13:48 IST</p>
+        <p><b>Total Vault Size:</b> 160,377 files</p>
+        <p><b>Last Update:</b> 2026-08-20 23:03 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,11 +210,11 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[CSS Nesting | Chrome for Developers](ai/resources/css-nesting-chrome-for-developers.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[async function - JavaScript | MDN](ai/resources/async-function-javascript-mdn.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[Stainless · GitHub](ai/resources/stainless-github.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[Styles and CSS | Docs](web-development/tailwind/styles-and-css-docs.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[2027 Conference](ai/resources/2027-conference.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+984</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+984</kbd>
+- 🔼 **[BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)** • Rank: <kbd>+984</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+984</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+984</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://weaviate.io/developers/weaviate
-published_at: '2026-08-06T03:58:49.385478+05:30'
-collected_at: '2026-08-06T03:58:49.385496+05:30'
+published_at: '2026-08-10T16:17:21.627705+05:30'
+collected_at: '2026-08-10T16:17:21.627726+05:30'
 tags:
 - agents
 - benchmark
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:weaviate-database-weaviate-documentation
-first_seen: '2026-08-06T03:58:49.385496+05:30'
-last_seen: '2026-08-06T03:58:49.385496+05:30'
-last_checked: '2026-08-06T03:58:49.385496+05:30'
+first_seen: '2026-08-10T16:17:21.627726+05:30'
+last_seen: '2026-08-10T16:17:21.627726+05:30'
+last_checked: '2026-08-10T16:17:21.627726+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ health_score: 100
 
 - **AI-native ecosystem**: The platform supports retrieval-augmented generation (RAG), agent-driven workflows, and integrates with external model providers, making it suitable for AI-powered applications and cloud-native deployments.
 
-- **Multi-deployment options**: Weaviate offers flexible deployment models, including Weaviate Cloud (managed), Docker (local evaluation), Kubernetes (scalable production), and Embedded Weaviate (quick evaluation), catering to various use cases from development to production.
+- **Multiple deployment options**: Weaviate offers flexible deployment models, including Weaviate Cloud (managed), Docker (local evaluation), Kubernetes (scalable production), and Embedded Weaviate (quick Python/JS evaluation).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T03:58:49.385478+05:30
+- Published: 2026-08-10T16:17:21.627705+05:30
 
 ## Related Tags
 

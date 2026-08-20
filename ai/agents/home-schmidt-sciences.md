@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.schmidtsciences.org/
-published_at: '2026-08-02T14:16:17.559860+05:30'
-collected_at: '2026-08-02T14:16:17.559873+05:30'
+published_at: '2026-08-10T03:28:58.509710+05:30'
+collected_at: '2026-08-10T03:28:58.509722+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:home-schmidt-sciences
-first_seen: '2026-08-02T14:16:17.559873+05:30'
-last_seen: '2026-08-02T14:16:17.559873+05:30'
-last_checked: '2026-08-02T14:16:17.559873+05:30'
+first_seen: '2026-08-10T03:28:58.509722+05:30'
+last_seen: '2026-08-10T03:28:58.509722+05:30'
+last_checked: '2026-08-10T03:28:58.509722+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Mission & Focus**: Schmidt Sciences, established in 2024 by Eric and Wendy Schmidt, funds interdisciplinary research across AI & Advanced Computing, Astrophysics & Space, Biosciences, Climate, and Science Systems to address fundamental scientific questions and global challenges.
+- **Funding initiatives**: Schmidt Sciences proactively funds research across five centers (AI & Advanced Computing, Astrophysics & Space, Biosciences, Climate, Science Systems) with targeted programs addressing basic-science questions and global challenges.
 
-- **Funding Model**: Operates via targeted programs and projects within five centers, providing tailored support for hypothesis-driven research, with no unsolicited proposals accepted and proactive grant opportunity identification.
+- **AI & Space Telescope Projects**: Recent grants include $3M+ for AI’s societal impact studies and multi-million-dollar investments in private space telescopes (e.g., Lazuli) and ground-based observatories to replace Hubble.
 
-- **Key Initiatives**: Recent funding includes $18M for AI societal benefit research (AI2050 Fellows), $45M for carbon cycle studies, and multi-million-dollar investments in private space telescopes and AI-humanities integration.
+- **Climate & Interdisciplinary Research**: $45M awarded to narrow carbon cycle knowledge gaps, alongside $18M in AI2050 fellowships to ensure AI benefits society, emphasizing cross-disciplinary collaboration.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-02T14:16:17.559860+05:30
+- Published: 2026-08-10T03:28:58.509710+05:30
 
 ## Related Tags
 

@@ -3,9 +3,9 @@ title: Sign up
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://login.eu.llamaindex.ai/sign-up
-published_at: '2026-08-06T04:00:54.217419+05:30'
-collected_at: '2026-08-06T04:00:54.217437+05:30'
+source_url: https://login.llamaindex.ai/sign-up
+published_at: '2026-08-10T16:18:52.988659+05:30'
+collected_at: '2026-08-10T16:18:52.988676+05:30'
 tags:
 - meta-ai
 - models
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:sign-up
-first_seen: '2026-08-06T04:00:54.217437+05:30'
-last_seen: '2026-08-06T04:00:54.217437+05:30'
-last_checked: '2026-08-06T04:00:54.217437+05:30'
+first_seen: '2026-08-10T16:18:52.988676+05:30'
+last_seen: '2026-08-10T16:18:52.988676+05:30'
+last_checked: '2026-08-10T16:18:52.988676+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **OAuth2-based SSO integration**: Supports Google, Microsoft, and GitHub OAuth2 flows for authentication, with OAuth parameters including `provider`, `redirect_uri`, `client_id`, and `authorization_session_id`.
+- **Authentication Methods**: Supports OAuth via Google, Microsoft, and GitHub, with a session-based redirect URI (`https://api.cloud.llamaindex.ai/api/v1/auth/workos/callback`) and client ID (`client_01K39WZXHMNYBR1MSJSYAQRVFT`).
 
-- **Multi-region deployment**: EU-specific login endpoint (`login.eu.llamaindex.ai`) with a fallback global endpoint (`login.llamaindex.ai`), indicating geo-distributed infrastructure.
+- **Session Handling**: Uses `authorization_session_id` (`01KZNMM92T2Y41K50Q8Q3XV3AJ`) for tracking authentication state across OAuth flows.
 
-- **Legal compliance**: Mandates acceptance of [Terms of Service](https://www.llamaindex.ai/legal/terms-of-service) and [Privacy Policy](https://www.llamaindex.ai/legal/privacy-notice) during account creation.
+- **Compliance & Redirection**: Enforces Terms of Service and Privacy Policy acceptance; provides regional endpoints (Global: `https://login.llamaindex.ai/`, EU: `https://login.eu.llamaindex.ai/`).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T04:00:54.217419+05:30
+- Published: 2026-08-10T16:18:52.988659+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://login.eu.llamaindex.ai/sign-up
+Original source: https://login.llamaindex.ai/sign-up

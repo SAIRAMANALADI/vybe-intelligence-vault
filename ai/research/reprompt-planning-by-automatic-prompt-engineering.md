@@ -10,11 +10,11 @@ authors:
 - Sven Koenig
 - B. Dilkina
 year: 2024
-citation_count: 25
+citation_count: 26
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-07-19T16:15:04.071736+05:30'
+collected_at: '2026-08-20T18:43:38.328388+05:30'
 tags:
 - agents
 - benchmark
@@ -27,8 +27,8 @@ tags:
 status: active
 resource_id: blog:reprompt-planning-by-automatic-prompt-engineering
 first_seen: '2026-07-19T16:15:04.071736+05:30'
-last_seen: '2026-07-19T16:15:04.071736+05:30'
-last_checked: '2026-07-19T16:15:04.071736+05:30'
+last_seen: '2026-08-20T18:43:38.328388+05:30'
+last_checked: '2026-08-20T18:43:38.328388+05:30'
 health_score: 100
 ---
 
@@ -46,7 +46,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Weizhe Chen, Sven Koenig, B. Dilkina
 - Publication Year: 2024
-- Citation Count: 25
+- Citation Count: 26
 - Paper Link: https://semanticscholar.org/paper/26e357f72ab72e8875ec8ee3f66e45c0b0094012
 - Code Link: None
 - Code Stars: N/A

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://llamahub.ai
-published_at: '2026-08-07T05:56:30.888272+05:30'
-collected_at: '2026-08-07T05:56:30.888284+05:30'
+published_at: '2026-08-11T01:02:08.073187+05:30'
+collected_at: '2026-08-11T01:02:08.073202+05:30'
 tags:
 - agents
 - dataset
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:llama-hub
-first_seen: '2026-08-07T05:56:30.888284+05:30'
-last_seen: '2026-08-07T05:56:30.888284+05:30'
-last_checked: '2026-08-07T05:56:30.888284+05:30'
+first_seen: '2026-08-11T01:02:08.073202+05:30'
+last_seen: '2026-08-11T01:02:08.073202+05:30'
+last_checked: '2026-08-11T01:02:08.073202+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: LlamaHub provides a repository of **Data Loaders, Agent Tools, Llama Packs, and Llama Datasets** to facilitate rapid development of Retrieval-Augmented Generation (RAG) applications, supporting frameworks like LlamaIndex and LangChain.
+- **Modular RAG Framework**: LlamaHub provides a repository of modular components (Data Loaders, Agent Tools, LlamaPacks, and LlamaDatasets) to rapidly prototype and customize Retrieval-Augmented Generation (RAG) applications across frameworks like LlamaIndex, LangChain, etc.
 
-- **Integration-Centric Design**: Supports **mix-and-match integration** of components (e.g., loaders, tools) and offers **pre-built LlamaPacks** as templates for common retrieval use cases, enabling customization via GitHub contributions or feature requests.
+- **Integration-Centric Design**: Supports seamless integration with diverse data sources and knowledge bases via standardized interfaces, enabling plug-and-play functionality for LLM applications.
 
-- **Multi-Language Support**: Provides **Python and TypeScript (TS) SDKs**, with documentation and GitHub repositories for LlamaIndex, LlamaHub, and LlamaIndex TS, alongside community engagement via Twitter and Discord.
+- **Open-Source Ecosystem**: Hosted on GitHub with contributor-friendly guidelines, facilitating community-driven expansion of supported tools, datasets, and integrations.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T05:56:30.888272+05:30
+- Published: 2026-08-11T01:02:08.073187+05:30
 
 ## Related Tags
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-08-07T08:51:33.933700+05:30'
+collected_at: '2026-08-11T00:55:54.110567+05:30'
 published_at: '2026-08-01T07:51:41Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 402
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-08-07T08:51:33.933700+05:30'
-last_seen: '2026-08-07T08:51:33.933700+05:30'
-last_checked: '2026-08-07T08:51:33.933700+05:30'
+first_seen: '2026-08-11T00:55:54.110567+05:30'
+last_seen: '2026-08-11T00:55:54.110567+05:30'
+last_checked: '2026-08-11T00:55:54.110567+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive coverage of retrieval and generation tasks in LLMs.
-- **Evaluation Framework**: The benchmark includes metrics for assessing both retrieval accuracy (e.g., precision/recall) and generation quality (e.g., coherence, factuality) under diverse Chinese linguistic contexts.
-- **Open-Source Toolkit**: Provides a Python-based framework with standardized datasets, evaluation scripts, and baseline models to facilitate reproducible research in Chinese RAG systems.
+- **Benchmark Design**: CRUD-RAG introduces a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), covering diverse retrieval and generation scenarios.
+
+- **Evaluation Scope**: Focuses on **Create**, **Read**, **Update**, and **Delete** (CRUD) operations to assess RAG performance across multiple dimensions, including factuality, robustness, and contextual relevance.
+
+- **Technical Implementation**: Open-source Python framework with standardized metrics, datasets, and evaluation protocols to enable reproducible and scalable RAG model assessments in Chinese.
 
 ## Why It Matters
 

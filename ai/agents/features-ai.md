@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-08-07T08:56:24.480240+05:30'
-collected_at: '2026-08-07T08:56:24.480252+05:30'
+published_at: '2026-08-11T01:02:41.777961+05:30'
+collected_at: '2026-08-11T01:02:41.777972+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-08-07T08:56:24.480252+05:30'
-last_seen: '2026-08-07T08:56:24.480252+05:30'
-last_checked: '2026-08-07T08:56:24.480252+05:30'
+first_seen: '2026-08-11T01:02:41.777972+05:30'
+last_seen: '2026-08-11T01:02:41.777972+05:30'
+last_checked: '2026-08-11T01:02:41.777972+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Native Agent-Driven Development**: GitHub Copilot app is a desktop agent-driven development tool built natively on GitHub, supporting macOS, Windows, and Linux, with sessions isolated per task and deep integration into GitHub's ecosystem (issues, PRs, code).
+- **Native Agent-Driven Development**: GitHub Copilot app integrates agent workflows directly into GitHub, supporting macOS, Windows, and Linux, with features like isolated sessions, built-in validation (diffs, PRs, terminal checks), and automated workflows (e.g., scheduled issue triage).
 
-- **Built-in Design & Automation**: Includes **Impeccable**, an open-source design skill with 23 commands (e.g., `/critique`, `/typeset`) for design system enforcement, plus automated workflows (e.g., scheduled issue triage) via customizable skills and MCP server integration.
+- **Design & Extensibility**: Includes open-source design skill *Impeccable* (23 commands like `/critique`, `/layout`) and supports custom MCP servers/plugins for extending agent capabilities with native GitHub context, repo skills, and external data integration.
 
-- **Tiered Pricing & Features**: Offers **Free** (2K completions/month), **Pro** ($10/user) with unlimited completions and Cloud agent access, **Pro+** ($39/user) with premium models (e.g., Opus), and **Max** ($100/user) for high-volume workflows with priority model access and 2.9x+ usage vs. Pro+.
+- **Multi-Tier Pricing**: Offers Free ($0, 2K completions/month), Pro ($10/user, unlimited completions, 3rd-party agents), Pro+ ($39, premium models, audit logs), and Max ($100, priority access, 200 credits/month) tiers with flexible usage credits.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-07T08:56:24.480240+05:30
+- Published: 2026-08-11T01:02:41.777961+05:30
 
 ## Related Tags
 

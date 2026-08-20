@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/solutions/use-case/devsecops
-published_at: '2026-08-02T03:53:29.636100+05:30'
-collected_at: '2026-08-02T03:53:29.636113+05:30'
+published_at: '2026-08-10T19:28:30.083272+05:30'
+collected_at: '2026-08-10T19:28:30.083286+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: github:solutions/use-case
-first_seen: '2026-08-02T03:53:29.636113+05:30'
-last_seen: '2026-08-02T03:53:29.636113+05:30'
-last_checked: '2026-08-02T03:53:29.636113+05:30'
+first_seen: '2026-08-10T19:28:30.083286+05:30'
+last_seen: '2026-08-10T19:28:30.083286+05:30'
+last_checked: '2026-08-10T19:28:30.083286+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Integrated Security Tools**: GitHub Advanced Security embeds SAST (Code Scanning), Secret Scanning, and SCA (Supply Chain Security) directly into the developer workflow, eliminating third-party tool dependencies and reducing vulnerabilities pre-production.
+- **Integrated AI-powered security**: GitHub Advanced Security embeds SAST, secret scanning, and SCA directly into the developer workflow, reducing toolchain complexity and enabling AI-driven vulnerability fixes (e.g., CodeQL autofix).
 
-- **AI-Powered Remediation**: Leverages GitHub Copilot to flag security issues and suggest AI-driven fixes, enabling 7x faster vulnerability resolution with 2.4x fewer false positives compared to industry standards.
+- **Automated remediation & workflow compatibility**: Flags vulnerabilities with AI-suggested fixes, achieves 7x faster fixes with 2.4x fewer false positives, and supports 17K+ integrations for seamless adoption.
 
-- **Unified DevSecOps Platform**: Supports 17,000+ integrations, integrates natively with GitHub Enterprise/Azure DevOps, and reduces toolchain complexity while managing 20M+ repositories with enabled secret scanning.
+- **Enterprise adoption metrics**: Deployed across 20M repositories; leveraged by firms like EY, Mercado Libre, and 3M to align security with existing tooling, per Gartner’s Jim Jacobs.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-02T03:53:29.636100+05:30
+- Published: 2026-08-10T19:28:30.083272+05:30
 
 ## Related Tags
 

@@ -10,11 +10,11 @@ authors:
 - Allison B. McCoy
 - Adam Wright
 year: 2025
-citation_count: 156
+citation_count: 167
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-08-03T20:46:52.930735+05:30'
+collected_at: '2026-08-19T03:20:08.331107+05:30'
 tags:
 - agents
 - augmented
@@ -27,8 +27,8 @@ tags:
 status: active
 resource_id: blog:improving-large-language-model-applications-in-bio
 first_seen: '2026-07-19T16:15:03.003965+05:30'
-last_seen: '2026-08-03T20:46:52.930735+05:30'
-last_checked: '2026-08-03T20:46:52.930735+05:30'
+last_seen: '2026-08-19T03:20:08.331107+05:30'
+last_checked: '2026-08-19T03:20:08.331107+05:30'
 health_score: 100
 ---
 
@@ -46,7 +46,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Siru Liu, Allison B. McCoy, Adam Wright
 - Publication Year: 2025
-- Citation Count: 156
+- Citation Count: 167
 - Paper Link: https://semanticscholar.org/paper/83939671534dc3d374c9bc4e3e03b5ec2c7ba301
 - Code Link: None
 - Code Stars: N/A

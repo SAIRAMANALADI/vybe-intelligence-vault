@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/chrome/answer/95647
-published_at: '2026-08-06T04:03:40.423444+05:30'
-collected_at: '2026-08-06T04:03:40.423459+05:30'
+published_at: '2026-08-10T13:48:10.051725+05:30'
+collected_at: '2026-08-10T13:48:10.051736+05:30'
 tags:
 - hackernews
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:delete-allow-and-manage-cookies-in-chrome-computer
-first_seen: '2026-08-06T04:03:40.423459+05:30'
-last_seen: '2026-08-06T04:03:40.423459+05:30'
-last_checked: '2026-08-06T04:03:40.423459+05:30'
+first_seen: '2026-08-10T13:48:10.051736+05:30'
+last_seen: '2026-08-10T13:48:10.051736+05:30'
+last_checked: '2026-08-10T13:48:10.051736+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Cookie Types & Functionality**: Chrome distinguishes between first-party cookies (created by the visited site) and third-party cookies (created by embedded content from other sites), enabling session persistence, personalization, and cross-site tracking.
+- **Cookie Types & Functionality**: Chrome distinguishes between **first-party cookies** (created by the visited site) and **third-party cookies** (created by embedded content like ads/images from other domains), with the latter enabling cross-site tracking and personalization.
 
-- **Cookie Management Workflow**: Users can delete all cookies or specific ones via `Settings > Privacy and security > Third-party cookies > See all site data and permissions`, with options to filter by time range or domain.
+- **Cookie Management Workflow**: Users can **delete all cookies** via `Settings > Privacy and security > Delete browsing data`, **block/allow third-party cookies** globally or per-site via exceptions lists, and **temporarily override** settings for specific domains in regular or Incognito mode.
 
-- **Third-Party Cookie Controls**: Chrome allows granular control over third-party cookies—blocking by default, permitting exceptions via domain whitelisting, or enabling temporary access for embedded content, with Incognito mode enforcing stricter defaults.
+- **Embedded Content Permissions**: Sites embedding third-party content (e.g., Google Docs in a school portal) require explicit **user consent** to access saved data (via cookies), with permissions lasting **30 days** or until revoked in `Settings > Site settings`.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-06T04:03:40.423444+05:30
+- Published: 2026-08-10T13:48:10.051725+05:30
 
 ## Related Tags
 

@@ -4,18 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://superml.org/tutorials/langgraph-skill-pack
-published_at: '2026-08-03T01:15:07.618534+05:30'
-collected_at: '2026-08-03T01:15:07.618550+05:30'
+published_at: '2026-08-10T19:25:16.377247+05:30'
+collected_at: '2026-08-10T19:25:16.377261+05:30'
 tags:
 - agents
-- reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:langgraph-skill-pack-superml-org
-first_seen: '2026-08-03T01:15:07.618550+05:30'
-last_seen: '2026-08-03T01:15:07.618550+05:30'
-last_checked: '2026-08-03T01:15:07.618550+05:30'
+first_seen: '2026-08-10T19:25:16.377261+05:30'
+last_seen: '2026-08-10T19:25:16.377261+05:30'
+last_checked: '2026-08-10T19:25:16.377261+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **`langgraph-scaffold`**: Automates generation of a LangGraph `StateGraph` from plain-language workflow descriptions, distinguishing between linear flows (using `add_edge`) and branching flows (using `add_conditional_edges`), while leaving node/routing logic as `TODO` placeholders for manual implementation.
+- **`langgraph-scaffold` Workflow Skill**: Translates plain-language agent flow descriptions into a LangGraph `StateGraph` structure, distinguishing linear flows (using `add_edge`) from branching flows (using `add_conditional_edges`), while leaving node/routing logic as `TODO` placeholders for human implementation.
 
-- **`langgraph-graph-review`**: Validates LangGraph graphs for silent structural flaws, including unreachable nodes, missing `END` paths, incomplete conditional routing (unhandled routing function return values), and state schema drift (undeclared state keys).
+- **`langgraph-graph-review` Validator Skill**: Identifies structural flaws in LangGraph definitions, including unreachable nodes, missing `END` paths, incomplete conditional routing (unhandled routing function return values), and state schema drift (undeclared state key access).
 
-- **Design Parallel**: LangGraph nodes map directly to agent roles (e.g., research/draft/review nodes ↔ researcher/executor/reviewer roles), translating multi-agent system design principles into graph-based workflows.
+- **Design Parallel & Testing**: LangGraph nodes map directly to agent roles from Multi-Agent Skill Systems; testing focuses on linear vs. branching flow differentiation for scaffolding and runtime-invisible routing failures for validation.
 
 ## Why It Matters
 
@@ -37,12 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-03T01:15:07.618534+05:30
+- Published: 2026-08-10T19:25:16.377247+05:30
 
 ## Related Tags
 
 - agents
-- reddit
 - web-crawled
 - workflows
 

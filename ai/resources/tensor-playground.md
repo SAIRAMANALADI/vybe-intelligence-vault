@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.vespa.ai/playground/
-published_at: '2026-08-05T09:14:08.583674+05:30'
-collected_at: '2026-08-05T09:14:08.583682+05:30'
+published_at: '2026-08-11T01:02:51.409739+05:30'
+collected_at: '2026-08-11T01:02:51.409755+05:30'
 tags:
 - web-crawled
+- workflows
 status: active
 resource_id: blog:tensor-playground
-first_seen: '2026-08-05T09:14:08.583682+05:30'
-last_seen: '2026-08-05T09:14:08.583682+05:30'
-last_checked: '2026-08-05T09:14:08.583682+05:30'
+first_seen: '2026-08-11T01:02:51.409755+05:30'
+last_seen: '2026-08-11T01:02:51.409755+05:30'
+last_checked: '2026-08-11T01:02:51.409755+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Tensor Playground** is an interactive tool for experimenting with tensor algebra operations, including dense/sparse tensor dot products, vector-matrix products, matrix multiplication, tensor generation, and Jaccard similarity computations.
+- **Tensor Playground** is an interactive tool for experimenting with tensor algebra operations, including dense/sparse tensor dot products, vector-matrix products, matrix multiplication, tensor generation, dimension renaming, concatenation, and Jaccard similarity for sparse tensors.
 
-- **Key Features**: Supports tensor operations like dimension renaming, concatenation, and neural network computations, with real-time execution and visualization capabilities.
+- **Neural network operations** can be simulated within the playground, enabling users to test tensor-based computations relevant to machine learning workflows.
 
-- **Shortcuts**: Provides keyboard shortcuts (e.g., `Ctrl+Enter` for execution, `Esc` to cancel) for efficient interaction with frames, comments, and expressions.
+- **Keyboard shortcuts** (`Up/Down`, `Shift+Up/Down`, `Ctrl+Enter`, etc.) facilitate efficient frame manipulation, editing, and execution of tensor expressions in the interface.
 
 ## Why It Matters
 
@@ -34,11 +35,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-05T09:14:08.583674+05:30
+- Published: 2026-08-11T01:02:51.409739+05:30
 
 ## Related Tags
 
 - web-crawled
+- workflows
 
 ## Source
 

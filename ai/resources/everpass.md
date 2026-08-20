@@ -3,16 +3,16 @@ title: EverPass
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://manager.upshow.tv/
-published_at: '2026-07-20T22:23:22.399496+05:30'
-collected_at: '2026-07-20T22:23:22.399504+05:30'
+source_url: https://help.upshow.tv/hc/en-us
+published_at: '2026-08-11T01:01:57.724527+05:30'
+collected_at: '2026-08-11T01:01:57.724541+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:everpass
-first_seen: '2026-07-20T22:23:22.399504+05:30'
-last_seen: '2026-07-20T22:23:22.399504+05:30'
-last_checked: '2026-07-20T22:23:22.399504+05:30'
+first_seen: '2026-08-11T01:01:57.724541+05:30'
+last_seen: '2026-08-11T01:01:57.724541+05:30'
+last_checked: '2026-08-11T01:01:57.724541+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Requirement**: The application mandates JavaScript execution for full functionality.
-- **Browser Dependency**: Core app operations rely on client-side JavaScript execution, blocking access if disabled.
-- **Fallback Limitation**: Without JavaScript, users encounter a static placeholder ("You need to enable JavaScript to run this app") instead of interactive content.
+- **Platform Overview**: EverPass provides a centralized platform for managing live sports streaming in venues, including device management, data insights, and system configuration via the EverPass Manager.
+
+- **Streaming Infrastructure**: Supports live event streaming with requirements for internet/network stability, device compatibility, and staff readiness, as detailed in the Streaming Readiness Hub.
+
+- **Resource Hubs**: Includes specialized documentation for troubleshooting, billing, forms (e.g., cancellations, device orders), and release notes for ongoing feature updates.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-20T22:23:22.399496+05:30
+- Published: 2026-08-11T01:01:57.724527+05:30
 
 ## Related Tags
 
@@ -40,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://manager.upshow.tv/
+Original source: https://help.upshow.tv/hc/en-us

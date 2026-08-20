@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://peps.python.org/
-published_at: '2026-07-20T01:12:37.143038+05:30'
-collected_at: '2026-07-20T01:12:37.143052+05:30'
+published_at: '2026-08-11T01:04:21.874027+05:30'
+collected_at: '2026-08-11T01:04:21.874042+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
-first_seen: '2026-07-20T01:12:37.143052+05:30'
-last_seen: '2026-07-20T01:12:37.143052+05:30'
-last_checked: '2026-07-20T01:12:37.143052+05:30'
+first_seen: '2026-08-11T01:04:21.874042+05:30'
+last_seen: '2026-08-11T01:04:21.874042+05:30'
+last_checked: '2026-08-11T01:04:21.874042+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are permanently assigned unique numbers by the PEP editors, with version-controlled historical records maintained in GitHub; PEP numbers are never reused or changed once assigned.
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records stored in GitHub; includes a JSON API (`peps.json`) for metadata access.
 
-- **PEP Categorization & Metadata**: PEPs are categorized (e.g., Process, Informational, Final) and indexed by topic (e.g., governance, packaging, typing); a public JSON API (`/api/peps.json`) provides structured metadata for all published PEPs.
+- **Categorization Framework**: PEPs are classified by status (e.g., *Accepted*, *Finished*, *Rejected*) and topic (e.g., *Governance*, *Packaging*, *Typing*), with specialized indices for process/meta-PEPs (e.g., PEP 1, PEP 8) and informational PEPs (e.g., PEP 20, PEP 333).
 
-- **PEP Types & Status Workflow**: PEPs follow distinct types (e.g., Standards Track, Informational, Process) and lifecycle statuses (e.g., Draft, Accepted, Rejected); governance and infrastructure PEPs (e.g., PEP 1, PEP 676) define procedural rules for Python’s evolution.
+- **Structural PEPs**: Defines foundational standards like PEP 333 (WSGI), PEP 248/249 (DB-API), and PEP 457/483 (type hinting theory), alongside governance PEPs (e.g., PEP 13, PEP 811) and infrastructure PEPs (e.g., PEP 676, PEP 772).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T01:12:37.143038+05:30
+- Published: 2026-08-11T01:04:21.874027+05:30
 
 ## Related Tags
 

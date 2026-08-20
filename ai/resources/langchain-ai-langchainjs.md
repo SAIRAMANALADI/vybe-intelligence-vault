@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai/langchainjs/tree/v0.3/docs/core_docs/docs
-published_at: '2026-07-21T22:20:17.393405+05:30'
-collected_at: '2026-07-21T22:20:17.393421+05:30'
+published_at: '2026-08-10T03:30:38.559940+05:30'
+collected_at: '2026-08-10T03:30:38.559953+05:30'
 tags:
-- hackernews
 - web-crawled
 status: active
 resource_id: github:langchain-ai/langchainjs
-first_seen: '2026-07-21T22:20:17.393421+05:30'
-last_seen: '2026-07-21T22:20:17.393421+05:30'
-last_checked: '2026-07-21T22:20:17.393421+05:30'
+first_seen: '2026-08-10T03:30:38.559953+05:30'
+last_seen: '2026-08-10T03:30:38.559953+05:30'
+last_checked: '2026-08-10T03:30:38.559953+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: LangChainJS (v0.3) is a JavaScript/TypeScript framework for building LLM-powered applications, with 18k+ stars, 3.3k+ forks, 216 open issues, and 221 active pull requests.
+- **Repository Overview**: LangChainJS v0.3 is a JavaScript/TypeScript framework for building LLM-powered applications, with 18k stars, 3.3k forks, 232 open issues, and 246 pull requests on GitHub.
 
-- **Core Documentation Structure**: The `/docs/core_docs` directory contains modular technical documentation, including subdirectories for concepts, integrations, troubleshooting, and tutorials, alongside key files like `introduction.mdx` and `packages.mdx`.
+- **Documentation Structure**: Core documentation includes modules for concepts, how-to guides, integrations, tutorials, and troubleshooting, organized under `/docs/core_docs/docs`.
 
-- **Versioned & Modular**: The repository enforces versioned documentation (v0.3) with structured directories (`_static`, `additional_resources`, `how_to`) and supports community contributions via `contributing.mdx` and security guidelines in `security.md`.
+- **Versioning & Contributions**: The `v0.3` branch is the latest stable release, with additional resources for contributing, security policies, and community guidelines available in the repository.
 
 ## Why It Matters
 
@@ -35,11 +34,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-21T22:20:17.393405+05:30
+- Published: 2026-08-10T03:30:38.559940+05:30
 
 ## Related Tags
 
-- hackernews
 - web-crawled
 
 ## Source

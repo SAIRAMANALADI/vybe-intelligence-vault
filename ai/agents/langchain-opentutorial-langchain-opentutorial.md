@@ -4,13 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial
-collected_at: '2026-08-07T08:54:14.090408+05:30'
-published_at: '2026-08-05T01:18:12Z'
+collected_at: '2026-08-10T21:51:17.132708+05:30'
+published_at: '2026-08-10T01:55:53Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
-stars: 1105
+- workflows
+stars: 1106
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-12-14T14:33:57Z'
 pushed_at: '2025-09-18T07:01:44Z'
 resource_id: github:langchain-opentutorial/langchain-opentutorial
-first_seen: '2026-08-07T08:54:14.090408+05:30'
-last_seen: '2026-08-07T08:54:14.090408+05:30'
-last_checked: '2026-08-07T08:54:14.090408+05:30'
+first_seen: '2026-08-10T21:51:17.132708+05:30'
+last_seen: '2026-08-10T21:51:17.132708+05:30'
+last_checked: '2026-08-10T21:51:17.132708+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Educational repository providing comprehensive tutorials on LangChain and LangGraph frameworks, designed for broad accessibility.
-- **Content**: Primarily consists of Jupyter Notebooks covering agents, LangChain, and LangGraph implementations.
-- **Metadata**: 1,105 stars, 345 forks, last updated August 5, 2026.
+- **Repository Overview**: A Jupyter Notebook-based tutorial repository for LangChain and LangGraph, designed for educational purposes with 1,106 stars and 345 forks.
+- **Technical Focus**: Covers agent-based workflows, LangChain framework integration, and LangGraph graph-based orchestration.
+- **Last Updated**: Repository was last updated on **August 10, 2026**, ensuring recent content relevance.
 
 ## Why It Matters
 
@@ -39,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: LangChain-OpenTutorial
-- Stars: 1105
+- Stars: 1106
 - Forks: 345
 - Language: Jupyter Notebook
 - Topics: agent, langchain, langgraph
-- Last Updated: 2026-08-05T01:18:12Z
+- Last Updated: 2026-08-10T01:55:53Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-14T14:33:57Z

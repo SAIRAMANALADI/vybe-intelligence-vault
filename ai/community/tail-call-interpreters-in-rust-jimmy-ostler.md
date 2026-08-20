@@ -1,0 +1,51 @@
+---
+title: Tail-Call Interpreters in Rust – Jimmy Ostler
+category: ai/community
+source_type: hackernews
+source_name: Hacker News AI
+source_url: https://lordgoati.us/blog/tail-call
+hn_url: https://news.ycombinator.com/item?id=49209132
+score: 52
+author: amatheus
+comments_count: 17
+published_at: '2026-08-07T17:35:10+05:30'
+collected_at: '2026-08-10T19:18:44.462905+05:30'
+tags:
+- ai
+- hackernews
+status: inactive
+resource_id: hackernews:tail-call-interpreters-in-rust-jimmy-ostler
+first_seen: '2026-08-10T16:12:08.978058+05:30'
+last_seen: '2026-08-10T19:18:44.462905+05:30'
+last_checked: '2026-08-10T19:18:44.462905+05:30'
+health_score: 100
+---
+
+
+# Tail-Call Interpreters in Rust – Jimmy Ostler
+
+## Summary
+
+Hacker News story by amatheus. Score: 52, Comments: 17.
+Original Link: https://lordgoati.us/blog/tail-call/
+
+## Why It Matters
+
+This is a trending discussion or resource collected from the Hacker News community. It highlights community sentiment, product launches, or technical writeups.
+
+## Discussion Details
+
+- Author: amatheus
+- Score: 52 Upvotes
+- Comments: 17 Discussions
+- Hacker News Link: https://news.ycombinator.com/item?id=49209132
+- Original Article: https://lordgoati.us/blog/tail-call
+
+## Implementation Notes
+
+Review community comments to extract technical caveats, alternative recommendations, or project launch workflows.
+
+## Related Tags
+
+- ai
+- hackernews

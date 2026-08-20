@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alexfazio/crewAI-quickstart
-collected_at: '2026-08-07T08:54:34.060680+05:30'
-published_at: '2026-08-02T20:07:22Z'
+collected_at: '2026-08-16T12:36:42.942834+05:30'
+published_at: '2026-08-15T04:45:52Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - workflows
-stars: 422
+stars: 423
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-04-23T16:55:59Z'
 pushed_at: '2024-09-25T16:24:38Z'
 resource_id: github:alexfazio/crewai-quickstart
-first_seen: '2026-08-07T08:54:34.060680+05:30'
-last_seen: '2026-08-07T08:54:34.060680+05:30'
-last_checked: '2026-08-07T08:54:34.060680+05:30'
+first_seen: '2026-08-16T12:36:42.942834+05:30'
+last_seen: '2026-08-16T12:36:42.942834+05:30'
+last_checked: '2026-08-16T12:36:42.942834+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A GitHub repository (`alexfazio/crewAI-quickstart`) providing Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflows and tools.
-- **Technical Focus**: Showcases practical implementations of CrewAI's multi-agent systems, including task delegation, collaboration, and tool integration.
-- **Metadata**: 422 stars, 75 forks, last updated on 2026-08-02, with topics including `agents`, `cookbook`, and `crewai`.
+*   Demonstrates CrewAI's agentic workflow implementations and tool utilization through practical examples.
+*   Offers a collection of Jupyter Notebooks, cookbooks, and recipes for effective agent orchestration patterns.
+*   Focuses on showcasing functional applications of multi-agent systems built with CrewAI.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: alexfazio
-- Stars: 422
+- Stars: 423
 - Forks: 75
 - Language: Jupyter Notebook
 - Topics: agents, cookbook, crewai
-- Last Updated: 2026-08-02T20:07:22Z
+- Last Updated: 2026-08-15T04:45:52Z
 - License: MIT
 - Archived: No
 - Created At: 2024-04-23T16:55:59Z

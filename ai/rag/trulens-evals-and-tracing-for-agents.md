@@ -1,36 +1,42 @@
 ---
-title: 'TruLens: Evals and Tracing for Agents'
+title: 'TruLens: Evals and Tracing for AI Agents'
 category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.trulens.org
-published_at: '2026-07-20T22:20:21.023370+05:30'
-collected_at: '2026-07-20T22:20:21.023385+05:30'
+published_at: '2026-08-10T19:23:54.882483+05:30'
+collected_at: '2026-08-10T19:23:54.882496+05:30'
 tags:
 - agents
+- anthropic
 - benchmark
+- dataset
 - hackernews
 - leaderboard
+- meta-ai
+- models
+- openai
+- producthunt
 - rag
 - web-crawled
 - workflows
 status: active
-resource_id: blog:trulens-evals-and-tracing-for-agents
-first_seen: '2026-07-20T22:20:21.023385+05:30'
-last_seen: '2026-07-20T22:20:21.023385+05:30'
-last_checked: '2026-07-20T22:20:21.023385+05:30'
+resource_id: blog:trulens-evals-and-tracing-for-ai-agents
+first_seen: '2026-08-10T19:23:54.882496+05:30'
+last_seen: '2026-08-10T19:23:54.882496+05:30'
+last_checked: '2026-08-10T19:23:54.882496+05:30'
 health_score: 100
 ---
 
-# TruLens: Evals and Tracing for Agents
+# TruLens: Evals and Tracing for AI Agents
 
 ## Summary
 
-- **Interoperable Evaluation Framework**: TruLens integrates with OpenTelemetry for tracing and provides benchmarked evaluations (e.g., groundedness, context relevance, coherence) to objectively measure AI agent performance across RAG, summarization, and agentic workflows.
+- **OpenTelemetry-native tracing**: Captures per-span latency, inputs/outputs, token/cost metrics across agent steps (retrieval, tool use, generation) for root-cause analysis of failures.
 
-- **Scalable Metrics & Leaderboards**: Supports extensible built-in metrics (e.g., answer relevance, toxicity, fairness) and enables version comparison via leaderboards to identify regressions and optimize prompts, hyperparameters, or trade-offs (accuracy vs. cost/latency).
+- **Domain-adaptive evaluation**: Provides state-of-the-art judges (e.g., 95% error detection on TRAIL/GAIA) with customizable rubrics, few-shot examples, and scale adjustments for domain-specific alignment.
 
-- **Open-Source & Cross-Platform**: Python SDK for any AI agent, with Snowflake-led open-source development, community-driven feedback, and compatibility with tools like Colab for rapid iteration and deployment.
+- **Unified observability pipeline**: Supports live tracing and batch evaluation over datasets, integrating with frameworks (LangChain, LangGraph, LlamaIndex) and outputting metrics to leaderboards for version comparison and quality/cost optimization.
 
 ## Why It Matters
 
@@ -40,14 +46,20 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T22:20:21.023370+05:30
+- Published: 2026-08-10T19:23:54.882483+05:30
 
 ## Related Tags
 
 - agents
+- anthropic
 - benchmark
+- dataset
 - hackernews
 - leaderboard
+- meta-ai
+- models
+- openai
+- producthunt
 - rag
 - web-crawled
 - workflows

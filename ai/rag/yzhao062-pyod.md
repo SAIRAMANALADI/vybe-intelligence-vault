@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-08-07T08:53:08.987864+05:30'
-published_at: '2026-08-06T06:16:12Z'
+collected_at: '2026-08-10T08:13:28.864241+05:30'
+published_at: '2026-08-09T15:41:48Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
 - rag
+- scripts
 - workflows
-stars: 9951
+stars: 9956
 language: Python
 status: active
 license: BSD-2-Clause
@@ -21,9 +22,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-08-02T12:42:17Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-08-07T08:53:08.987864+05:30'
-last_seen: '2026-08-07T08:53:08.987864+05:30'
-last_checked: '2026-08-07T08:53:08.987864+05:30'
+first_seen: '2026-08-10T08:13:28.864241+05:30'
+last_seen: '2026-08-10T08:13:28.864241+05:30'
+last_checked: '2026-08-10T08:13:28.864241+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for automated model selection and evaluation.
+- **Multimodal Anomaly Detection**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, enabling cross-domain anomaly detection with unified APIs.
 
-- **Agentic Workflow Integration**: Enables AI agents to autonomously perform anomaly detection via an agentic workflow, leveraging foundation models and multimodal capabilities.
+- **Agentic & Benchmark-Driven Workflow**: Features ADEngine for orchestrating anomaly detection pipelines and an agentic workflow for AI-driven automation, leveraging benchmark-backed configurations.
 
-- **Broad ML Ecosystem**: Covers unsupervised learning, deep learning, novelty detection, out-of-distribution detection, and fraud/graph/image anomaly detection, with active maintenance (last updated Aug 2026).
+- **Foundation for Fraud & OOD Detection**: Specialized tools for fraud detection, graph anomaly detection, and out-of-distribution (OOD) scenarios, with support for unsupervised learning and deep learning-based methods.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: yzhao062
-- Stars: 9951
-- Forks: 1489
+- Stars: 9956
+- Forks: 1492
 - Language: Python
 - Topics: agentic-ai, anomaly-detection, data-mining, data-science, deep-learning, foundation-models, fraud-detection, graph-anomaly-detection, image-anomaly-detection, machine-learning, multimodal, nlp-anomaly-detection, novelty-detection, out-of-distribution-detection, outlier-detection, outlier-ensembles, time-series, time-series-anomaly-detection, unsupervised-learning
-- Last Updated: 2026-08-06T06:16:12Z
+- Last Updated: 2026-08-09T15:41:48Z
 - License: BSD-2-Clause
 - Archived: No
 - Created At: 2017-10-03T20:29:04Z

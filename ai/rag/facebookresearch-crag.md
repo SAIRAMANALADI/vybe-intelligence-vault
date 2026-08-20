@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-08-07T08:51:28.985917+05:30'
-published_at: '2026-08-06T20:35:36Z'
+collected_at: '2026-08-11T00:55:54.143267+05:30'
+published_at: '2026-08-07T07:48:15Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - jupyter notebook
 - rag
-stars: 297
+stars: 298
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-08-07T08:51:28.985917+05:30'
-last_seen: '2026-08-07T08:51:28.985917+05:30'
-last_checked: '2026-08-07T08:51:28.985917+05:30'
+first_seen: '2026-08-11T00:55:54.143267+05:30'
+last_seen: '2026-08-11T00:55:54.143267+05:30'
+last_checked: '2026-08-11T00:55:54.143267+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRAG is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across diverse tasks, including factuality, reasoning, and robustness under noise.
-- **Evaluation Scope**: Includes **multi-dimensional metrics** (e.g., answer correctness, citation accuracy, and hallucination detection) with standardized datasets and adversarial perturbations.
-- **Implementation**: Provides **Jupyter Notebook-based tooling** for reproducibility, featuring modular components for dataset curation, retrieval evaluation, and generation analysis.
+- **CRAG**: A comprehensive benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
+- **Implementation**: Provided as Jupyter Notebooks, enabling interactive and reproducible evaluation of RAG models with standardized metrics and datasets.
+- **Scope**: Covers multiple dimensions of RAG performance (e.g., retrieval quality, generation accuracy, robustness) with extensible evaluation protocols.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: facebookresearch
-- Stars: 297
+- Stars: 298
 - Forks: 37
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-08-06T20:35:36Z
+- Last Updated: 2026-08-07T07:48:15Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-03-08T00:05:15Z

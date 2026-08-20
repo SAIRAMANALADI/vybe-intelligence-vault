@@ -4,18 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/cloudflare
-published_at: '2026-06-25T23:09:12.763068+05:30'
-collected_at: '2026-06-25T23:09:12.763076+05:30'
+published_at: '2026-08-08T18:55:16.824738+05:30'
+collected_at: '2026-08-08T18:55:16.824756+05:30'
 tags:
 - agents
 - frontend_ui
 - web-crawled
-- workflows
 status: active
 resource_id: blog:cloudflare-github
-first_seen: '2026-06-25T23:09:12.763076+05:30'
-last_seen: '2026-06-25T23:09:12.763076+05:30'
-last_checked: '2026-06-25T23:09:12.763076+05:30'
+first_seen: '2026-08-08T18:55:16.824756+05:30'
+last_seen: '2026-08-08T18:55:16.824756+05:30'
+last_checked: '2026-08-08T18:55:16.824756+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **QUIC/HTTP/3 Implementation**: Cloudflare's [`quiche`](https://github.com/cloudflare/quiche) is a high-performance, Rust-based implementation of the QUIC transport protocol and HTTP/3, supporting modern edge networking requirements.
+- **QUIC & HTTP/3 Implementation**: Cloudflare maintains [`quiche`](https://github.com/cloudflare/quiche), a high-performance, Rust-based implementation of the QUIC transport protocol and HTTP/3, supporting modern web standards and low-latency communication.
 
-- **Edge Runtime & Tooling**: [`workerd`](https://github.com/cloudflare/workerd) is Cloudflare's C++-based JavaScript/Wasm runtime powering Workers, while [`workers-sdk`](https://github.com/cloudflare/workers-sdk) (TypeScript) provides the CLI (`Wrangler`) for deploying and managing Workers.
+- **Edge Runtime & Tooling**: [`workerd`](https://github.com/cloudflare/workerd) is a C++-based JavaScript/Wasm runtime powering Cloudflare Workers, while [`workers-sdk`](https://github.com/cloudflare/workers-sdk) (TypeScript) provides the CLI (`Wrangler`) for development and deployment of serverless functions at the edge.
 
-- **Developer Ecosystem**: Cloudflare maintains Rust (`workers-rs`) and TypeScript (`vinext`, `agents`) toolchains for Workers, alongside [`cloudflared`](https://github.com/cloudflare/cloudflared) (Go) for secure tunneling and edge-optimized AI/edge compute workflows.
+- **Developer Ecosystem**: Cloudflare offers Rust (`workers-rs`) and TypeScript (`cloudflare-os`, `agents`) frameworks for building edge applications, alongside foundational libraries like [`foundations`](https://github.com/cloudflare/foundations) for Rust services.
 
 ## Why It Matters
 
@@ -37,14 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-25T23:09:12.763068+05:30
+- Published: 2026-08-08T18:55:16.824738+05:30
 
 ## Related Tags
 
 - agents
 - frontend_ui
 - web-crawled
-- workflows
 
 ## Source
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Functional_programming
-published_at: '2026-08-07T09:01:10.092425+05:30'
-collected_at: '2026-08-07T09:01:10.092439+05:30'
+published_at: '2026-08-10T00:47:43.106598+05:30'
+collected_at: '2026-08-10T00:47:43.106611+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:functional-programming-wikipedia
-first_seen: '2026-08-07T09:01:10.092439+05:30'
-last_seen: '2026-08-07T09:01:10.092439+05:30'
-last_checked: '2026-08-07T09:01:10.092439+05:30'
+first_seen: '2026-08-10T00:47:43.106611+05:30'
+last_seen: '2026-08-10T00:47:43.106611+05:30'
+last_checked: '2026-08-10T00:47:43.106611+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **First-class and higher-order functions**: Functions are treated as first-class citizens, enabling them to be passed as arguments, returned from other functions, and assigned to variables, facilitating modular and composable code structures.
+- **Core Paradigm**: Functional programming constructs programs via function application and composition, adhering to a declarative model where functions map inputs to outputs as expression trees, avoiding imperative state mutation.
 
-- **Pure functions and referential transparency**: Emphasizes pure functions—deterministic, side-effect-free operations that always produce the same output for identical inputs, contrasting with imperative state mutations.
+- **First-Class Functions**: Functions are treated as first-class entities, enabling binding to identifiers, passing as arguments, and returning from other functions, facilitating modular and composable code.
 
-- **Declarative paradigm**: Programs are structured as expressions and function compositions rather than imperative statements, abstracting control flow and focusing on *what* is computed rather than *how*.
+- **Pure vs. Impure Functions**: Pure functional programming enforces deterministic, side-effect-free functions (no mutable state or I/O), contrasting with impure procedures that may modify state or produce side effects.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T09:01:10.092425+05:30
+- Published: 2026-08-10T00:47:43.106598+05:30
 
 ## Related Tags
 

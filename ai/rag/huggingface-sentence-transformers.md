@@ -1,70 +1,64 @@
 ---
-title: huggingface/sentence-transformers
+title: sentence-transformers/docs/sentence_transformer/pretrained_models.md at main
+  · huggingface/sentence-transformers · GitHu
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/huggingface/sentence-transformers
-collected_at: '2026-08-06T17:13:21.622033+05:30'
-published_at: '2026-08-06T09:40:31Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/huggingface/sentence-transformers/blob/main/docs/sentence_transformer/pretrained_models.md
+published_at: '2026-08-10T00:45:37.875468+05:30'
+collected_at: '2026-08-10T00:45:37.875482+05:30'
 tags:
+- benchmark
 - dataset
-- github-repo
-- models
-- python
+- leaderboard
+- paper
 - rag
-stars: 18975
-language: Python
+- reddit
+- web-crawled
+- youtube
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2019-07-24T10:53:51Z'
-pushed_at: '2026-08-06T11:37:29Z'
 resource_id: github:huggingface/sentence-transformers
-first_seen: '2026-08-06T17:13:21.622033+05:30'
-last_seen: '2026-08-06T17:13:21.622033+05:30'
-last_checked: '2026-08-06T17:13:21.622033+05:30'
+first_seen: '2026-08-10T00:45:37.875482+05:30'
+last_seen: '2026-08-10T00:45:37.875482+05:30'
+last_checked: '2026-08-10T00:45:37.875482+05:30'
 health_score: 100
 ---
 
-# huggingface/sentence-transformers
+# sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu
 
 ## Summary
 
-- **Framework**: Python-based library for generating state-of-the-art sentence embeddings, retrieval, and reranking models using deep learning architectures (e.g., Transformer-based models like BERT, RoBERTa).
-- **Key Features**: Supports pre-trained models optimized for semantic similarity, cross-encoder reranking, and efficient retrieval via FAISS or similar libraries; includes modular APIs for fine-tuning and inference.
-- **Integration**: Compatible with Hugging Face ecosystem (e.g., `transformers`, `datasets`) and optimized for GPU acceleration; actively maintained with frequent updates (last commit: 2026-08-06).
+- **Model Availability & Usage**:
+  - Pretrained Sentence Transformers models are available via the [Sentence Transformers Hugging Face organization](https://huggingface.co/sentence-transformers) (original models) and the [Hugging Face Hub](https://huggingface.co/models?library=sentence-transformers) (6,000+ community models), loaded via `SentenceTransformer("model-name")` and used for encoding sentences/queries into embeddings with similarity computation via `model.encode()` and `model.similarity()`.
+
+- **Specialized Model Families**:
+  - **Semantic Search Models**: Include Multi-QA models (trained on 215M QA pairs, optimized for dot-product/cosine similarity) and MSMARCO Passage Models (trained on Bing queries, evaluated on MSMARCO MRR@10 and semantic search benchmarks), with trade-offs between performance (e.g., `multi-qa-mpnet-base-dot-v1` at 57.60) and inference speed (e.g., `multi-qa-MiniLM-L6-dot-v1` at 18,000 queries/sec on GPU).
+
+- **Multilingual & Multimodal Support**:
+  - **Multilingual Models**: Support 50+ languages (e.g., `distiluse-base-multilingual-cased-v2`, `LaBSE` for 109 languages) for semantic similarity and bitext mining, with performance varying by language coverage.
+  - **Multimodal Models**: Support joint embedding of text with images, audio, or video (e.g., CLIP-based `clip-ViT-L-14` with 75.4% Top-1 ImageNet accuracy, or Qwen3-VL-Embedding-2B for interleaved text-image inputs), verified via `model.modalities` and `model.supports()`.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: huggingface
-- Stars: 18975
-- Forks: 2848
-- Language: Python
-- Topics: None
-- Last Updated: 2026-08-06T09:40:31Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2019-07-24T10:53:51Z
-- Pushed At: 2026-08-06T11:37:29Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-08-10T00:45:37.875468+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- benchmark
+- dataset
+- leaderboard
+- paper
+- rag
+- reddit
+- web-crawled
+- youtube
 
 ## Source
 
-Original source: https://github.com/huggingface/sentence-transformers
+Original source: https://github.com/huggingface/sentence-transformers/blob/main/docs/sentence_transformer/pretrained_models.md

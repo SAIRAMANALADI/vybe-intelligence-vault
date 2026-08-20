@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/lighthouse/performance/render-blocking-resources
-published_at: '2026-07-19T19:36:33.344627+05:30'
-collected_at: '2026-07-19T19:36:33.344639+05:30'
+published_at: '2026-08-10T00:47:55.688983+05:30'
+collected_at: '2026-08-10T00:47:55.688996+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:eliminate-render-blocking-resources-lighthouse-chr
-first_seen: '2026-07-19T19:36:33.344639+05:30'
-last_seen: '2026-07-19T19:36:33.344639+05:30'
-last_checked: '2026-07-19T19:36:33.344639+05:30'
+first_seen: '2026-08-10T00:47:55.688996+05:30'
+last_seen: '2026-08-10T00:47:55.688996+05:30'
+last_checked: '2026-08-10T00:47:55.688996+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Render-blocking resources** flagged by Lighthouse include **scripts** and **stylesheets** that delay the first paint of a page, impacting performance metrics like First Contentful Paint (FCP) and Largest Contentful Paint (LCP).
-
-- **Optimization strategies** involve **inlining critical CSS/JS**, **deferring non-critical resources** (e.g., using `async` or `defer` attributes), and **removing unused code** to reduce blocking impact.
-
-- **Lighthouse 13+** consolidates this audit under the [Render-blocking requests](https://developer.chrome.com/docs/performance/insights/render-blocking) insight, replacing the standalone "Eliminate render-blocking resources" audit.
+- **Render-blocking resources** identified by Lighthouse include **scripts** and **stylesheets** that delay the first paint of a page.
+- **Optimization strategies** involve **inlining critical resources**, **deferring non-critical ones**, and **removing unused assets**.
+- As of **Lighthouse 13**, this audit is now part of the [Render-blocking requests](https://developer.chrome.com/docs/performance/insights/render-blocking) insight.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-19T19:36:33.344627+05:30
+- Published: 2026-08-10T00:47:55.688983+05:30
 
 ## Related Tags
 

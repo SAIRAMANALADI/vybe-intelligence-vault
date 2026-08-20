@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-08-05T17:07:03.799520+05:30'
-collected_at: '2026-08-05T17:07:03.799535+05:30'
+published_at: '2026-08-10T21:51:53.564936+05:30'
+collected_at: '2026-08-10T21:51:53.564946+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-08-05T17:07:03.799535+05:30'
-last_seen: '2026-08-05T17:07:03.799535+05:30'
-last_checked: '2026-08-05T17:07:03.799535+05:30'
+first_seen: '2026-08-10T21:51:53.564946+05:30'
+last_seen: '2026-08-10T21:51:53.564946+05:30'
+last_checked: '2026-08-10T21:51:53.564946+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,17 @@ health_score: 100
 
 ## Summary
 
-- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable embedding dimensions (default: 1536/3072) via the `dimensions` parameter, enabling trade-offs between performance and resource usage.
+- **Model Specifications**:
+  - `text-embedding-3-small` (1536D) and `text-embedding-3-large` (3072D) are third-gen OpenAI embedding models with reduced cost, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter.
+  - Performance on MTEB eval: 62.3% (`small`), 64.6% (`large`), outperforming `text-embedding-ada-002` (61.0%) at higher token efficiency.
 
-- **Embedding Mechanics**: Text embeddings are vector representations (floating-point lists) where cosine distance measures semantic relatedness; generated via API calls (e.g., `openai.embeddings.create`) and billed per input token.
+- **API Integration**:
+  - Embeddings are generated via `/v1/embeddings` endpoint with input text tokenized and billed per token (e.g., ~800 tokens/page).
+  - Response includes a vector of floats (default 1536D/`small` or 3072D/`large`) and metadata (`usage`, `model`).
 
-- **Use Cases & Optimization**: Embeddings enable search, clustering, recommendations, and classification; dimension reduction (e.g., to 256) via `dimensions` or post-processing (with L2 normalization) reduces storage/compute costs without significant performance loss.
+- **Dimensionality Control**:
+  - Embedding size can be reduced post-generation (e.g., truncating to 256D) without significant performance loss, enabling cost/accuracy trade-offs.
+  - Requires L2 normalization if dimensions are manually adjusted for downstream tasks (e.g., vector databases).
 
 ## Why It Matters
 
@@ -40,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T17:07:03.799520+05:30
+- Published: 2026-08-10T21:51:53.564936+05:30
 
 ## Related Tags
 

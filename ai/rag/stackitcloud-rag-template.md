@@ -4,25 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-08-07T08:50:43.823918+05:30'
-published_at: '2026-08-02T00:39:45Z'
+collected_at: '2026-08-11T00:55:09.107789+05:30'
+published_at: '2026-08-09T00:21:24Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - python
 - rag
+- reddit
+- workflows
 stars: 86
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-01-16T12:14:53Z'
-pushed_at: '2026-08-02T01:14:47Z'
+pushed_at: '2026-08-09T01:15:39Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-08-07T08:50:43.823918+05:30'
-last_seen: '2026-08-07T08:50:43.823918+05:30'
-last_checked: '2026-08-07T08:50:43.823918+05:30'
+first_seen: '2026-08-11T00:55:09.107789+05:30'
+last_seen: '2026-08-11T00:55:09.107789+05:30'
+last_checked: '2026-08-11T00:55:09.107789+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** backend.
-- **Tech Stack**: Built with **Python**, **FastAPI**, **Ollama** (LLM), and integrates **vector databases** (e.g., for embeddings) with optional **Docker** and **Kubernetes** support.
-- **Deployment**: Pre-configured for **STACKIT Cloud** with modular components for **document ingestion**, **embedding generation**, and **RAG-based query processing**.
+- **Architecture**: FastAPI-based template implementing Retrieval-Augmented Generation (RAG) with vector search for AI chatbots and document management.
+- **Components**: Integrates Ollama for LLM inference, a vector database for embeddings, and Docker/Kubernetes for deployment.
+- **Features**: Supports RAG workflows, API-driven interactions, and scalable deployment with STACKIT cloud integration.
 
 ## Why It Matters
 
@@ -45,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 10
 - Language: Python
 - Topics: ai, api, docker, fastapi, kubernetes, llm, ollama, python, rag, rag-chatbot, retrieval-augmented-generation, stackit, vector-database
-- Last Updated: 2026-08-02T00:39:45Z
+- Last Updated: 2026-08-09T00:21:24Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-01-16T12:14:53Z
-- Pushed At: 2026-08-02T01:14:47Z
+- Pushed At: 2026-08-09T01:15:39Z
 
 ## Possible Use Cases
 

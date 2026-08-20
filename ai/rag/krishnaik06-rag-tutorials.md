@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/RAG-Tutorials
-collected_at: '2026-08-07T08:50:33.754777+05:30'
-published_at: '2026-08-05T19:36:52Z'
+collected_at: '2026-08-11T00:54:54.067567+05:30'
+published_at: '2026-08-10T14:19:19Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
-stars: 416
+stars: 417
 language: Jupyter Notebook
 status: active
 license: GPL-3.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-03T03:41:25Z'
 pushed_at: '2026-04-03T17:43:05Z'
 resource_id: github:krishnaik06/rag-tutorials
-first_seen: '2026-08-07T08:50:33.754777+05:30'
-last_seen: '2026-08-07T08:50:33.754777+05:30'
-last_checked: '2026-08-07T08:50:33.754777+05:30'
+first_seen: '2026-08-11T00:54:54.067567+05:30'
+last_seen: '2026-08-11T00:54:54.067567+05:30'
+last_checked: '2026-08-11T00:54:54.067567+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `RAG-Tutorials` by `krishnaik06`, containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) techniques.
-- **Metadata**: 416 stars, 360 forks, last updated on **2026-08-05T19:36:52Z**.
-- **Content**: No explicit description or topics provided; likely educational resources for implementing RAG workflows.
+- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 417 stars and 362 forks.
+- **Technical Stack**: Primarily utilizes Jupyter Notebooks for educational content on RAG methodologies.
+- **Last Update**: Repository last updated on **August 10, 2026**, indicating recent or ongoing development.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: krishnaik06
-- Stars: 416
-- Forks: 360
+- Stars: 417
+- Forks: 362
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-08-05T19:36:52Z
+- Last Updated: 2026-08-10T14:19:19Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-09-03T03:41:25Z

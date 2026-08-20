@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-cli
-collected_at: '2026-08-07T05:55:22.616313+05:30'
+collected_at: '2026-08-11T01:00:26.114586+05:30'
 published_at: '2026-07-23T17:43:50Z'
 tags:
 - github-repo
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-06-15T21:38:58Z'
-pushed_at: '2026-08-05T18:01:42Z'
+pushed_at: '2026-08-08T02:26:23Z'
 resource_id: github:run-llama/llama-parse-cli
-first_seen: '2026-08-07T05:55:22.616313+05:30'
-last_seen: '2026-08-07T05:55:22.616313+05:30'
-last_checked: '2026-08-07T05:55:22.616313+05:30'
+first_seen: '2026-08-11T01:00:26.114586+05:30'
+last_seen: '2026-08-11T01:00:26.114586+05:30'
+last_checked: '2026-08-11T01:00:26.114586+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **OCR & Document Parsing**: CLI tool leveraging LlamaParse for cloud-based optical character recognition (OCR) and structured document parsing.
-- **Go Implementation**: Entirely written in Go, ensuring performance and cross-platform compatibility.
-- **Cloud Integration**: Designed for cloud-native document processing with minimal local dependency overhead.
+- **Purpose**: CLI tool for cloud-based OCR and document parsing using LlamaParse, enabling structured extraction from unstructured documents.
+- **Implementation**: Written in Go, leveraging cloud infrastructure for scalable document processing and parsing.
+- **Metadata**: Minimal repository activity (2 stars, 1 fork), last updated July 23, 2026.
 
 ## Why It Matters
 
@@ -49,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2026-06-15T21:38:58Z
-- Pushed At: 2026-08-05T18:01:42Z
+- Pushed At: 2026-08-08T02:26:23Z
 
 ## Possible Use Cases
 

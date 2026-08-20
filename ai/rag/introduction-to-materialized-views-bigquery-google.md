@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cloud.google.com/bigquery/docs/materialized-views-intro
-published_at: '2026-07-08T01:58:42.691234+05:30'
-collected_at: '2026-07-08T01:58:42.691247+05:30'
+published_at: '2026-08-10T21:56:55.438898+05:30'
+collected_at: '2026-08-10T21:56:55.438912+05:30'
 tags:
 - dataset
+- hackernews
 - producthunt
 - rag
 - web-crawled
 status: active
 resource_id: blog:introduction-to-materialized-views-bigquery-google
-first_seen: '2026-07-08T01:58:42.691247+05:30'
-last_seen: '2026-07-08T01:58:42.691247+05:30'
-last_checked: '2026-07-08T01:58:42.691247+05:30'
+first_seen: '2026-08-10T21:56:55.438912+05:30'
+last_seen: '2026-08-10T21:56:55.438912+05:30'
+last_checked: '2026-08-10T21:56:55.438912+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Precomputed Query Optimization**: Materialized views in BigQuery store precomputed query results, reducing scan costs and improving performance for repetitive queries (e.g., aggregates, joins) by up to 90% in some cases, with automatic incremental updates on base table changes.
+- **Precomputed Query Optimization**: Materialized views in BigQuery store precomputed results of SQL queries, reducing scan costs and improving performance for repetitive queries (e.g., aggregations, joins) by avoiding repeated base table processing.
 
-- **Incremental vs. Non-Incremental Trade-offs**: Incremental materialized views support smart tuning (query rewriting) and cost-efficient updates but have restricted SQL syntax; non-incremental views support broader queries but require full refreshes and lack smart tuning.
+- **Automatic Incremental Refresh**: BigQuery automatically updates materialized views with incremental changes from base tables (zero manual maintenance), ensuring freshness while minimizing compute overhead via `max_staleness` tuning.
 
-- **Cost and Limitation Constraints**: Materialized views incur costs for querying, storage, and refresh operations; limitations include no DML operations, restricted syntax (e.g., no nested views or external table references), and mandatory `max_staleness` settings (30 min–3 days) for CDC/base table synchronization.
+- **Smart Query Routing**: Queries are dynamically rerouted to materialized views when beneficial (`smart tuning`), with support limited to incremental views; non-incremental views require full refreshes and lack this optimization.
 
 ## Why It Matters
 
@@ -37,11 +38,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-08T01:58:42.691234+05:30
+- Published: 2026-08-10T21:56:55.438898+05:30
 
 ## Related Tags
 
 - dataset
+- hackernews
 - producthunt
 - rag
 - web-crawled

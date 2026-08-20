@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-08-07T08:51:38.889195+05:30'
-published_at: '2026-08-06T20:07:42Z'
+collected_at: '2026-08-14T13:31:07.906885+05:30'
+published_at: '2026-08-11T00:35:08Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - reddit
-stars: 289
+stars: 291
 language: Python
 status: active
 license: MIT
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-08-07T08:51:38.889195+05:30'
-last_seen: '2026-08-07T08:51:38.889195+05:30'
-last_checked: '2026-08-07T08:51:38.889195+05:30'
+first_seen: '2026-08-14T13:31:07.906885+05:30'
+last_seen: '2026-08-14T13:31:07.906885+05:30'
+last_checked: '2026-08-14T13:31:07.906885+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,7 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks against Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus, leading to manipulated outputs in downstream LLMs.
-
-- **Technical Mechanism**: Exploits vulnerabilities in the retrieval stage by embedding adversarial triggers or misleading information into the knowledge base, causing the RAG system to retrieve and prioritize poisoned data during inference.
-
-- **Evaluation & Impact**: Validated on multiple RAG benchmarks (e.g., KILT, MS MARCO), showing significant degradation in answer correctness and introducing harmful responses while maintaining stealthiness in attack detection.
+*   Introduces "PoisonedRAG," a knowledge corruption attack methodology targeting Retrieval-
 
 ## Why It Matters
 
@@ -44,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sleeepeer
-- Stars: 289
+- Stars: 291
 - Forks: 56
 - Language: Python
 - Topics: ai, machine-learning, rag, retrieval-augmented-generation, security, trustworthy-ai
-- Last Updated: 2026-08-06T20:07:42Z
+- Last Updated: 2026-08-11T00:35:08Z
 - License: MIT
 - Archived: No
 - Created At: 2024-02-09T04:25:56Z

@@ -4,24 +4,25 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-go
-collected_at: '2026-08-05T17:08:26.042422+05:30'
+collected_at: '2026-08-11T01:00:26.038508+05:30'
 published_at: '2026-07-31T09:11:24Z'
 tags:
 - github-repo
 - go
 - meta-ai
 - models
+- workflows
 stars: 4
 language: Go
 status: active
 license: MIT
 archived: false
 created_at: '2026-06-15T21:38:11Z'
-pushed_at: '2026-08-05T01:42:01Z'
+pushed_at: '2026-08-08T02:14:20Z'
 resource_id: github:run-llama/llama-parse-go
-first_seen: '2026-08-05T17:08:26.042422+05:30'
-last_seen: '2026-08-05T17:08:26.042422+05:30'
-last_checked: '2026-08-05T17:08:26.042422+05:30'
+first_seen: '2026-08-11T01:00:26.038508+05:30'
+last_seen: '2026-08-11T01:00:26.038508+05:30'
+last_checked: '2026-08-11T01:00:26.038508+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Go SDK for LlamaParse**: Provides a Go-based interface to LlamaParse, enabling cloud-based OCR and document parsing.
-- **Minimal Repository**: Currently has 4 stars and 0 forks, with no active topics or contributors listed.
-- **Last Updated**: Repository last updated on **July 31, 2026**, indicating recent or ongoing development.
+- **Go SDK for LlamaParse**: Provides a Go-based interface for cloud-based OCR and document parsing using LlamaParse, enabling structured extraction from unstructured documents.
+
+- **Minimal Repository Metrics**: Extremely low adoption with only 4 stars, 0 forks, and no listed topics as of the last update (July 31, 2026).
+
+- **Direct Integration**: Designed for seamless integration with LlamaParse’s cloud services, facilitating document processing workflows in Go applications.
 
 ## Why It Matters
 
@@ -48,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2026-06-15T21:38:11Z
-- Pushed At: 2026-08-05T01:42:01Z
+- Pushed At: 2026-08-08T02:14:20Z
 
 ## Possible Use Cases
 

@@ -4,26 +4,25 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/firecrawl/firecrawl-mcp-server
-collected_at: '2026-08-03T09:32:58.975097+05:30'
-published_at: '2026-08-03T03:19:38Z'
+collected_at: '2026-08-08T18:56:10.379224+05:30'
+published_at: '2026-08-08T13:20:37Z'
 tags:
 - anthropic
 - github-repo
 - hackernews
 - javascript
 - scripts
-- workflows
-stars: 7111
+stars: 7176
 language: JavaScript
 status: active
 license: MIT
 archived: false
 created_at: '2024-12-06T07:50:27Z'
-pushed_at: '2026-08-02T18:55:19Z'
+pushed_at: '2026-08-08T10:44:06Z'
 resource_id: github:firecrawl/firecrawl-mcp-server
-first_seen: '2026-08-03T09:32:58.975097+05:30'
-last_seen: '2026-08-03T09:32:58.975097+05:30'
-last_checked: '2026-08-03T09:32:58.975097+05:30'
+first_seen: '2026-08-08T18:56:10.379224+05:30'
+last_seen: '2026-08-08T18:56:10.379224+05:30'
+last_checked: '2026-08-08T18:56:10.379224+05:30'
 health_score: 100
 ---
 
@@ -31,16 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Official MCP server for Firecrawl, enabling web scraping, content extraction, and search functionality for LLM clients like Cursor and Claude via the Model Context Protocol (MCP).
-
-- **Key Features**:
-  - Supports JavaScript rendering for dynamic content.
-  - Provides batch processing, search API, and structured data collection.
-  - Integrates with tools like `firecrawl-ai` for enhanced web crawling.
-
-- **Technical Stack**:
-  - Implemented in JavaScript.
-  - Compatible with MCP-compliant clients and APIs for AI-driven workflows.
+- **Purpose**: Official MCP server for Firecrawl, enabling web scraping, search, and content extraction for LLM clients like Cursor and Claude via the Model Context Protocol (MCP).
+- **Key Features**: Supports JavaScript rendering, batch processing, and structured data extraction; integrates with Firecrawl’s APIs for web crawling and search.
+- **Technical Stack**: Built in JavaScript; supports MCP, web scraping, and LLM tooling with real-time updates (last commit: 2026-08-08).
 
 ## Why It Matters
 
@@ -49,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: firecrawl
-- Stars: 7111
-- Forks: 833
+- Stars: 7176
+- Forks: 844
 - Language: JavaScript
 - Topics: batch-processing, claude, content-extraction, data-collection, firecrawl, firecrawl-ai, javascript-rendering, llm-tools, mcp, mcp-server, model-context-protocol, search-api, web-crawler, web-scraping
-- Last Updated: 2026-08-03T03:19:38Z
+- Last Updated: 2026-08-08T13:20:37Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-06T07:50:27Z
-- Pushed At: 2026-08-02T18:55:19Z
+- Pushed At: 2026-08-08T10:44:06Z
 
 ## Possible Use Cases
 

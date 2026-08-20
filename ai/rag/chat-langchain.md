@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://chat.langchain.com/
-published_at: '2026-08-03T20:54:20.662880+05:30'
-collected_at: '2026-08-03T20:54:20.662891+05:30'
+published_at: '2026-08-11T01:00:28.285729+05:30'
+collected_at: '2026-08-11T01:00:28.285739+05:30'
 tags:
-- benchmark
-- dataset
 - hackernews
 - rag
 - web-crawled
+- youtube
 status: active
 resource_id: blog:chat-langchain
-first_seen: '2026-08-03T20:54:20.662891+05:30'
-last_seen: '2026-08-03T20:54:20.662891+05:30'
-last_checked: '2026-08-03T20:54:20.662891+05:30'
+first_seen: '2026-08-11T01:00:28.285739+05:30'
+last_seen: '2026-08-11T01:00:28.285739+05:30'
+last_checked: '2026-08-11T01:00:28.285739+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Describes a novel neural network architecture leveraging transformer-based encoders and decoders with cross-attention mechanisms for improved feature extraction and generation in [specific task, e.g., image synthesis or NLP].
+- **Dynamic Adaptive Streaming over HTTP (DASH)**: Standardized adaptive bitrate streaming technique using conventional HTTP web servers, enabling efficient delivery of multimedia content by dynamically adjusting video quality based on network conditions.
 
-- **Performance Metrics**: Reports state-of-the-art results on benchmark datasets (e.g., [dataset names]), achieving [X]% improvement in [metric, e.g., FID, BLEU, accuracy] over prior methods, with reduced computational overhead.
+- **MPD (Media Presentation Description)**: XML-based manifest file in DASH that describes the structure of the media presentation, including available bitrates, resolutions, and segments, facilitating client-side adaptation.
 
-- **Key Innovations**: Introduces [specific technique, e.g., dynamic token pruning, adaptive attention masking, or a new loss function] to optimize training efficiency and generalization, validated through ablation studies and scalability tests.
+- **Segmentation & Chunking**: Media content is divided into small, independently downloadable segments (e.g., 2–10 seconds) with multiple bitrate variants, allowing clients to request optimal quality segments dynamically during playback.
 
 ## Why It Matters
 
@@ -38,15 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-03T20:54:20.662880+05:30
+- Published: 2026-08-11T01:00:28.285729+05:30
 
 ## Related Tags
 
-- benchmark
-- dataset
 - hackernews
 - rag
 - web-crawled
+- youtube
 
 ## Source
 

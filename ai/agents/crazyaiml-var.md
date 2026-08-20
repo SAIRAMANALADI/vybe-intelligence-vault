@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crazyaiml/VAR
-collected_at: '2026-08-02T14:13:52.858944+05:30'
+collected_at: '2026-08-10T19:23:59.477677+05:30'
 published_at: '2026-06-26T23:36:15Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-06-26T23:35:21Z'
 pushed_at: '2026-06-26T23:36:09Z'
 resource_id: github:crazyaiml/var
-first_seen: '2026-08-02T14:13:52.858944+05:30'
-last_seen: '2026-08-02T14:13:52.858944+05:30'
-last_checked: '2026-08-02T14:13:52.858944+05:30'
+first_seen: '2026-08-10T19:23:59.477677+05:30'
+last_seen: '2026-08-10T19:23:59.477677+05:30'
+last_checked: '2026-08-10T19:23:59.477677+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent automation**: VAR employs autonomous agents to analyze security vulnerabilities, generate remediation plans, and automatically create pull requests for patches across repositories.
-- **End-to-end workflow**: Integrates vulnerability scanning, patch planning, validation, and PR submission in a single pipeline without manual intervention.
-- **Python-based**: Implemented in Python, facilitating extensibility and integration with existing CI/CD and security tooling.
+- **Multi-agent autonomous vulnerability remediation platform** written in Python, designed to automatically analyze, plan, patch, validate, and raise pull requests for security vulnerabilities across repositories.
+
+- **Zero-star, zero-fork open-source project** with no listed topics, indicating early-stage development or limited adoption as of the last update (2026-06-26).
+
+- **Self-updating automation tool** that proactively identifies and remediates vulnerabilities, reducing manual intervention by integrating CI/CD workflows for continuous security enforcement.
 
 ## Why It Matters
 

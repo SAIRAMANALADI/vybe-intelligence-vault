@@ -1,34 +1,33 @@
 ---
-title: Using the railway network as a flatbed scanner [video]
+title: Using the railway network as a flatbed scanner
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
-source_url: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner
-hn_url: https://news.ycombinator.com/item?id=49126919
-score: 61
-author: Jimmc414
-comments_count: 25
-published_at: '2026-08-01T00:00:44+05:30'
-collected_at: '2026-08-01T09:19:51.145588+05:30'
+source_url: https://philo.gay/linecam
+hn_url: https://news.ycombinator.com/item?id=49344825
+score: 416
+author: otherayden
+comments_count: 68
+published_at: '2026-08-18T18:13:54+05:30'
+collected_at: '2026-08-19T09:36:08.368868+05:30'
 tags:
 - ai
 - hackernews
-- youtube
 status: inactive
-resource_id: hackernews:using-the-railway-network-as-a-flatbed-scanner-vid
+resource_id: hackernews:using-the-railway-network-as-a-flatbed-scanner
 first_seen: '2026-08-01T01:22:50.183299+05:30'
-last_seen: '2026-08-01T09:19:51.145588+05:30'
-last_checked: '2026-08-01T09:19:51.145588+05:30'
+last_seen: '2026-08-19T09:36:08.368868+05:30'
+last_checked: '2026-08-19T09:36:08.368868+05:30'
 health_score: 100
 ---
 
 
-# Using the railway network as a flatbed scanner [video]
+# Using the railway network as a flatbed scanner
 
 ## Summary
 
-Hacker News story by Jimmc414. Score: 61, Comments: 25.
-Original Link: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner
+Hacker News story by otherayden. Score: 416, Comments: 68.
+Original Link: https://philo.gay/linecam/
 
 ## Why It Matters
 
@@ -36,11 +35,11 @@ This is a trending discussion or resource collected from the Hacker News communi
 
 ## Discussion Details
 
-- Author: Jimmc414
-- Score: 61 Upvotes
-- Comments: 25 Discussions
-- Hacker News Link: https://news.ycombinator.com/item?id=49126919
-- Original Article: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner
+- Author: otherayden
+- Score: 416 Upvotes
+- Comments: 68 Discussions
+- Hacker News Link: https://news.ycombinator.com/item?id=49344825
+- Original Article: https://philo.gay/linecam
 
 ## Implementation Notes
 
@@ -50,4 +49,3 @@ Review community comments to extract technical caveats, alternative recommendati
 
 - ai
 - hackernews
-- youtube

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-08-07T08:51:13.907979+05:30'
-published_at: '2026-08-06T18:43:03Z'
+collected_at: '2026-08-11T00:55:39.091332+05:30'
+published_at: '2026-08-09T23:48:22Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-08-07T08:51:13.907979+05:30'
-last_seen: '2026-08-07T08:51:13.907979+05:30'
-last_checked: '2026-08-07T08:51:13.907979+05:30'
+first_seen: '2026-08-11T00:55:39.091332+05:30'
+last_seen: '2026-08-11T00:55:39.091332+05:30'
+last_checked: '2026-08-11T00:55:39.091332+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides a free, hands-on curriculum for building production-ready LLM and RAG systems, including source code and 12 structured lessons focused on LLMOps best practices.
+- **End-to-end LLM & RAG system**: Course provides hands-on lessons (12+) and source code for building production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices.
 
-- **Technical Stack**: Utilizes Python-based tools (e.g., Bytewax, Qdrant, Pulumi) and integrates AWS, Docker, Comet-ML, Qwak, and Superlinked for MLOps, infrastructure-as-code, and vector database management.
+- **Tech stack**: Implements AWS, Pulumi (IaC), Bytewax, Qdrant, Comet-ML, Qwak, and Superlinked for scalable ML infrastructure, MLOps, and vector search.
 
-- **Key Topics**: Covers generative AI, ML system design, RAG pipelines, and deployment strategies, emphasizing scalability and reproducibility in ML engineering workflows.
+- **ML system design focus**: Covers Docker-based deployment, ML system architecture, and integrates generative AI workflows with infrastructure-as-code for reproducibility.
 
 ## Why It Matters
 
@@ -44,10 +43,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: decodingai-magazine
 - Stars: 4382
-- Forks: 733
+- Forks: 732
 - Language: Python
 - Topics: aws, bytewax, comet-ml, course, docker, generative-ai, infrastructure-as-code, large-language-models, llmops, machine-learning-engineering, ml-system-design, mlops, pulumi, qdrant, qwak, rag, superlinked
-- Last Updated: 2026-08-06T18:43:03Z
+- Last Updated: 2026-08-09T23:48:22Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-08T09:21:28Z

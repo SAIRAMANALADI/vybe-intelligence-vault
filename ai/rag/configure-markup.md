@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/markup/#syntaxhighlight
-published_at: '2026-08-07T08:57:04.005530+05:30'
-collected_at: '2026-08-07T08:57:04.005542+05:30'
+published_at: '2026-08-11T01:01:04.888277+05:30'
+collected_at: '2026-08-11T01:01:04.888294+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-markup
-first_seen: '2026-08-07T08:57:04.005542+05:30'
-last_seen: '2026-08-07T08:57:04.005542+05:30'
-last_checked: '2026-08-07T08:57:04.005542+05:30'
+first_seen: '2026-08-11T01:01:04.888294+05:30'
+last_seen: '2026-08-11T01:01:04.888294+05:30'
+last_checked: '2026-08-11T01:01:04.888294+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Markdown Rendering Configuration**: Hugo defaults to Goldmark for Markdown processing (`.md`, `.mdown`, `.markdown`), with alternative renderers (AsciiDoc, Org, Pandoc, reStructuredText) configurable via `defaultMarkdownHandler`; requires additional tooling and security policy updates for non-Goldmark handlers.
+- **Default Markdown Handler**: Hugo defaults to Goldmark for Markdown-to-HTML conversion (`.md`, `.mdown`, `.markdown`), with alternative renderers (`asciidocext`, `org`, `pandoc`, `rst`) configurable via `defaultMarkdownHandler` in project settings.
 
-- **Goldmark Extensions & Settings**: Default Goldmark configuration includes CJK, definition lists, footnotes, linkify, strikethrough, tables, task lists, and typographer; extras (deleted/inserted text, mark, sub/superscript) and passthrough (LaTeX math) are optional; conflicts (e.g., subscript vs. strikethrough) must be resolved explicitly.
+- **Goldmark Configuration**: Goldmark’s default extensions include `definitionList`, `footnote`, `linkify`, `strikethrough`, `table`, `taskList`, and `typographer`, with optional extras (`delete`, `insert`, `mark`, `subscript`, `superscript`) and passthrough for LaTeX math.
 
-- **Parser & Renderer Options**: Key parser settings include `wrapStandAloneImageWithinParagraph` (controls `<p>` wrapping for images), `autoDefinitionTermID` (adds `id` to `<dt>`), and `autoHeadingID` (adds `id` to headings); renderer options include `hardWraps`, `unsafe` (raw HTML), and `xhtml` (XHTML output).
+- **Key Settings**: Critical Goldmark settings include `duplicateResourceFiles` (resource duplication in multilingual projects), `parser.wrapStandAloneImageWithinParagraph` (controls standalone image wrapping), and `parser.autoHeadingID` (auto-generates heading IDs).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T08:57:04.005530+05:30
+- Published: 2026-08-11T01:01:04.888277+05:30
 
 ## Related Tags
 

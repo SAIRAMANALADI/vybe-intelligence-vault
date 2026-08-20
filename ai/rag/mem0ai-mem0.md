@@ -4,26 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mem0ai/mem0
-collected_at: '2026-08-05T17:06:54.787191+05:30'
-published_at: '2026-08-05T11:20:04Z'
+collected_at: '2026-08-09T15:35:56.977251+05:30'
+published_at: '2026-08-09T09:44:57Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
 - rag
-- workflows
-stars: 62577
+stars: 62853
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-06-20T08:58:36Z'
-pushed_at: '2026-08-05T05:40:04Z'
+pushed_at: '2026-08-07T13:34:33Z'
 resource_id: github:mem0ai/mem0
-first_seen: '2026-08-05T17:06:54.787191+05:30'
-last_seen: '2026-08-05T17:06:54.787191+05:30'
-last_checked: '2026-08-05T17:06:54.787191+05:30'
+first_seen: '2026-08-09T15:35:56.977251+05:30'
+last_seen: '2026-08-09T15:35:56.977251+05:30'
+last_checked: '2026-08-09T15:35:56.977251+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Universal Memory Layer**: Provides a scalable, persistent memory system for AI agents, enabling long-term context retention and state management across sessions.
-
-- **Multi-Use Integration**: Supports RAG, chatbots, and agentic workflows with Python-based APIs for memory storage, retrieval, and dynamic updates.
-
-- **Modular Architecture**: Designed for extensibility with pluggable storage backends (e.g., vector DBs) and configurable memory policies for adaptive recall/forgetting.
+- **Universal Memory Layer**: Provides a persistent, long-term memory system for AI agents, enabling stateful interactions and context retention across sessions.
+- **Modular Architecture**: Integrates with RAG, LLM frameworks, and chatbots via Python SDK, supporting customizable memory storage (vector DBs, SQL, etc.).
+- **State & Context Management**: Tracks agent memory, user interactions, and application state with real-time updates and retrieval optimizations.
 
 ## Why It Matters
 
@@ -44,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mem0ai
-- Stars: 62577
-- Forks: 7298
+- Stars: 62853
+- Forks: 7331
 - Language: Python
 - Topics: agents, ai, ai-agents, application, chatbots, chatgpt, genai, llm, long-term-memory, memory, memory-management, python, rag, state-management
-- Last Updated: 2026-08-05T11:20:04Z
+- Last Updated: 2026-08-09T09:44:57Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-20T08:58:36Z
-- Pushed At: 2026-08-05T05:40:04Z
+- Pushed At: 2026-08-07T13:34:33Z
 
 ## Possible Use Cases
 
