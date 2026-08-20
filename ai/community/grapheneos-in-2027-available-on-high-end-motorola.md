@@ -13,13 +13,14 @@ collected_at: '2026-08-20T03:20:06.245055+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:devices-with-grapheneos-support-should-be-availabl
 first_seen: '2026-08-19T18:47:07.458403+05:30'
 last_seen: '2026-08-20T03:20:06.245055+05:30'
 last_checked: '2026-08-20T03:20:06.245055+05:30'
 health_score: 100
 ---
+
 
 # Devices with GrapheneOS support should be available in 2027
 

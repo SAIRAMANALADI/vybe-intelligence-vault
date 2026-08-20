@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms
 hn_url: https://news.ycombinator.com/item?id=49363668
-score: 85
+score: 106
 author: coloneltcb
-comments_count: 36
+comments_count: 49
 published_at: '2026-08-19T21:56:05+05:30'
-collected_at: '2026-08-20T03:20:04.397639+05:30'
+collected_at: '2026-08-20T07:23:48.479861+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:extensible-software-in-the-age-of-llms
 first_seen: '2026-08-20T00:34:51.832125+05:30'
-last_seen: '2026-08-20T03:20:04.397639+05:30'
-last_checked: '2026-08-20T03:20:04.397639+05:30'
+last_seen: '2026-08-20T07:23:48.479861+05:30'
+last_checked: '2026-08-20T07:23:48.479861+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by coloneltcb. Score: 85, Comments: 36.
+Hacker News story by coloneltcb. Score: 106, Comments: 49.
 Original Link: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: coloneltcb
-- Score: 85 Upvotes
-- Comments: 36 Discussions
+- Score: 106 Upvotes
+- Comments: 49 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49363668
 - Original Article: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms
 
