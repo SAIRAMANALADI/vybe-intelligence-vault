@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-242%2C657-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-160%2C020-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--20-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **242,657 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **160,020 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 22,282</p>
-        <p><b>Active:</b> 21,612 | <b>Inactive:</b> 670</p>
+        <p><b>Resources tracked:</b> 21,301</p>
+        <p><b>Active:</b> 20,631 | <b>Inactive:</b> 670</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 83,951</p>
+        <p><b>Archive Files:</b> 2,273</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 242,657 files</p>
-        <p><b>Last Update:</b> 2026-08-20 07:42 IST</p>
+        <p><b>Total Vault Size:</b> 160,020 files</p>
+        <p><b>Last Update:</b> 2026-08-20 08:32 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,23 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Google replaced Git tags for certain source code with obtaining via Google Drive](ai/community/google-replaced-git-tags-for-certain-source-code-w.md)** • <kbd>+159 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** • <kbd>+103 pts</kbd>
-- 🔼 **[Mathematics in the age of AI](ai/community/arxiv-2608-16753.md)** • <kbd>+33 pts</kbd>
-- 🔼 **[Air Theremin – A browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)** • <kbd>+25 pts</kbd>
-- 🔼 **[Extensible Software in the age of LLMs](ai/community/extensible-software-in-the-age-of-llms.md)** • <kbd>+21 pts</kbd>
+- 🔼 **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[didilili/ai-agents-from-zero](ai/rag/didilili-ai-agents-from-zero.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[cisco-ai-defense/defenseclaw](ai/agents/cisco-ai-defense-defenseclaw.md)** • Rank: <kbd>+981</kbd>
+- 🔼 **[TheAgentCompany/TheAgentCompany](ai/agents/theagentcompany-theagentcompany.md)** • Rank: <kbd>+981</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Feature Request: Support AGENTS.md](ai/community/anthropics-claude-code.md)** • Score: `134`
-- 🆕 **[Universality of Gradient Descent Neural Network Training](ai/community/arxiv-2007-13664.md)** • Score: `7`
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- No new discoveries in this run.
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Devices with GrapheneOS support should be available in 2027](ai/community/grapheneos-in-2027-available-on-high-end-motorola.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
