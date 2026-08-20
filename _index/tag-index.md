@@ -4943,9 +4943,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [An American Mosaic (interactive map of ancestry census data)](../ai/community/an-american-mosaic-interactive-map-of-ancestry-cen.md)
   - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
-  - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](../ai/community/show-hn-check-if-any-of-the-656m-in-unclaimed-roya.md)
+  - [Gauguin, Descartes, Bayes: A Diurnal Golem's Brain](../ai/community/gauguin-descartes-bayes-a-diurnal-golem-s-brain.md)
+  - [Show HN: Huzzah – a novel approach to coding with AI](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)
   - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
 
 ## animation
@@ -5081,7 +5081,6 @@ Resources organized by keyword tags.
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
   - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](../ai/agents/arxiv-2604-08523.md)
   - [ClawGym II: Exploring Black-Box RL on Agent Harness](../ai/agents/arxiv-2608-16798.md)
-  - [Clean up Claude 5's token vomit with a separate LLM](../ai/community/zachahn-vomit.md)
   - [Closing the Auto-Research Loop: An AI Co-Scientist for Production Search Ranking](../ai/rag/arxiv-2603-22376.md)
   - [ClosureBench: A Constructive Benchmark for Compositional Graph Reasoning](../ai/research/arxiv-2608-18242.md)
   - [Cloudflare Developer Docs | Cloudflare Docs](../ai/rag/cloudflare-developer-docs-cloudflare-docs.md)
@@ -5480,6 +5479,7 @@ Resources organized by keyword tags.
   - [VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space](../ai/agents/arxiv-2608-02878.md)
   - [Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent](../ai/rag/arxiv-2608-03979.md)
   - [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md)
+  - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
   - [We Got Claude to Build CUDA Kernels and teach open models!](../ai/models/huggingface-blog-upskill.md)
   - [We Got Claude to Fine-Tune an Open Source LLM](../ai/models/huggingface-blog-hf-skills-training.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
@@ -13410,6 +13410,7 @@ Resources organized by keyword tags.
 ## blog-post
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
+  - [AI Futures](../ai/companies/openai/ai-futures.md)
   - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
@@ -18714,6 +18715,7 @@ Resources organized by keyword tags.
   - [Universal Manipulation Exoskeleton: Learning Compliant Whole-body Policies with Real-time Torque Feedback](../ai/agents/arxiv-2606-14218.md)
   - [Unraveling the Size Determination Mechanism of Nanocrystal Synthesis via Interpretable Neural Networks](../ai/research/arxiv-2608-14734.md)
   - [Unstructured Data Platform for GenAI | Unstructured](../ai/rag/unstructured-data-platform-for-genai-unstructured.md)
+  - [Upcoming Next.js August Security Release](../web-development/nextjs/upcoming-next-js-august-security-release.md)
   - [Use the Azure OpenAI Responses API - Microsoft Foundry | Microsoft Learn](../ai/rag/use-the-azure-openai-responses-api-microsoft-found.md)
   - [Using C++ and WSL in VS Code](../ai/resources/using-c-and-wsl-in-vs-code.md)
   - [V-VLAPS: Value-Guided Planning for Vision-Language-Action Models](../ai/research/arxiv-2601-00969.md)
@@ -19934,7 +19936,6 @@ Resources organized by keyword tags.
   - [Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](../ai/research/arxiv-2512-04954.md)
   - [An Adaptive Differentially Private Federated Learning Framework](../ai/research/arxiv-2602-06838.md)
   - [An Agentic Framework Using Rules and LLMs for Embedding and Annotating Descriptive Document Layouts: A Plant Science Use Case](../ai/rag/arxiv-2608-14587.md)
-  - [An American Mosaic (interactive map of ancestry census data)](../ai/community/an-american-mosaic-interactive-map-of-ancestry-cen.md)
   - [An Approach to Simultaneous Acquisition of Real-Time MRI Video, EEG, and Surface EMG for Articulatory, Brain, and Muscle Activity During Speech Production](../ai/research/arxiv-2603-04840.md)
   - [An Efficient Black-Box Reduction from Online Learning to Multicalibration, and a New Route to $\Phi$-Regret Minimization](../ai/research/arxiv-2604-19592.md)
   - [An Empirical Investigation of Pre-Trained Deep Learning Model Reuse in the Scientific Process](../ai/research/arxiv-2603-13584.md)
@@ -20227,7 +20228,6 @@ Resources organized by keyword tags.
   - [Chunking Strategies for LLM Applications | Pinecone](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
-  - [Clean up Claude 5's token vomit with a separate LLM](../ai/community/zachahn-vomit.md)
   - [Clinical Feasibility of Low-Magnification Fluorescence Imaging for Breast Cancer Margin Detection Using Texture Analysis and Deep Learning](../ai/research/arxiv-2608-11317.md)
   - [Closing the AI Trust Gap: The Case for Independent Certification for Trustworthy AI](../ai/research/arxiv-2607-15992.md)
   - [Cloud Computing Services | Microsoft Azure](../ai/rag/cloud-computing-services-microsoft-azure.md)
@@ -20761,6 +20761,7 @@ Resources organized by keyword tags.
   - [Gainsight PX Status](../ai/rag/gainsight-px-status.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
   - [Garbage Collection | Kubernetes](../ai/rag/garbage-collection-kubernetes.md)
+  - [Gauguin, Descartes, Bayes: A Diurnal Golem's Brain](../ai/community/gauguin-descartes-bayes-a-diurnal-golem-s-brain.md)
   - [GeeksforGeeks Hiring Solutions - GeeksforGeeks](../ai/rag/geeksforgeeks-hiring-solutions-geeksforgeeks.md)
   - [GeeksforGeeks Practice - Leading Online Coding Platform - GeeksforGeeks](../ai/resources/geeksforgeeks-practice-leading-online-coding-platf.md)
   - [GeeksforGeeks | Your All-in-One Learning Portal](../ai/resources/geeksforgeeks-your-all-in-one-learning-portal.md)
@@ -22022,7 +22023,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](../ai/community/show-hn-check-if-any-of-the-656m-in-unclaimed-roya.md)
+  - [Show HN: Huzzah – a novel approach to coding with AI](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)
   - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -22497,6 +22498,7 @@ Resources organized by keyword tags.
   - [VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing](../ai/research/arxiv-2607-22632.md)
   - [VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation](../ai/rag/arxiv-2608-13613.md)
   - [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md)
+  - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
   - [Vulnerability Disclosure Policy | Department of Energy](../ai/rag/vulnerability-disclosure-policy-department-of-ener.md)
   - [WARA: Toward Automated Wireless Optimization Research with Closed-Loop LLM Agents](../ai/agents/arxiv-2608-14573.md)
   - [WHALE: A Scalable Unified Model for Recommendation with Wukong-HSTU Architecture](../ai/research/arxiv-2607-17017.md)
@@ -23378,7 +23380,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Clean up Claude 5's token vomit with a separate LLM](../ai/community/zachahn-vomit.md)
+  - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
 
 ## mdx
 
@@ -26078,7 +26080,6 @@ Resources organized by keyword tags.
   - [LEMUR: Latent Entropy-aware Multimodal Unlearning via Visual-anchored Reasoning Redirection](../ai/rag/arxiv-2608-11691.md)
   - [LENS: In-Context Search via Latent Evidence Exploration over Dynamic Raw Documents](../ai/rag/arxiv-2608-16185.md)
   - [LEPO: Latent Reasoning Policy Optimization for Large Language Models](../ai/rag/arxiv-2604-17892.md)
-  - [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](../ai/models/huggingface-blog-liquidai-qad.md)
   - [LGQ: Learnable Geometric Quantization for Image Tokenization](../ai/rag/arxiv-2602-16086.md)
   - [LIBMoE: A Library for comprehensive benchmarking Mixture of Experts in Large Language Models](../ai/rag/arxiv-2411-00918.md)
   - [LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in Physics Informed Neural Networks](../ai/rag/arxiv-2607-14233.md)
@@ -28306,6 +28307,7 @@ Resources organized by keyword tags.
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
+  - [AI Futures](../ai/companies/openai/ai-futures.md)
   - [AI Model Catalog | Microsoft Foundry Models](../ai/agents/ai-model-catalog-microsoft-foundry-models.md)
   - [AI SDK Integration | OpenAI Agents SDK](../ai/agents/ai-sdk-integration-openai-agents-sdk.md)
   - [AI Text Humanizer - Free Without Login](../ai/rag/ai-text-humanizer-free-without-login.md)
@@ -28921,6 +28923,7 @@ Resources organized by keyword tags.
 ## openai-news
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
+  - [AI Futures](../ai/companies/openai/ai-futures.md)
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Engineering](../ai/companies/openai/engineering.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
@@ -49542,4 +49545,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T21:37:43.204227+05:30*
+*Index generated on 2026-08-21T02:38:35.228912+05:30*

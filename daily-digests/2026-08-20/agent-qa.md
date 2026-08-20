@@ -1,19 +1,33 @@
 ---
-title: "vostride/agent-qa"
-content_type: "repo"
-engine: "v2"
-category: "ai-agents"
-tech_stack: ["Python", "MCP", "Playwright", "Appium", "FastAPI", "SQLite"]
+title: vostride/agent-qa
+content_type: repo
+engine: v2
+category: daily-digests/2026-08-20
+tech_stack:
+- Python
+- MCP
+- Playwright
+- Appium
+- FastAPI
+- SQLite
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["qa-agent", "web-testing", "mobile-testing", "test-memory", "cli", "mcp", "ai-agents", "testing-qa"]
-source: "https://github.com/vostride/agent-qa"
+deployment_complexity: Low
+tags:
+- qa-agent
+- web-testing
+- mobile-testing
+- test-memory
+- cli
+- mcp
+- ai-agents
+- testing-qa
+source: https://github.com/vostride/agent-qa
 stars: 831
-language: "Python"
-last_updated: "2026-08-20T00:00:00Z"
-discovered_at: "2026-08-20T23:59:00Z"
-evaluated_by: "human-curated"
+language: Python
+last_updated: '2026-08-20T00:00:00Z'
+discovered_at: '2026-08-20T23:59:00Z'
+evaluated_by: human-curated
 ---
 
 ## Summary

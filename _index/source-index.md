@@ -17272,6 +17272,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: company_blog)
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
+  - [AI Futures](../ai/companies/openai/ai-futures.md)
   - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
@@ -18185,11 +18186,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [An American Mosaic (interactive map of ancestry census data)](../ai/community/an-american-mosaic-interactive-map-of-ancestry-cen.md)
   - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
-  - [Clean up Claude 5's token vomit with a separate LLM](../ai/community/zachahn-vomit.md)
-  - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](../ai/community/show-hn-check-if-any-of-the-656m-in-unclaimed-roya.md)
+  - [Gauguin, Descartes, Bayes: A Diurnal Golem's Brain](../ai/community/gauguin-descartes-bayes-a-diurnal-golem-s-brain.md)
+  - [Show HN: Huzzah – a novel approach to coding with AI](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)
   - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
+  - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -18662,7 +18663,6 @@ Resources organized by publisher feed and query sources.
   - [Kimina-Prover-RL](../ai/models/huggingface-blog-ai-mo-kimina-prover-rl.md)
   - [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](../ai/models/huggingface-blog-ai-mo-kimina-prover.md)
   - [LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)
-  - [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](../ai/models/huggingface-blog-liquidai-qad.md)
   - [LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](../ai/models/huggingface-blog-llm-inference-on-edge.md)
   - [Large Language Models: A New Moore's Law?](../ai/models/huggingface-blog-large-language-models.md)
   - [Large-scale Near-deduplication Behind BigCode](../ai/models/huggingface-blog-dedup.md)
@@ -18955,6 +18955,7 @@ Resources organized by publisher feed and query sources.
   - [Unlocking Longer Generation with Key-Value Cache Quantization](../ai/models/huggingface-blog-kv-cache-quantization.md)
   - [Unlocking asynchronicity in continuous batching](../ai/models/huggingface-blog-continuous-async.md)
   - [Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](../ai/models/huggingface-blog-websight.md)
+  - [Up to 3.2x Faster Inference with LFM2.5-DSpark](../ai/models/huggingface-blog-liquidai-lfm25-dspark.md)
   - [Upskill your LLMs With Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-servers.md)
   - [Using & Mixing Hugging Face Models with Gradio 2.0](../ai/models/huggingface-blog-gradio.md)
   - [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/huggingface-blog-lora.md)
@@ -19238,6 +19239,7 @@ Resources organized by publisher feed and query sources.
   - [Turbopack Dev is Now Stable](../web-development/turbopack-dev-is-now-stable.md)
   - [Turbopack: What's New in Next.js 16.2](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md)
   - [Turbopack: What's New in Next.js 16.3](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md)
+  - [Upcoming Next.js August Security Release](../web-development/nextjs/upcoming-next-js-august-security-release.md)
 
 ## Unknown Source (type: web)
 
@@ -22004,4 +22006,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T21:37:43.434394+05:30*
+*Index generated on 2026-08-21T02:38:35.467969+05:30*

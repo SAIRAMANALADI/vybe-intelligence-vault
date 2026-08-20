@@ -13,13 +13,14 @@ collected_at: '2026-08-20T21:21:29.755500+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:an-american-mosaic-interactive-map-of-ancestry-cen
 first_seen: '2026-08-20T21:21:29.755500+05:30'
 last_seen: '2026-08-20T21:21:29.755500+05:30'
 last_checked: '2026-08-20T21:21:29.755500+05:30'
 health_score: 100
 ---
+
 
 # An American Mosaic (interactive map of ancestry census data)
 

@@ -17,10 +17,10 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## LLMOps, Evals & Model Infrastructure
 
-- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (17551 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
+- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (17554 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (1019 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (9633 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
-- **[Model Providers](../model-providers/README.md)** (2379 files): Public metadata and documentation links for model APIs and provider ecosystems.
+- **[Model Providers](../model-providers/README.md)** (2380 files): Public metadata and documentation links for model APIs and provider ecosystems.
 - **[Inference and Local LLM](../inference-local-llm/README.md)** (1238 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
 
 ## Prompt Libraries & Automation Workflows
@@ -32,9 +32,9 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Creative 3D Dev & Frontend Interfaces
 
-- **[Frontend AI UI](../frontend-ai-ui/README.md)** (204 files): AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems.
+- **[Frontend AI UI](../frontend-ai-ui/README.md)** (205 files): AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems.
 - **[Webdev 3D Creative](../webdev-3d-creative/README.md)** (135 files): Three.js, React Three Fiber, WebGL, WebGPU, shaders, Spline, GLTF/GLB, Blender-to-web, and creative coding.
-- **[LLM App Templates](../llm-app-templates/README.md)** (265 files): Runnable AI app templates, agent apps, RAG starters, chat apps, FastAPI examples, and Next.js AI templates.
+- **[LLM App Templates](../llm-app-templates/README.md)** (266 files): Runnable AI app templates, agent apps, RAG starters, chat apps, FastAPI examples, and Next.js AI templates.
 
 ## Career Track & Startup Engineering
 
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (171 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-08-20 21:39 IST*
+*Last updated: 2026-08-21 02:40 IST*

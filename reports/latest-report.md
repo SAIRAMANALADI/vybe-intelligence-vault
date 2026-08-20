@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-21T01:58:20.268457+05:30`
+Generated at: `2026-08-21T02:40:55.190969+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,37 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Show HN: Huzzah – a novel approach to coding with AI** - Score: `63` in category `ai/community` ([Link](https://danielvaughn.dev/posts/huzzah)) ([File](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md))
+- **Gauguin, Descartes, Bayes: A Diurnal Golem's Brain** - Score: `14` in category `ai/community` ([Link](https://dl.acm.org/doi/10.1145/3759429.3762631)) ([File](../ai/community/gauguin-descartes-bayes-a-diurnal-golem-s-brain.md))
+- **Upcoming Next.js August Security Release** - Score: `0` in category `web-development/nextjs` ([Link](https://nextjs.org/blog/upcoming-nextjs-security-release-august-2026)) ([File](../web-development/nextjs/upcoming-next-js-august-security-release.md))
+- **Up to 3.2x Faster Inference with LFM2.5-DSpark** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/liquidai/lfm25-dspark)) ([File](../ai/models/huggingface-blog-liquidai-lfm25-dspark.md))
+- **AI Futures** - Score: `0` in category `ai/companies/openai` ([Link](https://openai.com/news/ai-futures)) ([File](../ai/companies/openai/ai-futures.md))
 
 ## Top Trending Resources
 
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+984` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+984` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese** - Score: `0` (0), Rank Change: `+984` ([File](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+984` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+984` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **krishnaik06/Agentic-LanggraphCrash-course** - Score: `0` (0), Rank Change: `+984` ([File](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md))
-- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+984` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
-- **fetchai/innovation-lab-examples** - Score: `0` (0), Rank Change: `+984` ([File](../ai/rag/fetchai-innovation-lab-examples.md))
-- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+984` ([File](../ai/agents/docker-compose-for-agents.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+984` ([File](../ai/rag/airweave-ai-airweave.md))
+- **Show HN: I trained a 125M model to autocomplete piano on-device** - Score: `428` (+181), Rank Change: `0` ([File](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md))
+- **Vomit: Clean up Claude 5's token output with a separate LLM** - Score: `124` (+109), Rank Change: `+1` ([File](../ai/community/zachahn-vomit.md))
+- **Anti-AI fonts are useless and harmful** - Score: `69` (+61), Rank Change: `+2` ([File](../ai/community/anti-ai-fonts-are-useless-and-harmful.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+988` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+988` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/graphics-multimedia.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21577`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9242`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+985`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+985`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+985`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+985`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+985`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+985`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+985`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+985`) ([File](../ai/research/arxiv-2606-09123.md))
+- **datawhalechina/all-in-rag** - (Rank Change: `+988`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+988`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **allenai/c4** - (Rank Change: `+21`) ([File](../ai/models/huggingface-datasets-allenai.md))
+- **xlangai/ubuntu_osworld_file_cache** - (Rank Change: `+21`) ([File](../ai/models/huggingface-datasets-xlangai.md))
+- **ayuo/hd_tmp** - (Rank Change: `+21`) ([File](../ai/models/huggingface-datasets-ayuo.md))
+- **IPEC-COMMUNITY/language_table_lerobot** - (Rank Change: `+21`) ([File](../ai/models/huggingface-datasets-ipec-community.md))
+- **Salesforce/wikitext** - (Rank Change: `+21`) ([File](../ai/models/huggingface-datasets-salesforce.md))
+- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+21`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
+- **nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim** - (Rank Change: `+21`) ([File](../ai/models/huggingface-datasets-nvidia.md))
+- **huggingface/documentation-images** - (Rank Change: `+21`) ([File](../ai/models/huggingface-datasets-huggingface.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +49,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **An American Mosaic (interactive map of ancestry census data)** (Category: `ai/community`) ([File](../ai/community/an-american-mosaic-interactive-map-of-ancestry-cen.md))
+- **Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours** (Category: `ai/community`) ([File](../ai/community/show-hn-check-if-any-of-the-656m-in-unclaimed-roya.md))

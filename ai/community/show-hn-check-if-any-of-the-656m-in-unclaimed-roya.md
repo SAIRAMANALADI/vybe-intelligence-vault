@@ -13,13 +13,14 @@ collected_at: '2026-08-20T21:21:29.591876+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-check-if-any-of-the-656m-in-unclaimed-roya
 first_seen: '2026-08-20T21:21:29.591876+05:30'
 last_seen: '2026-08-20T21:21:29.591876+05:30'
 last_checked: '2026-08-20T21:21:29.591876+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours
 

@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 
 ---
-*Last updated: 2026-08-20 21:39 IST*
+*Last updated: 2026-08-21 02:40 IST*
