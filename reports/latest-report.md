@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-20T12:20:21.622309+05:30`
+Generated at: `2026-08-20T12:57:03.133434+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?** - Score: `42` in category `ai/community` ([Link](https://devblogs.microsoft.com/oldnewthing/20260818-00?p=112621)) ([File](../ai/community/why-microsoft-entertainment-pack-had-a-sticker-ann.md))
 
 ## Top Trending Resources
 
-- **Complete, Scalable, and Robust Prioritized Planning for Multi-Robot Ordered Storage and Retrieval at Maximum Capacity** - Score: `0` (0), Rank Change: `+139` ([File](../ai/rag/arxiv-2608-07734.md))
-- **First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers** - Score: `0` (0), Rank Change: `+139` ([File](../ai/research/arxiv-2606-22361.md))
-- **Hybrid ANN-SNN Pipeline with Local Plasticity** - Score: `0` (0), Rank Change: `+139` ([File](../ai/rag/arxiv-2606-20151.md))
-- **DELOS: Contrastive Deep Learning for Low-SNR Blind Transit Searches in Kepler Photometry** - Score: `0` (0), Rank Change: `+139` ([File](../ai/research/arxiv-2605-29428.md))
-- **ICICLE: Expanding Retrieval with In-Context Documents** - Score: `0` (0), Rank Change: `+139` ([File](../ai/research/arxiv-2605-26902.md))
-- **EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding** - Score: `0` (0), Rank Change: `+139` ([File](../ai/rag/arxiv-2605-09874.md))
-- **Key Coverage Matters: Semi-Structured Extraction of OCR Clinical Reports** - Score: `0` (0), Rank Change: `+139` ([File](../ai/rag/arxiv-2605-09440.md))
-- **When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't** - Score: `0` (0), Rank Change: `+139` ([File](../ai/rag/arxiv-2604-06422.md))
-- **Wildfire Suppression: Complexity, Models, and Instances** - Score: `0` (0), Rank Change: `+139` ([File](../ai/research/arxiv-2603-29865.md))
-- **A Framework and Prototype for a Navigable Map of Datasets in Engineering Design and Systems Engineering** - Score: `0` (0), Rank Change: `+139` ([File](../ai/rag/arxiv-2603-15722.md))
+- **A joke domain purchase turned in geopolitical warfare** - Score: `851` (+55), Rank Change: `0` ([File](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md))
+- **Feature Request: Support AGENTS.md** - Score: `214` (+54), Rank Change: `+1` ([File](../ai/community/anthropics-claude-code.md))
+- **Mathematics in the age of AI** - Score: `156` (+26), Rank Change: `+1` ([File](../ai/community/arxiv-2608-16753.md))
+- **Extensible Software in the age of LLMs** - Score: `144` (+24), Rank Change: `+1` ([File](../ai/community/extensible-software-in-the-age-of-llms.md))
+- **Air Theremin – A browser theremin you play by waving at your webcam** - Score: `269` (+9), Rank Change: `+1` ([File](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md))
+- **krishnaik06/Agentic-LanggraphCrash-course** - Score: `0` (0), Rank Change: `+4512` ([File](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md))
+- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+1729` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **fetchai/innovation-lab-examples** - Score: `0` (0), Rank Change: `+3034` ([File](../ai/rag/fetchai-innovation-lab-examples.md))
+- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+3031` ([File](../ai/agents/docker-compose-for-agents.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+1730` ([File](../ai/rag/airweave-ai-airweave.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21592`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9241`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+984`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+984`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+984`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+984`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+984`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+984`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+984`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+984`) ([File](../ai/research/arxiv-2606-09123.md))
+- **langchain-ai/open-swe** - (Rank Change: `+4794`) ([File](../ai/agents/langchain-ai-open-swe.md))
+- **ashishpatel26/500-AI-Agents-Projects** - (Rank Change: `+4722`) ([File](../ai/agents/ashishpatel26-500-ai-agents-projects.md))
+- **krishnaik06/Agentic-LanggraphCrash-course** - (Rank Change: `+4512`) ([File](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md))
+- **vercel/ai** - (Rank Change: `+3471`) ([File](../ai/agents/vercel-ai.md))
+- **fetchai/innovation-lab-examples** - (Rank Change: `+3034`) ([File](../ai/rag/fetchai-innovation-lab-examples.md))
+- **docker/compose-for-agents** - (Rank Change: `+3031`) ([File](../ai/agents/docker-compose-for-agents.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+3031`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **continuedev/continue** - (Rank Change: `+2665`) ([File](../ai/agents/continuedev-continue.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+2664`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **airweave-ai/airweave** - (Rank Change: `+1730`) ([File](../ai/rag/airweave-ai-airweave.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Google replaced Git tags for certain source code with obtaining via Google Drive** (Category: `ai/community`) ([File](../ai/community/google-replaced-git-tags-for-certain-source-code-w.md))
+- **Universality of Gradient Descent Neural Network Training** (Category: `ai/community`) ([File](../ai/community/arxiv-2007-13664.md))

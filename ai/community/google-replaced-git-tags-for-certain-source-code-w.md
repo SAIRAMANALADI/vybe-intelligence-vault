@@ -14,13 +14,14 @@ collected_at: '2026-08-20T09:30:39.451417+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-replaced-git-tags-for-certain-source-code-w
 first_seen: '2026-08-20T03:20:02.540067+05:30'
 last_seen: '2026-08-20T09:30:39.451417+05:30'
 last_checked: '2026-08-20T09:30:39.451417+05:30'
 health_score: 100
 ---
+
 
 # Google replaced Git tags for certain source code with obtaining via Google Drive
 

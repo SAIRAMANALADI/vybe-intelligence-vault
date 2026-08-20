@@ -41,4 +41,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-08-20 09:48 IST*
+*Last updated: 2026-08-20 12:55 IST*

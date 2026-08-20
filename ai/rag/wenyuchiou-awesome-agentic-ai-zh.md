@@ -4,27 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/WenyuChiou/awesome-agentic-ai-zh
-collected_at: '2026-08-18T12:43:27.598142+05:30'
-published_at: '2026-08-18T07:11:17Z'
+collected_at: '2026-08-20T12:41:19.633384+05:30'
+published_at: '2026-08-20T06:43:37Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
-stars: 5301
+stars: 6025
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-05-04T22:18:51Z'
-pushed_at: '2026-08-17T04:40:45Z'
+pushed_at: '2026-08-19T21:04:04Z'
 resource_id: github:wenyuchiou/awesome-agentic-ai-zh
-first_seen: '2026-08-18T12:43:27.598142+05:30'
-last_seen: '2026-08-18T12:43:27.598142+05:30'
-last_checked: '2026-08-18T12:43:27.598142+05:30'
+first_seen: '2026-08-20T12:41:19.633384+05:30'
+last_seen: '2026-08-20T12:41:19.633384+05:30'
+last_checked: '2026-08-20T12:41:19.633384+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive trilingual learning roadmap for agentic AI, spanning LLM fundamentals, prompt engineering, RAG, and advanced multi-agent systems.
-*   Curates 240+ technical resources and hands-on examples, including Model Context Protocol (MCP) and Claude-specific agentic skill development.
-*   Primarily implemented in Python, offering practical tutorials for building AI agents and workflows.
+*   Trilingual (zh-TW/en/zh-CN) learning roadmap for agentic AI, spanning LLM fundamentals to multi-agent system architectures.
+*   Curated resource collection (240+ entries) covering prompt engineering, RAG, Model Context Protocol (MCP), and Claude-specific agentic skill development.
+*   Provides practical, hands-on examples for implementing LLM-based agents and complex multi
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: WenyuChiou
-- Stars: 5301
-- Forks: 721
+- Stars: 6025
+- Forks: 806
 - Language: Python
 - Topics: agentic-ai, agentic-workflows, ai-agent, ai-agents, awesome-list, chinese-llm, claude-code, claude-skills, cli, learning-roadmap, llm, llm-agents, mcp, model-context-protocol, multi-agent-systems, prompt-engineering, rag, trilingual, tutorial
-- Last Updated: 2026-08-18T07:11:17Z
+- Last Updated: 2026-08-20T06:43:37Z
 - License: MIT
 - Archived: No
 - Created At: 2026-05-04T22:18:51Z
-- Pushed At: 2026-08-17T04:40:45Z
+- Pushed At: 2026-08-19T21:04:04Z
 
 ## Possible Use Cases
 

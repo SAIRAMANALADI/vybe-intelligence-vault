@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war
 hn_url: https://news.ycombinator.com/item?id=49360015
-score: 796
+score: 851
 author: kareiva
-comments_count: 124
+comments_count: 129
 published_at: '2026-08-19T16:51:50+05:30'
-collected_at: '2026-08-20T09:30:39.755188+05:30'
+collected_at: '2026-08-20T12:38:10.982142+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:a-joke-domain-purchase-turned-in-geopolitical-warf
 first_seen: '2026-08-19T21:25:00.762649+05:30'
-last_seen: '2026-08-20T09:30:39.755188+05:30'
-last_checked: '2026-08-20T09:30:39.755188+05:30'
+last_seen: '2026-08-20T12:38:10.982142+05:30'
+last_checked: '2026-08-20T12:38:10.982142+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by kareiva. Score: 796, Comments: 124.
+Hacker News story by kareiva. Score: 851, Comments: 129.
 Original Link: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: kareiva
-- Score: 796 Upvotes
-- Comments: 124 Discussions
+- Score: 851 Upvotes
+- Comments: 129 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49360015
 - Original Article: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war
 

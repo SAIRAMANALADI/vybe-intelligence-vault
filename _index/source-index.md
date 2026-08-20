@@ -18189,9 +18189,8 @@ Resources organized by publisher feed and query sources.
   - [Air Theremin – A browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
   - [Extensible Software in the age of LLMs](../ai/community/extensible-software-in-the-age-of-llms.md)
   - [Feature Request: Support AGENTS.md](../ai/community/anthropics-claude-code.md)
-  - [Google replaced Git tags for certain source code with obtaining via Google Drive](../ai/community/google-replaced-git-tags-for-certain-source-code-w.md)
   - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
-  - [Universality of Gradient Descent Neural Network Training](../ai/community/arxiv-2007-13664.md)
+  - [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](../ai/community/why-microsoft-entertainment-pack-had-a-sticker-ann.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -22004,4 +22003,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T09:48:07.384456+05:30*
+*Index generated on 2026-08-20T12:54:24.851756+05:30*

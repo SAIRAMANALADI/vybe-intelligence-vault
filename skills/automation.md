@@ -20,11 +20,11 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 3995 resources matched in the intelligence vault.
 Recently detected signals:
-- [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md) (Source: Unknown Source) - Collected 2026-08-20
-- [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) (Source: Unknown Source) - Collected 2026-08-20
-- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-08-20
-- [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) (Source: Unknown Source) - Collected 2026-08-20
-- [Next.js 9](../web-development/nextjs/next-js-9.md) (Source: Unknown Source) - Collected 2026-08-20
+- [krishnaik06/Agentic-LanggraphCrash-course](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md) (Source: Unknown Source) - Collected 2026-08-20
+- [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md) (Source: Unknown Source) - Collected 2026-08-20
+- [fetchai/innovation-lab-examples](../ai/rag/fetchai-innovation-lab-examples.md) (Source: Unknown Source) - Collected 2026-08-20
+- [docker/compose-for-agents](../ai/agents/docker-compose-for-agents.md) (Source: Unknown Source) - Collected 2026-08-20
+- [airweave-ai/airweave](../ai/rag/airweave-ai-airweave.md) (Source: Unknown Source) - Collected 2026-08-20
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -235,50 +235,50 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Autonomous AI Agent Framework**: Provides templates for long-running autonomous project execution using AI agents, including reviewer agents and learning loops for continuous improvement.
 
-### 42. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow))
-- Stars: 0
-- Language: Unknown
-- Description: *   Python-based repository implementing a Retrieval Augmented Generation (RAG) workflow.
-
-### 43. [langchain-ai/new-langgraphjs-project](../ai/agents/langchain-ai-new-langgraphjs-project.md) ([GitHub](https://github.com/langchain-ai/new-langgraphjs-project))
+### 42. [langchain-ai/new-langgraphjs-project](../ai/agents/langchain-ai-new-langgraphjs-project.md) ([GitHub](https://github.com/langchain-ai/new-langgraphjs-project))
 - Stars: 0
 - Language: Unknown
 - Description: - **Template Structure**: Empty starter project for LangGraph.js, a TypeScript-based framework for building stateful, multi-actor applications with LLMs.
 
-### 44. [GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](../ai/rag/github-enterprise-the-ai-powered-developer-platfor.md) ([GitHub](https://github.com/enterprise))
+### 43. [GitHub Enterprise · The AI-powered developer platform for the agent-ready enterprise · GitHub](../ai/rag/github-enterprise-the-ai-powered-developer-platfor.md) ([GitHub](https://github.com/enterprise))
 - Stars: 0
 - Language: Unknown
 - Description: - **Integrated Security & Compliance**: GitHub Enterprise embeds security tools (e.g., GitHub Advanced Security) directly into workflows for automated code, secret, and dependency scanning, while s...
 
-### 45. [rohitg00/agentmemory](../ai/rag/rohitg00-agentmemory.md) ([GitHub](https://github.com/rohitg00/agentmemory))
+### 44. [rohitg00/agentmemory](../ai/rag/rohitg00-agentmemory.md) ([GitHub](https://github.com/rohitg00/agentmemory))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides persistent memory storage for AI coding agents, validated by real-world benchmarks.
 
-### 46. [yzhao062/pyod](../ai/rag/yzhao062-pyod.md) ([GitHub](https://github.com/yzhao062/pyod))
+### 45. [yzhao062/pyod](../ai/rag/yzhao062-pyod.md) ([GitHub](https://github.com/yzhao062/pyod))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multimodal Anomaly Detection**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, enabling cross-domain anomaly detection with unified APIs.
 
-### 47. [ksm26/Multi-AI-Agent-Systems-with-crewAI](../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md) ([GitHub](https://github.com/ksm26/multi-ai-agent-systems-with-crewai))
+### 46. [ksm26/Multi-AI-Agent-Systems-with-crewAI](../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md) ([GitHub](https://github.com/ksm26/multi-ai-agent-systems-with-crewai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, even...
 
-### 48. [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md) ([GitHub](https://github.com/0xsteph/pentest-ai-agents))
+### 47. [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md) ([GitHub](https://github.com/0xsteph/pentest-ai-agents))
 - Stars: 0
 - Language: Unknown
 - Description: - **Automated Penetration Testing Framework**: Converts Claude Code into specialized AI subagents for end-to-end offensive security workflows, including engagement planning, reconnaissance analysis...
 
-### 49. [GitHub Features · GitHub](../ai/rag/github-features-github.md) ([GitHub](https://github.com/features))
+### 48. [GitHub Features · GitHub](../ai/rag/github-features-github.md) ([GitHub](https://github.com/features))
 - Stars: 0
 - Language: Unknown
 - Description: - **GitHub Copilot**: AI-powered code completion and generation within IDEs, providing whole-line or function-level suggestions in supported languages (JavaScript, TypeScript, Python, Java, etc.).
 
-### 50. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([GitHub](https://github.com/deepset-ai/haystack-cookbook))
+### 49. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([GitHub](https://github.com/deepset-ai/haystack-cookbook))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Repository of Jupyter Notebooks demonstrating practical applications of [Haystack](https://haystack.deepset.ai/) (a Python framework for building LLM-powered search and RAG pipelines).
+
+### 50. [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) ([GitHub](https://github.com/esxr/langgraph-mcp))
+- Stars: 0
+- Language: Unknown
+- Description: - **Purpose**: LangGraph solution template for **Model Context Protocol (MCP)**, enabling structured multi-agent workflows in Python.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-08-20T09:47:43.534235+05:30.512844+05:30.355518+05:30.127512+05:30.706288+05:30.360622+05:30.016054+05:30.657440+05:30.365860+05:30.027675+05:30.308819+05:30.400046+05:30.516009+05:30.907593+05:30.760716+05:30.020601+05:30.631979+05:30.987216+05:30.110047+05:30.157280+05:30.006676+05:30.099594+05:30.474581+05:30.046525+05:30.663412+05:30.423836+05:30.011925+05:30.756508+05:30.978715+05:30.031700+05:30.613423+05:30.253427+05:30.392888+05:30.615811+05:30.209980+05:30.786099+05:30.086125+05:30.597486+05:30.770459+05:30.311234+05:30.128310+05:30.704616+05:30.398619+05:30.921374+05:30.203504+05:30.836246+05:30.966235+05:30.268071+05:30.376791+05:30.968075+05:30.365734+05:30.545296+05:30.191338+05:30.162665+05:30.557189+05:30.328408+05:30.529777+05:30.983866+05:30.242134+05:30.042180+05:30.376193+05:30.130897+05:30.304565+05:30.123630+05:30.936360+05:30.654232+05:30.212004+05:30.681041+05:30.982296+05:30.839918+05:30.554662+05:30.769449+05:30.881368+05:30.633041+05:30.401934+05:30.186129+05:30.256045+05:30.990794+05:30.256556+05:30.863365+05:30.695327+05:30.850597+05:30.155185+05:30.841383+05:30.807914+05:30.430097+05:30.537570+05:30.567729+05:30.685556+05:30.754762+05:30.776319+05:30.643227+05:30.835911+05:30.430564+05:30.814471+05:30.262964+05:30.928623+05:30.067906+05:30.685194+05:30.120957+05:30.765828+05:30.071062+05:30.273142+05:30.667570+05:30.325348+05:30.111103+05:30.210058+05:30.953694+05:30.522396+05:30.341562+05:30.479522+05:30.355022+05:30.070422+05:30.918427+05:30.936729+05:30.604552+05:30.948420+05:30.310480+05:30.376217+05:30.930625+05:30.570135+05:30.023674+05:30.298351+05:30.284245+05:30.599914+05:30.638146+05:30.590580+05:30.428442+05:30.942653+05:30.071927+05:30.645852+05:30.140964+05:30.536982+05:30.746877+05:30.255379+05:30.627063+05:30.853443+05:30.947963+05:30.502000+05:30.699738+05:30.255320+05:30.281370+05:30.311451+05:30.618430+05:30.220932+05:30.987525+05:30.580473+05:30.049055+05:30.370871+05:30.281615+05:30.982372+05:30.263224+05:30.758347+05:30.875780+05:30.367374+05:30.831820+05:30.488093+05:30.054779+05:30.486208+05:30.703982+05:30.042243+05:30.825857+05:30.700576+05:30.418602+05:30.880802+05:30.079689+05:30.639836+05:30.728817+05:30.313243+05:30.430918+05:30.079612+05:30.234423+05:30.736922+05:30.390703+05:30.327705+05:30.160338+05:30.390159+05:30.938054+05:30.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-08-20T12:54:01.527189+05:30.534235+05:30.512844+05:30.355518+05:30.127512+05:30.706288+05:30.360622+05:30.016054+05:30.657440+05:30.365860+05:30.027675+05:30.308819+05:30.400046+05:30.516009+05:30.907593+05:30.760716+05:30.020601+05:30.631979+05:30.987216+05:30.110047+05:30.157280+05:30.006676+05:30.099594+05:30.474581+05:30.046525+05:30.663412+05:30.423836+05:30.011925+05:30.756508+05:30.978715+05:30.031700+05:30.613423+05:30.253427+05:30.392888+05:30.615811+05:30.209980+05:30.786099+05:30.086125+05:30.597486+05:30.770459+05:30.311234+05:30.128310+05:30.704616+05:30.398619+05:30.921374+05:30.203504+05:30.836246+05:30.966235+05:30.268071+05:30.376791+05:30.968075+05:30.365734+05:30.545296+05:30.191338+05:30.162665+05:30.557189+05:30.328408+05:30.529777+05:30.983866+05:30.242134+05:30.042180+05:30.376193+05:30.130897+05:30.304565+05:30.123630+05:30.936360+05:30.654232+05:30.212004+05:30.681041+05:30.982296+05:30.839918+05:30.554662+05:30.769449+05:30.881368+05:30.633041+05:30.401934+05:30.186129+05:30.256045+05:30.990794+05:30.256556+05:30.863365+05:30.695327+05:30.850597+05:30.155185+05:30.841383+05:30.807914+05:30.430097+05:30.537570+05:30.567729+05:30.685556+05:30.754762+05:30.776319+05:30.643227+05:30.835911+05:30.430564+05:30.814471+05:30.262964+05:30.928623+05:30.067906+05:30.685194+05:30.120957+05:30.765828+05:30.071062+05:30.273142+05:30.667570+05:30.325348+05:30.111103+05:30.210058+05:30.953694+05:30.522396+05:30.341562+05:30.479522+05:30.355022+05:30.070422+05:30.918427+05:30.936729+05:30.604552+05:30.948420+05:30.310480+05:30.376217+05:30.930625+05:30.570135+05:30.023674+05:30.298351+05:30.284245+05:30.599914+05:30.638146+05:30.590580+05:30.428442+05:30.942653+05:30.071927+05:30.645852+05:30.140964+05:30.536982+05:30.746877+05:30.255379+05:30.627063+05:30.853443+05:30.947963+05:30.502000+05:30.699738+05:30.255320+05:30.281370+05:30.311451+05:30.618430+05:30.220932+05:30.987525+05:30.580473+05:30.049055+05:30.370871+05:30.281615+05:30.982372+05:30.263224+05:30.758347+05:30.875780+05:30.367374+05:30.831820+05:30.488093+05:30.054779+05:30.486208+05:30.703982+05:30.042243+05:30.825857+05:30.700576+05:30.418602+05:30.880802+05:30.079689+05:30.639836+05:30.728817+05:30.313243+05:30.430918+05:30.079612+05:30.234423+05:30.736922+05:30.390703+05:30.327705+05:30.160338+05:30.390159+05:30.938054+05:30.147649+05:30.853445+05:30.911620+05:30.889091+05:30.475459+05:30.492773+05:30.645584+05:30.498605+05:30.950912+05:30.261123+05:30.399264+05:30.385077+05:30.961325+05:30.107504+05:30.047795+05:30.474321+05:30.222734+05:30.459200+05:30.777067+05:30.175813+05:30.675802+05:30.134817+05:30.866435+05:30.285446+05:30.765315+05:30.572043+05:30.571051+05:30.501384+05:30.686054+05:30.552683+05:30.319049+05:30.405533+05:30.937907+05:30.846054+05:30.037645+05:30.210046+05:30.639535+05:30.495645+05:30.903562+05:30.073236+05:30.062240+05:30.947706+05:30.013522+05:30.875606+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

@@ -4,19 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/docker/compose-for-agents
-collected_at: '2026-08-17T07:33:04.424815+05:30'
-published_at: '2026-08-15T14:30:57Z'
+collected_at: '2026-08-20T12:41:19.728469+05:30'
+published_at: '2026-08-20T01:35:04Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - openai
 - reddit
 - typescript
 - workflows
-stars: 1022
+stars: 1024
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -24,9 +23,9 @@ archived: false
 created_at: '2025-05-09T09:20:04Z'
 pushed_at: '2026-06-04T18:15:29Z'
 resource_id: github:docker/compose-for-agents
-first_seen: '2026-08-17T07:33:04.424815+05:30'
-last_seen: '2026-08-17T07:33:04.424815+05:30'
-last_checked: '2026-08-17T07:33:04.424815+05:30'
+first_seen: '2026-08-20T12:41:19.728469+05:30'
+last_seen: '2026-08-20T12:41:19.728469+05:30'
+last_checked: '2026-08-20T12:41:19.728469+05:30'
 health_score: 100
 ---
 
@@ -34,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides Docker Compose configurations for orchestrating AI agents, integrating open-source LLMs, tools, and agent runtimes.
-*   Offers ready-to-use examples for deploying complex agentic workflows in self-hosted environments.
-*   Supports specific technologies like `llama-cpp` for local LLM inference and `openai-gym` for agent environment interaction.
+*   Orchestrates AI agent development and deployment using Docker Compose for containerized environments.
+*   Provides ready-to-use examples integrating open-source LLMs (e.g., `llama-cpp`), agent runtimes, and various tools.
+*   Supports self-hosted agentic workflows, including `openai-gym` environments, through pre-configured service definitions.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: docker
-- Stars: 1022
-- Forks: 464
+- Stars: 1024
+- Forks: 465
 - Language: TypeScript
 - Topics: agentic-workflows, ai-agents, docker, docker-compose, examples, large-language-models, llama-cpp, openai-gym, self-hosted
-- Last Updated: 2026-08-15T14:30:57Z
+- Last Updated: 2026-08-20T01:35:04Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-09T09:20:04Z
