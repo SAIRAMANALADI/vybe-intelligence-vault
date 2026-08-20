@@ -1,601 +1,589 @@
-import { useState, useMemo, useEffect, useCallback } from 'react';
-import { Search, Folder, FileText, ChevronRight, ChevronDown, Clock, ExternalLink, ArrowLeft, Menu, X } from 'lucide-react';
-import ReactMarkdown from 'react-markdown';
-import { useVaultIndex } from './data/vaultHooks';
+import { useState, useMemo, useEffect } from 'react';
+import { Search, Database, Activity, Cpu, Layers, ListFilter, HelpCircle, Zap, Flame, ShieldAlert, Sparkles, Terminal } from 'lucide-react';
+import DetailPanel from './components/DetailPanel';
+import { useVaultIndex, useEventStream, useMCPBridge } from './data/vaultHooks';
 
-const IS_PROD = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
-const BASE_PATH = IS_PROD ? '/vybe-intelligence-vault/' : '/';
-
-/* ─── Markdown Viewer ─── */
-function MarkdownViewer({ node, onNavigate, onBack }) {
-  const [content, setContent] = useState('');
-  const [loading, setLoading] = useState(false);
-  const [activePath, setActivePath] = useState(null);
-
-  if (node && node.path !== activePath) {
-    setActivePath(node.path);
-    setLoading(true);
-    setContent('');
+const CATEGORY_STYLES = {
+  'maps': {
+    label: 'SYSTEM MAPS',
+    cardBg: 'bg-[#FFE600]',
+    badgeBg: 'bg-[#FFE600] text-black border-black',
+    accentColor: '#FFE600'
+  },
+  'skills': {
+    label: 'INTEL SKILLS',
+    cardBg: 'bg-[#00F0FF]',
+    badgeBg: 'bg-[#00F0FF] text-black border-black',
+    accentColor: '#00F0FF'
+  },
+  'daily-digests': {
+    label: 'DAILY DIGESTS',
+    cardBg: 'bg-[#FF2A85] text-white',
+    badgeBg: 'bg-[#FF2A85] text-white border-black',
+    accentColor: '#FF2A85'
+  },
+  'prompts': {
+    label: 'PROMPTS & AGENTS',
+    cardBg: 'bg-[#00FF66]',
+    badgeBg: 'bg-[#00FF66] text-black border-black',
+    accentColor: '#00FF66'
+  },
+  'ai': {
+    label: 'AI & RESEARCH',
+    cardBg: 'bg-[#A855F7] text-white',
+    badgeBg: 'bg-[#A855F7] text-white border-black',
+    accentColor: '#A855F7'
+  },
+  'web-development': {
+    label: 'WEB DEV / WEBGL',
+    cardBg: 'bg-[#FF5500] text-white',
+    badgeBg: 'bg-[#FF5500] text-white border-black',
+    accentColor: '#FF5500'
+  },
+  'workspace-archive': {
+    label: 'ARCHIVE STACKS',
+    cardBg: 'bg-white',
+    badgeBg: 'bg-white text-black border-black',
+    accentColor: '#000000'
   }
+};
 
-  useEffect(() => {
-    if (!node) return;
-    let isCurrent = true;
+const FALLBACK_STYLES = [
+  { label: 'CLASSIFIED', badgeBg: 'bg-[#D4FF00] text-black border-black', cardBg: 'bg-[#D4FF00]' },
+  { label: 'INTELLIGENCE', badgeBg: 'bg-[#00F0FF] text-black border-black', cardBg: 'bg-[#00F0FF]' },
+  { label: 'SYNAPSE', badgeBg: 'bg-[#FF5500] text-white border-black', cardBg: 'bg-[#FF5500]' },
+  { label: 'PROTOCOL', badgeBg: 'bg-[#A855F7] text-white border-black', cardBg: 'bg-[#A855F7]' }
+];
 
-    const fileUrl = `${BASE_PATH}vault/${node.path}`;
-
-    fetch(fileUrl)
-      .then((res) => {
-        if (!res.ok) throw new Error('File not found');
-        return res.text();
-      })
-      .then((text) => {
-        if (!isCurrent) return;
-        let cleanText = text;
-        if (text.startsWith('---')) {
-          const parts = text.split('---');
-          if (parts.length >= 3) {
-            cleanText = parts.slice(2).join('---').trim();
-          }
-        }
-        setContent(cleanText || '_This file is empty or contains only metadata._');
-        setLoading(false);
-      })
-      .catch((err) => {
-        if (!isCurrent) return;
-        console.error('Fetch error:', err);
-        const sourceUrl = `https://github.com/sairaman436/vybe-intelligence-vault/blob/main/${node.path}`;
-        setContent(node.path.endsWith('.md') 
-          ? `# Document Source Available\n\nThis entry (\`${node.path}\`) is part of the repository vault.\n\n🔗 **[View file directly on GitHub](${sourceUrl})**`
-          : '_This is a non-markdown file. Preview is not available._');
-        setLoading(false);
-      });
-
-    return () => {
-      isCurrent = false;
-    };
-  }, [node]);
-
-  if (!node) return null;
-
-  const fileName = (node.path || '').split('/').pop();
-  const breadcrumb = node.category?.replace(/-/g, ' ') || node.path?.split('/')[0] || '';
-
-  return (
-    <div className="flex-1 flex flex-col h-full bg-white dark:bg-[#09090b] transition-colors">
-      {/* Document header */}
-      <header className="shrink-0 px-4 sm:px-8 py-4 sm:py-6 border-b border-zinc-200 dark:border-zinc-800">
-        <div className="flex items-center gap-3 mb-3">
-          <button
-            onClick={onBack}
-            className="lg:hidden flex items-center gap-1.5 text-sm text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors -ml-1 py-1"
-          >
-            <ArrowLeft className="w-4 h-4" />
-            <span>Back</span>
-          </button>
-          <div className="hidden lg:flex items-center gap-1.5 text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest">
-            <span>{breadcrumb}</span>
-            <span className="text-zinc-300 dark:text-zinc-700">/</span>
-            <span className="text-zinc-500 dark:text-zinc-400 truncate">{fileName}</span>
-          </div>
-        </div>
-        <h1 className="text-xl sm:text-2xl lg:text-3xl font-semibold text-zinc-900 dark:text-zinc-50 tracking-tight leading-tight">
-          {node.title || fileName}
-        </h1>
-        <div className="flex flex-wrap items-center gap-4 mt-3 text-sm text-zinc-500 dark:text-zinc-500">
-          {node.last_modified && (
-            <div className="flex items-center gap-1.5">
-              <Clock className="w-3.5 h-3.5" />
-              <span>{new Date(node.last_modified).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' })}</span>
-            </div>
-          )}
-          <a 
-            href={`https://github.com/sairaman436/vybe-intelligence-vault/blob/main/${node.path}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center gap-1.5 hover:text-zinc-900 dark:hover:text-zinc-200 transition-colors"
-          >
-            <ExternalLink className="w-3.5 h-3.5" />
-            <span>Source</span>
-          </a>
-        </div>
-      </header>
-      
-      {/* Document content */}
-      <div className="flex-1 overflow-y-auto px-4 sm:px-8 py-6 sm:py-8 custom-scrollbar">
-        <div className="max-w-3xl mx-auto pb-16">
-          {loading ? (
-            <div className="flex items-center gap-3 text-zinc-400 py-12">
-              <div className="w-4 h-4 rounded-full border-2 border-zinc-200 dark:border-zinc-700 border-t-zinc-500 dark:border-t-zinc-400 animate-spin" />
-              <span className="text-sm">Loading…</span>
-            </div>
-          ) : (
-            <div className="markdown-body">
-              <ReactMarkdown
-                components={{
-                  a: ({ href, children, ...props }) => {
-                    if (href && !href.startsWith('http') && !href.startsWith('#') && !href.startsWith('mailto:')) {
-                      return (
-                        <a 
-                          href={href} 
-                          onClick={(e) => {
-                            e.preventDefault();
-                            onNavigate(href, node.path);
-                          }}
-                          className="cursor-pointer"
-                        >
-                          {children}
-                        </a>
-                      );
-                    }
-                    return <a href={href} target="_blank" rel="noopener noreferrer" {...props}>{children}</a>;
-                  }
-                }}
-              >
-                {content}
-              </ReactMarkdown>
-            </div>
-          )}
-        </div>
-      </div>
-    </div>
-  );
-}
-
-/* ─── Tree Node ─── */
-function TreeNode({ name, nodeData, depth, expandedPaths, togglePath, path, onSelect, selectedPath }) {
-  const isExpanded = expandedPaths.has(path);
-  const childFolders = Object.keys(nodeData.children).sort();
-  
-  return (
-    <div className="flex flex-col w-full">
-      <button 
-        onClick={() => togglePath(path)}
-        className="flex items-center gap-2 py-2 pr-3 hover:bg-zinc-100 dark:hover:bg-zinc-800/50 rounded-md text-sm text-zinc-700 dark:text-zinc-300 w-full text-left transition-colors min-h-[36px]"
-        style={{ paddingLeft: `${depth * 16 + 12}px` }}
-      >
-        {isExpanded ? <ChevronDown className="w-3.5 h-3.5 text-zinc-400 shrink-0" /> : <ChevronRight className="w-3.5 h-3.5 text-zinc-400 shrink-0" />}
-        <Folder className="w-3.5 h-3.5 text-zinc-400 dark:text-zinc-500 shrink-0" />
-        <span className="truncate font-medium">{name}</span>
-      </button>
-      
-      {isExpanded && (
-        <div className="flex flex-col">
-          {childFolders.map(childName => (
-            <TreeNode 
-              key={childName}
-              name={childName}
-              nodeData={nodeData.children[childName]}
-              depth={depth + 1}
-              expandedPaths={expandedPaths}
-              togglePath={togglePath}
-              path={`${path}/${childName}`}
-              onSelect={onSelect}
-              selectedPath={selectedPath}
-            />
-          ))}
-          {nodeData.files.map(file => (
-            <button
-              key={file.path}
-              onClick={() => onSelect(file)}
-              className={`w-full flex items-center gap-2 py-2 pr-3 text-sm text-left rounded-md transition-colors min-h-[36px] ${
-                selectedPath === file.path 
-                  ? 'bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-medium' 
-                  : 'text-zinc-600 dark:text-zinc-400 hover:bg-zinc-100 dark:hover:bg-zinc-800/50 hover:text-zinc-900 dark:hover:text-zinc-200'
-              }`}
-              style={{ paddingLeft: `${(depth + 1) * 16 + 28}px` }}
-            >
-              <FileText className="w-3.5 h-3.5 opacity-50 shrink-0" />
-              <span className="truncate">{file.title || file.path.split('/').pop()}</span>
-            </button>
-          ))}
-        </div>
-      )}
-    </div>
-  );
-}
-
-/* ─── Sidebar Content (shared between desktop & mobile) ─── */
-function SidebarContent({ searchQuery, setSearchQuery, searchResults, selectedNode, setSelectedNode, expandToNode, rootFolders, fileTree, expandedPaths, togglePath, totalFiles }) {
-  return (
-    <>
-      {/* Logo + Search */}
-      <div className="p-4 border-b border-zinc-200 dark:border-zinc-800">
-        <div className="flex items-center gap-2 mb-4 px-1">
-          <div className="w-6 h-6 rounded bg-zinc-900 dark:bg-zinc-100 flex items-center justify-center">
-            <span className="text-xs font-bold text-white dark:text-zinc-900">V</span>
-          </div>
-          <h1 className="font-semibold text-sm tracking-tight text-zinc-900 dark:text-zinc-100">Intelligence Vault</h1>
-        </div>
-        <div className="relative">
-          <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-zinc-400" />
-          <input 
-            type="text"
-            placeholder="Search…"
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full pl-9 pr-3 py-2 text-sm bg-zinc-100 dark:bg-zinc-800/50 border-0 rounded-lg focus:outline-none focus:ring-2 focus:ring-zinc-900/10 dark:focus:ring-zinc-100/10 placeholder:text-zinc-400 transition-shadow"
-          />
-        </div>
-      </div>
-
-      {/* File tree / search results */}
-      <div className="flex-1 overflow-y-auto overflow-x-hidden py-2 custom-scrollbar">
-        {searchQuery ? (
-          <div className="px-2">
-            <div className="px-3 py-1.5 text-[11px] font-medium text-zinc-400 uppercase tracking-widest">
-              {searchResults.length} results
-            </div>
-            {searchResults.map(node => (
-              <button
-                key={node.path}
-                onClick={() => { setSelectedNode(node); expandToNode(node); }}
-                className={`w-full flex items-center gap-2 px-3 py-2 text-sm rounded-md transition-colors text-left min-h-[36px] ${
-                  selectedNode?.path === node.path 
-                    ? 'bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-medium' 
-                    : 'hover:bg-zinc-100 dark:hover:bg-zinc-800/50 text-zinc-600 dark:text-zinc-400'
-                }`}
-              >
-                <FileText className="w-3.5 h-3.5 shrink-0 opacity-50" />
-                <span className="truncate">{node.title || node.path.split('/').pop()}</span>
-              </button>
-            ))}
-            {searchResults.length === 0 && (
-              <div className="px-4 py-8 text-center text-sm text-zinc-400">
-                No results for "{searchQuery}"
-              </div>
-            )}
-          </div>
-        ) : (
-          <div className="flex flex-col gap-0.5 px-2">
-            {rootFolders.map(childName => (
-              <TreeNode 
-                key={childName}
-                name={childName}
-                nodeData={fileTree.children[childName]}
-                depth={0}
-                expandedPaths={expandedPaths}
-                togglePath={togglePath}
-                path={childName}
-                onSelect={setSelectedNode}
-                selectedPath={selectedNode?.path}
-              />
-            ))}
-            {fileTree.files.map(file => (
-              <button
-                key={file.path}
-                onClick={() => setSelectedNode(file)}
-                className={`w-full flex items-center gap-2 py-2 px-3 text-sm text-left rounded-md transition-colors min-h-[36px] ${
-                  selectedNode?.path === file.path 
-                    ? 'bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-medium' 
-                    : 'text-zinc-600 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-200 hover:bg-zinc-100 dark:hover:bg-zinc-800/50'
-                }`}
-              >
-                <FileText className="w-3.5 h-3.5 opacity-50 shrink-0" />
-                <span className="truncate">{file.title || file.path.split('/').pop()}</span>
-              </button>
-            ))}
-          </div>
-        )}
-      </div>
-      
-      {/* Footer */}
-      <div className="p-4 border-t border-zinc-200 dark:border-zinc-800 shrink-0 text-xs text-zinc-400">
-        <div className="flex justify-between items-center">
-          <span>{totalFiles.toLocaleString()} documents</span>
-        </div>
-      </div>
-    </>
-  );
-}
-
-/* ─── Home Page ─── */
-function HomePage({ searchQuery, setSearchQuery, topCategories, recentFiles, totalFiles, setSelectedNode, expandToNode, setExpandedPaths }) {
-  return (
-    <div className="flex-1 overflow-y-auto bg-white dark:bg-[#09090b] custom-scrollbar">
-      <div className="max-w-4xl mx-auto px-4 sm:px-8 py-12 sm:py-20">
-        
-        {/* Hero */}
-        <div className="mb-16 sm:mb-20 max-w-xl">
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-zinc-900 dark:text-zinc-50 tracking-tight leading-[1.15] mb-4">
-            Intelligence Vault
-          </h2>
-          <p className="text-base sm:text-lg text-zinc-500 dark:text-zinc-400 leading-relaxed mb-8">
-            {totalFiles.toLocaleString()} documents of curated AI research, tools, and technical intelligence.
-          </p>
-          <div className="relative max-w-md">
-            <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-400" />
-            <input 
-              type="text"
-              placeholder="Search the vault…"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-11 pr-4 py-3 text-base bg-zinc-100 dark:bg-zinc-800/50 border-0 rounded-xl focus:outline-none focus:ring-2 focus:ring-zinc-900/10 dark:focus:ring-zinc-100/10 placeholder:text-zinc-400 transition-shadow"
-            />
-          </div>
-        </div>
-
-        {/* Two-column grid */}
-        <div className="grid grid-cols-1 lg:grid-cols-5 gap-10 lg:gap-16">
-          
-          {/* Categories */}
-          <div className="lg:col-span-3">
-            <h3 className="text-xs font-medium text-zinc-400 uppercase tracking-widest mb-5">
-              Directories
-            </h3>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-              {topCategories.map(([name, count]) => (
-                <button
-                  key={name}
-                  onClick={() => setExpandedPaths(new Set([name]))}
-                  className="p-4 bg-zinc-50 dark:bg-zinc-900/50 border border-zinc-200 dark:border-zinc-800 rounded-xl hover:border-zinc-400 dark:hover:border-zinc-600 transition-colors text-left group"
-                >
-                  <div className="flex justify-between items-center">
-                    <span className="font-medium text-zinc-900 dark:text-zinc-100 capitalize text-sm">
-                      {name.replace(/-/g, ' ')}
-                    </span>
-                    <ChevronRight className="w-4 h-4 text-zinc-300 dark:text-zinc-600 group-hover:text-zinc-500 dark:group-hover:text-zinc-400 transition-colors" />
-                  </div>
-                  <div className="text-xs text-zinc-400 mt-1 tabular-nums">
-                    {count.toLocaleString()} files
-                  </div>
-                </button>
-              ))}
-            </div>
-          </div>
-
-          {/* Recent */}
-          <div className="lg:col-span-2">
-            <h3 className="text-xs font-medium text-zinc-400 uppercase tracking-widest mb-5">
-              Recent
-            </h3>
-            <div className="border border-zinc-200 dark:border-zinc-800 rounded-xl overflow-hidden divide-y divide-zinc-100 dark:divide-zinc-800/50">
-              {recentFiles.map(file => (
-                <button
-                  key={file.path}
-                  onClick={() => {
-                    setSelectedNode(file);
-                    expandToNode(file);
-                  }}
-                  className="w-full text-left p-3.5 hover:bg-zinc-50 dark:hover:bg-zinc-800/30 transition-colors group"
-                >
-                  <div className="font-medium text-sm text-zinc-900 dark:text-zinc-200 truncate mb-1 group-hover:text-zinc-900 dark:group-hover:text-zinc-50 transition-colors">
-                    {file.title || file.path.split('/').pop()}
-                  </div>
-                  <div className="text-xs text-zinc-400 flex justify-between items-center">
-                    <span className="truncate">{file.path.split('/')[0]}</span>
-                    <span className="shrink-0 tabular-nums">{new Date(file.last_modified).toLocaleDateString(undefined, {month: 'short', day: 'numeric'})}</span>
-                  </div>
-                </button>
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-/* ─── Main App ─── */
 export default function App() {
   const { indexData, loading: indexLoading } = useVaultIndex();
-  const [searchQuery, setSearchQuery] = useState('');
+  const events = useEventStream();
+  const { bridgeStatus } = useMCPBridge();
+
   const [selectedNode, setSelectedNode] = useState(null);
-  const [expandedPaths, setExpandedPaths] = useState(new Set());
-  const [sidebarOpen, setSidebarOpen] = useState(false);
-  
-  const fileTree = useMemo(() => {
-    if (!indexData?.nodes) return { children: {}, files: [] };
-    const root = { children: {}, files: [] };
-    
-    indexData.nodes.forEach(node => {
-      if (!node.path) return;
-      const parts = node.path.split('/');
-      let current = root;
-      
-      for (let i = 0; i < parts.length - 1; i++) {
-        const part = parts[i];
-        if (!current.children[part]) {
-          current.children[part] = { children: {}, files: [] };
-        }
-        current = current.children[part];
-      }
-      current.files.push(node);
-    });
-    
-    return root;
+  const [searchQuery, setSearchQuery] = useState('');
+  const [categoryFilter, setCategoryFilter] = useState('all');
+  const [scoreFilter, setScoreFilter] = useState('all');
+  const [techFilter, setTechFilter] = useState('all');
+  const [visibleCount, setVisibleCount] = useState(48);
+
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setVisibleCount(48);
+  }, [searchQuery, categoryFilter, scoreFilter, techFilter]);
+
+  const activeSelectedNode = useMemo(() => {
+    if (!selectedNode || !indexData?.nodes) return null;
+    return indexData.nodes.find(n => n.path === selectedNode.path) || selectedNode;
+  }, [indexData, selectedNode]);
+
+  const availableTechs = useMemo(() => {
+    if (!indexData?.nodes) return [];
+    const set = new Set();
+    indexData.nodes.forEach(n => (n.tech_stack || []).forEach(t => set.add(t)));
+    return Array.from(set).sort();
   }, [indexData]);
 
-  const searchResults = useMemo(() => {
-    if (!indexData?.nodes || !searchQuery) return [];
-    const query = searchQuery.toLowerCase();
-    return indexData.nodes.filter(node => 
-      (node.title && node.title.toLowerCase().includes(query)) ||
-      (node.path && node.path.toLowerCase().includes(query))
-    ).slice(0, 100); 
-  }, [indexData, searchQuery]);
-
-  const recentFiles = useMemo(() => {
+  const categoriesList = useMemo(() => {
     if (!indexData?.nodes) return [];
-    return [...indexData.nodes]
-      .filter(n => n.last_modified)
-      .sort((a, b) => new Date(b.last_modified) - new Date(a.last_modified))
-      .slice(0, 8);
-  }, [indexData]);
-
-  const topCategories = useMemo(() => {
-    if (!indexData?.nodes) return [];
-    const counts = {};
+    const set = new Set();
     indexData.nodes.forEach(n => {
-      if (!n.path) return;
-      const rootCat = n.path.split('/')[0];
-      if (!rootCat || rootCat.startsWith('.') || rootCat === 'node_modules') return;
-      counts[rootCat] = (counts[rootCat] || 0) + 1;
+      if (n.category) set.add(n.category);
     });
-    return Object.entries(counts)
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, 6);
+    return Array.from(set).sort();
   }, [indexData]);
 
-  const togglePath = useCallback((path) => {
-    setExpandedPaths(prev => {
-      const next = new Set(prev);
-      if (next.has(path)) next.delete(path);
-      else next.add(path);
-      return next;
-    });
-  }, []);
+  const filteredNodes = useMemo(() => {
+    if (!indexData?.nodes) return [];
+    return indexData.nodes.filter(node => {
+      const matchesSearch = searchQuery
+        ? node.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+          (node.tags && node.tags.some(t => t.toLowerCase().includes(searchQuery.toLowerCase()))) ||
+          (node.tech_stack && node.tech_stack.some(t => t.toLowerCase().includes(searchQuery.toLowerCase()))) ||
+          (node.summary && node.summary.toLowerCase().includes(searchQuery.toLowerCase()))
+        : true;
 
-  const expandToNode = useCallback((node) => {
-    const parts = node.path.split('/');
-    setExpandedPaths(prev => {
-      const next = new Set(prev);
-      let p = '';
-      for (let i = 0; i < parts.length - 1; i++) {
-        p = p ? `${p}/${parts[i]}` : parts[i];
-        next.add(p);
-      }
-      return next;
-    });
-  }, []);
+      const matchesCategory = categoryFilter === 'all' || node.category === categoryFilter;
 
-  // Auto-close sidebar on mobile when selecting a file
-  const handleSelectNode = useCallback((node) => {
+      const matchesScore = scoreFilter === 'all' 
+        ? true 
+        : scoreFilter === '9' 
+          ? (node.quality_score >= 9) 
+          : (node.quality_score >= 7);
+
+      const matchesTech = techFilter === 'all' || (node.tech_stack && node.tech_stack.includes(techFilter));
+
+      return matchesSearch && matchesCategory && matchesScore && matchesTech;
+    });
+  }, [indexData, searchQuery, categoryFilter, scoreFilter, techFilter]);
+
+  const visibleNodes = useMemo(() => {
+    return filteredNodes.slice(0, visibleCount);
+  }, [filteredNodes, visibleCount]);
+
+  const handleSelectNode = (node) => {
     setSelectedNode(node);
-    setSidebarOpen(false);
-  }, []);
+  };
 
-  const handleInternalNavigate = useCallback((href, currentPath) => {
-    if (!indexData?.nodes) return;
-    const currentDir = currentPath.substring(0, currentPath.lastIndexOf('/'));
-    
-    let targetPath = href;
-    if (href.startsWith('./')) {
-      targetPath = `${currentDir}/${href.substring(2)}`;
-    } else if (href.startsWith('../')) {
-      const parts = currentDir.split('/');
-      const hrefParts = href.split('/');
-      while (hrefParts[0] === '..') {
-        hrefParts.shift();
-        parts.pop();
-      }
-      targetPath = [...parts, ...hrefParts].join('/');
-    } else if (!href.startsWith('/')) {
-      targetPath = currentDir ? `${currentDir}/${href}` : href;
-    } else {
-      targetPath = href.substring(1);
+  const getCategoryMeta = (cat) => {
+    if (!cat) {
+      return {
+        label: 'UNASSIGNED',
+        cardBg: 'bg-white',
+        badgeBg: 'bg-white text-black border-black'
+      };
     }
-
-    targetPath = targetPath.replace(/\\/g, '/');
-    const targetNode = indexData.nodes.find(n => n.path.toLowerCase() === targetPath.toLowerCase() || n.path.toLowerCase().endsWith(targetPath.toLowerCase()));
+    if (CATEGORY_STYLES[cat]) return CATEGORY_STYLES[cat];
     
-    if (targetNode) {
-      setSelectedNode(targetNode);
-      expandToNode(targetNode);
-    } else {
-      window.open(`https://github.com/sairaman436/vybe-intelligence-vault/blob/main/${targetPath}`, '_blank');
+    let hash = 0;
+    for (let i = 0; i < cat.length; i++) {
+      hash = cat.charCodeAt(i) + ((hash << 5) - hash);
     }
-  }, [indexData, expandToNode]);
+    const index = Math.abs(hash) % FALLBACK_STYLES.length;
+    const label = cat.replace(/[-_]/g, ' ').toUpperCase();
+    
+    return {
+      label,
+      ...FALLBACK_STYLES[index]
+    };
+  };
 
-  // Loading screen
   if (indexLoading) {
     return (
-      <div className="h-screen w-screen flex items-center justify-center bg-white dark:bg-[#09090b]">
-        <div className="flex flex-col items-center gap-4">
-          <div className="w-5 h-5 rounded-full border-2 border-zinc-200 dark:border-zinc-700 border-t-zinc-600 dark:border-t-zinc-300 animate-spin" />
-          <span className="text-xs text-zinc-400 tracking-widest uppercase">Loading vault</span>
+      <div className="min-h-screen bg-[#FFE600] flex flex-col items-center justify-center p-6 border-8 border-black font-mono">
+        <div className="w-16 h-16 border-8 border-black border-t-[#FF2A85] animate-spin mb-6 shadow-[6px_6px_0px_#000]" />
+        <div className="bg-black text-[#00FF66] px-6 py-3 border-4 border-black font-black text-xl tracking-wider uppercase neo-shadow-lg">
+          INITIALIZING VYBE VAULT // 160K+ NODES
         </div>
+        <p className="mt-4 font-bold text-black text-sm tracking-widest uppercase">
+          Autonomous Synapse Mesh Ingestion In Progress...
+        </p>
       </div>
     );
   }
 
-  const rootFolders = Object.keys(fileTree.children).sort();
-  const totalFiles = indexData.nodes?.length || 0;
-
-  const sidebarProps = {
-    searchQuery, setSearchQuery, searchResults,
-    selectedNode, setSelectedNode: handleSelectNode, expandToNode,
-    rootFolders, fileTree, expandedPaths, togglePath, totalFiles
-  };
-
   return (
-    <div className="h-screen w-screen flex flex-col lg:flex-row bg-white dark:bg-[#09090b] text-zinc-900 dark:text-zinc-200 overflow-hidden font-sans">
+    <div className="min-h-screen flex flex-col font-sans bg-[#F4EFE6] text-black selection:bg-[#FF2A85] selection:text-white">
       
-      {/* ── Mobile top bar ── */}
-      <div className="lg:hidden shrink-0 flex items-center justify-between px-4 h-14 border-b border-zinc-200 dark:border-zinc-800 bg-white dark:bg-[#09090b]">
-        <div className="flex items-center gap-3">
-          <button
-            onClick={() => setSidebarOpen(true)}
-            className="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-800 transition-colors -ml-1"
-            aria-label="Open navigation"
-          >
-            <Menu className="w-5 h-5 text-zinc-600 dark:text-zinc-400" />
-          </button>
-          <div className="flex items-center gap-2">
-            <div className="w-5 h-5 rounded bg-zinc-900 dark:bg-zinc-100 flex items-center justify-center">
-              <span className="text-[10px] font-bold text-white dark:text-zinc-900">V</span>
-            </div>
-            <span className="font-semibold text-sm tracking-tight">Vault</span>
-          </div>
+      {/* High-Voltage Chaos Marquee Ticker */}
+      <div className="bg-black text-[#FFE600] border-b-4 border-black overflow-hidden py-1.5 font-mono text-xs font-black tracking-widest uppercase">
+        <div className="animate-marquee whitespace-nowrap flex gap-8">
+          <span>⚡ LIVE HARVESTER ACTIVATED</span>
+          <span>💥 160,000+ INDEXED NODES</span>
+          <span>🔥 FAST-MCP AGENT GATEWAY ONLINE</span>
+          <span>🛑 ZERO MANUAL CURATION</span>
+          <span>☣️ AUTONOMOUS REASONING SWARMS</span>
+          <span>⚡ LIVE HARVESTER ACTIVATED</span>
+          <span>💥 160,000+ INDEXED NODES</span>
+          <span>🔥 FAST-MCP AGENT GATEWAY ONLINE</span>
+          <span>🛑 ZERO MANUAL CURATION</span>
+          <span>☣️ AUTONOMOUS REASONING SWARMS</span>
         </div>
-        {selectedNode && (
-          <button
-            onClick={() => setSelectedNode(null)}
-            className="text-xs text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-200 transition-colors py-1 px-2"
-          >
-            Home
-          </button>
-        )}
       </div>
 
-      {/* ── Mobile sidebar overlay ── */}
-      {sidebarOpen && (
-        <>
-          <div 
-            className="sidebar-backdrop lg:hidden"
-            onClick={() => setSidebarOpen(false)}
-          />
-          <aside className="sidebar-drawer fixed top-0 left-0 h-full w-[300px] max-w-[85vw] bg-white dark:bg-[#09090b] z-50 flex flex-col border-r border-zinc-200 dark:border-zinc-800 lg:hidden">
-            <div className="flex items-center justify-end p-3 border-b border-zinc-200 dark:border-zinc-800">
-              <button
-                onClick={() => setSidebarOpen(false)}
-                className="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-800 transition-colors"
-                aria-label="Close navigation"
-              >
-                <X className="w-5 h-5 text-zinc-500" />
-              </button>
+      {/* Main Neo-Brutalist Navigation Header */}
+      <header className="sticky top-0 z-30 bg-[#FFE600] border-b-4 border-black px-6 py-4 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 neo-shadow">
+        
+        {/* Logo & Manifesto Title */}
+        <div className="flex items-center gap-3.5">
+          <div className="p-3 bg-black text-[#00FF66] border-3 border-black neo-shadow rotate-[-2deg] hover:rotate-0 transition-transform">
+            <Zap size={26} className="fill-[#00FF66]" />
+          </div>
+          <div>
+            <div className="flex items-center gap-2">
+              <h1 className="text-2xl font-black tracking-tighter text-black uppercase">
+                VYBE VAULT
+              </h1>
+              <span className="bg-[#FF2A85] text-white px-2 py-0.5 text-[11px] font-mono font-black border-2 border-black neo-shadow rotate-[2deg]">
+                v2.0 // BRUTAL
+              </span>
             </div>
-            <SidebarContent {...sidebarProps} />
-          </aside>
-        </>
-      )}
+            <p className="text-[11px] font-mono font-bold text-black uppercase tracking-wider mt-0.5">
+              Autonomous Intelligence Matrix & Knowledge Graph
+            </p>
+          </div>
+        </div>
 
-      {/* ── Desktop sidebar ── */}
-      <aside className="hidden lg:flex w-72 shrink-0 h-full border-r border-zinc-200 dark:border-zinc-800 flex-col bg-zinc-50/50 dark:bg-zinc-900/20">
-        <SidebarContent {...sidebarProps} />
-      </aside>
+        {/* Live Metrics Sticker Board */}
+        <div className="flex flex-wrap items-center gap-2.5 text-xs font-mono font-extrabold">
+          
+          <div className="flex items-center gap-1.5 px-3 py-1.5 bg-white border-3 border-black neo-shadow">
+            <Layers size={14} className="text-[#FF5500]" />
+            <span>NODES:</span>
+            <span className="bg-[#FFE600] px-1.5 py-0.2 border border-black">{indexData.nodes?.length || 0}</span>
+          </div>
 
-      {/* ── Main content ── */}
-      <main className="flex-1 h-full overflow-hidden flex flex-col">
-        {selectedNode ? (
-          <MarkdownViewer 
-            node={selectedNode} 
-            onNavigate={handleInternalNavigate}
-            onBack={() => setSelectedNode(null)}
-          />
-        ) : (
-          <HomePage
-            searchQuery={searchQuery}
-            setSearchQuery={setSearchQuery}
-            topCategories={topCategories}
-            recentFiles={recentFiles}
-            totalFiles={totalFiles}
-            setSelectedNode={handleSelectNode}
-            expandToNode={expandToNode}
-            setExpandedPaths={setExpandedPaths}
-          />
-        )}
+          <div className="flex items-center gap-1.5 px-3 py-1.5 bg-white border-3 border-black neo-shadow">
+            <Flame size={14} className="text-[#FF2A85]" />
+            <span>QUALITY:</span>
+            <span className="bg-[#00FF66] px-1.5 py-0.2 border border-black">
+              {indexData.system_health?.avg_quality_score || '9.2'}/10
+            </span>
+          </div>
+
+          <div className="flex items-center gap-1.5 px-3 py-1.5 bg-white border-3 border-black neo-shadow">
+            <Cpu size={14} className={bridgeStatus === 'online' ? 'text-[#00FF66]' : 'text-[#FF5500]'} />
+            <span>MCP BRIDGE:</span>
+            <span className={`px-1.5 py-0.2 border border-black ${bridgeStatus === 'online' ? 'bg-[#00FF66] text-black' : 'bg-black text-[#FFE600]'}`}>
+              {bridgeStatus.toUpperCase()}
+            </span>
+          </div>
+
+        </div>
+      </header>
+
+      {/* Main Workspace Layout */}
+      <main className="flex-1 flex flex-col lg:flex-row min-w-0">
+        
+        {/* Left Filter & Telemetry Sidebar */}
+        <aside className="w-full lg:w-80 bg-white lg:border-r-4 border-b-4 lg:border-b-0 border-black p-5 shrink-0 flex flex-col gap-6">
+          
+          {/* Neon Search Input */}
+          <div className="flex flex-col gap-1.5">
+            <label className="text-xs font-black text-black uppercase tracking-wider font-mono flex items-center gap-1.5">
+              <Search size={14} />
+              SEARCH INTELLIGENCE MATRIX
+            </label>
+            <div className="relative">
+              <input 
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="Fuzzy search LLM, RAG, Agents, MCP..."
+                className="w-full bg-[#FFE600] text-black placeholder-black/60 border-3 border-black p-2.5 text-xs font-mono font-bold focus:outline-none focus:bg-[#D4FF00] neo-shadow transition-all"
+              />
+            </div>
+          </div>
+
+          {/* Category Cartridges */}
+          <div className="flex flex-col gap-2">
+            <div className="flex items-center justify-between">
+              <label className="text-xs font-black text-black uppercase tracking-wider font-mono flex items-center gap-1.5">
+                <ListFilter size={14} />
+                CATEGORY SECTORS
+              </label>
+              {categoryFilter !== 'all' && (
+                <button 
+                  onClick={() => setCategoryFilter('all')}
+                  className="text-[10px] font-mono font-bold text-[#FF2A85] hover:underline uppercase cursor-pointer"
+                >
+                  RESET
+                </button>
+              )}
+            </div>
+
+            <div className="flex flex-col gap-2">
+              <button 
+                onClick={() => setCategoryFilter('all')}
+                className={`flex items-center justify-between p-2.5 text-xs font-mono font-black border-3 border-black text-left cursor-pointer neo-btn ${
+                  categoryFilter === 'all' 
+                    ? 'bg-black text-[#FFE600]' 
+                    : 'bg-white text-black hover:bg-[#F4EFE6]'
+                }`}
+              >
+                <span>🌐 ALL INTELLIGENCE</span>
+                <span className="bg-[#FF2A85] text-white px-2 py-0.5 text-[10px] border border-black">
+                  {indexData.nodes?.length || 0}
+                </span>
+              </button>
+
+              {categoriesList.map(cat => {
+                const meta = getCategoryMeta(cat);
+                const count = indexData.nodes?.filter(n => n.category === cat).length || 0;
+                if (count === 0) return null;
+                const isSelected = categoryFilter === cat;
+                return (
+                  <button 
+                    key={cat}
+                    onClick={() => setCategoryFilter(cat)}
+                    className={`flex items-center justify-between p-2 text-xs font-mono font-black border-3 border-black text-left cursor-pointer neo-btn ${
+                      isSelected 
+                        ? 'bg-black text-[#D4FF00]' 
+                        : `${meta.cardBg} hover:opacity-90`
+                    }`}
+                  >
+                    <span className="truncate pr-2">📂 {meta.label}</span>
+                    <span className="bg-white text-black px-1.5 py-0.5 text-[10px] border border-black shrink-0">
+                      {count}
+                    </span>
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+
+          {/* Quality Score Booster Filter */}
+          <div className="flex flex-col gap-2">
+            <label className="text-xs font-black text-black uppercase tracking-wider font-mono flex items-center gap-1.5">
+              <ShieldAlert size={14} className="text-[#FF5500]" />
+              QUALITY SIGNAL GATE
+            </label>
+            <div className="grid grid-cols-3 gap-2">
+              {[
+                { id: 'all', label: 'ALL RAW' },
+                { id: '7', label: 'Q ≥ 7' },
+                { id: '9', label: 'Q ≥ 9 (ELITE)' }
+              ].map(item => (
+                <button
+                  key={item.id}
+                  onClick={() => setScoreFilter(item.id)}
+                  className={`py-2 px-1 text-[11px] font-mono font-extrabold text-center border-2 border-black neo-btn ${
+                    scoreFilter === item.id
+                      ? 'bg-[#00FF66] text-black shadow-[3px_3px_0px_#000]'
+                      : 'bg-white text-black hover:bg-[#FFE600]'
+                  }`}
+                >
+                  {item.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Tech Stack Matrix */}
+          {availableTechs.length > 0 && (
+            <div className="flex flex-col gap-1.5">
+              <label className="text-xs font-black text-black uppercase tracking-wider font-mono">
+                TECH MATRIX
+              </label>
+              <select
+                value={techFilter}
+                onChange={(e) => setTechFilter(e.target.value)}
+                className="w-full bg-white text-black border-3 border-black p-2 text-xs font-mono font-bold neo-shadow focus:outline-none focus:bg-[#00F0FF]"
+              >
+                <option value="all">⚡ ALL TECHNOLOGIES ({availableTechs.length})</option>
+                {availableTechs.map(tech => (
+                  <option key={tech} value={tech}>{tech.toUpperCase()}</option>
+                ))}
+              </select>
+            </div>
+          )}
+
+          {/* Live Crawler Telemetry Console */}
+          <div className="hidden lg:flex flex-col gap-2 flex-1 min-h-[160px]">
+            <div className="flex items-center justify-between">
+              <label className="text-xs font-black text-black uppercase tracking-wider font-mono flex items-center gap-1.5">
+                <Terminal size={14} className="text-[#FF2A85]" />
+                LIVE CRAWLER LOGS
+              </label>
+              <span className="w-2.5 h-2.5 bg-[#00FF66] border border-black rounded-full animate-ping" />
+            </div>
+
+            <div className="flex-1 bg-black text-[#00FF66] border-3 border-black p-3 font-mono text-[10px] overflow-y-auto space-y-2 max-h-[220px] neo-shadow">
+              {events.slice(0, 8).map((ev, idx) => (
+                <div key={idx} className="border-b border-neutral-800 pb-1.5 last:border-0">
+                  <div className="flex justify-between text-[#FFE600]">
+                    <span>[{ev.timestamp?.substring(11, 19) || 'LIVE'}]</span>
+                    <span className="text-[#FF2A85] font-bold">{ev.type || 'SYNC'}</span>
+                  </div>
+                  <div className="text-white truncate mt-0.5">
+                    &gt; {JSON.stringify(ev.payload || 'Discovered new node')}
+                  </div>
+                </div>
+              ))}
+              {events.length === 0 && (
+                <div className="text-neutral-500 text-center py-4">
+                  &gt; STANDBY: CRAWLER LISTENING ON 4H CADENCE...
+                </div>
+              )}
+            </div>
+          </div>
+
+        </aside>
+
+        {/* Center Content Section */}
+        <section className="flex-1 p-6 flex flex-col min-w-0">
+          
+          {/* Active Detail View / Inspector Modal */}
+          {activeSelectedNode ? (
+            <div className="flex-1 flex flex-col md:flex-row gap-6 min-h-0 w-full">
+              
+              {/* Quick Jump Results Sidebar on the left */}
+              <div className="w-full md:w-80 flex flex-col shrink-0 min-h-0 bg-white border-4 border-black neo-shadow-lg p-3">
+                <div className="p-2 bg-black text-[#FFE600] font-mono font-black text-xs uppercase mb-2 flex justify-between items-center">
+                  <span>DISCOVERED INTEL</span>
+                  <span>({filteredNodes.length})</span>
+                </div>
+
+                <div className="flex-1 overflow-y-auto space-y-2 pr-1">
+                  {visibleNodes.map(node => {
+                    const isSelected = activeSelectedNode.path === node.path;
+                    return (
+                      <div
+                        key={node.path}
+                        onClick={() => handleSelectNode(node)}
+                        className={`p-2.5 border-3 border-black text-left cursor-pointer transition-all neo-btn ${
+                          isSelected
+                            ? 'bg-[#FFE600] text-black shadow-[4px_4px_0px_#000]'
+                            : 'bg-white text-black hover:bg-[#F4EFE6]'
+                        }`}
+                      >
+                        <div className="font-black text-xs uppercase truncate">{node.title}</div>
+                        <div className="flex items-center justify-between mt-1 text-[9px] font-mono font-bold">
+                          <span className="bg-[#00F0FF] text-black px-1.5 py-0.5 border border-black uppercase">
+                            {node.category}
+                          </span>
+                          {node.quality_score > 0 && (
+                            <span className="bg-[#00FF66] text-black px-1.5 py-0.5 border border-black">
+                              Q:{node.quality_score}
+                            </span>
+                          )}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+
+              {/* Neo-Brutalist Main Dossier Inspector */}
+              <div className="flex-1 min-w-0 h-full">
+                <DetailPanel 
+                  node={activeSelectedNode}
+                  indexData={indexData}
+                  onSelectNode={handleSelectNode}
+                  onClose={() => setSelectedNode(null)}
+                />
+              </div>
+
+            </div>
+          ) : (
+            
+            /* Main Neo-Brutalist Grid Display */
+            <div className="flex-1 flex flex-col min-h-0">
+              
+              {/* Top Banner Control Bar */}
+              <div className="flex flex-wrap items-center justify-between gap-3 mb-6 p-4 bg-white border-4 border-black neo-shadow-lg">
+                <div className="flex items-center gap-3">
+                  <div className="bg-[#00FF66] text-black px-3 py-1 font-mono font-black text-xs border-2 border-black neo-shadow">
+                    ACTIVE NODES: {filteredNodes.length}
+                  </div>
+                  <span className="font-mono text-xs font-bold text-neutral-600 hidden sm:inline">
+                    // READY FOR MODEL CONTEXT INJECTION
+                  </span>
+                </div>
+
+                {searchQuery && (
+                  <button 
+                    onClick={() => setSearchQuery('')}
+                    className="bg-[#FF2A85] text-white px-3 py-1 font-mono font-bold text-xs border-2 border-black neo-btn"
+                  >
+                    CLEAR SEARCH ✕
+                  </button>
+                )}
+              </div>
+
+              {/* Neo-Brutalist Cards Grid */}
+              <div className="flex-1 overflow-y-auto pr-1">
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5 pb-8">
+                  {visibleNodes.map((node, idx) => {
+                    const meta = getCategoryMeta(node.category);
+                    const rotation = (idx % 3 === 0) ? 'rotate-[-0.5deg]' : (idx % 3 === 1) ? 'rotate-[0.5deg]' : 'rotate-0';
+                    
+                    return (
+                      <div
+                        key={node.path}
+                        onClick={() => handleSelectNode(node)}
+                        className={`bg-white border-4 border-black neo-shadow-lg p-5 flex flex-col justify-between cursor-pointer transition-all hover:-translate-y-1 hover:shadow-[10px_10px_0px_#000] active:translate-x-0.5 active:translate-y-0.5 ${rotation} group`}
+                      >
+                        <div>
+                          
+                          {/* Card Top Pill Row */}
+                          <div className="flex items-center justify-between mb-3 text-[10px] font-mono font-black">
+                            <span className={`px-2.5 py-1 border-2 border-black uppercase neo-shadow ${meta.badgeBg}`}>
+                              {node.category || 'INTEL'}
+                            </span>
+
+                            {node.quality_score > 0 && (
+                              <div className="bg-[#00FF66] text-black px-2 py-0.5 border-2 border-black neo-shadow font-extrabold">
+                                Q: {node.quality_score}/10
+                              </div>
+                            )}
+                          </div>
+
+                          {/* Card Title */}
+                          <h3 className="font-black text-black group-hover:text-[#FF2A85] text-sm uppercase tracking-tight mb-2.5 transition-colors line-clamp-2">
+                            {node.title}
+                          </h3>
+
+                          {/* Card Summary */}
+                          <p className="text-xs font-medium text-neutral-800 line-clamp-3 leading-relaxed mb-4 bg-[#F4EFE6] p-2.5 border-2 border-black">
+                            {node.summary || 'Structured intelligence record harvested from global AI telemetry streams.'}
+                          </p>
+
+                        </div>
+
+                        {/* Card Bottom Tags & Inspect Action */}
+                        <div className="border-t-2 border-black pt-3 flex items-center justify-between gap-2">
+                          <div className="flex flex-wrap gap-1">
+                            {(node.tech_stack || []).slice(0, 2).map(tech => (
+                              <span key={tech} className="bg-black text-[#D4FF00] px-1.5 py-0.5 text-[9px] font-mono font-extrabold uppercase border border-black">
+                                {tech}
+                              </span>
+                            ))}
+                          </div>
+
+                          <div className="bg-[#FFE600] group-hover:bg-[#FF2A85] group-hover:text-white text-black px-2.5 py-1 text-[10px] font-mono font-black border-2 border-black neo-shadow transition-colors shrink-0">
+                            INSPECT ➔
+                          </div>
+                        </div>
+
+                      </div>
+                    );
+                  })}
+                </div>
+
+                {filteredNodes.length > visibleCount && (
+                  <div className="flex justify-center my-8">
+                    <button
+                      onClick={() => setVisibleCount(prev => prev + 48)}
+                      className="px-8 py-3.5 bg-[#FFE600] hover:bg-[#00F0FF] text-black text-sm font-black uppercase font-mono border-4 border-black neo-btn neo-shadow-xl"
+                    >
+                      ⚡ LOAD MORE INTELLIGENCE NODES (+48)
+                    </button>
+                  </div>
+                )}
+
+                {filteredNodes.length === 0 && (
+                  <div className="flex flex-col items-center justify-center py-20 text-center border-4 border-black p-8 bg-white neo-shadow-xl my-8">
+                    <HelpCircle size={48} className="text-[#FF5500] mb-4" />
+                    <h4 className="font-black text-xl text-black uppercase">
+                      NO MATCHING INTELLIGENCE FOUND
+                    </h4>
+                    <p className="font-mono text-xs text-neutral-700 max-w-md mt-2">
+                      Adjust your search query or reset quality filters to inspect other vault sectors.
+                    </p>
+                    <button
+                      onClick={() => { setSearchQuery(''); setCategoryFilter('all'); setScoreFilter('all'); }}
+                      className="mt-5 px-6 py-2.5 bg-[#00FF66] text-black font-black uppercase font-mono border-3 border-black neo-btn"
+                    >
+                      RESET ALL FILTERS
+                    </button>
+                  </div>
+                )}
+
+              </div>
+
+            </div>
+          )}
+
+        </section>
       </main>
+
+      {/* Neo-Brutalist Hazard Footer */}
+      <footer className="border-t-4 border-black bg-black text-white p-4 flex flex-col sm:flex-row items-center justify-between gap-4 font-mono text-xs font-black">
+        <div className="flex items-center gap-3">
+          <span className="px-2 py-0.5 bg-[#00FF66] text-black border border-white">
+            ● SYNCHRONIZED
+          </span>
+          <span className="text-[#FFE600] uppercase">
+            AUTONOMOUS HARVESTING CADENCE: 4H
+          </span>
+        </div>
+
+        <div className="text-neutral-400 text-[11px]">
+          ENGINEERED BY <a href="https://github.com/sairaman436" target="_blank" rel="noopener noreferrer" className="text-[#00F0FF] hover:underline">@sairaman436</a> • VYBE INTELLIGENCE MATRIX
+        </div>
+      </footer>
+
     </div>
   );
 }
