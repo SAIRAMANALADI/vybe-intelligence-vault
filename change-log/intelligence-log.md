@@ -2,7 +2,7 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
-### Run: 2026-08-20T20:12:55.458407+05:30
+### Run: 2026-08-20T21:11:07.874478+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
 - **[Rank Rise]** `BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese`: Rank rose by +20
 - **[Rank Rise]** `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow`: Rank rose by +984
@@ -20971,35 +20971,27 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Drop]** `stanford-oval/storm`: Rank dropped by -15196
 - **[Rank Drop]** `infiniflow/ragflow`: Rank dropped by -18283
 
-### Run: 2026-08-20T19:21:50.413461+05:30
-- **[New Discovery]** `Show HN: I trained a 125M model to autocomplete piano on-device` registered with score `54` in `ai/community`
-- **[New Discovery]** `Australia passes law to levy tech giants that fail to pay for local news` registered with score `21` in `ai/community`
-- **[New Discovery]** `BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese` registered with score `0` in `ai/research`
+### Run: 2026-08-20T20:12:55.458407+05:30
 - **[New Discovery]** `langchain-ai/langgraph` registered with score `0` in `Agent Framework`
-- **[Score Increase]** `A joke domain purchase turned in geopolitical warfare`: 905 -> 956 (+51)
-- **[Score Increase]** `Don't Paste the AI, please`: 183 -> 665 (+482)
-- **[Score Increase]** `Feature Request: Support AGENTS.md`: 260 -> 319 (+59)
-- **[Score Increase]** `Mathematics in the age of AI`: 169 -> 192 (+23)
-- **[Rank Rise]** `Don't Paste the AI, please`: Rank rose by +2
-- **[Rank Rise]** `Mathematics in the age of AI`: Rank rose by +1
-- **[Rank Rise]** `datawhalechina/all-in-rag`: Rank rose by +3
-- **[Rank Rise]** `raganwald/raganwald.github.com`: Rank rose by +1004
-- **[Rank Rise]** `krishnaik06/Agentic-LanggraphCrash-course`: Rank rose by +983
-- **[Rank Rise]** `CALLE-AI/awesome-phone-call-agents`: Rank rose by +983
-- **[Rank Rise]** `fetchai/innovation-lab-examples`: Rank rose by +983
-- **[Rank Rise]** `docker/compose-for-agents`: Rank rose by +983
-- **[Rank Rise]** `airweave-ai/airweave`: Rank rose by +983
-- **[Rank Rise]** `huangjia2019/ai-agents`: Rank rose by +983
-- **[Rank Rise]** `WenyuChiou/awesome-agentic-ai-zh`: Rank rose by +983
-- **[Rank Rise]** `langchain-ai/open-swe`: Rank rose by +983
-- **[Rank Rise]** `vercel/ai`: Rank rose by +983
-- **[Rank Rise]** `continuedev/continue`: Rank rose by +983
-- **[Rank Rise]** `ashishpatel26/500-AI-Agents-Projects`: Rank rose by +983
-- **[Rank Rise]** `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow`: Rank rose by +983
-- **[Rank Rise]** `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow`: Rank rose by +983
-- **[Rank Rise]** `ragnarokoffline/ragnarokoffline.github.io`: Rank rose by +983
-- **[Rank Rise]** `SylphAI-Inc/GithubChat`: Rank rose by +983
-- **[Rank Rise]** `malonge/RaGOO`: Rank rose by +983
+- **[Rank Rise]** `BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese`: Rank rose by +20
+- **[Rank Rise]** `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow`: Rank rose by +984
+- **[Rank Rise]** `ParticleMedia/RAGTruth`: Rank rose by +984
+- **[Rank Rise]** `krishnaik06/Agentic-LanggraphCrash-course`: Rank rose by +984
+- **[Rank Rise]** `CALLE-AI/awesome-phone-call-agents`: Rank rose by +984
+- **[Rank Rise]** `fetchai/innovation-lab-examples`: Rank rose by +984
+- **[Rank Rise]** `docker/compose-for-agents`: Rank rose by +984
+- **[Rank Rise]** `airweave-ai/airweave`: Rank rose by +984
+- **[Rank Rise]** `huangjia2019/ai-agents`: Rank rose by +984
+- **[Rank Rise]** `WenyuChiou/awesome-agentic-ai-zh`: Rank rose by +984
+- **[Rank Rise]** `langchain-ai/open-swe`: Rank rose by +984
+- **[Rank Rise]** `vercel/ai`: Rank rose by +984
+- **[Rank Rise]** `continuedev/continue`: Rank rose by +984
+- **[Rank Rise]** `ashishpatel26/500-AI-Agents-Projects`: Rank rose by +984
+- **[Rank Rise]** `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow`: Rank rose by +984
+- **[Rank Rise]** `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow`: Rank rose by +984
+- **[Rank Rise]** `ragnarokoffline/ragnarokoffline.github.io`: Rank rose by +984
+- **[Rank Rise]** `SylphAI-Inc/GithubChat`: Rank rose by +984
+- **[Rank Rise]** `malonge/RaGOO`: Rank rose by +984
 - **[Rank Rise]** `mergisi/awesome-openclaw-agents`: Rank rose by +984
 - **[Rank Rise]** `Complete, Scalable, and Robust Prioritized Planning for Multi-Robot Ordered Storage and Retrieval at Maximum Capacity`: Rank rose by +984
 - **[Rank Rise]** `First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers`: Rank rose by +984
@@ -25971,5 +25963,13 @@ This file tracks all chronological shifts, score changes, tier promotions, and d
 - **[Rank Rise]** `E$^2$M: Double Bounded $\alpha$-Divergence Optimization for Tensor-based Discrete Density Estimation`: Rank rose by +985
 - **[Rank Rise]** `Breaking the Periodicity Assumption: Robust Tensorial Multi-View Clustering via Graph-Spectral Low-Rank Learning`: Rank rose by +985
 - **[Rank Rise]** `TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale`: Rank rose by +985
+- **[Rank Rise]** `Forgetful Attention: An Auditable Support-Vector Memory for Selective Retention and Verified Deletion`: Rank rose by +985
+- **[Rank Rise]** `A More Accurate Algorithm Comparison through A/B Testing using Offline Evaluation Methods`: Rank rose by +985
+- **[Rank Rise]** `GRIMIP: A General Framework for Instance-Specific Configuration of MIP Solvers Using LLMs`: Rank rose by +985
+- **[Rank Rise]** `The Hamilton-Jacobi Theory of Deep Learning`: Rank rose by +985
+- **[Rank Rise]** `Stable Attention Response for Reliable Precipitation Nowcasting`: Rank rose by +985
+- **[Rank Rise]** `Stable GFlowNets with TV Monitoring and Probabilistic Guarantees`: Rank rose by +985
+- **[Rank Rise]** `Just Repair: A Minimal Denoising Network for Time Series Anomaly Detection`: Rank rose by +985
+- **[Rank Rise]** `Koopman-Based Nonlinear Identification and Model Predictive Control of a Turbofan Engine`: Rank rose by +985
 
 ... (older logs truncated to save space) ...
