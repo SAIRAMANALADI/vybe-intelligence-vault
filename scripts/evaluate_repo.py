@@ -263,9 +263,13 @@ def extract_and_validate_json(raw_text, schema):
 
 def get_already_indexed_repos():
     indexed = set()
-    # Check v2.0 indexes
-    core_idx = VAULT_ROOT / "vault-core" / "vault-index.json"
-    for path_to_check in [core_idx, VAULT_ROOT / "vault-index.json"]:
+    # Check v2.0 index candidates (prefer smaller world/public/vault-index.json first)
+    candidates = [
+        VAULT_ROOT / "world" / "public" / "vault-index.json",
+        VAULT_ROOT / "vault-core" / "vault-index.json",
+        VAULT_ROOT / "vault-index.json"
+    ]
+    for path_to_check in candidates:
         if path_to_check.exists():
             try:
                 with open(path_to_check, "r", encoding="utf-8") as f:
@@ -275,11 +279,45 @@ def get_already_indexed_repos():
                             title_lower = n.get("title", "").lower()
                             if "/" in title_lower:
                                 indexed.add(title_lower.strip())
+                            source_url = n.get("source", "").lower()
+                            if "github.com/" in source_url:
+                                repo_part = source_url.split("github.com/")[-1].strip().strip("/")
+                                if "/" in repo_part:
+                                    indexed.add(repo_part)
+                        if indexed:
+                            break
                     elif isinstance(data, list):
                         for r in data:
-                            indexed.add(r.lower())
+                            indexed.add(str(r).lower())
+                        if indexed:
+                            break
             except Exception as e:
-                log(f"Failed to read indexed list: {e}")
+                log(f"Failed to read indexed list from {path_to_check.name}: {e}")
+
+    # Also scan recent daily-digests directory for already evaluated repos
+    digests_dir = VAULT_ROOT / "daily-digests"
+    if digests_dir.exists():
+        date_dirs = [d for d in digests_dir.iterdir() if d.is_dir()]
+        date_dirs.sort(reverse=True)
+        for date_dir in date_dirs[:30]:
+            for md_file in date_dir.glob("*.md"):
+                try:
+                    with open(md_file, "r", encoding="utf-8") as f:
+                        content = f.read(1024)
+                        for line in content.splitlines():
+                            if line.startswith("title:"):
+                                t = line.split(":", 1)[1].strip().strip("'\"").lower()
+                                if "/" in t:
+                                    indexed.add(t)
+                            elif line.startswith("source:"):
+                                s = line.split(":", 1)[1].strip().strip("'\"").lower()
+                                if "github.com/" in s:
+                                    repo_part = s.split("github.com/")[-1].strip().strip("/")
+                                    if "/" in repo_part:
+                                        indexed.add(repo_part)
+                except Exception:
+                    pass
+
     return indexed
 
 # --- Modes ---

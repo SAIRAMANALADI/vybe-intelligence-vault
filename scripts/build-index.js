@@ -117,7 +117,7 @@ function getMarkdownFiles(dir, fileList = [], visited = new Set(), maxTotal = 0)
 
   let files;
   try {
-    files = fs.readdirSync(dir);
+    files = fs.readdirSync(dir).sort().reverse();
   } catch (e) {
     return fileList;
   }
@@ -273,7 +273,10 @@ async function buildIndex() {
   // 1. Parse all markdown files
   for (const folder of foldersToScan) {
     const folderPath = path.join(VAULT_ROOT, folder);
-    const maxTotal = (folder === 'workspace-archive') ? 1500 : 0;
+    let maxTotal = 0;
+    if (folder === 'daily-digests') maxTotal = 2000;
+    else if (folder === 'ai' || folder === 'web-development') maxTotal = 2000;
+    else if (folder === 'workspace-archive' || folder === 'archives') maxTotal = 1000;
     const files = getMarkdownFiles(folderPath, [], new Set(), maxTotal);
     
     for (const filePath of files) {
@@ -563,7 +566,8 @@ function copyMarkdownFiles() {
     if (!fs.existsSync(srcDir)) continue;
 
     fs.mkdirSync(destDir, { recursive: true });
-    const files = getMarkdownFiles(srcDir);
+    const maxTotal = (folder === 'daily-digests') ? 1000 : 0;
+    const files = getMarkdownFiles(srcDir, [], new Set(), maxTotal);
     for (const file of files) {
       const relPath = path.relative(srcDir, file);
       const destFile = path.join(destDir, relPath);
