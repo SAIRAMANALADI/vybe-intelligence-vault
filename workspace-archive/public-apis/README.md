@@ -9,13 +9,13 @@ Public developer APIs supply external context and utilities for LLM tools.
 ## Top Matched Resources
 
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [Welcome to Unstructured! - Unstructured](https://docs.unstructured.io) (tutorial - USEFUL Tier)
 - [Structured outputs | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/structured-output) (framework - USEFUL Tier)
 - [Shared Selective Persistent Memory for Agentic LLM Systems](https://arxiv.org/abs/2607.09493) (mcp-server - USEFUL Tier)
-- [Talk to Sales - SpeechifyAI API](https://simbavoice.ai/contact) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -39,4 +39,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-08-20 07:41 IST*
+*Last updated: 2026-08-20 09:49 IST*

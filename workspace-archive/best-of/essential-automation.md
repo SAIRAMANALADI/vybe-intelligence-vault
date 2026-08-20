@@ -28,11 +28,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [OpenAI · GitHub](https://github.com/openai)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
@@ -68,6 +63,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`run-llama-llama-deploy.md`](../../ai/rag/run-llama-llama-deploy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-20 07:41 IST*
+*Last updated: 2026-08-20 09:50 IST*

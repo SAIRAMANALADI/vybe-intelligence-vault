@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://theremin.bizibah.com
 hn_url: https://news.ycombinator.com/item?id=49359425
-score: 249
+score: 260
 author: gurov
 comments_count: 86
 published_at: '2026-08-19T15:45:00+05:30'
-collected_at: '2026-08-20T07:23:48.648587+05:30'
+collected_at: '2026-08-20T09:30:41.638912+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:air-theremin-a-browser-theremin-you-play-by-waving
 first_seen: '2026-08-19T18:47:08.073125+05:30'
-last_seen: '2026-08-20T07:23:48.648587+05:30'
-last_checked: '2026-08-20T07:23:48.648587+05:30'
+last_seen: '2026-08-20T09:30:41.638912+05:30'
+last_checked: '2026-08-20T09:30:41.638912+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by gurov. Score: 249, Comments: 86.
+Hacker News story by gurov. Score: 260, Comments: 86.
 Original Link: https://theremin.bizibah.com/
 
 ## Why It Matters
@@ -35,7 +35,7 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: gurov
-- Score: 249 Upvotes
+- Score: 260 Upvotes
 - Comments: 86 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49359425
 - Original Article: https://theremin.bizibah.com

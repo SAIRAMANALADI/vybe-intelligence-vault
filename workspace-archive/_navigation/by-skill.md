@@ -26,13 +26,13 @@ This index groups curated resources by target developer skills.
 ## API Design
 
 - [OpenAI · GitHub](https://github.com/openai) (Tier: `essential` | [`Local File`](../../ai/agents/openai-github.md))
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (Tier: `useful` | [`Local File`](../../ai/resources/wordpress-developer-resources-developer-wordpress.md))
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Tier: `useful` | [`Local File`](../../ai/resources/buddypress-developer-resources-your-best-buddies-e.md))
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (Tier: `useful` | [`Local File`](../../ai/resources/ollama-ollama-python.md))
 - [Welcome to Unstructured! - Unstructured](https://docs.unstructured.io) (Tier: `useful` | [`Local File`](../../ai/agents/welcome-to-unstructured-unstructured.md))
 - [Structured outputs | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/structured-output) (Tier: `useful` | [`Local File`](../../ai/agents/structured-outputs-gemini-api-google-ai-for-develo.md))
 - [Shared Selective Persistent Memory for Agentic LLM Systems](https://arxiv.org/abs/2607.09493) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-09493.md))
-- [Talk to Sales - SpeechifyAI API](https://simbavoice.ai/contact) (Tier: `useful` | [`Local File`](../../ai/agents/talk-to-sales-speechifyai-api.md))
 
 ## API Routing
 
@@ -215,11 +215,11 @@ This index groups curated resources by target developer skills.
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2607-14181.md))
 - [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Tier: `essential` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
 - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 - [FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](https://arxiv.org/abs/2607.05711) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-05711.md))
-- [Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models](https://arxiv.org/abs/2608.10214) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-10214.md))
 
 ## MCP Integrations
 
@@ -236,12 +236,12 @@ This index groups curated resources by target developer skills.
 
 - [An Agentic Interface for End-to-End Probabilistic Seismic Hazard and Risk Analysis](https://arxiv.org/abs/2607.16249) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-16249.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Tier: `useful` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://arxiv.org/abs/2607.09802) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09802.md))
 - [Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help](https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA) (Tier: `useful` | [`Local File`](../../ai/resources/purchase-watch-primetime-channels-on-youtube-compu.md))
 - [Apple Watch - Apple](https://www.apple.com/watch/) (Tier: `useful` | [`Local File`](../../ai/resources/apple-watch-apple.md))
 - [A Control Theory of Predictability in Latent World Models](https://arxiv.org/abs/2607.10362) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-10362.md))
 - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](https://n8n.io/workflows/9942-rag-powered-document-chat-with-google-drive-openai-and-pinecone-assistant/) (Tier: `useful` | [`Local File`](../../ai/rag/rag-powered-document-chat-with-google-drive-openai.md))
-- [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components) (Tier: `useful` | [`Local File`](../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md))
 
 ## Market Analysis
 
@@ -259,11 +259,11 @@ This index groups curated resources by target developer skills.
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2607-14181.md))
 - [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Tier: `essential` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
 - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 - [FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](https://arxiv.org/abs/2607.05711) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-05711.md))
-- [Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models](https://arxiv.org/abs/2608.10214) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-10214.md))
 
 ## Model Selection
 
@@ -334,13 +334,13 @@ This index groups curated resources by target developer skills.
 ## REST API Integration
 
 - [OpenAI · GitHub](https://github.com/openai) (Tier: `essential` | [`Local File`](../../ai/agents/openai-github.md))
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (Tier: `useful` | [`Local File`](../../ai/resources/wordpress-developer-resources-developer-wordpress.md))
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Tier: `useful` | [`Local File`](../../ai/resources/buddypress-developer-resources-your-best-buddies-e.md))
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (Tier: `useful` | [`Local File`](../../ai/resources/ollama-ollama-python.md))
 - [Welcome to Unstructured! - Unstructured](https://docs.unstructured.io) (Tier: `useful` | [`Local File`](../../ai/agents/welcome-to-unstructured-unstructured.md))
 - [Structured outputs | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/structured-output) (Tier: `useful` | [`Local File`](../../ai/agents/structured-outputs-gemini-api-google-ai-for-develo.md))
 - [Shared Selective Persistent Memory for Agentic LLM Systems](https://arxiv.org/abs/2607.09493) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-09493.md))
-- [Talk to Sales - SpeechifyAI API](https://simbavoice.ai/contact) (Tier: `useful` | [`Local File`](../../ai/agents/talk-to-sales-speechifyai-api.md))
 
 ## React Layouts
 
@@ -390,12 +390,12 @@ This index groups curated resources by target developer skills.
 
 - [An Agentic Interface for End-to-End Probabilistic Seismic Hazard and Risk Analysis](https://arxiv.org/abs/2607.16249) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-16249.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Tier: `useful` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://arxiv.org/abs/2607.09802) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09802.md))
 - [Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help](https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA) (Tier: `useful` | [`Local File`](../../ai/resources/purchase-watch-primetime-channels-on-youtube-compu.md))
 - [Apple Watch - Apple](https://www.apple.com/watch/) (Tier: `useful` | [`Local File`](../../ai/resources/apple-watch-apple.md))
 - [A Control Theory of Predictability in Latent World Models](https://arxiv.org/abs/2607.10362) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-10362.md))
 - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](https://n8n.io/workflows/9942-rag-powered-document-chat-with-google-drive-openai-and-pinecone-assistant/) (Tier: `useful` | [`Local File`](../../ai/rag/rag-powered-document-chat-with-google-drive-openai.md))
-- [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components) (Tier: `useful` | [`Local File`](../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md))
 
 ## Scripting
 
@@ -403,10 +403,10 @@ This index groups curated resources by target developer skills.
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Tier: `essential` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 - [OpenAI · GitHub](https://github.com/openai) (Tier: `essential` | [`Local File`](../../ai/agents/openai-github.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Tier: `essential` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 
 ## Similarity Search
 
@@ -524,10 +524,10 @@ This index groups curated resources by target developer skills.
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Tier: `essential` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 - [OpenAI · GitHub](https://github.com/openai) (Tier: `essential` | [`Local File`](../../ai/agents/openai-github.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Tier: `essential` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 
 ---
-*Last updated: 2026-08-20 07:41 IST*
+*Last updated: 2026-08-20 09:50 IST*

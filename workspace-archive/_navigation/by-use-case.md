@@ -62,10 +62,10 @@ This index groups resources by direct developer use-cases and design goals.
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `automation-workflows` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Category: `automation-workflows` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `automation-workflows` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `automation-workflows` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 - [OpenAI · GitHub](https://github.com/openai) (Category: `automation-workflows` | [`Local File`](../../ai/agents/openai-github.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Category: `automation-workflows` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `automation-workflows` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Category: `automation-workflows` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Category: `project-ideas` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
 
 ---
-*Last updated: 2026-08-20 07:41 IST*
+*Last updated: 2026-08-20 09:50 IST*
