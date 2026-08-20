@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-244%2C470-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-160%2C367-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--20-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **244,470 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **160,367 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 22,629</p>
-        <p><b>Active:</b> 21,959 | <b>Inactive:</b> 670</p>
+        <p><b>Resources tracked:</b> 21,646</p>
+        <p><b>Active:</b> 20,976 | <b>Inactive:</b> 670</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 85,417</p>
+        <p><b>Archive Files:</b> 2,275</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 244,470 files</p>
-        <p><b>Last Update:</b> 2026-08-20 09:50 IST</p>
+        <p><b>Total Vault Size:</b> 160,367 files</p>
+        <p><b>Last Update:</b> 2026-08-20 10:12 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,20 +210,16 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Google replaced Git tags for certain source code with obtaining via Google Drive](ai/community/google-replaced-git-tags-for-certain-source-code-w.md)** • <kbd>+53 pts</kbd>
-- 🔼 **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** • <kbd>+35 pts</kbd>
-- 🔼 **[Feature Request: Support AGENTS.md](ai/community/anthropics-claude-code.md)** • <kbd>+26 pts</kbd>
-- 🔼 **[Extensible Software in the age of LLMs](ai/community/extensible-software-in-the-age-of-llms.md)** • <kbd>+14 pts</kbd>
-- 🔼 **[Air Theremin – A browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)** • <kbd>+11 pts</kbd>
+- 🔼 **[Complete, Scalable, and Robust Prioritized Planning for Multi-Robot Ordered Storage and Retrieval at Maximum Capacity](ai/rag/arxiv-2608-07734.md)** • Rank: <kbd>+139</kbd>
+- 🔼 **[First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers](ai/research/arxiv-2606-22361.md)** • Rank: <kbd>+139</kbd>
+- 🔼 **[Hybrid ANN-SNN Pipeline with Local Plasticity](ai/rag/arxiv-2606-20151.md)** • Rank: <kbd>+139</kbd>
+- 🔼 **[DELOS: Contrastive Deep Learning for Low-SNR Blind Transit Searches in Kepler Photometry](ai/research/arxiv-2605-29428.md)** • Rank: <kbd>+139</kbd>
+- 🔼 **[ICICLE: Expanding Retrieval with In-Context Documents](ai/research/arxiv-2605-26902.md)** • Rank: <kbd>+139</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Complete, Scalable, and Robust Prioritized Planning for Multi-Robot Ordered Storage and Retrieval at Maximum Capacity](ai/rag/arxiv-2608-07734.md)** • Score: `0`
-- 🆕 **[First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers](ai/research/arxiv-2606-22361.md)** • Score: `0`
-- 🆕 **[Hybrid ANN-SNN Pipeline with Local Plasticity](ai/rag/arxiv-2606-20151.md)** • Score: `0`
-- 🆕 **[DELOS: Contrastive Deep Learning for Low-SNR Blind Transit Searches in Kepler Photometry](ai/research/arxiv-2605-29428.md)** • Score: `0`
-- 🆕 **[ICICLE: Expanding Retrieval with In-Context Documents](ai/research/arxiv-2605-26902.md)** • Score: `0`
+- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
