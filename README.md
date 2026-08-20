@@ -9,7 +9,7 @@ Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
 [![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvester-core.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
-[![Resources](https://img.shields.io/badge/Resources%20Indexed-160%2C368-1f2937?style=flat-square)](#)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-244%2C470-1f2937?style=flat-square)](#)
 [![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
 [![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--08--20-374151?style=flat-square)](#)
 
@@ -25,7 +25,7 @@ Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelli
 
 A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
 
-The result: a self-reinforcing knowledge graph of **160,368 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+The result: a self-reinforcing knowledge graph of **244,470 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
 
 **Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
 
@@ -187,18 +187,18 @@ score_threshold: 0.65
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 21,647</p>
-        <p><b>Active:</b> 20,975 | <b>Inactive:</b> 672</p>
+        <p><b>Resources tracked:</b> 22,632</p>
+        <p><b>Active:</b> 21,960 | <b>Inactive:</b> 672</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 2,275</p>
+        <p><b>Archive Files:</b> 85,414</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Total Vault Size:</b> 160,368 files</p>
-        <p><b>Last Update:</b> 2026-08-20 15:09 IST</p>
+        <p><b>Total Vault Size:</b> 244,470 files</p>
+        <p><b>Last Update:</b> 2026-08-20 15:42 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,16 +210,18 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[mergisi/awesome-openclaw-agents](ai/agents/mergisi-awesome-openclaw-agents.md)** • Rank: <kbd>+983</kbd>
-- 🔼 **[Complete, Scalable, and Robust Prioritized Planning for Multi-Robot Ordered Storage and Retrieval at Maximum Capacity](ai/rag/arxiv-2608-07734.md)** • Rank: <kbd>+983</kbd>
-- 🔼 **[First-Token Broadcasters: Mechanistic Origins of Language Identity and Distributed Robustness in Transformers](ai/research/arxiv-2606-22361.md)** • Rank: <kbd>+983</kbd>
-- 🔼 **[Hybrid ANN-SNN Pipeline with Local Plasticity](ai/rag/arxiv-2606-20151.md)** • Rank: <kbd>+983</kbd>
-- 🔼 **[DELOS: Contrastive Deep Learning for Low-SNR Blind Transit Searches in Kepler Photometry](ai/research/arxiv-2605-29428.md)** • Rank: <kbd>+983</kbd>
+- 🔼 **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** • <kbd>+54 pts</kbd>
+- 🔼 **[Feature Request: Support AGENTS.md](ai/community/anthropics-claude-code.md)** • <kbd>+46 pts</kbd>
+- 🔼 **[Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](ai/community/why-microsoft-entertainment-pack-had-a-sticker-ann.md)** • <kbd>+14 pts</kbd>
+- 🔼 **[Mathematics in the age of AI](ai/community/arxiv-2608-16753.md)** • <kbd>+13 pts</kbd>
+- 🔼 **[Extensible Software in the age of LLMs](ai/community/extensible-software-in-the-age-of-llms.md)** • <kbd>+7 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
+- 🆕 **[Don't Paste the AI, please](ai/community/don-t-paste-the-ai-please.md)** • Score: `183`
+- 🆕 **[allenai/c4](ai/models/huggingface-datasets-allenai.md)** • Score: `0`
+- 🆕 **[Thinking of ACE? We Can Do It with Fewer Tokens](ai/models/huggingface-blog-ibm-research-altk-evolve-sldd.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

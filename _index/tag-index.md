@@ -4944,6 +4944,7 @@ Resources organized by keyword tags.
 
   - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [Air Theremin – A browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
+  - [Don't Paste the AI, please](../ai/community/don-t-paste-the-ai-please.md)
   - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
   - [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](../ai/community/why-microsoft-entertainment-pack-had-a-sticker-ann.md)
 
@@ -10646,6 +10647,7 @@ Resources organized by keyword tags.
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass the Baton: Trajectory-Relayed On-Policy Distillation](../ai/rag/arxiv-2607-26057.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
@@ -17982,6 +17984,7 @@ Resources organized by keyword tags.
   - [[2412.02186] VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding](../ai/rag/arxiv-2412-02186.md)
   - [[2510.08847] What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment](../ai/rag/arxiv-2510-08847.md)
   - [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](../ai/models/huggingface-blog-lerobot-datasets-v3.md)
+  - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [beezwax blog](../ai/resources/beezwax-blog.md)
@@ -18007,7 +18010,6 @@ Resources organized by keyword tags.
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../ai/rag/arxiv-2512-06143.md)
   - [greensock/gsap-skills](../ai/agents/greensock-gsap-skills.md)
-  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [hkunlp/instructor-large · Hugging Face](../ai/rag/huggingface-hkunlp-instructor-large.md)
   - [huggingface/datasets](../ai/resources/huggingface-datasets.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
@@ -20490,6 +20492,7 @@ Resources organized by keyword tags.
   - [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](../ai/research/arxiv-2608-12227.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
   - [Dominant Arm Identification with Mixing and Recycling Observed Samples](../ai/research/arxiv-2608-01545.md)
+  - [Don't Paste the AI, please](../ai/community/don-t-paste-the-ai-please.md)
   - [Données & Design par LINC](../ai/resources/donnees-design-par-linc.md)
   - [Dons des particuliers, legs - Fondation CNRS](../ai/resources/dons-des-particuliers-legs-fondation-cnrs.md)
   - [Dovecot | The Secure IMAP server](../ai/resources/dovecot-the-secure-imap-server.md)
@@ -22673,6 +22676,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -22893,8 +22897,8 @@ Resources organized by keyword tags.
   - [IPEC-COMMUNITY/language_table_lerobot](../ai/models/huggingface-datasets-ipec-community.md)
   - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
+  - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
-  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
   - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
@@ -22957,6 +22961,7 @@ Resources organized by keyword tags.
   - [Kwai-Kolors/Kolors-Virtual-Try-On](../ai/models/huggingface-spaces-kwai-kolors.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
+  - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [black-forest-labs/FLUX.1-dev](../ai/models/huggingface-spaces-black-forest-labs.md)
@@ -22966,7 +22971,6 @@ Resources organized by keyword tags.
   - [facebook/MusicGen](../ai/models/huggingface-spaces-facebook.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
-  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [jbilcke-hf/ai-comic-factory](../ai/models/huggingface-spaces-jbilcke-hf.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
@@ -49534,4 +49538,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T12:54:24.613845+05:30*
+*Index generated on 2026-08-20T15:39:55.416745+05:30*

@@ -18187,6 +18187,7 @@ Resources organized by publisher feed and query sources.
 
   - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
   - [Air Theremin – A browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
+  - [Don't Paste the AI, please](../ai/community/don-t-paste-the-ai-please.md)
   - [Extensible Software in the age of LLMs](../ai/community/extensible-software-in-the-age-of-llms.md)
   - [Feature Request: Support AGENTS.md](../ai/community/anthropics-claude-code.md)
   - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
@@ -18916,6 +18917,7 @@ Resources organized by publisher feed and query sources.
   - [The State of Computer Vision at Hugging Face 🤗](../ai/models/huggingface-blog-cv-state.md)
   - [The Technology Behind BLOOM Training](../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
   - [The Transformers Library: standardizing model definitions](../ai/models/huggingface-blog-transformers-model-definition.md)
+  - [Thinking of ACE? We Can Do It with Fewer Tokens](../ai/models/huggingface-blog-ibm-research-altk-evolve-sldd.md)
   - [Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](../ai/models/huggingface-blog-infrastructure-alerting.md)
   - [TimeScope: How Long Can Your Video Large Multimodal Model Go?](../ai/models/huggingface-blog-timescope-video-lmm-benchmark.md)
   - [Timm ❤️ Transformers: Use any timm model with transformers](../ai/models/huggingface-blog-timm-transformers.md)
@@ -19042,8 +19044,8 @@ Resources organized by publisher feed and query sources.
   - [IPEC-COMMUNITY/language_table_lerobot](../ai/models/huggingface-datasets-ipec-community.md)
   - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
+  - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
-  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
   - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
@@ -22003,4 +22005,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T12:54:24.851756+05:30*
+*Index generated on 2026-08-20T15:39:55.659313+05:30*
