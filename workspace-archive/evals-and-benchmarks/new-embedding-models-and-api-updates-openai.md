@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **New embedding models**: `text-embedding-3-small` (5x cheaper, 44.0% MIRACL, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, 54.9% MIRACL, 64.6% MTEB) with native support for dynamic dimensionality reduction via `dimensions` parameter.
+- **New embedding models**: `text-embedding-3-small` (5x cheaper, 44.0% MIRACL, 62.3% MTEB) and `text-embedding-3-large` (3072D, 54.9% MIRACL, 64.6% MTEB) with native dimensionality reduction via `dimensions` parameter.
 
-- **Model updates & pricing reductions**: `gpt-3.5-turbo-0125` (50% input/25% output price drop), `gpt-4-0125-preview` (improved code generation, UTF-8 bug fix), and `text-moderation-007` (enhanced safety moderation).
+- **Model updates & pricing reductions**: `gpt-3.5-turbo-0125` (50% input/25% output token pricing), `gpt-4-0125-preview` (improved code generation, UTF-8 bug fix), and `text-moderation-007` (enhanced safety filtering).
 
-- **API management enhancements**: Fi
+- **API management improvements**: Per-key permissions and
 
 ## Use Cases
 

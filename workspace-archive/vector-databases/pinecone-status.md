@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- Pinecone's status page shows **100% uptime** across all regions (GCP, AWS, Azure) and services (Console, Pod Indexes, Serverless Indexes, Index Management, Inference, Assistant) over the last 90 days, with Serverless Indexes in AWS us-east-1 at **99.79%**.
-- Incident notifications support **email, SMS (global), Slack, and RSS/Atom feeds**, with reCAPTCHA and Google Terms/Policies applied for security and compliance.
-- No major outages or incidents reported in the past 90 days, with all service
+- Pinecone's status page indicates **100% uptime** across all regions (GCP, AWS, Azure) and services (Console, Pod Indexes, Serverless Indexes) over the past 90 days, with Serverless Indexes showing **99.95% uptime** in AWS us-east-1 at **99.79%**.
+- Incident notifications support **email, SMS (global), Slack, Atom/RSS feeds**, with reCAPTCHA and Google privacy/terms compliance for user verification.
+- All core services (**Index Management, Inference, Assistant**) are marked **Operational**, wit
 
 ## Use Cases
 

@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Multilingual & Multifunctional**: BAAI/bge-m3 is a unified model supporting dense retrieval, multi-vector retrieval, and hybrid retrieval, optimized for 100+ languages with a 8192-token context length.
-- **Advanced Architecture**: Utilizes a **Mixture-of-Experts (MoE)** design with 560M active parameters (out of 1.24B total) for efficient retrieval and semantic search.
-- **State-of-the-Art Performance**: Achieves top results on benchmarks like **MIRACL** (multilingual retrieval) and **BEIR**
+- **Multilingual & Multifunctional**: BAAI/bge-m3 is a unified model supporting dense retrieval, multi-vector retrieval, and hybrid retrieval, optimized for over 100 languages with a single checkpoint.
+
+- **Advanced Architecture**: Utilizes a **Mixture-of-Experts (MoE)** design with **335M parameters**, enabling efficient scaling and high performance across diverse retrieval tasks.
+
+- **State-of-the-Art Benchmarks**: Achieves top results on **MIRACL** (multilingual retrieval) and **BEIR** (Engli
 
 ## Use Cases
 

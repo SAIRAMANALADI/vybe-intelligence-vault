@@ -3,7 +3,7 @@ title: Android Developer Newsletters | Android Developers
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://developer.android.com/newsletter/#subscribe
-resource_id: blog:android-developer-newsletters-android-developers
+resource_id: blog:android-developer-newsletters-android-developers-305a98d0
 local_vault_path: ai/resources/android-developer-newsletters-android-developers.md
 quality_score: 70
 archive_score: 72

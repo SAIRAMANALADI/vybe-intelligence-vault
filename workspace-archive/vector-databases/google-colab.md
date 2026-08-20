@@ -1,17 +1,17 @@
 ---
 title: Google Colab
 archive_category: vector-databases
-source_category: ai/resources
-source_url: https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/pinecone-quickstart.ipynb
+source_category: ai/rag
+source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/quickstart.ipynb
 resource_id: blog:google-colab
-local_vault_path: ai/resources/google-colab.md
+local_vault_path: ai/rag/google-colab.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- reddit
+- rag
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -23,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Required**: Access to the linked resource necessitates a Google account login via [Google Accounts](https://accounts.google.com/ServiceLogin).
-
-- **Redirect Mechanism**: Post-authentication, users are redirected to a Pinecone quickstart notebook hosted on Google Colab (`https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/pinecone-quickstart.ipynb`).
-
-- **Passive Authentication Flag**: The `passive=true` parameter in the URL indicates non-interactive
+- The provided link requires authentication via Google Sign-In to access the Milvus Bootcamp tutorial on Google Colab.
+- The tutorial (`quickstart.ipynb`) is hosted on GitHub under the `milvus-io/bootcamp` repository, specifically in the `tutorials/quickstart` directory.
+- The notebook is designed for a quickstart introduction to Milvus, a vector database, but access is restricted without proper Google account credentials.
 
 ## Use Cases
 
@@ -45,8 +43,8 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/pinecone-quickstart.ipynb
+Original source URL: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/quickstart.ipynb
 
 ## Local Vault File
 
-Path: [google-colab.md](../../ai/resources/google-colab.md)
+Path: [google-colab.md](../../ai/rag/google-colab.md)

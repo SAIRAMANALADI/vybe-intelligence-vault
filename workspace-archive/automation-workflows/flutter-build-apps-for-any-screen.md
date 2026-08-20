@@ -1,17 +1,16 @@
 ---
 title: Flutter - Build apps for any screen
 archive_category: automation-workflows
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://flutter.dev/
 resource_id: blog:flutter-build-apps-for-any-screen
-local_vault_path: ai/rag/flutter-build-apps-for-any-screen.md
+local_vault_path: ai/resources/flutter-build-apps-for-any-screen.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- rag
 - web-crawled
 - workflows
 selection_reason:
@@ -34,9 +33,9 @@ selection_reason:
 
 - **Cross-platform compilation**: Flutter compiles to ARM/Intel machine code and JavaScript, enabling native performance across mobile, web, desktop, and embedded platforms from a single codebase.
 
-- **Hot Reload & stateful updates**: Enables near-instantaneous code iteration with state preservation, significantly boosting developer productivity during UI/UX refinement.
+- **Hot Reload & stateful development**: Supports real-time code iteration with Hot Reload, preserving app state during updates for rapid prototyping and debugging.
 
-- **Pixel-perfect rendering & ecosystem**: Provides granular control over UI rendering for adaptive designs while leveraging D
+- **Pixel-perfect rendering & ecosystem**: Offers fine-grained control over UI rendering for adaptive designs, backed by Dart (a perform
 
 ## Use Cases
 
@@ -50,4 +49,4 @@ Original source URL: https://flutter.dev/
 
 ## Local Vault File
 
-Path: [flutter-build-apps-for-any-screen.md](../../ai/rag/flutter-build-apps-for-any-screen.md)
+Path: [flutter-build-apps-for-any-screen.md](../../ai/resources/flutter-build-apps-for-any-screen.md)

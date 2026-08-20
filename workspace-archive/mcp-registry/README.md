@@ -8,13 +8,13 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 
 ## Top Matched Resources
 
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) (mcp-server - ESSENTIAL Tier)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (benchmark - ESSENTIAL Tier)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) (mcp-server - ESSENTIAL Tier)
 - [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) (mcp-server - ESSENTIAL Tier)
-- [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
@@ -22,10 +22,10 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 https://github.com/modelcontextprotocol (Official MCP Repos)
 https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server)
-- [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 
 ---
 
-*Last updated: 2026-08-07 09:07 IST*
+*Last updated: 2026-08-20 21:38 IST*

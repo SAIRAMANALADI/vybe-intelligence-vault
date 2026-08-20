@@ -3,7 +3,7 @@ title: Documentation Home | Zendesk Developer Docs
 archive_category: automation-workflows
 source_category: ai/agents
 source_url: https://developer.zendesk.com/documentation
-resource_id: blog:documentation-home-zendesk-developer-docs
+resource_id: blog:documentation-home-zendesk-developer-docs-680a9939
 local_vault_path: ai/agents/documentation-home-zendesk-developer-docs.md
 quality_score: 70
 archive_score: 72

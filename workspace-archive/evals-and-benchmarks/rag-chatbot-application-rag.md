@@ -2,7 +2,7 @@
 title: RAG Chatbot Application🤖 | RAG
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://todap.github.io/RAG
+source_url: https://todap.github.io/RAG/
 resource_id: blog:rag-chatbot-application-rag
 local_vault_path: ai/rag/rag-chatbot-application-rag.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Implements a RAG-based chatbot using Mistral-7B-Instruct-v0.3 LLM with ChromaDB as the vector database for contextual retrieval.
-- **Key Features**: Supports document uploads, conversational history retention, and user feedback for response improvement.
-- **Dependencies**: Requires `streamlit`, `huggingface_hub`, `langchain`, and `chromadb` for operation.
+- **Architecture**: Implements a RAG chatbot using Mistral-7B-Instruct-v0.3 LLM with ChromaDB as the vector store for context-aware retrieval.
+- **Features**: Supports document uploads, conversational history, and user feedback for response improvement.
+- **Dependencies**: Requires `streamlit`, `huggingface_hub`, `langchain`, and `chromadb` for deployment and functionality.
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://todap.github.io/RAG
+Original source URL: https://todap.github.io/RAG/
 
 ## Local Vault File
 

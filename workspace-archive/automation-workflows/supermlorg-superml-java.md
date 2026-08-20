@@ -3,7 +3,7 @@ title: supermlorg/superml-java · Discussions · GitHub
 archive_category: automation-workflows
 source_category: ai/resources
 source_url: https://github.com/supermlorg/superml-java/discussions
-resource_id: github:supermlorg/superml-java
+resource_id: github:supermlorg/superml-java-5471a5f6
 local_vault_path: ai/resources/supermlorg-superml-java.md
 quality_score: 70
 archive_score: 79
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Java-based machine learning library (`superml-java`) under the `supermlorg` GitHub organization with 5 stars and 1 fork.
-- Supports community engagement via discussions (categories: Announcements, General, Ideas, Q&A, etc.) and issue tracking.
-- Hosted at `superml-java.superml.org` with CI/CD via GitHub Actions for automated workflows.
+- **Java-based machine learning library** developed under the `supermlorg` GitHub organization, with 5 stars and 1 fork as of the snapshot.
+- **Repository includes** 1 open issue and 1 pull request, with GitHub Actions enabled for CI/CD workflows.
+- **Discussion categories** include Announcements, General, Ideas, Polls, Q&A, and Show and Tell, with a pinned welcome announcement from July 2025.
 
 ## Use Cases
 

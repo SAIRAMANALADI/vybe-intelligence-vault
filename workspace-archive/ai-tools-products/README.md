@@ -9,23 +9,23 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
-- [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook/) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (benchmark - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
-- [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Nonuniformity Principle in Human-AI Coworking](https://arxiv.org/abs/2607.16530) (framework - USEFUL Tier)
+- [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
-- [Docker Developer Tools | Dockertools - A Curated List of Developers Tools](https://dockertools.collabnix.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [Mintlify · GitHub](https://github.com/mintlify)
-- [deepset-ai/haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook/)
-- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-- [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-08-07 09:08 IST*
+*Last updated: 2026-08-20 21:39 IST*

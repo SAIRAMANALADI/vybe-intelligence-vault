@@ -9,13 +9,13 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 ## Top Matched Resources
 
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
-- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag) (template - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (framework - ESSENTIAL Tier)
-- [List of CommonMark Implementations · commonmark/commonmark-spec Wiki · GitHub](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations) (framework - ESSENTIAL Tier)
-- [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (mcp-server - ESSENTIAL Tier)
-- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita) (framework - ESSENTIAL Tier)
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
+- [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (dataset - ESSENTIAL Tier)
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
+- [zilliztech/milvus_cli](https://github.com/zilliztech/milvus_cli) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/run-llama/llama_index (LlamaIndex)
 https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
-- [List of CommonMark Implementations · commonmark/commonmark-spec Wiki · GitHub](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
+- [truefoundry/cognita](https://github.com/truefoundry/cognita)
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-08-07 09:07 IST*
+*Last updated: 2026-08-20 21:38 IST*

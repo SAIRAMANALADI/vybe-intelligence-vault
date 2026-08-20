@@ -8,19 +8,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`fetchai-innovation-lab-examples.md`](../../ai/rag/fetchai-innovation-lab-examples.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [OpenAI · GitHub](https://github.com/openai)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Stainless · GitHub](https://github.com/stainless-api)
-- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`stainless-github.md`](../../ai/resources/stainless-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`microsoft-trec-2019-deep-learning.md`](../../ai/resources/microsoft-trec-2019-deep-learning.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [weaviate/Verba](https://github.com/weaviate/Verba)
@@ -38,19 +48,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `88` | **Path**: [`arxiv-2607-14181.md`](../../ai/research/arxiv-2607-14181.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [OpenAI · GitHub](https://github.com/openai)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sri-krishna-v-awesome-adk-agents.md`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
@@ -58,14 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](../../ai/agents/maunappl8-openai-agents-ts-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`panniantong-agent-reach.md`](../../ai/agents/panniantong-agent-reach.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Mintlify · GitHub](https://github.com/mintlify)
-- **Category**: `ai/resources` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`mintlify-github.md`](../../ai/resources/mintlify-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-07 09:08 IST*
+*Last updated: 2026-08-20 21:39 IST*

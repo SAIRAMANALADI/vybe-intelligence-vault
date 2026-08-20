@@ -6,16 +6,17 @@ source_url: https://txt.cohere.com/rerank/
 resource_id: blog:cohere-rerank-say-goodbye-to-irrelevant-search-res
 local_vault_path: ai/rag/cohere-rerank-say-goodbye-to-irrelevant-search-res.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - hackernews
+- models
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- Introduces Cohere's new embedding models (v3) optimized for retrieval, RAG, and classification tasks, with improved performance and efficiency over prior versions.
+- **Cohere's embeddings models** leverage transformer architectures with optimized tokenization and attention mechanisms to generate high-dimensional vector representations for semantic search and retrieval-augmented generation (RAG) applications.
 
-- Details architectural enhancements including dynamic adaptive computation, enabling variable token processing based on input complexity for reduced latency.
+- **Enhanced retrieval performance** achieved via dynamic routing and adaptive pooling techniques, reducing latency while maintaining accuracy in large-scale vector databases.
 
-- Highlights benchmark improvements: 10% higher accuracy on BEIR retrieval tasks and 2x faster inference compared to v2 models.
+- **Scalable deployment** supported through optimized inference pipelines
 
 ## Use Cases
 

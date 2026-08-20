@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - deepmind
+- models
 - rag
 - web-crawled
 selection_reason:
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **AlphaFold 3**: Open-source inference pipeline for high-accuracy protein structure prediction, leveraging deep learning and physics-based refinement.
+- **AlphaFold 3**: Open-source inference pipeline for protein structure prediction, leveraging deep learning to model molecular interactions with high accuracy.
 
-- **MuJoCo & derivatives**: Multi-Joint dynamics with Contact physics simulator (C++) with GPU-optimized JAX-based variants (`mujoco_warp`, `mujoco_playground`) for robotics and sim-to-real transfer.
+- **MuJoCo & derivatives**: Multi-Joint dynamics with Contact physics simulator (C++) with GPU-optimized variants (`mujoco_warp`, `mujoco_playground`) for robotics and reinforcement learning applications.
 
-- **Acme & JAX libraries**: Reinforcement learning framework (`acme`) and JAX-based neural network toolkit (`dm-haiku`) for scalable, hardware-ac
+- **JAX-based frameworks**: Neural network library (`dm-haiku`) and reinforcement learning toolkit (`acme`) for scalable, hardware-a
 
 ## Use Cases
 

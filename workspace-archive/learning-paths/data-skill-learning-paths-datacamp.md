@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curriculum**: Covers AI fundamentals, practical applications, and model architectures in 5 courses (~9 hours total).
-- **Assessment**: Maintains a 4.7+ rating based on 81 reviews, indicating high user satisfaction.
-- **Platform**: Hosted on DataCamp, focusing on skill development for navigating dynamic AI landscapes.
+- **Curriculum Focus**: Covers core AI principles, practical applications, and model architectures (e.g., LLMs, neural networks) for workplace integration.
+- **Duration & Structure**: 9-hour program comprising 5 courses, designed for rapid upskilling in AI fundamentals.
+- **Validation Metrics**: Highly rated (4.7/5) with 81 reviews, indicating strong learner satisfaction and engagement.
 
 ## Use Cases
 

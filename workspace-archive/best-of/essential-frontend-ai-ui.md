@@ -8,9 +8,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
+### [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`azure-samples-chat-with-your-data-solution-accelerator.md`](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [ElevenLabs · GitHub](https://github.com/elevenlabs)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`elevenlabs-github.md`](../../ai/rag/elevenlabs-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
@@ -28,34 +33,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2605-18770.md`](../../ai/rag/arxiv-2605-18770.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2504-01407.md`](../../ai/agents/arxiv-2504-01407.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
 - **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2607-09322.md`](../../ai/rag/arxiv-2607-09322.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`generative-ai-build-ai-powered-apps-with-speed-sec.md`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-24937.md`](../../ai/rag/arxiv-2606-24937.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
+### [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2504-01407.md`](../../ai/agents/arxiv-2504-01407.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238)
@@ -66,6 +51,21 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2607-07626.md`](../../ai/research/arxiv-2607-07626.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-24937.md`](../../ai/rag/arxiv-2606-24937.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2608-06931.md`](../../ai/rag/arxiv-2608-06931.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2607-09322.md`](../../ai/rag/arxiv-2607-09322.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-07 09:08 IST*
+*Last updated: 2026-08-20 21:39 IST*

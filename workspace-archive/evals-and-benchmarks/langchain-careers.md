@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Operating Principles**: Emphasizes rapid iteration (shipping v0s early), high standards (rejecting mediocrity), and ownership ("benevolent dictators" of domains) with a bias toward execution over ideation.
+- **Engineering Culture**: Prioritizes rapid iteration (shipping v0s early) with relentless focus on quality, leveraging real-world feedback to refine products and reject mediocrity.
 
-- **Cultural Tenets**: Encourages "hot takes" to challenge norms, "maximum agency" for autonomous decision-making, and "running to the roar" to tackle high-impact problems proactively.
+- **Operational Principles**: Encourages "hot takes" to challenge norms, grants maximum agency to employees as "benevolent dictators" of their domains, and mandates proactive problem-solving ("run to the roar").
 
 - **Backing & Recognition**: Backed by top-tier VCs (IVP, Sequoia, Benchmark) and recognized in 2025 ra
 

@@ -34,15 +34,13 @@ selection_reason:
 ## Summary
 
 - **Transport & Authentication**:
-  - Supports Streamable HTTP (legacy HTTP+SSE deprecated) and OAuth 2.0 with Dynamic Client Registration (DCR).
-  - Valid auth specs: `2025-03-26`, `2025-06-18`, `2025-11-25`; includes token refresh, expiry, and custom credentials.
+  - Supports **Streamable HTTP** (legacy HTTP+SSE deprecated) and multiple auth specs (2025-03-26, 2025-06-18, 2025-11-25), including Dynamic Client Registration (DCR), OAuth callbacks, token refresh, and custom credentials.
 
 - **Protocol Features**:
-  - Supports tools, prompts, resources (text/binary), and image-based tool results.
-  - Excludes resource subscriptions, sampling, and draft capabilities.
+  - Supports **tools, prompts, resources**, and **text/image-based tool results**, but lacks **resource subscriptions, sampling, and advanced/draft capabilities**.
 
-- **Technical Limits**:
-  - Max tool result size: 15
+- **Technical Specifications**:
+  - **Claude.ai/De
 
 ## Use Cases
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **JavaScript Dependency**: The application requires JavaScript to execute core functionalities.
-- **Client-Side Processing**: Critical operations are performed on the client side, necessitating active JavaScript execution.
-- **Browser Limitation**: Without JavaScript enabled, the app's UI and dynamic features remain non-functional.
+- **JavaScript Dependency**: The application requires JavaScript to be enabled in the browser for execution and functionality.
+- **Client-Side Execution**: Core application logic and rendering are performed on the client side, necessitating active JavaScript support.
+- **Error State**: Disabling JavaScript triggers a fallback message, indicating the application cannot operate without JavaScript execution.
 
 ## Use Cases
 

@@ -1,19 +1,17 @@
 ---
 title: 'Postman: The World''s Leading API Platform | Sign Up for Free'
 archive_category: automation-workflows
-source_category: ai/rag
+source_category: ai/resources
 source_url: https://postman.com/
 resource_id: blog:postman-the-world-s-leading-api-platform-sign-up-f
-local_vault_path: ai/rag/postman-the-world-s-leading-api-platform-sign-up-f.md
+local_vault_path: ai/resources/postman-the-world-s-leading-api-platform-sign-up-f.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube
@@ -35,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-native API lifecycle management**: Postman's new platform integrates AI-driven automation for API development, testing, management, and distribution, optimized for enterprise-scale workflows.
+- **AI-Native API Lifecycle Management**: Postman's AI Engineer automates API development, testing, and maintenance across enterprise-scale services, integrating with existing infrastructure for contextualized workflows.
 
-- **Context-aware AI Engineer**: The AI Engineer dynamically builds, tests, and maintains APIs by leveraging real-time context from existing services, reducing manual intervention and accelerating deployment cycles.
+- **Enterprise-Grade API Development & Distribution**: Supports full API lifecycle—design, mocking, testing, documentation, monitoring, and distribution—optimized for large-scale, multi-team environments.
 
-- **Enterprise-grade integrations**: Supports seamless collaboration across major c
+- **Cross-Platform Integration & Adoption**: Compatible with major enter
 
 ## Use Cases
 
@@ -53,4 +51,4 @@ Original source URL: https://postman.com/
 
 ## Local Vault File
 
-Path: [postman-the-world-s-leading-api-platform-sign-up-f.md](../../ai/rag/postman-the-world-s-leading-api-platform-sign-up-f.md)
+Path: [postman-the-world-s-leading-api-platform-sign-up-f.md](../../ai/resources/postman-the-world-s-leading-api-platform-sign-up-f.md)

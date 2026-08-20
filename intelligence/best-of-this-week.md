@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [Reliability-Asymmetric Spacecraft Autonomy: Co-Designing a Capable Learned GNC Stack with a Verified, Adaptation-Aware Runtime Shield](https://arxiv.org/abs/2606.25366) (Score: 70) - Category: `ai-coding-agents/`
-*   [Non-Asymptotic Best Policy Identification Guarantees in Online Reinforcement Learning](https://arxiv.org/abs/2607.17201) (Score: 70) - Category: `ai-coding-agents/`
-*   [OpenAI · GitHub](https://github.com/openai) (Score: 70) - Category: `ai-coding-agents/`
-*   [Don't Make Models Guess Security and Safety: Symbolic Guardrails for Domain-Specific AI Agents](https://arxiv.org/abs/2604.15579) (Score: 70) - Category: `ai-coding-agents/`
-*   [EvoDRC: A Self-Evolving Agentic Framework for Automated DRC Violation Repair](https://arxiv.org/abs/2607.20019) (Score: 70) - Category: `ai-coding-agents/`
-*   [EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments](https://arxiv.org/abs/2607.05155) (Score: 70) - Category: `ai-coding-agents/`
-*   [Explain Before You Answer: A Survey on Compositional Visual Reasoning](https://arxiv.org/abs/2508.17298) (Score: 70) - Category: `ai-coding-agents/`
-*   [Moral Hazard in Multi-Agent Language Models](https://arxiv.org/abs/2607.23982) (Score: 70) - Category: `ai-coding-agents/`
-*   [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) (Score: 70) - Category: `ai-coding-agents/`
-*   [ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability](https://arxiv.org/abs/2607.02686) (Score: 70) - Category: `ai-coding-agents/`
-*   [Towards Robust Tool Use in Agents via Experience-Driven Adaptive Guidance](https://arxiv.org/abs/2608.03403) (Score: 70) - Category: `ai-coding-agents/`
-*   [From Trajectories to Prefixes: Reusing Teacher Trajectories via Replayed Prefixes and Online Continuation](https://arxiv.org/abs/2607.19395) (Score: 70) - Category: `ai-coding-agents/`
-*   [STRIDE: Strategic Trajectory Reasoning via Discriminative Estimation for Verifiable Reinforcement Learning](https://arxiv.org/abs/2606.15866) (Score: 70) - Category: `ai-coding-agents/`
-*   [TheAgentCompany/TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany) (Score: 70) - Category: `ai-coding-agents/`
-*   [Studying, Identifying, and Fixing Hidden Technical Debt in AI-Intensive Cyber-Physical Systems](https://arxiv.org/abs/2608.02638) (Score: 70) - Category: `ai-coding-agents/`
+*   [Install Tailwind CSS with Astro - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides/astro) (Score: 70) - Category: `ai-coding-agents/`
+*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
+*   [CoWeaver: A Bi-directional, Learnable and Explainable Matching Engine for Mixed Human-Agent Science Collaboration](https://arxiv.org/abs/2607.15545) (Score: 70) - Category: `ai-coding-agents/`
+*   [LLM-Derived Preference Judgments Are Not Self-Consistent](https://arxiv.org/abs/2608.17644) (Score: 70) - Category: `ai-coding-agents/`
+*   [Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation](https://arxiv.org/abs/2608.00794) (Score: 70) - Category: `ai-coding-agents/`
+*   [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](https://arxiv.org/abs/2607.13162) (Score: 70) - Category: `ai-coding-agents/`
+*   [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) (Score: 70) - Category: `ai-coding-agents/`
+*   [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797) (Score: 70) - Category: `ai-coding-agents/`
+*   [Closed-Loop Dynamic Validator Node Scaling in Private Substrate Blockchains Using Takagi-Sugeno Fuzzy Inference](https://arxiv.org/abs/2607.07901) (Score: 70) - Category: `ai-coding-agents/`
+*   [Share No More Than the Request Requires: Federated Disclosure for Perspective-Aware AI](https://arxiv.org/abs/2607.22953) (Score: 70) - Category: `ai-coding-agents/`
+*   [Computation, Condensation, and the Incompleteness Between Them: A Coupled Foundation of Intelligence](https://arxiv.org/abs/2303.04203) (Score: 70) - Category: `ai-coding-agents/`
+*   [Failure as a Process: An Anatomy of CLI Coding Agent Trajectories](https://arxiv.org/abs/2607.09510) (Score: 70) - Category: `ai-coding-agents/`
+*   [From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation](https://arxiv.org/abs/2607.09664) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456) (Score: 70) - Category: `ai-coding-agents/`
+*   [Why Git Is the Memory Solution for the Agentic Development Lifecycle](https://arxiv.org/abs/2607.14390) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

@@ -8,25 +8,25 @@ Starter kits and application templates drastically accelerate the deployment of 
 
 ## Top Matched Resources
 
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
-- [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (framework - USEFUL Tier)
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - USEFUL Tier)
-- [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322) (framework - USEFUL Tier)
-- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
+- [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (framework - USEFUL Tier)
+- [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238) (framework - USEFUL Tier)
+- [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626) (framework - USEFUL Tier)
 - [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (framework - USEFUL Tier)
-- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
+- [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) (framework - USEFUL Tier)
+- [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-- [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
-- [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
+- [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault)
+- [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
+- [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-08-07 09:07 IST*
+*Last updated: 2026-08-20 21:38 IST*

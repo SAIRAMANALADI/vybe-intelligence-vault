@@ -3,7 +3,7 @@ title: babelmark3 | Compare Markdown Implementations
 archive_category: evals-and-benchmarks
 source_category: ai/resources
 source_url: https://babelmark.github.io
-resource_id: blog:babelmark3-compare-markdown-implementations
+resource_id: blog:babelmark3-compare-markdown-implementations-a75b48d9
 local_vault_path: ai/resources/babelmark3-compare-markdown-implementations.md
 quality_score: 70
 archive_score: 72

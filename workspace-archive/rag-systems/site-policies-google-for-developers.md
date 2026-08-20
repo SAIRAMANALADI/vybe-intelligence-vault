@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Google Developers documentation is licensed under **Creative Commons Attribution 4.0**, permitting reuse/modification with attribution, excluding trademarks and brand features.
-- Code samples in documentation are licensed under **Apache 2.0**, allowing integration into proprietary projects.
-- Attribution requires a statement crediting Google and linking to the original source, with specific phrasing for exact reproductions vs. modified versions.
+- Google Developers documentation is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**, permitting reuse, modification, and redistribution with proper attribution, excluding trademarks and brand features.
+- Code samples in documentation are licensed under **Apache 2.0**, allowing integration into proprietary projects, while multimedia content (images, audio, video) may have separate, non-CC licenses.
+- Attribution requires a statement crediting Google, with a link to the original p
 
 ## Use Cases
 

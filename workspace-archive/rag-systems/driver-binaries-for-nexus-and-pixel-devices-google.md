@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose & Licensing**: Provides proprietary hardware support binaries (vendor images) for Nexus/Pixel devices running Android 10–15, restricted to personal use under Google's license terms; redistribution prohibited.
-
-- **Device & Version Coverage**: Includes vendor binaries for Pixel 9a (`tegu`), Pixel 9 Pro Fold (`comet`), and Pixel 9 Pro (`caiman`) across Android builds (e.g., `BD4A.240925.111`, `AP3A.241005.015`).
-
-- **Verification & Access**: Each binary includes SHA-256 checksums for i
+- Provides **vendor binary images** for Nexus/Pixel devices (Android 10–15), including Pixel 9a ("tegu"), Pixel 9 Pro Fold ("comet"), and Pixel 9 Pro ("caiman"), with SHA-256 checksums for verification.
+- Binaries are **Google-hosted**, licensed for personal use only, and include hardware support from vendors like Qualcomm, Broadcom, and Samsung for older models.
+- Downloads are versioned by Android build (e.g., `BD4A.240925.111`, `AP4A.250205.002`) with direct `.tgz` links and cryptographic has
 
 ## Use Cases
 

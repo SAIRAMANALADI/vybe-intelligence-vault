@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Integration**: Microsoft Edge WebView2 embeds Chromium-based web content (HTML/CSS/JS) into native apps, leveraging modern Edge platform features for consistent rendering and performance.
+- **Modern Chromium Engine**: WebView2 leverages the Chromium-based Microsoft Edge platform to render web content (HTML/CSS/JS) with full compatibility and performance optimizations.
 
-- **Deployment Flexibility**: Supports both evergreen (auto-updating) and fixed-version (static) runtime distributions, enabling compatibility control via bootstrapper, standalone installer, or direct version packaging.
+- **Dual Runtime Deployment**: Supports both evergreen (auto-updating) and fixed-version (static compatibility) WebView2 Runtime distributions for flexible deployment scenarios.
 
-- **Native Capabilities**: Enables secure, controlled access to native OS fea
+- **Native Integration APIs**: Provides controlled native-to-web interop, enabling secure access to OS capabilities while maintaining san
 
 ## Use Cases
 

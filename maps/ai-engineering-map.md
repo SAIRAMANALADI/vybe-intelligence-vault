@@ -10,11 +10,11 @@ Context window management, prompt engineering, few-shot prompting, API rate limi
 LiteLLM, LangChain, OpenAI API, Anthropic SDK.
 
 ## Recommended Resources from the Vault
-*   [deepset, makers of Haystack - YouTube](https://www.youtube.com/channel/UC5dfn9m310oyt-cbeegfvZw)
-*   [deepset-ai/haystack-experimental](https://github.com/deepset-ai/haystack-experimental)
-*   [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](https://github.com/deepset-ai/haystack-tutorials/blob/main/Contributing.md#contributing-to-haystack-tutorials)
-*   [deepset-ai/haystack-integrations](https://github.com/deepset-ai/haystack-integrations)
-*   [Nemotron/use-case-examples/nemotron-voice-rag-agent-example at main · NVIDIA-NeMo/Nemotron · GitHub](https://github.com/NVIDIA-NeMo/Nemotron/tree/main/use-case-examples/nemotron-voice-rag-agent-example)
+*   [IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference](https://arxiv.org/abs/2605.25475)
+*   [Modernizing HEBO: a robust Bayesian optimization baseline for practical heteroskedastic and non-stationary problems](https://arxiv.org/abs/2607.10669)
+*   [Structural Role Injection in Handlebars-Templated LLM Prompts: Triple-Brace Interpolation, Delimiter Family, and the Limits of HTML Auto-Escaping](https://arxiv.org/abs/2606.18120)
+*   [A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs](https://arxiv.org/abs/2607.12550)
+*   [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://semanticscholar.org/paper/385c74957858e7d6856d48e72b5a902b4c1aa28c)
 
 ## Project Ideas
 *   Build an API router that fallbacks to a smaller LLM when rate limits are hit.

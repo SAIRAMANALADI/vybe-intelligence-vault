@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Vector Search Dominance**: Emphasizes the critical role of vector search in enabling AI agents to retrieve information with precision, akin to quant trading strategies from 2010, leveraging embeddings and similarity metrics.
-
-- **Hybrid Retrieval Systems**: Highlights the integration of sparse (BM25) and dense (vector) retrieval methods to enhance search relevance and efficiency, addressing limitations of single-modality approaches.
-
-- **Real-Time Indexing & Scalability**: Stresses the need
+- **Vector Search Optimization**: Emphasizes leveraging high-dimensional vector embeddings (e.g., from 2010-era quant models) for precise retrieval, aligning with modern AI agent needs.
+- **Hybrid Retrieval Architecture**: Combines sparse (BM25) and dense (vector) retrieval for robust performance, mirroring traditional quant search techniques.
+- **Real-Time Indexing**: Requires low-latency updates to vector indices (e.g., HNSW or IVF) to maintain relevance in dynamic agent-driven queries.
 
 ## Use Cases
 

@@ -3,7 +3,7 @@ title: Get Started | DataCamp
 archive_category: agent-frameworks
 source_category: ai/rag
 source_url: https://app.datacamp.com/learn/courses/building-ai-agents-with-haystack
-resource_id: blog:get-started-datacamp
+resource_id: blog:get-started-datacamp-8b858469
 local_vault_path: ai/rag/get-started-datacamp.md
 quality_score: 70
 archive_score: 72

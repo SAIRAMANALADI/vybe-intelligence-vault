@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **On-device GenAI APIs**: ML Kit's GenAI APIs leverage **Gemini Nano** via **AICore** for local execution, ensuring privacy and offline functionality with no server costs.
-- **Supported APIs & Devices**: Includes **Summarization, Proofreading, Rewriting, Image Description, Speech Recognition, and Prompt APIs**, with device-specific support (e.g., Pixel 10, Samsung Galaxy S26, OnePlus 15).
-- **Quota & Constraints**: AICore enforces **per-app inference quotas** (`ErrorCode.BUSY`), blocks **backg
+- **On-device GenAI APIs**: ML Kit's GenAI APIs leverage **Gemini Nano** via **AICore** for local execution, enabling offline functionality, reduced server costs, and enhanced privacy by processing data on-device.
+- **Supported APIs & Devices**: Includes **Summarization, Proofreading, Rewriting, Image Description, Speech Recognition, and Prompt APIs**, with device support varying by API (e.g., **Pixel 10 series** for Prompt API, **Samsung Galaxy S26 series** for Summarization).
+- **Quotas & Cons
 
 ## Use Cases
 

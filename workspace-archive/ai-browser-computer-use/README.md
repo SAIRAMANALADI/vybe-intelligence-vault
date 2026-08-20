@@ -9,24 +9,24 @@ Computer-use and browser agents transition AI from text engines to active workfl
 ## Top Matched Resources
 
 - [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
-- [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
-- [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq) (framework - ESSENTIAL Tier)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
+- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
+- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
+- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/microsoft/playwright (Playwright)
 https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [mongodb · GitHub](https://github.com/mongodb)
-- [OpenAI · GitHub](https://github.com/openai)
-- [NVIDIA-AI-Blueprints/aiq](https://github.com/NVIDIA-AI-Blueprints/aiq)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
+- [golf-mcp/golf](https://github.com/golf-mcp/golf)
+- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-08-07 09:08 IST*
+*Last updated: 2026-08-20 21:39 IST*

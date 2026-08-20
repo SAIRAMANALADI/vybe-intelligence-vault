@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine** autonomously clusters production failures, diagnoses root causes in traces/code, and proposes fixes to accelerate agent improvement cycles.
-- **Multi-framework observability** via native tracing (OpenTelemetry) and SDKs (Python/TypeScript/Go/Java), with message threading and AI-driven analytics for multi-turn agent debugging.
-- **Production-grade deployment** with fault-tolerant runtime, durable checkpointing, A2A/MCP protocol support, and scalable agent swarms for human-i
+- **LangSmith Engine** autonomously clusters production agent failures into prioritized issues, performs root cause analysis in traces/code, and proposes fixes for review.
+- **Multi-framework observability** via native tracing (OpenTelemetry) and SDKs (Python/TypeScript/Go/Java), with message threading and AI-driven analytics for multi-turn interactions.
+- **Production-grade deployment** supports human-in-the-loop workflows, async collaboration, and distributed runtime with A2A/MCP protocol supp
 
 ## Use Cases
 
