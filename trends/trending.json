@@ -1,81 +1,42 @@
 {
-  "generated_at": "2026-08-20T19:21:50.413461+05:30",
+  "generated_at": "2026-08-20T20:12:55.458407+05:30",
   "trending_resources": [
     {
-      "id": "hackernews:don-t-paste-the-ai-please",
-      "title": "Don't Paste the AI, please",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://dontpastetheai.com",
-      "file_path": "ai/community/don-t-paste-the-ai-please.md",
-      "score": 665,
-      "score_change": 482,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:anthropics/claude-code",
-      "title": "Feature Request: Support AGENTS.md",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/anthropics/claude-code",
-      "file_path": "ai/community/anthropics-claude-code.md",
-      "score": 319,
-      "score_change": 59,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:a-joke-domain-purchase-turned-in-geopolitical-warf",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war",
-      "file_path": "ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md",
-      "score": 956,
-      "score_change": 51,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2608.16753",
-      "title": "Mathematics in the age of AI",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "file_path": "ai/community/arxiv-2608-16753.md",
-      "score": 192,
-      "score_change": 23,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
+      "id": "blog:browsecomp-zh-benchmarking-web-browsing-ability-of",
+      "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+      "category": "ai/research",
+      "source_type": "research",
+      "url": "https://semanticscholar.org/paper/34c20505098fd48ff19e4b5c4901febdd5d27181",
+      "file_path": "ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 3,
+      "rank_change": 20,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1004,
+      "rank_change": 984,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:particlemedia/ragtruth",
+      "title": "ParticleMedia/RAGTruth",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/particlemedia/ragtruth",
+      "file_path": "ai/rag/particlemedia-ragtruth.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 984,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +49,7 @@
       "file_path": "ai/agents/krishnaik06-agentic-langgraphcrash-course.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 984,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +62,7 @@
       "file_path": "ai/agents/calle-ai-awesome-phone-call-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 984,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,7 +75,7 @@
       "file_path": "ai/rag/fetchai-innovation-lab-examples.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 984,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,7 +88,46 @@
       "file_path": "ai/agents/docker-compose-for-agents.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 983,
+      "rank_change": 984,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:airweave-ai/airweave",
+      "title": "airweave-ai/airweave",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/airweave-ai/airweave",
+      "file_path": "ai/rag/airweave-ai-airweave.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 984,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:huangjia2019/ai-agents",
+      "title": "huangjia2019/ai-agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/huangjia2019/ai-agents",
+      "file_path": "ai/agents/huangjia2019-ai-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 984,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:wenyuchiou/awesome-agentic-ai-zh",
+      "title": "WenyuChiou/awesome-agentic-ai-zh",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/wenyuchiou/awesome-agentic-ai-zh",
+      "file_path": "ai/rag/wenyuchiou-awesome-agentic-ai-zh.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 984,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -156,19 +156,6 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 9242,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1004,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -262,48 +249,22 @@
       "rank_change": 985,
       "new_resource": false,
       "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09123",
+      "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09123",
+      "file_path": "ai/research/arxiv-2606-09123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 985,
+      "new_resource": false,
+      "tier": "tier-3"
     }
   ],
   "new_discoveries": [
-    {
-      "id": "hackernews:show-hn-i-trained-a-125m-model-to-autocomplete-pia",
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete",
-      "file_path": "ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md",
-      "score": 54,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:australia-passes-law-to-levy-tech-giants-that-fail",
-      "title": "Australia passes law to levy tech giants that fail to pay for local news",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20",
-      "file_path": "ai/community/australia-passes-law-to-levy-tech-giants-that-fail.md",
-      "score": 21,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:browsecomp-zh-benchmarking-web-browsing-ability-of",
-      "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
-      "category": "ai/research",
-      "source_type": "research",
-      "url": "https://semanticscholar.org/paper/34c20505098fd48ff19e4b5c4901febdd5d27181",
-      "file_path": "ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
@@ -318,32 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:air-theremin-a-browser-theremin-you-play-by-waving",
-      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://theremin.bizibah.com",
-      "file_path": "ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md"
-    },
-    {
-      "id": "hackernews:extensible-software-in-the-age-of-llms",
-      "title": "Extensible Software in the age of LLMs",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-      "file_path": "ai/community/extensible-software-in-the-age-of-llms.md"
-    },
-    {
-      "id": "hackernews:why-microsoft-entertainment-pack-had-a-sticker-ann",
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00?p=112621",
-      "file_path": "ai/community/why-microsoft-entertainment-pack-had-a-sticker-ann.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

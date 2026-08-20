@@ -198,7 +198,7 @@ score_threshold: 0.65
       <td align="center">
         <h3>⚡ Status</h3>
         <p><b>Total Vault Size:</b> 160,372 files</p>
-        <p><b>Last Update:</b> 2026-08-20 19:21 IST</p>
+        <p><b>Last Update:</b> 2026-08-20 20:12 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -210,26 +210,21 @@ score_threshold: 0.65
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Don't Paste the AI, please](ai/community/don-t-paste-the-ai-please.md)** • <kbd>+482 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Feature Request: Support AGENTS.md](ai/community/anthropics-claude-code.md)** • <kbd>+59 pts</kbd>
-- 🔼 **[A joke domain purchase turned in geopolitical warfare](ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)** • <kbd>+51 pts</kbd>
-- 🔼 **[Mathematics in the age of AI](ai/community/arxiv-2608-16753.md)** • <kbd>+23 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)** • Rank: <kbd>+20</kbd>
+- 🔼 **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** • Rank: <kbd>+984</kbd>
+- 🔼 **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** • Rank: <kbd>+984</kbd>
+- 🔼 **[krishnaik06/Agentic-LanggraphCrash-course](ai/agents/krishnaik06-agentic-langgraphcrash-course.md)** • Rank: <kbd>+984</kbd>
+- 🔼 **[CALLE-AI/awesome-phone-call-agents](ai/agents/calle-ai-awesome-phone-call-agents.md)** • Rank: <kbd>+984</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Show HN: I trained a 125M model to autocomplete piano on-device](ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)** • Score: `54`
-- 🆕 **[Australia passes law to levy tech giants that fail to pay for local news](ai/community/australia-passes-law-to-levy-tech-giants-that-fail.md)** • Score: `21`
-- 🆕 **[BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)** • Score: `0`
 - 🆕 **[langchain-ai/langgraph](docs/sample-digest.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Air Theremin – A browser theremin you play by waving at your webcam](ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)**
-- 💤 **[Extensible Software in the age of LLMs](ai/community/extensible-software-in-the-age-of-llms.md)**
-- 💤 **[Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](ai/community/why-microsoft-entertainment-pack-had-a-sticker-ann.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
