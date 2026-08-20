@@ -1,29 +1,19 @@
 ---
-title: Hagridden-tawnyeagle788/Claude-Code
-content_type: repo
-engine: v2
-category: daily-digests/2026-08-20
-tech_stack:
-- Windows
-- TypeScript
-- npm
-- Electron (implied)
-- Source Maps
+title: "Hagridden-tawnyeagle788/Claude-Code"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows", "TypeScript", "npm", "Electron (implied)", "Source Maps"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- Windows
-- Claude Code
-- Local AI
-- Pre-built App
-- Source Maps
-source: https://github.com/Hagridden-tawnyeagle788/Claude-Code
+deployment_complexity: "Low"
+tags: ["Windows", "Claude Code", "Local AI", "Pre-built App", "Source Maps"]
+source: "https://github.com/Hagridden-tawnyeagle788/Claude-Code"
 stars: 0
-language: None
-last_updated: '2026-07-10T20:19:27Z'
-discovered_at: '2026-07-10T20:22:17Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-10T20:19:27Z"
+discovered_at: "2026-07-10T20:22:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
