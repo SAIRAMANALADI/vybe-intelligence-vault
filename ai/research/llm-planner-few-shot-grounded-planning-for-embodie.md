@@ -13,11 +13,11 @@ authors:
 - Wei-Lun Chao
 - Yu Su
 year: 2022
-citation_count: 741
+citation_count: 770
 code_url: None
 stars: N/A
 published_at: '2022-01-01T00:00:00Z'
-collected_at: '2026-07-19T16:15:04.071807+05:30'
+collected_at: '2026-08-20T18:43:38.328449+05:30'
 tags:
 - agents
 - dataset
@@ -29,8 +29,8 @@ tags:
 status: active
 resource_id: blog:llm-planner-few-shot-grounded-planning-for-embodie
 first_seen: '2026-07-19T16:15:04.071807+05:30'
-last_seen: '2026-07-19T16:15:04.071807+05:30'
-last_checked: '2026-07-19T16:15:04.071807+05:30'
+last_seen: '2026-08-20T18:43:38.328449+05:30'
+last_checked: '2026-08-20T18:43:38.328449+05:30'
 health_score: 100
 ---
 
@@ -48,7 +48,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Chan Hee Song, Jiaman Wu, Clay Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su
 - Publication Year: 2022
-- Citation Count: 741
+- Citation Count: 770
 - Paper Link: https://semanticscholar.org/paper/8ee45aeb7c97e3346cc62f216f673b91277ac718
 - Code Link: None
 - Code Stars: N/A

@@ -779,6 +779,7 @@ Resources organized by keyword tags.
   - [Bridging Search and CRM: Productionizing AI Product Research Agents for Customer Re-Engagement](../ai/agents/arxiv-2608-18543.md)
   - [Bridging the Last Mile of Circuit Design: PostEDA-Bench, a Hierarchical Benchmark for PPA Convergence and DRC Fixing](../ai/agents/arxiv-2605-06936.md)
   - [Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents](../ai/agents/arxiv-2607-18659.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents](../ai/rag/arxiv-2511-20597.md)
   - [BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning](../ai/agents/arxiv-2607-10565.md)
   - [Budget-Aware Tool Use Enables Effective Agent Scaling](../ai/rag/arxiv-2511-17006.md)
@@ -4943,10 +4944,10 @@ Resources organized by keyword tags.
 ## ai
 
   - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
-  - [Air Theremin – A browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
+  - [Australia passes law to levy tech giants that fail to pay for local news](../ai/community/australia-passes-law-to-levy-tech-giants-that-fail.md)
   - [Don't Paste the AI, please](../ai/community/don-t-paste-the-ai-please.md)
   - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
-  - [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](../ai/community/why-microsoft-entertainment-pack-had-a-sticker-ann.md)
+  - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
 
 ## animation
 
@@ -6723,6 +6724,7 @@ Resources organized by keyword tags.
   - [Bringing Back Rule Induction to Fluid Intelligence Research? An Initial Validation of the ARC-AGI Benchmark in Humans](../ai/research/arxiv-2607-11263.md)
   - [Bringing Generative Learning to Representation Learning: Self-Supervised Transfer Learning as Distribution Matching](../ai/research/arxiv-2502-14424.md)
   - [Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents](../ai/agents/arxiv-2607-18659.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents](../ai/rag/arxiv-2511-20597.md)
   - [BubbleSH: A Dataset of Rising Bubbles with Deformable Interfaces](../ai/research/arxiv-2607-07275.md)
   - [Budget-Aware LLM Discovery via Cost-Calibrated Frontier Utility](../ai/research/arxiv-2607-26828.md)
@@ -14273,6 +14275,7 @@ Resources organized by keyword tags.
   - [Bridging the Gap: Enabling Natural Language Queries for NoSQL Databases through Text-to-NoSQL Translation](../ai/research/arxiv-2502-11201.md)
   - [Bridging the Information Gap: Semantic Densification and Hindsight Distillation for Cold-Start Prediction](../ai/research/arxiv-2607-17070.md)
   - [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](../ai/models/huggingface-blog-nxp-bringing-robotics-ai-to-embedded-platforms.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [BubbleSH: A Dataset of Rising Bubbles with Deformable Interfaces](../ai/research/arxiv-2607-07275.md)
   - [BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning](../ai/agents/arxiv-2607-10565.md)
   - [Budget-First Tariff Recommendation (BFTR): A Complete Algorithmic Framework for Telecom Plan Recommendation without Overcharging](../ai/research/arxiv-2608-18723.md)
@@ -19921,7 +19924,6 @@ Resources organized by keyword tags.
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
-  - [Air Theremin – A browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
   - [Algebraic Decomposition Theory for Transformer Length Generalization](../ai/research/arxiv-2608-13433.md)
@@ -20011,6 +20013,7 @@ Resources organized by keyword tags.
   - [AudioTQ: A Data-Oblivious 6-Bit CPU Audio Codec via Randomized Hadamard Rotation and Lloyd-Max Quantization](../ai/research/arxiv-2608-15369.md)
   - [Auditing Fairness-Privacy Trade-offs: Subpopulation-Level Effects of Fairness-Enhancing Algorithms](../ai/research/arxiv-2607-14607.md)
   - [Augmentation techniques for video surveillance in the visible and thermal spectral range](../ai/research/arxiv-2606-13042.md)
+  - [Australia passes law to levy tech giants that fail to pay for local news](../ai/community/australia-passes-law-to-levy-tech-giants-that-fail.md)
   - [Auto Research for Materials: Auditable AI-Scientist Workflows with Held-Out Transfer](../ai/rag/arxiv-2607-17100.md)
   - [Auto-DSM Under the Lens: A Black-Box Evaluation Framework for LLM-Based DSM Generation](../ai/rag/arxiv-2607-05985.md)
   - [Auto-adaptive Resonance Equalization using Dilated Residual Networks](../ai/research/arxiv-1807-08636.md)
@@ -20628,7 +20631,6 @@ Resources organized by keyword tags.
   - [Exploring the relationship between human-centric AI and firm idiosyncratic risks](../ai/research/arxiv-2606-24224.md)
   - [Exponential quantum advantage for learning signals with a single qubit](../ai/research/arxiv-2608-13521.md)
   - [Extended pseudo-spectral physics-informed neural networks for phase-field models](../ai/research/arxiv-2606-24660.md)
-  - [Extensible Software in the age of LLMs](../ai/community/extensible-software-in-the-age-of-llms.md)
   - [Externally Validated Breast Ultrasound Segmentation via Multi-task Learning with BI-RADS-Consistent Morphological Priors](../ai/research/arxiv-2511-15968.md)
   - [Extrapolating the emergence of Hamiltonian chaos with random-feature Hamiltonian neural networks](../ai/agents/arxiv-2607-28977.md)
   - [FADEx: Feature Attribution and Distortion-based Explanation of Dimensionality Reduction](../ai/rag/arxiv-2607-27463.md)
@@ -22023,6 +22025,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -22561,7 +22564,6 @@ Resources organized by keyword tags.
   - [Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?](../ai/rag/arxiv-2603-24472.md)
   - [Why Fast-Growing Teams Outgrow Spreadsheets | beezwax blog](../ai/rag/why-fast-growing-teams-outgrow-spreadsheets-beezwa.md)
   - [Why Git Is the Memory Solution for the Agentic Development Lifecycle](../ai/agents/arxiv-2607-14390.md)
-  - [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](../ai/community/why-microsoft-entertainment-pack-had-a-sticker-ann.md)
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
@@ -22676,7 +22678,6 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -23108,6 +23109,7 @@ Resources organized by keyword tags.
 ## language
 
   - [A review of large language models and autonomous agents in chemistry](../ai/research/a-review-of-large-language-models-and-autonomous-a.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](../ai/research/chain-of-agents-large-language-models-collaboratin.md)
   - [Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](../ai/research/collab-overcooked-benchmarking-and-evaluating-larg.md)
   - [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](../ai/research/describe-explain-plan-and-select-interactive-plann.md)
@@ -23151,6 +23153,7 @@ Resources organized by keyword tags.
 ## large
 
   - [A review of large language models and autonomous agents in chemistry](../ai/research/a-review-of-large-language-models-and-autonomous-a.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](../ai/research/chain-of-agents-large-language-models-collaboratin.md)
   - [Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](../ai/research/collab-overcooked-benchmarking-and-evaluating-larg.md)
   - [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](../ai/research/describe-explain-plan-and-select-interactive-plann.md)
@@ -23374,10 +23377,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Extensible Software in the age of LLMs](../ai/community/extensible-software-in-the-age-of-llms.md)
 
 ## mdx
 
@@ -24716,6 +24715,7 @@ Resources organized by keyword tags.
   - [Bridging battery design and health assessment through virtual sensing and physics-informed learning](../ai/research/arxiv-2607-16864.md)
   - [Bridging the Gap Between Latent and Explicit Reasoning with Looped Transformers](../ai/research/arxiv-2606-31779.md)
   - [Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic Multimodal Reasoning](../ai/research/arxiv-2508-16129.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [Budget-Aware LLM Discovery via Cost-Calibrated Frontier Utility](../ai/research/arxiv-2607-26828.md)
   - [Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](../ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md)
   - [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](../ai/agents/huggingface-blog-nvidia-magpie-tts-multilingual-voice-agents.md)
@@ -28364,6 +28364,7 @@ Resources organized by keyword tags.
   - [Blast Radius](../ai/agents/arxiv-2608-07440.md)
   - [Blog | OpenAI Developers](../ai/rag/blog-openai-developers.md)
   - [Breaking the Code: Security Assessment of AI Code Agents Through Systematic Jailbreaking Attacks](../ai/agents/arxiv-2510-01359.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](../ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md)
   - [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)
   - [Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog](../ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md)
@@ -29474,6 +29475,7 @@ Resources organized by keyword tags.
   - [Bridging the Gap: Enabling Natural Language Queries for NoSQL Databases through Text-to-NoSQL Translation](../ai/research/arxiv-2502-11201.md)
   - [Broadcast Product: Redefining Shape-aligned Element-wise Multiplication and Beyond](../ai/research/arxiv-2409-17502.md)
   - [Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents](../ai/agents/arxiv-2607-18659.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning](../ai/agents/arxiv-2607-10565.md)
   - [Budget-First Tariff Recommendation (BFTR): A Complete Algorithmic Framework for Telecom Plan Recommendation without Overcharging](../ai/research/arxiv-2608-18723.md)
   - [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)
@@ -42349,6 +42351,7 @@ Resources organized by keyword tags.
   - [Active Retrieval Augmented Generation](../ai/research/active-retrieval-augmented-generation.md)
   - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](../ai/research/agentic-retrieval-augmented-generation-a-survey-on.md)
   - [Benchmarking Retrieval-Augmented Generation for Medicine](../ai/research/benchmarking-retrieval-augmented-generation-for-me.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](../ai/research/chain-of-agents-large-language-models-collaboratin.md)
   - [Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](../ai/research/collab-overcooked-benchmarking-and-evaluating-larg.md)
   - [Cosine similarity - Wikipedia](../ai/rag/cosine-similarity-wikipedia.md)
@@ -49538,4 +49541,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T15:39:55.416745+05:30*
+*Index generated on 2026-08-20T18:59:54.179792+05:30*

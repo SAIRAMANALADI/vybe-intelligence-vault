@@ -12,11 +12,11 @@ authors:
 - Rui Zhang
 - Sercan Ö. Arik
 year: 2024
-citation_count: 258
+citation_count: 272
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-07-19T16:15:04.071832+05:30'
+collected_at: '2026-08-20T18:43:38.328479+05:30'
 tags:
 - agents
 - benchmark
@@ -29,8 +29,8 @@ tags:
 status: active
 resource_id: blog:chain-of-agents-large-language-models-collaboratin
 first_seen: '2026-07-19T16:15:04.071832+05:30'
-last_seen: '2026-07-19T16:15:04.071832+05:30'
-last_checked: '2026-07-19T16:15:04.071832+05:30'
+last_seen: '2026-08-20T18:43:38.328479+05:30'
+last_checked: '2026-08-20T18:43:38.328479+05:30'
 health_score: 100
 ---
 
@@ -48,7 +48,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Yusen Zhang, Ruoxi Sun, Yanfei Chen, Tomas Pfister, Rui Zhang, Sercan Ö. Arik
 - Publication Year: 2024
-- Citation Count: 258
+- Citation Count: 272
 - Paper Link: https://semanticscholar.org/paper/1b0fa09f097591d697162300cc6ecb3ee425fd8d
 - Code Link: None
 - Code Stars: N/A

@@ -13,11 +13,11 @@ authors:
 - Wenjie Li
 - Tat-Seng Chua
 year: 2024
-citation_count: 72
+citation_count: 80
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-07-19T16:15:04.071935+05:30'
+collected_at: '2026-08-20T18:43:38.328548+05:30'
 tags:
 - agents
 - benchmark
@@ -29,8 +29,8 @@ tags:
 status: active
 resource_id: blog:large-language-models-empowered-personalized-web-a
 first_seen: '2026-07-19T16:15:04.071935+05:30'
-last_seen: '2026-07-19T16:15:04.071935+05:30'
-last_checked: '2026-07-19T16:15:04.071935+05:30'
+last_seen: '2026-08-20T18:43:38.328548+05:30'
+last_checked: '2026-08-20T18:43:38.328548+05:30'
 health_score: 100
 ---
 
@@ -48,7 +48,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Hongru Cai, Yongqi Li, Wenjie Wang, Fengbin Zhu, Xiaoyu Shen, Wenjie Li, Tat-Seng Chua
 - Publication Year: 2024
-- Citation Count: 72
+- Citation Count: 80
 - Paper Link: https://semanticscholar.org/paper/f7a6bad51fa4041b4ef075c03da0b46a8384c810
 - Code Link: None
 - Code Stars: N/A

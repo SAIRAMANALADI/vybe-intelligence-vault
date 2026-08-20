@@ -18186,12 +18186,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [A joke domain purchase turned in geopolitical warfare](../ai/community/a-joke-domain-purchase-turned-in-geopolitical-warf.md)
-  - [Air Theremin – A browser theremin you play by waving at your webcam](../ai/community/air-theremin-a-browser-theremin-you-play-by-waving.md)
+  - [Australia passes law to levy tech giants that fail to pay for local news](../ai/community/australia-passes-law-to-levy-tech-giants-that-fail.md)
   - [Don't Paste the AI, please](../ai/community/don-t-paste-the-ai-please.md)
-  - [Extensible Software in the age of LLMs](../ai/community/extensible-software-in-the-age-of-llms.md)
   - [Feature Request: Support AGENTS.md](../ai/community/anthropics-claude-code.md)
   - [Mathematics in the age of AI](../ai/community/arxiv-2608-16753.md)
-  - [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](../ai/community/why-microsoft-entertainment-pack-had-a-sticker-ann.md)
+  - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19084,6 +19083,7 @@ Resources organized by publisher feed and query sources.
   - [Active Retrieval Augmented Generation](../ai/research/active-retrieval-augmented-generation.md)
   - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](../ai/research/agentic-retrieval-augmented-generation-a-survey-on.md)
   - [Benchmarking Retrieval-Augmented Generation for Medicine](../ai/research/benchmarking-retrieval-augmented-generation-for-me.md)
+  - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](../ai/research/chain-of-agents-large-language-models-collaboratin.md)
   - [Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](../ai/research/collab-overcooked-benchmarking-and-evaluating-larg.md)
   - [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](../ai/research/describe-explain-plan-and-select-interactive-plann.md)
@@ -22005,4 +22005,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-20T15:39:55.659313+05:30*
+*Index generated on 2026-08-20T18:59:54.400693+05:30*

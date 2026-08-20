@@ -13,13 +13,14 @@ collected_at: '2026-08-20T15:23:32.090008+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:air-theremin-a-browser-theremin-you-play-by-waving
 first_seen: '2026-08-19T18:47:08.073125+05:30'
 last_seen: '2026-08-20T15:23:32.090008+05:30'
 last_checked: '2026-08-20T15:23:32.090008+05:30'
 health_score: 100
 ---
+
 
 # Air Theremin – A browser theremin you play by waving at your webcam
 

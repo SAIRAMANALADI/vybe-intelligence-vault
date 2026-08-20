@@ -16,11 +16,11 @@ authors:
 - Zhaopeng Tu
 - Shuming Shi
 year: 2023
-citation_count: 1241
+citation_count: 1320
 code_url: None
 stars: N/A
 published_at: '2023-01-01T00:00:00Z'
-collected_at: '2026-07-19T16:15:04.071915+05:30'
+collected_at: '2026-08-20T18:43:38.328489+05:30'
 tags:
 - agents
 - dataset
@@ -34,8 +34,8 @@ tags:
 status: active
 resource_id: blog:encouraging-divergent-thinking-in-large-language-m
 first_seen: '2026-07-19T16:15:04.071915+05:30'
-last_seen: '2026-07-19T16:15:04.071915+05:30'
-last_checked: '2026-07-19T16:15:04.071915+05:30'
+last_seen: '2026-08-20T18:43:38.328489+05:30'
+last_checked: '2026-08-20T18:43:38.328489+05:30'
 health_score: 100
 ---
 
@@ -53,7 +53,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Tian Liang, Zhiwei He, Wenxiang Jiao, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi
 - Publication Year: 2023
-- Citation Count: 1241
+- Citation Count: 1320
 - Paper Link: https://semanticscholar.org/paper/385c74957858e7d6856d48e72b5a902b4c1aa28c
 - Code Link: None
 - Code Stars: N/A

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://dontpastetheai.com
 hn_url: https://news.ycombinator.com/item?id=49371857
-score: 183
+score: 665
 author: pjerem
-comments_count: 100
+comments_count: 324
 published_at: '2026-08-20T13:50:44+05:30'
-collected_at: '2026-08-20T15:23:28.088418+05:30'
+collected_at: '2026-08-20T18:43:36.778302+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:don-t-paste-the-ai-please
 first_seen: '2026-08-20T15:23:28.088418+05:30'
-last_seen: '2026-08-20T15:23:28.088418+05:30'
-last_checked: '2026-08-20T15:23:28.088418+05:30'
+last_seen: '2026-08-20T18:43:36.778302+05:30'
+last_checked: '2026-08-20T18:43:36.778302+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by pjerem. Score: 183, Comments: 100.
+Hacker News story by pjerem. Score: 665, Comments: 324.
 Original Link: https://dontpastetheai.com/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: pjerem
-- Score: 183 Upvotes
-- Comments: 100 Discussions
+- Score: 665 Upvotes
+- Comments: 324 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49371857
 - Original Article: https://dontpastetheai.com
 

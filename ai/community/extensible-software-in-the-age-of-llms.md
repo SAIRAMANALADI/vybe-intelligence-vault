@@ -13,13 +13,14 @@ collected_at: '2026-08-20T15:23:32.381795+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:extensible-software-in-the-age-of-llms
 first_seen: '2026-08-20T00:34:51.832125+05:30'
 last_seen: '2026-08-20T15:23:32.381795+05:30'
 last_checked: '2026-08-20T15:23:32.381795+05:30'
 health_score: 100
 ---
+
 
 # Extensible Software in the age of LLMs
 

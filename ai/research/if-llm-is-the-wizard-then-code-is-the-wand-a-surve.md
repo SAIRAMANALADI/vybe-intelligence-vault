@@ -19,11 +19,11 @@ authors:
 - Heng Ji
 - ChengXiang Zhai
 year: 2024
-citation_count: 129
+citation_count: 131
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-07-19T16:15:04.071892+05:30'
+collected_at: '2026-08-20T18:43:38.328528+05:30'
 tags:
 - agents
 - hackernews
@@ -35,8 +35,8 @@ tags:
 status: active
 resource_id: blog:if-llm-is-the-wizard-then-code-is-the-wand-a-surve
 first_seen: '2026-07-19T16:15:04.071892+05:30'
-last_seen: '2026-07-19T16:15:04.071892+05:30'
-last_checked: '2026-07-19T16:15:04.071892+05:30'
+last_seen: '2026-08-20T18:43:38.328528+05:30'
+last_checked: '2026-08-20T18:43:38.328528+05:30'
 health_score: 100
 ---
 
@@ -54,7 +54,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Ke Yang, Jiateng Liu, John Wu, Chaoqi Yang, Y. Fung, Sha Li, Zixuan Huang, Xu Cao, Xingyao Wang, Yiquan Wang, Heng Ji, ChengXiang Zhai
 - Publication Year: 2024
-- Citation Count: 129
+- Citation Count: 131
 - Paper Link: https://semanticscholar.org/paper/a06d3e9e90008c64c45a0029d580541d5f646771
 - Code Link: None
 - Code Stars: N/A
