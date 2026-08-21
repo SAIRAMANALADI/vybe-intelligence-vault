@@ -14,13 +14,14 @@ collected_at: '2026-08-21T22:27:07.526699+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-companies-destroy-physical-books-let-s-scan-rar
 first_seen: '2026-08-21T10:29:58.716931+05:30'
 last_seen: '2026-08-21T22:27:07.526699+05:30'
 last_checked: '2026-08-21T22:27:07.526699+05:30'
 health_score: 100
 ---
+
 
 # AI companies destroy physical books – let's scan rare books before it's too late
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-21T22:27:09.271751+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:does-whispering-to-agents-in-docs-help
 first_seen: '2026-08-21T22:27:09.271751+05:30'
 last_seen: '2026-08-21T22:27:09.271751+05:30'
 last_checked: '2026-08-21T22:27:09.271751+05:30'
 health_score: 100
 ---
+
 
 # Does whispering to agents in docs help?
 

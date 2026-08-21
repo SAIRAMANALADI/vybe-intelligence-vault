@@ -144,7 +144,6 @@ Resources organized by keyword tags.
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
   - [A nonlinear extension of parametric model embedding for dimensionality reduction in parametric shape design](../ai/agents/arxiv-2605-11759.md)
   - [A review of large language models and autonomous agents in chemistry](../ai/research/a-review-of-large-language-models-and-autonomous-a.md)
-  - [A self hosted AI software factory](../ai/community/a-self-hosted-ai-software-factory.md)
   - [A three-dimensional typology of agency for advanced AI systems](../ai/agents/arxiv-2608-20041.md)
   - [A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination](../ai/rag/arxiv-2608-04872.md)
   - [A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory](../ai/agents/arxiv-2607-01935.md)
@@ -1370,7 +1369,6 @@ Resources organized by keyword tags.
   - [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](../ai/agents/arxiv-2606-19297.md)
   - [Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study](../ai/agents/arxiv-2608-13568.md)
   - [Does the Proof Prove It That Way? Faithful Formalization of Elements Proofs](../ai/agents/arxiv-2608-15432.md)
-  - [Does whispering to agents in docs help?](../ai/community/does-whispering-to-agents-in-docs-help.md)
   - [Doing What They Say, Not What They Reason: Locating the Faithfulness Gap in LLM Agents](../ai/agents/arxiv-2606-00476.md)
   - [Domain-Generalized Adaptive Semantic Communication for Collaborative Perception](../ai/agents/arxiv-2608-00056.md)
   - [Domain-Specific Agents for Cherenkov Telescope Array Control Software and Gamma-Ray Data Analysis](../ai/agents/arxiv-2510-01299.md)
@@ -5009,9 +5007,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A self hosted AI software factory](../ai/community/a-self-hosted-ai-software-factory.md)
-  - [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](../ai/community/ai-boosted-homework-scores-by-18-then-exam-scores.md)
-  - [AI companies destroy physical books – let's scan rare books before it's too late](../ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md)
+  - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
+  - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
 
 ## animation
 
@@ -20065,7 +20062,6 @@ Resources organized by keyword tags.
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
   - [A safe and modern home for JavaScript technologies | OpenJS Foundation](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md)
-  - [A self hosted AI software factory](../ai/community/a-self-hosted-ai-software-factory.md)
   - [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md)
   - [A survey of AI-generated voices and their detection](../ai/research/arxiv-2608-15411.md)
   - [A systematic review of machine learning techniques to address diagnosis and treatment of autism: challenges and opportunities](../ai/research/arxiv-2608-18188.md)
@@ -20077,7 +20073,6 @@ Resources organized by keyword tags.
   - [AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network](../ai/research/arxiv-2606-19185.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
-  - [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](../ai/community/ai-boosted-homework-scores-by-18-then-exam-scores.md)
   - [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
@@ -20100,7 +20095,7 @@ Resources organized by keyword tags.
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
-  - [AI companies destroy physical books – let's scan rare books before it's too late](../ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md)
+  - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
@@ -20781,7 +20776,6 @@ Resources organized by keyword tags.
   - [Documentation Overview - TACC HPC Documentation](../ai/rag/documentation-overview-tacc-hpc-documentation.md)
   - [Documentation – Replicate](../ai/agents/documentation-replicate.md)
   - [Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study](../ai/agents/arxiv-2608-13568.md)
-  - [Does whispering to agents in docs help?](../ai/community/does-whispering-to-agents-in-docs-help.md)
   - [Domain adaptation for handwriting trajectory reconstruction from IMU sensors](../ai/rag/arxiv-2607-26736.md)
   - [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](../ai/research/arxiv-2608-12227.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
@@ -21308,6 +21302,7 @@ Resources organized by keyword tags.
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
+  - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
@@ -22978,7 +22973,6 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -50107,4 +50101,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-21T22:43:16.956405+05:30*
+*Index generated on 2026-08-22T02:32:01.395270+05:30*

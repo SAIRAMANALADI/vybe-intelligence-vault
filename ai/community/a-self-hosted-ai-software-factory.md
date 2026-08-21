@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-self-hosted-ai-software-factory
 first_seen: '2026-08-21T22:27:10.352918+05:30'
 last_seen: '2026-08-21T22:27:10.352918+05:30'
 last_checked: '2026-08-21T22:27:10.352918+05:30'
 health_score: 100
 ---
+
 
 # A self hosted AI software factory
 
