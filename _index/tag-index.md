@@ -3740,7 +3740,6 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
-  - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](../ai/community/show-hn-argentic-an-l402-lightning-toll-booth-for.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
@@ -5011,9 +5010,7 @@ Resources organized by keyword tags.
   - [AI companies destroy physical books – let's scan rare books before it's too late](../ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md)
   - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
   - [Captain Zilog](../ai/community/captain-zilog.md)
-  - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](../ai/community/show-hn-argentic-an-l402-lightning-toll-booth-for.md)
-  - [Show HN: Huzzah – a novel approach to coding with AI](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)
-  - [The case against a C alternative (2022)](../ai/community/the-case-against-a-c-alternative-2022.md)
+  - [Flat Chair by Sara Paculdo](../ai/community/flat-chair-by-sara-paculdo.md)
 
 ## animation
 
@@ -10090,6 +10087,7 @@ Resources organized by keyword tags.
   - [Measuring What a Specification Determines: A Formal Semantic-Block Model and an Execution-Judged Benchmark](../ai/research/arxiv-2608-19475.md)
   - [Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact](../ai/research/arxiv-2606-16206.md)
   - [Measuring and Improving Complex-Atomic Answer Consistency in Endoscopic VQA](../ai/research/arxiv-2607-17834.md)
+  - [Measuring benchmark optimization in speech recognition](../ai/models/huggingface-blog-asr-benchmark-optimization.md)
   - [Measuring in-context algorithmic reasoning in language models against an exact Bayes-optimal standard](../ai/research/arxiv-2608-01575.md)
   - [Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models](../ai/research/arxiv-2607-21636.md)
   - [Measuring the Partial-Credit Gap: A Strict Benchmark on Vietnam's 2025 Convex Marking Scheme](../ai/research/arxiv-2608-18336.md)
@@ -20991,6 +20989,7 @@ Resources organized by keyword tags.
   - [Fitting Horn DL Ontologies to ABox and Query Examples: A Tale of Simulation Quantifiers and Finite Models](../ai/research/arxiv-2604-26976.md)
   - [Fixed-Gaussian Spectral Algorithms: Minimax Optimal Rates for Misspecified Learning and Transfer](../ai/research/arxiv-2501-10870.md)
   - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](../ai/agents/arxiv-2608-12932.md)
+  - [Flat Chair by Sara Paculdo](../ai/community/flat-chair-by-sara-paculdo.md)
   - [Fodor and Pylyshyn's Systematicity Challenge Still Stands](../ai/research/arxiv-2606-14512.md)
   - [For What Reason? Interpreting Models' Encoding of Causation and Antithesis](../ai/research/arxiv-2607-18570.md)
   - [Forbes - Apps on Google Play](../ai/resources/forbes-apps-on-google-play.md)
@@ -22324,8 +22323,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](../ai/community/show-hn-argentic-an-l402-lightning-toll-booth-for.md)
-  - [Show HN: Huzzah – a novel approach to coding with AI](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -22594,7 +22591,6 @@ Resources organized by keyword tags.
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
-  - [The case against a C alternative (2022)](../ai/community/the-case-against-a-c-alternative-2022.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
@@ -42664,7 +42660,6 @@ Resources organized by keyword tags.
   - [Send new RSS feed entries via email](../ai/rag/send-new-rss-feed-entries-via-email.md)
   - [Senpi-ai/senpi-skills](../ai/agents/senpi-ai-senpi-skills.md)
   - [SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning](../ai/agents/arxiv-2608-14452.md)
-  - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](../ai/community/show-hn-argentic-an-l402-lightning-toll-booth-for.md)
   - [SilvaScenes: Tree Detection and Species Classification from Under-Canopy Images in Natural Forests](../ai/rag/arxiv-2510-09458.md)
   - [Simon Willison: Prompt injection](../ai/rag/simon-willison-prompt-injection.md)
   - [Simple, Flexible, Trustworthy CI/CD Tools - Travis CI](../ai/rag/simple-flexible-trustworthy-ci-cd-tools-travis-ci.md)
@@ -50116,4 +50111,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-21T14:50:09.247778+05:30*
+*Index generated on 2026-08-21T19:03:24.173363+05:30*

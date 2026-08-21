@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/zachahn/vomit
 hn_url: https://news.ycombinator.com/item?id=49375996
-score: 250
+score: 272
 author: Bluestein
-comments_count: 245
+comments_count: 267
 published_at: '2026-08-20T20:56:02+05:30'
-collected_at: '2026-08-21T14:33:56.834223+05:30'
+collected_at: '2026-08-21T18:47:14.969600+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:zachahn/vomit
 first_seen: '2026-08-20T21:21:28.611661+05:30'
-last_seen: '2026-08-21T14:33:56.834223+05:30'
-last_checked: '2026-08-21T14:33:56.834223+05:30'
+last_seen: '2026-08-21T18:47:14.969600+05:30'
+last_checked: '2026-08-21T18:47:14.969600+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Bluestein. Score: 250, Comments: 245.
+Hacker News story by Bluestein. Score: 272, Comments: 267.
 Original Link: https://github.com/zachahn/vomit
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Bluestein
-- Score: 250 Upvotes
-- Comments: 245 Discussions
+- Score: 272 Upvotes
+- Comments: 267 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49375996
 - Original Article: https://github.com/zachahn/vomit
 

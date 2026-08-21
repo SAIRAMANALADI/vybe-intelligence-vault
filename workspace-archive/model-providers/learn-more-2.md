@@ -2,7 +2,7 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands
+source_url: https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
@@ -41,7 +41,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands
+Original source URL: https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games
 
 ## Local Vault File
 

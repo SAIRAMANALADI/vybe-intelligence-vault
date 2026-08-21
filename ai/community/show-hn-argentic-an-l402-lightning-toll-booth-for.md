@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - scripts
-status: active
+status: inactive
 resource_id: hackernews:show-hn-argentic-an-l402-lightning-toll-booth-for
 first_seen: '2026-08-21T14:33:57.608628+05:30'
 last_seen: '2026-08-21T14:33:57.608628+05:30'
 last_checked: '2026-08-21T14:33:57.608628+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
 

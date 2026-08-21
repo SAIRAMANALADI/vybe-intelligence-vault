@@ -18501,9 +18501,7 @@ Resources organized by publisher feed and query sources.
   - [AI companies destroy physical books – let's scan rare books before it's too late](../ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md)
   - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
   - [Captain Zilog](../ai/community/captain-zilog.md)
-  - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](../ai/community/show-hn-argentic-an-l402-lightning-toll-booth-for.md)
-  - [Show HN: Huzzah – a novel approach to coding with AI](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)
-  - [The case against a C alternative (2022)](../ai/community/the-case-against-a-c-alternative-2022.md)
+  - [Flat Chair by Sara Paculdo](../ai/community/flat-chair-by-sara-paculdo.md)
   - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
 
 ## Unknown Source (type: huggingface)
@@ -19018,6 +19016,7 @@ Resources organized by publisher feed and query sources.
   - [Making thousands of open LLMs bloom in the Vertex AI Model Garden](../ai/models/huggingface-blog-google-cloud-model-garden.md)
   - [Mastering Long Contexts in LLMs with KVPress](../ai/models/huggingface-blog-nvidia-kvpress.md)
   - [Measuring Open-Source Llama Nemotron Models on DeepResearch Bench](../ai/models/huggingface-blog-nvidia-ai-q-top-ranking-open-portable-deep-research-agent.md)
+  - [Measuring benchmark optimization in speech recognition](../ai/models/huggingface-blog-asr-benchmark-optimization.md)
   - [Meet HoloTab by HCompany. Your AI browser companion.](../ai/models/huggingface-blog-hcompany-holotab.md)
   - [Memory-efficient Diffusion Transformers with Quanto and Diffusers](../ai/models/huggingface-blog-quanto-diffusers.md)
   - [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](../ai/agents/huggingface-blog-muse-glimmer.md)
@@ -22320,4 +22319,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-21T14:50:09.467311+05:30*
+*Index generated on 2026-08-21T19:03:24.410744+05:30*

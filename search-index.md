@@ -30031,9 +30031,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
 * **[AI companies destroy physical books – let's scan rare books before it's too late](ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Cider9986. Score: 317, Comments: 228. Original Link: https://annas-archive.gl/blog/physical-destruction.html
+  * Summary: Hacker News story by darccio. Score: 198, Comments: 124. Original Link: https://annas-archive.pk/blog/physical-destruction.html
   * Tags: `ai`, `hackernews`
-  * Source URL: <https://annas-archive.gl/blog/physical-destruction.html>
+  * Source URL: <https://annas-archive.pk/blog/physical-destruction.html>
 
 * **[AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)** (`framework` | `useful` tier)
   * Summary: - **Multi-format & multimodal parsing**: Supports 90+ document formats (PDFs, invoices, healthcare forms, etc.) with layout-aware OCR, table/chart extraction, handwriting recognition, and checkbox detection for high-fidelity markdown conversion. - **
@@ -30161,7 +30161,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.07053>
 
 * **[Anti-AI fonts are useless and harmful](ai/community/anti-ai-fonts-are-useless-and-harmful.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by speckx. Score: 160, Comments: 114. Original Link: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/
+  * Summary: Hacker News story by speckx. Score: 185, Comments: 138. Original Link: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful>
 
@@ -30496,7 +30496,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.13459>
 
 * **[Captain Zilog](ai/community/captain-zilog.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rbanffy. Score: 51, Comments: 6. Original Link: https://www.zilog.com/captain_zilog/
+  * Summary: Hacker News story by rbanffy. Score: 63, Comments: 8. Original Link: https://www.zilog.com/captain_zilog/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://zilog.com/captain_zilog>
 
@@ -31399,6 +31399,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Flagging Mechanism:** Google Play provides a direct reporting system to flag apps, reviews, or developer replies for violations of [Developer Program Policies](https://play.google.com/about/developer-content-policy/), illegal content, or fraudule
   * Tags: `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://support.google.com/googleplay/answer/2853570>
+
+* **[Flat Chair by Sara Paculdo](ai/community/flat-chair-by-sara-paculdo.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by surprisetalk. Score: 66, Comments: 18. Original Link: https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo>
 
 * **[FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse](ai/rag/arxiv-2606-11290.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11290v1 Announce Type: new Abstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial o
@@ -33720,16 +33725,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
-* **[Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](ai/community/show-hn-argentic-an-l402-lightning-toll-booth-for.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Ag0146. Score: 7, Comments: 4. Original Link: https://Argentic.network
-  * Tags: `agents`, `ai`, `hackernews`, `scripts`
-  * Source URL: <https://argentic.network>
-
-* **[Show HN: Huzzah – a novel approach to coding with AI](ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by danielvaughn. Score: 303, Comments: 158. Original Link: https://www.danielvaughn.dev/posts/huzzah/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://danielvaughn.dev/posts/huzzah>
-
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
   * Tags: `github-repo`, `javascript`, `scripts`, `workflows`
@@ -34053,11 +34048,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2512.02080v3 Announce Type: replace-cross Abstract: The integration of Formal Verification tools with Large Language Models (LLMs) offers a path to scale software verification beyond manual workflows. However, current methods remain unreliable:
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2512.02080>
-
-* **[The case against a C alternative (2022)](ai/community/the-case-against-a-c-alternative-2022.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by theanonymousone. Score: 11, Comments: 1. Original Link: https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative>
 
 * **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (`framework` | `useful` tier)
   * Summary: - **RAG (Retrieval-Augmented Generation)** combines retrieval, augmentation, and generation, formalized by Lewis et al. (2020), addressing LLM limitations in freshness, private knowledge, and hallucination by dynamically pulling external, up-to-date,
@@ -34525,7 +34515,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/VoltAgent/awesome-ai-agent-papers>
 
 * **[Vomit: Clean up Claude 5's token output with a separate LLM](ai/community/zachahn-vomit.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Bluestein. Score: 250, Comments: 245. Original Link: https://github.com/zachahn/vomit
+  * Summary: Hacker News story by Bluestein. Score: 272, Comments: 267. Original Link: https://github.com/zachahn/vomit
   * Tags: `anthropic`, `hackernews`, `llm`
   * Source URL: <https://github.com/zachahn/vomit>
 
@@ -59816,7 +59806,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02680>
 
 * **[k9cli/video-vec2wav2-tokenizer](ai/models/huggingface-datasets-k9cli.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 16, Downloads: 2061274)
+  * Summary: Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 16, Downloads: 2017601)
   * Tags: `dataset`, `hf-dataset`, `huggingface`, `youtube`
   * Source URL: <https://huggingface.co/datasets/k9cli>
 
@@ -63553,6 +63543,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.17834v1 Announce Type: cross Abstract: Endoscopic visual question answering (VQA) increasingly asks complex questions that combine several endoscopic answer components rather than isolated factual queries. Such complex answers may be score
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2607.17834>
+
+* **[Measuring benchmark optimization in speech recognition](ai/models/huggingface-blog-asr-benchmark-optimization.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Measuring benchmark optimization in speech recognition
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/asr-benchmark-optimization>
 
 * **[Measuring Concept Content in Text from LLM Activations: ESG Evidence from Concept Vectors and Linear Probes](ai/research/arxiv-2608-07208.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.07208v1 Announce Type: cross Abstract: Existing measures of how much a text is about a concept read the surface of the text: dictionary word shares, topic proportions, embedding similarities. They score the words a text uses, not the judgm
@@ -88314,7 +88309,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
   * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/putting-sign-language-ai-into-users-hands>
+  * Source URL: <https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games>
 
 * **[Microsoft Research blog](ai/companies/microsoft-research-blog.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Microsoft Research Blog Blog: Microsoft Research blog
@@ -92660,7 +92655,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3413, Downloads: 35816332)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3415, Downloads: 35816332)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -95324,8 +95319,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive curriculum on large language model (LLM) application development. * Leverages LangChain for framework orchestration and Retrieval-Augmented Generation (RAG) for enhanced information retrieval. * Content delivered via Jupyter Notebooks
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides foundational instruction for large language model (LLM) application development. * Emphasizes practical implementation leveraging LangChain and Retrieval-Augmented Generation (RAG) architectures. * Tutorial content is structured as executa
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -105474,7 +105469,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, indicating a static
+  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary implementation language is HTML. * Repository exhibits moderate community engagement (30 stars, 60 forks) with a last commit timestamp of 2026-07-08T15:07:53Z.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
