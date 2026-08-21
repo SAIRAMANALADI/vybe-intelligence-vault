@@ -144,6 +144,7 @@ Resources organized by keyword tags.
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
   - [A nonlinear extension of parametric model embedding for dimensionality reduction in parametric shape design](../ai/agents/arxiv-2605-11759.md)
   - [A review of large language models and autonomous agents in chemistry](../ai/research/a-review-of-large-language-models-and-autonomous-a.md)
+  - [A self hosted AI software factory](../ai/community/a-self-hosted-ai-software-factory.md)
   - [A three-dimensional typology of agency for advanced AI systems](../ai/agents/arxiv-2608-20041.md)
   - [A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination](../ai/rag/arxiv-2608-04872.md)
   - [A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory](../ai/agents/arxiv-2607-01935.md)
@@ -1369,6 +1370,7 @@ Resources organized by keyword tags.
   - [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](../ai/agents/arxiv-2606-19297.md)
   - [Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study](../ai/agents/arxiv-2608-13568.md)
   - [Does the Proof Prove It That Way? Faithful Formalization of Elements Proofs](../ai/agents/arxiv-2608-15432.md)
+  - [Does whispering to agents in docs help?](../ai/community/does-whispering-to-agents-in-docs-help.md)
   - [Doing What They Say, Not What They Reason: Locating the Faithfulness Gap in LLM Agents](../ai/agents/arxiv-2606-00476.md)
   - [Domain-Generalized Adaptive Semantic Communication for Collaborative Perception](../ai/agents/arxiv-2608-00056.md)
   - [Domain-Specific Agents for Cherenkov Telescope Array Control Software and Gamma-Ray Data Analysis](../ai/agents/arxiv-2510-01299.md)
@@ -5007,10 +5009,9 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [A self hosted AI software factory](../ai/community/a-self-hosted-ai-software-factory.md)
+  - [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](../ai/community/ai-boosted-homework-scores-by-18-then-exam-scores.md)
   - [AI companies destroy physical books – let's scan rare books before it's too late](../ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md)
-  - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
-  - [Captain Zilog](../ai/community/captain-zilog.md)
-  - [Flat Chair by Sara Paculdo](../ai/community/flat-chair-by-sara-paculdo.md)
 
 ## animation
 
@@ -5549,7 +5550,6 @@ Resources organized by keyword tags.
   - [VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space](../ai/agents/arxiv-2608-02878.md)
   - [Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent](../ai/rag/arxiv-2608-03979.md)
   - [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md)
-  - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
   - [We Got Claude to Build CUDA Kernels and teach open models!](../ai/models/huggingface-blog-upskill.md)
   - [We Got Claude to Fine-Tune an Open Source LLM](../ai/models/huggingface-blog-hf-skills-training.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
@@ -20065,6 +20065,7 @@ Resources organized by keyword tags.
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
   - [A safe and modern home for JavaScript technologies | OpenJS Foundation](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md)
+  - [A self hosted AI software factory](../ai/community/a-self-hosted-ai-software-factory.md)
   - [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md)
   - [A survey of AI-generated voices and their detection](../ai/research/arxiv-2608-15411.md)
   - [A systematic review of machine learning techniques to address diagnosis and treatment of autism: challenges and opportunities](../ai/research/arxiv-2608-18188.md)
@@ -20076,6 +20077,7 @@ Resources organized by keyword tags.
   - [AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network](../ai/research/arxiv-2606-19185.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
+  - [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](../ai/community/ai-boosted-homework-scores-by-18-then-exam-scores.md)
   - [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
@@ -20246,7 +20248,6 @@ Resources organized by keyword tags.
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
-  - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
@@ -20474,7 +20475,6 @@ Resources organized by keyword tags.
   - [Cannot get 555 module to work - Electrical Engineering Stack Exchange](../ai/agents/cannot-get-555-module-to-work-electrical-engineeri.md)
   - [Canonical Variates in Wasserstein Metric Space](../ai/rag/arxiv-2405-15768.md)
   - [Canvas Privacy Notice | Center for Teaching Innovation](../ai/resources/canvas-privacy-notice-center-for-teaching-innovati.md)
-  - [Captain Zilog](../ai/community/captain-zilog.md)
   - [Carpe Diem: Critical Learning Period-Aware Contract-Based Incentives for Federated Learning](../ai/rag/arxiv-2503-07869.md)
   - [Cartography and Imaging Sciences Discipline Node](../ai/rag/cartography-and-imaging-sciences-discipline-node.md)
   - [Catastrophic Compositional Generation: Why Vanilla Diffusion Models Fail to Extrapolate](../ai/research/arxiv-2606-23920.md)
@@ -20781,6 +20781,7 @@ Resources organized by keyword tags.
   - [Documentation Overview - TACC HPC Documentation](../ai/rag/documentation-overview-tacc-hpc-documentation.md)
   - [Documentation – Replicate](../ai/agents/documentation-replicate.md)
   - [Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study](../ai/agents/arxiv-2608-13568.md)
+  - [Does whispering to agents in docs help?](../ai/community/does-whispering-to-agents-in-docs-help.md)
   - [Domain adaptation for handwriting trajectory reconstruction from IMU sensors](../ai/rag/arxiv-2607-26736.md)
   - [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](../ai/research/arxiv-2608-12227.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
@@ -20989,7 +20990,6 @@ Resources organized by keyword tags.
   - [Fitting Horn DL Ontologies to ABox and Query Examples: A Tale of Simulation Quantifiers and Finite Models](../ai/research/arxiv-2604-26976.md)
   - [Fixed-Gaussian Spectral Algorithms: Minimax Optimal Rates for Misspecified Learning and Transfer](../ai/research/arxiv-2501-10870.md)
   - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](../ai/agents/arxiv-2608-12932.md)
-  - [Flat Chair by Sara Paculdo](../ai/community/flat-chair-by-sara-paculdo.md)
   - [Fodor and Pylyshyn's Systematicity Challenge Still Stands](../ai/research/arxiv-2606-14512.md)
   - [For What Reason? Interpreting Models' Encoding of Causation and Antithesis](../ai/research/arxiv-2607-18570.md)
   - [Forbes - Apps on Google Play](../ai/resources/forbes-apps-on-google-play.md)
@@ -22799,7 +22799,6 @@ Resources organized by keyword tags.
   - [VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing](../ai/research/arxiv-2607-22632.md)
   - [VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation](../ai/rag/arxiv-2608-13613.md)
   - [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md)
-  - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
   - [Vulnerability Disclosure Policy | Department of Energy](../ai/rag/vulnerability-disclosure-policy-department-of-ener.md)
   - [WARA: Toward Automated Wireless Optimization Research with Closed-Loop LLM Agents](../ai/agents/arxiv-2608-14573.md)
   - [WHALE: A Scalable Unified Model for Recommendation with Wukong-HSTU Architecture](../ai/research/arxiv-2607-17017.md)
@@ -22979,6 +22978,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -23678,10 +23678,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
 
 ## mdx
 
@@ -50111,4 +50107,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-21T19:03:24.173363+05:30*
+*Index generated on 2026-08-21T22:43:16.956405+05:30*

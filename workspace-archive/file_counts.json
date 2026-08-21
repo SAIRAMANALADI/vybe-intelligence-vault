@@ -1,14 +1,14 @@
 {
-  "total_files": 84657,
+  "total_files": 84654,
   "categories": {
     "agent-frameworks": 3601,
     "agent-instructions": 9,
     "ai-browser-computer-use": 4003,
     "ai-coding-agents": 3503,
     "ai-tools-products": 157,
-    "automation-workflows": 1693,
+    "automation-workflows": 1692,
     "datasets": 12511,
-    "evals-and-benchmarks": 17849,
+    "evals-and-benchmarks": 17848,
     "frontend-ai-ui": 206,
     "guardrails-security": 9807,
     "inference-local-llm": 1244,
@@ -16,7 +16,7 @@
     "learning-paths": 95,
     "llm-app-templates": 266,
     "mcp-registry": 237,
-    "model-providers": 2395,
+    "model-providers": 2394,
     "observability": 1027,
     "project-ideas": 121,
     "prompt-libraries": 170,
@@ -26,5 +26,5 @@
     "vector-databases": 6853,
     "webdev-3d-creative": 136
   },
-  "last_updated": "2026-08-21T19:05:07.900699+05:30"
+  "last_updated": "2026-08-21T22:45:00.819410+05:30"
 }

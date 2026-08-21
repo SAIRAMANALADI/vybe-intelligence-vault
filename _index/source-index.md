@@ -18498,11 +18498,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [A self hosted AI software factory](../ai/community/a-self-hosted-ai-software-factory.md)
+  - [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](../ai/community/ai-boosted-homework-scores-by-18-then-exam-scores.md)
   - [AI companies destroy physical books – let's scan rare books before it's too late](../ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md)
-  - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
-  - [Captain Zilog](../ai/community/captain-zilog.md)
-  - [Flat Chair by Sara Paculdo](../ai/community/flat-chair-by-sara-paculdo.md)
-  - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
+  - [Does whispering to agents in docs help?](../ai/community/does-whispering-to-agents-in-docs-help.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -22319,4 +22318,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-21T19:03:24.410744+05:30*
+*Index generated on 2026-08-21T22:43:17.198797+05:30*

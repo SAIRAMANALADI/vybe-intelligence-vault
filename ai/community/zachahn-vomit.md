@@ -14,13 +14,14 @@ tags:
 - anthropic
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:zachahn/vomit
 first_seen: '2026-08-20T21:21:28.611661+05:30'
 last_seen: '2026-08-21T18:47:14.969600+05:30'
 last_checked: '2026-08-21T18:47:14.969600+05:30'
 health_score: 100
 ---
+
 
 # Vomit: Clean up Claude 5's token output with a separate LLM
 

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-21T22:00:48.618087+05:30`
+Generated at: `2026-08-21T22:45:39.031708+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows** - Score: `83` in category `ai/community` ([Link](https://canews24.online?p=71)) ([File](../ai/community/ai-boosted-homework-scores-by-18-then-exam-scores.md))
+- **Does whispering to agents in docs help?** - Score: `8` in category `ai/community` ([Link](https://passo.uno/if-you-are-an-agent-read-this)) ([File](../ai/community/does-whispering-to-agents-in-docs-help.md))
+- **A self hosted AI software factory** - Score: `4` in category `ai/community` ([Link](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory)) ([File](../ai/community/a-self-hosted-ai-software-factory.md))
 
 ## Top Trending Resources
 
-- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
-- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
-- **fetchai/innovation-lab-examples** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/fetchai-innovation-lab-examples.md))
-- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/docker-compose-for-agents.md))
-- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/langchain-ai-open-swe.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/airweave-ai-airweave.md))
-- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **AI companies destroy physical books – let's scan rare books before it's too late** - Score: `645` (+447), Rank Change: `+1` ([File](../ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md))
+- **FlowiseAI/Flowise** - Score: `0` (0), Rank Change: `+4857` ([File](../ai/rag/flowiseai-flowise.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+997` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+997` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - Score: `0` (0), Rank Change: `+70` ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
+- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - Score: `0` (0), Rank Change: `+70` ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
+- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - Score: `0` (0), Rank Change: `+70` ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
+- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - Score: `0` (0), Rank Change: `+70` ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
+- **Jul 27, 2026AnnouncementsOur position on open-weights models** - Score: `0` (0), Rank Change: `+70` ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
+- **Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations** - Score: `0` (0), Rank Change: `+70` ([File](../ai/companies/anthropic/jul-30-2026investigating-three-real-world-incident.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21575`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9243`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+986`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-09123.md))
+- **FlowiseAI/Flowise** - (Rank Change: `+4857`) ([File](../ai/rag/flowiseai-flowise.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+997`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+997`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - (Rank Change: `+70`) ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
+- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - (Rank Change: `+70`) ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
+- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - (Rank Change: `+70`) ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
+- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - (Rank Change: `+70`) ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
+- **Jul 27, 2026AnnouncementsOur position on open-weights models** - (Rank Change: `+70`) ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
+- **Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations** - (Rank Change: `+70`) ([File](../ai/companies/anthropic/jul-30-2026investigating-three-real-world-incident.md))
+- **Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer** - (Rank Change: `+70`) ([File](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +47,7 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Vomit: Clean up Claude 5's token output with a separate LLM** (Category: `ai/community`) ([File](../ai/community/zachahn-vomit.md))
+- **Anti-AI fonts are useless and harmful** (Category: `ai/community`) ([File](../ai/community/anti-ai-fonts-are-useless-and-harmful.md))
+- **Flat Chair by Sara Paculdo** (Category: `ai/community`) ([File](../ai/community/flat-chair-by-sara-paculdo.md))
+- **Captain Zilog** (Category: `ai/community`) ([File](../ai/community/captain-zilog.md))

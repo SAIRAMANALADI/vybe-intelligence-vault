@@ -13,13 +13,14 @@ collected_at: '2026-08-21T18:47:15.374455+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anti-ai-fonts-are-useless-and-harmful
 first_seen: '2026-08-20T21:21:29.337377+05:30'
 last_seen: '2026-08-21T18:47:15.374455+05:30'
 last_checked: '2026-08-21T18:47:15.374455+05:30'
 health_score: 100
 ---
+
 
 # Anti-AI fonts are useless and harmful
 
