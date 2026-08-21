@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/docker/compose-for-agents
-collected_at: '2026-08-20T12:41:19.728469+05:30'
+collected_at: '2026-08-21T14:37:18.057866+05:30'
 published_at: '2026-08-20T01:35:04Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-05-09T09:20:04Z'
 pushed_at: '2026-06-04T18:15:29Z'
 resource_id: github:docker/compose-for-agents
-first_seen: '2026-08-20T12:41:19.728469+05:30'
-last_seen: '2026-08-20T12:41:19.728469+05:30'
-last_checked: '2026-08-20T12:41:19.728469+05:30'
+first_seen: '2026-08-21T14:37:18.057866+05:30'
+last_seen: '2026-08-21T14:37:18.057866+05:30'
+last_checked: '2026-08-21T14:37:18.057866+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-*   Orchestrates AI agent development and deployment using Docker Compose for containerized environments.
-*   Provides ready-to-use examples integrating open-source LLMs (e.g., `llama-cpp`), agent runtimes, and various tools.
-*   Supports self-hosted agentic workflows, including `openai-gym` environments, through pre-configured service definitions.
+*   Orchestrates multi-container AI agent systems using Docker Compose, providing ready-to-use configurations.
+*   Integrates open-source LLMs (e.g., Llama.cpp), external tools, and agent runtimes for self-hosted agentic workflows.
+*   Offers examples for building and deploying AI agents, including environments compatible with OpenAI Gym.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-17T12:56:35.929193+05:30'
+collected_at: '2026-08-21T14:39:03.243619+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-17T12:56:35.929193+05:30'
-last_seen: '2026-08-17T12:56:35.929193+05:30'
-last_checked: '2026-08-17T12:56:35.929193+05:30'
+first_seen: '2026-08-21T14:39:03.243619+05:30'
+last_seen: '2026-08-21T14:39:03.243619+05:30'
+last_checked: '2026-08-21T14:39:03.243619+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,7 @@ health_score: 100
 
 ## Summary
 
-*   Python-based template demonstrating multi-agent AI collaboration for document processing, analysis, and insight generation.
-*   Orchestrates agents using `autogen`, `crewai`, and `langchain`, supporting `OpenAI` (GPT-3.5/4/5) and `Anthropic` LLMs.
-*   Integrates Retrieval Augmented Generation (RAG) via vector databases including `ChromaDB`, `Pinecone`, and `Weaviate
+*   Implements a multi-agent AI architecture for collaborative RAG, enabling document processing and insight
 
 ## Why It Matters
 

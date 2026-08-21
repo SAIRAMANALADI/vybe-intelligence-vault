@@ -18501,7 +18501,9 @@ Resources organized by publisher feed and query sources.
   - [AI companies destroy physical books – let's scan rare books before it's too late](../ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md)
   - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
   - [Captain Zilog](../ai/community/captain-zilog.md)
+  - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](../ai/community/show-hn-argentic-an-l402-lightning-toll-booth-for.md)
   - [Show HN: Huzzah – a novel approach to coding with AI](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)
+  - [The case against a C alternative (2022)](../ai/community/the-case-against-a-c-alternative-2022.md)
   - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
 
 ## Unknown Source (type: huggingface)
@@ -19357,9 +19359,9 @@ Resources organized by publisher feed and query sources.
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
+  - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
-  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [xlangai/ubuntu_osworld_file_cache](../ai/models/huggingface-datasets-xlangai.md)
 
@@ -22318,4 +22320,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-21T10:47:14.785559+05:30*
+*Index generated on 2026-08-21T14:50:09.467311+05:30*
