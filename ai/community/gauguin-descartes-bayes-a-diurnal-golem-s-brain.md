@@ -13,13 +13,14 @@ collected_at: '2026-08-21T02:22:31.064808+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:gauguin-descartes-bayes-a-diurnal-golem-s-brain
 first_seen: '2026-08-21T02:22:31.064808+05:30'
 last_seen: '2026-08-21T02:22:31.064808+05:30'
 last_checked: '2026-08-21T02:22:31.064808+05:30'
 health_score: 100
 ---
+
 
 # Gauguin, Descartes, Bayes: A Diurnal Golem's Brain
 

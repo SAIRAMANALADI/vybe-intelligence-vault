@@ -4944,7 +4944,8 @@ Resources organized by keyword tags.
 ## ai
 
   - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
-  - [Gauguin, Descartes, Bayes: A Diurnal Golem's Brain](../ai/community/gauguin-descartes-bayes-a-diurnal-golem-s-brain.md)
+  - [Copyright does not protect AI-generated content in EU](../ai/community/copyright-does-not-protect-ai-generated-content-in.md)
+  - [It is a sign of the times that Amazon gets to call this fair use](../ai/community/it-is-a-sign-of-the-times-that-amazon-gets-to-call.md)
   - [Show HN: Huzzah – a novel approach to coding with AI](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)
   - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
 
@@ -20323,6 +20324,7 @@ Resources organized by keyword tags.
   - [Cookies Policies | Linux Foundation](../ai/rag/cookies-policies-linux-foundation.md)
   - [Cookies policy | Magnific](../ai/rag/cookies-policy-magnific.md)
   - [Copyright Tools: Rightsholders and Creators - How YouTube Works](../ai/resources/copyright-tools-rightsholders-and-creators-how-you.md)
+  - [Copyright does not protect AI-generated content in EU](../ai/community/copyright-does-not-protect-ai-generated-content-in.md)
   - [Cornell AI Initiative](../ai/rag/cornell-ai-initiative.md)
   - [Cornell AI4S Initiative – Artificial Intelligence for Sustainability](../ai/resources/cornell-ai4s-initiative-artificial-intelligence-fo.md)
   - [Cornell Students Aid NASA with Drone Safety in Sky - NASA](../ai/agents/cornell-students-aid-nasa-with-drone-safety-in-sky.md)
@@ -20761,7 +20763,6 @@ Resources organized by keyword tags.
   - [Gainsight PX Status](../ai/rag/gainsight-px-status.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
   - [Garbage Collection | Kubernetes](../ai/rag/garbage-collection-kubernetes.md)
-  - [Gauguin, Descartes, Bayes: A Diurnal Golem's Brain](../ai/community/gauguin-descartes-bayes-a-diurnal-golem-s-brain.md)
   - [GeeksforGeeks Hiring Solutions - GeeksforGeeks](../ai/rag/geeksforgeeks-hiring-solutions-geeksforgeeks.md)
   - [GeeksforGeeks Practice - Leading Online Coding Platform - GeeksforGeeks](../ai/resources/geeksforgeeks-practice-leading-online-coding-platf.md)
   - [GeeksforGeeks | Your All-in-One Learning Portal](../ai/resources/geeksforgeeks-your-all-in-one-learning-portal.md)
@@ -21107,6 +21108,7 @@ Resources organized by keyword tags.
   - [Is My Vision-Language Data in Your AI? Membership Inference Test (MINT) Demo 2](../ai/research/arxiv-2606-14748.md)
   - [Iso-Riemannian Optimization on Learned Data Manifolds](../ai/research/arxiv-2510-21033.md)
   - [Isotonic Bradley-Terry Model for Paired Comparison Data](../ai/research/arxiv-2608-02081.md)
+  - [It is a sign of the times that Amazon gets to call this fair use](../ai/community/it-is-a-sign-of-the-times-that-amazon-gets-to-call.md)
   - [Iterative Flow Matching: Path Correction and Gradual Refinement for Enhanced Generative Modeling](../ai/research/arxiv-2502-16445.md)
   - [Iterative Refinement Diffusion for Super-Resolved Data Assimilation of Multiscale Physical Systems](../ai/research/arxiv-2608-14744.md)
   - [JAMS: Mediation, Arbitration and ADR Services](../ai/resources/jams-mediation-arbitration-and-adr-services.md)
@@ -49545,4 +49547,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-21T02:38:35.228912+05:30*
+*Index generated on 2026-08-21T07:49:25.748312+05:30*

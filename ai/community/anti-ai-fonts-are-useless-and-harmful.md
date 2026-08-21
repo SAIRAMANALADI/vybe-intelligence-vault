@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful
 hn_url: https://news.ycombinator.com/item?id=49375719
-score: 69
+score: 117
 author: speckx
-comments_count: 58
+comments_count: 80
 published_at: '2026-08-20T20:36:53+05:30'
-collected_at: '2026-08-21T02:22:30.693447+05:30'
+collected_at: '2026-08-21T07:33:23.870444+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:anti-ai-fonts-are-useless-and-harmful
 first_seen: '2026-08-20T21:21:29.337377+05:30'
-last_seen: '2026-08-21T02:22:30.693447+05:30'
-last_checked: '2026-08-21T02:22:30.693447+05:30'
+last_seen: '2026-08-21T07:33:23.870444+05:30'
+last_checked: '2026-08-21T07:33:23.870444+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by speckx. Score: 69, Comments: 58.
+Hacker News story by speckx. Score: 117, Comments: 80.
 Original Link: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: speckx
-- Score: 69 Upvotes
-- Comments: 58 Discussions
+- Score: 117 Upvotes
+- Comments: 80 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49375719
 - Original Article: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful
 

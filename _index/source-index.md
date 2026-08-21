@@ -18187,7 +18187,8 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Anti-AI fonts are useless and harmful](../ai/community/anti-ai-fonts-are-useless-and-harmful.md)
-  - [Gauguin, Descartes, Bayes: A Diurnal Golem's Brain](../ai/community/gauguin-descartes-bayes-a-diurnal-golem-s-brain.md)
+  - [Copyright does not protect AI-generated content in EU](../ai/community/copyright-does-not-protect-ai-generated-content-in.md)
+  - [It is a sign of the times that Amazon gets to call this fair use](../ai/community/it-is-a-sign-of-the-times-that-amazon-gets-to-call.md)
   - [Show HN: Huzzah – a novel approach to coding with AI](../ai/community/show-hn-huzzah-a-novel-approach-to-coding-with-ai.md)
   - [Show HN: I trained a 125M model to autocomplete piano on-device](../ai/community/show-hn-i-trained-a-125m-model-to-autocomplete-pia.md)
   - [Vomit: Clean up Claude 5's token output with a separate LLM](../ai/community/zachahn-vomit.md)
@@ -22006,4 +22007,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-21T02:38:35.467969+05:30*
+*Index generated on 2026-08-21T07:49:25.982619+05:30*

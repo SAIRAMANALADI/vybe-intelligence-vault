@@ -1,7 +1,7 @@
 {
   "status": "healthy",
-  "last_generated_at": "2026-08-21T02:40:17.243202+05:30",
-  "total_items": 83373,
+  "last_generated_at": "2026-08-21T07:51:07.568116+05:30",
+  "total_items": 83374,
   "category_counts": {
     "ai-coding-agents": 3455,
     "agent-instructions": 9,
@@ -17,7 +17,7 @@
     "vector-databases": 6758,
     "datasets": 12309,
     "prompt-libraries": 167,
-    "automation-workflows": 1674,
+    "automation-workflows": 1675,
     "public-apis": 49,
     "ai-tools-products": 155,
     "ai-browser-computer-use": 3945,
