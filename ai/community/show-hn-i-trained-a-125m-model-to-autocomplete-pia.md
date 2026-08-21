@@ -13,13 +13,14 @@ collected_at: '2026-08-21T07:33:22.596427+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-i-trained-a-125m-model-to-autocomplete-pia
 first_seen: '2026-08-20T18:43:37.299668+05:30'
 last_seen: '2026-08-21T07:33:22.596427+05:30'
 last_checked: '2026-08-21T07:33:22.596427+05:30'
 health_score: 100
 ---
+
 
 # Show HN: I trained a 125M model to autocomplete piano on-device
 

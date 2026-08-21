@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://danielvaughn.dev/posts/huzzah
 hn_url: https://news.ycombinator.com/item?id=49378768
-score: 224
+score: 250
 author: danielvaughn
-comments_count: 127
+comments_count: 141
 published_at: '2026-08-21T00:35:36+05:30'
-collected_at: '2026-08-21T07:33:22.495645+05:30'
+collected_at: '2026-08-21T10:29:59.455928+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:show-hn-huzzah-a-novel-approach-to-coding-with-ai
 first_seen: '2026-08-21T02:22:28.476700+05:30'
-last_seen: '2026-08-21T07:33:22.495645+05:30'
-last_checked: '2026-08-21T07:33:22.495645+05:30'
+last_seen: '2026-08-21T10:29:59.455928+05:30'
+last_checked: '2026-08-21T10:29:59.455928+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by danielvaughn. Score: 224, Comments: 127.
+Hacker News story by danielvaughn. Score: 250, Comments: 141.
 Original Link: https://www.danielvaughn.dev/posts/huzzah/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: danielvaughn
-- Score: 224 Upvotes
-- Comments: 127 Discussions
+- Score: 250 Upvotes
+- Comments: 141 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49378768
 - Original Article: https://danielvaughn.dev/posts/huzzah
 

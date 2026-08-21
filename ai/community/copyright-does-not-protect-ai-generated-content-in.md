@@ -13,13 +13,14 @@ collected_at: '2026-08-21T07:33:20.953582+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:copyright-does-not-protect-ai-generated-content-in
 first_seen: '2026-08-21T07:33:20.953582+05:30'
 last_seen: '2026-08-21T07:33:20.953582+05:30'
 last_checked: '2026-08-21T07:33:20.953582+05:30'
 health_score: 100
 ---
+
 
 # Copyright does not protect AI-generated content in EU
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-21T07:33:21.356872+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:it-is-a-sign-of-the-times-that-amazon-gets-to-call
 first_seen: '2026-08-21T07:33:21.356872+05:30'
 last_seen: '2026-08-21T07:33:21.356872+05:30'
 last_checked: '2026-08-21T07:33:21.356872+05:30'
 health_score: 100
 ---
+
 
 # It is a sign of the times that Amazon gets to call this fair use
 
