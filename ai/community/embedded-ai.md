@@ -13,13 +13,14 @@ collected_at: '2026-08-22T22:16:26.767005+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:embedded-ai
 first_seen: '2026-08-22T22:16:26.767005+05:30'
 last_seen: '2026-08-22T22:16:26.767005+05:30'
 last_checked: '2026-08-22T22:16:26.767005+05:30'
 health_score: 100
 ---
+
 
 # Embedded AI
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-22T22:16:25.438211+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:hook-hold-harvest-and-hide-meta-s-alleged-strategy
 first_seen: '2026-08-22T18:36:26.197926+05:30'
 last_seen: '2026-08-22T22:16:25.438211+05:30'
 last_checked: '2026-08-22T22:16:25.438211+05:30'
 health_score: 100
 ---
+
 
 # Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week
 

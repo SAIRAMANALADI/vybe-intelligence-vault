@@ -13,13 +13,14 @@ collected_at: '2026-08-22T22:16:27.286742+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:early-life-stress-leaves-a-scar-inside-brain-cells
 first_seen: '2026-08-22T10:25:45.553072+05:30'
 last_seen: '2026-08-22T22:16:27.286742+05:30'
 last_checked: '2026-08-22T22:16:27.286742+05:30'
 health_score: 100
 ---
+
 
 # Early-life stress leaves a 'scar' inside brain cells in mice
 

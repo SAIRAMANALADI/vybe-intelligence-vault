@@ -5007,12 +5007,7 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
-  - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
-  - [Embedded AI](../ai/community/embedded-ai.md)
-  - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](../ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)
-  - [How Thailand Resisted Colonization](../ai/community/how-thailand-resisted-colonization.md)
-  - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
+  - [How a Texas student blew the whistle on a rogue AI hacking attempt](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)
 
 ## animation
 
@@ -5090,6 +5085,7 @@ Resources organized by keyword tags.
   - [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../ai/agents/arxiv-2608-12249.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
+  - [Anthropic appears to be A/B testing reduced effort levels in Claude Code](../ai/community/anthropic-appears-to-be-a-b-testing-reduced-effort.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
   - [Argos · Product quality for the age of AI agents](../ai/rag/argos-product-quality-for-the-age-of-ai-agents.md)
@@ -20100,7 +20096,6 @@ Resources organized by keyword tags.
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
-  - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
@@ -20248,6 +20243,7 @@ Resources organized by keyword tags.
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
+  - [Anthropic appears to be A/B testing reduced effort levels in Claude Code](../ai/community/anthropic-appears-to-be-a-b-testing-reduced-effort.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
@@ -20814,7 +20810,6 @@ Resources organized by keyword tags.
   - [EDPS Homepage | European Data Protection Supervisor](../ai/resources/edps-homepage-european-data-protection-supervisor.md)
   - [EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models](../ai/rag/arxiv-2608-13676.md)
   - [EU institutions and bodies profiles | European Union](../ai/resources/eu-institutions-and-bodies-profiles-european-union.md)
-  - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
   - [Earn your first dollar online with Gumroad](../ai/resources/earn-your-first-dollar-online-with-gumroad.md)
   - [Eclipse Projects / AsciiDoc Language / AsciiDoc Language · GitLab](../ai/resources/eclipse-projects-asciidoc-language-asciidoc-langua.md)
   - [Ed1s0nZ/CyberStrikeAI](../ai/agents/ed1s0nz-cyberstrikeai.md)
@@ -20840,7 +20835,6 @@ Resources organized by keyword tags.
   - [Electronic Navigational Chart Change Classification](../ai/rag/arxiv-2608-20218.md)
   - [ElevenLabs - YouTube](../ai/resources/elevenlabs-youtube.md)
   - [Eliciting Intrinsic Hallucinations in LLMs via Semantically Equivalent Adversarial Attacks](../ai/rag/arxiv-2608-04286.md)
-  - [Embedded AI](../ai/community/embedded-ai.md)
   - [EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems](../ai/research/arxiv-2505-00986.md)
   - [Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems](../ai/research/arxiv-2607-03283.md)
   - [Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions](../ai/agents/arxiv-2608-18110.md)
@@ -21270,7 +21264,6 @@ Resources organized by keyword tags.
   - [Home | xoofx](../ai/resources/home-xoofx.md)
   - [Home · Chips Ju](../ai/resources/home-chips-ju.md)
   - [Homepage | MIT CS3](../ai/rag/homepage-mit-cs3.md)
-  - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](../ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)
   - [Host Mattermost on Your Own Infrastructure](../ai/rag/host-mattermost-on-your-own-infrastructure.md)
   - [How Annotation Trains Annotators: Competence Development in Social Influence Recognition](../ai/research/arxiv-2604-02951.md)
   - [How Anthropic teams use Claude Code | Claude by Anthropic](../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md)
@@ -21282,9 +21275,9 @@ Resources organized by keyword tags.
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
   - [How ServiceNow uses LangSmith to get visibility into its customer success agents](../ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md)
-  - [How Thailand Resisted Colonization](../ai/community/how-thailand-resisted-colonization.md)
   - [How We Handle Ads, Funding, and Data Security - Google - About Google](../ai/resources/how-we-handle-ads-funding-and-data-security-google.md)
   - [How YouTube Works: Giving Everyone a Voice](../ai/resources/how-youtube-works-giving-everyone-a-voice.md)
+  - [How a Texas student blew the whistle on a rogue AI hacking attempt](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)
   - [How building an HTML-first site doubled our users overnight](../ai/rag/how-building-an-html-first-site-doubled-our-users.md)
   - [How do we ensure our IoT products process information lawfully? | ICO](../ai/rag/how-do-we-ensure-our-iot-products-process-informat.md)
   - [How personalized ads work - Android - My Ad Center Help](../ai/rag/how-personalized-ads-work-android-my-ad-center-hel.md)
@@ -21311,7 +21304,6 @@ Resources organized by keyword tags.
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
-  - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
@@ -21914,6 +21906,7 @@ Resources organized by keyword tags.
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Patch-Based 3D Variational Autoencoder for Super-Resolution of Turbulent Channel Flow](../ai/rag/arxiv-2507-22082.md)
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
@@ -22869,6 +22862,7 @@ Resources organized by keyword tags.
   - [Why Git Is the Memory Solution for the Agentic Development Lifecycle](../ai/agents/arxiv-2607-14390.md)
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
+  - [Why your local LLM feels dumber than it is](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
   - [Wikifunctions](../ai/resources/wikifunctions.md)
@@ -22980,6 +22974,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -23679,6 +23674,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [Why your local LLM feels dumber than it is](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md)
 
 ## mdx
 
@@ -50110,4 +50109,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-22T22:32:27.834181+05:30*
+*Index generated on 2026-08-23T02:31:50.254879+05:30*

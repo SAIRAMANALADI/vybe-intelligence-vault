@@ -18498,12 +18498,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
-  - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
-  - [Embedded AI](../ai/community/embedded-ai.md)
-  - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](../ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)
-  - [How Thailand Resisted Colonization](../ai/community/how-thailand-resisted-colonization.md)
-  - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
+  - [Anthropic appears to be A/B testing reduced effort levels in Claude Code](../ai/community/anthropic-appears-to-be-a-b-testing-reduced-effort.md)
+  - [How a Texas student blew the whistle on a rogue AI hacking attempt](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)
+  - [Why your local LLM feels dumber than it is](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -22320,4 +22317,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-22T22:32:28.071162+05:30*
+*Index generated on 2026-08-23T02:31:50.446349+05:30*

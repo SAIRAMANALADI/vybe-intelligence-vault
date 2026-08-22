@@ -30030,11 +30030,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
-* **[AI boosted homework scores, then exam scores dropped: study](ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dash2. Score: 355, Comments: 352. Original Link: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning>
-
 * **[AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)** (`framework` | `useful` tier)
   * Summary: - **Multi-format & multimodal parsing**: Supports 90+ document formats (PDFs, invoices, healthcare forms, etc.) with layout-aware OCR, table/chart extraction, handwriting recognition, and checkbox detection for high-fidelity markdown conversion. - **
   * Tags: `benchmark`, `hackernews`, `meta-ai`, `models`, `paper`, `rag`, `scripts`, `web-crawled`, `workflows`
@@ -30159,6 +30154,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2603.07053v4 Announce Type: replace Abstract: Scientists face significant visualization challenges as time-varying datasets grow in speed and volume, often requiring specialized infrastructure and expertise to handle massive datasets. Petascale
   * Tags: `dataset`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2603.07053>
+
+* **[Anthropic appears to be A/B testing reduced effort levels in Claude Code](ai/community/anthropic-appears-to-be-a-b-testing-reduced-effort.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by matthieu_bl. Score: 98, Comments: 105. Original Link: https://twitter.com/argofowl/status/2091150597374537729
+  * Tags: `anthropic`, `hackernews`
+  * Source URL: <https://twitter.com/argofowl/status/2091150597374537729>
 
 * **[Antora](ai/resources/antora.md)** (`tutorial` | `useful` tier)
   * Summary: - **Multi-repository aggregation**: Antora retrieves and aggregates AsciiDoc documentation from one or more Git repositories (local, remote, private, or public), supporting versioning via branches and ignoring non-published branches, enabling decentr
@@ -31120,11 +31120,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16985>
 
-* **[Early-life stress leaves a 'scar' inside brain cells in mice](ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by gmays. Score: 124, Comments: 57. Original Link: https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells>
-
 * **[Earn your first dollar online with Gumroad](ai/resources/earn-your-first-dollar-online-with-gumroad.md)** (`template` | `useful` tier)
   * Summary: - **Multi-format monetization**: Supports one-time, recurring, and fixed-length payments with automated workflows, enabling sales of video lessons, subscriptions, digital products, and more across diverse categories (e.g., Procreate brushes, Notion t
   * Tags: `hackernews`, `producthunt`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
@@ -31169,11 +31164,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **TypeScript-based Agentic OS**: Open-source framework (`elizaOS/eliza`) enabling autonomous AI agents with support for plugins, RAG, and multi-platform integration (Discord, Slack, Telegram, etc.). - **Swarm & Crypto Integration**: Designed for de
   * Tags: `agents`, `github-repo`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/elizaOS/eliza>
-
-* **[Embedded AI](ai/community/embedded-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by 0x54MUR41. Score: 19, Comments: 9. Original Link: https://nostarch.com/embedded-ai
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://nostarch.com/embedded-ai>
 
 * **[Embedded Machine Learning for Microcontroller-Class Edge Devices: Data, Feature, Evaluation, and Deployment Pipelines](ai/research/arxiv-2606-18122.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18122v1 Announce Type: new Abstract: Embedded machine learning moves inference from cloud services to resource-constrained devices that must acquire data, preprocess signals, run a model, and act within tight limits on memory, energy, and
@@ -31955,10 +31945,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `creative_dev`, `deepmind`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://developers.googleblog.com>
 
-* **[Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sbulaev. Score: 148, Comments: 100. Original Link: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy
+* **[How a Texas student blew the whistle on a rogue AI hacking attempt](ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by olalonde. Score: 54, Comments: 4. Original Link: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
   * Tags: `ai`, `hackernews`
-  * Source URL: <https://theguardian.com/technology/2026/aug/22/meta-trial-children-privacy>
+  * Source URL: <https://reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20>
 
 * **[How Do VLMs Behave When Blind or Misled? Behavioral Evaluation of VLMs on Scientific Figures](ai/research/arxiv-2608-13267.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.13267v1 Announce Type: cross Abstract: Existing vision-language model (VLM) benchmarks emphasize perception and reasoning accuracy (how well VLMs describe and reason about what they see in an image), with limited attention to behavioral re
@@ -31994,11 +31984,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Multi-agent orchestration**: ServiceNow implemented a LangGraph-based supervisor agent system with specialized subagents for lead qualification, opportunity discovery, economic buyer identification, onboarding, adoption tracking, renewal/expansio
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `producthunt`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://blog.langchain.com/customers-servicenow/>
-
-* **[How Thailand Resisted Colonization](ai/community/how-thailand-resisted-colonization.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by karakoram. Score: 91, Comments: 31. Original Link: https://worksinprogress.co/issue/how-thailand-resisted-colonization/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://worksinprogress.co/issue/how-thailand-resisted-colonization>
 
 * **[How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](ai/rag/how-to-build-a-voice-agent-with-rag-and-safety-gua.md)** (`dataset` | `useful` tier)
   * Summary: - **Multimodal RAG Pipeline**: Uses NVIDIA Nemotron models (`llama-nemotron-embed-vl-1b-v2`, `llama-nemotron-rerank-vl-1b-v2`) for embedding and reranking text/images, enabling semantic search over multimodal enterprise data with 6-7% accuracy improv
@@ -32045,18 +32030,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.23983>
 
-* **[I'm becoming AI-blind](ai/community/i-m-becoming-ai-blind.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rcymerys. Score: 451, Comments: 459. Original Link: https://cymerys.com/w/im-becoming-ai-blind
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://cymerys.com/w/im-becoming-ai-blind>
-
 * **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](ai/research/arxiv-2606-11722.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11722v1 Announce Type: new Abstract: Finding interpretable directions in language-model representations is critical for understanding and controlling model behavior. Sparse autoencoders (SAEs) have become the standard tool for this purpose
   * Tags: `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.11722>
 
-* **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`workflow` | `useful` tier)
-  * Summary: * Python-based repository for a GitHub Classroom RAG workflow assignment (`rag1-
+* **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`benchmark` | `useful` tier)
+  * Summary: * Python-based repository implementing a Retrieval-Augmented Generation (RAG) workflow.
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
@@ -34603,6 +34583,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Scalability Limitations**: Spreadsheets lack enforced rules, workflows, permissions, and audit trails, leading to version conflicts, manual errors, and siloed data as teams grow beyond 10–20 users. - **Performance Bottlenecks**: High-growth teams
   * Tags: `frontend_ui`, `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://blog.beezwax.net/why-fast-growing-teams-outgrow-spreadsheets>
+
+* **[Why your local LLM feels dumber than it is](ai/community/why-your-local-llm-feels-dumber-than-it-is.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by felineflock. Score: 25, Comments: 7. Original Link: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917>
 
 * **[Wikimedia Commons](ai/rag/wikimedia-commons.md)** (`tutorial` | `useful` tier)
   * Summary: - **Wikimedia Commons** is a free media repository hosting **143,411,315** files (images, videos, sounds, 3D models) under open licenses, enabling public contribution and reuse via structured data and API endpoints (e.g., `featuredfeed` for syndicati
@@ -68640,8 +68625,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.02844>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus for identifying and analyzing hallucinations within Retrieval-Augmented Language Models (RAGs). * Provides a dataset for benchmarking and developing methods to mitigate generative factual inconsistencies in
-  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
+  * Summary: * Introduces RAGTruth, a specialized hallucination corpus designed for the evaluation and development of Retrieval-Augmented Language Models (RAGs). * Provides a structured dataset to benchmark RAG system trustworthiness by quantifying factual incons
+  * Tags: `benchmark`, `dataset`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](ai/research/arxiv-2602-00511.md)** (`framework` | `useful` tier)
@@ -87710,6 +87695,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `leaderboard`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://datahack.analyticsvidhya.com/?ref=global_footer>
 
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive tutorial series on Large Language Model (LLM) application development. *
+  * Tags: `github-repo`, `jupyter notebook`, `rag`
+  * Source URL: <https://github.com/datawhalechina/llm-universe>
+
 * **[Design Methodology and Performance Trade-offs Management for Distributed and Compound AI Systems](ai/research/arxiv-2606-14350.md)** (`tutorial` | `useful` tier)
   * Summary: arXiv:2606.14350v1 Announce Type: cross Abstract: Artificial Intelligence (AI) systems must typically satisfy service-level objectives including accuracy, latency, and cost. The prevailing model-centric approaches select a monolithic model at design
   * Tags: `hackernews`, `workflows`
@@ -92660,7 +92650,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3415, Downloads: 36157038)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3417, Downloads: 36157038)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -95314,20 +95304,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive full-stack guide for Retrieval-Augmented Generation (RAG) system development.
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive full-stack guide for RAG-based LLM application development, detailing architectural patterns and implementation strategies. * Explores integration of diverse RAG components, including vector databases (Milvus), graph databases (Neo4j)
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
   * Summary: - **Repository Overview**: GitHub repository `datawhalechina/hello-agents` provides a comprehensive tutorial (`《从零开始构建智能体》`) on building AI agents from scratch, covering principles and practical implementations. - **Technical Scope**: Focuses on agen
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
-
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Offers practical tutorials for large language model (LLM) application development. * Focuses on LangChain framework and Retrieval-Augmented Generation (RAG) architectures. * Content is delivered as executable Jupyter Notebooks.
-  * Tags: `github-repo`, `jupyter notebook`, `rag`
-  * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
   * Summary: - **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments. - **Tutorial Integration**: Pro
