@@ -5009,6 +5009,8 @@ Resources organized by keyword tags.
 
   - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
   - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
+  - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](../ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)
+  - [How Thailand Resisted Colonization](../ai/community/how-thailand-resisted-colonization.md)
   - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
 
 ## animation
@@ -18261,7 +18263,6 @@ Resources organized by keyword tags.
   - [[2412.02186] VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding](../ai/rag/arxiv-2412-02186.md)
   - [[2510.08847] What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment](../ai/rag/arxiv-2510-08847.md)
   - [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](../ai/models/huggingface-blog-lerobot-datasets-v3.md)
-  - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
@@ -18288,6 +18289,7 @@ Resources organized by keyword tags.
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../ai/rag/arxiv-2512-06143.md)
   - [greensock/gsap-skills](../ai/agents/greensock-gsap-skills.md)
+  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [hkunlp/instructor-large · Hugging Face](../ai/rag/huggingface-hkunlp-instructor-large.md)
   - [huggingface/datasets](../ai/resources/huggingface-datasets.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
@@ -21266,6 +21268,7 @@ Resources organized by keyword tags.
   - [Home | xoofx](../ai/resources/home-xoofx.md)
   - [Home · Chips Ju](../ai/resources/home-chips-ju.md)
   - [Homepage | MIT CS3](../ai/rag/homepage-mit-cs3.md)
+  - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](../ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)
   - [Host Mattermost on Your Own Infrastructure](../ai/rag/host-mattermost-on-your-own-infrastructure.md)
   - [How Annotation Trains Annotators: Competence Development in Social Influence Recognition](../ai/research/arxiv-2604-02951.md)
   - [How Anthropic teams use Claude Code | Claude by Anthropic](../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md)
@@ -21277,6 +21280,7 @@ Resources organized by keyword tags.
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
   - [How ServiceNow uses LangSmith to get visibility into its customer success agents](../ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md)
+  - [How Thailand Resisted Colonization](../ai/community/how-thailand-resisted-colonization.md)
   - [How We Handle Ads, Funding, and Data Security - Google - About Google](../ai/resources/how-we-handle-ads-funding-and-data-security-google.md)
   - [How YouTube Works: Giving Everyone a Voice](../ai/resources/how-youtube-works-giving-everyone-a-voice.md)
   - [How building an HTML-first site doubled our users overnight](../ai/rag/how-building-an-html-first-site-doubled-our-users.md)
@@ -22974,6 +22978,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -23193,9 +23198,9 @@ Resources organized by keyword tags.
   - [IPEC-COMMUNITY/language_table_lerobot](../ai/models/huggingface-datasets-ipec-community.md)
   - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
-  - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
+  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
@@ -23256,7 +23261,6 @@ Resources organized by keyword tags.
   - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Kwai-Kolors/Kolors-Virtual-Try-On](../ai/models/huggingface-spaces-kwai-kolors.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
-  - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
@@ -23267,6 +23271,7 @@ Resources organized by keyword tags.
   - [facebook/MusicGen](../ai/models/huggingface-spaces-facebook.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
+  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [jbilcke-hf/ai-comic-factory](../ai/models/huggingface-spaces-jbilcke-hf.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
@@ -50105,4 +50110,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-22T14:39:41.870196+05:30*
+*Index generated on 2026-08-22T18:52:28.381971+05:30*

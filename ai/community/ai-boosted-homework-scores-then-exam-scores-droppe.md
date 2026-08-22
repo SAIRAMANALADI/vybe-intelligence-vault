@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
 hn_url: https://news.ycombinator.com/item?id=49357530
-score: 300
+score: 327
 author: dash2
-comments_count: 316
+comments_count: 334
 published_at: '2026-08-19T11:43:31+05:30'
-collected_at: '2026-08-22T14:23:33.059200+05:30'
+collected_at: '2026-08-22T18:36:27.262250+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-boosted-homework-scores-then-exam-scores-droppe
 first_seen: '2026-08-22T02:15:32.615849+05:30'
-last_seen: '2026-08-22T14:23:33.059200+05:30'
-last_checked: '2026-08-22T14:23:33.059200+05:30'
+last_seen: '2026-08-22T18:36:27.262250+05:30'
+last_checked: '2026-08-22T18:36:27.262250+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by dash2. Score: 300, Comments: 316.
+Hacker News story by dash2. Score: 327, Comments: 334.
 Original Link: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: dash2
-- Score: 300 Upvotes
-- Comments: 316 Discussions
+- Score: 327 Upvotes
+- Comments: 334 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49357530
 - Original Article: https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
 

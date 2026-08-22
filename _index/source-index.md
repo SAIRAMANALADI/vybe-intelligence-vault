@@ -18500,6 +18500,8 @@ Resources organized by publisher feed and query sources.
 
   - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
   - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
+  - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](../ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)
+  - [How Thailand Resisted Colonization](../ai/community/how-thailand-resisted-colonization.md)
   - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
 
 ## Unknown Source (type: huggingface)
@@ -19354,9 +19356,9 @@ Resources organized by publisher feed and query sources.
   - [IPEC-COMMUNITY/language_table_lerobot](../ai/models/huggingface-datasets-ipec-community.md)
   - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
-  - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
+  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
@@ -22317,4 +22319,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-22T14:39:42.114631+05:30*
+*Index generated on 2026-08-22T18:52:28.621699+05:30*
