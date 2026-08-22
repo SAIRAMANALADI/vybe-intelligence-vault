@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-22T07:43:03.684474+05:30`
+Generated at: `2026-08-22T10:03:17.424408+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Show HN: OzBrain, a shared brain for knowledge between agents and your team** - Score: `38` in category `ai/community` ([Link](https://ozbrain.com)) ([File](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **I'm becoming AI-blind** - Score: `270` (+98), Rank Change: `0` ([File](../ai/community/i-m-becoming-ai-blind.md))
-- **AI boosted homework scores, then exam scores dropped: study** - Score: `235` (+93), Rank Change: `0` ([File](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+988` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+998` ([File](../ai/rag/malonge-ragoo.md))
-- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - Score: `0` (0), Rank Change: `+100` ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
-- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - Score: `0` (0), Rank Change: `+100` ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
-- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - Score: `0` (0), Rank Change: `+100` ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
-- **Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients** - Score: `0` (0), Rank Change: `+100` ([File](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md))
-- **Jul 27, 2026AnnouncementsOur position on open-weights models** - Score: `0` (0), Rank Change: `+100` ([File](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md))
-- **Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations** - Score: `0` (0), Rank Change: `+100` ([File](../ai/companies/anthropic/jul-30-2026investigating-three-real-world-incident.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **FlowiseAI/Flowise** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/flowiseai-flowise.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
+- **fetchai/innovation-lab-examples** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/fetchai-innovation-lab-examples.md))
+- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/docker-compose-for-agents.md))
+- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/huangjia2019-ai-agents.md))
+- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/langchain-ai-open-swe.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **malonge/RaGOO** - (Rank Change: `+998`) ([File](../ai/rag/malonge-ragoo.md))
-- **raganwald/raganwald.github.com** - (Rank Change: `+988`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **Applied AI** - (Rank Change: `+843`) ([File](../ai/companies/openai/applied-ai.md))
-- **AI Adoption** - (Rank Change: `+843`) ([File](../ai/companies/openai/ai-adoption.md))
-- **Global Affairs** - (Rank Change: `+843`) ([File](../ai/companies/openai/global-affairs.md))
-- **AI Futures** - (Rank Change: `+843`) ([File](../ai/companies/openai/ai-futures.md))
-- **Engineering** - (Rank Change: `+843`) ([File](../ai/companies/openai/engineering.md))
-- **Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action** - (Rank Change: `+100`) ([File](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md))
-- **Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index** - (Rank Change: `+100`) ([File](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md))
-- **Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund** - (Rank Change: `+100`) ([File](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21574`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9243`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+986`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
