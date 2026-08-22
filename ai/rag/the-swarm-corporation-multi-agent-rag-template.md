@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-08-21T14:39:03.243619+05:30'
+collected_at: '2026-08-22T14:28:28.747593+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 59
 language: Python
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-08-21T14:39:03.243619+05:30'
-last_seen: '2026-08-21T14:39:03.243619+05:30'
-last_checked: '2026-08-21T14:39:03.243619+05:30'
+first_seen: '2026-08-22T14:28:28.747593+05:30'
+last_seen: '2026-08-22T14:28:28.747593+05:30'
+last_checked: '2026-08-22T14:28:28.747593+05:30'
 health_score: 100
 ---
 
@@ -31,7 +32,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a multi-agent AI architecture for collaborative RAG, enabling document processing and insight
+*   Python-based multi-agent RAG template orchestrating collaborative AI teams (AutoGen, CrewAI, Swarms) for document processing and insight generation.
+*   Integrates diverse LLMs (GPT-3.5/4/5, Anthropic) with vector databases (ChromaDB, Pinecone, Weaviate) via LangChain for advanced retrieval.
+*   Facilitates scalable, orchestrated AI workflows for complex document analysis and synthesis through agent-based task decomposition.
 
 ## Why It Matters
 

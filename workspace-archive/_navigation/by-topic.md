@@ -3,7 +3,7 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Agentic AI Development
 
-- **[AI Coding Agents](../ai-coding-agents/README.md)** (3502 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
+- **[AI Coding Agents](../ai-coding-agents/README.md)** (3503 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
 - **[Agent Instructions](../agent-instructions/README.md)** (9 files): Repository instruction files and coding-agent rule formats such as AGENTS.md, CLAUDE.md, cursor rules, and copilot instructions.
 - **[MCP Registry](../mcp-registry/README.md)** (237 files): Public MCP server registries, MCP server metadata, MCP tool directories, and MCP integration guidance.
 - **[Agent Frameworks](../agent-frameworks/README.md)** (3600 files): Frameworks and examples for tool calling, agent orchestration, and multi-agent systems.
@@ -11,22 +11,22 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Retrieval & Knowledge Stack (RAG)
 
-- **[RAG Systems](../rag-systems/README.md)** (18544 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
-- **[Vector Databases](../vector-databases/README.md)** (6853 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
+- **[RAG Systems](../rag-systems/README.md)** (18545 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
+- **[Vector Databases](../vector-databases/README.md)** (6854 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
 - **[Datasets](../datasets/README.md)** (12511 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
 
 ## LLMOps, Evals & Model Infrastructure
 
-- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (17846 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
+- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (17848 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (1027 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (9808 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
-- **[Model Providers](../model-providers/README.md)** (2394 files): Public metadata and documentation links for model APIs and provider ecosystems.
-- **[Inference and Local LLM](../inference-local-llm/README.md)** (1244 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
+- **[Model Providers](../model-providers/README.md)** (2393 files): Public metadata and documentation links for model APIs and provider ecosystems.
+- **[Inference and Local LLM](../inference-local-llm/README.md)** (1243 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
 
 ## Prompt Libraries & Automation Workflows
 
 - **[Prompt Libraries](../prompt-libraries/README.md)** (170 files): System prompts, agent prompts, coding prompts, prompt templates, role prompts, and prompt engineering examples.
-- **[Automation Workflows](../automation-workflows/README.md)** (1692 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
+- **[Automation Workflows](../automation-workflows/README.md)** (1691 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
 - **[Public APIs](../public-apis/README.md)** (49 files): Public API directories, useful APIs for AI apps, no-auth APIs, dev APIs, and API examples.
 - **[AI Tools and Products](../ai-tools-products/README.md)** (157 files): AI tools, product directories, launch directories, open-source AI products, productivity tools, and developer tooling.
 
@@ -34,7 +34,7 @@ This index groups the workspace archive categories into high-level thematic clus
 
 - **[Frontend AI UI](../frontend-ai-ui/README.md)** (206 files): AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems.
 - **[Webdev 3D Creative](../webdev-3d-creative/README.md)** (136 files): Three.js, React Three Fiber, WebGL, WebGPU, shaders, Spline, GLTF/GLB, Blender-to-web, and creative coding.
-- **[LLM App Templates](../llm-app-templates/README.md)** (266 files): Runnable AI app templates, agent apps, RAG starters, chat apps, FastAPI examples, and Next.js AI templates.
+- **[LLM App Templates](../llm-app-templates/README.md)** (267 files): Runnable AI app templates, agent apps, RAG starters, chat apps, FastAPI examples, and Next.js AI templates.
 
 ## Career Track & Startup Engineering
 
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (173 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-08-22 10:43 IST*
+*Last updated: 2026-08-22 14:41 IST*

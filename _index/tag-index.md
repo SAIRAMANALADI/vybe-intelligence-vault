@@ -3740,7 +3740,6 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
-  - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
@@ -5011,7 +5010,6 @@ Resources organized by keyword tags.
   - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
   - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
   - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
-  - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)
 
 ## animation
 
@@ -18326,6 +18324,7 @@ Resources organized by keyword tags.
   - [scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering](../ai/research/arxiv-2606-18672.md)
   - [scMIR: a vision-language foundation model for single-cell light microscopy image representation](../ai/research/arxiv-2607-22712.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
+  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu](../ai/rag/huggingface-sentence-transformers.md)
   - [sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub](../ai/resources/ukplab-sentence-transformers.md)
   - [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md)
@@ -22322,7 +22321,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -22597,7 +22595,6 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
-  - [The-Swarm-Corporation/Multi-Agent-Template-App](../ai/agents/the-swarm-corporation-multi-agent-template-app.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
@@ -23155,7 +23152,6 @@ Resources organized by keyword tags.
   - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
-  - [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
   - [weaviate/weaviate](../ai/rag/weaviate-weaviate.md)
   - [web.dev](../ai/resources/web-dev.md)
@@ -23209,13 +23205,13 @@ Resources organized by keyword tags.
 
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
-  - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
   - [lpiccinelli/unidepth-v2-vitl14](../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
+  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
 
 ## hf-space
@@ -23259,7 +23255,6 @@ Resources organized by keyword tags.
   - [IPEC-COMMUNITY/language_table_lerobot](../ai/models/huggingface-datasets-ipec-community.md)
   - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Kwai-Kolors/Kolors-Virtual-Try-On](../ai/models/huggingface-spaces-kwai-kolors.md)
-  - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
@@ -23280,6 +23275,7 @@ Resources organized by keyword tags.
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
+  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
   - [xlangai/ubuntu_osworld_file_cache](../ai/models/huggingface-datasets-xlangai.md)
 
@@ -27876,6 +27872,7 @@ Resources organized by keyword tags.
   - [SwiftRepertoire: Few-Shot Immune-Signature Synthesis via Dynamic Kernel Codes](../ai/research/arxiv-2602-01051.md)
   - [SwinIFS: Landmark Guided Swin Transformer For Identity Preserving Face Super Resolution](../ai/research/arxiv-2601-01406.md)
   - [Sycophancy as Material Failure under Pushback Loading: A Multi-Axis Characterization Across Three Loading Cases and up to Seventeen Material Charges](../ai/rag/arxiv-2606-16617.md)
+  - [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md)
   - [Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups](../ai/research/arxiv-2607-27232.md)
   - [SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection](../ai/research/arxiv-2604-26633.md)
   - [SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents](../ai/agents/arxiv-2608-12429.md)
@@ -40519,6 +40516,7 @@ Resources organized by keyword tags.
   - [scotthavird/crewai-template](../ai/rag/scotthavird-crewai-template.md)
   - [semantic-mediawiki.org](../ai/rag/semantic-mediawiki-org.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
+  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu](../ai/rag/huggingface-sentence-transformers.md)
   - [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
@@ -42705,6 +42703,7 @@ Resources organized by keyword tags.
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
   - [The latest on DevSecOps - The GitHub Blog](../ai/rag/the-latest-on-devsecops-the-github-blog.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
+  - [The-Swarm-Corporation/Multi-Agent-Template-App](../ai/agents/the-swarm-corporation-multi-agent-template-app.md)
   - [Third party applications | PeerTube documentation](../ai/resources/third-party-applications-peertube-documentation.md)
   - [Tim Kadlec](../ai/rag/tim-kadlec.md)
   - [Tongyi-MAI/MAI-UI](../ai/rag/tongyi-mai-mai-ui.md)
@@ -47495,6 +47494,7 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The xAI Platform for OCI Generative AI](../ai/agents/the-xai-platform-for-oci-generative-ai.md)
   - [The-Pocket/PocketFlow-Template-Python](../ai/agents/the-pocket-pocketflow-template-python.md)
+  - [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md)
   - [Think Before You Grid-Search: Floor-First Triage for LLM Serving](../ai/agents/arxiv-2607-05876.md)
   - [Three-Phase Evaluation of AI-Assisted Software Development Life Cycle](../ai/research/arxiv-2607-05125.md)
   - [TiTiler](../ai/rag/titiler.md)
@@ -47827,7 +47827,6 @@ Resources organized by keyword tags.
   - [vitejs/vite](../ai/rag/vitejs-vite.md)
   - [volcengine/OpenViking](../ai/rag/volcengine-openviking.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
-  - [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
   - [yzhao062/pyod](../ai/rag/yzhao062-pyod.md)
   - [zilliztech/deep-searcher](../ai/rag/zilliztech-deep-searcher.md)
   - [zilliztech/vts](../ai/rag/zilliztech-vts.md)
@@ -50106,4 +50105,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-22T10:41:47.890910+05:30*
+*Index generated on 2026-08-22T14:39:41.870196+05:30*

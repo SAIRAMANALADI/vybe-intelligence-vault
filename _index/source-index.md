@@ -18501,7 +18501,6 @@ Resources organized by publisher feed and query sources.
   - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
   - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
   - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
-  - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -19367,13 +19366,13 @@ Resources organized by publisher feed and query sources.
 
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
-  - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
   - [lpiccinelli/unidepth-v2-vitl14](../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
+  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
 
 ## Unknown Source (type: huggingface_space)
@@ -22318,4 +22317,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-22T10:41:48.136612+05:30*
+*Index generated on 2026-08-22T14:39:42.114631+05:30*

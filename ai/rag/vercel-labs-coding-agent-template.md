@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-08-14T13:31:12.945105+05:30'
-published_at: '2026-08-13T20:10:48Z'
+collected_at: '2026-08-22T14:26:33.529728+05:30'
+published_at: '2026-08-22T05:24:19Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 1762
+stars: 1765
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-07-30T00:17:35Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-08-14T13:31:12.945105+05:30'
-last_seen: '2026-08-14T13:31:12.945105+05:30'
-last_checked: '2026-08-14T13:31:12.945105+05:30'
+first_seen: '2026-08-22T14:26:33.529728+05:30'
+last_seen: '2026-08-22T14:26:33.529728+05:30'
+last_checked: '2026-08-22T14:26:33.529728+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,8 @@ health_score: 100
 
 ## Summary
 
-*   Orchestrates a multi-agent AI system for automated code generation and manipulation.
-*   Leverages Vercel Sandbox for secure, isolated execution environments for agent operations.
-*   Integrates Vercel AI Gateway to manage and proxy AI model interactions for agent intelligence.
+*   Multi-agent AI coding platform.
+*   Leverages Vercel
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1762
-- Forks: 292
+- Stars: 1765
+- Forks: 295
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-13T20:10:48Z
+- Last Updated: 2026-08-22T05:24:19Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z
