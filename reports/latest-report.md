@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-22T02:33:31.083754+05:30`
+Generated at: `2026-08-22T06:21:22.822308+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **I'm becoming AI-blind** - Score: `172` in category `ai/community` ([Link](https://cymerys.com/w/im-becoming-ai-blind)) ([File](../ai/community/i-m-becoming-ai-blind.md))
-- **AI boosted homework scores, then exam scores dropped: study** - Score: `142` in category `ai/community` ([Link](https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)) ([File](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1003` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/computer-vision.md))
-- **Audio & acoustics** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/audio-acoustics.md))
-- **Artificial intelligence** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/artificial-intelligence.md))
+- **FlowiseAI/Flowise** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/flowiseai-flowise.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
+- **fetchai/innovation-lab-examples** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/fetchai-innovation-lab-examples.md))
+- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/docker-compose-for-agents.md))
+- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/huangjia2019-ai-agents.md))
+- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/langchain-ai-open-swe.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/airweave-ai-airweave.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **datawhalechina/all-in-rag** - (Rank Change: `+1003`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Qwen/Qwen3-0.6B** - (Rank Change: `+19`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
-- **lpiccinelli/unidepth-v2-vitl14** - (Rank Change: `+19`) ([File](../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md))
-- **BAAI/bge-m3** - (Rank Change: `+19`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
-- **amazon/chronos-2** - (Rank Change: `+19`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
-- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+19`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
-- **google/electra-base-discriminator** - (Rank Change: `+19`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
-- **BAAI/bge-small-en-v1.5** - (Rank Change: `+19`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
-- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+19`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
-- **google-bert/bert-base-uncased** - (Rank Change: `+19`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21574`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9243`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+986`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **AI companies destroy physical books – let's scan rare books before it's too late** (Category: `ai/community`) ([File](../ai/community/ai-companies-destroy-physical-books-let-s-scan-rar.md))
-- **AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows** (Category: `ai/community`) ([File](../ai/community/ai-boosted-homework-scores-by-18-then-exam-scores.md))
-- **Does whispering to agents in docs help?** (Category: `ai/community`) ([File](../ai/community/does-whispering-to-agents-in-docs-help.md))
-- **A self hosted AI software factory** (Category: `ai/community`) ([File](../ai/community/a-self-hosted-ai-software-factory.md))
+No recently active resources transitioned to inactive.
+
