@@ -7074,11 +7074,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `web-crawled`
   * Source URL: <https://boosterobotics.medium.com/booster-robotics-becomes-robocups-official-partner-e7f23ed4a639>
 
-* **[Bootstrap Theory of Representational Emergence (TBER): Explanatory Insufficiency, Transition Regimes, and the Emergence of New Representational Levels](ai/research/arxiv-2606-07303.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2606.07303v4 Announce Type: replace Abstract: Representation learning is central to modern machine learning, yet most research focuses on optimizing representations after a framework has been selected. The Bootstrap Theory of Representational E
-  * Tags: `agents`
-  * Source URL: <https://arxiv.org/abs/2606.07303>
-
 * **[Boundary Degree as a Node-level Feature for Epidemic Scenario Identification in Agent-based Cascade Simulations](ai/agents/arxiv-2606-29596.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.29596v2 Announce Type: replace-cross Abstract: Characterizing the scenario underlying an epidemic from its disease cascade is an important task in simulation analytics. We propose boundary degree, the count of an infected node's contacts i
   * Tags: `agents`
@@ -21196,7 +21191,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App>
 
 * **[TheAgentCompany/TheAgentCompany](ai/agents/theagentcompany-theagentcompany.md)** (`framework` | `useful` tier)
-  * Summary: * Python-based benchmark suite for evaluating AI agents in a simulated software company environment. * Features tasks designed to assess LLM and general AI agent performance within a multi-agent operational context. * Aims to provide a standardized e
+  * Summary: * Python-based benchmark for evaluating AI agents within a simulated software company environment. * Provides a structured framework for assessing agent performance on complex, multi-task scenarios. * Focuses on AI research, specifically benchmarking
   * Tags: `agents`, `benchmark`, `github-repo`, `python`
   * Source URL: <https://github.com/TheAgentCompany/TheAgentCompany>
 
@@ -30031,7 +30026,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
 * **[AI boosted homework scores, then exam scores dropped: study](ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dash2. Score: 235, Comments: 290. Original Link: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
+  * Summary: Hacker News story by dash2. Score: 262, Comments: 301. Original Link: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
   * Tags: `ai`, `hackernews`
   * Source URL: <https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning>
 
@@ -31120,6 +31115,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16985>
 
+* **[Early-life stress leaves a 'scar' inside brain cells in mice](ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by gmays. Score: 65, Comments: 20. Original Link: https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells>
+
 * **[Earn your first dollar online with Gumroad](ai/resources/earn-your-first-dollar-online-with-gumroad.md)** (`template` | `useful` tier)
   * Summary: - **Multi-format monetization**: Supports one-time, recurring, and fixed-length payments with automated workflows, enabling sales of video lessons, subscriptions, digital products, and more across diverse categories (e.g., Procreate brushes, Notion t
   * Tags: `hackernews`, `producthunt`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
@@ -32026,7 +32026,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.23983>
 
 * **[I'm becoming AI-blind](ai/community/i-m-becoming-ai-blind.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rcymerys. Score: 270, Comments: 282. Original Link: https://cymerys.com/w/im-becoming-ai-blind
+  * Summary: Hacker News story by rcymerys. Score: 312, Comments: 319. Original Link: https://cymerys.com/w/im-becoming-ai-blind
   * Tags: `ai`, `hackernews`
   * Source URL: <https://cymerys.com/w/im-becoming-ai-blind>
 
@@ -32035,8 +32035,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.11722>
 
-* **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based repository implementing a Retrieval-Augmented Generation (RAG) workflow
+* **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`workflow` | `useful` tier)
+  * Summary: * Python-based repository for a GitHub Classroom RAG workflow assignment (`rag1-
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
@@ -33716,7 +33716,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://shibuya.lepture.com>
 
 * **[Show HN: OzBrain, a shared brain for knowledge between agents and your team](ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dariusmonsef. Score: 38, Comments: 12. Original Link: https://ozbrain.com
+  * Summary: Hacker News story by dariusmonsef. Score: 53, Comments: 21. Original Link: https://ozbrain.com
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://ozbrain.com>
 
@@ -41583,6 +41583,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`
   * Source URL: <https://arxiv.org/abs/2607.02915>
 
+* **[Bootstrap Theory of Representational Emergence (TBER): Explanatory Insufficiency, Transition Regimes, and the Emergence of New Representational Levels](ai/research/arxiv-2606-07303.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.07303v4 Announce Type: replace Abstract: Representation learning is central to modern machine learning, yet most research focuses on optimizing representations after a framework has been selected. The Bootstrap Theory of Representational E
+  * Tags: `agents`
+  * Source URL: <https://arxiv.org/abs/2606.07303>
+
 * **[Bootstrap-Conditioned Action Selection with Tabular Foundation Models](ai/research/arxiv-2608-06559.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.06559v1 Announce Type: new Abstract: Contextual bandits offer a natural framework for sample-efficient personalization, but practical deployment remains difficult under sparse, biased interaction data, unreliable uncertainty estimates, and
   * Source URL: <https://arxiv.org/abs/2608.06559>
@@ -48583,11 +48588,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.05908v1 Announce Type: new Abstract: Real-world data distributions evolve over time, inducing temporal distribution shift that can substantially degrade the reliability of deployed machine learning systems. However, the extent to which arc
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2607.05908>
-
-* **[Drift-Adaptive ICU Intervention Prediction: Freezing the Physiological Encoder for Auditable Model Updating](ai/rag/arxiv-2607-19020.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2607.19020v2 Announce Type: replace-cross Abstract: Clinical decision support degrades as treatment protocols evolve, but the obstacle to updating a deployed model is governance as much as accuracy: once retraining touches every parameter, no o
-  * Tags: `models`
-  * Source URL: <https://arxiv.org/abs/2607.19020>
 
 * **[DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack](ai/research/arxiv-2608-03207.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.03207v1 Announce Type: cross Abstract: Flow-matching vision-language-action (VLA) models such as pi0 generate robot actions by integrating a learned denoising velocity field, and have been reported to resist adversarial perturbations that
@@ -59600,7 +59600,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11222, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11223, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -95299,9 +95299,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides a comprehensive, practical guide to Retrieval Augmented Generation (RAG) for large language model (LLM) application development. * Covers integration with diverse technical stacks, including LangChain/LlamaIndex, vector databases like Milv
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
+  * Summary: * Provides a full-stack guide for RAG system development, encompassing foundational principles and
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -96277,6 +96277,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.26722v2 Announce Type: replace-cross Abstract: Harness plays a critical role in large language model agent performance, and building a high-performing harness requires substantial expert effort. Therefore, recent research has increasingly
   * Tags: `agents`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.26722>
+
+* **[Drift-Adaptive ICU Intervention Prediction: Freezing the Physiological Encoder for Auditable Model Updating](ai/rag/arxiv-2607-19020.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2607.19020v2 Announce Type: replace-cross Abstract: Clinical decision support degrades as treatment protocols evolve, but the obstacle to updating a deployed model is governance as much as accuracy: once retraining touches every parameter, no o
+  * Tags: `models`
+  * Source URL: <https://arxiv.org/abs/2607.19020>
 
 * **[Drift-Aware RL-based Wavelet Denoising for Network-Traffic Anomaly Detection](ai/rag/arxiv-2607-20011.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.20011v1 Announce Type: cross Abstract: Traffic-utilisation measurements for network monitoring are corrupted by additive noise and statistical drift: time-dependent change in the signal's mean, variance, distributional shape, or tail behav
@@ -108493,7 +108498,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system for conversational interaction. * Processes and queries downloaded GitHub repository content as its knowledge base. * Developed primarily in Python.
+  * Summary: * Python-based Retrieval-Augmented Generation (RAG) system. * Fac
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

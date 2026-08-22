@@ -5009,6 +5009,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
+  - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
   - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
   - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)
 
@@ -20811,6 +20812,7 @@ Resources organized by keyword tags.
   - [EDPS Homepage | European Data Protection Supervisor](../ai/resources/edps-homepage-european-data-protection-supervisor.md)
   - [EEG-PRISM: Physiologically-Grounded Interpretability of Predictions by EEG Foundation Models](../ai/rag/arxiv-2608-13676.md)
   - [EU institutions and bodies profiles | European Union](../ai/resources/eu-institutions-and-bodies-profiles-european-union.md)
+  - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
   - [Earn your first dollar online with Gumroad](../ai/resources/earn-your-first-dollar-online-with-gumroad.md)
   - [Eclipse Projects / AsciiDoc Language / AsciiDoc Language · GitLab](../ai/resources/eclipse-projects-asciidoc-language-asciidoc-langua.md)
   - [Ed1s0nZ/CyberStrikeAI](../ai/agents/ed1s0nz-cyberstrikeai.md)
@@ -22975,7 +22977,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -50105,4 +50106,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-22T07:41:35.946525+05:30*
+*Index generated on 2026-08-22T10:41:47.890910+05:30*

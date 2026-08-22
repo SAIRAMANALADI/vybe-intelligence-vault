@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TheAgentCompany/TheAgentCompany
-collected_at: '2026-08-19T12:46:30.888221+05:30'
-published_at: '2026-08-17T11:12:42Z'
+collected_at: '2026-08-22T10:29:25.793038+05:30'
+published_at: '2026-08-21T02:42:10Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-stars: 766
+stars: 768
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T09:08:11Z'
 pushed_at: '2025-11-17T20:31:16Z'
 resource_id: github:theagentcompany/theagentcompany
-first_seen: '2026-08-19T12:46:30.888221+05:30'
-last_seen: '2026-08-19T12:46:30.888221+05:30'
-last_checked: '2026-08-19T12:46:30.888221+05:30'
+first_seen: '2026-08-22T10:29:25.793038+05:30'
+last_seen: '2026-08-22T10:29:25.793038+05:30'
+last_checked: '2026-08-22T10:29:25.793038+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Python-based benchmark suite for evaluating AI agents in a simulated software company environment.
-*   Features tasks designed to assess LLM and general AI agent performance within a multi-agent operational context.
-*   Aims to provide a standardized evaluation framework for AI agent research and development.
+*   Python-based benchmark for evaluating AI agents within a simulated software company environment.
+*   Provides a structured framework for assessing agent performance on complex, multi-task scenarios.
+*   Focuses on AI research, specifically benchmarking LLM-powered agents in collaborative, goal-oriented tasks.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TheAgentCompany
-- Stars: 766
+- Stars: 768
 - Forks: 121
 - Language: Python
 - Topics: agent, ai, ai-benchmark, ai-research, benchmark, llm
-- Last Updated: 2026-08-17T11:12:42Z
+- Last Updated: 2026-08-21T02:42:10Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-11T09:08:11Z
