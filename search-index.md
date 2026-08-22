@@ -30031,7 +30031,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.cloud.google.com/docs/ai-ml>
 
 * **[AI boosted homework scores, then exam scores dropped: study](ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dash2. Score: 327, Comments: 334. Original Link: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
+  * Summary: Hacker News story by dash2. Score: 355, Comments: 352. Original Link: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
   * Tags: `ai`, `hackernews`
   * Source URL: <https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning>
 
@@ -31121,7 +31121,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16985>
 
 * **[Early-life stress leaves a 'scar' inside brain cells in mice](ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by gmays. Score: 97, Comments: 49. Original Link: https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/
+  * Summary: Hacker News story by gmays. Score: 124, Comments: 57. Original Link: https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells>
 
@@ -31169,6 +31169,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **TypeScript-based Agentic OS**: Open-source framework (`elizaOS/eliza`) enabling autonomous AI agents with support for plugins, RAG, and multi-platform integration (Discord, Slack, Telegram, etc.). - **Swarm & Crypto Integration**: Designed for de
   * Tags: `agents`, `github-repo`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/elizaOS/eliza>
+
+* **[Embedded AI](ai/community/embedded-ai.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by 0x54MUR41. Score: 19, Comments: 9. Original Link: https://nostarch.com/embedded-ai
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://nostarch.com/embedded-ai>
 
 * **[Embedded Machine Learning for Microcontroller-Class Edge Devices: Data, Feature, Evaluation, and Deployment Pipelines](ai/research/arxiv-2606-18122.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18122v1 Announce Type: new Abstract: Embedded machine learning moves inference from cloud services to resource-constrained devices that must acquire data, preprocess signals, run a model, and act within tight limits on memory, energy, and
@@ -31951,7 +31956,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://developers.googleblog.com>
 
 * **[Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sbulaev. Score: 25, Comments: 1. Original Link: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy
+  * Summary: Hacker News story by sbulaev. Score: 148, Comments: 100. Original Link: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy
   * Tags: `ai`, `hackernews`
   * Source URL: <https://theguardian.com/technology/2026/aug/22/meta-trial-children-privacy>
 
@@ -31991,7 +31996,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://blog.langchain.com/customers-servicenow/>
 
 * **[How Thailand Resisted Colonization](ai/community/how-thailand-resisted-colonization.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by karakoram. Score: 44, Comments: 11. Original Link: https://worksinprogress.co/issue/how-thailand-resisted-colonization/
+  * Summary: Hacker News story by karakoram. Score: 91, Comments: 31. Original Link: https://worksinprogress.co/issue/how-thailand-resisted-colonization/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://worksinprogress.co/issue/how-thailand-resisted-colonization>
 
@@ -32041,7 +32046,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.23983>
 
 * **[I'm becoming AI-blind](ai/community/i-m-becoming-ai-blind.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rcymerys. Score: 411, Comments: 416. Original Link: https://cymerys.com/w/im-becoming-ai-blind
+  * Summary: Hacker News story by rcymerys. Score: 451, Comments: 459. Original Link: https://cymerys.com/w/im-becoming-ai-blind
   * Tags: `ai`, `hackernews`
   * Source URL: <https://cymerys.com/w/im-becoming-ai-blind>
 
@@ -95310,8 +95315,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive RAG implementation guide covering foundational to advanced techniques, including multimodal RAG. * Utilizes `langchain` and `llama-index` for RAG orchestration, integrating `milvus` for vector indexing and `neo4j` for graph-based know
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+  * Summary: * Comprehensive full-stack guide for Retrieval-Augmented Generation (RAG) system development.
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -105474,7 +105479,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll static site source for `raganwald.com`, indicating a build process from
+  * Summary: * Jekyll source repository for a GitHub Pages-hosted static site (`raganwald.com
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -105484,7 +105489,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.15857>
 
 * **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** (`tool` | `useful` tier)
-  * Summary: * Pre-Renewal Ragnarok Online distribution pack, likely for client/server deployment.
+  * Summary: * Hosts a Ragnarok Offline Pre-Renewal Pack, leveraging `openkore` and `rathena` contexts. * Implemented as an HTML-based GitHub Pages site (`.github.io` domain). * Focuses on pre-renewal mechanics for Ragnar
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/ragnarokoffline/ragnarokoffline.github.io>
 
@@ -108508,8 +108513,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based RAG system for contextualized querying of downloaded GitHub repository content. * Facilitates interactive chat with repository data, leveraging retrieval-augmented generation. * Practical application for codebase exploration and inform
-  * Tags: `github-repo`, `models`, `python`, `rag`
+  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system for conversational AI. * Processes and indexes GitHub repository content to facilitate interactive querying. * Developed using Python as the primary programming language.
+  * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 
 * **[SylphxAI/pdf-reader-mcp](ai/rag/sylphxai-pdf-reader-mcp.md)** (`mcp-server` | `essential` tier)

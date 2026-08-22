@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-22T21:51:40.841982+05:30`
+Generated at: `2026-08-22T22:34:49.589245+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Embedded AI** - Score: `19` in category `ai/community` ([Link](https://nostarch.com/embedded-ai)) ([File](../ai/community/embedded-ai.md))
 
 ## Top Trending Resources
 
-- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
-- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
-- **The-Swarm-Corporation/Multi-Agent-Template-App** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/the-swarm-corporation-multi-agent-template-app.md))
-- **muhammad-uzair-yasin/CrewAi_starter_template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md))
-- **continuedev/continue** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/continuedev-continue.md))
-- **vercel-labs/coding-agent-template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/vercel-labs-coding-agent-template.md))
-- **wassim249/fastapi-langgraph-agent-production-ready-template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
-- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week** - Score: `148` (+123), Rank Change: `+2` ([File](../ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md))
+- **How Thailand Resisted Colonization** - Score: `91` (+47), Rank Change: `-1` ([File](../ai/community/how-thailand-resisted-colonization.md))
+- **I'm becoming AI-blind** - Score: `451` (+40), Rank Change: `0` ([File](../ai/community/i-m-becoming-ai-blind.md))
+- **AI boosted homework scores, then exam scores dropped: study** - Score: `355` (+28), Rank Change: `0` ([File](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md))
+- **Early-life stress leaves a 'scar' inside brain cells in mice** - Score: `124` (+27), Rank Change: `-1` ([File](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1008` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+994` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+69` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+69` ([File](../ai/rag/sunsetting-create-react-app.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21569`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9243`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+986`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-09123.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1008`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+994`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **sentence-transformers/all-mpnet-base-v2** - (Rank Change: `+848`) ([File](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md))
+- **lpiccinelli/unidepth-v2-vitl14** - (Rank Change: `+848`) ([File](../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md))
+- **BAAI/bge-m3** - (Rank Change: `+848`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **amazon/chronos-2** - (Rank Change: `+848`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+848`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **google/electra-base-discriminator** - (Rank Change: `+848`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+848`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+848`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
 
 ## 🔄 Essential Tier Transitions
 

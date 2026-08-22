@@ -5009,6 +5009,7 @@ Resources organized by keyword tags.
 
   - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
   - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
+  - [Embedded AI](../ai/community/embedded-ai.md)
   - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](../ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)
   - [How Thailand Resisted Colonization](../ai/community/how-thailand-resisted-colonization.md)
   - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
@@ -20839,6 +20840,7 @@ Resources organized by keyword tags.
   - [Electronic Navigational Chart Change Classification](../ai/rag/arxiv-2608-20218.md)
   - [ElevenLabs - YouTube](../ai/resources/elevenlabs-youtube.md)
   - [Eliciting Intrinsic Hallucinations in LLMs via Semantically Equivalent Adversarial Attacks](../ai/rag/arxiv-2608-04286.md)
+  - [Embedded AI](../ai/community/embedded-ai.md)
   - [EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems](../ai/research/arxiv-2505-00986.md)
   - [Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems](../ai/research/arxiv-2607-03283.md)
   - [Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions](../ai/agents/arxiv-2608-18110.md)
@@ -22978,7 +22980,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -27877,7 +27878,6 @@ Resources organized by keyword tags.
   - [SwiftRepertoire: Few-Shot Immune-Signature Synthesis via Dynamic Kernel Codes](../ai/research/arxiv-2602-01051.md)
   - [SwinIFS: Landmark Guided Swin Transformer For Identity Preserving Face Super Resolution](../ai/research/arxiv-2601-01406.md)
   - [Sycophancy as Material Failure under Pushback Loading: A Multi-Axis Characterization Across Three Loading Cases and up to Seventeen Material Charges](../ai/rag/arxiv-2606-16617.md)
-  - [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md)
   - [Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups](../ai/research/arxiv-2607-27232.md)
   - [SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection](../ai/research/arxiv-2604-26633.md)
   - [SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents](../ai/agents/arxiv-2608-12429.md)
@@ -50110,4 +50110,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-22T18:52:28.381971+05:30*
+*Index generated on 2026-08-22T22:32:27.834181+05:30*

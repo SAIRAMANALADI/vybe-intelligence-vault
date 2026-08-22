@@ -18500,6 +18500,7 @@ Resources organized by publisher feed and query sources.
 
   - [AI boosted homework scores, then exam scores dropped: study](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md)
   - [Early-life stress leaves a 'scar' inside brain cells in mice](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md)
+  - [Embedded AI](../ai/community/embedded-ai.md)
   - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](../ai/community/hook-hold-harvest-and-hide-meta-s-alleged-strategy.md)
   - [How Thailand Resisted Colonization](../ai/community/how-thailand-resisted-colonization.md)
   - [I'm becoming AI-blind](../ai/community/i-m-becoming-ai-blind.md)
@@ -22319,4 +22320,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-22T18:52:28.621699+05:30*
+*Index generated on 2026-08-22T22:32:28.071162+05:30*
