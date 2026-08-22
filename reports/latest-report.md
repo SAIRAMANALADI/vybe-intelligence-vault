@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-22T10:44:11.499948+05:30`
+Generated at: `2026-08-22T13:57:51.587722+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Early-life stress leaves a 'scar' inside brain cells in mice** - Score: `65` in category `ai/community` ([Link](https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells)) ([File](../ai/community/early-life-stress-leaves-a-scar-inside-brain-cells.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **I'm becoming AI-blind** - Score: `312` (+42), Rank Change: `0` ([File](../ai/community/i-m-becoming-ai-blind.md))
-- **AI boosted homework scores, then exam scores dropped: study** - Score: `262` (+27), Rank Change: `0` ([File](../ai/community/ai-boosted-homework-scores-then-exam-scores-droppe.md))
-- **Show HN: OzBrain, a shared brain for knowledge between agents and your team** - Score: `53` (+15), Rank Change: `-1` ([File](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md))
-- **TheAgentCompany/TheAgentCompany** - Score: `0` (0), Rank Change: `+1673` ([File](../ai/agents/theagentcompany-theagentcompany.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+998` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+988` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **facebook/MusicGen** - Score: `0` (0), Rank Change: `+18` ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - Score: `0` (0), Rank Change: `+18` ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - Score: `0` (0), Rank Change: `+18` ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - Score: `0` (0), Rank Change: `+18` ([File](../ai/models/huggingface-spaces-mteb.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/malonge-ragoo.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **FlowiseAI/Flowise** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/flowiseai-flowise.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
+- **fetchai/innovation-lab-examples** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/fetchai-innovation-lab-examples.md))
+- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/docker-compose-for-agents.md))
+- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/huangjia2019-ai-agents.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **TheAgentCompany/TheAgentCompany** - (Rank Change: `+1673`) ([File](../ai/agents/theagentcompany-theagentcompany.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+998`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+988`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **How to train a new language model from scratch using Transformers and Tokenizers** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-how-to-train.md))
-- **How to generate text: using different decoding methods for language generation with Transformers** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-how-to-generate.md))
-- **The Reformer - Pushing the limits of language modeling** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-reformer.md))
-- **Block Sparse Matrices for Smaller and Faster Language Models** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-pytorch-block-sparse.md))
-- **Transformer-based Encoder-Decoder Models** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-encoder-decoder.md))
-- **Hyperparameter Search with Transformers and Ray Tune** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-ray-tune.md))
-- **Porting fairseq wmt19 translation system to transformers** - (Rank Change: `+23`) ([File](../ai/models/huggingface-blog-porting-fsmt.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21574`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9243`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+986`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
