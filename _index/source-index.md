@@ -22317,4 +22317,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-23T14:40:13.991951+05:30*
+*Index generated on 2026-08-23T18:52:50.385409+05:30*
