@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-23T10:45:44.712114+05:30`
+Generated at: `2026-08-23T13:58:52.171065+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-No new discoveries tracked in this run.
-
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Why your local LLM feels dumber than it is** - Score: `243` (+58), Rank Change: `0` ([File](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md))
-- **How a Texas student blew the whistle on a rogue AI hacking attempt** - Score: `132` (+22), Rank Change: `0` ([File](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+989` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/graphics-multimedia.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
+- **The-Swarm-Corporation/Multi-Agent-Template-App** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/the-swarm-corporation-multi-agent-template-app.md))
+- **muhammad-uzair-yasin/CrewAi_starter_template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md))
+- **continuedev/continue** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/continuedev-continue.md))
+- **vercel-labs/coding-agent-template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/vercel-labs-coding-agent-template.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **raganwald/raganwald.github.com** - (Rank Change: `+989`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **Applied AI** - (Rank Change: `+865`) ([File](../ai/companies/openai/applied-ai.md))
-- **AI Adoption** - (Rank Change: `+865`) ([File](../ai/companies/openai/ai-adoption.md))
-- **Global Affairs** - (Rank Change: `+865`) ([File](../ai/companies/openai/global-affairs.md))
-- **AI Futures** - (Rank Change: `+865`) ([File](../ai/companies/openai/ai-futures.md))
-- **Engineering** - (Rank Change: `+865`) ([File](../ai/companies/openai/engineering.md))
-- **facebook/MusicGen** - (Rank Change: `+845`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+845`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+845`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+845`) ([File](../ai/models/huggingface-spaces-mteb.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21569`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9243`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+986`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Show HN: OzBrain, a shared brain for knowledge between agents and your team** (Category: `ai/community`) ([File](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md))
+No recently active resources transitioned to inactive.
+
