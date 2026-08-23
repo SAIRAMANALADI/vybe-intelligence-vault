@@ -13,13 +13,14 @@ collected_at: '2026-08-23T18:36:53.060378+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-a-texas-student-blew-the-whistle-on-a-rogue-ai
 first_seen: '2026-08-23T02:15:35.603681+05:30'
 last_seen: '2026-08-23T18:36:53.060378+05:30'
 last_checked: '2026-08-23T18:36:53.060378+05:30'
 health_score: 100
 ---
+
 
 # How a Texas student blew the whistle on a rogue AI hacking attempt
 

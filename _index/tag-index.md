@@ -5008,7 +5008,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [How a Texas student blew the whistle on a rogue AI hacking attempt](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)
+  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
+  - [How Complex Systems Fail](../ai/community/how-complex-systems-fail.md)
+  - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)
 
 ## animation
 
@@ -5249,6 +5251,7 @@ Resources organized by keyword tags.
   - [Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes](../ai/agents/arxiv-2605-28965.md)
   - [FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents](../ai/agents/arxiv-2608-11683.md)
   - [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md)
+  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
   - [Gainsight Certification Programs](../ai/rag/gainsight-certification-programs.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
@@ -16820,6 +16823,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
@@ -21035,6 +21039,7 @@ Resources organized by keyword tags.
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
   - [GES-TSP: Graph Edge Sparsification for TSP](../ai/research/arxiv-2607-09708.md)
+  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
   - [GMD - Submission](../ai/rag/gmd-submission.md)
   - [GMD - The need for carbon-emissions-driven climate projections in CMIP7](../ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md)
@@ -21266,6 +21271,7 @@ Resources organized by keyword tags.
   - [How Annotation Trains Annotators: Competence Development in Social Influence Recognition](../ai/research/arxiv-2604-02951.md)
   - [How Anthropic teams use Claude Code | Claude by Anthropic](../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md)
   - [How Can Machine Learning Emulators Best Support Climate Science?](../ai/research/arxiv-2603-22320.md)
+  - [How Complex Systems Fail](../ai/community/how-complex-systems-fail.md)
   - [How Content Assistant raised the design quality bar without slowing us down - Inside Atlassian](../ai/rag/how-content-assistant-raised-the-design-quality-ba.md)
   - [How Environment and Urbanization Shape Bird Diversity in Sri Lanka](../ai/research/arxiv-2607-00582.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
@@ -21275,7 +21281,6 @@ Resources organized by keyword tags.
   - [How ServiceNow uses LangSmith to get visibility into its customer success agents](../ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md)
   - [How We Handle Ads, Funding, and Data Security - Google - About Google](../ai/resources/how-we-handle-ads-funding-and-data-security-google.md)
   - [How YouTube Works: Giving Everyone a Voice](../ai/resources/how-youtube-works-giving-everyone-a-voice.md)
-  - [How a Texas student blew the whistle on a rogue AI hacking attempt](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)
   - [How building an HTML-first site doubled our users overnight](../ai/rag/how-building-an-html-first-site-doubled-our-users.md)
   - [How do we ensure our IoT products process information lawfully? | ICO](../ai/rag/how-do-we-ensure-our-iot-products-process-informat.md)
   - [How personalized ads work - Android - My Ad Center Help](../ai/rag/how-personalized-ads-work-android-my-ad-center-hel.md)
@@ -21301,6 +21306,7 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
+  - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
@@ -22971,6 +22977,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -28848,6 +28855,7 @@ Resources organized by keyword tags.
   - [Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes](../ai/agents/arxiv-2605-28965.md)
   - [G1o22/awesome-ai-agents-2026](../ai/agents/g1o22-awesome-ai-agents-2026.md)
   - [GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning](../ai/agents/arxiv-2505-23399.md)
+  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
   - [Gainsight Certification Programs](../ai/rag/gainsight-certification-programs.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
   - [Gemma 4 - SGLang Documentation](../ai/rag/gemma-4-sglang-documentation.md)
@@ -41064,6 +41072,7 @@ Resources organized by keyword tags.
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEM: A Generative Embedding Model Bridging Reasoning and Retrieval](../ai/research/arxiv-2608-13200.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
+  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
   - [GMD - Submission](../ai/rag/gmd-submission.md)
   - [GMD - The need for carbon-emissions-driven climate projections in CMIP7](../ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md)
   - [GMD - fair-calibrate v1.4.1: calibration, constraining, and validation of the FaIR simple climate model for reliable fut](../ai/rag/gmd-fair-calibrate-v1-4-1-calibration-constraining.md)
@@ -50107,4 +50116,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-23T18:52:50.186239+05:30*
+*Index generated on 2026-08-23T22:34:34.108788+05:30*

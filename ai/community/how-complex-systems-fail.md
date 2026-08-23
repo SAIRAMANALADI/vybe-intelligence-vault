@@ -1,0 +1,50 @@
+---
+title: How Complex Systems Fail
+category: ai/community
+source_type: hackernews
+source_name: Hacker News AI
+source_url: https://how.complexsystems.fail
+hn_url: https://news.ycombinator.com/item?id=49409473
+score: 58
+author: shortcrct
+comments_count: 6
+published_at: '2026-08-23T20:43:31+05:30'
+collected_at: '2026-08-23T22:18:23.107597+05:30'
+tags:
+- ai
+- hackernews
+status: active
+resource_id: hackernews:how-complex-systems-fail
+first_seen: '2026-08-23T22:18:23.107597+05:30'
+last_seen: '2026-08-23T22:18:23.107597+05:30'
+last_checked: '2026-08-23T22:18:23.107597+05:30'
+health_score: 100
+---
+
+# How Complex Systems Fail
+
+## Summary
+
+Hacker News story by shortcrct. Score: 58, Comments: 6.
+Original Link: https://how.complexsystems.fail/
+
+## Why It Matters
+
+This is a trending discussion or resource collected from the Hacker News community. It highlights community sentiment, product launches, or technical writeups.
+
+## Discussion Details
+
+- Author: shortcrct
+- Score: 58 Upvotes
+- Comments: 6 Discussions
+- Hacker News Link: https://news.ycombinator.com/item?id=49409473
+- Original Article: https://how.complexsystems.fail
+
+## Implementation Notes
+
+Review community comments to extract technical caveats, alternative recommendations, or project launch workflows.
+
+## Related Tags
+
+- ai
+- hackernews

@@ -31740,6 +31740,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2607.23115>
 
+* **[GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by ed-is-ai. Score: 16, Comments: 1. Original Link: https://reinvently.co.uk/tools/ed-o-meter/
+  * Tags: `ai`, `anthropic`, `hackernews`, `openai`, `reddit`
+  * Source URL: <https://reinvently.co.uk/tools/ed-o-meter>
+
 * **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](ai/research/arxiv-2604-20822.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.20822v2 Announce Type: replace-cross Abstract: The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While
   * Tags: `benchmark`, `dataset`, `workflows`
@@ -31940,10 +31945,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `creative_dev`, `deepmind`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://developers.googleblog.com>
 
-* **[How a Texas student blew the whistle on a rogue AI hacking attempt](ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by olalonde. Score: 179, Comments: 85. Original Link: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
+* **[How Complex Systems Fail](ai/community/how-complex-systems-fail.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by shortcrct. Score: 58, Comments: 6. Original Link: https://how.complexsystems.fail/
   * Tags: `ai`, `hackernews`
-  * Source URL: <https://reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20>
+  * Source URL: <https://how.complexsystems.fail>
 
 * **[How Do VLMs Behave When Blind or Misled? Behavioral Evaluation of VLMs on Scientific Figures](ai/research/arxiv-2608-13267.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.13267v1 Announce Type: cross Abstract: Existing vision-language model (VLM) benchmarks emphasize perception and reasoning accuracy (how well VLMs describe and reason about what they see in an image), with limited attention to behavioral re
@@ -32024,6 +32029,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.23983v1 Announce Type: cross Abstract: Operational flood forecasting depends on tacit forecaster expertise that is difficult to formalize, audit, and transfer. Although artificial intelligence methods have advanced flood prediction and mod
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.23983>
+
+* **[I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by dr_pardee. Score: 134, Comments: 44. Original Link: https://ericpardee.github.io/fire-hd-ownership/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://ericpardee.github.io/fire-hd-ownership>
 
 * **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](ai/research/arxiv-2606-11722.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11722v1 Announce Type: new Abstract: Finding interpretable directions in language-model representations is critical for understanding and controlling model behavior. Sparse autoencoders (SAEs) have become the standard tool for this purpose
@@ -34580,7 +34590,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://blog.beezwax.net/why-fast-growing-teams-outgrow-spreadsheets>
 
 * **[Why your local LLM feels dumber than it is](ai/community/why-your-local-llm-feels-dumber-than-it-is.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by felineflock. Score: 393, Comments: 152. Original Link: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
+  * Summary: Hacker News story by felineflock. Score: 435, Comments: 179. Original Link: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
   * Tags: `hackernews`, `llm`
   * Source URL: <https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917>
 
@@ -68619,6 +68629,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2608.02844>
 
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * Introduces RAGTruth, a specialized hallucination corpus designed for quantifying and detecting factual inconsistencies in Retrieval-Augmented Language Models (RAGs). * Provides a benchmark dataset to facilitate the
+  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
+
 * **[Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](ai/research/arxiv-2602-00511.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.00511v3 Announce Type: replace Abstract: We introduce \emph{Partition of Unity Neural Networks} (PUNNs), a neural-network architecture for multiclass classification based on the classical mathematical notion of a partition of unity. The st
   * Tags: `dataset`
@@ -75853,7 +75868,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5242, Downloads: 256063914)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5245, Downloads: 256063914)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -95289,9 +95304,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive guide detailing full-stack RAG implementation for LLM application development. * Utilizes LangChain and LlamaIndex for RAG orchestration, integrating vector databases (Milvus) and graph databases (Neo4j) for knowledge management. * Ex
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive, full-stack guide to Retrieval Augmented Generation (RAG) technology, emphasizing practical application development. * Leverages prominent LLM orchestration frameworks (LangChain, LlamaIndex) for RAG pipeline construction. * Integrate
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -95299,8 +95314,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Provides foundational tutorials for large language model (LLM) application development.
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
+  * Summary: * Foundational Large Language Model (LLM) application development curriculum. *
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -104243,11 +104258,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces `RAGTruth`, a dedicated hallucination corpus. * Aims to benchmark and mitigate factual inconsistencies in Retrieval-Augmented Generation (RAG) models. * Facilitates the development of more trustworthy and robust RAG-based language models
-  * Tags: `benchmark`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
-
 * **[PAS-QFL: Personalized Ansatz Selection for Quantum Federated Learning under Client Data Heterogeneity](ai/rag/arxiv-2608-14995.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.14995v1 Announce Type: cross Abstract: Quantum federated learning (QFL) lets multiple quantum clients collaboratively train quantum neural networks (QNNs) without sharing private local data. However, existing QFL methods commonly assume th
   * Tags: `paper`, `rag`
@@ -105474,7 +105484,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.15857>
 
 * **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** (`tool` | `useful` tier)
-  * Summary: * Hosts a Pre-Renewal Ragnarok Offline pack, targeting a specific game version. *
+  * Summary: * Distribution of a Pre-Renewal Ragnarok Offline game pack, targeting client and server
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/ragnarokoffline/ragnarokoffline.github.io>
 

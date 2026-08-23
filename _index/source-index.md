@@ -18499,7 +18499,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [How a Texas student blew the whistle on a rogue AI hacking attempt](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)
+  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
+  - [How Complex Systems Fail](../ai/community/how-complex-systems-fail.md)
+  - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)
   - [Why your local LLM feels dumber than it is](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md)
 
 ## Unknown Source (type: huggingface)
@@ -22317,4 +22319,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-23T18:52:50.385409+05:30*
+*Index generated on 2026-08-23T22:34:34.350509+05:30*
