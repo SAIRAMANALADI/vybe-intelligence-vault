@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-08-18T12:45:17.701959+05:30'
-published_at: '2026-08-18T07:09:26Z'
+collected_at: '2026-08-23T14:29:11.646856+05:30'
+published_at: '2026-08-23T08:19:12Z'
 tags:
 - agents
 - github-repo
@@ -13,16 +13,16 @@ tags:
 - html
 - models
 - rag
-stars: 8463
+stars: 8666
 language: HTML
 status: active
 archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-08-04T06:02:35Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-08-18T12:45:17.701959+05:30'
-last_seen: '2026-08-18T12:45:17.701959+05:30'
-last_checked: '2026-08-18T12:45:17.701959+05:30'
+first_seen: '2026-08-23T14:29:11.646856+05:30'
+last_seen: '2026-08-23T14:29:11.646856+05:30'
+last_checked: '2026-08-23T14:29:11.646856+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides practical guidance on AI agent development, emphasizing frameworks like LangGraph, LangChain, CrewAI, and GraphRAG for multi-agent system implementation.
-*   Covers advanced Retrieval-Augmented Generation (RAG) techniques, including agentic RAG, and Large Language Model (LLM) methodologies such as Supervised Fine-Tuning (SFT).
-*   Offers resources for career transition into LLM-centric roles, encompassing algorithm engineering and specialized interview preparation.
+*   Provides practical guidance for AI agent development, emphasizing multi-agent systems and frameworks like LangGraph and CrewAI.
+*   Covers advanced Retrieval-Augmented Generation (RAG) techniques, specifically `agenticrag` and `graphrag`, for enhanced information retrieval and reasoning.
+*   Offers resources on Large Language Model (LLM) application, including Supervised Fine-Tuning (SFT) and data synthesis, alongside career transition and interview preparation for algorithm engineers in the LLM domain.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: adongwanai
-- Stars: 8463
-- Forks: 833
+- Stars: 8666
+- Forks: 856
 - Language: HTML
 - Topics: agenticrag, ai-agent, crewai, graphrag, grpo, interview, job-hunting, langchain, llm, multi-agent, rag, sft, tutorial
-- Last Updated: 2026-08-18T07:09:26Z
+- Last Updated: 2026-08-23T08:19:12Z
 - Archived: No
 - Created At: 2025-11-03T10:46:38Z
 - Pushed At: 2026-08-04T06:02:35Z

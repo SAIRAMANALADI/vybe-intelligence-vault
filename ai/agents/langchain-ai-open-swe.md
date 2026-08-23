@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-21T14:37:13.044483+05:30'
-published_at: '2026-08-21T07:39:33Z'
+collected_at: '2026-08-23T14:27:11.600425+05:30'
+published_at: '2026-08-23T06:52:41Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - workflows
-stars: 10582
+stars: 10591
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-08-21T02:25:09Z'
+pushed_at: '2026-08-22T22:38:31Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-21T14:37:13.044483+05:30'
-last_seen: '2026-08-21T14:37:13.044483+05:30'
-last_checked: '2026-08-21T14:37:13.044483+05:30'
+first_seen: '2026-08-23T14:27:11.600425+05:30'
+last_seen: '2026-08-23T14:27:11.600425+05:30'
+last_checked: '2026-08-23T14:27:11.600425+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Asynchronous, open-source Python agent designed for automated software engineering (SWE) tasks.
-*   Integrates multiple LLM backends, specifically supporting OpenAI and Anthropic's ClaudeCode.
-*   Facilitates agentic coding workflows, implying task decomposition and execution within a development context.
+*   Asynchronous, open-source coding agent designed for automated software engineering tasks.
+*   Integrates with multiple large language models (LLMs), specifically OpenAI and Anthropic's ClaudeCode, for AI-driven development.
+*   Implemented in Python, focusing on agentic AI workflows for code generation and manipulation.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10582
-- Forks: 1232
+- Stars: 10591
+- Forks: 1237
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-21T07:39:33Z
+- Last Updated: 2026-08-23T06:52:41Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-08-21T02:25:09Z
+- Pushed At: 2026-08-22T22:38:31Z
 
 ## Possible Use Cases
 

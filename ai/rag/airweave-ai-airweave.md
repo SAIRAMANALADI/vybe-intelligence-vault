@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-08-21T14:37:13.042884+05:30'
-published_at: '2026-08-21T07:34:30Z'
+collected_at: '2026-08-23T14:27:16.585227+05:30'
+published_at: '2026-08-23T02:25:25Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 6561
+stars: 6559
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-08-21T14:37:13.042884+05:30'
-last_seen: '2026-08-21T14:37:13.042884+05:30'
-last_checked: '2026-08-21T14:37:13.042884+05:30'
+first_seen: '2026-08-23T14:27:16.585227+05:30'
+last_seen: '2026-08-23T14:27:16.585227+05:30'
+last_checked: '2026-08-23T14:27:16.585227+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Open-source Python framework providing a context retrieval layer via API/SDK for AI agents.
-*   Implements retrieval-augmented generation (RAG) through semantic search and integrates diverse enterprise data sources via connectors.
-*   Serves as agent infrastructure, optimizing LLM performance by enhancing contextual awareness through advanced information retrieval.
+*   Provides an open-source, Python-based context retrieval layer specifically engineered for AI agent architectures.
+*   Implements advanced Retrieval-Augmented Generation (RAG) via semantic search, integrating diverse enterprise data sources through extensible connectors.
+*   Offers a comprehensive API and SDK for seamless integration, facilitating robust information retrieval for LLM-powered applications.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: airweave-ai
-- Stars: 6561
-- Forks: 816
+- Stars: 6559
+- Forks: 817
 - Language: Python
 - Topics: agent-infrastructure, ai, ai-agents, ai-infrastructure, api, context-retrieval, data-connectors, developer-tools, enterprise-data, information-retrieval, integration, llm, open-source, rag, retrieval, retrieval-augmented-generation, sdk, search, search-api, semantic-search
-- Last Updated: 2026-08-21T07:34:30Z
+- Last Updated: 2026-08-23T02:25:25Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-24T10:00:06Z

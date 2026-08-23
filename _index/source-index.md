@@ -18202,6 +18202,7 @@ Resources organized by publisher feed and query sources.
   - [modelcontextprotocol/typescript-sdk](../ai/resources/modelcontextprotocol-typescript-sdk.md)
   - [modelscope/evalscope](../ai/rag/modelscope-evalscope.md)
   - [mohitvirli/mohitvirli.github.io](../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md)
+  - [mongodb-developer/GenAI-Showcase](../ai/rag/mongodb-developer-genai-showcase.md)
   - [mozilla-ai/any-agent](../ai/agents/mozilla-ai-any-agent.md)
   - [mrdoob/three.js](../web-development/threejs/mrdoob-three-js.md)
   - [msitarzewski/agency-agents](../ai/agents/msitarzewski-agency-agents.md)
@@ -22316,4 +22317,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-23T10:43:09.838080+05:30*
+*Index generated on 2026-08-23T14:40:13.991951+05:30*
