@@ -7,7 +7,13 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **988** new resources across our source networks.
+During this cycle, we discovered **985** new resources across our source networks.
+
+#### 🔄 Resource Revivals
+- **Show HN: OzBrain, a shared brain for knowledge between agents and your team** (`ai/community`): Resource reactivated (previously inactive).
+
+### 🚀 Rising Projects & Revivals
+1. [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com) - `ai/community`
 
 ## AI Trend Summary
 
@@ -40,25 +46,25 @@ This week had strong activity around frontend tools.
 |---|---:|
 | benchmark | 1167 |
 | rag | 868 |
-| agents | 676 |
+| agents | 677 |
 | dataset | 656 |
 | models | 585 |
 | paper | 498 |
-| hackernews | 264 |
+| hackernews | 262 |
 | youtube | 207 |
 | frontend_ui | 149 |
 | workflows | 140 |
 | meta-ai | 83 |
-| anthropic | 77 |
+| anthropic | 76 |
 | openai | 71 |
 | github-repo | 57 |
 | leaderboard | 46 |
 
 ## Weekly Community Updates
 
-1. [Anthropic appears to be A/B testing reduced effort levels in Claude Code](../../ai/community/anthropic-appears-to-be-a-b-testing-reduced-effort.md) ([Source](https://twitter.com/argofowl/status/2091150597374537729)) (HN Score: 98) - `ai/community`
-2. [How a Texas student blew the whistle on a rogue AI hacking attempt](../../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md) ([Source](https://reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20)) (HN Score: 54) - `ai/community`
-3. [Why your local LLM feels dumber than it is](../../ai/community/why-your-local-llm-feels-dumber-than-it-is.md) ([Source](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)) (HN Score: 25) - `ai/community`
+1. [Why your local LLM feels dumber than it is](../../ai/community/why-your-local-llm-feels-dumber-than-it-is.md) ([Source](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)) (HN Score: 185) - `ai/community`
+2. [How a Texas student blew the whistle on a rogue AI hacking attempt](../../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md) ([Source](https://reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20)) (HN Score: 110) - `ai/community`
+3. [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md) ([Source](https://ozbrain.com)) (HN Score: 79) - `ai/community`
 4. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
 5. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
 6. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
@@ -3716,8 +3722,8 @@ No updates collected under this section this week.
 37. [WenyuChiou/awesome-agentic-ai-zh](../../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([Source](https://github.com/wenyuchiou/awesome-agentic-ai-zh)) (Stars: 0, Language: Unknown) - `ai/rag`
 38. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
 39. [scotthavird/crewai-template](../../ai/rag/scotthavird-crewai-template.md) ([Source](https://github.com/scotthavird/crewai-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-40. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
-41. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
+40. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
+41. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
 42. [adongwanai/AgentGuide](../../ai/rag/adongwanai-agentguide.md) ([Source](https://github.com/adongwanai/agentguide)) (Stars: 0, Language: Unknown) - `ai/rag`
 43. [fetchai/innovation-lab-examples](../../ai/rag/fetchai-innovation-lab-examples.md) ([Source](https://github.com/fetchai/innovation-lab-examples)) (Stars: 0, Language: Unknown) - `ai/rag`
 44. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
@@ -3732,7 +3738,7 @@ No updates collected under this section this week.
 53. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
 54. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
 55. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
-56. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+56. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
 57. [infiniflow/ragflow](../../ai/rag/infiniflow-ragflow-2.md) ([Source](https://github.com/infiniflow/ragflow)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
@@ -3755,4 +3761,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-08-23T02:31:45.908529+05:30
+2026-08-23T07:51:29.384023+05:30

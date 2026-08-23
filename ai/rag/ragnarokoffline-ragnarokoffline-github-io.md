@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-08-22T22:17:10.947143+05:30'
+collected_at: '2026-08-23T07:36:16.592669+05:30'
 published_at: '2026-08-13T00:14:54Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-02-06T11:16:38Z'
 pushed_at: '2026-08-13T00:14:50Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-08-22T22:17:10.947143+05:30'
-last_seen: '2026-08-22T22:17:10.947143+05:30'
-last_checked: '2026-08-22T22:17:10.947143+05:30'
+first_seen: '2026-08-23T07:36:16.592669+05:30'
+last_seen: '2026-08-23T07:36:16.592669+05:30'
+last_checked: '2026-08-23T07:36:16.592669+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,8 @@ health_score: 100
 
 ## Summary
 
-*   Hosts a Ragnarok Offline Pre-Renewal Pack, leveraging `openkore` and `rathena` contexts.
-*   Implemented as an HTML-based GitHub Pages site (`.github.io` domain).
-*   Focuses on pre-renewal mechanics for Ragnar
+*   Distributes a Pre-Renewal Ragnarok Offline game client/server pack.
+*
 
 ## Why It Matters
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
 hn_url: https://news.ycombinator.com/item?id=49402232
-score: 25
+score: 185
 author: felineflock
-comments_count: 7
+comments_count: 64
 published_at: '2026-08-22T23:44:16+05:30'
-collected_at: '2026-08-23T02:15:35.390731+05:30'
+collected_at: '2026-08-23T07:35:23.965606+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:why-your-local-llm-feels-dumber-than-it-is
 first_seen: '2026-08-23T02:15:35.390731+05:30'
-last_seen: '2026-08-23T02:15:35.390731+05:30'
-last_checked: '2026-08-23T02:15:35.390731+05:30'
+last_seen: '2026-08-23T07:35:23.965606+05:30'
+last_checked: '2026-08-23T07:35:23.965606+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by felineflock. Score: 25, Comments: 7.
+Hacker News story by felineflock. Score: 185, Comments: 64.
 Original Link: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: felineflock
-- Score: 25 Upvotes
-- Comments: 7 Discussions
+- Score: 185 Upvotes
+- Comments: 64 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49402232
 - Original Article: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
 
