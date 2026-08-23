@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-23T14:42:36.273082+05:30`
+Generated at: `2026-08-23T18:00:23.155138+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **mongodb-developer/GenAI-Showcase** - Score: `0` in category `ai/rag` ([Link](https://github.com/mongodb-developer/genai-showcase)) ([File](../ai/rag/mongodb-developer-genai-showcase.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Why your local LLM feels dumber than it is** - Score: `330` (+87), Rank Change: `0` ([File](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md))
-- **How a Texas student blew the whistle on a rogue AI hacking attempt** - Score: `153` (+21), Rank Change: `0` ([File](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md))
-- **strnad/CrewAI-Studio** - Score: `0` (0), Rank Change: `+2066` ([File](../ai/agents/strnad-crewai-studio.md))
-- **adongwanai/AgentGuide** - Score: `0` (0), Rank Change: `+2063` ([File](../ai/rag/adongwanai-agentguide.md))
-- **The-Swarm-Corporation/Multi-Agent-Template-App** - Score: `0` (0), Rank Change: `+993` ([File](../ai/agents/the-swarm-corporation-multi-agent-template-app.md))
-- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+1325` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+1003` ([File](../ai/rag/airweave-ai-airweave.md))
-- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+1000` ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+999` ([File](../ai/agents/langchain-ai-open-swe.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **datarobot-community/datarobot-agent-templates** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/datarobot-community-datarobot-agent-templates.md))
+- **muhammad-uzair-yasin/CrewAi_starter_template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md))
+- **continuedev/continue** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/continuedev-continue.md))
+- **vercel-labs/coding-agent-template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/vercel-labs-coding-agent-template.md))
+- **wassim249/fastapi-langgraph-agent-production-ready-template** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
+- **czl9707/build-your-own-openclaw** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/czl9707-build-your-own-openclaw.md))
+- **TheAgentCompany/TheAgentCompany** - Score: `0` (0), Rank Change: `+985` ([File](../ai/agents/theagentcompany-theagentcompany.md))
+- **FlowiseAI/Flowise** - Score: `0` (0), Rank Change: `+985` ([File](../ai/rag/flowiseai-flowise.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **strnad/CrewAI-Studio** - (Rank Change: `+2066`) ([File](../ai/agents/strnad-crewai-studio.md))
-- **adongwanai/AgentGuide** - (Rank Change: `+2063`) ([File](../ai/rag/adongwanai-agentguide.md))
-- **Andrew-Jang/RAGHub** - (Rank Change: `+1678`) ([File](../ai/rag/andrew-jang-raghub.md))
-- **WenyuChiou/awesome-agentic-ai-zh** - (Rank Change: `+1325`) ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
-- **ashishpatel26/500-AI-Agents-Projects** - (Rank Change: `+1321`) ([File](../ai/agents/ashishpatel26-500-ai-agents-projects.md))
-- **airweave-ai/airweave** - (Rank Change: `+1003`) ([File](../ai/rag/airweave-ai-airweave.md))
-- **coleam00/ottomator-agents** - (Rank Change: `+1002`) ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **huangjia2019/ai-agents** - (Rank Change: `+1000`) ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **langchain-ai/open-swe** - (Rank Change: `+999`) ([File](../ai/agents/langchain-ai-open-swe.md))
-- **The-Swarm-Corporation/Multi-Agent-Template-App** - (Rank Change: `+993`) ([File](../ai/agents/the-swarm-corporation-multi-agent-template-app.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21566`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9243`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+986`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+986`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+986`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
