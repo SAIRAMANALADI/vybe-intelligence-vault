@@ -31941,7 +31941,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://developers.googleblog.com>
 
 * **[How a Texas student blew the whistle on a rogue AI hacking attempt](ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by olalonde. Score: 110, Comments: 42. Original Link: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
+  * Summary: Hacker News story by olalonde. Score: 132, Comments: 45. Original Link: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20>
 
@@ -33710,11 +33710,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
-* **[Show HN: OzBrain, a shared brain for knowledge between agents and your team](ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dariusmonsef. Score: 79, Comments: 46. Original Link: https://ozbrain.com
-  * Tags: `agents`, `ai`, `hackernews`
-  * Source URL: <https://ozbrain.com>
-
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
   * Tags: `github-repo`, `javascript`, `scripts`, `workflows`
@@ -34585,7 +34580,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://blog.beezwax.net/why-fast-growing-teams-outgrow-spreadsheets>
 
 * **[Why your local LLM feels dumber than it is](ai/community/why-your-local-llm-feels-dumber-than-it-is.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by felineflock. Score: 185, Comments: 64. Original Link: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
+  * Summary: Hacker News story by felineflock. Score: 243, Comments: 83. Original Link: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
   * Tags: `hackernews`, `llm`
   * Source URL: <https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917>
 
@@ -59600,7 +59595,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11224, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11225, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -68625,7 +68620,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.02844>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces a specialized hallucination corpus for evaluating and improving Retrieval-Augmented Language Models (RAG). * Aims to enhance the trustworthiness of RAG systems by providing data to identify and mitigate factual inconsistencies. * Serves
+  * Summary: * `RAGTruth` is a specialized hallucination corpus designed for the systematic evaluation and mitigation of factual inconsistencies in Retrieval-Augmented Language Models (RAGs). * The corpus provides a benchmark dataset to facilitate the development
   * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
@@ -92655,7 +92650,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/BAAI/bge-reranker-v2-m3>
 
 * **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 537, Downloads: 72415343)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 538, Downloads: 72415343)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
@@ -95310,7 +95305,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive LLM application development tutorial. * Emphasizes practical implementations using LangChain and RAG architectures. * Content delivered primarily through Jupyter Notebooks.
+  * Summary: * Provides practical tutorials for large language model (LLM) application development. * Focus
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -105464,7 +105459,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for a GitHub Pages-hosted static site (`raganwald.com
+  * Summary: * Jekyll source repository for `raganwald.com`, primarily implemented in HTML. * Repository `raganwald/raganwald.github.com` serves as the public-facing website's build source. * Last updated 2026-07-08T15:07:53Z, indicating a future timestamp for th
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -105474,7 +105469,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.15857>
 
 * **[ragnarokoffline/ragnarokoffline.github.io](ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)** (`tool` | `useful` tier)
-  * Summary: * Distributes a Pre-Renewal Ragnarok Offline game client/server pack. *
+  * Summary: * Hosts a Pre-Renewal Ragnarok Offline pack, targeting a specific game version. *
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/ragnarokoffline/ragnarokoffline.github.io>
 

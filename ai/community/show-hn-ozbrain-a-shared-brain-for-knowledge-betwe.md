@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-ozbrain-a-shared-brain-for-knowledge-betwe
 first_seen: '2026-08-22T07:25:36.567715+05:30'
 last_seen: '2026-08-23T07:35:27.626809+05:30'
 last_checked: '2026-08-23T07:35:27.626809+05:30'
 health_score: 100
 ---
+
 
 # Show HN: OzBrain, a shared brain for knowledge between agents and your team
 

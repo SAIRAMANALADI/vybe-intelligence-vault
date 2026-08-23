@@ -3740,7 +3740,6 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
-  - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models](../ai/agents/arxiv-2507-14159.md)
@@ -5009,7 +5008,6 @@ Resources organized by keyword tags.
 ## ai
 
   - [How a Texas student blew the whistle on a rogue AI hacking attempt](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)
-  - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)
 
 ## animation
 
@@ -22319,7 +22317,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -50108,4 +50105,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-23T07:51:35.369400+05:30*
+*Index generated on 2026-08-23T10:43:09.605390+05:30*

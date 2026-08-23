@@ -18499,7 +18499,6 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [How a Texas student blew the whistle on a rogue AI hacking attempt](../ai/community/how-a-texas-student-blew-the-whistle-on-a-rogue-ai.md)
-  - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](../ai/community/show-hn-ozbrain-a-shared-brain-for-knowledge-betwe.md)
   - [Why your local LLM feels dumber than it is](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md)
 
 ## Unknown Source (type: huggingface)
@@ -22317,4 +22316,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-23T07:51:35.616489+05:30*
+*Index generated on 2026-08-23T10:43:09.838080+05:30*
