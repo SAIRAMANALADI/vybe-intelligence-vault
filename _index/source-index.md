@@ -18499,10 +18499,15 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
-  - [How Complex Systems Fail](../ai/community/how-complex-systems-fail.md)
+  - [AI and Infrastructure Engineering](../ai/community/ai-and-infrastructure-engineering.md)
+  - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
+  - [Erik Brynjolfsson says an AI "job apocalypse" is unlikely](../ai/community/erik-brynjolfsson-says-an-ai-job-apocalypse-is-unl.md)
+  - [Explain it to me like I'm ten](../ai/community/explain-it-to-me-like-i-m-ten.md)
+  - [How Complex Systems Fail (1998)](../ai/community/how-complex-systems-fail.md)
   - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)
-  - [Why your local LLM feels dumber than it is](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md)
+  - [I turned Unix talk from 1983 into the interface for my AI](../ai/community/i-turned-unix-talk-from-1983-into-the-interface-fo.md)
+  - [My agent.md to improve LLM-assisted code quality](../ai/community/my-agent-md-to-improve-llm-assisted-code-quality.md)
+  - [Predicting AI model release dates with stats](../ai/community/predicting-ai-model-release-dates-with-stats.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -22319,4 +22324,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-23T22:34:34.350509+05:30*
+*Index generated on 2026-08-24T02:31:24.203252+05:30*

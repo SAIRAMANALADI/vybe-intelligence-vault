@@ -16,13 +16,14 @@ tags:
 - hackernews
 - openai
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:glm-5-3-open-weight-beat-anthropic-openai-models-f
 first_seen: '2026-08-23T22:18:23.308112+05:30'
 last_seen: '2026-08-23T22:18:23.308112+05:30'
 last_checked: '2026-08-23T22:18:23.308112+05:30'
 health_score: 100
 ---
+
 
 # GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost
 

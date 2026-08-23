@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/czl9707/build-your-own-openclaw
-collected_at: '2026-08-22T14:26:28.481153+05:30'
+collected_at: '2026-08-24T02:18:11.276236+05:30'
 published_at: '2026-08-22T04:06:36Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-03-11T02:47:02Z'
 pushed_at: '2026-07-08T00:16:40Z'
 resource_id: github:czl9707/build-your-own-openclaw
-first_seen: '2026-08-22T14:26:28.481153+05:30'
-last_seen: '2026-08-22T14:26:28.481153+05:30'
-last_checked: '2026-08-22T14:26:28.481153+05:30'
+first_seen: '2026-08-24T02:18:11.276236+05:30'
+last_seen: '2026-08-24T02:18:11.276236+05:30'
+last_checked: '2026-08-24T02:18:11.276236+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,8 @@ health_score: 100
 
 ## Summary
 
-*   Offers a Python-centric, step-by-step guide for architecting and implementing custom AI agents.
-*   Emphasizes the integration and application of Large Language Models (LLMs) within agent design paradigms.
-*   Functions as a practical tutorial for developing bespoke AI agent systems from fundamental principles.
+*   Provides a step-by-step blueprint for AI agent construction.
+*   Emphas
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: czl9707
 - Stars: 1870
-- Forks: 328
+- Forks: 327
 - Language: Python
 - Topics: ai-agent, build-your-own-x, llm, python, tutorial
 - Last Updated: 2026-08-22T04:06:36Z

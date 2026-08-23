@@ -2805,6 +2805,7 @@ Resources organized by keyword tags.
   - [Musical Agent Systems: MACAT and MACataRT](../ai/agents/arxiv-2502-00023.md)
   - [MutMem: Cryptographically Authorized Mutation in Persistent Agent Memory](../ai/rag/arxiv-2608-02843.md)
   - [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](../ai/agents/arxiv-2606-11256.md)
+  - [My agent.md to improve LLM-assisted code quality](../ai/community/my-agent-md-to-improve-llm-assisted-code-quality.md)
   - [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](../ai/agents/arxiv-2606-16748.md)
   - [NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation](../ai/agents/arxiv-2606-18271.md)
   - [NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](../ai/agents/arxiv-2601-21372.md)
@@ -5008,9 +5009,14 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
-  - [How Complex Systems Fail](../ai/community/how-complex-systems-fail.md)
+  - [AI and Infrastructure Engineering](../ai/community/ai-and-infrastructure-engineering.md)
+  - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
+  - [Erik Brynjolfsson says an AI "job apocalypse" is unlikely](../ai/community/erik-brynjolfsson-says-an-ai-job-apocalypse-is-unl.md)
+  - [Explain it to me like I'm ten](../ai/community/explain-it-to-me-like-i-m-ten.md)
+  - [How Complex Systems Fail (1998)](../ai/community/how-complex-systems-fail.md)
   - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)
+  - [I turned Unix talk from 1983 into the interface for my AI](../ai/community/i-turned-unix-talk-from-1983-into-the-interface-fo.md)
+  - [Predicting AI model release dates with stats](../ai/community/predicting-ai-model-release-dates-with-stats.md)
 
 ## animation
 
@@ -5088,6 +5094,7 @@ Resources organized by keyword tags.
   - [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../ai/agents/arxiv-2608-12249.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
+  - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
   - [Argos · Product quality for the age of AI agents](../ai/rag/argos-product-quality-for-the-age-of-ai-agents.md)
@@ -5251,7 +5258,6 @@ Resources organized by keyword tags.
   - [Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes](../ai/agents/arxiv-2605-28965.md)
   - [FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents](../ai/agents/arxiv-2608-11683.md)
   - [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md)
-  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
   - [Gainsight Certification Programs](../ai/rag/gainsight-certification-programs.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
@@ -20099,6 +20105,7 @@ Resources organized by keyword tags.
   - [AI Trading: Evaluating Large Language Models for Technical Market Analysis](../ai/research/arxiv-2607-15414.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
+  - [AI and Infrastructure Engineering](../ai/community/ai-and-infrastructure-engineering.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
@@ -20246,6 +20253,7 @@ Resources organized by keyword tags.
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
+  - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
@@ -20873,6 +20881,7 @@ Resources organized by keyword tags.
   - [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](../ai/research/arxiv-2504-21072.md)
   - [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](../ai/resources/eric-and-wendy-schmidt-ai-in-science-postdoctoral.md)
   - [Eric and Wendy Schmidt to fund space telescope, three ground-based observatories](../ai/rag/eric-and-wendy-schmidt-to-fund-space-telescope-thr.md)
+  - [Erik Brynjolfsson says an AI "job apocalypse" is unlikely](../ai/community/erik-brynjolfsson-says-an-ai-job-apocalypse-is-unl.md)
   - [Error Analysis of Neural-Network-Based Engression](../ai/research/arxiv-2607-27723.md)
   - [Escaping the Quicksand: A Call to Arms](../ai/rag/arxiv-2608-19674.md)
   - [Esri Developer](../ai/rag/esri-developer.md)
@@ -20902,6 +20911,7 @@ Resources organized by keyword tags.
   - [Expanding Data-Agnostic Pivotal Instances Selection Models with Proximity Trees and Ensemble Learning](../ai/rag/arxiv-2607-27522.md)
   - [Expected free energy as an information constraint on the Bethe Lagrangian](../ai/agents/arxiv-2608-17167.md)
   - [Expert Services | GitHub · GitHub](../ai/rag/expert-services-github-github.md)
+  - [Explain it to me like I'm ten](../ai/community/explain-it-to-me-like-i-m-ten.md)
   - [Explainability Methods for Hardware Trojan Detection: A Systematic Comparison](../ai/research/arxiv-2601-18696.md)
   - [Explainability in Practice: A Survey of Explainable NLP Across Various Domains](../ai/research/arxiv-2502-00837.md)
   - [Explainable AI for Chronic Kidney Disease Prediction Using Simulated Federated Learning](../ai/rag/arxiv-2607-25348.md)
@@ -21039,7 +21049,6 @@ Resources organized by keyword tags.
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
   - [GES-TSP: Graph Edge Sparsification for TSP](../ai/research/arxiv-2607-09708.md)
-  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
   - [GMD - Development and technical paper](../ai/rag/gmd-development-and-technical-paper.md)
   - [GMD - Submission](../ai/rag/gmd-submission.md)
   - [GMD - The need for carbon-emissions-driven climate projections in CMIP7](../ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md)
@@ -21271,7 +21280,7 @@ Resources organized by keyword tags.
   - [How Annotation Trains Annotators: Competence Development in Social Influence Recognition](../ai/research/arxiv-2604-02951.md)
   - [How Anthropic teams use Claude Code | Claude by Anthropic](../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md)
   - [How Can Machine Learning Emulators Best Support Climate Science?](../ai/research/arxiv-2603-22320.md)
-  - [How Complex Systems Fail](../ai/community/how-complex-systems-fail.md)
+  - [How Complex Systems Fail (1998)](../ai/community/how-complex-systems-fail.md)
   - [How Content Assistant raised the design quality bar without slowing us down - Inside Atlassian](../ai/rag/how-content-assistant-raised-the-design-quality-ba.md)
   - [How Environment and Urbanization Shape Bird Diversity in Sri Lanka](../ai/research/arxiv-2607-00582.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
@@ -21307,6 +21316,7 @@ Resources organized by keyword tags.
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)
+  - [I turned Unix talk from 1983 into the interface for my AI](../ai/community/i-turned-unix-talk-from-1983-into-the-interface-fo.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
@@ -21731,6 +21741,7 @@ Resources organized by keyword tags.
   - [Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](../ai/rag/arxiv-2607-05736.md)
   - [Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex](../ai/research/arxiv-2604-10359.md)
   - [Music-Source-Separation-Training (MSST): A Unified Framework for Training and Evaluating Music Demixing Models](../ai/research/arxiv-2607-23395.md)
+  - [My agent.md to improve LLM-assisted code quality](../ai/community/my-agent-md-to-improve-llm-assisted-code-quality.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
@@ -21974,6 +21985,7 @@ Resources organized by keyword tags.
   - [Prat011/awesome-llm-skills](../ai/agents/prat011-awesome-llm-skills.md)
   - [Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets](../ai/rag/arxiv-2608-19147.md)
   - [Pre-Warm: Input-Conditioned Weight Initialization for Convolutional Neural Networks](../ai/research/arxiv-2606-25256.md)
+  - [Predicting AI model release dates with stats](../ai/community/predicting-ai-model-release-dates-with-stats.md)
   - [Predicting Groundwater Arsenic Concentrations Using Graph Neural Networks](../ai/research/arxiv-2607-19392.md)
   - [Predicting Male Domestic Violence Using Explainable Ensemble Learning and Exploratory Data Analysis](../ai/research/arxiv-2403-15594.md)
   - [Predicting Male Fertility Using Machine Learning: A Semen Parameters Based Analysis with the VISEM Dataset](../ai/research/arxiv-2607-08429.md)
@@ -22865,7 +22877,6 @@ Resources organized by keyword tags.
   - [Why Git Is the Memory Solution for the Agentic Development Lifecycle](../ai/agents/arxiv-2607-14390.md)
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
-  - [Why your local LLM feels dumber than it is](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
   - [Wikifunctions](../ai/resources/wikifunctions.md)
@@ -23681,7 +23692,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Why your local LLM feels dumber than it is](../ai/community/why-your-local-llm-feels-dumber-than-it-is.md)
+  - [My agent.md to improve LLM-assisted code quality](../ai/community/my-agent-md-to-improve-llm-assisted-code-quality.md)
 
 ## mdx
 
@@ -28855,7 +28866,6 @@ Resources organized by keyword tags.
   - [Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes](../ai/agents/arxiv-2605-28965.md)
   - [G1o22/awesome-ai-agents-2026](../ai/agents/g1o22-awesome-ai-agents-2026.md)
   - [GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning](../ai/agents/arxiv-2505-23399.md)
-  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
   - [Gainsight Certification Programs](../ai/rag/gainsight-certification-programs.md)
   - [Gainsight University](../ai/rag/gainsight-university.md)
   - [Gemma 4 - SGLang Documentation](../ai/rag/gemma-4-sglang-documentation.md)
@@ -41072,7 +41082,6 @@ Resources organized by keyword tags.
   - [GEAR | Google Developer Program | Google for Developers](../ai/agents/gear-google-developer-program-google-for-developer.md)
   - [GEM: A Generative Embedding Model Bridging Reasoning and Retrieval](../ai/research/arxiv-2608-13200.md)
   - [GEO Week News | Lidar, AEC, 3D Technology & Geospatial Insights](../ai/rag/geo-week-news-lidar-aec-3d-technology-geospatial-i.md)
-  - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](../ai/community/glm-5-3-open-weight-beat-anthropic-openai-models-f.md)
   - [GMD - Submission](../ai/rag/gmd-submission.md)
   - [GMD - The need for carbon-emissions-driven climate projections in CMIP7](../ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md)
   - [GMD - fair-calibrate v1.4.1: calibration, constraining, and validation of the FaIR simple climate model for reliable fut](../ai/rag/gmd-fair-calibrate-v1-4-1-calibration-constraining.md)
@@ -50116,4 +50125,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-23T22:34:34.108788+05:30*
+*Index generated on 2026-08-24T02:31:23.961361+05:30*
