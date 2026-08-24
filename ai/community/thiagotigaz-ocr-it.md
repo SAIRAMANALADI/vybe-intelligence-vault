@@ -13,13 +13,14 @@ collected_at: '2026-08-24T18:49:16.258349+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:thiagotigaz/ocr-it
 first_seen: '2026-08-24T14:40:38.468524+05:30'
 last_seen: '2026-08-24T18:49:16.258349+05:30'
 last_checked: '2026-08-24T18:49:16.258349+05:30'
 health_score: 100
 ---
+
 
 # OCR It – pull text out of un-copyable documents for your LLM
 

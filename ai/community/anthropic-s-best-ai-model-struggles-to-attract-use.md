@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
 hn_url: https://news.ycombinator.com/item?id=49411102
-score: 608
+score: 725
 author: naves
-comments_count: 542
+comments_count: 643
 published_at: '2026-08-23T23:46:37+05:30'
-collected_at: '2026-08-24T18:49:16.035305+05:30'
+collected_at: '2026-08-24T22:35:27.190500+05:30'
 tags:
 - ai
 - anthropic
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:anthropic-s-best-ai-model-struggles-to-attract-use
 first_seen: '2026-08-24T02:15:22.862044+05:30'
-last_seen: '2026-08-24T18:49:16.035305+05:30'
-last_checked: '2026-08-24T18:49:16.035305+05:30'
+last_seen: '2026-08-24T22:35:27.190500+05:30'
+last_checked: '2026-08-24T22:35:27.190500+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by naves. Score: 608, Comments: 542.
+Hacker News story by naves. Score: 725, Comments: 643.
 Original Link: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: naves
-- Score: 608 Upvotes
-- Comments: 542 Discussions
+- Score: 725 Upvotes
+- Comments: 643 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49411102
 - Original Article: https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
 

@@ -13,13 +13,14 @@ collected_at: '2026-08-24T18:49:18.500955+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:explain-it-to-me-like-i-m-ten
 first_seen: '2026-08-24T02:15:22.284941+05:30'
 last_seen: '2026-08-24T18:49:18.500955+05:30'
 last_checked: '2026-08-24T18:49:18.500955+05:30'
 health_score: 100
 ---
+
 
 # Explain it to me like I'm ten
 

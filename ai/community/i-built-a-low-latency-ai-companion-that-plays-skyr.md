@@ -13,13 +13,14 @@ collected_at: '2026-08-24T18:49:16.652916+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-built-a-low-latency-ai-companion-that-plays-skyr
 first_seen: '2026-08-24T10:38:03.106283+05:30'
 last_seen: '2026-08-24T18:49:16.652916+05:30'
 last_checked: '2026-08-24T18:49:16.652916+05:30'
 health_score: 100
 ---
+
 
 # I built a low-latency AI companion that plays Skyrim with me
 

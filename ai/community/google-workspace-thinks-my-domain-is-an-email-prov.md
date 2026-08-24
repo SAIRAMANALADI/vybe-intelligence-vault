@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:google-workspace-thinks-my-domain-is-an-email-prov
 first_seen: '2026-08-24T07:33:22.183051+05:30'
 last_seen: '2026-08-24T18:49:16.845953+05:30'
 last_checked: '2026-08-24T18:49:16.845953+05:30'
 health_score: 100
 ---
+
 
 # Google Workspace thinks my domain is an email provider (2025)
 

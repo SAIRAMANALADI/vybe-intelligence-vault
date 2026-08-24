@@ -17965,9 +17965,7 @@ Resources organized by publisher feed and query sources.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
-  - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Code & data](../ai/companies/code-data.md)
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Engineering](../ai/companies/openai/engineering.md)
@@ -17994,6 +17992,7 @@ Resources organized by publisher feed and query sources.
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
+  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
@@ -18873,20 +18872,18 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Chip Architectures](../ai/community/ai-chip-architectures.md)
-  - [Anthropic candidates face blunt money question](../ai/community/anthropic-candidates-face-blunt-money-question.md)
+  - [Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online](../ai/community/anna-s-archive-owes-340-million-lost-several-domai.md)
   - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
-  - [Ask HN: Why do corporate failures always seem to punish the wrong people?](../ai/community/ask-hn-why-do-corporate-failures-always-seem-to-pu.md)
-  - [Explain it to me like I'm ten](../ai/community/explain-it-to-me-like-i-m-ten.md)
+  - [Coding expertise is going to collapse from AI reliance](../ai/community/coding-expertise-is-going-to-collapse-from-ai-reli.md)
   - [FDA clears blood test to aid evaluation for Alzheimer's disease](../ai/community/fda-clears-blood-test-to-aid-evaluation-for-alzhei.md)
-  - [Google Workspace thinks my domain is an email provider (2025)](../ai/community/google-workspace-thinks-my-domain-is-an-email-prov.md)
-  - [How Complex Systems Fail (1998)](../ai/community/how-complex-systems-fail.md)
-  - [I built a low-latency AI companion that plays Skyrim with me](../ai/community/i-built-a-low-latency-ai-companion-that-plays-skyr.md)
   - [I were 17, I'd learn how to build LLMs from scratch](../ai/community/i-were-17-i-d-learn-how-to-build-llms-from-scratch.md)
-  - [My agent.md to improve LLM-assisted code quality](../ai/community/my-agent-md-to-improve-llm-assisted-code-quality.md)
-  - [New EU-wide product repair rules come into force](../ai/community/new-eu-wide-product-repair-rules-come-into-force.md)
-  - [OCR It – pull text out of un-copyable documents for your LLM](../ai/community/thiagotigaz-ocr-it.md)
-  - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](../ai/community/woman-stranded-in-spain-after-uk-s-evisa-system-mi.md)
+  - [IPFS Maintainers Winding Down](../ai/community/ipfs-maintainers-winding-down.md)
+  - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](../ai/community/ms-paint-and-photos-inivisibly-watermark-even-loca.md)
+  - [NetBSD GSoC 2026 Improving RAIDframe](../ai/community/netbsd-gsoc-2026-improving-raidframe.md)
+  - [OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](../ai/community/openai-gpt-5-6-sol-price-reduction-until-at-least.md)
+  - [Public services are increasingly strained by LLM-written appeals for benefits](../ai/community/arxiv-2608-16603.md)
+  - [Show HN: Free Inference Engineer and Model Training Roadmap](../ai/community/show-hn-free-inference-engineer-and-model-training.md)
+  - [Show HN: PicoMQ – Durable Streams over HTTP, on object storage](../ai/community/show-hn-picomq-durable-streams-over-http-on-object.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -22703,4 +22700,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-24T19:05:25.679596+05:30*
+*Index generated on 2026-08-24T22:51:32.191004+05:30*

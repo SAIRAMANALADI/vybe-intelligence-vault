@@ -13,13 +13,14 @@ collected_at: '2026-08-24T18:49:17.252960+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:woman-stranded-in-spain-after-uk-s-evisa-system-mi
 first_seen: '2026-08-24T18:49:17.252960+05:30'
 last_seen: '2026-08-24T18:49:17.252960+05:30'
 last_checked: '2026-08-24T18:49:17.252960+05:30'
 health_score: 100
 ---
+
 
 # Woman stranded in Spain after UK's eVisa system mistakes her for twin sister
 

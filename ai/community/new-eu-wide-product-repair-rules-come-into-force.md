@@ -13,13 +13,14 @@ collected_at: '2026-08-24T18:49:17.374152+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:new-eu-wide-product-repair-rules-come-into-force
 first_seen: '2026-08-24T14:40:38.820508+05:30'
 last_seen: '2026-08-24T18:49:17.374152+05:30'
 last_checked: '2026-08-24T18:49:17.374152+05:30'
 health_score: 100
 ---
+
 
 # New EU-wide product repair rules come into force
 

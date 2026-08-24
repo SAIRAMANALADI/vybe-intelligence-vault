@@ -13,13 +13,14 @@ collected_at: '2026-08-24T18:49:17.734475+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-complex-systems-fail-1998
 first_seen: '2026-08-23T22:18:23.107597+05:30'
 last_seen: '2026-08-24T18:49:17.734475+05:30'
 last_checked: '2026-08-24T18:49:17.734475+05:30'
 health_score: 100
 ---
+
 
 # How Complex Systems Fail (1998)
 

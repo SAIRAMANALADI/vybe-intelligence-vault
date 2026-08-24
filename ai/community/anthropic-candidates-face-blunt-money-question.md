@@ -13,13 +13,14 @@ collected_at: '2026-08-24T18:49:17.162185+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-candidates-face-blunt-money-question
 first_seen: '2026-08-24T18:49:17.162185+05:30'
 last_seen: '2026-08-24T18:49:17.162185+05:30'
 last_checked: '2026-08-24T18:49:17.162185+05:30'
 health_score: 100
 ---
+
 
 # Anthropic candidates face blunt money question
 

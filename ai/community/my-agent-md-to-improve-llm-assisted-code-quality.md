@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:my-agent-md-to-improve-llm-assisted-code-quality
 first_seen: '2026-08-24T02:15:22.007167+05:30'
 last_seen: '2026-08-24T18:49:17.058855+05:30'
 last_checked: '2026-08-24T18:49:17.058855+05:30'
 health_score: 100
 ---
+
 
 # My agent.md to improve LLM-assisted code quality
 
