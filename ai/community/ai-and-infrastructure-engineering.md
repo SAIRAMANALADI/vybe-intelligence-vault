@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://omegion.dev/2026/08/ai-and-infrastructure-engineering
 hn_url: https://news.ycombinator.com/item?id=49411024
-score: 44
+score: 59
 author: 0megion
-comments_count: 12
+comments_count: 20
 published_at: '2026-08-23T23:39:01+05:30'
-collected_at: '2026-08-24T07:33:24.541620+05:30'
+collected_at: '2026-08-24T10:38:05.820790+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-and-infrastructure-engineering
 first_seen: '2026-08-24T02:15:23.534168+05:30'
-last_seen: '2026-08-24T07:33:24.541620+05:30'
-last_checked: '2026-08-24T07:33:24.541620+05:30'
+last_seen: '2026-08-24T10:38:05.820790+05:30'
+last_checked: '2026-08-24T10:38:05.820790+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by 0megion. Score: 44, Comments: 12.
+Hacker News story by 0megion. Score: 59, Comments: 20.
 Original Link: https://omegion.dev/2026/08/ai-and-infrastructure-engineering/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: 0megion
-- Score: 44 Upvotes
-- Comments: 12 Discussions
+- Score: 59 Upvotes
+- Comments: 20 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49411024
 - Original Article: https://omegion.dev/2026/08/ai-and-infrastructure-engineering
 

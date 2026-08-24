@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms
 hn_url: https://news.ycombinator.com/item?id=49412328
-score: 27
+score: 52
 author: simonebrunozzi
-comments_count: 16
+comments_count: 31
 published_at: '2026-08-24T02:00:50+05:30'
-collected_at: '2026-08-24T07:33:24.076620+05:30'
+collected_at: '2026-08-24T10:38:03.902731+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:rural-village-in-spain-is-welcoming-digital-nomads
 first_seen: '2026-08-24T07:33:24.076620+05:30'
-last_seen: '2026-08-24T07:33:24.076620+05:30'
-last_checked: '2026-08-24T07:33:24.076620+05:30'
+last_seen: '2026-08-24T10:38:03.902731+05:30'
+last_checked: '2026-08-24T10:38:03.902731+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by simonebrunozzi. Score: 27, Comments: 16.
+Hacker News story by simonebrunozzi. Score: 52, Comments: 31.
 Original Link: https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: simonebrunozzi
-- Score: 27 Upvotes
-- Comments: 16 Discussions
+- Score: 52 Upvotes
+- Comments: 31 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49412328
 - Original Article: https://cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms
 

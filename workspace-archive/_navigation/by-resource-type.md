@@ -99,12 +99,12 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation](https://arxiv.org/abs/2607.05750) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-05750.md))
 - [UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://arxiv.org/abs/2608.15930) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-15930.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
+- [$Z^2$-ACT: End-to-End Verifiable Agentic Intent Control for Open 6G RAN](https://arxiv.org/abs/2608.21049) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-21049.md))
 - [ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments](https://arxiv.org/abs/2606.25207) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-25207.md))
 - [Agentic Calibration of Grey-Box Simulation Models: An LLM-Driven Alternative](https://arxiv.org/abs/2607.18308) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-18308.md))
 - [K9-Bench: Evaluating Multimodal LLMs on Canine-Centric Videos](https://arxiv.org/abs/2607.02680) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-02680.md))
 - [SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure](https://arxiv.org/abs/2608.11079) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-11079.md))
 - [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-04077.md))
-- [Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18166.md))
 
 ## REFERENCE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
 
 ---
-*Last updated: 2026-08-24 07:51 IST*
+*Last updated: 2026-08-24 10:57 IST*

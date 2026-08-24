@@ -80,6 +80,7 @@ This index groups curated resources by target developer skills.
 
 ## Context Window Engineering
 
+- [KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs](https://arxiv.org/abs/2608.20887) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-20887.md))
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (Tier: `useful` | [`Local File`](../../ai/agents/muhammadusmangm-claude-code-best-practices.md))
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (Tier: `useful` | [`Local File`](../../ai/agents/openai-model-spec.md))
 - [How Anthropic teams use Claude Code | Claude by Anthropic](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code) (Tier: `useful` | [`Local File`](../../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md))
@@ -87,7 +88,6 @@ This index groups curated resources by target developer skills.
 - [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer#before-you-begin) (Tier: `useful` | [`Local File`](../../ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md))
 - [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](https://arxiv.org/abs/2608.11095) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-11095.md))
 - [Introducing LangSmith Context Hub](https://www.langchain.com/blog/introducing-context-hub) (Tier: `useful` | [`Local File`](../../ai/rag/introducing-langsmith-context-hub.md))
-- [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (Tier: `useful` | [`Local File`](../../ai/rag/introduction-wordpress-playground.md))
 
 ## Data Curation
 
@@ -128,10 +128,10 @@ This index groups curated resources by target developer skills.
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2511-05522.md))
 - [RAPiD: Reward-Guided Consistency Distillation of Diffusion Planners for Real-Time Autonomous Driving](https://arxiv.org/abs/2602.07339) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2602-07339.md))
+- [$Z^2$-ACT: End-to-End Verifiable Agentic Intent Control for Open 6G RAN](https://arxiv.org/abs/2608.21049) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-21049.md))
 - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 - [Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-17979.md))
 - [ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments](https://arxiv.org/abs/2606.25207) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-25207.md))
-- [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-08282.md))
 
 ## Embedding Vectors
 
@@ -205,10 +205,10 @@ This index groups curated resources by target developer skills.
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2511-05522.md))
 - [RAPiD: Reward-Guided Consistency Distillation of Diffusion Planners for Real-Time Autonomous Driving](https://arxiv.org/abs/2602.07339) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2602-07339.md))
+- [$Z^2$-ACT: End-to-End Verifiable Agentic Intent Control for Open 6G RAN](https://arxiv.org/abs/2608.21049) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-21049.md))
 - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 - [Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-17979.md))
 - [ASAP: Agent-System Co-Design for Wall-Clock-Centered Auto HPO Research for ML Experiments](https://arxiv.org/abs/2606.25207) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-25207.md))
-- [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-08282.md))
 
 ## Local LLMs
 
@@ -311,6 +311,7 @@ This index groups curated resources by target developer skills.
 
 ## Prompt Curation
 
+- [KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs](https://arxiv.org/abs/2608.20887) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-20887.md))
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (Tier: `useful` | [`Local File`](../../ai/agents/muhammadusmangm-claude-code-best-practices.md))
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (Tier: `useful` | [`Local File`](../../ai/agents/openai-model-spec.md))
 - [How Anthropic teams use Claude Code | Claude by Anthropic](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code) (Tier: `useful` | [`Local File`](../../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md))
@@ -318,7 +319,6 @@ This index groups curated resources by target developer skills.
 - [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer#before-you-begin) (Tier: `useful` | [`Local File`](../../ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md))
 - [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](https://arxiv.org/abs/2608.11095) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-11095.md))
 - [Introducing LangSmith Context Hub](https://www.langchain.com/blog/introducing-context-hub) (Tier: `useful` | [`Local File`](../../ai/rag/introducing-langsmith-context-hub.md))
-- [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (Tier: `useful` | [`Local File`](../../ai/rag/introduction-wordpress-playground.md))
 
 ## Prompt Engineering
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 
 ---
-*Last updated: 2026-08-24 07:51 IST*
+*Last updated: 2026-08-24 10:57 IST*

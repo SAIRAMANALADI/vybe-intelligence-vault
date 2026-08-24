@@ -13,13 +13,14 @@ collected_at: '2026-08-24T07:33:23.926908+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-chip-architectures
 first_seen: '2026-08-24T07:33:23.926908+05:30'
 last_seen: '2026-08-24T07:33:23.926908+05:30'
 last_checked: '2026-08-24T07:33:23.926908+05:30'
 health_score: 100
 ---
+
 
 # AI Chip Architectures
 

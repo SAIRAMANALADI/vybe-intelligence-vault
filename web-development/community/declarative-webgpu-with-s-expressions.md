@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions
 hn_url: https://news.ycombinator.com/item?id=49412467
-score: 20
+score: 29
 author: hugodan
 comments_count: 3
 published_at: '2026-08-24T02:17:53+05:30'
-collected_at: '2026-08-24T07:33:24.373565+05:30'
+collected_at: '2026-08-24T10:38:06.315965+05:30'
 tags:
 - hackernews
 - threejs
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:declarative-webgpu-with-s-expressions
 first_seen: '2026-08-24T07:33:24.373565+05:30'
-last_seen: '2026-08-24T07:33:24.373565+05:30'
-last_checked: '2026-08-24T07:33:24.373565+05:30'
+last_seen: '2026-08-24T10:38:06.315965+05:30'
+last_checked: '2026-08-24T10:38:06.315965+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by hugodan. Score: 20, Comments: 3.
+Hacker News story by hugodan. Score: 29, Comments: 3.
 Original Link: https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/
 
 ## Why It Matters
@@ -36,7 +36,7 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: hugodan
-- Score: 20 Upvotes
+- Score: 29 Upvotes
 - Comments: 3 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49412467
 - Original Article: https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions
