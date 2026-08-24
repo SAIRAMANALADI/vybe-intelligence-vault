@@ -5115,12 +5115,14 @@ Resources organized by keyword tags.
 
   - [AI Chip Architectures](../ai/community/ai-chip-architectures.md)
   - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
+  - [Ask HN: Why do corporate failures always seem to punish the wrong people?](../ai/community/ask-hn-why-do-corporate-failures-always-seem-to-pu.md)
   - [Explain it to me like I'm ten](../ai/community/explain-it-to-me-like-i-m-ten.md)
   - [FDA clears blood test to aid evaluation for Alzheimer's disease](../ai/community/fda-clears-blood-test-to-aid-evaluation-for-alzhei.md)
   - [Google Workspace thinks my domain is an email provider (2025)](../ai/community/google-workspace-thinks-my-domain-is-an-email-prov.md)
   - [How Complex Systems Fail (1998)](../ai/community/how-complex-systems-fail.md)
   - [I built a low-latency AI companion that plays Skyrim with me](../ai/community/i-built-a-low-latency-ai-companion-that-plays-skyr.md)
   - [New EU-wide product repair rules come into force](../ai/community/new-eu-wide-product-repair-rules-come-into-force.md)
+  - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](../ai/community/woman-stranded-in-spain-after-uk-s-evisa-system-mi.md)
 
 ## animation
 
@@ -5199,7 +5201,7 @@ Resources organized by keyword tags.
   - [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../ai/agents/arxiv-2608-12249.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
-  - [Anthropic Claude and API service outages](../ai/community/anthropic-claude-and-api-service-outages.md)
+  - [Anthropic candidates face blunt money question](../ai/community/anthropic-candidates-face-blunt-money-question.md)
   - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
@@ -5692,7 +5694,6 @@ Resources organized by keyword tags.
   - [Who Analyses the Analyser? Self-Validating LLM Hazard Analysis with Constitutional Meta-STPA](../ai/rag/arxiv-2607-08054.md)
   - [Why Billionaire Wendy Schmidt Is ‘Doubling Down’ On Climate Science In The Age Of Trump](../ai/rag/why-billionaire-wendy-schmidt-is-doubling-down-on.md)
   - [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](../ai/agents/arxiv-2608-11095.md)
-  - [Why is Anthropic's public writing style so unlike Claude's?](../ai/community/why-is-anthropic-s-public-writing-style-so-unlike.md)
   - [Wikidata](../ai/rag/wikidata.md)
   - [Will the Agent Recuse, and Will It Stop? Measuring LLM-Agent Compliance with In-Band Governance Signals at the Access Door and Mid-Flight](../ai/agents/arxiv-2606-06460.md)
   - [WorkBench Revisited: Workplace Agents Two Years On](../ai/agents/arxiv-2606-13715.md)
@@ -20624,7 +20625,7 @@ Resources organized by keyword tags.
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
-  - [Anthropic Claude and API service outages](../ai/community/anthropic-claude-and-api-service-outages.md)
+  - [Anthropic candidates face blunt money question](../ai/community/anthropic-candidates-face-blunt-money-question.md)
   - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
@@ -20658,6 +20659,7 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
+  - [Ask HN: Why do corporate failures always seem to punish the wrong people?](../ai/community/ask-hn-why-do-corporate-failures-always-seem-to-pu.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Assessment Design in the GenAI Era: The X1-X2-X3 Assessment Pattern for Testing Students' AI Literacy, Learning Outcomes, and Reflection](../ai/research/arxiv-2608-12351.md)
   - [Associated Press Stylebook](../ai/resources/associated-press-stylebook.md)
@@ -23282,7 +23284,6 @@ Resources organized by keyword tags.
   - [Why Git Is the Memory Solution for the Agentic Development Lifecycle](../ai/agents/arxiv-2607-14390.md)
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
-  - [Why is Anthropic's public writing style so unlike Claude's?](../ai/community/why-is-anthropic-s-public-writing-style-so-unlike.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
   - [Wikifunctions](../ai/resources/wikifunctions.md)
@@ -23291,6 +23292,7 @@ Resources organized by keyword tags.
   - [Wikimedia Projects – Wikimedia Foundation](../ai/rag/wikimedia-projects-wikimedia-foundation.md)
   - [Wikitech](../ai/resources/wikitech.md)
   - [Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media](../ai/research/arxiv-2608-17017.md)
+  - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](../ai/community/woman-stranded-in-spain-after-uk-s-evisa-system-mi.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
@@ -50881,4 +50883,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-24T14:56:44.662227+05:30*
+*Index generated on 2026-08-24T19:05:25.434280+05:30*

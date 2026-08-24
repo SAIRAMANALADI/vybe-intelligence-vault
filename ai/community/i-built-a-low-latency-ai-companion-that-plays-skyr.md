@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://pantel.is/projects/ai-gaming-companion
 hn_url: https://news.ycombinator.com/item?id=49413561
-score: 146
+score: 229
 author: pantelisk
-comments_count: 27
+comments_count: 42
 published_at: '2026-08-24T04:48:17+05:30'
-collected_at: '2026-08-24T14:40:38.921184+05:30'
+collected_at: '2026-08-24T18:49:16.652916+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:i-built-a-low-latency-ai-companion-that-plays-skyr
 first_seen: '2026-08-24T10:38:03.106283+05:30'
-last_seen: '2026-08-24T14:40:38.921184+05:30'
-last_checked: '2026-08-24T14:40:38.921184+05:30'
+last_seen: '2026-08-24T18:49:16.652916+05:30'
+last_checked: '2026-08-24T18:49:16.652916+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by pantelisk. Score: 146, Comments: 27.
+Hacker News story by pantelisk. Score: 229, Comments: 42.
 Original Link: https://pantel.is/projects/ai-gaming-companion/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: pantelisk
-- Score: 146 Upvotes
-- Comments: 27 Discussions
+- Score: 229 Upvotes
+- Comments: 42 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49413561
 - Original Article: https://pantel.is/projects/ai-gaming-companion
 

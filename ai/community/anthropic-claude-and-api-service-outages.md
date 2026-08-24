@@ -13,13 +13,14 @@ collected_at: '2026-08-24T14:40:40.676397+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-claude-and-api-service-outages
 first_seen: '2026-08-24T14:40:40.676397+05:30'
 last_seen: '2026-08-24T14:40:40.676397+05:30'
 last_checked: '2026-08-24T14:40:40.676397+05:30'
 health_score: 100
 ---
+
 
 # Anthropic Claude and API service outages
 
