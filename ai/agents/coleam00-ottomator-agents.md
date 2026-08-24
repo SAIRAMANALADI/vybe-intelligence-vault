@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coleam00/ottomator-agents
-collected_at: '2026-08-23T14:27:16.518946+05:30'
-published_at: '2026-08-23T04:12:05Z'
+collected_at: '2026-08-24T14:43:46.811935+05:30'
+published_at: '2026-08-23T17:58:42Z'
 tags:
 - agents
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-12-02T00:47:45Z'
 pushed_at: '2025-11-09T21:46:48Z'
 resource_id: github:coleam00/ottomator-agents
-first_seen: '2026-08-23T14:27:16.518946+05:30'
-last_seen: '2026-08-23T14:27:16.518946+05:30'
-last_checked: '2026-08-23T14:27:16.518946+05:30'
+first_seen: '2026-08-24T14:43:46.811935+05:30'
+last_seen: '2026-08-24T14:43:46.811935+05:30'
+last_checked: '2026-08-24T14:43:46.811935+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   `coleam00/ottomator-agents` hosts open-source AI Agents specifically designed for integration with the oTTomator Live Agent Studio platform.
-*   Agent implementations within the repository are predominantly developed in Python, indicating a Python-centric development ecosystem.
-*   The repository provides a public collection of deployable AI agent code, enabling community contributions and platform extensibility.
+*   Hosts open-source AI agents specifically designed for the oTTomator Live Agent Studio platform.
+*   Primarily implemented in Python.
+*   Demonstrates significant community engagement with 5.7k stars and 1.9k forks; last updated 2026-08-23.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 1947
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-23T04:12:05Z
+- Last Updated: 2026-08-23T17:58:42Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-02T00:47:45Z

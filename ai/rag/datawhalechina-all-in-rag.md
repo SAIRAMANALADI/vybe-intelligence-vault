@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-08-24T10:40:11.370478+05:30'
-published_at: '2026-08-24T03:19:01Z'
+collected_at: '2026-08-24T14:41:16.675374+05:30'
+published_at: '2026-08-24T08:56:21Z'
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
-stars: 10549
+stars: 10555
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-08-24T10:40:11.370478+05:30'
-last_seen: '2026-08-24T10:40:11.370478+05:30'
-last_checked: '2026-08-24T10:40:11.370478+05:30'
+first_seen: '2026-08-24T14:41:16.675374+05:30'
+last_seen: '2026-08-24T14:41:16.675374+05:30'
+last_checked: '2026-08-24T14:41:16.675374+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a full-stack RAG implementation guide leveraging LangChain/LlamaIndex for LLM orchestration with vector databases (Milvus) and knowledge graphs (Neo4j).
-*   Explores multimodal RAG architectures and integrates specific embedding models (e.g., DeepSeek, Kimi-K2) for enhanced retrieval performance.
-*   Offers practical development patterns for advanced RAG applications, emphasizing Python-based tooling and comprehensive system design.
+*   Provides a full-stack RAG implementation guide, encompassing foundational principles to advanced techniques.
+*   Leverages a diverse set of LLM frameworks (LangChain, LlamaIndex), vector databases (Milvus), and graph databases (Neo4j) for practical RAG system development.
+*   Integrates with specific LLMs (DeepSeek, Kimi-K2) and explores multimodal RAG architectures, demonstrating broad application scope.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 10549
-- Forks: 5236
+- Stars: 10555
+- Forks: 5237
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-08-24T03:19:01Z
+- Last Updated: 2026-08-24T08:56:21Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-07-29T11:43:11Z

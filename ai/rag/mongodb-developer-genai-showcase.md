@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mongodb-developer/GenAI-Showcase
-collected_at: '2026-08-23T14:27:16.599813+05:30'
+collected_at: '2026-08-24T14:43:46.927878+05:30'
 published_at: '2026-08-22T18:22:47Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-30T14:20:36Z'
 pushed_at: '2026-08-21T16:42:58Z'
 resource_id: github:mongodb-developer/genai-showcase
-first_seen: '2026-08-23T14:27:16.599813+05:30'
-last_seen: '2026-08-23T14:27:16.599813+05:30'
-last_checked: '2026-08-23T14:27:16.599813+05:30'
+first_seen: '2026-08-24T14:43:46.927878+05:30'
+last_seen: '2026-08-24T14:43:46.927878+05:30'
+last_checked: '2026-08-24T14:43:46.927878+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Exhaustive GenAI showcase providing sample applications and examples for RAG and AI agent architectures.
-*   Covers industry-specific use cases, demonstrating practical applications of large language models (LLMs).
-*   Implemented primarily in Python via Jupyter Notebooks, leveraging MongoDB Atlas for data persistence and vector search.
+*   Showcases practical Generative AI implementations, including RAG and AI agents, leveraging MongoDB Atlas for data persistence and retrieval.
+*   Provides a comprehensive collection of Python-based sample applications and examples, primarily delivered via Jupyter Notebooks.
+*   Explores diverse industry-specific use cases for LLM-powered solutions integrated with MongoDB's data platform.
 
 ## Why It Matters
 

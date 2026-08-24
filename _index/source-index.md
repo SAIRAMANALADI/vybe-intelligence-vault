@@ -18873,15 +18873,19 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI and Infrastructure Engineering](../ai/community/ai-and-infrastructure-engineering.md)
+  - [AI Chip Architectures](../ai/community/ai-chip-architectures.md)
+  - [Anthropic Claude and API service outages](../ai/community/anthropic-claude-and-api-service-outages.md)
   - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
-  - [Declarative WebGPU with S-Expressions](../web-development/community/declarative-webgpu-with-s-expressions.md)
   - [Explain it to me like I'm ten](../ai/community/explain-it-to-me-like-i-m-ten.md)
+  - [FDA clears blood test to aid evaluation for Alzheimer's disease](../ai/community/fda-clears-blood-test-to-aid-evaluation-for-alzhei.md)
   - [Google Workspace thinks my domain is an email provider (2025)](../ai/community/google-workspace-thinks-my-domain-is-an-email-prov.md)
   - [How Complex Systems Fail (1998)](../ai/community/how-complex-systems-fail.md)
   - [I built a low-latency AI companion that plays Skyrim with me](../ai/community/i-built-a-low-latency-ai-companion-that-plays-skyr.md)
+  - [I were 17, I'd learn how to build LLMs from scratch](../ai/community/i-were-17-i-d-learn-how-to-build-llms-from-scratch.md)
   - [My agent.md to improve LLM-assisted code quality](../ai/community/my-agent-md-to-improve-llm-assisted-code-quality.md)
-  - [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](../ai/community/rural-village-in-spain-is-welcoming-digital-nomads.md)
+  - [New EU-wide product repair rules come into force](../ai/community/new-eu-wide-product-repair-rules-come-into-force.md)
+  - [OCR It – pull text out of un-copyable documents for your LLM](../ai/community/thiagotigaz-ocr-it.md)
+  - [Why is Anthropic's public writing style so unlike Claude's?](../ai/community/why-is-anthropic-s-public-writing-style-so-unlike.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -22698,4 +22702,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-24T10:55:34.819960+05:30*
+*Index generated on 2026-08-24T14:56:44.900928+05:30*

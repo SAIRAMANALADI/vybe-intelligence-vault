@@ -13,13 +13,14 @@ collected_at: '2026-08-24T10:38:03.902731+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:rural-village-in-spain-is-welcoming-digital-nomads
 first_seen: '2026-08-24T07:33:24.076620+05:30'
 last_seen: '2026-08-24T10:38:03.902731+05:30'
 last_checked: '2026-08-24T10:38:03.902731+05:30'
 health_score: 100
 ---
+
 
 # Rural Village in Spain Is Welcoming Digital Nomads with Open Arms
 

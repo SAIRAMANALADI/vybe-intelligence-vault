@@ -13,13 +13,14 @@ collected_at: '2026-08-24T10:38:05.820790+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-and-infrastructure-engineering
 first_seen: '2026-08-24T02:15:23.534168+05:30'
 last_seen: '2026-08-24T10:38:05.820790+05:30'
 last_checked: '2026-08-24T10:38:05.820790+05:30'
 health_score: 100
 ---
+
 
 # AI and Infrastructure Engineering
 

@@ -14,13 +14,14 @@ tags:
 - hackernews
 - threejs
 - webgpu
-status: active
+status: inactive
 resource_id: hackernews:declarative-webgpu-with-s-expressions
 first_seen: '2026-08-24T07:33:24.373565+05:30'
 last_seen: '2026-08-24T10:38:06.315965+05:30'
 last_checked: '2026-08-24T10:38:06.315965+05:30'
 health_score: 100
 ---
+
 
 # Declarative WebGPU with S-Expressions
 
