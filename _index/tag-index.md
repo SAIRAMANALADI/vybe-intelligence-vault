@@ -5112,16 +5112,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online](../ai/community/anna-s-archive-owes-340-million-lost-several-domai.md)
-  - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
   - [Coding expertise is going to collapse from AI reliance](../ai/community/coding-expertise-is-going-to-collapse-from-ai-reli.md)
   - [FDA clears blood test to aid evaluation for Alzheimer's disease](../ai/community/fda-clears-blood-test-to-aid-evaluation-for-alzhei.md)
   - [IPFS Maintainers Winding Down](../ai/community/ipfs-maintainers-winding-down.md)
   - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](../ai/community/ms-paint-and-photos-inivisibly-watermark-even-loca.md)
-  - [NetBSD GSoC 2026 Improving RAIDframe](../ai/community/netbsd-gsoc-2026-improving-raidframe.md)
   - [OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](../ai/community/openai-gpt-5-6-sol-price-reduction-until-at-least.md)
-  - [Public services are increasingly strained by LLM-written appeals for benefits](../ai/community/arxiv-2608-16603.md)
-  - [Show HN: Free Inference Engineer and Model Training Roadmap](../ai/community/show-hn-free-inference-engineer-and-model-training.md)
+  - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](../ai/community/getkern-kern.md)
 
 ## animation
 
@@ -5200,7 +5196,6 @@ Resources organized by keyword tags.
   - [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](../ai/agents/arxiv-2608-12249.md)
   - [An Exam for Active Observers](../ai/rag/arxiv-2607-16165.md)
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
-  - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
@@ -13914,13 +13909,11 @@ Resources organized by keyword tags.
   - [Code & data](../ai/companies/code-data.md)
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Engineering](../ai/companies/openai/engineering.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
-  - [Introducing Shieldstral.](../ai/companies/mistral/introducing-shieldstral.md)
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
@@ -13932,6 +13925,7 @@ Resources organized by keyword tags.
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
+  - [Mistral x HUMAIN](../ai/companies/mistral/mistral-x-humain.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [Publications](../ai/companies/publications.md)
@@ -13940,6 +13934,7 @@ Resources organized by keyword tags.
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
+  - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
 ## c
@@ -20616,10 +20611,8 @@ Resources organized by keyword tags.
   - [Android Developers](../ai/rag/android-developers.md)
   - [Android Developers Blog](../ai/agents/android-developers-blog.md)
   - [Android Developers Blog: A New Foundation for AI on Android](../ai/resources/android-developers-blog-a-new-foundation-for-ai-on.md)
-  - [Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online](../ai/community/anna-s-archive-owes-340-million-lost-several-domai.md)
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
-  - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
   - [Apache Infrastructure Website](../ai/agents/apache-infrastructure-website.md)
   - [Apache SpamAssassin: Welcome](../ai/agents/apache-spamassassin-welcome.md)
@@ -21864,6 +21857,7 @@ Resources organized by keyword tags.
   - [LLMs Can Annotate Attribution Graphs](../ai/research/arxiv-2608-02632.md)
   - [LLMs Can Better Capture Human Judgments--With the Right Prompts](../ai/research/arxiv-2606-12754.md)
   - [LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications](../ai/agents/arxiv-2607-18147.md)
+  - [LLMs could control their host machines by exploiting inference engines](../ai/community/llms-could-control-their-host-machines-by-exploiti.md)
   - [LTM: Large-scale Terrain Model for Wildfire-prone Landscapes](../ai/rag/arxiv-2607-08711.md)
   - [LangChain - YouTube](../ai/resources/langchain-youtube.md)
   - [LangChain Forum](../ai/agents/langchain-forum.md)
@@ -22152,7 +22146,6 @@ Resources organized by keyword tags.
   - [Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](../ai/agents/arxiv-2606-15007.md)
   - [Neo4j - YouTube](../ai/rag/neo4j-youtube.md)
   - [Neon — Postgres backends for apps and agents](../ai/rag/neon-postgres-backends-for-apps-and-agents.md)
-  - [NetBSD GSoC 2026 Improving RAIDframe](../ai/community/netbsd-gsoc-2026-improving-raidframe.md)
   - [Neural Architectures for Amortized Bayesian Inference: Statistical Foundations and Empirical Assessments](../ai/research/arxiv-2601-07944.md)
   - [Neural Born Series Operator for Biomedical Ultrasound Computed Tomography](../ai/research/arxiv-2312-15575.md)
   - [Neural Network Approximation of Solutions to Fractional Parabolic Partial Differential Equations](../ai/research/arxiv-2607-27781.md)
@@ -22441,7 +22434,6 @@ Resources organized by keyword tags.
   - [PseudoMapLabeler: Confidence-Aware Pseudo-Label Generation for Semi-Supervised Online Mapping](../ai/rag/arxiv-2608-12600.md)
   - [Psychological Competence as a Missing Dimension in AI Evaluation](../ai/research/arxiv-2607-08285.md)
   - [Public perceptions of AI-driven decision-making in healthcare: A structural equation modeling approach](../ai/agents/arxiv-2607-18884.md)
-  - [Public services are increasingly strained by LLM-written appeals for benefits](../ai/community/arxiv-2608-16603.md)
   - [Publications – Google Research](../ai/rag/publications-google-research.md)
   - [Publish Docker · Actions · GitHub Marketplace · GitHub](../ai/resources/marketplace-actions.md)
   - [PulmoSight-XAI: An Explainable Multi-View Attention Ensemble with Gradient Boosting Meta-Learning for Multi-Label Chest X-Ray Classification](../ai/rag/arxiv-2607-04478.md)
@@ -22727,7 +22719,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Free Inference Engineer and Model Training Roadmap](../ai/community/show-hn-free-inference-engineer-and-model-training.md)
+  - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](../ai/community/getkern-kern.md)
   - [Show HN: PicoMQ – Durable Streams over HTTP, on object storage](../ai/community/show-hn-picomq-durable-streams-over-http-on-object.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -23389,7 +23381,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -24096,7 +24087,7 @@ Resources organized by keyword tags.
 ## llm
 
   - [I were 17, I'd learn how to build LLMs from scratch](../ai/community/i-were-17-i-d-learn-how-to-build-llms-from-scratch.md)
-  - [Public services are increasingly strained by LLM-written appeals for benefits](../ai/community/arxiv-2608-16603.md)
+  - [LLMs could control their host machines by exploiting inference engines](../ai/community/llms-could-control-their-host-machines-by-exploiti.md)
 
 ## mdx
 
@@ -24820,7 +24811,6 @@ Resources organized by keyword tags.
   - [Do LLMs Reliably Identify Correct Information Units in Aphasic Discourse?](../ai/agents/arxiv-2606-15696.md)
   - [Efficiency vs. Alignment: Investigating Safety and Fairness Risks in Parameter-Efficient Fine-Tuning of LLMs](../ai/research/arxiv-2511-00382.md)
   - [Efficient Adaptation of LLMs for Hate Speech Detection in Low-Resource Languages: A Comparative Study on Roman Urdu](../ai/research/arxiv-2608-18142.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Evaluate a simple LLM application - Ragas](../ai/rag/evaluate-a-simple-llm-application-ragas.md)
   - [Evaluating LLM Trade-offs for Enterprise Automation: Lessons from Workflow Generation in a Production Enterprise Platform](../ai/research/arxiv-2608-03311.md)
   - [Evaluating Retrieval-Augmented Generation vs. Long-Context Input for Clinical Reasoning over EHRs](../ai/rag/arxiv-2508-14817.md)
@@ -24848,7 +24838,6 @@ Resources organized by keyword tags.
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
   - [Incoherent by Design? On the Moral Self-Consistency of LLMs](../ai/research/arxiv-2608-15354.md)
   - [IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference](../ai/research/arxiv-2605-25475.md)
-  - [Introducing Shieldstral.](../ai/companies/mistral/introducing-shieldstral.md)
   - [Jailbreaking in the Haystack](../ai/agents/arxiv-2511-04707.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints](../ai/rag/arxiv-2410-06458.md)
@@ -24866,6 +24855,7 @@ Resources organized by keyword tags.
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
+  - [Mistral x HUMAIN](../ai/companies/mistral/mistral-x-humain.md)
   - [MixQuant: Adaptive Mixed-Precision Quantization for Large Language Models](../ai/rag/arxiv-2607-23047.md)
   - [MoRFI: Monotonic Sparse Autoencoder Feature Identification](../ai/rag/arxiv-2604-26866.md)
   - [NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations](../ai/agents/arxiv-2607-10490.md)
@@ -24894,6 +24884,7 @@ Resources organized by keyword tags.
   - [SAKI: Score-Aware Low-Rank Key Indexing for Long-Context KV Retrieval](../ai/research/arxiv-2608-03228.md)
   - [STEREODISCO: Discovering Stereotypicality in LLMs](../ai/rag/arxiv-2607-27824.md)
   - [Sensitivity, Causality, and Repair Dissociate: A Layer-Wise Analysis of Perturbation Robustness and Its Scaling](../ai/research/arxiv-2608-03842.md)
+  - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [Spectral-LSH: Sub-Quadratic Prompt Compression via Krylov-Projected Locality-Sensitive Hashing](../ai/rag/arxiv-2607-19368.md)
   - [Stability-Aware Feature Design for Robust Watermark Detection in Machine-Generated Text](../ai/rag/arxiv-2608-18102.md)
@@ -24937,14 +24928,14 @@ Resources organized by keyword tags.
 ## mistral-ai-news
 
   - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
-  - [Introducing Shieldstral.](../ai/companies/mistral/introducing-shieldstral.md)
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
+  - [Mistral x HUMAIN](../ai/companies/mistral/mistral-x-humain.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
+  - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
 ## modelcontextprotocol-servers
@@ -26080,7 +26071,6 @@ Resources organized by keyword tags.
   - [Energy-Efficient GPU DVFS for Fine-Tuning of SLMs on Resource-constrained Embedded Devices](../ai/rag/arxiv-2607-05933.md)
   - [Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite](../ai/rag/arxiv-2606-11257.md)
   - [Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics](../ai/rag/arxiv-2608-19579.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN](../ai/rag/arxiv-2607-02981.md)
   - [Enhancement of E-commerce Sponsored Search Relevancy with LLM](../ai/research/arxiv-2607-03886.md)
   - [Enhancing Automated Essay Scoring With Three Techniques: Two-Stage Fine-Tuning, Score Alignment, and Self-Training](../ai/rag/arxiv-2602-01747.md)
@@ -26805,7 +26795,6 @@ Resources organized by keyword tags.
   - [Introducing EmbeddingGemma: The Best-in-Class Open Model for On-Device Embeddings - Google Developers Blog](../ai/rag/introducing-embeddinggemma-the-best-in-class-open.md)
   - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md)
   - [Introducing OpenAI o3 and o4-mini | OpenAI](../ai/rag/introducing-openai-o3-and-o4-mini-openai.md)
-  - [Introducing Shieldstral.](../ai/companies/mistral/introducing-shieldstral.md)
   - [Introducing next-generation audio models in the API | OpenAI](../ai/rag/introducing-next-generation-audio-models-in-the-ap.md)
   - [Introduction - TimeGPT Foundational model for time series forecasting and anomaly detection](../ai/resources/introduction-timegpt-foundational-model-for-time-s.md)
   - [Introduction · Hugging Face](../ai/rag/huggingface-learn-llm-course.md)
@@ -27268,6 +27257,7 @@ Resources organized by keyword tags.
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
+  - [Mistral x HUMAIN](../ai/companies/mistral/mistral-x-humain.md)
   - [Mitigating Anchoring Bias in LLM-Based Agents for Energy-Efficient 6G Autonomous Networks](../ai/agents/arxiv-2606-18272.md)
   - [Mitigating Bus Bunching with Reinforcement Learning Enhanced by Semantic Stop Embedding](../ai/rag/arxiv-2608-10207.md)
   - [Mitigating Object Hallucinations in LVLMs via Attention Imbalance Rectification](../ai/rag/arxiv-2603-24058.md)
@@ -28252,6 +28242,7 @@ Resources organized by keyword tags.
   - [Soft-TransFormers for Continual Learning](../ai/research/arxiv-2411-16073.md)
   - [SoftWater: Class-Aware Rate Allocation for Softmax Quantization](../ai/research/arxiv-2608-12026.md)
   - [Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](../ai/agents/arxiv-2606-23743.md)
+  - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [SomaliBench Eval: Measuring English-to-Somali Refusal Gaps in Open-Weight Language Models](../ai/research/arxiv-2605-25420.md)
   - [Some Complexity Results for Robustness Verification for Binarized Neural Networks](../ai/research/arxiv-2606-18918.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
@@ -50876,4 +50867,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-24T22:51:31.950083+05:30*
+*Index generated on 2026-08-25T02:41:22.514133+05:30*

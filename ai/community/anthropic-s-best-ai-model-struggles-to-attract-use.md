@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-s-best-ai-model-struggles-to-attract-use
 first_seen: '2026-08-24T02:15:22.862044+05:30'
 last_seen: '2026-08-24T22:35:27.190500+05:30'
 last_checked: '2026-08-24T22:35:27.190500+05:30'
 health_score: 100
 ---
+
 
 # Anthropic's best AI model struggles to attract users as cheaper tools thrive
 

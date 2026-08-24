@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://picomq.com
 hn_url: https://news.ycombinator.com/item?id=49421806
-score: 7
+score: 58
 author: adesh_nalpet
-comments_count: 0
+comments_count: 8
 published_at: '2026-08-24T21:38:17+05:30'
-collected_at: '2026-08-24T22:35:26.296694+05:30'
+collected_at: '2026-08-25T02:25:09.246700+05:30'
 tags:
 - hackernews
 - rag
 status: active
 resource_id: hackernews:show-hn-picomq-durable-streams-over-http-on-object
 first_seen: '2026-08-24T22:35:26.296694+05:30'
-last_seen: '2026-08-24T22:35:26.296694+05:30'
-last_checked: '2026-08-24T22:35:26.296694+05:30'
+last_seen: '2026-08-25T02:25:09.246700+05:30'
+last_checked: '2026-08-25T02:25:09.246700+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by adesh_nalpet. Score: 7, Comments: 0.
+Hacker News story by adesh_nalpet. Score: 58, Comments: 8.
 Original Link: https://picomq.com/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: adesh_nalpet
-- Score: 7 Upvotes
-- Comments: 0 Discussions
+- Score: 58 Upvotes
+- Comments: 8 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49421806
 - Original Article: https://picomq.com
 

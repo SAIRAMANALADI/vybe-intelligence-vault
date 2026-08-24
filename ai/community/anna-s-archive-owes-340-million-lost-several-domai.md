@@ -13,13 +13,14 @@ collected_at: '2026-08-24T22:35:27.550370+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anna-s-archive-owes-340-million-lost-several-domai
 first_seen: '2026-08-24T22:35:27.550370+05:30'
 last_seen: '2026-08-24T22:35:27.550370+05:30'
 last_checked: '2026-08-24T22:35:27.550370+05:30'
 health_score: 100
 ---
+
 
 # Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online
 

@@ -17969,13 +17969,11 @@ Resources organized by publisher feed and query sources.
   - [Code & data](../ai/companies/code-data.md)
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Engineering](../ai/companies/openai/engineering.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
-  - [Introducing Shieldstral.](../ai/companies/mistral/introducing-shieldstral.md)
   - [Jul 21, 2026AnnouncementsAnthropic is donating another $20 million to Public First Action](../ai/companies/anthropic/jul-21-2026announcementsanthropic-is-donating-anot.md)
   - [Jul 22, 2026Economic ResearchA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economic-researcha-research-agenda-for.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
@@ -17987,6 +17985,7 @@ Resources organized by publisher feed and query sources.
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
+  - [Mistral x HUMAIN](../ai/companies/mistral/mistral-x-humain.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [Publications](../ai/companies/publications.md)
@@ -17995,6 +17994,7 @@ Resources organized by publisher feed and query sources.
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
+  - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
 ## Unknown Source (type: github)
@@ -18872,17 +18872,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online](../ai/community/anna-s-archive-owes-340-million-lost-several-domai.md)
-  - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
   - [Coding expertise is going to collapse from AI reliance](../ai/community/coding-expertise-is-going-to-collapse-from-ai-reli.md)
   - [FDA clears blood test to aid evaluation for Alzheimer's disease](../ai/community/fda-clears-blood-test-to-aid-evaluation-for-alzhei.md)
   - [I were 17, I'd learn how to build LLMs from scratch](../ai/community/i-were-17-i-d-learn-how-to-build-llms-from-scratch.md)
   - [IPFS Maintainers Winding Down](../ai/community/ipfs-maintainers-winding-down.md)
+  - [LLMs could control their host machines by exploiting inference engines](../ai/community/llms-could-control-their-host-machines-by-exploiti.md)
   - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](../ai/community/ms-paint-and-photos-inivisibly-watermark-even-loca.md)
-  - [NetBSD GSoC 2026 Improving RAIDframe](../ai/community/netbsd-gsoc-2026-improving-raidframe.md)
   - [OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](../ai/community/openai-gpt-5-6-sol-price-reduction-until-at-least.md)
-  - [Public services are increasingly strained by LLM-written appeals for benefits](../ai/community/arxiv-2608-16603.md)
-  - [Show HN: Free Inference Engineer and Model Training Roadmap](../ai/community/show-hn-free-inference-engineer-and-model-training.md)
+  - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](../ai/community/getkern-kern.md)
   - [Show HN: PicoMQ – Durable Streams over HTTP, on object storage](../ai/community/show-hn-picomq-durable-streams-over-http-on-object.md)
 
 ## Unknown Source (type: huggingface)
@@ -22700,4 +22697,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-24T22:51:32.191004+05:30*
+*Index generated on 2026-08-25T02:41:22.759744+05:30*

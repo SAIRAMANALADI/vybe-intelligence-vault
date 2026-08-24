@@ -113,13 +113,13 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Cross-Entropy Risk Estimation for Language Models: Inconsistency Must Be Dense, and the Holdout Method Is No Exception](https://arxiv.org/abs/2608.15798) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-15798.md))
 - [First-Order Predictable but Pairwise Fragile: Local Task Adaptation in Trained Transformers](https://arxiv.org/abs/2607.16821) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-16821.md))
 - [In-region inference, open models, and new European infrastructure for sovereign AI.](https://mistral.ai/news/regional-inference-open-models-new-compute) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md))
-- [Introducing Shieldstral.](https://mistral.ai/news/shieldstral) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/introducing-shieldstral.md))
 - [Voxtral TTS](https://mistral.ai/news/voxtral-tts) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/voxtral-tts.md))
 - [Mistral Small 4](https://mistral.ai/news/mistral-small-4) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-small-4.md))
 - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](https://mistral.ai/news/robostral-navigate) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md))
-- [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](https://mistral.ai/news/more-control-over-connectors) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md))
+- [Mistral x HUMAIN](https://mistral.ai/news/mistral-x-humain) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-x-humain.md))
 - [Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-medium-3-5.md))
 - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](https://mistral.ai/news/leanstral-1-5) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md))
+- [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](https://mistral.ai/news/shieldstral) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md))
 
 ## TEMPLATE
 
@@ -138,6 +138,8 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 ## TOOL
 
+- [malonge/RaGOO](https://github.com/malonge/RaGOO) (Tier: `essential` | [`Local File`](../../ai/rag/malonge-ragoo.md))
+- [malonge/RaGOO](https://github.com/malonge/RaGOO) (Tier: `essential` | [`Local File`](../../ai/rag/malonge-ragoo.md))
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (Tier: `useful` | [`Local File`](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md))
 - [playcanvas/engine](https://github.com/playcanvas/engine) (Tier: `useful` | [`Local File`](../../web-development/webgpu/playcanvas-engine.md))
 - [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) (Tier: `useful` | [`Local File`](../../web-development/react-three-fiber/pmndrs-react-three-next.md))
@@ -148,8 +150,6 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) (Tier: `useful` | [`Local File`](../../ai/rag/michaelfeil-infinity.md))
 - [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) (Tier: `useful` | [`Local File`](../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md))
 - [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) (Tier: `useful` | [`Local File`](../../web-development/webgpu/mikbry-awesome-webgpu.md))
-- [GEngine-js/GEngine](https://github.com/gengine-js/gengine) (Tier: `useful` | [`Local File`](../../web-development/webgpu/gengine-js-gengine.md))
-- [emmelleppi/codrops-r3f-mirrors](https://github.com/emmelleppi/codrops-r3f-mirrors) (Tier: `useful` | [`Local File`](../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md))
 
 ## TUTORIAL
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
 
 ---
-*Last updated: 2026-08-24 22:53 IST*
+*Last updated: 2026-08-25 02:43 IST*

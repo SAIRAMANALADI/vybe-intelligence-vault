@@ -13,13 +13,14 @@ collected_at: '2026-08-24T22:35:27.275377+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:netbsd-gsoc-2026-improving-raidframe
 first_seen: '2026-08-24T22:35:27.275377+05:30'
 last_seen: '2026-08-24T22:35:27.275377+05:30'
 last_checked: '2026-08-24T22:35:27.275377+05:30'
 health_score: 100
 ---
+
 
 # NetBSD GSoC 2026 Improving RAIDframe
 

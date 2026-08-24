@@ -1,10 +1,10 @@
 ---
-title: Introducing Shieldstral.
+title: SolutionsIntroducing Shieldstral.August 4, 2026By Mistral
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/shieldstral
-resource_id: blog:introducing-shieldstral
-local_vault_path: ai/companies/mistral/introducing-shieldstral.md
+resource_id: blog:solutionsintroducing-shieldstral-august-4-2026by-m
+local_vault_path: ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -20,7 +20,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Introducing Shieldstral.
+# SolutionsIntroducing Shieldstral.August 4, 2026By Mistral
 
 ## Why This Is In The Archive
 
@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: Introducing Shieldstral.
+Recent update from Mistral AI News Blog: SolutionsIntroducing Shieldstral.August 4, 2026By Mistral
 
 ## Use Cases
 
@@ -47,4 +47,4 @@ Original source URL: https://mistral.ai/news/shieldstral
 
 ## Local Vault File
 
-Path: [introducing-shieldstral.md](../../ai/companies/mistral/introducing-shieldstral.md)
+Path: [solutionsintroducing-shieldstral-august-4-2026by-m.md](../../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
