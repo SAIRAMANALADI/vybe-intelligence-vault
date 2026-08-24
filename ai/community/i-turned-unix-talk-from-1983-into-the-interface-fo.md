@@ -13,13 +13,14 @@ collected_at: '2026-08-24T02:15:23.155990+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-turned-unix-talk-from-1983-into-the-interface-fo
 first_seen: '2026-08-24T02:15:23.155990+05:30'
 last_seen: '2026-08-24T02:15:23.155990+05:30'
 last_checked: '2026-08-24T02:15:23.155990+05:30'
 health_score: 100
 ---
+
 
 # I turned Unix talk from 1983 into the interface for my AI
 

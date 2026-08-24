@@ -13,13 +13,14 @@ collected_at: '2026-08-24T02:15:23.336379+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:erik-brynjolfsson-says-an-ai-job-apocalypse-is-unl
 first_seen: '2026-08-24T02:15:23.336379+05:30'
 last_seen: '2026-08-24T02:15:23.336379+05:30'
 last_checked: '2026-08-24T02:15:23.336379+05:30'
 health_score: 100
 ---
+
 
 # Erik Brynjolfsson says an AI "job apocalypse" is unlikely
 

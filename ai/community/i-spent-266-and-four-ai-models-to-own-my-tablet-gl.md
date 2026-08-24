@@ -14,13 +14,14 @@ collected_at: '2026-08-24T02:15:22.185298+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-spent-266-and-four-ai-models-to-own-my-tablet-gl
 first_seen: '2026-08-23T22:18:23.644399+05:30'
 last_seen: '2026-08-24T02:15:22.185298+05:30'
 last_checked: '2026-08-24T02:15:22.185298+05:30'
 health_score: 100
 ---
+
 
 # I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
 

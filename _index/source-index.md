@@ -18499,15 +18499,15 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI Chip Architectures](../ai/community/ai-chip-architectures.md)
   - [AI and Infrastructure Engineering](../ai/community/ai-and-infrastructure-engineering.md)
   - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
-  - [Erik Brynjolfsson says an AI "job apocalypse" is unlikely](../ai/community/erik-brynjolfsson-says-an-ai-job-apocalypse-is-unl.md)
+  - [Declarative WebGPU with S-Expressions](../web-development/community/declarative-webgpu-with-s-expressions.md)
   - [Explain it to me like I'm ten](../ai/community/explain-it-to-me-like-i-m-ten.md)
+  - [Google Workspace thinks my domain is an email provider (2025)](../ai/community/google-workspace-thinks-my-domain-is-an-email-prov.md)
   - [How Complex Systems Fail (1998)](../ai/community/how-complex-systems-fail.md)
-  - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)
-  - [I turned Unix talk from 1983 into the interface for my AI](../ai/community/i-turned-unix-talk-from-1983-into-the-interface-fo.md)
   - [My agent.md to improve LLM-assisted code quality](../ai/community/my-agent-md-to-improve-llm-assisted-code-quality.md)
-  - [Predicting AI model release dates with stats](../ai/community/predicting-ai-model-release-dates-with-stats.md)
+  - [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](../ai/community/rural-village-in-spain-is-welcoming-digital-nomads.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -22324,4 +22324,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-24T02:31:24.203252+05:30*
+*Index generated on 2026-08-24T07:49:31.375039+05:30*

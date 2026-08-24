@@ -7,7 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **992** new resources across our source networks.
+During this cycle, we discovered **989** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -24,14 +24,15 @@ This week had strong activity around frontend tools.
 | ai/models | 792 |
 | web-development/nextjs | 64 |
 | ai/agents | 61 |
-| ai/rag | 31 |
+| ai/rag | 32 |
 | web-development | 25 |
 | ai/companies/anthropic | 10 |
 | ai/companies/mistral | 10 |
 | ai/companies | 10 |
-| ai/community | 9 |
+| ai/community | 8 |
 | ai/companies/openai | 5 |
 | ai/companies/deepmind | 5 |
+| web-development/community | 1 |
 
 ## Most Common Tags
 
@@ -40,59 +41,59 @@ This week had strong activity around frontend tools.
 | frontend_ui | 97 |
 | models | 74 |
 | agents | 68 |
-| dataset | 46 |
+| dataset | 47 |
 | blog-post | 40 |
-| rag | 31 |
+| rag | 32 |
 | leaderboard | 31 |
 | huggingface | 29 |
-| benchmark | 28 |
+| benchmark | 29 |
 | meta-ai | 21 |
-| hackernews | 17 |
+| hackernews | 18 |
 | anthropic | 15 |
 | youtube | 14 |
 | mistral | 13 |
-| hf-model | 10 |
+| hf-dataset | 10 |
 
 ## Weekly Community Updates
 
-1. [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md) ([Source](https://ericpardee.github.io/fire-hd-ownership)) (HN Score: 539) - `ai/community`
-2. [How Complex Systems Fail (1998)](../../ai/community/how-complex-systems-fail.md) ([Source](https://how.complexsystems.fail)) (HN Score: 167) - `ai/community`
-3. [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md) ([Source](https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)) (HN Score: 42) - `ai/community`
-4. [My agent.md to improve LLM-assisted code quality](../../ai/community/my-agent-md-to-improve-llm-assisted-code-quality.md) ([Source](https://fabiensanglard.net/agent.md/index.html)) (HN Score: 28) - `ai/community`
-5. [Explain it to me like I'm ten](../../ai/community/explain-it-to-me-like-i-m-ten.md) ([Source](https://timharford.com/2026/08/explain-it-to-me-like-im-ten)) (HN Score: 28) - `ai/community`
-6. [Erik Brynjolfsson says an AI "job apocalypse" is unlikely](../../ai/community/erik-brynjolfsson-says-an-ai-job-apocalypse-is-unl.md) ([Source](https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely)) (HN Score: 11) - `ai/community`
-7. [AI and Infrastructure Engineering](../../ai/community/ai-and-infrastructure-engineering.md) ([Source](https://omegion.dev/2026/08/ai-and-infrastructure-engineering)) (HN Score: 11) - `ai/community`
-8. [Predicting AI model release dates with stats](../../ai/community/predicting-ai-model-release-dates-with-stats.md) ([Source](https://releaseoracle.xyz)) (HN Score: 8) - `ai/community`
-9. [I turned Unix talk from 1983 into the interface for my AI](../../ai/community/i-turned-unix-talk-from-1983-into-the-interface-fo.md) ([Source](https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai)) (HN Score: 8) - `ai/community`
-10. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
-11. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
-12. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
-13. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
-14. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
-15. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
-16. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
-17. [amazon/chronos-2](../../ai/models/huggingface-amazon-chronos-2.md) ([Source](https://huggingface.co/amazon/chronos-2)) - `ai/models`
-18. [lpiccinelli/unidepth-v2-vitl14](../../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md) ([Source](https://huggingface.co/lpiccinelli/unidepth-v2-vitl14)) - `ai/models`
-19. [sentence-transformers/all-mpnet-base-v2](../../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)) - `ai/rag`
-20. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
-21. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
-22. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
-23. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
-24. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
-25. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
-26. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
-27. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
-28. [facebook/MusicGen](../../ai/models/huggingface-spaces-facebook.md) ([Source](https://huggingface.co/spaces/facebook)) - `ai/models`
-29. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
-30. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
-31. [k9cli/video-vec2wav2-tokenizer](../../ai/models/huggingface-datasets-k9cli.md) ([Source](https://huggingface.co/datasets/k9cli)) - `ai/models`
-32. [IPEC-COMMUNITY/language_table_lerobot](../../ai/models/huggingface-datasets-ipec-community.md) ([Source](https://huggingface.co/datasets/ipec-community)) - `ai/models`
-33. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
-34. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
-35. [xlangai/ubuntu_osworld_file_cache](../../ai/models/huggingface-datasets-xlangai.md) ([Source](https://huggingface.co/datasets/xlangai)) - `ai/models`
-36. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
-37. [banned-historical-archives/banned-historical-archives](../../ai/models/huggingface-datasets-banned-historical-archives.md) ([Source](https://huggingface.co/datasets/banned-historical-archives)) - `ai/models`
-38. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
+1. [How Complex Systems Fail (1998)](../../ai/community/how-complex-systems-fail.md) ([Source](https://how.complexsystems.fail)) (HN Score: 243) - `ai/community`
+2. [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md) ([Source](https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)) (HN Score: 229) - `ai/community`
+3. [Google Workspace thinks my domain is an email provider (2025)](../../ai/community/google-workspace-thinks-my-domain-is-an-email-prov.md) ([Source](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider)) (HN Score: 187) - `ai/community`
+4. [My agent.md to improve LLM-assisted code quality](../../ai/community/my-agent-md-to-improve-llm-assisted-code-quality.md) ([Source](https://fabiensanglard.net/agent.md/index.html)) (HN Score: 169) - `ai/community`
+5. [Explain it to me like I'm ten](../../ai/community/explain-it-to-me-like-i-m-ten.md) ([Source](https://timharford.com/2026/08/explain-it-to-me-like-im-ten)) (HN Score: 82) - `ai/community`
+6. [AI Chip Architectures](../../ai/community/ai-chip-architectures.md) ([Source](https://jepeake.com/ai-chip-architectures)) (HN Score: 50) - `ai/community`
+7. [AI and Infrastructure Engineering](../../ai/community/ai-and-infrastructure-engineering.md) ([Source](https://omegion.dev/2026/08/ai-and-infrastructure-engineering)) (HN Score: 44) - `ai/community`
+8. [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](../../ai/community/rural-village-in-spain-is-welcoming-digital-nomads.md) ([Source](https://cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms)) (HN Score: 27) - `ai/community`
+9. [Declarative WebGPU with S-Expressions](../../web-development/community/declarative-webgpu-with-s-expressions.md) ([Source](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions)) (HN Score: 20) - `web-development/community`
+10. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
+11. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
+12. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
+13. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
+14. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
+15. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
+16. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
+17. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
+18. [facebook/MusicGen](../../ai/models/huggingface-spaces-facebook.md) ([Source](https://huggingface.co/spaces/facebook)) - `ai/models`
+19. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
+20. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
+21. [k9cli/video-vec2wav2-tokenizer](../../ai/models/huggingface-datasets-k9cli.md) ([Source](https://huggingface.co/datasets/k9cli)) - `ai/models`
+22. [IPEC-COMMUNITY/language_table_lerobot](../../ai/models/huggingface-datasets-ipec-community.md) ([Source](https://huggingface.co/datasets/ipec-community)) - `ai/models`
+23. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
+24. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
+25. [xlangai/ubuntu_osworld_file_cache](../../ai/models/huggingface-datasets-xlangai.md) ([Source](https://huggingface.co/datasets/xlangai)) - `ai/models`
+26. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
+27. [banned-historical-archives/banned-historical-archives](../../ai/models/huggingface-datasets-banned-historical-archives.md) ([Source](https://huggingface.co/datasets/banned-historical-archives)) - `ai/models`
+28. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
+29. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
+30. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
+31. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
+32. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
+33. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
+34. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
+35. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
+36. [amazon/chronos-2](../../ai/models/huggingface-amazon-chronos-2.md) ([Source](https://huggingface.co/amazon/chronos-2)) - `ai/models`
+37. [lpiccinelli/unidepth-v2-vitl14](../../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md) ([Source](https://huggingface.co/lpiccinelli/unidepth-v2-vitl14)) - `ai/models`
+38. [sentence-transformers/all-mpnet-base-v2](../../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)) - `ai/rag`
 39. [The React Foundation: A New Home for React Hosted by the Linux Foundation](../../web-development/the-react-foundation-a-new-home-for-react-hosted-b.md) ([Source](https://react.dev/blog/2026/02/24/the-react-foundation)) - `web-development`
 40. [Denial of Service and Source Code Exposure in React Server Components](../../web-development/denial-of-service-and-source-code-exposure-in-reac.md) ([Source](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)) - `web-development`
 41. [Critical Security Vulnerability in React Server Components](../../web-development/critical-security-vulnerability-in-react-server-co.md) ([Source](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)) - `web-development`
@@ -1090,17 +1091,18 @@ No updates collected under this section this week.
 1. [czl9707/build-your-own-openclaw](../../ai/agents/czl9707-build-your-own-openclaw.md) ([Source](https://github.com/czl9707/build-your-own-openclaw)) (Stars: 0, Language: Unknown) - `ai/agents`
 2. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
 3. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-4. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+4. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
+5. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
 
 - [AI Agents](../../skills/ai-agents.md) (62 updates)
-- [RAG](../../skills/rag.md) (32 updates)
-- [Vector Databases](../../skills/vector-databases.md) (31 updates)
+- [RAG](../../skills/rag.md) (33 updates)
+- [Vector Databases](../../skills/vector-databases.md) (32 updates)
 - [LLMOps](../../skills/llmops.md) (19 updates)
+- [AI Coding Agents](../../skills/ai-coding-agents.md) (17 updates)
 - [Local LLMs & Inference](../../skills/local-llm.md) (17 updates)
-- [AI Coding Agents](../../skills/ai-coding-agents.md) (16 updates)
-- [Workflow Automation](../../skills/automation.md) (14 updates)
+- [Workflow Automation](../../skills/automation.md) (15 updates)
 - [FastAPI](../../skills/fastapi.md) (7 updates)
 - [Model Context Protocol (MCP)](../../skills/mcp.md) (5 updates)
 - [Prompt Engineering](../../skills/prompt-engineering.md) (3 updates)
@@ -1112,4 +1114,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-08-24T02:31:18.119805+05:30
+2026-08-24T07:49:25.313619+05:30

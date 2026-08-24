@@ -5009,14 +5009,13 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI Chip Architectures](../ai/community/ai-chip-architectures.md)
   - [AI and Infrastructure Engineering](../ai/community/ai-and-infrastructure-engineering.md)
   - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](../ai/community/anthropic-s-best-ai-model-struggles-to-attract-use.md)
-  - [Erik Brynjolfsson says an AI "job apocalypse" is unlikely](../ai/community/erik-brynjolfsson-says-an-ai-job-apocalypse-is-unl.md)
   - [Explain it to me like I'm ten](../ai/community/explain-it-to-me-like-i-m-ten.md)
+  - [Google Workspace thinks my domain is an email provider (2025)](../ai/community/google-workspace-thinks-my-domain-is-an-email-prov.md)
   - [How Complex Systems Fail (1998)](../ai/community/how-complex-systems-fail.md)
-  - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)
-  - [I turned Unix talk from 1983 into the interface for my AI](../ai/community/i-turned-unix-talk-from-1983-into-the-interface-fo.md)
-  - [Predicting AI model release dates with stats](../ai/community/predicting-ai-model-release-dates-with-stats.md)
+  - [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](../ai/community/rural-village-in-spain-is-welcoming-digital-nomads.md)
 
 ## animation
 
@@ -20084,6 +20083,7 @@ Resources organized by keyword tags.
   - [AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network](../ai/research/arxiv-2606-19185.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
+  - [AI Chip Architectures](../ai/community/ai-chip-architectures.md)
   - [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
@@ -20695,6 +20695,7 @@ Resources organized by keyword tags.
   - [Decision-Driven Geosteering Under Uncertainty: A Unified Framework for Sequential Decision Optimization](../ai/research/arxiv-2606-17331.md)
   - [Decision-oriented joint optimization of evidence fusion based on event-conditioned credibility](../ai/research/arxiv-2504-04128.md)
   - [Declarations & Communiques – Global Privacy Assembly](../ai/resources/declarations-communiques-global-privacy-assembly.md)
+  - [Declarative WebGPU with S-Expressions](../web-development/community/declarative-webgpu-with-s-expressions.md)
   - [DecoVAE: a Lightweight Interpretable Trend-Seasonal VAE Framework for Efficient Probabilistic Time Series Forecasting](../ai/research/arxiv-2608-20052.md)
   - [Decoding the Multimodal Maze: A Systematic Review on the Adoption of Explainability in Multimodal Attention-based Models](../ai/research/arxiv-2508-04427.md)
   - [Deep Generalised Mixed Models: a Novel Neural Network Structure for Analysing Hierarchical Data](../ai/research/arxiv-2608-05930.md)
@@ -20881,7 +20882,6 @@ Resources organized by keyword tags.
   - [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](../ai/research/arxiv-2504-21072.md)
   - [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](../ai/resources/eric-and-wendy-schmidt-ai-in-science-postdoctoral.md)
   - [Eric and Wendy Schmidt to fund space telescope, three ground-based observatories](../ai/rag/eric-and-wendy-schmidt-to-fund-space-telescope-thr.md)
-  - [Erik Brynjolfsson says an AI "job apocalypse" is unlikely](../ai/community/erik-brynjolfsson-says-an-ai-job-apocalypse-is-unl.md)
   - [Error Analysis of Neural-Network-Based Engression](../ai/research/arxiv-2607-27723.md)
   - [Escaping the Quicksand: A Call to Arms](../ai/rag/arxiv-2608-19674.md)
   - [Esri Developer](../ai/rag/esri-developer.md)
@@ -21160,6 +21160,7 @@ Resources organized by keyword tags.
   - [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md)
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
+  - [Google Workspace thinks my domain is an email provider (2025)](../ai/community/google-workspace-thinks-my-domain-is-an-email-prov.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
   - [Google variants - a Gemmaverse Collection](../ai/resources/huggingface-collections-gemmaverse.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
@@ -21315,8 +21316,6 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
-  - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](../ai/community/i-spent-266-and-four-ai-models-to-own-my-tablet-gl.md)
-  - [I turned Unix talk from 1983 into the interface for my AI](../ai/community/i-turned-unix-talk-from-1983-into-the-interface-fo.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
@@ -21921,6 +21920,7 @@ Resources organized by keyword tags.
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Patch-Based 3D Variational Autoencoder for Super-Resolution of Turbulent Channel Flow](../ai/rag/arxiv-2507-22082.md)
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
@@ -21985,7 +21985,6 @@ Resources organized by keyword tags.
   - [Prat011/awesome-llm-skills](../ai/agents/prat011-awesome-llm-skills.md)
   - [Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets](../ai/rag/arxiv-2608-19147.md)
   - [Pre-Warm: Input-Conditioned Weight Initialization for Convolutional Neural Networks](../ai/research/arxiv-2606-25256.md)
-  - [Predicting AI model release dates with stats](../ai/community/predicting-ai-model-release-dates-with-stats.md)
   - [Predicting Groundwater Arsenic Concentrations Using Graph Neural Networks](../ai/research/arxiv-2607-19392.md)
   - [Predicting Male Domestic Violence Using Explainable Ensemble Learning and Exploratory Data Analysis](../ai/research/arxiv-2403-15594.md)
   - [Predicting Male Fertility Using Machine Learning: A Semen Parameters Based Analysis with the VISEM Dataset](../ai/research/arxiv-2607-08429.md)
@@ -22225,6 +22224,7 @@ Resources organized by keyword tags.
   - [Routing | Docusaurus](../ai/rag/routing-docusaurus.md)
   - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](../ai/agents/arxiv-2607-06411.md)
   - [Running hardware-aware neural architecture search on embedded devices under 512MB of RAM](../ai/research/arxiv-2606-14824.md)
+  - [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](../ai/community/rural-village-in-spain-is-welcoming-digital-nomads.md)
   - [Russ Cox](../ai/rag/russ-cox.md)
   - [Russia-Ukraine Disinformation Tracking Center - NewsGuard](../ai/rag/russia-ukraine-disinformation-tracking-center-news.md)
   - [Russian Propaganda Infects AI Chatbots - CEPA](../ai/rag/russian-propaganda-infects-ai-chatbots-cepa.md)
@@ -41162,6 +41162,7 @@ Resources organized by keyword tags.
   - [Google Sustainability](../ai/rag/google-sustainability.md)
   - [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md)
   - [Google Workspace Terms of Service â Google Workspace](../ai/resources/google-workspace-terms-of-service-a-google-workspa.md)
+  - [Google Workspace thinks my domain is an email provider (2025)](../ai/community/google-workspace-thinks-my-domain-is-an-email-prov.md)
   - [Google's products and services - About Google](../ai/rag/google-s-products-and-services-about-google.md)
   - [Gradio](../ai/rag/gradio.md)
   - [Grants | Superteam Earn](../ai/resources/grants-superteam-earn.md)
@@ -43080,6 +43081,7 @@ Resources organized by keyword tags.
   - [Chrome 138 beta | Blog | Chrome for Developers](../ai/rag/chrome-138-beta-blog-chrome-for-developers.md)
   - [Constructing Paths - PGF/TikZ Manual](../ai/rag/constructing-paths-pgf-tikz-manual.md)
   - [Debian considers the Ubuntu font family "non-free". Why? - Open Source Stack Exchange](../ai/resources/debian-considers-the-ubuntu-font-family-non-free-w.md)
+  - [Declarative WebGPU with S-Expressions](../web-development/community/declarative-webgpu-with-s-expressions.md)
   - [Deep Shape Regression for Planar Curves with Multimodal Covariates](../ai/research/arxiv-2607-19600.md)
   - [Design Tech - Cornell University](../ai/resources/design-tech-cornell-university.md)
   - [Desktop for developers | Ubuntu](../ai/rag/desktop-for-developers-ubuntu.md)
@@ -46182,6 +46184,10 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
+
+## webgpu
+
+  - [Declarative WebGPU with S-Expressions](../web-development/community/declarative-webgpu-with-s-expressions.md)
 
 ## workflows
 
@@ -50125,4 +50131,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-24T02:31:23.961361+05:30*
+*Index generated on 2026-08-24T07:49:31.138694+05:30*
