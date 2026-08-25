@@ -5113,11 +5113,10 @@ Resources organized by keyword tags.
 ## ai
 
   - [Coding expertise is going to collapse from AI reliance](../ai/community/coding-expertise-is-going-to-collapse-from-ai-reli.md)
-  - [FDA clears blood test to aid evaluation for Alzheimer's disease](../ai/community/fda-clears-blood-test-to-aid-evaluation-for-alzhei.md)
   - [IPFS Maintainers Winding Down](../ai/community/ipfs-maintainers-winding-down.md)
   - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](../ai/community/ms-paint-and-photos-inivisibly-watermark-even-loca.md)
   - [OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](../ai/community/openai-gpt-5-6-sol-price-reduction-until-at-least.md)
-  - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](../ai/community/getkern-kern.md)
+  - [iCloud+ Hide My Email addresses will remain on icloud.com](../ai/community/icloud-hide-my-email-addresses-will-remain-on-iclo.md)
 
 ## animation
 
@@ -8493,7 +8492,6 @@ Resources organized by keyword tags.
   - [FARI: Robust One-Step Inversion for Watermarking in Diffusion Models](../ai/research/arxiv-2607-26723.md)
   - [FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving](../ai/rag/arxiv-2606-21587.md)
   - [FBLayout: Optimizing Memory Layout for Efficient LLM Finetuning on Mobile GPUs](../ai/rag/arxiv-2607-21624.md)
-  - [FDA clears blood test to aid evaluation for Alzheimer's disease](../ai/community/fda-clears-blood-test-to-aid-evaluation-for-alzhei.md)
   - [FDA-Opt: Federated Fine-Tuning via Dynamic Update Schedules](../ai/research/arxiv-2505-04535.md)
   - [FEMOT: Multi-Object Tracking using Frame and Event Cameras](../ai/research/arxiv-2606-14094.md)
   - [FENCE: A Financial and Multimodal Jailbreak Detection Dataset](../ai/research/arxiv-2602-18154.md)
@@ -20756,6 +20754,7 @@ Resources organized by keyword tags.
   - [Blog | OpenAI Developers](../ai/rag/blog-openai-developers.md)
   - [BnBERT-iPET: Sparse Few-Shot Language Modeling for Bengali via Lottery Ticket Pruning](../ai/research/arxiv-2608-05104.md)
   - [Boogu-Image-0.1: Boosting Open Agentic Multimodal Generation via Understanding under a Minimal Budget](../ai/agents/arxiv-2607-13125.md)
+  - [Bookshelf – Self-hosted eBook library that runs on object storage](../ai/community/murerkinn-bookshelf.md)
   - [Boost Your Search With The Crispy Mixedbread Rerank Models](../ai/rag/boost-your-search-with-the-crispy-mixedbread-reran.md)
   - [Boosting Data Augmentation with Stochastic Weight Averaging](../ai/rag/arxiv-2608-14373.md)
   - [Boosting with List-Decodable Codes](../ai/research/arxiv-2607-05791.md)
@@ -21304,7 +21303,6 @@ Resources organized by keyword tags.
   - [FADEx: Feature Attribution and Distortion-based Explanation of Dimensionality Reduction](../ai/rag/arxiv-2607-27463.md)
   - [FAQ - Unicode Frequently Asked Questions](../ai/resources/faq-unicode-frequently-asked-questions.md)
   - [FAQ — RPKI documentation](../ai/agents/faq-rpki-documentation.md)
-  - [FDA clears blood test to aid evaluation for Alzheimer's disease](../ai/community/fda-clears-blood-test-to-aid-evaluation-for-alzhei.md)
   - [FHIR Community - closed - discussion moved to chat.fhir.org](../ai/resources/fhir-community-closed-discussion-moved-to-chat-fhi.md)
   - [FLARE MCMC: Fidelity-based Layer-Adaptive REcursive proposals for MCMC](../ai/research/arxiv-2608-13774.md)
   - [FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization](../ai/rag/arxiv-2607-20382.md)
@@ -22719,7 +22717,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](../ai/community/getkern-kern.md)
   - [Show HN: PicoMQ – Durable Streams over HTTP, on object storage](../ai/community/show-hn-picomq-durable-streams-over-http-on-object.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -23426,6 +23423,7 @@ Resources organized by keyword tags.
   - [huggingface/hub-docs](../ai/resources/huggingface-hub-docs.md)
   - [huggingface/peft](../ai/resources/huggingface-peft.md)
   - [humanwhocodes/computer-science-in-javascript](../ai/rag/humanwhocodes-computer-science-in-javascript.md)
+  - [iCloud+ Hide My Email addresses will remain on icloud.com](../ai/community/icloud-hide-my-email-addresses-will-remain-on-iclo.md)
   - [iFLYTEK-Embodied-Omni Technical Report](../ai/agents/arxiv-2607-02542.md)
   - [iPad - Apple](../ai/resources/ipad-apple.md)
   - [iPadOS - Apple Developer](../ai/rag/ipados-apple-developer.md)
@@ -35160,6 +35158,7 @@ Resources organized by keyword tags.
   - [BoardroomAI: Dependency-Aware Human-Steerable Multi-Agent Deliberation through Evolving Decision Graphs](../ai/rag/arxiv-2608-13046.md)
   - [Body size predicts how long ant workers live - but not how they age or how they die from heat](../ai/rag/arxiv-2608-14245.md)
   - [BooST: Bridging Semantics and Motions for Efficient Skill Transfer](../ai/rag/arxiv-2608-10600.md)
+  - [Bookshelf – Self-hosted eBook library that runs on object storage](../ai/community/murerkinn-bookshelf.md)
   - [Boost Your Search With The Crispy Mixedbread Rerank Models](../ai/rag/boost-your-search-with-the-crispy-mixedbread-reran.md)
   - [Boosting Data Augmentation with Stochastic Weight Averaging](../ai/rag/arxiv-2608-14373.md)
   - [Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling](../ai/rag/arxiv-2605-27023.md)
@@ -50867,4 +50866,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-25T02:41:22.514133+05:30*
+*Index generated on 2026-08-25T07:44:15.960489+05:30*

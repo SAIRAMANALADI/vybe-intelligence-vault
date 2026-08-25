@@ -1,13 +1,13 @@
 {
   "status": "healthy",
-  "last_generated_at": "2026-08-25T02:43:19.003213+05:30",
-  "total_items": 86258,
+  "last_generated_at": "2026-08-25T07:45:47.056743+05:30",
+  "total_items": 86259,
   "category_counts": {
     "ai-coding-agents": 3575,
     "agent-instructions": 10,
     "mcp-registry": 241,
     "agent-frameworks": 3675,
-    "rag-systems": 18893,
+    "rag-systems": 18894,
     "llm-app-templates": 273,
     "evals-and-benchmarks": 18216,
     "observability": 1042,

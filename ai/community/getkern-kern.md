@@ -13,13 +13,14 @@ collected_at: '2026-08-25T02:25:10.012478+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:getkern/kern
 first_seen: '2026-08-25T02:25:10.012478+05:30'
 last_seen: '2026-08-25T02:25:10.012478+05:30'
 last_checked: '2026-08-25T02:25:10.012478+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon
 

@@ -6,19 +6,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main
 hn_url: https://news.ycombinator.com/item?id=49421158
-score: 410
+score: 562
 author: ComputerGuru
-comments_count: 159
+comments_count: 229
 published_at: '2026-08-24T20:58:04+05:30'
-collected_at: '2026-08-25T02:25:07.979597+05:30'
+collected_at: '2026-08-25T07:27:56.722624+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ms-paint-and-photos-inivisibly-watermark-even-loca
 first_seen: '2026-08-24T22:35:24.994202+05:30'
-last_seen: '2026-08-25T02:25:07.979597+05:30'
-last_checked: '2026-08-25T02:25:07.979597+05:30'
+last_seen: '2026-08-25T07:27:56.722624+05:30'
+last_checked: '2026-08-25T07:27:56.722624+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ComputerGuru. Score: 410, Comments: 159.
+Hacker News story by ComputerGuru. Score: 562, Comments: 229.
 Original Link: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ComputerGuru
-- Score: 410 Upvotes
-- Comments: 159 Discussions
+- Score: 562 Upvotes
+- Comments: 229 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49421158
 - Original Article: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main
 

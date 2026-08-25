@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard
 hn_url: https://news.ycombinator.com/item?id=49421489
-score: 267
+score: 327
 author: iand
-comments_count: 133
+comments_count: 163
 published_at: '2026-08-24T21:18:45+05:30'
-collected_at: '2026-08-25T02:25:08.307142+05:30'
+collected_at: '2026-08-25T07:27:58.368952+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ipfs-maintainers-winding-down
 first_seen: '2026-08-24T22:35:25.151223+05:30'
-last_seen: '2026-08-25T02:25:08.307142+05:30'
-last_checked: '2026-08-25T02:25:08.307142+05:30'
+last_seen: '2026-08-25T07:27:58.368952+05:30'
+last_checked: '2026-08-25T07:27:58.368952+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by iand. Score: 267, Comments: 133.
+Hacker News story by iand. Score: 327, Comments: 163.
 Original Link: https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: iand
-- Score: 267 Upvotes
-- Comments: 133 Discussions
+- Score: 327 Upvotes
+- Comments: 163 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49421489
 - Original Article: https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard
 

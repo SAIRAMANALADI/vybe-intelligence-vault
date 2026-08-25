@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fda-clears-blood-test-to-aid-evaluation-for-alzhei
 first_seen: '2026-08-24T14:40:38.345477+05:30'
 last_seen: '2026-08-25T02:25:11.217104+05:30'
 last_checked: '2026-08-25T02:25:11.217104+05:30'
 health_score: 100
 ---
+
 
 # FDA clears blood test to aid evaluation for Alzheimer's disease
 

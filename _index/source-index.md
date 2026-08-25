@@ -18872,15 +18872,15 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Bookshelf – Self-hosted eBook library that runs on object storage](../ai/community/murerkinn-bookshelf.md)
   - [Coding expertise is going to collapse from AI reliance](../ai/community/coding-expertise-is-going-to-collapse-from-ai-reli.md)
-  - [FDA clears blood test to aid evaluation for Alzheimer's disease](../ai/community/fda-clears-blood-test-to-aid-evaluation-for-alzhei.md)
   - [I were 17, I'd learn how to build LLMs from scratch](../ai/community/i-were-17-i-d-learn-how-to-build-llms-from-scratch.md)
   - [IPFS Maintainers Winding Down](../ai/community/ipfs-maintainers-winding-down.md)
   - [LLMs could control their host machines by exploiting inference engines](../ai/community/llms-could-control-their-host-machines-by-exploiti.md)
   - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](../ai/community/ms-paint-and-photos-inivisibly-watermark-even-loca.md)
   - [OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](../ai/community/openai-gpt-5-6-sol-price-reduction-until-at-least.md)
-  - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](../ai/community/getkern-kern.md)
   - [Show HN: PicoMQ – Durable Streams over HTTP, on object storage](../ai/community/show-hn-picomq-durable-streams-over-http-on-object.md)
+  - [iCloud+ Hide My Email addresses will remain on icloud.com](../ai/community/icloud-hide-my-email-addresses-will-remain-on-iclo.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -22697,4 +22697,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-25T02:41:22.759744+05:30*
+*Index generated on 2026-08-25T07:44:16.188532+05:30*
