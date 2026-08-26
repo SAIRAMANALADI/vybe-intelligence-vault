@@ -13,13 +13,14 @@ collected_at: '2026-08-26T23:24:44.428573+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:france-reaches-94-9-fiber-coverage-in-2026
 first_seen: '2026-08-26T23:24:44.428573+05:30'
 last_seen: '2026-08-26T23:24:44.428573+05:30'
 last_checked: '2026-08-26T23:24:44.428573+05:30'
 health_score: 100
 ---
+
 
 # France reaches 94.9% fiber coverage in 2026
 

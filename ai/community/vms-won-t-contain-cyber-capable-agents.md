@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:vms-won-t-contain-cyber-capable-agents
 first_seen: '2026-08-26T23:24:45.442863+05:30'
 last_seen: '2026-08-26T23:24:45.442863+05:30'
 last_checked: '2026-08-26T23:24:45.442863+05:30'
 health_score: 100
 ---
+
 
 # VMs won't contain cyber-capable agents
 

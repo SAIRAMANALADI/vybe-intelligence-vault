@@ -3889,6 +3889,7 @@ Resources organized by keyword tags.
   - [Separating Capability from Permission: A Governance Framework for Agentic AI Autonomy Levels](../ai/agents/arxiv-2607-23438.md)
   - [Separating Expert Retention from Autonomous Source Inference in Raw-ECG-Replay-Free Continual ECG Deployment](../ai/agents/arxiv-2607-01674.md)
   - [Sequential LLM Release Facilitates Manipulation in Regulated Markets](../ai/agents/arxiv-2601-11496.md)
+  - [Serve Markdown to AI Agents with Accept Headers](../ai/community/serve-markdown-to-ai-agents-with-accept-headers.md)
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
   - [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md)
   - [SetGo: Metadata Readiness for Scientific AI Datasets](../ai/agents/arxiv-2607-22677.md)
@@ -4628,7 +4629,6 @@ Resources organized by keyword tags.
   - [VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning](../ai/rag/arxiv-2604-09508.md)
   - [VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents](../ai/agents/arxiv-2605-26144.md)
   - [VLD-RAG: Agentic Vision-Language Retrieval-Augmented Generation for Long, Visually-Rich Multi-Page Documents](../ai/rag/arxiv-2607-24748.md)
-  - [VMs won't contain cyber-capable agents](../ai/community/vms-won-t-contain-cyber-capable-agents.md)
   - [VOiLA: Vectorized Online Planning with Learned Diffusion Models for POMDP Agents](../ai/rag/arxiv-2606-19729.md)
   - [VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments](../ai/agents/arxiv-2608-15284.md)
   - [VTM-Nav: Hierarchical Visual-Topological Memory for Cross-Episode Object-Goal Navigation](../ai/rag/arxiv-2607-14514.md)
@@ -5228,10 +5228,9 @@ Resources organized by keyword tags.
 ## ai
 
   - [It’s so hard to finish an idea that is not yours and is just suggested by AI](../ai/community/its-so-hard-to-finish-an-idea-that-is-not-yours-an.md)
-  - [Show HN: How much of Hacker News is AI?](../ai/community/show-hn-how-much-of-hacker-news-is-ai.md)
-  - [Tailcat: Secure Tunnels in Seconds (Tailscale)](../ai/community/tailscale-tailcat.md)
+  - [Serve Markdown to AI Agents with Accept Headers](../ai/community/serve-markdown-to-ai-agents-with-accept-headers.md)
+  - [Tailcat – Like netcat, but over Tailscale’s data plane](../ai/community/tailscale-tailcat.md)
   - [The turbulent AI era is here](../ai/community/the-turbulent-ai-era-is-here.md)
-  - [VMs won't contain cyber-capable agents](../ai/community/vms-won-t-contain-cyber-capable-agents.md)
 
 ## animation
 
@@ -14235,7 +14234,6 @@ Resources organized by keyword tags.
 ## blog-post
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
-  - [AI Futures](../ai/companies/openai/ai-futures.md)
   - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
@@ -14252,6 +14250,7 @@ Resources organized by keyword tags.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
+  - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
   - [Jul 22, 2026EconomicsA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economicsa-research-agenda-for-the-econ.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
@@ -21845,7 +21844,6 @@ Resources organized by keyword tags.
   - [Framasoft](../ai/rag/framasoft.md)
   - [Framer - YouTube](../ai/resources/framer-youtube.md)
   - [Framer: AI design agent](../ai/agents/framer-ai-website-builder-for-professional-sites.md)
-  - [France reaches 94.9% fiber coverage in 2026](../ai/community/france-reaches-94-9-fiber-coverage-in-2026.md)
   - [Frederik Braun: A CDN that can not XSS you: Using Subresource Integrity](../ai/resources/frederik-braun-a-cdn-that-can-not-xss-you-using-su.md)
   - [Free Software Directory](../ai/rag/free-software-directory.md)
   - [From AGI to ASI](../ai/agents/arxiv-2606-12683.md)
@@ -22954,7 +22952,6 @@ Resources organized by keyword tags.
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
-  - [RAG Is Simpler Than You Think](../ai/community/rag-is-simpler-than-you-think.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
@@ -23197,6 +23194,7 @@ Resources organized by keyword tags.
   - [Sequential LLM Release Facilitates Manipulation in Regulated Markets](../ai/agents/arxiv-2601-11496.md)
   - [Serge Belongie](../ai/resources/serge-belongie.md)
   - [Serve Gemma open models using GPUs on GKE with vLLM | GKE AI/ML | Google Cloud Documentation](../ai/rag/serve-gemma-open-models-using-gpus-on-gke-with-vll.md)
+  - [Serve Markdown to AI Agents with Accept Headers](../ai/community/serve-markdown-to-ai-agents-with-accept-headers.md)
   - [Server-side Anti-cheat in FPS games for Aimbot detection using Deep learning and Machine learning](../ai/research/arxiv-2607-04336.md)
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
@@ -23205,7 +23203,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: How much of Hacker News is AI?](../ai/community/show-hn-how-much-of-hacker-news-is-ai.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -23364,7 +23361,7 @@ Resources organized by keyword tags.
   - [TXYZ: How AI Tools Help Students in Academic Research](../ai/resources/txyz-how-ai-tools-help-students-in-academic-resear.md)
   - [TabPFN Extensions for Interpretable Geotechnical Modelling](../ai/rag/arxiv-2603-21033.md)
   - [Tail-Aware Information-Theoretic Bounds for LLM Alignment under Heavy-Tailed Rewards](../ai/research/arxiv-2604-10727.md)
-  - [Tailcat: Secure Tunnels in Seconds (Tailscale)](../ai/community/tailscale-tailcat.md)
+  - [Tailcat – Like netcat, but over Tailscale’s data plane](../ai/community/tailscale-tailcat.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
   - [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md)
@@ -23667,7 +23664,6 @@ Resources organized by keyword tags.
   - [V-DAT Working Group | National Centers for Environmental Information (NCEI)](../ai/rag/v-dat-working-group-national-centers-for-environme.md)
   - [V8 JavaScript engine](../ai/resources/v8-javascript-engine.md)
   - [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](../ai/research/arxiv-2603-24575.md)
-  - [VMs won't contain cyber-capable agents](../ai/community/vms-won-t-contain-cyber-capable-agents.md)
   - [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](../ai/research/arxiv-2507-05116.md)
   - [Valid Inference with Synthetic Data via Task Exchangeability](../ai/research/arxiv-2606-13629.md)
   - [Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games](../ai/research/arxiv-2606-25997.md)
@@ -29784,7 +29780,6 @@ Resources organized by keyword tags.
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
-  - [AI Futures](../ai/companies/openai/ai-futures.md)
   - [AI Model Catalog | Microsoft Foundry Models](../ai/agents/ai-model-catalog-microsoft-foundry-models.md)
   - [AI SDK Integration | OpenAI Agents SDK](../ai/agents/ai-sdk-integration-openai-agents-sdk.md)
   - [AI Text Humanizer - Free Without Login](../ai/rag/ai-text-humanizer-free-without-login.md)
@@ -30027,6 +30022,7 @@ Resources organized by keyword tags.
   - [Injection-Execution Dissociation: A Mechanistic Evaluation of Persistent Memory Attacks and Defenses in Stateful LLM Agents](../ai/rag/arxiv-2605-08442.md)
   - [Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs](../ai/research/arxiv-2607-14888.md)
   - [Integrations - Pinecone Docs](../ai/rag/integrations-pinecone-docs.md)
+  - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
   - [Introducing OpenAI o3 and o4-mini | OpenAI](../ai/rag/introducing-openai-o3-and-o4-mini-openai.md)
   - [Introducing next-generation audio models in the API | OpenAI](../ai/rag/introducing-next-generation-audio-models-in-the-ap.md)
   - [Introduction - Chroma Docs](../ai/rag/introduction-chroma-docs.md)
@@ -30422,10 +30418,10 @@ Resources organized by keyword tags.
 ## openai-news
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
-  - [AI Futures](../ai/companies/openai/ai-futures.md)
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Engineering](../ai/companies/openai/engineering.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
+  - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
 
 ## orchestration
 
@@ -37332,7 +37328,6 @@ Resources organized by keyword tags.
   - [Framasoft](../ai/rag/framasoft.md)
   - [Framasoft / PeerTube / PeerTube · GitLab](../ai/rag/framasoft-peertube-peertube-gitlab.md)
   - [Framework for Grouping Local Process Models](../ai/rag/arxiv-2607-04856.md)
-  - [France reaches 94.9% fiber coverage in 2026](../ai/community/france-reaches-94-9-fiber-coverage-in-2026.md)
   - [Fraud & Risk - Stytch Docs](../ai/rag/fraud-risk-stytch-docs.md)
   - [FraudBench: Protocol-Sensitive Benchmarking of Adversarial Robustness for Financial Risk Assessment](../ai/rag/arxiv-2608-24551.md)
   - [Free Software Directory](../ai/rag/free-software-directory.md)
@@ -39799,7 +39794,6 @@ Resources organized by keyword tags.
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation](../ai/rag/arxiv-2608-20845.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
-  - [RAG Is Simpler Than You Think](../ai/community/rag-is-simpler-than-you-think.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
@@ -51757,4 +51751,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-26T23:40:59.971377+05:30*
+*Index generated on 2026-08-27T05:29:43.774975+05:30*

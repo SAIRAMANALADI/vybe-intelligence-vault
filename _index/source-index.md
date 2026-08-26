@@ -18434,7 +18434,6 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: company_blog)
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
-  - [AI Futures](../ai/companies/openai/ai-futures.md)
   - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
@@ -18451,6 +18450,7 @@ Resources organized by publisher feed and query sources.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
+  - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
   - [Jul 22, 2026EconomicsA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economicsa-research-agenda-for-the-econ.md)
   - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
@@ -19348,14 +19348,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [France reaches 94.9% fiber coverage in 2026](../ai/community/france-reaches-94-9-fiber-coverage-in-2026.md)
   - [It’s so hard to finish an idea that is not yours and is just suggested by AI](../ai/community/its-so-hard-to-finish-an-idea-that-is-not-yours-an.md)
   - [Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies](../ai/community/launch-hn-risklytics-yc-s26-insurance-brokerage-fo.md)
-  - [RAG Is Simpler Than You Think](../ai/community/rag-is-simpler-than-you-think.md)
-  - [Show HN: How much of Hacker News is AI?](../ai/community/show-hn-how-much-of-hacker-news-is-ai.md)
-  - [Tailcat: Secure Tunnels in Seconds (Tailscale)](../ai/community/tailscale-tailcat.md)
+  - [Serve Markdown to AI Agents with Accept Headers](../ai/community/serve-markdown-to-ai-agents-with-accept-headers.md)
+  - [Tailcat – Like netcat, but over Tailscale’s data plane](../ai/community/tailscale-tailcat.md)
   - [The turbulent AI era is here](../ai/community/the-turbulent-ai-era-is-here.md)
-  - [VMs won't contain cyber-capable agents](../ai/community/vms-won-t-contain-cyber-capable-agents.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -23179,4 +23176,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-26T23:41:00.207310+05:30*
+*Index generated on 2026-08-27T05:29:44.023557+05:30*
