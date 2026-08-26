@@ -13,13 +13,14 @@ collected_at: '2026-08-26T18:52:25.138231+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fake-us-thinktank-set-up-and-funded-by-israel-soug
 first_seen: '2026-08-26T18:52:25.138231+05:30'
 last_seen: '2026-08-26T18:52:25.138231+05:30'
 last_checked: '2026-08-26T18:52:25.138231+05:30'
 health_score: 100
 ---
+
 
 # Fake US thinktank set up and funded by Israel sought to game AI for propaganda
 

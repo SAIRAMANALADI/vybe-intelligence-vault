@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:bill-gates-the-turbulent-ai-era-is-here
 first_seen: '2026-08-26T18:52:23.417882+05:30'
 last_seen: '2026-08-26T18:52:23.417882+05:30'
 last_checked: '2026-08-26T18:52:23.417882+05:30'
 health_score: 100
 ---
+
 
 # Bill Gates: The turbulent AI era is here
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - workflows
-status: active
+status: inactive
 resource_id: github:runetes/maiao
 first_seen: '2026-08-26T10:31:46.593393+05:30'
 last_seen: '2026-08-26T18:52:26.235476+05:30'
 last_checked: '2026-08-26T18:52:26.235476+05:30'
 health_score: 100
 ---
+
 
 # Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
 

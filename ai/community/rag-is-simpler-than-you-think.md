@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://lighthousenewsletter.com/p/rag-is-simpler-than-you-think
 hn_url: https://news.ycombinator.com/item?id=49445727
-score: 189
+score: 343
 author: j0selit0
-comments_count: 93
+comments_count: 152
 published_at: '2026-08-26T14:09:17+05:30'
-collected_at: '2026-08-26T18:52:23.766327+05:30'
+collected_at: '2026-08-26T23:24:45.975440+05:30'
 tags:
 - hackernews
 - rag
 status: active
 resource_id: hackernews:rag-is-simpler-than-you-think
 first_seen: '2026-08-26T18:52:23.766327+05:30'
-last_seen: '2026-08-26T18:52:23.766327+05:30'
-last_checked: '2026-08-26T18:52:23.766327+05:30'
+last_seen: '2026-08-26T23:24:45.975440+05:30'
+last_checked: '2026-08-26T23:24:45.975440+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by j0selit0. Score: 189, Comments: 93.
+Hacker News story by j0selit0. Score: 343, Comments: 152.
 Original Link: https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: j0selit0
-- Score: 189 Upvotes
-- Comments: 93 Discussions
+- Score: 343 Upvotes
+- Comments: 152 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49445727
 - Original Article: https://lighthousenewsletter.com/p/rag-is-simpler-than-you-think
 

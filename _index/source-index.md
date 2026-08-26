@@ -19348,12 +19348,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Bill Gates: The turbulent AI era is here](../ai/community/bill-gates-the-turbulent-ai-era-is-here.md)
-  - [Fake US thinktank set up and funded by Israel sought to game AI for propaganda](../ai/community/fake-us-thinktank-set-up-and-funded-by-israel-soug.md)
-  - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](../ai/community/runetes-maiao.md)
-  - [OpenAI Jalapeño: Better than Nvidia Blackwell](../ai/community/openai-jalapeno-better-than-nvidia-blackwell.md)
+  - [France reaches 94.9% fiber coverage in 2026](../ai/community/france-reaches-94-9-fiber-coverage-in-2026.md)
+  - [It’s so hard to finish an idea that is not yours and is just suggested by AI](../ai/community/its-so-hard-to-finish-an-idea-that-is-not-yours-an.md)
+  - [Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies](../ai/community/launch-hn-risklytics-yc-s26-insurance-brokerage-fo.md)
   - [RAG Is Simpler Than You Think](../ai/community/rag-is-simpler-than-you-think.md)
-  - [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](../ai/community/z-ai-confirms-ox-alpha-is-a-new-glm-series-model-a.md)
+  - [Show HN: How much of Hacker News is AI?](../ai/community/show-hn-how-much-of-hacker-news-is-ai.md)
+  - [Tailcat: Secure Tunnels in Seconds (Tailscale)](../ai/community/tailscale-tailcat.md)
+  - [The turbulent AI era is here](../ai/community/the-turbulent-ai-era-is-here.md)
+  - [VMs won't contain cyber-capable agents](../ai/community/vms-won-t-contain-cyber-capable-agents.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -20103,6 +20105,7 @@ Resources organized by publisher feed and query sources.
   - [Training Design for Text-to-Image Models: Lessons from Ablations](../ai/models/huggingface-blog-photoroom-prx-part2.md)
   - [Training Stable Diffusion with Dreambooth using Diffusers](../ai/models/huggingface-blog-dreambooth.md)
   - [Training a language model with 🤗 Transformers using TensorFlow and TPUs](../ai/models/huggingface-blog-tf-tpu.md)
+  - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](../ai/models/huggingface-blog-train-multi-vector-encoder.md)
   - [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](../ai/models/huggingface-blog-train-multimodal-sentence-transformers.md)
   - [Training and Finetuning Reranker Models with Sentence Transformers](../ai/models/huggingface-blog-train-reranker.md)
   - [Training and Finetuning Sparse Embedding Models with Sentence Transformers](../ai/models/huggingface-blog-train-sparse-encoder.md)
@@ -23176,4 +23179,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-26T19:08:35.520563+05:30*
+*Index generated on 2026-08-26T23:41:00.207310+05:30*

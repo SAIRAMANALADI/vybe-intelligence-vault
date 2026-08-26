@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - models
-status: active
+status: inactive
 resource_id: hackernews:z-ai-confirms-ox-alpha-is-a-new-glm-series-model-a
 first_seen: '2026-08-26T18:52:24.152685+05:30'
 last_seen: '2026-08-26T18:52:24.152685+05:30'
 last_checked: '2026-08-26T18:52:24.152685+05:30'
 health_score: 100
 ---
+
 
 # Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights
 

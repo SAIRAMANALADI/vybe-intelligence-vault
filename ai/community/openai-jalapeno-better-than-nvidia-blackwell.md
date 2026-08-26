@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-jalapeno-better-than-nvidia-blackwell
 first_seen: '2026-08-26T10:31:45.941549+05:30'
 last_seen: '2026-08-26T18:52:25.482364+05:30'
 last_checked: '2026-08-26T18:52:25.482364+05:30'
 health_score: 100
 ---
+
 
 # OpenAI Jalapeño: Better than Nvidia Blackwell
 
