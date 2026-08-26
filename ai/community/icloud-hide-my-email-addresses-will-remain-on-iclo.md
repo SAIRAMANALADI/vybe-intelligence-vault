@@ -13,13 +13,14 @@ collected_at: '2026-08-25T07:27:56.267020+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:icloud-hide-my-email-addresses-will-remain-on-iclo
 first_seen: '2026-08-25T07:27:56.267020+05:30'
 last_seen: '2026-08-25T07:27:56.267020+05:30'
 last_checked: '2026-08-25T07:27:56.267020+05:30'
 health_score: 100
 ---
+
 
 # iCloud+ Hide My Email addresses will remain on icloud.com
 

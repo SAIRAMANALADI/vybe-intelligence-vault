@@ -72,11 +72,11 @@ This index groups resources by direct developer use-cases and design goals.
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (Category: `frontend-ai-ui` | [`Local File`](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Category: `frontend-ai-ui` | [`Local File`](../../ai/rag/elevenlabs-github.md))
+- [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2608-23035.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2504-01407.md))
 - [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238) (Category: `llm-app-templates` | [`Local File`](../../ai/research/arxiv-2406-00238.md))
 - [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626) (Category: `llm-app-templates` | [`Local File`](../../ai/research/arxiv-2607-07626.md))
-- [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/arxiv-2606-24937.md))
 
 ## WebGL / WebGPU 3D Experiences & Creative Design
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Category: `project-ideas` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
 
 ---
-*Last updated: 2026-08-25 07:45 IST*
+*Last updated: 2026-08-26 10:51 IST*

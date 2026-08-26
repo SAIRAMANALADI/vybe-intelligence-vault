@@ -13,13 +13,14 @@ collected_at: '2026-08-25T07:27:58.368952+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ipfs-maintainers-winding-down
 first_seen: '2026-08-24T22:35:25.151223+05:30'
 last_seen: '2026-08-25T07:27:58.368952+05:30'
 last_checked: '2026-08-25T07:27:58.368952+05:30'
 health_score: 100
 ---
+
 
 # IPFS Maintainers Winding Down
 

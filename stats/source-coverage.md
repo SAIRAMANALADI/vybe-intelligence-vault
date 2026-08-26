@@ -4,27 +4,32 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 18004 |
-| github | 1001 |
+| arxiv | 18480 |
+| github | 1003 |
+| huggingface | 903 |
+| nextjs.org | 75 |
 | youtube | 65 |
 | semanticscholar.org | 63 |
 | support.google.com | 58 |
-| huggingface | 26 |
+| react.dev | 24 |
 | developers.google.com | 23 |
 | apple.com | 22 |
-| react.dev | 22 |
 | developer.chrome.com | 21 |
 | doi.org | 18 |
 | cloud.google.com | 18 |
 | developer.android.com | 16 |
 | web.dev | 16 |
+| openai.com | 15 |
 | firebase.google.com | 14 |
 | support.apple.com | 14 |
 | learn.microsoft.com | 14 |
+| microsoft.com | 13 |
 | gohugo.io | 13 |
 | geeksforgeeks.org | 13 |
+| anthropic.com | 11 |
 | developer.mozilla.org | 11 |
-| openai.com | 10 |
+| mistral.ai | 10 |
+| deepmind.google | 10 |
 | code.visualstudio.com | 10 |
 | atlassian.com | 10 |
 | nist.gov | 10 |
@@ -54,9 +59,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | posit.co | 6 |
 | energy.gov | 6 |
 | rfc-editor.org | 6 |
-| developer.apple.com | 5 |
 | datacamp.com | 5 |
-| deepmind.google | 5 |
 | neo4j.com | 5 |
 | docs.aws.amazon.com | 5 |
 | weaviate.io | 5 |
@@ -95,6 +98,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | docker.com | 4 |
 | commission.europa.eu | 4 |
 | mozilla.org | 4 |
+| developer.apple.com | 4 |
 | stackoverflow.com | 4 |
 | nature.com | 4 |
 | unity.com | 4 |
@@ -130,7 +134,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | resemble.ai | 3 |
 | chatgpt.com | 3 |
 | community.atlassian.com | 3 |
-| microsoft.com | 3 |
 | doc.rust-lang.org | 3 |
 | mozillafoundation.org | 3 |
 | cornell.edu | 3 |
@@ -161,8 +164,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-| nextjs.org | 3 |
-| developers.openai.com | 2 |
 | android.googlesource.com | 2 |
 | firecrawl.dev | 2 |
 | martinuke0.github.io | 2 |
@@ -228,7 +229,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | news.cornell.edu | 2 |
 | research.cornell.edu | 2 |
 | compsust.net | 2 |
-| anthropic.com | 2 |
 | android-developers.googleblog.com | 2 |
 | linuxfoundation.org | 2 |
 | harvardbusiness.org | 2 |
@@ -301,12 +301,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| xusheng.dev | 1 |
-| twitter.com | 1 |
-| larsfaye.com | 1 |
-| ipshipyard.com | 1 |
-| boydkane.com | 1 |
-| picomq.com | 1 |
+| newsletter.semianalysis.com | 1 |
+| economist.com | 1 |
 | transparency.google | 1 |
 | githubstatus.com | 1 |
 | srihash.org | 1 |
@@ -484,6 +480,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | docs.nvidia.com | 1 |
 | kaist.ac.kr | 1 |
 | aix.kaist.ac.kr | 1 |
+| developers.openai.com | 1 |
 | blogs.nvidia.com | 1 |
 | mlai-kaist.com | 1 |
 | vivekmalhan-cb919.vercel.app | 1 |

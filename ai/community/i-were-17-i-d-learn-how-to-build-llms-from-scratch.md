@@ -13,13 +13,14 @@ collected_at: '2026-08-25T07:27:59.279701+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:i-were-17-i-d-learn-how-to-build-llms-from-scratch
 first_seen: '2026-08-24T14:40:38.186618+05:30'
 last_seen: '2026-08-25T07:27:59.279701+05:30'
 last_checked: '2026-08-25T07:27:59.279701+05:30'
 health_score: 100
 ---
+
 
 # I were 17, I'd learn how to build LLMs from scratch
 

@@ -14,13 +14,14 @@ collected_at: '2026-08-25T07:27:56.722624+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ms-paint-and-photos-inivisibly-watermark-even-loca
 first_seen: '2026-08-24T22:35:24.994202+05:30'
 last_seen: '2026-08-25T07:27:56.722624+05:30'
 last_checked: '2026-08-25T07:27:56.722624+05:30'
 health_score: 100
 ---
+
 
 # MS Paint and Photos inivisibly watermark even locally generated output with GUID
 

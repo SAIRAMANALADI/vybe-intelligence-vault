@@ -9,13 +9,13 @@ Starter kits and application templates drastically accelerate the deployment of 
 ## Top Matched Resources
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (benchmark - USEFUL Tier)
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - USEFUL Tier)
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (framework - USEFUL Tier)
 - [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238) (framework - USEFUL Tier)
 - [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626) (framework - USEFUL Tier)
 - [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (framework - USEFUL Tier)
 - [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) (framework - USEFUL Tier)
-- [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-08-25 07:45 IST*
+*Last updated: 2026-08-26 10:50 IST*

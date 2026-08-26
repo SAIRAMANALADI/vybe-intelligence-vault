@@ -147,13 +147,13 @@ This index groups curated resources by target developer skills.
 ## Full-stack AI Engineering
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
+- [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-23035.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-01407.md))
 - [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2406-00238.md))
 - [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-07626.md))
 - [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-24937.md))
 - [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-06931.md))
-- [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-09322.md))
 
 ## GLSL Shaders
 
@@ -444,13 +444,13 @@ This index groups curated resources by target developer skills.
 ## Streaming APIs
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
+- [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-23035.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-01407.md))
 - [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2406-00238.md))
 - [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-07626.md))
 - [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-24937.md))
 - [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-06931.md))
-- [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-09322.md))
 
 ## Structured Outputs
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 
 ---
-*Last updated: 2026-08-25 07:45 IST*
+*Last updated: 2026-08-26 10:51 IST*

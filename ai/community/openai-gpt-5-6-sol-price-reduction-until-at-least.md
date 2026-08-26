@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-gpt-5-6-sol-price-reduction-until-at-least
 first_seen: '2026-08-24T22:35:25.247397+05:30'
 last_seen: '2026-08-25T07:27:59.159631+05:30'
 last_checked: '2026-08-25T07:27:59.159631+05:30'
 health_score: 100
 ---
+
 
 # OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)
 

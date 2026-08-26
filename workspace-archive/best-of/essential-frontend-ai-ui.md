@@ -33,6 +33,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2605-18770.md`](../../ai/rag/arxiv-2605-18770.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035)
+- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2608-23035.md`](../../ai/agents/arxiv-2608-23035.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
 - **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2608-06931.md`](../../ai/rag/arxiv-2608-06931.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](https://arxiv.org/abs/2607.09322)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2607-09322.md`](../../ai/rag/arxiv-2607-09322.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-08-25 07:45 IST*
+*Last updated: 2026-08-26 10:51 IST*
