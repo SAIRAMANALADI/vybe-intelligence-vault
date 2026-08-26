@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 hn_url: https://news.ycombinator.com/item?id=49434378
-score: 476
+score: 532
 author: bmulholland
-comments_count: 303
+comments_count: 337
 published_at: '2026-08-25T19:36:02+05:30'
-collected_at: '2026-08-26T14:38:25.525509+05:30'
+collected_at: '2026-08-26T18:52:25.482364+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:openai-jalapeno-better-than-nvidia-blackwell
 first_seen: '2026-08-26T10:31:45.941549+05:30'
-last_seen: '2026-08-26T14:38:25.525509+05:30'
-last_checked: '2026-08-26T14:38:25.525509+05:30'
+last_seen: '2026-08-26T18:52:25.482364+05:30'
+last_checked: '2026-08-26T18:52:25.482364+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by bmulholland. Score: 476, Comments: 303.
+Hacker News story by bmulholland. Score: 532, Comments: 337.
 Original Link: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: bmulholland
-- Score: 476 Upvotes
-- Comments: 303 Discussions
+- Score: 532 Upvotes
+- Comments: 337 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49434378
 - Original Article: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 

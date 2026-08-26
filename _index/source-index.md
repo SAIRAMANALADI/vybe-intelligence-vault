@@ -19348,11 +19348,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Disrupting a new covert influence campaign from Russia](../ai/community/disrupting-a-new-covert-influence-campaign-from-ru.md)
+  - [Bill Gates: The turbulent AI era is here](../ai/community/bill-gates-the-turbulent-ai-era-is-here.md)
+  - [Fake US thinktank set up and funded by Israel sought to game AI for propaganda](../ai/community/fake-us-thinktank-set-up-and-funded-by-israel-soug.md)
   - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](../ai/community/runetes-maiao.md)
   - [OpenAI Jalapeño: Better than Nvidia Blackwell](../ai/community/openai-jalapeno-better-than-nvidia-blackwell.md)
-  - [Show HN: I made a Raspberry with Qwen my local car AI](../ai/community/thinkoffapp-carwatch.md)
-  - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](../ai/community/swimmingbrain-texbrain.md)
+  - [RAG Is Simpler Than You Think](../ai/community/rag-is-simpler-than-you-think.md)
+  - [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](../ai/community/z-ai-confirms-ox-alpha-is-a-new-glm-series-model-a.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -23175,4 +23176,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-26T14:54:51.997984+05:30*
+*Index generated on 2026-08-26T19:08:35.520563+05:30*

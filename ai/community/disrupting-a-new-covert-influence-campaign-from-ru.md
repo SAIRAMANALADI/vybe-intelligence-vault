@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:disrupting-a-new-covert-influence-campaign-from-ru
 first_seen: '2026-08-26T14:38:26.994171+05:30'
 last_seen: '2026-08-26T14:38:26.994171+05:30'
 last_checked: '2026-08-26T14:38:26.994171+05:30'
 health_score: 100
 ---
+
 
 # Disrupting a new covert influence campaign from Russia
 

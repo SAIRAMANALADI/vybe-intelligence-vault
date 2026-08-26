@@ -5226,11 +5226,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Disrupting a new covert influence campaign from Russia](../ai/community/disrupting-a-new-covert-influence-campaign-from-ru.md)
+  - [Bill Gates: The turbulent AI era is here](../ai/community/bill-gates-the-turbulent-ai-era-is-here.md)
+  - [Fake US thinktank set up and funded by Israel sought to game AI for propaganda](../ai/community/fake-us-thinktank-set-up-and-funded-by-israel-soug.md)
   - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](../ai/community/runetes-maiao.md)
   - [OpenAI Jalapeño: Better than Nvidia Blackwell](../ai/community/openai-jalapeno-better-than-nvidia-blackwell.md)
-  - [Show HN: I made a Raspberry with Qwen my local car AI](../ai/community/thinkoffapp-carwatch.md)
-  - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](../ai/community/swimmingbrain-texbrain.md)
+  - [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](../ai/community/z-ai-confirms-ox-alpha-is-a-new-glm-series-model-a.md)
 
 ## animation
 
@@ -17558,6 +17558,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
@@ -21195,6 +21196,7 @@ Resources organized by keyword tags.
   - [BibTeX - TeX Users Group](../ai/resources/bibtex-tex-users-group.md)
   - [Bienvenue sur l’ObservaTerre ! Un site web sur la géophysique et l'observation de la Terre entièrement dédié au grand pu](../ai/resources/bienvenue-sur-lobservaterre-un-site-web-sur-la-geo.md)
   - [Bilateral Trade Under Heavy-Tailed Valuations: Minimax Regret with Infinite Variance](../ai/research/arxiv-2603-06851.md)
+  - [Bill Gates: The turbulent AI era is here](../ai/community/bill-gates-the-turbulent-ai-era-is-here.md)
   - [Binaries · openssl/openssl Wiki · GitHub](../ai/rag/openssl-openssl.md)
   - [Binary distribution format - Python Packaging User Guide](../ai/rag/binary-distribution-format-python-packaging-user-g.md)
   - [BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance](../ai/agents/arxiv-2607-19262.md)
@@ -21598,7 +21600,6 @@ Resources organized by keyword tags.
   - [Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model](../ai/rag/arxiv-2606-09770.md)
   - [Discovery and inference beyond linearity for epidemiological data by integrating Bayesian regression, tree ensembles and Shapley values](../ai/research/arxiv-2505-00571.md)
   - [Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control](../ai/agents/arxiv-2607-18298.md)
-  - [Disrupting a new covert influence campaign from Russia](../ai/community/disrupting-a-new-covert-influence-campaign-from-ru.md)
   - [Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes](../ai/agents/arxiv-2606-17368.md)
   - [Diátaxis](../ai/resources/diataxis.md)
   - [Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development](../ai/agents/arxiv-2607-18696.md)
@@ -21780,6 +21781,7 @@ Resources organized by keyword tags.
   - [FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation](../ai/research/arxiv-2607-28934.md)
   - [Fairness in Augmented Graph Learning: A Survey](../ai/research/arxiv-2504-21296.md)
   - [Faithful Autoformalization of Natural Language Assertions](../ai/rag/arxiv-2607-13303.md)
+  - [Fake US thinktank set up and funded by Israel sought to game AI for propaganda](../ai/community/fake-us-thinktank-set-up-and-funded-by-israel-soug.md)
   - [FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking](../ai/rag/arxiv-2607-26641.md)
   - [Falco](../ai/rag/falco.md)
   - [Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment](../ai/research/arxiv-2607-26034.md)
@@ -22952,6 +22954,7 @@ Resources organized by keyword tags.
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
+  - [RAG Is Simpler Than You Think](../ai/community/rag-is-simpler-than-you-think.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
@@ -23202,8 +23205,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: I made a Raspberry with Qwen my local car AI](../ai/community/thinkoffapp-carwatch.md)
-  - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](../ai/community/swimmingbrain-texbrain.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -23795,6 +23796,7 @@ Resources organized by keyword tags.
   - [YouTube TV: Live TV & more - Apps on Google Play](../ai/rag/youtube-tv-live-tv-more-apps-on-google-play.md)
   - [Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning](../ai/rag/arxiv-2606-17035.md)
   - [Z-Plane Neural Networks: Bounded Geometric Activation Replaces ReLU and LayerNorm](../ai/research/arxiv-2606-15669.md)
+  - [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](../ai/community/z-ai-confirms-ox-alpha-is-a-new-glm-series-model-a.md)
   - [ZAPS-DA: Zero-Phase Action Policy Smoothing with Decoupled Actor for Continuous Control in Reinforcement Learning](../ai/research/arxiv-2605-30612.md)
   - [ZONOS2 Technical Report](../ai/research/arxiv-2606-24320.md)
   - [Zapytaj o Gry](../ai/resources/zapytaj-o-gry.md)
@@ -23876,6 +23878,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -29578,6 +29581,7 @@ Resources organized by keyword tags.
   - [Your Agent Has a Genome: Sequence-Level Behavioral Analysis and Runtime Governance of LLM-Powered Autonomous Agents](../ai/rag/arxiv-2606-15579.md)
   - [Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety](../ai/research/arxiv-2606-25034.md)
   - [Z-PEFT: Zero-shot Backdoor Detection in Parameter-Efficient Fine-Tuning via Canonical Spectral Signatures](../ai/research/arxiv-2608-02271.md)
+  - [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](../ai/community/z-ai-confirms-ox-alpha-is-a-new-glm-series-model-a.md)
   - [ZK-SR117: A Chunked Zero-Knowledge Attestation Design for Aggregated Fair-Lending Metrics, with a Control Mapping toward Full SR 11-7 Coverage](../ai/rag/arxiv-2608-02664.md)
   - [ZONOS2 Technical Report](../ai/research/arxiv-2606-24320.md)
   - [Zendesk Academy](../ai/rag/zendesk-academy.md)
@@ -29906,7 +29910,6 @@ Resources organized by keyword tags.
   - [DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation](../ai/research/arxiv-2608-11889.md)
   - [Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams](../ai/agents/arxiv-2608-12262.md)
   - [Discourse | Where Tech Companies Build Communities](../ai/resources/discourse-where-tech-companies-build-communities.md)
-  - [Disrupting a new covert influence campaign from Russia](../ai/community/disrupting-a-new-covert-influence-campaign-from-ru.md)
   - [Distributed Attacks in Persistent-State AI Control](../ai/agents/arxiv-2607-02514.md)
   - [Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions](../ai/rag/arxiv-2608-13786.md)
   - [Do Diagrams Help Large Language Models Reason? Evidence from Syllogistic Reasoning](../ai/research/arxiv-2607-23513.md)
@@ -39793,6 +39796,7 @@ Resources organized by keyword tags.
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
   - [RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation](../ai/rag/arxiv-2608-20845.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
+  - [RAG Is Simpler Than You Think](../ai/community/rag-is-simpler-than-you-think.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)
@@ -42254,6 +42258,7 @@ Resources organized by keyword tags.
   - [Beyond Output-Space Calibration: Spectral Evidence Bundling for Selective Reliability Estimation in Time-Series Classification](../ai/rag/arxiv-2607-18279.md)
   - [BiGG+ Boğaziçi](../ai/resources/bigg-bogazici.md)
   - [Bienvenue sur l’ObservaTerre ! Un site web sur la géophysique et l'observation de la Terre entièrement dédié au grand pu](../ai/resources/bienvenue-sur-lobservaterre-un-site-web-sur-la-geo.md)
+  - [Bill Gates: The turbulent AI era is here](../ai/community/bill-gates-the-turbulent-ai-era-is-here.md)
   - [Binary distribution format - Python Packaging User Guide](../ai/rag/binary-distribution-format-python-packaging-user-g.md)
   - [Bitbucket | Atlassian Community](../ai/agents/bitbucket-atlassian-community.md)
   - [Bitbucket | Git solution for teams using Jira](../ai/rag/bitbucket-git-solution-for-teams-using-jira.md)
@@ -51751,4 +51756,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-26T14:54:51.761964+05:30*
+*Index generated on 2026-08-26T19:08:35.270742+05:30*
