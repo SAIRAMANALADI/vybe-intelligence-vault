@@ -16,12 +16,12 @@ This index groups curated resources by target developer skills.
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2502-12445.md))
-- [msoedov/agentic_security](https://github.com/msoedov/agentic_security) (Tier: `useful` | [`Local File`](../../ai/agents/msoedov-agentic-security.md))
 - [GEAR | Google Developer Program | Google for Developers](https://developers.google.com/program/gear) (Tier: `useful` | [`Local File`](../../ai/agents/gear-google-developer-program-google-for-developer.md))
 - [Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/abs/2608.08311) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-08311.md))
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-08282.md))
 - [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-15899.md))
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-13405.md))
+- [EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi](https://arxiv.org/abs/2607.09090) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09090.md))
 
 ## API Design
 
@@ -115,12 +115,12 @@ This index groups curated resources by target developer skills.
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2502-12445.md))
-- [msoedov/agentic_security](https://github.com/msoedov/agentic_security) (Tier: `useful` | [`Local File`](../../ai/agents/msoedov-agentic-security.md))
 - [GEAR | Google Developer Program | Google for Developers](https://developers.google.com/program/gear) (Tier: `useful` | [`Local File`](../../ai/agents/gear-google-developer-program-google-for-developer.md))
 - [Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/abs/2608.08311) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-08311.md))
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-08282.md))
 - [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-15899.md))
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-13405.md))
+- [EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi](https://arxiv.org/abs/2607.09090) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-09090.md))
 
 ## Distributed Tracing
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 
 ---
-*Last updated: 2026-08-26 10:51 IST*
+*Last updated: 2026-08-26 14:56 IST*

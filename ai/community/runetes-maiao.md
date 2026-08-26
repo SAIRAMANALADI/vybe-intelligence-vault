@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/runetes/maiao
 hn_url: https://news.ycombinator.com/item?id=49441666
-score: 48
+score: 78
 author: zdw
-comments_count: 19
+comments_count: 44
 published_at: '2026-08-26T04:10:07+05:30'
-collected_at: '2026-08-26T10:31:46.593393+05:30'
+collected_at: '2026-08-26T14:38:26.063722+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:runetes/maiao
 first_seen: '2026-08-26T10:31:46.593393+05:30'
-last_seen: '2026-08-26T10:31:46.593393+05:30'
-last_checked: '2026-08-26T10:31:46.593393+05:30'
+last_seen: '2026-08-26T14:38:26.063722+05:30'
+last_checked: '2026-08-26T14:38:26.063722+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by zdw. Score: 48, Comments: 19.
+Hacker News story by zdw. Score: 78, Comments: 44.
 Original Link: https://github.com/runetes/maiao
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: zdw
-- Score: 48 Upvotes
-- Comments: 19 Discussions
+- Score: 78 Upvotes
+- Comments: 44 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49441666
 - Original Article: https://github.com/runetes/maiao
 

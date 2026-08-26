@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TheAgentCompany/TheAgentCompany
-collected_at: '2026-08-22T10:29:25.793038+05:30'
-published_at: '2026-08-21T02:42:10Z'
+collected_at: '2026-08-26T14:42:30.824611+05:30'
+published_at: '2026-08-24T17:54:35Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-stars: 768
+stars: 770
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T09:08:11Z'
 pushed_at: '2025-11-17T20:31:16Z'
 resource_id: github:theagentcompany/theagentcompany
-first_seen: '2026-08-22T10:29:25.793038+05:30'
-last_seen: '2026-08-22T10:29:25.793038+05:30'
-last_checked: '2026-08-22T10:29:25.793038+05:30'
+first_seen: '2026-08-26T14:42:30.824611+05:30'
+last_seen: '2026-08-26T14:42:30.824611+05:30'
+last_checked: '2026-08-26T14:42:30.824611+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Python-based benchmark for evaluating AI agents within a simulated software company environment.
-*   Provides a structured framework for assessing agent performance on complex, multi-task scenarios.
-*   Focuses on AI research, specifically benchmarking LLM-powered agents in collaborative, goal-oriented tasks.
+*   Provides a Python-based benchmark for evaluating AI agent performance within a simulated software company environment.
+*   Designed for AI research, focusing on tasks relevant to LLM-driven agents.
+*   Offers a structured framework for assessing agent capabilities in complex, multi-step scenarios.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TheAgentCompany
-- Stars: 768
+- Stars: 770
 - Forks: 121
 - Language: Python
 - Topics: agent, ai, ai-benchmark, ai-research, benchmark, llm
-- Last Updated: 2026-08-21T02:42:10Z
+- Last Updated: 2026-08-24T17:54:35Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-11T09:08:11Z

@@ -5226,11 +5226,11 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Disrupting a new covert influence campaign from Russia](../ai/community/disrupting-a-new-covert-influence-campaign-from-ru.md)
   - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](../ai/community/runetes-maiao.md)
   - [OpenAI Jalapeño: Better than Nvidia Blackwell](../ai/community/openai-jalapeno-better-than-nvidia-blackwell.md)
   - [Show HN: I made a Raspberry with Qwen my local car AI](../ai/community/thinkoffapp-carwatch.md)
   - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](../ai/community/swimmingbrain-texbrain.md)
-  - [The brain may be about to have its Ozempic moment](../ai/community/the-brain-may-be-about-to-have-its-ozempic-moment.md)
 
 ## animation
 
@@ -11280,6 +11280,7 @@ Resources organized by keyword tags.
   - [Paritok-4B: Intent-Conditioned Context Compression for Coding Agents](../ai/agents/arxiv-2608-24188.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass the Baton: Trajectory-Relayed On-Policy Distillation](../ai/rag/arxiv-2607-26057.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
@@ -21597,6 +21598,7 @@ Resources organized by keyword tags.
   - [Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model](../ai/rag/arxiv-2606-09770.md)
   - [Discovery and inference beyond linearity for epidemiological data by integrating Bayesian regression, tree ensembles and Shapley values](../ai/research/arxiv-2505-00571.md)
   - [Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control](../ai/agents/arxiv-2607-18298.md)
+  - [Disrupting a new covert influence campaign from Russia](../ai/community/disrupting-a-new-covert-influence-campaign-from-ru.md)
   - [Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes](../ai/agents/arxiv-2606-17368.md)
   - [Diátaxis](../ai/resources/diataxis.md)
   - [Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development](../ai/agents/arxiv-2607-18696.md)
@@ -23477,7 +23479,6 @@ Resources organized by keyword tags.
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
-  - [The brain may be about to have its Ozempic moment](../ai/community/the-brain-may-be-about-to-have-its-ozempic-moment.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
@@ -23972,7 +23973,6 @@ Resources organized by keyword tags.
   - [nvidia / llama-3.2-nv-rerankqa-1b-v2](../ai/rag/nvidia-llama-3-2-nv-rerankqa-1b-v2.md)
   - [nvidia / nvidia-nemotron-nano-9b-v2](../ai/rag/nvidia-nvidia-nemotron-nano-9b-v2.md)
   - [onyx-dot-app/EnterpriseRAG-Bench](../ai/rag/onyx-dot-app-enterpriserag-bench.md)
-  - [openai/mle-bench](../ai/agents/openai-mle-bench.md)
   - [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md)
   - [openai/preparedness](../ai/resources/openai-preparedness.md)
   - [openvis-working-group/best-practices.md at main · openjs-foundation/openvis-working-group · GitHub](../ai/resources/openjs-foundation-openvis-collab-space.md)
@@ -24011,6 +24011,7 @@ Resources organized by keyword tags.
   - [rfc8209.html](../ai/agents/rfc8209-html.md)
   - [rohitg00/agentmemory](../ai/rag/rohitg00-agentmemory.md)
   - [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md)
+  - [run-llama/ParseBench](../ai/rag/run-llama-parsebench.md)
   - [run-llama/llama-hub](../ai/rag/run-llama-llama-hub.md)
   - [saket/telephoto](../ai/rag/saket-telephoto.md)
   - [saket/touch-robot](../ai/rag/saket-touch-robot.md)
@@ -29905,6 +29906,7 @@ Resources organized by keyword tags.
   - [DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation](../ai/research/arxiv-2608-11889.md)
   - [Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams](../ai/agents/arxiv-2608-12262.md)
   - [Discourse | Where Tech Companies Build Communities](../ai/resources/discourse-where-tech-companies-build-communities.md)
+  - [Disrupting a new covert influence campaign from Russia](../ai/community/disrupting-a-new-covert-influence-campaign-from-ru.md)
   - [Distributed Attacks in Persistent-State AI Control](../ai/agents/arxiv-2607-02514.md)
   - [Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions](../ai/rag/arxiv-2608-13786.md)
   - [Do Diagrams Help Large Language Models Reason? Evidence from Syllogistic Reasoning](../ai/research/arxiv-2607-23513.md)
@@ -47693,6 +47695,7 @@ Resources organized by keyword tags.
   - ["We'll have to see how it works": An interview study to understand collaborative practices in interdisciplinary artificial intelligence and healthcare research](../ai/research/arxiv-2311-18424.md)
   - [$S^3$: Improving Agent Safety through Multi-Stage Defense](../ai/agents/arxiv-2608-02683.md)
   - [(Human) Attention Is (Still) All You Need: Human oversight makes AI-assisted social science reliable](../ai/agents/arxiv-2606-12848.md)
+  - [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md)
   - [0xSteph/pentest-ai-agents](../ai/agents/0xsteph-pentest-ai-agents.md)
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
@@ -51748,4 +51751,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-26T10:49:44.875782+05:30*
+*Index generated on 2026-08-26T14:54:51.761964+05:30*

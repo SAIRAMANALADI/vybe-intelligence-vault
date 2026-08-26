@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/0x4m4/hexstrike-ai
-collected_at: '2026-08-17T12:55:25.772812+05:30'
-published_at: '2026-08-17T05:48:47Z'
+collected_at: '2026-08-26T14:42:30.796111+05:30'
+published_at: '2026-08-26T08:49:50Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,8 @@ tags:
 - hackernews
 - python
 - scripts
-stars: 11107
+- workflows
+stars: 11371
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-07-10T17:53:18Z'
 pushed_at: '2026-08-03T14:33:09Z'
 resource_id: github:0x4m4/hexstrike-ai
-first_seen: '2026-08-17T12:55:25.772812+05:30'
-last_seen: '2026-08-17T12:55:25.772812+05:30'
-last_checked: '2026-08-17T12:55:25.772812+05:30'
+first_seen: '2026-08-26T14:42:30.796111+05:30'
+last_seen: '2026-08-26T14:42:30.796111+05:30'
+last_checked: '2026-08-26T14:42:30.796111+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-*   Advanced MCP server enables LLM agents (e.g., Claude, GPT) to autonomously execute offensive security operations.
-*   Integrates 150+ cybersecurity tools for automated pentesting, vulnerability discovery, and bug bounty automation.
-*   Provides a technical bridge for generative AI to interact with real-world offensive security capabilities for autonomous security research.
+*   HexStrike AI is an advanced MCP server enabling autonomous execution of 150+ cybersecurity tools by AI agents (e.g., Claude, GPT) for offensive operations.
+*   It automates pentesting, vulnerability discovery, bug bounty processes, and security research workflows.
+*   The system functions as a technical bridge, integrating LLMs with real-world offensive security capabilities.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: 0x4m4
-- Stars: 11107
-- Forks: 2331
+- Stars: 11371
+- Forks: 2371
 - Language: Python
 - Topics: 0x4m4, ai, ai-agents, ai-cybersecurity, ai-hacking, ai-penetration-testing, ai-security-tool, artificial-intelligence, ctf-tools, generative-ai, hexstrike, kali-linux, kali-tools, llm, llm-integration, mcp, mcp-server, mcp-tools, pentesting, pentesting-tools
-- Last Updated: 2026-08-17T05:48:47Z
+- Last Updated: 2026-08-26T08:49:50Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-10T17:53:18Z

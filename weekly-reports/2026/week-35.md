@@ -7,7 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **1471** new resources across our source networks.
+During this cycle, we discovered **991** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -23,8 +23,8 @@ This week had strong activity around frontend tools.
 |---|---:|
 | ai/models | 796 |
 | ai/research | 516 |
-| ai/rag | 306 |
-| ai/agents | 235 |
+| ai/rag | 307 |
+| ai/agents | 240 |
 | web-development/nextjs | 66 |
 | web-development | 25 |
 | ai/companies/mistral | 10 |
@@ -38,29 +38,29 @@ This week had strong activity around frontend tools.
 
 | Tag | Count |
 |---|---:|
-| benchmark | 451 |
-| agents | 318 |
-| rag | 306 |
-| models | 264 |
+| benchmark | 457 |
+| agents | 324 |
+| rag | 307 |
+| models | 266 |
 | dataset | 241 |
 | paper | 138 |
 | frontend_ui | 120 |
-| hackernews | 104 |
+| hackernews | 106 |
 | youtube | 84 |
-| workflows | 63 |
-| meta-ai | 52 |
-| anthropic | 43 |
+| workflows | 65 |
+| meta-ai | 54 |
+| anthropic | 45 |
 | leaderboard | 39 |
 | blog-post | 39 |
-| openai | 35 |
+| openai | 38 |
 
 ## Weekly Community Updates
 
-1. [OpenAI Jalapeño: Better than Nvidia Blackwell](../../ai/community/openai-jalapeno-better-than-nvidia-blackwell.md) ([Source](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)) (HN Score: 387) - `ai/community`
-2. [Show HN: I made a Raspberry with Qwen my local car AI](../../ai/community/thinkoffapp-carwatch.md) ([Source](https://github.com/thinkoffapp/carwatch)) (HN Score: 117) - `ai/community`
-3. [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](../../ai/community/swimmingbrain-texbrain.md) ([Source](https://github.com/swimmingbrain/texbrain)) (HN Score: 70) - `ai/community`
-4. [The brain may be about to have its Ozempic moment](../../ai/community/the-brain-may-be-about-to-have-its-ozempic-moment.md) ([Source](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)) (HN Score: 64) - `ai/community`
-5. [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](../../ai/community/runetes-maiao.md) ([Source](https://github.com/runetes/maiao)) (HN Score: 48) - `ai/community`
+1. [OpenAI Jalapeño: Better than Nvidia Blackwell](../../ai/community/openai-jalapeno-better-than-nvidia-blackwell.md) ([Source](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)) (HN Score: 476) - `ai/community`
+2. [Show HN: I made a Raspberry with Qwen my local car AI](../../ai/community/thinkoffapp-carwatch.md) ([Source](https://github.com/thinkoffapp/carwatch)) (HN Score: 137) - `ai/community`
+3. [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](../../ai/community/swimmingbrain-texbrain.md) ([Source](https://github.com/swimmingbrain/texbrain)) (HN Score: 92) - `ai/community`
+4. [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](../../ai/community/runetes-maiao.md) ([Source](https://github.com/runetes/maiao)) (HN Score: 78) - `ai/community`
+5. [Disrupting a new covert influence campaign from Russia](../../ai/community/disrupting-a-new-covert-influence-campaign-from-ru.md) ([Source](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)) (HN Score: 36) - `ai/community`
 6. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
 7. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
 8. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
@@ -69,8 +69,8 @@ This week had strong activity around frontend tools.
 11. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
 12. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
 13. [amazon/chronos-2](../../ai/models/huggingface-amazon-chronos-2.md) ([Source](https://huggingface.co/amazon/chronos-2)) - `ai/models`
-14. [lpiccinelli/unidepth-v2-vitl14](../../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md) ([Source](https://huggingface.co/lpiccinelli/unidepth-v2-vitl14)) - `ai/models`
-15. [sentence-transformers/all-mpnet-base-v2](../../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)) - `ai/rag`
+14. [sentence-transformers/all-mpnet-base-v2](../../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)) - `ai/rag`
+15. [lpiccinelli/unidepth-v2-vitl14](../../ai/models/huggingface-lpiccinelli-unidepth-v2-vitl14.md) ([Source](https://huggingface.co/lpiccinelli/unidepth-v2-vitl14)) - `ai/models`
 16. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
 17. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
 18. [k9cli/video-vec2wav2-tokenizer](../../ai/models/huggingface-datasets-k9cli.md) ([Source](https://huggingface.co/datasets/k9cli)) - `ai/models`
@@ -2044,32 +2044,38 @@ No updates collected under this section this week.
 8. [mergisi/awesome-openclaw-agents](../../ai/agents/mergisi-awesome-openclaw-agents.md) ([Source](https://github.com/mergisi/awesome-openclaw-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
 9. [coleam00/ottomator-agents](../../ai/agents/coleam00-ottomator-agents.md) ([Source](https://github.com/coleam00/ottomator-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
 10. [CALLE-AI/awesome-phone-call-agents](../../ai/agents/calle-ai-awesome-phone-call-agents.md) ([Source](https://github.com/calle-ai/awesome-phone-call-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-11. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
-12. [airweave-ai/airweave](../../ai/rag/airweave-ai-airweave.md) ([Source](https://github.com/airweave-ai/airweave)) (Stars: 0, Language: Unknown) - `ai/rag`
-13. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-14. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
-15. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
-16. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
-17. [mongodb-developer/GenAI-Showcase](../../ai/rag/mongodb-developer-genai-showcase.md) ([Source](https://github.com/mongodb-developer/genai-showcase)) (Stars: 0, Language: Unknown) - `ai/rag`
-18. [Andrew-Jang/RAGHub](../../ai/rag/andrew-jang-raghub.md) ([Source](https://github.com/andrew-jang/raghub)) (Stars: 0, Language: Unknown) - `ai/rag`
-19. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-20. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
-21. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-22. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
-23. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+11. [airweave-ai/airweave](../../ai/rag/airweave-ai-airweave.md) ([Source](https://github.com/airweave-ai/airweave)) (Stars: 0, Language: Unknown) - `ai/rag`
+12. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+13. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+14. [mongodb-developer/GenAI-Showcase](../../ai/rag/mongodb-developer-genai-showcase.md) ([Source](https://github.com/mongodb-developer/genai-showcase)) (Stars: 0, Language: Unknown) - `ai/rag`
+15. [Andrew-Jang/RAGHub](../../ai/rag/andrew-jang-raghub.md) ([Source](https://github.com/andrew-jang/raghub)) (Stars: 0, Language: Unknown) - `ai/rag`
+16. [AgentOps-AI/agentops](../../ai/agents/agentops-ai-agentops.md) ([Source](https://github.com/agentops-ai/agentops)) (Stars: 0, Language: Unknown) - `ai/agents`
+17. [0x4m4/hexstrike-ai](../../ai/agents/0x4m4-hexstrike-ai.md) ([Source](https://github.com/0x4m4/hexstrike-ai)) (Stars: 0, Language: Unknown) - `ai/agents`
+18. [msoedov/agentic_security](../../ai/agents/msoedov-agentic-security.md) ([Source](https://github.com/msoedov/agentic_security)) (Stars: 0, Language: Unknown) - `ai/agents`
+19. [TheAgentCompany/TheAgentCompany](../../ai/agents/theagentcompany-theagentcompany.md) ([Source](https://github.com/theagentcompany/theagentcompany)) (Stars: 0, Language: Unknown) - `ai/agents`
+20. [openai/mle-bench](../../ai/agents/openai-mle-bench.md) ([Source](https://github.com/openai/mle-bench)) (Stars: 0, Language: Unknown) - `ai/agents`
+21. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
+22. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+23. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
+24. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+25. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+26. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
+27. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
+28. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
+29. [run-llama/ParseBench](../../ai/rag/run-llama-parsebench.md) ([Source](https://github.com/run-llama/parsebench)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
 
-- [RAG](../../skills/rag.md) (605 updates)
-- [Vector Databases](../../skills/vector-databases.md) (307 updates)
-- [AI Agents](../../skills/ai-agents.md) (274 updates)
-- [Workflow Automation](../../skills/automation.md) (153 updates)
-- [AI Coding Agents](../../skills/ai-coding-agents.md) (138 updates)
-- [LLMOps](../../skills/llmops.md) (84 updates)
-- [Local LLMs & Inference](../../skills/local-llm.md) (44 updates)
+- [RAG](../../skills/rag.md) (606 updates)
+- [Vector Databases](../../skills/vector-databases.md) (308 updates)
+- [AI Agents](../../skills/ai-agents.md) (280 updates)
+- [Workflow Automation](../../skills/automation.md) (159 updates)
+- [AI Coding Agents](../../skills/ai-coding-agents.md) (144 updates)
+- [LLMOps](../../skills/llmops.md) (85 updates)
+- [Local LLMs & Inference](../../skills/local-llm.md) (45 updates)
 - [Prompt Engineering](../../skills/prompt-engineering.md) (26 updates)
 - [FastAPI](../../skills/fastapi.md) (23 updates)
-- [Model Context Protocol (MCP)](../../skills/mcp.md) (12 updates)
+- [Model Context Protocol (MCP)](../../skills/mcp.md) (13 updates)
 
 ## Recommended Projects To Build
 
@@ -2078,4 +2084,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-08-26T10:49:38.770295+05:30
+2026-08-26T14:54:46.480790+05:30

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-08-11T00:57:34.219760+05:30'
-published_at: '2026-08-09T20:35:32Z'
+collected_at: '2026-08-26T14:42:25.819471+05:30'
+published_at: '2026-08-26T03:37:24Z'
 tags:
 - agents
 - anthropic
@@ -16,7 +16,7 @@ tags:
 - models
 - openai
 - python
-stars: 5762
+stars: 5797
 language: Python
 status: active
 license: MIT
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-08-11T00:57:34.219760+05:30'
-last_seen: '2026-08-11T00:57:34.219760+05:30'
-last_checked: '2026-08-11T00:57:34.219760+05:30'
+first_seen: '2026-08-26T14:42:25.819471+05:30'
+last_seen: '2026-08-26T14:42:25.819471+05:30'
+last_checked: '2026-08-26T14:42:25.819471+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework SDK**: Python-based monitoring tool for AI agents, LLM cost tracking, and benchmarking, compatible with CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
-
-- **LLM & Provider Support**: Integrates with major LLMs and providers (OpenAI, Anthropic, Mistral, Groq, Ollama) for unified observability, cost estimation, and evaluation metrics.
-
-- **Key Features**: Real-time monitoring, cost analytics, benchmarking, and evaluation metrics with last update (Aug 2026) and 5.7K+ GitHub stars.
+*   Python SDK providing AI agent observability, LLM cost tracking, and performance benchmarking capabilities.
+*   Integrates broadly with major LLM providers (OpenAI, Anthropic, Groq, Mistral, Ollama) and diverse agent frameworks (CrewAI, Langchain, Autogen, OpenAI Agents SDK, AG2, CamelAI).
+*   Facilitates agent evaluation and operational oversight through integrated evals, cost estimation, and monitoring functionalities.
 
 ## Why It Matters
 
@@ -47,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: AgentOps-AI
-- Stars: 5762
-- Forks: 612
+- Stars: 5797
+- Forks: 615
 - Language: Python
 - Topics: agent, agentops, agents-sdk, ai, anthropic, autogen, cost-estimation, crewai, evals, evaluation-metrics, groq, langchain, llm, mistral, ollama, openai, openai-agents
-- Last Updated: 2026-08-09T20:35:32Z
+- Last Updated: 2026-08-26T03:37:24Z
 - License: MIT
 - Archived: No
 - Created At: 2023-08-15T23:26:23Z

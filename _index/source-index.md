@@ -19348,11 +19348,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Disrupting a new covert influence campaign from Russia](../ai/community/disrupting-a-new-covert-influence-campaign-from-ru.md)
   - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](../ai/community/runetes-maiao.md)
   - [OpenAI Jalapeño: Better than Nvidia Blackwell](../ai/community/openai-jalapeno-better-than-nvidia-blackwell.md)
   - [Show HN: I made a Raspberry with Qwen my local car AI](../ai/community/thinkoffapp-carwatch.md)
   - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](../ai/community/swimmingbrain-texbrain.md)
-  - [The brain may be about to have its Ozempic moment](../ai/community/the-brain-may-be-about-to-have-its-ozempic-moment.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -23175,4 +23175,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-26T10:49:45.123970+05:30*
+*Index generated on 2026-08-26T14:54:51.997984+05:30*

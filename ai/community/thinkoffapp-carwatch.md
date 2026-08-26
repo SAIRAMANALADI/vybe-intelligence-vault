@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/thinkoffapp/carwatch
 hn_url: https://news.ycombinator.com/item?id=49435675
-score: 117
+score: 137
 author: petruspennanen
-comments_count: 30
+comments_count: 39
 published_at: '2026-08-25T20:50:20+05:30'
-collected_at: '2026-08-26T10:31:49.325323+05:30'
+collected_at: '2026-08-26T14:38:27.752111+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: github:thinkoffapp/carwatch
 first_seen: '2026-08-26T10:31:49.325323+05:30'
-last_seen: '2026-08-26T10:31:49.325323+05:30'
-last_checked: '2026-08-26T10:31:49.325323+05:30'
+last_seen: '2026-08-26T14:38:27.752111+05:30'
+last_checked: '2026-08-26T14:38:27.752111+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by petruspennanen. Score: 117, Comments: 30.
+Hacker News story by petruspennanen. Score: 137, Comments: 39.
 Original Link: https://github.com/ThinkOffApp/CarWatch
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: petruspennanen
-- Score: 117 Upvotes
-- Comments: 30 Discussions
+- Score: 137 Upvotes
+- Comments: 39 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49435675
 - Original Article: https://github.com/thinkoffapp/carwatch
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-08-24T14:41:26.782471+05:30'
+collected_at: '2026-08-26T14:39:35.639880+05:30'
 published_at: '2026-08-24T08:08:48Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-02-06T11:16:38Z'
 pushed_at: '2026-08-13T00:14:50Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-08-24T14:41:26.782471+05:30'
-last_seen: '2026-08-24T14:41:26.782471+05:30'
-last_checked: '2026-08-24T14:41:26.782471+05:30'
+first_seen: '2026-08-26T14:39:35.639880+05:30'
+last_seen: '2026-08-26T14:39:35.639880+05:30'
+last_checked: '2026-08-26T14:39:35.639880+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Hosts a Pre-Renewal Ragnarok Online client/server resource pack, distributed via GitHub
+*   GitHub Pages repository hosts a Pre-Renewal Ragnarok Offline pack.
+*   Project integrates with OpenKore botting and rAthena server emulation ecosystems.
+*   Repository codebase is primarily HTML, with a last update timestamp of 2026-08-24T08:08:48Z.
 
 ## Why It Matters
 
