@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ssp.sh/brain/using-obsidian-with-ai
 hn_url: https://news.ycombinator.com/item?id=49450898
-score: 161
+score: 225
 author: zazuke
-comments_count: 86
+comments_count: 126
 published_at: '2026-08-26T21:00:05+05:30'
-collected_at: '2026-08-27T05:13:34.539680+05:30'
+collected_at: '2026-08-27T15:28:01.546537+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:its-so-hard-to-finish-an-idea-that-is-not-yours-an
 first_seen: '2026-08-26T23:24:45.336655+05:30'
-last_seen: '2026-08-27T05:13:34.539680+05:30'
-last_checked: '2026-08-27T05:13:34.539680+05:30'
+last_seen: '2026-08-27T15:28:01.546537+05:30'
+last_checked: '2026-08-27T15:28:01.546537+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by zazuke. Score: 161, Comments: 86.
+Hacker News story by zazuke. Score: 225, Comments: 126.
 Original Link: https://www.ssp.sh/brain/using-obsidian-with-ai/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: zazuke
-- Score: 161 Upvotes
-- Comments: 86 Discussions
+- Score: 225 Upvotes
+- Comments: 126 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49450898
 - Original Article: https://ssp.sh/brain/using-obsidian-with-ai
 

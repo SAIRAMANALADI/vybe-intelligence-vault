@@ -9,6 +9,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation](https://arxiv.org/abs/2608.00794) | `ai-coding-agents/` | 70 |
 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](https://arxiv.org/abs/2607.13162) | `ai-coding-agents/` | 70 |
 | [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) | `ai-coding-agents/` | 70 |
+| [Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification](https://arxiv.org/abs/2605.25592) | `ai-coding-agents/` | 70 |
 | [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797) | `ai-coding-agents/` | 70 |
 | [Closed-Loop Dynamic Validator Node Scaling in Private Substrate Blockchains Using Takagi-Sugeno Fuzzy Inference](https://arxiv.org/abs/2607.07901) | `ai-coding-agents/` | 70 |
 | [Share No More Than the Request Requires: Federated Disclosure for Perspective-Aware AI](https://arxiv.org/abs/2607.22953) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Multilevel Fair Allocation under Additive Preferences](https://arxiv.org/abs/2608.24400) | `ai-coding-agents/` | 70 |
 | [AgenticData: An Agentic Data Analytics System for Heterogeneous Data](https://arxiv.org/abs/2508.05002) | `ai-coding-agents/` | 70 |
 | [When Collaboration Becomes a Trigger: Collective Evidence-Threshold Backdoors in Multi-Agent Systems](https://arxiv.org/abs/2608.01085) | `ai-coding-agents/` | 70 |
-| [Agent-Based Modeling of Low-Emission Fertilizer Adoption for Dairy Farm Decarbonisation using Empirical Farm Data](https://arxiv.org/abs/2605.03648) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

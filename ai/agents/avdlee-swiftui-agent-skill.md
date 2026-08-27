@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AvdLee/SwiftUI-Agent-Skill
-collected_at: '2026-08-11T00:57:14.132577+05:30'
-published_at: '2026-08-10T18:15:16Z'
+collected_at: '2026-08-27T15:32:10.074755+05:30'
+published_at: '2026-08-27T04:14:18Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
-stars: 3389
+stars: 3460
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-01-21T14:42:30Z'
-pushed_at: '2026-08-07T13:14:58Z'
+pushed_at: '2026-08-12T13:34:21Z'
 resource_id: github:avdlee/swiftui-agent-skill
-first_seen: '2026-08-11T00:57:14.132577+05:30'
-last_seen: '2026-08-11T00:57:14.132577+05:30'
-last_checked: '2026-08-11T00:57:14.132577+05:30'
+first_seen: '2026-08-27T15:32:10.074755+05:30'
+last_seen: '2026-08-27T15:32:10.074755+05:30'
+last_checked: '2026-08-27T15:32:10.074755+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Provides expert SwiftUI best practices in an AI coding tool (Agent Skills open format) to enhance code quality and development efficiency.
-
-- **Technical Specifications**: Implemented in Python, structured for seamless integration with AI agents to deliver SwiftUI-specific guidance.
-
-- **Metadata**: 3,389 stars, 153 forks, last updated on 2026-08-10, hosted on GitHub.
+*   Provides an AI "Agent Skill" for integrating expert SwiftUI best practices into coding tools.
+*   Implemented using Python, adhering to the "Agent Skills open format."
+*   Designed to augment AI coding assistants with specialized SwiftUI architectural and stylistic guidance.
 
 ## Why It Matters
 
@@ -42,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: AvdLee
-- Stars: 3389
-- Forks: 153
+- Stars: 3460
+- Forks: 154
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-10T18:15:16Z
+- Last Updated: 2026-08-27T04:14:18Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-21T14:42:30Z
-- Pushed At: 2026-08-07T13:14:58Z
+- Pushed At: 2026-08-12T13:34:21Z
 
 ## Possible Use Cases
 
