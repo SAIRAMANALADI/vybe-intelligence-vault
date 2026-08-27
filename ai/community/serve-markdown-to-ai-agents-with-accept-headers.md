@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:serve-markdown-to-ai-agents-with-accept-headers
 first_seen: '2026-08-27T05:13:32.994718+05:30'
 last_seen: '2026-08-27T15:28:01.170779+05:30'
 last_checked: '2026-08-27T15:28:01.170779+05:30'
 health_score: 100
 ---
+
 
 # Serve Markdown to AI Agents with Accept Headers
 

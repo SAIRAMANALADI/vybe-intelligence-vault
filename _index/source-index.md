@@ -18711,7 +18711,9 @@ Resources organized by publisher feed and query sources.
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
+  - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
+  - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Code & data](../ai/companies/code-data.md)
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Engineering](../ai/companies/openai/engineering.md)
@@ -18721,8 +18723,6 @@ Resources organized by publisher feed and query sources.
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
   - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
-  - [Jul 22, 2026EconomicsA research agenda for the Economic Futures Research Fund](../ai/companies/anthropic/jul-22-2026economicsa-research-agenda-for-the-econ.md)
-  - [Jul 22, 2026ProductAsk Claude about the Anthropic Economic Index](../ai/companies/anthropic/jul-22-2026productask-claude-about-the-anthropic-e.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 30, 2026Investigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026investigating-three-real-world-incident.md)
@@ -19618,12 +19618,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [CEO fired developers to make room for AI. Developers create open source AI CEO](../ai/community/sentelabsai-openexecutive.md)
-  - [It’s so hard to finish an idea that is not yours and is just suggested by AI](../ai/community/its-so-hard-to-finish-an-idea-that-is-not-yours-an.md)
-  - [Laion Big Video Dataset](../ai/community/laion-big-video-dataset.md)
-  - [Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies](../ai/community/launch-hn-risklytics-yc-s26-insurance-brokerage-fo.md)
-  - [Serve Markdown to AI Agents with Accept Headers](../ai/community/serve-markdown-to-ai-agents-with-accept-headers.md)
-  - [Tailcat – Like netcat, but over Tailscale’s data plane](../ai/community/tailscale-tailcat.md)
+  - [Humanity has the debate about AI consciousness backwards](../ai/community/humanity-has-the-debate-about-ai-consciousness-bac.md)
+  - [MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](../ai/community/mit-s-ad-hoc-committee-on-ai-use-in-teaching-learn.md)
+  - [Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform](../ai/community/meta-paid-17b-gets-to-write-safety-rules-for-other.md)
   - [The turbulent AI era is here](../ai/community/the-turbulent-ai-era-is-here.md)
 
 ## Unknown Source (type: huggingface)
@@ -23448,4 +23445,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-27T15:45:03.387605+05:30*
+*Index generated on 2026-08-28T04:07:49.910677+05:30*

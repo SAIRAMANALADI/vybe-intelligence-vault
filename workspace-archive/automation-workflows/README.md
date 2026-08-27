@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-08-27 15:46 IST*
+*Last updated: 2026-08-28 04:09 IST*

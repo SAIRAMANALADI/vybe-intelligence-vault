@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-28T00:19:09.670116+05:30`
+Generated at: `2026-08-28T04:10:18.778507+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,37 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training** - Score: `90` in category `ai/community` ([Link](https://aiandeducation.mit.edu/report)) ([File](../ai/community/mit-s-ad-hoc-committee-on-ai-use-in-teaching-learn.md))
+- **Humanity has the debate about AI consciousness backwards** - Score: `68` in category `ai/community` ([Link](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)) ([File](../ai/community/humanity-has-the-debate-about-ai-consciousness-bac.md))
+- **Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform** - Score: `49` in category `ai/community` ([Link](https://techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform)) ([File](../ai/community/meta-paid-17b-gets-to-write-safety-rules-for-other.md))
+- **Aug 7, 2026ProductImproving Fable 5's biology safeguards** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/improving-fable-5-s-biology-safeguards)) ([File](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md))
+- **Aug 27, 2026Announcements Expanding our support for scientists** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/expanding-support-for-scientists)) ([File](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md))
 
 ## Top Trending Resources
 
-- **TailSieve: Partial-Rollout-Guided Tail Routing for LLM Rollouts** - Score: `0` (0), Rank Change: `+991` ([File](../ai/rag/arxiv-2608-22788.md))
-- **EDGE: Experience-Distillation for Guided Exploration in Agentic Reinforcement Learning** - Score: `0` (0), Rank Change: `+991` ([File](../ai/agents/arxiv-2608-21946.md))
-- **Privileged Likelihood Is Not Automatically Value: Three Checks for Token Credit in On-Policy Self-Distillation** - Score: `0` (0), Rank Change: `+991` ([File](../ai/research/arxiv-2608-09263.md))
-- **LILAC: An Idempotent Neural Speech Codec** - Score: `0` (0), Rank Change: `+991` ([File](../ai/rag/arxiv-2608-05727.md))
-- **From Idea to Prototype in an Afternoon: Scaffolded, AI-Assisted Rapid VA Prototyping** - Score: `0` (0), Rank Change: `+991` ([File](../ai/rag/arxiv-2606-31311.md))
-- **Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring** - Score: `0` (0), Rank Change: `+991` ([File](../ai/research/arxiv-2606-20138.md))
-- **Online Pandora's Box for Contextual LLM Cascading** - Score: `0` (0), Rank Change: `+991` ([File](../ai/research/arxiv-2606-07392.md))
-- **Functional Entropy: Predicting Functional Correctness in LLM-Generated Code with Uncertainty Quantification** - Score: `0` (0), Rank Change: `+991` ([File](../ai/research/arxiv-2605-28500.md))
-- **Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification** - Score: `0` (0), Rank Change: `+991` ([File](../ai/agents/arxiv-2605-25592.md))
-- **Minimalist Visual Inertial Odometry** - Score: `0` (0), Rank Change: `+991` ([File](../ai/research/arxiv-2605-19990.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+18` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+19` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/graphics-multimedia.md))
+- **Computer vision** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/computer-vision.md))
+- **Audio & acoustics** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/audio-acoustics.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21557`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9249`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+992`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+992`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+992`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+992`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+992`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+992`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+992`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+992`) ([File](../ai/research/arxiv-2606-09123.md))
+- **banned-historical-archives/banned-historical-archives** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-banned-historical-archives.md))
+- **hf-doc-build/doc-build-dev** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-hf-doc-build.md))
+- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
+- **IPEC-COMMUNITY/language_table_lerobot** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-ipec-community.md))
+- **ayuo/hd_tmp** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-ayuo.md))
+- **xlangai/ubuntu_osworld_file_cache** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-xlangai.md))
+- **Salesforce/wikitext** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-salesforce.md))
+- **k9cli/video-vec2wav2-tokenizer** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-k9cli.md))
+- **huggingface/documentation-images** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-huggingface.md))
+- **KakologArchives/KakologArchives** - (Rank Change: `+873`) ([File](../ai/models/huggingface-datasets-kakologarchives.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +49,9 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **CEO fired developers to make room for AI. Developers create open source AI CEO** (Category: `ai/community`) ([File](../ai/community/sentelabsai-openexecutive.md))
+- **Tailcat – Like netcat, but over Tailscale’s data plane** (Category: `ai/community`) ([File](../ai/community/tailscale-tailcat.md))
+- **It’s so hard to finish an idea that is not yours and is just suggested by AI** (Category: `ai/community`) ([File](../ai/community/its-so-hard-to-finish-an-idea-that-is-not-yours-an.md))
+- **Serve Markdown to AI Agents with Accept Headers** (Category: `ai/community`) ([File](../ai/community/serve-markdown-to-ai-agents-with-accept-headers.md))
+- **Laion Big Video Dataset** (Category: `ai/community`) ([File](../ai/community/laion-big-video-dataset.md))
+- **Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies** (Category: `ai/community`) ([File](../ai/community/launch-hn-risklytics-yc-s26-insurance-brokerage-fo.md))

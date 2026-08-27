@@ -14,13 +14,14 @@ tags:
 - hackernews
 - producthunt
 - rag
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-risklytics-yc-s26-insurance-brokerage-fo
 first_seen: '2026-08-26T23:24:45.594990+05:30'
 last_seen: '2026-08-27T15:28:01.637244+05:30'
 last_checked: '2026-08-27T15:28:01.637244+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies
 

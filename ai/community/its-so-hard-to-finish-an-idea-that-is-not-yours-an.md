@@ -13,13 +13,14 @@ collected_at: '2026-08-27T15:28:01.546537+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:its-so-hard-to-finish-an-idea-that-is-not-yours-an
 first_seen: '2026-08-26T23:24:45.336655+05:30'
 last_seen: '2026-08-27T15:28:01.546537+05:30'
 last_checked: '2026-08-27T15:28:01.546537+05:30'
 health_score: 100
 ---
+
 
 # It’s so hard to finish an idea that is not yours and is just suggested by AI
 
