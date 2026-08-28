@@ -13,13 +13,14 @@ collected_at: '2026-08-28T03:51:43.153133+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:meta-paid-17b-gets-to-write-safety-rules-for-other
 first_seen: '2026-08-28T03:51:43.153133+05:30'
 last_seen: '2026-08-28T03:51:43.153133+05:30'
 last_checked: '2026-08-28T03:51:43.153133+05:30'
 health_score: 100
 ---
+
 
 # Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform
 
