@@ -4342,7 +4342,6 @@ Resources organized by keyword tags.
   - [Tensorblue | LinkedIn](../ai/agents/tensorblue-linkedin.md)
   - [Terminal Agents Suffice for Enterprise Automation](../ai/agents/arxiv-2604-00073.md)
   - [Terminal Agents: A Survey of AI Agents in Command-Line Environments](../ai/agents/arxiv-2608-20485.md)
-  - [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](../ai/community/terminal-bench-science-evaluating-ai-agents-on-sci.md)
   - [Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?](../ai/agents/arxiv-2605-03195.md)
   - [Terms & Conditions | Speechify](../ai/rag/terms-conditions-speechify.md)
   - [Terms of Service](../ai/rag/terms-of-service.md)
@@ -5363,9 +5362,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Stripe said to abandon $50B pursuit of PayPal](../ai/community/stripe-said-to-abandon-50b-pursuit-of-paypal.md)
-  - [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](../ai/community/terminal-bench-science-evaluating-ai-agents-on-sci.md)
-  - [The turbulent AI era is here](../ai/community/the-turbulent-ai-era-is-here.md)
+  - [Luanti removed from Google Play due to baseless AI copyright notice](../ai/community/luanti-removed-from-google-play-due-to-baseless-ai.md)
+  - [Stopping the smart TV from being used against you](../ai/community/stopping-the-smart-tv-from-being-used-against-you.md)
+  - [The Analytical AI Handbook](../ai/community/the-analytical-ai-handbook.md)
+  - [U.S. sanctions against the A/I Collective](../ai/community/u-s-sanctions-against-the-a-i-collective.md)
 
 ## animation
 
@@ -5687,6 +5687,7 @@ Resources organized by keyword tags.
   - [JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution](../ai/agents/arxiv-2608-25593.md)
   - [JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](../ai/research/arxiv-2607-02825.md)
   - [JetBrains AI - The JetBrains Blog](../ai/rag/jetbrains-ai-the-jetbrains-blog.md)
+  - [Judge rules Trump administration’s blacklisting of Anthropic was illegal](../ai/community/judge-rules-trump-administrations-blacklisting-of.md)
   - [Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs](../ai/research/arxiv-2607-18086.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
   - [Jul 27, 2026AnnouncementsCognizant and Anthropic expand their partnership to bring Claude to enterprise clients](../ai/companies/anthropic/jul-27-2026announcementscognizant-and-anthropic-ex.md)
@@ -19704,7 +19705,6 @@ Resources organized by keyword tags.
   - [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../ai/rag/arxiv-2512-06143.md)
-  - [greensock/gsap-skills](../ai/agents/greensock-gsap-skills.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [hkunlp/instructor-large · Hugging Face](../ai/rag/huggingface-hkunlp-instructor-large.md)
   - [huggingface/datasets](../ai/resources/huggingface-datasets.md)
@@ -20377,6 +20377,7 @@ Resources organized by keyword tags.
   - [Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains](../ai/research/arxiv-2606-17269.md)
   - [SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions](../ai/research/arxiv-2606-17266.md)
   - [Slash forward icon](../ai/agents/slash-forward-icon.md)
+  - [Smaller reactors bring nuclear power closer to fulfilling its promise](../web-development/community/smaller-reactors-bring-nuclear-power-closer-to-ful.md)
   - [Sophisticated Policies from Epistemic Priors](../ai/research/arxiv-2607-19518.md)
   - [SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints](../ai/agents/arxiv-2607-05363.md)
   - [Spatiotemporal Graph Transformer for Traffic Intelligence in Edge Computing](../ai/rag/arxiv-2608-04075.md)
@@ -22951,6 +22952,7 @@ Resources organized by keyword tags.
   - [Joint distribution of upstream runoff governs downstream river-discharge prediction uncertainty in distributed ML models](../ai/rag/arxiv-2607-03217.md)
   - [Jointly Predicting Courses and Grades Using a Transformer-Based Model](../ai/research/arxiv-2608-13409.md)
   - [JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators](../ai/rag/arxiv-2606-28421.md)
+  - [Judge rules Trump administration’s blacklisting of Anthropic was illegal](../ai/community/judge-rules-trump-administrations-blacklisting-of.md)
   - [JupOtter: Cell-Level Bug Detection in Jupyter Notebooks](../ai/research/arxiv-2606-23877.md)
   - [JupyterHub · GitHub](../ai/resources/jupyterhub-github.md)
   - [JupyterHub — JupyterHub documentation](../ai/resources/jupyterhub-jupyterhub-documentation.md)
@@ -23142,6 +23144,7 @@ Resources organized by keyword tags.
   - [Low-rank Updates in Slowly Time-varying Graphs for Spatial-Temporal Signal Interpolation](../ai/research/arxiv-2606-24011.md)
   - [LowRankArena: A Standardized Evaluation Platform for SVD-Based LLM Compression](../ai/research/arxiv-2608-26389.md)
   - [Lowering the Barrier to AI-Driven Inspection: A No-Code Workflow for Automated Structural Defect Detection](../ai/research/arxiv-2608-25176.md)
+  - [Luanti removed from Google Play due to baseless AI copyright notice](../ai/community/luanti-removed-from-google-play-due-to-baseless-ai.md)
   - [Luce: Relightable Gaussians for 3D Asset Generation](../ai/research/arxiv-2608-23943.md)
   - [Lumino](../ai/rag/lumino.md)
   - [LuxInstruct: A Cross-Lingual Instruction Tuning Dataset For Luxembourgish](../ai/rag/arxiv-2510-07074.md)
@@ -23926,6 +23929,7 @@ Resources organized by keyword tags.
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [Small Data Explainer -- The impact of small data methods in everyday life](../ai/rag/arxiv-2507-11773.md)
   - [Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis](../ai/agents/arxiv-2607-20216.md)
+  - [Smaller reactors bring nuclear power closer to fulfilling its promise](../web-development/community/smaller-reactors-bring-nuclear-power-closer-to-ful.md)
   - [Smart drones, safe skies: Student’s system tests, coordinates drone fleets | Cornell Chronicle](../ai/rag/smart-drones-safe-skies-students-system-tests-coor.md)
   - [Smooth Flow Matching for Synthesizing Functional Data](../ai/research/arxiv-2508-13831.md)
   - [Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration](../ai/research/arxiv-2608-02576.md)
@@ -24009,12 +24013,12 @@ Resources organized by keyword tags.
   - [Stochastic Saddle Avoidance Beyond Unit Excitation and Smoothness: A Pathwise Lyapunov-Perron Framework](../ai/research/arxiv-2608-03001.md)
   - [Stochastic-Dimension Frozen Sampled Neural Network for High-Dimensional Gross-Pitaevskii Equations on Unbounded Domains](../ai/research/arxiv-2604-09361.md)
   - [Stop Indexing at Full Precision: Revisiting Clustering for Vector Embeddings](../ai/rag/arxiv-2608-14648.md)
+  - [Stopping the smart TV from being used against you](../ai/community/stopping-the-smart-tv-from-being-used-against-you.md)
   - [Storyset | Customize, animate and download illustration for free](../ai/rag/storyset-customize-animate-and-download-illustrati.md)
   - [Streaming Sliced Optimal Transport](../ai/rag/arxiv-2505-06835.md)
   - [Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](../ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md)
   - [Streamlining RIPEstat: Building an Interface for the Future | RIPE Labs](../ai/resources/streamlining-ripestat-building-an-interface-for-th.md)
   - [Street Level Surveillance](../ai/resources/street-level-surveillance.md)
-  - [Stripe said to abandon $50B pursuit of PayPal](../ai/community/stripe-said-to-abandon-50b-pursuit-of-paypal.md)
   - [Strong bounds for large-scale Minimum Sum-of-Squares Clustering](../ai/research/arxiv-2502-08397.md)
   - [Structural Preservation and the Logical Expressiveness of Graph Neural Networks](../ai/rag/arxiv-2606-17882.md)
   - [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](../ai/research/arxiv-2608-12278.md)
@@ -24101,7 +24105,6 @@ Resources organized by keyword tags.
   - [Tensorblue - YouTube](../ai/resources/tensorblue-youtube.md)
   - [Tensorblue | LinkedIn](../ai/agents/tensorblue-linkedin.md)
   - [Terminal Dimension Reduction for Time Series with Applications](../ai/rag/arxiv-2607-09490.md)
-  - [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](../ai/community/terminal-bench-science-evaluating-ai-agents-on-sci.md)
   - [Terms & Conditions | Speechify](../ai/rag/terms-conditions-speechify.md)
   - [Terms of Service](../ai/rag/terms-of-service.md)
   - [Terms of Service | Resemble AI](../ai/agents/terms-of-service-resemble-ai.md)
@@ -24119,6 +24122,7 @@ Resources organized by keyword tags.
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
   - [The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems](../ai/agents/arxiv-2608-03214.md)
+  - [The Analytical AI Handbook](../ai/community/the-analytical-ai-handbook.md)
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era](../ai/agents/arxiv-2607-17940.md)
   - [The Authority Resolution Framework: A Five-Domain Ontology for Governing Who and What Decides, at Scale](../ai/agents/arxiv-2608-15832.md)
@@ -24187,7 +24191,6 @@ Resources organized by keyword tags.
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
-  - [The turbulent AI era is here](../ai/community/the-turbulent-ai-era-is-here.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
@@ -24295,6 +24298,7 @@ Resources organized by keyword tags.
   - [Two-Sided Nearest Neighbors: An adaptive and minimax optimal procedure for matrix completion](../ai/research/arxiv-2411-12965.md)
   - [Type Checking Project Haystack Grids using JSON Schema and Pydantic](../ai/research/arxiv-2606-24891.md)
   - [TypiCore: A Hybrid Active Query Strategy for Class-Incremental Learning on Time Series](../ai/research/arxiv-2607-17632.md)
+  - [U.S. sanctions against the A/I Collective](../ai/community/u-s-sanctions-against-the-a-i-collective.md)
   - [UAX #44: Unicode Character Database](../ai/rag/uax-44-unicode-character-database.md)
   - [UCLA General Catalog](../ai/agents/ucla-general-catalog.md)
   - [UCLA Recognized as one of the Nation’s Top Fleets for 2024 | Transportation](../ai/resources/ucla-recognized-as-one-of-the-nations-top-fleets-f.md)
@@ -24582,9 +24586,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -25266,6 +25268,7 @@ Resources organized by keyword tags.
   - [The Cost of Knowing: A Resource-Aware Protocol for Benchmarking Hallucination Beyond Static Leaderboards](../ai/agents/arxiv-2607-24063.md)
   - [The First EgoCross Challenge at EgoVis 2026: Cross-Domain Egocentric Video Question Answering](../ai/research/arxiv-2608-04589.md)
   - [The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](../ai/models/huggingface-blog-leaderboard-hallucinations.md)
+  - [The Open ASR Leaderboard Adds Its First Global South Language](../ai/models/huggingface-blog-open-asr-leaderboard-global-south.md)
   - [The Open Arabic LLM Leaderboard 2](../ai/models/huggingface-blog-leaderboard-arabic-v2.md)
   - [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](../ai/models/huggingface-blog-leaderboard-medicalllm.md)
   - [The Scaffold Effect in Coding Agents: Harness Choice as a Hidden Variable in Coding-Agent Evaluation](../ai/agents/arxiv-2607-22585.md)
@@ -43322,6 +43325,10 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
+## react
+
+  - [Smaller reactors bring nuclear power closer to fulfilling its promise](../web-development/community/smaller-reactors-bring-nuclear-power-closer-to-ful.md)
+
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -50297,7 +50304,6 @@ Resources organized by keyword tags.
   - [Tensor playground](../ai/resources/tensor-playground.md)
   - [TensorFlow](../ai/agents/tensorflow.md)
   - [TensorFlow.js API](../ai/rag/tensorflow-js-api.md)
-  - [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](../ai/community/terminal-bench-science-evaluating-ai-agents-on-sci.md)
   - [TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?](../ai/agents/arxiv-2606-13148.md)
   - [Tevatron Meets Megatron: Expert-Parallel LLM Reranker Training on an Academic Budget](../ai/research/arxiv-2608-00916.md)
   - [TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning](../ai/rag/arxiv-2602-08306.md)
@@ -53066,4 +53072,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-28T17:20:12.825650+05:30*
+*Index generated on 2026-08-29T04:14:28.740088+05:30*

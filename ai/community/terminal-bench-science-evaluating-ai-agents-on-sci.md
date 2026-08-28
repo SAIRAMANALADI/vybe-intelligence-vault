@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - workflows
-status: active
+status: inactive
 resource_id: hackernews:terminal-bench-science-evaluating-ai-agents-on-sci
 first_seen: '2026-08-28T17:02:22.671460+05:30'
 last_seen: '2026-08-28T17:02:22.671460+05:30'
 last_checked: '2026-08-28T17:02:22.671460+05:30'
 health_score: 100
 ---
+
 
 # Terminal-Bench-Science: Evaluating AI agents on scientific research workflows
 

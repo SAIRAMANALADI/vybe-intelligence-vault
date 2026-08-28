@@ -20051,9 +20051,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Stripe said to abandon $50B pursuit of PayPal](../ai/community/stripe-said-to-abandon-50b-pursuit-of-paypal.md)
-  - [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](../ai/community/terminal-bench-science-evaluating-ai-agents-on-sci.md)
-  - [The turbulent AI era is here](../ai/community/the-turbulent-ai-era-is-here.md)
+  - [Judge rules Trump administration’s blacklisting of Anthropic was illegal](../ai/community/judge-rules-trump-administrations-blacklisting-of.md)
+  - [Luanti removed from Google Play due to baseless AI copyright notice](../ai/community/luanti-removed-from-google-play-due-to-baseless-ai.md)
+  - [Smaller reactors bring nuclear power closer to fulfilling its promise](../web-development/community/smaller-reactors-bring-nuclear-power-closer-to-ful.md)
+  - [Stopping the smart TV from being used against you](../ai/community/stopping-the-smart-tv-from-being-used-against-you.md)
+  - [The Analytical AI Handbook](../ai/community/the-analytical-ai-handbook.md)
+  - [U.S. sanctions against the A/I Collective](../ai/community/u-s-sanctions-against-the-a-i-collective.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -20772,6 +20775,7 @@ Resources organized by publisher feed and query sources.
   - [The N Implementation Details of RLHF with PPO](../ai/models/huggingface-blog-the-n-implementation-details-of-rlhf-with-ppo.md)
   - [The NLP Course is becoming the LLM Course](../ai/models/huggingface-blog-llm-course.md)
   - [The New and Fresh analytics in Inference Endpoints](../ai/models/huggingface-blog-endpoint-analytics.md)
+  - [The Open ASR Leaderboard Adds Its First Global South Language](../ai/models/huggingface-blog-open-asr-leaderboard-global-south.md)
   - [The Open Arabic LLM Leaderboard 2](../ai/models/huggingface-blog-leaderboard-arabic-v2.md)
   - [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](../ai/models/huggingface-blog-nvidia-nemotron-3-nano-evaluation-recipe.md)
   - [The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](../ai/models/huggingface-blog-leaderboard-medicalllm.md)
@@ -23877,4 +23881,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-28T17:20:13.088557+05:30*
+*Index generated on 2026-08-29T04:14:28.993620+05:30*

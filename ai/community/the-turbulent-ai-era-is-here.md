@@ -13,13 +13,14 @@ collected_at: '2026-08-28T17:02:23.297427+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-turbulent-ai-era-is-here
 first_seen: '2026-08-26T23:24:46.190822+05:30'
 last_seen: '2026-08-28T17:02:23.297427+05:30'
 last_checked: '2026-08-28T17:02:23.297427+05:30'
 health_score: 100
 ---
+
 
 # The turbulent AI era is here
 

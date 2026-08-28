@@ -13,13 +13,14 @@ collected_at: '2026-08-28T17:02:25.007091+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:stripe-said-to-abandon-50b-pursuit-of-paypal
 first_seen: '2026-08-28T17:02:25.007091+05:30'
 last_seen: '2026-08-28T17:02:25.007091+05:30'
 last_checked: '2026-08-28T17:02:25.007091+05:30'
 health_score: 100
 ---
+
 
 # Stripe said to abandon $50B pursuit of PayPal
 
