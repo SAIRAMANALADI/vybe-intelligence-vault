@@ -20051,10 +20051,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Good Culture Is the Biggest Productivity Hack, Not AI](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md)
   - [I accidentally turned LLM memory into program analysis](../ai/community/i-accidentally-turned-llm-memory-into-program-anal.md)
   - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
   - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
-  - [U.S. sanctions against the A/I Collective](../ai/community/u-s-sanctions-against-the-a-i-collective.md)
+  - [The growing divide between AI hype and software engineering reality](../ai/community/the-growing-divide-between-ai-hype-and-software-en.md)
+  - [Warp builds self-improving agents on Claude](../ai/community/warp-builds-self-improving-agents-on-claude.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -23879,4 +23881,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-29T19:41:13.540822+05:30*
+*Index generated on 2026-08-30T01:15:24.043635+05:30*

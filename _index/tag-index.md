@@ -4833,6 +4833,7 @@ Resources organized by keyword tags.
   - [Walk Before You Run: The Importance of Data Exploration for Data Analysis Agents](../ai/agents/arxiv-2608-16045.md)
   - [WallZero: Mastering the Game of WallGo with Strategic Analysis](../ai/rag/arxiv-2606-17847.md)
   - [Wan-Streamer v0.2: Higher Resolution, Same Latency](../ai/agents/arxiv-2607-04443.md)
+  - [Warp builds self-improving agents on Claude](../ai/community/warp-builds-self-improving-agents-on-claude.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
   - [WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks](../ai/agents/arxiv-2608-03499.md)
@@ -5362,8 +5363,9 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Good Culture Is the Biggest Productivity Hack, Not AI](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md)
   - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
-  - [U.S. sanctions against the A/I Collective](../ai/community/u-s-sanctions-against-the-a-i-collective.md)
+  - [The growing divide between AI hype and software engineering reality](../ai/community/the-growing-divide-between-ai-hype-and-software-en.md)
 
 ## animation
 
@@ -5931,6 +5933,7 @@ Resources organized by keyword tags.
   - [VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space](../ai/agents/arxiv-2608-02878.md)
   - [Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent](../ai/rag/arxiv-2608-03979.md)
   - [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md)
+  - [Warp builds self-improving agents on Claude](../ai/community/warp-builds-self-improving-agents-on-claude.md)
   - [We Got Claude to Build CUDA Kernels and teach open models!](../ai/models/huggingface-blog-upskill.md)
   - [We Got Claude to Fine-Tune an Open Source LLM](../ai/models/huggingface-blog-hf-skills-training.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
@@ -11640,6 +11643,7 @@ Resources organized by keyword tags.
   - [Paritok-4B: Intent-Conditioned Context Compression for Coding Agents](../ai/agents/arxiv-2608-24188.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass the Baton: Trajectory-Relayed On-Policy Distillation](../ai/rag/arxiv-2607-26057.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
@@ -18125,6 +18129,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
@@ -22649,6 +22654,7 @@ Resources organized by keyword tags.
   - [Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](../ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md)
   - [Godot Foundation](../ai/resources/godot-foundation.md)
   - [Golioth IoT Infrastructure as Code](../ai/rag/golioth-iot-infrastructure-as-code.md)
+  - [Good Culture Is the Biggest Productivity Hack, Not AI](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md)
   - [Good Practice Guide for quantifying uncertainties for machine learning models applied to photoplethysmography signals](../ai/research/arxiv-2607-19999.md)
   - [Google - YouTube](../ai/resources/google-youtube.md)
   - [Google AI Studio news from Google I/O 2026](../ai/rag/google-ai-studio-news-from-google-i-o-2026.md)
@@ -24179,6 +24185,7 @@ Resources organized by keyword tags.
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
+  - [The growing divide between AI hype and software engineering reality](../ai/community/the-growing-divide-between-ai-hype-and-software-en.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
@@ -24290,7 +24297,6 @@ Resources organized by keyword tags.
   - [Two-Sided Nearest Neighbors: An adaptive and minimax optimal procedure for matrix completion](../ai/research/arxiv-2411-12965.md)
   - [Type Checking Project Haystack Grids using JSON Schema and Pydantic](../ai/research/arxiv-2606-24891.md)
   - [TypiCore: A Hybrid Active Query Strategy for Class-Incremental Learning on Time Series](../ai/research/arxiv-2607-17632.md)
-  - [U.S. sanctions against the A/I Collective](../ai/community/u-s-sanctions-against-the-a-i-collective.md)
   - [UAX #44: Unicode Character Database](../ai/rag/uax-44-unicode-character-database.md)
   - [UCLA General Catalog](../ai/agents/ucla-general-catalog.md)
   - [UCLA Recognized as one of the Nation’s Top Fleets for 2024 | Transportation](../ai/resources/ucla-recognized-as-one-of-the-nations-top-fleets-f.md)
@@ -24395,6 +24401,7 @@ Resources organized by keyword tags.
   - [WARA: Toward Automated Wireless Optimization Research with Closed-Loop LLM Agents](../ai/agents/arxiv-2608-14573.md)
   - [WHALE: A Scalable Unified Model for Recommendation with Wukong-HSTU Architecture](../ai/research/arxiv-2607-17017.md)
   - [WILDTRACE: Benchmarking Natural Evidence Trails in Long-Context Reasoning](../ai/research/arxiv-2607-09328.md)
+  - [Warp builds self-improving agents on Claude](../ai/community/warp-builds-self-improving-agents-on-claude.md)
   - [WasmAssembly](../ai/resources/wasmassembly.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
@@ -24577,6 +24584,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -44784,7 +44792,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -53059,4 +53066,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-29T19:41:13.285767+05:30*
+*Index generated on 2026-08-30T01:15:23.782235+05:30*

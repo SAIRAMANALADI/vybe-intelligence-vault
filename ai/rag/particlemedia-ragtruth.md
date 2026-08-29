@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-08-29T12:49:04.075007+05:30'
-published_at: '2026-08-25T14:56:38Z'
+collected_at: '2026-08-30T00:59:52.982059+05:30'
+published_at: '2026-08-29T11:00:59Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - python
 - rag
-stars: 268
+stars: 269
 language: Python
 status: active
 license: MIT
@@ -18,9 +20,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-08-29T12:49:04.075007+05:30'
-last_seen: '2026-08-29T12:49:04.075007+05:30'
-last_checked: '2026-08-29T12:49:04.075007+05:30'
+first_seen: '2026-08-30T00:59:52.982059+05:30'
+last_seen: '2026-08-30T00:59:52.982059+05:30'
+last_checked: '2026-08-30T00:59:52.982059+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Introduces RAGTruth, a specialized corpus for evaluating and mitigating hallucinations in Retrieval-Augmented Language Models (RAGs).
-*   Designed to facilitate the development of more trustworthy RAG systems by providing targeted data for factual consistency assessment.
-*   Aims to improve the robustness of RAG architectures against generating factually incorrect information.
+*   Introduces RAGTruth, a specialized corpus designed to benchmark and analyze hallucination phenomena in Retrieval-Augmented Language Models (RAGs).
+*   Aims to facilitate the development of more trustworthy RAG systems by providing a structured dataset for evaluating and mitigating factual inconsistencies.
+*   The repository contains resources for researchers to develop and test methods for improving RAG model reliability against generated falsehoods.
 
 ## Why It Matters
 
@@ -39,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ParticleMedia
-- Stars: 268
+- Stars: 269
 - Forks: 35
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-25T14:56:38Z
+- Last Updated: 2026-08-29T11:00:59Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-26T05:41:01Z

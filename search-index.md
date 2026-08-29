@@ -33409,6 +33409,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `animation`, `benchmark`, `hackernews`, `models`, `producthunt`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.godotengine.org/>
 
+* **[Good Culture Is the Biggest Productivity Hack, Not AI](ai/community/good-culture-is-the-biggest-productivity-hack-not.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by gpi. Score: 67, Comments: 14. Original Link: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity>
+
 * **[Google AI Studio](ai/resources/google-ai-studio.md)** (`prompt` | `useful` tier)
   * Summary: - **Cloud-based IDE**: Google AI Studio is a web-based integrated development environment (IDE) designed for building, testing, and deploying AI models, particularly large language models (LLMs), with minimal setup. - **Model Access & Customization**
   * Tags: `dataset`, `models`, `web-crawled`, `workflows`
@@ -33685,7 +33690,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.23983>
 
 * **[I accidentally turned LLM memory into program analysis](ai/community/i-accidentally-turned-llm-memory-into-program-anal.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by matt_d. Score: 194, Comments: 53. Original Link: https://pwning.systems/posts/llm-memory-program-analysis/
+  * Summary: Hacker News story by matt_d. Score: 255, Comments: 71. Original Link: https://pwning.systems/posts/llm-memory-program-analysis/
   * Tags: `hackernews`, `llm`
   * Source URL: <https://pwning.systems/posts/llm-memory-program-analysis>
 
@@ -35664,7 +35669,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.09385>
 
 * **[StemDeck, a free, open-source and local AI stem separator](ai/community/stemdeckapp-stemdeck.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by thclpr. Score: 146, Comments: 33. Original Link: https://github.com/stemdeckapp/stemdeck
+  * Summary: Hacker News story by thclpr. Score: 183, Comments: 54. Original Link: https://github.com/stemdeckapp/stemdeck
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/stemdeckapp/stemdeck>
 
@@ -35817,6 +35822,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.02955v1 Announce Type: cross Abstract: We argue that AI systems used in conducting foreign policy tasks - broadly enacting 'statecraft' - should be a priority test case for technical AI governance research. In enacting foreign policy, we r
   * Tags: `benchmark`, `hackernews`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.02955>
+
+* **[The growing divide between AI hype and software engineering reality](ai/community/the-growing-divide-between-ai-hype-and-software-en.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by jruohonen. Score: 26, Comments: 17. Original Link: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://optimizedbyotto.com/post/why-open-source-projects-ban-ai>
 
 * **[The Hugo CMS for visual page building | CloudCannon](ai/rag/the-hugo-cms-for-visual-page-building-cloudcannon.md)** (`tutorial` | `useful` tier)
   * Summary: - **Git-Integrated Visual CMS**: CloudCannon integrates with Hugo’s Git workflow, enabling non-technical editors to modify content via a visual interface while preserving full developer control over themes, layouts, and shortcodes through branch-base
@@ -36058,11 +36068,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://github.com/python/typing/tree/main/conformance>
 
-* **[U.S. sanctions against the A/I Collective](ai/community/u-s-sanctions-against-the-a-i-collective.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by exiguus. Score: 641, Comments: 640. Original Link: https://www.inventati.org/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://inventati.org>
-
 * **[Ubuntu on WSL documentation](ai/rag/ubuntu-on-wsl-documentation.md)** (`framework` | `useful` tier)
   * Summary: - **WSL Integration**: Ubuntu on WSL provides a tightly integrated GNU/Linux environment on Windows, enabling remote development with IDEs, cross-OS file management, and full Ubuntu feature support for development and production use cases. - **Ubuntu
   * Tags: `agents`, `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
@@ -36297,6 +36302,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.14747v1 Announce Type: new Abstract: WANDR (Wide ANd Deep Research) is a benchmark of 500 realistic, challenging data-collection tasks for research agents. Each task requires a system to discover a large set of entities that satisfy specif
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.14747>
+
+* **[Warp builds self-improving agents on Claude](ai/community/warp-builds-self-improving-agents-on-claude.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by shenli3514. Score: 10, Comments: 4. Original Link: https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude
+  * Tags: `agents`, `anthropic`, `hackernews`
+  * Source URL: <https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude>
 
 * **[WaveVerif: Acoustic Side-Channel based Verification of Robotic Workflows](ai/research/arxiv-2510-25960.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2510.25960v2 Announce Type: replace-cross Abstract: In this paper, we present a framework that uses acoustic side-channel analysis (ASCA) to monitor and verify whether a robot correctly executes its intended commands. We develop and evaluate a
@@ -63359,7 +63369,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11231, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11232, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -73152,6 +73162,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2608.02844>
 
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * Introduces RAGTruth, a specialized corpus designed to benchmark and analyze hallucination phenomena in Retrieval-Augmented Language Models (RAGs). * Aims to facilitate the development of more trustworthy RAG systems by providing a structured datase
+  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
+
 * **[Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](ai/research/arxiv-2602-00511.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.00511v3 Announce Type: replace Abstract: We introduce \emph{Partition of Unity Neural Networks} (PUNNs), a neural-network architecture for multiclass classification based on the classical mathematical notion of a partition of unity. The st
   * Tags: `dataset`
@@ -80994,7 +81009,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5279, Downloads: 247672573)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5280, Downloads: 247672573)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -101731,9 +101746,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive, full-stack guide to Retrieval Augmented Generation (RAG) covering its entire development lifecycle. * Leverages prominent RAG frameworks (LangChain, LlamaIndex), vector/graph databases (Milvus, Neo4j), and embedding models. * Demonst
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`, `reddit`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides a full-stack technical guide for Retrieval Augmented Generation (RAG), covering
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -101741,8 +101756,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Curriculum on large language model (LLM) application development, targeting foundational understanding
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
+  * Summary: * Comprehensive tutorial repository for large language model (LLM) application development. *
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -111280,11 +111295,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus for evaluating and mitigating hallucinations in Retrieval-Augmented Language Models (RAGs). * Designed to facilitate the development of more trustworthy RAG systems by providing targeted data for factual co
-  * Tags: `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
-
 * **[PAS-QFL: Personalized Ansatz Selection for Quantum Federated Learning under Client Data Heterogeneity](ai/rag/arxiv-2608-14995.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.14995v1 Announce Type: cross Abstract: Quantum federated learning (QFL) lets multiple quantum clients collaboratively train quantum neural networks (QNNs) without sharing private local data. However, existing QFL methods commonly assume th
   * Tags: `paper`, `rag`
@@ -112621,7 +112631,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.20845>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for the `raganwald.com` domain. * Leverages GitHub Pages for static site generation and hosting. * Primary content and templating language is HTML.
+  * Summary: * Jekyll source repository for `raganwald.com`, leveraging GitHub Pages infrastructure.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -119905,7 +119915,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2510.01663>
 
 * **[Show HN: Galaxium, an experimental WebGPU space explorer](web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by guillaumec. Score: 24, Comments: 13. Original Link: https://galaxium.app
+  * Summary: Hacker News story by guillaumec. Score: 80, Comments: 26. Original Link: https://galaxium.app
   * Tags: `hackernews`, `threejs`, `webgpu`
   * Source URL: <https://galaxium.app>
 
