@@ -5362,7 +5362,6 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Identifying fake cosmetics using AI](../ai/community/identifying-fake-cosmetics-using-ai.md)
   - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
   - [U.S. sanctions against the A/I Collective](../ai/community/u-s-sanctions-against-the-a-i-collective.md)
 
@@ -22843,7 +22842,6 @@ Resources organized by keyword tags.
   - [IP Protection in the Era of Visual Generative AI: A Survey](../ai/research/arxiv-2608-14730.md)
   - [IPv6 Fundamentals Training Course - RIPE NCC](../ai/resources/ipv6-fundamentals-training-course-ripe-ncc.md)
   - [Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities](../ai/research/arxiv-2607-26062.md)
-  - [Identifying fake cosmetics using AI](../ai/community/identifying-fake-cosmetics-using-ai.md)
   - [Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses](../ai/agents/arxiv-2607-07775.md)
   - [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](../ai/research/if-llm-is-the-wizard-then-code-is-the-wand-a-surve.md)
   - [Imagine Intel: Creative Purpose at the Dawn of AI - Mozilla Foundation](../ai/resources/imagine-intel-creative-purpose-at-the-dawn-of-ai-m.md)
@@ -23898,6 +23896,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -43935,7 +43934,6 @@ Resources organized by keyword tags.
   - [IPv6 Fundamentals Training Course - RIPE NCC](../ai/resources/ipv6-fundamentals-training-course-ripe-ncc.md)
   - [ISGI - International Service of Geomagnetic Indices](../ai/resources/isgi-international-service-of-geomagnetic-indices.md)
   - [ITGPT: A Transformer Based Architecture for the Generation of Dance Dance Revolution and In the Groove Charts](../ai/research/arxiv-2607-14148.md)
-  - [Identifying fake cosmetics using AI](../ai/community/identifying-fake-cosmetics-using-ai.md)
   - [Identity Guide](../ai/resources/identity-guide.md)
   - [Imagine Intel: Creative Purpose at the Dawn of AI - Mozilla Foundation](../ai/resources/imagine-intel-creative-purpose-at-the-dawn-of-ai-m.md)
   - [Immigrants Belong Toolkit - Define American](../ai/rag/immigrants-belong-toolkit-define-american.md)
@@ -44786,6 +44784,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -45882,6 +45881,7 @@ Resources organized by keyword tags.
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Selection Bias Correction in Retail Intelligence](../ai/research/arxiv-2608-26156.md)
   - [Shift-Invariant Attribute Scoring for Kolmogorov-Arnold Networks via Shapley Value](../ai/research/arxiv-2510-01663.md)
+  - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
   - [Snowflake Status](../ai/rag/snowflake-status.md)
   - [SparseKAN: Compressing Kolmogorov--Arnold Networks Across Basis Functions, Neurons, and Bits](../ai/research/arxiv-2608-00859.md)
   - [SplineNet: An Isogeometric Deep Learning Method for Complex Shells](../ai/research/arxiv-2607-06026.md)
@@ -48915,6 +48915,10 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
+
+## webgpu
+
+  - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
 
 ## workflows
 
@@ -53055,4 +53059,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-29T13:04:29.597969+05:30*
+*Index generated on 2026-08-29T19:41:13.285767+05:30*

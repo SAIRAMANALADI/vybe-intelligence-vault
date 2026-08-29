@@ -20052,7 +20052,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [I accidentally turned LLM memory into program analysis](../ai/community/i-accidentally-turned-llm-memory-into-program-anal.md)
-  - [Identifying fake cosmetics using AI](../ai/community/identifying-fake-cosmetics-using-ai.md)
+  - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
   - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
   - [U.S. sanctions against the A/I Collective](../ai/community/u-s-sanctions-against-the-a-i-collective.md)
 
@@ -23879,4 +23879,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-29T13:04:29.855744+05:30*
+*Index generated on 2026-08-29T19:41:13.540822+05:30*

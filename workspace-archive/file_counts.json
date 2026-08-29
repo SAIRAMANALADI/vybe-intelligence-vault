@@ -9,7 +9,7 @@
     "automation-workflows": 1777,
     "datasets": 13520,
     "evals-and-benchmarks": 19363,
-    "frontend-ai-ui": 213,
+    "frontend-ai-ui": 212,
     "guardrails-security": 10677,
     "inference-local-llm": 1286,
     "jobs-market": 11,
@@ -24,7 +24,7 @@
     "rag-systems": 20030,
     "startup-builder": 180,
     "vector-databases": 7312,
-    "webdev-3d-creative": 140
+    "webdev-3d-creative": 141
   },
-  "last_updated": "2026-08-29T13:06:34.751429+05:30"
+  "last_updated": "2026-08-29T19:43:17.407849+05:30"
 }

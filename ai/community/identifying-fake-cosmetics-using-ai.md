@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:identifying-fake-cosmetics-using-ai
 first_seen: '2026-08-29T12:41:47.075729+05:30'
 last_seen: '2026-08-29T12:41:47.075729+05:30'
 last_checked: '2026-08-29T12:41:47.075729+05:30'
 health_score: 100
 ---
+
 
 # Identifying fake cosmetics using AI
 

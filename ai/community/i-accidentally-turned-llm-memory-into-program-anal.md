@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://pwning.systems/posts/llm-memory-program-analysis
 hn_url: https://news.ycombinator.com/item?id=49485416
-score: 106
+score: 194
 author: matt_d
-comments_count: 20
+comments_count: 53
 published_at: '2026-08-29T04:57:45+05:30'
-collected_at: '2026-08-29T12:41:45.267316+05:30'
+collected_at: '2026-08-29T19:25:06.724689+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:i-accidentally-turned-llm-memory-into-program-anal
 first_seen: '2026-08-29T12:41:45.267316+05:30'
-last_seen: '2026-08-29T12:41:45.267316+05:30'
-last_checked: '2026-08-29T12:41:45.267316+05:30'
+last_seen: '2026-08-29T19:25:06.724689+05:30'
+last_checked: '2026-08-29T19:25:06.724689+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by matt_d. Score: 106, Comments: 20.
+Hacker News story by matt_d. Score: 194, Comments: 53.
 Original Link: https://pwning.systems/posts/llm-memory-program-analysis/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: matt_d
-- Score: 106 Upvotes
-- Comments: 20 Discussions
+- Score: 194 Upvotes
+- Comments: 53 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49485416
 - Original Article: https://pwning.systems/posts/llm-memory-program-analysis
 
