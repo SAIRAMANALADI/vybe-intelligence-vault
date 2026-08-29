@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:smaller-reactors-bring-nuclear-power-closer-to-ful
 first_seen: '2026-08-29T03:58:16.516028+05:30'
 last_seen: '2026-08-29T03:58:16.516028+05:30'
 last_checked: '2026-08-29T03:58:16.516028+05:30'
 health_score: 100
 ---
+
 
 # Smaller reactors bring nuclear power closer to fulfilling its promise
 

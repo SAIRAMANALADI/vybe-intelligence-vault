@@ -13,13 +13,14 @@ collected_at: '2026-08-29T03:58:12.598885+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:stopping-the-smart-tv-from-being-used-against-you
 first_seen: '2026-08-29T03:58:12.598885+05:30'
 last_seen: '2026-08-29T03:58:12.598885+05:30'
 last_checked: '2026-08-29T03:58:12.598885+05:30'
 health_score: 100
 ---
+
 
 # Stopping the smart TV from being used against you
 

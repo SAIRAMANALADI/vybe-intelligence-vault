@@ -13,13 +13,14 @@ collected_at: '2026-08-29T03:58:14.611028+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:judge-rules-trump-administrations-blacklisting-of
 first_seen: '2026-08-29T03:58:14.611028+05:30'
 last_seen: '2026-08-29T03:58:14.611028+05:30'
 last_checked: '2026-08-29T03:58:14.611028+05:30'
 health_score: 100
 ---
+
 
 # Judge rules Trump administration’s blacklisting of Anthropic was illegal
 

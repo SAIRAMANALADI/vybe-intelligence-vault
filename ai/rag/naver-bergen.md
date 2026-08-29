@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/naver/bergen
-collected_at: '2026-08-11T00:55:54.112265+05:30'
-published_at: '2026-07-24T12:42:18Z'
+collected_at: '2026-08-29T12:50:14.125379+05:30'
+published_at: '2026-08-27T01:40:46Z'
 tags:
 - benchmark
 - github-repo
 - jupyter notebook
 - rag
 - reddit
-stars: 276
+stars: 280
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-05-09T14:13:44Z'
 pushed_at: '2026-07-14T11:04:39Z'
 resource_id: github:naver/bergen
-first_seen: '2026-08-11T00:55:54.112265+05:30'
-last_seen: '2026-08-11T00:55:54.112265+05:30'
-last_checked: '2026-08-11T00:55:54.112265+05:30'
+first_seen: '2026-08-29T12:50:14.125379+05:30'
+last_seen: '2026-08-29T12:50:14.125379+05:30'
+last_checked: '2026-08-29T12:50:14.125379+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: A benchmarking library specifically designed for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on augmentation, generation, and retrieval performance.
-- **Implementation**: Developed in Jupyter Notebook, it provides structured evaluation metrics and methodologies for assessing RAG pipelines.
-- **Scope**: Enables comparative analysis of RAG models by standardizing benchmarking processes, supporting LLMs, and facilitating reproducibility in research.
+*   A benchmarking library for evaluating Retrieval-Augmented Generation (RAG) systems.
+*   Focuses on assessing performance across core RAG components: retrieval, augmentation, and LLM-based generation.
+*   Implemented in Jupyter Notebooks, providing an interactive environment for RAG pipeline analysis.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: naver
-- Stars: 276
+- Stars: 280
 - Forks: 33
 - Language: Jupyter Notebook
 - Topics: augmentation, generation, llms, rag, retrieval
-- Last Updated: 2026-07-24T12:42:18Z
+- Last Updated: 2026-08-27T01:40:46Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-05-09T14:13:44Z

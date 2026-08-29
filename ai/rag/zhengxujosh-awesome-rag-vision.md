@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-08-11T00:55:49.046180+05:30'
-published_at: '2026-07-15T09:29:13Z'
+collected_at: '2026-08-29T12:50:09.080759+05:30'
+published_at: '2026-08-27T18:10:50Z'
 tags:
 - github-repo
 - hackernews
 - rag
 - unknown
-stars: 339
+stars: 343
 language: Unknown
 status: active
 archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-08-11T00:55:49.046180+05:30'
-last_seen: '2026-08-11T00:55:49.046180+05:30'
-last_checked: '2026-08-11T00:55:49.046180+05:30'
+first_seen: '2026-08-29T12:50:09.080759+05:30'
+last_seen: '2026-08-29T12:50:09.080759+05:30'
+last_checked: '2026-08-29T12:50:09.080759+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)** applications.
-- **Metadata**: 339 stars, 9 forks, last updated **July 15, 2026**; language unspecified.
-- **Focus**: Aggregates cutting-edge RAG methods bridging **vision-language models**, multimodal retrieval, and generative AI for enhanced CV tasks.
+*   Curates advanced Retrieval Augmented Generation (RAG) methodologies specifically tailored for Computer Vision (CV) applications.
+*   Aggregates state-of-the-art resources and research at the intersection of RAG and visual data processing.
+*   Functions as a comprehensive survey of techniques enhancing generative models with retrieved visual information.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zhengxuJosh
-- Stars: 339
-- Forks: 9
+- Stars: 343
+- Forks: 11
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-15T09:29:13Z
+- Last Updated: 2026-08-27T18:10:50Z
 - Archived: No
 - Created At: 2024-11-21T07:35:07Z
 - Pushed At: 2026-01-25T12:29:49Z

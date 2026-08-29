@@ -19306,7 +19306,7 @@ Resources organized by publisher feed and query sources.
   - [NanGePlus/CrewAITest](../ai/agents/nangeplus-crewaitest.md)
   - [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
-  - [NirDiamant/RAG_TECHNIQUES](../ai/rag/nirdiamant-rag-techniques.md)
+  - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
   - [Nithador/crewai_demo](../ai/agents/nithador-crewai-demo.md)
   - [NotPBShaw/awesome-ai-governance](../ai/agents/notpbshaw-awesome-ai-governance.md)
@@ -20051,11 +20051,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Judge rules Trump administration’s blacklisting of Anthropic was illegal](../ai/community/judge-rules-trump-administrations-blacklisting-of.md)
-  - [Luanti removed from Google Play due to baseless AI copyright notice](../ai/community/luanti-removed-from-google-play-due-to-baseless-ai.md)
-  - [Smaller reactors bring nuclear power closer to fulfilling its promise](../web-development/community/smaller-reactors-bring-nuclear-power-closer-to-ful.md)
-  - [Stopping the smart TV from being used against you](../ai/community/stopping-the-smart-tv-from-being-used-against-you.md)
-  - [The Analytical AI Handbook](../ai/community/the-analytical-ai-handbook.md)
+  - [I accidentally turned LLM memory into program analysis](../ai/community/i-accidentally-turned-llm-memory-into-program-anal.md)
+  - [Identifying fake cosmetics using AI](../ai/community/identifying-fake-cosmetics-using-ai.md)
+  - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
   - [U.S. sanctions against the A/I Collective](../ai/community/u-s-sanctions-against-the-a-i-collective.md)
 
 ## Unknown Source (type: huggingface)
@@ -23881,4 +23879,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-29T04:14:28.993620+05:30*
+*Index generated on 2026-08-29T13:04:29.855744+05:30*

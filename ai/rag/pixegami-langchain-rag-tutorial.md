@@ -4,24 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-08-11T00:54:49.010461+05:30'
-published_at: '2026-08-07T04:47:54Z'
+collected_at: '2026-08-29T12:49:14.036448+05:30'
+published_at: '2026-08-28T06:20:08Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
-- workflows
-stars: 982
+stars: 988
 language: Python
 status: active
 archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-08-11T00:54:49.010461+05:30'
-last_seen: '2026-08-11T00:54:49.010461+05:30'
-last_checked: '2026-08-11T00:54:49.010461+05:30'
+first_seen: '2026-08-29T12:49:14.036448+05:30'
+last_seen: '2026-08-29T12:49:14.036448+05:30'
+last_checked: '2026-08-29T12:49:14.036448+05:30'
 health_score: 100
 ---
 
@@ -29,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- Implements a basic **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain**, integrating document retrieval with LLM-based generation.
-- Utilizes **Python** with standard LangChain components (e.g., `RetrievalQA`, `VectorStore` with embeddings like `OpenAIEmbeddings` or `HuggingFaceEmbeddings`).
-- Demonstrates end-to-end workflow: **document ingestion → vector storage (FAISS/Chroma) → retrieval → prompt augmentation → LLM inference**.
+*   Implements a Retrieval-Augmented Generation (RAG) system leveraging the LangChain framework.
+*   Developed entirely in Python, indicating a common ecosystem for LLM application development.
+*   Functions as a simple, tutorial-grade RAG application, suitable for educational or foundational understanding.
 
 ## Why It Matters
 
@@ -40,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pixegami
-- Stars: 982
-- Forks: 521
+- Stars: 988
+- Forks: 520
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-07T04:47:54Z
+- Last Updated: 2026-08-28T06:20:08Z
 - Archived: No
 - Created At: 2023-11-13T09:14:54Z
 - Pushed At: 2024-07-31T23:46:44Z

@@ -13,13 +13,14 @@ collected_at: '2026-08-29T03:58:16.420220+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:luanti-removed-from-google-play-due-to-baseless-ai
 first_seen: '2026-08-29T03:58:16.420220+05:30'
 last_seen: '2026-08-29T03:58:16.420220+05:30'
 last_checked: '2026-08-29T03:58:16.420220+05:30'
 health_score: 100
 ---
+
 
 # Luanti removed from Google Play due to baseless AI copyright notice
 
