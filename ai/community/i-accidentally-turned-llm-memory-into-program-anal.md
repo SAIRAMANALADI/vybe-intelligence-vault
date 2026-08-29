@@ -13,13 +13,14 @@ collected_at: '2026-08-30T00:59:13.354326+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:i-accidentally-turned-llm-memory-into-program-anal
 first_seen: '2026-08-29T12:41:45.267316+05:30'
 last_seen: '2026-08-30T00:59:13.354326+05:30'
 last_checked: '2026-08-30T00:59:13.354326+05:30'
 health_score: 100
 ---
+
 
 # I accidentally turned LLM memory into program analysis
 

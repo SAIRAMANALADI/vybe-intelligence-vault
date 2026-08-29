@@ -32659,6 +32659,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `hackernews`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://docs.tacc.utexas.edu>
 
+* **[Domain-Driven Agents](ai/community/domain-driven-agents.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by AlarQ. Score: 25, Comments: 1. Original Link: https://coldtake.dev/blog/domain-driven-agents
+  * Tags: `agents`, `ai`, `hackernews`
+  * Source URL: <https://coldtake.dev/blog/domain-driven-agents>
+
 * **[Dose-PlanNet: Physics Based Radiotherapy Dose Prediction with Deep Learning](ai/rag/arxiv-2608-26901.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.26901v1 Announce Type: cross Abstract: Automating prostate radiotherapy treatment planning is dosimetrically complex, particularly for extreme hypofractionated regimens. In this study, we introduce Dose-PlanNet, a physics-guided 3D deep le
   * Tags: `rag`, `workflows`
@@ -33410,7 +33415,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.godotengine.org/>
 
 * **[Good Culture Is the Biggest Productivity Hack, Not AI](ai/community/good-culture-is-the-biggest-productivity-hack-not.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by gpi. Score: 67, Comments: 14. Original Link: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity
+  * Summary: Hacker News story by gpi. Score: 191, Comments: 35. Original Link: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity
   * Tags: `ai`, `hackernews`
   * Source URL: <https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity>
 
@@ -33688,11 +33693,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.23983v1 Announce Type: cross Abstract: Operational flood forecasting depends on tacit forecaster expertise that is difficult to formalize, audit, and transfer. Although artificial intelligence methods have advanced flood prediction and mod
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.23983>
-
-* **[I accidentally turned LLM memory into program analysis](ai/community/i-accidentally-turned-llm-memory-into-program-anal.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by matt_d. Score: 255, Comments: 71. Original Link: https://pwning.systems/posts/llm-memory-program-analysis/
-  * Tags: `hackernews`, `llm`
-  * Source URL: <https://pwning.systems/posts/llm-memory-program-analysis>
 
 * **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](ai/research/arxiv-2606-11722.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11722v1 Announce Type: new Abstract: Finding interpretable directions in language-model representations is critical for understanding and controlling model behavior. Sparse autoencoders (SAEs) have become the standard tool for this purpose
@@ -35669,7 +35669,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.09385>
 
 * **[StemDeck, a free, open-source and local AI stem separator](ai/community/stemdeckapp-stemdeck.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by thclpr. Score: 183, Comments: 54. Original Link: https://github.com/stemdeckapp/stemdeck
+  * Summary: Hacker News story by thclpr. Score: 191, Comments: 57. Original Link: https://github.com/stemdeckapp/stemdeck
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/stemdeckapp/stemdeck>
 
@@ -35822,11 +35822,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.02955v1 Announce Type: cross Abstract: We argue that AI systems used in conducting foreign policy tasks - broadly enacting 'statecraft' - should be a priority test case for technical AI governance research. In enacting foreign policy, we r
   * Tags: `benchmark`, `hackernews`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.02955>
-
-* **[The growing divide between AI hype and software engineering reality](ai/community/the-growing-divide-between-ai-hype-and-software-en.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jruohonen. Score: 26, Comments: 17. Original Link: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://optimizedbyotto.com/post/why-open-source-projects-ban-ai>
 
 * **[The Hugo CMS for visual page building | CloudCannon](ai/rag/the-hugo-cms-for-visual-page-building-cloudcannon.md)** (`tutorial` | `useful` tier)
   * Summary: - **Git-Integrated Visual CMS**: CloudCannon integrates with Hugo’s Git workflow, enabling non-technical editors to modify content via a visual interface while preserving full developer control over themes, layouts, and shortcodes through branch-base
@@ -36288,6 +36283,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.24748>
 
+* **[vLLM v0.28.0](ai/rag/vllm-project-vllm.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by mrrrcs. Score: 71, Comments: 24. Original Link: https://github.com/vllm-project/vllm/releases/tag/v0.28.0
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://github.com/vllm-project/vllm>
+
 * **[volcengine/OpenViking](ai/rag/volcengine-openviking.md)** (`benchmark` | `useful` tier)
   * Summary: - **File System-Based Context Management**: OpenViking implements a hierarchical context database for AI Agents using a file system paradigm, enabling structured storage and retrieval of memory, resources, and skills via familiar filesystem operation
   * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
@@ -36302,11 +36302,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.14747v1 Announce Type: new Abstract: WANDR (Wide ANd Deep Research) is a benchmark of 500 realistic, challenging data-collection tasks for research agents. Each task requires a system to discover a large set of entities that satisfy specif
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.14747>
-
-* **[Warp builds self-improving agents on Claude](ai/community/warp-builds-self-improving-agents-on-claude.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by shenli3514. Score: 10, Comments: 4. Original Link: https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude
-  * Tags: `agents`, `anthropic`, `hackernews`
-  * Source URL: <https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude>
 
 * **[WaveVerif: Acoustic Side-Channel based Verification of Robotic Workflows](ai/research/arxiv-2510-25960.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2510.25960v2 Announce Type: replace-cross Abstract: In this paper, we present a framework that uses acoustic side-channel analysis (ASCA) to monitor and verify whether a robot correctly executes its intended commands. We develop and evaluate a
@@ -40338,7 +40333,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
 
 * **[amazon/chronos-2](ai/models/huggingface-amazon-chronos-2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 414, Downloads: 29823830)
+  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 415, Downloads: 29823830)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/amazon/chronos-2>
 
@@ -63599,7 +63594,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.26832>
 
 * **[KakologArchives/KakologArchives](ai/models/huggingface-datasets-kakologarchives.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 79, Downloads: 3628113)
+  * Summary: Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 80, Downloads: 3628113)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/kakologarchives>
 
@@ -76452,7 +76447,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1555, Downloads: 22399005)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1556, Downloads: 22399005)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -101756,8 +101751,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive tutorial repository for large language model (LLM) application development. *
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Structured curriculum for large language model (LLM) application development. * Emphasizes practical implementations leveraging LangChain and Retrieval Augmented Generation (RAG) paradigms. * Content delivered via interactive Jupyter Notebooks, fac
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -112631,7 +112626,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.20845>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, leveraging GitHub Pages infrastructure.
+  * Summary: * Jekyll source repository for `raganwald.com`. * Primary codebase implemented in HTML. * Hosted under `raganwald/raganwald.github.com`.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -118199,11 +118194,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://docs.vllm.ai/en/latest>
 
-* **[vllm-project/vllm](ai/rag/vllm-project-vllm.md)** (`framework` | `useful` tier)
-  * Summary: - **Architecture & Efficiency**: vLLM implements **PagedAttention**, a memory optimization technique that reduces KV cache fragmentation, enabling high-throughput LLM inference with minimal memory overhead. - **Hardware & Framework Support**: Optimiz
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `openai`, `python`, `rag`
-  * Source URL: <https://github.com/vllm-project/vllm>
-
 * **[vllm-project/vllm-omni](ai/rag/vllm-project-vllm-omni.md)** (`framework` | `useful` tier)
   * Summary: - **Omni-Modality Inference Framework**: Implements efficient serving for models handling multiple modalities (text, image, video, audio) using a unified transformer-based architecture optimized for low-latency inference. - **Key Optimizations**: Lev
   * Tags: `github-repo`, `python`, `rag`, `youtube`
@@ -119915,7 +119905,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2510.01663>
 
 * **[Show HN: Galaxium, an experimental WebGPU space explorer](web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by guillaumec. Score: 80, Comments: 26. Original Link: https://galaxium.app
+  * Summary: Hacker News story by guillaumec. Score: 99, Comments: 31. Original Link: https://galaxium.app
   * Tags: `hackernews`, `threejs`, `webgpu`
   * Source URL: <https://galaxium.app>
 

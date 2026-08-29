@@ -8,11 +8,11 @@ authors:
 - Jakub Swacha
 - Michał Gracel
 year: 2025
-citation_count: 109
+citation_count: 115
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-08-19T03:20:08.331157+05:30'
+collected_at: '2026-08-30T04:14:31.935462+05:30'
 tags:
 - augmented
 - benchmark
@@ -24,8 +24,8 @@ tags:
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-chatbots-for-ed
 first_seen: '2026-08-14T00:58:16.739086+05:30'
-last_seen: '2026-08-19T03:20:08.331157+05:30'
-last_checked: '2026-08-19T03:20:08.331157+05:30'
+last_seen: '2026-08-30T04:14:31.935462+05:30'
+last_checked: '2026-08-30T04:14:31.935462+05:30'
 health_score: 100
 ---
 
@@ -43,7 +43,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Jakub Swacha, Michał Gracel
 - Publication Year: 2025
-- Citation Count: 109
+- Citation Count: 115
 - Paper Link: https://semanticscholar.org/paper/4790cc01fdf69b5f61fde69d16ad21712adb8a77
 - Code Link: None
 - Code Stars: N/A

@@ -19987,7 +19987,6 @@ Resources organized by publisher feed and query sources.
   - [virattt/dexter](../ai/rag/virattt-dexter.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
   - [vitejs/vite](../ai/rag/vitejs-vite.md)
-  - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
   - [vllm-project/vllm-omni](../ai/rag/vllm-project-vllm-omni.md)
   - [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
@@ -20051,12 +20050,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Domain-Driven Agents](../ai/community/domain-driven-agents.md)
   - [Good Culture Is the Biggest Productivity Hack, Not AI](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md)
-  - [I accidentally turned LLM memory into program analysis](../ai/community/i-accidentally-turned-llm-memory-into-program-anal.md)
   - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
   - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
-  - [The growing divide between AI hype and software engineering reality](../ai/community/the-growing-divide-between-ai-hype-and-software-en.md)
-  - [Warp builds self-improving agents on Claude](../ai/community/warp-builds-self-improving-agents-on-claude.md)
+  - [vLLM v0.28.0](../ai/rag/vllm-project-vllm.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -23881,4 +23879,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-30T01:15:24.043635+05:30*
+*Index generated on 2026-08-30T04:30:43.511737+05:30*

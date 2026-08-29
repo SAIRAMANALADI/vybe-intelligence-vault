@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://galaxium.app
 hn_url: https://news.ycombinator.com/item?id=49420524
-score: 80
+score: 99
 author: guillaumec
-comments_count: 26
+comments_count: 31
 published_at: '2026-08-24T20:14:20+05:30'
-collected_at: '2026-08-30T00:59:12.519011+05:30'
+collected_at: '2026-08-30T04:14:35.908474+05:30'
 tags:
 - hackernews
 - threejs
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:show-hn-galaxium-an-experimental-webgpu-space-expl
 first_seen: '2026-08-29T19:25:06.514117+05:30'
-last_seen: '2026-08-30T00:59:12.519011+05:30'
-last_checked: '2026-08-30T00:59:12.519011+05:30'
+last_seen: '2026-08-30T04:14:35.908474+05:30'
+last_checked: '2026-08-30T04:14:35.908474+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by guillaumec. Score: 80, Comments: 26.
+Hacker News story by guillaumec. Score: 99, Comments: 31.
 Original Link: https://galaxium.app
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: guillaumec
-- Score: 80 Upvotes
-- Comments: 26 Discussions
+- Score: 99 Upvotes
+- Comments: 31 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49420524
 - Original Article: https://galaxium.app
 

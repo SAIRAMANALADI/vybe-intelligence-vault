@@ -1491,6 +1491,7 @@ Resources organized by keyword tags.
   - [Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study](../ai/agents/arxiv-2608-13568.md)
   - [Does the Proof Prove It That Way? Faithful Formalization of Elements Proofs](../ai/agents/arxiv-2608-15432.md)
   - [Doing What They Say, Not What They Reason: Locating the Faithfulness Gap in LLM Agents](../ai/agents/arxiv-2606-00476.md)
+  - [Domain-Driven Agents](../ai/community/domain-driven-agents.md)
   - [Domain-Generalized Adaptive Semantic Communication for Collaborative Perception](../ai/agents/arxiv-2608-00056.md)
   - [Domain-Specific Agents for Cherenkov Telescope Array Control Software and Gamma-Ray Data Analysis](../ai/agents/arxiv-2510-01299.md)
   - [Don't Blame the Large Language Model: How Agent Harness Evolution Shapes Coding Agent Quality](../ai/agents/arxiv-2607-03691.md)
@@ -4833,7 +4834,6 @@ Resources organized by keyword tags.
   - [Walk Before You Run: The Importance of Data Exploration for Data Analysis Agents](../ai/agents/arxiv-2608-16045.md)
   - [WallZero: Mastering the Game of WallGo with Strategic Analysis](../ai/rag/arxiv-2606-17847.md)
   - [Wan-Streamer v0.2: Higher Resolution, Same Latency](../ai/agents/arxiv-2607-04443.md)
-  - [Warp builds self-improving agents on Claude](../ai/community/warp-builds-self-improving-agents-on-claude.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
   - [WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks](../ai/agents/arxiv-2608-03499.md)
@@ -5363,9 +5363,9 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Domain-Driven Agents](../ai/community/domain-driven-agents.md)
   - [Good Culture Is the Biggest Productivity Hack, Not AI](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md)
   - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
-  - [The growing divide between AI hype and software engineering reality](../ai/community/the-growing-divide-between-ai-hype-and-software-en.md)
 
 ## animation
 
@@ -5933,7 +5933,6 @@ Resources organized by keyword tags.
   - [VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space](../ai/agents/arxiv-2608-02878.md)
   - [Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent](../ai/rag/arxiv-2608-03979.md)
   - [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md)
-  - [Warp builds self-improving agents on Claude](../ai/community/warp-builds-self-improving-agents-on-claude.md)
   - [We Got Claude to Build CUDA Kernels and teach open models!](../ai/models/huggingface-blog-upskill.md)
   - [We Got Claude to Fine-Tune an Open Source LLM](../ai/models/huggingface-blog-hf-skills-training.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
@@ -21325,7 +21324,6 @@ Resources organized by keyword tags.
   - [virattt/dexter](../ai/rag/virattt-dexter.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
   - [vitejs/vite](../ai/rag/vitejs-vite.md)
-  - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
   - [vllm-project/vllm-omni](../ai/rag/vllm-project-vllm-omni.md)
   - [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
@@ -22283,6 +22281,7 @@ Resources organized by keyword tags.
   - [Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study](../ai/agents/arxiv-2608-13568.md)
   - [Domain adaptation for handwriting trajectory reconstruction from IMU sensors](../ai/rag/arxiv-2607-26736.md)
   - [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](../ai/research/arxiv-2608-12227.md)
+  - [Domain-Driven Agents](../ai/community/domain-driven-agents.md)
   - [Domain-Specific Self-Supervised Representation Learning for Retinal Fundus Classification](../ai/research/arxiv-2608-26686.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
   - [Dominant Arm Identification with Mixing and Recycling Observed Samples](../ai/research/arxiv-2608-01545.md)
@@ -22832,7 +22831,6 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
-  - [I accidentally turned LLM memory into program analysis](../ai/community/i-accidentally-turned-llm-memory-into-program-anal.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IAAR-Shanghai/CRUD_RAG](../ai/rag/iaar-shanghai-crud-rag.md)
@@ -24185,7 +24183,6 @@ Resources organized by keyword tags.
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
-  - [The growing divide between AI hype and software engineering reality](../ai/community/the-growing-divide-between-ai-hype-and-software-en.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
@@ -24401,7 +24398,6 @@ Resources organized by keyword tags.
   - [WARA: Toward Automated Wireless Optimization Research with Closed-Loop LLM Agents](../ai/agents/arxiv-2608-14573.md)
   - [WHALE: A Scalable Unified Model for Recommendation with Wukong-HSTU Architecture](../ai/research/arxiv-2607-17017.md)
   - [WILDTRACE: Benchmarking Natural Evidence Trails in Long-Context Reasoning](../ai/research/arxiv-2607-09328.md)
-  - [Warp builds self-improving agents on Claude](../ai/community/warp-builds-self-improving-agents-on-claude.md)
   - [WasmAssembly](../ai/resources/wasmassembly.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
@@ -24751,6 +24747,7 @@ Resources organized by keyword tags.
   - [typing â Support for type hints — Python 3.14.7 documentation](../ai/rag/typing-a-support-for-type-hints-python-3-14-7-docu.md)
   - [uber/ADR](../ai/agents/uber-adr.md)
   - [unstructuredio (unstructured.io)](../ai/resources/unstructuredio-unstructured-io.md)
+  - [vLLM v0.28.0](../ai/rag/vllm-project-vllm.md)
   - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog](../ai/rag/vllm-easy-fast-and-cheap-llm-serving-with-pagedatt.md)
   - [vercel-labs/agent-browser](../ai/rag/vercel-labs-agent-browser.md)
   - [vercel-labs/knowledge-agent-template](../ai/rag/vercel-labs-knowledge-agent-template.md)
@@ -24758,7 +24755,6 @@ Resources organized by keyword tags.
   - [vibecon](../ai/rag/vibecon.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
-  - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
@@ -25299,7 +25295,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [I accidentally turned LLM memory into program analysis](../ai/community/i-accidentally-turned-llm-memory-into-program-anal.md)
+  - [vLLM v0.28.0](../ai/rag/vllm-project-vllm.md)
 
 ## mdx
 
@@ -25980,7 +25976,6 @@ Resources organized by keyword tags.
   - [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md)
   - [vLLM](../ai/rag/vllm.md)
   - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog](../ai/rag/vllm-easy-fast-and-cheap-llm-serving-with-pagedatt.md)
-  - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
   - [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
   - [zilliztech/deep-searcher](../ai/rag/zilliztech-deep-searcher.md)
@@ -30593,7 +30588,6 @@ Resources organized by keyword tags.
   - [vLLM](../ai/rag/vllm.md)
   - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog](../ai/rag/vllm-easy-fast-and-cheap-llm-serving-with-pagedatt.md)
   - [video-SALMONN-R$^3$: Learning to ReWatch, ReAsk, and ReAnswer for Efficient Video Understanding](../ai/research/arxiv-2606-24477.md)
-  - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
   - [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
   - [zilliztech/deep-searcher](../ai/rag/zilliztech-deep-searcher.md)
@@ -31284,7 +31278,6 @@ Resources organized by keyword tags.
   - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog](../ai/rag/vllm-easy-fast-and-cheap-llm-serving-with-pagedatt.md)
   - [valory-xyz/langchain-hello-world](../ai/agents/valory-xyz-langchain-hello-world.md)
   - [vercel/ai](../ai/agents/vercel-ai.md)
-  - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
   - [weaviate/Verba](../ai/rag/weaviate-verba.md)
   - [zahere-dev/openai-agents-sdk-tutorial](../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md)
@@ -35973,7 +35966,6 @@ Resources organized by keyword tags.
   - [vespa-engine/sample-apps](../ai/resources/vespa-engine-sample-apps.md)
   - [vibrantlabsai/ragas](../ai/rag/vibrantlabsai-ragas.md)
   - [vin67/crewai_docker](../ai/agents/vin67-crewai-docker.md)
-  - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
   - [vllm-project/vllm-omni](../ai/rag/vllm-project-vllm-omni.md)
   - [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
@@ -43275,7 +43267,6 @@ Resources organized by keyword tags.
   - [virattt/dexter](../ai/rag/virattt-dexter.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/vite](../ai/rag/vitejs-vite.md)
-  - [vllm-project/vllm](../ai/rag/vllm-project-vllm.md)
   - [vllm-project/vllm-omni](../ai/rag/vllm-project-vllm-omni.md)
   - [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
@@ -53066,4 +53057,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-30T01:15:23.782235+05:30*
+*Index generated on 2026-08-30T04:30:43.256419+05:30*

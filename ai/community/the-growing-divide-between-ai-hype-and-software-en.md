@@ -13,13 +13,14 @@ collected_at: '2026-08-30T00:59:10.582770+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-growing-divide-between-ai-hype-and-software-en
 first_seen: '2026-08-30T00:59:10.582770+05:30'
 last_seen: '2026-08-30T00:59:10.582770+05:30'
 last_checked: '2026-08-30T00:59:10.582770+05:30'
 health_score: 100
 ---
+
 
 # The growing divide between AI hype and software engineering reality
 

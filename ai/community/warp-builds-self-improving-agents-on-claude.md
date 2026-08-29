@@ -14,13 +14,14 @@ tags:
 - agents
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:warp-builds-self-improving-agents-on-claude
 first_seen: '2026-08-30T00:59:08.982237+05:30'
 last_seen: '2026-08-30T00:59:08.982237+05:30'
 last_checked: '2026-08-30T00:59:08.982237+05:30'
 health_score: 100
 ---
+
 
 # Warp builds self-improving agents on Claude
 
