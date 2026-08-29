@@ -21,11 +21,11 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 20459 resources matched in the intelligence vault.
 Recently detected signals:
-- [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) (Source: Unknown Source) - Collected 2026-08-29
-- [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) (Source: Unknown Source) - Collected 2026-08-29
-- [techwithtim/ProductionGradeRAGPythonApp](../ai/rag/techwithtim-productiongraderagpythonapp.md) (Source: Unknown Source) - Collected 2026-08-29
-- [IntelLabs/fastRAG](../ai/rag/intellabs-fastrag.md) (Source: Unknown Source) - Collected 2026-08-29
-- [QuivrHQ/quivr](../ai/rag/quivrhq-quivr.md) (Source: Unknown Source) - Collected 2026-08-29
+- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-08-29
+- [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) (Source: Unknown Source) - Collected 2026-08-29
+- [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) (Source: Unknown Source) - Collected 2026-08-29
+- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-08-29
+- [Sunsetting Create React App](../ai/rag/sunsetting-create-react-app.md) (Source: Unknown Source) - Collected 2026-08-29
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -106,145 +106,145 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using the Vercel AI SDK, integrating document retrieval with LLM inference for contextual responses.
 
-### 16. [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md) ([GitHub](https://github.com/nicholasgoh/fastapi-mcp-langgraph-template))
+### 16. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+- Stars: 0
+- Language: Unknown
+- Description: *   Comprehensive, full-stack guide to Retrieval Augmented Generation (RAG) covering its entire development lifecycle.
+
+### 17. [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md) ([GitHub](https://github.com/nicholasgoh/fastapi-mcp-langgraph-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Architecture**: Template integrates FastAPI for REST endpoints, MCP (Model Context Protocol) for agentic orchestration, and LangGraph for stateful workflows, enabling scalable agentic systems w...
 
-### 17. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
+### 18. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
 - Stars: 0
 - Language: Unknown
 - Description: *   Showcases advanced RAG architectures, including agentic RAG, via practical Jupyter Notebook tutorials.
 
-### 18. [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md) ([GitHub](https://github.com/towardsai/ragbook-notebooks))
+### 19. [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md) ([GitHub](https://github.com/towardsai/ragbook-notebooks))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: Hosts Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, covering topics like agent frameworks, LangChain, LlamaIndex, and RAG implementations...
 
-### 19. [Azure-Samples/aisearch-openai-rag-audio](../ai/rag/azure-samples-aisearch-openai-rag-audio.md) ([GitHub](https://github.com/azure-samples/aisearch-openai-rag-audio))
+### 20. [Azure-Samples/aisearch-openai-rag-audio](../ai/rag/azure-samples-aisearch-openai-rag-audio.md) ([GitHub](https://github.com/azure-samples/aisearch-openai-rag-audio))
 - Stars: 0
 - Language: Unknown
 - Description: - Implements **VoiceRAG pattern** for interactive voice generative AI using **Azure AI Search** and **Azure OpenAI's `gpt-4o-realtime-preview`** model.
 
-### 20. [jxzhangjhu/Awesome-LLM-RAG](../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([GitHub](https://github.com/jxzhangjhu/awesome-llm-rag))
+### 21. [jxzhangjhu/Awesome-LLM-RAG](../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([GitHub](https://github.com/jxzhangjhu/awesome-llm-rag))
 - Stars: 0
 - Language: Unknown
 - Description: *   Curates advanced Retrieval Augmented Generation (RAG) methodologies and resources for Large Language Models (LLMs).
 
-### 21. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+### 22. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for integrating vector search with LLMs (e.g., GPT-4 Vision, LangChain, LlamaIndex) to build Retrieval-Augmented ...
 
-### 22. [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md) ([GitHub](https://github.com/dannyblaker/rag-tutorial))
+### 23. [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md) ([GitHub](https://github.com/dannyblaker/rag-tutorial))
 - Stars: 0
 - Language: Unknown
 - Description: *   Comprehensive RAG tutorial spanning foundational concepts (embeddings, vector databases, LLMs) to advanced production-grade techniques.
 
-### 23. [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md) ([GitHub](https://github.com/langchain-ai/retrieval-agent-template))
+### 24. [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md) ([GitHub](https://github.com/langchain-ai/retrieval-agent-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Template repository for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
 
-### 24. [embeddings-benchmark/mteb](../ai/rag/embeddings-benchmark-mteb.md) ([GitHub](https://github.com/embeddings-benchmark/mteb))
+### 25. [embeddings-benchmark/mteb](../ai/rag/embeddings-benchmark-mteb.md) ([GitHub](https://github.com/embeddings-benchmark/mteb))
 - Stars: 0
 - Language: Unknown
 - Description: - **MTEB Framework**: A Python-based benchmarking tool for evaluating text embeddings across diverse tasks (e.g., retrieval, classification, clustering) and languages/modalities, integrating standa...
 
-### 25. [coree/awesome-rag](../ai/rag/coree-awesome-rag.md) ([GitHub](https://github.com/coree/awesome-rag))
+### 26. [coree/awesome-rag](../ai/rag/coree-awesome-rag.md) ([GitHub](https://github.com/coree/awesome-rag))
 - Stars: 0
 - Language: Unknown
 - Description: *   Curated repository of resources for Retrieval-Augmented Generation (RAG) within Large Language Models (LLMs).
 
-### 26. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
+### 27. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
 - Stars: 0
 - Language: Unknown
 - Description: - **RAG Time**: A structured 5-week learning program focused on Retrieval-Augmented Generation (RAG) techniques, covering hybrid search, vector indexing, and quantization methods (binary/scalar) fo...
 
-### 27. [Ais1on/CTI-RAG](../ai/rag/ais1on-cti-rag.md) ([GitHub](https://github.com/ais1on/cti-rag))
+### 28. [Ais1on/CTI-RAG](../ai/rag/ais1on-cti-rag.md) ([GitHub](https://github.com/ais1on/cti-rag))
 - Stars: 0
 - Language: Unknown
 - Description: *   CTI-RAG is a Retrieval-Augmented Generation (RAG) framework tailored for Cyber Threat Intelligence (CTI).
 
-### 28. [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md) ([GitHub](https://github.com/yigtwxx/awesome-rag-production))
-- Stars: 0
-- Language: Unknown
-- Description: *   Curates battle-tested tools and frameworks for building scalable, production-grade Retrieval-Aug
-
-### 29. [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) ([GitHub](https://github.com/hkuds/rag-anything))
-- Stars: 0
-- Language: Unknown
-- Description: *   Unified, comprehensive framework for Retrieval-Augmented Generation (RAG).
-
-### 30. [FudanDNN-NLP/RAG](../ai/rag/fudandnn-nlp-rag.md) ([GitHub](https://github.com/fudandnn-nlp/rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"* focusing on RAG optimizati...
-
-### 31. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents collaborate hierarchically for complex reasoning tasks, integrating graph-based retrieval with LLM-drive...
-
-### 32. [VivekMalhan666/rag-beginner-guide](../ai/rag/vivekmalhan666-rag-beginner-guide.md) ([GitHub](https://github.com/vivekmalhan666/rag-beginner-guide))
-- Stars: 0
-- Language: Unknown
-- Description: - **Step-by-step RAG implementation**: Provides a beginner-friendly guide to building a Retrieval-Augmented Generation (RAG) system in Python from scratch, avoiding abstracted solutions.
-
-### 33. [gomate-community/awesome-papers-for-rag](../ai/rag/gomate-community-awesome-papers-for-rag.md) ([GitHub](https://github.com/gomate-community/awesome-papers-for-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Curated RAG Resources**: Repository aggregates key papers, frameworks, and tools for retrieval-augmented generation (RAG), focusing on advancements in integrating retrieval mechanisms with gene...
-
-### 34. [IBM/mt-rag-benchmark](../ai/rag/ibm-mt-rag-benchmark.md) ([GitHub](https://github.com/ibm/mt-rag-benchmark))
-- Stars: 0
-- Language: Unknown
-- Description: - **Purpose**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
-
-### 35. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
-- Stars: 0
-- Language: Unknown
-- Description: - **Intermediate Event Streaming**: Demonstrates streaming LlamaIndex RAG intermediate events (e.g., node parsing, retrieval, synthesis) to Vercel AI SDK via Server-Sent Events (SSE) for real-time ...
-
-### 36. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
-- Stars: 0
-- Language: Unknown
-- Description: *   Comprehensive RAG development guide covering full-stack implementation, from embedding generation to LLM integration.
-
-### 37. [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) ([GitHub](https://github.com/apecloud/aperag))
+### 29. [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) ([GitHub](https://github.com/apecloud/aperag))
 - Stars: 0
 - Language: Unknown
 - Description: *   Production-ready GraphRAG framework incorporating multi-modal indexing capabilities.
 
-### 38. [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md) ([GitHub](https://github.com/pixegami/langchain-rag-tutorial))
+### 30. [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md) ([GitHub](https://github.com/yigtwxx/awesome-rag-production))
+- Stars: 0
+- Language: Unknown
+- Description: *   Curates battle-tested tools and frameworks for building scalable, production-grade Retrieval-Aug
+
+### 31. [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) ([GitHub](https://github.com/hkuds/rag-anything))
+- Stars: 0
+- Language: Unknown
+- Description: *   Unified, comprehensive framework for Retrieval-Augmented Generation (RAG).
+
+### 32. [FudanDNN-NLP/RAG](../ai/rag/fudandnn-nlp-rag.md) ([GitHub](https://github.com/fudandnn-nlp/rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"* focusing on RAG optimizati...
+
+### 33. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents collaborate hierarchically for complex reasoning tasks, integrating graph-based retrieval with LLM-drive...
+
+### 34. [VivekMalhan666/rag-beginner-guide](../ai/rag/vivekmalhan666-rag-beginner-guide.md) ([GitHub](https://github.com/vivekmalhan666/rag-beginner-guide))
+- Stars: 0
+- Language: Unknown
+- Description: - **Step-by-step RAG implementation**: Provides a beginner-friendly guide to building a Retrieval-Augmented Generation (RAG) system in Python from scratch, avoiding abstracted solutions.
+
+### 35. [gomate-community/awesome-papers-for-rag](../ai/rag/gomate-community-awesome-papers-for-rag.md) ([GitHub](https://github.com/gomate-community/awesome-papers-for-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Curated RAG Resources**: Repository aggregates key papers, frameworks, and tools for retrieval-augmented generation (RAG), focusing on advancements in integrating retrieval mechanisms with gene...
+
+### 36. [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md) ([GitHub](https://github.com/pixegami/langchain-rag-tutorial))
 - Stars: 0
 - Language: Unknown
 - Description: *   Implements a Retrieval-Augmented Generation (RAG) system leveraging the LangChain framework.
+
+### 37. [IBM/mt-rag-benchmark](../ai/rag/ibm-mt-rag-benchmark.md) ([GitHub](https://github.com/ibm/mt-rag-benchmark))
+- Stars: 0
+- Language: Unknown
+- Description: - **Purpose**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
+
+### 38. [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md) ([GitHub](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial))
+- Stars: 0
+- Language: Unknown
+- Description: - **Intermediate Event Streaming**: Demonstrates streaming LlamaIndex RAG intermediate events (e.g., node parsing, retrieval, synthesis) to Vercel AI SDK via Server-Sent Events (SSE) for real-time ...
 
 ### 39. [neuml/txtai](../ai/rag/neuml-txtai.md) ([GitHub](https://github.com/neuml/txtai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
 
-### 40. [devloperdevesh/EnterpriseRAG-AI](../ai/rag/devloperdevesh-enterpriserag-ai.md) ([GitHub](https://github.com/devloperdevesh/enterpriserag-ai))
+### 40. [zhengxuJosh/Awesome-RAG-Vision](../ai/rag/zhengxujosh-awesome-rag-vision.md) ([GitHub](https://github.com/zhengxujosh/awesome-rag-vision))
+- Stars: 0
+- Language: Unknown
+- Description: *   Curates advanced Retrieval Augmented Generation (RAG) methodologies specifically tailored for Computer Vision (CV) applications.
+
+### 41. [devloperdevesh/EnterpriseRAG-AI](../ai/rag/devloperdevesh-enterpriserag-ai.md) ([GitHub](https://github.com/devloperdevesh/enterpriserag-ai))
 - Stars: 0
 - Language: Unknown
 - Description: *   Implements an eBPF-powered, Linux-native security and governance mesh specifically for AI agent workloads.
 
-### 41. [huggingface/text-embeddings-inference](../ai/rag/huggingface-text-embeddings-inference.md) ([GitHub](https://github.com/huggingface/text-embeddings-inference))
+### 42. [huggingface/text-embeddings-inference](../ai/rag/huggingface-text-embeddings-inference.md) ([GitHub](https://github.com/huggingface/text-embeddings-inference))
 - Stars: 0
 - Language: Unknown
 - Description: - **High-performance Rust framework** optimized for low-latency text embeddings inference, leveraging hardware acceleration (e.g., AVX-512, CUDA) for scalable throughput.
 
-### 42. [alfredodeza/azure-rag](../ai/rag/alfredodeza-azure-rag.md) ([GitHub](https://github.com/alfredodeza/azure-rag))
+### 43. [alfredodeza/azure-rag](../ai/rag/alfredodeza-azure-rag.md) ([GitHub](https://github.com/alfredodeza/azure-rag))
 - Stars: 0
 - Language: Unknown
 - Description: *   Implements a Retrieval Augmented Generation (RAG) system.
-
-### 43. [zhengxuJosh/Awesome-RAG-Vision](../ai/rag/zhengxujosh-awesome-rag-vision.md) ([GitHub](https://github.com/zhengxujosh/awesome-rag-vision))
-- Stars: 0
-- Language: Unknown
-- Description: *   Curates advanced Retrieval Augmented Generation (RAG) methodologies specifically tailored for Computer Vision (CV) applications.
 
 ### 44. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([GitHub](https://github.com/deepset-ai/haystack-cookbook))
 - Stars: 0
@@ -261,25 +261,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced a...
 
-### 47. [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md) ([GitHub](https://github.com/techwithtim/langflow-rag-tutorial))
+### 47. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
+- Stars: 0
+- Language: Unknown
+- Description: *   Provides an enhanced Langchain-based Retrieval-Augmented Generation (RAG) tutorial (v2) implemented in Python.
+
+### 48. [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md) ([GitHub](https://github.com/techwithtim/langflow-rag-tutorial))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository**: `techwithtim/Langflow-RAG-Tutorial` (98 , 26 ) – No description, topics, or language metadata provided.
 
-### 48. [chaoql/rag-best-practices](../ai/rag/chaoql-rag-best-practices.md) ([GitHub](https://github.com/chaoql/rag-best-practices))
+### 49. [chaoql/rag-best-practices](../ai/rag/chaoql-rag-best-practices.md) ([GitHub](https://github.com/chaoql/rag-best-practices))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated...
 
-### 49. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
+### 50. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
 - Stars: 0
 - Language: Unknown
 - Description: *   Provides a step-by-step educational guide for building production-ready Retrieval-Augmented Generation (RAG) applications.
-
-### 50. [deepset-ai/haystack](../ai/rag/deepset-ai-haystack.md) ([GitHub](https://github.com/deepset-ai/haystack))
-- Stars: 0
-- Language: Unknown
-- Description: - **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, an...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-08-29T13:04:08.160146+05:30.322268+05:30.926224+05:30.645784+05:30.748083+05:30.580690+05:30.004783+05:30.435575+05:30.278250+05:30.034672+05:30.957144+05:30.514279+05:30.708461+05:30.545652+05:30.062661+05:30.575367+05:30.699062+05:30.393716+05:30.999138+05:30.348829+05:30.527459+05:30.180822+05:30.285748+05:30.446233+05:30.822381+05:30.577963+05:30.799373+05:30.209137+05:30.773339+05:30.206957+05:30.657514+05:30.424178+05:30.496169+05:30.082644+05:30.312597+05:30.778695+05:30.239934+05:30.675055+05:30.066359+05:30.614432+05:30.645990+05:30.634726+05:30.461882+05:30.085890+05:30.781574+05:30.477523+05:30.010986+05:30.608110+05:30.533806+05:30.024080+05:30.292462+05:30.562240+05:30.845954+05:30.188004+05:30.902532+05:30.156453+05:30.021483+05:30.243041+05:30.200854+05:30.391434+05:30.258516+05:30.332358+05:30.712393+05:30.119751+05:30.951158+05:30.562279+05:30.281272+05:30.005634+05:30.688676+05:30.304443+05:30.882857+05:30.508725+05:30.901047+05:30.887362+05:30.484871+05:30.882897+05:30.208742+05:30.868792+05:30.468999+05:30.612524+05:30.403262+05:30.986128+05:30.675054+05:30.049078+05:30.473436+05:30.960453+05:30.491438+05:30.534831+05:30.670869+05:30.112081+05:30.740154+05:30.835258+05:30.503732+05:30.713850+05:30.860443+05:30.642284+05:30.044379+05:30.188601+05:30.542997+05:30.368961+05:30.730299+05:30.369726+05:30.792848+05:30.480025+05:30.336390+05:30.883206+05:30.546060+05:30.847445+05:30.219270+05:30.061313+05:30.184033+05:30.148270+05:30.292661+05:30.049589+05:30.813660+05:30.457437+05:30.647940+05:30.432380+05:30.913794+05:30.285011+05:30.963610+05:30.287039+05:30.441357+05:30.138698+05:30.142685+05:30.879456+05:30.854458+05:30.922839+05:30.991165+05:30.070841+05:30.130852+05:30.950912+05:30.331377+05:30.776100+05:30.148757+05:30.746610+05:30.885976+05:30.615866+05:30.233201+05:30.679885+05:30.356548+05:30.680385+05:30.866084+05:30.124201+05:30.810000+05:30.712839+05:30.825575+05:30.443894+05:30.095797+05:30.801956+05:30.099742+05:30.886164+05:30.693799+05:30.740142+05:30.553063+05:30.538335+05:30.577734+05:30.928045+05:30.992191+05:30.557213+05:30.219146+05:30.674910+05:30.812067+05:30.935216+05:30.136609+05:30.202093+05:30.629290+05:30.200275+05:30.634530+05:30.646924+05:30.221259+05:30.045576+05:30.249104+05:30.463642+05:30.949814+05:30.199077+05:30.553204+05:30.659461+05:30.239985+05:30.438302+05:30.993608+05:30.017835+05:30.929897+05:30.356684+05:30.302823+05:30.784078+05:30.370452+05:30.843565+05:30.174242+05:30.064073+05:30.681794+05:30.064890+05:30.461934+05:30.694374+05:30.158522+05:30.648850+05:30.286285+05:30.773289+05:30.483157+05:30.503374+05:30.748650+05:30.535120+05:30.506190+05:30.124877+05:30.599119+05:30.087648+05:30.464417+05:30.552675+05:30.146045+05:30.237715+05:30.793945+05:30.933847+05:30.495966+05:30.267918+05:30.169609+05:30.026066+05:30.238871+05:30.782253+05:30.001604+05:30.644801+05:30.103565+05:30.688907+05:30.242940+05:30.549646+05:30.535722+05:30.295986+05:30.029863+05:30.128532+05:30.316079+05:30.340067+05:30.897218+05:30.065209+05:30.936189+05:30.456676+05:30.208653+05:30.429233+05:30.773472+05:30.158718+05:30.665442+05:30.228801+05:30.810138+05:30.389751+05:30.736237+05:30.485769+05:30.632958+05:30.486559+05:30.732769+05:30.642301+05:30.436140+05:30.449569+05:30.087014+05:30.999975+05:30.118159+05:30.423700+05:30.783499+05:30.703770+05:30.118962+05:30.236679+05:30.384006+05:30.186093+05:30.891535+05:30.164804+05:30.046662+05:30.270865+05:30.946604+05:30.075552+05:30.478604+05:30.814458+05:30.811415+05:30.114458+05:30.108888+05:30.566526+05:30.572879+05:30.703581+05:30.178034+05:30.184557+05:30.269178+05:30.637403+05:30.157896+05:30.453953+05:30.290326+05:30.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-08-29T19:40:51.529183+05:30.160146+05:30.322268+05:30.926224+05:30.645784+05:30.748083+05:30.580690+05:30.004783+05:30.435575+05:30.278250+05:30.034672+05:30.957144+05:30.514279+05:30.708461+05:30.545652+05:30.062661+05:30.575367+05:30.699062+05:30.393716+05:30.999138+05:30.348829+05:30.527459+05:30.180822+05:30.285748+05:30.446233+05:30.822381+05:30.577963+05:30.799373+05:30.209137+05:30.773339+05:30.206957+05:30.657514+05:30.424178+05:30.496169+05:30.082644+05:30.312597+05:30.778695+05:30.239934+05:30.675055+05:30.066359+05:30.614432+05:30.645990+05:30.634726+05:30.461882+05:30.085890+05:30.781574+05:30.477523+05:30.010986+05:30.608110+05:30.533806+05:30.024080+05:30.292462+05:30.562240+05:30.845954+05:30.188004+05:30.902532+05:30.156453+05:30.021483+05:30.243041+05:30.200854+05:30.391434+05:30.258516+05:30.332358+05:30.712393+05:30.119751+05:30.951158+05:30.562279+05:30.281272+05:30.005634+05:30.688676+05:30.304443+05:30.882857+05:30.508725+05:30.901047+05:30.887362+05:30.484871+05:30.882897+05:30.208742+05:30.868792+05:30.468999+05:30.612524+05:30.403262+05:30.986128+05:30.675054+05:30.049078+05:30.473436+05:30.960453+05:30.491438+05:30.534831+05:30.670869+05:30.112081+05:30.740154+05:30.835258+05:30.503732+05:30.713850+05:30.860443+05:30.642284+05:30.044379+05:30.188601+05:30.542997+05:30.368961+05:30.730299+05:30.369726+05:30.792848+05:30.480025+05:30.336390+05:30.883206+05:30.546060+05:30.847445+05:30.219270+05:30.061313+05:30.184033+05:30.148270+05:30.292661+05:30.049589+05:30.813660+05:30.457437+05:30.647940+05:30.432380+05:30.913794+05:30.285011+05:30.963610+05:30.287039+05:30.441357+05:30.138698+05:30.142685+05:30.879456+05:30.854458+05:30.922839+05:30.991165+05:30.070841+05:30.130852+05:30.950912+05:30.331377+05:30.776100+05:30.148757+05:30.746610+05:30.885976+05:30.615866+05:30.233201+05:30.679885+05:30.356548+05:30.680385+05:30.866084+05:30.124201+05:30.810000+05:30.712839+05:30.825575+05:30.443894+05:30.095797+05:30.801956+05:30.099742+05:30.886164+05:30.693799+05:30.740142+05:30.553063+05:30.538335+05:30.577734+05:30.928045+05:30.992191+05:30.557213+05:30.219146+05:30.674910+05:30.812067+05:30.935216+05:30.136609+05:30.202093+05:30.629290+05:30.200275+05:30.634530+05:30.646924+05:30.221259+05:30.045576+05:30.249104+05:30.463642+05:30.949814+05:30.199077+05:30.553204+05:30.659461+05:30.239985+05:30.438302+05:30.993608+05:30.017835+05:30.929897+05:30.356684+05:30.302823+05:30.784078+05:30.370452+05:30.843565+05:30.174242+05:30.064073+05:30.681794+05:30.064890+05:30.461934+05:30.694374+05:30.158522+05:30.648850+05:30.286285+05:30.773289+05:30.483157+05:30.503374+05:30.748650+05:30.535120+05:30.506190+05:30.124877+05:30.599119+05:30.087648+05:30.464417+05:30.552675+05:30.146045+05:30.237715+05:30.793945+05:30.933847+05:30.495966+05:30.267918+05:30.169609+05:30.026066+05:30.238871+05:30.782253+05:30.001604+05:30.644801+05:30.103565+05:30.688907+05:30.242940+05:30.549646+05:30.535722+05:30.295986+05:30.029863+05:30.128532+05:30.316079+05:30.340067+05:30.897218+05:30.065209+05:30.936189+05:30.456676+05:30.208653+05:30.429233+05:30.773472+05:30.158718+05:30.665442+05:30.228801+05:30.810138+05:30.389751+05:30.736237+05:30.485769+05:30.632958+05:30.486559+05:30.732769+05:30.642301+05:30.436140+05:30.449569+05:30.087014+05:30.999975+05:30.118159+05:30.423700+05:30.783499+05:30.703770+05:30.118962+05:30.236679+05:30.384006+05:30.186093+05:30.891535+05:30.164804+05:30.046662+05:30.270865+05:30.946604+05:30.075552+05:30.478604+05:30.814458+05:30.811415+05:30.114458+05:30.108888+05:30.566526+05:30.572879+05:30.703581+05:30.178034+05:30.184557+05:30.269178+05:30.637403+05:30.157896+05:30.453953+05:30.290326+05:30.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.
