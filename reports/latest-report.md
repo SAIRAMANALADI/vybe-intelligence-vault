@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-31T01:12:57.300119+05:30`
+Generated at: `2026-08-31T03:55:03.873308+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Haiku R1/beta6 has been released** - Score: `151` in category `ai/community` ([Link](https://haiku-os.org/news/2026-08-26_haiku_r1_beta6)) ([File](../ai/community/haiku-r1-beta6-has-been-released.md))
-- **Electric rain can eat through metal** - Score: `54` in category `ai/community` ([Link](https://scientificamerican.com/article/electric-rain-can-eat-through-metal)) ([File](../ai/community/electric-rain-can-eat-through-metal.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **What my dad taught me about AI coding in the 90s** - Score: `99` (+77), Rank Change: `+1` ([File](../ai/community/what-my-dad-taught-me-about-ai-coding-in-the-90s.md))
-- **Longest Straight Line Paths on Water or Land on the Earth (2018)** - Score: `176` (+44), Rank Change: `+1` ([File](../ai/community/arxiv-1804-07389.md))
-- **odsc2015/agentic-hackathon-template** - Score: `0` (0), Rank Change: `+6436` ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/computer-vision.md))
-- **Audio & acoustics** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/audio-acoustics.md))
+- **yzfly/awesome-voice-agents** - Score: `0` (0), Rank Change: `+992` ([File](../ai/agents/yzfly-awesome-voice-agents.md))
+- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+992` ([File](../ai/agents/langchain-ai-open-swe.md))
+- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/nirdiamant-genai-agents.md))
+- **labring/sealos** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/labring-sealos.md))
+- **opendataloader-project/opendataloader-pdf** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/opendataloader-project-opendataloader-pdf.md))
+- **lancedb/vectordb-recipes** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/lancedb-vectordb-recipes.md))
+- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **pixegami/langchain-rag-tutorial** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **odsc2015/agentic-hackathon-template** - (Rank Change: `+6436`) ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+91`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - (Rank Change: `+91`) ([File](../ai/rag/sunsetting-create-react-app.md))
-- **The N Implementation Details of RLHF with PPO** - (Rank Change: `+43`) ([File](../ai/models/huggingface-blog-the-n-implementation-details-of-rlhf-with-ppo.md))
-- **Deploy Embedding Models with Hugging Face Inference Endpoints** - (Rank Change: `+43`) ([File](../ai/models/huggingface-blog-inference-endpoints-embeddings.md))
-- **Interactively explore your Huggingface dataset with one line of code** - (Rank Change: `+43`) ([File](../ai/models/huggingface-blog-scalable-data-inspection.md))
-- **Personal Copilot: Train Your Own Coding Assistant** - (Rank Change: `+43`) ([File](../ai/models/huggingface-blog-personal-copilot.md))
-- **Introducing Storage Regions on the HF Hub** - (Rank Change: `+43`) ([File](../ai/rag/huggingface-blog-regions.md))
-- **Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora** - (Rank Change: `+43`) ([File](../ai/models/huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md))
-- **Introducing Prodigy-HF: a direct integration with Hugging Face** - (Rank Change: `+43`) ([File](../ai/models/huggingface-blog-prodigy-hf.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21534`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9250`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+993`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Lawmakers added $1 to car insurance policies. That money paid for Flock cameras** (Category: `ai/community`) ([File](../ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md))
-- **Fair Work Commission condemns 'plain wrong' AI legal advice** (Category: `ai/community`) ([File](../ai/community/fair-work-commission-condemns-plain-wrong-ai-legal.md))
+No recently active resources transitioned to inactive.
+
