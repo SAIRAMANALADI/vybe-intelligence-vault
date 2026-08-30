@@ -1,19 +1,28 @@
 ---
-title: "sv-number/mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "Node.js", "API Integration"]
+title: sv-number/mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-08-30
+tech_stack:
+- JavaScript
+- MCP (Model Context Protocol)
+- Node.js
+- API Integration
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "SMS verification", "AI agent tools", "phone number ordering", "multi-country support"]
-source: "https://github.com/sv-number/mcp-server"
+deployment_complexity: Low
+tags:
+- MCP server
+- SMS verification
+- AI agent tools
+- phone number ordering
+- multi-country support
+source: https://github.com/sv-number/mcp-server
 stars: 532
-language: "JavaScript"
-last_updated: "2026-08-10T18:59:16Z"
-discovered_at: "2026-08-10T19:01:31Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-10T18:59:16Z'
+discovered_at: '2026-08-10T19:01:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

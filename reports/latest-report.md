@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-31T03:55:03.873308+05:30`
+Generated at: `2026-08-31T04:40:33.977259+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Commercially Available Bike Generators Are Not Sustainable** - Score: `6` in category `ai/community` ([Link](https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable)) ([File](../ai/community/commercially-available-bike-generators-are-not-sus.md))
 
 ## Top Trending Resources
 
-- **yzfly/awesome-voice-agents** - Score: `0` (0), Rank Change: `+992` ([File](../ai/agents/yzfly-awesome-voice-agents.md))
-- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+992` ([File](../ai/agents/langchain-ai-open-swe.md))
-- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **labring/sealos** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/labring-sealos.md))
-- **opendataloader-project/opendataloader-pdf** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/opendataloader-project-opendataloader-pdf.md))
-- **lancedb/vectordb-recipes** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
-- **pixegami/langchain-rag-tutorial** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
+- **Haiku R1/beta6 has been released** - Score: `220` (+69), Rank Change: `+1` ([File](../ai/community/haiku-r1-beta6-has-been-released.md))
+- **Electric rain can eat through metal** - Score: `82` (+28), Rank Change: `0` ([File](../ai/community/electric-rain-can-eat-through-metal.md))
+- **What my dad taught me about AI coding in the 90s** - Score: `123` (+24), Rank Change: `0` ([File](../ai/community/what-my-dad-taught-me-about-ai-coding-in-the-90s.md))
+- **Longest Straight Line Paths on Water or Land on the Earth (2018)** - Score: `185` (+9), Rank Change: `-1` ([File](../ai/community/arxiv-1804-07389.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1009` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+6` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+6` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - Score: `0` (0), Rank Change: `+6` ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21534`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9250`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+993`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-09123.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+1009`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+1007`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+1007`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **facebook/MusicGen** - (Rank Change: `+857`) ([File](../ai/models/huggingface-spaces-facebook.md))
+- **AP123/IllusionDiffusion** - (Rank Change: `+857`) ([File](../ai/models/huggingface-spaces-ap123.md))
+- **dalle-mini/dalle-mini** - (Rank Change: `+857`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
+- **mteb/leaderboard** - (Rank Change: `+857`) ([File](../ai/models/huggingface-spaces-mteb.md))
+- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+857`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
+- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+857`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
+- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+857`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
 
 ## 🔄 Essential Tier Transitions
 

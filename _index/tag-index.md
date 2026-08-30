@@ -5362,6 +5362,7 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Commercially Available Bike Generators Are Not Sustainable](../ai/community/commercially-available-bike-generators-are-not-sus.md)
   - [Electric rain can eat through metal](../ai/community/electric-rain-can-eat-through-metal.md)
   - [Haiku R1/beta6 has been released](../ai/community/haiku-r1-beta6-has-been-released.md)
   - [Longest Straight Line Paths on Water or Land on the Earth (2018)](../ai/community/arxiv-1804-07389.md)
@@ -11642,6 +11643,7 @@ Resources organized by keyword tags.
   - [Paritok-4B: Intent-Conditioned Context Compression for Coding Agents](../ai/agents/arxiv-2608-24188.md)
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass the Baton: Trajectory-Relayed On-Policy Distillation](../ai/rag/arxiv-2607-26057.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates](../ai/rag/arxiv-2607-05483.md)
@@ -22032,6 +22034,7 @@ Resources organized by keyword tags.
   - [Combining Retrieval-Augmented Text Generation with LLMs for Reading Content Recommendations](../ai/rag/arxiv-2606-14817.md)
   - [Commercial UAV Expo | Drone Conference & Trade Show](../ai/resources/commercial-uav-expo-drone-conference-trade-show.md)
   - [Commercial UAV News](../ai/rag/commercial-uav-news.md)
+  - [Commercially Available Bike Generators Are Not Sustainable](../ai/community/commercially-available-bike-generators-are-not-sus.md)
   - [CommonMark](../ai/resources/commonmark.md)
   - [CommonMark Spec](../ai/resources/commonmark-spec.md)
   - [Communicating Credit Risk with Large Language Models: Evaluation of Explanations from Standard and Alternative Data-Based Models](../ai/research/arxiv-2608-17715.md)
@@ -24579,6 +24582,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -50507,6 +50511,7 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md)
@@ -53041,4 +53046,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-31T01:10:07.400766+05:30*
+*Index generated on 2026-08-31T04:38:35.161541+05:30*

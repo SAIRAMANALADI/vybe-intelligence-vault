@@ -1,19 +1,34 @@
 ---
-title: "Mehrvarz24/skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "YAML", "Bash", "Hermes Agent", "Git", "LaTeX", "HuggingFace Hub", "llama.cpp", "vLLM", "W&B"]
+title: Mehrvarz24/skills
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-08-30
+tech_stack:
+- Python
+- YAML
+- Bash
+- Hermes Agent
+- Git
+- LaTeX
+- HuggingFace Hub
+- llama.cpp
+- vLLM
+- W&B
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["agent-skills", "modular-skills", "hermes-agent", "ai-workflows", "production-ready"]
-source: "https://github.com/Mehrvarz24/skills"
+deployment_complexity: Low
+tags:
+- agent-skills
+- modular-skills
+- hermes-agent
+- ai-workflows
+- production-ready
+source: https://github.com/Mehrvarz24/skills
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T19:31:41Z"
-discovered_at: "2026-08-04T19:32:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T19:31:41Z'
+discovered_at: '2026-08-04T19:32:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

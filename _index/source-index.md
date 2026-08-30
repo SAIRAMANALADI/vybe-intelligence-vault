@@ -20050,6 +20050,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Commercially Available Bike Generators Are Not Sustainable](../ai/community/commercially-available-bike-generators-are-not-sus.md)
   - [Electric rain can eat through metal](../ai/community/electric-rain-can-eat-through-metal.md)
   - [Haiku R1/beta6 has been released](../ai/community/haiku-r1-beta6-has-been-released.md)
   - [Longest Straight Line Paths on Water or Land on the Earth (2018)](../ai/community/arxiv-1804-07389.md)
@@ -23878,4 +23879,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-31T01:10:07.654296+05:30*
+*Index generated on 2026-08-31T04:38:35.362470+05:30*

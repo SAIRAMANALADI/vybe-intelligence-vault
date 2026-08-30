@@ -32269,6 +32269,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `creative_dev`, `hackernews`, `producthunt`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.expouav.com>
 
+* **[Commercially Available Bike Generators Are Not Sustainable](ai/community/commercially-available-bike-generators-are-not-sus.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by baud147258. Score: 6, Comments: 2. Original Link: https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable>
+
 * **[Community Guide](ai/resources/community-guide.md)** (`tutorial` | `useful` tier)
   * Summary: - **Engine & Performance**: Jupyter Book 2 is built on the MyST Document Engine, offering faster builds, modern features, and improved workflows compared to JB1. - **Core Capabilities**: Supports reusable, reproducible, and interactive computational
   * Tags: `models`, `reddit`, `web-crawled`, `workflows`
@@ -32458,6 +32463,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: * Provides Python-based agentic workflow templates for DataRobot's platform. * Leverages `crewai`, `langgraph`, `llamaindex`, and `llm` for constructing AI agentic systems. * Facilitates integration of advanced LLM orchestration frameworks within the
   * Tags: `agents`, `github-repo`, `meta-ai`, `models`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/datarobot-community/datarobot-agent-templates>
+
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive LLM application development tutorial, targeting foundational understanding for new developers. * Employs LangChain for orchestrating LLM workflows and RAG (Retrieval-Augmented Generation) for enhanced information retrieval. * Content
+  * Tags: `github-repo`, `jupyter notebook`, `rag`, `workflows`
+  * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[DCD: Domain-Oriented Design for Controlled Retrieval-Augmented Generation](ai/rag/arxiv-2604-07590.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.07590v2 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) is widely used to ground large language models in external knowledge sources. However, when applied to heterogeneous corpora and multi-step queries, Naive
@@ -32760,7 +32770,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.elastic.co/elasticsearch/>
 
 * **[Electric rain can eat through metal](ai/community/electric-rain-can-eat-through-metal.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sohkamyung. Score: 54, Comments: 10. Original Link: https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/
+  * Summary: Hacker News story by sohkamyung. Score: 82, Comments: 15. Original Link: https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://scientificamerican.com/article/electric-rain-can-eat-through-metal>
 
@@ -33535,7 +33545,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.20364>
 
 * **[Haiku R1/beta6 has been released](ai/community/haiku-r1-beta6-has-been-released.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by metrofun. Score: 151, Comments: 39. Original Link: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6
+  * Summary: Hacker News story by metrofun. Score: 220, Comments: 64. Original Link: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6
   * Tags: `ai`, `hackernews`
   * Source URL: <https://haiku-os.org/news/2026-08-26_haiku_r1_beta6>
 
@@ -34205,7 +34215,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.08964>
 
 * **[Longest Straight Line Paths on Water or Land on the Earth (2018)](ai/community/arxiv-1804-07389.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by joebig. Score: 176, Comments: 51. Original Link: https://arxiv.org/abs/1804.07389
+  * Summary: Hacker News story by joebig. Score: 185, Comments: 56. Original Link: https://arxiv.org/abs/1804.07389
   * Tags: `ai`, `hackernews`
   * Source URL: <https://arxiv.org/abs/1804.07389>
 
@@ -36324,7 +36334,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.29090>
 
 * **[What my dad taught me about AI coding in the 90s](ai/community/what-my-dad-taught-me-about-ai-coding-in-the-90s.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by askmike. Score: 99, Comments: 49. Original Link: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/
+  * Summary: Hacker News story by askmike. Score: 123, Comments: 65. Original Link: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad>
 
@@ -58720,7 +58730,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google>
 
 * **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2778, Downloads: 77711078)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2791, Downloads: 77711078)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
@@ -69381,7 +69391,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.12810>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7641, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7642, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -80984,7 +80994,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5295, Downloads: 255115397)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5311, Downloads: 255115397)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -98887,7 +98897,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/BAAI/bge-reranker-v2-m3>
 
 * **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 539, Downloads: 68802651)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 540, Downloads: 68802651)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
@@ -101722,19 +101732,14 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides a comprehensive, practical guide for full-stack Retrieval Augmented Generation (R
-  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
+  * Summary: * Comprehensive full-stack guide to Retrieval Augmented Generation (RAG) technology. *
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
   * Summary: - **Repository Overview**: GitHub repository `datawhalechina/hello-agents` provides a comprehensive tutorial (`《从零开始构建智能体》`) on building AI agents from scratch, covering principles and practical implementations. - **Technical Scope**: Focuses on agen
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
-
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive LLM application development tutorial leveraging LangChain and RAG architectures. * Implemented
-  * Tags: `github-repo`, `jupyter notebook`, `rag`
-  * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
   * Summary: - **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments. - **Tutorial Integration**: Pro
@@ -111281,8 +111286,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * Introduces RAGTruth, a specialized corpus engineered for identifying and quantifying hallucinations within Retrieval
-  * Tags: `github-repo`, `python`, `rag`
+  * Summary: * Introduces RAGTruth, a specialized corpus designed for the identification and quantification of hallucinations in Retrieval-Augmented Language Models (RAGs). * Aims to enhance the trustworthiness of RAG systems by providing a benchmark for factual
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[PAS-QFL: Personalized Ansatz Selection for Quantum Federated Learning under Client Data Heterogeneity](ai/rag/arxiv-2608-14995.md)** (`framework` | `useful` tier)
@@ -112621,7 +112626,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.20845>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`, indicating static site generation.
+  * Summary: * GitHub repository `raganwald/raganwald.github.com` hosts the Jekyll
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
