@@ -13,13 +13,14 @@ collected_at: '2026-08-30T04:14:36.019337+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:stemdeckapp/stemdeck
 first_seen: '2026-08-29T12:41:45.569166+05:30'
 last_seen: '2026-08-30T04:14:36.019337+05:30'
 last_checked: '2026-08-30T04:14:36.019337+05:30'
 health_score: 100
 ---
+
 
 # StemDeck, a free, open-source and local AI stem separator
 

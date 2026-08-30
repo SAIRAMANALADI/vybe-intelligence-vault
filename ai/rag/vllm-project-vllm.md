@@ -13,13 +13,14 @@ collected_at: '2026-08-30T04:14:31.999814+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:vllm-project/vllm
 first_seen: '2026-08-01T16:31:14.378608+05:30'
 last_seen: '2026-08-30T04:14:31.999814+05:30'
 last_checked: '2026-08-30T04:14:31.999814+05:30'
 health_score: 100
 ---
+
 
 # vLLM v0.28.0
 

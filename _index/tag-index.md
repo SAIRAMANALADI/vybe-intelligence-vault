@@ -5365,7 +5365,8 @@ Resources organized by keyword tags.
 
   - [Domain-Driven Agents](../ai/community/domain-driven-agents.md)
   - [Good Culture Is the Biggest Productivity Hack, Not AI](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md)
-  - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
+  - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](../ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md)
+  - [Open Oscar Server: open-source server compatible with AIM and ICQ clients](../ai/community/mk6i-open-oscar-server.md)
 
 ## animation
 
@@ -23028,6 +23029,7 @@ Resources organized by keyword tags.
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
+  - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](../ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -23404,6 +23406,7 @@ Resources organized by keyword tags.
   - [Online Safety Prize Challenge (Low-Resource Detection of Harmful Memes with Social Bias) - AI Singapore](../ai/resources/online-safety-prize-challenge-low-resource-detecti.md)
   - [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](../ai/research/arxiv-2607-22513.md)
   - [Open Government Licence](../ai/rag/open-government-licence.md)
+  - [Open Oscar Server: open-source server compatible with AIM and ICQ clients](../ai/community/mk6i-open-oscar-server.md)
   - [Open Source Guides | Learn how to launch and grow your project.](../ai/rag/open-source-guides-learn-how-to-launch-and-grow-yo.md)
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
@@ -23900,7 +23903,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
+  - [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](../ai/community/gbin-defragger.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -24002,7 +24005,6 @@ Resources organized by keyword tags.
   - [Steerable Cultural Preference Optimization of Reward Models](../ai/research/arxiv-2606-18606.md)
   - [Steering Emotional Dynamics for Art Therapy: Controllable Narrative Script Generation through Hierarchically Guided LLM Agents](../ai/agents/arxiv-2606-16481.md)
   - [Steering Neural Network Training through Interpretable Constraints Based on Partial Dependence](../ai/rag/arxiv-2607-08641.md)
-  - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
   - [Step-Tagging: Toward controlling the generation of Language Reasoning Models through step monitoring](../ai/research/arxiv-2512-14332.md)
   - [Stochastic Counterdiabatic Driving via Biorthogonal Liouvillian Eigenmodes](../ai/research/arxiv-2607-24393.md)
   - [Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems](../ai/research/arxiv-2607-19357.md)
@@ -24747,7 +24749,6 @@ Resources organized by keyword tags.
   - [typing â Support for type hints — Python 3.14.7 documentation](../ai/rag/typing-a-support-for-type-hints-python-3-14-7-docu.md)
   - [uber/ADR](../ai/agents/uber-adr.md)
   - [unstructuredio (unstructured.io)](../ai/resources/unstructuredio-unstructured-io.md)
-  - [vLLM v0.28.0](../ai/rag/vllm-project-vllm.md)
   - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog](../ai/rag/vllm-easy-fast-and-cheap-llm-serving-with-pagedatt.md)
   - [vercel-labs/agent-browser](../ai/rag/vercel-labs-agent-browser.md)
   - [vercel-labs/knowledge-agent-template](../ai/rag/vercel-labs-knowledge-agent-template.md)
@@ -25292,10 +25293,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [vLLM v0.28.0](../ai/rag/vllm-project-vllm.md)
 
 ## mdx
 
@@ -41638,6 +41635,7 @@ Resources organized by keyword tags.
   - [Sheet As Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding](../ai/rag/arxiv-2605-05811.md)
   - [Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning](../ai/rag/arxiv-2607-07844.md)
   - [Shift-Aware Calibration for Fine-Tuned CLIP: Leveraging Image-Text Alignment](../ai/rag/arxiv-2501-19060.md)
+  - [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](../ai/community/gbin-defragger.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shrinkage priors for Bayesian Substitute Confounders](../ai/rag/arxiv-2606-18535.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -45879,7 +45877,6 @@ Resources organized by keyword tags.
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Selection Bias Correction in Retail Intelligence](../ai/research/arxiv-2608-26156.md)
   - [Shift-Invariant Attribute Scoring for Kolmogorov-Arnold Networks via Shapley Value](../ai/research/arxiv-2510-01663.md)
-  - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
   - [Snowflake Status](../ai/rag/snowflake-status.md)
   - [SparseKAN: Compressing Kolmogorov--Arnold Networks Across Basis Functions, Neurons, and Bits](../ai/research/arxiv-2608-00859.md)
   - [SplineNet: An Isogeometric Deep Learning Method for Complex Shells](../ai/research/arxiv-2607-06026.md)
@@ -48913,10 +48910,6 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
-
-## webgpu
-
-  - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
 
 ## workflows
 
@@ -53057,4 +53050,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-30T04:30:43.256419+05:30*
+*Index generated on 2026-08-30T11:18:26.246153+05:30*

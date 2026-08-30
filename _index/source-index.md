@@ -20052,9 +20052,9 @@ Resources organized by publisher feed and query sources.
 
   - [Domain-Driven Agents](../ai/community/domain-driven-agents.md)
   - [Good Culture Is the Biggest Productivity Hack, Not AI](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md)
-  - [Show HN: Galaxium, an experimental WebGPU space explorer](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md)
-  - [StemDeck, a free, open-source and local AI stem separator](../ai/community/stemdeckapp-stemdeck.md)
-  - [vLLM v0.28.0](../ai/rag/vllm-project-vllm.md)
+  - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](../ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md)
+  - [Open Oscar Server: open-source server compatible with AIM and ICQ clients](../ai/community/mk6i-open-oscar-server.md)
+  - [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](../ai/community/gbin-defragger.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -23879,4 +23879,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-30T04:30:43.511737+05:30*
+*Index generated on 2026-08-30T11:18:26.509343+05:30*

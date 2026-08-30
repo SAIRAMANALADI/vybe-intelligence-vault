@@ -14,13 +14,14 @@ tags:
 - hackernews
 - threejs
 - webgpu
-status: active
+status: inactive
 resource_id: hackernews:show-hn-galaxium-an-experimental-webgpu-space-expl
 first_seen: '2026-08-29T19:25:06.514117+05:30'
 last_seen: '2026-08-30T04:14:35.908474+05:30'
 last_checked: '2026-08-30T04:14:35.908474+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Galaxium, an experimental WebGPU space explorer
 
