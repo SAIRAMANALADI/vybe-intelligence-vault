@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-30T04:33:32.685586+05:30`
+Generated at: `2026-08-30T08:15:38.798786+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Domain-Driven Agents** - Score: `25` in category `ai/community` ([Link](https://coldtake.dev/blog/domain-driven-agents)) ([File](../ai/community/domain-driven-agents.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Good Culture Is the Biggest Productivity Hack, Not AI** - Score: `191` (+124), Rank Change: `+3` ([File](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md))
-- **vLLM v0.28.0** - Score: `71` (+71), Rank Change: `+9931` ([File](../ai/rag/vllm-project-vllm.md))
-- **Show HN: Galaxium, an experimental WebGPU space explorer** - Score: `99` (+19), Rank Change: `0` ([File](../web-development/community/show-hn-galaxium-an-experimental-webgpu-space-expl.md))
-- **StemDeck, a free, open-source and local AI stem separator** - Score: `191` (+8), Rank Change: `0` ([File](../ai/community/stemdeckapp-stemdeck.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/graphics-multimedia.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **sierra-research/tau2-bench** - Score: `0` (0), Rank Change: `+992` ([File](../ai/agents/sierra-research-tau2-bench.md))
+- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+992` ([File](../ai/agents/langchain-ai-open-swe.md))
+- **XMUDeepLIT/MemGraphRAG** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/xmudeeplit-memgraphrag.md))
+- **apecloud/ApeRAG** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/apecloud-aperag.md))
+- **techwithtim/ProductionGradeRAGPythonApp** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/techwithtim-productiongraderagpythonapp.md))
+- **IntelLabs/fastRAG** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/intellabs-fastrag.md))
+- **QuivrHQ/quivr** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/quivrhq-quivr.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **vLLM v0.28.0** - (Rank Change: `+9931`) ([File](../ai/rag/vllm-project-vllm.md))
-- **hf-doc-build/doc-build-dev** - (Rank Change: `+853`) ([File](../ai/models/huggingface-datasets-hf-doc-build.md))
-- **allenai/c4** - (Rank Change: `+853`) ([File](../ai/models/huggingface-datasets-allenai.md))
-- **banned-historical-archives/banned-historical-archives** - (Rank Change: `+853`) ([File](../ai/models/huggingface-datasets-banned-historical-archives.md))
-- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+853`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
-- **ayuo/hd_tmp** - (Rank Change: `+853`) ([File](../ai/models/huggingface-datasets-ayuo.md))
-- **xlangai/ubuntu_osworld_file_cache** - (Rank Change: `+853`) ([File](../ai/models/huggingface-datasets-xlangai.md))
-- **Salesforce/wikitext** - (Rank Change: `+853`) ([File](../ai/models/huggingface-datasets-salesforce.md))
-- **k9cli/video-vec2wav2-tokenizer** - (Rank Change: `+853`) ([File](../ai/models/huggingface-datasets-k9cli.md))
-- **huggingface/documentation-images** - (Rank Change: `+853`) ([File](../ai/models/huggingface-datasets-huggingface.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21542`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9250`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+993`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **I accidentally turned LLM memory into program analysis** (Category: `ai/community`) ([File](../ai/community/i-accidentally-turned-llm-memory-into-program-anal.md))
-- **The growing divide between AI hype and software engineering reality** (Category: `ai/community`) ([File](../ai/community/the-growing-divide-between-ai-hype-and-software-en.md))
-- **Warp builds self-improving agents on Claude** (Category: `ai/community`) ([File](../ai/community/warp-builds-self-improving-agents-on-claude.md))
+No recently active resources transitioned to inactive.
+
